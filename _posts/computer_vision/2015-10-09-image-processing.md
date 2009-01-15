@@ -14,6 +14,7 @@ date: 2015-10-09
 **Poisson Blending II**
 
 - blog: [http://eric-yuan.me/poisson-blending-2/](http://eric-yuan.me/poisson-blending-2/)
+- code: [http://codepad.org/ANqtikKR](http://codepad.org/ANqtikKR)
 
 **Solving the Discrete Poisson Equation using Jacobi, SOR, Conjugate Gradients, and the FFT**
 
