@@ -31,9 +31,12 @@ date: 2015-10-09
 
 [http://apaszke.github.io/lstm-explained.html](http://apaszke.github.io/lstm-explained.html)
 
-**Recurrent Neural Networks Tutorial, Part 1 – Introduction to RNNs**
+**Recurrent Neural Networks Tutorial**
 
-[http://www.wildml.com/2015/09/recurrent-neural-networks-tutorial-part-1-introduction-to-rnns/](http://www.wildml.com/2015/09/recurrent-neural-networks-tutorial-part-1-introduction-to-rnns/)
+- Part 1(Introduction to RNNs): [http://www.wildml.com/2015/09/recurrent-neural-networks-tutorial-part-1-introduction-to-rnns/](http://www.wildml.com/2015/09/recurrent-neural-networks-tutorial-part-1-introduction-to-rnns/)
+- Part 2(Implementing a RNN using Python and Theano): [http://www.wildml.com/2015/09/recurrent-neural-networks-tutorial-part-2-implementing-a-language-model-rnn-with-python-numpy-and-theano/](http://www.wildml.com/2015/09/recurrent-neural-networks-tutorial-part-2-implementing-a-language-model-rnn-with-python-numpy-and-theano/)
+- Part 3(Understanding the Backpropagation Through Time (BPTT) algorithm): [http://www.wildml.com/2015/10/recurrent-neural-networks-tutorial-part-3-backpropagation-through-time-and-vanishing-gradients/](http://www.wildml.com/2015/10/recurrent-neural-networks-tutorial-part-3-backpropagation-through-time-and-vanishing-gradients/)
+- Part 4(Implementing a GRU/LSTM RNN): [http://www.wildml.com/2015/10/recurrent-neural-network-tutorial-part-4-implementing-a-grulstm-rnn-with-python-and-theano/](http://www.wildml.com/2015/10/recurrent-neural-network-tutorial-part-4-implementing-a-grulstm-rnn-with-python-and-theano/)
 
 **Understanding LSTM Networks**
 
