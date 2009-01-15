@@ -104,3 +104,9 @@ date: 2015-10-09
 "Visualizing GoogLeNet Classes"
 
 [http://auduno.com/post/125362849838/visualizing-googlenet-classes](http://auduno.com/post/125362849838/visualizing-googlenet-classes)
+
+**Visualizing CNN architectures side by side with mxnet**
+
+![](http://josephpcohen.com/w/wp-content/uploads/Screen-Shot-2016-01-14-at-11.25.15-AM-638x300.png)
+
+- blog: [http://josephpcohen.com/w/visualizing-cnn-architectures-side-by-side-with-mxnet/](http://josephpcohen.com/w/visualizing-cnn-architectures-side-by-side-with-mxnet/)
