@@ -106,6 +106,11 @@ date: 2015-09-12
 
 - blog: [http://www.computervisionblog.com/2016/01/why-slam-matters-future-of-real-time.html?m=1](http://www.computervisionblog.com/2016/01/why-slam-matters-future-of-real-time.html?m=1)
 
+**一起做RGB-D SLAM**
+
+- blog: [http://www.cnblogs.com/gaoxiang12/tag/%E4%B8%80%E8%B5%B7%E5%81%9ARGB-D%20SLAM/](http://www.cnblogs.com/gaoxiang12/tag/%E4%B8%80%E8%B5%B7%E5%81%9ARGB-D%20SLAM/)
+- github: [https://github.com/gaoxiang12/rgbd-slam-tutorial-gx](https://github.com/gaoxiang12/rgbd-slam-tutorial-gx)
+
 # Applications
 
 **Target acquired: Finding targets in drone and quadcopter video streams using Python and OpenCV**
