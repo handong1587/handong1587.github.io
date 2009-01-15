@@ -15,6 +15,11 @@ date: 2015-10-09
 
 - blog: [http://eric-yuan.me/poisson-blending-2/](http://eric-yuan.me/poisson-blending-2/)
 
+**Solving the Discrete Poisson Equation using Jacobi, SOR, Conjugate Gradients, and the FFT**
+
+- intro: CS267: Lectures 15 and 16, Mar 5 and 7 1996
+- lecture: [http://www.cs.berkeley.edu/~demmel/cs267/lecture24/lecture24.html](http://www.cs.berkeley.edu/~demmel/cs267/lecture24/lecture24.html)
+
 # Image Cloning
 
 **Coordinates for Instant Image Cloning (SIGGRAPH 2009)**
