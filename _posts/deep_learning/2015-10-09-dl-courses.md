@@ -40,6 +40,10 @@ date: 2015-07-01
 - course content: [http://info.usherbrooke.ca/hlarochelle/neural_networks/content.html](http://info.usherbrooke.ca/hlarochelle/neural_networks/content.html)
 - google group: [https://groups.google.com/forum/#!forum/neural-networks-online-course](https://groups.google.com/forum/#!forum/neural-networks-online-course)
 
+**CMU: Deep Learning (Instructor: Bhiksha Raj)**
+
+- homepage: [http://deeplearning.cs.cmu.edu/](http://deeplearning.cs.cmu.edu/)
+
 # Computer Vision
 
 **Stanford CS231n: Convolutional Neural Networks for Visual Recognition**
