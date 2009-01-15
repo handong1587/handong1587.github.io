@@ -45,6 +45,10 @@ date: 2015-09-12
 - arxiv: [http://arxiv.org/abs/1601.00595](http://arxiv.org/abs/1601.00595)
 - code(Matlab): [http://bouboulis.mysch.gr/kernels.html](http://bouboulis.mysch.gr/kernels.html)
 
+**Blind Image Denoising via Dependent Dirichlet Process Tree**
+
+- arxiv: [http://arxiv.org/abs/1601.03117](http://arxiv.org/abs/1601.03117)
+
 - - -
 
 **Computer Vision Datasets**
