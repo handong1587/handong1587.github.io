@@ -44,6 +44,11 @@ date: 2015-07-01
 
 - homepage: [http://deeplearning.cs.cmu.edu/](http://deeplearning.cs.cmu.edu/)
 
+**University of Waterloo: STAT 946 - Deep Learning**
+
+- homepage: [https://uwaterloo.ca/data-science/deep-learning](https://uwaterloo.ca/data-science/deep-learning)
+- video+slides: [http://pan.baidu.com/s/1sjTRgjN](http://pan.baidu.com/s/1sjTRgjN)
+
 # Computer Vision
 
 **Stanford CS231n: Convolutional Neural Networks for Visual Recognition**
