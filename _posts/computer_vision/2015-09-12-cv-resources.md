@@ -49,6 +49,13 @@ date: 2015-09-12
 
 - arxiv: [http://arxiv.org/abs/1601.03117](http://arxiv.org/abs/1601.03117)
 
+# Painting
+
+**Real-Time Gradient-Domain Painting (SIGGRAPH 2009)**
+
+- homepage: [http://graphics.cs.cmu.edu/projects/gradient-paint/](http://graphics.cs.cmu.edu/projects/gradient-paint/)
+- paper: [http://graphics.cs.cmu.edu/projects/gradient-paint/grad.light.r2226.pdf](http://graphics.cs.cmu.edu/projects/gradient-paint/grad.light.r2226.pdf)
+
 - - -
 
 **Computer Vision Datasets**
