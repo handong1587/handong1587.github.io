@@ -127,11 +127,13 @@ Bicubic VS. Shepard CNN
 - paper: [http://colinraffel.com/publications/aaai2016poker.pdf](http://colinraffel.com/publications/aaai2016poker.pdf)
 - github: [https://github.com/moscow25/deep_draw](https://github.com/moscow25/deep_draw)
 
+# Blogs
+
 **Automatic Colorization (Tensorflow + VGG)**
 
 - blog: [http://tinyclouds.org/colorize/](http://tinyclouds.org/colorize/)
 
-# Code
+# Codes
 
 **ConvNetJS: a Javascript implementation of Neural networks**
 
