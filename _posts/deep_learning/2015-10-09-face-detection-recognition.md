@@ -46,7 +46,10 @@ date: 2015-10-09
 
 **WIDER FACE: A Face Detection Benchmark**
 
+![](http://mmlab.ie.cuhk.edu.hk/projects/WIDERFace/support/intro.jpg)
+
 - arXiv: [http://arxiv.org/abs/1511.06523](http://arxiv.org/abs/1511.06523)
+- homepage: [http://mmlab.ie.cuhk.edu.hk/projects/WIDERFace/](http://mmlab.ie.cuhk.edu.hk/projects/WIDERFace/)
 
 **The MegaFace Benchmark: 1 Million Faces for Recognition at Scale**
 
