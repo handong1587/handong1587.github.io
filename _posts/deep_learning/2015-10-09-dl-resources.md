@@ -392,6 +392,11 @@ with fast exact probabilistic inference over many layers."
 - arxiv: [http://arxiv.org/abs/1601.02970](http://arxiv.org/abs/1601.02970)
 - demo: [http://brainmodels.csail.mit.edu/dnn/drawCNN/](http://brainmodels.csail.mit.edu/dnn/drawCNN/)
 
+**Deep-Spying: Spying using Smartwatch and Deep Learning**
+
+- arxiv: [http://arxiv.org/abs/1512.05616](http://arxiv.org/abs/1512.05616)
+- github: [https://github.com/tonybeltramelli/Deep-Spying](https://github.com/tonybeltramelli/Deep-Spying)
+
 # Codes
 
 **deepnet: Implementation of some deep learning algorithms**
