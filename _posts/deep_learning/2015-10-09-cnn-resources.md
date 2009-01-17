@@ -105,10 +105,10 @@ Bicubic VS. Shepard CNN
 
 **NetVLAD: CNN architecture for weakly supervised place recognition**
 
-<img src="/assets/dl-materials/NetVLAD_teaser.png" />
+![](http://www.di.ens.fr/willow/research/netvlad/images/teaser.png)
 
 - arXiv: [http://arxiv.org/abs/1511.07247](http://arxiv.org/abs/1511.07247)
-- github: [http://www.di.ens.fr/willow/research/netvlad/](http://www.di.ens.fr/willow/research/netvlad/)
+- homepage: [http://www.di.ens.fr/willow/research/netvlad/](http://www.di.ens.fr/willow/research/netvlad/)
 
 **Im2Calories: towards an automated mobile vision food diary**
 
@@ -121,6 +121,11 @@ Bicubic VS. Shepard CNN
 **Learning Human Identity from Motion Patterns**
 
 - arxiv: [http://arxiv.org/abs/1511.03908](http://arxiv.org/abs/1511.03908)
+
+**Poker-CNN: A Pattern Learning Strategy for Making Draws and Bets in Poker Games Using Convolutional Networks**
+
+- paper: [http://colinraffel.com/publications/aaai2016poker.pdf](http://colinraffel.com/publications/aaai2016poker.pdf)
+- github: [https://github.com/moscow25/deep_draw](https://github.com/moscow25/deep_draw)
 
 **Automatic Colorization (Tensorflow + VGG)**
 
