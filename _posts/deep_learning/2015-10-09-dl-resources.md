@@ -95,6 +95,11 @@ date: 2015-10-09
 
 [http://www.denizyuret.com/2015/03/alec-radfords-animations-for.html](http://www.denizyuret.com/2015/03/alec-radfords-animations-for.html)
 
+**Faster Asynchronous SGD (FASGD)**
+
+- arxiv: [http://arxiv.org/abs/1601.04033](http://arxiv.org/abs/1601.04033)
+- github: [https://github.com/DoctorTeeth/fred](https://github.com/DoctorTeeth/fred)
+
 # Activation functions
 
 **Delving Deep into Rectifiers: Surpassing Human-Level Performance on ImageNet Classification (PReLU)**
