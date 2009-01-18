@@ -42,6 +42,10 @@ date: 2015-10-09
 - homepage: [http://apollocaffe.com/](http://apollocaffe.com/)
 - github: [http://github.com/Russell91/apollocaffe](http://github.com/Russell91/apollocaffe)
 
+**The Caffe Deep Learning Framework: An Interview with the Core Developers**
+
+- blog: [http://www.embedded-vision.com/industry-analysis/technical-articles/caffe-deep-learning-framework-interview-core-developers](http://www.embedded-vision.com/industry-analysis/technical-articles/caffe-deep-learning-framework-interview-core-developers)
+
 - - -
 
 **OpenCV 3.0.0-dev: Load Caffe framework models**
