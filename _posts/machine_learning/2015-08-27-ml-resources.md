@@ -209,6 +209,11 @@ Other awesome lists can be found in this [list](https://github.com/sindresorhus/
 - project: [https://lts2.epfl.ch/blog/nauman/recent-projects/](https://lts2.epfl.ch/blog/nauman/recent-projects/)
 - code: [http://pan.baidu.com/s/1gepgIUv](http://pan.baidu.com/s/1gepgIUv)
 
+**Feature Reduction using SVD**
+
+- blog: [http://blog.applied.ai/feature-reduction-using-svd/](http://blog.applied.ai/feature-reduction-using-svd/)
+- ipn: [http://nbviewer.jupyter.org/urls/bitbucket.org/appliedai/appliedai_svd/raw/02901de3aaa01be7b4536f484401113ddd5da8a9/01_FeatureReduction.ipynb](http://nbviewer.jupyter.org/urls/bitbucket.org/appliedai/appliedai_svd/raw/02901de3aaa01be7b4536f484401113ddd5da8a9/01_FeatureReduction.ipynb)
+
 # Convex Optimization
 
 **Convex Optimization: Algorithms and Complexity**
