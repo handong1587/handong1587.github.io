@@ -2,7 +2,7 @@
 layout: post
 category: reading_and_thoughts
 title: Reading Materials
-date: 2015-12-21
+date: 2016-01-18
 ---
 
 **A PhD Is Not Enough! - A Guide to Survival in Science**
