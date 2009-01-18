@@ -262,6 +262,15 @@ Other awesome lists can be found in this [list](https://github.com/sindresorhus/
 
 - arxiv: [http://arxiv.org/abs/1601.01974](http://arxiv.org/abs/1601.01974)
 
+# Visualization
+
+**Visualising High-Dimensional Data**
+
+![](http://blog.applied.ai/content/images/2015/06/Unknown-1.png)
+
+- blog: [http://blog.applied.ai/visualising-high-dimensional-data/](http://blog.applied.ai/visualising-high-dimensional-data/)
+- ipn("t-SNE Demo"): [https://s3-eu-west-1.amazonaws.com/appliedai.static/tsnedemo/htmlrenders/01_EndToEnd_DataViz.html](https://s3-eu-west-1.amazonaws.com/appliedai.static/tsnedemo/htmlrenders/01_EndToEnd_DataViz.html)
+
 # Tricks
 
 **Machine Learning Trick of the Day**
