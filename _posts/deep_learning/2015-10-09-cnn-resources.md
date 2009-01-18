@@ -127,6 +127,18 @@ Bicubic VS. Shepard CNN
 - paper: [http://colinraffel.com/publications/aaai2016poker.pdf](http://colinraffel.com/publications/aaai2016poker.pdf)
 - github: [https://github.com/moscow25/deep_draw](https://github.com/moscow25/deep_draw)
 
+**DEX: Deep EXpectation of apparent age from a single image (ICCV 2015)**
+
+![](https://data.vision.ee.ethz.ch/cvl/rrothe/imdb-wiki/static/img/pipeline.png)
+
+- paper: [https://www.vision.ee.ethz.ch/en/publications/papers/proceedings/eth_biwi_01229.pdf](https://www.vision.ee.ethz.ch/en/publications/papers/proceedings/eth_biwi_01229.pdf)
+- homepage: [https://data.vision.ee.ethz.ch/cvl/rrothe/imdb-wiki/](https://data.vision.ee.ethz.ch/cvl/rrothe/imdb-wiki/)
+
+**Some like it hot - visual guidance for preference prediction**
+
+- arxiv: [http://arxiv.org/abs/1510.07867](http://arxiv.org/abs/1510.07867)
+- demo: [http://howhot.io/](http://howhot.io/)
+
 # Blogs
 
 **Automatic Colorization (Tensorflow + VGG)**
