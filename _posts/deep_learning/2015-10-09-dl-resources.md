@@ -66,15 +66,20 @@ date: 2015-10-09
 
 - paper: [http://www.icml-2011.org/papers/210_icmlpaper.pdf](http://www.icml-2011.org/papers/210_icmlpaper.pdf)
 
-**Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift**
-
-- arXiv: [http://arxiv.org/abs/1502.03167](http://arxiv.org/abs/1502.03167)
-- blog: [https://standardfrancis.wordpress.com/2015/04/16/batch-normalization/](https://standardfrancis.wordpress.com/2015/04/16/batch-normalization/)
-
 **Flattened Convolutional Neural Networks for Feedforward Acceleration(ICLR 2015)**
 
 - arXiv: [http://arxiv.org/abs/1412.5474](http://arxiv.org/abs/1412.5474)
 - github: [https://github.com/jhjin/flattened-cnn](https://github.com/jhjin/flattened-cnn)
+
+**Invariant backpropagation: how to train a transformation-invariant neural network**
+
+- arxiv: [http://arxiv.org/abs/1502.04434](http://arxiv.org/abs/1502.04434)
+- github: [https://github.com/sdemyanov/ConvNet](https://github.com/sdemyanov/ConvNet)
+
+**Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift**
+
+- arXiv: [http://arxiv.org/abs/1502.03167](http://arxiv.org/abs/1502.03167)
+- blog: [https://standardfrancis.wordpress.com/2015/04/16/batch-normalization/](https://standardfrancis.wordpress.com/2015/04/16/batch-normalization/)
 
 **Must Know Tips/Tricks in Deep Neural Networks (by Xiu-Shen Wei)**
 
