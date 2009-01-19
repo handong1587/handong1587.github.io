@@ -21,6 +21,10 @@ date: 2015-10-09
 
 - blog: [http://chenrudan.github.io/blog/2015/12/20/introductionofgpuhardware.html](http://chenrudan.github.io/blog/2015/12/20/introductionofgpuhardware.html)
 
+**GPU折腾手记——2015 (by 李沐)**
+
+- blog: [http://mli.github.io/gpu/2016/01/17/build-gpu-clusters/](http://mli.github.io/gpu/2016/01/17/build-gpu-clusters/)
+
 # FPGA
 
 **Recurrent Neural Networks Hardware Implementation on FPGA**
