@@ -51,6 +51,12 @@ date: 2015-09-25
 
 - blog: [http://www.embedded-vision.com/industry-analysis/technical-articles/caffe-deep-learning-framework-interview-core-developers](http://www.embedded-vision.com/industry-analysis/technical-articles/caffe-deep-learning-framework-interview-core-developers)
 
+**DEEP LEARNING WITH GOOGLE BRAIN'S ORIOL VINYALS**
+
+![](https://s3.amazonaws.com/re-work-production/post_images/124/image01/original.png?1453138503)
+
+[https://re-work.co/blog/deep-learning-oriol-vinyals-google](https://re-work.co/blog/deep-learning-oriol-vinyals-google)
+
 # AI
 
 **The Top A.I. Breakthroughs of 2015**
