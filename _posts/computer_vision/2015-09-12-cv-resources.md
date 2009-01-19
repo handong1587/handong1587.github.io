@@ -157,6 +157,11 @@ date: 2015-09-12
 
 - github: [https://github.com/jbhuang0604/awesome-computer-vision](https://github.com/jbhuang0604/awesome-computer-vision)
 
+**Resources: Visual Recognition and Search**
+
+- intro: "Non-exhaustive list of state-of-the-art implementations related to visual recognition and search"
+- blog: [http://rogerioferis.com/VisualRecognitionAndSearch2014/Resources.html](http://rogerioferis.com/VisualRecognitionAndSearch2014/Resources.html)
+
 # Datasets
 
 **CVonline: Image Databases**
