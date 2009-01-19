@@ -43,6 +43,10 @@ date: 2015-09-25
 
 [http://www.in.techradar.com/news/world-of-tech/How-Microsoft-beat-Google-at-understanding-images-with-machine-learning/articleshow/50354135.cms](http://www.in.techradar.com/news/world-of-tech/How-Microsoft-beat-Google-at-understanding-images-with-machine-learning/articleshow/50354135.cms)
 
+**Microsoft Neural Net Shows Deep Learning Can Get Way Deeper | WIRED**
+
+[http://www.wired.com/2016/01/microsoft-neural-net-shows-deep-learning-can-get-way-deeper/](http://www.wired.com/2016/01/microsoft-neural-net-shows-deep-learning-can-get-way-deeper/)
+
 **The Caffe Deep Learning Framework: An Interview with the Core Developers**
 
 - blog: [http://www.embedded-vision.com/industry-analysis/technical-articles/caffe-deep-learning-framework-interview-core-developers](http://www.embedded-vision.com/industry-analysis/technical-articles/caffe-deep-learning-framework-interview-core-developers)
