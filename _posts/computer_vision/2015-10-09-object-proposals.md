@@ -14,3 +14,9 @@ date: 2015-10-09
 **BING++: A Fast High Quality Object Proposal Generator at 100fps**
 
 - arxiv: [http://arxiv.org/abs/1511.04511](http://arxiv.org/abs/1511.04511)
+
+**Object Proposals**
+
+- intro: This is a library/API which can be used to generate bounding box/region proposals 
+using a large number of the existing object proposal approaches.
+- github: [https://github.com/batra-mlp-lab/object-proposals](https://github.com/batra-mlp-lab/object-proposals)

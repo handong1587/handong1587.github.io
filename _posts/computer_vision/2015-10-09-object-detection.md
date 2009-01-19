@@ -45,3 +45,17 @@ paper: [http://www.lv-nus.org/papers/2011/cvpr2010-context_final.pdf](http://www
 - paper: [https://courses.cs.washington.edu/courses/cse590v/13au/40814.pdf](https://courses.cs.washington.edu/courses/cse590v/13au/40814.pdf)
 
 - - -
+
+**Integrating Context and Occlusion for Car Detection by Hierarchical And-or Model (ECCV 2014)**
+
+![](http://www.stat.ucla.edu/~boli/projects/context_occlusion/img/demo.png)
+
+- homepage: [http://www.stat.ucla.edu/~boli/projects/context_occlusion/context_occlusion.html](http://www.stat.ucla.edu/~boli/projects/context_occlusion/context_occlusion.html)
+- paper: [http://www.stat.ucla.edu/~boli/projects/context_occlusion/publications/CarAOG_ECCV2014.pdf](http://www.stat.ucla.edu/~boli/projects/context_occlusion/publications/CarAOG_ECCV2014.pdf)
+- code: [http://www.stat.ucla.edu/~boli/projects/context_occlusion/publications/RGM_Release1.zip](http://www.stat.ucla.edu/~boli/projects/context_occlusion/publications/RGM_Release1.zip)
+
+**Learning And-Or Models to Represent Context and Occlusion for Car Detection and Viewpoint Estimation**
+
+- homepage: [http://www.stat.ucla.edu/~boli/projects/context_occlusion/context_occlusion.html](http://www.stat.ucla.edu/~boli/projects/context_occlusion/context_occlusion.html)
+- arxiv: [http://arxiv.org/abs/1501.07359](http://arxiv.org/abs/1501.07359)
+- code: [http://www.stat.ucla.edu/~boli/projects/context_occlusion/publications/RGM_Release1.zip](http://www.stat.ucla.edu/~boli/projects/context_occlusion/publications/RGM_Release1.zip)

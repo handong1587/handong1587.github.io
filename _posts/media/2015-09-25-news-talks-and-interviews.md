@@ -43,6 +43,10 @@ date: 2015-09-25
 
 [http://www.in.techradar.com/news/world-of-tech/How-Microsoft-beat-Google-at-understanding-images-with-machine-learning/articleshow/50354135.cms](http://www.in.techradar.com/news/world-of-tech/How-Microsoft-beat-Google-at-understanding-images-with-machine-learning/articleshow/50354135.cms)
 
+**The Caffe Deep Learning Framework: An Interview with the Core Developers**
+
+- blog: [http://www.embedded-vision.com/industry-analysis/technical-articles/caffe-deep-learning-framework-interview-core-developers](http://www.embedded-vision.com/industry-analysis/technical-articles/caffe-deep-learning-framework-interview-core-developers)
+
 # AI
 
 **The Top A.I. Breakthroughs of 2015**
