@@ -44,3 +44,7 @@ date: 2015-10-09
 **“GrabCut” — Interactive Foreground Extraction using Iterated Graph Cuts**
 
 - paper: [http://cvg.ethz.ch/teaching/cvl/2012/grabcut-siggraph04.pdf](http://cvg.ethz.ch/teaching/cvl/2012/grabcut-siggraph04.pdf)
+
+**OpenCV 3.1: Interactive Foreground Extraction using GrabCut Algorithm**
+
+[http://docs.opencv.org/master/d8/d83/tutorial_py_grabcut.html#gsc.tab=0](http://docs.opencv.org/master/d8/d83/tutorial_py_grabcut.html#gsc.tab=0)
