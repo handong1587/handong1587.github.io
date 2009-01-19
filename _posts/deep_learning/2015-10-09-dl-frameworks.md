@@ -8,6 +8,12 @@ date: 2015-10-09
 * TOC
 {:toc}
 
+# Apache SINGA
+
+- project-website: [http://singa.incubator.apache.org/](http://singa.incubator.apache.org/)
+- github: [https://github.com/apache/incubator-singa](https://github.com/apache/incubator-singa)
+- paper: [http://www.comp.nus.edu.sg/~ooibc/singaopen-mm15.pdf](http://www.comp.nus.edu.sg/~ooibc/singaopen-mm15.pdf)
+
 # Blocks
 
 **Blocks: A Theano framework for building and training neural networks**
