@@ -30,3 +30,9 @@ date: 2015-10-09
 - code: [http://grail.cs.washington.edu/projects/photomontage/release/](http://grail.cs.washington.edu/projects/photomontage/release/)
 - paper: [http://grail.cs.washington.edu/projects/photomontage/photomontage.pdf](http://grail.cs.washington.edu/projects/photomontage/photomontage.pdf)
 - paper: [http://www.researchgate.net/publication/2941744_Interactive_Digital_Photomontage](http://www.researchgate.net/publication/2941744_Interactive_Digital_Photomontage)
+
+**Panorama Stitching**
+
+**CS510 Visual Computing, Project 2: Panorama Stitching**
+
+[http://web.cecs.pdx.edu/~kstew2/cs510vision/stitcher/](http://web.cecs.pdx.edu/~kstew2/cs510vision/stitcher/)
