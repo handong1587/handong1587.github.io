@@ -36,3 +36,11 @@ date: 2015-10-09
 **CS510 Visual Computing, Project 2: Panorama Stitching**
 
 [http://web.cecs.pdx.edu/~kstew2/cs510vision/stitcher/](http://web.cecs.pdx.edu/~kstew2/cs510vision/stitcher/)
+
+# Graph Cut
+
+# GrabCut
+
+**“GrabCut” — Interactive Foreground Extraction using Iterated Graph Cuts**
+
+- paper: [http://cvg.ethz.ch/teaching/cvl/2012/grabcut-siggraph04.pdf](http://cvg.ethz.ch/teaching/cvl/2012/grabcut-siggraph04.pdf)
