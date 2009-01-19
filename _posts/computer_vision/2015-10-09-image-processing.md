@@ -21,3 +21,12 @@ date: 2015-10-09
 ![](http://www.cmlab.csie.ntu.edu.tw/~dreamway/seamless/img/teaser.jpg)
 
 - homepage: [http://www.cmlab.csie.ntu.edu.tw/~dreamway/seamless/](http://www.cmlab.csie.ntu.edu.tw/~dreamway/seamless/)
+
+# Image Compositing
+
+**Interactive Digital Photomontage (SIGGRAPH 2004)**
+
+- homepage: [http://grail.cs.washington.edu/projects/photomontage/](http://grail.cs.washington.edu/projects/photomontage/)
+- code: [http://grail.cs.washington.edu/projects/photomontage/release/](http://grail.cs.washington.edu/projects/photomontage/release/)
+- paper: [http://grail.cs.washington.edu/projects/photomontage/photomontage.pdf](http://grail.cs.washington.edu/projects/photomontage/photomontage.pdf)
+- paper: [http://www.researchgate.net/publication/2941744_Interactive_Digital_Photomontage](http://www.researchgate.net/publication/2941744_Interactive_Digital_Photomontage)
