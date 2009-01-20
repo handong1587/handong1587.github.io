@@ -17,3 +17,8 @@ date: 2015-12-25
 **OpenCV 2.4 Cheat Sheet (C++)**
 
 [http://docs.opencv.org/3.0-last-rst/opencv_cheatsheet.pdf](http://docs.opencv.org/3.0-last-rst/opencv_cheatsheet.pdf)
+
+**OpenCV 3.0 Speeding Up**
+
+- intro: T--API, OpenCL, UMat, HAL
+- slides: [http://www.cvrobot.net/wp-content/uploads/2015/06/OpenCV3_CVPR_2015_Speed.pptx](http://www.cvrobot.net/wp-content/uploads/2015/06/OpenCV3_CVPR_2015_Speed.pptx)
