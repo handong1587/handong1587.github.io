@@ -56,3 +56,11 @@ date: 2016-01-17
 ![](http://120.52.72.72/cs.brown.edu/c3pr90ntcsf0/courses/cs129/results/proj2/taox/images/result_09.jpg)
 
 [http://cs.brown.edu/courses/cs129/results/proj2/taox/](http://cs.brown.edu/courses/cs129/results/proj2/taox/)
+
+# Multiband Blending
+
+# Feather Blending
+
+# Alpha Blending
+
+# Laplacian Blending
