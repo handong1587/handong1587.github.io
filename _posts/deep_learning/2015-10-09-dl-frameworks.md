@@ -165,6 +165,15 @@ date: 2015-10-09
 - website: [http://neon.nervanasys.com/docs/latest/index.html](http://neon.nervanasys.com/docs/latest/index.html)
 - github: [https://github.com/NervanaSystems/neon](https://github.com/NervanaSystems/neon)
 
+# OpenNN
+
+**OpenNN - Open Neural Networks Library**
+
+![](http://opennn.net/images/OpenNN%20screenshot.png)
+
+- homepage: [http://opennn.net/](http://opennn.net/)
+- github: [https://github.com/artelnics/opennn](https://github.com/artelnics/opennn)
+
 # Petuum
 
 **Petuum: a distributed machine learning framework**
