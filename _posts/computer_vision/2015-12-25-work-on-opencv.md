@@ -18,6 +18,12 @@ date: 2015-12-25
 
 [http://docs.opencv.org/3.0-last-rst/opencv_cheatsheet.pdf](http://docs.opencv.org/3.0-last-rst/opencv_cheatsheet.pdf)
 
+**OpenCV Main Page**
+
+[http://docs.opencv.org/master/index.html](http://docs.opencv.org/master/index.html)
+
+[https://fossies.org/dox/opencv-3.1.0/index.html](https://fossies.org/dox/opencv-3.1.0/index.html)
+
 **OpenCV 3.0 Speeding Up**
 
 - intro: T--API, OpenCL, UMat, HAL
