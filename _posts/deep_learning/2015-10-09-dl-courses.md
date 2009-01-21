@@ -49,6 +49,11 @@ date: 2015-07-01
 - homepage: [https://uwaterloo.ca/data-science/deep-learning](https://uwaterloo.ca/data-science/deep-learning)
 - video+slides: [http://pan.baidu.com/s/1sjTRgjN](http://pan.baidu.com/s/1sjTRgjN)
 
+**Deep Learning: Taking machine learning to the next leve (Udacity)**
+
+- intro: by Vincent Vanhoucke (Google)
+- homepage: [https://www.udacity.com/course/deep-learning--ud730](https://www.udacity.com/course/deep-learning--ud730)
+
 # Computer Vision
 
 **Stanford CS231n: Convolutional Neural Networks for Visual Recognition**
