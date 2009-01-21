@@ -66,3 +66,12 @@ Gecode provides a constraint solver with state-of-the-art performance while bein
 
 - homepage: [https://developers.google.com/optimization/](https://developers.google.com/optimization/)
 - github: [https://github.com/google/or-tools](https://github.com/google/or-tools)
+
+# Resources
+
+**Reproducible Research in Computational Science**
+
+- intro: This site is intended to share the source codes of the latest advances 
+in various technical fields to the best of my knowledge
+(including signal processing, computer vision, machine learning and neural computation)
+- homepage: [http://www.csee.wvu.edu/~xinl/source.html](http://www.csee.wvu.edu/~xinl/source.html)
