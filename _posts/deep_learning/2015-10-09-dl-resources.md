@@ -413,6 +413,10 @@ with fast exact probabilistic inference over many layers."
 - arxiv: [http://arxiv.org/abs/1512.05616](http://arxiv.org/abs/1512.05616)
 - github: [https://github.com/tonybeltramelli/Deep-Spying](https://github.com/tonybeltramelli/Deep-Spying)
 
+**Understanding Deep Convolutional Networks**
+
+- arxiv: [http://arxiv.org/abs/1601.04920](http://arxiv.org/abs/1601.04920)
+
 # Codes
 
 **deepnet: Implementation of some deep learning algorithms**
