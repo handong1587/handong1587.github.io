@@ -175,6 +175,12 @@ date: 2015-10-09
 
 # Deep Learning And Bayesian
 
+**Scalable Bayesian Optimization Using Deep Neural Networks (ICML 2015)**
+
+- paper: [http://jmlr.org/proceedings/papers/v37/snoek15.html](http://jmlr.org/proceedings/papers/v37/snoek15.html)
+- arxiv: [http://arxiv.org/abs/1502.05700](http://arxiv.org/abs/1502.05700)
+- github: [https://github.com/bshahr/torch-dngo](https://github.com/bshahr/torch-dngo)
+
 **Bayesian Dark Knowledge**
 
 - paper: [http://arxiv.org/abs/1506.04416](http://arxiv.org/abs/1506.04416)
