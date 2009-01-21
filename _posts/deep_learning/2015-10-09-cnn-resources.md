@@ -139,6 +139,11 @@ Bicubic VS. Shepard CNN
 - arxiv: [http://arxiv.org/abs/1510.07867](http://arxiv.org/abs/1510.07867)
 - demo: [http://howhot.io/](http://howhot.io/)
 
+**Automatic Instrument Recognition in Polyphonic Music Using Convolutional Neural Networks**
+
+- arxiv: [http://arxiv.org/abs/1511.05520](http://arxiv.org/abs/1511.05520)
+- github: [https://github.com/glennq/instrument-recognition](https://github.com/glennq/instrument-recognition)
+
 # Blogs
 
 **Automatic Colorization (Tensorflow + VGG)**
