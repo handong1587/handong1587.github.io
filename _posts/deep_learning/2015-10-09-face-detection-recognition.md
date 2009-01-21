@@ -65,3 +65,12 @@ date: 2015-10-09
 - demo: [http://auduno.github.io/clmtrackr/face_deformation_video.html](http://auduno.github.io/clmtrackr/face_deformation_video.html)
 - demo: [http://auduno.github.io/clmtrackr/examples/clm_emotiondetection.html](http://auduno.github.io/clmtrackr/examples/clm_emotiondetection.html)
 - demo: [http://auduno.com/post/84214587523/twisting-faces](http://auduno.com/post/84214587523/twisting-faces)
+
+**OpenFace: Face Recognition with Deep Neural Networks**
+
+- homepage: [http://cmusatyalab.github.io/openface/](http://cmusatyalab.github.io/openface/)
+- github: [https://github.com/cmusatyalab/openface](https://github.com/cmusatyalab/openface)
+
+**OpenFace 0.2.0: Higher accuracy and halved execution time**
+
+- homepage: [http://bamos.github.io/2016/01/19/openface-0.2.0/](http://bamos.github.io/2016/01/19/openface-0.2.0/)
