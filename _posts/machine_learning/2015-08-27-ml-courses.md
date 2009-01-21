@@ -94,3 +94,7 @@ date: 2015-08-27
 **Princeton Computer Science 511: Theoretical Machine Learning (by Rob Schapire)**
 
 [http://www.cs.princeton.edu/courses/archive/spring14/cos511/schedule.html](http://www.cs.princeton.edu/courses/archive/spring14/cos511/schedule.html)
+
+**MACHINE LEARNING FOR MUSICIANS AND ARTISTS**
+
+[https://www.kadenze.com/courses/machine-learning-for-musicians-and-artists/info](https://www.kadenze.com/courses/machine-learning-for-musicians-and-artists/info)
