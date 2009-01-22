@@ -109,6 +109,11 @@ date: 2015-10-09
 - paper: [http://arxiv.org/abs/1506.02078](http://arxiv.org/abs/1506.02078)
 - slides: [http://www.robots.ox.ac.uk/~seminars/seminars/Extra/2015_07_06_AndrejKarpathy.pdf](http://www.robots.ox.ac.uk/~seminars/seminars/Extra/2015_07_06_AndrejKarpathy.pdf)
 
+**Grid Long Short-Term Memory**
+
+- arxiv: [http://arxiv.org/abs/1507.01526](http://arxiv.org/abs/1507.01526)
+- github(Torch7): [https://github.com/coreylynch/grid-lstm/](https://github.com/coreylynch/grid-lstm/)
+
 **Depth-Gated LSTM**
 
 - paper: [http://arxiv.org/abs/1508.03790](http://arxiv.org/abs/1508.03790)
