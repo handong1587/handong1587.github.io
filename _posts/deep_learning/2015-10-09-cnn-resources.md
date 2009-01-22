@@ -159,3 +159,7 @@ Bicubic VS. Shepard CNN
 **Convolutional autoencoder to colorize greyscale images**
 
 - github: [https://github.com/YerevaNN/neural-colorizer](https://github.com/YerevaNN/neural-colorizer)
+
+**Fast Multi-threaded VGG 19 Feature Extractor**
+
+- github: [https://github.com/coreylynch/vgg-19-feature-extractor](https://github.com/coreylynch/vgg-19-feature-extractor)

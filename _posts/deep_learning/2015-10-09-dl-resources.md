@@ -372,6 +372,13 @@ with fast exact probabilistic inference over many layers."
 - arXiv: [http://arxiv.org/abs/1503.05743v1](http://arxiv.org/abs/1503.05743v1)
 - github: [http://mil-tokyo.github.io/](http://mil-tokyo.github.io/)
 
+# GPU Programming
+
+**An Introduction to GPU Programming using Theano**
+
+- youtube: [https://www.youtube.com/watch?v=eVd2TqEkVp0](https://www.youtube.com/watch?v=eVd2TqEkVp0)
+- video: [http://pan.baidu.com/s/1c1i6LtI#path=%252F](http://pan.baidu.com/s/1c1i6LtI#path=%252F)
+
 # Paper
 
 **Reweighted Wake-Sleep**
