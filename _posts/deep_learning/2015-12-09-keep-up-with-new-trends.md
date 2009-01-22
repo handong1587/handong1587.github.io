@@ -53,3 +53,7 @@ date: 2015-12-09
 **ICCV 2015 Tutorials**
 
 [http://pamitc.org/iccv15/tutorials.php](http://pamitc.org/iccv15/tutorials.php)
+
+**ImageNet and MS COCO Visual Recognition Challenges Joint Workshop**
+
+[http://image-net.org/challenges/ilsvrc+mscoco2015](http://image-net.org/challenges/ilsvrc+mscoco2015)
