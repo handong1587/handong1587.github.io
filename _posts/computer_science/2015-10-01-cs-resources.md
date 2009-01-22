@@ -75,3 +75,10 @@ Gecode provides a constraint solver with state-of-the-art performance while bein
 in various technical fields to the best of my knowledge
 (including signal processing, computer vision, machine learning and neural computation)
 - homepage: [http://www.csee.wvu.edu/~xinl/source.html](http://www.csee.wvu.edu/~xinl/source.html)
+
+# Videos
+
+**Recent Developments in Combinatorial Optimization (Microsoft Research)**
+
+- homepage: [http://research.microsoft.com/apps/video/default.aspx?id=260488](http://research.microsoft.com/apps/video/default.aspx?id=260488)
+- video: [http://pan.baidu.com/s/1o6Wbn4I](http://pan.baidu.com/s/1o6Wbn4I)
