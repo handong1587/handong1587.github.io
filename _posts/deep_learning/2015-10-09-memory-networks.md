@@ -26,6 +26,11 @@ date: 2015-10-09
 - video: [http://research.microsoft.com/apps/video/default.aspx?id=259920&r=1](http://research.microsoft.com/apps/video/default.aspx?id=259920&r=1)
 - video: [http://pan.baidu.com/s/1pKiGLzP](http://pan.baidu.com/s/1pKiGLzP)
 
+**Reinforcement Learning Neural Turing Machines - Revised**
+
+- arxiv: [http://arxiv.org/abs/1505.00521](http://arxiv.org/abs/1505.00521)
+- github: [https://github.com/ilyasu123/rlntm](https://github.com/ilyasu123/rlntm)
+
 **Learning to Transduce with Unbounded Memory**
 
 - arXiv: [http://arxiv.org/abs/1506.02516](http://arxiv.org/abs/1506.02516)
@@ -34,7 +39,6 @@ date: 2015-10-09
 
 - arXiv: [http://arxiv.org/abs/1510.03931](http://arxiv.org/abs/1510.03931)
 
-**Reinforcement Learning Neural Turing Machines - Revised**
+**Neural GPUs Learn Algorithms**
 
-- arxiv: [http://arxiv.org/abs/1505.00521](http://arxiv.org/abs/1505.00521)
-- github: [https://github.com/ilyasu123/rlntm](https://github.com/ilyasu123/rlntm)
+- arixv: [http://arxiv.org/abs/1511.08228](http://arxiv.org/abs/1511.08228)
