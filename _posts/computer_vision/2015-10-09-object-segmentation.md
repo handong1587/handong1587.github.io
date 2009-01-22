@@ -16,3 +16,8 @@ date: 2015-10-09
 - paper: [http://vision.sysu.edu.cn/project/PISA/PISA_Final.pdf](http://vision.sysu.edu.cn/project/PISA/PISA_Final.pdf)
 - project: [http://vision.sysu.edu.cn/project/PISA/](http://vision.sysu.edu.cn/project/PISA/)
 - code: [https://github.com/kezewang/pixelwiseImageSaliencyAggregation](https://github.com/kezewang/pixelwiseImageSaliencyAggregation)
+
+**Joint Tracking and Segmentation of Multiple Targets**
+
+- paper: [http://www.milanton.de/files/cvpr2015/cvpr2015-anton.pdf](http://www.milanton.de/files/cvpr2015/cvpr2015-anton.pdf)
+- bitbuckt(Matlab): [https://bitbucket.org/amilan/segtracking](https://bitbucket.org/amilan/segtracking)
