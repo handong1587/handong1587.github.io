@@ -248,6 +248,10 @@ and 1.15s per image with it".
 - homepage: [http://cnnlocalization.csail.mit.edu/](http://cnnlocalization.csail.mit.edu/)
 - arxiv: [http://arxiv.org/abs/1512.04150](http://arxiv.org/abs/1512.04150)
 
+**Factors in Finetuning Deep Model for object detection**
+
+- arxiv: [http://arxiv.org/abs/1601.05150](http://arxiv.org/abs/1601.05150)
+
 # Tutorials
 
 **Convolutional Feature Maps: Elements of efficient (and accurate) CNN-based object detection**
