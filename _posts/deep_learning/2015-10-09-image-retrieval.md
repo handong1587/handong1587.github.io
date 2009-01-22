@@ -15,6 +15,10 @@ date: 2015-10-09
 - arxiv: [http://arxiv.org/abs/1507.00101](http://arxiv.org/abs/1507.00101)
 - github: [https://github.com/kevinlin311tw/Caffe-DeepBinaryCode](https://github.com/kevinlin311tw/Caffe-DeepBinaryCode)
 
+**Visual Search at Pinterest**
+
+- arxiv: [http://arxiv.org/abs/1505.07647](http://arxiv.org/abs/1505.07647)
+
 **Cross-domain Image Retrieval with a Dual Attribute-aware Ranking Network**
 
 - arxiv: [http://arxiv.org/abs/1505.07922](http://arxiv.org/abs/1505.07922)
