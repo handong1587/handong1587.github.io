@@ -319,6 +319,13 @@ Other awesome lists can be found in this [list](https://github.com/sindresorhus/
 
 # L-BFGS
 
+# Code Stylometry
+
+**De-anonymizing Programmers via Code Stylometry**
+
+- keywords: source code authorship, random forests
+- paper: [http://www.princeton.edu/~aylinc/papers/caliskan-islam_deanonymizing.pdf](http://www.princeton.edu/~aylinc/papers/caliskan-islam_deanonymizing.pdf)
+
 # Resources
 
 **Machine Learning Surveys: A list of literature surveys, reviews, and tutorials on Machine Learning and related topics**
