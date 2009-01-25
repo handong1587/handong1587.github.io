@@ -228,6 +228,10 @@ date: 2015-10-09
 
 [http://yanran.li/peppypapers/2015/10/07/survey-attention-model-2.html](http://yanran.li/peppypapers/2015/10/07/survey-attention-model-2.html)
 
+**Online Representation Learning in Recurrent Neural Language Models**
+
+[http://www.marekrei.com/blog/online-representation-learning-in-recurrent-neural-language-models/](http://www.marekrei.com/blog/online-representation-learning-in-recurrent-neural-language-models/)
+
 # Resources
 
 **Awesome-rnn - A curated list of resources dedicated to RNN**

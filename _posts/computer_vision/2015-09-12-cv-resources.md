@@ -126,6 +126,10 @@ date: 2015-09-12
 - blog: [http://www.cnblogs.com/gaoxiang12/tag/%E4%B8%80%E8%B5%B7%E5%81%9ARGB-D%20SLAM/](http://www.cnblogs.com/gaoxiang12/tag/%E4%B8%80%E8%B5%B7%E5%81%9ARGB-D%20SLAM/)
 - github: [https://github.com/gaoxiang12/rgbd-slam-tutorial-gx](https://github.com/gaoxiang12/rgbd-slam-tutorial-gx)
 
+**PySceneDetect: a command-line application and a Python library for automatically detecting scene changes in video files**
+
+- homepage: [http://pyscenedetect.readthedocs.org/en/latest/](http://pyscenedetect.readthedocs.org/en/latest/)
+
 # Applications
 
 **Target acquired: Finding targets in drone and quadcopter video streams using Python and OpenCV**
