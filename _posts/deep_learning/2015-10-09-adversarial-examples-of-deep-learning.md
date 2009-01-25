@@ -19,6 +19,13 @@ which encodes useful class information rather than individual units (feature act
 - github: [https://github.com/goodfeli/adversarial](https://github.com/goodfeli/adversarial)
 - github: [https://github.com/aleju/cat-generator](https://github.com/aleju/cat-generator)
 
+**Generative Adversarial Autoencoders in Theano**
+
+- blog: [https://swarbrickjones.wordpress.com/2016/01/24/generative-adversarial-autoencoders-in-theano/](https://swarbrickjones.wordpress.com/2016/01/24/generative-adversarial-autoencoders-in-theano/)
+- github: [https://github.com/mikesj-public/dcgan-autoencoder](https://github.com/mikesj-public/dcgan-autoencoder)
+
+- - -
+
 **Deep Neural Networks are Easily Fooled: High Confidence Predictions for Unrecognizable Images**
 
 - paper: [http://arxiv.org/abs/1412.1897](http://arxiv.org/abs/1412.1897)
