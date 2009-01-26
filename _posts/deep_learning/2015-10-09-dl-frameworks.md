@@ -67,6 +67,18 @@ date: 2015-10-09
 - blog: [http://multithreaded.stitchfix.com/blog/2015/12/09/intro-to-chainer/](http://multithreaded.stitchfix.com/blog/2015/12/09/intro-to-chainer/)
 - github: [https://github.com/stitchfix/Algorithms-Notebooks](https://github.com/stitchfix/Algorithms-Notebooks)
 
+# CNTK
+
+**CNTK: Computational Network Toolkit**
+
+- github: [https://github.com/Microsoft/CNTK](https://github.com/Microsoft/CNTK)
+- book: [http://research.microsoft.com/pubs/226641/CNTKBook-20160121.pdf](http://research.microsoft.com/pubs/226641/CNTKBook-20160121.pdf)
+- tutorial: [http://research.microsoft.com/en-us/um/people/dongyu/CNTK-Tutorial-NIPS2015.pdf](http://research.microsoft.com/en-us/um/people/dongyu/CNTK-Tutorial-NIPS2015.pdf)
+
+**An Introduction to Computational Networks and the Computational Network Toolkit**
+
+[http://research.microsoft.com/apps/pubs/?id=226641](http://research.microsoft.com/apps/pubs/?id=226641)
+
 # ConvNetJS
 
 **ConvNetJS: Deep Learning in Javascript. Train Convolutional Neural Networks (or ordinary ones) in your browser**
