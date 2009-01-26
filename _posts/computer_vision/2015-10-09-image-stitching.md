@@ -68,3 +68,7 @@ date: 2015-10-09
 **OpenCV panorama stitching**
 
 [http://www.pyimagesearch.com/2016/01/11/opencv-panorama-stitching/](http://www.pyimagesearch.com/2016/01/11/opencv-panorama-stitching/)
+
+**Real-time panorama and image stitching with OpenCV**
+
+[http://www.pyimagesearch.com/2016/01/25/real-time-panorama-and-image-stitching-with-opencv/](http://www.pyimagesearch.com/2016/01/25/real-time-panorama-and-image-stitching-with-opencv/)
