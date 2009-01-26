@@ -129,6 +129,10 @@ date: 2015-10-09
 - arXiv: [http://arxiv.org/abs/1511.06303](http://arxiv.org/abs/1511.06303)
 - github: [https://github.com/facebook/Conditional-character-based-RNN](https://github.com/facebook/Conditional-character-based-RNN)
 
+**Pixel Recurrent Neural Networks**
+
+- arxiv: [http://arxiv.org/abs/1601.06759](http://arxiv.org/abs/1601.06759)
+
 # Learn To Execute Programs
 
 **Learning to Execute**
