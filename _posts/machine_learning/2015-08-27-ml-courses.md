@@ -17,7 +17,8 @@ date: 2015-08-27
 
 **CMU: Probabilistic Graphical Models(by Eric Xing)**
 
-[http://www.cs.cmu.edu/~epxing/Class/10708/](http://www.cs.cmu.edu/~epxing/Class/10708/)
+- homepage: [http://www.cs.cmu.edu/~epxing/Class/10708/](http://www.cs.cmu.edu/~epxing/Class/10708/)
+- lecture: [http://www.cs.cmu.edu/~epxing/Class/10708-14/lecture.html](http://www.cs.cmu.edu/~epxing/Class/10708-14/lecture.html)
 
 **Stanford CME 323: Distributed Algorithms and Optimization**
 
