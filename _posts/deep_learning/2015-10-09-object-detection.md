@@ -179,14 +179,6 @@ bounding boxes (which are shared for these categories).
 - github: [https://github.com/pjreddie/darknet](https://github.com/pjreddie/darknet)
 - reddit: [https://www.reddit.com/r/MachineLearning/comments/3a3m0o/realtime_object_detection_with_yolo/](https://www.reddit.com/r/MachineLearning/comments/3a3m0o/realtime_object_detection_with_yolo/)
 
-**End-to-end people detection in crowded scenes**
-
-<img src="/assets/object-detection-materials/end_to_end_people_detection_in_crowded_scenes.jpg"/>
-
-- arXiv: [http://arxiv.org/abs/1506.04878](http://arxiv.org/abs/1506.04878)
-- code: [https://github.com/Russell91/reinspect](https://github.com/Russell91/reinspect)
-- ipn: [http://nbviewer.ipython.org/github/Russell91/ReInspect/blob/master/evaluation_reinspect.ipynb](http://nbviewer.ipython.org/github/Russell91/ReInspect/blob/master/evaluation_reinspect.ipynb)
-
 **R-CNN minus R**
 
 - arXiv: [http://arxiv.org/abs/1506.06981](http://arxiv.org/abs/1506.06981)
@@ -196,10 +188,6 @@ bounding boxes (which are shared for these categories).
 - arXiv: [http://arxiv.org/abs/1509.04874](http://arxiv.org/abs/1509.04874)
 - demo: [http://pan.baidu.com/s/1mgoWWsS](http://pan.baidu.com/s/1mgoWWsS)
 - KITTI result: [http://www.cvlibs.net/datasets/kitti/eval_object.php](http://www.cvlibs.net/datasets/kitti/eval_object.php)
-
-**Active Object Localization with Deep Reinforcement Learning**
-
-- arXiv: [http://arxiv.org/abs/1511.06015](http://arxiv.org/abs/1511.06015)
 
 **SSD: Single Shot MultiBox Detector**
 
@@ -251,6 +239,16 @@ and 1.15s per image with it".
 **Factors in Finetuning Deep Model for object detection**
 
 - arxiv: [http://arxiv.org/abs/1601.05150](http://arxiv.org/abs/1601.05150)
+
+# Specific Object Deteciton
+
+**End-to-end people detection in crowded scenes**
+
+<img src="/assets/object-detection-materials/end_to_end_people_detection_in_crowded_scenes.jpg"/>
+
+- arXiv: [http://arxiv.org/abs/1506.04878](http://arxiv.org/abs/1506.04878)
+- code: [https://github.com/Russell91/reinspect](https://github.com/Russell91/reinspect)
+- ipn: [http://nbviewer.ipython.org/github/Russell91/ReInspect/blob/master/evaluation_reinspect.ipynb](http://nbviewer.ipython.org/github/Russell91/ReInspect/blob/master/evaluation_reinspect.ipynb)
 
 # Tutorials
 

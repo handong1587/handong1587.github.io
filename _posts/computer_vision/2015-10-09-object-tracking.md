@@ -17,3 +17,10 @@ date: 2015-10-09
 
 - paper: [http://www.milanton.de/files/cvpr2015/cvpr2015-anton.pdf](http://www.milanton.de/files/cvpr2015/cvpr2015-anton.pdf)
 - bitbuckt(Matlab): [https://bitbucket.org/amilan/segtracking](https://bitbucket.org/amilan/segtracking)
+
+**Robust Visual Tracking Via Consistent Low-Rank Sparse Learning**
+
+![](http://nlpr-web.ia.ac.cn/mmc/homepage/tzzhang/Project_Tianzhu/zhang_IJCV14/material/paper_framework.jpg)
+
+- project page: [http://nlpr-web.ia.ac.cn/mmc/homepage/tzzhang/Project_Tianzhu/zhang_IJCV14/Robust%20Visual%20Tracking%20Via%20Consistent%20Low-Rank%20Sparse.html](http://nlpr-web.ia.ac.cn/mmc/homepage/tzzhang/Project_Tianzhu/zhang_IJCV14/Robust%20Visual%20Tracking%20Via%20Consistent%20Low-Rank%20Sparse.html)
+- paper: [http://nlpr-web.ia.ac.cn/mmc/homepage/tzzhang/tianzhu%20zhang_files/Conference%20Papers/ECCV12_zhang_Low-Rank%20Sparse%20Learning.pdf](http://nlpr-web.ia.ac.cn/mmc/homepage/tzzhang/tianzhu%20zhang_files/Conference%20Papers/ECCV12_zhang_Low-Rank%20Sparse%20Learning.pdf)

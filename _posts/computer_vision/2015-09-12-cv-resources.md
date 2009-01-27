@@ -49,12 +49,28 @@ date: 2015-09-12
 
 - arxiv: [http://arxiv.org/abs/1601.03117](http://arxiv.org/abs/1601.03117)
 
+# Deblur
+
+**Good Regions to Deblur**
+
+- project page: [https://eng.ucmerced.edu/people/zhu/GoodRegion.html](https://eng.ucmerced.edu/people/zhu/GoodRegion.html)
+- paper: [https://eng.ucmerced.edu/people/zhu/ECCV12.pdf](https://eng.ucmerced.edu/people/zhu/ECCV12.pdf)
+- code(Matlab): [https://eng.ucmerced.edu/people/zhu/ECCV12_code.zip](https://eng.ucmerced.edu/people/zhu/ECCV12_code.zip)
+
 # Painting
 
 **Real-Time Gradient-Domain Painting (SIGGRAPH 2009)**
 
 - homepage: [http://graphics.cs.cmu.edu/projects/gradient-paint/](http://graphics.cs.cmu.edu/projects/gradient-paint/)
 - paper: [http://graphics.cs.cmu.edu/projects/gradient-paint/grad.light.r2226.pdf](http://graphics.cs.cmu.edu/projects/gradient-paint/grad.light.r2226.pdf)
+
+- - -
+
+**RGB-W: When Vision Meets Wireless**
+
+![](http://vision.stanford.edu/pubimg/rgbw15_1.png)
+
+- paper: [http://vision.stanford.edu/pdf/RGBW_ICCV15.pdf](http://vision.stanford.edu/pdf/RGBW_ICCV15.pdf)
 
 - - -
 
