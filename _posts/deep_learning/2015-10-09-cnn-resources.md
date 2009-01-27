@@ -24,6 +24,10 @@ date: 2015-10-09
 
 - arXiv: [http://arxiv.org/abs/1511.06437](http://arxiv.org/abs/1511.06437)
 
+**A Taxonomy of Deep Convolutional Neural Nets for Computer Vision**
+
+- arxiv: [http://arxiv.org/abs/1601.06615](http://arxiv.org/abs/1601.06615)
+
 # What to detect?
 
 ## Boundary Detection
