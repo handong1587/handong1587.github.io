@@ -2,7 +2,7 @@
 layout: post
 category: deep_learning
 title: Keep Up With New Trends
-date: 2015-12-09
+date: 2016-01-26
 ---
 
 **NIPS 2015 Deep Learning Tutorial Notes**
@@ -61,3 +61,7 @@ date: 2015-12-09
 **ICCV 2015 Tutorial on Tools for Efficient Object Detection**
 
 [http://mp7.watson.ibm.com/ICCV2015/ObjectDetectionICCV2015.html](http://mp7.watson.ibm.com/ICCV2015/ObjectDetectionICCV2015.html)
+
+**NIPS 2015 workshop on non-convex optimization**
+
+[http://www.offconvex.org/2016/01/25/non-convex-workshop/](http://www.offconvex.org/2016/01/25/non-convex-workshop/)
