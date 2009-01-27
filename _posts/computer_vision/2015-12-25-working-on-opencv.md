@@ -1,7 +1,7 @@
 ---
 layout: post
 category: computer_vision
-title: Work on OpenCV
+title: Working on OpenCV
 date: 2015-12-25
 ---
 
@@ -32,3 +32,7 @@ date: 2015-12-25
 **Learning OpenCV: OpenCV examples and tutorials ( C++ / Python )**
 
 - homepage: [http://www.learnopencv.com/](http://www.learnopencv.com/)
+
+**Reading and Writing Video**
+
+[http://docs.opencv.org/3.0-beta/modules/videoio/doc/reading_and_writing_video.html](http://docs.opencv.org/3.0-beta/modules/videoio/doc/reading_and_writing_video.html)
