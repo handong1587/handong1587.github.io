@@ -321,6 +321,10 @@ date: 2015-10-09
 - arXiv: [http://arxiv.org/abs/1502.06464](http://arxiv.org/abs/1502.06464)
 - github: [https://github.com/untom/librfn](https://github.com/untom/librfn)
 
+**Correlational Neural Networks**
+
+- arxiv: [http://arxiv.org/abs/1504.07225](http://arxiv.org/abs/1504.07225)
+
 **Semi-Supervised Learning with Ladder Networks**
 
 - arxiv: [http://arxiv.org/abs/1507.02672](http://arxiv.org/abs/1507.02672)
@@ -464,6 +468,11 @@ with fast exact probabilistic inference over many layers."
 
 - blog: [https://deepmlblog.wordpress.com/2016/01/05/breaking-reddit-captcha-with-96-accuracy/](https://deepmlblog.wordpress.com/2016/01/05/breaking-reddit-captcha-with-96-accuracy/)
 - github: [https://github.com/arunpatala/reddit.captcha](https://github.com/arunpatala/reddit.captcha)
+
+**Clarifai Node.js Demo**
+
+- github: [https://github.com/patcat/Clarifai-Node-Demo](https://github.com/patcat/Clarifai-Node-Demo)
+- blog("How to Make Your Web App Smarter with Image Recognition"): [http://www.sitepoint.com/how-to-make-your-web-app-smarter-with-image-recognition/](http://www.sitepoint.com/how-to-make-your-web-app-smarter-with-image-recognition/)
 
 # Readings and Questions
 

@@ -85,6 +85,14 @@ date: 2015-10-09
 
 - github: [https://github.com/karpathy/convnetjs](https://github.com/karpathy/convnetjs)
 
+# DeepBeliefSDK
+
+**DeepBeliefSDK: The SDK for Jetpac's iOS, Android, Linux, and OS X Deep Belief image recognition framework**
+
+- github: [https://github.com/jetpacapp/DeepBeliefSDK](https://github.com/jetpacapp/DeepBeliefSDK)
+- demo: [https://github.com/jetpacapp/Jetpac-Deep-Belief-Demo-App](https://github.com/jetpacapp/Jetpac-Deep-Belief-Demo-App)
+- demo: [https://github.com/jetpacapp/Jetpac-Deep-Belief-Learner-Demo-App](https://github.com/jetpacapp/Jetpac-Deep-Belief-Learner-Demo-App)
+
 # Deeplearning4j
 
 **Deeplearning4j: Deep Learning for Java**

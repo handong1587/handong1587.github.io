@@ -74,6 +74,8 @@ date: 2015-10-09
 
 - homepage: [http://scs.ryerson.ca/~aharley/vis/](http://scs.ryerson.ca/~aharley/vis/)
 - code: [http://scs.ryerson.ca/~aharley/vis/source.zip](http://scs.ryerson.ca/~aharley/vis/source.zip)
+- demo: [http://scs.ryerson.ca/~aharley/vis/conv/](http://scs.ryerson.ca/~aharley/vis/conv/)
+- review: [http://www.popsci.com/gaze-inside-mind-artificial-intelligence](http://www.popsci.com/gaze-inside-mind-artificial-intelligence)
 
 # Code
 

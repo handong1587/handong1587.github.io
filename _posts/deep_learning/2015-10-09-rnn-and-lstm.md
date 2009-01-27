@@ -83,8 +83,9 @@ date: 2015-10-09
 **LSTM: A Search Space Odyssey**
 
 - paper: [http://arxiv.org/abs/1503.04069](http://arxiv.org/abs/1503.04069)
-- notes: "Notes on LSTM: A Search Space Odyssey" by Hugo Larochelle    <br />
-[https://www.evernote.com/shard/s189/sh/48da42c5-8106-4f0d-b835-c203466bfac4/50d7a3c9a961aefd937fae3eebc6f540](https://www.evernote.com/shard/s189/sh/48da42c5-8106-4f0d-b835-c203466bfac4/50d7a3c9a961aefd937fae3eebc6f540)
+- notes: [https://www.evernote.com/shard/s189/sh/48da42c5-8106-4f0d-b835-c203466bfac4/50d7a3c9a961aefd937fae3eebc6f540](https://www.evernote.com/shard/s189/sh/48da42c5-8106-4f0d-b835-c203466bfac4/50d7a3c9a961aefd937fae3eebc6f540)
+- blog("Dissecting the LSTM"): [https://medium.com/jim-fleming/implementing-lstm-a-search-space-odyssey-7d50c3bacf93#.crg8pztop](https://medium.com/jim-fleming/implementing-lstm-a-search-space-odyssey-7d50c3bacf93#.crg8pztop)
+- github: [https://github.com/jimfleming/lstm_search](https://github.com/jimfleming/lstm_search)
 
 **Inferring Algorithmic Patterns with Stack-Augmented Recurrent Nets**
 

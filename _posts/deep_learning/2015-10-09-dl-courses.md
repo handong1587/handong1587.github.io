@@ -53,6 +53,7 @@ date: 2015-07-01
 
 - intro: by Vincent Vanhoucke (Google)
 - homepage: [https://www.udacity.com/course/deep-learning--ud730](https://www.udacity.com/course/deep-learning--ud730)
+- assignments: [https://github.com/tdhopper/udacity-deep-learning](https://github.com/tdhopper/udacity-deep-learning)
 
 # Computer Vision
 

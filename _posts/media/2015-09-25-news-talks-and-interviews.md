@@ -57,6 +57,10 @@ date: 2015-09-25
 
 [https://re-work.co/blog/deep-learning-oriol-vinyals-google](https://re-work.co/blog/deep-learning-oriol-vinyals-google)
 
+**Friday essay: Rise of the artistic machines**
+
+[https://theconversation.com/friday-essay-rise-of-the-artistic-machines-51035](https://theconversation.com/friday-essay-rise-of-the-artistic-machines-51035)
+
 # AI
 
 **The Top A.I. Breakthroughs of 2015**

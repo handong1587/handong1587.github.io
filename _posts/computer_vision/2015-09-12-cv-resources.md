@@ -170,6 +170,12 @@ date: 2015-09-12
 - intro: "Non-exhaustive list of state-of-the-art implementations related to visual recognition and search"
 - blog: [http://rogerioferis.com/VisualRecognitionAndSearch2014/Resources.html](http://rogerioferis.com/VisualRecognitionAndSearch2014/Resources.html)
 
+# Libraries
+
+**BoofCV: an open source Java library for real-time computer vision and robotics applications**
+
+[http://boofcv.org/index.php?title=Main_Page](http://boofcv.org/index.php?title=Main_Page)
+
 # Datasets
 
 **CVonline: Image Databases**
