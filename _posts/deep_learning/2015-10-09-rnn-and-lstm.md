@@ -134,6 +134,10 @@ date: 2015-10-09
 
 - arxiv: [http://arxiv.org/abs/1601.06759](http://arxiv.org/abs/1601.06759)
 
+**Long Short-Term Memory-Networks for Machine Reading**
+
+- arxiv: [http://arxiv.org/abs/1601.06733](http://arxiv.org/abs/1601.06733)
+
 # Learn To Execute Programs
 
 **Learning to Execute**
