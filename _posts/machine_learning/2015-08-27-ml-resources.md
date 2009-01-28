@@ -40,12 +40,6 @@ Other awesome lists can be found in this [list](https://github.com/sindresorhus/
 - youtube: [https://www.youtube.com/watch?v=9Zag7uhjdYo&hd=1](https://www.youtube.com/watch?v=9Zag7uhjdYo&hd=1)
 - baidu-pan: [http://pan.baidu.com/s/1pJLrICN](http://pan.baidu.com/s/1pJLrICN)
 
-# Regressions
-
-**10 types of regressions. Which one to use?**
-
-- blog: [http://www.datasciencecentral.com/profiles/blogs/10-types-of-regressions-which-one-to-use](http://www.datasciencecentral.com/profiles/blogs/10-types-of-regressions-which-one-to-use)
-
 # Bayesian Learning
 
 **Auto-Encoding Variational Bayes**
@@ -130,30 +124,19 @@ Other awesome lists can be found in this [list](https://github.com/sindresorhus/
 
 [http://minimaxir.com/2015/09/bootstrap-resample/](http://minimaxir.com/2015/09/bootstrap-resample/)
 
-# Topic Model
+# Cascades
 
-**Care and Feeding of Topic Models: Problems, Diagnostics, and Improvements**
+**Making faces with Haar cascades and mixed integer linear programming**
 
-- book: [http://www.cs.colorado.edu/~jbg/docs/2014_book_chapter_care_and_feeding.pdf](http://www.cs.colorado.edu/~jbg/docs/2014_book_chapter_care_and_feeding.pdf)
+- blog: [http://matthewearl.github.io/2016/01/14/inverse-haar/](http://matthewearl.github.io/2016/01/14/inverse-haar/)
+- github: [https://github.com/matthewearl/inversehaar](https://github.com/matthewearl/inversehaar)
 
-**Introduction to Probabilistic Topic Models**
+# Convex Optimization
 
-- paper: [https://www.cs.princeton.edu/~blei/papers/Blei2011.pdf](https://www.cs.princeton.edu/~blei/papers/Blei2011.pdf)
+**Convex Optimization: Algorithms and Complexity**
 
-**Topic Modeling Bibliography**
-
-- blog: [http://qpleple.com/bib/](http://qpleple.com/bib/)
-
-**LDAvis: Interactive Visualization of Topic Models**
-
-- homepage: [https://cran.r-project.org/web/packages/LDAvis/](https://cran.r-project.org/web/packages/LDAvis/)
-- paper: [http://nlp.stanford.edu/events/illvi2014/papers/sievert-illvi2014.pdf](http://nlp.stanford.edu/events/illvi2014/papers/sievert-illvi2014.pdf)
-- github: [https://github.com/cpsievert/LDAvis](https://github.com/cpsievert/LDAvis)
-- tutorial: [http://cpsievert.github.io/LDAvis/reviews/reviews.html](http://cpsievert.github.io/LDAvis/reviews/reviews.html)
-
-**Deep Belief Nets for Topic Modeling**
-
-- arxiv: [http://arxiv.org/abs/1501.04325](http://arxiv.org/abs/1501.04325)
+- arXiv: [http://arxiv.org/abs/1405.4980](http://arxiv.org/abs/1405.4980)
+- blog: [https://blogs.princeton.edu/imabandit/2015/11/30/convex-optimization-algorithms-and-complexity/](https://blogs.princeton.edu/imabandit/2015/11/30/convex-optimization-algorithms-and-complexity/)
 
 # Decision Tree
 
@@ -214,12 +197,36 @@ Other awesome lists can be found in this [list](https://github.com/sindresorhus/
 - blog: [http://blog.applied.ai/feature-reduction-using-svd/](http://blog.applied.ai/feature-reduction-using-svd/)
 - ipn: [http://nbviewer.jupyter.org/urls/bitbucket.org/appliedai/appliedai_svd/raw/02901de3aaa01be7b4536f484401113ddd5da8a9/01_FeatureReduction.ipynb](http://nbviewer.jupyter.org/urls/bitbucket.org/appliedai/appliedai_svd/raw/02901de3aaa01be7b4536f484401113ddd5da8a9/01_FeatureReduction.ipynb)
 
-# Convex Optimization
+# Regressions
 
-**Convex Optimization: Algorithms and Complexity**
+**10 types of regressions. Which one to use?**
 
-- arXiv: [http://arxiv.org/abs/1405.4980](http://arxiv.org/abs/1405.4980)
-- blog: [https://blogs.princeton.edu/imabandit/2015/11/30/convex-optimization-algorithms-and-complexity/](https://blogs.princeton.edu/imabandit/2015/11/30/convex-optimization-algorithms-and-complexity/)
+- blog: [http://www.datasciencecentral.com/profiles/blogs/10-types-of-regressions-which-one-to-use](http://www.datasciencecentral.com/profiles/blogs/10-types-of-regressions-which-one-to-use)
+
+# Topic Model
+
+**Care and Feeding of Topic Models: Problems, Diagnostics, and Improvements**
+
+- book: [http://www.cs.colorado.edu/~jbg/docs/2014_book_chapter_care_and_feeding.pdf](http://www.cs.colorado.edu/~jbg/docs/2014_book_chapter_care_and_feeding.pdf)
+
+**Introduction to Probabilistic Topic Models**
+
+- paper: [https://www.cs.princeton.edu/~blei/papers/Blei2011.pdf](https://www.cs.princeton.edu/~blei/papers/Blei2011.pdf)
+
+**Topic Modeling Bibliography**
+
+- blog: [http://qpleple.com/bib/](http://qpleple.com/bib/)
+
+**LDAvis: Interactive Visualization of Topic Models**
+
+- homepage: [https://cran.r-project.org/web/packages/LDAvis/](https://cran.r-project.org/web/packages/LDAvis/)
+- paper: [http://nlp.stanford.edu/events/illvi2014/papers/sievert-illvi2014.pdf](http://nlp.stanford.edu/events/illvi2014/papers/sievert-illvi2014.pdf)
+- github: [https://github.com/cpsievert/LDAvis](https://github.com/cpsievert/LDAvis)
+- tutorial: [http://cpsievert.github.io/LDAvis/reviews/reviews.html](http://cpsievert.github.io/LDAvis/reviews/reviews.html)
+
+**Deep Belief Nets for Topic Modeling**
+
+- arxiv: [http://arxiv.org/abs/1501.04325](http://arxiv.org/abs/1501.04325)
 
 # Gaussian Processes
 
