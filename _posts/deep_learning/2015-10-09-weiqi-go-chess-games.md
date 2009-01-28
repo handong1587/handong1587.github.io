@@ -25,6 +25,12 @@ date: 2015-10-09
 - arXiv: [http://arxiv.org/abs/1511.06410](http://arxiv.org/abs/1511.06410)
 - MIT tech review: [http://www.technologyreview.com/view/544181/how-facebooks-ai-researchers-built-a-game-changing-go-engine/](http://www.technologyreview.com/view/544181/how-facebooks-ai-researchers-built-a-game-changing-go-engine/)
 
+**Mastering the game of Go with deep neural networks and tree search (Google DeepMind)**
+
+- homepage: [http://www.deepmind.com/alpha-go.html](http://www.deepmind.com/alpha-go.html)
+- paper: [https://storage.googleapis.com/deepmind-data/assets/papers/deepmind-mastering-go.pdf](https://storage.googleapis.com/deepmind-data/assets/papers/deepmind-mastering-go.pdf)
+- naturep page: [http://www.nature.com/nature/journal/v529/n7587/full/nature16961.html](http://www.nature.com/nature/journal/v529/n7587/full/nature16961.html)
+
 # Chess
 
 **Giraffe: Using Deep Reinforcement Learning to Play Chess (MSc thesis)**
