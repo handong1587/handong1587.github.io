@@ -32,6 +32,7 @@ date: 2015-10-09
 - homepage: [http://www.deepmind.com/alpha-go.html](http://www.deepmind.com/alpha-go.html)
 - paper: [https://storage.googleapis.com/deepmind-data/assets/papers/deepmind-mastering-go.pdf](https://storage.googleapis.com/deepmind-data/assets/papers/deepmind-mastering-go.pdf)
 - naturep page: [http://www.nature.com/nature/journal/v529/n7587/full/nature16961.html](http://www.nature.com/nature/journal/v529/n7587/full/nature16961.html)
+- blog: [http://www.furidamu.org/blog/2016/01/26/mastering-the-game-of-go-with-deep-neural-networks-and-tree-search/](http://www.furidamu.org/blog/2016/01/26/mastering-the-game-of-go-with-deep-neural-networks-and-tree-search/)
 
 # Chess
 
