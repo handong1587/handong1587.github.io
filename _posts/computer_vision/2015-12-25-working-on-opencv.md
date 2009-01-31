@@ -33,6 +33,10 @@ date: 2015-12-25
 
 - homepage: [http://www.learnopencv.com/](http://www.learnopencv.com/)
 
+**Reading and Writing Images**
+
+[http://docs.opencv.org/3.0-beta/modules/imgcodecs/doc/reading_and_writing_images.html](http://docs.opencv.org/3.0-beta/modules/imgcodecs/doc/reading_and_writing_images.html)
+
 **Reading and Writing Video**
 
 [http://docs.opencv.org/3.0-beta/modules/videoio/doc/reading_and_writing_video.html](http://docs.opencv.org/3.0-beta/modules/videoio/doc/reading_and_writing_video.html)
