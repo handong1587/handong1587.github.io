@@ -367,6 +367,10 @@ Other awesome lists can be found in this [list](https://github.com/sindresorhus/
 
 [http://www.lkozma.net/inequalities_cheat_sheet/ineq.pdf](http://www.lkozma.net/inequalities_cheat_sheet/ineq.pdf)
 
+**Math for Machine Learning**
+
+[http://www.umiacs.umd.edu/~hal/courses/2013S_ML/math4ml.pdf](http://www.umiacs.umd.edu/~hal/courses/2013S_ML/math4ml.pdf)
+
 # Books
 
 **Machine Learning plus Intelligent Optimization: THE LION WAY, VERSION 2.0**

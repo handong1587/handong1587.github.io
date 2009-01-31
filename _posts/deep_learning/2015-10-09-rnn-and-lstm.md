@@ -59,6 +59,11 @@ date: 2015-10-09
 - reddit: [https://www.reddit.com/r/MachineLearning/comments/31rinf/150400941_a_simple_way_to_initialize_recurrent/](https://www.reddit.com/r/MachineLearning/comments/31rinf/150400941_a_simple_way_to_initialize_recurrent/)
 - reddit: [https://www.reddit.com/r/MachineLearning/comments/32tgvw/has_anyone_been_able_to_reproduce_the_results_in/](https://www.reddit.com/r/MachineLearning/comments/32tgvw/has_anyone_been_able_to_reproduce_the_results_in/)
 
+**Sequence Level Training with Recurrent Neural Networks**
+
+- arxiv: [http://arxiv.org/abs/1511.06732](http://arxiv.org/abs/1511.06732)
+- notes: [https://www.evernote.com/shard/s189/sh/ada01a82-70a9-48d4-985c-20492ab91e84/8da92be19e704996dc2b929473abed46](https://www.evernote.com/shard/s189/sh/ada01a82-70a9-48d4-985c-20492ab91e84/8da92be19e704996dc2b929473abed46)
+
 # Papers
 
 **Generating Sequences With Recurrent Neural Networks**
