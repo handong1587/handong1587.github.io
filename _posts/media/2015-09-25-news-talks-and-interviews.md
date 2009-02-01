@@ -67,6 +67,10 @@ date: 2015-09-25
 
 [http://futureoflife.org/2015/12/29/the-top-a-i-breakthroughs-of-2015/](http://futureoflife.org/2015/12/29/the-top-a-i-breakthroughs-of-2015/)
 
+**Will Machines Eliminate Us?**
+
+[http://www.technologyreview.com/qa/546301/will-machines-eliminate-us/](http://www.technologyreview.com/qa/546301/will-machines-eliminate-us/)
+
 # Self-driving Cars
 
 **Self-driving cars: How far away are we REALLY from autonomous cars?(7 Aug 2015)**
