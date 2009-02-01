@@ -67,6 +67,10 @@ date: 2015-10-09
 
 - paper: [http://www.icml-2011.org/papers/210_icmlpaper.pdf](http://www.icml-2011.org/papers/210_icmlpaper.pdf)
 
+**On the importance of initialization and momentum in deep learning**
+
+- paper: [http://jmlr.org/proceedings/papers/v28/sutskever13.pdf](http://jmlr.org/proceedings/papers/v28/sutskever13.pdf)
+
 **Flattened Convolutional Neural Networks for Feedforward Acceleration(ICLR 2015)**
 
 - arXiv: [http://arxiv.org/abs/1412.5474](http://arxiv.org/abs/1412.5474)
@@ -177,6 +181,21 @@ date: 2015-10-09
 
 # Dropout
 
+**Improving neural networks by preventing co-adaptation of feature detectors (Dropout)**
+
+- arxiv: [http://arxiv.org/abs/1207.0580](http://arxiv.org/abs/1207.0580)
+
+**Regularization of Neural Networks using DropConnect**
+
+- homepage: [http://cs.nyu.edu/~wanli/dropc/](http://cs.nyu.edu/~wanli/dropc/)
+- gitxiv: [http://gitxiv.com/posts/rJucpiQiDhQ7HkZoX/regularization-of-neural-networks-using-dropconnect](http://gitxiv.com/posts/rJucpiQiDhQ7HkZoX/regularization-of-neural-networks-using-dropconnect)
+- github: [https://github.com/iassael/torch-dropconnect](https://github.com/iassael/torch-dropconnect)
+
+**Fast dropout training**
+
+- paper: [http://jmlr.org/proceedings/papers/v28/wang13a.pdf](http://jmlr.org/proceedings/papers/v28/wang13a.pdf)
+- github: [https://github.com/sidaw/fastdropout](https://github.com/sidaw/fastdropout)
+
 **Dropout as data augmentation**
 
 - paper: [http://arxiv.org/abs/1506.08700](http://arxiv.org/abs/1506.08700)
@@ -185,12 +204,6 @@ date: 2015-10-09
 **A Theoretically Grounded Application of Dropout in Recurrent Neural Networks**
 
 - arxiv: [http://arxiv.org/abs/1512.05287](http://arxiv.org/abs/1512.05287)
-
-**Regularization of Neural Networks using DropConnect**
-
-- homepage: [http://cs.nyu.edu/~wanli/dropc/](http://cs.nyu.edu/~wanli/dropc/)
-- gitxiv: [http://gitxiv.com/posts/rJucpiQiDhQ7HkZoX/regularization-of-neural-networks-using-dropconnect](http://gitxiv.com/posts/rJucpiQiDhQ7HkZoX/regularization-of-neural-networks-using-dropconnect)
-- github: [https://github.com/iassael/torch-dropconnect](https://github.com/iassael/torch-dropconnect)
 
 # Deep Learning And Bayesian
 

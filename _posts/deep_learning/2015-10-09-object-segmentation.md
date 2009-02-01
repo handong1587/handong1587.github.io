@@ -16,8 +16,8 @@ date: 2015-10-09
 
 **Fully Convolutional Networks for Semantic Segmentation**
 
-- arxiv: [http://arxiv.org/abs/1411.4038](http://arxiv.org/abs/1411.4038)
 - keywords: deconvolutional layer, crop layer
+- arxiv: [http://arxiv.org/abs/1411.4038](http://arxiv.org/abs/1411.4038)
 - slides: [https://docs.google.com/presentation/d/1VeWFMpZ8XN7OC3URZP4WdXvOGYckoFWGVN7hApoXVnc](https://docs.google.com/presentation/d/1VeWFMpZ8XN7OC3URZP4WdXvOGYckoFWGVN7hApoXVnc)
 - slides: [http://tutorial.caffe.berkeleyvision.org/caffe-cvpr15-pixels.pdf](http://tutorial.caffe.berkeleyvision.org/caffe-cvpr15-pixels.pdf)
 - github: [https://github.com/BVLC/caffe/wiki/Model-Zoo#fcn](https://github.com/BVLC/caffe/wiki/Model-Zoo#fcn)
@@ -25,6 +25,13 @@ date: 2015-10-09
 
 **Semantic Image Segmentation with Deep Convolutional Nets and Fully Connected CRFs("DeepLab")**
 
+- intro: "adopted a more simplistic approach for maintaining resolution by removing
+the stride in the layers of FullConvNet, wherever possible. 
+Following this, the FullConvNet predicted output is modeled as 
+a unary term for Conditional Random Field (CRF) constructed over 
+the image grid at its original resolution. 
+With labelling smoothness constraint enforced through pair-wise terms, 
+the per-pixel classification task is modeled as a CRF inference problem."
 - arXiv: [http://arxiv.org/abs/1412.7062](http://arxiv.org/abs/1412.7062)
 - github: [https://bitbucket.org/deeplab/deeplab-public/](https://bitbucket.org/deeplab/deeplab-public/)
 
@@ -41,6 +48,13 @@ date: 2015-10-09
 
 ![](http://www.robots.ox.ac.uk/~szheng/Res_CRFRNN/CRFasRNN.jpg)
 
+- intro: "proposed a better approach where the CRF
+constructed on image is modeled as a Recurrent Neural Network (RNN). 
+By modeling the CRF as an RNN, it can be integrated as a part of any Deep Convolutinal Net 
+making the system efficient at both semantic feature extraction
+and fine-grained structure prediction. 
+This enables the end-to-end training of the entire FullConvNet + RNN system
+using the stochastic gradient descent (SGD) algorithm to obtain fine pixel-level segmentation."
 - arXiv: [http://arxiv.org/abs/1502.03240](http://arxiv.org/abs/1502.03240)
 - homepage: [http://www.robots.ox.ac.uk/~szheng/CRFasRNN.html](http://www.robots.ox.ac.uk/~szheng/CRFasRNN.html)
 - github: [https://github.com/torrvision/crfasrnn](https://github.com/torrvision/crfasrnn)

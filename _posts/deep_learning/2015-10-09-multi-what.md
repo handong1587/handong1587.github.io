@@ -37,6 +37,15 @@ date: 2015-10-09
 
 - discussion: [https://github.com/memect/hao/issues/93](https://github.com/memect/hao/issues/93)
 
+**OverFeat: Integrated Recognition, Localization and Detection using Convolutional Networks**
+
+- intro: training a convolutional network to simultaneously classify, 
+locate and detect objects in images can boost the classification
+accuracy and the detection and localization accuracy of all tasks
+- arXiv: [http://arxiv.org/abs/1312.6229](http://arxiv.org/abs/1312.6229)
+- code: [https://github.com/sermanet/OverFeat](https://github.com/sermanet/OverFeat)
+- code: [http://cilvr.nyu.edu/doku.php?id=software:overfeat:start](http://cilvr.nyu.edu/doku.php?id=software:overfeat:start)
+
 # Multi-modal Learning
 
 **Multimodal Deep Learning**
@@ -50,6 +59,8 @@ date: 2015-10-09
 - homepage: [http://mcnn.noahlab.com.hk/project.html](http://mcnn.noahlab.com.hk/project.html)
 - paper: [http://mcnn.noahlab.com.hk/ICCV2015.pdf](http://mcnn.noahlab.com.hk/ICCV2015.pdf)
 - arXiv: [http://arxiv.org/abs/1504.06063](http://arxiv.org/abs/1504.06063)
+
+# Blogs
 
 **干货 | Multi-modal Deep Learning 初窥**
 
