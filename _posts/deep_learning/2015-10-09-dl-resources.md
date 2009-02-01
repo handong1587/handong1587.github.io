@@ -45,6 +45,7 @@ date: 2015-10-09
 - github: [https://github.com/alrojo/lasagne_residual_network](https://github.com/alrojo/lasagne_residual_network)
 - github: [https://github.com/shuokay/resnet](https://github.com/shuokay/resnet)
 - blog("Highway Networks and Deep Residual Networks"): [http://yanran.li/peppypapers/2016/01/10/highway-networks-and-deep-residual-networks.html](http://yanran.li/peppypapers/2016/01/10/highway-networks-and-deep-residual-networks.html)
+- blog("Interpretating Deep Residual Learning Blocks as Locally Recurrent Connections"): [https://matrixmashing.wordpress.com/2016/01/29/interpretating-deep-residual-learning-blocks-as-locally-recurrent-connections/](https://matrixmashing.wordpress.com/2016/01/29/interpretating-deep-residual-learning-blocks-as-locally-recurrent-connections/)
 
 - - -
 
@@ -245,52 +246,6 @@ date: 2015-10-09
 **An Introduction to Gradient Descent in Python**
 
 - blog: [http://tillbergmann.com/blog/articles/python-gradient-descent.html](http://tillbergmann.com/blog/articles/python-gradient-descent.html)
-
-# Multi-label Learning
-
-**CNN: Single-label to Multi-label**
-
-- paper: [http://arxiv.org/abs/1406.5726](http://arxiv.org/abs/1406.5726)
-
-**Deep Learning for Multi-label Classification**
-
-- paper: [http://arxiv.org/abs/1502.05988](http://arxiv.org/abs/1502.05988)
-- code: [http://meka.sourceforge.net](http://meka.sourceforge.net)
-
-**Predicting Unseen Labels using Label Hierarchies in Large-Scale Multi-label Learning(ECML2015)**
-
-- paper: [https://www.kdsl.tu-darmstadt.de/fileadmin/user_upload/Group_KDSL/PUnL_ECML2015_camera_ready.pdf](https://www.kdsl.tu-darmstadt.de/fileadmin/user_upload/Group_KDSL/PUnL_ECML2015_camera_ready.pdf)
-
-**Learning with a Wasserstein Loss**
-
-- arXiv: [http://arxiv.org/abs/1506.05439](http://arxiv.org/abs/1506.05439)
-- project page: [http://cbcl.mit.edu/wasserstein/](http://cbcl.mit.edu/wasserstein/)
-- code: [http://cbcl.mit.edu/wasserstein/yfcc100m_labels.tar.gz](http://cbcl.mit.edu/wasserstein/yfcc100m_labels.tar.gz)
-- MIT news: [http://news.mit.edu/2015/more-flexible-machine-learning-1001](http://news.mit.edu/2015/more-flexible-machine-learning-1001)
-
-# Multitask Learning
-
-<img src="/assets/dl-materials/multitask-learning-pasted-graphic.jpg" />
-
-[http://www.cs.cornell.edu/~kilian/research/multitasklearning/multitasklearning.html](http://www.cs.cornell.edu/~kilian/research/multitasklearning/multitasklearning.html)
-
-**multi-task learning**
-
-- discussion: [https://github.com/memect/hao/issues/93](https://github.com/memect/hao/issues/93)
-
-# Multimodal Learning
-
-**Multimodal Deep Learning**
-
-- paper: [http://ai.stanford.edu/~ang/papers/nipsdlufl10-MultimodalDeepLearning.pdf](http://ai.stanford.edu/~ang/papers/nipsdlufl10-MultimodalDeepLearning.pdf)
-
-**Multimodal Convolutional Neural Networks for Matching Image and Sentence**
-
-![](/assets/dl_resources/multi_modal/mCNN.png)
-
-- homepage: [http://mcnn.noahlab.com.hk/project.html](http://mcnn.noahlab.com.hk/project.html)
-- paper: [http://mcnn.noahlab.com.hk/ICCV2015.pdf](http://mcnn.noahlab.com.hk/ICCV2015.pdf)
-- arXiv: [http://arxiv.org/abs/1504.06063](http://arxiv.org/abs/1504.06063)
 
 # Deep Learning Networks
 
