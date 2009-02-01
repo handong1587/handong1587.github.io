@@ -102,7 +102,7 @@ date: 2015-10-09
 
 **torch-visbox**
 
-<img src="/assets/vis-cnn/torch-visbox-example.png" width="800" />
+![](/assets/vis-cnn/torch-visbox-example.png)
 
 - github: [https://github.com/Aysegul/torch-visbox](https://github.com/Aysegul/torch-visbox)
 
@@ -117,3 +117,8 @@ date: 2015-10-09
 ![](http://josephpcohen.com/w/wp-content/uploads/Screen-Shot-2016-01-14-at-11.25.15-AM-638x300.png)
 
 - blog: [http://josephpcohen.com/w/visualizing-cnn-architectures-side-by-side-with-mxnet/](http://josephpcohen.com/w/visualizing-cnn-architectures-side-by-side-with-mxnet/)
+
+**How convolutional neural networks see the world: An exploration of convnet filters with Keras**
+
+- blog: [http://blog.keras.io/how-convolutional-neural-networks-see-the-world.html](http://blog.keras.io/how-convolutional-neural-networks-see-the-world.html)
+- github: [https://github.com/fchollet/keras/blob/master/examples/conv_filter_visualization.py](https://github.com/fchollet/keras/blob/master/examples/conv_filter_visualization.py)
