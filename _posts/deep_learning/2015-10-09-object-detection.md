@@ -58,6 +58,10 @@ topmost feature map after knowing the confidences of the underlying object categ
 - code: [https://github.com/ShaoqingRen/SPP_net](https://github.com/ShaoqingRen/SPP_net)
 - notes: [http://zhangliliang.com/2014/09/13/paper-note-sppnet/](http://zhangliliang.com/2014/09/13/paper-note-sppnet/)
 
+**Learning Rich Features from RGB-D Images for Object Detection and Segmentation**
+
+- arxiv: [http://arxiv.org/abs/1407.5736](http://arxiv.org/abs/1407.5736)
+
 **Scalable, High-Quality Object Detection**
 
 - arXiv: [http://arxiv.org/abs/1412.1441](http://arxiv.org/abs/1412.1441)
