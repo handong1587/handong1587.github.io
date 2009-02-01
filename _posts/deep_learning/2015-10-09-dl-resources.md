@@ -114,6 +114,14 @@ date: 2015-10-09
 
 # Activation functions
 
+**Rectified linear units improve restricted boltzmann machines (ReLU)**
+
+- paper: [http://machinelearning.wustl.edu/mlpapers/paper_files/icml2010_NairH10.pdf](http://machinelearning.wustl.edu/mlpapers/paper_files/icml2010_NairH10.pdf)
+
+**Rectifier Nonlinearities Improve Neural Network Acoustic Models (leaky-ReLU, aka LReLU)**
+
+- paper: [http://ai.stanford.edu/~amaas/papers/relu_hybrid_icml2013_final.pdf](http://ai.stanford.edu/~amaas/papers/relu_hybrid_icml2013_final.pdf)
+
 **Delving Deep into Rectifiers: Surpassing Human-Level Performance on ImageNet Classification (PReLU)**
 
 - keywords: PReLU, Caffe "msra" weights initilization
