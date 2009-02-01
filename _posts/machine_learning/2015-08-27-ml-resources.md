@@ -408,6 +408,12 @@ Other awesome lists can be found in this [list](https://github.com/sindresorhus/
 
 - github: [https://github.com/maciejkula/rustlearn](https://github.com/maciejkula/rustlearn)
 
+**MILJS : Brand New JavaScript Libraries for Matrix Calculation and Machine Learning**
+
+- arXiv: [http://arxiv.org/abs/1503.05743v1](http://arxiv.org/abs/1503.05743v1)
+- github: [https://github.com/mil-tokyo](https://github.com/mil-tokyo)
+- homepage: [http://mil-tokyo.github.io/](http://mil-tokyo.github.io/)
+
 # Readings and Questions
 
 **(Quora): What are the top 10 data mining or machine learning algorithms?**

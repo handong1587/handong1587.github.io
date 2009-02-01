@@ -353,19 +353,7 @@ with fast exact probabilistic inference over many layers."
 
 # Deep Learning’s Accuracy
 
-- blog: [http://deeplearning4j.org/accuracy.html](http://deeplearning4j.org/accuracy.html)	
-
-# Deep Learning System
-
-**DeepDetect: Open Source Deep Learning Server: Open Source + Deep Learning + API + Server**
-
-- webiste: [http://www.deepdetect.com/](http://www.deepdetect.com/)
-- github: [https://github.com/beniz/deepdetect](https://github.com/beniz/deepdetect)
-
-**Implementation of a Practical Distributed Calculation System with Browsers and JavaScript, and Application to Distributed Deep Learning**
-
-- arXiv: [http://arxiv.org/abs/1503.05743v1](http://arxiv.org/abs/1503.05743v1)
-- github: [http://mil-tokyo.github.io/](http://mil-tokyo.github.io/)
+- blog: [http://deeplearning4j.org/accuracy.html](http://deeplearning4j.org/accuracy.html)
 
 # GPU Programming
 

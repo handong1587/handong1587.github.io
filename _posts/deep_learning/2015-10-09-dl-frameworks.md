@@ -93,6 +93,13 @@ date: 2015-10-09
 - demo: [https://github.com/jetpacapp/Jetpac-Deep-Belief-Demo-App](https://github.com/jetpacapp/Jetpac-Deep-Belief-Demo-App)
 - demo: [https://github.com/jetpacapp/Jetpac-Deep-Belief-Learner-Demo-App](https://github.com/jetpacapp/Jetpac-Deep-Belief-Learner-Demo-App)
 
+# DeepDetect
+
+**DeepDetect: Open Source API & Deep Learning Server**
+
+- webiste: [http://www.deepdetect.com/](http://www.deepdetect.com/)
+- github: [https://github.com/beniz/deepdetect](https://github.com/beniz/deepdetect)
+
 # Deeplearning4j
 
 **Deeplearning4j: Deep Learning for Java**
