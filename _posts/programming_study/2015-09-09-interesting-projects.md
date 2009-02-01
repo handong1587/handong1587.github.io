@@ -120,3 +120,7 @@ date: 2015-09-09
 **Stealing Keys from PCs using a Radio: Cheap Electromagnetic Attacks on Windowed Exponentiation**
 
 - homepage: [https://www.tau.ac.il/~tromer/radioexp/](https://www.tau.ac.il/~tromer/radioexp/)
+
+**A Windows 95 Simulator on Browser**
+
+[https://win95.ajf.me/win95.html](https://win95.ajf.me/win95.html)
