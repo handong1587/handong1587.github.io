@@ -143,6 +143,10 @@ date: 2015-10-09
 
 - arxiv: [http://arxiv.org/abs/1601.06733](http://arxiv.org/abs/1601.06733)
 
+**Lipreading with Long Short-Term Memory**
+
+- arxiv: [http://arxiv.org/abs/1601.08188](http://arxiv.org/abs/1601.08188)
+
 # Learn To Execute Programs
 
 **Learning to Execute**

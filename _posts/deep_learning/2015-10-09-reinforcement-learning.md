@@ -51,7 +51,7 @@ date: 2015-10-09
 
 **Human-level control through deep reinforcement learning(Google DeepMind. 2015 Nature)**
 
-<img src="/assets/reinforcement-learning-materials/DeepMind_Atari_Deep_Q_Learner-breakout.gif"/>
+![](/assets/reinforcement-learning-materials/DeepMind_Atari_Deep_Q_Learner-breakout.gif)
 
 - paper: [http://pan.baidu.com/s/1kTiwzOF](http://pan.baidu.com/s/1kTiwzOF)
 - code: [https://sites.google.com/a/deepmind.com/dqn/](https://sites.google.com/a/deepmind.com/dqn/)
@@ -107,6 +107,10 @@ date: 2015-10-09
 - arxiv: [http://arxiv.org/abs/1601.01297](http://arxiv.org/abs/1601.01297)
 - github: [https://github.com/imanolarrieta/angrybirds](https://github.com/imanolarrieta/angrybirds)
 - gitxiv: [http://gitxiv.com/posts/Nr2N7j4YrR4gnCYK9/angrier-birds-bayesian-reinforcement-learning](http://gitxiv.com/posts/Nr2N7j4YrR4gnCYK9/angrier-birds-bayesian-reinforcement-learning)
+
+**Prioritized Experience Replay**
+
+- arxiv: [http://arxiv.org/abs/1511.05952](http://arxiv.org/abs/1511.05952)
 
 # Blogs
 

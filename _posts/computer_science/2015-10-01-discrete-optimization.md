@@ -15,6 +15,12 @@ date: 2015-10-01
 
 - page: [http://www.math.unipd.it/~frossi/chapter4.pdf](http://www.math.unipd.it/~frossi/chapter4.pdf)
 
+# Monte Carlo
+
+**Introduction to Monte Carlo Tree Search**
+
+- blog: [http://jeffbradberry.com/posts/2015/09/intro-to-monte-carlo-tree-search/](http://jeffbradberry.com/posts/2015/09/intro-to-monte-carlo-tree-search/)
+
 # Courses
 
 **Coursera: Discrete Optimization**
