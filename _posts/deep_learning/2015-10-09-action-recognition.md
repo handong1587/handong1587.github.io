@@ -11,6 +11,10 @@ date: 2015-10-09
 
 **Two-stream convolutional networks for action recognition in videos**
 
+**Long-term Recurrent Convolutional Networks for Visual Recognition and Description**
+
+- arxiv: [http://arxiv.org/abs/1411.4389](http://arxiv.org/abs/1411.4389)
+
 **Finding action tubes**
 
 - intro: "built action models from shape and motion cues. 
