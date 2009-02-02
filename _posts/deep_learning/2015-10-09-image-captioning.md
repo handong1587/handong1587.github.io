@@ -20,6 +20,24 @@ date: 2015-10-09
 - github: [https://github.com/apple2373/chainer_caption_generation](https://github.com/apple2373/chainer_caption_generation)
 - blog("Image caption generation by CNN and LSTM"): [http://t-satoshi.blogspot.com/2015/12/image-caption-generation-by-cnn-and-lstm.html](http://t-satoshi.blogspot.com/2015/12/image-caption-generation-by-cnn-and-lstm.html)
 
+**Deep Visual-Semantic Alignments for Generating Image Descriptions**
+
+- intro: "propose a multimodal deep network that aligns various interesting 
+regions of the image, represented using a CNN feature, with associated words. 
+The learned correspondences are then used to train a bi-directional RNN. 
+This model is able, not only to generate descriptions for images, but also 
+to localize different segments of the sentence to their corresponding image regions."
+- arxiv: [http://arxiv.org/abs/1412.2306](http://arxiv.org/abs/1412.2306)
+- slides: [http://www.cs.toronto.edu/~vendrov/DeepVisualSemanticAlignments_Class_Presentation.pdf](http://www.cs.toronto.edu/~vendrov/DeepVisualSemanticAlignments_Class_Presentation.pdf)
+
+**Deep Captioning with Multimodal Recurrent Neural Networks (m-RNN)**
+
+- intro: "combines the functionalities of the CNN and RNN by introducing a new multimodal layer, 
+after the embedding and recurrent layers of the RNN."
+- arxiv: [http://arxiv.org/abs/1412.6632](http://arxiv.org/abs/1412.6632)
+- homepage: [http://www.stat.ucla.edu/~junhua.mao/m-RNN.html](http://www.stat.ucla.edu/~junhua.mao/m-RNN.html)
+- github: [https://github.com/mjhucla/mRNN-CR](https://github.com/mjhucla/mRNN-CR)
+
 **Show, Attend and Tell: Neural Image Caption Generation with Visual Attention**
 
 - arXiv: [http://arxiv.org/abs/1502.03044](http://arxiv.org/abs/1502.03044)
@@ -30,14 +48,11 @@ date: 2015-10-09
 - arXiv: [http://arxiv.org/abs/1502.08029](http://arxiv.org/abs/1502.08029)
 - github: [https://github.com/yaoli/arctic-capgen-vid](https://github.com/yaoli/arctic-capgen-vid)
 
-**Sequence to Sequence -- Video to Text(ICCV 2015)**
+**Learning like a Child: Fast Novel Visual Concept Learning from Sentence Descriptions of Images**
 
-![](/assets/image_captioning/S2VTarchitecture.png)
-
-- arXiv: [http://arxiv.org/abs/1505.00487](http://arxiv.org/abs/1505.00487)
-- project: [http://vsubhashini.github.io/s2vt.html](http://vsubhashini.github.io/s2vt.html)
-- github: [https://github.com/vsubhashini/caffe/tree/recurrent/examples/s2vt](https://github.com/vsubhashini/caffe/tree/recurrent/examples/s2vt)
-- github: [https://github.com/jazzsaxmafia/video_to_sequence](https://github.com/jazzsaxmafia/video_to_sequence)
+- arxiv: [http://arxiv.org/abs/1504.06692](http://arxiv.org/abs/1504.06692)
+- homepage: [http://www.stat.ucla.edu/~junhua.mao/projects/child_learning.html](http://www.stat.ucla.edu/~junhua.mao/projects/child_learning.html)
+- github: [https://github.com/mjhucla/NVC-Dataset](https://github.com/mjhucla/NVC-Dataset)
 
 **Learning FRAME Models Using CNN Filters for Knowledge Visualization(CVPR 2015)**
 
@@ -68,3 +83,23 @@ date: 2015-10-09
 - paper: [http://www.cs.cmu.edu/~gunhee/publish/nips15_stream2text.pdf](http://www.cs.cmu.edu/~gunhee/publish/nips15_stream2text.pdf)
 - author-page: [http://www.cs.cmu.edu/~gunhee/](http://www.cs.cmu.edu/~gunhee/)
 - github: [https://github.com/cesc-park/CRCN](https://github.com/cesc-park/CRCN)
+
+# Video Captioning
+
+**Translating Videos to Natural Language Using Deep Recurrent Neural Networks**
+
+- arxiv: [http://arxiv.org/abs/1412.4729](http://arxiv.org/abs/1412.4729)
+- project page: [https://www.cs.utexas.edu/~vsub/naacl15_project.html](https://www.cs.utexas.edu/~vsub/naacl15_project.html)
+
+**Sequence to Sequence -- Video to Text(S2VT. ICCV 2015)**
+
+![](/assets/image_captioning/S2VTarchitecture.png)
+
+- arXiv: [http://arxiv.org/abs/1505.00487](http://arxiv.org/abs/1505.00487)
+- project: [http://vsubhashini.github.io/s2vt.html](http://vsubhashini.github.io/s2vt.html)
+- github: [https://github.com/vsubhashini/caffe/tree/recurrent/examples/s2vt](https://github.com/vsubhashini/caffe/tree/recurrent/examples/s2vt)
+- github: [https://github.com/jazzsaxmafia/video_to_sequence](https://github.com/jazzsaxmafia/video_to_sequence)
+
+**Jointly Modeling Embedding and Translation to Bridge Video and Language**
+
+- arXiv: [http://arxiv.org/abs/1505.01861](http://arxiv.org/abs/1505.01861)

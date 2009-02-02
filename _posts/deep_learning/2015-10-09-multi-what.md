@@ -46,6 +46,27 @@ accuracy and the detection and localization accuracy of all tasks
 - code: [https://github.com/sermanet/OverFeat](https://github.com/sermanet/OverFeat)
 - code: [http://cilvr.nyu.edu/doku.php?id=software:overfeat:start](http://cilvr.nyu.edu/doku.php?id=software:overfeat:start)
 
+**Learning and Transferring Multi-task Deep Representation for Face Alignment**
+
+- arxiv: [http://arxiv.org/abs/1408.3967](http://arxiv.org/abs/1408.3967)
+
+**Multi-task learning of facial landmarks and expression**
+
+- paper: [http://www.uoguelph.ca/~gwtaylor/publications/gwtaylor_crv2014.pdf](http://www.uoguelph.ca/~gwtaylor/publications/gwtaylor_crv2014.pdf)
+
+**Heterogeneous multi-task learning for human pose estimation with deep convolutional neural network**
+
+- paper: [http://120.52.73.9/www.cv-foundation.org/openaccess/content_cvpr_workshops_2014/W15/papers/LI_Heterogeneous_Multi-task_Learning_2014_CVPR_paper.pdf](http://120.52.73.9/www.cv-foundation.org/openaccess/content_cvpr_workshops_2014/W15/papers/LI_Heterogeneous_Multi-task_Learning_2014_CVPR_paper.pdf)
+
+**Deep Joint Task Learning for Generic Object Extraction(NIPS2014)**
+
+![](http://vision.sysu.edu.cn/vision_sysu/wp-content/uploads/2013/05/%E5%B0%8FQ%E6%88%AA%E5%9B%BE-20141019095211.png)
+
+- homepage: [http://vision.sysu.edu.cn/projects/deep-joint-task-learning/](http://vision.sysu.edu.cn/projects/deep-joint-task-learning/)
+- paper: [http://ss.sysu.edu.cn/~ll/files/NIPS2014_JointTask.pdf](http://ss.sysu.edu.cn/~ll/files/NIPS2014_JointTask.pdf)
+- code: [https://github.com/xiaolonw/nips14_loc_seg_testonly](https://github.com/xiaolonw/nips14_loc_seg_testonly)
+- dataset: [http://objectextraction.github.io/](http://objectextraction.github.io/)
+
 # Multi-modal Learning
 
 **Multimodal Deep Learning**

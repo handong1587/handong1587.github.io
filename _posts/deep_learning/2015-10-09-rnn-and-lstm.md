@@ -97,10 +97,6 @@ date: 2015-10-09
 - paper: [http://arxiv.org/abs/1503.01007](http://arxiv.org/abs/1503.01007)
 - code: [https://github.com/facebook/Stack-RNN](https://github.com/facebook/Stack-RNN)
 
-**Jointly Modeling Embedding and Translation to Bridge Video and Language**
-
-- arXiv: [http://arxiv.org/abs/1505.01861](http://arxiv.org/abs/1505.01861)
-
 **A Critical Review of Recurrent Neural Networks for Sequence Learning**
 
 - arXiv: [http://arxiv.org/abs/1506.00019](http://arxiv.org/abs/1506.00019)
