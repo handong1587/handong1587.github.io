@@ -228,6 +228,10 @@ Other awesome lists can be found in this [list](https://github.com/sindresorhus/
 
 - arxiv: [http://arxiv.org/abs/1501.04325](http://arxiv.org/abs/1501.04325)
 
+**Visualizing Topic Models**
+
+- youtube: [https://www.youtube.com/watch?v=tGxW2BzC_DU&index=4&list=PLykRMO7ZuHwP5cWnbEmP_mUIVgzd5DZgH](https://www.youtube.com/watch?v=tGxW2BzC_DU&index=4&list=PLykRMO7ZuHwP5cWnbEmP_mUIVgzd5DZgH)
+
 # Gaussian Processes
 
 **The Gaussian Processes Web Site**
