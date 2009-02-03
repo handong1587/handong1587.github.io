@@ -450,6 +450,11 @@ with fast exact probabilistic inference over many layers."
 - intro: "A simple implementation of Visual Search using features extracted from Tensor Flow inception model"
 - github: [https://github.com/AKSHAYUBHAT/VisualSearchServer](https://github.com/AKSHAYUBHAT/VisualSearchServer)
 
+**Deep Learning in Rust: baby steps**
+
+- blog: [https://medium.com/@tedsta/deep-learning-in-rust-7e228107cccc#.t0pskuwkm](https://medium.com/@tedsta/deep-learning-in-rust-7e228107cccc#.t0pskuwkm)
+- github: [https://github.com/tedsta/deeplearn-rs](https://github.com/tedsta/deeplearn-rs)
+
 # Readings and Questions
 
 **What are the toughest neural networks and deep learning interview questions?**
