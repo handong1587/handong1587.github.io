@@ -35,3 +35,8 @@ date: 2015-08-27
 **Neural Networks demo in Javascript**
 
 - demo: [http://cs.stanford.edu/people/karpathy/svmjs/demo/demonn.html](http://cs.stanford.edu/people/karpathy/svmjs/demo/demonn.html)
+
+**Interactive visualization of artificial neural networks**
+
+- homepage: [http://experiments.mostafa.io/public/ffbpann/](http://experiments.mostafa.io/public/ffbpann/)
+- github: [https://github.com/drdrsh/interactive-bpann](https://github.com/drdrsh/interactive-bpann)

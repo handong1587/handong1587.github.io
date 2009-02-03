@@ -33,6 +33,10 @@ date: 2015-08-27
 Other awesome lists can be found in this [list](https://github.com/sindresorhus/awesome)."
 - github: [https://github.com/ujjwalkarn/Machine-Learning-Tutorials/blob/master/README.md](https://github.com/ujjwalkarn/Machine-Learning-Tutorials/blob/master/README.md)
 
+**A Visual Introduction to Machine Learning**
+
+- part 1: [http://www.r2d3.us/visual-intro-to-machine-learning-part-1/](http://www.r2d3.us/visual-intro-to-machine-learning-part-1/)
+
 # Competitions
 
 **Machine learning best practices we've learned from hundreds of competitions (Kaggle: Ben Hamner)**
@@ -317,6 +321,10 @@ Other awesome lists can be found in this [list](https://github.com/sindresorhus/
 **Questions on Deep Gaussian Processes**
 
 - blog: [http://inverseprobability.com/2015/02/28/questions-on-deep-gaussian-processes/](http://inverseprobability.com/2015/02/28/questions-on-deep-gaussian-processes/)
+
+**Greedy Deep Dictionary Learning**
+
+- arxiv: [http://arxiv.org/abs/1602.00203](http://arxiv.org/abs/1602.00203)
 
 # Mathematics
 
