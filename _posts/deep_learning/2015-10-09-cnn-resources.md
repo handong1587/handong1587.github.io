@@ -139,8 +139,11 @@ Bicubic VS. Shepard CNN
 
 **Poker-CNN: A Pattern Learning Strategy for Making Draws and Bets in Poker Games Using Convolutional Networks**
 
+- arxiv: [http://arxiv.org/abs/1509.06731](http://arxiv.org/abs/1509.06731)
 - paper: [http://colinraffel.com/publications/aaai2016poker.pdf](http://colinraffel.com/publications/aaai2016poker.pdf)
 - github: [https://github.com/moscow25/deep_draw](https://github.com/moscow25/deep_draw)
+- slides: [https://drive.google.com/file/d/0B5eOIUHA0khiMjN1YnEtZHMwams/view](https://drive.google.com/file/d/0B5eOIUHA0khiMjN1YnEtZHMwams/view)
+- slides: [http://pan.baidu.com/s/1nu5zpZ7](http://pan.baidu.com/s/1nu5zpZ7)
 
 **DEX: Deep EXpectation of apparent age from a single image (ICCV 2015)**
 
