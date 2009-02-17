@@ -49,74 +49,6 @@ Other awesome lists can be found in this [list](https://github.com/sindresorhus/
 - youtube: [https://www.youtube.com/watch?v=9Zag7uhjdYo&hd=1](https://www.youtube.com/watch?v=9Zag7uhjdYo&hd=1)
 - baidu-pan: [http://pan.baidu.com/s/1pJLrICN](http://pan.baidu.com/s/1pJLrICN)
 
-# Bayesian Learning
-
-**Auto-Encoding Variational Bayes**
-
-- paper: [http://arxiv.org/abs/1312.6114](http://arxiv.org/abs/1312.6114)
-- code: [https://github.com/stitchfix/fauxtograph](https://github.com/stitchfix/fauxtograph)
-
-**Practical Bayesian Optimization of Machine Learning Algorithms**
-
-- paper: [http://arxiv.org/abs/1206.2944v2](http://arxiv.org/abs/1206.2944v2)
-- code: [https://github.com/JasperSnoek/spearmint](https://github.com/JasperSnoek/spearmint)
-- code: [https://github.com/HIPS/Spearmint](https://github.com/HIPS/Spearmint)
-
-**Bayesian Face Revisited: A Joint Formulation(ECCV2012)**
-
-- paper: [http://research.microsoft.com/en-us/um/people/jiansun/papers/ECCV12_BayesianFace.pdf](http://research.microsoft.com/en-us/um/people/jiansun/papers/ECCV12_BayesianFace.pdf)
-- github: [https://github.com/MaoXu/Joint_Bayesian/](https://github.com/MaoXu/Joint_Bayesian/)
-- github: [https://github.com/cyh24/Joint-Bayesian](https://github.com/cyh24/Joint-Bayesian)
-
-**UAI 2015 Amsterdam Tutorial: Optimal Algorithms for Learning Bayesian Network Structures**
-
-- video: [https://www.youtube.com/watch?v=__JD3ptBR-w&hd=1](https://www.youtube.com/watch?v=__JD3ptBR-w&hd=1)
-- video: [http://pan.baidu.com/s/1ntEf4lr](http://pan.baidu.com/s/1ntEf4lr)
-- slides: [http://auai.org/uai2015/proceedings/slides/UAI2015_LearningBN_PartI.pdf](http://auai.org/uai2015/proceedings/slides/UAI2015_LearningBN_PartI.pdf)
-- slides: [http://auai.org/uai2015/proceedings/slides/UAI2015_LearningBN_PartII.pdf](http://auai.org/uai2015/proceedings/slides/UAI2015_LearningBN_PartII.pdf)
-
-**Bayesian Learning**
-
-[https://github.com/ReactiveCJ/BayesianLearning](https://github.com/ReactiveCJ/BayesianLearning)
-
-**Bayesian Methods of Parameter Estimation**
-
-- paper: [http://homepages.inf.ed.ac.uk/rbf/CVonline/LOCAL_COPIES/AV0809/eshky.pdf](http://homepages.inf.ed.ac.uk/rbf/CVonline/LOCAL_COPIES/AV0809/eshky.pdf)
-
-**A Tutorial on Bayesian Belief Networks (2001)**
-
-- paper: [http://dspace.dsto.defence.gov.au/dspace/bitstream/1947/3537/1/DSTO-TN-0403.pdf](http://dspace.dsto.defence.gov.au/dspace/bitstream/1947/3537/1/DSTO-TN-0403.pdf)
-- paper: [http://pan.baidu.com/s/1eQNtUxW](http://pan.baidu.com/s/1eQNtUxW)
-
-**A Tutorial on Learning With Bayesian Networks**
-
-- page: [http://research.microsoft.com/apps/pubs/default.aspx?id=69588](http://research.microsoft.com/apps/pubs/default.aspx?id=69588)
-- paper: [http://research.microsoft.com/pubs/69588/tr-95-06.pdf](http://research.microsoft.com/pubs/69588/tr-95-06.pdf)
-
-# Graphical Models
-
-"A Brief Introduction to Graphical Models and Bayesian Networks"
-
-[http://www.cs.ubc.ca/~murphyk/Bayes/bnintro.html](http://www.cs.ubc.ca/~murphyk/Bayes/bnintro.html)
-
-**An Introduction To Graphical Models(by Michael I. Jordan. 1997)**
-
-- paper: [http://www.cis.upenn.edu/~mkearns/papers/barbados/jordan-tut.pdf](http://www.cis.upenn.edu/~mkearns/papers/barbados/jordan-tut.pdf)
-
-**Human-level concept learning through probabilistic program induction (Science 2015)**
-
-- paper: [http://cdn1.almosthuman.cn/wp-content/uploads/2015/12/Human-level-concept-learning-through-probabilistic-program-induction.pdf](http://cdn1.almosthuman.cn/wp-content/uploads/2015/12/Human-level-concept-learning-through-probabilistic-program-induction.pdf)
-- article: [http://www.sciencemag.org/content/350/6266/1332.full](http://www.sciencemag.org/content/350/6266/1332.full)
-- github: [https://github.com/brendenlake/BPL](https://github.com/brendenlake/BPL)
-
-**Graphical Models Lectures 2015**
-
-- homepage: [http://www.stats.ox.ac.uk/~lienart/gml.html](http://www.stats.ox.ac.uk/~lienart/gml.html)
-
-**2 Graphical Models in a Nutshell**
-
-[http://ai.stanford.edu/~koller/Papers/Koller+al:SRL07.pdf](http://ai.stanford.edu/~koller/Papers/Koller+al:SRL07.pdf)
-
 # Boosting
 
 "Quick Introduction to Boosting Algorithms in Machine Learning"
@@ -184,6 +116,7 @@ Other awesome lists can be found in this [list](https://github.com/sindresorhus/
 **k-Means Clustering Is Matrix Factorization**
 
 - arxiv: [http://arxiv.org/abs/1512.07548](http://arxiv.org/abs/1512.07548)
+- note: [http://blog.csdn.net/cyh_24/article/details/50408884](http://blog.csdn.net/cyh_24/article/details/50408884)
 
 # PCA/ICA/SVD
 
@@ -210,6 +143,10 @@ Other awesome lists can be found in this [list](https://github.com/sindresorhus/
 
 - blog: [http://efavdb.com/independent-component-analysis/](http://efavdb.com/independent-component-analysis/)
 - ipython notebook: [http://nbviewer.jupyter.org/github/EFavDB/ICA/blob/master/pyaudio.ipynb](http://nbviewer.jupyter.org/github/EFavDB/ICA/blob/master/pyaudio.ipynb)
+
+**Compressive PCA on Graphs**
+
+- arxiv: [http://arxiv.org/abs/1602.02070](http://arxiv.org/abs/1602.02070)
 
 # Regressions
 

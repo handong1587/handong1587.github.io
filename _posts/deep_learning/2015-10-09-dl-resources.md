@@ -91,10 +91,7 @@ date: 2015-10-09
 
 - arXiv: [http://arxiv.org/abs/1502.03167](http://arxiv.org/abs/1502.03167)
 - blog: [https://standardfrancis.wordpress.com/2015/04/16/batch-normalization/](https://standardfrancis.wordpress.com/2015/04/16/batch-normalization/)
-
-**Must Know Tips/Tricks in Deep Neural Networks (by Xiu-Shen Wei)**
-
-[http://lamda.nju.edu.cn/weixs/project/CNNTricks/CNNTricks.html](http://lamda.nju.edu.cn/weixs/project/CNNTricks/CNNTricks.html)
+- note: [http://zhihu.com/question/38102762/answer/85238569?utm_campaign=webshare&amp;utm_source=weibo&amp;utm_medium=zhihu](http://zhihu.com/question/38102762/answer/85238569?utm_campaign=webshare&amp;utm_source=weibo&amp;utm_medium=zhihu)
 
 **A practical theory for designing very deep convolutional neural network**
 

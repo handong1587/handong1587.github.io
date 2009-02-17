@@ -21,3 +21,8 @@ date: 2015-10-09
 
 - paper: [http://www.milanton.de/files/cvpr2015/cvpr2015-anton.pdf](http://www.milanton.de/files/cvpr2015/cvpr2015-anton.pdf)
 - bitbuckt(Matlab): [https://bitbucket.org/amilan/segtracking](https://bitbucket.org/amilan/segtracking)
+
+**Supervised Evaluation of Image Segmentation Methods**
+
+- project page: [http://www.vision.ee.ethz.ch/~biwiproposals/seism/index.html](http://www.vision.ee.ethz.ch/~biwiproposals/seism/index.html)
+- github: [https://github.com/jponttuset/seism](https://github.com/jponttuset/seism)

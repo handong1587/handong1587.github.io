@@ -5,6 +5,50 @@ title: Bayesian Methods
 date: 2015-08-27
 ---
 
+# Bayesian Learning
+
+**Auto-Encoding Variational Bayes**
+
+- paper: [http://arxiv.org/abs/1312.6114](http://arxiv.org/abs/1312.6114)
+- code: [https://github.com/stitchfix/fauxtograph](https://github.com/stitchfix/fauxtograph)
+
+**Practical Bayesian Optimization of Machine Learning Algorithms**
+
+- paper: [http://arxiv.org/abs/1206.2944v2](http://arxiv.org/abs/1206.2944v2)
+- code: [https://github.com/JasperSnoek/spearmint](https://github.com/JasperSnoek/spearmint)
+- code: [https://github.com/HIPS/Spearmint](https://github.com/HIPS/Spearmint)
+
+**Bayesian Face Revisited: A Joint Formulation(ECCV2012)**
+
+- paper: [http://research.microsoft.com/en-us/um/people/jiansun/papers/ECCV12_BayesianFace.pdf](http://research.microsoft.com/en-us/um/people/jiansun/papers/ECCV12_BayesianFace.pdf)
+- github: [https://github.com/MaoXu/Joint_Bayesian/](https://github.com/MaoXu/Joint_Bayesian/)
+- github: [https://github.com/cyh24/Joint-Bayesian](https://github.com/cyh24/Joint-Bayesian)
+
+**UAI 2015 Amsterdam Tutorial: Optimal Algorithms for Learning Bayesian Network Structures**
+
+- video: [https://www.youtube.com/watch?v=__JD3ptBR-w&hd=1](https://www.youtube.com/watch?v=__JD3ptBR-w&hd=1)
+- video: [http://pan.baidu.com/s/1ntEf4lr](http://pan.baidu.com/s/1ntEf4lr)
+- slides: [http://auai.org/uai2015/proceedings/slides/UAI2015_LearningBN_PartI.pdf](http://auai.org/uai2015/proceedings/slides/UAI2015_LearningBN_PartI.pdf)
+- slides: [http://auai.org/uai2015/proceedings/slides/UAI2015_LearningBN_PartII.pdf](http://auai.org/uai2015/proceedings/slides/UAI2015_LearningBN_PartII.pdf)
+
+**Bayesian Learning**
+
+[https://github.com/ReactiveCJ/BayesianLearning](https://github.com/ReactiveCJ/BayesianLearning)
+
+**Bayesian Methods of Parameter Estimation**
+
+- paper: [http://homepages.inf.ed.ac.uk/rbf/CVonline/LOCAL_COPIES/AV0809/eshky.pdf](http://homepages.inf.ed.ac.uk/rbf/CVonline/LOCAL_COPIES/AV0809/eshky.pdf)
+
+**A Tutorial on Bayesian Belief Networks (2001)**
+
+- paper: [http://dspace.dsto.defence.gov.au/dspace/bitstream/1947/3537/1/DSTO-TN-0403.pdf](http://dspace.dsto.defence.gov.au/dspace/bitstream/1947/3537/1/DSTO-TN-0403.pdf)
+- paper: [http://pan.baidu.com/s/1eQNtUxW](http://pan.baidu.com/s/1eQNtUxW)
+
+**A Tutorial on Learning With Bayesian Networks**
+
+- page: [http://research.microsoft.com/apps/pubs/default.aspx?id=69588](http://research.microsoft.com/apps/pubs/default.aspx?id=69588)
+- paper: [http://research.microsoft.com/pubs/69588/tr-95-06.pdf](http://research.microsoft.com/pubs/69588/tr-95-06.pdf)
+
 # Probabilistic Programming
 
 **Probabilistic Programming in Python**
