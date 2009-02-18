@@ -31,7 +31,6 @@ time.print()
 However if you try to import those 3rd-party packages, such as numpy/cv2, your program will crash without any warning. Well, you probably already installed those packages into "C:\\Python27\\Lib\\site-packages"(now what we got is a Python27 directory, so it is "Python27\\site-packages" in your project directory). Before import any package, you should add one more line ahead:
 
 {% highlight python %}
-
 import cv2
 {% endhighlight %}
 
