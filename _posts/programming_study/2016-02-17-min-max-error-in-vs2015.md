@@ -10,4 +10,4 @@ while in VS2015 it will keep printing build error:
 
 error C3861: 'min': identifier not found
 
-I finally find out that std::max() requires the {% highlight cpp %}<algorithm>{% endhighlight %} header.
+I finally find out that std::max() requires the <pre class="terminal"><code><algorithm></code></pre> header.
