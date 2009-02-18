@@ -64,6 +64,7 @@ date: 2015-10-09
 - demo: [http://algoalgebra.csa.iisc.ernet.in/deepimagine/](http://algoalgebra.csa.iisc.ernet.in/deepimagine/)
 - github: [https://github.com/andersbll/autoencoding_beyond_pixels](https://github.com/andersbll/autoencoding_beyond_pixels)
 - video: [http://video.weibo.com/show?fid=1034:f00b4e5a34e8c1ebe78ccd00da95f9e0](http://video.weibo.com/show?fid=1034:f00b4e5a34e8c1ebe78ccd00da95f9e0)
+- github: [https://github.com/stitchfix/fauxtograph](https://github.com/stitchfix/fauxtograph)
 
 **Deep Visual Analogy-Making**
 

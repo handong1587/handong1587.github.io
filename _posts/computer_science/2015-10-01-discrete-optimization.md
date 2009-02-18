@@ -27,6 +27,13 @@ date: 2015-10-01
 - code: [http://mcts.ai/code/index.html](http://mcts.ai/code/index.html)
 - zh("蒙特卡洛树搜索 MCTS"): [http://www.jianshu.com/p/d011baff6b64](http://www.jianshu.com/p/d011baff6b64)
 
+# Rectangle Bin Packing
+
+**Even More Rectangle Bin Packing**
+
+- blog: [http://clb.demon.fi/projects/even-more-rectangle-bin-packing](http://clb.demon.fi/projects/even-more-rectangle-bin-packing)
+- github: [https://github.com/juj/RectangleBinPack](https://github.com/juj/RectangleBinPack)
+
 # Courses
 
 **Coursera: Discrete Optimization**
