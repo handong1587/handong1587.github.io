@@ -22,3 +22,7 @@ date: 2015-10-09
 
 - arXiv: [http://arxiv.org/abs/1511.06434](http://arxiv.org/abs/1511.06434)
 - github: [https://github.com/Newmu/dcgan_code](https://github.com/Newmu/dcgan_code)
+
+**Auxiliary Deep Generative Models**
+
+- arxiv: [http://arxiv.org/abs/1602.05473](http://arxiv.org/abs/1602.05473)
