@@ -34,6 +34,14 @@ date: 2015-10-01
 - blog: [http://clb.demon.fi/projects/even-more-rectangle-bin-packing](http://clb.demon.fi/projects/even-more-rectangle-bin-packing)
 - github: [https://github.com/juj/RectangleBinPack](https://github.com/juj/RectangleBinPack)
 
+**Solving the 2D Packing Problem**
+
+- page 1: [http://www.devx.com/dotnet/Article/36005](http://www.devx.com/dotnet/Article/36005)
+- page 2: [http://www.devx.com/dotnet/Article/36005/0/page/2](http://www.devx.com/dotnet/Article/36005/0/page/2)
+- page 3: [http://www.devx.com/dotnet/Article/36005/0/page/3](http://www.devx.com/dotnet/Article/36005/0/page/3)
+- page 4: [http://www.devx.com/dotnet/Article/36005/0/page/4](http://www.devx.com/dotnet/Article/36005/0/page/4)
+- page 5: [http://www.devx.com/dotnet/Article/36005/0/page/5](http://www.devx.com/dotnet/Article/36005/0/page/5)
+
 # Courses
 
 **Coursera: Discrete Optimization**
