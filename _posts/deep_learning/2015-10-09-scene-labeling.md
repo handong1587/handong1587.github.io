@@ -5,6 +5,8 @@ title: Scene Labeling
 date: 2015-10-09
 ---
 
+# Papers
+
 **Learning hierarchical features for scene labeling**
 
 - intro: "Their approach comprised of densely computing multi-scale CNN features
@@ -30,3 +32,11 @@ not very deep with only three convolution layers."
 [He et. al., "Deep Residual Learning for Image Recognition"](http://arxiv.org/abs/1512.03385).
 - blog: [http://www.nervanasys.com/using-neon-for-scene-recognition-mini-places2/](http://www.nervanasys.com/using-neon-for-scene-recognition-mini-places2/)
 - github: [https://github.com/hunterlang/mpmz](https://github.com/hunterlang/mpmz)
+
+# Challenges
+
+**Large-scale Scene Understanding Challenge**
+
+![](http://lsun.cs.princeton.edu/img/overview_4crop.jpg)
+
+- homepage: [http://lsun.cs.princeton.edu/](http://lsun.cs.princeton.edu/)

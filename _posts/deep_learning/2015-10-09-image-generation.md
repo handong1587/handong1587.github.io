@@ -75,6 +75,10 @@ date: 2015-10-09
 - slides: [http://slideplayer.com/slide/9147672/](http://slideplayer.com/slide/9147672/)
 - baidu-pan: [http://pan.baidu.com/s/1pKgrdnt](http://pan.baidu.com/s/1pKgrdnt)
 
+**Generating images with recurrent adversarial networks**
+
+- arxiv: [http://arxiv.org/abs/1602.05110](http://arxiv.org/abs/1602.05110)
+
 # Blog
 
 **Torch convolutional GAN: Generating Faces with Torch**

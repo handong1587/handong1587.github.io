@@ -240,6 +240,10 @@ date: 2015-10-09
 - demo: [http://simplecaptcha.sourceforge.net/](http://simplecaptcha.sourceforge.net/)
 - code: [http://sourceforge.net/projects/simplecaptcha/](http://sourceforge.net/projects/simplecaptcha/)
 
+**torch-rnn: Efficient, reusable RNNs and LSTMs for torch**
+
+- github: [https://github.com/jcjohnson/torch-rnn](https://github.com/jcjohnson/torch-rnn)
+
 # Blog
 
 **Survey on Attention-based Models Applied in NLP**

@@ -40,3 +40,7 @@ date: 2015-08-27
 
 - arxiv: [http://arxiv.org/abs/1512.07548](http://arxiv.org/abs/1512.07548)
 - note: [http://blog.csdn.net/cyh_24/article/details/50408884](http://blog.csdn.net/cyh_24/article/details/50408884)
+
+**Practical Introduction to Clustering Data**
+
+- arxiv: [http://arxiv.org/abs/1602.05124](http://arxiv.org/abs/1602.05124)

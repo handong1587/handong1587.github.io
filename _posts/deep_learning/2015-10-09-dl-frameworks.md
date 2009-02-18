@@ -127,6 +127,14 @@ date: 2015-10-09
 
 - github: [https://github.com/NVIDIA/DIGITS](https://github.com/NVIDIA/DIGITS)
 
+# dp
+
+**dp: A deep learning library for streamlining research and development using the Torch7 distribution**
+
+- github: [https://github.com/nicholas-leonard/dp](https://github.com/nicholas-leonard/dp)
+- manual: [https://dp.readthedocs.org/en/latest/](https://dp.readthedocs.org/en/latest/)
+- manual: [https://github.com/nicholas-leonard/dp/blob/master/doc/index.md](https://github.com/nicholas-leonard/dp/blob/master/doc/index.md)
+
 # IDLF
 
 **IDLF: The Intel® Deep Learning Framework**
