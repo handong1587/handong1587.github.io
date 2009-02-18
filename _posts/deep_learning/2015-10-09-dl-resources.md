@@ -353,6 +353,11 @@ with fast exact probabilistic inference over many layers."
 
 - arxiv: [http://arxiv.org/abs/1602.02505](http://arxiv.org/abs/1602.02505)
 
+**BinaryConnect: Training Deep Neural Networks with binary weights during propagations**
+
+- paper: [http://papers.nips.cc/paper/5647-shape-and-illumination-from-shading-using-the-generic-viewpoint-assumption](http://papers.nips.cc/paper/5647-shape-and-illumination-from-shading-using-the-generic-viewpoint-assumption)
+- github: [https://github.com/MatthieuCourbariaux/BinaryConnect](https://github.com/MatthieuCourbariaux/BinaryConnect)
+
 **BinaryNet: Training Deep Neural Networks with Weights and Activations Constrained to +1 or -1**
 
 - arxiv: [http://arxiv.org/abs/1602.02830](http://arxiv.org/abs/1602.02830)
