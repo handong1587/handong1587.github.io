@@ -124,6 +124,10 @@ date: 2015-10-09
 
 - pan: [http://pan.baidu.com/s/1bn51BYJ](http://pan.baidu.com/s/1bn51BYJ)
 
+**Using Deep Q-Learning to Control Optimization Hyperparameters**
+
+- arxiv: [http://arxiv.org/abs/1602.04062](http://arxiv.org/abs/1602.04062)
+
 # Blogs
 
 **A Short Introduction To Some Reinforcement Learning Algorithms**
