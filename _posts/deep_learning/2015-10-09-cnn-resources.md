@@ -162,6 +162,10 @@ Bicubic VS. Shepard CNN
 - arxiv: [http://arxiv.org/abs/1511.05520](http://arxiv.org/abs/1511.05520)
 - github: [https://github.com/glennq/instrument-recognition](https://github.com/glennq/instrument-recognition)
 
+**PlaNet - Photo Geolocation with Convolutional Neural Networks**
+
+- arxiv: [http://arxiv.org/abs/1602.05314](http://arxiv.org/abs/1602.05314)
+
 # Blogs
 
 **Automatic Colorization (Tensorflow + VGG)**

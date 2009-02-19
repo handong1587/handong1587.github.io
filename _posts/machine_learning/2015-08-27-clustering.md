@@ -44,3 +44,12 @@ date: 2015-08-27
 **Practical Introduction to Clustering Data**
 
 - arxiv: [http://arxiv.org/abs/1602.05124](http://arxiv.org/abs/1602.05124)
+
+# Codes
+
+**MusicMappr: Find patterns in your favorite songs and remix them on the fly!**
+
+- intro: MusicMappr finds chunks of songs that are similar, and clusters them accordingly. 
+You can visualize these clusters and play them back at will.
+This is for music lovers who are curious about the structures inherent to their favorite songs.
+- github: [https://github.com/fatsmcgee/MusicMappr](https://github.com/fatsmcgee/MusicMappr)
