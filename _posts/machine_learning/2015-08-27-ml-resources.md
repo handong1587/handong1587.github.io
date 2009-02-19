@@ -154,6 +154,10 @@ Other awesome lists can be found in this [list](https://github.com/sindresorhus/
 
 - blog: [http://www.datasciencecentral.com/profiles/blogs/10-types-of-regressions-which-one-to-use](http://www.datasciencecentral.com/profiles/blogs/10-types-of-regressions-which-one-to-use)
 
+**Harder, Better, Faster, Stronger Convergence Rates for Least-Squares Regression**
+
+- arxiv: [http://arxiv.org/abs/1602.05419](http://arxiv.org/abs/1602.05419)
+
 # Topic Model
 
 **Care and Feeding of Topic Models: Problems, Diagnostics, and Improvements**
