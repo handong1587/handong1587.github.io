@@ -33,6 +33,10 @@ Link    specifies the new symbolic link name.
 Target  specifies the path (relative or absolute) that the new link refers to.
 {% endhighlight %}
 
+**List all files into a txt**
+
+`dir /s /b /a *.jpg > list.txt` 
+
 # Utilities
 
 **A Utility to Unassociate File Types in Windows 7 and Vista**
