@@ -104,10 +104,10 @@ Bicubic VS. Shepard CNN
 
 - paper: [http://arxiv.org/abs/1509.05371](http://arxiv.org/abs/1509.05371)
 
-**Convolutional networks for real-time 6-DOF camera relocalization**
+**PoseNet: A Convolutional Network for Real-Time 6-DOF Camera Relocalization**
 
 - paper: [http://arxiv.org/abs/1505.07427](http://arxiv.org/abs/1505.07427)
-- website: [http://mi.eng.cam.ac.uk/projects/relocalisation/#results](http://mi.eng.cam.ac.uk/projects/relocalisation/#results)
+- project page: [http://mi.eng.cam.ac.uk/projects/relocalisation/#results](http://mi.eng.cam.ac.uk/projects/relocalisation/#results)
 
 **Modelling Uncertainty in Deep Learning for Camera Relocalization**
 
