@@ -9,7 +9,7 @@ permalink: /linux_svn/
 
 
 
-```bash
+```{r, engine='bash', count_lines}
 svnadmin create /svn/foo/mydirname
 ```
 
