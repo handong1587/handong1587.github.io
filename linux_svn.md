@@ -4,7 +4,7 @@ mathjax: true
 permalink: /linux_svn/
 ---
 
-#### 1. Create a repository:
+**1. Create a repository:**
 
 
 
