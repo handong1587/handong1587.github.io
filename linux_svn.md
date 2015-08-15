@@ -1,7 +1,7 @@
 ---
 layout: page
 mathjax: true
-permalink: /linux_svn.md/
+permalink: /linux_svn/
 ---
 
 #### 1. Create a repository:
