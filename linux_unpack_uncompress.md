@@ -1,3 +1,9 @@
+---
+layout: page
+mathjax: true
+permalink: /linux_unpack_uncompress/
+---
+
 **.tar**
 
 ```shell

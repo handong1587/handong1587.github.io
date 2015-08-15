@@ -1,7 +1,7 @@
 ---
 layout: page
 mathjax: true
-permalink: /linux_svn/
+permalink: /linux_git/
 ---
 
 **1. Push local modification to server**

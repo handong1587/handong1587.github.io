@@ -1,3 +1,9 @@
+---
+layout: page
+mathjax: true
+permalink: /python/
+---
+
 **1. Draw rectangle:**
 
 ```python
