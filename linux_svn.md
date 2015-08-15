@@ -1,3 +1,9 @@
+---
+layout: page
+mathjax: true
+permalink: /linux_svn.md/
+---
+
 #### 1. Create a repository:
 ```shell
 svnadmin create /svn/foo/mydirname
