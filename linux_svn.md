@@ -1,6 +1,5 @@
 ---
 layout: page
-mathjax: true
 permalink: /linux_svn/
 ---
 
