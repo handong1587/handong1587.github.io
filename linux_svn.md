@@ -6,6 +6,9 @@ permalink: /linux_svn/
 
 #### 1. Create a repository:
 
+
+
+
 ```bash
 svnadmin create /svn/foo/mydirname
 ```
