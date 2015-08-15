@@ -5,55 +5,55 @@ permalink: /linux_svn/
 ---
 
 #### 1. Create a repository:
-```shell
+```bash
 svnadmin create /svn/foo/mydirname
 ```
 
 #### 2. Want to version control /home/user/mydirname:
-```shell
+```bash
 cd /home/user/mydirname
 ```
 
 #### 3. This only creates the ".svn" folder for version control:
-```shell
+```bash
 svn co file:///svn/foo/mydirname .
 ```
 
 #### 4. Tell svn you want to version control all files in this directory:
-```shell
+```bash
 svn add ./*
 ```
 
 #### 5. Check the files in:
-```shell
+```bash
 svn ci
 ```
 
 #### 6. Check file in with comment:
-```shell
+```bash
 svn ci -m "your_comment"
 ```
 
 #### 7. Checkout project
-```shell
+```bash
 cd /home/user/projectx
 svn checkout file:///svnrepo/projectx .
 ```
 
 #### 8. Show only the last 4 log entries(need to svn update first in working copy directory)
-```shell
+```bash
 svn log --limit 4
 svn log -l 4
 ```
 
 #### 9. Add all files
-```shell
+```bash
 svn add --force path/to/dir
 svn add --force .
 ```
 
 #### 10. Checkout specified revision
-```shell
+```bash
 svn checkout svn://somepath@1234 working-directory
 svn checkout -r 1234 url://repository/path
 ```
