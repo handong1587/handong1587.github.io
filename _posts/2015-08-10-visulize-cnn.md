@@ -30,6 +30,10 @@ title: Visualize Convolutional Neural Network
 
 - code: [deepdream](https://github.com/google/deepdream)
 
+**cnn-vis**:
+
+- code: [cnn-vis](https://github.com/jcjohnson/cnn-vis)
+
 **deepViz: Visualizing Convolutional Neural Networks for Image Classification**:
 
 - paper: [DeepVizPaper](http://vis.berkeley.edu/courses/cs294-10-fa13/wiki/images/f/fd/DeepVizPaper.pdf)
