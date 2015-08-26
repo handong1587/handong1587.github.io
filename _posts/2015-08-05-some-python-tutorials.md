@@ -1,6 +1,6 @@
 ---
-layout: page
-permalink: /python/
+layout: post
+title: Some Python Tutorials
 ---
 
 **1. Draw rectangle:**
