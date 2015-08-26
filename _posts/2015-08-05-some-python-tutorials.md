@@ -3,6 +3,11 @@ layout: post
 title: Some Python Tutorials
 ---
 
+{{ page.title }}
+================
+
+<p class="meta">05 Apr 2015 - Beijing</p>
+
 **1. Draw rectangle:**
 
 ```python

@@ -1,7 +1,12 @@
 ---
-layout: page
-permalink: /batch_rename/
+layout: post
+title: Linux Batch Rename Commands
 ---
+
+{{ page.title }}
+================
+
+<p class="meta">04 Apr 2015 - Beijing</p>
 
 **1. Replace first letter of all files' name with 'q':**
 

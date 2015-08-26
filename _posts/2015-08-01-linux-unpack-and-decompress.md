@@ -1,8 +1,12 @@
 ---
-layout: page
-mathjax: true
-permalink: /linux_unpack_uncompress/
+layout: post
+title: Linux Unpack and Decompression Commands
 ---
+
+{{ page.title }}
+================
+
+<p class="meta">01 Apr 2015 - Beijing</p>
 
 **.tar**
 
