@@ -1,1 +1,1 @@
-My personal study notes.
+My personal study notes, thoughts on life, etc.
