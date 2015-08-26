@@ -14,13 +14,13 @@ title: Object Detection Papers and Slides
 - slide: [rcnn-cvpr14-slides](http://www.cs.berkeley.edu/~rbg/slides/rcnn-cvpr14-slides.pdf)
 - code: [rcnn](https://github.com/rbgirshick/rcnn)
 
-**Fast R-CNN: Towards Real-Time Object Detection with Region Proposal Networks**:
+**Fast R-CNN**:
 
 - paper: [arXiv:1504.08083](http://arxiv.org/abs/1504.08083)
 - slide: [caffe-cvpr15-detection](http://tutorial.caffe.berkeleyvision.org/caffe-cvpr15-detection.pdf)
 - code: [fast-rcnn](https://github.com/rbgirshick/fast-rcnn)
 
-**Faster R-CNN**:
+**Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks**:
 
 - paper: [arXiv:1506.01497](http://arxiv.org/abs/1506.01497)
 - code: [caffe](https://github.com/ShaoqingRen/caffe)
