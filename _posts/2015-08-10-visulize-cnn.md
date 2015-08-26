@@ -6,7 +6,7 @@ title: Visualize Convolutional Neural Network
 {{ page.title }}
 ================
 
-<p class="meta">10 Apr 2015 - Beijing</p>
+<p class="meta">10 Aug 2015 - Beijing</p>
 
 **Visualizing and Understanding Convolutional Network**:
 

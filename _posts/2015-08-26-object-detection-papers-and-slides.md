@@ -6,13 +6,21 @@ title: Object Detection Papers and Slides
 {{ page.title }}
 ================
 
-<p class="meta">26 Apr 2015 - Beijing</p>
+<p class="meta">26 Aug 2015 - Beijing</p>
+
+**OverFeat: Integrated Recognition, Localization and Detection using Convolutional Networks**:
+
+- paper: [arXiv:1312.6229](http://arxiv.org/abs/1312.6229)
 
 **Rich feature hierarchies for accurate object detection and semantic segmentation**:
 
 - paper: [arXiv:1311.2524](http://arxiv.org/abs/1311.2524)
 - slides: [rcnn-cvpr14-slides](http://www.cs.berkeley.edu/~rbg/slides/rcnn-cvpr14-slides.pdf)
 - code: [rcnn](https://github.com/rbgirshick/rcnn)
+
+**Spatial Pyramid Pooling in Deep Convolutional Networks for Visual Recognition**:
+
+- paper: [arXiv:1406.4729](http://arxiv.org/abs/1406.4729)
 
 **Fast R-CNN**:
 

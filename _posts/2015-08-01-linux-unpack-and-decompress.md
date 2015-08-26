@@ -6,7 +6,7 @@ title: Linux Unpack and Decompression Commands
 {{ page.title }}
 ================
 
-<p class="meta">01 Apr 2015 - Beijing</p>
+<p class="meta">01 Aug 2015 - Beijing</p>
 
 **.tar**
 
