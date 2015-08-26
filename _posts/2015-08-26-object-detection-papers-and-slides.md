@@ -46,6 +46,10 @@ title: Object Detection Papers and Slides
 
 - paper: [arXiv:1506.06981](http://arxiv.org/abs/1506.06981)
 
+**End-to-end people detection in crowded scenes**
+
+- paper: [arXiv:1506.04878](http://arxiv.org/abs/1506.04878)
+
 **Improving Object Detection with Deep Convolutional Networks via Bayesian Optimization 
 and Structured Prediction**:
 
