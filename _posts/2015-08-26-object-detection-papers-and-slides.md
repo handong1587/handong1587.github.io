@@ -25,6 +25,10 @@ title: Object Detection Papers and Slides
 - paper: [arXiv:1506.01497](http://arxiv.org/abs/1506.01497)
 - code: [caffe](https://github.com/ShaoqingRen/caffe)
 
+**Object detection via a multi-region & semantic segmentation-aware CNN model**:
+
+- paper: [arXiv:1505.01749](http://arxiv.org/abs/1505.01749)
+
 **You Only Look Once: Unified, Real-Time Object Detection**:
 
 - paper: [arXiv:1506.02640](http://arxiv.org/abs/1506.02640)
