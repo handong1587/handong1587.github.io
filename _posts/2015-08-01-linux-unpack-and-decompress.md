@@ -31,6 +31,7 @@ compress: tar zcvf FileName.tar.gz DirName
 ```
 
 **.bz2**
+
 ```bash
 uncompress: bzip2 -d FileName.bz2
 uncompress: bunzip2 FileName.bz2
@@ -118,7 +119,5 @@ compress: sEx a FileName.* FileName
 ```bash
 xz -d linux-3.12.tar.xz
 tar -xf linux-3.12.tar
-```
-```bash
 tar -Jxf linux-3.12.tar.xz
 ```
