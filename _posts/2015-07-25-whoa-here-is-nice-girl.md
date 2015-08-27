@@ -6,6 +6,7 @@ title: Whoa Here is A Nice Girl~
 {{ page.title }}
 ================
 
+<!--
 <p class="meta">24 Jul 2015 - Beijing</p>
 
 One way to show a image in markdown file:
@@ -25,10 +26,9 @@ Another way:
 
 ![alt text](/assets/girl.jpg "Can this title be shown?")
 
-
-Fourth way:
+-->
 
 <div class="fig figcenter fighighlight">
   <img src="/assets/girl.jpg">
-  <div class="figcaption">Can this title be shown, either?</div>
+  <div class="figcaption">This is a caption..</div>
 </div>
