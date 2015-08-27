@@ -20,7 +20,15 @@ Alternative way:
     <img src="/assets/girl.jpg">
 </div>
 
+
 Another way:
 
-![alt text](/assets/girl.jpg 'title for this girl')
+![alt text](/assets/girl.jpg "Can this title be shown?")
 
+
+Fourth way:
+
+<div class="fig figcenter fighighlight">
+  <img src="/assets/girl.jpg">
+  <div class="figcaption">Can this title be shown, either?</div>
+</div>
