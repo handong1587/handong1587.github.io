@@ -8,8 +8,8 @@ title: Image Testing
 
 <p class="meta">24 Jul 2015 - Beijing</p>
 
-<div class="fig figcenter fighighlight">
+<div style="float:right">
     <img src="../assets/girl.jpg">
 </div>
 
-<img style="float: right;" src="../assets/girl.jpg">
+<!-- <img style="float: right;" src="../assets/girl.jpg"> -->
