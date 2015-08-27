@@ -8,7 +8,7 @@ title: Whoa Here is A Nice Girl~
 
 <p class="meta">24 Jul 2015 - Beijing</p>
 
-Another way to show a image in markdown file:
+One way to show a image in markdown file:
 
 <div style="float:center">
     <img src="/assets/girl.jpg">
@@ -17,7 +17,7 @@ Another way to show a image in markdown file:
 Alternative way:
 
 <div style="float:left;margin:0 10px 10px 0" markdown="1">
-    ![girl](/assets/girl.jpg)
+    <img src="/assets/girl.jpg">
 </div>
 
 Another way:
