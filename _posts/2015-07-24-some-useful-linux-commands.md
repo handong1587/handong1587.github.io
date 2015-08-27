@@ -8,7 +8,7 @@ title: Some Useful Linux Commands
 
 <p class="meta">24 Jul 2015 - Beijing</p>
 
-1. Counting files in the Current Directory:
+Counting files in the Current Directory:
 
 ```bash
 ls -l | grep “^-” | wc -l
@@ -22,13 +22,13 @@ ls -lR /home/account | grep js | wc -l
 ls -l "/home/account" | grep "js" | wc -l
 ```
 
-2. Counting files in the current directory, recursively:
+Counting files in the current directory, recursively:
 
 ```bash
 ls -lR | grep “^-” | wc -l
 ```
 
-3. Counting folders in the current directory, recursively:
+Counting folders in the current directory, recursively:
 
 ```bash
 ls -lR | grep “^d” | wc -l
@@ -46,9 +46,7 @@ Remote transfer files, local -> remote:
 scp /path/to/local/file account@111.111.111.111:/path/to/remote/
 ```
 
-Launch terminal in Ubuntu:
-
-Ctrl+Alt+T
+Launch terminal in Ubuntu: Ctrl+Alt+T
 
 Print system info:
 
@@ -75,6 +73,8 @@ Print folder in current directory:
 
 ```bash
 ls -lF |grep /
+```
+```bash
 ls -l |grep '^d'
 ```
 
@@ -123,6 +123,8 @@ Print disk free space:
 
 ```bash
 df -h
+```
+```bash
 df -hl
 ```
 Print current folder size
