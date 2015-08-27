@@ -165,7 +165,6 @@ Download all files from a folder on a website or FTP:
 
 ```bash
 wget -r --no-parent --reject "index.html*" http://vision.cs.utexas.edu/voc/
-http://www.gnu.org/software/wget/manual/html_node/Recursive-Retrieval-Options.html
 ```
 
 Perl-based rename commands(-n: test commands; -v: print renamed files):
@@ -191,7 +190,7 @@ Re-connect screen:
 screen -r pid
 ```
 
-Display all screen:
+Display all screens:
 
 ```bash
 screen -ls
@@ -275,3 +274,22 @@ nvcc --version
 ```
 
 Print graphics card GPU info: nvidia-smi
+
+Comment multi-lines in Matlab: Ctrl+R, Ctrl+T
+
+Launch Matlab:
+
+```bash
+cd /usr/local/bin/
+sudo ln -s /usr/local/MATLAB/R2012a/bin/matlab Matlab
+```
+```bash
+gedit ~/.bashrc
+alias matlab="/usr/local/MATLAB/R2012a/bin/matlab"
+```
+
+Create new file list:
+
+```bash
+sed 's?^?'`pwd`'/detection_images/?; s?$?.jpg?' trainval.txt > voc.2007trainval.list
+```
