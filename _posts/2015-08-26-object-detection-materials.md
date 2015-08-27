@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Object Detection Papers and Slides
+title: Object Detection Materials
 ---
 
 {{ page.title }}
