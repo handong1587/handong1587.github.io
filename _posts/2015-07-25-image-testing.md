@@ -8,4 +8,6 @@ title: Image Testing
 
 <p class="meta">24 Jul 2015 - Beijing</p>
 
-Left for blank.
+<img style="float: right;" src="/assets/girl.jpg">
+
+<img style="float: right;" src="../assets/girl.jpg">
