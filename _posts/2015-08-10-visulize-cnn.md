@@ -22,9 +22,10 @@ title: Visualize Convolutional Neural Network
 - paper: [arXiv:1412.0035](http://arxiv.org/abs/1412.0035)
 - code: [deep-goggle](https://github.com/aravindhm/deep-goggle)
 
-**deep-visualization-toolbox**:
+**Interactive Deep Neural Net Hallucinations**
 
-- code: [deep-visualization-toolbox](https://github.com/yosinski/deep-visualization-toolbox)
+- project: [Dream](http://317070.github.io/Dream/)
+- code: [Twitch-plays-LSD-neural-net](https://github.com/317070/Twitch-plays-LSD-neural-net)
 
 **deepdream**:
 
@@ -54,7 +55,15 @@ title: Visualize Convolutional Neural Network
 **Understanding Neural Networks Through Deep Visualization**:
 
 - paper: [arXiv:1506.06579](http://arxiv.org/abs/1506.06579)
+- project: [deepvis](http://yosinski.com/deepvis)
+- code: [deep-visualization-toolbox](https://github.com/yosinski/deep-visualization-toolbox)
 
 **Visualizing Higher-Layer Features of a Deep Network**:
 
 - paper: [visualization_techreport](http://www.iro.umontreal.ca/~lisa/publications2/index.php/publications/show/247)
+
+**Generative Modeling of Convolutional Neural Networks**
+
+- paper: [arXiv:1412.6296](http://arxiv.org/abs/1412.6296)
+- project: [generativeCNN](http://www.stat.ucla.edu/~yang.lu/Project/generativeCNN/main.html)
+- code: [caffe-generative.zip](http://www.stat.ucla.edu/~yang.lu/Project/generativeCNN/doc/caffe-generative.zip)
