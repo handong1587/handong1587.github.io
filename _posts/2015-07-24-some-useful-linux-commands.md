@@ -179,8 +179,7 @@ Some Cscope parameters:
 
 Convert text files with DOS or MAC line breaks to Unix line breaks
 
-<pre class="terminal">
-<code>$ sudo dos2unix /path/to/file
+<pre class="terminal"><code>$ sudo dos2unix /path/to/file
 $ sudo sed -i -e 's/\r$//' /path/to/file</code></pre>
 
 Print graphics card version:
@@ -208,9 +207,9 @@ Create new file list:
 
 **Ctags**:
 
-<pre class="terminal"><code>ctags –R * </code></pre>: Generate tags files in source code root directory
+<code>ctags –R * </code>: Generate tags files in source code root directory
 
-<pre class="terminal"><code>vim -t func/var</code>></pre>: find func/var definition
+<code>vim -t func/var</code>: find func/var definition
 
 <code>:ts</code>: give a list if func/var has multiple definitions
 
