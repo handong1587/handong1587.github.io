@@ -288,6 +288,13 @@ gedit ~/.bashrc
 alias matlab="/usr/local/MATLAB/R2012a/bin/matlab"
 ```
 
+<pre class="terminal"><code>
+$ cd /usr/local/bin/
+$ sudo ln -s /usr/local/MATLAB/R2012a/bin/matlab Matlab
+$ gedit ~/.bashrc
+$ alias matlab="/usr/local/MATLAB/R2012a/bin/matlab"
+</code></pre>
+
 Create new file list:
 
 <pre class="terminal"><code>$ sed 's?^?'`pwd`'/detection_images/?; s?$?.jpg?' trainval.txt > voc.2007trainval.list</code></pre>
