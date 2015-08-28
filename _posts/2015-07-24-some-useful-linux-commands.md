@@ -279,15 +279,6 @@ Comment multi-lines in Matlab: Ctrl+R, Ctrl+T
 
 Launch Matlab:
 
-```bash
-cd /usr/local/bin/
-sudo ln -s /usr/local/MATLAB/R2012a/bin/matlab Matlab
-```
-```bash
-gedit ~/.bashrc
-alias matlab="/usr/local/MATLAB/R2012a/bin/matlab"
-```
-
 <pre class="terminal">
 <code>$ cd /usr/local/bin/
 $ sudo ln -s /usr/local/MATLAB/R2012a/bin/matlab Matlab
