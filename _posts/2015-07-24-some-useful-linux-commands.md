@@ -10,222 +10,139 @@ title: Some Useful Linux Commands
 
 Counting files in the current directory:
 
-```bash
-ls -l | grep “^-” | wc -l
-```
-example: counting all js files in directory "/home/account/" (recursively:)
+<pre class="terminal"><code>$ ls -l | grep “^-” | wc -l</code></pre>
 
-```bash
-ls -lR /home/account | grep js | wc -l
-```
-```bash
-ls -l "/home/account" | grep "js" | wc -l
-```
+example: counting all js files in directory "/home/account/" (recursively):
+
+<pre class="terminal"><code>$ ls -lR /home/account | grep js | wc -l</code></pre>
+<pre class="terminal"><code>$ ls -l "/home/account" | grep "js" | wc -l</code></pre>
 
 Counting files in the current directory, recursively:
 
-```bash
-ls -lR | grep “^-” | wc -l
-```
+<pre class="terminal"><code>$ ls -lR | grep “^-” | wc -l</code></pre>
 
 Counting folders in the current directory, recursively:
 
-```bash
-ls -lR | grep “^d” | wc -l
-```
+<pre class="terminal"><code>$ ls -lR | grep “^d” | wc -l</code></pre>
 
 Remote transfer files, remote -> local:
 
-```bash
-scp account@111.111.111.111:/path/to/remote/file /path/to/local/
-```
+<pre class="terminal"><code>$ scp account@111.111.111.111:/path/to/remote/file /path/to/local/</code></pre>
 
 Remote transfer files, local -> remote:
 
-```bash
-scp /path/to/local/file account@111.111.111.111:/path/to/remote/
-```
+<pre class="terminal"><code>$ scp /path/to/local/file account@111.111.111.111:/path/to/remote/</code></pre>
 
 Launch terminal in Ubuntu: Ctrl+Alt+T
 
 Print system info:
 
-```bash
-cat /proc/version
-```
+<pre class="terminal"><code>$ cat /proc/version</code></pre>
 
 Open image:
 
-```bash
-eog /path/to/image/im.jpg
-```
-```bash
-display /path/to/image/im.jpg
-```
+<pre class="terminal"><code>$ eog /path/to/image/im.jpg</code></pre>
+<pre class="terminal"><code>$ display /path/to/image/im.jpg</code></pre>
 
 Print directory structure:
 
-```bash
-ls -l -R
-```
+<pre class="terminal"><code>$ ls -l -R</code></pre>
 
 Print folder in current directory:
 
-```bash
-ls -lF |grep /
-```
-```bash
-ls -l |grep '^d'
-```
+<pre class="terminal"><code>$ ls -lF |grep /</code></pre>
+<pre class="terminal"><code>$ ls -l |grep '^d'</code></pre>
 
 Print history command:
 
-```bash
-history
-```
-```bash
-history | less
-```
+<pre class="terminal"><code>$ history</code></pre>
+<pre class="terminal"><code>$ history | less</code></pre>
 
 Print software info:
 
-```bash
-whereis SOFEWARE
-```
-```bash
+<pre class="terminal"><code>$ whereis SOFEWARE</code></pre>
 which SOFEWARE
-```
-```bash
-locate SOFEWARE
-```
+locate SOFEWARE</code></pre>
 
 Print CPU info:
 
-```bash
-cat /proc/cpuinfo
-```
-
-```bash
-dmesg |grep -i xeon
-```
+<pre class="terminal"><code>$ cat /proc/cpuinfo</code></pre>
+dmesg |grep -i xeon</code></pre>
 
 Print memory info:
 
-```bash
-cat /proc/meminfo
-```
-
-```bash
-free -m
-```
+<pre class="terminal"><code>$ cat /proc/meminfo</code></pre>
+<pre class="terminal"><code>$ free -m</code></pre>
 
 Print disk free space:
 
-```bash
-df -h
-```
-```bash
-df -hl
-```
+<pre class="terminal"><code>$ df -h
+df -hl</code></pre>
+
 Print current folder size
 
-```bash
-du -sh DIRNAME
-```
+<pre class="terminal"><code>$ du -sh DIRNAME</code></pre>
 
 Print target folder volume (in MB)
 
-```bash
-du -sm
-```
+<pre class="terminal"><code>$ du -sm</code></pre>
 
 Create symbol link:
 
-```bash
-ln -s EXISTING_FILE SYMLINK_FILE
-```
-
-```bash
-ln -s /path/to/file /path/to/symlink
-```
+<pre class="terminal"><code>$ ln -s EXISTING_FILE SYMLINK_FILE
+ln -s /path/to/file /path/to/symlink</code></pre>
 
 Download file:
 
-```bash
-wget "http://domain.com/directory/4?action=AttachFile&do=view&target=file.tgz"
-```
+<pre class="terminal"><code>$ wget "http://domain.com/directory/4?action=AttachFile&do=view&target=file.tgz"</code></pre>
 
 Download file to specific directory:
 
-```bash
-wget -O /home/omio/Desktop/ "http://thecanadiantestbox.x10.mx/CC.zip"
-```
+<pre class="terminal"><code>$ wget -O /home/omio/Desktop/ "http://thecanadiantestbox.x10.mx/CC.zip"</code></pre>
 
 Download all files from a folder on a website or FTP:
 
-```bash
-wget -r --no-parent --reject "index.html*" http://vision.cs.utexas.edu/voc/
-```
+<pre class="terminal"><code>$ wget -r --no-parent --reject "index.html*" http://vision.cs.utexas.edu/voc/</code></pre>
 
 Perl-based rename commands(-n: test commands; -v: print renamed files):
 
-```bash
-rename -n 's/\.htm$/\.html/' *.htm
-```
-```bash
-rename -v 's/\.htm$/\.html/' *.htm
-```
+<pre class="terminal"><code>$ rename -n 's/\.htm$/\.html/' \*.htm</code></pre>
+<pre class="terminal"><code>$ rename -v 's/\.htm$/\.html/' \*.htm</code></pre>
 
 Run program in screen mode:
 
-```bash
-screen python demo.py --gpu 1
-```
+<pre class="terminal"><code>$ screen python demo.py --gpu 1</code></pre>
 
 Detach screen: Ctrl + a, c
 
 Re-connect screen:
 
-```bash
-screen -r pid
-```
+<pre class="terminal"><code>$ screen -r pid</code></pre>
 
 Display all screens:
 
-```bash
-screen -ls
-```
+<pre class="terminal"><code>$ screen -ls</code></pre>
 
 Delete screen:
 
-```bash
-kill pid
-```
+<pre class="terminal"><code>$ kill pid</code></pre>
 
 Naming a screen:
 
-```bash
-screen -S sessionName
-```
+<pre class="terminal"><code>$ screen -S sessionName</code></pre>
 
 Generate Cscope database:
 
-```bash
-find . -name "*.c" -o -name "*.cc" -o -name "*.cpp" -o -name "*.cu" 
--o -name "*.h" -o -name "*.hpp" -o -name "*.py" -o -name "*.proto" > cscope.files
-```
+<pre class="terminal"><code>$ find . -name "\*.c" -o -name "\*.cc" -o -name "\*.cpp" -o -name "\*.cu" 
+-o -name "\*.h" -o -name "\*.hpp" -o -name "\*.py" -o -name "\*.proto" > cscope.files</code></pre>
 
 Build a Cscope reference database:
 
-```bash
-cscope -q -R -b -i cscope.files
-```
+<pre class="terminal"><code>$ cscope -q -R -b -i cscope.files</code></pre>
 
 Start the Cscope browser:
 
-```bash
-cscope -d
-```
+<pre class="terminal"><code>$ cscope -d</code></pre>
 
 Exit a Cscope browser: Ctrl + d
 
@@ -260,20 +177,16 @@ Some Cscope parameters:
 
 Convert text files with DOS or MAC line breaks to Unix line breaks
 
-```bash
-sudo dos2unix /path/to/file
-```
-```bash
-sudo sed -i -e 's/\r$//' /path/to/file
-```
+<pre class="terminal"><code>$ sudo dos2unix /path/to/file
+sudo sed -i -e 's/\r$//' /path/to/file</code></pre>
 
 Print graphics card version:
 
-```bash
-nvcc --version
-```
+<pre class="terminal"><code>$ nvcc --version</code></pre>
 
-Print graphics card GPU info: nvidia-smi
+Print graphics card GPU info: 
+
+<pre class="terminal"><code>$ nvidia-smi</code></pre>
 
 Comment multi-lines in Matlab: Ctrl+R, Ctrl+T
 
