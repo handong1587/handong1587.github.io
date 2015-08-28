@@ -12,3 +12,8 @@ title: NLP Materials
 
 - paper: [arXiv:1508.06615](http://arxiv.org/abs/1508.06615)
 - code: [lstm-char-cnn](https://github.com/yoonkim/lstm-char-cnn)
+
+**Skip-Thought Vectors**
+
+- paper: [arXiv:1506.06726](http://arxiv.org/abs/1506.06726)
+- code: [skip-thoughts](https://github.com/ryankiros/skip-thoughts)

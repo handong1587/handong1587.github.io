@@ -34,6 +34,14 @@ title: Visualize Convolutional Neural Network
 
 - code: [cnn-vis](https://github.com/jcjohnson/cnn-vis)
 
+**deepdraw**
+
+- code: [deepdraw](https://github.com/auduno/deepdraw)
+
+**bat-country**
+
+- code: [bat-country](https://github.com/jrosebr1/bat-country)
+
 **deepViz: Visualizing Convolutional Neural Networks for Image Classification**:
 
 - paper: [DeepVizPaper](http://vis.berkeley.edu/courses/cs294-10-fa13/wiki/images/f/fd/DeepVizPaper.pdf)
