@@ -60,9 +60,11 @@ Print history command:
 
 Print software info:
 
-<pre class="terminal"><code>$ whereis SOFEWARE</code></pre>
-which SOFEWARE
-locate SOFEWARE</code></pre>
+<pre class="terminal">
+<code>$ whereis SOFEWARE
+$ which SOFEWARE
+$ locate SOFEWARE
+</code></pre>
 
 Print CPU info:
 
@@ -77,7 +79,7 @@ Print memory info:
 Print disk free space:
 
 <pre class="terminal"><code>$ df -h
-df -hl</code></pre>
+$ df -hl</code></pre>
 
 Print current folder size
 
@@ -90,7 +92,7 @@ Print target folder volume (in MB)
 Create symbol link:
 
 <pre class="terminal"><code>$ ln -s EXISTING_FILE SYMLINK_FILE
-ln -s /path/to/file /path/to/symlink</code></pre>
+$ ln -s /path/to/file /path/to/symlink</code></pre>
 
 Download file:
 
@@ -177,8 +179,9 @@ Some Cscope parameters:
 
 Convert text files with DOS or MAC line breaks to Unix line breaks
 
-<pre class="terminal"><code>$ sudo dos2unix /path/to/file
-sudo sed -i -e 's/\r$//' /path/to/file</code></pre>
+<pre class="terminal">
+<code>$ sudo dos2unix /path/to/file
+$ sudo sed -i -e 's/\r$//' /path/to/file</code></pre>
 
 Print graphics card version:
 
@@ -205,9 +208,9 @@ Create new file list:
 
 **Ctags**:
 
-<code>ctags –R * </code>: Generate tags files in source code root directory
+<pre class="terminal"><code>ctags –R * </code></pre>: Generate tags files in source code root directory
 
-<code>vim -t func/var</code>: find func/var definition
+<pre class="terminal"><code>vim -t func/var</code>></pre>: find func/var definition
 
 <code>:ts</code>: give a list if func/var has multiple definitions
 
