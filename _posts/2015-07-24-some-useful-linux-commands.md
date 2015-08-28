@@ -293,3 +293,11 @@ Create new file list:
 ```bash
 sed 's?^?'`pwd`'/detection_images/?; s?$?.jpg?' trainval.txt > voc.2007trainval.list
 ```
+
+**Ctags**:
+
+<code>ctags –R * </code>: Generate tags files in source code root directory
+<code>vim -t func/var</code>: find func/var definition
+<code>:ts</code>: give a list if func/var has multiple definitions
+<code>Ctrl+]</code>: jump to definition
+<code>Ctrl+T</code>: jump back

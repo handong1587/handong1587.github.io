@@ -8,6 +8,14 @@ title: Some Useful Vim Shortcuts
 
 <p class="meta">24 Jul 2015 - Beijing</p>
 
+**Some powerful VIM configuration projects on Github**:
+
+[spf13-vim](https://github.com/spf13/spf13-vim)
+[dot-vimrc](https://github.com/humiaozuzu/dot-vimrc)
+[vimrc](https://github.com/amix/vimrc)
+
+**Shortcuts**:
+
 [Shifting blocks visually](http://vim.wikia.com/wiki/Shifting_blocks_visually)
 
 In normal mode: type **>>** to indent the current line, or **<<** to unindent.

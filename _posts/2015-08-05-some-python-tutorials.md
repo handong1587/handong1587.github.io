@@ -37,3 +37,18 @@ img.save('my.png')
 ```python
 np.asarray(a).reshape(-1)
 ```
+
+**4. Simple operations**
+
+```python
+os.getcwd()
+os.chdir(path)
+os.path.dirname(os.path.abspath(__file__))
+```
+
+```python
+from operator import itemgetter  # sort
+import numpy as np
+np.amax
+np.sum
+```
