@@ -11,7 +11,9 @@ title: Some Useful Vim Shortcuts
 **Some powerful VIM configuration projects on Github**:
 
 [spf13-vim](https://github.com/spf13/spf13-vim)
+
 [dot-vimrc](https://github.com/humiaozuzu/dot-vimrc)
+
 [vimrc](https://github.com/amix/vimrc)
 
 **Shortcuts**:
