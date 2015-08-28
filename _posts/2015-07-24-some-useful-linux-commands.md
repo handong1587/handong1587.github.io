@@ -290,9 +290,7 @@ alias matlab="/usr/local/MATLAB/R2012a/bin/matlab"
 
 Create new file list:
 
-```bash
-sed 's?^?'`pwd`'/detection_images/?; s?$?.jpg?' trainval.txt > voc.2007trainval.list
-```
+<pre class="terminal"><code>$ sed 's?^?'`pwd`'/detection_images/?; s?$?.jpg?' trainval.txt > voc.2007trainval.list</code></pre>
 
 **Ctags**:
 

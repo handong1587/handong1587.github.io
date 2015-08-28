@@ -28,3 +28,5 @@ For all commands, pressing **.** repeats the operation.
 
 For example, typing **5>>..** shifts five lines to the right, and then repeats 
 the operation twice so that the five lines are shifted three times.
+
+Insert current file name: <code>:r! echo %</code>
