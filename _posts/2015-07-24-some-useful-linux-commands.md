@@ -288,8 +288,8 @@ gedit ~/.bashrc
 alias matlab="/usr/local/MATLAB/R2012a/bin/matlab"
 ```
 
-<pre class="terminal"><code>
-$ cd /usr/local/bin/
+<pre class="terminal">
+<code>$ cd /usr/local/bin/
 $ sudo ln -s /usr/local/MATLAB/R2012a/bin/matlab Matlab
 $ gedit ~/.bashrc
 $ alias matlab="/usr/local/MATLAB/R2012a/bin/matlab"
