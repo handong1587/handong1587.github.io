@@ -10,6 +10,11 @@ title: Convolutional Neural Network and Arts
 
 **A Neural Algorithm of Artistic Style**
 
+<div class="fig figcenter fighighlight">
+  <img src="/assets/cnn-and-arts/a_nerual_algorithm_of_artistic_style.jpg">
+  <div class="figcaption">artworks</div>
+</div>
+
 - paper: [arXiv:1508.06576](http://arxiv.org/abs/1508.06576)
 
 **Sketch-a-Net that Beats Humans**
