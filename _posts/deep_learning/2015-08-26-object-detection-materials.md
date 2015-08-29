@@ -36,7 +36,7 @@ title: Object Detection Materials
 | NoC,+EB    | 07+12      | 71.8 |
 | NoC,+EB,bb | 07+12      | 73.3 |
 
--paper: [arXiv:1504.06066](http://arxiv.org/abs/1504.06066)
+- paper: [arXiv:1504.06066](http://arxiv.org/abs/1504.06066)
 
 **Spatial Pyramid Pooling in Deep Convolutional Networks for Visual Recognition**:
 
