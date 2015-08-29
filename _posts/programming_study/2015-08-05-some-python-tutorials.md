@@ -48,7 +48,14 @@ os.path.dirname(os.path.abspath(__file__))
 ```
 
 ```python
-from operator import itemgetter  # sort
+# sort array by column
+from operator import itemgetter
+a = ([2, 2, 2, 40], [5, 5, 5, 10], [1, 1, 1, 50], [3, 3, 3, 30], [4, 4, 4, 20])
+sorted(a, key=itemgetter(3))
+```
+<pre class="terminal"><code>>>> [[5, 5, 5, 10], [4, 4, 4, 20], [3, 3, 3, 30], [2, 2, 2, 40], [1, 1, 1, 50]]</code></pre>
+
+```python
 import numpy as np
 np.amax
 np.sum

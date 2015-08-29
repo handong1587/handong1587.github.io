@@ -11,9 +11,13 @@ title: Some Useful Blogs
 
 [CS231n Convolutional Neural Networks for Visual Recognition](http://cs231n.github.io/)
 
+[Long Short-Term Memory: Tutorial on LSTM Recurrent Networks](http://people.idsia.ch/~juergen/lstm/index.htm)
+
 [http://neuralnetworksanddeeplearning.com](http://neuralnetworksanddeeplearning.com)
 
 [http://deeplearning.net/reading-list/](http://deeplearning.net/reading-list/)
+[http://deeplearning.net/tutorial/](http://deeplearning.net/tutorial/)
+- code: [https://github.com/lisa-lab/DeepLearningTutorials](https://github.com/lisa-lab/DeepLearningTutorials)
 
 [Andrej Karpathy blog](http://karpathy.github.io/)
 
