@@ -9,6 +9,15 @@ title: Deep Learning Materials
 
 <p class="meta">27 Aug 2015 - Beijing</p>
 
+**Deep Learning for Multi-label Classification**
+
+- paper: [arXiv:1502.05988](http://arxiv.org/abs/1502.05988)
+- code: [maka](http://meka.sourceforge.net)
+
+**CNN: Single-label to Multi-label**
+
+- paper: [arXiv:1406.5726](http://arxiv.org/abs/1406.5726)
+
 **Reweighted Wake-Sleep**
 
 - paper: [arXiv:1406.2751](http://arxiv.org/abs/1406.2751)

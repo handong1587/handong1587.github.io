@@ -9,6 +9,14 @@ title: Object Detection Materials
 
 <p class="meta">26 Aug 2015 - Beijing</p>
 
+**Scalable Object Detection using Deep Neural Networks**
+
+- paper: [arXiv:1312.2249](http://arxiv.org/abs/1312.2249)
+
+**Deep Neural Networks for Object Detection**
+
+- paper: [5207-deep-neural-networks-for-object-detection](http://papers.nips.cc/paper/5207-deep-neural-networks-for-object-detection.pdf)
+
 **OverFeat: Integrated Recognition, Localization and Detection using Convolutional Networks**:
 
 - paper: [arXiv:1312.6229](http://arxiv.org/abs/1312.6229)
@@ -18,6 +26,17 @@ title: Object Detection Materials
 - paper: [arXiv:1311.2524](http://arxiv.org/abs/1311.2524)
 - slides: [rcnn-cvpr14-slides](http://www.cs.berkeley.edu/~rbg/slides/rcnn-cvpr14-slides.pdf)
 - code: [rcnn](https://github.com/rbgirshick/rcnn)
+
+**Object Detection Networks on Convolutional Feature Maps**
+
+| method     | trained on | mAP  |
+| ---------- | ---------- | ---- |
+| NoC        | 07+12      | 68.8 |
+| NoC,bb     | 07+12      | 71.6 |
+| NoC,+EB    | 07+12      | 71.8 |
+| NoC,+EB,bb | 07+12      | 73.3 |
+
+-paper: [arXiv:1504.06066](http://arxiv.org/abs/1504.06066)
 
 **Spatial Pyramid Pooling in Deep Convolutional Networks for Visual Recognition**:
 
