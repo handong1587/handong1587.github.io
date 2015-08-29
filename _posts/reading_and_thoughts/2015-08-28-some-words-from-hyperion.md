@@ -1,5 +1,6 @@
 ---
 layout: post
+categories: reading_and_thoughts
 title: Some Words From HYHERION 
 ---
 
