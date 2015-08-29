@@ -1,5 +1,6 @@
 ---
 layout: post
+categories: algorithm_and_data_structure
 title: Notes on Suffix Array and Manacher Algorithm
 ---
 

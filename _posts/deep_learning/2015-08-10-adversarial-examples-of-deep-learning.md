@@ -1,5 +1,6 @@
 ---
 layout: post
+categories: deep_learning
 title: Adversarial Examples of Deep Learning
 ---
 

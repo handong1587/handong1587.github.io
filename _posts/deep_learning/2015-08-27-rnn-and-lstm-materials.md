@@ -1,5 +1,6 @@
 ---
 layout: post
+categories: deep_learning
 title: RNN and LSTM Materials
 ---
 
