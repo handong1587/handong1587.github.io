@@ -25,7 +25,7 @@ Way two:
 Way three:
 
 <div style="float:left;margin:0 10px 10px 0" markdown="1">
-    <img src="/assets/leisure/Sugimoto_Yumi_15_1.jpg">
+    <img src="/assets/leisure/girl_3.jpg">
 </div>
 
 Way four:
