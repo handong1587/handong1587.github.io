@@ -1,5 +1,6 @@
 ---
 layout: post
+categories: leisure
 title: Whoa Here is A Nice Girl~
 ---
 

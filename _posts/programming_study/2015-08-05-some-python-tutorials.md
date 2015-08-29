@@ -1,5 +1,6 @@
 ---
 layout: post
+categories: programming_study
 title: Some Python Tutorials
 ---
 

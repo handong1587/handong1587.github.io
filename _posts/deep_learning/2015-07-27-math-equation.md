@@ -1,5 +1,6 @@
 ---
 layout: post
+categories: deep_learning
 title: Math Equation
 ---
 

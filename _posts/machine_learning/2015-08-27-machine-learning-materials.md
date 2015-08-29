@@ -1,5 +1,6 @@
 ---
 layout: post
+categories: machine_learning
 title: Machine Learning Materials
 ---
 

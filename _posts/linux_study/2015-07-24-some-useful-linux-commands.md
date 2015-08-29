@@ -1,5 +1,6 @@
 ---
 layout: post
+categories: linux_study
 title: Some Useful Linux Commands
 ---
 

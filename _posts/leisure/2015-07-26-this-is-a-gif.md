@@ -1,5 +1,6 @@
 ---
 layout: post
+categories: leisure
 title: This is A GIF
 ---
 
