@@ -16,7 +16,9 @@ title: Some Useful Blogs
 [http://neuralnetworksanddeeplearning.com](http://neuralnetworksanddeeplearning.com)
 
 [http://deeplearning.net/reading-list/](http://deeplearning.net/reading-list/)
+
 [http://deeplearning.net/tutorial/](http://deeplearning.net/tutorial/)
+
 - code: [https://github.com/lisa-lab/DeepLearningTutorials](https://github.com/lisa-lab/DeepLearningTutorials)
 
 [Andrej Karpathy blog](http://karpathy.github.io/)
