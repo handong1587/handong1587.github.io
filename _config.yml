@@ -1,2 +1,4 @@
 markdown: rdiscount
 highlighter: pygments
+
+permalink: /:title
