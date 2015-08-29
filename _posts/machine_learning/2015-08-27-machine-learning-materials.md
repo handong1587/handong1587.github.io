@@ -14,11 +14,15 @@ title: Machine Learning Materials
 - paper: [NeuralNetsForMLL-ECML13](http://pan.baidu.com/s/1bnFdYFX)
 - code: [NNForMLL](https://github.com/abhishek-kumar/NNForMLL)
 
+**Graph Based Image Segmentation**
+
+- project: [http://cs.brown.edu/~pff/segment/](http://cs.brown.edu/~pff/segment/)
+
 **Pixelwise Image Saliency by Aggregation Complementary Appearance Contrast Measures with Edge-Preserving Coherence**
 
 <div class="fig figcenter fighighlight">
   <img src="/assets/ml-materials/ImageAndMask.png">
-  <div class="figcaption">artworks</div>
+  <!--<div class="figcaption">artworks</div>-->
 </div>
 
 - paper: [PISA_Final](http://vision.sysu.edu.cn/project/PISA/PISA_Final.pdf)

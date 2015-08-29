@@ -28,3 +28,5 @@ title: Some Useful Blogs
 [Convolutional-Neural-Networks](http://ibillxia.github.io/blog/2013/04/06/Convolutional-Neural-Networks/)
 
 [DIY Deep Learning for Vision: A Tutorial With Caffe 报告笔记](http://frank19900731.github.io/wx/2014-12-04-diy-deep-learning-for-vision-a-tutorial-with-caffe-bao-gao-bi-ji.html)
+
+[What are the toughest neural networks and deep learning interview questions?](https://www.quora.com/What-are-the-toughest-neural-networks-and-deep-learning-interview-questions)

@@ -32,3 +32,17 @@ title: Deep Learning Materials
 
 - paper: [arXiv:1409.5185](http://arxiv.org/abs/1409.5185)
 - code: [spectral-lib](https://github.com/mbhenaff/spectral-lib)
+
+**Jointly Training CNN and SVM**
+
+Large-scale Learning with SVM and Convolutional for Generic Object Categorization
+
+- paper: [http://yann.lecun.com/exdb/publis/pdf/huang-lecun-06.pdf](http://yann.lecun.com/exdb/publis/pdf/huang-lecun-06.pdf)
+
+Convolutional Neural Support Vector Machines:Hybrid Visual Pattern Classifiers for Multi-robot Systems
+
+- paper: [http://people.idsia.ch/~nagi/conferences/idsia/icmla2012.pdf](http://people.idsia.ch/~nagi/conferences/idsia/icmla2012.pdf)
+
+Deep Learning using Linear Support Vector Machines
+
+- paper: [http://deeplearning.net/wp-content/uploads/2013/03/dlsvm.pdf](http://deeplearning.net/wp-content/uploads/2013/03/dlsvm.pdf)

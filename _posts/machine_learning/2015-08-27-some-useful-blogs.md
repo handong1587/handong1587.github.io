@@ -10,3 +10,5 @@ title: Some Useful Blogs
 <p class="meta">27 Aug 2015 - Beijing</p>
 
 [machine learning classifier gallery](http://home.comcast.net/~tom.fawcett/public_html/ML-gallery/pages/)
+
+[Machine Learning and Computer Vision Resources](http://zhengrui.github.io/zerryland/ML-CV-Resource.html)
