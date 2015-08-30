@@ -41,6 +41,7 @@ title: Object Detection Materials
 **Spatial Pyramid Pooling in Deep Convolutional Networks for Visual Recognition**:
 
 - paper: [arXiv:1406.4729](http://arxiv.org/abs/1406.4729)
+- code: [https://github.com/ShaoqingRen/SPP_net](https://github.com/ShaoqingRen/SPP_net)
 
 **Fast R-CNN**:
 
@@ -70,7 +71,7 @@ title: Object Detection Materials
 
 - paper: [arXiv:1506.04878](http://arxiv.org/abs/1506.04878)
 
-**Improving Object Detection with Deep Convolutional Networks via Bayesian Optimization 
+**Improving Object Detection with Deep Convolutional Networks via Bayesian Optimization
 and Structured Prediction**:
 
 - paper: [arXiv:1504.03293](http://arxiv.org/abs/1504.03293)

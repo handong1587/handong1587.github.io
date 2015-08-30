@@ -23,7 +23,7 @@ title: Convolutional Neural Network Materials
 **DeepDriving: Learning Affordance for Direct Perception in Autonomous Driving**
 
 <img src="/assets/cnn-materials/teaser_deepdriving.jpg"
- width="640" />
+ width="800" />
 
 - project: [http://deepdriving.cs.princeton.edu/](http://deepdriving.cs.princeton.edu/)
 - paper: [http://deepdriving.cs.princeton.edu/paper.pdf](http://deepdriving.cs.princeton.edu/paper.pdf)
