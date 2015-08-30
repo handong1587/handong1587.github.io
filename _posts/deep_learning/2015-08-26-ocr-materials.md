@@ -11,10 +11,8 @@ title: OCR Materials
 
 **Reading Text in the Wild with Convolutional Neural Networks**
 
-<div class="fig figcenter fighighlight">
-  <img src="/assets/ocr-materials/pipeline.png">
-  <div class="figcaption">pipeline</div>
-</div>
+<img src="/assets/ocr-materials/text_pipeline.png"
+ width="640" />
 
 - paper: [arXiv:1412.1842](http://arxiv.org/abs/1412.1842)
 - code: [text](http://www.robots.ox.ac.uk/~vgg/research/text/)

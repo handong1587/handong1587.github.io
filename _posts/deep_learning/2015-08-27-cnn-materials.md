@@ -26,4 +26,5 @@ title: Convolutional Neural Network Materials
  width="640" />
 
 - project: [http://deepdriving.cs.princeton.edu/](http://deepdriving.cs.princeton.edu/)
--code: [http://deepdriving.cs.princeton.edu/DeepDriving.zip](http://deepdriving.cs.princeton.edu/DeepDriving.zip)
+- paper: [http://deepdriving.cs.princeton.edu/paper.pdf](http://deepdriving.cs.princeton.edu/paper.pdf)
+- code: [http://deepdriving.cs.princeton.edu/DeepDriving.zip](http://deepdriving.cs.princeton.edu/DeepDriving.zip)
