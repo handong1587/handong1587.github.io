@@ -19,3 +19,11 @@ title: Convolutional Neural Network Materials
 - paper: [arXiv:1506.02025](http://arxiv.org/abs/1506.02025)
 - code: [stnbhwd](https://github.com/qassemoquab/stnbhwd)
 - code: [transformer_network](https://github.com/skaae/transformer_network)
+
+**DeepDriving: Learning Affordance for Direct Perception in Autonomous Driving**
+
+<img src="/assets/cnn-materials/teaser_deepdriving.jpg"
+ width="640" />
+
+- project: [http://deepdriving.cs.princeton.edu/](http://deepdriving.cs.princeton.edu/)
+-code: [http://deepdriving.cs.princeton.edu/DeepDriving.zip](http://deepdriving.cs.princeton.edu/DeepDriving.zip)

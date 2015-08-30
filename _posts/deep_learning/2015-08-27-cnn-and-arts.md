@@ -38,3 +38,10 @@ title: Convolutional Neural Network and Arts
 - project: [classifysketch](http://cybertron.cg.tu-berlin.de/eitz/projects/classifysketch/)
 - code: [SketchingAI](https://github.com/Zebreu/SketchingAI)
 - gitxiv: [sketchingai](http://gitxiv.com/posts/ZBCxEc9g3Fg5xCQ6n/sketchingai)
+
+**Style Transfer for Headshot Portraits**
+
+<img src="/assets/cnn-and-arts/teaser_Style_Transfer_for_Headshot_Portraits.jpg"
+ width="640" />
+
+- project: [https://people.csail.mit.edu/yichangshih/portrait_web/](https://people.csail.mit.edu/yichangshih/portrait_web/)
