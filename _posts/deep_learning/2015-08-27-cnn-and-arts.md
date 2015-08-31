@@ -30,10 +30,8 @@ title: Convolutional Neural Network and Arts
 
 **How Do Humans Sketch Objects?**
 
-<div class="fig figcenter fighighlight">
-  <img src="/assets/cnn-and-arts/teaser_siggraph.jpg">
-  <div class="figcaption">classifysketch</div>
-</div>
+<img src="/assets/cnn-and-arts/teaser_siggraph.jpg"
+ width="800" />
 
 - paper: [2012_siggraph_classifysketch](http://cybertron.cg.tu-berlin.de/eitz/pdf/2012_siggraph_classifysketch.pdf)
 - project: [classifysketch](http://cybertron.cg.tu-berlin.de/eitz/projects/classifysketch/)
