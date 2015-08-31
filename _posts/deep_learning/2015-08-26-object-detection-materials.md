@@ -69,7 +69,10 @@ title: Object Detection Materials
 
 **End-to-end people detection in crowded scenes**
 
+<img src="/assets/object-detection-materials/end_to_end_people_detection_in_crowded_scenes.jpg"/>
+
 - paper: [arXiv:1506.04878](http://arxiv.org/abs/1506.04878)
+- code: [https://github.com/Russell91/reinspect](https://github.com/Russell91/reinspect)
 
 **Improving Object Detection with Deep Convolutional Networks via Bayesian Optimization
 and Structured Prediction**:
