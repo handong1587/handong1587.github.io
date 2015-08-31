@@ -17,6 +17,7 @@ title: Convolutional Neural Network and Arts
 </div>
 
 - paper: [arXiv:1508.06576](http://arxiv.org/abs/1508.06576)
+- code: [https://github.com/kaishengtai/neuralart](https://github.com/kaishengtai/neuralart)
 
 **Sketch-a-Net that Beats Humans**
 
