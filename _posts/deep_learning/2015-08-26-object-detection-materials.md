@@ -73,6 +73,7 @@ title: Object Detection Materials
 
 - paper: [arXiv:1506.04878](http://arxiv.org/abs/1506.04878)
 - code: [https://github.com/Russell91/reinspect](https://github.com/Russell91/reinspect)
+- ipn: [http://nbviewer.ipython.org/github/Russell91/ReInspect/blob/master/evaluation_reinspect.ipynb](http://nbviewer.ipython.org/github/Russell91/ReInspect/blob/master/evaluation_reinspect.ipynb)
 
 **Improving Object Detection with Deep Convolutional Networks via Bayesian Optimization
 and Structured Prediction**:
