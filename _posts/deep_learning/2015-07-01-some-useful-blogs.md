@@ -27,11 +27,13 @@ title: Some Useful Blogs
 
 [http://rodrigob.github.io/](http://rodrigob.github.io/)
 
+[http://colah.github.io/](http://colah.github.io/)
+
 [A Deep Dive into Recurrent Neural Nets](http://nikhilbuduma.com/2015/01/11/a-deep-dive-into-recurrent-neural-networks/)
 
 [What you wanted to know about AI](http://fastml.com/what-you-wanted-to-know-about-ai/)
 
-[Convolutional-Neural-Networks](http://ibillxia.github.io/blog/2013/04/06/Convolutional-Neural-Networks/)
+[卷积神经网络（CNN）](http://ibillxia.github.io/blog/2013/04/06/Convolutional-Neural-Networks/)
 
 [DIY Deep Learning for Vision: A Tutorial With Caffe 报告笔记](http://frank19900731.github.io/wx/2014-12-04-diy-deep-learning-for-vision-a-tutorial-with-caffe-bao-gao-bi-ji.html)
 
