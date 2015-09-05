@@ -21,6 +21,7 @@ title: Convolutional Neural Network and Arts
 - code: [https://github.com/jcjohnson/neural-style](https://github.com/jcjohnson/neural-style)
 - code: [github: neural_artistic_style](https://github.com/andersbll/neural_artistic_style)
 - code: [styletransfer](http://nbviewer.ipython.org/github/Lasagne/Recipes/blob/master/examples/styletransfer/Art%20Style%20Transfer.ipynb)
+- code: [https://github.com/mbartoli/neural-animation](https://github.com/mbartoli/neural-animation)
 
 **Sketch-a-Net that Beats Humans**
 

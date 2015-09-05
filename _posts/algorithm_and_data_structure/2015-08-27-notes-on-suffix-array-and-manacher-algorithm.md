@@ -34,4 +34,6 @@ i          |sa[i]           |S[sa[i]...]
 
 **How to compute suffix array efficiently?**
 
-Manber and Myers invented a algorithm with runtime complexity \\(O(n log^{2} n)\\).
+Manber and Myers invented a algorithm with runtime complexity \\(O(n log^{2} n)\\). The basic idea is *doubling*. Start with the character at each location, we first compute the orders of substrings with length 2 at each location, then use the results to compute the orders of substrings with length 4.  The assessed prefix length doubles in each iteration of the algorithm until a prefix is unique (or length >= n) and provides the rank of the associated suffix.
+
+**What is Manacher Algorithm?**
