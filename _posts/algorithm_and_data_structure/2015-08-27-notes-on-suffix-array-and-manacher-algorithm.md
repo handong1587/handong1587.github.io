@@ -34,4 +34,4 @@ i          |sa[i]           |S[sa[i]...]
 
 **How to compute suffix array efficiently?**
 
-Manber and Myers invented a algorithm with runtime complexity O(n log^{2} n).
+Manber and Myers invented a algorithm with runtime complexity $$ O(n log^{2} n) $$.
