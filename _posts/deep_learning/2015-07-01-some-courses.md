@@ -12,3 +12,5 @@ title: Some Courses
 [Stanford CS231n: Convolutional Neural Networks for Visual Recognition](http://cs231n.github.io/)
 
 [EECS 598: Unsupervised Feature Learning(by Honglak Lee)](http://web.eecs.umich.edu/~honglak/teaching/eecs598/schedule.html)
+
+[NVIDIA’s Deep Learning Courses](https://developer.nvidia.com/deep-learning-courses)
