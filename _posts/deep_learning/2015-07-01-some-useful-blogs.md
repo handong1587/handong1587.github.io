@@ -36,3 +36,6 @@ title: Some Useful Blogs
 [DIY Deep Learning for Vision: A Tutorial With Caffe 报告笔记](http://frank19900731.github.io/wx/2014-12-04-diy-deep-learning-for-vision-a-tutorial-with-caffe-bao-gao-bi-ji.html)
 
 [What are the toughest neural networks and deep learning interview questions?](https://www.quora.com/What-are-the-toughest-neural-networks-and-deep-learning-interview-questions)
+
+[Turing Machine: musings on theory & code](https://vzn1.wordpress.com/2015/09/01/deep-learning-revolution-summer-2015-state-of-the-art-topnotch-links/)
+- DEEP LEARNING REVOLUTION, summer 2015, state of the art & topnotch links
