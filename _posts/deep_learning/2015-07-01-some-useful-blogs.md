@@ -9,8 +9,6 @@ title: Some Useful Blogs
 
 <p class="meta">01 Jul 2015 - Beijing</p>
 
-[CS231n Convolutional Neural Networks for Visual Recognition](http://cs231n.github.io/)
-
 [Long Short-Term Memory: Tutorial on LSTM Recurrent Networks](http://people.idsia.ch/~juergen/lstm/index.htm)
 
 [http://neuralnetworksanddeeplearning.com](http://neuralnetworksanddeeplearning.com)

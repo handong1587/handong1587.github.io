@@ -7,6 +7,8 @@ title: My Favorite Songs, Albums and Bands
 {{ page.title }}
 ================
 
+<p class="meta">09 Aug 2015 - Beijing</p>
+
 *Enya* : **LOVE** all of her songs. So sad she didn't make new albums for quite a long time.
 
 <img src="/assets/leisure/enya_a_day_withou_rain_cover.jpg"
