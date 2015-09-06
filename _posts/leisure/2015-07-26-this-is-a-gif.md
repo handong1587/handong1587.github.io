@@ -8,6 +8,6 @@ title: This is A GIF
 ================
 
 <div class="fig figcenter fighighlight">
-  <img src="/assets/water_drop.gif">
+  <img src="/assets/leisure/water_drop.gif">
   <div class="figcaption">Water-drop</div>
 </div>
