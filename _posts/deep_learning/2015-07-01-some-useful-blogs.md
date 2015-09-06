@@ -39,3 +39,5 @@ title: Some Useful Blogs
 
 [Turing Machine: musings on theory & code](https://vzn1.wordpress.com/2015/09/01/deep-learning-revolution-summer-2015-state-of-the-art-topnotch-links/)
 - DEEP LEARNING REVOLUTION, summer 2015, state of the art & topnotch links
+
+[A Painless Q-Learning Tutorial](http://mnemstudio.org/path-finding-q-learning-tutorial.htm)
