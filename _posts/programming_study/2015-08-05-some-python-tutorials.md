@@ -9,7 +9,7 @@ title: Some Python Tutorials
 
 <p class="meta">05 Aug 2015 - Beijing</p>
 
-**1. Draw rectangle:**
+**Draw rectangle:**
 
 ```python
 import cv2
@@ -21,7 +21,7 @@ plt.imshow(img, 'brg')
 cv2.imwrite("/path/to/save/img.jpg", img)
 ```
 
-**2. Use PIL to show ndarray:**
+**Use PIL to show ndarray:**
 
 ```python
 import Image
@@ -33,13 +33,29 @@ img = Image.fromarray(data, 'RGB')
 img.save('my.png')
 ```
 
-**3. Convert numpy multi-dim ndarray to 1-dim array:**
+**Convert numpy multi-dim ndarray to 1-dim array:**
 
 ```python
 np.asarray(a).reshape(-1)
 ```
 
-**4. Simple operations**
+**Remove duplicate elements**
+
+```python
+# Our input list.
+values = [5, 5, 1, 1, 2, 3, 4, 4, 5]
+
+# Convert to a set and back into a list.
+set = set(values)
+result = list(set)
+print(result)
+```
+
+Output:
+
+<pre class="terminal"><code>>>> [1, 2, 3, 4, 5] </code></pre>
+
+**Simple operations**
 
 ```python
 os.getcwd()
