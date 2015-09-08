@@ -46,3 +46,8 @@ Convolutional Neural Support Vector Machines:Hybrid Visual Pattern Classifiers f
 Deep Learning using Linear Support Vector Machines
 
 - paper: [http://deeplearning.net/wp-content/uploads/2013/03/dlsvm.pdf](http://deeplearning.net/wp-content/uploads/2013/03/dlsvm.pdf)
+
+**Bayesian Dark Knowledge**
+
+- paper: [http://arxiv.org/abs/1506.04416](http://arxiv.org/abs/1506.04416)
+- notes: [Notes on Bayesian Dark Knowledge](https://www.evernote.com/shard/s189/sh/92cc4cbf-285e-4038-af08-c6d9e4aee6ea/d505237e82dc81be9859bc82f3902f9f)

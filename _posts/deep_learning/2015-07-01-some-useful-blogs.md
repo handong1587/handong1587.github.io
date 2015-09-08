@@ -9,8 +9,6 @@ title: Some Useful Blogs
 
 <p class="meta">01 Jul 2015 - Beijing</p>
 
-[Long Short-Term Memory: Tutorial on LSTM Recurrent Networks](http://people.idsia.ch/~juergen/lstm/index.htm)
-
 [http://neuralnetworksanddeeplearning.com](http://neuralnetworksanddeeplearning.com)
 
 [http://deeplearning.net/reading-list/](http://deeplearning.net/reading-list/)
@@ -27,8 +25,6 @@ title: Some Useful Blogs
 
 [http://colah.github.io/](http://colah.github.io/)
 
-[A Deep Dive into Recurrent Neural Nets](http://nikhilbuduma.com/2015/01/11/a-deep-dive-into-recurrent-neural-networks/)
-
 [What you wanted to know about AI](http://fastml.com/what-you-wanted-to-know-about-ai/)
 
 [卷积神经网络（CNN）](http://ibillxia.github.io/blog/2013/04/06/Convolutional-Neural-Networks/)
@@ -41,3 +37,11 @@ title: Some Useful Blogs
 - DEEP LEARNING REVOLUTION, summer 2015, state of the art & topnotch links
 
 [A Painless Q-Learning Tutorial](http://mnemstudio.org/path-finding-q-learning-tutorial.htm)
+
+# RNN and LSTM
+
+[A Deep Dive into Recurrent Neural Nets](http://nikhilbuduma.com/2015/01/11/a-deep-dive-into-recurrent-neural-networks/)
+
+[Long Short-Term Memory: Tutorial on LSTM Recurrent Networks](http://people.idsia.ch/~juergen/lstm/index.htm)
+
+[LSTM implementation explained](http://apaszke.github.io/lstm-explained.html)

@@ -24,3 +24,8 @@ title: RNN and LSTM Materials
 - paper: [http://arxiv.org/abs/1406.6247](http://arxiv.org/abs/1406.6247)
 - data: [https://github.com/deepmind/mnist-cluttered](https://github.com/deepmind/mnist-cluttered)
 - code: [https://github.com/Element-Research/rnn/blob/master/examples/recurrent-visual-attention.lua](https://github.com/Element-Research/rnn/blob/master/examples/recurrent-visual-attention.lua)
+
+**Depth-Gated LSTM**
+
+- paper: [http://arxiv.org/abs/1508.03790](http://arxiv.org/abs/1508.03790)
+- code: [GitHub(dglstm.h+dglstm.cc)](https://github.com/kaishengyao/cnn/tree/master/cnn)
