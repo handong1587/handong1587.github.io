@@ -20,6 +20,11 @@ title: Convolutional Neural Network Materials
 - code: [stnbhwd](https://github.com/qassemoquab/stnbhwd)
 - code: [transformer_network](https://github.com/skaae/transformer_network)
 
+**"The power of Spatial Transformer Networks"**
+
+- blog: [http://torch.ch/blog/2015/09/07/spatial_transformers.html](http://torch.ch/blog/2015/09/07/spatial_transformers.html)
+- code: [https://github.com/moodstocks/gtsrb.torch](https://github.com/moodstocks/gtsrb.torch)
+
 **DeepDriving: Learning Affordance for Direct Perception in Autonomous Driving**
 
 <img src="/assets/cnn-materials/teaser_deepdriving.jpg"
