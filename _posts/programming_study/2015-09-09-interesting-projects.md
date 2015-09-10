@@ -16,3 +16,7 @@ title: Interesting Projects
 <img src="/assets/programming_study/Starcraft_Demo.gif" />
 
 - project: [https://github.com/gloomyson/StarCraft](https://github.com/gloomyson/StarCraft)
+
+**The Brood War API**
+
+- project: [https://github.com/bwapi/bwapi](https://github.com/bwapi/bwapi)
