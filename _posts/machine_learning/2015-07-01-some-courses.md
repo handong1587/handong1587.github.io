@@ -14,3 +14,5 @@ title: Some Courses
 [Stanford CME 323: Distributed Algorithms and Optimization](http://stanford.edu/~rezab/dao/)
 
 [CMU Convex Optimization: Fall 2015](http://www.stat.cmu.edu/~ryantibs/convexopt/)
+
+[University at Buffalo CSE574: Machine Learning and Probabilistic Graphical Models Course](http://www.cedar.buffalo.edu/~srihari/CSE574/)
