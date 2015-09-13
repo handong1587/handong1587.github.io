@@ -56,3 +56,7 @@ Deep Learning using Linear Support Vector Machines
 
 - paper: [http://arxiv.org/abs/1410.5401](http://arxiv.org/abs/1410.5401)
 - code: [https://github.com/shawntan/neural-turing-machines](https://github.com/shawntan/neural-turing-machines)
+
+**Deep Neural Networks(with Python code)**
+
+- paper: [http://scholarbank.nus.edu.sg/bitstream/handle/10635/120564/DeepNeuralNetworks.pdf?sequence=1](http://scholarbank.nus.edu.sg/bitstream/handle/10635/120564/DeepNeuralNetworks.pdf?sequence=1)

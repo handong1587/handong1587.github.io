@@ -1,0 +1,12 @@
+---
+layout: post
+categories: big_data
+title: Some Courses
+---
+
+{{ page.title }}
+================
+
+<p class="meta">13 Sep 2015 - Beijing</p>
+
+[MIT 6.S897: Large-Scale Systems(Matei Zaharia)](http://people.csail.mit.edu/matei/courses/2015/6.S897/)

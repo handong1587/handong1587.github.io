@@ -29,3 +29,13 @@ title: RNN and LSTM Materials
 
 - paper: [http://arxiv.org/abs/1508.03790](http://arxiv.org/abs/1508.03790)
 - code: [GitHub(dglstm.h+dglstm.cc)](https://github.com/kaishengyao/cnn/tree/master/cnn)
+
+**Unsupervised Learning of Video Representations using LSTMs(ICML2015)**
+
+- project: [http://www.cs.toronto.edu/~nitish/unsupervised_video/](http://www.cs.toronto.edu/~nitish/unsupervised_video/)
+- paper: [http://arxiv.org/abs/1502.04681](http://arxiv.org/abs/1502.04681)
+- code: [http://www.cs.toronto.edu/~nitish/unsupervised_video/unsup_video_lstm.tar.gz](http://www.cs.toronto.edu/~nitish/unsupervised_video/unsup_video_lstm.tar.gz)
+
+**Visualizing and Understanding Recurrent Networks(Andrej Karpathy, Justin Johnson, Fei-Fei Li)**
+
+- paper: [http://arxiv.org/abs/1506.02078](http://arxiv.org/abs/1506.02078)

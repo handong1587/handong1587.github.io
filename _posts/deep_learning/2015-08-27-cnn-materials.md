@@ -33,3 +33,8 @@ title: Convolutional Neural Network Materials
 - project: [http://deepdriving.cs.princeton.edu/](http://deepdriving.cs.princeton.edu/)
 - paper: [http://deepdriving.cs.princeton.edu/paper.pdf](http://deepdriving.cs.princeton.edu/paper.pdf)
 - code: [http://deepdriving.cs.princeton.edu/DeepDriving.zip](http://deepdriving.cs.princeton.edu/DeepDriving.zip)
+
+**Real-time emotion recognition for gaming using deep convolutional network features**
+
+- paper: [http://arxiv.org/abs/1408.3750v1](http://arxiv.org/abs/1408.3750v1)
+- code: [https://github.com/Zebreu/ConvolutionalEmotion](https://github.com/Zebreu/ConvolutionalEmotion)
