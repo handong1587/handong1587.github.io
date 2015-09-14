@@ -171,21 +171,11 @@ $$
 \\newcommand\\T{\\Rule{0pt}{1em}{.3em}}
 \\begin{array}{|c|c|c|}
 \\hline
-  \\text{method}           & \\text{proposals} & \\text{data} & \\text{mAP} & \\text{time}  \\T \\\\\\hline
-  \\text{RPN+VGG,unshared} & 300               & 07           & 68.5\%       & 342ms            \\\\\\hline
-  \\text{RPN+VGG,shared}   & 300               & 07           & 69.9\%       & 196ms            \\\\\\hline
-  \\text{RPN+VGG,shared}   & 300               & \\text{07+12} & 73.2\%       & 196ms            \\\\\\hline
-\\end{array}
-$$
-
-Detection results on PASCAL VOC 2012 test set:
-$$
-\\newcommand\\T{\\Rule{0pt}{1em}{.3em}}
-\\begin{array}{|c|c|c|}
-\\hline
-  \\text{method}           & \\text{proposals} & \\text{data} & \\text{mAP} & \\text{time}  \\T \\\\\\hline
-  \\text{RPN+VGG,shared}   & 300               & 12           & 67.0\%       & 196ms            \\\\\\hline
-  \\text{RPN+VGG,shared}   & 300               & \\text{07++12} & 70.4\%       & 196ms            \\\\\\hline
+  \\  & \\text{training data} & \\text{test data} & \\text{mAP} & \\text{time/img}  \\T \\\\\\hline
+  \\text{Faster RCNN, VGG-16} & \\text{07}     & \\text{VOC 2007 test} & 69.9\% & 198ms \\\\\\hline
+  \\text{Faster RCNN, VGG-16} & \\text{07+12}  & \\text{VOC 2007 test} & 73.2\% & 198ms \\\\\\hline
+  \\text{Faster RCNN, VGG-16} & \\text{12}     & \\text{VOC 2012 test} & 67.0\% & 198ms \\\\\\hline
+  \\text{Faster RCNN, VGG-16} & \\text{07++12} & \\text{VOC 2012 test} & 70.4\% & 198ms \\\\\\hline
 \\end{array}
 $$
 
