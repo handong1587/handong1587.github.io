@@ -69,10 +69,10 @@ $$
 \\begin{array}{|c|c|c|}
 \\hline
   \\text{Method}      & \\text{Trained on} & \\text{mAP} \\T \\\\\\hline
-  \\text{NoC}         & 07+12              & 68.8\% \\\\\\hline
-  \\text{NoC,bb}      & 07+12              & 71.6\% \\\\\\hline
-  \\text{NoC,+EB}     & 07+12              & 71.8\% \\\\\\hline
-  \\text{NoC,+EB,bb}  & 07+12              & 73.3\% \\\\\\hline
+  \\text{NoC}         & \\text{07+12}      & 68.8\% \\\\\\hline
+  \\text{NoC,bb}      & \\text{07+12}      & 71.6\% \\\\\\hline
+  \\text{NoC,+EB}     & \\text{07+12}      & 71.8\% \\\\\\hline
+  \\text{NoC,+EB,bb}  & \\text{07+12}      & 73.3\% \\\\\\hline
 \\end{array}
 $$
 
@@ -128,7 +128,7 @@ $$
 \\hline
   \\text{method}     & \\text{data} & \\text{VOC 2007 mAP}  \\T \\\\\\hline
   \\text{FRCN,VGG16} & 07           & 66.9\%                \\\\\\hline
-  \\text{FRCN,VGG16} & 07+12        & 70.0\%                \\\\\\hline
+  \\text{FRCN,VGG16} & \\text{07+12} & 70.0\%                \\\\\\hline
 \\end{array}
 $$
 
@@ -138,7 +138,7 @@ $$
 \\hline
   \\text{method}     & \\text{data} & \\text{VOC 2010 mAP} \\T \\\\\\hline
   \\text{FRCN,VGG16} & 12           & 66.1\%               \\\\\\hline
-  \\text{FRCN,VGG16} & 07++12       & 68.8\%               \\\\\\hline
+  \\text{FRCN,VGG16} & \\text{07++12} & 68.8\%               \\\\\\hline
 \\end{array}
 $$
 
@@ -148,7 +148,7 @@ $$
 \\hline
   \\text{method}     & \\text{data} & \\text{VOC 2012 mAP}  \\T \\\\\\hline
   \\text{FRCN,VGG16} & 12           & 65.7\%                \\\\\\hline
-  \\text{FRCN,VGG16} & 07++12       & 68.4\%                \\\\\\hline
+  \\text{FRCN,VGG16} & \\text{07++12} & 68.4\%                \\\\\\hline
 \\end{array}
 $$
 
@@ -174,7 +174,7 @@ $$
   \\text{method}           & \\text{proposals} & \\text{data} & \\text{mAP} & \\text{time}  \\T \\\\\\hline
   \\text{RPN+VGG,unshared} & 300               & 07           & 68.5\%       & 342ms            \\\\\\hline
   \\text{RPN+VGG,shared}   & 300               & 07           & 69.9\%       & 196ms            \\\\\\hline
-  \\text{RPN+VGG,shared}   & 300               & 07+12        & 73.2\%       & 196ms            \\\\\\hline
+  \\text{RPN+VGG,shared}   & 300               & \\text{07+12} & 73.2\%       & 196ms            \\\\\\hline
 \\end{array}
 $$
 
