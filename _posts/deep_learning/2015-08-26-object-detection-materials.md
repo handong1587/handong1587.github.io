@@ -25,13 +25,13 @@ title: Object Detection Materials
 
 $$
 \\newcommand\\T{\\Rule{0pt}{1em}{.3em}}
-\\begin{array}{|c|c|c|c|}
+\\begin{array}{|c|c|c|c|c|}
 \\hline
   \\text{method} & \\text{VOC 2007 mAP} & \\text{VOC 2010 mAP} & \\text{VOC 2012 mAP} & \\text{ILSVRC2013 test mAP} \\T \\\\\\hline
-  \\text{R-CNN,AlexNet}           & 54.2% & 50.2% & 49.6% &        \\\\\\hline
-  \\text{R-CNN bbox reg,AlexNet}  & 58.5% & 53.7% & 53.3% & 31.4%  \\\\\\hline
-  \\text{R-CNN,VGG-Net}           & 62.2% &       &       &        \\\\\\hline
-  \\text{R-CNN bbox reg,VGG-Net}  & 66.0% &       &       &   \\\\\\hline
+  \\text{R-CNN,AlexNet}           & 54.2\% & 50.2\% & 49.6\% &        \\\\\\hline
+  \\text{R-CNN bbox reg,AlexNet}  & 58.5\% & 53.7\% & 53.3\% & 31.4\%  \\\\\\hline
+  \\text{R-CNN,VGG-Net}           & 62.2\% &       &       &        \\\\\\hline
+  \\text{R-CNN bbox reg,VGG-Net}  & 66.0\% &       &       &        \\\\\\hline
 \\end{array}
 $$
 
@@ -69,10 +69,10 @@ $$
 \\begin{array}{|c|c|c|}
 \\hline
   \\text{Method}      & \\text{Trained on} & \\text{mAP} \\T \\\\\\hline
-  \\text{NoC}         & 07+12              & 68.8% \\\\\\hline
-  \\text{NoC,bb}      & 07+12              & 71.6% \\\\\\hline
-  \\text{NoC,+EB}     & 07+12              & 71.8% \\\\\\hline
-  \\text{NoC,+EB,bb}  & 07+12              & 73.3% \\\\\\hline
+  \\text{NoC}         & 07+12              & 68.8\% \\\\\\hline
+  \\text{NoC,bb}      & 07+12              & 71.6\% \\\\\\hline
+  \\text{NoC,+EB}     & 07+12              & 71.8\% \\\\\\hline
+  \\text{NoC,+EB,bb}  & 07+12              & 73.3\% \\\\\\hline
 \\end{array}
 $$
 
@@ -89,13 +89,13 @@ $$
 \\begin{array}{|c|c|c|}
 \\hline
   \\text{Model}             & \\text{BBoxReg} & \\text{mAP} \\T \\\\\\hline
-  \\text{R-CNN(AlexNet)}    & No              & 54.2% \\\\\\hline
-  \\text{R-CNN(VGG)}        & No              & 60.6% \\\\\\hline
-  \\text{+StructObj}        & No              & 61.2% \\\\\\hline
-  \\text{+StructObj-FT}     & No              & 62.3% \\\\\\hline
-  \\text{+FGS}              & No              & 64.8% \\\\\\hline
-  \\text{+StructObj+FGS}    & No              & 65.9% \\\\\\hline
-  \\text{+StructObj-FT+FGS} & No              & 66.5% \\\\\\hline
+  \\text{R-CNN(AlexNet)}    & No              & 54.2\%  \\\\\\hline
+  \\text{R-CNN(VGG)}        & No              & 60.6\%  \\\\\\hline
+  \\text{+StructObj}        & No              & 61.2\%  \\\\\\hline
+  \\text{+StructObj-FT}     & No              & 62.3\%  \\\\\\hline
+  \\text{+FGS}              & No              & 64.8\%  \\\\\\hline
+  \\text{+StructObj+FGS}    & No              & 65.9\%  \\\\\\hline
+  \\text{+StructObj-FT+FGS} & No              & 66.5\%  \\\\\\hline
 \\end{array}
 $$
 
@@ -104,13 +104,13 @@ $$
 \\begin{array}{|c|c|c|}
 \\hline
   \\text{Model}             & \\text{BBoxReg} & \\text{mAP} \\T \\\\\\hline
-  \\text{R-CNN(AlexNet)}    & Yes             & 58.5% \\\\\\hline
-  \\text{R-CNN(VGG)}        & Yes             & 65.4% \\\\\\hline
-  \\text{+StructObj}        & Yes             & 66.6% \\\\\\hline
-  \\text{+StructObj-FT}     & Yes             & 66.9% \\\\\\hline
-  \\text{+FGS}              & Yes             & 67.2% \\\\\\hline
-  \\text{+StructObj+FGS}    & Yes             & 68.5% \\\\\\hline
-  \\text{+StructObj-FT+FGS} & Yes             & 68.4% \\\\\\hline
+  \\text{R-CNN(AlexNet)}    & Yes             & 58.5\%  \\\\\\hline
+  \\text{R-CNN(VGG)}        & Yes             & 65.4\%  \\\\\\hline
+  \\text{+StructObj}        & Yes             & 66.6\%  \\\\\\hline
+  \\text{+StructObj-FT}     & Yes             & 66.9\%  \\\\\\hline
+  \\text{+FGS}              & Yes             & 67.2\%  \\\\\\hline
+  \\text{+StructObj+FGS}    & Yes             & 68.5\%  \\\\\\hline
+  \\text{+StructObj-FT+FGS} & Yes             & 68.4\%  \\\\\\hline
 \\end{array}
 $$
 
@@ -127,8 +127,8 @@ $$
 \\begin{array}{|c|c|c|}
 \\hline
   \\text{method}     & \\text{data} & \\text{VOC 2007 mAP}  \\T \\\\\\hline
-  \\text{FRCN,VGG16} & 07           & 66.9%                 \\\\\\hline
-  \\text{FRCN,VGG16} & 07+12        & 70.0%                 \\\\\\hline
+  \\text{FRCN,VGG16} & 07           & 66.9\%                \\\\\\hline
+  \\text{FRCN,VGG16} & 07+12        & 70.0\%                \\\\\\hline
 \\end{array}
 $$
 
@@ -137,8 +137,8 @@ $$
 \\begin{array}{|c|c|c|}
 \\hline
   \\text{method}     & \\text{data} & \\text{VOC 2010 mAP} \\T \\\\\\hline
-  \\text{FRCN,VGG16} & 12           & 66.1%                \\\\\\hline
-  \\text{FRCN,VGG16} & 07++12       & 68.8%                \\\\\\hline
+  \\text{FRCN,VGG16} & 12           & 66.1\%               \\\\\\hline
+  \\text{FRCN,VGG16} & 07++12       & 68.8\%               \\\\\\hline
 \\end{array}
 $$
 
@@ -147,8 +147,8 @@ $$
 \\begin{array}{|c|c|c|}
 \\hline
   \\text{method}     & \\text{data} & \\text{VOC 2012 mAP}  \\T \\\\\\hline
-  \\text{FRCN,VGG16} & 12           & 65.7%                 \\\\\\hline
-  \\text{FRCN,VGG16} & 07++12       & 68.4%                 \\\\\\hline
+  \\text{FRCN,VGG16} & 12           & 65.7\%                \\\\\\hline
+  \\text{FRCN,VGG16} & 07++12       & 68.4\%                \\\\\\hline
 \\end{array}
 $$
 
@@ -172,9 +172,9 @@ $$
 \\begin{array}{|c|c|c|}
 \\hline
   \\text{method}           & text{proposals} & \\text{data} & \\text{mAP} & \\text{time}  \\T \\\\\\hline
-  \\text{RPN+VGG,unshared} & 300             & 07           & 68.5%       & 342ms             \\\\\\hline
-  \\text{RPN+VGG,shared}   & 300             & 07           & 69.9%       & 196ms             \\\\\\hline
-  \\text{RPN+VGG,shared}   & 300             & 07+12        & 73.2%       & 196ms             \\\\\\hline
+  \\text{RPN+VGG,unshared} & 300             & 07           & 68.5\%       & 342ms            \\\\\\hline
+  \\text{RPN+VGG,shared}   & 300             & 07           & 69.9\%       & 196ms            \\\\\\hline
+  \\text{RPN+VGG,shared}   & 300             & 07+12        & 73.2\%       & 196ms            \\\\\\hline
 \\end{array}
 $$
 
@@ -184,8 +184,8 @@ $$
 \\begin{array}{|c|c|c|}
 \\hline
   \\text{method}           & text{proposals} & \\text{data} & \\text{mAP} & \\text{time}  \\T \\\\\\hline
-  \\text{RPN+VGG,shared}   & 300             & 12           & 67.0%       & 196ms             \\\\\\hline
-  \\text{RPN+VGG,shared}   & 300             & 07++12       & 70.4%       & 196ms             \\\\\\hline
+  \\text{RPN+VGG,shared}   & 300             & 12           & 67.0\%       & 196ms            \\\\\\hline
+  \\text{RPN+VGG,shared}   & 300             & 07++12       & 70.4\%       & 196ms            \\\\\\hline
 \\end{array}
 $$
 
