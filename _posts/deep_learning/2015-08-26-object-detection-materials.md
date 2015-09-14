@@ -19,7 +19,7 @@ title: Object Detection Materials
 
 - paper: [arXiv:1312.6229](http://arxiv.org/abs/1312.6229)
 
-**Rich feature hierarchies for accurate object detection and semantic segmentation**
+## **Rich feature hierarchies for accurate object detection and semantic segmentation**
 
 *(Submitted on 11 Nov 2013 (v1), last revised 22 Oct 2014 (this version, v5))*
 
@@ -171,10 +171,10 @@ $$
 \\newcommand\\T{\\Rule{0pt}{1em}{.3em}}
 \\begin{array}{|c|c|c|}
 \\hline
-  \\text{method}           & text{proposals} & \\text{data} & \\text{mAP} & \\text{time}  \\T \\\\\\hline
-  \\text{RPN+VGG,unshared} & 300             & 07           & 68.5\%       & 342ms            \\\\\\hline
-  \\text{RPN+VGG,shared}   & 300             & 07           & 69.9\%       & 196ms            \\\\\\hline
-  \\text{RPN+VGG,shared}   & 300             & 07+12        & 73.2\%       & 196ms            \\\\\\hline
+  \\text{method}           & \\text{proposals} & \\text{data} & \\text{mAP} & \\text{time}  \\T \\\\\\hline
+  \\text{RPN+VGG,unshared} & 300               & 07           & 68.5\%       & 342ms            \\\\\\hline
+  \\text{RPN+VGG,shared}   & 300               & 07           & 69.9\%       & 196ms            \\\\\\hline
+  \\text{RPN+VGG,shared}   & 300               & 07+12        & 73.2\%       & 196ms            \\\\\\hline
 \\end{array}
 $$
 
@@ -183,9 +183,9 @@ $$
 \\newcommand\\T{\\Rule{0pt}{1em}{.3em}}
 \\begin{array}{|c|c|c|}
 \\hline
-  \\text{method}           & text{proposals} & \\text{data} & \\text{mAP} & \\text{time}  \\T \\\\\\hline
-  \\text{RPN+VGG,shared}   & 300             & 12           & 67.0\%       & 196ms            \\\\\\hline
-  \\text{RPN+VGG,shared}   & 300             & 07++12       & 70.4\%       & 196ms            \\\\\\hline
+  \\text{method}           & \\text{proposals} & \\text{data} & \\text{mAP} & \\text{time}  \\T \\\\\\hline
+  \\text{RPN+VGG,shared}   & 300               & 12           & 67.0\%       & 196ms            \\\\\\hline
+  \\text{RPN+VGG,shared}   & 300               & 07++12       & 70.4\%       & 196ms            \\\\\\hline
 \\end{array}
 $$
 

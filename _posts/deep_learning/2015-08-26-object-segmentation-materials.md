@@ -14,3 +14,11 @@ title: Object Segmentation Materials
 *(Submitted on 9 Sep 2015 (v1), last revised 10 Sep 2015 (this version, v2))*
 
 - paper: [http://arxiv.org/abs/1509.02636](http://arxiv.org/abs/1509.02636)
+
+## **Semantic Image Segmentation via Deep Parsing Network**
+
+## Semantic Image Segmentation via Deep Parsing Network
+
+*(Submitted on 9 Sep 2015)*
+
+- paper: [http://arxiv.org/abs/1509.02634](http://arxiv.org/abs/1509.02634)
