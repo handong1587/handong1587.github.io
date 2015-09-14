@@ -18,6 +18,13 @@ title: handong1587
     {% endfor %}
   </ul>
 
+  <h1>Computer Vision</h1>
+<ul class="posts">
+    {% for post in site.categories.['computer_vision']%}
+    <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
+  {% endfor %}
+</ul>
+
     <h1>Algorithm and Data Structure</h1>
   <ul class="posts">
       {% for post in site.categories.['algorithm_and_data_structure']%}
