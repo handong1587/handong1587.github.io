@@ -190,7 +190,7 @@ $$
 $$
 
 - paper: [arXiv:1506.01497](http://arxiv.org/abs/1506.01497)
-- code: [https://github.com/ShaoqingRen/caffe](https://github.com/ShaoqingRen/caffe)
+- code: [https://github.com/ShaoqingRen/faster_rcnn](https://github.com/ShaoqingRen/faster_rcnn)
 
 **You Only Look Once: Unified, Real-Time Object Detection**
 
