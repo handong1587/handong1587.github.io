@@ -19,7 +19,7 @@ title: Object Detection Materials
 
 - paper: [arXiv:1312.6229](http://arxiv.org/abs/1312.6229)
 
-## **Rich feature hierarchies for accurate object detection and semantic segmentation**
+**Rich feature hierarchies for accurate object detection and semantic segmentation**
 
 *(Submitted on 11 Nov 2013 (v1), last revised 22 Oct 2014 (this version, v5))*
 
@@ -27,7 +27,7 @@ $$
 \\newcommand\\T{\\Rule{0pt}{1em}{.3em}}
 \\begin{array}{|c|c|c|c|c|}
 \\hline
-  \\text{method} & \\text{VOC 2007 mAP} & \\text{VOC 2010 mAP} & \\text{VOC 2012 mAP} & \\text{ILSVRC2013 test mAP} \\T \\\\\\hline
+  \\text{method} & \\text{VOC 2007 mAP} & \\text{VOC 2010 mAP} & \\text{VOC 2012 mAP} & \\text{ILSVRC 2013 mAP} \\T \\\\\\hline
   \\text{R-CNN,AlexNet}           & 54.2\% & 50.2\% & 49.6\% &        \\\\\\hline
   \\text{R-CNN bbox reg,AlexNet}  & 58.5\% & 53.7\% & 53.3\% & 31.4\%  \\\\\\hline
   \\text{R-CNN,VGG-Net}           & 62.2\% &       &       &        \\\\\\hline
@@ -185,7 +185,7 @@ $$
 \\hline
   \\text{method}           & \\text{proposals} & \\text{data} & \\text{mAP} & \\text{time}  \\T \\\\\\hline
   \\text{RPN+VGG,shared}   & 300               & 12           & 67.0\%       & 196ms            \\\\\\hline
-  \\text{RPN+VGG,shared}   & 300               & 07++12       & 70.4\%       & 196ms            \\\\\\hline
+  \\text{RPN+VGG,shared}   & 300               & \\text{07++12} & 70.4\%       & 196ms            \\\\\\hline
 \\end{array}
 $$
 
