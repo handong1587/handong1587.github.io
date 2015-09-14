@@ -36,6 +36,7 @@ title: Object Detection Materials
 | NoC,+EB    | 07+12      | 71.8 |
 | NoC,+EB,bb | 07+12      | 73.3 |
 
+$$
 \begin{array} {|r|r|r|}
 \hline
 method &trained on &mAP \\
@@ -49,6 +50,7 @@ NoC,+EB &07+12 &71.8 \\
 NoC,+EB,bb &07+12 &73.3 \\
 \hline
 \end{array}
+$$
 
 - paper: [arXiv:1504.06066](http://arxiv.org/abs/1504.06066)
 
