@@ -23,6 +23,18 @@ title: Object Detection Materials
 
 *(Submitted on 11 Nov 2013 (v1), last revised 22 Oct 2014 (this version, v5))*
 
+$$
+\\newcommand\\T{\\Rule{0pt}{1em}{.3em}}
+\\begin{array}{|c|c|c|c|}
+\\hline
+  \\text{method} & \\text{VOC 2007 mAP} & \\text{VOC 2010 mAP} & \\text{VOC 2012 mAP} & \\text{ILSVRC2013 test mAP} \\T \\\\\\hline
+  \\text{R-CNN,AlexNet}           & 54.2% & 50.2% & 49.6% &        \\\\\\hline
+  \\text{R-CNN bbox reg,AlexNet}  & 58.5% & 53.7% & 53.3% & 31.4%  \\\\\\hline
+  \\text{R-CNN,VGG-Net}           & 62.2% &       &       &        \\\\\\hline
+  \\text{R-CNN bbox reg,VGG-Net}  & 66.0% &       &       &   \\\\\\hline
+\\end{array}
+$$
+
 - paper: [arXiv:1311.2524](http://arxiv.org/abs/1311.2524)
 - slides: [http://www.cs.berkeley.edu/~rbg/slides/rcnn-cvpr14-slides.pdf](http://www.cs.berkeley.edu/~rbg/slides/rcnn-cvpr14-slides.pdf)
 - code: [https://github.com/rbgirshick/rcnn](https://github.com/rbgirshick/rcnn)
@@ -56,11 +68,11 @@ $$
 \\newcommand\\T{\\Rule{0pt}{1em}{.3em}}
 \\begin{array}{|c|c|c|}
 \\hline
-  \\text{method}      & \\text{trained on}  & \\text{mAP(%)} \\T \\\\\\hline
-  \\text{NoC}         & 07+12         & 68.8 \\\\\\hline
-  \\text{NoC,bb}      & 07+12         & 71.6 \\\\\\hline
-  \\text{NoC,+EB}     & 07+12         & 71.8 \\\\\\hline
-  \\text{NoC,+EB,bb}  & 07+12         & 73.3 \\\\\\hline
+  \\text{Method}      & \\text{Trained on} & \\text{mAP} \\T \\\\\\hline
+  \\text{NoC}         & 07+12              & 68.8% \\\\\\hline
+  \\text{NoC,bb}      & 07+12              & 71.6% \\\\\\hline
+  \\text{NoC,+EB}     & 07+12              & 71.8% \\\\\\hline
+  \\text{NoC,+EB,bb}  & 07+12              & 73.3% \\\\\\hline
 \\end{array}
 $$
 
@@ -71,6 +83,37 @@ and Structured Prediction**
 
 *(Submitted on 13 Apr 2015)*
 
+Test set mAP of VOC 2007 with IoU > 0.5:
+$$
+\\newcommand\\T{\\Rule{0pt}{1em}{.3em}}
+\\begin{array}{|c|c|c|}
+\\hline
+  \\text{Model}             & \\text{BBoxReg} & \\text{mAP} \\T \\\\\\hline
+  \\text{R-CNN(AlexNet)}    & No              & 54.2% \\\\\\hline
+  \\text{R-CNN(VGG)}        & No              & 60.6% \\\\\\hline
+  \\text{+StructObj}        & No              & 61.2% \\\\\\hline
+  \\text{+StructObj-FT}     & No              & 62.3% \\\\\\hline
+  \\text{+FGS}              & No              & 64.8% \\\\\\hline
+  \\text{+StructObj+FGS}    & No              & 65.9% \\\\\\hline
+  \\text{+StructObj-FT+FGS} & No              & 66.5% \\\\\\hline
+\\end{array}
+$$
+
+$$
+\\newcommand\\T{\\Rule{0pt}{1em}{.3em}}
+\\begin{array}{|c|c|c|}
+\\hline
+  \\text{Model}             & \\text{BBoxReg} & \\text{mAP} \\T \\\\\\hline
+  \\text{R-CNN(AlexNet)}    & Yes             & 58.5% \\\\\\hline
+  \\text{R-CNN(VGG)}        & Yes             & 65.4% \\\\\\hline
+  \\text{+StructObj}        & Yes             & 66.6% \\\\\\hline
+  \\text{+StructObj-FT}     & Yes             & 66.9% \\\\\\hline
+  \\text{+FGS}              & Yes             & 67.2% \\\\\\hline
+  \\text{+StructObj+FGS}    & Yes             & 68.5% \\\\\\hline
+  \\text{+StructObj-FT+FGS} & Yes             & 68.4% \\\\\\hline
+\\end{array}
+$$
+
 - paper: [arXiv:1504.03293](http://arxiv.org/abs/1504.03293)
 - slides: [2015-cvpr-det-slides](http://www.ytzhang.net/files/publications/2015-cvpr-det-slides.pdf)
 - code: [https://github.com/YutingZhang/fgs-obj](https://github.com/YutingZhang/fgs-obj)
@@ -78,6 +121,36 @@ and Structured Prediction**
 **Fast R-CNN**
 
 *(Submitted on 30 Apr 2015)*
+
+$$
+\\newcommand\\T{\\Rule{0pt}{1em}{.3em}}
+\\begin{array}{|c|c|c|}
+\\hline
+  \\text{method}     & \\text{data} & \\text{VOC 2007 mAP}  \\T \\\\\\hline
+  \\text{FRCN,VGG16} & 07           & 66.9%                 \\\\\\hline
+  \\text{FRCN,VGG16} & 07+12        & 70.0%                 \\\\\\hline
+\\end{array}
+$$
+
+$$
+\\newcommand\\T{\\Rule{0pt}{1em}{.3em}}
+\\begin{array}{|c|c|c|}
+\\hline
+  \\text{method}     & \\text{data} & \\text{VOC 2010 mAP} \\T \\\\\\hline
+  \\text{FRCN,VGG16} & 12           & 66.1%                \\\\\\hline
+  \\text{FRCN,VGG16} & 07++12       & 68.8%                \\\\\\hline
+\\end{array}
+$$
+
+$$
+\\newcommand\\T{\\Rule{0pt}{1em}{.3em}}
+\\begin{array}{|c|c|c|}
+\\hline
+  \\text{method}     & \\text{data} & \\text{VOC 2012 mAP}  \\T \\\\\\hline
+  \\text{FRCN,VGG16} & 12           & 65.7%                 \\\\\\hline
+  \\text{FRCN,VGG16} & 07++12       & 68.4%                 \\\\\\hline
+\\end{array}
+$$
 
 - paper: [arXiv:1504.08083](http://arxiv.org/abs/1504.08083)
 - slides: [caffe-cvpr15-detection](http://tutorial.caffe.berkeleyvision.org/caffe-cvpr15-detection.pdf)
@@ -92,6 +165,29 @@ and Structured Prediction**
 **Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks**
 
 *(Submitted on 4 Jun 2015)*
+
+Detection results on PASCAL VOC 2007 test set:
+$$
+\\newcommand\\T{\\Rule{0pt}{1em}{.3em}}
+\\begin{array}{|c|c|c|}
+\\hline
+  \\text{method}           & text{proposals} & \\text{data} & \\text{mAP} & \\text{time}  \\T \\\\\\hline
+  \\text{RPN+VGG,unshared} & 300             & 07           & 68.5%       & 342ms             \\\\\\hline
+  \\text{RPN+VGG,shared}   & 300             & 07           & 69.9%       & 196ms             \\\\\\hline
+  \\text{RPN+VGG,shared}   & 300             & 07+12        & 73.2%       & 196ms             \\\\\\hline
+\\end{array}
+$$
+
+Detection results on PASCAL VOC 2012 test set:
+$$
+\\newcommand\\T{\\Rule{0pt}{1em}{.3em}}
+\\begin{array}{|c|c|c|}
+\\hline
+  \\text{method}           & text{proposals} & \\text{data} & \\text{mAP} & \\text{time}  \\T \\\\\\hline
+  \\text{RPN+VGG,shared}   & 300             & 12           & 67.0%       & 196ms             \\\\\\hline
+  \\text{RPN+VGG,shared}   & 300             & 07++12       & 70.4%       & 196ms             \\\\\\hline
+\\end{array}
+$$
 
 - paper: [arXiv:1506.01497](http://arxiv.org/abs/1506.01497)
 - code: [https://github.com/ShaoqingRen/caffe](https://github.com/ShaoqingRen/caffe)

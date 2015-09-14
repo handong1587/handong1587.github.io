@@ -43,3 +43,9 @@ title: Convolutional Neural Network Materials
 
 - paper: [http://arxiv.org/abs/1408.3750v1](http://arxiv.org/abs/1408.3750v1)
 - code: [https://github.com/Zebreu/ConvolutionalEmotion](https://github.com/Zebreu/ConvolutionalEmotion)
+
+**Unsupervised Learning of Spatiotemporally Coherent Metrics**
+
+*(Submitted on 18 Dec 2014 (v1), last revised 8 Sep 2015 (this version, v6))*
+
+- paper: [http://arxiv.org/abs/1412.6056](http://arxiv.org/abs/1412.6056)
