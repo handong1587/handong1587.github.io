@@ -36,35 +36,18 @@ title: Object Detection Materials
 | NoC,+EB    | 07+12      | 71.8 |
 | NoC,+EB,bb | 07+12      | 73.3 |
 
-<table>
-  <tbody>
-    <tr>
-      <th>method</th>
-      <th align="center">trained on</th>
-      <th align="right">mAP</th>
-    </tr>
-    <tr>
-      <td>NoC</td>
-      <td align="center">07+12</td>
-      <td align="right">68.8</td>
-    </tr>
-    <tr>
-      <td>NoC,bb</td>
-      <td align="center">07+12</td>
-      <td align="right">71.6</td>
-    </tr>
-    <tr>
-      <td>NoC,+EB</td>
-      <td align="center">07+12</td>
-      <td align="right">71.8</td>
-    </tr>
-    <tr>
-      <td>NoC,+EB,bb</td>
-      <td align="center">07+12</td>
-      <td align="right">73.3</td>
-    </tr>
-  </tbody>
-</table>
+$$
+\newcommand\T{\Rule{0pt}{1em}{.3em}}
+\begin{array}{|c|c|}
+\hline X & P(X = i) \T \\\hline
+  1 \T & 1/6 \\\hline
+  2 \T & 1/6 \\\hline
+  3 \T & 1/6 \\\hline
+  4 \T & 1/6 \\\hline
+  5 \T & 1/6 \\\hline
+  6 \T & 1/6 \\\hline
+\end{array}
+$$
 
 - paper: [arXiv:1504.06066](http://arxiv.org/abs/1504.06066)
 
