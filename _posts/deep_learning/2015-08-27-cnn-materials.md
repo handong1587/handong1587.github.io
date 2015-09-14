@@ -9,6 +9,11 @@ title: Convolutional Neural Network Materials
 
 <p class="meta">27 Aug 2015 - Beijing</p>
 
+**Going Deeper with Convolutions**
+
+- paper: [http://arxiv.org/abs/1409.4842](http://arxiv.org/abs/1409.4842)
+- code: [https://github.com/google/inception](https://github.com/google/inception)
+
 **Fully Convolutional Networks for Semantic Segmentation**
 
 - paper: [arXiv:1411.4038](http://arxiv.org/abs/1411.4038)

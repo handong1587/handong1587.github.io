@@ -54,6 +54,16 @@ title: Object Detection Materials
 - paper: [arXiv:1506.01497](http://arxiv.org/abs/1506.01497)
 - code: [caffe](https://github.com/ShaoqingRen/caffe)
 
+**Scalable Object Detection using Deep Neural Networks**
+
+- paper: [http://arxiv.org/abs/1312.2249](http://arxiv.org/abs/1312.2249)
+- code: [https://github.com/google/multibox](https://github.com/google/multibox)
+
+**Scalable, High-Quality Object Detection**
+
+- paper: [http://arxiv.org/abs/1412.1441](http://arxiv.org/abs/1412.1441)
+- code: [https://github.com/google/multibox](https://github.com/google/multibox)
+
 **Object detection via a multi-region & semantic segmentation-aware CNN model**:
 
 - paper: [arXiv:1505.01749](http://arxiv.org/abs/1505.01749)
