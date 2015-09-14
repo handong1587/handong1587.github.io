@@ -12,7 +12,7 @@ title: Adversarial Examples of Deep Learning
 **Deep Neural Networks are Easily Fooled: High Confidence Predictions for Unrecognizable Images**:
 
 - paper: [arXiv:1412.1897](http://arxiv.org/abs/1412.1897)
-- code: [fooling](https://github.com/Evolving-AI-Lab/fooling/)
+- code: [https://github.com/Evolving-AI-Lab/fooling/](https://github.com/Evolving-AI-Lab/fooling/)
 
 **Explaining and Harnessing Adversarial Examples**:
 
@@ -25,4 +25,4 @@ title: Adversarial Examples of Deep Learning
 **Distributional Smoothing with Virtual Adversarial Training**:
 
 - paper: [arXiv:1507.00677](http://arxiv.org/abs/1507.00677)
-- code: [vat](https://github.com/takerum/vat)
+- code: [https://github.com/takerum/vat](https://github.com/takerum/vat)

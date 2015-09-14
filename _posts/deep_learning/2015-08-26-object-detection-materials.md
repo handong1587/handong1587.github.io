@@ -24,8 +24,8 @@ title: Object Detection Materials
 **Rich feature hierarchies for accurate object detection and semantic segmentation**:
 
 - paper: [arXiv:1311.2524](http://arxiv.org/abs/1311.2524)
-- slides: [rcnn-cvpr14-slides](http://www.cs.berkeley.edu/~rbg/slides/rcnn-cvpr14-slides.pdf)
-- code: [rcnn](https://github.com/rbgirshick/rcnn)
+- slides: [http://www.cs.berkeley.edu/~rbg/slides/rcnn-cvpr14-slides.pdf](http://www.cs.berkeley.edu/~rbg/slides/rcnn-cvpr14-slides.pdf)
+- code: [https://github.com/rbgirshick/rcnn](https://github.com/rbgirshick/rcnn)
 
 **Object Detection Networks on Convolutional Feature Maps**
 
@@ -47,12 +47,12 @@ title: Object Detection Materials
 
 - paper: [arXiv:1504.08083](http://arxiv.org/abs/1504.08083)
 - slides: [caffe-cvpr15-detection](http://tutorial.caffe.berkeleyvision.org/caffe-cvpr15-detection.pdf)
-- code: [fast-rcnn](https://github.com/rbgirshick/fast-rcnn)
+- code: [https://github.com/rbgirshick/fast-rcnn](https://github.com/rbgirshick/fast-rcnn)
 
 **Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks**:
 
 - paper: [arXiv:1506.01497](http://arxiv.org/abs/1506.01497)
-- code: [caffe](https://github.com/ShaoqingRen/caffe)
+- code: [https://github.com/ShaoqingRen/caffe](https://github.com/ShaoqingRen/caffe)
 
 **Scalable Object Detection using Deep Neural Networks**
 
@@ -71,7 +71,7 @@ title: Object Detection Materials
 **You Only Look Once: Unified, Real-Time Object Detection**:
 
 - paper: [arXiv:1506.02640](http://arxiv.org/abs/1506.02640)
-- code: [yolo](http://pjreddie.com/darknet/yolo/)
+- code: [http://pjreddie.com/darknet/yolo/](http://pjreddie.com/darknet/yolo/)
 
 **R-CNN minus R**:
 
@@ -90,4 +90,4 @@ and Structured Prediction**:
 
 - paper: [arXiv:1504.03293](http://arxiv.org/abs/1504.03293)
 - slides: [2015-cvpr-det-slides](http://www.ytzhang.net/files/publications/2015-cvpr-det-slides.pdf)
-- code: [fgs-obj](https://github.com/YutingZhang/fgs-obj)
+- code: [https://github.com/YutingZhang/fgs-obj](https://github.com/YutingZhang/fgs-obj)

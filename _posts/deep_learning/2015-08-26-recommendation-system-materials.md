@@ -11,6 +11,6 @@ title: Recommendation System Materials
 
 **Image-based recommendations on styles and substitutes**
 
-- paper: [sigir15.pdf](http://cseweb.ucsd.edu/~jmcauley/pdfs/sigir15.pdf)
-- code: [imageGraph.tar.gz](http://cseweb.ucsd.edu/~jmcauley/code/imageGraph.tar.gz)
-- data: [amazon](http://jmcauley.ucsd.edu/data/amazon/)
+- paper: [http://cseweb.ucsd.edu/~jmcauley/pdfs/sigir15.pdf](http://cseweb.ucsd.edu/~jmcauley/pdfs/sigir15.pdf)
+- code: [http://cseweb.ucsd.edu/~jmcauley/code/imageGraph.tar.gz](http://cseweb.ucsd.edu/~jmcauley/code/imageGraph.tar.gz)
+- data: [http://jmcauley.ucsd.edu/data/amazon/](http://jmcauley.ucsd.edu/data/amazon/)

@@ -14,12 +14,12 @@ title: OCR Materials
 <img src="/assets/ocr-materials/text_pipeline.png" width="800" />
 
 - paper: [arXiv:1412.1842](http://arxiv.org/abs/1412.1842)
-- code: [text](http://www.robots.ox.ac.uk/~vgg/research/text/)
+- code: [http://www.robots.ox.ac.uk/~vgg/research/text/](http://www.robots.ox.ac.uk/~vgg/research/text/)
 
 **Deep Features for Text Spotting**
 
 - paper: [jaderberg14](http://www.robots.ox.ac.uk/~vgg/publications/2014/Jaderberg14/jaderberg14.pdf)
-- code: [eccv2014_textspotting](https://bitbucket.org/jaderberg/eccv2014_textspotting)
+- code: [https://bitbucket.org/jaderberg/eccv2014_textspotting](https://bitbucket.org/jaderberg/eccv2014_textspotting)
 
 
 **Character-level Convolutional Networks for Text Classification(NIPS 2015. "Text Understanding from Scratch)**
