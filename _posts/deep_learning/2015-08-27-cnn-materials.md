@@ -49,3 +49,17 @@ title: Convolutional Neural Network Materials
 *(Submitted on 18 Dec 2014 (v1), last revised 8 Sep 2015 (this version, v6))*
 
 - paper: [http://arxiv.org/abs/1412.6056](http://arxiv.org/abs/1412.6056)
+
+# CNN acceleration and model size reduction
+
+**Fast ConvNets Using Group-wise Brain Damage**
+
+*(Submitted on 8 Jun 2015)*
+
+- paper: [http://arxiv.org/abs/1506.02515](http://arxiv.org/abs/1506.02515)
+
+**Learning both Weights and Connections for Efficient Neural Networks**
+
+*(Submitted on 8 Jun 2015 (v1), last revised 29 Jul 2015 (this version, v2))*
+
+- paper: [http://arxiv.org/abs/1506.02626](http://arxiv.org/abs/1506.02626)
