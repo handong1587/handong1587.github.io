@@ -66,3 +66,7 @@ CNN acceleration and model size reduction
 *(Submitted on 8 Jun 2015 (v1), last revised 29 Jul 2015 (this version, v2))*
 
 - paper: [http://arxiv.org/abs/1506.02626](http://arxiv.org/abs/1506.02626)
+
+**Learning Hierarchical Features for Scene Labeling**
+
+- paper: [http://yann.lecun.com/exdb/publis/pdf/farabet-pami-13.pdf](http://yann.lecun.com/exdb/publis/pdf/farabet-pami-13.pdf)
