@@ -49,6 +49,19 @@ $$
 \end{array}
 $$
 
+$$
+\\newcommand\\T{\\Rule{0pt}{1em}{.3em}}
+\\begin{array}{|c|c|}
+\\hline X & P(X = i) \\T \\\\\\hline
+  1 \\T & 1/6 \\\\\\hline
+  2 \\T & 1/6 \\\\\\hline
+  3 \\T & 1/6 \\\\\\hline
+  4 \\T & 1/6 \\\\\\hline
+  5 \\T & 1/6 \\\\\\hline
+  6 \\T & 1/6 \\\\\\hline
+\\end{array}
+$$
+
 - paper: [arXiv:1504.06066](http://arxiv.org/abs/1504.06066)
 
 **Spatial Pyramid Pooling in Deep Convolutional Networks for Visual Recognition**:
