@@ -22,3 +22,10 @@ title: Computer Vision Materials
 
 - paper: [http://www.its.caltech.edu/~roarke/research/FPM/FPM_Aperture_Scanning.pdf](http://www.its.caltech.edu/~roarke/research/FPM/FPM_Aperture_Scanning.pdf)
 - slides: [http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=6754138](http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=6754138)
+
+**Fast Burst Images Denoising(SIGGRAPH Asia 2014. CUHK, Microsoft Research)**
+
+<img src="/assets/computer-vision/Fast_Burst_Images_Denoising_intro.png" width="800" />
+
+- paper: [http://personal.ie.cuhk.edu.hk/~lz013/papers/burstdenoising.pdf](http://personal.ie.cuhk.edu.hk/~lz013/papers/burstdenoising.pdf)
+- project: [http://personal.ie.cuhk.edu.hk/~lz013/projects/BurstDenoising.html](http://personal.ie.cuhk.edu.hk/~lz013/projects/BurstDenoising.html)
