@@ -18,7 +18,7 @@ title: OCR Materials
 
 **Deep Features for Text Spotting**
 
-- paper: [jaderberg14](http://www.robots.ox.ac.uk/~vgg/publications/2014/Jaderberg14/jaderberg14.pdf)
+- paper: [http://www.robots.ox.ac.uk/~vgg/publications/2014/Jaderberg14/jaderberg14.pdf](http://www.robots.ox.ac.uk/~vgg/publications/2014/Jaderberg14/jaderberg14.pdf)
 - code: [https://bitbucket.org/jaderberg/eccv2014_textspotting](https://bitbucket.org/jaderberg/eccv2014_textspotting)
 
 
