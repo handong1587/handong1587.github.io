@@ -39,15 +39,15 @@ title: Object Detection Materials
 $$
 \begin{array} {|r|r|r|}
 \hline
-method &trained on &mAP \\
+method & trained on & mAP \\
 \hline
-NoC &07+12 &68.8 \\
+NoC & 07+12 & 68.8 \\
 \hline
-NoC,bb &07+12 &71.6 \\
+NoC,bb & 07+12 & 71.6 \\
 \hline
-NoC,+EB &07+12 &71.8 \\
+NoC,+EB & 07+12 & 71.8 \\
 \hline
-NoC,+EB,bb &07+12 &73.3 \\
+NoC,+EB,bb & 07+12 & 73.3 \\
 \hline
 \end{array}
 $$
