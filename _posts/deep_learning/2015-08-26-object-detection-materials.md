@@ -51,11 +51,11 @@ $$
 \\newcommand\\T{\\Rule{0pt}{1em}{.3em}}
 \\begin{array}{|c|c|c|}
 \\hline
-  method      & \\text{trained on}  & mAP \\T \\\\\\hline
-  NoC         & 07+12         & 68.8 \\\\\\hline
-  NoC,bb      & 07+12         & 71.6 \\\\\\hline
-  NoC,+EB     & 07+12         & 71.8 \\\\\\hline
-  NoC,+EB,bb  & 07+12         & 73.3 \\\\\\hline
+  \\text{method}      & \\text{trained on}  & \\text{mAP(\\%)} \\T \\\\\\hline
+  \\text{NoC}         & 07+12         & 68.8 \\\\\\hline
+  \\text{NoC,bb}      & 07+12         & 71.6 \\\\\\hline
+  \\text{NoC,+EB}     & 07+12         & 71.8 \\\\\\hline
+  \\text{NoC,+EB,bb}  & 07+12         & 73.3 \\\\\\hline
 \\end{array}
 $$
 
