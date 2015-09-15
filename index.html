@@ -7,7 +7,7 @@ title: handong1587
     <h1>Deep Learning</h1>
   <ul class="posts">
       {% for post in site.categories.['deep_learning']%}
-      <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
+      <li><span>{{ post.date | date_to_string }}</span> &raquo; <a target="_blank" a href="{{ post.url }}">{{ post.title }}</a></li>
     {% endfor %}
   </ul>
 
