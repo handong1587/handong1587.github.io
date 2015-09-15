@@ -89,13 +89,13 @@ $$
 \\begin{array}{|c|c|c|}
 \\hline
   \\text{Model}             & \\text{BBoxReg} & \\text{mAP} \\T \\\\\\hline
-  \\text{R-CNN(AlexNet)}    & No              & 54.2\%  \\\\\\hline
-  \\text{R-CNN(VGG)}        & No              & 60.6\%  \\\\\\hline
-  \\text{+StructObj}        & No              & 61.2\%  \\\\\\hline
-  \\text{+StructObj-FT}     & No              & 62.3\%  \\\\\\hline
-  \\text{+FGS}              & No              & 64.8\%  \\\\\\hline
-  \\text{+StructObj+FGS}    & No              & 65.9\%  \\\\\\hline
-  \\text{+StructObj-FT+FGS} & No              & 66.5\%  \\\\\\hline
+  \\text{R-CNN(AlexNet)}    & \\text{No}      & 54.2\%  \\\\\\hline
+  \\text{R-CNN(VGG)}        & \\text{No}      & 60.6\%  \\\\\\hline
+  \\text{+StructObj}        & \\text{No}      & 61.2\%  \\\\\\hline
+  \\text{+StructObj-FT}     & \\text{No}      & 62.3\%  \\\\\\hline
+  \\text{+FGS}              & \\text{No}      & 64.8\%  \\\\\\hline
+  \\text{+StructObj+FGS}    & \\text{No}      & 65.9\%  \\\\\\hline
+  \\text{+StructObj-FT+FGS} & \\text{No}      & 66.5\%  \\\\\\hline
 \\end{array}
 $$
 
@@ -104,13 +104,13 @@ $$
 \\begin{array}{|c|c|c|}
 \\hline
   \\text{Model}             & \\text{BBoxReg} & \\text{mAP} \\T \\\\\\hline
-  \\text{R-CNN(AlexNet)}    & Yes             & 58.5\%  \\\\\\hline
-  \\text{R-CNN(VGG)}        & Yes             & 65.4\%  \\\\\\hline
-  \\text{+StructObj}        & Yes             & 66.6\%  \\\\\\hline
-  \\text{+StructObj-FT}     & Yes             & 66.9\%  \\\\\\hline
-  \\text{+FGS}              & Yes             & 67.2\%  \\\\\\hline
-  \\text{+StructObj+FGS}    & Yes             & 68.5\%  \\\\\\hline
-  \\text{+StructObj-FT+FGS} & Yes             & 68.4\%  \\\\\\hline
+  \\text{R-CNN(AlexNet)}    & \\text{Yes}     & 58.5\%  \\\\\\hline
+  \\text{R-CNN(VGG)}        & \\text{Yes}     & 65.4\%  \\\\\\hline
+  \\text{+StructObj}        & \\text{Yes}     & 66.6\%  \\\\\\hline
+  \\text{+StructObj-FT}     & \\text{Yes}     & 66.9\%  \\\\\\hline
+  \\text{+FGS}              & \\text{Yes}     & 67.2\%  \\\\\\hline
+  \\text{+StructObj+FGS}    & \\text{Yes}     & 68.5\%  \\\\\\hline
+  \\text{+StructObj-FT+FGS} & \\text{Yes}     & 68.4\%  \\\\\\hline
 \\end{array}
 $$
 
