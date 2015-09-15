@@ -50,7 +50,7 @@ title: Convolutional Neural Network Materials
 
 - paper: [http://arxiv.org/abs/1412.6056](http://arxiv.org/abs/1412.6056)
 
-<span style="color: red; font-size: 10pt; font-weight: bold;">
+<span style="color: red; font-size: 150%; font-weight: bold;">
 CNN acceleration and model size reduction
 </span>
 
