@@ -20,3 +20,4 @@ title: Object Segmentation Materials
 *(Submitted on 9 Sep 2015)*
 
 - paper: [http://arxiv.org/abs/1509.02634](http://arxiv.org/abs/1509.02634)
+- paper: [http://arxiv.org/abs/1509.02634](http://arxiv.org/abs/1509.02634){:target="_blank"}
