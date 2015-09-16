@@ -23,6 +23,7 @@ title: Convolutional Neural Network and Arts
 - code: [http://nbviewer.ipython.org/github/Lasagne/Recipes/blob/master/examples/styletransfer/Art%20Style%20Transfer.ipynb](http://nbviewer.ipython.org/github/Lasagne/Recipes/blob/master/examples/styletransfer/Art%20Style%20Transfer.ipynb)
 - code: [https://github.com/mbartoli/neural-animation](https://github.com/mbartoli/neural-animation)
 - code: [https://github.com/memisevic/artify](https://github.com/memisevic/artify)
+- code: [https://github.com/mattya/chainer-gogh](https://github.com/mattya/chainer-gogh)
 
 **Sketch-a-Net that Beats Humans**
 
