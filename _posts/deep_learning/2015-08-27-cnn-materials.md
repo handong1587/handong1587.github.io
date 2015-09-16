@@ -9,6 +9,10 @@ title: Convolutional Neural Network Materials
 
 <p class="meta">27 Aug 2015 - Beijing</p>
 
+**Learning Hierarchical Features for Scene Labeling**
+
+- paper: [http://yann.lecun.com/exdb/publis/pdf/farabet-pami-13.pdf](http://yann.lecun.com/exdb/publis/pdf/farabet-pami-13.pdf)
+
 **Going Deeper with Convolutions**
 
 - paper: [http://arxiv.org/abs/1409.4842](http://arxiv.org/abs/1409.4842)
@@ -66,6 +70,12 @@ CNN acceleration and model size reduction
 
 - paper: [http://arxiv.org/abs/1506.02626](http://arxiv.org/abs/1506.02626)
 
-**Learning Hierarchical Features for Scene Labeling**
+<span style="color: red; font-size: 150%; font-weight: bold;">
+Deep generative image models
+</span>
 
-- paper: [http://yann.lecun.com/exdb/publis/pdf/farabet-pami-13.pdf](http://yann.lecun.com/exdb/publis/pdf/farabet-pami-13.pdf)
+**Deep generative image models using a Laplacian pyramid of adversarial networks**
+
+- paper: [http://arxiv.org/pdf/1506.05751v1.pdf](http://arxiv.org/pdf/1506.05751v1.pdf)
+- code: [http://soumith.ch/eyescream/](http://soumith.ch/eyescream/)
+- homepage: [http://www.cs.nyu.edu/~denton/](http://www.cs.nyu.edu/~denton/)
