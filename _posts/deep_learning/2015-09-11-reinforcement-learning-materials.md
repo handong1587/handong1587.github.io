@@ -20,3 +20,7 @@ title: Reinforcement Learning Materials
 - paper: [http://arxiv.org/abs/1509.04064v1](http://arxiv.org/abs/1509.04064v1)
 - code: [https://github.com/mcastron/BBRL/](https://github.com/mcastron/BBRL/)
 - reading: [http://blogs.ulg.ac.be/damien-ernst/benchmarking-for-bayesian-reinforcement-learning/](http://blogs.ulg.ac.be/damien-ernst/benchmarking-for-bayesian-reinforcement-learning/)
+
+**Giraffe: Using Deep Reinforcement Learning to Play Chess**
+
+- paper: [http://arxiv.org/abs/1509.01549](http://arxiv.org/abs/1509.01549)
