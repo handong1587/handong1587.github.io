@@ -79,3 +79,10 @@ Deep generative image models
 - paper: [http://arxiv.org/pdf/1506.05751v1.pdf](http://arxiv.org/pdf/1506.05751v1.pdf)
 - code: [http://soumith.ch/eyescream/](http://soumith.ch/eyescream/)
 - homepage: [http://www.cs.nyu.edu/~denton/](http://www.cs.nyu.edu/~denton/)
+
+**Contextual Action Recognition with R*CNN**
+
+*(Submitted on 5 May 2015)*
+
+- paper: [http://arxiv.org/abs/1505.01197](http://arxiv.org/abs/1505.01197)
+- code: [https://github.com/gkioxari/RstarCNN](https://github.com/gkioxari/RstarCNN)

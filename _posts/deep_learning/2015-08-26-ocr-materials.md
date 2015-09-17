@@ -9,6 +9,12 @@ title: OCR Materials
 
 <p class="meta">26 Aug 2015 - Beijing</p>
 
+**Word Spotting and Recognition with Embedded Attributes**
+
+<img src="/assets/ocr-materials/Word_Spotting_and_Recognition_with_Embedded_Attributes.jpg" width="800" />
+
+- paper: [http://ieeexplore.ieee.org.sci-hub.org/xpl/articleDetails.jsp?arnumber=6857995&filter%3DAND%28p_IS_Number%3A6940341%29](http://ieeexplore.ieee.org.sci-hub.org/xpl/articleDetails.jsp?arnumber=6857995&filter%3DAND%28p_IS_Number%3A6940341%29)
+
 **Reading Text in the Wild with Convolutional Neural Networks**
 
 <img src="/assets/ocr-materials/text_pipeline.png" width="800" />

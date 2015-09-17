@@ -39,3 +39,7 @@ title: RNN and LSTM Materials
 **Visualizing and Understanding Recurrent Networks(Andrej Karpathy, Justin Johnson, Fei-Fei Li)**
 
 - paper: [http://arxiv.org/abs/1506.02078](http://arxiv.org/abs/1506.02078)
+
+**Project: pycaffe-recurrent**
+
+- code: [https://github.com/kuprel/pycaffe-recurrent/](https://github.com/kuprel/pycaffe-recurrent/)

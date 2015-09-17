@@ -9,6 +9,10 @@ title: Deep Learning Materials
 
 <p class="meta">27 Aug 2015 - Beijing</p>
 
+**Deep Learning Libraries by Language**
+
+- website: [http://www.teglor.com/b/deep-learning-libraries-language-cm569/](http://www.teglor.com/b/deep-learning-libraries-language-cm569/)
+
 **Deep Learning for Multi-label Classification**
 
 - paper: [http://arxiv.org/abs/1502.05988](http://arxiv.org/abs/1502.05988)
@@ -60,3 +64,11 @@ Deep Learning using Linear Support Vector Machines
 **Deep Neural Networks(with Python code)**
 
 - paper: [http://scholarbank.nus.edu.sg/bitstream/handle/10635/120564/DeepNeuralNetworks.pdf?sequence=1](http://scholarbank.nus.edu.sg/bitstream/handle/10635/120564/DeepNeuralNetworks.pdf?sequence=1)
+
+
+**Importance Weighted Autoencoders**
+
+*(Submitted on 1 Sep 2015)*
+
+- paper: [http://arxiv.org/abs/1509.00519](http://arxiv.org/abs/1509.00519)
+- code: [https://github.com/yburda/iwae](https://github.com/yburda/iwae)

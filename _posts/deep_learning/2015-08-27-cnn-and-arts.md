@@ -34,6 +34,11 @@ title: Convolutional Neural Network and Arts
 
 - code: [https://github.com/MattVitelli/GRUV](https://github.com/MattVitelli/GRUV)
 
+**DeepHear - Composing and harmonizing music with neural networks**
+
+- website: [http://web.mit.edu/felixsun/www/neural-music.html](http://web.mit.edu/felixsun/www/neural-music.html)
+- code: [https://github.com/fephsun/neuralnetmusic](https://github.com/fephsun/neuralnetmusic)
+
 **How Do Humans Sketch Objects?**
 
 <img src="/assets/cnn-and-arts/teaser_siggraph.jpg"
