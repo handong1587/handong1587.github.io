@@ -1,7 +1,7 @@
 ---
 layout: post
 categories: reading_and_thoughts
-title: From Schrodinger's Cat To The Three-Body Problem
+title: From Schrodinger's Cat To The Three-Body Problem: How I Think About Life
 ---
 
 {{ page.title }}
