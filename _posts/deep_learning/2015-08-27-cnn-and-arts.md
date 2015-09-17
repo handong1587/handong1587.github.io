@@ -27,7 +27,7 @@ title: Convolutional Neural Network and Arts
 
 **Instructions for making a Neural-Style movie**
 
-<img src="/assets/ocr-materials/Why_is_a_Raven Like_a_Writing_Desk.jpg" width="800" />
+<img src="/assets/ocr-materials/Why_is_a_Raven_Like_a_Writing_Desk.jpg" width="800" />
 
 - website: [https://gist.github.com/genekogan/d61c8010d470e1dbe15d](https://gist.github.com/genekogan/d61c8010d470e1dbe15d)
 - sample: [https://vimeo.com/139123754](https://vimeo.com/139123754)

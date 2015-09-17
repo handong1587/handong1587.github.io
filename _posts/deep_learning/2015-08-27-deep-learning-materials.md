@@ -51,6 +51,14 @@ Deep Learning using Linear Support Vector Machines
 
 - paper: [http://deeplearning.net/wp-content/uploads/2013/03/dlsvm.pdf](http://deeplearning.net/wp-content/uploads/2013/03/dlsvm.pdf)
 
+**Unifying Visual-Semantic Embeddings with Multimodal Neural Language Models**
+
+<img src="/assets/dl-materials/Unifying_Visual-Semantic_Embeddings_with_Multimodal_Neural_Language_Models.png" width="800" />
+
+- paper: [http://arxiv.org/abs/1411.2539](http://arxiv.org/abs/1411.2539)
+- results: [http://www.cs.toronto.edu/~rkiros/lstm_scnlm.html](http://www.cs.toronto.edu/~rkiros/lstm_scnlm.html)
+- demo: [http://deeplearning.cs.toronto.edu/i2t](http://deeplearning.cs.toronto.edu/i2t)
+
 **Bayesian Dark Knowledge**
 
 - paper: [http://arxiv.org/abs/1506.04416](http://arxiv.org/abs/1506.04416)
