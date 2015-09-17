@@ -25,6 +25,13 @@ title: Convolutional Neural Network and Arts
 - code: [https://github.com/memisevic/artify](https://github.com/memisevic/artify)
 - code: [https://github.com/mattya/chainer-gogh](https://github.com/mattya/chainer-gogh)
 
+**Instructions for making a Neural-Style movie**
+
+<img src="/assets/ocr-materials/Why_is_a_Raven Like_a_Writing_Desk.jpg" width="800" />
+
+- website: [https://gist.github.com/genekogan/d61c8010d470e1dbe15d](https://gist.github.com/genekogan/d61c8010d470e1dbe15d)
+- sample: [https://vimeo.com/139123754](https://vimeo.com/139123754)
+
 **Sketch-a-Net that Beats Humans**
 
 - paper: [arXiv:1501.07873](http://arxiv.org/abs/1501.07873)
