@@ -39,6 +39,9 @@ title: Some Useful Blogs
 
 [A Painless Q-Learning Tutorial](http://mnemstudio.org/path-finding-q-learning-tutorial.htm)
 
+[26 Things I Learned in the Deep Learning Summer School](http://www.marekrei.com/blog/26-things-i-learned-in-the-deep-learning-summer-school/)
+- Chinese: [http://www.csdn.net/article/2015-09-16/2825716](http://www.csdn.net/article/2015-09-16/2825716)
+
 # RNN and LSTM
 
 [A Deep Dive into Recurrent Neural Nets](http://nikhilbuduma.com/2015/01/11/a-deep-dive-into-recurrent-neural-networks/)
