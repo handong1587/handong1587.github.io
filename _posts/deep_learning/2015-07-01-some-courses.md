@@ -11,7 +11,7 @@ title: Some Courses
 
 [Stanford CS231n: Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu/)
 
-- github.io: [http://cs231n.github.io/]
+- github.io: [http://cs231n.github.io/](http://cs231n.github.io/)
 
 [EECS 598: Unsupervised Feature Learning(by Honglak Lee)](http://web.eecs.umich.edu/~honglak/teaching/eecs598/schedule.html)
 
@@ -20,3 +20,7 @@ title: Some Courses
 [ECE 6504 Deep Learning for Perception(by Dhruv Batra, Virginia Tech)](https://computing.ece.vt.edu/~f15ece6504/)
 
 [Stanford CS224d: Deep Learning for Natural Language Processing](http://cs224d.stanford.edu/)
+
+[Udacity: Intro to Parallel Programming Using CUDA to Harness the Power of GPUs](https://www.udacity.com/course/intro-to-parallel-programming--cs344)
+
+[University of Oxford: Machine Learning: 2014-2015](https://www.cs.ox.ac.uk/people/nando.defreitas/machinelearning/)

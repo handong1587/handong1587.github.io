@@ -14,3 +14,5 @@ title: Some Useful Blogs
 [Machine Learning and Computer Vision Resources](http://zhengrui.github.io/zerryland/ML-CV-Resource.html)
 
 [Target acquired: Finding targets in drone and quadcopter video streams using Python and OpenCV](http://www.pyimagesearch.com/2015/05/04/target-acquired-finding-targets-in-drone-and-quadcopter-video-streams-using-python-and-opencv/)
+
+[AWESOME-RANDOM-FOREST - a curated list of resources regarding random forest](http://jiwonkim.org/awesome-random-forest/)

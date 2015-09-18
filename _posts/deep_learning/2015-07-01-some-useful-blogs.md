@@ -44,6 +44,8 @@ title: Some Useful Blogs
 
 [A Deep Learning Tutorial: From Perceptrons to Deep Networks](http://www.toptal.com/machine-learning/an-introduction-to-deep-learning-from-perceptrons-to-deep-networks)
 
+[VGG Convolutional Neural Networks Practical](http://www.robots.ox.ac.uk/~vgg/practicals/cnn/index.html)
+
 # RNN and LSTM
 
 [A Deep Dive into Recurrent Neural Nets](http://nikhilbuduma.com/2015/01/11/a-deep-dive-into-recurrent-neural-networks/)
@@ -53,3 +55,9 @@ title: Some Useful Blogs
 [LSTM implementation explained](http://apaszke.github.io/lstm-explained.html)
 
 [Recurrent Neural Networks Tutorial, Part 1 – Introduction to RNNs](http://www.wildml.com/2015/09/recurrent-neural-networks-tutorial-part-1-introduction-to-rnns/)
+
+[Awesome-rnn - A curated list of resources dedicated to RNN](http://jiwonkim.org/awesome-rnn/)
+
+[Understanding LSTM Networks](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
+
+- Chs: [http://www.jianshu.com/p/9dc9f41f0b29](http://www.jianshu.com/p/9dc9f41f0b29)

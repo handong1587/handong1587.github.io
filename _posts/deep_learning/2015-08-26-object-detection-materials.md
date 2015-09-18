@@ -34,6 +34,7 @@ $$
 - paper: [arXiv:1311.2524](http://arxiv.org/abs/1311.2524)
 - slides: [http://www.cs.berkeley.edu/~rbg/slides/rcnn-cvpr14-slides.pdf](http://www.cs.berkeley.edu/~rbg/slides/rcnn-cvpr14-slides.pdf)
 - code: [https://github.com/rbgirshick/rcnn](https://github.com/rbgirshick/rcnn)
+- note: [http://zhangliliang.com/2014/07/23/paper-note-rcnn/](http://zhangliliang.com/2014/07/23/paper-note-rcnn/)
 
 **Scalable Object Detection using Deep Neural Networks**
 
@@ -44,6 +45,7 @@ $$
 
 - paper: [arXiv:1406.4729](http://arxiv.org/abs/1406.4729)
 - code: [https://github.com/ShaoqingRen/SPP_net](https://github.com/ShaoqingRen/SPP_net)
+- note: [http://zhangliliang.com/2014/09/13/paper-note-sppnet/](http://zhangliliang.com/2014/09/13/paper-note-sppnet/)
 
 **Scalable, High-Quality Object Detection**
 
@@ -139,10 +141,12 @@ $$
 - paper: [arXiv:1504.08083](http://arxiv.org/abs/1504.08083)
 - slides: [caffe-cvpr15-detection](http://tutorial.caffe.berkeleyvision.org/caffe-cvpr15-detection.pdf)
 - code: [https://github.com/rbgirshick/fast-rcnn](https://github.com/rbgirshick/fast-rcnn)
+- note: [http://zhangliliang.com/2015/05/17/paper-note-fast-rcnn/](http://zhangliliang.com/2015/05/17/paper-note-fast-rcnn/)
 
 **Object detection via a multi-region & semantic segmentation-aware CNN model**
 
 - paper: [arXiv:1505.01749](http://arxiv.org/abs/1505.01749)
+- note: [http://zhangliliang.com/2015/05/17/paper-note-ms-cnn/](http://zhangliliang.com/2015/05/17/paper-note-ms-cnn/)
 
 **Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks**
 
