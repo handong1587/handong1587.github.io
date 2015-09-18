@@ -42,6 +42,8 @@ title: Some Useful Blogs
 [26 Things I Learned in the Deep Learning Summer School](http://www.marekrei.com/blog/26-things-i-learned-in-the-deep-learning-summer-school/)
 - Chinese: [http://www.csdn.net/article/2015-09-16/2825716](http://www.csdn.net/article/2015-09-16/2825716)
 
+[A Deep Learning Tutorial: From Perceptrons to Deep Networks](http://www.toptal.com/machine-learning/an-introduction-to-deep-learning-from-perceptrons-to-deep-networks)
+
 # RNN and LSTM
 
 [A Deep Dive into Recurrent Neural Nets](http://nikhilbuduma.com/2015/01/11/a-deep-dive-into-recurrent-neural-networks/)
@@ -49,3 +51,5 @@ title: Some Useful Blogs
 [Long Short-Term Memory: Tutorial on LSTM Recurrent Networks](http://people.idsia.ch/~juergen/lstm/index.htm)
 
 [LSTM implementation explained](http://apaszke.github.io/lstm-explained.html)
+
+[Recurrent Neural Networks Tutorial, Part 1 – Introduction to RNNs](http://www.wildml.com/2015/09/recurrent-neural-networks-tutorial-part-1-introduction-to-rnns/)

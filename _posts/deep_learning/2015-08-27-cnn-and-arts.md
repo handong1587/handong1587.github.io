@@ -25,6 +25,10 @@ title: Convolutional Neural Network and Arts
 - code: [https://github.com/memisevic/artify](https://github.com/memisevic/artify)
 - code: [https://github.com/mattya/chainer-gogh](https://github.com/mattya/chainer-gogh)
 
+**Texture synthesis and the controlled generation of natural stimuli using convolutional neural networks**
+
+- paper: [http://arxiv.org/abs/1505.07376](http://arxiv.org/abs/1505.07376)
+
 **Instructions for making a Neural-Style movie**
 
 <img src="/assets/ocr-materials/Why_is_a_Raven_Like_a_Writing_Desk.jpg" width="800" />
