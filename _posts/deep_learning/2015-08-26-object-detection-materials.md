@@ -13,9 +13,20 @@ title: Object Detection Materials
 
 - paper: [http://papers.nips.cc/paper/5207-deep-neural-networks-for-object-detection.pdf](http://papers.nips.cc/paper/5207-deep-neural-networks-for-object-detection.pdf)
 
-**OverFeat: Integrated Recognition, Localization and Detection using Convolutional Networks**:
+**OverFeat: Integrated Recognition, Localization and Detection using Convolutional Networks**
+
+$$
+\\newcommand\\T{\\Rule{0pt}{1em}{.3em}}
+\\begin{array}{|c|c|}
+\\hline
+  \\text{method}   & \\text{ILSVRC 2013 mAP} \\T \\\\\\hline
+  \\text{OverFeat} &  24.3\%                 \\\\\\hline
+\\end{array}
+$$
 
 - paper: [arXiv:1312.6229](http://arxiv.org/abs/1312.6229)
+- code: [https://github.com/sermanet/OverFeat](https://github.com/sermanet/OverFeat)
+- code: [http://cilvr.nyu.edu/doku.php?id=software:overfeat:start](http://cilvr.nyu.edu/doku.php?id=software:overfeat:start)
 
 **Rich feature hierarchies for accurate object detection and semantic segmentation**
 
@@ -147,6 +158,7 @@ $$
 
 - paper: [arXiv:1505.01749](http://arxiv.org/abs/1505.01749)
 - note: [http://zhangliliang.com/2015/05/17/paper-note-ms-cnn/](http://zhangliliang.com/2015/05/17/paper-note-ms-cnn/)
+- note: [http://blog.cvmarcher.com/posts/2015/05/17/multi-region-semantic-segmentation-aware-cnn/](http://blog.cvmarcher.com/posts/2015/05/17/multi-region-semantic-segmentation-aware-cnn/)
 
 **Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks**
 
