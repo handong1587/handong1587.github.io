@@ -13,14 +13,26 @@ title: Deep Learning Materials
 
 - website: [http://www.teglor.com/b/deep-learning-libraries-language-cm569/](http://www.teglor.com/b/deep-learning-libraries-language-cm569/)
 
+================================================================================
+
+<span style="color: red; font-size: 150%; font-weight: bold;">
+Multi-label Learning
+</span>
+
+**CNN: Single-label to Multi-label**
+
+- paper: [http://arxiv.org/abs/1406.5726](http://arxiv.org/abs/1406.5726)
+
 **Deep Learning for Multi-label Classification**
 
 - paper: [http://arxiv.org/abs/1502.05988](http://arxiv.org/abs/1502.05988)
 - code: [http://meka.sourceforge.net](http://meka.sourceforge.net)
 
-**CNN: Single-label to Multi-label**
+**Predicting Unseen Labels using Label Hierarchies in Large-Scale Multi-label Learning(ECML2015)**
 
-- paper: [http://arxiv.org/abs/1406.5726](http://arxiv.org/abs/1406.5726)
+- paper: [https://www.kdsl.tu-darmstadt.de/fileadmin/user_upload/Group_KDSL/PUnL_ECML2015_camera_ready.pdf](https://www.kdsl.tu-darmstadt.de/fileadmin/user_upload/Group_KDSL/PUnL_ECML2015_camera_ready.pdf)
+
+================================================================================
 
 **Reweighted Wake-Sleep**
 
@@ -97,6 +109,8 @@ Deep Learning using Linear Support Vector Machines
 
 - paper: [http://arxiv.org/abs/1509.05009](http://arxiv.org/abs/1509.05009)
 
+================================================================================
+
 <span style="color: red; font-size: 150%; font-weight: bold;">
 Driving
 </span>
@@ -114,3 +128,15 @@ Driving
 
 - paper: [http://arxiv.org/abs/1509.05016](http://arxiv.org/abs/1509.05016)
 - homepage: [http://www.brain4cars.com/](http://www.brain4cars.com/)
+
+================================================================================
+
+**Effective Approaches to Attention-based Neural Machine Translation(EMNLP2015)**
+
+- paper: [http://nlp.stanford.edu/pubs/emnlp15_attn.pdf](http://nlp.stanford.edu/pubs/emnlp15_attn.pdf)
+- project: [http://nlp.stanford.edu/projects/nmt/](http://nlp.stanford.edu/projects/nmt/)
+
+**Dropout as data augmentation**
+
+- paper: [http://arxiv.org/abs/1506.08700](http://arxiv.org/abs/1506.08700)
+- notes: [https://www.evernote.com/shard/s189/sh/ef0c3302-21a4-40d7-b8b4-1c65b8ebb1c9/24ff553fcfb70a27d61ff003df75b5a9](https://www.evernote.com/shard/s189/sh/ef0c3302-21a4-40d7-b8b4-1c65b8ebb1c9/24ff553fcfb70a27d61ff003df75b5a9)

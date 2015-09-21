@@ -28,3 +28,14 @@ title: Machine Learning Materials
 - paper: [PISA_Final](http://vision.sysu.edu.cn/project/PISA/PISA_Final.pdf)
 - project: [PISA](http://vision.sysu.edu.cn/project/PISA/)
 - code: [pixelwiseImageSaliencyAggregation](https://github.com/kezewang/pixelwiseImageSaliencyAggregation)
+
+**Practical Bayesian Optimization of Machine Learning Algorithms**
+
+- paper: [http://arxiv.org/abs/1206.2944v2](http://arxiv.org/abs/1206.2944v2)
+- code: [https://github.com/JasperSnoek/spearmint](https://github.com/JasperSnoek/spearmint)
+- code: [https://github.com/HIPS/Spearmint](https://github.com/HIPS/Spearmint)
+
+**Auto-Encoding Variational Bayes**
+
+- paper: [http://arxiv.org/abs/1312.6114](http://arxiv.org/abs/1312.6114)
+- code: [https://github.com/stitchfix/fauxtograph](https://github.com/stitchfix/fauxtograph)

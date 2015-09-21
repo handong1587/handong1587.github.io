@@ -66,3 +66,7 @@ title: Convolutional Neural Network and Arts
  width="640" />
 
 - project: [https://people.csail.mit.edu/yichangshih/portrait_web/](https://people.csail.mit.edu/yichangshih/portrait_web/)
+
+**Using AutoHarp and a Character-Based RNN to Create MIDI Drum Loops**
+
+- website: [http://www.inquisitivists.com/2015/09/16/using-autoharp-and-a-character-based-rnn-to-create-midi-drum-loops](http://www.inquisitivists.com/2015/09/16/using-autoharp-and-a-character-based-rnn-to-create-midi-drum-loops)

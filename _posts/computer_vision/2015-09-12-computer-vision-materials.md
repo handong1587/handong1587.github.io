@@ -29,3 +29,9 @@ title: Computer Vision Materials
 
 - paper: [http://personal.ie.cuhk.edu.hk/~lz013/papers/burstdenoising.pdf](http://personal.ie.cuhk.edu.hk/~lz013/papers/burstdenoising.pdf)
 - project: [http://personal.ie.cuhk.edu.hk/~lz013/projects/BurstDenoising.html](http://personal.ie.cuhk.edu.hk/~lz013/projects/BurstDenoising.html)
+
+**Computer Vision Datasets**
+
+- website: [http://clickdamage.com/sourcecode/index.html](http://clickdamage.com/sourcecode/index.html)
+- code: [http://clickdamage.com/sourcecode/cv_datasets.php](http://clickdamage.com/sourcecode/cv_datasets.php)
+- BaiduPan: [http://pan.baidu.com/s/1pJmqD4n](http://pan.baidu.com/s/1pJmqD4n)
