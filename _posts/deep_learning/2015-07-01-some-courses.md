@@ -24,3 +24,5 @@ title: Some Courses
 [Udacity: Intro to Parallel Programming Using CUDA to Harness the Power of GPUs](https://www.udacity.com/course/intro-to-parallel-programming--cs344)
 
 [University of Oxford: Machine Learning: 2014-2015](https://www.cs.ox.ac.uk/people/nando.defreitas/machinelearning/)
+
+[University of Birmingham 2014: Introduction to Neural Computation (Level 4/M); Neural Computation (Level 3/H)(by John A. Bullinaria)](http://www.cs.bham.ac.uk/~jxb/inc.html)

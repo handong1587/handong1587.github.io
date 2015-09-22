@@ -156,6 +156,28 @@ $$
 
 **Object detection via a multi-region & semantic segmentation-aware CNN model**
 
+Results on VOC 2007 test set:
+$$
+\\newcommand\\T{\\Rule{0pt}{1em}{.3em}}
+\\begin{array}{|c|c|}
+\\hline
+  \\text{Trained on} & \\text{mAP} \\T \\\\\\hline
+  \\text{07+12}      & 78.2\% \\\\\\hline
+  \\text{07}         & 74.9\% \\\\\\hline
+\\end{array}
+$$
+
+Results on VOC 2012 test set:
+$$
+\\newcommand\\T{\\Rule{0pt}{1em}{.3em}}
+\\begin{array}{|c|c|}
+\\hline
+  \\text{Trained on} & \\text{mAP} \\T \\\\\\hline
+  \\text{07+12}      & 73.9\% \\\\\\hline
+  \\text{12}         & 70.7\% \\\\\\hline
+\\end{array}
+$$
+
 - paper: [arXiv:1505.01749](http://arxiv.org/abs/1505.01749)
 - note: [http://zhangliliang.com/2015/05/17/paper-note-ms-cnn/](http://zhangliliang.com/2015/05/17/paper-note-ms-cnn/)
 - notes: [http://blog.cvmarcher.com/posts/2015/05/17/multi-region-semantic-segmentation-aware-cnn/](http://blog.cvmarcher.com/posts/2015/05/17/multi-region-semantic-segmentation-aware-cnn/)
