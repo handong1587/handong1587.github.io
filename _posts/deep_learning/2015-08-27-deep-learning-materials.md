@@ -144,15 +144,20 @@ Driving
 ================================================================================
 
 <span style="color: red; font-size: 150%; font-weight: bold;">
-Difference Target Propagation
+Target Propagation
 </span>
 
 **How Auto-Encoders Could Provide Credit Assignment in Deep Networks via Target Propagation(Yoshua Bengio)**
 
 - paper: [http://arxiv.org/abs/1407.7906](http://arxiv.org/abs/1407.7906)
 
-**Target Propagation**
+**Difference Target Propagation**
 
-- paper: [http://www.researchgate.net/publication/269997499_Target_Propagation](http://www.researchgate.net/publication/269997499_Target_Propagation)
+- paper: [http://arxiv.org/abs/1412.7525](http://arxiv.org/abs/1412.7525)
+- code: [https://github.com/donghyunlee/dtp](https://github.com/donghyunlee/dtp)
 
 ================================================================================
+
+**An objective function for STDP(Yoshua Bengio)**
+
+- paper: [http://arxiv.org/abs/1509.05936](http://arxiv.org/abs/1509.05936)
