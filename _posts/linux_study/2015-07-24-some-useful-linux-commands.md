@@ -136,8 +136,7 @@ Naming a screen:
 
 Generate Cscope database:
 
-<pre class="terminal"><code>$ find . -name "\*.c" -o -name "\*.cc" -o -name "\*.cpp" -o -name "\*.cu" 
--o -name "\*.h" -o -name "\*.hpp" -o -name "\*.py" -o -name "\*.proto" > cscope.files</code></pre>
+<pre class="terminal"><code>$ find . -name "\*.c" -o -name "\*.cc" -o -name "\*.cpp" -o -name "\*.cu" -o -name "\*.h" -o -name "\*.hpp" -o -name "\*.py" -o -name "\*.proto" > cscope.files</code></pre>
 
 Build a Cscope reference database:
 
@@ -187,7 +186,7 @@ Print graphics card version:
 
 <pre class="terminal"><code>$ nvcc --version</code></pre>
 
-Print graphics card GPU info: 
+Print graphics card GPU info:
 
 <pre class="terminal"><code>$ nvidia-smi</code></pre>
 
