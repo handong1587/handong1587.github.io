@@ -17,21 +17,6 @@ Array and Manacher algorithm. I found that they are impressively amazing and hav
 
 A suffix array is a sorted array of all suffixes of a string. For example, "abracadabra":
 
-i          |sa[i]           |S[sa[i]...]
-:----------|:----------|:---------------
-0          |11         |(empty string)
-1          |10         |a
-2          |7          |abra
-3          |0          |abracadabra
-4          |3          |acadabra
-5          |5          |adabra
-6          |8          |bra
-7          |1          |bracadabra
-8          |4          |cadabra
-9          |6          |dabra
-10         |9          |ra
-11         |2          |racadabra
-
 $$
 \\newcommand\\T{\\Rule{0pt}{1em}{.3em}}
 \\begin{array}{|c|c|c|}
