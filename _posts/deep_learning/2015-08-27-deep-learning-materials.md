@@ -140,3 +140,19 @@ Driving
 
 - paper: [http://arxiv.org/abs/1506.08700](http://arxiv.org/abs/1506.08700)
 - notes: [https://www.evernote.com/shard/s189/sh/ef0c3302-21a4-40d7-b8b4-1c65b8ebb1c9/24ff553fcfb70a27d61ff003df75b5a9](https://www.evernote.com/shard/s189/sh/ef0c3302-21a4-40d7-b8b4-1c65b8ebb1c9/24ff553fcfb70a27d61ff003df75b5a9)
+
+================================================================================
+
+<span style="color: red; font-size: 150%; font-weight: bold;">
+Difference Target Propagation
+</span>
+
+**How Auto-Encoders Could Provide Credit Assignment in Deep Networks via Target Propagation(Yoshua Bengio)**
+
+- paper: [http://arxiv.org/abs/1407.7906](http://arxiv.org/abs/1407.7906)
+
+**Target Propagation**
+
+- paper: [http://www.researchgate.net/publication/269997499_Target_Propagation](http://www.researchgate.net/publication/269997499_Target_Propagation)
+
+================================================================================

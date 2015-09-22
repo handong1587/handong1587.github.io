@@ -20,3 +20,7 @@ title: Interesting Projects
 **The Brood War API**
 
 - project: [https://github.com/bwapi/bwapi](https://github.com/bwapi/bwapi)
+
+**Latex to HTML5**
+
+- project: [https://github.com/smarr/latex-to-html5](https://github.com/smarr/latex-to-html5)
