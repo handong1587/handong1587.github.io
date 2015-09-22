@@ -11,7 +11,7 @@ title: Short Comments On Movies
 
 *The Bourne Legacy (2014)* : Compared to original *The Bourne* trilogy, maybe this one is .. boring?
 
-(2014-10-18) *Cool Hand Luke*: "What we've got here, is a failure to communicate."
+(2014-10-18) *Cool Hand Luke*: "What we've got here, is a failure to communicate --"
 
 *The Sting*:
 
