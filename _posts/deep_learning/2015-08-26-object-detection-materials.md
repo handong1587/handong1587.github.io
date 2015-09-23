@@ -94,12 +94,11 @@ $$
 **Improving Object Detection with Deep Convolutional Networks via Bayesian Optimization
 and Structured Prediction**
 
-Test set mAP of VOC 2007 with IoU > 0.5:
 $$
 \\newcommand\\T{\\Rule{0pt}{1em}{.3em}}
 \\begin{array}{|c|c|c|}
 \\hline
-  \\text{Model}             & \\text{BBoxReg} & \\text{mAP} \\T \\\\\\hline
+  \\text{Model}             & \\text{BBoxReg} & \\text{VOC 2007 mAP(IoU > 0.5)} \\T \\\\\\hline
   \\text{R-CNN(AlexNet)}    & \\text{No}      & 54.2\%  \\\\\\hline
   \\text{R-CNN(VGG)}        & \\text{No}      & 60.6\%  \\\\\\hline
   \\text{+StructObj}        & \\text{No}      & 61.2\%  \\\\\\hline
@@ -114,7 +113,7 @@ $$
 \\newcommand\\T{\\Rule{0pt}{1em}{.3em}}
 \\begin{array}{|c|c|c|}
 \\hline
-  \\text{Model}             & \\text{BBoxReg} & \\text{mAP} \\T \\\\\\hline
+  \\text{Model}             & \\text{BBoxReg} & \\text{VOC 2007 mAP(IoU > 0.5)} \\T \\\\\\hline
   \\text{R-CNN(AlexNet)}    & \\text{Yes}     & 58.5\%  \\\\\\hline
   \\text{R-CNN(VGG)}        & \\text{Yes}     & 65.4\%  \\\\\\hline
   \\text{+StructObj}        & \\text{Yes}     & 66.6\%  \\\\\\hline
@@ -168,23 +167,21 @@ $$
 
 **Object detection via a multi-region & semantic segmentation-aware CNN model**
 
-Results on VOC 2007 test set:
 $$
 \\newcommand\\T{\\Rule{0pt}{1em}{.3em}}
 \\begin{array}{|c|c|}
 \\hline
-  \\text{Trained on} & \\text{mAP} \\T \\\\\\hline
+  \\text{Trained on} & \\text{VOC 2007 mAP} \\T \\\\\\hline
   \\text{07+12}      & 78.2\% \\\\\\hline
   \\text{07}         & 74.9\% \\\\\\hline
 \\end{array}
 $$
 
-Results on VOC 2012 test set:
 $$
 \\newcommand\\T{\\Rule{0pt}{1em}{.3em}}
 \\begin{array}{|c|c|}
 \\hline
-  \\text{Trained on} & \\text{mAP} \\T \\\\\\hline
+  \\text{Trained on} & \\text{VOC 2012 mAP} \\T \\\\\\hline
   \\text{07+12}      & 73.9\% \\\\\\hline
   \\text{12}         & 70.7\% \\\\\\hline
 \\end{array}
@@ -197,12 +194,11 @@ $$
 
 **Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks**
 
-Detection results on PASCAL VOC 2007 test set:
 $$
 \\newcommand\\T{\\Rule{0pt}{1em}{.3em}}
 \\begin{array}{|c|c|c|}
 \\hline
-  \\  & \\text{training data} & \\text{test data} & \\text{mAP} & \\text{time/img}  \\T \\\\\\hline
+  \\  & \\text{training data} & \\text{test data} & \\text{VOC 2007 mAP} & \\text{time/img}  \\T \\\\\\hline
   \\text{Faster RCNN, VGG-16} & \\text{07}     & \\text{VOC 2007 test} & 69.9\% & 198ms \\\\\\hline
   \\text{Faster RCNN, VGG-16} & \\text{07+12}  & \\text{VOC 2007 test} & 73.2\% & 198ms \\\\\\hline
   \\text{Faster RCNN, VGG-16} & \\text{12}     & \\text{VOC 2012 test} & 67.0\% & 198ms \\\\\\hline
