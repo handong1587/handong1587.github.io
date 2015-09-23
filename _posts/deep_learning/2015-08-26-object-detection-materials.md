@@ -35,10 +35,11 @@ $$
 \\begin{array}{|c|c|c|c|c|}
 \\hline
   \\text{method} & \\text{VOC 2007 mAP} & \\text{VOC 2010 mAP} & \\text{VOC 2012 mAP} & \\text{ILSVRC 2013 mAP} \\T \\\\\\hline
-  \\text{R-CNN,AlexNet}           & 54.2\% & 50.2\% & 49.6\% &        \\\\\\hline
-  \\text{R-CNN bbox reg,AlexNet}  & 58.5\% & 53.7\% & 53.3\% & 31.4\%  \\\\\\hline
-  \\text{R-CNN,VGG-Net}           & 62.2\% &       &       &        \\\\\\hline
-  \\text{R-CNN bbox reg,VGG-Net}  & 66.0\% &       &       &        \\\\\\hline
+  \\text{R-CNN,AlexNet}           & 54.2\% & 50.2\% & 49.6\% &         \\\\\\hline
+  \\text{R-CNN,bbox reg,AlexNet}  & 58.5\% & 53.7\% & 53.3\% & 31.4\%  \\\\\\hline
+  \\text{R-CNN,bbox reg,ZFNet}    & 59.2\% &        &        &         \\\\\\hline
+  \\text{R-CNN,VGG-Net}           & 62.2\% &        &        &         \\\\\\hline
+  \\text{R-CNN,bbox reg,VGG-Net}  & 66.0\% &        &        &         \\\\\\hline
 \\end{array}
 $$
 
@@ -52,7 +53,18 @@ $$
 - paper: [http://arxiv.org/abs/1312.2249](http://arxiv.org/abs/1312.2249)
 - code: [https://github.com/google/multibox](https://github.com/google/multibox)
 
-**Spatial Pyramid Pooling in Deep Convolutional Networks for Visual Recognition**:
+**Spatial Pyramid Pooling in Deep Convolutional Networks for Visual Recognition**
+
+$$
+\\newcommand\\T{\\Rule{0pt}{1em}{.3em}}
+\\begin{array}{|c|c|c|}
+\\hline
+  \\text{method}                 & \\text{VOC 2007 mAP} & \\text{ILSVRC 2013 mAP} \\T \\\\\\hline
+  \\text{SPP_net(ZF-5),1-model}  & 59.2\%               & 31.84\%        \\\\\\hline
+  \\text{SPP_net(ZF-5),2-model}  & 60.9\%               &                \\\\\\hline
+  \\text{SPP_net(ZF-5),6-model}  &                      & 35.11\%        \\\\\\hline
+\\end{array}
+$$
 
 - paper: [arXiv:1406.4729](http://arxiv.org/abs/1406.4729)
 - code: [https://github.com/ShaoqingRen/SPP_net](https://github.com/ShaoqingRen/SPP_net)
