@@ -35,3 +35,9 @@ title: Computer Vision Materials
 - website: [http://clickdamage.com/sourcecode/index.html](http://clickdamage.com/sourcecode/index.html)
 - code: [http://clickdamage.com/sourcecode/cv_datasets.php](http://clickdamage.com/sourcecode/cv_datasets.php)
 - BaiduPan: [http://pan.baidu.com/s/1pJmqD4n](http://pan.baidu.com/s/1pJmqD4n)
+
+**A Computational Approach for Obstruction-Free Photography**
+
+<img src="/assets/computer-vision/A_Computational_Approach_for_Obstruction-Free_Photography.jpg" width="800" />
+
+- paper: [https://people.csail.mit.edu/mrub/papers/ObstructionFreePhotograpy_SIGGRAPH2015.pdf](https://people.csail.mit.edu/mrub/papers/ObstructionFreePhotograpy_SIGGRAPH2015.pdf)
