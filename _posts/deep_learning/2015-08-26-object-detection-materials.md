@@ -169,21 +169,21 @@ $$
 
 $$
 \\newcommand\\T{\\Rule{0pt}{1em}{.3em}}
-\\begin{array}{|c|c|}
+\\begin{array}{|c|c|c|}
 \\hline
-  \\text{Trained on} & \\text{VOC 2007 mAP} \\T \\\\\\hline
-  \\text{07+12}      & 78.2\% \\\\\\hline
-  \\text{07}         & 74.9\% \\\\\\hline
+  \\text{Model}   & \\text{Trained on} & \\text{VOC 2007 mAP} \\T \\\\\\hline
+  \\text{VGG-net} & \\text{07+12}      & 78.2\% \\\\\\hline
+  \\text{VGG-net} & \\text{07}         & 74.9\% \\\\\\hline
 \\end{array}
 $$
 
 $$
 \\newcommand\\T{\\Rule{0pt}{1em}{.3em}}
-\\begin{array}{|c|c|}
+\\begin{array}{|c|c|c|}
 \\hline
-  \\text{Trained on} & \\text{VOC 2012 mAP} \\T \\\\\\hline
-  \\text{07+12}      & 73.9\% \\\\\\hline
-  \\text{12}         & 70.7\% \\\\\\hline
+  \\text{Model}   & \\text{Trained on} & \\text{VOC 2012 mAP} \\T \\\\\\hline
+  \\text{VGG-net} & \\text{07+12}      & 73.9\% \\\\\\hline
+  \\text{VGG-net} & \\text{12}         & 70.7\% \\\\\\hline
 \\end{array}
 $$
 
