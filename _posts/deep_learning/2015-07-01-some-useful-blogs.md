@@ -61,3 +61,5 @@ title: Some Useful Blogs
 [Understanding LSTM Networks](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
 
 - Chs: [http://www.jianshu.com/p/9dc9f41f0b29](http://www.jianshu.com/p/9dc9f41f0b29)
+
+[干货 | 都是 Character-level/Aware Language Models 差距咋就这么大捏](http://mp.weixin.qq.com/s?__biz=MzAwMjM3MTc5OA==&mid=212942444&idx=1&sn=3c3bdc25f7fab1090145f3d8604d76c5)

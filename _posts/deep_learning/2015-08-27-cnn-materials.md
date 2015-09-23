@@ -69,3 +69,19 @@ Deep generative image models
 **DeXpression: Deep Convolutional Neural Network for Expression Recognition**
 
 - paper: [http://arxiv.org/abs/1509.05371](http://arxiv.org/abs/1509.05371)
+
+================================================================================
+
+<span style="color: red; font-size: 150%; font-weight: bold;">
+VISUAL LOCALISATION
+</span>
+
+- website: [http://mi.eng.cam.ac.uk/projects/relocalisation/#results](http://mi.eng.cam.ac.uk/projects/relocalisation/#results)
+
+**Convolutional networks for real-time 6-DOF camera relocalization**
+
+- paper: [http://arxiv.org/abs/1505.07427](http://arxiv.org/abs/1505.07427)
+
+**Modelling Uncertainty in Deep Learning for Camera Relocalization**
+
+- paper: [http://arxiv.org/abs/1509.05909](http://arxiv.org/abs/1509.05909)
