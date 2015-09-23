@@ -43,3 +43,8 @@ title: RNN and LSTM Materials
 **Project: pycaffe-recurrent**
 
 - code: [https://github.com/kuprel/pycaffe-recurrent/](https://github.com/kuprel/pycaffe-recurrent/)
+
+**Recurrent Model of Visual Attention**
+
+- blog: [http://torch.ch/blog/2015/09/21/rmva.html](http://torch.ch/blog/2015/09/21/rmva.html)
+- code: [https://github.com/Element-Research/rnn/blob/master/scripts/evaluate-rva.lua](https://github.com/Element-Research/rnn/blob/master/scripts/evaluate-rva.lua)

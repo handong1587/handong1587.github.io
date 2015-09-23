@@ -16,3 +16,5 @@ title: Some Useful Blogs
 [Target acquired: Finding targets in drone and quadcopter video streams using Python and OpenCV](http://www.pyimagesearch.com/2015/05/04/target-acquired-finding-targets-in-drone-and-quadcopter-video-streams-using-python-and-opencv/)
 
 [AWESOME-RANDOM-FOREST - a curated list of resources regarding random forest](http://jiwonkim.org/awesome-random-forest/)
+
+[Coding, Visualizing, and Animating Bootstrap Resampling](http://minimaxir.com/2015/09/bootstrap-resample/)

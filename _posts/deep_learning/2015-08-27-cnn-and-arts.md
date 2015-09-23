@@ -28,6 +28,7 @@ title: Convolutional Neural Network and Arts
 **Texture synthesis and the controlled generation of natural stimuli using convolutional neural networks**
 
 - paper: [http://arxiv.org/abs/1505.07376](http://arxiv.org/abs/1505.07376)
+- homepage: [http://bethgelab.org/deeptextures/](http://bethgelab.org/deeptextures/)
 
 **Instructions for making a Neural-Style movie**
 
