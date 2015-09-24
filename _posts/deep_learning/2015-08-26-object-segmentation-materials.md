@@ -11,12 +11,15 @@ title: Object Segmentation Materials
 
 **Proposal-free Network for Instance-level Object Segmentation**
 
-*(Submitted on 9 Sep 2015 (v1), last revised 10 Sep 2015 (this version, v2))*
-
 - paper: [http://arxiv.org/abs/1509.02636](http://arxiv.org/abs/1509.02636)
 
 **Semantic Image Segmentation via Deep Parsing Network**
 
-*(Submitted on 9 Sep 2015)*
+- paper: [http://arxiv.org/abs/1509.02634](http://arxiv.org/abs/1509.02634)
 
-- paper: <a target="_blank" href="http://arxiv.org/abs/1509.02634">http://arxiv.org/abs/1509.02634</a>
+**Decoupled Deep Neural Network for Semi-supervised Semantic Segmentation(NIPS 2015)**
+
+<img src="/assets/object-segmentation-materials/Decoupled_Deep_Neural_Network_for_Semi-supervised_Semantic_Segmentation_overall.png" width="800" />
+
+- paper: [http://arxiv.org/abs/1506.04924](http://arxiv.org/abs/1506.04924)
+- project[paper+code]: [http://cvlab.postech.ac.kr/research/decouplednet/](http://cvlab.postech.ac.kr/research/decouplednet/)
