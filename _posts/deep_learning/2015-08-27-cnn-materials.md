@@ -33,7 +33,7 @@ title: Convolutional Neural Network Materials
 - paper: [http://arxiv.org/abs/1412.6056](http://arxiv.org/abs/1412.6056)
 - code: [https://github.com/jhjin/flattened-cnn](https://github.com/jhjin/flattened-cnn)
 
-================================================================================
+_ _ _
 
 <span style="color: red; font-size: 150%; font-weight: bold;">
 CNN acceleration and model size reduction
@@ -47,7 +47,7 @@ CNN acceleration and model size reduction
 
 - paper: [http://arxiv.org/abs/1506.02626](http://arxiv.org/abs/1506.02626)
 
-================================================================================
+_ _ _
 
 <span style="color: red; font-size: 150%; font-weight: bold;">
 Deep generative image models
@@ -64,13 +64,13 @@ Deep generative image models
 - paper: [http://arxiv.org/abs/1505.01197](http://arxiv.org/abs/1505.01197)
 - code: [https://github.com/gkioxari/RstarCNN](https://github.com/gkioxari/RstarCNN)
 
-================================================================================
+_ _ _
 
 **DeXpression: Deep Convolutional Neural Network for Expression Recognition**
 
 - paper: [http://arxiv.org/abs/1509.05371](http://arxiv.org/abs/1509.05371)
 
-================================================================================
+_ _ _
 
 <span style="color: red; font-size: 150%; font-weight: bold;">
 VISUAL LOCALISATION
