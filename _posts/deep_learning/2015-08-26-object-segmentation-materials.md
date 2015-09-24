@@ -9,6 +9,11 @@ title: Object Segmentation Materials
 
 <p class="meta">26 Aug 2015 - Beijing</p>
 
+**Fully Convolutional Networks for Semantic Segmentation**
+
+- paper: [http://arxiv.org/abs/1411.4038](http://arxiv.org/abs/1411.4038)
+- code: [https://github.com/BVLC/caffe/wiki/Model-Zoo#fcn](https://github.com/BVLC/caffe/wiki/Model-Zoo#fcn)
+
 **Proposal-free Network for Instance-level Object Segmentation**
 
 - paper: [http://arxiv.org/abs/1509.02636](http://arxiv.org/abs/1509.02636)
