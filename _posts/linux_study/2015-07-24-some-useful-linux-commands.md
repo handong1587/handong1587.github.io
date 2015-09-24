@@ -173,3 +173,9 @@ Create new file list:
 <code>Ctrl+]</code>: jump to definition
 
 <code>Ctrl+T</code>: jump back
+
+**nohup**
+
+<pre class="terminal"><code>$ nohup command-with-options &</code></pre>
+
+<pre class="terminal"><code>$ nohup xxx.sh 1 > log.txt 2>&1 &</code></pre>
