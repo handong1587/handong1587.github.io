@@ -66,7 +66,7 @@ The good news is: really many UNNECESSARY nudity scenes.
 
 (2015-07-22) *Under the Skin*:
 
-(2015-09-06) *Los cronocrímenes(Timecrimes)*: The story line is just like *Triangle*, but I have to say it is not so good as *Triangle*. And I found that this type of movies has its inevitable limitation: it has to use some kind of "wrap-around bandage" to make the whole story self-justified. It is easy to feel bored if watch this kind of movies two or more.
+(2015-09-06) *Cronocrímenes, Los(Timecrimes) (2007)*: The story line is just like *Triangle*, but I have to say it is not so good as *Triangle*. And I found that this type of movies has its inevitable limitation: it has to use some kind of "wrap-around bandage" to make the whole story self-justified. It is easy to feel bored if watch this kind of movies two or more.
 
 (2015-09-18) *Spy (2015)*: Just a popcorn movie. What impress me most is that bunch of British dirty languages..
 
