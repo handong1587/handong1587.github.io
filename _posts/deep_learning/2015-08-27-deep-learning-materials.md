@@ -161,3 +161,8 @@ Target Propagation
 **An objective function for STDP(Yoshua Bengio)**
 
 - paper: [http://arxiv.org/abs/1509.05936](http://arxiv.org/abs/1509.05936)
+
+**Tensorizing Neural Networks**
+
+- paper: [http://arxiv.org/abs/1509.06569v1](http://arxiv.org/abs/1509.06569v1)
+- github(TensorNet): [https://github.com/Bihaqo/TensorNet](https://github.com/Bihaqo/TensorNet)

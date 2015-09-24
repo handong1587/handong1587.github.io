@@ -44,7 +44,9 @@ title: RNN and LSTM Materials
 
 - code: [https://github.com/kuprel/pycaffe-recurrent/](https://github.com/kuprel/pycaffe-recurrent/)
 
-**Recurrent Model of Visual Attention**
+**Recurrent Model of Visual Attention(Google DeepMind)**
 
+- paper: [http://arxiv.org/abs/1406.6247](http://arxiv.org/abs/1406.6247)
+- GitXiv: [http://gitxiv.com/posts/ZEobCXSh23DE8a8mo/recurrent-models-of-visual-attention](http://gitxiv.com/posts/ZEobCXSh23DE8a8mo/recurrent-models-of-visual-attention)
 - blog: [http://torch.ch/blog/2015/09/21/rmva.html](http://torch.ch/blog/2015/09/21/rmva.html)
 - code: [https://github.com/Element-Research/rnn/blob/master/scripts/evaluate-rva.lua](https://github.com/Element-Research/rnn/blob/master/scripts/evaluate-rva.lua)

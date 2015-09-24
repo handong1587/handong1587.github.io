@@ -24,3 +24,7 @@ title: Interesting Projects
 **Latex to HTML5**
 
 - project: [https://github.com/smarr/latex-to-html5](https://github.com/smarr/latex-to-html5)
+
+**Python Gems: A collection of python scripts that solve interesting problems**
+
+- github: [https://github.com/RealHacker/python-gems](https://github.com/RealHacker/python-gems)
