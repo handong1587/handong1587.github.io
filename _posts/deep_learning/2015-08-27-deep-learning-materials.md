@@ -13,9 +13,7 @@ title: Deep Learning Materials
 
 - website: [http://www.teglor.com/b/deep-learning-libraries-language-cm569/](http://www.teglor.com/b/deep-learning-libraries-language-cm569/)
 
-* * *
 - - -
-_ _ _
 
 <span style="color: red; font-size: 150%; font-weight: bold;">
 Multi-label Learning
@@ -34,9 +32,7 @@ Multi-label Learning
 
 - paper: [https://www.kdsl.tu-darmstadt.de/fileadmin/user_upload/Group_KDSL/PUnL_ECML2015_camera_ready.pdf](https://www.kdsl.tu-darmstadt.de/fileadmin/user_upload/Group_KDSL/PUnL_ECML2015_camera_ready.pdf)
 
-* * *
 - - -
-_ _ _
 
 **Reweighted Wake-Sleep**
 
@@ -113,7 +109,7 @@ Deep Learning using Linear Support Vector Machines
 
 - paper: [http://arxiv.org/abs/1509.05009](http://arxiv.org/abs/1509.05009)
 
-================================================================================
+- - -
 
 <span style="color: red; font-size: 150%; font-weight: bold;">
 Driving
@@ -133,7 +129,7 @@ Driving
 - paper: [http://arxiv.org/abs/1509.05016](http://arxiv.org/abs/1509.05016)
 - homepage: [http://www.brain4cars.com/](http://www.brain4cars.com/)
 
-================================================================================
+- - -
 
 **Effective Approaches to Attention-based Neural Machine Translation(EMNLP2015)**
 
@@ -145,7 +141,7 @@ Driving
 - paper: [http://arxiv.org/abs/1506.08700](http://arxiv.org/abs/1506.08700)
 - notes: [https://www.evernote.com/shard/s189/sh/ef0c3302-21a4-40d7-b8b4-1c65b8ebb1c9/24ff553fcfb70a27d61ff003df75b5a9](https://www.evernote.com/shard/s189/sh/ef0c3302-21a4-40d7-b8b4-1c65b8ebb1c9/24ff553fcfb70a27d61ff003df75b5a9)
 
-================================================================================
+- - -
 
 <span style="color: red; font-size: 150%; font-weight: bold;">
 Target Propagation
@@ -160,7 +156,7 @@ Target Propagation
 - paper: [http://arxiv.org/abs/1412.7525](http://arxiv.org/abs/1412.7525)
 - code: [https://github.com/donghyunlee/dtp](https://github.com/donghyunlee/dtp)
 
-================================================================================
+- - -
 
 **An objective function for STDP(Yoshua Bengio)**
 
