@@ -13,11 +13,6 @@ title: Convolutional Neural Network Materials
 
 - paper: [http://yann.lecun.com/exdb/publis/pdf/farabet-pami-13.pdf](http://yann.lecun.com/exdb/publis/pdf/farabet-pami-13.pdf)
 
-**Real-time emotion recognition for gaming using deep convolutional network features**
-
-- paper: [http://arxiv.org/abs/1408.3750v1](http://arxiv.org/abs/1408.3750v1)
-- code: [https://github.com/Zebreu/ConvolutionalEmotion](https://github.com/Zebreu/ConvolutionalEmotion)
-
 **Going Deeper with Convolutions**
 
 - paper: [http://arxiv.org/abs/1409.4842](http://arxiv.org/abs/1409.4842)
@@ -70,6 +65,11 @@ Deep generative image models
 - code: [https://github.com/gkioxari/RstarCNN](https://github.com/gkioxari/RstarCNN)
 
 _ _ _
+
+**Real-time emotion recognition for gaming using deep convolutional network features**
+
+- paper: [http://arxiv.org/abs/1408.3750v1](http://arxiv.org/abs/1408.3750v1)
+- code: [https://github.com/Zebreu/ConvolutionalEmotion](https://github.com/Zebreu/ConvolutionalEmotion)
 
 **DeXpression: Deep Convolutional Neural Network for Expression Recognition**
 
