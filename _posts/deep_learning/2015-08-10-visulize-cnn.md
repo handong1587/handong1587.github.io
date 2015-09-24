@@ -11,16 +11,16 @@ title: Visualize Convolutional Neural Network
 
 **Visualizing and Understanding Convolutional Network**:
 
-- paper: [arXiv:1311.2901](http://arxiv.org/abs/1311.2901)
+- paper: [http://arxiv.org/abs/1311.2901](http://arxiv.org/abs/1311.2901)
 - slides: [https://courses.cs.washington.edu/courses/cse590v/14au/cse590v_dec5_DeepVis.pdf](https://courses.cs.washington.edu/courses/cse590v/14au/cse590v_dec5_DeepVis.pdf)
 
 **Deep Inside Convolutional Networks: Visualising Image Classification Models and Saliency Maps**:
 
-- paper: [arXiv:1312.6034](http://arxiv.org/abs/1312.6034)
+- paper: [http://arxiv.org/abs/1312.6034](http://arxiv.org/abs/1312.6034)
 
 **Understanding Deep Image Representations by Inverting Them**:
 
-- paper: [arXiv:1412.0035](http://arxiv.org/abs/1412.0035)
+- paper: [http://arxiv.org/abs/1412.0035](http://arxiv.org/abs/1412.0035)
 - code: [https://github.com/aravindhm/deep-goggle](https://github.com/aravindhm/deep-goggle)
 
 **Interactive Deep Neural Net Hallucinations**
@@ -51,11 +51,11 @@ title: Visualize Convolutional Neural Network
 
 **Inverting Convolutional Networks with Convolutional Networks**:
 
-- paper: [arXiv:1506.02753](http://arxiv.org/abs/1506.02753)
+- paper: [http://arxiv.org/abs/1506.02753](http://arxiv.org/abs/1506.02753)
 
 **Understanding Neural Networks Through Deep Visualization**:
 
-- paper: [arXiv:1506.06579](http://arxiv.org/abs/1506.06579)
+- paper: [http://arxiv.org/abs/1506.06579](http://arxiv.org/abs/1506.06579)
 - project: [http://yosinski.com/deepvis](http://yosinski.com/deepvis)
 - code: [https://github.com/yosinski/deep-visualization-toolbox](https://github.com/yosinski/deep-visualization-toolbox)
 
@@ -65,6 +65,6 @@ title: Visualize Convolutional Neural Network
 
 **Generative Modeling of Convolutional Neural Networks**
 
-- paper: [arXiv:1412.6296](http://arxiv.org/abs/1412.6296)
+- paper: [http://arxiv.org/abs/1412.6296](http://arxiv.org/abs/1412.6296)
 - project: [http://www.stat.ucla.edu/~yang.lu/Project/generativeCNN/main.html](http://www.stat.ucla.edu/~yang.lu/Project/generativeCNN/main.html)
 - code: [http://www.stat.ucla.edu/~yang.lu/Project/generativeCNN/doc/caffe-generative.zip](http://www.stat.ucla.edu/~yang.lu/Project/generativeCNN/doc/caffe-generative.zip)

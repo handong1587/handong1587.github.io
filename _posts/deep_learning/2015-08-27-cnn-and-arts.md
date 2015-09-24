@@ -16,7 +16,7 @@ title: Convolutional Neural Network and Arts
   <div class="figcaption">artworks</div>
 </div>
 
-- paper: [arXiv:1508.06576](http://arxiv.org/abs/1508.06576)
+- paper: [http://arxiv.org/abs/1508.06576](http://arxiv.org/abs/1508.06576)
 - code: [https://github.com/kaishengtai/neuralart](https://github.com/kaishengtai/neuralart)
 - code: [https://github.com/jcjohnson/neural-style](https://github.com/jcjohnson/neural-style)
 - code: [https://github.com/andersbll/neural_artistic_style](https://github.com/andersbll/neural_artistic_style)
@@ -39,7 +39,7 @@ title: Convolutional Neural Network and Arts
 
 **Sketch-a-Net that Beats Humans**
 
-- paper: [arXiv:1501.07873](http://arxiv.org/abs/1501.07873)
+- paper: [http://arxiv.org/abs/1501.07873](http://arxiv.org/abs/1501.07873)
 - project: [http://www.eecs.qmul.ac.uk/~tmh/downloads.html](http://www.eecs.qmul.ac.uk/~tmh/downloads.html)
 
 **GRUV: Algorithmic Music Generation using Recurrent Neural Networks**

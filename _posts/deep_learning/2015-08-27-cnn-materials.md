@@ -25,7 +25,7 @@ title: Convolutional Neural Network Materials
 
 **Fully Convolutional Networks for Semantic Segmentation**
 
-- paper: [arXiv:1411.4038](http://arxiv.org/abs/1411.4038)
+- paper: [http://arxiv.org/abs/1411.4038](http://arxiv.org/abs/1411.4038)
 - code: [https://github.com/BVLC/caffe/wiki/Model-Zoo#fcn](https://github.com/BVLC/caffe/wiki/Model-Zoo#fcn)
 
 **Unsupervised Learning of Spatiotemporally Coherent Metrics**

@@ -24,7 +24,7 @@ $$
 \\end{array}
 $$
 
-- paper: [arXiv:1312.6229](http://arxiv.org/abs/1312.6229)
+- paper: [http://arxiv.org/abs/1312.6229](http://arxiv.org/abs/1312.6229)
 - code: [https://github.com/sermanet/OverFeat](https://github.com/sermanet/OverFeat)
 - code: [http://cilvr.nyu.edu/doku.php?id=software:overfeat:start](http://cilvr.nyu.edu/doku.php?id=software:overfeat:start)
 
@@ -43,10 +43,10 @@ $$
 \\end{array}
 $$
 
-- paper: [arXiv:1311.2524](http://arxiv.org/abs/1311.2524)
+- paper: [http://arxiv.org/abs/1311.2524](http://arxiv.org/abs/1311.2524)
 - slides: [http://www.cs.berkeley.edu/~rbg/slides/rcnn-cvpr14-slides.pdf](http://www.cs.berkeley.edu/~rbg/slides/rcnn-cvpr14-slides.pdf)
 - code: [https://github.com/rbgirshick/rcnn](https://github.com/rbgirshick/rcnn)
-- note: [http://zhangliliang.com/2014/07/23/paper-note-rcnn/](http://zhangliliang.com/2014/07/23/paper-note-rcnn/)
+- notes: [http://zhangliliang.com/2014/07/23/paper-note-rcnn/](http://zhangliliang.com/2014/07/23/paper-note-rcnn/)
 
 **Scalable Object Detection using Deep Neural Networks**
 
@@ -66,7 +66,7 @@ $$
 \\end{array}
 $$
 
-- paper: [arXiv:1406.4729](http://arxiv.org/abs/1406.4729)
+- paper: [http://arxiv.org/abs/1406.4729](http://arxiv.org/abs/1406.4729)
 - code: [https://github.com/ShaoqingRen/SPP_net](https://github.com/ShaoqingRen/SPP_net)
 - notes: [http://zhangliliang.com/2014/09/13/paper-note-sppnet/](http://zhangliliang.com/2014/09/13/paper-note-sppnet/)
 
@@ -89,7 +89,7 @@ $$
 \\end{array}
 $$
 
-- paper: [arXiv:1504.06066](http://arxiv.org/abs/1504.06066)
+- paper: [http://arxiv.org/abs/1504.06066](http://arxiv.org/abs/1504.06066)
 
 **Improving Object Detection with Deep Convolutional Networks via Bayesian Optimization
 and Structured Prediction**
@@ -124,8 +124,8 @@ $$
 \\end{array}
 $$
 
-- paper: [arXiv:1504.03293](http://arxiv.org/abs/1504.03293)
-- slides: [2015-cvpr-det-slides](http://www.ytzhang.net/files/publications/2015-cvpr-det-slides.pdf)
+- paper: [http://arxiv.org/abs/1504.03293](http://arxiv.org/abs/1504.03293)
+- slides: [http://www.ytzhang.net/files/publications/2015-cvpr-det-slides.pdf](http://www.ytzhang.net/files/publications/2015-cvpr-det-slides.pdf)
 - code: [https://github.com/YutingZhang/fgs-obj](https://github.com/YutingZhang/fgs-obj)
 
 **Fast R-CNN**
@@ -160,8 +160,8 @@ $$
 \\end{array}
 $$
 
-- paper: [arXiv:1504.08083](http://arxiv.org/abs/1504.08083)
-- slides: [caffe-cvpr15-detection](http://tutorial.caffe.berkeleyvision.org/caffe-cvpr15-detection.pdf)
+- paper: [http://arxiv.org/abs/1504.08083](http://arxiv.org/abs/1504.08083)
+- slides: [http://tutorial.caffe.berkeleyvision.org/caffe-cvpr15-detection.pdf](http://tutorial.caffe.berkeleyvision.org/caffe-cvpr15-detection.pdf)
 - code: [https://github.com/rbgirshick/fast-rcnn](https://github.com/rbgirshick/fast-rcnn)
 - notes: [http://zhangliliang.com/2015/05/17/paper-note-fast-rcnn/](http://zhangliliang.com/2015/05/17/paper-note-fast-rcnn/)
 
@@ -187,8 +187,9 @@ $$
 \\end{array}
 $$
 
-- paper: [arXiv:1505.01749](http://arxiv.org/abs/1505.01749)
-- code: ["Pdf and code will appear here shortly -- stay tuned"](http://imagine.enpc.fr/~komodakn/)
+- paper: [http://arxiv.org/abs/1505.01749](http://arxiv.org/abs/1505.01749)
+- code: "Pdf and code will appear here shortly -- stay tuned"  <br />
+ [http://imagine.enpc.fr/~komodakn/](http://imagine.enpc.fr/~komodakn/)
 - note: [http://zhangliliang.com/2015/05/17/paper-note-ms-cnn/](http://zhangliliang.com/2015/05/17/paper-note-ms-cnn/)
 - notes: [http://blog.cvmarcher.com/posts/2015/05/17/multi-region-semantic-segmentation-aware-cnn/](http://blog.cvmarcher.com/posts/2015/05/17/multi-region-semantic-segmentation-aware-cnn/)
 
@@ -206,22 +207,22 @@ $$
 \\end{array}
 $$
 
-- paper: [arXiv:1506.01497](http://arxiv.org/abs/1506.01497)
+- paper: [http://arxiv.org/abs/1506.01497](http://arxiv.org/abs/1506.01497)
 - code: [https://github.com/ShaoqingRen/faster_rcnn](https://github.com/ShaoqingRen/faster_rcnn)
 
 **You Only Look Once: Unified, Real-Time Object Detection**
 
-- paper: [arXiv:1506.02640](http://arxiv.org/abs/1506.02640)
+- paper: [http://arxiv.org/abs/1506.02640](http://arxiv.org/abs/1506.02640)
 - code: [http://pjreddie.com/darknet/yolo/](http://pjreddie.com/darknet/yolo/)
 
 **End-to-end people detection in crowded scenes**
 
 <img src="/assets/object-detection-materials/end_to_end_people_detection_in_crowded_scenes.jpg"/>
 
-- paper: [arXiv:1506.04878](http://arxiv.org/abs/1506.04878)
+- paper: [http://arxiv.org/abs/1506.04878](http://arxiv.org/abs/1506.04878)
 - code: [https://github.com/Russell91/reinspect](https://github.com/Russell91/reinspect)
 - ipn: [http://nbviewer.ipython.org/github/Russell91/ReInspect/blob/master/evaluation_reinspect.ipynb](http://nbviewer.ipython.org/github/Russell91/ReInspect/blob/master/evaluation_reinspect.ipynb)
 
 **R-CNN minus R**
 
-- paper: [arXiv:1506.06981](http://arxiv.org/abs/1506.06981)
+- paper: [http://arxiv.org/abs/1506.06981](http://arxiv.org/abs/1506.06981)

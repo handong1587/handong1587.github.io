@@ -11,12 +11,12 @@ title: RNN and LSTM Materials
 
 **Show, Attend and Tell: Neural Image Caption Generation with Visual Attention**
 
-- paper: [arXiv:1502.03044](http://arxiv.org/abs/1502.03044)
+- paper: [http://arxiv.org/abs/1502.03044](http://arxiv.org/abs/1502.03044)
 - code: [https://github.com/kelvinxu/arctic-captions](https://github.com/kelvinxu/arctic-captions)
 
 **Inferring Algorithmic Patterns with Stack-Augmented Recurrent Nets**
 
-- paper: [arXiv:1503.01007](http://arxiv.org/abs/1503.01007)
+- paper: [http://arxiv.org/abs/1503.01007](http://arxiv.org/abs/1503.01007)
 - code: [https://github.com/facebook/Stack-RNN](https://github.com/facebook/Stack-RNN)
 
 **Recurrent Models of Visual Attention** (Google DeepMind. NIPS2014)

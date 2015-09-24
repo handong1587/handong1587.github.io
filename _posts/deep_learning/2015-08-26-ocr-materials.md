@@ -19,7 +19,7 @@ title: OCR Materials
 
 <img src="/assets/ocr-materials/text_pipeline.png" width="800" />
 
-- paper: [arXiv:1412.1842](http://arxiv.org/abs/1412.1842)
+- paper: [http://arxiv.org/abs/1412.1842](http://arxiv.org/abs/1412.1842)
 - code: [http://www.robots.ox.ac.uk/~vgg/research/text/](http://www.robots.ox.ac.uk/~vgg/research/text/)
 
 **Deep Features for Text Spotting**
