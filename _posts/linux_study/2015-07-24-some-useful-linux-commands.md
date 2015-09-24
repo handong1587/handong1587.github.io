@@ -179,3 +179,10 @@ Create new file list:
 <pre class="terminal"><code>$ nohup command-with-options &</code></pre>
 
 <pre class="terminal"><code>$ nohup xxx.sh 1 > log.txt 2>&1 &</code></pre>
+
+**nohup - get the process ID to kill a nohup process**
+
+<pre class="terminal"><code>$ nohup command-with-options &</code></pre>  <br />
+<pre class="terminal"><code>$ echo $! > save_pid.txt</code></pre>
+
+<pre class="terminal"><code>$ kill -9 `cat save_pid.txt`</code></pre>
