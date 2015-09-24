@@ -11,6 +11,32 @@ title: Short Comments On Movies
 
 *The Bourne Legacy (2014)* : Compared to original *The Bourne* trilogy, maybe this one is .. boring?
 
+(2012-01-26) *Psycho (1960)*:
+
+(2012-02-05) *Blade Runner (1982)*:
+
+(2012-02-07) *2001: A Space Odyssey (1968)*:
+
+(2013-10-30) *The Cabin in the Woods (2012)*:
+
+(2014-01-20) *Elizabethtown (2005)*:
+
+(2014-01-30) *Four Weddings and a Funeral (1994)*:
+
+(2014-02-07) *Midnight In Paris (2011)*:
+
+(2014-03-01) *Million Dollar Baby (2004)*:
+
+(2014-03-11) *Annie Hall (1977)*:
+
+(2014-06-16) *Seeking a Friend for the End of the World (2012)*:
+
+(2014-07-26) *About Time (2013)*:
+
+(2014-08-23) *Edge of Tomorrow (2014)*:
+
+(2014-08-23) *[REC] 4: Apocalipsis (2014)*:
+
 (2014-10-18) *Cool Hand Luke*: "What we've got here, is a failure to communicate --"
 
 *The Sting*:
@@ -33,6 +59,8 @@ The good news is: really many UNNECESSARY nudity scenes.
 (2015-06-08) *Mr. Brooks (2007)*:
 
 (2015-06-20) *鍵泥棒のメソッド (2012)*: Well, I found *香川 照之* is a bit like *Kevin Spacey*. Both are my favorite actors.
+
+(2015-06-26) *This Is The End(2013)*:
 
 *Birdman (2014)*: I didn't realize this movie was shot in ONE TAKE - at lease that was what it looked like. Indeed, this is incredible awesome! Filmmaking tour de force! The insight, the direction, and the cinematography, all superb. If you haven't seen it yet now it is a must!
 
