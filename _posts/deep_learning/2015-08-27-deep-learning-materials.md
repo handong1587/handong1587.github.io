@@ -13,6 +13,8 @@ title: Deep Learning Materials
 
 - website: [http://www.teglor.com/b/deep-learning-libraries-language-cm569/](http://www.teglor.com/b/deep-learning-libraries-language-cm569/)
 
+* * *
+- - -
 _ _ _
 
 <span style="color: red; font-size: 150%; font-weight: bold;">
@@ -32,6 +34,8 @@ Multi-label Learning
 
 - paper: [https://www.kdsl.tu-darmstadt.de/fileadmin/user_upload/Group_KDSL/PUnL_ECML2015_camera_ready.pdf](https://www.kdsl.tu-darmstadt.de/fileadmin/user_upload/Group_KDSL/PUnL_ECML2015_camera_ready.pdf)
 
+* * *
+- - -
 _ _ _
 
 **Reweighted Wake-Sleep**
