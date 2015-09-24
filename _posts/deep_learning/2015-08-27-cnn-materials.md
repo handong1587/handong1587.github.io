@@ -53,7 +53,12 @@ _ _ _
 Deep generative image models
 </span>
 
-**Deep generative image models using a Laplacian pyramid of adversarial networks**
+**Generative Adversarial Networks(NIPS 2014)**
+
+- paper: [http://arxiv.org/abs/1406.2661](http://arxiv.org/abs/1406.2661)
+- github: [https://github.com/goodfeli/adversarial](https://github.com/goodfeli/adversarial)
+
+**Deep generative image models using a Laplacian pyramid of adversarial networks(NIPS 2015)**
 
 - paper: [http://arxiv.org/pdf/1506.05751v1.pdf](http://arxiv.org/pdf/1506.05751v1.pdf)
 - code: [http://soumith.ch/eyescream/](http://soumith.ch/eyescream/)

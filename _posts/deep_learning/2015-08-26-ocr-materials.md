@@ -26,6 +26,7 @@ title: OCR Materials
 
 - paper: [http://www.robots.ox.ac.uk/~vgg/publications/2014/Jaderberg14/jaderberg14.pdf](http://www.robots.ox.ac.uk/~vgg/publications/2014/Jaderberg14/jaderberg14.pdf)
 - code: [https://bitbucket.org/jaderberg/eccv2014_textspotting](https://bitbucket.org/jaderberg/eccv2014_textspotting)
+- GitXiv: [http://gitxiv.com/posts/uB4y7QdD5XquEJ69c/deep-features-for-text-spotting](http://gitxiv.com/posts/uB4y7QdD5XquEJ69c/deep-features-for-text-spotting)
 
 
 **Character-level Convolutional Networks for Text Classification(NIPS 2015. "Text Understanding from Scratch)**
