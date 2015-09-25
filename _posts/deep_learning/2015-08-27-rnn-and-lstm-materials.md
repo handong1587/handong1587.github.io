@@ -50,3 +50,9 @@ title: RNN and LSTM Materials
 - GitXiv: [http://gitxiv.com/posts/ZEobCXSh23DE8a8mo/recurrent-models-of-visual-attention](http://gitxiv.com/posts/ZEobCXSh23DE8a8mo/recurrent-models-of-visual-attention)
 - blog: [http://torch.ch/blog/2015/09/21/rmva.html](http://torch.ch/blog/2015/09/21/rmva.html)
 - code: [https://github.com/Element-Research/rnn/blob/master/scripts/evaluate-rva.lua](https://github.com/Element-Research/rnn/blob/master/scripts/evaluate-rva.lua)
+
+**LSTM: A Search Space Odyssey**
+
+- paper: [http://arxiv.org/abs/1503.04069](http://arxiv.org/abs/1503.04069)
+- notes: "Notes on LSTM: A Search Space Odyssey" by Hugo Larochelle    <br />
+[https://www.evernote.com/shard/s189/sh/48da42c5-8106-4f0d-b835-c203466bfac4/50d7a3c9a961aefd937fae3eebc6f540](https://www.evernote.com/shard/s189/sh/48da42c5-8106-4f0d-b835-c203466bfac4/50d7a3c9a961aefd937fae3eebc6f540)

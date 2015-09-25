@@ -226,3 +226,8 @@ $$
 **R-CNN minus R**
 
 - paper: [http://arxiv.org/abs/1506.06981](http://arxiv.org/abs/1506.06981)
+
+**DenseBox: Unifying Landmark Localization with End to End Object Detection**
+
+- paper: [http://arxiv.org/abs/1509.04874](http://arxiv.org/abs/1509.04874)
+- demo: [http://pan.baidu.com/s/1mgoWWsS](http://pan.baidu.com/s/1mgoWWsS)

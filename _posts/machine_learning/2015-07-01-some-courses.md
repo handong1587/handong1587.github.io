@@ -21,6 +21,12 @@ title: Some Courses
 
 [Stanford CS229: Machine Learning Autumn 2015(by Andrew Ng)](http://cs229.stanford.edu/)
 
-[Stanford / Winter 2014-2015 CS229T/STATS231: Statistical Learning Theory(by Percy Liang)](http://web.stanford.edu/class/cs229t/)
+**Stanford / Winter 2014-2015 CS229T/STATS231: Statistical Learning Theory(by Percy Liang)**
 
+- homepage: [http://web.stanford.edu/class/cs229t/](http://web.stanford.edu/class/cs229t/)
 - Lecture Notes: [http://web.stanford.edu/class/cs229t/notes.pdf](http://web.stanford.edu/class/cs229t/notes.pdf)
+
+**CMU Fall 2015 10-715: Advanced Introduction to Machine Learning(by Alex Smola, Barnabas Poczos)**
+
+- homepage: [http://www.cs.cmu.edu/~bapoczos/Classes/ML10715_2015Fall/](http://www.cs.cmu.edu/~bapoczos/Classes/ML10715_2015Fall/)
+- videos: [http://pan.baidu.com/s/1qWvcsUS](http://pan.baidu.com/s/1qWvcsUS)
