@@ -46,3 +46,7 @@ title: Machine Learning Materials
 - paper: [http://arxiv.org/abs/1503.01820](http://arxiv.org/abs/1503.01820)
 - github: [https://github.com/louxi11/activity_recognition](https://github.com/louxi11/activity_recognition)
 - author page: [https://staff.fnwi.uva.nl/n.hu/](https://staff.fnwi.uva.nl/n.hu/)
+
+**An Empirical Comparison of Three Boosting Algorithms on Real Data Sets with Artificial Class Noise(AdaBoost vs. LogitBoost vs. BrownBoost)**
+
+- paper: [http://www.lancs.ac.uk/~eckley/papers/McDonaldHandEckley2003.pdf](http://www.lancs.ac.uk/~eckley/papers/McDonaldHandEckley2003.pdf)
