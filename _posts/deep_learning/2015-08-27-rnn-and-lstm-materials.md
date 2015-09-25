@@ -56,3 +56,8 @@ title: RNN and LSTM Materials
 - paper: [http://arxiv.org/abs/1503.04069](http://arxiv.org/abs/1503.04069)
 - notes: "Notes on LSTM: A Search Space Odyssey" by Hugo Larochelle    <br />
 [https://www.evernote.com/shard/s189/sh/48da42c5-8106-4f0d-b835-c203466bfac4/50d7a3c9a961aefd937fae3eebc6f540](https://www.evernote.com/shard/s189/sh/48da42c5-8106-4f0d-b835-c203466bfac4/50d7a3c9a961aefd937fae3eebc6f540)
+
+**A Critical Review of Recurrent Neural Networks for Sequence Learning**
+
+- arXiv: [http://arxiv.org/abs/1506.00019](http://arxiv.org/abs/1506.00019)
+- intro: "A rigorous & readable review on RNNs"  <br /> [http://blog.terminal.com/a-thorough-and-readable-review-on-rnns/](http://blog.terminal.com/a-thorough-and-readable-review-on-rnns/)
