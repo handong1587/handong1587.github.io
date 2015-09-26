@@ -91,6 +91,7 @@ Jointly Training CNN and SVM
 - paper: [http://arxiv.org/abs/1411.2539](http://arxiv.org/abs/1411.2539)
 - results: [http://www.cs.toronto.edu/~rkiros/lstm_scnlm.html](http://www.cs.toronto.edu/~rkiros/lstm_scnlm.html)
 - demo: [http://deeplearning.cs.toronto.edu/i2t](http://deeplearning.cs.toronto.edu/i2t)
+- github: [https://github.com/ryankiros/visual-semantic-embedding](https://github.com/ryankiros/visual-semantic-embedding)
 
 **Bayesian Dark Knowledge**
 

@@ -50,3 +50,7 @@ title: Machine Learning Materials
 **An Empirical Comparison of Three Boosting Algorithms on Real Data Sets with Artificial Class Noise(AdaBoost vs. LogitBoost vs. BrownBoost)**
 
 - paper: [http://www.lancs.ac.uk/~eckley/papers/McDonaldHandEckley2003.pdf](http://www.lancs.ac.uk/~eckley/papers/McDonaldHandEckley2003.pdf)
+
+**An Empirical Evaluation of Supervised Learning in High Dimensions**
+
+- paper: [http://lowrank.net/nikos/pubs/empirical.pdf](http://lowrank.net/nikos/pubs/empirical.pdf)

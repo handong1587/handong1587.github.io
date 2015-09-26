@@ -18,3 +18,7 @@ title: Some Useful Blogs
 [AWESOME-RANDOM-FOREST - a curated list of resources regarding random forest](http://jiwonkim.org/awesome-random-forest/)
 
 [Coding, Visualizing, and Animating Bootstrap Resampling](http://minimaxir.com/2015/09/bootstrap-resample/)
+
+**The Unreasonable Effectiveness of Random Forests**
+
+[https://medium.com/rants-on-machine-learning/the-unreasonable-effectiveness-of-random-forests-f33c3ce28883](https://medium.com/rants-on-machine-learning/the-unreasonable-effectiveness-of-random-forests-f33c3ce28883)
