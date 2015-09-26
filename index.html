@@ -25,6 +25,13 @@ title: handong1587
   {% endfor %}
 </ul>
 
+<h1>Robots</h1>
+<ul class="posts">
+  {% for post in site.categories.['robots']%}
+  <li><span>{{ post.date | date_to_string }}</span> &raquo; <a target="_blank" a href="{{ post.url }}">{{ post.title }}</a></li>
+{% endfor %}
+</ul>
+
   <h1>Big Data</h1>
 <ul class="posts">
   {% for post in site.categories.['big_data']%}
@@ -51,6 +58,13 @@ title: handong1587
       {% for post in site.categories.['linux_study']%}
       <li><span>{{ post.date | date_to_string }}</span> &raquo; <a target="_blank" a href="{{ post.url }}">{{ post.title }}</a></li>
     {% endfor %}
+  </ul>
+
+  <h1>Media</h1>
+  <ul class="posts">
+    {% for post in site.categories.['media']%}
+    <li><span>{{ post.date | date_to_string }}</span> &raquo; <a target="_blank" a href="{{ post.url }}">{{ post.title }}</a></li>
+  {% endfor %}
   </ul>
 
   <h1>Reading and Thoughts</h1>

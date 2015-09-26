@@ -1,6 +1,6 @@
 ---
 layout: post
-categories: deep_learning
+categories: media
 title: News, Talks and Interviews
 ---
 
