@@ -65,3 +65,9 @@ title: Some Useful Blogs
 [干货 | 都是 Character-level/Aware Language Models 差距咋就这么大捏](http://mp.weixin.qq.com/s?__biz=MzAwMjM3MTc5OA==&mid=212942444&idx=1&sn=3c3bdc25f7fab1090145f3d8604d76c5)
 
 [Building a Deep Learning (Dream) Machine](http://graphific.github.io/posts/building-a-deep-learning-dream-machine/)
+
+# Reinforcement Learning
+
+**A Short Introduction To Some Reinforcement Learning Algorithms**
+
+[http://webdocs.cs.ualberta.ca/~vanhasse/rl_algs/rl_algs.html](http://webdocs.cs.ualberta.ca/~vanhasse/rl_algs/rl_algs.html)
