@@ -9,6 +9,10 @@ title: Some Courses
 
 <p class="meta">01 Jul 2015 - Beijing</p>
 
+[Courses with Video Lectures]
+
+[http://cmlakhan.github.io/courses/videos.html](http://cmlakhan.github.io/courses/videos.html)
+
 [Stanford CS243: Program Analysis and Optimization](http://suif.stanford.edu/~courses/cs243/)
 
 [CMU 15-814: Types and Programming Languages](http://www.cs.cmu.edu/~rwh/courses/typesys/)

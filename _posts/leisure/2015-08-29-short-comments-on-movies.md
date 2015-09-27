@@ -72,4 +72,6 @@ The good news is: really many UNNECESSARY nudity scenes.
 
 (2015-09-20) *Mission: Impossible - Rogue Nation (2015)*: The most exciting movie scene - Tom Cruise's insane plane stunt - appeared very early in the beginning of movie. Then what? A guy sitting next to me was found sleep during the second half. You can't blame him, I am pretty sure he is not the only person who agree the point that the second half of the movie is somewhat less exciting.
 
-(2015-09-27) *Dallas Buyers Club (2013)*:
+(2015-09-26) *Dallas Buyers Club (2013)*:
+
+(2015-09-27) *Nebraska (2013)*:
