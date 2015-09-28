@@ -61,3 +61,7 @@ title: RNN and LSTM Materials
 
 - arXiv: [http://arxiv.org/abs/1506.00019](http://arxiv.org/abs/1506.00019)
 - intro: "A rigorous & readable review on RNNs"  <br /> [http://blog.terminal.com/a-thorough-and-readable-review-on-rnns/](http://blog.terminal.com/a-thorough-and-readable-review-on-rnns/)
+
+**Jointly Modeling Embedding and Translation to Bridge Video and Language**
+
+- arXiv: [http://arxiv.org/abs/1505.01861](http://arxiv.org/abs/1505.01861)

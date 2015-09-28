@@ -22,3 +22,7 @@ title: News, Talks and Interviews
 <img src="/assets/news_talks_interviews/Amazon-Smart-Zoom.jpg" width="600" />
 
 [http://www.donohuereport.com/amazon-developing-smart-zoom-for-4k-8k-video/](http://www.donohuereport.com/amazon-developing-smart-zoom-for-4k-8k-video/)
+
+**Getting “deep” about “deep learning”**
+
+[http://whatsnext.nuance.com/in-the-labs/what-is-deep-machine-learning/](http://whatsnext.nuance.com/in-the-labs/what-is-deep-machine-learning/)

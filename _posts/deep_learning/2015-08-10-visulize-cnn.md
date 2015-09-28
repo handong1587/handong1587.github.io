@@ -44,6 +44,12 @@ title: Visualize Convolutional Neural Network
 
 - code: [https://github.com/jrosebr1/bat-country](https://github.com/jrosebr1/bat-country)
 
+**torch-visbox**
+
+<img src="/assets/vis-cnn/torch-visbox-example.png" width="800" />
+
+- github: [https://github.com/Aysegul/torch-visbox](https://github.com/Aysegul/torch-visbox)
+
 **deepViz: Visualizing Convolutional Neural Networks for Image Classification**:
 
 - paper: [http://vis.berkeley.edu/courses/cs294-10-fa13/wiki/images/f/fd/DeepVizPaper.pdf](http://vis.berkeley.edu/courses/cs294-10-fa13/wiki/images/f/fd/DeepVizPaper.pdf)

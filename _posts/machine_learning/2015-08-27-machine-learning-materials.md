@@ -54,3 +54,10 @@ title: Machine Learning Materials
 **An Empirical Evaluation of Supervised Learning in High Dimensions**
 
 - paper: [http://lowrank.net/nikos/pubs/empirical.pdf](http://lowrank.net/nikos/pubs/empirical.pdf)
+
+**UAI 2015 Amsterdam Tutorial: Optimal Algorithms for Learning Bayesian Network Structures**
+
+- video: [https://www.youtube.com/watch?v=__JD3ptBR-w&hd=1](https://www.youtube.com/watch?v=__JD3ptBR-w&hd=1)
+- video: [http://pan.baidu.com/s/1ntEf4lr](http://pan.baidu.com/s/1ntEf4lr)
+- slides: [http://auai.org/uai2015/proceedings/slides/UAI2015_LearningBN_PartI.pdf](http://auai.org/uai2015/proceedings/slides/UAI2015_LearningBN_PartI.pdf)
+- slides: [http://auai.org/uai2015/proceedings/slides/UAI2015_LearningBN_PartII.pdf](http://auai.org/uai2015/proceedings/slides/UAI2015_LearningBN_PartII.pdf)
