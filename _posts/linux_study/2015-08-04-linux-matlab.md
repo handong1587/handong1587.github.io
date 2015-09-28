@@ -1,0 +1,43 @@
+---
+layout: post
+categories: linux_study
+title: Linux Matlab Commands
+---
+
+{{ page.title }}
+================
+
+<p class="meta">04 Aug 2015 - Beijing</p>
+
+Comment multi-lines in Matlab: Ctrl+R, Ctrl+T
+
+Launch Matlab:
+
+<pre class="terminal">
+<code>$ cd /usr/local/bin/
+$ sudo ln -s /usr/local/MATLAB/R2012a/bin/matlab Matlab
+$ gedit ~/.bashrc
+$ alias matlab="/usr/local/MATLAB/R2012a/bin/matlab"
+</code></pre>
+
+Start MATLAB Without Desktop:
+
+<pre class="terminal">
+<code>$
+matlab -nojvm -nodisplay -nosplash
+</code></pre>
+
+Matlab + nohup:
+
+```bash
+#!/bin/sh
+cd /path/to/detection-proposals
+matlab -nojvm -nodisplay -nosplash -r "startup; callRunCOCO; exit"
+```
+
+```bash
+time=`date +%Y%m%d_%H%M%S`
+cd /path/to/detection-proposals
+nohup ./runGenerareSSProposals.sh > runGenerareSSProposals_${time}.log 2>&1 &
+echo $! > save_runGenerareSSProposals_val_pid.txt
+```
