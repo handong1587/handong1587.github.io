@@ -1,7 +1,7 @@
 ---
 layout: post
 categories: leisure
-title: Leisure
+title: Blogs and Websites
 ---
 
 {{ page.title }}
