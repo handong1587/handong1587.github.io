@@ -29,11 +29,15 @@ matlab -nojvm -nodisplay -nosplash
 
 Matlab + nohup:
 
+runGenerareSSProposals.sh:
+
 ```bash
 #!/bin/sh
 cd /path/to/detection-proposals
 matlab -nojvm -nodisplay -nosplash -r "startup; callRunCOCO; exit"
 ```
+
+runNohup.sh:
 
 ```bash
 time=`date +%Y%m%d_%H%M%S`
