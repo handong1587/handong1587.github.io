@@ -74,3 +74,9 @@ title: Visualize Convolutional Neural Network
 - paper: [http://arxiv.org/abs/1412.6296](http://arxiv.org/abs/1412.6296)
 - project: [http://www.stat.ucla.edu/~yang.lu/Project/generativeCNN/main.html](http://www.stat.ucla.edu/~yang.lu/Project/generativeCNN/main.html)
 - code: [http://www.stat.ucla.edu/~yang.lu/Project/generativeCNN/doc/caffe-generative.zip](http://www.stat.ucla.edu/~yang.lu/Project/generativeCNN/doc/caffe-generative.zip)
+
+**Learning FRAME Models Using CNN Filters for Knowledge Visualization**
+
+- arXiv: [http://arxiv.org/abs/1509.08379](http://arxiv.org/abs/1509.08379)
+- homepage: [http://www.stat.ucla.edu/~yang.lu/project/deepFrame/main.html](http://www.stat.ucla.edu/~yang.lu/project/deepFrame/main.html)
+- code: [http://www.stat.ucla.edu/~yang.lu/project/deepFrame/doc/code.zip](http://www.stat.ucla.edu/~yang.lu/project/deepFrame/doc/code.zip)
