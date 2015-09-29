@@ -78,7 +78,7 @@ _ _ _
 _ _ _
 
 <span style="color: red; font-size: 150%; font-weight: bold;">
-VISUAL LOCALISATION
+Visual Localisation
 </span>
 
 - website: [http://mi.eng.cam.ac.uk/projects/relocalisation/#results](http://mi.eng.cam.ac.uk/projects/relocalisation/#results)
