@@ -32,6 +32,12 @@ Multi-label Learning
 
 - paper: [https://www.kdsl.tu-darmstadt.de/fileadmin/user_upload/Group_KDSL/PUnL_ECML2015_camera_ready.pdf](https://www.kdsl.tu-darmstadt.de/fileadmin/user_upload/Group_KDSL/PUnL_ECML2015_camera_ready.pdf)
 
+- - -
+
+<span style="color: red; font-size: 150%; font-weight: bold;">
+Multi-task Learning
+</span>
+
 **Multitask Learning / Domain Adaptation**
 
 <img src="/assets/dl-materials/multitask-learning-pasted-graphic.jpg" />
