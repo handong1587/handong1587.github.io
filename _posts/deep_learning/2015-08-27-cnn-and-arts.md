@@ -71,3 +71,8 @@ title: Convolutional Neural Network and Arts
 **Using AutoHarp and a Character-Based RNN to Create MIDI Drum Loops**
 
 - website: [http://www.inquisitivists.com/2015/09/16/using-autoharp-and-a-character-based-rnn-to-create-midi-drum-loops](http://www.inquisitivists.com/2015/09/16/using-autoharp-and-a-character-based-rnn-to-create-midi-drum-loops)
+
+**Learning Game of Life with a Convolutional Neural Network**
+
+- blog: [http://danielrapp.github.io/cnn-gol/](http://danielrapp.github.io/cnn-gol/)
+- github: [https://github.com/DanielRapp/cnn-gol](https://github.com/DanielRapp/cnn-gol)
