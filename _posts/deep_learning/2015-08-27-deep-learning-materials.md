@@ -32,6 +32,16 @@ Multi-label Learning
 
 - paper: [https://www.kdsl.tu-darmstadt.de/fileadmin/user_upload/Group_KDSL/PUnL_ECML2015_camera_ready.pdf](https://www.kdsl.tu-darmstadt.de/fileadmin/user_upload/Group_KDSL/PUnL_ECML2015_camera_ready.pdf)
 
+**Multitask Learning / Domain Adaptation**
+
+<img src="/assets/dl-materials/multitask-learning-pasted-graphic.jpg" />
+
+[http://www.cs.cornell.edu/~kilian/research/multitasklearning/multitasklearning.html](http://www.cs.cornell.edu/~kilian/research/multitasklearning/multitasklearning.html)
+
+**multi-task learning**
+
+[https://github.com/memect/hao/issues/93](https://github.com/memect/hao/issues/93)
+
 - - -
 
 **Reweighted Wake-Sleep**

@@ -15,6 +15,6 @@ title: Blogs and Websites
 
 **GeoS Demo — An End to End Geometry Problem Solver**
 
-<img src="/assets/leisure/blogs-and-websites/GeoS_Demo.jpg" width="640" />
+<img src="/assets/leisure/blogs-and-websites/GeoS_Demo.jpg" width="800" />
 
 - [http://geometry.allenai.org/demo/](http://geometry.allenai.org/demo/)
