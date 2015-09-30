@@ -190,7 +190,29 @@ Target Propagation
 - paper: [http://arxiv.org/abs/1509.06569v1](http://arxiv.org/abs/1509.06569v1)
 - github(TensorNet): [https://github.com/Bihaqo/TensorNet](https://github.com/Bihaqo/TensorNet)
 
+- - -
+
+<span style="color: red; font-size: 150%; font-weight: bold;">
+Memory Networks
+</span>
+
+**Memory Networks(Facebook AI Research)**
+
+- arXiv: [http://arxiv.org/abs/1410.3916](http://arxiv.org/abs/1410.3916)
+- github: [https://github.com/npow/MemNN](https://github.com/npow/MemNN)
+
 **End-To-End Memory Networks(Facebook AI Research)**
 
 - arXiv: [http://arxiv.org/abs/1503.08895](http://arxiv.org/abs/1503.08895)
 - github: [https://github.com/facebook/MemNN](https://github.com/facebook/MemNN)
+
+**Towards AI-Complete Question Answering: A Set of Prerequisite Toy Tasks(Facebook AI Research)**
+
+- arXiv: [http://arxiv.org/abs/1502.05698v1](http://arxiv.org/abs/1502.05698v1)
+
+**Improved Semantic Representations From Tree-Structured Long Short-Term Memory Networks**
+
+- arXiv: [http://arxiv.org/abs/1503.00075](http://arxiv.org/abs/1503.00075)
+- github: [https://github.com/stanfordnlp/treelstm](https://github.com/stanfordnlp/treelstm)
+
+- - -
