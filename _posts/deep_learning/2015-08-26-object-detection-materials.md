@@ -205,7 +205,7 @@ $$
 \\newcommand\\T{\\Rule{0pt}{1em}{.3em}}
 \\begin{array}{|c|c|c|}
 \\hline
-  \\  & \\text{training data} & \\text{test data} & \\text{VOC 2007 mAP} & \\text{time/img}  \\T \\\\\\hline
+  \\  & \\text{training data} & \\text{test data} & \\text{mAP} & \\text{time/img}  \\T \\\\\\hline
   \\text{Faster RCNN, VGG-16} & \\text{07}     & \\text{VOC 2007 test} & 69.9\% & 198ms \\\\\\hline
   \\text{Faster RCNN, VGG-16} & \\text{07+12}  & \\text{VOC 2007 test} & 73.2\% & 198ms \\\\\\hline
   \\text{Faster RCNN, VGG-16} & \\text{12}     & \\text{VOC 2012 test} & 67.0\% & 198ms \\\\\\hline
