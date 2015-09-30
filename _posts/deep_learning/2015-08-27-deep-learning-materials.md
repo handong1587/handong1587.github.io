@@ -189,3 +189,8 @@ Target Propagation
 
 - paper: [http://arxiv.org/abs/1509.06569v1](http://arxiv.org/abs/1509.06569v1)
 - github(TensorNet): [https://github.com/Bihaqo/TensorNet](https://github.com/Bihaqo/TensorNet)
+
+**End-To-End Memory Networks(Facebook AI Research)**
+
+- arXiv: [http://arxiv.org/abs/1503.08895](http://arxiv.org/abs/1503.08895)
+- github: [https://github.com/facebook/MemNN](https://github.com/facebook/MemNN)
