@@ -1,7 +1,7 @@
 ---
 layout: post
 categories: programming_study
-title: Some Python Tutorials
+title: Python Tutorials
 ---
 
 {{ page.title }}

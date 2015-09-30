@@ -1,7 +1,7 @@
 ---
 layout: post
 categories: linux_study
-title: Some Useful Vim Shortcuts
+title: Useful Vim Shortcuts
 ---
 
 {{ page.title }}
@@ -27,7 +27,7 @@ In insert mode, **Ctrl-T** indents the current line, and **Ctrl-D** unindents.
 
 For all commands, pressing **.** repeats the operation.
 
-For example, typing **5>>..** shifts five lines to the right, and then repeats 
+For example, typing **5>>..** shifts five lines to the right, and then repeats
 the operation twice so that the five lines are shifted three times.
 
 Insert current file name: <code>:r! echo %</code>

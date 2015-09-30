@@ -1,7 +1,7 @@
 ---
 layout: post
 categories: leisure
-title: Some Interesting Websites
+title: Interesting Websites
 ---
 
 {{ page.title }}

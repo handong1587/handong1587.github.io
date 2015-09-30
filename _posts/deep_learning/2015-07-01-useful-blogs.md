@@ -1,7 +1,7 @@
 ---
 layout: post
 categories: deep_learning
-title: Some Useful Blogs
+title: Useful Blogs
 ---
 
 {{ page.title }}

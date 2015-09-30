@@ -1,7 +1,7 @@
 ---
 layout: post
 categories: linux_study
-title: Some Useful GDB and PDB Commands
+title: Useful GDB and PDB Commands
 ---
 
 {{ page.title }}

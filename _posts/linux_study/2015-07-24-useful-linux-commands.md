@@ -1,7 +1,7 @@
 ---
 layout: post
 categories: linux_study
-title: Some Useful Linux Commands
+title: Useful Linux Commands
 ---
 
 {{ page.title }}
