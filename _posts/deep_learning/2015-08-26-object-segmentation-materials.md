@@ -14,6 +14,15 @@ title: Object Segmentation Materials
 - paper: [http://arxiv.org/abs/1411.4038](http://arxiv.org/abs/1411.4038)
 - code: [https://github.com/BVLC/caffe/wiki/Model-Zoo#fcn](https://github.com/BVLC/caffe/wiki/Model-Zoo#fcn)
 
+**Conditional Random Fields as Recurrent Neural Networks(ICCV2015. Oxford/Stanford/Baidu)**
+
+<img src="/assets/object-segmentation-materials/Conditional_Random_Fields_as_Recurrent_Neural_Networks_sample.jpg" />
+
+- arXiv: [http://arxiv.org/abs/1502.03240](http://arxiv.org/abs/1502.03240)
+- homepage: [http://www.robots.ox.ac.uk/~szheng/CRFasRNN.html](http://www.robots.ox.ac.uk/~szheng/CRFasRNN.html)
+- github: [https://github.com/torrvision/crfasrnn](https://github.com/torrvision/crfasrnn)
+- demo: [http://www.robots.ox.ac.uk/~szheng/crfasrnndemo](http://www.robots.ox.ac.uk/~szheng/crfasrnndemo)
+
 **Proposal-free Network for Instance-level Object Segmentation**
 
 - paper: [http://arxiv.org/abs/1509.02636](http://arxiv.org/abs/1509.02636)

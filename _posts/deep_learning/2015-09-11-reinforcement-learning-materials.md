@@ -24,3 +24,8 @@ title: Reinforcement Learning Materials
 **Giraffe: Using Deep Reinforcement Learning to Play Chess**
 
 - paper: [http://arxiv.org/abs/1509.01549](http://arxiv.org/abs/1509.01549)
+
+**Incentivizing Exploration In Reinforcement Learning With Deep Predictive Models**
+
+- arXiv: [http://arxiv.org/abs/1507.00814](http://arxiv.org/abs/1507.00814)
+- notes: [https://www.evernote.com/shard/s189/sh/a4262b84-a322-4f77-9a76-569278be84af/b8c3e146a76ca3853f560bb03b60a481](https://www.evernote.com/shard/s189/sh/a4262b84-a322-4f77-9a76-569278be84af/b8c3e146a76ca3853f560bb03b60a481)
