@@ -16,7 +16,7 @@ title: Object Segmentation Materials
 
 **Conditional Random Fields as Recurrent Neural Networks(ICCV2015. Oxford/Stanford/Baidu)**
 
-<img src="/assets/object-segmentation-materials/Conditional_Random_Fields_as_Recurrent_Neural_Networks_sample.png" />
+<img src="/assets/object-segmentation-materials/Conditional_Random_Fields_as_Recurrent_Neural_Networks_sample.png" width="800" />
 
 - arXiv: [http://arxiv.org/abs/1502.03240](http://arxiv.org/abs/1502.03240)
 - homepage: [http://www.robots.ox.ac.uk/~szheng/CRFasRNN.html](http://www.robots.ox.ac.uk/~szheng/CRFasRNN.html)
