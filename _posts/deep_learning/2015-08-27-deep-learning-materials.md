@@ -216,3 +216,8 @@ Memory Networks
 - github: [https://github.com/stanfordnlp/treelstm](https://github.com/stanfordnlp/treelstm)
 
 - - -
+
+**Implementation of a Practical Distributed Calculation System with Browsers and JavaScript, and Application to Distributed Deep Learning**
+
+- arXiv: [http://arxiv.org/abs/1503.05743v1](http://arxiv.org/abs/1503.05743v1)
+- github: [http://mil-tokyo.github.io/](http://mil-tokyo.github.io/)
