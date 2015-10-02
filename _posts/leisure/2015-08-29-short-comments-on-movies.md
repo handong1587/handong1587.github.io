@@ -75,3 +75,5 @@ The good news is: really many UNNECESSARY nudity scenes.
 (2015-09-26) *Dallas Buyers Club (2013)*:
 
 (2015-09-27) *Nebraska (2013)*:
+
+(2015-10-03) *Argo (2012)*: A report on CIA website: [https://www.cia.gov/library/center-for-the-study-of-intelligence/csi-publications/csi-studies/studies/winter99-00/art1.html](https://www.cia.gov/library/center-for-the-study-of-intelligence/csi-publications/csi-studies/studies/winter99-00/art1.html). Another interesting story behind the movie: *When ‘Argo’ Was Called ‘Lord of Light’*: [http://www.slashfilm.com/when-argo-was-called-lord-of-light/](http://www.slashfilm.com/when-argo-was-called-lord-of-light/). ARGO FUCK YOURSELF!
