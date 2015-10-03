@@ -221,3 +221,16 @@ Memory Networks
 
 - arXiv: [http://arxiv.org/abs/1503.05743v1](http://arxiv.org/abs/1503.05743v1)
 - github: [http://mil-tokyo.github.io/](http://mil-tokyo.github.io/)
+
+- - -
+
+<span style="color: red; font-size: 150%; font-weight: bold;">
+Image Description
+</span>
+
+**Describing Videos by Exploiting Temporal Structure**
+
+- arXiv: [http://arxiv.org/abs/1502.08029](http://arxiv.org/abs/1502.08029)
+- github: [https://github.com/yaoli/arctic-capgen-vid](https://github.com/yaoli/arctic-capgen-vid)
+
+- - -
