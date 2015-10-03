@@ -37,6 +37,10 @@ title: Convolutional Neural Network and Arts
 - website: [https://gist.github.com/genekogan/d61c8010d470e1dbe15d](https://gist.github.com/genekogan/d61c8010d470e1dbe15d)
 - sample: [https://vimeo.com/139123754](https://vimeo.com/139123754)
 
+**Experiments with style transfer**
+
+- website: [http://mtyka.github.io/code/2015/10/02/experiments-with-style-transfer.html](http://mtyka.github.io/code/2015/10/02/experiments-with-style-transfer.html)
+
 **Sketch-a-Net that Beats Humans**
 
 - paper: [http://arxiv.org/abs/1501.07873](http://arxiv.org/abs/1501.07873)
