@@ -31,7 +31,7 @@ title: Interesting Projects
 
 **CodeCombat: Multiplayer programming game for learning how to code**
 
-<img src="/assets/programming_study/CodeCombat_demo.png"/>
+<img src="/assets/programming_study/CodeCombat_demo.png" width="800"/>
 
 <img src="/assets/programming_study/CodeCombat_example1.jpg" width="800"/>
 
