@@ -22,3 +22,7 @@ title: Useful Blogs
 **The Unreasonable Effectiveness of Random Forests**
 
 [https://medium.com/rants-on-machine-learning/the-unreasonable-effectiveness-of-random-forests-f33c3ce28883](https://medium.com/rants-on-machine-learning/the-unreasonable-effectiveness-of-random-forests-f33c3ce28883)
+
+**A Huge List of Machine Learning And Statistics Repositories**
+
+[http://blog.josephmisiti.com/a-huge-list-of-machine-learning-repositories/](http://blog.josephmisiti.com/a-huge-list-of-machine-learning-repositories/)
