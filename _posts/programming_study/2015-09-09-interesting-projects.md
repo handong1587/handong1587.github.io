@@ -28,3 +28,22 @@ title: Interesting Projects
 **Python Gems: A collection of python scripts that solve interesting problems**
 
 - github: [https://github.com/RealHacker/python-gems](https://github.com/RealHacker/python-gems)
+
+**CodeCombat: Multiplayer programming game for learning how to code**
+
+<img src="/assets/programming_study/CodeCombat_demo.jpg"/>
+
+<img src="/assets/programming_study/CodeCombat_example1.jpg" width="800"/>
+
+<img src="/assets/programming_study/CodeCombat_example2.jpg"/>
+
+- github: [https://github.com/codecombat/codecombat](https://github.com/codecombat/codecombat)
+- homepage: [http://codecombat.com/](http://codecombat.com/)
+- wiki: [https://github.com/codecombat/codecombat/wiki/Archmage-Home](https://github.com/codecombat/codecombat/wiki/Archmage-Home)
+
+**BrowserQuest: a HTML5/JavaScript multiplayer game experiment**
+
+<img src="/assets/programming_study/BrowserQuest_demo.jpg"/>
+
+- github: [https://github.com/mozilla/BrowserQuest](https://github.com/mozilla/BrowserQuest)
+- homepage: [http://browserquest.mozilla.org/](http://browserquest.mozilla.org/)
