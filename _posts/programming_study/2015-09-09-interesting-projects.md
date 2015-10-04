@@ -31,7 +31,7 @@ title: Interesting Projects
 
 **CodeCombat: Multiplayer programming game for learning how to code**
 
-<img src="/assets/programming_study/CodeCombat_demo.jpg"/>
+<img src="/assets/programming_study/CodeCombat_demo.png"/>
 
 <img src="/assets/programming_study/CodeCombat_example1.jpg" width="800"/>
 
@@ -43,7 +43,7 @@ title: Interesting Projects
 
 **BrowserQuest: a HTML5/JavaScript multiplayer game experiment**
 
-<img src="/assets/programming_study/BrowserQuest_demo.jpg"/>
+<img src="/assets/programming_study/BrowserQuest_demo.jpg" width="800"/>
 
 - github: [https://github.com/mozilla/BrowserQuest](https://github.com/mozilla/BrowserQuest)
 - homepage: [http://browserquest.mozilla.org/](http://browserquest.mozilla.org/)
