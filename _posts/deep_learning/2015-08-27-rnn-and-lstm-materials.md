@@ -65,3 +65,7 @@ title: RNN and LSTM Materials
 **Jointly Modeling Embedding and Translation to Bridge Video and Language**
 
 - arXiv: [http://arxiv.org/abs/1505.01861](http://arxiv.org/abs/1505.01861)
+
+**Scheduled Sampling for Sequence Prediction with Recurrent Neural Networks(Winner of MSCOCO image captioning challenge, 2015)**
+
+- arXiv: [http://arxiv.org/abs/1506.03099](http://arxiv.org/abs/1506.03099)
