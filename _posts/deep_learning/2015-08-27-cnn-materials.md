@@ -47,6 +47,10 @@ CNN acceleration and model size reduction
 - intro: "reduced the size of AlexNet by 35x from 240MB to 6.9MB, the size of VGG16 by 49x from 552MB to 11.3MB, with no loss of accuracy"
 - arXiv: [http://arxiv.org/abs/1510.00149v1](http://arxiv.org/abs/1510.00149v1)
 
+**Fast Algorithms for Convolutional Neural Networks**
+
+- intro: "2.6x as fast as Caffe when comparing CPU implementations"
+- arXiv: [http://arxiv.org/abs/1509.09308](http://arxiv.org/abs/1509.09308)
 _ _ _
 
 <span style="color: red; font-size: 150%; font-weight: bold;">

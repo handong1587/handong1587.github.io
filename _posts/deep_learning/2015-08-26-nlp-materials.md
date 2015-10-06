@@ -18,3 +18,7 @@ title: NLP Materials
 
 - paper: [http://arxiv.org/abs/1506.06726](http://arxiv.org/abs/1506.06726)
 - code: [https://github.com/ryankiros/skip-thoughts](https://github.com/ryankiros/skip-thoughts)
+
+**A Primer on Neural Network Models for Natural Language Processing**
+
+- arXiv: [http://arxiv.org/abs/1510.00726](http://arxiv.org/abs/1510.00726)
