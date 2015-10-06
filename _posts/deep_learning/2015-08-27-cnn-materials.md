@@ -42,6 +42,11 @@ CNN acceleration and model size reduction
 
 - paper: [http://arxiv.org/abs/1506.02626](http://arxiv.org/abs/1506.02626)
 
+**A Deep Neural Network Compression Pipeline: Pruning, Quantization, Huffman Encoding**
+
+- intro: "reduced the size of AlexNet by 35x from 240MB to 6.9MB, the size of VGG16 by 49x from 552MB to 11.3MB, with no loss of accuracy"
+- arXiv: [http://arxiv.org/abs/1510.00149v1](http://arxiv.org/abs/1510.00149v1)
+
 _ _ _
 
 <span style="color: red; font-size: 150%; font-weight: bold;">
