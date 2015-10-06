@@ -13,6 +13,8 @@ title: Visualize Convolutional Neural Network
 
 - paper: [http://arxiv.org/abs/1311.2901](http://arxiv.org/abs/1311.2901)
 - slides: [https://courses.cs.washington.edu/courses/cse590v/14au/cse590v_dec5_DeepVis.pdf](https://courses.cs.washington.edu/courses/cse590v/14au/cse590v_dec5_DeepVis.pdf)
+- slides: [http://videolectures.net/site/normal_dl/tag=921098/eccv2014_zeiler_convolutional_networks_01.pdf](http://videolectures.net/site/normal_dl/tag=921098/eccv2014_zeiler_convolutional_networks_01.pdf)
+- video: [http://videolectures.net/eccv2014_zeiler_convolutional_networks/](http://videolectures.net/eccv2014_zeiler_convolutional_networks/)
 
 **Deep Inside Convolutional Networks: Visualising Image Classification Models and Saliency Maps**:
 

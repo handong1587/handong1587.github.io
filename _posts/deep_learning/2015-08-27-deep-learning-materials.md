@@ -241,3 +241,8 @@ Image Description
 - github: [https://github.com/yaoli/arctic-capgen-vid](https://github.com/yaoli/arctic-capgen-vid)
 
 - - -
+
+**DeepDetect: Open Source Deep Learning Server: Open Source + Deep Learning + API + Server**
+
+- webiste: [http://www.deepdetect.com/](http://www.deepdetect.com/)
+- github: [https://github.com/beniz/deepdetect](https://github.com/beniz/deepdetect)
