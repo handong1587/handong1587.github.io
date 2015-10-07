@@ -13,6 +13,16 @@ title: Deep Learning Materials
 
 - website: [http://www.teglor.com/b/deep-learning-libraries-language-cm569/](http://www.teglor.com/b/deep-learning-libraries-language-cm569/)
 
+**Delving Deep into Rectifiers: Surpassing Human-Level Performance on ImageNet Classification(ImageNet top-5 error: 4.94%)**
+
+- arXiv: [http://arxiv.org/abs/1502.01852](http://arxiv.org/abs/1502.01852)
+- notes: [http://blog.csdn.net/happynear/article/details/45440811](http://blog.csdn.net/happynear/article/details/45440811)
+
+**Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift(ImageNet top-5 error: 4.82%)**
+
+- arXiv: [http://arxiv.org/abs/1502.03167](http://arxiv.org/abs/1502.03167)
+- notes: [http://blog.csdn.net/happynear/article/details/44238541](http://blog.csdn.net/happynear/article/details/44238541)
+
 - - -
 
 <span style="color: red; font-size: 150%; font-weight: bold;">
@@ -280,3 +290,9 @@ Networks acceleration, parameter pruning, model size reduction
 - arXiv: [http://arxiv.org/abs/1509.09308](http://arxiv.org/abs/1509.09308)
 
 - - -
+
+**Unsupervised Learning on Neural Network Outputs**
+
+- intro: "use CNN trained on the ImageNet of 1000 classes to the ImageNet of over 20000 classes"
+- arXiv: [http://arxiv.org/abs/1506.00990](http://arxiv.org/abs/1506.00990)
+- github: [https://github.com/yaolubrain/ULNNO](https://github.com/yaolubrain/ULNNO)
