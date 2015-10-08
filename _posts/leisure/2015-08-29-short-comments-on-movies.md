@@ -7,9 +7,11 @@ title: Short Comments On Movies
 {{ page.title }}
 ================
 
-*The Bourne I,II,III* : Jason Bourne is cool. Love it!
+*The Bourne I,II,III*: Jason Bourne is cool. Love it!
 
 *The Bourne Legacy (2014)* : Compared to original *The Bourne* trilogy, maybe this one is .. boring?
+
+*Kill Bill (2003)*: I happened to know that the original Volume 1 contains a crazy 88 fight scene - it was so bloody and violent that Quentin Tarantino had to make the famous fight scene black and white. Pity that I couldn't find the uncensored one..
 
 (2012-01-26) *Psycho (1960)*:
 
