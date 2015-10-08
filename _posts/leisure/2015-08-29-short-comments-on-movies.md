@@ -11,7 +11,7 @@ title: Short Comments On Movies
 
 *The Bourne Legacy (2014)* : Compared to original *The Bourne* trilogy, maybe this one is .. boring?
 
-*Kill Bill (2003)*: I happened to know that the original Volume 1 contains a crazy 88 fight scene - it was so bloody and violent that Quentin Tarantino had to make the famous fight scene black and white. You can check out on this: [https://thepiratebay.la/torrent/8028488/KILL_BILL__THE_WHOLE_BLOODY_AFFAIR_hd-720p_DTS](https://thepiratebay.la/torrent/8028488/KILL_BILL__THE_WHOLE_BLOODY_AFFAIR_hd-720p_DTS)
+*Kill Bill (2003)*: I happened to know that the original Volume 1 contains a crazy 88 fight scene - it was so bloody and violent that Quentin Tarantino had to make the famous fight scene black and white. You can check out on this: <br /> [https://thepiratebay.la/torrent/8028488/KILL_BILL__THE_WHOLE_BLOODY_AFFAIR_hd-720p_DTS](https://thepiratebay.la/torrent/8028488/KILL_BILL__THE_WHOLE_BLOODY_AFFAIR_hd-720p_DTS)
 
 (2012-01-26) *Psycho (1960)*:
 
@@ -78,6 +78,8 @@ The good news is: really many UNNECESSARY nudity scenes.
 
 (2015-09-27) *Nebraska (2013)*:
 
-(2015-10-03) *Argo (2012)*: A report on CIA website: [https://www.cia.gov/library/center-for-the-study-of-intelligence/csi-publications/csi-studies/studies/winter99-00/art1.html](https://www.cia.gov/library/center-for-the-study-of-intelligence/csi-publications/csi-studies/studies/winter99-00/art1.html). Another interesting story behind the movie: *When ‘Argo’ Was Called ‘Lord of Light’*: [http://www.slashfilm.com/when-argo-was-called-lord-of-light/](http://www.slashfilm.com/when-argo-was-called-lord-of-light/). ARGO FUCK YOURSELF!
+(2015-10-03) *Argo (2012)*: A report on CIA website: [https://www.cia.gov/library/center-for-the-study-of-intelligence/csi-publications/csi-studies/studies/winter99-00/art1.html](https://www.cia.gov/library/center-for-the-study-of-intelligence/csi-publications/csi-studies/studies/winter99-00/art1.html).  <br />
+Another interesting story behind the movie: *When ‘Argo’ Was Called ‘Lord of Light’*:  <br /> [http://www.slashfilm.com/when-argo-was-called-lord-of-light/](http://www.slashfilm.com/when-argo-was-called-lord-of-light/).  <br />
+ARGO FUCK YOURSELF!
 
 (2015-10-04) *Perfume: The Story of a Murderer*: Fucking disgusting and stupid. Can't believe I just wasted two and half hours to watch this value-distorted trash.
