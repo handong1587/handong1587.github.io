@@ -25,4 +25,14 @@ title: Interesting Blogs
 
 ================================================================================
 
-[Debugging with GDB: a real life example](http://blog.0x972.info/?d=2015/09/09/09/19/14-debugging-with-gdb-a-real-life-example)
+"Debugging with GDB: a real life example"
+
+[http://blog.0x972.info/?d=2015/09/09/09/19/14-debugging-with-gdb-a-real-life-example](http://blog.0x972.info/?d=2015/09/09/09/19/14-debugging-with-gdb-a-real-life-example)
+
+================================================================================
+
+A very cool resume:
+
+<img src="/assets/programming_study/strml.net.png" width="800" />
+
+[http://strml.net/](http://strml.net/)
