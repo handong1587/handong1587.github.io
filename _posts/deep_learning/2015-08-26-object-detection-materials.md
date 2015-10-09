@@ -214,8 +214,9 @@ $$
 \\end{array}
 $$
 
-- paper: [http://arxiv.org/abs/1506.01497](http://arxiv.org/abs/1506.01497)
-- code: [https://github.com/ShaoqingRen/faster_rcnn](https://github.com/ShaoqingRen/faster_rcnn)
+- arXiv: [http://arxiv.org/abs/1506.01497](http://arxiv.org/abs/1506.01497)
+- github: [https://github.com/ShaoqingRen/faster_rcnn](https://github.com/ShaoqingRen/faster_rcnn)
+- github: [https://github.com/rbgirshick/py-faster-rcnn](https://github.com/rbgirshick/py-faster-rcnn)
 
 **You Only Look Once: Unified, Real-Time Object Detection**
 
