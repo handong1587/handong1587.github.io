@@ -9,78 +9,11 @@ title: Deep Learning Materials
 
 <p class="meta">27 Aug 2015 - Beijing</p>
 
-**Deep Learning Libraries by Language**
-
-- website: [http://www.teglor.com/b/deep-learning-libraries-language-cm569/](http://www.teglor.com/b/deep-learning-libraries-language-cm569/)
-
-**Delving Deep into Rectifiers: Surpassing Human-Level Performance on ImageNet Classification(ImageNet top-5 error: 4.94%)**
-
-- arXiv: [http://arxiv.org/abs/1502.01852](http://arxiv.org/abs/1502.01852)
-- notes: [http://blog.csdn.net/happynear/article/details/45440811](http://blog.csdn.net/happynear/article/details/45440811)
-
-**Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift(ImageNet top-5 error: 4.82%)**
-
-- arXiv: [http://arxiv.org/abs/1502.03167](http://arxiv.org/abs/1502.03167)
-- notes: [http://blog.csdn.net/happynear/article/details/44238541](http://blog.csdn.net/happynear/article/details/44238541)
-
 - - -
 
 <span style="color: red; font-size: 150%; font-weight: bold;">
-Multi-label Learning
+Spatial Transformer Networks
 </span>
-
-**CNN: Single-label to Multi-label**
-
-- paper: [http://arxiv.org/abs/1406.5726](http://arxiv.org/abs/1406.5726)
-
-**Deep Learning for Multi-label Classification**
-
-- paper: [http://arxiv.org/abs/1502.05988](http://arxiv.org/abs/1502.05988)
-- code: [http://meka.sourceforge.net](http://meka.sourceforge.net)
-
-**Predicting Unseen Labels using Label Hierarchies in Large-Scale Multi-label Learning(ECML2015)**
-
-- paper: [https://www.kdsl.tu-darmstadt.de/fileadmin/user_upload/Group_KDSL/PUnL_ECML2015_camera_ready.pdf](https://www.kdsl.tu-darmstadt.de/fileadmin/user_upload/Group_KDSL/PUnL_ECML2015_camera_ready.pdf)
-
-**Learning with a Wasserstein Loss**
-
-- arXiv: [http://arxiv.org/abs/1506.05439](http://arxiv.org/abs/1506.05439)
-- project page: [http://cbcl.mit.edu/wasserstein/](http://cbcl.mit.edu/wasserstein/)
-- code: [http://cbcl.mit.edu/wasserstein/yfcc100m_labels.tar.gz](http://cbcl.mit.edu/wasserstein/yfcc100m_labels.tar.gz)
-- MIT news: [http://news.mit.edu/2015/more-flexible-machine-learning-1001](http://news.mit.edu/2015/more-flexible-machine-learning-1001)
-
-- - -
-
-<span style="color: red; font-size: 150%; font-weight: bold;">
-Multi-task Learning
-</span>
-
-**Multitask Learning / Domain Adaptation**
-
-<img src="/assets/dl-materials/multitask-learning-pasted-graphic.jpg" />
-
-[http://www.cs.cornell.edu/~kilian/research/multitasklearning/multitasklearning.html](http://www.cs.cornell.edu/~kilian/research/multitasklearning/multitasklearning.html)
-
-**multi-task learning**
-
-[https://github.com/memect/hao/issues/93](https://github.com/memect/hao/issues/93)
-
-- - -
-
-**Reweighted Wake-Sleep**
-
-- paper: [http://arxiv.org/abs/1406.2751](http://arxiv.org/abs/1406.2751)
-- code: [https://github.com/jbornschein/reweighted-ws](https://github.com/jbornschein/reweighted-ws)
-
-**Probabilistic Backpropagation for Scalable Learning of Bayesian Neural Networks**
-
-- paper: [http://arxiv.org/abs/1502.05336](http://arxiv.org/abs/1502.05336)
-- code: [https://github.com/HIPS/Probabilistic-Backpropagation](https://github.com/HIPS/Probabilistic-Backpropagation)
-
-**Deeply-Supervised Nets**
-
-- paper: [http://arxiv.org/abs/1409.5185](http://arxiv.org/abs/1409.5185)
-- code: [https://github.com/mbhenaff/spectral-lib](https://github.com/mbhenaff/spectral-lib)
 
 **Spatial Transformer Networks**
 
@@ -117,24 +50,10 @@ Jointly Training CNN and SVM
 
 - - -
 
-**Unifying Visual-Semantic Embeddings with Multimodal Neural Language Models**
-
-<img src="/assets/dl-materials/Unifying_Visual-Semantic_Embeddings_with_Multimodal_Neural_Language_Models.png" width="600" />
-
-- paper: [http://arxiv.org/abs/1411.2539](http://arxiv.org/abs/1411.2539)
-- results: [http://www.cs.toronto.edu/~rkiros/lstm_scnlm.html](http://www.cs.toronto.edu/~rkiros/lstm_scnlm.html)
-- demo: [http://deeplearning.cs.toronto.edu/i2t](http://deeplearning.cs.toronto.edu/i2t)
-- github: [https://github.com/ryankiros/visual-semantic-embedding](https://github.com/ryankiros/visual-semantic-embedding)
-
 **Bayesian Dark Knowledge**
 
 - paper: [http://arxiv.org/abs/1506.04416](http://arxiv.org/abs/1506.04416)
 - notes: [Notes on Bayesian Dark Knowledge](https://www.evernote.com/shard/s189/sh/92cc4cbf-285e-4038-af08-c6d9e4aee6ea/d505237e82dc81be9859bc82f3902f9f)
-
-**Neural Turing Machines**
-
-- paper: [http://arxiv.org/abs/1410.5401](http://arxiv.org/abs/1410.5401)
-- code: [https://github.com/shawntan/neural-turing-machines](https://github.com/shawntan/neural-turing-machines)
 
 **Deep Neural Networks(with Python code)**
 
@@ -148,26 +67,6 @@ Jointly Training CNN and SVM
 **On the Expressive Power of Deep Learning: A Tensor Analysis**
 
 - paper: [http://arxiv.org/abs/1509.05009](http://arxiv.org/abs/1509.05009)
-
-- - -
-
-<span style="color: red; font-size: 150%; font-weight: bold;">
-Driving
-</span>
-
-**DeepDriving: Learning Affordance for Direct Perception in Autonomous Driving**
-
-<img src="/assets/cnn-materials/teaser_deepdriving.jpg"
- width="800" />
-
-- project: [http://deepdriving.cs.princeton.edu/](http://deepdriving.cs.princeton.edu/)
-- paper: [http://deepdriving.cs.princeton.edu/paper.pdf](http://deepdriving.cs.princeton.edu/paper.pdf)
-- code: [http://deepdriving.cs.princeton.edu/DeepDriving.zip](http://deepdriving.cs.princeton.edu/DeepDriving.zip)
-
-**Recurrent Neural Networks for Driver Activity Anticipation via Sensory-Fusion Architecture**
-
-- paper: [http://arxiv.org/abs/1509.05016](http://arxiv.org/abs/1509.05016)
-- homepage: [http://www.brain4cars.com/](http://www.brain4cars.com/)
 
 - - -
 
@@ -198,6 +97,28 @@ Target Propagation
 
 - - -
 
+**DeepDetect: Open Source Deep Learning Server: Open Source + Deep Learning + API + Server**
+
+- webiste: [http://www.deepdetect.com/](http://www.deepdetect.com/)
+- github: [https://github.com/beniz/deepdetect](https://github.com/beniz/deepdetect)
+
+- - -
+
+**Reweighted Wake-Sleep**
+
+- paper: [http://arxiv.org/abs/1406.2751](http://arxiv.org/abs/1406.2751)
+- code: [https://github.com/jbornschein/reweighted-ws](https://github.com/jbornschein/reweighted-ws)
+
+**Probabilistic Backpropagation for Scalable Learning of Bayesian Neural Networks**
+
+- paper: [http://arxiv.org/abs/1502.05336](http://arxiv.org/abs/1502.05336)
+- code: [https://github.com/HIPS/Probabilistic-Backpropagation](https://github.com/HIPS/Probabilistic-Backpropagation)
+
+**Deeply-Supervised Nets**
+
+- paper: [http://arxiv.org/abs/1409.5185](http://arxiv.org/abs/1409.5185)
+- code: [https://github.com/mbhenaff/spectral-lib](https://github.com/mbhenaff/spectral-lib)
+
 **An objective function for STDP(Yoshua Bengio)**
 
 - paper: [http://arxiv.org/abs/1509.05936](http://arxiv.org/abs/1509.05936)
@@ -207,89 +128,10 @@ Target Propagation
 - paper: [http://arxiv.org/abs/1509.06569v1](http://arxiv.org/abs/1509.06569v1)
 - github(TensorNet): [https://github.com/Bihaqo/TensorNet](https://github.com/Bihaqo/TensorNet)
 
-- - -
-
-<span style="color: red; font-size: 150%; font-weight: bold;">
-Memory Networks
-</span>
-
-**Memory Networks(Facebook AI Research)**
-
-- arXiv: [http://arxiv.org/abs/1410.3916](http://arxiv.org/abs/1410.3916)
-- github: [https://github.com/npow/MemNN](https://github.com/npow/MemNN)
-
-**End-To-End Memory Networks(Facebook AI Research)**
-
-- arXiv: [http://arxiv.org/abs/1503.08895](http://arxiv.org/abs/1503.08895)
-- github: [https://github.com/facebook/MemNN](https://github.com/facebook/MemNN)
-
-**Towards AI-Complete Question Answering: A Set of Prerequisite Toy Tasks(Facebook AI Research)**
-
-- arXiv: [http://arxiv.org/abs/1502.05698v1](http://arxiv.org/abs/1502.05698v1)
-
-**Improved Semantic Representations From Tree-Structured Long Short-Term Memory Networks**
-
-- arXiv: [http://arxiv.org/abs/1503.00075](http://arxiv.org/abs/1503.00075)
-- github: [https://github.com/stanfordnlp/treelstm](https://github.com/stanfordnlp/treelstm)
-
-- - -
-
 **Implementation of a Practical Distributed Calculation System with Browsers and JavaScript, and Application to Distributed Deep Learning**
 
 - arXiv: [http://arxiv.org/abs/1503.05743v1](http://arxiv.org/abs/1503.05743v1)
 - github: [http://mil-tokyo.github.io/](http://mil-tokyo.github.io/)
-
-- - -
-
-<span style="color: red; font-size: 150%; font-weight: bold;">
-Image Description
-</span>
-
-**Describing Videos by Exploiting Temporal Structure**
-
-- arXiv: [http://arxiv.org/abs/1502.08029](http://arxiv.org/abs/1502.08029)
-- github: [https://github.com/yaoli/arctic-capgen-vid](https://github.com/yaoli/arctic-capgen-vid)
-
-- - -
-
-**DeepDetect: Open Source Deep Learning Server: Open Source + Deep Learning + API + Server**
-
-- webiste: [http://www.deepdetect.com/](http://www.deepdetect.com/)
-- github: [https://github.com/beniz/deepdetect](https://github.com/beniz/deepdetect)
-
-_ _ _
-
-<span style="color: red; font-size: 150%; font-weight: bold;">
-Networks acceleration, parameter pruning, model size reduction
-</span>
-
-**Neurons vs Weights Pruning in Artificial Neural Networks**
-
-- paper: [http://journals.ru.lv/index.php/ETR/article/view/166](http://journals.ru.lv/index.php/ETR/article/view/166)
-
-**Fast ConvNets Using Group-wise Brain Damage**
-
-- paper: [http://arxiv.org/abs/1506.02515](http://arxiv.org/abs/1506.02515)
-
-**Learning both Weights and Connections for Efficient Neural Networks**
-
-- paper: [http://arxiv.org/abs/1506.02626](http://arxiv.org/abs/1506.02626)
-
-**Data-free parameter pruning for Deep Neural Networks**
-
-- arXiv: [http://arxiv.org/abs/1507.06149](http://arxiv.org/abs/1507.06149)
-
-**A Deep Neural Network Compression Pipeline: Pruning, Quantization, Huffman Encoding**
-
-- intro: "reduced the size of AlexNet by 35x from 240MB to 6.9MB, the size of VGG16 by 49x from 552MB to 11.3MB, with no loss of accuracy"
-- arXiv: [http://arxiv.org/abs/1510.00149v1](http://arxiv.org/abs/1510.00149v1)
-
-**Fast Algorithms for Convolutional Neural Networks**
-
-- intro: "2.6x as fast as Caffe when comparing CPU implementations"
-- arXiv: [http://arxiv.org/abs/1509.09308](http://arxiv.org/abs/1509.09308)
-
-- - -
 
 **Unsupervised Learning on Neural Network Outputs**
 

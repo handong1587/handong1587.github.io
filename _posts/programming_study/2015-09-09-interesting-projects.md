@@ -47,3 +47,7 @@ title: Interesting Projects
 
 - github: [https://github.com/mozilla/BrowserQuest](https://github.com/mozilla/BrowserQuest)
 - homepage: [http://browserquest.mozilla.org/](http://browserquest.mozilla.org/)
+
+**Lean: a new open source theorem prover(Microsoft Research)**
+
+- website: [http://leanprover.github.io/](http://leanprover.github.io/)

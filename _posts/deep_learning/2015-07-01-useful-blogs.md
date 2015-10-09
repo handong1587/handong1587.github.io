@@ -9,6 +9,10 @@ title: Useful Blogs
 
 <p class="meta">01 Jul 2015 - Beijing</p>
 
+**Deep Learning Libraries by Language**
+
+- website: [http://www.teglor.com/b/deep-learning-libraries-language-cm569/](http://www.teglor.com/b/deep-learning-libraries-language-cm569/)
+
 [http://neuralnetworksanddeeplearning.com](http://neuralnetworksanddeeplearning.com)
 
 [http://deeplearning.net/reading-list/](http://deeplearning.net/reading-list/)

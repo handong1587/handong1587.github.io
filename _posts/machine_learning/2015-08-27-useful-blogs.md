@@ -9,15 +9,29 @@ title: Useful Blogs
 
 <p class="meta">27 Aug 2015 - Beijing</p>
 
-[machine learning classifier gallery](http://home.comcast.net/~tom.fawcett/public_html/ML-gallery/pages/)
+**The Spectator: Shakir's Machine Learning Blog**
 
-[Machine Learning and Computer Vision Resources](http://zhengrui.github.io/zerryland/ML-CV-Resource.html)
+[http://blog.shakirm.com/](http://blog.shakirm.com/)
 
-[Target acquired: Finding targets in drone and quadcopter video streams using Python and OpenCV](http://www.pyimagesearch.com/2015/05/04/target-acquired-finding-targets-in-drone-and-quadcopter-video-streams-using-python-and-opencv/)
+**machine learning classifier gallery**
 
-[AWESOME-RANDOM-FOREST - a curated list of resources regarding random forest](http://jiwonkim.org/awesome-random-forest/)
+[http://home.comcast.net/~tom.fawcett/public_html/ML-gallery/pages/](http://home.comcast.net/~tom.fawcett/public_html/ML-gallery/pages/)
 
-[Coding, Visualizing, and Animating Bootstrap Resampling](http://minimaxir.com/2015/09/bootstrap-resample/)
+**Machine Learning and Computer Vision Resources**
+
+[http://zhengrui.github.io/zerryland/ML-CV-Resource.html](http://zhengrui.github.io/zerryland/ML-CV-Resource.html)
+
+**Target acquired: Finding targets in drone and quadcopter video streams using Python and OpenCV**
+
+[http://www.pyimagesearch.com/2015/05/04/target-acquired-finding-targets-in-drone-and-quadcopter-video-streams-using-python-and-opencv/](http://www.pyimagesearch.com/2015/05/04/target-acquired-finding-targets-in-drone-and-quadcopter-video-streams-using-python-and-opencv/)
+
+**AWESOME-RANDOM-FOREST - a curated list of resources regarding random forest**
+
+[http://jiwonkim.org/awesome-random-forest/](http://jiwonkim.org/awesome-random-forest/)
+
+**Coding, Visualizing, and Animating Bootstrap Resampling**
+
+[http://minimaxir.com/2015/09/bootstrap-resample/](http://minimaxir.com/2015/09/bootstrap-resample/)
 
 **The Unreasonable Effectiveness of Random Forests**
 
@@ -30,3 +44,8 @@ title: Useful Blogs
 **Machine Learning for Developers**
 
 [http://xyclade.github.io/MachineLearning/](http://xyclade.github.io/MachineLearning/)
+
+**Random forest interpretation with scikit-learn**
+
+- blog: [http://blog.datadive.net/random-forest-interpretation-with-scikit-learn/](http://blog.datadive.net/random-forest-interpretation-with-scikit-learn/)
+- github: [https://github.com/andosa/treeinterpreter](https://github.com/andosa/treeinterpreter)
