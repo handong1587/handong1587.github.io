@@ -1,13 +1,13 @@
 ---
 layout: post
-categories: machine_learning
-title: Object Detection Materials
+categories: computer_vision
+title: Object Detection
 ---
 
 {{ page.title }}
 ================
 
-<p class="meta">09 Sep 2015 - Beijing</p>
+<p class="meta">09 Oct 2015 - Beijing</p>
 
 **Contextualizing Object Detection and Classification(CVPR2010)**
 
