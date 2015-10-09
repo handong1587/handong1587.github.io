@@ -26,3 +26,7 @@ title: Useful Blogs
 **A Huge List of Machine Learning And Statistics Repositories**
 
 [http://blog.josephmisiti.com/a-huge-list-of-machine-learning-repositories/](http://blog.josephmisiti.com/a-huge-list-of-machine-learning-repositories/)
+
+**Machine Learning for Developers**
+
+[http://xyclade.github.io/MachineLearning/](http://xyclade.github.io/MachineLearning/)
