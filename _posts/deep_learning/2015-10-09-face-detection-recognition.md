@@ -11,6 +11,6 @@ title: Face Detection, Recognition Materials
 
 **From Facial Parts Responses to Face Detection: A Deep Learning Approach**
 
-<img src="/assets/dl-materials/face-detection-recognition/From_Facial_Parts_Responses_to_Face_Detection_A_Deep_Learning_Approach_index.png" width="800"/>
+<img src="/assets/face-detection-recognition/From_Facial_Parts_Responses_to_Face_Detection_A_Deep_Learning_Approach_index.png" width="800"/>
 
 - project: [http://personal.ie.cuhk.edu.hk/~ys014/projects/Faceness/Faceness.html](http://personal.ie.cuhk.edu.hk/~ys014/projects/Faceness/Faceness.html)
