@@ -172,6 +172,11 @@ $$
 - notes: [http://zhangliliang.com/2015/05/17/paper-note-fast-rcnn/](http://zhangliliang.com/2015/05/17/paper-note-fast-rcnn/)
 - notes: [http://blog.csdn.net/linj_m/article/details/48930179](http://blog.csdn.net/linj_m/article/details/48930179)
 
+**DeepBox: Learning Objectness with Convolutional Networks**
+
+- arXiv: [http://arxiv.org/abs/1505.02146](http://arxiv.org/abs/1505.02146)
+- github: [https://github.com/weichengkuo/DeepBox](https://github.com/weichengkuo/DeepBox)
+
 **Object detection via a multi-region & semantic segmentation-aware CNN model**
 
 $$
