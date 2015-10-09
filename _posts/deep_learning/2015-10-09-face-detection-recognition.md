@@ -9,6 +9,10 @@ title: Face Detection, Recognition Materials
 
 <p class="meta">09 Oct 2015 - Beijing</p>
 
+**Multi-view Face Detection Using Deep Convolutional Neural Networks(Yahoo)**
+
+- arXiv: [http://arxiv.org/abs/1502.02766](http://arxiv.org/abs/1502.02766)
+
 **From Facial Parts Responses to Face Detection: A Deep Learning Approach**
 
 <img src="/assets/face-detection-recognition/From_Facial_Parts_Responses_to_Face_Detection_A_Deep_Learning_Approach_index.png" width="800"/>
