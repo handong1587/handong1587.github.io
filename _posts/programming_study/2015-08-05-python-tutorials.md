@@ -76,3 +76,7 @@ import numpy as np
 np.amax
 np.sum
 ```
+
+**在 C++ 程序中嵌入 Python 脚本**
+
+[http://www.yangyuan.info/post.php?id=1071](http://www.yangyuan.info/post.php?id=1071)
