@@ -26,3 +26,15 @@ title: News, Talks and Interviews
 **Getting “deep” about “deep learning”**
 
 [http://whatsnext.nuance.com/in-the-labs/what-is-deep-machine-learning/](http://whatsnext.nuance.com/in-the-labs/what-is-deep-machine-learning/)
+
+<span style="color: red; font-size: 150%; font-weight: bold;">
+Self-driving Cars
+</span>
+
+**Self-driving cars: How far away are we REALLY from autonomous cars?(7 Aug 2015)**
+
+[http://www.alphr.com/cars/1001329/self-driving-cars-how-far-away-are-we-really-from-autonomous-cars](http://www.alphr.com/cars/1001329/self-driving-cars-how-far-away-are-we-really-from-autonomous-cars)
+
+**Practice makes perfect: Driverless cars will learn from their mistakes(9 Oct 2015)**
+
+[http://www.alphr.com/cars/1001713/practice-makes-perfect-driverless-cars-will-learn-from-their-mistakes](http://www.alphr.com/cars/1001713/practice-makes-perfect-driverless-cars-will-learn-from-their-mistakes)
