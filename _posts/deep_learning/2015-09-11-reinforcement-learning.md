@@ -44,3 +44,7 @@ title: Reinforcement Learning Materials
 - github: [https://github.com/kuz/DeepMind-Atari-Deep-Q-Learner](https://github.com/kuz/DeepMind-Atari-Deep-Q-Learner)
 - github: [https://github.com/tambetm/simple_dqn](https://github.com/tambetm/simple_dqn)
 - discussion: [https://www.reddit.com/r/MachineLearning/comments/2x4yy1/google_deepmind_nature_paper_humanlevel_control](https://www.reddit.com/r/MachineLearning/comments/2x4yy1/google_deepmind_nature_paper_humanlevel_control)
+
+**Data-Efficient Learning of Feedback Policies from Image Pixels using Deep Dynamical Models**
+
+- arXiv: [http://arxiv.org/abs/1510.02173](http://arxiv.org/abs/1510.02173)
