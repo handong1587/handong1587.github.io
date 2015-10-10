@@ -80,3 +80,11 @@ np.sum
 **在 C++ 程序中嵌入 Python 脚本**
 
 [http://www.yangyuan.info/post.php?id=1071](http://www.yangyuan.info/post.php?id=1071)
+
+**Embedding Python in C/C++: Part I**
+
+[http://www.codeproject.com/Articles/11805/Embedding-Python-in-C-C-Part-I](http://www.codeproject.com/Articles/11805/Embedding-Python-in-C-C-Part-I)
+
+**Embedding Python in C/C++: Part II**
+
+[http://www.codeproject.com/Articles/11843/Embedding-Python-in-C-C-Part-II](http://www.codeproject.com/Articles/11843/Embedding-Python-in-C-C-Part-II)
