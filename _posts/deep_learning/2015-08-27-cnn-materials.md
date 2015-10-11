@@ -80,9 +80,14 @@ Visual Localisation
 _ _ _
 
 <span style="color: red; font-size: 150%; font-weight: bold;">
-Intereting Application
+Interesting Application
 </span>
 
 **Deeply-Learned Feature for Age Estimation**
 
 - paper: [http://ieeexplore.ieee.org.sci-hub.org/xpl/login.jsp?tp=&arnumber=7045931&url=http%3A%2F%2Fieeexplore.ieee.org%2Fiel7%2F7045624%2F7045853%2F07045931.pdf%3Farnumber%3D7045931](http://ieeexplore.ieee.org.sci-hub.org/xpl/login.jsp?tp=&arnumber=7045931&url=http%3A%2F%2Fieeexplore.ieee.org%2Fiel7%2F7045624%2F7045853%2F07045931.pdf%3Farnumber%3D7045931)
+
+**PANDA: Pose Aligned Networks for Deep Attribute Modeling(Facebook)**
+
+- arXiv: [http://arxiv.org/abs/1311.5591](http://arxiv.org/abs/1311.5591)
+- github: [https://github.com/facebook/pose-aligned-deep-networks](https://github.com/facebook/pose-aligned-deep-networks)
