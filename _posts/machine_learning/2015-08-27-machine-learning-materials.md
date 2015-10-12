@@ -61,3 +61,9 @@ title: Machine Learning Materials
 - video: [http://pan.baidu.com/s/1ntEf4lr](http://pan.baidu.com/s/1ntEf4lr)
 - slides: [http://auai.org/uai2015/proceedings/slides/UAI2015_LearningBN_PartI.pdf](http://auai.org/uai2015/proceedings/slides/UAI2015_LearningBN_PartI.pdf)
 - slides: [http://auai.org/uai2015/proceedings/slides/UAI2015_LearningBN_PartII.pdf](http://auai.org/uai2015/proceedings/slides/UAI2015_LearningBN_PartII.pdf)
+
+**Bayesian Face Revisited: A Joint Formulation(ECCV2012)**
+
+- paper: [http://research.microsoft.com/en-us/um/people/jiansun/papers/ECCV12_BayesianFace.pdf](http://research.microsoft.com/en-us/um/people/jiansun/papers/ECCV12_BayesianFace.pdf)
+- github: [https://github.com/MaoXu/Joint_Bayesian/](https://github.com/MaoXu/Joint_Bayesian/)
+- github: [https://github.com/cyh24/Joint-Bayesian](https://github.com/cyh24/Joint-Bayesian)
