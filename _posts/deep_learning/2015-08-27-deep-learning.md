@@ -138,3 +138,8 @@ Target Propagation
 - intro: "use CNN trained on the ImageNet of 1000 classes to the ImageNet of over 20000 classes"
 - arXiv: [http://arxiv.org/abs/1506.00990](http://arxiv.org/abs/1506.00990)
 - github: [https://github.com/yaolubrain/ULNNO](https://github.com/yaolubrain/ULNNO)
+
+**Review of Auto-Encoders(by Piotr Mirowski, Microsoft Bing London, 2014)**
+
+- slides: [https://piotrmirowski.files.wordpress.com/2014/03/piotrmirowski_2014_reviewautoencoders.pdf](https://piotrmirowski.files.wordpress.com/2014/03/piotrmirowski_2014_reviewautoencoders.pdf)
+- github: [https://github.com/piotrmirowski/Tutorial_AutoEncoders/](https://github.com/piotrmirowski/Tutorial_AutoEncoders/)
