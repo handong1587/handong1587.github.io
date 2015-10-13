@@ -1,7 +1,7 @@
 ---
 layout: post
 categories: deep_learning
-title: Object Detection Materials
+title: Object Detection
 ---
 
 {{ page.title }}

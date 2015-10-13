@@ -1,7 +1,7 @@
 ---
 layout: post
 categories: deep_learning
-title: Pedestrian Detection Materials
+title: Pedestrian Detection
 ---
 
 {{ page.title }}

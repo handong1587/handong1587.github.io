@@ -1,7 +1,7 @@
 ---
 layout: post
 categories: deep_learning
-title: Object Classification Materials
+title: Object Classification
 ---
 
 {{ page.title }}

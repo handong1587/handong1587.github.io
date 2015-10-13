@@ -1,7 +1,7 @@
 ---
 layout: post
 categories: deep_learning
-title: Language Computation Materials
+title: Language Computation
 ---
 
 {{ page.title }}

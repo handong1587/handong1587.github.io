@@ -1,7 +1,7 @@
 ---
 layout: post
 categories: deep_learning
-title: Object Segmentation Materials
+title: Object Segmentation
 ---
 
 {{ page.title }}

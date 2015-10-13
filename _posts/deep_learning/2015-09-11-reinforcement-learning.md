@@ -1,7 +1,7 @@
 ---
 layout: post
 categories: deep_learning
-title: Reinforcement Learning Materials
+title: Reinforcement Learning
 ---
 
 {{ page.title }}
