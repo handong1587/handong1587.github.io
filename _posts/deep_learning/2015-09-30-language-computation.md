@@ -9,6 +9,11 @@ title: Language Computation
 
 <p class="meta">11 Sep 2015 - Beijing</p>
 
+**Neural Machine Translation by Jointly Learning to Align and Translate**
+
+- arXiv: [http://arxiv.org/abs/1409.0473](http://arxiv.org/abs/1409.0473)
+- github: [https://github.com/lisa-groundhog/GroundHog](https://github.com/lisa-groundhog/GroundHog)
+
 **Unifying Visual-Semantic Embeddings with Multimodal Neural Language Models**
 
 <img src="/assets/dl-materials/Unifying_Visual-Semantic_Embeddings_with_Multimodal_Neural_Language_Models.png" width="600" />

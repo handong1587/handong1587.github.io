@@ -36,3 +36,15 @@ A very cool resume:
 <img src="/assets/programming_study/strml.net.png" width="800" />
 
 [http://strml.net/](http://strml.net/)
+
+**Problem Solving with Algorithms and Data Structures(interactive Python online book)**
+
+[http://interactivepython.org/courselib/static/pythonds/index.html](http://interactivepython.org/courselib/static/pythonds/index.html)
+
+**Visualizing Algorithms**
+
+[http://bost.ocks.org/mike/algorithms/](http://bost.ocks.org/mike/algorithms/)
+
+**Why is Object-Oriented Programming Useful? (With a Role Playing Game Example)**
+
+[http://inventwithpython.com/blog/2014/12/02/why-is-object-oriented-programming-useful-with-an-role-playing-game-example](http://inventwithpython.com/blog/2014/12/02/why-is-object-oriented-programming-useful-with-an-role-playing-game-example)

@@ -9,6 +9,10 @@ title: Useful Blogs
 
 <p class="meta">27 Aug 2015 - Beijing</p>
 
+**Machine Learning Surveys: A list of literature surveys, reviews, and tutorials on Machine Learning and related topics**
+
+[http://www.mlsurveys.com/](http://www.mlsurveys.com/)
+
 **The Spectator: Shakir's Machine Learning Blog**
 
 [http://blog.shakirm.com/](http://blog.shakirm.com/)
@@ -53,3 +57,8 @@ title: Useful Blogs
 **Introduction to Conditional Random Fields**
 
 [http://blog.echen.me/2012/01/03/introduction-to-conditional-random-fields/](http://blog.echen.me/2012/01/03/introduction-to-conditional-random-fields/)
+
+**Machine Learning plus Intelligent Optimization: THE LION WAY, VERSION 2.0**
+
+- book: [http://intelligent-optimization.org/LIONbook/](http://intelligent-optimization.org/LIONbook/)
+- slides: [http://intelligent-optimization.org/LIONbook/LIONway-slides-chapter3.pdf](http://intelligent-optimization.org/LIONbook/LIONway-slides-chapter3.pdf)

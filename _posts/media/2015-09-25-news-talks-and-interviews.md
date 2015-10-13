@@ -9,6 +9,10 @@ title: News, Talks and Interviews
 
 <p class="meta">25 Sep 2015 - Beijing</p>
 
+**Convolutional Nets and CIFAR-10: An Interview with Yann LeCun**
+
+[http://blog.kaggle.com/2014/12/22/convolutional-nets-and-cifar-10-an-interview-with-yan-lecun/](http://blog.kaggle.com/2014/12/22/convolutional-nets-and-cifar-10-an-interview-with-yan-lecun/)
+
 **Human-Like: Facebook is using our data to build the 'world's best' Artificial Intelligence lab**
 
 [http://www.popsci.com/facebook-ai](http://www.popsci.com/facebook-ai)

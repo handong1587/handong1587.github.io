@@ -75,6 +75,19 @@ $$
 - paper: [http://arxiv.org/abs/1412.1441](http://arxiv.org/abs/1412.1441)
 - code: [https://github.com/google/multibox](https://github.com/google/multibox)
 
+**DeepID-Net: Deformable Deep Convolutional Neural Networks for Object Detection**
+
+$$
+\\newcommand\\T{\\Rule{0pt}{1em}{.3em}}
+\\begin{array}{|c|c|c|}
+\\hline
+  \\text{method}                 & \\text{VOC 2007 mAP} & \\text{ILSVRC 2013 mAP} \\T \\\\\\hline
+  \\text{DeepID-Net}  & 64.1\%               & 50.3\%        \\\\\\hline
+\\end{array}
+$$
+
+- arXiv: [http://arxiv.org/abs/1412.5661](http://arxiv.org/abs/1412.5661)
+
 **What makes for effective detection proposals?(PAMI 2015)**
 
 - homepage: [https://www.mpi-inf.mpg.de/departments/computer-vision-and-multimodal-computing/research/object-recognition-and-scene-understanding/how-good-are-detection-proposals-really/](https://www.mpi-inf.mpg.de/departments/computer-vision-and-multimodal-computing/research/object-recognition-and-scene-understanding/how-good-are-detection-proposals-really/)

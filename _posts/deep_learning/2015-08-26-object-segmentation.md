@@ -9,6 +9,15 @@ title: Object Segmentation
 
 <p class="meta">26 Aug 2015 - Beijing</p>
 
+**Deep Joint Task Learning for Generic Object Extraction(NIPS2014)**
+
+<img src="/assets/object-segmentation-materials/Deep_Joint_Task_Learning_for_Generic_Object_Extraction_demo.png" width="800" />
+
+- homepage: [http://vision.sysu.edu.cn/projects/deep-joint-task-learning/](http://vision.sysu.edu.cn/projects/deep-joint-task-learning/)
+- paper: [http://ss.sysu.edu.cn/~ll/files/NIPS2014_JointTask.pdf](http://ss.sysu.edu.cn/~ll/files/NIPS2014_JointTask.pdf)
+- code: [https://github.com/xiaolonw/nips14_loc_seg_testonly](https://github.com/xiaolonw/nips14_loc_seg_testonly)
+- dataset: [http://objectextraction.github.io/](http://objectextraction.github.io/)
+
 **Fully Convolutional Networks for Semantic Segmentation**
 
 - paper: [http://arxiv.org/abs/1411.4038](http://arxiv.org/abs/1411.4038)

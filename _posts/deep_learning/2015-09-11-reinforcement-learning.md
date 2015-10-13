@@ -34,6 +34,7 @@ title: Reinforcement Learning
 
 - arXiv: [http://arxiv.org/abs/1312.5602](http://arxiv.org/abs/1312.5602)
 - github: [https://github.com/kristjankorjus/Replicating-DeepMind](https://github.com/kristjankorjus/Replicating-DeepMind)
+- demo: [http://cs.stanford.edu/people/karpathy/convnetjs/demo/rldemo.html](http://cs.stanford.edu/people/karpathy/convnetjs/demo/rldemo.html)
 
 **Human-level control through deep reinforcement learning(Google DeepMind. 2015 Nature)**
 
