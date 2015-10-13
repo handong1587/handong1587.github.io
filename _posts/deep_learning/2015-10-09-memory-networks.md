@@ -13,7 +13,7 @@ title: Memory Networks
 
 - paper: [http://arxiv.org/abs/1410.5401](http://arxiv.org/abs/1410.5401)
 - github: [https://github.com/shawntan/neural-turing-machines](https://github.com/shawntan/neural-turing-machines)
-github: [https://github.com/DoctorTeeth/diffmem](https://github.com/DoctorTeeth/diffmem)
+- github: [https://github.com/DoctorTeeth/diffmem](https://github.com/DoctorTeeth/diffmem)
 
 **Memory Networks(Facebook AI Research)**
 
