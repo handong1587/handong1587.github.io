@@ -51,3 +51,8 @@ title: Interesting Projects
 **Lean: a new open source theorem prover(Microsoft Research)**
 
 - website: [http://leanprover.github.io/](http://leanprover.github.io/)
+
+**nude.js: Nudity detection with JavaScript and HTMLCanvas**
+
+- website: [http://www.patrick-wied.at/static/nudejs/](http://www.patrick-wied.at/static/nudejs/)
+- github: [https://github.com/pa7/nude.js](https://github.com/pa7/nude.js)

@@ -18,3 +18,12 @@ title: Face Detection, Recognition Materials
 <img src="/assets/face-detection-recognition/From_Facial_Parts_Responses_to_Face_Detection_A_Deep_Learning_Approach_index.png" width="800"/>
 
 - project: [http://personal.ie.cuhk.edu.hk/~ys014/projects/Faceness/Faceness.html](http://personal.ie.cuhk.edu.hk/~ys014/projects/Faceness/Faceness.html)
+
+**Deep Face Recognition(BMVC 2015)**
+
+- paper: [http://www.robots.ox.ac.uk/~vgg/publications/2015/Parkhi15/parkhi15.pdf](http://www.robots.ox.ac.uk/~vgg/publications/2015/Parkhi15/parkhi15.pdf)
+- homapage: [http://www.robots.ox.ac.uk/~vgg/software/vgg_face/](http://www.robots.ox.ac.uk/~vgg/software/vgg_face/)
+
+**FaceNet: A Unified Embedding for Face Recognition and Clustering(CVPR 2015. Google)**
+
+- arXiv: [http://arxiv.org/abs/1503.03832](http://arxiv.org/abs/1503.03832)
