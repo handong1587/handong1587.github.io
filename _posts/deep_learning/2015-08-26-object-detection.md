@@ -218,7 +218,7 @@ $$
 - note: [http://zhangliliang.com/2015/05/17/paper-note-ms-cnn/](http://zhangliliang.com/2015/05/17/paper-note-ms-cnn/)
 - notes: [http://blog.cvmarcher.com/posts/2015/05/17/multi-region-semantic-segmentation-aware-cnn/](http://blog.cvmarcher.com/posts/2015/05/17/multi-region-semantic-segmentation-aware-cnn/)
 
-**Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks**
+**Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks(NIPS 2015)**
 
 $$
 \\newcommand\\T{\\Rule{0pt}{1em}{.3em}}
