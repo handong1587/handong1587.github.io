@@ -56,3 +56,7 @@ title: Interesting Projects
 
 - website: [http://www.patrick-wied.at/static/nudejs/](http://www.patrick-wied.at/static/nudejs/)
 - github: [https://github.com/pa7/nude.js](https://github.com/pa7/nude.js)
+
+**Hastily - A downloader of subtitles(Haskell)**
+
+[https://hackage.haskell.org/package/hastily](https://hackage.haskell.org/package/hastily)

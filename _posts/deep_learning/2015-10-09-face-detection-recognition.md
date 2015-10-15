@@ -27,3 +27,4 @@ title: Face Detection, Recognition Materials
 **FaceNet: A Unified Embedding for Face Recognition and Clustering(CVPR 2015. Google)**
 
 - arXiv: [http://arxiv.org/abs/1503.03832](http://arxiv.org/abs/1503.03832)
+- github: [https://github.com/cmusatyalab/openface](https://github.com/cmusatyalab/openface)

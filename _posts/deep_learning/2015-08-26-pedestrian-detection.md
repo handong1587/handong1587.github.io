@@ -13,3 +13,7 @@ title: Pedestrian Detection
 
 - paper: [http://arxiv.org/abs/1412.0069](http://arxiv.org/abs/1412.0069)
 - project: [http://mmlab.ie.cuhk.edu.hk/projects/TA-CNN/](http://mmlab.ie.cuhk.edu.hk/projects/TA-CNN/)
+
+**Deep convolutional neural networks for pedestrian detection**
+
+- arXiv: [http://arxiv.org/abs/1510.03608](http://arxiv.org/abs/1510.03608)
