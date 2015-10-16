@@ -83,3 +83,5 @@ Another interesting story behind the movie: *When ‘Argo’ Was Called ‘Lord 
 ARGO FUCK YOURSELF!
 
 (2015-10-04) *Perfume: The Story of a Murderer*: Fucking disgusting and stupid. Can't believe I just wasted two and half hours to watch this value-distorted trash.
+
+(2015-10-12) *Mad Max: Fury Road (2015)*:
