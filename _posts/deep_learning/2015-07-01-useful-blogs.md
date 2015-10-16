@@ -108,6 +108,10 @@ title: Useful Blogs
 
 # Reinforcement Learning
 
+"Deep Reinforcement Learning Papers"
+
+[https://github.com/junhyukoh/deep-reinforcement-learning-papers](https://github.com/junhyukoh/deep-reinforcement-learning-papers)
+
 "A Short Introduction To Some Reinforcement Learning Algorithms"
 
 [http://webdocs.cs.ualberta.ca/~vanhasse/rl_algs/rl_algs.html](http://webdocs.cs.ualberta.ca/~vanhasse/rl_algs/rl_algs.html)
