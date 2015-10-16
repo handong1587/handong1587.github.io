@@ -17,3 +17,4 @@ title: Pedestrian Detection
 **Deep convolutional neural networks for pedestrian detection**
 
 - arXiv: [http://arxiv.org/abs/1510.03608](http://arxiv.org/abs/1510.03608)
+- github: [https://github.com/DenisTome/DeepPed](https://github.com/DenisTome/DeepPed)

@@ -28,3 +28,7 @@ title: Memory Networks
 **Learning to Transduce with Unbounded Memory**
 
 - arXiv: [http://arxiv.org/abs/1506.02516](http://arxiv.org/abs/1506.02516)
+
+**Structured Memory for Neural Turing Machines(IBM Watson)**
+
+- arXiv: [http://arxiv.org/abs/1510.03931](http://arxiv.org/abs/1510.03931)

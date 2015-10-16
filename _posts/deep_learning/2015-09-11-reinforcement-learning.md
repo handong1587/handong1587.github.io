@@ -49,3 +49,8 @@ title: Reinforcement Learning
 **Data-Efficient Learning of Feedback Policies from Image Pixels using Deep Dynamical Models**
 
 - arXiv: [http://arxiv.org/abs/1510.02173](http://arxiv.org/abs/1510.02173)
+
+**Variational Information Maximisation for Intrinsically Motivated Reinforcement Learning(Google DeepMind)**
+
+- arXiv: [http://arxiv.org/abs/1509.08731](http://arxiv.org/abs/1509.08731)
+- notes: [https://www.evernote.com/shard/s189/sh/8c7ff9d9-c321-4e83-a802-58f55ebed9ac/bfc614113180a5f4624390df56e73889](https://www.evernote.com/shard/s189/sh/8c7ff9d9-c321-4e83-a802-58f55ebed9ac/bfc614113180a5f4624390df56e73889)
