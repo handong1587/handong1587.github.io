@@ -17,6 +17,12 @@ title: Useful Blogs
 
 - website: [http://www.teglor.com/b/deep-learning-libraries-language-cm569/](http://www.teglor.com/b/deep-learning-libraries-language-cm569/)
 
+**Deep Learning Resources**
+
+[http://yanirseroussi.com/deep-learning-resources/](http://yanirseroussi.com/deep-learning-resources/)
+
+===============================================================================
+
 [http://neuralnetworksanddeeplearning.com](http://neuralnetworksanddeeplearning.com)
 
 [http://deeplearning.net/reading-list/](http://deeplearning.net/reading-list/)
