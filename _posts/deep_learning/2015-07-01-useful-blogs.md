@@ -80,6 +80,10 @@ title: Useful Blogs
 
 [http://www.robots.ox.ac.uk/~vgg/practicals/cnn/index.html](http://www.robots.ox.ac.uk/~vgg/practicals/cnn/index.html)
 
+"Must Know Tips/Tricks in Deep Neural Networks (by Xiu-Shen Wei)"
+
+[http://lamda.nju.edu.cn/weixs/project/CNNTricks/CNNTricks.html](http://lamda.nju.edu.cn/weixs/project/CNNTricks/CNNTricks.html)
+
 # RNN and LSTM
 
 "A Deep Dive into Recurrent Neural Nets"
