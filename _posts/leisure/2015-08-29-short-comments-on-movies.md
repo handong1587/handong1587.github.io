@@ -90,4 +90,4 @@ ARGO FUCK YOURSELF!
 
 (2015-10-21) *South Park: Bigger Longer & Uncut (1999)*:
 
-<img src="/assets/my-movie-collections/South-Park.jpg" width="800" />
+<img src="/assets/leisure/my-movie-collections/South-Park.jpg" width="800" />
