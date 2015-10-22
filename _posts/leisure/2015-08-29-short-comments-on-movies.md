@@ -85,3 +85,9 @@ ARGO FUCK YOURSELF!
 (2015-10-04) *Perfume: The Story of a Murderer*: Fucking disgusting and stupid. Can't believe I just wasted two and half hours to watch this value-distorted trash.
 
 (2015-10-12) *Mad Max: Fury Road (2015)*:
+
+(2015-10-19) *黑社会(2005), 黑社会II:以和为贵 (2006)*
+
+(2015-10-21) *South Park: Bigger Longer & Uncut (1999)*:
+
+<img src="/assets/leisure/my-movie-collections/South-Park.jpg" width="800" />
