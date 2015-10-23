@@ -34,3 +34,4 @@ title: Networks Acceleration, Parameter Pruning, Model Size Reduction
 
 - intro: "2.6x as fast as Caffe when comparing CPU implementations"
 - arXiv: [http://arxiv.org/abs/1509.09308](http://arxiv.org/abs/1509.09308)
+- discussion: [https://github.com/soumith/convnet-benchmarks/issues/59#issuecomment-150111895](https://github.com/soumith/convnet-benchmarks/issues/59#issuecomment-150111895)
