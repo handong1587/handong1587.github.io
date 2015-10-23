@@ -23,12 +23,12 @@ title: Object Segmentation
 - paper: [http://arxiv.org/abs/1411.4038](http://arxiv.org/abs/1411.4038)
 - code: [https://github.com/BVLC/caffe/wiki/Model-Zoo#fcn](https://github.com/BVLC/caffe/wiki/Model-Zoo#fcn)
 
-**Semantic Image Segmentation with Deep Convolutional Nets and Fully Connected CRFs(DeepLab)**
+**Semantic Image Segmentation with Deep Convolutional Nets and Fully Connected CRFs("DeepLab")**
 
 - arXiv: [http://arxiv.org/abs/1412.7062](http://arxiv.org/abs/1412.7062)
 - github: [https://bitbucket.org/deeplab/deeplab-public/](https://bitbucket.org/deeplab/deeplab-public/)
 
-**Weakly- and Semi-Supervised Learning of a DCNN for Semantic Image Segmentation(DeepLab)**
+**Weakly- and Semi-Supervised Learning of a DCNN for Semantic Image Segmentation("DeepLab")**
 
 - arXiv: [http://arxiv.org/abs/1502.02734](http://arxiv.org/abs/1502.02734)
 - github: [https://bitbucket.org/deeplab/deeplab-public/](https://bitbucket.org/deeplab/deeplab-public/)
