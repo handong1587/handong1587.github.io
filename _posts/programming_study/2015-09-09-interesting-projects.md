@@ -60,3 +60,10 @@ title: Interesting Projects
 **Hastily - A downloader of subtitles(Haskell)**
 
 [https://hackage.haskell.org/package/hastily](https://hackage.haskell.org/package/hastily)
+
+**cmus — C* Music Player**
+
+<img src="/assets/programming_study/cmus-2.4.3-osx.png"/>
+
+- website: [https://cmus.github.io/]
+- github: [https://github.com/cmus/cmus](https://github.com/cmus/cmus)
