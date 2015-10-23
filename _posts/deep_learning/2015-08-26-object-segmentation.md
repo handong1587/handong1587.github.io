@@ -61,4 +61,4 @@ title: Object Segmentation
 
 - arXiv: [http://arxiv.org/abs/1505.04366](http://arxiv.org/abs/1505.04366)
 
-<img src="/assets/object-segmentation-materials/PSACAL-VOC-2012-Seg-Leaderboard.png" width="800" />
+<img src="/assets/object-segmentation-materials/PSACAL-VOC-2012-Seg-Leaderboard.png" width="1000" />
