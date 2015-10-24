@@ -35,3 +35,8 @@ title: Networks Acceleration, Parameter Pruning, Model Size Reduction
 - intro: "2.6x as fast as Caffe when comparing CPU implementations"
 - arXiv: [http://arxiv.org/abs/1509.09308](http://arxiv.org/abs/1509.09308)
 - discussion: [https://github.com/soumith/convnet-benchmarks/issues/59#issuecomment-150111895](https://github.com/soumith/convnet-benchmarks/issues/59#issuecomment-150111895)
+
+**ZNN - A Fast and Scalable Algorithm for Training 3D Convolutional Networks on Multi-Core and Many-Core Shared Memory Machines**
+
+- arXiv: [http://arxiv.org/abs/1510.06706](http://arxiv.org/abs/1510.06706)
+- github: [https://github.com/seung-lab/znn-release](https://github.com/seung-lab/znn-release)
