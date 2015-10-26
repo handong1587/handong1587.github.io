@@ -41,7 +41,7 @@ common.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) vo
 
 Resolve:
 
-This function appears in "glog-0.3.4\src\signalhandler.cc". But can be just commented out target line:
+This function appears in "glog-0.3.4\src\signalhandler.cc". But can just comment out target line:
 
 ```c
 ::google::InstallFailureSignalHandler();
