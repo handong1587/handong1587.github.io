@@ -62,3 +62,7 @@ title: Useful Blogs
 
 - book: [http://intelligent-optimization.org/LIONbook/](http://intelligent-optimization.org/LIONbook/)
 - slides: [http://intelligent-optimization.org/LIONbook/LIONway-slides-chapter3.pdf](http://intelligent-optimization.org/LIONbook/LIONway-slides-chapter3.pdf)
+
+**Bayesian Learning**
+
+[https://github.com/ReactiveCJ/BayesianLearning](https://github.com/ReactiveCJ/BayesianLearning)
