@@ -34,3 +34,15 @@ Resolve:
 Follow this modification:
 
 [https://github.com/google/glog/commit/856ff81a8268a5c22d026a65d4c12a2e1136f73f](https://github.com/google/glog/commit/856ff81a8268a5c22d026a65d4c12a2e1136f73f)
+
+(3)
+
+common.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) void __cdecl google::InstallFailureSignalHandler(void)" (__imp_?InstallFailureSignalHandler@google@@YAXXZ)
+
+Resolve:
+
+This function appears in "glog-0.3.4\src\signalhandler.cc". But can be just commented out target line:
+
+```c
+::google::InstallFailureSignalHandler();
+```
