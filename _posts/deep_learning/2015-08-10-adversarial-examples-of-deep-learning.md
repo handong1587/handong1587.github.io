@@ -26,3 +26,7 @@ title: Adversarial Examples of Deep Learning
 
 - paper: [http://arxiv.org/abs/1507.00677](http://arxiv.org/abs/1507.00677)
 - code: [https://github.com/takerum/vat](https://github.com/takerum/vat)
+
+**Confusing Deep Convolution Networks by Relabelling**
+
+- arXiv: [http://arxiv.org/abs/1510.06925v1](http://arxiv.org/abs/1510.06925v1)
