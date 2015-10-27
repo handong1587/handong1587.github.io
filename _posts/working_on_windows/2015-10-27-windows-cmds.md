@@ -19,6 +19,8 @@ Example:
 D:\coding\Python_VS2015\densebox\fast-rcnn\data>mklink /D VOCdevkit2007 D:\data\public_dataset\VOCdevkit
 </code></pre>
 
+Command Parameters:
+
 ```bash
 MKLINK [[/D] | [/H] | [/J]] Link Target
 
