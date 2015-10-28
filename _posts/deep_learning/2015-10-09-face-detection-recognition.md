@@ -1,7 +1,7 @@
 ---
 layout: post
 categories: deep_learning
-title: Face Detection, Recognition Materials
+title: Face Detection and Recognition
 ---
 
 {{ page.title }}
