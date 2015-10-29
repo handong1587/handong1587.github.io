@@ -67,3 +67,10 @@ title: Interesting Projects
 
 - website: [https://cmus.github.io/]
 - github: [https://github.com/cmus/cmus](https://github.com/cmus/cmus)
+
+**RF-Capture: Capturing the Human Figure Through a Wall**
+
+<img src="/assets/programming_study/RF-Capture-intro-figures.jpg" width="1000"/>
+
+- project: [http://rfcapture.csail.mit.edu/](http://rfcapture.csail.mit.edu/)
+- paper: [http://rfcapture.csail.mit.edu/rfcapture-paper.pdf](http://rfcapture.csail.mit.edu/rfcapture-paper.pdf)
