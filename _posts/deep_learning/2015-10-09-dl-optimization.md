@@ -25,10 +25,10 @@ title: Networks Acceleration, Parameter Pruning, Model Size Reduction
 
 - arXiv: [http://arxiv.org/abs/1507.06149](http://arxiv.org/abs/1507.06149)
 
-**A Deep Neural Network Compression Pipeline: Pruning, Quantization, Huffman Encoding**
+**A Deep Neural Network Compression Pipeline: Pruning, Quantization, Huffman Encoding(ICLR 2016)**
 
 - intro: "reduced the size of AlexNet by 35x from 240MB to 6.9MB, the size of VGG16 by 49x from 552MB to 11.3MB, with no loss of accuracy"
-- arXiv: [http://arxiv.org/abs/1510.00149v1](http://arxiv.org/abs/1510.00149v1)
+- arXiv: [http://arxiv.org/abs/1510.00149](http://arxiv.org/abs/1510.00149)
 
 **Fast Algorithms for Convolutional Neural Networks**
 
