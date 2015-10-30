@@ -28,7 +28,7 @@ $$
 - code: [https://github.com/sermanet/OverFeat](https://github.com/sermanet/OverFeat)
 - code: [http://cilvr.nyu.edu/doku.php?id=software:overfeat:start](http://cilvr.nyu.edu/doku.php?id=software:overfeat:start)
 
-**Rich feature hierarchies for accurate object detection and semantic segmentation**
+**Rich feature hierarchies for accurate object detection and semantic segmentation(R-CNN)**
 
 $$
 \\newcommand\\T{\\Rule{0pt}{1em}{.3em}}
@@ -237,7 +237,7 @@ $$
 - github: [https://github.com/ShaoqingRen/faster_rcnn](https://github.com/ShaoqingRen/faster_rcnn)
 - github: [https://github.com/rbgirshick/py-faster-rcnn](https://github.com/rbgirshick/py-faster-rcnn)
 
-**You Only Look Once: Unified, Real-Time Object Detection**
+**You Only Look Once: Unified, Real-Time Object Detection(YOLO)**
 
 - paper: [http://arxiv.org/abs/1506.02640](http://arxiv.org/abs/1506.02640)
 - code: [http://pjreddie.com/darknet/yolo/](http://pjreddie.com/darknet/yolo/)
