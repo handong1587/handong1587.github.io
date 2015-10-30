@@ -69,3 +69,8 @@ title: RNN and LSTM
 **Scheduled Sampling for Sequence Prediction with Recurrent Neural Networks(Winner of MSCOCO image captioning challenge, 2015)**
 
 - arXiv: [http://arxiv.org/abs/1506.03099](http://arxiv.org/abs/1506.03099)
+
+**Deep Knowledge Tracing**
+
+- paper: [https://web.stanford.edu/~cpiech/bio/papers/deepKnowledgeTracing.pdf](https://web.stanford.edu/~cpiech/bio/papers/deepKnowledgeTracing.pdf)
+- github: [https://github.com/chrispiech/DeepKnowledgeTracing](https://github.com/chrispiech/DeepKnowledgeTracing)
