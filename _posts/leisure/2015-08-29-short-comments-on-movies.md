@@ -7,7 +7,7 @@ title: Short Comments On Movies
 {{ page.title }}
 ================
 
-*Good Will Hunting (1997)*: I particularly like the scene whick Will Hunting goes up and raps on the glass to taunt that Harvard guy, *How do you like them apples?*
+*Good Will Hunting (1997)*: I particularly like the scene whick Will Hunting goes up and raps on the glass to taunt that Harvard guy, "How do you like them apples?"
 
 <img src="/assets/leisure/short-comments-on-movies/good_will_hunting_1997.png" width="800" />
 
