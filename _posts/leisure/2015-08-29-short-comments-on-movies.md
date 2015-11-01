@@ -9,11 +9,11 @@ title: Short Comments On Movies
 
 *Good Will Hunting (1997)*: I particularly like the scene whick Will Hunting goes up and raps on the glass to taunt that Harvard guy, *How do you like them apples?*
 
-<img src="/assets/leisure/short-comments-on-movies/good_will_hunting_1997.jpg" width="800" />
+<img src="/assets/leisure/short-comments-on-movies/good_will_hunting_1997.png" width="800" />
 
 For a long time I had always thought this phrase "How do you like them apples" just came from this movie, which wasn't true, however. Same phrase also showed up in an earlier movie *From Dusk Till Dawn*:
 
-<img src="/assets/leisure/short-comments-on-movies/from_dusk_till_dawn_1996.jpg" width="800" />
+<img src="/assets/leisure/short-comments-on-movies/from_dusk_till_dawn_1996.png" width="800" />
 
 For a reference: [http://english.stackexchange.com/questions/8293/how-do-you-like-them-apples](http://english.stackexchange.com/questions/8293/how-do-you-like-them-apples)
 
