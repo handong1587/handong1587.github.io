@@ -53,3 +53,7 @@ title: Language Computation
 
 - arXiv: [http://arxiv.org/abs/1509.00685](http://arxiv.org/abs/1509.00685)
 - github: [https://github.com/facebook/NAMAS](https://github.com/facebook/NAMAS)
+
+**Generating Text with Deep Reinforcement Learning(NIPS 2015)**
+
+- arXiv: [http://arxiv.org/abs/1510.09202](http://arxiv.org/abs/1510.09202)
