@@ -1,7 +1,7 @@
 ---
 layout: post
 categories: deep_learning
-title: Generating Images
+title: Image Generation
 ---
 
 {{ page.title }}
@@ -19,3 +19,9 @@ github: [https://github.com/mrkulk/Unsupervised-Capsule-Network](https://github.
 
 - arXiv: [http://arxiv.org/abs/1506.03478](http://arxiv.org/abs/1506.03478)
 - github: [https://github.com/lucastheis/ride/](https://github.com/lucastheis/ride/)
+
+**Learning FRAME Models Using CNN Filters for Knowledge Visualization(CVPR 2015)**
+
+- arXiv: [http://arxiv.org/abs/1509.08379](http://arxiv.org/abs/1509.08379)
+- project page: [http://www.stat.ucla.edu/~yang.lu/project/deepFrame/main.html](http://www.stat.ucla.edu/~yang.lu/project/deepFrame/main.html)
+- code+data: [http://www.stat.ucla.edu/~yang.lu/project/deepFrame/doc/deepFRAME_1.1.zip](http://www.stat.ucla.edu/~yang.lu/project/deepFrame/doc/deepFRAME_1.1.zip)
