@@ -28,3 +28,7 @@ title: Face Detection and Recognition
 
 - arXiv: [http://arxiv.org/abs/1503.03832](http://arxiv.org/abs/1503.03832)
 - github: [https://github.com/cmusatyalab/openface](https://github.com/cmusatyalab/openface)
+
+**Targeting Ultimate Accuracy: Face Recognition via Deep Embedding(CVPR 2015)**
+
+- arXiv: [http://arxiv.org/abs/1506.07310](http://arxiv.org/abs/1506.07310)
