@@ -23,6 +23,7 @@ title: Object Segmentation
 - paper: [http://arxiv.org/abs/1411.4038](http://arxiv.org/abs/1411.4038)
 - code: [https://github.com/BVLC/caffe/wiki/Model-Zoo#fcn](https://github.com/BVLC/caffe/wiki/Model-Zoo#fcn)
 - slides: [http://tutorial.caffe.berkeleyvision.org/caffe-cvpr15-pixels.pdf](http://tutorial.caffe.berkeleyvision.org/caffe-cvpr15-pixels.pdf)
+- notes: [http://zhangliliang.com/2014/11/28/paper-note-fcn-segment/](http://zhangliliang.com/2014/11/28/paper-note-fcn-segment/)
 
 **Semantic Image Segmentation with Deep Convolutional Nets and Fully Connected CRFs("DeepLab")**
 
