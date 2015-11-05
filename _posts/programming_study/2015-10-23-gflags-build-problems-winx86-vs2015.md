@@ -1,7 +1,7 @@
 ---
 layout: post
 categories: programming_study
-title: Glog Build Problems on Windows X86 and Visual Studio 2015
+title: Gflags Build Problems on Windows X86 and Visual Studio 2015
 ---
 
 {{ page.title }}
