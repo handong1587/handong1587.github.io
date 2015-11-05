@@ -49,6 +49,16 @@ title: Language Computation
 - arXiv: [http://arxiv.org/abs/1506.03340](http://arxiv.org/abs/1506.03340)
 - github: [https://github.com/deepmind/rc-data](https://github.com/deepmind/rc-data)
 
+**Skip-Thought Vectors**
+
+- arXiv: [http://arxiv.org/abs/1506.06726](http://arxiv.org/abs/1506.06726)
+- github: [https://github.com/ryankiros/skip-thoughts](https://github.com/ryankiros/skip-thoughts)
+
+**Aligning Books and Movies: Towards Story-like Visual Explanations by Watching Movies and Reading Books**
+
+- arXiv: [http://arxiv.org/abs/1506.06724](http://arxiv.org/abs/1506.06724)
+- github: [https://github.com/ryankiros/neural-storyteller](https://github.com/ryankiros/neural-storyteller)
+
 **A Neural Attention Model for Abstractive Sentence Summarization(EMNLP 2015. Facebook AI Research)**
 
 - arXiv: [http://arxiv.org/abs/1509.00685](http://arxiv.org/abs/1509.00685)
