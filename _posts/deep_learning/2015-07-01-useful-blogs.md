@@ -146,8 +146,14 @@ title: Useful Blogs
 
 [http://auduno.com/post/125362849838/visualizing-googlenet-classes](http://auduno.com/post/125362849838/visualizing-googlenet-classes)
 
-# 
+#
 
 "Why GEMM is at the heart of deep learning"
 
 [http://petewarden.com/2015/04/20/why-gemm-is-at-the-heart-of-deep-learning/](http://petewarden.com/2015/04/20/why-gemm-is-at-the-heart-of-deep-learning/)
+
+# Tutorial
+
+"Deep Learning in a Nutshell: Core Concepts"
+
+[http://devblogs.nvidia.com/parallelforall/deep-learning-nutshell-core-concepts/](http://devblogs.nvidia.com/parallelforall/deep-learning-nutshell-core-concepts/)
