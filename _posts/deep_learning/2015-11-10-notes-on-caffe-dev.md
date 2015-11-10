@@ -27,6 +27,12 @@ LMDB:
 
 Uses memory-mapped files, giving much better I/O performance. Works well with large dataset.
 
+# Create LMDB from float data
+
+[http://stackoverflow.com/questions/31774953/test-labels-for-regression-caffe-float-not-allowed](http://stackoverflow.com/questions/31774953/test-labels-for-regression-caffe-float-not-allowed)
+
+[https://github.com/BVLC/caffe/issues/1698#issuecomment-70211045](https://github.com/BVLC/caffe/issues/1698#issuecomment-70211045)
+
 # Reference
 
 [http://vision.stanford.edu/teaching/cs231n/slides/caffe_tutorial.pdf](http://vision.stanford.edu/teaching/cs231n/slides/caffe_tutorial.pdf)
