@@ -27,6 +27,21 @@ LMDB:
 
 Uses memory-mapped files, giving much better I/O performance. Works well with large dataset.
 
+Example:
+
+```shell
+layer {
+  type: "HDF5Data"
+  top: "X" # same name as given in create_dataset!
+  top: "y"
+  hdf5_data_param {
+    source: "train_h5_list.txt" # do not give the h5 files directly, but the list.
+    batch_size: 32
+  }
+  include { phase:TRAIN }
+}
+```
+
 # Create LMDB from float data
 
 [http://stackoverflow.com/questions/31774953/test-labels-for-regression-caffe-float-not-allowed](http://stackoverflow.com/questions/31774953/test-labels-for-regression-caffe-float-not-allowed)
