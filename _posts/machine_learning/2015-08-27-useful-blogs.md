@@ -70,3 +70,9 @@ title: Useful Blogs
 **机器学习(Machine Learning)&深度学习(Deep Learning)资料(Chapter 1)**
 
 [https://github.com/ty4z2008/Qix/blob/master/dl.md](https://github.com/ty4z2008/Qix/blob/master/dl.md)
+
+# Boosting
+
+"Quick Introduction to Boosting Algorithms in Machine Learning"
+
+[http://www.analyticsvidhya.com/blog/2015/11/quick-introduction-boosting-algorithms-machine-learning/](http://www.analyticsvidhya.com/blog/2015/11/quick-introduction-boosting-algorithms-machine-learning/)
