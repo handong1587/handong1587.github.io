@@ -15,13 +15,25 @@ PhD thesis: [http://www.cs.toronto.edu/~tijmen/tijmen_thesis.pdf](http://www.cs.
 
 github: [https://github.com/mrkulk/Unsupervised-Capsule-Network](https://github.com/mrkulk/Unsupervised-Capsule-Network)
 
+**DRAW: A Recurrent Neural Network For Image Generation**
+
+- arXiv: [http://arxiv.org/abs/1502.04623](http://arxiv.org/abs/1502.04623)
+
 **Generative Image Modeling Using Spatial LSTMs**
 
 - arXiv: [http://arxiv.org/abs/1506.03478](http://arxiv.org/abs/1506.03478)
 - github: [https://github.com/lucastheis/ride/](https://github.com/lucastheis/ride/)
+
+**Deep Generative Image Models using a Laplacian Pyramid of Adversarial Networks**
+
+- arXiv: [http://arxiv.org/abs/1506.05751](http://arxiv.org/abs/1506.05751)
 
 **Learning FRAME Models Using CNN Filters for Knowledge Visualization(CVPR 2015)**
 
 - arXiv: [http://arxiv.org/abs/1509.08379](http://arxiv.org/abs/1509.08379)
 - project page: [http://www.stat.ucla.edu/~yang.lu/project/deepFrame/main.html](http://www.stat.ucla.edu/~yang.lu/project/deepFrame/main.html)
 - code+data: [http://www.stat.ucla.edu/~yang.lu/project/deepFrame/doc/deepFRAME_1.1.zip](http://www.stat.ucla.edu/~yang.lu/project/deepFrame/doc/deepFRAME_1.1.zip)
+
+**Generating Images from Captions with Attention**
+
+- arXiv: [http://arxiv.org/abs/1511.02793](http://arxiv.org/abs/1511.02793)
