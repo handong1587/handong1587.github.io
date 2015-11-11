@@ -76,3 +76,9 @@ title: Useful Blogs
 "Quick Introduction to Boosting Algorithms in Machine Learning"
 
 [http://www.analyticsvidhya.com/blog/2015/11/quick-introduction-boosting-algorithms-machine-learning/](http://www.analyticsvidhya.com/blog/2015/11/quick-introduction-boosting-algorithms-machine-learning/)
+
+# Tutorial
+
+"A Brief Introduction to Graphical Models and Bayesian Networks"
+
+[http://www.cs.ubc.ca/~murphyk/Bayes/bnintro.html](http://www.cs.ubc.ca/~murphyk/Bayes/bnintro.html)
