@@ -24,9 +24,11 @@ github: [https://github.com/mrkulk/Unsupervised-Capsule-Network](https://github.
 - arXiv: [http://arxiv.org/abs/1506.03478](http://arxiv.org/abs/1506.03478)
 - github: [https://github.com/lucastheis/ride/](https://github.com/lucastheis/ride/)
 
-**Deep Generative Image Models using a Laplacian Pyramid of Adversarial Networks**
+**Deep Generative Image Models using a Laplacian Pyramid of Adversarial Networks(NIPS 2015)**
 
 - arXiv: [http://arxiv.org/abs/1506.05751](http://arxiv.org/abs/1506.05751)
+- code: [http://soumith.ch/eyescream/](http://soumith.ch/eyescream/)
+- homepage: [http://www.cs.nyu.edu/~denton/](http://www.cs.nyu.edu/~denton/)
 
 **Learning FRAME Models Using CNN Filters for Knowledge Visualization(CVPR 2015)**
 
