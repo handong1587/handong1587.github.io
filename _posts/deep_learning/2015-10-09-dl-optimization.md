@@ -40,3 +40,7 @@ title: Networks Acceleration, Parameter Pruning, Model Size Reduction
 
 - arXiv: [http://arxiv.org/abs/1510.06706](http://arxiv.org/abs/1510.06706)
 - github: [https://github.com/seung-lab/znn-release](https://github.com/seung-lab/znn-release)
+
+**Reducing the Training Time of Neural Networks by Partitioning**
+
+- arXiv: [http://arxiv.org/abs/1511.02954](http://arxiv.org/abs/1511.02954)
