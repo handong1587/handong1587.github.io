@@ -83,18 +83,15 @@ title: Open Source Deep Learning Frameworks
 - website: [https://01.org/zh/intel-deep-learning-framework?langredirect=1](https://01.org/zh/intel-deep-learning-framework?langredirect=1)
 - github: [https://github.com/01org/idlf](https://github.com/01org/idlf)
 
-
 # Benchmark
 
 [https://github.com/soumith/convnet-benchmarks](https://github.com/soumith/convnet-benchmarks)
-
 
 # Paper
 
 "Blocks and Fuel: Frameworks for deep learning"
 
 - arXiv: [http://arxiv.org/abs/1506.00619](http://arxiv.org/abs/1506.00619)
-
 
 # Reference:
 
