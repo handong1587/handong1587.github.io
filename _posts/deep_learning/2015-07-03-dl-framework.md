@@ -30,11 +30,28 @@ title: Open Source Deep Learning Frameworks
 
 **Chainer: a neural network framework**
 
+- website: [http://chainer.org/](http://chainer.org/)
 - github: [https://github.com/pfnet/chainer](https://github.com/pfnet/chainer)
+- benchmark: [http://chainer.readthedocs.org/en/latest/comparison.html](http://chainer.readthedocs.org/en/latest/comparison.html)
+
+**Purine: A bi-graph based deep learning framework**
+
+- github: [https://github.com/purine/purine2](https://github.com/purine/purine2)
+- arXiv: [http://arxiv.org/abs/1412.6249](http://arxiv.org/abs/1412.6249)
+
+**neon: Nervana’s Python-based deep learning library**
+
+- website: [http://neon.nervanasys.com/docs/latest/index.html](http://neon.nervanasys.com/docs/latest/index.html)
+- github: [https://github.com/NervanaSystems/neon](https://github.com/NervanaSystems/neon)
 
 **Keras: Theano-based Deep Learning library**
 
 - github: [https://github.com/fchollet/keras](https://github.com/fchollet/keras)
+
+**Petuum: a distributed machine learning framework**
+
+- website: [http://petuum.github.io/](http://petuum.github.io/)
+- github: [https://github.com/petuum/bosen](https://github.com/petuum/bosen)
 
 **TensorFlow**
 
@@ -56,6 +73,29 @@ title: Open Source Deep Learning Frameworks
 - website: [http://marvin.is/](http://marvin.is/)
 - github: [https://github.com/PrincetonVision/marvin](https://github.com/PrincetonVision/marvin)
 
+**Mocha.jl: Deep Learning for Julia**
+
+- website: [http://devblogs.nvidia.com/parallelforall/mocha-jl-deep-learning-julia/](http://devblogs.nvidia.com/parallelforall/mocha-jl-deep-learning-julia/)
+- github: [https://github.com/pluskid/Mocha.jl](https://github.com/pluskid/Mocha.jl)
+
+**The Intel® Deep Learning Framework**
+
+- website: [https://01.org/zh/intel-deep-learning-framework?langredirect=1](https://01.org/zh/intel-deep-learning-framework?langredirect=1)
+- github: [https://github.com/01org/idlf](https://github.com/01org/idlf)
+
 # Benchmark
 
 [https://github.com/soumith/convnet-benchmarks](https://github.com/soumith/convnet-benchmarks)
+
+
+# Paper
+
+"Blocks and Fuel: Frameworks for deep learning"
+
+- arXiv: [http://arxiv.org/abs/1506.00619](http://arxiv.org/abs/1506.00619)
+
+# Reference:
+
+"Frameworks and Libraries for Deep Learning"
+
+[http://creative-punch.net/2015/07/frameworks-and-libraries-for-deep-learning/](http://creative-punch.net/2015/07/frameworks-and-libraries-for-deep-learning/)
