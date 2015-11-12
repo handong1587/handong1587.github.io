@@ -19,3 +19,9 @@ title: Image Description, Image Caption Generating
 - paper: [http://www.cs.cmu.edu/~gunhee/publish/nips15_stream2text.pdf](http://www.cs.cmu.edu/~gunhee/publish/nips15_stream2text.pdf)
 - github: [https://github.com/cesc-park/CRCN](https://github.com/cesc-park/CRCN)
 - author page: [http://www.cs.cmu.edu/~gunhee/](http://www.cs.cmu.edu/~gunhee/)
+
+**Sequence to Sequence -- Video to Text(ICCV 2015)**
+
+- arXiv: [http://arxiv.org/abs/1505.00487](http://arxiv.org/abs/1505.00487)
+- project: [http://vsubhashini.github.io/s2vt.html](http://vsubhashini.github.io/s2vt.html)
+- github: [https://github.com/vsubhashini/caffe/tree/recurrent/examples/s2vt](https://github.com/vsubhashini/caffe/tree/recurrent/examples/s2vt)
