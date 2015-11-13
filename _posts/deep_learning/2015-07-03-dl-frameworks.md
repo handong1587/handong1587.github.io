@@ -98,3 +98,7 @@ title: Open Source Deep Learning Frameworks
 "Frameworks and Libraries for Deep Learning"
 
 [http://creative-punch.net/2015/07/frameworks-and-libraries-for-deep-learning/](http://creative-punch.net/2015/07/frameworks-and-libraries-for-deep-learning/)
+
+"TensorFlow vs. Theano vs. Torch"
+
+[https://github.com/zer0n/deepframeworks/blob/master/README.md](https://github.com/zer0n/deepframeworks/blob/master/README.md)
