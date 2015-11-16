@@ -23,6 +23,8 @@ For a reference: [http://english.stackexchange.com/questions/8293/how-do-you-lik
 
 *Kill Bill (2003)*: I happened to know that the original Volume 1 contains a crazy 88 fight scene - it was so bloody and violent that Quentin Tarantino had to make the famous fight scene black and white. You can check out on this: <br /> [https://thepiratebay.la/torrent/8028488/KILL_BILL__THE_WHOLE_BLOODY_AFFAIR_hd-720p_DTS](https://thepiratebay.la/torrent/8028488/KILL_BILL__THE_WHOLE_BLOODY_AFFAIR_hd-720p_DTS)
 
+*Reservoir Dogs (1992)*: "Alright ramblers, let’s get rambling!"
+
 (2012-01-26) *Psycho (1960)*:
 
 (2012-02-05) *Blade Runner (1982)*:
