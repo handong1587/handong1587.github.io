@@ -30,3 +30,8 @@ title: Adversarial Examples of Deep Learning
 **Confusing Deep Convolution Networks by Relabelling**
 
 - arXiv: [http://arxiv.org/abs/1510.06925v1](http://arxiv.org/abs/1510.06925v1)
+
+**Exploring the Space of Adversarial Images**
+
+- arXiv: [http://arxiv.org/abs/1510.05328](http://arxiv.org/abs/1510.05328)
+- github: [https://github.com/tabacof/adversarial](https://github.com/tabacof/adversarial)
