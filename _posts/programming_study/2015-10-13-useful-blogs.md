@@ -12,3 +12,7 @@ title: Useful Blogs
 **Implementations of Algorithms & Datastructures from a Geek's Viewpoint**
 
 [http://www.geekviewpoint.com/](http://www.geekviewpoint.com/)
+
+**Z algorithm**
+
+[http://ivanyu.me/blog/2013/10/15/z-algorithm/](http://ivanyu.me/blog/2013/10/15/z-algorithm/)
