@@ -40,3 +40,8 @@ github: [https://github.com/mrkulk/Unsupervised-Capsule-Network](https://github.
 
 - arXiv: [http://arxiv.org/abs/1511.02793](http://arxiv.org/abs/1511.02793)
 - demo: [http://www.cs.toronto.edu/~emansim/cap2im.html](http://www.cs.toronto.edu/~emansim/cap2im.html)
+
+**Generating Faces with Torch**
+
+- blog: [http://torch.ch/blog/2015/11/13/gan.html](http://torch.ch/blog/2015/11/13/gan.html)
+- github: [https://github.com/skaae/torch-gan](https://github.com/skaae/torch-gan)
