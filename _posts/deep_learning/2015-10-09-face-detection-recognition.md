@@ -32,3 +32,8 @@ title: Face Detection and Recognition
 **Targeting Ultimate Accuracy: Face Recognition via Deep Embedding(CVPR 2015)**
 
 - arXiv: [http://arxiv.org/abs/1506.07310](http://arxiv.org/abs/1506.07310)
+
+**Compact Convolutional Neural Network Cascade for Face Detection**
+
+- arXiv: [http://arxiv.org/abs/1508.01292](http://arxiv.org/abs/1508.01292)
+- github: [https://github.com/Bkmz21/FD-Evaluation](https://github.com/Bkmz21/FD-Evaluation)
