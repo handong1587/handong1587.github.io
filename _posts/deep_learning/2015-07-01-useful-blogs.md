@@ -157,3 +157,9 @@ title: Useful Blogs
 "Deep Learning in a Nutshell: Core Concepts"
 
 [http://devblogs.nvidia.com/parallelforall/deep-learning-nutshell-core-concepts/](http://devblogs.nvidia.com/parallelforall/deep-learning-nutshell-core-concepts/)
+
+# Gradient Descent
+
+"Fitting a model via closed-form equations vs. Gradient Descent vs Stochastic Gradient Descent vs Mini-Batch Learning. What is the difference?(Normal Equations vs. GD vs. SGD vs. MB-GD)"
+
+[http://sebastianraschka.com/faq/docs/closed-form-vs-gd.html](http://sebastianraschka.com/faq/docs/closed-form-vs-gd.html)
