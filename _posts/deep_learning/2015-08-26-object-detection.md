@@ -241,6 +241,7 @@ $$
 
 - paper: [http://arxiv.org/abs/1506.02640](http://arxiv.org/abs/1506.02640)
 - code: [http://pjreddie.com/darknet/yolo/](http://pjreddie.com/darknet/yolo/)
+- github: [https://github.com/pjreddie/darknet](https://github.com/pjreddie/darknet)
 
 **End-to-end people detection in crowded scenes**
 
