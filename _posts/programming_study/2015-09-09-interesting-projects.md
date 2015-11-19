@@ -74,3 +74,11 @@ title: Interesting Projects
 
 - project: [http://rfcapture.csail.mit.edu/](http://rfcapture.csail.mit.edu/)
 - paper: [http://rfcapture.csail.mit.edu/rfcapture-paper.pdf](http://rfcapture.csail.mit.edu/rfcapture-paper.pdf)
+
+**2048-AI**
+
+<img src="/assets/programming_study/2048.png" width="800"/>
+
+- demo: [http://ov3y.github.io/2048-AI/](http://ov3y.github.io/2048-AI/)
+- github: [https://github.com/ov3y/2048-AI/](https://github.com/ov3y/2048-AI/)
+- stackoverflow: [http://stackoverflow.com/questions/22342854/what-is-the-optimal-algorithm-for-the-game-2048](http://stackoverflow.com/questions/22342854/what-is-the-optimal-algorithm-for-the-game-2048)
