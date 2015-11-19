@@ -93,7 +93,7 @@ title: Open Source Deep Learning Frameworks
 
 - arXiv: [http://arxiv.org/abs/1506.00619](http://arxiv.org/abs/1506.00619)
 
-# Reference:
+# Reference
 
 "Frameworks and Libraries for Deep Learning"
 
