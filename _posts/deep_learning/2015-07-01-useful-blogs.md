@@ -158,6 +158,10 @@ title: Useful Blogs
 
 [http://devblogs.nvidia.com/parallelforall/deep-learning-nutshell-core-concepts/](http://devblogs.nvidia.com/parallelforall/deep-learning-nutshell-core-concepts/)
 
+"A Deep Learning Tutorial: From Perceptrons to Deep Networks"
+
+[http://www.toptal.com/machine-learning/an-introduction-to-deep-learning-from-perceptrons-to-deep-networks](http://www.toptal.com/machine-learning/an-introduction-to-deep-learning-from-perceptrons-to-deep-networks)
+
 # Gradient Descent
 
 "Fitting a model via closed-form equations vs. Gradient Descent vs Stochastic Gradient Descent vs Mini-Batch Learning. What is the difference?(Normal Equations vs. GD vs. SGD vs. MB-GD)"
