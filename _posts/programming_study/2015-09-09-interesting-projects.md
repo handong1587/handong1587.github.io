@@ -82,3 +82,4 @@ title: Interesting Projects
 - demo: [http://ov3y.github.io/2048-AI/](http://ov3y.github.io/2048-AI/)
 - github: [https://github.com/ov3y/2048-AI/](https://github.com/ov3y/2048-AI/)
 - stackoverflow: [http://stackoverflow.com/questions/22342854/what-is-the-optimal-algorithm-for-the-game-2048](http://stackoverflow.com/questions/22342854/what-is-the-optimal-algorithm-for-the-game-2048)
+- zh-blog: [http://blogread.cn/it/article/6827?f=wb](http://blogread.cn/it/article/6827?f=wb)
