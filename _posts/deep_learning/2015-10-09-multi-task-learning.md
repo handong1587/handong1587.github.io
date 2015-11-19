@@ -17,4 +17,4 @@ title: Multi-task Learning
 
 **multi-task learning**
 
-[https://github.com/memect/hao/issues/93](https://github.com/memect/hao/issues/93)
+- discussion: [https://github.com/memect/hao/issues/93](https://github.com/memect/hao/issues/93)
