@@ -123,14 +123,15 @@
             {% if site.disqus.config %}
             <script type="text/javascript">
                 //disqus
-                var disqus_shortname = '{{ site.disqus.id }}';
+                var disqus_shortname = 'handong1587githubio';
                 (function() {
                     var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
-                    dsq.src = 'http://' + disqus_shortname + '.disqus.com/embed.js';
+                    dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
                     (document.getElementsByTagName('head')[0] ||
                         document.getElementsByTagName('body')[0]).appendChild(dsq);
                 })();
             </script>
+            <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript" rel="nofollow">comments powered by Disqus.</a></noscript>
             {% else %}
                 {% if site.duoshuo.config %}
                 <script type="text/javascript">

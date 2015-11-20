@@ -45,7 +45,7 @@ timezone:      null
 title: handong1587
 description: handong1587's blog
 keywords: Machine Learning
-url: handong1587.github.io
+#url: handong1587.github.io
 feed: /atom.xml
 favicon: /images/shortcut.jpg
 
