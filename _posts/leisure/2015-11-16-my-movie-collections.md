@@ -396,7 +396,7 @@ title: My Movie Collections
 (377) KILL BILL [THE WHOLE BLOODY AFFAIR] hd-720p DTS [11.10G]  <br />
 (378) Kill.Bill.Vol.1&2.2003.720p.BluRay.DTS.x264-ESiR [10.91G]  <br />
 (379) La.vie.en.rose.2007.720p.BluRay.x264-WiKi [6.53G]  <br />
-(380) Le.Fabuleux.destin.d'Am¨¦lie.Poulain.2001.BluRay.720p.x264-WiKi [4.37G]  <br />
+(380) Le.Fabuleux.destin.d'AmÃ©lie.Poulain.2001.BluRay.720p.x264-WiKi [4.37G]  <br />
 (381) Leon.1994.BluRay.720p.x264.DTS-WiKi [6.50G]  <br />
 (382) Limitless.UNRATED.720p.Bluray.x264-MHD [4.37G]  <br />
 (383) Lock.Stock.and.Two.Smoking.Barrels.1998.BluRay.720p.x264.DTS-WiKi [4.37G]  <br />
@@ -522,92 +522,92 @@ title: My Movie Collections
 **L:/Movie(Asia)/**
 
 (502) 2046.2004.KOR.Bluray.1080p.DTS-HD.x264-Grym [13.95G]  <br />
-(503) [Ò»´ú×ÚÊ¦].The.Grandmaster.2013.US.720p.BluRay.x264.DTS-WiKi [5.47G]  <br />
-(504) [ÆßÎäÊ¿].Seven.Samurai.1954.BluRay.720p.x264.AC3-CMCT [4.80G]  <br />
-(505) [¶«¾©×àÃùÇú].Tokijskaja.sonata.2008..x264.BDRip(720p) [7.83G]  <br />
-(506) [¶«Ğ°Î÷¶¾ÖÕ¼«°æ].Ashes.Of.Time.Redux.2008.720p.BluRay.x264.DTS-WiKi [4.38G]  <br />
-(507) [Ù»Å®ÓÄ»êÈı²¿Çú].A.Chinese.Ghost.Story.Trilogy.1987-1991.720p.BluRay.x264.DTS.AC3.3Audios-HDWinG [19.53G]  <br />
-(508) [¹ØÓÚÀòÀòÖÜµÄÒ»ÇĞ].All.About.Lily.Chou-Chou.2001.BluRay.720p.DTS.x264-CHD [6.54G]  <br />
-(509) [Ğ×±©µÄÄĞÈË].Violent.Cop.1989.DVDRIP.XVID.AC3-MAJESTiC [1.56G]  <br />
-(510) [Á¦Íõ].The.Story.of.Ricky.1991.BluRay.720p.DTS.2Audio.x264-CHD [4.77G]  <br />
-(511) [ÄÏ¼«ÁÏÀíÈË].Nankyoku.Ryorinin.2009.BluRay.720p.x264-YYeTs [PublicHD] [4.37G]  <br />
-(512) [ÎÔ»¢²ØÁú].Crouching.Tiger.Hidden.Dragon.2000.720p.BluRay.x264-SiNNERS [6.56G]  <br />
-(513) [ºó»áÎŞÆÚ].The.Continent.2014.720p.BluRay.x264-WiKi [3.50G]  <br />
-(514) [ÎâÇåÔ´].The.Go.Master.2006.DVDRip.XviD-MESS [0.68G]  <br />
-(515) [ÄÄ°¡ÄÄ°¡ÉñÈ¥´å].Wood.Job.2014.720p.BluRay.x264-WiKi [5.82G]  <br />
-(516) [ËÄÔÂÎïÓï].April.Story.1998.1080p.BluRay.x264.AC3-ONe [4.37G]  <br />
-(517) [ÔÚÊÀ½çÖĞĞÄºô»½°®].Crying.Out.Love.In.The.Center.Of.The.World.2004.JP.R2.DVDRip.x264.AC3-Ne [1.36G]  <br />
-(518) [»µº¢×ÓµÄÌì¿Õ].Kids.Return.1996.720p.BluRay.x264-PublicHD [5.00G]  <br />
-(519) [»µº¢×ÓµÄÌì¿Õ].Kids.Return.1996.DVDRip.DivX.AC3.iNT-MaskX [1.37G]  <br />
-(520) [¶éÂäÌìÊ¹].Fallen.Angels.1995.720p.BluRay.x264.DTS-WiKi [4.37G]  <br />
-(521) [ÈÉÉúÒåÊ¿´«].When.The.Last.Sword.Is.Drawn.2003.720p.BRRip.x264.(mkv).[TFRG] [3.66G]  <br />
-(522) [´ó»°Î÷ÓÎÖ®ÔÂ¹â±¦ºĞ].A.Chinese.Odyssey.Part.I.Pandoras.Box.1994.BluRay.720p.x264.DTS-WiKi [4.38G]  <br />
-(523) [´ó»°Î÷ÓÎÖ®ÔÂ¹â±¦ºĞ].A.Chinese.Odyssey.Part.II.Cinderella.1994.BluRay.720p.x264.DTS-WiKi [4.37G]  <br />
-(524) [´óÌÓÉ±].Battle.Royale.2000.Directors.Cut.720p.BluRay.x264-SEVENTWENTY [6.55G]  <br />
-(525) [ÌìÏÂÎŞË«].[Chinese.Odyssey.2002.DVDRip.x264.AC3][ÖĞÎÄ×ÖÄ»][DVDRip] [1.38G]  <br />
-(526) [¶á±¦ÁªÃË].The.Thieves.2012.BluRay.720p.DTS.x264-CHD [6.01G]  <br />
-(527) [×àÃùÇú].Sonatine.1993.720p.WEB-DL.H264-CtrlHD [PublicHD] [2.75G]  <br />
-(528) [ÏÓÒÉ·¸XµÄÏ×Éí].Suspect.X.2008.BluRay.720p.DTS.2Audio.x264-CHD [5.50G]  <br />
-(529) [ËÎ¼Ò»Ê³¯].The.Soong.Sisters.1997.720p.BluRay.x264.DTS-WiKi [10.58G]  <br />
-(530) [µ¼ÑİÍòËê£¡].glory.to.the.filmmaker.2007.dvdrip.xvid.ac3.6ch-[gx] [1.46G]  <br />
-(531) [×ùÍ·ÊĞ].Zatoichi.2003.720p.BluRay.x264-CiNEFiLE [6.56G]  <br />
-(532) [½¨¹ú´óÒµ].The.Founding.of.A.Republic.2009.720p.BluRay.x264.DTS-WiKi [6.63G]  <br />
-(533) [Áµ°®µÄÏ¬Å£].1999.VCDRip.DivX [0.24G]  <br />
-(534) [Áµ¿Õ].Koizora.2007.720p.HDTV.AC3.x264-PiGO [4.38G]  <br />
-(535) [ÇéÊé].Love.Letter.1995.720p.BluRay.x264.DTS-WiKi [PublicHD] [5.47G]  <br />
-(536) [ÎÒµÄÒ°ÂùÅ®ÓÑ].My.Sassy.Girl.2001.720p.BluRay.x264.DTS-WiKi [7.55G]  <br />
-(537) [Å²ÍşµÄÉ­ÁÖ].Norwegian.Wood.2010.720p.BluRay.x264-WiKi [5.50G]  <br />
-(538) [ÎŞ¼äµÀÈı²¿Çú].Infernal.Affairs.Trilogy.BluRay.720P.x264.DTS-WiKi [19.68G]  <br />
-(539) [°µÕ½].Running.Out.Of.Time.1999.REPACK.720p.BluRay.2Audio.x264-WiKi [4.38G]  <br />
-(540) [×îºÃµÄÊ±¹â].three.times.2005 [1.37G]  <br />
-(541) [É±ÊÖ°¢Ò»Ç°´«].Koroshiya 1 aka Ichi The Killer Sonata Premiere [0.76G]  <br />
-(542) [Ç¹»ğ].The.Mission.1999.DVDRip.x264.AC3.2Audios¹úÔÁË«Óï¼ò·±×ÖÄ» [1.19G]  <br />
-(543) [Ç¹Íõ].Double.Tap.2000.720p.BluRay.x264.DTS.AC3.2Audio-HDChina [6.56G]  <br />
-(544) [°ØÁÖ].The.Berlin.File.2013.BluRay.1080p.DTS.x264-CHD [9.49G]  <br />
-(545) [ºáµÀÊÀÖ®½é].A.Story.of.Yonosuke.2013.BluRay.720p.x264.AC3-CMCT [4.60G]  <br />
-(546) [¶¾Õ½].Drug.War.2013.720p.BluRay.x264-WiKi [4.38G]  <br />
-(547) [ÀË¿Í½£ĞÄ].Rurouni.Kenshin.2012.BluRay.720p.AC3.x264-CHD [5.01G]  <br />
-(548) [ÀË¿Í½£ĞÄ£º¾©¶¼´ó»ğÆª].Rurouni.Kenshin.Kyoto.Inferno.2014.720p.BluRay.x264-WiKi [6.56G]  <br />
-(549) [ÀË¿Í½£ĞÄ£º´«ËµµÄÍê½áÆª].Rurouni.Kenshin.The.Legend.Ends.2014.720p.BluRay.x264-WiKi [6.56G]  <br />
-(550) [ÑàÎ²µû].Swallowtail.Butterfly.1996.BluRay.1080p.DTS.x264-CHD [PublicHD [9.99G]  <br />
-(551) [°®ÇéÂéÀ±ÌÌ].Spicy.Love.Soup.1997.720p.HDTV.x264.AC3-CMCT [1.94G]  <br />
-(552) [¶À×ÔµÈ´ı].Waiting.Alone.2004.720p.BluRay.x264-WiKi [5.48G]  <br />
-(553) [ÓÃĞÄ°ô].Yojimbo.1961.720p.BluRay.x264-SiNNERS [4.37G]  <br />
-(554) [·è¿ñµÄÈü³µ].Silver.Medalist.2009.HDTV.720p.x264-CHDTV [4.50G]  <br />
-(555) [µÁÔ¿³×µÄ·½·¨].Key.of.Life.2012.720p.BluRay.x264-WiKi [7.95G]  <br />
-(556) [ÃëËÙ5ÀåÃ×].5.Centimeters.Per.Second.2007.BluRay.720p.x264.AC3.3Audios-CMCT [2.20G]  <br />
-(557) [ÃØÃÜ].Secret.1999.720p.BluRay.x264-WiKi [7.00G]  <br />
-(558) [Ğ¦°Á½­ºş2£º¶«·½²»°Ü].Swordsman.2.1992.720p.BluRay.x264-WiKi [8.08G]  <br />
-(559) [Ğ¦°Á½­ºş3£º¶«·½²»°Ü·çÔÆÔÙÆğ]Swordsman.3.The.East.Is.Red.1993.720p.BluRay.x264-WiKi [7.27G]  <br />
-(560) [Ğ¦°Á½­ºş].Swordsman.1990.720p.BluRay.x264.DTS.AC3.2Audio-HDWinG [7.00G]  <br />
-(561) [¾«ÎäÓ¢ĞÛ].Fist.of.Legend.1994.BluRay.720P.AC3.2Audio.x264-CMCT [5.40G]  <br />
-(562) [×İºáËÄº£].Once.A.Thief.1991.720p.BluRay.x264-WiKi [4.38G]  <br />
-(563) [ëÙÖ¬¿Û].Rouge.1988.720p.BluRay.x264.DTS.AC3.Dual.Audio-HDChina [5.51G]  <br />
-(564) [É«½ä].Lust.Caution.2007.BluRay.720p.x264.DTS-WiKi [6.50G]  <br />
-(565) [»¨Óë°®ÀöË¿].Hana.And.Alice.2004.720p.BluRay.x264-WiKi [7.50G]  <br />
-(566) [»¨ÑùÄê»ª].In.The.Mood.For.Love.2000.720p.BluRay.x264-CiNEFiLE [PublicHD] [4.37G]  <br />
-(567) [¾Õ´ÎÀÉµÄÏÄÌì].Kikujiro.No.Natsu.1999.DVDRip [1.35G]  <br />
-(568) [±»ÏÓÆúµÄËÉ×ÓµÄÒ»Éú].Memories.of.Matsuko.2006.720p.HDTV.AC3.x264-AML [4.37G]  <br />
-(569) [´¥²»µ½µÄÁµÈË].Il.Mare.2000.720p.BluRay.x264-WiKi [4.85G]  <br />
-(570) [¾¯²ì¹ÊÊÂËÄ²¿Çú].Police.Story.Quadrilogy.1985-2004.720p.BluRay.x264.DTS.AC3.2Audio-HDWinG [27.12G]  <br />
-(571) [ÈÃ×Óµ¯·É].Let.the.Bullets.Fly.2010.BluRay.720p.DTS.2Audio.x264-CHD [6.54G]  <br />
-(572) [ÄÇÄêÏÄÌì£¬Äş¾²µÄº£].A.Scene.At.The.Sea.1991.DVDRip.XviD [1.29G]  <br />
-(573) [ÖØĞÂÉ­ÁÖ].Chungking.Express.1994.HK.BluRay.720p.2Audio.DTS.x264-beAst [6.06G]  <br />
-(574) [Ò°ÂùÊ¦½ã].Windstruck.HDTV.720p.x264 [4.30G]  <br />
-(575) [ÌúµÀÔ±].The.Railroader.1999.720p.BluRay.x264-WiKi [7.96G]  <br />
-(576) [ÈîÁáÓñ].Centre.Stage.1992.720p.BluRay.x264-MELiTE[rarbg] [6.56G]  <br />
-(577) [Ñô¹â²ÓÀÃµÄÈÕ×Ó].In.the.Heat.of.the.Sun(140·ÖÖÓ×ã°æ.°üº¬128·ÖÖÓ¹ú¼Ê°æÕıÆ¬ÒÔ¼°12·ÖÖÓÉ¾¼õÆ¬¶Î) [1.12G]  <br />
-(578) [Ñô¹â²ÓÀÃµÄÈÕ×Ó].In.The.Heat.Of.The.Sun.Dvdrip.Divx-imbt [1.37G]  <br />
-(579) [°¢·ÉÕı´«].Days.Of.Being.Wild.1991.BluRay.720p.x264.DTS-WiKi [4.38G]  <br />
-(580) [³û¾Õ(µ¼Ñİ¼ô¼­°æ).Daisy.2006.DVDRip.x264.DTS-CMCT [2.60G]  <br />
-(581) [°ÔÍõ±ğ¼§].Farewell.My.Concubine.1993.Bluray.720p.AC3.x264-CHD [6.54G]  <br />
-(582) [ÒÃºÍÔ°].Summer.Palace.2006.DVDRip.XviD-MOC [1.38G]  <br />
-(583) [·çÉù].The.Messages.2009.720p.BluRay.x264.DTS-WiKi [6.56G]  <br />
-(584) [ÒûÊ³ÄĞÅ®].Eat.Drink.Man.Woman.1994.720p.BluRay.x264-PublicHD [5.47G]  <br />
-(585) [¹í×ÓÀ´ÁË].Devils.on.the.Doorstep.2000.DVD.AC3.MiniSD-mFANs [1.86G]  <br />
-(586) [»Æ»èÇå±øÎÀ].The.Twilight.Samurai.2002.720p.BluRay.x264-WiKi [7.34G]  <br />
-(587) [ºÚÉç»áI-II].Election.I-II.2005-2006.BluRay.720p.x264.DTS-HDWinG [12.33G]  <br />
-(588) [ºÚÉç»á].Election.2005.720p.BluRay.DTS.x264-DON [PublicHD] [4.38G]  <br />
+(503) [ä¸€ä»£å®—å¸ˆ].The.Grandmaster.2013.US.720p.BluRay.x264.DTS-WiKi [5.47G]  <br />
+(504) [ä¸ƒæ­¦å£«].Seven.Samurai.1954.BluRay.720p.x264.AC3-CMCT [4.80G]  <br />
+(505) [ä¸œäº¬å¥é¸£æ›²].Tokijskaja.sonata.2008..x264.BDRip(720p) [7.83G]  <br />
+(506) [ä¸œé‚ªè¥¿æ¯’ç»ˆæç‰ˆ].Ashes.Of.Time.Redux.2008.720p.BluRay.x264.DTS-WiKi [4.38G]  <br />
+(507) [å€©å¥³å¹½é­‚ä¸‰éƒ¨æ›²].A.Chinese.Ghost.Story.Trilogy.1987-1991.720p.BluRay.x264.DTS.AC3.3Audios-HDWinG [19.53G]  <br />
+(508) [å…³äºè‰è‰å‘¨çš„ä¸€åˆ‡].All.About.Lily.Chou-Chou.2001.BluRay.720p.DTS.x264-CHD [6.54G]  <br />
+(509) [å‡¶æš´çš„ç”·äºº].Violent.Cop.1989.DVDRIP.XVID.AC3-MAJESTiC [1.56G]  <br />
+(510) [åŠ›ç‹].The.Story.of.Ricky.1991.BluRay.720p.DTS.2Audio.x264-CHD [4.77G]  <br />
+(511) [å—ææ–™ç†äºº].Nankyoku.Ryorinin.2009.BluRay.720p.x264-YYeTs [PublicHD] [4.37G]  <br />
+(512) [å§è™è—é¾™].Crouching.Tiger.Hidden.Dragon.2000.720p.BluRay.x264-SiNNERS [6.56G]  <br />
+(513) [åä¼šæ— æœŸ].The.Continent.2014.720p.BluRay.x264-WiKi [3.50G]  <br />
+(514) [å´æ¸…æº].The.Go.Master.2006.DVDRip.XviD-MESS [0.68G]  <br />
+(515) [å“ªå•Šå“ªå•Šç¥å»æ‘].Wood.Job.2014.720p.BluRay.x264-WiKi [5.82G]  <br />
+(516) [å››æœˆç‰©è¯­].April.Story.1998.1080p.BluRay.x264.AC3-ONe [4.37G]  <br />
+(517) [åœ¨ä¸–ç•Œä¸­å¿ƒå‘¼å”¤çˆ±].Crying.Out.Love.In.The.Center.Of.The.World.2004.JP.R2.DVDRip.x264.AC3-Ne [1.36G]  <br />
+(518) [åå­©å­çš„å¤©ç©º].Kids.Return.1996.720p.BluRay.x264-PublicHD [5.00G]  <br />
+(519) [åå­©å­çš„å¤©ç©º].Kids.Return.1996.DVDRip.DivX.AC3.iNT-MaskX [1.37G]  <br />
+(520) [å •è½å¤©ä½¿].Fallen.Angels.1995.720p.BluRay.x264.DTS-WiKi [4.37G]  <br />
+(521) [å£¬ç”Ÿä¹‰å£«ä¼ ].When.The.Last.Sword.Is.Drawn.2003.720p.BRRip.x264.(mkv).[TFRG] [3.66G]  <br />
+(522) [å¤§è¯è¥¿æ¸¸ä¹‹æœˆå…‰å®ç›’].A.Chinese.Odyssey.Part.I.Pandoras.Box.1994.BluRay.720p.x264.DTS-WiKi [4.38G]  <br />
+(523) [å¤§è¯è¥¿æ¸¸ä¹‹æœˆå…‰å®ç›’].A.Chinese.Odyssey.Part.II.Cinderella.1994.BluRay.720p.x264.DTS-WiKi [4.37G]  <br />
+(524) [å¤§é€ƒæ€].Battle.Royale.2000.Directors.Cut.720p.BluRay.x264-SEVENTWENTY [6.55G]  <br />
+(525) [å¤©ä¸‹æ— åŒ].[Chinese.Odyssey.2002.DVDRip.x264.AC3][ä¸­æ–‡å­—å¹•][DVDRip] [1.38G]  <br />
+(526) [å¤ºå®è”ç›Ÿ].The.Thieves.2012.BluRay.720p.DTS.x264-CHD [6.01G]  <br />
+(527) [å¥é¸£æ›²].Sonatine.1993.720p.WEB-DL.H264-CtrlHD [PublicHD] [2.75G]  <br />
+(528) [å«Œç–‘çŠ¯Xçš„çŒ®èº«].Suspect.X.2008.BluRay.720p.DTS.2Audio.x264-CHD [5.50G]  <br />
+(529) [å®‹å®¶çš‡æœ].The.Soong.Sisters.1997.720p.BluRay.x264.DTS-WiKi [10.58G]  <br />
+(530) [å¯¼æ¼”ä¸‡å²ï¼].glory.to.the.filmmaker.2007.dvdrip.xvid.ac3.6ch-[gx] [1.46G]  <br />
+(531) [åº§å¤´å¸‚].Zatoichi.2003.720p.BluRay.x264-CiNEFiLE [6.56G]  <br />
+(532) [å»ºå›½å¤§ä¸š].The.Founding.of.A.Republic.2009.720p.BluRay.x264.DTS-WiKi [6.63G]  <br />
+(533) [æ‹çˆ±çš„çŠ€ç‰›].1999.VCDRip.DivX [0.24G]  <br />
+(534) [æ‹ç©º].Koizora.2007.720p.HDTV.AC3.x264-PiGO [4.38G]  <br />
+(535) [æƒ…ä¹¦].Love.Letter.1995.720p.BluRay.x264.DTS-WiKi [PublicHD] [5.47G]  <br />
+(536) [æˆ‘çš„é‡è›®å¥³å‹].My.Sassy.Girl.2001.720p.BluRay.x264.DTS-WiKi [7.55G]  <br />
+(537) [æŒªå¨çš„æ£®æ—].Norwegian.Wood.2010.720p.BluRay.x264-WiKi [5.50G]  <br />
+(538) [æ— é—´é“ä¸‰éƒ¨æ›²].Infernal.Affairs.Trilogy.BluRay.720P.x264.DTS-WiKi [19.68G]  <br />
+(539) [æš—æˆ˜].Running.Out.Of.Time.1999.REPACK.720p.BluRay.2Audio.x264-WiKi [4.38G]  <br />
+(540) [æœ€å¥½çš„æ—¶å…‰].three.times.2005 [1.37G]  <br />
+(541) [æ€æ‰‹é˜¿ä¸€å‰ä¼ ].Koroshiya 1 aka Ichi The Killer Sonata Premiere [0.76G]  <br />
+(542) [æªç«].The.Mission.1999.DVDRip.x264.AC3.2Audioså›½ç²¤åŒè¯­ç®€ç¹å­—å¹• [1.19G]  <br />
+(543) [æªç‹].Double.Tap.2000.720p.BluRay.x264.DTS.AC3.2Audio-HDChina [6.56G]  <br />
+(544) [æŸæ—].The.Berlin.File.2013.BluRay.1080p.DTS.x264-CHD [9.49G]  <br />
+(545) [æ¨ªé“ä¸–ä¹‹ä»‹].A.Story.of.Yonosuke.2013.BluRay.720p.x264.AC3-CMCT [4.60G]  <br />
+(546) [æ¯’æˆ˜].Drug.War.2013.720p.BluRay.x264-WiKi [4.38G]  <br />
+(547) [æµªå®¢å‰‘å¿ƒ].Rurouni.Kenshin.2012.BluRay.720p.AC3.x264-CHD [5.01G]  <br />
+(548) [æµªå®¢å‰‘å¿ƒï¼šäº¬éƒ½å¤§ç«ç¯‡].Rurouni.Kenshin.Kyoto.Inferno.2014.720p.BluRay.x264-WiKi [6.56G]  <br />
+(549) [æµªå®¢å‰‘å¿ƒï¼šä¼ è¯´çš„å®Œç»“ç¯‡].Rurouni.Kenshin.The.Legend.Ends.2014.720p.BluRay.x264-WiKi [6.56G]  <br />
+(550) [ç‡•å°¾è¶].Swallowtail.Butterfly.1996.BluRay.1080p.DTS.x264-CHD [PublicHD [9.99G]  <br />
+(551) [çˆ±æƒ…éº»è¾£çƒ«].Spicy.Love.Soup.1997.720p.HDTV.x264.AC3-CMCT [1.94G]  <br />
+(552) [ç‹¬è‡ªç­‰å¾…].Waiting.Alone.2004.720p.BluRay.x264-WiKi [5.48G]  <br />
+(553) [ç”¨å¿ƒæ£’].Yojimbo.1961.720p.BluRay.x264-SiNNERS [4.37G]  <br />
+(554) [ç–¯ç‹‚çš„èµ›è½¦].Silver.Medalist.2009.HDTV.720p.x264-CHDTV [4.50G]  <br />
+(555) [ç›—é’¥åŒ™çš„æ–¹æ³•].Key.of.Life.2012.720p.BluRay.x264-WiKi [7.95G]  <br />
+(556) [ç§’é€Ÿ5å˜ç±³].5.Centimeters.Per.Second.2007.BluRay.720p.x264.AC3.3Audios-CMCT [2.20G]  <br />
+(557) [ç§˜å¯†].Secret.1999.720p.BluRay.x264-WiKi [7.00G]  <br />
+(558) [ç¬‘å‚²æ±Ÿæ¹–2ï¼šä¸œæ–¹ä¸è´¥].Swordsman.2.1992.720p.BluRay.x264-WiKi [8.08G]  <br />
+(559) [ç¬‘å‚²æ±Ÿæ¹–3ï¼šä¸œæ–¹ä¸è´¥é£äº‘å†èµ·]Swordsman.3.The.East.Is.Red.1993.720p.BluRay.x264-WiKi [7.27G]  <br />
+(560) [ç¬‘å‚²æ±Ÿæ¹–].Swordsman.1990.720p.BluRay.x264.DTS.AC3.2Audio-HDWinG [7.00G]  <br />
+(561) [ç²¾æ­¦è‹±é›„].Fist.of.Legend.1994.BluRay.720P.AC3.2Audio.x264-CMCT [5.40G]  <br />
+(562) [çºµæ¨ªå››æµ·].Once.A.Thief.1991.720p.BluRay.x264-WiKi [4.38G]  <br />
+(563) [èƒ­è„‚æ‰£].Rouge.1988.720p.BluRay.x264.DTS.AC3.Dual.Audio-HDChina [5.51G]  <br />
+(564) [è‰²æˆ’].Lust.Caution.2007.BluRay.720p.x264.DTS-WiKi [6.50G]  <br />
+(565) [èŠ±ä¸çˆ±ä¸½ä¸].Hana.And.Alice.2004.720p.BluRay.x264-WiKi [7.50G]  <br />
+(566) [èŠ±æ ·å¹´å].In.The.Mood.For.Love.2000.720p.BluRay.x264-CiNEFiLE [PublicHD] [4.37G]  <br />
+(567) [èŠæ¬¡éƒçš„å¤å¤©].Kikujiro.No.Natsu.1999.DVDRip [1.35G]  <br />
+(568) [è¢«å«Œå¼ƒçš„æ¾å­çš„ä¸€ç”Ÿ].Memories.of.Matsuko.2006.720p.HDTV.AC3.x264-AML [4.37G]  <br />
+(569) [è§¦ä¸åˆ°çš„æ‹äºº].Il.Mare.2000.720p.BluRay.x264-WiKi [4.85G]  <br />
+(570) [è­¦å¯Ÿæ•…äº‹å››éƒ¨æ›²].Police.Story.Quadrilogy.1985-2004.720p.BluRay.x264.DTS.AC3.2Audio-HDWinG [27.12G]  <br />
+(571) [è®©å­å¼¹é£].Let.the.Bullets.Fly.2010.BluRay.720p.DTS.2Audio.x264-CHD [6.54G]  <br />
+(572) [é‚£å¹´å¤å¤©ï¼Œå®é™çš„æµ·].A.Scene.At.The.Sea.1991.DVDRip.XviD [1.29G]  <br />
+(573) [é‡æ–°æ£®æ—].Chungking.Express.1994.HK.BluRay.720p.2Audio.DTS.x264-beAst [6.06G]  <br />
+(574) [é‡è›®å¸ˆå§].Windstruck.HDTV.720p.x264 [4.30G]  <br />
+(575) [é“é“å‘˜].The.Railroader.1999.720p.BluRay.x264-WiKi [7.96G]  <br />
+(576) [é˜®ç²ç‰].Centre.Stage.1992.720p.BluRay.x264-MELiTE[rarbg] [6.56G]  <br />
+(577) [é˜³å…‰ç¿çƒ‚çš„æ—¥å­].In.the.Heat.of.the.Sun(140åˆ†é’Ÿè¶³ç‰ˆ.åŒ…å«128åˆ†é’Ÿå›½é™…ç‰ˆæ­£ç‰‡ä»¥åŠ12åˆ†é’Ÿåˆ å‡ç‰‡æ®µ) [1.12G]  <br />
+(578) [é˜³å…‰ç¿çƒ‚çš„æ—¥å­].In.The.Heat.Of.The.Sun.Dvdrip.Divx-imbt [1.37G]  <br />
+(579) [é˜¿é£æ­£ä¼ ].Days.Of.Being.Wild.1991.BluRay.720p.x264.DTS-WiKi [4.38G]  <br />
+(580) [é›èŠ(å¯¼æ¼”å‰ªè¾‘ç‰ˆ).Daisy.2006.DVDRip.x264.DTS-CMCT [2.60G]  <br />
+(581) [éœ¸ç‹åˆ«å§¬].Farewell.My.Concubine.1993.Bluray.720p.AC3.x264-CHD [6.54G]  <br />
+(582) [é¢å’Œå›­].Summer.Palace.2006.DVDRip.XviD-MOC [1.38G]  <br />
+(583) [é£å£°].The.Messages.2009.720p.BluRay.x264.DTS-WiKi [6.56G]  <br />
+(584) [é¥®é£Ÿç”·å¥³].Eat.Drink.Man.Woman.1994.720p.BluRay.x264-PublicHD [5.47G]  <br />
+(585) [é¬¼å­æ¥äº†].Devils.on.the.Doorstep.2000.DVD.AC3.MiniSD-mFANs [1.86G]  <br />
+(586) [é»„æ˜æ¸…å…µå«].The.Twilight.Samurai.2002.720p.BluRay.x264-WiKi [7.34G]  <br />
+(587) [é»‘ç¤¾ä¼šI-II].Election.I-II.2005-2006.BluRay.720p.x264.DTS-HDWinG [12.33G]  <br />
+(588) [é»‘ç¤¾ä¼š].Election.2005.720p.BluRay.DTS.x264-DON [PublicHD] [4.38G]  <br />
 
 **L:/Movie(Comics)/**
 
@@ -681,7 +681,7 @@ title: My Movie Collections
 (653) Camp.X-Ray.2014.720p.BluRay.x264.DTS-WiKi [5.94G]  <br />
 (654) Carnage.2011.LIMITED.1080p.BluRay.x264-SPARKS [5.47G]  <br />
 (655) Casino.1995.BluRay.720p.x264.DTS-WiKi [7.95G]  <br />
-(656) Cet.obscur.objet.du.d¨¦sir.1977.720p.BluRay.FLAC2.0.x264-HDCLUB [6.51G]  <br />
+(656) Cet.obscur.objet.du.dÃ©sir.1977.720p.BluRay.FLAC2.0.x264-HDCLUB [6.51G]  <br />
 (657) Charade.1963.1080p.BluRay.x264-CiNEFiLE [7.94G]  <br />
 (658) Children.Of.Men.2006.BluRay.720p.x264.DTS-WiKi [6.50G]  <br />
 (659) City.of.God.2002.720p.BluRay.DTS.x264-CtrlHD [6.56G]  <br />
@@ -750,7 +750,7 @@ title: My Movie Collections
 (722) Julie.and.Julia.2009.720p.BRRip.XviD.AC3-ViSiON [3.03G]  <br />
 (723) Kill.the.Messenger.2014.720p.BluRay.x264.DTS-WiKi [5.46G]  <br />
 (724) Kramer.vs.Kramer.1979.720p.BluRay.DTS.x264-DON [PublicHD] [6.55G]  <br />
-(725) La.double.vie.de.V¨¦ronique.1991.720p.BluRay.FLAC2.0.x264-EbP [5.63G]  <br />
+(725) La.double.vie.de.VÃ©ronique.1991.720p.BluRay.FLAC2.0.x264-EbP [5.63G]  <br />
 (726) Laggies.2014.BluRay.720p.x264.AC3-CMCT [3.00G]  <br />
 (727) Landscape.In.The.Mist.1988.D9.MiniSD-TLF [0.78G]  <br />
 (728) Last.Tango.In.Paris.1972.Uncut.XviD.AC3.2CD-WAF.CnEn [1.37G]  <br />
@@ -1033,13 +1033,13 @@ title: My Movie Collections
 (993) A.Cat.in.Paris.2010.BluRay.X264.AAC.720p.SDHF-NORMTEAM [0.59G]  <br />
 (994) BURN-E.BDRE.720p.x264.DD51-younghuie@MySiLU [0.19G]  <br />
 (995) WALL-E.2008.BluRay.1080p.x264.DTS-WiKi [6.50G]  <br />
-(996) [¹¥¿Ç»ú¶¯¶Ó].Ghost.in.the.Shell.1995.720p.BRRiP.x264.AAC.[Team Nanban] [0.71G]  <br />
-(997) ½ñÃô×÷Æ·¼¯ [4.20G]  <br />
-(998) ¹¬Æé¿¥ [29.52G]  <br />
+(996) [æ”»å£³æœºåŠ¨é˜Ÿ].Ghost.in.the.Shell.1995.720p.BRRiP.x264.AAC.[Team Nanban] [0.71G]  <br />
+(997) ä»Šæ•ä½œå“é›† [4.20G]  <br />
+(998) å®«å´éª [29.52G]  <br />
 
 **N:/Documentary/**
 
-(999) An.Inconvenient.Truth.HDTV.720p.AC3.2.0.x264@CHDÁªÃË [4.37G]  <br />
+(999) An.Inconvenient.Truth.HDTV.720p.AC3.2.0.x264@CHDè”ç›Ÿ [4.37G]  <br />
 (1000) Citizenfour.2014.720p.BluRay.x264-WiKi [4.47G]  <br />
 (1001) Discovery Channel Everest Avalanche Tragedy 720p HDTV x264 AAC [1.41G]  <br />
 (1002) Finding.Vivian.Maier.2013.LIMITED.DOCU.720p.BluRay.x264-GECKOS[rarbg] [3.28G]  <br />
@@ -1048,5 +1048,4 @@ title: My Movie Collections
 (1005) Sicko.2007.1080p.WEB-DL.DD5.1.H264-TrollHD [PublicHD] [4.49G]  <br />
 (1006) The.Internets.Own.Boy.The.Story.of.Aaron.Swartz.2014.WEBRiP.XViD.AC3-LEGi0N [3.21G]  <br />
 (1007) The.Thin.Blue.Line.1988.BluRay.iPad.1080p.AAC.x264-MTeamPAD [1.51G]  <br />
-(1008) [µÀÀ¼][NHK¼ÍÂ¼Æ¬]ÏÄÍşÒÄÆïĞĞ¼Í [1.48G]  <br />
-
+(1008) [é“å…°][NHKçºªå½•ç‰‡]å¤å¨å¤·éª‘è¡Œçºª [1.48G]  <br />
