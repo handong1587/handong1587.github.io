@@ -1,1 +1,1 @@
-This is my personal blog for recording my study notes, thoughts on life, etc.
+A github blog theme forked from [zJiaJun](https://github.com/zJiaJun): [https://github.com/zJiaJun/zJiaJun.github.io](https://github.com/zJiaJun/zJiaJun.github.io) .

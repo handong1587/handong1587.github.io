@@ -1,0 +1,39 @@
+---
+layout: default
+title: About
+comment: true
+keywords: Java blog,Contact
+---
+
+<div class="article">
+    <h3 class="title">{{ page.title }}</h3>
+    <div class="about">
+
+        <div class="about-text">
+            <p>{{ site.author.simpleIntro }}</p>
+            {{ site.author.detailIntro }}
+        </div>
+        <div class="about-image">
+            <img src="{{ site.author.imageLink }}" />
+        </div>
+    </div>
+    <div class="fn-clear"></div>
+    <div class="social">
+        {% for link in site.follow %}
+        <a href="{{ link.url }}" target="_blank"><i class="{{ link.class }}"></i></a>
+        {% endfor %}
+    </div>
+    <div class="fn-clear"></div>
+    <div class="contact">
+        <a href="mailto:{{ site.author.email }}">{{ site.author.email }}</a>
+    </div>
+    <div class="comment">
+        {% if site.disqus.config %}
+        <div id="disqus_thread"></div>
+        {% else %}
+            {% if site.duoshuo.config %}
+            <div class="ds-thread" data-thread-key="{{ page.title }}"></div>
+            {% endif %}
+        {% endif %}
+    </div>
+</div>

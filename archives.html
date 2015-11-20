@@ -1,0 +1,21 @@
+---
+layout: default
+title: Archives
+keywords: Java blog,Archives
+---
+<div class="article">
+    <h3 class="title">{{ page.title }}</h3>
+    {% capture post_year1 %}{{ 'now' | date: '%Y' }}{% endcapture %}
+    <ul class="article-year" data-year="{{ post_year1 }}">
+        {% for post in site.posts %}
+            {% capture post_year2 %}{{ post.date | date: '%Y' }}{% endcapture %}
+            {% if post_year1 != post_year2 %}
+                {% assign post_year1 = post_year2 %}
+    </ul>
+    <ul class="article-year" data-year="{{ post_year1 }}">
+            {% endif %}
+        <li class="fn-clear"><span>{{ post.date |  date: '%b %d' }}</span><a href="{{site.url}}{{ post.url }}">{{ post.title }}</a></li>
+        {% endfor %}
+    </ul>
+</div>
+

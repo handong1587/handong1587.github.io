@@ -1,120 +1,32 @@
 ---
 layout: default
-title: handong1587
+title: Java Blog
+keywords: Java blog,Jekyll
 ---
-
-<div id="home">
-    <h1>Deep Learning</h1>
-  <ul class="posts">
-      {% for post in site.categories.['deep_learning']%}
-      <li><span>{{ post.date | date_to_string }}</span> &raquo; <a target="_blank" a href="{{ post.url }}">{{ post.title }}</a></li>
-    {% endfor %}
-  </ul>
-
-    <h1>Machine Learning</h1>
-  <ul class="posts">
-      {% for post in site.categories.['machine_learning']%}
-      <li><span>{{ post.date | date_to_string }}</span> &raquo; <a target="_blank" a href="{{ post.url }}">{{ post.title }}</a></li>
-    {% endfor %}
-  </ul>
-
-  <h1>Computer Vision</h1>
-<ul class="posts">
-    {% for post in site.categories.['computer_vision']%}
-    <li><span>{{ post.date | date_to_string }}</span> &raquo; <a target="_blank" a href="{{ post.url }}">{{ post.title }}</a></li>
-  {% endfor %}
-</ul>
-
-<h1>Robots</h1>
-<ul class="posts">
-  {% for post in site.categories.['robots']%}
-  <li><span>{{ post.date | date_to_string }}</span> &raquo; <a target="_blank" a href="{{ post.url }}">{{ post.title }}</a></li>
+{% for post in paginator.posts %}
+    <div class="article">
+        <h3 class="title"><a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></h3>
+        <article class="rexp">
+            <p>{{ post.excerpt }}</p>
+        </article>
+        <a href="{{ site.url }}{{ post.url }}" class="more"><i class="icon-link"></i></a>
+        <div class="info">
+            <span class="info-title"><i class="icon-calendar"></i> Published: </span>
+            <span class="info-date">{{ post.date | date_to_string }}</span>
+        </div>
+    </div>
 {% endfor %}
-</ul>
-
-  <h1>Big Data</h1>
-<ul class="posts">
-  {% for post in site.categories.['big_data']%}
-  <li><span>{{ post.date | date_to_string }}</span> &raquo; <a target="_blank" a href="{{ post.url }}">{{ post.title }}</a></li>
-{% endfor %}
-</ul>
-
-<h1>Data Mining</h1>
-<ul class="posts">
-{% for post in site.categories.['data_mining']%}
-<li><span>{{ post.date | date_to_string }}</span> &raquo; <a target="_blank" a href="{{ post.url }}">{{ post.title }}</a></li>
-{% endfor %}
-</ul>
-
-<h1>CUDA Programming</h1>
-<ul class="posts">
-  {% for post in site.categories.['cuda_programming']%}
-  <li><span>{{ post.date | date_to_string }}</span> &raquo; <a target="_blank" a href="{{ post.url }}">{{ post.title }}</a></li>
-{% endfor %}
-</ul>
-
-    <h1>Algorithm and Data Structure</h1>
-  <ul class="posts">
-      {% for post in site.categories.['algorithm_and_data_structure']%}
-      <li><span>{{ post.date | date_to_string }}</span> &raquo; <a target="_blank" a href="{{ post.url }}">{{ post.title }}</a></li>
-    {% endfor %}
-  </ul>
-
-  <h1>Computer Science</h1>
-<ul class="posts">
-    {% for post in site.categories.['computer_science']%}
-    <li><span>{{ post.date | date_to_string }}</span> &raquo; <a target="_blank" a href="{{ post.url }}">{{ post.title }}</a></li>
-  {% endfor %}
-</ul>
-
-    <h1>Programming Study</h1>
-  <ul class="posts">
-      {% for post in site.categories.['programming_study']%}
-      <li><span>{{ post.date | date_to_string }}</span> &raquo; <a target="_blank" a href="{{ post.url }}">{{ post.title }}</a></li>
-    {% endfor %}
-  </ul>
-
-    <h1>Linux Study</h1>
-  <ul class="posts">
-      {% for post in site.categories.['linux_study']%}
-      <li><span>{{ post.date | date_to_string }}</span> &raquo; <a target="_blank" a href="{{ post.url }}">{{ post.title }}</a></li>
-    {% endfor %}
-  </ul>
-
-  <h1>Working On Windows</h1>
-<ul class="posts">
-    {% for post in site.categories.['working_on_windows']%}
-    <li><span>{{ post.date | date_to_string }}</span> &raquo; <a target="_blank" a href="{{ post.url }}">{{ post.title }}</a></li>
-  {% endfor %}
-</ul>
-
-  <h1>Media</h1>
-  <ul class="posts">
-    {% for post in site.categories.['media']%}
-    <li><span>{{ post.date | date_to_string }}</span> &raquo; <a target="_blank" a href="{{ post.url }}">{{ post.title }}</a></li>
-  {% endfor %}
-  </ul>
-
-  <h1>Reading and Thoughts</h1>
-  <ul class="posts">
-      {% for post in site.categories.['reading_and_thoughts']%}
-      <li><span>{{ post.date | date_to_string }}</span> &raquo; <a target="_blank" a href="{{ post.url }}">{{ post.title }}</a></li>
-    {% endfor %}
-  </ul>
-
-  <h1>Leisure</h1>
-  <ul class="posts">
-      {% for post in site.categories.['leisure']%}
-      <li><span>{{ post.date | date_to_string }}</span> &raquo; <a target="_blank" a href="{{ post.url }}">{{ post.title }}</a></li>
-    {% endfor %}
-  </ul>
-
-  <!--
-  <h1>Blog Posts</h1>
-  <ul class="posts">
-    {% for post in site.posts %}
-      <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
-    {% endfor %}
-  </ul>
-  -->
-</div>
+{% if paginator.total_pages > 1 %}
+    <nav class="pagination fn-clear">
+        <span class="pagination-icon"><i class=" icon-copy"></i></span>
+        <ul class="pagination-list">
+            {% for page in (1..paginator.total_pages) %}
+                {% if page == paginator.page %}
+                    <li class="current"><a href="javascript:void(0);">{{ page }}</a></li>
+                {% else %}
+                    <li><a href="{{ site.url }}/{%if page > 1 %}page{{ page }}/{% endif %}">{{ page }}</a></li>
+                {% endif %}
+            {% endfor %}
+        </ul>
+    </nav>
+{% endif %}
