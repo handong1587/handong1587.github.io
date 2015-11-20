@@ -20,3 +20,4 @@ title: Transfer Learning
 **Net2Net: Accelerating Learning via Knowledge Transfer**
 
 - arXiv: [http://arxiv.org/abs/1511.05641](http://arxiv.org/abs/1511.05641)
+- github: [https://github.com/soumith/net2net.torch](https://github.com/soumith/net2net.torch)
