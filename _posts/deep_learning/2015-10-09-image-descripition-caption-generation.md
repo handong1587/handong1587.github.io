@@ -36,17 +36,6 @@ github: [https://github.com/mrkulk/Unsupervised-Capsule-Network](https://github.
 - project: [http://vsubhashini.github.io/s2vt.html](http://vsubhashini.github.io/s2vt.html)
 - github: [https://github.com/vsubhashini/caffe/tree/recurrent/examples/s2vt](https://github.com/vsubhashini/caffe/tree/recurrent/examples/s2vt)
 
-**Generative Image Modeling Using Spatial LSTMs**
-
-- arXiv: [http://arxiv.org/abs/1506.03478](http://arxiv.org/abs/1506.03478)
-- github: [https://github.com/lucastheis/ride/](https://github.com/lucastheis/ride/)
-
-**Deep Generative Image Models using a Laplacian Pyramid of Adversarial Networks(NIPS 2015)**
-
-- arXiv: [http://arxiv.org/abs/1506.05751](http://arxiv.org/abs/1506.05751)
-- code: [http://soumith.ch/eyescream/](http://soumith.ch/eyescream/)
-- homepage: [http://www.cs.nyu.edu/~denton/](http://www.cs.nyu.edu/~denton/)
-
 **Learning FRAME Models Using CNN Filters for Knowledge Visualization(CVPR 2015)**
 
 - arXiv: [http://arxiv.org/abs/1509.08379](http://arxiv.org/abs/1509.08379)
@@ -57,8 +46,3 @@ github: [https://github.com/mrkulk/Unsupervised-Capsule-Network](https://github.
 
 - arXiv: [http://arxiv.org/abs/1511.02793](http://arxiv.org/abs/1511.02793)
 - demo: [http://www.cs.toronto.edu/~emansim/cap2im.html](http://www.cs.toronto.edu/~emansim/cap2im.html)
-
-**Generating Faces with Torch**
-
-- blog: [http://torch.ch/blog/2015/11/13/gan.html](http://torch.ch/blog/2015/11/13/gan.html)
-- github: [https://github.com/skaae/torch-gan](https://github.com/skaae/torch-gan)

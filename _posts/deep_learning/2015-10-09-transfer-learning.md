@@ -16,3 +16,7 @@ title: Transfer Learning
 **Learning and Transferring Mid-Level Image Representations using Convolutional Neural Networks**
 
 - paper: [http://research.microsoft.com/pubs/214307/paper.pdf](http://research.microsoft.com/pubs/214307/paper.pdf)
+
+**Net2Net: Accelerating Learning via Knowledge Transfer**
+
+- arXiv: [http://arxiv.org/abs/1511.05641](http://arxiv.org/abs/1511.05641)
