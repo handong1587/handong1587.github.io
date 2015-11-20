@@ -4,11 +4,6 @@ categories: computer_sciense
 title: Funny Stuffs Of Computer Science
 ---
 
-{{ page.title }}
-================
-
-<p class="meta">18 Nov 2015 - Beijing</p>
-
 # Overflow
 
 "Gangnam Style overflows INT_MAX, forces YouTube to go 64-bit"
