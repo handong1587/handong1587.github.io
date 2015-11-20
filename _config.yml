@@ -42,38 +42,38 @@ timezone:      null
 
 
 #Site config
-title: 9leg
-description: java技术文章
-keywords: Java
-url: http://9leg.com
+title: handong1587
+description: handong1587's blog
+keywords: Machine Learning
+url: handong1587.github.io
 feed: /atom.xml
 favicon: /images/shortcut.jpg
 
 #Nav config
 nav:
-  - text: 首页
+  - text: HOME
     url: /index.html
-  - text: 分类目录 
+  - text: CATEGORIES
     url: /categories.html
-  - text: 文章归档
+  - text: ARCHIVES
     url: /archives.html
-  - text: 关于我
+  - text: ABOUT ME
     url: /about.html
-  - text: 友情链接
+  - text: LINKS
     url: /links.html
 
 #Author config
 author:
-    name: zhujiajun
-    email: zhujiajun.me@gmail.com
+    name: handong1587
+    email: handong1587@gmail.com
     imageLink: /images/header.jpg
-    simpleIntro: I Have a Dream
+    simpleIntro: A coder
     detailIntro:
-      <p>高中时期天赋技能选错,接触了电脑编程,一发不可收拾,成了程序员一枚.</p>
-      <p>主要使用Java,会一点Android,正在学习Scala.</p>
+      <p>I am working as machine learning/deep learning engineer.</p>
+      <p></p>
       <p></p>
 
-#Follow me, you can choose your icon by http://fortawesome.github.io/Font-Awesome/icons/#brand
+#You can choose your icon by http://fortawesome.github.io/Font-Awesome/icons/#brand
 follow:
   - class: icon-rss
     url: /atom.xml
@@ -82,7 +82,7 @@ follow:
   - class: icon-facebook
     url: http://facebook.com/
   - class: icon-github-alt
-    url: https://github.com/zJiaJun/
+    url: https://github.com/handong1587/
   - class: icon-twitter
     url: http://twitter.com/
   - class: icon-google-plus
@@ -91,12 +91,12 @@ follow:
 #Links
 customLinks:
   - item:
-    - text: 技术小黑屋
-      url: http://droidyue.com/
+    - text: My CSDN blog
+      url: http://blog.csdn.net/handong1587
     - text: Jekyll
       url: http://jekyllrb.com
-    - text: Jekyll Theme
-      url: http://www.zhanxin.info/themes.html
+    #- text: Jekyll Theme
+    #  url: http://www.zhanxin.info/themes.html
     message: Friends    
   - item:
     - text: Java Code Geeks
