@@ -14,7 +14,6 @@ encoding:     "utf-8"
 markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 textile_ext:  "textile"
 
-# linjinbin
 gems:         [jekyll-paginate]
 
 # Filtering Content
@@ -44,7 +43,7 @@ timezone:      null
 #Site config
 title: handong1587
 description: handong1587's blog
-keywords: Machine Learning
+keywords: Deep Learning
 #url: handong1587.github.io
 feed: /atom.xml
 favicon: /images/shortcut.jpg
@@ -91,25 +90,19 @@ follow:
 #Links
 customLinks:
   - item:
-    - text: My CSDN blog
-      url: http://blog.csdn.net/handong1587
-    - text: Jekyll
-      url: http://jekyllrb.com
-    #- text: Jekyll Theme
-    #  url: http://www.zhanxin.info/themes.html
+    - text: JOSHUA's BLOG
+      url: http://joshua881228.webfactional.com/
     message: Friends    
   - item:
-    - text: Java Code Geeks
-      url: http://www.javacodegeeks.com/
-    - text: Web Developer
-      url: http://www.fromdev.com/
-    - text: BeginnersBook
-      url: http://beginnersbook.com/
-    - text: Mkyong
-      url: http://www.mkyong.com/
-    - text: Java By Nataraj
-      url: http://javabynataraj.blogspot.in/
-    message: About Java
+    - text: Caffe
+      url: https://github.com/BVLC/caffe
+    - text: Neural Networks and Deep Learning
+      url: http://neuralnetworksanddeeplearning.com/
+    - text: Deep Learning Tutorials
+      url: http://deeplearning.net/tutorial/
+    - text: Deep Learning Reading List
+      url: http://deeplearning.net/reading-list/
+    message: About Deep Learning
 
 #googleAnaly, your id link UA-12345678-X
 googleAnaly:

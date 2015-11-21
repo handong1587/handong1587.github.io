@@ -17,7 +17,7 @@ date: 2015-07-01
 
 [http://yanirseroussi.com/deep-learning-resources/](http://yanirseroussi.com/deep-learning-resources/)
 
-===============================================================================
+- - -
 
 [http://neuralnetworksanddeeplearning.com](http://neuralnetworksanddeeplearning.com)
 
