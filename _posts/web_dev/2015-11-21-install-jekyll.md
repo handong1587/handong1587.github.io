@@ -44,8 +44,8 @@ Follow the error information, do some minor changes, and finally my github-pages
 # Something else to note..
 
 The above-mentioned instructions just work fine for me on my laptop(Windows 8.1, X64). 
-But some other errors may happen, like Cygwin and Windows git can play nicely 
-together(on my working PC, Windows 7, X32. Cygwin installed).
+But some other errors may happen, like Cygwin and Windows git can't play nicely 
+together(on my work PC, Windows 7, X32, with Cygwin installed).
 One particulr error message is like:
 
 <img src="/assets/web_dev/gem_install_github-pages_cygwin_error.jpg"/>
