@@ -1,13 +1,9 @@
 ---
 layout: post
-categories: deep_learning
+category: deep_learning
 title: Visualize Convolutional Neural Network
+date: 2015-08-10
 ---
-
-{{ page.title }}
-================
-
-<p class="meta">10 Aug 2015 - Beijing</p>
 
 **Visualizing and Understanding Convolutional Network**:
 

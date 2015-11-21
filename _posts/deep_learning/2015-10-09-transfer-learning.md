@@ -1,13 +1,9 @@
 ---
 layout: post
-categories: deep_learning
+category: deep_learning
 title: Transfer Learning
+date: 2015-11-09
 ---
-
-{{ page.title }}
-================
-
-<p class="meta">09 Oct 2015 - Beijing</p>
 
 **How transferable are features in deep neural networks?((NIPS 2014)**
 

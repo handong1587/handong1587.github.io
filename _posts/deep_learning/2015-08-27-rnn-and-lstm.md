@@ -1,13 +1,9 @@
 ---
 layout: post
-categories: deep_learning
+category: deep_learning
 title: RNN and LSTM
+date: 2015-08-27
 ---
-
-{{ page.title }}
-================
-
-<p class="meta">27 Aug 2015 - Beijing</p>
 
 **Show, Attend and Tell: Neural Image Caption Generation with Visual Attention**
 

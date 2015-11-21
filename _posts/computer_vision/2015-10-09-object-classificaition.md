@@ -1,13 +1,9 @@
 ---
 layout: post
-categories: computer_vision
+category: computer_vision
 title: Object Classification
+date: 2015-10-09
 ---
-
-{{ page.title }}
-================
-
-<p class="meta">09 Oct 2015 - Beijing</p>
 
 **Generalized Hierarchical Matching for Sub-category Aware Object Classification(VOC2012 classification task winner)**
 

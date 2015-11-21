@@ -1,13 +1,9 @@
 ---
 layout: post
-categories: computer_vision
+category: computer_vision
 title: Computer Vision Materials
+date: 2015-09-12
 ---
-
-{{ page.title }}
-================
-
-<p class="meta">12 Sep 2015 - Beijing</p>
 
 **Image Super-Resolution Using Deep Convolutional Networks(Microsoft Research)**
 

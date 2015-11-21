@@ -1,7 +1,8 @@
 ---
 layout: post
-categories: deep_learning
+category: deep_learning
 title: Language Computation
+date: 2015-09-30
 ---
 
 {{ page.title }}

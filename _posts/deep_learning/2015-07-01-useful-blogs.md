@@ -1,13 +1,9 @@
 ---
 layout: post
-categories: deep_learning
+category: deep_learning
 title: Useful Blogs
+date: 2015-07-01
 ---
-
-{{ page.title }}
-================
-
-<p class="meta">01 Jul 2015 - Beijing</p>
 
 **Awesome Deep Learning**
 

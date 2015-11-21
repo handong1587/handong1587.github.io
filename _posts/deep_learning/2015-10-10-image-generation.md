@@ -1,13 +1,9 @@
 ---
 layout: post
-categories: deep_learning
-title: Image Description, Image Caption Generating
+category: deep_learning
+title: Image Generation
+date: 2015-10-10
 ---
-
-{{ page.title }}
-================
-
-<p class="meta">09 Oct 2015 - Beijing</p>
 
 **Generative Adversarial Networks**
 

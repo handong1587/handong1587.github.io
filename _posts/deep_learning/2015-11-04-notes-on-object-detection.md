@@ -1,12 +1,8 @@
 ---
 layout: post
-categories: deep_learning
+category: deep_learning
 title: Notes On Object Detection
+date: 2015-11-04
 ---
-
-{{ page.title }}
-================
-
-<p class="meta">04 Nov 2015 - Beijing</p>
 
 Key points on object detection: (1) Good region proposal generation method; (2) Early rejection.

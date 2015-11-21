@@ -1,13 +1,9 @@
 ---
 layout: post
-categories: deep_learning
+category: deep_learning
 title: Visual Tracking
+date: 2015-10-09
 ---
-
-{{ page.title }}
-================
-
-<p class="meta">09 Oct 2015 - Beijing</p>
 
 **Hierarchical Convolutional Features for Visual Tracking(ICCV 2015)**
 

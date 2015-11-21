@@ -1,13 +1,9 @@
 ---
 layout: post
-categories: deep_learning
+category: deep_learning
 title: Action Recognition
+date: 2015-10-16
 ---
-
-{{ page.title }}
-================
-
-<p class="meta">16 Oct 2015 - Beijing</p>
 
 **Contextual Action Recognition with R*CNN**
 

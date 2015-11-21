@@ -1,7 +1,8 @@
 ---
 layout: post
-categories: computer_sciense
+category: computer_sciense
 title: Funny Stuffs Of Computer Science
+date: 2015-11-18
 ---
 
 # Overflow

@@ -1,13 +1,9 @@
 ---
 layout: post
-categories: deep_learning
+category: deep_learning
 title: Object Classification
+date: 2015-08-25
 ---
-
-{{ page.title }}
-================
-
-<p class="meta">25 Aug 2015 - Beijing</p>
 
 **Delving Deep into Rectifiers: Surpassing Human-Level Performance on ImageNet Classification(ImageNet top-5 error: 4.94%)**
 

@@ -1,13 +1,9 @@
 ---
 layout: post
-categories: deep_learning
+category: deep_learning
 title: Multi-label Learning
+date: 2015-10-09
 ---
-
-{{ page.title }}
-================
-
-<p class="meta">09 Oct 2015 - Beijing</p>
 
 **CNN: Single-label to Multi-label**
 

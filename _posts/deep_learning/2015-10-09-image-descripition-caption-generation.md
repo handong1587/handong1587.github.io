@@ -1,13 +1,9 @@
 ---
 layout: post
-categories: deep_learning
+category: deep_learning
 title: Image Description, Image Caption Generating
+date: 2015-10-09
 ---
-
-{{ page.title }}
-================
-
-<p class="meta">09 Oct 2015 - Beijing</p>
 
 **Optimizing Neural Networks That Generate Images(2014)**
 

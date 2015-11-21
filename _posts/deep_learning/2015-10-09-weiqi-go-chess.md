@@ -1,13 +1,9 @@
 ---
 layout: post
-categories: deep_learning
+category: deep_learning
 title: Weiqi(Go) And Chesss
+date: 2015-10-09
 ---
-
-{{ page.title }}
-================
-
-<p class="meta">09 Oct 2015 - Beijing</p>
 
 **Teaching Deep Convolutional Neural Networks to Play Go**
 

@@ -1,13 +1,9 @@
 ---
 layout: post
-categories: algorithm_and_data_structure
+category: algorithm_and_data_structure
 title: Notes on Suffix Array and Manacher Algorithm
+date: 2015-08-27
 ---
-
-{{ page.title }}
-================
-
-<p class="meta">27 Aug 2015 - Beijing</p>
 
 Recently I am working on some data structure questions, and I kind of
 dive into the "Longest Palindromic Substring" problem, master(do I?) the Suffix

@@ -1,13 +1,9 @@
 ---
 layout: post
-categories: deep_learning
+category: deep_learning
 title: Open Source Deep Learning Frameworks
+date: 2015-07-03
 ---
-
-{{ page.title }}
-================
-
-<p class="meta">03 Jul 2015 - Beijing</p>
 
 **Caffe: Convolutional Architecture for Fast Feature Embedding**
 

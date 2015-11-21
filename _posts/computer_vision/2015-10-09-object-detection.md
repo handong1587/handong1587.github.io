@@ -1,13 +1,9 @@
 ---
 layout: post
-categories: computer_vision
+category: computer_vision
 title: Object Detection
+date: 2015-10-09
 ---
-
-{{ page.title }}
-================
-
-<p class="meta">09 Oct 2015 - Beijing</p>
 
 **Contextualizing Object Detection and Classification(CVPR2010)**
 

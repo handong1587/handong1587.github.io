@@ -1,13 +1,9 @@
 ---
 layout: post
-categories: deep_learning
+category: deep_learning
 title: Reinforcement Learning
+date: 2015-09-11
 ---
-
-{{ page.title }}
-================
-
-<p class="meta">11 Sep 2015 - Beijing</p>
 
 **Continuous control with deep reinforcement learning(Google Deepmind)**
 

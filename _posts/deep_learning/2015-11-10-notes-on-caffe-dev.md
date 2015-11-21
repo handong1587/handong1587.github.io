@@ -1,13 +1,9 @@
 ---
 layout: post
-categories: deep_learning
+category: deep_learning
 title: Notes On Caffe Development
+date: 2015-11-10
 ---
-
-{{ page.title }}
-================
-
-<p class="meta">10 Nov 2015 - Beijing</p>
 
 # HDF5 vs. LMDB
 

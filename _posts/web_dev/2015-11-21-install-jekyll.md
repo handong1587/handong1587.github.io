@@ -14,9 +14,15 @@ to install Ruby, Devkit, and Jekyll.
 
 When I try to install github-pages by "gem install github-pages", an error(FetchError) is encountered: 
 
-Seems like it is because the Ruby website is blocked. So I follow the instructions in 
-[http://segmentfault.com/q/1010000003891086](http://segmentfault.com/q/1010000003891086), create a .gemrc file into
-"C:\Users\MyName", and problem solved.
+Seems like it is because the Ruby website is blocked. So I follow the instructions by @fighterleslie in 
+[http://segmentfault.com/q/1010000003891086](http://segmentfault.com/q/1010000003891086), create a .gemrc 
+file into "C:\Users\MyName", and problem solved:
+
+```shell
+:sources:
+- https://ruby.taobao.org
+:update_sources: true
+```
 
 # Try jekyll build!
 
@@ -25,10 +31,12 @@ to detect my github-pages defects.
 
 OK, try the instruction below:
 
+```shell
 jekyll build --safe
+```
 
 Then I get:
 
 <img src="/assets/web_dev/jekyll_build_reuslts.png"/>
 
-Follow the error informations, do some minor changes, and finally my github-pages can successfully be shown.
+Follow the error information, do some minor changes, and finally my github-pages can successfully be shown.

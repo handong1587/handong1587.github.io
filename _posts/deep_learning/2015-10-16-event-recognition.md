@@ -1,13 +1,9 @@
 ---
 layout: post
-categories: deep_learning
+category: deep_learning
 title: Event Recognition
+date: 2015-10-16
 ---
-
-{{ page.title }}
-================
-
-<p class="meta">16 Oct 2015 - Beijing</p>
 
 **TagBook: A Semantic Video Representation without Supervision for Event Detection**
 

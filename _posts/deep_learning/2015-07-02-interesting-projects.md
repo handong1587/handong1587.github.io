@@ -1,13 +1,9 @@
 ---
 layout: post
-categories: deep_learning
+category: deep_learning
 title: Interesting Projects
+date: 2015-07-02
 ---
-
-{{ page.title }}
-================
-
-<p class="meta">02 Jul 2015 - Beijing</p>
 
 **ConvNetJS: a Javascript implementation of Neural networks**
 

@@ -1,13 +1,9 @@
 ---
 layout: post
-categories: deep_learning
+category: deep_learning
 title: Recommendation System
+date: 2015-08-26
 ---
-
-{{ page.title }}
-================
-
-<p class="meta">26 Aug 2015 - Beijing</p>
 
 **Image-based recommendations on styles and substitutes**
 

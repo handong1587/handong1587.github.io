@@ -1,13 +1,9 @@
 ---
 layout: post
-categories: deep_learning
+category: deep_learning
 title: Networks Acceleration, Parameter Pruning, Model Size Reduction
+date: 2015-10-09
 ---
-
-{{ page.title }}
-================
-
-<p class="meta">09 Oct 2015 - Beijing</p>
 
 **Neurons vs Weights Pruning in Artificial Neural Networks**
 

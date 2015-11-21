@@ -1,13 +1,9 @@
 ---
 layout: post
-categories: deep_learning
+category: deep_learning
 title: Pedestrian Detection
+date: 2015-08-26
 ---
-
-{{ page.title }}
-================
-
-<p class="meta">26 Aug 2015 - Beijing</p>
 
 **Pedestrian Detection aided by Deep Learning Semantic Tasks**:
 
