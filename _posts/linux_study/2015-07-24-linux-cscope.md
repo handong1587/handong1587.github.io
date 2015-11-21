@@ -21,6 +21,7 @@ Exit a Cscope browser: Ctrl + d
 
 Some Cscope parameters:
 
+<pre class="terminal"><code>
 -b  Build the cross-reference only.
 -C  Ignore letter case when searching.
 -c  Use only ASCII characters in the cross-ref file (don’t compress).
@@ -45,3 +46,4 @@ Some Cscope parameters:
 -u  Unconditionally build the cross-reference file.
 -v  Be more verbose in line mode.
 -V  Print the version number.
+</code></pre>
