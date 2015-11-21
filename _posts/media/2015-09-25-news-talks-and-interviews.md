@@ -1,13 +1,9 @@
 ---
 layout: post
-categories: media
+category: media
 title: News, Talks and Interviews
+date: 2015-09-25
 ---
-
-{{ page.title }}
-================
-
-<p class="meta">25 Sep 2015 - Beijing</p>
 
 **Convolutional Nets and CIFAR-10: An Interview with Yann LeCun**
 

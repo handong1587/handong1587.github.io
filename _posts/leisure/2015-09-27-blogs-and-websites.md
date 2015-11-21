@@ -1,13 +1,9 @@
 ---
 layout: post
-categories: leisure
+category: leisure
 title: Blogs and Websites
+date: 2015-09-27
 ---
-
-{{ page.title }}
-================
-
-<p class="meta">27 Sep 2015 - Beijing</p>
 
 **Bodies left on Everest**
 

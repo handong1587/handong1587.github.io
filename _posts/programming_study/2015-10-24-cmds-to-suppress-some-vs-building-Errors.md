@@ -1,13 +1,9 @@
 ---
 layout: post
-categories: programming_study
+category: programming_study
 title: Commands To Suppress Some Building Errors With Visual Studio
+date: 2015-10-24
 ---
-
-{{ page.title }}
-================
-
-<p class="meta">24 Sep 2015 - Beijing</p>
 
 Here are some commands you would probably frequently use when you're building Linux codes with VS2013~VS2015. Go to "C/C++ - Project - Properties - Additional Options", add following commands(each command separated by one blank):
 

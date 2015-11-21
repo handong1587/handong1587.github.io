@@ -1,7 +1,8 @@
 ---
 layout: post
-categories: reading_and_thoughts
+category: reading_and_thoughts
 title: Some Words From HYHERION
+date: 2015-08-28
 ---
 
 {{ page.title }}

@@ -1,13 +1,9 @@
 ---
 layout: post
-categories: reading_and_thoughts
+category: reading_and_thoughts
 title: Thoughts About Religions
+date: 2015-09-05
 ---
-
-{{ page.title }}
-================
-
-<p class="meta">05 Sep 2015 - Beijing</p>
 
 ISIS, the most significant terrorist organization, now seems to become a worldwide problem.
 

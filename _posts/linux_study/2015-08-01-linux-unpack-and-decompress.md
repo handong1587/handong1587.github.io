@@ -1,13 +1,9 @@
 ---
 layout: post
-categories: linux_study
+category: linux_study
 title: Linux Unpack and Decompression Commands
+date: 2015-08-01
 ---
-
-{{ page.title }}
-================
-
-<p class="meta">01 Aug 2015 - Beijing</p>
 
 **.tar**
 

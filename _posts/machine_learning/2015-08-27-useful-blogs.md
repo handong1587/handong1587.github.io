@@ -1,7 +1,8 @@
 ---
 layout: post
-categories: machine_learning
+category: machine_learning
 title: Useful Blogs
+date: 2015-08-27
 ---
 
 {{ page.title }}

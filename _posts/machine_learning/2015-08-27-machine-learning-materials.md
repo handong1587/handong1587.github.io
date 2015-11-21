@@ -1,13 +1,9 @@
 ---
 layout: post
-categories: machine_learning
+category: machine_learning
 title: Machine Learning Materials
+date: 2015-08-27
 ---
-
-{{ page.title }}
-================
-
-<p class="meta">27 Aug 2015 - Beijing</p>
 
 **Neural Network Models for Multilabel Learning**
 

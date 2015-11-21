@@ -1,13 +1,9 @@
 ---
 layout: post
-categories: programming_study
+category: programming_study
 title: Interesting Projects
+date: 2015-09-09
 ---
-
-{{ page.title }}
-================
-
-<p class="meta">09 Sep 2015 - Beijing</p>
 
 **StarCraft: HTML5 version for StarCraft game**
 

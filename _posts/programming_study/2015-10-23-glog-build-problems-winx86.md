@@ -1,13 +1,9 @@
 ---
 layout: post
-categories: programming_study
+category: programming_study
 title: Glog Build Problems on Windows X86 and Visual Studio 2015
+date: 2015-10-23
 ---
-
-{{ page.title }}
-================
-
-<p class="meta">23 Sep 2015 - Beijing</p>
 
 I git clone glog from [https://github.com/google/glog](https://github.com/google/glog).
 

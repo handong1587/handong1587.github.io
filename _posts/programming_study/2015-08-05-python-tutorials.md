@@ -1,13 +1,9 @@
 ---
 layout: post
-categories: programming_study
+category: programming_study
 title: Python Tutorials
+date: 2015-08-05
 ---
-
-{{ page.title }}
-================
-
-<p class="meta">05 Aug 2015 - Beijing</p>
 
 **Draw rectangle:**
 

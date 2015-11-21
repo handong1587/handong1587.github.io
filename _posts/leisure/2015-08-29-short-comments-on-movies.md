@@ -1,11 +1,9 @@
 ---
 layout: post
-categories: leisure
+category: leisure
 title: Short Comments On Movies
+date: 2015-08-29
 ---
-
-{{ page.title }}
-================
 
 *Good Will Hunting (1997)*: I particularly like the scene whick Will Hunting goes up and raps on the glass to taunt that Harvard guy, "How do you like them apples?"
 

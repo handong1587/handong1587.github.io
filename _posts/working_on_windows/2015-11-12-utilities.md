@@ -1,13 +1,9 @@
 ---
 layout: post
-categories: working_on_windows
+category: working_on_windows
 title: Utilities
+date: 2015-11-12
 ---
-
-{{ page.title }}
-================
-
-<p class="meta">12 Nov 2015 - Beijing</p>
 
 "A Utility to Unassociate File Types in Windows 7 and Vista"
 

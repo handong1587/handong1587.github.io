@@ -1,13 +1,9 @@
 ---
 layout: post
-categories: reading_and_thoughts
+category: reading_and_thoughts
 title: Thoughts About Hukou
+date: 2015-08-29
 ---
-
-{{ page.title }}
-================
-
-<p class="meta">28 Aug 2015 - Beijing</p>
 
 There are many "Chinese characteristics" in China. The household registration,
 also known as Hukou system, is one of most controversial things in my country.

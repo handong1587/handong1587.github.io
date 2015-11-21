@@ -1,13 +1,9 @@
 ---
 layout: post
-categories: programming_study
+category: programming_study
 title: Interesting Blogs
+date: 2015-09-14
 ---
-
-{{ page.title }}
-================
-
-<p class="meta">14 Sep 2015 - Beijing</p>
 
 **Code of Honor Series**
 

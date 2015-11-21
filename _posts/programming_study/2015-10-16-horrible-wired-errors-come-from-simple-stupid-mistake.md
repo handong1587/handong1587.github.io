@@ -1,13 +1,9 @@
 ---
 layout: post
-categories: programming_study
+category: programming_study
 title: Horrible Wired Errors Come From Simple Stupid Mistake
+date: 2015-10-16
 ---
-
-{{ page.title }}
-================
-
-<p class="meta">16 Oct 2015 - Beijing</p>
 
 Several days ago I was transplanting some codes from Linux to Windows x86 platform.
 

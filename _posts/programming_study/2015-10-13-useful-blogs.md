@@ -1,13 +1,9 @@
 ---
 layout: post
-categories: programming_study
+category: programming_study
 title: Useful Blogs
+date: 2015-10-13
 ---
-
-{{ page.title }}
-================
-
-<p class="meta">13 Oct 2015 - Beijing</p>
 
 **Implementations of Algorithms & Datastructures from a Geek's Viewpoint**
 

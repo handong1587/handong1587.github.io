@@ -1,13 +1,9 @@
 ---
 layout: post
-categories: working_on_windows
+category: working_on_windows
 title: Windows Commands
+date: 2015-10-27
 ---
-
-{{ page.title }}
-================
-
-<p class="meta">27 Sep 2015 - Beijing</p>
 
 **Create symbolic link in Windows 7**
 

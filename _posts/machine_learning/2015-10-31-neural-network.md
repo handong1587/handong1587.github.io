@@ -1,13 +1,9 @@
 ---
 layout: post
-categories: machine_learning
+category: machine_learning
 title: Neural Network
+date: 2015-10-31
 ---
-
-{{ page.title }}
-================
-
-<p class="meta">31 Oct 2015 - Beijing</p>
 
 **A Fast C++ Implementation of Neural Network Backpropagation Training Algorithm: Application to Bayesian Optimal Image Demosaicking**
 

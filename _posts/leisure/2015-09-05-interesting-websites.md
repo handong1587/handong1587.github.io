@@ -1,13 +1,9 @@
 ---
 layout: post
-categories: leisure
+category: leisure
 title: Interesting Websites
+date: 2015-09-05
 ---
-
-{{ page.title }}
-================
-
-<p class="meta">05 Sep 2015 - Beijing</p>
 
 "Intellectual work by tech giants: Bill Gates, Steve Jobs, Google/Baidu founders ..."
 

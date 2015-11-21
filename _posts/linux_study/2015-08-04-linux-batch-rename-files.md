@@ -1,13 +1,9 @@
 ---
 layout: post
-categories: linux_study
+category: linux_study
 title: Linux Batch Rename Commands
+date: 2015-08-04
 ---
-
-{{ page.title }}
-================
-
-<p class="meta">04 Aug 2015 - Beijing</p>
 
 **1. Replace first letter of all files' name with 'q':**
 

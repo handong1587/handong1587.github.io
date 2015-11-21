@@ -1,13 +1,9 @@
 ---
 layout: post
-categories: machine_learning
+category: machine_learning
 title: Random Forests
+date: 2015-11-03
 ---
-
-{{ page.title }}
-================
-
-<p class="meta">03 Nov 2015 - Beijing</p>
 
 **Mondrian Forests: Efficient Online Random Forests**
 

@@ -1,13 +1,9 @@
 ---
 layout: post
-categories: leisure
+category: leisure
 title: My Movie Collections
+date: 2015-11-16
 ---
-
-{{ page.title }}
-================
-
-<p class="meta">16 Nov 2015 - Beijing</p>
 
 **G:/Movie/**
 

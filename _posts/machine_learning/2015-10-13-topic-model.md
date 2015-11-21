@@ -1,13 +1,9 @@
 ---
 layout: post
-categories: machine_learning
+category: machine_learning
 title: Topic Model
+date: 2015-10-13
 ---
-
-{{ page.title }}
-================
-
-<p class="meta">13 Oct 2015 - Beijing</p>
 
 **Care and Feeding of Topic Models: Problems, Diagnostics, and Improvements**
 

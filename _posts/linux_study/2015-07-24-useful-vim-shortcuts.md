@@ -1,13 +1,9 @@
 ---
 layout: post
-categories: linux_study
+category: linux_study
 title: Useful Vim Shortcuts
+date: 2015-07-24
 ---
-
-{{ page.title }}
-================
-
-<p class="meta">24 Jul 2015 - Beijing</p>
 
 **Some powerful VIM configuration projects on Github**:
 

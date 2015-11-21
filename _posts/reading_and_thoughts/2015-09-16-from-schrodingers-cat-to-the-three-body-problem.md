@@ -2,12 +2,8 @@
 layout: post
 categories: reading_and_thoughts
 title: From Schrodinger's Cat To The Three-Body Problem
+date: 2015-09-16
 ---
-
-{{ page.title }}
-================
-
-<p class="meta">16 Sep 2015 - Beijing</p>
 
 **From Schrodinger's Cat To The Three-Body Problem: How I Think About Life**
 

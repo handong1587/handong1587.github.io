@@ -1,13 +1,9 @@
 ---
 layout: post
-categories: machine_learning
+category: machine_learning
 title: Bag Of Words
+date: 2015-11-18
 ---
-
-{{ page.title }}
-================
-
-<p class="meta">18 Nov 2015 - Beijing</p>
 
 # What is Bag Of Words (BOW) ?
 

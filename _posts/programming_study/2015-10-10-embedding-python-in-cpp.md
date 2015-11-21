@@ -1,13 +1,9 @@
 ---
 layout: post
-categories: programming_study
+category: programming_study
 title: Embedding Python In C/C++
+date: 2015-10-10
 ---
-
-{{ page.title }}
-================
-
-<p class="meta">10 Oct 2015 - Beijing</p>
 
 # Preparatory Work
 

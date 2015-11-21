@@ -1,7 +1,8 @@
 ---
 layout: post
-categories: linux_study
+category: linux_study
 title: Linux Matlab Commands
+date: 2015-08-04
 ---
 
 {{ page.title }}
