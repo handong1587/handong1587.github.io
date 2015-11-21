@@ -66,7 +66,7 @@ author:
     name: handong1587
     email: handong1587@gmail.com
     imageLink: /images/header.jpg
-    simpleIntro: A coder
+    simpleIntro: A coder.
     detailIntro:
       <p>I am working as machine learning/deep learning engineer.</p>
       <p></p>
@@ -79,25 +79,25 @@ follow:
   - class: icon-weibo
     url: http://weibo.com/
   - class: icon-facebook
-    url: http://facebook.com/
+    url: https://www.facebook.com/
   - class: icon-github-alt
     url: https://github.com/handong1587/
   - class: icon-twitter
-    url: http://twitter.com/
+    url: https://www.twitter.com/
   - class: icon-google-plus
     url: https://plus.google.com/116595571760191938657/about
 
 #Links
 customLinks:
   - item:
+    - text: EnSharing
+      url: http://ensharing.com/
     - text: JOSHUA's BLOG
       url: http://joshua881228.webfactional.com/
     message: Friends    
   - item:
-    - text: Caffe
+    - text: Caffe on github
       url: https://github.com/BVLC/caffe
-    - text: Neural Networks and Deep Learning
-      url: http://neuralnetworksanddeeplearning.com/
     - text: Deep Learning Tutorials
       url: http://deeplearning.net/tutorial/
     - text: Deep Learning Reading List
