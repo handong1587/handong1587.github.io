@@ -23,17 +23,17 @@ So finally my project structure just as below:
 
 Now that we created a huge Python27 directory containing all packages, we can directly start our coding work by:
 
-```Python
+{% highlight python %}
 from time import time
 time.print()
-```
+{% endhighlight %}
 
 However if you try to import those 3rd-party packages, such as numpy/cv2, your program will crash without any warning. Well, you probably already installed those packages into "C:\\Python27\\Lib\\site-packages"(now what we got is a Python27 directory, so it is "Python27\\site-packages" in your project directory). Before import any package, you should add one more line ahead:
 
-```Python
+{% highlight python %}
 
 import cv2
-```
+{% endhighlight %}
 
 Now you can import cv2 and manipulate images successfully!
 

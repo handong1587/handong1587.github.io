@@ -7,10 +7,10 @@ date: 2015-07-24
 
 <code>gdb --arg python demo.py 2>&1 | tee demo.log</code>
 
-```python
+{% highlight python %}
 import pdb
 pdb.set_trace()
-```
+{% endhighlight %}
 
 **Shortcuts**:
 

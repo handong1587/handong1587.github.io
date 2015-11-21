@@ -7,11 +7,17 @@ date: 2015-07-24
 
 **Some powerful VIM configuration projects on Github**:
 
-[spf13-vim](https://github.com/spf13/spf13-vim)
+- spf13-vim
 
-[dot-vimrc](https://github.com/humiaozuzu/dot-vimrc)
+[https://github.com/spf13/spf13-vim](https://github.com/spf13/spf13-vim)
 
-[vimrc](https://github.com/amix/vimrc)
+- dot-vimrc
+
+[https://github.com/humiaozuzu/dot-vimrc](https://github.com/humiaozuzu/dot-vimrc)
+
+- vimrc
+
+[https://github.com/amix/vimrc](https://github.com/amix/vimrc)
 
 **Shortcuts**:
 

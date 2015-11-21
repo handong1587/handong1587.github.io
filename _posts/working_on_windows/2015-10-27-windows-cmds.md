@@ -17,7 +17,7 @@ D:\coding\Python_VS2015\densebox\fast-rcnn\data>mklink /D VOCdevkit2007 D:\data\
 
 Command Parameters:
 
-```bash
+{% highlight bash %}
 MKLINK [[/D] | [/H] | [/J]] Link Target
 
 /D      Creates a directory symbolic link.  Default is a file
@@ -26,4 +26,4 @@ symbolic link.
 /J      Creates a Directory Junction.
 Link    specifies the new symbolic link name.
 Target  specifies the path (relative or absolute) that the new link refers to.
-```
+{% endhighlight %}

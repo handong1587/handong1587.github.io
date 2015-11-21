@@ -5,11 +5,6 @@ title: Linux Matlab Commands
 date: 2015-08-04
 ---
 
-{{ page.title }}
-================
-
-<p class="meta">04 Aug 2015 - Beijing</p>
-
 Comment multi-lines in Matlab: Ctrl+R, Ctrl+T
 
 Launch Matlab:
@@ -24,25 +19,24 @@ $ alias matlab="/usr/local/MATLAB/R2012a/bin/matlab"
 Start MATLAB Without Desktop:
 
 <pre class="terminal">
-<code>$
-matlab -nojvm -nodisplay -nosplash
-</code></pre>
+<code>$ matlab -nojvm -nodisplay -nosplash</code>
+</pre>
 
 Matlab + nohup:
 
 runGenerareSSProposals.sh:
 
-```bash
+{% highlight bash %}
 #!/bin/sh
 cd /path/to/detection-proposals
 matlab -nojvm -nodisplay -nosplash -r "startup; callRunCOCO; exit"
-```
+{% endhighlight %}
 
 runNohup.sh:
 
-```bash
+{% highlight bash %}
 time=`date +%Y%m%d_%H%M%S`
 cd /path/to/detection-proposals
 nohup ./runGenerareSSProposals.sh > runGenerareSSProposals_${time}.log 2>&1 &
 echo $! > save_runGenerareSSProposals_val_pid.txt
-```
+{% endhighlight %}

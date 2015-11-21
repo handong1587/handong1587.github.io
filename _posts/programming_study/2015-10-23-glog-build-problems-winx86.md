@@ -39,6 +39,6 @@ Resolve:
 
 This function appears in "glog-0.3.4\src\signalhandler.cc". But can just comment out target line:
 
-```c
+{% highlight cpp %}
 ::google::InstallFailureSignalHandler();
-```
+{% endhighlight %}
