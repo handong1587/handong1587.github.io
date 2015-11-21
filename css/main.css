@@ -703,7 +703,8 @@ a         { color: #91736b; text-decoration: none; }
     padding-bottom: 3px;
     border-bottom: 1px solid rgba(0, 0, 0, 0.1);
     box-shadow: 0 1px 1px rgba(255, 255, 255, 0.2);
-    font-family: 'Spirax', cursive;
+    /*font-family: 'Spirax', cursive;*/
+    font-family: 'Helvetica Narrow', cursive;
     text-transform: uppercase;
 }
 .aside-item .list {
