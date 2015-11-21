@@ -19,13 +19,13 @@ date: 2015-09-14
 
 [The making of Warcraft part 3](http://www.codeofhonor.com/blog/the-making-of-warcraft-part-3)
 
-================================================================================
+- - -
 
 "Debugging with GDB: a real life example"
 
 [http://blog.0x972.info/?d=2015/09/09/09/19/14-debugging-with-gdb-a-real-life-example](http://blog.0x972.info/?d=2015/09/09/09/19/14-debugging-with-gdb-a-real-life-example)
 
-================================================================================
+- - -
 
 A very cool resume:
 

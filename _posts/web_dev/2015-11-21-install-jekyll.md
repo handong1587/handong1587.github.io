@@ -18,11 +18,11 @@ Seems like it is because the Ruby website is blocked. So I follow the instructio
 [http://segmentfault.com/q/1010000003891086](http://segmentfault.com/q/1010000003891086), create a .gemrc 
 file into "C:\Users\MyName", and problem solved:
 
-<pre class="terminal">
-<code>:sources:
+{% highlight bash %}
+:sources:
 - https://ruby.taobao.org
-:update_sources: true</code>
-</pre>
+:update_sources: true
+{% endhighlight %}
 
 # Try jekyll build!
 
