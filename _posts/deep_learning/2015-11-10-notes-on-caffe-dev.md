@@ -1,7 +1,7 @@
 ---
 layout: post
 category: deep_learning
-title: Notes On Caffe Development
+title: Notes On Caffe Develop
 date: 2015-11-10
 ---
 
@@ -25,7 +25,7 @@ Uses memory-mapped files, giving much better I/O performance. Works well with la
 
 Example:
 
-```shell
+{% highlight bash %}
 layer {
   type: "HDF5Data"
   top: "X" # same name as given in create_dataset!
@@ -36,7 +36,7 @@ layer {
   }
   include { phase:TRAIN }
 }
-```
+{% endhighlight %}
 
 # Create LMDB from float data
 
