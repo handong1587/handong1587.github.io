@@ -11,6 +11,10 @@ date: 2015-08-26
 
 **OverFeat: Integrated Recognition, Localization and Detection using Convolutional Networks**
 
+|  method  |ILSVRC 2013 mAP|
+|----------|---------------|
+|OverFeat  |24.3%          |
+
 $$
 \\newcommand\\T{\\Rule{0pt}{1em}{.3em}}
 \\begin{array}{|c|c|}
