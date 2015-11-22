@@ -32,6 +32,13 @@ date: 2015-08-27
 
 - paper: [http://scholarbank.nus.edu.sg/bitstream/handle/10635/120564/DeepNeuralNetworks.pdf?sequence=1](http://scholarbank.nus.edu.sg/bitstream/handle/10635/120564/DeepNeuralNetworks.pdf?sequence=1)
 
+# ImageNet
+
+**Going Deeper with Convolutions**
+
+- paper: [http://arxiv.org/abs/1409.4842](http://arxiv.org/abs/1409.4842)
+- code: [https://github.com/google/inception](https://github.com/google/inception)
+
 # Tensor
 
 **Tensorizing Neural Networks**
@@ -71,6 +78,11 @@ date: 2015-08-27
 
 # Unsupervised Learning
 
+**Unsupervised Learning of Spatiotemporally Coherent Metrics**
+
+- paper: [http://arxiv.org/abs/1412.6056](http://arxiv.org/abs/1412.6056)
+- code: [https://github.com/jhjin/flattened-cnn](https://github.com/jhjin/flattened-cnn)
+
 **Unsupervised Learning on Neural Network Outputs**
 
 - intro: "use CNN trained on the ImageNet of 1000 classes to the ImageNet of over 20000 classes"
@@ -78,6 +90,11 @@ date: 2015-08-27
 - github: [https://github.com/yaolubrain/ULNNO](https://github.com/yaolubrain/ULNNO)
 
 # Optimization
+
+**Flattened Convolutional Neural Networks for Feedforward Acceleration(ICLR 2015)**
+
+- arXiv: [http://arxiv.org/abs/1412.5474](http://arxiv.org/abs/1412.5474)
+- github: [https://github.com/jhjin/flattened-cnn](https://github.com/jhjin/flattened-cnn)
 
 **Must Know Tips/Tricks in Deep Neural Networks (by Xiu-Shen Wei)**
 
@@ -98,6 +115,55 @@ date: 2015-08-27
 **Why GEMM is at the heart of deep learning**
 
 [http://petewarden.com/2015/04/20/why-gemm-is-at-the-heart-of-deep-learning/](http://petewarden.com/2015/04/20/why-gemm-is-at-the-heart-of-deep-learning/)
+
+# Deep Learning For Driving
+
+<img src="/assets/cnn-materials/teaser_deepdriving.jpg"
+ width="800" />
+
+- project: [http://deepdriving.cs.princeton.edu/](http://deepdriving.cs.princeton.edu/)
+- paper: [http://deepdriving.cs.princeton.edu/paper.pdf](http://deepdriving.cs.princeton.edu/paper.pdf)
+- code: [http://deepdriving.cs.princeton.edu/DeepDriving.zip](http://deepdriving.cs.princeton.edu/DeepDriving.zip)
+
+**Recurrent Neural Networks for Driver Activity Anticipation via Sensory-Fusion Architecture**
+
+- paper: [http://arxiv.org/abs/1509.05016](http://arxiv.org/abs/1509.05016)
+- homepage: [http://www.brain4cars.com/](http://www.brain4cars.com/)
+
+# Interesting Application
+
+**Deeply-Learned Feature for Age Estimation**
+
+- paper: [http://ieeexplore.ieee.org.sci-hub.org/xpl/login.jsp?tp=&arnumber=7045931&url=http%3A%2F%2Fieeexplore.ieee.org%2Fiel7%2F7045624%2F7045853%2F07045931.pdf%3Farnumber%3D7045931](http://ieeexplore.ieee.org.sci-hub.org/xpl/login.jsp?tp=&arnumber=7045931&url=http%3A%2F%2Fieeexplore.ieee.org%2Fiel7%2F7045624%2F7045853%2F07045931.pdf%3Farnumber%3D7045931)
+
+**Real-time emotion recognition for gaming using deep convolutional network features**
+
+- paper: [http://arxiv.org/abs/1408.3750v1](http://arxiv.org/abs/1408.3750v1)
+- code: [https://github.com/Zebreu/ConvolutionalEmotion](https://github.com/Zebreu/ConvolutionalEmotion)
+
+**DeXpression: Deep Convolutional Neural Network for Expression Recognition**
+
+- paper: [http://arxiv.org/abs/1509.05371](http://arxiv.org/abs/1509.05371)
+
+**Convolutional networks for real-time 6-DOF camera relocalization**
+
+- paper: [http://arxiv.org/abs/1505.07427](http://arxiv.org/abs/1505.07427)
+- website: [http://mi.eng.cam.ac.uk/projects/relocalisation/#results](http://mi.eng.cam.ac.uk/projects/relocalisation/#results)
+
+**Modelling Uncertainty in Deep Learning for Camera Relocalization**
+
+- paper: [http://arxiv.org/abs/1509.05909](http://arxiv.org/abs/1509.05909)
+
+**PANDA: Pose Aligned Networks for Deep Attribute Modeling(Facebook)**
+
+- arXiv: [http://arxiv.org/abs/1311.5591](http://arxiv.org/abs/1311.5591)
+- github: [https://github.com/facebook/pose-aligned-deep-networks](https://github.com/facebook/pose-aligned-deep-networks)
+	
+# Deep Learning Hardware
+
+**Recurrent Neural Networks Hardware Implementation on FPGA**
+
+- arXiv: [http://arxiv.org/abs/1511.05552](http://arxiv.org/abs/1511.05552)
 
 # Deep Learning System
 
@@ -137,6 +203,24 @@ date: 2015-08-27
 **An objective function for STDP(Yoshua Bengio)**
 
 - paper: [http://arxiv.org/abs/1509.05936](http://arxiv.org/abs/1509.05936)
+
+# Interesting Deep Learning Projects
+
+**ConvNetJS: a Javascript implementation of Neural networks**
+
+- github: [https://github.com/karpathy/convnetjs](https://github.com/karpathy/convnetjs)
+
+**CrAIg: Using Neural Networks to learn Mario**
+
+- blog: [https://medium.com/@savas/craig-using-neural-networks-to-learn-mario-a76036b639ad](https://medium.com/@savas/craig-using-neural-networks-to-learn-mario-a76036b639ad)
+- github: [https://github.com/joenot443/crAIg](https://github.com/joenot443/crAIg)
+- paper: [http://nn.cs.utexas.edu/downloads/papers/stanley.ec02.pdf](http://nn.cs.utexas.edu/downloads/papers/stanley.ec02.pdf)
+
+**Reinforcement Learning using Tensor Flow**
+
+<img src="/assets/dl-materials/tensorflow-deepq-example.gif"/>
+
+- github: [https://github.com/nivwusquorum/tensorflow-deepq](https://github.com/nivwusquorum/tensorflow-deepq)
 
 # Readings and Questions
 
