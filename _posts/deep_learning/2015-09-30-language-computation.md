@@ -5,11 +5,6 @@ title: Language Computation
 date: 2015-09-30
 ---
 
-{{ page.title }}
-================
-
-<p class="meta">11 Sep 2015 - Beijing</p>
-
 **Neural Machine Translation by Jointly Learning to Align and Translate**
 
 - arXiv: [http://arxiv.org/abs/1409.0473](http://arxiv.org/abs/1409.0473)
