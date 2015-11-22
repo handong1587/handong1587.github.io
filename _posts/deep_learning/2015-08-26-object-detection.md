@@ -73,18 +73,6 @@ date: 2015-08-26
 
 **Object Detection Networks on Convolutional Feature Maps**
 
-$$
-\\newcommand\\T{\\Rule{0pt}{1em}{.3em}}
-\\begin{array}{|c|c|c|}
-\\hline
-  \\text{Method}      & \\text{Trained on} & \\text{mAP} \\T \\\\\\hline
-  \\text{NoC}         & \\text{07+12}      & 68.8\% \\\\\\hline
-  \\text{NoC,bb}      & \\text{07+12}      & 71.6\% \\\\\\hline
-  \\text{NoC,+EB}     & \\text{07+12}      & 71.8\% \\\\\\hline
-  \\text{NoC,+EB,bb}  & \\text{07+12}      & 73.3\% \\\\\\hline
-\\end{array}
-$$
-
 |method    |Trained on |mAP       |
 |:--------:|:---------:|:--------:|
 |NoC       |07+12      |68.8%     |
