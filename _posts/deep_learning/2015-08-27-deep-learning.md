@@ -64,6 +64,10 @@ date: 2015-08-27
 - paper: [http://arxiv.org/abs/1506.04416](http://arxiv.org/abs/1506.04416)
 - notes: [Notes on Bayesian Dark Knowledge](https://www.evernote.com/shard/s189/sh/92cc4cbf-285e-4038-af08-c6d9e4aee6ea/d505237e82dc81be9859bc82f3902f9f)
 
+**Memory-based Bayesian Reasoning with Deep Learning(2015.Google DeepMind)**
+
+- slides: [http://blog.shakirm.com/wp-content/uploads/2015/11/CSML_BayesDeep.pdf](http://blog.shakirm.com/wp-content/uploads/2015/11/CSML_BayesDeep.pdf)
+
 # Autoencoders
 
 **Importance Weighted Autoencoders**

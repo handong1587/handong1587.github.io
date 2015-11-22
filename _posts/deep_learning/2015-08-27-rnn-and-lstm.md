@@ -73,6 +73,17 @@ date: 2015-08-27
 - paper: [https://web.stanford.edu/~cpiech/bio/papers/deepKnowledgeTracing.pdf](https://web.stanford.edu/~cpiech/bio/papers/deepKnowledgeTracing.pdf)
 - github: [https://github.com/chrispiech/DeepKnowledgeTracing](https://github.com/chrispiech/DeepKnowledgeTracing)
 
+# Learn To Execute Programs
+
+**Learning to Execute**
+
+- arXiv: [http://arxiv.org/abs/1410.4615](http://arxiv.org/abs/1410.4615)
+- github: [https://github.com/wojciechz/learning_to_execute](https://github.com/wojciechz/learning_to_execute)
+
+**Neural Programmer-Interpreters**
+
+- arXiv: [http://arxiv.org/abs/1511.06279](http://arxiv.org/abs/1511.06279)
+
 # Blog
 
 "A Deep Dive into Recurrent Neural Nets"
