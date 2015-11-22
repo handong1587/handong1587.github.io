@@ -79,3 +79,7 @@ date: 2015-09-09
 - github: [https://github.com/ov3y/2048-AI/](https://github.com/ov3y/2048-AI/)
 - stackoverflow: [http://stackoverflow.com/questions/22342854/what-is-the-optimal-algorithm-for-the-game-2048](http://stackoverflow.com/questions/22342854/what-is-the-optimal-algorithm-for-the-game-2048)
 - zh-blog: [http://blogread.cn/it/article/6827?f=wb](http://blogread.cn/it/article/6827?f=wb)
+
+**a2mp3 - anything2mp3**
+
+- github: [https://github.com/apfeltee/a2mp3](https://github.com/apfeltee/a2mp3)
