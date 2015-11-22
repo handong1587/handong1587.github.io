@@ -5,6 +5,8 @@ title: Reinforcement Learning
 date: 2015-09-11
 ---
 
+# Paper
+
 **Continuous control with deep reinforcement learning(Google Deepmind)**
 
 - paper: [http://arxiv.org/abs/1509.02971](http://arxiv.org/abs/1509.02971)
@@ -50,3 +52,17 @@ date: 2015-09-11
 
 - arXiv: [http://arxiv.org/abs/1509.08731](http://arxiv.org/abs/1509.08731)
 - notes: [https://www.evernote.com/shard/s189/sh/8c7ff9d9-c321-4e83-a802-58f55ebed9ac/bfc614113180a5f4624390df56e73889](https://www.evernote.com/shard/s189/sh/8c7ff9d9-c321-4e83-a802-58f55ebed9ac/bfc614113180a5f4624390df56e73889)
+
+# Blog
+
+"Deep Reinforcement Learning Papers"
+
+[https://github.com/junhyukoh/deep-reinforcement-learning-papers](https://github.com/junhyukoh/deep-reinforcement-learning-papers)
+
+"A Short Introduction To Some Reinforcement Learning Algorithms"
+
+[http://webdocs.cs.ualberta.ca/~vanhasse/rl_algs/rl_algs.html](http://webdocs.cs.ualberta.ca/~vanhasse/rl_algs/rl_algs.html)
+
+"A Painless Q-Learning Tutorial"
+
+[http://mnemstudio.org/path-finding-q-learning-tutorial.htm](http://mnemstudio.org/path-finding-q-learning-tutorial.htm)

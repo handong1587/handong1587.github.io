@@ -5,6 +5,8 @@ title: Visualize Convolutional Neural Network
 date: 2015-08-10
 ---
 
+# Paper
+
 **Visualizing and Understanding Convolutional Network**:
 
 - paper: [http://arxiv.org/abs/1311.2901](http://arxiv.org/abs/1311.2901)
@@ -83,3 +85,9 @@ date: 2015-08-10
 - arXiv: [http://arxiv.org/abs/1509.08379](http://arxiv.org/abs/1509.08379)
 - homepage: [http://www.stat.ucla.edu/~yang.lu/project/deepFrame/main.html](http://www.stat.ucla.edu/~yang.lu/project/deepFrame/main.html)
 - code: [http://www.stat.ucla.edu/~yang.lu/project/deepFrame/doc/code.zip](http://www.stat.ucla.edu/~yang.lu/project/deepFrame/doc/code.zip)
+
+# Blog
+
+"Visualizing GoogLeNet Classes"
+
+[http://auduno.com/post/125362849838/visualizing-googlenet-classes](http://auduno.com/post/125362849838/visualizing-googlenet-classes)

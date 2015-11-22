@@ -5,6 +5,8 @@ title: RNN and LSTM
 date: 2015-08-27
 ---
 
+# Paper
+
 **Show, Attend and Tell: Neural Image Caption Generation with Visual Attention**
 
 - paper: [http://arxiv.org/abs/1502.03044](http://arxiv.org/abs/1502.03044)
@@ -70,3 +72,31 @@ date: 2015-08-27
 
 - paper: [https://web.stanford.edu/~cpiech/bio/papers/deepKnowledgeTracing.pdf](https://web.stanford.edu/~cpiech/bio/papers/deepKnowledgeTracing.pdf)
 - github: [https://github.com/chrispiech/DeepKnowledgeTracing](https://github.com/chrispiech/DeepKnowledgeTracing)
+
+# Blog
+
+"A Deep Dive into Recurrent Neural Nets"
+
+[http://nikhilbuduma.com/2015/01/11/a-deep-dive-into-recurrent-neural-networks/](http://nikhilbuduma.com/2015/01/11/a-deep-dive-into-recurrent-neural-networks/)
+
+"Long Short-Term Memory: Tutorial on LSTM Recurrent Networks"
+
+[http://people.idsia.ch/~juergen/lstm/index.htm](http://people.idsia.ch/~juergen/lstm/index.htm)
+
+"LSTM implementation explained"
+
+[http://apaszke.github.io/lstm-explained.html](http://apaszke.github.io/lstm-explained.html)
+
+"Recurrent Neural Networks Tutorial, Part 1 – Introduction to RNNs"
+
+[http://www.wildml.com/2015/09/recurrent-neural-networks-tutorial-part-1-introduction-to-rnns/](http://www.wildml.com/2015/09/recurrent-neural-networks-tutorial-part-1-introduction-to-rnns/)
+
+"Awesome-rnn - A curated list of resources dedicated to RNN"
+
+[http://jiwonkim.org/awesome-rnn/](http://jiwonkim.org/awesome-rnn/)
+
+"Understanding LSTM Networks"
+
+[http://colah.github.io/posts/2015-08-Understanding-LSTMs/](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
+
+- Chs: [http://www.jianshu.com/p/9dc9f41f0b29](http://www.jianshu.com/p/9dc9f41f0b29)
