@@ -12,17 +12,8 @@ date: 2015-08-26
 **OverFeat: Integrated Recognition, Localization and Detection using Convolutional Networks**
 
 |  method  |ILSVRC 2013 mAP|
-|----------|---------------|
+|:--------:|:-------------:|
 |OverFeat  |24.3%          |
-
-$$
-\\newcommand\\T{\\Rule{0pt}{1em}{.3em}}
-\\begin{array}{|c|c|}
-\\hline
-  \\text{method}   & \\text{ILSVRC 2013 mAP} \\T \\\\\\hline
-  \\text{OverFeat} &  24.3\%                 \\\\\\hline
-\\end{array}
-$$
 
 - paper: [http://arxiv.org/abs/1312.6229](http://arxiv.org/abs/1312.6229)
 - code: [https://github.com/sermanet/OverFeat](https://github.com/sermanet/OverFeat)
@@ -30,18 +21,13 @@ $$
 
 **Rich feature hierarchies for accurate object detection and semantic segmentation(R-CNN)**
 
-$$
-\\newcommand\\T{\\Rule{0pt}{1em}{.3em}}
-\\begin{array}{|c|c|c|c|c|}
-\\hline
-  \\text{method} & \\text{VOC 2007 mAP} & \\text{VOC 2010 mAP} & \\text{VOC 2012 mAP} & \\text{ILSVRC 2013 mAP} \\T \\\\\\hline
-  \\text{R-CNN,AlexNet}           & 54.2\% & 50.2\% & 49.6\% &         \\\\\\hline
-  \\text{R-CNN,bbox reg,AlexNet}  & 58.5\% & 53.7\% & 53.3\% & 31.4\%  \\\\\\hline
-  \\text{R-CNN,bbox reg,ZFNet}    & 59.2\% &        &        &         \\\\\\hline
-  \\text{R-CNN,VGG-Net}           & 62.2\% &        &        &         \\\\\\hline
-  \\text{R-CNN,bbox reg,VGG-Net}  & 66.0\% &        &        &         \\\\\\hline
-\\end{array}
-$$
+|method                |VOC 2007 mAP|VOC 2010 mAP|VOC 2012 mAP|ILSVRC 2013 mAP|
+|:--------------------:|:----------:|:----------:|:----------:|:-------------:|
+|R-CNN,AlexNet         |54.2%       |50.2%       |49.6%       |               |
+|R-CNN,bbox reg,AlexNet|58.5%       |53.7%       |53.3%       |31.4%          |
+|R-CNN,bbox reg,ZFNet  |59.2%       |            |            |               |
+|R-CNN,VGG-Net         |62.2%       |            |            |               |
+|R-CNN,bbox reg,VGG-Net|66.0%       |            |            |               |
 
 - paper: [http://arxiv.org/abs/1311.2524](http://arxiv.org/abs/1311.2524)
 - slides: [http://www.image-net.org/challenges/LSVRC/2013/slides/r-cnn-ilsvrc2013-workshop.pdf](http://www.image-net.org/challenges/LSVRC/2013/slides/r-cnn-ilsvrc2013-workshop.pdf)
@@ -56,16 +42,11 @@ $$
 
 **Spatial Pyramid Pooling in Deep Convolutional Networks for Visual Recognition**
 
-$$
-\\newcommand\\T{\\Rule{0pt}{1em}{.3em}}
-\\begin{array}{|c|c|c|}
-\\hline
-  \\text{method}                 & \\text{VOC 2007 mAP} & \\text{ILSVRC 2013 mAP} \\T \\\\\\hline
-  \\text{SPP_net(ZF-5),1-model}  & 59.2\%               & 31.84\%        \\\\\\hline
-  \\text{SPP_net(ZF-5),2-model}  & 60.9\%               &                \\\\\\hline
-  \\text{SPP_net(ZF-5),6-model}  &                      & 35.11\%        \\\\\\hline
-\\end{array}
-$$
+|method               |VOC 2007 mAP|ILSVRC 2013 mAP|
+|:-------------------:|:----------:|:-------------:|
+|SPP_net(ZF-5),1-model|54.2%       |31.84%         |
+|SPP_net(ZF-5),2-model|60.9%       |               |
+|SPP_net(ZF-5),6-model|            |35.11%         |
 
 - paper: [http://arxiv.org/abs/1406.4729](http://arxiv.org/abs/1406.4729)
 - code: [https://github.com/ShaoqingRen/SPP_net](https://github.com/ShaoqingRen/SPP_net)
@@ -78,14 +59,9 @@ $$
 
 **DeepID-Net: Deformable Deep Convolutional Neural Networks for Object Detection**
 
-$$
-\\newcommand\\T{\\Rule{0pt}{1em}{.3em}}
-\\begin{array}{|c|c|c|}
-\\hline
-  \\text{method}                 & \\text{VOC 2007 mAP} & \\text{ILSVRC 2013 mAP} \\T \\\\\\hline
-  \\text{DeepID-Net}  & 64.1\%               & 50.3\%        \\\\\\hline
-\\end{array}
-$$
+|method        |VOC 2007 mAP|ILSVRC 2013 mAP|
+|:------------:|:----------:|:-------------:|
+|DeepID-Net    |64.1%       |50.3%          |
 
 - arXiv: [http://arxiv.org/abs/1412.5661](http://arxiv.org/abs/1412.5661)
 
@@ -109,40 +85,37 @@ $$
 \\end{array}
 $$
 
+|method    |Trained on |mAP       |
+|:--------:|:---------:|:--------:|
+|NoC       |07+12      |68.8%     |
+|NoC,bb    |07+12      |71.6%     |
+|NoC,+EB   |07+12      |71.8%     |
+|NoC,+EB,bb|07+12      |73.3%     |
+
 - paper: [http://arxiv.org/abs/1504.06066](http://arxiv.org/abs/1504.06066)
 
 **Improving Object Detection with Deep Convolutional Networks via Bayesian Optimization
 and Structured Prediction**
 
-$$
-\\newcommand\\T{\\Rule{0pt}{1em}{.3em}}
-\\begin{array}{|c|c|c|}
-\\hline
-  \\text{Model}             & \\text{BBoxReg} & \\text{VOC 2007 mAP(IoU > 0.5)} \\T \\\\\\hline
-  \\text{R-CNN(AlexNet)}    & \\text{No}      & 54.2\%  \\\\\\hline
-  \\text{R-CNN(VGG)}        & \\text{No}      & 60.6\%  \\\\\\hline
-  \\text{+StructObj}        & \\text{No}      & 61.2\%  \\\\\\hline
-  \\text{+StructObj-FT}     & \\text{No}      & 62.3\%  \\\\\\hline
-  \\text{+FGS}              & \\text{No}      & 64.8\%  \\\\\\hline
-  \\text{+StructObj+FGS}    & \\text{No}      & 65.9\%  \\\\\\hline
-  \\text{+StructObj-FT+FGS} & \\text{No}      & 66.5\%  \\\\\\hline
-\\end{array}
-$$
+|Model            |BBoxReg? |VOC 2007 mAP(IoU>0.5)|
+|:---------------:|:-------:|:-------------------:|
+|R-CNN(AlexNet)   |No       |54.2%                |
+|R-CNN(VGG)       |No       |60.6%                |
+|+StructObj       |No       |61.2%                |
+|+StructObj-FT    |No       |62.3%                |
+|+FGS             |No       |64.8%                |
+|+StructObj+FGS   |No       |65.9%                |
+|+StructObj-FT+FGS|No       |66.5%                |
 
-$$
-\\newcommand\\T{\\Rule{0pt}{1em}{.3em}}
-\\begin{array}{|c|c|c|}
-\\hline
-  \\text{Model}             & \\text{BBoxReg} & \\text{VOC 2007 mAP(IoU > 0.5)} \\T \\\\\\hline
-  \\text{R-CNN(AlexNet)}    & \\text{Yes}     & 58.5\%  \\\\\\hline
-  \\text{R-CNN(VGG)}        & \\text{Yes}     & 65.4\%  \\\\\\hline
-  \\text{+StructObj}        & \\text{Yes}     & 66.6\%  \\\\\\hline
-  \\text{+StructObj-FT}     & \\text{Yes}     & 66.9\%  \\\\\\hline
-  \\text{+FGS}              & \\text{Yes}     & 67.2\%  \\\\\\hline
-  \\text{+StructObj+FGS}    & \\text{Yes}     & 68.5\%  \\\\\\hline
-  \\text{+StructObj-FT+FGS} & \\text{Yes}     & 68.4\%  \\\\\\hline
-\\end{array}
-$$
+|Model            |BBoxReg? |VOC 2007 mAP(IoU>0.5)|
+|:---------------:|:-------:|:-------------------:|
+|R-CNN(AlexNet)   |Yes      |58.5%                |
+|R-CNN(VGG)       |Yes      |65.4%                |
+|+StructObj       |Yes      |66.6%                |
+|+StructObj-FT    |Yes      |66.9%                |
+|+FGS             |Yes      |67.2%                |
+|+StructObj+FGS   |Yes      |68.5%                |
+|+StructObj-FT+FGS|Yes      |68.4%                |
 
 - paper: [http://arxiv.org/abs/1504.03293](http://arxiv.org/abs/1504.03293)
 - slides: [http://www.ytzhang.net/files/publications/2015-cvpr-det-slides.pdf](http://www.ytzhang.net/files/publications/2015-cvpr-det-slides.pdf)
@@ -150,35 +123,20 @@ $$
 
 **Fast R-CNN**
 
-$$
-\\newcommand\\T{\\Rule{0pt}{1em}{.3em}}
-\\begin{array}{|c|c|c|}
-\\hline
-  \\text{method}     & \\text{data} & \\text{VOC 2007 mAP}  \\T \\\\\\hline
-  \\text{FRCN,VGG16} & 07           & 66.9\%                \\\\\\hline
-  \\text{FRCN,VGG16} & \\text{07+12} & 70.0\%                \\\\\\hline
-\\end{array}
-$$
+|method    |data |VOC 2007 mAP|
+|:--------:|:---:|:----------:|
+|FRCN,VGG16|07   |66.9%       |
+|FRCN,VGG16|07+12|70.0%       |
 
-$$
-\\newcommand\\T{\\Rule{0pt}{1em}{.3em}}
-\\begin{array}{|c|c|c|}
-\\hline
-  \\text{method}     & \\text{data} & \\text{VOC 2010 mAP} \\T \\\\\\hline
-  \\text{FRCN,VGG16} & 12           & 66.1\%               \\\\\\hline
-  \\text{FRCN,VGG16} & \\text{07++12} & 68.8\%               \\\\\\hline
-\\end{array}
-$$
+|method    |data  |VOC 2010 mAP|
+|:--------:|:----:|:----------:|
+|FRCN,VGG16|12    |66.1%       |
+|FRCN,VGG16|07++12|68.8%       |
 
-$$
-\\newcommand\\T{\\Rule{0pt}{1em}{.3em}}
-\\begin{array}{|c|c|c|}
-\\hline
-  \\text{method}     & \\text{data} & \\text{VOC 2012 mAP}  \\T \\\\\\hline
-  \\text{FRCN,VGG16} & 12           & 65.7\%                \\\\\\hline
-  \\text{FRCN,VGG16} & \\text{07++12} & 68.4\%                \\\\\\hline
-\\end{array}
-$$
+|method    |data  |VOC 2012 mAP|
+|:--------:|:----:|:----------:|
+|FRCN,VGG16|12    |65.7%       |
+|FRCN,VGG16|07++12|68.4%       |
 
 - paper: [http://arxiv.org/abs/1504.08083](http://arxiv.org/abs/1504.08083)
 - slides: [http://tutorial.caffe.berkeleyvision.org/caffe-cvpr15-detection.pdf](http://tutorial.caffe.berkeleyvision.org/caffe-cvpr15-detection.pdf)
@@ -193,25 +151,15 @@ $$
 
 **Object detection via a multi-region & semantic segmentation-aware CNN model**
 
-$$
-\\newcommand\\T{\\Rule{0pt}{1em}{.3em}}
-\\begin{array}{|c|c|c|}
-\\hline
-  \\text{Model}   & \\text{Trained on} & \\text{VOC 2007 mAP} \\T \\\\\\hline
-  \\text{VGG-net} & \\text{07+12}      & 78.2\% \\\\\\hline
-  \\text{VGG-net} & \\text{07}         & 74.9\% \\\\\\hline
-\\end{array}
-$$
+|Model     |Trained on|VOC 2007 mAP|
+|:--------:|:--------:|:----------:|
+|VGG-net   |07+12     |78.2%       |
+|VGG-net   |07        |74.9%       |
 
-$$
-\\newcommand\\T{\\Rule{0pt}{1em}{.3em}}
-\\begin{array}{|c|c|c|}
-\\hline
-  \\text{Model}   & \\text{Trained on} & \\text{VOC 2012 mAP} \\T \\\\\\hline
-  \\text{VGG-net} & \\text{07+12}      & 73.9\% \\\\\\hline
-  \\text{VGG-net} & \\text{12}         & 70.7\% \\\\\\hline
-\\end{array}
-$$
+|Model     |Trained on|VOC 2012 mAP|
+|:--------:|:--------:|:----------:|
+|VGG-net   |07+12     |73.9%       |
+|VGG-net   |12        |70.7%       |
 
 - paper: [http://arxiv.org/abs/1505.01749](http://arxiv.org/abs/1505.01749)
 - code: "Pdf and code will appear here shortly -- stay tuned"  <br />
@@ -221,17 +169,12 @@ $$
 
 **Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks(NIPS 2015)**
 
-$$
-\\newcommand\\T{\\Rule{0pt}{1em}{.3em}}
-\\begin{array}{|c|c|c|}
-\\hline
-  \\  & \\text{training data} & \\text{test data} & \\text{mAP} & \\text{time/img}  \\T \\\\\\hline
-  \\text{Faster RCNN, VGG-16} & \\text{07}     & \\text{VOC 2007 test} & 69.9\% & 198ms \\\\\\hline
-  \\text{Faster RCNN, VGG-16} & \\text{07+12}  & \\text{VOC 2007 test} & 73.2\% & 198ms \\\\\\hline
-  \\text{Faster RCNN, VGG-16} & \\text{12}     & \\text{VOC 2012 test} & 67.0\% & 198ms \\\\\\hline
-  \\text{Faster RCNN, VGG-16} & \\text{07++12} & \\text{VOC 2012 test} & 70.4\% & 198ms \\\\\\hline
-\\end{array}
-$$
+|                   |training data|test data    |mAP  |time/img|
+|:-----------------:|:-----------:|:-----------:|:---:|:------:|
+|Faster RCNN, VGG-16|07           |VOC 2007 test|69.9%|198ms   |
+|Faster RCNN, VGG-16|07+12        |VOC 2007 test|73.2%|198ms   |
+|Faster RCNN, VGG-16|12           |VOC 2007 test|67.0%|198ms   |
+|Faster RCNN, VGG-16|07++12       |VOC 2007 test|70.4%|198ms   |
 
 - arXiv: [http://arxiv.org/abs/1506.01497](http://arxiv.org/abs/1506.01497)
 - github: [https://github.com/ShaoqingRen/faster_rcnn](https://github.com/ShaoqingRen/faster_rcnn)
