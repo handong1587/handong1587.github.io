@@ -7,8 +7,7 @@ date: 2015-08-27
 
 **Neural Network Models for Multilabel Learning**
 
-- paper: NeuralNetsForMLL-ECML13  <br />
-[http://pan.baidu.com/s/1bnFdYFX](http://pan.baidu.com/s/1bnFdYFX)
+- paper: [http://pan.baidu.com/s/1bnFdYFX](http://pan.baidu.com/s/1bnFdYFX)
 - code: [https://github.com/abhishek-kumar/NNForMLL](https://github.com/abhishek-kumar/NNForMLL)
 
 **Graph Based Image Segmentation**
@@ -17,10 +16,7 @@ date: 2015-08-27
 
 **Pixelwise Image Saliency by Aggregation Complementary Appearance Contrast Measures with Edge-Preserving Coherence**
 
-<div class="fig figcenter fighighlight">
-  <img src="/assets/ml-materials/ImageAndMask.png">
-  <!--<div class="figcaption">artworks</div>-->
-</div>
+<img src="/assets/ml-materials/ImageAndMask.png" width="800" />
 
 - paper: [http://vision.sysu.edu.cn/project/PISA/PISA_Final.pdf](http://vision.sysu.edu.cn/project/PISA/PISA_Final.pdf)
 - project: [http://vision.sysu.edu.cn/project/PISA/](http://vision.sysu.edu.cn/project/PISA/)
@@ -63,3 +59,26 @@ date: 2015-08-27
 - paper: [http://research.microsoft.com/en-us/um/people/jiansun/papers/ECCV12_BayesianFace.pdf](http://research.microsoft.com/en-us/um/people/jiansun/papers/ECCV12_BayesianFace.pdf)
 - github: [https://github.com/MaoXu/Joint_Bayesian/](https://github.com/MaoXu/Joint_Bayesian/)
 - github: [https://github.com/cyh24/Joint-Bayesian](https://github.com/cyh24/Joint-Bayesian)
+
+# Tricks
+
+**Machine Learning Trick of the Day (1): Replica Trick**
+
+[http://blog.shakirm.com/2015/07/machine-learning-trick-of-the-day-1-replica-trick/](http://blog.shakirm.com/2015/07/machine-learning-trick-of-the-day-1-replica-trick/)
+
+**Machine Learning Trick of the Day (2): Gaussian Integral Trick**
+
+[http://blog.shakirm.com/2015/08/machine-learning-trick-of-the-day-2-gaussian-integral-trick/](http://blog.shakirm.com/2015/08/machine-learning-trick-of-the-day-2-gaussian-integral-trick/)
+
+**Machine Learning Trick of the Day (3): Hutchinson's Trick**
+
+[http://blog.shakirm.com/2015/09/machine-learning-trick-of-the-day-3-hutchinsons-trick/](http://blog.shakirm.com/2015/09/machine-learning-trick-of-the-day-3-hutchinsons-trick/)
+
+**Machine Learning Trick of the Day (4): Reparameterisation Tricks**
+
+[http://blog.shakirm.com/2015/10/machine-learning-trick-of-the-day-4-reparameterisation-tricks/](http://blog.shakirm.com/2015/10/machine-learning-trick-of-the-day-4-reparameterisation-tricks/)
+
+**Machine Learning Trick of the Day (5): Log Derivative Trick**
+
+[http://blog.shakirm.com/2015/11/machine-learning-trick-of-the-day-5-log-derivative-trick/](http://blog.shakirm.com/2015/11/machine-learning-trick-of-the-day-5-log-derivative-trick/)
+
