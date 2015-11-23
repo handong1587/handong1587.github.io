@@ -1,7 +1,7 @@
 ---
 layout: post
 category: machine_learning
-title: Machine Learning Materials
+title: Machine Learning
 date: 2015-08-27
 ---
 
