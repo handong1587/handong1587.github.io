@@ -1,7 +1,7 @@
 ---
 layout: post
 category: computer_vision
-title: Computer Vision Materials
+title: Computer Vision Resources
 date: 2015-09-12
 ---
 
