@@ -55,14 +55,19 @@ date: 2015-09-11
 
 # Blog
 
-"Deep Reinforcement Learning Papers"
+**Deep Reinforcement Learning Papers**
 
 [https://github.com/junhyukoh/deep-reinforcement-learning-papers](https://github.com/junhyukoh/deep-reinforcement-learning-papers)
 
-"A Short Introduction To Some Reinforcement Learning Algorithms"
+**Awesome Reinforcement Learning**
+
+- website: [http://aikorea.org/awesome-rl/?utm_content=buffer5d0f3&utm_medium=social&utm_source=plus.google.com&utm_campaign=buffer#online-demos](http://aikorea.org/awesome-rl/?utm_content=buffer5d0f3&utm_medium=social&utm_source=plus.google.com&utm_campaign=buffer#online-demos)
+- github: [https://github.com/aikorea/awesome-rl](https://github.com/aikorea/awesome-rl)
+
+**A Short Introduction To Some Reinforcement Learning Algorithms**
 
 [http://webdocs.cs.ualberta.ca/~vanhasse/rl_algs/rl_algs.html](http://webdocs.cs.ualberta.ca/~vanhasse/rl_algs/rl_algs.html)
 
-"A Painless Q-Learning Tutorial"
+**A Painless Q-Learning Tutorial**
 
 [http://mnemstudio.org/path-finding-q-learning-tutorial.htm](http://mnemstudio.org/path-finding-q-learning-tutorial.htm)
