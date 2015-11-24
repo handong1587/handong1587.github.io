@@ -12,8 +12,6 @@ date: 2015-08-27
 - paper: [http://pan.baidu.com/s/1bnFdYFX](http://pan.baidu.com/s/1bnFdYFX)
 - code: [https://github.com/abhishek-kumar/NNForMLL](https://github.com/abhishek-kumar/NNForMLL)
 
-
-
 **An Empirical Evaluation of Supervised Learning in High Dimensions**
 
 - paper: [http://lowrank.net/nikos/pubs/empirical.pdf](http://lowrank.net/nikos/pubs/empirical.pdf)

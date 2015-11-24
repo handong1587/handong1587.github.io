@@ -85,16 +85,20 @@ date: 2015-07-03
 
 # Paper
 
-"Blocks and Fuel: Frameworks for deep learning"
+**Blocks and Fuel: Frameworks for deep learning**
 
 - arXiv: [http://arxiv.org/abs/1506.00619](http://arxiv.org/abs/1506.00619)
 
+**Comparative Study of Caffe, Neon, Theano, and Torch for Deep Learning**
+
+- arXiv: [http://arxiv.org/abs/1511.06435](http://arxiv.org/abs/1511.06435)
+
 # Reference
 
-"Frameworks and Libraries for Deep Learning"
+**Frameworks and Libraries for Deep Learning**
 
 [http://creative-punch.net/2015/07/frameworks-and-libraries-for-deep-learning/](http://creative-punch.net/2015/07/frameworks-and-libraries-for-deep-learning/)
 
-"TensorFlow vs. Theano vs. Torch"
+**TensorFlow vs. Theano vs. Torch**
 
 [https://github.com/zer0n/deepframeworks/blob/master/README.md](https://github.com/zer0n/deepframeworks/blob/master/README.md)
