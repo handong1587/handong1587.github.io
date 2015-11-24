@@ -46,7 +46,10 @@ date: 2015-08-26
 
 **Semantic Image Segmentation via Deep Parsing Network**
 
+<img src="/assets/object-segmentation-materials/DPN_intro.png" />
+
 - paper: [http://arxiv.org/abs/1509.02634](http://arxiv.org/abs/1509.02634)
+- homepage: [http://personal.ie.cuhk.edu.hk/~lz013/projects/DPN.html](http://personal.ie.cuhk.edu.hk/~lz013/projects/DPN.html)
 
 **Decoupled Deep Neural Network for Semi-supervised Semantic Segmentation(NIPS 2015)**
 
