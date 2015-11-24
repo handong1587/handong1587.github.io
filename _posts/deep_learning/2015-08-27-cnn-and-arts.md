@@ -7,10 +7,7 @@ date: 2015-08-27
 
 **A Neural Algorithm of Artistic Style**
 
-<div class="fig figcenter fighighlight">
-  <img src="/assets/cnn-and-arts/a_nerual_algorithm_of_artistic_style.jpg">
-  <div class="figcaption">artworks</div>
-</div>
+<img src="/assets/cnn-and-arts/a_nerual_algorithm_of_artistic_style.jpg" />
 
 - paper: [http://arxiv.org/abs/1508.06576](http://arxiv.org/abs/1508.06576)
 - code: [https://github.com/kaishengtai/neuralart](https://github.com/kaishengtai/neuralart)

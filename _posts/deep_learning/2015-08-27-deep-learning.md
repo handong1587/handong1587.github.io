@@ -7,6 +7,8 @@ date: 2015-08-27
 
 # Tutorials
 
+<img src="/assets/cnn-materials/LeNet5.png" />
+
 **VGG Convolutional Neural Networks Practical**
 
 [http://www.robots.ox.ac.uk/~vgg/practicals/cnn/index.html](http://www.robots.ox.ac.uk/~vgg/practicals/cnn/index.html)
