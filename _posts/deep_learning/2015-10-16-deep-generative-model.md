@@ -13,6 +13,7 @@ date: 2015-10-16
 
 - arXiv: [http://arxiv.org/abs/1511.06390](http://arxiv.org/abs/1511.06390)
 
-**Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks**
+**Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks(DCGAN)**
 
 - arXiv: [http://arxiv.org/abs/1511.06434](http://arxiv.org/abs/1511.06434)
+- github: [https://github.com/Newmu/dcgan_code](https://github.com/Newmu/dcgan_code)
