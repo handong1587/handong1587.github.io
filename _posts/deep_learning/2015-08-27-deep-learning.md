@@ -163,6 +163,10 @@ date: 2015-08-27
 - arXiv: [http://arxiv.org/abs/1311.5591](http://arxiv.org/abs/1311.5591)
 - github: [https://github.com/facebook/pose-aligned-deep-networks](https://github.com/facebook/pose-aligned-deep-networks)
 	
+# Deep Learning’s Accuracy
+
+- blog: [http://deeplearning4j.org/accuracy.html](http://deeplearning4j.org/accuracy.html)	
+
 # Deep Learning Hardware
 
 **Recurrent Neural Networks Hardware Implementation on FPGA**
