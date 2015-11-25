@@ -10,14 +10,15 @@ date: 2015-08-27
 <img src="/assets/cnn-and-arts/a_nerual_algorithm_of_artistic_style.jpg" />
 
 - paper: [http://arxiv.org/abs/1508.06576](http://arxiv.org/abs/1508.06576)
-- code: [https://github.com/kaishengtai/neuralart](https://github.com/kaishengtai/neuralart)
-- code: [https://github.com/jcjohnson/neural-style](https://github.com/jcjohnson/neural-style)
-- code: [https://github.com/andersbll/neural_artistic_style](https://github.com/andersbll/neural_artistic_style)
+- github: [https://github.com/kaishengtai/neuralart](https://github.com/kaishengtai/neuralart)
+- github: [https://github.com/jcjohnson/neural-style](https://github.com/jcjohnson/neural-style)
+- github: [https://github.com/andersbll/neural_artistic_style](https://github.com/andersbll/neural_artistic_style)
 - code: [http://nbviewer.ipython.org/github/Lasagne/Recipes/blob/master/examples/styletransfer/Art%20Style%20Transfer.ipynb](http://nbviewer.ipython.org/github/Lasagne/Recipes/blob/master/examples/styletransfer/Art%20Style%20Transfer.ipynb)
-- code: [https://github.com/mbartoli/neural-animation](https://github.com/mbartoli/neural-animation)
-- code: [https://github.com/memisevic/artify](https://github.com/memisevic/artify)
-- code: [https://github.com/mattya/chainer-gogh](https://github.com/mattya/chainer-gogh)
+- github: [https://github.com/mbartoli/neural-animation](https://github.com/mbartoli/neural-animation)
+- github: [https://github.com/memisevic/artify](https://github.com/memisevic/artify)
+- github: [https://github.com/mattya/chainer-gogh](https://github.com/mattya/chainer-gogh)
 - github: [https://github.com/anishathalye/neural-style](https://github.com/anishathalye/neural-style)
+- github: [https://github.com/woodrush/neural-art-tf](https://github.com/woodrush/neural-art-tf)
 - demo: [http://deepart.io/](http://deepart.io/)
 
 **Texture synthesis and the controlled generation of natural stimuli using convolutional neural networks**
