@@ -17,6 +17,7 @@ date: 2015-08-27
 - code: [https://github.com/mbartoli/neural-animation](https://github.com/mbartoli/neural-animation)
 - code: [https://github.com/memisevic/artify](https://github.com/memisevic/artify)
 - code: [https://github.com/mattya/chainer-gogh](https://github.com/mattya/chainer-gogh)
+- github: [https://github.com/anishathalye/neural-style](https://github.com/anishathalye/neural-style)
 - demo: [http://deepart.io/](http://deepart.io/)
 
 **Texture synthesis and the controlled generation of natural stimuli using convolutional neural networks**
