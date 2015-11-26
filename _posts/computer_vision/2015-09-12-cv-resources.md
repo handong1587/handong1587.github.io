@@ -5,6 +5,8 @@ title: Computer Vision Resources
 date: 2015-09-12
 ---
 
+# Super-Resolution
+
 **Image Super-Resolution Using Deep Convolutional Networks(Microsoft Research)**
 
 - paper: [http://arxiv.org/abs/1501.00092](http://arxiv.org/abs/1501.00092)
@@ -52,3 +54,11 @@ date: 2015-09-12
 # Bag Of Words
 
 <img src="/assets/ml-materials/bag_of_words.jpg" width="800" />
+
+# Activity Recognition
+
+**Latent Hierarchical Model for Activity Recognition**
+
+- paper: [http://arxiv.org/abs/1503.01820](http://arxiv.org/abs/1503.01820)
+- github: [https://github.com/louxi11/activity_recognition](https://github.com/louxi11/activity_recognition)
+- author page: [https://staff.fnwi.uva.nl/n.hu/](https://staff.fnwi.uva.nl/n.hu/)
