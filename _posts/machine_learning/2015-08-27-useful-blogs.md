@@ -78,8 +78,28 @@ date: 2015-08-27
 
 [http://www.analyticsvidhya.com/blog/2015/11/quick-introduction-boosting-algorithms-machine-learning/](http://www.analyticsvidhya.com/blog/2015/11/quick-introduction-boosting-algorithms-machine-learning/)
 
+# SVM
+
+**Collection Of SVM Libraries By Language**
+
+[http://www.datasciencecentral.com/profiles/blogs/collection-of-svm-libraries-by-language](http://www.datasciencecentral.com/profiles/blogs/collection-of-svm-libraries-by-language)
+
+**Sequential Minimal Optimization Algorithm for Support Vector Machines**
+
+- blog: [http://stiglerdiet.com/blog/2015/Nov/21/sequential-minimal-optimization-algorithm-for-support-vector-machines/](http://stiglerdiet.com/blog/2015/Nov/21/sequential-minimal-optimization-algorithm-for-support-vector-machines/)
+- github: [https://github.com/tdhopper/smo-svm](https://github.com/tdhopper/smo-svm)
+- paper: [https://github.com/tdhopper/smo-svm/blob/master/OR706%20Support%20Vector%20Machines.pdf](https://github.com/tdhopper/smo-svm/blob/master/OR706%20Support%20Vector%20Machines.pdf)
+
 # Tutorial
 
 "A Brief Introduction to Graphical Models and Bayesian Networks"
 
 [http://www.cs.ubc.ca/~murphyk/Bayes/bnintro.html](http://www.cs.ubc.ca/~murphyk/Bayes/bnintro.html)
+
+# PCA/SVD
+
+**Fast Randomized PCA/SVD**
+
+- blog: [https://research.facebook.com/blog/294071574113354/fast-randomized-svd/](https://research.facebook.com/blog/294071574113354/fast-randomized-svd/)
+- baidu-pan: [http://pan.baidu.com/s/1nt8I8qt](http://pan.baidu.com/s/1nt8I8qt)
+- github: [https://github.com/facebook/fbpca](https://github.com/facebook/fbpca)

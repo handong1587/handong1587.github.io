@@ -42,3 +42,13 @@ date: 2015-09-12
 <img src="/assets/computer-vision/A_Computational_Approach_for_Obstruction-Free_Photography.jpg" width="800" />
 
 - paper: [https://people.csail.mit.edu/mrub/papers/ObstructionFreePhotograpy_SIGGRAPH2015.pdf](https://people.csail.mit.edu/mrub/papers/ObstructionFreePhotograpy_SIGGRAPH2015.pdf)
+
+# HOG
+
+**notes: Histogram of Oriented Gradients**
+
+[http://www.cs.duke.edu/courses/fall15/compsci527/notes/hog.pdf](http://www.cs.duke.edu/courses/fall15/compsci527/notes/hog.pdf)
+
+# Bag Of Words
+
+<img src="/assets/ml-materials/bag_of_words.jpg" width="800" />
