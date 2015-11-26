@@ -41,66 +41,66 @@ date: 2015-09-24
 |18  | Sofa             | horse            | bathing cap           |
 |19  | Train            | sheep            | beaker                |
 |20  | TV/Monitor       | cow              | bear                  |
-|21  |                  |                  | bee                   |
-|22  |                  |                  | bell pepper           |
-|23  |                  |                  | bench                 |
-|24  |                  |                  | bicycle               |
-|25  |                  |                  | binder                |
-|26  |                  |                  | bird                  |
-|27  |                  |                  | bookshelf             |
-|28  |                  |                  | bow                   |
-|29  |                  |                  | bow tie               |
-|30  |                  |                  | bowl                  |
-|31  |                  |                  | brassiere             |
-|32  |                  |                  | burrito               |
-|33  |                  |                  | bus                   |
-|34  |                  |                  | butterfly             |
-|35  |                  |                  | camel                 |
-|36  |                  |                  | can opener            |
-|37  |                  |                  | car                   |
-|38  |                  |                  | cart                  |
-|39  |                  |                  | cattle                |
-|40  |                  |                  | cello                 |
-|41  |                  |                  | centipede             |
-|42  |                  |                  | chain saw             |
-|43  |                  |                  | chair                 |
-|44  |                  |                  | chime                 |
-|45  |                  |                  | cocktail shaker       |
-|46  |                  |                  | coffee maker          |
-|47  |                  |                  | computer keyboard     |
-|48  |                  |                  | computer mouse        |
-|49  |                  |                  | corkscrew             |
-|50  |                  |                  | cream                 |
-|51  |                  |                  | croquet ball          |
-|52  |                  |                  | crutch                |
-|53  |                  |                  | cucumber              |
-|54  |                  |                  | cup or mug            |
-|55  |                  |                  | diaper                |
-|56  |                  |                  | digital clock         |
-|57  |                  |                  | dishwasher            |
-|58  |                  |                  | dog                   |
-|59  |                  |                  | domestic cat          |
-|60  |                  |                  | dragonfly             |
-|61  |                  |                  | drum                  |
-|62  |                  |                  | dumbbell              |
-|63  |                  |                  | electric fan          |
-|64  |                  |                  | elephant              |
-|65  |                  |                  | face powder           |
-|66  |                  |                  | fig                   |
-|67  |                  |                  | filing cabinet        |
-|68  |                  |                  | flower pot            |
-|69  |                  |                  | flute                 |
-|70  |                  |                  | fox                   |
-|71  |                  |                  | french horn           |
-|72  |                  |                  | frog                  |
-|73  |                  |                  | frying pan            |
-|74  |                  |                  | giant panda           |
-|75  |                  |                  | goldfish              |
-|76  |                  |                  | golf ball             |
-|77  |                  |                  | golfcart              |
-|78  |                  |                  | guacamole             |
-|79  |                  |                  | guitar                |
-|80  |                  |                  | hair dryer            |
+|21  |                  | elephant         | bee                   |
+|22  |                  | bear             | bell pepper           |
+|23  |                  | zebra            | bench                 |
+|24  |                  | giraffe          | bicycle               |
+|25  |                  | backpack         | binder                |
+|26  |                  | umbrella         | bird                  |
+|27  |                  | handbag          | bookshelf             |
+|28  |                  | tie              | bow                   |
+|29  |                  | suitcase         | bow tie               |
+|30  |                  | frisbee          | bowl                  |
+|31  |                  | skis             | brassiere             |
+|32  |                  | snowboard        | burrito               |
+|33  |                  | sports ball      | bus                   |
+|34  |                  | kite             | butterfly             |
+|35  |                  | baseball bat     | camel                 |
+|36  |                  | baseball glove   | can opener            |
+|37  |                  | skateboard       | car                   |
+|38  |                  | surfboard        | cart                  |
+|39  |                  | tennis racket    | cattle                |
+|40  |                  | bottle           | cello                 |
+|41  |                  | wine glass       | centipede             |
+|42  |                  | cup              | chain saw             |
+|43  |                  | fork             | chair                 |
+|44  |                  | knife            | chime                 |
+|45  |                  | spoon            | cocktail shaker       |
+|46  |                  | bowl             | coffee maker          |
+|47  |                  | banana           | computer keyboard     |
+|48  |                  | apple            | computer mouse        |
+|49  |                  | sandwich         | corkscrew             |
+|50  |                  | orange           | cream                 |
+|51  |                  | broccoli         | croquet ball          |
+|52  |                  | carrot           | crutch                |
+|53  |                  | hot dog          | cucumber              |
+|54  |                  | pizza            | cup or mug            |
+|55  |                  | donut            | diaper                |
+|56  |                  | cake             | digital clock         |
+|57  |                  | chair            | dishwasher            |
+|58  |                  | couch            | dog                   |
+|59  |                  | potted plant     | domestic cat          |
+|60  |                  | bed              | dragonfly             |
+|61  |                  | dining table     | drum                  |
+|62  |                  | toilet           | dumbbell              |
+|63  |                  | tv               | electric fan          |
+|64  |                  | laptop           | elephant              |
+|65  |                  | mouse            | face powder           |
+|66  |                  | remote           | fig                   |
+|67  |                  | keyboard         | filing cabinet        |
+|68  |                  | cell phone       | flower pot            |
+|69  |                  | microwave        | flute                 |
+|70  |                  | oven             | fox                   |
+|71  |                  | toaster          | french horn           |
+|72  |                  | sink             | frog                  |
+|73  |                  | refrigerator     | frying pan            |
+|74  |                  | book             | giant panda           |
+|75  |                  | clock            | goldfish              |
+|76  |                  | vase             | golf ball             |
+|77  |                  | scissors         | golfcart              |
+|78  |                  | teddy bear       | guacamole             |
+|79  |                  | hair drier       | guitar                |
+|80  |                  | toothbrush       | hair dryer            |
 |81  |                  |                  | hair spray            |
 |82  |                  |                  | hamburger             |
 |83  |                  |                  | hammer                |
