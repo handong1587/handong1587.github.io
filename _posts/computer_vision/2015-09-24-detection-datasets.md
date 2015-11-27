@@ -44,15 +44,15 @@ date: 2015-09-24
 |21  |                  | elephant         | bee                   |
 |22  |                  | bear             | bell pepper (灯笼椒)  |
 |23  |                  | zebra            | bench                 |
-|24  |                  | giraffe          | bicycle               |
+|24  |                  | giraffe (长颈鹿) | bicycle               |
 |25  |                  | backpack         | binder (粘合剂/活页夹) |
 |26  |                  | umbrella         | bird                  |
 |27  |                  | handbag          | bookshelf             |
 |28  |                  | tie              | bow                   |
 |29  |                  | suitcase         | bow tie (领结)        |
-|30  |                  | frisbee          | bowl                  |
-|31  |                  | skis             | brassiere (胸罩)      |
-|32  |                  | snowboard        | burrito (玉米煎饼)    |
+|30  |                  | frisbee (飞盘)   | bowl                  |
+|31  |                  | skis (滑雪橇)    | brassiere (胸罩)      |
+|32  |                  | snowboard (滑雪板)| burrito (玉米煎饼)    |
 |33  |                  | sports ball      | bus                   |
 |34  |                  | kite             | butterfly             |
 |35  |                  | baseball bat     | camel                 |
@@ -71,7 +71,7 @@ date: 2015-09-24
 |48  |                  | apple            | computer mouse        |
 |49  |                  | sandwich         | corkscrew (螺丝锥)    |
 |50  |                  | orange           | cream (奶油)          |
-|51  |                  | broccoli         | croquet ball (槌球)   |
+|51  |                  | broccoli (西兰花)| croquet ball (槌球)   |
 |52  |                  | carrot           | crutch (拐杖)         |
 |53  |                  | hot dog          | cucumber (黄瓜)       |
 |54  |                  | pizza            | cup or mug            |
@@ -90,7 +90,7 @@ date: 2015-09-24
 |67  |                  | keyboard         | filing cabinet        |
 |68  |                  | cell phone       | flower pot            |
 |69  |                  | microwave        | flute (长笛)          |
-|70  |                  | oven             | fox                   |
+|70  |                  | oven (烤炉)      | fox                   |
 |71  |                  | toaster          | french horn           |
 |72  |                  | sink             | frog                  |
 |73  |                  | refrigerator     | frying pan            |
