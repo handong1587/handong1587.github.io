@@ -105,30 +105,30 @@ date: 2015-09-24
 |82  |                  |                  | hamburger             |
 |83  |                  |                  | hammer                |
 |84  |                  |                  | hamster (仓鼠)        |
-|85  |                  |                  | harmonica             |
-|86  |                  |                  | harp                  |
+|85  |                  |                  | harmonica (口琴)      |
+|86  |                  |                  | harp (竖琴)           |
 |87  |                  |                  | hat with a wide brim  |
-|88  |                  |                  | head cabbage          |
+|88  |                  |                  | head cabbage (卷心菜) |
 |89  |                  |                  | helmet                |
-|90  |                  |                  | hippopotamus          |
-|91  |                  |                  | horizontal bar        |
+|90  |                  |                  | hippopotamus (河马)   |
+|91  |                  |                  | horizontal bar (单杠) |
 |92  |                  |                  | horse                 |
 |93  |                  |                  | hotdog                |
 |94  |                  |                  | iPod                  |
-|95  |                  |                  | isopod                |
-|96  |                  |                  | jellyfish             |
-|97  |                  |                  | koala bear            |
-|98  |                  |                  | ladle                 |
-|99  |                  |                  | ladybug               |
+|95  |                  |                  | isopod (等足类动物)    |
+|96  |                  |                  | jellyfish (水母)      |
+|97  |                  |                  | koala bear (树袋熊)   |
+|98  |                  |                  | ladle (长柄勺)        |
+|99  |                  |                  | ladybug (瓢虫)        |
 |100 |                  |                  | lamp                  |
 |101 |                  |                  | laptop                |
 |102 |                  |                  | lemon                 |
 |103 |                  |                  | lion                  |
 |104 |                  |                  | lipstick              |
-|105 |                  |                  | lizard                |
-|106 |                  |                  | lobster               |
-|107 |                  |                  | maillot               |
-|108 |                  |                  | maraca                |
+|105 |                  |                  | lizard (蜥蜴)         |
+|106 |                  |                  | lobster (龙虾)        |
+|107 |                  |                  | maillot (紧身衣/足球衫)|
+|108 |                  |                  | maraca (沙球)         |
 |109 |                  |                  | microphone            |
 |110 |                  |                  | microwave             |
 |111 |                  |                  | milk can              |
@@ -138,86 +138,86 @@ date: 2015-09-24
 |115 |                  |                  | mushroom              |
 |116 |                  |                  | nail                  |
 |117 |                  |                  | neck brace            |
-|118 |                  |                  | oboe                  |
+|118 |                  |                  | oboe (双簧管)         |
 |119 |                  |                  | orange                |
-|120 |                  |                  | otter                 |
+|120 |                  |                  | otter (水獭)          |
 |121 |                  |                  | pencil box            |
 |122 |                  |                  | pencil sharpener      |
 |123 |                  |                  | perfume               |
 |124 |                  |                  | person                |
 |125 |                  |                  | piano                 |
-|126 |                  |                  | pineapple             |
+|126 |                  |                  | pineapple (菠萝)      |
 |127 |                  |                  | ping-pong ball        |
-|128 |                  |                  | pitcher               |
+|128 |                  |                  | pitcher (大水罐)      |
 |129 |                  |                  | pizza                 |
 |130 |                  |                  | plastic bag           |
-|131 |                  |                  | plate rack            |
-|132 |                  |                  | pomegranate           |
-|133 |                  |                  | popsicle              |
-|134 |                  |                  | porcupine             |
-|135 |                  |                  | power drill           |
-|136 |                  |                  | pretzel               |
+|131 |                  |                  | plate rack (餐具架)   |
+|132 |                  |                  | pomegranate (石榴)    |
+|133 |                  |                  | popsicle (棒冰)       |
+|134 |                  |                  | porcupine (箭猪)      |
+|135 |                  |                  | power drill (机械钻)  |
+|136 |                  |                  | pretzel (椒盐卷饼)    |
 |137 |                  |                  | printer               |
-|138 |                  |                  | puck                  |
+|138 |                  |                  | puck (冰球)           |
 |139 |                  |                  | punching bag          |
 |140 |                  |                  | purse                 |
 |141 |                  |                  | rabbit                |
-|142 |                  |                  | racket                |
+|142 |                  |                  | racket (球拍)         |
 |143 |                  |                  | ray                   |
-|144 |                  |                  | red panda             |
+|144 |                  |                  | red panda (小熊猫)    |
 |145 |                  |                  | refrigerator          |
 |146 |                  |                  | remote control        |
-|147 |                  |                  | rubber eraser         |
-|148 |                  |                  | rugby ball            |
+|147 |                  |                  | rubber eraser (橡皮)  |
+|148 |                  |                  | rugby ball (橄榄球)   |
 |149 |                  |                  | ruler                 |
 |150 |                  |                  | salt or pepper shaker |
-|151 |                  |                  | saxophone             |
+|151 |                  |                  | saxophone (萨克斯管)  |
 |152 |                  |                  | scorpion              |
-|153 |                  |                  | screwdriver           |
-|154 |                  |                  | seal                  |
+|153 |                  |                  | screwdriver (螺丝刀)  |
+|154 |                  |                  | seal (海豹/印章)      |
 |155 |                  |                  | sheep                 |
 |156 |                  |                  | ski                   |
-|157 |                  |                  | skunk                 |
+|157 |                  |                  | skunk (臭鼬)          |
 |158 |                  |                  | snail                 |
 |159 |                  |                  | snake                 |
-|160 |                  |                  | snowmobile            |
-|161 |                  |                  | snowplow              |
-|162 |                  |                  | soap dispenser        |
+|160 |                  |                  | snowmobile (机动雪橇)  |
+|161 |                  |                  | snowplow (雪犁)       |
+|162 |                  |                  | soap dispenser (肥皂分发器)|
 |163 |                  |                  | soccer ball           |
 |164 |                  |                  | sofa                  |
-|165 |                  |                  | spatula               |
+|165 |                  |                  | spatula (抹刀/小铲)   |
 |166 |                  |                  | squirrel              |
 |167 |                  |                  | starfish              |
-|168 |                  |                  | stethoscope           |
-|169 |                  |                  | stove                 |
-|170 |                  |                  | strainer              |
+|168 |                  |                  | stethoscope (听诊器)  |
+|169 |                  |                  | stove (火炉)          |
+|170 |                  |                  | strainer (过滤器)     |
 |171 |                  |                  | strawberry            |
-|172 |                  |                  | stretcher             |
+|172 |                  |                  | stretcher (担架)      |
 |173 |                  |                  | sunglasses            |
-|174 |                  |                  | swimming trunks       |
-|175 |                  |                  | swine                 |
-|176 |                  |                  | syringe               |
+|174 |                  |                  | swimming trunks (泳裤)|
+|175 |                  |                  | swine (猪)            |
+|176 |                  |                  | syringe (注射器)      |
 |177 |                  |                  | table                 |
 |178 |                  |                  | tape player           |
 |179 |                  |                  | tennis ball           |
-|180 |                  |                  | tick                  |
+|180 |                  |                  | tick (扁虱)           |
 |181 |                  |                  | tie                   |
 |182 |                  |                  | tiger                 |
-|183 |                  |                  | toaster               |
+|183 |                  |                  | toaster (烤箱)        |
 |184 |                  |                  | traffic light         |
 |185 |                  |                  | train                 |
-|186 |                  |                  | trombone              |
-|187 |                  |                  | trumpet               |
+|186 |                  |                  | trombone (长号)       |
+|187 |                  |                  | trumpet (喇叭)        |
 |188 |                  |                  | turtle                |
 |189 |                  |                  | tv or monitor         |
-|190 |                  |                  | unicycle              |
-|191 |                  |                  | vacuum                |
+|190 |                  |                  | unicycle (单轮车)     |
+|191 |                  |                  | vacuum (真空吸尘器)    |
 |192 |                  |                  | violin                |
 |193 |                  |                  | volleyball            |
-|194 |                  |                  | waffle iron           |
-|195 |                  |                  | washer                |
+|194 |                  |                  | waffle iron (华夫饼干烤模)|
+|195 |                  |                  | washer (垫圈)         |
 |196 |                  |                  | water bottle          |
 |197 |                  |                  | watercraft            |
-|198 |                  |                  | whale                 |
+|198 |                  |                  | whale (鲸)            |
 |199 |                  |                  | wine bottle           |
 |200 |                  |                  | zebra                 |
