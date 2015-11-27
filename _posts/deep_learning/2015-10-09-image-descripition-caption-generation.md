@@ -42,3 +42,8 @@ github: [https://github.com/mrkulk/Unsupervised-Capsule-Network](https://github.
 
 - arXiv: [http://arxiv.org/abs/1511.02793](http://arxiv.org/abs/1511.02793)
 - demo: [http://www.cs.toronto.edu/~emansim/cap2im.html](http://www.cs.toronto.edu/~emansim/cap2im.html)
+
+**Order-Embeddings of Images and Language**
+
+- arXiv: [http://arxiv.org/abs/1511.06361](http://arxiv.org/abs/1511.06361)
+- github: [https://github.com/ivendrov/order-embedding](https://github.com/ivendrov/order-embedding)
