@@ -24,35 +24,35 @@ date: 2015-09-24
 |1   | Aeroplane        | person           | accordion             |
 |2   | Bicycle          | bicycle          | airplane              |
 |3   | Bird             | car              | ant                   |
-|4   | Boat             | motorcycle       | antelope              |
+|4   | Boat             | motorcycle       | antelope (羚羊)       |
 |5   | Bottle           | airplane         | apple                 |
-|6   | Bus              | bus              | armadillo             |
-|7   | Car              | train            | artichoke             |
+|6   | Bus              | bus              | armadillo (犰狳)      |
+|7   | Car              | train            | artichoke (洋蓟)      |
 |8   | Cat              | truck            | axe                   |
 |9   | Chair            | boat             | baby bed              |
 |10  | Cow              | traffic light    | backpack              |
-|11  | Dining table     | fire hydrant     | bagel                 |
-|12  | Dog              | stop sign        | balance beam          |
+|11  | Dining table     | fire hydrant     | bagel (百吉饼)        |
+|12  | Dog              | stop sign        | balance beam (平衡木) |
 |13  | Horse            | parking meter    | banana                |
 |14  | Motorbike        | bench            | band aid              |
-|15  | Person           | bird             | banjo                 |
+|15  | Person           | bird             | banjo (班卓琴)        |
 |16  | Potted plant     | cat              | baseball              |
 |17  | Sheep            | dog              | basketball            |
-|18  | Sofa             | horse            | bathing cap           |
-|19  | Train            | sheep            | beaker                |
+|18  | Sofa             | horse            | bathing cap (游泳帽)  |
+|19  | Train            | sheep            | beaker (烧杯)         |
 |20  | TV/Monitor       | cow              | bear                  |
 |21  |                  | elephant         | bee                   |
-|22  |                  | bear             | bell pepper           |
+|22  |                  | bear             | bell pepper (灯笼椒)  |
 |23  |                  | zebra            | bench                 |
 |24  |                  | giraffe          | bicycle               |
-|25  |                  | backpack         | binder                |
+|25  |                  | backpack         | binder (粘合剂/活页夹) |
 |26  |                  | umbrella         | bird                  |
 |27  |                  | handbag          | bookshelf             |
 |28  |                  | tie              | bow                   |
-|29  |                  | suitcase         | bow tie               |
+|29  |                  | suitcase         | bow tie (领结)        |
 |30  |                  | frisbee          | bowl                  |
-|31  |                  | skis             | brassiere             |
-|32  |                  | snowboard        | burrito               |
+|31  |                  | skis             | brassiere (胸罩)      |
+|32  |                  | snowboard        | burrito (玉米煎饼)    |
 |33  |                  | sports ball      | bus                   |
 |34  |                  | kite             | butterfly             |
 |35  |                  | baseball bat     | camel                 |
@@ -60,20 +60,20 @@ date: 2015-09-24
 |37  |                  | skateboard       | car                   |
 |38  |                  | surfboard        | cart                  |
 |39  |                  | tennis racket    | cattle                |
-|40  |                  | bottle           | cello                 |
-|41  |                  | wine glass       | centipede             |
+|40  |                  | bottle           | cello (大提琴)        |
+|41  |                  | wine glass       | centipede (蜈蚣)      |
 |42  |                  | cup              | chain saw             |
 |43  |                  | fork             | chair                 |
-|44  |                  | knife            | chime                 |
+|44  |                  | knife            | chime (钟/风铃)       |
 |45  |                  | spoon            | cocktail shaker       |
 |46  |                  | bowl             | coffee maker          |
 |47  |                  | banana           | computer keyboard     |
 |48  |                  | apple            | computer mouse        |
-|49  |                  | sandwich         | corkscrew             |
-|50  |                  | orange           | cream                 |
-|51  |                  | broccoli         | croquet ball          |
-|52  |                  | carrot           | crutch                |
-|53  |                  | hot dog          | cucumber              |
+|49  |                  | sandwich         | corkscrew (螺丝锥)    |
+|50  |                  | orange           | cream (奶油)          |
+|51  |                  | broccoli         | croquet ball (槌球)   |
+|52  |                  | carrot           | crutch (拐杖)         |
+|53  |                  | hot dog          | cucumber (黄瓜)       |
 |54  |                  | pizza            | cup or mug            |
 |55  |                  | donut            | diaper                |
 |56  |                  | cake             | digital clock         |
@@ -89,7 +89,7 @@ date: 2015-09-24
 |66  |                  | remote           | fig                   |
 |67  |                  | keyboard         | filing cabinet        |
 |68  |                  | cell phone       | flower pot            |
-|69  |                  | microwave        | flute                 |
+|69  |                  | microwave        | flute (长笛)          |
 |70  |                  | oven             | fox                   |
 |71  |                  | toaster          | french horn           |
 |72  |                  | sink             | frog                  |
@@ -98,13 +98,13 @@ date: 2015-09-24
 |75  |                  | clock            | goldfish              |
 |76  |                  | vase             | golf ball             |
 |77  |                  | scissors         | golfcart              |
-|78  |                  | teddy bear       | guacamole             |
+|78  |                  | teddy bear       | guacamole (鳄梨色拉酱) |
 |79  |                  | hair drier       | guitar                |
 |80  |                  | toothbrush       | hair dryer            |
-|81  |                  |                  | hair spray            |
+|81  |                  |                  | hair spray (发胶)     |
 |82  |                  |                  | hamburger             |
 |83  |                  |                  | hammer                |
-|84  |                  |                  | hamster               |
+|84  |                  |                  | hamster (仓鼠)        |
 |85  |                  |                  | harmonica             |
 |86  |                  |                  | harp                  |
 |87  |                  |                  | hat with a wide brim  |
