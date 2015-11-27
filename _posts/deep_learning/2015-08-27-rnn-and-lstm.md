@@ -73,6 +73,11 @@ date: 2015-08-27
 - paper: [https://web.stanford.edu/~cpiech/bio/papers/deepKnowledgeTracing.pdf](https://web.stanford.edu/~cpiech/bio/papers/deepKnowledgeTracing.pdf)
 - github: [https://github.com/chrispiech/DeepKnowledgeTracing](https://github.com/chrispiech/DeepKnowledgeTracing)
 
+**Alternative structures for character-level RNNs(INRIA & Facebook AI Research)**
+
+- arXiv: [http://arxiv.org/abs/1511.06303](http://arxiv.org/abs/1511.06303)
+- github: [https://github.com/facebook/Conditional-character-based-RNN](https://github.com/facebook/Conditional-character-based-RNN)
+
 # Learn To Execute Programs
 
 **Learning to Execute**
