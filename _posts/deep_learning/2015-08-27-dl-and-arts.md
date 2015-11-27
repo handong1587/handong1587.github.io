@@ -1,9 +1,11 @@
 ---
 layout: post
 category: deep_learning
-title: Convolutional Neural Network and Arts
+title: Deep Learning and Arts
 date: 2015-08-27
 ---
+
+# Painting
 
 **A Neural Algorithm of Artistic Style**
 
@@ -26,13 +28,6 @@ date: 2015-08-27
 - paper: [http://arxiv.org/abs/1505.07376](http://arxiv.org/abs/1505.07376)
 - homepage: [http://bethgelab.org/deeptextures/](http://bethgelab.org/deeptextures/)
 
-**Instructions for making a Neural-Style movie**
-
-<img src="/assets/ocr-materials/Why_is_a_Raven_Like_a_Writing_Desk.jpg" width="800" />
-
-- website: [https://gist.github.com/genekogan/d61c8010d470e1dbe15d](https://gist.github.com/genekogan/d61c8010d470e1dbe15d)
-- sample: [https://vimeo.com/139123754](https://vimeo.com/139123754)
-
 **Experiments with style transfer**
 
 - website: [http://mtyka.github.io/code/2015/10/02/experiments-with-style-transfer.html](http://mtyka.github.io/code/2015/10/02/experiments-with-style-transfer.html)
@@ -41,15 +36,6 @@ date: 2015-08-27
 
 - paper: [http://arxiv.org/abs/1501.07873](http://arxiv.org/abs/1501.07873)
 - project: [http://www.eecs.qmul.ac.uk/~tmh/downloads.html](http://www.eecs.qmul.ac.uk/~tmh/downloads.html)
-
-**GRUV: Algorithmic Music Generation using Recurrent Neural Networks**
-
-- code: [https://github.com/MattVitelli/GRUV](https://github.com/MattVitelli/GRUV)
-
-**DeepHear - Composing and harmonizing music with neural networks**
-
-- website: [http://web.mit.edu/felixsun/www/neural-music.html](http://web.mit.edu/felixsun/www/neural-music.html)
-- code: [https://github.com/fephsun/neuralnetmusic](https://github.com/fephsun/neuralnetmusic)
 
 **How Do Humans Sketch Objects?**
 
@@ -68,9 +54,36 @@ date: 2015-08-27
 
 - project: [https://people.csail.mit.edu/yichangshih/portrait_web/](https://people.csail.mit.edu/yichangshih/portrait_web/)
 
+# Music
+
+**GRUV: Algorithmic Music Generation using Recurrent Neural Networks**
+
+- code: [https://github.com/MattVitelli/GRUV](https://github.com/MattVitelli/GRUV)
+
+**DeepHear - Composing and harmonizing music with neural networks**
+
+- website: [http://web.mit.edu/felixsun/www/neural-music.html](http://web.mit.edu/felixsun/www/neural-music.html)
+- code: [https://github.com/fephsun/neuralnetmusic](https://github.com/fephsun/neuralnetmusic)
+
 **Using AutoHarp and a Character-Based RNN to Create MIDI Drum Loops**
 
 - website: [http://www.inquisitivists.com/2015/09/16/using-autoharp-and-a-character-based-rnn-to-create-midi-drum-loops](http://www.inquisitivists.com/2015/09/16/using-autoharp-and-a-character-based-rnn-to-create-midi-drum-loops)
+
+**Musical Audio Synthesis Using Autoencoding Neural Nets**
+
+- paper: [http://www.cs.dartmouth.edu/~sarroff/papers/sarroff2014a.pdf](http://www.cs.dartmouth.edu/~sarroff/papers/sarroff2014a.pdf)
+- github: [https://github.com/woodshop/deepAutoController/tree/icmc_smc_2014](https://github.com/woodshop/deepAutoController/tree/icmc_smc_2014)
+
+# Video
+
+**Instructions for making a Neural-Style movie**
+
+<img src="/assets/ocr-materials/Why_is_a_Raven_Like_a_Writing_Desk.jpg" width="800" />
+
+- website: [https://gist.github.com/genekogan/d61c8010d470e1dbe15d](https://gist.github.com/genekogan/d61c8010d470e1dbe15d)
+- sample: [https://vimeo.com/139123754](https://vimeo.com/139123754)
+
+# Game
 
 **Learning Game of Life with a Convolutional Neural Network**
 
