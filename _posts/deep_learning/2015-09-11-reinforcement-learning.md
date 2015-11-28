@@ -61,6 +61,11 @@ date: 2015-09-11
 
 - arXiv: [http://arxiv.org/abs/1511.07401](http://arxiv.org/abs/1511.07401)
 
+**Learning Simple Algorithms from Examples(New York University & Facebook AI Research)**
+
+- arXiv: [http://arxiv.org/abs/1511.07275](http://arxiv.org/abs/1511.07275)
+- github: [https://github.com/wojzaremba/algorithm-learning](https://github.com/wojzaremba/algorithm-learning)
+
 # Blog
 
 **Deep Reinforcement Learning Papers**
