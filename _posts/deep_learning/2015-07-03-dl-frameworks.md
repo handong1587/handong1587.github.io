@@ -79,6 +79,10 @@ date: 2015-07-03
 - website: [https://01.org/zh/intel-deep-learning-framework?langredirect=1](https://01.org/zh/intel-deep-learning-framework?langredirect=1)
 - github: [https://github.com/01org/idlf](https://github.com/01org/idlf)
 
+**DIGITS: the Deep Learning GPU Training System**
+
+- github: [https://github.com/NVIDIA/DIGITS](https://github.com/NVIDIA/DIGITS)
+
 # Benchmark
 
 [https://github.com/soumith/convnet-benchmarks](https://github.com/soumith/convnet-benchmarks)
