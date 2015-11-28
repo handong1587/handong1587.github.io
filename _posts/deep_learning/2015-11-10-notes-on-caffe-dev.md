@@ -1,9 +1,23 @@
 ---
 layout: post
 category: deep_learning
-title: Notes On Caffe Develop
+title: Notes On Caffe Development
 date: 2015-11-10
 ---
+
+# Installation
+
+**Build Caffe in Windows with Visual Studio 2013 + CUDA 6.5 + OpenCV 2.4.9**
+
+[https://initialneil.wordpress.com/2015/01/11/build-caffe-in-windows-with-visual-studio-2013-cuda-6-5-opencv-2-4-9/](https://initialneil.wordpress.com/2015/01/11/build-caffe-in-windows-with-visual-studio-2013-cuda-6-5-opencv-2-4-9/)
+
+**[2015-04-01] Build Caffe with Visual Studio 2013 on Windows 7 x64 using Cuda 7.0**
+
+[https://mthust.github.io/2015/04/Build-Caffe-with-Visual-Studio-2013-on-Windows-7-x64-using-Cuda-7.0/](https://mthust.github.io/2015/04/Build-Caffe-with-Visual-Studio-2013-on-Windows-7-x64-using-Cuda-7.0/)
+
+**OpenCV Installation in Windows**
+
+[http://docs.opencv.org/doc/tutorials/introduction/windows_install/windows_install.html](http://docs.opencv.org/doc/tutorials/introduction/windows_install/windows_install.html)
 
 # HDF5 vs. LMDB
 
@@ -44,10 +58,30 @@ layer {
 
 [https://github.com/BVLC/caffe/issues/1698#issuecomment-70211045](https://github.com/BVLC/caffe/issues/1698#issuecomment-70211045)
 
-# Reference
+**Reference**
 
 [http://vision.stanford.edu/teaching/cs231n/slides/caffe_tutorial.pdf](http://vision.stanford.edu/teaching/cs231n/slides/caffe_tutorial.pdf)
 
 [http://deepdish.io/](http://deepdish.io/)
 
 [https://github.com/BVLC/caffe/issues/1470](https://github.com/BVLC/caffe/issues/1470)
+
+# "lr_policy" in Caffe
+
+fixed: the learning rate is keped fixed throughout the learning process.
+
+inv: the learning rate is decaying as ~1/T
+
+<img src="/assets/dl-materials/notes-on-caffe-dev/inv.png" />
+
+step: the learning rate is piece-wise constant, dropping every X iterations
+
+<img src="/assets/dl-materials/notes-on-caffe-dev/step.png" />
+
+multistep: piece-wise constant at arbitrary intervals
+
+<img src="/assets/dl-materials/notes-on-caffe-dev/multistep.png" />
+
+**Reference**
+
+[http://stackoverflow.com/questions/30033096/what-is-lr-policy-in-caffe](http://stackoverflow.com/questions/30033096/what-is-lr-policy-in-caffe)
