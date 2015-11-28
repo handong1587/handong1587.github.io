@@ -27,9 +27,11 @@ date: 2015-09-25
 
 [http://whatsnext.nuance.com/in-the-labs/what-is-deep-machine-learning/](http://whatsnext.nuance.com/in-the-labs/what-is-deep-machine-learning/)
 
-<span style="color: red; font-size: 150%; font-weight: bold;">
-Self-driving Cars
-</span>
+**DEEP LEARNING WITH ANDREJ KARPATHY**
+
+[https://re-work.co/blog/deep-learning-andrej-karpathy](https://re-work.co/blog/deep-learning-andrej-karpathy)
+
+# Self-driving Cars
 
 **Self-driving cars: How far away are we REALLY from autonomous cars?(7 Aug 2015)**
 

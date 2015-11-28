@@ -57,6 +57,10 @@ date: 2015-09-11
 
 - arXiv: [http://arxiv.org/abs/1511.06342](http://arxiv.org/abs/1511.06342)
 
+**MazeBase: A Sandbox for Learning from Games(New York University & Facebook AI Research)**
+
+- arXiv: [http://arxiv.org/abs/1511.07401](http://arxiv.org/abs/1511.07401)
+
 # Blog
 
 **Deep Reinforcement Learning Papers**
