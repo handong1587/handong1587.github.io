@@ -17,3 +17,7 @@ date: 2015-10-09
 **Giraffe: Using Deep Reinforcement Learning to Play Chess**
 
 - arXiv: [http://arxiv.org/abs/1509.01549](http://arxiv.org/abs/1509.01549)
+
+**Better Computer Go Player with Neural Network and Long-term Prediction(Facebook AI Research)**
+
+- arXiv: [http://arxiv.org/abs/1511.06410](http://arxiv.org/abs/1511.06410)
