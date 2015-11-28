@@ -5,6 +5,8 @@ title: Interesting Projects
 date: 2015-09-09
 ---
 
+# Game
+
 **StarCraft: HTML5 version for StarCraft game**
 
 <img src="/assets/programming_study/Starcraft_Demo.jpg" width="800" />
@@ -16,14 +18,6 @@ date: 2015-09-09
 **The Brood War API**
 
 - project: [https://github.com/bwapi/bwapi](https://github.com/bwapi/bwapi)
-
-**Latex to HTML5**
-
-- project: [https://github.com/smarr/latex-to-html5](https://github.com/smarr/latex-to-html5)
-
-**Python Gems: A collection of python scripts that solve interesting problems**
-
-- github: [https://github.com/RealHacker/python-gems](https://github.com/RealHacker/python-gems)
 
 **CodeCombat: Multiplayer programming game for learning how to code**
 
@@ -44,9 +38,32 @@ date: 2015-09-09
 - github: [https://github.com/mozilla/BrowserQuest](https://github.com/mozilla/BrowserQuest)
 - homepage: [http://browserquest.mozilla.org/](http://browserquest.mozilla.org/)
 
-**Lean: a new open source theorem prover(Microsoft Research)**
+**2048-AI**
 
-- website: [http://leanprover.github.io/](http://leanprover.github.io/)
+<img src="/assets/programming_study/2048.png" width="800"/>
+
+- demo: [http://ov3y.github.io/2048-AI/](http://ov3y.github.io/2048-AI/)
+- github: [https://github.com/ov3y/2048-AI/](https://github.com/ov3y/2048-AI/)
+- stackoverflow: [http://stackoverflow.com/questions/22342854/what-is-the-optimal-algorithm-for-the-game-2048](http://stackoverflow.com/questions/22342854/what-is-the-optimal-algorithm-for-the-game-2048)
+- zh-blog: [http://blogread.cn/it/article/6827?f=wb](http://blogread.cn/it/article/6827?f=wb)
+
+# Editing
+
+**Latex to HTML5**
+
+- project: [https://github.com/smarr/latex-to-html5](https://github.com/smarr/latex-to-html5)
+
+**Enhancements for The official editor for Code in the Dark**
+
+<img src="/assets/programming_study/codeinthedark_editor_enhancement.gif" />
+
+- github: [https://github.com/codeinthedark/editor/pull/1)
+
+# Utilities
+
+**Python Gems: A collection of python scripts that solve interesting problems**
+
+- github: [https://github.com/RealHacker/python-gems](https://github.com/RealHacker/python-gems)
 
 **nude.js: Nudity detection with JavaScript and HTMLCanvas**
 
@@ -57,6 +74,8 @@ date: 2015-09-09
 
 [https://hackage.haskell.org/package/hastily](https://hackage.haskell.org/package/hastily)
 
+# Multi-media
+
 **cmus — C* Music Player**
 
 <img src="/assets/programming_study/cmus-2.4.3-osx.png"/>
@@ -64,22 +83,21 @@ date: 2015-09-09
 - website: [https://cmus.github.io/]
 - github: [https://github.com/cmus/cmus](https://github.com/cmus/cmus)
 
+**a2mp3 - anything2mp3**
+
+- github: [https://github.com/apfeltee/a2mp3](https://github.com/apfeltee/a2mp3)
+
+# Algorithm
+
+**Lean: a new open source theorem prover(Microsoft Research)**
+
+- website: [http://leanprover.github.io/](http://leanprover.github.io/)
+
+# Technology
+
 **RF-Capture: Capturing the Human Figure Through a Wall**
 
 <img src="/assets/programming_study/RF-Capture-intro-figures.jpg" width="1000"/>
 
 - project: [http://rfcapture.csail.mit.edu/](http://rfcapture.csail.mit.edu/)
 - paper: [http://rfcapture.csail.mit.edu/rfcapture-paper.pdf](http://rfcapture.csail.mit.edu/rfcapture-paper.pdf)
-
-**2048-AI**
-
-<img src="/assets/programming_study/2048.png" width="800"/>
-
-- demo: [http://ov3y.github.io/2048-AI/](http://ov3y.github.io/2048-AI/)
-- github: [https://github.com/ov3y/2048-AI/](https://github.com/ov3y/2048-AI/)
-- stackoverflow: [http://stackoverflow.com/questions/22342854/what-is-the-optimal-algorithm-for-the-game-2048](http://stackoverflow.com/questions/22342854/what-is-the-optimal-algorithm-for-the-game-2048)
-- zh-blog: [http://blogread.cn/it/article/6827?f=wb](http://blogread.cn/it/article/6827?f=wb)
-
-**a2mp3 - anything2mp3**
-
-- github: [https://github.com/apfeltee/a2mp3](https://github.com/apfeltee/a2mp3)
