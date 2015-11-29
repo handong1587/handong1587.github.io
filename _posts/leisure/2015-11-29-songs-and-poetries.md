@@ -56,13 +56,6 @@ How charged with punishments the scroll.  <br />
 I am the master of my fate:  <br />
 I am the captain of my soul.   <br />
 
-## Eloisa to Abelard by Alexander Pope
-
-How happy is the blameless Vestal’s lot.   <br />
-The world forgetting，by the world forgot.   <br />
-Enteral sunshine of the spotless mind.   <br />
-Each prayer accepted,and each wish resigned.   <br />
-
 ## I like for you to be still
 
 I like for you to be still， it is as though you were absent,    <br />
