@@ -46,7 +46,8 @@ ul#markdown-toc {
     position: fixed;
     padding: 0px;
     left: 10px;
-    bottom: 200px;
+    /*bottom: 200px;*/
+    top: 10px;
     /*border-radius: 0.3em;*/
     border-radius: 0.2em;
     box-shadow: rgba(0,0,0,0.15) 0 1px 4px;
