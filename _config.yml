@@ -27,6 +27,8 @@ markdown:     kramdown
 highlighter:  pygments
 lsi:          false
 excerpt_separator: "\n\n"
+# TOC # 2015/11/29
+toc_levels:   2..3
 
 # Serving
 detach:       false
