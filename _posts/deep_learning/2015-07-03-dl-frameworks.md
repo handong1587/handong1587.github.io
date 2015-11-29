@@ -5,6 +5,11 @@ title: Open Source Deep Learning Frameworks
 date: 2015-07-03
 ---
 
+* TOC
+{:toc}
+
+# Frameworks
+
 **Caffe: Convolutional Architecture for Fast Feature Embedding**
 
 - github: [https://github.com/BVLC/caffe](https://github.com/BVLC/caffe)
@@ -35,7 +40,7 @@ date: 2015-07-03
 - github: [https://github.com/purine/purine2](https://github.com/purine/purine2)
 - arXiv: [http://arxiv.org/abs/1412.6249](http://arxiv.org/abs/1412.6249)
 
-**neon: Nervana’s Python-based deep learning library**
+**Neon: Nervana’s Python-based deep learning library**
 
 - website: [http://neon.nervanasys.com/docs/latest/index.html](http://neon.nervanasys.com/docs/latest/index.html)
 - github: [https://github.com/NervanaSystems/neon](https://github.com/NervanaSystems/neon)
@@ -82,6 +87,18 @@ date: 2015-07-03
 **DIGITS: the Deep Learning GPU Training System**
 
 - github: [https://github.com/NVIDIA/DIGITS](https://github.com/NVIDIA/DIGITS)
+
+**Brainstorm: Fast, flexible and fun neural networks**
+
+- github: [https://github.com/IDSIA/brainstorm](https://github.com/IDSIA/brainstorm)
+
+**Deeplearning4j: Deep Learning for Java**
+
+- website: [http://deeplearning4j.org/](http://deeplearning4j.org/)
+
+**ConvNetJS: Deep Learning in Javascript. Train Convolutional Neural Networks (or ordinary ones) in your browser**
+
+- github: [https://github.com/karpathy/convnetjs](https://github.com/karpathy/convnetjs)
 
 # Benchmark
 
