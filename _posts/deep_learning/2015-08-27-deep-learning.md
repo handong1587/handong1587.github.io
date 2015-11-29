@@ -5,6 +5,9 @@ title: Deep Learning
 date: 2015-08-27
 ---
 
+* TOC
+{:toc}
+
 # Tutorials
 
 <img src="/assets/cnn-materials/LeNet5.png" />
@@ -214,7 +217,7 @@ date: 2015-08-27
 
 - paper: [http://arxiv.org/abs/1509.05936](http://arxiv.org/abs/1509.05936)
 
-# Interesting Deep Learning Projects
+# Projects
 
 **ConvNetJS: a Javascript implementation of Neural networks**
 
