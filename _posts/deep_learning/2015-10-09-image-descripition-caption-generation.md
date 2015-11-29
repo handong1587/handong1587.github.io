@@ -47,3 +47,7 @@ github: [https://github.com/mrkulk/Unsupervised-Capsule-Network](https://github.
 
 - arXiv: [http://arxiv.org/abs/1511.06361](http://arxiv.org/abs/1511.06361)
 - github: [https://github.com/ivendrov/order-embedding](https://github.com/ivendrov/order-embedding)
+
+**DenseCap: Fully Convolutional Localization Networks for Dense Captioning**
+
+- arXiv: [http://arxiv.org/abs/1511.07571](http://arxiv.org/abs/1511.07571)
