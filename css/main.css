@@ -51,8 +51,9 @@ ul#markdown-toc {
     border-radius: 0.2em;
     box-shadow: rgba(0,0,0,0.15) 0 1px 4px;
     box-sizing: border-box;
-    border: #fff 0.5em solid;
+    /*border: #fff 0.5em solid;*/    
     /*background-color: white;*/
+    border: #FAF0E6 0.5em solid;
     background-color: #FAF0E6;
 }
 
