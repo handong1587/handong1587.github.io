@@ -52,7 +52,8 @@ ul#markdown-toc {
     box-shadow: rgba(0,0,0,0.15) 0 1px 4px;
     box-sizing: border-box;
     border: #fff 0.5em solid;
-    background-color: white;
+    /*background-color: white;*/
+    background-color: #91736b;
 }
 
 /*****************************************************************************/
