@@ -8,7 +8,9 @@ date: 2015-11-29
 * TOC
 {:toc}
 
-##Scarborough Fair
+# Songs
+
+## Scarborough Fair
 
 Are you going to Scarborough Fair?  <br />
 Parsley, sage, rosemary, and thyme;  <br />
@@ -30,7 +32,9 @@ Parsley, sage, rosemary, and thyme;  <br />
 Which never bore blossom since Adam was born,  <br />
 Then she shall be a true lover of mine.  <br />
 
-##Invictus
+# Poetries
+
+## Invictus
 
 Out of the night that covers me,  <br />
 Black as the Pit from pole to pole,  <br />
@@ -52,14 +56,14 @@ How charged with punishments the scroll.  <br />
 I am the master of my fate:  <br />
 I am the captain of my soul.   <br />
 
-##Eloisa to Abelard by Alexander Pope
+## Eloisa to Abelard by Alexander Pope
 
 How happy is the blameless Vestal’s lot.   <br />
 The world forgetting，by the world forgot.   <br />
 Enteral sunshine of the spotless mind.   <br />
 Each prayer accepted,and each wish resigned.   <br />
 
-##I like for you to be still
+## I like for you to be still
 
 I like for you to be still， it is as though you were absent,    <br />
 and you hear me from far away， and my voice does not touch you.     <br />
