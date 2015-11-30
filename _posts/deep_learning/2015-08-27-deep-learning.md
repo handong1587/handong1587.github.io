@@ -55,6 +55,12 @@ date: 2015-08-27
 
 - paper: [http://arxiv.org/abs/1509.05009](http://arxiv.org/abs/1509.05009)
 
+# Activation functions
+
+**Empirical Evaluation of Rectified Activations in Convolutional Network**
+
+- arXiv: [http://arxiv.org/abs/1505.00853](http://arxiv.org/abs/1505.00853)
+
 # Dropout
 
 **Dropout as data augmentation**
