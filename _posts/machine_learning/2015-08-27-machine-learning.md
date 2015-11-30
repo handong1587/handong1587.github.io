@@ -5,6 +5,9 @@ title: Machine Learning
 date: 2015-08-27
 ---
 
+* TOC
+{:toc}
+
 # Multilabel
 
 **Neural Network Models for Multilabel Learning**
@@ -69,6 +72,12 @@ date: 2015-08-27
 - project page: [http://www.ipol.im/pub/art/2015/137/](http://www.ipol.im/pub/art/2015/137/)
 - paper: [http://www.ipol.im/pub/art/2015/137/article_lr.pdf](http://www.ipol.im/pub/art/2015/137/article_lr.pdf)
 - code: [http://www.ipol.im/pub/art/2015/137/NN.tar.gz](http://www.ipol.im/pub/art/2015/137/NN.tar.gz)
+
+**CrAIg: Using Neural Networks to learn Mario**
+
+- blog: [https://medium.com/@savas/craig-using-neural-networks-to-learn-mario-a76036b639ad](https://medium.com/@savas/craig-using-neural-networks-to-learn-mario-a76036b639ad)
+- github: [https://github.com/joenot443/crAIg](https://github.com/joenot443/crAIg)
+- paper: [http://nn.cs.utexas.edu/downloads/papers/stanley.ec02.pdf](http://nn.cs.utexas.edu/downloads/papers/stanley.ec02.pdf)
 
 # Matrix Factorization
 

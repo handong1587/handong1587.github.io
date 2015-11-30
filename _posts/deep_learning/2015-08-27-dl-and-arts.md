@@ -82,10 +82,3 @@ date: 2015-08-27
 
 - website: [https://gist.github.com/genekogan/d61c8010d470e1dbe15d](https://gist.github.com/genekogan/d61c8010d470e1dbe15d)
 - sample: [https://vimeo.com/139123754](https://vimeo.com/139123754)
-
-# Game
-
-**Learning Game of Life with a Convolutional Neural Network**
-
-- blog: [http://danielrapp.github.io/cnn-gol/](http://danielrapp.github.io/cnn-gol/)
-- github: [https://github.com/DanielRapp/cnn-gol](https://github.com/DanielRapp/cnn-gol)

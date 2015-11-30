@@ -117,7 +117,7 @@ date: 2015-08-27
 
 # Caffe
 
-"DIY Deep Learning for Vision: A Tutorial With Caffe 报告笔记"
+**IY Deep Learning for Vision: A Tutorial With Caffe 报告笔记**
 
 [http://frank19900731.github.io/wx/2014-12-04-diy-deep-learning-for-vision-a-tutorial-with-caffe-bao-gao-bi-ji.html](http://frank19900731.github.io/wx/2014-12-04-diy-deep-learning-for-vision-a-tutorial-with-caffe-bao-gao-bi-ji.html)
 
@@ -217,23 +217,11 @@ date: 2015-08-27
 
 - paper: [http://arxiv.org/abs/1509.05936](http://arxiv.org/abs/1509.05936)
 
-# Projects
+# Interesting Projects
 
 **ConvNetJS: a Javascript implementation of Neural networks**
 
 - github: [https://github.com/karpathy/convnetjs](https://github.com/karpathy/convnetjs)
-
-**CrAIg: Using Neural Networks to learn Mario**
-
-- blog: [https://medium.com/@savas/craig-using-neural-networks-to-learn-mario-a76036b639ad](https://medium.com/@savas/craig-using-neural-networks-to-learn-mario-a76036b639ad)
-- github: [https://github.com/joenot443/crAIg](https://github.com/joenot443/crAIg)
-- paper: [http://nn.cs.utexas.edu/downloads/papers/stanley.ec02.pdf](http://nn.cs.utexas.edu/downloads/papers/stanley.ec02.pdf)
-
-**Reinforcement Learning using Tensor Flow**
-
-<img src="/assets/dl-materials/tensorflow-deepq-example.gif"/>
-
-- github: [https://github.com/nivwusquorum/tensorflow-deepq](https://github.com/nivwusquorum/tensorflow-deepq)
 
 # Readings and Questions
 
