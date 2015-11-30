@@ -117,7 +117,7 @@ date: 2015-08-27
 
 # Caffe
 
-**IY Deep Learning for Vision: A Tutorial With Caffe 报告笔记**
+**DIY Deep Learning for Vision: A Tutorial With Caffe 报告笔记**
 
 [http://frank19900731.github.io/wx/2014-12-04-diy-deep-learning-for-vision-a-tutorial-with-caffe-bao-gao-bi-ji.html](http://frank19900731.github.io/wx/2014-12-04-diy-deep-learning-for-vision-a-tutorial-with-caffe-bao-gao-bi-ji.html)
 
