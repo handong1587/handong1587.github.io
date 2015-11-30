@@ -36,3 +36,8 @@ date: 2015-08-10
 
 - arXiv: [http://arxiv.org/abs/1510.05328](http://arxiv.org/abs/1510.05328)
 - github: [https://github.com/tabacof/adversarial](https://github.com/tabacof/adversarial)
+
+**Adversarial Autoencoders**
+
+- arXiv: [http://arxiv.org/abs/1511.05644](http://arxiv.org/abs/1511.05644)
+- notes(by Dustin Tran): [http://dustintran.com/blog/adversarial-autoencoders/](http://dustintran.com/blog/adversarial-autoencoders/)
