@@ -26,6 +26,11 @@ date: 2015-09-12
 - paper: [http://www.its.caltech.edu/~roarke/research/FPM/FPM_Aperture_Scanning.pdf](http://www.its.caltech.edu/~roarke/research/FPM/FPM_Aperture_Scanning.pdf)
 - slides: [http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=6754138](http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=6754138)
 
+**Single Image Super-Resolution from Transformed Self-Exemplars**
+
+- homepage: [https://sites.google.com/site/jbhuang0604/publications/struct_sr](https://sites.google.com/site/jbhuang0604/publications/struct_sr)
+- github: [https://github.com/jbhuang0604/SelfExSR](https://github.com/jbhuang0604/SelfExSR)
+
 **Fast Burst Images Denoising(SIGGRAPH Asia 2014. CUHK, Microsoft Research)**
 
 <img src="/assets/computer-vision/Fast_Burst_Images_Denoising_intro.png" width="800" />
