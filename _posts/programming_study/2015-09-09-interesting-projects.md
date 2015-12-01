@@ -5,6 +5,9 @@ title: Interesting Projects
 date: 2015-09-09
 ---
 
+* TOC
+{:toc}
+
 # Game
 
 **StarCraft: HTML5 version for StarCraft game**
