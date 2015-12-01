@@ -85,3 +85,8 @@ multistep: piece-wise constant at arbitrary intervals
 **Reference**
 
 [http://stackoverflow.com/questions/30033096/what-is-lr-policy-in-caffe](http://stackoverflow.com/questions/30033096/what-is-lr-policy-in-caffe)
+
+# Iteration loss vs. Train Net loss
+
+The `net output #k` result is the output of the net for that particular iteration / batch 
+while the `Iteration T, loss = X` output is smoothed across iterations according to the `average_loss` field.
