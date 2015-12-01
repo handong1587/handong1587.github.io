@@ -283,3 +283,7 @@ date: 2015-08-27
 **Turing Machine: musings on theory & code(DEEP LEARNING REVOLUTION, summer 2015, state of the art & topnotch links)**
 
 [https://vzn1.wordpress.com/2015/09/01/deep-learning-revolution-summer-2015-state-of-the-art-topnotch-links/](https://vzn1.wordpress.com/2015/09/01/deep-learning-revolution-summer-2015-state-of-the-art-topnotch-links/)
+
+**BICV Group: Biologically Inspired Computer Vision research group**
+
+[http://www.bicv.org/deep-learning/](http://www.bicv.org/deep-learning/)
