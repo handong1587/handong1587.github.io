@@ -37,6 +37,7 @@ date: 2015-08-27
 **Visualizing and Understanding Recurrent Networks(Andrej Karpathy, Justin Johnson, Fei-Fei Li)**
 
 - paper: [http://arxiv.org/abs/1506.02078](http://arxiv.org/abs/1506.02078)
+- slides: [http://www.robots.ox.ac.uk/~seminars/seminars/Extra/2015_07_06_AndrejKarpathy.pdf](http://www.robots.ox.ac.uk/~seminars/seminars/Extra/2015_07_06_AndrejKarpathy.pdf)
 
 **Project: pycaffe-recurrent**
 
