@@ -59,6 +59,12 @@ date: 2015-09-09
 
 - github: [https://github.com/codeinthedark/editor/pull/1)
 
+**activate-power-mode atom package**
+
+<img src="/assets/programming_study/activate_power_mode_atom_package.gif" />
+
+- package: [https://atom.io/packages/activate-power-mode](https://atom.io/packages/activate-power-mode)
+
 # Utilities
 
 **Python Gems: A collection of python scripts that solve interesting problems**
