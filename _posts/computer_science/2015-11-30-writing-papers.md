@@ -2,7 +2,7 @@
 layout: post
 category: computer_sciense
 title: Writting CS Papers
-date: 2015-11-18
+date: 2015-11-30
 ---
 
 **Ten Tips for Writing CS Papers, Part 1**
