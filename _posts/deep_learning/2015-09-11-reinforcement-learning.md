@@ -66,6 +66,11 @@ date: 2015-09-11
 - arXiv: [http://arxiv.org/abs/1511.07275](http://arxiv.org/abs/1511.07275)
 - github: [https://github.com/wojzaremba/algorithm-learning](https://github.com/wojzaremba/algorithm-learning)
 
+**Multiagent Cooperation and Competition with Deep Reinforcement Learning**
+
+- arXiv: [http://arxiv.org/abs/1511.08779](http://arxiv.org/abs/1511.08779)
+- github: [https://github.com/NeuroCSUT/DeepMind-Atari-Deep-Q-Learner-2Player](https://github.com/NeuroCSUT/DeepMind-Atari-Deep-Q-Learner-2Player)
+
 # Blog
 
 **Deep Reinforcement Learning Papers**
