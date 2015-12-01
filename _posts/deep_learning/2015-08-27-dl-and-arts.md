@@ -21,6 +21,7 @@ date: 2015-08-27
 - github: [https://github.com/mattya/chainer-gogh](https://github.com/mattya/chainer-gogh)
 - github: [https://github.com/anishathalye/neural-style](https://github.com/anishathalye/neural-style)
 - github: [https://github.com/woodrush/neural-art-tf](https://github.com/woodrush/neural-art-tf)
+- github: [https://github.com/dmlc/mxnet/tree/master/example/neural-style](https://github.com/dmlc/mxnet/tree/master/example/neural-style)
 - demo: [http://deepart.io/](http://deepart.io/)
 
 **Texture synthesis and the controlled generation of natural stimuli using convolutional neural networks**
