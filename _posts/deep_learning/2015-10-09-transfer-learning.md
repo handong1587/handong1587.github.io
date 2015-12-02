@@ -2,7 +2,7 @@
 layout: post
 category: deep_learning
 title: Transfer Learning
-date: 2015-11-09
+date: 2015-10-09
 ---
 
 **How transferable are features in deep neural networks?((NIPS 2014)**
