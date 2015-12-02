@@ -33,3 +33,7 @@ date: 2015-10-09
 
 - arXiv: [http://arxiv.org/abs/1508.01292](http://arxiv.org/abs/1508.01292)
 - github: [https://github.com/Bkmz21/FD-Evaluation](https://github.com/Bkmz21/FD-Evaluation)
+
+**WIDER FACE: A Face Detection Benchmark**
+
+- arXiv: [http://arxiv.org/abs/1511.06523](http://arxiv.org/abs/1511.06523)

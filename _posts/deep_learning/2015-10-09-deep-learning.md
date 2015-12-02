@@ -115,6 +115,12 @@ date: 2015-10-09
 
 [http://lamda.nju.edu.cn/weixs/project/CNNTricks/CNNTricks.html](http://lamda.nju.edu.cn/weixs/project/CNNTricks/CNNTricks.html)
 
+**A practical theory for designing very deep convolutional neural network**
+
+- kaggle: [https://www.kaggle.com/c/datasciencebowl/forums/t/13166/happy-lantern-festival-report-and-code/69284](https://www.kaggle.com/c/datasciencebowl/forums/t/13166/happy-lantern-festival-report-and-code/69284)
+- paper: [https://kaggle2.blob.core.windows.net/forum-message-attachments/69182/2287/A%20practical%20theory%20for%20designing%20very%20deep%20convolutional%20neural%20networks.pdf?sv=2012-02-12&se=2015-12-05T15%3A40%3A02Z&sr=b&sp=r&sig=kfBQKduA1pDtu837Y9Iqyrp2VYItTV0HCgOeOok9E3E%3D](https://kaggle2.blob.core.windows.net/forum-message-attachments/69182/2287/A%20practical%20theory%20for%20designing%20very%20deep%20convolutional%20neural%20networks.pdf?sv=2012-02-12&se=2015-12-05T15%3A40%3A02Z&sr=b&sp=r&sig=kfBQKduA1pDtu837Y9Iqyrp2VYItTV0HCgOeOok9E3E%3D)
+- slides: [http://vdisk.weibo.com/s/3nFsznjLKn](http://vdisk.weibo.com/s/3nFsznjLKn)
+
 # Gradient Descent
 
 **Fitting a model via closed-form equations vs. Gradient Descent vs Stochastic Gradient Descent vs Mini-Batch Learning. What is the difference?(Normal Equations vs. GD vs. SGD vs. MB-GD)**
@@ -173,6 +179,12 @@ date: 2015-10-09
 
 - paper: [http://arxiv.org/abs/1509.05016](http://arxiv.org/abs/1509.05016)
 - homepage: [http://www.brain4cars.com/](http://www.brain4cars.com/)
+
+# Boundary Detection
+
+**Surpassing Humans in Boundary Detection using Deep Learning**
+
+- arXiv: [http://arxiv.org/abs/1511.07386](http://arxiv.org/abs/1511.07386)
 
 # Interesting Application
 
