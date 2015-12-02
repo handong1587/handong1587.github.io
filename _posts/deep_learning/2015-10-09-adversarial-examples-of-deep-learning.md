@@ -2,7 +2,7 @@
 layout: post
 category: deep_learning
 title: Adversarial Examples of Deep Learning
-date: 2015-08-10
+date: 2015-10-09
 ---
 
 {{ page.title }}

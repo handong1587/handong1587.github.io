@@ -2,7 +2,7 @@
 layout: post
 category: deep_learning
 title: Object Detection
-date: 2015-08-26
+date: 2015-10-09
 ---
 
 **Deep Neural Networks for Object Detection**

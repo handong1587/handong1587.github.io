@@ -2,7 +2,7 @@
 layout: post
 category: deep_learning
 title: Reinforcement Learning
-date: 2015-09-11
+date: 2015-10-09
 ---
 
 # Paper

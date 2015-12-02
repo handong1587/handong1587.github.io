@@ -2,7 +2,7 @@
 layout: post
 category: deep_learning
 title: Deep Learning and Arts
-date: 2015-08-27
+date: 2015-10-09
 ---
 
 # Painting

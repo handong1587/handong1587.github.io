@@ -2,7 +2,7 @@
 layout: post
 category: deep_learning
 title: Event Recognition
-date: 2015-10-16
+date: 2015-10-09
 ---
 
 **TagBook: A Semantic Video Representation without Supervision for Event Detection**

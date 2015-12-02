@@ -2,7 +2,7 @@
 layout: post
 category: deep_learning
 title: Language Computation
-date: 2015-09-30
+date: 2015-10-09
 ---
 
 **Neural Machine Translation by Jointly Learning to Align and Translate**

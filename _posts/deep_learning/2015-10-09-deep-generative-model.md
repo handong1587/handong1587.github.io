@@ -2,7 +2,7 @@
 layout: post
 category: deep_learning
 title: Deep Generative Model
-date: 2015-10-16
+date: 2015-10-09
 ---
 
 **Digit Fantasies by a Deep Generative Model**

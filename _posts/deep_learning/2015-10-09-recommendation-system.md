@@ -2,7 +2,7 @@
 layout: post
 category: deep_learning
 title: Recommendation System
-date: 2015-08-26
+date: 2015-10-09
 ---
 
 **Image-based recommendations on styles and substitutes**

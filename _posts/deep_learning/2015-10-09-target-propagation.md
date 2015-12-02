@@ -2,7 +2,7 @@
 layout: post
 category: deep_learning
 title: Target Propagation
-date: 2015-10-16
+date: 2015-10-09
 ---
 
 **How Auto-Encoders Could Provide Credit Assignment in Deep Networks via Target Propagation(Yoshua Bengio)**

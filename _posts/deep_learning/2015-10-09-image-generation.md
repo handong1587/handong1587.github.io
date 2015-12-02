@@ -2,7 +2,7 @@
 layout: post
 category: deep_learning
 title: Image Generation
-date: 2015-10-10
+date: 2015-10-09
 ---
 
 **Generative Adversarial Networks**

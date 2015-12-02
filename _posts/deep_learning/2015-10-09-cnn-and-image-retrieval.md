@@ -1,8 +1,8 @@
 ---
 layout: post
 category: deep_learning
-title: Convolutional Neural Network and Image Retrieval
-date: 2015-08-27
+title: Image Retrieval
+date: 2015-10-09
 ---
 
 **Deep Learning of Binary Hash Codes for Fast Image Retrieval**

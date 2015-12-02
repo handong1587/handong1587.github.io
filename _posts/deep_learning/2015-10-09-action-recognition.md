@@ -2,7 +2,7 @@
 layout: post
 category: deep_learning
 title: Action Recognition
-date: 2015-10-16
+date: 2015-10-09
 ---
 
 **Contextual Action Recognition with R*CNN**

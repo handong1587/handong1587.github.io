@@ -2,7 +2,7 @@
 layout: post
 category: deep_learning
 title: Object Classification
-date: 2015-08-25
+date: 2015-10-09
 ---
 
 **Delving Deep into Rectifiers: Surpassing Human-Level Performance on ImageNet Classification(ImageNet top-5 error: 4.94%)**

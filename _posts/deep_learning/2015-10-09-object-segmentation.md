@@ -2,7 +2,7 @@
 layout: post
 category: deep_learning
 title: Object Segmentation
-date: 2015-08-26
+date: 2015-10-09
 ---
 
 **Deep Joint Task Learning for Generic Object Extraction(NIPS2014)**

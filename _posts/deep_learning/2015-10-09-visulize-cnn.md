@@ -2,7 +2,7 @@
 layout: post
 category: deep_learning
 title: Visualize Convolutional Neural Network
-date: 2015-08-10
+date: 2015-10-09
 ---
 
 # Paper

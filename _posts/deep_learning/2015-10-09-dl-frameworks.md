@@ -2,7 +2,7 @@
 layout: post
 category: deep_learning
 title: Open Source Deep Learning Frameworks
-date: 2015-07-03
+date: 2015-10-09
 ---
 
 * TOC

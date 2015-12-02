@@ -2,7 +2,7 @@
 layout: post
 category: deep_learning
 title: Jointly Training CNN and SVM
-date: 2015-10-16
+date: 2015-10-09
 ---
 
 **Large-scale Learning with SVM and Convolutional for Generic Object Categorization**
