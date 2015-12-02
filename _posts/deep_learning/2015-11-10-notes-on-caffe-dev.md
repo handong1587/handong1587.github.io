@@ -90,3 +90,13 @@ multistep: piece-wise constant at arbitrary intervals
 
 The `net output #k` result is the output of the net for that particular iteration / batch 
 while the `Iteration T, loss = X` output is smoothed across iterations according to the `average_loss` field.
+
+# Reading and Notes
+
+**DIY Deep Learning for Vision: A Tutorial With Caffe 报告笔记**
+
+[http://frank19900731.github.io/wx/2014-12-04-diy-deep-learning-for-vision-a-tutorial-with-caffe-bao-gao-bi-ji.html](http://frank19900731.github.io/wx/2014-12-04-diy-deep-learning-for-vision-a-tutorial-with-caffe-bao-gao-bi-ji.html)
+
+**Why GEMM is at the heart of deep learning**
+
+[http://petewarden.com/2015/04/20/why-gemm-is-at-the-heart-of-deep-learning/](http://petewarden.com/2015/04/20/why-gemm-is-at-the-heart-of-deep-learning/)

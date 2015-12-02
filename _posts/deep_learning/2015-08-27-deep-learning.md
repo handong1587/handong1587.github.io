@@ -121,16 +121,6 @@ date: 2015-08-27
 
 [http://sebastianraschka.com/faq/docs/closed-form-vs-gd.html](http://sebastianraschka.com/faq/docs/closed-form-vs-gd.html)
 
-# Caffe
-
-**DIY Deep Learning for Vision: A Tutorial With Caffe 报告笔记**
-
-[http://frank19900731.github.io/wx/2014-12-04-diy-deep-learning-for-vision-a-tutorial-with-caffe-bao-gao-bi-ji.html](http://frank19900731.github.io/wx/2014-12-04-diy-deep-learning-for-vision-a-tutorial-with-caffe-bao-gao-bi-ji.html)
-
-**Why GEMM is at the heart of deep learning**
-
-[http://petewarden.com/2015/04/20/why-gemm-is-at-the-heart-of-deep-learning/](http://petewarden.com/2015/04/20/why-gemm-is-at-the-heart-of-deep-learning/)
-
 # Deep Learning For Driving
 
 <img src="/assets/cnn-materials/teaser_deepdriving.jpg" width="800" />
