@@ -41,3 +41,8 @@ date: 2015-08-10
 
 - arXiv: [http://arxiv.org/abs/1511.05644](http://arxiv.org/abs/1511.05644)
 - notes(by Dustin Tran): [http://dustintran.com/blog/adversarial-autoencoders/](http://dustintran.com/blog/adversarial-autoencoders/)
+
+**Understanding Adversarial Training: Increasing Local Stability of Neural Nets through Robust Optimization**
+
+- arXiv: [http://arxiv.org/abs/1511.05432](http://arxiv.org/abs/1511.05432)
+- github: [https://github.com/yutaroyamada/RobustTraining](https://github.com/yutaroyamada/RobustTraining)
