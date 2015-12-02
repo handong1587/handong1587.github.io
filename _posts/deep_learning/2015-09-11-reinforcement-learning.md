@@ -71,6 +71,10 @@ date: 2015-09-11
 - arXiv: [http://arxiv.org/abs/1511.08779](http://arxiv.org/abs/1511.08779)
 - github: [https://github.com/NeuroCSUT/DeepMind-Atari-Deep-Q-Learner-2Player](https://github.com/NeuroCSUT/DeepMind-Atari-Deep-Q-Learner-2Player)
 
+**Active Object Localization with Deep Reinforcement Learning**
+
+- arXiv: [http://arxiv.org/abs/1511.06015](http://arxiv.org/abs/1511.06015)
+
 # Blog
 
 **Deep Reinforcement Learning Papers**

@@ -133,14 +133,15 @@ date: 2015-08-27
 
 # Deep Learning For Driving
 
-<img src="/assets/cnn-materials/teaser_deepdriving.jpg"
- width="800" />
+<img src="/assets/cnn-materials/teaser_deepdriving.jpg" width="800" />
 
 - project: [http://deepdriving.cs.princeton.edu/](http://deepdriving.cs.princeton.edu/)
 - paper: [http://deepdriving.cs.princeton.edu/paper.pdf](http://deepdriving.cs.princeton.edu/paper.pdf)
 - code: [http://deepdriving.cs.princeton.edu/DeepDriving.zip](http://deepdriving.cs.princeton.edu/DeepDriving.zip)
 
 **Recurrent Neural Networks for Driver Activity Anticipation via Sensory-Fusion Architecture**
+
+<img src="/assets/dl-materials/bnn_fp.png" />
 
 - paper: [http://arxiv.org/abs/1509.05016](http://arxiv.org/abs/1509.05016)
 - homepage: [http://www.brain4cars.com/](http://www.brain4cars.com/)
@@ -221,13 +222,22 @@ date: 2015-08-27
 
 **An objective function for STDP(Yoshua Bengio)**
 
-- paper: [http://arxiv.org/abs/1509.05936](http://arxiv.org/abs/1509.05936)
+- arXiv: [http://arxiv.org/abs/1509.05936](http://arxiv.org/abs/1509.05936)
+
+**Bitwise Neural Networks**
+
+- paper: [http://paris.cs.illinois.edu/pubs/minje-icmlw2015.pdf](http://paris.cs.illinois.edu/pubs/minje-icmlw2015.pdf)
+- demo: [http://minjekim.com/demo_bnn.html](http://minjekim.com/demo_bnn.html)
 
 # Interesting Projects
 
 **ConvNetJS: a Javascript implementation of Neural networks**
 
 - github: [https://github.com/karpathy/convnetjs](https://github.com/karpathy/convnetjs)
+
+**Convolutional autoencoder to colorize greyscale images**
+
+- github: [https://github.com/YerevaNN/neural-colorizer](https://github.com/YerevaNN/neural-colorizer)
 
 # Readings and Questions
 

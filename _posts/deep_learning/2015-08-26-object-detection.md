@@ -15,7 +15,7 @@ date: 2015-08-26
 |:--------:|:-------------:|
 |OverFeat  |24.3%          |
 
-- paper: [http://arxiv.org/abs/1312.6229](http://arxiv.org/abs/1312.6229)
+- arXiv: [http://arxiv.org/abs/1312.6229](http://arxiv.org/abs/1312.6229)
 - code: [https://github.com/sermanet/OverFeat](https://github.com/sermanet/OverFeat)
 - code: [http://cilvr.nyu.edu/doku.php?id=software:overfeat:start](http://cilvr.nyu.edu/doku.php?id=software:overfeat:start)
 
@@ -29,7 +29,7 @@ date: 2015-08-26
 |R-CNN,VGG-Net         |62.2%       |            |            |               |
 |R-CNN,bbox reg,VGG-Net|66.0%       |            |            |               |
 
-- paper: [http://arxiv.org/abs/1311.2524](http://arxiv.org/abs/1311.2524)
+- arXiv: [http://arxiv.org/abs/1311.2524](http://arxiv.org/abs/1311.2524)
 - slides: [http://www.image-net.org/challenges/LSVRC/2013/slides/r-cnn-ilsvrc2013-workshop.pdf](http://www.image-net.org/challenges/LSVRC/2013/slides/r-cnn-ilsvrc2013-workshop.pdf)
 - slides: [http://www.cs.berkeley.edu/~rbg/slides/rcnn-cvpr14-slides.pdf](http://www.cs.berkeley.edu/~rbg/slides/rcnn-cvpr14-slides.pdf)
 - code: [https://github.com/rbgirshick/rcnn](https://github.com/rbgirshick/rcnn)
@@ -48,13 +48,13 @@ date: 2015-08-26
 |SPP_net(ZF-5),2-model|60.9%       |               |
 |SPP_net(ZF-5),6-model|            |35.11%         |
 
-- paper: [http://arxiv.org/abs/1406.4729](http://arxiv.org/abs/1406.4729)
+- arXiv: [http://arxiv.org/abs/1406.4729](http://arxiv.org/abs/1406.4729)
 - code: [https://github.com/ShaoqingRen/SPP_net](https://github.com/ShaoqingRen/SPP_net)
 - notes: [http://zhangliliang.com/2014/09/13/paper-note-sppnet/](http://zhangliliang.com/2014/09/13/paper-note-sppnet/)
 
 **Scalable, High-Quality Object Detection**
 
-- paper: [http://arxiv.org/abs/1412.1441](http://arxiv.org/abs/1412.1441)
+- arXiv: [http://arxiv.org/abs/1412.1441](http://arxiv.org/abs/1412.1441)
 - code: [https://github.com/google/multibox](https://github.com/google/multibox)
 
 **DeepID-Net: Deformable Deep Convolutional Neural Networks for Object Detection**
@@ -80,7 +80,7 @@ date: 2015-08-26
 |NoC,+EB   |07+12      |71.8%     |
 |NoC,+EB,bb|07+12      |73.3%     |
 
-- paper: [http://arxiv.org/abs/1504.06066](http://arxiv.org/abs/1504.06066)
+- arXiv: [http://arxiv.org/abs/1504.06066](http://arxiv.org/abs/1504.06066)
 
 **Improving Object Detection with Deep Convolutional Networks via Bayesian Optimization
 and Structured Prediction**
@@ -105,7 +105,7 @@ and Structured Prediction**
 |+StructObj+FGS   |Yes      |68.5%                |
 |+StructObj-FT+FGS|Yes      |68.4%                |
 
-- paper: [http://arxiv.org/abs/1504.03293](http://arxiv.org/abs/1504.03293)
+- arXiv: [http://arxiv.org/abs/1504.03293](http://arxiv.org/abs/1504.03293)
 - slides: [http://www.ytzhang.net/files/publications/2015-cvpr-det-slides.pdf](http://www.ytzhang.net/files/publications/2015-cvpr-det-slides.pdf)
 - code: [https://github.com/YutingZhang/fgs-obj](https://github.com/YutingZhang/fgs-obj)
 
@@ -126,7 +126,7 @@ and Structured Prediction**
 |FRCN,VGG16|12    |65.7%       |
 |FRCN,VGG16|07++12|68.4%       |
 
-- paper: [http://arxiv.org/abs/1504.08083](http://arxiv.org/abs/1504.08083)
+- arXiv: [http://arxiv.org/abs/1504.08083](http://arxiv.org/abs/1504.08083)
 - slides: [http://tutorial.caffe.berkeleyvision.org/caffe-cvpr15-detection.pdf](http://tutorial.caffe.berkeleyvision.org/caffe-cvpr15-detection.pdf)
 - code: [https://github.com/rbgirshick/fast-rcnn](https://github.com/rbgirshick/fast-rcnn)
 - notes: [http://zhangliliang.com/2015/05/17/paper-note-fast-rcnn/](http://zhangliliang.com/2015/05/17/paper-note-fast-rcnn/)
@@ -149,10 +149,10 @@ and Structured Prediction**
 |VGG-net   |07+12     |73.9%       |
 |VGG-net   |12        |70.7%       |
 
-- paper: [http://arxiv.org/abs/1505.01749](http://arxiv.org/abs/1505.01749)
+- arXiv: [http://arxiv.org/abs/1505.01749](http://arxiv.org/abs/1505.01749)
 - code: "Pdf and code will appear here shortly -- stay tuned"  <br />
  [http://imagine.enpc.fr/~komodakn/](http://imagine.enpc.fr/~komodakn/)
-- note: [http://zhangliliang.com/2015/05/17/paper-note-ms-cnn/](http://zhangliliang.com/2015/05/17/paper-note-ms-cnn/)
+- notes: [http://zhangliliang.com/2015/05/17/paper-note-ms-cnn/](http://zhangliliang.com/2015/05/17/paper-note-ms-cnn/)
 - notes: [http://blog.cvmarcher.com/posts/2015/05/17/multi-region-semantic-segmentation-aware-cnn/](http://blog.cvmarcher.com/posts/2015/05/17/multi-region-semantic-segmentation-aware-cnn/)
 
 **Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks(NIPS 2015)**
@@ -170,7 +170,7 @@ and Structured Prediction**
 
 **You Only Look Once: Unified, Real-Time Object Detection(YOLO)**
 
-- paper: [http://arxiv.org/abs/1506.02640](http://arxiv.org/abs/1506.02640)
+- arXiv: [http://arxiv.org/abs/1506.02640](http://arxiv.org/abs/1506.02640)
 - code: [http://pjreddie.com/darknet/yolo/](http://pjreddie.com/darknet/yolo/)
 - github: [https://github.com/pjreddie/darknet](https://github.com/pjreddie/darknet)
 
@@ -178,16 +178,20 @@ and Structured Prediction**
 
 <img src="/assets/object-detection-materials/end_to_end_people_detection_in_crowded_scenes.jpg"/>
 
-- paper: [http://arxiv.org/abs/1506.04878](http://arxiv.org/abs/1506.04878)
+- arXiv: [http://arxiv.org/abs/1506.04878](http://arxiv.org/abs/1506.04878)
 - code: [https://github.com/Russell91/reinspect](https://github.com/Russell91/reinspect)
 - ipn: [http://nbviewer.ipython.org/github/Russell91/ReInspect/blob/master/evaluation_reinspect.ipynb](http://nbviewer.ipython.org/github/Russell91/ReInspect/blob/master/evaluation_reinspect.ipynb)
 
 **R-CNN minus R**
 
-- paper: [http://arxiv.org/abs/1506.06981](http://arxiv.org/abs/1506.06981)
+- arXiv: [http://arxiv.org/abs/1506.06981](http://arxiv.org/abs/1506.06981)
 
 **DenseBox: Unifying Landmark Localization with End to End Object Detection**
 
-- paper: [http://arxiv.org/abs/1509.04874](http://arxiv.org/abs/1509.04874)
+- arXiv: [http://arxiv.org/abs/1509.04874](http://arxiv.org/abs/1509.04874)
 - demo: [http://pan.baidu.com/s/1mgoWWsS](http://pan.baidu.com/s/1mgoWWsS)
 - KITTI result: [http://www.cvlibs.net/datasets/kitti/eval_object.php](http://www.cvlibs.net/datasets/kitti/eval_object.php)
+
+**Active Object Localization with Deep Reinforcement Learning**
+
+- arXiv: [http://arxiv.org/abs/1511.06015](http://arxiv.org/abs/1511.06015)
