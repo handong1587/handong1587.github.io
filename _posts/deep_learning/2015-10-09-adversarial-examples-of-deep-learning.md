@@ -37,6 +37,10 @@ date: 2015-10-09
 - arXiv: [http://arxiv.org/abs/1510.05328](http://arxiv.org/abs/1510.05328)
 - github: [https://github.com/tabacof/adversarial](https://github.com/tabacof/adversarial)
 
+**Learning with a Strong Adversary**
+
+- arXiv: [http://arxiv.org/abs/1511.03034](http://arxiv.org/abs/1511.03034)
+
 **Adversarial Autoencoders**
 
 - arXiv: [http://arxiv.org/abs/1511.05644](http://arxiv.org/abs/1511.05644)
