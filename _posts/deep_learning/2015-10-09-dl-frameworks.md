@@ -17,6 +17,7 @@ date: 2015-10-09
 **MXNet**
 
 - github: [https://github.com/dmlc/mxnet](https://github.com/dmlc/mxnet)
+- paper: [https://raw.githubusercontent.com/dmlc/web-data/master/mxnet/paper/mxnet-learningsys.pdf](https://raw.githubusercontent.com/dmlc/web-data/master/mxnet/paper/mxnet-learningsys.pdf)
 
 **Torch**
 
