@@ -44,6 +44,12 @@ date: 2015-10-09
 - paper: [http://arxiv.org/abs/1409.4842](http://arxiv.org/abs/1409.4842)
 - code: [https://github.com/google/inception](https://github.com/google/inception)
 
+**Rethinking the Inception Architecture for Computer Vision**
+
+- introduction: "21.2% top-1 and 5.6% top-5 error for single frame evaluation using a network; 
+3.5% top-5 error and 17.3% top-1 error With an ensemble of 4 models and multi-crop evaluation."
+- arXiv: [http://arxiv.org/abs/1512.00567](http://arxiv.org/abs/1512.00567)
+
 # Tensor
 
 **Tensorizing Neural Networks**
