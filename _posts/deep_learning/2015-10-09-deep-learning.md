@@ -269,6 +269,12 @@ date: 2015-10-09
 - paper: [http://paris.cs.illinois.edu/pubs/minje-icmlw2015.pdf](http://paris.cs.illinois.edu/pubs/minje-icmlw2015.pdf)
 - demo: [http://minjekim.com/demo_bnn.html](http://minjekim.com/demo_bnn.html)
 
+# Code
+
+**deepnet: Implementation of some deep learning algorithms**
+
+- github: [https://github.com/nitishsrivastava/deepnet](https://github.com/nitishsrivastava/deepnet)
+
 # Interesting Projects
 
 **ConvNetJS: a Javascript implementation of Neural networks**
