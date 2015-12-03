@@ -32,3 +32,7 @@ date: 2015-10-09
 
 - arXiv: [http://arxiv.org/abs/1511.02793](http://arxiv.org/abs/1511.02793)
 - demo: [http://www.cs.toronto.edu/~emansim/cap2im.html](http://www.cs.toronto.edu/~emansim/cap2im.html)
+
+**Attribute2Image: Conditional Image Generation from Visual Attributes**
+
+- arXiv: [http://arxiv.org/abs/1512.00570](http://arxiv.org/abs/1512.00570)

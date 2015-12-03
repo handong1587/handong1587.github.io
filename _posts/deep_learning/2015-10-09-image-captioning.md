@@ -1,7 +1,7 @@
 ---
 layout: post
 category: deep_learning
-title: Image Description, Image Caption Generating
+title: Image Captioning
 date: 2015-10-09
 ---
 
