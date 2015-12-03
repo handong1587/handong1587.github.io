@@ -13,15 +13,20 @@ date: 2015-10-09
 **Caffe: Convolutional Architecture for Fast Feature Embedding**
 
 - github: [https://github.com/BVLC/caffe](https://github.com/BVLC/caffe)
+- paper: [http://arxiv.org/abs/1408.5093](http://arxiv.org/abs/1408.5093)
+- tutorial: [http://tutorial.caffe.berkeleyvision.org/](http://tutorial.caffe.berkeleyvision.org/)
+- tutorial: [http://vision.stanford.edu/teaching/cs231n/slides/caffe_tutorial.pdf](http://vision.stanford.edu/teaching/cs231n/slides/caffe_tutorial.pdf)
+- tutorial: [http://vision.princeton.edu/courses/COS598/2015sp/slides/Caffe/caffe_tutorial.pdf](http://vision.princeton.edu/courses/COS598/2015sp/slides/Caffe/caffe_tutorial.pdf)
 
 **MXNet**
 
 - github: [https://github.com/dmlc/mxnet](https://github.com/dmlc/mxnet)
 - paper: [https://raw.githubusercontent.com/dmlc/web-data/master/mxnet/paper/mxnet-learningsys.pdf](https://raw.githubusercontent.com/dmlc/web-data/master/mxnet/paper/mxnet-learningsys.pdf)
 
-a short introduction to mxnet design and implementation (chinese)
+"a short introduction to mxnet design and implementation (chinese)"
 
-- github: [https://github.com/dmlc/mxnet/issues/797](https://github.com/dmlc/mxnet/issues/797)
+- github: [https://github.com/dmlc/mxnet/blob/master/doc/overview_chn.md](https://github.com/dmlc/mxnet/blob/master/doc/overview_chn.md)
+- github-issues: [https://github.com/dmlc/mxnet/issues/797](https://github.com/dmlc/mxnet/issues/797)
 
 **Torch**
 
