@@ -1,7 +1,7 @@
 ---
 layout: post
 category: deep_learning
-title: Open Source Deep Learning Frameworks
+title: Deep Learning Frameworks
 date: 2015-10-09
 ---
 
