@@ -127,3 +127,9 @@ date: 2015-08-27
 **Deep Kernel Learning**
 
 - arXiv: [http://arxiv.org/abs/1511.02222](http://arxiv.org/abs/1511.02222)
+
+# Mathematics
+
+**Some Notes on Applied Mathematics for Machine**
+
+- paper: [http://research.microsoft.com/en-us/um/people/cburges/tech_reports/tr-2004-56.pdf](http://research.microsoft.com/en-us/um/people/cburges/tech_reports/tr-2004-56.pdf)
