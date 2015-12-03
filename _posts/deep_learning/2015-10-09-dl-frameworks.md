@@ -19,6 +19,10 @@ date: 2015-10-09
 - github: [https://github.com/dmlc/mxnet](https://github.com/dmlc/mxnet)
 - paper: [https://raw.githubusercontent.com/dmlc/web-data/master/mxnet/paper/mxnet-learningsys.pdf](https://raw.githubusercontent.com/dmlc/web-data/master/mxnet/paper/mxnet-learningsys.pdf)
 
+a short introduction to mxnet design and implementation (chinese)
+
+- github: [https://github.com/dmlc/mxnet/issues/797](https://github.com/dmlc/mxnet/issues/797)
+
 **Torch**
 
 - website: [http://torch.ch/](http://torch.ch/)
