@@ -15,17 +15,19 @@ to install Ruby, Devkit, and Jekyll.
 
 1. Download Ruby and DevKit: [http://rubyinstaller.org/downloads/](http://rubyinstaller.org/downloads/)
 
-2. Check "Add Ruby executables to your PATH" when installing Ruby. You can execute 
+2. Check "Add Ruby executables to your PATH" when installing Ruby. You can execute:
+
 <pre class="terminal"><code>ruby -v</code></pre>
+
 to detect if Ruby successfully installed.
 
 3. Install DevKit. After that, cd to RubyDevKit directory:
 
-<pre class="terminal"><code>
+{% highlight bash %}
 C:\> cd RubyDevKit
 C:\RubyDevKit> ruby dk.rb init
 C:\RubyDevKit> ruby dk.rb install
-</code></pre>
+{% endhighlight %}
 
 # Intall github-pages
 
