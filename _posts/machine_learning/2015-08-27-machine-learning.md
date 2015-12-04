@@ -133,3 +133,9 @@ date: 2015-08-27
 **Some Notes on Applied Mathematics for Machine**
 
 - paper: [http://research.microsoft.com/en-us/um/people/cburges/tech_reports/tr-2004-56.pdf](http://research.microsoft.com/en-us/um/people/cburges/tech_reports/tr-2004-56.pdf)
+
+# Conditional Random Fields
+
+**An Introduction to Conditional Random Fields**
+
+- arXiv: [http://arxiv.org/abs/1011.4088](http://arxiv.org/abs/1011.4088)
