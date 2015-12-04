@@ -64,3 +64,11 @@ date: 2015-10-09
 - arXiv: [http://arxiv.org/abs/1505.04366](http://arxiv.org/abs/1505.04366)
 
 <img src="/assets/object-segmentation-materials/PSACAL-VOC-2012-Seg-Leaderboard.png" width="1000" />
+
+**SegNet: A Deep Convolutional Encoder-Decoder Architecture for Image Segmentation**
+
+<img src="/assets/object-segmentation-materials/segnet.png"/>
+
+- homepage: [http://mi.eng.cam.ac.uk/projects/segnet/](http://mi.eng.cam.ac.uk/projects/segnet/)
+- arXiv: [http://arxiv.org/abs/1511.00561](http://arxiv.org/abs/1511.00561)
+- github: [https://github.com/alexgkendall/caffe-segnet](https://github.com/alexgkendall/caffe-segnet)
