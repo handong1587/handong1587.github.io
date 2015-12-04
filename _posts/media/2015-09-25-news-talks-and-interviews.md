@@ -13,6 +13,10 @@ date: 2015-09-25
 
 [http://www.popsci.com/facebook-ai](http://www.popsci.com/facebook-ai)
 
+**Facebook AI Director Yann LeCun on His Quest to Unleash Deep Learning and Make Machines Smarter**
+
+[http://spectrum.ieee.org/automaton/robotics/artificial-intelligence/facebook-ai-director-yann-lecun-on-deep-learning](http://spectrum.ieee.org/automaton/robotics/artificial-intelligence/facebook-ai-director-yann-lecun-on-deep-learning)
+
 **Deep Learning And The New Bayesian Golden Age(by Nicole Hemsoth)**
 
 [http://www.theplatform.net/2015/09/24/deep-learning-and-a-new-bayesian-golden-age/](http://www.theplatform.net/2015/09/24/deep-learning-and-a-new-bayesian-golden-age/)
