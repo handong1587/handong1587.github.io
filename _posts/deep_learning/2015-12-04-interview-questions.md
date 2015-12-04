@@ -7,7 +7,7 @@ date: 2015-12-04
 
 **What are the toughest neural networks and deep learning interview questions?**
 
-- quora: [https://www.quora.com/What-are-the-toughest-neural-networks-and-deep-learning-interview-questions](https://www.quora.com/What-are-the-toughest-neural-networks-and-deep-learning-interview-questions)
+quora: [https://www.quora.com/What-are-the-toughest-neural-networks-and-deep-learning-interview-questions](https://www.quora.com/What-are-the-toughest-neural-networks-and-deep-learning-interview-questions)
 
 1. What is an auto-encoder? Why do we "auto-encode"? Hint: it's really a misnomer.
 
