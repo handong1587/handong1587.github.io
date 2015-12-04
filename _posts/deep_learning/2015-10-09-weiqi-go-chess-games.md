@@ -16,6 +16,10 @@ date: 2015-10-09
 
 - arXiv: [http://arxiv.org/abs/1412.6564](http://arxiv.org/abs/1412.6564)
 
+**Training Deep Convolutional Neural Networks to Play Go**
+
+- paper: [http://jmlr.org/proceedings/papers/v37/clark15.pdf](http://jmlr.org/proceedings/papers/v37/clark15.pdf)
+
 **Better Computer Go Player with Neural Network and Long-term Prediction(Facebook AI Research)**
 
 - arXiv: [http://arxiv.org/abs/1511.06410](http://arxiv.org/abs/1511.06410)
