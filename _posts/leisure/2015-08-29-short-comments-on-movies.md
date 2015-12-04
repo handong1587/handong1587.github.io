@@ -19,6 +19,10 @@ For a reference: [http://english.stackexchange.com/questions/8293/how-do-you-lik
 
 *The Bourne Legacy (2014)* : Compared to original *The Bourne* trilogy, maybe this one is .. boring?
 
+*重庆森林*: 
+
+<img src="/assets/leisure/short-comments-on-movies/chunking_express_1994.png"/>
+
 *Kill Bill (2003)*: I happened to know that the original Volume 1 contains a crazy 88 fight scene - it was so bloody and violent that Quentin Tarantino had to make the famous fight scene black and white. You can check out on this: <br /> [https://thepiratebay.la/torrent/8028488/KILL_BILL__THE_WHOLE_BLOODY_AFFAIR_hd-720p_DTS](https://thepiratebay.la/torrent/8028488/KILL_BILL__THE_WHOLE_BLOODY_AFFAIR_hd-720p_DTS)
 
 *Reservoir Dogs (1992)*: "Alright ramblers, let’s get rambling!"
