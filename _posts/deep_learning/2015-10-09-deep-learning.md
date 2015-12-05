@@ -171,6 +171,14 @@ date: 2015-10-09
 
 - arXiv: [http://arxiv.org/abs/1504.06063](http://arxiv.org/abs/1504.06063)
 
+# Distributed System
+
+**SparkNet: Training Deep Networks in Spark**
+
+- arXiv: [http://arxiv.org/abs/1511.06051](http://arxiv.org/abs/1511.06051)
+- github: [https://github.com/amplab/SparkNet](https://github.com/amplab/SparkNet)
+- blog: [http://www.kdnuggets.com/2015/12/spark-deep-learning-training-with-sparknet.html](http://www.kdnuggets.com/2015/12/spark-deep-learning-training-with-sparknet.html)
+
 # Deep Learning For Driving
 
 <img src="/assets/cnn-materials/teaser_deepdriving.jpg" width="800" />
@@ -220,6 +228,13 @@ date: 2015-10-09
 
 - arXiv: [http://arxiv.org/abs/1311.5591](http://arxiv.org/abs/1311.5591)
 - github: [https://github.com/facebook/pose-aligned-deep-networks](https://github.com/facebook/pose-aligned-deep-networks)
+
+**NetVLAD: CNN architecture for weakly supervised place recognition**
+
+<img src="/assets/dl-materials/NetVLAD_teaser.png" />
+
+- arXiv: [http://arxiv.org/abs/1511.07247](http://arxiv.org/abs/1511.07247)
+- github: [http://www.di.ens.fr/willow/research/netvlad/](http://www.di.ens.fr/willow/research/netvlad/)
 	
 # Deep Learning’s Accuracy
 

@@ -36,3 +36,7 @@ date: 2015-10-09
 **Attribute2Image: Conditional Image Generation from Visual Attributes**
 
 - arXiv: [http://arxiv.org/abs/1512.00570](http://arxiv.org/abs/1512.00570)
+
+**Deep Visual Analogy-Making**
+
+- paper: [https://papers.nips.cc/paper/5845-deep-visual-analogy-making.pdf](https://papers.nips.cc/paper/5845-deep-visual-analogy-making.pdf)

@@ -45,6 +45,12 @@ date: 2015-08-27
 - slides: [http://auai.org/uai2015/proceedings/slides/UAI2015_LearningBN_PartI.pdf](http://auai.org/uai2015/proceedings/slides/UAI2015_LearningBN_PartI.pdf)
 - slides: [http://auai.org/uai2015/proceedings/slides/UAI2015_LearningBN_PartII.pdf](http://auai.org/uai2015/proceedings/slides/UAI2015_LearningBN_PartII.pdf)
 
+# Graphical Models
+
+**An Introduction To Graphical Models(by Michael I. Jordan. 1997)**
+
+- paper: [http://www.cis.upenn.edu/~mkearns/papers/barbados/jordan-tut.pdf](http://www.cis.upenn.edu/~mkearns/papers/barbados/jordan-tut.pdf)
+
 # Boosting
 
 **An Empirical Comparison of Three Boosting Algorithms on Real Data Sets with Artificial Class Noise(AdaBoost vs. LogitBoost vs. BrownBoost)**
