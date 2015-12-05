@@ -37,3 +37,12 @@ date: 2015-10-09
 **WIDER FACE: A Face Detection Benchmark**
 
 - arXiv: [http://arxiv.org/abs/1511.06523](http://arxiv.org/abs/1511.06523)
+
+**clmtrackr: Javascript library for precise tracking of facial features via Constrained Local Models**
+
+- github: [https://github.com/auduno/clmtrackr](https://github.com/auduno/clmtrackr)
+- blog: [http://auduno.com/post/61888277175/fitting-faces](http://auduno.com/post/61888277175/fitting-faces)
+- demo: [http://auduno.github.io/clmtrackr/examples/facesubstitution.html](http://auduno.github.io/clmtrackr/examples/facesubstitution.html)
+- demo: [http://auduno.github.io/clmtrackr/face_deformation_video.html](http://auduno.github.io/clmtrackr/face_deformation_video.html)
+- demo: [http://auduno.github.io/clmtrackr/examples/clm_emotiondetection.html](http://auduno.github.io/clmtrackr/examples/clm_emotiondetection.html)
+- demo: [http://auduno.com/post/84214587523/twisting-faces](http://auduno.com/post/84214587523/twisting-faces)
