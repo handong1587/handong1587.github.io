@@ -29,7 +29,7 @@ date: 2015-09-14
 
 - - -
 
-A very cool resume:
+**A very cool resume**
 
 <img src="/assets/programming_study/strml.net.png" width="800" />
 

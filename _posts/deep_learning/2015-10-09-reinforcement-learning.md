@@ -5,7 +5,7 @@ title: Reinforcement Learning
 date: 2015-10-09
 ---
 
-# Paper
+# Papers
 
 **Continuous control with deep reinforcement learning(Google Deepmind)**
 
@@ -75,7 +75,33 @@ date: 2015-10-09
 
 - arXiv: [http://arxiv.org/abs/1511.06015](http://arxiv.org/abs/1511.06015)
 
-# Blog
+# Blogs
+
+**A Short Introduction To Some Reinforcement Learning Algorithms**
+
+[http://webdocs.cs.ualberta.ca/~vanhasse/rl_algs/rl_algs.html](http://webdocs.cs.ualberta.ca/~vanhasse/rl_algs/rl_algs.html)
+
+**A Painless Q-Learning Tutorial**
+
+[http://mnemstudio.org/path-finding-q-learning-tutorial.htm](http://mnemstudio.org/path-finding-q-learning-tutorial.htm)
+
+- - -
+
+**Reinforcement Learning - Part 1**
+
+[http://outlace.com/Reinforcement-Learning-Part-1/](http://outlace.com/Reinforcement-Learning-Part-1/)
+
+**Reinforcement Learning - Monte Carlo Methods**
+
+[http://outlace.com/Reinforcement-Learning-Part-2/](http://outlace.com/Reinforcement-Learning-Part-2/)
+
+**Q-learning with Neural Networks**
+
+[http://outlace.com/Reinforcement-Learning-Part-3/](http://outlace.com/Reinforcement-Learning-Part-3/)
+
+- - -
+
+# Resources
 
 **Deep Reinforcement Learning Papers**
 
@@ -85,11 +111,3 @@ date: 2015-10-09
 
 - website: [http://aikorea.org/awesome-rl/?utm_content=buffer5d0f3&utm_medium=social&utm_source=plus.google.com&utm_campaign=buffer#online-demos](http://aikorea.org/awesome-rl/?utm_content=buffer5d0f3&utm_medium=social&utm_source=plus.google.com&utm_campaign=buffer#online-demos)
 - github: [https://github.com/aikorea/awesome-rl](https://github.com/aikorea/awesome-rl)
-
-**A Short Introduction To Some Reinforcement Learning Algorithms**
-
-[http://webdocs.cs.ualberta.ca/~vanhasse/rl_algs/rl_algs.html](http://webdocs.cs.ualberta.ca/~vanhasse/rl_algs/rl_algs.html)
-
-**A Painless Q-Learning Tutorial**
-
-[http://mnemstudio.org/path-finding-q-learning-tutorial.htm](http://mnemstudio.org/path-finding-q-learning-tutorial.htm)
