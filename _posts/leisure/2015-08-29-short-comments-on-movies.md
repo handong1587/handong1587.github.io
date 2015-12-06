@@ -113,3 +113,7 @@ ARGO FUCK YOURSELF!
 (2015-10-31) *From Dusk Till Dawn (1996)*
 
 (2015-12-01) *P.K. (2014)*
+
+(2015-12-06) *Nightcrawler (2014)*: So now, Jake Gyllenhaal join the long list of stars who drop dramatic amounts
+of weight for their movies. Former stars including Charlize Theron in "Monster", Christian Bale in "The machinist", 
+Matthew McConaughey in "Dallas Buyers Club", etc.
