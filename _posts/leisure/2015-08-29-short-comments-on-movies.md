@@ -116,4 +116,10 @@ ARGO FUCK YOURSELF!
 
 (2015-12-06) *Nightcrawler (2014)*: So now, Jake Gyllenhaal join the long list of stars who drop dramatic amounts
 of weight for their movies. Former stars including Charlize Theron in "Monster", Christian Bale in "The machinist", 
-Matthew McConaughey in "Dallas Buyers Club", etc.
+Matthew McConaughey in "Dallas Buyers Club", etc. 
+Obviously many people would argue that it's naïve – and dangerous – for Jake and other celebrities 
+to think rapidly fluctuating weight is good preparation for a movie role - After all, 
+you can use CGI to make your look malnourished and stick thin as you like. 
+Maybe it is what we called Method Acting: Actors need to embrace the characters they are studying to 
+communicate their commitment to the role. 
+Understanding the implications of what they're doing is equally as important.
