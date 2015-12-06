@@ -75,6 +75,10 @@ date: 2015-10-09
 
 - arXiv: [http://arxiv.org/abs/1511.06015](http://arxiv.org/abs/1511.06015)
 
+**Deep Reinforcement Learning with Attention for Slate Markov Decision Processes with High-Dimensional States and Actions**
+
+- arXiv: [http://arxiv.org/abs/1512.01124](http://arxiv.org/abs/1512.01124)
+
 # Blogs
 
 **A Short Introduction To Some Reinforcement Learning Algorithms**
