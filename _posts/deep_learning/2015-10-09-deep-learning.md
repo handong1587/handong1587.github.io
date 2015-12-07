@@ -55,6 +55,7 @@ date: 2015-10-09
 **Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift**
 
 - arXiv: [http://arxiv.org/abs/1502.03167](http://arxiv.org/abs/1502.03167)
+- blog: [https://standardfrancis.wordpress.com/2015/04/16/batch-normalization/](https://standardfrancis.wordpress.com/2015/04/16/batch-normalization/)
 
 **Flattened Convolutional Neural Networks for Feedforward Acceleration(ICLR 2015)**
 
