@@ -17,6 +17,17 @@ github: [https://github.com/mrkulk/Unsupervised-Capsule-Network](https://github.
 - github: [https://github.com/cesc-park/CRCN](https://github.com/cesc-park/CRCN)
 - author page: [http://www.cs.cmu.edu/~gunhee/](http://www.cs.cmu.edu/~gunhee/)
 
+**Show and Tell: A Neural Image Caption Generator(Google)**
+
+- arXiv: [http://arxiv.org/abs/1411.4555](http://arxiv.org/abs/1411.4555)
+- github: [https://github.com/karpathy/neuraltalk](https://github.com/karpathy/neuraltalk)
+- GitXiv: [http://gitxiv.com/posts/7nofxjoYBXga5XjtL/show-and-tell-a-neural-image-caption-nic-generator](http://gitxiv.com/posts/7nofxjoYBXga5XjtL/show-and-tell-a-neural-image-caption-nic-generator)
+
+**Show, Attend and Tell: Neural Image Caption Generation with Visual Attention**
+
+- arXiv: [http://arxiv.org/abs/1502.03044](http://arxiv.org/abs/1502.03044)
+- github: [https://github.com/kelvinxu/arctic-captions](https://github.com/kelvinxu/arctic-captions)
+
 **DRAW: A Recurrent Neural Network For Image Generation**
 
 - arXiv: [http://arxiv.org/abs/1502.04623](http://arxiv.org/abs/1502.04623)
