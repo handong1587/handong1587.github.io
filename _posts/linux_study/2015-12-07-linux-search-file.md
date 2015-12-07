@@ -1,7 +1,7 @@
 ---
 layout: post
 category: linux_study
-title: Linux: Search For A File
+title: "Search For A File On Linux"
 date: 2015-12-07
 ---
 
