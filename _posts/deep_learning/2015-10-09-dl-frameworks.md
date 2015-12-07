@@ -39,6 +39,11 @@ date: 2015-10-09
 - github: [https://github.com/Theano/Theano](https://github.com/Theano/Theano)
 - tutorial: [https://github.com/Newmu/Theano-Tutorials](https://github.com/Newmu/Theano-Tutorials)
 
+**Lasagne: Lightweight library to build and train neural networks in Theano**
+
+- github: [https://github.com/Lasagne/Lasagne](https://github.com/Lasagne/Lasagne)
+- homepage: [http://lasagne.readthedocs.org/en/latest/](http://lasagne.readthedocs.org/en/latest/)
+
 **Chainer: a neural network framework**
 
 - website: [http://chainer.org/](http://chainer.org/)
