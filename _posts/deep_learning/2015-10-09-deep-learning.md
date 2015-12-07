@@ -340,28 +340,6 @@ date: 2015-10-09
 
 [http://fastml.com/what-you-wanted-to-know-about-ai/](http://fastml.com/what-you-wanted-to-know-about-ai/)
 
-# Deep Learning Blogs
-
-**Neural Networks and Deep Learning**
-
-[http://neuralnetworksanddeeplearning.com](http://neuralnetworksanddeeplearning.com)
-
-**Deep Learning Reading List**
-
-[http://deeplearning.net/reading-list/](http://deeplearning.net/reading-list/)
-
-**Andrej Karpathy blog**
-
-[http://karpathy.github.io/](http://karpathy.github.io/)
-
-**Rodrigob's github page**
-
-[http://rodrigob.github.io/](http://rodrigob.github.io/)
-
-**colah's blog**
-
-[http://colah.github.io/](http://colah.github.io/)
-
 # Deep Learning Resources
 
 **Awesome Deep Learning**
@@ -383,3 +361,25 @@ date: 2015-10-09
 **BICV Group: Biologically Inspired Computer Vision research group**
 
 [http://www.bicv.org/deep-learning/](http://www.bicv.org/deep-learning/)
+
+# Deep Learning Blogs
+
+**Neural Networks and Deep Learning**
+
+[http://neuralnetworksanddeeplearning.com](http://neuralnetworksanddeeplearning.com)
+
+**Deep Learning Reading List**
+
+[http://deeplearning.net/reading-list/](http://deeplearning.net/reading-list/)
+
+**Andrej Karpathy blog**
+
+[http://karpathy.github.io/](http://karpathy.github.io/)
+
+**Rodrigob's github page**
+
+[http://rodrigob.github.io/](http://rodrigob.github.io/)
+
+**colah's blog**
+
+[http://colah.github.io/](http://colah.github.io/)

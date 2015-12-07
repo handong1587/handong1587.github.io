@@ -14,6 +14,11 @@ date: 2015-08-27
 
 [http://xyclade.github.io/MachineLearning/](http://xyclade.github.io/MachineLearning/)
 
+**Logistic Regression Vs Decision Trees Vs SVM**
+
+- Part I: [http://www.edvancer.in/logistic-regression-vs-decision-trees-vs-svm-part1/](http://www.edvancer.in/logistic-regression-vs-decision-trees-vs-svm-part1/)
+- Part II: [http://www.edvancer.in/logistic-regression-vs-decision-trees-vs-svm-part2/](http://www.edvancer.in/logistic-regression-vs-decision-trees-vs-svm-part2/)
+
 # Bayesian Learning
 
 **Auto-Encoding Variational Bayes**
