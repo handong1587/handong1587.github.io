@@ -171,6 +171,10 @@ date: 2015-10-09
 
 # Multimodal Learning
 
+**Multimodal Deep Learning**
+
+- paper: [http://ai.stanford.edu/~ang/papers/nipsdlufl10-MultimodalDeepLearning.pdf](http://ai.stanford.edu/~ang/papers/nipsdlufl10-MultimodalDeepLearning.pdf)
+
 **Multimodal Convolutional Neural Networks for Matching Image and Sentence**
 
 - arXiv: [http://arxiv.org/abs/1504.06063](http://arxiv.org/abs/1504.06063)

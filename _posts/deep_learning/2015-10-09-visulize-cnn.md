@@ -5,7 +5,14 @@ title: Visualize Convolutional Neural Network
 date: 2015-10-09
 ---
 
+* TOC
+{:toc}
+
 # Paper
+
+**Deconvolutional Networks**
+
+- paper: [http://www.matthewzeiler.com/pubs/cvpr2010/cvpr2010.pdf](http://www.matthewzeiler.com/pubs/cvpr2010/cvpr2010.pdf)
 
 **Visualizing and Understanding Convolutional Network**:
 
@@ -23,33 +30,6 @@ date: 2015-10-09
 
 - paper: [http://arxiv.org/abs/1412.0035](http://arxiv.org/abs/1412.0035)
 - code: [https://github.com/aravindhm/deep-goggle](https://github.com/aravindhm/deep-goggle)
-
-**Interactive Deep Neural Net Hallucinations**
-
-- project: [http://317070.github.io/Dream/](http://317070.github.io/Dream/)
-- code: [https://github.com/317070/Twitch-plays-LSD-neural-net](https://github.com/317070/Twitch-plays-LSD-neural-net)
-
-**deepdream**:
-
-- code: [https://github.com/google/deepdream](https://github.com/google/deepdream)
-
-**cnn-vis**:
-
-- code: [https://github.com/jcjohnson/cnn-vis](https://github.com/jcjohnson/cnn-vis)
-
-**deepdraw**
-
-- code: [https://github.com/auduno/deepdraw](https://github.com/auduno/deepdraw)
-
-**bat-country**
-
-- code: [https://github.com/jrosebr1/bat-country](https://github.com/jrosebr1/bat-country)
-
-**torch-visbox**
-
-<img src="/assets/vis-cnn/torch-visbox-example.png" width="800" />
-
-- github: [https://github.com/Aysegul/torch-visbox](https://github.com/Aysegul/torch-visbox)
 
 **deepViz: Visualizing Convolutional Neural Networks for Image Classification**:
 
@@ -85,6 +65,35 @@ date: 2015-10-09
 - arXiv: [http://arxiv.org/abs/1509.08379](http://arxiv.org/abs/1509.08379)
 - homepage: [http://www.stat.ucla.edu/~yang.lu/project/deepFrame/main.html](http://www.stat.ucla.edu/~yang.lu/project/deepFrame/main.html)
 - code: [http://www.stat.ucla.edu/~yang.lu/project/deepFrame/doc/code.zip](http://www.stat.ucla.edu/~yang.lu/project/deepFrame/doc/code.zip)
+
+# Code
+
+**Interactive Deep Neural Net Hallucinations**
+
+- project: [http://317070.github.io/Dream/](http://317070.github.io/Dream/)
+- code: [https://github.com/317070/Twitch-plays-LSD-neural-net](https://github.com/317070/Twitch-plays-LSD-neural-net)
+
+**deepdream**:
+
+- code: [https://github.com/google/deepdream](https://github.com/google/deepdream)
+
+**cnn-vis**:
+
+- code: [https://github.com/jcjohnson/cnn-vis](https://github.com/jcjohnson/cnn-vis)
+
+**deepdraw**
+
+- code: [https://github.com/auduno/deepdraw](https://github.com/auduno/deepdraw)
+
+**bat-country**
+
+- code: [https://github.com/jrosebr1/bat-country](https://github.com/jrosebr1/bat-country)
+
+**torch-visbox**
+
+<img src="/assets/vis-cnn/torch-visbox-example.png" width="800" />
+
+- github: [https://github.com/Aysegul/torch-visbox](https://github.com/Aysegul/torch-visbox)
 
 # Blog
 
