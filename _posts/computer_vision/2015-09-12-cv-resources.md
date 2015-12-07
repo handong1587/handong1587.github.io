@@ -67,3 +67,9 @@ date: 2015-09-12
 - paper: [http://arxiv.org/abs/1503.01820](http://arxiv.org/abs/1503.01820)
 - github: [https://github.com/louxi11/activity_recognition](https://github.com/louxi11/activity_recognition)
 - author page: [https://staff.fnwi.uva.nl/n.hu/](https://staff.fnwi.uva.nl/n.hu/)
+
+# License Plate Recognition
+
+- website: [http://www.openalpr.com/](http://www.openalpr.com/)
+- github: [https://github.com/openalpr/openalpr](https://github.com/openalpr/openalpr)
+- tech reciew: [http://arstechnica.com/business/2015/12/new-open-source-license-plate-reader-software-lets-you-make-your-own-hot-list/](http://arstechnica.com/business/2015/12/new-open-source-license-plate-reader-software-lets-you-make-your-own-hot-list/)
