@@ -50,7 +50,7 @@ date: 2015-10-09
 3.5% top-5 error and 17.3% top-1 error With an ensemble of 4 models and multi-crop evaluation."
 - arXiv: [http://arxiv.org/abs/1512.00567](http://arxiv.org/abs/1512.00567)
 
-# Optimize Training
+# Optimization Methods
 
 **On Optimization Methods for Deep Learning**
 
