@@ -8,7 +8,7 @@ date: 2015-12-04
 **On the reception and detection of pseudo-profound bullshit**
 
 - summary: "A new scientific study has found that those who are receptive to pseudo-profound, 
-intellectual-sounding 'bullsshit' are less intelligent, less reflective, and more likely to be believe in 
+intellectual-sounding 'bullshit' are less intelligent, less reflective, and more likely to be believe in 
 conspiracy theories, the paranormal and alternative medicine."
 - keywords: 'wise-sounding quotes', 'pseudo-profound bullshit'
 - paper: [http://journal.sjdm.org/15/15923a/jdm15923a.pdf](http://journal.sjdm.org/15/15923a/jdm15923a.pdf)
