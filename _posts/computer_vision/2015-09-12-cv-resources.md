@@ -5,6 +5,9 @@ title: Computer Vision Resources
 date: 2015-09-12
 ---
 
+* TOC
+{:toc}
+
 # Super-Resolution
 
 **Image Super-Resolution Using Deep Convolutional Networks(Microsoft Research)**
