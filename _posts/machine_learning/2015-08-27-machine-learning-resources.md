@@ -8,18 +8,13 @@ date: 2015-08-27
 * TOC
 {:toc}
 
-# Multilabel
+# Tutorials
 
-**Neural Network Models for Multilabel Learning**
+**Machine Learning for Developers**
 
-- paper: [http://pan.baidu.com/s/1bnFdYFX](http://pan.baidu.com/s/1bnFdYFX)
-- code: [https://github.com/abhishek-kumar/NNForMLL](https://github.com/abhishek-kumar/NNForMLL)
+[http://xyclade.github.io/MachineLearning/](http://xyclade.github.io/MachineLearning/)
 
-**An Empirical Evaluation of Supervised Learning in High Dimensions**
-
-- paper: [http://lowrank.net/nikos/pubs/empirical.pdf](http://lowrank.net/nikos/pubs/empirical.pdf)
-
-# Bayesian
+# Bayesian Learning
 
 **Auto-Encoding Variational Bayes**
 
@@ -45,7 +40,15 @@ date: 2015-08-27
 - slides: [http://auai.org/uai2015/proceedings/slides/UAI2015_LearningBN_PartI.pdf](http://auai.org/uai2015/proceedings/slides/UAI2015_LearningBN_PartI.pdf)
 - slides: [http://auai.org/uai2015/proceedings/slides/UAI2015_LearningBN_PartII.pdf](http://auai.org/uai2015/proceedings/slides/UAI2015_LearningBN_PartII.pdf)
 
+**Bayesian Learning**
+
+[https://github.com/ReactiveCJ/BayesianLearning](https://github.com/ReactiveCJ/BayesianLearning)
+
 # Graphical Models
+
+"A Brief Introduction to Graphical Models and Bayesian Networks"
+
+[http://www.cs.ubc.ca/~murphyk/Bayes/bnintro.html](http://www.cs.ubc.ca/~murphyk/Bayes/bnintro.html)
 
 **An Introduction To Graphical Models(by Michael I. Jordan. 1997)**
 
@@ -53,9 +56,19 @@ date: 2015-08-27
 
 # Boosting
 
+"Quick Introduction to Boosting Algorithms in Machine Learning"
+
+[http://www.analyticsvidhya.com/blog/2015/11/quick-introduction-boosting-algorithms-machine-learning/](http://www.analyticsvidhya.com/blog/2015/11/quick-introduction-boosting-algorithms-machine-learning/)
+
 **An Empirical Comparison of Three Boosting Algorithms on Real Data Sets with Artificial Class Noise(AdaBoost vs. LogitBoost vs. BrownBoost)**
 
 - paper: [http://www.lancs.ac.uk/~eckley/papers/McDonaldHandEckley2003.pdf](http://www.lancs.ac.uk/~eckley/papers/McDonaldHandEckley2003.pdf)
+
+# Bootstrap
+
+**Coding, Visualizing, and Animating Bootstrap Resampling**
+
+[http://minimaxir.com/2015/09/bootstrap-resample/](http://minimaxir.com/2015/09/bootstrap-resample/)
 
 # Topic Model
 
@@ -65,11 +78,36 @@ date: 2015-08-27
 
 # Random Forests
 
+**AWESOME-RANDOM-FOREST - a curated list of resources regarding random forest**
+
+[http://jiwonkim.org/awesome-random-forest/](http://jiwonkim.org/awesome-random-forest/)
+
+**The Unreasonable Effectiveness of Random Forests**
+
+[https://medium.com/rants-on-machine-learning/the-unreasonable-effectiveness-of-random-forests-f33c3ce28883](https://medium.com/rants-on-machine-learning/the-unreasonable-effectiveness-of-random-forests-f33c3ce28883)
+
 **Mondrian Forests: Efficient Online Random Forests**
 
 - arXiv: [http://arxiv.org/abs/1406.2673](http://arxiv.org/abs/1406.2673)
 - github: [https://github.com/balajiln/mondrianforest](https://github.com/balajiln/mondrianforest)
 - video: [http://videolectures.net/sahd2014_teh_mondrian_forests/](http://videolectures.net/sahd2014_teh_mondrian_forests/)
+
+**Random forest interpretation with scikit-learn**
+
+- blog: [http://blog.datadive.net/random-forest-interpretation-with-scikit-learn/](http://blog.datadive.net/random-forest-interpretation-with-scikit-learn/)
+- github: [https://github.com/andosa/treeinterpreter](https://github.com/andosa/treeinterpreter)
+
+# SVM
+
+**Collection Of SVM Libraries By Language**
+
+[http://www.datasciencecentral.com/profiles/blogs/collection-of-svm-libraries-by-language](http://www.datasciencecentral.com/profiles/blogs/collection-of-svm-libraries-by-language)
+
+**Sequential Minimal Optimization Algorithm for Support Vector Machines**
+
+- blog: [http://stiglerdiet.com/blog/2015/Nov/21/sequential-minimal-optimization-algorithm-for-support-vector-machines/](http://stiglerdiet.com/blog/2015/Nov/21/sequential-minimal-optimization-algorithm-for-support-vector-machines/)
+- github: [https://github.com/tdhopper/smo-svm](https://github.com/tdhopper/smo-svm)
+- paper: [https://github.com/tdhopper/smo-svm/blob/master/OR706%20Support%20Vector%20Machines.pdf](https://github.com/tdhopper/smo-svm/blob/master/OR706%20Support%20Vector%20Machines.pdf)
 
 # Neural Network
 
@@ -90,11 +128,40 @@ date: 2015-08-27
 - blog: [http://nicksparallellaideas.blogspot.com.au/2015/12/getting-it-done-what-i-learnt-from.html](http://nicksparallellaideas.blogspot.com.au/2015/12/getting-it-done-what-i-learnt-from.html)
 - blog: [http://pan.baidu.com/s/1sk6VPBf](http://pan.baidu.com/s/1sk6VPBf)
 
+# Conditional Random Fields
+
+**An Introduction to Conditional Random Fields**
+
+- arXiv: [http://arxiv.org/abs/1011.4088](http://arxiv.org/abs/1011.4088)
+
+**Introduction to Conditional Random Fields**
+
+[http://blog.echen.me/2012/01/03/introduction-to-conditional-random-fields/](http://blog.echen.me/2012/01/03/introduction-to-conditional-random-fields/)
+
 # Matrix Factorization
 
 **Neural Network Matrix Factorization**
 
 - arXiv: [http://arxiv.org/abs/1511.06443](http://arxiv.org/abs/1511.06443)
+
+# PCA/SVD
+
+**Fast Randomized PCA/SVD**
+
+- blog: [https://research.facebook.com/blog/294071574113354/fast-randomized-svd/](https://research.facebook.com/blog/294071574113354/fast-randomized-svd/)
+- baidu-pan: [http://pan.baidu.com/s/1nt8I8qt](http://pan.baidu.com/s/1nt8I8qt)
+- github: [https://github.com/facebook/fbpca](https://github.com/facebook/fbpca)
+
+# Multilabel
+
+**Neural Network Models for Multilabel Learning**
+
+- paper: [http://pan.baidu.com/s/1bnFdYFX](http://pan.baidu.com/s/1bnFdYFX)
+- code: [https://github.com/abhishek-kumar/NNForMLL](https://github.com/abhishek-kumar/NNForMLL)
+
+**An Empirical Evaluation of Supervised Learning in High Dimensions**
+
+- paper: [http://lowrank.net/nikos/pubs/empirical.pdf](http://lowrank.net/nikos/pubs/empirical.pdf)
 
 # Tricks
 
@@ -145,10 +212,37 @@ date: 2015-08-27
 
 - paper: [http://research.microsoft.com/en-us/um/people/cburges/tech_reports/tr-2004-56.pdf](http://research.microsoft.com/en-us/um/people/cburges/tech_reports/tr-2004-56.pdf)
 
-# Conditional Random Fields
-
-**An Introduction to Conditional Random Fields**
-
-- arXiv: [http://arxiv.org/abs/1011.4088](http://arxiv.org/abs/1011.4088)
-
 # L-BFGS
+
+# Resources
+
+**Machine Learning Surveys: A list of literature surveys, reviews, and tutorials on Machine Learning and related topics**
+
+[http://www.mlsurveys.com/](http://www.mlsurveys.com/)
+
+**machine learning classifier gallery**
+
+[http://home.comcast.net/~tom.fawcett/public_html/ML-gallery/pages/](http://home.comcast.net/~tom.fawcett/public_html/ML-gallery/pages/)
+
+**Machine Learning and Computer Vision Resources**
+
+[http://zhengrui.github.io/zerryland/ML-CV-Resource.html](http://zhengrui.github.io/zerryland/ML-CV-Resource.html)
+
+**A Huge List of Machine Learning And Statistics Repositories**
+
+[http://blog.josephmisiti.com/a-huge-list-of-machine-learning-repositories/](http://blog.josephmisiti.com/a-huge-list-of-machine-learning-repositories/)
+
+**机器学习(Machine Learning)&深度学习(Deep Learning)资料(Chapter 1)**
+
+[https://github.com/ty4z2008/Qix/blob/master/dl.md](https://github.com/ty4z2008/Qix/blob/master/dl.md)
+
+**The Spectator: Shakir's Machine Learning Blog**
+
+[http://blog.shakirm.com/](http://blog.shakirm.com/)
+
+# Books
+
+**Machine Learning plus Intelligent Optimization: THE LION WAY, VERSION 2.0**
+
+- book: [http://intelligent-optimization.org/LIONbook/](http://intelligent-optimization.org/LIONbook/)
+- slides: [http://intelligent-optimization.org/LIONbook/LIONway-slides-chapter3.pdf](http://intelligent-optimization.org/LIONbook/LIONway-slides-chapter3.pdf)

@@ -76,3 +76,19 @@ date: 2015-09-12
 - website: [http://www.openalpr.com/](http://www.openalpr.com/)
 - github: [https://github.com/openalpr/openalpr](https://github.com/openalpr/openalpr)
 - tech reciew: [http://arstechnica.com/business/2015/12/new-open-source-license-plate-reader-software-lets-you-make-your-own-hot-list/](http://arstechnica.com/business/2015/12/new-open-source-license-plate-reader-software-lets-you-make-your-own-hot-list/)
+
+# Applications
+
+**Target acquired: Finding targets in drone and quadcopter video streams using Python and OpenCV**
+
+[http://www.pyimagesearch.com/2015/05/04/target-acquired-finding-targets-in-drone-and-quadcopter-video-streams-using-python-and-opencv/](http://www.pyimagesearch.com/2015/05/04/target-acquired-finding-targets-in-drone-and-quadcopter-video-streams-using-python-and-opencv/)
+
+**Build a Face Detection App Using Node.js and OpenCV**
+
+[http://www.sitepoint.com/face-detection-nodejs-opencv/](http://www.sitepoint.com/face-detection-nodejs-opencv/)
+
+# Resources
+
+**Awesome-deep-vision: A curated list of deep learning resources for computer vision**
+
+[http://jiwonkim.org/awesome-deep-vision/](http://jiwonkim.org/awesome-deep-vision/)
