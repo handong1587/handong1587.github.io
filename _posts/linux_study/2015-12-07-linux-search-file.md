@@ -6,14 +6,12 @@ date: 2015-12-07
 ---
 
 1. Search for a file by its file name. 
-This is the most basic search you can perform using the find command. 
 The command below will search for the query in the current directory and any subdirectories.
+Using -iname instead of -name ignores the case of your query. The -name command is case-sensitive.
 
 {% highlight bash %}
 find -iname "filename"
 {% endhighlight %}
-
-- Using -iname instead of -name ignores the case of your query. The -name command is case-sensitive.
 
 # Reference
 
