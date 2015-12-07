@@ -9,6 +9,11 @@ date: 2015-10-09
 
 - demo: [http://www.dpkingma.com/sgvb_mnist_demo/demo.html](http://www.dpkingma.com/sgvb_mnist_demo/demo.html)
 
+**Max-margin Deep Generative Models**
+
+- arXiv: [http://arxiv.org/abs/1504.06787](http://arxiv.org/abs/1504.06787)
+- github: [https://github.com/zhenxuan00/mmdgm](https://github.com/zhenxuan00/mmdgm)
+
 **Unsupervised and Semi-supervised Learning with Categorical Generative Adversarial Networks(CatGAN)**
 
 - arXiv: [http://arxiv.org/abs/1511.06390](http://arxiv.org/abs/1511.06390)
