@@ -209,6 +209,12 @@ date: 2015-10-09
 
 - arXiv: [http://arxiv.org/abs/1511.07386](http://arxiv.org/abs/1511.07386)
 
+# Abnormality Detection
+
+**Toward a Taxonomy and Computational Models of Abnormalities in Images**
+
+- arXiv: [http://arxiv.org/abs/1512.01325](http://arxiv.org/abs/1512.01325)
+
 # Interesting Application
 
 **Deeply-Learned Feature for Age Estimation**
