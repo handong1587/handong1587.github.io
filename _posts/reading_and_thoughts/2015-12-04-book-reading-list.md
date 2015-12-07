@@ -1,7 +1,7 @@
 ---
 layout: post
 category: reading_and_thoughts
-title: Reading List
+title: Book Reading List
 date: 2015-12-04
 ---
 
