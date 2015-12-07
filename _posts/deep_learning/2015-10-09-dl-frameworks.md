@@ -133,3 +133,11 @@ date: 2015-10-09
 **TensorFlow vs. Theano vs. Torch**
 
 [https://github.com/zer0n/deepframeworks/blob/master/README.md](https://github.com/zer0n/deepframeworks/blob/master/README.md)
+
+# Tutorials
+
+## MXNet
+
+**Deep learning for hackers with MXnet (1) GPU installation and MNIST**
+
+[https://no2147483647.wordpress.com/2015/12/07/deep-learning-for-hackers-with-mxnet-1/](https://no2147483647.wordpress.com/2015/12/07/deep-learning-for-hackers-with-mxnet-1/)
