@@ -5,12 +5,6 @@ title: Papers, Blogs and Websites
 date: 2015-09-27
 ---
 
-# Papers
-
-**On the reception and detection of pseudo-profound bullshit**
-
-[http://journal.sjdm.org/15/15923a/jdm15923a.pdf](http://journal.sjdm.org/15/15923a/jdm15923a.pdf)
-
 # Blogs
 
 # Websites
