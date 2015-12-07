@@ -23,6 +23,7 @@ date: 2015-10-09
 **Better Computer Go Player with Neural Network and Long-term Prediction(Facebook AI Research)**
 
 - arXiv: [http://arxiv.org/abs/1511.06410](http://arxiv.org/abs/1511.06410)
+- MIT tech review: [http://www.technologyreview.com/view/544181/how-facebooks-ai-researchers-built-a-game-changing-go-engine/](http://www.technologyreview.com/view/544181/how-facebooks-ai-researchers-built-a-game-changing-go-engine/)
 
 # Chess
 

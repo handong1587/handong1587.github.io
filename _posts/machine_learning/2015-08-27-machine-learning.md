@@ -85,6 +85,11 @@ date: 2015-08-27
 - github: [https://github.com/joenot443/crAIg](https://github.com/joenot443/crAIg)
 - paper: [http://nn.cs.utexas.edu/downloads/papers/stanley.ec02.pdf](http://nn.cs.utexas.edu/downloads/papers/stanley.ec02.pdf)
 
+**Getting It Done - What I learnt from finishing the Neural Network Algorithm**
+
+- blog: [http://nicksparallellaideas.blogspot.com.au/2015/12/getting-it-done-what-i-learnt-from.html](http://nicksparallellaideas.blogspot.com.au/2015/12/getting-it-done-what-i-learnt-from.html)
+- blog: [http://pan.baidu.com/s/1sk6VPBf](http://pan.baidu.com/s/1sk6VPBf)
+
 # Matrix Factorization
 
 **Neural Network Matrix Factorization**
