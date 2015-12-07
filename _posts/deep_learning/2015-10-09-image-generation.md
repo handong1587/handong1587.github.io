@@ -5,6 +5,10 @@ title: Image Generation
 date: 2015-10-09
 ---
 
+**Learning to Generate Chairs, Tables and Cars with Convolutional Networks**
+
+- arXiv: [http://arxiv.org/abs/1411.5928](http://arxiv.org/abs/1411.5928)
+
 **Generative Adversarial Networks**
 
 - arXiv: [http://arxiv.org/abs/1406.2661](http://arxiv.org/abs/1406.2661)
