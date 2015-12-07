@@ -52,6 +52,10 @@ date: 2015-10-09
 
 # Optimize Training
 
+**On Optimization Methods for Deep Learning**
+
+- paper: [http://www.icml-2011.org/papers/210_icmlpaper.pdf](http://www.icml-2011.org/papers/210_icmlpaper.pdf)
+
 **Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift**
 
 - arXiv: [http://arxiv.org/abs/1502.03167](http://arxiv.org/abs/1502.03167)

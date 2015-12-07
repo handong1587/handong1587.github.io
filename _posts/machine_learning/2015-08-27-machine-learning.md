@@ -150,3 +150,5 @@ date: 2015-08-27
 **An Introduction to Conditional Random Fields**
 
 - arXiv: [http://arxiv.org/abs/1011.4088](http://arxiv.org/abs/1011.4088)
+
+# L-BFGS
