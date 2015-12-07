@@ -22,6 +22,8 @@ date: 2015-10-09
 **Intriguing properties of neural networks**
 
 - paper: [http://arxiv.org/abs/1312.6199](http://arxiv.org/abs/1312.6199)
+- my notes: In each layer of a deep network it is the "direction" of "space" (ensemble of feature activations) 
+which encodes useful class information rather than individual units (feature activations).
 
 **Distributional Smoothing with Virtual Adversarial Training**
 
