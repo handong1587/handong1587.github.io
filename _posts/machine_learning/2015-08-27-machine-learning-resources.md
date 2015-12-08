@@ -85,6 +85,13 @@ date: 2015-08-27
 
 - paper: [https://www.cs.princeton.edu/~blei/papers/Blei2011.pdf](https://www.cs.princeton.edu/~blei/papers/Blei2011.pdf)
 
+# Decision Tree
+
+**Canonical Correlation Forests**
+
+- arXiv: [http://arxiv.org/abs/1507.05444](http://arxiv.org/abs/1507.05444)
+- code: [https://bitbucket.org/twgr/ccf](https://bitbucket.org/twgr/ccf)
+
 # Random Forests
 
 **AWESOME-RANDOM-FOREST - a curated list of resources regarding random forest**
