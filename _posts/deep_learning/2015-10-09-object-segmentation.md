@@ -63,8 +63,6 @@ date: 2015-10-09
 
 - arXiv: [http://arxiv.org/abs/1505.04366](http://arxiv.org/abs/1505.04366)
 
-<img src="/assets/object-segmentation-materials/PSACAL-VOC-2012-Seg-Leaderboard.png" width="1000" />
-
 **SegNet: A Deep Convolutional Encoder-Decoder Architecture for Robust Semantic Pixel-Wise Labelling**
 
 - arXiv: [http://arxiv.org/abs/1505.07293](http://arxiv.org/abs/1505.07293)
