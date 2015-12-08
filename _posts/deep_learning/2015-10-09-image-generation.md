@@ -5,6 +5,8 @@ title: Image Generation
 date: 2015-10-09
 ---
 
+# Paper
+
 **Learning to Generate Chairs, Tables and Cars with Convolutional Networks**
 
 - arXiv: [http://arxiv.org/abs/1411.5928](http://arxiv.org/abs/1411.5928)
@@ -27,10 +29,11 @@ date: 2015-10-09
 - project page: [http://soumith.ch/eyescream/](http://soumith.ch/eyescream/)
 - homepage: [http://www.cs.nyu.edu/~denton/](http://www.cs.nyu.edu/~denton/)
 
-**Generating Faces with Torch**
+**Conditional generative adversarial nets for convolutional face generation**
 
-- blog: [http://torch.ch/blog/2015/11/13/gan.html](http://torch.ch/blog/2015/11/13/gan.html)
-- github: [https://github.com/skaae/torch-gan](https://github.com/skaae/torch-gan)
+- paper: [http://www.foldl.me/uploads/2015/conditional-gans-face-generation/paper.pdf](http://www.foldl.me/uploads/2015/conditional-gans-face-generation/paper.pdf)
+- blog: [http://www.foldl.me/2015/conditional-gans-face-generation/](http://www.foldl.me/2015/conditional-gans-face-generation/)
+- github: [https://github.com/hans/adversarial](https://github.com/hans/adversarial)
 
 **Generating Images from Captions with Attention**
 
@@ -44,3 +47,16 @@ date: 2015-10-09
 **Deep Visual Analogy-Making**
 
 - paper: [https://papers.nips.cc/paper/5845-deep-visual-analogy-making.pdf](https://papers.nips.cc/paper/5845-deep-visual-analogy-making.pdf)
+
+# Blog
+
+**Torch convolutional GAN: Generating Faces with Torch**
+
+- blog: [http://torch.ch/blog/2015/11/13/gan.html](http://torch.ch/blog/2015/11/13/gan.html)
+- github: [https://github.com/skaae/torch-gan](https://github.com/skaae/torch-gan)
+
+# Code
+
+**Generate cat images with neural networks**
+
+- github: [https://github.com/aleju/cat-generator](https://github.com/aleju/cat-generator)

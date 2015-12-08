@@ -7,6 +7,18 @@ date: 2015-10-09
 
 # Paper
 
+**Intriguing properties of neural networks**
+
+- arXiv: [http://arxiv.org/abs/1312.6199](http://arxiv.org/abs/1312.6199)
+- my notes: In each layer of a deep network it is the "direction" of "space" (ensemble of feature activations) 
+which encodes useful class information rather than individual units (feature activations).
+
+**Generative Adversarial Networks**
+
+- arXiv: [http://arxiv.org/abs/1406.2661](http://arxiv.org/abs/1406.2661)
+- github: [https://github.com/goodfeli/adversarial](https://github.com/goodfeli/adversarial)
+- github: [https://github.com/aleju/cat-generator](https://github.com/aleju/cat-generator)
+
 **Deep Neural Networks are Easily Fooled: High Confidence Predictions for Unrecognizable Images**
 
 - paper: [http://arxiv.org/abs/1412.1897](http://arxiv.org/abs/1412.1897)
@@ -14,13 +26,21 @@ date: 2015-10-09
 
 **Explaining and Harnessing Adversarial Examples**
 
+- introduction: primary cause of neural networks’ vulnerability to adversarial perturbation is their linear nature
 - paper: [http://arxiv.org/abs/1412.6572](http://arxiv.org/abs/1412.6572)
 
-**Intriguing properties of neural networks**
+**Deep Generative Image Models using a Laplacian Pyramid of Adversarial Networks(NIPS 2015)**
 
-- paper: [http://arxiv.org/abs/1312.6199](http://arxiv.org/abs/1312.6199)
-- my notes: In each layer of a deep network it is the "direction" of "space" (ensemble of feature activations) 
-which encodes useful class information rather than individual units (feature activations).
+- arXiv: [http://arxiv.org/abs/1506.05751](http://arxiv.org/abs/1506.05751)
+- code: [http://soumith.ch/eyescream/](http://soumith.ch/eyescream/)
+- project page: [http://soumith.ch/eyescream/](http://soumith.ch/eyescream/)
+- homepage: [http://www.cs.nyu.edu/~denton/](http://www.cs.nyu.edu/~denton/)
+
+**Conditional generative adversarial nets for convolutional face generation**
+
+- paper: [http://www.foldl.me/uploads/2015/conditional-gans-face-generation/paper.pdf](http://www.foldl.me/uploads/2015/conditional-gans-face-generation/paper.pdf)
+- blog: [http://www.foldl.me/2015/conditional-gans-face-generation/](http://www.foldl.me/2015/conditional-gans-face-generation/)
+- github: [https://github.com/hans/adversarial](https://github.com/hans/adversarial)
 
 **Distributional Smoothing with Virtual Adversarial Training**
 
@@ -52,8 +72,27 @@ which encodes useful class information rather than individual units (feature act
 
 # Blog
 
+**(Deep Learning’s Deep Flaws)’s Deep Flaws (By Zachary Chase Lipton)**
+
+[http://www.kdnuggets.com/2015/01/deep-learning-flaws-universal-machine-learning.html](http://www.kdnuggets.com/2015/01/deep-learning-flaws-universal-machine-learning.html)
+
+**Deep Learning Adversarial Examples – Clarifying Misconceptions (By Ian Goodfellow (Google))**
+
+[http://www.kdnuggets.com/2015/07/deep-learning-adversarial-examples-misconceptions.html](http://www.kdnuggets.com/2015/07/deep-learning-adversarial-examples-misconceptions.html)
+
+**Torch convolutional GAN: Generating Faces with Torch**
+
+- blog: [http://torch.ch/blog/2015/11/13/gan.html](http://torch.ch/blog/2015/11/13/gan.html)
+- github: [https://github.com/skaae/torch-gan](https://github.com/skaae/torch-gan)
+
 **Adversarial Machines: Fooling A.Is (and turn everyone into a Manga)**
 
 <img src="/assets/dl-materials/adversarial_machines_pipe.png" />
 
 [https://medium.com/@samim/adversarial-machines-998d8362e996#.iv3muefgt](https://medium.com/@samim/adversarial-machines-998d8362e996#.iv3muefgt)
+
+# Code
+
+**Generate cat images with neural networks**
+
+- github: [https://github.com/aleju/cat-generator](https://github.com/aleju/cat-generator)
