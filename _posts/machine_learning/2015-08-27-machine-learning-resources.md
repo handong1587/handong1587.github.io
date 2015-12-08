@@ -168,6 +168,13 @@ date: 2015-08-27
 - baidu-pan: [http://pan.baidu.com/s/1nt8I8qt](http://pan.baidu.com/s/1nt8I8qt)
 - github: [https://github.com/facebook/fbpca](https://github.com/facebook/fbpca)
 
+# Convex Optimization
+
+**Convex Optimization: Algorithms and Complexity**
+
+- arXiv: [http://arxiv.org/abs/1405.4980](http://arxiv.org/abs/1405.4980)
+- blog: [https://blogs.princeton.edu/imabandit/2015/11/30/convex-optimization-algorithms-and-complexity/](https://blogs.princeton.edu/imabandit/2015/11/30/convex-optimization-algorithms-and-complexity/)
+
 # Multilabel
 
 **Neural Network Models for Multilabel Learning**
