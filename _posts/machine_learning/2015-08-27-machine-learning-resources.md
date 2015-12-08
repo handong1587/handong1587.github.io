@@ -174,25 +174,13 @@ date: 2015-08-27
 
 # Tricks
 
-**Machine Learning Trick of the Day (1): Replica Trick**
+**Machine Learning Trick of the Day**
 
-[http://blog.shakirm.com/2015/07/machine-learning-trick-of-the-day-1-replica-trick/](http://blog.shakirm.com/2015/07/machine-learning-trick-of-the-day-1-replica-trick/)
-
-**Machine Learning Trick of the Day (2): Gaussian Integral Trick**
-
-[http://blog.shakirm.com/2015/08/machine-learning-trick-of-the-day-2-gaussian-integral-trick/](http://blog.shakirm.com/2015/08/machine-learning-trick-of-the-day-2-gaussian-integral-trick/)
-
-**Machine Learning Trick of the Day (3): Hutchinson's Trick**
-
-[http://blog.shakirm.com/2015/09/machine-learning-trick-of-the-day-3-hutchinsons-trick/](http://blog.shakirm.com/2015/09/machine-learning-trick-of-the-day-3-hutchinsons-trick/)
-
-**Machine Learning Trick of the Day (4): Reparameterisation Tricks**
-
-[http://blog.shakirm.com/2015/10/machine-learning-trick-of-the-day-4-reparameterisation-tricks/](http://blog.shakirm.com/2015/10/machine-learning-trick-of-the-day-4-reparameterisation-tricks/)
-
-**Machine Learning Trick of the Day (5): Log Derivative Trick**
-
-[http://blog.shakirm.com/2015/11/machine-learning-trick-of-the-day-5-log-derivative-trick/](http://blog.shakirm.com/2015/11/machine-learning-trick-of-the-day-5-log-derivative-trick/)
+- (1): Replica Trick: [http://blog.shakirm.com/2015/07/machine-learning-trick-of-the-day-1-replica-trick/](http://blog.shakirm.com/2015/07/machine-learning-trick-of-the-day-1-replica-trick/)
+- (2): Gaussian Integral Trick: [http://blog.shakirm.com/2015/08/machine-learning-trick-of-the-day-2-gaussian-integral-trick/](http://blog.shakirm.com/2015/08/machine-learning-trick-of-the-day-2-gaussian-integral-trick/)
+- (3): Hutchinson's Trick: [http://blog.shakirm.com/2015/09/machine-learning-trick-of-the-day-3-hutchinsons-trick/](http://blog.shakirm.com/2015/09/machine-learning-trick-of-the-day-3-hutchinsons-trick/)
+- (4): Reparameterisation Tricks: [http://blog.shakirm.com/2015/10/machine-learning-trick-of-the-day-4-reparameterisation-tricks/](http://blog.shakirm.com/2015/10/machine-learning-trick-of-the-day-4-reparameterisation-tricks/)
+- (5): Log Derivative Trick: [http://blog.shakirm.com/2015/11/machine-learning-trick-of-the-day-5-log-derivative-trick/](http://blog.shakirm.com/2015/11/machine-learning-trick-of-the-day-5-log-derivative-trick/)
 
 # Deep What?
 
@@ -255,3 +243,13 @@ date: 2015-08-27
 
 - book: [http://intelligent-optimization.org/LIONbook/](http://intelligent-optimization.org/LIONbook/)
 - slides: [http://intelligent-optimization.org/LIONbook/LIONway-slides-chapter3.pdf](http://intelligent-optimization.org/LIONbook/LIONway-slides-chapter3.pdf)
+
+# Machine Learning Library
+
+**LambdaNet: Purely functional artificial neural network library implemented in Haskell**
+
+ -github: [https://github.com/jbarrow/LambdaNet](https://github.com/jbarrow/LambdaNet)
+
+**rustlearn: Machine learning crate for Rust**
+
+- github: [https://github.com/maciejkula/rustlearn](https://github.com/maciejkula/rustlearn)
