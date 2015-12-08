@@ -207,18 +207,6 @@ date: 2015-10-09
 - paper: [http://arxiv.org/abs/1509.05016](http://arxiv.org/abs/1509.05016)
 - homepage: [http://www.brain4cars.com/](http://www.brain4cars.com/)
 
-# Boundary Detection
-
-**Surpassing Humans in Boundary Detection using Deep Learning**
-
-- arXiv: [http://arxiv.org/abs/1511.07386](http://arxiv.org/abs/1511.07386)
-
-# Abnormality Detection
-
-**Toward a Taxonomy and Computational Models of Abnormalities in Images**
-
-- arXiv: [http://arxiv.org/abs/1512.01325](http://arxiv.org/abs/1512.01325)
-
 # Interesting Application
 
 **Deeply-Learned Feature for Age Estimation**
@@ -314,16 +302,6 @@ date: 2015-10-09
 **deepnet: Implementation of some deep learning algorithms**
 
 - github: [https://github.com/nitishsrivastava/deepnet](https://github.com/nitishsrivastava/deepnet)
-
-# Interesting Projects
-
-**ConvNetJS: a Javascript implementation of Neural networks**
-
-- github: [https://github.com/karpathy/convnetjs](https://github.com/karpathy/convnetjs)
-
-**Convolutional autoencoder to colorize greyscale images**
-
-- github: [https://github.com/YerevaNN/neural-colorizer](https://github.com/YerevaNN/neural-colorizer)
 
 # Readings and Questions
 
