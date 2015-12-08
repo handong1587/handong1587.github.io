@@ -78,3 +78,10 @@ date: 2015-10-09
 - arXiv: [http://arxiv.org/abs/1511.00561](http://arxiv.org/abs/1511.00561)
 - github: [https://github.com/alexgkendall/caffe-segnet](https://github.com/alexgkendall/caffe-segnet)
 - tutorial: [http://mi.eng.cam.ac.uk/projects/segnet/tutorial.html](http://mi.eng.cam.ac.uk/projects/segnet/tutorial.html)
+
+**Recurrent Instance Segmentation**
+
+<img src="/assets/object-segmentation-materials/RIS.png"/>
+	
+- arXiv: [http://arxiv.org/abs/1511.08250](http://arxiv.org/abs/1511.08250)
+- homepage: [http://romera-paredes.com/recurrent-instance-segmentation](http://romera-paredes.com/recurrent-instance-segmentation)
