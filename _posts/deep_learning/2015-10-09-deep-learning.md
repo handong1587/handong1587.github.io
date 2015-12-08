@@ -303,6 +303,10 @@ date: 2015-10-09
 
 - github: [https://github.com/nitishsrivastava/deepnet](https://github.com/nitishsrivastava/deepnet)
 
+**DeepNeuralClassifier(Julia): Deep neural network using rectified linear units to classify hand written digits from the MNIST dataset**
+
+- github: [https://github.com/jostmey/DeepNeuralClassifier](https://github.com/jostmey/DeepNeuralClassifier)
+
 # Readings and Questions
 
 **What are the toughest neural networks and deep learning interview questions?**
