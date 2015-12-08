@@ -254,7 +254,7 @@ date: 2015-10-09
 
 - blog: [http://deeplearning4j.org/accuracy.html](http://deeplearning4j.org/accuracy.html)	
 
-# Deep Learning Hardware
+# Deep Learning and FPGA
 
 **Recurrent Neural Networks Hardware Implementation on FPGA**
 
@@ -272,11 +272,15 @@ date: 2015-10-09
 - arXiv: [http://arxiv.org/abs/1503.05743v1](http://arxiv.org/abs/1503.05743v1)
 - github: [http://mil-tokyo.github.io/](http://mil-tokyo.github.io/)
 
-# Deep Learning Machine
+# Deep Learning Hardware
 
 **Building a Deep Learning (Dream) Machine**
 
-[http://graphific.github.io/posts/building-a-deep-learning-dream-machine/](http://graphific.github.io/posts/building-a-deep-learning-dream-machine/)
+- blog: [http://graphific.github.io/posts/building-a-deep-learning-dream-machine/](http://graphific.github.io/posts/building-a-deep-learning-dream-machine/)
+
+**A Full Hardware Guide to Deep Learning**
+
+- blog: [http://timdettmers.com/2015/03/09/deep-learning-hardware-guide/](http://timdettmers.com/2015/03/09/deep-learning-hardware-guide/)
 
 # Paper
 
