@@ -5,6 +5,11 @@ title: Face Detection and Recognition
 date: 2015-10-09
 ---
 
+* TOC
+{:toc}
+
+# Paper
+
 **Multi-view Face Detection Using Deep Convolutional Neural Networks(Yahoo)**
 
 - arXiv: [http://arxiv.org/abs/1502.02766](http://arxiv.org/abs/1502.02766)
@@ -37,6 +42,12 @@ date: 2015-10-09
 **WIDER FACE: A Face Detection Benchmark**
 
 - arXiv: [http://arxiv.org/abs/1511.06523](http://arxiv.org/abs/1511.06523)
+
+**The MegaFace Benchmark: 1 Million Faces for Recognition at Scale**
+
+- arXiv: [http://arxiv.org/abs/1512.00596](http://arxiv.org/abs/1512.00596)
+
+# Code
 
 **clmtrackr: Javascript library for precise tracking of facial features via Constrained Local Models**
 
