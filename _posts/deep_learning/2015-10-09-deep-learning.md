@@ -184,6 +184,13 @@ date: 2015-10-09
 
 - arXiv: [http://arxiv.org/abs/1504.06063](http://arxiv.org/abs/1504.06063)
 
+# Deep Networks
+
+**Rectified Factor Networks**
+
+- arXiv: [http://arxiv.org/abs/1502.06464](http://arxiv.org/abs/1502.06464)
+- github: [https://github.com/untom/librfn](https://github.com/untom/librfn)
+
 # Distributed System
 
 **SparkNet: Training Deep Networks in Spark**

@@ -81,6 +81,10 @@ date: 2015-08-27
 
 - book: [http://www.cs.colorado.edu/~jbg/docs/2014_book_chapter_care_and_feeding.pdf](http://www.cs.colorado.edu/~jbg/docs/2014_book_chapter_care_and_feeding.pdf)
 
+**Introduction to Probabilistic Topic Models**
+
+- paper: [https://www.cs.princeton.edu/~blei/papers/Blei2011.pdf](https://www.cs.princeton.edu/~blei/papers/Blei2011.pdf)
+
 # Random Forests
 
 **AWESOME-RANDOM-FOREST - a curated list of resources regarding random forest**
