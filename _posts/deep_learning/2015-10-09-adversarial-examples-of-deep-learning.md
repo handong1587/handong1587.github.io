@@ -5,11 +5,6 @@ title: Adversarial Examples of Deep Learning
 date: 2015-10-09
 ---
 
-{{ page.title }}
-================
-
-<p class="meta">10 Aug 2015 - Beijing</p>
-
 **Deep Neural Networks are Easily Fooled: High Confidence Predictions for Unrecognizable Images**
 
 - paper: [http://arxiv.org/abs/1412.1897](http://arxiv.org/abs/1412.1897)

@@ -5,6 +5,8 @@ title: News, Talks and Interviews
 date: 2015-09-25
 ---
 
+# Deep Learning
+
 **Convolutional Nets and CIFAR-10: An Interview with Yann LeCun**
 
 [http://blog.kaggle.com/2014/12/22/convolutional-nets-and-cifar-10-an-interview-with-yan-lecun/](http://blog.kaggle.com/2014/12/22/convolutional-nets-and-cifar-10-an-interview-with-yan-lecun/)
@@ -20,12 +22,6 @@ date: 2015-09-25
 **Deep Learning And The New Bayesian Golden Age(by Nicole Hemsoth)**
 
 [http://www.theplatform.net/2015/09/24/deep-learning-and-a-new-bayesian-golden-age/](http://www.theplatform.net/2015/09/24/deep-learning-and-a-new-bayesian-golden-age/)
-
-**Amazon Developing ‘Smart Zoom’ For 4K, 8K Video**
-
-<img src="/assets/news_talks_interviews/Amazon-Smart-Zoom.jpg" width="600" />
-
-[http://www.donohuereport.com/amazon-developing-smart-zoom-for-4k-8k-video/](http://www.donohuereport.com/amazon-developing-smart-zoom-for-4k-8k-video/)
 
 **Getting “deep” about “deep learning”**
 
@@ -44,3 +40,19 @@ date: 2015-09-25
 **Practice makes perfect: Driverless cars will learn from their mistakes(9 Oct 2015)**
 
 [http://www.alphr.com/cars/1001713/practice-makes-perfect-driverless-cars-will-learn-from-their-mistakes](http://www.alphr.com/cars/1001713/practice-makes-perfect-driverless-cars-will-learn-from-their-mistakes)
+
+# Weiqi (Go) AI
+
+**Google and Facebook Race to Solve the Ancient Game of Go With AI | WIRED**
+
+<img src="/assets/news_talks_interviews/Go-02-1024x683.jpg" />
+
+[http://www.wired.com/2015/12/google-and-facebook-race-to-solve-the-ancient-game-of-go/#slide-1](http://www.wired.com/2015/12/google-and-facebook-race-to-solve-the-ancient-game-of-go/#slide-1)
+
+# Technology
+
+**Amazon Developing ‘Smart Zoom’ For 4K, 8K Video**
+
+<img src="/assets/news_talks_interviews/Amazon-Smart-Zoom.jpg" width="600" />
+
+[http://www.donohuereport.com/amazon-developing-smart-zoom-for-4k-8k-video/](http://www.donohuereport.com/amazon-developing-smart-zoom-for-4k-8k-video/)
