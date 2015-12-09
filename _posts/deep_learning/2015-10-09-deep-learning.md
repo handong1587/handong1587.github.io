@@ -78,6 +78,11 @@ date: 2015-10-09
 
 # Activation functions
 
+**Delving Deep into Rectifiers: Surpassing Human-Level Performance on ImageNet Classification**
+
+- keywords: PReLU, Caffe "msra" weights initilization
+- arXiv: [http://arxiv.org/abs/1502.01852](http://arxiv.org/abs/1502.01852)
+
 **Empirical Evaluation of Rectified Activations in Convolutional Network**
 
 - arXiv: [http://arxiv.org/abs/1505.00853](http://arxiv.org/abs/1505.00853)
@@ -354,6 +359,12 @@ date: 2015-10-09
 **BICV Group: Biologically Inspired Computer Vision research group**
 
 [http://www.bicv.org/deep-learning/](http://www.bicv.org/deep-learning/)
+
+# Deep Learning Books
+
+**Deep Learning (By Ian Goodfellow, Aaron Courville and Yoshua Bengio)**
+
+[http://goodfeli.github.io/dlbook/](http://goodfeli.github.io/dlbook/)
 
 # Deep Learning Blogs
 

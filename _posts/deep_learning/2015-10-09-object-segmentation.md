@@ -63,8 +63,6 @@ date: 2015-10-09
 
 - arXiv: [http://arxiv.org/abs/1505.04366](http://arxiv.org/abs/1505.04366)
 
-<img src="/assets/object-segmentation-materials/PSACAL-VOC-2012-Seg-Leaderboard.png" width="1000" />
-
 **SegNet: A Deep Convolutional Encoder-Decoder Architecture for Robust Semantic Pixel-Wise Labelling**
 
 - arXiv: [http://arxiv.org/abs/1505.07293](http://arxiv.org/abs/1505.07293)
@@ -78,3 +76,10 @@ date: 2015-10-09
 - arXiv: [http://arxiv.org/abs/1511.00561](http://arxiv.org/abs/1511.00561)
 - github: [https://github.com/alexgkendall/caffe-segnet](https://github.com/alexgkendall/caffe-segnet)
 - tutorial: [http://mi.eng.cam.ac.uk/projects/segnet/tutorial.html](http://mi.eng.cam.ac.uk/projects/segnet/tutorial.html)
+
+**Recurrent Instance Segmentation**
+
+<img src="/assets/object-segmentation-materials/RIS.png"/>
+	
+- arXiv: [http://arxiv.org/abs/1511.08250](http://arxiv.org/abs/1511.08250)
+- homepage: [http://romera-paredes.com/recurrent-instance-segmentation](http://romera-paredes.com/recurrent-instance-segmentation)

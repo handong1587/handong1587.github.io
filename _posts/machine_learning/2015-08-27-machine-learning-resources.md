@@ -85,6 +85,13 @@ date: 2015-08-27
 
 - paper: [https://www.cs.princeton.edu/~blei/papers/Blei2011.pdf](https://www.cs.princeton.edu/~blei/papers/Blei2011.pdf)
 
+# Decision Tree
+
+**Canonical Correlation Forests**
+
+- arXiv: [http://arxiv.org/abs/1507.05444](http://arxiv.org/abs/1507.05444)
+- code: [https://bitbucket.org/twgr/ccf](https://bitbucket.org/twgr/ccf)
+
 # Random Forests
 
 **AWESOME-RANDOM-FOREST - a curated list of resources regarding random forest**
@@ -160,6 +167,13 @@ date: 2015-08-27
 - blog: [https://research.facebook.com/blog/294071574113354/fast-randomized-svd/](https://research.facebook.com/blog/294071574113354/fast-randomized-svd/)
 - baidu-pan: [http://pan.baidu.com/s/1nt8I8qt](http://pan.baidu.com/s/1nt8I8qt)
 - github: [https://github.com/facebook/fbpca](https://github.com/facebook/fbpca)
+
+# Convex Optimization
+
+**Convex Optimization: Algorithms and Complexity**
+
+- arXiv: [http://arxiv.org/abs/1405.4980](http://arxiv.org/abs/1405.4980)
+- blog: [https://blogs.princeton.edu/imabandit/2015/11/30/convex-optimization-algorithms-and-complexity/](https://blogs.princeton.edu/imabandit/2015/11/30/convex-optimization-algorithms-and-complexity/)
 
 # Multilabel
 

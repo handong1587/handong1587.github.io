@@ -66,6 +66,10 @@ date: 2015-10-09
 - homepage: [http://www.stat.ucla.edu/~yang.lu/project/deepFrame/main.html](http://www.stat.ucla.edu/~yang.lu/project/deepFrame/main.html)
 - code: [http://www.stat.ucla.edu/~yang.lu/project/deepFrame/doc/code.zip](http://www.stat.ucla.edu/~yang.lu/project/deepFrame/doc/code.zip)
 
+**Visualizing Deep Convolutional Neural Networks Using Natural Pre-Images**
+
+- arXiv: [http://arxiv.org/abs/1512.02017](http://arxiv.org/abs/1512.02017)
+
 # Code
 
 **Interactive Deep Neural Net Hallucinations**
