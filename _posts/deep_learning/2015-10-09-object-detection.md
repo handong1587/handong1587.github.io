@@ -35,9 +35,10 @@ date: 2015-10-09
 - code: [https://github.com/rbgirshick/rcnn](https://github.com/rbgirshick/rcnn)
 - notes: [http://zhangliliang.com/2014/07/23/paper-note-rcnn/](http://zhangliliang.com/2014/07/23/paper-note-rcnn/)
 
-**Scalable Object Detection using Deep Neural Networks**
+**Scalable Object Detection using Deep Neural Networks (MultiBox)**
 
-- paper: [http://arxiv.org/abs/1312.2249](http://arxiv.org/abs/1312.2249)
+- intro: Train a CNN to predict Region of Interest.
+- arXiv: [http://arxiv.org/abs/1312.2249](http://arxiv.org/abs/1312.2249)
 - code: [https://github.com/google/multibox](https://github.com/google/multibox)
 
 **Spatial Pyramid Pooling in Deep Convolutional Networks for Visual Recognition**

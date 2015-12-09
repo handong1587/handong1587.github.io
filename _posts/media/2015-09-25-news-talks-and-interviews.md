@@ -31,6 +31,10 @@ date: 2015-09-25
 
 [https://re-work.co/blog/deep-learning-andrej-karpathy](https://re-work.co/blog/deep-learning-andrej-karpathy)
 
+**The 14 most impressive AI scientists working at Google DeepMind**
+
+[http://www.businessinsider.com/the-most-impressive-ai-scientists-working-at-google-deepmind-2015-11](http://www.businessinsider.com/the-most-impressive-ai-scientists-working-at-google-deepmind-2015-11)
+
 # Self-driving Cars
 
 **Self-driving cars: How far away are we REALLY from autonomous cars?(7 Aug 2015)**
