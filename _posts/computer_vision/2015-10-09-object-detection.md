@@ -22,6 +22,10 @@ paper: [http://www.lv-nus.org/papers/2011/cvpr2010-context_final.pdf](http://www
 
 **30hz object detection with dpm v5**
 
+- paper: [http://web.engr.illinois.edu/~msadegh2/papers/DPM30Hz.pdf](http://web.engr.illinois.edu/~msadegh2/papers/DPM30Hz.pdf)
+- project page: [http://vision.cs.illinois.edu/DPM30Hz/](http://vision.cs.illinois.edu/DPM30Hz/)
+- slides: [http://web.engr.illinois.edu/~msadegh2/papers/DPM30Hz.pptx](http://web.engr.illinois.edu/~msadegh2/papers/DPM30Hz.pptx)
+
 **The fastest deformable part model for object detection**
 
 **Fast, accurate detection of 100,000 object classes on a single machine**
