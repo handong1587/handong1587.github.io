@@ -90,6 +90,12 @@ date: 2015-10-09
 
 - arXiv: [http://arxiv.org/abs/1511.06279](http://arxiv.org/abs/1511.06279)
 
+# Code
+
+**char-rnn in Blocks**
+
+- github: [https://github.com/johnarevalo/blocks-char-rnn](https://github.com/johnarevalo/blocks-char-rnn)
+
 # Blog
 
 "A Deep Dive into Recurrent Neural Nets"

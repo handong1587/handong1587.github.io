@@ -79,6 +79,10 @@ date: 2015-10-09
 
 - arXiv: [http://arxiv.org/abs/1512.01124](http://arxiv.org/abs/1512.01124)
 
+**How to Discount Deep Reinforcement Learning: Towards New Dynamic Strategies**
+
+- arXiv: [http://arxiv.org/abs/1512.02011](http://arxiv.org/abs/1512.02011)
+
 # Blogs
 
 **A Short Introduction To Some Reinforcement Learning Algorithms**
