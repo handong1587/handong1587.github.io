@@ -19,6 +19,10 @@ date: 2015-08-27
 - Part I: [http://www.edvancer.in/logistic-regression-vs-decision-trees-vs-svm-part1/](http://www.edvancer.in/logistic-regression-vs-decision-trees-vs-svm-part1/)
 - Part II: [http://www.edvancer.in/logistic-regression-vs-decision-trees-vs-svm-part2/](http://www.edvancer.in/logistic-regression-vs-decision-trees-vs-svm-part2/)
 
+**Machine learning: A practical introduction**
+
+- blog: [http://www.infoworld.com/article/3010401/big-data/machine-learning-a-practical-introduction.html](http://www.infoworld.com/article/3010401/big-data/machine-learning-a-practical-introduction.html)
+
 # Bayesian Learning
 
 **Auto-Encoding Variational Bayes**
