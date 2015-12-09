@@ -28,6 +28,12 @@ paper: [http://www.lv-nus.org/papers/2011/cvpr2010-context_final.pdf](http://www
 
 **The fastest deformable part model for object detection**
 
+- paper: [http://www.cbsr.ia.ac.cn/users/jjyan/Fastest_DPM.pdf](http://www.cbsr.ia.ac.cn/users/jjyan/Fastest_DPM.pdf)
+- Result on FDDB: [http://vis-www.cs.umass.edu/fddb/results.html](http://vis-www.cs.umass.edu/fddb/results.html)
+
 **Fast, accurate detection of 100,000 object classes on a single machine**
+
+- paper: [research.google.com/pubs/archive/41104.pdf](research.google.com/pubs/archive/41104.pdf)
+- paper: [https://courses.cs.washington.edu/courses/cse590v/13au/40814.pdf](https://courses.cs.washington.edu/courses/cse590v/13au/40814.pdf)
 
 - - -

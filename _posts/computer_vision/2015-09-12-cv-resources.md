@@ -55,9 +55,13 @@ date: 2015-09-12
 
 # HOG
 
-**notes: Histogram of Oriented Gradients**
+**Optimizing and Parallelizing Histogram of Oriented Gradients Computation**
 
-[http://www.cs.duke.edu/courses/fall15/compsci527/notes/hog.pdf](http://www.cs.duke.edu/courses/fall15/compsci527/notes/hog.pdf)
+- project page: [http://bwasti.com/418](http://bwasti.com/418)
+
+**Histogram of Oriented Gradients**
+
+- notes: [http://www.cs.duke.edu/courses/fall15/compsci527/notes/hog.pdf](http://www.cs.duke.edu/courses/fall15/compsci527/notes/hog.pdf)
 
 # Bag Of Words
 
