@@ -196,3 +196,7 @@ and Structured Prediction**
 **Active Object Localization with Deep Reinforcement Learning**
 
 - arXiv: [http://arxiv.org/abs/1511.06015](http://arxiv.org/abs/1511.06015)
+
+**SSD: Single Shot MultiBox Detector**
+
+- arXiv: [http://arxiv.org/abs/1512.02325](http://arxiv.org/abs/1512.02325)
