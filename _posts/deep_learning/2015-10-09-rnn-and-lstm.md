@@ -86,7 +86,13 @@ date: 2015-10-09
 - arXiv: [http://arxiv.org/abs/1410.4615](http://arxiv.org/abs/1410.4615)
 - github: [https://github.com/wojciechz/learning_to_execute](https://github.com/wojciechz/learning_to_execute)
 
-**Neural Programmer-Interpreters**
+**Neural Programmer-Interpreters (Google DeepMind)**
+
+<img src="/assets/dl-materials/NPI/add.gif" />
+
+<img src="/assets/dl-materials/NPI/cars.gif" />
+
+<img src="/assets/dl-materials/NPI/sort_full.gif" />
 
 - arXiv: [http://arxiv.org/abs/1511.06279](http://arxiv.org/abs/1511.06279)
 - project page: [http://www-personal.umich.edu/~reedscot/iclr_project.html](http://www-personal.umich.edu/~reedscot/iclr_project.html)
