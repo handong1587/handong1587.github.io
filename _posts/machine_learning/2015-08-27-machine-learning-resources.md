@@ -164,6 +164,11 @@ date: 2015-08-27
 
 - arXiv: [http://arxiv.org/abs/1511.06443](http://arxiv.org/abs/1511.06443)
 
+**Beyond Low Rank + Sparse: Multi-scale Low Rank Matrix Decomposition**
+
+- arxiv: [http://arxiv.org/abs/1507.08751](http://arxiv.org/abs/1507.08751)
+- github: [https://github.com/frankong/multi_scale_low_rank](https://github.com/frankong/multi_scale_low_rank)
+
 # PCA/SVD
 
 **Fast Randomized PCA/SVD**

@@ -83,6 +83,10 @@ date: 2015-10-09
 
 - arXiv: [http://arxiv.org/abs/1512.02011](http://arxiv.org/abs/1512.02011)
 
+**State of the Art Control of Atari Games Using Shallow Reinforcement Learning**
+
+- arxiv: [http://arxiv.org/abs/1512.01563](http://arxiv.org/abs/1512.01563)
+
 # Blogs
 
 **A Short Introduction To Some Reinforcement Learning Algorithms**

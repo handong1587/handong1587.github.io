@@ -12,3 +12,12 @@ date: 2015-12-09
 **NIPS 2015 Posner Lecture – Zoubin Ghahramani: Probabilistic Machine Learning**
 
 [https://gridworld.wordpress.com/2015/12/08/nips-2015-posner-lecture-zoubin-ghahramani/](https://gridworld.wordpress.com/2015/12/08/nips-2015-posner-lecture-zoubin-ghahramani/)
+
+**Deep Learning - NIPS’2015	Tutorial (By Geoff Hinton,	Yoshua Bengio & Yann LeCun)**
+
+- slides: [http://www.iro.umontreal.ca/~bengioy/talks/DL-Tutorial-NIPS2015.pdf](http://www.iro.umontreal.ca/~bengioy/talks/DL-Tutorial-NIPS2015.pdf)
+
+**NIPS 2015**
+
+- Part 1: [https://memming.wordpress.com/2015/12/07/nips-2015-part-1/](https://memming.wordpress.com/2015/12/07/nips-2015-part-1/)
+- Part 2: [https://memming.wordpress.com/2015/12/09/nips-2015-part-2/](https://memming.wordpress.com/2015/12/09/nips-2015-part-2/)

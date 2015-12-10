@@ -150,3 +150,10 @@ date: 2015-10-09
 **Deep learning for hackers with MXnet (1) GPU installation and MNIST**
 
 [https://no2147483647.wordpress.com/2015/12/07/deep-learning-for-hackers-with-mxnet-1/](https://no2147483647.wordpress.com/2015/12/07/deep-learning-for-hackers-with-mxnet-1/)
+
+## Chainer
+
+**Introduction to Chainer: Neural Networks in Python**
+
+- blog: [http://multithreaded.stitchfix.com/blog/2015/12/09/intro-to-chainer/](http://multithreaded.stitchfix.com/blog/2015/12/09/intro-to-chainer/)
+- github: [https://github.com/stitchfix/Algorithms-Notebooks](https://github.com/stitchfix/Algorithms-Notebooks)
