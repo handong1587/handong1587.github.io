@@ -157,3 +157,9 @@ date: 2015-10-09
 
 - blog: [http://multithreaded.stitchfix.com/blog/2015/12/09/intro-to-chainer/](http://multithreaded.stitchfix.com/blog/2015/12/09/intro-to-chainer/)
 - github: [https://github.com/stitchfix/Algorithms-Notebooks](https://github.com/stitchfix/Algorithms-Notebooks)
+
+## Theano
+
+**Configuring Theano For High Performance Deep Learning**
+
+[http://www.johnwittenauer.net/configuring-theano-for-high-performance-deep-learning/](http://www.johnwittenauer.net/configuring-theano-for-high-performance-deep-learning/)
