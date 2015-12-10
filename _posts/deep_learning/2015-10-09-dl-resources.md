@@ -189,7 +189,7 @@ date: 2015-10-09
 
 - arXiv: [http://arxiv.org/abs/1504.06063](http://arxiv.org/abs/1504.06063)
 
-# Deep Networks
+# Deep Learning Networks
 
 **Rectified Factor Networks**
 
