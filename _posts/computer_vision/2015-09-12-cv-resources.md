@@ -8,6 +8,14 @@ date: 2015-09-12
 * TOC
 {:toc}
 
+# Courses
+
+**Mobile Computer Vision**
+
+<img src="/assets/computer-vision/courses/Mobile_Computer_Vision_course-splash.png" width="800" />
+
+[http://web.stanford.edu/class/cs231m/](http://web.stanford.edu/class/cs231m/)
+
 # Super-Resolution
 
 **Image Super-Resolution Using Deep Convolutional Networks(Microsoft Research)**

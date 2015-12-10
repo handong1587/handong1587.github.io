@@ -1,12 +1,70 @@
 ---
 layout: post
 category: machine_learning
-title: Machine Learning
+title: Machine Learning Resources
 date: 2015-08-27
 ---
 
 * TOC
 {:toc}
+
+# Courses
+
+**Courses on machine learning**
+
+[http://homepages.inf.ed.ac.uk/rbf/IAPR/researchers/MLPAGES/mlcourses.htm](http://homepages.inf.ed.ac.uk/rbf/IAPR/researchers/MLPAGES/mlcourses.htm)
+
+**CSC2535 -- Spring 2013 Advanced Machine Learning(by Hinton, University of Toronto)**
+
+[http://www.cs.toronto.edu/~hinton/csc2535/](http://www.cs.toronto.edu/~hinton/csc2535/)
+
+**CMU: Probabilistic Graphical Models(by Eric Xing)**
+
+[http://www.cs.cmu.edu/~epxing/Class/10708/](http://www.cs.cmu.edu/~epxing/Class/10708/)
+
+**Stanford CME 323: Distributed Algorithms and Optimization**
+
+[http://stanford.edu/~rezab/dao/](http://stanford.edu/~rezab/dao/)
+
+**CMU Convex Optimization: Fall 2015**
+
+[http://www.stat.cmu.edu/~ryantibs/convexopt/](http://www.stat.cmu.edu/~ryantibs/convexopt/)
+
+**University at Buffalo CSE574: Machine Learning and Probabilistic Graphical Models Course**
+
+[http://www.cedar.buffalo.edu/~srihari/CSE574/](http://www.cedar.buffalo.edu/~srihari/CSE574/)
+
+**Stanford CS229: Machine Learning Autumn 2015(by Andrew Ng)**
+
+[http://cs229.stanford.edu/](http://cs229.stanford.edu/)
+
+**Stanford / Winter 2014-2015 CS229T/STATS231: Statistical Learning Theory(by Percy Liang)**
+
+- homepage: [http://web.stanford.edu/class/cs229t/](http://web.stanford.edu/class/cs229t/)
+- Lecture Notes: [http://web.stanford.edu/class/cs229t/notes.pdf](http://web.stanford.edu/class/cs229t/notes.pdf)
+
+**CMU Fall 2015 10-715: Advanced Introduction to Machine Learning(by Alex Smola, Barnabas Poczos)**
+
+- homepage: [http://www.cs.cmu.edu/~bapoczos/Classes/ML10715_2015Fall/](http://www.cs.cmu.edu/~bapoczos/Classes/ML10715_2015Fall/)
+- videos: [http://pan.baidu.com/s/1qWvcsUS](http://pan.baidu.com/s/1qWvcsUS)
+
+**2015 Machine Learning Summer School: Convex Optimization Short Course(by S. Boyd and S. Diamond)**
+
+- Lecture slides and IPython notebooks: [https://stanford.edu/~boyd/papers/cvx_short_course.html](https://stanford.edu/~boyd/papers/cvx_short_course.html)
+
+**STA 4273H (Winter 2015): Large Scale Machine Learning**
+
+[http://www.cs.toronto.edu/~rsalakhu/STA4273_2015/](http://www.cs.toronto.edu/~rsalakhu/STA4273_2015/)
+
+**University of Oxford: Machine Learning: 2014-2015**
+
+- homepage: [https://www.cs.ox.ac.uk/people/nando.defreitas/machinelearning/](https://www.cs.ox.ac.uk/people/nando.defreitas/machinelearning/)
+- lectures: [http://pan.baidu.com/s/1bndbxJh#path=%252FDeep%2520Learning%2520Lectures](http://pan.baidu.com/s/1bndbxJh#path=%252FDeep%2520Learning%2520Lectures)
+- github: [https://github.com/oxford-cs-ml-2015/](https://github.com/oxford-cs-ml-2015/)
+
+**Computer Science 294: Practical Machine Learning (Fall 2009) (by Michael Jordan)**
+
+- homepage: [https://www.cs.berkeley.edu/~jordan/courses/294-fall09/](https://www.cs.berkeley.edu/~jordan/courses/294-fall09/)
 
 # Tutorials
 
@@ -22,6 +80,7 @@ date: 2015-08-27
 **Machine learning: A practical introduction**
 
 - blog: [http://www.infoworld.com/article/3010401/big-data/machine-learning-a-practical-introduction.html](http://www.infoworld.com/article/3010401/big-data/machine-learning-a-practical-introduction.html)
+
 
 # Bayesian Learning
 
