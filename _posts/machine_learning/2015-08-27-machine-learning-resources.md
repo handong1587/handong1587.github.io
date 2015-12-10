@@ -188,6 +188,10 @@ date: 2015-08-27
 - github: [https://github.com/tdhopper/smo-svm](https://github.com/tdhopper/smo-svm)
 - paper: [https://github.com/tdhopper/smo-svm/blob/master/OR706%20Support%20Vector%20Machines.pdf](https://github.com/tdhopper/smo-svm/blob/master/OR706%20Support%20Vector%20Machines.pdf)
 
+**A Simple Introduction to Support Vector Machines (Lecture for CSE 802)**
+
+- slides: [http://www.cise.ufl.edu/class/cis4930sp11dtm/notes/intro_svm_new.pdf](http://www.cise.ufl.edu/class/cis4930sp11dtm/notes/intro_svm_new.pdf)
+
 # Neural Network
 
 **A Fast C++ Implementation of Neural Network Backpropagation Training Algorithm: Application to Bayesian Optimal Image Demosaicking**
