@@ -55,6 +55,13 @@ date: 2015-10-09
 
 - project: [https://people.csail.mit.edu/yichangshih/portrait_web/](https://people.csail.mit.edu/yichangshih/portrait_web/)
 
+**Teaching recurrent Neural Networks about Monet**
+
+<img src="/assets/cnn-and-arts/keras_monet_output_sample.png" />
+
+- blog: [http://blog.manugarri.com/teaching-recurrent-neural-networks-about-monet/](http://blog.manugarri.com/teaching-recurrent-neural-networks-about-monet/)
+- github: [https://github.com/manugarri/keras_monet](https://github.com/manugarri/keras_monet)
+
 # Music
 
 **GRUV: Algorithmic Music Generation using Recurrent Neural Networks**
