@@ -52,7 +52,7 @@ date: 2015-10-09
 
 **Shepard Convolutional Neural Networks**
 
-![](/assets/comic_bicubic_x3.png)  ![](/assets/comic_shcnn_x3.png) <br>
+![](/assets/cnn-materials/comic_bicubic_x3.png)  ![](/assets/cnn-materials/comic_shcnn_x3.png) <br>
 Bicubic VS. Shepard CNN
 
 - paper: [https://papers.nips.cc/paper/5774-shepard-convolutional-neural-networks.pdf](https://papers.nips.cc/paper/5774-shepard-convolutional-neural-networks.pdf)
