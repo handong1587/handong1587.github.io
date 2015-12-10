@@ -5,6 +5,29 @@ title: RNN and LSTM
 date: 2015-10-09
 ---
 
+# Tutorials
+
+**A Deep Dive into Recurrent Neural Nets**
+
+[http://nikhilbuduma.com/2015/01/11/a-deep-dive-into-recurrent-neural-networks/](http://nikhilbuduma.com/2015/01/11/a-deep-dive-into-recurrent-neural-networks/)
+
+**Long Short-Term Memory: Tutorial on LSTM Recurrent Networks**
+
+[http://people.idsia.ch/~juergen/lstm/index.htm](http://people.idsia.ch/~juergen/lstm/index.htm)
+
+**LSTM implementation explained**
+
+[http://apaszke.github.io/lstm-explained.html](http://apaszke.github.io/lstm-explained.html)
+
+**Recurrent Neural Networks Tutorial, Part 1 – Introduction to RNNs**
+
+[http://www.wildml.com/2015/09/recurrent-neural-networks-tutorial-part-1-introduction-to-rnns/](http://www.wildml.com/2015/09/recurrent-neural-networks-tutorial-part-1-introduction-to-rnns/)
+
+**Understanding LSTM Networks**
+
+- blog: [http://colah.github.io/posts/2015-08-Understanding-LSTMs/](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
+- ZH: [http://www.jianshu.com/p/9dc9f41f0b29](http://www.jianshu.com/p/9dc9f41f0b29)
+
 # Paper
 
 **Show, Attend and Tell: Neural Image Caption Generation with Visual Attention**
@@ -88,11 +111,11 @@ date: 2015-10-09
 
 **Neural Programmer-Interpreters (Google DeepMind)**
 
-<img src="/assets/dl-materials/NPI/add.gif" />
+<img src="/assets/dl-materials/rnn_lstm/NPI/add.gif" />
 
-<img src="/assets/dl-materials/NPI/cars.gif" />
+<img src="/assets/dl-materials/rnn_lstm/NPI/cars.gif" />
 
-<img src="/assets/dl-materials/NPI/sort_full.gif" />
+<img src="/assets/dl-materials/rnn_lstm/NPI/sort_full.gif" />
 
 - arXiv: [http://arxiv.org/abs/1511.06279](http://arxiv.org/abs/1511.06279)
 - project page: [http://www-personal.umich.edu/~reedscot/iclr_project.html](http://www-personal.umich.edu/~reedscot/iclr_project.html)
@@ -105,28 +128,8 @@ date: 2015-10-09
 
 # Blog
 
-"A Deep Dive into Recurrent Neural Nets"
+# Resources
 
-[http://nikhilbuduma.com/2015/01/11/a-deep-dive-into-recurrent-neural-networks/](http://nikhilbuduma.com/2015/01/11/a-deep-dive-into-recurrent-neural-networks/)
-
-"Long Short-Term Memory: Tutorial on LSTM Recurrent Networks"
-
-[http://people.idsia.ch/~juergen/lstm/index.htm](http://people.idsia.ch/~juergen/lstm/index.htm)
-
-"LSTM implementation explained"
-
-[http://apaszke.github.io/lstm-explained.html](http://apaszke.github.io/lstm-explained.html)
-
-"Recurrent Neural Networks Tutorial, Part 1 – Introduction to RNNs"
-
-[http://www.wildml.com/2015/09/recurrent-neural-networks-tutorial-part-1-introduction-to-rnns/](http://www.wildml.com/2015/09/recurrent-neural-networks-tutorial-part-1-introduction-to-rnns/)
-
-"Awesome-rnn - A curated list of resources dedicated to RNN"
+**Awesome-rnn - A curated list of resources dedicated to RNN**
 
 [http://jiwonkim.org/awesome-rnn/](http://jiwonkim.org/awesome-rnn/)
-
-"Understanding LSTM Networks"
-
-[http://colah.github.io/posts/2015-08-Understanding-LSTMs/](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
-
-- Chs: [http://www.jianshu.com/p/9dc9f41f0b29](http://www.jianshu.com/p/9dc9f41f0b29)
