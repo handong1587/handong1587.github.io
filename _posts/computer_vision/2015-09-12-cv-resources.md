@@ -16,7 +16,7 @@ date: 2015-09-12
 
 [http://web.stanford.edu/class/cs231m/](http://web.stanford.edu/class/cs231m/)
 
-# Super-Resolution
+# Image Super-Resolution
 
 **Image Super-Resolution Using Deep Convolutional Networks(Microsoft Research)**
 
@@ -42,12 +42,16 @@ date: 2015-09-12
 - homepage: [https://sites.google.com/site/jbhuang0604/publications/struct_sr](https://sites.google.com/site/jbhuang0604/publications/struct_sr)
 - github: [https://github.com/jbhuang0604/SelfExSR](https://github.com/jbhuang0604/SelfExSR)
 
+# Images Denoising
+
 **Fast Burst Images Denoising(SIGGRAPH Asia 2014. CUHK, Microsoft Research)**
 
 <img src="/assets/computer-vision/Fast_Burst_Images_Denoising_intro.png" width="800" />
 
 - paper: [http://personal.ie.cuhk.edu.hk/~lz013/papers/burstdenoising.pdf](http://personal.ie.cuhk.edu.hk/~lz013/papers/burstdenoising.pdf)
 - project: [http://personal.ie.cuhk.edu.hk/~lz013/projects/BurstDenoising.html](http://personal.ie.cuhk.edu.hk/~lz013/projects/BurstDenoising.html)
+
+- - -
 
 **Computer Vision Datasets**
 

@@ -39,6 +39,25 @@ date: 2015-10-09
 - arXiv: [http://arxiv.org/abs/1511.07917](http://arxiv.org/abs/1511.07917)
 - github: [https://github.com/aosokin/cnn_head_detection](https://github.com/aosokin/cnn_head_detection)
 
+# Image Super-Resolution
+
+**Image Super-Resolution Using Deep Convolutional Networks(Microsoft Research)**
+
+- paper: [http://arxiv.org/abs/1501.00092](http://arxiv.org/abs/1501.00092)
+- project: [http://mmlab.ie.cuhk.edu.hk/projects/SRCNN.html](http://mmlab.ie.cuhk.edu.hk/projects/SRCNN.html)
+
+**Learning a Deep Convolutional Network for Image Super-Resolution**
+
+- Baidu-pan: [http://pan.baidu.com/s/1c0k0wRu](http://pan.baidu.com/s/1c0k0wRu)
+
+**Shepard Convolutional Neural Networks**
+
+![](/assets/comic_bicubic_x3.png)  ![](/assets/comic_shcnn_x3.png) <br>
+Bicubic VS. Shepard CNN
+
+- paper: [https://papers.nips.cc/paper/5774-shepard-convolutional-neural-networks.pdf](https://papers.nips.cc/paper/5774-shepard-convolutional-neural-networks.pdf)
+- github: [https://github.com/jimmy-ren/vcnn_double-bladed/tree/master/applications/Shepard_CNN](https://github.com/jimmy-ren/vcnn_double-bladed/tree/master/applications/Shepard_CNN)
+
 # Interesting Application
 
 **Deeply-Learned Feature for Age Estimation**
