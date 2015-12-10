@@ -1,7 +1,7 @@
 ---
 layout: post
 category: deep_learning
-title: Courses
+title: Deep learning Courses
 date: 2015-07-01
 ---
 

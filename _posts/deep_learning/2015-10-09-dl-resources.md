@@ -1,7 +1,7 @@
 ---
 layout: post
 category: deep_learning
-title: Deep Learning
+title: Deep Learning Resources
 date: 2015-10-09
 ---
 
@@ -218,42 +218,6 @@ date: 2015-10-09
 
 - paper: [http://arxiv.org/abs/1509.05016](http://arxiv.org/abs/1509.05016)
 - homepage: [http://www.brain4cars.com/](http://www.brain4cars.com/)
-
-# Interesting Application
-
-**Deeply-Learned Feature for Age Estimation**
-
-- paper: [http://ieeexplore.ieee.org.sci-hub.org/xpl/login.jsp?tp=&arnumber=7045931&url=http%3A%2F%2Fieeexplore.ieee.org%2Fiel7%2F7045624%2F7045853%2F07045931.pdf%3Farnumber%3D7045931](http://ieeexplore.ieee.org.sci-hub.org/xpl/login.jsp?tp=&arnumber=7045931&url=http%3A%2F%2Fieeexplore.ieee.org%2Fiel7%2F7045624%2F7045853%2F07045931.pdf%3Farnumber%3D7045931)
-
-**Real-time emotion recognition for gaming using deep convolutional network features**
-
-- paper: [http://arxiv.org/abs/1408.3750v1](http://arxiv.org/abs/1408.3750v1)
-- code: [https://github.com/Zebreu/ConvolutionalEmotion](https://github.com/Zebreu/ConvolutionalEmotion)
-
-**DeXpression: Deep Convolutional Neural Network for Expression Recognition**
-
-- paper: [http://arxiv.org/abs/1509.05371](http://arxiv.org/abs/1509.05371)
-
-**Convolutional networks for real-time 6-DOF camera relocalization**
-
-- paper: [http://arxiv.org/abs/1505.07427](http://arxiv.org/abs/1505.07427)
-- website: [http://mi.eng.cam.ac.uk/projects/relocalisation/#results](http://mi.eng.cam.ac.uk/projects/relocalisation/#results)
-
-**Modelling Uncertainty in Deep Learning for Camera Relocalization**
-
-- paper: [http://arxiv.org/abs/1509.05909](http://arxiv.org/abs/1509.05909)
-
-**PANDA: Pose Aligned Networks for Deep Attribute Modeling(Facebook)**
-
-- arXiv: [http://arxiv.org/abs/1311.5591](http://arxiv.org/abs/1311.5591)
-- github: [https://github.com/facebook/pose-aligned-deep-networks](https://github.com/facebook/pose-aligned-deep-networks)
-
-**NetVLAD: CNN architecture for weakly supervised place recognition**
-
-<img src="/assets/dl-materials/NetVLAD_teaser.png" />
-
-- arXiv: [http://arxiv.org/abs/1511.07247](http://arxiv.org/abs/1511.07247)
-- github: [http://www.di.ens.fr/willow/research/netvlad/](http://www.di.ens.fr/willow/research/netvlad/)
 	
 # Deep Learning’s Accuracy
 

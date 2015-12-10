@@ -35,6 +35,10 @@ date: 2015-09-25
 
 [http://www.businessinsider.com/the-most-impressive-ai-scientists-working-at-google-deepmind-2015-11](http://www.businessinsider.com/the-most-impressive-ai-scientists-working-at-google-deepmind-2015-11)
 
+**Berkeley Lab Explores Frontiers of Deep Learning for Science**
+
+[https://cs.lbl.gov/news-media/news/2015/berkeley-lab-explores-frontiers-of-deep-learning-for-science/](https://cs.lbl.gov/news-media/news/2015/berkeley-lab-explores-frontiers-of-deep-learning-for-science/)
+
 # Self-driving Cars
 
 **Self-driving cars: How far away are we REALLY from autonomous cars?(7 Aug 2015)**
