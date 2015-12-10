@@ -37,6 +37,10 @@ date: 2015-10-09
 
 - paper: [http://scholarbank.nus.edu.sg/bitstream/handle/10635/120564/DeepNeuralNetworks.pdf?sequence=1](http://scholarbank.nus.edu.sg/bitstream/handle/10635/120564/DeepNeuralNetworks.pdf?sequence=1)
 
+**Three Classes of Deep Learning Architectures and Their Applications: A Tutorial Survey**
+
+- paper: [http://research.microsoft.com/pubs/192937/Transactions-APSIPA.pdf](http://research.microsoft.com/pubs/192937/Transactions-APSIPA.pdf)
+
 # ImageNet
 
 **Going Deeper with Convolutions**
