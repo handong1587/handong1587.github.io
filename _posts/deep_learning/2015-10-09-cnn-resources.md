@@ -79,6 +79,10 @@ date: 2015-10-09
 
 - paper: [http://www.cs.ubc.ca/~murphyk/Papers/im2calories_iccv15.pdf](http://www.cs.ubc.ca/~murphyk/Papers/im2calories_iccv15.pdf)
 
+**Predicting psychological attributions from face photographs with a deep neural network**
+
+- arxiv: [http://arxiv.org/abs/1512.01289](http://arxiv.org/abs/1512.01289)
+
 # Code
 
 **ConvNetJS: a Javascript implementation of Neural networks**
