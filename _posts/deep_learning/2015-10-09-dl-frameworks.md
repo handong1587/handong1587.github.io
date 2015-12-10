@@ -22,9 +22,6 @@ date: 2015-10-09
 
 - github: [https://github.com/BVLC/caffe](https://github.com/BVLC/caffe)
 - paper: [http://arxiv.org/abs/1408.5093](http://arxiv.org/abs/1408.5093)
-- tutorial: [http://tutorial.caffe.berkeleyvision.org/](http://tutorial.caffe.berkeleyvision.org/)
-- tutorial: [http://vision.stanford.edu/teaching/cs231n/slides/caffe_tutorial.pdf](http://vision.stanford.edu/teaching/cs231n/slides/caffe_tutorial.pdf)
-- tutorial: [http://vision.princeton.edu/courses/COS598/2015sp/slides/Caffe/caffe_tutorial.pdf](http://vision.princeton.edu/courses/COS598/2015sp/slides/Caffe/caffe_tutorial.pdf)
 
 **Chainer: a neural network framework**
 
@@ -140,6 +137,23 @@ date: 2015-10-09
 
 # Tutorials
 
+## Caffe
+
+- tutorial: [http://tutorial.caffe.berkeleyvision.org/](http://tutorial.caffe.berkeleyvision.org/)
+- slides: [http://vision.stanford.edu/teaching/cs231n/slides/caffe_tutorial.pdf](http://vision.stanford.edu/teaching/cs231n/slides/caffe_tutorial.pdf)
+- slides: [http://vision.princeton.edu/courses/COS598/2015sp/slides/Caffe/caffe_tutorial.pdf](http://vision.princeton.edu/courses/COS598/2015sp/slides/Caffe/caffe_tutorial.pdf)
+
+**OpenCV 3.0.0-dev: Load Caffe framework models**
+
+[http://docs.opencv.org/master/d5/de7/tutorial_dnn_googlenet.html#gsc.tab=0](http://docs.opencv.org/master/d5/de7/tutorial_dnn_googlenet.html#gsc.tab=0)
+
+## Chainer
+
+**Introduction to Chainer: Neural Networks in Python**
+
+- blog: [http://multithreaded.stitchfix.com/blog/2015/12/09/intro-to-chainer/](http://multithreaded.stitchfix.com/blog/2015/12/09/intro-to-chainer/)
+- github: [https://github.com/stitchfix/Algorithms-Notebooks](https://github.com/stitchfix/Algorithms-Notebooks)
+
 ## MXNet
 
 **a short introduction to mxnet design and implementation (chinese)**
@@ -150,13 +164,6 @@ date: 2015-10-09
 **Deep learning for hackers with MXnet (1) GPU installation and MNIST**
 
 [https://no2147483647.wordpress.com/2015/12/07/deep-learning-for-hackers-with-mxnet-1/](https://no2147483647.wordpress.com/2015/12/07/deep-learning-for-hackers-with-mxnet-1/)
-
-## Chainer
-
-**Introduction to Chainer: Neural Networks in Python**
-
-- blog: [http://multithreaded.stitchfix.com/blog/2015/12/09/intro-to-chainer/](http://multithreaded.stitchfix.com/blog/2015/12/09/intro-to-chainer/)
-- github: [https://github.com/stitchfix/Algorithms-Notebooks](https://github.com/stitchfix/Algorithms-Notebooks)
 
 ## Theano
 
