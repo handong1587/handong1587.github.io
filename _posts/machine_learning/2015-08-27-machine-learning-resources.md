@@ -297,6 +297,13 @@ date: 2015-08-27
 
 # L-BFGS
 
+# Papers
+
+**Human-level concept learning through probabilistic program induction**
+
+- article: [http://www.sciencemag.org/content/350/6266/1332.full](http://www.sciencemag.org/content/350/6266/1332.full)
+- github: [https://github.com/brendenlake/BPL](https://github.com/brendenlake/BPL)
+
 # Resources
 
 **Machine Learning Surveys: A list of literature surveys, reviews, and tutorials on Machine Learning and related topics**

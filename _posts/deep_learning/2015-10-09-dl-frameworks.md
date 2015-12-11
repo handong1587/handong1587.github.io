@@ -110,6 +110,7 @@ date: 2015-10-09
 
 - website: [https://velesnet.ml/](https://velesnet.ml/)
 - github: [https://github.com/Samsung/veles](https://github.com/Samsung/veles)
+- workflow: [https://velesnet.ml/forge/forge.html](https://velesnet.ml/forge/forge.html)
 
 # Benchmark
 
