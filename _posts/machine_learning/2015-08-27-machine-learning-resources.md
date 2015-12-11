@@ -122,6 +122,11 @@ date: 2015-08-27
 
 - paper: [http://www.cis.upenn.edu/~mkearns/papers/barbados/jordan-tut.pdf](http://www.cis.upenn.edu/~mkearns/papers/barbados/jordan-tut.pdf)
 
+**Human-level concept learning through probabilistic program induction**
+
+- article: [http://www.sciencemag.org/content/350/6266/1332.full](http://www.sciencemag.org/content/350/6266/1332.full)
+- github: [https://github.com/brendenlake/BPL](https://github.com/brendenlake/BPL)
+
 # Boosting
 
 "Quick Introduction to Boosting Algorithms in Machine Learning"
@@ -296,13 +301,6 @@ date: 2015-08-27
 - paper: [http://research.microsoft.com/en-us/um/people/cburges/tech_reports/tr-2004-56.pdf](http://research.microsoft.com/en-us/um/people/cburges/tech_reports/tr-2004-56.pdf)
 
 # L-BFGS
-
-# Papers
-
-**Human-level concept learning through probabilistic program induction**
-
-- article: [http://www.sciencemag.org/content/350/6266/1332.full](http://www.sciencemag.org/content/350/6266/1332.full)
-- github: [https://github.com/brendenlake/BPL](https://github.com/brendenlake/BPL)
 
 # Resources
 
