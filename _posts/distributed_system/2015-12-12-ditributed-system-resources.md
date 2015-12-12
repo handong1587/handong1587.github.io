@@ -1,7 +1,7 @@
 ---
 layout: post
 category: deep_learning
-title: Notes On Deep Learning Training
+title: Distribued System Resources
 date: 2015-12-12
 ---
 
