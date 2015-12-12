@@ -122,8 +122,9 @@ date: 2015-08-27
 
 - paper: [http://www.cis.upenn.edu/~mkearns/papers/barbados/jordan-tut.pdf](http://www.cis.upenn.edu/~mkearns/papers/barbados/jordan-tut.pdf)
 
-**Human-level concept learning through probabilistic program induction**
+**Human-level concept learning through probabilistic program induction (Science 2015)**
 
+- paper: [http://cdn1.almosthuman.cn/wp-content/uploads/2015/12/Human-level-concept-learning-through-probabilistic-program-induction.pdf](http://cdn1.almosthuman.cn/wp-content/uploads/2015/12/Human-level-concept-learning-through-probabilistic-program-induction.pdf)
 - article: [http://www.sciencemag.org/content/350/6266/1332.full](http://www.sciencemag.org/content/350/6266/1332.full)
 - github: [https://github.com/brendenlake/BPL](https://github.com/brendenlake/BPL)
 
