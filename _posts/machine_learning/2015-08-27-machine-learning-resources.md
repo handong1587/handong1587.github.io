@@ -81,7 +81,6 @@ date: 2015-08-27
 
 - blog: [http://www.infoworld.com/article/3010401/big-data/machine-learning-a-practical-introduction.html](http://www.infoworld.com/article/3010401/big-data/machine-learning-a-practical-introduction.html)
 
-
 # Bayesian Learning
 
 **Auto-Encoding Variational Bayes**
@@ -127,6 +126,10 @@ date: 2015-08-27
 - paper: [http://cdn1.almosthuman.cn/wp-content/uploads/2015/12/Human-level-concept-learning-through-probabilistic-program-induction.pdf](http://cdn1.almosthuman.cn/wp-content/uploads/2015/12/Human-level-concept-learning-through-probabilistic-program-induction.pdf)
 - article: [http://www.sciencemag.org/content/350/6266/1332.full](http://www.sciencemag.org/content/350/6266/1332.full)
 - github: [https://github.com/brendenlake/BPL](https://github.com/brendenlake/BPL)
+
+**Graphical Models Lectures 2015**
+
+- homepage: [http://www.stats.ox.ac.uk/~lienart/gml.html](http://www.stats.ox.ac.uk/~lienart/gml.html)
 
 # Boosting
 
