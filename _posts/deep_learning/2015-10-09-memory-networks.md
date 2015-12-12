@@ -8,6 +8,7 @@ date: 2015-10-09
 **Neural Turing Machines**
 
 - paper: [http://arxiv.org/abs/1410.5401](http://arxiv.org/abs/1410.5401)
+- Chs: [http://www.jianshu.com/p/94dabe29a43b](http://www.jianshu.com/p/94dabe29a43b)
 - github: [https://github.com/shawntan/neural-turing-machines](https://github.com/shawntan/neural-turing-machines)
 - github: [https://github.com/DoctorTeeth/diffmem](https://github.com/DoctorTeeth/diffmem)
 
