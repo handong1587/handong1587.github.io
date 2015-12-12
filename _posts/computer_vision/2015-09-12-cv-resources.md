@@ -107,4 +107,5 @@ date: 2015-09-12
 
 **Awesome-deep-vision: A curated list of deep learning resources for computer vision**
 
-[http://jiwonkim.org/awesome-deep-vision/](http://jiwonkim.org/awesome-deep-vision/)
+- website: [http://jiwonkim.org/awesome-deep-vision/](http://jiwonkim.org/awesome-deep-vision/)
+- github: [https://github.com/kjw0612/awesome-deep-vision](https://github.com/kjw0612/awesome-deep-vision)
