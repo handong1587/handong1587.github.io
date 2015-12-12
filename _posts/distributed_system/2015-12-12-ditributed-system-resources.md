@@ -1,6 +1,6 @@
 ---
 layout: post
-category: deep_learning
+category: distribued_system
 title: Distribued System Resources
 date: 2015-12-12
 ---
