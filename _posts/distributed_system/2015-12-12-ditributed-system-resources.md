@@ -15,3 +15,7 @@ date: 2015-12-12
 
 - page: [http://www.slideshare.net/AlexanderUlanov1/a-scalable-implementation-of-deep-learning-on-spark-alexander-ulanov](http://www.slideshare.net/AlexanderUlanov1/a-scalable-implementation-of-deep-learning-on-spark-alexander-ulanov)
 - slides: [http://pan.baidu.com/s/1jHiNW5C](http://pan.baidu.com/s/1jHiNW5C)
+
+**linalg: Matrix Computations in Apache Spark**
+
+- arxiv: [http://arxiv.org/abs/1509.02256](http://arxiv.org/abs/1509.02256)
