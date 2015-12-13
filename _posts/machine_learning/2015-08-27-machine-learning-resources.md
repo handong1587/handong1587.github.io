@@ -66,6 +66,12 @@ date: 2015-08-27
 
 - homepage: [https://www.cs.berkeley.edu/~jordan/courses/294-fall09/](https://www.cs.berkeley.edu/~jordan/courses/294-fall09/)
 
+**Statistics, Probability and Machine Learning Short Course**
+
+- homepage: [http://www-staff.it.uts.edu.au/~ydxu/statistics.htm](http://www-staff.it.uts.edu.au/~ydxu/statistics.htm)
+- youku: [http://i.youku.com/u/UMzIzNDgxNTg5Ng](http://i.youku.com/u/UMzIzNDgxNTg5Ng)
+- youbube: [https://www.youtube.com/playlist?list=PLFze15KrfxbF0n1zTNoFIaDpxnSyfgNgc](https://www.youtube.com/playlist?list=PLFze15KrfxbF0n1zTNoFIaDpxnSyfgNgc)
+
 # Tutorials
 
 **Machine Learning for Developers**
