@@ -80,6 +80,11 @@ date: 2015-10-09
 - website: [http://petuum.github.io/](http://petuum.github.io/)
 - github: [https://github.com/petuum/bosen](https://github.com/petuum/bosen)
 
+**Poseidon: Distributed Deep Learning Framework on Petuum**
+
+- github: [https://github.com/petuum/poseidon](https://github.com/petuum/poseidon)
+- wiki: [https://github.com/petuum/poseidon/wiki](https://github.com/petuum/poseidon/wiki)
+
 **Purine: A bi-graph based deep learning framework**
 
 - github: [https://github.com/purine/purine2](https://github.com/purine/purine2)
