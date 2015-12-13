@@ -199,6 +199,14 @@ date: 2015-10-09
 
 # Deep Learning Networks
 
+**Highway Networks**
+
+- arxiv: [http://arxiv.org/abs/1505.00387](http://arxiv.org/abs/1505.00387)
+
+**Training Very Deep Networks (highway networks)**
+
+- arxiv: [http://arxiv.org/abs/1507.06228](http://arxiv.org/abs/1507.06228)
+
 **Rectified Factor Networks**
 
 - arXiv: [http://arxiv.org/abs/1502.06464](http://arxiv.org/abs/1502.06464)
