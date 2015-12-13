@@ -1,7 +1,7 @@
 ---
 layout: post
 category: travel
-title: About
+title: About Finland
 date: 2015-12-13
 ---
 
