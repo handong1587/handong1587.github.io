@@ -173,6 +173,8 @@ and Structured Prediction**
 
 **You Only Look Once: Unified, Real-Time Object Detection(YOLO)**
 
+- intro: YOLO uses the whole topmost feature map to predict both confidences for multiple categories and 
+bounding boxes (which are shared for these categories).
 - arXiv: [http://arxiv.org/abs/1506.02640](http://arxiv.org/abs/1506.02640)
 - code: [http://pjreddie.com/darknet/yolo/](http://pjreddie.com/darknet/yolo/)
 - github: [https://github.com/pjreddie/darknet](https://github.com/pjreddie/darknet)
