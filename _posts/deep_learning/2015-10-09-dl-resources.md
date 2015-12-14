@@ -112,6 +112,11 @@ date: 2015-10-09
 
 - paper: [http://arxiv.org/abs/1509.05009](http://arxiv.org/abs/1509.05009)
 
+**Convolutional neural networks with low-rank regularization**
+
+- arxiv: [http://arxiv.org/abs/1511.06067](http://arxiv.org/abs/1511.06067)
+- github: [https://github.com/chengtaipu/lowrankcnn](https://github.com/chengtaipu/lowrankcnn)
+
 # Dropout
 
 **Dropout as data augmentation**
