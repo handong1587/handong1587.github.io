@@ -28,10 +28,6 @@ github: [https://github.com/mrkulk/Unsupervised-Capsule-Network](https://github.
 - arXiv: [http://arxiv.org/abs/1502.03044](http://arxiv.org/abs/1502.03044)
 - github: [https://github.com/kelvinxu/arctic-captions](https://github.com/kelvinxu/arctic-captions)
 
-**DRAW: A Recurrent Neural Network For Image Generation**
-
-- arXiv: [http://arxiv.org/abs/1502.04623](http://arxiv.org/abs/1502.04623)
-
 **Describing Videos by Exploiting Temporal Structure**
 
 - arXiv: [http://arxiv.org/abs/1502.08029](http://arxiv.org/abs/1502.08029)

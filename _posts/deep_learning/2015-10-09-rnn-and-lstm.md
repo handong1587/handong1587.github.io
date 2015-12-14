@@ -30,21 +30,15 @@ date: 2015-10-09
 
 # Paper
 
-**Show, Attend and Tell: Neural Image Caption Generation with Visual Attention**
+**DRAW: A Recurrent Neural Network For Image Generation**
 
-- paper: [http://arxiv.org/abs/1502.03044](http://arxiv.org/abs/1502.03044)
-- code: [https://github.com/kelvinxu/arctic-captions](https://github.com/kelvinxu/arctic-captions)
+- arXiv: [http://arxiv.org/abs/1502.04623](http://arxiv.org/abs/1502.04623)
+- github: [https://github.com/vivanov879/draw](https://github.com/vivanov879/draw)
 
 **Inferring Algorithmic Patterns with Stack-Augmented Recurrent Nets**
 
 - paper: [http://arxiv.org/abs/1503.01007](http://arxiv.org/abs/1503.01007)
 - code: [https://github.com/facebook/Stack-RNN](https://github.com/facebook/Stack-RNN)
-
-**Recurrent Models of Visual Attention** (Google DeepMind. NIPS2014)
-
-- paper: [http://arxiv.org/abs/1406.6247](http://arxiv.org/abs/1406.6247)
-- data: [https://github.com/deepmind/mnist-cluttered](https://github.com/deepmind/mnist-cluttered)
-- code: [https://github.com/Element-Research/rnn/blob/master/examples/recurrent-visual-attention.lua](https://github.com/Element-Research/rnn/blob/master/examples/recurrent-visual-attention.lua)
 
 **Depth-Gated LSTM**
 
@@ -61,17 +55,6 @@ date: 2015-10-09
 
 - paper: [http://arxiv.org/abs/1506.02078](http://arxiv.org/abs/1506.02078)
 - slides: [http://www.robots.ox.ac.uk/~seminars/seminars/Extra/2015_07_06_AndrejKarpathy.pdf](http://www.robots.ox.ac.uk/~seminars/seminars/Extra/2015_07_06_AndrejKarpathy.pdf)
-
-**Project: pycaffe-recurrent**
-
-- code: [https://github.com/kuprel/pycaffe-recurrent/](https://github.com/kuprel/pycaffe-recurrent/)
-
-**Recurrent Model of Visual Attention(Google DeepMind)**
-
-- paper: [http://arxiv.org/abs/1406.6247](http://arxiv.org/abs/1406.6247)
-- GitXiv: [http://gitxiv.com/posts/ZEobCXSh23DE8a8mo/recurrent-models-of-visual-attention](http://gitxiv.com/posts/ZEobCXSh23DE8a8mo/recurrent-models-of-visual-attention)
-- blog: [http://torch.ch/blog/2015/09/21/rmva.html](http://torch.ch/blog/2015/09/21/rmva.html)
-- code: [https://github.com/Element-Research/rnn/blob/master/scripts/evaluate-rva.lua](https://github.com/Element-Research/rnn/blob/master/scripts/evaluate-rva.lua)
 
 **LSTM: A Search Space Odyssey**
 
@@ -120,13 +103,59 @@ date: 2015-10-09
 - arXiv: [http://arxiv.org/abs/1511.06279](http://arxiv.org/abs/1511.06279)
 - project page: [http://www-personal.umich.edu/~reedscot/iclr_project.html](http://www-personal.umich.edu/~reedscot/iclr_project.html)
 
+# Attention Models
+
+**Recurrent Models of Visual Attention** (Google DeepMind. NIPS2014)
+
+- paper: [http://arxiv.org/abs/1406.6247](http://arxiv.org/abs/1406.6247)
+- data: [https://github.com/deepmind/mnist-cluttered](https://github.com/deepmind/mnist-cluttered)
+- code: [https://github.com/Element-Research/rnn/blob/master/examples/recurrent-visual-attention.lua](https://github.com/Element-Research/rnn/blob/master/examples/recurrent-visual-attention.lua)
+
+**Recurrent Model of Visual Attention(Google DeepMind)**
+
+- paper: [http://arxiv.org/abs/1406.6247](http://arxiv.org/abs/1406.6247)
+- GitXiv: [http://gitxiv.com/posts/ZEobCXSh23DE8a8mo/recurrent-models-of-visual-attention](http://gitxiv.com/posts/ZEobCXSh23DE8a8mo/recurrent-models-of-visual-attention)
+- blog: [http://torch.ch/blog/2015/09/21/rmva.html](http://torch.ch/blog/2015/09/21/rmva.html)
+- code: [https://github.com/Element-Research/rnn/blob/master/scripts/evaluate-rva.lua](https://github.com/Element-Research/rnn/blob/master/scripts/evaluate-rva.lua)
+
+**Show, Attend and Tell: Neural Image Caption Generation with Visual Attention**
+
+- paper: [http://arxiv.org/abs/1502.03044](http://arxiv.org/abs/1502.03044)
+- code: [https://github.com/kelvinxu/arctic-captions](https://github.com/kelvinxu/arctic-captions)
+
+**A Neural Attention Model for Abstractive Sentence Summarization(EMNLP 2015. Facebook AI Research)**
+
+- arXiv: [http://arxiv.org/abs/1509.00685](http://arxiv.org/abs/1509.00685)
+- github: [https://github.com/facebook/NAMAS](https://github.com/facebook/NAMAS)
+
+**Effective Approaches to Attention-based Neural Machine Translation(EMNLP2015)**
+
+- paper: [http://nlp.stanford.edu/pubs/emnlp15_attn.pdf](http://nlp.stanford.edu/pubs/emnlp15_attn.pdf)
+- project: [http://nlp.stanford.edu/projects/nmt/](http://nlp.stanford.edu/projects/nmt/)
+
+**Generating Images from Captions with Attention**
+
+- arxiv: [http://arxiv.org/abs/1511.02793](http://arxiv.org/abs/1511.02793)
+
 # Code
 
 **char-rnn in Blocks**
 
 - github: [https://github.com/johnarevalo/blocks-char-rnn](https://github.com/johnarevalo/blocks-char-rnn)
 
+**Project: pycaffe-recurrent**
+
+- code: [https://github.com/kuprel/pycaffe-recurrent/](https://github.com/kuprel/pycaffe-recurrent/)
+
 # Blog
+
+**Survey on Attention-based Models Applied in NLP**
+
+[http://yanran.li/peppypapers/2015/10/07/survey-attention-model-1.html](http://yanran.li/peppypapers/2015/10/07/survey-attention-model-1.html)
+
+**Survey on Advanced Attention-based Models**
+
+[http://yanran.li/peppypapers/2015/10/07/survey-attention-model-2.html](http://yanran.li/peppypapers/2015/10/07/survey-attention-model-2.html)
 
 # Resources
 

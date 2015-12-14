@@ -17,6 +17,11 @@ date: 2015-10-09
 - github: [https://github.com/goodfeli/adversarial](https://github.com/goodfeli/adversarial)
 - github: [https://github.com/aleju/cat-generator](https://github.com/aleju/cat-generator)
 
+**DRAW: A Recurrent Neural Network For Image Generation**
+
+- arXiv: [http://arxiv.org/abs/1502.04623](http://arxiv.org/abs/1502.04623)
+- github: [https://github.com/vivanov879/draw](https://github.com/vivanov879/draw)
+
 **Generative Image Modeling Using Spatial LSTMs**
 
 - arXiv: [http://arxiv.org/abs/1506.03478](http://arxiv.org/abs/1506.03478)
