@@ -72,6 +72,14 @@ date: 2015-08-27
 - youku: [http://i.youku.com/u/UMzIzNDgxNTg5Ng](http://i.youku.com/u/UMzIzNDgxNTg5Ng)
 - youbube: [https://www.youtube.com/playlist?list=PLFze15KrfxbF0n1zTNoFIaDpxnSyfgNgc](https://www.youtube.com/playlist?list=PLFze15KrfxbF0n1zTNoFIaDpxnSyfgNgc)
 
+**Statistical Learning**
+
+[https://lagunita.stanford.edu/courses/HumanitiesScience/StatLearning/Winter2014/about](https://lagunita.stanford.edu/courses/HumanitiesScience/StatLearning/Winter2014/about)
+
+**Machine learning courses online**
+
+[http://fastml.com/machine-learning-courses-online/](http://fastml.com/machine-learning-courses-online/)
+
 # Tutorials
 
 **Machine Learning for Developers**
