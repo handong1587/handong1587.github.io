@@ -15,6 +15,8 @@ date: 2015-10-09
 |:--------:|:-------------:|
 |OverFeat  |24.3%          |
 
+- intro: A deep version of the sliding window method, predicts bounding box directly from each location of the 
+topmost feature map after knowing the confidences of the underlying object categories.
 - arXiv: [http://arxiv.org/abs/1312.6229](http://arxiv.org/abs/1312.6229)
 - code: [https://github.com/sermanet/OverFeat](https://github.com/sermanet/OverFeat)
 - code: [http://cilvr.nyu.edu/doku.php?id=software:overfeat:start](http://cilvr.nyu.edu/doku.php?id=software:overfeat:start)
