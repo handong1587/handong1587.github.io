@@ -10,6 +10,11 @@ date: 2015-09-12
 
 # Courses
 
+**Stanford CS231n: Convolutional Neural Networks for Visual Recognition**
+
+- homepage: [http://cs231n.stanford.edu/](http://cs231n.stanford.edu/)
+- github.io: [http://cs231n.github.io/](http://cs231n.github.io/)
+
 **Mobile Computer Vision**
 
 <img src="/assets/computer-vision/courses/Mobile_Computer_Vision_course-splash.png" width="800" />
