@@ -9,7 +9,8 @@ date: 2015-09-26
 
 **CS223A : Introduction to Robotics, Winter 2015**
 
-[http://cs.stanford.edu/groups/manips/teaching/cs223a/](http://cs.stanford.edu/groups/manips/teaching/cs223a/)
+- homepage: [http://cs.stanford.edu/groups/manips/teaching/cs223a/](http://cs.stanford.edu/groups/manips/teaching/cs223a/)
+- opencourse: [http://open.163.com/special/opencourse/robotics.html](http://open.163.com/special/opencourse/robotics.html)
 
 # Papers
 
