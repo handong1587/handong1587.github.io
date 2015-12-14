@@ -80,6 +80,10 @@ date: 2015-08-27
 
 [http://fastml.com/machine-learning-courses-online/](http://fastml.com/machine-learning-courses-online/)
 
+**Build Intelligent Applications: Master machine learning fundamentals in five hands-on courses (Coursera)**
+
+[https://www.coursera.org/specializations/machine-learning](https://www.coursera.org/specializations/machine-learning)
+
 # Tutorials
 
 **Machine Learning for Developers**
@@ -148,6 +152,10 @@ date: 2015-08-27
 **Graphical Models Lectures 2015**
 
 - homepage: [http://www.stats.ox.ac.uk/~lienart/gml.html](http://www.stats.ox.ac.uk/~lienart/gml.html)
+
+**2 Graphical Models in a Nutshell**
+
+[http://ai.stanford.edu/~koller/Papers/Koller+al:SRL07.pdf](http://ai.stanford.edu/~koller/Papers/Koller+al:SRL07.pdf)
 
 # Boosting
 
@@ -356,6 +364,10 @@ date: 2015-08-27
 
 - book: [http://intelligent-optimization.org/LIONbook/](http://intelligent-optimization.org/LIONbook/)
 - slides: [http://intelligent-optimization.org/LIONbook/LIONway-slides-chapter3.pdf](http://intelligent-optimization.org/LIONbook/LIONway-slides-chapter3.pdf)
+
+**Level-Up Your Machine Learning**
+
+[https://www.metacademy.org/roadmaps/cjrd/level-up-your-ml](https://www.metacademy.org/roadmaps/cjrd/level-up-your-ml)
 
 # Machine Learning Library
 

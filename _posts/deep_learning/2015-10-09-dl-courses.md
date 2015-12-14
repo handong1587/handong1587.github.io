@@ -41,6 +41,8 @@ date: 2015-07-01
 
 # Natural Language Processing
 
+![](/assets/dl-courses/cs224d_treeFrontSentiment.png)
+
 **Stanford CS224d: Deep Learning for Natural Language Processing**
 
 [http://cs224d.stanford.edu/](http://cs224d.stanford.edu/)
