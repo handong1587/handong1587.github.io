@@ -103,6 +103,10 @@ date: 2015-10-09
 - arXiv: [http://arxiv.org/abs/1511.06279](http://arxiv.org/abs/1511.06279)
 - project page: [http://www-personal.umich.edu/~reedscot/iclr_project.html](http://www-personal.umich.edu/~reedscot/iclr_project.html)
 
+**A Programmer-Interpreter Neural Network Architecture for Prefrontal Cognitive Control**
+
+- paper: [https://www.researchgate.net/publication/273912337_A_ProgrammerInterpreter_Neural_Network_Architecture_for_Prefrontal_Cognitive_Control](https://www.researchgate.net/publication/273912337_A_ProgrammerInterpreter_Neural_Network_Architecture_for_Prefrontal_Cognitive_Control)
+
 # Attention Models
 
 **Recurrent Models of Visual Attention** (Google DeepMind. NIPS2014)
