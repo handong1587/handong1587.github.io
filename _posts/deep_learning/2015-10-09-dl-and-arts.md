@@ -19,7 +19,14 @@ date: 2015-10-09
 - github: [https://github.com/mbartoli/neural-animation](https://github.com/mbartoli/neural-animation)
 - github: [https://github.com/memisevic/artify](https://github.com/memisevic/artify)
 - github: [https://github.com/mattya/chainer-gogh](https://github.com/mattya/chainer-gogh)
+
+- - -
+
+**Neural style in TensorFlow!**  <br />
 - github: [https://github.com/anishathalye/neural-style](https://github.com/anishathalye/neural-style)
+
+- - -
+
 - github: [https://github.com/woodrush/neural-art-tf](https://github.com/woodrush/neural-art-tf)
 - github: [https://github.com/dmlc/mxnet/tree/master/example/neural-style](https://github.com/dmlc/mxnet/tree/master/example/neural-style)
 - demo: [http://deepart.io/](http://deepart.io/)
