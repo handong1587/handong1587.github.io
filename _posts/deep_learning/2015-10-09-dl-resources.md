@@ -10,7 +10,9 @@ date: 2015-10-09
 
 # Tutorials
 
-<img src="/assets/cnn-materials/LeNet5.png" />
+![](/assets/cnn-materials/LeNet5.png)
+
+![](/assets/cnn-materials/conv.jpg)
 
 **VGG Convolutional Neural Networks Practical**
 
