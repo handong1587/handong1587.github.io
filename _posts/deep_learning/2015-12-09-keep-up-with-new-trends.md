@@ -29,3 +29,23 @@ date: 2015-12-09
 **My takeaways from NIPS 2015**
 
 - blog: [http://www.danvk.org/2015/12/12/nips-2015.html](http://www.danvk.org/2015/12/12/nips-2015.html)
+
+**OpenAI — quick thoughts**
+
+[http://wp.goertzel.org/openai-quick-thoughts/](http://wp.goertzel.org/openai-quick-thoughts/)
+
+**NIPS 2015 – Deep RL Workshop**
+
+[https://gridworld.wordpress.com/2015/12/13/nips-2015-deep-rl-workshop/](https://gridworld.wordpress.com/2015/12/13/nips-2015-deep-rl-workshop/)
+
+**7 Steps for becoming Deep Learning Expert**
+
+[https://www.linkedin.com/pulse/7-steps-becoming-deep-learning-expert-ankit-agarwal](https://www.linkedin.com/pulse/7-steps-becoming-deep-learning-expert-ankit-agarwal)
+
+**OpenAI: Some thoughts, mostly questions**
+
+[https://medium.com/@kleinsound/openai-some-thoughts-mostly-questions-30fb63d53ef0#.32u1yt6oy](https://medium.com/@kleinsound/openai-some-thoughts-mostly-questions-30fb63d53ef0#.32u1yt6oy)
+
+**10 Deep Learning Trends at NIPS 2015**
+
+[http://codinginparadise.org/ebooks/html/blog/ten_deep_learning_trends_at_nips_2015.html](http://codinginparadise.org/ebooks/html/blog/ten_deep_learning_trends_at_nips_2015.html)
