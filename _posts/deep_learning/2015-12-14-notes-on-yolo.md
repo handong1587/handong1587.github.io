@@ -21,4 +21,4 @@ predict data:
 
 (1) The multi-part loss function differ from the code implementation:
 
-$$ \lambda_{coord} \sum_{i=0}^{S^2} \sum_{j=0}^{S} \bari_{ij}^{obj} (x_i - \hat{x}_i)^2 + (y_i - \hat{y}_i)^2$$
+$$ \lambda_{coord} \sum_{i=0}^{S^2} \sum_{j=0}^{S} \mathds{1}_{ij}^{obj} (x_i - \hat{x}_i)^2 + (y_i - \hat{y}_i)^2$$
