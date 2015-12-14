@@ -43,6 +43,10 @@ date: 2015-10-09
 
 - paper: [http://research.microsoft.com/pubs/192937/Transactions-APSIPA.pdf](http://research.microsoft.com/pubs/192937/Transactions-APSIPA.pdf)
 
+**UFLDL Tutorial**
+
+[http://ufldl.stanford.edu/tutorial/](http://ufldl.stanford.edu/tutorial/)
+
 # ImageNet
 
 **Going Deeper with Convolutions**
