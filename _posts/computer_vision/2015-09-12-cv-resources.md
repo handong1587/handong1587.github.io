@@ -103,6 +103,13 @@ date: 2015-09-12
 
 [http://www.sitepoint.com/face-detection-nodejs-opencv/](http://www.sitepoint.com/face-detection-nodejs-opencv/)
 
+**FaceDirector: Continuous Control of Facial Performance in Video**
+
+![](/assets/computer-vision/FaceDirector-Continuous-Control-of-Facial-Performance-in-Video-Image.png)
+
+- homepage: [http://www.disneyresearch.com/publication/facedirector/](http://www.disneyresearch.com/publication/facedirector/)
+- paper: [http://disneyresearch.s3-us-west-1.amazonaws.com/wp-content/uploads/20151210174750/FaceDirector-Continuous-Control-of-Facial-Performance-in-Video-Paper.pdf](http://disneyresearch.s3-us-west-1.amazonaws.com/wp-content/uploads/20151210174750/FaceDirector-Continuous-Control-of-Facial-Performance-in-Video-Paper.pdf)
+
 # Resources
 
 **Awesome-deep-vision: A curated list of deep learning resources for computer vision**
