@@ -5,6 +5,14 @@ title: Robots
 date: 2015-09-26
 ---
 
+# Courses
+
+**CS223A : Introduction to Robotics, Winter 2015**
+
+[http://cs.stanford.edu/groups/manips/teaching/cs223a/](http://cs.stanford.edu/groups/manips/teaching/cs223a/)
+
+# Papers
+
 **Robots that can adapt like animals**
 
 - paper: [http://arxiv.org/abs/1407.3501](http://arxiv.org/abs/1407.3501)
