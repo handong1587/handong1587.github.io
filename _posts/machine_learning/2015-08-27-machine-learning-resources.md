@@ -125,6 +125,10 @@ date: 2015-08-27
 
 [https://github.com/ReactiveCJ/BayesianLearning](https://github.com/ReactiveCJ/BayesianLearning)
 
+**Bayesian Methods of Parameter Estimation**
+
+- paper: [http://homepages.inf.ed.ac.uk/rbf/CVonline/LOCAL_COPIES/AV0809/eshky.pdf](http://homepages.inf.ed.ac.uk/rbf/CVonline/LOCAL_COPIES/AV0809/eshky.pdf)
+
 # Graphical Models
 
 "A Brief Introduction to Graphical Models and Bayesian Networks"
