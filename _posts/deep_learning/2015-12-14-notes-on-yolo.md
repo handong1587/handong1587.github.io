@@ -19,3 +19,6 @@ predict data:
   
 # Some questions..
 
+(1) The multi-part loss function differ from the code implementation:
+
+$$ \textlambda_coord \sum_{i=0}^{S^2} \sum_{j=0}^{S} \textbari_{ij}^{obj} (x_i - x_i)^2 + (y_i - y_i)^2$$
