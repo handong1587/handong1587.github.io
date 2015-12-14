@@ -1,9 +1,14 @@
 ---
 layout: post
 category: working_on_windows
-title: Windows Commands
+title: Windows Commands and Utilities
 date: 2015-10-27
 ---
+
+* TOC
+{:toc}
+
+# Commands
 
 **Create symbolic link in Windows 7**
 
@@ -27,3 +32,9 @@ symbolic link.
 Link    specifies the new symbolic link name.
 Target  specifies the path (relative or absolute) that the new link refers to.
 {% endhighlight %}
+
+# Utilities
+
+**A Utility to Unassociate File Types in Windows 7 and Vista**
+
+[http://www.winhelponline.com/blog/unassociate-file-types-windows-7-vista/](http://www.winhelponline.com/blog/unassociate-file-types-windows-7-vista/)
