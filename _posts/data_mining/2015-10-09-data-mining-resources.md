@@ -2,7 +2,7 @@
 layout: post
 category: data_mining
 title: Data Mining Resources
-date: 2015-12-14
+date: 2015-10-09
 ---
 
 # Courses
