@@ -1,9 +1,11 @@
 ---
 layout: post
-category: programming_study
-title: Courses
+category: algorithm_and_data_structure
+title: Algorithm and Data Structure Resources
 date: 2015-07-01
 ---
+
+# Courses
 
 **Courses with Video Lectures**
 

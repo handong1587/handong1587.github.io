@@ -1,9 +1,17 @@
 ---
 layout: post
 category: big_data
-title: Big Data
+title: Big Data Resources
 date: 2015-09-22
 ---
+
+# Courses
+
+**MIT 6.S897: Large-Scale Systems(Matei Zaharia)**
+
+[http://people.csail.mit.edu/matei/courses/2015/6.S897/](http://people.csail.mit.edu/matei/courses/2015/6.S897/)
+
+# Papers
 
 **Learning to Hash for Indexing Big Data - A Survey**
 
