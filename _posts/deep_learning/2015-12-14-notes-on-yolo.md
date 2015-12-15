@@ -26,7 +26,7 @@ $$
 $$
 
 $$
-+ \lambda_{coord} \sum_{i=0}^{S^2} \sum_{j=0}^{S} \mathcal{1}_{ij}^{obj} (\sqrt{w_i} - \sqrt{\hat{w}_i})^2 + (\sqrt{w_i} - \sqrt{\hat{w}_i})^2
++ \lambda_{coord} \sum_{i=0}^{S^2} \sum_{j=0}^{S} \mathcal{1}_{ij}^{obj} (\sqrt{w_i} - \sqrt{\hat{w}_i})^2 + (\sqrt{h_i} - \sqrt{\hat{h}_i})^2
 $$
 
 while in forward_detection_layer(), detection_layer.c, different loss calculation:
