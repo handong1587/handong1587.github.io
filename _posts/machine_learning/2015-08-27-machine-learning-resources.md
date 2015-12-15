@@ -358,6 +358,10 @@ date: 2015-08-27
 
 [http://blog.shakirm.com/](http://blog.shakirm.com/)
 
+**Machine Learning Tutorials**
+
+[https://github.com/ujjwalkarn/Machine-Learning-Tutorials/blob/master/README.md](https://github.com/ujjwalkarn/Machine-Learning-Tutorials/blob/master/README.md)
+
 # Books
 
 **Machine Learning plus Intelligent Optimization: THE LION WAY, VERSION 2.0**
@@ -368,6 +372,10 @@ date: 2015-08-27
 **Level-Up Your Machine Learning**
 
 [https://www.metacademy.org/roadmaps/cjrd/level-up-your-ml](https://www.metacademy.org/roadmaps/cjrd/level-up-your-ml)
+
+**An Introduction to the Science of Statistics: From Theory to Implementation (Preliminary Edition)**
+
+- book: [http://math.arizona.edu/~jwatkins/statbook.pdf](http://math.arizona.edu/~jwatkins/statbook.pdf)
 
 # Machine Learning Library
 
