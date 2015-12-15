@@ -38,5 +38,5 @@ $$
 $$
 
 $$
-+ \sum_{i=0}^{S^2} \sum_{j=0}^{S} \mathcal{1}_{i}^{obj} (p_i(c) - \hat{p}_i(c))^2 
++ \sum_{i=0}^{S^2} \mathcal{1}_{i}^{obj} \sum_{c \in classes} (p_i(c) - \hat{p}_i(c))^2 
 $$
