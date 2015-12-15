@@ -171,6 +171,10 @@ date: 2015-10-09
 
 [https://no2147483647.wordpress.com/2015/12/07/deep-learning-for-hackers-with-mxnet-1/](https://no2147483647.wordpress.com/2015/12/07/deep-learning-for-hackers-with-mxnet-1/)
 
+**mxnet_Efficient, Flexible Deep Learning Framework**
+
+- slides: [http://vdisk.weibo.com/s/z5dg0jVVHv2pn/1450157571](http://vdisk.weibo.com/s/z5dg0jVVHv2pn/1450157571)
+
 ## Theano
 
 **Configuring Theano For High Performance Deep Learning**
