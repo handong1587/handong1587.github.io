@@ -5,7 +5,7 @@ title: Notes On YOLO
 date: 2015-12-14
 ---
 
-# How YOLO organise training data?
+# How does YOLO organise training data?
 
 **ground-truth:**
 

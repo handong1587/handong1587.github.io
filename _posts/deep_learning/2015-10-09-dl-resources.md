@@ -356,6 +356,10 @@ date: 2015-10-09
 
 [http://www.bicv.org/deep-learning/](http://www.bicv.org/deep-learning/)
 
+**Learning Deep Learning**
+
+[http://rt.dgyblog.com/ref/ref-learning-deep-learning.html](http://rt.dgyblog.com/ref/ref-learning-deep-learning.html)
+
 # Deep Learning Books
 
 **Deep Learning (By Ian Goodfellow, Aaron Courville and Yoshua Bengio)**
