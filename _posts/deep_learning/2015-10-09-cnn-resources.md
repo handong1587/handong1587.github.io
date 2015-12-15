@@ -43,7 +43,7 @@ date: 2015-10-09
 
 **Holistically-Nested Edge Detection**
 
-![](/assets/dl-materials/hed.jpg)
+![](/assets/cnn-materials/hed.jpg)
 
 - paper: [http://www.cv-foundation.org/openaccess/content_iccv_2015/papers/Xie_Holistically-Nested_Edge_Detection_ICCV_2015_paper.pdf](http://www.cv-foundation.org/openaccess/content_iccv_2015/papers/Xie_Holistically-Nested_Edge_Detection_ICCV_2015_paper.pdf)
 - arxiv: [http://arxiv.org/abs/1504.06375](http://arxiv.org/abs/1504.06375)
@@ -111,6 +111,10 @@ Bicubic VS. Shepard CNN
 **Predicting psychological attributions from face photographs with a deep neural network**
 
 - arxiv: [http://arxiv.org/abs/1512.01289](http://arxiv.org/abs/1512.01289)
+
+**Learning Human Identity from Motion Patterns**
+
+- arxiv: [http://arxiv.org/abs/1511.03908](http://arxiv.org/abs/1511.03908)
 
 # Code
 
