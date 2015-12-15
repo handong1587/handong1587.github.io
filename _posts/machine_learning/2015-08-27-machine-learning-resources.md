@@ -315,7 +315,7 @@ date: 2015-08-27
 - paper: [http://www.cs.princeton.edu/~usyed/CortesMohriSyedICML2014.pdf](http://www.cs.princeton.edu/~usyed/CortesMohriSyedICML2014.pdf)
 - github: [https://github.com/google/deepboost](https://github.com/google/deepboost)
 
-**Deep Neural Decision Forests(ICCV 2015. Microsoft Research)**
+**Deep Neural Decision Forests(ICCV 2015. Microsoft Research. ICCV'15 Marr Prize)**
 
 - paper: [http://research.microsoft.com/pubs/255952/ICCV15_DeepNDF_main.pdf](http://research.microsoft.com/pubs/255952/ICCV15_DeepNDF_main.pdf)
 - supplement: [http://research.microsoft.com/pubs/255952/ICCV15_DeepNDF_suppl.pdf](http://research.microsoft.com/pubs/255952/ICCV15_DeepNDF_suppl.pdf)
