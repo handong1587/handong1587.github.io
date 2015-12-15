@@ -39,6 +39,16 @@ date: 2015-10-09
 - arXiv: [http://arxiv.org/abs/1511.07917](http://arxiv.org/abs/1511.07917)
 - github: [https://github.com/aosokin/cnn_head_detection](https://github.com/aosokin/cnn_head_detection)
 
+## Edge Detection
+
+**Holistically-Nested Edge Detection**
+
+![](/assets/dl-materials/hed.jpg)
+
+- paper: [http://www.cv-foundation.org/openaccess/content_iccv_2015/papers/Xie_Holistically-Nested_Edge_Detection_ICCV_2015_paper.pdf](http://www.cv-foundation.org/openaccess/content_iccv_2015/papers/Xie_Holistically-Nested_Edge_Detection_ICCV_2015_paper.pdf)
+- arxiv: [http://arxiv.org/abs/1504.06375](http://arxiv.org/abs/1504.06375)
+- github: [https://github.com/s9xie/hed](https://github.com/s9xie/hed)
+
 # Image Super-Resolution
 
 **Image Super-Resolution Using Deep Convolutional Networks(Microsoft Research)**
