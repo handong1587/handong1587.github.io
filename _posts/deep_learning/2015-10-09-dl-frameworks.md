@@ -14,6 +14,10 @@ date: 2015-10-09
 
 - github: [https://github.com/mila-udem/blocks](https://github.com/mila-udem/blocks)
 
+**Blocks and Fuel: Frameworks for deep learning**
+
+- arXiv: [http://arxiv.org/abs/1506.00619](http://arxiv.org/abs/1506.00619)
+
 # Brainstorm
 
 **Brainstorm: Fast, flexible and fun neural networks**
@@ -26,7 +30,6 @@ date: 2015-10-09
 
 - github: [https://github.com/BVLC/caffe](https://github.com/BVLC/caffe)
 - paper: [http://arxiv.org/abs/1408.5093](http://arxiv.org/abs/1408.5093)
-
 - tutorial: [http://tutorial.caffe.berkeleyvision.org/](http://tutorial.caffe.berkeleyvision.org/)
 - slides: [http://vision.stanford.edu/teaching/cs231n/slides/caffe_tutorial.pdf](http://vision.stanford.edu/teaching/cs231n/slides/caffe_tutorial.pdf)
 - slides: [http://vision.princeton.edu/courses/COS598/2015sp/slides/Caffe/caffe_tutorial.pdf](http://vision.princeton.edu/courses/COS598/2015sp/slides/Caffe/caffe_tutorial.pdf)
@@ -198,10 +201,6 @@ date: 2015-10-09
 [https://github.com/soumith/convnet-benchmarks](https://github.com/soumith/convnet-benchmarks)
 
 # Paper
-
-**Blocks and Fuel: Frameworks for deep learning**
-
-- arXiv: [http://arxiv.org/abs/1506.00619](http://arxiv.org/abs/1506.00619)
 
 **Comparative Study of Caffe, Neon, Theano, and Torch for Deep Learning**
 
