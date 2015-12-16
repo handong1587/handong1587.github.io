@@ -70,6 +70,12 @@ which encodes useful class information rather than individual units (feature act
 - arXiv: [http://arxiv.org/abs/1511.05432](http://arxiv.org/abs/1511.05432)
 - github: [https://github.com/yutaroyamada/RobustTraining](https://github.com/yutaroyamada/RobustTraining)
 
+**Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks (DCGAN)**
+
+- arxiv: [http://arxiv.org/abs/1511.06434](http://arxiv.org/abs/1511.06434)
+- github: [https://github.com/Newmu/dcgan_code](https://github.com/Newmu/dcgan_code)
+- github: [https://github.com/mattya/chainer-DCGAN](https://github.com/mattya/chainer-DCGAN)
+
 # Blog
 
 **(Deep Learning’s Deep Flaws)’s Deep Flaws (By Zachary Chase Lipton)**
