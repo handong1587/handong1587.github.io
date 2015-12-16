@@ -28,3 +28,9 @@ date: 2015-09-27
 **Mapping Militants Organizations**
 
 [http://web.stanford.edu/group/mappingmilitants/cgi-bin/](http://web.stanford.edu/group/mappingmilitants/cgi-bin/)
+
+# APPs
+
+**Pikazo: Remix your photos into incredible artwork**
+
+[http://www.pikazoapp.com/](http://www.pikazoapp.com/)
