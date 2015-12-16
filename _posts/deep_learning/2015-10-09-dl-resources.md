@@ -166,6 +166,10 @@ date: 2015-10-09
 
 [http://sebastianraschka.com/faq/docs/closed-form-vs-gd.html](http://sebastianraschka.com/faq/docs/closed-form-vs-gd.html)
 
+**An Introduction to Gradient Descent in Python**
+
+- blog: [http://tillbergmann.com/blog/articles/python-gradient-descent.html](http://tillbergmann.com/blog/articles/python-gradient-descent.html)
+
 # Multi-label Learning
 
 **CNN: Single-label to Multi-label**
