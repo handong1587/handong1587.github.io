@@ -82,8 +82,6 @@ date: 2015-09-12
 
 # Bag Of Words
 
-<img src="/assets/ml-materials/bag_of_words.jpg" width="800" />
-
 # Activity Recognition
 
 **Latent Hierarchical Model for Activity Recognition**
