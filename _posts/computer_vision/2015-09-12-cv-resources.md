@@ -98,6 +98,13 @@ date: 2015-09-12
 - github: [https://github.com/openalpr/openalpr](https://github.com/openalpr/openalpr)
 - tech reciew: [http://arstechnica.com/business/2015/12/new-open-source-license-plate-reader-software-lets-you-make-your-own-hot-list/](http://arstechnica.com/business/2015/12/new-open-source-license-plate-reader-software-lets-you-make-your-own-hot-list/)
 
+# Video Tapestries
+
+**Video Tapestries with Continuous Temporal Zoom**
+
+- paper: [http://www.connellybarnes.com/work/publications/2010_tapestry_electronic.pdf](http://www.connellybarnes.com/work/publications/2010_tapestry_electronic.pdf)
+- homepage: [http://gfx.cs.princeton.edu/gfx/pubs/Barnes_2010_VTW/index.php](http://gfx.cs.princeton.edu/gfx/pubs/Barnes_2010_VTW/index.php)
+
 # Applications
 
 **Target acquired: Finding targets in drone and quadcopter video streams using Python and OpenCV**
