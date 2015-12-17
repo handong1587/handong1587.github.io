@@ -20,3 +20,7 @@ date: 2015-10-13
 **Hackerrank - A great collection of questions to solidify your programming skills**
 
 [https://www.hackerrank.com/domains](https://www.hackerrank.com/domains)
+
+**JavaScript on Board: With Maps, Dynamic Arrays and Objects out of the box. Just plug in and start creating in seconds**
+
+[http://www.espruino.com/](http://www.espruino.com/)
