@@ -183,6 +183,10 @@ date: 2015-08-27
 
 - paper: [https://www.cs.princeton.edu/~blei/papers/Blei2011.pdf](https://www.cs.princeton.edu/~blei/papers/Blei2011.pdf)
 
+**Topic Modeling Bibliography**
+
+- blog: [http://qpleple.com/bib/](http://qpleple.com/bib/)
+
 # Decision Tree
 
 **Canonical Correlation Forests**
