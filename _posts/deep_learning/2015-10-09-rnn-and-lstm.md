@@ -7,6 +7,10 @@ date: 2015-10-09
 
 # Tutorials
 
+**A Beginner’s Guide to Recurrent Networks and LSTMs**
+
+[http://deeplearning4j.org/lstm.html](http://deeplearning4j.org/lstm.html)
+
 **A Deep Dive into Recurrent Neural Nets**
 
 [http://nikhilbuduma.com/2015/01/11/a-deep-dive-into-recurrent-neural-networks/](http://nikhilbuduma.com/2015/01/11/a-deep-dive-into-recurrent-neural-networks/)
