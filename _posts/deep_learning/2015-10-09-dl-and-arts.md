@@ -92,6 +92,7 @@ date: 2015-10-09
 
 - paper: [http://www.cs.dartmouth.edu/~sarroff/papers/sarroff2014a.pdf](http://www.cs.dartmouth.edu/~sarroff/papers/sarroff2014a.pdf)
 - github: [https://github.com/woodshop/deepAutoController/tree/icmc_smc_2014](https://github.com/woodshop/deepAutoController/tree/icmc_smc_2014)
+- video: [https://vimeo.com/121827215](https://vimeo.com/121827215)
 
 **sound-rnn: Generating sound using recurrent neural networks**
 
