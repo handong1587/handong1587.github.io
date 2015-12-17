@@ -124,6 +124,10 @@ date: 2015-10-09
 - paper: [http://arxiv.org/abs/1506.08700](http://arxiv.org/abs/1506.08700)
 - notes: [https://www.evernote.com/shard/s189/sh/ef0c3302-21a4-40d7-b8b4-1c65b8ebb1c9/24ff553fcfb70a27d61ff003df75b5a9](https://www.evernote.com/shard/s189/sh/ef0c3302-21a4-40d7-b8b4-1c65b8ebb1c9/24ff553fcfb70a27d61ff003df75b5a9)
 
+**A Theoretically Grounded Application of Dropout in Recurrent Neural Networks**
+
+- arxiv: [http://arxiv.org/abs/1512.05287](http://arxiv.org/abs/1512.05287)
+
 # Deep Learning And Bayesian
 
 **Bayesian Dark Knowledge**
