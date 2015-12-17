@@ -102,6 +102,8 @@ date: 2015-09-12
 
 **Video Tapestries with Continuous Temporal Zoom**
 
+![](/assets/computer-vision/Video_Tapestries_teaser.png)
+
 - paper: [http://www.connellybarnes.com/work/publications/2010_tapestry_electronic.pdf](http://www.connellybarnes.com/work/publications/2010_tapestry_electronic.pdf)
 - homepage: [http://gfx.cs.princeton.edu/gfx/pubs/Barnes_2010_VTW/index.php](http://gfx.cs.princeton.edu/gfx/pubs/Barnes_2010_VTW/index.php)
 
