@@ -47,6 +47,8 @@ git push -u origin master
 
 ![](/assets/linux_study/create_multi_fork_5.jpg)
 
+Done.
+
 # Reference
 
 (In step-4 the author use a SSH method to "git remote add" while I can only use HTTPS method to finally succeed)
