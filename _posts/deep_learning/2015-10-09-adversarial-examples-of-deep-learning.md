@@ -35,6 +35,7 @@ which encodes useful class information rather than individual units (feature act
 - code: [http://soumith.ch/eyescream/](http://soumith.ch/eyescream/)
 - project page: [http://soumith.ch/eyescream/](http://soumith.ch/eyescream/)
 - homepage: [http://www.cs.nyu.edu/~denton/](http://www.cs.nyu.edu/~denton/)
+- notes: [http://colinraffel.com/wiki/deep_generative_image_models_using_a_laplacian_pyramid_of_adversarial_networks](http://colinraffel.com/wiki/deep_generative_image_models_using_a_laplacian_pyramid_of_adversarial_networks)
 
 **Conditional generative adversarial nets for convolutional face generation**
 

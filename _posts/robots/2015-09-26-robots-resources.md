@@ -27,3 +27,11 @@ date: 2015-09-26
 **RoboBrain: Large-Scale Knowledge Engine for Robots(Stanford)**
 
 - paper: [http://arxiv.org/abs/1412.0691](http://arxiv.org/abs/1412.0691)
+
+# Hardware
+
+**Deep Learning Robot**
+
+![](/assets/robots/deepbot-research-robot-18.jpg)
+
+[https://www.autonomous.ai/deep-learning-robot](https://www.autonomous.ai/deep-learning-robot)
