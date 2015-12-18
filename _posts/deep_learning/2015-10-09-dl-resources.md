@@ -14,6 +14,8 @@ date: 2015-10-09
 
 ![](/assets/cnn-materials/conv.jpg)
 
+[http://cs231n.github.io/assets/conv-demo/index.html](http://cs231n.github.io/assets/conv-demo/index.html)
+
 **VGG Convolutional Neural Networks Practical**
 
 [http://www.robots.ox.ac.uk/~vgg/practicals/cnn/index.html](http://www.robots.ox.ac.uk/~vgg/practicals/cnn/index.html)
