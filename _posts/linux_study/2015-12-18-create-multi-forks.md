@@ -1,7 +1,7 @@
 ---
 layout: post
 category: linux_study
-title: Create Multiple Forks of a GitHub repo
+title: Create Multiple Forks of a GitHub Repo
 date: 2015-12-18
 ---
 
