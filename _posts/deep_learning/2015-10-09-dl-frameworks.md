@@ -162,6 +162,7 @@ date: 2015-10-09
 - tutorial: [https://github.com/nlintz/TensorFlow-Tutorials](https://github.com/nlintz/TensorFlow-Tutorials)
 - stackoverflow: [https://stackoverflow.com/questions/tagged/tensorflow](https://stackoverflow.com/questions/tagged/tensorflow)
 - benchmark: [https://github.com/soumith/convnet-benchmarks/issues/66](https://github.com/soumith/convnet-benchmarks/issues/66)
+- tutorial-zh: [https://github.com/jikexueyuanwiki/tensorflow-zh](https://github.com/jikexueyuanwiki/tensorflow-zh)
 
 **TensorDebugger(TDB): Interactive, node-by-node debugging and visualization for TensorFlow**
 
