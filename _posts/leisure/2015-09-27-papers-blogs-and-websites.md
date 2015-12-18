@@ -29,6 +29,12 @@ date: 2015-09-27
 
 [http://web.stanford.edu/group/mappingmilitants/cgi-bin/](http://web.stanford.edu/group/mappingmilitants/cgi-bin/)
 
+**Stefan Bleekrode: Cityscapes**
+
+![](/assets/leisure/blogs-and-websites/Stefan_Bleekrode_Cityscapes.jpg)
+
+[http://stefanbleekrode.exto.org/kunstwerken/111013_Cityscapes.html#.VnQiEVUrLIW](http://stefanbleekrode.exto.org/kunstwerken/111013_Cityscapes.html#.VnQiEVUrLIW)
+
 # APPs
 
 **Pikazo: Remix your photos into incredible artwork**
