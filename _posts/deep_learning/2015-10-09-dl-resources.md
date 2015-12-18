@@ -31,6 +31,10 @@ date: 2015-10-09
 
 [http://devblogs.nvidia.com/parallelforall/deep-learning-nutshell-core-concepts/](http://devblogs.nvidia.com/parallelforall/deep-learning-nutshell-core-concepts/)
 
+**Deep Learning in a Nutshell: History and Training**
+
+[http://devblogs.nvidia.com/parallelforall/deep-learning-nutshell-history-training/](http://devblogs.nvidia.com/parallelforall/deep-learning-nutshell-history-training/)
+
 **A Deep Learning Tutorial: From Perceptrons to Deep Networks**
 
 [http://www.toptal.com/machine-learning/an-introduction-to-deep-learning-from-perceptrons-to-deep-networks](http://www.toptal.com/machine-learning/an-introduction-to-deep-learning-from-perceptrons-to-deep-networks)

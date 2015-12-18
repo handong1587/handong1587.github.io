@@ -47,6 +47,10 @@ date: 2015-09-12
 - homepage: [https://sites.google.com/site/jbhuang0604/publications/struct_sr](https://sites.google.com/site/jbhuang0604/publications/struct_sr)
 - github: [https://github.com/jbhuang0604/SelfExSR](https://github.com/jbhuang0604/SelfExSR)
 
+**Super-Resolution with Deep Convolutional Sufficient Statistics**
+
+- arxiv: [http://arxiv.org/abs/1511.05666](http://arxiv.org/abs/1511.05666)
+
 # Images Denoising
 
 **Fast Burst Images Denoising(SIGGRAPH Asia 2014. CUHK, Microsoft Research)**
