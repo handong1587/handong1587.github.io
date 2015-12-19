@@ -24,3 +24,9 @@ date: 2015-09-22
 **Big data analytics: a survey**
 
 - paper: [http://www.journalofbigdata.com/content/pdf/s40537-015-0030-3.pdf](http://www.journalofbigdata.com/content/pdf/s40537-015-0030-3.pdf)
+
+# Videos
+
+**Awesome Big Data Algorithms**
+
+- youtube: [https://www.youtube.com/watch?v=jKBwGlYb13w](https://www.youtube.com/watch?v=jKBwGlYb13w)

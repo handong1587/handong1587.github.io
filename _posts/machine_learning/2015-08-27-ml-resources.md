@@ -84,6 +84,10 @@ date: 2015-08-27
 
 [https://www.coursera.org/specializations/machine-learning](https://www.coursera.org/specializations/machine-learning)
 
+**Machine Learning**
+
+[http://www.cs.ubc.ca/~nando/540-2013/lectures.html](http://www.cs.ubc.ca/~nando/540-2013/lectures.html)
+
 # Tutorials
 
 **Machine Learning for Developers**
@@ -98,6 +102,19 @@ date: 2015-08-27
 **Machine learning: A practical introduction**
 
 - blog: [http://www.infoworld.com/article/3010401/big-data/machine-learning-a-practical-introduction.html](http://www.infoworld.com/article/3010401/big-data/machine-learning-a-practical-introduction.html)
+
+# Competitions
+
+**Machine learning best practices we've learned from hundreds of competitions (Kaggle: Ben Hamner)**
+
+- youtube: [https://www.youtube.com/watch?v=9Zag7uhjdYo&hd=1](https://www.youtube.com/watch?v=9Zag7uhjdYo&hd=1)
+- baidu-pan: [http://pan.baidu.com/s/1pJLrICN](http://pan.baidu.com/s/1pJLrICN)
+
+# Regressions
+
+**10 types of regressions. Which one to use?**
+
+- blog: [http://www.datasciencecentral.com/profiles/blogs/10-types-of-regressions-which-one-to-use](http://www.datasciencecentral.com/profiles/blogs/10-types-of-regressions-which-one-to-use)
 
 # Bayesian Learning
 
@@ -187,6 +204,17 @@ date: 2015-08-27
 
 - blog: [http://qpleple.com/bib/](http://qpleple.com/bib/)
 
+**LDAvis: Interactive Visualization of Topic Models**
+
+- homepage: [https://cran.r-project.org/web/packages/LDAvis/](https://cran.r-project.org/web/packages/LDAvis/)
+- paper: [http://nlp.stanford.edu/events/illvi2014/papers/sievert-illvi2014.pdf](http://nlp.stanford.edu/events/illvi2014/papers/sievert-illvi2014.pdf)
+- github: [https://github.com/cpsievert/LDAvis](https://github.com/cpsievert/LDAvis)
+- tutorial: [http://cpsievert.github.io/LDAvis/reviews/reviews.html](http://cpsievert.github.io/LDAvis/reviews/reviews.html)
+
+**Deep Belief Nets for Topic Modeling**
+
+- arxiv: [http://arxiv.org/abs/1501.04325](http://arxiv.org/abs/1501.04325)
+
 # Decision Tree
 
 **Canonical Correlation Forests**
@@ -215,6 +243,11 @@ date: 2015-08-27
 - blog: [http://blog.datadive.net/random-forest-interpretation-with-scikit-learn/](http://blog.datadive.net/random-forest-interpretation-with-scikit-learn/)
 - github: [https://github.com/andosa/treeinterpreter](https://github.com/andosa/treeinterpreter)
 
+**Machine learning - Random forests (by Nando de Freitas)**
+
+- youtube: [https://www.youtube.com/watch?v=3kYujfDgmNk&hd=1](https://www.youtube.com/watch?v=3kYujfDgmNk&hd=1)
+- lectures: [http://www.cs.ubc.ca/~nando/540-2013/lectures.html](http://www.cs.ubc.ca/~nando/540-2013/lectures.html)
+
 # SVM
 
 **Collection Of SVM Libraries By Language**
@@ -230,6 +263,10 @@ date: 2015-08-27
 **A Simple Introduction to Support Vector Machines (Lecture for CSE 802)**
 
 - slides: [http://www.cise.ufl.edu/class/cis4930sp11dtm/notes/intro_svm_new.pdf](http://www.cise.ufl.edu/class/cis4930sp11dtm/notes/intro_svm_new.pdf)
+
+**16. Learning: Support Vector Machines**
+
+- youtube: [https://www.youtube.com/watch?v=_PwhiWxHK8o](https://www.youtube.com/watch?v=_PwhiWxHK8o)
 
 # Neural Network
 
@@ -259,6 +296,11 @@ date: 2015-08-27
 **Introduction to Conditional Random Fields**
 
 [http://blog.echen.me/2012/01/03/introduction-to-conditional-random-fields/](http://blog.echen.me/2012/01/03/introduction-to-conditional-random-fields/)
+
+**Log-linear Models and Conditional Random Fields**
+
+- video: [http://videolectures.net/cikm08_elkan_llmacrf/](http://videolectures.net/cikm08_elkan_llmacrf/)
+- slides: [http://pan.baidu.com/s/1sjE0WfN](http://pan.baidu.com/s/1sjE0WfN)
 
 # Matrix Factorization
 
@@ -390,3 +432,9 @@ date: 2015-08-27
 **rustlearn: Machine learning crate for Rust**
 
 - github: [https://github.com/maciejkula/rustlearn](https://github.com/maciejkula/rustlearn)
+
+# Readings and Questions
+
+**(Quora): What are the top 10 data mining or machine learning algorithms?**
+
+[https://www.quora.com/What-are-the-top-10-data-mining-or-machine-learning-algorithms/answer/Xavier-Amatriain](https://www.quora.com/What-are-the-top-10-data-mining-or-machine-learning-algorithms/answer/Xavier-Amatriain)

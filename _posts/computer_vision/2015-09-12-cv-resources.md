@@ -132,3 +132,9 @@ date: 2015-09-12
 
 - website: [http://jiwonkim.org/awesome-deep-vision/](http://jiwonkim.org/awesome-deep-vision/)
 - github: [https://github.com/kjw0612/awesome-deep-vision](https://github.com/kjw0612/awesome-deep-vision)
+
+# Blogs
+
+**From feature descriptors to deep learning: 20 years of computer vision**
+
+- blog: [http://www.computervisionblog.com/2015/01/from-feature-descriptors-to-deep.html](http://www.computervisionblog.com/2015/01/from-feature-descriptors-to-deep.html)

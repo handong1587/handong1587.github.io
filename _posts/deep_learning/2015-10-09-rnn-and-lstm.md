@@ -147,6 +147,14 @@ date: 2015-10-09
 
 # Code
 
+**NeuralTalk (Deprecated): a Python+numpy project for learning Multimodal Recurrent Neural Networks that describe images with sentences**
+
+- github: [https://github.com/karpathy/neuraltalk](https://github.com/karpathy/neuraltalk)
+
+**NeuralTalk2: Efficient Image Captioning code in Torch, runs on GPU**
+
+- github: 	[https://github.com/karpathy/neuraltalk2](https://github.com/karpathy/neuraltalk2)
+
 **char-rnn in Blocks**
 
 - github: [https://github.com/johnarevalo/blocks-char-rnn](https://github.com/johnarevalo/blocks-char-rnn)

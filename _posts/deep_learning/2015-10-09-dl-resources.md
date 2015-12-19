@@ -53,6 +53,40 @@ date: 2015-10-09
 
 [http://ufldl.stanford.edu/tutorial/](http://ufldl.stanford.edu/tutorial/)
 
+**The Unreasonable Effectiveness of Deep Learning (LeCun)**
+
+- slides: [http://www.ee.ucl.ac.uk/sahd2014/resources/LeCun.pdf](http://www.ee.ucl.ac.uk/sahd2014/resources/LeCun.pdf)
+
+**Deep learning from the bottom up**
+
+![](/assets/dl_resources/tutorials/deep_learning_from_the_bottom_up.png)
+
+- blog: [https://www.metacademy.org/roadmaps/rgrosse/deep_learning](https://www.metacademy.org/roadmaps/rgrosse/deep_learning)
+
+**Introduction to Deep Learning with Python (By Alec Radford. Theano)**
+
+- youtube: [https://www.youtube.com/watch?v=S75EdAcXHKk&hd=1](https://www.youtube.com/watch?v=S75EdAcXHKk&hd=1)
+
+**New to deep learning? Here are 4 easy lessons from Google**
+
+- blog: [https://gigaom.com/2015/01/29/new-to-deep-learning-here-are-4-easy-lessons-from-google/](https://gigaom.com/2015/01/29/new-to-deep-learning-here-are-4-easy-lessons-from-google/)
+
+**Deep Learning 101**
+
+- blog: [http://markus.com/deep-learning-101/](http://markus.com/deep-learning-101/)
+
+**Neural Networks Demystified**
+
+- Part 1: Data and Architecture: [https://www.youtube.com/watch?v=bxe2T-V8XRs](https://www.youtube.com/watch?v=bxe2T-V8XRs)
+- Part 2: Forward Propagation: [https://www.youtube.com/watch?v=UJwK6jAStmg](https://www.youtube.com/watch?v=UJwK6jAStmg)
+- Part 3: Gradient Descent: [https://www.youtube.com/watch?v=5u0jaA3qAGk](https://www.youtube.com/watch?v=5u0jaA3qAGk)
+- Part 4: Backpropagation: [https://www.youtube.com/watch?v=GlcnxUlrtek](https://www.youtube.com/watch?v=GlcnxUlrtek)
+- Part 5: Numerical Gradient Checking: [https://www.youtube.com/watch?v=pHMzNW8Agq4](https://www.youtube.com/watch?v=pHMzNW8Agq4)
+- Part 6: Training: [https://www.youtube.com/watch?v=9KM9Td6RVgQ](https://www.youtube.com/watch?v=9KM9Td6RVgQ)
+- Part 7: Overfitting, Testing, and Regularization: [https://www.youtube.com/watch?v=S4ZUwgesjS8](https://www.youtube.com/watch?v=S4ZUwgesjS8)
+
+- all-pack: [http://pan.baidu.com/s/1dDq5oNB](http://pan.baidu.com/s/1dDq5oNB)
+
 # ImageNet
 
 **Going Deeper with Convolutions**
