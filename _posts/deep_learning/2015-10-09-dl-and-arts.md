@@ -31,6 +31,13 @@ date: 2015-10-09
 - github: [https://github.com/dmlc/mxnet/tree/master/example/neural-style](https://github.com/dmlc/mxnet/tree/master/example/neural-style)
 - demo: [http://deepart.io/](http://deepart.io/)
 
+**neural-style-video**
+
+- blog: [http://larseidnes.com/2015/12/18/painting-videos-with-neural-networks/](http://larseidnes.com/2015/12/18/painting-videos-with-neural-networks/)
+- github: [https://github.com/larspars/neural-style-video](https://github.com/larspars/neural-style-video)
+
+- - -
+
 **Texture synthesis and the controlled generation of natural stimuli using convolutional neural networks**
 
 - paper: [http://arxiv.org/abs/1505.07376](http://arxiv.org/abs/1505.07376)

@@ -137,6 +137,12 @@ date: 2015-10-09
 - website: [http://petuum.github.io/](http://petuum.github.io/)
 - github: [https://github.com/petuum/bosen](https://github.com/petuum/bosen)
 
+# Platoon
+
+**Platoon: Multi-GPU mini-framework for Theano**
+
+- github: [https://github.com/mila-udem/platoon](https://github.com/mila-udem/platoon)
+
 # Poseidon
 
 **Poseidon: Distributed Deep Learning Framework on Petuum**
