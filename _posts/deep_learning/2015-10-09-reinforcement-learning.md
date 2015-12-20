@@ -23,8 +23,6 @@ date: 2015-10-09
 
 **Benchmarking for Bayesian Reinforcement Learning**
 
-*(Submitted on 14 Sep 2015)*
-
 - paper: [http://arxiv.org/abs/1509.04064v1](http://arxiv.org/abs/1509.04064v1)
 - code: [https://github.com/mcastron/BBRL/](https://github.com/mcastron/BBRL/)
 - reading: [http://blogs.ulg.ac.be/damien-ernst/benchmarking-for-bayesian-reinforcement-learning/](http://blogs.ulg.ac.be/damien-ernst/benchmarking-for-bayesian-reinforcement-learning/)
