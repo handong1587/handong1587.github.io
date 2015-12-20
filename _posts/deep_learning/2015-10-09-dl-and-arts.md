@@ -106,6 +106,11 @@ date: 2015-10-09
 - github: [https://github.com/johnglover/sound-rnn](https://github.com/johnglover/sound-rnn)
 - blog: [http://www.johnglover.net/blog/generating-sound-with-rnns.html](http://www.johnglover.net/blog/generating-sound-with-rnns.html)
 
+**Using LSTM Recurrent Neural Networks for Music Generation (Project for AI Prac Fall 2015 at Cornell)**
+
+- youtube: [https://www.youtube.com/watch?v=aSr8_QQYpYM](https://www.youtube.com/watch?v=aSr8_QQYpYM)
+- video: [http://video.weibo.com/show?fid=1034:4be01d679bb1a68a634fe0f589caa779](http://video.weibo.com/show?fid=1034:4be01d679bb1a68a634fe0f589caa779)
+
 # Video
 
 **Instructions for making a Neural-Style movie**
