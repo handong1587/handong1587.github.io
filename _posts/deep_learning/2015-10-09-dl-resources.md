@@ -107,6 +107,7 @@ date: 2015-10-09
 **Deep Residual Learning for Image Recognition**
 
 - arxiv: [http://arxiv.org/abs/1512.03385](http://arxiv.org/abs/1512.03385)
+- slides: [http://research.microsoft.com/en-us/um/people/kahe/ilsvrc15/ilsvrc2015_deep_residual_learning_kaiminghe.pdf](http://research.microsoft.com/en-us/um/people/kahe/ilsvrc15/ilsvrc2015_deep_residual_learning_kaiminghe.pdf)
 
 # Optimization Methods
 
