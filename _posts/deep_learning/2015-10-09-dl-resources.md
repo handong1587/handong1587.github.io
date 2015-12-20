@@ -87,6 +87,10 @@ date: 2015-10-09
 
 - all-pack: [http://pan.baidu.com/s/1dDq5oNB](http://pan.baidu.com/s/1dDq5oNB)
 
+**Deep Learning SIMPLIFIED**
+
+- playlist: [https://www.youtube.com/playlist?list=PLjJh1vlSEYgvGod9wWiydumYl8hOXixNu](https://www.youtube.com/playlist?list=PLjJh1vlSEYgvGod9wWiydumYl8hOXixNu)
+
 # ImageNet
 
 **Going Deeper with Convolutions**
@@ -254,6 +258,10 @@ date: 2015-10-09
 
 **Multimodal Convolutional Neural Networks for Matching Image and Sentence**
 
+![](/assets/dl_resources/multi_modal/mCNN.png)
+
+- homepage: [http://mcnn.noahlab.com.hk/project.html](http://mcnn.noahlab.com.hk/project.html)
+- paper: [http://mcnn.noahlab.com.hk/ICCV2015.pdf](http://mcnn.noahlab.com.hk/ICCV2015.pdf)
 - arXiv: [http://arxiv.org/abs/1504.06063](http://arxiv.org/abs/1504.06063)
 
 # Deep Learning Networks
@@ -360,6 +368,13 @@ date: 2015-10-09
 
 - paper: [http://paris.cs.illinois.edu/pubs/minje-icmlw2015.pdf](http://paris.cs.illinois.edu/pubs/minje-icmlw2015.pdf)
 - demo: [http://minjekim.com/demo_bnn.html](http://minjekim.com/demo_bnn.html)
+
+**Understanding and Predicting Image Memorability at a Large Scale (MIT. ICCV2015)**
+
+- homepage: [http://memorability.csail.mit.edu/](http://memorability.csail.mit.edu/)
+- paper: [https://people.csail.mit.edu/khosla/papers/iccv2015_khosla.pdf](https://people.csail.mit.edu/khosla/papers/iccv2015_khosla.pdf)
+- code: [http://memorability.csail.mit.edu/download.html](http://memorability.csail.mit.edu/download.html)
+- reviews: [http://petapixel.com/2015/12/18/how-memorable-are-times-top-10-photos-of-2015-to-a-computer/](http://petapixel.com/2015/12/18/how-memorable-are-times-top-10-photos-of-2015-to-a-computer/)
 
 # Code
 
