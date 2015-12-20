@@ -5,6 +5,16 @@ title: Reinforcement Learning
 date: 2015-10-09
 ---
 
+# Tutorials
+
+**Demystifying Deep Reinforcement Learning (Part1)**
+
+[http://neuro.cs.ut.ee/demystifying-deep-reinforcement-learning/](http://neuro.cs.ut.ee/demystifying-deep-reinforcement-learning/)
+
+**Deep Reinforcement Learning With Neon (Part2)**
+
+[http://neuro.cs.ut.ee/deep-reinforcement-learning-with-neon/](http://neuro.cs.ut.ee/deep-reinforcement-learning-with-neon/)
+
 # Papers
 
 **Continuous control with deep reinforcement learning(Google Deepmind)**
