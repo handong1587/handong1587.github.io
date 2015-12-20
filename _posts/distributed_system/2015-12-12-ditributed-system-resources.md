@@ -19,3 +19,10 @@ date: 2015-12-12
 **linalg: Matrix Computations in Apache Spark**
 
 - arxiv: [http://arxiv.org/abs/1509.02256](http://arxiv.org/abs/1509.02256)
+
+# Video
+
+**A Scalable Implementation of Deep Learning on Spark**
+
+- youtube: [https://www.youtube.com/watch?v=pNYBBhuK8yU](https://www.youtube.com/watch?v=pNYBBhuK8yU)
+- video: [http://pan.baidu.com/s/1mhzF1uK](http://pan.baidu.com/s/1mhzF1uK)
