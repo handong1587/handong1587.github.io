@@ -126,6 +126,13 @@ date: 2015-09-12
 - homepage: [http://www.disneyresearch.com/publication/facedirector/](http://www.disneyresearch.com/publication/facedirector/)
 - paper: [http://disneyresearch.s3-us-west-1.amazonaws.com/wp-content/uploads/20151210174750/FaceDirector-Continuous-Control-of-Facial-Performance-in-Video-Paper.pdf](http://disneyresearch.s3-us-west-1.amazonaws.com/wp-content/uploads/20151210174750/FaceDirector-Continuous-Control-of-Facial-Performance-in-Video-Paper.pdf)
 
+**Real-time Expression Transfer for Facial Reenactment**
+
+![](/assets/computer-vision/Expression_Transfer_teaser.jpg)
+
+- paper: [http://graphics.stanford.edu/~niessner/papers/2015/10face/thies2015realtime.pdf](http://graphics.stanford.edu/~niessner/papers/2015/10face/thies2015realtime.pdf)
+- homepage: [http://graphics.stanford.edu/~niessner/thies2015realtime.html](http://graphics.stanford.edu/~niessner/thies2015realtime.html)
+
 # Resources
 
 **Awesome-deep-vision: A curated list of deep learning resources for computer vision**
