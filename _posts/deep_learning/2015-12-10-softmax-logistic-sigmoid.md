@@ -8,11 +8,11 @@ date: 2015-12-10
 # Softmax
 
 $$
-\rho(x) = \frac{1} {1 + exp^{-x}}
+\sigma(x) = \frac{1} {1 + exp^{-x}}
 $$
 
 $$
-\frac{d\rho(x)} {dx} = (1 - \rho(x)) * \rho(x)
+\frac{d\sigma(x)} {dx} = (1 - \sigma(x)) * \sigma(x)
 $$
 
 # Logistic
