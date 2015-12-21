@@ -123,6 +123,14 @@ date: 2015-10-09
 
 - slides: [http://vdisk.weibo.com/s/z5dg0jVVHv2pn/1450157571](http://vdisk.weibo.com/s/z5dg0jVVHv2pn/1450157571)
 
+**用MXnet实战深度学习之一:安装GPU版mxnet并跑一个MNIST手写数字识别**
+
+[http://phunter.farbox.com/post/mxnet-tutorial1](http://phunter.farbox.com/post/mxnet-tutorial1)
+
+**用MXnet实战深度学习之二:Neural art**
+
+[http://phunter.farbox.com/post/mxnet-tutorial2](http://phunter.farbox.com/post/mxnet-tutorial2)
+
 # Neon
 
 **Neon: Nervana’s Python-based deep learning library**
