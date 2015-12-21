@@ -100,12 +100,14 @@ date: 2015-09-12
 - github: [https://github.com/openalpr/openalpr](https://github.com/openalpr/openalpr)
 - tech reciew: [http://arstechnica.com/business/2015/12/new-open-source-license-plate-reader-software-lets-you-make-your-own-hot-list/](http://arstechnica.com/business/2015/12/new-open-source-license-plate-reader-software-lets-you-make-your-own-hot-list/)
 
-# Image Summary/Retargeting/Editing
+# Image Summary
 
 **Summarizing Visual Data Using Bidirectional Similarity**
 
 - homepage: [http://denis.simakov.info/weizmann/summarization_talk_20101116/summarization.html](http://denis.simakov.info/weizmann/summarization_talk_20101116/summarization.html)
 - paper: [http://www.wisdom.weizmann.ac.il/~vision/VisualSummary/bidirectional_similarity_CVPR2008.pdf](http://www.wisdom.weizmann.ac.il/~vision/VisualSummary/bidirectional_similarity_CVPR2008.pdf)
+
+# Image Retargeting/Editing
 
 **PatchMatch: A Randomized Correspondence Algorithm for Structural Image Editing**
 
