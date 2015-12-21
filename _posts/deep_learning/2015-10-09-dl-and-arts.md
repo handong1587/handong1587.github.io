@@ -12,6 +12,7 @@ date: 2015-10-09
 <img src="/assets/cnn-and-arts/a_nerual_algorithm_of_artistic_style.jpg" />
 
 - paper: [http://arxiv.org/abs/1508.06576](http://arxiv.org/abs/1508.06576)
+- gitxiv: [http://gitxiv.com/posts/jG46ukGod8R7Rdtud/a-neural-algorithm-of-artistic-style](http://gitxiv.com/posts/jG46ukGod8R7Rdtud/a-neural-algorithm-of-artistic-style)
 - github: [https://github.com/kaishengtai/neuralart](https://github.com/kaishengtai/neuralart)
 - github: [https://github.com/jcjohnson/neural-style](https://github.com/jcjohnson/neural-style)
 - github: [https://github.com/andersbll/neural_artistic_style](https://github.com/andersbll/neural_artistic_style)
