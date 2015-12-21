@@ -43,11 +43,6 @@ date: 2015-10-09
 
 - blog: [https://medium.com/@genekogan/from-pixels-to-paragraphs-eb2763da0e9b#.er3djn9z9](https://medium.com/@genekogan/from-pixels-to-paragraphs-eb2763da0e9b#.er3djn9z9)
 
-**Texture synthesis and the controlled generation of natural stimuli using convolutional neural networks**
-
-- paper: [http://arxiv.org/abs/1505.07376](http://arxiv.org/abs/1505.07376)
-- homepage: [http://bethgelab.org/deeptextures/](http://bethgelab.org/deeptextures/)
-
 **Experiments with style transfer**
 
 - website: [http://mtyka.github.io/code/2015/10/02/experiments-with-style-transfer.html](http://mtyka.github.io/code/2015/10/02/experiments-with-style-transfer.html)
