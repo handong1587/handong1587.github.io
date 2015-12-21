@@ -39,6 +39,10 @@ date: 2015-10-09
 
 - - -
 
+**From Pixels to Paragraphs: How artistic experiments with deep learning guard us from hype**
+
+- blog: [https://medium.com/@genekogan/from-pixels-to-paragraphs-eb2763da0e9b#.er3djn9z9](https://medium.com/@genekogan/from-pixels-to-paragraphs-eb2763da0e9b#.er3djn9z9)
+
 **Texture synthesis and the controlled generation of natural stimuli using convolutional neural networks**
 
 - paper: [http://arxiv.org/abs/1505.07376](http://arxiv.org/abs/1505.07376)

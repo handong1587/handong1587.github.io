@@ -28,6 +28,11 @@ github: [https://github.com/mrkulk/Unsupervised-Capsule-Network](https://github.
 - arXiv: [http://arxiv.org/abs/1502.03044](http://arxiv.org/abs/1502.03044)
 - github: [https://github.com/kelvinxu/arctic-captions](https://github.com/kelvinxu/arctic-captions)
 
+- - -
+
+- github: [https://github.com/apple2373/chainer_caption_generation](https://github.com/apple2373/chainer_caption_generation)
+- blog: [http://t-satoshi.blogspot.com/2015/12/image-caption-generation-by-cnn-and-lstm.html](http://t-satoshi.blogspot.com/2015/12/image-caption-generation-by-cnn-and-lstm.html)
+
 **Describing Videos by Exploiting Temporal Structure**
 
 - arXiv: [http://arxiv.org/abs/1502.08029](http://arxiv.org/abs/1502.08029)
