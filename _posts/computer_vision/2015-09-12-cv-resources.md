@@ -100,6 +100,29 @@ date: 2015-09-12
 - github: [https://github.com/openalpr/openalpr](https://github.com/openalpr/openalpr)
 - tech reciew: [http://arstechnica.com/business/2015/12/new-open-source-license-plate-reader-software-lets-you-make-your-own-hot-list/](http://arstechnica.com/business/2015/12/new-open-source-license-plate-reader-software-lets-you-make-your-own-hot-list/)
 
+# Image Summary/Retargeting/Editing
+
+**Summarizing Visual Data Using Bidirectional Similarity**
+
+- homepage: [http://denis.simakov.info/weizmann/summarization_talk_20101116/summarization.html](http://denis.simakov.info/weizmann/summarization_talk_20101116/summarization.html)
+- paper: [http://www.wisdom.weizmann.ac.il/~vision/VisualSummary/bidirectional_similarity_CVPR2008.pdf](http://www.wisdom.weizmann.ac.il/~vision/VisualSummary/bidirectional_similarity_CVPR2008.pdf)
+
+**PatchMatch: A Randomized Correspondence Algorithm for Structural Image Editing**
+
+![](/assets/computer-vision/patchmatch_title.png)
+
+- homepage(paper+code): [http://gfx.cs.princeton.edu/pubs/Barnes_2009_PAR/](http://gfx.cs.princeton.edu/pubs/Barnes_2009_PAR/)
+- paper: [http://gfx.cs.princeton.edu/pubs/Barnes_2009_PAR/patchmatch.pdf](http://gfx.cs.princeton.edu/pubs/Barnes_2009_PAR/patchmatch.pdf)
+- code: [http://gfx.cs.princeton.edu/pubs/Barnes_2009_PAR/patchmatch-2.1.zip](http://gfx.cs.princeton.edu/pubs/Barnes_2009_PAR/patchmatch-2.1.zip)
+
+**The Generalized PatchMatch Correspondence Algorithm**
+
+![](/assets/computer-vision/gpm_teaser.png)
+
+- homapage(paper+code): [http://gfx.cs.princeton.edu/pubs/Barnes_2010_TGP/index.php](http://gfx.cs.princeton.edu/pubs/Barnes_2010_TGP/index.php)
+- paper: [http://gfx.cs.princeton.edu/pubs/Barnes_2010_TGP/generalized_pm.pdf](http://gfx.cs.princeton.edu/pubs/Barnes_2010_TGP/generalized_pm.pdf)
+- code: [http://www.cs.princeton.edu/gfx/pubs/Barnes_2009_PAR/patchmatch-2.0.zip](http://www.cs.princeton.edu/gfx/pubs/Barnes_2009_PAR/patchmatch-2.0.zip)
+
 # Video Tapestries
 
 **Video Tapestries with Continuous Temporal Zoom**
