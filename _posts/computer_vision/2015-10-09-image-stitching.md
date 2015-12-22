@@ -27,6 +27,18 @@ date: 2015-10-09
 - paper: [http://gvi.seas.harvard.edu/sites/all/files/Harmonization_SIGGRAPH10.pdf](http://gvi.seas.harvard.edu/sites/all/files/Harmonization_SIGGRAPH10.pdf)
 - slides: [http://gvi.seas.harvard.edu/sites/all/files/Harmonization_SIGGRAPH10.pptx](http://gvi.seas.harvard.edu/sites/all/files/Harmonization_SIGGRAPH10.pptx)
 
+**Drag-and-Drop Pasting**
+
+[http://research.microsoft.com/pubs/69331/dragdroppasting_siggraph06.pdf](http://research.microsoft.com/pubs/69331/dragdroppasting_siggraph06.pdf)
+
+**Cross Dissolve Without Cross Fade: Preserving Contrast, Color and Salience in Image Compositing**
+
+[https://www.cl.cam.ac.uk/research/rainbow/projects/compositing/EG06-Cross-Dissolve-Without-Cross-Fade.pdf](https://www.cl.cam.ac.uk/research/rainbow/projects/compositing/EG06-Cross-Dissolve-Without-Cross-Fade.pdf)
+
+**Snap Image Composition**
+
+[http://www.cs.huji.ac.il/~peleg/papers/SnapComposition.pdf](http://www.cs.huji.ac.il/~peleg/papers/SnapComposition.pdf)
+
 # Lectures
 
 **Stitching and Matting**
