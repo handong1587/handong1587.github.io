@@ -26,7 +26,7 @@ date: 2015-10-09
 
 [http://iris.usc.edu/people/yangbo/papers/vcj08.pdf](http://iris.usc.edu/people/yangbo/papers/vcj08.pdf)
 
-**Content-aware Photo Collage Using Circle Packing**
+**Content-aware Photo Collage Using Circle Packing (TVCG 2014)**
 
 ![](/assets/computer-vision/video_summary/Photo_Collage_Flowchart.jpg)
 
