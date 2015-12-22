@@ -377,6 +377,10 @@ date: 2015-10-09
 - code: [http://memorability.csail.mit.edu/download.html](http://memorability.csail.mit.edu/download.html)
 - reviews: [http://petapixel.com/2015/12/18/how-memorable-are-times-top-10-photos-of-2015-to-a-computer/](http://petapixel.com/2015/12/18/how-memorable-are-times-top-10-photos-of-2015-to-a-computer/)
 
+**A Mathematical Theory of Deep Convolutional Neural Networks for Feature Extraction**
+
+- arxiv: [http://arxiv.org/abs/1512.06293](http://arxiv.org/abs/1512.06293)
+
 # Code
 
 **deepnet: Implementation of some deep learning algorithms**

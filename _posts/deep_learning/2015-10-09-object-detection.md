@@ -5,6 +5,8 @@ title: Object Detection
 date: 2015-10-09
 ---
 
+# Papers
+
 **Deep Neural Networks for Object Detection**
 
 - paper: [http://papers.nips.cc/paper/5207-deep-neural-networks-for-object-detection.pdf](http://papers.nips.cc/paper/5207-deep-neural-networks-for-object-detection.pdf)
@@ -210,3 +212,9 @@ bounding boxes (which are shared for these categories).
 **Inside-Outside Net: Detecting Objects in Context with Skip Pooling and Recurrent Neural Networks**
 
 - arxiv: [http://arxiv.org/abs/1512.04143](http://arxiv.org/abs/1512.04143)
+
+# Tutorials
+
+**Convolutional Feature Maps: Elements of efficient (and accurate) CNN-based object detection**
+
+- slides: [http://research.microsoft.com/en-us/um/people/kahe/iccv15tutorial/iccv2015_tutorial_convolutional_feature_maps_kaiminghe.pdf](http://research.microsoft.com/en-us/um/people/kahe/iccv15tutorial/iccv2015_tutorial_convolutional_feature_maps_kaiminghe.pdf)
