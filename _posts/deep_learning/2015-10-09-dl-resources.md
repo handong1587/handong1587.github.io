@@ -425,7 +425,7 @@ date: 2015-10-09
 
 [http://fastml.com/what-you-wanted-to-know-about-ai/](http://fastml.com/what-you-wanted-to-know-about-ai/)
 
-# Deep Learning Resources
+# Resources
 
 **Awesome Deep Learning**
 
@@ -451,13 +451,13 @@ date: 2015-10-09
 
 [http://rt.dgyblog.com/ref/ref-learning-deep-learning.html](http://rt.dgyblog.com/ref/ref-learning-deep-learning.html)
 
-# Deep Learning Books
+# Books
 
 **Deep Learning (By Ian Goodfellow, Aaron Courville and Yoshua Bengio)**
 
 [http://goodfeli.github.io/dlbook/](http://goodfeli.github.io/dlbook/)
 
-# Deep Learning Blogs
+# Blogs
 
 **Neural Networks and Deep Learning**
 
