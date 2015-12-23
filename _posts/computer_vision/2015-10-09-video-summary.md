@@ -26,6 +26,18 @@ date: 2015-10-09
 
 [http://iris.usc.edu/people/yangbo/papers/vcj08.pdf](http://iris.usc.edu/people/yangbo/papers/vcj08.pdf)
 
+**Efficient Optimization of Photo Collage**
+
+[http://research.microsoft.com/en-us/people/yichenw/collage_techreport.pdf](http://research.microsoft.com/en-us/people/yichenw/collage_techreport.pdf)
+
+**Puzzle-like Collage (2010)**
+
+[http://webee.technion.ac.il/~ayellet/Ps/10-PuzzleCollage.pdf](http://webee.technion.ac.il/~ayellet/Ps/10-PuzzleCollage.pdf)
+
+**Browsing Large Image Datasets through Voronoi Diagrams**
+
+[http://citeseerx.ist.psu.edu/viewdoc/download;jsessionid=576998825C3E40A32826A00B64089DF6?doi=10.1.1.230.5997&rep=rep1&type=pdf](http://citeseerx.ist.psu.edu/viewdoc/download;jsessionid=576998825C3E40A32826A00B64089DF6?doi=10.1.1.230.5997&rep=rep1&type=pdf)
+
 **Content-aware Photo Collage Using Circle Packing (TVCG 2014)**
 
 ![](/assets/computer-vision/video_summary/Photo_Collage_Flowchart.jpg)
