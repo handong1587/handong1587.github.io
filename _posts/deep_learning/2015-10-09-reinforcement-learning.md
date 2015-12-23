@@ -121,6 +121,10 @@ date: 2015-10-09
 
 - - -
 
+**Guest Post (Part I): Demystifying Deep Reinforcement Learning**
+
+[http://www.nervanasys.com/demystifying-deep-reinforcement-learning/](http://www.nervanasys.com/demystifying-deep-reinforcement-learning/)
+
 # Resources
 
 **Deep Reinforcement Learning Papers**
