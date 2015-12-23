@@ -5,6 +5,10 @@ title: Action Recognition
 date: 2015-10-09
 ---
 
+**Action Recognition by Hierarchical Mid-level Action Elements**
+
+- paper: [http://cvgl.stanford.edu/papers/tian2015.pdf](http://cvgl.stanford.edu/papers/tian2015.pdf)
+
 **Contextual Action Recognition with R*CNN**
 
 - paper: [http://arxiv.org/abs/1505.01197](http://arxiv.org/abs/1505.01197)

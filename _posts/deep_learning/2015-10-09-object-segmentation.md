@@ -31,6 +31,10 @@ date: 2015-10-09
 - arXiv: [http://arxiv.org/abs/1502.02734](http://arxiv.org/abs/1502.02734)
 - bitbucket: [https://bitbucket.org/deeplab/deeplab-public/](https://bitbucket.org/deeplab/deeplab-public/)
 
+**Hypercolumns for object segmentation and fine-grained localization (CVPR 2015)**
+
+- paper: [http://www.cs.berkeley.edu/~bharath2/pubs/pdfs/BharathCVPR2015.pdf](http://www.cs.berkeley.edu/~bharath2/pubs/pdfs/BharathCVPR2015.pdf)
+
 **Conditional Random Fields as Recurrent Neural Networks(ICCV2015. Oxford/Stanford/Baidu)**
 
 <img src="/assets/object-segmentation-materials/Conditional_Random_Fields_as_Recurrent_Neural_Networks_sample.png" width="800" />
