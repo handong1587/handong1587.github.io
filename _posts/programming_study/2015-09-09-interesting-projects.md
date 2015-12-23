@@ -68,6 +68,12 @@ date: 2015-09-09
 
 - package: [https://atom.io/packages/activate-power-mode](https://atom.io/packages/activate-power-mode)
 
+**ActivatePowerMode: plugin for Xcode**
+
+![](/assets/programming_study/ActivatePowerMode_xcode.gif)
+
+- github: [https://github.com/poboke/ActivatePowerMode](https://github.com/poboke/ActivatePowerMode)
+
 # Utilities
 
 **Python Gems: A collection of python scripts that solve interesting problems**
