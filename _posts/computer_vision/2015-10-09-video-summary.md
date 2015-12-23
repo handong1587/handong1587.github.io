@@ -5,6 +5,15 @@ title: Video Summary
 date: 2015-10-09
 ---
 
+**AutoCollage (SIGGRAPH 2006)**
+
+![](/assets/computer-vision/video_summary/collage1fullcomp.jpg)
+
+- homepage: [http://research.microsoft.com/en-us/projects/i3l/autocollage.aspx](http://research.microsoft.com/en-us/projects/i3l/autocollage.aspx)
+- paper: [http://research.microsoft.com/pubs/67894/autocollage_rotheretal_siggraph2006.pdf](http://research.microsoft.com/pubs/67894/autocollage_rotheretal_siggraph2006.pdf)
+- slides: [http://research.microsoft.com/en-us/UM/cambridge/projects/VisionImageVideoEditing/autocollage/TalkSiggraph2006Compressed.zip](http://research.microsoft.com/en-us/UM/cambridge/projects/VisionImageVideoEditing/autocollage/TalkSiggraph2006Compressed.zip)
+- demo: [http://research.microsoft.com/en-us/um/cambridge/projects/autocollage/](http://research.microsoft.com/en-us/um/cambridge/projects/autocollage/)
+
 **Video collage: A novel presentation of video sequence (ICME 2007)**
 
 [http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.130.3728&rep=rep1&type=pdf](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.130.3728&rep=rep1&type=pdf)
