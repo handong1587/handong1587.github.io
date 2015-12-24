@@ -88,6 +88,10 @@ date: 2015-08-27
 
 [http://www.cs.ubc.ca/~nando/540-2013/lectures.html](http://www.cs.ubc.ca/~nando/540-2013/lectures.html)
 
+**Princeton Computer Science 598D: Overcoming Intractability in Machine Learning**
+
+[http://www.cs.princeton.edu/courses/archive/spring15/cos598D/](http://www.cs.princeton.edu/courses/archive/spring15/cos598D/)
+
 # Tutorials
 
 **Machine Learning for Developers**
