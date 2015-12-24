@@ -22,3 +22,7 @@ date: 2015-07-01
 **MIT: Introduction to Algorithms**
 
 [http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/index.htm](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/index.htm)
+
+**Princeton Computer Science 521: Advanced Algorithm Design**
+
+[http://www.cs.princeton.edu/courses/archive/fall15/cos521/](http://www.cs.princeton.edu/courses/archive/fall15/cos521/)
