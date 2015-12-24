@@ -5,6 +5,17 @@ title: Distribued System Resources
 date: 2015-12-12
 ---
 
+# Tutorials
+
+**Large Scale Distributed Systems for Training Neural Networks**
+
+- intro: By Jeff Dean & Oriol Vinyals, Google. NIPS 2015.
+- slides: [https://media.nips.cc/Conferences/2015/tutorialslides/Jeff-Oriol-NIPS-Tutorial-2015.pdf](https://media.nips.cc/Conferences/2015/tutorialslides/Jeff-Oriol-NIPS-Tutorial-2015.pdf)
+- video: [http://research.microsoft.com/apps/video/default.aspx?id=259564&l=i](http://research.microsoft.com/apps/video/default.aspx?id=259564&l=i)
+- video: [http://pan.baidu.com/s/1mgXV0hU](http://pan.baidu.com/s/1mgXV0hU)
+
+# Papers
+
 **SparkNet: Training Deep Networks in Spark**
 
 - arXiv: [http://arxiv.org/abs/1511.06051](http://arxiv.org/abs/1511.06051)
@@ -20,7 +31,7 @@ date: 2015-12-12
 
 - arxiv: [http://arxiv.org/abs/1509.02256](http://arxiv.org/abs/1509.02256)
 
-# Video
+# Videos
 
 **A Scalable Implementation of Deep Learning on Spark**
 
