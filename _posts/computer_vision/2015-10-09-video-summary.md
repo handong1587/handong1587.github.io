@@ -5,6 +5,14 @@ title: Video Summary
 date: 2015-10-09
 ---
 
+# Intro
+
+attempts to represent something in a visually appealing and compact way
+
+# Photo Collages
+
+# Video Collage
+
 **AutoCollage (SIGGRAPH 2006)**
 
 ![](/assets/computer-vision/video_summary/collage1fullcomp.jpg)
