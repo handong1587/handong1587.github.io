@@ -55,7 +55,7 @@ attempts to represent something in a visually appealing and compact way
 
 [http://citeseerx.ist.psu.edu/viewdoc/download;jsessionid=576998825C3E40A32826A00B64089DF6?doi=10.1.1.230.5997&rep=rep1&type=pdf](http://citeseerx.ist.psu.edu/viewdoc/download;jsessionid=576998825C3E40A32826A00B64089DF6?doi=10.1.1.230.5997&rep=rep1&type=pdf)
 
-**Content-aware Photo Collage Using Circle Packing (TVCG 2014)**
+**Content-aware Photo Collage Using Circle Packing (NJU. TVCG 2014)**
 
 ![](/assets/computer-vision/video_summary/Photo_Collage_Flowchart.jpg)
 
