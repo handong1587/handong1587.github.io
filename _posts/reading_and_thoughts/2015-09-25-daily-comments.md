@@ -13,3 +13,7 @@ now IDST is merged into other department.
 The overwhelming amount of information on social media networks and the distraction caoused
 by large number of irrelevant social posts makes t difficult and time-consuming to find
 relevant information, leading to an unintended consequence: **information overload**.
+
+Why I love computer vision?
+
+Because images are superior at captureing attention.

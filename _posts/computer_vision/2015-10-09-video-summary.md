@@ -67,3 +67,12 @@ attempts to represent something in a visually appealing and compact way
 
 - homepage: [http://research.microsoft.com/apps/pubs/default.aspx?id=204877](http://research.microsoft.com/apps/pubs/default.aspx?id=204877)
 - paper: [http://research.microsoft.com/pubs/204877/mm035-yin.pdf](http://research.microsoft.com/pubs/204877/mm035-yin.pdf)
+
+# Video Tapestries
+
+**Video Tapestries with Continuous Temporal Zoom**
+
+![](/assets/computer-vision/Video_Tapestries_teaser.png)
+
+- paper: [http://www.connellybarnes.com/work/publications/2010_tapestry_electronic.pdf](http://www.connellybarnes.com/work/publications/2010_tapestry_electronic.pdf)
+- homepage: [http://gfx.cs.princeton.edu/gfx/pubs/Barnes_2010_VTW/index.php](http://gfx.cs.princeton.edu/gfx/pubs/Barnes_2010_VTW/index.php)

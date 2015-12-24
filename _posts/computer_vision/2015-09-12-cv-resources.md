@@ -125,15 +125,6 @@ date: 2015-09-12
 - paper: [http://gfx.cs.princeton.edu/pubs/Barnes_2010_TGP/generalized_pm.pdf](http://gfx.cs.princeton.edu/pubs/Barnes_2010_TGP/generalized_pm.pdf)
 - code: [http://www.cs.princeton.edu/gfx/pubs/Barnes_2009_PAR/patchmatch-2.0.zip](http://www.cs.princeton.edu/gfx/pubs/Barnes_2009_PAR/patchmatch-2.0.zip)
 
-# Video Tapestries
-
-**Video Tapestries with Continuous Temporal Zoom**
-
-![](/assets/computer-vision/Video_Tapestries_teaser.png)
-
-- paper: [http://www.connellybarnes.com/work/publications/2010_tapestry_electronic.pdf](http://www.connellybarnes.com/work/publications/2010_tapestry_electronic.pdf)
-- homepage: [http://gfx.cs.princeton.edu/gfx/pubs/Barnes_2010_VTW/index.php](http://gfx.cs.princeton.edu/gfx/pubs/Barnes_2010_VTW/index.php)
-
 # Applications
 
 **Target acquired: Finding targets in drone and quadcopter video streams using Python and OpenCV**
