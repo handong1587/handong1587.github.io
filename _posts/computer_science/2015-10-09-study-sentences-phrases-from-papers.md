@@ -7,3 +7,5 @@ date: 2015-10-09
 
 In the remainder of the section, each of these ... terms is defined in detail, 
 together with constraints that must be maintained.
+
+A method is applied in order to **repair** the solution. 
