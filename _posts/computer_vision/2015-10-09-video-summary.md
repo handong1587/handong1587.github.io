@@ -70,7 +70,7 @@ attempts to represent something in a visually appealing and compact way
 
 # Video Tapestries
 
-**Video Tapestries with Continuous Temporal Zoom**
+**Video Tapestries with Continuous Temporal Zoom (Princeton. SIGGRAPH 2010)**
 
 ![](/assets/computer-vision/Video_Tapestries_teaser.png)
 
