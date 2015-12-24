@@ -55,7 +55,7 @@ date: 2015-10-09
 - paper: [http://cs.nju.edu.cn/ywguo/webs/paperdownload/Content-aware%20Photo%20Collage%20Using%20Circle%20Packing.pdf](http://cs.nju.edu.cn/ywguo/webs/paperdownload/Content-aware%20Photo%20Collage%20Using%20Circle%20Packing.pdf)
 - demo: [http://cs.nju.edu.cn/ywguo/PhotoCollage/dload.html](http://cs.nju.edu.cn/ywguo/PhotoCollage/dload.html)
 
-**Automatic Generation of Social Media Snippets for Mobile Browsing (Microsoft Research. ACM 2013)**
+**Automatic Generation of Social Media Snippets for Mobile Browsing (Microsoft Research. ACM Multimedia 2013)**
 
 - homepage: [http://research.microsoft.com/apps/pubs/default.aspx?id=204877](http://research.microsoft.com/apps/pubs/default.aspx?id=204877)
 - paper: [http://research.microsoft.com/pubs/204877/mm035-yin.pdf](http://research.microsoft.com/pubs/204877/mm035-yin.pdf)
