@@ -98,6 +98,10 @@ which encodes useful class information rather than individual units (feature act
 
 [https://medium.com/@samim/adversarial-machines-998d8362e996#.iv3muefgt](https://medium.com/@samim/adversarial-machines-998d8362e996#.iv3muefgt)
 
+**How to trick a neural network into thinking a panda is a vulture**
+
+[https://codewords.recurse.com/issues/five/why-do-neural-networks-think-a-panda-is-a-vulture](https://codewords.recurse.com/issues/five/why-do-neural-networks-think-a-panda-is-a-vulture)
+
 # Code
 
 **Generate cat images with neural networks**
