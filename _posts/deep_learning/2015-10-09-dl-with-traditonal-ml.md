@@ -1,7 +1,7 @@
 ---
 layout: post
 category: deep_learning
-title: Deep Learning With Traditional Machine Learning
+title: Deep Learning With Traditional Machine Learning Methods
 date: 2015-10-09
 ---
 
@@ -17,3 +17,9 @@ date: 2015-10-09
 **Deep Learning Transcends the Bag of Words**
 
 - blog: [http://www.kdnuggets.com/2015/12/deep-learning-outgrows-bag-words-recurrent-neural-networks.html](http://www.kdnuggets.com/2015/12/deep-learning-outgrows-bag-words-recurrent-neural-networks.html)
+
+# Bootstrap
+
+**Training Deep Neural Networks on Noisy Labels with Bootstrapping**
+
+- arxiv: [http://arxiv.org/abs/1412.6596](http://arxiv.org/abs/1412.6596)
