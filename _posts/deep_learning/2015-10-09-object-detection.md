@@ -213,6 +213,10 @@ bounding boxes (which are shared for these categories).
 
 - arxiv: [http://arxiv.org/abs/1512.04143](http://arxiv.org/abs/1512.04143)
 
+**G-CNN: an Iterative Grid Based Object Detector**
+
+- arxiv: [http://arxiv.org/abs/1512.07729](http://arxiv.org/abs/1512.07729)
+
 # Tutorials
 
 **Convolutional Feature Maps: Elements of efficient (and accurate) CNN-based object detection**
