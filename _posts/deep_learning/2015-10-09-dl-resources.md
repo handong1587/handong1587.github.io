@@ -104,6 +104,11 @@ date: 2015-10-09
 - paper: [http://arxiv.org/abs/1409.4842](http://arxiv.org/abs/1409.4842)
 - code: [https://github.com/google/inception](https://github.com/google/inception)
 
+**Building a deeper understanding of images**  <br />
+- blog: [http://googleresearch.blogspot.jp/2014/09/building-deeper-understanding-of-images.html](http://googleresearch.blogspot.jp/2014/09/building-deeper-understanding-of-images.html)
+
+- - -
+
 **Very Deep Convolutional Networks for Large-Scale Image Recognition (VGGNet)**
 
 - homepage: [http://www.robots.ox.ac.uk/~vgg/research/very_deep/](http://www.robots.ox.ac.uk/~vgg/research/very_deep/)
