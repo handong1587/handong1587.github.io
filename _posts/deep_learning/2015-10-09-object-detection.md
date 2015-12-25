@@ -211,7 +211,12 @@ bounding boxes (which are shared for these categories).
 
 **Inside-Outside Net: Detecting Objects in Context with Skip Pooling and Recurrent Neural Networks**
 
+- intro: "ION improves state-of-the-art on PASCAL VOC 2012 object detection from 73.9% to 76.4% mAP,
+ state-of-the-art on MS COCO dataset from 19.7% to 33.1% mAP. 
+ ION model won the Best Student Entry and finished 3rd place overall in the 2015 MS COCO Detection Challenge."
 - arxiv: [http://arxiv.org/abs/1512.04143](http://arxiv.org/abs/1512.04143)
+- slides: [http://www.seanbell.ca/tmp/ion-coco-talk-bell2015.pdf](http://www.seanbell.ca/tmp/ion-coco-talk-bell2015.pdf)
+- coco-leaderboard: [http://mscoco.org/dataset/#detections-leaderboard](http://mscoco.org/dataset/#detections-leaderboard)
 
 **G-CNN: an Iterative Grid Based Object Detector**
 
