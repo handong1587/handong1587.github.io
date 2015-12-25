@@ -143,7 +143,7 @@ and Structured Prediction**
 - arXiv: [http://arxiv.org/abs/1505.02146](http://arxiv.org/abs/1505.02146)
 - github: [https://github.com/weichengkuo/DeepBox](https://github.com/weichengkuo/DeepBox)
 
-**Object detection via a multi-region & semantic segmentation-aware CNN model**
+**Object detection via a multi-region & semantic segmentation-aware CNN model (MR-CNN)**
 
 |Model     |Trained on|VOC 2007 mAP|
 |:--------:|:--------:|:----------:|
