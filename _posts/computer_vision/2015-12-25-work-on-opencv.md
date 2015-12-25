@@ -2,7 +2,7 @@
 layout: post
 category: computer_vision
 title: Work on OpenCV
-date: 2015-10-09
+date: 2015-12-25
 ---
 
 **Installation in Windows**
