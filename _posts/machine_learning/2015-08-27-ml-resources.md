@@ -412,6 +412,10 @@ date: 2015-08-27
 
 [https://github.com/ujjwalkarn/Machine-Learning-Tutorials/blob/master/README.md](https://github.com/ujjwalkarn/Machine-Learning-Tutorials/blob/master/README.md)
 
+**Useful Inequalities**
+
+[http://www.lkozma.net/inequalities_cheat_sheet/ineq.pdf](http://www.lkozma.net/inequalities_cheat_sheet/ineq.pdf)
+
 # Books
 
 **Machine Learning plus Intelligent Optimization: THE LION WAY, VERSION 2.0**
