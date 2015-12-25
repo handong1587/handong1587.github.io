@@ -70,6 +70,11 @@ attempts to represent something in a visually appealing and compact way
 
 # Video Tapestries
 
+**Digital Tapestry (MSR. CVPR 2005)**
+
+- homepage: [http://research.microsoft.com/apps/pubs/default.aspx?id=67404](http://research.microsoft.com/apps/pubs/default.aspx?id=67404)
+- paper: [http://pub.ist.ac.at/~vnk/papers/tapestry_cvpr05.pdf](http://pub.ist.ac.at/~vnk/papers/tapestry_cvpr05.pdf)
+
 **Video Tapestries with Continuous Temporal Zoom (Princeton. SIGGRAPH 2010)**
 
 ![](/assets/computer-vision/Video_Tapestries_teaser.png)
