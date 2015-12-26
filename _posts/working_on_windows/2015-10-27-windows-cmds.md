@@ -41,5 +41,6 @@ Target  specifies the path (relative or absolute) that the new link refers to.
 
 ## Video DownloadHelper
 
+- chrome-plugin: [https://chrome.google.com/webstore/detail/video-downloadhelper/lmjnegcaeklhafolokijcfjliaokphfk](https://chrome.google.com/webstore/detail/video-downloadhelper/lmjnegcaeklhafolokijcfjliaokphfk)
 - filefox-plugin: [https://addons.mozilla.org/zh-cn/firefox/addon/video-downloadhelper/](https://addons.mozilla.org/zh-cn/firefox/addon/video-downloadhelper/)
 - homepage: [http://www.downloadhelper.net/welcome.php?version=5.4.2](http://www.downloadhelper.net/welcome.php?version=5.4.2)
