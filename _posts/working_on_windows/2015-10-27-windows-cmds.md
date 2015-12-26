@@ -38,3 +38,8 @@ Target  specifies the path (relative or absolute) that the new link refers to.
 **A Utility to Unassociate File Types in Windows 7 and Vista**
 
 [http://www.winhelponline.com/blog/unassociate-file-types-windows-7-vista/](http://www.winhelponline.com/blog/unassociate-file-types-windows-7-vista/)
+
+## Video DownloadHelper
+
+- filefox-plugin: [https://addons.mozilla.org/zh-cn/firefox/addon/video-downloadhelper/](https://addons.mozilla.org/zh-cn/firefox/addon/video-downloadhelper/)
+- homepage: [http://www.downloadhelper.net/welcome.php?version=5.4.2](http://www.downloadhelper.net/welcome.php?version=5.4.2)
