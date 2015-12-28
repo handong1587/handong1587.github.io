@@ -5,6 +5,14 @@ title: RNN and LSTM
 date: 2015-10-09
 ---
 
+# Types of RNN
+
+1) Plain Tanh Recurrent Nerual Networks
+
+2) Gated Recurrent Neural Networks (GRU)
+
+3) Long Short-Term Memory (LSTM)
+
 # Tutorials
 
 **A Beginner’s Guide to Recurrent Networks and LSTMs**
@@ -39,26 +47,11 @@ date: 2015-10-09
 - arXiv: [http://arxiv.org/abs/1502.04623](http://arxiv.org/abs/1502.04623)
 - github: [https://github.com/vivanov879/draw](https://github.com/vivanov879/draw)
 
-**Inferring Algorithmic Patterns with Stack-Augmented Recurrent Nets**
-
-- paper: [http://arxiv.org/abs/1503.01007](http://arxiv.org/abs/1503.01007)
-- code: [https://github.com/facebook/Stack-RNN](https://github.com/facebook/Stack-RNN)
-
-**Depth-Gated LSTM**
-
-- paper: [http://arxiv.org/abs/1508.03790](http://arxiv.org/abs/1508.03790)
-- code: [GitHub(dglstm.h+dglstm.cc)](https://github.com/kaishengyao/cnn/tree/master/cnn)
-
 **Unsupervised Learning of Video Representations using LSTMs(ICML2015)**
 
 - project: [http://www.cs.toronto.edu/~nitish/unsupervised_video/](http://www.cs.toronto.edu/~nitish/unsupervised_video/)
 - paper: [http://arxiv.org/abs/1502.04681](http://arxiv.org/abs/1502.04681)
 - code: [http://www.cs.toronto.edu/~nitish/unsupervised_video/unsup_video_lstm.tar.gz](http://www.cs.toronto.edu/~nitish/unsupervised_video/unsup_video_lstm.tar.gz)
-
-**Visualizing and Understanding Recurrent Networks(Andrej Karpathy, Justin Johnson, Fei-Fei Li)**
-
-- paper: [http://arxiv.org/abs/1506.02078](http://arxiv.org/abs/1506.02078)
-- slides: [http://www.robots.ox.ac.uk/~seminars/seminars/Extra/2015_07_06_AndrejKarpathy.pdf](http://www.robots.ox.ac.uk/~seminars/seminars/Extra/2015_07_06_AndrejKarpathy.pdf)
 
 **LSTM: A Search Space Odyssey**
 
@@ -66,18 +59,33 @@ date: 2015-10-09
 - notes: "Notes on LSTM: A Search Space Odyssey" by Hugo Larochelle    <br />
 [https://www.evernote.com/shard/s189/sh/48da42c5-8106-4f0d-b835-c203466bfac4/50d7a3c9a961aefd937fae3eebc6f540](https://www.evernote.com/shard/s189/sh/48da42c5-8106-4f0d-b835-c203466bfac4/50d7a3c9a961aefd937fae3eebc6f540)
 
-**A Critical Review of Recurrent Neural Networks for Sequence Learning**
+**Inferring Algorithmic Patterns with Stack-Augmented Recurrent Nets**
 
-- arXiv: [http://arxiv.org/abs/1506.00019](http://arxiv.org/abs/1506.00019)
-- intro: "A rigorous & readable review on RNNs"  <br /> [http://blog.terminal.com/a-thorough-and-readable-review-on-rnns/](http://blog.terminal.com/a-thorough-and-readable-review-on-rnns/)
+- paper: [http://arxiv.org/abs/1503.01007](http://arxiv.org/abs/1503.01007)
+- code: [https://github.com/facebook/Stack-RNN](https://github.com/facebook/Stack-RNN)
 
 **Jointly Modeling Embedding and Translation to Bridge Video and Language**
 
 - arXiv: [http://arxiv.org/abs/1505.01861](http://arxiv.org/abs/1505.01861)
 
+**A Critical Review of Recurrent Neural Networks for Sequence Learning**
+
+- arXiv: [http://arxiv.org/abs/1506.00019](http://arxiv.org/abs/1506.00019)
+- intro: "A rigorous & readable review on RNNs"  <br /> [http://blog.terminal.com/a-thorough-and-readable-review-on-rnns/](http://blog.terminal.com/a-thorough-and-readable-review-on-rnns/)
+
 **Scheduled Sampling for Sequence Prediction with Recurrent Neural Networks(Winner of MSCOCO image captioning challenge, 2015)**
 
 - arXiv: [http://arxiv.org/abs/1506.03099](http://arxiv.org/abs/1506.03099)
+
+**Visualizing and Understanding Recurrent Networks(Andrej Karpathy, Justin Johnson, Fei-Fei Li)**
+
+- paper: [http://arxiv.org/abs/1506.02078](http://arxiv.org/abs/1506.02078)
+- slides: [http://www.robots.ox.ac.uk/~seminars/seminars/Extra/2015_07_06_AndrejKarpathy.pdf](http://www.robots.ox.ac.uk/~seminars/seminars/Extra/2015_07_06_AndrejKarpathy.pdf)
+
+**Depth-Gated LSTM**
+
+- paper: [http://arxiv.org/abs/1508.03790](http://arxiv.org/abs/1508.03790)
+- code: [GitHub(dglstm.h+dglstm.cc)](https://github.com/kaishengyao/cnn/tree/master/cnn)
 
 **Deep Knowledge Tracing**
 
