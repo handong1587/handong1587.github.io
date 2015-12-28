@@ -127,6 +127,7 @@ date: 2015-10-09
 
 - arxiv: [http://arxiv.org/abs/1512.03385](http://arxiv.org/abs/1512.03385)
 - slides: [http://research.microsoft.com/en-us/um/people/kahe/ilsvrc15/ilsvrc2015_deep_residual_learning_kaiminghe.pdf](http://research.microsoft.com/en-us/um/people/kahe/ilsvrc15/ilsvrc2015_deep_residual_learning_kaiminghe.pdf)
+- github: [https://github.com/alrojo/lasagne_residual_network](https://github.com/alrojo/lasagne_residual_network)
 
 # Optimization Methods
 

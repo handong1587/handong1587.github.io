@@ -17,6 +17,24 @@ date: 2015-10-09
 
 # Papers
 
+**Playing Atari with Deep Reinforcement Learning(Google DeepMind)**
+
+- arXiv: [http://arxiv.org/abs/1312.5602](http://arxiv.org/abs/1312.5602)
+- github: [https://github.com/kristjankorjus/Replicating-DeepMind](https://github.com/kristjankorjus/Replicating-DeepMind)
+- demo: [http://cs.stanford.edu/people/karpathy/convnetjs/demo/rldemo.html](http://cs.stanford.edu/people/karpathy/convnetjs/demo/rldemo.html)
+
+**Incentivizing Exploration In Reinforcement Learning With Deep Predictive Models**
+
+- arXiv: [http://arxiv.org/abs/1507.00814](http://arxiv.org/abs/1507.00814)
+- notes: [https://www.evernote.com/shard/s189/sh/a4262b84-a322-4f77-9a76-569278be84af/b8c3e146a76ca3853f560bb03b60a481](https://www.evernote.com/shard/s189/sh/a4262b84-a322-4f77-9a76-569278be84af/b8c3e146a76ca3853f560bb03b60a481)
+
+**Action-Conditional Video Prediction using Deep Networks in Atari Games**
+
+- homepage: [https://sites.google.com/a/umich.edu/junhyuk-oh/action-conditional-video-prediction](https://sites.google.com/a/umich.edu/junhyuk-oh/action-conditional-video-prediction)
+- arxiv: [http://arxiv.org/abs/1507.08750](http://arxiv.org/abs/1507.08750)
+- github: [https://github.com/junhyukoh/nips2015-action-conditional-video-prediction](https://github.com/junhyukoh/nips2015-action-conditional-video-prediction)
+- video: [http://video.weibo.com/show?fid=1034:98062f3d83e41da6faa99cde5aa1ac97](http://video.weibo.com/show?fid=1034:98062f3d83e41da6faa99cde5aa1ac97)
+
 **Continuous control with deep reinforcement learning(Google Deepmind)**
 
 - paper: [http://arxiv.org/abs/1509.02971](http://arxiv.org/abs/1509.02971)
@@ -30,17 +48,6 @@ date: 2015-10-09
 **Giraffe: Using Deep Reinforcement Learning to Play Chess**
 
 - paper: [http://arxiv.org/abs/1509.01549](http://arxiv.org/abs/1509.01549)
-
-**Incentivizing Exploration In Reinforcement Learning With Deep Predictive Models**
-
-- arXiv: [http://arxiv.org/abs/1507.00814](http://arxiv.org/abs/1507.00814)
-- notes: [https://www.evernote.com/shard/s189/sh/a4262b84-a322-4f77-9a76-569278be84af/b8c3e146a76ca3853f560bb03b60a481](https://www.evernote.com/shard/s189/sh/a4262b84-a322-4f77-9a76-569278be84af/b8c3e146a76ca3853f560bb03b60a481)
-
-**Playing Atari with Deep Reinforcement Learning(Google DeepMind)**
-
-- arXiv: [http://arxiv.org/abs/1312.5602](http://arxiv.org/abs/1312.5602)
-- github: [https://github.com/kristjankorjus/Replicating-DeepMind](https://github.com/kristjankorjus/Replicating-DeepMind)
-- demo: [http://cs.stanford.edu/people/karpathy/convnetjs/demo/rldemo.html](http://cs.stanford.edu/people/karpathy/convnetjs/demo/rldemo.html)
 
 **Human-level control through deep reinforcement learning(Google DeepMind. 2015 Nature)**
 
