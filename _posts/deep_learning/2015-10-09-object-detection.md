@@ -211,6 +211,32 @@ bounding boxes (which are shared for these categories).
 
 **Inside-Outside Net: Detecting Objects in Context with Skip Pooling and Recurrent Neural Networks**
 
+Detection results on VOC 2007 test:
+
+| Method | R | S | W | D | Train   | mAP  |
+|:------:|:-:|:-:|:-:|:-:|:-------:|:----:|
+| FRCN   |   |   |   |   | 07+12   | 70.0 |
+| RPN    |   |   |   |   | 07+12   | 73.2 |
+| MR-CNN |   |   | √ |   | 07+12   | 78.2 |
+|:------:|:-:|:-:|:-:|:-:|:-------:|:----:|
+| ION    |   |   |   |   | 07+12   | 74.6 |
+| ION    | √ |   |   |   | 07+12   | 75.6 |
+| ION    | √ | √ |   |   | 07+12+S | 76.5 |
+| ION    | √ | √ | √ |   | 07+12+S | 78.5 |
+| ION    | √ | √ | √ | √ | 07+12+S | 79.2 |
+
+Detection results on VOC 2012 test:
+
+| Method    | R | S | W | D | Train   | mAP  |
+|:---------:|:-:|:-:|:-:|:-:|:-------:|:----:|
+| FRCN      |   |   |   |   | 07++12  | 68.4 |
+| RPN       |   |   |   |   | 07++12  | 70.4 |
+| FRCN+YOLO |   |   |   |   | 07++12  | 70.4 |
+| HyperNet  |   |   |   |   | 07++12  | 71.4 |
+| MR-CNN    |   |   | √ |   | 07+12   | 73.9 |
+|:---------:|:-:|:-:|:-:|:-:|:-------:|:----:|
+| ION       | √ | √ | √ | √ | 07+12+S | 76.4 |
+
 - intro: "ION improves state-of-the-art on PASCAL VOC 2012 object detection from 73.9% to 76.4% mAP,
  state-of-the-art on MS COCO dataset from 19.7% to 33.1% mAP. 
  ION model won the Best Student Entry and finished 3rd place overall in the 2015 MS COCO Detection Challenge."
