@@ -40,7 +40,19 @@ date: 2015-10-09
 - blog: [http://colah.github.io/posts/2015-08-Understanding-LSTMs/](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
 - ZH: [http://www.jianshu.com/p/9dc9f41f0b29](http://www.jianshu.com/p/9dc9f41f0b29)
 
-# Paper
+# Train RNN
+
+**A Simple Way to Initialize Recurrent Networks of Rectified Linear Units**
+
+- arxiv: [http://arxiv.org/abs/1504.00941](http://arxiv.org/abs/1504.00941)
+- gitxiv: [http://gitxiv.com/posts/7j5JXvP3kn5Jf8Waj/irnn-experiment-with-pixel-by-pixel-sequential-mnist](http://gitxiv.com/posts/7j5JXvP3kn5Jf8Waj/irnn-experiment-with-pixel-by-pixel-sequential-mnist)
+- github: [https://github.com/fchollet/keras/blob/master/examples/mnist_irnn.py](https://github.com/fchollet/keras/blob/master/examples/mnist_irnn.py)
+- github: [https://gist.github.com/GabrielPereyra/353499f2e6e407883b32](https://gist.github.com/GabrielPereyra/353499f2e6e407883b32)
+- blog("Implementing Recurrent Neural Net using chainer!"): [http://t-satoshi.blogspot.jp/2015/06/implementing-recurrent-neural-net-using.html](http://t-satoshi.blogspot.jp/2015/06/implementing-recurrent-neural-net-using.html)
+- reddit: [https://www.reddit.com/r/MachineLearning/comments/31rinf/150400941_a_simple_way_to_initialize_recurrent/](https://www.reddit.com/r/MachineLearning/comments/31rinf/150400941_a_simple_way_to_initialize_recurrent/)
+- reddit: [https://www.reddit.com/r/MachineLearning/comments/32tgvw/has_anyone_been_able_to_reproduce_the_results_in/](https://www.reddit.com/r/MachineLearning/comments/32tgvw/has_anyone_been_able_to_reproduce_the_results_in/)
+
+# Papers
 
 **DRAW: A Recurrent Neural Network For Image Generation**
 
