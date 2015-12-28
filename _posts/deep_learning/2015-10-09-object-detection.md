@@ -247,6 +247,11 @@ and 1.15s per image with it".
 
 - arxiv: [http://arxiv.org/abs/1512.07729](http://arxiv.org/abs/1512.07729)
 
+**Learning Deep Features for Discriminative Localization**
+
+- homepage: [http://cnnlocalization.csail.mit.edu/](http://cnnlocalization.csail.mit.edu/)
+- arxiv: [http://arxiv.org/abs/1512.04150](http://arxiv.org/abs/1512.04150)
+
 # Tutorials
 
 **Convolutional Feature Maps: Elements of efficient (and accurate) CNN-based object detection**
