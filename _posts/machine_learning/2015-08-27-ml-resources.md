@@ -154,6 +154,11 @@ date: 2015-08-27
 
 - paper: [http://homepages.inf.ed.ac.uk/rbf/CVonline/LOCAL_COPIES/AV0809/eshky.pdf](http://homepages.inf.ed.ac.uk/rbf/CVonline/LOCAL_COPIES/AV0809/eshky.pdf)
 
+**A Tutorial on Bayesian Belief Networks (2001)**
+
+- paper: [http://dspace.dsto.defence.gov.au/dspace/bitstream/1947/3537/1/DSTO-TN-0403.pdf](http://dspace.dsto.defence.gov.au/dspace/bitstream/1947/3537/1/DSTO-TN-0403.pdf)
+- paper: [http://pan.baidu.com/s/1eQNtUxW](http://pan.baidu.com/s/1eQNtUxW)
+
 # Graphical Models
 
 "A Brief Introduction to Graphical Models and Bayesian Networks"
