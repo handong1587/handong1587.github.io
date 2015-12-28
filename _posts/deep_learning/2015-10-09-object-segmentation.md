@@ -16,9 +16,11 @@ date: 2015-10-09
 
 **Fully Convolutional Networks for Semantic Segmentation**
 
-- paper: [http://arxiv.org/abs/1411.4038](http://arxiv.org/abs/1411.4038)
-- code: [https://github.com/BVLC/caffe/wiki/Model-Zoo#fcn](https://github.com/BVLC/caffe/wiki/Model-Zoo#fcn)
+- arxiv: [http://arxiv.org/abs/1411.4038](http://arxiv.org/abs/1411.4038)
+- keywords: deconvolutional layer, crop layer
+- slides: [https://docs.google.com/presentation/d/1VeWFMpZ8XN7OC3URZP4WdXvOGYckoFWGVN7hApoXVnc](https://docs.google.com/presentation/d/1VeWFMpZ8XN7OC3URZP4WdXvOGYckoFWGVN7hApoXVnc)
 - slides: [http://tutorial.caffe.berkeleyvision.org/caffe-cvpr15-pixels.pdf](http://tutorial.caffe.berkeleyvision.org/caffe-cvpr15-pixels.pdf)
+- github: [https://github.com/BVLC/caffe/wiki/Model-Zoo#fcn](https://github.com/BVLC/caffe/wiki/Model-Zoo#fcn)
 - notes: [http://zhangliliang.com/2014/11/28/paper-note-fcn-segment/](http://zhangliliang.com/2014/11/28/paper-note-fcn-segment/)
 
 **Semantic Image Segmentation with Deep Convolutional Nets and Fully Connected CRFs("DeepLab")**
