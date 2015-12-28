@@ -103,11 +103,7 @@ date: 2015-10-09
 
 - paper: [http://arxiv.org/abs/1409.4842](http://arxiv.org/abs/1409.4842)
 - code: [https://github.com/google/inception](https://github.com/google/inception)
-
-**Building a deeper understanding of images**  <br />
-- blog: [http://googleresearch.blogspot.jp/2014/09/building-deeper-understanding-of-images.html](http://googleresearch.blogspot.jp/2014/09/building-deeper-understanding-of-images.html)
-
-- - -
+- blog("Building a deeper understanding of images"): [http://googleresearch.blogspot.jp/2014/09/building-deeper-understanding-of-images.html](http://googleresearch.blogspot.jp/2014/09/building-deeper-understanding-of-images.html)
 
 **Very Deep Convolutional Networks for Large-Scale Image Recognition (VGGNet)**
 
@@ -119,7 +115,7 @@ date: 2015-10-09
 
 **Rethinking the Inception Architecture for Computer Vision (Inception-v3)**
 
-- introduction: "21.2% top-1 and 5.6% top-5 error for single frame evaluation using a network; 
+- intro: "21.2% top-1 and 5.6% top-5 error for single frame evaluation using a network; 
 3.5% top-5 error and 17.3% top-1 error With an ensemble of 4 models and multi-crop evaluation."
 - arXiv: [http://arxiv.org/abs/1512.00567](http://arxiv.org/abs/1512.00567)
 
@@ -127,7 +123,9 @@ date: 2015-10-09
 
 - arxiv: [http://arxiv.org/abs/1512.03385](http://arxiv.org/abs/1512.03385)
 - slides: [http://research.microsoft.com/en-us/um/people/kahe/ilsvrc15/ilsvrc2015_deep_residual_learning_kaiminghe.pdf](http://research.microsoft.com/en-us/um/people/kahe/ilsvrc15/ilsvrc2015_deep_residual_learning_kaiminghe.pdf)
+- gitxiv: [http://gitxiv.com/posts/LgPRdTY3cwPBiMKbm/deep-residual-learning-for-image-recognition](http://gitxiv.com/posts/LgPRdTY3cwPBiMKbm/deep-residual-learning-for-image-recognition)
 - github: [https://github.com/alrojo/lasagne_residual_network](https://github.com/alrojo/lasagne_residual_network)
+- github: [https://github.com/shuokay/resnet](https://github.com/shuokay/resnet)
 
 # Optimization Methods
 
