@@ -158,6 +158,10 @@ date: 2015-10-09
 - intro: SGD/Momentum/NAG/Adagrad/RMSProp/Adadelta/Adam/ESGD/Adasecant/vSGD/Rprop
 - blog: [http://colinraffel.com/wiki/stochastic_optimization_techniques](http://colinraffel.com/wiki/stochastic_optimization_techniques)
 
+**Alec Radford's animations for optimization algorithms**
+
+[http://www.denizyuret.com/2015/03/alec-radfords-animations-for.html](http://www.denizyuret.com/2015/03/alec-radfords-animations-for.html)
+
 # Activation functions
 
 **Delving Deep into Rectifiers: Surpassing Human-Level Performance on ImageNet Classification (PReLU)**
