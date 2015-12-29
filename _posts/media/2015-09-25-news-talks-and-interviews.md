@@ -64,3 +64,11 @@ date: 2015-09-25
 <img src="/assets/news_talks_interviews/Amazon-Smart-Zoom.jpg" width="600" />
 
 [http://www.donohuereport.com/amazon-developing-smart-zoom-for-4k-8k-video/](http://www.donohuereport.com/amazon-developing-smart-zoom-for-4k-8k-video/)
+
+# Art 
+
+**Profile in Computational Imagination: Łukasz Kidziński & Michał Warchoł of deepart.io**
+
+![](/assets/news_talks_interviews/lukasz_med.jpg) ![](/assets/news_talks_interviews/michal_med.jpg) 
+
+[http://computationalimagination.com/interview_deepart.php](http://computationalimagination.com/interview_deepart.php)

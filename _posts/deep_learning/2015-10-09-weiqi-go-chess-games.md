@@ -27,7 +27,7 @@ date: 2015-10-09
 
 # Chess
 
-**Giraffe: Using Deep Reinforcement Learning to Play Chess**
+**Giraffe: Using Deep Reinforcement Learning to Play Chess (MSc thesis)**
 
 - arXiv: [http://arxiv.org/abs/1509.01549](http://arxiv.org/abs/1509.01549)
 

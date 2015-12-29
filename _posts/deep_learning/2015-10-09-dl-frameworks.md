@@ -70,6 +70,10 @@ date: 2015-10-09
 - homepage: [http://deeplearningkit.org/](http://deeplearningkit.org/)
 - github: [https://github.com/DeepLearningKit/DeepLearningKit](https://github.com/DeepLearningKit/DeepLearningKit)
 
+**Tutorial — Using DeepLearningKit with iOS for iPhone and iPad**
+
+[https://medium.com/@atveit/tutorial-using-deeplearningkit-with-ios-for-iphone-and-ipad-de727679bae4#.1bvnhxhjo](https://medium.com/@atveit/tutorial-using-deeplearningkit-with-ios-for-iphone-and-ipad-de727679bae4#.1bvnhxhjo)
+
 # DIGITS
 
 **DIGITS: the Deep Learning GPU Training System**
