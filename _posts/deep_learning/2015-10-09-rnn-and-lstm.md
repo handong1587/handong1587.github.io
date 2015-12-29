@@ -58,6 +58,8 @@ date: 2015-10-09
 
 - arXiv: [http://arxiv.org/abs/1502.04623](http://arxiv.org/abs/1502.04623)
 - github: [https://github.com/vivanov879/draw](https://github.com/vivanov879/draw)
+- github(Theano): [https://github.com/jbornschein/draw](https://github.com/jbornschein/draw)
+- github(Lasagne): [https://github.com/skaae/lasagne-draw](https://github.com/skaae/lasagne-draw)
 
 **Unsupervised Learning of Video Representations using LSTMs(ICML2015)**
 
