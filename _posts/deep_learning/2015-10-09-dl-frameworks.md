@@ -63,7 +63,9 @@ date: 2015-10-09
 
 - website: [http://deeplearning4j.org/](http://deeplearning4j.org/)
 
-# DeepLearningKit: Open Source Deep Learning Framework for Apple's tvOS, iOS and OS X
+# DeepLearningKit
+
+**DeepLearningKit: Open Source Deep Learning Framework for Apple's tvOS, iOS and OS X**
 
 - homepage: [http://deeplearningkit.org/](http://deeplearningkit.org/)
 - github: [https://github.com/DeepLearningKit/DeepLearningKit](https://github.com/DeepLearningKit/DeepLearningKit)
