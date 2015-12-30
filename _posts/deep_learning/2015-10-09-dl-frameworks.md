@@ -241,3 +241,7 @@ date: 2015-10-09
 **TensorFlow vs. Theano vs. Torch**
 
 [https://github.com/zer0n/deepframeworks/blob/master/README.md](https://github.com/zer0n/deepframeworks/blob/master/README.md)
+
+**Evaluation of Deep Learning Toolkits**
+
+[https://github.com/zer0n/deepframeworks/blob/master/README.md](https://github.com/zer0n/deepframeworks/blob/master/README.md)
