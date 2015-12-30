@@ -39,6 +39,10 @@ date: 2015-09-25
 
 [https://cs.lbl.gov/news-media/news/2015/berkeley-lab-explores-frontiers-of-deep-learning-for-science/](https://cs.lbl.gov/news-media/news/2015/berkeley-lab-explores-frontiers-of-deep-learning-for-science/)
 
+**How Microsoft beat Google at understanding images with machine learning**
+
+[http://www.in.techradar.com/news/world-of-tech/How-Microsoft-beat-Google-at-understanding-images-with-machine-learning/articleshow/50354135.cms](http://www.in.techradar.com/news/world-of-tech/How-Microsoft-beat-Google-at-understanding-images-with-machine-learning/articleshow/50354135.cms)
+
 # Self-driving Cars
 
 **Self-driving cars: How far away are we REALLY from autonomous cars?(7 Aug 2015)**
