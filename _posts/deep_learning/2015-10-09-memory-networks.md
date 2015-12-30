@@ -21,6 +21,8 @@ date: 2015-10-09
 
 - arXiv: [http://arxiv.org/abs/1503.08895](http://arxiv.org/abs/1503.08895)
 - github: [https://github.com/facebook/MemNN](https://github.com/facebook/MemNN)
+- video: [http://research.microsoft.com/apps/video/default.aspx?id=259920&r=1](http://research.microsoft.com/apps/video/default.aspx?id=259920&r=1)
+- video: [http://pan.baidu.com/s/1pKiGLzP](http://pan.baidu.com/s/1pKiGLzP)
 
 **Learning to Transduce with Unbounded Memory**
 
