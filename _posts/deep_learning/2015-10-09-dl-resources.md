@@ -227,6 +227,13 @@ date: 2015-10-09
 - slides: [https://piotrmirowski.files.wordpress.com/2014/03/piotrmirowski_2014_reviewautoencoders.pdf](https://piotrmirowski.files.wordpress.com/2014/03/piotrmirowski_2014_reviewautoencoders.pdf)
 - github: [https://github.com/piotrmirowski/Tutorial_AutoEncoders/](https://github.com/piotrmirowski/Tutorial_AutoEncoders/)
 
+# Semi-Supervised Learning
+
+**Semi-Supervised Learning with Graphs (Label Propagation)**
+
+- paper: [http://pages.cs.wisc.edu/~jerryzhu/pub/thesis.pdf](http://pages.cs.wisc.edu/~jerryzhu/pub/thesis.pdf)
+- blog("标签传播算法（Label Propagation）及Python实现"): [http://blog.csdn.net/zouxy09/article/details/49105265](http://blog.csdn.net/zouxy09/article/details/49105265)
+
 # Unsupervised Learning
 
 **Unsupervised Learning of Spatiotemporally Coherent Metrics**
