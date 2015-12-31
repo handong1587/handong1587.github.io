@@ -33,6 +33,7 @@ date: 2015-10-09
 - tutorial: [http://tutorial.caffe.berkeleyvision.org/](http://tutorial.caffe.berkeleyvision.org/)
 - slides: [http://vision.stanford.edu/teaching/cs231n/slides/caffe_tutorial.pdf](http://vision.stanford.edu/teaching/cs231n/slides/caffe_tutorial.pdf)
 - slides: [http://vision.princeton.edu/courses/COS598/2015sp/slides/Caffe/caffe_tutorial.pdf](http://vision.princeton.edu/courses/COS598/2015sp/slides/Caffe/caffe_tutorial.pdf)
+- tutorials("CAFFE with CUDA"): [http://pan.baidu.com/s/1i4kmpyH](http://pan.baidu.com/s/1i4kmpyH)
 
 **OpenCV 3.0.0-dev: Load Caffe framework models**
 

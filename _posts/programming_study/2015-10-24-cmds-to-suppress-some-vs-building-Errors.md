@@ -18,3 +18,9 @@ c:\program files\microsoft visual studio 14.0\vc\include\xutility(2230): error C
 (3) **/D _CRT_NONSTDC_NO_DEPRECATE**: to suppress warnings:
 
 error C4996: 'close': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _close. See online help for details.
+
+(4) **/D _SILENCE_STDEXT_HASH_DEPRECATION_WARNINGS**
+
+c:\program files (x86)\microsoft visual studio 14.0\vc\include\hash_map(17): 
+error C2338: <hash_map> is deprecated and will be REMOVED. Please use <unordered_map>. 
+You can define _SILENCE_STDEXT_HASH_DEPRECATION_WARNINGS to acknowledge that you have received this warning.
