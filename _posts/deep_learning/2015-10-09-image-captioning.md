@@ -5,17 +5,10 @@ title: Image Captioning
 date: 2015-10-09
 ---
 
-**Optimizing Neural Networks That Generate Images(2014)**
+**Optimizing Neural Networks That Generate Images(2014. PhD thesis)**
 
-PhD thesis: [http://www.cs.toronto.edu/~tijmen/tijmen_thesis.pdf](http://www.cs.toronto.edu/~tijmen/tijmen_thesis.pdf)
-
-github: [https://github.com/mrkulk/Unsupervised-Capsule-Network](https://github.com/mrkulk/Unsupervised-Capsule-Network)
-
-**Expressing an Image Stream with a Sequence of Natural Sentences(NIPS 2015)**
-
-- paper: [http://www.cs.cmu.edu/~gunhee/publish/nips15_stream2text.pdf](http://www.cs.cmu.edu/~gunhee/publish/nips15_stream2text.pdf)
-- github: [https://github.com/cesc-park/CRCN](https://github.com/cesc-park/CRCN)
-- author page: [http://www.cs.cmu.edu/~gunhee/](http://www.cs.cmu.edu/~gunhee/)
+- paper : [http://www.cs.toronto.edu/~tijmen/tijmen_thesis.pdf](http://www.cs.toronto.edu/~tijmen/tijmen_thesis.pdf)
+- github: [https://github.com/mrkulk/Unsupervised-Capsule-Network](https://github.com/mrkulk/Unsupervised-Capsule-Network)
 
 **Show and Tell: A Neural Image Caption Generator(Google)**
 
@@ -71,4 +64,5 @@ github: [https://github.com/mrkulk/Unsupervised-Capsule-Network](https://github.
 - nips-page: [http://papers.nips.cc/paper/5776-expressing-an-image-stream-with-a-sequence-of-natural-sentences](http://papers.nips.cc/paper/5776-expressing-an-image-stream-with-a-sequence-of-natural-sentences)
 - paper: [http://papers.nips.cc/paper/5776-expressing-an-image-stream-with-a-sequence-of-natural-sentences.pdf](http://papers.nips.cc/paper/5776-expressing-an-image-stream-with-a-sequence-of-natural-sentences.pdf)
 - paper: [http://www.cs.cmu.edu/~gunhee/publish/nips15_stream2text.pdf](http://www.cs.cmu.edu/~gunhee/publish/nips15_stream2text.pdf)
+- author-page: [http://www.cs.cmu.edu/~gunhee/](http://www.cs.cmu.edu/~gunhee/)
 - github: [https://github.com/cesc-park/CRCN](https://github.com/cesc-park/CRCN)
