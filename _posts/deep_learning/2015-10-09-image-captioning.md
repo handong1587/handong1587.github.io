@@ -63,3 +63,12 @@ github: [https://github.com/mrkulk/Unsupervised-Capsule-Network](https://github.
 **DenseCap: Fully Convolutional Localization Networks for Dense Captioning**
 
 - arXiv: [http://arxiv.org/abs/1511.07571](http://arxiv.org/abs/1511.07571)
+
+**Expressing an Image Stream with a Sequence of Natural Sentences (CRCN. NIPS 2015)**
+
+![](/assets/image_captioning/stream2text_nips.jpg)
+
+- nips-page: [http://papers.nips.cc/paper/5776-expressing-an-image-stream-with-a-sequence-of-natural-sentences](http://papers.nips.cc/paper/5776-expressing-an-image-stream-with-a-sequence-of-natural-sentences)
+- paper: [http://papers.nips.cc/paper/5776-expressing-an-image-stream-with-a-sequence-of-natural-sentences.pdf](http://papers.nips.cc/paper/5776-expressing-an-image-stream-with-a-sequence-of-natural-sentences.pdf)
+- paper: [http://www.cs.cmu.edu/~gunhee/publish/nips15_stream2text.pdf](http://www.cs.cmu.edu/~gunhee/publish/nips15_stream2text.pdf)
+- github: [https://github.com/cesc-park/CRCN](https://github.com/cesc-park/CRCN)
