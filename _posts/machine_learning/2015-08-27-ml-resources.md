@@ -322,6 +322,10 @@ date: 2015-08-27
 - arxiv: [http://arxiv.org/abs/1507.08751](http://arxiv.org/abs/1507.08751)
 - github: [https://github.com/frankong/multi_scale_low_rank](https://github.com/frankong/multi_scale_low_rank)
 
+**k-Means Clustering Is Matrix Factorization**
+
+- arxiv: [http://arxiv.org/abs/1512.07548](http://arxiv.org/abs/1512.07548)
+
 # PCA/SVD
 
 **Fast Randomized PCA/SVD**
