@@ -39,8 +39,16 @@ Target  specifies the path (relative or absolute) that the new link refers to.
 
 [http://www.winhelponline.com/blog/unassociate-file-types-windows-7-vista/](http://www.winhelponline.com/blog/unassociate-file-types-windows-7-vista/)
 
-## Video DownloadHelper
+**Video DownloadHelper**
 
 - chrome-plugin: [https://chrome.google.com/webstore/detail/video-downloadhelper/lmjnegcaeklhafolokijcfjliaokphfk](https://chrome.google.com/webstore/detail/video-downloadhelper/lmjnegcaeklhafolokijcfjliaokphfk)
 - filefox-plugin: [https://addons.mozilla.org/zh-cn/firefox/addon/video-downloadhelper/](https://addons.mozilla.org/zh-cn/firefox/addon/video-downloadhelper/)
 - homepage: [http://www.downloadhelper.net/welcome.php?version=5.4.2](http://www.downloadhelper.net/welcome.php?version=5.4.2)
+
+**BulkFileChanger**
+
+- intro: "BulkFileChanger is a small utility that allows you to create files list from multiple folders, 
+and then make some action on them - Modify their created/modified/accessed time, 
+change their file attribute (Read Only, Hidden, System), 
+run an executable with these files as parameter, and copy/cut paste into Explorer."
+- website: [http://www.nirsoft.net/utils/bulk_file_changer.html](http://www.nirsoft.net/utils/bulk_file_changer.html)
