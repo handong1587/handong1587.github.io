@@ -116,3 +116,23 @@ date: 2015-10-09
 
 - website: [https://gist.github.com/genekogan/d61c8010d470e1dbe15d](https://gist.github.com/genekogan/d61c8010d470e1dbe15d)
 - sample: [https://vimeo.com/139123754](https://vimeo.com/139123754)
+
+# Courses
+
+**Learning Machines**
+
+[http://www.patrickhebron.com/learning-machines/](http://www.patrickhebron.com/learning-machines/)
+
+**Learning Bit by Bit**
+
+[https://itp.nyu.edu/varwiki/Syllabus/LearningBitbyBitS10](https://itp.nyu.edu/varwiki/Syllabus/LearningBitbyBitS10)
+
+**MACHINE LEARNING FOR MUSICIANS AND ARTISTS (Course opens January 2016)**
+
+[https://www.kadenze.com/courses/machine-learning-for-musicians-and-artists/info](https://www.kadenze.com/courses/machine-learning-for-musicians-and-artists/info)
+
+**Machine learning for artists**
+
+![](/assets/dl_and_arts/Machine_learning_for_artists.jpeg)
+
+[https://medium.com/@genekogan/machine-learning-for-artists-e93d20fdb097#.25w95beqb](https://medium.com/@genekogan/machine-learning-for-artists-e93d20fdb097#.25w95beqb)

@@ -76,6 +76,8 @@ which encodes useful class information rather than individual units (feature act
 - arxiv: [http://arxiv.org/abs/1511.06434](http://arxiv.org/abs/1511.06434)
 - github: [https://github.com/Newmu/dcgan_code](https://github.com/Newmu/dcgan_code)
 - github: [https://github.com/mattya/chainer-DCGAN](https://github.com/mattya/chainer-DCGAN)
+- github: [https://github.com/soumith/dcgan.torch](https://github.com/soumith/dcgan.torch)
+- github: [https://github.com/carpedm20/DCGAN-tensorflow](https://github.com/carpedm20/DCGAN-tensorflow)
 
 # Blog
 
