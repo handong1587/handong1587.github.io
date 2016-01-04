@@ -487,6 +487,10 @@ date: 2015-10-09
 
 [http://deeplearning.net/reading-list/](http://deeplearning.net/reading-list/)
 
+**WILDML: A BLOG ABOUT MACHINE LEARNING, DEEP LEARNING AND NLP.**
+
+[http://www.wildml.com/](http://www.wildml.com/)
+
 **Andrej Karpathy blog**
 
 [http://karpathy.github.io/](http://karpathy.github.io/)

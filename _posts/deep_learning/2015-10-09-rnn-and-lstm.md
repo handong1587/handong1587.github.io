@@ -167,6 +167,10 @@ date: 2015-10-09
 
 - arxiv: [http://arxiv.org/abs/1511.02793](http://arxiv.org/abs/1511.02793)
 
+**ATTENTION AND MEMORY IN DEEP LEARNING AND NLP**
+
+- blog: [http://www.wildml.com/2016/01/attention-and-memory-in-deep-learning-and-nlp/](http://www.wildml.com/2016/01/attention-and-memory-in-deep-learning-and-nlp/)
+
 # Code
 
 **NeuralTalk (Deprecated): a Python+numpy project for learning Multimodal Recurrent Neural Networks that describe images with sentences**

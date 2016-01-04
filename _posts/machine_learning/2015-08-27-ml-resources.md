@@ -159,6 +159,11 @@ date: 2015-08-27
 - paper: [http://dspace.dsto.defence.gov.au/dspace/bitstream/1947/3537/1/DSTO-TN-0403.pdf](http://dspace.dsto.defence.gov.au/dspace/bitstream/1947/3537/1/DSTO-TN-0403.pdf)
 - paper: [http://pan.baidu.com/s/1eQNtUxW](http://pan.baidu.com/s/1eQNtUxW)
 
+**A Tutorial on Learning With Bayesian Networks**
+
+- page: [http://research.microsoft.com/apps/pubs/default.aspx?id=69588](http://research.microsoft.com/apps/pubs/default.aspx?id=69588)
+- paper: [http://research.microsoft.com/pubs/69588/tr-95-06.pdf](http://research.microsoft.com/pubs/69588/tr-95-06.pdf)
+
 # Graphical Models
 
 "A Brief Introduction to Graphical Models and Bayesian Networks"
@@ -298,6 +303,11 @@ date: 2015-08-27
 
 # Conditional Random Fields
 
+**conditional random fields**
+
+- intro: "This page contains material on, or relating to, conditional random fields."
+- blog: [http://www.inference.phy.cam.ac.uk/hmw26/crf/](http://www.inference.phy.cam.ac.uk/hmw26/crf/)
+
 **An Introduction to Conditional Random Fields**
 
 - arXiv: [http://arxiv.org/abs/1011.4088](http://arxiv.org/abs/1011.4088)
@@ -310,6 +320,12 @@ date: 2015-08-27
 
 - video: [http://videolectures.net/cikm08_elkan_llmacrf/](http://videolectures.net/cikm08_elkan_llmacrf/)
 - slides: [http://pan.baidu.com/s/1sjE0WfN](http://pan.baidu.com/s/1sjE0WfN)
+
+# Markov Networks
+
+**Markov Logic Networks**
+
+- paper: [http://homes.cs.washington.edu/~pedrod/papers/mlj05.pdf](http://homes.cs.washington.edu/~pedrod/papers/mlj05.pdf)
 
 # Matrix Factorization
 

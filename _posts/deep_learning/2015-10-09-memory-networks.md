@@ -32,3 +32,8 @@ date: 2015-10-09
 **Structured Memory for Neural Turing Machines(IBM Watson)**
 
 - arXiv: [http://arxiv.org/abs/1510.03931](http://arxiv.org/abs/1510.03931)
+
+**Reinforcement Learning Neural Turing Machines - Revised**
+
+- arxiv: [http://arxiv.org/abs/1505.00521](http://arxiv.org/abs/1505.00521)
+- github: [https://github.com/ilyasu123/rlntm](https://github.com/ilyasu123/rlntm)
