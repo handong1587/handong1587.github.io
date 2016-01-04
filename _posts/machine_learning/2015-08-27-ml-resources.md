@@ -107,6 +107,10 @@ date: 2015-08-27
 
 - blog: [http://www.infoworld.com/article/3010401/big-data/machine-learning-a-practical-introduction.html](http://www.infoworld.com/article/3010401/big-data/machine-learning-a-practical-introduction.html)
 
+**Tutorials on Machine Learning (Tom Dietterich)**
+
+[http://web.engr.oregonstate.edu/~tgd/projects/tutorials.html](http://web.engr.oregonstate.edu/~tgd/projects/tutorials.html)
+
 # Competitions
 
 **Machine learning best practices we've learned from hundreds of competitions (Kaggle: Ben Hamner)**
