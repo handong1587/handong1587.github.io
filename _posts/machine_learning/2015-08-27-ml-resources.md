@@ -361,7 +361,7 @@ date: 2015-08-27
 - arXiv: [http://arxiv.org/abs/1405.4980](http://arxiv.org/abs/1405.4980)
 - blog: [https://blogs.princeton.edu/imabandit/2015/11/30/convex-optimization-algorithms-and-complexity/](https://blogs.princeton.edu/imabandit/2015/11/30/convex-optimization-algorithms-and-complexity/)
 
-# Multilabel
+# Multilabel Learning
 
 **Neural Network Models for Multilabel Learning**
 
@@ -371,6 +371,12 @@ date: 2015-08-27
 **An Empirical Evaluation of Supervised Learning in High Dimensions**
 
 - paper: [http://lowrank.net/nikos/pubs/empirical.pdf](http://lowrank.net/nikos/pubs/empirical.pdf)
+
+# Multi-Task Learning
+
+**Multi-Task Learning: Theory, Algorithms, and Applications (2012)**
+
+- slides: [http://www.public.asu.edu/~jye02/Software/MALSAR/MTL-SDM12.pdf](http://www.public.asu.edu/~jye02/Software/MALSAR/MTL-SDM12.pdf)
 
 # Tricks
 

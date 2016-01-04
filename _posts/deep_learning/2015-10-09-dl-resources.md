@@ -430,6 +430,11 @@ date: 2015-10-09
 
 - github: [https://github.com/jostmey/DeepNeuralClassifier](https://github.com/jostmey/DeepNeuralClassifier)
 
+**Using deep learning to break a Captcha system**
+
+- blog: [https://deepmlblog.wordpress.com/2016/01/03/how-to-break-a-captcha-system/](https://deepmlblog.wordpress.com/2016/01/03/how-to-break-a-captcha-system/)
+- github: [https://github.com/arunpatala/captcha](https://github.com/arunpatala/captcha)
+
 # Readings and Questions
 
 **What are the toughest neural networks and deep learning interview questions?**
