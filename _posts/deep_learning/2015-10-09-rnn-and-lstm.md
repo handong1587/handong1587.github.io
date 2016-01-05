@@ -40,6 +40,10 @@ date: 2015-10-09
 - blog: [http://colah.github.io/posts/2015-08-Understanding-LSTMs/](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
 - ZH: [http://www.jianshu.com/p/9dc9f41f0b29](http://www.jianshu.com/p/9dc9f41f0b29)
 
+**Recurrent Neural Networks in DL4J**
+
+[http://deeplearning4j.org/usingrnns.html](http://deeplearning4j.org/usingrnns.html)
+
 # Train RNN
 
 **A Simple Way to Initialize Recurrent Networks of Rectified Linear Units**
@@ -204,3 +208,7 @@ date: 2015-10-09
 **Awesome-rnn - A curated list of resources dedicated to RNN**
 
 [http://jiwonkim.org/awesome-rnn/](http://jiwonkim.org/awesome-rnn/)
+
+**Jürgen Schmidhuber's page on Recurrent Neural Networks**
+
+[http://people.idsia.ch/~juergen/rnn.html](http://people.idsia.ch/~juergen/rnn.html)

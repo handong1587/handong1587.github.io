@@ -246,3 +246,7 @@ date: 2015-10-09
 **Evaluation of Deep Learning Toolkits**
 
 [https://github.com/zer0n/deepframeworks/blob/master/README.md](https://github.com/zer0n/deepframeworks/blob/master/README.md)
+
+**Deep Machine Learning libraries and frameworks**
+
+[https://medium.com/@abduljaleel/deep-machine-learning-libraries-and-frameworks-5fdf2bb6bfbe#.q1mhj7c36](https://medium.com/@abduljaleel/deep-machine-learning-libraries-and-frameworks-5fdf2bb6bfbe#.q1mhj7c36)

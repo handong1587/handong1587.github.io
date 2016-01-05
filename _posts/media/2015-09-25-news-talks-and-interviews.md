@@ -43,6 +43,12 @@ date: 2015-09-25
 
 [http://www.in.techradar.com/news/world-of-tech/How-Microsoft-beat-Google-at-understanding-images-with-machine-learning/articleshow/50354135.cms](http://www.in.techradar.com/news/world-of-tech/How-Microsoft-beat-Google-at-understanding-images-with-machine-learning/articleshow/50354135.cms)
 
+# AI
+
+**The Top A.I. Breakthroughs of 2015**
+
+[http://futureoflife.org/2015/12/29/the-top-a-i-breakthroughs-of-2015/](http://futureoflife.org/2015/12/29/the-top-a-i-breakthroughs-of-2015/)
+
 # Self-driving Cars
 
 **Self-driving cars: How far away are we REALLY from autonomous cars?(7 Aug 2015)**

@@ -461,6 +461,12 @@ date: 2015-08-27
 
 - book: [http://math.arizona.edu/~jwatkins/statbook.pdf](http://math.arizona.edu/~jwatkins/statbook.pdf)
 
+# Videos
+
+**Video resources for machine learning**
+
+[http://dustintran.com/blog/video-resources-for-machine-learning/](http://dustintran.com/blog/video-resources-for-machine-learning/)
+
 # Machine Learning Library
 
 **LambdaNet: Purely functional artificial neural network library implemented in Haskell**
