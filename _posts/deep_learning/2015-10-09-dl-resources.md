@@ -370,12 +370,6 @@ with fast exact probabilistic inference over many layers."
 
 - blog: [http://deeplearning4j.org/accuracy.html](http://deeplearning4j.org/accuracy.html)	
 
-# Deep Learning and FPGA
-
-**Recurrent Neural Networks Hardware Implementation on FPGA**
-
-- arXiv: [http://arxiv.org/abs/1511.05552](http://arxiv.org/abs/1511.05552)
-
 # Deep Learning System
 
 **DeepDetect: Open Source Deep Learning Server: Open Source + Deep Learning + API + Server**
@@ -387,16 +381,6 @@ with fast exact probabilistic inference over many layers."
 
 - arXiv: [http://arxiv.org/abs/1503.05743v1](http://arxiv.org/abs/1503.05743v1)
 - github: [http://mil-tokyo.github.io/](http://mil-tokyo.github.io/)
-
-# Deep Learning Hardware
-
-**Building a Deep Learning (Dream) Machine**
-
-- blog: [http://graphific.github.io/posts/building-a-deep-learning-dream-machine/](http://graphific.github.io/posts/building-a-deep-learning-dream-machine/)
-
-**A Full Hardware Guide to Deep Learning**
-
-- blog: [http://timdettmers.com/2015/03/09/deep-learning-hardware-guide/](http://timdettmers.com/2015/03/09/deep-learning-hardware-guide/)
 
 # Paper
 
@@ -435,7 +419,7 @@ with fast exact probabilistic inference over many layers."
 
 - arxiv: [http://arxiv.org/abs/1512.06293](http://arxiv.org/abs/1512.06293)
 
-# Code
+# Codes
 
 **deepnet: Implementation of some deep learning algorithms**
 
@@ -447,8 +431,14 @@ with fast exact probabilistic inference over many layers."
 
 **Using deep learning to break a Captcha system**
 
+- intro: "Using Torch code to break simplecaptcha with 92% accuracy"
 - blog: [https://deepmlblog.wordpress.com/2016/01/03/how-to-break-a-captcha-system/](https://deepmlblog.wordpress.com/2016/01/03/how-to-break-a-captcha-system/)
 - github: [https://github.com/arunpatala/captcha](https://github.com/arunpatala/captcha)
+
+**Breaking reddit captcha with 96% accuracy**
+
+- blog: [https://deepmlblog.wordpress.com/2016/01/05/breaking-reddit-captcha-with-96-accuracy/](https://deepmlblog.wordpress.com/2016/01/05/breaking-reddit-captcha-with-96-accuracy/)
+- github: [https://github.com/arunpatala/reddit.captcha](https://github.com/arunpatala/reddit.captcha)
 
 # Readings and Questions
 
