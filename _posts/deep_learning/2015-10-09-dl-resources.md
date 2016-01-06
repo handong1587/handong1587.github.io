@@ -330,6 +330,14 @@ date: 2015-10-09
 - arXiv: [http://arxiv.org/abs/1502.06464](http://arxiv.org/abs/1502.06464)
 - github: [https://github.com/untom/librfn](https://github.com/untom/librfn)
 
+**A Unified Approach for Learning the Parameters of Sum-Product Networks (SPN)**
+
+- intro: "The Sum-Product Network (SPN) is a new type of machine learning model 
+with fast exact probabilistic inference over many layers."
+- arxiv: [http://arxiv.org/abs/1601.00318](http://arxiv.org/abs/1601.00318)
+- homepage: [http://spn.cs.washington.edu/index.shtml](http://spn.cs.washington.edu/index.shtml)
+- 
+
 # Distributed System
 
 **SparkNet: Training Deep Networks in Spark**
