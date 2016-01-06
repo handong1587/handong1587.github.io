@@ -11,13 +11,17 @@ date: 2015-10-09
 
 - paper: [http://journals.ru.lv/index.php/ETR/article/view/166](http://journals.ru.lv/index.php/ETR/article/view/166)
 
+**Efficient and accurate approximations of nonlinear convolutional networks**
+
+- arxiv: [http://arxiv.org/abs/1411.4229](http://arxiv.org/abs/1411.4229)
+
 **Fast ConvNets Using Group-wise Brain Damage**
 
-- paper: [http://arxiv.org/abs/1506.02515](http://arxiv.org/abs/1506.02515)
+- arxiv: [http://arxiv.org/abs/1506.02515](http://arxiv.org/abs/1506.02515)
 
 **Learning both Weights and Connections for Efficient Neural Networks**
 
-- paper: [http://arxiv.org/abs/1506.02626](http://arxiv.org/abs/1506.02626)
+- arxiv: [http://arxiv.org/abs/1506.02626](http://arxiv.org/abs/1506.02626)
 
 **Data-free parameter pruning for Deep Neural Networks**
 
@@ -46,6 +50,10 @@ date: 2015-10-09
 **Reducing the Training Time of Neural Networks by Partitioning**
 
 - arXiv: [http://arxiv.org/abs/1511.02954](http://arxiv.org/abs/1511.02954)
+
+**Convolutional neural networks with low-rank regularization**
+
+- arxiv: [http://arxiv.org/abs/1511.06067](http://arxiv.org/abs/1511.06067)
 
 **Quantized Convolutional Neural Networks for Mobile Devices**
 

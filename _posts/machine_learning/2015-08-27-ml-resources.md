@@ -473,6 +473,12 @@ date: 2015-08-27
 
 [http://dustintran.com/blog/video-resources-for-machine-learning/](http://dustintran.com/blog/video-resources-for-machine-learning/)
 
+# blogs
+
+**10 More lessons learned from building real-life Machine Learning systems — Part I**
+
+[https://medium.com/@xamat/10-more-lessons-learned-from-building-real-life-ml-systems-part-i-b309cafc7b5e#.h7rh0gxlv](https://medium.com/@xamat/10-more-lessons-learned-from-building-real-life-ml-systems-part-i-b309cafc7b5e#.h7rh0gxlv)
+
 # Machine Learning Library
 
 **LambdaNet: Purely functional artificial neural network library implemented in Haskell**
