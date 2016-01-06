@@ -136,3 +136,9 @@ date: 2015-10-09
 ![](/assets/dl_and_arts/Machine_learning_for_artists.jpeg)
 
 [https://medium.com/@genekogan/machine-learning-for-artists-e93d20fdb097#.25w95beqb](https://medium.com/@genekogan/machine-learning-for-artists-e93d20fdb097#.25w95beqb)
+
+# Blogs
+
+**Review of machine / deep learning in an artistic context**
+
+[https://medium.com/@memoakten/machine-deep-learning-in-an-artistic-context-441f28774bcc#.gegpq99ag](https://medium.com/@memoakten/machine-deep-learning-in-an-artistic-context-441f28774bcc#.gegpq99ag)
