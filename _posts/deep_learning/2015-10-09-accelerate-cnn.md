@@ -1,9 +1,11 @@
 ---
 layout: post
 category: deep_learning
-title: Networks Acceleration, Parameter Pruning, Model Size Reduction
+title: Accelerate Convolutional Neural Networks
 date: 2015-10-09
 ---
+
+# Papers
 
 **Neurons vs Weights Pruning in Artificial Neural Networks**
 
@@ -44,3 +46,10 @@ date: 2015-10-09
 **Reducing the Training Time of Neural Networks by Partitioning**
 
 - arXiv: [http://arxiv.org/abs/1511.02954](http://arxiv.org/abs/1511.02954)
+
+# Codes
+
+**Accelerate Convolutional Neural Networks**
+
+- intro: "This tool aims to accelerate the test-time computation and decrease number of parameters of deep CNNs."
+- github: [https://github.com/dmlc/mxnet/tree/master/tools/accnn](https://github.com/dmlc/mxnet/tree/master/tools/accnn)
