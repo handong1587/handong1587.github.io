@@ -53,6 +53,13 @@ date: 2015-10-09
 
 - paper: [https://papers.nips.cc/paper/5845-deep-visual-analogy-making.pdf](https://papers.nips.cc/paper/5845-deep-visual-analogy-making.pdf)
 
+**Autoencoding beyond pixels using a learned similarity metric**
+
+- arxiv: [http://arxiv.org/abs/1512.09300](http://arxiv.org/abs/1512.09300)
+- demo: [http://algoalgebra.csa.iisc.ernet.in/deepimagine/](http://algoalgebra.csa.iisc.ernet.in/deepimagine/)
+- github: [https://github.com/andersbll/autoencoding_beyond_pixels](https://github.com/andersbll/autoencoding_beyond_pixels)
+- video: [http://video.weibo.com/show?fid=1034:f00b4e5a34e8c1ebe78ccd00da95f9e0](http://video.weibo.com/show?fid=1034:f00b4e5a34e8c1ebe78ccd00da95f9e0)
+
 # Blog
 
 **Torch convolutional GAN: Generating Faces with Torch**
