@@ -410,6 +410,10 @@ date: 2015-08-27
 
 - arXiv: [http://arxiv.org/abs/1511.02222](http://arxiv.org/abs/1511.02222)
 
+**Questions on Deep Gaussian Processes**
+
+- blog: [http://inverseprobability.com/2015/02/28/questions-on-deep-gaussian-processes/](http://inverseprobability.com/2015/02/28/questions-on-deep-gaussian-processes/)
+
 # Mathematics
 
 **Some Notes on Applied Mathematics for Machine**
