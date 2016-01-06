@@ -47,6 +47,10 @@ date: 2015-10-09
 
 - arXiv: [http://arxiv.org/abs/1511.02954](http://arxiv.org/abs/1511.02954)
 
+**Quantized Convolutional Neural Networks for Mobile Devices**
+
+- arxiv: [http://arxiv.org/abs/1512.06473](http://arxiv.org/abs/1512.06473)
+
 # Codes
 
 **Accelerate Convolutional Neural Networks**
