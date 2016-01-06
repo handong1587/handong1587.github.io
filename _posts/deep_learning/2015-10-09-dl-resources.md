@@ -91,6 +91,13 @@ date: 2015-10-09
 
 - playlist: [https://www.youtube.com/playlist?list=PLjJh1vlSEYgvGod9wWiydumYl8hOXixNu](https://www.youtube.com/playlist?list=PLjJh1vlSEYgvGod9wWiydumYl8hOXixNu)
 
+**A 'Brief' History of Neural Nets and Deep Learning**
+
+- Part 1: [http://www.andreykurenkov.com/writing/a-brief-history-of-neural-nets-and-deep-learning/](http://www.andreykurenkov.com/writing/a-brief-history-of-neural-nets-and-deep-learning/)
+- Part 2: [http://www.andreykurenkov.com/writing/a-brief-history-of-neural-nets-and-deep-learning-part-2/](http://www.andreykurenkov.com/writing/a-brief-history-of-neural-nets-and-deep-learning-part-2/)
+- Part 3: [http://www.andreykurenkov.com/writing/a-brief-history-of-neural-nets-and-deep-learning-part-3/](http://www.andreykurenkov.com/writing/a-brief-history-of-neural-nets-and-deep-learning-part-3/)
+- Part 4: [http://www.andreykurenkov.com/writing/a-brief-history-of-neural-nets-and-deep-learning-part-4/](http://www.andreykurenkov.com/writing/a-brief-history-of-neural-nets-and-deep-learning-part-4/)
+
 # ImageNet
 
 **ImageNet Classification with Deep Convolutional Neural Networks (AlexNet)**
