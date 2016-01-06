@@ -336,7 +336,7 @@ date: 2015-10-09
 with fast exact probabilistic inference over many layers."
 - arxiv: [http://arxiv.org/abs/1601.00318](http://arxiv.org/abs/1601.00318)
 - homepage: [http://spn.cs.washington.edu/index.shtml](http://spn.cs.washington.edu/index.shtml)
-- 
+- code: [http://spn.cs.washington.edu/code.shtml](http://spn.cs.washington.edu/code.shtml)
 
 # Distributed System
 
