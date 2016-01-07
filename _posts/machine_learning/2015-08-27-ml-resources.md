@@ -59,6 +59,7 @@ date: 2015-08-27
 **University of Oxford: Machine Learning: 2014-2015**
 
 - homepage: [https://www.cs.ox.ac.uk/people/nando.defreitas/machinelearning/](https://www.cs.ox.ac.uk/people/nando.defreitas/machinelearning/)
+- course materials: [https://www.cs.ox.ac.uk/people/nando.defreitas/machinelearning/](https://www.cs.ox.ac.uk/people/nando.defreitas/machinelearning/)
 - lectures: [http://pan.baidu.com/s/1bndbxJh#path=%252FDeep%2520Learning%2520Lectures](http://pan.baidu.com/s/1bndbxJh#path=%252FDeep%2520Learning%2520Lectures)
 - github: [https://github.com/oxford-cs-ml-2015/](https://github.com/oxford-cs-ml-2015/)
 
