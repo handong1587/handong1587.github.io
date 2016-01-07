@@ -7,16 +7,67 @@ date: 2015-10-09
 
 # Papers
 
+**High-Performance Neural Networks for Visual Object Classification**
+
+- intro: "reduced network parameters by randomly removing connections before training"
+- arxiv: [http://arxiv.org/abs/1102.0183](http://arxiv.org/abs/1102.0183)
+
+**Predicting Parameters in Deep Learning**
+
+- intro: "decomposed the weighting matrix into two low-rank matrices"
+- arxiv: [http://arxiv.org/abs/1306.0543](http://arxiv.org/abs/1306.0543)
+
 **Neurons vs Weights Pruning in Artificial Neural Networks**
 
 - paper: [http://journals.ru.lv/index.php/ETR/article/view/166](http://journals.ru.lv/index.php/ETR/article/view/166)
 
+**Exploiting Linear Structure Within Convolutional Networks for Efﬁcient Evaluation**
+
+- intro: "presented a series of low-rank decomposition designs for convolutional kernels. 
+singular value decomposition was adopted for the matrix factorization"
+- paper: [http://papers.nips.cc/paper/5544-exploiting-linear-structure-within-convolutional-networks-for-efficient-evaluation.pdf](http://papers.nips.cc/paper/5544-exploiting-linear-structure-within-convolutional-networks-for-efficient-evaluation.pdf)
+
 **Efficient and accurate approximations of nonlinear convolutional networks**
 
+- intro: "considered the subsequent nonlinear units while learning the low-rank decomposition"
 - arxiv: [http://arxiv.org/abs/1411.4229](http://arxiv.org/abs/1411.4229)
+
+**Compressing Deep Convolutional Networks using Vector Quantization**
+
+- intro: "this paper showed that vector quantization had a clear advantage 
+over matrix factorization methods in compressing fully-connected layers."
+- arxiv: [http://arxiv.org/abs/1412.6115](http://arxiv.org/abs/1412.6115)
+
+**Speeding-up Convolutional Neural Networks Using Fine-tuned CP-Decomposition**
+
+- intro: "a low-rank CPdecomposition was adopted to 
+transform a convolutional layer into multiple layers of lower complexity"
+- arxiv: [http://arxiv.org/abs/1412.6553](http://arxiv.org/abs/1412.6553)
+
+**Deep Fried Convnets**
+
+- intro: "fully-connected layers were replaced by a single “Fastfood” layer for end-to-end training with convolutional layers"
+- arxiv: [http://arxiv.org/abs/1412.7149](http://arxiv.org/abs/1412.7149)
+
+**Distilling the Knowledge in a Neural Network (by Geoffrey Hinton, Oriol Vinyals, Jeff Dean)**
+
+- intro: "trained a distilled model to mimic the response of a larger and well-trained network"
+- arxiv: [http://arxiv.org/abs/1503.02531](http://arxiv.org/abs/1503.02531)
+
+**Compressing Neural Networks with the Hashing Trick**
+
+- intro: "randomly grouped connection weights into hash buckets, and then fine-tuned network parameters with back-propagation"
+- arxiv: [http://arxiv.org/abs/1504.04788](http://arxiv.org/abs/1504.04788)
+
+**Accelerating Very Deep Convolutional Networks for Classification and Detection**
+
+- intro: "considered the subsequent nonlinear units while learning the low-rank decomposition"
+- arxiv: [http://arxiv.org/abs/1505.06798](http://arxiv.org/abs/1505.06798)
 
 **Fast ConvNets Using Group-wise Brain Damage**
 
+- intro: "applied group-wise pruning to the convolutional tensor 
+to decompose it into the multiplications of thinned dense matrices"
 - arxiv: [http://arxiv.org/abs/1506.02515](http://arxiv.org/abs/1506.02515)
 
 **Learning both Weights and Connections for Efficient Neural Networks**
@@ -25,6 +76,7 @@ date: 2015-10-09
 
 **Data-free parameter pruning for Deep Neural Networks**
 
+- intro: "proposed to remove redundant neurons instead of network connections"
 - arXiv: [http://arxiv.org/abs/1507.06149](http://arxiv.org/abs/1507.06149)
 
 **Fast Algorithms for Convolutional Neural Networks**
@@ -55,8 +107,10 @@ date: 2015-10-09
 
 - arxiv: [http://arxiv.org/abs/1511.06067](http://arxiv.org/abs/1511.06067)
 
-**Quantized Convolutional Neural Networks for Mobile Devices**
+**Quantized Convolutional Neural Networks for Mobile Devices (Q-CNN)**
 
+- intro: "Extensive experiments on the ILSVRC-12 benchmark demonstrate 
+4 ∼ 6× speed-up and 15 ∼ 20× compression with merely one percentage loss of classification accuracy"
 - arxiv: [http://arxiv.org/abs/1512.06473](http://arxiv.org/abs/1512.06473)
 
 # Codes
