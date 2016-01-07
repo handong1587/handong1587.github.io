@@ -495,8 +495,9 @@ with fast exact probabilistic inference over many layers."
 
 **Deep Learning (by Ian Goodfellow, Aaron Courville and Yoshua Bengio)**
 
-[http://goodfeli.github.io/dlbook/](http://goodfeli.github.io/dlbook/)
-[http://www.deeplearningbook.org/](http://www.deeplearningbook.org/)
+- homepage: [http://www.deeplearningbook.org/](http://www.deeplearningbook.org/)
+- website: [http://goodfeli.github.io/dlbook/](http://goodfeli.github.io/dlbook/)
+
 
 # Blogs
 
