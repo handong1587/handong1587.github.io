@@ -38,6 +38,7 @@ topmost feature map after knowing the confidences of the underlying object categ
 - slides: [http://www.cs.berkeley.edu/~rbg/slides/rcnn-cvpr14-slides.pdf](http://www.cs.berkeley.edu/~rbg/slides/rcnn-cvpr14-slides.pdf)
 - code: [https://github.com/rbgirshick/rcnn](https://github.com/rbgirshick/rcnn)
 - notes: [http://zhangliliang.com/2014/07/23/paper-note-rcnn/](http://zhangliliang.com/2014/07/23/paper-note-rcnn/)
+- caffe-pr("Make R-CNN the Caffe detection example"): [https://github.com/BVLC/caffe/pull/482](https://github.com/BVLC/caffe/pull/482) 
 
 **Scalable Object Detection using Deep Neural Networks (MultiBox)**
 
@@ -69,12 +70,6 @@ topmost feature map after knowing the confidences of the underlying object categ
 |DeepID-Net    |64.1%       |50.3%          |
 
 - arXiv: [http://arxiv.org/abs/1412.5661](http://arxiv.org/abs/1412.5661)
-
-**What makes for effective detection proposals?(PAMI 2015)**
-
-- homepage: [https://www.mpi-inf.mpg.de/departments/computer-vision-and-multimodal-computing/research/object-recognition-and-scene-understanding/how-good-are-detection-proposals-really/](https://www.mpi-inf.mpg.de/departments/computer-vision-and-multimodal-computing/research/object-recognition-and-scene-understanding/how-good-are-detection-proposals-really/)
-- arXiv: [http://arxiv.org/abs/1502.05082](http://arxiv.org/abs/1502.05082)
-- github: [https://github.com/hosang/detection-proposals](https://github.com/hosang/detection-proposals)
 
 **Object Detection Networks on Convolutional Feature Maps**
 
@@ -137,6 +132,7 @@ and Structured Prediction**
 - webcam demo: [https://github.com/rbgirshick/fast-rcnn/pull/29](https://github.com/rbgirshick/fast-rcnn/pull/29)
 - notes: [http://zhangliliang.com/2015/05/17/paper-note-fast-rcnn/](http://zhangliliang.com/2015/05/17/paper-note-fast-rcnn/)
 - notes: [http://blog.csdn.net/linj_m/article/details/48930179](http://blog.csdn.net/linj_m/article/details/48930179)
+- github("Train Fast-RCNN on Another Dataset"): [https://github.com/zeyuanxy/fast-rcnn/tree/master/help/train](https://github.com/zeyuanxy/fast-rcnn/tree/master/help/train)
 
 **DeepBox: Learning Objectness with Convolutional Networks**
 

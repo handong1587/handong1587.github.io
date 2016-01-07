@@ -33,7 +33,9 @@ date: 2015-10-09
 - tutorial: [http://tutorial.caffe.berkeleyvision.org/](http://tutorial.caffe.berkeleyvision.org/)
 - slides: [http://vision.stanford.edu/teaching/cs231n/slides/caffe_tutorial.pdf](http://vision.stanford.edu/teaching/cs231n/slides/caffe_tutorial.pdf)
 - slides: [http://vision.princeton.edu/courses/COS598/2015sp/slides/Caffe/caffe_tutorial.pdf](http://vision.princeton.edu/courses/COS598/2015sp/slides/Caffe/caffe_tutorial.pdf)
+- caffe-doc: [http://caffe.berkeleyvision.org/doxygen/index.html](http://caffe.berkeleyvision.org/doxygen/index.html)
 - tutorials("CAFFE with CUDA"): [http://pan.baidu.com/s/1i4kmpyH](http://pan.baidu.com/s/1i4kmpyH)
+- blog("Convolution in Caffe: a memo"): [https://github.com/Yangqing/caffe/wiki/Convolution-in-Caffe:-a-memo](https://github.com/Yangqing/caffe/wiki/Convolution-in-Caffe:-a-memo)
 
 **OpenCV 3.0.0-dev: Load Caffe framework models**
 
@@ -214,6 +216,9 @@ date: 2015-10-09
 
 - website: [http://torch.ch/](http://torch.ch/)
 - github: [https://github.com/torch/torch7](https://github.com/torch/torch7)
+- cheatsheet: [https://github.com/torch/torch7/wiki/Cheatsheet](https://github.com/torch/torch7/wiki/Cheatsheet) 
+- tutorials("Getting started with Torch"): [http://torch.ch/docs/getting-started.html#_](http://torch.ch/docs/getting-started.html#_)
+
 
 # VELES
 
@@ -250,3 +255,7 @@ date: 2015-10-09
 **Deep Machine Learning libraries and frameworks**
 
 [https://medium.com/@abduljaleel/deep-machine-learning-libraries-and-frameworks-5fdf2bb6bfbe#.q1mhj7c36](https://medium.com/@abduljaleel/deep-machine-learning-libraries-and-frameworks-5fdf2bb6bfbe#.q1mhj7c36)
+
+**Torch vs Theano**
+
+- blog: [http://fastml.com/torch-vs-theano/](http://fastml.com/torch-vs-theano/)

@@ -116,3 +116,7 @@ date: 2015-09-09
 
 - project: [http://rfcapture.csail.mit.edu/](http://rfcapture.csail.mit.edu/)
 - paper: [http://rfcapture.csail.mit.edu/rfcapture-paper.pdf](http://rfcapture.csail.mit.edu/rfcapture-paper.pdf)
+
+**Stealing Keys from PCs using a Radio: Cheap Electromagnetic Attacks on Windowed Exponentiation**
+
+- homepage: [https://www.tau.ac.il/~tromer/radioexp/](https://www.tau.ac.il/~tromer/radioexp/)

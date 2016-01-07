@@ -98,6 +98,10 @@ date: 2015-10-09
 - Part 3: [http://www.andreykurenkov.com/writing/a-brief-history-of-neural-nets-and-deep-learning-part-3/](http://www.andreykurenkov.com/writing/a-brief-history-of-neural-nets-and-deep-learning-part-3/)
 - Part 4: [http://www.andreykurenkov.com/writing/a-brief-history-of-neural-nets-and-deep-learning-part-4/](http://www.andreykurenkov.com/writing/a-brief-history-of-neural-nets-and-deep-learning-part-4/)
 
+**A Step by Step Backpropagation Example**
+
+- blog: [http://mattmazur.com/2015/03/17/a-step-by-step-backpropagation-example/](http://mattmazur.com/2015/03/17/a-step-by-step-backpropagation-example/)
+
 # ImageNet
 
 **ImageNet Classification with Deep Convolutional Neural Networks (AlexNet)**
@@ -183,6 +187,12 @@ date: 2015-10-09
 **Deep Learning with S-shaped Rectified Linear Activation Units (SReLU)**
 
 - arxiv: [http://arxiv.org/abs/1512.07030](http://arxiv.org/abs/1512.07030)
+
+# Weights Initialization
+
+**An Explanation of Xavier Initialization**
+
+- blog: [http://andyljones.tumblr.com/post/110998971763/an-explanation-of-xavier-initialization](http://andyljones.tumblr.com/post/110998971763/an-explanation-of-xavier-initialization)
 
 # Tensor
 
@@ -483,9 +493,10 @@ with fast exact probabilistic inference over many layers."
 
 # Books
 
-**Deep Learning (By Ian Goodfellow, Aaron Courville and Yoshua Bengio)**
+**Deep Learning (by Ian Goodfellow, Aaron Courville and Yoshua Bengio)**
 
 [http://goodfeli.github.io/dlbook/](http://goodfeli.github.io/dlbook/)
+[http://www.deeplearningbook.org/](http://www.deeplearningbook.org/)
 
 # Blogs
 
