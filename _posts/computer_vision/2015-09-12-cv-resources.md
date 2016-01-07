@@ -64,6 +64,11 @@ date: 2015-09-12
 - paper: [http://personal.ie.cuhk.edu.hk/~lz013/papers/burstdenoising.pdf](http://personal.ie.cuhk.edu.hk/~lz013/papers/burstdenoising.pdf)
 - project: [http://personal.ie.cuhk.edu.hk/~lz013/projects/BurstDenoising.html](http://personal.ie.cuhk.edu.hk/~lz013/projects/BurstDenoising.html)
 
+**Robust non-linear regression analysis: A greedy approach employing kernels and application to image denoising (KGARD)**
+
+- arxiv: [http://arxiv.org/abs/1601.00595](http://arxiv.org/abs/1601.00595)
+- code(Matlab): [http://bouboulis.mysch.gr/kernels.html](http://bouboulis.mysch.gr/kernels.html)
+
 - - -
 
 **Computer Vision Datasets**
