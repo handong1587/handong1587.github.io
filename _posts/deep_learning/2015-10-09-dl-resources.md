@@ -129,6 +129,7 @@ date: 2015-10-09
 - intro: "21.2% top-1 and 5.6% top-5 error for single frame evaluation using a network; 
 3.5% top-5 error and 17.3% top-1 error With an ensemble of 4 models and multi-crop evaluation."
 - arXiv: [http://arxiv.org/abs/1512.00567](http://arxiv.org/abs/1512.00567)
+- github("Torch port of Inception V3"): [https://github.com/Moodstocks/inception-v3.torch](https://github.com/Moodstocks/inception-v3.torch)
 
 **Deep Residual Learning for Image Recognition (ResNet)**
 
@@ -375,7 +376,11 @@ with fast exact probabilistic inference over many layers."
 
 - paper: [http://arxiv.org/abs/1509.05016](http://arxiv.org/abs/1509.05016)
 - homepage: [http://www.brain4cars.com/](http://www.brain4cars.com/)
-	
+
+**Eyes on the Road: How Autonomous Cars Understand What They’re Seeing**
+
+- blog: [http://blogs.nvidia.com/blog/2016/01/05/eyes-on-the-road-how-autonomous-cars-understand-what-theyre-seeing/](http://blogs.nvidia.com/blog/2016/01/05/eyes-on-the-road-how-autonomous-cars-understand-what-theyre-seeing/)
+
 # Deep Learning’s Accuracy
 
 - blog: [http://deeplearning4j.org/accuracy.html](http://deeplearning4j.org/accuracy.html)	
@@ -490,6 +495,12 @@ with fast exact probabilistic inference over many layers."
 **Learning Deep Learning**
 
 [http://rt.dgyblog.com/ref/ref-learning-deep-learning.html](http://rt.dgyblog.com/ref/ref-learning-deep-learning.html)
+
+# Tools
+
+**DNNGraph - A deep neural network model generation DSL in Haskell**
+
+- homepage: [http://ajtulloch.github.io/dnngraph/](http://ajtulloch.github.io/dnngraph/)
 
 # Books
 

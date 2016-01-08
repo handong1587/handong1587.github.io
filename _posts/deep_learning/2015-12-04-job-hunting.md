@@ -1,7 +1,7 @@
 ---
 layout: post
 category: deep_learning
-title: Deep Learning Interview Questions
+title: Deep Learning Job Hunting
 date: 2015-12-04
 ---
 

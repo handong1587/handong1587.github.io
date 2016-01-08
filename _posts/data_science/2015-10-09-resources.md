@@ -11,6 +11,12 @@ date: 2015-10-09
 
 [http://datascienceatthecommandline.com/](http://datascienceatthecommandline.com/)
 
+# Tutorials
+
+**Intelligent Data Analysis**
+
+- slides: [http://www.borgelt.net/slides/ida.pdf](http://www.borgelt.net/slides/ida.pdf)
+
 # Blogs
 
 **Comprehensive learning path – Data Science in Python**
