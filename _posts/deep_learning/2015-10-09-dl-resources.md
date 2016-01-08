@@ -323,6 +323,15 @@ date: 2015-10-09
 
 # Deep Learning Networks
 
+**Deeply-supervised Nets (DSN)**
+
+![](http://vcl.ucsd.edu/~sxie/images/dsn/architecture.png)
+
+- arxiv: [http://arxiv.org/abs/1409.5185](http://arxiv.org/abs/1409.5185)
+- homepage: [http://vcl.ucsd.edu/~sxie/2014/09/12/dsn-project/](http://vcl.ucsd.edu/~sxie/2014/09/12/dsn-project/)
+- github: [https://github.com/s9xie/DSN](https://github.com/s9xie/DSN)
+- notes: [http://zhangliliang.com/2014/11/02/paper-note-dsn/](http://zhangliliang.com/2014/11/02/paper-note-dsn/)
+
 **Highway Networks**
 
 - arxiv: [http://arxiv.org/abs/1505.00387](http://arxiv.org/abs/1505.00387)
