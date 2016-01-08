@@ -17,16 +17,23 @@ attempts to represent something in a visually appealing and compact way
 image salience, canvas constraint, natural preference, and user interaction"
 - paper: [http://mmlab.ie.cuhk.edu.hk/archive/2009/07_Picture.pdf](http://mmlab.ie.cuhk.edu.hk/archive/2009/07_Picture.pdf)
 
-# Video Collage
-
 **AutoCollage (SIGGRAPH 2006)**
 
 ![](/assets/computer-vision/video_summary/collage1fullcomp.jpg)
 
+- intro: "Autocollage defines different energies to encourage the selection of a representative set of images, 
+select particular object classes, and encourage a spatially efficient and seamless layout. 
+The optimization is divided into a sequence of steps: from static ranking of images, through region of interest detection, 
+optimal packing by the branch-and-bound algorithm, and lastly graph-cut alpha expansion. 
+The core packing algorithm is limited; for example, user interaction cannot be integrated. 
+The packing algorithm cannot deal with images with multiple salient regions which are assigned different weights.
+Further, the blending still may bring artifacts on the boundaries of different images." 
 - homepage: [http://research.microsoft.com/en-us/projects/i3l/autocollage.aspx](http://research.microsoft.com/en-us/projects/i3l/autocollage.aspx)
 - paper: [http://research.microsoft.com/pubs/67894/autocollage_rotheretal_siggraph2006.pdf](http://research.microsoft.com/pubs/67894/autocollage_rotheretal_siggraph2006.pdf)
 - slides: [http://research.microsoft.com/en-us/UM/cambridge/projects/VisionImageVideoEditing/autocollage/TalkSiggraph2006Compressed.zip](http://research.microsoft.com/en-us/UM/cambridge/projects/VisionImageVideoEditing/autocollage/TalkSiggraph2006Compressed.zip)
 - demo: [http://research.microsoft.com/en-us/um/cambridge/projects/autocollage/](http://research.microsoft.com/en-us/um/cambridge/projects/autocollage/)
+
+# Video Collage
 
 **Video collage: A novel presentation of video sequence (ICME 2007)**
 
@@ -78,6 +85,11 @@ image salience, canvas constraint, natural preference, and user interaction"
 
 **Digital Tapestry (MSR. CVPR 2005)**
 
+- intro: "formulates the selection of salient regions and their placement together as a Markov random field (MRF) problem. 
+Each image is represented as a set of blocks, and the multiple-class labeling problem with non-metric
+constraints is optimized by “truncating” the non-regular energy.
+However, artifacts are also introduced along the boundaries of neighboring salient regions coming from two different images
+in digital tapestry, although some artifact removal methods can be used"
 - homepage: [http://research.microsoft.com/apps/pubs/default.aspx?id=67404](http://research.microsoft.com/apps/pubs/default.aspx?id=67404)
 - paper: [http://pub.ist.ac.at/~vnk/papers/tapestry_cvpr05.pdf](http://pub.ist.ac.at/~vnk/papers/tapestry_cvpr05.pdf)
 
