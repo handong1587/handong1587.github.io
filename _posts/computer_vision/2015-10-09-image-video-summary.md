@@ -13,6 +13,8 @@ attempts to represent something in a visually appealing and compact way
 
 **Picture Collage (2009)**
 
+- intro: "formulate the picture collage creation problem in a conditional random field model, which integrates
+image salience, canvas constraint, natural preference, and user interaction"
 - paper: [http://mmlab.ie.cuhk.edu.hk/archive/2009/07_Picture.pdf](http://mmlab.ie.cuhk.edu.hk/archive/2009/07_Picture.pdf)
 
 # Video Collage
