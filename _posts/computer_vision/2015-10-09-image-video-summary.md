@@ -11,12 +11,6 @@ attempts to represent something in a visually appealing and compact way
 
 # Photo Collages
 
-**Picture Collage (2009)**
-
-- intro: "formulate the picture collage creation problem in a conditional random field model, which integrates
-image salience, canvas constraint, natural preference, and user interaction"
-- paper: [http://mmlab.ie.cuhk.edu.hk/archive/2009/07_Picture.pdf](http://mmlab.ie.cuhk.edu.hk/archive/2009/07_Picture.pdf)
-
 **AutoCollage (SIGGRAPH 2006)**
 
 ![](/assets/computer-vision/video_summary/collage1fullcomp.jpg)
@@ -32,6 +26,17 @@ Further, the blending still may bring artifacts on the boundaries of different i
 - paper: [http://research.microsoft.com/pubs/67894/autocollage_rotheretal_siggraph2006.pdf](http://research.microsoft.com/pubs/67894/autocollage_rotheretal_siggraph2006.pdf)
 - slides: [http://research.microsoft.com/en-us/UM/cambridge/projects/VisionImageVideoEditing/autocollage/TalkSiggraph2006Compressed.zip](http://research.microsoft.com/en-us/UM/cambridge/projects/VisionImageVideoEditing/autocollage/TalkSiggraph2006Compressed.zip)
 - demo: [http://research.microsoft.com/en-us/um/cambridge/projects/autocollage/](http://research.microsoft.com/en-us/um/cambridge/projects/autocollage/)
+
+**Picture Collage (2006)**
+
+- paper: [http://research.microsoft.com/en-us/um/people/jiansun/papers/PictureCollage_CVPR2006.pdf](http://research.microsoft.com/en-us/um/people/jiansun/papers/PictureCollage_CVPR2006.pdf)
+- paper: [http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.89.5727](http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.89.5727)
+
+**Picture Collage (2009)**
+
+- intro: "formulate the picture collage creation problem in a conditional random field model, which integrates
+image salience, canvas constraint, natural preference, and user interaction"
+- paper: [http://mmlab.ie.cuhk.edu.hk/archive/2009/07_Picture.pdf](http://mmlab.ie.cuhk.edu.hk/archive/2009/07_Picture.pdf)
 
 # Video Collage
 
