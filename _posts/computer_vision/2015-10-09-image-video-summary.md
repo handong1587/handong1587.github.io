@@ -1,7 +1,7 @@
 ---
 layout: post
 category: computer_vision
-title: Video Summary
+title: Image/Video Summary
 date: 2015-10-09
 ---
 
@@ -10,6 +10,10 @@ date: 2015-10-09
 attempts to represent something in a visually appealing and compact way
 
 # Photo Collages
+
+**Picture Collage (2009)**
+
+- paper: [http://mmlab.ie.cuhk.edu.hk/archive/2009/07_Picture.pdf](http://mmlab.ie.cuhk.edu.hk/archive/2009/07_Picture.pdf)
 
 # Video Collage
 
