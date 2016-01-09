@@ -122,6 +122,10 @@ Bicubic VS. Shepard CNN
 
 - arxiv: [http://arxiv.org/abs/1511.03908](http://arxiv.org/abs/1511.03908)
 
+**Automatic Colorization**
+
+- blog: [http://tinyclouds.org/colorize/](http://tinyclouds.org/colorize/)
+
 # Code
 
 **ConvNetJS: a Javascript implementation of Neural networks**
