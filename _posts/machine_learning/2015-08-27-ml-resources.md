@@ -270,6 +270,14 @@ date: 2015-08-27
 - baidu-pan: [http://pan.baidu.com/s/1nt8I8qt](http://pan.baidu.com/s/1nt8I8qt)
 - github: [https://github.com/facebook/fbpca](https://github.com/facebook/fbpca)
 
+**Robust Principal Component Analysis on Graphs**
+
+![](https://lts2.epfl.ch/blog/nauman/wp-content/uploads/sites/12/2015/01/Slide11.jpg)
+
+- arxiv: [http://arxiv.org/abs/1504.06151](http://arxiv.org/abs/1504.06151)
+- project: [https://lts2.epfl.ch/blog/nauman/recent-projects/](https://lts2.epfl.ch/blog/nauman/recent-projects/)
+- code: [http://pan.baidu.com/s/1gepgIUv](http://pan.baidu.com/s/1gepgIUv)
+
 # Convex Optimization
 
 **Convex Optimization: Algorithms and Complexity**

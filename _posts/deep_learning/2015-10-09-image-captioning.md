@@ -5,6 +5,13 @@ title: Image Captioning
 date: 2015-10-09
 ---
 
+**Im2Text: Describing Images Using 1 Million Captioned Photographs**
+
+![](http://vision.cs.stonybrook.edu/~vicente/sbucaptions/im2text_files/im2text.png)
+
+- paper: [http://tamaraberg.com/papers/generation_nips2011.pdf](http://tamaraberg.com/papers/generation_nips2011.pdf)
+- project: [http://vision.cs.stonybrook.edu/~vicente/sbucaptions/](http://vision.cs.stonybrook.edu/~vicente/sbucaptions/)
+
 **Optimizing Neural Networks That Generate Images(2014. PhD thesis)**
 
 - paper : [http://www.cs.toronto.edu/~tijmen/tijmen_thesis.pdf](http://www.cs.toronto.edu/~tijmen/tijmen_thesis.pdf)

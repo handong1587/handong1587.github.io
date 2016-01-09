@@ -7,6 +7,11 @@ date: 2015-10-09
 
 # Paper
 
+**Optimizing Neural Networks That Generate Images(2014. PhD thesis)**
+
+- paper : [http://www.cs.toronto.edu/~tijmen/tijmen_thesis.pdf](http://www.cs.toronto.edu/~tijmen/tijmen_thesis.pdf)
+- github: [https://github.com/mrkulk/Unsupervised-Capsule-Network](https://github.com/mrkulk/Unsupervised-Capsule-Network)
+
 **Learning to Generate Chairs, Tables and Cars with Convolutional Networks**
 
 - arXiv: [http://arxiv.org/abs/1411.5928](http://arxiv.org/abs/1411.5928)
