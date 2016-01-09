@@ -123,3 +123,7 @@ you can use CGI to make your look malnourished and stick thin as you like.
 Maybe it is what we called Method Acting: Actors need to embrace the characters they are studying to 
 communicate their commitment to the role. 
 Understanding the implications of what they're doing is equally as important.
+
+(2015-12-29) *老炮儿 (2015)*
+
+(2016-01-09) *The Martian (2015)*
