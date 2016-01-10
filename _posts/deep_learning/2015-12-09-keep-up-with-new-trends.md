@@ -49,3 +49,7 @@ date: 2015-12-09
 **10 Deep Learning Trends at NIPS 2015**
 
 [http://codinginparadise.org/ebooks/html/blog/ten_deep_learning_trends_at_nips_2015.html](http://codinginparadise.org/ebooks/html/blog/ten_deep_learning_trends_at_nips_2015.html)
+
+**ICCV 2015 Tutorials**
+
+[http://pamitc.org/iccv15/tutorials.php](http://pamitc.org/iccv15/tutorials.php)
