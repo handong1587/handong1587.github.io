@@ -353,6 +353,10 @@ with fast exact probabilistic inference over many layers."
 
 - arxiv: [http://arxiv.org/abs/1512.06293](http://arxiv.org/abs/1512.06293)
 
+**Batch-normalized Maxout Network in Network**
+
+- arxiv: [http://arxiv.org/abs/1511.02583](http://arxiv.org/abs/1511.02583)
+
 # Codes
 
 **deepnet: Implementation of some deep learning algorithms**
