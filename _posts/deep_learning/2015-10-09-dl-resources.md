@@ -101,6 +101,10 @@ date: 2015-10-09
 
 - blog: [http://andyljones.tumblr.com/post/110998971763/an-explanation-of-xavier-initialization](http://andyljones.tumblr.com/post/110998971763/an-explanation-of-xavier-initialization)
 
+**All you need is a good init**
+
+- arxiv: [http://arxiv.org/abs/1511.06422](http://arxiv.org/abs/1511.06422)
+
 # Tensor
 
 **Tensorizing Neural Networks**
