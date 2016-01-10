@@ -12,11 +12,6 @@ date: 2015-10-09
 - paper: [http://tamaraberg.com/papers/generation_nips2011.pdf](http://tamaraberg.com/papers/generation_nips2011.pdf)
 - project: [http://vision.cs.stonybrook.edu/~vicente/sbucaptions/](http://vision.cs.stonybrook.edu/~vicente/sbucaptions/)
 
-**Optimizing Neural Networks That Generate Images(2014. PhD thesis)**
-
-- paper : [http://www.cs.toronto.edu/~tijmen/tijmen_thesis.pdf](http://www.cs.toronto.edu/~tijmen/tijmen_thesis.pdf)
-- github: [https://github.com/mrkulk/Unsupervised-Capsule-Network](https://github.com/mrkulk/Unsupervised-Capsule-Network)
-
 **Show and Tell: A Neural Image Caption Generator(Google)**
 
 - arXiv: [http://arxiv.org/abs/1411.4555](http://arxiv.org/abs/1411.4555)
