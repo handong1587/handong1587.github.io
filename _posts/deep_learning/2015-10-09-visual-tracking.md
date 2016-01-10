@@ -15,3 +15,7 @@ date: 2015-10-09
 **Learning Multi-Domain Convolutional Neural Networks for Visual Tracking**
 
 - arXiv: [http://arxiv.org/abs/1510.07945](http://arxiv.org/abs/1510.07945)
+
+**RATM: Recurrent Attentive Tracking Model**
+
+- arxiv: [http://arxiv.org/abs/1510.08660](http://arxiv.org/abs/1510.08660)
