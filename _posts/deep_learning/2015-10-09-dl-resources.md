@@ -278,6 +278,11 @@ date: 2015-10-09
 - arXiv: [http://arxiv.org/abs/1502.06464](http://arxiv.org/abs/1502.06464)
 - github: [https://github.com/untom/librfn](https://github.com/untom/librfn)
 
+**Semi-Supervised Learning with Ladder Networks**
+
+- arxiv: [http://arxiv.org/abs/1507.02672](http://arxiv.org/abs/1507.02672)
+- github: [https://github.com/CuriousAI/ladder](https://github.com/CuriousAI/ladder)
+
 **A Unified Approach for Learning the Parameters of Sum-Product Networks (SPN)**
 
 - intro: "The Sum-Product Network (SPN) is a new type of machine learning model 
