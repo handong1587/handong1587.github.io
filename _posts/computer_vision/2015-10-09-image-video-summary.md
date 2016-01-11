@@ -38,6 +38,10 @@ Further, the blending still may bring artifacts on the boundaries of different i
 image salience, canvas constraint, natural preference, and user interaction"
 - paper: [http://mmlab.ie.cuhk.edu.hk/archive/2009/07_Picture.pdf](http://mmlab.ie.cuhk.edu.hk/archive/2009/07_Picture.pdf)
 
+**Efficient Optimization of Photo Collage**
+
+- paper: [http://research.microsoft.com/pubs/80783/Collage_techreport.pdf](http://research.microsoft.com/pubs/80783/Collage_techreport.pdf)
+
 # Video Collage
 
 **Video collage: A novel presentation of video sequence (ICME 2007)**

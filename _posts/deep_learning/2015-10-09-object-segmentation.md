@@ -7,7 +7,7 @@ date: 2015-10-09
 
 **Deep Joint Task Learning for Generic Object Extraction(NIPS2014)**
 
-<img src="/assets/object-segmentation-materials/Deep_Joint_Task_Learning_for_Generic_Object_Extraction_demo.png" width="800" />
+![](http://vision.sysu.edu.cn/vision_sysu/wp-content/uploads/2013/05/%E5%B0%8FQ%E6%88%AA%E5%9B%BE-20141019095211.png)
 
 - homepage: [http://vision.sysu.edu.cn/projects/deep-joint-task-learning/](http://vision.sysu.edu.cn/projects/deep-joint-task-learning/)
 - paper: [http://ss.sysu.edu.cn/~ll/files/NIPS2014_JointTask.pdf](http://ss.sysu.edu.cn/~ll/files/NIPS2014_JointTask.pdf)
@@ -39,7 +39,7 @@ date: 2015-10-09
 
 **Conditional Random Fields as Recurrent Neural Networks(ICCV2015. Oxford/Stanford/Baidu)**
 
-<img src="/assets/object-segmentation-materials/Conditional_Random_Fields_as_Recurrent_Neural_Networks_sample.png" width="800" />
+![](http://www.robots.ox.ac.uk/~szheng/Res_CRFRNN/CRFasRNN.jpg)
 
 - arXiv: [http://arxiv.org/abs/1502.03240](http://arxiv.org/abs/1502.03240)
 - homepage: [http://www.robots.ox.ac.uk/~szheng/CRFasRNN.html](http://www.robots.ox.ac.uk/~szheng/CRFasRNN.html)
@@ -56,14 +56,14 @@ date: 2015-10-09
 
 **Semantic Image Segmentation via Deep Parsing Network**
 
-<img src="/assets/object-segmentation-materials/DPN_intro.png" />
+![](http://personal.ie.cuhk.edu.hk/~lz013/projects/dpn/intro.png)
 
 - paper: [http://arxiv.org/abs/1509.02634](http://arxiv.org/abs/1509.02634)
 - homepage: [http://personal.ie.cuhk.edu.hk/~lz013/projects/DPN.html](http://personal.ie.cuhk.edu.hk/~lz013/projects/DPN.html)
 
 **Decoupled Deep Neural Network for Semi-supervised Semantic Segmentation(NIPS 2015)**
 
-<img src="/assets/object-segmentation-materials/Decoupled_Deep_Neural_Network_for_Semi-supervised_Semantic_Segmentation_overall.png" width="800" />
+![](http://cvlab.postech.ac.kr/research/decouplednet/images/overall.png)
 
 - paper: [http://arxiv.org/abs/1506.04924](http://arxiv.org/abs/1506.04924)
 - project[paper+code]: [http://cvlab.postech.ac.kr/research/decouplednet/](http://cvlab.postech.ac.kr/research/decouplednet/)
@@ -80,7 +80,7 @@ date: 2015-10-09
 
 **SegNet: A Deep Convolutional Encoder-Decoder Architecture for Image Segmentation**
 
-<img src="/assets/object-segmentation-materials/segnet.png"/>
+![](http://mi.eng.cam.ac.uk/projects/segnet/images/segnet.png)
 
 - homepage: [http://mi.eng.cam.ac.uk/projects/segnet/](http://mi.eng.cam.ac.uk/projects/segnet/)
 - arXiv: [http://arxiv.org/abs/1511.00561](http://arxiv.org/abs/1511.00561)
@@ -89,7 +89,12 @@ date: 2015-10-09
 
 **Recurrent Instance Segmentation**
 
-<img src="/assets/object-segmentation-materials/RIS.png"/>
+![](http://romera-paredes.com/wp-content/uploads/2015/12/RIS.png)
 	
 - arXiv: [http://arxiv.org/abs/1511.08250](http://arxiv.org/abs/1511.08250)
 - homepage: [http://romera-paredes.com/recurrent-instance-segmentation](http://romera-paredes.com/recurrent-instance-segmentation)
+
+**Instance-aware Semantic Segmentation via Multi-task Network Cascades**
+
+- intro: "1st-place winner of MS COCO 2015 segmentation competition"
+- arxiv: [http://arxiv.org/abs/1512.04412](http://arxiv.org/abs/1512.04412)
