@@ -193,6 +193,11 @@ date: 2015-10-09
 
 - code: [https://github.com/kuprel/pycaffe-recurrent/](https://github.com/kuprel/pycaffe-recurrent/)
 
+**Using neural networks for password cracking**
+
+- blog: [https://0day.work/using-neural-networks-for-password-cracking/](https://0day.work/using-neural-networks-for-password-cracking/)
+- github: [https://github.com/gehaxelt/RNN-Passwords](https://github.com/gehaxelt/RNN-Passwords)
+
 # Blog
 
 **Survey on Attention-based Models Applied in NLP**
