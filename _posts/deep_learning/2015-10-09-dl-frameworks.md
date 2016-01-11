@@ -37,6 +37,13 @@ date: 2015-10-09
 - tutorials("CAFFE with CUDA"): [http://pan.baidu.com/s/1i4kmpyH](http://pan.baidu.com/s/1i4kmpyH)
 - blog("Convolution in Caffe: a memo"): [https://github.com/Yangqing/caffe/wiki/Convolution-in-Caffe:-a-memo](https://github.com/Yangqing/caffe/wiki/Convolution-in-Caffe:-a-memo)
 
+**ApolloCaffe: a fork of Caffe that supports dynamic networks**
+
+- homepage: [http://apollocaffe.com/](http://apollocaffe.com/)
+- github: [http://github.com/Russell91/apollocaffe](http://github.com/Russell91/apollocaffe)
+
+- - -
+
 **OpenCV 3.0.0-dev: Load Caffe framework models**
 
 [http://docs.opencv.org/master/d5/de7/tutorial_dnn_googlenet.html#gsc.tab=0](http://docs.opencv.org/master/d5/de7/tutorial_dnn_googlenet.html#gsc.tab=0)
