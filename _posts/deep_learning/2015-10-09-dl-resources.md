@@ -45,6 +45,20 @@ date: 2015-10-09
 - github: [https://github.com/alrojo/lasagne_residual_network](https://github.com/alrojo/lasagne_residual_network)
 - github: [https://github.com/shuokay/resnet](https://github.com/shuokay/resnet)
 
+- - -
+
+**Network In Network**
+
+- arxiv: [http://arxiv.org/abs/1312.4400](http://arxiv.org/abs/1312.4400)
+
+**Striving for Simplicity: The All Convolutional Net**
+
+- arxiv: [http://arxiv.org/abs/1412.6806](http://arxiv.org/abs/1412.6806)
+
+**Batch-normalized Maxout Network in Network**
+
+- arxiv: [http://arxiv.org/abs/1511.02583](http://arxiv.org/abs/1511.02583)
+
 # Optimization Methods
 
 **On Optimization Methods for Deep Learning**
@@ -356,10 +370,6 @@ with fast exact probabilistic inference over many layers."
 **A Mathematical Theory of Deep Convolutional Neural Networks for Feature Extraction**
 
 - arxiv: [http://arxiv.org/abs/1512.06293](http://arxiv.org/abs/1512.06293)
-
-**Batch-normalized Maxout Network in Network**
-
-- arxiv: [http://arxiv.org/abs/1511.02583](http://arxiv.org/abs/1511.02583)
 
 # Codes
 

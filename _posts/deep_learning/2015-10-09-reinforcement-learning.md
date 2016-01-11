@@ -142,3 +142,7 @@ date: 2015-10-09
 
 - website: [http://aikorea.org/awesome-rl/?utm_content=buffer5d0f3&utm_medium=social&utm_source=plus.google.com&utm_campaign=buffer#online-demos](http://aikorea.org/awesome-rl/?utm_content=buffer5d0f3&utm_medium=social&utm_source=plus.google.com&utm_campaign=buffer#online-demos)
 - github: [https://github.com/aikorea/awesome-rl](https://github.com/aikorea/awesome-rl)
+
+**Deep Reinforcement Learning Papers**
+
+- github: [https://github.com/muupan/deep-reinforcement-learning-papers](https://github.com/muupan/deep-reinforcement-learning-papers)

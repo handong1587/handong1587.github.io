@@ -160,7 +160,8 @@ date: 2015-08-27
 
 **AWESOME-RANDOM-FOREST - a curated list of resources regarding random forest**
 
-[http://jiwonkim.org/awesome-random-forest/](http://jiwonkim.org/awesome-random-forest/)
+- blog: [http://jiwonkim.org/awesome-random-forest/](http://jiwonkim.org/awesome-random-forest/)
+- github: [https://github.com/kjw0612/awesome-random-forest](https://github.com/kjw0612/awesome-random-forest)
 
 **The Unreasonable Effectiveness of Random Forests**
 
@@ -221,6 +222,10 @@ date: 2015-08-27
 - blog: [http://nicksparallellaideas.blogspot.com.au/2015/12/getting-it-done-what-i-learnt-from.html](http://nicksparallellaideas.blogspot.com.au/2015/12/getting-it-done-what-i-learnt-from.html)
 - blog: [http://pan.baidu.com/s/1sk6VPBf](http://pan.baidu.com/s/1sk6VPBf)
 
+**Learning How To Code Neural Networks**
+
+- blog: [https://medium.com/learning-new-stuff/how-to-learn-neural-networks-758b78f2736e#.nc2bx42ct](https://medium.com/learning-new-stuff/how-to-learn-neural-networks-758b78f2736e#.nc2bx42ct)
+
 # Conditional Random Fields
 
 **conditional random fields**
@@ -246,6 +251,16 @@ date: 2015-08-27
 **Markov Logic Networks**
 
 - paper: [http://homes.cs.washington.edu/~pedrod/papers/mlj05.pdf](http://homes.cs.washington.edu/~pedrod/papers/mlj05.pdf)
+
+# Matrix Computations
+
+**Randomized Numerical Linear Algebra for Large Scale Data Analysis**
+
+[http://researcher.watson.ibm.com/researcher/view_group.php?id=5131](http://researcher.watson.ibm.com/researcher/view_group.php?id=5131)
+
+**Sketching-based Matrix Computations for Machine Learning**
+
+[http://xdata-skylark.github.io/libskylark/](http://xdata-skylark.github.io/libskylark/)
 
 # Matrix Factorization
 
@@ -284,6 +299,12 @@ date: 2015-08-27
 
 - arXiv: [http://arxiv.org/abs/1405.4980](http://arxiv.org/abs/1405.4980)
 - blog: [https://blogs.princeton.edu/imabandit/2015/11/30/convex-optimization-algorithms-and-complexity/](https://blogs.princeton.edu/imabandit/2015/11/30/convex-optimization-algorithms-and-complexity/)
+
+# Gaussian Processes
+
+**The Gaussian Processes Web Site**
+
+- blog: [http://www.gaussianprocess.org/](http://www.gaussianprocess.org/)
 
 # Multilabel Learning
 
@@ -343,6 +364,10 @@ date: 2015-08-27
 **Some Notes on Applied Mathematics for Machine**
 
 - paper: [http://research.microsoft.com/en-us/um/people/cburges/tech_reports/tr-2004-56.pdf](http://research.microsoft.com/en-us/um/people/cburges/tech_reports/tr-2004-56.pdf)
+
+**An extended collection of matrix derivative results for forward and reverse mode algorithmic differentiation**
+
+- paper: [https://people.maths.ox.ac.uk/gilesm/files/NA-08-01.pdf](https://people.maths.ox.ac.uk/gilesm/files/NA-08-01.pdf)
 
 # L-BFGS
 
