@@ -226,7 +226,6 @@ date: 2015-10-09
 - cheatsheet: [https://github.com/torch/torch7/wiki/Cheatsheet](https://github.com/torch/torch7/wiki/Cheatsheet) 
 - tutorials("Getting started with Torch"): [http://torch.ch/docs/getting-started.html#_](http://torch.ch/docs/getting-started.html#_)
 
-
 # VELES
 
 **VELES: Distributed platform for rapid Deep learning application development**
