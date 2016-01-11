@@ -5,6 +5,8 @@ title: Random Field
 date: 2015-08-27
 ---
 
+# Markov Random Field
+
 # Conditional Random Fields
 
 **conditional random fields**
@@ -24,3 +26,7 @@ date: 2015-08-27
 
 - video: [http://videolectures.net/cikm08_elkan_llmacrf/](http://videolectures.net/cikm08_elkan_llmacrf/)
 - slides: [http://pan.baidu.com/s/1sjE0WfN](http://pan.baidu.com/s/1sjE0WfN)
+
+# Gibbs Random Field
+
+# Gaussian Random Field
