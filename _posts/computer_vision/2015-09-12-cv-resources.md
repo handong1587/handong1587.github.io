@@ -83,16 +83,6 @@ date: 2015-09-12
 
 - paper: [https://people.csail.mit.edu/mrub/papers/ObstructionFreePhotograpy_SIGGRAPH2015.pdf](https://people.csail.mit.edu/mrub/papers/ObstructionFreePhotograpy_SIGGRAPH2015.pdf)
 
-# HOG
-
-**Optimizing and Parallelizing Histogram of Oriented Gradients Computation**
-
-- project page: [http://bwasti.com/418](http://bwasti.com/418)
-
-**Histogram of Oriented Gradients**
-
-- notes: [http://www.cs.duke.edu/courses/fall15/compsci527/notes/hog.pdf](http://www.cs.duke.edu/courses/fall15/compsci527/notes/hog.pdf)
-
 # Bag Of Words
 
 # Activity Recognition
