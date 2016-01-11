@@ -102,6 +102,11 @@ date: 2015-10-09
 
 - arxiv: [http://arxiv.org/abs/1512.01563](http://arxiv.org/abs/1512.01563)
 
+**Angrier Birds: Bayesian reinforcement learning**
+
+- arxiv: [http://arxiv.org/abs/1601.01297](http://arxiv.org/abs/1601.01297)
+- github: [https://github.com/imanolarrieta/angrybirds](https://github.com/imanolarrieta/angrybirds)
+
 # Blogs
 
 **A Short Introduction To Some Reinforcement Learning Algorithms**
