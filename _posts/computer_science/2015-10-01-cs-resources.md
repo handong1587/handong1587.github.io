@@ -26,4 +26,5 @@ date: 2015-10-01
 - intro: "Gecode is a toolkit for developing constraint-based systems and applications. 
 Gecode provides a constraint solver with state-of-the-art performance while being modular and extensible."
 - homepage: [http://www.gecode.org/](http://www.gecode.org/)
+- doc("Modeling and Programming with Gecode"): [http://www.gecode.org/doc-latest/MPG.pdf](http://www.gecode.org/doc-latest/MPG.pdf)
 - github: [https://github.com/ampl/gecode](https://github.com/ampl/gecode)
