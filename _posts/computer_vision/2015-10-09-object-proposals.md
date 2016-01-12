@@ -10,3 +10,7 @@ date: 2015-10-09
 - homepage: [https://www.mpi-inf.mpg.de/departments/computer-vision-and-multimodal-computing/research/object-recognition-and-scene-understanding/how-good-are-detection-proposals-really/](https://www.mpi-inf.mpg.de/departments/computer-vision-and-multimodal-computing/research/object-recognition-and-scene-understanding/how-good-are-detection-proposals-really/)
 - arXiv: [http://arxiv.org/abs/1502.05082](http://arxiv.org/abs/1502.05082)
 - github: [https://github.com/hosang/detection-proposals](https://github.com/hosang/detection-proposals)
+
+**BING++: A Fast High Quality Object Proposal Generator at 100fps**
+
+- arxiv: [http://arxiv.org/abs/1511.04511](http://arxiv.org/abs/1511.04511)
