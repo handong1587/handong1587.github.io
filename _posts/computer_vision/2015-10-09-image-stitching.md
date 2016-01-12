@@ -62,3 +62,9 @@ date: 2015-10-09
 **Assignment: Image stitching with RANSAC**
 
 [https://people.cs.umass.edu/~elm/Teaching/Docs/assign_RANSAC.pdf](https://people.cs.umass.edu/~elm/Teaching/Docs/assign_RANSAC.pdf)
+
+# Blogs
+
+**OpenCV panorama stitching**
+
+[http://www.pyimagesearch.com/2016/01/11/opencv-panorama-stitching/](http://www.pyimagesearch.com/2016/01/11/opencv-panorama-stitching/)
