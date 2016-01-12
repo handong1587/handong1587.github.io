@@ -15,11 +15,19 @@ date: 2015-10-01
 
 - page: [http://www.math.unipd.it/~frossi/chapter4.pdf](http://www.math.unipd.it/~frossi/chapter4.pdf)
 
+## Courses
+
+**Saarland University: Constraint Programming: Services**
+
+- homepage: [http://www.ps.uni-saarland.de/courses/cp-ss07/services.html](http://www.ps.uni-saarland.de/courses/cp-ss07/services.html)
+
+## Blogs
+
 **My Constraint Programming Blog**
 
 - blog: [http://www.hakank.org/constraint_programming_blog/](http://www.hakank.org/constraint_programming_blog/)
 
-# Tools
+## Tools
 
 **Gecode**
 
