@@ -269,9 +269,9 @@ date: 2015-10-09
 
 - arxiv: [http://arxiv.org/abs/1507.06228](http://arxiv.org/abs/1507.06228)
 
-**Very Deep Learning with Highway Networks - papers, code, FAQ**
+**Very Deep Learning with Highway Networks**
 
-- homepage: [http://people.idsia.ch/~rupesh/very_deep_learning/](http://people.idsia.ch/~rupesh/very_deep_learning/)
+- homepage(papers, code, FAQ): [http://people.idsia.ch/~rupesh/very_deep_learning/](http://people.idsia.ch/~rupesh/very_deep_learning/)
 
 **Rectified Factor Networks**
 
