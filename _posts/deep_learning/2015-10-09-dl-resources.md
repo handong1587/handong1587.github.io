@@ -119,6 +119,12 @@ date: 2015-10-09
 
 - arxiv: [http://arxiv.org/abs/1511.06422](http://arxiv.org/abs/1511.06422)
 
+# Loss Function
+
+**The Loss Surfaces of Multilayer Networks**
+
+- arxiv: [http://arxiv.org/abs/1412.0233](http://arxiv.org/abs/1412.0233)
+
 # Tensor
 
 **Tensorizing Neural Networks**
