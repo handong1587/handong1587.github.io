@@ -36,3 +36,5 @@ Gecode provides a constraint solver with state-of-the-art performance while bein
 - homepage: [http://www.gecode.org/](http://www.gecode.org/)
 - doc("Modeling and Programming with Gecode"): [http://www.gecode.org/doc-latest/MPG.pdf](http://www.gecode.org/doc-latest/MPG.pdf)
 - github: [https://github.com/ampl/gecode](https://github.com/ampl/gecode)
+- slides("Tutorial on Gecode Constraint Programming"): [http://www.cs.upc.edu/~erodri/webpage/cps/lab/cp/tutorial-gecode-slides/slides.pdf](http://www.cs.upc.edu/~erodri/webpage/cps/lab/cp/tutorial-gecode-slides/slides.pdf)
+- slides("Lecture 4: CP Solvers Gecode"): [http://www.imada.sdu.dk/~marco/DM826/Slides/dm826-lec4.pdf](http://www.imada.sdu.dk/~marco/DM826/Slides/dm826-lec4.pdf)
