@@ -21,6 +21,12 @@ date: 2015-10-01
 
 - homepage: [http://www.ps.uni-saarland.de/courses/cp-ss07/services.html](http://www.ps.uni-saarland.de/courses/cp-ss07/services.html)
 
+# Books
+
+**Constraint Programming in Music**
+
+[http://as.wiley.com/WileyCDA/WileyTitle/productCd-1848212887.html](http://as.wiley.com/WileyCDA/WileyTitle/productCd-1848212887.html)
+
 ## Blogs
 
 **My Constraint Programming Blog**
