@@ -15,7 +15,11 @@ date: 2015-10-01
 
 - page: [http://www.math.unipd.it/~frossi/chapter4.pdf](http://www.math.unipd.it/~frossi/chapter4.pdf)
 
-## Courses
+# Courses
+
+**Coursera: Discrete Optimization**
+
+- homepage: [https://www.coursera.org/course/optimization](https://www.coursera.org/course/optimization)
 
 **Saarland University: Constraint Programming: Services**
 
@@ -27,7 +31,7 @@ date: 2015-10-01
 
 [http://as.wiley.com/WileyCDA/WileyTitle/productCd-1848212887.html](http://as.wiley.com/WileyCDA/WileyTitle/productCd-1848212887.html)
 
-## Blogs
+# Blogs
 
 **Constraint Programming**
 
@@ -37,7 +41,7 @@ date: 2015-10-01
 
 - blog: [http://www.hakank.org/constraint_programming_blog/](http://www.hakank.org/constraint_programming_blog/)
 
-## Tools
+# Tools
 
 **Gecode**
 
