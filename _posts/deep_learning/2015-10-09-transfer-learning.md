@@ -13,6 +13,12 @@ date: 2015-10-09
 
 - paper: [http://research.microsoft.com/pubs/214307/paper.pdf](http://research.microsoft.com/pubs/214307/paper.pdf)
 
+**Simultaneous Deep Transfer Across Domains and Tasks**
+
+![](http://www.eecs.berkeley.edu/~jhoffman/figs/Tzeng_ICCV2015.png)
+
+- arxiv: [http://arxiv.org/abs/1510.02192](http://arxiv.org/abs/1510.02192)
+
 **Net2Net: Accelerating Learning via Knowledge Transfer**
 
 - arXiv: [http://arxiv.org/abs/1511.05641](http://arxiv.org/abs/1511.05641)
