@@ -25,6 +25,10 @@ date: 2015-10-01
 
 - homepage: [http://www.ps.uni-saarland.de/courses/cp-ss07/services.html](http://www.ps.uni-saarland.de/courses/cp-ss07/services.html)
 
+**Combinatorial Problem Solving (CPS)**
+
+[http://www.cs.upc.edu/~erodri/webpage/cps/cps.html](http://www.cs.upc.edu/~erodri/webpage/cps/cps.html)
+
 # Books
 
 **Constraint Programming in Music**
@@ -40,6 +44,10 @@ date: 2015-10-01
 **My Constraint Programming Blog**
 
 - blog: [http://www.hakank.org/constraint_programming_blog/](http://www.hakank.org/constraint_programming_blog/)
+
+**Common constraint programming problems**
+
+- blog: [http://www.hakank.org/common_cp_models/](http://www.hakank.org/common_cp_models/)
 
 # Tools
 

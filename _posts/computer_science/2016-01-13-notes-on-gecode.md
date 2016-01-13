@@ -21,3 +21,7 @@ Gecode provides a constraint solver with state-of-the-art performance while bein
 **DM841 Discrete Optimization, Part II: Lecture 2 Example Gecode**
 
 - slides: [http://www.imada.sdu.dk/~marco/Teaching/AY2014-2015/DM841/Slides/dm841-p2-lec2.pdf](http://www.imada.sdu.dk/~marco/Teaching/AY2014-2015/DM841/Slides/dm841-p2-lec2.pdf)
+
+**hakank's code**
+
+[http://www.hakank.org/gecode/send_more_money_any_base.cpp](http://www.hakank.org/gecode/send_more_money_any_base.cpp)
