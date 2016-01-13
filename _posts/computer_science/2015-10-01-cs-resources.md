@@ -29,6 +29,10 @@ date: 2015-10-01
 
 ## Blogs
 
+**Constraint Programming**
+
+- blog: [http://www.hakank.org/constraint_programming/](http://www.hakank.org/constraint_programming/)
+
 **My Constraint Programming Blog**
 
 - blog: [http://www.hakank.org/constraint_programming_blog/](http://www.hakank.org/constraint_programming_blog/)
