@@ -49,3 +49,8 @@ Gecode provides a constraint solver with state-of-the-art performance while bein
 - slides("Tutorial on Gecode Constraint Programming"): [http://www.cs.upc.edu/~erodri/webpage/cps/lab/cp/tutorial-gecode-slides/slides.pdf](http://www.cs.upc.edu/~erodri/webpage/cps/lab/cp/tutorial-gecode-slides/slides.pdf)
 - slides("Lecture 4: CP Solvers Gecode"): [http://www.imada.sdu.dk/~marco/DM826/Slides/dm826-lec4.pdf](http://www.imada.sdu.dk/~marco/DM826/Slides/dm826-lec4.pdf)
 - blog("My Gecode page"): [http://www.hakank.org/gecode/](http://www.hakank.org/gecode/)
+
+**Google Optimization Tools**
+
+- homepage: [https://developers.google.com/optimization/](https://developers.google.com/optimization/)
+- github: [https://github.com/google/or-tools](https://github.com/google/or-tools)
