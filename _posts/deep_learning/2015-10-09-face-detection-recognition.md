@@ -8,7 +8,12 @@ date: 2015-10-09
 * TOC
 {:toc}
 
-# Paper
+# Papers
+
+**Deep Learning Face Representation from Predicting 10,000 Classes**
+
+- paper: [http://mmlab.ie.cuhk.edu.hk/pdf/YiSun_CVPR14.pdf](http://mmlab.ie.cuhk.edu.hk/pdf/YiSun_CVPR14.pdf)
+- github: [https://github.com/stdcoutzyx/DeepID_FaceClassify](https://github.com/stdcoutzyx/DeepID_FaceClassify)
 
 **Multi-view Face Detection Using Deep Convolutional Neural Networks(Yahoo)**
 
