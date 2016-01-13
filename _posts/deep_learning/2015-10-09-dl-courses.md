@@ -32,6 +32,14 @@ date: 2015-07-01
 
 [http://www.cs.bham.ac.uk/~jxb/inc.html](http://www.cs.bham.ac.uk/~jxb/inc.html)
 
+**Neural networks class - Université de Sherbrooke**
+
+- intro: by Hugo Larochelle
+- youtube: [https://www.youtube.com/playlist?list=PL6Xpj9I5qXYEcOhn7TqghAJ6NAPrNmUBH](https://www.youtube.com/playlist?list=PL6Xpj9I5qXYEcOhn7TqghAJ6NAPrNmUBH)
+- video: [http://pan.baidu.com/s/1bnwEe8R](http://pan.baidu.com/s/1bnwEe8R)
+- course content: [http://info.usherbrooke.ca/hlarochelle/neural_networks/content.html](http://info.usherbrooke.ca/hlarochelle/neural_networks/content.html)
+- google group: [https://groups.google.com/forum/#!forum/neural-networks-online-course](https://groups.google.com/forum/#!forum/neural-networks-online-course)
+
 # Computer Vision
 
 **Stanford CS231n: Convolutional Neural Networks for Visual Recognition**
