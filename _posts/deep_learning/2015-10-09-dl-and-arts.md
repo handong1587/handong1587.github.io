@@ -117,6 +117,12 @@ date: 2015-10-09
 - website: [https://gist.github.com/genekogan/d61c8010d470e1dbe15d](https://gist.github.com/genekogan/d61c8010d470e1dbe15d)
 - sample: [https://vimeo.com/139123754](https://vimeo.com/139123754)
 
+# Poetry
+
+**NeuralSnap: Generates poetry from images using convolutional and recurrent neural networks**
+
+- github: [https://github.com/rossgoodwin/neuralsnap](https://github.com/rossgoodwin/neuralsnap)
+
 # Courses
 
 **Learning Machines**
