@@ -27,6 +27,12 @@ date: 2015-08-27
 
 [http://web.engr.oregonstate.edu/~tgd/projects/tutorials.html](http://web.engr.oregonstate.edu/~tgd/projects/tutorials.html)
 
+**Machine Learning Tutorials**
+
+- intro: "This repository contains a topic-wise curated list of Machine Learning and Deep Learning tutorials, articles and other resources. 
+Other awesome lists can be found in this [list](https://github.com/sindresorhus/awesome)."
+- github: [https://github.com/ujjwalkarn/Machine-Learning-Tutorials/blob/master/README.md](https://github.com/ujjwalkarn/Machine-Learning-Tutorials/blob/master/README.md)
+
 # Competitions
 
 **Machine learning best practices we've learned from hundreds of competitions (Kaggle: Ben Hamner)**
