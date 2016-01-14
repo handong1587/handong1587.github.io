@@ -247,6 +247,16 @@ Other awesome lists can be found in this [list](https://github.com/sindresorhus/
 
 - github: [https://github.com/spotify/annoy](https://github.com/spotify/annoy)
 
+# Online Learning
+
+**Lecture Notes on Online Learning**
+
+- notes: [http://www-stat.wharton.upenn.edu/~rakhlin/courses/stat991/papers/lecture_notes.pdf](http://www-stat.wharton.upenn.edu/~rakhlin/courses/stat991/papers/lecture_notes.pdf)
+
+**Scale-Free Online Learning**
+
+- arxiv: [http://arxiv.org/abs/1601.01974](http://arxiv.org/abs/1601.01974)
+
 # Tricks
 
 **Machine Learning Trick of the Day**
