@@ -31,3 +31,10 @@ date: 2015-08-27
 
 - youtube: [https://www.youtube.com/watch?v=3kYujfDgmNk&hd=1](https://www.youtube.com/watch?v=3kYujfDgmNk&hd=1)
 - lectures: [http://www.cs.ubc.ca/~nando/540-2013/lectures.html](http://www.cs.ubc.ca/~nando/540-2013/lectures.html)
+
+# Codes
+
+**Random Forest demo in Javascript**
+
+- demo: [http://cs.stanford.edu/people/karpathy/svmjs/demo/demoforest.html](http://cs.stanford.edu/people/karpathy/svmjs/demo/demoforest.html)
+- github: [https://github.com/karpathy/forestjs](https://github.com/karpathy/forestjs)

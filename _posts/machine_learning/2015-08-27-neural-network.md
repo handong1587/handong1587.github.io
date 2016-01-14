@@ -27,3 +27,9 @@ date: 2015-08-27
 **Learning How To Code Neural Networks**
 
 - blog: [https://medium.com/learning-new-stuff/how-to-learn-neural-networks-758b78f2736e#.nc2bx42ct](https://medium.com/learning-new-stuff/how-to-learn-neural-networks-758b78f2736e#.nc2bx42ct)
+
+# Tools
+
+**Neural Networks demo in Javascript**
+
+- demo: [http://cs.stanford.edu/people/karpathy/svmjs/demo/demonn.html](http://cs.stanford.edu/people/karpathy/svmjs/demo/demonn.html)
