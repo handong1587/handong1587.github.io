@@ -30,6 +30,12 @@ date: 2015-10-09
 - blog: [http://larseidnes.com/2015/12/18/painting-videos-with-neural-networks/](http://larseidnes.com/2015/12/18/painting-videos-with-neural-networks/)
 - github: [https://github.com/larspars/neural-style-video](https://github.com/larspars/neural-style-video)
 
+**Artificial Startup Style: Neural art about startup fashion**
+
+![](https://cdn-images-1.medium.com/max/800/1*n2cmWDB42iUij8TCil9yLA.png)
+
+- blog: [https://medium.com/data-engineering/artificial-startup-style-437f6090b1f7#.8u06gq42e](https://medium.com/data-engineering/artificial-startup-style-437f6090b1f7#.8u06gq42e)
+
 - - -
 
 **From Pixels to Paragraphs: How artistic experiments with deep learning guard us from hype**
