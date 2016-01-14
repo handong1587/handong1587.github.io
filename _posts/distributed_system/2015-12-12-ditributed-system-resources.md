@@ -37,3 +37,9 @@ date: 2015-12-12
 
 - youtube: [https://www.youtube.com/watch?v=pNYBBhuK8yU](https://www.youtube.com/watch?v=pNYBBhuK8yU)
 - video: [http://pan.baidu.com/s/1mhzF1uK](http://pan.baidu.com/s/1mhzF1uK)
+
+# Blogs
+
+**Spark vs. Hadoop MapReduce**
+
+[https://www.xplenty.com/blog/2014/11/apache-spark-vs-hadoop-mapreduce/](https://www.xplenty.com/blog/2014/11/apache-spark-vs-hadoop-mapreduce/)
