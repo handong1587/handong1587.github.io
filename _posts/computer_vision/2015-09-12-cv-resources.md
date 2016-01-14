@@ -100,6 +100,12 @@ date: 2015-09-12
 - paper: [http://gfx.cs.princeton.edu/pubs/Barnes_2010_TGP/generalized_pm.pdf](http://gfx.cs.princeton.edu/pubs/Barnes_2010_TGP/generalized_pm.pdf)
 - code: [http://www.cs.princeton.edu/gfx/pubs/Barnes_2009_PAR/patchmatch-2.0.zip](http://www.cs.princeton.edu/gfx/pubs/Barnes_2009_PAR/patchmatch-2.0.zip)
 
+# SLAM
+
+**Why SLAM Matters, The Future of Real-Time SLAM, and Deep Learning vs SLAM**
+
+- blog: [http://www.computervisionblog.com/2016/01/why-slam-matters-future-of-real-time.html?m=1](http://www.computervisionblog.com/2016/01/why-slam-matters-future-of-real-time.html?m=1)
+
 # Applications
 
 **Target acquired: Finding targets in drone and quadcopter video streams using Python and OpenCV**
