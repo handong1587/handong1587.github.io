@@ -116,6 +116,10 @@ date: 2015-10-09
 
 - blog: [http://andyljones.tumblr.com/post/110998971763/an-explanation-of-xavier-initialization](http://andyljones.tumblr.com/post/110998971763/an-explanation-of-xavier-initialization)
 
+**Deep Neural Networks with Random Gaussian Weights: A Universal Classification Strategy?**
+
+- arxiv: [http://arxiv.org/abs/1504.08291](http://arxiv.org/abs/1504.08291)
+
 **All you need is a good init**
 
 - arxiv: [http://arxiv.org/abs/1511.06422](http://arxiv.org/abs/1511.06422)
