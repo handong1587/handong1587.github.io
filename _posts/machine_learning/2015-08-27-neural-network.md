@@ -5,7 +5,7 @@ title: Neural Network
 date: 2015-08-27
 ---
 
-# Neural Network
+# Papers
 
 **A Fast C++ Implementation of Neural Network Backpropagation Training Algorithm: Application to Bayesian Optimal Image Demosaicking**
 
@@ -18,6 +18,8 @@ date: 2015-08-27
 - blog: [https://medium.com/@savas/craig-using-neural-networks-to-learn-mario-a76036b639ad](https://medium.com/@savas/craig-using-neural-networks-to-learn-mario-a76036b639ad)
 - github: [https://github.com/joenot443/crAIg](https://github.com/joenot443/crAIg)
 - paper: [http://nn.cs.utexas.edu/downloads/papers/stanley.ec02.pdf](http://nn.cs.utexas.edu/downloads/papers/stanley.ec02.pdf)
+
+# Blogs
 
 **Getting It Done - What I learnt from finishing the Neural Network Algorithm**
 

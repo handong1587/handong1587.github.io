@@ -5,22 +5,26 @@ title: Random Forests
 date: 2015-08-27
 ---
 
-# Random Forests
-
-**AWESOME-RANDOM-FOREST - a curated list of resources regarding random forest**
-
-- blog: [http://jiwonkim.org/awesome-random-forest/](http://jiwonkim.org/awesome-random-forest/)
-- github: [https://github.com/kjw0612/awesome-random-forest](https://github.com/kjw0612/awesome-random-forest)
-
-**The Unreasonable Effectiveness of Random Forests**
-
-[https://medium.com/rants-on-machine-learning/the-unreasonable-effectiveness-of-random-forests-f33c3ce28883](https://medium.com/rants-on-machine-learning/the-unreasonable-effectiveness-of-random-forests-f33c3ce28883)
+# Papers
 
 **Mondrian Forests: Efficient Online Random Forests**
 
 - arXiv: [http://arxiv.org/abs/1406.2673](http://arxiv.org/abs/1406.2673)
 - github: [https://github.com/balajiln/mondrianforest](https://github.com/balajiln/mondrianforest)
 - video: [http://videolectures.net/sahd2014_teh_mondrian_forests/](http://videolectures.net/sahd2014_teh_mondrian_forests/)
+
+# Resources
+
+**AWESOME-RANDOM-FOREST - a curated list of resources regarding random forest**
+
+- blog: [http://jiwonkim.org/awesome-random-forest/](http://jiwonkim.org/awesome-random-forest/)
+- github: [https://github.com/kjw0612/awesome-random-forest](https://github.com/kjw0612/awesome-random-forest)
+
+# Blogs
+
+**The Unreasonable Effectiveness of Random Forests**
+
+[https://medium.com/rants-on-machine-learning/the-unreasonable-effectiveness-of-random-forests-f33c3ce28883](https://medium.com/rants-on-machine-learning/the-unreasonable-effectiveness-of-random-forests-f33c3ce28883)
 
 **Random forest interpretation with scikit-learn**
 
