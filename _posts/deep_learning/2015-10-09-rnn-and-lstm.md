@@ -58,6 +58,12 @@ date: 2015-10-09
 
 # Papers
 
+**Generating Sequences With Recurrent Neural Networks**
+
+- arxiv: [http://arxiv.org/abs/1308.0850](http://arxiv.org/abs/1308.0850)
+- github: [https://github.com/hardmaru/write-rnn-tensorflow](https://github.com/hardmaru/write-rnn-tensorflow)
+- blog: [http://blog.otoro.net/2015/12/12/handwriting-generation-demo-in-tensorflow/](http://blog.otoro.net/2015/12/12/handwriting-generation-demo-in-tensorflow/)
+
 **DRAW: A Recurrent Neural Network For Image Generation**
 
 - arXiv: [http://arxiv.org/abs/1502.04623](http://arxiv.org/abs/1502.04623)
