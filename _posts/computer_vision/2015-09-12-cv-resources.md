@@ -25,6 +25,12 @@ date: 2015-09-12
 
 [http://web.stanford.edu/class/cs231m/](http://web.stanford.edu/class/cs231m/)
 
+**CSCI1950-G Computational Photography**
+
+![](http://cs.brown.edu/courses/csci1950-g/images/montage_large.jpg)
+
+[http://cs.brown.edu/courses/csci1950-g/](http://cs.brown.edu/courses/csci1950-g/)
+
 # Image Super-Resolution
 
 **Image Super-Resolution Using Deep Convolutional Networks(Microsoft Research)**
