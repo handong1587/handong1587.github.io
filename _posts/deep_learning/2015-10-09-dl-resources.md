@@ -383,6 +383,11 @@ with fast exact probabilistic inference over many layers."
 
 - arxiv: [http://arxiv.org/abs/1512.06293](http://arxiv.org/abs/1512.06293)
 
+**Deep Neural Networks predict Hierarchical Spatio-temporal Cortical Dynamics of Human Visual Object Recognition**
+
+- arxiv: [http://arxiv.org/abs/1601.02970](http://arxiv.org/abs/1601.02970)
+- demo: [http://brainmodels.csail.mit.edu/dnn/drawCNN/](http://brainmodels.csail.mit.edu/dnn/drawCNN/)
+
 # Codes
 
 **deepnet: Implementation of some deep learning algorithms**

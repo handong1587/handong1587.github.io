@@ -155,6 +155,10 @@ date: 2015-09-12
 - website: [http://jiwonkim.org/awesome-deep-vision/](http://jiwonkim.org/awesome-deep-vision/)
 - github: [https://github.com/kjw0612/awesome-deep-vision](https://github.com/kjw0612/awesome-deep-vision)
 
+**Awesome Computer Vision**
+
+- github: [https://github.com/jbhuang0604/awesome-computer-vision](https://github.com/jbhuang0604/awesome-computer-vision)
+
 # Datasets
 
 **CVonline: Image Databases**
