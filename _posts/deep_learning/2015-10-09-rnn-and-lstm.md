@@ -175,7 +175,7 @@ date: 2015-10-09
 
 - blog: [http://www.wildml.com/2016/01/attention-and-memory-in-deep-learning-and-nlp/](http://www.wildml.com/2016/01/attention-and-memory-in-deep-learning-and-nlp/)
 
-# Code
+# Codes
 
 **NeuralTalk (Deprecated): a Python+numpy project for learning Multimodal Recurrent Neural Networks that describe images with sentences**
 
@@ -197,6 +197,12 @@ date: 2015-10-09
 
 - blog: [https://0day.work/using-neural-networks-for-password-cracking/](https://0day.work/using-neural-networks-for-password-cracking/)
 - github: [https://github.com/gehaxelt/RNN-Passwords](https://github.com/gehaxelt/RNN-Passwords)
+
+**Recurrent neural networks for decoding CAPTCHAS**
+
+- blog: [https://deepmlblog.wordpress.com/2016/01/12/recurrent-neural-networks-for-decoding-captchas/](https://deepmlblog.wordpress.com/2016/01/12/recurrent-neural-networks-for-decoding-captchas/)
+- demo: [http://simplecaptcha.sourceforge.net/](http://simplecaptcha.sourceforge.net/)
+- code: [http://sourceforge.net/projects/simplecaptcha/](http://sourceforge.net/projects/simplecaptcha/)
 
 # Blog
 
