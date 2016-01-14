@@ -106,6 +106,7 @@ date: 2015-10-09
 
 - arxiv: [http://arxiv.org/abs/1601.01297](http://arxiv.org/abs/1601.01297)
 - github: [https://github.com/imanolarrieta/angrybirds](https://github.com/imanolarrieta/angrybirds)
+- gitxiv: [http://gitxiv.com/posts/Nr2N7j4YrR4gnCYK9/angrier-birds-bayesian-reinforcement-learning](http://gitxiv.com/posts/Nr2N7j4YrR4gnCYK9/angrier-birds-bayesian-reinforcement-learning)
 
 # Blogs
 
