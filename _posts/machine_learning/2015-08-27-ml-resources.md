@@ -239,6 +239,14 @@ Other awesome lists can be found in this [list](https://github.com/sindresorhus/
 
 - slides: [http://www.public.asu.edu/~jye02/Software/MALSAR/MTL-SDM12.pdf](http://www.public.asu.edu/~jye02/Software/MALSAR/MTL-SDM12.pdf)
 
+# Nearest Neighbors
+
+**Annoy: Approximate Nearest Neighbors in C++/Python optimized for memory usage and loading/saving to disk**
+
+![](https://camo.githubusercontent.com/d6bf20e534ab76b67c731b566859a24149a4bf80/68747470733a2f2f7261772e6769746875622e636f6d2f73706f746966792f616e6e6f792f6d61737465722f616e6e2e706e67)
+
+- github: [https://github.com/spotify/annoy](https://github.com/spotify/annoy)
+
 # Tricks
 
 **Machine Learning Trick of the Day**
