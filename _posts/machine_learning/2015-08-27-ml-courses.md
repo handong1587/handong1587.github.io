@@ -90,3 +90,7 @@ date: 2015-08-27
 **Princeton Computer Science 598D: Overcoming Intractability in Machine Learning**
 
 [http://www.cs.princeton.edu/courses/archive/spring15/cos598D/](http://www.cs.princeton.edu/courses/archive/spring15/cos598D/)
+
+**Princeton Computer Science 511: Theoretical Machine Learning (by Rob Schapire)**
+
+[http://www.cs.princeton.edu/courses/archive/spring14/cos511/schedule.html](http://www.cs.princeton.edu/courses/archive/spring14/cos511/schedule.html)
