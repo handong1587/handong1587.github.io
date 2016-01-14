@@ -161,6 +161,10 @@ date: 2015-09-12
 
 [http://homepages.inf.ed.ac.uk/rbf/CVonline/Imagedbase.htm](http://homepages.inf.ed.ac.uk/rbf/CVonline/Imagedbase.htm)
 
+**Yet Another Computer Vision Index To Datasets (YACVID)**
+
+[http://riemenschneider.hayko.at/vision/dataset/](http://riemenschneider.hayko.at/vision/dataset/)
+
 # Blogs
 
 **From feature descriptors to deep learning: 20 years of computer vision**
