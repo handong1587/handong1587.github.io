@@ -9,7 +9,7 @@ date: 2015-10-09
 
 attempts to represent something in a visually appealing and compact way
 
-# Photo Collages
+# Photo Collage
 
 **AutoCollage (SIGGRAPH 2006)**
 
