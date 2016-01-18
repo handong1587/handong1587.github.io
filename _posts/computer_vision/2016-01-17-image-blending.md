@@ -28,6 +28,23 @@ date: 2016-01-17
 
 # Poisson Blending
 
+**Poisson Image Editing (SIGGRAPH 2003)**
+
+- paper: [http://cs.brown.edu/courses/csci1290/asgn/proj2/resources/PoissonImageEditing.pdf](http://cs.brown.edu/courses/csci1290/asgn/proj2/resources/PoissonImageEditing.pdf)
+- paper: [https://www.cs.jhu.edu/~misha/Fall07/Papers/Perez03.pdf](https://www.cs.jhu.edu/~misha/Fall07/Papers/Perez03.pdf)
+- slides: [https://graphics.ethz.ch/teaching/former/seminar/handouts/Weyrich_PoissonImageEditing.pdf](https://graphics.ethz.ch/teaching/former/seminar/handouts/Weyrich_PoissonImageEditing.pdf)
+- code(Matlab+C#): [https://code.google.com/p/imageblending/](https://code.google.com/p/imageblending/)
+
+- - -
+
+- github: [https://github.com/fbessho/PyPoi](https://github.com/fbessho/PyPoi)
+
+![](https://github.com/fbessho/PyPoi/blob/master/images/demo.gif)
+
+- - -
+
+- github(C++): [https://github.com/cheind/poisson-image-editing](https://github.com/cheind/poisson-image-editing)
+
 **Poisson Blending**
 
 - blog: [http://eric-yuan.me/poisson-blending/](http://eric-yuan.me/poisson-blending/)
@@ -41,3 +58,9 @@ date: 2016-01-17
 
 - intro: CS267: Lectures 15 and 16, Mar 5 and 7 1996
 - lecture: [http://www.cs.berkeley.edu/~demmel/cs267/lecture24/lecture24.html](http://www.cs.berkeley.edu/~demmel/cs267/lecture24/lecture24.html)
+
+**Gradient Domain Fusion Using Poisson Blending**
+
+![](http://120.52.72.72/cs.brown.edu/c3pr90ntcsf0/courses/cs129/results/proj2/taox/images/result_09.jpg)
+
+[http://cs.brown.edu/courses/cs129/results/proj2/taox/](http://cs.brown.edu/courses/cs129/results/proj2/taox/)
