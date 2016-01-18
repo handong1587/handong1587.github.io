@@ -34,15 +34,7 @@ date: 2016-01-17
 - paper: [https://www.cs.jhu.edu/~misha/Fall07/Papers/Perez03.pdf](https://www.cs.jhu.edu/~misha/Fall07/Papers/Perez03.pdf)
 - slides: [https://graphics.ethz.ch/teaching/former/seminar/handouts/Weyrich_PoissonImageEditing.pdf](https://graphics.ethz.ch/teaching/former/seminar/handouts/Weyrich_PoissonImageEditing.pdf)
 - code(Matlab+C#): [https://code.google.com/p/imageblending/](https://code.google.com/p/imageblending/)
-
-- - -
-
 - github: [https://github.com/fbessho/PyPoi](https://github.com/fbessho/PyPoi)
-
-![](https://github.com/fbessho/PyPoi/blob/master/images/demo.gif)
-
-- - -
-
 - github(C++): [https://github.com/cheind/poisson-image-editing](https://github.com/cheind/poisson-image-editing)
 
 **Poisson Blending**
