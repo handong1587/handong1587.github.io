@@ -86,6 +86,10 @@ date: 2015-09-12
 - github: [https://github.com/openalpr/openalpr](https://github.com/openalpr/openalpr)
 - tech reciew: [http://arstechnica.com/business/2015/12/new-open-source-license-plate-reader-software-lets-you-make-your-own-hot-list/](http://arstechnica.com/business/2015/12/new-open-source-license-plate-reader-software-lets-you-make-your-own-hot-list/)
 
+**Reading Car License Plates Using Deep Convolutional Neural Networks and LSTMs**
+
+- arxiv: [http://arxiv.org/abs/1601.05610](http://arxiv.org/abs/1601.05610)
+
 # Image Summary
 
 **Summarizing Visual Data Using Bidirectional Similarity**

@@ -158,6 +158,13 @@ date: 2015-10-09
 
 [http://phunter.farbox.com/post/mxnet-tutorial2](http://phunter.farbox.com/post/mxnet-tutorial2)
 
+# neocortex.js
+
+**Run trained deep neural networks in the browser or node.js**
+
+- homepage: [http://scienceai.github.io/neocortex/](http://scienceai.github.io/neocortex/)
+- github: [https://github.com/scienceai/neocortex](https://github.com/scienceai/neocortex)
+
 # Neon
 
 **Neon: Nervana’s Python-based deep learning library**

@@ -57,3 +57,7 @@ date: 2015-12-09
 **ImageNet and MS COCO Visual Recognition Challenges Joint Workshop**
 
 [http://image-net.org/challenges/ilsvrc+mscoco2015](http://image-net.org/challenges/ilsvrc+mscoco2015)
+
+**ICCV 2015 Tutorial on Tools for Efficient Object Detection**
+
+[http://mp7.watson.ibm.com/ICCV2015/ObjectDetectionICCV2015.html](http://mp7.watson.ibm.com/ICCV2015/ObjectDetectionICCV2015.html)

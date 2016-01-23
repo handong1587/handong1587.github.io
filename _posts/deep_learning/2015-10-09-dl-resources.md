@@ -140,6 +140,10 @@ date: 2015-10-09
 
 - arxiv: [http://arxiv.org/abs/1511.06422](http://arxiv.org/abs/1511.06422)
 
+**What are good initial weights in a neural network?**
+
+- stackexchange: [http://stats.stackexchange.com/questions/47590/what-are-good-initial-weights-in-a-neural-network](http://stats.stackexchange.com/questions/47590/what-are-good-initial-weights-in-a-neural-network)
+
 # Loss Function
 
 **The Loss Surfaces of Multilayer Networks**
