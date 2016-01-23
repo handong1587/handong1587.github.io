@@ -14,3 +14,11 @@ date: 2015-11-18
 "What to expect when Facing Gandhi (Civ V)"
 
 [https://www.reddit.com/r/gaming/comments/1nvj2t/what_to_expect_when_facing_gandhi_civ_v/](https://www.reddit.com/r/gaming/comments/1nvj2t/what_to_expect_when_facing_gandhi_civ_v/)
+
+# Go
+
+**Number of legal Go positions**
+
+![](http://tromp.github.io/img/go/legal19.gif)
+
+- blog: [http://tromp.github.io/go/legal.html](http://tromp.github.io/go/legal.html)
