@@ -70,6 +70,11 @@ date: 2015-10-09
 
 - arXiv: [http://arxiv.org/abs/1512.02017](http://arxiv.org/abs/1512.02017)
 
+**An Interactive Node-Link Visualization of Convolutional Neural Networks**
+
+- homepage: [http://scs.ryerson.ca/~aharley/vis/](http://scs.ryerson.ca/~aharley/vis/)
+- code: [http://scs.ryerson.ca/~aharley/vis/source.zip](http://scs.ryerson.ca/~aharley/vis/source.zip)
+
 # Code
 
 **Interactive Deep Neural Net Hallucinations**
