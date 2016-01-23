@@ -28,3 +28,7 @@ date: 2015-12-25
 
 - intro: T--API, OpenCL, UMat, HAL
 - slides: [http://www.cvrobot.net/wp-content/uploads/2015/06/OpenCV3_CVPR_2015_Speed.pptx](http://www.cvrobot.net/wp-content/uploads/2015/06/OpenCV3_CVPR_2015_Speed.pptx)
+
+**Learning OpenCV: OpenCV examples and tutorials ( C++ / Python )**
+
+- homepage: [http://www.learnopencv.com/](http://www.learnopencv.com/)
