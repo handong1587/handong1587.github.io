@@ -27,3 +27,7 @@ date: 2015-10-09
 
 - arxiv: [http://arxiv.org/abs/1511.03855](http://arxiv.org/abs/1511.03855)
 - code: [http://cs.nju.edu.cn/lwj/code/DPSH_code.rar](http://cs.nju.edu.cn/lwj/code/DPSH_code.rar)
+
+**Group Invariant Deep Representations for Image Instance Retrieval**
+
+- arxiv: [http://arxiv.org/abs/1601.02093](http://arxiv.org/abs/1601.02093)

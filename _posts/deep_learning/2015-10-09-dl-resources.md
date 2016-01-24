@@ -436,6 +436,10 @@ with fast exact probabilistic inference over many layers."
 - arxiv: [http://arxiv.org/abs/1512.05616](http://arxiv.org/abs/1512.05616)
 - github: [https://github.com/tonybeltramelli/Deep-Spying](https://github.com/tonybeltramelli/Deep-Spying)
 
+**A Mathematical Theory of Deep Convolutional Neural Networks for Feature Extraction**
+
+- arxiv: [http://arxiv.org/abs/1512.06293](http://arxiv.org/abs/1512.06293)
+
 **Understanding Deep Convolutional Networks**
 
 - arxiv: [http://arxiv.org/abs/1601.04920](http://arxiv.org/abs/1601.04920)
