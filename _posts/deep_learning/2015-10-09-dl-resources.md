@@ -177,6 +177,12 @@ date: 2015-10-09
 
 - arxiv: [http://arxiv.org/abs/1512.05287](http://arxiv.org/abs/1512.05287)
 
+**Regularization of Neural Networks using DropConnect**
+
+- homepage: [http://cs.nyu.edu/~wanli/dropc/](http://cs.nyu.edu/~wanli/dropc/)
+- gitxiv: [http://gitxiv.com/posts/rJucpiQiDhQ7HkZoX/regularization-of-neural-networks-using-dropconnect](http://gitxiv.com/posts/rJucpiQiDhQ7HkZoX/regularization-of-neural-networks-using-dropconnect)
+- github: [https://github.com/iassael/torch-dropconnect](https://github.com/iassael/torch-dropconnect)
+
 # Deep Learning And Bayesian
 
 **Scalable Bayesian Optimization Using Deep Neural Networks (ICML 2015)**
