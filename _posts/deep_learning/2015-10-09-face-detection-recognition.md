@@ -10,6 +10,12 @@ date: 2015-10-09
 
 # Papers
 
+**Deeply learned face representations are sparse, selective, and robust (DeepID2+)**
+
+- arxiv: [http://arxiv.org/abs/1412.1265](http://arxiv.org/abs/1412.1265)
+- video: [http://research.microsoft.com/apps/video/?id=260023](http://research.microsoft.com/apps/video/?id=260023)
+- video: [http://pan.baidu.com/s/1boufl3x](http://pan.baidu.com/s/1boufl3x)
+
 **Deep Learning Face Representation from Predicting 10,000 Classes**
 
 - paper: [http://mmlab.ie.cuhk.edu.hk/pdf/YiSun_CVPR14.pdf](http://mmlab.ie.cuhk.edu.hk/pdf/YiSun_CVPR14.pdf)
