@@ -59,7 +59,11 @@ date: 2015-07-01
 **Stanford CS231n: Convolutional Neural Networks for Visual Recognition**
 
 - homepage: [http://cs231n.stanford.edu/](http://cs231n.stanford.edu/)
+- homepage: [http://vision.stanford.edu/teaching/cs231n/index.html](http://vision.stanford.edu/teaching/cs231n/index.html)
+- syllabus: [http://vision.stanford.edu/teaching/cs231n/syllabus.html](http://vision.stanford.edu/teaching/cs231n/syllabus.html)
 - github.io: [http://cs231n.github.io/](http://cs231n.github.io/)
+- youtube: [https://www.youtube.com/watch?v=NfnWJUyUJYU&feature=youtu.be](https://www.youtube.com/watch?v=NfnWJUyUJYU&feature=youtu.be)
+- video: [http://pan.baidu.com/s/1pKsTivp](http://pan.baidu.com/s/1pKsTivp)
 
 # Natural Language Processing
 
