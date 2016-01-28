@@ -9,6 +9,7 @@ date: 2015-10-09
 
 - arxiv: [http://arxiv.org/abs/1506.02025](http://arxiv.org/abs/1506.02025)
 - gitxiv: [http://gitxiv.com/posts/5WTXTLuEA4Hd8W84G/spatial-transformer-networks](http://gitxiv.com/posts/5WTXTLuEA4Hd8W84G/spatial-transformer-networks)
+- github: [https://github.com/daerduoCarey/SpatialTransformerLayer](https://github.com/daerduoCarey/SpatialTransformerLayer)
 - github: [https://github.com/qassemoquab/stnbhwd](https://github.com/qassemoquab/stnbhwd)
 - github: [https://github.com/skaae/transformer_network](https://github.com/skaae/transformer_network)
 - caffe-issue: [https://github.com/BVLC/caffe/issues/3114](https://github.com/BVLC/caffe/issues/3114)
