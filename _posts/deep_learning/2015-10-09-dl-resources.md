@@ -303,6 +303,10 @@ date: 2015-10-09
 - github: [https://github.com/s9xie/DSN](https://github.com/s9xie/DSN)
 - notes: [http://zhangliliang.com/2014/11/02/paper-note-dsn/](http://zhangliliang.com/2014/11/02/paper-note-dsn/)
 
+**Striving for Simplicity: The All Convolutional Net**
+
+- arxiv: [http://arxiv.org/abs/1412.6806](http://arxiv.org/abs/1412.6806)
+
 **Highway Networks**
 
 - arxiv: [http://arxiv.org/abs/1505.00387](http://arxiv.org/abs/1505.00387)
