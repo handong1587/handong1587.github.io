@@ -198,6 +198,10 @@ date: 2015-10-09
 
 - blog: [http://www.wildml.com/2016/01/attention-and-memory-in-deep-learning-and-nlp/](http://www.wildml.com/2016/01/attention-and-memory-in-deep-learning-and-nlp/)
 
+**Survey on the attention based RNN model and its applications in computer vision**
+
+- arxiv: [http://arxiv.org/abs/1601.06823](http://arxiv.org/abs/1601.06823)
+
 # Codes
 
 **NeuralTalk (Deprecated): a Python+numpy project for learning Multimodal Recurrent Neural Networks that describe images with sentences**
