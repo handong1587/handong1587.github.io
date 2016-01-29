@@ -37,6 +37,16 @@ date: 2015-10-09
 
 [http://web.cecs.pdx.edu/~kstew2/cs510vision/stitcher/](http://web.cecs.pdx.edu/~kstew2/cs510vision/stitcher/)
 
+# Image Haze Removal
+
+**Single Image Haze Removal**
+
+- project page: [http://research.microsoft.com/en-us/um/people/kahe/cvpr09/](http://research.microsoft.com/en-us/um/people/kahe/cvpr09/)
+
+**DehazeNet: An End-to-End System for Single Image Haze Removal**
+
+- arxiv: [http://arxiv.org/abs/1601.07661](http://arxiv.org/abs/1601.07661)
+
 # Graph Cut
 
 # GrabCut

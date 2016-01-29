@@ -28,6 +28,10 @@ date: 2015-10-09
 
 - arxiv: [http://arxiv.org/abs/1601.06615](http://arxiv.org/abs/1601.06615)
 
+**DehazeNet: An End-to-End System for Single Image Haze Removal**
+
+- arxiv: [http://arxiv.org/abs/1601.07661](http://arxiv.org/abs/1601.07661)
+
 # What to detect?
 
 ## Boundary Detection
