@@ -34,6 +34,10 @@ date: 2015-10-09
 - naturep page: [http://www.nature.com/nature/journal/v529/n7587/full/nature16961.html](http://www.nature.com/nature/journal/v529/n7587/full/nature16961.html)
 - blog: [http://www.furidamu.org/blog/2016/01/26/mastering-the-game-of-go-with-deep-neural-networks-and-tree-search/](http://www.furidamu.org/blog/2016/01/26/mastering-the-game-of-go-with-deep-neural-networks-and-tree-search/)
 
+**GoCNN: Using CNN for Go (Weiqi/Baduk) board evaluation with tensorflow**
+
+- github: [https://github.com/jmgilmer/GoCNN](https://github.com/jmgilmer/GoCNN)
+
 # Chess
 
 **Giraffe: Using Deep Reinforcement Learning to Play Chess (MSc thesis)**
