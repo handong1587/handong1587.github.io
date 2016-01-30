@@ -478,6 +478,13 @@ with fast exact probabilistic inference over many layers."
 - github: [https://github.com/patcat/Clarifai-Node-Demo](https://github.com/patcat/Clarifai-Node-Demo)
 - blog("How to Make Your Web App Smarter with Image Recognition"): [http://www.sitepoint.com/how-to-make-your-web-app-smarter-with-image-recognition/](http://www.sitepoint.com/how-to-make-your-web-app-smarter-with-image-recognition/)
 
+**Visual Search Server**
+
+![](https://github.com/AKSHAYUBHAT/VisualSearchServer/blob/master/appcode/static/alpha3.png)
+
+- intro: "A simple implementation of Visual Search using features extracted from Tensor Flow inception model"
+- github: [https://github.com/AKSHAYUBHAT/VisualSearchServer](https://github.com/AKSHAYUBHAT/VisualSearchServer)
+
 # Readings and Questions
 
 **What are the toughest neural networks and deep learning interview questions?**
