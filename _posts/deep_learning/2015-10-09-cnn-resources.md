@@ -32,6 +32,13 @@ date: 2015-10-09
 
 - arxiv: [http://arxiv.org/abs/1601.07661](http://arxiv.org/abs/1601.07661)
 
+**Brewing EmojiNet**
+
+![](http://engineering.curalate.com/assets/2016-01-13-Emojinet/demo02.png)
+
+- blog: [http://engineering.curalate.com/2016/01/20/emojinet.html](http://engineering.curalate.com/2016/01/20/emojinet.html)
+- website: [https://emojini.curalate.com/](https://emojini.curalate.com/)
+
 # What to detect?
 
 ## Boundary Detection
