@@ -52,3 +52,9 @@ date: 2015-10-09
 <img src="/assets/dl-materials/tensorflow-deepq-example.gif"/>
 
 - github: [https://github.com/nivwusquorum/tensorflow-deepq](https://github.com/nivwusquorum/tensorflow-deepq)
+
+# Blogs
+
+**Go, Marvin Minsky, and the Chasm that AI Hasn’t Yet Crossed**
+
+blog: [https://medium.com/backchannel/has-deepmind-really-passed-go-adc85e256bec#.inx8nfid0](https://medium.com/backchannel/has-deepmind-really-passed-go-adc85e256bec#.inx8nfid0)
