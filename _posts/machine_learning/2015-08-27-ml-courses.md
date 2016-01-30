@@ -99,3 +99,7 @@ date: 2015-08-27
 **MACHINE LEARNING FOR MUSICIANS AND ARTISTS**
 
 [https://www.kadenze.com/courses/machine-learning-for-musicians-and-artists/info](https://www.kadenze.com/courses/machine-learning-for-musicians-and-artists/info)
+
+**CMSC 726: Machine Learning**
+
+- homepage: [http://www.cbcb.umd.edu/~hcorrada/PML/index.html](http://www.cbcb.umd.edu/~hcorrada/PML/index.html)
