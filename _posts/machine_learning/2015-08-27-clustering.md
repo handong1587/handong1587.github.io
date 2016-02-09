@@ -16,3 +16,7 @@ date: 2015-08-27
 **Semi-supervised K-means++**
 
 - arxiv: [http://arxiv.org/abs/1602.00360](http://arxiv.org/abs/1602.00360)
+
+**Compressive Spectral Clustering**
+
+- arxiv: [http://arxiv.org/abs/1602.02018](http://arxiv.org/abs/1602.02018)

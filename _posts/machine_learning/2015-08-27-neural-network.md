@@ -40,3 +40,10 @@ date: 2015-08-27
 
 - homepage: [http://experiments.mostafa.io/public/ffbpann/](http://experiments.mostafa.io/public/ffbpann/)
 - github: [https://github.com/drdrsh/interactive-bpann](https://github.com/drdrsh/interactive-bpann)
+
+# Videos
+
+**Neural Networks with PHP**
+
+- youtube: [https://www.youtube.com/watch?v=5bFxDsoNFzU](https://www.youtube.com/watch?v=5bFxDsoNFzU)
+- video: [http://pan.baidu.com/s/1boc933p](http://pan.baidu.com/s/1boc933p)

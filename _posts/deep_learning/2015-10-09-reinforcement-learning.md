@@ -112,6 +112,10 @@ date: 2015-10-09
 
 - arxiv: [http://arxiv.org/abs/1511.05952](http://arxiv.org/abs/1511.05952)
 
+**Asynchronous Methods for Deep Reinforcement Learning**
+
+- arxiv: [http://arxiv.org/abs/1602.01783](http://arxiv.org/abs/1602.01783)
+
 # Blogs
 
 **A Short Introduction To Some Reinforcement Learning Algorithms**

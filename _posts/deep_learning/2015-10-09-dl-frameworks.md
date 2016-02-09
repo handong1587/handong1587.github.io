@@ -48,6 +48,10 @@ date: 2015-10-09
 - homepage: [http://apollocaffe.com/](http://apollocaffe.com/)
 - github: [http://github.com/Russell91/apollocaffe](http://github.com/Russell91/apollocaffe)
 
+**Some handy utility libraries and tools for the Caffe deep learning framework**
+
+- github: [https://github.com/facebook/fb-caffe-exts](https://github.com/facebook/fb-caffe-exts)
+
 - - -
 
 **OpenCV 3.0.0-dev: Load Caffe framework models**
@@ -198,6 +202,10 @@ date: 2015-10-09
 
 - website: [http://neon.nervanasys.com/docs/latest/index.html](http://neon.nervanasys.com/docs/latest/index.html)
 - github: [https://github.com/NervanaSystems/neon](https://github.com/NervanaSystems/neon)
+
+**Tools to convert Caffe models to neon's serialization format**
+
+- github: [https://github.com/NervanaSystems/caffe2neon](https://github.com/NervanaSystems/caffe2neon)
 
 # OpenNN
 

@@ -55,6 +55,11 @@ date: 2015-07-01
 - homepage: [https://www.udacity.com/course/deep-learning--ud730](https://www.udacity.com/course/deep-learning--ud730)
 - assignments: [https://github.com/tdhopper/udacity-deep-learning](https://github.com/tdhopper/udacity-deep-learning)
 
+**stat212b: Topics Course on Deep Learning for Spring 2016**
+
+- github: [https://github.com/joanbruna/stat212b](https://github.com/joanbruna/stat212b)
+- pan: [http://pan.baidu.com/s/1sk7TKtf#path=%252Fstat212b%2520-%2520Topics%2520Course%2520on%2520Deep%2520Learning%2520for%2520Spring%25202016](http://pan.baidu.com/s/1sk7TKtf#path=%252Fstat212b%2520-%2520Topics%2520Course%2520on%2520Deep%2520Learning%2520for%2520Spring%25202016)
+
 # Computer Vision
 
 **Stanford CS231n: Convolutional Neural Networks for Visual Recognition**

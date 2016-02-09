@@ -42,11 +42,16 @@ date: 2015-10-09
 - arxiv: [http://arxiv.org/abs/1512.03385](http://arxiv.org/abs/1512.03385)
 - slides: [http://research.microsoft.com/en-us/um/people/kahe/ilsvrc15/ilsvrc2015_deep_residual_learning_kaiminghe.pdf](http://research.microsoft.com/en-us/um/people/kahe/ilsvrc15/ilsvrc2015_deep_residual_learning_kaiminghe.pdf)
 - gitxiv: [http://gitxiv.com/posts/LgPRdTY3cwPBiMKbm/deep-residual-learning-for-image-recognition](http://gitxiv.com/posts/LgPRdTY3cwPBiMKbm/deep-residual-learning-for-image-recognition)
+- github(by KaimingHe): [https://github.com/KaimingHe/deep-residual-networks](https://github.com/KaimingHe/deep-residual-networks)
 - github: [https://github.com/alrojo/lasagne_residual_network](https://github.com/alrojo/lasagne_residual_network)
 - github: [https://github.com/shuokay/resnet](https://github.com/shuokay/resnet)
 - github: [https://github.com/gcr/torch-residual-networks](https://github.com/gcr/torch-residual-networks)
 - blog("Highway Networks and Deep Residual Networks"): [http://yanran.li/peppypapers/2016/01/10/highway-networks-and-deep-residual-networks.html](http://yanran.li/peppypapers/2016/01/10/highway-networks-and-deep-residual-networks.html)
 - blog("Interpretating Deep Residual Learning Blocks as Locally Recurrent Connections"): [https://matrixmashing.wordpress.com/2016/01/29/interpretating-deep-residual-learning-blocks-as-locally-recurrent-connections/](https://matrixmashing.wordpress.com/2016/01/29/interpretating-deep-residual-learning-blocks-as-locally-recurrent-connections/)
+- github: [https://github.com/apark263/cfmz](https://github.com/apark263/cfmz)
+- github: [https://github.com/NervanaSystems/neon/blob/master/examples/cifar10_msra.py](https://github.com/NervanaSystems/neon/blob/master/examples/cifar10_msra.py)
+- blog("Training and investigating Residual Nets"): [http://torch.ch/blog/2016/02/04/resnets.html](http://torch.ch/blog/2016/02/04/resnets.html)
+- github: [https://github.com/facebook/fb.resnet.torch](https://github.com/facebook/fb.resnet.torch)
 
 - - -
 
@@ -117,6 +122,14 @@ date: 2015-10-09
 
 - blog: [http://sebastianruder.com/optimizing-gradient-descent/](http://sebastianruder.com/optimizing-gradient-descent/)
 
+**Exploiting the Structure: Stochastic Gradient Methods Using Raw Clusters**
+
+- arxiv: [http://arxiv.org/abs/1602.02151](http://arxiv.org/abs/1602.02151)
+
+**Writing fast asynchronous SGD/AdaGrad with RcppParallel**
+
+- blog: [http://gallery.rcpp.org/articles/rcpp-sgd/](http://gallery.rcpp.org/articles/rcpp-sgd/)
+
 # Activation functions
 
 **Rectified linear units improve restricted boltzmann machines (ReLU)**
@@ -139,6 +152,10 @@ date: 2015-10-09
 **Deep Learning with S-shaped Rectified Linear Activation Units (SReLU)**
 
 - arxiv: [http://arxiv.org/abs/1512.07030](http://arxiv.org/abs/1512.07030)
+
+**Parametric Activation Pools greatly increase performance and consistency in ConvNets**
+
+- blog: [http://blog.claymcleod.io/2016/02/06/Parametric-Activation-Pools-greatly-increase-performance-and-consistency-in-ConvNets/](http://blog.claymcleod.io/2016/02/06/Parametric-Activation-Pools-greatly-increase-performance-and-consistency-in-ConvNets/)
 
 # Weights Initialization
 
@@ -311,6 +328,10 @@ date: 2015-10-09
 - arxiv: [http://arxiv.org/abs/1507.02672](http://arxiv.org/abs/1507.02672)
 - github: [https://github.com/CuriousAI/ladder](https://github.com/CuriousAI/ladder)
 
+**Diversity Networks**
+
+- arxiv: [http://arxiv.org/abs/1511.05077](http://arxiv.org/abs/1511.05077)
+
 **A Unified Approach for Learning the Parameters of Sum-Product Networks (SPN)**
 
 - intro: "The Sum-Product Network (SPN) is a new type of machine learning model 
@@ -318,6 +339,10 @@ with fast exact probabilistic inference over many layers."
 - arxiv: [http://arxiv.org/abs/1601.00318](http://arxiv.org/abs/1601.00318)
 - homepage: [http://spn.cs.washington.edu/index.shtml](http://spn.cs.washington.edu/index.shtml)
 - code: [http://spn.cs.washington.edu/code.shtml](http://spn.cs.washington.edu/code.shtml)
+
+**Learning Discriminative Features via Label Consistent Neural Network**
+
+- arxiv: [http://arxiv.org/abs/1602.01168](http://arxiv.org/abs/1602.01168)
 
 # Distributed System
 
@@ -416,6 +441,10 @@ with fast exact probabilistic inference over many layers."
 **Understanding Deep Convolutional Networks**
 
 - arxiv: [http://arxiv.org/abs/1601.04920](http://arxiv.org/abs/1601.04920)
+
+**DeepCare: A Deep Dynamic Memory Model for Predictive Medicine**
+
+- arxiv: [http://arxiv.org/abs/1602.00357](http://arxiv.org/abs/1602.00357)
 
 # Codes
 

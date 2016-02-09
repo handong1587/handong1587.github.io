@@ -146,6 +146,15 @@ date: 2015-09-12
 
 - homepage: [http://pyscenedetect.readthedocs.org/en/latest/](http://pyscenedetect.readthedocs.org/en/latest/)
 
+# Papers
+
+**Are Elephants Bigger than Butterflies? Reasoning about Sizes of Objects**
+
+![](http://grail.cs.washington.edu/projects/size/images/teaser.jpg)
+
+- arxiv: [http://arxiv.org/abs/1602.00753](http://arxiv.org/abs/1602.00753)
+- project page: [http://grail.cs.washington.edu/projects/size/](http://grail.cs.washington.edu/projects/size/)
+
 # Applications
 
 **Target acquired: Finding targets in drone and quadcopter video streams using Python and OpenCV**
@@ -207,3 +216,8 @@ date: 2015-09-12
 **From feature descriptors to deep learning: 20 years of computer vision**
 
 - blog: [http://www.computervisionblog.com/2015/01/from-feature-descriptors-to-deep.html](http://www.computervisionblog.com/2015/01/from-feature-descriptors-to-deep.html)
+
+**Unsupervised Computer Vision: The State of the Art | Stitch Fix Technology – Multithreaded**
+
+- blog: [http://multithreaded.stitchfix.com/blog/2016/02/04/computer-vision-state-of-the-art](http://multithreaded.stitchfix.com/blog/2016/02/04/computer-vision-state-of-the-art)
+- slides: [http://pan.baidu.com/s/1c0Sxzvq](http://pan.baidu.com/s/1c0Sxzvq)

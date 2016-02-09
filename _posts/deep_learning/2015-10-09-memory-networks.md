@@ -35,6 +35,11 @@ date: 2015-10-09
 
 - arXiv: [http://arxiv.org/abs/1506.02516](http://arxiv.org/abs/1506.02516)
 
+**Ask Me Anything: Dynamic Memory Networks for Natural Language Processing**
+
+- arxiv: [http://arxiv.org/abs/1506.07285](http://arxiv.org/abs/1506.07285)
+- blog("Implementing Dynamic memory networks"): [http://yerevann.github.io//2016/02/05/implementing-dynamic-memory-networks/](http://yerevann.github.io//2016/02/05/implementing-dynamic-memory-networks/)
+
 **Structured Memory for Neural Turing Machines(IBM Watson)**
 
 - arXiv: [http://arxiv.org/abs/1510.03931](http://arxiv.org/abs/1510.03931)

@@ -27,6 +27,10 @@ date: 2015-08-27
 - video: [http://videolectures.net/cikm08_elkan_llmacrf/](http://videolectures.net/cikm08_elkan_llmacrf/)
 - slides: [http://pan.baidu.com/s/1sjE0WfN](http://pan.baidu.com/s/1sjE0WfN)
 
+**Conditional Random Fields: A Beginner’s Survey**
+
+- blog: [https://onionesquereality.wordpress.com/2011/08/20/conditional-random-fields-a-beginners-survey/](https://onionesquereality.wordpress.com/2011/08/20/conditional-random-fields-a-beginners-survey/)
+
 # Gibbs Random Field
 
 # Gaussian Random Field
