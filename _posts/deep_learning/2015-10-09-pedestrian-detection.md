@@ -14,3 +14,7 @@ date: 2015-10-09
 
 - arXiv: [http://arxiv.org/abs/1510.03608](http://arxiv.org/abs/1510.03608)
 - github: [https://github.com/DenisTome/DeepPed](https://github.com/DenisTome/DeepPed)
+
+**New algorithm improves speed and accuracy of pedestrian detection**
+
+- blog: [http://www.eurekalert.org/pub_releases/2016-02/uoc--nai020516.php](http://www.eurekalert.org/pub_releases/2016-02/uoc--nai020516.php)

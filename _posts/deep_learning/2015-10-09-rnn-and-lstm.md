@@ -143,6 +143,10 @@ date: 2015-10-09
 
 - arxiv: [http://arxiv.org/abs/1601.08188](http://arxiv.org/abs/1601.08188)
 
+**Associative Long Short-Term Memory**
+
+- arxiv: [http://arxiv.org/abs/1602.03032](http://arxiv.org/abs/1602.03032)
+
 # Learn To Execute Programs
 
 **Learning to Execute**
