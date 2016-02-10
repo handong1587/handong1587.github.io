@@ -116,6 +116,10 @@ date: 2015-10-09
 
 - arxiv: [http://arxiv.org/abs/1602.01783](http://arxiv.org/abs/1602.01783)
 
+**Learning to Communicate to Solve Riddles with Deep Distributed Recurrent Q-Networks**
+
+- arxiv: [http://arxiv.org/abs/1602.02672](http://arxiv.org/abs/1602.02672)
+
 # Blogs
 
 **A Short Introduction To Some Reinforcement Learning Algorithms**

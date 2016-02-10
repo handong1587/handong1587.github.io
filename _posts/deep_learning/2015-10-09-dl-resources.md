@@ -286,6 +286,10 @@ date: 2015-10-09
 
 - blog: [http://tillbergmann.com/blog/articles/python-gradient-descent.html](http://tillbergmann.com/blog/articles/python-gradient-descent.html)
 
+**A Variational Analysis of Stochastic Gradient Algorithms**
+
+- arxiv: [http://arxiv.org/abs/1602.02666](http://arxiv.org/abs/1602.02666)
+
 # Deep Learning Networks
 
 **Deeply-supervised Nets (DSN)**
@@ -344,6 +348,11 @@ with fast exact probabilistic inference over many layers."
 
 - arxiv: [http://arxiv.org/abs/1602.01168](http://arxiv.org/abs/1602.01168)
 
+**BinaryNet: Training Deep Neural Networks with Weights and Activations Constrained to +1 or -1**
+
+- arxiv: [http://arxiv.org/abs/1602.02830](http://arxiv.org/abs/1602.02830)
+- github: [https://github.com/MatthieuCourbariaux/BinaryNet](https://github.com/MatthieuCourbariaux/BinaryNet)
+
 # Distributed System
 
 **SparkNet: Training Deep Networks in Spark**
@@ -387,7 +396,7 @@ with fast exact probabilistic inference over many layers."
 - youtube: [https://www.youtube.com/watch?v=eVd2TqEkVp0](https://www.youtube.com/watch?v=eVd2TqEkVp0)
 - video: [http://pan.baidu.com/s/1c1i6LtI#path=%252F](http://pan.baidu.com/s/1c1i6LtI#path=%252F)
 
-# Paper
+# Papers
 
 **Reweighted Wake-Sleep**
 
@@ -445,6 +454,11 @@ with fast exact probabilistic inference over many layers."
 **DeepCare: A Deep Dynamic Memory Model for Predictive Medicine**
 
 - arxiv: [http://arxiv.org/abs/1602.00357](http://arxiv.org/abs/1602.00357)
+
+**Exploiting Cyclic Symmetry in Convolutional Neural Networks**
+
+- arxiv: [http://arxiv.org/abs/1602.02660](http://arxiv.org/abs/1602.02660)
+- github: 
 
 # Codes
 
@@ -563,3 +577,10 @@ with fast exact probabilistic inference over many layers."
 **colah's blog**
 
 [http://colah.github.io/](http://colah.github.io/)
+
+# Competitions
+
+**Classifying plankton with deep neural networks**
+
+- blog: [http://benanne.github.io/2015/03/17/plankton.html](http://benanne.github.io/2015/03/17/plankton.html)
+- github: [https://github.com/benanne/kaggle-ndsb](https://github.com/benanne/kaggle-ndsb)
