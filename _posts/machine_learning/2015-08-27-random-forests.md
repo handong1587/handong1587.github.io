@@ -13,6 +13,12 @@ date: 2015-08-27
 - github: [https://github.com/balajiln/mondrianforest](https://github.com/balajiln/mondrianforest)
 - video: [http://videolectures.net/sahd2014_teh_mondrian_forests/](http://videolectures.net/sahd2014_teh_mondrian_forests/)
 
+**Food-101 – Mining Discriminative Components with Random Forests**
+
+![](http://www.vision.ee.ethz.ch/datasets/food-101/static/img/rf-comp-mining.png)
+
+- homepage: [http://www.vision.ee.ethz.ch/datasets/food-101/](http://www.vision.ee.ethz.ch/datasets/food-101/)
+
 # Resources
 
 **AWESOME-RANDOM-FOREST - a curated list of resources regarding random forest**
