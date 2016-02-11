@@ -348,6 +348,10 @@ with fast exact probabilistic inference over many layers."
 
 - arxiv: [http://arxiv.org/abs/1602.01168](http://arxiv.org/abs/1602.01168)
 
+**Binarized Neural Networks**
+
+- arxiv: [http://arxiv.org/abs/1602.02505](http://arxiv.org/abs/1602.02505)
+
 **BinaryNet: Training Deep Neural Networks with Weights and Activations Constrained to +1 or -1**
 
 - arxiv: [http://arxiv.org/abs/1602.02830](http://arxiv.org/abs/1602.02830)
