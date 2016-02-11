@@ -120,6 +120,10 @@ date: 2015-10-09
 
 - arxiv: [http://arxiv.org/abs/1602.02672](http://arxiv.org/abs/1602.02672)
 
+**Insights in Reinforcement Learning (MSc thesis)**
+
+- pan: [http://pan.baidu.com/s/1bn51BYJ](http://pan.baidu.com/s/1bn51BYJ)
+
 # Blogs
 
 **A Short Introduction To Some Reinforcement Learning Algorithms**
@@ -156,6 +160,10 @@ date: 2015-10-09
 
 - blog: [https://medium.com/@harvitronix/using-reinforcement-learning-in-python-to-teach-a-virtual-car-to-avoid-obstacles-6e782cc7d4c6#.p8ug6snri](https://medium.com/@harvitronix/using-reinforcement-learning-in-python-to-teach-a-virtual-car-to-avoid-obstacles-6e782cc7d4c6#.p8ug6snri)
 - github: [https://github.com/harvitronix/reinforcement-learning-car](https://github.com/harvitronix/reinforcement-learning-car)
+
+**Some Reinforcement Learning Algorithms in Python, C++**
+
+- pan: [http://pan.baidu.com/s/1mhcYf3M#path=%252FImplementations%2520of%2520Some%2520Reinforcement%2520Learning%2520Algorithms](http://pan.baidu.com/s/1mhcYf3M#path=%252FImplementations%2520of%2520Some%2520Reinforcement%2520Learning%2520Algorithms)
 
 # Resources
 
