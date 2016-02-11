@@ -150,6 +150,13 @@ date: 2015-10-09
 
 [http://www.nervanasys.com/demystifying-deep-reinforcement-learning/](http://www.nervanasys.com/demystifying-deep-reinforcement-learning/)
 
+**Using reinforcement learning in Python to teach a virtual car to avoid obstacles: An experiment in Q-learning, neural networks and Pygame.**
+
+![](https://cdn-images-1.medium.com/max/800/1*Ht0KPSlYVsLUp-wqr-ab7Q.png)
+
+- blog: [https://medium.com/@harvitronix/using-reinforcement-learning-in-python-to-teach-a-virtual-car-to-avoid-obstacles-6e782cc7d4c6#.p8ug6snri](https://medium.com/@harvitronix/using-reinforcement-learning-in-python-to-teach-a-virtual-car-to-avoid-obstacles-6e782cc7d4c6#.p8ug6snri)
+- github: [https://github.com/harvitronix/reinforcement-learning-car](https://github.com/harvitronix/reinforcement-learning-car)
+
 # Resources
 
 **Deep Reinforcement Learning Papers**

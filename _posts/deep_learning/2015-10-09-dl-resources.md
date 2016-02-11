@@ -353,6 +353,15 @@ with fast exact probabilistic inference over many layers."
 - arxiv: [http://arxiv.org/abs/1602.02830](http://arxiv.org/abs/1602.02830)
 - github: [https://github.com/MatthieuCourbariaux/BinaryNet](https://github.com/MatthieuCourbariaux/BinaryNet)
 
+**A Theory of Generative ConvNet**
+
+- arxiv: [http://arxiv.org/abs/1602.03264](http://arxiv.org/abs/1602.03264)
+- project page: [http://www.stat.ucla.edu/~ywu/GenerativeConvNet/main.html](http://www.stat.ucla.edu/~ywu/GenerativeConvNet/main.html)
+
+**Value Iteration Networks**
+
+- arxiv: [http://arxiv.org/abs/1602.02867](http://arxiv.org/abs/1602.02867)
+
 # Distributed System
 
 **SparkNet: Training Deep Networks in Spark**

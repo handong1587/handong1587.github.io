@@ -21,7 +21,7 @@ date: 2015-09-12
 
 **Mobile Computer Vision**
 
-<img src="/assets/computer-vision/courses/Mobile_Computer_Vision_course-splash.png" width="800" />
+![](/assets/computer-vision/courses/Mobile_Computer_Vision_course-splash.png)
 
 [http://web.stanford.edu/class/cs231m/](http://web.stanford.edu/class/cs231m/)
 
@@ -31,11 +31,15 @@ date: 2015-09-12
 
 [http://cs.brown.edu/courses/csci1950-g/](http://cs.brown.edu/courses/csci1950-g/)
 
+**MIT CSAIL: 6.819/6.869: Advances in Computer Vision (Fall 2015)**
+
+- homepage: [http://6.869.csail.mit.edu/fa15/index.html](http://6.869.csail.mit.edu/fa15/index.html)
+
 # Images Denoising
 
 **Fast Burst Images Denoising(SIGGRAPH Asia 2014. CUHK, Microsoft Research)**
 
-<img src="/assets/computer-vision/Fast_Burst_Images_Denoising_intro.png" width="800" />
+![](/assets/computer-vision/Fast_Burst_Images_Denoising_intro.png)
 
 - paper: [http://personal.ie.cuhk.edu.hk/~lz013/papers/burstdenoising.pdf](http://personal.ie.cuhk.edu.hk/~lz013/papers/burstdenoising.pdf)
 - project: [http://personal.ie.cuhk.edu.hk/~lz013/projects/BurstDenoising.html](http://personal.ie.cuhk.edu.hk/~lz013/projects/BurstDenoising.html)
@@ -82,7 +86,7 @@ date: 2015-09-12
 
 **A Computational Approach for Obstruction-Free Photography**
 
-<img src="/assets/computer-vision/A_Computational_Approach_for_Obstruction-Free_Photography.jpg" width="800" />
+![](/assets/computer-vision/A_Computational_Approach_for_Obstruction-Free_Photography.jpg)
 
 - paper: [https://people.csail.mit.edu/mrub/papers/ObstructionFreePhotograpy_SIGGRAPH2015.pdf](https://people.csail.mit.edu/mrub/papers/ObstructionFreePhotograpy_SIGGRAPH2015.pdf)
 

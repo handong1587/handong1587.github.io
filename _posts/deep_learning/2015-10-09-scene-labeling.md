@@ -22,3 +22,11 @@ not very deep with only three convolution layers."
 **Multi-modal unsupervised feature learning for rgb-d scene labeling**
 
 - paper: [http://www3.ntu.edu.sg/home/wanggang/WangECCV2014.pdf](http://www3.ntu.edu.sg/home/wanggang/WangECCV2014.pdf)
+
+**Using neon for Scene Recognition: Mini-Places2**
+
+- intro: This is an implementation of the deep residual network used for 
+[Mini-Places2](http://6.869.csail.mit.edu/fa15/project.html) as described in 
+[He et. al., "Deep Residual Learning for Image Recognition"](http://arxiv.org/abs/1512.03385).
+- blog: [http://www.nervanasys.com/using-neon-for-scene-recognition-mini-places2/](http://www.nervanasys.com/using-neon-for-scene-recognition-mini-places2/)
+- github: [https://github.com/hunterlang/mpmz](https://github.com/hunterlang/mpmz)

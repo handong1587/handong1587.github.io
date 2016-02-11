@@ -13,6 +13,10 @@ date: 2015-10-01
 - syllabus: [https://www.cs.virginia.edu/~evans/greatworks/syllabus.html](https://www.cs.virginia.edu/~evans/greatworks/syllabus.html)
 - projects: [https://www.cs.virginia.edu/~evans/greatworks/projects.html](https://www.cs.virginia.edu/~evans/greatworks/projects.html)
 
+**University of California at Berkeley : CS294, Spring 2014: Evolution and Computation**
+
+- homepage: [http://www.eecs.berkeley.edu/~christos/evol/evolcomS14.html](http://www.eecs.berkeley.edu/~christos/evol/evolcomS14.html)
+
 # Blogs
 
 **Design Of A Modern Cache**
