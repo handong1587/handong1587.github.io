@@ -24,3 +24,14 @@ date: 2015-08-27
 **Finding the K in K-means by Parametric Bootstrap**
 
 - blog: [http://www.win-vector.com/blog/2016/02/finding-the-k-in-k-means-by-parametric-bootstrap/](http://www.win-vector.com/blog/2016/02/finding-the-k-in-k-means-by-parametric-bootstrap/)
+
+**Interactive Bayesian Hierarchical Clustering**
+
+- arxiv: [http://arxiv.org/abs/1602.03258](http://arxiv.org/abs/1602.03258)
+
+**Random walk vectors for clustering**
+
+- part I – similarity between objects: [http://int8.io/random-walk-vectors-for-clustering-part-i-similarity-between-objects/](http://int8.io/random-walk-vectors-for-clustering-part-i-similarity-between-objects/)
+- part II – perspective switch: [http://int8.io/random-walk-vectors-for-clustering-part-ii-perspective-switch/](http://int8.io/random-walk-vectors-for-clustering-part-ii-perspective-switch/)
+- part III: [http://int8.io/random-walk-vectors-for-clustering-iii/](http://int8.io/random-walk-vectors-for-clustering-iii/)
+- final: [http://int8.io/random-walk-vectors-for-clustering-final/](http://int8.io/random-walk-vectors-for-clustering-final/)

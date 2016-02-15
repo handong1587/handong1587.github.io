@@ -77,6 +77,13 @@ date: 2015-10-09
 - demo: [http://scs.ryerson.ca/~aharley/vis/conv/](http://scs.ryerson.ca/~aharley/vis/conv/)
 - review: [http://www.popsci.com/gaze-inside-mind-artificial-intelligence](http://www.popsci.com/gaze-inside-mind-artificial-intelligence)
 
+**Multifaceted Feature Visualization: Uncovering the Different Types of Features Learned By Each Neuron in Deep Neural Networks**
+
+![](http://www.evolvingai.org/files/styles/content_width/public/fc8_layer_full.jpg?itok=q_X70Oj-)
+
+- arxiv: [http://arxiv.org/abs/1602.03616](http://arxiv.org/abs/1602.03616)
+- homepage: [http://www.evolvingai.org/nguyen-yosinski-clune-2016-multifaceted-feature](http://www.evolvingai.org/nguyen-yosinski-clune-2016-multifaceted-feature)
+
 # Code
 
 **Interactive Deep Neural Net Hallucinations**

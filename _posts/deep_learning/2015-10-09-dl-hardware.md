@@ -30,3 +30,7 @@ date: 2015-10-09
 **Recurrent Neural Networks Hardware Implementation on FPGA**
 
 - arXiv: [http://arxiv.org/abs/1511.05552](http://arxiv.org/abs/1511.05552)
+
+**Is implementing deep learning on FPGAs a natural next step after the success with GPUs?**
+
+- quora: [https://www.quora.com/Is-implementing-deep-learning-on-FPGAs-a-natural-next-step-after-the-success-with-GPUs](https://www.quora.com/Is-implementing-deep-learning-on-FPGAs-a-natural-next-step-after-the-success-with-GPUs)

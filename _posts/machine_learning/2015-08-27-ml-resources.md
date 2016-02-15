@@ -37,6 +37,11 @@ Other awesome lists can be found in this [list](https://github.com/sindresorhus/
 
 - part 1: [http://www.r2d3.us/visual-intro-to-machine-learning-part-1/](http://www.r2d3.us/visual-intro-to-machine-learning-part-1/)
 
+**Machine Learning – A gentle & structured introduction**
+
+- blog: [http://blog.cambridgecoding.com/2016/02/14/machine-learning-a-gentle-structured-introduction/](http://blog.cambridgecoding.com/2016/02/14/machine-learning-a-gentle-structured-introduction/)
+- slides: [http://pan.baidu.com/s/1hqVGAl2](http://pan.baidu.com/s/1hqVGAl2)
+
 # Competitions
 
 **Machine learning best practices we've learned from hundreds of competitions (Kaggle: Ben Hamner)**
@@ -180,7 +185,7 @@ Other awesome lists can be found in this [list](https://github.com/sindresorhus/
 
 - arxiv: [http://arxiv.org/abs/1512.07548](http://arxiv.org/abs/1512.07548)
 
-# PCA/SVD
+# PCA/ICA/SVD
 
 **Fast Randomized PCA/SVD**
 
@@ -200,6 +205,11 @@ Other awesome lists can be found in this [list](https://github.com/sindresorhus/
 
 - blog: [http://blog.applied.ai/feature-reduction-using-svd/](http://blog.applied.ai/feature-reduction-using-svd/)
 - ipn: [http://nbviewer.jupyter.org/urls/bitbucket.org/appliedai/appliedai_svd/raw/02901de3aaa01be7b4536f484401113ddd5da8a9/01_FeatureReduction.ipynb](http://nbviewer.jupyter.org/urls/bitbucket.org/appliedai/appliedai_svd/raw/02901de3aaa01be7b4536f484401113ddd5da8a9/01_FeatureReduction.ipynb)
+
+**Independent component analysis**
+
+- blog: [http://efavdb.com/independent-component-analysis/](http://efavdb.com/independent-component-analysis/)
+- ipython notebook: [http://nbviewer.jupyter.org/github/EFavDB/ICA/blob/master/pyaudio.ipynb](http://nbviewer.jupyter.org/github/EFavDB/ICA/blob/master/pyaudio.ipynb)
 
 # Regressions
 

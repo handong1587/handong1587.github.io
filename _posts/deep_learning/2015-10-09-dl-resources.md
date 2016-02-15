@@ -223,6 +223,10 @@ date: 2015-10-09
 
 - arxiv: [http://arxiv.org/abs/1512.05287](http://arxiv.org/abs/1512.05287)
 
+**Improved Dropout for Shallow and Deep Learning**
+
+- arxiv: [http://arxiv.org/abs/1602.02220](http://arxiv.org/abs/1602.02220)
+
 # Deep Learning And Bayesian
 
 **Scalable Bayesian Optimization Using Deep Neural Networks (ICML 2015)**
@@ -365,6 +369,10 @@ with fast exact probabilistic inference over many layers."
 **Value Iteration Networks**
 
 - arxiv: [http://arxiv.org/abs/1602.02867](http://arxiv.org/abs/1602.02867)
+
+**How to Train Deep Variational Autoencoders and Probabilistic Ladder Networks**
+
+- arxiv: [http://arxiv.org/abs/1602.02282](http://arxiv.org/abs/1602.02282)
 
 # Distributed System
 

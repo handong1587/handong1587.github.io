@@ -65,6 +65,15 @@ date: 2015-10-09
 - github: [https://github.com/andersbll/autoencoding_beyond_pixels](https://github.com/andersbll/autoencoding_beyond_pixels)
 - video: [http://video.weibo.com/show?fid=1034:f00b4e5a34e8c1ebe78ccd00da95f9e0](http://video.weibo.com/show?fid=1034:f00b4e5a34e8c1ebe78ccd00da95f9e0)
 
+**Deep Visual Analogy-Making**
+
+![](https://raw.githubusercontent.com/carpedm20/visual-analogy-tensorflow/83893d866557239a890053b55cb7105ebf54045e/assets/model.png)
+
+- paper: [https://papers.nips.cc/paper/5845-deep-visual-analogy-making](https://papers.nips.cc/paper/5845-deep-visual-analogy-making)
+- github(Tensorflow): [https://github.com/carpedm20/visual-analogy-tensorflow](https://github.com/carpedm20/visual-analogy-tensorflow)
+- slides: [http://slideplayer.com/slide/9147672/](http://slideplayer.com/slide/9147672/)
+- baidu-pan: [http://pan.baidu.com/s/1pKgrdnt](http://pan.baidu.com/s/1pKgrdnt)
+
 # Blog
 
 **Torch convolutional GAN: Generating Faces with Torch**

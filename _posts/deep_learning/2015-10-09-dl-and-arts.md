@@ -114,6 +114,10 @@ date: 2015-10-09
 
 - arxiv: [http://arxiv.org/abs/1512.08512](http://arxiv.org/abs/1512.08512)
 
+**Training a Recurrent Neural Network to Compose Music**
+
+- blog: [https://maraoz.com/2016/02/02/abc-rnn/](https://maraoz.com/2016/02/02/abc-rnn/)
+
 # Video
 
 **Instructions for making a Neural-Style movie**
