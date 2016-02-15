@@ -1,6 +1,6 @@
 ---
 layout: post
-category: Study
+category: study
 title: Essay Writting
 date: 2016-01-11
 ---
