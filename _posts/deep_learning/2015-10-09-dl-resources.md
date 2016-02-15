@@ -560,6 +560,10 @@ with fast exact probabilistic inference over many layers."
 
 [http://rt.dgyblog.com/ref/ref-learning-deep-learning.html](http://rt.dgyblog.com/ref/ref-learning-deep-learning.html)
 
+**Summaries and notes on Deep Learning research papers**
+
+- github: [https://github.com/dennybritz/deeplearning-papernotes](https://github.com/dennybritz/deeplearning-papernotes)
+
 # Tools
 
 **DNNGraph - A deep neural network model generation DSL in Haskell**
