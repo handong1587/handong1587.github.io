@@ -158,3 +158,9 @@ date: 2015-10-09
 **Review of machine / deep learning in an artistic context**
 
 [https://medium.com/@memoakten/machine-deep-learning-in-an-artistic-context-441f28774bcc#.gegpq99ag](https://medium.com/@memoakten/machine-deep-learning-in-an-artistic-context-441f28774bcc#.gegpq99ag)
+
+**Apprentice Work**
+
+![](https://d267cvn3rvuq91.cloudfront.net/i/images/gayfordx2079.jpg?sw=590&cx=93&cy=28&cw=1892&ch=2522)
+
+[https://www.technologyreview.com/s/600762/apprentice-work/](https://www.technologyreview.com/s/600762/apprentice-work/)

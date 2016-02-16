@@ -21,6 +21,12 @@ date: 2015-10-01
 
 - blog: [http://jeffbradberry.com/posts/2015/09/intro-to-monte-carlo-tree-search/](http://jeffbradberry.com/posts/2015/09/intro-to-monte-carlo-tree-search/)
 
+**Monte Carlo Tree Search**
+
+- blog: [http://mcts.ai/about/index.html](http://mcts.ai/about/index.html)
+- code: [http://mcts.ai/code/index.html](http://mcts.ai/code/index.html)
+- zh("蒙特卡洛树搜索 MCTS"): [http://www.jianshu.com/p/d011baff6b64](http://www.jianshu.com/p/d011baff6b64)
+
 # Courses
 
 **Coursera: Discrete Optimization**
