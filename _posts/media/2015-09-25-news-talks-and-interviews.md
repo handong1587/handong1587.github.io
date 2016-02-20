@@ -104,3 +104,11 @@ date: 2015-09-25
 ![](/assets/news_talks_interviews/lukasz_med.jpg) ![](/assets/news_talks_interviews/michal_med.jpg) 
 
 [http://computationalimagination.com/interview_deepart.php](http://computationalimagination.com/interview_deepart.php)
+
+# Others
+
+**An Intimate Waterfront Wedding at Carmel Beach in Carmel, California**
+
+![](https://apis.xogrp.com/media-api/images/1d0bfe52-124d-11e4-843f-22000aa61a3e~rs_729.h)
+
+[https://www.theknot.com/real-weddings/an-intimate-waterfront-wedding-at-carmel-beach-in-carmel-california-album](https://www.theknot.com/real-weddings/an-intimate-waterfront-wedding-at-carmel-beach-in-carmel-california-album)

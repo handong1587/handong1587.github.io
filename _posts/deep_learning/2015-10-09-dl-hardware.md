@@ -5,6 +5,12 @@ title: Deep Learning and Hardware
 date: 2015-10-09
 ---
 
+# Papers
+
+**Accelerating Deep Convolutional Neural Networks Using Specialized Hardware**
+
+- paper: [http://research.microsoft.com/pubs/240715/CNN%20Whitepaper.pdf](http://research.microsoft.com/pubs/240715/CNN%20Whitepaper.pdf)
+
 # Hardware System
 
 **Building a Deep Learning (Dream) Machine**
@@ -34,3 +40,7 @@ date: 2015-10-09
 **Is implementing deep learning on FPGAs a natural next step after the success with GPUs?**
 
 - quora: [https://www.quora.com/Is-implementing-deep-learning-on-FPGAs-a-natural-next-step-after-the-success-with-GPUs](https://www.quora.com/Is-implementing-deep-learning-on-FPGAs-a-natural-next-step-after-the-success-with-GPUs)
+
+**Efficient Implementation of Neural Network Systems Built on FPGAs, Programmed with OpenCL**
+
+- paper: [https://www.altera.com/content/dam/altera-www/global/en_US/pdfs/literature/solution-sheets/efficient_neural_networks.pdf?utm_source=Altera&utm_medium=link&utm_campaign=OpenCL_15_1&utm_content=NA_efficient-neural-networks-solution-sheet-download-link](https://www.altera.com/content/dam/altera-www/global/en_US/pdfs/literature/solution-sheets/efficient_neural_networks.pdf?utm_source=Altera&utm_medium=link&utm_campaign=OpenCL_15_1&utm_content=NA_efficient-neural-networks-solution-sheet-download-link)

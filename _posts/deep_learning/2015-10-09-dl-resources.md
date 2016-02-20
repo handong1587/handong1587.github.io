@@ -53,6 +53,11 @@ date: 2015-10-09
 - blog("Training and investigating Residual Nets"): [http://torch.ch/blog/2016/02/04/resnets.html](http://torch.ch/blog/2016/02/04/resnets.html)
 - github: [https://github.com/facebook/fb.resnet.torch](https://github.com/facebook/fb.resnet.torch)
 
+**Inception-V4, Inception-Resnet And The Impact Of Residual Connections On Learning (Workshop track - ICLR 2016)**
+
+- intro: "achieve 3.08% top-5 error on the test set of the ImageNet classification (CLS) challenge"
+- paper: [http://beta.openreview.net/pdf?id=q7kqBkL33f8LEkD3t7X9](http://beta.openreview.net/pdf?id=q7kqBkL33f8LEkD3t7X9)
+
 - - -
 
 **Network In Network**

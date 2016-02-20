@@ -113,6 +113,10 @@ to decompose it into the multiplications of thinned dense matrices"
 4 ∼ 6× speed-up and 15 ∼ 20× compression with merely one percentage loss of classification accuracy"
 - arxiv: [http://arxiv.org/abs/1512.06473](http://arxiv.org/abs/1512.06473)
 
+**Convolutional Tables Ensemble: classification in microseconds**
+
+- arxiv: [http://arxiv.org/abs/1602.04489](http://arxiv.org/abs/1602.04489)
+
 # Codes
 
 **Accelerate Convolutional Neural Networks**
