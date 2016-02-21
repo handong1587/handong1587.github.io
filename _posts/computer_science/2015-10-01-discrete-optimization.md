@@ -27,6 +27,10 @@ date: 2015-10-01
 - code: [http://mcts.ai/code/index.html](http://mcts.ai/code/index.html)
 - zh("蒙特卡洛树搜索 MCTS"): [http://www.jianshu.com/p/d011baff6b64](http://www.jianshu.com/p/d011baff6b64)
 
+**Monte Carlo theory, methods and examples**
+
+- homepage: [http://statweb.stanford.edu/~owen/mc/](http://statweb.stanford.edu/~owen/mc/)
+
 # Rectangle Bin Packing
 
 **Even More Rectangle Bin Packing**
