@@ -169,6 +169,10 @@ date: 2015-10-09
 
 - paper: [https://www.researchgate.net/publication/273912337_A_ProgrammerInterpreter_Neural_Network_Architecture_for_Prefrontal_Cognitive_Control](https://www.researchgate.net/publication/273912337_A_ProgrammerInterpreter_Neural_Network_Architecture_for_Prefrontal_Cognitive_Control)
 
+**Convolutional RNN: an Enhanced Model for Extracting Features from Sequential Data**
+
+- arxiv: [http://arxiv.org/abs/1602.05875](http://arxiv.org/abs/1602.05875)
+
 # Attention Models
 
 **Recurrent Models of Visual Attention** (Google DeepMind. NIPS2014)

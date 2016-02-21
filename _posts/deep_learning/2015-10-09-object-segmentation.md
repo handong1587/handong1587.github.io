@@ -101,6 +101,11 @@ using the stochastic gradient descent (SGD) algorithm to obtain fine pixel-level
 - github: [https://github.com/alexgkendall/caffe-segnet](https://github.com/alexgkendall/caffe-segnet)
 - tutorial: [http://mi.eng.cam.ac.uk/projects/segnet/tutorial.html](http://mi.eng.cam.ac.uk/projects/segnet/tutorial.html)
 
+**SegNet: Pixel-Wise Semantic Labelling Using a Deep Networks**
+
+- youtube: [https://www.youtube.com/watch?v=xfNYAly1iXo](https://www.youtube.com/watch?v=xfNYAly1iXo)
+- video: [http://pan.baidu.com/s/1gdUzDlD](http://pan.baidu.com/s/1gdUzDlD)
+
 **Recurrent Instance Segmentation**
 
 ![](http://romera-paredes.com/wp-content/uploads/2015/12/RIS.png)

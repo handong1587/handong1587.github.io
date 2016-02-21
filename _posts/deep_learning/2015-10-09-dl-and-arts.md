@@ -9,7 +9,7 @@ date: 2015-10-09
 
 **A Neural Algorithm of Artistic Style**
 
-<img src="/assets/cnn-and-arts/a_nerual_algorithm_of_artistic_style.jpg" />
+![](/assets/cnn-and-arts/a_nerual_algorithm_of_artistic_style.jpg)
 
 - paper: [http://arxiv.org/abs/1508.06576](http://arxiv.org/abs/1508.06576)
 - gitxiv: [http://gitxiv.com/posts/jG46ukGod8R7Rdtud/a-neural-algorithm-of-artistic-style](http://gitxiv.com/posts/jG46ukGod8R7Rdtud/a-neural-algorithm-of-artistic-style)
@@ -53,8 +53,7 @@ date: 2015-10-09
 
 **How Do Humans Sketch Objects?**
 
-<img src="/assets/cnn-and-arts/teaser_siggraph.jpg"
- width="800" />
+![](/assets/cnn-and-arts/teaser_siggraph.jpg)
 
 - paper: [http://cybertron.cg.tu-berlin.de/eitz/pdf/2012_siggraph_classifysketch.pdf](http://cybertron.cg.tu-berlin.de/eitz/pdf/2012_siggraph_classifysketch.pdf)
 - project: [http://cybertron.cg.tu-berlin.de/eitz/projects/classifysketch/](http://cybertron.cg.tu-berlin.de/eitz/projects/classifysketch/)
@@ -63,14 +62,13 @@ date: 2015-10-09
 
 **Style Transfer for Headshot Portraits**
 
-<img src="/assets/cnn-and-arts/teaser_Style_Transfer_for_Headshot_Portraits.jpg"
- width="640" />
+![](/assets/cnn-and-arts/teaser_Style_Transfer_for_Headshot_Portraits.jpg)
 
 - project: [https://people.csail.mit.edu/yichangshih/portrait_web/](https://people.csail.mit.edu/yichangshih/portrait_web/)
 
 **Teaching recurrent Neural Networks about Monet**
 
-<img src="/assets/cnn-and-arts/keras_monet_output_sample.png" />
+![](/assets/cnn-and-arts/keras_monet_output_sample.png)
 
 - blog: [http://blog.manugarri.com/teaching-recurrent-neural-networks-about-monet/](http://blog.manugarri.com/teaching-recurrent-neural-networks-about-monet/)
 - github: [https://github.com/manugarri/keras_monet](https://github.com/manugarri/keras_monet)
@@ -118,11 +116,18 @@ date: 2015-10-09
 
 - blog: [https://maraoz.com/2016/02/02/abc-rnn/](https://maraoz.com/2016/02/02/abc-rnn/)
 
+**LSTM Realbook**
+
+![](https://keunwoochoi.files.wordpress.com/2016/02/band-in-a-box-195117-2.jpeg?w=788&h=474)
+
+- blog: [https://keunwoochoi.wordpress.com/2016/02/19/lstm-realbook/](https://keunwoochoi.wordpress.com/2016/02/19/lstm-realbook/)
+- github: [https://github.com/keunwoochoi/lstm_real_book](https://github.com/keunwoochoi/lstm_real_book)
+
 # Video
 
 **Instructions for making a Neural-Style movie**
 
-<img src="/assets/ocr-materials/Why_is_a_Raven_Like_a_Writing_Desk.jpg" width="800" />
+![](/assets/ocr-materials/Why_is_a_Raven_Like_a_Writing_Desk.jpg)
 
 - website: [https://gist.github.com/genekogan/d61c8010d470e1dbe15d](https://gist.github.com/genekogan/d61c8010d470e1dbe15d)
 - sample: [https://vimeo.com/139123754](https://vimeo.com/139123754)

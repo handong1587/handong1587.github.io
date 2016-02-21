@@ -31,3 +31,11 @@ date: 2015-10-09
 **Group Invariant Deep Representations for Image Instance Retrieval**
 
 - arxiv: [http://arxiv.org/abs/1601.02093](http://arxiv.org/abs/1601.02093)
+
+**Where to Buy It: Matching Street Clothing Photos in Online Shops**
+
+![](http://www.tamaraberg.com/street2shop/header.jpg)
+
+- hmepage: [http://www.tamaraberg.com/street2shop/](http://www.tamaraberg.com/street2shop/)
+- paper: [http://www.tamaraberg.com/papers/street2shop.pdf](http://www.tamaraberg.com/papers/street2shop.pdf)
+- paper: [http://www.cv-foundation.org/openaccess/content_iccv_2015/html/Kiapour_Where_to_Buy_ICCV_2015_paper.html](http://www.cv-foundation.org/openaccess/content_iccv_2015/html/Kiapour_Where_to_Buy_ICCV_2015_paper.html)

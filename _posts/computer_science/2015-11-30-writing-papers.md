@@ -19,3 +19,12 @@ date: 2015-11-30
 **[ICML 2016] [META] What makes a good paper, and submission in Deep Learning**
 
 - reddit: [https://www.reddit.com/r/MachineLearning/comments/44a72t/icml_2016_meta_what_makes_a_good_paper_and](https://www.reddit.com/r/MachineLearning/comments/44a72t/icml_2016_meta_what_makes_a_good_paper_and)
+
+# Books
+
+**How to Write a Thesis**
+
+![](https://mitpress.mit.edu/sites/default/files/9780262527132_0_0.jpg)
+
+- book: [https://mitpress.mit.edu/index.php?q=books/how-write-thesis](https://mitpress.mit.edu/index.php?q=books/how-write-thesis)
+- review: [https://www.insidehighered.com/views/2015/03/18/review-umberto-eco-how-write-thesis](https://www.insidehighered.com/views/2015/03/18/review-umberto-eco-how-write-thesis)

@@ -45,6 +45,10 @@ date: 2015-08-27
 
 - arxiv: [http://arxiv.org/abs/1602.05124](http://arxiv.org/abs/1602.05124)
 
+**Rényi divergence minimization based co-regularized multiview clustering**
+
+- paper: [http://rd.springer.com.sci-hub.io/article/10.1007/s10994-016-5543-2?wt_mc=internal.event.1.SEM.ArticleAuthorOnlineFirst](http://rd.springer.com.sci-hub.io/article/10.1007/s10994-016-5543-2?wt_mc=internal.event.1.SEM.ArticleAuthorOnlineFirst)
+
 # Codes
 
 **MusicMappr: Find patterns in your favorite songs and remix them on the fly!**

@@ -197,6 +197,11 @@ date: 2015-10-09
 
 [http://phunter.farbox.com/post/mxnet-tutorial2](http://phunter.farbox.com/post/mxnet-tutorial2)
 
+**Programming Models and Systems Design for Deep Learning**
+
+- video: [http://research.microsoft.com/apps/video/default.aspx?id=262396](http://research.microsoft.com/apps/video/default.aspx?id=262396)
+- video: [http://pan.baidu.com/s/1mgSnj64](http://pan.baidu.com/s/1mgSnj64)
+
 # neocortex.js
 
 **Run trained deep neural networks in the browser or node.js**
@@ -303,17 +308,23 @@ date: 2015-10-09
 - github: [https://github.com/Samsung/veles](https://github.com/Samsung/veles)
 - workflow: [https://velesnet.ml/forge/forge.html](https://velesnet.ml/forge/forge.html)
 
-# Benchmark
+# Benchmarks
 
 [https://github.com/soumith/convnet-benchmarks](https://github.com/soumith/convnet-benchmarks)
 
-# Paper
+# Papers
 
 **Comparative Study of Caffe, Neon, Theano, and Torch for Deep Learning**
 
 - arXiv: [http://arxiv.org/abs/1511.06435](http://arxiv.org/abs/1511.06435)
 
-# Reference
+# Codes
+
+**TensorFuse: Common interface for Theano, CGT, and TensorFlow**
+
+- github: [https://github.com/dementrock/tensorfuse](https://github.com/dementrock/tensorfuse)
+
+# References
 
 **Frameworks and Libraries for Deep Learning**
 

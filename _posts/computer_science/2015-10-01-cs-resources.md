@@ -23,3 +23,6 @@ date: 2015-10-01
 
 - blog: [http://highscalability.com/blog/2016/1/25/design-of-a-modern-cache.html](http://highscalability.com/blog/2016/1/25/design-of-a-modern-cache.html)
 
+**Numeric matrix manipulation: The cheat sheet for MATLAB, Python NumPy, R, and Julia**
+
+[http://sebastianraschka.com/Articles/Matrix%20Cheat%20Sheet.html](http://sebastianraschka.com/Articles/Matrix%20Cheat%20Sheet.html)

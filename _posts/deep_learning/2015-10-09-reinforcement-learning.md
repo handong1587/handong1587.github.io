@@ -169,6 +169,13 @@ date: 2015-10-09
 
 - pan: [http://pan.baidu.com/s/1mhcYf3M#path=%252FImplementations%2520of%2520Some%2520Reinforcement%2520Learning%2520Algorithms](http://pan.baidu.com/s/1mhcYf3M#path=%252FImplementations%2520of%2520Some%2520Reinforcement%2520Learning%2520Algorithms)
 
+**learning to do laps with reinforcement learning and neural nets**
+
+![](http://matpalm.com/blog/imgs/2016/drivebot/walk.gif)
+
+- blog: [http://matpalm.com/blog/drivebot/](http://matpalm.com/blog/drivebot/)
+- github: [https://github.com/matpalm/drivebot](https://github.com/matpalm/drivebot)
+
 # Resources
 
 **Deep Reinforcement Learning Papers**
