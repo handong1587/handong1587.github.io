@@ -59,6 +59,12 @@ Other awesome lists can be found in this [list](https://github.com/sindresorhus/
 
 - paper: [http://www.lancs.ac.uk/~eckley/papers/McDonaldHandEckley2003.pdf](http://www.lancs.ac.uk/~eckley/papers/McDonaldHandEckley2003.pdf)
 
+# Gradient Boosting
+
+**Complete Guide to Parameter Tuning in Gradient Boosting (GBM) in Python**
+
+- blog: [http://www.analyticsvidhya.com/blog/2016/02/complete-guide-parameter-tuning-gradient-boosting-gbm-python/](http://www.analyticsvidhya.com/blog/2016/02/complete-guide-parameter-tuning-gradient-boosting-gbm-python/)
+
 # Bootstrap
 
 **Coding, Visualizing, and Animating Bootstrap Resampling**
@@ -85,6 +91,12 @@ Other awesome lists can be found in this [list](https://github.com/sindresorhus/
 
 - arXiv: [http://arxiv.org/abs/1507.05444](http://arxiv.org/abs/1507.05444)
 - code: [https://bitbucket.org/twgr/ccf](https://bitbucket.org/twgr/ccf)
+
+# Generative Models
+
+**A note on the evaluation of generative models**
+
+- arxiv: [http://arxiv.org/abs/1511.01844](http://arxiv.org/abs/1511.01844)
 
 # Markov Networks
 
