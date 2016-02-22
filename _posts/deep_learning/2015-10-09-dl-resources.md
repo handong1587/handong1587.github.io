@@ -172,6 +172,7 @@ date: 2015-10-09
 **All you need is a good init**
 
 - arxiv: [http://arxiv.org/abs/1511.06422](http://arxiv.org/abs/1511.06422)
+- github: [https://github.com/ducha-aiki/LSUVinit](https://github.com/ducha-aiki/LSUVinit)
 
 **What are good initial weights in a neural network?**
 
