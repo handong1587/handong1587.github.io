@@ -44,6 +44,10 @@ date: 2015-08-27
 - github: [https://github.com/handong1587/redsvd](https://github.com/handong1587/redsvd)
 - github: [https://github.com/ntessore/redsvd-h](https://github.com/ntessore/redsvd-h)
 
+**OpenCV 3.1.0: cv::SVD Class Reference**
+
+[http://docs.opencv.org/3.1.0/df/df7/classcv_1_1SVD.html#gsc.tab=0](http://docs.opencv.org/3.1.0/df/df7/classcv_1_1SVD.html#gsc.tab=0)
+
 # ICA
 
 **Independent component analysis**
