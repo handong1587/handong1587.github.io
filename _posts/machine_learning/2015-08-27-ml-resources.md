@@ -136,36 +136,6 @@ Other awesome lists can be found in this [list](https://github.com/sindresorhus/
 - arxiv: [http://arxiv.org/abs/1512.07548](http://arxiv.org/abs/1512.07548)
 - note: [http://blog.csdn.net/cyh_24/article/details/50408884](http://blog.csdn.net/cyh_24/article/details/50408884)
 
-# PCA/ICA/SVD
-
-**Fast Randomized PCA/SVD**
-
-- blog: [https://research.facebook.com/blog/294071574113354/fast-randomized-svd/](https://research.facebook.com/blog/294071574113354/fast-randomized-svd/)
-- baidu-pan: [http://pan.baidu.com/s/1nt8I8qt](http://pan.baidu.com/s/1nt8I8qt)
-- github: [https://github.com/facebook/fbpca](https://github.com/facebook/fbpca)
-
-**Robust Principal Component Analysis on Graphs**
-
-![](https://lts2.epfl.ch/blog/nauman/wp-content/uploads/sites/12/2015/01/Slide11.jpg)
-
-- arxiv: [http://arxiv.org/abs/1504.06151](http://arxiv.org/abs/1504.06151)
-- project: [https://lts2.epfl.ch/blog/nauman/recent-projects/](https://lts2.epfl.ch/blog/nauman/recent-projects/)
-- code: [http://pan.baidu.com/s/1gepgIUv](http://pan.baidu.com/s/1gepgIUv)
-
-**Feature Reduction using SVD**
-
-- blog: [http://blog.applied.ai/feature-reduction-using-svd/](http://blog.applied.ai/feature-reduction-using-svd/)
-- ipn: [http://nbviewer.jupyter.org/urls/bitbucket.org/appliedai/appliedai_svd/raw/02901de3aaa01be7b4536f484401113ddd5da8a9/01_FeatureReduction.ipynb](http://nbviewer.jupyter.org/urls/bitbucket.org/appliedai/appliedai_svd/raw/02901de3aaa01be7b4536f484401113ddd5da8a9/01_FeatureReduction.ipynb)
-
-**Independent component analysis**
-
-- blog: [http://efavdb.com/independent-component-analysis/](http://efavdb.com/independent-component-analysis/)
-- ipython notebook: [http://nbviewer.jupyter.org/github/EFavDB/ICA/blob/master/pyaudio.ipynb](http://nbviewer.jupyter.org/github/EFavDB/ICA/blob/master/pyaudio.ipynb)
-
-**Compressive PCA on Graphs**
-
-- arxiv: [http://arxiv.org/abs/1602.02070](http://arxiv.org/abs/1602.02070)
-
 # Gaussian Processes
 
 **The Gaussian Processes Web Site**
