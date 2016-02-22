@@ -38,6 +38,12 @@ date: 2015-08-27
 - blog: [http://datacratic.com/site/blog/visualizing-high-dimensional-data-browser-svd-t-sne-and-threejs](http://datacratic.com/site/blog/visualizing-high-dimensional-data-browser-svd-t-sne-and-threejs)
 - demo: [http://opensource.datacratic.com/data-projector/](http://opensource.datacratic.com/data-projector/)
 
+**RedSVD**
+
+- google-code: [https://code.google.com/p/redsvd/](https://code.google.com/p/redsvd/)
+- github: [https://github.com/handong1587/redsvd](https://github.com/handong1587/redsvd)
+- github: [https://github.com/ntessore/redsvd-h](https://github.com/ntessore/redsvd-h)
+
 # ICA
 
 **Independent component analysis**
