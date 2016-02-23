@@ -5,6 +5,9 @@ title: Object Detection
 date: 2015-10-09
 ---
 
+* TOC
+{:toc}
+
 # Papers
 
 **Deep Neural Networks for Object Detection**
@@ -23,6 +26,8 @@ topmost feature map after knowing the confidences of the underlying object categ
 - code: [https://github.com/sermanet/OverFeat](https://github.com/sermanet/OverFeat)
 - code: [http://cilvr.nyu.edu/doku.php?id=software:overfeat:start](http://cilvr.nyu.edu/doku.php?id=software:overfeat:start)
 
+## R-CNN
+
 **Rich feature hierarchies for accurate object detection and semantic segmentation(R-CNN)**
 
 |method                |VOC 2007 mAP|VOC 2010 mAP|VOC 2012 mAP|ILSVRC 2013 mAP|
@@ -40,11 +45,15 @@ topmost feature map after knowing the confidences of the underlying object categ
 - notes: [http://zhangliliang.com/2014/07/23/paper-note-rcnn/](http://zhangliliang.com/2014/07/23/paper-note-rcnn/)
 - caffe-pr("Make R-CNN the Caffe detection example"): [https://github.com/BVLC/caffe/pull/482](https://github.com/BVLC/caffe/pull/482) 
 
+## MultiBox
+
 **Scalable Object Detection using Deep Neural Networks (MultiBox)**
 
 - intro: Train a CNN to predict Region of Interest.
 - arXiv: [http://arxiv.org/abs/1312.2249](http://arxiv.org/abs/1312.2249)
 - code: [https://github.com/google/multibox](https://github.com/google/multibox)
+
+## SPP-Net
 
 **Spatial Pyramid Pooling in Deep Convolutional Networks for Visual Recognition**
 
@@ -66,6 +75,8 @@ topmost feature map after knowing the confidences of the underlying object categ
 
 - arXiv: [http://arxiv.org/abs/1412.1441](http://arxiv.org/abs/1412.1441)
 - code: [https://github.com/google/multibox](https://github.com/google/multibox)
+
+## DeepID-Net
 
 **DeepID-Net: Deformable Deep Convolutional Neural Networks for Object Detection**
 
@@ -113,6 +124,8 @@ and Structured Prediction**
 - slides: [http://www.ytzhang.net/files/publications/2015-cvpr-det-slides.pdf](http://www.ytzhang.net/files/publications/2015-cvpr-det-slides.pdf)
 - code: [https://github.com/YutingZhang/fgs-obj](https://github.com/YutingZhang/fgs-obj)
 
+## Fast R-CNN
+
 **Fast R-CNN**
 
 |method    |data |VOC 2007 mAP|
@@ -138,10 +151,14 @@ and Structured Prediction**
 - notes: [http://blog.csdn.net/linj_m/article/details/48930179](http://blog.csdn.net/linj_m/article/details/48930179)
 - github("Train Fast-RCNN on Another Dataset"): [https://github.com/zeyuanxy/fast-rcnn/tree/master/help/train](https://github.com/zeyuanxy/fast-rcnn/tree/master/help/train)
 
+## DeepBox
+
 **DeepBox: Learning Objectness with Convolutional Networks**
 
 - arXiv: [http://arxiv.org/abs/1505.02146](http://arxiv.org/abs/1505.02146)
 - github: [https://github.com/weichengkuo/DeepBox](https://github.com/weichengkuo/DeepBox)
+
+## MR-CNN
 
 **Object detection via a multi-region & semantic segmentation-aware CNN model (MR-CNN)**
 
@@ -161,6 +178,8 @@ and Structured Prediction**
 - notes: [http://zhangliliang.com/2015/05/17/paper-note-ms-cnn/](http://zhangliliang.com/2015/05/17/paper-note-ms-cnn/)
 - notes: [http://blog.cvmarcher.com/posts/2015/05/17/multi-region-semantic-segmentation-aware-cnn/](http://blog.cvmarcher.com/posts/2015/05/17/multi-region-semantic-segmentation-aware-cnn/)
 
+## Faster R-CNN
+
 **Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks(NIPS 2015)**
 
 |                   |training data|test data    |mAP  |time/img|
@@ -173,6 +192,8 @@ and Structured Prediction**
 - arXiv: [http://arxiv.org/abs/1506.01497](http://arxiv.org/abs/1506.01497)
 - github: [https://github.com/ShaoqingRen/faster_rcnn](https://github.com/ShaoqingRen/faster_rcnn)
 - github: [https://github.com/rbgirshick/py-faster-rcnn](https://github.com/rbgirshick/py-faster-rcnn)
+
+## YOLO
 
 **You Only Look Once: Unified, Real-Time Object Detection(YOLO)**
 
@@ -187,15 +208,21 @@ bounding boxes (which are shared for these categories).
 
 - arXiv: [http://arxiv.org/abs/1506.06981](http://arxiv.org/abs/1506.06981)
 
+## DenseBox
+
 **DenseBox: Unifying Landmark Localization with End to End Object Detection**
 
 - arXiv: [http://arxiv.org/abs/1509.04874](http://arxiv.org/abs/1509.04874)
 - demo: [http://pan.baidu.com/s/1mgoWWsS](http://pan.baidu.com/s/1mgoWWsS)
 - KITTI result: [http://www.cvlibs.net/datasets/kitti/eval_object.php](http://www.cvlibs.net/datasets/kitti/eval_object.php)
 
+## SSD
+
 **SSD: Single Shot MultiBox Detector**
 
 - arXiv: [http://arxiv.org/abs/1512.02325](http://arxiv.org/abs/1512.02325)
+
+## Inside-Outside Net
 
 **Inside-Outside Net: Detecting Objects in Context with Skip Pooling and Recurrent Neural Networks**
 
@@ -231,6 +258,8 @@ and 1.15s per image with it".
 - slides: [http://www.seanbell.ca/tmp/ion-coco-talk-bell2015.pdf](http://www.seanbell.ca/tmp/ion-coco-talk-bell2015.pdf)
 - coco-leaderboard: [http://mscoco.org/dataset/#detections-leaderboard](http://mscoco.org/dataset/#detections-leaderboard)
 
+## G-CNN
+
 **G-CNN: an Iterative Grid Based Object Detector**
 
 - arxiv: [http://arxiv.org/abs/1512.07729](http://arxiv.org/abs/1512.07729)
@@ -248,7 +277,7 @@ and 1.15s per image with it".
 
 **End-to-end people detection in crowded scenes**
 
-<img src="/assets/object-detection-materials/end_to_end_people_detection_in_crowded_scenes.jpg"/>
+![](/assets/object-detection-materials/end_to_end_people_detection_in_crowded_scenes.jpg)
 
 - arXiv: [http://arxiv.org/abs/1506.04878](http://arxiv.org/abs/1506.04878)
 - code: [https://github.com/Russell91/reinspect](https://github.com/Russell91/reinspect)
