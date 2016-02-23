@@ -31,3 +31,7 @@ date: 2015-08-27
 **Visualizing Topic Models**
 
 - youtube: [https://www.youtube.com/watch?v=tGxW2BzC_DU&index=4&list=PLykRMO7ZuHwP5cWnbEmP_mUIVgzd5DZgH](https://www.youtube.com/watch?v=tGxW2BzC_DU&index=4&list=PLykRMO7ZuHwP5cWnbEmP_mUIVgzd5DZgH)
+
+**Spectral Learning for Supervised Topic Models**
+
+- arxiv: [http://arxiv.org/abs/1602.06025](http://arxiv.org/abs/1602.06025)
