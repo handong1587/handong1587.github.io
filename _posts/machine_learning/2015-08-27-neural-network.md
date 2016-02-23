@@ -41,6 +41,14 @@ date: 2015-08-27
 - homepage: [http://experiments.mostafa.io/public/ffbpann/](http://experiments.mostafa.io/public/ffbpann/)
 - github: [https://github.com/drdrsh/interactive-bpann](https://github.com/drdrsh/interactive-bpann)
 
+**NNX: Neural networks for Excel**
+
+![](https://nnx-addin.org/img/NNX-hero-movie.gif)
+
+- intro: "Multilayer perceptrons done the Excel way"
+- homepage: [https://nnx-addin.org/](https://nnx-addin.org/)
+- github: [https://github.com/ikhramts/nnx](https://github.com/ikhramts/nnx)
+
 # Videos
 
 **Neural Networks with PHP**

@@ -169,3 +169,9 @@ date: 2015-10-09
 ![](https://d267cvn3rvuq91.cloudfront.net/i/images/gayfordx2079.jpg?sw=590&cx=93&cy=28&cw=1892&ch=2522)
 
 [https://www.technologyreview.com/s/600762/apprentice-work/](https://www.technologyreview.com/s/600762/apprentice-work/)
+
+**Exploring the Intersection of Art and Machine Intelligence**
+
+![](https://2.bp.blogspot.com/-RMPIwkAonnI/VstG8b2VZrI/AAAAAAAAA4c/8yYzUt2HF4g/s1600/image02.png)
+
+[http://googleresearch.blogspot.jp/2016/02/exploring-intersection-of-art-and.html](http://googleresearch.blogspot.jp/2016/02/exploring-intersection-of-art-and.html)
