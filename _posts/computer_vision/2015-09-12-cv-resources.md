@@ -225,3 +225,8 @@ date: 2015-09-12
 
 - blog: [http://multithreaded.stitchfix.com/blog/2016/02/04/computer-vision-state-of-the-art](http://multithreaded.stitchfix.com/blog/2016/02/04/computer-vision-state-of-the-art)
 - slides: [http://pan.baidu.com/s/1c0Sxzvq](http://pan.baidu.com/s/1c0Sxzvq)
+
+**Exploring Computer Vision**
+
+- (Part I): Convolutional Neural Networks: [https://indico.io/blog/exploring-computer-vision-convolutional-neural-nets/](https://indico.io/blog/exploring-computer-vision-convolutional-neural-nets/)
+- (Part II): Transfer Learning: [https://indico.io/blog/exploring-computer-vision-transfer-learning/](https://indico.io/blog/exploring-computer-vision-transfer-learning/)
