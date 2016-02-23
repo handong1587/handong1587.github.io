@@ -25,6 +25,10 @@ date: 2015-08-27
 - baidu-pan: [http://pan.baidu.com/s/1nt8I8qt](http://pan.baidu.com/s/1nt8I8qt)
 - github: [https://github.com/facebook/fbpca](https://github.com/facebook/fbpca)
 
+**Improper applications of Principal Component Analysis on multimodal data**
+
+- blog: [http://nxn.se/post/117471851320/improper-applications-of-principal-component](http://nxn.se/post/117471851320/improper-applications-of-principal-component)
+
 # SVD
 
 **Feature Reduction using SVD**
