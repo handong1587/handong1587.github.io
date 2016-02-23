@@ -542,6 +542,10 @@ with fast exact probabilistic inference over many layers."
 
 [http://fastml.com/what-you-wanted-to-know-about-ai/](http://fastml.com/what-you-wanted-to-know-about-ai/)
 
+**Epoch vs iteration when training neural networks**
+
+- stackoverflow: [http://stackoverflow.com/questions/4752626/epoch-vs-iteration-when-training-neural-networks](http://stackoverflow.com/questions/4752626/epoch-vs-iteration-when-training-neural-networks)
+
 # Resources
 
 **Awesome Deep Learning**
