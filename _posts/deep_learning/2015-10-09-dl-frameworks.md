@@ -345,3 +345,9 @@ date: 2015-10-09
 **Torch vs Theano**
 
 - blog: [http://fastml.com/torch-vs-theano/](http://fastml.com/torch-vs-theano/)
+
+**Deep Learning Software: NVIDIA Deep Learning SDK**
+
+![](https://developer.nvidia.com/sites/default/files/akamai/cuda/images/deeplearning/digits-2-gpu-utilization_faded.png)
+
+[https://developer.nvidia.com/deep-learning-software](https://developer.nvidia.com/deep-learning-software)
