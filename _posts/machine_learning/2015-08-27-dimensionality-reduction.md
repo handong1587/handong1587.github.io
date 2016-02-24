@@ -7,6 +7,10 @@ date: 2015-08-27
 
 # PCA
 
+**A Tutorial on Principal Component Analysis**
+
+- arxiv: [http://arxiv.org/abs/1404.1100](http://arxiv.org/abs/1404.1100)
+
 **Compressive PCA on Graphs**
 
 - arxiv: [http://arxiv.org/abs/1602.02070](http://arxiv.org/abs/1602.02070)
