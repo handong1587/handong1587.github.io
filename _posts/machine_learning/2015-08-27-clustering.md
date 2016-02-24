@@ -5,6 +5,8 @@ title: Clustering Algorithms Resources
 date: 2015-08-27
 ---
 
+# Papers
+
 **Stream Clustering**
 
 - slides: [www.cse.msu.edu/~cse902/S14/ppt/Stream%20Clustering.pptx](www.cse.msu.edu/~cse902/S14/ppt/Stream%20Clustering.pptx)
@@ -21,20 +23,9 @@ date: 2015-08-27
 
 - arxiv: [http://arxiv.org/abs/1602.02018](http://arxiv.org/abs/1602.02018)
 
-**Finding the K in K-means by Parametric Bootstrap**
-
-- blog: [http://www.win-vector.com/blog/2016/02/finding-the-k-in-k-means-by-parametric-bootstrap/](http://www.win-vector.com/blog/2016/02/finding-the-k-in-k-means-by-parametric-bootstrap/)
-
 **Interactive Bayesian Hierarchical Clustering**
 
 - arxiv: [http://arxiv.org/abs/1602.03258](http://arxiv.org/abs/1602.03258)
-
-**Random walk vectors for clustering**
-
-- part I – similarity between objects: [http://int8.io/random-walk-vectors-for-clustering-part-i-similarity-between-objects/](http://int8.io/random-walk-vectors-for-clustering-part-i-similarity-between-objects/)
-- part II – perspective switch: [http://int8.io/random-walk-vectors-for-clustering-part-ii-perspective-switch/](http://int8.io/random-walk-vectors-for-clustering-part-ii-perspective-switch/)
-- part III: [http://int8.io/random-walk-vectors-for-clustering-iii/](http://int8.io/random-walk-vectors-for-clustering-iii/)
-- final: [http://int8.io/random-walk-vectors-for-clustering-final/](http://int8.io/random-walk-vectors-for-clustering-final/)
 
 **k-Means Clustering Is Matrix Factorization**
 
@@ -48,6 +39,23 @@ date: 2015-08-27
 **Rényi divergence minimization based co-regularized multiview clustering**
 
 - paper: [http://rd.springer.com.sci-hub.io/article/10.1007/s10994-016-5543-2?wt_mc=internal.event.1.SEM.ArticleAuthorOnlineFirst](http://rd.springer.com.sci-hub.io/article/10.1007/s10994-016-5543-2?wt_mc=internal.event.1.SEM.ArticleAuthorOnlineFirst)
+
+# Blogs
+
+**Finding the K in K-means by Parametric Bootstrap**
+
+- blog: [http://www.win-vector.com/blog/2016/02/finding-the-k-in-k-means-by-parametric-bootstrap/](http://www.win-vector.com/blog/2016/02/finding-the-k-in-k-means-by-parametric-bootstrap/)
+
+**Random walk vectors for clustering**
+
+- part I – similarity between objects: [http://int8.io/random-walk-vectors-for-clustering-part-i-similarity-between-objects/](http://int8.io/random-walk-vectors-for-clustering-part-i-similarity-between-objects/)
+- part II – perspective switch: [http://int8.io/random-walk-vectors-for-clustering-part-ii-perspective-switch/](http://int8.io/random-walk-vectors-for-clustering-part-ii-perspective-switch/)
+- part III: [http://int8.io/random-walk-vectors-for-clustering-iii/](http://int8.io/random-walk-vectors-for-clustering-iii/)
+- final: [http://int8.io/random-walk-vectors-for-clustering-final/](http://int8.io/random-walk-vectors-for-clustering-final/)
+
+**A comparison between PCA and hierarchical clustering**
+
+[http://www.kdnuggets.com/2016/02/qlucore-comparison-pca-hierarchical-clustering.html](http://www.kdnuggets.com/2016/02/qlucore-comparison-pca-hierarchical-clustering.html)
 
 # Codes
 
