@@ -56,6 +56,7 @@ date: 2015-10-09
 **Inception-V4, Inception-Resnet And The Impact Of Residual Connections On Learning (Workshop track - ICLR 2016)**
 
 - intro: "achieve 3.08% top-5 error on the test set of the ImageNet classification (CLS) challenge"
+- arxiv: [http://arxiv.org/abs/1602.07261](http://arxiv.org/abs/1602.07261)
 - paper: [http://beta.openreview.net/pdf?id=q7kqBkL33f8LEkD3t7X9](http://beta.openreview.net/pdf?id=q7kqBkL33f8LEkD3t7X9)
 
 - - -
