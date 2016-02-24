@@ -576,6 +576,12 @@ with fast exact probabilistic inference over many layers."
 
 - github: [https://github.com/dennybritz/deeplearning-papernotes](https://github.com/dennybritz/deeplearning-papernotes)
 
+**Deep Learning Glossary**
+
+- intro: "Simple, opinionated explanations of various things encountered in Deep Learning / AI / ML."
+- author: Ryan Dahl, author of NodeJS. 
+- github: [https://github.com/ry/deep_learning_glossary](https://github.com/ry/deep_learning_glossary)
+
 # Tools
 
 **DNNGraph - A deep neural network model generation DSL in Haskell**
