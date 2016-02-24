@@ -40,6 +40,13 @@ date: 2015-08-27
 
 - paper: [http://rd.springer.com.sci-hub.io/article/10.1007/s10994-016-5543-2?wt_mc=internal.event.1.SEM.ArticleAuthorOnlineFirst](http://rd.springer.com.sci-hub.io/article/10.1007/s10994-016-5543-2?wt_mc=internal.event.1.SEM.ArticleAuthorOnlineFirst)
 
+# Books
+
+**Introduction to Clustering and Unsupervised Learning | PACKT Books**
+
+- intro: 《Machine Learning with R - Second Edition》by Brett Lantz
+- book: [https://www.packtpub.com/books/content/introduction-clustering-and-unsupervised-learning](https://www.packtpub.com/books/content/introduction-clustering-and-unsupervised-learning)
+
 # Blogs
 
 **Finding the K in K-means by Parametric Bootstrap**

@@ -35,6 +35,15 @@ date: 2015-09-12
 
 - homepage: [http://6.869.csail.mit.edu/fa15/index.html](http://6.869.csail.mit.edu/fa15/index.html)
 
+# Edge detection
+
+**Image-feature-detection-using-Phase-Stretch-Transform**
+
+![](https://upload.wikimedia.org/wikipedia/commons/4/45/PST_edge_detection_on_barbara_image.tif)
+
+- github: [https://github.com/JalaliLabUCLA/Image-feature-detection-using-Phase-Stretch-Transform](https://github.com/JalaliLabUCLA/Image-feature-detection-using-Phase-Stretch-Transform)
+- wikipedia: [https://en.wikipedia.org/wiki/Phase_stretch_transform](https://en.wikipedia.org/wiki/Phase_stretch_transform)
+
 # Images Denoising
 
 **Fast Burst Images Denoising(SIGGRAPH Asia 2014. CUHK, Microsoft Research)**
