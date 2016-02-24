@@ -27,6 +27,8 @@ For a reference: [http://english.stackexchange.com/questions/8293/how-do-you-lik
 
 *Reservoir Dogs (1992)*: "Alright ramblers, let’s get rambling!"
 
+*Fight Club (1999)*: "Self-improvement is masturbation. And self-destruction."
+
 (2012-01-26) *Psycho (1960)*:
 
 (2012-02-05) *Blade Runner (1982)*:
