@@ -74,6 +74,12 @@ date: 2015-09-09
 
 - github: [https://github.com/poboke/ActivatePowerMode](https://github.com/poboke/ActivatePowerMode)
 
+**Texter**
+
+- intro: Texter is a little javascript experiment that lets you explore your creativity by drawing with words. 
+- demo: [http://tholman.com/texter/](http://tholman.com/texter/)
+- github: [https://github.com/tholman/texter](https://github.com/tholman/texter)
+
 # Utilities
 
 **Python Gems: A collection of python scripts that solve interesting problems**
