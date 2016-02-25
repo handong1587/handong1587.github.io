@@ -383,6 +383,10 @@ with fast exact probabilistic inference over many layers."
 
 - arxiv: [http://arxiv.org/abs/1602.02282](http://arxiv.org/abs/1602.02282)
 
+**Group Equivariant Convolutional Networks (G-CNNs)**
+
+- arxiv: [http://arxiv.org/abs/1602.07576](http://arxiv.org/abs/1602.07576)
+
 # Distributed System
 
 **SparkNet: Training Deep Networks in Spark**
