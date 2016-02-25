@@ -351,3 +351,9 @@ date: 2015-10-09
 ![](https://developer.nvidia.com/sites/default/files/akamai/cuda/images/deeplearning/digits-2-gpu-utilization_faded.png)
 
 [https://developer.nvidia.com/deep-learning-software](https://developer.nvidia.com/deep-learning-software)
+
+**A comparison of deep learning frameworks**
+
+- intro: Theano/CGT/Torch/MXNet
+- gist: [https://gist.github.com/bartvm/69adf7aad100d58831b0](https://gist.github.com/bartvm/69adf7aad100d58831b0)
+- webo: [http://weibo.com/p/1001603946281180481229](http://weibo.com/p/1001603946281180481229)

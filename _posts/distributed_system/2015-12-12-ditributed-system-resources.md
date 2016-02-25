@@ -31,6 +31,13 @@ date: 2015-12-12
 
 - arxiv: [http://arxiv.org/abs/1509.02256](http://arxiv.org/abs/1509.02256)
 
+# Codes
+
+**CaffeOnSpark: Open Sourced for Distributed Deep Learning on Big Data Clusters (Yahoo)**
+
+- blog: [http://yahoohadoop.tumblr.com/post/139916563586/caffeonspark-open-sourced-for-distributed-deep](http://yahoohadoop.tumblr.com/post/139916563586/caffeonspark-open-sourced-for-distributed-deep)
+- github: [https://github.com/yahoo/CaffeOnSpark](https://github.com/yahoo/CaffeOnSpark)
+
 # Videos
 
 **A Scalable Implementation of Deep Learning on Spark**
@@ -38,8 +45,22 @@ date: 2015-12-12
 - youtube: [https://www.youtube.com/watch?v=pNYBBhuK8yU](https://www.youtube.com/watch?v=pNYBBhuK8yU)
 - video: [http://pan.baidu.com/s/1mhzF1uK](http://pan.baidu.com/s/1mhzF1uK)
 
+**Distributed TensorFlow on Spark: Scaling Google's Deep Learning Library (Spark Summit)**
+
+- youtube: [https://www.youtube.com/watch?v=-QtcP3yRqyM](https://www.youtube.com/watch?v=-QtcP3yRqyM)
+- video: [http://pan.baidu.com/s/1mgOR1GG](http://pan.baidu.com/s/1mgOR1GG)
+
+**Deep Recurrent Neural Networks for Sequence Learning in Spark (Spark Summit)**
+
+- youtube: [https://www.youtube.com/watch?v=mUuqLcl8Jog](https://www.youtube.com/watch?v=mUuqLcl8Jog)
+- video: [http://pan.baidu.com/s/1sklHTPr](http://pan.baidu.com/s/1sklHTPr)
+
 # Blogs
 
 **Spark vs. Hadoop MapReduce**
 
 [https://www.xplenty.com/blog/2014/11/apache-spark-vs-hadoop-mapreduce/](https://www.xplenty.com/blog/2014/11/apache-spark-vs-hadoop-mapreduce/)
+
+**Hadoop, Spark, Deep Learning Mesh on Single GPU Cluster**
+
+[http://www.nextplatform.com/2016/02/24/hadoop-spark-deep-learning-mesh-on-single-gpu-cluster/](http://www.nextplatform.com/2016/02/24/hadoop-spark-deep-learning-mesh-on-single-gpu-cluster/)

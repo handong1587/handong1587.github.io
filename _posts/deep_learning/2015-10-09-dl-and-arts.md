@@ -175,3 +175,9 @@ date: 2015-10-09
 ![](https://2.bp.blogspot.com/-RMPIwkAonnI/VstG8b2VZrI/AAAAAAAAA4c/8yYzUt2HF4g/s1600/image02.png)
 
 [http://googleresearch.blogspot.jp/2016/02/exploring-intersection-of-art-and.html](http://googleresearch.blogspot.jp/2016/02/exploring-intersection-of-art-and.html)
+
+**Using machine learning to generate music**
+
+![](http://api.ning.com/files/AOzcN6l-SPr7b3kjg*PpWCTfYlK36W6nG2KcQswQ4YcxWwLfUnqzTUJReEyVoBJtX*4vbP-d19qoLm2TBspkdZ9ZQ40Z1Pb7/maxresdefault.jpg?width=450)
+
+[http://www.datasciencecentral.com/profiles/blogs/using-machine-learning-to-generate-music](http://www.datasciencecentral.com/profiles/blogs/using-machine-learning-to-generate-music)

@@ -56,6 +56,11 @@ date: 2015-09-09
 
 - project: [https://github.com/smarr/latex-to-html5](https://github.com/smarr/latex-to-html5)
 
+**LaTeX handwritten symbol recognition: Detexify Backend Server implemented in Haskell**
+
+- demo: [http://detexify.kirelabs.org/classify.html](http://detexify.kirelabs.org/classify.html)
+- github: [https://github.com/kirel/detexify-hs-backend](https://github.com/kirel/detexify-hs-backend)
+
 **Enhancements for The official editor for Code in the Dark**
 
 <img src="/assets/programming_study/codeinthedark_editor_enhancement.gif" />

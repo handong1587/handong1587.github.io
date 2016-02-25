@@ -487,8 +487,16 @@ with fast exact probabilistic inference over many layers."
 
 **Exploiting Cyclic Symmetry in Convolutional Neural Networks**
 
+![](http://benanne.github.io/images/cyclicroll.png)
+
 - arxiv: [http://arxiv.org/abs/1602.02660](http://arxiv.org/abs/1602.02660)
-- github: 
+- github(Winning solution for the National Data Science Bowl competition on Kaggle (plankton classification)): [https://github.com/benanne/kaggle-ndsb](https://github.com/benanne/kaggle-ndsb)
+- ref(use Cyclic pooling): [http://benanne.github.io/2015/03/17/plankton.html](http://benanne.github.io/2015/03/17/plankton.html)
+
+**Cross-dimensional Weighting for Aggregated Deep Convolutional Features**
+
+- arxiv: [http://arxiv.org/abs/1512.04065](http://arxiv.org/abs/1512.04065)
+- github: [https://github.com/yahoo/crow](https://github.com/yahoo/crow)
 
 # Codes
 

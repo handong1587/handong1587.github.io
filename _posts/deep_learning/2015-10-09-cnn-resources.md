@@ -164,7 +164,10 @@ Bicubic VS. Shepard CNN
 
 **PlaNet - Photo Geolocation with Convolutional Neural Networks**
 
+![](https://d267cvn3rvuq91.cloudfront.net/i/images/planet.jpg?sw=590&cx=0&cy=0&cw=928&ch=614)
+
 - arxiv: [http://arxiv.org/abs/1602.05314](http://arxiv.org/abs/1602.05314)
+- review("Google Unveils Neural Network with “Superhuman” Ability to Determine the Location of Almost Any Image"): [https://www.technologyreview.com/s/600889/google-unveils-neural-network-with-superhuman-ability-to-determine-the-location-of-almost/](https://www.technologyreview.com/s/600889/google-unveils-neural-network-with-superhuman-ability-to-determine-the-location-of-almost/)
 
 # Blogs
 
