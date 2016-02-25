@@ -35,6 +35,7 @@ date: 2015-10-09
 **Caffe: Convolutional Architecture for Fast Feature Embedding**
 
 - github: [https://github.com/BVLC/caffe](https://github.com/BVLC/caffe)
+- github: [https://github.com/Microsoft/caffe](https://github.com/Microsoft/caffe)
 - paper: [http://arxiv.org/abs/1408.5093](http://arxiv.org/abs/1408.5093)
 - tutorial: [http://tutorial.caffe.berkeleyvision.org/](http://tutorial.caffe.berkeleyvision.org/)
 - slides: [http://vision.stanford.edu/teaching/cs231n/slides/caffe_tutorial.pdf](http://vision.stanford.edu/teaching/cs231n/slides/caffe_tutorial.pdf)
