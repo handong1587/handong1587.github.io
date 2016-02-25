@@ -288,3 +288,11 @@ and 1.15s per image with it".
 **Convolutional Feature Maps: Elements of efficient (and accurate) CNN-based object detection**
 
 - slides: [http://research.microsoft.com/en-us/um/people/kahe/iccv15tutorial/iccv2015_tutorial_convolutional_feature_maps_kaiminghe.pdf](http://research.microsoft.com/en-us/um/people/kahe/iccv15tutorial/iccv2015_tutorial_convolutional_feature_maps_kaiminghe.pdf)
+
+# Codes
+
+**TensorBox: a simple framework for training neural networks to detect objects in images**
+
+- intro: "The basic model implements the simple and robust GoogLeNet-OverFeat algorithm. 
+We additionally provide an implementation of the [ReInspect](https://github.com/Russell91/ReInspect/) algorithm"
+- github: [https://github.com/Russell91/TensorBox](https://github.com/Russell91/TensorBox)
