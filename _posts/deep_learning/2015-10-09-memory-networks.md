@@ -47,3 +47,10 @@ date: 2015-10-09
 **Neural GPUs Learn Algorithms**
 
 - arixv: [http://arxiv.org/abs/1511.08228](http://arxiv.org/abs/1511.08228)
+
+# Codes
+
+**NTM-Lasagne: A Library for Neural Turing Machines in Lasagne**
+
+- github: [https://github.com/snipsco/ntm-lasagne](https://github.com/snipsco/ntm-lasagne)
+- blog: [https://medium.com/snips-ai/ntm-lasagne-a-library-for-neural-turing-machines-in-lasagne-2cdce6837315#.96pnh1m6j](https://medium.com/snips-ai/ntm-lasagne-a-library-for-neural-turing-machines-in-lasagne-2cdce6837315#.96pnh1m6j)
