@@ -85,6 +85,10 @@ date: 2015-09-09
 - demo: [http://tholman.com/texter/](http://tholman.com/texter/)
 - github: [https://github.com/tholman/texter](https://github.com/tholman/texter)
 
+**PDFMiner: a tool for extracting information from PDF documents**
+
+- github: [https://github.com/euske/pdfminer/](https://github.com/euske/pdfminer/)
+
 # Utilities
 
 **Python Gems: A collection of python scripts that solve interesting problems**
