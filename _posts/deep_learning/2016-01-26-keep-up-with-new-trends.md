@@ -65,3 +65,7 @@ date: 2016-01-26
 **NIPS 2015 workshop on non-convex optimization**
 
 [http://www.offconvex.org/2016/01/25/non-convex-workshop/](http://www.offconvex.org/2016/01/25/non-convex-workshop/)
+
+**International Conference on Computer Vision (ICCV) 2015, Santiago**
+
+[http://videolectures.net/iccv2015_santiago/](http://videolectures.net/iccv2015_santiago/)
