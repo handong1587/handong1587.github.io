@@ -117,6 +117,11 @@ to decompose it into the multiplications of thinned dense matrices"
 
 - arxiv: [http://arxiv.org/abs/1602.04489](http://arxiv.org/abs/1602.04489)
 
+**SqueezeNet: AlexNet-level accuracy with 50x fewer parameters and <1MB model size**
+
+- arxiv: [http://arxiv.org/abs/1602.07360](http://arxiv.org/abs/1602.07360)
+- github: [https://github.com/DeepScale/SqueezeNet](https://github.com/DeepScale/SqueezeNet)
+
 # Codes
 
 **Accelerate Convolutional Neural Networks**

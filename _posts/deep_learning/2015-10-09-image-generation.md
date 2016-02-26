@@ -92,7 +92,6 @@ date: 2015-10-09
 
 - github: [https://github.com/aleju/cat-generator](https://github.com/aleju/cat-generator)
 
-
 **TF-VAE-GAN-DRAW**
 
 - intro: A collection of generative methods implemented with TensorFlow 
@@ -100,3 +99,8 @@ date: 2015-10-09
 Variational Autoencoder (VAE) 
 and DRAW: A Recurrent Neural Network For Image Generation).
 - github: [https://github.com/ikostrikov/TensorFlow-VAE-GAN-DRAW](https://github.com/ikostrikov/TensorFlow-VAE-GAN-DRAW)
+
+**Understanding and Implementing Deepmind's DRAW Model**
+
+- blog: [http://evjang.com/articles/draw](http://evjang.com/articles/draw)
+- github: [https://github.com/ericjang/draw](https://github.com/ericjang/draw)
