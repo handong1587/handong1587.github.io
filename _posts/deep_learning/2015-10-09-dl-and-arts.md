@@ -77,6 +77,10 @@ date: 2015-10-09
 
 - paper: [http://isis-data.science.uva.nl/cgmsnoek/pub/cappallo-image2emoji-mm2015.pdf](http://isis-data.science.uva.nl/cgmsnoek/pub/cappallo-image2emoji-mm2015.pdf)
 
+**Content Aware Neural Style Transfer**
+
+- arxiv: [http://arxiv.org/abs/1601.04568](http://arxiv.org/abs/1601.04568)
+
 # Music
 
 **GRUV: Algorithmic Music Generation using Recurrent Neural Networks**
