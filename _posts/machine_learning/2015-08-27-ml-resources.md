@@ -65,6 +65,11 @@ Other awesome lists can be found in this [list](https://github.com/sindresorhus/
 
 - blog: [http://www.analyticsvidhya.com/blog/2016/02/complete-guide-parameter-tuning-gradient-boosting-gbm-python/](http://www.analyticsvidhya.com/blog/2016/02/complete-guide-parameter-tuning-gradient-boosting-gbm-python/)
 
+**Awesome XGBoost**
+
+- intro: This page contains a curated list of examples, tutorials, blogs about XGBoost usecases. 
+- github: [https://github.com/dmlc/xgboost/blob/master/demo/README.md](https://github.com/dmlc/xgboost/blob/master/demo/README.md)
+
 # Bootstrap
 
 **Coding, Visualizing, and Animating Bootstrap Resampling**

@@ -502,6 +502,12 @@ with fast exact probabilistic inference over many layers."
 - arxiv: [http://arxiv.org/abs/1512.04065](http://arxiv.org/abs/1512.04065)
 - github: [https://github.com/yahoo/crow](https://github.com/yahoo/crow)
 
+**Understanding Visual Concepts with Continuation Learning**
+
+- project page: [http://willwhitney.github.io/understanding-visual-concepts/](http://willwhitney.github.io/understanding-visual-concepts/)
+- arxiv: [http://arxiv.org/abs/1602.06822](http://arxiv.org/abs/1602.06822)
+- github: [https://github.com/willwhitney/understanding-visual-concepts](https://github.com/willwhitney/understanding-visual-concepts)
+
 # Codes
 
 **deepnet: Implementation of some deep learning algorithms**

@@ -203,6 +203,11 @@ date: 2015-10-09
 - video: [http://research.microsoft.com/apps/video/default.aspx?id=262396](http://research.microsoft.com/apps/video/default.aspx?id=262396)
 - video: [http://pan.baidu.com/s/1mgSnj64](http://pan.baidu.com/s/1mgSnj64)
 
+**Awesome MXNet**
+
+- intro: This page contains a curated list of awesome MXnet examples, tutorials and blogs.
+- github: [https://github.com/dmlc/mxnet/blob/master/example/README.md](https://github.com/dmlc/mxnet/blob/master/example/README.md)
+
 # neocortex.js
 
 **Run trained deep neural networks in the browser or node.js**
