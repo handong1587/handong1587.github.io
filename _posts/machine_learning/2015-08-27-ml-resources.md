@@ -335,6 +335,10 @@ Other awesome lists can be found in this [list](https://github.com/sindresorhus/
 - github: [https://github.com/mil-tokyo](https://github.com/mil-tokyo)
 - homepage: [http://mil-tokyo.github.io/](http://mil-tokyo.github.io/)
 
+**machineJS: Automated machine learning- just give it a data file!**
+
+- github: [https://github.com/ClimbsRocks/machineJS](https://github.com/ClimbsRocks/machineJS)
+
 # Readings and Questions
 
 **(Quora): What are the top 10 data mining or machine learning algorithms?**
