@@ -363,3 +363,7 @@ date: 2015-10-09
 - intro: Theano/CGT/Torch/MXNet
 - gist: [https://gist.github.com/bartvm/69adf7aad100d58831b0](https://gist.github.com/bartvm/69adf7aad100d58831b0)
 - webo: [http://weibo.com/p/1001603946281180481229](http://weibo.com/p/1001603946281180481229)
+
+**TensorFlow Meets Microsoft’s CNTK**
+
+- blog: [http://esciencegroup.com/2016/02/08/tensorflow-meets-microsofts-cntk/](http://esciencegroup.com/2016/02/08/tensorflow-meets-microsofts-cntk/)
