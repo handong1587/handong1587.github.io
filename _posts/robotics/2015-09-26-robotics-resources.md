@@ -1,7 +1,7 @@
 ---
 layout: post
-category: robots
-title: Robots
+category: robotics
+title: Robotics
 date: 2015-09-26
 ---
 
@@ -11,6 +11,10 @@ date: 2015-09-26
 
 - homepage: [http://cs.stanford.edu/groups/manips/teaching/cs223a/](http://cs.stanford.edu/groups/manips/teaching/cs223a/)
 - opencourse: [http://open.163.com/special/opencourse/robotics.html](http://open.163.com/special/opencourse/robotics.html)
+
+**(Udacity) Artificial Intelligence for Robotics: Programming a Robotic Car**
+
+- homepage: [https://www.udacity.com/course/artificial-intelligence-for-robotics--cs373](https://www.udacity.com/course/artificial-intelligence-for-robotics--cs373)
 
 # Papers
 
