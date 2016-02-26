@@ -5,7 +5,7 @@ title: Image Generation
 date: 2015-10-09
 ---
 
-# Paper
+# Papers
 
 **Optimizing Neural Networks That Generate Images(2014. PhD thesis)**
 
@@ -79,15 +79,24 @@ date: 2015-10-09
 
 - arxiv: [http://arxiv.org/abs/1602.05110](http://arxiv.org/abs/1602.05110)
 
-# Blog
+# Blogs
 
 **Torch convolutional GAN: Generating Faces with Torch**
 
 - blog: [http://torch.ch/blog/2015/11/13/gan.html](http://torch.ch/blog/2015/11/13/gan.html)
 - github: [https://github.com/skaae/torch-gan](https://github.com/skaae/torch-gan)
 
-# Code
+# Codes
 
 **Generate cat images with neural networks**
 
 - github: [https://github.com/aleju/cat-generator](https://github.com/aleju/cat-generator)
+
+
+**TF-VAE-GAN-DRAW**
+
+- intro: A collection of generative methods implemented with TensorFlow 
+(Deep Convolutional Generative Adversarial Networks (DCGAN), 
+Variational Autoencoder (VAE) 
+and DRAW: A Recurrent Neural Network For Image Generation).
+- github: [https://github.com/ikostrikov/TensorFlow-VAE-GAN-DRAW](https://github.com/ikostrikov/TensorFlow-VAE-GAN-DRAW)
