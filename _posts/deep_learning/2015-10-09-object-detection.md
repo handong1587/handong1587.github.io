@@ -296,3 +296,9 @@ and 1.15s per image with it".
 - intro: "The basic model implements the simple and robust GoogLeNet-OverFeat algorithm. 
 We additionally provide an implementation of the [ReInspect](https://github.com/Russell91/ReInspect/) algorithm"
 - github: [https://github.com/Russell91/TensorBox](https://github.com/Russell91/TensorBox)
+
+# Blogs
+
+**Convolutional Neural Networks for Object Detection**
+
+[http://rnd.azoft.com/convolutional-neural-networks-object-detection/](http://rnd.azoft.com/convolutional-neural-networks-object-detection/)
