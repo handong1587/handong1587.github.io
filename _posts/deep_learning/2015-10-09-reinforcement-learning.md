@@ -165,6 +165,10 @@ date: 2015-10-09
 - blog: [https://medium.com/@harvitronix/using-reinforcement-learning-in-python-to-teach-a-virtual-car-to-avoid-obstacles-6e782cc7d4c6#.p8ug6snri](https://medium.com/@harvitronix/using-reinforcement-learning-in-python-to-teach-a-virtual-car-to-avoid-obstacles-6e782cc7d4c6#.p8ug6snri)
 - github: [https://github.com/harvitronix/reinforcement-learning-car](https://github.com/harvitronix/reinforcement-learning-car)
 
+**Reinforcement learning in Python to teach a virtual car to avoid obstacles — part 2**
+
+[https://medium.com/@harvitronix/reinforcement-learning-in-python-to-teach-a-virtual-car-to-avoid-obstacles-part-2-93e614fcd238#.i0o643m1h](https://medium.com/@harvitronix/reinforcement-learning-in-python-to-teach-a-virtual-car-to-avoid-obstacles-part-2-93e614fcd238#.i0o643m1h)
+
 **Some Reinforcement Learning Algorithms in Python, C++**
 
 - pan: [http://pan.baidu.com/s/1mhcYf3M#path=%252FImplementations%2520of%2520Some%2520Reinforcement%2520Learning%2520Algorithms](http://pan.baidu.com/s/1mhcYf3M#path=%252FImplementations%2520of%2520Some%2520Reinforcement%2520Learning%2520Algorithms)
