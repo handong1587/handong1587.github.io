@@ -181,3 +181,7 @@ date: 2015-10-09
 ![](http://api.ning.com/files/AOzcN6l-SPr7b3kjg*PpWCTfYlK36W6nG2KcQswQ4YcxWwLfUnqzTUJReEyVoBJtX*4vbP-d19qoLm2TBspkdZ9ZQ40Z1Pb7/maxresdefault.jpg?width=450)
 
 [http://www.datasciencecentral.com/profiles/blogs/using-machine-learning-to-generate-music](http://www.datasciencecentral.com/profiles/blogs/using-machine-learning-to-generate-music)
+
+**art in the age of machine intelligence**
+
+[https://medium.com/artists-and-machine-intelligence/what-is-ami-ccd936394a83#.hyt4ei9a9](https://medium.com/artists-and-machine-intelligence/what-is-ami-ccd936394a83#.hyt4ei9a9)
