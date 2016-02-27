@@ -121,6 +121,11 @@ to decompose it into the multiplications of thinned dense matrices"
 
 - arxiv: [http://arxiv.org/abs/1602.07360](http://arxiv.org/abs/1602.07360)
 - github: [https://github.com/DeepScale/SqueezeNet](https://github.com/DeepScale/SqueezeNet)
+- note: [https://www.evernote.com/shard/s146/sh/108eea91-349b-48ba-b7eb-7ac8f548bee9/5171dc6b1088fba05a4e317f7f5d32a3](https://www.evernote.com/shard/s146/sh/108eea91-349b-48ba-b7eb-7ac8f548bee9/5171dc6b1088fba05a4e317f7f5d32a3)
+
+**Weight Normalization: A Simple Reparameterization to Accelerate Training of Deep Neural Networks**
+
+- arxiv: [http://arxiv.org/abs/1602.07868](http://arxiv.org/abs/1602.07868)
 
 # Codes
 

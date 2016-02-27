@@ -190,6 +190,10 @@ date: 2015-10-09
 
 - slides: [http://vdisk.weibo.com/s/z5dg0jVVHv2pn/1450157571](http://vdisk.weibo.com/s/z5dg0jVVHv2pn/1450157571)
 
+**Deep Learning in a Single File for Smart Devices**
+
+[https://mxnet.readthedocs.org/en/latest/tutorial/smart_device.html](https://mxnet.readthedocs.org/en/latest/tutorial/smart_device.html)
+
 **用MXnet实战深度学习之一:安装GPU版mxnet并跑一个MNIST手写数字识别**
 
 [http://phunter.farbox.com/post/mxnet-tutorial1](http://phunter.farbox.com/post/mxnet-tutorial1)
@@ -269,6 +273,7 @@ date: 2015-10-09
 - website: [http://tensorflow.org/](http://tensorflow.org/)
 - whitepaper: [http://download.tensorflow.org/paper/whitepaper2015.pdf](http://download.tensorflow.org/paper/whitepaper2015.pdf)
 - github: [https://github.com/tensorflow/tensorflow](https://github.com/tensorflow/tensorflow)
+- github: [https://github.com/tensorflow/tensorflow/tree/master/tensorflow/core/distributed_runtime](https://github.com/tensorflow/tensorflow/tree/master/tensorflow/core/distributed_runtime)
 - tutorial: [http://tensorflow.org/tutorials](http://tensorflow.org/tutorials)
 - tutorial: [https://github.com/nlintz/TensorFlow-Tutorials](https://github.com/nlintz/TensorFlow-Tutorials)
 - stackoverflow: [https://stackoverflow.com/questions/tagged/tensorflow](https://stackoverflow.com/questions/tagged/tensorflow)

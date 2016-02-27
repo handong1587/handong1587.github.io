@@ -31,6 +31,11 @@ date: 2015-10-09
 
 - blog: [http://mli.github.io/gpu/2016/01/17/build-gpu-clusters/](http://mli.github.io/gpu/2016/01/17/build-gpu-clusters/)
 
+**HPC, Deep Learning and GPUs(2016 Stanford HPC Conference)**
+
+- youtube: [https://www.youtube.com/watch?v=JwgoC-1V_38](https://www.youtube.com/watch?v=JwgoC-1V_38)
+- video: [http://pan.baidu.com/s/1pKrSvOZ](http://pan.baidu.com/s/1pKrSvOZ)
+
 # FPGA
 
 **Recurrent Neural Networks Hardware Implementation on FPGA**

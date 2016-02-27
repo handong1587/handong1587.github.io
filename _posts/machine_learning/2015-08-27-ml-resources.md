@@ -250,6 +250,13 @@ Other awesome lists can be found in this [list](https://github.com/sindresorhus/
 - keywords: source code authorship, random forests
 - paper: [http://www.princeton.edu/~aylinc/papers/caliskan-islam_deanonymizing.pdf](http://www.princeton.edu/~aylinc/papers/caliskan-islam_deanonymizing.pdf)
 
+# Recommendation System
+
+**Top-N Recommendation with Novel Rank Approximation**
+
+- arxiv: [http://arxiv.org/abs/1602.07783](http://arxiv.org/abs/1602.07783)
+- github: [https://github.com/sckangz/SDM16](https://github.com/sckangz/SDM16)
+
 # Resources
 
 **Machine Learning Surveys: A list of literature surveys, reviews, and tutorials on Machine Learning and related topics**

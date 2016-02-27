@@ -508,6 +508,14 @@ with fast exact probabilistic inference over many layers."
 - arxiv: [http://arxiv.org/abs/1602.06822](http://arxiv.org/abs/1602.06822)
 - github: [https://github.com/willwhitney/understanding-visual-concepts](https://github.com/willwhitney/understanding-visual-concepts)
 
+**Learning Efficient Algorithms with Hierarchical Attentive Memory**
+
+- arxiv: [http://arxiv.org/abs/1602.03218](http://arxiv.org/abs/1602.03218)
+
+**Resnet in Resnet: Generalizing Residual Architectures**
+
+- paper: [http://beta.openreview.net/forum?id=lx9l4r36gU2OVPy8Cv9g](http://beta.openreview.net/forum?id=lx9l4r36gU2OVPy8Cv9g)
+
 # Codes
 
 **deepnet: Implementation of some deep learning algorithms**
