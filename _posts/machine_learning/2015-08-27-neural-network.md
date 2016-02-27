@@ -5,6 +5,12 @@ title: Neural Network
 date: 2015-08-27
 ---
 
+# Tutorials
+
+**A Step by Step Backpropagation Example**
+
+- blog: [http://mattmazur.com/2015/03/17/a-step-by-step-backpropagation-example/](http://mattmazur.com/2015/03/17/a-step-by-step-backpropagation-example/)
+
 # Papers
 
 **A Fast C++ Implementation of Neural Network Backpropagation Training Algorithm: Application to Bayesian Optimal Image Demosaicking**

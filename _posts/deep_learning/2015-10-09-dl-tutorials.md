@@ -94,7 +94,3 @@ date: 2015-10-09
 - Part 2: [http://www.andreykurenkov.com/writing/a-brief-history-of-neural-nets-and-deep-learning-part-2/](http://www.andreykurenkov.com/writing/a-brief-history-of-neural-nets-and-deep-learning-part-2/)
 - Part 3: [http://www.andreykurenkov.com/writing/a-brief-history-of-neural-nets-and-deep-learning-part-3/](http://www.andreykurenkov.com/writing/a-brief-history-of-neural-nets-and-deep-learning-part-3/)
 - Part 4: [http://www.andreykurenkov.com/writing/a-brief-history-of-neural-nets-and-deep-learning-part-4/](http://www.andreykurenkov.com/writing/a-brief-history-of-neural-nets-and-deep-learning-part-4/)
-
-**A Step by Step Backpropagation Example**
-
-- blog: [http://mattmazur.com/2015/03/17/a-step-by-step-backpropagation-example/](http://mattmazur.com/2015/03/17/a-step-by-step-backpropagation-example/)
