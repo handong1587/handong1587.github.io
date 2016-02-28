@@ -24,6 +24,12 @@ date: 2015-10-09
 
 - arXiv: [http://arxiv.org/abs/1510.00585v1](http://arxiv.org/abs/1510.00585v1)
 
+# Slides
+
+**Deep learning for music recommendation**
+
+- sldies: [http://pan.baidu.com/s/1skriMJj](http://pan.baidu.com/s/1skriMJj) 
+
 # Blog
 
 **Recommending music on Spotify with deep learning**
