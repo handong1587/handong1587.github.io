@@ -22,3 +22,7 @@ date: 2015-07-01
 **MIT: Introduction to Algorithms**
 
 [http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/index.htm](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/index.htm)
+
+**Stanford: CS 97SI: Introduction to Programming Contests**
+
+[http://web.stanford.edu/class/cs97si/](http://web.stanford.edu/class/cs97si/)
