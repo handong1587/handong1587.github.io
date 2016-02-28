@@ -179,6 +179,10 @@ date: 2015-10-09
 
 - stackexchange: [http://stats.stackexchange.com/questions/47590/what-are-good-initial-weights-in-a-neural-network](http://stats.stackexchange.com/questions/47590/what-are-good-initial-weights-in-a-neural-network)
 
+**RandomOut: Using a convolutional gradient norm to win The Filter Lottery**
+
+- arxiv: [http://arxiv.org/abs/1602.05931](http://arxiv.org/abs/1602.05931)
+
 # Loss Function
 
 **The Loss Surfaces of Multilayer Networks**
