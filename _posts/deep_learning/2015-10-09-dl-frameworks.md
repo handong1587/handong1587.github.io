@@ -105,7 +105,7 @@ date: 2015-10-09
 - webiste: [http://www.deepdetect.com/](http://www.deepdetect.com/)
 - github: [https://github.com/beniz/deepdetect](https://github.com/beniz/deepdetect)
 
-# Deeplearning4j
+# Deeplearning4j (DL4J)
 
 **Deeplearning4j: Deep Learning for Java**
 
@@ -380,3 +380,7 @@ date: 2015-10-09
 **Is there a case for still using Torch, Theano, Brainstorm, MXNET and not switching to TensorFlow?**
 
 - reddit: [https://www.reddit.com/r/MachineLearning/comments/47qh90/is_there_a_case_for_still_using_torch_theano/][https://www.reddit.com/r/MachineLearning/comments/47qh90/is_there_a_case_for_still_using_torch_theano/]
+
+**DL4J vs. Torch vs. Theano vs. Caffe vs. TensorFlow**
+
+[http://deeplearning4j.org/compare-dl4j-torch7-pylearn.html](http://deeplearning4j.org/compare-dl4j-torch7-pylearn.html)
