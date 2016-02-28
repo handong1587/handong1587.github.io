@@ -49,3 +49,7 @@ date: 2015-10-09
 **Efficient Implementation of Neural Network Systems Built on FPGAs, Programmed with OpenCL**
 
 - paper: [https://www.altera.com/content/dam/altera-www/global/en_US/pdfs/literature/solution-sheets/efficient_neural_networks.pdf?utm_source=Altera&utm_medium=link&utm_campaign=OpenCL_15_1&utm_content=NA_efficient-neural-networks-solution-sheet-download-link](https://www.altera.com/content/dam/altera-www/global/en_US/pdfs/literature/solution-sheets/efficient_neural_networks.pdf?utm_source=Altera&utm_medium=link&utm_campaign=OpenCL_15_1&utm_content=NA_efficient-neural-networks-solution-sheet-download-link)
+
+**Deep Learning on FPGAs: Past, Present, and Future**
+
+- arxiv: [http://arxiv.org/abs/1602.04283](http://arxiv.org/abs/1602.04283)
