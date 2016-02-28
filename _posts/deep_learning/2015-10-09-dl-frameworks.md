@@ -286,6 +286,10 @@ date: 2015-10-09
 
 - github: [https://github.com/ericjang/tdb](https://github.com/ericjang/tdb)
 
+**ofxMSATensorFlow: OpenFrameworks addon for Google's data-flow graph based numerical computation / machine intelligence library TensorFlow.**
+
+- github: [https://github.com/memo/ofxMSATensorFlow](https://github.com/memo/ofxMSATensorFlow)
+
 # Theano
 
 **Theano**
