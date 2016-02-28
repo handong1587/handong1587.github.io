@@ -15,3 +15,9 @@ that provides a simple interface for defining and accessing command line argumen
 **C/C++ tip: How to get the process resident set size (physical memory use)**
 
 - blog: [http://nadeausoftware.com/articles/2012/07/c_c_tip_how_get_process_resident_set_size_physical_memory_use](http://nadeausoftware.com/articles/2012/07/c_c_tip_how_get_process_resident_set_size_physical_memory_use)
+
+# Resources
+
+**openFrameworks: an open source C++ toolkit for creative coding.**
+
+- homepage: [http://openframeworks.cc/](http://openframeworks.cc/)
