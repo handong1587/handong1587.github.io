@@ -11,11 +11,11 @@ date: 2015-09-27
 
 **Bodies left on Everest**
 
-- [http://imgur.com/gallery/4UJj0](http://imgur.com/gallery/4UJj0)
+- website: [http://imgur.com/gallery/4UJj0](http://imgur.com/gallery/4UJj0)
 
 **GeoS Demo — An End to End Geometry Problem Solver**
 
-<img src="/assets/leisure/blogs-and-websites/GeoS_Demo.jpg"/>
+![](/assets/leisure/blogs-and-websites/GeoS_Demo.jpg)
 
 [http://geometry.allenai.org/demo/](http://geometry.allenai.org/demo/)
 
@@ -38,6 +38,12 @@ date: 2015-09-27
 **CreativeApplications.Net**
 
 [http://www.creativeapplications.net/](http://www.creativeapplications.net/)
+
+**Battkes: Public Interface**
+
+![](/assets/leisure/blogs-and-websites/battles_nodegoat.jpg)
+
+[http://battles.nodegoat.net/viewer.p/23/385/scenario/1/geo/fullscreen](http://battles.nodegoat.net/viewer.p/23/385/scenario/1/geo/fullscreen)
 
 # APPs
 

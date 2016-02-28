@@ -372,3 +372,7 @@ date: 2015-10-09
 **TensorFlow Meets Microsoft’s CNTK**
 
 - blog: [http://esciencegroup.com/2016/02/08/tensorflow-meets-microsofts-cntk/](http://esciencegroup.com/2016/02/08/tensorflow-meets-microsofts-cntk/)
+
+**Is there a case for still using Torch, Theano, Brainstorm, MXNET and not switching to TensorFlow?**
+
+- reddit: [https://www.reddit.com/r/MachineLearning/comments/47qh90/is_there_a_case_for_still_using_torch_theano/][https://www.reddit.com/r/MachineLearning/comments/47qh90/is_there_a_case_for_still_using_torch_theano/]
