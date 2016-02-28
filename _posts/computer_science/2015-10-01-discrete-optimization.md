@@ -98,6 +98,10 @@ Gecode provides a constraint solver with state-of-the-art performance while bein
 - homepage: [https://developers.google.com/optimization/](https://developers.google.com/optimization/)
 - github: [https://github.com/google/or-tools](https://github.com/google/or-tools)
 
+**LocalSolver: Mathematical optimization solver**
+
+- homepage: [http://www.localsolver.com/home.html](http://www.localsolver.com/home.html)
+
 # Resources
 
 **Reproducible Research in Computational Science**
