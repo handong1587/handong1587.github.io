@@ -94,3 +94,7 @@ date: 2015-10-09
 - Part 2: [http://www.andreykurenkov.com/writing/a-brief-history-of-neural-nets-and-deep-learning-part-2/](http://www.andreykurenkov.com/writing/a-brief-history-of-neural-nets-and-deep-learning-part-2/)
 - Part 3: [http://www.andreykurenkov.com/writing/a-brief-history-of-neural-nets-and-deep-learning-part-3/](http://www.andreykurenkov.com/writing/a-brief-history-of-neural-nets-and-deep-learning-part-3/)
 - Part 4: [http://www.andreykurenkov.com/writing/a-brief-history-of-neural-nets-and-deep-learning-part-4/](http://www.andreykurenkov.com/writing/a-brief-history-of-neural-nets-and-deep-learning-part-4/)
+
+**Deep Neural Networks— An Overview**
+
+[https://medium.com/@asjad/deep-neural-networks-an-overview-480112b12a13#.i7apzmnso](https://medium.com/@asjad/deep-neural-networks-an-overview-480112b12a13#.i7apzmnso)
