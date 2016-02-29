@@ -11,6 +11,10 @@ date: 2015-10-01
 
 [http://oberheim.github.io/ai/2016/02/14/artificial-intelligence-today.html](http://oberheim.github.io/ai/2016/02/14/artificial-intelligence-today.html)
 
+**AlphaGo and AI Progress**
+
+[http://www.milesbrundage.com/blog-posts/alphago-and-ai-progress](http://www.milesbrundage.com/blog-posts/alphago-and-ai-progress)
+
 # Videos
 
 **The Future of AI (by Rich Sutton [UBC])**
