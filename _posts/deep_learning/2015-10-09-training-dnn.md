@@ -170,3 +170,9 @@ date: 2015-10-09
 **A Variational Analysis of Stochastic Gradient Algorithms**
 
 - arxiv: [http://arxiv.org/abs/1602.02666](http://arxiv.org/abs/1602.02666)
+
+# Papers
+
+**Scalable and Sustainable Deep Learning via Randomized Hashing**
+
+- arxiv: [http://arxiv.org/abs/1602.08194](http://arxiv.org/abs/1602.08194)
