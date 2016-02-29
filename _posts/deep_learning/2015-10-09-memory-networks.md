@@ -31,9 +31,18 @@ date: 2015-10-09
 - arxiv: [http://arxiv.org/abs/1505.00521](http://arxiv.org/abs/1505.00521)
 - github: [https://github.com/ilyasu123/rlntm](https://github.com/ilyasu123/rlntm)
 
+- - -
+
 **Learning to Transduce with Unbounded Memory**
 
 - arXiv: [http://arxiv.org/abs/1506.02516](http://arxiv.org/abs/1506.02516)
+
+**How to Code and Understand DeepMind's Neural Stack Machine**
+
+- blog: [https://iamtrask.github.io/2016/02/25/deepminds-neural-stack-machine/](https://iamtrask.github.io/2016/02/25/deepminds-neural-stack-machine/)
+- video tutorial: [http://pan.baidu.com/s/1qX0EGDe](http://pan.baidu.com/s/1qX0EGDe)
+
+- - -
 
 **Ask Me Anything: Dynamic Memory Networks for Natural Language Processing**
 
