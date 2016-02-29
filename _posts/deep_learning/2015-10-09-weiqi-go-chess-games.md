@@ -25,7 +25,7 @@ date: 2015-10-09
 - arXiv: [http://arxiv.org/abs/1511.06410](http://arxiv.org/abs/1511.06410)
 - MIT tech review: [http://www.technologyreview.com/view/544181/how-facebooks-ai-researchers-built-a-game-changing-go-engine/](http://www.technologyreview.com/view/544181/how-facebooks-ai-researchers-built-a-game-changing-go-engine/)
 
-**Mastering the game of Go with deep neural networks and tree search (Google DeepMind)**
+**Mastering the game of Go with deep neural networks and tree search (AlphaGo. Google DeepMind)**
 
 ![](http://k.sinaimg.cn/n/sports/transform/20160128/RGVK-fxnzanh0214327.jpg/w570778.jpg)
 
@@ -34,6 +34,7 @@ date: 2015-10-09
 - naturep page: [http://www.nature.com/nature/journal/v529/n7587/full/nature16961.html](http://www.nature.com/nature/journal/v529/n7587/full/nature16961.html)
 - blog: [http://www.furidamu.org/blog/2016/01/26/mastering-the-game-of-go-with-deep-neural-networks-and-tree-search/](http://www.furidamu.org/blog/2016/01/26/mastering-the-game-of-go-with-deep-neural-networks-and-tree-search/)
 - blog("AlphaGo: From Intuitive Learning to Holistic Knowledge"): [https://caminao.wordpress.com/2016/02/01/alphago/](https://caminao.wordpress.com/2016/02/01/alphago/)
+- notes("AlphaGo的分析", by 田渊栋): [http://zhuanlan.zhihu.com/yuandong/20607684](http://zhuanlan.zhihu.com/yuandong/20607684)
 
 **GoCNN: Using CNN for Go (Weiqi/Baduk) board evaluation with tensorflow**
 

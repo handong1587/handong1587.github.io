@@ -26,3 +26,11 @@ date: 2015-07-01
 **Stanford: CS 97SI: Introduction to Programming Contests**
 
 [http://web.stanford.edu/class/cs97si/](http://web.stanford.edu/class/cs97si/)
+
+# Blogs
+
+**The Archive of Interesting Code**
+
+- intro: 95 entries
+- author: by Keith Schwarz, Stanford CS166.
+- blog: [http://www.keithschwarz.com/interesting/](http://www.keithschwarz.com/interesting/)
