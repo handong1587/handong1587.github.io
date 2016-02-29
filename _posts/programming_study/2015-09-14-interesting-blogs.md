@@ -66,3 +66,9 @@ date: 2015-09-14
 **Music and Coding Part 3: How to listen to music**
 
 [https://blog.idrsolutions.com/2014/08/music-and-coding-part-3-listen-music/](https://blog.idrsolutions.com/2014/08/music-and-coding-part-3-listen-music/)
+
+# Programming
+
+**Scraping NBA Play-by-Play Data with Scrapy & MongoDB**
+
+[http://blog.nycdatascience.com/students-work/scraping-nba-play-by-play-data-with-scrapy-mongodb/](http://blog.nycdatascience.com/students-work/scraping-nba-play-by-play-data-with-scrapy-mongodb/)
