@@ -5,6 +5,10 @@ title: Image Retrieval
 date: 2015-10-09
 ---
 
+**Neural Codes for Image Retrieval**
+
+- arxiv: [http://arxiv.org/abs/1404.1777](http://arxiv.org/abs/1404.1777)
+
 **Deep Learning of Binary Hash Codes for Fast Image Retrieval**
 
 - paper: [http://www.iis.sinica.edu.tw/~kevinlin311.tw/cvprw15.pdf](http://www.iis.sinica.edu.tw/~kevinlin311.tw/cvprw15.pdf)
