@@ -113,6 +113,12 @@ date: 2015-10-09
 
 - github: [https://github.com/Aysegul/torch-visbox](https://github.com/Aysegul/torch-visbox)
 
+**draw_convnet: Python script for illustrating Convolutional Neural Network (ConvNet)**
+
+![](https://raw.githubusercontent.com/gwding/draw_convnet/master/convnet_fig.png)
+
+- github: [https://github.com/gwding/draw_convnet](https://github.com/gwding/draw_convnet)
+
 # Blog
 
 "Visualizing GoogLeNet Classes"
