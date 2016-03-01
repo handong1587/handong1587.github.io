@@ -50,3 +50,7 @@ date: 2015-09-27
 **Pikazo: Remix your photos into incredible artwork**
 
 [http://www.pikazoapp.com/](http://www.pikazoapp.com/)
+
+**Music Understanding Demo**
+
+[http://demo.niland.io/](http://demo.niland.io/)
