@@ -417,6 +417,10 @@ with fast exact probabilistic inference over many layers."
 
 - stackoverflow: [http://stackoverflow.com/questions/4752626/epoch-vs-iteration-when-training-neural-networks](http://stackoverflow.com/questions/4752626/epoch-vs-iteration-when-training-neural-networks)
 
+**Questions to Ask When Applying Deep Learning**
+
+[http://deeplearning4j.org/questions.html](http://deeplearning4j.org/questions.html)
+
 # Resources
 
 **Awesome Deep Learning**
