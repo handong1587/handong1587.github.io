@@ -147,6 +147,10 @@ date: 2015-10-09
 
 - arxiv: [http://arxiv.org/abs/1602.03032](http://arxiv.org/abs/1602.03032)
 
+**Representation of linguistic form and function in recurrent neural networks**
+
+- arxiv: [http://arxiv.org/abs/1602.08952](http://arxiv.org/abs/1602.08952)
+
 # Learn To Execute Programs
 
 **Learning to Execute**
