@@ -189,3 +189,9 @@ date: 2015-10-09
 **art in the age of machine intelligence**
 
 [https://medium.com/artists-and-machine-intelligence/what-is-ami-ccd936394a83#.hyt4ei9a9](https://medium.com/artists-and-machine-intelligence/what-is-ami-ccd936394a83#.hyt4ei9a9)
+
+**Understanding Aesthetics with Deep Learning**
+
+![](https://devblogs.nvidia.com/parallelforall/wp-content/uploads/2016/02/faces_CNNs.jpg)
+
+[https://devblogs.nvidia.com/parallelforall/understanding-aesthetics-deep-learning/](https://devblogs.nvidia.com/parallelforall/understanding-aesthetics-deep-learning/)
