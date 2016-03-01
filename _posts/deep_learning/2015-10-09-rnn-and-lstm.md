@@ -207,7 +207,7 @@ date: 2015-10-09
 
 - arxiv: [http://arxiv.org/abs/1511.02793](http://arxiv.org/abs/1511.02793)
 
-**ATTENTION AND MEMORY IN DEEP LEARNING AND NLP**
+**Attention and Memory in Deep Learning and NLP**
 
 - blog: [http://www.wildml.com/2016/01/attention-and-memory-in-deep-learning-and-nlp/](http://www.wildml.com/2016/01/attention-and-memory-in-deep-learning-and-nlp/)
 
