@@ -291,9 +291,21 @@ with fast exact probabilistic inference over many layers."
 - paper: [http://arxiv.org/abs/1409.5185](http://arxiv.org/abs/1409.5185)
 - code: [https://github.com/mbhenaff/spectral-lib](https://github.com/mbhenaff/spectral-lib)
 
+## STDP
+
+**A biological gradient descent for prediction through a combination of STDP and homeostatic plasticity**
+
+- arxiv: [http://arxiv.org/abs/1206.4812](http://arxiv.org/abs/1206.4812)
+
 **An objective function for STDP(Yoshua Bengio)**
 
-- arXiv: [http://arxiv.org/abs/1509.05936](http://arxiv.org/abs/1509.05936)
+- arxiv: [http://arxiv.org/abs/1509.05936](http://arxiv.org/abs/1509.05936)
+
+**Towards a Biologically Plausible Backprop**
+
+- arxiv: [http://arxiv.org/abs/1602.05179](http://arxiv.org/abs/1602.05179)
+
+- - -
 
 **Bitwise Neural Networks**
 
