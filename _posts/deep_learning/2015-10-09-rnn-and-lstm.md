@@ -152,6 +152,10 @@ date: 2015-10-09
 
 - arxiv: [http://arxiv.org/abs/1602.08952](http://arxiv.org/abs/1602.08952)
 
+**Architectural Complexity Measures of Recurrent Neural Networks**
+
+- arxiv: [http://arxiv.org/abs/1602.08210](http://arxiv.org/abs/1602.08210)
+
 # Learn To Execute Programs
 
 **Learning to Execute**
