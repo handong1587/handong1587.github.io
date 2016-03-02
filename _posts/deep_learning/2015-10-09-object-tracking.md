@@ -43,3 +43,8 @@ paper: [http://120.52.73.14/www.cv-foundation.org/openaccess/content_cvpr_2014/p
 
 - project page: [http://winsty.net/tracker_diagnose.html](http://winsty.net/tracker_diagnose.html)
 - paper
+
+**Deep Tracking: Seeing Beyond Seeing Using Recurrent Neural Networks**
+
+- arxiv: [http://arxiv.org/abs/1602.00991](http://arxiv.org/abs/1602.00991)
+- github: [https://github.com/pondruska/DeepTracking](https://github.com/pondruska/DeepTracking)
