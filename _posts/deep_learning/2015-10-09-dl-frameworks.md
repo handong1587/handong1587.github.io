@@ -122,6 +122,14 @@ date: 2015-10-09
 
 [https://medium.com/@atveit/tutorial-using-deeplearningkit-with-ios-for-iphone-and-ipad-de727679bae4#.1bvnhxhjo](https://medium.com/@atveit/tutorial-using-deeplearningkit-with-ios-for-iphone-and-ipad-de727679bae4#.1bvnhxhjo)
 
+# DeepSpark
+
+**DeepSpark: Deeplearning framework running on Spark**
+
+- github: [https://github.com/deepspark/deepspark](https://github.com/deepspark/deepspark)
+- homepage: [http://deepspark.snu.ac.kr/](http://deepspark.snu.ac.kr/)
+- arxiv: [http://arxiv.org/abs/1602.08191](http://arxiv.org/abs/1602.08191)
+
 # DIGITS
 
 **DIGITS: the Deep Learning GPU Training System**
