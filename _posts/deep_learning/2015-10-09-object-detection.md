@@ -273,6 +273,12 @@ and 1.15s per image with it".
 
 - arxiv: [http://arxiv.org/abs/1601.05150](http://arxiv.org/abs/1601.05150)
 
+**SuperCNN: A Superpixelwise Convolutional Neural Network for Salient Object Detection**
+
+![](http://www.shengfenghe.com/uploads/1/5/1/3/15132160/445461979.png)
+
+- paper: [www.shengfenghe.com/supercnn-a-superpixelwise-convolutional-neural-network-for-salient-object-detection.html](www.shengfenghe.com/supercnn-a-superpixelwise-convolutional-neural-network-for-salient-object-detection.html)
+
 # Specific Object Deteciton
 
 **End-to-end people detection in crowded scenes**
