@@ -180,6 +180,12 @@ date: 2015-10-09
 - blog: [http://matpalm.com/blog/drivebot/](http://matpalm.com/blog/drivebot/)
 - github: [https://github.com/matpalm/drivebot](https://github.com/matpalm/drivebot)
 
+**Get a taste of reinforcement learning — implement a tic tac toe agent**
+
+![](https://cdn-images-1.medium.com/max/800/1*Ntrov1dzaerfesi9vRKdow.gif)
+
+[https://medium.com/@shiyan/get-a-taste-of-reinforcement-learning-implement-a-tic-tac-toe-agent-deda5617b2e4#.59bx71a2h](https://medium.com/@shiyan/get-a-taste-of-reinforcement-learning-implement-a-tic-tac-toe-agent-deda5617b2e4#.59bx71a2h)
+
 # Resources
 
 **Deep Reinforcement Learning Papers**

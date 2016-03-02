@@ -10,19 +10,25 @@ date: 2015-10-09
 
 # ImageNet
 
-**ImageNet Classification with Deep Convolutional Neural Networks (AlexNet)**
+## AlexNet
+
+**ImageNet Classification with Deep Convolutional Neural Networks**
 
 - nips-page: [http://papers.nips.cc/paper/4824-imagenet-classification-with-deep-](http://papers.nips.cc/paper/4824-imagenet-classification-with-deep-)
 - paper: [http://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf](http://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf)
 - slides: [http://www.image-net.org/challenges/LSVRC/2012/supervision.pdf](http://www.image-net.org/challenges/LSVRC/2012/supervision.pdf)
 
-**Going Deeper with Convolutions (GoogLeNet)**
+## GoogLeNet
+
+**Going Deeper with Convolutions**
 
 - paper: [http://arxiv.org/abs/1409.4842](http://arxiv.org/abs/1409.4842)
 - code: [https://github.com/google/inception](https://github.com/google/inception)
 - blog("Building a deeper understanding of images"): [http://googleresearch.blogspot.jp/2014/09/building-deeper-understanding-of-images.html](http://googleresearch.blogspot.jp/2014/09/building-deeper-understanding-of-images.html)
 
-**Very Deep Convolutional Networks for Large-Scale Image Recognition (VGGNet)**
+## VGGNet
+
+**Very Deep Convolutional Networks for Large-Scale Image Recognition**
 
 - homepage: [http://www.robots.ox.ac.uk/~vgg/research/very_deep/](http://www.robots.ox.ac.uk/~vgg/research/very_deep/)
 - arxiv: [http://arxiv.org/abs/1409.1556](http://arxiv.org/abs/1409.1556)
@@ -30,14 +36,18 @@ date: 2015-10-09
 - slides: [http://www.robots.ox.ac.uk/~karen/pdf/ILSVRC_2014.pdf](http://www.robots.ox.ac.uk/~karen/pdf/ILSVRC_2014.pdf)
 - slides: [http://deeplearning.cs.cmu.edu/slides.2015/25.simonyan.pdf](http://deeplearning.cs.cmu.edu/slides.2015/25.simonyan.pdf)
 
-**Rethinking the Inception Architecture for Computer Vision (Inception-v3)**
+## Inception-v3
+
+**Rethinking the Inception Architecture for Computer Vision**
 
 - intro: "21.2% top-1 and 5.6% top-5 error for single frame evaluation using a network; 
 3.5% top-5 error and 17.3% top-1 error With an ensemble of 4 models and multi-crop evaluation."
 - arXiv: [http://arxiv.org/abs/1512.00567](http://arxiv.org/abs/1512.00567)
 - github("Torch port of Inception V3"): [https://github.com/Moodstocks/inception-v3.torch](https://github.com/Moodstocks/inception-v3.torch)
 
-**Deep Residual Learning for Image Recognition (ResNet)**
+## ResNet
+
+**Deep Residual Learning for Image Recognition**
 
 - arxiv: [http://arxiv.org/abs/1512.03385](http://arxiv.org/abs/1512.03385)
 - slides: [http://research.microsoft.com/en-us/um/people/kahe/ilsvrc15/ilsvrc2015_deep_residual_learning_kaiminghe.pdf](http://research.microsoft.com/en-us/um/people/kahe/ilsvrc15/ilsvrc2015_deep_residual_learning_kaiminghe.pdf)
@@ -52,6 +62,12 @@ date: 2015-10-09
 - github: [https://github.com/NervanaSystems/neon/blob/master/examples/cifar10_msra.py](https://github.com/NervanaSystems/neon/blob/master/examples/cifar10_msra.py)
 - blog("Training and investigating Residual Nets"): [http://torch.ch/blog/2016/02/04/resnets.html](http://torch.ch/blog/2016/02/04/resnets.html)
 - github: [https://github.com/facebook/fb.resnet.torch](https://github.com/facebook/fb.resnet.torch)
+
+**Training and investigating Residual Nets**
+
+[http://torch.ch/blog/2016/02/04/resnets.html](http://torch.ch/blog/2016/02/04/resnets.html)
+
+## Inception-V4
 
 **Inception-V4, Inception-Resnet And The Impact Of Residual Connections On Learning (Workshop track - ICLR 2016)**
 
@@ -291,9 +307,21 @@ with fast exact probabilistic inference over many layers."
 - paper: [http://arxiv.org/abs/1409.5185](http://arxiv.org/abs/1409.5185)
 - code: [https://github.com/mbhenaff/spectral-lib](https://github.com/mbhenaff/spectral-lib)
 
+## STDP
+
+**A biological gradient descent for prediction through a combination of STDP and homeostatic plasticity**
+
+- arxiv: [http://arxiv.org/abs/1206.4812](http://arxiv.org/abs/1206.4812)
+
 **An objective function for STDP(Yoshua Bengio)**
 
-- arXiv: [http://arxiv.org/abs/1509.05936](http://arxiv.org/abs/1509.05936)
+- arxiv: [http://arxiv.org/abs/1509.05936](http://arxiv.org/abs/1509.05936)
+
+**Towards a Biologically Plausible Backprop**
+
+- arxiv: [http://arxiv.org/abs/1602.05179](http://arxiv.org/abs/1602.05179)
+
+- - -
 
 **Bitwise Neural Networks**
 
