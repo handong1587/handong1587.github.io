@@ -42,7 +42,8 @@ paper: [http://120.52.73.14/www.cv-foundation.org/openaccess/content_cvpr_2014/p
 ![](http://winsty.net/diagnose/pipeline.png)
 
 - project page: [http://winsty.net/tracker_diagnose.html](http://winsty.net/tracker_diagnose.html)
-- paper
+- paper: [http://winsty.net/papers/diagnose.pdf](http://winsty.net/papers/diagnose.pdf)
+- code(Matlab): [http://120.52.72.43/winsty.net/c3pr90ntcsf0/diagnose/diagnose_code.zip](http://120.52.72.43/winsty.net/c3pr90ntcsf0/diagnose/diagnose_code.zip)
 
 **Deep Tracking: Seeing Beyond Seeing Using Recurrent Neural Networks**
 
