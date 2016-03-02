@@ -247,6 +247,11 @@ with fast exact probabilistic inference over many layers."
 
 - arxiv: [http://arxiv.org/abs/1602.07576](http://arxiv.org/abs/1602.07576)
 
+**Deep Spiking Networks**
+
+- arxiv: [http://arxiv.org/abs/1602.08323](http://arxiv.org/abs/1602.08323)
+- github: [https://github.com/petered/spiking-mlp](https://github.com/petered/spiking-mlp)
+
 # Distributed System
 
 **SparkNet: Training Deep Networks in Spark**
