@@ -27,6 +27,12 @@ date: 2015-07-01
 
 [http://web.stanford.edu/class/cs97si/](http://web.stanford.edu/class/cs97si/)
 
+# Python Courses
+
+**Python Computing for Data Science: An Undergraduate/Graduate Seminar Course at UC Berkeley (AY 250)**
+
+- github: [https://github.com/profjsb/python-seminar](https://github.com/profjsb/python-seminar)
+
 # Blogs
 
 **The Archive of Interesting Code**

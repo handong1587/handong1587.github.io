@@ -156,6 +156,10 @@ date: 2015-10-09
 
 - arxiv: [http://arxiv.org/abs/1602.08210](http://arxiv.org/abs/1602.08210)
 
+**Easy-First Dependency Parsing with Hierarchical Tree LSTMs**
+
+- arxiv: [http://arxiv.org/abs/1603.00375](http://arxiv.org/abs/1603.00375)
+
 # Learn To Execute Programs
 
 **Learning to Execute**
