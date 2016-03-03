@@ -18,7 +18,7 @@ ffmpeg -i yourvideo.mp4 -vf select="eq(pict_type\,PICT_TYPE_I)" -vsync 2 -s 160x
 On Windows:
 
 {% highlight bash %}
-ffmpeg.exe -i G:\jblin\JinbinDevRepo\VideoTapestry\05_data\Transformer4_trailer.mp4 -vf select='eq(pict_type\,I)' -vsync 2 -s 160x90 -f image2 thumbnails-%02d.jpeg -loglevel debug 2>&1 | findstr "pict_type:I" > ffmpeg_decode_info.txt
+ffmpeg.exe -i yourvideo.mp4 -vf select='eq(pict_type\,I)' -vsync 2 -s 160x90 -f image2 thumbnails-%02d.jpeg -loglevel debug 2>&1 | findstr "pict_type:I" > ffmpeg_decode_info.txt
 {% endhighlight %}
 
 Now we will get a text file filled with formated text lines like:
