@@ -31,6 +31,15 @@ Since we need only I frames' index, we can split each text line and get the targ
 (for /f "tokens=5 delims= " %i in (ffmpeg_decode_info.txt) DO echo %i) > ffmpeg_iframe_index.txt
 {% endhighlight %}
 
+(Note: the file name "ffmpeg_decode_info.txt" should not contain any space. 
+Otherwise we should add another option `usebackq`:
+
+{% highlight bash %}
+(for /f "usebackq tokens=5 delims= " %i in ("ffmpeg decode info.txt") DO echo %i) > ffmpeg_iframe_index.txt
+{% endhighlight %}
+
+)
+
 Sometimes we would find some strange lines insert to ffmpeg_decode_info.txt 
 (I don't know what it means, its insert location even whether it is inserted or not is unpredictable)
 
