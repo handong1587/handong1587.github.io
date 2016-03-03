@@ -168,6 +168,12 @@ date: 2015-09-12
 - arxiv: [http://arxiv.org/abs/1602.00753](http://arxiv.org/abs/1602.00753)
 - project page: [http://grail.cs.washington.edu/projects/size/](http://grail.cs.washington.edu/projects/size/)
 
+**Atoms of recognition in human and computer vision**
+
+![](http://www.wisdom.weizmann.ac.il/~dannyh/Mircs/cover.jpg)
+
+- homepage: [http://www.wisdom.weizmann.ac.il/~dannyh/Mircs/mircs.html](http://www.wisdom.weizmann.ac.il/~dannyh/Mircs/mircs.html)
+
 # Applications
 
 **Target acquired: Finding targets in drone and quadcopter video streams using Python and OpenCV**
