@@ -61,6 +61,12 @@ date: 2015-09-25
 
 [https://theconversation.com/friday-essay-rise-of-the-artistic-machines-51035](https://theconversation.com/friday-essay-rise-of-the-artistic-machines-51035)
 
+**Deep Learning: an Interview with Yoshua Bengio**
+
+![](https://s3.amazonaws.com/re-work-production/post_images/160/AI_03-new/original.jpg?1457021813)
+
+[https://re-work.co/blog/deep-learning-yoshua-bengio-universite-de-montreal](https://re-work.co/blog/deep-learning-yoshua-bengio-universite-de-montreal)
+
 # AI
 
 **The Top A.I. Breakthroughs of 2015**
