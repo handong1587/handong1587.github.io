@@ -36,6 +36,10 @@ date: 2015-08-27
 
 - blog: [https://medium.com/learning-new-stuff/how-to-learn-neural-networks-758b78f2736e#.nc2bx42ct](https://medium.com/learning-new-stuff/how-to-learn-neural-networks-758b78f2736e#.nc2bx42ct)
 
+**Watch Tiny Neural Nets Learn**
+
+[http://swanintelligence.com/watch-tiny-neural-nets-learn.html](http://swanintelligence.com/watch-tiny-neural-nets-learn.html)
+
 # Tools
 
 **Neural Networks demo in Javascript**
