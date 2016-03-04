@@ -50,7 +50,7 @@ Usually this line is appended with the normal text line that we need, just like 
 
 frame=   57 fps=2.7 q=2.1 size=N/A time=00:00:54.01 bitrate=N/A speed=2.56x   **\r**\[Parsed_select_0 @ 05253d60\] n:134.000000 pts:135000.000000 t:5.400000 key:1 interlace_type:P pict_type:I scene:nan -> select:1.000000 select_out:0
 
-Split it by **\r** with be Okay.
+Split it by **\r** will be Okay.
 
 # Reference
 
