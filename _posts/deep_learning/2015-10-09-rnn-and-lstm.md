@@ -279,6 +279,10 @@ date: 2015-10-09
 
 [http://www.marekrei.com/blog/online-representation-learning-in-recurrent-neural-language-models/](http://www.marekrei.com/blog/online-representation-learning-in-recurrent-neural-language-models/)
 
+**Fun with Recurrent Neural Nets: One More Dive into CNTK and TensorFlow**
+
+[http://esciencegroup.com/2016/03/04/fun-with-recurrent-neural-nets-one-more-dive-into-cntk-and-tensorflow/](http://esciencegroup.com/2016/03/04/fun-with-recurrent-neural-nets-one-more-dive-into-cntk-and-tensorflow/)
+
 # Resources
 
 **Awesome-rnn - A curated list of resources dedicated to RNN**
