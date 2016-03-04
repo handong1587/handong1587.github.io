@@ -135,3 +135,9 @@ date: 2015-10-09
 
 - blog: [http://blog.keras.io/how-convolutional-neural-networks-see-the-world.html](http://blog.keras.io/how-convolutional-neural-networks-see-the-world.html)
 - github: [https://github.com/fchollet/keras/blob/master/examples/conv_filter_visualization.py](https://github.com/fchollet/keras/blob/master/examples/conv_filter_visualization.py)
+
+**Visualizing Deep Learning with t-SNE (Tutorial and Video)**
+
+![](https://cdn-images-1.medium.com/max/800/1*LPWa2qRl7SwvNNrRgVEdoQ.png)
+
+[https://medium.com/@awjuliani/visualizing-deep-learning-with-t-sne-tutorial-and-video-e7c59ee4080c#.ubhijafw7](https://medium.com/@awjuliani/visualizing-deep-learning-with-t-sne-tutorial-and-video-e7c59ee4080c#.ubhijafw7)
