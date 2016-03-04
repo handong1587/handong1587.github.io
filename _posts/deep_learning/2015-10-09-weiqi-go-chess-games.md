@@ -46,6 +46,10 @@ date: 2015-10-09
 
 - arXiv: [http://arxiv.org/abs/1509.01549](http://arxiv.org/abs/1509.01549)
 
+**Spawkfish: neural network based chess engine**
+
+- homepage: [http://spawk.fish/](http://spawk.fish/)
+
 # Game
 
 **Learning Game of Life with a Convolutional Neural Network**
