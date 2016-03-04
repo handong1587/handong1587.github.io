@@ -128,6 +128,10 @@ date: 2015-10-09
 
 - arxiv: [http://arxiv.org/abs/1602.04062](http://arxiv.org/abs/1602.04062)
 
+**Continuous Deep Q-Learning with Model-based Acceleration**
+
+- arxiv: [http://arxiv.org/abs/1603.00748](http://arxiv.org/abs/1603.00748)
+
 # Blogs
 
 **A Short Introduction To Some Reinforcement Learning Algorithms**
