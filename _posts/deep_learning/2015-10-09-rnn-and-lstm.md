@@ -160,6 +160,10 @@ date: 2015-10-09
 
 - arxiv: [http://arxiv.org/abs/1603.00375](http://arxiv.org/abs/1603.00375)
 
+**Training Input-Output Recurrent Neural Networks through Spectral Methods**
+
+- arxiv: [http://arxiv.org/abs/1603.00954](http://arxiv.org/abs/1603.00954)
+
 # Learn To Execute Programs
 
 **Learning to Execute**
