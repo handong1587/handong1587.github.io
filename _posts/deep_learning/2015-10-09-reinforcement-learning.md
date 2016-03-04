@@ -132,6 +132,10 @@ date: 2015-10-09
 
 - arxiv: [http://arxiv.org/abs/1603.00748](http://arxiv.org/abs/1603.00748)
 
+**Deep Reinforcement Learning from Self-Play in Imperfect-Information Games**
+
+- arxiv: [http://arxiv.org/abs/1603.01121](http://arxiv.org/abs/1603.01121)
+
 # Blogs
 
 **A Short Introduction To Some Reinforcement Learning Algorithms**
