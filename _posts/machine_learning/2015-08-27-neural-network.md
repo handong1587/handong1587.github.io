@@ -40,6 +40,10 @@ date: 2015-08-27
 
 [http://swanintelligence.com/watch-tiny-neural-nets-learn.html](http://swanintelligence.com/watch-tiny-neural-nets-learn.html)
 
+**Rohan & Lenny #1: Neural Networks & The Backpropagation Algorithm, Explained**
+
+[https://medium.com/a-year-of-artificial-intelligence/rohan-lenny-1-neural-networks-the-backpropagation-algorithm-explained-abf4609d4f9d#.9igtj84gm](https://medium.com/a-year-of-artificial-intelligence/rohan-lenny-1-neural-networks-the-backpropagation-algorithm-explained-abf4609d4f9d#.9igtj84gm)
+
 # Tools
 
 **Neural Networks demo in Javascript**
