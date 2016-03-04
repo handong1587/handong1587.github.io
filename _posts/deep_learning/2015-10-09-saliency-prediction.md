@@ -22,3 +22,14 @@ This task involves predicting the salient regions of an image given by human eye
 **DeepSaliency: Multi-Task Deep Neural Network Model for Salient Object Detection**
 
 - arxiv: [http://arxiv.org/abs/1510.05484](http://arxiv.org/abs/1510.05484)
+
+**SuperCNN: A Superpixelwise Convolutional Neural Network for Salient Object Detection**
+
+![](http://www.shengfenghe.com/uploads/1/5/1/3/15132160/445461979.png)
+
+- paper: [www.shengfenghe.com/supercnn-a-superpixelwise-convolutional-neural-network-for-salient-object-detection.html](www.shengfenghe.com/supercnn-a-superpixelwise-convolutional-neural-network-for-salient-object-detection.html)
+
+**Shallow and Deep Convolutional Networks for Saliency Prediction**
+
+- arxiv: [http://arxiv.org/abs/1603.00845](http://arxiv.org/abs/1603.00845)
+- github: [https://github.com/imatge-upc/saliency-2016-cvpr](https://github.com/imatge-upc/saliency-2016-cvpr)
