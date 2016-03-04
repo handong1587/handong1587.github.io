@@ -49,6 +49,10 @@ date: 2015-08-27
 - page: [http://research.microsoft.com/apps/pubs/default.aspx?id=69588](http://research.microsoft.com/apps/pubs/default.aspx?id=69588)
 - paper: [http://research.microsoft.com/pubs/69588/tr-95-06.pdf](http://research.microsoft.com/pubs/69588/tr-95-06.pdf)
 
+**An Introduction to Bayesian Networks: Concepts and Learning from Data**
+
+- slides: [http://nlp.postech.ac.kr/Course/CS704/LectureNotes/BayesianNetworks.pdf](http://nlp.postech.ac.kr/Course/CS704/LectureNotes/BayesianNetworks.pdf)
+
 # Probabilistic Programming
 
 **Probabilistic Programming in Python**
