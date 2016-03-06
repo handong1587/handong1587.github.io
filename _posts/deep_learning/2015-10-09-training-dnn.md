@@ -38,6 +38,10 @@ date: 2015-10-09
 
 - blog: [http://blog.claymcleod.io/2016/02/06/Parametric-Activation-Pools-greatly-increase-performance-and-consistency-in-ConvNets/](http://blog.claymcleod.io/2016/02/06/Parametric-Activation-Pools-greatly-increase-performance-and-consistency-in-ConvNets/)
 
+**Noisy Activation Functions**
+
+- arxiv: [http://arxiv.org/abs/1603.00391](http://arxiv.org/abs/1603.00391)
+
 # Weights Initialization
 
 **An Explanation of Xavier Initialization**
