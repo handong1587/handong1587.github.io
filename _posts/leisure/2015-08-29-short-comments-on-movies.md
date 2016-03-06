@@ -135,3 +135,7 @@ Understanding the implications of what they're doing is equally as important.
 (2016-01-10) *Cloud Atlas (2012)*
 
 (2016-01-25) *The Skin I live In (2011)*
+
+(2016-03-06) *Zootopia (2016)*
+
+(2016-03-06) *Carol (2015)*
