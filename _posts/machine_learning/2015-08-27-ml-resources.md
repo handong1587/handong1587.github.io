@@ -59,6 +59,10 @@ Other awesome lists can be found in this [list](https://github.com/sindresorhus/
 
 - paper: [http://www.lancs.ac.uk/~eckley/papers/McDonaldHandEckley2003.pdf](http://www.lancs.ac.uk/~eckley/papers/McDonaldHandEckley2003.pdf)
 
+**A (small) introduction to Boosting**
+
+- blog: [https://codesachin.wordpress.com/2016/03/06/a-small-introduction-to-boosting/](https://codesachin.wordpress.com/2016/03/06/a-small-introduction-to-boosting/)
+
 # Gradient Boosting
 
 **Complete Guide to Parameter Tuning in Gradient Boosting (GBM) in Python**
