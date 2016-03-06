@@ -103,3 +103,7 @@ date: 2015-08-27
 **CMSC 726: Machine Learning**
 
 - homepage: [http://www.cbcb.umd.edu/~hcorrada/PML/index.html](http://www.cbcb.umd.edu/~hcorrada/PML/index.html)
+
+**MIT: 9.520: Statistical Learning Theory and Applications, Fall 2015**
+
+[http://www.mit.edu/~9.520/fall15/](http://www.mit.edu/~9.520/fall15/)

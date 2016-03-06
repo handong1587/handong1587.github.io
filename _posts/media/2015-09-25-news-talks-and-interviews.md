@@ -95,6 +95,10 @@ date: 2015-09-25
 
 [http://www.wired.com/2015/12/google-and-facebook-race-to-solve-the-ancient-game-of-go/#slide-1](http://www.wired.com/2015/12/google-and-facebook-race-to-solve-the-ancient-game-of-go/#slide-1)
 
+**Can AlphaGo defeat Lee Sedol?**
+
+[https://gogameguru.com/can-alphago-defeat-lee-sedol](https://gogameguru.com/can-alphago-defeat-lee-sedol)
+
 # Technology
 
 **Amazon Developing ‘Smart Zoom’ For 4K, 8K Video**
