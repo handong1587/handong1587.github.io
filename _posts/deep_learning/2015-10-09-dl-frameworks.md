@@ -164,6 +164,13 @@ date: 2015-10-09
 - github: [https://github.com/Lasagne/Lasagne](https://github.com/Lasagne/Lasagne)
 - homepage: [http://lasagne.readthedocs.org/en/latest/](http://lasagne.readthedocs.org/en/latest/)
 
+# Leaf
+
+**Leaf: The Hacker's Machine Learning Engine**
+
+- homepage: [http://autumnai.github.io/leaf/leaf/index.html](http://autumnai.github.io/leaf/leaf/index.html)
+- github: [https://github.com/autumnai/leaf](https://github.com/autumnai/leaf)
+
 # Marvin
 
 **Marvin: A minimalist GPU-only N-dimensional ConvNet framework**
