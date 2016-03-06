@@ -81,6 +81,10 @@ date: 2015-10-09
 
 - arxiv: [http://arxiv.org/abs/1601.04568](http://arxiv.org/abs/1601.04568)
 
+**Semantic Style Transfer and Turning Two-Bit Doodles into Fine Artworks**
+
+- paper: [http://nucl.ai/semantic-style-transfer.pdf](http://nucl.ai/semantic-style-transfer.pdf)
+
 # Music
 
 **GRUV: Algorithmic Music Generation using Recurrent Neural Networks**
