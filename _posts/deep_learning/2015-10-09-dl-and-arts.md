@@ -85,6 +85,12 @@ date: 2015-10-09
 
 - paper: [http://nucl.ai/semantic-style-transfer.pdf](http://nucl.ai/semantic-style-transfer.pdf)
 
+**neural image analogies: Generate image analogies using neural matching and blending**
+
+![](https://raw.githubusercontent.com/awentzonline/image-analogies/master/images/sugarskull-analogy.jpg)
+
+- github: [https://github.com/awentzonline/image-analogies](https://github.com/awentzonline/image-analogies)
+
 # Music
 
 **GRUV: Algorithmic Music Generation using Recurrent Neural Networks**
