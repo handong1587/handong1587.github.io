@@ -33,6 +33,12 @@ date: 2015-07-01
 
 - github: [https://github.com/profjsb/python-seminar](https://github.com/profjsb/python-seminar)
 
+# Go
+
+**Go by Example**
+
+ - blog: [https://gobyexample.com/](https://gobyexample.com/)
+
 # Blogs
 
 **The Archive of Interesting Code**
