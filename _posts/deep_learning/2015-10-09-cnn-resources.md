@@ -169,6 +169,10 @@ Bicubic VS. Shepard CNN
 - arxiv: [http://arxiv.org/abs/1602.05314](http://arxiv.org/abs/1602.05314)
 - review("Google Unveils Neural Network with “Superhuman” Ability to Determine the Location of Almost Any Image"): [https://www.technologyreview.com/s/600889/google-unveils-neural-network-with-superhuman-ability-to-determine-the-location-of-almost/](https://www.technologyreview.com/s/600889/google-unveils-neural-network-with-superhuman-ability-to-determine-the-location-of-almost/)
 
+**Camera identification with deep convolutional networks**
+
+- arxiv: [http://arxiv.org/abs/1603.01068](http://arxiv.org/abs/1603.01068)
+
 # Blogs
 
 **Automatic Colorization (Tensorflow + VGG)**
