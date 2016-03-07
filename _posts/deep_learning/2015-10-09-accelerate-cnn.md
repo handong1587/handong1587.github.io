@@ -128,6 +128,10 @@ to decompose it into the multiplications of thinned dense matrices"
 - arxiv: [http://arxiv.org/abs/1602.07868](http://arxiv.org/abs/1602.07868)
 - notes: [http://www.erogol.com/my-notes-weight-normalization/](http://www.erogol.com/my-notes-weight-normalization/)
 
+**Convolutional Neural Networks using Logarithmic Data Representation**
+
+- arxiv: [http://arxiv.org/abs/1603.01025](http://arxiv.org/abs/1603.01025)
+
 # Codes
 
 **Accelerate Convolutional Neural Networks**
