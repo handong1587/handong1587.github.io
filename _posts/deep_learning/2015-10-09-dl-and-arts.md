@@ -84,6 +84,7 @@ date: 2015-10-09
 **Semantic Style Transfer and Turning Two-Bit Doodles into Fine Artworks**
 
 - paper: [http://nucl.ai/semantic-style-transfer.pdf](http://nucl.ai/semantic-style-transfer.pdf)
+- reddit: [https://www.reddit.com/r/MachineLearning/comments/48zstj/my_wip_implementation_of_neural_image_analogies/](https://www.reddit.com/r/MachineLearning/comments/48zstj/my_wip_implementation_of_neural_image_analogies/)
 
 **neural image analogies: Generate image analogies using neural matching and blending**
 
