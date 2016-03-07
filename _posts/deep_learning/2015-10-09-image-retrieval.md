@@ -7,7 +7,11 @@ date: 2015-10-09
 
 **Neural Codes for Image Retrieval**
 
+![](http://sites.skoltech.ru/app/data/uploads/sites/25/2014/11/example-e1404721339557.png)
+
 - arxiv: [http://arxiv.org/abs/1404.1777](http://arxiv.org/abs/1404.1777)
+- github: [https://github.com/arbabenko/Spoc](https://github.com/arbabenko/Spoc)
+- project page: [http://sites.skoltech.ru/compvision/projects/neuralcodes/](http://sites.skoltech.ru/compvision/projects/neuralcodes/)
 
 **Deep Learning of Binary Hash Codes for Fast Image Retrieval**
 
