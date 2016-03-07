@@ -232,6 +232,12 @@ date: 2015-10-09
 
 - arxiv: [http://arxiv.org/abs/1601.06823](http://arxiv.org/abs/1601.06823)
 
+# Train RNN
+
+**Hierarchical Conflict Propagation: Sequence Learning in a Recurrent Deep Neural Network**
+
+- arxiv: [http://arxiv.org/abs/1602.08118](http://arxiv.org/abs/1602.08118)
+
 # Codes
 
 **NeuralTalk (Deprecated): a Python+numpy project for learning Multimodal Recurrent Neural Networks that describe images with sentences**
