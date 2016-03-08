@@ -60,6 +60,7 @@ date: 2015-10-09
 **Dynamic Memory Networks for Visual and Textual Question Answering**
 
 - arixv: [http://arxiv.org/abs/1603.01417](http://arxiv.org/abs/1603.01417)
+- review: [https://www.technologyreview.com/s/600958/the-memory-trick-making-computers-seem-smarter/](https://www.technologyreview.com/s/600958/the-memory-trick-making-computers-seem-smarter/)
 
 # Codes
 
