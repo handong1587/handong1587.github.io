@@ -67,6 +67,10 @@ date: 2015-09-25
 
 [https://re-work.co/blog/deep-learning-yoshua-bengio-universite-de-montreal](https://re-work.co/blog/deep-learning-yoshua-bengio-universite-de-montreal)
 
+**Highlights and new discoveries in Computer Vision, Machine Learning, and AI (February 2016)**
+
+[http://www.askaswiss.com/2016/03/highlights-discoveries-computer-vision-machine-learning-ai-2016-02.html](http://www.askaswiss.com/2016/03/highlights-discoveries-computer-vision-machine-learning-ai-2016-02.html)
+
 # AI
 
 **The Top A.I. Breakthroughs of 2015**
