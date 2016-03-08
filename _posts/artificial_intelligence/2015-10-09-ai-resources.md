@@ -15,6 +15,10 @@ date: 2015-10-01
 
 [http://www.milesbrundage.com/blog-posts/alphago-and-ai-progress](http://www.milesbrundage.com/blog-posts/alphago-and-ai-progress)
 
+**CreativeAI: On the Democratisation & Escalation of Creativity — Chapter 01**
+
+[https://medium.com/@ArtificialExperience/creativeai-9d4b2346faf3#.nst0bspm9](https://medium.com/@ArtificialExperience/creativeai-9d4b2346faf3#.nst0bspm9)
+
 # Videos
 
 **The Future of AI (by Rich Sutton [UBC])**
