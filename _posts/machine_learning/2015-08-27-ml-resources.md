@@ -119,6 +119,12 @@ Other awesome lists can be found in this [list](https://github.com/sindresorhus/
 
 - paper: [http://homes.cs.washington.edu/~pedrod/papers/mlj05.pdf](http://homes.cs.washington.edu/~pedrod/papers/mlj05.pdf)
 
+# Markov Chains
+
+**Evolution, Dynamical Systems and Markov Chains**
+
+[http://www.offconvex.org/2016/03/07/evolution-markov-chains/](http://www.offconvex.org/2016/03/07/evolution-markov-chains/)
+
 # Matrix Computations
 
 **Randomized Numerical Linear Algebra for Large Scale Data Analysis**
