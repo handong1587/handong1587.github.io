@@ -5,6 +5,8 @@ title: Paintings By J.M.
 date: 2016-03-08
 ---
 
+Paintings from one of my best girl friends~
+
 ![](/assets/leisure/PaintingsByJM/44467935.jpg)
 
 ![](/assets/leisure/PaintingsByJM/1154354131.jpg)
