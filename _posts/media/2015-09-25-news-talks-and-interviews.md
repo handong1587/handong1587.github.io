@@ -81,6 +81,10 @@ date: 2015-09-25
 
 [http://www.technologyreview.com/qa/546301/will-machines-eliminate-us/](http://www.technologyreview.com/qa/546301/will-machines-eliminate-us/)
 
+**Extending Game-Based AI Research into the Wild**
+
+[http://www.ibm.com/blogs/think/2016/03/07/extending-game-based-ai-research-into-the-wild/](http://www.ibm.com/blogs/think/2016/03/07/extending-game-based-ai-research-into-the-wild/)
+
 # Self-driving Cars
 
 **Self-driving cars: How far away are we REALLY from autonomous cars?(7 Aug 2015)**
