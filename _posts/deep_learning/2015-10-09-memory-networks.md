@@ -57,6 +57,10 @@ date: 2015-10-09
 
 - arixv: [http://arxiv.org/abs/1511.08228](http://arxiv.org/abs/1511.08228)
 
+**Dynamic Memory Networks for Visual and Textual Question Answering**
+
+- arixv: [http://arxiv.org/abs/1603.01417](http://arxiv.org/abs/1603.01417)
+
 # Codes
 
 **NTM-Lasagne: A Library for Neural Turing Machines in Lasagne**
