@@ -173,6 +173,12 @@ Bicubic VS. Shepard CNN
 
 - arxiv: [http://arxiv.org/abs/1603.01068](http://arxiv.org/abs/1603.01068)
 
+**Flowing ConvNets for Human Pose Estimation in Videos**
+
+- arxiv: [http://arxiv.org/abs/1506.02897](http://arxiv.org/abs/1506.02897)
+- homepage: [http://www.robots.ox.ac.uk/~vgg/software/cnn_heatmap/](http://www.robots.ox.ac.uk/~vgg/software/cnn_heatmap/)
+- github: [https://github.com/tpfister/caffe-heatmap](https://github.com/tpfister/caffe-heatmap)
+
 # Blogs
 
 **Automatic Colorization (Tensorflow + VGG)**
