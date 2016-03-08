@@ -227,6 +227,10 @@ date: 2015-10-09
 - intro: This page contains a curated list of awesome MXnet examples, tutorials and blogs.
 - github: [https://github.com/dmlc/mxnet/blob/master/example/README.md](https://github.com/dmlc/mxnet/blob/master/example/README.md)
 
+**Getting Started with MXNet**
+
+[https://indico.io/blog/getting-started-with-mxnet/](https://indico.io/blog/getting-started-with-mxnet/)
+
 # neocortex.js
 
 **Run trained deep neural networks in the browser or node.js**
