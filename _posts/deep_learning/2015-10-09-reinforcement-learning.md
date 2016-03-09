@@ -15,6 +15,13 @@ date: 2015-10-09
 
 [http://neuro.cs.ut.ee/deep-reinforcement-learning-with-neon/](http://neuro.cs.ut.ee/deep-reinforcement-learning-with-neon/)
 
+# Courses
+
+**David Silver Reinforcement Learning 2015**
+
+- author: Google DeepMind AlphaGo, David Silver
+- video: [http://pan.baidu.com/s/1bnWGuIz/](http://pan.baidu.com/s/1bnWGuIz/)
+
 # Papers
 
 **Playing Atari with Deep Reinforcement Learning(Google DeepMind)**
