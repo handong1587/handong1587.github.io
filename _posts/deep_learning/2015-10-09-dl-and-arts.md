@@ -85,6 +85,7 @@ date: 2015-10-09
 
 - paper: [http://nucl.ai/semantic-style-transfer.pdf](http://nucl.ai/semantic-style-transfer.pdf)
 - reddit: [https://www.reddit.com/r/MachineLearning/comments/48zstj/my_wip_implementation_of_neural_image_analogies/](https://www.reddit.com/r/MachineLearning/comments/48zstj/my_wip_implementation_of_neural_image_analogies/)
+- github: [https://github.com/alexjc/neural-doodle](https://github.com/alexjc/neural-doodle)
 
 **neural image analogies: Generate image analogies using neural matching and blending**
 
