@@ -35,6 +35,7 @@ date: 2015-10-09
 - blog: [http://www.furidamu.org/blog/2016/01/26/mastering-the-game-of-go-with-deep-neural-networks-and-tree-search/](http://www.furidamu.org/blog/2016/01/26/mastering-the-game-of-go-with-deep-neural-networks-and-tree-search/)
 - blog("AlphaGo: From Intuitive Learning to Holistic Knowledge"): [https://caminao.wordpress.com/2016/02/01/alphago/](https://caminao.wordpress.com/2016/02/01/alphago/)
 - notes("AlphaGo的分析", by 田渊栋): [http://zhuanlan.zhihu.com/yuandong/20607684](http://zhuanlan.zhihu.com/yuandong/20607684)
+- github: [https://github.com/Rochester-NRT/AlphaGo](https://github.com/Rochester-NRT/AlphaGo)
 
 **GoCNN: Using CNN for Go (Weiqi/Baduk) board evaluation with tensorflow**
 
