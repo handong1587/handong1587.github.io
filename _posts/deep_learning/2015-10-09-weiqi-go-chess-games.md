@@ -7,6 +7,8 @@ date: 2015-10-09
 
 # Weiqi(Go)
 
+![](/assets/deep_learning/Weiqi_Go_Chess_Games/weiqi.jpg)
+
 **Teaching Deep Convolutional Neural Networks to Play Go**
 
 - arXiv: [http://arxiv.org/abs/1412.3409](http://arxiv.org/abs/1412.3409)
