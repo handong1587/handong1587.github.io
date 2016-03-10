@@ -24,6 +24,7 @@ date: 2015-10-09
 - github: [https://github.com/woodrush/neural-art-tf](https://github.com/woodrush/neural-art-tf)
 - github: [https://github.com/dmlc/mxnet/tree/master/example/neural-style](https://github.com/dmlc/mxnet/tree/master/example/neural-style)
 - demo: [http://deepart.io/](http://deepart.io/)
+- github("easyStyle"): [https://github.com/Teaonly/easyStyle](https://github.com/Teaonly/easyStyle)
 
 **neural-style-video**
 
