@@ -74,6 +74,10 @@ Other awesome lists can be found in this [list](https://github.com/sindresorhus/
 - intro: This page contains a curated list of examples, tutorials, blogs about XGBoost usecases. 
 - github: [https://github.com/dmlc/xgboost/blob/master/demo/README.md](https://github.com/dmlc/xgboost/blob/master/demo/README.md)
 
+**XGBoost: A Scalable Tree Boosting System**
+
+- arxiv: [http://arxiv.org/abs/1603.02754](http://arxiv.org/abs/1603.02754)
+
 # Bootstrap
 
 **Coding, Visualizing, and Animating Bootstrap Resampling**
