@@ -289,6 +289,10 @@ date: 2015-10-09
 
 [http://esciencegroup.com/2016/03/04/fun-with-recurrent-neural-nets-one-more-dive-into-cntk-and-tensorflow/](http://esciencegroup.com/2016/03/04/fun-with-recurrent-neural-nets-one-more-dive-into-cntk-and-tensorflow/)
 
+**Materials to understand LSTM**
+
+[https://medium.com/@shiyan/materials-to-understand-lstm-34387d6454c1#.4mt3bzoau](https://medium.com/@shiyan/materials-to-understand-lstm-34387d6454c1#.4mt3bzoau)
+
 # Resources
 
 **Awesome-rnn - A curated list of resources dedicated to RNN**
