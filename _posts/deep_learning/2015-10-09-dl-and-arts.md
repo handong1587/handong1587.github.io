@@ -94,6 +94,19 @@ date: 2015-10-09
 
 - github: [https://github.com/awentzonline/image-analogies](https://github.com/awentzonline/image-analogies)
 
+**Neural Doodle**
+
+![](https://raw.githubusercontent.com/alexjc/neural-doodle/master/docs/Workflow.gif)
+![](https://raw.githubusercontent.com/alexjc/neural-doodle/master/docs/Landscape_example.png)
+
+- github: [https://github.com/alexjc/neural-doodle](https://github.com/alexjc/neural-doodle)
+
+**Faster neural doodle**
+
+![](https://raw.githubusercontent.com/DmitryUlyanov/fast-neural-doodle/master/data/Renoir/grid.png)
+
+- github: [https://github.com/DmitryUlyanov/fast-neural-doodle](https://github.com/DmitryUlyanov/fast-neural-doodle)
+
 # Music
 
 **GRUV: Algorithmic Music Generation using Recurrent Neural Networks**
