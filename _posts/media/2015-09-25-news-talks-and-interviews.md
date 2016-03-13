@@ -107,6 +107,10 @@ date: 2015-09-25
 
 [https://gogameguru.com/can-alphago-defeat-lee-sedol](https://gogameguru.com/can-alphago-defeat-lee-sedol)
 
+**The Sadness and Beauty of Watching Google’s AI Play Go**
+
+[http://www.wired.com/2016/03/sadness-beauty-watching-googles-ai-play-go](http://www.wired.com/2016/03/sadness-beauty-watching-googles-ai-play-go)
+
 # Technology
 
 **Amazon Developing ‘Smart Zoom’ For 4K, 8K Video**
