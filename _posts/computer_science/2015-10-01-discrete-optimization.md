@@ -25,6 +25,8 @@ date: 2015-10-01
 
 - blog: [http://mcts.ai/about/index.html](http://mcts.ai/about/index.html)
 - code: [http://mcts.ai/code/index.html](http://mcts.ai/code/index.html)
+- code(python): [http://mcts.ai/code/python.html](http://mcts.ai/code/python.html)
+- code(Java): [http://mcts.ai/code/java.html](http://mcts.ai/code/java.html)
 - zh("蒙特卡洛树搜索 MCTS"): [http://www.jianshu.com/p/d011baff6b64](http://www.jianshu.com/p/d011baff6b64)
 
 **Monte Carlo theory, methods and examples**
