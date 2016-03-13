@@ -16,3 +16,19 @@ Paintings from one of my best girl friends~
 ![](/assets/leisure/PaintingsByJM/1547326978.jpg)
 
 ![](/assets/leisure/PaintingsByJM/2139909562.jpg)
+
+![](/assets/leisure/PaintingsByJM/IMG_0193.jpg)
+
+![](/assets/leisure/PaintingsByJM/IMG_0201.jpg)
+
+![](/assets/leisure/PaintingsByJM/IMG_0202.jpg)
+
+![](/assets/leisure/PaintingsByJM/IMG_0206.jpg)
+
+![](/assets/leisure/PaintingsByJM/IMG_0664.jpg)
+
+![](/assets/leisure/PaintingsByJM/IMG_1057.jpg)
+
+![](/assets/leisure/PaintingsByJM/IMG_1550.jpg)
+
+![](/assets/leisure/PaintingsByJM/IMG_1724.jpg)
