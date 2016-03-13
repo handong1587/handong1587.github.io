@@ -50,6 +50,11 @@ date: 2015-09-09
 - stackoverflow: [http://stackoverflow.com/questions/22342854/what-is-the-optimal-algorithm-for-the-game-2048](http://stackoverflow.com/questions/22342854/what-is-the-optimal-algorithm-for-the-game-2048)
 - zh-blog: [http://blogread.cn/it/article/6827?f=wb](http://blogread.cn/it/article/6827?f=wb)
 
+**The Berkeley Overmind Project**
+
+- intro: "The Overmind is an agent for playing StarCraft®: Brood War®, using [BWAPI](https://code.google.com/p/bwapi/)."
+- homepage: [http://overmind.cs.berkeley.edu/](http://overmind.cs.berkeley.edu/)
+
 # Editing
 
 **Latex to HTML5**

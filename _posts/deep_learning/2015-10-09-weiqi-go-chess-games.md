@@ -66,11 +66,6 @@ date: 2015-10-09
 
 - github: [https://github.com/nivwusquorum/tensorflow-deepq](https://github.com/nivwusquorum/tensorflow-deepq)
 
-**The Berkeley Overmind Project**
-
-- intro: "The Overmind is an agent for playing StarCraft®: Brood War®, using [BWAPI](https://code.google.com/p/bwapi/)."
-- homepage: [http://overmind.cs.berkeley.edu/](http://overmind.cs.berkeley.edu/)
-
 # Blogs
 
 **Go, Marvin Minsky, and the Chasm that AI Hasn’t Yet Crossed**
