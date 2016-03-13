@@ -64,6 +64,10 @@ date: 2015-08-27
 
 [http://www.kdnuggets.com/2016/02/qlucore-comparison-pca-hierarchical-clustering.html](http://www.kdnuggets.com/2016/02/qlucore-comparison-pca-hierarchical-clustering.html)
 
+**Visualization of Centroid Movements for K-Means Clustering**
+
+[http://web.cecs.pdx.edu/~lane7/](http://web.cecs.pdx.edu/~lane7/)
+
 # Codes
 
 **MusicMappr: Find patterns in your favorite songs and remix them on the fly!**
