@@ -84,6 +84,10 @@ date: 2015-10-09
 - arxiv: [http://arxiv.org/abs/1602.03616](http://arxiv.org/abs/1602.03616)
 - homepage: [http://www.evolvingai.org/nguyen-yosinski-clune-2016-multifaceted-feature](http://www.evolvingai.org/nguyen-yosinski-clune-2016-multifaceted-feature)
 
+**A New Method to Visualize Deep Neural Networks**
+
+- arxiv: [http://arxiv.org/abs/1603.02518](http://arxiv.org/abs/1603.02518)
+
 # Code
 
 **Interactive Deep Neural Net Hallucinations**
