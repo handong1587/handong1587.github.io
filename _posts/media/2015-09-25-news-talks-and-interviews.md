@@ -99,7 +99,7 @@ date: 2015-09-25
 
 **Google and Facebook Race to Solve the Ancient Game of Go With AI | WIRED**
 
-<img src="/assets/news_talks_interviews/Go-02-1024x683.jpg" />
+![](/assets/news_talks_interviews/Go-02-1024x683.jpg)
 
 [http://www.wired.com/2015/12/google-and-facebook-race-to-solve-the-ancient-game-of-go/#slide-1](http://www.wired.com/2015/12/google-and-facebook-race-to-solve-the-ancient-game-of-go/#slide-1)
 
@@ -111,11 +111,17 @@ date: 2015-09-25
 
 [http://www.wired.com/2016/03/sadness-beauty-watching-googles-ai-play-go](http://www.wired.com/2016/03/sadness-beauty-watching-googles-ai-play-go)
 
+**Alphabet, Deep Minds, and the Story of Go**
+
+- blog: [http://elainedewar.blogspot.ru/2016/03/alphabet-deep-minds-and-story-of-go.html](http://elainedewar.blogspot.ru/2016/03/alphabet-deep-minds-and-story-of-go.html)
+
+- weibo: [http://weibo.com/p/1001603952446606074695](http://weibo.com/p/1001603952446606074695)
+
 # Technology
 
 **Amazon Developing ‘Smart Zoom’ For 4K, 8K Video**
 
-<img src="/assets/news_talks_interviews/Amazon-Smart-Zoom.jpg" width="600" />
+![](/assets/news_talks_interviews/Amazon-Smart-Zoom.jpg)
 
 [http://www.donohuereport.com/amazon-developing-smart-zoom-for-4k-8k-video/](http://www.donohuereport.com/amazon-developing-smart-zoom-for-4k-8k-video/)
 
