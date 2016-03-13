@@ -432,7 +432,7 @@ with fast exact probabilistic inference over many layers."
 
 **Visual Search Server**
 
-![](https://github.com/AKSHAYUBHAT/VisualSearchServer/blob/master/appcode/static/alpha3.png)
+![](https://raw.githubusercontent.com/AKSHAYUBHAT/VisualSearchServer/master/appcode/static/alpha3.png)
 
 - intro: "A simple implementation of Visual Search using features extracted from Tensor Flow inception model"
 - github: [https://github.com/AKSHAYUBHAT/VisualSearchServer](https://github.com/AKSHAYUBHAT/VisualSearchServer)
