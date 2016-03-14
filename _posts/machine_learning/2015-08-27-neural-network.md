@@ -63,6 +63,10 @@ date: 2015-08-27
 - homepage: [https://nnx-addin.org/](https://nnx-addin.org/)
 - github: [https://github.com/ikhramts/nnx](https://github.com/ikhramts/nnx)
 
+**GNU Gneural Network**
+
+- homepage: [http://www.gnu.org/software/gneuralnetwork/](http://www.gnu.org/software/gneuralnetwork/)
+
 # Videos
 
 **Neural Networks with PHP**
