@@ -29,6 +29,7 @@ date: 2015-10-09
 - arXiv: [http://arxiv.org/abs/1312.5602](http://arxiv.org/abs/1312.5602)
 - github: [https://github.com/kristjankorjus/Replicating-DeepMind](https://github.com/kristjankorjus/Replicating-DeepMind)
 - demo: [http://cs.stanford.edu/people/karpathy/convnetjs/demo/rldemo.html](http://cs.stanford.edu/people/karpathy/convnetjs/demo/rldemo.html)
+- github: [https://github.com/Kaixhin/Atari](https://github.com/Kaixhin/Atari)
 
 **Incentivizing Exploration In Reinforcement Learning With Deep Predictive Models**
 
