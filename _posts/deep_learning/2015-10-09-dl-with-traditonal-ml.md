@@ -23,3 +23,9 @@ date: 2015-10-09
 **Training Deep Neural Networks on Noisy Labels with Bootstrapping**
 
 - arxiv: [http://arxiv.org/abs/1412.6596](http://arxiv.org/abs/1412.6596)
+
+# Decision Tree
+
+**Neural Network and Decision Tree**
+
+- blog: [http://rotationsymmetry.github.io/2015/07/18/neural-network-decision-tree/](http://rotationsymmetry.github.io/2015/07/18/neural-network-decision-tree/)
