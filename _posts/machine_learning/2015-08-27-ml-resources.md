@@ -271,6 +271,13 @@ Other awesome lists can be found in this [list](https://github.com/sindresorhus/
 - arxiv: [http://arxiv.org/abs/1602.07783](http://arxiv.org/abs/1602.07783)
 - github: [https://github.com/sckangz/SDM16](https://github.com/sckangz/SDM16)
 
+# Papers
+
+**An embarrassingly simple approach to zero-shot learning**
+
+- paper: [http://jmlr.org/proceedings/papers/v37/romera-paredes15.html](http://jmlr.org/proceedings/papers/v37/romera-paredes15.html)
+- github: [https://github.com/MLWave/extremely-simple-one-shot-learning](https://github.com/MLWave/extremely-simple-one-shot-learning)
+
 # Resources
 
 **Machine Learning Surveys: A list of literature surveys, reviews, and tutorials on Machine Learning and related topics**
