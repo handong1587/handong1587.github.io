@@ -40,6 +40,10 @@ date: 2015-08-27
 
 - paper: [http://rd.springer.com.sci-hub.io/article/10.1007/s10994-016-5543-2?wt_mc=internal.event.1.SEM.ArticleAuthorOnlineFirst](http://rd.springer.com.sci-hub.io/article/10.1007/s10994-016-5543-2?wt_mc=internal.event.1.SEM.ArticleAuthorOnlineFirst)
 
+**Consistent Algorithms for Clustering Time Series**
+
+- paper: [http://jmlr.org/papers/v17/khaleghi16a.html](http://jmlr.org/papers/v17/khaleghi16a.html)
+
 # Books
 
 **Introduction to Clustering and Unsupervised Learning | PACKT Books**
