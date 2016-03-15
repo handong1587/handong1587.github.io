@@ -71,6 +71,10 @@ date: 2015-09-25
 
 [http://www.askaswiss.com/2016/03/highlights-discoveries-computer-vision-machine-learning-ai-2016-02.html](http://www.askaswiss.com/2016/03/highlights-discoveries-computer-vision-machine-learning-ai-2016-02.html)
 
+**From Terminator to deep dreaming by Google**
+
+[https://medium.com/@ieldanr/from-terminator-to-deep-dreaming-by-google-ecfcfbe2f985#.ousw59ygp](https://medium.com/@ieldanr/from-terminator-to-deep-dreaming-by-google-ecfcfbe2f985#.ousw59ygp)
+
 # AI
 
 **The Top A.I. Breakthroughs of 2015**
@@ -116,6 +120,14 @@ date: 2015-09-25
 - blog: [http://elainedewar.blogspot.ru/2016/03/alphabet-deep-minds-and-story-of-go.html](http://elainedewar.blogspot.ru/2016/03/alphabet-deep-minds-and-story-of-go.html)
 
 - weibo: [http://weibo.com/p/1001603952446606074695](http://weibo.com/p/1001603952446606074695)
+
+**Google AI versus the Go grandmaster – who is the real winner?**
+
+[http://www.theguardian.com/media-network/2016/jan/28/google-ai-go-grandmaster-real-winner-deepmind](http://www.theguardian.com/media-network/2016/jan/28/google-ai-go-grandmaster-real-winner-deepmind)
+
+**AI and the Art of Go**
+
+[https://medium.com/@lucas.jd.baker/ai-and-the-art-of-go-1712672389dc#.5q8ffwp7x](https://medium.com/@lucas.jd.baker/ai-and-the-art-of-go-1712672389dc#.5q8ffwp7x)
 
 # Technology
 
