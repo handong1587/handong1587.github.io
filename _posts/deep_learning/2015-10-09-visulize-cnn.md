@@ -123,6 +123,12 @@ date: 2015-10-09
 
 - github: [https://github.com/gwding/draw_convnet](https://github.com/gwding/draw_convnet)
 
+**Caffe prototxt visualization (Recommended by Kaiming He)**
+
+![](/assets/vis-cnn/netscope.jpg)
+
+[http://ethereon.github.io/netscope/#/editor](http://ethereon.github.io/netscope/#/editor)
+
 # Blog
 
 "Visualizing GoogLeNet Classes"
