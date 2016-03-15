@@ -68,8 +68,12 @@ accuracy and the detection and localization accuracy of all tasks
 
 - homepage: [http://vision.sysu.edu.cn/projects/deep-joint-task-learning/](http://vision.sysu.edu.cn/projects/deep-joint-task-learning/)
 - paper: [http://ss.sysu.edu.cn/~ll/files/NIPS2014_JointTask.pdf](http://ss.sysu.edu.cn/~ll/files/NIPS2014_JointTask.pdf)
-- code: [https://github.com/xiaolonw/nips14_loc_seg_testonly](https://github.com/xiaolonw/nips14_loc_seg_testonly)
+- github: [https://github.com/xiaolonw/nips14_loc_seg_testonly](https://github.com/xiaolonw/nips14_loc_seg_testonly)
 - dataset: [http://objectextraction.github.io/](http://objectextraction.github.io/)
+
+**Learning deep representation of multityped objects and tasks**
+
+- arxiv: [http://arxiv.org/abs/1603.01359](http://arxiv.org/abs/1603.01359)
 
 # Multi-modal Learning
 
