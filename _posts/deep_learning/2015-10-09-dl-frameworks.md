@@ -49,7 +49,7 @@ date: 2015-10-09
 - homepage: [http://apollocaffe.com/](http://apollocaffe.com/)
 - github: [http://github.com/Russell91/apollocaffe](http://github.com/Russell91/apollocaffe)
 
-**Some handy utility libraries and tools for the Caffe deep learning framework**
+**fb-caffe-exts: Some handy utility libraries and tools for the Caffe deep learning framework**
 
 - github: [https://github.com/facebook/fb-caffe-exts](https://github.com/facebook/fb-caffe-exts)
 
