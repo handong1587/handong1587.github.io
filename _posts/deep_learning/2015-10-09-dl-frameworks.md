@@ -309,6 +309,10 @@ date: 2015-10-09
 
 - github: [https://github.com/memo/ofxMSATensorFlow](https://github.com/memo/ofxMSATensorFlow)
 
+**Installing TensorFlow on Raspberry Pi 3 (and probably 2 as well)**
+
+- github: [https://github.com/samjabrahams/tensorflow-on-raspberry-pi](https://github.com/samjabrahams/tensorflow-on-raspberry-pi)
+
 # Theano
 
 **Theano**
