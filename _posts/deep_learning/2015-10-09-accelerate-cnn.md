@@ -132,6 +132,10 @@ to decompose it into the multiplications of thinned dense matrices"
 
 - arxiv: [http://arxiv.org/abs/1603.01025](http://arxiv.org/abs/1603.01025)
 
+**DeepX: A Software Accelerator for Low-Power Deep Learning Inference on Mobile Devices**
+
+- paper: [http://niclane.org/pubs/deepx_ipsn.pdf](http://niclane.org/pubs/deepx_ipsn.pdf)
+
 # Codes
 
 **Accelerate Convolutional Neural Networks**
