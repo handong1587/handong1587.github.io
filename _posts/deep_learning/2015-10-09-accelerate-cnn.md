@@ -142,3 +142,7 @@ to decompose it into the multiplications of thinned dense matrices"
 
 - intro: "This tool aims to accelerate the test-time computation and decrease number of parameters of deep CNNs."
 - github: [https://github.com/dmlc/mxnet/tree/master/tools/accnn](https://github.com/dmlc/mxnet/tree/master/tools/accnn)
+
+**OptNet - reducing memory usage in torch neural networks**
+
+- github: [https://github.com/fmassa/optimize-net](https://github.com/fmassa/optimize-net)
