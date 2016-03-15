@@ -220,6 +220,11 @@ date: 2015-09-12
 
 [http://boofcv.org/index.php?title=Main_Page](http://boofcv.org/index.php?title=Main_Page)
 
+**tracking.js: A modern approach for Computer Vision on the web**
+
+- homepage: [https://trackingjs.com/](https://trackingjs.com/)
+- github: [https://github.com/eduardolundgren/tracking.js/](https://github.com/eduardolundgren/tracking.js/)
+
 # Datasets
 
 **CVonline: Image Databases**
