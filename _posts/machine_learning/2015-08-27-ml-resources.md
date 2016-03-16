@@ -367,6 +367,10 @@ Other awesome lists can be found in this [list](https://github.com/sindresorhus/
 
 - github: [https://github.com/ClimbsRocks/machineJS](https://github.com/ClimbsRocks/machineJS)
 
+**Machine Learning for iOS: Tools and resources to create really smart iOS applications**
+
+- homepage: [http://alexsosn.github.io/ml/2015/11/05/iOS-ML.html](http://alexsosn.github.io/ml/2015/11/05/iOS-ML.html)
+
 # Readings and Questions
 
 **(Quora): What are the top 10 data mining or machine learning algorithms?**
