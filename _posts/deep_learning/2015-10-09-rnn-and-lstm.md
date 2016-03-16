@@ -271,6 +271,12 @@ date: 2015-10-09
 
 - github: [https://github.com/jcjohnson/torch-rnn](https://github.com/jcjohnson/torch-rnn)
 
+**Deploying a model trained with GPU in Torch into JavaScript, for everyone to use**
+
+- blog: [http://testuggine.ninja/blog/torch-conversion](http://testuggine.ninja/blog/torch-conversion)
+- demo: [http://testuggine.ninja/DRUMPF-9000/](http://testuggine.ninja/DRUMPF-9000/)
+- github: [https://github.com/Darktex/char-rnn](https://github.com/Darktex/char-rnn)
+
 # Blog
 
 **Survey on Attention-based Models Applied in NLP**
