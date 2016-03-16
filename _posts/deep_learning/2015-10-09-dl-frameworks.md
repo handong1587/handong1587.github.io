@@ -24,6 +24,12 @@ date: 2015-10-09
 
 - arXiv: [http://arxiv.org/abs/1506.00619](http://arxiv.org/abs/1506.00619)
 
+# BrainCore
+
+**BrainCore: The iOS and OS X neural network framework**
+
+[https://github.com/aleph7/BrainCore](https://github.com/aleph7/BrainCore)
+
 # Brainstorm
 
 **Brainstorm: Fast, flexible and fun neural networks**
