@@ -20,6 +20,7 @@ date: 2015-10-09
 
 **End-To-End Memory Networks(Facebook AI Research)**
 
+- intro: Continuous version of memory extraction via softmax
 - arXiv: [http://arxiv.org/abs/1503.08895](http://arxiv.org/abs/1503.08895)
 - github: [https://github.com/facebook/MemNN](https://github.com/facebook/MemNN)
 - github: [https://github.com/vinhkhuc/MemN2N-babi-python](https://github.com/vinhkhuc/MemN2N-babi-python)
