@@ -60,6 +60,10 @@ date: 2015-07-01
 - github: [https://github.com/joanbruna/stat212b](https://github.com/joanbruna/stat212b)
 - pan: [http://pan.baidu.com/s/1sk7TKtf#path=%252Fstat212b%2520-%2520Topics%2520Course%2520on%2520Deep%2520Learning%2520for%2520Spring%25202016](http://pan.baidu.com/s/1sk7TKtf#path=%252Fstat212b%2520-%2520Topics%2520Course%2520on%2520Deep%2520Learning%2520for%2520Spring%25202016)
 
+**Good materials on deep learning**
+
+[http://eclass.cc/courselists/117_deep_learning](http://eclass.cc/courselists/117_deep_learning)
+
 # Computer Vision
 
 **Stanford CS231n: Convolutional Neural Networks for Visual Recognition**
