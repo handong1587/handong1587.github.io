@@ -15,6 +15,11 @@ date: 2015-10-09
 
 [http://neuro.cs.ut.ee/deep-reinforcement-learning-with-neon/](http://neuro.cs.ut.ee/deep-reinforcement-learning-with-neon/)
 
+**Deep Reinforcement Learning (by David Silver, Google DeepMind)**
+
+- slides: [http://www.iclr.cc/lib/exe/fetch.php?media=iclr2015:silver-iclr2015.pdf](http://www.iclr.cc/lib/exe/fetch.php?media=iclr2015:silver-iclr2015.pdf)
+- pan: [http://pan.baidu.com/s/1qWBOJGo](http://pan.baidu.com/s/1qWBOJGo)
+
 # Courses
 
 **David Silver Reinforcement Learning 2015**
