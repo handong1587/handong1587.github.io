@@ -52,6 +52,10 @@ date: 2015-10-09
 
 - github: [https://github.com/jmgilmer/GoCNN](https://github.com/jmgilmer/GoCNN)
 
+**DarkGo: Go in Darknet**
+
+- homepage: [http://pjreddie.com/darknet/darkgo-go-in-darknet/](http://pjreddie.com/darknet/darkgo-go-in-darknet/)
+
 # Chess
 
 **Giraffe: Using Deep Reinforcement Learning to Play Chess (MSc thesis)**
