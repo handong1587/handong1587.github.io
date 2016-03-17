@@ -376,3 +376,7 @@ Other awesome lists can be found in this [list](https://github.com/sindresorhus/
 **(Quora): What are the top 10 data mining or machine learning algorithms?**
 
 [https://www.quora.com/What-are-the-top-10-data-mining-or-machine-learning-algorithms/answer/Xavier-Amatriain](https://www.quora.com/What-are-the-top-10-data-mining-or-machine-learning-algorithms/answer/Xavier-Amatriain)
+
+**(Quora): What are the must read papers on data mining and machine learning?**
+
+[https://www.quora.com/What-are-the-must-read-papers-on-data-mining-and-machine-learning](https://www.quora.com/What-are-the-must-read-papers-on-data-mining-and-machine-learning)
