@@ -175,6 +175,10 @@ date: 2015-10-09
 
 - arxiv: [http://arxiv.org/abs/1602.02666](http://arxiv.org/abs/1602.02666)
 
+**The vanishing gradient problem: Oh no — an obstacle to deep learning!**
+
+- blog: [https://medium.com/a-year-of-artificial-intelligence/rohan-4-the-vanishing-gradient-problem-ec68f76ffb9b#.50hu5vwa8](https://medium.com/a-year-of-artificial-intelligence/rohan-4-the-vanishing-gradient-problem-ec68f76ffb9b#.50hu5vwa8)
+
 # Papers
 
 **Scalable and Sustainable Deep Learning via Randomized Hashing**
