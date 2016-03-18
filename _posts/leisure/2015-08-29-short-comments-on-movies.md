@@ -139,3 +139,5 @@ Understanding the implications of what they're doing is equally as important.
 (2016-03-06) *Zootopia (2016)*
 
 (2016-03-06) *Carol (2015)*
+
+(2016-03-19) *The Hateful Eight (2015)*
