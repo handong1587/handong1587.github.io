@@ -64,6 +64,11 @@ date: 2015-10-09
 - arixv: [http://arxiv.org/abs/1603.01417](http://arxiv.org/abs/1603.01417)
 - review: [https://www.technologyreview.com/s/600958/the-memory-trick-making-computers-seem-smarter/](https://www.technologyreview.com/s/600958/the-memory-trick-making-computers-seem-smarter/)
 
+**Neural GPUs Learn Algorithms**
+
+- arixv: [http://arxiv.org/abs/1511.08228](http://arxiv.org/abs/1511.08228)
+- github: [https://github.com/tensorflow/models/tree/master/neural_gpu](https://github.com/tensorflow/models/tree/master/neural_gpu)
+
 # Codes
 
 **NTM-Lasagne: A Library for Neural Turing Machines in Lasagne**
