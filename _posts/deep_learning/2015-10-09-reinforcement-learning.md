@@ -35,6 +35,7 @@ date: 2015-10-09
 - github: [https://github.com/kristjankorjus/Replicating-DeepMind](https://github.com/kristjankorjus/Replicating-DeepMind)
 - demo: [http://cs.stanford.edu/people/karpathy/convnetjs/demo/rldemo.html](http://cs.stanford.edu/people/karpathy/convnetjs/demo/rldemo.html)
 - github: [https://github.com/Kaixhin/Atari](https://github.com/Kaixhin/Atari)
+- github(Tensorflow): [https://github.com/gliese581gg/DQN_tensorflow](https://github.com/gliese581gg/DQN_tensorflow)
 
 **Incentivizing Exploration In Reinforcement Learning With Deep Predictive Models**
 
