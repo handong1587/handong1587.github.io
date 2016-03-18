@@ -8,7 +8,7 @@ date: 2015-10-09
 * TOC
 {:toc}
 
-# Paper
+# Papers
 
 **Deconvolutional Networks**
 
@@ -88,7 +88,7 @@ date: 2015-10-09
 
 - arxiv: [http://arxiv.org/abs/1603.02518](http://arxiv.org/abs/1603.02518)
 
-# Code
+# Codes
 
 **Interactive Deep Neural Net Hallucinations**
 
@@ -129,7 +129,7 @@ date: 2015-10-09
 
 [http://ethereon.github.io/netscope/#/editor](http://ethereon.github.io/netscope/#/editor)
 
-# Blog
+# Blogs
 
 "Visualizing GoogLeNet Classes"
 
@@ -151,3 +151,11 @@ date: 2015-10-09
 ![](https://cdn-images-1.medium.com/max/800/1*LPWa2qRl7SwvNNrRgVEdoQ.png)
 
 [https://medium.com/@awjuliani/visualizing-deep-learning-with-t-sne-tutorial-and-video-e7c59ee4080c#.ubhijafw7](https://medium.com/@awjuliani/visualizing-deep-learning-with-t-sne-tutorial-and-video-e7c59ee4080c#.ubhijafw7)
+
+# Tools
+
+**Topological Visualisation of a Convolutional Neural Network**
+
+![](/assets/vis-cnn/topological_vis_cnn.jpg)
+
+[http://terencebroad.com/convnetvis/vis.html](http://terencebroad.com/convnetvis/vis.html)
