@@ -67,6 +67,10 @@ date: 2015-10-09
 
 [http://torch.ch/blog/2016/02/04/resnets.html](http://torch.ch/blog/2016/02/04/resnets.html)
 
+**Identity Mappings in Deep Residual Networks**
+
+- arxiv: [http://arxiv.org/abs/1603.05027](http://arxiv.org/abs/1603.05027)
+
 ## Inception-V4
 
 **Inception-V4, Inception-Resnet And The Impact Of Residual Connections On Learning (Workshop track - ICLR 2016)**
