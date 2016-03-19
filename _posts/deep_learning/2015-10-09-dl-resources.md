@@ -304,12 +304,6 @@ with fast exact probabilistic inference over many layers."
 - youtube: [https://www.youtube.com/watch?v=eVd2TqEkVp0](https://www.youtube.com/watch?v=eVd2TqEkVp0)
 - video: [http://pan.baidu.com/s/1c1i6LtI#path=%252F](http://pan.baidu.com/s/1c1i6LtI#path=%252F)
 
-# DL and Traditional ML
-
-**Decision Forests, Convolutional Networks and the Models in-Between**
-
-- arxiv: [http://arxiv.org/abs/1603.01250](http://arxiv.org/abs/1603.01250)
-
 # Papers
 
 **Reweighted Wake-Sleep**
