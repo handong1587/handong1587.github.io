@@ -408,6 +408,11 @@ with fast exact probabilistic inference over many layers."
 
 - paper: [http://beta.openreview.net/forum?id=lx9l4r36gU2OVPy8Cv9g](http://beta.openreview.net/forum?id=lx9l4r36gU2OVPy8Cv9g)
 
+**Convergent Learning: Do different neural networks learn the same representations?**
+
+- arxiv: [http://arxiv.org/abs/1511.07543](http://arxiv.org/abs/1511.07543)
+- github: [https://github.com/yixuanli/convergent_learning](https://github.com/yixuanli/convergent_learning)
+
 # Codes
 
 **deepnet: Implementation of some deep learning algorithms**
