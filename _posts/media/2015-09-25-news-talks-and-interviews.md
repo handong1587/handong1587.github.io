@@ -129,6 +129,10 @@ date: 2015-09-25
 
 [https://medium.com/@lucas.jd.baker/ai-and-the-art-of-go-1712672389dc#.5q8ffwp7x](https://medium.com/@lucas.jd.baker/ai-and-the-art-of-go-1712672389dc#.5q8ffwp7x)
 
+**The meaning of AlphaGo, the AI program that beat a Go champ**
+
+[http://www.macleans.ca/society/science/the-meaning-of-alphago-the-ai-program-that-beat-a-go-champ/](http://www.macleans.ca/society/science/the-meaning-of-alphago-the-ai-program-that-beat-a-go-champ/)
+
 # Technology
 
 **Amazon Developing ‘Smart Zoom’ For 4K, 8K Video**
