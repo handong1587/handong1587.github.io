@@ -150,6 +150,14 @@ date: 2015-10-09
 
 - arxiv: [http://arxiv.org/abs/1603.01121](http://arxiv.org/abs/1603.01121)
 
+# Projects
+
+**Using Deep Q-Network to Learn How To Play Flappy Bird**
+
+![](https://raw.githubusercontent.com/yenchenlin1994/DeepLearningFlappyBird/master/images/flappy_bird_demp.gif)
+
+- github: [https://github.com/yenchenlin1994/DeepLearningFlappyBird](https://github.com/yenchenlin1994/DeepLearningFlappyBird)
+
 # Blogs
 
 **A Short Introduction To Some Reinforcement Learning Algorithms**
