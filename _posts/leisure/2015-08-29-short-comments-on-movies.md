@@ -7,11 +7,11 @@ date: 2015-08-29
 
 *Good Will Hunting (1997)*: I particularly like the scene whick Will Hunting goes up and raps on the glass to taunt that Harvard guy, "How do you like them apples?"
 
-<img src="/assets/leisure/short-comments-on-movies/good_will_hunting_1997.png" width="800" />
+![](/assets/leisure/short-comments-on-movies/good_will_hunting_1997.png)
 
 For a long time I had always thought this phrase "How do you like them apples" just came from this movie, which wasn't true, however. Same phrase also showed up in an earlier movie *From Dusk Till Dawn*:
 
-<img src="/assets/leisure/short-comments-on-movies/from_dusk_till_dawn_1996.png" width="800" />
+![](/assets/leisure/short-comments-on-movies/from_dusk_till_dawn_1996.png)
 
 For a reference: [http://english.stackexchange.com/questions/8293/how-do-you-like-them-apples](http://english.stackexchange.com/questions/8293/how-do-you-like-them-apples)
 
@@ -21,7 +21,7 @@ For a reference: [http://english.stackexchange.com/questions/8293/how-do-you-lik
 
 *重庆森林*: 
 
-<img src="/assets/leisure/short-comments-on-movies/chunking_express_1994.png"/>
+![](/assets/leisure/short-comments-on-movies/chunking_express_1994.png)
 
 *Kill Bill (2003)*: I happened to know that the original Volume 1 contains a crazy 88 fight scene - it was so bloody and violent that Quentin Tarantino had to make the famous fight scene black and white. You can check out on this: <br /> [https://thepiratebay.la/torrent/8028488/KILL_BILL__THE_WHOLE_BLOODY_AFFAIR_hd-720p_DTS](https://thepiratebay.la/torrent/8028488/KILL_BILL__THE_WHOLE_BLOODY_AFFAIR_hd-720p_DTS)
 
@@ -106,7 +106,7 @@ ARGO FUCK YOURSELF!
 
 (2015-10-21) *South Park: Bigger Longer & Uncut (1999)*:
 
-<img src="/assets/leisure/short-comments-on-movies/South_Park_Bigger_Longer_&_Uncut_1999.jpg" width="800" />
+![](/assets/leisure/short-comments-on-movies/South_Park_Bigger_Longer_&_Uncut_1999.jpg)
 
 (2015-10-30) *The Life of David Gale (2003)*
 
@@ -141,3 +141,5 @@ Understanding the implications of what they're doing is equally as important.
 (2016-03-06) *Carol (2015)*
 
 (2016-03-19) *The Hateful Eight (2015)*
+
+(2016-03-20) *7 Days in Hell (2015)*: Jeez..
