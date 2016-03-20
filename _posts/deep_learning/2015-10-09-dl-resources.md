@@ -60,7 +60,6 @@ date: 2015-10-09
 - blog("Interpretating Deep Residual Learning Blocks as Locally Recurrent Connections"): [https://matrixmashing.wordpress.com/2016/01/29/interpretating-deep-residual-learning-blocks-as-locally-recurrent-connections/](https://matrixmashing.wordpress.com/2016/01/29/interpretating-deep-residual-learning-blocks-as-locally-recurrent-connections/)
 - github: [https://github.com/apark263/cfmz](https://github.com/apark263/cfmz)
 - github: [https://github.com/NervanaSystems/neon/blob/master/examples/cifar10_msra.py](https://github.com/NervanaSystems/neon/blob/master/examples/cifar10_msra.py)
-- blog("Training and investigating Residual Nets"): [http://torch.ch/blog/2016/02/04/resnets.html](http://torch.ch/blog/2016/02/04/resnets.html)
 - github: [https://github.com/facebook/fb.resnet.torch](https://github.com/facebook/fb.resnet.torch)
 
 **Training and investigating Residual Nets**
