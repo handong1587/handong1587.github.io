@@ -261,6 +261,10 @@ with fast exact probabilistic inference over many layers."
 - arxiv: [http://arxiv.org/abs/1603.03116](http://arxiv.org/abs/1603.03116)
 - github: [https://github.com/Avmb/lowrank-gru](https://github.com/Avmb/lowrank-gru)
 
+**XNOR-Net: ImageNet Classification Using Binary Convolutional Neural Networks**
+
+- arxiv: [http://arxiv.org/abs/1603.05279](http://arxiv.org/abs/1603.05279)
+
 # Distributed System
 
 **SparkNet: Training Deep Networks in Spark**
@@ -276,7 +280,7 @@ with fast exact probabilistic inference over many layers."
 
 # Deep Learning For Driving
 
-<img src="/assets/cnn-materials/teaser_deepdriving.jpg" width="800" />
+![](/assets/cnn-materials/teaser_deepdriving.jpg)
 
 - project: [http://deepdriving.cs.princeton.edu/](http://deepdriving.cs.princeton.edu/)
 - paper: [http://deepdriving.cs.princeton.edu/paper.pdf](http://deepdriving.cs.princeton.edu/paper.pdf)
@@ -284,7 +288,7 @@ with fast exact probabilistic inference over many layers."
 
 **Recurrent Neural Networks for Driver Activity Anticipation via Sensory-Fusion Architecture**
 
-<img src="/assets/dl-materials/bnn_fp.png" />
+![](/assets/dl-materials/bnn_fp.png)
 
 - paper: [http://arxiv.org/abs/1509.05016](http://arxiv.org/abs/1509.05016)
 - homepage: [http://www.brain4cars.com/](http://www.brain4cars.com/)
