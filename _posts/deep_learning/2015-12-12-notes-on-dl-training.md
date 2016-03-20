@@ -18,7 +18,8 @@ Bengio in his book *Deep Learning* has pointed out this:
 many neural network libraries implement arelated function called the cross-correlation, 
 which is the same as convolution butwithout ﬂipping the kernel:
 
-[http://www.deeplearningbook.org/contents/convnets.html](http://www.deeplearningbook.org/contents/convnets.html)
+(From [http://www.deeplearningbook.org/contents/convnets.html](http://www.deeplearningbook.org/contents/convnets.html),
+Draft Version 2016-03-11, page 337.)
 
 # About activation function
 
