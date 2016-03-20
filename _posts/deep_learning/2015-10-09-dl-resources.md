@@ -67,7 +67,11 @@ date: 2015-10-09
 
 [http://torch.ch/blog/2016/02/04/resnets.html](http://torch.ch/blog/2016/02/04/resnets.html)
 
-**Identity Mappings in Deep Residual Networks**
+**Resnet in Resnet: Generalizing Residual Architectures**
+
+- paper: [http://beta.openreview.net/forum?id=lx9l4r36gU2OVPy8Cv9g](http://beta.openreview.net/forum?id=lx9l4r36gU2OVPy8Cv9g)
+
+**Identity Mappings in Deep Residual Networks (by Kaiming He)**
 
 - arxiv: [http://arxiv.org/abs/1603.05027](http://arxiv.org/abs/1603.05027)
 
@@ -216,6 +220,11 @@ with fast exact probabilistic inference over many layers."
 - homepage: [http://spn.cs.washington.edu/index.shtml](http://spn.cs.washington.edu/index.shtml)
 - code: [http://spn.cs.washington.edu/code.shtml](http://spn.cs.washington.edu/code.shtml)
 
+**Bitwise Neural Networks**
+
+- paper: [http://paris.cs.illinois.edu/pubs/minje-icmlw2015.pdf](http://paris.cs.illinois.edu/pubs/minje-icmlw2015.pdf)
+- demo: [http://minjekim.com/demo_bnn.html](http://minjekim.com/demo_bnn.html)
+
 **Learning Discriminative Features via Label Consistent Neural Network**
 
 - arxiv: [http://arxiv.org/abs/1602.01168](http://arxiv.org/abs/1602.01168)
@@ -301,13 +310,6 @@ with fast exact probabilistic inference over many layers."
 
 - blog: [http://deeplearning4j.org/accuracy.html](http://deeplearning4j.org/accuracy.html)
 
-# GPU Programming
-
-**An Introduction to GPU Programming using Theano**
-
-- youtube: [https://www.youtube.com/watch?v=eVd2TqEkVp0](https://www.youtube.com/watch?v=eVd2TqEkVp0)
-- video: [http://pan.baidu.com/s/1c1i6LtI#path=%252F](http://pan.baidu.com/s/1c1i6LtI#path=%252F)
-
 # Papers
 
 **Reweighted Wake-Sleep**
@@ -340,11 +342,6 @@ with fast exact probabilistic inference over many layers."
 - arxiv: [http://arxiv.org/abs/1602.05179](http://arxiv.org/abs/1602.05179)
 
 - - -
-
-**Bitwise Neural Networks**
-
-- paper: [http://paris.cs.illinois.edu/pubs/minje-icmlw2015.pdf](http://paris.cs.illinois.edu/pubs/minje-icmlw2015.pdf)
-- demo: [http://minjekim.com/demo_bnn.html](http://minjekim.com/demo_bnn.html)
 
 **Understanding and Predicting Image Memorability at a Large Scale (MIT. ICCV2015)**
 
@@ -401,10 +398,6 @@ with fast exact probabilistic inference over many layers."
 **Learning Efficient Algorithms with Hierarchical Attentive Memory**
 
 - arxiv: [http://arxiv.org/abs/1602.03218](http://arxiv.org/abs/1602.03218)
-
-**Resnet in Resnet: Generalizing Residual Architectures**
-
-- paper: [http://beta.openreview.net/forum?id=lx9l4r36gU2OVPy8Cv9g](http://beta.openreview.net/forum?id=lx9l4r36gU2OVPy8Cv9g)
 
 **Convergent Learning: Do different neural networks learn the same representations?**
 

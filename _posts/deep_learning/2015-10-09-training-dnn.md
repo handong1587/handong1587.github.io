@@ -65,6 +65,22 @@ date: 2015-10-09
 
 - arxiv: [http://arxiv.org/abs/1602.05931](http://arxiv.org/abs/1602.05931)
 
+## Batch Normalization
+
+**Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift(ImageNet top-5 error: 4.82%)**
+
+- arXiv: [http://arxiv.org/abs/1502.03167](http://arxiv.org/abs/1502.03167)
+- notes: [http://blog.csdn.net/happynear/article/details/44238541](http://blog.csdn.net/happynear/article/details/44238541)
+
+**Weight Normalization: A Simple Reparameterization to Accelerate Training of Deep Neural Networks**
+
+- arxiv: [http://arxiv.org/abs/1602.07868](http://arxiv.org/abs/1602.07868)
+- notes: [http://www.erogol.com/my-notes-weight-normalization/](http://www.erogol.com/my-notes-weight-normalization/)
+
+**Normalization Propagation: A Parametric Technique for Removing Internal Covariate Shift in Deep Networks**
+
+- arxiv: [http://arxiv.org/abs/1603.01431](http://arxiv.org/abs/1603.01431)
+
 # Loss Function
 
 **The Loss Surfaces of Multilayer Networks**

@@ -123,11 +123,6 @@ to decompose it into the multiplications of thinned dense matrices"
 - github: [https://github.com/DeepScale/SqueezeNet](https://github.com/DeepScale/SqueezeNet)
 - note: [https://www.evernote.com/shard/s146/sh/108eea91-349b-48ba-b7eb-7ac8f548bee9/5171dc6b1088fba05a4e317f7f5d32a3](https://www.evernote.com/shard/s146/sh/108eea91-349b-48ba-b7eb-7ac8f548bee9/5171dc6b1088fba05a4e317f7f5d32a3)
 
-**Weight Normalization: A Simple Reparameterization to Accelerate Training of Deep Neural Networks**
-
-- arxiv: [http://arxiv.org/abs/1602.07868](http://arxiv.org/abs/1602.07868)
-- notes: [http://www.erogol.com/my-notes-weight-normalization/](http://www.erogol.com/my-notes-weight-normalization/)
-
 **Convolutional Neural Networks using Logarithmic Data Representation**
 
 - arxiv: [http://arxiv.org/abs/1603.01025](http://arxiv.org/abs/1603.01025)

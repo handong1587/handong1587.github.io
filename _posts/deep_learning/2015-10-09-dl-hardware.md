@@ -23,6 +23,11 @@ date: 2015-10-09
 
 # GPU
 
+**An Introduction to GPU Programming using Theano**
+
+- youtube: [https://www.youtube.com/watch?v=eVd2TqEkVp0](https://www.youtube.com/watch?v=eVd2TqEkVp0)
+- video: [http://pan.baidu.com/s/1c1i6LtI#path=%252F](http://pan.baidu.com/s/1c1i6LtI#path=%252F)
+
 **从深度学习选择什么样的gpu来谈谈gpu的硬件架构**
 
 - blog: [http://chenrudan.github.io/blog/2015/12/20/introductionofgpuhardware.html](http://chenrudan.github.io/blog/2015/12/20/introductionofgpuhardware.html)
