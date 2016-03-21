@@ -106,6 +106,12 @@ Other awesome lists can be found in this [list](https://github.com/sindresorhus/
 
 # Decision Tree
 
+**Soft Decision Trees**
+
+- paper: [http://www.cmpe.boun.edu.tr/~ethem/files/papers/icpr2012_softtree.pdf](http://www.cmpe.boun.edu.tr/~ethem/files/papers/icpr2012_softtree.pdf)
+- project page: [http://www.cs.cornell.edu/~oirsoy/softtree.html](http://www.cs.cornell.edu/~oirsoy/softtree.html)
+- github: [https://github.com/oir/soft-tree](https://github.com/oir/soft-tree)
+
 **Canonical Correlation Forests**
 
 - arXiv: [http://arxiv.org/abs/1507.05444](http://arxiv.org/abs/1507.05444)
