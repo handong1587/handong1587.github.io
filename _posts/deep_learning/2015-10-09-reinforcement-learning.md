@@ -216,6 +216,10 @@ date: 2015-10-09
 
 [https://medium.com/@shiyan/get-a-taste-of-reinforcement-learning-implement-a-tic-tac-toe-agent-deda5617b2e4#.59bx71a2h](https://medium.com/@shiyan/get-a-taste-of-reinforcement-learning-implement-a-tic-tac-toe-agent-deda5617b2e4#.59bx71a2h)
 
+**Best reinforcement learning libraries?**
+
+- reddit: [https://www.reddit.com/r/MachineLearning/comments/4b2ugc/best_reinforcement_learning_libraries/](https://www.reddit.com/r/MachineLearning/comments/4b2ugc/best_reinforcement_learning_libraries/)
+
 # Resources
 
 **Deep Reinforcement Learning Papers**
