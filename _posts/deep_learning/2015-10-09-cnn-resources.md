@@ -179,6 +179,14 @@ Bicubic VS. Shepard CNN
 - homepage: [http://www.robots.ox.ac.uk/~vgg/software/cnn_heatmap/](http://www.robots.ox.ac.uk/~vgg/software/cnn_heatmap/)
 - github: [https://github.com/tpfister/caffe-heatmap](https://github.com/tpfister/caffe-heatmap)
 
+**Age and Gender Classification using Convolutional Neural Networks**
+
+![](http://www.openu.ac.il/home/hassner/projects/cnn_agegender/teaser_a.png)
+
+- paper: [http://www.openu.ac.il/home/hassner/projects/cnn_agegender/CNN_AgeGenderEstimation.pdf](http://www.openu.ac.il/home/hassner/projects/cnn_agegender/CNN_AgeGenderEstimation.pdf)
+- project page: [http://www.openu.ac.il/home/hassner/projects/cnn_agegender/](http://www.openu.ac.il/home/hassner/projects/cnn_agegender/)
+- github: [https://github.com/GilLevi/AgeGenderDeepLearning](https://github.com/GilLevi/AgeGenderDeepLearning)
+
 # Blogs
 
 **Automatic Colorization (Tensorflow + VGG)**
