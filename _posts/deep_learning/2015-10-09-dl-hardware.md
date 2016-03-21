@@ -23,6 +23,10 @@ date: 2015-10-09
 
 # GPU
 
+**Course on CUDA Programming on NVIDIA GPUs, July 27--31, 2015**
+
+[http://people.maths.ox.ac.uk/gilesm/cuda/](http://people.maths.ox.ac.uk/gilesm/cuda/)
+
 **An Introduction to GPU Programming using Theano**
 
 - youtube: [https://www.youtube.com/watch?v=eVd2TqEkVp0](https://www.youtube.com/watch?v=eVd2TqEkVp0)
