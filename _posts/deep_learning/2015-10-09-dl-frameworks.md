@@ -59,6 +59,14 @@ date: 2015-10-09
 
 - github: [https://github.com/facebook/fb-caffe-exts](https://github.com/facebook/fb-caffe-exts)
 
+**Caffe-Android-Lib: Porting caffe to android platform**
+
+- github: [https://github.com/sh1r0/caffe-android-lib](https://github.com/sh1r0/caffe-android-lib)
+
+**caffe-android-demo: An android caffe demo app exploiting caffe pre-trained ImageNet model for image classification**
+
+- github: [https://github.com/sh1r0/caffe-android-demo](https://github.com/sh1r0/caffe-android-demo)
+
 - - -
 
 **OpenCV 3.0.0-dev: Load Caffe framework models**
