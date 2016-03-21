@@ -331,6 +331,10 @@ date: 2015-10-09
 
 [http://www.johnwittenauer.net/configuring-theano-for-high-performance-deep-learning/](http://www.johnwittenauer.net/configuring-theano-for-high-performance-deep-learning/)
 
+**Theano: a short practical guide**
+
+- slides: [http://folinoid.com/show/theano/](http://folinoid.com/show/theano/)
+
 # Torch
 
 **Torch**

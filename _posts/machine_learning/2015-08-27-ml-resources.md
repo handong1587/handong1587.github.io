@@ -129,6 +129,10 @@ Other awesome lists can be found in this [list](https://github.com/sindresorhus/
 
 [http://www.offconvex.org/2016/03/07/evolution-markov-chains/](http://www.offconvex.org/2016/03/07/evolution-markov-chains/)
 
+**Markov Chains: Explained Visually**
+
+- blog: [http://setosa.io/ev/markov-chains/](http://setosa.io/ev/markov-chains/)
+
 # Matrix Computations
 
 **Randomized Numerical Linear Algebra for Large Scale Data Analysis**
