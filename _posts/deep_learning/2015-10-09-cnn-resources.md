@@ -187,6 +187,10 @@ Bicubic VS. Shepard CNN
 - project page: [http://www.openu.ac.il/home/hassner/projects/cnn_agegender/](http://www.openu.ac.il/home/hassner/projects/cnn_agegender/)
 - github: [https://github.com/GilLevi/AgeGenderDeepLearning](https://github.com/GilLevi/AgeGenderDeepLearning)
 
+**Nipple Detection using Convolutional Neural Network**
+
+- reddit: [https://www.reddit.com/over18?dest=https%3A%2F%2Fwww.reddit.com%2Fr%2FMachineLearning%2Fcomments%2F33n77s%2Fandroid_app_nipple_detection_using_convolutional%2F](https://www.reddit.com/over18?dest=https%3A%2F%2Fwww.reddit.com%2Fr%2FMachineLearning%2Fcomments%2F33n77s%2Fandroid_app_nipple_detection_using_convolutional%2F)
+
 # Blogs
 
 **Automatic Colorization (Tensorflow + VGG)**
