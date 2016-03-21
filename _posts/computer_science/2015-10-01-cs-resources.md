@@ -17,6 +17,14 @@ date: 2015-10-01
 
 - homepage: [http://www.eecs.berkeley.edu/~christos/evol/evolcomS14.html](http://www.eecs.berkeley.edu/~christos/evol/evolcomS14.html)
 
+# Projects
+
+**Sketch: a Common Lisp environment for the creation of electronic art, visual design, game prototyping, game making, computer graphics, exploration of human-computer interaction and more**
+
+![](https://camo.githubusercontent.com/0a706993ecb761640ec70e974d39bfc98c5d1dea/687474703a2f2f692e696d6775722e636f6d2f4d4e5a55777a382e706e67)
+
+- github: [https://github.com/vydd/sketch](https://github.com/vydd/sketch)
+
 # Blogs
 
 **Design Of A Modern Cache**
