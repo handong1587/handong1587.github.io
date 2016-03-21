@@ -504,6 +504,10 @@ with fast exact probabilistic inference over many layers."
 - author: Ryan Dahl, author of NodeJS. 
 - github: [https://github.com/ry/deep_learning_glossary](https://github.com/ry/deep_learning_glossary)
 
+**The Deep Learning Playbook**
+
+[https://medium.com/@jiefeng/deep-learning-playbook-c5ebe34f8a1a#.eg9cdz5ak](https://medium.com/@jiefeng/deep-learning-playbook-c5ebe34f8a1a#.eg9cdz5ak)
+
 # Tools
 
 **DNNGraph - A deep neural network model generation DSL in Haskell**
