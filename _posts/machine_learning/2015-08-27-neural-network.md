@@ -44,6 +44,12 @@ date: 2015-08-27
 
 [https://medium.com/a-year-of-artificial-intelligence/rohan-lenny-1-neural-networks-the-backpropagation-algorithm-explained-abf4609d4f9d#.9igtj84gm](https://medium.com/a-year-of-artificial-intelligence/rohan-lenny-1-neural-networks-the-backpropagation-algorithm-explained-abf4609d4f9d#.9igtj84gm)
 
+**The Essence of Artificial Neural Networks**
+
+![](https://cdn-images-1.medium.com/max/800/1*eBMwpBBboAXgqsawwOKkPw.png)
+
+[https://medium.com/@ivanliljeqvist/the-essence-of-artificial-neural-networks-5de300c995d6#.yk0kydmf8](https://medium.com/@ivanliljeqvist/the-essence-of-artificial-neural-networks-5de300c995d6#.yk0kydmf8)
+
 # Tools
 
 **Neural Networks demo in Javascript**
