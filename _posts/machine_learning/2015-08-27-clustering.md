@@ -72,6 +72,10 @@ date: 2015-08-27
 
 [http://web.cecs.pdx.edu/~lane7/](http://web.cecs.pdx.edu/~lane7/)
 
+**K-Means Clustering on Handwritten Digits**
+
+[http://johnloeber.com/docs/kmeans.html](http://johnloeber.com/docs/kmeans.html)
+
 # Codes
 
 **MusicMappr: Find patterns in your favorite songs and remix them on the fly!**
