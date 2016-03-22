@@ -299,7 +299,7 @@ date: 2015-10-09
 
 [https://medium.com/@shiyan/materials-to-understand-lstm-34387d6454c1#.4mt3bzoau](https://medium.com/@shiyan/materials-to-understand-lstm-34387d6454c1#.4mt3bzoau)
 
-**Understanding LSTM and its diagrams**
+**Understanding LSTM and its diagrams (★★★★★)**
 
 [https://medium.com/@shiyan/understanding-lstm-and-its-diagrams-37e2f46f1714](https://medium.com/@shiyan/understanding-lstm-and-its-diagrams-37e2f46f1714)
 
