@@ -32,6 +32,11 @@ singular value decomposition was adopted for the matrix factorization"
 - intro: "considered the subsequent nonlinear units while learning the low-rank decomposition"
 - arxiv: [http://arxiv.org/abs/1411.4229](http://arxiv.org/abs/1411.4229)
 
+**Flattened Convolutional Neural Networks for Feedforward Acceleration(ICLR 2015)**
+
+- arXiv: [http://arxiv.org/abs/1412.5474](http://arxiv.org/abs/1412.5474)
+- github: [https://github.com/jhjin/flattened-cnn](https://github.com/jhjin/flattened-cnn)
+
 **Compressing Deep Convolutional Networks using Vector Quantization**
 
 - intro: "this paper showed that vector quantization had a clear advantage 

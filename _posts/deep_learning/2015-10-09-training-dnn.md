@@ -70,6 +70,7 @@ date: 2015-10-09
 **Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift(ImageNet top-5 error: 4.82%)**
 
 - arXiv: [http://arxiv.org/abs/1502.03167](http://arxiv.org/abs/1502.03167)
+- blog: [https://standardfrancis.wordpress.com/2015/04/16/batch-normalization/](https://standardfrancis.wordpress.com/2015/04/16/batch-normalization/)
 - notes: [http://blog.csdn.net/happynear/article/details/44238541](http://blog.csdn.net/happynear/article/details/44238541)
 
 **Weight Normalization: A Simple Reparameterization to Accelerate Training of Deep Neural Networks**
@@ -97,21 +98,10 @@ date: 2015-10-09
 
 - paper: [http://jmlr.org/proceedings/papers/v28/sutskever13.pdf](http://jmlr.org/proceedings/papers/v28/sutskever13.pdf)
 
-**Flattened Convolutional Neural Networks for Feedforward Acceleration(ICLR 2015)**
-
-- arXiv: [http://arxiv.org/abs/1412.5474](http://arxiv.org/abs/1412.5474)
-- github: [https://github.com/jhjin/flattened-cnn](https://github.com/jhjin/flattened-cnn)
-
 **Invariant backpropagation: how to train a transformation-invariant neural network**
 
 - arxiv: [http://arxiv.org/abs/1502.04434](http://arxiv.org/abs/1502.04434)
 - github: [https://github.com/sdemyanov/ConvNet](https://github.com/sdemyanov/ConvNet)
-
-**Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift**
-
-- arXiv: [http://arxiv.org/abs/1502.03167](http://arxiv.org/abs/1502.03167)
-- blog: [https://standardfrancis.wordpress.com/2015/04/16/batch-normalization/](https://standardfrancis.wordpress.com/2015/04/16/batch-normalization/)
-- note: [http://zhihu.com/question/38102762/answer/85238569?utm_campaign=webshare&amp;utm_source=weibo&amp;utm_medium=zhihu](http://zhihu.com/question/38102762/answer/85238569?utm_campaign=webshare&amp;utm_source=weibo&amp;utm_medium=zhihu)
 
 **A practical theory for designing very deep convolutional neural network**
 
