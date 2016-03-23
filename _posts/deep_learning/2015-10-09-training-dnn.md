@@ -137,7 +137,14 @@ date: 2015-10-09
 
 - blog: [http://gallery.rcpp.org/articles/rcpp-sgd/](http://gallery.rcpp.org/articles/rcpp-sgd/)
 
-# Dropout
+# Regularization
+
+**DisturbLabel: Regularizing CNN on the Loss Layer [University of California & MSR] (2016)**
+
+- intro: "an extremely simple algorithm which randomly replaces a part of labels as incorrect values in each iteration"
+- paper: [http://research.microsoft.com/en-us/um/people/jingdw/pubs/cvpr16-disturblabel.pdf](http://research.microsoft.com/en-us/um/people/jingdw/pubs/cvpr16-disturblabel.pdf)
+
+## Dropout
 
 **Improving neural networks by preventing co-adaptation of feature detectors (Dropout)**
 
