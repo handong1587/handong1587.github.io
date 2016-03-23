@@ -123,7 +123,7 @@ date: 2015-10-09
 - arxiv: [http://arxiv.org/abs/1601.04033](http://arxiv.org/abs/1601.04033)
 - github: [https://github.com/DoctorTeeth/fred](https://github.com/DoctorTeeth/fred)
 
-**An overview of gradient descent optimization algorithms**
+**An overview of gradient descent optimization algorithms (★★★★★)**
 
 ![](http://sebastianruder.com/content/images/2016/01/contours_evaluation_optimizers.gif)
 
