@@ -407,6 +407,10 @@ with fast exact probabilistic inference over many layers."
 
 - arxiv: [http://arxiv.org/abs/1603.05691](http://arxiv.org/abs/1603.05691)
 
+**Harnessing Deep Neural Networks with Logic Rules**
+
+ - arxiv: [http://arxiv.org/abs/1603.06318](http://arxiv.org/abs/1603.06318)
+
 # Codes
 
 **deepnet: Implementation of some deep learning algorithms**
