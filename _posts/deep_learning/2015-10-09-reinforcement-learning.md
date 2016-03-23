@@ -158,6 +158,12 @@ date: 2015-10-09
 
 - github: [https://github.com/yenchenlin1994/DeepLearningFlappyBird](https://github.com/yenchenlin1994/DeepLearningFlappyBird)
 
+**TorchQLearning**
+
+![](https://raw.githubusercontent.com/SeanNaren/TorchQLearningExample/master/images/torchplayscatch.gif)
+
+- github: [https://github.com/SeanNaren/TorchQLearningExample](https://github.com/SeanNaren/TorchQLearningExample)
+
 # Blogs
 
 **A Short Introduction To Some Reinforcement Learning Algorithms**
