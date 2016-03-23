@@ -24,3 +24,7 @@ date: 2015-10-09
 - arXiv: [http://arxiv.org/abs/1511.05641](http://arxiv.org/abs/1511.05641)
 - github: [https://github.com/soumith/net2net.torch](https://github.com/soumith/net2net.torch)
 - notes(by Hugo Larochelle): [https://www.evernote.com/shard/s189/sh/46414718-9663-440e-bbb7-65126b247b42/19688c438709251d8275d843b8158b03](https://www.evernote.com/shard/s189/sh/46414718-9663-440e-bbb7-65126b247b42/19688c438709251d8275d843b8158b03)
+
+**Transfer Learning from Deep Features for Remote Sensing and Poverty Mapping**
+
+- arxiv: [http://arxiv.org/abs/1510.00098](http://arxiv.org/abs/1510.00098)
