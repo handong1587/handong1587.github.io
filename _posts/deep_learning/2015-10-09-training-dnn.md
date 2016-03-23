@@ -195,6 +195,10 @@ date: 2015-10-09
 
 - blog: [https://medium.com/a-year-of-artificial-intelligence/rohan-4-the-vanishing-gradient-problem-ec68f76ffb9b#.50hu5vwa8](https://medium.com/a-year-of-artificial-intelligence/rohan-4-the-vanishing-gradient-problem-ec68f76ffb9b#.50hu5vwa8)
 
+**Gradient Descent For Machine Learning**
+
+[http://machinelearningmastery.com/gradient-descent-for-machine-learning/](http://machinelearningmastery.com/gradient-descent-for-machine-learning/)
+
 # Papers
 
 **Scalable and Sustainable Deep Learning via Randomized Hashing**
