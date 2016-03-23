@@ -42,6 +42,10 @@ Other awesome lists can be found in this [list](https://github.com/sindresorhus/
 - blog: [http://blog.cambridgecoding.com/2016/02/14/machine-learning-a-gentle-structured-introduction/](http://blog.cambridgecoding.com/2016/02/14/machine-learning-a-gentle-structured-introduction/)
 - slides: [http://pan.baidu.com/s/1hqVGAl2](http://pan.baidu.com/s/1hqVGAl2)
 
+**A Comparison of Supervised Learning Algorithm**
+
+- blog: [http://blog.nycdatascience.com/students-work/a-comparison-of-supervised-learning-algorithm/](http://blog.nycdatascience.com/students-work/a-comparison-of-supervised-learning-algorithm/)
+
 # Competitions
 
 **Machine learning best practices we've learned from hundreds of competitions (Kaggle: Ben Hamner)**
