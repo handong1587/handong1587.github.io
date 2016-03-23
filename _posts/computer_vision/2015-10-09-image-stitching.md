@@ -39,6 +39,10 @@ date: 2015-10-09
 
 [http://www.cs.huji.ac.il/~peleg/papers/SnapComposition.pdf](http://www.cs.huji.ac.il/~peleg/papers/SnapComposition.pdf)
 
+**Stitching Stabilizer: Two-frame-stitching Video Stabilization for Embedded Systems**
+
+- arxiv: [http://arxiv.org/abs/1603.06678](http://arxiv.org/abs/1603.06678)
+
 # Lectures
 
 **Stitching and Matting**
