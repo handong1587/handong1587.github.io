@@ -197,7 +197,7 @@ Bicubic VS. Shepard CNN
 
 - blog: [http://tinyclouds.org/colorize/](http://tinyclouds.org/colorize/)
 
-# Codes
+# Projects
 
 **ConvNetJS: a Javascript implementation of Neural networks**
 
@@ -210,3 +210,9 @@ Bicubic VS. Shepard CNN
 **Fast Multi-threaded VGG 19 Feature Extractor**
 
 - github: [https://github.com/coreylynch/vgg-19-feature-extractor](https://github.com/coreylynch/vgg-19-feature-extractor)
+
+**Live demo of neural network classifying images**
+
+![](/assets/cnn-materials/nn_classify_images_live_demo.jpg)
+
+[http://ml4a.github.io/dev/demos/cifar_confusion.html#](http://ml4a.github.io/dev/demos/cifar_confusion.html#)
