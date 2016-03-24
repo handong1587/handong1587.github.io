@@ -22,3 +22,11 @@ date: 2015-10-09
 **Comprehensive learning path – Data Science in Python**
 
 [http://www.analyticsvidhya.com/learning-paths-data-science-business-analytics-business-intelligence-big-data/learning-path-data-science-python/](http://www.analyticsvidhya.com/learning-paths-data-science-business-analytics-business-intelligence-big-data/learning-path-data-science-python/)
+
+# Competitions
+
+**Data Science: A Kaggle Walkthrough**
+
+- part1: [http://brettromero.com/wordpress/data-science-a-kaggle-walkthrough-introduction/](http://brettromero.com/wordpress/data-science-a-kaggle-walkthrough-introduction/)
+- part2: [http://brettromero.com/wordpress/data-science-a-kaggle-walkthrough-understanding-the-data/](http://brettromero.com/wordpress/data-science-a-kaggle-walkthrough-understanding-the-data/)
+- part3: [http://brettromero.com/wordpress/data-science-kaggle-walkthrough-cleaning-data/](http://brettromero.com/wordpress/data-science-kaggle-walkthrough-cleaning-data/)
