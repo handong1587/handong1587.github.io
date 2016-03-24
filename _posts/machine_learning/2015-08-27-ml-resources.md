@@ -292,6 +292,10 @@ Other awesome lists can be found in this [list](https://github.com/sindresorhus/
 - paper: [http://jmlr.org/proceedings/papers/v37/romera-paredes15.html](http://jmlr.org/proceedings/papers/v37/romera-paredes15.html)
 - github: [https://github.com/MLWave/extremely-simple-one-shot-learning](https://github.com/MLWave/extremely-simple-one-shot-learning)
 
+**Debugging Machine Learning Tasks**
+
+- arxiv: [http://arxiv.org/abs/1603.07292](http://arxiv.org/abs/1603.07292)
+
 # Resources
 
 **Machine Learning Surveys: A list of literature surveys, reviews, and tutorials on Machine Learning and related topics**
