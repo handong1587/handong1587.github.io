@@ -84,6 +84,7 @@ date: 2015-10-09
 - project: [http://www.cs.toronto.edu/~nitish/unsupervised_video/](http://www.cs.toronto.edu/~nitish/unsupervised_video/)
 - paper: [http://arxiv.org/abs/1502.04681](http://arxiv.org/abs/1502.04681)
 - code: [http://www.cs.toronto.edu/~nitish/unsupervised_video/unsup_video_lstm.tar.gz](http://www.cs.toronto.edu/~nitish/unsupervised_video/unsup_video_lstm.tar.gz)
+- github: [https://github.com/emansim/unsupervised-videos](https://github.com/emansim/unsupervised-videos)
 
 **LSTM: A Search Space Odyssey**
 
