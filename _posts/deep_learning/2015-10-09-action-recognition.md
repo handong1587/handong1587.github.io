@@ -40,3 +40,7 @@ extract saptio-temporal features to represent the video using the CNNs."
 - arXiv: [http://arxiv.org/abs/1511.04119](http://arxiv.org/abs/1511.04119)
 - project page: [http://shikharsharma.com/projects/action-recognition-attention/](http://shikharsharma.com/projects/action-recognition-attention/)
 - github(Python/Theano): [https://github.com/kracwarlock/action-recognition-visual-attention](https://github.com/kracwarlock/action-recognition-visual-attention)
+
+**Multi-velocity neural networks for gesture recognition in videos**
+
+- arxiv: [http://arxiv.org/abs/1603.06829](http://arxiv.org/abs/1603.06829)
