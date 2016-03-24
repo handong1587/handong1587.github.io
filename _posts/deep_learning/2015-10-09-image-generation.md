@@ -48,6 +48,7 @@ date: 2015-10-09
 **Generating Images from Captions with Attention**
 
 - arXiv: [http://arxiv.org/abs/1511.02793](http://arxiv.org/abs/1511.02793)
+- github: [https://github.com/emansim/text2image](https://github.com/emansim/text2image)
 - demo: [http://www.cs.toronto.edu/~emansim/cap2im.html](http://www.cs.toronto.edu/~emansim/cap2im.html)
 
 **Attribute2Image: Conditional Image Generation from Visual Attributes**

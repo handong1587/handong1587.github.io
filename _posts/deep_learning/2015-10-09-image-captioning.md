@@ -63,6 +63,7 @@ after the embedding and recurrent layers of the RNN."
 **Generating Images from Captions with Attention**
 
 - arXiv: [http://arxiv.org/abs/1511.02793](http://arxiv.org/abs/1511.02793)
+- github: [https://github.com/emansim/text2image](https://github.com/emansim/text2image)
 - demo: [http://www.cs.toronto.edu/~emansim/cap2im.html](http://www.cs.toronto.edu/~emansim/cap2im.html)
 
 **Order-Embeddings of Images and Language**

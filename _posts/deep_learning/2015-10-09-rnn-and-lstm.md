@@ -224,6 +224,8 @@ date: 2015-10-09
 **Generating Images from Captions with Attention**
 
 - arxiv: [http://arxiv.org/abs/1511.02793](http://arxiv.org/abs/1511.02793)
+- github: [https://github.com/emansim/text2image](https://github.com/emansim/text2image)
+- demo: [http://www.cs.toronto.edu/~emansim/cap2im.html](http://www.cs.toronto.edu/~emansim/cap2im.html)
 
 **Attention and Memory in Deep Learning and NLP**
 
