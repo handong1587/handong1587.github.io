@@ -153,6 +153,10 @@ date: 2015-10-09
 - blog: [https://keunwoochoi.wordpress.com/2016/02/19/lstm-realbook/](https://keunwoochoi.wordpress.com/2016/02/19/lstm-realbook/)
 - github: [https://github.com/keunwoochoi/lstm_real_book](https://github.com/keunwoochoi/lstm_real_book)
 
+**LSTMetallica: Generation drum tracks by learning the drum tracks of 60 Metallica songs**
+
+- blog: [https://keunwoochoi.wordpress.com/2016/02/23/lstmetallica/](https://keunwoochoi.wordpress.com/2016/02/23/lstmetallica/)
+
 # Video
 
 **Instructions for making a Neural-Style movie**
