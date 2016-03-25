@@ -11,6 +11,10 @@ date: 2015-08-27
 
 - blog: [http://mattmazur.com/2015/03/17/a-step-by-step-backpropagation-example/](http://mattmazur.com/2015/03/17/a-step-by-step-backpropagation-example/)
 
+**Artificial Neural Networks (ANN) Introduction**
+
+- blog: [https://annalyzin.wordpress.com/2016/03/13/how-do-computers-recognise-handwriting-using-artificial-neural-networks/](https://annalyzin.wordpress.com/2016/03/13/how-do-computers-recognise-handwriting-using-artificial-neural-networks/)
+
 # Papers
 
 **A Fast C++ Implementation of Neural Network Backpropagation Training Algorithm: Application to Bayesian Optimal Image Demosaicking**
