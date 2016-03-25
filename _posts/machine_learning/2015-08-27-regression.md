@@ -24,3 +24,7 @@ date: 2015-08-27
 **Guide to an in-depth understanding of logistic regression**
 
 - blog: [http://www.dataschool.io/guide-to-logistic-regression/](http://www.dataschool.io/guide-to-logistic-regression/)
+
+**Linear Regression for Machine Learning**
+
+[http://machinelearningmastery.com/linear-regression-for-machine-learning/](http://machinelearningmastery.com/linear-regression-for-machine-learning/)
