@@ -16,6 +16,12 @@ that provides a simple interface for defining and accessing command line argumen
 
 - blog: [http://nadeausoftware.com/articles/2012/07/c_c_tip_how_get_process_resident_set_size_physical_memory_use](http://nadeausoftware.com/articles/2012/07/c_c_tip_how_get_process_resident_set_size_physical_memory_use)
 
+# Books
+
+**Adcanced Linux Programming**
+
+[http://advancedlinuxprogramming.com/](http://advancedlinuxprogramming.com/)
+
 # Resources
 
 **openFrameworks: an open source C++ toolkit for creative coding.**
