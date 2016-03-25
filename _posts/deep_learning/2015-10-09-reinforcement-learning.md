@@ -164,6 +164,11 @@ date: 2015-10-09
 
 - github: [https://github.com/SeanNaren/TorchQLearningExample](https://github.com/SeanNaren/TorchQLearningExample)
 
+**General_Deep_Q_RL: General deep Q learning framework**
+
+- github: [https://github.com/VinF/General_Deep_Q_RL](https://github.com/VinF/General_Deep_Q_RL)
+- wiki: [https://github.com/VinF/General_Deep_Q_RL/wiki](https://github.com/VinF/General_Deep_Q_RL/wiki)
+
 # Blogs
 
 **A Short Introduction To Some Reinforcement Learning Algorithms**
