@@ -410,6 +410,10 @@ with fast exact probabilistic inference over many layers."
 **Harnessing Deep Neural Networks with Logic Rules**
 
  - arxiv: [http://arxiv.org/abs/1603.06318](http://arxiv.org/abs/1603.06318)
+ 
+ **A guide to convolution arithmetic for deep learning**
+ 
+ - arxiv: [http://arxiv.org/abs/1603.07285](http://arxiv.org/abs/1603.07285)
 
 # Codes
 
