@@ -117,3 +117,7 @@ using the stochastic gradient descent (SGD) algorithm to obtain fine pixel-level
 
 - intro: "1st-place winner of MS COCO 2015 segmentation competition"
 - arxiv: [http://arxiv.org/abs/1512.04412](http://arxiv.org/abs/1512.04412)
+
+**Semantic Object Parsing with Graph LSTM**
+
+- arxiv: [http://arxiv.org/abs/1603.07063](http://arxiv.org/abs/1603.07063)
