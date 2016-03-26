@@ -69,3 +69,9 @@ date: 2016-01-26
 **International Conference on Computer Vision (ICCV) 2015, Santiago**
 
 [http://videolectures.net/iccv2015_santiago/](http://videolectures.net/iccv2015_santiago/)
+
+**Deep Learning and the Future of AI**
+
+- author: by Prof. Yann LeCun (Director of AI Research at Facebook & Professor at NYU)
+- homapage: [http://indico.cern.ch/event/510372/](http://indico.cern.ch/event/510372/)
+- slides: [http://indico.cern.ch/event/510372/attachments/1245509/1840815/lecun-20160324-cern.pdf](http://indico.cern.ch/event/510372/attachments/1245509/1840815/lecun-20160324-cern.pdf)
