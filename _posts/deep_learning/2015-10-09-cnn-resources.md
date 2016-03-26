@@ -10,6 +10,16 @@ date: 2015-10-09
 
 # Tutorials
 
+**Notes on Convolutional Neural Networks**
+
+- homepage: [http://cogprints.org/5869/](http://cogprints.org/5869/)
+- paper: [http://cogprints.org/5869/1/cnn_tutorial.pdf](http://cogprints.org/5869/1/cnn_tutorial.pdf)
+
+**A guide to convolution arithmetic for deep learning**
+
+- arxiv: [http://arxiv.org/abs/1603.07285](http://arxiv.org/abs/1603.07285)
+- github: [https://github.com/vdumoulin/conv_arithmetic](https://github.com/vdumoulin/conv_arithmetic)
+
 **Convolutional Networks**
 
 [http://deeplearning4j.org/convolutionalnets.html](http://deeplearning4j.org/convolutionalnets.html)
