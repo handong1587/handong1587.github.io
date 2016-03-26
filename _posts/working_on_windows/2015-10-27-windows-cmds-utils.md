@@ -56,3 +56,10 @@ and then make some action on them - Modify their created/modified/accessed time,
 change their file attribute (Read Only, Hidden, System), 
 run an executable with these files as parameter, and copy/cut paste into Explorer."
 - website: [http://www.nirsoft.net/utils/bulk_file_changer.html](http://www.nirsoft.net/utils/bulk_file_changer.html)
+
+**AVS Video ReMaker**
+
+- intro: Edit AVI, VOB, MP4, DVD, Blu-ray, TS, MKV, 
+HD-videos fast and without reconversion.
+Burn Blu-ray or DVD discs with menus.
+- website: [http://www.avs4you.com/AVS-Video-ReMaker.aspx](http://www.avs4you.com/AVS-Video-ReMaker.aspx)
