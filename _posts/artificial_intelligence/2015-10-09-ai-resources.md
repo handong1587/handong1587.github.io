@@ -5,6 +5,13 @@ title: Artificial Intelligence Resources
 date: 2015-10-01
 ---
 
+# Books
+
+**Notes on Artificial Intelligence (open source notebook)**
+
+- homepage: [http://frnsys.com/ai_notes/](http://frnsys.com/ai_notes/)
+- github: [https://github.com/frnsys/ai_notes](https://github.com/frnsys/ai_notes)
+
 # Blogs
 
 **Artificial Intelligence Today**
