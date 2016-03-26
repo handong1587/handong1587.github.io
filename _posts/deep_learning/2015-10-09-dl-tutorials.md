@@ -98,3 +98,7 @@ date: 2015-10-09
 **Deep Neural Networks— An Overview**
 
 [https://medium.com/@asjad/deep-neural-networks-an-overview-480112b12a13#.i7apzmnso](https://medium.com/@asjad/deep-neural-networks-an-overview-480112b12a13#.i7apzmnso)
+
+**A Tutorial on Deep Neural Networks for Intelligent Systems**
+
+- arxiv: [http://arxiv.org/abs/1603.07249](http://arxiv.org/abs/1603.07249)
