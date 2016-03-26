@@ -63,3 +63,10 @@ run an executable with these files as parameter, and copy/cut paste into Explore
 HD-videos fast and without reconversion.
 Burn Blu-ray or DVD discs with menus.
 - website: [http://www.avs4you.com/AVS-Video-ReMaker.aspx](http://www.avs4you.com/AVS-Video-ReMaker.aspx)
+
+**AVS Audio Editor**
+
+- intro: Cut, join, trim, mix, delete parts, split audio files.
+Apply various effects and filters. Record audio from various inputs. Save files to all key audio formats.
+- website: [http://www.avs4you.com/AVS-Audio-Editor.aspx](http://www.avs4you.com/AVS-Audio-Editor.aspx)
+
