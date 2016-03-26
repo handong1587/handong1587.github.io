@@ -158,6 +158,11 @@ date: 2015-10-09
 
 - github: [https://github.com/yenchenlin1994/DeepLearningFlappyBird](https://github.com/yenchenlin1994/DeepLearningFlappyBird)
 
+**用Tensorflow基于Deep Q Learning DQN 玩Flappy Bird**
+
+- blog: [http://blog.csdn.net/songrotek/article/details/50951537](http://blog.csdn.net/songrotek/article/details/50951537)
+- github: [https://github.com/songrotek/DRL-FlappyBird](https://github.com/songrotek/DRL-FlappyBird)
+
 **TorchQLearning**
 
 ![](https://raw.githubusercontent.com/SeanNaren/TorchQLearningExample/master/images/torchplayscatch.gif)
