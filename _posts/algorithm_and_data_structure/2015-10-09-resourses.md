@@ -27,6 +27,10 @@ date: 2015-07-01
 
 [http://www.cs.princeton.edu/courses/archive/fall15/cos521/](http://www.cs.princeton.edu/courses/archive/fall15/cos521/)
 
+**MIT: 6.006  Introduction to Algorithms**
+
+[https://stellar.mit.edu/S/course/6/sp16/6.006/materials.html](https://stellar.mit.edu/S/course/6/sp16/6.006/materials.html)
+
 # Codes
 
 **Bloofi: A java implementation of multidimensional Bloom filters**
