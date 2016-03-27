@@ -516,6 +516,10 @@ with fast exact probabilistic inference over many layers."
 
 [https://medium.com/@jiefeng/deep-learning-playbook-c5ebe34f8a1a#.eg9cdz5ak](https://medium.com/@jiefeng/deep-learning-playbook-c5ebe34f8a1a#.eg9cdz5ak)
 
+**Deep Learning Study: Study of HeXA@UNIST in Preparation for Submission**
+
+- github: [https://github.com/carpedm20/deep-learning-study](https://github.com/carpedm20/deep-learning-study)
+
 # Tools
 
 **DNNGraph - A deep neural network model generation DSL in Haskell**
