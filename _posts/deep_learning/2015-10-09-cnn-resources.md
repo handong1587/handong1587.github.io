@@ -201,6 +201,10 @@ Bicubic VS. Shepard CNN
 
 - reddit: [https://www.reddit.com/over18?dest=https%3A%2F%2Fwww.reddit.com%2Fr%2FMachineLearning%2Fcomments%2F33n77s%2Fandroid_app_nipple_detection_using_convolutional%2F](https://www.reddit.com/over18?dest=https%3A%2F%2Fwww.reddit.com%2Fr%2FMachineLearning%2Fcomments%2F33n77s%2Fandroid_app_nipple_detection_using_convolutional%2F)
 
+**Applying deep learning to classify pornographic images and videos**
+
+- arxiv: [http://arxiv.org/abs/1511.08899](http://arxiv.org/abs/1511.08899)
+
 **Learning Representations for Automatic Colorization**
 
 - arxiv: [http://arxiv.org/abs/1603.06668](http://arxiv.org/abs/1603.06668)
