@@ -152,3 +152,4 @@ to decompose it into the multiplications of thinned dense matrices"
 ![](https://camo.githubusercontent.com/376828536285f7a1a4f054aaae998e805023f489/68747470733a2f2f6d6172617479737a637a612e6769746875622e696f2f4e4e5041434b2f4e4e5041434b2e706e67)
 
 - github: [https://github.com/Maratyszcza/NNPACK](https://github.com/Maratyszcza/NNPACK)
+- comments(Yann LeCun): [https://www.facebook.com/yann.lecun/posts/10153459577707143](https://www.facebook.com/yann.lecun/posts/10153459577707143)
