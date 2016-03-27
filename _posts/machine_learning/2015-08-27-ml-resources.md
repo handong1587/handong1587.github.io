@@ -338,6 +338,10 @@ Other awesome lists can be found in this [list](https://github.com/sindresorhus/
 
 - blog: [http://eferm.com/machine-learning-cheat-sheet/](http://eferm.com/machine-learning-cheat-sheet/)
 
+**Annalyzin: Analytics For Layman, with Tutorials & Experiments**
+
+[https://annalyzin.wordpress.com/](https://annalyzin.wordpress.com/)
+
 # Books
 
 **Machine Learning plus Intelligent Optimization: THE LION WAY, VERSION 2.0**
