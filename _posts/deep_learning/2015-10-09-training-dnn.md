@@ -196,6 +196,12 @@ date: 2015-10-09
 
 [http://machinelearningmastery.com/gradient-descent-for-machine-learning/](http://machinelearningmastery.com/gradient-descent-for-machine-learning/)
 
+# Accelerate Training
+
+**Acceleration of Deep Neural Network Training with Resistive Cross-Point Devices**
+
+- arxiv: [http://arxiv.org/abs/1603.07341](http://arxiv.org/abs/1603.07341)
+
 # Papers
 
 **Scalable and Sustainable Deep Learning via Randomized Hashing**
