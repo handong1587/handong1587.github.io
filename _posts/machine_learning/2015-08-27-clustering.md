@@ -80,6 +80,10 @@ date: 2015-08-27
 
 [http://johnloeber.com/docs/kmeans.html](http://johnloeber.com/docs/kmeans.html)
 
+**Improved Seeding For Clustering With K-Means++ (★★★★★)**
+
+[https://datasciencelab.wordpress.com/2014/01/15/improved-seeding-for-clustering-with-k-means/](https://datasciencelab.wordpress.com/2014/01/15/improved-seeding-for-clustering-with-k-means/)
+
 # Codes
 
 **MusicMappr: Find patterns in your favorite songs and remix them on the fly!**
