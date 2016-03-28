@@ -33,6 +33,7 @@ date: 2015-10-09
 **Decision Forests, Convolutional Networks and the Models in-Between**
 
 - arxiv: [http://arxiv.org/abs/1603.01250](http://arxiv.org/abs/1603.01250)
+- notes: [http://blog.csdn.net/stdcoutzyx/article/details/50993124](http://blog.csdn.net/stdcoutzyx/article/details/50993124)
 
 # SVM
 
