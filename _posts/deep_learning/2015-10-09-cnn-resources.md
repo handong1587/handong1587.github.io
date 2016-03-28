@@ -112,6 +112,8 @@ Bicubic VS. Shepard CNN
 
 **Emotion Recognition in the Wild via Convolutional Neural Networks and Mapped Binary Patterns**
 
+![](http://www.openu.ac.il/home/hassner/projects/cnn_emotions/teaser.png)
+
 - project page: [http://www.openu.ac.il/home/hassner/projects/cnn_emotions/](http://www.openu.ac.il/home/hassner/projects/cnn_emotions/)
 - papre: [http://www.openu.ac.il/home/hassner/projects/cnn_emotions/LeviHassnerICMI15.pdf](http://www.openu.ac.il/home/hassner/projects/cnn_emotions/LeviHassnerICMI15.pdf)
 - github: [https://gist.github.com/GilLevi/54aee1b8b0397721aa4b](https://gist.github.com/GilLevi/54aee1b8b0397721aa4b)
