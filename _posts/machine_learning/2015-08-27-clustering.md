@@ -44,6 +44,10 @@ date: 2015-08-27
 
 - paper: [http://jmlr.org/papers/v17/khaleghi16a.html](http://jmlr.org/papers/v17/khaleghi16a.html)
 
+**Hybridization of Expectation-Maximization and K-Means Algorithms for Better Clustering Performance**
+
+- arxiv: [http://arxiv.org/abs/1603.07879](http://arxiv.org/abs/1603.07879)
+
 # Books
 
 **Introduction to Clustering and Unsupervised Learning | PACKT Books**
