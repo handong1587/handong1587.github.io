@@ -110,6 +110,12 @@ Bicubic VS. Shepard CNN
 - paper: [http://arxiv.org/abs/1408.3750v1](http://arxiv.org/abs/1408.3750v1)
 - code: [https://github.com/Zebreu/ConvolutionalEmotion](https://github.com/Zebreu/ConvolutionalEmotion)
 
+**Emotion Recognition in the Wild via Convolutional Neural Networks and Mapped Binary Patterns**
+
+- project page: [http://www.openu.ac.il/home/hassner/projects/cnn_emotions/](http://www.openu.ac.il/home/hassner/projects/cnn_emotions/)
+- papre: [http://www.openu.ac.il/home/hassner/projects/cnn_emotions/LeviHassnerICMI15.pdf](http://www.openu.ac.il/home/hassner/projects/cnn_emotions/LeviHassnerICMI15.pdf)
+- github: [https://gist.github.com/GilLevi/54aee1b8b0397721aa4b](https://gist.github.com/GilLevi/54aee1b8b0397721aa4b)
+
 **DeXpression: Deep Convolutional Neural Network for Expression Recognition**
 
 - paper: [http://arxiv.org/abs/1509.05371](http://arxiv.org/abs/1509.05371)
