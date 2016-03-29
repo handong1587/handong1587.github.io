@@ -69,6 +69,7 @@ date: 2015-10-09
 **Resnet in Resnet: Generalizing Residual Architectures**
 
 - paper: [http://beta.openreview.net/forum?id=lx9l4r36gU2OVPy8Cv9g](http://beta.openreview.net/forum?id=lx9l4r36gU2OVPy8Cv9g)
+- arxiv: [http://arxiv.org/abs/1603.08029](http://arxiv.org/abs/1603.08029)
 
 **Identity Mappings in Deep Residual Networks (by Kaiming He)**
 
