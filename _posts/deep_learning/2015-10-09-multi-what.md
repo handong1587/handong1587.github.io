@@ -30,6 +30,7 @@ date: 2015-10-09
 **From Softmax to Sparsemax: A Sparse Model of Attention and Multi-Label Classification**
 
 - arxiv: [http://arxiv.org/abs/1602.02068](http://arxiv.org/abs/1602.02068)
+- github: [https://github.com/gokceneraslan/SparseMax.torch](https://github.com/gokceneraslan/SparseMax.torch)
 
 # Multi-task Learning
 
