@@ -44,3 +44,7 @@ extract saptio-temporal features to represent the video using the CNNs."
 **Multi-velocity neural networks for gesture recognition in videos**
 
 - arxiv: [http://arxiv.org/abs/1603.06829](http://arxiv.org/abs/1603.06829)
+
+**ActivityNet: A Large-Scale Video Benchmark for Human Activity Understanding**
+
+- homepage: [http://activity-net.org/](http://activity-net.org/)
