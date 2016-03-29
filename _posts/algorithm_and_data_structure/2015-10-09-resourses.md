@@ -31,6 +31,11 @@ date: 2015-07-01
 
 [https://stellar.mit.edu/S/course/6/sp16/6.006/materials.html](https://stellar.mit.edu/S/course/6/sp16/6.006/materials.html)
 
+**Datastructures and Algorithms (at Amsterdam University College) 2015-2016**
+
+- homepage: [http://www.cs.vu.nl/~tcs/datalg/](http://www.cs.vu.nl/~tcs/datalg/)
+- slides: [http://www.cs.vu.nl/~tcs/datalg/datalg-slides.pdf](http://www.cs.vu.nl/~tcs/datalg/datalg-slides.pdf)
+
 # Codes
 
 **Bloofi: A java implementation of multidimensional Bloom filters**
