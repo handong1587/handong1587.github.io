@@ -169,6 +169,7 @@ date: 2015-10-09
 **A Theoretically Grounded Application of Dropout in Recurrent Neural Networks**
 
 - arxiv: [http://arxiv.org/abs/1512.05287](http://arxiv.org/abs/1512.05287)
+- github: [https://github.com/yaringal/BayesianRNN](https://github.com/yaringal/BayesianRNN)
 
 **Improved Dropout for Shallow and Deep Learning**
 
