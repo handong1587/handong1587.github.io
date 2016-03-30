@@ -36,6 +36,10 @@ date: 2015-10-09
 - slides: [http://www.robots.ox.ac.uk/~karen/pdf/ILSVRC_2014.pdf](http://www.robots.ox.ac.uk/~karen/pdf/ILSVRC_2014.pdf)
 - slides: [http://deeplearning.cs.cmu.edu/slides.2015/25.simonyan.pdf](http://deeplearning.cs.cmu.edu/slides.2015/25.simonyan.pdf)
 
+**Tensorflow VGG16 and VGG19**
+
+- github: [https://github.com/machrisaa/tensorflow-vgg](https://github.com/machrisaa/tensorflow-vgg)
+
 ## Inception-v3
 
 **Rethinking the Inception Architecture for Computer Vision**
