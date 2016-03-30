@@ -28,3 +28,7 @@ date: 2015-08-27
 **Linear Regression for Machine Learning**
 
 [http://machinelearningmastery.com/linear-regression-for-machine-learning/](http://machinelearningmastery.com/linear-regression-for-machine-learning/)
+
+**Regression, Logistic Regression and Maximum Entropy**
+
+[http://ataspinar.com/2016/03/28/regression-logistic-regression-and-maximum-entropy/](http://ataspinar.com/2016/03/28/regression-logistic-regression-and-maximum-entropy/)
