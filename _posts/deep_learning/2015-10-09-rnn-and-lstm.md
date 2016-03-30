@@ -306,6 +306,10 @@ date: 2015-10-09
 
 [https://medium.com/@shiyan/understanding-lstm-and-its-diagrams-37e2f46f1714](https://medium.com/@shiyan/understanding-lstm-and-its-diagrams-37e2f46f1714)
 
+**Persistent RNNs: 30 times faster RNN layers at small mini-batch sizes (Greg Diamos, Baidu Silicon Valley AI Lab)**
+
+[http://svail.github.io/persistent_rnns/](http://svail.github.io/persistent_rnns/)
+
 # Resources
 
 **Awesome-rnn - A curated list of resources dedicated to RNN**
