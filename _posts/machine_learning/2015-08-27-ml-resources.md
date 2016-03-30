@@ -398,6 +398,11 @@ Other awesome lists can be found in this [list](https://github.com/sindresorhus/
 - github: [https://github.com/denizyuret/Knet.jl](https://github.com/denizyuret/Knet.jl)
 - doc: [https://knet.readthedocs.org/en/latest/](https://knet.readthedocs.org/en/latest/)
 
+**DynaML: Scala Library/REPL for Machine Learning Research**
+
+- homepage: [http://mandar2812.github.io/DynaML/](http://mandar2812.github.io/DynaML/)
+- github: [https://github.com/mandar2812/DynaML/](https://github.com/mandar2812/DynaML/)
+
 # Readings and Questions
 
 **(Quora): What are the top 10 data mining or machine learning algorithms?**
