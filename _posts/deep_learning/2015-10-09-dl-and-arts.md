@@ -107,6 +107,10 @@ date: 2015-10-09
 
 - github: [https://github.com/DmitryUlyanov/fast-neural-doodle](https://github.com/DmitryUlyanov/fast-neural-doodle)
 
+**Stylenet: Neural Network with Style Synthesis**
+
+- github: [https://github.com/machrisaa/stylenet](https://github.com/machrisaa/stylenet)
+
 # Music
 
 **GRUV: Algorithmic Music Generation using Recurrent Neural Networks**
