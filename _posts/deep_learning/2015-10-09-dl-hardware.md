@@ -45,6 +45,12 @@ date: 2015-10-09
 - youtube: [https://www.youtube.com/watch?v=JwgoC-1V_38](https://www.youtube.com/watch?v=JwgoC-1V_38)
 - video: [http://pan.baidu.com/s/1pKrSvOZ](http://pan.baidu.com/s/1pKrSvOZ)
 
+**Modern GPU 2.0: Design patterns for GPU computing**
+
+- intro: Modern GPU is code and commentary intended to promote new and productive ways of thinking about GPU computing.
+- homepage: [http://nvlabs.github.io/moderngpu/](http://nvlabs.github.io/moderngpu/)
+- github: [https://github.com/nvlabs/moderngpu](https://github.com/nvlabs/moderngpu)
+
 # FPGA
 
 **Recurrent Neural Networks Hardware Implementation on FPGA**
