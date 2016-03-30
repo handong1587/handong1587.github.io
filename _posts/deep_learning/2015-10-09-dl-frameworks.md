@@ -327,6 +327,9 @@ date: 2015-10-09
 
 - github: [https://github.com/samjabrahams/tensorflow-on-raspberry-pi](https://github.com/samjabrahams/tensorflow-on-raspberry-pi)
 
+**LearningTensorFlow.com: A beginners guide to a powerful framework.**
+- homepge: [http://learningtensorflow.com/index.html](http://learningtensorflow.com/index.html)
+
 # Theano
 
 **Theano**
