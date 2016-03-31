@@ -419,6 +419,10 @@ with fast exact probabilistic inference over many layers."
  **A guide to convolution arithmetic for deep learning**
  
  - arxiv: [http://arxiv.org/abs/1603.07285](http://arxiv.org/abs/1603.07285)
+ 
+ **Degrees of Freedom in Deep Neural Networks**
+ 
+- arxiv: [http://arxiv.org/abs/1603.09260](http://arxiv.org/abs/1603.09260)
 
 # Codes
 
