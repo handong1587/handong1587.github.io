@@ -241,6 +241,10 @@ date: 2015-10-09
 
 - arxiv: [http://arxiv.org/abs/1602.08118](http://arxiv.org/abs/1602.08118)
 
+**Recurrent Batch Normalization**
+
+- arxiv: [http://arxiv.org/abs/1603.09025](http://arxiv.org/abs/1603.09025)
+
 # Codes
 
 **NeuralTalk (Deprecated): a Python+numpy project for learning Multimodal Recurrent Neural Networks that describe images with sentences**
