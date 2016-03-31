@@ -111,6 +111,12 @@ date: 2015-10-09
 
 - github: [https://github.com/machrisaa/stylenet](https://github.com/machrisaa/stylenet)
 
+**Ostagram**
+
+- intro: This program presents web-service for algorithm combining the content of one image 
+with the style of another image using convolutional neural networks
+- github: [https://github.com/SergeyMorugin/ostagram](https://github.com/SergeyMorugin/ostagram)
+
 # Music
 
 **GRUV: Algorithmic Music Generation using Recurrent Neural Networks**
