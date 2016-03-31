@@ -274,6 +274,10 @@ and 1.15s per image with it".
 
 - arxiv: [http://arxiv.org/abs/1601.05150](http://arxiv.org/abs/1601.05150)
 
+**We don't need no bounding-boxes: Training object class detectors using only human verification**
+
+- arxiv: [http://arxiv.org/abs/1602.08405](http://arxiv.org/abs/1602.08405)
+
 # Specific Object Deteciton
 
 **End-to-end people detection in crowded scenes**
