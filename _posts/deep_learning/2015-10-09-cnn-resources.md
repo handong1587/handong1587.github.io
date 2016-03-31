@@ -217,6 +217,13 @@ Bicubic VS. Shepard CNN
 
 - arxiv: [http://arxiv.org/abs/1603.06668](http://arxiv.org/abs/1603.06668)
 
+**Colorful Image Colorization**
+
+![](http://richzhang.github.io/colorization/resources/images/teaser3.jpg)
+
+- project page: [http://richzhang.github.io/colorization/](http://richzhang.github.io/colorization/)
+- arxiv: [http://arxiv.org/abs/1603.08511](http://arxiv.org/abs/1603.08511)
+
 # Blogs
 
 **Automatic Colorization (Tensorflow + VGG)**
