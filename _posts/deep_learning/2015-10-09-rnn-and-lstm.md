@@ -323,3 +323,9 @@ date: 2015-10-09
 **Jürgen Schmidhuber's page on Recurrent Neural Networks**
 
 [http://people.idsia.ch/~juergen/rnn.html](http://people.idsia.ch/~juergen/rnn.html)
+
+# Reading and Questions
+
+**Are there any Recurrent convolutional neural network network implementations out there ?**
+
+- reddit: [https://www.reddit.com/r/MachineLearning/comments/4chu3y/are_there_any_recurrent_convolutional_neural/](https://www.reddit.com/r/MachineLearning/comments/4chu3y/are_there_any_recurrent_convolutional_neural/)
