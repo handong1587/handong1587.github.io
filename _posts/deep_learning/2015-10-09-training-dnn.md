@@ -156,6 +156,10 @@ date: 2015-10-09
 - gitxiv: [http://gitxiv.com/posts/rJucpiQiDhQ7HkZoX/regularization-of-neural-networks-using-dropconnect](http://gitxiv.com/posts/rJucpiQiDhQ7HkZoX/regularization-of-neural-networks-using-dropconnect)
 - github: [https://github.com/iassael/torch-dropconnect](https://github.com/iassael/torch-dropconnect)
 
+**Regularizing neural networks with dropout and with DropConnect**
+
+- blog: [http://fastml.com/regularizing-neural-networks-with-dropout-and-with-dropconnect/](http://fastml.com/regularizing-neural-networks-with-dropout-and-with-dropconnect/)
+
 **Fast dropout training**
 
 - paper: [http://jmlr.org/proceedings/papers/v28/wang13a.pdf](http://jmlr.org/proceedings/papers/v28/wang13a.pdf)
