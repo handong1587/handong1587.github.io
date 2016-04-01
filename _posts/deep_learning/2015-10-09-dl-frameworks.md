@@ -330,6 +330,11 @@ date: 2015-10-09
 **LearningTensorFlow.com: A beginners guide to a powerful framework.**
 - homepge: [http://learningtensorflow.com/index.html](http://learningtensorflow.com/index.html)
 
+**TFLearn: Deep learning library featuring a higher-level API for TensorFlow**
+
+- github: [https://github.com/tflearn/tflearn](https://github.com/tflearn/tflearn)
+- homepage: [http://tflearn.org/](http://tflearn.org/)
+
 # Theano
 
 **Theano**
