@@ -26,3 +26,10 @@ date: 2015-08-27
 **2 Graphical Models in a Nutshell**
 
 [http://ai.stanford.edu/~koller/Papers/Koller+al:SRL07.pdf](http://ai.stanford.edu/~koller/Papers/Koller+al:SRL07.pdf)
+
+# Tools/Libraries
+
+**pomegranate: Fast, flexible and easy to use probabilistic modelling in Python**
+
+- github: [https://github.com/jmschrei/pomegranate](https://github.com/jmschrei/pomegranate)
+- docs: [http://pomegranate.readthedocs.org/en/latest/](http://pomegranate.readthedocs.org/en/latest/)
