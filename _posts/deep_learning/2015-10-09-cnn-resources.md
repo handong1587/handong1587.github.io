@@ -266,4 +266,5 @@ Bicubic VS. Shepard CNN
 
 ![](https://sfault-image.b0.upaiyun.com/151/531/1515312697-56f91edbf29d6_articlex)
 
-[http://mengqi92.github.io/2015/10/06/convolution/](http://mengqi92.github.io/2015/10/06/convolution/)
+- blog: [http://mengqi92.github.io/2015/10/06/convolution/](http://mengqi92.github.io/2015/10/06/convolution/)
+- blog: [https://segmentfault.com/a/1190000004706582](https://segmentfault.com/a/1190000004706582)
