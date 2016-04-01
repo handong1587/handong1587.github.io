@@ -2,7 +2,7 @@
 layout: post
 category: deep_learning
 title: Keep Up With New Trends
-date: 2016-01-26
+date: 2016-04-01
 ---
 
 **NIPS 2015 Deep Learning Tutorial Notes**
@@ -75,3 +75,7 @@ date: 2016-01-26
 - author: by Prof. Yann LeCun (Director of AI Research at Facebook & Professor at NYU)
 - homapage: [http://indico.cern.ch/event/510372/](http://indico.cern.ch/event/510372/)
 - slides: [http://indico.cern.ch/event/510372/attachments/1245509/1840815/lecun-20160324-cern.pdf](http://indico.cern.ch/event/510372/attachments/1245509/1840815/lecun-20160324-cern.pdf)
+
+**Science: Table of Contents: Artificial Intelligence**
+
+[http://science.sciencemag.org/content/349/6245.toc](http://science.sciencemag.org/content/349/6245.toc)
