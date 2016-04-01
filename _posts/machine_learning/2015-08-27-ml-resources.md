@@ -369,6 +369,10 @@ Other awesome lists can be found in this [list](https://github.com/sindresorhus/
 
 [https://medium.com/@xamat/10-more-lessons-learned-from-building-real-life-ml-systems-part-i-b309cafc7b5e#.h7rh0gxlv](https://medium.com/@xamat/10-more-lessons-learned-from-building-real-life-ml-systems-part-i-b309cafc7b5e#.h7rh0gxlv)
 
+**Machine Learning: classifier comparison using Plotly**
+
+[http://nbviewer.jupyter.org/github/etpinard/plotly-misc-nbs/blob/master/ml-classifier-comp/ml-classifier-comp.ipynb](http://nbviewer.jupyter.org/github/etpinard/plotly-misc-nbs/blob/master/ml-classifier-comp/ml-classifier-comp.ipynb)
+
 # Machine Learning Library
 
 **LambdaNet: Purely functional artificial neural network library implemented in Haskell**
