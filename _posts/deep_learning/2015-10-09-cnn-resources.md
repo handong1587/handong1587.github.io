@@ -213,6 +213,16 @@ Bicubic VS. Shepard CNN
 
 - arxiv: [http://arxiv.org/abs/1511.08899](http://arxiv.org/abs/1511.08899)
 
+## Image Colorization
+
+**Deep Colorization**
+
+- paper: [http://www.cs.cityu.edu.hk/~qiyang/publications/iccv-15.pdf](http://www.cs.cityu.edu.hk/~qiyang/publications/iccv-15.pdf)
+
+**Learning Large-Scale Automatic Image Colorization**
+
+- paper: [http://www.cv-foundation.org/openaccess/content_iccv_2015/papers/Deshpande_Learning_Large-Scale_Automatic_ICCV_2015_paper.pdf](http://www.cv-foundation.org/openaccess/content_iccv_2015/papers/Deshpande_Learning_Large-Scale_Automatic_ICCV_2015_paper.pdf)
+
 **Learning Representations for Automatic Colorization**
 
 - arxiv: [http://arxiv.org/abs/1603.06668](http://arxiv.org/abs/1603.06668)
@@ -224,9 +234,9 @@ Bicubic VS. Shepard CNN
 - project page: [http://richzhang.github.io/colorization/](http://richzhang.github.io/colorization/)
 - arxiv: [http://arxiv.org/abs/1603.08511](http://arxiv.org/abs/1603.08511)
 
-# Blogs
-
 **Automatic Colorization (Tensorflow + VGG)**
+
+![](http://tinyclouds.org/colorize/best/6.jpg)
 
 - blog: [http://tinyclouds.org/colorize/](http://tinyclouds.org/colorize/)
 
