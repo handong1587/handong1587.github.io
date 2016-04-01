@@ -259,3 +259,11 @@ Bicubic VS. Shepard CNN
 ![](/assets/cnn-materials/nn_classify_images_live_demo.jpg)
 
 [http://ml4a.github.io/dev/demos/cifar_confusion.html#](http://ml4a.github.io/dev/demos/cifar_confusion.html#)
+
+# Blogs
+
+**我对卷积的理解**
+
+![](https://sfault-image.b0.upaiyun.com/151/531/1515312697-56f91edbf29d6_articlex)
+
+[http://mengqi92.github.io/2015/10/06/convolution/](http://mengqi92.github.io/2015/10/06/convolution/)
