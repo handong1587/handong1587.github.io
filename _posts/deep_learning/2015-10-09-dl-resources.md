@@ -424,6 +424,11 @@ with fast exact probabilistic inference over many layers."
  
 - arxiv: [http://arxiv.org/abs/1603.09260](http://arxiv.org/abs/1603.09260)
 
+**Deep Networks with Stochastic Depth**
+
+- arxiv: [http://arxiv.org/abs/1603.09382](http://arxiv.org/abs/1603.09382)
+- github: [https://github.com/yueatsprograms/Stochastic_Depth](https://github.com/yueatsprograms/Stochastic_Depth)
+
 # Codes
 
 **deepnet: Implementation of some deep learning algorithms**
