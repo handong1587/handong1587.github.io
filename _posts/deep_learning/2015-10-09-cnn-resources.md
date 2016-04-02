@@ -101,6 +101,10 @@ Bicubic VS. Shepard CNN
 
 # Blur Detection and Removal
 
+**Learning to Deblur**
+
+- arxiv: [http://arxiv.org/abs/1406.7444](http://arxiv.org/abs/1406.7444)
+
 **Learning a Convolutional Neural Network for Non-uniform Motion Blur Removal**
 
 - arxiv: [http://arxiv.org/abs/1503.00593](http://arxiv.org/abs/1503.00593)
