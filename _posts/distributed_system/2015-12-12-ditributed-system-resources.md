@@ -64,3 +64,7 @@ date: 2015-12-12
 **Hadoop, Spark, Deep Learning Mesh on Single GPU Cluster**
 
 [http://www.nextplatform.com/2016/02/24/hadoop-spark-deep-learning-mesh-on-single-gpu-cluster/](http://www.nextplatform.com/2016/02/24/hadoop-spark-deep-learning-mesh-on-single-gpu-cluster/)
+
+**The Unreasonable Effectiveness of Deep Learning on Spark**
+
+[https://databricks.com/blog/2016/04/01/unreasonable-effectiveness-of-deep-learning-on-spark.html](https://databricks.com/blog/2016/04/01/unreasonable-effectiveness-of-deep-learning-on-spark.html)
