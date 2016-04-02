@@ -99,6 +99,12 @@ Bicubic VS. Shepard CNN
 - paper: [https://papers.nips.cc/paper/5774-shepard-convolutional-neural-networks.pdf](https://papers.nips.cc/paper/5774-shepard-convolutional-neural-networks.pdf)
 - github: [https://github.com/jimmy-ren/vcnn_double-bladed/tree/master/applications/Shepard_CNN](https://github.com/jimmy-ren/vcnn_double-bladed/tree/master/applications/Shepard_CNN)
 
+# Blur Detection and Removal
+
+**Learning a Convolutional Neural Network for Non-uniform Motion Blur Removal**
+
+- arxiv: [http://arxiv.org/abs/1503.00593](http://arxiv.org/abs/1503.00593)
+
 # Interesting Application
 
 **Deeply-Learned Feature for Age Estimation**
