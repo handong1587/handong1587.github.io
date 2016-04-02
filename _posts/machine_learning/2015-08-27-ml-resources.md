@@ -416,3 +416,7 @@ Other awesome lists can be found in this [list](https://github.com/sindresorhus/
 **(Quora): What are the must read papers on data mining and machine learning?**
 
 [https://www.quora.com/What-are-the-must-read-papers-on-data-mining-and-machine-learning](https://www.quora.com/What-are-the-must-read-papers-on-data-mining-and-machine-learning)
+
+**(Quora): What would be your advice to a software engineer who wants to learn machine learning?**
+
+[https://www.quora.com/What-would-be-your-advice-to-a-software-engineer-who-wants-to-learn-machine-learning-3/answer/Alex-Smola-1](https://www.quora.com/What-would-be-your-advice-to-a-software-engineer-who-wants-to-learn-machine-learning-3/answer/Alex-Smola-1)
