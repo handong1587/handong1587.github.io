@@ -5,6 +5,12 @@ title: Distribued System Resources
 date: 2015-12-12
 ---
 
+# Courses
+
+**An introduction to distributed systems**
+
+- github: [https://github.com/aphyr/distsys-class](https://github.com/aphyr/distsys-class)
+
 # Papers
 
 **linalg: Matrix Computations in Apache Spark**
