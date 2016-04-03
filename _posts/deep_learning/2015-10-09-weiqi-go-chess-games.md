@@ -66,6 +66,12 @@ date: 2015-10-09
 
 - homepage: [http://spawk.fish/](http://spawk.fish/)
 
+**Chess position evaluation with convolutional neural network in Julia**
+
+![](http://int8.io/wp-content/uploads/2016/04/easiest_white_correct.png)
+
+- blog: [http://int8.io/chess-position-evaluation-with-convolutional-neural-networks-in-julia/](http://int8.io/chess-position-evaluation-with-convolutional-neural-networks-in-julia/)
+
 # Game
 
 **Learning Game of Life with a Convolutional Neural Network**
