@@ -225,6 +225,7 @@ bounding boxes (which are shared for these categories).
 
 - arXiv: [http://arxiv.org/abs/1512.02325](http://arxiv.org/abs/1512.02325)
 - github: [https://github.com/weiliu89/caffe/tree/ssd](https://github.com/weiliu89/caffe/tree/ssd)
+- video: [http://weibo.com/p/2304447a2326da963254c963c97fb05dd3a973](http://weibo.com/p/2304447a2326da963254c963c97fb05dd3a973)
 
 ## Inside-Outside Net
 
