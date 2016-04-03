@@ -201,11 +201,18 @@ Bicubic VS. Shepard CNN
 
 - arxiv: [http://arxiv.org/abs/1603.01068](http://arxiv.org/abs/1603.01068)
 
+## Pose Estimation 
+
 **Flowing ConvNets for Human Pose Estimation in Videos**
 
 - arxiv: [http://arxiv.org/abs/1506.02897](http://arxiv.org/abs/1506.02897)
 - homepage: [http://www.robots.ox.ac.uk/~vgg/software/cnn_heatmap/](http://www.robots.ox.ac.uk/~vgg/software/cnn_heatmap/)
 - github: [https://github.com/tpfister/caffe-heatmap](https://github.com/tpfister/caffe-heatmap)
+
+**Structured Feature Learning for Pose Estimation**
+
+- arxiv: [http://arxiv.org/abs/1603.09065](http://arxiv.org/abs/1603.09065)
+- homepage: [http://www.ee.cuhk.edu.hk/~xgwang/projectpage_structured_feature_pose.html](http://www.ee.cuhk.edu.hk/~xgwang/projectpage_structured_feature_pose.html)
 
 **Age and Gender Classification using Convolutional Neural Networks**
 
