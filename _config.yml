@@ -46,7 +46,7 @@ timezone:      null
 title: handong1587
 description: handong1587's blog
 keywords: Deep Learning
-#url: handong1587.github.io
+url: https://handong1587.github.io
 feed: /atom.xml
 favicon: /images/shortcut.jpg
 
