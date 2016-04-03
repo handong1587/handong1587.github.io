@@ -41,7 +41,6 @@ date: 2015-10-09
 **Caffe: Convolutional Architecture for Fast Feature Embedding**
 
 - github: [https://github.com/BVLC/caffe](https://github.com/BVLC/caffe)
-- github: [https://github.com/Microsoft/caffe](https://github.com/Microsoft/caffe)
 - paper: [http://arxiv.org/abs/1408.5093](http://arxiv.org/abs/1408.5093)
 - tutorial: [http://tutorial.caffe.berkeleyvision.org/](http://tutorial.caffe.berkeleyvision.org/)
 - slides: [http://vision.stanford.edu/teaching/cs231n/slides/caffe_tutorial.pdf](http://vision.stanford.edu/teaching/cs231n/slides/caffe_tutorial.pdf)
@@ -49,6 +48,10 @@ date: 2015-10-09
 - caffe-doc: [http://caffe.berkeleyvision.org/doxygen/index.html](http://caffe.berkeleyvision.org/doxygen/index.html)
 - tutorials("CAFFE with CUDA"): [http://pan.baidu.com/s/1i4kmpyH](http://pan.baidu.com/s/1i4kmpyH)
 - blog("Convolution in Caffe: a memo"): [https://github.com/Yangqing/caffe/wiki/Convolution-in-Caffe:-a-memo](https://github.com/Yangqing/caffe/wiki/Convolution-in-Caffe:-a-memo)
+
+**Caffe on both Linux and Windows**
+
+- github: [https://github.com/Microsoft/caffe](https://github.com/Microsoft/caffe)
 
 **ApolloCaffe: a fork of Caffe that supports dynamic networks**
 
@@ -66,6 +69,10 @@ date: 2015-10-09
 **caffe-android-demo: An android caffe demo app exploiting caffe pre-trained ImageNet model for image classification**
 
 - github: [https://github.com/sh1r0/caffe-android-demo](https://github.com/sh1r0/caffe-android-demo)
+
+**DIY Deep Learning for Vision: a Hands-On Tutorial with Caffe**
+
+- homepage: [http://tutorial.caffe.berkeleyvision.org/](http://tutorial.caffe.berkeleyvision.org/)
 
 - - -
 
@@ -363,6 +370,10 @@ date: 2015-10-09
 **loadcaffe: Load Caffe networks in Torch7**
 
 - github: [https://github.com/szagoruyko/loadcaffe](https://github.com/szagoruyko/loadcaffe)
+
+**Applied Deep Learning for Computer Vision with Torch**
+
+- homepage: [https://github.com/soumith/cvpr2015](https://github.com/soumith/cvpr2015)
 
 # VELES
 
