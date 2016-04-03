@@ -236,6 +236,20 @@ date: 2015-10-09
 
 - reddit: [https://www.reddit.com/r/MachineLearning/comments/4b2ugc/best_reinforcement_learning_libraries/](https://www.reddit.com/r/MachineLearning/comments/4b2ugc/best_reinforcement_learning_libraries/)
 
+# Books
+
+**Reinforcement Learning: State-of-the-Art**
+
+- intro: "The main goal of this book is to present an up-to-date series of survey articles 
+on the main contemporary sub-fields of reinforcement learning. 
+This includes surveys on partially observable environments, hierarchical task decompositions, 
+relational knowledge representation and predictive state representations. 
+Furthermore, topics such as transfer, evolutionary methods and continuous spaces in reinforcement learning are surveyed. 
+In addition, several chapters review reinforcement learning methods in robotics, in games, and in computational neuroscience. 
+In total seventeen different subfields are presented by mostly young experts in those areas, 
+and together they truly represent a state-of-the-art of current reinforcement learning research."
+- book: [http://www.springer.com/gp/book/9783642276446#](http://www.springer.com/gp/book/9783642276446#)
+
 # Resources
 
 **Deep Reinforcement Learning Papers**
