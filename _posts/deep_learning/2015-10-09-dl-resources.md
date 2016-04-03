@@ -430,6 +430,10 @@ with fast exact probabilistic inference over many layers."
 - github: [https://github.com/yueatsprograms/Stochastic_Depth](https://github.com/yueatsprograms/Stochastic_Depth)
 - notes("Stochastic Depth Networks will Become the New Normal"): [http://deliprao.com/archives/134](http://deliprao.com/archives/134)
 
+**LIFT: Learned Invariant Feature Transform**
+
+- arxiv: [http://arxiv.org/abs/1603.09114](http://arxiv.org/abs/1603.09114)
+
 # Codes
 
 **deepnet: Implementation of some deep learning algorithms**
