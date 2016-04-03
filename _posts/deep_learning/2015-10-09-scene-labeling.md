@@ -33,6 +33,10 @@ not very deep with only three convolution layers."
 - blog: [http://www.nervanasys.com/using-neon-for-scene-recognition-mini-places2/](http://www.nervanasys.com/using-neon-for-scene-recognition-mini-places2/)
 - github: [https://github.com/hunterlang/mpmz](https://github.com/hunterlang/mpmz)
 
+**Attend, Infer, Repeat: Fast Scene Understanding with Generative Models**
+
+- arxiv: [http://arxiv.org/abs/1603.08575](http://arxiv.org/abs/1603.08575)
+
 # Challenges
 
 **Large-scale Scene Understanding Challenge**
