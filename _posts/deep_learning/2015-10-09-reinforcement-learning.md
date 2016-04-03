@@ -264,3 +264,9 @@ and together they truly represent a state-of-the-art of current reinforcement le
 **Deep Reinforcement Learning Papers**
 
 - github: [https://github.com/muupan/deep-reinforcement-learning-papers](https://github.com/muupan/deep-reinforcement-learning-papers)
+
+# Reading and Questions
+
+**What are the best books about reinforcement learning?**
+
+[https://www.quora.com/What-are-the-best-books-about-reinforcement-learning](https://www.quora.com/What-are-the-best-books-about-reinforcement-learning)
