@@ -296,6 +296,12 @@ Other awesome lists can be found in this [list](https://github.com/sindresorhus/
 
 - arxiv: [http://arxiv.org/abs/1603.07292](http://arxiv.org/abs/1603.07292)
 
+**"Why Should I Trust You?": Explaining the Predictions of Any Classifier**
+
+- arxiv: [http://arxiv.org/abs/1602.04938](http://arxiv.org/abs/1602.04938)
+- homepage: [http://homes.cs.washington.edu/~marcotcr/blog/lime/](http://homes.cs.washington.edu/~marcotcr/blog/lime/)
+- github: [https://github.com/marcotcr/lime](https://github.com/marcotcr/lime)
+
 # Resources
 
 **Machine Learning Surveys: A list of literature surveys, reviews, and tutorials on Machine Learning and related topics**
