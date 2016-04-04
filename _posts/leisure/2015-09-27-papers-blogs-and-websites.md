@@ -45,6 +45,12 @@ date: 2015-09-27
 
 [http://battles.nodegoat.net/viewer.p/23/385/scenario/1/geo/fullscreen](http://battles.nodegoat.net/viewer.p/23/385/scenario/1/geo/fullscreen)
 
+**Panama Papers: The Power Players**
+
+![](/assets/leisure/blogs-and-websites/panama_papers.jpg)
+
+[https://projects.icij.org/panama-papers/power-players/index.html](https://projects.icij.org/panama-papers/power-players/index.html)
+
 # APPs
 
 **Pikazo: Remix your photos into incredible artwork**
