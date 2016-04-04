@@ -12,6 +12,12 @@ date: 2015-10-01
 - homepage: [http://frnsys.com/ai_notes/](http://frnsys.com/ai_notes/)
 - github: [https://github.com/frnsys/ai_notes](https://github.com/frnsys/ai_notes)
 
+# Papers
+
+**Building Machines That Learn and Think Like People**
+
+- arxiv: [http://arxiv.org/abs/1604.00289](http://arxiv.org/abs/1604.00289)
+
 # Blogs
 
 **Artificial Intelligence Today**
