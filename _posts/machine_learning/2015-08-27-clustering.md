@@ -84,6 +84,10 @@ date: 2015-08-27
 
 [https://datasciencelab.wordpress.com/2014/01/15/improved-seeding-for-clustering-with-k-means/](https://datasciencelab.wordpress.com/2014/01/15/improved-seeding-for-clustering-with-k-means/)
 
+**Spectral Clustering – How Math is Redefining Decision Making**
+
+[http://www.datasciencecentral.com/profiles/blogs/spectral-clustering-how-math-is-redefining-decision-making?overrideMobileRedirect=1](http://www.datasciencecentral.com/profiles/blogs/spectral-clustering-how-math-is-redefining-decision-making?overrideMobileRedirect=1)
+
 # Codes
 
 **MusicMappr: Find patterns in your favorite songs and remix them on the fly!**
