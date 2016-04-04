@@ -314,6 +314,10 @@ date: 2015-10-09
 
 [http://svail.github.io/persistent_rnns/](http://svail.github.io/persistent_rnns/)
 
+**All of Recurrent Neural Networks**
+
+[https://medium.com/@jianqiangma/all-about-recurrent-neural-networks-9e5ae2936f6e#.q4s02elqg](https://medium.com/@jianqiangma/all-about-recurrent-neural-networks-9e5ae2936f6e#.q4s02elqg)
+
 # Resources
 
 **Awesome-rnn - A curated list of resources dedicated to RNN**
