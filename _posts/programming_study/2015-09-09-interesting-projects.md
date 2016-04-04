@@ -55,6 +55,15 @@ date: 2015-09-09
 - intro: "The Overmind is an agent for playing StarCraft®: Brood War®, using [BWAPI](https://code.google.com/p/bwapi/)."
 - homepage: [http://overmind.cs.berkeley.edu/](http://overmind.cs.berkeley.edu/)
 
+**Spaceship.codes - A Game for Programmers**
+
+!()[https://fotino.me/content/images/2016/04/thrust-1.png]
+
+- intro: A programming game in which the user writes JavaScript code to 
+control a spaceship in order to complete some objective.
+[https://fotino.me/intro-to-space-ai/](https://fotino.me/intro-to-space-ai/)
+[https://github.com/rfotino/space-ai](https://github.com/rfotino/space-ai)
+
 # Editing
 
 **Latex to HTML5**
