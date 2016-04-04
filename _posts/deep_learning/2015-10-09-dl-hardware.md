@@ -68,3 +68,9 @@ date: 2015-10-09
 **Deep Learning on FPGAs: Past, Present, and Future**
 
 - arxiv: [http://arxiv.org/abs/1602.04283](http://arxiv.org/abs/1602.04283)
+
+# SRAM
+
+**ShiDianNao: Shifting Vision Processing Closer to the Sensor**
+
+[http://lap.epfl.ch/files/content/sites/lap/files/shared/publications/DuJun15_ShiDianNaoShiftingVisionProcessingCloserToTheSensor_ISCA15.pdf](http://lap.epfl.ch/files/content/sites/lap/files/shared/publications/DuJun15_ShiDianNaoShiftingVisionProcessingCloserToTheSensor_ISCA15.pdf)
