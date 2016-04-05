@@ -102,3 +102,7 @@ date: 2015-10-09
 **A Tutorial on Deep Neural Networks for Intelligent Systems**
 
 - arxiv: [http://arxiv.org/abs/1603.07249](http://arxiv.org/abs/1603.07249)
+
+**Deep Learning for Computer Vision – Introduction to Convolution Neural Networks**
+
+- blog: [http://www.analyticsvidhya.com/blog/2016/04/deep-learning-computer-vision-introduction-convolution-neural-networks/](http://www.analyticsvidhya.com/blog/2016/04/deep-learning-computer-vision-introduction-convolution-neural-networks/)
