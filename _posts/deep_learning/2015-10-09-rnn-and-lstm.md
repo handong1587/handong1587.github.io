@@ -237,6 +237,18 @@ date: 2015-10-09
 
 # Train RNN
 
+**Training Recurrent Neural Networks (PhD thesis)**
+
+- atuhor: Ilya Sutskever
+- thesis: [https://www.cs.utoronto.ca/~ilya/pubs/ilya_sutskever_phd_thesis.pdf](https://www.cs.utoronto.ca/~ilya/pubs/ilya_sutskever_phd_thesis.pdf)
+
+**Deep learning for control using augmented Hessian-free optimization**
+
+- blog: [https://studywolf.wordpress.com/2016/04/04/deep-learning-for-control-using-augmented-hessian-free-optimization/](https://studywolf.wordpress.com/2016/04/04/deep-learning-for-control-using-augmented-hessian-free-optimization/)
+- github: [https://github.com/studywolf/blog/blob/master/train_AHF/train_hf.py](https://github.com/studywolf/blog/blob/master/train_AHF/train_hf.py)
+
+- - -
+
 **Hierarchical Conflict Propagation: Sequence Learning in a Recurrent Deep Neural Network**
 
 - arxiv: [http://arxiv.org/abs/1602.08118](http://arxiv.org/abs/1602.08118)
