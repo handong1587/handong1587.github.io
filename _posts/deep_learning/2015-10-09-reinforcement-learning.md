@@ -174,6 +174,12 @@ date: 2015-10-09
 - github: [https://github.com/VinF/General_Deep_Q_RL](https://github.com/VinF/General_Deep_Q_RL)
 - wiki: [https://github.com/VinF/General_Deep_Q_RL/wiki](https://github.com/VinF/General_Deep_Q_RL/wiki)
 
+**Snake: Toy example of deep reinforcement model playing the game of snake**
+
+![](https://raw.githubusercontent.com/bitwise-ben/Snake/master/images/snake.gif)
+
+- github: [https://github.com/bitwise-ben/Snake](https://github.com/bitwise-ben/Snake)
+
 # Blogs
 
 **A Short Introduction To Some Reinforcement Learning Algorithms**
