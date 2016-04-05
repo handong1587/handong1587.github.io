@@ -76,6 +76,7 @@ date: 2015-10-09
 **Weight Normalization: A Simple Reparameterization to Accelerate Training of Deep Neural Networks**
 
 - arxiv: [http://arxiv.org/abs/1602.07868](http://arxiv.org/abs/1602.07868)
+- github(Lasagne): [https://github.com/TimSalimans/weight_norm](https://github.com/TimSalimans/weight_norm)
 - notes: [http://www.erogol.com/my-notes-weight-normalization/](http://www.erogol.com/my-notes-weight-normalization/)
 
 **Normalization Propagation: A Parametric Technique for Removing Internal Covariate Shift in Deep Networks**
