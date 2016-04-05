@@ -478,11 +478,6 @@ with fast exact probabilistic inference over many layers."
 
 [https://www.quora.com/What-are-the-toughest-neural-networks-and-deep-learning-interview-questions](https://www.quora.com/What-are-the-toughest-neural-networks-and-deep-learning-interview-questions)
 
-**26 Things I Learned in the Deep Learning Summer School**
-
-[http://www.marekrei.com/blog/26-things-i-learned-in-the-deep-learning-summer-school/](http://www.marekrei.com/blog/26-things-i-learned-in-the-deep-learning-summer-school/) <br />
-[http://www.csdn.net/article/2015-09-16/2825716](http://www.csdn.net/article/2015-09-16/2825716)
-
 **What you wanted to know about AI**
 
 [http://fastml.com/what-you-wanted-to-know-about-ai/](http://fastml.com/what-you-wanted-to-know-about-ai/)

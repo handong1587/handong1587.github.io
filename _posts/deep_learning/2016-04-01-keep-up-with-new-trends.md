@@ -5,6 +5,16 @@ title: Keep Up With New Trends
 date: 2016-04-01
 ---
 
+**Deep Learning Summer School 2015**
+
+- homepage: [https://sites.google.com/site/deeplearningsummerschool/schedule](https://sites.google.com/site/deeplearningsummerschool/schedule)
+- slides: [http://docs.huihoo.com/deep-learning/deeplearningsummerschool/2015/](http://docs.huihoo.com/deep-learning/deeplearningsummerschool/2015/)
+
+**26 Things I Learned in the Deep Learning Summer School**
+
+[http://www.marekrei.com/blog/26-things-i-learned-in-the-deep-learning-summer-school/](http://www.marekrei.com/blog/26-things-i-learned-in-the-deep-learning-summer-school/) <br />
+[http://www.csdn.net/article/2015-09-16/2825716](http://www.csdn.net/article/2015-09-16/2825716)
+
 **NIPS 2015 Deep Learning Tutorial Notes**
 
 [http://jatwood.org/blog/nips-deep-learning-tutorial.html](http://jatwood.org/blog/nips-deep-learning-tutorial.html)
