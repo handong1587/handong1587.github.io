@@ -33,3 +33,7 @@ date: 2015-08-27
 
 - github: [https://github.com/jmschrei/pomegranate](https://github.com/jmschrei/pomegranate)
 - docs: [http://pomegranate.readthedocs.org/en/latest/](http://pomegranate.readthedocs.org/en/latest/)
+
+**merlin: An extensible C++ library for probabilistic inference in graphical models**
+
+- github：[https://github.com/radum2275/merlin](https://github.com/radum2275/merlin)
