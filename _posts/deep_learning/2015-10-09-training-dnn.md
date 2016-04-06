@@ -213,3 +213,9 @@ date: 2015-10-09
 **Scalable and Sustainable Deep Learning via Randomized Hashing**
 
 - arxiv: [http://arxiv.org/abs/1602.08194](http://arxiv.org/abs/1602.08194)
+
+# Tools
+
+**pastalog: Simple, realtime visualization of neural network training performance**
+
+- github: [https://github.com/rewonc/pastalog](https://github.com/rewonc/pastalog)
