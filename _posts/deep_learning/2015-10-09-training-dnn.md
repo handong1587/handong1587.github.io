@@ -208,6 +208,16 @@ date: 2015-10-09
 
 - arxiv: [http://arxiv.org/abs/1603.07341](http://arxiv.org/abs/1603.07341)
 
+# Image Data Augmentation
+
+**DataAugmentation ver1.0: Image data augmentation tool for training of image recognition algorithm**
+
+- github: [https://github.com/takmin/DataAugmentation](https://github.com/takmin/DataAugmentation)
+
+**Caffe-Data-Augmentation: a branc caffe with feature of Data Augmentation using a configurable stochastic combination of 7 data augmentation techniques**
+
+- github: [https://github.com/ShaharKatz/Caffe-Data-Augmentation](https://github.com/ShaharKatz/Caffe-Data-Augmentation)
+
 # Papers
 
 **Scalable and Sustainable Deep Learning via Randomized Hashing**
