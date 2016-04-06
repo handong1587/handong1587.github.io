@@ -62,3 +62,9 @@ date: 2015-08-27
 
 - blog: [http://efavdb.com/independent-component-analysis/](http://efavdb.com/independent-component-analysis/)
 - ipython notebook: [http://nbviewer.jupyter.org/github/EFavDB/ICA/blob/master/pyaudio.ipynb](http://nbviewer.jupyter.org/github/EFavDB/ICA/blob/master/pyaudio.ipynb)
+
+# Readings and Questions
+
+**What is better PCA or SVD | Reddit**
+
+- reddit: [https://www.reddit.com/r/MachineLearning/comments/4dkxm3/what_is_better_pca_or_svd/](https://www.reddit.com/r/MachineLearning/comments/4dkxm3/what_is_better_pca_or_svd/)
