@@ -85,6 +85,10 @@ after the embedding and recurrent layers of the RNN."
 - author-page: [http://www.cs.cmu.edu/~gunhee/](http://www.cs.cmu.edu/~gunhee/)
 - github: [https://github.com/cesc-park/CRCN](https://github.com/cesc-park/CRCN)
 
+**Image Captioning with Deep Bidirectional LSTMs**
+
+- arxiv: [http://arxiv.org/abs/1604.00790](http://arxiv.org/abs/1604.00790)
+
 # Video Captioning
 
 **Translating Videos to Natural Language Using Deep Recurrent Neural Networks**
