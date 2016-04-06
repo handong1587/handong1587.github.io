@@ -218,4 +218,6 @@ date: 2015-10-09
 
 **pastalog: Simple, realtime visualization of neural network training performance**
 
+![](/assets/train-dnn/pastalog-main-big.gif)
+
 - github: [https://github.com/rewonc/pastalog](https://github.com/rewonc/pastalog)
