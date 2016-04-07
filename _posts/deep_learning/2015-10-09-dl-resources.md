@@ -538,6 +538,12 @@ with fast exact probabilistic inference over many layers."
 
 - github: [https://github.com/carpedm20/deep-learning-study](https://github.com/carpedm20/deep-learning-study)
 
+**Deep Learning Books**
+
+![](http://machinelearningmastery.com/wp-content/uploads/2016/04/Deep-Learning-Books.jpg)
+
+- blog: [http://machinelearningmastery.com/deep-learning-books/](http://machinelearningmastery.com/deep-learning-books/)
+
 # Tools
 
 **DNNGraph - A deep neural network model generation DSL in Haskell**
