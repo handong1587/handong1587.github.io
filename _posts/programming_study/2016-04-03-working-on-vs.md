@@ -19,3 +19,11 @@ date: 2016-04-03
 **Visual C++ for Linux and Raspberry Pi Development**
 
 - blog: [http://www.hanselman.com/blog/VisualCForLinuxAndRaspberryPiDevelopment.aspx](http://www.hanselman.com/blog/VisualCForLinuxAndRaspberryPiDevelopment.aspx)
+
+# Meida
+
+**Why Microsoft needed to make Windows run Linux software**
+
+![It's bash, it's Windows, it's not a virtual machine.](http://cdn.arstechnica.net/wp-content/uploads/2016/04/img_0018-640x426.jpg)
+
+- blog: [http://arstechnica.com/information-technology/2016/04/why-microsoft-needed-to-make-windows-run-linux-software/](http://arstechnica.com/information-technology/2016/04/why-microsoft-needed-to-make-windows-run-linux-software/)
