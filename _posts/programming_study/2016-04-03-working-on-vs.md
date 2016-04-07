@@ -15,3 +15,7 @@ date: 2016-04-03
 
 - intro: Complete C/C++ language support including code-editing and debugging.
 - blog: [https://marketplace.visualstudio.com/items?itemName=ms-vscode.cpptools](https://marketplace.visualstudio.com/items?itemName=ms-vscode.cpptools)
+
+**Visual C++ for Linux and Raspberry Pi Development**
+
+- blog: [http://www.hanselman.com/blog/VisualCForLinuxAndRaspberryPiDevelopment.aspx](http://www.hanselman.com/blog/VisualCForLinuxAndRaspberryPiDevelopment.aspx)
