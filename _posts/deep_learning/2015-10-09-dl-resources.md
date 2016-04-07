@@ -134,6 +134,10 @@ date: 2015-10-09
 
 - slides: [http://blog.shakirm.com/wp-content/uploads/2015/11/CSML_BayesDeep.pdf](http://blog.shakirm.com/wp-content/uploads/2015/11/CSML_BayesDeep.pdf)
 
+**Towards Bayesian Deep Learning: A Survey**
+
+- arxiv: [http://arxiv.org/abs/1604.01662](http://arxiv.org/abs/1604.01662)
+
 # Autoencoders
 
 **Importance Weighted Autoencoders**
