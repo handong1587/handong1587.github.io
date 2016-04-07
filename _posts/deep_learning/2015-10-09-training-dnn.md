@@ -202,6 +202,10 @@ date: 2015-10-09
 
 [http://machinelearningmastery.com/gradient-descent-for-machine-learning/](http://machinelearningmastery.com/gradient-descent-for-machine-learning/)
 
+**Revisiting Distributed Synchronous SGD**
+
+- arxiv: [http://arxiv.org/abs/1604.00981](http://arxiv.org/abs/1604.00981)
+
 # Accelerate Training
 
 **Acceleration of Deep Neural Network Training with Resistive Cross-Point Devices**
