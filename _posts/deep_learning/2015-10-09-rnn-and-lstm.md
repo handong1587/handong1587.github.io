@@ -301,6 +301,10 @@ date: 2015-10-09
 - demo: [http://testuggine.ninja/DRUMPF-9000/](http://testuggine.ninja/DRUMPF-9000/)
 - github: [https://github.com/Darktex/char-rnn](https://github.com/Darktex/char-rnn)
 
+**LSTM implementation on Caffe**
+
+- github: [https://github.com/junhyukoh/caffe-lstm](https://github.com/junhyukoh/caffe-lstm)
+
 # Blog
 
 **Survey on Attention-based Models Applied in NLP**
