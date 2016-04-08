@@ -333,9 +333,10 @@ date: 2015-10-09
 
 # Resources
 
-**Awesome-rnn - A curated list of resources dedicated to RNN**
+**Awesome Recurrent Neural Networks - A curated list of resources dedicated to RNN**
 
-[http://jiwonkim.org/awesome-rnn/](http://jiwonkim.org/awesome-rnn/)
+- homepage: [http://jiwonkim.org/awesome-rnn/](http://jiwonkim.org/awesome-rnn/)
+- github: [https://github.com/kjw0612/awesome-rnn](https://github.com/kjw0612/awesome-rnn)
 
 **Jürgen Schmidhuber's page on Recurrent Neural Networks**
 
