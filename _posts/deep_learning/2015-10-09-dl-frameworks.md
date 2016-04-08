@@ -358,6 +358,11 @@ date: 2015-10-09
 
 - slides: [http://folinoid.com/show/theano/](http://folinoid.com/show/theano/)
 
+**Ian Goodfellow's Tutorials on Theano**
+
+- slides: [http://pan.baidu.com/s/1slbzhF3#path=%252F%25E6%2588%2591%25E7%259A%2584%25E5%2588%2586%25E4%25BA%25AB%252F201604%252FIan%2520Goodfellow's%2520Tutorials%2520on%2520Theano](http://pan.baidu.com/s/1slbzhF3#path=%252F%25E6%2588%2591%25E7%259A%2584%25E5%2588%2586%25E4%25BA%25AB%252F201604%252FIan%2520Goodfellow's%2520Tutorials%2520on%2520Theano)
+- github("theano_exercises"): [https://github.com/goodfeli/theano_exercises](https://github.com/goodfeli/theano_exercises)
+
 # Torch
 
 **Torch**
