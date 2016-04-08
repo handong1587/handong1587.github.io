@@ -53,6 +53,10 @@ date: 2015-08-27
 
 - slides: [http://nlp.postech.ac.kr/Course/CS704/LectureNotes/BayesianNetworks.pdf](http://nlp.postech.ac.kr/Course/CS704/LectureNotes/BayesianNetworks.pdf)
 
+**Taking the Human Out of the Loop: A Review of Bayesian Optimization**
+
+- paper: [http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7352306](http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7352306)
+
 # Probabilistic Programming
 
 **Probabilistic Programming in Python**
