@@ -282,6 +282,10 @@ and 1.15s per image with it".
 
 - arxiv: [http://arxiv.org/abs/1602.08405](http://arxiv.org/abs/1602.08405)
 
+**A MultiPath Network for Object Detection**
+
+- arxiv: [http://arxiv.org/abs/1604.02135](http://arxiv.org/abs/1604.02135)
+
 # Specific Object Deteciton
 
 **End-to-end people detection in crowded scenes**
