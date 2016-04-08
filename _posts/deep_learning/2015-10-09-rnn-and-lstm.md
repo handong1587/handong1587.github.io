@@ -257,6 +257,11 @@ date: 2015-10-09
 
 - arxiv: [http://arxiv.org/abs/1603.09025](http://arxiv.org/abs/1603.09025)
 
+**Optimizing Performance of Recurrent Neural Networks on GPUs**
+
+- arxiv: [http://arxiv.org/abs/1604.01946](http://arxiv.org/abs/1604.01946)
+- github: [https://github.com/parallel-forall/code-samples/blob/master/posts/rnn/LSTM.cu](https://github.com/parallel-forall/code-samples/blob/master/posts/rnn/LSTM.cu)
+
 # Codes
 
 **NeuralTalk (Deprecated): a Python+numpy project for learning Multimodal Recurrent Neural Networks that describe images with sentences**
