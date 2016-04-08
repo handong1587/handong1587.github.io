@@ -64,6 +64,12 @@ date: 2015-08-27
 
 [http://probcomp.csail.mit.edu/readings/](http://probcomp.csail.mit.edu/readings/)
 
+**Lightweight Implementations of Probabilistic Programming Languages Via Transformational Compilation**
+
+- paper: [http://web.stanford.edu/~ngoodman/papers/lightweight-mcmc-aistats2011.pdf](http://web.stanford.edu/~ngoodman/papers/lightweight-mcmc-aistats2011.pdf)
+- talk: [http://videolectures.net/aistats2011_wingate_lightweight/](http://videolectures.net/aistats2011_wingate_lightweight/)
+- github: ("probabilistic-js"): [https://github.com/dritchie/probabilistic-js](https://github.com/dritchie/probabilistic-js)
+
 # Books
 
 **Probabilistic Programming & Bayesian Methods for Hackers**
