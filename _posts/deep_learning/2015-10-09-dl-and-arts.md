@@ -182,6 +182,10 @@ with the style of another image using convolutional neural networks
 
 - github: [https://github.com/rossgoodwin/neuralsnap](https://github.com/rossgoodwin/neuralsnap)
 
+**Generating Chinese Classical Poems with RNN Encoder-Decoder**
+
+- arxiv: [http://arxiv.org/abs/1604.01537](http://arxiv.org/abs/1604.01537)
+
 # Courses
 
 **Learning Machines**

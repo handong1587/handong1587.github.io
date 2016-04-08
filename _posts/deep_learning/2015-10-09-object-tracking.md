@@ -49,3 +49,7 @@ paper: [http://120.52.73.14/www.cv-foundation.org/openaccess/content_cvpr_2014/p
 
 - arxiv: [http://arxiv.org/abs/1602.00991](http://arxiv.org/abs/1602.00991)
 - github: [https://github.com/pondruska/DeepTracking](https://github.com/pondruska/DeepTracking)
+
+**Learning to Track at 100 FPS with Deep Regression Networks**
+
+- arxiv: [http://arxiv.org/abs/1604.01802](http://arxiv.org/abs/1604.01802)
