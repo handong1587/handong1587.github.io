@@ -562,6 +562,7 @@ with fast exact probabilistic inference over many layers."
 
 - homepage: [http://www.deeplearningbook.org/](http://www.deeplearningbook.org/)
 - website: [http://goodfeli.github.io/dlbook/](http://goodfeli.github.io/dlbook/)
+- notes("Deep Learning for Beginners"): [http://randomekek.github.io/deep/deeplearning.html](http://randomekek.github.io/deep/deeplearning.html)
 
 # Blogs
 
