@@ -252,6 +252,10 @@ date: 2015-10-09
 
 [https://indico.io/blog/getting-started-with-mxnet/](https://indico.io/blog/getting-started-with-mxnet/)
 
+**MXNet Tutorial for NVidia GTC 2016**
+
+- github: [https://github.com/dmlc/mxnet-gtc-tutorial](https://github.com/dmlc/mxnet-gtc-tutorial)
+
 # neocortex.js
 
 **Run trained deep neural networks in the browser or node.js**

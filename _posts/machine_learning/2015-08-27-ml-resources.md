@@ -328,10 +328,6 @@ Other awesome lists can be found in this [list](https://github.com/sindresorhus/
 
 [http://blog.shakirm.com/](http://blog.shakirm.com/)
 
-**Machine Learning Tutorials**
-
-[https://github.com/ujjwalkarn/Machine-Learning-Tutorials/blob/master/README.md](https://github.com/ujjwalkarn/Machine-Learning-Tutorials/blob/master/README.md)
-
 **Useful Inequalities**
 
 [http://www.lkozma.net/inequalities_cheat_sheet/ineq.pdf](http://www.lkozma.net/inequalities_cheat_sheet/ineq.pdf)

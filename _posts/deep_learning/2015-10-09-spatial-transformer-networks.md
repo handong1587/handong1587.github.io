@@ -18,8 +18,10 @@ date: 2015-10-09
 
 **"The power of Spatial Transformer Networks"**
 
+![](https://raw.githubusercontent.com/moodstocks/gtsrb.torch/master/resources/traffic-signs.png)
+
 - blog: [http://torch.ch/blog/2015/09/07/spatial_transformers.html](http://torch.ch/blog/2015/09/07/spatial_transformers.html)
-- code: [https://github.com/moodstocks/gtsrb.torch](https://github.com/moodstocks/gtsrb.torch)
+- github: [https://github.com/moodstocks/gtsrb.torch](https://github.com/moodstocks/gtsrb.torch)
 
 **Recurrent Spatial Transformer Networks**
 
