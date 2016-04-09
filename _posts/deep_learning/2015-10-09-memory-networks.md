@@ -62,6 +62,7 @@ date: 2015-10-09
 **Dynamic Memory Networks for Visual and Textual Question Answering**
 
 - arixv: [http://arxiv.org/abs/1603.01417](http://arxiv.org/abs/1603.01417)
+- slides: [http://slides.com/smerity/dmn-for-tqa-and-vqa-nvidia-gtc#/](http://slides.com/smerity/dmn-for-tqa-and-vqa-nvidia-gtc#/)
 - review: [https://www.technologyreview.com/s/600958/the-memory-trick-making-computers-seem-smarter/](https://www.technologyreview.com/s/600958/the-memory-trick-making-computers-seem-smarter/)
 
 **Neural GPUs Learn Algorithms**
