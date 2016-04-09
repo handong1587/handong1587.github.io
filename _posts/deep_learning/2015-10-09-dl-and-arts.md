@@ -167,6 +167,11 @@ with the style of another image using convolutional neural networks
 
 - blog: [https://keunwoochoi.wordpress.com/2016/02/23/lstmetallica/](https://keunwoochoi.wordpress.com/2016/02/23/lstmetallica/)
 
+**deepjazz: Deep learning driven jazz generation using Keras & Theano!**
+
+- homepage: [https://jisungk.github.io/deepjazz/](https://jisungk.github.io/deepjazz/)
+- github：[https://github.com/jisungk/deepjazz](https://github.com/jisungk/deepjazz)
+
 # Video
 
 **Instructions for making a Neural-Style movie**
