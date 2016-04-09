@@ -19,6 +19,7 @@ date: 2015-10-09
 - GitXiv: [http://gitxiv.com/posts/7nofxjoYBXga5XjtL/show-and-tell-a-neural-image-caption-nic-generator](http://gitxiv.com/posts/7nofxjoYBXga5XjtL/show-and-tell-a-neural-image-caption-nic-generator)
 - github: [https://github.com/apple2373/chainer_caption_generation](https://github.com/apple2373/chainer_caption_generation)
 - blog("Image caption generation by CNN and LSTM"): [http://t-satoshi.blogspot.com/2015/12/image-caption-generation-by-cnn-and-lstm.html](http://t-satoshi.blogspot.com/2015/12/image-caption-generation-by-cnn-and-lstm.html)
+- github: [https://github.com/jazzsaxmafia/show_and_tell.tensorflow](https://github.com/jazzsaxmafia/show_and_tell.tensorflow)
 
 **Deep Visual-Semantic Alignments for Generating Image Descriptions**
 
