@@ -412,6 +412,11 @@ with fast exact probabilistic inference over many layers."
 - arxiv: [http://arxiv.org/abs/1511.07543](http://arxiv.org/abs/1511.07543)
 - github: [https://github.com/yixuanli/convergent_learning](https://github.com/yixuanli/convergent_learning)
 
+**DrMAD: Distilling Reverse-Mode Automatic Differentiation for Optimizing Hyperparameters of Deep Neural Networks**
+
+- arxiv: [http://arxiv.org/abs/1601.00917](http://arxiv.org/abs/1601.00917)
+- github: [https://github.com/bigaidream-projects/drmad](https://github.com/bigaidream-projects/drmad)
+
 **Do Deep Convolutional Nets Really Need to be Deep (Or Even Convolutional)?**
 
 - arxiv: [http://arxiv.org/abs/1603.05691](http://arxiv.org/abs/1603.05691)
