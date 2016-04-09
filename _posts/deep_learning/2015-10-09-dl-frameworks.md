@@ -384,6 +384,10 @@ date: 2015-10-09
 
 - homepage: [https://github.com/soumith/cvpr2015](https://github.com/soumith/cvpr2015)
 
+**pytorch: Python wrappers for torch and lua**
+
+- github: [https://github.com/hughperkins/pytorch](https://github.com/hughperkins/pytorch)
+
 # VELES
 
 **VELES: Distributed platform for rapid Deep learning application development**
