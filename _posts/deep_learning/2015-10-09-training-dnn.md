@@ -235,3 +235,7 @@ date: 2015-10-09
 ![](/assets/train-dnn/pastalog-main-big.gif)
 
 - github: [https://github.com/rewonc/pastalog](https://github.com/rewonc/pastalog)
+
+**torch-pastalog: A Torch interface for pastalog - simple, realtime visualization of neural network training performance**
+
+- github: [https://github.com/Kaixhin/torch-pastalog](https://github.com/Kaixhin/torch-pastalog)
