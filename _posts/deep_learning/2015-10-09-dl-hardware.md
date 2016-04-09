@@ -69,6 +69,10 @@ date: 2015-10-09
 
 - arxiv: [http://arxiv.org/abs/1602.04283](http://arxiv.org/abs/1602.04283)
 
+**FPGAs Challenge GPUs as a Platform for Deep Learning**
+
+- blog: [https://www.tractica.com/automation-robotics/fpgas-challenge-gpus-as-a-platform-for-deep-learning/](https://www.tractica.com/automation-robotics/fpgas-challenge-gpus-as-a-platform-for-deep-learning/)
+
 # SRAM
 
 **ShiDianNao: Shifting Vision Processing Closer to the Sensor**
