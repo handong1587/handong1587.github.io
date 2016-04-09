@@ -190,6 +190,10 @@ date: 2015-10-09
 
 - blog: [http://tillbergmann.com/blog/articles/python-gradient-descent.html](http://tillbergmann.com/blog/articles/python-gradient-descent.html)
 
+**Train faster, generalize better: Stability of stochastic gradient descent**
+
+- arxiv: [http://arxiv.org/abs/1509.01240](http://arxiv.org/abs/1509.01240)
+
 **A Variational Analysis of Stochastic Gradient Algorithms**
 
 - arxiv: [http://arxiv.org/abs/1602.02666](http://arxiv.org/abs/1602.02666)
