@@ -180,6 +180,10 @@ date: 2015-10-09
 
 - github: [https://github.com/bitwise-ben/Snake](https://github.com/bitwise-ben/Snake)
 
+**Using Deep Q Networks to Learn Video Game Strategies**
+
+- github: [https://github.com/asrivat1/DeepLearningVideoGames](https://github.com/asrivat1/DeepLearningVideoGames)
+
 # Blogs
 
 **A Short Introduction To Some Reinforcement Learning Algorithms**
