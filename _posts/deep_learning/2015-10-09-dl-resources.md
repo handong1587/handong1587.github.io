@@ -65,6 +65,7 @@ date: 2015-10-09
 - github: [https://github.com/apark263/cfmz](https://github.com/apark263/cfmz)
 - github: [https://github.com/NervanaSystems/neon/blob/master/examples/cifar10_msra.py](https://github.com/NervanaSystems/neon/blob/master/examples/cifar10_msra.py)
 - github: [https://github.com/facebook/fb.resnet.torch](https://github.com/facebook/fb.resnet.torch)
+- github: [https://github.com/yasunorikudo/chainer-ResNet](https://github.com/yasunorikudo/chainer-ResNet)
 
 **Training and investigating Residual Nets**
 
