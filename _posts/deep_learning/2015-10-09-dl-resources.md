@@ -568,6 +568,11 @@ with fast exact probabilistic inference over many layers."
 - website: [http://goodfeli.github.io/dlbook/](http://goodfeli.github.io/dlbook/)
 - notes("Deep Learning for Beginners"): [http://randomekek.github.io/deep/deeplearning.html](http://randomekek.github.io/deep/deeplearning.html)
 
+**Fundamentals of Deep Learning: Designing Next-Generation Artificial Intelligence Algorithms (Nikhil Buduma)**
+
+- book review: [http://www.opengardensblog.futuretext.com/archives/2015/08/book-review-fundamentals-of-deep-learning-designing-next-generation-artificial-intelligence-algorithms-by-nikhil-buduma.html](http://www.opengardensblog.futuretext.com/archives/2015/08/book-review-fundamentals-of-deep-learning-designing-next-generation-artificial-intelligence-algorithms-by-nikhil-buduma.html)
+- github: [https://github.com/darksigma/Fundamentals-of-Deep-Learning-Book](https://github.com/darksigma/Fundamentals-of-Deep-Learning-Book)
+
 # Blogs
 
 **Neural Networks and Deep Learning**
