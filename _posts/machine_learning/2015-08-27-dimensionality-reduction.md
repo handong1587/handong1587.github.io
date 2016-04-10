@@ -63,6 +63,12 @@ date: 2015-08-27
 - blog: [http://efavdb.com/independent-component-analysis/](http://efavdb.com/independent-component-analysis/)
 - ipython notebook: [http://nbviewer.jupyter.org/github/EFavDB/ICA/blob/master/pyaudio.ipynb](http://nbviewer.jupyter.org/github/EFavDB/ICA/blob/master/pyaudio.ipynb)
 
+# Projects
+
+**Decomposition module for Torch7: Component Analysis using Torch7 (PCA, Whitened PCA, LDA, LPP, NPP, FastICA)**
+
+- github: [https://github.com/iassael/torch-decomposition](https://github.com/iassael/torch-decomposition)
+
 # Readings and Questions
 
 **What is better PCA or SVD | Reddit**
