@@ -184,6 +184,15 @@ date: 2015-10-09
 
 - github: [https://github.com/asrivat1/DeepLearningVideoGames](https://github.com/asrivat1/DeepLearningVideoGames)
 
+**qlearning4k: Q-learning for Keras**
+
+![](https://raw.githubusercontent.com/farizrahman4u/qlearning4k/master/gifs/catch.gif)
+![](https://raw.githubusercontent.com/farizrahman4u/qlearning4k/master/gifs/snake.gif)
+
+- intro: "Qlearning4k is a reinforcement learning add-on for the python deep learning library Keras. 
+Its simple, and is ideal for rapid prototyping."
+[https://github.com/farizrahman4u/qlearning4k](https://github.com/farizrahman4u/qlearning4k)
+
 # Blogs
 
 **A Short Introduction To Some Reinforcement Learning Algorithms**
