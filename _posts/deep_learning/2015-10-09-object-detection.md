@@ -317,6 +317,10 @@ and 1.15s per image with it".
 We additionally provide an implementation of the [ReInspect](https://github.com/Russell91/ReInspect/) algorithm"
 - github: [https://github.com/Russell91/TensorBox](https://github.com/Russell91/TensorBox)
 
+**Object detection in torch: Implementation of some object detection frameworks in torch**
+
+- github: [https://github.com/fmassa/object-detection.torch](https://github.com/fmassa/object-detection.torch)
+
 # Blogs
 
 **Convolutional Neural Networks for Object Detection**
