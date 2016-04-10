@@ -154,8 +154,6 @@ date: 2015-10-09
 
 **Using Deep Q-Network to Learn How To Play Flappy Bird**
 
-![](https://raw.githubusercontent.com/yenchenlin1994/DeepLearningFlappyBird/master/images/flappy_bird_demp.gif)
-
 - github: [https://github.com/yenchenlin1994/DeepLearningFlappyBird](https://github.com/yenchenlin1994/DeepLearningFlappyBird)
 
 **用Tensorflow基于Deep Q Learning DQN 玩Flappy Bird**
