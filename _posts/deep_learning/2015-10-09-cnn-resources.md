@@ -136,6 +136,7 @@ Bicubic VS. Shepard CNN
 
 - paper: [http://arxiv.org/abs/1505.07427](http://arxiv.org/abs/1505.07427)
 - project page: [http://mi.eng.cam.ac.uk/projects/relocalisation/#results](http://mi.eng.cam.ac.uk/projects/relocalisation/#results)
+- github: [https://github.com/alexgkendall/caffe-posenet](https://github.com/alexgkendall/caffe-posenet)
 
 **Modelling Uncertainty in Deep Learning for Camera Relocalization**
 
