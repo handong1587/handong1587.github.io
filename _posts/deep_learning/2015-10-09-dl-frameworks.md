@@ -367,6 +367,12 @@ date: 2015-10-09
 - slides: [http://pan.baidu.com/s/1slbzhF3#path=%252F%25E6%2588%2591%25E7%259A%2584%25E5%2588%2586%25E4%25BA%25AB%252F201604%252FIan%2520Goodfellow's%2520Tutorials%2520on%2520Theano](http://pan.baidu.com/s/1slbzhF3#path=%252F%25E6%2588%2591%25E7%259A%2584%25E5%2588%2586%25E4%25BA%25AB%252F201604%252FIan%2520Goodfellow's%2520Tutorials%2520on%2520Theano)
 - github("theano_exercises"): [https://github.com/goodfeli/theano_exercises](https://github.com/goodfeli/theano_exercises)
 
+# tiny-cnn
+
+**tiny-cnn: A header only, dependency-free deep learning framework in C++11**
+
+- github: [https://github.com/nyanp/tiny-cnn](https://github.com/nyanp/tiny-cnn)
+
 # Torch
 
 **Torch**
