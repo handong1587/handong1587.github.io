@@ -25,6 +25,7 @@ date: 2015-10-09
 **Deep Inside Convolutional Networks: Visualising Image Classification Models and Saliency Maps**:
 
 - paper: [http://arxiv.org/abs/1312.6034](http://arxiv.org/abs/1312.6034)
+- github: [https://github.com/yasunorikudo/vis-cnn](https://github.com/yasunorikudo/vis-cnn)
 
 **Understanding Deep Image Representations by Inverting Them**:
 
