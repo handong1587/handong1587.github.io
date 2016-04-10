@@ -256,6 +256,7 @@ date: 2015-10-09
 **Recurrent Batch Normalization**
 
 - arxiv: [http://arxiv.org/abs/1603.09025](http://arxiv.org/abs/1603.09025)
+- github: [https://github.com/iassael/torch-bnlstm](https://github.com/iassael/torch-bnlstm)
 
 **Optimizing Performance of Recurrent Neural Networks on GPUs**
 
