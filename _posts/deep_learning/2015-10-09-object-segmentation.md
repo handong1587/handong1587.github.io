@@ -43,6 +43,7 @@ the per-pixel classification task is modeled as a CRF inference problem."
 **Hypercolumns for object segmentation and fine-grained localization (CVPR 2015)**
 
 - paper: [http://www.cs.berkeley.edu/~bharath2/pubs/pdfs/BharathCVPR2015.pdf](http://www.cs.berkeley.edu/~bharath2/pubs/pdfs/BharathCVPR2015.pdf)
+- github("SDS using hypercolumns"): [https://github.com/bharath272/sds](https://github.com/bharath272/sds)
 
 **Conditional Random Fields as Recurrent Neural Networks(ICCV2015. Oxford/Stanford/Baidu)**
 

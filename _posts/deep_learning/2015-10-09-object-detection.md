@@ -286,6 +286,12 @@ and 1.15s per image with it".
 
 - arxiv: [http://arxiv.org/abs/1604.02135](http://arxiv.org/abs/1604.02135)
 
+**Beyond Bounding Boxes: Precise Localization of Objects in Images (PhD Thesis)**
+
+- homepage: [http://www.eecs.berkeley.edu/Pubs/TechRpts/2015/EECS-2015-193.html](http://www.eecs.berkeley.edu/Pubs/TechRpts/2015/EECS-2015-193.html)
+- phd-thesis: [http://www.eecs.berkeley.edu/Pubs/TechRpts/2015/EECS-2015-193.pdf](http://www.eecs.berkeley.edu/Pubs/TechRpts/2015/EECS-2015-193.pdf)
+- github("SDS using hypercolumns"): [https://github.com/bharath272/sds](https://github.com/bharath272/sds)
+
 # Specific Object Deteciton
 
 **End-to-end people detection in crowded scenes**
