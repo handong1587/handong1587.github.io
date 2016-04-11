@@ -89,6 +89,10 @@ date: 2015-09-25
 
 [http://www.ibm.com/blogs/think/2016/03/07/extending-game-based-ai-research-into-the-wild/](http://www.ibm.com/blogs/think/2016/03/07/extending-game-based-ai-research-into-the-wild/)
 
+**The Race For AI: Google, Facebook, Amazon, Apple In A Rush To Grab Artificial Intelligence Startups**
+
+[https://www.cbinsights.com/blog/top-acquirers-ai-startups-ma-timeline/](https://www.cbinsights.com/blog/top-acquirers-ai-startups-ma-timeline/)
+
 # Self-driving Cars
 
 **Self-driving cars: How far away are we REALLY from autonomous cars?(7 Aug 2015)**
