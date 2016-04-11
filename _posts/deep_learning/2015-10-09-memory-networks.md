@@ -50,6 +50,7 @@ date: 2015-10-09
 - intro: Memory networks implemented via rnns and gated recurrent units (GRUs).
 - arxiv: [http://arxiv.org/abs/1506.07285](http://arxiv.org/abs/1506.07285)
 - blog("Implementing Dynamic memory networks"): [http://yerevann.github.io//2016/02/05/implementing-dynamic-memory-networks/](http://yerevann.github.io//2016/02/05/implementing-dynamic-memory-networks/)
+- github(Python): [https://github.com/swstarlab/DynamicMemoryNetworks](https://github.com/swstarlab/DynamicMemoryNetworks)
 
 **Structured Memory for Neural Turing Machines(IBM Watson)**
 
