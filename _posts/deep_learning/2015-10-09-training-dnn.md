@@ -57,6 +57,11 @@ date: 2015-10-09
 - arxiv: [http://arxiv.org/abs/1511.06422](http://arxiv.org/abs/1511.06422)
 - github: [https://github.com/ducha-aiki/LSUVinit](https://github.com/ducha-aiki/LSUVinit)
 
+**Data-dependent Initializations of Convolutional Neural Networks**
+
+- arxiv: [http://arxiv.org/abs/1511.06856](http://arxiv.org/abs/1511.06856)
+- github: [https://github.com/philkr/magic_init](https://github.com/philkr/magic_init)
+
 **What are good initial weights in a neural network?**
 
 - stackexchange: [http://stats.stackexchange.com/questions/47590/what-are-good-initial-weights-in-a-neural-network](http://stats.stackexchange.com/questions/47590/what-are-good-initial-weights-in-a-neural-network)
