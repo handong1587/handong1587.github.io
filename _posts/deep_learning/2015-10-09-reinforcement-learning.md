@@ -69,6 +69,7 @@ date: 2015-10-09
 
 - paper: [http://pan.baidu.com/s/1kTiwzOF](http://pan.baidu.com/s/1kTiwzOF)
 - code: [https://sites.google.com/a/deepmind.com/dqn/](https://sites.google.com/a/deepmind.com/dqn/)
+- youtube: [https://www.youtube.com/watch?v=V2wzkPmiB_A](https://www.youtube.com/watch?v=V2wzkPmiB_A)
 - github: [https://github.com/kuz/DeepMind-Atari-Deep-Q-Learner](https://github.com/kuz/DeepMind-Atari-Deep-Q-Learner)
 - github: [https://github.com/tambetm/simple_dqn](https://github.com/tambetm/simple_dqn)
 - discussion: [https://www.reddit.com/r/MachineLearning/comments/2x4yy1/google_deepmind_nature_paper_humanlevel_control](https://www.reddit.com/r/MachineLearning/comments/2x4yy1/google_deepmind_nature_paper_humanlevel_control)
