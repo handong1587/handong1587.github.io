@@ -136,7 +136,7 @@ to decompose it into the multiplications of thinned dense matrices"
 
 - paper: [http://niclane.org/pubs/deepx_ipsn.pdf](http://niclane.org/pubs/deepx_ipsn.pdf)
 
-# Codes
+# Projects
 
 **Accelerate Convolutional Neural Networks**
 
@@ -153,3 +153,9 @@ to decompose it into the multiplications of thinned dense matrices"
 
 - github: [https://github.com/Maratyszcza/NNPACK](https://github.com/Maratyszcza/NNPACK)
 - comments(Yann LeCun): [https://www.facebook.com/yann.lecun/posts/10153459577707143](https://www.facebook.com/yann.lecun/posts/10153459577707143)
+
+# Videos
+
+**Deep compression and EIE: Deep learning model compression, design space exploration and hardware acceleration**
+
+- youtube: [https://www.youtube.com/watch?v=baZOmGSSUAg](https://www.youtube.com/watch?v=baZOmGSSUAg)
