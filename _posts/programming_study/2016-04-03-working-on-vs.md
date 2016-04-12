@@ -7,7 +7,7 @@ date: 2016-04-03
 
 **Visual C++ for Linux Development**
 
-!()[https://msdnshared.blob.core.windows.net/media/2016/03/Projects.png]
+![](https://msdnshared.blob.core.windows.net/media/2016/03/Projects.png)
 
 - blog: [https://blogs.msdn.microsoft.com/vcblog/2016/03/30/visual-c-for-linux-development/](https://blogs.msdn.microsoft.com/vcblog/2016/03/30/visual-c-for-linux-development/)
 
