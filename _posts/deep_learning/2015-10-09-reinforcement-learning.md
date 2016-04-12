@@ -192,6 +192,10 @@ date: 2015-10-09
 Its simple, and is ideal for rapid prototyping."
 [https://github.com/farizrahman4u/qlearning4k](https://github.com/farizrahman4u/qlearning4k)
 
+**rlenvs: Reinforcement learning environments for Torch7, inspired by RL-Glue**
+
+- github: [https://github.com/Kaixhin/rlenvs](https://github.com/Kaixhin/rlenvs)
+
 # Blogs
 
 **A Short Introduction To Some Reinforcement Learning Algorithms**
