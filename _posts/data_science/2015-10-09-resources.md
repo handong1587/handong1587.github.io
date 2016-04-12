@@ -34,3 +34,7 @@ date: 2015-10-09
 **My Standard Work for every new competition**
 
 [https://www.kaggle.com/forums/f/15/kaggle-forum/t/19959/my-standard-work-for-every-new-competition/113888](https://www.kaggle.com/forums/f/15/kaggle-forum/t/19959/my-standard-work-for-every-new-competition/113888)
+
+**Step by step Kaggle competition tutorial**
+
+[https://datanice.wordpress.com/2016/04/10/step-by-step-kaggle-competition-tutorial/](https://datanice.wordpress.com/2016/04/10/step-by-step-kaggle-competition-tutorial/)
