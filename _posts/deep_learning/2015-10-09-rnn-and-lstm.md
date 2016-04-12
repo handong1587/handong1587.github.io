@@ -127,6 +127,11 @@ date: 2015-10-09
 - paper: [https://web.stanford.edu/~cpiech/bio/papers/deepKnowledgeTracing.pdf](https://web.stanford.edu/~cpiech/bio/papers/deepKnowledgeTracing.pdf)
 - github: [https://github.com/chrispiech/DeepKnowledgeTracing](https://github.com/chrispiech/DeepKnowledgeTracing)
 
+**Top-down Tree Long Short-Term Memory Networks**
+
+- arxiv: [http://arxiv.org/abs/1511.00060](http://arxiv.org/abs/1511.00060)
+- github: [https://github.com/XingxingZhang/td-treelstm](https://github.com/XingxingZhang/td-treelstm)
+
 **Alternative structures for character-level RNNs(INRIA & Facebook AI Research)**
 
 - arXiv: [http://arxiv.org/abs/1511.06303](http://arxiv.org/abs/1511.06303)
