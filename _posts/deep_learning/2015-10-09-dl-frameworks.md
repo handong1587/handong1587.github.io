@@ -174,9 +174,11 @@ date: 2015-10-09
 
 # Keras
 
-**Keras: Theano-based Deep Learning library**
+**Keras: Deep Learning library for Theano and TensorFlow**
 
 - github: [https://github.com/fchollet/keras](https://github.com/fchollet/keras)
+- blog: [http://blog.keras.io/introducing-keras-10.html](http://blog.keras.io/introducing-keras-10.html)
+- docs: [http://keras.io/getting-started/functional-api-guide/](http://keras.io/getting-started/functional-api-guide/)
 
 # Lasagne
 
