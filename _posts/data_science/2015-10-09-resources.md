@@ -30,6 +30,8 @@ date: 2015-10-09
 - part1: [http://brettromero.com/wordpress/data-science-a-kaggle-walkthrough-introduction/](http://brettromero.com/wordpress/data-science-a-kaggle-walkthrough-introduction/)
 - part2: [http://brettromero.com/wordpress/data-science-a-kaggle-walkthrough-understanding-the-data/](http://brettromero.com/wordpress/data-science-a-kaggle-walkthrough-understanding-the-data/)
 - part3: [http://brettromero.com/wordpress/data-science-kaggle-walkthrough-cleaning-data/](http://brettromero.com/wordpress/data-science-kaggle-walkthrough-cleaning-data/)
+- part4: [http://brettromero.com/wordpress/data-science-kaggle-walkthrough-data-transformation-feature-extraction/](http://brettromero.com/wordpress/data-science-kaggle-walkthrough-data-transformation-feature-extraction/)
+- part5: [http://brettromero.com/wordpress/data-science-kaggle-walkthrough-adding-new-data/](http://brettromero.com/wordpress/data-science-kaggle-walkthrough-adding-new-data/)
 
 **My Standard Work for every new competition**
 
