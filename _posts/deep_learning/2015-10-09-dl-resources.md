@@ -492,6 +492,10 @@ with fast exact probabilistic inference over many layers."
 
 - github: [https://github.com/aciditeam/torch-models](https://github.com/aciditeam/torch-models)
 
+**Deep Learning (Python, C, C++, Java, Scala, Go)**
+
+- github: [https://github.com/yusugomori/DeepLearning](https://github.com/yusugomori/DeepLearning)
+
 # Readings and Questions
 
 **What are the toughest neural networks and deep learning interview questions?**
