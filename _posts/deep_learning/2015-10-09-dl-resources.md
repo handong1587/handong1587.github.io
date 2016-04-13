@@ -576,6 +576,11 @@ with fast exact probabilistic inference over many layers."
 - homepage: [http://playground.tensorflow.org/#activation=tanh&batchSize=10&dataset=circle&regDataset=reg-plane&learningRate=0.03&regularizationRate=0&noise=0&networkShape=4,2&seed=0.23990&showTestData=false&discretize=false&percTrainData=50&x=true&y=true&xTimesY=false&xSquared=false&ySquared=false&cosX=false&sinX=false&cosY=false&sinY=false&collectStats=false&problem=classification](http://playground.tensorflow.org/#activation=tanh&batchSize=10&dataset=circle&regDataset=reg-plane&learningRate=0.03&regularizationRate=0&noise=0&networkShape=4,2&seed=0.23990&showTestData=false&discretize=false&percTrainData=50&x=true&y=true&xTimesY=false&xSquared=false&ySquared=false&cosX=false&sinX=false&cosY=false&sinY=false&collectStats=false&problem=classification)
 - github: [https://github.com/tensorflow/playground](https://github.com/tensorflow/playground)
 
+**Neural Network Package**
+
+- intro: This package provides an easy and modular way to build and train simple or complex neural networks using Torch
+- github: [https://github.com/torch/nn](https://github.com/torch/nn)
+
 # Books
 
 **Deep Learning (by Ian Goodfellow, Aaron Courville and Yoshua Bengio)**
