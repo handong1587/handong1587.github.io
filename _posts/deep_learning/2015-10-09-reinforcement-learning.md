@@ -196,6 +196,10 @@ Its simple, and is ideal for rapid prototyping."
 
 - github: [https://github.com/Kaixhin/rlenvs](https://github.com/Kaixhin/rlenvs)
 
+**deep_rl_ale: An implementation of Deep Reinforcement Learning / Deep Q-Networks for Atari games in TensorFlow**
+
+- github: [https://github.com/Jabberwockyll/deep_rl_ale](https://github.com/Jabberwockyll/deep_rl_ale)
+
 # Blogs
 
 **A Short Introduction To Some Reinforcement Learning Algorithms**
