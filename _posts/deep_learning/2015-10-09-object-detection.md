@@ -293,6 +293,11 @@ and 1.15s per image with it".
 - phd-thesis: [http://www.eecs.berkeley.edu/Pubs/TechRpts/2015/EECS-2015-193.pdf](http://www.eecs.berkeley.edu/Pubs/TechRpts/2015/EECS-2015-193.pdf)
 - github("SDS using hypercolumns"): [https://github.com/bharath272/sds](https://github.com/bharath272/sds)
 
+**T-CNN: Tubelets with Convolutional Neural Networks for Object Detection from Videos**
+
+- arxiv: [http://arxiv.org/abs/1604.02532](http://arxiv.org/abs/1604.02532)
+- github: [https://github.com/myfavouritekk/T-CNN](https://github.com/myfavouritekk/T-CNN)
+
 **Training Region-based Object Detectors with Online Hard Example Mining**
 
 - arxiv: [http://arxiv.org/abs/1604.03540](http://arxiv.org/abs/1604.03540)
