@@ -344,6 +344,10 @@ Other awesome lists can be found in this [list](https://github.com/sindresorhus/
 
 [https://annalyzin.wordpress.com/](https://annalyzin.wordpress.com/)
 
+**ALGORITHMS: AI, Data Mining, Clustering, Data Structures, Machine Learning, Neural, NLP, ...**
+
+- github: [https://github.com/svaksha/pythonidae/blob/master/AI.md](https://github.com/svaksha/pythonidae/blob/master/AI.md)
+
 # Books
 
 **Machine Learning plus Intelligent Optimization: THE LION WAY, VERSION 2.0**
