@@ -115,3 +115,10 @@ after the embedding and recurrent layers of the RNN."
 **CaptionBot (Microsoft)**
 
 - website: [https://www.captionbot.ai/](https://www.captionbot.ai/)
+
+# Dataset
+
+**TGIF: A New Dataset and Benchmark on Animated GIF Description**
+
+- arxiv: [http://arxiv.org/abs/1604.02748](http://arxiv.org/abs/1604.02748)
+- github: [https://github.com/raingo/TGIF-Release](https://github.com/raingo/TGIF-Release)
