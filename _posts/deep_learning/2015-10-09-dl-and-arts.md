@@ -117,6 +117,11 @@ date: 2015-10-09
 with the style of another image using convolutional neural networks
 - github: [https://github.com/SergeyMorugin/ostagram](https://github.com/SergeyMorugin/ostagram)
 
+**Perceptual Losses for Real-Time Style Transfer and Super-Resolution**
+
+- arxiv: [http://arxiv.org/abs/1603.08155](http://arxiv.org/abs/1603.08155)
+- github: [https://github.com/yusuketomoto/chainer-fast-neuralstyle](https://github.com/yusuketomoto/chainer-fast-neuralstyle)
+
 # Music
 
 **GRUV: Algorithmic Music Generation using Recurrent Neural Networks**

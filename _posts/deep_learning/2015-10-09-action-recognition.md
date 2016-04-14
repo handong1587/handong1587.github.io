@@ -48,3 +48,7 @@ extract saptio-temporal features to represent the video using the CNNs."
 **ActivityNet: A Large-Scale Video Benchmark for Human Activity Understanding**
 
 - homepage: [http://activity-net.org/](http://activity-net.org/)
+
+**Active Learning for Online Recognition of Human Activities from Streaming Videos**
+
+- arxiv: [http://arxiv.org/abs/1604.02855](http://arxiv.org/abs/1604.02855)

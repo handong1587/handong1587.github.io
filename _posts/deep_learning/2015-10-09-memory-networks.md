@@ -24,6 +24,7 @@ date: 2015-10-09
 - arXiv: [http://arxiv.org/abs/1503.08895](http://arxiv.org/abs/1503.08895)
 - github: [https://github.com/facebook/MemNN](https://github.com/facebook/MemNN)
 - github: [https://github.com/vinhkhuc/MemN2N-babi-python](https://github.com/vinhkhuc/MemN2N-babi-python)
+- github: [https://github.com/npow/MemN2N](https://github.com/npow/MemN2N)
 - video: [http://research.microsoft.com/apps/video/default.aspx?id=259920&r=1](http://research.microsoft.com/apps/video/default.aspx?id=259920&r=1)
 - video: [http://pan.baidu.com/s/1pKiGLzP](http://pan.baidu.com/s/1pKiGLzP)
 

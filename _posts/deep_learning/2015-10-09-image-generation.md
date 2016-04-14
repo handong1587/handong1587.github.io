@@ -26,6 +26,8 @@ date: 2015-10-09
 
 - arXiv: [http://arxiv.org/abs/1502.04623](http://arxiv.org/abs/1502.04623)
 - github: [https://github.com/vivanov879/draw](https://github.com/vivanov879/draw)
+- youtube: [https://www.youtube.com/watch?v=Zt-7MI9eKEo&hd=1](https://www.youtube.com/watch?v=Zt-7MI9eKEo&hd=1)
+- video: [http://pan.baidu.com/s/1gd3W6Fh](http://pan.baidu.com/s/1gd3W6Fh)
 
 **Generative Image Modeling Using Spatial LSTMs**
 

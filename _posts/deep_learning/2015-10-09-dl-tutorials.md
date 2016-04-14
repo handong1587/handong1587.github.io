@@ -106,3 +106,7 @@ date: 2015-10-09
 **Deep Learning for Computer Vision – Introduction to Convolution Neural Networks**
 
 - blog: [http://www.analyticsvidhya.com/blog/2016/04/deep-learning-computer-vision-introduction-convolution-neural-networks/](http://www.analyticsvidhya.com/blog/2016/04/deep-learning-computer-vision-introduction-convolution-neural-networks/)
+
+**summerschool2015: Slides and exercises for the Deep Learning Summer School 2015 programming tutorials**
+
+- github: [https://github.com/mila-udem/summerschool2015](https://github.com/mila-udem/summerschool20150

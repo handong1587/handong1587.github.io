@@ -43,6 +43,7 @@ after the embedding and recurrent layers of the RNN."
 
 - arXiv: [http://arxiv.org/abs/1502.03044](http://arxiv.org/abs/1502.03044)
 - github: [https://github.com/kelvinxu/arctic-captions](https://github.com/kelvinxu/arctic-captions)
+- github: [https://github.com/jazzsaxmafia/show_attend_and_tell.tensorflow](https://github.com/jazzsaxmafia/show_attend_and_tell.tensorflow)
 
 **Describing Videos by Exploiting Temporal Structure**
 

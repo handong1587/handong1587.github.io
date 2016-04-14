@@ -89,3 +89,8 @@ accuracy and the detection and localization accuracy of all tasks
 - homepage: [http://mcnn.noahlab.com.hk/project.html](http://mcnn.noahlab.com.hk/project.html)
 - paper: [http://mcnn.noahlab.com.hk/ICCV2015.pdf](http://mcnn.noahlab.com.hk/ICCV2015.pdf)
 - arXiv: [http://arxiv.org/abs/1504.06063](http://arxiv.org/abs/1504.06063)
+
+**A C++ library for Multimodal Deep Learning**
+
+- arxiv: [http://arxiv.org/abs/1512.06927](http://arxiv.org/abs/1512.06927)
+- github: [https://github.com/Jian-23/Deep-Learning-Library](https://github.com/Jian-23/Deep-Learning-Library)

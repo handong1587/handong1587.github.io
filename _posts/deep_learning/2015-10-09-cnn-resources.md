@@ -202,6 +202,12 @@ Bicubic VS. Shepard CNN
 
 - arxiv: [http://arxiv.org/abs/1603.01068](http://arxiv.org/abs/1603.01068)
 
+**From Pixels to Sentiment: Fine-tuning CNNs for Visual Sentiment Prediction**
+
+- arxiv: [http://arxiv.org/abs/1604.03489](http://arxiv.org/abs/1604.03489)
+- github: [https://github.com/imatge-upc/sentiment-2016](https://github.com/imatge-upc/sentiment-2016)
+- gitxiv: [http://gitxiv.com/posts/ruqRgXdPTHJ77LDEb/from-pixels-to-sentiment-fine-tuning-cnns-for-visual](http://gitxiv.com/posts/ruqRgXdPTHJ77LDEb/from-pixels-to-sentiment-fine-tuning-cnns-for-visual)
+
 ## Pose Estimation 
 
 **Flowing ConvNets for Human Pose Estimation in Videos**

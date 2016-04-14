@@ -451,7 +451,7 @@ with fast exact probabilistic inference over many layers."
 
 - paper: [https://www.blackhat.com/docs/asia-16/materials/asia-16-Sivakorn-Im-Not-a-Human-Breaking-the-Google-reCAPTCHA-wp.pdf](https://www.blackhat.com/docs/asia-16/materials/asia-16-Sivakorn-Im-Not-a-Human-Breaking-the-Google-reCAPTCHA-wp.pdf)
 
-# Codes
+# Projects
 
 **deepnet: Implementation of some deep learning algorithms**
 

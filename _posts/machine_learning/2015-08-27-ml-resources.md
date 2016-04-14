@@ -413,6 +413,19 @@ Other awesome lists can be found in this [list](https://github.com/sindresorhus/
 - homepage: [http://mandar2812.github.io/DynaML/](http://mandar2812.github.io/DynaML/)
 - github: [https://github.com/mandar2812/DynaML/](https://github.com/mandar2812/DynaML/)
 
+**Smile - Statistical Machine Intelligence and Learning Engine**
+
+- intro: Smile is a fast and comprehensive machine learning system.
+- homepage: [http://haifengl.github.io/smile/index.html](http://haifengl.github.io/smile/index.html)
+- github: [https://github.com/haifengl/smile](https://github.com/haifengl/smile)
+
+**benchm-ml**
+
+- intro: A minimal benchmark for scalability, speed and accuracy of commonly used open source implementations 
+(R packages, Python scikit-learn, H2O, xgboost, Spark MLlib etc.) of the top machine learning algorithms 
+for binary classification (random forests, gradient boosted trees, deep neural networks etc.).
+- github: [https://github.com/szilard/benchm-ml](https://github.com/szilard/benchm-ml)
+
 # Readings and Questions
 
 **(Quora): What are the top 10 data mining or machine learning algorithms?**

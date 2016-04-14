@@ -465,3 +465,7 @@ date: 2015-10-09
 **DL4J vs. Torch vs. Theano vs. Caffe vs. TensorFlow**
 
 [http://deeplearning4j.org/compare-dl4j-torch7-pylearn.html](http://deeplearning4j.org/compare-dl4j-torch7-pylearn.html)
+
+**Popular Deep Learning Libraries**
+
+- blog: [http://machinelearningmastery.com/popular-deep-learning-libraries/](http://machinelearningmastery.com/popular-deep-learning-libraries/)
