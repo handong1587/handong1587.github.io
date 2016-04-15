@@ -89,6 +89,10 @@ date: 2015-10-09
 - blog: [http://torch.ch/blog/2015/11/13/gan.html](http://torch.ch/blog/2015/11/13/gan.html)
 - github: [https://github.com/skaae/torch-gan](https://github.com/skaae/torch-gan)
 
+**Generating Large Images from Latent Vectors**
+
+[http://blog.otoro.net/2016/04/01/generating-large-images-from-latent-vectors/](http://blog.otoro.net/2016/04/01/generating-large-images-from-latent-vectors/)
+
 # Codes
 
 **Generate cat images with neural networks**

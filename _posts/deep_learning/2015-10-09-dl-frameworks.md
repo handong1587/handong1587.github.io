@@ -369,6 +369,11 @@ date: 2015-10-09
 - slides: [http://pan.baidu.com/s/1slbzhF3#path=%252F%25E6%2588%2591%25E7%259A%2584%25E5%2588%2586%25E4%25BA%25AB%252F201604%252FIan%2520Goodfellow's%2520Tutorials%2520on%2520Theano](http://pan.baidu.com/s/1slbzhF3#path=%252F%25E6%2588%2591%25E7%259A%2584%25E5%2588%2586%25E4%25BA%25AB%252F201604%252FIan%2520Goodfellow's%2520Tutorials%2520on%2520Theano)
 - github("theano_exercises"): [https://github.com/goodfeli/theano_exercises](https://github.com/goodfeli/theano_exercises)
 
+**Plato: A library built on top of Theano**
+
+- github: [https://github.com/petered/plato](https://github.com/petered/plato)
+- tutorial: [https://rawgit.com/petered/plato/master/plato_tutorial.html](https://rawgit.com/petered/plato/master/plato_tutorial.html)
+
 # tiny-cnn
 
 **tiny-cnn: A header only, dependency-free deep learning framework in C++11**
@@ -395,6 +400,10 @@ date: 2015-10-09
 **pytorch: Python wrappers for torch and lua**
 
 - github: [https://github.com/hughperkins/pytorch](https://github.com/hughperkins/pytorch)
+
+**Torch Toolbox: A collection of snippets and libraries for Torch**
+
+- github: [https://github.com/e-lab/torch-toolbox](https://github.com/e-lab/torch-toolbox)
 
 # VELES
 

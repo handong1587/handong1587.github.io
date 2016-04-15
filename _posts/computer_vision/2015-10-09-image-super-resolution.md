@@ -29,6 +29,10 @@ date: 2015-10-09
 - homepage: [https://sites.google.com/site/jbhuang0604/publications/struct_sr](https://sites.google.com/site/jbhuang0604/publications/struct_sr)
 - github: [https://github.com/jbhuang0604/SelfExSR](https://github.com/jbhuang0604/SelfExSR)
 
+**Deeply-Recursive Convolutional Network for Image Super-Resolution**
+
+- arxiv: [http://arxiv.org/abs/1511.04491](http://arxiv.org/abs/1511.04491)
+
 **Super-Resolution with Deep Convolutional Sufficient Statistics**
 
 - arxiv: [http://arxiv.org/abs/1511.05666](http://arxiv.org/abs/1511.05666)

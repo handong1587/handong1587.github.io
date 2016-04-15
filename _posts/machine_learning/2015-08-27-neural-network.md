@@ -54,7 +54,7 @@ date: 2015-08-27
 
 [https://medium.com/@ivanliljeqvist/the-essence-of-artificial-neural-networks-5de300c995d6#.yk0kydmf8](https://medium.com/@ivanliljeqvist/the-essence-of-artificial-neural-networks-5de300c995d6#.yk0kydmf8)
 
-# Tools
+# Project
 
 **Neural Networks demo in Javascript**
 
@@ -76,6 +76,12 @@ date: 2015-08-27
 **GNU Gneural Network**
 
 - homepage: [http://www.gnu.org/software/gneuralnetwork/](http://www.gnu.org/software/gneuralnetwork/)
+
+**Generating procedural plants with neural networks**
+
+![](http://www.iotapersei.com/img/grow2.gif)
+
+- blog: [http://www.iotapersei.com/_neural_networks_article.html](http://www.iotapersei.com/_neural_networks_article.html)
 
 # Videos
 

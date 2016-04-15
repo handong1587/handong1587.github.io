@@ -111,6 +111,10 @@ after the embedding and recurrent layers of the RNN."
 
 - arXiv: [http://arxiv.org/abs/1505.01861](http://arxiv.org/abs/1505.01861)
 
+**Video Description using Bidirectional Recurrent Neural Networks**
+
+- arxiv: [http://arxiv.org/abs/1604.03390](http://arxiv.org/abs/1604.03390)
+
 # Tools
 
 **CaptionBot (Microsoft)**

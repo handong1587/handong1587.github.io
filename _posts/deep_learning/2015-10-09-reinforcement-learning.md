@@ -200,6 +200,10 @@ Its simple, and is ideal for rapid prototyping."
 
 - github: [https://github.com/Jabberwockyll/deep_rl_ale](https://github.com/Jabberwockyll/deep_rl_ale)
 
+**Chimp: General purpose framework for deep reinforcement learning**
+
+- github: [https://github.com/sisl/Chimp](https://github.com/sisl/Chimp)
+
 # Blogs
 
 **A Short Introduction To Some Reinforcement Learning Algorithms**

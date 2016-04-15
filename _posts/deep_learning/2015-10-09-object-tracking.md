@@ -29,9 +29,13 @@ paper: [http://120.52.73.14/www.cv-foundation.org/openaccess/content_cvpr_2014/p
 - arxiv: [http://arxiv.org/abs/1501.04587](http://arxiv.org/abs/1501.04587)
 - slides: [http://valse.mmcheng.net/ftp/20150325/RVT.pptx](http://valse.mmcheng.net/ftp/20150325/RVT.pptx)
 
-**Learning Multi-Domain Convolutional Neural Networks for Visual Tracking**
+**Learning Multi-Domain Convolutional Neural Networks for Visual Tracking (The Winner of The VOT2015 Challenge)**
 
-- arXiv: [http://arxiv.org/abs/1510.07945](http://arxiv.org/abs/1510.07945)
+![](http://cvlab.postech.ac.kr/research/mdnet/images_/mdnet_.png)
+
+- homepage: [http://cvlab.postech.ac.kr/research/mdnet/](http://cvlab.postech.ac.kr/research/mdnet/)
+- arxiv: [http://arxiv.org/abs/1510.07945](http://arxiv.org/abs/1510.07945)
+- github: [https://github.com/HyeonseobNam/MDNet](https://github.com/HyeonseobNam/MDNet)
 
 **RATM: Recurrent Attentive Tracking Model**
 

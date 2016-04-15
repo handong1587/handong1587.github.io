@@ -68,6 +68,11 @@ which encodes useful class information rather than individual units (feature act
 
 - arXiv: [http://arxiv.org/abs/1511.03034](http://arxiv.org/abs/1511.03034)
 
+**DeepFool: a simple and accurate method to fool deep neural networks**
+
+- arXiv: [http://arxiv.org/abs/1511.04599](http://arxiv.org/abs/1511.04599)
+- github: [https://github.com/LTS4/DeepFool](https://github.com/LTS4/DeepFool)
+
 **Adversarial Autoencoders**
 
 - arXiv: [http://arxiv.org/abs/1511.05644](http://arxiv.org/abs/1511.05644)

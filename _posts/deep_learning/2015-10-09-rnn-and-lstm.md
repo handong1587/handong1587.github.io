@@ -70,6 +70,7 @@ date: 2015-10-09
 
 - arxiv: [http://arxiv.org/abs/1308.0850](http://arxiv.org/abs/1308.0850)
 - github: [https://github.com/hardmaru/write-rnn-tensorflow](https://github.com/hardmaru/write-rnn-tensorflow)
+- github: [https://github.com/szcom/rnnlib](https://github.com/szcom/rnnlib)
 - blog: [http://blog.otoro.net/2015/12/12/handwriting-generation-demo-in-tensorflow/](http://blog.otoro.net/2015/12/12/handwriting-generation-demo-in-tensorflow/)
 
 **DRAW: A Recurrent Neural Network For Image Generation**
