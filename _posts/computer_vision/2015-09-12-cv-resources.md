@@ -198,6 +198,16 @@ date: 2015-09-12
 - paper: [http://graphics.stanford.edu/~niessner/papers/2015/10face/thies2015realtime.pdf](http://graphics.stanford.edu/~niessner/papers/2015/10face/thies2015realtime.pdf)
 - homepage: [http://graphics.stanford.edu/~niessner/thies2015realtime.html](http://graphics.stanford.edu/~niessner/thies2015realtime.html)
 
+# Projects
+
+**OpenBR: Open Source Biometrics, Face Recognition, Age Estimation, Gender Estimation**
+
+![](http://openbiometrics.org/diagram.png)
+
+- homepage: [http://openbiometrics.org/](http://openbiometrics.org/)
+- github: [https://github.com/biometrics/openbr](https://github.com/biometrics/openbr)
+- docs: [http://openbiometrics.org/docs/index.html](http://openbiometrics.org/docs/index.html)
+
 # Resources
 
 **Awesome-deep-vision: A curated list of deep learning resources for computer vision**

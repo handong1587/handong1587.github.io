@@ -48,6 +48,7 @@ date: 2015-10-09
 3.5% top-5 error and 17.3% top-1 error With an ensemble of 4 models and multi-crop evaluation."
 - arXiv: [http://arxiv.org/abs/1512.00567](http://arxiv.org/abs/1512.00567)
 - github("Torch port of Inception V3"): [https://github.com/Moodstocks/inception-v3.torch](https://github.com/Moodstocks/inception-v3.torch)
+- github("Inception in TensorFlow"): [https://github.com/tensorflow/models/tree/master/inception#how-to-train-from-scratch-in-a-distributed-setting](https://github.com/tensorflow/models/tree/master/inception#how-to-train-from-scratch-in-a-distributed-setting)
 
 ## ResNet
 
@@ -451,6 +452,16 @@ with fast exact probabilistic inference over many layers."
 
 - paper: [https://www.blackhat.com/docs/asia-16/materials/asia-16-Sivakorn-Im-Not-a-Human-Breaking-the-Google-reCAPTCHA-wp.pdf](https://www.blackhat.com/docs/asia-16/materials/asia-16-Sivakorn-Im-Not-a-Human-Breaking-the-Google-reCAPTCHA-wp.pdf)
 
+**Understanding How Image Quality Affects Deep Neural Networks**
+
+- arxiv: [http://arxiv.org/abs/1604.04004](http://arxiv.org/abs/1604.04004)
+- reddit: [https://www.reddit.com/r/MachineLearning/comments/4exk3u/dcnns_are_more_sensitive_to_blur_and_noise_than/](https://www.reddit.com/r/MachineLearning/comments/4exk3u/dcnns_are_more_sensitive_to_blur_and_noise_than/)
+
+**Deep Embedding for Spatial Role Labeling**
+
+- arxiv: [http://arxiv.org/abs/1603.08474](http://arxiv.org/abs/1603.08474)
+- github: [https://github.com/oswaldoludwig/visually-informed-embedding-of-word-VIEW-](https://github.com/oswaldoludwig/visually-informed-embedding-of-word-VIEW-)
+
 # Projects
 
 **deepnet: Implementation of some deep learning algorithms**
@@ -496,6 +507,10 @@ with fast exact probabilistic inference over many layers."
 **Deep Learning (Python, C, C++, Java, Scala, Go)**
 
 - github: [https://github.com/yusugomori/DeepLearning](https://github.com/yusugomori/DeepLearning)
+
+**deepmark: THE Deep Learning Benchmarks**
+
+- github: [https://github.com/DeepMark/deepmark](https://github.com/DeepMark/deepmark)
 
 # Readings and Questions
 

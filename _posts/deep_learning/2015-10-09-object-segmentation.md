@@ -107,6 +107,11 @@ using the stochastic gradient descent (SGD) algorithm to obtain fine pixel-level
 - youtube: [https://www.youtube.com/watch?v=xfNYAly1iXo](https://www.youtube.com/watch?v=xfNYAly1iXo)
 - video: [http://pan.baidu.com/s/1gdUzDlD](http://pan.baidu.com/s/1gdUzDlD)
 
+**Multi-Scale Context Aggregation by Dilated Convolutions**
+
+- arxiv: [http://arxiv.org/abs/1511.07122](http://arxiv.org/abs/1511.07122)
+- github: [https://github.com/fyu/dilation](https://github.com/fyu/dilation)
+
 **Recurrent Instance Segmentation**
 
 ![](http://romera-paredes.com/wp-content/uploads/2015/12/RIS.png)

@@ -56,6 +56,11 @@ date: 2015-10-09
 
 - homepage: [http://pjreddie.com/darknet/darkgo-go-in-darknet/](http://pjreddie.com/darknet/darkgo-go-in-darknet/)
 
+**BetaGo: Go bots for the people**
+
+- homepage: [http://maxpumperla.github.io/betago/](http://maxpumperla.github.io/betago/)
+- github: [https://github.com/maxpumperla/betago](https://github.com/maxpumperla/betago)
+
 # Chess
 
 **Giraffe: Using Deep Reinforcement Learning to Play Chess (MSc thesis)**

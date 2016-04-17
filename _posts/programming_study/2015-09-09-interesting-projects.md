@@ -158,3 +158,9 @@ control a spaceship in order to complete some objective.
 
 - github: [https://github.com/googollee/eviltransform](https://github.com/googollee/eviltransform)
 - blog("Why You Can't Trust GPS in China"): [http://www.travelandleisure.com/articles/digital-maps-skewed-china](http://www.travelandleisure.com/articles/digital-maps-skewed-china)
+
+# Others
+
+**Module 7: Introduction to D3.js**
+
+- github: [https://github.com/INFO-474/m7-d3-intro](https://github.com/INFO-474/m7-d3-intro)

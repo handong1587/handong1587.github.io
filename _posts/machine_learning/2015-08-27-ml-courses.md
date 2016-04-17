@@ -107,3 +107,8 @@ date: 2015-08-27
 **MIT: 9.520: Statistical Learning Theory and Applications, Fall 2015**
 
 [http://www.mit.edu/~9.520/fall15/](http://www.mit.edu/~9.520/fall15/)
+
+**Machine Learning: 10-701/15-781, Spring 2011 (Carnegie Mellon University. Tom Mitchell)**
+
+- homepage: [http://www.cs.cmu.edu/~tom/10701_sp11/](http://www.cs.cmu.edu/~tom/10701_sp11/)
+- lectures: [http://www.cs.cmu.edu/~tom/10701_sp11/lectures.shtml](http://www.cs.cmu.edu/~tom/10701_sp11/lectures.shtml)

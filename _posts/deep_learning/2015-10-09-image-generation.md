@@ -81,6 +81,7 @@ date: 2015-10-09
 **Generating images with recurrent adversarial networks**
 
 - arxiv: [http://arxiv.org/abs/1602.05110](http://arxiv.org/abs/1602.05110)
+- github: [https://github.com/jiwoongim/GRAN](https://github.com/jiwoongim/GRAN)
 
 # Blogs
 

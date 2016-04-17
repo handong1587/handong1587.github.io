@@ -178,7 +178,7 @@ date: 2015-10-09
 - arXiv: [http://arxiv.org/abs/1410.4615](http://arxiv.org/abs/1410.4615)
 - github: [https://github.com/wojciechz/learning_to_execute](https://github.com/wojciechz/learning_to_execute)
 
-**Neural Programmer-Interpreters (Google DeepMind)**
+**Neural Programmer-Interpreters (Google DeepMind. ICLR 2016 Best Paper)**
 
 <img src="/assets/dl-materials/rnn_lstm/NPI/add.gif" />
 
