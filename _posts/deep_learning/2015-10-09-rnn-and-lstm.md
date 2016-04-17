@@ -5,6 +5,9 @@ title: RNN and LSTM
 date: 2015-10-09
 ---
 
+* TOC
+{:toc}
+
 # Types of RNN
 
 1) Plain Tanh Recurrent Nerual Networks
@@ -63,6 +66,102 @@ date: 2015-10-09
 
 - arxiv: [http://arxiv.org/abs/1511.06732](http://arxiv.org/abs/1511.06732)
 - notes: [https://www.evernote.com/shard/s189/sh/ada01a82-70a9-48d4-985c-20492ab91e84/8da92be19e704996dc2b929473abed46](https://www.evernote.com/shard/s189/sh/ada01a82-70a9-48d4-985c-20492ab91e84/8da92be19e704996dc2b929473abed46)
+
+**Training Recurrent Neural Networks (PhD thesis)**
+
+- atuhor: Ilya Sutskever
+- thesis: [https://www.cs.utoronto.ca/~ilya/pubs/ilya_sutskever_phd_thesis.pdf](https://www.cs.utoronto.ca/~ilya/pubs/ilya_sutskever_phd_thesis.pdf)
+
+**Deep learning for control using augmented Hessian-free optimization**
+
+- blog: [https://studywolf.wordpress.com/2016/04/04/deep-learning-for-control-using-augmented-hessian-free-optimization/](https://studywolf.wordpress.com/2016/04/04/deep-learning-for-control-using-augmented-hessian-free-optimization/)
+- github: [https://github.com/studywolf/blog/blob/master/train_AHF/train_hf.py](https://github.com/studywolf/blog/blob/master/train_AHF/train_hf.py)
+
+- - -
+
+**Hierarchical Conflict Propagation: Sequence Learning in a Recurrent Deep Neural Network**
+
+- arxiv: [http://arxiv.org/abs/1602.08118](http://arxiv.org/abs/1602.08118)
+
+**Recurrent Batch Normalization**
+
+- arxiv: [http://arxiv.org/abs/1603.09025](http://arxiv.org/abs/1603.09025)
+- github: [https://github.com/iassael/torch-bnlstm](https://github.com/iassael/torch-bnlstm)
+
+**Optimizing Performance of Recurrent Neural Networks on GPUs**
+
+- arxiv: [http://arxiv.org/abs/1604.01946](http://arxiv.org/abs/1604.01946)
+- github: [https://github.com/parallel-forall/code-samples/blob/master/posts/rnn/LSTM.cu](https://github.com/parallel-forall/code-samples/blob/master/posts/rnn/LSTM.cu)
+
+# Learn To Execute Programs
+
+**Learning to Execute**
+
+- arXiv: [http://arxiv.org/abs/1410.4615](http://arxiv.org/abs/1410.4615)
+- github: [https://github.com/wojciechz/learning_to_execute](https://github.com/wojciechz/learning_to_execute)
+
+**Neural Programmer-Interpreters (Google DeepMind. ICLR 2016 Best Paper)**
+
+<img src="/assets/dl-materials/rnn_lstm/NPI/add.gif" />
+
+<img src="/assets/dl-materials/rnn_lstm/NPI/cars.gif" />
+
+<img src="/assets/dl-materials/rnn_lstm/NPI/sort_full.gif" />
+
+- arXiv: [http://arxiv.org/abs/1511.06279](http://arxiv.org/abs/1511.06279)
+- project page: [http://www-personal.umich.edu/~reedscot/iclr_project.html](http://www-personal.umich.edu/~reedscot/iclr_project.html)
+
+**A Programmer-Interpreter Neural Network Architecture for Prefrontal Cognitive Control**
+
+- paper: [https://www.researchgate.net/publication/273912337_A_ProgrammerInterpreter_Neural_Network_Architecture_for_Prefrontal_Cognitive_Control](https://www.researchgate.net/publication/273912337_A_ProgrammerInterpreter_Neural_Network_Architecture_for_Prefrontal_Cognitive_Control)
+
+**Convolutional RNN: an Enhanced Model for Extracting Features from Sequential Data**
+
+- arxiv: [http://arxiv.org/abs/1602.05875](http://arxiv.org/abs/1602.05875)
+
+# Attention Models
+
+**Recurrent Models of Visual Attention** (Google DeepMind. NIPS2014)
+
+- paper: [http://arxiv.org/abs/1406.6247](http://arxiv.org/abs/1406.6247)
+- data: [https://github.com/deepmind/mnist-cluttered](https://github.com/deepmind/mnist-cluttered)
+- code: [https://github.com/Element-Research/rnn/blob/master/examples/recurrent-visual-attention.lua](https://github.com/Element-Research/rnn/blob/master/examples/recurrent-visual-attention.lua)
+
+**Recurrent Model of Visual Attention(Google DeepMind)**
+
+- paper: [http://arxiv.org/abs/1406.6247](http://arxiv.org/abs/1406.6247)
+- GitXiv: [http://gitxiv.com/posts/ZEobCXSh23DE8a8mo/recurrent-models-of-visual-attention](http://gitxiv.com/posts/ZEobCXSh23DE8a8mo/recurrent-models-of-visual-attention)
+- blog: [http://torch.ch/blog/2015/09/21/rmva.html](http://torch.ch/blog/2015/09/21/rmva.html)
+- code: [https://github.com/Element-Research/rnn/blob/master/scripts/evaluate-rva.lua](https://github.com/Element-Research/rnn/blob/master/scripts/evaluate-rva.lua)
+
+**Show, Attend and Tell: Neural Image Caption Generation with Visual Attention**
+
+- paper: [http://arxiv.org/abs/1502.03044](http://arxiv.org/abs/1502.03044)
+- code: [https://github.com/kelvinxu/arctic-captions](https://github.com/kelvinxu/arctic-captions)
+
+**A Neural Attention Model for Abstractive Sentence Summarization(EMNLP 2015. Facebook AI Research)**
+
+- arXiv: [http://arxiv.org/abs/1509.00685](http://arxiv.org/abs/1509.00685)
+- github: [https://github.com/facebook/NAMAS](https://github.com/facebook/NAMAS)
+
+**Effective Approaches to Attention-based Neural Machine Translation(EMNLP2015)**
+
+- paper: [http://nlp.stanford.edu/pubs/emnlp15_attn.pdf](http://nlp.stanford.edu/pubs/emnlp15_attn.pdf)
+- project: [http://nlp.stanford.edu/projects/nmt/](http://nlp.stanford.edu/projects/nmt/)
+
+**Generating Images from Captions with Attention**
+
+- arxiv: [http://arxiv.org/abs/1511.02793](http://arxiv.org/abs/1511.02793)
+- github: [https://github.com/emansim/text2image](https://github.com/emansim/text2image)
+- demo: [http://www.cs.toronto.edu/~emansim/cap2im.html](http://www.cs.toronto.edu/~emansim/cap2im.html)
+
+**Attention and Memory in Deep Learning and NLP**
+
+- blog: [http://www.wildml.com/2016/01/attention-and-memory-in-deep-learning-and-nlp/](http://www.wildml.com/2016/01/attention-and-memory-in-deep-learning-and-nlp/)
+
+**Survey on the attention based RNN model and its applications in computer vision**
+
+- arxiv: [http://arxiv.org/abs/1601.06823](http://arxiv.org/abs/1601.06823)
 
 # Papers
 
@@ -171,105 +270,7 @@ date: 2015-10-09
 
 - arxiv: [http://arxiv.org/abs/1603.00954](http://arxiv.org/abs/1603.00954)
 
-# Learn To Execute Programs
-
-**Learning to Execute**
-
-- arXiv: [http://arxiv.org/abs/1410.4615](http://arxiv.org/abs/1410.4615)
-- github: [https://github.com/wojciechz/learning_to_execute](https://github.com/wojciechz/learning_to_execute)
-
-**Neural Programmer-Interpreters (Google DeepMind. ICLR 2016 Best Paper)**
-
-<img src="/assets/dl-materials/rnn_lstm/NPI/add.gif" />
-
-<img src="/assets/dl-materials/rnn_lstm/NPI/cars.gif" />
-
-<img src="/assets/dl-materials/rnn_lstm/NPI/sort_full.gif" />
-
-- arXiv: [http://arxiv.org/abs/1511.06279](http://arxiv.org/abs/1511.06279)
-- project page: [http://www-personal.umich.edu/~reedscot/iclr_project.html](http://www-personal.umich.edu/~reedscot/iclr_project.html)
-
-**A Programmer-Interpreter Neural Network Architecture for Prefrontal Cognitive Control**
-
-- paper: [https://www.researchgate.net/publication/273912337_A_ProgrammerInterpreter_Neural_Network_Architecture_for_Prefrontal_Cognitive_Control](https://www.researchgate.net/publication/273912337_A_ProgrammerInterpreter_Neural_Network_Architecture_for_Prefrontal_Cognitive_Control)
-
-**Convolutional RNN: an Enhanced Model for Extracting Features from Sequential Data**
-
-- arxiv: [http://arxiv.org/abs/1602.05875](http://arxiv.org/abs/1602.05875)
-
-# Attention Models
-
-**Recurrent Models of Visual Attention** (Google DeepMind. NIPS2014)
-
-- paper: [http://arxiv.org/abs/1406.6247](http://arxiv.org/abs/1406.6247)
-- data: [https://github.com/deepmind/mnist-cluttered](https://github.com/deepmind/mnist-cluttered)
-- code: [https://github.com/Element-Research/rnn/blob/master/examples/recurrent-visual-attention.lua](https://github.com/Element-Research/rnn/blob/master/examples/recurrent-visual-attention.lua)
-
-**Recurrent Model of Visual Attention(Google DeepMind)**
-
-- paper: [http://arxiv.org/abs/1406.6247](http://arxiv.org/abs/1406.6247)
-- GitXiv: [http://gitxiv.com/posts/ZEobCXSh23DE8a8mo/recurrent-models-of-visual-attention](http://gitxiv.com/posts/ZEobCXSh23DE8a8mo/recurrent-models-of-visual-attention)
-- blog: [http://torch.ch/blog/2015/09/21/rmva.html](http://torch.ch/blog/2015/09/21/rmva.html)
-- code: [https://github.com/Element-Research/rnn/blob/master/scripts/evaluate-rva.lua](https://github.com/Element-Research/rnn/blob/master/scripts/evaluate-rva.lua)
-
-**Show, Attend and Tell: Neural Image Caption Generation with Visual Attention**
-
-- paper: [http://arxiv.org/abs/1502.03044](http://arxiv.org/abs/1502.03044)
-- code: [https://github.com/kelvinxu/arctic-captions](https://github.com/kelvinxu/arctic-captions)
-
-**A Neural Attention Model for Abstractive Sentence Summarization(EMNLP 2015. Facebook AI Research)**
-
-- arXiv: [http://arxiv.org/abs/1509.00685](http://arxiv.org/abs/1509.00685)
-- github: [https://github.com/facebook/NAMAS](https://github.com/facebook/NAMAS)
-
-**Effective Approaches to Attention-based Neural Machine Translation(EMNLP2015)**
-
-- paper: [http://nlp.stanford.edu/pubs/emnlp15_attn.pdf](http://nlp.stanford.edu/pubs/emnlp15_attn.pdf)
-- project: [http://nlp.stanford.edu/projects/nmt/](http://nlp.stanford.edu/projects/nmt/)
-
-**Generating Images from Captions with Attention**
-
-- arxiv: [http://arxiv.org/abs/1511.02793](http://arxiv.org/abs/1511.02793)
-- github: [https://github.com/emansim/text2image](https://github.com/emansim/text2image)
-- demo: [http://www.cs.toronto.edu/~emansim/cap2im.html](http://www.cs.toronto.edu/~emansim/cap2im.html)
-
-**Attention and Memory in Deep Learning and NLP**
-
-- blog: [http://www.wildml.com/2016/01/attention-and-memory-in-deep-learning-and-nlp/](http://www.wildml.com/2016/01/attention-and-memory-in-deep-learning-and-nlp/)
-
-**Survey on the attention based RNN model and its applications in computer vision**
-
-- arxiv: [http://arxiv.org/abs/1601.06823](http://arxiv.org/abs/1601.06823)
-
-# Train RNN
-
-**Training Recurrent Neural Networks (PhD thesis)**
-
-- atuhor: Ilya Sutskever
-- thesis: [https://www.cs.utoronto.ca/~ilya/pubs/ilya_sutskever_phd_thesis.pdf](https://www.cs.utoronto.ca/~ilya/pubs/ilya_sutskever_phd_thesis.pdf)
-
-**Deep learning for control using augmented Hessian-free optimization**
-
-- blog: [https://studywolf.wordpress.com/2016/04/04/deep-learning-for-control-using-augmented-hessian-free-optimization/](https://studywolf.wordpress.com/2016/04/04/deep-learning-for-control-using-augmented-hessian-free-optimization/)
-- github: [https://github.com/studywolf/blog/blob/master/train_AHF/train_hf.py](https://github.com/studywolf/blog/blob/master/train_AHF/train_hf.py)
-
-- - -
-
-**Hierarchical Conflict Propagation: Sequence Learning in a Recurrent Deep Neural Network**
-
-- arxiv: [http://arxiv.org/abs/1602.08118](http://arxiv.org/abs/1602.08118)
-
-**Recurrent Batch Normalization**
-
-- arxiv: [http://arxiv.org/abs/1603.09025](http://arxiv.org/abs/1603.09025)
-- github: [https://github.com/iassael/torch-bnlstm](https://github.com/iassael/torch-bnlstm)
-
-**Optimizing Performance of Recurrent Neural Networks on GPUs**
-
-- arxiv: [http://arxiv.org/abs/1604.01946](http://arxiv.org/abs/1604.01946)
-- github: [https://github.com/parallel-forall/code-samples/blob/master/posts/rnn/LSTM.cu](https://github.com/parallel-forall/code-samples/blob/master/posts/rnn/LSTM.cu)
-
-# Codes
+# Projects
 
 **NeuralTalk (Deprecated): a Python+numpy project for learning Multimodal Recurrent Neural Networks that describe images with sentences**
 
@@ -312,7 +313,7 @@ date: 2015-10-09
 
 - github: [https://github.com/junhyukoh/caffe-lstm](https://github.com/junhyukoh/caffe-lstm)
 
-# Blog
+# Blogs
 
 **Survey on Attention-based Models Applied in NLP**
 
