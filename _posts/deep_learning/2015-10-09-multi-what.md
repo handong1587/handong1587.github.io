@@ -94,3 +94,7 @@ accuracy and the detection and localization accuracy of all tasks
 
 - arxiv: [http://arxiv.org/abs/1512.06927](http://arxiv.org/abs/1512.06927)
 - github: [https://github.com/Jian-23/Deep-Learning-Library](https://github.com/Jian-23/Deep-Learning-Library)
+
+**Multimodal Learning for Image Captioning and Visual Question Answering**
+
+- slides: [http://research.microsoft.com/pubs/264769/UCB_XiaodongHe.6.pdf](http://research.microsoft.com/pubs/264769/UCB_XiaodongHe.6.pdf)

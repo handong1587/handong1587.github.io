@@ -41,3 +41,10 @@ date: 2015-07-01
 **Bloofi: A java implementation of multidimensional Bloom filters**
 
 - github: [https://github.com/lemire/bloofi](https://github.com/lemire/bloofi)
+
+# Resources
+
+**The Algorithm Design Manual, 2nd Edition**
+
+- author: Steven Skiena
+- homepage: [http://www.algorist.com/#](http://www.algorist.com/#)

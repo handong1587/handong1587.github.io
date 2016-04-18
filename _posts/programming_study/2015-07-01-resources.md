@@ -46,3 +46,10 @@ date: 2015-07-01
 - intro: 95 entries
 - author: by Keith Schwarz, Stanford CS166.
 - blog: [http://www.keithschwarz.com/interesting/](http://www.keithschwarz.com/interesting/)
+
+**Dijkstra Cartography**
+
+![](https://github.com/ibaaj/dijkstra-cartography/blob/master/results/SD/paris.png)
+
+- intro: Using Dijkstra's algorithm ("finding the shortest paths between nodes in a graph") to draw maps
+- github: [https://github.com/ibaaj/dijkstra-cartography](https://github.com/ibaaj/dijkstra-cartography)

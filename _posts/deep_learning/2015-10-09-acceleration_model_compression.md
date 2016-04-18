@@ -1,7 +1,7 @@
 ---
 layout: post
 category: deep_learning
-title: Accelerate Convolutional Neural Networks
+title: Acceleration and Model Compression
 date: 2015-10-09
 ---
 
@@ -94,10 +94,11 @@ to decompose it into the multiplications of thinned dense matrices"
 
 - arXiv: [http://arxiv.org/abs/1509.06569](http://arxiv.org/abs/1509.06569)
 
-**A Deep Neural Network Compression Pipeline: Pruning, Quantization, Huffman Encoding(ICLR 2016)**
+**Deep Compression: Compressing Deep Neural Networks with Pruning, Trained Quantization and Huffman Coding (ICLR 2016 Best Paper)**
 
 - intro: "reduced the size of AlexNet by 35x from 240MB to 6.9MB, the size of VGG16 by 49x from 552MB to 11.3MB, with no loss of accuracy"
-- arXiv: [http://arxiv.org/abs/1510.00149](http://arxiv.org/abs/1510.00149)
+- arxiv: [http://arxiv.org/abs/1510.00149](http://arxiv.org/abs/1510.00149)
+- youtube("Deep compression and EIE: Deep learning model compression, design space exploration and hardware acceleration"): [https://www.youtube.com/watch?v=baZOmGSSUAg](https://www.youtube.com/watch?v=baZOmGSSUAg)
 
 **ZNN - A Fast and Scalable Algorithm for Training 3D Convolutional Networks on Multi-Core and Many-Core Shared Memory Machines**
 
@@ -136,6 +137,12 @@ to decompose it into the multiplications of thinned dense matrices"
 
 - paper: [http://niclane.org/pubs/deepx_ipsn.pdf](http://niclane.org/pubs/deepx_ipsn.pdf)
 
+**Hardware-oriented Approximation of Convolutional Neural Networks**
+
+- arxiv: [http://arxiv.org/abs/1604.03168](http://arxiv.org/abs/1604.03168)
+- homepage: [http://ristretto.lepsucd.com/](http://ristretto.lepsucd.com/)
+- github("Ristretto: Caffe-based approximation of convolutional neural networks"): [https://github.com/pmgysel/caffe](https://github.com/pmgysel/caffe)
+
 # Projects
 
 **Accelerate Convolutional Neural Networks**
@@ -153,9 +160,3 @@ to decompose it into the multiplications of thinned dense matrices"
 
 - github: [https://github.com/Maratyszcza/NNPACK](https://github.com/Maratyszcza/NNPACK)
 - comments(Yann LeCun): [https://www.facebook.com/yann.lecun/posts/10153459577707143](https://www.facebook.com/yann.lecun/posts/10153459577707143)
-
-# Videos
-
-**Deep compression and EIE: Deep learning model compression, design space exploration and hardware acceleration**
-
-- youtube: [https://www.youtube.com/watch?v=baZOmGSSUAg](https://www.youtube.com/watch?v=baZOmGSSUAg)

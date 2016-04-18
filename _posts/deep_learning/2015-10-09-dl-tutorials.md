@@ -110,3 +110,7 @@ date: 2015-10-09
 **summerschool2015: Slides and exercises for the Deep Learning Summer School 2015 programming tutorials**
 
 - github: [https://github.com/mila-udem/summerschool2015](https://github.com/mila-udem/summerschool20150
+
+**Understanding Convolution in Deep Learning**
+
+- blog: [http://timdettmers.com/2015/03/26/convolution-deep-learning/](http://timdettmers.com/2015/03/26/convolution-deep-learning/)
