@@ -15,7 +15,10 @@ date: 2015-10-09
 
 **VGG Convolutional Neural Networks Practical**
 
-[http://www.robots.ox.ac.uk/~vgg/practicals/cnn/index.html](http://www.robots.ox.ac.uk/~vgg/practicals/cnn/index.html)
+![](http://www.robots.ox.ac.uk/~vgg/practicals/cnn/images/cover.png)
+
+- homepage: [http://www.robots.ox.ac.uk/~vgg/practicals/cnn/index.html](http://www.robots.ox.ac.uk/~vgg/practicals/cnn/index.html)
+- github: [https://github.com/vedaldi/practical-cnn](https://github.com/vedaldi/practical-cnn)
 
 **Hacker's guide to Neural Networks**
 

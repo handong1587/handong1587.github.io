@@ -88,6 +88,10 @@ date: 2015-08-27
 
 [http://www.datasciencecentral.com/profiles/blogs/spectral-clustering-how-math-is-redefining-decision-making?overrideMobileRedirect=1](http://www.datasciencecentral.com/profiles/blogs/spectral-clustering-how-math-is-redefining-decision-making?overrideMobileRedirect=1)
 
+**Visual comparison of machine learning algorithms: Clustering**
+
+[http://haifengl.github.io/smile/index.html#clustering](http://haifengl.github.io/smile/index.html#clustering)
+
 # Codes
 
 **MusicMappr: Find patterns in your favorite songs and remix them on the fly!**

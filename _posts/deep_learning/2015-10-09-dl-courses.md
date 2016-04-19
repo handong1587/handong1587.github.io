@@ -69,6 +69,10 @@ date: 2015-07-01
 - homepage: [https://www.facebook.com/yann.lecun/posts/10153505343037143](https://www.facebook.com/yann.lecun/posts/10153505343037143)
 - downloads: [https://drive.google.com/open?id=0BxKBnD5y2M8NclFWSXNxa0JlZTg](https://drive.google.com/open?id=0BxKBnD5y2M8NclFWSXNxa0JlZTg)
 
+**CSC321 Winter 2015: Introduction to Neural Networks**
+
+- homepage: [http://www.cs.toronto.edu/~rgrosse/csc321/calendar.html](http://www.cs.toronto.edu/~rgrosse/csc321/calendar.html)
+
 # Computer Vision
 
 **Stanford CS231n: Convolutional Neural Networks for Visual Recognition**
