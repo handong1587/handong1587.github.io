@@ -87,6 +87,8 @@ date: 2015-10-09
 
 - arxiv: [http://arxiv.org/abs/1603.09025](http://arxiv.org/abs/1603.09025)
 - github: [https://github.com/iassael/torch-bnlstm](https://github.com/iassael/torch-bnlstm)
+- github: [https://github.com/cooijmanstim/recurrent-batch-normalization](https://github.com/cooijmanstim/recurrent-batch-normalization)
+- github("LSTM with Batch Normalization"): [https://github.com/fchollet/keras/pull/2183](https://github.com/fchollet/keras/pull/2183)
 
 **Optimizing Performance of Recurrent Neural Networks on GPUs**
 

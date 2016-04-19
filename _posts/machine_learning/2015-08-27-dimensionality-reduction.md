@@ -56,6 +56,10 @@ date: 2015-08-27
 
 [http://docs.opencv.org/3.1.0/df/df7/classcv_1_1SVD.html#gsc.tab=0](http://docs.opencv.org/3.1.0/df/df7/classcv_1_1SVD.html#gsc.tab=0)
 
+**Singular Value Decomposition Part 1: Perspectives on Linear Algebra**
+
+- blog: [https://jeremykun.com/2016/04/18/singular-value-decomposition-part-1-perspectives-on-linear-algebra/](https://jeremykun.com/2016/04/18/singular-value-decomposition-part-1-perspectives-on-linear-algebra/)
+
 # ICA
 
 **Independent component analysis**

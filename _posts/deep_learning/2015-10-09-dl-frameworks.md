@@ -348,6 +348,10 @@ date: 2015-10-09
 - github: [https://github.com/tflearn/tflearn](https://github.com/tflearn/tflearn)
 - homepage: [http://tflearn.org/](http://tflearn.org/)
 
+**TensorFlow Examples: TensorFlow tutorials and code examples for beginners**
+
+- github: [https://github.com/aymericdamien/TensorFlow-Examples](https://github.com/aymericdamien/TensorFlow-Examples)
+
 # Theano
 
 **Theano**

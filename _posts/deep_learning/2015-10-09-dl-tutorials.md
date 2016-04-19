@@ -114,3 +114,7 @@ date: 2015-10-09
 **Understanding Convolution in Deep Learning**
 
 - blog: [http://timdettmers.com/2015/03/26/convolution-deep-learning/](http://timdettmers.com/2015/03/26/convolution-deep-learning/)
+
+**BI Lab Deep Learning Tutorial**
+
+- github: [https://github.com/bi-lab/deeplearning_tutorial](https://github.com/bi-lab/deeplearning_tutorial)

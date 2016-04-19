@@ -12,8 +12,10 @@ date: 2015-10-09
 - github: [https://github.com/daerduoCarey/SpatialTransformerLayer](https://github.com/daerduoCarey/SpatialTransformerLayer)
 - github: [https://github.com/qassemoquab/stnbhwd](https://github.com/qassemoquab/stnbhwd)
 - github: [https://github.com/skaae/transformer_network](https://github.com/skaae/transformer_network)
+- github("Implementation for Spatial Transformer Network for Caffe"): [https://github.com/happynear/SpatialTransformerLayer](https://github.com/happynear/SpatialTransformerLayer)
 - caffe-issue: [https://github.com/BVLC/caffe/issues/3114](https://github.com/BVLC/caffe/issues/3114)
 - code: [https://lasagne.readthedocs.org/en/latest/modules/layers/special.html#lasagne.layers.TransformerLayer](https://lasagne.readthedocs.org/en/latest/modules/layers/special.html#lasagne.layers.TransformerLayer)
+- ipn(Lasagne): [http://nbviewer.jupyter.org/github/Lasagne/Recipes/blob/master/examples/spatial_transformer_network.ipynb](http://nbviewer.jupyter.org/github/Lasagne/Recipes/blob/master/examples/spatial_transformer_network.ipynb)
 - notes: [https://www.evernote.com/shard/s189/sh/ad8a38de-9e98-4e06-b09e-574bd62893ff/32f72798c095dd7672f4cb017a32d9b4](https://www.evernote.com/shard/s189/sh/ad8a38de-9e98-4e06-b09e-574bd62893ff/32f72798c095dd7672f4cb017a32d9b4)
 
 **"The power of Spatial Transformer Networks"**

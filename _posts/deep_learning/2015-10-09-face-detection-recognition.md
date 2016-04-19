@@ -27,7 +27,7 @@ date: 2015-10-09
 
 **From Facial Parts Responses to Face Detection: A Deep Learning Approach**
 
-<img src="/assets/face-detection-recognition/From_Facial_Parts_Responses_to_Face_Detection_A_Deep_Learning_Approach_index.png" width="800"/>
+![](http://personal.ie.cuhk.edu.hk/~ys014/projects/Faceness/support/index.png)
 
 - project: [http://personal.ie.cuhk.edu.hk/~ys014/projects/Faceness/Faceness.html](http://personal.ie.cuhk.edu.hk/~ys014/projects/Faceness/Faceness.html)
 
@@ -61,7 +61,7 @@ date: 2015-10-09
 
 - arXiv: [http://arxiv.org/abs/1512.00596](http://arxiv.org/abs/1512.00596)
 
-# Code
+# Projects
 
 **clmtrackr: Javascript library for precise tracking of facial features via Constrained Local Models**
 
@@ -80,3 +80,11 @@ date: 2015-10-09
 **OpenFace 0.2.0: Higher accuracy and halved execution time**
 
 - homepage: [http://bamos.github.io/2016/01/19/openface-0.2.0/](http://bamos.github.io/2016/01/19/openface-0.2.0/)
+
+**Deep Face Representation: Face verification experiment for lfw**
+
+- github: [https://github.com/AlfredXiangWu/face_verification_experiment](https://github.com/AlfredXiangWu/face_verification_experiment)
+
+**FaceVerification: An Experimental Implementation of Face Verification, 96.8% on LFW**
+
+- github: [https://github.com/happynear/FaceVerification](https://github.com/happynear/FaceVerification)

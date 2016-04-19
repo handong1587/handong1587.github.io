@@ -208,6 +208,10 @@ date: 2015-09-12
 - github: [https://github.com/biometrics/openbr](https://github.com/biometrics/openbr)
 - docs: [http://openbiometrics.org/docs/index.html](http://openbiometrics.org/docs/index.html)
 
+**FaceTracker: Real time deformable face tracking in C++ with OpenCV 2**
+
+- github: [https://github.com/kylemcdonald/FaceTracker](https://github.com/kylemcdonald/FaceTracker)
+
 # Resources
 
 **Awesome-deep-vision: A curated list of deep learning resources for computer vision**

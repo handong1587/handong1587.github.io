@@ -426,6 +426,13 @@ Other awesome lists can be found in this [list](https://github.com/sindresorhus/
 for binary classification (random forests, gradient boosted trees, deep neural networks etc.).
 - github: [https://github.com/szilard/benchm-ml](https://github.com/szilard/benchm-ml)
 
+**KeystoneML: Simplifying robust end-to-end machine learning on Apache Spark**
+
+- intro: a software framework, written in Scala, from the UC Berkeley AMPLab designed to 
+simplify the construction of large scale, end-to-end, machine learning pipelines with Apache Spark.
+- homepage: [http://keystone-ml.org/](http://keystone-ml.org/)
+- github: [https://github.com/amplab/keystone](https://github.com/amplab/keystone)
+
 # Readings and Questions
 
 **(Quora): What are the top 10 data mining or machine learning algorithms?**
