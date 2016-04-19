@@ -103,6 +103,15 @@ control a spaceship in order to complete some objective.
 
 - github: [https://github.com/euske/pdfminer/](https://github.com/euske/pdfminer/)
 
+# Painting
+
+**polygen: genetic algorithm for approximating an image with polygons (Golang)**
+
+![](https://raw.githubusercontent.com/armhold/polygen/master/images/starry.jpg)
+![](https://raw.githubusercontent.com/armhold/polygen/master/images/starry-50-polygons.png)
+
+- github: [https://github.com/armhold/polygen](https://github.com/armhold/polygen)
+
 # Utilities
 
 **Python Gems: A collection of python scripts that solve interesting problems**

@@ -315,6 +315,11 @@ date: 2015-10-09
 
 - github: [https://github.com/junhyukoh/caffe-lstm](https://github.com/junhyukoh/caffe-lstm)
 
+**JNN: Java Neural Network Library**
+
+- intro: C2W model, LSTM-based Language Model, LSTM-based Part-Of-Speech-Tagger Model
+- github: [https://github.com/wlin12/JNN](https://github.com/wlin12/JNN)
+
 # Blogs
 
 **Survey on Attention-based Models Applied in NLP**
