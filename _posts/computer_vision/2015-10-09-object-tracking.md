@@ -24,3 +24,11 @@ date: 2015-10-09
 
 - project page: [http://nlpr-web.ia.ac.cn/mmc/homepage/tzzhang/Project_Tianzhu/zhang_IJCV14/Robust%20Visual%20Tracking%20Via%20Consistent%20Low-Rank%20Sparse.html](http://nlpr-web.ia.ac.cn/mmc/homepage/tzzhang/Project_Tianzhu/zhang_IJCV14/Robust%20Visual%20Tracking%20Via%20Consistent%20Low-Rank%20Sparse.html)
 - paper: [http://nlpr-web.ia.ac.cn/mmc/homepage/tzzhang/tianzhu%20zhang_files/Conference%20Papers/ECCV12_zhang_Low-Rank%20Sparse%20Learning.pdf](http://nlpr-web.ia.ac.cn/mmc/homepage/tzzhang/tianzhu%20zhang_files/Conference%20Papers/ECCV12_zhang_Low-Rank%20Sparse%20Learning.pdf)
+
+**Staple: Complementary Learners for Real-Time Tracking (CVPR 2016)**
+
+![](http://www.robots.ox.ac.uk/~luca/stuff/pipeline_horizontal.png)
+
+- arxiv: [http://arxiv.org/abs/1512.01355](http://arxiv.org/abs/1512.01355)
+- homepage: [http://www.robots.ox.ac.uk/~luca/staple.html](http://www.robots.ox.ac.uk/~luca/staple.html)
+- github: [https://github.com/bertinetto/staple](https://github.com/bertinetto/staple)

@@ -24,6 +24,10 @@ date: 2015-10-09
 
 [http://deeplearning4j.org/convolutionalnets.html](http://deeplearning4j.org/convolutionalnets.html)
 
+**Exploring convolutional neural networks with DL4J**
+
+- blog: [http://brooksandrew.github.io/simpleblog/articles/convolutional-neural-network-training-with-dl4j/](http://brooksandrew.github.io/simpleblog/articles/convolutional-neural-network-training-with-dl4j/)
+
 # CNN with CV
 
 **End-to-End Integration of a Convolutional Network, Deformable Parts Model and Non-Maximum Suppression**
@@ -237,6 +241,16 @@ Bicubic VS. Shepard CNN
 
 - arxiv: [http://arxiv.org/abs/1511.08899](http://arxiv.org/abs/1511.08899)
 
+**Convolutional Pose Machines**
+
+- arxiv: [http://arxiv.org/abs/1602.00134](http://arxiv.org/abs/1602.00134)
+- github: [https://github.com/tenstep/convolutional-pose-machines-release](https://github.com/tenstep/convolutional-pose-machines-release)
+
+**Model-based Deep Hand Pose Estimation**
+
+- paper: [http://xingyizhou.xyz/zhou2016model.pdf](http://xingyizhou.xyz/zhou2016model.pdf)
+- github: [https://github.com/tenstep/DeepModel](https://github.com/tenstep/DeepModel)
+
 ## Image Colorization
 
 **Deep Colorization**
@@ -263,6 +277,10 @@ Bicubic VS. Shepard CNN
 ![](http://tinyclouds.org/colorize/best/6.jpg)
 
 - blog: [http://tinyclouds.org/colorize/](http://tinyclouds.org/colorize/)
+
+**colornet: Neural Network to colorize grayscale images**
+
+[https://github.com/pavelgonchar/colornet](https://github.com/pavelgonchar/colornet)
 
 # Projects
 

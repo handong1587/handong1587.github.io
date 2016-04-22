@@ -204,6 +204,10 @@ Its simple, and is ideal for rapid prototyping."
 
 - github: [https://github.com/sisl/Chimp](https://github.com/sisl/Chimp)
 
+**Deep Q Learning for ATARI using Tensorflow**
+
+- github: [https://github.com/mrkulk/deepQN_tensorflow](https://github.com/mrkulk/deepQN_tensorflow)
+
 # Blogs
 
 **A Short Introduction To Some Reinforcement Learning Algorithms**
@@ -279,6 +283,14 @@ In addition, several chapters review reinforcement learning methods in robotics,
 In total seventeen different subfields are presented by mostly young experts in those areas, 
 and together they truly represent a state-of-the-art of current reinforcement learning research."
 - book: [http://www.springer.com/gp/book/9783642276446#](http://www.springer.com/gp/book/9783642276446#)
+
+**Reinforcement Learning: An Introduction**
+
+- github: [https://github.com/Mononofu/reinforcement-learning](https://github.com/Mononofu/reinforcement-learning)
+- homepage: [http://webdocs.cs.ualberta.ca/~sutton/book/the-book.html](http://webdocs.cs.ualberta.ca/~sutton/book/the-book.html)
+- course: [http://incompleteideas.net/rlai.cs.ualberta.ca/RLAI/RLAIcourse/2010.html](http://incompleteideas.net/rlai.cs.ualberta.ca/RLAI/RLAIcourse/2010.html)
+- book(1st edition): [http://pan.baidu.com/s/1jkaMq](http://pan.baidu.com/s/1jkaMq)
+- book(2rd edition): [http://pan.baidu.com/s/1dDnNEnR](http://pan.baidu.com/s/1dDnNEnR)
 
 # Resources
 

@@ -13,6 +13,7 @@ date: 2015-10-09
 - project-website: [http://singa.incubator.apache.org/](http://singa.incubator.apache.org/)
 - github: [https://github.com/apache/incubator-singa](https://github.com/apache/incubator-singa)
 - paper: [http://www.comp.nus.edu.sg/~ooibc/singaopen-mm15.pdf](http://www.comp.nus.edu.sg/~ooibc/singaopen-mm15.pdf)
+- paper: [http://www.comp.nus.edu.sg/~ooibc/singa-tomm.pdf](http://www.comp.nus.edu.sg/~ooibc/singa-tomm.pdf)
 
 # Blocks
 
@@ -193,6 +194,8 @@ date: 2015-10-09
 
 - homepage: [http://autumnai.github.io/leaf/leaf/index.html](http://autumnai.github.io/leaf/leaf/index.html)
 - github: [https://github.com/autumnai/leaf](https://github.com/autumnai/leaf)
+- homepage: [http://autumnai.com/leaf/book/leaf.html](http://autumnai.com/leaf/book/leaf.html)
+- homepage("The Hacker's Machine Intelligence Platform"): [http://autumnai.com/](http://autumnai.com/)
 
 # Marvin
 

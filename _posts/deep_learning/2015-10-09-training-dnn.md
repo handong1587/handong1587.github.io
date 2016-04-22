@@ -237,6 +237,11 @@ date: 2015-10-09
 
 - arxiv: [http://arxiv.org/abs/1602.08194](http://arxiv.org/abs/1602.08194)
 
+**Training Deep Nets with Sublinear Memory Cost**
+
+- arxiv: [https://arxiv.org/abs/1604.06174](https://arxiv.org/abs/1604.06174)
+- github: [https://github.com/dmlc/mxnet-memonger](https://github.com/dmlc/mxnet-memonger)
+
 # Tools
 
 **pastalog: Simple, realtime visualization of neural network training performance**

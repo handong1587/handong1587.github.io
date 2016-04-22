@@ -64,6 +64,12 @@ control a spaceship in order to complete some objective.
 [https://fotino.me/intro-to-space-ai/](https://fotino.me/intro-to-space-ai/)
 [https://github.com/rfotino/space-ai](https://github.com/rfotino/space-ai)
 
+**SnapSudoku: Extract and solve Sudoku from an image**
+
+![](https://camo.githubusercontent.com/b48905b57f007218604c23fdc244f9d876f67af4/68747470733a2f2f6c68332e676f6f676c6575736572636f6e74656e742e636f6d2f2d6854504e346d53444e69592f5677793855675463784e492f41414141414141414731632f6536376745395453414b517263642d4144486d41674f74754d4451506879437267434c63422f733530302f41667465722b50726570726f63657373696e672e706e67)
+
+- github: [https://github.com/prajwalkr/SnapSudoku](https://github.com/prajwalkr/SnapSudoku)
+
 # Editing
 
 **Latex to HTML5**
@@ -111,6 +117,12 @@ control a spaceship in order to complete some objective.
 ![](https://raw.githubusercontent.com/armhold/polygen/master/images/starry-50-polygons.png)
 
 - github: [https://github.com/armhold/polygen](https://github.com/armhold/polygen)
+
+**PyGraphArt: Some Python code to make GIFs from graph algos**
+
+![](https://raw.githubusercontent.com/dnlcrl/PyGraphArt/master/doc/bfs.gif)
+
+- github: [https://github.com/dnlcrl/PyGraphArt](https://github.com/dnlcrl/PyGraphArt)
 
 # Utilities
 

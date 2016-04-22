@@ -32,6 +32,10 @@ date: 2015-10-09
 - arxiv: [http://arxiv.org/abs/1602.02068](http://arxiv.org/abs/1602.02068)
 - github: [https://github.com/gokceneraslan/SparseMax.torch](https://github.com/gokceneraslan/SparseMax.torch)
 
+**CNN-RNN: A Unified Framework for Multi-label Image Classification**
+
+- arxiv: [http://arxiv.org/abs/1604.04573](http://arxiv.org/abs/1604.04573)
+
 # Multi-task Learning
 
 ![](/assets/dl-materials/multitask-learning-pasted-graphic.jpg)

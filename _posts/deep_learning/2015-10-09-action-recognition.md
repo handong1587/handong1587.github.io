@@ -35,6 +35,11 @@ extract saptio-temporal features to represent the video using the CNNs."
 - paper: [http://arxiv.org/abs/1505.01197](http://arxiv.org/abs/1505.01197)
 - code: [https://github.com/gkioxari/RstarCNN](https://github.com/gkioxari/RstarCNN)
 
+**Towards Good Practices for Very Deep Two-Stream ConvNets**
+
+- arxiv: [http://arxiv.org/abs/1507.02159](http://arxiv.org/abs/1507.02159)
+- github: [https://github.com/yjxiong/caffe](https://github.com/yjxiong/caffe)
+
 **Action Recognition using Visual Attention(LSTM/RNN)**
 
 - arXiv: [http://arxiv.org/abs/1511.04119](http://arxiv.org/abs/1511.04119)
