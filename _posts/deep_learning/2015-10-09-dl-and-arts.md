@@ -90,7 +90,7 @@ date: 2015-10-09
 
 **neural image analogies: Generate image analogies using neural matching and blending**
 
-![](https://raw.githubusercontent.com/awentzonline/image-analogies/master/images/sugarskull-analogy.jpg)
+![](https://raw.githubusercontent.com/awentzonline/image-analogies/master/examples/images/sugarskull-analogy.jpg)
 
 - github: [https://github.com/awentzonline/image-analogies](https://github.com/awentzonline/image-analogies)
 
