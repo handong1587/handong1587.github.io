@@ -231,6 +231,11 @@ with fast exact probabilistic inference over many layers."
 - homepage: [http://spn.cs.washington.edu/index.shtml](http://spn.cs.washington.edu/index.shtml)
 - code: [http://spn.cs.washington.edu/code.shtml](http://spn.cs.washington.edu/code.shtml)
 
+**Recombinator Networks: Learning Coarse-to-Fine Feature Aggregation**
+
+- arxiv: [http://arxiv.org/abs/1511.07356](http://arxiv.org/abs/1511.07356)
+- github: [https://github.com/SinaHonari/RCN](https://github.com/SinaHonari/RCN)
+
 **Bitwise Neural Networks**
 
 - paper: [http://paris.cs.illinois.edu/pubs/minje-icmlw2015.pdf](http://paris.cs.illinois.edu/pubs/minje-icmlw2015.pdf)
@@ -284,19 +289,6 @@ with fast exact probabilistic inference over many layers."
 **XNOR-Net: ImageNet Classification Using Binary Convolutional Neural Networks**
 
 - arxiv: [http://arxiv.org/abs/1603.05279](http://arxiv.org/abs/1603.05279)
-
-# Distributed System
-
-**SparkNet: Training Deep Networks in Spark**
-
-- arXiv: [http://arxiv.org/abs/1511.06051](http://arxiv.org/abs/1511.06051)
-- github: [https://github.com/amplab/SparkNet](https://github.com/amplab/SparkNet)
-- blog: [http://www.kdnuggets.com/2015/12/spark-deep-learning-training-with-sparknet.html](http://www.kdnuggets.com/2015/12/spark-deep-learning-training-with-sparknet.html)
-
-**A Scalable Implementation of Deep Learning on Spark (Alexander Ulanov)**
-
-- page: [http://www.slideshare.net/AlexanderUlanov1/a-scalable-implementation-of-deep-learning-on-spark-alexander-ulanov](http://www.slideshare.net/AlexanderUlanov1/a-scalable-implementation-of-deep-learning-on-spark-alexander-ulanov)
-- slides: [http://pan.baidu.com/s/1jHiNW5C](http://pan.baidu.com/s/1jHiNW5C)
 
 # Deep Learning For Driving
 
@@ -530,6 +522,10 @@ with fast exact probabilistic inference over many layers."
 
 [http://deeplearning4j.org/questions.html](http://deeplearning4j.org/questions.html)
 
+**How can I know if Deep Learning works better for a specific problem than SVM or random forest?**
+
+- github: [https://github.com/rasbt/python-machine-learning-book/blob/master/faq/deeplearn-vs-svm-randomforest.md](https://github.com/rasbt/python-machine-learning-book/blob/master/faq/deeplearn-vs-svm-randomforest.md)
+
 # Resources
 
 **Awesome Deep Learning**
@@ -579,6 +575,10 @@ with fast exact probabilistic inference over many layers."
 ![](http://machinelearningmastery.com/wp-content/uploads/2016/04/Deep-Learning-Books.jpg)
 
 - blog: [http://machinelearningmastery.com/deep-learning-books/](http://machinelearningmastery.com/deep-learning-books/)
+
+**awesome-very-deep-learning: A curated list of papers and code about very deep neural networks (50+ layers)**
+
+- github: [https://github.com/daviddao/awesome-very-deep-learning](https://github.com/daviddao/awesome-very-deep-learning)
 
 # Tools
 

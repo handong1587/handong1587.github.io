@@ -302,6 +302,10 @@ and 1.15s per image with it".
 
 - arxiv: [http://arxiv.org/abs/1604.03540](http://arxiv.org/abs/1604.03540)
 
+**Track and Transfer: Watching Videos to Simulate Strong Human Supervision for Weakly-Supervised Object Detection (CVPR 2016)**
+
+- arxiv: [http://arxiv.org/abs/1604.05766](http://arxiv.org/abs/1604.05766)
+
 # Specific Object Deteciton
 
 **End-to-end people detection in crowded scenes**

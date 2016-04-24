@@ -27,3 +27,8 @@ that provides a simple interface for defining and accessing command line argumen
 **openFrameworks: an open source C++ toolkit for creative coding.**
 
 - homepage: [http://openframeworks.cc/](http://openframeworks.cc/)
+
+**Coding interview questions with solutions (C++)**
+
+- homepage: [http://itgeekworkhard.com/coding-questions/](http://itgeekworkhard.com/coding-questions/)
+- github: [https://github.com/checkcheckzz/coding-questions](https://github.com/checkcheckzz/coding-questions)

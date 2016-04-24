@@ -33,6 +33,7 @@ date: 2015-10-09
 
 - blog: [http://yahoohadoop.tumblr.com/post/139916563586/caffeonspark-open-sourced-for-distributed-deep](http://yahoohadoop.tumblr.com/post/139916563586/caffeonspark-open-sourced-for-distributed-deep)
 - github: [https://github.com/yahoo/CaffeOnSpark](https://github.com/yahoo/CaffeOnSpark)
+- youtube: [https://www.youtube.com/watch?v=bqj7nML-aHk](https://www.youtube.com/watch?v=bqj7nML-aHk)
 
 # Videos
 

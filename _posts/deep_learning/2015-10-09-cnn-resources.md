@@ -282,6 +282,13 @@ Bicubic VS. Shepard CNN
 
 [https://github.com/pavelgonchar/colornet](https://github.com/pavelgonchar/colornet)
 
+**Let there be Color!: Joint End-to-end Learning of Global and Local Image Priors for Automatic Image Colorization with Simultaneous Classification (SIGGRAPH 2016)**
+
+![](http://hi.cs.waseda.ac.jp/~iizuka/projects/colorization/images/model.png)
+
+- homepage: [http://hi.cs.waseda.ac.jp/~iizuka/projects/colorization/](http://hi.cs.waseda.ac.jp/~iizuka/projects/colorization/)
+- paper: [http://hi.cs.waseda.ac.jp/~iizuka/projects/colorization/data/colorization_sig2016.pdf](http://hi.cs.waseda.ac.jp/~iizuka/projects/colorization/data/colorization_sig2016.pdf)
+
 # Projects
 
 **ConvNetJS: a Javascript implementation of Neural networks**

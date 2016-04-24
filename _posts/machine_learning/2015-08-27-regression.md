@@ -32,3 +32,7 @@ date: 2015-08-27
 **Regression, Logistic Regression and Maximum Entropy**
 
 [http://ataspinar.com/2016/03/28/regression-logistic-regression-and-maximum-entropy/](http://ataspinar.com/2016/03/28/regression-logistic-regression-and-maximum-entropy/)
+
+**Demystifying Logistic Regression**
+
+[http://tech.magnetic.com/2016/04/demystifying-logistic-regression.html](http://tech.magnetic.com/2016/04/demystifying-logistic-regression.html)

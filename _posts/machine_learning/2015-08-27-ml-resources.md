@@ -437,6 +437,11 @@ simplify the construction of large scale, end-to-end, machine learning pipelines
 - homepage: [http://keystone-ml.org/](http://keystone-ml.org/)
 - github: [https://github.com/amplab/keystone](https://github.com/amplab/keystone)
 
+**Talisman: A straightforward & modular NLP, machine learning & fuzzy matching library for JavaScript**
+
+- homepage: [http://yomguithereal.github.io/talisman/](http://yomguithereal.github.io/talisman/)
+- github: [https://github.com/Yomguithereal/talisman](https://github.com/Yomguithereal/talisman)
+
 # Readings and Questions
 
 **(Quora): What are the top 10 data mining or machine learning algorithms?**

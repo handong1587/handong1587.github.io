@@ -122,6 +122,13 @@ with the style of another image using convolutional neural networks
 - arxiv: [http://arxiv.org/abs/1603.08155](http://arxiv.org/abs/1603.08155)
 - github: [https://github.com/yusuketomoto/chainer-fast-neuralstyle](https://github.com/yusuketomoto/chainer-fast-neuralstyle)
 
+**Learning to Simplify: Fully Convolutional Networks for Rough Sketch Cleanup (SIGGRAPH 2016)**
+
+![](http://hi.cs.waseda.ac.jp/~esimo/images/sketch/overview.png)
+
+- homepage: [http://hi.cs.waseda.ac.jp/~esimo/en/research/sketch/](http://hi.cs.waseda.ac.jp/~esimo/en/research/sketch/)
+- paper: [http://hi.cs.waseda.ac.jp/~esimo/publications/SimoSerraSIGGRAPH2016.pdf](http://hi.cs.waseda.ac.jp/~esimo/publications/SimoSerraSIGGRAPH2016.pdf)
+
 # Music
 
 **GRUV: Algorithmic Music Generation using Recurrent Neural Networks**

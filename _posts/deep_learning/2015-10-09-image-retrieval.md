@@ -47,3 +47,11 @@ date: 2015-10-09
 - hmepage: [http://www.tamaraberg.com/street2shop/](http://www.tamaraberg.com/street2shop/)
 - paper: [http://www.tamaraberg.com/papers/street2shop.pdf](http://www.tamaraberg.com/papers/street2shop.pdf)
 - paper: [http://www.cv-foundation.org/openaccess/content_iccv_2015/html/Kiapour_Where_to_Buy_ICCV_2015_paper.html](http://www.cv-foundation.org/openaccess/content_iccv_2015/html/Kiapour_Where_to_Buy_ICCV_2015_paper.html)
+
+**Natural Language Object Retrieval (CVPR 2015)**
+
+![](http://ronghanghu.com/wp-content/uploads/method-900x353.png)
+
+- homepage: [http://ronghanghu.com/text_obj_retrieval/](http://ronghanghu.com/text_obj_retrieval/)
+- arxiv: [http://arxiv.org/abs/1511.04164](http://arxiv.org/abs/1511.04164)
+- github: [https://github.com/ronghanghu/natural-language-object-retrieval](https://github.com/ronghanghu/natural-language-object-retrieval)
