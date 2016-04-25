@@ -190,7 +190,7 @@ date: 2015-10-09
 
 - intro: "Qlearning4k is a reinforcement learning add-on for the python deep learning library Keras. 
 Its simple, and is ideal for rapid prototyping."
-[https://github.com/farizrahman4u/qlearning4k](https://github.com/farizrahman4u/qlearning4k)
+- github: [https://github.com/farizrahman4u/qlearning4k](https://github.com/farizrahman4u/qlearning4k)
 
 **rlenvs: Reinforcement learning environments for Torch7, inspired by RL-Glue**
 
