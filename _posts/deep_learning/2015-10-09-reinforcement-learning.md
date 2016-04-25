@@ -151,6 +151,11 @@ date: 2015-10-09
 
 - arxiv: [http://arxiv.org/abs/1603.01121](http://arxiv.org/abs/1603.01121)
 
+**Benchmarking Deep Reinforcement Learning for Continuous Control**
+
+- arxiv: [http://arxiv.org/abs/1604.06778](http://arxiv.org/abs/1604.06778)
+- github: [https://github.com/rllab/rllab](https://github.com/rllab/rllab)
+
 # Projects
 
 **Using Deep Q-Network to Learn How To Play Flappy Bird**
@@ -207,6 +212,10 @@ Its simple, and is ideal for rapid prototyping."
 **Deep Q Learning for ATARI using Tensorflow**
 
 - github: [https://github.com/mrkulk/deepQN_tensorflow](https://github.com/mrkulk/deepQN_tensorflow)
+
+**DeepQLearning: A powerful machine learning algorithm utilizing Q-Learning and Neural Networks, implemented using Torch and Lua.**
+
+- github: [https://github.com/blakeMilner/DeepQLearning](https://github.com/blakeMilner/DeepQLearning)
 
 # Blogs
 

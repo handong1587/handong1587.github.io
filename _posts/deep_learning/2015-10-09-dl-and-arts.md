@@ -121,6 +121,7 @@ with the style of another image using convolutional neural networks
 
 - arxiv: [http://arxiv.org/abs/1603.08155](http://arxiv.org/abs/1603.08155)
 - github: [https://github.com/yusuketomoto/chainer-fast-neuralstyle](https://github.com/yusuketomoto/chainer-fast-neuralstyle)
+- github: [https://github.com/awentzonline/keras-rtst](https://github.com/awentzonline/keras-rtst)
 
 **Learning to Simplify: Fully Convolutional Networks for Rough Sketch Cleanup (SIGGRAPH 2016)**
 

@@ -379,7 +379,7 @@ with fast exact probabilistic inference over many layers."
 
 - arxiv: [http://arxiv.org/abs/1602.00357](http://arxiv.org/abs/1602.00357)
 
-**Exploiting Cyclic Symmetry in Convolutional Neural Networks**
+**Exploiting Cyclic Symmetry in Convolutional Neural Networks (ICML 2016)**
 
 ![](http://benanne.github.io/images/cyclicroll.png)
 

@@ -26,3 +26,7 @@ date: 2015-10-09
 **Auxiliary Deep Generative Models**
 
 - arxiv: [http://arxiv.org/abs/1602.05473](http://arxiv.org/abs/1602.05473)
+
+**One-Shot Generalization in Deep Generative Models (Google DeepMind. ICML 2016)**
+
+- arxiv: [http://arxiv.org/abs/1603.05106](http://arxiv.org/abs/1603.05106)

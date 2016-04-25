@@ -241,6 +241,7 @@ date: 2015-10-09
 
 - arxiv: [https://arxiv.org/abs/1604.06174](https://arxiv.org/abs/1604.06174)
 - github: [https://github.com/dmlc/mxnet-memonger](https://github.com/dmlc/mxnet-memonger)
+- github: [https://github.com/Bihaqo/tf-memonger](https://github.com/Bihaqo/tf-memonger)
 
 # Tools
 
