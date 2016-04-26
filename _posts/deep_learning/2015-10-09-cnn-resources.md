@@ -288,6 +288,7 @@ Bicubic VS. Shepard CNN
 
 - homepage: [http://hi.cs.waseda.ac.jp/~iizuka/projects/colorization/](http://hi.cs.waseda.ac.jp/~iizuka/projects/colorization/)
 - paper: [http://hi.cs.waseda.ac.jp/~iizuka/projects/colorization/data/colorization_sig2016.pdf](http://hi.cs.waseda.ac.jp/~iizuka/projects/colorization/data/colorization_sig2016.pdf)
+- github(Torch7): [https://github.com/satoshiiizuka/siggraph2016_colorization](https://github.com/satoshiiizuka/siggraph2016_colorization)
 
 # Projects
 

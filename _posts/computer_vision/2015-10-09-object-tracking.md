@@ -5,6 +5,8 @@ title: Object Tracking
 date: 2015-10-09
 ---
 
+# Papers
+
 **Learning to Track: Online Multi-Object Tracking by Decision Making (ICCV 2015)**
 
 ![](http://cvgl.stanford.edu/projects/MDP_tracking/MDP.png)
@@ -32,3 +34,12 @@ date: 2015-10-09
 - arxiv: [http://arxiv.org/abs/1512.01355](http://arxiv.org/abs/1512.01355)
 - homepage: [http://www.robots.ox.ac.uk/~luca/staple.html](http://www.robots.ox.ac.uk/~luca/staple.html)
 - github: [https://github.com/bertinetto/staple](https://github.com/bertinetto/staple)
+
+# Projects
+
+**JS-face-tracking-demo**
+
+![](https://camo.githubusercontent.com/3cde9346fa47e7985235b22a9c032d149dcf7c6d/68747470733a2f2f692e696d6775722e636f6d2f6a36424f4b39662e676966)
+
+- demo: [https://kdzwinel.github.io/JS-face-tracking-demo/](https://kdzwinel.github.io/JS-face-tracking-demo/)
+- github: [https://github.com/kdzwinel/JS-face-tracking-demo](https://github.com/kdzwinel/JS-face-tracking-demo)

@@ -32,3 +32,7 @@ that provides a simple interface for defining and accessing command line argumen
 
 - homepage: [http://itgeekworkhard.com/coding-questions/](http://itgeekworkhard.com/coding-questions/)
 - github: [https://github.com/checkcheckzz/coding-questions](https://github.com/checkcheckzz/coding-questions)
+
+**Everything you need to kick ass on your coding interview**
+
+- github: [https://github.com/andreis/interview](https://github.com/andreis/interview)

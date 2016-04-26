@@ -504,6 +504,15 @@ with fast exact probabilistic inference over many layers."
 
 - github: [https://github.com/DeepMark/deepmark](https://github.com/DeepMark/deepmark)
 
+**Siamese Net**
+
+![](https://raw.githubusercontent.com/Kadenze/siamese_net/master/images/prediction.png)
+
+- intro: "This package shows how to train a siamese network using Lasagne and Theano and includes network definitions 
+for state-of-the-art networks including: DeepID, DeepID2, Chopra et. al, and Hani et. al. 
+We also include one pre-trained model using a custom convolutional network."
+- github: [https://github.com/Kadenze/siamese_net](https://github.com/Kadenze/siamese_net)
+
 # Readings and Questions
 
 **What are the toughest neural networks and deep learning interview questions?**
@@ -645,3 +654,7 @@ with fast exact probabilistic inference over many layers."
 
 - blog: [http://benanne.github.io/2015/03/17/plankton.html](http://benanne.github.io/2015/03/17/plankton.html)
 - github: [https://github.com/benanne/kaggle-ndsb](https://github.com/benanne/kaggle-ndsb)
+
+**Keras Deep Learning Tutorial for Kaggle 2nd Annual Data Science Bowl**
+
+- github: [https://github.com/jocicmarko/kaggle-dsb2-keras](https://github.com/jocicmarko/kaggle-dsb2-keras)

@@ -71,6 +71,10 @@ Other awesome lists can be found in this [list](https://github.com/sindresorhus/
 
 - blog: [https://codesachin.wordpress.com/2016/03/06/a-small-introduction-to-boosting/](https://codesachin.wordpress.com/2016/03/06/a-small-introduction-to-boosting/)
 
+**Boosting and AdaBoost for Machine Learning**
+
+- blog: [http://machinelearningmastery.com/boosting-and-adaboost-for-machine-learning/](http://machinelearningmastery.com/boosting-and-adaboost-for-machine-learning/)
+
 # Gradient Boosting
 
 **Complete Guide to Parameter Tuning in Gradient Boosting (GBM) in Python**

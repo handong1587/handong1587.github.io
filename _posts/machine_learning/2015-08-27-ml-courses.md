@@ -112,3 +112,7 @@ date: 2015-08-27
 
 - homepage: [http://www.cs.cmu.edu/~tom/10701_sp11/](http://www.cs.cmu.edu/~tom/10701_sp11/)
 - lectures: [http://www.cs.cmu.edu/~tom/10701_sp11/lectures.shtml](http://www.cs.cmu.edu/~tom/10701_sp11/lectures.shtml)
+
+**NLA 2015 course material**
+
+- ipn: [http://nbviewer.jupyter.org/github/Bihaqo/nla2015/blob/master/table_of_contents.ipynb](http://nbviewer.jupyter.org/github/Bihaqo/nla2015/blob/master/table_of_contents.ipynb)

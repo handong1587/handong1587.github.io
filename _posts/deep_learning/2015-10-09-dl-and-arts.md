@@ -130,6 +130,10 @@ with the style of another image using convolutional neural networks
 - homepage: [http://hi.cs.waseda.ac.jp/~esimo/en/research/sketch/](http://hi.cs.waseda.ac.jp/~esimo/en/research/sketch/)
 - paper: [http://hi.cs.waseda.ac.jp/~esimo/publications/SimoSerraSIGGRAPH2016.pdf](http://hi.cs.waseda.ac.jp/~esimo/publications/SimoSerraSIGGRAPH2016.pdf)
 
+**DeepDreaming with TensorFlow**
+
+- ipn: [http://nbviewer.jupyter.org/github/tensorflow/tensorflow/blob/master/tensorflow/examples/tutorials/deepdream/deepdream.ipynb](http://nbviewer.jupyter.org/github/tensorflow/tensorflow/blob/master/tensorflow/examples/tutorials/deepdream/deepdream.ipynb)
+
 # Music
 
 **GRUV: Algorithmic Music Generation using Recurrent Neural Networks**

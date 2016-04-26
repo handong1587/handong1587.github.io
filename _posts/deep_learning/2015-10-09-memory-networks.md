@@ -57,10 +57,6 @@ date: 2015-10-09
 
 - arXiv: [http://arxiv.org/abs/1510.03931](http://arxiv.org/abs/1510.03931)
 
-**Neural GPUs Learn Algorithms**
-
-- arixv: [http://arxiv.org/abs/1511.08228](http://arxiv.org/abs/1511.08228)
-
 **Dynamic Memory Networks for Visual and Textual Question Answering**
 
 - arixv: [http://arxiv.org/abs/1603.01417](http://arxiv.org/abs/1603.01417)
@@ -71,6 +67,7 @@ date: 2015-10-09
 
 - arixv: [http://arxiv.org/abs/1511.08228](http://arxiv.org/abs/1511.08228)
 - github: [https://github.com/tensorflow/models/tree/master/neural_gpu](https://github.com/tensorflow/models/tree/master/neural_gpu)
+- github: [https://github.com/ikostrikov/torch-neural-gpu](https://github.com/ikostrikov/torch-neural-gpu)
 
 # Codes
 

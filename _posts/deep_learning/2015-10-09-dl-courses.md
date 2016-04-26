@@ -84,6 +84,10 @@ date: 2015-07-01
 - youtube: [https://www.youtube.com/watch?v=NfnWJUyUJYU&feature=youtu.be](https://www.youtube.com/watch?v=NfnWJUyUJYU&feature=youtu.be)
 - video: [http://pan.baidu.com/s/1pKsTivp](http://pan.baidu.com/s/1pKsTivp)
 
+**ITP-NYU - Spring 2016**
+
+- Video lectures and course notes: [http://ml4a.github.io/classes/itp-S16/](http://ml4a.github.io/classes/itp-S16/)
+
 # Natural Language Processing
 
 ![](/assets/dl-courses/cs224d_treeFrontSentiment.png)

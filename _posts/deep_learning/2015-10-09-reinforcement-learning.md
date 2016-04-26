@@ -155,6 +155,7 @@ date: 2015-10-09
 
 - arxiv: [http://arxiv.org/abs/1604.06778](http://arxiv.org/abs/1604.06778)
 - github: [https://github.com/rllab/rllab](https://github.com/rllab/rllab)
+- doc: [https://rllab.readthedocs.org/en/latest/](https://rllab.readthedocs.org/en/latest/)
 
 # Projects
 
