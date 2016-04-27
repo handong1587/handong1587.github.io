@@ -513,6 +513,11 @@ for state-of-the-art networks including: DeepID, DeepID2, Chopra et. al, and Han
 We also include one pre-trained model using a custom convolutional network."
 - github: [https://github.com/Kadenze/siamese_net](https://github.com/Kadenze/siamese_net)
 
+**PRE-TRAINED CONVNETS AND OBJECT LOCALISATION IN KERAS**
+
+- blog: [https://blog.heuritech.com/2016/04/26/pre-trained-convnets-and-object-localisation-in-keras/](https://blog.heuritech.com/2016/04/26/pre-trained-convnets-and-object-localisation-in-keras/)
+- github: [https://github.com/heuritech/convnets-keras](https://github.com/heuritech/convnets-keras)
+
 # Readings and Questions
 
 **What are the toughest neural networks and deep learning interview questions?**
