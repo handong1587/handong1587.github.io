@@ -24,8 +24,13 @@ date: 2015-10-09
 
 **David Silver Reinforcement Learning 2015**
 
-- author: Google DeepMind AlphaGo, David Silver
+- instructors: David Silver (Google DeepMind AlphaGo)
 - video: [http://pan.baidu.com/s/1bnWGuIz/](http://pan.baidu.com/s/1bnWGuIz/)
+
+**CS 294: Deep Reinforcement Learning, Fall 2015**
+
+- instructors: John Schulman, Pieter Abbeel
+- homepage: [http://rll.berkeley.edu/deeprlcourse/](http://rll.berkeley.edu/deeprlcourse/)
 
 # Papers
 

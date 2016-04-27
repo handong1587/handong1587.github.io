@@ -251,6 +251,15 @@ Bicubic VS. Shepard CNN
 - paper: [http://xingyizhou.xyz/zhou2016model.pdf](http://xingyizhou.xyz/zhou2016model.pdf)
 - github: [https://github.com/tenstep/DeepModel](https://github.com/tenstep/DeepModel)
 
+**Stacked Hourglass Networks for Human Pose Estimation**
+
+![](http://www-personal.umich.edu/~alnewell/images/stacked-hg.png)
+
+- homepage: [http://www-personal.umich.edu/~alnewell/pose/](http://www-personal.umich.edu/~alnewell/pose/)
+- arxiv: [http://arxiv.org/abs/1603.06937](http://arxiv.org/abs/1603.06937)
+- github: [https://github.com/anewell/pose-hg-train](https://github.com/anewell/pose-hg-train)
+- demo: [https://github.com/anewell/pose-hg-demo](https://github.com/anewell/pose-hg-demo)
+
 ## Image Colorization
 
 **Deep Colorization**
