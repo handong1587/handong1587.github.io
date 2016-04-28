@@ -100,3 +100,7 @@ date: 2015-08-27
 You can visualize these clusters and play them back at will.
 This is for music lovers who are curious about the structures inherent to their favorite songs.
 - github: [https://github.com/fatsmcgee/MusicMappr](https://github.com/fatsmcgee/MusicMappr)
+
+**TfKmeans: A implementation of k-means clustering in TensorFlow**
+
+- github: [http://rasbt.github.io/mlxtend/user_guide/tf_cluster/TfKmeans/](http://rasbt.github.io/mlxtend/user_guide/tf_cluster/TfKmeans/)

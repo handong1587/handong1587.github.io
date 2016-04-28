@@ -61,3 +61,9 @@ date: 2015-10-09
 **The Unreasonable Effectiveness of Deep Learning on Spark**
 
 [https://databricks.com/blog/2016/04/01/unreasonable-effectiveness-of-deep-learning-on-spark.html](https://databricks.com/blog/2016/04/01/unreasonable-effectiveness-of-deep-learning-on-spark.html)
+
+**Distributed Deep Learning with Caffe Using a MapR Cluster**
+
+![](https://www.mapr.com/sites/default/files/spark-driver.jpg)
+
+[https://www.mapr.com/blog/distributed-deep-learning-caffe-using-mapr-cluster](https://www.mapr.com/blog/distributed-deep-learning-caffe-using-mapr-cluster)

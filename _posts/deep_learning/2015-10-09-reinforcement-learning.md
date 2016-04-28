@@ -223,6 +223,11 @@ Its simple, and is ideal for rapid prototyping."
 
 - github: [https://github.com/blakeMilner/DeepQLearning](https://github.com/blakeMilner/DeepQLearning)
 
+**OpenAI Gym: A toolkit for developing and comparing reinforcement learning algorithms**
+
+- homepage: [https://gym.openai.com/](https://gym.openai.com/)
+- github: [https://github.com/openai/gym](https://github.com/openai/gym)
+
 # Blogs
 
 **A Short Introduction To Some Reinforcement Learning Algorithms**

@@ -257,8 +257,11 @@ date: 2015-10-09
 
 [https://indico.io/blog/getting-started-with-mxnet/](https://indico.io/blog/getting-started-with-mxnet/)
 
-**MXNet Tutorial for NVidia GTC 2016**
+**gtc_tutorial: MXNet Tutorial for NVidia GTC 2016**
 
+- report: [http://on-demand.gputechconf.com/gtc/2016/video/S6853.html](http://on-demand.gputechconf.com/gtc/2016/video/S6853.html)
+- tutorial: [http://on-demand.gputechconf.com/gtc/2016/video/L6143.html](http://on-demand.gputechconf.com/gtc/2016/video/L6143.html)
+- video: [http://pan.baidu.com/s/1eS58Gue](http://pan.baidu.com/s/1eS58Gue)
 - github: [https://github.com/dmlc/mxnet-gtc-tutorial](https://github.com/dmlc/mxnet-gtc-tutorial)
 
 # neocortex.js
