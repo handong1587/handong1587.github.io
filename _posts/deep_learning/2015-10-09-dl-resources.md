@@ -177,6 +177,11 @@ date: 2015-10-09
 - arXiv: [http://arxiv.org/abs/1506.00990](http://arxiv.org/abs/1506.00990)
 - github: [https://github.com/yaolubrain/ULNNO](https://github.com/yaolubrain/ULNNO)
 
+**Unsupervised Learning of Visual Representations by Solving Jigsaw Puzzles**
+
+- arxiv: [http://arxiv.org/abs/1603.09246](http://arxiv.org/abs/1603.09246)
+- notes: [http://www.inference.vc/notes-on-unsupervised-learning-of-visual-representations-by-solving-jigsaw-puzzles/](http://www.inference.vc/notes-on-unsupervised-learning-of-visual-representations-by-solving-jigsaw-puzzles/)
+
 # Deep Learning Networks
 
 **Deeply-supervised Nets (DSN)**
@@ -455,6 +460,10 @@ with fast exact probabilistic inference over many layers."
 - github: [https://github.com/oswaldoludwig/visually-informed-embedding-of-word-VIEW-](https://github.com/oswaldoludwig/visually-informed-embedding-of-word-VIEW-)
 
 # Projects
+
+**Top Deep Learning Projects**
+
+- github: [https://github.com/aymericdamien/TopDeepLearning](https://github.com/aymericdamien/TopDeepLearning)
 
 **deepnet: Implementation of some deep learning algorithms**
 

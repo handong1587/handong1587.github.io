@@ -355,6 +355,10 @@ date: 2015-10-09
 
 [https://medium.com/@jianqiangma/all-about-recurrent-neural-networks-9e5ae2936f6e#.q4s02elqg](https://medium.com/@jianqiangma/all-about-recurrent-neural-networks-9e5ae2936f6e#.q4s02elqg)
 
+**Rolling and Unrolling RNNs**
+
+[https://shapeofdata.wordpress.com/2016/04/27/rolling-and-unrolling-rnns/](https://shapeofdata.wordpress.com/2016/04/27/rolling-and-unrolling-rnns/)
+
 # Resources
 
 **Awesome Recurrent Neural Networks - A curated list of resources dedicated to RNN**

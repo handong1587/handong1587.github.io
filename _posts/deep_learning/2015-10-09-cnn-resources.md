@@ -299,6 +299,16 @@ Bicubic VS. Shepard CNN
 - paper: [http://hi.cs.waseda.ac.jp/~iizuka/projects/colorization/data/colorization_sig2016.pdf](http://hi.cs.waseda.ac.jp/~iizuka/projects/colorization/data/colorization_sig2016.pdf)
 - github(Torch7): [https://github.com/satoshiiizuka/siggraph2016_colorization](https://github.com/satoshiiizuka/siggraph2016_colorization)
 
+## Image Reconstruction
+
+**Context Encoders: Feature Learning by Inpainting (CVPR 2016)**
+
+![](http://www.cs.berkeley.edu/~pathak/context_encoder/resources/result_fig.jpg)
+
+- project page: [http://www.cs.berkeley.edu/~pathak/context_encoder/](http://www.cs.berkeley.edu/~pathak/context_encoder/)
+- arxiv: [https://arxiv.org/abs/1604.07379](https://arxiv.org/abs/1604.07379)
+- github: [https://github.com/pathak22/context-encoder](https://github.com/pathak22/context-encoder)
+
 # Projects
 
 **ConvNetJS: a Javascript implementation of Neural networks**
