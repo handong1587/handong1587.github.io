@@ -11,6 +11,14 @@ date: 2015-08-27
 
 - slides: [www.cse.msu.edu/~cse902/S14/ppt/Stream%20Clustering.pptx](www.cse.msu.edu/~cse902/S14/ppt/Stream%20Clustering.pptx)
 
+**Neural network-based clustering using pairwise constraints**
+
+![](https://raw.githubusercontent.com/yenchanghsu/NNclustering/gh-pages/paper_img/concept.png)
+
+- arxiv: [http://arxiv.org/abs/1511.06321](http://arxiv.org/abs/1511.06321)
+- homepage: [http://yenchanghsu.github.io/NNclustering/](http://yenchanghsu.github.io/NNclustering/)
+- github: [https://github.com/yenchanghsu/NNclustering](https://github.com/yenchanghsu/NNclustering)
+
 **PAC-Bayesian Online Clustering**
 
 - arxiv: [http://arxiv.org/abs/1602.00522](http://arxiv.org/abs/1602.00522)

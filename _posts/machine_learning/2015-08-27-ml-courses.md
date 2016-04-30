@@ -116,3 +116,9 @@ date: 2015-08-27
 **NLA 2015 course material**
 
 - ipn: [http://nbviewer.jupyter.org/github/Bihaqo/nla2015/blob/master/table_of_contents.ipynb](http://nbviewer.jupyter.org/github/Bihaqo/nla2015/blob/master/table_of_contents.ipynb)
+
+**Statistical Machine Learning**
+
+- homepage: [http://www.stat.cmu.edu/~larry/=sml/](http://www.stat.cmu.edu/~larry/=sml/)
+- youtube: [https://www.youtube.com/playlist?list=PLTB9VQq8WiaCBK2XrtYn5t9uuPdsNm7YE](https://www.youtube.com/playlist?list=PLTB9VQq8WiaCBK2XrtYn5t9uuPdsNm7YE)
+- videos: [http://pan.baidu.com/s/1eSuJ1Nc](http://pan.baidu.com/s/1eSuJ1Nc)

@@ -35,6 +35,11 @@ date: 2015-09-12
 
 - homepage: [http://6.869.csail.mit.edu/fa15/index.html](http://6.869.csail.mit.edu/fa15/index.html)
 
+**EECS 432 Advanced Computer Vision**
+
+- course website: [http://www.ece.northwestern.edu/~yingwu/teaching/EECS432/index.html](http://www.ece.northwestern.edu/~yingwu/teaching/EECS432/index.html)c
+- handouts: [http://www.ece.northwestern.edu/~yingwu/teaching/EECS432/EECS432_hand.html](http://www.ece.northwestern.edu/~yingwu/teaching/EECS432/EECS432_hand.html)
+
 # Edge detection
 
 **Image-feature-detection-using-Phase-Stretch-Transform**

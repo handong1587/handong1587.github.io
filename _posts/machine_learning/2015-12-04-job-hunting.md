@@ -20,3 +20,7 @@ date: 2015-12-04
 **Collection of Machine Learning Interview Questions**
 
 - blog: [http://analyticscosm.com/machine-learning-interview-questions-for-data-scientist-interview/](http://analyticscosm.com/machine-learning-interview-questions-for-data-scientist-interview/)
+
+**To be a data scientist in a tech company (Google, Microsoft, Facebook, etc.), how well do I need to know machine learning algorithms?**
+
+- quora: [https://www.quora.com/To-be-a-data-scientist-in-a-tech-company-Google-Microsoft-Facebook-etc-how-well-do-I-need-to-know-machine-learning-algorithms/](https://www.quora.com/To-be-a-data-scientist-in-a-tech-company-Google-Microsoft-Facebook-etc-how-well-do-I-need-to-know-machine-learning-algorithms/)

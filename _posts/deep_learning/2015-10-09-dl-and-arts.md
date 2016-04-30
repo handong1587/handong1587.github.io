@@ -224,9 +224,12 @@ with the style of another image using convolutional neural networks
 
 **Machine learning for artists**
 
-![](/assets/dl_and_arts/Machine_learning_for_artists.jpeg)
+![](http://www.kdnuggets.com/wp-content/uploads/mona-lisa.jpg)
 
-[https://medium.com/@genekogan/machine-learning-for-artists-e93d20fdb097#.25w95beqb](https://medium.com/@genekogan/machine-learning-for-artists-e93d20fdb097#.25w95beqb)
+- videos/lectures/course notes: [[http://ml4a.github.io/classes/itp-S16/]]([http://ml4a.github.io/classes/itp-S16/])
+- notes: [http://www.kdnuggets.com/2016/04/machine-learning-artists-video-lectures-notes.html](http://www.kdnuggets.com/2016/04/machine-learning-artists-video-lectures-notes.html)
+- blog: [https://medium.com/@genekogan/machine-learning-for-artists-e93d20fdb097#.25w95beqb](https://medium.com/@genekogan/machine-learning-for-artists-e93d20fdb097#.25w95beqb)
+
 
 # Blogs
 

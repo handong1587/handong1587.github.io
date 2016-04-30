@@ -255,6 +255,7 @@ date: 2015-10-09
 **Associative Long Short-Term Memory**
 
 - arxiv: [http://arxiv.org/abs/1602.03032](http://arxiv.org/abs/1602.03032)
+- github: [https://github.com/mohammadpz/Associative_LSTM](https://github.com/mohammadpz/Associative_LSTM)
 
 **Representation of linguistic form and function in recurrent neural networks**
 
