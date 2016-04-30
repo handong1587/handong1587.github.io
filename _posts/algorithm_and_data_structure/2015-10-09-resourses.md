@@ -48,3 +48,9 @@ date: 2015-07-01
 
 - author: Steven Skiena
 - homepage: [http://www.algorist.com/#](http://www.algorist.com/#)
+
+# Interview Questions
+
+**C & Data Structure Interview Questions**
+
+[https://intellipaat.com/interview-question/c-data-structure-interview-questions/](https://intellipaat.com/interview-question/c-data-structure-interview-questions/)

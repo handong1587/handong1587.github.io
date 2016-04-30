@@ -160,3 +160,9 @@ to decompose it into the multiplications of thinned dense matrices"
 
 - github: [https://github.com/Maratyszcza/NNPACK](https://github.com/Maratyszcza/NNPACK)
 - comments(Yann LeCun): [https://www.facebook.com/yann.lecun/posts/10153459577707143](https://www.facebook.com/yann.lecun/posts/10153459577707143)
+
+# Blogs
+
+**Neural Networks Are Impressively Good At Compression**
+
+[https://probablydance.com/2016/04/30/neural-networks-are-impressively-good-at-compression/](https://probablydance.com/2016/04/30/neural-networks-are-impressively-good-at-compression/)
