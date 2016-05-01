@@ -295,25 +295,6 @@ with fast exact probabilistic inference over many layers."
 
 - arxiv: [http://arxiv.org/abs/1603.05279](http://arxiv.org/abs/1603.05279)
 
-# Deep Learning For Driving
-
-![](/assets/cnn-materials/teaser_deepdriving.jpg)
-
-- project: [http://deepdriving.cs.princeton.edu/](http://deepdriving.cs.princeton.edu/)
-- paper: [http://deepdriving.cs.princeton.edu/paper.pdf](http://deepdriving.cs.princeton.edu/paper.pdf)
-- code: [http://deepdriving.cs.princeton.edu/DeepDriving.zip](http://deepdriving.cs.princeton.edu/DeepDriving.zip)
-
-**Recurrent Neural Networks for Driver Activity Anticipation via Sensory-Fusion Architecture**
-
-![](/assets/dl-materials/bnn_fp.png)
-
-- paper: [http://arxiv.org/abs/1509.05016](http://arxiv.org/abs/1509.05016)
-- homepage: [http://www.brain4cars.com/](http://www.brain4cars.com/)
-
-**Eyes on the Road: How Autonomous Cars Understand What They’re Seeing**
-
-- blog: [http://blogs.nvidia.com/blog/2016/01/05/eyes-on-the-road-how-autonomous-cars-understand-what-theyre-seeing/](http://blogs.nvidia.com/blog/2016/01/05/eyes-on-the-road-how-autonomous-cars-understand-what-theyre-seeing/)
-
 # Deep Learning’s Accuracy
 
 - blog: [http://deeplearning4j.org/accuracy.html](http://deeplearning4j.org/accuracy.html)

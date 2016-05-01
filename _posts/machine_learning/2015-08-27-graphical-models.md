@@ -27,6 +27,12 @@ date: 2015-08-27
 
 [http://ai.stanford.edu/~koller/Papers/Koller+al:SRL07.pdf](http://ai.stanford.edu/~koller/Papers/Koller+al:SRL07.pdf)
 
+**An ICCV 2015 Tutorial on Inference and Learning in Discrete Graphical Models: Theory and Practice**
+
+- homepage: [http://cvlab-dresden.de/research/optimization-and-learning/gm-tutorial-iccv2015/](http://cvlab-dresden.de/research/optimization-and-learning/gm-tutorial-iccv2015/)
+- slides("inference"): [http://cvlab-dresden.de/wp-content/uploads/2016/01/inference.pdf](http://cvlab-dresden.de/wp-content/uploads/2016/01/inference.pdf)
+- slides("learning"): [http://cvlab-dresden.de/wp-content/uploads/2015/12/learning.pdf](http://cvlab-dresden.de/wp-content/uploads/2015/12/learning.pdf)
+
 # Tools/Libraries
 
 **pomegranate: Fast, flexible and easy to use probabilistic modelling in Python**
