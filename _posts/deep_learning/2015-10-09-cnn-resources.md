@@ -272,7 +272,11 @@ Bicubic VS. Shepard CNN
 
 **Learning Representations for Automatic Colorization**
 
+![](http://people.cs.uchicago.edu/~larsson/colorization/overview.png)
+
+- homepage: [http://people.cs.uchicago.edu/~larsson/colorization/](http://people.cs.uchicago.edu/~larsson/colorization/)
 - arxiv: [http://arxiv.org/abs/1603.06668](http://arxiv.org/abs/1603.06668)
+- github: [https://github.com/gustavla/autocolorize](https://github.com/gustavla/autocolorize)
 
 **Colorful Image Colorization**
 
