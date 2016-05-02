@@ -38,6 +38,10 @@ date: 2015-10-09
 
 - blog: [http://blog.claymcleod.io/2016/02/06/Parametric-Activation-Pools-greatly-increase-performance-and-consistency-in-ConvNets/](http://blog.claymcleod.io/2016/02/06/Parametric-Activation-Pools-greatly-increase-performance-and-consistency-in-ConvNets/)
 
+**Revise Saturated Activation Functions**
+
+- arxiv: [http://arxiv.org/abs/1602.05980](http://arxiv.org/abs/1602.05980)
+
 **Noisy Activation Functions**
 
 - arxiv: [http://arxiv.org/abs/1603.00391](http://arxiv.org/abs/1603.00391)
@@ -215,7 +219,7 @@ date: 2015-10-09
 
 **Gradient Descent For Machine Learning**
 
-[http://machinelearningmastery.com/gradient-descent-for-machine-learning/](http://machinelearningmastery.com/gradient-descent-for-machine-learning/)
+- blog: [http://machinelearningmastery.com/gradient-descent-for-machine-learning/](http://machinelearningmastery.com/gradient-descent-for-machine-learning/)
 
 **Revisiting Distributed Synchronous SGD**
 
@@ -248,6 +252,10 @@ date: 2015-10-09
 - arxiv: [https://arxiv.org/abs/1604.06174](https://arxiv.org/abs/1604.06174)
 - github: [https://github.com/dmlc/mxnet-memonger](https://github.com/dmlc/mxnet-memonger)
 - github: [https://github.com/Bihaqo/tf-memonger](https://github.com/Bihaqo/tf-memonger)
+
+**Improving the Robustness of Deep Neural Networks via Stability Training**
+
+- arxiv: [http://arxiv.org/abs/1604.04326](http://arxiv.org/abs/1604.04326)
 
 # Tools
 

@@ -12,9 +12,18 @@ date: 2015-10-09
 - arXiv: [http://arxiv.org/abs/1502.01852](http://arxiv.org/abs/1502.01852)
 - notes: [http://blog.csdn.net/happynear/article/details/45440811](http://blog.csdn.net/happynear/article/details/45440811)
 
+**Bilinear CNN Models for Fine-grained Visual Recognition (ICCV 2015)**
+
+![](http://people.cs.umass.edu/~smaji/picon/bcnn.png)
+
+- homepage: [http://vis-www.cs.umass.edu/bcnn/](http://vis-www.cs.umass.edu/bcnn/)
+- paper: [http://vis-www.cs.umass.edu/bcnn/docs/bcnn_iccv15.pdf](http://vis-www.cs.umass.edu/bcnn/docs/bcnn_iccv15.pdf)
+- arxiv: [http://arxiv.org/abs/1504.07889](http://arxiv.org/abs/1504.07889)
+- bitbucket: [https://bitbucket.org/tsungyu/bcnn.git](https://bitbucket.org/tsungyu/bcnn.git)
+
 # Blogs
 
-**What is the class of this image ?**
+**What is the class of this image ? - Discover the current state of the art in objects classification**
 
 - intro: "Discover the current state of the art in objects classification."
 - blog: [http://rodrigob.github.io/are_we_there_yet/build/classification_datasets_results.html](http://rodrigob.github.io/are_we_there_yet/build/classification_datasets_results.html)

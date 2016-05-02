@@ -38,9 +38,11 @@ date: 2015-10-09
 
 # Multi-task Learning
 
-![](/assets/dl-materials/multitask-learning-pasted-graphic.jpg)
+**Multitask Learning / Domain Adaptation**
 
-[http://www.cs.cornell.edu/~kilian/research/multitasklearning/multitasklearning.html](http://www.cs.cornell.edu/~kilian/research/multitasklearning/multitasklearning.html)
+![](http://www.cs.cornell.edu/~kilian/research/multitasklearning/files/pasted-graphic.jpg)
+
+- homepage: [http://www.cs.cornell.edu/~kilian/research/multitasklearning/multitasklearning.html](http://www.cs.cornell.edu/~kilian/research/multitasklearning/multitasklearning.html)
 
 **multi-task learning**
 

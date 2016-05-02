@@ -37,6 +37,12 @@ not very deep with only three convolution layers."
 
 - arxiv: [http://arxiv.org/abs/1603.08575](http://arxiv.org/abs/1603.08575)
 
+# Benchmarks
+
+**Semantic Understanding of Urban Street Scenes: Benchmark Suite**
+
+[https://www.cityscapes-dataset.com/benchmarks/](https://www.cityscapes-dataset.com/benchmarks/)
+
 # Challenges
 
 **Large-scale Scene Understanding Challenge**

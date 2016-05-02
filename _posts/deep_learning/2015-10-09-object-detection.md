@@ -100,26 +100,6 @@ topmost feature map after knowing the confidences of the underlying object categ
 **Improving Object Detection with Deep Convolutional Networks via Bayesian Optimization
 and Structured Prediction**
 
-|Model            |BBoxReg? |VOC 2007 mAP(IoU>0.5)|
-|:---------------:|:-------:|:-------------------:|
-|R-CNN(AlexNet)   |No       |54.2%                |
-|R-CNN(VGG)       |No       |60.6%                |
-|+StructObj       |No       |61.2%                |
-|+StructObj-FT    |No       |62.3%                |
-|+FGS             |No       |64.8%                |
-|+StructObj+FGS   |No       |65.9%                |
-|+StructObj-FT+FGS|No       |66.5%                |
-
-|Model            |BBoxReg? |VOC 2007 mAP(IoU>0.5)|
-|:---------------:|:-------:|:-------------------:|
-|R-CNN(AlexNet)   |Yes      |58.5%                |
-|R-CNN(VGG)       |Yes      |65.4%                |
-|+StructObj       |Yes      |66.6%                |
-|+StructObj-FT    |Yes      |66.9%                |
-|+FGS             |Yes      |67.2%                |
-|+StructObj+FGS   |Yes      |68.5%                |
-|+StructObj-FT+FGS|Yes      |68.4%                |
-
 - arXiv: [http://arxiv.org/abs/1504.03293](http://arxiv.org/abs/1504.03293)
 - slides: [http://www.ytzhang.net/files/publications/2015-cvpr-det-slides.pdf](http://www.ytzhang.net/files/publications/2015-cvpr-det-slides.pdf)
 - code: [https://github.com/YutingZhang/fgs-obj](https://github.com/YutingZhang/fgs-obj)
@@ -224,6 +204,7 @@ bounding boxes (which are shared for these categories).
 ![](https://camo.githubusercontent.com/ad9b147ed3a5f48ffb7c3540711c15aa04ce49c6/687474703a2f2f7777772e63732e756e632e6564752f7e776c69752f7061706572732f7373642e706e67)
 
 - arXiv: [http://arxiv.org/abs/1512.02325](http://arxiv.org/abs/1512.02325)
+- paper: [http://www.cs.unc.edu/~wliu/papers/ssd.pdf](http://www.cs.unc.edu/~wliu/papers/ssd.pdf)
 - github: [https://github.com/weiliu89/caffe/tree/ssd](https://github.com/weiliu89/caffe/tree/ssd)
 - video: [http://weibo.com/p/2304447a2326da963254c963c97fb05dd3a973](http://weibo.com/p/2304447a2326da963254c963c97fb05dd3a973)
 

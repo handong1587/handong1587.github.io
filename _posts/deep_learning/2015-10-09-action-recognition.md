@@ -57,3 +57,7 @@ extract saptio-temporal features to represent the video using the CNNs."
 **Active Learning for Online Recognition of Human Activities from Streaming Videos**
 
 - arxiv: [http://arxiv.org/abs/1604.02855](http://arxiv.org/abs/1604.02855)
+
+**Convolutional Two-Stream Network Fusion for Video Action Recognition**
+
+- arxiv: [http://arxiv.org/abs/1604.06573](http://arxiv.org/abs/1604.06573)

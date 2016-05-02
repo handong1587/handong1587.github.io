@@ -30,6 +30,11 @@ date: 2015-10-09
 - paper: [http://arxiv.org/abs/1509.05016](http://arxiv.org/abs/1509.05016)
 - homepage: [http://www.brain4cars.com/](http://www.brain4cars.com/)
 
+**End to End Learning for Self-Driving Cars**
+
+- intro: NVIDIA DevBox and Torch 7, 30 FPS
+- arxiv: [http://arxiv.org/abs/1604.07316](http://arxiv.org/abs/1604.07316)
+
 # Blogs
 
 **Self-driving cars: How far away are we REALLY from autonomous cars?(7 Aug 2015)**

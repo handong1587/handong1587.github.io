@@ -10,6 +10,14 @@ date: 2015-10-09
 
 # Papers
 
+**Deep Convolutional Network Cascade for Facial Point Detection**
+
+![](http://mmlab.ie.cuhk.edu.hk/archive/CNN/data/Picture1.png)
+
+- homepage: [http://mmlab.ie.cuhk.edu.hk/archive/CNN_FacePoint.htm](http://mmlab.ie.cuhk.edu.hk/archive/CNN_FacePoint.htm)
+- paper: [http://www.ee.cuhk.edu.hk/~xgwang/papers/sunWTcvpr13.pdf](http://www.ee.cuhk.edu.hk/~xgwang/papers/sunWTcvpr13.pdf)
+- github: [https://github.com/luoyetx/deep-landmark](https://github.com/luoyetx/deep-landmark)
+
 **Deeply learned face representations are sparse, selective, and robust (DeepID2+)**
 
 - arxiv: [http://arxiv.org/abs/1412.1265](http://arxiv.org/abs/1412.1265)
@@ -60,6 +68,10 @@ date: 2015-10-09
 **The MegaFace Benchmark: 1 Million Faces for Recognition at Scale**
 
 - arXiv: [http://arxiv.org/abs/1512.00596](http://arxiv.org/abs/1512.00596)
+
+**Makeup like a superstar: Deep Localized Makeup Transfer Network**
+
+- arXiv: [http://arxiv.org/abs/1604.07102](http://arxiv.org/abs/1604.07102)
 
 # Projects
 
