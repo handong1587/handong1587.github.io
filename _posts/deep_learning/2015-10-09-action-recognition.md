@@ -57,3 +57,7 @@ extract saptio-temporal features to represent the video using the CNNs."
 **Active Learning for Online Recognition of Human Activities from Streaming Videos**
 
 - arxiv: [http://arxiv.org/abs/1604.02855](http://arxiv.org/abs/1604.02855)
+
+**Deep, Convolutional, and Recurrent Models for Human Activity Recognition using Wearables**
+
+- arxiv: [http://arxiv.org/abs/1604.08880](http://arxiv.org/abs/1604.08880)
