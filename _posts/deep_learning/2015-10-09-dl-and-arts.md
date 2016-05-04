@@ -210,6 +210,7 @@ with the style of another image using convolutional neural networks
 **Artistic style transfer for videos**
 
 - arxiv: [http://arxiv.org/abs/1604.08610](http://arxiv.org/abs/1604.08610)
+- github: [https://github.com/manuelruder/artistic-videos](https://github.com/manuelruder/artistic-videos)
 
 # Poetry
 

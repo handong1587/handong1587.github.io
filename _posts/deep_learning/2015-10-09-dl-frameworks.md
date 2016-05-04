@@ -352,8 +352,9 @@ date: 2015-10-09
 
 **TFLearn: Deep learning library featuring a higher-level API for TensorFlow**
 
-- github: [https://github.com/tflearn/tflearn](https://github.com/tflearn/tflearn)
 - homepage: [http://tflearn.org/](http://tflearn.org/)
+- github: [https://github.com/tflearn/tflearn](https://github.com/tflearn/tflearn)
+- examples: [https://github.com/tflearn/tflearn/blob/0.1.0/examples/README.md](https://github.com/tflearn/tflearn/blob/0.1.0/examples/README.md)
 
 **TensorFlow Examples: TensorFlow tutorials and code examples for beginners**
 
@@ -362,6 +363,10 @@ date: 2015-10-09
 **CodinGame: Deep Learning - TensorFlow**
 
 - homepage: [https://www.codingame.com/games/machine-learning?utm_source=CodinGame&utm_medium=Email&utm_campaign=tensorflow](https://www.codingame.com/games/machine-learning?utm_source=CodinGame&utm_medium=Email&utm_campaign=tensorflow)
+
+**Awesome TensorFlow: A curated list of awesome TensorFlow experiments, libraries, and projects**
+
+- github: [https://github.com/jtoy/awesome-tensorflow/](https://github.com/jtoy/awesome-tensorflow/)
 
 # Theano
 

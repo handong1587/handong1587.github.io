@@ -75,7 +75,9 @@ after the embedding and recurrent layers of the RNN."
 
 **DenseCap: Fully Convolutional Localization Networks for Dense Captioning**
 
+- project page: [http://cs.stanford.edu/people/karpathy/densecap/](http://cs.stanford.edu/people/karpathy/densecap/)
 - arXiv: [http://arxiv.org/abs/1511.07571](http://arxiv.org/abs/1511.07571)
+- github(Torch): [https://github.com/jcjohnson/densecap](https://github.com/jcjohnson/densecap)
 
 **Expressing an Image Stream with a Sequence of Natural Sentences (CRCN. NIPS 2015)**
 
