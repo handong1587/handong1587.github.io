@@ -28,6 +28,12 @@ date: 2015-10-09
 
 - blog: [http://brooksandrew.github.io/simpleblog/articles/convolutional-neural-network-training-with-dl4j/](http://brooksandrew.github.io/simpleblog/articles/convolutional-neural-network-training-with-dl4j/)
 
+**Convolutional Neural Networks backpropagation: from intuition to derivation**
+
+![](https://grzegorzgwardys.files.wordpress.com/2016/01/convolution-mlp-mapping.png?w=640)
+
+- blog: [https://grzegorzgwardys.wordpress.com/2016/04/22/8/](https://grzegorzgwardys.wordpress.com/2016/04/22/8/)
+
 # CNN with CV
 
 **End-to-End Integration of a Convolutional Network, Deformable Parts Model and Non-Maximum Suppression**
@@ -272,7 +278,11 @@ Bicubic VS. Shepard CNN
 
 **Learning Representations for Automatic Colorization**
 
+![](http://people.cs.uchicago.edu/~larsson/colorization/overview.png)
+
+- homepage: [http://people.cs.uchicago.edu/~larsson/colorization/](http://people.cs.uchicago.edu/~larsson/colorization/)
 - arxiv: [http://arxiv.org/abs/1603.06668](http://arxiv.org/abs/1603.06668)
+- github: [https://github.com/gustavla/autocolorize](https://github.com/gustavla/autocolorize)
 
 **Colorful Image Colorization**
 

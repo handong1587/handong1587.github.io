@@ -93,16 +93,6 @@ date: 2015-09-25
 
 [https://www.cbinsights.com/blog/top-acquirers-ai-startups-ma-timeline/](https://www.cbinsights.com/blog/top-acquirers-ai-startups-ma-timeline/)
 
-# Self-driving Cars
-
-**Self-driving cars: How far away are we REALLY from autonomous cars?(7 Aug 2015)**
-
-[http://www.alphr.com/cars/1001329/self-driving-cars-how-far-away-are-we-really-from-autonomous-cars](http://www.alphr.com/cars/1001329/self-driving-cars-how-far-away-are-we-really-from-autonomous-cars)
-
-**Practice makes perfect: Driverless cars will learn from their mistakes(9 Oct 2015)**
-
-[http://www.alphr.com/cars/1001713/practice-makes-perfect-driverless-cars-will-learn-from-their-mistakes](http://www.alphr.com/cars/1001713/practice-makes-perfect-driverless-cars-will-learn-from-their-mistakes)
-
 # Weiqi (Go) AI
 
 **Google and Facebook Race to Solve the Ancient Game of Go With AI | WIRED**

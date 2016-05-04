@@ -31,6 +31,10 @@ date: 2015-10-09
 
 - arxiv: [http://arxiv.org/abs/1505.07922](http://arxiv.org/abs/1505.07922)
 
+**Aggregating Deep Convolutional Features for Image Retrieval**
+
+- arxiv: [http://arxiv.org/abs/1510.07493](http://arxiv.org/abs/1510.07493)
+
 **Feature Learning based Deep Supervised Hashing with Pairwise Labels**
 
 - arxiv: [http://arxiv.org/abs/1511.03855](http://arxiv.org/abs/1511.03855)

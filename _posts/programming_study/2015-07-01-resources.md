@@ -33,13 +33,17 @@ date: 2015-07-01
 
 - github: [https://github.com/profjsb/python-seminar](https://github.com/profjsb/python-seminar)
 
+**Top Answers to Python Interview Questions**
+
+- blog: [https://intellipaat.com/interview-question/python-interview-questions/](https://intellipaat.com/interview-question/python-interview-questions/)
+
 # Go
 
 **Go by Example**
 
  - blog: [https://gobyexample.com/](https://gobyexample.com/)
 
-# Blogs
+# Codes
 
 **The Archive of Interesting Code**
 

@@ -82,6 +82,15 @@ date: 2015-10-09
 
 - arxiv: [http://arxiv.org/abs/1601.04568](http://arxiv.org/abs/1601.04568)
 
+**Combining Markov Random Fields and Convolutional Neural Networks for Image Synthesis**
+
+<img src="https://raw.githubusercontent.com/chuanli11/CNNMRF/master/data/examples/content.jpg" width="150" />
+<img src="https://raw.githubusercontent.com/chuanli11/CNNMRF/master/data/examples/style.jpg" width="150" />
+<img src="https://raw.githubusercontent.com/chuanli11/CNNMRF/master/data/examples/Interpolation/3_balanced.png" width="150" />
+
+- arxiv: [http://arxiv.org/abs/1601.04589](http://arxiv.org/abs/1601.04589)
+- github: [https://github.com/chuanli11/CNNMRF](https://github.com/chuanli11/CNNMRF)
+
 **Semantic Style Transfer and Turning Two-Bit Doodles into Fine Artworks**
 
 - paper: [http://nucl.ai/semantic-style-transfer.pdf](http://nucl.ai/semantic-style-transfer.pdf)
@@ -197,6 +206,10 @@ with the style of another image using convolutional neural networks
 
 - website: [https://gist.github.com/genekogan/d61c8010d470e1dbe15d](https://gist.github.com/genekogan/d61c8010d470e1dbe15d)
 - sample: [https://vimeo.com/139123754](https://vimeo.com/139123754)
+
+**Artistic style transfer for videos**
+
+- arxiv: [http://arxiv.org/abs/1604.08610](http://arxiv.org/abs/1604.08610)
 
 # Poetry
 

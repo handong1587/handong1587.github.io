@@ -82,6 +82,14 @@ date: 2015-09-12
 - homepage: [http://graphics.cs.cmu.edu/projects/gradient-paint/](http://graphics.cs.cmu.edu/projects/gradient-paint/)
 - paper: [http://graphics.cs.cmu.edu/projects/gradient-paint/grad.light.r2226.pdf](http://graphics.cs.cmu.edu/projects/gradient-paint/grad.light.r2226.pdf)
 
+**Combining Sketch and Tone for Pencil Drawing Production (NPAR 2012 Best Paper Award)**
+
+![](/assets/computer-vision/pencil_drawing.jpg)
+
+- homepage: [http://www.cse.cuhk.edu.hk/~leojia/projects/pencilsketch/pencil_drawing.htm](http://www.cse.cuhk.edu.hk/~leojia/projects/pencilsketch/pencil_drawing.htm)
+- paper: [http://www.cse.cuhk.edu.hk/~leojia/projects/pencilsketch/npar12_pencil.pdf](http://www.cse.cuhk.edu.hk/~leojia/projects/pencilsketch/npar12_pencil.pdf)
+- github: [https://github.com/fumin/pencil](https://github.com/fumin/pencil)
+
 - - -
 
 **RGB-W: When Vision Meets Wireless**

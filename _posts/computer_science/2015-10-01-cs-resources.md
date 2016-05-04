@@ -34,3 +34,9 @@ date: 2015-10-01
 **Numeric matrix manipulation: The cheat sheet for MATLAB, Python NumPy, R, and Julia**
 
 [http://sebastianraschka.com/Articles/Matrix%20Cheat%20Sheet.html](http://sebastianraschka.com/Articles/Matrix%20Cheat%20Sheet.html)
+
+**Evolutionary Computation**
+
+![](http://www.alanzucconi.com/wp-content/uploads/2016/04/evolution1.png)
+
+- blog: [http://www.alanzucconi.com/](http://www.alanzucconi.com/)

@@ -387,6 +387,13 @@ Other awesome lists can be found in this [list](https://github.com/sindresorhus/
 
 [http://nbviewer.jupyter.org/github/etpinard/plotly-misc-nbs/blob/master/ml-classifier-comp/ml-classifier-comp.ipynb](http://nbviewer.jupyter.org/github/etpinard/plotly-misc-nbs/blob/master/ml-classifier-comp/ml-classifier-comp.ipynb)
 
+**Dealing with Unbalanced Classes ,Svm, Random Forests And Decision Trees In Python**
+
+![](http://www.bigdataexaminer.com/wp-content/uploads/2015/02/unbalanced01.jpg)
+
+- blog: [http://bigdataexaminer.com/data-science/dealing-with-unbalanced-classes-svm-random-forests-and-decision-trees-in-python/](http://bigdataexaminer.com/data-science/dealing-with-unbalanced-classes-svm-random-forests-and-decision-trees-in-python/)
+- blog: [http://www.kdnuggets.com/2016/04/unbalanced-classes-svm-random-forests-python.html](http://www.kdnuggets.com/2016/04/unbalanced-classes-svm-random-forests-python.html)
+
 # Machine Learning Library
 
 **LambdaNet: Purely functional artificial neural network library implemented in Haskell**

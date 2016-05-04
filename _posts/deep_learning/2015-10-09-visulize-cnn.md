@@ -67,6 +67,12 @@ date: 2015-10-09
 - homepage: [http://www.stat.ucla.edu/~yang.lu/project/deepFrame/main.html](http://www.stat.ucla.edu/~yang.lu/project/deepFrame/main.html)
 - code: [http://www.stat.ucla.edu/~yang.lu/project/deepFrame/doc/code.zip](http://www.stat.ucla.edu/~yang.lu/project/deepFrame/doc/code.zip)
 
+**Visualizing and Understanding Deep Texture Representations**
+
+- homepage: [http://vis-www.cs.umass.edu/texture/](http://vis-www.cs.umass.edu/texture/)
+- arxiv: [http://arxiv.org/abs/1511.05197](http://arxiv.org/abs/1511.05197)
+- paper: [https://people.cs.umass.edu/~smaji/papers/texture-cvpr16.pdf](https://people.cs.umass.edu/~smaji/papers/texture-cvpr16.pdf)
+
 **Visualizing Deep Convolutional Neural Networks Using Natural Pre-Images**
 
 - arXiv: [http://arxiv.org/abs/1512.02017](http://arxiv.org/abs/1512.02017)
