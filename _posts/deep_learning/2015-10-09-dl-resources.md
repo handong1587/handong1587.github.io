@@ -106,10 +106,11 @@ date: 2015-10-09
 
 # Tensor
 
-**Tensorizing Neural Networks**
+**Tensorizing Neural Networks (TensorNet)**
 
 - paper: [http://arxiv.org/abs/1509.06569v1](http://arxiv.org/abs/1509.06569v1)
-- github(TensorNet): [https://github.com/Bihaqo/TensorNet](https://github.com/Bihaqo/TensorNet)
+- github(Matlab+Theano+Lasagne): [https://github.com/Bihaqo/TensorNet](https://github.com/Bihaqo/TensorNet)
+- github(TensorFlow): [https://github.com/timgaripov/TensorNet-TF](https://github.com/timgaripov/TensorNet-TF)
 
 **On the Expressive Power of Deep Learning: A Tensor Analysis**
 
@@ -165,6 +166,10 @@ date: 2015-10-09
 - blog("标签传播算法（Label Propagation）及Python实现"): [http://blog.csdn.net/zouxy09/article/details/49105265](http://blog.csdn.net/zouxy09/article/details/49105265)
 
 # Unsupervised Learning
+
+**On Random Weights and Unsupervised Feature Learning (ICML 2011)**
+
+- paper: [http://www.robotics.stanford.edu/~ang/papers/icml11-RandomWeights.pdf](http://www.robotics.stanford.edu/~ang/papers/icml11-RandomWeights.pdf)
 
 **Unsupervised Learning of Spatiotemporally Coherent Metrics**
 
@@ -240,6 +245,11 @@ with fast exact probabilistic inference over many layers."
 
 - arxiv: [http://arxiv.org/abs/1511.07356](http://arxiv.org/abs/1511.07356)
 - github: [https://github.com/SinaHonari/RCN](https://github.com/SinaHonari/RCN)
+
+**Dynamic Capacity Networks**
+
+- arxiv: [http://arxiv.org/abs/1511.07838](http://arxiv.org/abs/1511.07838)
+- github(Tensorflow): [https://github.com/beopst/dcn.tf](https://github.com/beopst/dcn.tf)
 
 **Bitwise Neural Networks**
 
@@ -642,14 +652,3 @@ We also include one pre-trained model using a custom convolutional network."
 **colah's blog**
 
 [http://colah.github.io/](http://colah.github.io/)
-
-# Competitions
-
-**Classifying plankton with deep neural networks**
-
-- blog: [http://benanne.github.io/2015/03/17/plankton.html](http://benanne.github.io/2015/03/17/plankton.html)
-- github: [https://github.com/benanne/kaggle-ndsb](https://github.com/benanne/kaggle-ndsb)
-
-**Keras Deep Learning Tutorial for Kaggle 2nd Annual Data Science Bowl**
-
-- github: [https://github.com/jocicmarko/kaggle-dsb2-keras](https://github.com/jocicmarko/kaggle-dsb2-keras)

@@ -21,6 +21,11 @@ date: 2015-10-09
 - arxiv: [http://arxiv.org/abs/1504.07889](http://arxiv.org/abs/1504.07889)
 - bitbucket: [https://bitbucket.org/tsungyu/bcnn.git](https://bitbucket.org/tsungyu/bcnn.git)
 
+**Humans and deep networks largely agree on which kinds of variation make object recognition harder**
+
+- arxiv: [http://arxiv.org/abs/1604.06486](http://arxiv.org/abs/1604.06486)
+- review: [https://www.technologyreview.com/s/601387/why-machine-vision-is-flawed-in-the-same-way-as-human-vision/](https://www.technologyreview.com/s/601387/why-machine-vision-is-flawed-in-the-same-way-as-human-vision/)
+
 # Blogs
 
 **What is the class of this image ? - Discover the current state of the art in objects classification**

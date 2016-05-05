@@ -5,6 +5,8 @@ title: Image Retrieval
 date: 2015-10-09
 ---
 
+# Papers
+
 **Neural Codes for Image Retrieval**
 
 ![](http://sites.skoltech.ru/app/data/uploads/sites/25/2014/11/example-e1404721339557.png)
@@ -59,3 +61,9 @@ date: 2015-10-09
 - homepage: [http://ronghanghu.com/text_obj_retrieval/](http://ronghanghu.com/text_obj_retrieval/)
 - arxiv: [http://arxiv.org/abs/1511.04164](http://arxiv.org/abs/1511.04164)
 - github: [https://github.com/ronghanghu/natural-language-object-retrieval](https://github.com/ronghanghu/natural-language-object-retrieval)
+
+# Tutorious
+
+**Deep Image Retrieval: Learning global representations for image search**
+
+- youtube: [https://www.youtube.com/watch?v=yT52xDML6ys](https://www.youtube.com/watch?v=yT52xDML6ys)

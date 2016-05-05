@@ -166,6 +166,14 @@ date: 2015-10-09
 - github: [https://github.com/rllab/rllab](https://github.com/rllab/rllab)
 - doc: [https://rllab.readthedocs.org/en/latest/](https://rllab.readthedocs.org/en/latest/)
 
+**Terrain-Adaptive Locomotion Skills Using Deep Reinforcement Learning**
+
+![](http://www.cs.ubc.ca/~van/papers/2016-TOG-deepRL/dog_teaser.png)
+
+- homepage: [http://www.cs.ubc.ca/~van/papers/2016-TOG-deepRL/index.html](http://www.cs.ubc.ca/~van/papers/2016-TOG-deepRL/index.html)
+- paper: [http://www.cs.ubc.ca/~van/papers/2016-TOG-deepRL/2016-TOG-deepRL.pdf](http://www.cs.ubc.ca/~van/papers/2016-TOG-deepRL/2016-TOG-deepRL.pdf)
+- github: [https://github.com/xbpeng/DeepTerrainRL](https://github.com/xbpeng/DeepTerrainRL)
+
 # Projects
 
 **Using Deep Q-Network to Learn How To Play Flappy Bird**

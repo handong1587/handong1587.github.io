@@ -109,6 +109,9 @@ using the stochastic gradient descent (SGD) algorithm to obtain fine pixel-level
 
 **Multi-Scale Context Aggregation by Dilated Convolutions**
 
+![](http://vladlen.info/wp-content/uploads/2016/02/dilated-convolutions1-894x263.png)
+
+- homepage: [http://vladlen.info/publications/multi-scale-context-aggregation-by-dilated-convolutions/](http://vladlen.info/publications/multi-scale-context-aggregation-by-dilated-convolutions/)
 - arxiv: [http://arxiv.org/abs/1511.07122](http://arxiv.org/abs/1511.07122)
 - github: [https://github.com/fyu/dilation](https://github.com/fyu/dilation)
 

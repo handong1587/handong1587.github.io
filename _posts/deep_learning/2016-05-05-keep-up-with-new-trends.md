@@ -2,7 +2,7 @@
 layout: post
 category: deep_learning
 title: Keep Up With New Trends
-date: 2016-04-01
+date: 2016-05-05
 ---
 
 **Deep Learning Summer School 2015**
@@ -89,3 +89,7 @@ date: 2016-04-01
 **Science: Table of Contents: Artificial Intelligence**
 
 [http://science.sciencemag.org/content/349/6245.toc](http://science.sciencemag.org/content/349/6245.toc)
+
+**VALSE 2016**
+
+[http://mclab.eic.hust.edu.cn/valse2016/program.html](http://mclab.eic.hust.edu.cn/valse2016/program.html)
