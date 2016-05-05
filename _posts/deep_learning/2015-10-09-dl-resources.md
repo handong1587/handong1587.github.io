@@ -147,7 +147,7 @@ date: 2015-10-09
 **Importance Weighted Autoencoders**
 
 - paper: [http://arxiv.org/abs/1509.00519](http://arxiv.org/abs/1509.00519)
-- code: [https://github.com/yburda/iwae](https://github.com/yburda/iwae)
+- github: [https://github.com/yburda/iwae](https://github.com/yburda/iwae)
 
 **Review of Auto-Encoders(by Piotr Mirowski, Microsoft Bing London, 2014)**
 

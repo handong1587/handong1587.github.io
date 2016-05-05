@@ -93,3 +93,7 @@ date: 2016-05-05
 **VALSE 2016**
 
 [http://mclab.eic.hust.edu.cn/valse2016/program.html](http://mclab.eic.hust.edu.cn/valse2016/program.html)
+
+**tensor talk - Latest AI Code: conference-iclr-2016**
+
+[https://tensortalk.com/?cat=conference-iclr-2016](https://tensortalk.com/?cat=conference-iclr-2016)
