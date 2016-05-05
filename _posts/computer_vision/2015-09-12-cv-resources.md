@@ -277,3 +277,9 @@ date: 2015-09-12
 
 - (Part I): Convolutional Neural Networks: [https://indico.io/blog/exploring-computer-vision-convolutional-neural-nets/](https://indico.io/blog/exploring-computer-vision-convolutional-neural-nets/)
 - (Part II): Transfer Learning: [https://indico.io/blog/exploring-computer-vision-transfer-learning/](https://indico.io/blog/exploring-computer-vision-transfer-learning/)
+
+# Conferences
+
+**SIGGRAPH 2016 papers on the web**
+
+[http://kesen.realtimerendering.com/sig2016.html](http://kesen.realtimerendering.com/sig2016.html)
