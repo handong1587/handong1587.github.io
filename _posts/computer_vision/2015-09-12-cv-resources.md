@@ -40,6 +40,13 @@ date: 2015-09-12
 - course website: [http://www.ece.northwestern.edu/~yingwu/teaching/EECS432/index.html](http://www.ece.northwestern.edu/~yingwu/teaching/EECS432/index.html)c
 - handouts: [http://www.ece.northwestern.edu/~yingwu/teaching/EECS432/EECS432_hand.html](http://www.ece.northwestern.edu/~yingwu/teaching/EECS432/EECS432_hand.html)
 
+**EECS 286 Advanced Topics in Computer Vision**
+
+- homepage: [http://faculty.ucmerced.edu/mhyang/course/eecs286/index.htm](http://faculty.ucmerced.edu/mhyang/course/eecs286/index.htm)
+- syllabus: [http://faculty.ucmerced.edu/mhyang/course/eecs286/syllabus.htm](http://faculty.ucmerced.edu/mhyang/course/eecs286/syllabus.htm)
+- lectures: [http://faculty.ucmerced.edu/mhyang/course/eecs286/lecture.htm](http://faculty.ucmerced.edu/mhyang/course/eecs286/lecture.htm)
+- lecture("How to get your CVPR paper rejected?"): [http://faculty.ucmerced.edu/mhyang/course/eecs286/lectures/introduction.pptx](http://faculty.ucmerced.edu/mhyang/course/eecs286/lectures/introduction.pptx)
+
 # Edge detection
 
 **Image-feature-detection-using-Phase-Stretch-Transform**

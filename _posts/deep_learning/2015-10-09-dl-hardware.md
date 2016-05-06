@@ -51,6 +51,12 @@ date: 2015-10-09
 - homepage: [http://nvlabs.github.io/moderngpu/](http://nvlabs.github.io/moderngpu/)
 - github: [https://github.com/nvlabs/moderngpu](https://github.com/nvlabs/moderngpu)
 
+**CuMF: CUDA-Acclerated ALS on mulitple GPUs.**
+
+![](https://raw.githubusercontent.com/wei-tan/CuMF/master/images/mf.png)
+
+- github: [https://github.com/wei-tan/CuMF](https://github.com/wei-tan/CuMF)
+
 # FPGA
 
 **Recurrent Neural Networks Hardware Implementation on FPGA**

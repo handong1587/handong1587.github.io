@@ -97,3 +97,15 @@ date: 2016-05-05
 **tensor talk - Latest AI Code: conference-iclr-2016**
 
 [https://tensortalk.com/?cat=conference-iclr-2016](https://tensortalk.com/?cat=conference-iclr-2016)
+
+**Video Recordings of the ICML’15 Deep Learning Workshop**
+
+- homepage: [http://dpkingma.com/?page_id=483](http://dpkingma.com/?page_id=483)
+- youtube: [https://www.youtube.com/playlist?list=PLdH9u0f1XKW8cUM3vIVjnpBfk_FKzviCu](https://www.youtube.com/playlist?list=PLdH9u0f1XKW8cUM3vIVjnpBfk_FKzviCu)
+
+**CVPR 2016**
+
+- homepage: [http://cvpr2016.thecvf.com/program/main_conference](http://cvpr2016.thecvf.com/program/main_conference)
+- Object Recognition and Detection: [http://cvpr2016.thecvf.com/program/main_conference#O1-2A](http://cvpr2016.thecvf.com/program/main_conference#O1-2A)
+- Object Detection 1: [http://cvpr2016.thecvf.com/program/main_conference#S1-2A](http://cvpr2016.thecvf.com/program/main_conference#S1-2A)
+- Object Detection 2: [http://cvpr2016.thecvf.com/program/main_conference#S2-2A](http://cvpr2016.thecvf.com/program/main_conference#S2-2A)
