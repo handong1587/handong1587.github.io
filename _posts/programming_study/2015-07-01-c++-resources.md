@@ -22,6 +22,13 @@ that provides a simple interface for defining and accessing command line argumen
 
 [http://advancedlinuxprogramming.com/](http://advancedlinuxprogramming.com/)
 
+**The Ultimate Question of Programming, Refactoring, and Every**
+
+- intro: The book covers 42 recommendations about programming in C/C++. 
+It contains real examples with errors and the author gives explanations of how these bugs could be avoided. — Alex Astva
+- gitbook: [https://www.gitbook.com/book/alexastva/the-ultimate-question-of-programming-refactoring-/details](https://www.gitbook.com/book/alexastva/the-ultimate-question-of-programming-refactoring-/details)
+- pdf: [https://www.gitbook.com/download/pdf/book/alexastva/the-ultimate-question-of-programming-refactoring-](https://www.gitbook.com/download/pdf/book/alexastva/the-ultimate-question-of-programming-refactoring-)
+
 # Resources
 
 **openFrameworks: an open source C++ toolkit for creative coding.**

@@ -47,6 +47,11 @@ date: 2015-09-12
 - lectures: [http://faculty.ucmerced.edu/mhyang/course/eecs286/lecture.htm](http://faculty.ucmerced.edu/mhyang/course/eecs286/lecture.htm)
 - lecture("How to get your CVPR paper rejected?"): [http://faculty.ucmerced.edu/mhyang/course/eecs286/lectures/introduction.pptx](http://faculty.ucmerced.edu/mhyang/course/eecs286/lectures/introduction.pptx)
 
+**CS280: Computer Vision (University of California Berkeley)**
+
+- homepage: [http://www-inst.eecs.berkeley.edu/~cs280/sp15/index.html](http://www-inst.eecs.berkeley.edu/~cs280/sp15/index.html)
+- lectures: [http://docs.huihoo.com/computer-vision/berkeley/cs280-computer-vision/](http://docs.huihoo.com/computer-vision/berkeley/cs280-computer-vision/)
+
 # Edge detection
 
 **Image-feature-detection-using-Phase-Stretch-Transform**
@@ -164,6 +169,12 @@ date: 2015-09-12
 - paper: [http://gfx.cs.princeton.edu/pubs/Barnes_2010_TGP/generalized_pm.pdf](http://gfx.cs.princeton.edu/pubs/Barnes_2010_TGP/generalized_pm.pdf)
 - code: [http://www.cs.princeton.edu/gfx/pubs/Barnes_2009_PAR/patchmatch-2.0.zip](http://www.cs.princeton.edu/gfx/pubs/Barnes_2009_PAR/patchmatch-2.0.zip)
 
+# Image inpaiting
+
+**Patch-based Texture Synthesis for Image Inpainting**
+
+- arxiv: [http://arxiv.org/abs/1605.01576](http://arxiv.org/abs/1605.01576)
+
 # SLAM
 
 **Why SLAM Matters, The Future of Real-Time SLAM, and Deep Learning vs SLAM**
@@ -231,6 +242,10 @@ date: 2015-09-12
 **FaceTracker: Real time deformable face tracking in C++ with OpenCV 2**
 
 - github: [https://github.com/kylemcdonald/FaceTracker](https://github.com/kylemcdonald/FaceTracker)
+
+**Ocular: a state-of-the-art historical OCR system**
+
+- github: [https://github.com/tberg12/ocular](https://github.com/tberg12/ocular)
 
 # Resources
 

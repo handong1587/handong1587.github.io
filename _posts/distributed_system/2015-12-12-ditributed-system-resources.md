@@ -11,6 +11,10 @@ date: 2015-12-12
 
 - github: [https://github.com/aphyr/distsys-class](https://github.com/aphyr/distsys-class)
 
+**Principles of Distributed Computing (lecture collection)**
+
+[http://dcg.ethz.ch/lectures/podc_allstars/](http://dcg.ethz.ch/lectures/podc_allstars/)
+
 # Papers
 
 **linalg: Matrix Computations in Apache Spark**
