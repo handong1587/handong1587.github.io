@@ -119,10 +119,12 @@ to decompose it into the multiplications of thinned dense matrices"
 
 - arxiv: [http://arxiv.org/abs/1602.04489](http://arxiv.org/abs/1602.04489)
 
-**SqueezeNet: AlexNet-level accuracy with 50x fewer parameters and <1MB model size**
+**SqueezeNet: AlexNet-level accuracy with 50x fewer parameters and <1MB model size [DeepScale & UC Berkeley]**
 
 - arxiv: [http://arxiv.org/abs/1602.07360](http://arxiv.org/abs/1602.07360)
 - github: [https://github.com/DeepScale/SqueezeNet](https://github.com/DeepScale/SqueezeNet)
+- homepage: [http://songhan.github.io/SqueezeNet-Deep-Compression/](http://songhan.github.io/SqueezeNet-Deep-Compression/)
+- github: [https://github.com/songhan/SqueezeNet-Deep-Compression](https://github.com/songhan/SqueezeNet-Deep-Compression)
 - note: [https://www.evernote.com/shard/s146/sh/108eea91-349b-48ba-b7eb-7ac8f548bee9/5171dc6b1088fba05a4e317f7f5d32a3](https://www.evernote.com/shard/s146/sh/108eea91-349b-48ba-b7eb-7ac8f548bee9/5171dc6b1088fba05a4e317f7f5d32a3)
 
 **Convolutional Neural Networks using Logarithmic Data Representation**

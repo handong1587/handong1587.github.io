@@ -62,9 +62,10 @@ date: 2015-10-09
 - reddit: [https://www.reddit.com/r/MachineLearning/comments/31rinf/150400941_a_simple_way_to_initialize_recurrent/](https://www.reddit.com/r/MachineLearning/comments/31rinf/150400941_a_simple_way_to_initialize_recurrent/)
 - reddit: [https://www.reddit.com/r/MachineLearning/comments/32tgvw/has_anyone_been_able_to_reproduce_the_results_in/](https://www.reddit.com/r/MachineLearning/comments/32tgvw/has_anyone_been_able_to_reproduce_the_results_in/)
 
-**Sequence Level Training with Recurrent Neural Networks**
+**Sequence Level Training with Recurrent Neural Networks (ICLR 2016)**
 
 - arxiv: [http://arxiv.org/abs/1511.06732](http://arxiv.org/abs/1511.06732)
+- github: [https://github.com/facebookresearch/MIXER](https://github.com/facebookresearch/MIXER)
 - notes: [https://www.evernote.com/shard/s189/sh/ada01a82-70a9-48d4-985c-20492ab91e84/8da92be19e704996dc2b929473abed46](https://www.evernote.com/shard/s189/sh/ada01a82-70a9-48d4-985c-20492ab91e84/8da92be19e704996dc2b929473abed46)
 
 **Training Recurrent Neural Networks (PhD thesis)**
@@ -330,6 +331,10 @@ date: 2015-10-09
 
 - intro: Standard LSTM, Gated Feedback LSTM, 1D-Grid LSTM
 - github: [https://github.com/cheng6076/mlm](https://github.com/cheng6076/mlm)
+
+**keras-extra: Extra Layers for Keras to connect CNN with RNN**
+
+- github: [https://github.com/anayebi/keras-extra](https://github.com/anayebi/keras-extra)
 
 # Blogs
 

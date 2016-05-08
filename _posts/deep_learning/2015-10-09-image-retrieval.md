@@ -62,6 +62,12 @@ date: 2015-10-09
 - arxiv: [http://arxiv.org/abs/1511.04164](http://arxiv.org/abs/1511.04164)
 - github: [https://github.com/ronghanghu/natural-language-object-retrieval](https://github.com/ronghanghu/natural-language-object-retrieval)
 
+**Faster R-CNN Features for Instance Search**
+
+- homepage: [http://imatge-upc.github.io/retrieval-2016-deepvision/](http://imatge-upc.github.io/retrieval-2016-deepvision/)
+- arxiv: [http://arxiv.org/abs/1604.08893](http://arxiv.org/abs/1604.08893)
+- github: [https://github.com/imatge-upc/retrieval-2016-deepvision](https://github.com/imatge-upc/retrieval-2016-deepvision)
+
 # Tutorious
 
 **Deep Image Retrieval: Learning global representations for image search**
