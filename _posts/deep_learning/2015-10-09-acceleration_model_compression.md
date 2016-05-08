@@ -90,10 +90,6 @@ to decompose it into the multiplications of thinned dense matrices"
 - arXiv: [http://arxiv.org/abs/1509.09308](http://arxiv.org/abs/1509.09308)
 - discussion: [https://github.com/soumith/convnet-benchmarks/issues/59#issuecomment-150111895](https://github.com/soumith/convnet-benchmarks/issues/59#issuecomment-150111895)
 
-**Tensorizing Neural Networks**
-
-- arXiv: [http://arxiv.org/abs/1509.06569](http://arxiv.org/abs/1509.06569)
-
 **Deep Compression: Compressing Deep Neural Networks with Pruning, Trained Quantization and Huffman Coding (ICLR 2016 Best Paper)**
 
 - intro: "reduced the size of AlexNet by 35x from 240MB to 6.9MB, the size of VGG16 by 49x from 552MB to 11.3MB, with no loss of accuracy"
