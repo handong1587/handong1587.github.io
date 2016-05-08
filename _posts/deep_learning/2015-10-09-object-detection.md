@@ -86,6 +86,13 @@ topmost feature map after knowing the confidences of the underlying object categ
 
 - arXiv: [http://arxiv.org/abs/1412.5661](http://arxiv.org/abs/1412.5661)
 
+**Object Detectors Emerge in Deep Scene CNNs**
+
+- arxiv: [http://arxiv.org/abs/1412.6856](http://arxiv.org/abs/1412.6856)
+- paper: [https://www.robots.ox.ac.uk/~vgg/rg/papers/zhou_iclr15.pdf](https://www.robots.ox.ac.uk/~vgg/rg/papers/zhou_iclr15.pdf)
+- paper: [https://people.csail.mit.edu/khosla/papers/iclr2015_zhou.pdf](https://people.csail.mit.edu/khosla/papers/iclr2015_zhou.pdf)
+- slides: [http://places.csail.mit.edu/slide_iclr2015.pdf](http://places.csail.mit.edu/slide_iclr2015.pdf)
+
 **Object Detection Networks on Convolutional Feature Maps**
 
 |method    |Trained on |mAP       |

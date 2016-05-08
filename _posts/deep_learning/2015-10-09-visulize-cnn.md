@@ -95,7 +95,7 @@ date: 2015-10-09
 
 - arxiv: [http://arxiv.org/abs/1603.02518](http://arxiv.org/abs/1603.02518)
 
-# Codes
+# Projects
 
 **Interactive Deep Neural Net Hallucinations**
 
@@ -166,3 +166,8 @@ date: 2015-10-09
 ![](/assets/vis-cnn/topological_vis_cnn.jpg)
 
 [http://terencebroad.com/convnetvis/vis.html](http://terencebroad.com/convnetvis/vis.html)
+
+**Visualization of Places-CNN and ImageNet CNN**
+
+- homepage: [http://places.csail.mit.edu/visualizationCNN.html](http://places.csail.mit.edu/visualizationCNN.html)
+- DrawCNN: [http://people.csail.mit.edu/torralba/research/drawCNN/drawNet.html](http://people.csail.mit.edu/torralba/research/drawCNN/drawNet.html)
