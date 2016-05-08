@@ -40,6 +40,18 @@ date: 2015-09-12
 - course website: [http://www.ece.northwestern.edu/~yingwu/teaching/EECS432/index.html](http://www.ece.northwestern.edu/~yingwu/teaching/EECS432/index.html)c
 - handouts: [http://www.ece.northwestern.edu/~yingwu/teaching/EECS432/EECS432_hand.html](http://www.ece.northwestern.edu/~yingwu/teaching/EECS432/EECS432_hand.html)
 
+**EECS 286 Advanced Topics in Computer Vision**
+
+- homepage: [http://faculty.ucmerced.edu/mhyang/course/eecs286/index.htm](http://faculty.ucmerced.edu/mhyang/course/eecs286/index.htm)
+- syllabus: [http://faculty.ucmerced.edu/mhyang/course/eecs286/syllabus.htm](http://faculty.ucmerced.edu/mhyang/course/eecs286/syllabus.htm)
+- lectures: [http://faculty.ucmerced.edu/mhyang/course/eecs286/lecture.htm](http://faculty.ucmerced.edu/mhyang/course/eecs286/lecture.htm)
+- lecture("How to get your CVPR paper rejected?"): [http://faculty.ucmerced.edu/mhyang/course/eecs286/lectures/introduction.pptx](http://faculty.ucmerced.edu/mhyang/course/eecs286/lectures/introduction.pptx)
+
+**CS280: Computer Vision (University of California Berkeley)**
+
+- homepage: [http://www-inst.eecs.berkeley.edu/~cs280/sp15/index.html](http://www-inst.eecs.berkeley.edu/~cs280/sp15/index.html)
+- lectures: [http://docs.huihoo.com/computer-vision/berkeley/cs280-computer-vision/](http://docs.huihoo.com/computer-vision/berkeley/cs280-computer-vision/)
+
 # Edge detection
 
 **Image-feature-detection-using-Phase-Stretch-Transform**
@@ -157,6 +169,12 @@ date: 2015-09-12
 - paper: [http://gfx.cs.princeton.edu/pubs/Barnes_2010_TGP/generalized_pm.pdf](http://gfx.cs.princeton.edu/pubs/Barnes_2010_TGP/generalized_pm.pdf)
 - code: [http://www.cs.princeton.edu/gfx/pubs/Barnes_2009_PAR/patchmatch-2.0.zip](http://www.cs.princeton.edu/gfx/pubs/Barnes_2009_PAR/patchmatch-2.0.zip)
 
+# Image inpaiting
+
+**Patch-based Texture Synthesis for Image Inpainting**
+
+- arxiv: [http://arxiv.org/abs/1605.01576](http://arxiv.org/abs/1605.01576)
+
 # SLAM
 
 **Why SLAM Matters, The Future of Real-Time SLAM, and Deep Learning vs SLAM**
@@ -225,6 +243,10 @@ date: 2015-09-12
 
 - github: [https://github.com/kylemcdonald/FaceTracker](https://github.com/kylemcdonald/FaceTracker)
 
+**Ocular: a state-of-the-art historical OCR system**
+
+- github: [https://github.com/tberg12/ocular](https://github.com/tberg12/ocular)
+
 # Resources
 
 **Awesome-deep-vision: A curated list of deep learning resources for computer vision**
@@ -277,3 +299,9 @@ date: 2015-09-12
 
 - (Part I): Convolutional Neural Networks: [https://indico.io/blog/exploring-computer-vision-convolutional-neural-nets/](https://indico.io/blog/exploring-computer-vision-convolutional-neural-nets/)
 - (Part II): Transfer Learning: [https://indico.io/blog/exploring-computer-vision-transfer-learning/](https://indico.io/blog/exploring-computer-vision-transfer-learning/)
+
+# Conferences
+
+**SIGGRAPH 2016 papers on the web**
+
+[http://kesen.realtimerendering.com/sig2016.html](http://kesen.realtimerendering.com/sig2016.html)

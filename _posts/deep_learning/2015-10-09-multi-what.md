@@ -104,3 +104,8 @@ accuracy and the detection and localization accuracy of all tasks
 **Multimodal Learning for Image Captioning and Visual Question Answering**
 
 - slides: [http://research.microsoft.com/pubs/264769/UCB_XiaodongHe.6.pdf](http://research.microsoft.com/pubs/264769/UCB_XiaodongHe.6.pdf)
+
+**Multi modal retrieval and generation with deep distributed models**
+
+- slides: [http://www.slideshare.net/roelofp/multi-modal-retrieval-and-generation-with-deep-distributed-models](http://www.slideshare.net/roelofp/multi-modal-retrieval-and-generation-with-deep-distributed-models)
+- slides: [http://pan.baidu.com/s/1kUSjn4z](http://pan.baidu.com/s/1kUSjn4z)

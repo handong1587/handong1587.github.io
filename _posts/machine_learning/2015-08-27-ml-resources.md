@@ -46,17 +46,6 @@ Other awesome lists can be found in this [list](https://github.com/sindresorhus/
 
 - blog: [http://blog.nycdatascience.com/students-work/a-comparison-of-supervised-learning-algorithm/](http://blog.nycdatascience.com/students-work/a-comparison-of-supervised-learning-algorithm/)
 
-# Competitions
-
-**Machine learning best practices we've learned from hundreds of competitions (Kaggle: Ben Hamner)**
-
-- youtube: [https://www.youtube.com/watch?v=9Zag7uhjdYo&hd=1](https://www.youtube.com/watch?v=9Zag7uhjdYo&hd=1)
-- baidu-pan: [http://pan.baidu.com/s/1pJLrICN](http://pan.baidu.com/s/1pJLrICN)
-
-**kaggle-lmgpip: Top15 Solution for Kaggle-Competition "Liberty Mutual Group: Property Inspection Prediction"**
-
-- github: [https://github.com/Far0n/kaggle-lmgpip](https://github.com/Far0n/kaggle-lmgpip)
-
 # Boosting
 
 "Quick Introduction to Boosting Algorithms in Machine Learning"

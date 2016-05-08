@@ -22,10 +22,13 @@ date: 2015-10-09
 
 # Courses
 
-**David Silver Reinforcement Learning 2015**
+**Advanced Topics: RL**
 
-- instructors: David Silver (Google DeepMind AlphaGo)
+- instructors: David Silver (Google DeepMind, AlphaGo)
+- homepage: [http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html](http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html)
+- youtube: [https://www.youtube.com/playlist?list=PL5X3mDkKaJrL42i_jhE4N-p6E2Ol62Ofa](https://www.youtube.com/playlist?list=PL5X3mDkKaJrL42i_jhE4N-p6E2Ol62Ofa)
 - video: [http://pan.baidu.com/s/1bnWGuIz/](http://pan.baidu.com/s/1bnWGuIz/)
+- assignment: [http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching_files/Easy21-Johannes.pdf](http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching_files/Easy21-Johannes.pdf)
 
 **CS 294: Deep Reinforcement Learning, Fall 2015**
 
@@ -165,6 +168,14 @@ date: 2015-10-09
 - arxiv: [http://arxiv.org/abs/1604.06778](http://arxiv.org/abs/1604.06778)
 - github: [https://github.com/rllab/rllab](https://github.com/rllab/rllab)
 - doc: [https://rllab.readthedocs.org/en/latest/](https://rllab.readthedocs.org/en/latest/)
+
+**Terrain-Adaptive Locomotion Skills Using Deep Reinforcement Learning**
+
+![](http://www.cs.ubc.ca/~van/papers/2016-TOG-deepRL/dog_teaser.png)
+
+- homepage: [http://www.cs.ubc.ca/~van/papers/2016-TOG-deepRL/index.html](http://www.cs.ubc.ca/~van/papers/2016-TOG-deepRL/index.html)
+- paper: [http://www.cs.ubc.ca/~van/papers/2016-TOG-deepRL/2016-TOG-deepRL.pdf](http://www.cs.ubc.ca/~van/papers/2016-TOG-deepRL/2016-TOG-deepRL.pdf)
+- github: [https://github.com/xbpeng/DeepTerrainRL](https://github.com/xbpeng/DeepTerrainRL)
 
 # Projects
 

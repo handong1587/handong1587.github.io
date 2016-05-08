@@ -100,3 +100,11 @@ date: 2015-10-09
 **FaceVerification: An Experimental Implementation of Face Verification, 96.8% on LFW**
 
 - github: [https://github.com/happynear/FaceVerification](https://github.com/happynear/FaceVerification)
+
+**OpenFace: an open source facial behavior analysis toolkit**
+
+![](https://raw.githubusercontent.com/TadasBaltrusaitis/OpenFace/master/imgs/multi_face_img.png)
+
+- intro: a state-of-the art open source tool intended for facial landmark detection, head pose estimation, 
+facial action unit recognition, and eye-gaze estimation.
+- github: [https://github.com/TadasBaltrusaitis/OpenFace](https://github.com/TadasBaltrusaitis/OpenFace)

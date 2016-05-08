@@ -203,7 +203,7 @@ date: 2015-10-09
 **A Critical Review of Recurrent Neural Networks for Sequence Learning**
 
 - arXiv: [http://arxiv.org/abs/1506.00019](http://arxiv.org/abs/1506.00019)
-- intro: "A rigorous & readable review on RNNs"  <br /> [http://blog.terminal.com/a-thorough-and-readable-review-on-rnns/](http://blog.terminal.com/a-thorough-and-readable-review-on-rnns/)
+- review: [http://blog.terminal.com/a-thorough-and-readable-review-on-rnns/](http://blog.terminal.com/a-thorough-and-readable-review-on-rnns/)
 
 **Scheduled Sampling for Sequence Prediction with Recurrent Neural Networks(Winner of MSCOCO image captioning challenge, 2015)**
 
@@ -234,7 +234,7 @@ date: 2015-10-09
 - arxiv: [http://arxiv.org/abs/1511.00060](http://arxiv.org/abs/1511.00060)
 - github: [https://github.com/XingxingZhang/td-treelstm](https://github.com/XingxingZhang/td-treelstm)
 
-**Alternative structures for character-level RNNs(INRIA & Facebook AI Research)**
+**Alternative structures for character-level RNNs(INRIA & Facebook AI Research. ICLR 2016)**
 
 - arXiv: [http://arxiv.org/abs/1511.06303](http://arxiv.org/abs/1511.06303)
 - github: [https://github.com/facebook/Conditional-character-based-RNN](https://github.com/facebook/Conditional-character-based-RNN)
@@ -247,6 +247,7 @@ date: 2015-10-09
 **Long Short-Term Memory-Networks for Machine Reading**
 
 - arxiv: [http://arxiv.org/abs/1601.06733](http://arxiv.org/abs/1601.06733)
+- github: [https://github.com/cheng6076/SNLI-attention](https://github.com/cheng6076/SNLI-attention)
 
 **Lipreading with Long Short-Term Memory**
 
@@ -320,6 +321,15 @@ date: 2015-10-09
 
 - intro: C2W model, LSTM-based Language Model, LSTM-based Part-Of-Speech-Tagger Model
 - github: [https://github.com/wlin12/JNN](https://github.com/wlin12/JNN)
+
+**LSTM-Autoencoder: Seq2Seq LSTM Autoencoder**
+
+- github: [https://github.com/cheng6076/LSTM-Autoencoder](https://github.com/cheng6076/LSTM-Autoencoder)
+
+**RNN Language Model Variations**
+
+- intro: Standard LSTM, Gated Feedback LSTM, 1D-Grid LSTM
+- github: [https://github.com/cheng6076/mlm](https://github.com/cheng6076/mlm)
 
 # Blogs
 
