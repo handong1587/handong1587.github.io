@@ -109,11 +109,7 @@ date: 2015-10-09
 **Tensorizing Neural Networks (TensorNet)**
 
 - paper: [http://arxiv.org/abs/1509.06569v1](http://arxiv.org/abs/1509.06569v1)
-<<<<<<< HEAD
-- github(TensorNet.MATLAB+Theano+Lasagne): [https://github.com/Bihaqo/TensorNet](https://github.com/Bihaqo/TensorNet)
-=======
 - github(Matlab+Theano+Lasagne): [https://github.com/Bihaqo/TensorNet](https://github.com/Bihaqo/TensorNet)
->>>>>>> bc24795d3c3c939e2cac0af5885206428dcddedf
 - github(TensorFlow): [https://github.com/timgaripov/TensorNet-TF](https://github.com/timgaripov/TensorNet-TF)
 
 **On the Expressive Power of Deep Learning: A Tensor Analysis**
