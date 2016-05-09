@@ -201,14 +201,18 @@ date: 2015-10-09
 
 **Marvin: A minimalist GPU-only N-dimensional ConvNet framework**
 
-- website: [http://marvin.is/](http://marvin.is/)
+- homepage: [http://marvin.is/](http://marvin.is/)
 - github: [https://github.com/PrincetonVision/marvin](https://github.com/PrincetonVision/marvin)
+
+**MatConvNet: CNNs for MATLAB**
+
+- homepage: [http://www.vlfeat.org/matconvnet/](http://www.vlfeat.org/matconvnet/)
 
 # Mocha.jl
 
 **Mocha.jl: Deep Learning for Julia**
 
-- website: [http://devblogs.nvidia.com/parallelforall/mocha-jl-deep-learning-julia/](http://devblogs.nvidia.com/parallelforall/mocha-jl-deep-learning-julia/)
+- homepage: [http://devblogs.nvidia.com/parallelforall/mocha-jl-deep-learning-julia/](http://devblogs.nvidia.com/parallelforall/mocha-jl-deep-learning-julia/)
 - github: [https://github.com/pluskid/Mocha.jl](https://github.com/pluskid/Mocha.jl)
 
 # MXNet

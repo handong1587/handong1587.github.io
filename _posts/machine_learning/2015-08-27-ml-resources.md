@@ -442,6 +442,11 @@ simplify the construction of large scale, end-to-end, machine learning pipelines
 - homepage: [http://yomguithereal.github.io/talisman/](http://yomguithereal.github.io/talisman/)
 - github: [https://github.com/Yomguithereal/talisman](https://github.com/Yomguithereal/talisman)
 
+**PRMLT: Pattern Recognition and Machine Learning Toolbox**
+
+- homepage: [http://prml.github.io/](http://prml.github.io/)
+- github: [https://github.com/PRML/PRMLT](https://github.com/PRML/PRMLT)
+
 # Readings and Questions
 
 **(Quora): What are the top 10 data mining or machine learning algorithms?**

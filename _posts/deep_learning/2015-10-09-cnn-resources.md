@@ -59,6 +59,13 @@ date: 2015-10-09
 - blog: [http://engineering.curalate.com/2016/01/20/emojinet.html](http://engineering.curalate.com/2016/01/20/emojinet.html)
 - website: [https://emojini.curalate.com/](https://emojini.curalate.com/)
 
+**Object Skeleton Extraction in Natural Images by Fusing Scale-associated Deep Side Outputs**
+
+![](https://camo.githubusercontent.com/88a65f132aa4ae4b0477e3ad02c13cdc498377d9/687474703a2f2f37786e37777a2e636f6d312e7a302e676c622e636c6f7564646e2e636f6d2f44656570536b656c65746f6e2e706e673f696d61676556696577322f322f772f353030)
+
+- arxiv: [http://arxiv.org/abs/1603.09446](http://arxiv.org/abs/1603.09446)
+- github: [https://github.com/zeakey/DeepSkeleton](https://github.com/zeakey/DeepSkeleton)
+
 # What to detect?
 
 ## Boundary Detection

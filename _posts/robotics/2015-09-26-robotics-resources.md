@@ -32,6 +32,16 @@ date: 2015-09-26
 
 - paper: [http://arxiv.org/abs/1412.0691](http://arxiv.org/abs/1412.0691)
 
+**A Survey of Robotic Musicianship**
+
+![](http://deliveryimages.acm.org/10.1145/2820000/2818994/ins02.gif)
+![](http://deliveryimages.acm.org/10.1145/2820000/2818994/ins03.gif)
+![](http://deliveryimages.acm.org/10.1145/2820000/2818994/ins04.gif)
+![](http://deliveryimages.acm.org/10.1145/2820000/2818994/ins05.gif)
+
+- paper: [http://cacm.acm.org/magazines/2016/5/201594-a-survey-of-robotic-musicianship/fulltext](http://cacm.acm.org/magazines/2016/5/201594-a-survey-of-robotic-musicianship/fulltext)
+- pdf: [http://delivery.acm.org/10.1145/2820000/2818994/p100-bretan.pdf?ip=106.2.163.178&id=2818994&acc=OPEN&key=FA9C0C5108D19366%2EFA9C0C5108D19366%2E4D4702B0C3E38B35%2E6D218144511F3437&CFID=782936619&CFTOKEN=45889912&__acm__=1462790600_3fbc87eef6f7d60e7e061c117d80b1ca](http://delivery.acm.org/10.1145/2820000/2818994/p100-bretan.pdf?ip=106.2.163.178&id=2818994&acc=OPEN&key=FA9C0C5108D19366%2EFA9C0C5108D19366%2E4D4702B0C3E38B35%2E6D218144511F3437&CFID=782936619&CFTOKEN=45889912&__acm__=1462790600_3fbc87eef6f7d60e7e061c117d80b1ca)
+
 # Hardware
 
 **Deep Learning Robot**

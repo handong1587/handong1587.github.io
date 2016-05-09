@@ -26,3 +26,9 @@ date: 2015-10-09
 **Top Data Scientists to Follow & Best Data Science Tutorials on GitHub**
 
 [http://www.analyticsvidhya.com/blog/2015/07/github-special-data-scientists-to-follow-best-tutorials/](http://www.analyticsvidhya.com/blog/2015/07/github-special-data-scientists-to-follow-best-tutorials/)
+
+# Resources
+
+**Awesome Data Engineering: A curated list of data engineering tools for software developers**
+
+- github: [https://github.com/igorbarinov/awesome-data-engineering](https://github.com/igorbarinov/awesome-data-engineering)

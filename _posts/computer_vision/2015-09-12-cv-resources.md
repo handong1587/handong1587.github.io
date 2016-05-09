@@ -33,6 +33,8 @@ date: 2015-09-12
 
 **MIT CSAIL: 6.819/6.869: Advances in Computer Vision (Fall 2015)**
 
+![](http://6.869.csail.mit.edu/fa15/images/teaser.jpg)
+
 - homepage: [http://6.869.csail.mit.edu/fa15/index.html](http://6.869.csail.mit.edu/fa15/index.html)
 
 **EECS 432 Advanced Computer Vision**
@@ -204,6 +206,14 @@ date: 2015-09-12
 ![](http://www.wisdom.weizmann.ac.il/~dannyh/Mircs/cover.jpg)
 
 - homepage: [http://www.wisdom.weizmann.ac.il/~dannyh/Mircs/mircs.html](http://www.wisdom.weizmann.ac.il/~dannyh/Mircs/mircs.html)
+- paper: [https://s3-us-west-1.amazonaws.com/disneyresearch/wp-content/uploads/20150929153916/Live-Texturing-of-Augmented-Reality-Characters-from-Colored-Drawings-Paper.pdf](https://s3-us-west-1.amazonaws.com/disneyresearch/wp-content/uploads/20150929153916/Live-Texturing-of-Augmented-Reality-Characters-from-Colored-Drawings-Paper.pdf)
+
+**Live Texturing of Augmented Reality Characters from Colored Drawings**
+
+![](https://www.disneyresearch.com/wp-content/uploads/Live-Texturing-of-Augmented-Reality-Characters-from-Colored-Drawings-Image-1024x576.png)
+
+- homepage: [https://www.disneyresearch.com/publication/live-texturing-of-augmented-reality-characters/](https://www.disneyresearch.com/publication/live-texturing-of-augmented-reality-characters/)
+
 
 # Applications
 

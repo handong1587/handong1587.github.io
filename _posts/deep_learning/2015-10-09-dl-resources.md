@@ -162,6 +162,11 @@ date: 2015-10-09
 
 - arxiv: [http://arxiv.org/abs/1506.02351](http://arxiv.org/abs/1506.02351)
 
+**Rank Ordered Autoencoders**
+
+- arxiv: [http://arxiv.org/abs/1605.01749](http://arxiv.org/abs/1605.01749)
+- github: [https://github.com/paulbertens/rank-ordered-autoencoder](https://github.com/paulbertens/rank-ordered-autoencoder)
+
 # Semi-Supervised Learning
 
 **Semi-Supervised Learning with Graphs (Label Propagation)**
@@ -179,6 +184,12 @@ date: 2015-10-09
 
 - paper: [http://arxiv.org/abs/1412.6056](http://arxiv.org/abs/1412.6056)
 - code: [https://github.com/jhjin/flattened-cnn](https://github.com/jhjin/flattened-cnn)
+
+**Unsupervised Visual Representation Learning by Context Prediction (ICCV 2015)**
+
+- homepage: [http://graphics.cs.cmu.edu/projects/deepContext/](http://graphics.cs.cmu.edu/projects/deepContext/)
+- arxiv: [http://arxiv.org/abs/1505.05192](http://arxiv.org/abs/1505.05192)
+- github: [https://github.com/cdoersch/deepcontext](https://github.com/cdoersch/deepcontext)
 
 **Unsupervised Learning on Neural Network Outputs**
 

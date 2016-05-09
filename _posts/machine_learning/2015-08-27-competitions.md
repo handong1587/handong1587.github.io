@@ -5,6 +5,10 @@ title: Competitions
 date: 2015-08-27
 ---
 
+**10 Steps to Success in Kaggle Data Science Competitions**
+
+[http://www.kdnuggets.com/2015/03/10-steps-success-kaggle-data-science-competitions.html](http://www.kdnuggets.com/2015/03/10-steps-success-kaggle-data-science-competitions.html)
+
 **Classifying plankton with deep neural networks**
 
 - blog: [http://benanne.github.io/2015/03/17/plankton.html](http://benanne.github.io/2015/03/17/plankton.html)
@@ -45,6 +49,7 @@ date: 2015-08-27
 - part3: [http://brettromero.com/wordpress/data-science-kaggle-walkthrough-cleaning-data/](http://brettromero.com/wordpress/data-science-kaggle-walkthrough-cleaning-data/)
 - part4: [http://brettromero.com/wordpress/data-science-kaggle-walkthrough-data-transformation-feature-extraction/](http://brettromero.com/wordpress/data-science-kaggle-walkthrough-data-transformation-feature-extraction/)
 - part5: [http://brettromero.com/wordpress/data-science-kaggle-walkthrough-adding-new-data/](http://brettromero.com/wordpress/data-science-kaggle-walkthrough-adding-new-data/)
+- part6: [http://brettromero.com/wordpress/data-science-kaggle-walkthrough-creating-model/](http://brettromero.com/wordpress/data-science-kaggle-walkthrough-creating-model/) 
 
 **My Standard Work for every new competition**
 
