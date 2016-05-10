@@ -210,10 +210,11 @@ date: 2015-10-09
 
 - arXiv: [http://arxiv.org/abs/1506.03099](http://arxiv.org/abs/1506.03099)
 
-**Visualizing and Understanding Recurrent Networks(Andrej Karpathy, Justin Johnson, Fei-Fei Li)**
+**Visualizing and Understanding Recurrent Networks (ICLR 2016. Andrej Karpathy, Justin Johnson, Fei-Fei Li)**
 
 - paper: [http://arxiv.org/abs/1506.02078](http://arxiv.org/abs/1506.02078)
 - slides: [http://www.robots.ox.ac.uk/~seminars/seminars/Extra/2015_07_06_AndrejKarpathy.pdf](http://www.robots.ox.ac.uk/~seminars/seminars/Extra/2015_07_06_AndrejKarpathy.pdf)
+- github: [https://github.com/karpathy/char-rnn](https://github.com/karpathy/char-rnn)
 
 **Grid Long Short-Term Memory**
 

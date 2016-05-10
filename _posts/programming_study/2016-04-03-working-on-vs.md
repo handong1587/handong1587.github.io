@@ -5,6 +5,14 @@ title: Working on Visual Studio
 date: 2016-04-03
 ---
 
+**Debug C++ code on Linux from Visual Studio**
+
+[https://blogs.msdn.microsoft.com/vcblog/2015/04/29/debug-c-code-on-linux-from-visual-studio/](https://blogs.msdn.microsoft.com/vcblog/2015/04/29/debug-c-code-on-linux-from-visual-studio/)
+
+**Announcing the VS GDB Debugger extension**
+
+[https://blogs.msdn.microsoft.com/vcblog/2015/11/18/announcing-the-vs-gdb-debugger-extension/](https://blogs.msdn.microsoft.com/vcblog/2015/11/18/announcing-the-vs-gdb-debugger-extension/)
+
 **Visual C++ for Linux Development**
 
 ![](https://msdnshared.blob.core.windows.net/media/2016/03/Projects.png)

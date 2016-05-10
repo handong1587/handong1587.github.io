@@ -27,6 +27,11 @@ date: 2015-10-09
 - github: [https://github.com/soumith/dcgan.torch](https://github.com/soumith/dcgan.torch)
 - github: [https://github.com/carpedm20/DCGAN-tensorflow](https://github.com/carpedm20/DCGAN-tensorflow)
 
+**Discriminative Regularization for Generative Models**
+
+- arxiv: [http://arxiv.org/abs/1602.03220](http://arxiv.org/abs/1602.03220)
+- github: [https://github.com/vdumoulin/discgen](https://github.com/vdumoulin/discgen)
+
 **Auxiliary Deep Generative Models**
 
 - arxiv: [http://arxiv.org/abs/1602.05473](http://arxiv.org/abs/1602.05473)
