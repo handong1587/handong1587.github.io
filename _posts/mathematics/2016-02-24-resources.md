@@ -16,3 +16,7 @@ date: 2016-02-24
 **MathBox: Tools for Thought: Graphical Algebra and Fourier Analysis**
 
 [https://acko.net/files/gltalks/toolsforthought/#0](https://acko.net/files/gltalks/toolsforthought/#0)
+
+**The Matrix Cookbook**
+
+[https://www.math.uwaterloo.ca/~hwolkowi/matrixcookbook.pdf](https://www.math.uwaterloo.ca/~hwolkowi/matrixcookbook.pdf)

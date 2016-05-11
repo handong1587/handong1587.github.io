@@ -7,6 +7,14 @@ date: 2015-10-09
 
 # Papers
 
+**Struck: Structured Output Tracking with Kernels**
+
+- paper: [http://mftp.mmcheng.net/Papers/StruckPAMI.pdf](http://mftp.mmcheng.net/Papers/StruckPAMI.pdf)
+- paper: [http://www.robots.ox.ac.uk/~tvg/publications/2015/struck-author.pdf](http://www.robots.ox.ac.uk/~tvg/publications/2015/struck-author.pdf)
+- paper: [http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=7360205](http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=7360205)
+- slides: [http://vision.stanford.edu/teaching/cs231b_spring1415/slides/struck_meng.pdf](http://vision.stanford.edu/teaching/cs231b_spring1415/slides/struck_meng.pdf)
+- github: [https://github.com/gnebehay/STRUCK](https://github.com/gnebehay/STRUCK)
+
 **Learning to Track: Online Multi-Object Tracking by Decision Making (ICCV 2015)**
 
 ![](http://cvgl.stanford.edu/projects/MDP_tracking/MDP.png)
@@ -43,3 +51,8 @@ date: 2015-10-09
 
 - demo: [https://kdzwinel.github.io/JS-face-tracking-demo/](https://kdzwinel.github.io/JS-face-tracking-demo/)
 - github: [https://github.com/kdzwinel/JS-face-tracking-demo](https://github.com/kdzwinel/JS-face-tracking-demo)
+
+**VOTR: Visual Object Tracking Repository**
+
+- intro: This repository aims at collecting state-of-the-art tracking algorithms that are freely available.
+- github: [https://github.com/gnebehay/VOTR](https://github.com/gnebehay/VOTR)

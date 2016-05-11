@@ -46,6 +46,10 @@ date: 2015-10-09
 
 - arxiv: [http://arxiv.org/abs/1603.00391](http://arxiv.org/abs/1603.00391)
 
+**Multi-Bias Non-linear Activation in Deep Neural Networks (MBA)**
+
+- arxiv: [https://arxiv.org/abs/1604.00676](https://arxiv.org/abs/1604.00676)
+
 # Weights Initialization
 
 **An Explanation of Xavier Initialization**

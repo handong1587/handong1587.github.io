@@ -303,6 +303,10 @@ MSCOCO 2015 test:
 
 - arxiv: [http://arxiv.org/abs/1604.05766](http://arxiv.org/abs/1604.05766)
 
+**Exploit All the Layers: Fast and Accurate CNN Object Detector with Scale Dependent Pooling and Cascaded Rejection Classifiers**
+
+[http://www-personal.umich.edu/~wgchoi/SDP-CRC_camready.pdf](http://www-personal.umich.edu/~wgchoi/SDP-CRC_camready.pdf)
+
 # Specific Object Deteciton
 
 **End-to-end people detection in crowded scenes**
@@ -312,6 +316,10 @@ MSCOCO 2015 test:
 - arXiv: [http://arxiv.org/abs/1506.04878](http://arxiv.org/abs/1506.04878)
 - code: [https://github.com/Russell91/reinspect](https://github.com/Russell91/reinspect)
 - ipn: [http://nbviewer.ipython.org/github/Russell91/ReInspect/blob/master/evaluation_reinspect.ipynb](http://nbviewer.ipython.org/github/Russell91/ReInspect/blob/master/evaluation_reinspect.ipynb)
+
+**Deep Deformation Network for Object Landmark Localization**
+
+- arxiv: [http://arxiv.org/abs/1605.01014](http://arxiv.org/abs/1605.01014)
 
 # Tutorials
 

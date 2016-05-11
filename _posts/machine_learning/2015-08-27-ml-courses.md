@@ -128,3 +128,7 @@ date: 2015-08-27
 ![](http://www.cs.berkeley.edu/~jrs/189/qdaaniso3d.png)
 
 - homepage: [http://www.cs.berkeley.edu/~jrs/189/](http://www.cs.berkeley.edu/~jrs/189/)
+
+**An Introduction to Statistical Machine Learning Spring 2014 (for ACM Class)**
+
+[http://bcmi.sjtu.edu.cn/log/courses/ml_2014_spring_acm.html](http://bcmi.sjtu.edu.cn/log/courses/ml_2014_spring_acm.html)

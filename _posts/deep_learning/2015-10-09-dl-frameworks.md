@@ -197,6 +197,15 @@ date: 2015-10-09
 - homepage: [http://autumnai.com/leaf/book/leaf.html](http://autumnai.com/leaf/book/leaf.html)
 - homepage("The Hacker's Machine Intelligence Platform"): [http://autumnai.com/](http://autumnai.com/)
 
+# LightNet
+
+![](https://raw.githubusercontent.com/yechengxi/LightNet/master/LightNet.png)
+
+**LightNet: A Versatile, Standalone and Matlab-based Environment for Deep Learning**
+
+- homepage: [http://www.umiacs.umd.edu/~yzyang/LightNet/](http://www.umiacs.umd.edu/~yzyang/LightNet/)
+- github: [https://github.com/yechengxi/lightnet](https://github.com/yechengxi/lightnet)
+
 # Marvin
 
 **Marvin: A minimalist GPU-only N-dimensional ConvNet framework**
