@@ -5,7 +5,7 @@ title: Visual Tracking
 date: 2015-10-09
 ---
 
-**Learning A Deep Compact Image Representation for Visual Tracking (NIPS2013')**
+**Learning A Deep Compact Image Representation for Visual Tracking (NIPS 2013)**
 
 - project page: [http://winsty.net/dlt.html](http://winsty.net/dlt.html)
 
@@ -13,7 +13,7 @@ date: 2015-10-09
 
 paper: [http://120.52.73.14/www.cv-foundation.org/openaccess/content_cvpr_2014/papers/Karpathy_Large-scale_Video_Classification_2014_CVPR_paper.pdf](http://120.52.73.14/www.cv-foundation.org/openaccess/content_cvpr_2014/papers/Karpathy_Large-scale_Video_Classification_2014_CVPR_paper.pdf)
 
-**Hierarchical Convolutional Features for Visual Tracking(ICCV 2015)**
+**Hierarchical Convolutional Features for Visual Tracking (ICCV 2015)**
 
 <img src="/assets/visual-tracking/Hierarchical_Convolutional_Features_for_Visual_Tracking_teaser.jpg"/>
 

@@ -237,6 +237,24 @@ and 1.15s per image with it".
 - slides: [http://www.seanbell.ca/tmp/ion-coco-talk-bell2015.pdf](http://www.seanbell.ca/tmp/ion-coco-talk-bell2015.pdf)
 - coco-leaderboard: [http://mscoco.org/dataset/#detections-leaderboard](http://mscoco.org/dataset/#detections-leaderboard)
 
+**Adaptive Object Detection Using Adjacency and Zoom Prediction (CVPR 2016)**
+
+VOC 2007 test:
+
+| Method  | Train | mAP  |
+|:-------:|:-----:|:----:|
+| AZ-Net  | 79.0  | 70.2 |
+| AZ-Net* | 78.4  | 70.4 |
+
+MSCOCO 2015 test:
+
+|     Method     |  AP  | AP IoU=0.50 |
+|:--------------:|:----:|:-----------:|
+| AZ-Net(VGG-16) | 22.3 |    41.0     |
+
+- arxiv: [http://arxiv.org/abs/1512.07711](http://arxiv.org/abs/1512.07711)
+- github: [https://github.com/luyongxi/az-net](https://github.com/luyongxi/az-net)
+
 ## G-CNN
 
 **G-CNN: an Iterative Grid Based Object Detector**
