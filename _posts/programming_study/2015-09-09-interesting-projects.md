@@ -45,8 +45,8 @@ date: 2015-09-09
 
 <img src="/assets/programming_study/2048.png" width="800"/>
 
-- demo: [http://ov3y.github.io/2048-AI/](http://ov3y.github.io/2048-AI/)
-- github: [https://github.com/ov3y/2048-AI/](https://github.com/ov3y/2048-AI/)
+- demo: [http://ovolve.github.io/2048-AI/](http://ovolve.github.io/2048-AI/)
+- github: [https://github.com/ovolve/2048-AI](https://github.com/ovolve/2048-AI)
 - stackoverflow: [http://stackoverflow.com/questions/22342854/what-is-the-optimal-algorithm-for-the-game-2048](http://stackoverflow.com/questions/22342854/what-is-the-optimal-algorithm-for-the-game-2048)
 - zh-blog: [http://blogread.cn/it/article/6827?f=wb](http://blogread.cn/it/article/6827?f=wb)
 
@@ -83,19 +83,19 @@ control a spaceship in order to complete some objective.
 
 **Enhancements for The official editor for Code in the Dark**
 
-<img src="/assets/programming_study/codeinthedark_editor_enhancement.gif" />
+![](https://cloud.githubusercontent.com/assets/688415/11440971/aadfae8e-9507-11e5-8aa0-0ecc87ca84b6.gif)
 
 - github: [https://github.com/codeinthedark/editor/pull/1)
 
 **activate-power-mode atom package**
 
-<img src="/assets/programming_study/activate_power_mode_atom_package.gif" />
+![](https://i.github-camo.com/b1d03b9b7a9d7dc9a32d1eab307b5378f8c59a7b/68747470733a2f2f636c6f75642e67697468756275736572636f6e74656e742e636f6d2f6173736574732f3638383431352f31313631353536352f31306631363435362d396336352d313165352d386166342d3236356630316663383361302e676966)
 
 - package: [https://atom.io/packages/activate-power-mode](https://atom.io/packages/activate-power-mode)
 
 **ActivatePowerMode: plugin for Xcode**
 
-![](/assets/programming_study/ActivatePowerMode_xcode.gif)
+![](https://raw.githubusercontent.com/poboke/ActivatePowerMode/master/Screenshots/about.gif)
 
 - github: [https://github.com/poboke/ActivatePowerMode](https://github.com/poboke/ActivatePowerMode)
 
@@ -139,11 +139,17 @@ control a spaceship in order to complete some objective.
 
 [https://hackage.haskell.org/package/hastily](https://hackage.haskell.org/package/hastily)
 
+**nba-cli: Get NBA Data From The Command Line**
+
+![](https://camo.githubusercontent.com/782c2fcbc5de96d54ac8a2a866503c96f16a0d80/68747470733a2f2f692e696d6775722e636f6d2f364f43595239532e706e67)
+
+- github: [https://github.com/jaebradley/nba-cli](https://github.com/jaebradley/nba-cli)
+
 # Multi-media
 
 **cmus — C* Music Player**
 
-<img src="/assets/programming_study/cmus-2.4.3-osx.png"/>
+![](https://cmus.github.io/cmus-2.4.3-osx.png)
 
 - website: [https://cmus.github.io/]
 - github: [https://github.com/cmus/cmus](https://github.com/cmus/cmus)
@@ -162,7 +168,7 @@ control a spaceship in order to complete some objective.
 
 **RF-Capture: Capturing the Human Figure Through a Wall**
 
-<img src="/assets/programming_study/RF-Capture-intro-figures.jpg" width="1000"/>
+![](http://rfcapture.csail.mit.edu/images/intro-figures.jpg)
 
 - project: [http://rfcapture.csail.mit.edu/](http://rfcapture.csail.mit.edu/)
 - paper: [http://rfcapture.csail.mit.edu/rfcapture-paper.pdf](http://rfcapture.csail.mit.edu/rfcapture-paper.pdf)
