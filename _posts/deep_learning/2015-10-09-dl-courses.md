@@ -73,6 +73,12 @@ date: 2015-07-01
 
 - homepage: [http://www.cs.toronto.edu/~rgrosse/csc321/calendar.html](http://www.cs.toronto.edu/~rgrosse/csc321/calendar.html)
 
+**ELEG 5040: Advanced Topics in Signal Processing (Introduction to Deep Learning)**
+
+- instructors: Xiaogang Wang. The Chinese University of Hong Kong - Spring 2015
+- intro: Homework, Homework Solutions, Lecture Notes, General Resources, Tutorial Notes, CUDA/GPU programming tutorial
+- homepage: [https://piazza.com/cuhk.edu.hk/spring2015/eleg5040/resources](https://piazza.com/cuhk.edu.hk/spring2015/eleg5040/resources)
+
 # Computer Vision
 
 **Stanford CS231n: Convolutional Neural Networks for Visual Recognition**

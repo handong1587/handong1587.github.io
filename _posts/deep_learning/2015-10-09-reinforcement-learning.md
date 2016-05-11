@@ -177,6 +177,15 @@ date: 2015-10-09
 - paper: [http://www.cs.ubc.ca/~van/papers/2016-TOG-deepRL/2016-TOG-deepRL.pdf](http://www.cs.ubc.ca/~van/papers/2016-TOG-deepRL/2016-TOG-deepRL.pdf)
 - github: [https://github.com/xbpeng/DeepTerrainRL](https://github.com/xbpeng/DeepTerrainRL)
 
+**ViZDoom: A Doom-based AI Research Platform for Visual Reinforcement Learning**
+
+![](http://vizdoom.cs.put.edu.pl/user/pages/01.home/depthbuffer.png)
+
+- arxiv: [http://arxiv.org/abs/1605.02097](http://arxiv.org/abs/1605.02097)
+- github: [https://github.com/Marqt/ViZDoom](https://github.com/Marqt/ViZDoom)
+- homepage: [http://vizdoom.cs.put.edu.pl/](http://vizdoom.cs.put.edu.pl/)
+- tutorial: [http://vizdoom.cs.put.edu.pl/tutorial](http://vizdoom.cs.put.edu.pl/tutorial)
+
 # Projects
 
 **Using Deep Q-Network to Learn How To Play Flappy Bird**
@@ -242,6 +251,11 @@ Its simple, and is ideal for rapid prototyping."
 
 - homepage: [https://gym.openai.com/](https://gym.openai.com/)
 - github: [https://github.com/openai/gym](https://github.com/openai/gym)
+
+**DeeR: DEEp Reinforcement learning framework**
+
+- github: [https://github.com/VinF/deer/](https://github.com/VinF/deer/)
+- docs: [http://deer.readthedocs.io/en/latest/](http://deer.readthedocs.io/en/latest/)
 
 # Blogs
 

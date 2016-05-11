@@ -122,3 +122,9 @@ date: 2015-08-27
 - homepage: [http://www.stat.cmu.edu/~larry/=sml/](http://www.stat.cmu.edu/~larry/=sml/)
 - youtube: [https://www.youtube.com/playlist?list=PLTB9VQq8WiaCBK2XrtYn5t9uuPdsNm7YE](https://www.youtube.com/playlist?list=PLTB9VQq8WiaCBK2XrtYn5t9uuPdsNm7YE)
 - videos: [http://pan.baidu.com/s/1eSuJ1Nc](http://pan.baidu.com/s/1eSuJ1Nc)
+
+**CS 189/289A: Introduction to Machine Learning(with videos)**
+
+![](http://www.cs.berkeley.edu/~jrs/189/qdaaniso3d.png)
+
+- homepage: [http://www.cs.berkeley.edu/~jrs/189/](http://www.cs.berkeley.edu/~jrs/189/)

@@ -275,6 +275,10 @@ Bicubic VS. Shepard CNN
 - github: [https://github.com/anewell/pose-hg-train](https://github.com/anewell/pose-hg-train)
 - demo: [https://github.com/anewell/pose-hg-demo](https://github.com/anewell/pose-hg-demo)
 
+**Chained Predictions Using Convolutional Neural Networks**
+
+- arxiv: [http://arxiv.org/abs/1605.02346](http://arxiv.org/abs/1605.02346)
+
 ## Image Colorization
 
 **Deep Colorization**
