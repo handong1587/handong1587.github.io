@@ -210,6 +210,11 @@ bounding boxes (which are shared for these categories).
 
 ![](https://camo.githubusercontent.com/ad9b147ed3a5f48ffb7c3540711c15aa04ce49c6/687474703a2f2f7777772e63732e756e632e6564752f7e776c69752f7061706572732f7373642e706e67)
 
+|    System      | VOC2007 test *mAP* | **FPS** (Titan X) | Number of Boxes |
+|:---------------|:------------------:|:-----------------:|:---------------:|
+| SSD300 (VGG16) |      72.1          |       58          |    7308         |
+| SSD500 (VGG16) |    **75.1**        |       23          |    20097        |
+
 - arXiv: [http://arxiv.org/abs/1512.02325](http://arxiv.org/abs/1512.02325)
 - paper: [http://www.cs.unc.edu/~wliu/papers/ssd.pdf](http://www.cs.unc.edu/~wliu/papers/ssd.pdf)
 - github: [https://github.com/weiliu89/caffe/tree/ssd](https://github.com/weiliu89/caffe/tree/ssd)
