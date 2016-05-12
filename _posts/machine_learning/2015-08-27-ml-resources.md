@@ -172,6 +172,12 @@ Other awesome lists can be found in this [list](https://github.com/sindresorhus/
 
 - blog: [http://www.gaussianprocess.org/](http://www.gaussianprocess.org/)
 
+**Chained Gaussian Processes**
+
+- jmlr: [http://jmlr.org/proceedings/papers/v51/saul16.html](http://jmlr.org/proceedings/papers/v51/saul16.html)
+- arxiv: [http://arxiv.org/abs/1604.05263](http://arxiv.org/abs/1604.05263)
+- github: [https://github.com/SheffieldML/ChainedGP](https://github.com/SheffieldML/ChainedGP)
+
 # Multilabel Learning
 
 **Neural Network Models for Multilabel Learning**
@@ -446,6 +452,13 @@ simplify the construction of large scale, end-to-end, machine learning pipelines
 
 - homepage: [http://prml.github.io/](http://prml.github.io/)
 - github: [https://github.com/PRML/PRMLT](https://github.com/PRML/PRMLT)
+
+**The Fido Project: An open source C++ machine learning library targeted towards embedded electronics and robotics**
+
+![](https://fidoproject.github.io/img/simulator.gif)
+
+- homepage: [https://fidoproject.github.io/](https://fidoproject.github.io/)
+- github: [https://github.com/FidoProject/Fido](https://github.com/FidoProject/Fido)
 
 # Readings and Questions
 

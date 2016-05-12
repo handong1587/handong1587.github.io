@@ -56,6 +56,10 @@ date: 2015-08-27
 
 - arxiv: [http://arxiv.org/abs/1603.07879](http://arxiv.org/abs/1603.07879)
 
+**An efficient K-means algorithm for Massive Data**
+
+- arxiv: [http://arxiv.org/abs/1605.02989](http://arxiv.org/abs/1605.02989)
+
 # Books
 
 **Introduction to Clustering and Unsupervised Learning | PACKT Books**

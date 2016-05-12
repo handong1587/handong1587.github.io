@@ -121,3 +121,8 @@ date: 2015-10-09
 **BI Lab Deep Learning Tutorial**
 
 - github: [https://github.com/bi-lab/deeplearning_tutorial](https://github.com/bi-lab/deeplearning_tutorial)
+
+**Hacking MNIST in 30 lines of Python**
+
+- blog: [http://jrusev.github.io/post/hacking-mnist/](http://jrusev.github.io/post/hacking-mnist/)
+- github: [https://github.com/jrusev/simple-neural-networks](https://github.com/jrusev/simple-neural-networks)

@@ -144,6 +144,12 @@ with the style of another image using convolutional neural networks
 
 - ipn: [http://nbviewer.jupyter.org/github/tensorflow/tensorflow/blob/master/tensorflow/examples/tutorials/deepdream/deepdream.ipynb](http://nbviewer.jupyter.org/github/tensorflow/tensorflow/blob/master/tensorflow/examples/tutorials/deepdream/deepdream.ipynb)
 
+**Feed-forward neural doodle**
+
+![](https://raw.githubusercontent.com/DmitryUlyanov/online-neural-doodle/master/data/starry/grid.png)
+
+- github: [https://github.com/DmitryUlyanov/online-neural-doodle](https://github.com/DmitryUlyanov/online-neural-doodle)
+
 # Music
 
 **GRUV: Algorithmic Music Generation using Recurrent Neural Networks**

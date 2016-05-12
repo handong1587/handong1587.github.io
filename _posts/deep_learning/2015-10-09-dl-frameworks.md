@@ -8,6 +8,14 @@ date: 2015-10-09
 * TOC
 {:toc}
 
+# Amazon DSSTNE
+
+**Amazon DSSTNE: Deep Scalable Sparse Tensor Network Engine**
+
+- intro: Deep Scalable Sparse Tensor Network Engine (DSSTNE) is an Amazon developed library 
+for building Deep Learning (DL) machine learning (ML) models
+- github: [https://github.com/amznlabs/amazon-dsstne](https://github.com/amznlabs/amazon-dsstne)
+
 # Apache SINGA
 
 - project-website: [http://singa.incubator.apache.org/](http://singa.incubator.apache.org/)

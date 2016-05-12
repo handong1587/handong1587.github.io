@@ -61,9 +61,10 @@ using the stochastic gradient descent (SGD) algorithm to obtain fine pixel-level
 - github: [https://github.com/torrvision/crfasrnn](https://github.com/torrvision/crfasrnn)
 - demo: [http://www.robots.ox.ac.uk/~szheng/crfasrnndemo](http://www.robots.ox.ac.uk/~szheng/crfasrnndemo)
 
-**Learning to Segment Object Candidates**
+**Learning to Segment Object Candidates (DeepMask)**
 
 - arxiv: [http://arxiv.org/abs/1506.06204](http://arxiv.org/abs/1506.06204)
+- github: [https://github.com/abbypa/NNProject_DeepMask](https://github.com/abbypa/NNProject_DeepMask)
 
 **Proposal-free Network for Instance-level Object Segmentation**
 
