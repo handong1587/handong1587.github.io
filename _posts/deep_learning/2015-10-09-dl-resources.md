@@ -121,6 +121,13 @@ date: 2015-10-09
 - arxiv: [http://arxiv.org/abs/1511.06067](http://arxiv.org/abs/1511.06067)
 - github: [https://github.com/chengtaipu/lowrankcnn](https://github.com/chengtaipu/lowrankcnn)
 
+**Tensor methods for training neural networks**
+
+- homepage: [http://newport.eecs.uci.edu/anandkumar/#home](http://newport.eecs.uci.edu/anandkumar/#home)
+- youtube: [https://www.youtube.com/watch?v=B4YvhcGaafw](https://www.youtube.com/watch?v=B4YvhcGaafw)
+- slides: [http://newport.eecs.uci.edu/anandkumar/slides/Strata-NY.pdf](http://newport.eecs.uci.edu/anandkumar/slides/Strata-NY.pdf)
+- talks: [http://newport.eecs.uci.edu/anandkumar/#talks](http://newport.eecs.uci.edu/anandkumar/#talks)
+
 # Deep Learning And Bayesian
 
 **Scalable Bayesian Optimization Using Deep Neural Networks (ICML 2015)**
