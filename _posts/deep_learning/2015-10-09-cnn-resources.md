@@ -360,3 +360,11 @@ Bicubic VS. Shepard CNN
 
 - blog: [http://mengqi92.github.io/2015/10/06/convolution/](http://mengqi92.github.io/2015/10/06/convolution/)
 - blog: [https://segmentfault.com/a/1190000004706582](https://segmentfault.com/a/1190000004706582)
+
+**MODERATE, FILTER, OR CURATE ADULT CONTENT WITH CLARIFAI’S NSFW MODEL**
+
+- blog: [http://blog.clarifai.com/moderate-filter-or-curate-adult-content-with-clarifais-nsfw-model/#.VzVhM-yECZY](http://blog.clarifai.com/moderate-filter-or-curate-adult-content-with-clarifais-nsfw-model/#.VzVhM-yECZY)
+
+**WHAT CONVOLUTIONAL NEURAL NETWORKS LOOK AT WHEN THEY SEE NUDITY**
+
+- blog: [http://blog.clarifai.com/what-convolutional-neural-networks-see-at-when-they-see-nudity#.VzVh_-yECZY](http://blog.clarifai.com/what-convolutional-neural-networks-see-at-when-they-see-nudity#.VzVh_-yECZY)

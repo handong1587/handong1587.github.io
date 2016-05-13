@@ -65,3 +65,7 @@ extract saptio-temporal features to represent the video using the CNNs."
 **Deep, Convolutional, and Recurrent Models for Human Activity Recognition using Wearables**
 
 - arxiv: [http://arxiv.org/abs/1604.08880](http://arxiv.org/abs/1604.08880)
+
+**Unsupervised Semantic Action Discovery from Video Collections**
+
+- arxiv: [http://arxiv.org/abs/1605.03324](http://arxiv.org/abs/1605.03324)

@@ -68,6 +68,7 @@ date: 2015-10-09
 - arixv: [http://arxiv.org/abs/1511.08228](http://arxiv.org/abs/1511.08228)
 - github: [https://github.com/tensorflow/models/tree/master/neural_gpu](https://github.com/tensorflow/models/tree/master/neural_gpu)
 - github: [https://github.com/ikostrikov/torch-neural-gpu](https://github.com/ikostrikov/torch-neural-gpu)
+- github: [https://github.com/tristandeleu/neural-gpu](https://github.com/tristandeleu/neural-gpu)
 
 # Codes
 

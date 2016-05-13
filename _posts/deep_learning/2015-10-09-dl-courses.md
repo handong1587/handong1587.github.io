@@ -57,6 +57,7 @@ date: 2015-07-01
 
 **stat212b: Topics Course on Deep Learning for Spring 2016**
 
+- homepage: [http://joanbruna.github.io/stat212b/](http://joanbruna.github.io/stat212b/)
 - github: [https://github.com/joanbruna/stat212b](https://github.com/joanbruna/stat212b)
 - pan: [http://pan.baidu.com/s/1sk7TKtf#path=%252Fstat212b%2520-%2520Topics%2520Course%2520on%2520Deep%2520Learning%2520for%2520Spring%25202016](http://pan.baidu.com/s/1sk7TKtf#path=%252Fstat212b%2520-%2520Topics%2520Course%2520on%2520Deep%2520Learning%2520for%2520Spring%25202016)
 

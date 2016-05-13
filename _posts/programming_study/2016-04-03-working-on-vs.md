@@ -4,6 +4,7 @@ category: programming_study
 title: Working on Visual Studio
 date: 2016-04-03
 ---
+# Visual Studio
 
 **Debug C++ code on Linux from Visual Studio**
 
@@ -19,16 +20,24 @@ date: 2016-04-03
 
 - blog: [https://blogs.msdn.microsoft.com/vcblog/2016/03/30/visual-c-for-linux-development/](https://blogs.msdn.microsoft.com/vcblog/2016/03/30/visual-c-for-linux-development/)
 
+**Visual C++ for Linux and Raspberry Pi Development**
+
+- blog: [http://www.hanselman.com/blog/VisualCForLinuxAndRaspberryPiDevelopment.aspx](http://www.hanselman.com/blog/VisualCForLinuxAndRaspberryPiDevelopment.aspx)
+
+# Visual Studio Code
+
 **C/C++ for Visual Studio Code**
 
 - intro: Complete C/C++ language support including code-editing and debugging.
 - blog: [https://marketplace.visualstudio.com/items?itemName=ms-vscode.cpptools](https://marketplace.visualstudio.com/items?itemName=ms-vscode.cpptools)
 
-**Visual C++ for Linux and Raspberry Pi Development**
+**C/C++ extension for Visual Studio Code**
 
-- blog: [http://www.hanselman.com/blog/VisualCForLinuxAndRaspberryPiDevelopment.aspx](http://www.hanselman.com/blog/VisualCForLinuxAndRaspberryPiDevelopment.aspx)
+![](https://msdnshared.blob.core.windows.net/media/2016/03/C_Cpp_icons2.png)
 
-# Meida
+[https://blogs.msdn.microsoft.com/vcblog/2016/03/31/cc-extension-for-visual-studio-code/](https://blogs.msdn.microsoft.com/vcblog/2016/03/31/cc-extension-for-visual-studio-code/)
+
+# News
 
 **Why Microsoft needed to make Windows run Linux software**
 

@@ -85,9 +85,10 @@ using the stochastic gradient descent (SGD) algorithm to obtain fine pixel-level
 - project[paper+code]: [http://cvlab.postech.ac.kr/research/decouplednet/](http://cvlab.postech.ac.kr/research/decouplednet/)
 - github: [https://github.com/HyeonwooNoh/DecoupledNet](https://github.com/HyeonwooNoh/DecoupledNet)
 
-**Learning Deconvolution Network for Semantic Segmentation**
+**Learning Deconvolution Network for Semantic Segmentation (DeconvNet)**
 
 - arXiv: [http://arxiv.org/abs/1505.04366](http://arxiv.org/abs/1505.04366)
+- github: [https://github.com/HyeonwooNoh/DeconvNet](https://github.com/HyeonwooNoh/DeconvNet)
 
 **SegNet: A Deep Convolutional Encoder-Decoder Architecture for Robust Semantic Pixel-Wise Labelling**
 
@@ -115,6 +116,7 @@ using the stochastic gradient descent (SGD) algorithm to obtain fine pixel-level
 - homepage: [http://vladlen.info/publications/multi-scale-context-aggregation-by-dilated-convolutions/](http://vladlen.info/publications/multi-scale-context-aggregation-by-dilated-convolutions/)
 - arxiv: [http://arxiv.org/abs/1511.07122](http://arxiv.org/abs/1511.07122)
 - github: [https://github.com/fyu/dilation](https://github.com/fyu/dilation)
+- notes: [http://www.inference.vc/dilated-convolutions-and-kronecker-factorisation/](http://www.inference.vc/dilated-convolutions-and-kronecker-factorisation/)
 
 **Recurrent Instance Segmentation**
 
