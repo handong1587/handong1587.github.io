@@ -27,7 +27,7 @@ date: 2015-07-01
 
 [http://web.stanford.edu/class/cs97si/](http://web.stanford.edu/class/cs97si/)
 
-# Python Courses
+# Python
 
 **Python Computing for Data Science: An Undergraduate/Graduate Seminar Course at UC Berkeley (AY 250)**
 
@@ -36,6 +36,16 @@ date: 2015-07-01
 **Top Answers to Python Interview Questions**
 
 - blog: [https://intellipaat.com/interview-question/python-interview-questions/](https://intellipaat.com/interview-question/python-interview-questions/)
+
+**Awesome Python: A curated list of awesome Python frameworks, libraries, software and resources**
+
+- github: [https://github.com/vinta/awesome-python](https://github.com/vinta/awesome-python)
+
+**Python 资源大全中文版**
+
+- intro: Python资源大全中文版，内容包括：Web框架、网络爬虫、网络内容提取、模板引擎、数据库、数据可视化、
+图片处理、文本处理、自然语言处理、机器学习、日志、代码分析等
+- github: [https://github.com/jobbole/awesome-python-cn](https://github.com/jobbole/awesome-python-cn)
 
 # Go
 

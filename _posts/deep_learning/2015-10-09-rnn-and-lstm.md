@@ -175,13 +175,6 @@ date: 2015-10-09
 - github: [https://github.com/szcom/rnnlib](https://github.com/szcom/rnnlib)
 - blog: [http://blog.otoro.net/2015/12/12/handwriting-generation-demo-in-tensorflow/](http://blog.otoro.net/2015/12/12/handwriting-generation-demo-in-tensorflow/)
 
-**DRAW: A Recurrent Neural Network For Image Generation**
-
-- arXiv: [http://arxiv.org/abs/1502.04623](http://arxiv.org/abs/1502.04623)
-- github: [https://github.com/vivanov879/draw](https://github.com/vivanov879/draw)
-- github(Theano): [https://github.com/jbornschein/draw](https://github.com/jbornschein/draw)
-- github(Lasagne): [https://github.com/skaae/lasagne-draw](https://github.com/skaae/lasagne-draw)
-
 **Unsupervised Learning of Video Representations using LSTMs(ICML2015)**
 
 - project: [http://www.cs.toronto.edu/~nitish/unsupervised_video/](http://www.cs.toronto.edu/~nitish/unsupervised_video/)

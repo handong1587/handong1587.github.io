@@ -32,3 +32,7 @@ date: 2015-10-09
 **Awesome Data Engineering: A curated list of data engineering tools for software developers**
 
 - github: [https://github.com/igorbarinov/awesome-data-engineering](https://github.com/igorbarinov/awesome-data-engineering)
+
+**Data science blogs**
+
+- github: [https://github.com/rushter/data-science-blogs](https://github.com/rushter/data-science-blogs)

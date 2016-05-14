@@ -109,3 +109,10 @@ accuracy and the detection and localization accuracy of all tasks
 
 - slides: [http://www.slideshare.net/roelofp/multi-modal-retrieval-and-generation-with-deep-distributed-models](http://www.slideshare.net/roelofp/multi-modal-retrieval-and-generation-with-deep-distributed-models)
 - slides: [http://pan.baidu.com/s/1kUSjn4z](http://pan.baidu.com/s/1kUSjn4z)
+
+**Learning Aligned Cross-Modal Representations from Weakly Aligned Data**
+
+![](http://projects.csail.mit.edu/cmplaces/imgs/teaser.png)
+
+- homepage: [http://projects.csail.mit.edu/cmplaces/index.html](http://projects.csail.mit.edu/cmplaces/index.html)
+- paper: [http://projects.csail.mit.edu/cmplaces/content/paper.pdf](http://projects.csail.mit.edu/cmplaces/content/paper.pdf)

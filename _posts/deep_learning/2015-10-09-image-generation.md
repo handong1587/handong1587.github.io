@@ -22,12 +22,19 @@ date: 2015-10-09
 - github: [https://github.com/goodfeli/adversarial](https://github.com/goodfeli/adversarial)
 - github: [https://github.com/aleju/cat-generator](https://github.com/aleju/cat-generator)
 
-**DRAW: A Recurrent Neural Network For Image Generation**
+**DRAW: A Recurrent Neural Network For Image Generation (Google DeepMind)**
 
 - arXiv: [http://arxiv.org/abs/1502.04623](http://arxiv.org/abs/1502.04623)
 - github: [https://github.com/vivanov879/draw](https://github.com/vivanov879/draw)
+- github(Theano): [https://github.com/jbornschein/draw](https://github.com/jbornschein/draw)
+- github(Lasagne): [https://github.com/skaae/lasagne-draw](https://github.com/skaae/lasagne-draw)
 - youtube: [https://www.youtube.com/watch?v=Zt-7MI9eKEo&hd=1](https://www.youtube.com/watch?v=Zt-7MI9eKEo&hd=1)
 - video: [http://pan.baidu.com/s/1gd3W6Fh](http://pan.baidu.com/s/1gd3W6Fh)
+
+**Understanding and Implementing Deepmind's DRAW Model**
+
+- blog: [http://evjang.com/articles/draw](http://evjang.com/articles/draw)
+- github: [https://github.com/ericjang/draw](https://github.com/ericjang/draw)
 
 **Generative Image Modeling Using Spatial LSTMs**
 
@@ -107,8 +114,3 @@ date: 2015-10-09
 Variational Autoencoder (VAE) 
 and DRAW: A Recurrent Neural Network For Image Generation).
 - github: [https://github.com/ikostrikov/TensorFlow-VAE-GAN-DRAW](https://github.com/ikostrikov/TensorFlow-VAE-GAN-DRAW)
-
-**Understanding and Implementing Deepmind's DRAW Model**
-
-- blog: [http://evjang.com/articles/draw](http://evjang.com/articles/draw)
-- github: [https://github.com/ericjang/draw](https://github.com/ericjang/draw)

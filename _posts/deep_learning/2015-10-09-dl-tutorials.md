@@ -122,6 +122,10 @@ date: 2015-10-09
 
 - github: [https://github.com/bi-lab/deeplearning_tutorial](https://github.com/bi-lab/deeplearning_tutorial)
 
+**Deep Learning Tutorials**
+
+- github: [https://github.com/sjchoi86/Deep-Learning-101](https://github.com/sjchoi86/Deep-Learning-101)
+
 **Hacking MNIST in 30 lines of Python**
 
 - blog: [http://jrusev.github.io/post/hacking-mnist/](http://jrusev.github.io/post/hacking-mnist/)

@@ -31,6 +31,7 @@ date: 2015-08-27
 
 - intro: "This repository contains a topic-wise curated list of Machine Learning and Deep Learning tutorials, articles and other resources. 
 Other awesome lists can be found in this [list](https://github.com/sindresorhus/awesome)."
+- homepage: [http://ujjwalkarn.github.io/Machine-Learning-Tutorials/](http://ujjwalkarn.github.io/Machine-Learning-Tutorials/)
 - github: [https://github.com/ujjwalkarn/Machine-Learning-Tutorials/blob/master/README.md](https://github.com/ujjwalkarn/Machine-Learning-Tutorials/blob/master/README.md)
 
 **A Visual Introduction to Machine Learning**
@@ -350,6 +351,15 @@ Other awesome lists can be found in this [list](https://github.com/sindresorhus/
 **ALGORITHMS: AI, Data Mining, Clustering, Data Structures, Machine Learning, Neural, NLP, ...**
 
 - github: [https://github.com/svaksha/pythonidae/blob/master/AI.md](https://github.com/svaksha/pythonidae/blob/master/AI.md)
+
+**Awesome Machine Learning: A curated list of awesome machine learning frameworks, libraries and software (by language)**
+
+- github: [https://github.com/josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning)
+
+**awesome-machine-learning-cn: 机器学习资源大全中文版**
+
+- intro: 机器学习资源大全中文版，包括机器学习领域的框架、库以及软件
+- github: [https://github.com/jobbole/awesome-machine-learning-cn](https://github.com/jobbole/awesome-machine-learning-cn)
 
 # Books
 

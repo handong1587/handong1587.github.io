@@ -216,6 +216,8 @@ Bicubic VS. Shepard CNN
 
 - arxiv: [http://arxiv.org/abs/1602.05314](http://arxiv.org/abs/1602.05314)
 - review("Google Unveils Neural Network with “Superhuman” Ability to Determine the Location of Almost Any Image"): [https://www.technologyreview.com/s/600889/google-unveils-neural-network-with-superhuman-ability-to-determine-the-location-of-almost/](https://www.technologyreview.com/s/600889/google-unveils-neural-network-with-superhuman-ability-to-determine-the-location-of-almost/)
+- github("City-Recognition: CS231n Project for Winter 2016"): [https://github.com/dmakian/LittlePlaNet](https://github.com/dmakian/LittlePlaNet)
+- github: [https://github.com/wulfebw/LittlePlaNet-Models](https://github.com/wulfebw/LittlePlaNet-Models)
 
 **Camera identification with deep convolutional networks**
 

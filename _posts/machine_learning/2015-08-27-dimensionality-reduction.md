@@ -33,6 +33,11 @@ date: 2015-08-27
 
 - blog: [http://nxn.se/post/117471851320/improper-applications-of-principal-component](http://nxn.se/post/117471851320/improper-applications-of-principal-component)
 
+**Principal Component Analysis**
+
+- blog: [http://setosa.io/ev/principal-component-analysis/](http://setosa.io/ev/principal-component-analysis/)
+- homepage("Explained Visually"): [http://setosa.io/ev/](http://setosa.io/ev/)
+
 # SVD
 
 **Feature Reduction using SVD**

@@ -49,6 +49,10 @@ date: 2015-07-01
 - author: Steven Skiena
 - homepage: [http://www.algorist.com/#](http://www.algorist.com/#)
 
+**Solutions to Introduction to Algorithms**
+
+- github: [https://github.com/gzc/CLRS](https://github.com/gzc/CLRS)
+
 # Interview Questions
 
 **C & Data Structure Interview Questions**

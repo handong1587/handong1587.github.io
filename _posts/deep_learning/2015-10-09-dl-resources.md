@@ -612,6 +612,10 @@ We also include one pre-trained model using a custom convolutional network."
 
 - github: [https://github.com/daviddao/awesome-very-deep-learning](https://github.com/daviddao/awesome-very-deep-learning)
 
+**Deep Learning Resources and Tutorials using Keras and Lasagne**
+
+- github: [https://github.com/Vict0rSch/deep_learning](https://github.com/Vict0rSch/deep_learning)
+
 # Tools
 
 **DNNGraph - A deep neural network model generation DSL in Haskell**
