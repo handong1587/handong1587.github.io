@@ -20,6 +20,11 @@ date: 2015-10-09
 - slides: [http://www.iclr.cc/lib/exe/fetch.php?media=iclr2015:silver-iclr2015.pdf](http://www.iclr.cc/lib/exe/fetch.php?media=iclr2015:silver-iclr2015.pdf)
 - pan: [http://pan.baidu.com/s/1qWBOJGo](http://pan.baidu.com/s/1qWBOJGo)
 
+**Deep Reinforcement Learning (MLSS2016) by John Schulman[UC Berkeley]**
+
+- homepage: [http://rl-gym-doc.s3-website-us-west-2.amazonaws.com/mlss/index.html](http://rl-gym-doc.s3-website-us-west-2.amazonaws.com/mlss/index.html)
+- slides: [http://pan.baidu.com/s/1jIatusA#path=%252F](http://pan.baidu.com/s/1jIatusA#path=%252F)
+
 # Courses
 
 **Advanced Topics: RL**

@@ -52,6 +52,14 @@ date: 2015-07-01
 **Go by Example**
 
  - blog: [https://gobyexample.com/](https://gobyexample.com/)
+ 
+# Assembly
+ 
+ **A fundamental introduction to x86 assembly programming**
+ 
+ ![](https://www.nayuki.io/res/a-fundamental-introduction-to-x86-assembly-programming/cpu-model.png)
+ 
+- blog: [https://www.nayuki.io/page/a-fundamental-introduction-to-x86-assembly-programming](https://www.nayuki.io/page/a-fundamental-introduction-to-x86-assembly-programming)
 
 # Codes
 

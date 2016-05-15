@@ -125,8 +125,3 @@ date: 2015-10-09
 **Deep Learning Tutorials**
 
 - github: [https://github.com/sjchoi86/Deep-Learning-101](https://github.com/sjchoi86/Deep-Learning-101)
-
-**Hacking MNIST in 30 lines of Python**
-
-- blog: [http://jrusev.github.io/post/hacking-mnist/](http://jrusev.github.io/post/hacking-mnist/)
-- github: [https://github.com/jrusev/simple-neural-networks](https://github.com/jrusev/simple-neural-networks)

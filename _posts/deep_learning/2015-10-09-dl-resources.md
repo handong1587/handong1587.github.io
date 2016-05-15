@@ -558,6 +558,15 @@ We also include one pre-trained model using a custom convolutional network."
 
 - github: [https://github.com/rasbt/python-machine-learning-book/blob/master/faq/deeplearn-vs-svm-randomforest.md](https://github.com/rasbt/python-machine-learning-book/blob/master/faq/deeplearn-vs-svm-randomforest.md)
 
+# Installation
+
+**Setting up a Deep Learning Machine from Scratch (Software): Instructions for setting up the software on your deep learning machine**
+
+- intro: A detailed guide to setting up your machine for deep learning research. 
+Includes instructions to install drivers, tools and various deep learning frameworks. 
+This was tested on a 64 bit machine with Nvidia Titan X, running Ubuntu 14.04
+- github: [https://github.com/saiprashanths/dl-setup](https://github.com/saiprashanths/dl-setup)
+
 # Resources
 
 **Awesome Deep Learning**

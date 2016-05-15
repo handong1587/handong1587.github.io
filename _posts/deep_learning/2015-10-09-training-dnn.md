@@ -108,6 +108,10 @@ date: 2015-10-09
 
 - arxiv: [http://arxiv.org/abs/1412.0233](http://arxiv.org/abs/1412.0233)
 
+**Direct Loss Minimization for Training Deep Neural Nets**
+
+- arxiv: [http://arxiv.org/abs/1511.06411](http://arxiv.org/abs/1511.06411)
+
 # Optimization Methods
 
 **On Optimization Methods for Deep Learning**

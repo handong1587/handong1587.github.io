@@ -5,6 +5,8 @@ title: Object Segmentation
 date: 2015-10-09
 ---
 
+# Papers
+
 **Deep Joint Task Learning for Generic Object Extraction(NIPS2014)**
 
 ![](http://vision.sysu.edu.cn/vision_sysu/wp-content/uploads/2013/05/%E5%B0%8FQ%E6%88%AA%E5%9B%BE-20141019095211.png)
@@ -137,3 +139,9 @@ using the stochastic gradient descent (SGD) algorithm to obtain fine pixel-level
 **Semantic Object Parsing with Graph LSTM**
 
 - arxiv: [http://arxiv.org/abs/1603.07063](http://arxiv.org/abs/1603.07063)
+
+# Blogs
+
+**Deep Learning for Natural Image Segmentation Priors**
+
+[http://cs.brown.edu/courses/csci2951-t/finals/ghope/](http://cs.brown.edu/courses/csci2951-t/finals/ghope/)

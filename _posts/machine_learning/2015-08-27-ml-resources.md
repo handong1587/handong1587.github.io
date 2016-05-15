@@ -179,6 +179,10 @@ Other awesome lists can be found in this [list](https://github.com/sindresorhus/
 - arxiv: [http://arxiv.org/abs/1604.05263](http://arxiv.org/abs/1604.05263)
 - github: [https://github.com/SheffieldML/ChainedGP](https://github.com/SheffieldML/ChainedGP)
 
+**Introduction to Gaussian Processes**
+
+- slides: [http://learning.mpi-sws.org/mlss2016/slides/gp_mlss16.pdf](http://learning.mpi-sws.org/mlss2016/slides/gp_mlss16.pdf)
+
 # Multilabel Learning
 
 **Neural Network Models for Multilabel Learning**

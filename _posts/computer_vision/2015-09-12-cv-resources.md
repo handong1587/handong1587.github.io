@@ -54,6 +54,13 @@ date: 2015-09-12
 - homepage: [http://www-inst.eecs.berkeley.edu/~cs280/sp15/index.html](http://www-inst.eecs.berkeley.edu/~cs280/sp15/index.html)
 - lectures: [http://docs.huihoo.com/computer-vision/berkeley/cs280-computer-vision/](http://docs.huihoo.com/computer-vision/berkeley/cs280-computer-vision/)
 
+**CSCI2951-T Data-driven Computer Vision (Spring 2016)**
+
+![](http://cs.brown.edu/courses/csci2951-t/images/detection_teaser.png)
+
+- instructor: Genevieve Patterson
+- homepage: [http://cs.brown.edu/courses/csci2951-t/](http://cs.brown.edu/courses/csci2951-t/)
+
 # Edge detection
 
 **Image-feature-detection-using-Phase-Stretch-Transform**
