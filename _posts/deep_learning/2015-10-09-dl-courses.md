@@ -80,6 +80,10 @@ date: 2015-07-01
 - intro: Homework, Homework Solutions, Lecture Notes, General Resources, Tutorial Notes, CUDA/GPU programming tutorial
 - homepage: [https://piazza.com/cuhk.edu.hk/spring2015/eleg5040/resources](https://piazza.com/cuhk.edu.hk/spring2015/eleg5040/resources)
 
+**Self-Study Courses for Deep Learning (NVIDIA Deep Learning Institute)**
+
+- homepage: [https://developer.nvidia.com/deep-learning-courses](https://developer.nvidia.com/deep-learning-courses)
+
 # Computer Vision
 
 **Stanford CS231n: Convolutional Neural Networks for Visual Recognition**
