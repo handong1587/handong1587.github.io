@@ -10,13 +10,14 @@ date: 2015-08-27
 **Auto-Encoding Variational Bayes**
 
 - paper: [http://arxiv.org/abs/1312.6114](http://arxiv.org/abs/1312.6114)
-- code: [https://github.com/stitchfix/fauxtograph](https://github.com/stitchfix/fauxtograph)
+- github: [https://github.com/stitchfix/fauxtograph](https://github.com/stitchfix/fauxtograph)
+- github: [https://github.com/fchollet/keras/blob/master/examples/variational_autoencoder.py](https://github.com/fchollet/keras/blob/master/examples/variational_autoencoder.py)
 
 **Practical Bayesian Optimization of Machine Learning Algorithms**
 
 - paper: [http://arxiv.org/abs/1206.2944v2](http://arxiv.org/abs/1206.2944v2)
-- code: [https://github.com/JasperSnoek/spearmint](https://github.com/JasperSnoek/spearmint)
-- code: [https://github.com/HIPS/Spearmint](https://github.com/HIPS/Spearmint)
+- github: [https://github.com/JasperSnoek/spearmint](https://github.com/JasperSnoek/spearmint)
+- github: [https://github.com/HIPS/Spearmint](https://github.com/HIPS/Spearmint)
 
 **Bayesian Face Revisited: A Joint Formulation(ECCV2012)**
 

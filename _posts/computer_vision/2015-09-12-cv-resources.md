@@ -133,6 +133,13 @@ date: 2015-09-12
 
 - paper: [https://people.csail.mit.edu/mrub/papers/ObstructionFreePhotograpy_SIGGRAPH2015.pdf](https://people.csail.mit.edu/mrub/papers/ObstructionFreePhotograpy_SIGGRAPH2015.pdf)
 
+**My Text in Your Handwriting**
+
+![](http://visual.cs.ucl.ac.uk/pubs/handwriting/img/results.jpg)
+
+- homepage: [http://visual.cs.ucl.ac.uk/pubs/handwriting/](http://visual.cs.ucl.ac.uk/pubs/handwriting/)
+- paper: [http://visual.cs.ucl.ac.uk/pubs/handwriting/handwriting_visual_main.pdf](http://visual.cs.ucl.ac.uk/pubs/handwriting/handwriting_visual_main.pdf)
+
 # Bag Of Words
 
 # Activity Recognition

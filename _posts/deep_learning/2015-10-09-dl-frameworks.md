@@ -406,6 +406,10 @@ for building Deep Learning (DL) machine learning (ML) models
 - github: [https://github.com/Theano/Theano](https://github.com/Theano/Theano)
 - tutorial: [https://github.com/Newmu/Theano-Tutorials](https://github.com/Newmu/Theano-Tutorials)
 
+**Theano: A Python framework for fast computation of mathematical expressions**
+
+- arxiv: [http://arxiv.org/abs/1605.02688](http://arxiv.org/abs/1605.02688)
+
 **Configuring Theano For High Performance Deep Learning**
 
 [http://www.johnwittenauer.net/configuring-theano-for-high-performance-deep-learning/](http://www.johnwittenauer.net/configuring-theano-for-high-performance-deep-learning/)

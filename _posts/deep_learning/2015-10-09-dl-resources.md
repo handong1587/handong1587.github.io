@@ -170,6 +170,20 @@ date: 2015-10-09
 - arxiv: [http://arxiv.org/abs/1605.01749](http://arxiv.org/abs/1605.01749)
 - github: [https://github.com/paulbertens/rank-ordered-autoencoder](https://github.com/paulbertens/rank-ordered-autoencoder)
 
+**Decoding Stacked Denoising Autoencoders**
+
+- arxiv: [http://arxiv.org/abs/1605.02832](http://arxiv.org/abs/1605.02832)
+
+**Keras autoencoders (convolutional/fcc)**
+
+- github: [https://github.com/nanopony/keras-convautoencoder](https://github.com/nanopony/keras-convautoencoder)
+
+**Building Autoencoders in Keras**
+
+![](http://blog.keras.io/img/ae/autoencoder_schema.jpg)
+
+- blog: [http://blog.keras.io/building-autoencoders-in-keras.html](http://blog.keras.io/building-autoencoders-in-keras.html)
+
 # Semi-Supervised Learning
 
 **Semi-Supervised Learning with Graphs (Label Propagation)**
@@ -449,6 +463,7 @@ with fast exact probabilistic inference over many layers."
 - notes("Stochastic Depth Networks will Become the New Normal"): [http://deliprao.com/archives/134](http://deliprao.com/archives/134)
 - github: [https://github.com/dblN/stochastic_depth_keras](https://github.com/dblN/stochastic_depth_keras)
 - github: [https://github.com/yasunorikudo/chainer-ResDrop](https://github.com/yasunorikudo/chainer-ResDrop)
+- review: [https://medium.com/@tim_nth/review-deep-networks-with-stochastic-depth-51bd53acfe72](https://medium.com/@tim_nth/review-deep-networks-with-stochastic-depth-51bd53acfe72)
 
 **LIFT: Learned Invariant Feature Transform**
 

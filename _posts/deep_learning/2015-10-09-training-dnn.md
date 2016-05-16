@@ -21,6 +21,10 @@ date: 2015-10-09
 
 - paper: [http://ai.stanford.edu/~amaas/papers/relu_hybrid_icml2013_final.pdf](http://ai.stanford.edu/~amaas/papers/relu_hybrid_icml2013_final.pdf)
 
+**Deep Sparse Rectifier Neural Networks**
+
+- paper: [http://jmlr.org/proceedings/papers/v15/glorot11a/glorot11a.pdf](http://jmlr.org/proceedings/papers/v15/glorot11a/glorot11a.pdf)
+
 **Delving Deep into Rectifiers: Surpassing Human-Level Performance on ImageNet Classification (PReLU)**
 
 - keywords: PReLU, Caffe "msra" weights initilization

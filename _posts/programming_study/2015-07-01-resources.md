@@ -27,6 +27,11 @@ date: 2015-07-01
 
 [http://web.stanford.edu/class/cs97si/](http://web.stanford.edu/class/cs97si/)
 
+**Introduction to DevOps**
+
+- intro: Learn how to make your application lifecycle faster and more predictable for both developers and the operations team.
+- homepage: [https://www.edx.org/course/introduction-devops-microsoft-dev212x](https://www.edx.org/course/introduction-devops-microsoft-dev212x)
+
 # Python
 
 **Python Computing for Data Science: An Undergraduate/Graduate Seminar Course at UC Berkeley (AY 250)**
