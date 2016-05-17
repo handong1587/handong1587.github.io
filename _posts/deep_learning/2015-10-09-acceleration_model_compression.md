@@ -141,6 +141,10 @@ to decompose it into the multiplications of thinned dense matrices"
 - homepage: [http://ristretto.lepsucd.com/](http://ristretto.lepsucd.com/)
 - github("Ristretto: Caffe-based approximation of convolutional neural networks"): [https://github.com/pmgysel/caffe](https://github.com/pmgysel/caffe)
 
+**ASP Vision: Optically Computing the First Layer of Convolutional Neural Networks using Angle Sensitive Pixels**
+
+- arxiv: [http://arxiv.org/abs/1605.03621](http://arxiv.org/abs/1605.03621)
+
 # Projects
 
 **Accelerate Convolutional Neural Networks**
