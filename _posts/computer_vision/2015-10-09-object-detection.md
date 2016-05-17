@@ -59,3 +59,12 @@ paper: [http://www.lv-nus.org/papers/2011/cvpr2010-context_final.pdf](http://www
 - homepage: [http://www.stat.ucla.edu/~boli/projects/context_occlusion/context_occlusion.html](http://www.stat.ucla.edu/~boli/projects/context_occlusion/context_occlusion.html)
 - arxiv: [http://arxiv.org/abs/1501.07359](http://arxiv.org/abs/1501.07359)
 - code: [http://www.stat.ucla.edu/~boli/projects/context_occlusion/publications/RGM_Release1.zip](http://www.stat.ucla.edu/~boli/projects/context_occlusion/publications/RGM_Release1.zip)
+
+# Blogs
+
+**Real-time Webcam Barcode Detection with OpenCV and C++**
+
+![](http://www.codepool.biz/wp-content/uploads/2016/05/dbr_opencv_cplusplus.png)
+
+- blog: [http://www.codepool.biz/webcam-barcode-detection-opencv-cplusplus.html](http://www.codepool.biz/webcam-barcode-detection-opencv-cplusplus.html)
+- github: [https://github.com/dynamsoftlabs/cplusplus-webcam-barcode-reader](https://github.com/dynamsoftlabs/cplusplus-webcam-barcode-reader)

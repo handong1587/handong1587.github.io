@@ -36,3 +36,7 @@ date: 2015-08-27
 **Demystifying Logistic Regression**
 
 [http://tech.magnetic.com/2016/04/demystifying-logistic-regression.html](http://tech.magnetic.com/2016/04/demystifying-logistic-regression.html)
+
+**Principal Components Regression**
+
+- "Pt.1: The Standard Method": [http://www.win-vector.com/blog/2016/05/pcr_part1_xonly/](http://www.win-vector.com/blog/2016/05/pcr_part1_xonly/)

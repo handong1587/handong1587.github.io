@@ -50,6 +50,12 @@ date: 2015-10-09
 
 [http://deeplearning4j.org/usingrnns.html](http://deeplearning4j.org/usingrnns.html)
 
+**Learning RNN Hierarchies**
+
+![](https://cloud.githubusercontent.com/assets/8753078/11612806/46e59834-9c2e-11e5-8309-7a93aa72383c.png)
+
+- github: [https://github.com/pranv/lrh/blob/master/about.md](https://github.com/pranv/lrh/blob/master/about.md)
+
 # Train RNN
 
 **A Simple Way to Initialize Recurrent Networks of Rectified Linear Units**

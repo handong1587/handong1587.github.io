@@ -2,7 +2,7 @@
 layout: post
 category: deep_learning
 title: Keep Up With New Trends
-date: 2016-05-05
+date: 2016-05-16
 ---
 
 **Deep Learning Summer School 2015**
@@ -109,3 +109,7 @@ date: 2016-05-05
 - Object Recognition and Detection: [http://cvpr2016.thecvf.com/program/main_conference#O1-2A](http://cvpr2016.thecvf.com/program/main_conference#O1-2A)
 - Object Detection 1: [http://cvpr2016.thecvf.com/program/main_conference#S1-2A](http://cvpr2016.thecvf.com/program/main_conference#S1-2A)
 - Object Detection 2: [http://cvpr2016.thecvf.com/program/main_conference#S2-2A](http://cvpr2016.thecvf.com/program/main_conference#S2-2A)
+
+**ICLR 2016 Takeaways: Adversarial Models & Optimization**
+
+[https://indico.io/blog/iclr-2016-takeaways/](https://indico.io/blog/iclr-2016-takeaways/)

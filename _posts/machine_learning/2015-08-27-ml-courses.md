@@ -132,3 +132,9 @@ date: 2015-08-27
 **An Introduction to Statistical Machine Learning Spring 2014 (for ACM Class)**
 
 [http://bcmi.sjtu.edu.cn/log/courses/ml_2014_spring_acm.html](http://bcmi.sjtu.edu.cn/log/courses/ml_2014_spring_acm.html)
+
+**CS 159: Advanced Topics in Machine Learning (Spring 2016)**
+
+- intro:  Online Learning, Multi-Armed Bandits, Active Learning, Human-in-the-Loop Learning, Reinforcement Learning
+- instructor: Yisong Yue
+- homepage: [http://www.yisongyue.com/courses/cs159/](http://www.yisongyue.com/courses/cs159/)

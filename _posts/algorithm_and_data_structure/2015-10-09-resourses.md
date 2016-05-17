@@ -36,6 +36,14 @@ date: 2015-07-01
 - homepage: [http://www.cs.vu.nl/~tcs/datalg/](http://www.cs.vu.nl/~tcs/datalg/)
 - slides: [http://www.cs.vu.nl/~tcs/datalg/datalg-slides.pdf](http://www.cs.vu.nl/~tcs/datalg/datalg-slides.pdf)
 
+# Blogs
+
+**Know Thy Complexities!**
+
+![](http://bigocheatsheet.com/img/big-o-complexity.png)
+
+[http://bigocheatsheet.com/](http://bigocheatsheet.com/)
+
 # Codes
 
 **Bloofi: A java implementation of multidimensional Bloom filters**

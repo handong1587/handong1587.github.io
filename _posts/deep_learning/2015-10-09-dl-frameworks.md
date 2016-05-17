@@ -164,6 +164,7 @@ for building Deep Learning (DL) machine learning (ML) models
 
 **DIGITS: the Deep Learning GPU Training System**
 
+- homepage: [https://developer.nvidia.com/digits](https://developer.nvidia.com/digits)
 - github: [https://github.com/NVIDIA/DIGITS](https://github.com/NVIDIA/DIGITS)
 
 # dp
@@ -428,6 +429,10 @@ for building Deep Learning (DL) machine learning (ML) models
 - github: [https://github.com/petered/plato](https://github.com/petered/plato)
 - tutorial: [https://rawgit.com/petered/plato/master/plato_tutorial.html](https://rawgit.com/petered/plato/master/plato_tutorial.html)
 
+**Theano Windows Install Guide**
+
+- github: [https://github.com/mrakgr/Tutorials/blob/master/theano_install.md](https://github.com/mrakgr/Tutorials/blob/master/theano_install.md)
+
 # tiny-cnn
 
 **tiny-cnn: A header only, dependency-free deep learning framework in C++11**
@@ -532,3 +537,9 @@ for building Deep Learning (DL) machine learning (ML) models
 **Popular Deep Learning Libraries**
 
 - blog: [http://machinelearningmastery.com/popular-deep-learning-libraries/](http://machinelearningmastery.com/popular-deep-learning-libraries/)
+
+**The simple example of Theano and Lasagne super power**
+
+![](https://grzegorzgwardys.files.wordpress.com/2016/05/modified_cnn.png?w=640)
+
+[https://grzegorzgwardys.wordpress.com/2016/05/15/the-simple-example-of-theano-and-lasagne-super-power/](https://grzegorzgwardys.wordpress.com/2016/05/15/the-simple-example-of-theano-and-lasagne-super-power/)

@@ -40,3 +40,7 @@ date: 2015-10-01
 ![](http://www.alanzucconi.com/wp-content/uploads/2016/04/evolution1.png)
 
 - blog: [http://www.alanzucconi.com/](http://www.alanzucconi.com/)
+
+**The Cost of Knowledge**
+
+[http://thecostofknowledge.com/](http://thecostofknowledge.com/)

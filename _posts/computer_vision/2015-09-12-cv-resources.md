@@ -228,7 +228,6 @@ date: 2015-09-12
 
 - homepage: [https://www.disneyresearch.com/publication/live-texturing-of-augmented-reality-characters/](https://www.disneyresearch.com/publication/live-texturing-of-augmented-reality-characters/)
 
-
 # Applications
 
 **Target acquired: Finding targets in drone and quadcopter video streams using Python and OpenCV**
@@ -297,6 +296,10 @@ date: 2015-09-12
 
 - homepage: [https://trackingjs.com/](https://trackingjs.com/)
 - github: [https://github.com/eduardolundgren/tracking.js/](https://github.com/eduardolundgren/tracking.js/)
+
+**FastCV Computer Vision SDK**
+
+- homepage: [https://developer.qualcomm.com/software/fastcv-sdk](https://developer.qualcomm.com/software/fastcv-sdk)
 
 # Datasets
 

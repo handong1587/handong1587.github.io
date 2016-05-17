@@ -520,9 +520,10 @@ with fast exact probabilistic inference over many layers."
 - intro: "A simple implementation of Visual Search using features extracted from Tensor Flow inception model"
 - github: [https://github.com/AKSHAYUBHAT/VisualSearchServer](https://github.com/AKSHAYUBHAT/VisualSearchServer)
 
-**Deep Learning in Rust: baby steps**
+**Deep Learning in Rust**
 
-- blog: [https://medium.com/@tedsta/deep-learning-in-rust-7e228107cccc#.t0pskuwkm](https://medium.com/@tedsta/deep-learning-in-rust-7e228107cccc#.t0pskuwkm)
+- blog("baby steps"): [https://medium.com/@tedsta/deep-learning-in-rust-7e228107cccc#.t0pskuwkm](https://medium.com/@tedsta/deep-learning-in-rust-7e228107cccc#.t0pskuwkm)
+- blog("a walk in the park"): [https://medium.com/@tedsta/deep-learning-in-rust-a-walk-in-the-park-fed6c87165ea#.pucj1l5yx](https://medium.com/@tedsta/deep-learning-in-rust-a-walk-in-the-park-fed6c87165ea#.pucj1l5yx)
 - github: [https://github.com/tedsta/deeplearn-rs](https://github.com/tedsta/deeplearn-rs)
 
 **Implementation of state-of-art models in Torch**
@@ -550,6 +551,11 @@ We also include one pre-trained model using a custom convolutional network."
 
 - blog: [https://blog.heuritech.com/2016/04/26/pre-trained-convnets-and-object-localisation-in-keras/](https://blog.heuritech.com/2016/04/26/pre-trained-convnets-and-object-localisation-in-keras/)
 - github: [https://github.com/heuritech/convnets-keras](https://github.com/heuritech/convnets-keras)
+
+**Deep Learning algorithms with TensorFlow: Ready to use implementations of various Deep Learning algorithms using TensorFlow**
+
+- homepage: [http://www.gabrieleangeletti.com/](http://www.gabrieleangeletti.com/)
+- github: [https://github.com/blackecho/Deep-Learning-TensorFlow](https://github.com/blackecho/Deep-Learning-TensorFlow)
 
 # Readings and Questions
 
