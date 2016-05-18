@@ -229,6 +229,12 @@ Bicubic VS. Shepard CNN
 - github: [https://github.com/imatge-upc/sentiment-2016](https://github.com/imatge-upc/sentiment-2016)
 - gitxiv: [http://gitxiv.com/posts/ruqRgXdPTHJ77LDEb/from-pixels-to-sentiment-fine-tuning-cnns-for-visual](http://gitxiv.com/posts/ruqRgXdPTHJ77LDEb/from-pixels-to-sentiment-fine-tuning-cnns-for-visual)
 
+**Video2GIF: Automatic Generation of Animated GIFs from Video**
+
+- arxiv: [http://arxiv.org/abs/1605.04850](http://arxiv.org/abs/1605.04850)
+- github(dataset): [https://github.com/gyglim/video2gif_dataset](https://github.com/gyglim/video2gif_dataset)
+- results: [http://video2gif.info/](http://video2gif.info/)
+
 ## Pose Estimation 
 
 **Flowing ConvNets for Human Pose Estimation in Videos**

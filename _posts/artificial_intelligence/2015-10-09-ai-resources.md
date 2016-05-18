@@ -12,6 +12,10 @@ date: 2015-10-01
 - homepage: [http://frnsys.com/ai_notes/](http://frnsys.com/ai_notes/)
 - github: [https://github.com/frnsys/ai_notes](https://github.com/frnsys/ai_notes)
 
+**Artificial Intelligence - A Modern Approach (Russell And Norvig)**
+
+- github: [https://github.com/aimacode/aima-python](https://github.com/aimacode/aima-python)
+
 # Papers
 
 **Building Machines That Learn and Think Like People**

@@ -543,3 +543,7 @@ for building Deep Learning (DL) machine learning (ML) models
 ![](https://grzegorzgwardys.files.wordpress.com/2016/05/modified_cnn.png?w=640)
 
 [https://grzegorzgwardys.wordpress.com/2016/05/15/the-simple-example-of-theano-and-lasagne-super-power/](https://grzegorzgwardys.wordpress.com/2016/05/15/the-simple-example-of-theano-and-lasagne-super-power/)
+
+**Comparison of deep learning software**
+
+- wiki: [https://en.wikipedia.org/wiki/Comparison_of_deep_learning_software](https://en.wikipedia.org/wiki/Comparison_of_deep_learning_software)

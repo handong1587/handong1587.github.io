@@ -150,6 +150,10 @@ with the style of another image using convolutional neural networks
 
 - github: [https://github.com/DmitryUlyanov/online-neural-doodle](https://github.com/DmitryUlyanov/online-neural-doodle)
 
+**Improving the Neural Algorithm of Artistic Style**
+
+- arxiv: [http://arxiv.org/abs/1605.04603](http://arxiv.org/abs/1605.04603)
+
 # Music
 
 **GRUV: Algorithmic Music Generation using Recurrent Neural Networks**

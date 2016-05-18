@@ -60,6 +60,12 @@ date: 2015-08-27
 
 - arxiv: [http://arxiv.org/abs/1605.02989](http://arxiv.org/abs/1605.02989)
 
+**mst_clustering: Clustering via Euclidean Minimum Spanning Trees**
+
+- paper: [http://joss.theoj.org/papers/10.21105/joss.00012](http://joss.theoj.org/papers/10.21105/joss.00012)
+- paper: [https://github.com/openjournals/joss-papers/blob/master/joss.00012/10.21105.joss.00012.pdf](https://github.com/openjournals/joss-papers/blob/master/joss.00012/10.21105.joss.00012.pdf)
+- github: [https://github.com/jakevdp/mst_clustering](https://github.com/jakevdp/mst_clustering)
+
 # Books
 
 **Introduction to Clustering and Unsupervised Learning | PACKT Books**

@@ -191,6 +191,16 @@ date: 2015-09-12
 
 - arxiv: [http://arxiv.org/abs/1605.01576](http://arxiv.org/abs/1605.01576)
 
+# Image Enhancement
+
+**LIME: A Method for Low-light IMage Enhancement**
+
+![](http://photo.weibo.com/2578103464/wbphotos/large/mid/3971098712490115/pid/99aabca8jw1f3ibhb6o8ej20ck09cmzl)
+
+- arxiv: [http://arxiv.org/abs/1605.05034](http://arxiv.org/abs/1605.05034)
+- github: [http://cs.tju.edu.cn/orgs/vision/~xguo/code/LIME.zip](http://cs.tju.edu.cn/orgs/vision/~xguo/code/LIME.zip)
+- author homepage: [http://cs.tju.edu.cn/orgs/vision/~xguo/homepage.htm](http://cs.tju.edu.cn/orgs/vision/~xguo/homepage.htm)
+
 # SLAM
 
 **Why SLAM Matters, The Future of Real-Time SLAM, and Deep Learning vs SLAM**

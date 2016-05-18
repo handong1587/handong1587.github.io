@@ -113,3 +113,8 @@ date: 2016-05-16
 **ICLR 2016 Takeaways: Adversarial Models & Optimization**
 
 [https://indico.io/blog/iclr-2016-takeaways/](https://indico.io/blog/iclr-2016-takeaways/)
+
+**WACV 2016: IEEE Winter Conference on Applications of Computer Vision**
+
+- homepage: [http://www.wacv16.org/](http://www.wacv16.org/)
+- youtube: [https://www.youtube.com/channel/UCdV5ooxkvhbpmv0_3MzIo9g/videos](https://www.youtube.com/channel/UCdV5ooxkvhbpmv0_3MzIo9g/videos)

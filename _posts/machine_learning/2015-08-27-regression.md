@@ -40,3 +40,7 @@ date: 2015-08-27
 **Principal Components Regression**
 
 - "Pt.1: The Standard Method": [http://www.win-vector.com/blog/2016/05/pcr_part1_xonly/](http://www.win-vector.com/blog/2016/05/pcr_part1_xonly/)
+
+**The Sigmoid Function in Logistic Regression**
+
+[http://karlrosaen.com/ml/notebooks/logistic-regression-why-sigmoid/](http://karlrosaen.com/ml/notebooks/logistic-regression-why-sigmoid/)

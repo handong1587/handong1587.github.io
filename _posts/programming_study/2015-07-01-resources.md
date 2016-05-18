@@ -66,6 +66,12 @@ date: 2015-07-01
  
 - blog: [https://www.nayuki.io/page/a-fundamental-introduction-to-x86-assembly-programming](https://www.nayuki.io/page/a-fundamental-introduction-to-x86-assembly-programming)
 
+# Vim
+
+**Things About Vim I Wish I Knew Earlier**
+
+- blog: [http://blog.petrzemek.net/2016/04/06/things-about-vim-i-wish-i-knew-earlier/](http://blog.petrzemek.net/2016/04/06/things-about-vim-i-wish-i-knew-earlier/)
+
 # Codes
 
 **The Archive of Interesting Code**

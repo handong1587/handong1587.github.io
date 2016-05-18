@@ -262,6 +262,13 @@ Its simple, and is ideal for rapid prototyping."
 - github: [https://github.com/VinF/deer/](https://github.com/VinF/deer/)
 - docs: [http://deer.readthedocs.io/en/latest/](http://deer.readthedocs.io/en/latest/)
 
+**KEras Reinforcement Learning gYM agents, KeRLym**
+
+![](https://camo.githubusercontent.com/b139d5724f24d794015c1c92c9f2d59e201ab126/68747470733a2f2f7062732e7477696d672e636f6d2f6d656469612f436971376e4a4a555941454234724b2e6a70673a6c61726765)
+
+- homepage: [http://kerlym.com/](http://kerlym.com/)
+- github: [https://github.com/osh/kerlym](https://github.com/osh/kerlym)
+
 # Blogs
 
 **A Short Introduction To Some Reinforcement Learning Algorithms**

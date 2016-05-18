@@ -27,6 +27,10 @@ date: 2015-10-09
 - arXiv: [http://arxiv.org/abs/1511.06410](http://arxiv.org/abs/1511.06410)
 - MIT tech review: [http://www.technologyreview.com/view/544181/how-facebooks-ai-researchers-built-a-game-changing-go-engine/](http://www.technologyreview.com/view/544181/how-facebooks-ai-researchers-built-a-game-changing-go-engine/)
 
+**Computer Go Research - The Challenges Ahead (Martin Müller. IEEE CIG 2015)**
+
+- homepage: [https://webdocs.cs.ualberta.ca/~mmueller/talks.html](https://webdocs.cs.ualberta.ca/~mmueller/talks.html)
+
 ## AlphaGo
 
 **Mastering the game of Go with deep neural networks and tree search (AlphaGo. Google DeepMind)**
