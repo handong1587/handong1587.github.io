@@ -90,7 +90,7 @@ image salience, canvas constraint, natural preference, and user interaction"
 - homepage: [http://research.microsoft.com/apps/pubs/default.aspx?id=204877](http://research.microsoft.com/apps/pubs/default.aspx?id=204877)
 - paper: [http://research.microsoft.com/pubs/204877/mm035-yin.pdf](http://research.microsoft.com/pubs/204877/mm035-yin.pdf)
 
-# Video Tapestries
+# Video Tapestry
 
 **Digital Tapestry (MSR. CVPR 2005)**
 
@@ -108,3 +108,66 @@ in digital tapestry, although some artifact removal methods can be used"
 
 - paper: [http://www.connellybarnes.com/work/publications/2010_tapestry_electronic.pdf](http://www.connellybarnes.com/work/publications/2010_tapestry_electronic.pdf)
 - homepage: [http://gfx.cs.princeton.edu/gfx/pubs/Barnes_2010_VTW/index.php](http://gfx.cs.princeton.edu/gfx/pubs/Barnes_2010_VTW/index.php)
+
+# Video Creativity
+
+**6 Seconds of Sound and Vision: Creativity in Micro-Videos (CVPR 2014)**
+
+- arxiv: [http://arxiv.org/abs/1411.4080](http://arxiv.org/abs/1411.4080)
+- homepage: [http://www.di.unito.it/~schifane/dataset/vine-dataset-cvpr14/](http://www.di.unito.it/~schifane/dataset/vine-dataset-cvpr14/)
+
+# Video Highlights
+
+**Ranking Domain-specific Highlights by Analyzing Edited Videos (ECCV 2014)**
+
+![](http://aliensunmin.github.io/project/at-a-glance/highlight_teaser.png)
+
+- intro: use a dataset obtained by crawling Youtube data. find pairs of raw and edited videos, used in training,
+by matching all pairs of videos within a certain category(e.g. gymnastics).
+The size of their dataset is, however, limited by the availability of domain-specific videos in both raw and edited forms.
+- homepage: [http://aliensunmin.github.io/project/at-a-glance/](http://aliensunmin.github.io/project/at-a-glance/)
+- paper: [http://grail.cs.washington.edu/wp-content/uploads/2015/08/sun2014rdh.pdf](http://grail.cs.washington.edu/wp-content/uploads/2015/08/sun2014rdh.pdf)
+- paper: [https://drive.google.com/file/d/0ByJgUdTb1N2CM3Y5VU1BRjlmR3c/edit](https://drive.google.com/file/d/0ByJgUdTb1N2CM3Y5VU1BRjlmR3c/edit)
+- tech: [https://drive.google.com/file/d/0ByJgUdTb1N2CM1ktb1N4RVV3Mzg/view](https://drive.google.com/file/d/0ByJgUdTb1N2CM1ktb1N4RVV3Mzg/view)
+- github: [https://github.com/aliensunmin/DomainSpecificHighlight](https://github.com/aliensunmin/DomainSpecificHighlight)
+
+**Salient Montages from Unconstrained Videos**
+
+![](http://aliensunmin.github.io/project/at-a-glance/montage_teaser.png)
+
+- homepage: [http://aliensunmin.github.io/project/at-a-glance/](http://aliensunmin.github.io/project/at-a-glance/)
+- paper: [http://grail.cs.washington.edu/wp-content/uploads/2015/08/sun2014smf.pdf](http://grail.cs.washington.edu/wp-content/uploads/2015/08/sun2014smf.pdf)
+- paper: [https://drive.google.com/file/d/0ByJgUdTb1N2CbzNYTjdxX0ZiRmc/edit](https://drive.google.com/file/d/0ByJgUdTb1N2CbzNYTjdxX0ZiRmc/edit)
+- github: [https://github.com/aliensunmin/salientMontages](https://github.com/aliensunmin/salientMontages)
+
+**Unsupervised Extraction of Video Highlights Via Robust Recurrent Auto-encoders (ICCV 2015)**
+
+- intro: rely on an assumption that highlights of an event category are more frequently captured in short videos than non-highlights
+- arxiv: [http://arxiv.org/abs/1510.01442](http://arxiv.org/abs/1510.01442)
+
+# Video Summarization
+
+**Creating Summaries from User Videos (ECCV 2014)**
+
+![](http://www.vision.ee.ethz.ch/~hegrabne/visualInterestingness/vsum.png)
+
+- project page: [https://people.ee.ethz.ch/~gyglim/vsum/index.php](https://people.ee.ethz.ch/~gyglim/vsum/index.php)
+- paper: [https://people.ee.ethz.ch/~gyglim/vsum/GygliECCV14_vsum.pdf](https://people.ee.ethz.ch/~gyglim/vsum/GygliECCV14_vsum.pdf)
+- paper: [http://www.vision.ee.ethz.ch/~hegrabne/papers/Gygli2014CreatingSummariesfrom.pdf](http://www.vision.ee.ethz.ch/~hegrabne/papers/Gygli2014CreatingSummariesfrom.pdf)
+- code: [https://people.ee.ethz.ch/~gyglim/vsum/index.php#sf_code](https://people.ee.ethz.ch/~gyglim/vsum/index.php#sf_code) 
+
+**Video Summarization by Learning Submodular Mixtures of Objectives (CVPR 2015)**
+
+![](http://www.vision.ee.ethz.ch/~hegrabne/visualInterestingness/vsum2.jpg)
+
+- paper: [http://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Gygli_Video_Summarization_by_2015_CVPR_paper.pdf](http://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Gygli_Video_Summarization_by_2015_CVPR_paper.pdf)
+
+**TVSum: Summarizing Web Videos Using Titles**
+
+![](https://qph.is.quoracdn.net/main-qimg-0c0bb88876258e99272200655e2dc2ea?convert_to_webp=true)
+
+- paper: [http://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Song_TVSum_Summarizing_Web_2015_CVPR_paper.pdf](http://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Song_TVSum_Summarizing_Web_2015_CVPR_paper.pdf)
+
+**Summarizing While Recording: Context-Based Highlight Detection for Egocentric Videos**
+
+- paper: [http://www.umiacs.umd.edu/~morariu/publications/LinEgocentricICCVW15.pdf](http://www.umiacs.umd.edu/~morariu/publications/LinEgocentricICCVW15.pdf)

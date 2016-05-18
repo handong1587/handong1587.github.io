@@ -15,6 +15,7 @@ date: 2015-10-01
 **Artificial Intelligence - A Modern Approach (Russell And Norvig)**
 
 - github: [https://github.com/aimacode/aima-python](https://github.com/aimacode/aima-python)
+- github: [https://github.com/aimacode/aima-java](https://github.com/aimacode/aima-java)
 
 # Papers
 

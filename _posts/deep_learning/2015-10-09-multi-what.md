@@ -78,6 +78,10 @@ accuracy and the detection and localization accuracy of all tasks
 - github: [https://github.com/xiaolonw/nips14_loc_seg_testonly](https://github.com/xiaolonw/nips14_loc_seg_testonly)
 - dataset: [http://objectextraction.github.io/](http://objectextraction.github.io/)
 
+**Multi-Task Deep Visual-Semantic Embedding for Video Thumbnail Selection (CVPR 2015)**
+
+- paper: [http://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Liu_Multi-Task_Deep_Visual-Semantic_2015_CVPR_paper.pdf](http://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Liu_Multi-Task_Deep_Visual-Semantic_2015_CVPR_paper.pdf)
+
 **Learning deep representation of multityped objects and tasks**
 
 - arxiv: [http://arxiv.org/abs/1603.01359](http://arxiv.org/abs/1603.01359)
