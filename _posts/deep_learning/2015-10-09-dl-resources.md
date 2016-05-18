@@ -483,6 +483,10 @@ with fast exact probabilistic inference over many layers."
 - arxiv: [http://arxiv.org/abs/1603.08474](http://arxiv.org/abs/1603.08474)
 - github: [https://github.com/oswaldoludwig/visually-informed-embedding-of-word-VIEW-](https://github.com/oswaldoludwig/visually-informed-embedding-of-word-VIEW-)
 
+**Learning Convolutional Neural Networks for Graphs**
+
+- arxiv: [http://arxiv.org/abs/1605.05273](http://arxiv.org/abs/1605.05273)
+
 # Projects
 
 **Top Deep Learning Projects**

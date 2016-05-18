@@ -360,6 +360,10 @@ Bicubic VS. Shepard CNN
 
 [http://ml4a.github.io/dev/demos/cifar_confusion.html#](http://ml4a.github.io/dev/demos/cifar_confusion.html#)
 
+**mojo cnn: c++ convolutional neural network**
+
+- github: [https://github.com/gnawice/mojo-cnn](https://github.com/gnawice/mojo-cnn)
+
 # Blogs
 
 **我对卷积的理解**
