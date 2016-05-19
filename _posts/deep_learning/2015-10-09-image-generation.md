@@ -90,6 +90,10 @@ date: 2015-10-09
 - arxiv: [http://arxiv.org/abs/1602.05110](http://arxiv.org/abs/1602.05110)
 - github: [https://github.com/jiwoongim/GRAN](https://github.com/jiwoongim/GRAN)
 
+**Generative Adversarial Text to Image Synthesis (ICML 2016)**
+
+- arxiv: [http://arxiv.org/abs/1605.05396](http://arxiv.org/abs/1605.05396)
+
 # Blogs
 
 **Torch convolutional GAN: Generating Faces with Torch**

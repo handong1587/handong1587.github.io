@@ -21,6 +21,12 @@ date: 2015-10-09
 
 - blog: [http://timdettmers.com/2015/03/09/deep-learning-hardware-guide/](http://timdettmers.com/2015/03/09/deep-learning-hardware-guide/)
 
+**Build your own Deep Learning Box**
+
+![](https://annalyzin.files.wordpress.com/2016/05/deep-stack.png?w=276&h=264)
+
+- blog: [https://annalyzin.wordpress.com/2016/05/19/build-a-deep-learning-box/](https://annalyzin.wordpress.com/2016/05/19/build-a-deep-learning-box/)
+
 # GPU
 
 **Course on CUDA Programming on NVIDIA GPUs, July 27--31, 2015**

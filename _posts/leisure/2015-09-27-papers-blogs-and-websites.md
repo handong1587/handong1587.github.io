@@ -7,6 +7,10 @@ date: 2015-09-27
 
 # Blogs
 
+**The Death of Greatness**
+
+[http://kongming.net/novel/writings/blanning/death_of_greatness.php](http://kongming.net/novel/writings/blanning/death_of_greatness.php)
+
 # Websites
 
 **Bodies left on Everest**

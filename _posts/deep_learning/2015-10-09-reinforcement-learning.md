@@ -85,6 +85,7 @@ date: 2015-10-09
 - youtube: [https://www.youtube.com/watch?v=V2wzkPmiB_A](https://www.youtube.com/watch?v=V2wzkPmiB_A)
 - github: [https://github.com/kuz/DeepMind-Atari-Deep-Q-Learner](https://github.com/kuz/DeepMind-Atari-Deep-Q-Learner)
 - github: [https://github.com/tambetm/simple_dqn](https://github.com/tambetm/simple_dqn)
+- github: [https://github.com/devsisters/DQN-tensorflow](https://github.com/devsisters/DQN-tensorflow)
 - discussion: [https://www.reddit.com/r/MachineLearning/comments/2x4yy1/google_deepmind_nature_paper_humanlevel_control](https://www.reddit.com/r/MachineLearning/comments/2x4yy1/google_deepmind_nature_paper_humanlevel_control)
 
 **Data-Efficient Learning of Feedback Policies from Image Pixels using Deep Dynamical Models**
@@ -191,6 +192,10 @@ date: 2015-10-09
 - homepage: [http://vizdoom.cs.put.edu.pl/](http://vizdoom.cs.put.edu.pl/)
 - tutorial: [http://vizdoom.cs.put.edu.pl/tutorial](http://vizdoom.cs.put.edu.pl/tutorial)
 
+**Hierarchical Reinforcement Learning using Spatio-Temporal Abstractions and Deep Neural Networks**
+
+- arxiv: [http://arxiv.org/abs/1605.05359](http://arxiv.org/abs/1605.05359)
+
 # Projects
 
 **Using Deep Q-Network to Learn How To Play Flappy Bird**
@@ -268,6 +273,11 @@ Its simple, and is ideal for rapid prototyping."
 
 - homepage: [http://kerlym.com/](http://kerlym.com/)
 - github: [https://github.com/osh/kerlym](https://github.com/osh/kerlym)
+
+**Pack of Drones: Layered reinforcement learning for complex behaviors**
+
+- github: [https://github.com/MickyDowns/deep-theano-rnn-lstm-car](https://github.com/MickyDowns/deep-theano-rnn-lstm-car)
+- youtube: [https://www.youtube.com/watch?v=WrLRGzbfeZc](https://www.youtube.com/watch?v=WrLRGzbfeZc)
 
 # Blogs
 

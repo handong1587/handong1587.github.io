@@ -171,3 +171,8 @@ date: 2015-10-09
 
 - homepage: [http://places.csail.mit.edu/visualizationCNN.html](http://places.csail.mit.edu/visualizationCNN.html)
 - DrawCNN: [http://people.csail.mit.edu/torralba/research/drawCNN/drawNet.html](http://people.csail.mit.edu/torralba/research/drawCNN/drawNet.html)
+
+**Visualization of a feed forward Neural Network using MNIST dataset**
+
+- homepage: [http://nn-mnist.sennabaum.com/](http://nn-mnist.sennabaum.com/)
+- github: [https://github.com/csenn/nn-visualizer](https://github.com/csenn/nn-visualizer)

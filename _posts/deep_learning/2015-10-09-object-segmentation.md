@@ -136,6 +136,14 @@ using the stochastic gradient descent (SGD) algorithm to obtain fine pixel-level
 
 - arxiv: [http://arxiv.org/abs/1603.04871](http://arxiv.org/abs/1603.04871)
 
+**Segmentation from Natural Language Expressions**
+
+![](http://ronghanghu.com/wp-content/uploads/text_objseg_method-768x331.jpg)
+
+- homepage: [http://ronghanghu.com/text_objseg/](http://ronghanghu.com/text_objseg/)
+- arxiv: [http://arxiv.org/abs/1603.06180](http://arxiv.org/abs/1603.06180)
+- github: [https://github.com/ronghanghu/text_objseg](https://github.com/ronghanghu/text_objseg)
+
 **Semantic Object Parsing with Graph LSTM**
 
 - arxiv: [http://arxiv.org/abs/1603.07063](http://arxiv.org/abs/1603.07063)
