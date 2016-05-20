@@ -12,6 +12,7 @@ date: 2015-10-09
 - github: [https://github.com/shawntan/neural-turing-machines](https://github.com/shawntan/neural-turing-machines)
 - github: [https://github.com/DoctorTeeth/diffmem](https://github.com/DoctorTeeth/diffmem)
 - github: [https://github.com/carpedm20/NTM-tensorflow](https://github.com/carpedm20/NTM-tensorflow)
+- blog: [https://blog.aidangomez.ca/2016/05/16/The-Neural-Turing-Machine/](https://blog.aidangomez.ca/2016/05/16/The-Neural-Turing-Machine/)
 
 **Memory Networks(Facebook AI Research)**
 

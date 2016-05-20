@@ -44,3 +44,8 @@ date: 2015-08-27
 **The Sigmoid Function in Logistic Regression**
 
 [http://karlrosaen.com/ml/notebooks/logistic-regression-why-sigmoid/](http://karlrosaen.com/ml/notebooks/logistic-regression-why-sigmoid/)
+
+**Sequence prediction using recurrent neural networks(LSTM) with TensorFlow: LSTM regression using TensorFlow**
+
+- blog: [http://mourafiq.com/2016/05/15/predicting-sequences-using-rnn-in-tensorflow.html](http://mourafiq.com/2016/05/15/predicting-sequences-using-rnn-in-tensorflow.html)
+- github: [https://github.com/mouradmourafiq/tensorflow-lstm-regression](https://github.com/mouradmourafiq/tensorflow-lstm-regression)

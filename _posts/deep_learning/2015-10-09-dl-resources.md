@@ -657,6 +657,12 @@ This was tested on a 64 bit machine with Nvidia Titan X, running Ubuntu 14.04
 
 - github: [https://github.com/Vict0rSch/deep_learning](https://github.com/Vict0rSch/deep_learning)
 
+**Deep Learning: Definition, Resources, Comparison with Machine Learning**
+
+![](http://api.ning.com/files/mRIiJdI0bcyTIJftimMbMYW4VRcz-NC1gCERsgtyu*mNietZRBt5g3AUs06WtU2BigiPWs1MvWCYq6bsuWrNbsG1KBqrcm8b/Capture.PNG)
+
+- blog: [http://www.datasciencecentral.com/profiles/blogs/deep-learning-definition-resources-comparison-with-machine-learni](http://www.datasciencecentral.com/profiles/blogs/deep-learning-definition-resources-comparison-with-machine-learni)
+
 # Tools
 
 **DNNGraph - A deep neural network model generation DSL in Haskell**

@@ -375,6 +375,11 @@ date: 2015-10-09
 
 [https://shapeofdata.wordpress.com/2016/04/27/rolling-and-unrolling-rnns/](https://shapeofdata.wordpress.com/2016/04/27/rolling-and-unrolling-rnns/)
 
+**Sequence prediction using recurrent neural networks(LSTM) with TensorFlow: LSTM regression using TensorFlow**
+
+- blog: [http://mourafiq.com/2016/05/15/predicting-sequences-using-rnn-in-tensorflow.html](http://mourafiq.com/2016/05/15/predicting-sequences-using-rnn-in-tensorflow.html)
+- github: [https://github.com/mouradmourafiq/tensorflow-lstm-regression](https://github.com/mouradmourafiq/tensorflow-lstm-regression)
+
 # Resources
 
 **Awesome Recurrent Neural Networks - A curated list of resources dedicated to RNN**

@@ -235,6 +235,7 @@ Bicubic VS. Shepard CNN
 - arxiv: [http://arxiv.org/abs/1605.04850](http://arxiv.org/abs/1605.04850)
 - github(dataset): [https://github.com/gyglim/video2gif_dataset](https://github.com/gyglim/video2gif_dataset)
 - results: [http://video2gif.info/](http://video2gif.info/)
+- review: [http://motherboard.vice.com/read/these-fire-gifs-were-made-by-artificial-intelligence-yahoo](http://motherboard.vice.com/read/these-fire-gifs-were-made-by-artificial-intelligence-yahoo)
 
 ## Pose Estimation 
 

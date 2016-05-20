@@ -14,7 +14,7 @@ date: 2015-10-09
 
 - paper: [http://www.matthewzeiler.com/pubs/cvpr2010/cvpr2010.pdf](http://www.matthewzeiler.com/pubs/cvpr2010/cvpr2010.pdf)
 
-**Visualizing and Understanding Convolutional Network**:
+**Visualizing and Understanding Convolutional Network**
 
 - paper: [http://arxiv.org/abs/1311.2901](http://arxiv.org/abs/1311.2901)
 - slides: [https://courses.cs.washington.edu/courses/cse590v/14au/cse590v_dec5_DeepVis.pdf](https://courses.cs.washington.edu/courses/cse590v/14au/cse590v_dec5_DeepVis.pdf)
@@ -22,32 +22,32 @@ date: 2015-10-09
 - video: [http://videolectures.net/eccv2014_zeiler_convolutional_networks/](http://videolectures.net/eccv2014_zeiler_convolutional_networks/)
 - chs: [http://blog.csdn.net/kklots/article/details/17136059](http://blog.csdn.net/kklots/article/details/17136059)
 
-**Deep Inside Convolutional Networks: Visualising Image Classification Models and Saliency Maps**:
+**Deep Inside Convolutional Networks: Visualising Image Classification Models and Saliency Maps (ICLR 2014 workshop)**
 
 - paper: [http://arxiv.org/abs/1312.6034](http://arxiv.org/abs/1312.6034)
 - github: [https://github.com/yasunorikudo/vis-cnn](https://github.com/yasunorikudo/vis-cnn)
 
-**Understanding Deep Image Representations by Inverting Them**:
+**Understanding Deep Image Representations by Inverting Them**
 
 - paper: [http://arxiv.org/abs/1412.0035](http://arxiv.org/abs/1412.0035)
 - code: [https://github.com/aravindhm/deep-goggle](https://github.com/aravindhm/deep-goggle)
 
-**deepViz: Visualizing Convolutional Neural Networks for Image Classification**:
+**deepViz: Visualizing Convolutional Neural Networks for Image Classification**
 
 - paper: [http://vis.berkeley.edu/courses/cs294-10-fa13/wiki/images/f/fd/DeepVizPaper.pdf](http://vis.berkeley.edu/courses/cs294-10-fa13/wiki/images/f/fd/DeepVizPaper.pdf)
 - code: [https://github.com/bruckner/deepViz](https://github.com/bruckner/deepViz)
 
-**Inverting Convolutional Networks with Convolutional Networks**:
+**Inverting Convolutional Networks with Convolutional Networks**
 
 - paper: [http://arxiv.org/abs/1506.02753](http://arxiv.org/abs/1506.02753)
 
-**Understanding Neural Networks Through Deep Visualization**:
+**Understanding Neural Networks Through Deep Visualization**
 
 - paper: [http://arxiv.org/abs/1506.06579](http://arxiv.org/abs/1506.06579)
 - project: [http://yosinski.com/deepvis](http://yosinski.com/deepvis)
 - code: [https://github.com/yosinski/deep-visualization-toolbox](https://github.com/yosinski/deep-visualization-toolbox)
 
-**Visualizing Higher-Layer Features of a Deep Network**:
+**Visualizing Higher-Layer Features of a Deep Network**
 
 - paper: [http://www.iro.umontreal.ca/~lisa/publications2/index.php/publications/show/247](http://www.iro.umontreal.ca/~lisa/publications2/index.php/publications/show/247)
 
@@ -102,11 +102,11 @@ date: 2015-10-09
 - project: [http://317070.github.io/Dream/](http://317070.github.io/Dream/)
 - code: [https://github.com/317070/Twitch-plays-LSD-neural-net](https://github.com/317070/Twitch-plays-LSD-neural-net)
 
-**deepdream**:
+**deepdream**
 
 - code: [https://github.com/google/deepdream](https://github.com/google/deepdream)
 
-**cnn-vis**:
+**cnn-vis**
 
 - code: [https://github.com/jcjohnson/cnn-vis](https://github.com/jcjohnson/cnn-vis)
 

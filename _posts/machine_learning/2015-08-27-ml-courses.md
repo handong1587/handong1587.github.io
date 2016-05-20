@@ -138,3 +138,12 @@ date: 2015-08-27
 - intro:  Online Learning, Multi-Armed Bandits, Active Learning, Human-in-the-Loop Learning, Reinforcement Learning
 - instructor: Yisong Yue
 - homepage: [http://www.yisongyue.com/courses/cs159/](http://www.yisongyue.com/courses/cs159/)
+
+**Advanced Statistical Computing (Vanderbilt University)**
+
+- intro: Course covers numerical optimization, Markov Chain Monte Carlo (MCMC), Metropolis-Hastings, Gibbs sampling, 
+estimation-maximization (EM) algorithms, data augmentation algorithms 
+with applications for model fitting and techniques for dealing with missing data
+- homepage: [http://stronginference.com/Bios8366/](http://stronginference.com/Bios8366/)
+- lecture: [http://stronginference.com/Bios8366/lectures.html](http://stronginference.com/Bios8366/lectures.html)
+- github: [https://github.com/fonnesbeck/Bios8366](https://github.com/fonnesbeck/Bios8366)

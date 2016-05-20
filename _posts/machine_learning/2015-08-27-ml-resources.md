@@ -474,6 +474,11 @@ simplify the construction of large scale, end-to-end, machine learning pipelines
 - homepage: [https://fidoproject.github.io/](https://fidoproject.github.io/)
 - github: [https://github.com/FidoProject/Fido](https://github.com/FidoProject/Fido)
 
+**rusty-machine: Machine Learning library for Rust**
+
+- homepage: [https://crates.io/crates/rusty-machine/](https://crates.io/crates/rusty-machine/)
+- github: [https://github.com/AtheMathmo/rusty-machine](https://github.com/AtheMathmo/rusty-machine)
+
 # Readings and Questions
 
 **(Quora): What are the top 10 data mining or machine learning algorithms?**

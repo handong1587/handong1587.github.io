@@ -201,6 +201,14 @@ date: 2015-09-12
 - github: [http://cs.tju.edu.cn/orgs/vision/~xguo/code/LIME.zip](http://cs.tju.edu.cn/orgs/vision/~xguo/code/LIME.zip)
 - author homepage: [http://cs.tju.edu.cn/orgs/vision/~xguo/homepage.htm](http://cs.tju.edu.cn/orgs/vision/~xguo/homepage.htm)
 
+**SelPh: Progressive Learning and Support of Manual Photo Color Enhancement**
+
+![](http://koyama.xyz/project/SelPh/teaser1.gif)
+
+- homepage: [http://koyama.xyz/project/SelPh/](http://koyama.xyz/project/SelPh/)
+- paper: [http://koyama.xyz/project/SelPh/chi2016_paper.pdf](http://koyama.xyz/project/SelPh/chi2016_paper.pdf)
+- bitbucket: [https://bitbucket.org/yukikoyama/selph/](https://bitbucket.org/yukikoyama/selph/)
+
 # SLAM
 
 **Why SLAM Matters, The Future of Real-Time SLAM, and Deep Learning vs SLAM**
