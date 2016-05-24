@@ -17,5 +17,11 @@ date: 2015-10-09
 - project page: [http://imagine.enpc.fr/~zagoruys/deepcompare.html](http://imagine.enpc.fr/~zagoruys/deepcompare.html)
 - github: [https://github.com/szagoruyko/cvpr15deepcompare](https://github.com/szagoruyko/cvpr15deepcompare)
 
+## Person Re-identification
+
+**PersonNet: Person Re-identification with Deep Convolutional Neural Networks**
+
+- arxiv: [http://arxiv.org/abs/1601.07255](http://arxiv.org/abs/1601.07255)
+
 # Videos
 

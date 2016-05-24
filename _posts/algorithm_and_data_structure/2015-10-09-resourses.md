@@ -50,6 +50,15 @@ date: 2015-07-01
 
 - github: [https://github.com/lemire/bloofi](https://github.com/lemire/bloofi)
 
+# Tools
+
+**Algorithm Visualizer**
+
+![](https://camo.githubusercontent.com/1d2e3b7d06c18d8e4e49d34cf06622b5d405b01a/687474703a2f2f692e67697068792e636f6d2f336f3645684a46677379536858364d48654d2e676966)
+
+- homepage: [http://jasonpark.me/AlgorithmVisualizer/](http://jasonpark.me/AlgorithmVisualizer/)
+- github: [https://github.com/parkjs814/AlgorithmVisualizer](https://github.com/parkjs814/AlgorithmVisualizer)
+
 # Resources
 
 **The Algorithm Design Manual, 2nd Edition**

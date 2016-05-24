@@ -114,6 +114,7 @@ to decompose it into the multiplications of thinned dense matrices"
 - intro: "Extensive experiments on the ILSVRC-12 benchmark demonstrate 
 4 ∼ 6× speed-up and 15 ∼ 20× compression with merely one percentage loss of classification accuracy"
 - arxiv: [http://arxiv.org/abs/1512.06473](http://arxiv.org/abs/1512.06473)
+- github: [https://github.com/jiaxiang-wu/quantized-cnn](https://github.com/jiaxiang-wu/quantized-cnn)
 
 **Convolutional Tables Ensemble: classification in microseconds**
 

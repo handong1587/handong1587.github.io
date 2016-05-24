@@ -13,9 +13,13 @@ date: 2015-10-09
 
 # Hardware System
 
-**Building a Deep Learning (Dream) Machine**
+**I: Building a Deep Learning (Dream) Machine**
 
 - blog: [http://graphific.github.io/posts/building-a-deep-learning-dream-machine/](http://graphific.github.io/posts/building-a-deep-learning-dream-machine/)
+
+**II: Running a Deep Learning (Dream) Machine**
+
+- blog: [http://graphific.github.io/posts/running-a-deep-learning-dream-machine/](http://graphific.github.io/posts/running-a-deep-learning-dream-machine/)
 
 **A Full Hardware Guide to Deep Learning**
 

@@ -49,3 +49,7 @@ date: 2015-08-27
 
 - blog: [http://mourafiq.com/2016/05/15/predicting-sequences-using-rnn-in-tensorflow.html](http://mourafiq.com/2016/05/15/predicting-sequences-using-rnn-in-tensorflow.html)
 - github: [https://github.com/mouradmourafiq/tensorflow-lstm-regression](https://github.com/mouradmourafiq/tensorflow-lstm-regression)
+
+**From simple Regression to Multiple Regression with Decision Trees**
+
+[https://blog.cambridgecoding.com/2016/01/10/from-simple-regression-to-multiple-regression-with-decision-trees/](https://blog.cambridgecoding.com/2016/01/10/from-simple-regression-to-multiple-regression-with-decision-trees/)

@@ -144,6 +144,7 @@ date: 2015-10-09
 **Asynchronous Methods for Deep Reinforcement Learning**
 
 - arxiv: [http://arxiv.org/abs/1602.01783](http://arxiv.org/abs/1602.01783)
+- github(Tensorflow): [https://github.com/traai/async-deep-rl](https://github.com/traai/async-deep-rl)
 
 **Graying the black box: Understanding DQNs**
 
@@ -327,6 +328,7 @@ Its simple, and is ideal for rapid prototyping."
 **learning to do laps with reinforcement learning and neural nets**
 
 ![](http://matpalm.com/blog/imgs/2016/drivebot/walk.gif)
+![](http://matpalm.com/blog/imgs/2016/drivebot/runt.jpg)
 
 - blog: [http://matpalm.com/blog/drivebot/](http://matpalm.com/blog/drivebot/)
 - github: [https://github.com/matpalm/drivebot](https://github.com/matpalm/drivebot)

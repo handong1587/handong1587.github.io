@@ -399,6 +399,10 @@ for building Deep Learning (DL) machine learning (ML) models
 
 - github: [https://github.com/sjchoi86/Tensorflow-101](https://github.com/sjchoi86/Tensorflow-101)
 
+**TensorFlow on Spark**
+
+- github: [https://github.com/adatao/tensorspark](https://github.com/adatao/tensorspark)
+
 # Theano
 
 **Theano**

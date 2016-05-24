@@ -89,6 +89,15 @@ date: 2015-10-09
 
 - arxiv: [http://arxiv.org/abs/1603.05027](http://arxiv.org/abs/1603.05027)
 
+**Residual Networks are Exponential Ensembles of Relatively Shallow Networks**
+
+- arxiv: [http://arxiv.org/abs/1605.06431](http://arxiv.org/abs/1605.06431)
+
+**Wide Residual Networks**
+
+- arxiv: [http://arxiv.org/abs/1605.07146](http://arxiv.org/abs/1605.07146)
+- github: [https://github.com/szagoruyko/wide-residual-networks](https://github.com/szagoruyko/wide-residual-networks)
+
 ## Inception-V4
 
 **Inception-V4, Inception-Resnet And The Impact Of Residual Connections On Learning (Workshop track - ICLR 2016)**
@@ -476,10 +485,6 @@ with fast exact probabilistic inference over many layers."
 
 - arxiv: [http://arxiv.org/abs/1603.09114](http://arxiv.org/abs/1603.09114)
 
-**I’m not a human: Breaking the Google reCAPTCHA**
-
-- paper: [https://www.blackhat.com/docs/asia-16/materials/asia-16-Sivakorn-Im-Not-a-Human-Breaking-the-Google-reCAPTCHA-wp.pdf](https://www.blackhat.com/docs/asia-16/materials/asia-16-Sivakorn-Im-Not-a-Human-Breaking-the-Google-reCAPTCHA-wp.pdf)
-
 **Understanding How Image Quality Affects Deep Neural Networks**
 
 - arxiv: [http://arxiv.org/abs/1604.04004](http://arxiv.org/abs/1604.04004)
@@ -494,6 +499,10 @@ with fast exact probabilistic inference over many layers."
 
 - arxiv: [http://arxiv.org/abs/1605.05273](http://arxiv.org/abs/1605.05273)
 
+**Unreasonable Effectiveness of Learning Neural Nets: Accessible States and Robust Ensembles**
+
+- arxiv: [http://arxiv.org/abs/1605.06444](http://arxiv.org/abs/1605.06444)
+
 # Projects
 
 **Top Deep Learning Projects**
@@ -507,17 +516,6 @@ with fast exact probabilistic inference over many layers."
 **DeepNeuralClassifier(Julia): Deep neural network using rectified linear units to classify hand written digits from the MNIST dataset**
 
 - github: [https://github.com/jostmey/DeepNeuralClassifier](https://github.com/jostmey/DeepNeuralClassifier)
-
-**Using deep learning to break a Captcha system**
-
-- intro: "Using Torch code to break simplecaptcha with 92% accuracy"
-- blog: [https://deepmlblog.wordpress.com/2016/01/03/how-to-break-a-captcha-system/](https://deepmlblog.wordpress.com/2016/01/03/how-to-break-a-captcha-system/)
-- github: [https://github.com/arunpatala/captcha](https://github.com/arunpatala/captcha)
-
-**Breaking reddit captcha with 96% accuracy**
-
-- blog: [https://deepmlblog.wordpress.com/2016/01/05/breaking-reddit-captcha-with-96-accuracy/](https://deepmlblog.wordpress.com/2016/01/05/breaking-reddit-captcha-with-96-accuracy/)
-- github: [https://github.com/arunpatala/reddit.captcha](https://github.com/arunpatala/reddit.captcha)
 
 **Clarifai Node.js Demo**
 

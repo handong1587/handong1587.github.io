@@ -108,6 +108,7 @@ date: 2015-10-09
 
 - arXiv: [http://arxiv.org/abs/1410.4615](http://arxiv.org/abs/1410.4615)
 - github: [https://github.com/wojciechz/learning_to_execute](https://github.com/wojciechz/learning_to_execute)
+- github(Tensorflow): [https://github.com/raindeer/seq2seq_experiments](https://github.com/raindeer/seq2seq_experiments)
 
 **Neural Programmer-Interpreters (Google DeepMind. ICLR 2016 Best Paper)**
 
@@ -119,6 +120,7 @@ date: 2015-10-09
 
 - arXiv: [http://arxiv.org/abs/1511.06279](http://arxiv.org/abs/1511.06279)
 - project page: [http://www-personal.umich.edu/~reedscot/iclr_project.html](http://www-personal.umich.edu/~reedscot/iclr_project.html)
+- github: [https://github.com/mokemokechicken/keras_npi](https://github.com/mokemokechicken/keras_npi)
 
 **A Programmer-Interpreter Neural Network Architecture for Prefrontal Cognitive Control**
 
@@ -297,12 +299,6 @@ date: 2015-10-09
 
 - blog: [https://0day.work/using-neural-networks-for-password-cracking/](https://0day.work/using-neural-networks-for-password-cracking/)
 - github: [https://github.com/gehaxelt/RNN-Passwords](https://github.com/gehaxelt/RNN-Passwords)
-
-**Recurrent neural networks for decoding CAPTCHAS**
-
-- blog: [https://deepmlblog.wordpress.com/2016/01/12/recurrent-neural-networks-for-decoding-captchas/](https://deepmlblog.wordpress.com/2016/01/12/recurrent-neural-networks-for-decoding-captchas/)
-- demo: [http://simplecaptcha.sourceforge.net/](http://simplecaptcha.sourceforge.net/)
-- code: [http://sourceforge.net/projects/simplecaptcha/](http://sourceforge.net/projects/simplecaptcha/)
 
 **torch-rnn: Efficient, reusable RNNs and LSTMs for torch**
 

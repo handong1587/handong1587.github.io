@@ -54,6 +54,11 @@ date: 2015-10-09
 
 - arxiv: [https://arxiv.org/abs/1604.00676](https://arxiv.org/abs/1604.00676)
 
+**Learning activation functions from data using cubic spline interpolation**
+
+- arxiv: [http://arxiv.org/abs/1605.05509](http://arxiv.org/abs/1605.05509)
+- bitbucket: [https://bitbucket.org/ispamm/spline-nn](https://bitbucket.org/ispamm/spline-nn)
+
 # Weights Initialization
 
 **An Explanation of Xavier Initialization**

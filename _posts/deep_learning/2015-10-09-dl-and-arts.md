@@ -247,11 +247,13 @@ with the style of another image using convolutional neural networks
 
 [https://www.kadenze.com/courses/machine-learning-for-musicians-and-artists/info](https://www.kadenze.com/courses/machine-learning-for-musicians-and-artists/info)
 
-**Machine learning for artists**
+**Machine learning for artists @ ITP-NYU, Spring 2016**
 
 ![](http://www.kdnuggets.com/wp-content/uploads/mona-lisa.jpg)
 
 - videos/lectures/course notes: [[http://ml4a.github.io/classes/itp-S16/]]([http://ml4a.github.io/classes/itp-S16/])
+- index: [http://ml4a.github.io/index/](http://ml4a.github.io/index/)
+- github: [https://github.com/ml4a/ml4a.github.io/tree/master/_posts](https://github.com/ml4a/ml4a.github.io/tree/master/_posts)
 - notes: [http://www.kdnuggets.com/2016/04/machine-learning-artists-video-lectures-notes.html](http://www.kdnuggets.com/2016/04/machine-learning-artists-video-lectures-notes.html)
 - blog: [https://medium.com/@genekogan/machine-learning-for-artists-e93d20fdb097#.25w95beqb](https://medium.com/@genekogan/machine-learning-for-artists-e93d20fdb097#.25w95beqb)
 
