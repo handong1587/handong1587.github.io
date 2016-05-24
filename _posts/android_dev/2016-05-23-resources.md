@@ -7,9 +7,17 @@ date: 2016-05-23
 
 # Valgrind
 
+**Valgrind**
+
+- intro: Valgrind is an instrumentation framework for building dynamic analysis tools. 
+There are Valgrind tools that can automatically detect many memory management and threading bugs, 
+and profile your programs in detail.
+- homepage: [http://valgrind.org/](http://valgrind.org/)
+
 **The compiler under Windows Valgrind for Android**
 
-[http://www.programering.com/a/MjM3UzMwATE.html](http://www.programering.com/a/MjM3UzMwATE.html)
+- intro: Windows 7, Cygwin, Valgrind 3.9.0
+- blog: [http://www.programering.com/a/MjM3UzMwATE.html](http://www.programering.com/a/MjM3UzMwATE.html)
 
 **Building and running valgrind on Android**
 

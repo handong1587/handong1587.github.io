@@ -70,3 +70,10 @@ Burn Blu-ray or DVD discs with menus.
 Apply various effects and filters. Record audio from various inputs. Save files to all key audio formats.
 - website: [http://www.avs4you.com/AVS-Audio-Editor.aspx](http://www.avs4you.com/AVS-Audio-Editor.aspx)
 
+**Dos2Unix / Unix2Dos - Text file format converters**
+
+![](http://dos2unix.sourceforge.net/dos2unix2mac.png)
+
+- homepage: [http://waterlan.home.xs4all.nl/dos2unix.html](http://waterlan.home.xs4all.nl/dos2unix.html)
+- homepage: [http://dos2unix.sourceforge.net/](http://dos2unix.sourceforge.net/)
+- download(dos2unix): [http://waterlan.home.xs4all.nl/dos2unix.html#DOS2UNIX](http://waterlan.home.xs4all.nl/dos2unix.html#DOS2UNIX)
