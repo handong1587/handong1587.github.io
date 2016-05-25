@@ -147,3 +147,9 @@ with applications for model fitting and techniques for dealing with missing data
 - homepage: [http://stronginference.com/Bios8366/](http://stronginference.com/Bios8366/)
 - lecture: [http://stronginference.com/Bios8366/lectures.html](http://stronginference.com/Bios8366/lectures.html)
 - github: [https://github.com/fonnesbeck/Bios8366](https://github.com/fonnesbeck/Bios8366)
+
+**Stanford CS229: Machine Learning Spring 2016**
+
+- instructor: John Duchi
+- homepage: [http://cs229.stanford.edu/](http://cs229.stanford.edu/)
+- materials: [http://cs229.stanford.edu/materials.html](http://cs229.stanford.edu/materials.html)

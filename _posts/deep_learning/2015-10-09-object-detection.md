@@ -290,10 +290,18 @@ MSCOCO 2015 test:
 - phd-thesis: [http://www.eecs.berkeley.edu/Pubs/TechRpts/2015/EECS-2015-193.pdf](http://www.eecs.berkeley.edu/Pubs/TechRpts/2015/EECS-2015-193.pdf)
 - github("SDS using hypercolumns"): [https://github.com/bharath272/sds](https://github.com/bharath272/sds)
 
+## T-CNN
+
 **T-CNN: Tubelets with Convolutional Neural Networks for Object Detection from Videos**
 
 - arxiv: [http://arxiv.org/abs/1604.02532](http://arxiv.org/abs/1604.02532)
 - github: [https://github.com/myfavouritekk/T-CNN](https://github.com/myfavouritekk/T-CNN)
+
+**Object Detection from Video Tubelets with Convolutional Neural Networks (CVPR 2016 Spotlight paper)**
+
+- arxiv: [https://arxiv.org/abs/1604.04053](https://arxiv.org/abs/1604.04053)
+- paper: [http://www.ee.cuhk.edu.hk/~wlouyang/Papers/KangVideoDet_CVPR16.pdf](http://www.ee.cuhk.edu.hk/~wlouyang/Papers/KangVideoDet_CVPR16.pdf)
+- gihtub: [https://github.com/myfavouritekk/vdetlib](https://github.com/myfavouritekk/vdetlib)
 
 **Training Region-based Object Detectors with Online Hard Example Mining**
 

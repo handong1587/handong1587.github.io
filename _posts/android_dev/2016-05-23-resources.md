@@ -18,6 +18,7 @@ and profile your programs in detail.
 
 - intro: Windows 7, Cygwin, Valgrind 3.9.0
 - blog: [http://www.programering.com/a/MjM3UzMwATE.html](http://www.programering.com/a/MjM3UzMwATE.html)
+- csdn: [http://blog.csdn.net/foruok/article/details/20701991](http://blog.csdn.net/foruok/article/details/20701991)
 
 **Building and running valgrind on Android**
 

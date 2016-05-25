@@ -1,7 +1,7 @@
 ---
 layout: post
 category: deep_learning
-title: Scene Labeling
+title: Scene Recognition
 date: 2015-10-09
 ---
 
@@ -36,6 +36,7 @@ not very deep with only three convolution layers."
 **Attend, Infer, Repeat: Fast Scene Understanding with Generative Models**
 
 - arxiv: [http://arxiv.org/abs/1603.08575](http://arxiv.org/abs/1603.08575)
+- notes: [http://www.shortscience.org/paper?bibtexKey=journals/corr/EslamiHWTKH16](http://www.shortscience.org/paper?bibtexKey=journals/corr/EslamiHWTKH16)
 
 # Benchmarks
 
