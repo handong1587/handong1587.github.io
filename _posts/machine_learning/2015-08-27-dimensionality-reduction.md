@@ -38,6 +38,11 @@ date: 2015-08-27
 - blog: [http://setosa.io/ev/principal-component-analysis/](http://setosa.io/ev/principal-component-analysis/)
 - homepage("Explained Visually"): [http://setosa.io/ev/](http://setosa.io/ev/)
 
+**Fast Algorithms for Robust PCA via Gradient Descent**
+
+- arxiv: [http://arxiv.org/abs/1605.07784](http://arxiv.org/abs/1605.07784)
+- code: [https://people.orie.cornell.edu/yudong.chen/rpca_gd/RPCA_GD.zip](https://people.orie.cornell.edu/yudong.chen/rpca_gd/RPCA_GD.zip)
+
 # SVD
 
 **Feature Reduction using SVD**

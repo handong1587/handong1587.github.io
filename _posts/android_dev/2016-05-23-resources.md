@@ -24,3 +24,12 @@ and profile your programs in detail.
 
 - blog: [https://blog.frals.se/2014/07/02/building-and-running-valgrind-on-android/](https://blog.frals.se/2014/07/02/building-and-running-valgrind-on-android/)
 - gist: [https://gist.github.com/frals/7775c413a52763d80de3](https://gist.github.com/frals/7775c413a52763d80de3)
+
+**android valgrind build**
+
+- blog: [http://none53.hatenablog.com/entry/20150325/1427242876](http://none53.hatenablog.com/entry/20150325/1427242876)
+
+**valgrind: failed to start tool 'memcheck' for platform 'arm-linux': Permission denied**
+
+- blog: [http://none53.hatenablog.com/entry/20150325/1427249228](http://none53.hatenablog.com/entry/20150325/1427249228)
+- my notes: this blog really helped me..

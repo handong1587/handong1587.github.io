@@ -59,10 +59,14 @@ transform a convolutional layer into multiple layers of lower complexity"
 - intro: "trained a distilled model to mimic the response of a larger and well-trained network"
 - arxiv: [http://arxiv.org/abs/1503.02531](http://arxiv.org/abs/1503.02531)
 
-**Compressing Neural Networks with the Hashing Trick**
+**Compressing Neural Networks with the Hashing Trick (HashedNets. ICML 2015)**
+
+![](http://www.cse.wustl.edu/~wenlinchen/project/HashedNets/hashednets.png)
 
 - intro: "randomly grouped connection weights into hash buckets, and then fine-tuned network parameters with back-propagation"
+- project page: [http://www.cse.wustl.edu/~wenlinchen/project/HashedNets/index.html](http://www.cse.wustl.edu/~wenlinchen/project/HashedNets/index.html)
 - arxiv: [http://arxiv.org/abs/1504.04788](http://arxiv.org/abs/1504.04788)
+- code: [http://www.cse.wustl.edu/~wenlinchen/project/HashedNets/HashedNets.zip](http://www.cse.wustl.edu/~wenlinchen/project/HashedNets/HashedNets.zip)
 
 **Accelerating Very Deep Convolutional Networks for Classification and Detection**
 
@@ -145,6 +149,10 @@ to decompose it into the multiplications of thinned dense matrices"
 **ASP Vision: Optically Computing the First Layer of Convolutional Neural Networks using Angle Sensitive Pixels**
 
 - arxiv: [http://arxiv.org/abs/1605.03621](http://arxiv.org/abs/1605.03621)
+
+**Functional Hashing for Compressing Neural Networks (FunHashNN)**
+
+- arxiv: [http://arxiv.org/abs/1605.06560](http://arxiv.org/abs/1605.06560)
 
 # Projects
 

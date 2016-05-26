@@ -5,6 +5,8 @@ title: Transfer Learning
 date: 2015-10-09
 ---
 
+# Papers
+
 **How transferable are features in deep neural networks?((NIPS 2014)**
 
 - arXiv: [http://arxiv.org/abs/1411.1792](http://arxiv.org/abs/1411.1792)
@@ -28,3 +30,9 @@ date: 2015-10-09
 **Transfer Learning from Deep Features for Remote Sensing and Poverty Mapping**
 
 - arxiv: [http://arxiv.org/abs/1510.00098](http://arxiv.org/abs/1510.00098)
+
+# Blogs
+
+**Transfer learning using neon**
+
+- blog: [http://www.nervanasys.com/transfer-learning-using-neon/](http://www.nervanasys.com/transfer-learning-using-neon/)

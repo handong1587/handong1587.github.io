@@ -154,6 +154,12 @@ with the style of another image using convolutional neural networks
 
 - arxiv: [http://arxiv.org/abs/1605.04603](http://arxiv.org/abs/1605.04603)
 
+**CubistMirror: an openframeworks app which repeatedly applies real-time style transfer on a webcam**
+
+![](https://raw.githubusercontent.com/genekogan/CubistMirror/master/photos/cubist_mirror_1.jpg)
+
+- github: [https://github.com/genekogan/CubistMirror](https://github.com/genekogan/CubistMirror)
+
 # Music
 
 **GRUV: Algorithmic Music Generation using Recurrent Neural Networks**

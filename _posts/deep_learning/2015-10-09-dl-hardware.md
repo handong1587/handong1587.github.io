@@ -67,6 +67,10 @@ date: 2015-10-09
 
 - github: [https://github.com/wei-tan/CuMF](https://github.com/wei-tan/CuMF)
 
+**Basic Performance Analysis of NVIDIA GPU Accelerator Cards for Deep Learning Applications**
+
+- wihte paper: [https://www.amax.com/enterprise/pdfs/Deep%20Learning%20Performance%20Analysis.pdf](https://www.amax.com/enterprise/pdfs/Deep%20Learning%20Performance%20Analysis.pdf)
+
 # FPGA
 
 **Recurrent Neural Networks Hardware Implementation on FPGA**

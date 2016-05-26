@@ -72,6 +72,10 @@ date: 2015-10-09
 - github: [https://github.com/ikostrikov/torch-neural-gpu](https://github.com/ikostrikov/torch-neural-gpu)
 - github: [https://github.com/tristandeleu/neural-gpu](https://github.com/tristandeleu/neural-gpu)
 
+**Hierarchical Memory Networks**
+
+- arxiv: [http://arxiv.org/abs/1605.07427](http://arxiv.org/abs/1605.07427)
+
 # Codes
 
 **NTM-Lasagne: A Library for Neural Turing Machines in Lasagne**

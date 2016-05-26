@@ -235,6 +235,11 @@ date: 2015-10-09
 - arxiv: [http://arxiv.org/abs/1603.09246](http://arxiv.org/abs/1603.09246)
 - notes: [http://www.inference.vc/notes-on-unsupervised-learning-of-visual-representations-by-solving-jigsaw-puzzles/](http://www.inference.vc/notes-on-unsupervised-learning-of-visual-representations-by-solving-jigsaw-puzzles/)
 
+**Joint Unsupervised Learning of Deep Representations and Image Clusters (CVPR 2016)**
+
+- arxiv: [https://arxiv.org/abs/1604.03628](https://arxiv.org/abs/1604.03628)
+- github(Torch): [https://github.com/jwyang/joint-unsupervised-learning](https://github.com/jwyang/joint-unsupervised-learning)
+
 # Deep Learning Networks
 
 **Deeply-supervised Nets (DSN)**
@@ -502,6 +507,13 @@ with fast exact probabilistic inference over many layers."
 **Unreasonable Effectiveness of Learning Neural Nets: Accessible States and Robust Ensembles**
 
 - arxiv: [http://arxiv.org/abs/1605.06444](http://arxiv.org/abs/1605.06444)
+
+**FractalNet: Ultra-Deep Neural Networks without Residuals**
+
+![](http://people.cs.uchicago.edu/~larsson/fractalnet/overview.png)
+
+- project: [http://people.cs.uchicago.edu/~larsson/fractalnet/](http://people.cs.uchicago.edu/~larsson/fractalnet/)
+- arxiv: [http://arxiv.org/abs/1605.07648](http://arxiv.org/abs/1605.07648)
 
 # Projects
 
