@@ -5,6 +5,42 @@ title: Android Development Resources
 date: 2016-05-23
 ---
 
+# Eclipse
+
+## DDMS
+
+**How to enable native heap tracking in DDMS**
+
+![](http://bricolsoftconsulting.com/wp-content/uploads/2012/05/ddms_native.png)
+
+- blog: [http://bricolsoftconsulting.com/how-to-enable-native-heap-tracking-in-ddms/](http://bricolsoftconsulting.com/how-to-enable-native-heap-tracking-in-ddms/)
+
+## Memory Analyzer Tool (MAT)
+
+**Memory Analyzer 1.5.0 Release**
+
+![](http://www.eclipse.org/mat/home/mat_thumb.png)
+
+- homepage: [http://www.eclipse.org/mat/](http://www.eclipse.org/mat/)
+- download page: [http://www.eclipse.org/mat/downloads.php](http://www.eclipse.org/mat/downloads.php)
+
+**Eclipse Memory Analyzer (MAT) - Tutorial**
+
+- blog: [http://www.vogella.com/tutorials/EclipseMemoryAnalyzer/article.html](http://www.vogella.com/tutorials/EclipseMemoryAnalyzer/article.html)
+
+**10 Tips for using the Eclipse Memory Analyzer**
+
+[http://eclipsesource.com/blogs/2013/01/21/10-tips-for-using-the-eclipse-memory-analyzer/](http://eclipsesource.com/blogs/2013/01/21/10-tips-for-using-the-eclipse-memory-analyzer/)
+
+**[Android] 内存泄漏调试经验分享 (二)**
+
+- intro: 内存监测工具 DDMS --> Heap, 内存分析工具 MAT(Memory Analyzer Tool)
+- blog: [http://rayleeya.iteye.com/blog/755657](http://rayleeya.iteye.com/blog/755657)
+
+**Hunting Your Leaks: Memory Management in Android (Part 2 of 2)**
+
+- blog: [http://www.raizlabs.com/dev/2014/04/hunting-your-leaks-memory-management-in-android-part-2-of-2/](http://www.raizlabs.com/dev/2014/04/hunting-your-leaks-memory-management-in-android-part-2-of-2/)
+
 # Valgrind
 
 **Valgrind**
@@ -33,3 +69,11 @@ and profile your programs in detail.
 
 - blog: [http://none53.hatenablog.com/entry/20150325/1427249228](http://none53.hatenablog.com/entry/20150325/1427249228)
 - my notes: this blog really helped me..
+
+# LeakCanary
+
+**LeakCanary: A memory leak detection library for Android and Java**
+
+![](https://raw.githubusercontent.com/square/leakcanary/master/assets/screenshot.png)
+
+- github: [https://github.com/square/leakcanary](https://github.com/square/leakcanary)
