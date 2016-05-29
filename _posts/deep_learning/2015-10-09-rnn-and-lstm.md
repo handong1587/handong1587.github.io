@@ -103,6 +103,10 @@ date: 2015-10-09
 - arxiv: [http://arxiv.org/abs/1604.01946](http://arxiv.org/abs/1604.01946)
 - github: [https://github.com/parallel-forall/code-samples/blob/master/posts/rnn/LSTM.cu](https://github.com/parallel-forall/code-samples/blob/master/posts/rnn/LSTM.cu)
 
+**Path-Normalized Optimization of Recurrent Neural Networks with ReLU Activations**
+
+- arxiv: [http://arxiv.org/abs/1605.07154](http://arxiv.org/abs/1605.07154)
+
 # Learn To Execute Programs
 
 **Learning to Execute**

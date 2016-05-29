@@ -23,6 +23,10 @@ date: 2015-10-01
 
 - arxiv: [http://arxiv.org/abs/1604.00289](http://arxiv.org/abs/1604.00289)
 
+**Learning Multiagent Communication with Backpropagation**
+
+- arxiv: [http://arxiv.org/abs/1605.07736](http://arxiv.org/abs/1605.07736)
+
 # Blogs
 
 **Artificial Intelligence Today**

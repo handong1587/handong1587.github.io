@@ -240,6 +240,10 @@ date: 2015-10-09
 - arxiv: [https://arxiv.org/abs/1604.03628](https://arxiv.org/abs/1604.03628)
 - github(Torch): [https://github.com/jwyang/joint-unsupervised-learning](https://github.com/jwyang/joint-unsupervised-learning)
 
+**Deep Predictive Coding Networks for Video Prediction and Unsupervised Learning (PredNet)**
+
+- arxiv: [http://arxiv.org/abs/1605.08104](http://arxiv.org/abs/1605.08104)
+
 # Deep Learning Networks
 
 **Deeply-supervised Nets (DSN)**

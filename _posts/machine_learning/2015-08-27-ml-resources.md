@@ -267,6 +267,12 @@ Other awesome lists can be found in this [list](https://github.com/sindresorhus/
 
 - arxiv: [http://arxiv.org/abs/1602.00203](http://arxiv.org/abs/1602.00203)
 
+**Qs – Deep Gaussian Processes**
+
+![](https://www.opendatascience.com/wp-content/uploads/2016/05/Gaussian.jpg)
+
+- blog: [https://www.opendatascience.com/blog/qs-deep-gaussian-processes/](https://www.opendatascience.com/blog/qs-deep-gaussian-processes/)
+
 # Mathematics
 
 **Some Notes on Applied Mathematics for Machine**
@@ -380,6 +386,10 @@ Other awesome lists can be found in this [list](https://github.com/sindresorhus/
 
 - book: [http://math.arizona.edu/~jwatkins/statbook.pdf](http://math.arizona.edu/~jwatkins/statbook.pdf)
 
+**Python Machine Learning**
+
+- github: [https://github.com/rasbt/python-machine-learning-book](https://github.com/rasbt/python-machine-learning-book)
+
 # Videos
 
 **Video resources for machine learning**
@@ -402,6 +412,20 @@ Other awesome lists can be found in this [list](https://github.com/sindresorhus/
 
 - blog: [http://bigdataexaminer.com/data-science/dealing-with-unbalanced-classes-svm-random-forests-and-decision-trees-in-python/](http://bigdataexaminer.com/data-science/dealing-with-unbalanced-classes-svm-random-forests-and-decision-trees-in-python/)
 - blog: [http://www.kdnuggets.com/2016/04/unbalanced-classes-svm-random-forests-python.html](http://www.kdnuggets.com/2016/04/unbalanced-classes-svm-random-forests-python.html)
+
+**Fitting a model via closed-form equations vs. Gradient Descent vs Stochastic Gradient Descent vs Mini-Batch Learning. What is the difference?**
+
+![](https://raw.githubusercontent.com/rasbt/python-machine-learning-book/master/faq/closed-form-vs-gd/simple_regression.png)
+
+- github: [https://github.com/rasbt/python-machine-learning-book/blob/master/faq/closed-form-vs-gd.md](https://github.com/rasbt/python-machine-learning-book/blob/master/faq/closed-form-vs-gd.md)
+
+**A Friendly Introduction to Cross-Entropy Loss**
+
+[https://rdipietro.github.io/friendly-intro-to-cross-entropy-loss/](https://rdipietro.github.io/friendly-intro-to-cross-entropy-loss/)
+
+**Fighting Class Unbalance Supervised ML Problem**
+
+[http://www.erogol.com/fighting-class-unbalance-supervised-ml-problem/](http://www.erogol.com/fighting-class-unbalance-supervised-ml-problem/)
 
 # Machine Learning Library
 

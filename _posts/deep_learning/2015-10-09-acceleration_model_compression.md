@@ -146,6 +146,11 @@ to decompose it into the multiplications of thinned dense matrices"
 - homepage: [http://ristretto.lepsucd.com/](http://ristretto.lepsucd.com/)
 - github("Ristretto: Caffe-based approximation of convolutional neural networks"): [https://github.com/pmgysel/caffe](https://github.com/pmgysel/caffe)
 
+**Deep Neural Networks Under Stress (ICIP 2016)**
+
+- arxiv: [http://arxiv.org/abs/1605.03498](http://arxiv.org/abs/1605.03498)
+- github: [https://github.com/MicaelCarvalho/DNNsUnderStress](https://github.com/MicaelCarvalho/DNNsUnderStress)
+
 **ASP Vision: Optically Computing the First Layer of Convolutional Neural Networks using Angle Sensitive Pixels**
 
 - arxiv: [http://arxiv.org/abs/1605.03621](http://arxiv.org/abs/1605.03621)

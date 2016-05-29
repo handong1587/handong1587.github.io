@@ -160,6 +160,24 @@ with the style of another image using convolutional neural networks
 
 - github: [https://github.com/genekogan/CubistMirror](https://github.com/genekogan/CubistMirror)
 
+# Video
+
+**Instructions for making a Neural-Style movie**
+
+![](/assets/ocr-materials/Why_is_a_Raven_Like_a_Writing_Desk.jpg)
+
+- website: [https://gist.github.com/genekogan/d61c8010d470e1dbe15d](https://gist.github.com/genekogan/d61c8010d470e1dbe15d)
+- sample: [https://vimeo.com/139123754](https://vimeo.com/139123754)
+
+**Artistic style transfer for videos**
+
+- arxiv: [http://arxiv.org/abs/1604.08610](http://arxiv.org/abs/1604.08610)
+- github: [https://github.com/manuelruder/artistic-videos](https://github.com/manuelruder/artistic-videos)
+
+**DeepMovie: Using Optical Flow and Deep Neural Networks to Stylize Movies**
+
+- arxiv: [http://arxiv.org/abs/1605.08153](http://arxiv.org/abs/1605.08153)
+
 # Music
 
 **GRUV: Algorithmic Music Generation using Recurrent Neural Networks**
@@ -214,20 +232,6 @@ with the style of another image using convolutional neural networks
 
 - homepage: [https://jisungk.github.io/deepjazz/](https://jisungk.github.io/deepjazz/)
 - github：[https://github.com/jisungk/deepjazz](https://github.com/jisungk/deepjazz)
-
-# Video
-
-**Instructions for making a Neural-Style movie**
-
-![](/assets/ocr-materials/Why_is_a_Raven_Like_a_Writing_Desk.jpg)
-
-- website: [https://gist.github.com/genekogan/d61c8010d470e1dbe15d](https://gist.github.com/genekogan/d61c8010d470e1dbe15d)
-- sample: [https://vimeo.com/139123754](https://vimeo.com/139123754)
-
-**Artistic style transfer for videos**
-
-- arxiv: [http://arxiv.org/abs/1604.08610](http://arxiv.org/abs/1604.08610)
-- github: [https://github.com/manuelruder/artistic-videos](https://github.com/manuelruder/artistic-videos)
 
 # Poetry
 

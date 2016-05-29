@@ -25,6 +25,12 @@ date: 2015-10-09
 - homepage: [http://rl-gym-doc.s3-website-us-west-2.amazonaws.com/mlss/index.html](http://rl-gym-doc.s3-website-us-west-2.amazonaws.com/mlss/index.html)
 - slides: [http://pan.baidu.com/s/1jIatusA#path=%252F](http://pan.baidu.com/s/1jIatusA#path=%252F)
 
+**Building a Pong playing AI in just 1 hour(plus 4 days training...)**
+
+- sildes: [https://speakerdeck.com/danielslater/building-a-pong-ai](https://speakerdeck.com/danielslater/building-a-pong-ai)
+- github: [https://github.com/DanielSlater/PyDataLondon2016](https://github.com/DanielSlater/PyDataLondon2016)
+- youtube: [https://www.youtube.com/watch?v=n8NdT_3y9oY](https://www.youtube.com/watch?v=n8NdT_3y9oY)
+
 # Courses
 
 **Advanced Topics: RL**

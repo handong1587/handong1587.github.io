@@ -443,6 +443,11 @@ for building Deep Learning (DL) machine learning (ML) models
 
 - github: [https://github.com/nyanp/tiny-cnn](https://github.com/nyanp/tiny-cnn)
 
+**Theano-MPI: a Theano-based Distributed Training Framework**
+
+- arxiv: [https://arxiv.org/abs/1605.08325](https://arxiv.org/abs/1605.08325)
+- github: [https://github.com/uoguelph-mlrg/Theano-MPI](https://github.com/uoguelph-mlrg/Theano-MPI)
+
 # Torch
 
 **Torch**

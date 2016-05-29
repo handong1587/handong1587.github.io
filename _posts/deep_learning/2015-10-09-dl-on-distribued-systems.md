@@ -27,13 +27,18 @@ date: 2015-10-09
 - page: [http://www.slideshare.net/AlexanderUlanov1/a-scalable-implementation-of-deep-learning-on-spark-alexander-ulanov](http://www.slideshare.net/AlexanderUlanov1/a-scalable-implementation-of-deep-learning-on-spark-alexander-ulanov)
 - slides: [http://pan.baidu.com/s/1jHiNW5C](http://pan.baidu.com/s/1jHiNW5C)
 
-# Codes
+# Projects
 
 **CaffeOnSpark: Open Sourced for Distributed Deep Learning on Big Data Clusters (Yahoo)**
 
 - blog: [http://yahoohadoop.tumblr.com/post/139916563586/caffeonspark-open-sourced-for-distributed-deep](http://yahoohadoop.tumblr.com/post/139916563586/caffeonspark-open-sourced-for-distributed-deep)
 - github: [https://github.com/yahoo/CaffeOnSpark](https://github.com/yahoo/CaffeOnSpark)
 - youtube: [https://www.youtube.com/watch?v=bqj7nML-aHk](https://www.youtube.com/watch?v=bqj7nML-aHk)
+
+**Theano-MPI: a Theano-based Distributed Training Framework**
+
+- arxiv: [https://arxiv.org/abs/1605.08325](https://arxiv.org/abs/1605.08325)
+- github: [https://github.com/uoguelph-mlrg/Theano-MPI](https://github.com/uoguelph-mlrg/Theano-MPI)
 
 # Videos
 

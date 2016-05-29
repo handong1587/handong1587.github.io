@@ -93,6 +93,10 @@ after the embedding and recurrent layers of the RNN."
 
 - arxiv: [http://arxiv.org/abs/1604.00790](http://arxiv.org/abs/1604.00790)
 
+**Encode, Review, and Decode: Reviewer Module for Caption Generation**
+
+- arxiv: [http://arxiv.org/abs/1605.07912](http://arxiv.org/abs/1605.07912)
+
 # Video Captioning
 
 **Translating Videos to Natural Language Using Deep Recurrent Neural Networks**
