@@ -362,6 +362,10 @@ with fast exact probabilistic inference over many layers."
 
 - arxiv: [http://arxiv.org/abs/1603.05279](http://arxiv.org/abs/1603.05279)
 
+**Deeply-Fused Nets**
+
+- arxiv: [http://arxiv.org/abs/1605.07716](http://arxiv.org/abs/1605.07716)
+
 # Deep Learning’s Accuracy
 
 - blog: [http://deeplearning4j.org/accuracy.html](http://deeplearning4j.org/accuracy.html)

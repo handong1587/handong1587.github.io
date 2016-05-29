@@ -60,6 +60,10 @@ paper: [http://www.lv-nus.org/papers/2011/cvpr2010-context_final.pdf](http://www
 - arxiv: [http://arxiv.org/abs/1501.07359](http://arxiv.org/abs/1501.07359)
 - code: [http://www.stat.ucla.edu/~boli/projects/context_occlusion/publications/RGM_Release1.zip](http://www.stat.ucla.edu/~boli/projects/context_occlusion/publications/RGM_Release1.zip)
 
+**Quickest Moving Object Detection**
+
+- arxiv: [http://arxiv.org/abs/1605.07586](http://arxiv.org/abs/1605.07586)
+
 # Blogs
 
 **Real-time Webcam Barcode Detection with OpenCV and C++**

@@ -315,6 +315,12 @@ MSCOCO 2015 test:
 
 [http://www-personal.umich.edu/~wgchoi/SDP-CRC_camready.pdf](http://www-personal.umich.edu/~wgchoi/SDP-CRC_camready.pdf)
 
+## R-FCN
+
+**R-FCN: Object Detection via Region-based Fully Convolutional Networks**
+
+- arxiv: [http://arxiv.org/abs/1605.06409](http://arxiv.org/abs/1605.06409)
+
 # Specific Object Deteciton
 
 **End-to-end people detection in crowded scenes**

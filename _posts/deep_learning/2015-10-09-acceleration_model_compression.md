@@ -159,6 +159,10 @@ to decompose it into the multiplications of thinned dense matrices"
 
 - arxiv: [http://arxiv.org/abs/1605.06560](http://arxiv.org/abs/1605.06560)
 
+**Ristretto: Hardware-Oriented Approximation of Convolutional Neural Networks**
+
+- arxiv: [http://arxiv.org/abs/1605.06402](http://arxiv.org/abs/1605.06402)
+
 # Projects
 
 **Accelerate Convolutional Neural Networks**

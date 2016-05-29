@@ -148,6 +148,26 @@ using the stochastic gradient descent (SGD) algorithm to obtain fine pixel-level
 
 - arxiv: [http://arxiv.org/abs/1603.07063](http://arxiv.org/abs/1603.07063)
 
+**Fully Convolutional Networks for Semantic Segmentation (PAMI 2016)**
+
+- arxiv: [http://arxiv.org/abs/1605.06211](http://arxiv.org/abs/1605.06211)
+
+**Bridging Category-level and Instance-level Semantic Image Segmentation**
+
+- arxiv: [http://arxiv.org/abs/1605.06885](http://arxiv.org/abs/1605.06885)
+
+**Natural Scene Image Segmentation Based on Multi-Layer Feature Extraction**
+
+- arxiv: [http://arxiv.org/abs/1605.07586](http://arxiv.org/abs/1605.07586)
+
+**Convolutional Random Walk Networks for Semantic Image Segmentation**
+
+- arxiv: [http://arxiv.org/abs/1605.07681](http://arxiv.org/abs/1605.07681)
+
+**DeepCut: Object Segmentation from Bounding Box Annotations using Convolutional Neural Networks**
+
+- arxiv: [http://arxiv.org/abs/1605.07866](http://arxiv.org/abs/1605.07866)
+
 # Blogs
 
 **Deep Learning for Natural Image Segmentation Priors**

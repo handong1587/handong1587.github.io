@@ -171,3 +171,7 @@ The size of their dataset is, however, limited by the availability of domain-spe
 **Summarizing While Recording: Context-Based Highlight Detection for Egocentric Videos**
 
 - paper: [http://www.umiacs.umd.edu/~morariu/publications/LinEgocentricICCVW15.pdf](http://www.umiacs.umd.edu/~morariu/publications/LinEgocentricICCVW15.pdf)
+
+**Video Summarization with Long Short-term Memory**
+
+- arxiv: [http://arxiv.org/abs/1605.08110](http://arxiv.org/abs/1605.08110)
