@@ -86,4 +86,4 @@ Fire up a git bash (or Windows Prompt, must run as administrator), execute instr
 <code>$ rebase.exe -b 0x50000000 msys-1.0.dll</code>
 </pre>
 
-Retry "gem install github-pages". Now *voila*, everything works nicely!
+Retry `gem install github-pages`. Now *voila*, everything works nicely!

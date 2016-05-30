@@ -26,6 +26,7 @@ date: 2015-10-09
 - demo: [http://deepart.io/](http://deepart.io/)
 - github("easyStyle"): [https://github.com/Teaonly/easyStyle](https://github.com/Teaonly/easyStyle)
 - github: [https://github.com/ckmarkoh/neuralart_tensorflow](https://github.com/ckmarkoh/neuralart_tensorflow)
+- github: [https://github.com/woodrush/neural-art-tf](https://github.com/woodrush/neural-art-tf)
 
 **neural-style-video**
 

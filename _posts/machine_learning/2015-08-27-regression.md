@@ -53,3 +53,9 @@ date: 2015-08-27
 **From simple Regression to Multiple Regression with Decision Trees**
 
 [https://blog.cambridgecoding.com/2016/01/10/from-simple-regression-to-multiple-regression-with-decision-trees/](https://blog.cambridgecoding.com/2016/01/10/from-simple-regression-to-multiple-regression-with-decision-trees/)
+
+**Linear Regression**
+
+![](http://efavdb.com/wp-content/uploads/2016/05/line-4.jpg)
+
+[http://efavdb.com/linear-regression/](http://efavdb.com/linear-regression/)
