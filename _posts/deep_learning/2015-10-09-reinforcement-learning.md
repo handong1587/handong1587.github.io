@@ -286,6 +286,10 @@ Its simple, and is ideal for rapid prototyping."
 - github: [https://github.com/MickyDowns/deep-theano-rnn-lstm-car](https://github.com/MickyDowns/deep-theano-rnn-lstm-car)
 - youtube: [https://www.youtube.com/watch?v=WrLRGzbfeZc](https://www.youtube.com/watch?v=WrLRGzbfeZc)
 
+**Flappy Bird Bot using Reinforcement Learning in Python**
+
+- github: [https://github.com/chncyhn/flappybird-qlearning-bot](https://github.com/chncyhn/flappybird-qlearning-bot)
+
 # Blogs
 
 **A Short Introduction To Some Reinforcement Learning Algorithms**
