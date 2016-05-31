@@ -390,6 +390,10 @@ and together they truly represent a state-of-the-art of current reinforcement le
 
 - github: [https://github.com/muupan/deep-reinforcement-learning-papers](https://github.com/muupan/deep-reinforcement-learning-papers)
 
+**Deep Reinforcement Learning 深度增强学习资源**
+
+- blog: [https://zhuanlan.zhihu.com/p/20885568](https://zhuanlan.zhihu.com/p/20885568)
+
 # Reading and Questions
 
 **What are the best books about reinforcement learning?**
