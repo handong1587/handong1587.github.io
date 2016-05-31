@@ -15,6 +15,18 @@ date: 2016-05-23
 
 - blog: [http://bricolsoftconsulting.com/how-to-enable-native-heap-tracking-in-ddms/](http://bricolsoftconsulting.com/how-to-enable-native-heap-tracking-in-ddms/)
 
+**Tips for Optimizing Android* Application Memory Usage**
+
+![](https://software.intel.com/sites/default/files/managed/15/01/tips-for-optimizing-android-app-memory-fig2-ddms-heap-updates-track-allocation.png)
+
+- blog: [https://software.intel.com/en-us/android/articles/tips-for-optimizing-android-application-memory-usage](https://software.intel.com/en-us/android/articles/tips-for-optimizing-android-application-memory-usage)
+
+**使用DDMS中的内存监测工具Heap来优化内存**
+
+![](http://images.cnitblog.com/blog/651487/201502/021532244064511.gif)
+
+- blog: [http://www.cnblogs.com/tianzhijiexian/p/4267919.html](http://www.cnblogs.com/tianzhijiexian/p/4267919.html)
+
 ## Memory Analyzer Tool (MAT)
 
 **Memory Analyzer 1.5.0 Release**

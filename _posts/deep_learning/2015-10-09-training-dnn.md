@@ -177,6 +177,11 @@ date: 2015-10-09
 - intro: "an extremely simple algorithm which randomly replaces a part of labels as incorrect values in each iteration"
 - paper: [http://research.microsoft.com/en-us/um/people/jingdw/pubs/cvpr16-disturblabel.pdf](http://research.microsoft.com/en-us/um/people/jingdw/pubs/cvpr16-disturblabel.pdf)
 
+**Stochastic Function Norm Regularization of Deep Networks**
+
+- arxiv: [http://arxiv.org/abs/1605.09085](http://arxiv.org/abs/1605.09085)
+- github: [https://github.com/AmalRT/DNN_Reg](https://github.com/AmalRT/DNN_Reg)
+
 ## Dropout
 
 **Improving neural networks by preventing co-adaptation of feature detectors (Dropout)**
