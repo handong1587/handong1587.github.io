@@ -58,7 +58,6 @@ date: 2015-10-09
 - slides: [http://research.microsoft.com/en-us/um/people/kahe/ilsvrc15/ilsvrc2015_deep_residual_learning_kaiminghe.pdf](http://research.microsoft.com/en-us/um/people/kahe/ilsvrc15/ilsvrc2015_deep_residual_learning_kaiminghe.pdf)
 - gitxiv: [http://gitxiv.com/posts/LgPRdTY3cwPBiMKbm/deep-residual-learning-for-image-recognition](http://gitxiv.com/posts/LgPRdTY3cwPBiMKbm/deep-residual-learning-for-image-recognition)
 - github(by KaimingHe): [https://github.com/KaimingHe/deep-residual-networks](https://github.com/KaimingHe/deep-residual-networks)
-- github("Deep Residual Networks with 1K Layers"): [https://github.com/KaimingHe/resnet-1k-layers](https://github.com/KaimingHe/resnet-1k-layers)
 - github: [https://github.com/alrojo/lasagne_residual_network](https://github.com/alrojo/lasagne_residual_network)
 - github: [https://github.com/shuokay/resnet](https://github.com/shuokay/resnet)
 - github: [https://github.com/gcr/torch-residual-networks](https://github.com/gcr/torch-residual-networks)
@@ -88,6 +87,7 @@ date: 2015-10-09
 **Identity Mappings in Deep Residual Networks (by Kaiming He)**
 
 - arxiv: [http://arxiv.org/abs/1603.05027](http://arxiv.org/abs/1603.05027)
+- github: [https://github.com/KaimingHe/resnet-1k-layers](https://github.com/KaimingHe/resnet-1k-layers)
 
 **Residual Networks are Exponential Ensembles of Relatively Shallow Networks**
 
@@ -365,6 +365,10 @@ with fast exact probabilistic inference over many layers."
 **Deeply-Fused Nets**
 
 - arxiv: [http://arxiv.org/abs/1605.07716](http://arxiv.org/abs/1605.07716)
+
+**SNN: Stacked Neural Networks**
+
+- arxiv: [http://arxiv.org/abs/1605.08512](http://arxiv.org/abs/1605.08512)
 
 # Deep Learning’s Accuracy
 

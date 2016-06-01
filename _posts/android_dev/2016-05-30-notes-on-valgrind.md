@@ -48,10 +48,13 @@ valgrind: failed to start tool 'memcheck' for platform 'arm64-linux': No such fi
 
 Wired thing is that there is a memcheck-arm-linux in /data/local/Inst/lib/valgrind/, 
 and obviously Valgrind should call it since they are of 32-bit. But Valgrind always try to call a 64-bit memcheck. 
+Use `strace` command can show the calling procedure easily:
 
 <pre class="terminal">
 <code>$ $SDKROOT/adb.exe shell "strace /data/local/Inst/bin/valgrind am start -a android.intent.action.MAIN -n com.example.MyAPP/.MyAPPMain"</code>
 </pre>
+
+Outputs:
 
 <pre class="terminal"><code>
 execve("/data/local/Inst/lib/valgrind/memcheck-arm64-linux", ["/data/local/Inst/bin/valgrind", "am", "start", "-a", "android.intent.action.MAIN", "-n", "com.example.SGallery/.SGalleryMa"...], [/* 17 vars */]) = -1 ENOENT (No such file or directory)
@@ -61,5 +64,24 @@ So I was stucked on this.
 And it is more frustrating that if I change to 64-bit configure, many Valgrind tools are failed to build. Still not memcheck-arm64-linux.
 
 # DDMS and MAT
+
+DDMS (Dalvik Debug Monitor Server) is a debugging tool used in the Android platform, often downloaded as part of the Android SDK.
+You can launch it from: "Eclipse > Window > Open Perspective > Other... > DDMS" or 
+directly from: "PathToAndroidSDK\android-sdk-windows\tools\ddms.bat".
+
+Need to modify the ddms.cfg(c:/Users/username/.android/ddms.cfg) file to enable native heap tracking in DDMS:
+
+Add
+
+<pre class="terminal"><code>
+native=true
+</code></pre>
+
+in ddms.cfg.
+
+MAT (Memory Analyzer Tool) is a Java heap analyzer that can help to find memory leaks. 
+You can download it from: [http://www.eclipse.org/mat/](http://www.eclipse.org/mat/).
+
+Usually we use DDMS to dump a HPROF file, then use MAT to get reports.
 
 # Refs

@@ -405,6 +405,14 @@ for building Deep Learning (DL) machine learning (ML) models
 
 - github: [https://github.com/adatao/tensorspark](https://github.com/adatao/tensorspark)
 
+**TensorFlow: Large-Scale Machine Learning on Heterogeneous Distributed Systems**
+
+- arxiv: [http://arxiv.org/abs/1603.04467](http://arxiv.org/abs/1603.04467)
+
+**TensorFlow: A system for large-scale machine learning**
+
+- arxiv: [http://arxiv.org/abs/1605.08695](http://arxiv.org/abs/1605.08695)
+
 # Theano
 
 **Theano**
@@ -489,9 +497,11 @@ for building Deep Learning (DL) machine learning (ML) models
 
 # Papers
 
-**Comparative Study of Caffe, Neon, Theano, and Torch for Deep Learning**
+**Comparative Study of Deep Learning Software Frameworks**
 
+- intro: Caffe / Neon / TensorFlow / Theano / Torch
 - arXiv: [http://arxiv.org/abs/1511.06435](http://arxiv.org/abs/1511.06435)
+- github: [https://github.com/DL-Benchmarks/DL-Benchmarks](https://github.com/DL-Benchmarks/DL-Benchmarks)
 
 # Codes
 

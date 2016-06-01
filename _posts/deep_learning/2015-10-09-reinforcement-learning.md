@@ -31,6 +31,12 @@ date: 2015-10-09
 - github: [https://github.com/DanielSlater/PyDataLondon2016](https://github.com/DanielSlater/PyDataLondon2016)
 - youtube: [https://www.youtube.com/watch?v=n8NdT_3y9oY](https://www.youtube.com/watch?v=n8NdT_3y9oY)
 
+**Deep Reinforcement Learning: Pong from Pixels (Andrej Karpathy)**
+
+![](http://karpathy.github.io/assets/rl/preview.jpeg)
+
+- blog: [http://karpathy.github.io/2016/05/31/rl/](http://karpathy.github.io/2016/05/31/rl/)
+
 # Courses
 
 **Advanced Topics: RL**
@@ -114,6 +120,11 @@ date: 2015-10-09
 **Learning Simple Algorithms from Examples(New York University & Facebook AI Research)**
 
 - arXiv: [http://arxiv.org/abs/1511.07275](http://arxiv.org/abs/1511.07275)
+- github: [https://github.com/wojzaremba/algorithm-learning](https://github.com/wojzaremba/algorithm-learning)
+
+**Learning Algorithms from Data**
+
+- PhD thesis: [http://www.cs.nyu.edu/media/publications/zaremba_wojciech.pdf](http://www.cs.nyu.edu/media/publications/zaremba_wojciech.pdf)
 - github: [https://github.com/wojzaremba/algorithm-learning](https://github.com/wojzaremba/algorithm-learning)
 
 **Multiagent Cooperation and Competition with Deep Reinforcement Learning**
@@ -289,6 +300,11 @@ Its simple, and is ideal for rapid prototyping."
 **Flappy Bird Bot using Reinforcement Learning in Python**
 
 - github: [https://github.com/chncyhn/flappybird-qlearning-bot](https://github.com/chncyhn/flappybird-qlearning-bot)
+
+**RL Helicopter Game: Q-Learning and DQN Reinforcement Learning to play the Helicopter Game - Keras based!**
+
+- project page: [http://dandxy89.github.io/rf_helicopter/](http://dandxy89.github.io/rf_helicopter/)
+- github: [https://github.com/dandxy89/rf_helicopter](https://github.com/dandxy89/rf_helicopter)
 
 # Blogs
 
