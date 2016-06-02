@@ -168,6 +168,10 @@ using the stochastic gradient descent (SGD) algorithm to obtain fine pixel-level
 
 - arxiv: [http://arxiv.org/abs/1605.07866](http://arxiv.org/abs/1605.07866)
 
+**End-to-End Instance Segmentation and Counting with Recurrent Attention**
+
+- arxiv: [http://arxiv.org/abs/1605.09410](http://arxiv.org/abs/1605.09410)
+
 # Blogs
 
 **Deep Learning for Natural Image Segmentation Priors**

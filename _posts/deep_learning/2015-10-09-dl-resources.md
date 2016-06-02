@@ -476,6 +476,7 @@ with fast exact probabilistic inference over many layers."
 **Do Deep Convolutional Nets Really Need to be Deep (Or Even Convolutional)?**
 
 - arxiv: [http://arxiv.org/abs/1603.05691](http://arxiv.org/abs/1603.05691)
+- review: [http://www.erogol.com/paper-review-deep-convolutional-nets-really-need-deep-even-convolutional/](http://www.erogol.com/paper-review-deep-convolutional-nets-really-need-deep-even-convolutional/)
 
 **Harnessing Deep Neural Networks with Logic Rules**
 

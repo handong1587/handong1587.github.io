@@ -2,7 +2,7 @@
 layout: post
 category: deep_learning
 title: Keep Up With New Trends
-date: 2016-05-16
+date: 2016-06-01
 ---
 
 **Deep Learning Summer School 2015**
@@ -118,3 +118,7 @@ date: 2016-05-16
 
 - homepage: [http://www.wacv16.org/](http://www.wacv16.org/)
 - youtube: [https://www.youtube.com/channel/UCdV5ooxkvhbpmv0_3MzIo9g/videos](https://www.youtube.com/channel/UCdV5ooxkvhbpmv0_3MzIo9g/videos)
+
+**Deep Learning Trends @ ICLR 2016**
+
+[http://www.computervisionblog.com/2016/06/deep-learning-trends-iclr-2016.html](http://www.computervisionblog.com/2016/06/deep-learning-trends-iclr-2016.html)

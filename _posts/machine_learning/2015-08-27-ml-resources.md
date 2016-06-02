@@ -80,6 +80,10 @@ Other awesome lists can be found in this [list](https://github.com/sindresorhus/
 
 - arxiv: [http://arxiv.org/abs/1603.02754](http://arxiv.org/abs/1603.02754)
 
+**Understanding Gradient Boosting, Part 1**
+
+- blog: [http://rcarneva.github.io/understanding-gradient-boosting-part-1.html](http://rcarneva.github.io/understanding-gradient-boosting-part-1.html)
+
 # Bootstrap
 
 **Coding, Visualizing, and Animating Bootstrap Resampling**
@@ -272,6 +276,10 @@ Other awesome lists can be found in this [list](https://github.com/sindresorhus/
 ![](https://www.opendatascience.com/wp-content/uploads/2016/05/Gaussian.jpg)
 
 - blog: [https://www.opendatascience.com/blog/qs-deep-gaussian-processes/](https://www.opendatascience.com/blog/qs-deep-gaussian-processes/)
+
+**Bayesian Deep Learning: Neural Networks in PyMC3 estimated with Variational Inference**
+
+- blog: [http://blog.quantopian.com/bayesian-deep-learning/](http://blog.quantopian.com/bayesian-deep-learning/)
 
 # Mathematics
 

@@ -97,6 +97,10 @@ after the embedding and recurrent layers of the RNN."
 
 - arxiv: [http://arxiv.org/abs/1605.07912](http://arxiv.org/abs/1605.07912)
 
+**Attention Correctness in Neural Image Captioning**
+
+- arxiv: [http://arxiv.org/abs/1605.09553](http://arxiv.org/abs/1605.09553)
+
 # Video Captioning
 
 **Translating Videos to Natural Language Using Deep Recurrent Neural Networks**
