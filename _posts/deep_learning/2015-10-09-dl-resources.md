@@ -593,10 +593,6 @@ We also include one pre-trained model using a custom convolutional network."
 
 # Readings and Questions
 
-**What are the toughest neural networks and deep learning interview questions?**
-
-[https://www.quora.com/What-are-the-toughest-neural-networks-and-deep-learning-interview-questions](https://www.quora.com/What-are-the-toughest-neural-networks-and-deep-learning-interview-questions)
-
 **What you wanted to know about AI**
 
 [http://fastml.com/what-you-wanted-to-know-about-ai/](http://fastml.com/what-you-wanted-to-know-about-ai/)

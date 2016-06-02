@@ -34,12 +34,3 @@ It contains real examples with errors and the author gives explanations of how t
 **openFrameworks: an open source C++ toolkit for creative coding.**
 
 - homepage: [http://openframeworks.cc/](http://openframeworks.cc/)
-
-**Coding interview questions with solutions (C++)**
-
-- homepage: [http://itgeekworkhard.com/coding-questions/](http://itgeekworkhard.com/coding-questions/)
-- github: [https://github.com/checkcheckzz/coding-questions](https://github.com/checkcheckzz/coding-questions)
-
-**Everything you need to kick ass on your coding interview**
-
-- github: [https://github.com/andreis/interview](https://github.com/andreis/interview)

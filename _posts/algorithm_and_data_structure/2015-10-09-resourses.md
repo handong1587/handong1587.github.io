@@ -69,14 +69,3 @@ date: 2015-07-01
 **Solutions to Introduction to Algorithms**
 
 - github: [https://github.com/gzc/CLRS](https://github.com/gzc/CLRS)
-
-# Interview Questions
-
-**C & Data Structure Interview Questions**
-
-[https://intellipaat.com/interview-question/c-data-structure-interview-questions/](https://intellipaat.com/interview-question/c-data-structure-interview-questions/)
-
-**Technical Interview Megarepo: Study materials for SE/CS technical interviews**
-
-- intro: Algorithms, Data Structures, Mathematics, Operating Systems, System Design, Interview Tips
-- github: [https://github.com/jdsutton/Technical-Interview-Megarepo](https://github.com/jdsutton/Technical-Interview-Megarepo)

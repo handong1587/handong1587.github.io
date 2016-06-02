@@ -38,10 +38,6 @@ date: 2015-07-01
 
 - github: [https://github.com/profjsb/python-seminar](https://github.com/profjsb/python-seminar)
 
-**Top Answers to Python Interview Questions**
-
-- blog: [https://intellipaat.com/interview-question/python-interview-questions/](https://intellipaat.com/interview-question/python-interview-questions/)
-
 **Awesome Python: A curated list of awesome Python frameworks, libraries, software and resources**
 
 - github: [https://github.com/vinta/awesome-python](https://github.com/vinta/awesome-python)
