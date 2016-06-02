@@ -65,6 +65,10 @@ date: 2015-10-09
 
 - blog: [http://andyljones.tumblr.com/post/110998971763/an-explanation-of-xavier-initialization](http://andyljones.tumblr.com/post/110998971763/an-explanation-of-xavier-initialization)
 
+**Random Walk Initialization for Training Very Deep Feedforward Networks**
+
+- arxiv: [http://arxiv.org/abs/1412.6558](http://arxiv.org/abs/1412.6558)
+
 **Deep Neural Networks with Random Gaussian Weights: A Universal Classification Strategy?**
 
 - arxiv: [http://arxiv.org/abs/1504.08291](http://arxiv.org/abs/1504.08291)
@@ -264,6 +268,10 @@ date: 2015-10-09
 - github: [https://github.com/ShaharKatz/Caffe-Data-Augmentation](https://github.com/ShaharKatz/Caffe-Data-Augmentation)
 
 # Papers
+
+**Understanding the difﬁculty of training deep feed forward neural networks**
+
+- paper: [http://jmlr.org/proceedings/papers/v9/glorot10a/glorot10a.pdf](http://jmlr.org/proceedings/papers/v9/glorot10a/glorot10a.pdf)
 
 **Scalable and Sustainable Deep Learning via Randomized Hashing**
 
