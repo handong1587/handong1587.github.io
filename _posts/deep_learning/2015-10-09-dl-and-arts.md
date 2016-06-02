@@ -234,6 +234,11 @@ with the style of another image using convolutional neural networks
 - homepage: [https://jisungk.github.io/deepjazz/](https://jisungk.github.io/deepjazz/)
 - github：[https://github.com/jisungk/deepjazz](https://github.com/jisungk/deepjazz)
 
+**Magenta: Music and Art Generation with Machine Intelligence**
+
+- homepage: [http://magenta.tensorflow.org/](http://magenta.tensorflow.org/)
+- github: [https://github.com/tensorflow/magenta](https://github.com/tensorflow/magenta)
+
 # Poetry
 
 **NeuralSnap: Generates poetry from images using convolutional and recurrent neural networks**

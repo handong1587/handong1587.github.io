@@ -38,6 +38,12 @@ date: 2015-10-09
 
 - arxiv: [http://arxiv.org/abs/1605.09081](http://arxiv.org/abs/1605.09081)
 
+**Laws, Sausages and ConvNets**
+
+![](http://www.trivialorwrong.com/assets/laws-sausages-and-convnets_files/convnet-example.png)
+
+- blog: [http://www.trivialorwrong.com/2016/06/01/laws-sausages-and-convnets.html](http://www.trivialorwrong.com/2016/06/01/laws-sausages-and-convnets.html)
+
 # CNN with CV
 
 **End-to-End Integration of a Convolutional Network, Deformable Parts Model and Non-Maximum Suppression**

@@ -288,6 +288,10 @@ for building Deep Learning (DL) machine learning (ML) models
 - video: [http://pan.baidu.com/s/1eS58Gue](http://pan.baidu.com/s/1eS58Gue)
 - github: [https://github.com/dmlc/mxnet-gtc-tutorial](https://github.com/dmlc/mxnet-gtc-tutorial)
 
+**MXNET Dependency Engine**
+
+- blog: [http://yuyang0.github.io/notes/mxnet-engine.html](http://yuyang0.github.io/notes/mxnet-engine.html)
+
 # neocortex.js
 
 **Run trained deep neural networks in the browser or node.js**
