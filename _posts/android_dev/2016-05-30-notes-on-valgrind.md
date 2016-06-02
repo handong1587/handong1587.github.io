@@ -27,10 +27,14 @@ I use a tool from: [http://dos2unix.sourceforge.net/](http://dos2unix.sourceforg
 To successfully build, we need to modify the kernel version in configure 
 (my VM's kernel verison is 2.0.1, which is not valid by default):
 
+Change:
+
 {% highlight bash %}
 case "${kernel}" in
 0.*|1.*|2.0.*|2.1.*|2.2.*|2.3.*|2.4.*|2.5.*)
 {% endhighlight %}
+
+to:
 
 {% highlight bash %}
 case "${kernel}" in
@@ -56,28 +60,38 @@ Use `strace` command can show the calling procedure easily:
 
 Outputs:
 
-<pre class="terminal"><code>
-execve("/data/local/Inst/lib/valgrind/memcheck-arm64-linux", ["/data/local/Inst/bin/valgrind", "am", "start", "-a", "android.intent.action.MAIN", "-n", "com.example.SGallery/.SGalleryMa"...], [/* 17 vars */]) = -1 ENOENT (No such file or directory)
-</code></pre>
+<pre class="terminal">
+<code>execve("/data/local/Inst/lib/valgrind/memcheck-arm64-linux", ["/data/local/Inst/bin/valgrind", "am", "start", "-a", "android.intent.action.MAIN", "-n", "com.example.SGallery/.SGalleryMa"...], [/* 17 vars */]) = -1 ENOENT (No such file or directory)</code>
+</pre>
 
 So I was stucked on this.
 And it is more frustrating that if I change to 64-bit configure, many Valgrind tools are failed to build. Still not memcheck-arm64-linux.
 
-# DDMS and MAT
+# DDMS
 
 DDMS (Dalvik Debug Monitor Server) is a debugging tool used in the Android platform, often downloaded as part of the Android SDK.
 You can launch it from: "Eclipse > Window > Open Perspective > Other... > DDMS" or 
 directly from: "PathToAndroidSDK\android-sdk-windows\tools\ddms.bat".
 
-Need to modify the ddms.cfg(c:/Users/username/.android/ddms.cfg) file to enable native heap tracking in DDMS:
+Need to modify the ddms.cfg (c:/Users/username/.android/ddms.cfg) file to enable native heap tracking in DDMS:
 
 Add
 
-<pre class="terminal"><code>
-native=true
-</code></pre>
+<pre class="terminal">
+<code>native=true</code>
+</pre>
 
 in ddms.cfg.
+
+Basicly I use DDMS to check if my Android app has memory leaks issues.
+After DDMS detect your app is running, you can see that there will be updatings in "Heap > data object > Total Size"
+everytime you interact with your app. That value indicates how much memory your app occupies while running.
+If app does not free all allocted Java data objects, then this value will keep increasing after every GC.
+So app will explode if excess some memory limitations and the process will be killed.
+
+![](https://software.intel.com/sites/default/files/managed/15/01/tips-for-optimizing-android-app-memory-fig2-ddms-heap-updates-track-allocation.png)
+
+# MAT
 
 MAT (Memory Analyzer Tool) is a Java heap analyzer that can help to find memory leaks. 
 You can download it from: [http://www.eclipse.org/mat/](http://www.eclipse.org/mat/).
@@ -85,3 +99,6 @@ You can download it from: [http://www.eclipse.org/mat/](http://www.eclipse.org/m
 Usually we use DDMS to dump a HPROF file, then use MAT to get reports.
 
 # Refs
+
+1. [http://www.programering.com/a/MjM3UzMwATE.html](http://www.programering.com/a/MjM3UzMwATE.html)
+2. [https://blog.frals.se/2014/07/02/building-and-running-valgrind-on-android/](https://blog.frals.se/2014/07/02/building-and-running-valgrind-on-android/)
