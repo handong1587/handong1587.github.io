@@ -20,13 +20,14 @@ date: 2015-10-09
 - github: [https://github.com/mbartoli/neural-animation](https://github.com/mbartoli/neural-animation)
 - github: [https://github.com/memisevic/artify](https://github.com/memisevic/artify)
 - github: [https://github.com/mattya/chainer-gogh](https://github.com/mattya/chainer-gogh)
-- github(**Neural style in TensorFlow!**): [https://github.com/anishathalye/neural-style](https://github.com/anishathalye/neural-style)
+- github(TensorFlow): [https://github.com/anishathalye/neural-style](https://github.com/anishathalye/neural-style)
 - github: [https://github.com/woodrush/neural-art-tf](https://github.com/woodrush/neural-art-tf)
 - github: [https://github.com/dmlc/mxnet/tree/master/example/neural-style](https://github.com/dmlc/mxnet/tree/master/example/neural-style)
 - demo: [http://deepart.io/](http://deepart.io/)
-- github("easyStyle"): [https://github.com/Teaonly/easyStyle](https://github.com/Teaonly/easyStyle)
+- github: [https://github.com/Teaonly/easyStyle](https://github.com/Teaonly/easyStyle)
 - github: [https://github.com/ckmarkoh/neuralart_tensorflow](https://github.com/ckmarkoh/neuralart_tensorflow)
 - github: [https://github.com/woodrush/neural-art-tf](https://github.com/woodrush/neural-art-tf)
+- github: [https://github.com/fzliu/style-transfer](https://github.com/fzliu/style-transfer)
 
 **neural-style-video**
 
@@ -160,6 +161,14 @@ with the style of another image using convolutional neural networks
 ![](https://raw.githubusercontent.com/genekogan/CubistMirror/master/photos/cubist_mirror_1.jpg)
 
 - github: [https://github.com/genekogan/CubistMirror](https://github.com/genekogan/CubistMirror)
+
+**Understanding Deep Dreams**
+
+- blog: [http://www.alanzucconi.com/2015/07/06/live-your-deepdream-how-to-recreate-the-inceptionism-effect/](http://www.alanzucconi.com/2015/07/06/live-your-deepdream-how-to-recreate-the-inceptionism-effect/)
+
+**Generating Deep Dreams**
+
+- blog：[http://www.alanzucconi.com/2016/05/25/generating-deep-dreams/](http://www.alanzucconi.com/2016/05/25/generating-deep-dreams/)
 
 # Video
 

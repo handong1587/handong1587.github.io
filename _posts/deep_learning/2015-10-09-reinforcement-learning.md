@@ -61,6 +61,7 @@ date: 2015-10-09
 - demo: [http://cs.stanford.edu/people/karpathy/convnetjs/demo/rldemo.html](http://cs.stanford.edu/people/karpathy/convnetjs/demo/rldemo.html)
 - github: [https://github.com/Kaixhin/Atari](https://github.com/Kaixhin/Atari)
 - github(Tensorflow): [https://github.com/gliese581gg/DQN_tensorflow](https://github.com/gliese581gg/DQN_tensorflow)
+- summary: [https://github.com/aleju/papers/blob/master/neural-nets/Playing_Atari_with_Deep_Reinforcement_Learning.md](https://github.com/aleju/papers/blob/master/neural-nets/Playing_Atari_with_Deep_Reinforcement_Learning.md)
 
 **Incentivizing Exploration In Reinforcement Learning With Deep Predictive Models**
 
@@ -77,6 +78,7 @@ date: 2015-10-09
 **Continuous control with deep reinforcement learning(Google Deepmind)**
 
 - paper: [http://arxiv.org/abs/1509.02971](http://arxiv.org/abs/1509.02971)
+- github: [https://github.com/iassael/torch-policy-gradient](https://github.com/iassael/torch-policy-gradient)
 
 **Benchmarking for Bayesian Reinforcement Learning**
 
@@ -305,6 +307,10 @@ Its simple, and is ideal for rapid prototyping."
 
 - project page: [http://dandxy89.github.io/rf_helicopter/](http://dandxy89.github.io/rf_helicopter/)
 - github: [https://github.com/dandxy89/rf_helicopter](https://github.com/dandxy89/rf_helicopter)
+
+**Playing Mario with Deep Reinforcement Learning**
+
+- github: [https://github.com/aleju/mario-ai](https://github.com/aleju/mario-ai)
 
 # Blogs
 

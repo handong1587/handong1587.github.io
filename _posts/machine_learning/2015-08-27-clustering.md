@@ -126,3 +126,12 @@ This is for music lovers who are curious about the structures inherent to their 
 **TfKmeans: A implementation of k-means clustering in TensorFlow**
 
 - github: [http://rasbt.github.io/mlxtend/user_guide/tf_cluster/TfKmeans/](http://rasbt.github.io/mlxtend/user_guide/tf_cluster/TfKmeans/)
+
+**CUDA K-Means Clustering: A CUDA implementation of the k-means clustering algorithm**
+
+- homepage: [http://serban.org/software/kmeans/](http://serban.org/software/kmeans/)
+- github: [https://github.com/serban/kmeans](https://github.com/serban/kmeans)
+
+**kmeans_cuda: CUDA implementation of k-means**
+
+- github: [https://github.com/phvu/kmeans_cuda](https://github.com/phvu/kmeans_cuda)

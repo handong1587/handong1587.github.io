@@ -68,6 +68,12 @@ date: 2015-07-01
 
 - blog: [http://blog.petrzemek.net/2016/04/06/things-about-vim-i-wish-i-knew-earlier/](http://blog.petrzemek.net/2016/04/06/things-about-vim-i-wish-i-knew-earlier/)
 
+# Git
+
+**Learn Git in 30 Minutes**
+
+- blog: [http://tutorialzine.com/2016/06/learn-git-in-30-minutes/](http://tutorialzine.com/2016/06/learn-git-in-30-minutes/)
+
 # Codes
 
 **The Archive of Interesting Code**

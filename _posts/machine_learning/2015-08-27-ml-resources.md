@@ -435,6 +435,12 @@ Other awesome lists can be found in this [list](https://github.com/sindresorhus/
 
 [http://www.erogol.com/fighting-class-unbalance-supervised-ml-problem/](http://www.erogol.com/fighting-class-unbalance-supervised-ml-problem/)
 
+**How Kalman Filters Work**
+
+- part 1: [http://www.anuncommonlab.com/articles/how-kalman-filters-work/](http://www.anuncommonlab.com/articles/how-kalman-filters-work/)
+- part 2: [http://www.anuncommonlab.com/articles/how-kalman-filters-work/part2.html](http://www.anuncommonlab.com/articles/how-kalman-filters-work/part2.html)
+- part 3: [http://www.anuncommonlab.com/articles/how-kalman-filters-work/part3.html](http://www.anuncommonlab.com/articles/how-kalman-filters-work/part3.html)
+
 # Machine Learning Library
 
 **LambdaNet: Purely functional artificial neural network library implemented in Haskell**
