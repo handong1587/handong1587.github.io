@@ -66,6 +66,10 @@ date: 2015-08-27
 - paper: [https://github.com/openjournals/joss-papers/blob/master/joss.00012/10.21105.joss.00012.pdf](https://github.com/openjournals/joss-papers/blob/master/joss.00012/10.21105.joss.00012.pdf)
 - github: [https://github.com/jakevdp/mst_clustering](https://github.com/jakevdp/mst_clustering)
 
+**k2-means for fast and accurate large scale clustering**
+
+- arixv: [http://arxiv.org/abs/1605.09299](http://arxiv.org/abs/1605.09299)
+
 # Books
 
 **Introduction to Clustering and Unsupervised Learning | PACKT Books**

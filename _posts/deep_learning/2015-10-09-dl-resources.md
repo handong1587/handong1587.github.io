@@ -607,6 +607,10 @@ We also include one pre-trained model using a custom convolutional network."
 
 - github: [https://github.com/rasbt/python-machine-learning-book/blob/master/faq/deeplearn-vs-svm-randomforest.md](https://github.com/rasbt/python-machine-learning-book/blob/master/faq/deeplearn-vs-svm-randomforest.md)
 
+**What is the difference between deep learning and usual machine learning?**
+
+- note: [https://github.com/rasbt/python-machine-learning-book/blob/master/faq/difference-deep-and-normal-learning.md](https://github.com/rasbt/python-machine-learning-book/blob/master/faq/difference-deep-and-normal-learning.md)
+
 # Installation
 
 **Setting up a Deep Learning Machine from Scratch (Software): Instructions for setting up the software on your deep learning machine**

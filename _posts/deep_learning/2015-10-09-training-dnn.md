@@ -231,6 +231,29 @@ date: 2015-10-09
 
 # Gradient Descent
 
+**Adaptive Subgradient Methods for Online Learning and Stochastic Optimization (AdaGrad)**
+
+- paper: [http://www.jmlr.org/papers/volume12/duchi11a/duchi11a.pdf](http://www.jmlr.org/papers/volume12/duchi11a/duchi11a.pdf)
+
+**ADADELTA: An Adaptive Learning Rate Method**
+
+- arxiv: [http://arxiv.org/abs/1212.5701](http://arxiv.org/abs/1212.5701)
+
+**On the importance of initialization and momentum in deep learning (NAG: Nesterov)**
+
+- paper: [http://www.cs.toronto.edu/~fritz/absps/momentum.pdf](http://www.cs.toronto.edu/~fritz/absps/momentum.pdf)
+
+**RMSProp: Divide the gradient by a running average of its recent magnitude**
+
+![](/assets/train-dnn/rmsprop.jpg)
+
+- intro: it was not proposed in a paper, in fact it was just introduced in a slide in Geoffrey Hinton's Coursera class 
+- slides: [http://www.cs.toronto.edu/~tijmen/csc321/slides/lecture_slides_lec6.pdf](http://www.cs.toronto.edu/~tijmen/csc321/slides/lecture_slides_lec6.pdf)
+
+**Adam: A Method for Stochastic Optimization**
+
+- arxiv: [http://arxiv.org/abs/1412.6980](http://arxiv.org/abs/1412.6980)
+
 **Fitting a model via closed-form equations vs. Gradient Descent vs Stochastic Gradient Descent vs Mini-Batch Learning. What is the difference?(Normal Equations vs. GD vs. SGD vs. MB-GD)**
 
 [http://sebastianraschka.com/faq/docs/closed-form-vs-gd.html](http://sebastianraschka.com/faq/docs/closed-form-vs-gd.html)
@@ -287,6 +310,7 @@ date: 2015-10-09
 
 **Understanding the difﬁculty of training deep feed forward neural networks**
 
+- intro: Xavier initialization
 - paper: [http://jmlr.org/proceedings/papers/v9/glorot10a/glorot10a.pdf](http://jmlr.org/proceedings/papers/v9/glorot10a/glorot10a.pdf)
 
 **Scalable and Sustainable Deep Learning via Randomized Hashing**
