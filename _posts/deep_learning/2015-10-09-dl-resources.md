@@ -65,7 +65,7 @@ date: 2015-10-09
 - github: [https://github.com/NervanaSystems/neon/blob/master/examples/cifar10_msra.py](https://github.com/NervanaSystems/neon/blob/master/examples/cifar10_msra.py)
 - github: [https://github.com/facebook/fb.resnet.torch](https://github.com/facebook/fb.resnet.torch)
 - github: [https://github.com/yasunorikudo/chainer-ResNet](https://github.com/yasunorikudo/chainer-ResNet)
-- github(Keras-1.0): [https://github.com/raghakot/keras-resnet](https://github.com/raghakot/keras-resnet)
+- github: [https://github.com/raghakot/keras-resnet](https://github.com/raghakot/keras-resnet)
 
 **Training and investigating Residual Nets**
 
@@ -88,6 +88,7 @@ date: 2015-10-09
 
 - arxiv: [http://arxiv.org/abs/1603.05027](http://arxiv.org/abs/1603.05027)
 - github: [https://github.com/KaimingHe/resnet-1k-layers](https://github.com/KaimingHe/resnet-1k-layers)
+- github: [https://github.com/bazilas/matconvnet-ResNet](https://github.com/bazilas/matconvnet-ResNet)
 
 **Residual Networks are Exponential Ensembles of Relatively Shallow Networks**
 
@@ -681,6 +682,10 @@ This was tested on a 64 bit machine with Nvidia Titan X, running Ubuntu 14.04
 ![](http://api.ning.com/files/mRIiJdI0bcyTIJftimMbMYW4VRcz-NC1gCERsgtyu*mNietZRBt5g3AUs06WtU2BigiPWs1MvWCYq6bsuWrNbsG1KBqrcm8b/Capture.PNG)
 
 - blog: [http://www.datasciencecentral.com/profiles/blogs/deep-learning-definition-resources-comparison-with-machine-learni](http://www.datasciencecentral.com/profiles/blogs/deep-learning-definition-resources-comparison-with-machine-learni)
+
+**Awesome - Most Cited Deep Learning Papers**
+
+- github: [https://github.com/terryum/awesome-deep-learning-papers](https://github.com/terryum/awesome-deep-learning-papers)
 
 # Tools
 

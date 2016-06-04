@@ -292,6 +292,10 @@ for building Deep Learning (DL) machine learning (ML) models
 
 - blog: [http://yuyang0.github.io/notes/mxnet-engine.html](http://yuyang0.github.io/notes/mxnet-engine.html)
 
+**MXNET是这样压榨深度学习的内存消耗的**
+
+- doc: [https://github.com/dmlc/mxnet/blob/master/docs/zh/note_memory.md](https://github.com/dmlc/mxnet/blob/master/docs/zh/note_memory.md)
+
 # neocortex.js
 
 **Run trained deep neural networks in the browser or node.js**
@@ -416,6 +420,13 @@ for building Deep Learning (DL) machine learning (ML) models
 **TensorFlow: A system for large-scale machine learning**
 
 - arxiv: [http://arxiv.org/abs/1605.08695](http://arxiv.org/abs/1605.08695)
+
+**TensorFlow Tutorial**
+
+- homepage: [http://terryum.io/ml_practice/2016/05/28/TFIntroSlides/](http://terryum.io/ml_practice/2016/05/28/TFIntroSlides/)
+- slides: [https://s3.amazonaws.com/www.terryum.io/images/TensorFlow_Intro_160529.pptx](https://s3.amazonaws.com/www.terryum.io/images/TensorFlow_Intro_160529.pptx)
+- mirror: [http://pan.baidu.com/s/1c5cICY](http://pan.baidu.com/s/1c5cICY)
+- github: [https://github.com/terryum/TensorFlow_Exercises](https://github.com/terryum/TensorFlow_Exercises)
 
 # Theano
 

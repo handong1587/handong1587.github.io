@@ -59,7 +59,7 @@ date: 2015-10-09
 
 - arXiv: [http://arxiv.org/abs/1510.03931](http://arxiv.org/abs/1510.03931)
 
-**Dynamic Memory Networks for Visual and Textual Question Answering**
+**Dynamic Memory Networks for Visual and Textual Question Answering (MetaMind 2016)**
 
 - arixv: [http://arxiv.org/abs/1603.01417](http://arxiv.org/abs/1603.01417)
 - slides: [http://slides.com/smerity/dmn-for-tqa-and-vqa-nvidia-gtc#/](http://slides.com/smerity/dmn-for-tqa-and-vqa-nvidia-gtc#/)

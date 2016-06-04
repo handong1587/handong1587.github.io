@@ -36,6 +36,7 @@ date: 2015-10-09
 ![](http://karpathy.github.io/assets/rl/preview.jpeg)
 
 - blog: [http://karpathy.github.io/2016/05/31/rl/](http://karpathy.github.io/2016/05/31/rl/)
+- gist: [https://gist.github.com/karpathy/a4166c7fe253700972fcbc77e4ea32c5](https://gist.github.com/karpathy/a4166c7fe253700972fcbc77e4ea32c5)
 
 # Courses
 

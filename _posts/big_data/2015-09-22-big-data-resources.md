@@ -30,3 +30,9 @@ date: 2015-09-22
 **Awesome Big Data Algorithms**
 
 - youtube: [https://www.youtube.com/watch?v=jKBwGlYb13w](https://www.youtube.com/watch?v=jKBwGlYb13w)
+
+# Blog
+
+**Uncovering Big Bias with Big Data**
+
+- blog: [https://lawyerist.com/110584/big-bias-big-data/](https://lawyerist.com/110584/big-bias-big-data/)

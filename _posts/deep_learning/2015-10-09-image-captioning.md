@@ -5,6 +5,8 @@ title: Image Captioning
 date: 2015-10-09
 ---
 
+# Papers
+
 **Im2Text: Describing Images Using 1 Million Captioned Photographs**
 
 ![](http://vision.cs.stonybrook.edu/~vicente/sbucaptions/im2text_files/im2text.png)
@@ -124,6 +126,12 @@ after the embedding and recurrent layers of the RNN."
 **Video Description using Bidirectional Recurrent Neural Networks**
 
 - arxiv: [http://arxiv.org/abs/1604.03390](http://arxiv.org/abs/1604.03390)
+
+# Projects
+
+**Learning CNN-LSTM Architectures for Image Caption Generation: An implementation of CNN-LSTM image caption generator architecture that achieves close to state-of-the-art results on the MSCOCO dataset.**
+
+- github: [https://github.com/mosessoh/CNN-LSTM-Caption-Generator](https://github.com/mosessoh/CNN-LSTM-Caption-Generator)
 
 # Tools
 
