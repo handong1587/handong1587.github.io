@@ -73,7 +73,7 @@ date: 2015-10-09
 
 ## Boundary Detection
 
-**Surpassing Humans in Boundary Detection using Deep Learning**
+**Pushing the Boundaries of Boundary Detection using Deep Learning**
 
 - arXiv: [http://arxiv.org/abs/1511.07386](http://arxiv.org/abs/1511.07386)
 

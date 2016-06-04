@@ -304,7 +304,9 @@ with fast exact probabilistic inference over many layers."
 - arxiv: [http://arxiv.org/abs/1511.07356](http://arxiv.org/abs/1511.07356)
 - github: [https://github.com/SinaHonari/RCN](https://github.com/SinaHonari/RCN)
 
-**Dynamic Capacity Networks**
+**Dynamic Capacity Networks (ICML 2016)**
+
+![](http://mmbiz.qpic.cn/mmbiz/KmXPKA19gW8YYXeWomd4s4ruu7Jmb3wCMIXYPOgr9KIYzckKoiatgcEhedGnZfDZn40BYIoJMZibibxslEb3uicoibw/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1)
 
 - arxiv: [http://arxiv.org/abs/1511.07838](http://arxiv.org/abs/1511.07838)
 - github(Tensorflow): [https://github.com/beopst/dcn.tf](https://github.com/beopst/dcn.tf)
@@ -463,11 +465,6 @@ with fast exact probabilistic inference over many layers."
 **Learning Efficient Algorithms with Hierarchical Attentive Memory**
 
 - arxiv: [http://arxiv.org/abs/1602.03218](http://arxiv.org/abs/1602.03218)
-
-**Convergent Learning: Do different neural networks learn the same representations?**
-
-- arxiv: [http://arxiv.org/abs/1511.07543](http://arxiv.org/abs/1511.07543)
-- github: [https://github.com/yixuanli/convergent_learning](https://github.com/yixuanli/convergent_learning)
 
 **DrMAD: Distilling Reverse-Mode Automatic Differentiation for Optimizing Hyperparameters of Deep Neural Networks**
 

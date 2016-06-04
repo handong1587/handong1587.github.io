@@ -135,6 +135,10 @@ date: 2015-10-09
 
 - arxiv: [http://arxiv.org/abs/1602.05875](http://arxiv.org/abs/1602.05875)
 
+**Neural Random-Access Machines**
+
+- arxiv: [http://arxiv.org/abs/1511.06392](http://arxiv.org/abs/1511.06392)
+
 # Attention Models
 
 **Recurrent Models of Visual Attention** (Google DeepMind. NIPS2014)

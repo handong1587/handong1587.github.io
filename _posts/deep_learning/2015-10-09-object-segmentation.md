@@ -63,30 +63,6 @@ using the stochastic gradient descent (SGD) algorithm to obtain fine pixel-level
 - github: [https://github.com/torrvision/crfasrnn](https://github.com/torrvision/crfasrnn)
 - demo: [http://www.robots.ox.ac.uk/~szheng/crfasrnndemo](http://www.robots.ox.ac.uk/~szheng/crfasrnndemo)
 
-**Learning to Segment Object Candidates (DeepMask)**
-
-- arxiv: [http://arxiv.org/abs/1506.06204](http://arxiv.org/abs/1506.06204)
-- github: [https://github.com/abbypa/NNProject_DeepMask](https://github.com/abbypa/NNProject_DeepMask)
-
-**Proposal-free Network for Instance-level Object Segmentation**
-
-- paper: [http://arxiv.org/abs/1509.02636](http://arxiv.org/abs/1509.02636)
-
-**Semantic Image Segmentation via Deep Parsing Network**
-
-![](http://personal.ie.cuhk.edu.hk/~lz013/projects/dpn/intro.png)
-
-- paper: [http://arxiv.org/abs/1509.02634](http://arxiv.org/abs/1509.02634)
-- homepage: [http://personal.ie.cuhk.edu.hk/~lz013/projects/DPN.html](http://personal.ie.cuhk.edu.hk/~lz013/projects/DPN.html)
-
-**Decoupled Deep Neural Network for Semi-supervised Semantic Segmentation(NIPS 2015)**
-
-![](http://cvlab.postech.ac.kr/research/decouplednet/images/overall.png)
-
-- paper: [http://arxiv.org/abs/1506.04924](http://arxiv.org/abs/1506.04924)
-- project[paper+code]: [http://cvlab.postech.ac.kr/research/decouplednet/](http://cvlab.postech.ac.kr/research/decouplednet/)
-- github: [https://github.com/HyeonwooNoh/DecoupledNet](https://github.com/HyeonwooNoh/DecoupledNet)
-
 **Learning Deconvolution Network for Semantic Segmentation (DeconvNet)**
 
 - arXiv: [http://arxiv.org/abs/1505.04366](http://arxiv.org/abs/1505.04366)
@@ -96,6 +72,30 @@ using the stochastic gradient descent (SGD) algorithm to obtain fine pixel-level
 
 - arXiv: [http://arxiv.org/abs/1505.07293](http://arxiv.org/abs/1505.07293)
 - github: [https://github.com/alexgkendall/caffe-segnet](https://github.com/alexgkendall/caffe-segnet)
+
+**Decoupled Deep Neural Network for Semi-supervised Semantic Segmentation(NIPS 2015)**
+
+![](http://cvlab.postech.ac.kr/research/decouplednet/images/overall.png)
+
+- paper: [http://arxiv.org/abs/1506.04924](http://arxiv.org/abs/1506.04924)
+- project[paper+code]: [http://cvlab.postech.ac.kr/research/decouplednet/](http://cvlab.postech.ac.kr/research/decouplednet/)
+- github: [https://github.com/HyeonwooNoh/DecoupledNet](https://github.com/HyeonwooNoh/DecoupledNet)
+
+**Learning to Segment Object Candidates (DeepMask)**
+
+- arxiv: [http://arxiv.org/abs/1506.06204](http://arxiv.org/abs/1506.06204)
+- github: [https://github.com/abbypa/NNProject_DeepMask](https://github.com/abbypa/NNProject_DeepMask)
+
+**Semantic Image Segmentation via Deep Parsing Network**
+
+![](http://personal.ie.cuhk.edu.hk/~lz013/projects/dpn/intro.png)
+
+- paper: [http://arxiv.org/abs/1509.02634](http://arxiv.org/abs/1509.02634)
+- homepage: [http://personal.ie.cuhk.edu.hk/~lz013/projects/DPN.html](http://personal.ie.cuhk.edu.hk/~lz013/projects/DPN.html)
+
+**Proposal-free Network for Instance-level Object Segmentation**
+
+- paper: [http://arxiv.org/abs/1509.02636](http://arxiv.org/abs/1509.02636)
 
 **SegNet: A Deep Convolutional Encoder-Decoder Architecture for Image Segmentation**
 
@@ -110,6 +110,13 @@ using the stochastic gradient descent (SGD) algorithm to obtain fine pixel-level
 
 - youtube: [https://www.youtube.com/watch?v=xfNYAly1iXo](https://www.youtube.com/watch?v=xfNYAly1iXo)
 - video: [http://pan.baidu.com/s/1gdUzDlD](http://pan.baidu.com/s/1gdUzDlD)
+
+**Learning to decompose for object detection and instance segmentation**
+
+![](http://mmbiz.qpic.cn/mmbiz/KmXPKA19gW8YYXeWomd4s4ruu7Jmb3wCwH0oIbT44bCLsVqqpkaibT3sXqoRqCicVZiay2OjslwIvrUzpRrfLaRTw/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1)
+
+- intro: CNN / RNN, MNIST, KITTI 
+- arxiv: [http://arxiv.org/abs/1511.06449](http://arxiv.org/abs/1511.06449)
 
 **Multi-Scale Context Aggregation by Dilated Convolutions**
 

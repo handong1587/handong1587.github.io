@@ -67,6 +67,11 @@ date: 2015-10-09
 - homepage: [http://www.stat.ucla.edu/~yang.lu/project/deepFrame/main.html](http://www.stat.ucla.edu/~yang.lu/project/deepFrame/main.html)
 - code: [http://www.stat.ucla.edu/~yang.lu/project/deepFrame/doc/code.zip](http://www.stat.ucla.edu/~yang.lu/project/deepFrame/doc/code.zip)
 
+**Convergent Learning: Do different neural networks learn the same representations? (ICLR 2016)**
+
+- arxiv: [http://arxiv.org/abs/1511.07543](http://arxiv.org/abs/1511.07543)
+- github: [https://github.com/yixuanli/convergent_learning](https://github.com/yixuanli/convergent_learning)
+
 **Visualizing and Understanding Deep Texture Representations**
 
 - homepage: [http://vis-www.cs.umass.edu/texture/](http://vis-www.cs.umass.edu/texture/)

@@ -181,6 +181,14 @@ date: 2015-10-09
 - intro: "an extremely simple algorithm which randomly replaces a part of labels as incorrect values in each iteration"
 - paper: [http://research.microsoft.com/en-us/um/people/jingdw/pubs/cvpr16-disturblabel.pdf](http://research.microsoft.com/en-us/um/people/jingdw/pubs/cvpr16-disturblabel.pdf)
 
+**Robust Convolutional Neural Networks under Adversarial Noise (ICLR 2016)**
+
+- arxiv: [http://arxiv.org/abs/1511.06306](http://arxiv.org/abs/1511.06306)
+
+**Adding Gradient Noise Improves Learning for Very Deep Networks (ICLR 2016)**
+
+- arxiv: [http://arxiv.org/abs/1511.06807](http://arxiv.org/abs/1511.06807)
+
 **Stochastic Function Norm Regularization of Deep Networks**
 
 - arxiv: [http://arxiv.org/abs/1605.09085](http://arxiv.org/abs/1605.09085)
@@ -252,6 +260,14 @@ date: 2015-10-09
 - arxiv: [http://arxiv.org/abs/1604.00981](http://arxiv.org/abs/1604.00981)
 
 # Accelerate Training
+
+**Neural Networks with Few Multiplications (ICLR 2016)**
+
+- arxiv: [https://arxiv.org/abs/1510.03009](https://arxiv.org/abs/1510.03009)
+
+**8-Bit Approximations for Parallelism in Deep Learning (ICLR 2016)**
+
+- arxiv: [http://arxiv.org/abs/1511.04561](http://arxiv.org/abs/1511.04561)
 
 **Acceleration of Deep Neural Network Training with Resistive Cross-Point Devices**
 
