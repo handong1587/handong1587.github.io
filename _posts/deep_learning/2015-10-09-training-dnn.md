@@ -73,10 +73,13 @@ date: 2015-10-09
 
 - arxiv: [http://arxiv.org/abs/1504.08291](http://arxiv.org/abs/1504.08291)
 
-**All you need is a good init**
+**All you need is a good init (ICLR 2016)**
 
 - arxiv: [http://arxiv.org/abs/1511.06422](http://arxiv.org/abs/1511.06422)
 - github: [https://github.com/ducha-aiki/LSUVinit](https://github.com/ducha-aiki/LSUVinit)
+- github(Torch): [https://github.com/yobibyte/torch-lsuv](https://github.com/yobibyte/torch-lsuv)
+- github: [https://github.com/yobibyte/yobiblog/blob/master/posts/all-you-need-is-a-good-init.md](https://github.com/yobibyte/yobiblog/blob/master/posts/all-you-need-is-a-good-init.md)
+- review: [http://www.erogol.com/need-good-init/](http://www.erogol.com/need-good-init/)
 
 **Data-dependent Initializations of Convolutional Neural Networks**
 

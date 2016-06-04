@@ -310,6 +310,7 @@ with fast exact probabilistic inference over many layers."
 
 - arxiv: [http://arxiv.org/abs/1511.07838](http://arxiv.org/abs/1511.07838)
 - github(Tensorflow): [https://github.com/beopst/dcn.tf](https://github.com/beopst/dcn.tf)
+- review: [http://www.erogol.com/1314-2/](http://www.erogol.com/1314-2/)
 
 **Bitwise Neural Networks**
 
