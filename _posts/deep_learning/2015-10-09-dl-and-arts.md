@@ -170,6 +170,12 @@ with the style of another image using convolutional neural networks
 
 - blog：[http://www.alanzucconi.com/2016/05/25/generating-deep-dreams/](http://www.alanzucconi.com/2016/05/25/generating-deep-dreams/)
 
+**neural-art-mini: Lightweight version of mxnet neural art implementation**
+
+- intro: Lightweight version of mxnet neural art implementation using ~4.8M SqueezeNet model. 
+Compressed model is less than 500KB
+- github: [https://github.com/pavelgonchar/neural-art-mini](https://github.com/pavelgonchar/neural-art-mini)
+
 # Video
 
 **Instructions for making a Neural-Style movie**
@@ -281,7 +287,6 @@ with the style of another image using convolutional neural networks
 - github: [https://github.com/ml4a/ml4a.github.io/tree/master/_posts](https://github.com/ml4a/ml4a.github.io/tree/master/_posts)
 - notes: [http://www.kdnuggets.com/2016/04/machine-learning-artists-video-lectures-notes.html](http://www.kdnuggets.com/2016/04/machine-learning-artists-video-lectures-notes.html)
 - blog: [https://medium.com/@genekogan/machine-learning-for-artists-e93d20fdb097#.25w95beqb](https://medium.com/@genekogan/machine-learning-for-artists-e93d20fdb097#.25w95beqb)
-
 
 # Blogs
 
