@@ -131,6 +131,7 @@ to decompose it into the multiplications of thinned dense matrices"
 - homepage: [http://songhan.github.io/SqueezeNet-Deep-Compression/](http://songhan.github.io/SqueezeNet-Deep-Compression/)
 - github: [https://github.com/songhan/SqueezeNet-Deep-Compression](https://github.com/songhan/SqueezeNet-Deep-Compression)
 - note: [https://www.evernote.com/shard/s146/sh/108eea91-349b-48ba-b7eb-7ac8f548bee9/5171dc6b1088fba05a4e317f7f5d32a3](https://www.evernote.com/shard/s146/sh/108eea91-349b-48ba-b7eb-7ac8f548bee9/5171dc6b1088fba05a4e317f7f5d32a3)
+- github(Keras): [https://github.com/DT42/squeezenet_demo](https://github.com/DT42/squeezenet_demo)
 
 **Convolutional Neural Networks using Logarithmic Data Representation**
 

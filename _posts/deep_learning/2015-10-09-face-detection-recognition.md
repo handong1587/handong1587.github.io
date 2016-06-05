@@ -48,6 +48,7 @@ date: 2015-10-09
 
 - arXiv: [http://arxiv.org/abs/1503.03832](http://arxiv.org/abs/1503.03832)
 - github: [https://github.com/cmusatyalab/openface](https://github.com/cmusatyalab/openface)
+- github: [https://github.com/Atcold/torch-TripletEmbedding](https://github.com/Atcold/torch-TripletEmbedding)
 
 **Targeting Ultimate Accuracy: Face Recognition via Deep Embedding(CVPR 2015)**
 

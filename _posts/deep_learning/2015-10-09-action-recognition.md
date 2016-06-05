@@ -9,6 +9,10 @@ date: 2015-10-09
 
 - paper: [http://www.cs.odu.edu/~sji/papers/pdf/Ji_ICML10.pdf](http://www.cs.odu.edu/~sji/papers/pdf/Ji_ICML10.pdf)
 
+**Large-scale Video Classification with Convolutional Neural Networks (CVPR 2014)**
+
+paper: [http://120.52.73.14/www.cv-foundation.org/openaccess/content_cvpr_2014/papers/Karpathy_Large-scale_Video_Classification_2014_CVPR_paper.pdf](http://120.52.73.14/www.cv-foundation.org/openaccess/content_cvpr_2014/papers/Karpathy_Large-scale_Video_Classification_2014_CVPR_paper.pdf)
+
 **Two-stream convolutional networks for action recognition in videos**
 
 **Long-term Recurrent Convolutional Networks for Visual Recognition and Description**

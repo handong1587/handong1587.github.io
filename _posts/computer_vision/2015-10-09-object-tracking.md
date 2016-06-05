@@ -21,6 +21,7 @@ date: 2015-10-09
 
 - homepage: [http://cvgl.stanford.edu/projects/MDP_tracking/](http://cvgl.stanford.edu/projects/MDP_tracking/)
 - paper: [http://cvgl.stanford.edu/papers/xiang_iccv15.pdf](http://cvgl.stanford.edu/papers/xiang_iccv15.pdf)
+- slides: [https://yuxng.github.io/Xiang_ICCV15_12162015.pdf](https://yuxng.github.io/Xiang_ICCV15_12162015.pdf)
 - github: [https://github.com/yuxng/MDP_Tracking](https://github.com/yuxng/MDP_Tracking)
 
 **Joint Tracking and Segmentation of Multiple Targets**

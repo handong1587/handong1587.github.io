@@ -9,10 +9,6 @@ date: 2015-10-09
 
 - project page: [http://winsty.net/dlt.html](http://winsty.net/dlt.html)
 
-**Large-scale Video Classification with Convolutional Neural Networks**
-
-paper: [http://120.52.73.14/www.cv-foundation.org/openaccess/content_cvpr_2014/papers/Karpathy_Large-scale_Video_Classification_2014_CVPR_paper.pdf](http://120.52.73.14/www.cv-foundation.org/openaccess/content_cvpr_2014/papers/Karpathy_Large-scale_Video_Classification_2014_CVPR_paper.pdf)
-
 **Hierarchical Convolutional Features for Visual Tracking (ICCV 2015)**
 
 <img src="/assets/visual-tracking/Hierarchical_Convolutional_Features_for_Visual_Tracking_teaser.jpg"/>
@@ -23,6 +19,8 @@ paper: [http://120.52.73.14/www.cv-foundation.org/openaccess/content_cvpr_2014/p
 **Robust Visual Tracking via Convolutional Networks**
 
 - arxiv: [http://arxiv.org/abs/1501.04505](http://arxiv.org/abs/1501.04505)
+- paper: [http://kaihuazhang.net/CNT.pdf](http://kaihuazhang.net/CNT.pdf)
+- code: [http://kaihuazhang.net/CNT_matlab.rar](http://kaihuazhang.net/CNT_matlab.rar)
 
 **Transferring Rich Feature Hierarchies for Robust Visual Tracking**
 
@@ -41,7 +39,7 @@ paper: [http://120.52.73.14/www.cv-foundation.org/openaccess/content_cvpr_2014/p
 
 - arxiv: [http://arxiv.org/abs/1510.08660](http://arxiv.org/abs/1510.08660)
 
-**Understanding and Diagnosing Visual Tracking Systems (ICCV2015')**
+**Understanding and Diagnosing Visual Tracking Systems (ICCV 2015)**
 
 ![](http://winsty.net/diagnose/pipeline.png)
 
@@ -54,7 +52,7 @@ paper: [http://120.52.73.14/www.cv-foundation.org/openaccess/content_cvpr_2014/p
 - paper: [http://202.118.75.4/lu/Paper/ICCV2015/iccv15_lijun.pdf](http://202.118.75.4/lu/Paper/ICCV2015/iccv15_lijun.pdf)
 - github: [https://github.com/scott89/FCNT](https://github.com/scott89/FCNT)
 
-**Deep Tracking: Seeing Beyond Seeing Using Recurrent Neural Networks**
+**Deep Tracking: Seeing Beyond Seeing Using Recurrent Neural Networks (AAAI 2016)**
 
 - arxiv: [http://arxiv.org/abs/1602.00991](http://arxiv.org/abs/1602.00991)
 - github: [https://github.com/pondruska/DeepTracking](https://github.com/pondruska/DeepTracking)

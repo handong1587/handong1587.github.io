@@ -385,6 +385,12 @@ date: 2015-10-09
 - blog: [http://mourafiq.com/2016/05/15/predicting-sequences-using-rnn-in-tensorflow.html](http://mourafiq.com/2016/05/15/predicting-sequences-using-rnn-in-tensorflow.html)
 - github: [https://github.com/mouradmourafiq/tensorflow-lstm-regression](https://github.com/mouradmourafiq/tensorflow-lstm-regression)
 
+**LSTMs**
+
+![](https://shapeofdata.files.wordpress.com/2016/06/lstm.png?w=640)
+
+- blog: [https://shapeofdata.wordpress.com/2016/06/04/lstms/](https://shapeofdata.wordpress.com/2016/06/04/lstms/)
+
 # Resources
 
 **Awesome Recurrent Neural Networks - A curated list of resources dedicated to RNN**

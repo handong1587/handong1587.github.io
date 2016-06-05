@@ -44,6 +44,13 @@ date: 2015-07-01
 
 [http://bigocheatsheet.com/](http://bigocheatsheet.com/)
 
+**Visualizing Algorithms**
+
+![](https://bost.ocks.org/mike/algorithms/buy-vs-rent.gif)
+
+- github: [https://bost.ocks.org/mike/algorithms/](https://bost.ocks.org/mike/algorithms/)
+- video: [http://vimeo.com/112319901](http://vimeo.com/112319901)
+
 # Codes
 
 **Bloofi: A java implementation of multidimensional Bloom filters**

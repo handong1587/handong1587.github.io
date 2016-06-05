@@ -290,7 +290,7 @@ for building Deep Learning (DL) machine learning (ML) models
 
 **MXNET Dependency Engine**
 
-- blog: [http://yuyang0.github.io/notes/mxnet-engine.html](http://yuyang0.github.io/notes/mxnet-engine.html)
+- blog: [http://yuyang0.github.io/articles/mxnet-engine.html](http://yuyang0.github.io/articles/mxnet-engine.html)
 
 **MXNET是这样压榨深度学习的内存消耗的**
 

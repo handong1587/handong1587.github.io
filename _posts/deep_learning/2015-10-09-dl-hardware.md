@@ -31,6 +31,12 @@ date: 2015-10-09
 
 - blog: [https://annalyzin.wordpress.com/2016/05/19/build-a-deep-learning-box/](https://annalyzin.wordpress.com/2016/05/19/build-a-deep-learning-box/)
 
+**32-TFLOP Deep Learning GPU Box: A super-fast linux-based machine with multiple GPUs for training deep neural nets**
+
+![](https://cdn.hackaday.io/images/9225171465012519301.JPG)
+
+[https://hackaday.io/project/12070-32-tflop-deep-learning-gpu-box](https://hackaday.io/project/12070-32-tflop-deep-learning-gpu-box)
+
 # GPU
 
 **Course on CUDA Programming on NVIDIA GPUs, July 27--31, 2015**

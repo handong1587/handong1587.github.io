@@ -107,7 +107,7 @@ date: 2015-10-09
 
 [http://blog.otoro.net/2016/04/01/generating-large-images-from-latent-vectors/](http://blog.otoro.net/2016/04/01/generating-large-images-from-latent-vectors/)
 
-# Codes
+# Projects
 
 **Generate cat images with neural networks**
 
@@ -120,3 +120,15 @@ date: 2015-10-09
 Variational Autoencoder (VAE) 
 and DRAW: A Recurrent Neural Network For Image Generation).
 - github: [https://github.com/ikostrikov/TensorFlow-VAE-GAN-DRAW](https://github.com/ikostrikov/TensorFlow-VAE-GAN-DRAW)
+
+**Generating Large Images from Latent Vectors**
+
+![](http://blog.otoro.net/assets/20160401/png/generator_example.png)
+
+- project page: [http://blog.otoro.net/2016/04/01/generating-large-images-from-latent-vectors/](http://blog.otoro.net/2016/04/01/generating-large-images-from-latent-vectors/)
+- github: [https://github.com/hardmaru/cppn-gan-vae-tensorflow](https://github.com/hardmaru/cppn-gan-vae-tensorflow)
+
+**Generating Large Images from Latent Vectors - Part Two**
+
+- project page: [http://blog.otoro.net/2016/06/02/generating-large-images-from-latent-vectors-part-two/](http://blog.otoro.net/2016/06/02/generating-large-images-from-latent-vectors-part-two/)
+- github: [https://github.com/hardmaru/resnet-cppn-gan-tensorflow](https://github.com/hardmaru/resnet-cppn-gan-tensorflow)

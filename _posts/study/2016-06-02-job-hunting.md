@@ -46,8 +46,6 @@ There are no right answers but it helps to understand their thoughts and researc
 
 (by Kenneth Tran, ML Scientist @ MSR)
 
-
-
 # Machine Learning
 
 **What are the best interview questions to evaluate a machine learning researcher?**
@@ -97,3 +95,9 @@ There are no right answers but it helps to understand their thoughts and researc
 **Top Answers to Python Interview Questions**
 
 - blog: [https://intellipaat.com/interview-question/python-interview-questions/](https://intellipaat.com/interview-question/python-interview-questions/)
+
+# Resources
+
+**Awesome Interviews**
+
+- github: [https://github.com/MaximAbramchuck/awesome-interview-questions](https://github.com/MaximAbramchuck/awesome-interview-questions)
