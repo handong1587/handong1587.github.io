@@ -1,7 +1,7 @@
 ---
 layout: post
 category: deep_learning
-title: Visual Tracking
+title: Object Tracking
 date: 2015-10-09
 ---
 
@@ -38,6 +38,7 @@ date: 2015-10-09
 **RATM: Recurrent Attentive Tracking Model**
 
 - arxiv: [http://arxiv.org/abs/1510.08660](http://arxiv.org/abs/1510.08660)
+- github: [https://github.com/saebrahimi/RATM](https://github.com/saebrahimi/RATM)
 
 **Understanding and Diagnosing Visual Tracking Systems (ICCV 2015)**
 
