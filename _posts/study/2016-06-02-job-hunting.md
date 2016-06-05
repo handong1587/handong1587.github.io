@@ -98,6 +98,6 @@ There are no right answers but it helps to understand their thoughts and researc
 
 # Resources
 
-**Awesome Interviews**
+**Awesome Interviews: A curated awesome list of lists of interview questions**
 
 - github: [https://github.com/MaximAbramchuck/awesome-interview-questions](https://github.com/MaximAbramchuck/awesome-interview-questions)
