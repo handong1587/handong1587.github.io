@@ -395,6 +395,11 @@ with fast exact probabilistic inference over many layers."
 - paper: [http://arxiv.org/abs/1409.5185](http://arxiv.org/abs/1409.5185)
 - code: [https://github.com/mbhenaff/spectral-lib](https://github.com/mbhenaff/spectral-lib)
 
+**Deep learning (Nature 2015)**
+
+- author: Yann LeCun, Yoshua Bengio & Geoffrey Hinton
+- paper: [http://www.cs.toronto.edu/~hinton/absps/NatureDeepReview.pdf](http://www.cs.toronto.edu/~hinton/absps/NatureDeepReview.pdf)
+
 ## STDP
 
 **A biological gradient descent for prediction through a combination of STDP and homeostatic plasticity**

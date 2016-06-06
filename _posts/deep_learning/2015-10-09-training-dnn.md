@@ -42,6 +42,11 @@ date: 2015-10-09
 
 - blog: [http://blog.claymcleod.io/2016/02/06/Parametric-Activation-Pools-greatly-increase-performance-and-consistency-in-ConvNets/](http://blog.claymcleod.io/2016/02/06/Parametric-Activation-Pools-greatly-increase-performance-and-consistency-in-ConvNets/)
 
+**From Softmax to Sparsemax: A Sparse Model of Attention and Multi-Label Classification (ICML 2016)**
+
+- arxiv: [http://arxiv.org/abs/1602.02068](http://arxiv.org/abs/1602.02068)
+- github: [https://github.com/gokceneraslan/SparseMax.torch](https://github.com/gokceneraslan/SparseMax.torch)
+
 **Revise Saturated Activation Functions**
 
 - arxiv: [http://arxiv.org/abs/1602.05980](http://arxiv.org/abs/1602.05980)

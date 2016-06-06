@@ -27,7 +27,7 @@ date: 2015-10-09
 - code: [http://cbcl.mit.edu/wasserstein/yfcc100m_labels.tar.gz](http://cbcl.mit.edu/wasserstein/yfcc100m_labels.tar.gz)
 - MIT news: [http://news.mit.edu/2015/more-flexible-machine-learning-1001](http://news.mit.edu/2015/more-flexible-machine-learning-1001)
 
-**From Softmax to Sparsemax: A Sparse Model of Attention and Multi-Label Classification**
+**From Softmax to Sparsemax: A Sparse Model of Attention and Multi-Label Classification (ICML 2016)**
 
 - arxiv: [http://arxiv.org/abs/1602.02068](http://arxiv.org/abs/1602.02068)
 - github: [https://github.com/gokceneraslan/SparseMax.torch](https://github.com/gokceneraslan/SparseMax.torch)
