@@ -71,6 +71,7 @@ date: 2015-10-09
 
 - arxiv: [http://arxiv.org/abs/1511.07543](http://arxiv.org/abs/1511.07543)
 - github: [https://github.com/yixuanli/convergent_learning](https://github.com/yixuanli/convergent_learning)
+- video: [http://videolectures.net/iclr2016_yosinski_convergent_learning/](http://videolectures.net/iclr2016_yosinski_convergent_learning/)
 
 **Visualizing and Understanding Deep Texture Representations**
 

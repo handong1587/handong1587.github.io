@@ -379,6 +379,10 @@ Other awesome lists can be found in this [list](https://github.com/sindresorhus/
 - intro: 机器学习资源大全中文版，包括机器学习领域的框架、库以及软件
 - github: [https://github.com/jobbole/awesome-machine-learning-cn](https://github.com/jobbole/awesome-machine-learning-cn)
 
+**Machine and Deep Learning with Python**
+
+- github: [https://github.com/szwed/awesome-machine-learning-python](https://github.com/szwed/awesome-machine-learning-python)
+
 # Books
 
 **Machine Learning plus Intelligent Optimization: THE LION WAY, VERSION 2.0**
@@ -516,6 +520,22 @@ simplify the construction of large scale, end-to-end, machine learning pipelines
 
 - homepage: [https://crates.io/crates/rusty-machine/](https://crates.io/crates/rusty-machine/)
 - github: [https://github.com/AtheMathmo/rusty-machine](https://github.com/AtheMathmo/rusty-machine)
+
+**RoBO - a Robust Bayesian Optimization framework**
+
+- github: [https://github.com/automl/RoBO](https://github.com/automl/RoBO)
+- docs: [http://robo-fork.readthedocs.io/en/latest/](http://robo-fork.readthedocs.io/en/latest/)
+
+**Dlib: A toolkit for making real world machine learning and data analysis applications in C++**
+
+- intro: Dlib is a modern C++ toolkit containing machine learning algorithms and tools 
+for creating complex software in C++ to solve real world problems.
+- homepage: [http://dlib.net/](http://dlib.net/)
+- github: [https://github.com/davisking/dlib](https://github.com/davisking/dlib)
+
+**Bayesian Networks and Bayesian Classifier Software**
+
+- blog: [http://www.kdnuggets.com/software/bayesian.html](http://www.kdnuggets.com/software/bayesian.html)
 
 # Readings and Questions
 

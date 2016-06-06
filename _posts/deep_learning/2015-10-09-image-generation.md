@@ -92,8 +92,11 @@ date: 2015-10-09
 
 **Generative Adversarial Text to Image Synthesis (ICML 2016)**
 
+![](https://raw.githubusercontent.com/reedscot/icml2016/master/images/dcgan_network.jpg)
+
 - arxiv: [http://arxiv.org/abs/1605.05396](http://arxiv.org/abs/1605.05396)
 - project page: [https://www.mpi-inf.mpg.de/departments/computer-vision-and-multimodal-computing/research/embeddings-for-image-classification/generative-adversarial-text-to-image-synthesis/](https://www.mpi-inf.mpg.de/departments/computer-vision-and-multimodal-computing/research/embeddings-for-image-classification/generative-adversarial-text-to-image-synthesis/)
+- github: [https://github.com/reedscot/icml2016](https://github.com/reedscot/icml2016)
 - code+dataset: [http://datasets.d2.mpi-inf.mpg.de/akata/cub_txt.tar.gz](http://datasets.d2.mpi-inf.mpg.de/akata/cub_txt.tar.gz)
 
 # Blogs

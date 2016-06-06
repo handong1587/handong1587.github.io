@@ -35,3 +35,11 @@ date: 2015-10-09
 **Recommending music on Spotify with deep learning**
 
 [http://benanne.github.io/2014/08/05/spotify-cnns.html](http://benanne.github.io/2014/08/05/spotify-cnns.html)
+
+# Projects
+
+**NNRec: Neural models for Collaborative Filtering**
+
+- intro: Source code for, AutoRec, an autoencoder based model for collaborative filtering. 
+This package also includes implementation of RBM based collaborative filtering model(RBM-CF).
+- github: [https://github.com/mesuvash/NNRec](https://github.com/mesuvash/NNRec)

@@ -36,6 +36,13 @@ date: 2015-10-09
 
 - arxiv: [https://arxiv.org/abs/1605.06217](https://arxiv.org/abs/1605.06217)
 
+**Learning Deep Representations of Fine-grained Visual Descriptions (CVPR 2016)**
+
+![](https://raw.githubusercontent.com/reedscot/cvpr2016/master/images/description_embedding.jpg)
+
+- arxiv: [http://arxiv.org/abs/1605.05395](http://arxiv.org/abs/1605.05395)
+- github: [https://github.com/reedscot/cvpr2016](https://github.com/reedscot/cvpr2016)
+
 # Blogs
 
 **What is the class of this image ? - Discover the current state of the art in objects classification**
