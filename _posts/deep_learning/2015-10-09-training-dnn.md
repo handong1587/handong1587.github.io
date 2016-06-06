@@ -203,6 +203,10 @@ date: 2015-10-09
 
 - arxiv: [http://arxiv.org/abs/1207.0580](http://arxiv.org/abs/1207.0580)
 
+**Dropout: A Simple Way to Prevent Neural Networks from Overfitting**
+
+- paper: [https://www.cs.toronto.edu/~hinton/absps/JMLRdropout.pdf](https://www.cs.toronto.edu/~hinton/absps/JMLRdropout.pdf)
+
 **Regularization of Neural Networks using DropConnect**
 
 - homepage: [http://cs.nyu.edu/~wanli/dropc/](http://cs.nyu.edu/~wanli/dropc/)
