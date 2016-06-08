@@ -179,6 +179,10 @@ using the stochastic gradient descent (SGD) algorithm to obtain fine pixel-level
 
 - arxiv: [http://arxiv.org/abs/1605.09410](http://arxiv.org/abs/1605.09410)
 
+**ENet: A Deep Neural Network Architecture for Real-Time Semantic Segmentation**
+
+- arxiv: [http://arxiv.org/abs/1606.02147](http://arxiv.org/abs/1606.02147)
+
 # Blogs
 
 **Deep Learning for Natural Image Segmentation Priors**
