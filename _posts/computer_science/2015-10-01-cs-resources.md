@@ -25,6 +25,12 @@ date: 2015-10-01
 
 - github: [https://github.com/vydd/sketch](https://github.com/vydd/sketch)
 
+**DEAP: Distributed Evolutionary Algorithms in Python**
+
+- intro: DEAP is a novel evolutionary computation framework for rapid prototyping and testing of ideas.
+- github: [https://github.com/DEAP/deap](https://github.com/DEAP/deap)
+- docs: [http://deap.readthedocs.io/en/master/](http://deap.readthedocs.io/en/master/)
+
 # Blogs
 
 **Design Of A Modern Cache**

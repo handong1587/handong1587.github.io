@@ -125,3 +125,7 @@ date: 2015-10-09
 **Deep Learning Tutorials**
 
 - github: [https://github.com/sjchoi86/Deep-Learning-101](https://github.com/sjchoi86/Deep-Learning-101)
+
+**Neural Network Architectures**
+
+- blog: [http://culurciello.github.io/tech/2016/06/04/nets.html](http://culurciello.github.io/tech/2016/06/04/nets.html)

@@ -89,6 +89,7 @@ date: 2015-10-09
 - arxiv: [http://arxiv.org/abs/1603.05027](http://arxiv.org/abs/1603.05027)
 - github: [https://github.com/KaimingHe/resnet-1k-layers](https://github.com/KaimingHe/resnet-1k-layers)
 - github: [https://github.com/bazilas/matconvnet-ResNet](https://github.com/bazilas/matconvnet-ResNet)
+- github: [https://github.com/FlorianMuellerklein/Identity-Mapping-ResNet-Lasagne](https://github.com/FlorianMuellerklein/Identity-Mapping-ResNet-Lasagne)
 
 **Residual Networks are Exponential Ensembles of Relatively Shallow Networks**
 
@@ -98,6 +99,7 @@ date: 2015-10-09
 
 - arxiv: [http://arxiv.org/abs/1605.07146](http://arxiv.org/abs/1605.07146)
 - github: [https://github.com/szagoruyko/wide-residual-networks](https://github.com/szagoruyko/wide-residual-networks)
+- github: [https://github.com/asmith26/wide_resnets_keras](https://github.com/asmith26/wide_resnets_keras)
 
 ## Inception-V4
 

@@ -112,9 +112,10 @@ date: 2015-10-09
 - arXiv: [http://arxiv.org/abs/1509.08731](http://arxiv.org/abs/1509.08731)
 - notes: [https://www.evernote.com/shard/s189/sh/8c7ff9d9-c321-4e83-a802-58f55ebed9ac/bfc614113180a5f4624390df56e73889](https://www.evernote.com/shard/s189/sh/8c7ff9d9-c321-4e83-a802-58f55ebed9ac/bfc614113180a5f4624390df56e73889)
 
-**Actor-Mimic: Deep Multitask and Transfer Reinforcement Learning**
+**Actor-Mimic: Deep Multitask and Transfer Reinforcement Learning (ICLR 2016)**
 
 - arXiv: [http://arxiv.org/abs/1511.06342](http://arxiv.org/abs/1511.06342)
+- github: [https://github.com/eparisotto/ActorMimic](https://github.com/eparisotto/ActorMimic)
 
 **MazeBase: A Sandbox for Learning from Games(New York University & Facebook AI Research)**
 

@@ -583,3 +583,7 @@ for building Deep Learning (DL) machine learning (ML) models
 **Comparison of deep learning software**
 
 - wiki: [https://en.wikipedia.org/wiki/Comparison_of_deep_learning_software](https://en.wikipedia.org/wiki/Comparison_of_deep_learning_software)
+
+**A Look at Popular Machine Learning Frameworks**
+
+- blog: [http://redmonk.com/fryan/2016/06/06/a-look-at-popular-machine-learning-frameworks/](http://redmonk.com/fryan/2016/06/06/a-look-at-popular-machine-learning-frameworks/)

@@ -37,6 +37,12 @@ date: 2015-10-09
 
 [https://hackaday.io/project/12070-32-tflop-deep-learning-gpu-box](https://hackaday.io/project/12070-32-tflop-deep-learning-gpu-box)
 
+**Hands-on with the NVIDIA DIGITS DevBox for Deep Learning**
+
+![](http://www.pyimagesearch.com/wp-content/uploads/2016/06/handson_devbox_unboxed-768x576.jpg)
+
+- blog: [http://www.pyimagesearch.com/2016/06/06/hands-on-with-the-nvidia-digits-devbox-for-deep-learning/](http://www.pyimagesearch.com/2016/06/06/hands-on-with-the-nvidia-digits-devbox-for-deep-learning/)
+
 # GPU
 
 **Course on CUDA Programming on NVIDIA GPUs, July 27--31, 2015**
