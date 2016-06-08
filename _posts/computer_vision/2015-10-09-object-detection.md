@@ -44,6 +44,11 @@ paper: [http://www.lv-nus.org/papers/2011/cvpr2010-context_final.pdf](http://www
 - paper: [research.google.com/pubs/archive/41104.pdf](research.google.com/pubs/archive/41104.pdf)
 - paper: [https://courses.cs.washington.edu/courses/cse590v/13au/40814.pdf](https://courses.cs.washington.edu/courses/cse590v/13au/40814.pdf)
 
+**Deformable Part Models are Convolutional Neural Networks**
+
+- arxiv: [http://arxiv.org/abs/1409.5403](http://arxiv.org/abs/1409.5403)
+- github: [https://github.com/rbgirshick/DeepPyramid](https://github.com/rbgirshick/DeepPyramid)
+
 - - -
 
 **Integrating Context and Occlusion for Car Detection by Hierarchical And-or Model (ECCV 2014)**
