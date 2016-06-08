@@ -628,6 +628,12 @@ Includes instructions to install drivers, tools and various deep learning framew
 This was tested on a 64 bit machine with Nvidia Titan X, running Ubuntu 14.04
 - github: [https://github.com/saiprashanths/dl-setup](https://github.com/saiprashanths/dl-setup)
 
+**All-in-one Docker image for Deep Learning**
+
+- intro: An all-in-one Docker image for deep learning. 
+Contains all the popular DL frameworks (TensorFlow, Theano, Torch, Caffe, etc.)
+- github: [https://github.com/saiprashanths/dl-docker](https://github.com/saiprashanths/dl-docker)
+
 # Resources
 
 **Awesome Deep Learning**

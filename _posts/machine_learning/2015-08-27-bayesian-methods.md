@@ -88,3 +88,7 @@ date: 2015-08-27
 
 - part 1: [https://medium.com/@Algomancer/lets-learn-about-probabilistic-programming-part-1-7988d6501e53#.dzjdiexu5](https://medium.com/@Algomancer/lets-learn-about-probabilistic-programming-part-1-7988d6501e53#.dzjdiexu5)
 - part 2: [https://medium.com/@Algomancer/let-s-learn-probabilistic-programming-part-2-c208f79f1dc1#.6hq2zzb7l](https://medium.com/@Algomancer/let-s-learn-probabilistic-programming-part-2-c208f79f1dc1#.6hq2zzb7l)
+
+**Bayesian Optimization of Machine Learning Models**
+
+[http://blog.revolutionanalytics.com/2016/06/bayesian-optimization-of-machine-learning-models.html](http://blog.revolutionanalytics.com/2016/06/bayesian-optimization-of-machine-learning-models.html)

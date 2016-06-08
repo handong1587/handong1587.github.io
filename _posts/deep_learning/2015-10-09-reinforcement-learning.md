@@ -314,6 +314,10 @@ Its simple, and is ideal for rapid prototyping."
 
 - github: [https://github.com/aleju/mario-ai](https://github.com/aleju/mario-ai)
 
+**Deep Attention Recurrent Q-Network**
+
+- github: [https://github.com/5vision/DARQN](https://github.com/5vision/DARQN)
+
 # Blogs
 
 **A Short Introduction To Some Reinforcement Learning Algorithms**
