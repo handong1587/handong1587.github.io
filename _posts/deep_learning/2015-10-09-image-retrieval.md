@@ -15,6 +15,10 @@ date: 2015-10-09
 - github: [https://github.com/arbabenko/Spoc](https://github.com/arbabenko/Spoc)
 - project page: [http://sites.skoltech.ru/compvision/projects/neuralcodes/](http://sites.skoltech.ru/compvision/projects/neuralcodes/)
 
+**Efficient On-the-fly Category Retrieval using ConvNets and GPUs**
+
+- arxiv: [http://arxiv.org/abs/1407.4764](http://arxiv.org/abs/1407.4764)
+
 **Deep Learning of Binary Hash Codes for Fast Image Retrieval**
 
 - paper: [http://www.iis.sinica.edu.tw/~kevinlin311.tw/cvprw15.pdf](http://www.iis.sinica.edu.tw/~kevinlin311.tw/cvprw15.pdf)

@@ -15,9 +15,15 @@ paper: [http://120.52.73.14/www.cv-foundation.org/openaccess/content_cvpr_2014/p
 
 **Two-stream convolutional networks for action recognition in videos**
 
-**Long-term Recurrent Convolutional Networks for Visual Recognition and Description**
+- arxiv: [http://arxiv.org/abs/1406.2199](http://arxiv.org/abs/1406.2199)
+
+**Long-term Recurrent Convolutional Networks for Visual Recognition and Description (LRCN. Oral presentation at CVPR 2015)**
+
+![](http://jeffdonahue.com/lrcn/images/lrcn_tasks.png)
 
 - arxiv: [http://arxiv.org/abs/1411.4389](http://arxiv.org/abs/1411.4389)
+- project page: [http://jeffdonahue.com/lrcn/](http://jeffdonahue.com/lrcn/)
+- github: [https://github.com/BVLC/caffe/pull/2033](https://github.com/BVLC/caffe/pull/2033)
 
 **Finding action tubes**
 

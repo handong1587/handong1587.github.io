@@ -14,6 +14,14 @@ date: 2015-10-09
 - paper: [http://tamaraberg.com/papers/generation_nips2011.pdf](http://tamaraberg.com/papers/generation_nips2011.pdf)
 - project: [http://vision.cs.stonybrook.edu/~vicente/sbucaptions/](http://vision.cs.stonybrook.edu/~vicente/sbucaptions/)
 
+**Long-term Recurrent Convolutional Networks for Visual Recognition and Description (LRCN. Oral presentation at CVPR 2015)**
+
+![](http://jeffdonahue.com/lrcn/images/lrcn_tasks.png)
+
+- arxiv: [http://arxiv.org/abs/1411.4389](http://arxiv.org/abs/1411.4389)
+- project page: [http://jeffdonahue.com/lrcn/](http://jeffdonahue.com/lrcn/)
+- github: [https://github.com/BVLC/caffe/pull/2033](https://github.com/BVLC/caffe/pull/2033)
+
 **Show and Tell: A Neural Image Caption Generator(Google)**
 
 - arXiv: [http://arxiv.org/abs/1411.4555](http://arxiv.org/abs/1411.4555)
@@ -22,6 +30,14 @@ date: 2015-10-09
 - github: [https://github.com/apple2373/chainer_caption_generation](https://github.com/apple2373/chainer_caption_generation)
 - blog("Image caption generation by CNN and LSTM"): [http://t-satoshi.blogspot.com/2015/12/image-caption-generation-by-cnn-and-lstm.html](http://t-satoshi.blogspot.com/2015/12/image-caption-generation-by-cnn-and-lstm.html)
 - github: [https://github.com/jazzsaxmafia/show_and_tell.tensorflow](https://github.com/jazzsaxmafia/show_and_tell.tensorflow)
+
+**Learning a Recurrent Visual Representation for Image Caption Generation**
+
+- arxiv: [http://arxiv.org/abs/1411.5654](http://arxiv.org/abs/1411.5654)
+
+**Mind’s Eye: A Recurrent Visual Representation for Image Caption Generation (CVPR 2015)**
+
+- paper: [http://www.cs.cmu.edu/~xinleic/papers/cvpr15_rnn.pdf](http://www.cs.cmu.edu/~xinleic/papers/cvpr15_rnn.pdf)
 
 **Deep Visual-Semantic Alignments for Generating Image Descriptions**
 
@@ -33,7 +49,7 @@ to localize different segments of the sentence to their corresponding image regi
 - arxiv: [http://arxiv.org/abs/1412.2306](http://arxiv.org/abs/1412.2306)
 - slides: [http://www.cs.toronto.edu/~vendrov/DeepVisualSemanticAlignments_Class_Presentation.pdf](http://www.cs.toronto.edu/~vendrov/DeepVisualSemanticAlignments_Class_Presentation.pdf)
 
-**Deep Captioning with Multimodal Recurrent Neural Networks (m-RNN)**
+**Deep Captioning with Multimodal Recurrent Neural Networks (m-RNN. ICLR 2015)**
 
 - intro: "combines the functionalities of the CNN and RNN by introducing a new multimodal layer, 
 after the embedding and recurrent layers of the RNN."

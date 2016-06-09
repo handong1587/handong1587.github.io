@@ -166,6 +166,7 @@ date: 2015-10-09
 
 - arxiv: [http://arxiv.org/abs/1602.01783](http://arxiv.org/abs/1602.01783)
 - github(Tensorflow): [https://github.com/traai/async-deep-rl](https://github.com/traai/async-deep-rl)
+- github(Tensorflow+Keras+OpenAI Gym): [https://github.com/coreylynch/async-rl](https://github.com/coreylynch/async-rl)
 
 **Graying the black box: Understanding DQNs**
 
