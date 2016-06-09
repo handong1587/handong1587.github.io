@@ -46,8 +46,11 @@ regions of the image, represented using a CNN feature, with associated words.
 The learned correspondences are then used to train a bi-directional RNN. 
 This model is able, not only to generate descriptions for images, but also 
 to localize different segments of the sentence to their corresponding image regions."
+- project page: [http://cs.stanford.edu/people/karpathy/deepimagesent/](http://cs.stanford.edu/people/karpathy/deepimagesent/)
 - arxiv: [http://arxiv.org/abs/1412.2306](http://arxiv.org/abs/1412.2306)
 - slides: [http://www.cs.toronto.edu/~vendrov/DeepVisualSemanticAlignments_Class_Presentation.pdf](http://www.cs.toronto.edu/~vendrov/DeepVisualSemanticAlignments_Class_Presentation.pdf)
+- github: [https://github.com/karpathy/neuraltalk](https://github.com/karpathy/neuraltalk)
+- demo: [http://cs.stanford.edu/people/karpathy/deepimagesent/rankingdemo/](http://cs.stanford.edu/people/karpathy/deepimagesent/rankingdemo/)
 
 **Deep Captioning with Multimodal Recurrent Neural Networks (m-RNN. ICLR 2015)**
 
@@ -59,7 +62,10 @@ after the embedding and recurrent layers of the RNN."
 
 **Show, Attend and Tell: Neural Image Caption Generation with Visual Attention**
 
+![](http://kelvinxu.github.io/projects/diags/model_diag.png)
+
 - arXiv: [http://arxiv.org/abs/1502.03044](http://arxiv.org/abs/1502.03044)
+- project page: [http://kelvinxu.github.io/projects/capgen.html](http://kelvinxu.github.io/projects/capgen.html)
 - github: [https://github.com/kelvinxu/arctic-captions](https://github.com/kelvinxu/arctic-captions)
 - github: [https://github.com/jazzsaxmafia/show_attend_and_tell.tensorflow](https://github.com/jazzsaxmafia/show_attend_and_tell.tensorflow)
 

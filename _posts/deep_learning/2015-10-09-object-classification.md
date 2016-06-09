@@ -7,8 +7,9 @@ date: 2015-10-09
 
 # Papers
 
-**Delving Deep into Rectifiers: Surpassing Human-Level Performance on ImageNet Classification(ImageNet top-5 error: 4.94%)**
+**Delving Deep into Rectifiers: Surpassing Human-Level Performance on ImageNet Classification**
 
+- intro: ImageNet top-5 error: 4.94%
 - arXiv: [http://arxiv.org/abs/1502.01852](http://arxiv.org/abs/1502.01852)
 - notes: [http://blog.csdn.net/happynear/article/details/45440811](http://blog.csdn.net/happynear/article/details/45440811)
 
@@ -16,6 +17,13 @@ date: 2015-10-09
 
 - arxiv: [http://arxiv.org/abs/1604.06486](http://arxiv.org/abs/1604.06486)
 - review: [https://www.technologyreview.com/s/601387/why-machine-vision-is-flawed-in-the-same-way-as-human-vision/](https://www.technologyreview.com/s/601387/why-machine-vision-is-flawed-in-the-same-way-as-human-vision/)
+
+# Multi-object Recognition
+
+**Multiple Object Recognition with Visual Attention**
+
+- keyword: deep recurrent neural network, reinforcement learning
+- arxiv: [https://arxiv.org/abs/1412.7755](https://arxiv.org/abs/1412.7755)
 
 ## Fine-grained Recognition
 

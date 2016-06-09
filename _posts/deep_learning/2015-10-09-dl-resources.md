@@ -113,7 +113,10 @@ date: 2015-10-09
 
 **Network In Network**
 
+![](https://culurciello.github.io/assets/nets/nin.jpg)
+
 - arxiv: [http://arxiv.org/abs/1312.4400](http://arxiv.org/abs/1312.4400)
+- gitxiv: [http://gitxiv.com/posts/PA98qGuMhsijsJzgX/network-in-network-nin](http://gitxiv.com/posts/PA98qGuMhsijsJzgX/network-in-network-nin)
 
 **Striving for Simplicity: The All Convolutional Net**
 
@@ -534,6 +537,10 @@ with fast exact probabilistic inference over many layers."
 - project: [http://people.cs.uchicago.edu/~larsson/fractalnet/](http://people.cs.uchicago.edu/~larsson/fractalnet/)
 - arxiv: [http://arxiv.org/abs/1605.07648](http://arxiv.org/abs/1605.07648)
 
+**An Analysis of Deep Neural Network Models for Practical Applications**
+
+- arxiv: [http://arxiv.org/abs/1605.07678](http://arxiv.org/abs/1605.07678)
+
 # Projects
 
 **Top Deep Learning Projects**
@@ -760,3 +767,7 @@ Contains all the popular DL frameworks (TensorFlow, Theano, Torch, Caffe, etc.)
 **colah's blog**
 
 [http://colah.github.io/](http://colah.github.io/)
+
+**What My Deep Model Doesn't Know...**
+
+[http://mlg.eng.cam.ac.uk/yarin/blog_3d801aa532c1ce.html](http://mlg.eng.cam.ac.uk/yarin/blog_3d801aa532c1ce.html)

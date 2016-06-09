@@ -48,6 +48,12 @@ date: 2015-07-01
 图片处理、文本处理、自然语言处理、机器学习、日志、代码分析等
 - github: [https://github.com/jobbole/awesome-python-cn](https://github.com/jobbole/awesome-python-cn)
 
+**live programming mode of Python Tutor**
+
+- intro: This is the live programming mode of Python Tutor, 
+which continually runs and visualizes your code as you type
+- website: [http://pythontutor.com/live.html#mode=edit](http://pythontutor.com/live.html#mode=edit)
+
 # Go
 
 **Go by Example**

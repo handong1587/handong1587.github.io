@@ -7,6 +7,12 @@ date: 2015-08-27
 
 # Papers
 
+**On Clustering Validation Techniques (2001)**
+
+- intro: "This paper introduces the fundamental concepts of clustering while 
+it surveys the widely known clustering algorithms in a comparative way"
+- paper: [http://web.itu.edu.tr/sgunduz/courses/verimaden/paper/validity_survey.pdf](http://web.itu.edu.tr/sgunduz/courses/verimaden/paper/validity_survey.pdf)
+
 **Stream Clustering**
 
 - slides: [www.cse.msu.edu/~cse902/S14/ppt/Stream%20Clustering.pptx](www.cse.msu.edu/~cse902/S14/ppt/Stream%20Clustering.pptx)
@@ -139,3 +145,8 @@ This is for music lovers who are curious about the structures inherent to their 
 **kmeans_cuda: CUDA implementation of k-means**
 
 - github: [https://github.com/phvu/kmeans_cuda](https://github.com/phvu/kmeans_cuda)
+
+**K-means in TensorFlow**
+
+- blog: [http://nxn.se/post/145634722580/k-means-in-tensorflow](http://nxn.se/post/145634722580/k-means-in-tensorflow)
+- gist: [https://gist.github.com/vals/a01a37b14c4918df7937b30d43327837](https://gist.github.com/vals/a01a37b14c4918df7937b30d43327837)

@@ -58,6 +58,12 @@ date: 2015-10-09
 
 # Train RNN
 
+**On the difficulty of training Recurrent Neural Networks**
+
+- author: Razvan Pascanu, Tomas Mikolov, Yoshua Bengio
+- arxiv: [http://arxiv.org/abs/1211.5063](http://arxiv.org/abs/1211.5063)
+- video talks: [http://techtalks.tv/talks/on-the-difficulty-of-training-recurrent-neural-networks/58134/](http://techtalks.tv/talks/on-the-difficulty-of-training-recurrent-neural-networks/58134/)
+
 **A Simple Way to Initialize Recurrent Networks of Rectified Linear Units**
 
 - arxiv: [http://arxiv.org/abs/1504.00941](http://arxiv.org/abs/1504.00941)
@@ -198,6 +204,10 @@ date: 2015-10-09
 - paper: [http://arxiv.org/abs/1502.04681](http://arxiv.org/abs/1502.04681)
 - code: [http://www.cs.toronto.edu/~nitish/unsupervised_video/unsup_video_lstm.tar.gz](http://www.cs.toronto.edu/~nitish/unsupervised_video/unsup_video_lstm.tar.gz)
 - github: [https://github.com/emansim/unsupervised-videos](https://github.com/emansim/unsupervised-videos)
+
+**An Empirical Exploration of Recurrent Network Architectures**
+
+- paper: [http://jmlr.org/proceedings/papers/v37/jozefowicz15.pdf](http://jmlr.org/proceedings/papers/v37/jozefowicz15.pdf)
 
 **LSTM: A Search Space Odyssey**
 
