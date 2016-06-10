@@ -324,6 +324,8 @@ MSCOCO 2015 test:
 
 # Specific Object Deteciton
 
+## People Detection
+
 **End-to-end people detection in crowded scenes**
 
 ![](/assets/object-detection-materials/end_to_end_people_detection_in_crowded_scenes.jpg)
@@ -331,6 +333,29 @@ MSCOCO 2015 test:
 - arXiv: [http://arxiv.org/abs/1506.04878](http://arxiv.org/abs/1506.04878)
 - github: [https://github.com/Russell91/reinspect](https://github.com/Russell91/reinspect)
 - ipn: [http://nbviewer.ipython.org/github/Russell91/ReInspect/blob/master/evaluation_reinspect.ipynb](http://nbviewer.ipython.org/github/Russell91/ReInspect/blob/master/evaluation_reinspect.ipynb)
+
+## Pedestrian Detection
+
+**Pedestrian Detection aided by Deep Learning Semantic Tasks**:
+
+- paper: [http://arxiv.org/abs/1412.0069](http://arxiv.org/abs/1412.0069)
+- project: [http://mmlab.ie.cuhk.edu.hk/projects/TA-CNN/](http://mmlab.ie.cuhk.edu.hk/projects/TA-CNN/)
+
+**Deep convolutional neural networks for pedestrian detection**
+
+- arXiv: [http://arxiv.org/abs/1510.03608](http://arxiv.org/abs/1510.03608)
+- github: [https://github.com/DenisTome/DeepPed](https://github.com/DenisTome/DeepPed)
+
+**New algorithm improves speed and accuracy of pedestrian detection**
+
+- blog: [http://www.eurekalert.org/pub_releases/2016-02/uoc--nai020516.php](http://www.eurekalert.org/pub_releases/2016-02/uoc--nai020516.php)
+
+**Pushing the Limits of Deep CNNs for Pedestrian Detection**
+
+- intro: "set a new record on the Caltech pedestrian dataset, lowering the log-average miss rate from 11.7% to 8.9%"
+- arxiv: [http://arxiv.org/abs/1603.04525](http://arxiv.org/abs/1603.04525)
+
+# Others
 
 **Deep Deformation Network for Object Landmark Localization**
 

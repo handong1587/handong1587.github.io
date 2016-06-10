@@ -1,7 +1,7 @@
 ---
 layout: post
 category: deep_learning
-title: Deep Learning and Arts
+title: Fun With Deep Learning
 date: 2015-10-09
 ---
 
@@ -14,7 +14,7 @@ date: 2015-10-09
 
 **A Neural Algorithm of Artistic Style**
 
-![](/assets/cnn-and-arts/a_nerual_algorithm_of_artistic_style.jpg)
+![](/assets/fun_with_dl/a_nerual_algorithm_of_artistic_style.jpg)
 
 - paper: [http://arxiv.org/abs/1508.06576](http://arxiv.org/abs/1508.06576)
 - gitxiv: [http://gitxiv.com/posts/jG46ukGod8R7Rdtud/a-neural-algorithm-of-artistic-style](http://gitxiv.com/posts/jG46ukGod8R7Rdtud/a-neural-algorithm-of-artistic-style)
@@ -56,7 +56,7 @@ date: 2015-10-09
 
 **Teaching recurrent Neural Networks about Monet**
 
-![](/assets/cnn-and-arts/keras_monet_output_sample.png)
+![](/assets/fun_with_dl/keras_monet_output_sample.png)
 
 - blog: [http://blog.manugarri.com/teaching-recurrent-neural-networks-about-monet/](http://blog.manugarri.com/teaching-recurrent-neural-networks-about-monet/)
 - github: [https://github.com/manugarri/keras_monet](https://github.com/manugarri/keras_monet)
@@ -191,25 +191,38 @@ Compressed model is less than 500KB
 
 - blog：[http://www.alanzucconi.com/2016/05/25/generating-deep-dreams/](http://www.alanzucconi.com/2016/05/25/generating-deep-dreams/)
 
+## Emoji
+
+**Image2Emoji: Zero-shot Emoji Prediction for Visual Media**
+
+- paper: [http://isis-data.science.uva.nl/cgmsnoek/pub/cappallo-image2emoji-mm2015.pdf](http://isis-data.science.uva.nl/cgmsnoek/pub/cappallo-image2emoji-mm2015.pdf)
+
+**Teaching Robots to Feel: Emoji & Deep Learning 👾 💭 💕**
+
+![](http://getdango.com/postimg/RNN-figure.png)
+
+- blog: [http://getdango.com/emoji-and-deep-learning.html](http://getdango.com/emoji-and-deep-learning.html)
+- app: [https://play.google.com/store/apps/details?id=co.dango.emoji.gif](https://play.google.com/store/apps/details?id=co.dango.emoji.gif)
+
 ## Others
 
 **Sketch-a-Net that Beats Humans**
 
-- paper: [http://arxiv.org/abs/1501.07873](http://arxiv.org/abs/1501.07873)
+![](/assets/fun_with_dl/Sketch-a-Net_that_Beats_Humans.png)
+
+- arxiv: [http://arxiv.org/abs/1501.07873](http://arxiv.org/abs/1501.07873)
 - project: [http://www.eecs.qmul.ac.uk/~tmh/downloads.html](http://www.eecs.qmul.ac.uk/~tmh/downloads.html)
+- paper: [http://www.eecs.qmul.ac.uk/~tmh/papers/yu2015sketchanet.pdf](http://www.eecs.qmul.ac.uk/~tmh/papers/yu2015sketchanet.pdf)
+- code: [http://www.eecs.qmul.ac.uk/~tmh/downloads/SketchANet_Code.zip](http://www.eecs.qmul.ac.uk/~tmh/downloads/SketchANet_Code.zip)
 
 **How Do Humans Sketch Objects?**
 
-![](/assets/cnn-and-arts/teaser_siggraph.jpg)
+![](/assets/fun_with_dl/teaser_siggraph.jpg)
 
 - paper: [http://cybertron.cg.tu-berlin.de/eitz/pdf/2012_siggraph_classifysketch.pdf](http://cybertron.cg.tu-berlin.de/eitz/pdf/2012_siggraph_classifysketch.pdf)
 - project: [http://cybertron.cg.tu-berlin.de/eitz/projects/classifysketch/](http://cybertron.cg.tu-berlin.de/eitz/projects/classifysketch/)
 - code: [https://github.com/Zebreu/SketchingAI](https://github.com/Zebreu/SketchingAI)
 - gitxiv: [http://gitxiv.com/posts/ZBCxEc9g3Fg5xCQ6n/sketchingai](http://gitxiv.com/posts/ZBCxEc9g3Fg5xCQ6n/sketchingai)
-
-**Image2Emoji: Zero-shot Emoji Prediction for Visual Media**
-
-- paper: [http://isis-data.science.uva.nl/cgmsnoek/pub/cappallo-image2emoji-mm2015.pdf](http://isis-data.science.uva.nl/cgmsnoek/pub/cappallo-image2emoji-mm2015.pdf)
 
 **Learning to Simplify: Fully Convolutional Networks for Rough Sketch Cleanup (SIGGRAPH 2016)**
 

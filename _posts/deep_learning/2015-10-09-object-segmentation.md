@@ -16,6 +16,12 @@ date: 2015-10-09
 - code: [https://github.com/xiaolonw/nips14_loc_seg_testonly](https://github.com/xiaolonw/nips14_loc_seg_testonly)
 - dataset: [http://objectextraction.github.io/](http://objectextraction.github.io/)
 
+**Simultaneous Detection and Segmentation (ECCV 2014)**
+
+- author: Bharath Hariharan, Pablo Arbelaez, Ross Girshick, Jitendra Malik
+- arxiv: [http://arxiv.org/abs/1407.1808](http://arxiv.org/abs/1407.1808)
+- github(Matlab): [https://github.com/bharath272/sds_eccv2014](https://github.com/bharath272/sds_eccv2014)
+
 **Fully Convolutional Networks for Semantic Segmentation**
 
 - keywords: deconvolutional layer, crop layer

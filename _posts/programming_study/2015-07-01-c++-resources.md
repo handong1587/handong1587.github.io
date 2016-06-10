@@ -34,3 +34,7 @@ It contains real examples with errors and the author gives explanations of how t
 **openFrameworks: an open source C++ toolkit for creative coding.**
 
 - homepage: [http://openframeworks.cc/](http://openframeworks.cc/)
+
+**Awesome C++: A curated list of awesome C/C++ frameworks, libraries, resources, and shiny things**
+
+- homepage: [https://cpp.libhunt.com/](https://cpp.libhunt.com/)
