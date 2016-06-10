@@ -204,7 +204,7 @@ Compressed model is less than 500KB
 - blog: [http://getdango.com/emoji-and-deep-learning.html](http://getdango.com/emoji-and-deep-learning.html)
 - app: [https://play.google.com/store/apps/details?id=co.dango.emoji.gif](https://play.google.com/store/apps/details?id=co.dango.emoji.gif)
 
-## Others
+## Sketch
 
 **Sketch-a-Net that Beats Humans**
 
