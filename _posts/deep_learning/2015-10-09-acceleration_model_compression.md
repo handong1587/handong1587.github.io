@@ -93,6 +93,7 @@ to decompose it into the multiplications of thinned dense matrices"
 - intro: "2.6x as fast as Caffe when comparing CPU implementations"
 - arXiv: [http://arxiv.org/abs/1509.09308](http://arxiv.org/abs/1509.09308)
 - discussion: [https://github.com/soumith/convnet-benchmarks/issues/59#issuecomment-150111895](https://github.com/soumith/convnet-benchmarks/issues/59#issuecomment-150111895)
+- reddit: [https://www.reddit.com/r/MachineLearning/comments/3nocg5/fast_algorithms_for_convolutional_neural_networks/?](https://www.reddit.com/r/MachineLearning/comments/3nocg5/fast_algorithms_for_convolutional_neural_networks/?)
 
 **Deep Compression: Compressing Deep Neural Networks with Pruning, Trained Quantization and Huffman Coding (ICLR 2016 Best Paper)**
 
@@ -163,6 +164,13 @@ to decompose it into the multiplications of thinned dense matrices"
 **Ristretto: Hardware-Oriented Approximation of Convolutional Neural Networks**
 
 - arxiv: [http://arxiv.org/abs/1605.06402](http://arxiv.org/abs/1605.06402)
+
+## Acceleration
+
+**Fast Convolutional Nets With fbfft: A GPU Performance Evaluation (Facebook. ICLR 2015)**
+
+- arxiv: [http://arxiv.org/abs/1412.7580](http://arxiv.org/abs/1412.7580)
+- github: [http://facebook.github.io/fbcunn/fbcunn/](http://facebook.github.io/fbcunn/fbcunn/)
 
 # Projects
 

@@ -108,17 +108,9 @@ date: 2015-10-09
 - project: [http://317070.github.io/Dream/](http://317070.github.io/Dream/)
 - code: [https://github.com/317070/Twitch-plays-LSD-neural-net](https://github.com/317070/Twitch-plays-LSD-neural-net)
 
-**deepdream**
-
-- code: [https://github.com/google/deepdream](https://github.com/google/deepdream)
-
 **cnn-vis**
 
 - code: [https://github.com/jcjohnson/cnn-vis](https://github.com/jcjohnson/cnn-vis)
-
-**deepdraw**
-
-- code: [https://github.com/auduno/deepdraw](https://github.com/auduno/deepdraw)
 
 **bat-country**
 

@@ -5,6 +5,9 @@ title: Training Deep Neural Networks
 date: 2015-10-09
 ---
 
+* TOC
+{:toc}
+
 # Tutorials
 
 **Popular Training Approaches of DNNs — A Quick Overview**
@@ -212,16 +215,6 @@ date: 2015-10-09
 
 - paper: [https://www.cs.toronto.edu/~hinton/absps/JMLRdropout.pdf](https://www.cs.toronto.edu/~hinton/absps/JMLRdropout.pdf)
 
-**Regularization of Neural Networks using DropConnect**
-
-- homepage: [http://cs.nyu.edu/~wanli/dropc/](http://cs.nyu.edu/~wanli/dropc/)
-- gitxiv: [http://gitxiv.com/posts/rJucpiQiDhQ7HkZoX/regularization-of-neural-networks-using-dropconnect](http://gitxiv.com/posts/rJucpiQiDhQ7HkZoX/regularization-of-neural-networks-using-dropconnect)
-- github: [https://github.com/iassael/torch-dropconnect](https://github.com/iassael/torch-dropconnect)
-
-**Regularizing neural networks with dropout and with DropConnect**
-
-- blog: [http://fastml.com/regularizing-neural-networks-with-dropout-and-with-dropconnect/](http://fastml.com/regularizing-neural-networks-with-dropout-and-with-dropconnect/)
-
 **Fast dropout training**
 
 - paper: [http://jmlr.org/proceedings/papers/v28/wang13a.pdf](http://jmlr.org/proceedings/papers/v28/wang13a.pdf)
@@ -240,6 +233,18 @@ date: 2015-10-09
 **Improved Dropout for Shallow and Deep Learning**
 
 - arxiv: [http://arxiv.org/abs/1602.02220](http://arxiv.org/abs/1602.02220)
+
+## DropConnect
+
+**Regularization of Neural Networks using DropConnect**
+
+- homepage: [http://cs.nyu.edu/~wanli/dropc/](http://cs.nyu.edu/~wanli/dropc/)
+- gitxiv: [http://gitxiv.com/posts/rJucpiQiDhQ7HkZoX/regularization-of-neural-networks-using-dropconnect](http://gitxiv.com/posts/rJucpiQiDhQ7HkZoX/regularization-of-neural-networks-using-dropconnect)
+- github: [https://github.com/iassael/torch-dropconnect](https://github.com/iassael/torch-dropconnect)
+
+**Regularizing neural networks with dropout and with DropConnect**
+
+- blog: [http://fastml.com/regularizing-neural-networks-with-dropout-and-with-dropconnect/](http://fastml.com/regularizing-neural-networks-with-dropout-and-with-dropconnect/)
 
 # Gradient Descent
 
@@ -300,13 +305,20 @@ date: 2015-10-09
 
 - arxiv: [https://arxiv.org/abs/1510.03009](https://arxiv.org/abs/1510.03009)
 
-**8-Bit Approximations for Parallelism in Deep Learning (ICLR 2016)**
-
-- arxiv: [http://arxiv.org/abs/1511.04561](http://arxiv.org/abs/1511.04561)
-
 **Acceleration of Deep Neural Network Training with Resistive Cross-Point Devices**
 
 - arxiv: [http://arxiv.org/abs/1603.07341](http://arxiv.org/abs/1603.07341)
+
+## Parallelism
+
+**One weird trick for parallelizing convolutional neural networks**
+
+- author: Alex Krizhevsky
+- arxiv: [http://arxiv.org/abs/1404.5997](http://arxiv.org/abs/1404.5997)
+
+**8-Bit Approximations for Parallelism in Deep Learning (ICLR 2016)**
+
+- arxiv: [http://arxiv.org/abs/1511.04561](http://arxiv.org/abs/1511.04561)
 
 # Image Data Augmentation
 
@@ -317,6 +329,23 @@ date: 2015-10-09
 **Caffe-Data-Augmentation: a branc caffe with feature of Data Augmentation using a configurable stochastic combination of 7 data augmentation techniques**
 
 - github: [https://github.com/ShaharKatz/Caffe-Data-Augmentation](https://github.com/ShaharKatz/Caffe-Data-Augmentation)
+
+# Low Numerical Precision
+
+**Training deep neural networks with low precision multiplications (ICLR 2015)**
+
+- intro: Maxout networks, 10-bit activations, 12-bit parameter updates
+- arxiv: [http://arxiv.org/abs/1412.7024](http://arxiv.org/abs/1412.7024)
+- github: [https://github.com/MatthieuCourbariaux/deep-learning-multipliers](https://github.com/MatthieuCourbariaux/deep-learning-multipliers)
+
+**Deep Learning with Limited Numerical Precision (ICML 2015)**
+
+- arxiv: [http://arxiv.org/abs/1502.02551](http://arxiv.org/abs/1502.02551)
+
+**BinaryNet: Training Deep Neural Networks with Weights and Activations Constrained to +1 or -1**
+
+- arxiv: [http://arxiv.org/abs/1602.02830](http://arxiv.org/abs/1602.02830)
+- github: [https://github.com/MatthieuCourbariaux/BinaryNet](https://github.com/MatthieuCourbariaux/BinaryNet)
 
 # Papers
 

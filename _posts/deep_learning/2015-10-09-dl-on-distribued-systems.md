@@ -16,6 +16,12 @@ date: 2015-10-09
 
 # Papers
 
+**Large Scale Distributed Deep Networks**
+
+- intro: distributed CPU training, data parallelism, model parallelism
+- paper: [http://www.cs.toronto.edu/~ranzato/publications/DistBeliefNIPS2012_withAppendix.pdf](http://www.cs.toronto.edu/~ranzato/publications/DistBeliefNIPS2012_withAppendix.pdf)
+- slides: [http://admis.fudan.edu.cn/~yfhuang/files/LSDDN_slide.pdf](http://admis.fudan.edu.cn/~yfhuang/files/LSDDN_slide.pdf)
+
 **SparkNet: Training Deep Networks in Spark**
 
 - arXiv: [http://arxiv.org/abs/1511.06051](http://arxiv.org/abs/1511.06051)
@@ -26,6 +32,11 @@ date: 2015-10-09
 
 - page: [http://www.slideshare.net/AlexanderUlanov1/a-scalable-implementation-of-deep-learning-on-spark-alexander-ulanov](http://www.slideshare.net/AlexanderUlanov1/a-scalable-implementation-of-deep-learning-on-spark-alexander-ulanov)
 - slides: [http://pan.baidu.com/s/1jHiNW5C](http://pan.baidu.com/s/1jHiNW5C)
+
+**TensorFlow: Large-Scale Machine Learning on Heterogeneous Distributed Systems**
+
+- arxiv: [http://arxiv.org/abs/1603.04467](http://arxiv.org/abs/1603.04467)
+- gitxiv: [http://gitxiv.com/posts/57kjddp3AWt4y5K4h/tensorflow-large-scale-machine-learning-on-heterogeneous](http://gitxiv.com/posts/57kjddp3AWt4y5K4h/tensorflow-large-scale-machine-learning-on-heterogeneous)
 
 # Projects
 

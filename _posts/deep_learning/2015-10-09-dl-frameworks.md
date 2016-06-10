@@ -296,6 +296,10 @@ for building Deep Learning (DL) machine learning (ML) models
 
 - doc: [https://github.com/dmlc/mxnet/blob/master/docs/zh/note_memory.md](https://github.com/dmlc/mxnet/blob/master/docs/zh/note_memory.md)
 
+**WhatsThis-iOS: MXNet WhatThis Example for iOS**
+
+- github: [https://github.com/pppoe/WhatsThis-iOS](https://github.com/pppoe/WhatsThis-iOS)
+
 # neocortex.js
 
 **Run trained deep neural networks in the browser or node.js**

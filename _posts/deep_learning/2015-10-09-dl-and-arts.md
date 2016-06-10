@@ -5,7 +5,12 @@ title: Deep Learning and Arts
 date: 2015-10-09
 ---
 
+* TOC
+{:toc}
+
 # Painting
+
+## Neural Art
 
 **A Neural Algorithm of Artistic Style**
 
@@ -29,18 +34,11 @@ date: 2015-10-09
 - github: [https://github.com/woodrush/neural-art-tf](https://github.com/woodrush/neural-art-tf)
 - github: [https://github.com/fzliu/style-transfer](https://github.com/fzliu/style-transfer)
 
-**neural-style-video**
-
-- blog: [http://larseidnes.com/2015/12/18/painting-videos-with-neural-networks/](http://larseidnes.com/2015/12/18/painting-videos-with-neural-networks/)
-- github: [https://github.com/larspars/neural-style-video](https://github.com/larspars/neural-style-video)
-
 **Artificial Startup Style: Neural art about startup fashion**
 
 ![](https://cdn-images-1.medium.com/max/800/1*n2cmWDB42iUij8TCil9yLA.png)
 
 - blog: [https://medium.com/data-engineering/artificial-startup-style-437f6090b1f7#.8u06gq42e](https://medium.com/data-engineering/artificial-startup-style-437f6090b1f7#.8u06gq42e)
-
-- - -
 
 **From Pixels to Paragraphs: How artistic experiments with deep learning guard us from hype**
 
@@ -50,23 +48,9 @@ date: 2015-10-09
 
 - website: [http://mtyka.github.io/code/2015/10/02/experiments-with-style-transfer.html](http://mtyka.github.io/code/2015/10/02/experiments-with-style-transfer.html)
 
-**Sketch-a-Net that Beats Humans**
+**Style Transfer for Headshot Portraits (SIGGRAPH 2014)**
 
-- paper: [http://arxiv.org/abs/1501.07873](http://arxiv.org/abs/1501.07873)
-- project: [http://www.eecs.qmul.ac.uk/~tmh/downloads.html](http://www.eecs.qmul.ac.uk/~tmh/downloads.html)
-
-**How Do Humans Sketch Objects?**
-
-![](/assets/cnn-and-arts/teaser_siggraph.jpg)
-
-- paper: [http://cybertron.cg.tu-berlin.de/eitz/pdf/2012_siggraph_classifysketch.pdf](http://cybertron.cg.tu-berlin.de/eitz/pdf/2012_siggraph_classifysketch.pdf)
-- project: [http://cybertron.cg.tu-berlin.de/eitz/projects/classifysketch/](http://cybertron.cg.tu-berlin.de/eitz/projects/classifysketch/)
-- code: [https://github.com/Zebreu/SketchingAI](https://github.com/Zebreu/SketchingAI)
-- gitxiv: [http://gitxiv.com/posts/ZBCxEc9g3Fg5xCQ6n/sketchingai](http://gitxiv.com/posts/ZBCxEc9g3Fg5xCQ6n/sketchingai)
-
-**Style Transfer for Headshot Portraits**
-
-![](/assets/cnn-and-arts/teaser_Style_Transfer_for_Headshot_Portraits.jpg)
+![](https://people.csail.mit.edu/yichangshih/portrait_web/teaser.jpg)
 
 - project: [https://people.csail.mit.edu/yichangshih/portrait_web/](https://people.csail.mit.edu/yichangshih/portrait_web/)
 
@@ -76,10 +60,6 @@ date: 2015-10-09
 
 - blog: [http://blog.manugarri.com/teaching-recurrent-neural-networks-about-monet/](http://blog.manugarri.com/teaching-recurrent-neural-networks-about-monet/)
 - github: [https://github.com/manugarri/keras_monet](https://github.com/manugarri/keras_monet)
-
-**Image2Emoji: Zero-shot Emoji Prediction for Visual Media**
-
-- paper: [http://isis-data.science.uva.nl/cgmsnoek/pub/cappallo-image2emoji-mm2015.pdf](http://isis-data.science.uva.nl/cgmsnoek/pub/cappallo-image2emoji-mm2015.pdf)
 
 **Content Aware Neural Style Transfer**
 
@@ -93,31 +73,6 @@ date: 2015-10-09
 
 - arxiv: [http://arxiv.org/abs/1601.04589](http://arxiv.org/abs/1601.04589)
 - github: [https://github.com/chuanli11/CNNMRF](https://github.com/chuanli11/CNNMRF)
-
-**Semantic Style Transfer and Turning Two-Bit Doodles into Fine Artworks**
-
-- paper: [http://nucl.ai/semantic-style-transfer.pdf](http://nucl.ai/semantic-style-transfer.pdf)
-- reddit: [https://www.reddit.com/r/MachineLearning/comments/48zstj/my_wip_implementation_of_neural_image_analogies/](https://www.reddit.com/r/MachineLearning/comments/48zstj/my_wip_implementation_of_neural_image_analogies/)
-- github: [https://github.com/alexjc/neural-doodle](https://github.com/alexjc/neural-doodle)
-
-**neural image analogies: Generate image analogies using neural matching and blending**
-
-![](https://raw.githubusercontent.com/awentzonline/image-analogies/master/examples/images/sugarskull-analogy.jpg)
-
-- github: [https://github.com/awentzonline/image-analogies](https://github.com/awentzonline/image-analogies)
-
-**Neural Doodle**
-
-![](https://raw.githubusercontent.com/alexjc/neural-doodle/master/docs/Workflow.gif)
-![](https://raw.githubusercontent.com/alexjc/neural-doodle/master/docs/Landscape_example.png)
-
-- github: [https://github.com/alexjc/neural-doodle](https://github.com/alexjc/neural-doodle)
-
-**Faster neural doodle**
-
-![](https://raw.githubusercontent.com/DmitryUlyanov/fast-neural-doodle/master/data/Renoir/grid.png)
-
-- github: [https://github.com/DmitryUlyanov/fast-neural-doodle](https://github.com/DmitryUlyanov/fast-neural-doodle)
 
 **Stylenet: Neural Network with Style Synthesis**
 
@@ -135,23 +90,6 @@ with the style of another image using convolutional neural networks
 - github: [https://github.com/yusuketomoto/chainer-fast-neuralstyle](https://github.com/yusuketomoto/chainer-fast-neuralstyle)
 - github: [https://github.com/awentzonline/keras-rtst](https://github.com/awentzonline/keras-rtst)
 
-**Learning to Simplify: Fully Convolutional Networks for Rough Sketch Cleanup (SIGGRAPH 2016)**
-
-![](http://hi.cs.waseda.ac.jp/~esimo/images/sketch/overview.png)
-
-- homepage: [http://hi.cs.waseda.ac.jp/~esimo/en/research/sketch/](http://hi.cs.waseda.ac.jp/~esimo/en/research/sketch/)
-- paper: [http://hi.cs.waseda.ac.jp/~esimo/publications/SimoSerraSIGGRAPH2016.pdf](http://hi.cs.waseda.ac.jp/~esimo/publications/SimoSerraSIGGRAPH2016.pdf)
-
-**DeepDreaming with TensorFlow**
-
-- ipn: [http://nbviewer.jupyter.org/github/tensorflow/tensorflow/blob/master/tensorflow/examples/tutorials/deepdream/deepdream.ipynb](http://nbviewer.jupyter.org/github/tensorflow/tensorflow/blob/master/tensorflow/examples/tutorials/deepdream/deepdream.ipynb)
-
-**Feed-forward neural doodle**
-
-![](https://raw.githubusercontent.com/DmitryUlyanov/online-neural-doodle/master/data/starry/grid.png)
-
-- github: [https://github.com/DmitryUlyanov/online-neural-doodle](https://github.com/DmitryUlyanov/online-neural-doodle)
-
 **Improving the Neural Algorithm of Artistic Style**
 
 - arxiv: [http://arxiv.org/abs/1605.04603](http://arxiv.org/abs/1605.04603)
@@ -162,21 +100,18 @@ with the style of another image using convolutional neural networks
 
 - github: [https://github.com/genekogan/CubistMirror](https://github.com/genekogan/CubistMirror)
 
-**Understanding Deep Dreams**
-
-- blog: [http://www.alanzucconi.com/2015/07/06/live-your-deepdream-how-to-recreate-the-inceptionism-effect/](http://www.alanzucconi.com/2015/07/06/live-your-deepdream-how-to-recreate-the-inceptionism-effect/)
-
-**Generating Deep Dreams**
-
-- blog：[http://www.alanzucconi.com/2016/05/25/generating-deep-dreams/](http://www.alanzucconi.com/2016/05/25/generating-deep-dreams/)
-
 **neural-art-mini: Lightweight version of mxnet neural art implementation**
 
 - intro: Lightweight version of mxnet neural art implementation using ~4.8M SqueezeNet model. 
 Compressed model is less than 500KB
 - github: [https://github.com/pavelgonchar/neural-art-mini](https://github.com/pavelgonchar/neural-art-mini)
 
-# Video
+## Neural Art On Video
+
+**neural-style-video**
+
+- blog: [http://larseidnes.com/2015/12/18/painting-videos-with-neural-networks/](http://larseidnes.com/2015/12/18/painting-videos-with-neural-networks/)
+- github: [https://github.com/larspars/neural-style-video](https://github.com/larspars/neural-style-video)
 
 **Instructions for making a Neural-Style movie**
 
@@ -194,16 +129,98 @@ Compressed model is less than 500KB
 
 - arxiv: [http://arxiv.org/abs/1605.08153](http://arxiv.org/abs/1605.08153)
 
+## Neural Doodle
+
+**Semantic Style Transfer and Turning Two-Bit Doodles into Fine Artworks**
+
+- paper: [http://nucl.ai/semantic-style-transfer.pdf](http://nucl.ai/semantic-style-transfer.pdf)
+- reddit: [https://www.reddit.com/r/MachineLearning/comments/48zstj/my_wip_implementation_of_neural_image_analogies/](https://www.reddit.com/r/MachineLearning/comments/48zstj/my_wip_implementation_of_neural_image_analogies/)
+- github: [https://github.com/alexjc/neural-doodle](https://github.com/alexjc/neural-doodle)
+
+**Neural Doodle**
+
+![](https://raw.githubusercontent.com/alexjc/neural-doodle/master/docs/Workflow.gif)
+![](https://raw.githubusercontent.com/alexjc/neural-doodle/master/docs/Landscape_example.png)
+
+- github: [https://github.com/alexjc/neural-doodle](https://github.com/alexjc/neural-doodle)
+
+**Faster neural doodle**
+
+![](https://raw.githubusercontent.com/DmitryUlyanov/fast-neural-doodle/master/data/Renoir/grid.png)
+
+- github: [https://github.com/DmitryUlyanov/fast-neural-doodle](https://github.com/DmitryUlyanov/fast-neural-doodle)
+
+**Feed-forward neural doodle**
+
+![](https://raw.githubusercontent.com/DmitryUlyanov/online-neural-doodle/master/data/starry/grid.png)
+
+- github: [https://github.com/DmitryUlyanov/online-neural-doodle](https://github.com/DmitryUlyanov/online-neural-doodle)
+
+**neural image analogies: Generate image analogies using neural matching and blending**
+
+![](https://raw.githubusercontent.com/awentzonline/image-analogies/master/examples/images/sugarskull-analogy.jpg)
+
+- github: [https://github.com/awentzonline/image-analogies](https://github.com/awentzonline/image-analogies)
+
+## Deep Dreams
+
+**deepdream**
+
+- github: [https://github.com/google/deepdream](https://github.com/google/deepdream)
+
+**DeepDreaming with TensorFlow**
+
+- ipn: [http://nbviewer.jupyter.org/github/tensorflow/tensorflow/blob/master/tensorflow/examples/tutorials/deepdream/deepdream.ipynb](http://nbviewer.jupyter.org/github/tensorflow/tensorflow/blob/master/tensorflow/examples/tutorials/deepdream/deepdream.ipynb)
+
+**deepdraw**
+
+- code: [https://github.com/auduno/deepdraw](https://github.com/auduno/deepdraw)
+
+**Understanding Deep Dreams**
+
+- blog: [http://www.alanzucconi.com/2015/07/06/live-your-deepdream-how-to-recreate-the-inceptionism-effect/](http://www.alanzucconi.com/2015/07/06/live-your-deepdream-how-to-recreate-the-inceptionism-effect/)
+
+**Generating Deep Dreams**
+
+- blog：[http://www.alanzucconi.com/2016/05/25/generating-deep-dreams/](http://www.alanzucconi.com/2016/05/25/generating-deep-dreams/)
+
+## Others
+
+**Sketch-a-Net that Beats Humans**
+
+- paper: [http://arxiv.org/abs/1501.07873](http://arxiv.org/abs/1501.07873)
+- project: [http://www.eecs.qmul.ac.uk/~tmh/downloads.html](http://www.eecs.qmul.ac.uk/~tmh/downloads.html)
+
+**How Do Humans Sketch Objects?**
+
+![](/assets/cnn-and-arts/teaser_siggraph.jpg)
+
+- paper: [http://cybertron.cg.tu-berlin.de/eitz/pdf/2012_siggraph_classifysketch.pdf](http://cybertron.cg.tu-berlin.de/eitz/pdf/2012_siggraph_classifysketch.pdf)
+- project: [http://cybertron.cg.tu-berlin.de/eitz/projects/classifysketch/](http://cybertron.cg.tu-berlin.de/eitz/projects/classifysketch/)
+- code: [https://github.com/Zebreu/SketchingAI](https://github.com/Zebreu/SketchingAI)
+- gitxiv: [http://gitxiv.com/posts/ZBCxEc9g3Fg5xCQ6n/sketchingai](http://gitxiv.com/posts/ZBCxEc9g3Fg5xCQ6n/sketchingai)
+
+**Image2Emoji: Zero-shot Emoji Prediction for Visual Media**
+
+- paper: [http://isis-data.science.uva.nl/cgmsnoek/pub/cappallo-image2emoji-mm2015.pdf](http://isis-data.science.uva.nl/cgmsnoek/pub/cappallo-image2emoji-mm2015.pdf)
+
+**Learning to Simplify: Fully Convolutional Networks for Rough Sketch Cleanup (SIGGRAPH 2016)**
+
+![](http://hi.cs.waseda.ac.jp/~esimo/images/sketch/overview.png)
+
+- homepage: [http://hi.cs.waseda.ac.jp/~esimo/en/research/sketch/](http://hi.cs.waseda.ac.jp/~esimo/en/research/sketch/)
+- paper: [http://hi.cs.waseda.ac.jp/~esimo/publications/SimoSerraSIGGRAPH2016.pdf](http://hi.cs.waseda.ac.jp/~esimo/publications/SimoSerraSIGGRAPH2016.pdf)
+
 # Music
 
 **GRUV: Algorithmic Music Generation using Recurrent Neural Networks**
 
-- code: [https://github.com/MattVitelli/GRUV](https://github.com/MattVitelli/GRUV)
+- github: [https://github.com/MattVitelli/GRUV](https://github.com/MattVitelli/GRUV)
 
 **DeepHear - Composing and harmonizing music with neural networks**
 
 - website: [http://web.mit.edu/felixsun/www/neural-music.html](http://web.mit.edu/felixsun/www/neural-music.html)
-- code: [https://github.com/fephsun/neuralnetmusic](https://github.com/fephsun/neuralnetmusic)
+- github: [https://github.com/fephsun/neuralnetmusic](https://github.com/fephsun/neuralnetmusic)
 
 **Using AutoHarp and a Character-Based RNN to Create MIDI Drum Loops**
 

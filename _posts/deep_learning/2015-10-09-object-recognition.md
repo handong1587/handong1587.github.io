@@ -1,11 +1,20 @@
 ---
 layout: post
 category: deep_learning
-title: Object Classification
+title: Object Recognition
 date: 2015-10-09
 ---
 
 # Papers
+
+**DeCAF: A Deep Convolutional Activation Feature for Generic Visual Recognition**
+
+- auothor: Jeff Donahue, Yangqing Jia, Oriol Vinyals, Judy Hoffman, Ning Zhang, Eric Tzeng, Trevor Darrell
+- arxiv: [http://arxiv.org/abs/1310.1531](http://arxiv.org/abs/1310.1531)
+
+**CNN Features off-the-shelf: an Astounding Baseline for Recognition (CVPR 2014)**
+
+- arxiv: [http://arxiv.org/abs/1403.6382](http://arxiv.org/abs/1403.6382)
 
 **Delving Deep into Rectifiers: Surpassing Human-Level Performance on ImageNet Classification**
 
