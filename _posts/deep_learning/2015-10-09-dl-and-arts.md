@@ -100,6 +100,13 @@ with the style of another image using convolutional neural networks
 
 - github: [https://github.com/genekogan/CubistMirror](https://github.com/genekogan/CubistMirror)
 
+**Transfer Style But Not Color**
+
+![](https://raw.githubusercontent.com/pavelgonchar/color-independent-style-transfer/master/results-ny.jpg)
+
+- blog: [http://blog.deepart.io/2016/06/04/color-independent-style-transfer/](http://blog.deepart.io/2016/06/04/color-independent-style-transfer/)
+- github: [https://github.com/pavelgonchar/color-independent-style-transfer](https://github.com/pavelgonchar/color-independent-style-transfer)
+
 **neural-art-mini: Lightweight version of mxnet neural art implementation**
 
 - intro: Lightweight version of mxnet neural art implementation using ~4.8M SqueezeNet model. 

@@ -23,8 +23,12 @@ date: 2015-10-09
 **Going Deeper with Convolutions**
 
 - paper: [http://arxiv.org/abs/1409.4842](http://arxiv.org/abs/1409.4842)
-- code: [https://github.com/google/inception](https://github.com/google/inception)
-- blog("Building a deeper understanding of images"): [http://googleresearch.blogspot.jp/2014/09/building-deeper-understanding-of-images.html](http://googleresearch.blogspot.jp/2014/09/building-deeper-understanding-of-images.html)
+- github: [https://github.com/google/inception](https://github.com/google/inception)
+- github: [https://github.com/soumith/inception.torch](https://github.com/soumith/inception.torch)
+
+**Building a deeper understanding of images**
+
+- blog: [http://googleresearch.blogspot.jp/2014/09/building-deeper-understanding-of-images.html](http://googleresearch.blogspot.jp/2014/09/building-deeper-understanding-of-images.html)
 
 ## VGGNet
 
@@ -47,8 +51,8 @@ date: 2015-10-09
 - intro: "21.2% top-1 and 5.6% top-5 error for single frame evaluation using a network; 
 3.5% top-5 error and 17.3% top-1 error With an ensemble of 4 models and multi-crop evaluation."
 - arXiv: [http://arxiv.org/abs/1512.00567](http://arxiv.org/abs/1512.00567)
-- github("Torch port of Inception V3"): [https://github.com/Moodstocks/inception-v3.torch](https://github.com/Moodstocks/inception-v3.torch)
-- github("Inception in TensorFlow"): [https://github.com/tensorflow/models/tree/master/inception#how-to-train-from-scratch-in-a-distributed-setting](https://github.com/tensorflow/models/tree/master/inception#how-to-train-from-scratch-in-a-distributed-setting)
+- github(Torch): [https://github.com/Moodstocks/inception-v3.torch](https://github.com/Moodstocks/inception-v3.torch)
+- github(TensorFlow): [https://github.com/tensorflow/models/tree/master/inception#how-to-train-from-scratch-in-a-distributed-setting](https://github.com/tensorflow/models/tree/master/inception#how-to-train-from-scratch-in-a-distributed-setting)
 
 ## ResNet
 
@@ -57,7 +61,7 @@ date: 2015-10-09
 - arxiv: [http://arxiv.org/abs/1512.03385](http://arxiv.org/abs/1512.03385)
 - slides: [http://research.microsoft.com/en-us/um/people/kahe/ilsvrc15/ilsvrc2015_deep_residual_learning_kaiminghe.pdf](http://research.microsoft.com/en-us/um/people/kahe/ilsvrc15/ilsvrc2015_deep_residual_learning_kaiminghe.pdf)
 - gitxiv: [http://gitxiv.com/posts/LgPRdTY3cwPBiMKbm/deep-residual-learning-for-image-recognition](http://gitxiv.com/posts/LgPRdTY3cwPBiMKbm/deep-residual-learning-for-image-recognition)
-- github(by KaimingHe): [https://github.com/KaimingHe/deep-residual-networks](https://github.com/KaimingHe/deep-residual-networks)
+- github: [https://github.com/KaimingHe/deep-residual-networks](https://github.com/KaimingHe/deep-residual-networks)
 - github: [https://github.com/alrojo/lasagne_residual_network](https://github.com/alrojo/lasagne_residual_network)
 - github: [https://github.com/shuokay/resnet](https://github.com/shuokay/resnet)
 - github: [https://github.com/gcr/torch-residual-networks](https://github.com/gcr/torch-residual-networks)

@@ -219,6 +219,11 @@ date: 2015-10-09
 
 - arxiv: [http://arxiv.org/abs/1605.05359](http://arxiv.org/abs/1605.05359)
 
+**Deep Successor Reinforcement Learning (MIT)**
+
+- arxiv: [http://arxiv.org/abs/1606.02396](http://arxiv.org/abs/1606.02396)
+- github: [https://github.com/Ardavans/DSR](https://github.com/Ardavans/DSR)
+
 # Projects
 
 **Using Deep Q-Network to Learn How To Play Flappy Bird**

@@ -432,6 +432,8 @@ for building Deep Learning (DL) machine learning (ML) models
 - mirror: [http://pan.baidu.com/s/1c5cICY](http://pan.baidu.com/s/1c5cICY)
 - github: [https://github.com/terryum/TensorFlow_Exercises](https://github.com/terryum/TensorFlow_Exercises)
 
+**TensorBoard**
+
 # Theano
 
 **Theano**

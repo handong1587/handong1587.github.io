@@ -22,8 +22,8 @@ date: 2015-10-09
 
 - intro: A deep version of the sliding window method, predicts bounding box directly from each location of the 
 topmost feature map after knowing the confidences of the underlying object categories.
-- arXiv: [http://arxiv.org/abs/1312.6229](http://arxiv.org/abs/1312.6229)
-- code: [https://github.com/sermanet/OverFeat](https://github.com/sermanet/OverFeat)
+- arxiv: [http://arxiv.org/abs/1312.6229](http://arxiv.org/abs/1312.6229)
+- github: [https://github.com/sermanet/OverFeat](https://github.com/sermanet/OverFeat)
 - code: [http://cilvr.nyu.edu/doku.php?id=software:overfeat:start](http://cilvr.nyu.edu/doku.php?id=software:overfeat:start)
 
 ## R-CNN
@@ -38,10 +38,10 @@ topmost feature map after knowing the confidences of the underlying object categ
 |R-CNN,VGG-Net         |62.2%       |            |            |               |
 |R-CNN,bbox reg,VGG-Net|66.0%       |            |            |               |
 
-- arXiv: [http://arxiv.org/abs/1311.2524](http://arxiv.org/abs/1311.2524)
+- arxiv: [http://arxiv.org/abs/1311.2524](http://arxiv.org/abs/1311.2524)
 - slides: [http://www.image-net.org/challenges/LSVRC/2013/slides/r-cnn-ilsvrc2013-workshop.pdf](http://www.image-net.org/challenges/LSVRC/2013/slides/r-cnn-ilsvrc2013-workshop.pdf)
 - slides: [http://www.cs.berkeley.edu/~rbg/slides/rcnn-cvpr14-slides.pdf](http://www.cs.berkeley.edu/~rbg/slides/rcnn-cvpr14-slides.pdf)
-- code: [https://github.com/rbgirshick/rcnn](https://github.com/rbgirshick/rcnn)
+- github: [https://github.com/rbgirshick/rcnn](https://github.com/rbgirshick/rcnn)
 - notes: [http://zhangliliang.com/2014/07/23/paper-note-rcnn/](http://zhangliliang.com/2014/07/23/paper-note-rcnn/)
 - caffe-pr("Make R-CNN the Caffe detection example"): [https://github.com/BVLC/caffe/pull/482](https://github.com/BVLC/caffe/pull/482) 
 
@@ -50,8 +50,8 @@ topmost feature map after knowing the confidences of the underlying object categ
 **Scalable Object Detection using Deep Neural Networks (MultiBox)**
 
 - intro: Train a CNN to predict Region of Interest.
-- arXiv: [http://arxiv.org/abs/1312.2249](http://arxiv.org/abs/1312.2249)
-- code: [https://github.com/google/multibox](https://github.com/google/multibox)
+- arxiv: [http://arxiv.org/abs/1312.2249](http://arxiv.org/abs/1312.2249)
+- github: [https://github.com/google/multibox](https://github.com/google/multibox)
 
 ## SPP-Net
 
@@ -63,8 +63,8 @@ topmost feature map after knowing the confidences of the underlying object categ
 |SPP_net(ZF-5),2-model|60.9%       |               |
 |SPP_net(ZF-5),6-model|            |35.11%         |
 
-- arXiv: [http://arxiv.org/abs/1406.4729](http://arxiv.org/abs/1406.4729)
-- code: [https://github.com/ShaoqingRen/SPP_net](https://github.com/ShaoqingRen/SPP_net)
+- arxiv: [http://arxiv.org/abs/1406.4729](http://arxiv.org/abs/1406.4729)
+- github: [https://github.com/ShaoqingRen/SPP_net](https://github.com/ShaoqingRen/SPP_net)
 - notes: [http://zhangliliang.com/2014/09/13/paper-note-sppnet/](http://zhangliliang.com/2014/09/13/paper-note-sppnet/)
 
 **Learning Rich Features from RGB-D Images for Object Detection and Segmentation**
@@ -73,8 +73,8 @@ topmost feature map after knowing the confidences of the underlying object categ
 
 **Scalable, High-Quality Object Detection**
 
-- arXiv: [http://arxiv.org/abs/1412.1441](http://arxiv.org/abs/1412.1441)
-- code: [https://github.com/google/multibox](https://github.com/google/multibox)
+- arxiv: [http://arxiv.org/abs/1412.1441](http://arxiv.org/abs/1412.1441)
+- github: [https://github.com/google/multibox](https://github.com/google/multibox)
 
 ## DeepID-Net
 
@@ -84,7 +84,7 @@ topmost feature map after knowing the confidences of the underlying object categ
 |:------------:|:----------:|:-------------:|
 |DeepID-Net    |64.1%       |50.3%          |
 
-- arXiv: [http://arxiv.org/abs/1412.5661](http://arxiv.org/abs/1412.5661)
+- arxiv: [http://arxiv.org/abs/1412.5661](http://arxiv.org/abs/1412.5661)
 
 **Object Detectors Emerge in Deep Scene CNNs**
 
@@ -107,9 +107,9 @@ topmost feature map after knowing the confidences of the underlying object categ
 **Improving Object Detection with Deep Convolutional Networks via Bayesian Optimization
 and Structured Prediction**
 
-- arXiv: [http://arxiv.org/abs/1504.03293](http://arxiv.org/abs/1504.03293)
+- arxiv: [http://arxiv.org/abs/1504.03293](http://arxiv.org/abs/1504.03293)
 - slides: [http://www.ytzhang.net/files/publications/2015-cvpr-det-slides.pdf](http://www.ytzhang.net/files/publications/2015-cvpr-det-slides.pdf)
-- code: [https://github.com/YutingZhang/fgs-obj](https://github.com/YutingZhang/fgs-obj)
+- github: [https://github.com/YutingZhang/fgs-obj](https://github.com/YutingZhang/fgs-obj)
 
 ## Fast R-CNN
 
@@ -130,7 +130,7 @@ and Structured Prediction**
 |FRCN,VGG16|12    |65.7%       |
 |FRCN,VGG16|07++12|68.4%       |
 
-- arXiv: [http://arxiv.org/abs/1504.08083](http://arxiv.org/abs/1504.08083)
+- arxiv: [http://arxiv.org/abs/1504.08083](http://arxiv.org/abs/1504.08083)
 - slides: [http://tutorial.caffe.berkeleyvision.org/caffe-cvpr15-detection.pdf](http://tutorial.caffe.berkeleyvision.org/caffe-cvpr15-detection.pdf)
 - github: [https://github.com/rbgirshick/fast-rcnn](https://github.com/rbgirshick/fast-rcnn)
 - webcam demo: [https://github.com/rbgirshick/fast-rcnn/pull/29](https://github.com/rbgirshick/fast-rcnn/pull/29)
@@ -144,7 +144,7 @@ and Structured Prediction**
 
 **DeepBox: Learning Objectness with Convolutional Networks**
 
-- arXiv: [http://arxiv.org/abs/1505.02146](http://arxiv.org/abs/1505.02146)
+- arxiv: [http://arxiv.org/abs/1505.02146](http://arxiv.org/abs/1505.02146)
 - github: [https://github.com/weichengkuo/DeepBox](https://github.com/weichengkuo/DeepBox)
 
 ## MR-CNN
@@ -161,7 +161,7 @@ and Structured Prediction**
 |VGG-net   |07+12     |73.9%       |
 |VGG-net   |12        |70.7%       |
 
-- arXiv: [http://arxiv.org/abs/1505.01749](http://arxiv.org/abs/1505.01749)
+- arxiv: [http://arxiv.org/abs/1505.01749](http://arxiv.org/abs/1505.01749)
 - github: [https://github.com/gidariss/mrcnn-object-detection](https://github.com/gidariss/mrcnn-object-detection)
 - notes: [http://zhangliliang.com/2015/05/17/paper-note-ms-cnn/](http://zhangliliang.com/2015/05/17/paper-note-ms-cnn/)
 - notes: [http://blog.cvmarcher.com/posts/2015/05/17/multi-region-semantic-segmentation-aware-cnn/](http://blog.cvmarcher.com/posts/2015/05/17/multi-region-semantic-segmentation-aware-cnn/)
@@ -177,7 +177,7 @@ and Structured Prediction**
 |Faster RCNN, VGG-16|12           |VOC 2007 test|67.0%|198ms   |
 |Faster RCNN, VGG-16|07++12       |VOC 2007 test|70.4%|198ms   |
 
-- arXiv: [http://arxiv.org/abs/1506.01497](http://arxiv.org/abs/1506.01497)
+- arxiv: [http://arxiv.org/abs/1506.01497](http://arxiv.org/abs/1506.01497)
 - github: [https://github.com/ShaoqingRen/faster_rcnn](https://github.com/ShaoqingRen/faster_rcnn)
 - github: [https://github.com/rbgirshick/py-faster-rcnn](https://github.com/rbgirshick/py-faster-rcnn)
 
@@ -187,7 +187,7 @@ and Structured Prediction**
 
 - intro: YOLO uses the whole topmost feature map to predict both confidences for multiple categories and 
 bounding boxes (which are shared for these categories).
-- arXiv: [http://arxiv.org/abs/1506.02640](http://arxiv.org/abs/1506.02640)
+- arxiv: [http://arxiv.org/abs/1506.02640](http://arxiv.org/abs/1506.02640)
 - code: [http://pjreddie.com/darknet/yolo/](http://pjreddie.com/darknet/yolo/)
 - github: [https://github.com/pjreddie/darknet](https://github.com/pjreddie/darknet)
 - reddit: [https://www.reddit.com/r/MachineLearning/comments/3a3m0o/realtime_object_detection_with_yolo/](https://www.reddit.com/r/MachineLearning/comments/3a3m0o/realtime_object_detection_with_yolo/)
@@ -201,7 +201,7 @@ bounding boxes (which are shared for these categories).
 
 **DenseBox: Unifying Landmark Localization with End to End Object Detection**
 
-- arXiv: [http://arxiv.org/abs/1509.04874](http://arxiv.org/abs/1509.04874)
+- arxiv: [http://arxiv.org/abs/1509.04874](http://arxiv.org/abs/1509.04874)
 - demo: [http://pan.baidu.com/s/1mgoWWsS](http://pan.baidu.com/s/1mgoWWsS)
 - KITTI result: [http://www.cvlibs.net/datasets/kitti/eval_object.php](http://www.cvlibs.net/datasets/kitti/eval_object.php)
 
@@ -216,7 +216,7 @@ bounding boxes (which are shared for these categories).
 | SSD300 (VGG16) |      72.1          |       58          |    7308         |
 | SSD500 (VGG16) |    **75.1**        |       23          |    20097        |
 
-- arXiv: [http://arxiv.org/abs/1512.02325](http://arxiv.org/abs/1512.02325)
+- arxiv: [http://arxiv.org/abs/1512.02325](http://arxiv.org/abs/1512.02325)
 - paper: [http://www.cs.unc.edu/~wliu/papers/ssd.pdf](http://www.cs.unc.edu/~wliu/papers/ssd.pdf)
 - github: [https://github.com/weiliu89/caffe/tree/ssd](https://github.com/weiliu89/caffe/tree/ssd)
 - video: [http://weibo.com/p/2304447a2326da963254c963c97fb05dd3a973](http://weibo.com/p/2304447a2326da963254c963c97fb05dd3a973)
@@ -329,7 +329,7 @@ MSCOCO 2015 test:
 ![](/assets/object-detection-materials/end_to_end_people_detection_in_crowded_scenes.jpg)
 
 - arXiv: [http://arxiv.org/abs/1506.04878](http://arxiv.org/abs/1506.04878)
-- code: [https://github.com/Russell91/reinspect](https://github.com/Russell91/reinspect)
+- github: [https://github.com/Russell91/reinspect](https://github.com/Russell91/reinspect)
 - ipn: [http://nbviewer.ipython.org/github/Russell91/ReInspect/blob/master/evaluation_reinspect.ipynb](http://nbviewer.ipython.org/github/Russell91/ReInspect/blob/master/evaluation_reinspect.ipynb)
 
 **Deep Deformation Network for Object Landmark Localization**
