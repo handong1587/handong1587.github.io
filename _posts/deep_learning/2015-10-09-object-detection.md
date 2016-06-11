@@ -355,11 +355,23 @@ MSCOCO 2015 test:
 - intro: "set a new record on the Caltech pedestrian dataset, lowering the log-average miss rate from 11.7% to 8.9%"
 - arxiv: [http://arxiv.org/abs/1603.04525](http://arxiv.org/abs/1603.04525)
 
-# Others
+## Others
 
 **Deep Deformation Network for Object Landmark Localization**
 
 - arxiv: [http://arxiv.org/abs/1605.01014](http://arxiv.org/abs/1605.01014)
+
+# Object Proposal
+
+**DeepProposal: Hunting Objects by Cascading Deep Convolutional Layers**
+
+- arxiv: [http://arxiv.org/abs/1510.04445](http://arxiv.org/abs/1510.04445)
+- github: [https://github.com/aghodrati/deepproposal](https://github.com/aghodrati/deepproposal)
+
+**Learning to Segment Object Candidates (DeepMask)**
+
+- arxiv: [http://arxiv.org/abs/1506.06204](http://arxiv.org/abs/1506.06204)
+- github: [https://github.com/abbypa/NNProject_DeepMask](https://github.com/abbypa/NNProject_DeepMask)
 
 # Tutorials
 

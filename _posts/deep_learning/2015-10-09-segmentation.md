@@ -19,14 +19,9 @@ date: 2015-10-09
 - code: [https://github.com/xiaolonw/nips14_loc_seg_testonly](https://github.com/xiaolonw/nips14_loc_seg_testonly)
 - dataset: [http://objectextraction.github.io/](http://objectextraction.github.io/)
 
-**Learning to Segment Object Candidates (DeepMask)**
-
-- arxiv: [http://arxiv.org/abs/1506.06204](http://arxiv.org/abs/1506.06204)
-- github: [https://github.com/abbypa/NNProject_DeepMask](https://github.com/abbypa/NNProject_DeepMask)
-
 **Segmentation from Natural Language Expressions**
 
-![](http://ronghanghu.com/wp-content/uploads/text_objseg_method-768x331.jpg)
+![](https://camo.githubusercontent.com/b3ad4ad6d83ceb6bf6b8f8346bc545ac6ae1fba1/687474703a2f2f7777772e656563732e6265726b656c65792e6564752f253745726f6e6768616e672f70726f6a656374732f746578745f6f626a7365672f746578745f6f626a7365675f64656d6f2e6a7067)
 
 - homepage: [http://ronghanghu.com/text_objseg/](http://ronghanghu.com/text_objseg/)
 - arxiv: [http://arxiv.org/abs/1603.06180](http://arxiv.org/abs/1603.06180)
