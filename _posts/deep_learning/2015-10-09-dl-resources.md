@@ -18,6 +18,19 @@ date: 2015-10-09
 - paper: [http://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf](http://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf)
 - slides: [http://www.image-net.org/challenges/LSVRC/2012/supervision.pdf](http://www.image-net.org/challenges/LSVRC/2012/supervision.pdf)
 
+## Network In Network
+
+**Network In Network**
+
+![](https://culurciello.github.io/assets/nets/nin.jpg)
+
+- arxiv: [http://arxiv.org/abs/1312.4400](http://arxiv.org/abs/1312.4400)
+- gitxiv: [http://gitxiv.com/posts/PA98qGuMhsijsJzgX/network-in-network-nin](http://gitxiv.com/posts/PA98qGuMhsijsJzgX/network-in-network-nin)
+
+**Batch-normalized Maxout Network in Network**
+
+- arxiv: [http://arxiv.org/abs/1511.02583](http://arxiv.org/abs/1511.02583)
+
 ## GoogLeNet
 
 **Going Deeper with Convolutions**
@@ -115,20 +128,14 @@ date: 2015-10-09
 
 - - -
 
-**Network In Network**
-
-![](https://culurciello.github.io/assets/nets/nin.jpg)
-
-- arxiv: [http://arxiv.org/abs/1312.4400](http://arxiv.org/abs/1312.4400)
-- gitxiv: [http://gitxiv.com/posts/PA98qGuMhsijsJzgX/network-in-network-nin](http://gitxiv.com/posts/PA98qGuMhsijsJzgX/network-in-network-nin)
-
 **Striving for Simplicity: The All Convolutional Net**
 
 - arxiv: [http://arxiv.org/abs/1412.6806](http://arxiv.org/abs/1412.6806)
 
-**Batch-normalized Maxout Network in Network**
+**Systematic evaluation of CNN advances on the ImageNet**
 
-- arxiv: [http://arxiv.org/abs/1511.02583](http://arxiv.org/abs/1511.02583)
+- arxiv: [http://arxiv.org/abs/1606.02228](http://arxiv.org/abs/1606.02228)
+- github: [https://github.com/ducha-aiki/caffenet-benchmark](https://github.com/ducha-aiki/caffenet-benchmark)
 
 # Tensor
 

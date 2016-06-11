@@ -1,7 +1,7 @@
 ---
 layout: post
 category: deep_learning
-title: Object Recognition
+title: Image Recognition
 date: 2015-10-09
 ---
 
@@ -59,6 +59,16 @@ date: 2015-10-09
 
 - arxiv: [http://arxiv.org/abs/1605.05395](http://arxiv.org/abs/1605.05395)
 - github: [https://github.com/reedscot/cvpr2016](https://github.com/reedscot/cvpr2016)
+
+# Scene Recognition
+
+**Using neon for Scene Recognition: Mini-Places2**
+
+- intro: This is an implementation of the deep residual network used for 
+[Mini-Places2](http://6.869.csail.mit.edu/fa15/project.html) as described in 
+[He et. al., "Deep Residual Learning for Image Recognition"](http://arxiv.org/abs/1512.03385).
+- blog: [http://www.nervanasys.com/using-neon-for-scene-recognition-mini-places2/](http://www.nervanasys.com/using-neon-for-scene-recognition-mini-places2/)
+- github: [https://github.com/hunterlang/mpmz](https://github.com/hunterlang/mpmz)
 
 # Blogs
 

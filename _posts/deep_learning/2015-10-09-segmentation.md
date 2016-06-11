@@ -1,7 +1,7 @@
 ---
 layout: post
 category: deep_learning
-title: Object Segmentation
+title: Segmentation
 date: 2015-10-09
 ---
 
@@ -188,6 +188,45 @@ using the stochastic gradient descent (SGD) algorithm to obtain fine pixel-level
 **ENet: A Deep Neural Network Architecture for Real-Time Semantic Segmentation**
 
 - arxiv: [http://arxiv.org/abs/1606.02147](http://arxiv.org/abs/1606.02147)
+
+# Scene Labeling
+
+**Indoor Semantic Segmentation using depth information**
+
+- arxiv: [http://arxiv.org/abs/1301.3572](http://arxiv.org/abs/1301.3572)
+
+**Learning hierarchical features for scene labeling**
+
+- intro: "Their approach comprised of densely computing multi-scale CNN features
+for each pixel and aggregating them over image regions upon which they are classified.
+However, their methodstill required the post-processing step of generating over-segmented regions, 
+like superpixels, for obtaining the final segmentation result. 
+Additionally, the CNNs used for multi-scale feature learning were 
+not very deep with only three convolution layers."
+- paper: [http://yann.lecun.com/exdb/publis/pdf/farabet-pami-13.pdf](http://yann.lecun.com/exdb/publis/pdf/farabet-pami-13.pdf)
+
+**Multi-modal unsupervised feature learning for rgb-d scene labeling**
+
+- paper: [http://www3.ntu.edu.sg/home/wanggang/WangECCV2014.pdf](http://www3.ntu.edu.sg/home/wanggang/WangECCV2014.pdf)
+
+**Attend, Infer, Repeat: Fast Scene Understanding with Generative Models**
+
+- arxiv: [http://arxiv.org/abs/1603.08575](http://arxiv.org/abs/1603.08575)
+- notes: [http://www.shortscience.org/paper?bibtexKey=journals/corr/EslamiHWTKH16](http://www.shortscience.org/paper?bibtexKey=journals/corr/EslamiHWTKH16)
+
+## Benchmarks
+
+**Semantic Understanding of Urban Street Scenes: Benchmark Suite**
+
+[https://www.cityscapes-dataset.com/benchmarks/](https://www.cityscapes-dataset.com/benchmarks/)
+
+## Challenges
+
+**Large-scale Scene Understanding Challenge**
+
+![](http://lsun.cs.princeton.edu/img/overview_4crop.jpg)
+
+- homepage: [http://lsun.cs.princeton.edu/](http://lsun.cs.princeton.edu/)
 
 # Blogs
 

@@ -22,9 +22,10 @@ date: 2015-10-09
 
 - paper: [http://jmlr.org/proceedings/papers/v37/clark15.pdf](http://jmlr.org/proceedings/papers/v37/clark15.pdf)
 
-**Better Computer Go Player with Neural Network and Long-term Prediction(Facebook AI Research)**
+**Better Computer Go Player with Neural Network and Long-term Prediction (Facebook AI Research)**
 
 - arXiv: [http://arxiv.org/abs/1511.06410](http://arxiv.org/abs/1511.06410)
+- github: [https://github.com/facebookresearch/darkforestGo](https://github.com/facebookresearch/darkforestGo)
 - MIT tech review: [http://www.technologyreview.com/view/544181/how-facebooks-ai-researchers-built-a-game-changing-go-engine/](http://www.technologyreview.com/view/544181/how-facebooks-ai-researchers-built-a-game-changing-go-engine/)
 
 **Computer Go Research - The Challenges Ahead (Martin Müller. IEEE CIG 2015)**
