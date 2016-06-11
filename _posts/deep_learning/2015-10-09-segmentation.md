@@ -53,9 +53,7 @@ date: 2015-10-09
 - paper: [http://www.cs.berkeley.edu/~bharath2/pubs/pdfs/BharathCVPR2015.pdf](http://www.cs.berkeley.edu/~bharath2/pubs/pdfs/BharathCVPR2015.pdf)
 - github("SDS using hypercolumns"): [https://github.com/bharath272/sds](https://github.com/bharath272/sds)
 
-**Learning to decompose for object detection and instance segmentation**
-
-![](http://mmbiz.qpic.cn/mmbiz/KmXPKA19gW8YYXeWomd4s4ruu7Jmb3wCwH0oIbT44bCLsVqqpkaibT3sXqoRqCicVZiay2OjslwIvrUzpRrfLaRTw/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1)
+**Learning to decompose for object detection and instance segmentation (ICLR 2016 Workshop)**
 
 - intro: CNN / RNN, MNIST, KITTI 
 - arxiv: [http://arxiv.org/abs/1511.06449](http://arxiv.org/abs/1511.06449)

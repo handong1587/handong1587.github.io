@@ -153,7 +153,7 @@ date: 2015-10-09
 - data: [https://github.com/deepmind/mnist-cluttered](https://github.com/deepmind/mnist-cluttered)
 - code: [https://github.com/Element-Research/rnn/blob/master/examples/recurrent-visual-attention.lua](https://github.com/Element-Research/rnn/blob/master/examples/recurrent-visual-attention.lua)
 
-**Recurrent Model of Visual Attention(Google DeepMind)**
+**Recurrent Model of Visual Attention (Google DeepMind)**
 
 - paper: [http://arxiv.org/abs/1406.6247](http://arxiv.org/abs/1406.6247)
 - GitXiv: [http://gitxiv.com/posts/ZEobCXSh23DE8a8mo/recurrent-models-of-visual-attention](http://gitxiv.com/posts/ZEobCXSh23DE8a8mo/recurrent-models-of-visual-attention)
@@ -170,10 +170,11 @@ date: 2015-10-09
 - arXiv: [http://arxiv.org/abs/1509.00685](http://arxiv.org/abs/1509.00685)
 - github: [https://github.com/facebook/NAMAS](https://github.com/facebook/NAMAS)
 
-**Effective Approaches to Attention-based Neural Machine Translation(EMNLP2015)**
+**Effective Approaches to Attention-based Neural Machine Translation (EMNLP2015)**
 
 - paper: [http://nlp.stanford.edu/pubs/emnlp15_attn.pdf](http://nlp.stanford.edu/pubs/emnlp15_attn.pdf)
 - project: [http://nlp.stanford.edu/projects/nmt/](http://nlp.stanford.edu/projects/nmt/)
+- github: [https://github.com/lmthang/nmt.matlab](https://github.com/lmthang/nmt.matlab)
 
 **Generating Images from Captions with Attention**
 
