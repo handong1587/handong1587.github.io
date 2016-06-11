@@ -9,6 +9,10 @@ date: 2015-10-09
 
 - paper: [http://www.cs.odu.edu/~sji/papers/pdf/Ji_ICML10.pdf](http://www.cs.odu.edu/~sji/papers/pdf/Ji_ICML10.pdf)
 
+**Sequential Deep Learning for Human Action Recognition**
+
+- paper: [http://liris.cnrs.fr/Documents/Liris-5228.pdf](http://liris.cnrs.fr/Documents/Liris-5228.pdf)
+
 **Large-scale Video Classification with Convolutional Neural Networks (CVPR 2014)**
 
 paper: [http://120.52.73.14/www.cv-foundation.org/openaccess/content_cvpr_2014/papers/Karpathy_Large-scale_Video_Classification_2014_CVPR_paper.pdf](http://120.52.73.14/www.cv-foundation.org/openaccess/content_cvpr_2014/papers/Karpathy_Large-scale_Video_Classification_2014_CVPR_paper.pdf)
@@ -31,6 +35,10 @@ paper: [http://120.52.73.14/www.cv-foundation.org/openaccess/content_cvpr_2014/p
 They start from the image proposals and select the motion salient subset of them and
 extract saptio-temporal features to represent the video using the CNNs."
 - arxiv: [http://arxiv.org/abs/1411.6031](http://arxiv.org/abs/1411.6031)
+
+**Hierarchical Recurrent Neural Network for Skeleton Based Action Recognition**
+
+- paper: [http://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Du_Hierarchical_Recurrent_Neural_2015_CVPR_paper.pdf](http://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Du_Hierarchical_Recurrent_Neural_2015_CVPR_paper.pdf)
 
 **Action recognition with trajectory-pooled deepconvolutional descriptors**
 

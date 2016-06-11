@@ -309,6 +309,11 @@ date: 2015-10-09
 
 - arxiv: [http://arxiv.org/abs/1603.07341](http://arxiv.org/abs/1603.07341)
 
+**Deep Q-Networks for Accelerating the Training of Deep Neural Networks**
+
+- arxiv: [http://arxiv.org/abs/1606.01467](http://arxiv.org/abs/1606.01467)
+- github: [https://github.com/bigaidream-projects/qan](https://github.com/bigaidream-projects/qan)
+
 ## Parallelism
 
 **One weird trick for parallelizing convolutional neural networks**
