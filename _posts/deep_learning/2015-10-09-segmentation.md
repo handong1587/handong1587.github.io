@@ -5,6 +5,9 @@ title: Segmentation
 date: 2015-10-09
 ---
 
+* TOC
+{:toc}
+
 # Papers
 
 **Deep Joint Task Learning for Generic Object Extraction(NIPS2014)**
@@ -16,11 +19,72 @@ date: 2015-10-09
 - code: [https://github.com/xiaolonw/nips14_loc_seg_testonly](https://github.com/xiaolonw/nips14_loc_seg_testonly)
 - dataset: [http://objectextraction.github.io/](http://objectextraction.github.io/)
 
+**Learning to Segment Object Candidates (DeepMask)**
+
+- arxiv: [http://arxiv.org/abs/1506.06204](http://arxiv.org/abs/1506.06204)
+- github: [https://github.com/abbypa/NNProject_DeepMask](https://github.com/abbypa/NNProject_DeepMask)
+
+**Segmentation from Natural Language Expressions**
+
+![](http://ronghanghu.com/wp-content/uploads/text_objseg_method-768x331.jpg)
+
+- homepage: [http://ronghanghu.com/text_objseg/](http://ronghanghu.com/text_objseg/)
+- arxiv: [http://arxiv.org/abs/1603.06180](http://arxiv.org/abs/1603.06180)
+- github: [https://github.com/ronghanghu/text_objseg](https://github.com/ronghanghu/text_objseg)
+
+**Semantic Object Parsing with Graph LSTM**
+
+- arxiv: [http://arxiv.org/abs/1603.07063](http://arxiv.org/abs/1603.07063)
+
+# Instance Segmentation
+
 **Simultaneous Detection and Segmentation (ECCV 2014)**
 
 - author: Bharath Hariharan, Pablo Arbelaez, Ross Girshick, Jitendra Malik
 - arxiv: [http://arxiv.org/abs/1407.1808](http://arxiv.org/abs/1407.1808)
 - github(Matlab): [https://github.com/bharath272/sds_eccv2014](https://github.com/bharath272/sds_eccv2014)
+
+**Proposal-free Network for Instance-level Object Segmentation**
+
+- paper: [http://arxiv.org/abs/1509.02636](http://arxiv.org/abs/1509.02636)
+
+**Hypercolumns for object segmentation and fine-grained localization (CVPR 2015)**
+
+- paper: [http://www.cs.berkeley.edu/~bharath2/pubs/pdfs/BharathCVPR2015.pdf](http://www.cs.berkeley.edu/~bharath2/pubs/pdfs/BharathCVPR2015.pdf)
+- github("SDS using hypercolumns"): [https://github.com/bharath272/sds](https://github.com/bharath272/sds)
+
+**Learning to decompose for object detection and instance segmentation**
+
+![](http://mmbiz.qpic.cn/mmbiz/KmXPKA19gW8YYXeWomd4s4ruu7Jmb3wCwH0oIbT44bCLsVqqpkaibT3sXqoRqCicVZiay2OjslwIvrUzpRrfLaRTw/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1)
+
+- intro: CNN / RNN, MNIST, KITTI 
+- arxiv: [http://arxiv.org/abs/1511.06449](http://arxiv.org/abs/1511.06449)
+
+**Recurrent Instance Segmentation**
+
+![](http://romera-paredes.com/wp-content/uploads/2015/12/RIS.png)
+	
+- arXiv: [http://arxiv.org/abs/1511.08250](http://arxiv.org/abs/1511.08250)
+- homepage: [http://romera-paredes.com/recurrent-instance-segmentation](http://romera-paredes.com/recurrent-instance-segmentation)
+
+**Instance-aware Semantic Segmentation via Multi-task Network Cascades**
+
+- intro: "1st-place winner of MS COCO 2015 segmentation competition"
+- arxiv: [http://arxiv.org/abs/1512.04412](http://arxiv.org/abs/1512.04412)
+
+**Bridging Category-level and Instance-level Semantic Image Segmentation**
+
+- arxiv: [http://arxiv.org/abs/1605.06885](http://arxiv.org/abs/1605.06885)
+
+**DeepCut: Object Segmentation from Bounding Box Annotations using Convolutional Neural Networks**
+
+- arxiv: [http://arxiv.org/abs/1605.07866](http://arxiv.org/abs/1605.07866)
+
+**End-to-End Instance Segmentation and Counting with Recurrent Attention**
+
+- arxiv: [http://arxiv.org/abs/1605.09410](http://arxiv.org/abs/1605.09410)
+
+# Semantic Segmentation
 
 **Fully Convolutional Networks for Semantic Segmentation**
 
@@ -48,11 +112,6 @@ the per-pixel classification task is modeled as a CRF inference problem."
 - arXiv: [http://arxiv.org/abs/1502.02734](http://arxiv.org/abs/1502.02734)
 - bitbucket: [https://bitbucket.org/deeplab/deeplab-public/](https://bitbucket.org/deeplab/deeplab-public/)
 
-**Hypercolumns for object segmentation and fine-grained localization (CVPR 2015)**
-
-- paper: [http://www.cs.berkeley.edu/~bharath2/pubs/pdfs/BharathCVPR2015.pdf](http://www.cs.berkeley.edu/~bharath2/pubs/pdfs/BharathCVPR2015.pdf)
-- github("SDS using hypercolumns"): [https://github.com/bharath272/sds](https://github.com/bharath272/sds)
-
 **Conditional Random Fields as Recurrent Neural Networks(ICCV2015. Oxford/Stanford/Baidu)**
 
 ![](http://www.robots.ox.ac.uk/~szheng/Res_CRFRNN/CRFasRNN.jpg)
@@ -64,12 +123,12 @@ making the system efficient at both semantic feature extraction
 and fine-grained structure prediction. 
 This enables the end-to-end training of the entire FullConvNet + RNN system
 using the stochastic gradient descent (SGD) algorithm to obtain fine pixel-level segmentation."
-- arXiv: [http://arxiv.org/abs/1502.03240](http://arxiv.org/abs/1502.03240)
+- arxiv: [http://arxiv.org/abs/1502.03240](http://arxiv.org/abs/1502.03240)
 - homepage: [http://www.robots.ox.ac.uk/~szheng/CRFasRNN.html](http://www.robots.ox.ac.uk/~szheng/CRFasRNN.html)
 - github: [https://github.com/torrvision/crfasrnn](https://github.com/torrvision/crfasrnn)
 - demo: [http://www.robots.ox.ac.uk/~szheng/crfasrnndemo](http://www.robots.ox.ac.uk/~szheng/crfasrnndemo)
 
-**Learning Deconvolution Network for Semantic Segmentation (DeconvNet)**
+**Learning Deconvolution Network for Semantic Segmentation (DeconvNet. ICCV 2015)**
 
 - arXiv: [http://arxiv.org/abs/1505.04366](http://arxiv.org/abs/1505.04366)
 - github: [https://github.com/HyeonwooNoh/DeconvNet](https://github.com/HyeonwooNoh/DeconvNet)
@@ -87,11 +146,6 @@ using the stochastic gradient descent (SGD) algorithm to obtain fine pixel-level
 - project[paper+code]: [http://cvlab.postech.ac.kr/research/decouplednet/](http://cvlab.postech.ac.kr/research/decouplednet/)
 - github: [https://github.com/HyeonwooNoh/DecoupledNet](https://github.com/HyeonwooNoh/DecoupledNet)
 
-**Learning to Segment Object Candidates (DeepMask)**
-
-- arxiv: [http://arxiv.org/abs/1506.06204](http://arxiv.org/abs/1506.06204)
-- github: [https://github.com/abbypa/NNProject_DeepMask](https://github.com/abbypa/NNProject_DeepMask)
-
 **Semantic Image Segmentation via Deep Parsing Network**
 
 ![](http://personal.ie.cuhk.edu.hk/~lz013/projects/dpn/intro.png)
@@ -99,16 +153,12 @@ using the stochastic gradient descent (SGD) algorithm to obtain fine pixel-level
 - paper: [http://arxiv.org/abs/1509.02634](http://arxiv.org/abs/1509.02634)
 - homepage: [http://personal.ie.cuhk.edu.hk/~lz013/projects/DPN.html](http://personal.ie.cuhk.edu.hk/~lz013/projects/DPN.html)
 
-**Proposal-free Network for Instance-level Object Segmentation**
-
-- paper: [http://arxiv.org/abs/1509.02636](http://arxiv.org/abs/1509.02636)
-
 **SegNet: A Deep Convolutional Encoder-Decoder Architecture for Image Segmentation**
 
 ![](http://mi.eng.cam.ac.uk/projects/segnet/images/segnet.png)
 
 - homepage: [http://mi.eng.cam.ac.uk/projects/segnet/](http://mi.eng.cam.ac.uk/projects/segnet/)
-- arXiv: [http://arxiv.org/abs/1511.00561](http://arxiv.org/abs/1511.00561)
+- arxiv: [http://arxiv.org/abs/1511.00561](http://arxiv.org/abs/1511.00561)
 - github: [https://github.com/alexgkendall/caffe-segnet](https://github.com/alexgkendall/caffe-segnet)
 - tutorial: [http://mi.eng.cam.ac.uk/projects/segnet/tutorial.html](http://mi.eng.cam.ac.uk/projects/segnet/tutorial.html)
 
@@ -116,13 +166,6 @@ using the stochastic gradient descent (SGD) algorithm to obtain fine pixel-level
 
 - youtube: [https://www.youtube.com/watch?v=xfNYAly1iXo](https://www.youtube.com/watch?v=xfNYAly1iXo)
 - video: [http://pan.baidu.com/s/1gdUzDlD](http://pan.baidu.com/s/1gdUzDlD)
-
-**Learning to decompose for object detection and instance segmentation**
-
-![](http://mmbiz.qpic.cn/mmbiz/KmXPKA19gW8YYXeWomd4s4ruu7Jmb3wCwH0oIbT44bCLsVqqpkaibT3sXqoRqCicVZiay2OjslwIvrUzpRrfLaRTw/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1)
-
-- intro: CNN / RNN, MNIST, KITTI 
-- arxiv: [http://arxiv.org/abs/1511.06449](http://arxiv.org/abs/1511.06449)
 
 **Multi-Scale Context Aggregation by Dilated Convolutions**
 
@@ -133,41 +176,13 @@ using the stochastic gradient descent (SGD) algorithm to obtain fine pixel-level
 - github: [https://github.com/fyu/dilation](https://github.com/fyu/dilation)
 - notes: [http://www.inference.vc/dilated-convolutions-and-kronecker-factorisation/](http://www.inference.vc/dilated-convolutions-and-kronecker-factorisation/)
 
-**Recurrent Instance Segmentation**
-
-![](http://romera-paredes.com/wp-content/uploads/2015/12/RIS.png)
-	
-- arXiv: [http://arxiv.org/abs/1511.08250](http://arxiv.org/abs/1511.08250)
-- homepage: [http://romera-paredes.com/recurrent-instance-segmentation](http://romera-paredes.com/recurrent-instance-segmentation)
-
-**Instance-aware Semantic Segmentation via Multi-task Network Cascades**
-
-- intro: "1st-place winner of MS COCO 2015 segmentation competition"
-- arxiv: [http://arxiv.org/abs/1512.04412](http://arxiv.org/abs/1512.04412)
-
 **Combining the Best of Convolutional Layers and Recurrent Layers: A Hybrid Network for Semantic Segmentation**
 
 - arxiv: [http://arxiv.org/abs/1603.04871](http://arxiv.org/abs/1603.04871)
 
-**Segmentation from Natural Language Expressions**
-
-![](http://ronghanghu.com/wp-content/uploads/text_objseg_method-768x331.jpg)
-
-- homepage: [http://ronghanghu.com/text_objseg/](http://ronghanghu.com/text_objseg/)
-- arxiv: [http://arxiv.org/abs/1603.06180](http://arxiv.org/abs/1603.06180)
-- github: [https://github.com/ronghanghu/text_objseg](https://github.com/ronghanghu/text_objseg)
-
-**Semantic Object Parsing with Graph LSTM**
-
-- arxiv: [http://arxiv.org/abs/1603.07063](http://arxiv.org/abs/1603.07063)
-
 **Fully Convolutional Networks for Semantic Segmentation (PAMI 2016)**
 
 - arxiv: [http://arxiv.org/abs/1605.06211](http://arxiv.org/abs/1605.06211)
-
-**Bridging Category-level and Instance-level Semantic Image Segmentation**
-
-- arxiv: [http://arxiv.org/abs/1605.06885](http://arxiv.org/abs/1605.06885)
 
 **Natural Scene Image Segmentation Based on Multi-Layer Feature Extraction**
 
@@ -177,23 +192,20 @@ using the stochastic gradient descent (SGD) algorithm to obtain fine pixel-level
 
 - arxiv: [http://arxiv.org/abs/1605.07681](http://arxiv.org/abs/1605.07681)
 
-**DeepCut: Object Segmentation from Bounding Box Annotations using Convolutional Neural Networks**
-
-- arxiv: [http://arxiv.org/abs/1605.07866](http://arxiv.org/abs/1605.07866)
-
-**End-to-End Instance Segmentation and Counting with Recurrent Attention**
-
-- arxiv: [http://arxiv.org/abs/1605.09410](http://arxiv.org/abs/1605.09410)
-
 **ENet: A Deep Neural Network Architecture for Real-Time Semantic Segmentation**
 
 - arxiv: [http://arxiv.org/abs/1606.02147](http://arxiv.org/abs/1606.02147)
 
-# Scene Labeling
+# Scene Labeling/Parsing
 
 **Indoor Semantic Segmentation using depth information**
 
 - arxiv: [http://arxiv.org/abs/1301.3572](http://arxiv.org/abs/1301.3572)
+
+**Recurrent Convolutional Neural Networks for Scene Parsing**
+
+- arxiv: [http://arxiv.org/abs/1306.2795](http://arxiv.org/abs/1306.2795)
+- slides: [http://people.ee.duke.edu/~lcarin/Yizhe8.14.2015.pdf](http://people.ee.duke.edu/~lcarin/Yizhe8.14.2015.pdf)
 
 **Learning hierarchical features for scene labeling**
 
