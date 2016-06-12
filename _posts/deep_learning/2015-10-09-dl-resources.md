@@ -282,6 +282,12 @@ date: 2015-10-09
 - arxiv: [http://arxiv.org/abs/1505.00387](http://arxiv.org/abs/1505.00387)
 - blog("Highway Networks with TensorFlow"): [https://medium.com/jim-fleming/highway-networks-with-tensorflow-1e6dfa667daa#.71fgztsb6](https://medium.com/jim-fleming/highway-networks-with-tensorflow-1e6dfa667daa#.71fgztsb6)
 
+**Pointer Networks**
+
+- arxiv: [https://arxiv.org/abs/1506.03134](https://arxiv.org/abs/1506.03134)
+- github: [https://github.com/vshallc/PtrNets](https://github.com/vshallc/PtrNets)
+- notes: [https://github.com/dennybritz/deeplearning-papernotes/blob/master/notes/pointer-networks.md](https://github.com/dennybritz/deeplearning-papernotes/blob/master/notes/pointer-networks.md)
+
 **Training Very Deep Networks (highway networks)**
 
 - arxiv: [http://arxiv.org/abs/1507.06228](http://arxiv.org/abs/1507.06228)

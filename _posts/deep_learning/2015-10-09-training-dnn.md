@@ -67,6 +67,10 @@ date: 2015-10-09
 - arxiv: [http://arxiv.org/abs/1605.05509](http://arxiv.org/abs/1605.05509)
 - bitbucket: [https://bitbucket.org/ispamm/spline-nn](https://bitbucket.org/ispamm/spline-nn)
 
+**What is the role of the activation function in a neural network?**
+
+- quora: [https://www.quora.com/What-is-the-role-of-the-activation-function-in-a-neural-network](https://www.quora.com/What-is-the-role-of-the-activation-function-in-a-neural-network)
+
 # Weights Initialization
 
 **An Explanation of Xavier Initialization**

@@ -198,3 +198,9 @@ to decompose it into the multiplications of thinned dense matrices"
 **Neural Networks Are Impressively Good At Compression**
 
 [https://probablydance.com/2016/04/30/neural-networks-are-impressively-good-at-compression/](https://probablydance.com/2016/04/30/neural-networks-are-impressively-good-at-compression/)
+
+# Videos
+
+**Deep Compression, DSD Training and EIE: Deep Neural Network Model Compression, Regularization and Hardware Acceleration**
+
+[http://research.microsoft.com/apps/video/default.aspx?id=266664](http://research.microsoft.com/apps/video/default.aspx?id=266664)

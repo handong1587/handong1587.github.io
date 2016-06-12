@@ -352,6 +352,10 @@ date: 2015-10-09
 
 - github: [https://github.com/anayebi/keras-extra](https://github.com/anayebi/keras-extra)
 
+**Dynamic Vanilla RNN, GRU, LSTM,2layer Stacked LSTM with Tensorflow Higher Order Ops**
+
+- github: [https://github.com/KnHuq/Dynamic_RNN_Tensorflow](https://github.com/KnHuq/Dynamic_RNN_Tensorflow)
+
 # Blogs
 
 **Survey on Attention-based Models Applied in NLP**

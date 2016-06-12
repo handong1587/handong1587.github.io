@@ -97,7 +97,8 @@ date: 2015-07-01
 - syllabus: [http://vision.stanford.edu/teaching/cs231n/syllabus.html](http://vision.stanford.edu/teaching/cs231n/syllabus.html)
 - github.io: [http://cs231n.github.io/](http://cs231n.github.io/)
 - youtube: [https://www.youtube.com/watch?v=NfnWJUyUJYU&feature=youtu.be](https://www.youtube.com/watch?v=NfnWJUyUJYU&feature=youtu.be)
-- video: [http://pan.baidu.com/s/1pKsTivp](http://pan.baidu.com/s/1pKsTivp)
+- mirror: [http://pan.baidu.com/s/1pKsTivp](http://pan.baidu.com/s/1pKsTivp)
+- mirror: [http://pan.baidu.com/s/1c2wR8dy](http://pan.baidu.com/s/1c2wR8dy)
 
 **ITP-NYU - Spring 2016**
 
