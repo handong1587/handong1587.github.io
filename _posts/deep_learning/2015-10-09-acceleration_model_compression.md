@@ -57,7 +57,10 @@ transform a convolutional layer into multiple layers of lower complexity"
 **Distilling the Knowledge in a Neural Network (by Geoffrey Hinton, Oriol Vinyals, Jeff Dean)**
 
 - intro: "trained a distilled model to mimic the response of a larger and well-trained network"
+- comments: "Soft targets are a VERY good regulizer! Also trains much faster (soft targets enrich gradients)" -- Jeff Dean in CS231n talk
 - arxiv: [http://arxiv.org/abs/1503.02531](http://arxiv.org/abs/1503.02531)
+- blog: [http://fastml.com/geoff-hintons-dark-knowledge/](http://fastml.com/geoff-hintons-dark-knowledge/)
+- notes: [https://github.com/dennybritz/deeplearning-papernotes/blob/master/notes/distilling-the-knowledge-in-a-nn.md](https://github.com/dennybritz/deeplearning-papernotes/blob/master/notes/distilling-the-knowledge-in-a-nn.md)
 
 **Compressing Neural Networks with the Hashing Trick (HashedNets. ICML 2015)**
 

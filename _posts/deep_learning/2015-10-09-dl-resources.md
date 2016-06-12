@@ -83,6 +83,7 @@ date: 2015-10-09
 - github: [https://github.com/facebook/fb.resnet.torch](https://github.com/facebook/fb.resnet.torch)
 - github: [https://github.com/yasunorikudo/chainer-ResNet](https://github.com/yasunorikudo/chainer-ResNet)
 - github: [https://github.com/raghakot/keras-resnet](https://github.com/raghakot/keras-resnet)
+- github: [https://github.com/ry/tensorflow-resnet](https://github.com/ry/tensorflow-resnet)
 
 **Training and investigating Residual Nets**
 

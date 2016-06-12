@@ -49,11 +49,15 @@ date: 2015-07-01
 - homepage: [https://uwaterloo.ca/data-science/deep-learning](https://uwaterloo.ca/data-science/deep-learning)
 - video+slides: [http://pan.baidu.com/s/1sjTRgjN](http://pan.baidu.com/s/1sjTRgjN)
 
-**Deep Learning: Taking machine learning to the next leve (Udacity)**
+**Deep Learning: Taking machine learning to the next level (Udacity)**
 
 - intro: by Vincent Vanhoucke (Google)
 - homepage: [https://www.udacity.com/course/deep-learning--ud730](https://www.udacity.com/course/deep-learning--ud730)
+- homepage: [https://cn.udacity.com/course/deep-learning--ud730/](https://cn.udacity.com/course/deep-learning--ud730/)
+- homepage: [https://classroom.udacity.com/courses/ud730/lessons/6370362152/concepts/63798118150923](https://classroom.udacity.com/courses/ud730/lessons/6370362152/concepts/63798118150923)
 - assignments: [https://github.com/tdhopper/udacity-deep-learning](https://github.com/tdhopper/udacity-deep-learning)
+- ipn: [https://github.com/tensorflow/tensorflow/blob/master/tensorflow/examples/udacity/1_notmnist.ipynb](https://github.com/tensorflow/tensorflow/blob/master/tensorflow/examples/udacity/1_notmnist.ipynb)
+- ipn: [http://nbviewer.jupyter.org/github/tensorflow/tensorflow/blob/master/tensorflow/examples/udacity/1_notmnist.ipynb](http://nbviewer.jupyter.org/github/tensorflow/tensorflow/blob/master/tensorflow/examples/udacity/1_notmnist.ipynb)
 
 **stat212b: Topics Course on Deep Learning for Spring 2016**
 

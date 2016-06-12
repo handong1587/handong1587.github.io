@@ -231,6 +231,12 @@ Compressed model is less than 500KB
 - homepage: [http://hi.cs.waseda.ac.jp/~esimo/en/research/sketch/](http://hi.cs.waseda.ac.jp/~esimo/en/research/sketch/)
 - paper: [http://hi.cs.waseda.ac.jp/~esimo/publications/SimoSerraSIGGRAPH2016.pdf](http://hi.cs.waseda.ac.jp/~esimo/publications/SimoSerraSIGGRAPH2016.pdf)
 
+**Convolutional Sketch Inversion**
+
+![](/assets/fun_with_dl/Convolutional_Sketch_Inversion.png)
+
+- arxiv: [http://arxiv.org/abs/1606.03073](http://arxiv.org/abs/1606.03073)
+
 # Music
 
 **GRUV: Algorithmic Music Generation using Recurrent Neural Networks**

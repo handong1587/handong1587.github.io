@@ -191,6 +191,12 @@ date: 2015-09-12
 
 - arxiv: [http://arxiv.org/abs/1605.01576](http://arxiv.org/abs/1605.01576)
 
+# Image Dithering
+
+**Image Dithering: Eleven Algorithms and Source Code**
+
+- blog: [http://www.tannerhelland.com/4660/dithering-eleven-algorithms-source-code/](http://www.tannerhelland.com/4660/dithering-eleven-algorithms-source-code/)
+
 # Image Enhancement
 
 **LIME: A Method for Low-light IMage Enhancement**
