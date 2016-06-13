@@ -83,9 +83,11 @@ date: 2015-10-09
 
 - keywords: deconvolutional layer, crop layer
 - arxiv: [http://arxiv.org/abs/1411.4038](http://arxiv.org/abs/1411.4038)
+- arxiv(PAMI 2016): [http://arxiv.org/abs/1605.06211](http://arxiv.org/abs/1605.06211)
 - slides: [https://docs.google.com/presentation/d/1VeWFMpZ8XN7OC3URZP4WdXvOGYckoFWGVN7hApoXVnc](https://docs.google.com/presentation/d/1VeWFMpZ8XN7OC3URZP4WdXvOGYckoFWGVN7hApoXVnc)
 - slides: [http://tutorial.caffe.berkeleyvision.org/caffe-cvpr15-pixels.pdf](http://tutorial.caffe.berkeleyvision.org/caffe-cvpr15-pixels.pdf)
 - github: [https://github.com/BVLC/caffe/wiki/Model-Zoo#fcn](https://github.com/BVLC/caffe/wiki/Model-Zoo#fcn)
+- github: [https://github.com/MarvinTeichmann/tensorflow-fcn](https://github.com/MarvinTeichmann/tensorflow-fcn)
 - notes: [http://zhangliliang.com/2014/11/28/paper-note-fcn-segment/](http://zhangliliang.com/2014/11/28/paper-note-fcn-segment/)
 
 **Semantic Image Segmentation with Deep Convolutional Nets and Fully Connected CRFs("DeepLab")**
@@ -173,10 +175,6 @@ using the stochastic gradient descent (SGD) algorithm to obtain fine pixel-level
 
 - arxiv: [http://arxiv.org/abs/1603.04871](http://arxiv.org/abs/1603.04871)
 
-**Fully Convolutional Networks for Semantic Segmentation (PAMI 2016)**
-
-- arxiv: [http://arxiv.org/abs/1605.06211](http://arxiv.org/abs/1605.06211)
-
 **Natural Scene Image Segmentation Based on Multi-Layer Feature Extraction**
 
 - arxiv: [http://arxiv.org/abs/1605.07586](http://arxiv.org/abs/1605.07586)
@@ -188,6 +186,10 @@ using the stochastic gradient descent (SGD) algorithm to obtain fine pixel-level
 **ENet: A Deep Neural Network Architecture for Real-Time Semantic Segmentation**
 
 - arxiv: [http://arxiv.org/abs/1606.02147](http://arxiv.org/abs/1606.02147)
+
+**Fully Convolutional Networks for Dense Semantic Labelling of High-Resolution Aerial Imagery**
+
+- arxiv: [http://arxiv.org/abs/1606.02585](http://arxiv.org/abs/1606.02585)
 
 # Scene Labeling/Parsing
 

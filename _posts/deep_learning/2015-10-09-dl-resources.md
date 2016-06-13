@@ -57,7 +57,16 @@ date: 2015-10-09
 
 - github: [https://github.com/machrisaa/tensorflow-vgg](https://github.com/machrisaa/tensorflow-vgg)
 
-## Inception-v3
+## Inception-V2
+
+**Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift(ImageNet top-5 error: 4.82%)**
+
+- intro: Batch-normalized Inception = Inception V2 
+- arXiv: [http://arxiv.org/abs/1502.03167](http://arxiv.org/abs/1502.03167)
+- blog: [https://standardfrancis.wordpress.com/2015/04/16/batch-normalization/](https://standardfrancis.wordpress.com/2015/04/16/batch-normalization/)
+- notes: [http://blog.csdn.net/happynear/article/details/44238541](http://blog.csdn.net/happynear/article/details/44238541)
+
+## Inception-V3
 
 **Rethinking the Inception Architecture for Computer Vision**
 
@@ -126,6 +135,7 @@ date: 2015-10-09
 - intro: "achieve 3.08% top-5 error on the test set of the ImageNet classification (CLS) challenge"
 - arxiv: [http://arxiv.org/abs/1602.07261](http://arxiv.org/abs/1602.07261)
 - paper: [http://beta.openreview.net/pdf?id=q7kqBkL33f8LEkD3t7X9](http://beta.openreview.net/pdf?id=q7kqBkL33f8LEkD3t7X9)
+- github: [https://github.com/lim0606/torch-inception-resnet-v2](https://github.com/lim0606/torch-inception-resnet-v2)
 
 - - -
 
