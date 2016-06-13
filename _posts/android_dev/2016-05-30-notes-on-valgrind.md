@@ -31,17 +31,17 @@ To successfully build, we need to modify the kernel version in configure
 
 Change:
 
-{% highlight bash %}
+```
 case "${kernel}" in
 0.*|1.*|2.0.*|2.1.*|2.2.*|2.3.*|2.4.*|2.5.*)
-{% endhighlight %}
+```
 
 to:
 
-{% highlight bash %}
+```
 case "${kernel}" in
 0.*|1.*|2.1.*|2.2.*|2.3.*|2.4.*|2.5.*)
-{% endhighlight %}
+```
 
 Normally we should wait for about half an hour for bulding. All looks okay by far. But when I try to test it, things become nasty.
 
@@ -75,13 +75,13 @@ DDMS (Dalvik Debug Monitor Server) is a debugging tool used in the Android platf
 You can launch it from: "Eclipse > Window > Open Perspective > Other... > DDMS" or 
 directly from: "PathToAndroidSDK\android-sdk-windows\tools\ddms.bat".
 
-Need to modify the ddms.cfg (c:/Users/username/.android/ddms.cfg) file to enable native heap tracking in DDMS:
+Need to modify the ddms.cfg (`c:/Users/username/.android/ddms.cfg`) file to enable native heap tracking in DDMS:
 
 Add
 
-<pre class="terminal">
-<code>native=true</code>
-</pre>
+```
+native=true
+```
 
 in ddms.cfg.
 
