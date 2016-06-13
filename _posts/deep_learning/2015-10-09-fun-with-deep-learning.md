@@ -236,6 +236,15 @@ Compressed model is less than 500KB
 
 - arxiv: [http://arxiv.org/abs/1606.03073](http://arxiv.org/abs/1606.03073)
 
+# Sounds
+
+**Visually Indicated Sounds**
+
+![](http://vis.csail.mit.edu/pipeline.jpg)
+
+- project page: [http://vis.csail.mit.edu/](http://vis.csail.mit.edu/)
+- arxiv: [http://arxiv.org/abs/1512.08512](http://arxiv.org/abs/1512.08512)
+
 # Music
 
 **GRUV: Algorithmic Music Generation using Recurrent Neural Networks**
