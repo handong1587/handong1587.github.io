@@ -14,7 +14,7 @@ I follow the blog to configure Valgrind:
 
 [https://blog.frals.se/2014/07/02/building-and-running-valgrind-on-android/](https://blog.frals.se/2014/07/02/building-and-running-valgrind-on-android/)
 
-The author also provides some shell files on his gist: [ttps://gist.github.com/frals/7775c413a52763d80de3](ttps://gist.github.com/frals/7775c413a52763d80de3). 
+The author also provides some shell files on his gist: [https://gist.github.com/frals/7775c413a52763d80de3](https://gist.github.com/frals/7775c413a52763d80de3). 
 They are useful, but since I work on Windows 7 x86, I add some modifications. [https://github.com/handong1587/run_valgrind](https://github.com/handong1587/run_valgrind)
 
 (How to access gist in China? Add 
