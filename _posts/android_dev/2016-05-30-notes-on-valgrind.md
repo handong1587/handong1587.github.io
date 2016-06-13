@@ -17,8 +17,10 @@ I follow the blog to configure Valgrind:
 The author also provides some shell files on his gist: [ttps://gist.github.com/frals/7775c413a52763d80de3](ttps://gist.github.com/frals/7775c413a52763d80de3). 
 They are useful, but since I work on Windows 7 x86, I add some modifications. [https://github.com/handong1587/run_valgrind](https://github.com/handong1587/run_valgrind)
 
-(How to access gist in China? Add <pre class="terminal"><code>192.30.252.141 gist.github.com</code></pre> 
-to C:/Windows/System32/drivers/etc/hosts)
+(How to access gist in China? Add 
+`192.30.252.141 gist.github.com` 
+to 
+`C:/Windows/System32/drivers/etc/hosts`)
 
 One thing to note is that on Windows sometimes there will be some '\r', '\r\n' problems, 
 so we'd better use a dos2unix tool to convert the text format after every time we edit shell files on Windows.
