@@ -109,3 +109,9 @@ date: 2015-10-09
 - intro: a state-of-the art open source tool intended for facial landmark detection, head pose estimation, 
 facial action unit recognition, and eye-gaze estimation.
 - github: [https://github.com/TadasBaltrusaitis/OpenFace](https://github.com/TadasBaltrusaitis/OpenFace)
+
+# Resources
+
+**Face-Resources**
+
+- github: [https://github.com/betars/Face-Resources](https://github.com/betars/Face-Resources)

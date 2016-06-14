@@ -324,6 +324,11 @@ Its simple, and is ideal for rapid prototyping."
 
 - github: [https://github.com/5vision/DARQN](https://github.com/5vision/DARQN)
 
+**Deep Reinforcement Learning in TensorFlow**
+
+- intro: TensorFlow implementation of Deep Reinforcement Learning papers
+- github: [https://github.com/carpedm20/deep-rl-tensorflow](https://github.com/carpedm20/deep-rl-tensorflow)
+
 # Blogs
 
 **A Short Introduction To Some Reinforcement Learning Algorithms**

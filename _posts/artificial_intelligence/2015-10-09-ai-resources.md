@@ -5,6 +5,14 @@ title: Artificial Intelligence Resources
 date: 2015-10-01
 ---
 
+# Courses
+
+**UC Berkeley CS188 Intro to AI**
+
+- course schedule: [https://people.eecs.berkeley.edu/~russell/classes/cs188/f14/course_schedule.html](https://people.eecs.berkeley.edu/~russell/classes/cs188/f14/course_schedule.html)
+- lecture_videos: [https://people.eecs.berkeley.edu/~russell/classes/cs188/f14/lecture_videos.html](https://people.eecs.berkeley.edu/~russell/classes/cs188/f14/lecture_videos.html)
+- lecture videos: [http://ai.berkeley.edu/lecture_videos.html](http://ai.berkeley.edu/lecture_videos.html)
+
 # Books
 
 **Notes on Artificial Intelligence (open source notebook)**

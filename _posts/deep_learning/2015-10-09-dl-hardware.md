@@ -43,6 +43,12 @@ date: 2015-10-09
 
 - blog: [http://www.pyimagesearch.com/2016/06/06/hands-on-with-the-nvidia-digits-devbox-for-deep-learning/](http://www.pyimagesearch.com/2016/06/06/hands-on-with-the-nvidia-digits-devbox-for-deep-learning/)
 
+**Considerations when setting up deep learning hardware**
+
+![](http://www.pyimagesearch.com/wp-content/uploads/2016/06/dl_considerations_rack_05.jpg)
+
+- blog: [http://www.pyimagesearch.com/2016/06/13/considerations-when-setting-up-deep-learning-hardware/](http://www.pyimagesearch.com/2016/06/13/considerations-when-setting-up-deep-learning-hardware/)
+
 # GPU
 
 **Course on CUDA Programming on NVIDIA GPUs, July 27--31, 2015**
