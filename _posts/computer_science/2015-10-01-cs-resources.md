@@ -50,3 +50,7 @@ date: 2015-10-01
 **The Cost of Knowledge**
 
 [http://thecostofknowledge.com/](http://thecostofknowledge.com/)
+
+**Landmark Contributions by Students in Computer Science**
+
+[http://lazowska.cs.washington.edu/Student_Achievements.pdf](http://lazowska.cs.washington.edu/Student_Achievements.pdf)
