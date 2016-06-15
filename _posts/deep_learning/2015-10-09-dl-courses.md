@@ -118,6 +118,21 @@ date: 2015-07-01
 
 [https://www.udacity.com/course/intro-to-parallel-programming--cs344](https://www.udacity.com/course/intro-to-parallel-programming--cs344)
 
+# GPU Programming
+
+**Course on CUDA Programming on NVIDIA GPUs, July 27--31, 2015**
+
+- homepage: [http://people.maths.ox.ac.uk/gilesm/cuda/](http://people.maths.ox.ac.uk/gilesm/cuda/)
+
+**An Introduction to GPU Programming using Theano**
+
+- youtube: [https://www.youtube.com/watch?v=eVd2TqEkVp0](https://www.youtube.com/watch?v=eVd2TqEkVp0)
+- video: [http://pan.baidu.com/s/1c1i6LtI#path=%252F](http://pan.baidu.com/s/1c1i6LtI#path=%252F)
+
+**GPU Programming**
+
+- homepage: [http://courses.cms.caltech.edu/cs179/](http://courses.cms.caltech.edu/cs179/)
+
 # Reinforcement Learning
 
 **(Udacity) Reinforcement Learning - Offered at Georgia Tech as CS 8803(by Charles Isbell, Michael Littman)**

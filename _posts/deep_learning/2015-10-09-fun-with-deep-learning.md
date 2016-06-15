@@ -235,6 +235,7 @@ Compressed model is less than 500KB
 ![](/assets/fun_with_dl/Convolutional_Sketch_Inversion.png)
 
 - arxiv: [http://arxiv.org/abs/1606.03073](http://arxiv.org/abs/1606.03073)
+- review: [https://www.technologyreview.com/s/601684/machine-vision-algorithm-learns-to-transform-hand-drawn-sketches-into-photorealistic-images/](https://www.technologyreview.com/s/601684/machine-vision-algorithm-learns-to-transform-hand-drawn-sketches-into-photorealistic-images/)
 
 # Sounds
 

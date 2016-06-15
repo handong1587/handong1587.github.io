@@ -276,6 +276,10 @@ date: 2015-09-12
 - paper: [http://graphics.stanford.edu/~niessner/papers/2015/10face/thies2015realtime.pdf](http://graphics.stanford.edu/~niessner/papers/2015/10face/thies2015realtime.pdf)
 - homepage: [http://graphics.stanford.edu/~niessner/thies2015realtime.html](http://graphics.stanford.edu/~niessner/thies2015realtime.html)
 
+**Photo Stylistic Brush: Robust Style Transfer via Superpixel-Based Bipartite Graph**
+
+- arxiv: [http://arxiv.org/abs/1606.03871](http://arxiv.org/abs/1606.03871)
+
 # Projects
 
 **OpenBR: Open Source Biometrics, Face Recognition, Age Estimation, Gender Estimation**
