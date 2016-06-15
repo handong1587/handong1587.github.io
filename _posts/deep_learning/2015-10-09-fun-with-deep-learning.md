@@ -237,6 +237,14 @@ Compressed model is less than 500KB
 - arxiv: [http://arxiv.org/abs/1606.03073](http://arxiv.org/abs/1606.03073)
 - review: [https://www.technologyreview.com/s/601684/machine-vision-algorithm-learns-to-transform-hand-drawn-sketches-into-photorealistic-images/](https://www.technologyreview.com/s/601684/machine-vision-algorithm-learns-to-transform-hand-drawn-sketches-into-photorealistic-images/)
 
+**Sketch Me That Shoe (CVPR 2016)**
+
+![](http://www.eecs.qmul.ac.uk/~qian/Qian's%20Materials/0001.jpg)
+
+- project page: [http://www.eecs.qmul.ac.uk/~qian/Project_cvpr16.html](http://www.eecs.qmul.ac.uk/~qian/Project_cvpr16.html)
+- paper: [http://www.eecs.qmul.ac.uk/~qian/SketchMeThatShoe.pdf](http://www.eecs.qmul.ac.uk/~qian/SketchMeThatShoe.pdf)
+- github: [https://github.com/seuliufeng/DeepSBIR](https://github.com/seuliufeng/DeepSBIR)
+
 # Sounds
 
 **Visually Indicated Sounds**
