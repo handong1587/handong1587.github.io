@@ -99,6 +99,10 @@ date: 2015-10-09
 - github: [https://github.com/reedscot/icml2016](https://github.com/reedscot/icml2016)
 - code+dataset: [http://datasets.d2.mpi-inf.mpg.de/akata/cub_txt.tar.gz](http://datasets.d2.mpi-inf.mpg.de/akata/cub_txt.tar.gz)
 
+**Conditional Image Generation with PixelCNN Decoders (Google DeepMind)**
+
+- arxiv: [http://arxiv.org/abs/1606.05328](http://arxiv.org/abs/1606.05328)
+
 # Blogs
 
 **Torch convolutional GAN: Generating Faces with Torch**

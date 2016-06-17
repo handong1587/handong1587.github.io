@@ -25,6 +25,10 @@ date: 2015-09-22
 
 - paper: [http://www.journalofbigdata.com/content/pdf/s40537-015-0030-3.pdf](http://www.journalofbigdata.com/content/pdf/s40537-015-0030-3.pdf)
 
+**A Comparison of Big Data Frameworks on a Layered Dataflow Model**
+
+- arxiv: [http://arxiv.org/abs/1606.05293](http://arxiv.org/abs/1606.05293)
+
 # Videos
 
 **Awesome Big Data Algorithms**
