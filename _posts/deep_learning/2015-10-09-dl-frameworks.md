@@ -434,6 +434,11 @@ for building Deep Learning (DL) machine learning (ML) models
 
 **TensorBoard**
 
+**A Practical Guide for Debugging Tensorflow Codes**
+
+- slides: [https://wookayin.github.io/TensorflowKR-2016-talk-debugging](https://wookayin.github.io/TensorflowKR-2016-talk-debugging)
+- github: [https://github.com/wookayin/TensorflowKR-2016-talk-debugging](https://github.com/wookayin/TensorflowKR-2016-talk-debugging)
+
 # Theano
 
 **Theano**
@@ -503,6 +508,11 @@ for building Deep Learning (DL) machine learning (ML) models
 **Torch Toolbox: A collection of snippets and libraries for Torch**
 
 - github: [https://github.com/e-lab/torch-toolbox](https://github.com/e-lab/torch-toolbox)
+
+**cltorch: a Hardware-Agnostic Backend for the Torch Deep Neural Network Library, Based on OpenCL**
+
+- arxiv: [http://arxiv.org/abs/1606.04884](http://arxiv.org/abs/1606.04884)
+- github: [https://github.com/hughperkins/cltorch](https://github.com/hughperkins/cltorch)
 
 # VELES
 

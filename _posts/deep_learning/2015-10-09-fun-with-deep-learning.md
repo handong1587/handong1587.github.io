@@ -314,6 +314,11 @@ Compressed model is less than 500KB
 - homepage: [http://magenta.tensorflow.org/](http://magenta.tensorflow.org/)
 - github: [https://github.com/tensorflow/magenta](https://github.com/tensorflow/magenta)
 
+**Music Transcription with Convolutional Neural Networks**
+
+- blog: [https://www.lunaverus.com/cnn](https://www.lunaverus.com/cnn)
+- download: [https://www.lunaverus.com/download](https://www.lunaverus.com/download)
+
 # Poetry
 
 **NeuralSnap: Generates poetry from images using convolutional and recurrent neural networks**

@@ -76,6 +76,10 @@ date: 2015-10-09
 
 - arxiv: [http://arxiv.org/abs/1605.07427](http://arxiv.org/abs/1605.07427)
 
+**Convolutional Residual Memory Networks**
+
+- arxiv: [http://arxiv.org/abs/1606.05262](http://arxiv.org/abs/1606.05262)
+
 # Codes
 
 **NTM-Lasagne: A Library for Neural Turing Machines in Lasagne**

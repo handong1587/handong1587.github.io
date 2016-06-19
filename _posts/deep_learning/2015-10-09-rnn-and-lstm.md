@@ -266,6 +266,7 @@ date: 2015-10-09
 
 - arxiv: [http://arxiv.org/abs/1601.06759](http://arxiv.org/abs/1601.06759)
 - notes(by Hugo Larochelle): [https://www.evernote.com/shard/s189/sh/fdf61a28-f4b6-491b-bef1-f3e148185b18/aba21367d1b3730d9334ed91d3250848](https://www.evernote.com/shard/s189/sh/fdf61a28-f4b6-491b-bef1-f3e148185b18/aba21367d1b3730d9334ed91d3250848)
+- github: [https://github.com/igul222/pixel_rnn](https://github.com/igul222/pixel_rnn)
 
 **Long Short-Term Memory-Networks for Machine Reading**
 
@@ -405,6 +406,11 @@ date: 2015-10-09
 ![](https://shapeofdata.files.wordpress.com/2016/06/lstm.png?w=640)
 
 - blog: [https://shapeofdata.wordpress.com/2016/06/04/lstms/](https://shapeofdata.wordpress.com/2016/06/04/lstms/)
+
+**Optimizing RNNs with Differentiable Graphs**
+
+- blog: [http://svail.github.io/diff_graphs/](http://svail.github.io/diff_graphs/)
+- notes: [http://research.baidu.com/svail-tech-notes-optimizing-rnns-differentiable-graphs/](http://research.baidu.com/svail-tech-notes-optimizing-rnns-differentiable-graphs/)
 
 # Resources
 

@@ -2,7 +2,7 @@
 layout: post
 category: deep_learning
 title: Deep learning Courses
-date: 2015-07-01
+date: 2015-10-09
 ---
 
 * TOC
@@ -111,6 +111,10 @@ date: 2015-07-01
 **Stanford CS224d: Deep Learning for Natural Language Processing**
 
 [http://cs224d.stanford.edu/](http://cs224d.stanford.edu/)
+
+**Deep Learning for NLP - Lecture October 2015**
+
+- github: [https://github.com/UKPLab/deeplearning4nlp-tutorial/tree/master/2015-10_Lecture](https://github.com/UKPLab/deeplearning4nlp-tutorial/tree/master/2015-10_Lecture)
 
 # Parallel Programming
 

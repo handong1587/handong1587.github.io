@@ -186,6 +186,7 @@ using the stochastic gradient descent (SGD) algorithm to obtain fine pixel-level
 **ENet: A Deep Neural Network Architecture for Real-Time Semantic Segmentation**
 
 - arxiv: [http://arxiv.org/abs/1606.02147](http://arxiv.org/abs/1606.02147)
+- github: [https://github.com/e-lab/ENet-training](https://github.com/e-lab/ENet-training)
 
 **Fully Convolutional Networks for Dense Semantic Labelling of High-Resolution Aerial Imagery**
 

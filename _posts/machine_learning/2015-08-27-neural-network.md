@@ -54,6 +54,10 @@ date: 2015-08-27
 
 [https://medium.com/@ivanliljeqvist/the-essence-of-artificial-neural-networks-5de300c995d6#.yk0kydmf8](https://medium.com/@ivanliljeqvist/the-essence-of-artificial-neural-networks-5de300c995d6#.yk0kydmf8)
 
+**Can you give a visual explanation for the back propagation algorithm for neural networks?**
+
+- github: [https://github.com/rasbt/python-machine-learning-book/blob/master/faq/visual-backpropagation.md](https://github.com/rasbt/python-machine-learning-book/blob/master/faq/visual-backpropagation.md)
+
 # Project
 
 **Neural Networks demo in Javascript**

@@ -192,7 +192,8 @@ bounding boxes (which are shared for these categories).
 - code: [http://pjreddie.com/darknet/yolo/](http://pjreddie.com/darknet/yolo/)
 - github: [https://github.com/pjreddie/darknet](https://github.com/pjreddie/darknet)
 - reddit: [https://www.reddit.com/r/MachineLearning/comments/3a3m0o/realtime_object_detection_with_yolo/](https://www.reddit.com/r/MachineLearning/comments/3a3m0o/realtime_object_detection_with_yolo/)
-- github(YOLO_tensorflow): [https://github.com/gliese581gg/YOLO_tensorflow](https://github.com/gliese581gg/YOLO_tensorflow)
+- github: [https://github.com/gliese581gg/YOLO_tensorflow](https://github.com/gliese581gg/YOLO_tensorflow)
+- github: [https://github.com/MelodyHai/caffe-yolo](https://github.com/MelodyHai/caffe-yolo)
 
 **R-CNN minus R**
 
@@ -373,6 +374,13 @@ MSCOCO 2015 test:
 
 - arxiv: [http://arxiv.org/abs/1506.06204](http://arxiv.org/abs/1506.06204)
 - github: [https://github.com/abbypa/NNProject_DeepMask](https://github.com/abbypa/NNProject_DeepMask)
+
+# Localization
+
+**LocNet: Improving Localization Accuracy for Object Detection**
+
+- arxiv: [http://arxiv.org/abs/1511.07763](http://arxiv.org/abs/1511.07763)
+- github: [https://github.com/gidariss/LocNet](https://github.com/gidariss/LocNet)
 
 # Tutorials
 
