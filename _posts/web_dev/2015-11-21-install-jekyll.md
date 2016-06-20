@@ -33,6 +33,8 @@ C:\RubyDevKit> ruby dk.rb install
 
 When I try to install github-pages by "gem install github-pages", an error(FetchError) is encountered: 
 
+![](/assets/web_dev/fetch_error.png)
+
 Seems like it is because the Ruby website is blocked. So I follow the instructions by @fighterleslie in 
 [http://segmentfault.com/q/1010000003891086](http://segmentfault.com/q/1010000003891086), create a .gemrc 
 file into "C:\Users\MyName", and problem solved:
@@ -56,7 +58,7 @@ OK, try the instruction below:
 
 Then I get:
 
-<img src="/assets/web_dev/jekyll_build_reuslts.png"/>
+![](/assets/web_dev/jekyll_build_reuslts.png)
 
 Follow the error information, do some minor changes, and finally my github-pages can successfully be shown.
 
@@ -67,7 +69,7 @@ But some other errors may happen, like Cygwin and Windows git can't play nicely
 together(on my work PC, Windows 7, X32, with Cygwin installed).
 One particulr error message is like:
 
-<img src="/assets/web_dev/gem_install_github-pages_cygwin_error.jpg"/>
+![](/assets/web_dev/gem_install_github-pages_cygwin_error.jpg)
 
 When I try to execute a "gem install github-pages".
 
