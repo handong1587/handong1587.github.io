@@ -33,7 +33,7 @@ C:\RubyDevKit> ruby dk.rb install
 
 When I try to install github-pages by "gem install github-pages", an error(FetchError) is encountered: 
 
-![](/assets/web_dev/fetch_error.png)
+![](/assets/web_dev/fetch_error.PNG)
 
 Seems like it is because the Ruby website is blocked. So I follow the instructions by @fighterleslie in 
 [http://segmentfault.com/q/1010000003891086](http://segmentfault.com/q/1010000003891086), create a .gemrc 
