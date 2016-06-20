@@ -23,11 +23,11 @@ to detect if Ruby successfully installed.
 
 3. Install DevKit. After that, cd to RubyDevKit directory:
 
-{% highlight bash %}
+```
 C:\> cd RubyDevKit
 C:\RubyDevKit> ruby dk.rb init
 C:\RubyDevKit> ruby dk.rb install
-{% endhighlight %}
+```
 
 # Intall github-pages
 
@@ -39,11 +39,15 @@ Seems like it is because the Ruby website is blocked. So I follow the instructio
 [http://segmentfault.com/q/1010000003891086](http://segmentfault.com/q/1010000003891086), create a .gemrc 
 file into "C:\Users\MyName", and problem solved:
 
-{% highlight bash %}
+```
 :sources:
 - https://ruby.taobao.org
 :update_sources: true
-{% endhighlight %}
+```
+
+You may still encounter this FetchError:
+
+![](/assets/web_dev/fetch_error_2.PNG)
 
 # Try jekyll build!
 
