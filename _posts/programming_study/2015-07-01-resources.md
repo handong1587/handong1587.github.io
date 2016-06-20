@@ -54,6 +54,10 @@ date: 2015-07-01
 which continually runs and visualizes your code as you type
 - website: [http://pythontutor.com/live.html#mode=edit](http://pythontutor.com/live.html#mode=edit)
 
+**A collection of useful scripts, tutorials, and other Python-related things**
+
+- github: [https://github.com/rasbt/python_reference](https://github.com/rasbt/python_reference)
+
 # Go
 
 **Go by Example**

@@ -163,6 +163,10 @@ date: 2015-10-09
 
 [https://medium.com/@awjuliani/visualizing-deep-learning-with-t-sne-tutorial-and-video-e7c59ee4080c#.ubhijafw7](https://medium.com/@awjuliani/visualizing-deep-learning-with-t-sne-tutorial-and-video-e7c59ee4080c#.ubhijafw7)
 
+**Peeking inside Convnets**
+
+- blog: [https://auduno.github.io/2016/06/18/peeking-inside-convnets/](https://auduno.github.io/2016/06/18/peeking-inside-convnets/)
+
 # Tools
 
 **Topological Visualisation of a Convolutional Neural Network**

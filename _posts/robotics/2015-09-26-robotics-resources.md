@@ -49,3 +49,9 @@ date: 2015-09-26
 ![](/assets/robots/deepbot-research-robot-18.jpg)
 
 [https://www.autonomous.ai/deep-learning-robot](https://www.autonomous.ai/deep-learning-robot)
+
+# Resources
+
+**Awesome Robotics: A list of awesome Robotics resources**
+
+- github: [https://github.com/Kiloreux/awesome-robotics](https://github.com/Kiloreux/awesome-robotics)

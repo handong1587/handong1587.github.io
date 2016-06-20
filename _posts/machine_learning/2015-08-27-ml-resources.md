@@ -445,6 +445,10 @@ Other awesome lists can be found in this [list](https://github.com/sindresorhus/
 - part 2: [http://www.anuncommonlab.com/articles/how-kalman-filters-work/part2.html](http://www.anuncommonlab.com/articles/how-kalman-filters-work/part2.html)
 - part 3: [http://www.anuncommonlab.com/articles/how-kalman-filters-work/part3.html](http://www.anuncommonlab.com/articles/how-kalman-filters-work/part3.html)
 
+**How to choose algorithms for Microsoft Azure Machine Learning**
+
+- blog: [https://azure.microsoft.com/en-us/documentation/articles/machine-learning-algorithm-choice/](https://azure.microsoft.com/en-us/documentation/articles/machine-learning-algorithm-choice/)
+
 # Machine Learning Library
 
 **LambdaNet: Purely functional artificial neural network library implemented in Haskell**
@@ -536,6 +540,14 @@ for creating complex software in C++ to solve real world problems.
 **Bayesian Networks and Bayesian Classifier Software**
 
 - blog: [http://www.kdnuggets.com/software/bayesian.html](http://www.kdnuggets.com/software/bayesian.html)
+
+# Projects
+
+**Plotting high-dimensional decision boundaries**
+
+![](https://raw.githubusercontent.com/tmadl/highdimensional-decision-boundary-plot/master/img/dr_model_overview.png)
+
+- github: [https://github.com/tmadl/highdimensional-decision-boundary-plot](https://github.com/tmadl/highdimensional-decision-boundary-plot)
 
 # Readings and Questions
 

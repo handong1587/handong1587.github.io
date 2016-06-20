@@ -62,6 +62,10 @@ date: 2015-10-09
 
 # Scene Recognition
 
+**Learning Deep Features for Scene Recognition using Places Database**
+
+- paper: [http://places.csail.mit.edu/places_NIPS14.pdf](http://places.csail.mit.edu/places_NIPS14.pdf)
+
 **Using neon for Scene Recognition: Mini-Places2**
 
 - intro: This is an implementation of the deep residual network used for 

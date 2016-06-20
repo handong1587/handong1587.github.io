@@ -439,6 +439,10 @@ for building Deep Learning (DL) machine learning (ML) models
 - slides: [https://wookayin.github.io/TensorflowKR-2016-talk-debugging](https://wookayin.github.io/TensorflowKR-2016-talk-debugging)
 - github: [https://github.com/wookayin/TensorflowKR-2016-talk-debugging](https://github.com/wookayin/TensorflowKR-2016-talk-debugging)
 
+**A Julia wrapper for the TensorFlow Python library**
+
+- github: [https://github.com/benmoran/TensorFlow.jl](https://github.com/benmoran/TensorFlow.jl)
+
 # Theano
 
 **Theano**

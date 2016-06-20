@@ -239,6 +239,10 @@ date: 2015-10-09
 
 - arxiv: [http://arxiv.org/abs/1602.02220](http://arxiv.org/abs/1602.02220)
 
+**Dropout Regularization in Deep Learning Models With Keras**
+
+- blog: [http://machinelearningmastery.com/dropout-regularization-deep-learning-models-keras/](http://machinelearningmastery.com/dropout-regularization-deep-learning-models-keras/)
+
 ## DropConnect
 
 **Regularization of Neural Networks using DropConnect**

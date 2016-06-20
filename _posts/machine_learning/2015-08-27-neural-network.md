@@ -29,6 +29,10 @@ date: 2015-08-27
 - github: [https://github.com/joenot443/crAIg](https://github.com/joenot443/crAIg)
 - paper: [http://nn.cs.utexas.edu/downloads/papers/stanley.ec02.pdf](http://nn.cs.utexas.edu/downloads/papers/stanley.ec02.pdf)
 
+**Calculus and Backpropagation**
+
+- paper: [https://github.com/mtomassoli/papers/blob/master/backprop.pdf](https://github.com/mtomassoli/papers/blob/master/backprop.pdf)
+
 # Blogs
 
 **Getting It Done - What I learnt from finishing the Neural Network Algorithm**
