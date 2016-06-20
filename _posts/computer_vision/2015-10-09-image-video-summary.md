@@ -145,6 +145,10 @@ The size of their dataset is, however, limited by the availability of domain-spe
 - intro: rely on an assumption that highlights of an event category are more frequently captured in short videos than non-highlights
 - arxiv: [http://arxiv.org/abs/1510.01442](http://arxiv.org/abs/1510.01442)
 
+**Highlight Detection with Pairwise Deep Ranking for First-Person Video Summarization**
+
+- paper: [http://research.microsoft.com/apps/pubs/default.aspx?id=264919](http://research.microsoft.com/apps/pubs/default.aspx?id=264919)
+
 # Video Summarization
 
 **Creating Summaries from User Videos (ECCV 2014)**

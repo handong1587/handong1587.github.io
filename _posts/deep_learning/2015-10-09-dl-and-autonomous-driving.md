@@ -35,6 +35,12 @@ date: 2015-10-09
 - intro: NVIDIA DevBox and Torch 7, 30 FPS
 - arxiv: [http://arxiv.org/abs/1604.07316](http://arxiv.org/abs/1604.07316)
 
+# Projects
+
+**Caffe-Autopilot: Car autopilot software that uses C++, BVLC Caffe, OpenCV, and SFML**
+
+- github: [https://github.com/SullyChen/Caffe-Autopilot](https://github.com/SullyChen/Caffe-Autopilot)
+
 # Blogs
 
 **Self-driving cars: How far away are we REALLY from autonomous cars?(7 Aug 2015)**

@@ -104,8 +104,7 @@ topmost feature map after knowing the confidences of the underlying object categ
 
 - arXiv: [http://arxiv.org/abs/1504.06066](http://arxiv.org/abs/1504.06066)
 
-**Improving Object Detection with Deep Convolutional Networks via Bayesian Optimization
-and Structured Prediction**
+**Improving Object Detection with Deep Convolutional Networks via Bayesian Optimization and Structured Prediction**
 
 - arxiv: [http://arxiv.org/abs/1504.03293](http://arxiv.org/abs/1504.03293)
 - slides: [http://www.ytzhang.net/files/publications/2015-cvpr-det-slides.pdf](http://www.ytzhang.net/files/publications/2015-cvpr-det-slides.pdf)
@@ -269,12 +268,6 @@ MSCOCO 2015 test:
 
 - arxiv: [http://arxiv.org/abs/1512.07729](http://arxiv.org/abs/1512.07729)
 
-**Learning Deep Features for Discriminative Localization**
-
-- homepage: [http://cnnlocalization.csail.mit.edu/](http://cnnlocalization.csail.mit.edu/)
-- arxiv: [http://arxiv.org/abs/1512.04150](http://arxiv.org/abs/1512.04150)
-- github(Tensorflow): [https://github.com/jazzsaxmafia/Weakly_detector](https://github.com/jazzsaxmafia/Weakly_detector)
-
 **Factors in Finetuning Deep Model for object detection**
 
 - arxiv: [http://arxiv.org/abs/1601.05150](http://arxiv.org/abs/1601.05150)
@@ -381,6 +374,12 @@ MSCOCO 2015 test:
 
 - arxiv: [http://arxiv.org/abs/1511.07763](http://arxiv.org/abs/1511.07763)
 - github: [https://github.com/gidariss/LocNet](https://github.com/gidariss/LocNet)
+
+**Learning Deep Features for Discriminative Localization**
+
+- homepage: [http://cnnlocalization.csail.mit.edu/](http://cnnlocalization.csail.mit.edu/)
+- arxiv: [http://arxiv.org/abs/1512.04150](http://arxiv.org/abs/1512.04150)
+- github(Tensorflow): [https://github.com/jazzsaxmafia/Weakly_detector](https://github.com/jazzsaxmafia/Weakly_detector)
 
 # Tutorials
 

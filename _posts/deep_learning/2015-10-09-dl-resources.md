@@ -228,6 +228,13 @@ date: 2015-10-09
 
 - blog: [http://blog.keras.io/building-autoencoders-in-keras.html](http://blog.keras.io/building-autoencoders-in-keras.html)
 
+**Review of auto-encoders**
+
+- intro: Tutorial code for Auto-Encoders, implementing Marc'Aurelio Ranzato's Sparse Encoding Symmetric Machine and 
+testing it on the MNIST handwritten digits data.
+- paper: [https://github.com/piotrmirowski/Tutorial_AutoEncoders/blob/master/PiotrMirowski_2014_ReviewAutoEncoders.pdf](https://github.com/piotrmirowski/Tutorial_AutoEncoders/blob/master/PiotrMirowski_2014_ReviewAutoEncoders.pdf)
+- github: [https://github.com/piotrmirowski/Tutorial_AutoEncoders](https://github.com/piotrmirowski/Tutorial_AutoEncoders)
+
 # Semi-Supervised Learning
 
 **Semi-Supervised Learning with Graphs (Label Propagation)**

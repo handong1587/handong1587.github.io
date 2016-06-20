@@ -237,7 +237,7 @@ for building Deep Learning (DL) machine learning (ML) models
 
 **MXNet**
 
-![](https://raw.githubusercontent.com/dmlc/dmlc.github.io/master/img/logo-m/mxnet2.png)
+![](https://raw.githubusercontent.com/dmlc/web-data/master/mxnet/image/banner.png)
 
 - github: [https://github.com/dmlc/mxnet](https://github.com/dmlc/mxnet)
 - paper: [https://raw.githubusercontent.com/dmlc/web-data/master/mxnet/paper/mxnet-learningsys.pdf](https://raw.githubusercontent.com/dmlc/web-data/master/mxnet/paper/mxnet-learningsys.pdf)

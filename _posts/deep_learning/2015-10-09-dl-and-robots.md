@@ -1,7 +1,7 @@
 ---
 layout: post
 category: deep_learning
-title: Robots
+title: Deep Learning and Robots
 date: 2015-10-09
 ---
 

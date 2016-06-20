@@ -124,11 +124,17 @@ to decompose it into the multiplications of thinned dense matrices"
 - arxiv: [http://arxiv.org/abs/1512.06473](http://arxiv.org/abs/1512.06473)
 - github: [https://github.com/jiaxiang-wu/quantized-cnn](https://github.com/jiaxiang-wu/quantized-cnn)
 
+**EIE: Efficient Inference Engine on Compressed Deep Neural Network (ISCA'16)**
+
+- arxiv: [http://arxiv.org/abs/1602.01528](http://arxiv.org/abs/1602.01528)
+- slides: [http://on-demand.gputechconf.com/gtc/2016/presentation/s6561-song-han-deep-compression.pdf](http://on-demand.gputechconf.com/gtc/2016/presentation/s6561-song-han-deep-compression.pdf)
+- slides: [http://web.stanford.edu/class/ee380/Abstracts/160106-slides.pdf](http://web.stanford.edu/class/ee380/Abstracts/160106-slides.pdf)
+
 **Convolutional Tables Ensemble: classification in microseconds**
 
 - arxiv: [http://arxiv.org/abs/1602.04489](http://arxiv.org/abs/1602.04489)
 
-**SqueezeNet: AlexNet-level accuracy with 50x fewer parameters and <1MB model size [DeepScale & UC Berkeley]**
+**SqueezeNet: AlexNet-level accuracy with 50x fewer parameters and <0.5MB model size [DeepScale & UC Berkeley]**
 
 - arxiv: [http://arxiv.org/abs/1602.07360](http://arxiv.org/abs/1602.07360)
 - github: [https://github.com/DeepScale/SqueezeNet](https://github.com/DeepScale/SqueezeNet)
