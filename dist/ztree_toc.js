@@ -1,6 +1,6 @@
-/*! ztree_toc - v0.4.1 - 2014-08-26
+/*! ztree_toc - v0.4.1 - 2016-06-21
 * http://i5ting.github.io/i5ting_ztree_toc/
-* Copyright (c) 2014 alfred.sang; Licensed MIT */
+* Copyright (c) 2016 alfred.sang; Licensed MIT */
 function encode_id_with_array(opts,arr) {
 	var result = 0;
   for(var z = 0; z < arr.length; z++ ) {
@@ -242,8 +242,10 @@ function factor(opts ,count,current) {
 		/*
 		 * 使用标题作为anchor
 		 * create table with head for anchor for example: <h2 id="#Linux基础">Linux基础</h2>
+		 * 如果标题是唯一的，建议开启此选项，如果标题不唯一，还是使用数字吧
+		 * 此选项默认是false，不开启
 		 */
-		use_head_anchor: true,
+		use_head_anchor: false,
     scroll_selector: 'window',
 		highlight_offset: 0,
 		highlight_on_scroll: true,
