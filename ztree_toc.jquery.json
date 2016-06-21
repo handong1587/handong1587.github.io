@@ -1,0 +1,26 @@
+{
+  "name": "ztree_toc",
+  "title": "ztree_toc",
+  "description": "a jQuery plugin for preview markdown table of content jQuery.zTree_Toc.js toc ztree and online demo site v0.3.0",
+  "version": "0.4.1",
+  "homepage": "http://i5ting.github.io/i5ting_ztree_toc/",
+  "author": {
+    "name": "alfred.sang",
+    "email": "shiren1118@126.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:i5ting/i5ting_ztree_toc.git"
+  },
+  "bugs": "https://github.com/i5ting/i5ting_ztree_toc/issues",
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/i5ting/i5ting_ztree_toc/blob/master/LICENSE-MIT"
+    }
+  ],
+  "dependencies": {
+    "jquery": "*"
+  },
+  "keywords": ["table of content","markdown","ztree","toc","i5ting","alfred.sang"]
+}
