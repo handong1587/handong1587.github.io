@@ -174,14 +174,6 @@ ul#markdown-toc {
     background: #e3ded8 url(../images/cnt-top.jpg) repeat-x 0 0;
 }
 
-/* main body */
-/* 2016-06-22 */
-.main-left {
-	margin-top: 121px;
-	float: left;
-	position: relative;
-}
-
 .main .article {
     line-height: 1.6;
     position: relative;
