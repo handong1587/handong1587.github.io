@@ -23,7 +23,10 @@ future:       true
 unpublished:  false
 
 # Conversion
-markdown:     kramdown
+#markdown:     kramdown
+markdown: redcarpet
+redcarpet:
+    extensions: [with_toc_data]
 #highlighter:  pygments # currently unsupported on GitHub Pages 2016/02/17
 highlighter:  rouge
 lsi:          false
