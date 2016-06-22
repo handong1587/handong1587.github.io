@@ -1,4 +1,4 @@
-/*! ztree_toc - v0.4.1 - 2016-06-21
+/*! ztree_toc - v0.4.1 - 2016-06-22
 * http://i5ting.github.io/i5ting_ztree_toc/
 * Copyright (c) 2016 alfred.sang; Licensed MIT */
 function encode_id_with_array(opts,arr) {
