@@ -16,9 +16,9 @@ Use admin privileges to run Command Prompt.
 
 Example:
 
-<pre class="terminal"><code>
+```
 D:\coding\Python_VS2015\densebox\fast-rcnn\data>mklink /D VOCdevkit2007 D:\data\public_dataset\VOCdevkit
-</code></pre>
+```
 
 Command Parameters:
 
@@ -33,9 +33,29 @@ Link    specifies the new symbolic link name.
 Target  specifies the path (relative or absolute) that the new link refers to.
 {% endhighlight %}
 
-**List all files into a txt**
+Ref:
 
-`dir /s /b /a *.jpg > list.txt` 
+**DIR: Display a list of files and subfolders**
+
+[http://ss64.com/nt/dir.html](http://ss64.com/nt/dir.html)
+
+**List all files/folders into a txt**
+
+```
+dir /s /b /a *.jpg > list.txt
+``` 
+
+**List only folders into a txt**
+
+```
+dir /s /b /ad *.jpg > list.txt
+```
+
+**List only files into a txt**
+
+```
+dir /s /b /a:-d *.jpg > list.txt
+```
 
 # Utilities
 
