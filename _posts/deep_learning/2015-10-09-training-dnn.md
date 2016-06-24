@@ -308,6 +308,10 @@ date: 2015-10-09
 
 - arxiv: [http://arxiv.org/abs/1604.00981](http://arxiv.org/abs/1604.00981)
 
+**Convergence rate of gradient descent**
+
+- blog: [https://building-babylon.net/2016/06/23/convergence-rate-of-gradient-descent/](https://building-babylon.net/2016/06/23/convergence-rate-of-gradient-descent/)
+
 # Accelerate Training
 
 **Neural Networks with Few Multiplications (ICLR 2016)**
@@ -322,6 +326,10 @@ date: 2015-10-09
 
 - arxiv: [http://arxiv.org/abs/1606.01467](http://arxiv.org/abs/1606.01467)
 - github: [https://github.com/bigaidream-projects/qan](https://github.com/bigaidream-projects/qan)
+
+**Omnivore: An Optimizer for Multi-device Deep Learning on CPUs and GPUs**
+
+- arxiv: [http://arxiv.org/abs/1606.04487](http://arxiv.org/abs/1606.04487)
 
 ## Parallelism
 

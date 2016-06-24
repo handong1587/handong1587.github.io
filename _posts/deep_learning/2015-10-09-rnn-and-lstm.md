@@ -262,11 +262,12 @@ date: 2015-10-09
 - arXiv: [http://arxiv.org/abs/1511.06303](http://arxiv.org/abs/1511.06303)
 - github: [https://github.com/facebook/Conditional-character-based-RNN](https://github.com/facebook/Conditional-character-based-RNN)
 
-**Pixel Recurrent Neural Networks (Google DeepMind)**
+**Pixel Recurrent Neural Networks (Google DeepMind. ICML 2016 best paper)**
 
 - arxiv: [http://arxiv.org/abs/1601.06759](http://arxiv.org/abs/1601.06759)
-- notes(by Hugo Larochelle): [https://www.evernote.com/shard/s189/sh/fdf61a28-f4b6-491b-bef1-f3e148185b18/aba21367d1b3730d9334ed91d3250848](https://www.evernote.com/shard/s189/sh/fdf61a28-f4b6-491b-bef1-f3e148185b18/aba21367d1b3730d9334ed91d3250848)
 - github: [https://github.com/igul222/pixel_rnn](https://github.com/igul222/pixel_rnn)
+- notes(by Hugo Larochelle): [https://www.evernote.com/shard/s189/sh/fdf61a28-f4b6-491b-bef1-f3e148185b18/aba21367d1b3730d9334ed91d3250848](https://www.evernote.com/shard/s189/sh/fdf61a28-f4b6-491b-bef1-f3e148185b18/aba21367d1b3730d9334ed91d3250848)
+- video(by Hugo Larochelle): [https://www.periscope.tv/hugo_larochelle/1ypKdnMkjBnJW](https://www.periscope.tv/hugo_larochelle/1ypKdnMkjBnJW)
 
 **Long Short-Term Memory-Networks for Machine Reading**
 
@@ -297,6 +298,11 @@ date: 2015-10-09
 **Training Input-Output Recurrent Neural Networks through Spectral Methods**
 
 - arxiv: [http://arxiv.org/abs/1603.00954](http://arxiv.org/abs/1603.00954)
+
+**Neural networks with differentiable structure**
+
+- arxiv: [http://arxiv.org/abs/1606.06216](http://arxiv.org/abs/1606.06216)
+- github: [https://github.com/ThomasMiconi/DiffRNN](https://github.com/ThomasMiconi/DiffRNN)
 
 # Projects
 
@@ -357,6 +363,10 @@ date: 2015-10-09
 
 - github: [https://github.com/KnHuq/Dynamic_RNN_Tensorflow](https://github.com/KnHuq/Dynamic_RNN_Tensorflow)
 
+**PRNN: A fast implementation of recurrent neural network layers in CUDA (Baidu Research)**
+
+- github: [https://github.com/baidu-research/persistent-rnn](https://github.com/baidu-research/persistent-rnn)
+
 # Blogs
 
 **Survey on Attention-based Models Applied in NLP**
@@ -385,8 +395,11 @@ date: 2015-10-09
 - slides: [https://github.com/shi-yan/FreeWill/blob/master/Docs/Diagrams/lstm_diagram.pptx](https://github.com/shi-yan/FreeWill/blob/master/Docs/Diagrams/lstm_diagram.pptx)
 
 **Persistent RNNs: 30 times faster RNN layers at small mini-batch sizes (Greg Diamos, Baidu Silicon Valley AI Lab)**
+**Persistent RNNs: Stashing Recurrent Weights On-Chip**
 
-[http://svail.github.io/persistent_rnns/](http://svail.github.io/persistent_rnns/)
+- paper: [http://jmlr.org/proceedings/papers/v48/diamos16.pdf](http://jmlr.org/proceedings/papers/v48/diamos16.pdf)
+- blog: [http://svail.github.io/persistent_rnns/](http://svail.github.io/persistent_rnns/)
+- slides: [http://on-demand.gputechconf.com/gtc/2016/presentation/s6673-greg-diamos-persisten-rnns.pdf](http://on-demand.gputechconf.com/gtc/2016/presentation/s6673-greg-diamos-persisten-rnns.pdf)
 
 **All of Recurrent Neural Networks**
 

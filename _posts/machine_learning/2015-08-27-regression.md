@@ -59,3 +59,9 @@ date: 2015-08-27
 ![](http://efavdb.com/wp-content/uploads/2016/05/line-4.jpg)
 
 [http://efavdb.com/linear-regression/](http://efavdb.com/linear-regression/)
+
+**A Brief Primer on Linear Regression**
+
+- part I: [https://blog.clevertap.com/a-brief-primer-on-linear-regression-part-i/](https://blog.clevertap.com/a-brief-primer-on-linear-regression-part-i/)
+- part II: [https://blog.clevertap.com/a-brief-primer-on-linear-regression-part-ii/](https://blog.clevertap.com/a-brief-primer-on-linear-regression-part-ii/) 
+- part III: [https://blog.clevertap.com/a-brief-primer-on-linear-regression-part-iii/](https://blog.clevertap.com/a-brief-primer-on-linear-regression-part-iii/)

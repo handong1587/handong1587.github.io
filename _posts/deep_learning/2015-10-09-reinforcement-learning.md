@@ -162,6 +162,11 @@ date: 2015-10-09
 
 - arxiv: [http://arxiv.org/abs/1511.05952](http://arxiv.org/abs/1511.05952)
 
+**Dueling Network Architectures for Deep Reinforcement Learning (ICML 2016 best paper)**
+
+- arxiv: [http://arxiv.org/abs/1511.06581](http://arxiv.org/abs/1511.06581)
+- notes: [https://hadovanhasselt.wordpress.com/2016/06/20/best-paper-at-icml-dueling-network-architectures-for-deep-reinforcement-learning/](https://hadovanhasselt.wordpress.com/2016/06/20/best-paper-at-icml-dueling-network-architectures-for-deep-reinforcement-learning/)
+
 **Asynchronous Methods for Deep Reinforcement Learning**
 
 - arxiv: [http://arxiv.org/abs/1602.01783](http://arxiv.org/abs/1602.01783)
@@ -328,6 +333,10 @@ Its simple, and is ideal for rapid prototyping."
 
 - intro: TensorFlow implementation of Deep Reinforcement Learning papers
 - github: [https://github.com/carpedm20/deep-rl-tensorflow](https://github.com/carpedm20/deep-rl-tensorflow)
+
+**rltorch: A RL package for Torch that can also be used with openai gym**
+
+- github: [https://github.com/ludc/rltorch](https://github.com/ludc/rltorch)
 
 # Blogs
 

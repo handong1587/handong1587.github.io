@@ -128,6 +128,12 @@ date: 2015-10-09
 - github: [https://github.com/szagoruyko/wide-residual-networks](https://github.com/szagoruyko/wide-residual-networks)
 - github: [https://github.com/asmith26/wide_resnets_keras](https://github.com/asmith26/wide_resnets_keras)
 
+**Deep Residual Networks for Image Classification with Python + NumPy**
+
+![](https://dnlcrl.github.io/assets/thesis-post/Diagramma.png)
+
+- blog: [https://dnlcrl.github.io/projects/2016/06/22/Deep-Residual-Networks-for-Image-Classification-with-Python+NumPy.html](https://dnlcrl.github.io/projects/2016/06/22/Deep-Residual-Networks-for-Image-Classification-with-Python+NumPy.html)
+
 ## Inception-V4
 
 **Inception-V4, Inception-Resnet And The Impact Of Residual Connections On Learning (Workshop track - ICLR 2016)**
@@ -570,6 +576,14 @@ with fast exact probabilistic inference over many layers."
 **An Analysis of Deep Neural Network Models for Practical Applications**
 
 - arxiv: [http://arxiv.org/abs/1605.07678](http://arxiv.org/abs/1605.07678)
+
+**Newtonian Image Understanding: Unfolding the Dynamics of Objects in Static Images**
+
+![](http://allenai.org/images/projects/plato_newton.png?cb=1466683222538)
+
+- homepage: [http://allenai.org/plato/newtonian-understanding/](http://allenai.org/plato/newtonian-understanding/)
+- arxiv: [http://arxiv.org/abs/1511.04048](http://arxiv.org/abs/1511.04048)
+- github: [https://github.com/roozbehm/newtonian](https://github.com/roozbehm/newtonian)
 
 # Projects
 

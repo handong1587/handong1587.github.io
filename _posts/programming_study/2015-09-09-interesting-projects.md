@@ -151,6 +151,12 @@ control a spaceship in order to complete some objective.
 
 - github: [https://github.com/buunguyen/octotree](https://github.com/buunguyen/octotree)
 
+**coursera-dl-all**
+
+![](https://camo.githubusercontent.com/7bc2e3e4ba0fbc9f04d46fd136049cd682e27d82/687474703a2f2f7777772e696d6775722e636f6d2f485464303238422e706e67)
+
+- github: [https://github.com/Chillee/coursera-dl-all](https://github.com/Chillee/coursera-dl-all)
+
 # Multi-media
 
 **cmus — C* Music Player**

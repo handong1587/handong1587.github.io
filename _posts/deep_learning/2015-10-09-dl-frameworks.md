@@ -225,6 +225,7 @@ for building Deep Learning (DL) machine learning (ML) models
 **MatConvNet: CNNs for MATLAB**
 
 - homepage: [http://www.vlfeat.org/matconvnet/](http://www.vlfeat.org/matconvnet/)
+- pretianed models: [http://www.vlfeat.org/matconvnet/pretrained/](http://www.vlfeat.org/matconvnet/pretrained/)
 
 # Mocha.jl
 
@@ -517,6 +518,11 @@ for building Deep Learning (DL) machine learning (ML) models
 
 - arxiv: [http://arxiv.org/abs/1606.04884](http://arxiv.org/abs/1606.04884)
 - github: [https://github.com/hughperkins/cltorch](https://github.com/hughperkins/cltorch)
+
+**Torchnet: An Open-Source Platform for (Deep) Learning Research**
+
+- paper: [https://lvdmaaten.github.io/publications/papers/Torchnet_2016.pdf](https://lvdmaaten.github.io/publications/papers/Torchnet_2016.pdf)
+- github: [https://github.com/torchnet/torchnet](https://github.com/torchnet/torchnet)
 
 # VELES
 

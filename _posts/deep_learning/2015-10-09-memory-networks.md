@@ -61,8 +61,11 @@ date: 2015-10-09
 
 **Dynamic Memory Networks for Visual and Textual Question Answering (MetaMind 2016)**
 
+![](https://camo.githubusercontent.com/0f17be4fe54c583cf7b5ef5387ac363e0cd87f92/687474703a2f2f692e696d6775722e636f6d2f33304465504b682e706e67)
+
 - arixv: [http://arxiv.org/abs/1603.01417](http://arxiv.org/abs/1603.01417)
 - slides: [http://slides.com/smerity/dmn-for-tqa-and-vqa-nvidia-gtc#/](http://slides.com/smerity/dmn-for-tqa-and-vqa-nvidia-gtc#/)
+- github: [https://github.com/therne/dmn-tensorflow](https://github.com/therne/dmn-tensorflow)
 - review: [https://www.technologyreview.com/s/600958/the-memory-trick-making-computers-seem-smarter/](https://www.technologyreview.com/s/600958/the-memory-trick-making-computers-seem-smarter/)
 
 **Neural GPUs Learn Algorithms**

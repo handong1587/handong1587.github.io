@@ -60,6 +60,12 @@ date: 2015-10-09
 - arxiv: [http://arxiv.org/abs/1605.05395](http://arxiv.org/abs/1605.05395)
 - github: [https://github.com/reedscot/cvpr2016](https://github.com/reedscot/cvpr2016)
 
+### Food Recognition
+
+**DeepFood: Deep Learning-Based Food Image Recognition for Computer-Aided Dietary Assessment**
+
+- arxiv: [http://arxiv.org/abs/1606.05675](http://arxiv.org/abs/1606.05675)
+
 # Scene Recognition
 
 **Learning Deep Features for Scene Recognition using Places Database**

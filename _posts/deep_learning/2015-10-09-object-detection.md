@@ -180,6 +180,7 @@ topmost feature map after knowing the confidences of the underlying object categ
 - arxiv: [http://arxiv.org/abs/1506.01497](http://arxiv.org/abs/1506.01497)
 - github: [https://github.com/ShaoqingRen/faster_rcnn](https://github.com/ShaoqingRen/faster_rcnn)
 - github: [https://github.com/rbgirshick/py-faster-rcnn](https://github.com/rbgirshick/py-faster-rcnn)
+- github: [https://github.com/mitmul/chainer-faster-rcnn](https://github.com/mitmul/chainer-faster-rcnn)
 
 ## YOLO
 
@@ -261,6 +262,7 @@ MSCOCO 2015 test:
 
 - arxiv: [http://arxiv.org/abs/1512.07711](http://arxiv.org/abs/1512.07711)
 - github: [https://github.com/luyongxi/az-net](https://github.com/luyongxi/az-net)
+- youtube: [https://www.youtube.com/watch?v=YmFtuNwxaNM](https://www.youtube.com/watch?v=YmFtuNwxaNM)
 
 ## G-CNN
 
@@ -316,6 +318,7 @@ MSCOCO 2015 test:
 **R-FCN: Object Detection via Region-based Fully Convolutional Networks**
 
 - arxiv: [http://arxiv.org/abs/1605.06409](http://arxiv.org/abs/1605.06409)
+- github: [https://github.com/daijifeng001/R-FCN](https://github.com/daijifeng001/R-FCN)
 
 # Specific Object Deteciton
 

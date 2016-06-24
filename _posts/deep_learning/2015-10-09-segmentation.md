@@ -62,8 +62,11 @@ date: 2015-10-09
 
 **Instance-aware Semantic Segmentation via Multi-task Network Cascades**
 
+![](https://raw.githubusercontent.com/daijifeng001/MNC/master/data/readme_img/example.png)
+
 - intro: "1st-place winner of MS COCO 2015 segmentation competition"
 - arxiv: [http://arxiv.org/abs/1512.04412](http://arxiv.org/abs/1512.04412)
+- github: [https://github.com/daijifeng001/MNC](https://github.com/daijifeng001/MNC)
 
 **Bridging Category-level and Instance-level Semantic Image Segmentation**
 
@@ -187,6 +190,7 @@ using the stochastic gradient descent (SGD) algorithm to obtain fine pixel-level
 
 - arxiv: [http://arxiv.org/abs/1606.02147](http://arxiv.org/abs/1606.02147)
 - github: [https://github.com/e-lab/ENet-training](https://github.com/e-lab/ENet-training)
+- blog: [http://culurciello.github.io/tech/2016/06/20/training-enet.html](http://culurciello.github.io/tech/2016/06/20/training-enet.html)
 
 **Fully Convolutional Networks for Dense Semantic Labelling of High-Resolution Aerial Imagery**
 

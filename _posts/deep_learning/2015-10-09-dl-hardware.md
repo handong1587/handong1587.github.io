@@ -80,6 +80,10 @@ date: 2015-10-09
 
 - wihte paper: [https://www.amax.com/enterprise/pdfs/Deep%20Learning%20Performance%20Analysis.pdf](https://www.amax.com/enterprise/pdfs/Deep%20Learning%20Performance%20Analysis.pdf)
 
+**CuPy : NumPy-like API accelerated with CUDA**
+
+- github: [https://github.com/pfnet/cupy](https://github.com/pfnet/cupy)
+
 # FPGA
 
 **Recurrent Neural Networks Hardware Implementation on FPGA**
@@ -101,6 +105,10 @@ date: 2015-10-09
 **FPGAs Challenge GPUs as a Platform for Deep Learning**
 
 - blog: [https://www.tractica.com/automation-robotics/fpgas-challenge-gpus-as-a-platform-for-deep-learning/](https://www.tractica.com/automation-robotics/fpgas-challenge-gpus-as-a-platform-for-deep-learning/)
+
+**Convolution Neural Network CNN Implementation on Altera FPGA using OpenCL**
+
+- youtube: [https://www.youtube.com/watch?v=78Qd5t-Mn0s](https://www.youtube.com/watch?v=78Qd5t-Mn0s)
 
 # SRAM
 

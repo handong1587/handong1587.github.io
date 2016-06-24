@@ -402,6 +402,10 @@ Other awesome lists can be found in this [list](https://github.com/sindresorhus/
 
 - github: [https://github.com/rasbt/python-machine-learning-book](https://github.com/rasbt/python-machine-learning-book)
 
+**Machine Learning for Hackers**
+
+- github: [https://github.com/johnmyleswhite/ML_for_Hackers](https://github.com/johnmyleswhite/ML_for_Hackers)
+
 # Videos
 
 **Video resources for machine learning**
@@ -562,3 +566,11 @@ for creating complex software in C++ to solve real world problems.
 **(Quora): What would be your advice to a software engineer who wants to learn machine learning?**
 
 [https://www.quora.com/What-would-be-your-advice-to-a-software-engineer-who-wants-to-learn-machine-learning-3/answer/Alex-Smola-1](https://www.quora.com/What-would-be-your-advice-to-a-software-engineer-who-wants-to-learn-machine-learning-3/answer/Alex-Smola-1)
+
+**Machine Learning FAQ**
+
+- homepage: [http://sebastianraschka.com/faq/index.html](http://sebastianraschka.com/faq/index.html)
+
+**MLNotes: Very concise notes on machine learning and statistics**
+
+- github: [https://github.com/johnmyleswhite/MLNotes](https://github.com/johnmyleswhite/MLNotes)

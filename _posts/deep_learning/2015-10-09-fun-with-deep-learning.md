@@ -112,6 +112,17 @@ with the style of another image using convolutional neural networks
 Compressed model is less than 500KB
 - github: [https://github.com/pavelgonchar/neural-art-mini](https://github.com/pavelgonchar/neural-art-mini)
 
+**Preserving Color in Neural Artistic Style Transfer**
+
+- arxiv: [http://arxiv.org/abs/1606.05897](http://arxiv.org/abs/1606.05897)
+
+**End to End Neural Art with Generative Models**
+
+![](https://raw.githubusercontent.com/dmlc/web-data/master/mxnet/art/net.png)
+
+- blog: [http://dmlc.ml/mxnet/2016/06/20/end-to-end-neural-style.html](http://dmlc.ml/mxnet/2016/06/20/end-to-end-neural-style.html)
+- github: [https://github.com/dmlc/mxnet/tree/master/example/neural-style](https://github.com/dmlc/mxnet/tree/master/example/neural-style)
+
 ## Neural Art On Video
 
 **neural-style-video**

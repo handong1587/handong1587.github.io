@@ -153,3 +153,8 @@ with applications for model fitting and techniques for dealing with missing data
 - instructor: John Duchi
 - homepage: [http://cs229.stanford.edu/](http://cs229.stanford.edu/)
 - materials: [http://cs229.stanford.edu/materials.html](http://cs229.stanford.edu/materials.html)
+
+**Machine Learning:  2015-2016**
+
+- homepage: [https://www.cs.ox.ac.uk/teaching/courses/2015-2016/ml/](https://www.cs.ox.ac.uk/teaching/courses/2015-2016/ml/)
+- materials: [http://www.cs.ox.ac.uk/people/varun.kanade/teaching/ML-HT2016/index.html](http://www.cs.ox.ac.uk/people/varun.kanade/teaching/ML-HT2016/index.html)

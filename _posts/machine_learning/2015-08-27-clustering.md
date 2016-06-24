@@ -124,6 +124,10 @@ it surveys the widely known clustering algorithms in a comparative way"
 
 [https://www.toptal.com/machine-learning/clustering-algorithms](https://www.toptal.com/machine-learning/clustering-algorithms)
 
+**Hierarchical clustering, using it to invest**
+
+- blog: [http://quantdare.com/2016/06/hierarchical-clustering/](http://quantdare.com/2016/06/hierarchical-clustering/)
+
 # Codes
 
 **MusicMappr: Find patterns in your favorite songs and remix them on the fly!**
