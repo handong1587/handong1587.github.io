@@ -24,10 +24,6 @@ unpublished:  false
 
 # Conversion
 markdown:     kramdown
-#markdown: redcarpet
-#redcarpet:
-#    extensions: [with_toc_data]
-#highlighter:  pygments # currently unsupported on GitHub Pages 2016/02/17
 highlighter:  rouge
 lsi:          false
 excerpt_separator: "\n\n"
@@ -109,7 +105,6 @@ customLinks:
       url: http://deeplearning.net/reading-list/
     message: About Deep Learning
 
-#googleAnaly, your id link UA-12345678-X
 googleAnaly:
   config: false
   id: UA-58146229-1
@@ -117,7 +112,6 @@ googleAnaly:
 #baidu tongji
 baiduTongji:
   config: true
-  #id: c12b560f0372d5995701449b9eac606c
   id:  9144251ce5a4f4019de4bc601b9b490b
 
 #comment config
@@ -132,4 +126,3 @@ duoshuo:
 #baidu share config
 baiduShare:
   config: false
-  

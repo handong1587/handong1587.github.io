@@ -184,3 +184,7 @@ date: 2015-10-09
 
 - homepage: [http://nn-mnist.sennabaum.com/](http://nn-mnist.sennabaum.com/)
 - github: [https://github.com/csenn/nn-visualizer](https://github.com/csenn/nn-visualizer)
+
+**CNNVis: Towards Better Analysis of Deep Convolutional Neural Networks.**
+
+[http://shixialiu.com/publications/cnnvis/demo/](http://shixialiu.com/publications/cnnvis/demo/)

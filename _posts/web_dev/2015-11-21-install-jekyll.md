@@ -49,6 +49,26 @@ You may still encounter this FetchError:
 
 ![](/assets/web_dev/fetch_error_2.PNG)
 
+![](/assets/web_dev/fetch_error_3.png)
+
+I found a workaround here (Really a "workaround". It opens a possible security vulnerability):
+add the line to your .gemrc file:
+
+```
+:ssl_verify_mode: 0
+```
+
+So now my .gemrc file is like:
+
+```
+:ssl_verify_mode: 0
+:sources:
+- https://ruby.taobao.org
+:update_sources: true
+```
+
+Anyway, now jekyll is successfully installed on my system.
+
 # Try jekyll build!
 
 Follow [http://rockhong.github.io/github-pages-fails-to-update.html](http://rockhong.github.io/github-pages-fails-to-update.html)
@@ -65,6 +85,15 @@ Then I get:
 ![](/assets/web_dev/jekyll_build_reuslts.png)
 
 Follow the error information, do some minor changes, and finally my github-pages can successfully be shown.
+
+Don't miss the chance to use jekyll to preview your site! Running the line:
+
+```
+jekyll serve –watch
+```
+
+and then open website `http://localhost:4000/` in browser.
+If want to open a specific page, use `http://localhost:4000/web_dev/2015/11/21/install-jekyll.html`.
 
 # Something else to note..
 
@@ -93,3 +122,13 @@ Fire up a git bash (or Windows Prompt, must run as administrator), execute instr
 </pre>
 
 Retry `gem install github-pages`. Now *voila*, everything works nicely!
+
+# Refs
+
+[1] [http://blog.csdn.net/itmyhome1990/article/details/41982625](http://blog.csdn.net/itmyhome1990/article/details/41982625)
+
+[2] [http://segmentfault.com/q/1010000003891086](http://segmentfault.com/q/1010000003891086)
+
+[3] [http://railsapps.github.io/openssl-certificate-verify-failed.html](http://railsapps.github.io/openssl-certificate-verify-failed.html)
+
+[4] [http://rockhong.github.io/github-pages-fails-to-update.html](http://rockhong.github.io/github-pages-fails-to-update.html)
