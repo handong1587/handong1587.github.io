@@ -332,6 +332,13 @@ MSCOCO 2015 test:
 - github: [https://github.com/Russell91/reinspect](https://github.com/Russell91/reinspect)
 - ipn: [http://nbviewer.ipython.org/github/Russell91/ReInspect/blob/master/evaluation_reinspect.ipynb](http://nbviewer.ipython.org/github/Russell91/ReInspect/blob/master/evaluation_reinspect.ipynb)
 
+## Person Head Detection
+
+**Context-aware CNNs for person head detection**
+
+- arXiv: [http://arxiv.org/abs/1511.07917](http://arxiv.org/abs/1511.07917)
+- github: [https://github.com/aosokin/cnn_head_detection](https://github.com/aosokin/cnn_head_detection)
+
 ## Pedestrian Detection
 
 **Pedestrian Detection aided by Deep Learning Semantic Tasks**:
@@ -352,6 +359,37 @@ MSCOCO 2015 test:
 
 - intro: "set a new record on the Caltech pedestrian dataset, lowering the log-average miss rate from 11.7% to 8.9%"
 - arxiv: [http://arxiv.org/abs/1603.04525](http://arxiv.org/abs/1603.04525)
+
+## Boundary Detection
+
+**Pushing the Boundaries of Boundary Detection using Deep Learning**
+
+- arXiv: [http://arxiv.org/abs/1511.07386](http://arxiv.org/abs/1511.07386)
+
+## Abnormality Detection
+
+**Toward a Taxonomy and Computational Models of Abnormalities in Images**
+
+- arXiv: [http://arxiv.org/abs/1512.01325](http://arxiv.org/abs/1512.01325)
+
+## Edge Detection
+
+**Holistically-Nested Edge Detection (ICCV 2015, Marr Prize)**
+
+![](/assets/cnn-materials/hed.jpg)
+
+- paper: [http://www.cv-foundation.org/openaccess/content_iccv_2015/papers/Xie_Holistically-Nested_Edge_Detection_ICCV_2015_paper.pdf](http://www.cv-foundation.org/openaccess/content_iccv_2015/papers/Xie_Holistically-Nested_Edge_Detection_ICCV_2015_paper.pdf)
+- arxiv: [http://arxiv.org/abs/1504.06375](http://arxiv.org/abs/1504.06375)
+- github: [https://github.com/s9xie/hed](https://github.com/s9xie/hed)
+
+## Skeleton Detection
+
+**Object Skeleton Extraction in Natural Images by Fusing Scale-associated Deep Side Outputs**
+
+![](https://camo.githubusercontent.com/88a65f132aa4ae4b0477e3ad02c13cdc498377d9/687474703a2f2f37786e37777a2e636f6d312e7a302e676c622e636c6f7564646e2e636f6d2f44656570536b656c65746f6e2e706e673f696d61676556696577322f322f772f353030)
+
+- arxiv: [http://arxiv.org/abs/1603.09446](http://arxiv.org/abs/1603.09446)
+- github: [https://github.com/zeakey/DeepSkeleton](https://github.com/zeakey/DeepSkeleton)
 
 ## Others
 

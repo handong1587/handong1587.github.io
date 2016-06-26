@@ -37,6 +37,7 @@ a         { color: #91736b; text-decoration: none; }
 .fn-clear:after             { visibility:hidden; display:block; font-size:0; content:" "; clear:both; height:0; }
 
 /*kramdown toc 2015/11/29*/
+/*
 #markdown:before {
     content: "Table";
     font-weight: bold;
@@ -52,6 +53,13 @@ ul#markdown-toc {
     box-sizing: border-box;
     border: #DCDCDC 0.5em solid;
     background-color: #DCDCDC;
+}
+*/
+
+div#toc {
+    padding: 10px;
+    border: 1px solid #aaa;
+    display: inline-block !important;
 }
 
 /*****************************************************************************/

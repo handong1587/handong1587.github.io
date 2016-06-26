@@ -36,6 +36,10 @@ date: 2015-07-01
 - homepage: [http://www.cs.vu.nl/~tcs/datalg/](http://www.cs.vu.nl/~tcs/datalg/)
 - slides: [http://www.cs.vu.nl/~tcs/datalg/datalg-slides.pdf](http://www.cs.vu.nl/~tcs/datalg/datalg-slides.pdf)
 
+**MIT 6.851: Advanced Data Structures**
+
+[http://courses.csail.mit.edu/6.851/](http://courses.csail.mit.edu/6.851/)
+
 # Blogs
 
 **Know Thy Complexities!**

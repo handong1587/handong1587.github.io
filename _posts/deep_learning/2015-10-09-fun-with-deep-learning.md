@@ -203,6 +203,13 @@ Compressed model is less than 500KB
 
 ## Emoji
 
+**Brewing EmojiNet**
+
+![](http://engineering.curalate.com/assets/2016-01-13-Emojinet/demo02.png)
+
+- blog: [http://engineering.curalate.com/2016/01/20/emojinet.html](http://engineering.curalate.com/2016/01/20/emojinet.html)
+- website: [https://emojini.curalate.com/](https://emojini.curalate.com/)
+
 **Image2Emoji: Zero-shot Emoji Prediction for Visual Media**
 
 - paper: [http://isis-data.science.uva.nl/cgmsnoek/pub/cappallo-image2emoji-mm2015.pdf](http://isis-data.science.uva.nl/cgmsnoek/pub/cappallo-image2emoji-mm2015.pdf)
