@@ -5,9 +5,6 @@ title: Deep learning Courses
 date: 2015-10-09
 ---
 
-* TOC
-{:toc}
-
 # Deep Learning
 
 **EECS 598: Unsupervised Feature Learning(by Honglak Lee)**

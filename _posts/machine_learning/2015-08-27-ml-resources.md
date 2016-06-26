@@ -5,9 +5,6 @@ title: Machine Learning Resources
 date: 2015-08-27
 ---
 
-* TOC
-{:toc}
-
 # Tutorials
 
 **Machine Learning for Developers**

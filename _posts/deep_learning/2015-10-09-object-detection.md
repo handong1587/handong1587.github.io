@@ -5,9 +5,6 @@ title: Object Detection
 date: 2015-10-09
 ---
 
-* TOC
-{:toc}
-
 # Papers
 
 **Deep Neural Networks for Object Detection**

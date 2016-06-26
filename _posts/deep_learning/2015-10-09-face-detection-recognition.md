@@ -5,9 +5,6 @@ title: Face Detection and Recognition
 date: 2015-10-09
 ---
 
-* TOC
-{:toc}
-
 # Papers
 
 **Deep Convolutional Network Cascade for Facial Point Detection**

@@ -5,9 +5,6 @@ title: Useful Linux Commands
 date: 2015-07-24
 ---
 
-* TOC
-{:toc}
-
 ## Count
 
 Count lines in a document

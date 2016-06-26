@@ -5,9 +5,6 @@ title: Deep Learning Resources
 date: 2015-10-09
 ---
 
-* TOC
-{:toc}
-
 # ImageNet
 
 ## AlexNet

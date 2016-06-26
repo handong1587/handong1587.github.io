@@ -5,9 +5,6 @@ title: RNN and LSTM
 date: 2015-10-09
 ---
 
-* TOC
-{:toc}
-
 # Types of RNN
 
 1) Plain Tanh Recurrent Nerual Networks

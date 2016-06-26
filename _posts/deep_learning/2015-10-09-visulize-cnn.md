@@ -5,9 +5,6 @@ title: Visualize Convolutional Neural Network
 date: 2015-10-09
 ---
 
-* TOC
-{:toc}
-
 # Papers
 
 **Deconvolutional Networks**

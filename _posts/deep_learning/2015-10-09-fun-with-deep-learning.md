@@ -5,9 +5,6 @@ title: Fun With Deep Learning
 date: 2015-10-09
 ---
 
-* TOC
-{:toc}
-
 # Painting
 
 ## Neural Art

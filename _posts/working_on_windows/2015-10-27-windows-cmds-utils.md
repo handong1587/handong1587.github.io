@@ -5,9 +5,6 @@ title: Windows Commands and Utilities
 date: 2015-10-27
 ---
 
-* TOC
-{:toc}
-
 # Commands
 
 **Create symbolic link in Windows 7**

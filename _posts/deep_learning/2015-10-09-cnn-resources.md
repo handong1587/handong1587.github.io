@@ -5,9 +5,6 @@ title: Convolutional Neural Network Resources
 date: 2015-10-09
 ---
 
-* TOC
-{:toc}
-
 # Tutorials
 
 **Notes on Convolutional Neural Networks**

@@ -5,9 +5,6 @@ title: Training Deep Neural Networks
 date: 2015-10-09
 ---
 
-* TOC
-{:toc}
-
 # Tutorials
 
 **Popular Training Approaches of DNNs — A Quick Overview**

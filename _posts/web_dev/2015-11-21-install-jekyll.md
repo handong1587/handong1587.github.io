@@ -5,9 +5,6 @@ date: 2015-11-21 00:02:26
 category: "web_dev"
 ---
 
-* TOC
-{:toc}
-
 # Install jekyll
 
 I follow the blog: [http://blog.csdn.net/itmyhome1990/article/details/41982625](http://blog.csdn.net/itmyhome1990/article/details/41982625) 

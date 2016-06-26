@@ -5,9 +5,6 @@ title: Songs And Poetries
 date: 2015-11-29
 ---
 
-* TOC
-{:toc}
-
 # Songs
 
 ## Scarborough Fair

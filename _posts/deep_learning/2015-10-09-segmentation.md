@@ -5,9 +5,6 @@ title: Segmentation
 date: 2015-10-09
 ---
 
-* TOC
-{:toc}
-
 # Papers
 
 **Deep Joint Task Learning for Generic Object Extraction(NIPS2014)**

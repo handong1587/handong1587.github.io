@@ -5,9 +5,6 @@ title: Deep Learning Frameworks
 date: 2015-10-09
 ---
 
-* TOC
-{:toc}
-
 # Amazon DSSTNE
 
 **Amazon DSSTNE: Deep Scalable Sparse Tensor Network Engine**

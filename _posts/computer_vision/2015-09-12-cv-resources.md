@@ -5,9 +5,6 @@ title: Computer Vision Resources
 date: 2015-09-12
 ---
 
-* TOC
-{:toc}
-
 # Courses
 
 **Stanford CS231n: Convolutional Neural Networks for Visual Recognition**
