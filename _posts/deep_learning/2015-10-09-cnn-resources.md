@@ -343,3 +343,7 @@ Bicubic VS. Shepard CNN
 **WHAT CONVOLUTIONAL NEURAL NETWORKS LOOK AT WHEN THEY SEE NUDITY**
 
 - blog: [http://blog.clarifai.com/what-convolutional-neural-networks-see-at-when-they-see-nudity#.VzVh_-yECZY](http://blog.clarifai.com/what-convolutional-neural-networks-see-at-when-they-see-nudity#.VzVh_-yECZY)
+
+**An Analysis of Convolution for Inference**
+
+[http://www.slideshare.net/nervanasys/an-analysis-of-convolution-for-inference](http://www.slideshare.net/nervanasys/an-analysis-of-convolution-for-inference)

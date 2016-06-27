@@ -60,6 +60,10 @@ date: 2015-10-09
 - arxiv: [http://arxiv.org/abs/1605.05395](http://arxiv.org/abs/1605.05395)
 - github: [https://github.com/reedscot/cvpr2016](https://github.com/reedscot/cvpr2016)
 
+**IDNet: Smartphone-based Gait Recognition with Convolutional Neural Networks**
+
+- arxiv: [http://arxiv.org/abs/1606.03238](http://arxiv.org/abs/1606.03238)
+
 ### Food Recognition
 
 **DeepFood: Deep Learning-Based Food Image Recognition for Computer-Aided Dietary Assessment**

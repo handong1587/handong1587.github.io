@@ -509,6 +509,7 @@ with fast exact probabilistic inference over many layers."
 **Learning Efficient Algorithms with Hierarchical Attentive Memory**
 
 - arxiv: [http://arxiv.org/abs/1602.03218](http://arxiv.org/abs/1602.03218)
+- github: [https://github.com/Smerity/tf-ham](https://github.com/Smerity/tf-ham)
 
 **DrMAD: Distilling Reverse-Mode Automatic Differentiation for Optimizing Hyperparameters of Deep Neural Networks**
 

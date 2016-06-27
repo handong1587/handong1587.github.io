@@ -27,6 +27,10 @@ date: 2015-10-09
 
 [http://www.analyticsvidhya.com/blog/2015/07/github-special-data-scientists-to-follow-best-tutorials/](http://www.analyticsvidhya.com/blog/2015/07/github-special-data-scientists-to-follow-best-tutorials/)
 
+**Non-Mathematical Feature Engineering techniques for Data Science**
+
+[https://codesachin.wordpress.com/2016/06/25/non-mathematical-feature-engineering-techniques-for-data-science/](https://codesachin.wordpress.com/2016/06/25/non-mathematical-feature-engineering-techniques-for-data-science/)
+
 # Resources
 
 **Awesome Data Engineering: A curated list of data engineering tools for software developers**
@@ -36,3 +40,7 @@ date: 2015-10-09
 **Data science blogs**
 
 - github: [https://github.com/rushter/data-science-blogs](https://github.com/rushter/data-science-blogs)
+
+**data-science-practice-handbook: Awesome and Complete Practice Handbook For Data Science**
+
+- github: [https://github.com/wxyyxc1992/datascience-practice-handbook](https://github.com/wxyyxc1992/datascience-practice-handbook)

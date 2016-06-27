@@ -193,6 +193,10 @@ using the stochastic gradient descent (SGD) algorithm to obtain fine pixel-level
 
 - arxiv: [http://arxiv.org/abs/1606.02585](http://arxiv.org/abs/1606.02585)
 
+**Deep Learning Markov Random Field for Semantic Segmentation**
+
+- arxiv: [http://arxiv.org/abs/1606.07230](http://arxiv.org/abs/1606.07230)
+
 # Scene Labeling/Parsing
 
 **Indoor Semantic Segmentation using depth information**

@@ -338,6 +338,10 @@ Its simple, and is ideal for rapid prototyping."
 
 - github: [https://github.com/ludc/rltorch](https://github.com/ludc/rltorch)
 
+**deep_q_rl: Theano-based implementation of Deep Q-learning**
+
+- github: [https://github.com/spragunr/deep_q_rl](https://github.com/spragunr/deep_q_rl)
+
 # Blogs
 
 **A Short Introduction To Some Reinforcement Learning Algorithms**
@@ -400,6 +404,12 @@ Its simple, and is ideal for rapid prototyping."
 **Best reinforcement learning libraries?**
 
 - reddit: [https://www.reddit.com/r/MachineLearning/comments/4b2ugc/best_reinforcement_learning_libraries/](https://www.reddit.com/r/MachineLearning/comments/4b2ugc/best_reinforcement_learning_libraries/)
+
+**Super Simple Reinforcement Learning Tutorial**
+
+- part 1: [https://medium.com/@awjuliani/super-simple-reinforcement-learning-tutorial-part-1-fd544fab149](https://medium.com/@awjuliani/super-simple-reinforcement-learning-tutorial-part-1-fd544fab149)
+- part 2: [https://medium.com/@awjuliani/super-simple-reinforcement-learning-tutorial-part-2-ded33892c724#.dyhxww1u6](https://medium.com/@awjuliani/super-simple-reinforcement-learning-tutorial-part-2-ded33892c724#.dyhxww1u6)
+- gist: [https://gist.github.com/awjuliani/16608e1c4968baaa692b9b8c7dd94d04](https://gist.github.com/awjuliani/16608e1c4968baaa692b9b8c7dd94d04)
 
 # Books
 

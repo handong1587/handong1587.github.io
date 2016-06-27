@@ -425,7 +425,7 @@ MSCOCO 2015 test:
 
 - slides: [http://research.microsoft.com/en-us/um/people/kahe/iccv15tutorial/iccv2015_tutorial_convolutional_feature_maps_kaiminghe.pdf](http://research.microsoft.com/en-us/um/people/kahe/iccv15tutorial/iccv2015_tutorial_convolutional_feature_maps_kaiminghe.pdf)
 
-# Codes
+# Projects
 
 **TensorBox: a simple framework for training neural networks to detect objects in images**
 
@@ -436,6 +436,10 @@ We additionally provide an implementation of the [ReInspect](https://github.com/
 **Object detection in torch: Implementation of some object detection frameworks in torch**
 
 - github: [https://github.com/fmassa/object-detection.torch](https://github.com/fmassa/object-detection.torch)
+
+**Using DIGITS to train an Object Detection network**
+
+- github: [https://github.com/NVIDIA/DIGITS/blob/master/examples/object-detection/README.md](https://github.com/NVIDIA/DIGITS/blob/master/examples/object-detection/README.md)
 
 # Blogs
 

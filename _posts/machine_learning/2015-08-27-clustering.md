@@ -128,6 +128,10 @@ it surveys the widely known clustering algorithms in a comparative way"
 
 - blog: [http://quantdare.com/2016/06/hierarchical-clustering/](http://quantdare.com/2016/06/hierarchical-clustering/)
 
+**Spectral Clustering: A quick overview**
+
+[https://charlesmartin14.wordpress.com/2012/10/09/spectral-clustering/](https://charlesmartin14.wordpress.com/2012/10/09/spectral-clustering/)
+
 # Codes
 
 **MusicMappr: Find patterns in your favorite songs and remix them on the fly!**

@@ -24,6 +24,10 @@ date: 2015-10-09
 
 - arXiv: [http://arxiv.org/abs/1510.00585v1](http://arxiv.org/abs/1510.00585v1)
 
+**Wide & Deep Learning for Recommender Systems**
+
+- arxiv: [http://arxiv.org/abs/1606.07792](http://arxiv.org/abs/1606.07792)
+
 # Slides
 
 **Deep learning for music recommendation**
@@ -43,3 +47,9 @@ date: 2015-10-09
 - intro: Source code for, AutoRec, an autoencoder based model for collaborative filtering. 
 This package also includes implementation of RBM based collaborative filtering model(RBM-CF).
 - github: [https://github.com/mesuvash/NNRec](https://github.com/mesuvash/NNRec)
+
+# Videos
+
+**Deep Learning for Recommender Systems**
+
+- youtube: [https://www.youtube.com/watch?v=KZ7bcfYGuxw](https://www.youtube.com/watch?v=KZ7bcfYGuxw)

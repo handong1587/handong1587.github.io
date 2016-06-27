@@ -304,6 +304,11 @@ Other awesome lists can be found in this [list](https://github.com/sindresorhus/
 - arxiv: [http://arxiv.org/abs/1602.07783](http://arxiv.org/abs/1602.07783)
 - github: [https://github.com/sckangz/SDM16](https://github.com/sckangz/SDM16)
 
+**On the Effectiveness of Linear Models for One-Class Collaborative Filtering**
+
+- paper: [http://www.cs.toronto.edu/~darius/papers/SedhainEtAl-AAAI2016.pdf](http://www.cs.toronto.edu/~darius/papers/SedhainEtAl-AAAI2016.pdf)
+- github: [https://github.com/mesuvash/LRec](https://github.com/mesuvash/LRec)
+
 # Papers
 
 **An embarrassingly simple approach to zero-shot learning**

@@ -227,6 +227,10 @@ date: 2015-09-12
 
 - homepage: [http://pyscenedetect.readthedocs.org/en/latest/](http://pyscenedetect.readthedocs.org/en/latest/)
 
+**The Future of Real-Time SLAM and Deep Learning vs SLAM**
+
+- blog: [http://www.computervisionblog.com/2016/01/why-slam-matters-future-of-real-time.html](http://www.computervisionblog.com/2016/01/why-slam-matters-future-of-real-time.html)
+
 # Papers
 
 **Are Elephants Bigger than Butterflies? Reasoning about Sizes of Objects**
@@ -248,6 +252,10 @@ date: 2015-09-12
 ![](https://www.disneyresearch.com/wp-content/uploads/Live-Texturing-of-Augmented-Reality-Characters-from-Colored-Drawings-Image-1024x576.png)
 
 - homepage: [https://www.disneyresearch.com/publication/live-texturing-of-augmented-reality-characters/](https://www.disneyresearch.com/publication/live-texturing-of-augmented-reality-characters/)
+
+**Colorization for Image Compression**
+
+- arxiv: [http://arxiv.org/abs/1606.06314](http://arxiv.org/abs/1606.06314)
 
 # Applications
 

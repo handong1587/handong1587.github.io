@@ -54,3 +54,9 @@ date: 2015-10-09
 **Eyes on the Road: How Autonomous Cars Understand What They’re Seeing**
 
 - blog: [http://blogs.nvidia.com/blog/2016/01/05/eyes-on-the-road-how-autonomous-cars-understand-what-theyre-seeing/](http://blogs.nvidia.com/blog/2016/01/05/eyes-on-the-road-how-autonomous-cars-understand-what-theyre-seeing/)
+
+**Human-in-the-loop deep learning will help drive autonomous cars**
+
+![](https://venturebeat.com/wp-content/uploads/2016/05/Ubercar.jpg)
+
+[http://venturebeat.com/2016/06/25/human-in-the-loop-deep-learning-will-help-drive-autonomous-cars/](http://venturebeat.com/2016/06/25/human-in-the-loop-deep-learning-will-help-drive-autonomous-cars/)

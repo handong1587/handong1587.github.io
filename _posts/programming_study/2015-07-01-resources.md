@@ -72,6 +72,12 @@ which continually runs and visualizes your code as you type
  
 - blog: [https://www.nayuki.io/page/a-fundamental-introduction-to-x86-assembly-programming](https://www.nayuki.io/page/a-fundamental-introduction-to-x86-assembly-programming)
 
+# CUDA
+
+**Implementing Run-length encoding in CUDA**
+
+- blog: [https://erkaman.github.io/posts/cuda_rle.html](https://erkaman.github.io/posts/cuda_rle.html)
+
 # Vim
 
 **Things About Vim I Wish I Knew Earlier**

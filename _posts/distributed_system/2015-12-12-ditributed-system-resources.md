@@ -26,3 +26,7 @@ date: 2015-12-12
 **Spark vs. Hadoop MapReduce**
 
 [https://www.xplenty.com/blog/2014/11/apache-spark-vs-hadoop-mapreduce/](https://www.xplenty.com/blog/2014/11/apache-spark-vs-hadoop-mapreduce/)
+
+**Spark Tutorial**
+
+[https://www.supergloo.com/spark-tutorial/](https://www.supergloo.com/spark-tutorial/)
