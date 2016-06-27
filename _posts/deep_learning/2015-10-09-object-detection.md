@@ -171,8 +171,10 @@ topmost feature map after knowing the confidences of the underlying object categ
 |:-----------------:|:-----------:|:-----------:|:---:|:------:|
 |Faster RCNN, VGG-16|07           |VOC 2007 test|69.9%|198ms   |
 |Faster RCNN, VGG-16|07+12        |VOC 2007 test|73.2%|198ms   |
-|Faster RCNN, VGG-16|12           |VOC 2007 test|67.0%|198ms   |
-|Faster RCNN, VGG-16|07++12       |VOC 2007 test|70.4%|198ms   |
+|Faster RCNN, VGG-16|COCO+07+12   |VOC 2007 test|78.8%|198ms   |
+|Faster RCNN, VGG-16|12           |VOC 2012 test|67.0%|198ms   |
+|Faster RCNN, VGG-16|07++12       |VOC 2012 test|70.4%|198ms   |
+|Faster RCNN, VGG-16|COCO+07++12  |VOC 2012 test|75.9%|198ms   |
 
 - arxiv: [http://arxiv.org/abs/1506.01497](http://arxiv.org/abs/1506.01497)
 - github: [https://github.com/ShaoqingRen/faster_rcnn](https://github.com/ShaoqingRen/faster_rcnn)
@@ -279,25 +281,6 @@ MSCOCO 2015 test:
 
 - arxiv: [http://arxiv.org/abs/1604.02135](http://arxiv.org/abs/1604.02135)
 
-**Beyond Bounding Boxes: Precise Localization of Objects in Images (PhD Thesis)**
-
-- homepage: [http://www.eecs.berkeley.edu/Pubs/TechRpts/2015/EECS-2015-193.html](http://www.eecs.berkeley.edu/Pubs/TechRpts/2015/EECS-2015-193.html)
-- phd-thesis: [http://www.eecs.berkeley.edu/Pubs/TechRpts/2015/EECS-2015-193.pdf](http://www.eecs.berkeley.edu/Pubs/TechRpts/2015/EECS-2015-193.pdf)
-- github("SDS using hypercolumns"): [https://github.com/bharath272/sds](https://github.com/bharath272/sds)
-
-## T-CNN
-
-**T-CNN: Tubelets with Convolutional Neural Networks for Object Detection from Videos**
-
-- arxiv: [http://arxiv.org/abs/1604.02532](http://arxiv.org/abs/1604.02532)
-- github: [https://github.com/myfavouritekk/T-CNN](https://github.com/myfavouritekk/T-CNN)
-
-**Object Detection from Video Tubelets with Convolutional Neural Networks (CVPR 2016 Spotlight paper)**
-
-- arxiv: [https://arxiv.org/abs/1604.04053](https://arxiv.org/abs/1604.04053)
-- paper: [http://www.ee.cuhk.edu.hk/~wlouyang/Papers/KangVideoDet_CVPR16.pdf](http://www.ee.cuhk.edu.hk/~wlouyang/Papers/KangVideoDet_CVPR16.pdf)
-- gihtub: [https://github.com/myfavouritekk/vdetlib](https://github.com/myfavouritekk/vdetlib)
-
 **Training Region-based Object Detectors with Online Hard Example Mining**
 
 - arxiv: [http://arxiv.org/abs/1604.03540](http://arxiv.org/abs/1604.03540)
@@ -394,6 +377,21 @@ MSCOCO 2015 test:
 
 - arxiv: [http://arxiv.org/abs/1605.01014](http://arxiv.org/abs/1605.01014)
 
+# Detection From Video
+
+## T-CNN
+
+**T-CNN: Tubelets with Convolutional Neural Networks for Object Detection from Videos**
+
+- arxiv: [http://arxiv.org/abs/1604.02532](http://arxiv.org/abs/1604.02532)
+- github: [https://github.com/myfavouritekk/T-CNN](https://github.com/myfavouritekk/T-CNN)
+
+**Object Detection from Video Tubelets with Convolutional Neural Networks (CVPR 2016 Spotlight paper)**
+
+- arxiv: [https://arxiv.org/abs/1604.04053](https://arxiv.org/abs/1604.04053)
+- paper: [http://www.ee.cuhk.edu.hk/~wlouyang/Papers/KangVideoDet_CVPR16.pdf](http://www.ee.cuhk.edu.hk/~wlouyang/Papers/KangVideoDet_CVPR16.pdf)
+- gihtub: [https://github.com/myfavouritekk/vdetlib](https://github.com/myfavouritekk/vdetlib)
+
 # Object Proposal
 
 **DeepProposal: Hunting Objects by Cascading Deep Convolutional Layers**
@@ -407,6 +405,16 @@ MSCOCO 2015 test:
 - github: [https://github.com/abbypa/NNProject_DeepMask](https://github.com/abbypa/NNProject_DeepMask)
 
 # Localization
+
+**Beyond Bounding Boxes: Precise Localization of Objects in Images (PhD Thesis)**
+
+- homepage: [http://www.eecs.berkeley.edu/Pubs/TechRpts/2015/EECS-2015-193.html](http://www.eecs.berkeley.edu/Pubs/TechRpts/2015/EECS-2015-193.html)
+- phd-thesis: [http://www.eecs.berkeley.edu/Pubs/TechRpts/2015/EECS-2015-193.pdf](http://www.eecs.berkeley.edu/Pubs/TechRpts/2015/EECS-2015-193.pdf)
+- github("SDS using hypercolumns"): [https://github.com/bharath272/sds](https://github.com/bharath272/sds)
+
+**Weakly Supervised Object Localization with Multi-fold Multiple Instance Learning**
+
+- arxiv: [http://arxiv.org/abs/1503.00949](http://arxiv.org/abs/1503.00949)
 
 **LocNet: Improving Localization Accuracy for Object Detection**
 
