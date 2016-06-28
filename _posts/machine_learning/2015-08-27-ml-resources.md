@@ -385,6 +385,13 @@ Other awesome lists can be found in this [list](https://github.com/sindresorhus/
 
 - github: [https://github.com/szwed/awesome-machine-learning-python](https://github.com/szwed/awesome-machine-learning-python)
 
+**useR! 2016 Tutorial: Machine Learning Algorithmic Deep Dive**
+
+![](https://raw.githubusercontent.com/ledell/useR-machine-learning-tutorial/master/images/user2016.png)
+
+- homepage: [http://user2016.org/tutorials/10.html](http://user2016.org/tutorials/10.html)
+- github: [https://github.com/ledell/useR-machine-learning-tutorial](https://github.com/ledell/useR-machine-learning-tutorial)
+
 # Books
 
 **Machine Learning plus Intelligent Optimization: THE LION WAY, VERSION 2.0**

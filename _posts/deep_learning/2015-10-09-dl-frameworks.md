@@ -187,6 +187,10 @@ for building Deep Learning (DL) machine learning (ML) models
 - blog: [http://blog.keras.io/introducing-keras-10.html](http://blog.keras.io/introducing-keras-10.html)
 - docs: [http://keras.io/getting-started/functional-api-guide/](http://keras.io/getting-started/functional-api-guide/)
 
+**MarcBS/keras fork**
+
+- github: [https://github.com/MarcBS/keras](https://github.com/MarcBS/keras)
+
 # Lasagne
 
 **Lasagne: Lightweight library to build and train neural networks in Theano**
@@ -440,6 +444,10 @@ for building Deep Learning (DL) machine learning (ML) models
 **A Julia wrapper for the TensorFlow Python library**
 
 - github: [https://github.com/benmoran/TensorFlow.jl](https://github.com/benmoran/TensorFlow.jl)
+
+**FIRST CONTACT WITH TENSORFLOW**
+
+- ebook: [http://www.jorditorres.org/first-contact-with-tensorflow/](http://www.jorditorres.org/first-contact-with-tensorflow/)
 
 # Theano
 

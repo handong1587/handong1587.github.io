@@ -125,6 +125,10 @@ after the embedding and recurrent layers of the RNN."
 
 - arxiv: [http://arxiv.org/abs/1605.09553](http://arxiv.org/abs/1605.09553)
 
+**Captioning Images with Diverse Objects**
+
+- arixv: [http://arxiv.org/abs/1606.07770](http://arxiv.org/abs/1606.07770)
+
 # Video Captioning
 
 **Translating Videos to Natural Language Using Deep Recurrent Neural Networks**
