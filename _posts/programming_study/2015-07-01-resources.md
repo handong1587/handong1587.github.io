@@ -90,6 +90,12 @@ which continually runs and visualizes your code as you type
 
 - blog: [http://tutorialzine.com/2016/06/learn-git-in-30-minutes/](http://tutorialzine.com/2016/06/learn-git-in-30-minutes/)
 
+# Coding
+
+**Top 10 coding challenges Websites**
+
+- blog: [http://infocreeds.com/top-10-coding-challenges-websites/](http://infocreeds.com/top-10-coding-challenges-websites/)
+
 # Codes
 
 **The Archive of Interesting Code**

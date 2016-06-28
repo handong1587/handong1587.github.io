@@ -16,6 +16,7 @@ date: 2015-10-09
 **I: Building a Deep Learning (Dream) Machine**
 
 - blog: [http://graphific.github.io/posts/building-a-deep-learning-dream-machine/](http://graphific.github.io/posts/building-a-deep-learning-dream-machine/)
+- slides: [http://www.slideshare.net/roelofp/building-a-deep-learning-dream-machine](http://www.slideshare.net/roelofp/building-a-deep-learning-dream-machine)
 
 **II: Running a Deep Learning (Dream) Machine**
 

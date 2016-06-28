@@ -7,12 +7,16 @@ date: 2015-10-09
 
 # Papers
 
+## Im2Text
+
 **Im2Text: Describing Images Using 1 Million Captioned Photographs**
 
 ![](http://vision.cs.stonybrook.edu/~vicente/sbucaptions/im2text_files/im2text.png)
 
 - paper: [http://tamaraberg.com/papers/generation_nips2011.pdf](http://tamaraberg.com/papers/generation_nips2011.pdf)
 - project: [http://vision.cs.stonybrook.edu/~vicente/sbucaptions/](http://vision.cs.stonybrook.edu/~vicente/sbucaptions/)
+
+## LRCN
 
 **Long-term Recurrent Convolutional Networks for Visual Recognition and Description (LRCN. Oral presentation at CVPR 2015)**
 
@@ -22,7 +26,9 @@ date: 2015-10-09
 - project page: [http://jeffdonahue.com/lrcn/](http://jeffdonahue.com/lrcn/)
 - github: [https://github.com/BVLC/caffe/pull/2033](https://github.com/BVLC/caffe/pull/2033)
 
-**Show and Tell: A Neural Image Caption Generator(Google)**
+## Show and Tell
+
+**Show and Tell: A Neural Image Caption Generator (Google)**
 
 - arXiv: [http://arxiv.org/abs/1411.4555](http://arxiv.org/abs/1411.4555)
 - github: [https://github.com/karpathy/neuraltalk](https://github.com/karpathy/neuraltalk)
@@ -52,6 +58,8 @@ to localize different segments of the sentence to their corresponding image regi
 - github: [https://github.com/karpathy/neuraltalk](https://github.com/karpathy/neuraltalk)
 - demo: [http://cs.stanford.edu/people/karpathy/deepimagesent/rankingdemo/](http://cs.stanford.edu/people/karpathy/deepimagesent/rankingdemo/)
 
+## m-RNN
+
 **Deep Captioning with Multimodal Recurrent Neural Networks (m-RNN. ICLR 2015)**
 
 - intro: "combines the functionalities of the CNN and RNN by introducing a new multimodal layer, 
@@ -59,6 +67,9 @@ after the embedding and recurrent layers of the RNN."
 - arxiv: [http://arxiv.org/abs/1412.6632](http://arxiv.org/abs/1412.6632)
 - homepage: [http://www.stat.ucla.edu/~junhua.mao/m-RNN.html](http://www.stat.ucla.edu/~junhua.mao/m-RNN.html)
 - github: [https://github.com/mjhucla/mRNN-CR](https://github.com/mjhucla/mRNN-CR)
+- github: [https://github.com/mjhucla/TF-mRNN](https://github.com/mjhucla/TF-mRNN)
+
+## Show, Attend and Tell
 
 **Show, Attend and Tell: Neural Image Caption Generation with Visual Attention**
 
@@ -97,11 +108,15 @@ after the embedding and recurrent layers of the RNN."
 - arXiv: [http://arxiv.org/abs/1511.06361](http://arxiv.org/abs/1511.06361)
 - github: [https://github.com/ivendrov/order-embedding](https://github.com/ivendrov/order-embedding)
 
+## DenseCap
+
 **DenseCap: Fully Convolutional Localization Networks for Dense Captioning**
 
 - project page: [http://cs.stanford.edu/people/karpathy/densecap/](http://cs.stanford.edu/people/karpathy/densecap/)
 - arXiv: [http://arxiv.org/abs/1511.07571](http://arxiv.org/abs/1511.07571)
 - github(Torch): [https://github.com/jcjohnson/densecap](https://github.com/jcjohnson/densecap)
+
+## CRCN
 
 **Expressing an Image Stream with a Sequence of Natural Sentences (CRCN. NIPS 2015)**
 
@@ -116,6 +131,8 @@ after the embedding and recurrent layers of the RNN."
 **Image Captioning with Deep Bidirectional LSTMs**
 
 - arxiv: [http://arxiv.org/abs/1604.00790](http://arxiv.org/abs/1604.00790)
+
+## Encode, Review, and Decode
 
 **Encode, Review, and Decode: Reviewer Module for Caption Generation**
 
@@ -165,7 +182,7 @@ after the embedding and recurrent layers of the RNN."
 
 - website: [https://www.captionbot.ai/](https://www.captionbot.ai/)
 
-# Dataset
+# Datasets
 
 **TGIF: A New Dataset and Benchmark on Animated GIF Description**
 

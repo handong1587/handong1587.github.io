@@ -129,3 +129,7 @@ date: 2015-10-09
 **Neural Network Architectures**
 
 - blog: [http://culurciello.github.io/tech/2016/06/04/nets.html](http://culurciello.github.io/tech/2016/06/04/nets.html)
+
+**A Practical Introduction to Deep Learning with Caffe and Python**
+
+- blog: [http://adilmoujahid.com/posts/2016/06/introduction-deep-learning-python-caffe/](http://adilmoujahid.com/posts/2016/06/introduction-deep-learning-python-caffe/)

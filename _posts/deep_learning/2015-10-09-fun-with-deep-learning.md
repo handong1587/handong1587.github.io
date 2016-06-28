@@ -218,6 +218,10 @@ Compressed model is less than 500KB
 - blog: [http://getdango.com/emoji-and-deep-learning.html](http://getdango.com/emoji-and-deep-learning.html)
 - app: [https://play.google.com/store/apps/details?id=co.dango.emoji.gif](https://play.google.com/store/apps/details?id=co.dango.emoji.gif)
 
+**Text input with relevant emoji sorted with deeplearning**
+
+- homepage: [http://codepen.io/Idlework/pen/xOgGqM](http://codepen.io/Idlework/pen/xOgGqM)
+
 ## Sketch
 
 **Sketch-a-Net that Beats Humans**
@@ -259,6 +263,14 @@ Compressed model is less than 500KB
 - project page: [http://www.eecs.qmul.ac.uk/~qian/Project_cvpr16.html](http://www.eecs.qmul.ac.uk/~qian/Project_cvpr16.html)
 - paper: [http://www.eecs.qmul.ac.uk/~qian/SketchMeThatShoe.pdf](http://www.eecs.qmul.ac.uk/~qian/SketchMeThatShoe.pdf)
 - github: [https://github.com/seuliufeng/DeepSBIR](https://github.com/seuliufeng/DeepSBIR)
+
+## Image Stylization
+
+**Automatic Portrait Segmentation for Image Stylization**
+
+![](/assets/fun_with_dl/portrait_eg16.png)
+
+- paper: [http://www.cse.cuhk.edu.hk/leojia/papers/portrait_eg16.pdf](http://www.cse.cuhk.edu.hk/leojia/papers/portrait_eg16.pdf)
 
 # Sounds
 

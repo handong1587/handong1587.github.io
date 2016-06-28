@@ -301,6 +301,17 @@ date: 2015-10-09
 - arxiv: [http://arxiv.org/abs/1606.06216](http://arxiv.org/abs/1606.06216)
 - github: [https://github.com/ThomasMiconi/DiffRNN](https://github.com/ThomasMiconi/DiffRNN)
 
+## LSTMVis
+
+**Visual Analysis of Hidden State Dynamics in Recurrent Neural Networks**
+
+![](https://raw.githubusercontent.com/HendrikStrobelt/LSTMVis/master/docs/img/teaser_V2_small.png)
+
+- homepage: [http://lstm.seas.harvard.edu/](http://lstm.seas.harvard.edu/)
+- demo: [http://lstm.seas.harvard.edu/client/index.html](http://lstm.seas.harvard.edu/client/index.html)
+- arxiv: [https://arxiv.org/abs/1606.07461](https://arxiv.org/abs/1606.07461)
+- github: [https://github.com/HendrikStrobelt/LSTMVis](https://github.com/HendrikStrobelt/LSTMVis)
+
 # Projects
 
 **NeuralTalk (Deprecated): a Python+numpy project for learning Multimodal Recurrent Neural Networks that describe images with sentences**
@@ -362,6 +373,7 @@ date: 2015-10-09
 
 **PRNN: A fast implementation of recurrent neural network layers in CUDA (Baidu Research)**
 
+- blog: [https://svail.github.io/persistent_rnns/](https://svail.github.io/persistent_rnns/)
 - github: [https://github.com/baidu-research/persistent-rnn](https://github.com/baidu-research/persistent-rnn)
 
 # Blogs

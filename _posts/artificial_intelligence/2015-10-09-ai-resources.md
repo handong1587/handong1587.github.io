@@ -35,6 +35,11 @@ date: 2015-10-01
 
 - arxiv: [http://arxiv.org/abs/1605.07736](http://arxiv.org/abs/1605.07736)
 
+**Genetic Fuzzy based Artificial Intelligence for Unmanned Combat Aerial Vehicle Control in Simulated Air Combat Missions**
+
+- paper: [http://www.omicsgroup.org/journals/genetic-fuzzy-based-artificial-intelligence-for-unmanned-combat-aerialvehicle-control-in-simulated-air-combat-missions-2167-0374-1000144.pdf](http://www.omicsgroup.org/journals/genetic-fuzzy-based-artificial-intelligence-for-unmanned-combat-aerialvehicle-control-in-simulated-air-combat-missions-2167-0374-1000144.pdf)
+- blog: [http://magazine.uc.edu/editors_picks/recent_features/alpha.html](http://magazine.uc.edu/editors_picks/recent_features/alpha.html)
+
 # Blogs
 
 **Artificial Intelligence Today**

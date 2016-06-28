@@ -98,6 +98,10 @@ date: 2015-10-09
 
 - arxiv: [http://arxiv.org/abs/1603.02518](http://arxiv.org/abs/1603.02518)
 
+**A Taxonomy and Library for Visualizing Learned Features in Convolutional Neural Networks**
+
+- arxiv: [http://arxiv.org/abs/1606.07757](http://arxiv.org/abs/1606.07757)
+
 # Projects
 
 **Interactive Deep Neural Net Hallucinations**
