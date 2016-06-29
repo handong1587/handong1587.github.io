@@ -50,6 +50,11 @@ topmost feature map after knowing the confidences of the underlying object categ
 - arxiv: [http://arxiv.org/abs/1312.2249](http://arxiv.org/abs/1312.2249)
 - github: [https://github.com/google/multibox](https://github.com/google/multibox)
 
+**Scalable, High-Quality Object Detection**
+
+- arxiv: [http://arxiv.org/abs/1412.1441](http://arxiv.org/abs/1412.1441)
+- github: [https://github.com/google/multibox](https://github.com/google/multibox)
+
 ## SPP-Net
 
 **Spatial Pyramid Pooling in Deep Convolutional Networks for Visual Recognition**
@@ -67,11 +72,6 @@ topmost feature map after knowing the confidences of the underlying object categ
 **Learning Rich Features from RGB-D Images for Object Detection and Segmentation**
 
 - arxiv: [http://arxiv.org/abs/1407.5736](http://arxiv.org/abs/1407.5736)
-
-**Scalable, High-Quality Object Detection**
-
-- arxiv: [http://arxiv.org/abs/1412.1441](http://arxiv.org/abs/1412.1441)
-- github: [https://github.com/google/multibox](https://github.com/google/multibox)
 
 ## DeepID-Net
 
