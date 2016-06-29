@@ -282,6 +282,42 @@ testing it on the MNIST handwritten digits data.
 
 - arxiv: [http://arxiv.org/abs/1605.08104](http://arxiv.org/abs/1605.08104)
 
+# Transfer Learning
+
+**How transferable are features in deep neural networks? (NIPS 2014)**
+
+- arXiv: [http://arxiv.org/abs/1411.1792](http://arxiv.org/abs/1411.1792)
+
+**Learning and Transferring Mid-Level Image Representations using Convolutional Neural Networks**
+
+- paper: [http://research.microsoft.com/pubs/214307/paper.pdf](http://research.microsoft.com/pubs/214307/paper.pdf)
+
+**Simultaneous Deep Transfer Across Domains and Tasks**
+
+![](http://www.eecs.berkeley.edu/~jhoffman/figs/Tzeng_ICCV2015.png)
+
+- arxiv: [http://arxiv.org/abs/1510.02192](http://arxiv.org/abs/1510.02192)
+
+**Net2Net: Accelerating Learning via Knowledge Transfer**
+
+- arXiv: [http://arxiv.org/abs/1511.05641](http://arxiv.org/abs/1511.05641)
+- github: [https://github.com/soumith/net2net.torch](https://github.com/soumith/net2net.torch)
+- notes(by Hugo Larochelle): [https://www.evernote.com/shard/s189/sh/46414718-9663-440e-bbb7-65126b247b42/19688c438709251d8275d843b8158b03](https://www.evernote.com/shard/s189/sh/46414718-9663-440e-bbb7-65126b247b42/19688c438709251d8275d843b8158b03)
+
+**Transfer Learning from Deep Features for Remote Sensing and Poverty Mapping**
+
+- arxiv: [http://arxiv.org/abs/1510.00098](http://arxiv.org/abs/1510.00098)
+
+**A theoretical framework for deep transfer learning**
+
+- key words: transfer learning, PAC learning, PAC-Bayesian, deep learning
+- homepage: [http://imaiai.oxfordjournals.org/content/early/2016/04/28/imaiai.iaw008](http://imaiai.oxfordjournals.org/content/early/2016/04/28/imaiai.iaw008)
+- paper: [http://imaiai.oxfordjournals.org/content/early/2016/04/28/imaiai.iaw008.full.pdf](http://imaiai.oxfordjournals.org/content/early/2016/04/28/imaiai.iaw008.full.pdf)
+
+**Transfer learning using neon**
+
+- blog: [http://www.nervanasys.com/transfer-learning-using-neon/](http://www.nervanasys.com/transfer-learning-using-neon/)
+
 # Deep Learning Networks
 
 **Deeply-supervised Nets (DSN)**
