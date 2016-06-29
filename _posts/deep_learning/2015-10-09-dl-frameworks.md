@@ -53,7 +53,6 @@ for building Deep Learning (DL) machine learning (ML) models
 - slides: [http://vision.princeton.edu/courses/COS598/2015sp/slides/Caffe/caffe_tutorial.pdf](http://vision.princeton.edu/courses/COS598/2015sp/slides/Caffe/caffe_tutorial.pdf)
 - caffe-doc: [http://caffe.berkeleyvision.org/doxygen/index.html](http://caffe.berkeleyvision.org/doxygen/index.html)
 - tutorials("CAFFE with CUDA"): [http://pan.baidu.com/s/1i4kmpyH](http://pan.baidu.com/s/1i4kmpyH)
-- blog("Convolution in Caffe: a memo"): [https://github.com/Yangqing/caffe/wiki/Convolution-in-Caffe:-a-memo](https://github.com/Yangqing/caffe/wiki/Convolution-in-Caffe:-a-memo)
 
 **Caffe on both Linux and Windows**
 
@@ -85,6 +84,13 @@ for building Deep Learning (DL) machine learning (ML) models
 **OpenCV 3.0.0-dev: Load Caffe framework models**
 
 [http://docs.opencv.org/master/d5/de7/tutorial_dnn_googlenet.html#gsc.tab=0](http://docs.opencv.org/master/d5/de7/tutorial_dnn_googlenet.html#gsc.tab=0)
+
+**CDNN2 - CEVA Deep Neural Network Software Framework**
+
+- intro: Accelerating the development of Artificial Intelligence and its deployment in Low-Power Embedded Systems
+- homepage: [http://launch.ceva-dsp.com/cdnn2/](http://launch.ceva-dsp.com/cdnn2/)
+
+- blog: [http://www.tomshardware.com/news/ceva-cdnn2-tensorflow-embedded-systems,32158.html](http://www.tomshardware.com/news/ceva-cdnn2-tensorflow-embedded-systems,32158.html)
 
 # Chainer
 

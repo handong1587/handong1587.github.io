@@ -75,6 +75,8 @@ date: 2015-10-09
 
 ## ResNet
 
+![](/assets/dl_resources/ResNet_CVPR2016_BestPaperAward.jpg)
+
 **Deep Residual Learning for Image Recognition**
 
 - arxiv: [http://arxiv.org/abs/1512.03385](http://arxiv.org/abs/1512.03385)
@@ -318,6 +320,23 @@ testing it on the MNIST handwritten digits data.
 
 - blog: [http://www.nervanasys.com/transfer-learning-using-neon/](http://www.nervanasys.com/transfer-learning-using-neon/)
 
+# Deep Learning and Robots
+
+**Robot Learning Manipulation Action Plans by "Watching" Unconstrained Videos from the World Wide Web(AAAI 2015)**
+
+- paper: [http://www.umiacs.umd.edu/~yzyang/paper/YouCookMani_CameraReady.pdf](http://www.umiacs.umd.edu/~yzyang/paper/YouCookMani_CameraReady.pdf)
+- author page: [http://www.umiacs.umd.edu/~yzyang/](http://www.umiacs.umd.edu/~yzyang/)
+
+**Robots that can adapt like animals(Nature 2014)**
+
+- arXiv: [http://arxiv.org/abs/1407.3501](http://arxiv.org/abs/1407.3501)
+- code: [http://pages.isir.upmc.fr/~mouret/code/ite_source_code.tar.gz](http://pages.isir.upmc.fr/~mouret/code/ite_source_code.tar.gz)
+- github(for Bayesian optimization): [http://github.com/jbmouret/limbo](http://github.com/jbmouret/limbo)
+
+**End-to-End Training of Deep Visuomotor Policies**
+
+- arXiv: [http://arxiv.org/abs/1504.00702](http://arxiv.org/abs/1504.00702)
+
 # Deep Learning Networks
 
 **Deeply-supervised Nets (DSN)**
@@ -475,6 +494,255 @@ with fast exact probabilistic inference over many layers."
 
 - paper: [http://arxiv.org/abs/1509.05329](http://arxiv.org/abs/1509.05329)
 
+# Applications
+
+**Some like it hot - visual guidance for preference prediction**
+
+- arxiv: [http://arxiv.org/abs/1510.07867](http://arxiv.org/abs/1510.07867)
+- demo: [http://howhot.io/](http://howhot.io/)
+
+**Camera identification with deep convolutional networks**
+
+- key word: copyright infringement cases, ownership attribution
+- arxiv: [http://arxiv.org/abs/1603.01068](http://arxiv.org/abs/1603.01068)
+
+**Video2GIF: Automatic Generation of Animated GIFs from Video (Robust Deep RankNet)**
+
+- intro: 3D CNN, ranking model, Huber loss, 100K GIFs/video sources dataset
+- arxiv: [http://arxiv.org/abs/1605.04850](http://arxiv.org/abs/1605.04850)
+- github(dataset): [https://github.com/gyglim/video2gif_dataset](https://github.com/gyglim/video2gif_dataset)
+- results: [http://video2gif.info/](http://video2gif.info/)
+- demo: [http://people.ee.ethz.ch/~gyglim/work_public/autogif/](http://people.ee.ethz.ch/~gyglim/work_public/autogif/)
+- review: [http://motherboard.vice.com/read/these-fire-gifs-were-made-by-artificial-intelligence-yahoo](http://motherboard.vice.com/read/these-fire-gifs-were-made-by-artificial-intelligence-yahoo)
+
+**An Analysis of Deep Neural Network Models for Practical Applications**
+
+- arxiv: [http://arxiv.org/abs/1605.07678](http://arxiv.org/abs/1605.07678)
+
+## Age Estimation
+
+**Deeply-Learned Feature for Age Estimation**
+
+- paper: [http://ieeexplore.ieee.org/xpl/login.jsp?tp=&arnumber=7045931&url=http%3A%2F%2Fieeexplore.ieee.org%2Fxpls%2Fabs_all.jsp%3Farnumber%3D7045931](http://ieeexplore.ieee.org/xpl/login.jsp?tp=&arnumber=7045931&url=http%3A%2F%2Fieeexplore.ieee.org%2Fxpls%2Fabs_all.jsp%3Farnumber%3D7045931)
+
+**Age and Gender Classification using Convolutional Neural Networks**
+
+![](http://www.openu.ac.il/home/hassner/projects/cnn_agegender/teaser_a.png)
+
+- paper: [http://www.openu.ac.il/home/hassner/projects/cnn_agegender/CNN_AgeGenderEstimation.pdf](http://www.openu.ac.il/home/hassner/projects/cnn_agegender/CNN_AgeGenderEstimation.pdf)
+- project page: [http://www.openu.ac.il/home/hassner/projects/cnn_agegender/](http://www.openu.ac.il/home/hassner/projects/cnn_agegender/)
+- github: [https://github.com/GilLevi/AgeGenderDeepLearning](https://github.com/GilLevi/AgeGenderDeepLearning)
+
+## Emotion Recognition
+
+**Real-time emotion recognition for gaming using deep convolutional network features**
+
+- paper: [http://arxiv.org/abs/1408.3750v1](http://arxiv.org/abs/1408.3750v1)
+- code: [https://github.com/Zebreu/ConvolutionalEmotion](https://github.com/Zebreu/ConvolutionalEmotion)
+
+**Emotion Recognition in the Wild via Convolutional Neural Networks and Mapped Binary Patterns**
+
+![](http://www.openu.ac.il/home/hassner/projects/cnn_emotions/teaser.png)
+
+- project page: [http://www.openu.ac.il/home/hassner/projects/cnn_emotions/](http://www.openu.ac.il/home/hassner/projects/cnn_emotions/)
+- papre: [http://www.openu.ac.il/home/hassner/projects/cnn_emotions/LeviHassnerICMI15.pdf](http://www.openu.ac.il/home/hassner/projects/cnn_emotions/LeviHassnerICMI15.pdf)
+- github: [https://gist.github.com/GilLevi/54aee1b8b0397721aa4b](https://gist.github.com/GilLevi/54aee1b8b0397721aa4b)
+
+**DeXpression: Deep Convolutional Neural Network for Expression Recognition**
+
+- paper: [http://arxiv.org/abs/1509.05371](http://arxiv.org/abs/1509.05371)
+
+**DEX: Deep EXpectation of apparent age from a single image (ICCV 2015)**
+
+![](https://data.vision.ee.ethz.ch/cvl/rrothe/imdb-wiki/static/img/pipeline.png)
+
+- paper: [https://www.vision.ee.ethz.ch/en/publications/papers/proceedings/eth_biwi_01229.pdf](https://www.vision.ee.ethz.ch/en/publications/papers/proceedings/eth_biwi_01229.pdf)
+- homepage: [https://data.vision.ee.ethz.ch/cvl/rrothe/imdb-wiki/](https://data.vision.ee.ethz.ch/cvl/rrothe/imdb-wiki/)
+
+## Attribution Prediction
+
+**PANDA: Pose Aligned Networks for Deep Attribute Modeling (Facebook. CVPR 2014)**
+
+- arXiv: [http://arxiv.org/abs/1311.5591](http://arxiv.org/abs/1311.5591)
+- github: [https://github.com/facebook/pose-aligned-deep-networks](https://github.com/facebook/pose-aligned-deep-networks)
+
+**Predicting psychological attributions from face photographs with a deep neural network**
+
+- arxiv: [http://arxiv.org/abs/1512.01289](http://arxiv.org/abs/1512.01289)
+
+**Learning Human Identity from Motion Patterns**
+
+- arxiv: [http://arxiv.org/abs/1511.03908](http://arxiv.org/abs/1511.03908)
+
+## Pose Estimation 
+
+**Flowing ConvNets for Human Pose Estimation in Videos**
+
+- arxiv: [http://arxiv.org/abs/1506.02897](http://arxiv.org/abs/1506.02897)
+- homepage: [http://www.robots.ox.ac.uk/~vgg/software/cnn_heatmap/](http://www.robots.ox.ac.uk/~vgg/software/cnn_heatmap/)
+- github: [https://github.com/tpfister/caffe-heatmap](https://github.com/tpfister/caffe-heatmap)
+
+**Structured Feature Learning for Pose Estimation**
+
+- arxiv: [http://arxiv.org/abs/1603.09065](http://arxiv.org/abs/1603.09065)
+- homepage: [http://www.ee.cuhk.edu.hk/~xgwang/projectpage_structured_feature_pose.html](http://www.ee.cuhk.edu.hk/~xgwang/projectpage_structured_feature_pose.html)
+
+**Convolutional Pose Machines**
+
+- arxiv: [http://arxiv.org/abs/1602.00134](http://arxiv.org/abs/1602.00134)
+- github: [https://github.com/tenstep/convolutional-pose-machines-release](https://github.com/tenstep/convolutional-pose-machines-release)
+
+**Model-based Deep Hand Pose Estimation**
+
+- paper: [http://xingyizhou.xyz/zhou2016model.pdf](http://xingyizhou.xyz/zhou2016model.pdf)
+- github: [https://github.com/tenstep/DeepModel](https://github.com/tenstep/DeepModel)
+
+**Stacked Hourglass Networks for Human Pose Estimation**
+
+![](http://www-personal.umich.edu/~alnewell/images/stacked-hg.png)
+
+- homepage: [http://www-personal.umich.edu/~alnewell/pose/](http://www-personal.umich.edu/~alnewell/pose/)
+- arxiv: [http://arxiv.org/abs/1603.06937](http://arxiv.org/abs/1603.06937)
+- github: [https://github.com/anewell/pose-hg-train](https://github.com/anewell/pose-hg-train)
+- demo: [https://github.com/anewell/pose-hg-demo](https://github.com/anewell/pose-hg-demo)
+
+**Chained Predictions Using Convolutional Neural Networks (EECV 2016)**
+
+- keywords: CNN, structured prediction, RNN, human pose estimation
+- arxiv: [http://arxiv.org/abs/1605.02346](http://arxiv.org/abs/1605.02346)
+
+## Sentiment Prediction
+
+**From Pixels to Sentiment: Fine-tuning CNNs for Visual Sentiment Prediction**
+
+- arxiv: [http://arxiv.org/abs/1604.03489](http://arxiv.org/abs/1604.03489)
+- github: [https://github.com/imatge-upc/sentiment-2016](https://github.com/imatge-upc/sentiment-2016)
+- gitxiv: [http://gitxiv.com/posts/ruqRgXdPTHJ77LDEb/from-pixels-to-sentiment-fine-tuning-cnns-for-visual](http://gitxiv.com/posts/ruqRgXdPTHJ77LDEb/from-pixels-to-sentiment-fine-tuning-cnns-for-visual)
+
+## Place Recognition
+
+**NetVLAD: CNN architecture for weakly supervised place recognition**
+
+![](http://www.di.ens.fr/willow/research/netvlad/images/teaser.png)
+
+- arXiv: [http://arxiv.org/abs/1511.07247](http://arxiv.org/abs/1511.07247)
+- homepage: [http://www.di.ens.fr/willow/research/netvlad/](http://www.di.ens.fr/willow/research/netvlad/)
+
+**PlaNet - Photo Geolocation with Convolutional Neural Networks**
+
+![](https://d267cvn3rvuq91.cloudfront.net/i/images/planet.jpg?sw=590&cx=0&cy=0&cw=928&ch=614)
+
+- arxiv: [http://arxiv.org/abs/1602.05314](http://arxiv.org/abs/1602.05314)
+- review("Google Unveils Neural Network with “Superhuman” Ability to Determine the Location of Almost Any Image"): [https://www.technologyreview.com/s/600889/google-unveils-neural-network-with-superhuman-ability-to-determine-the-location-of-almost/](https://www.technologyreview.com/s/600889/google-unveils-neural-network-with-superhuman-ability-to-determine-the-location-of-almost/)
+- github("City-Recognition: CS231n Project for Winter 2016"): [https://github.com/dmakian/LittlePlaNet](https://github.com/dmakian/LittlePlaNet)
+- github: [https://github.com/wulfebw/LittlePlaNet-Models](https://github.com/wulfebw/LittlePlaNet-Models)
+
+### Camera Relocalization
+
+**PoseNet: A Convolutional Network for Real-Time 6-DOF Camera Relocalization**
+
+- paper: [http://arxiv.org/abs/1505.07427](http://arxiv.org/abs/1505.07427)
+- project page: [http://mi.eng.cam.ac.uk/projects/relocalisation/#results](http://mi.eng.cam.ac.uk/projects/relocalisation/#results)
+- github: [https://github.com/alexgkendall/caffe-posenet](https://github.com/alexgkendall/caffe-posenet)
+
+**Modelling Uncertainty in Deep Learning for Camera Relocalization**
+
+- paper: [http://arxiv.org/abs/1509.05909](http://arxiv.org/abs/1509.05909)
+
+## NSFW Detection / Classification 
+
+**Nipple Detection using Convolutional Neural Network**
+
+- reddit: [https://www.reddit.com/over18?dest=https%3A%2F%2Fwww.reddit.com%2Fr%2FMachineLearning%2Fcomments%2F33n77s%2Fandroid_app_nipple_detection_using_convolutional%2F](https://www.reddit.com/over18?dest=https%3A%2F%2Fwww.reddit.com%2Fr%2FMachineLearning%2Fcomments%2F33n77s%2Fandroid_app_nipple_detection_using_convolutional%2F)
+
+**Applying deep learning to classify pornographic images and videos**
+
+- arxiv: [http://arxiv.org/abs/1511.08899](http://arxiv.org/abs/1511.08899)
+
+**MODERATE, FILTER, OR CURATE ADULT CONTENT WITH CLARIFAI’S NSFW MODEL**
+
+- blog: [http://blog.clarifai.com/moderate-filter-or-curate-adult-content-with-clarifais-nsfw-model/#.VzVhM-yECZY](http://blog.clarifai.com/moderate-filter-or-curate-adult-content-with-clarifais-nsfw-model/#.VzVhM-yECZY)
+
+**WHAT CONVOLUTIONAL NEURAL NETWORKS LOOK AT WHEN THEY SEE NUDITY**
+
+- blog: [http://blog.clarifai.com/what-convolutional-neural-networks-see-at-when-they-see-nudity#.VzVh_-yECZY](http://blog.clarifai.com/what-convolutional-neural-networks-see-at-when-they-see-nudity#.VzVh_-yECZY)
+
+## Image Reconstruction
+
+**Context Encoders: Feature Learning by Inpainting (CVPR 2016)**
+
+![](http://www.cs.berkeley.edu/~pathak/context_encoder/resources/result_fig.jpg)
+
+- project page: [http://www.cs.berkeley.edu/~pathak/context_encoder/](http://www.cs.berkeley.edu/~pathak/context_encoder/)
+- arxiv: [https://arxiv.org/abs/1604.07379](https://arxiv.org/abs/1604.07379)
+- github: [https://github.com/pathak22/context-encoder](https://github.com/pathak22/context-encoder)
+
+## Image Super-Resolution
+
+**Image Super-Resolution Using Deep Convolutional Networks(Microsoft Research)**
+
+- paper: [http://arxiv.org/abs/1501.00092](http://arxiv.org/abs/1501.00092)
+- project: [http://mmlab.ie.cuhk.edu.hk/projects/SRCNN.html](http://mmlab.ie.cuhk.edu.hk/projects/SRCNN.html)
+
+**Learning a Deep Convolutional Network for Image Super-Resolution**
+
+- Baidu-pan: [http://pan.baidu.com/s/1c0k0wRu](http://pan.baidu.com/s/1c0k0wRu)
+
+**Shepard Convolutional Neural Networks**
+
+![](/assets/cnn-materials/comic_bicubic_x3.png)  ![](/assets/cnn-materials/comic_shcnn_x3.png) <br>
+Bicubic VS. Shepard CNN
+
+- paper: [https://papers.nips.cc/paper/5774-shepard-convolutional-neural-networks.pdf](https://papers.nips.cc/paper/5774-shepard-convolutional-neural-networks.pdf)
+- github: [https://github.com/jimmy-ren/vcnn_double-bladed/tree/master/applications/Shepard_CNN](https://github.com/jimmy-ren/vcnn_double-bladed/tree/master/applications/Shepard_CNN)
+
+## Image Haze Removal
+
+**DehazeNet: An End-to-End System for Single Image Haze Removal**
+
+- arxiv: [http://arxiv.org/abs/1601.07661](http://arxiv.org/abs/1601.07661)
+
+## Blur Detection and Removal
+
+**Learning to Deblur**
+
+- arxiv: [http://arxiv.org/abs/1406.7444](http://arxiv.org/abs/1406.7444)
+
+**Learning a Convolutional Neural Network for Non-uniform Motion Blur Removal**
+
+- arxiv: [http://arxiv.org/abs/1503.00593](http://arxiv.org/abs/1503.00593)
+
+## Saliency Prediction
+
+This task involves predicting the salient regions of an image given by human eye fixations.
+
+**Large-scale optimization of hierarchical features for saliency prediction in natural images**
+
+- paper: [http://coxlab.org/pdfs/cvpr2014_vig_saliency.pdf](http://coxlab.org/pdfs/cvpr2014_vig_saliency.pdf)
+
+**Predicting Eye Fixations using Convolutional Neural Networks**
+
+- paper: [http://www.escience.cn/system/file?fileId=72648](http://www.escience.cn/system/file?fileId=72648)
+
+**DeepFix: A Fully Convolutional Neural Network for predicting Human Eye Fixations**
+
+- arxiv: [http://arxiv.org/abs/1510.02927](http://arxiv.org/abs/1510.02927)
+
+**DeepSaliency: Multi-Task Deep Neural Network Model for Salient Object Detection**
+
+- arxiv: [http://arxiv.org/abs/1510.05484](http://arxiv.org/abs/1510.05484)
+
+**SuperCNN: A Superpixelwise Convolutional Neural Network for Salient Object Detection**
+
+![](http://www.shengfenghe.com/uploads/1/5/1/3/15132160/445461979.png)
+
+- paper: [www.shengfenghe.com/supercnn-a-superpixelwise-convolutional-neural-network-for-salient-object-detection.html](www.shengfenghe.com/supercnn-a-superpixelwise-convolutional-neural-network-for-salient-object-detection.html)
+
+**Shallow and Deep Convolutional Networks for Saliency Prediction**
+
+- arxiv: [http://arxiv.org/abs/1603.00845](http://arxiv.org/abs/1603.00845)
+- github: [https://github.com/imatge-upc/saliency-2016-cvpr](https://github.com/imatge-upc/saliency-2016-cvpr)
+
 # Deep Learning’s Accuracy
 
 - blog: [http://deeplearning4j.org/accuracy.html](http://deeplearning4j.org/accuracy.html)
@@ -501,7 +769,7 @@ with fast exact probabilistic inference over many layers."
 - author: Yann LeCun, Yoshua Bengio & Geoffrey Hinton
 - paper: [http://www.cs.toronto.edu/~hinton/absps/NatureDeepReview.pdf](http://www.cs.toronto.edu/~hinton/absps/NatureDeepReview.pdf)
 
-**Understanding and Predicting Image Memorability at a Large Scale (MIT. ICCV2015)**
+**Understanding and Predicting Image Memorability at a Large Scale (MIT. ICCV 2015)**
 
 - homepage: [http://memorability.csail.mit.edu/](http://memorability.csail.mit.edu/)
 - paper: [https://people.csail.mit.edu/khosla/papers/iccv2015_khosla.pdf](https://people.csail.mit.edu/khosla/papers/iccv2015_khosla.pdf)
@@ -572,11 +840,11 @@ with fast exact probabilistic inference over many layers."
 
  - arxiv: [http://arxiv.org/abs/1603.06318](http://arxiv.org/abs/1603.06318)
  
- **A guide to convolution arithmetic for deep learning**
+**A guide to convolution arithmetic for deep learning**
  
  - arxiv: [http://arxiv.org/abs/1603.07285](http://arxiv.org/abs/1603.07285)
  
- **Degrees of Freedom in Deep Neural Networks**
+**Degrees of Freedom in Deep Neural Networks**
  
 - arxiv: [http://arxiv.org/abs/1603.09260](http://arxiv.org/abs/1603.09260)
 
@@ -618,10 +886,6 @@ with fast exact probabilistic inference over many layers."
 - project: [http://people.cs.uchicago.edu/~larsson/fractalnet/](http://people.cs.uchicago.edu/~larsson/fractalnet/)
 - arxiv: [http://arxiv.org/abs/1605.07648](http://arxiv.org/abs/1605.07648)
 
-**An Analysis of Deep Neural Network Models for Practical Applications**
-
-- arxiv: [http://arxiv.org/abs/1605.07678](http://arxiv.org/abs/1605.07678)
-
 **Newtonian Image Understanding: Unfolding the Dynamics of Objects in Static Images**
 
 ![](http://allenai.org/images/projects/plato_newton.png?cb=1466683222538)
@@ -654,6 +918,20 @@ with fast exact probabilistic inference over many layers."
 
 - paper: [http://arxiv.org/abs/1412.7525](http://arxiv.org/abs/1412.7525)
 - code: [https://github.com/donghyunlee/dtp](https://github.com/donghyunlee/dtp)
+
+## CNN with Computer Vision
+
+**End-to-End Integration of a Convolutional Network, Deformable Parts Model and Non-Maximum Suppression**
+
+- arXiv: [http://arxiv.org/abs/1411.5309](http://arxiv.org/abs/1411.5309)
+
+**A convnet for non-maximum suppression**
+
+- arXiv: [http://arxiv.org/abs/1511.06437](http://arxiv.org/abs/1511.06437)
+
+**A Taxonomy of Deep Convolutional Neural Nets for Computer Vision**
+
+- arxiv: [http://arxiv.org/abs/1601.06615](http://arxiv.org/abs/1601.06615)
 
 # Projects
 
@@ -717,6 +995,21 @@ We also include one pre-trained model using a custom convolutional network."
 
 - homepage: [http://www.gabrieleangeletti.com/](http://www.gabrieleangeletti.com/)
 - github: [https://github.com/blackecho/Deep-Learning-TensorFlow](https://github.com/blackecho/Deep-Learning-TensorFlow)
+
+**Fast Multi-threaded VGG 19 Feature Extractor**
+
+- github: [https://github.com/coreylynch/vgg-19-feature-extractor](https://github.com/coreylynch/vgg-19-feature-extractor)
+
+**Live demo of neural network classifying images**
+
+![](/assets/cnn-materials/nn_classify_images_live_demo.jpg)
+
+[http://ml4a.github.io/dev/demos/cifar_confusion.html#](http://ml4a.github.io/dev/demos/cifar_confusion.html#)
+
+**mojo cnn: c++ convolutional neural network**
+
+- intro: the fast and easy header only c++ convolutional neural network package
+- github: [https://github.com/gnawice/mojo-cnn](https://github.com/gnawice/mojo-cnn)
 
 # Readings and Questions
 

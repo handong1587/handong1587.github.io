@@ -71,6 +71,10 @@ date: 2015-10-09
 
 - arXiv: [http://arxiv.org/abs/1604.07102](http://arxiv.org/abs/1604.07102)
 
+**Pose-Aware Face Recognition in the Wild**
+
+- paper: [www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Masi_Pose-Aware_Face_Recognition_CVPR_2016_paper.pdf](www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Masi_Pose-Aware_Face_Recognition_CVPR_2016_paper.pdf)
+
 # Projects
 
 **clmtrackr: Javascript library for precise tracking of facial features via Constrained Local Models**

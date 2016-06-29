@@ -1,7 +1,7 @@
 ---
 layout: post
 category: deep_learning
-title: Image Recognition
+title: Recognition
 date: 2015-10-09
 ---
 
@@ -69,6 +69,18 @@ date: 2015-10-09
 **DeepFood: Deep Learning-Based Food Image Recognition for Computer-Aided Dietary Assessment**
 
 - arxiv: [http://arxiv.org/abs/1606.05675](http://arxiv.org/abs/1606.05675)
+
+**Im2Calories: towards an automated mobile vision food diary**
+
+- intro: recognize the contents of your meal from a single image, then predict its nutritional contents, such as calories
+- paper: [http://www.cs.ubc.ca/~murphyk/Papers/im2calories_iccv15.pdf](http://www.cs.ubc.ca/~murphyk/Papers/im2calories_iccv15.pdf)
+
+### Instrument Recognition
+
+**Automatic Instrument Recognition in Polyphonic Music Using Convolutional Neural Networks**
+
+- arxiv: [http://arxiv.org/abs/1511.05520](http://arxiv.org/abs/1511.05520)
+- github: [https://github.com/glennq/instrument-recognition](https://github.com/glennq/instrument-recognition)
 
 # Scene Recognition
 

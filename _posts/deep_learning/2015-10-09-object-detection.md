@@ -394,13 +394,18 @@ MSCOCO 2015 test:
 
 # Object Proposal
 
+## DeepProposal
+
 **DeepProposal: Hunting Objects by Cascading Deep Convolutional Layers**
 
 - arxiv: [http://arxiv.org/abs/1510.04445](http://arxiv.org/abs/1510.04445)
 - github: [https://github.com/aghodrati/deepproposal](https://github.com/aghodrati/deepproposal)
 
+## DeepMask
+
 **Learning to Segment Object Candidates (DeepMask)**
 
+- intro: learning segmentation proposals
 - arxiv: [http://arxiv.org/abs/1506.06204](http://arxiv.org/abs/1506.06204)
 - github: [https://github.com/abbypa/NNProject_DeepMask](https://github.com/abbypa/NNProject_DeepMask)
 
@@ -415,6 +420,8 @@ MSCOCO 2015 test:
 **Weakly Supervised Object Localization with Multi-fold Multiple Instance Learning**
 
 - arxiv: [http://arxiv.org/abs/1503.00949](http://arxiv.org/abs/1503.00949)
+
+## LocNet
 
 **LocNet: Improving Localization Accuracy for Object Detection**
 

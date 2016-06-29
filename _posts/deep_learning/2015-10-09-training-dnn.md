@@ -349,6 +349,10 @@ date: 2015-10-09
 
 - github: [https://github.com/ShaharKatz/Caffe-Data-Augmentation](https://github.com/ShaharKatz/Caffe-Data-Augmentation)
 
+**Image Augmentation for Deep Learning With Keras**
+
+- blog: [http://machinelearningmastery.com/image-augmentation-deep-learning-keras/](http://machinelearningmastery.com/image-augmentation-deep-learning-keras/)
+
 # Low Numerical Precision
 
 **Training deep neural networks with low precision multiplications (ICLR 2015)**

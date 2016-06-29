@@ -112,7 +112,7 @@ which encodes useful class information rather than individual units (feature act
 
 **Adversarial Machines: Fooling A.Is (and turn everyone into a Manga)**
 
-<img src="/assets/dl-materials/adversarial_machines_pipe.png" />
+![](/assets/dl-materials/adversarial_machines_pipe.png)
 
 [https://medium.com/@samim/adversarial-machines-998d8362e996#.iv3muefgt](https://medium.com/@samim/adversarial-machines-998d8362e996#.iv3muefgt)
 

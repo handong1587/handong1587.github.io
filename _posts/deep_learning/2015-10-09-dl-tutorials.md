@@ -41,7 +41,7 @@ date: 2015-10-09
 
 [http://www.toptal.com/machine-learning/an-introduction-to-deep-learning-from-perceptrons-to-deep-networks](http://www.toptal.com/machine-learning/an-introduction-to-deep-learning-from-perceptrons-to-deep-networks)
 
-**Deep Neural Networks(with Python code)**
+**Deep Neural Networks (with Python code)**
 
 - paper: [http://scholarbank.nus.edu.sg/bitstream/handle/10635/120564/DeepNeuralNetworks.pdf?sequence=1](http://scholarbank.nus.edu.sg/bitstream/handle/10635/120564/DeepNeuralNetworks.pdf?sequence=1)
 
@@ -98,7 +98,7 @@ date: 2015-10-09
 - Part 3: [http://www.andreykurenkov.com/writing/a-brief-history-of-neural-nets-and-deep-learning-part-3/](http://www.andreykurenkov.com/writing/a-brief-history-of-neural-nets-and-deep-learning-part-3/)
 - Part 4: [http://www.andreykurenkov.com/writing/a-brief-history-of-neural-nets-and-deep-learning-part-4/](http://www.andreykurenkov.com/writing/a-brief-history-of-neural-nets-and-deep-learning-part-4/)
 
-**Deep Neural Networks— An Overview**
+**Deep Neural Networks — An Overview**
 
 [https://medium.com/@asjad/deep-neural-networks-an-overview-480112b12a13#.i7apzmnso](https://medium.com/@asjad/deep-neural-networks-an-overview-480112b12a13#.i7apzmnso)
 
@@ -113,10 +113,6 @@ date: 2015-10-09
 **summerschool2015: Slides and exercises for the Deep Learning Summer School 2015 programming tutorials**
 
 - github: [https://github.com/mila-udem/summerschool2015](https://github.com/mila-udem/summerschool20150
-
-**Understanding Convolution in Deep Learning**
-
-- blog: [http://timdettmers.com/2015/03/26/convolution-deep-learning/](http://timdettmers.com/2015/03/26/convolution-deep-learning/)
 
 **BI Lab Deep Learning Tutorial**
 
@@ -133,3 +129,60 @@ date: 2015-10-09
 **A Practical Introduction to Deep Learning with Caffe and Python**
 
 - blog: [http://adilmoujahid.com/posts/2016/06/introduction-deep-learning-python-caffe/](http://adilmoujahid.com/posts/2016/06/introduction-deep-learning-python-caffe/)
+
+**Notes on Convolutional Neural Networks**
+
+- homepage: [http://cogprints.org/5869/](http://cogprints.org/5869/)
+- paper: [http://cogprints.org/5869/1/cnn_tutorial.pdf](http://cogprints.org/5869/1/cnn_tutorial.pdf)
+
+**Convolutional Networks**
+
+[http://deeplearning4j.org/convolutionalnets.html](http://deeplearning4j.org/convolutionalnets.html)
+
+**Exploring convolutional neural networks with DL4J**
+
+- blog: [http://brooksandrew.github.io/simpleblog/articles/convolutional-neural-network-training-with-dl4j/](http://brooksandrew.github.io/simpleblog/articles/convolutional-neural-network-training-with-dl4j/)
+
+**Understanding Convolutional Neural Networks**
+
+- arxiv: [http://arxiv.org/abs/1605.09081](http://arxiv.org/abs/1605.09081)
+
+**Laws, Sausages and ConvNets**
+
+![](http://www.trivialorwrong.com/assets/laws-sausages-and-convnets_files/convnet-example.png)
+
+- blog: [http://www.trivialorwrong.com/2016/06/01/laws-sausages-and-convnets.html](http://www.trivialorwrong.com/2016/06/01/laws-sausages-and-convnets.html)
+
+## Convolution
+
+**Convolution in Caffe: a memo**
+
+- blog: [https://github.com/Yangqing/caffe/wiki/Convolution-in-Caffe:-a-memo](https://github.com/Yangqing/caffe/wiki/Convolution-in-Caffe:-a-memo)
+
+**我对卷积的理解**
+
+![](https://sfault-image.b0.upaiyun.com/151/531/1515312697-56f91edbf29d6_articlex)
+
+- blog: [http://mengqi92.github.io/2015/10/06/convolution/](http://mengqi92.github.io/2015/10/06/convolution/)
+- blog: [https://segmentfault.com/a/1190000004706582](https://segmentfault.com/a/1190000004706582)
+
+**An Analysis of Convolution for Inference**
+
+[http://www.slideshare.net/nervanasys/an-analysis-of-convolution-for-inference](http://www.slideshare.net/nervanasys/an-analysis-of-convolution-for-inference)
+
+**Understanding Convolution in Deep Learning**
+
+- blog: [http://timdettmers.com/2015/03/26/convolution-deep-learning/](http://timdettmers.com/2015/03/26/convolution-deep-learning/)
+
+**A guide to convolution arithmetic for deep learning**
+
+- arxiv: [http://arxiv.org/abs/1603.07285](http://arxiv.org/abs/1603.07285)
+- github: [https://github.com/vdumoulin/conv_arithmetic](https://github.com/vdumoulin/conv_arithmetic)
+
+## Backpropagation
+
+**Convolutional Neural Networks backpropagation: from intuition to derivation**
+
+![](https://grzegorzgwardys.files.wordpress.com/2016/01/convolution-mlp-mapping.png?w=640)
+
+- blog: [https://grzegorzgwardys.wordpress.com/2016/04/22/8/](https://grzegorzgwardys.wordpress.com/2016/04/22/8/)

@@ -272,6 +272,53 @@ Compressed model is less than 500KB
 
 - paper: [http://www.cse.cuhk.edu.hk/leojia/papers/portrait_eg16.pdf](http://www.cse.cuhk.edu.hk/leojia/papers/portrait_eg16.pdf)
 
+## Image Colorization
+
+**Deep Colorization**
+
+- paper: [http://www.cs.cityu.edu.hk/~qiyang/publications/iccv-15.pdf](http://www.cs.cityu.edu.hk/~qiyang/publications/iccv-15.pdf)
+
+**Learning Large-Scale Automatic Image Colorization**
+
+- paper: [http://www.cv-foundation.org/openaccess/content_iccv_2015/papers/Deshpande_Learning_Large-Scale_Automatic_ICCV_2015_paper.pdf](http://www.cv-foundation.org/openaccess/content_iccv_2015/papers/Deshpande_Learning_Large-Scale_Automatic_ICCV_2015_paper.pdf)
+
+**Learning Representations for Automatic Colorization**
+
+![](http://people.cs.uchicago.edu/~larsson/colorization/overview.png)
+
+- homepage: [http://people.cs.uchicago.edu/~larsson/colorization/](http://people.cs.uchicago.edu/~larsson/colorization/)
+- arxiv: [http://arxiv.org/abs/1603.06668](http://arxiv.org/abs/1603.06668)
+- github: [https://github.com/gustavla/autocolorize](https://github.com/gustavla/autocolorize)
+
+**Colorful Image Colorization**
+
+![](http://richzhang.github.io/colorization/resources/images/teaser3.jpg)
+
+- project page: [http://richzhang.github.io/colorization/](http://richzhang.github.io/colorization/)
+- arxiv: [http://arxiv.org/abs/1603.08511](http://arxiv.org/abs/1603.08511)
+
+**Automatic Colorization (Tensorflow + VGG)**
+
+![](http://tinyclouds.org/colorize/best/6.jpg)
+
+- blog: [http://tinyclouds.org/colorize/](http://tinyclouds.org/colorize/)
+
+**colornet: Neural Network to colorize grayscale images**
+
+[https://github.com/pavelgonchar/colornet](https://github.com/pavelgonchar/colornet)
+
+**Let there be Color!: Joint End-to-end Learning of Global and Local Image Priors for Automatic Image Colorization with Simultaneous Classification (SIGGRAPH 2016)**
+
+![](http://hi.cs.waseda.ac.jp/~iizuka/projects/colorization/images/model.png)
+
+- homepage: [http://hi.cs.waseda.ac.jp/~iizuka/projects/colorization/](http://hi.cs.waseda.ac.jp/~iizuka/projects/colorization/)
+- paper: [http://hi.cs.waseda.ac.jp/~iizuka/projects/colorization/data/colorization_sig2016.pdf](http://hi.cs.waseda.ac.jp/~iizuka/projects/colorization/data/colorization_sig2016.pdf)
+- github(Torch7): [https://github.com/satoshiiizuka/siggraph2016_colorization](https://github.com/satoshiiizuka/siggraph2016_colorization)
+
+**Convolutional autoencoder to colorize greyscale images**
+
+- github: [https://github.com/YerevaNN/neural-colorizer](https://github.com/YerevaNN/neural-colorizer)
+
 # Sounds
 
 **Visually Indicated Sounds**
@@ -447,6 +494,14 @@ Compressed model is less than 500KB
 ![](/assets/dl-materials/tensorflow-deepq-example.gif)
 
 - github: [https://github.com/nivwusquorum/tensorflow-deepq](https://github.com/nivwusquorum/tensorflow-deepq)
+
+**Poker-CNN: A Pattern Learning Strategy for Making Draws and Bets in Poker Games Using Convolutional Networks**
+
+- arxiv: [http://arxiv.org/abs/1509.06731](http://arxiv.org/abs/1509.06731)
+- paper: [http://colinraffel.com/publications/aaai2016poker.pdf](http://colinraffel.com/publications/aaai2016poker.pdf)
+- github: [https://github.com/moscow25/deep_draw](https://github.com/moscow25/deep_draw)
+- slides: [https://drive.google.com/file/d/0B5eOIUHA0khiMjN1YnEtZHMwams/view](https://drive.google.com/file/d/0B5eOIUHA0khiMjN1YnEtZHMwams/view)
+- slides: [http://pan.baidu.com/s/1nu5zpZ7](http://pan.baidu.com/s/1nu5zpZ7)
 
 # Courses
 
