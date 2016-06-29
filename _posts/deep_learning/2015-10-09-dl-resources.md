@@ -153,30 +153,6 @@ date: 2015-10-09
 - arxiv: [http://arxiv.org/abs/1606.02228](http://arxiv.org/abs/1606.02228)
 - github: [https://github.com/ducha-aiki/caffenet-benchmark](https://github.com/ducha-aiki/caffenet-benchmark)
 
-# Tensor
-
-**Tensorizing Neural Networks (TensorNet)**
-
-- paper: [http://arxiv.org/abs/1509.06569v1](http://arxiv.org/abs/1509.06569v1)
-- github(Matlab+Theano+Lasagne): [https://github.com/Bihaqo/TensorNet](https://github.com/Bihaqo/TensorNet)
-- github(TensorFlow): [https://github.com/timgaripov/TensorNet-TF](https://github.com/timgaripov/TensorNet-TF)
-
-**On the Expressive Power of Deep Learning: A Tensor Analysis**
-
-- paper: [http://arxiv.org/abs/1509.05009](http://arxiv.org/abs/1509.05009)
-
-**Convolutional neural networks with low-rank regularization**
-
-- arxiv: [http://arxiv.org/abs/1511.06067](http://arxiv.org/abs/1511.06067)
-- github: [https://github.com/chengtaipu/lowrankcnn](https://github.com/chengtaipu/lowrankcnn)
-
-**Tensor methods for training neural networks**
-
-- homepage: [http://newport.eecs.uci.edu/anandkumar/#home](http://newport.eecs.uci.edu/anandkumar/#home)
-- youtube: [https://www.youtube.com/watch?v=B4YvhcGaafw](https://www.youtube.com/watch?v=B4YvhcGaafw)
-- slides: [http://newport.eecs.uci.edu/anandkumar/slides/Strata-NY.pdf](http://newport.eecs.uci.edu/anandkumar/slides/Strata-NY.pdf)
-- talks: [http://newport.eecs.uci.edu/anandkumar/#talks](http://newport.eecs.uci.edu/anandkumar/#talks)
-
 # Deep Learning And Bayesian
 
 **Scalable Bayesian Optimization Using Deep Neural Networks (ICML 2015)**
@@ -768,6 +744,10 @@ This task involves predicting the salient regions of an image given by human eye
 
 - author: Yann LeCun, Yoshua Bengio & Geoffrey Hinton
 - paper: [http://www.cs.toronto.edu/~hinton/absps/NatureDeepReview.pdf](http://www.cs.toronto.edu/~hinton/absps/NatureDeepReview.pdf)
+
+**On the Expressive Power of Deep Learning: A Tensor Analysis**
+
+- paper: [http://arxiv.org/abs/1509.05009](http://arxiv.org/abs/1509.05009)
 
 **Understanding and Predicting Image Memorability at a Large Scale (MIT. ICCV 2015)**
 

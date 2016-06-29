@@ -116,6 +116,7 @@ to decompose it into the multiplications of thinned dense matrices"
 **Convolutional neural networks with low-rank regularization**
 
 - arxiv: [http://arxiv.org/abs/1511.06067](http://arxiv.org/abs/1511.06067)
+- github: [https://github.com/chengtaipu/lowrankcnn](https://github.com/chengtaipu/lowrankcnn)
 
 **Quantized Convolutional Neural Networks for Mobile Devices (Q-CNN)**
 
