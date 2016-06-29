@@ -88,13 +88,6 @@ extract saptio-temporal features to represent the video using the CNNs."
 
 - arxiv: [http://arxiv.org/abs/1605.03324](http://arxiv.org/abs/1605.03324)
 
-**Detecting events and key actors in multi-person videos (CVPR 2016)**
-
-![](http://static.leiphone.com/uploads/new/article/740_740/201606/57710e90ef416.png)
-
-- arxiv: [http://arxiv.org/abs/1511.02917](http://arxiv.org/abs/1511.02917)
-- blog: [http://www.leiphone.com/news/201606/l1TKIRFLO3DUFNNu.html](http://www.leiphone.com/news/201606/l1TKIRFLO3DUFNNu.html)
-
 **Anticipating Visual Representations from Unlabeled Video**
 
 - paper: [http://web.mit.edu/vondrick/prediction.pdf](http://web.mit.edu/vondrick/prediction.pdf)
