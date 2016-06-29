@@ -412,6 +412,33 @@ with fast exact probabilistic inference over many layers."
 
 - arxiv: [http://arxiv.org/abs/1605.08512](http://arxiv.org/abs/1605.08512)
 
+## Spatial Transformer Networks
+
+**Spatial Transformer Networks (NIPS 2015)**
+
+- arxiv: [http://arxiv.org/abs/1506.02025](http://arxiv.org/abs/1506.02025)
+- gitxiv: [http://gitxiv.com/posts/5WTXTLuEA4Hd8W84G/spatial-transformer-networks](http://gitxiv.com/posts/5WTXTLuEA4Hd8W84G/spatial-transformer-networks)
+- github: [https://github.com/daerduoCarey/SpatialTransformerLayer](https://github.com/daerduoCarey/SpatialTransformerLayer)
+- github: [https://github.com/qassemoquab/stnbhwd](https://github.com/qassemoquab/stnbhwd)
+- github: [https://github.com/skaae/transformer_network](https://github.com/skaae/transformer_network)
+- github(Caffe): [https://github.com/happynear/SpatialTransformerLayer](https://github.com/happynear/SpatialTransformerLayer)
+- caffe-issue: [https://github.com/BVLC/caffe/issues/3114](https://github.com/BVLC/caffe/issues/3114)
+- code: [https://lasagne.readthedocs.org/en/latest/modules/layers/special.html#lasagne.layers.TransformerLayer](https://lasagne.readthedocs.org/en/latest/modules/layers/special.html#lasagne.layers.TransformerLayer)
+- ipn(Lasagne): [http://nbviewer.jupyter.org/github/Lasagne/Recipes/blob/master/examples/spatial_transformer_network.ipynb](http://nbviewer.jupyter.org/github/Lasagne/Recipes/blob/master/examples/spatial_transformer_network.ipynb)
+- notes: [https://www.evernote.com/shard/s189/sh/ad8a38de-9e98-4e06-b09e-574bd62893ff/32f72798c095dd7672f4cb017a32d9b4](https://www.evernote.com/shard/s189/sh/ad8a38de-9e98-4e06-b09e-574bd62893ff/32f72798c095dd7672f4cb017a32d9b4)
+- youtube: [https://www.youtube.com/watch?v=6NOQC_fl1hQ](https://www.youtube.com/watch?v=6NOQC_fl1hQ)
+
+**The power of Spatial Transformer Networks**
+
+![](https://raw.githubusercontent.com/moodstocks/gtsrb.torch/master/resources/traffic-signs.png)
+
+- blog: [http://torch.ch/blog/2015/09/07/spatial_transformers.html](http://torch.ch/blog/2015/09/07/spatial_transformers.html)
+- github: [https://github.com/moodstocks/gtsrb.torch](https://github.com/moodstocks/gtsrb.torch)
+
+**Recurrent Spatial Transformer Networks**
+
+- paper: [http://arxiv.org/abs/1509.05329](http://arxiv.org/abs/1509.05329)
+
 # Deep Learning’s Accuracy
 
 - blog: [http://deeplearning4j.org/accuracy.html](http://deeplearning4j.org/accuracy.html)
@@ -437,22 +464,6 @@ with fast exact probabilistic inference over many layers."
 
 - author: Yann LeCun, Yoshua Bengio & Geoffrey Hinton
 - paper: [http://www.cs.toronto.edu/~hinton/absps/NatureDeepReview.pdf](http://www.cs.toronto.edu/~hinton/absps/NatureDeepReview.pdf)
-
-## STDP
-
-**A biological gradient descent for prediction through a combination of STDP and homeostatic plasticity**
-
-- arxiv: [http://arxiv.org/abs/1206.4812](http://arxiv.org/abs/1206.4812)
-
-**An objective function for STDP(Yoshua Bengio)**
-
-- arxiv: [http://arxiv.org/abs/1509.05936](http://arxiv.org/abs/1509.05936)
-
-**Towards a Biologically Plausible Backprop**
-
-- arxiv: [http://arxiv.org/abs/1602.05179](http://arxiv.org/abs/1602.05179)
-
-- - -
 
 **Understanding and Predicting Image Memorability at a Large Scale (MIT. ICCV2015)**
 
@@ -582,6 +593,31 @@ with fast exact probabilistic inference over many layers."
 - homepage: [http://allenai.org/plato/newtonian-understanding/](http://allenai.org/plato/newtonian-understanding/)
 - arxiv: [http://arxiv.org/abs/1511.04048](http://arxiv.org/abs/1511.04048)
 - github: [https://github.com/roozbehm/newtonian](https://github.com/roozbehm/newtonian)
+
+## STDP
+
+**A biological gradient descent for prediction through a combination of STDP and homeostatic plasticity**
+
+- arxiv: [http://arxiv.org/abs/1206.4812](http://arxiv.org/abs/1206.4812)
+
+**An objective function for STDP(Yoshua Bengio)**
+
+- arxiv: [http://arxiv.org/abs/1509.05936](http://arxiv.org/abs/1509.05936)
+
+**Towards a Biologically Plausible Backprop**
+
+- arxiv: [http://arxiv.org/abs/1602.05179](http://arxiv.org/abs/1602.05179)
+
+## Target Propagation
+
+**How Auto-Encoders Could Provide Credit Assignment in Deep Networks via Target Propagation (Yoshua Bengio)**
+
+- paper: [http://arxiv.org/abs/1407.7906](http://arxiv.org/abs/1407.7906)
+
+**Difference Target Propagation**
+
+- paper: [http://arxiv.org/abs/1412.7525](http://arxiv.org/abs/1412.7525)
+- code: [https://github.com/donghyunlee/dtp](https://github.com/donghyunlee/dtp)
 
 # Projects
 

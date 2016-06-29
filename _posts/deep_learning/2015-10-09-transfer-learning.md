@@ -7,7 +7,7 @@ date: 2015-10-09
 
 # Papers
 
-**How transferable are features in deep neural networks?((NIPS 2014)**
+**How transferable are features in deep neural networks? (NIPS 2014)**
 
 - arXiv: [http://arxiv.org/abs/1411.1792](http://arxiv.org/abs/1411.1792)
 

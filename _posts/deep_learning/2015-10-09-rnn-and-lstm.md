@@ -110,6 +110,10 @@ date: 2015-10-09
 
 - arxiv: [http://arxiv.org/abs/1605.07154](http://arxiv.org/abs/1605.07154)
 
+**Explaining and illustrating orthogonal initialization for recurrent neural networks**
+
+- blog: [http://smerity.com/articles/2016/orthogonal_init.html](http://smerity.com/articles/2016/orthogonal_init.html)
+
 # Learn To Execute Programs
 
 **Learning to Execute**

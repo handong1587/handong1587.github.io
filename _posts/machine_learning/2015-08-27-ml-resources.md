@@ -299,6 +299,10 @@ Other awesome lists can be found in this [list](https://github.com/sindresorhus/
 
 # Recommendation System
 
+**Human Curation and Convnets: Powering Item-to-Item Recommendations on Pinterest**
+
+- paper: [https://engineering.pinterest.com/sites/engineering/files/article/fields/field_image/human-curation-convnets%20%281%29.pdf](https://engineering.pinterest.com/sites/engineering/files/article/fields/field_image/human-curation-convnets%20%281%29.pdf)
+
 **Top-N Recommendation with Novel Rank Approximation**
 
 - arxiv: [http://arxiv.org/abs/1602.07783](http://arxiv.org/abs/1602.07783)

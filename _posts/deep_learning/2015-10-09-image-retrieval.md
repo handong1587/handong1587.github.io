@@ -31,7 +31,10 @@ date: 2015-10-09
 
 **Visual Search at Pinterest**
 
+![](https://engineering.pinterest.com/sites/engineering/files/article/fields/field_image/Visual%20Search%20Tool%20-%20GIF.gif)
+
 - arxiv: [http://arxiv.org/abs/1505.07647](http://arxiv.org/abs/1505.07647)
+- blog: [https://engineering.pinterest.com/blog/introducing-new-way-visually-search-pinterest](https://engineering.pinterest.com/blog/introducing-new-way-visually-search-pinterest)
 
 **Cross-domain Image Retrieval with a Dual Attribute-aware Ranking Network**
 
@@ -71,6 +74,14 @@ date: 2015-10-09
 - homepage: [http://imatge-upc.github.io/retrieval-2016-deepvision/](http://imatge-upc.github.io/retrieval-2016-deepvision/)
 - arxiv: [http://arxiv.org/abs/1604.08893](http://arxiv.org/abs/1604.08893)
 - github: [https://github.com/imatge-upc/retrieval-2016-deepvision](https://github.com/imatge-upc/retrieval-2016-deepvision)
+
+## DeepBit
+
+**Learning Compact Binary Descriptors with Unsupervised Deep Neural Networks (DeepBit. CVPR 2016)**
+
+![](/assets/image_retrieval/DeepBit.jpg)
+
+- paper: [http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Lin_Learning_Compact_Binary_CVPR_2016_paper.pdf](http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Lin_Learning_Compact_Binary_CVPR_2016_paper.pdf)
 
 # Tutorious
 

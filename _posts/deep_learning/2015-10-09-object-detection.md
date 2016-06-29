@@ -454,3 +454,10 @@ We additionally provide an implementation of the [ReInspect](https://github.com/
 **Convolutional Neural Networks for Object Detection**
 
 [http://rnd.azoft.com/convolutional-neural-networks-object-detection/](http://rnd.azoft.com/convolutional-neural-networks-object-detection/)
+
+**Introducing automatic object detection to visual search (Pinterest)**
+
+![](https://engineering.pinterest.com/sites/engineering/files/Visual%20Search%20V1%20-%20Video.mp4)
+
+- keywords: Faster R-CNN
+- blog: [https://engineering.pinterest.com/blog/introducing-automatic-object-detection-visual-search](https://engineering.pinterest.com/blog/introducing-automatic-object-detection-visual-search)
