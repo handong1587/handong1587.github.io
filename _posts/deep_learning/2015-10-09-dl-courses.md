@@ -92,7 +92,7 @@ date: 2015-10-09
 - homepage: [http://cs231n.stanford.edu/](http://cs231n.stanford.edu/)
 - homepage: [http://vision.stanford.edu/teaching/cs231n/index.html](http://vision.stanford.edu/teaching/cs231n/index.html)
 - syllabus: [http://vision.stanford.edu/teaching/cs231n/syllabus.html](http://vision.stanford.edu/teaching/cs231n/syllabus.html)
-- github.io: [http://cs231n.github.io/](http://cs231n.github.io/)
+- course notes: [http://cs231n.github.io/](http://cs231n.github.io/)
 - youtube: [https://www.youtube.com/watch?v=NfnWJUyUJYU&feature=youtu.be](https://www.youtube.com/watch?v=NfnWJUyUJYU&feature=youtu.be)
 - mirror: [http://pan.baidu.com/s/1pKsTivp](http://pan.baidu.com/s/1pKsTivp)
 - mirror: [http://pan.baidu.com/s/1c2wR8dy](http://pan.baidu.com/s/1c2wR8dy)
