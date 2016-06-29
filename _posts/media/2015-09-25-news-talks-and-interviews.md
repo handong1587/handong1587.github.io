@@ -75,6 +75,10 @@ date: 2015-09-25
 
 [https://medium.com/@ieldanr/from-terminator-to-deep-dreaming-by-google-ecfcfbe2f985#.ousw59ygp](https://medium.com/@ieldanr/from-terminator-to-deep-dreaming-by-google-ecfcfbe2f985#.ousw59ygp)
 
+**Google researchers teach AIs to see the important parts of images — and tell you about them**
+
+- blog: [https://techcrunch.com/2016/06/28/google-researchers-teach-ais-to-see-the-important-parts-of-images-and-tell-you-about-them/](https://techcrunch.com/2016/06/28/google-researchers-teach-ais-to-see-the-important-parts-of-images-and-tell-you-about-them/)
+
 # AI
 
 **The Top A.I. Breakthroughs of 2015**

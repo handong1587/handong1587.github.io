@@ -433,6 +433,12 @@ date: 2015-10-09
 
 - blog: [https://shapeofdata.wordpress.com/2016/06/04/lstms/](https://shapeofdata.wordpress.com/2016/06/04/lstms/)
 
+## Optimizing RNN (Baidu Silicon Valley AI Lab)
+
+**Optimizing RNN performance**
+
+- blog: [http://svail.github.io/rnn_perf/](http://svail.github.io/rnn_perf/)
+
 **Optimizing RNNs with Differentiable Graphs**
 
 - blog: [http://svail.github.io/diff_graphs/](http://svail.github.io/diff_graphs/)

@@ -23,7 +23,8 @@ date: 2015-10-09
 
 **Detecting events and key actors in multi-person videos (CVPR 2016)**
 
-![](http://static.leiphone.com/uploads/new/article/740_740/201606/57710e90ef416.png)
+![](https://tctechcrunch2011.files.wordpress.com/2016/06/basketball_actors.jpg)
 
 - arxiv: [http://arxiv.org/abs/1511.02917](http://arxiv.org/abs/1511.02917)
+- paper: [http://120.52.73.10/www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Ramanathan_Detecting_Events_and_CVPR_2016_paper.pdf](http://120.52.73.10/www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Ramanathan_Detecting_Events_and_CVPR_2016_paper.pdf)
 - blog: [http://www.leiphone.com/news/201606/l1TKIRFLO3DUFNNu.html](http://www.leiphone.com/news/201606/l1TKIRFLO3DUFNNu.html)

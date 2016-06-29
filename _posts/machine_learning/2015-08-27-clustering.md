@@ -5,6 +5,18 @@ title: Clustering Algorithms Resources
 date: 2015-08-27
 ---
 
+# K-means
+
+# Stream Clustering
+
+# Neural Network-based Clustering
+
+# Spectral Clustering
+
+# Hierarchical Clustering
+
+# Online Clustering
+
 # Papers
 
 **On Clustering Validation Techniques (2001)**
@@ -131,6 +143,10 @@ it surveys the widely known clustering algorithms in a comparative way"
 **Spectral Clustering: A quick overview**
 
 [https://charlesmartin14.wordpress.com/2012/10/09/spectral-clustering/](https://charlesmartin14.wordpress.com/2012/10/09/spectral-clustering/)
+
+**Why K-Means is not always a good idea**
+
+[https://datasciencemadesimpler.wordpress.com/2016/03/05/why-k-means-is-not-always-a-good-idea/](https://datasciencemadesimpler.wordpress.com/2016/03/05/why-k-means-is-not-always-a-good-idea/)
 
 # Codes
 
