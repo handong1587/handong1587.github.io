@@ -277,6 +277,12 @@ MSCOCO 2015 test:
 
 - arxiv: [http://arxiv.org/abs/1602.08405](http://arxiv.org/abs/1602.08405)
 
+## HyperNet
+
+**HyperNet: Towards Accurate Region Proposal Generation and Joint Object Detection**
+
+- arxiv: [http://arxiv.org/abs/1604.00600](http://arxiv.org/abs/1604.00600)
+
 **A MultiPath Network for Object Detection**
 
 - arxiv: [http://arxiv.org/abs/1604.02135](http://arxiv.org/abs/1604.02135)

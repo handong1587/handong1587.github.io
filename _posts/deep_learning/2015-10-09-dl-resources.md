@@ -672,6 +672,10 @@ Bicubic VS. Shepard CNN
 - paper: [https://papers.nips.cc/paper/5774-shepard-convolutional-neural-networks.pdf](https://papers.nips.cc/paper/5774-shepard-convolutional-neural-networks.pdf)
 - github: [https://github.com/jimmy-ren/vcnn_double-bladed/tree/master/applications/Shepard_CNN](https://github.com/jimmy-ren/vcnn_double-bladed/tree/master/applications/Shepard_CNN)
 
+**Accurate Image Super-Resolution Using Very Deep Convolutional Networks**
+
+- arxiv: [http://arxiv.org/abs/1511.04587](http://arxiv.org/abs/1511.04587)
+
 ## Image Haze Removal
 
 **DehazeNet: An End-to-End System for Single Image Haze Removal**
