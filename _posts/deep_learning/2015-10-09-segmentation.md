@@ -7,7 +7,7 @@ date: 2015-10-09
 
 # Papers
 
-**Deep Joint Task Learning for Generic Object Extraction(NIPS2014)**
+**Deep Joint Task Learning for Generic Object Extraction (NIPS2014)**
 
 ![](http://vision.sysu.edu.cn/vision_sysu/wp-content/uploads/2013/05/%E5%B0%8FQ%E6%88%AA%E5%9B%BE-20141019095211.png)
 
@@ -62,12 +62,15 @@ date: 2015-10-09
 ![](https://raw.githubusercontent.com/daijifeng001/MNC/master/data/readme_img/example.png)
 
 - intro: "1st-place winner of MS COCO 2015 segmentation competition"
+- keywords: RoI warping
 - arxiv: [http://arxiv.org/abs/1512.04412](http://arxiv.org/abs/1512.04412)
 - github: [https://github.com/daijifeng001/MNC](https://github.com/daijifeng001/MNC)
 
 **Bridging Category-level and Instance-level Semantic Image Segmentation**
 
 - arxiv: [http://arxiv.org/abs/1605.06885](http://arxiv.org/abs/1605.06885)
+
+## DeepCut
 
 **DeepCut: Object Segmentation from Bounding Box Annotations using Convolutional Neural Networks**
 
@@ -90,7 +93,9 @@ date: 2015-10-09
 - github: [https://github.com/MarvinTeichmann/tensorflow-fcn](https://github.com/MarvinTeichmann/tensorflow-fcn)
 - notes: [http://zhangliliang.com/2014/11/28/paper-note-fcn-segment/](http://zhangliliang.com/2014/11/28/paper-note-fcn-segment/)
 
-**Semantic Image Segmentation with Deep Convolutional Nets and Fully Connected CRFs("DeepLab")**
+## DeepLab
+
+**Semantic Image Segmentation with Deep Convolutional Nets and Fully Connected CRFs ("DeepLab")**
 
 - intro: "adopted a more simplistic approach for maintaining resolution by removing
 the stride in the layers of FullConvNet, wherever possible. 
@@ -102,12 +107,12 @@ the per-pixel classification task is modeled as a CRF inference problem."
 - arXiv: [http://arxiv.org/abs/1412.7062](http://arxiv.org/abs/1412.7062)
 - github: [https://bitbucket.org/deeplab/deeplab-public/](https://bitbucket.org/deeplab/deeplab-public/)
 
-**Weakly- and Semi-Supervised Learning of a DCNN for Semantic Image Segmentation("DeepLab")**
+**Weakly- and Semi-Supervised Learning of a DCNN for Semantic Image Segmentation ("DeepLab")**
 
 - arXiv: [http://arxiv.org/abs/1502.02734](http://arxiv.org/abs/1502.02734)
 - bitbucket: [https://bitbucket.org/deeplab/deeplab-public/](https://bitbucket.org/deeplab/deeplab-public/)
 
-**Conditional Random Fields as Recurrent Neural Networks(ICCV2015. Oxford/Stanford/Baidu)**
+**Conditional Random Fields as Recurrent Neural Networks (ICCV2015. Oxford / Stanford / Baidu)**
 
 ![](http://www.robots.ox.ac.uk/~szheng/Res_CRFRNN/CRFasRNN.jpg)
 
@@ -123,30 +128,19 @@ using the stochastic gradient descent (SGD) algorithm to obtain fine pixel-level
 - github: [https://github.com/torrvision/crfasrnn](https://github.com/torrvision/crfasrnn)
 - demo: [http://www.robots.ox.ac.uk/~szheng/crfasrnndemo](http://www.robots.ox.ac.uk/~szheng/crfasrnndemo)
 
+## DeconvNet
+
 **Learning Deconvolution Network for Semantic Segmentation (DeconvNet. ICCV 2015)**
 
 - arXiv: [http://arxiv.org/abs/1505.04366](http://arxiv.org/abs/1505.04366)
 - github: [https://github.com/HyeonwooNoh/DeconvNet](https://github.com/HyeonwooNoh/DeconvNet)
 
+## SegNet
+
 **SegNet: A Deep Convolutional Encoder-Decoder Architecture for Robust Semantic Pixel-Wise Labelling**
 
 - arXiv: [http://arxiv.org/abs/1505.07293](http://arxiv.org/abs/1505.07293)
 - github: [https://github.com/alexgkendall/caffe-segnet](https://github.com/alexgkendall/caffe-segnet)
-
-**Decoupled Deep Neural Network for Semi-supervised Semantic Segmentation(NIPS 2015)**
-
-![](http://cvlab.postech.ac.kr/research/decouplednet/images/overall.png)
-
-- paper: [http://arxiv.org/abs/1506.04924](http://arxiv.org/abs/1506.04924)
-- project[paper+code]: [http://cvlab.postech.ac.kr/research/decouplednet/](http://cvlab.postech.ac.kr/research/decouplednet/)
-- github: [https://github.com/HyeonwooNoh/DecoupledNet](https://github.com/HyeonwooNoh/DecoupledNet)
-
-**Semantic Image Segmentation via Deep Parsing Network**
-
-![](http://personal.ie.cuhk.edu.hk/~lz013/projects/dpn/intro.png)
-
-- paper: [http://arxiv.org/abs/1509.02634](http://arxiv.org/abs/1509.02634)
-- homepage: [http://personal.ie.cuhk.edu.hk/~lz013/projects/DPN.html](http://personal.ie.cuhk.edu.hk/~lz013/projects/DPN.html)
 
 **SegNet: A Deep Convolutional Encoder-Decoder Architecture for Image Segmentation**
 
@@ -161,6 +155,21 @@ using the stochastic gradient descent (SGD) algorithm to obtain fine pixel-level
 
 - youtube: [https://www.youtube.com/watch?v=xfNYAly1iXo](https://www.youtube.com/watch?v=xfNYAly1iXo)
 - video: [http://pan.baidu.com/s/1gdUzDlD](http://pan.baidu.com/s/1gdUzDlD)
+
+**Decoupled Deep Neural Network for Semi-supervised Semantic Segmentation (NIPS 2015)**
+
+![](http://cvlab.postech.ac.kr/research/decouplednet/images/overall.png)
+
+- paper: [http://arxiv.org/abs/1506.04924](http://arxiv.org/abs/1506.04924)
+- project[paper+code]: [http://cvlab.postech.ac.kr/research/decouplednet/](http://cvlab.postech.ac.kr/research/decouplednet/)
+- github: [https://github.com/HyeonwooNoh/DecoupledNet](https://github.com/HyeonwooNoh/DecoupledNet)
+
+**Semantic Image Segmentation via Deep Parsing Network**
+
+![](http://personal.ie.cuhk.edu.hk/~lz013/projects/dpn/intro.png)
+
+- paper: [http://arxiv.org/abs/1509.02634](http://arxiv.org/abs/1509.02634)
+- homepage: [http://personal.ie.cuhk.edu.hk/~lz013/projects/DPN.html](http://personal.ie.cuhk.edu.hk/~lz013/projects/DPN.html)
 
 **Multi-Scale Context Aggregation by Dilated Convolutions**
 
@@ -182,6 +191,8 @@ using the stochastic gradient descent (SGD) algorithm to obtain fine pixel-level
 **Convolutional Random Walk Networks for Semantic Image Segmentation**
 
 - arxiv: [http://arxiv.org/abs/1605.07681](http://arxiv.org/abs/1605.07681)
+
+## ENet
 
 **ENet: A Deep Neural Network Architecture for Real-Time Semantic Segmentation**
 
