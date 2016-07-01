@@ -37,6 +37,12 @@ date: 2016-04-03
 
 [https://blogs.msdn.microsoft.com/vcblog/2016/03/31/cc-extension-for-visual-studio-code/](https://blogs.msdn.microsoft.com/vcblog/2016/03/31/cc-extension-for-visual-studio-code/)
 
+# Download Links
+
+**Visual C++ Redistributable Packages for Visual Studio 2013**
+
+[https://www.microsoft.com/en-us/download/details.aspx?id=40784](https://www.microsoft.com/en-us/download/details.aspx?id=40784)
+
 # News
 
 **Why Microsoft needed to make Windows run Linux software**
