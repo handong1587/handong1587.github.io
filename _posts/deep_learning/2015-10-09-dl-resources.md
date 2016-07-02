@@ -509,6 +509,10 @@ with fast exact probabilistic inference over many layers."
 - project page: [http://www.openu.ac.il/home/hassner/projects/cnn_agegender/](http://www.openu.ac.il/home/hassner/projects/cnn_agegender/)
 - github: [https://github.com/GilLevi/AgeGenderDeepLearning](https://github.com/GilLevi/AgeGenderDeepLearning)
 
+**Recurrent Face Aging**
+
+- paper: [http://120.52.73.9/www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Wang_Recurrent_Face_Aging_CVPR_2016_paper.pdf](http://120.52.73.9/www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Wang_Recurrent_Face_Aging_CVPR_2016_paper.pdf)
+
 ## Emotion Recognition
 
 **Real-time emotion recognition for gaming using deep convolutional network features**
@@ -587,6 +591,11 @@ with fast exact probabilistic inference over many layers."
 - keywords: CNN, structured prediction, RNN, human pose estimation
 - arxiv: [http://arxiv.org/abs/1605.02346](http://arxiv.org/abs/1605.02346)
 
+**DeeperCut: A Deeper, Stronger, and Faster Multi-Person Pose Estimation Model**
+
+- arxiv: [http://arxiv.org/abs/1605.03170](http://arxiv.org/abs/1605.03170)
+- github: [https://github.com/eldar/deepcut-cnn](https://github.com/eldar/deepcut-cnn)
+
 ## Sentiment Prediction
 
 **From Pixels to Sentiment: Fine-tuning CNNs for Visual Sentiment Prediction**
@@ -653,9 +662,15 @@ with fast exact probabilistic inference over many layers."
 - arxiv: [https://arxiv.org/abs/1604.07379](https://arxiv.org/abs/1604.07379)
 - github: [https://github.com/pathak22/context-encoder](https://github.com/pathak22/context-encoder)
 
+## Image Restoration
+
+**Image Restoration Using Convolutional Auto-encoders with Symmetric Skip Connections**
+
+- arxiv: [http://arxiv.org/abs/1606.08921](http://arxiv.org/abs/1606.08921)
+
 ## Image Super-Resolution
 
-**Image Super-Resolution Using Deep Convolutional Networks(Microsoft Research)**
+**Image Super-Resolution Using Deep Convolutional Networks (Microsoft Research)**
 
 - paper: [http://arxiv.org/abs/1501.00092](http://arxiv.org/abs/1501.00092)
 - project: [http://mmlab.ie.cuhk.edu.hk/projects/SRCNN.html](http://mmlab.ie.cuhk.edu.hk/projects/SRCNN.html)
@@ -672,9 +687,17 @@ Bicubic VS. Shepard CNN
 - paper: [https://papers.nips.cc/paper/5774-shepard-convolutional-neural-networks.pdf](https://papers.nips.cc/paper/5774-shepard-convolutional-neural-networks.pdf)
 - github: [https://github.com/jimmy-ren/vcnn_double-bladed/tree/master/applications/Shepard_CNN](https://github.com/jimmy-ren/vcnn_double-bladed/tree/master/applications/Shepard_CNN)
 
+**Deeply-Recursive Convolutional Network for Image Super-Resolution**
+
+- arxiv: [http://arxiv.org/abs/1511.04491](http://arxiv.org/abs/1511.04491)
+
 **Accurate Image Super-Resolution Using Very Deep Convolutional Networks**
 
 - arxiv: [http://arxiv.org/abs/1511.04587](http://arxiv.org/abs/1511.04587)
+
+**Super-Resolution with Deep Convolutional Sufficient Statistics**
+
+- arxiv: [http://arxiv.org/abs/1511.05666](http://arxiv.org/abs/1511.05666)
 
 ## Image Haze Removal
 

@@ -116,3 +116,11 @@ date: 2015-10-09
 **ShiDianNao: Shifting Vision Processing Closer to the Sensor**
 
 [http://lap.epfl.ch/files/content/sites/lap/files/shared/publications/DuJun15_ShiDianNaoShiftingVisionProcessingCloserToTheSensor_ISCA15.pdf](http://lap.epfl.ch/files/content/sites/lap/files/shared/publications/DuJun15_ShiDianNaoShiftingVisionProcessingCloserToTheSensor_ISCA15.pdf)
+
+# Blogs
+
+**Emerging "Universal" FPGA, GPU Platform for Deep Learning**
+
+![](http://www.nextplatform.com/wp-content/uploads/2016/06/CNNLabProg.png)
+
+- blog: [http://www.nextplatform.com/2016/06/29/universal-fpga-gpu-platform-deep-learning/](http://www.nextplatform.com/2016/06/29/universal-fpga-gpu-platform-deep-learning/)

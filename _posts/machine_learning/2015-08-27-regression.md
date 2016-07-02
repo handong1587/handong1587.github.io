@@ -65,3 +65,7 @@ date: 2015-08-27
 - part I: [https://blog.clevertap.com/a-brief-primer-on-linear-regression-part-i/](https://blog.clevertap.com/a-brief-primer-on-linear-regression-part-i/)
 - part II: [https://blog.clevertap.com/a-brief-primer-on-linear-regression-part-ii/](https://blog.clevertap.com/a-brief-primer-on-linear-regression-part-ii/) 
 - part III: [https://blog.clevertap.com/a-brief-primer-on-linear-regression-part-iii/](https://blog.clevertap.com/a-brief-primer-on-linear-regression-part-iii/)
+
+**What is Softmax regression and how is it related to Logistic regression?**
+
+-github: [https://github.com/rasbt/python-machine-learning-book/blob/master/faq/softmax_regression.md](https://github.com/rasbt/python-machine-learning-book/blob/master/faq/softmax_regression.md)

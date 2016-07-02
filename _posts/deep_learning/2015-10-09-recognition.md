@@ -102,3 +102,7 @@ date: 2015-10-09
 
 - intro: "Discover the current state of the art in objects classification."
 - blog: [http://rodrigob.github.io/are_we_there_yet/build/classification_datasets_results.html](http://rodrigob.github.io/are_we_there_yet/build/classification_datasets_results.html)
+
+**Object Recognition with Convolutional Neural Networks in the Keras Deep Learning Library**
+
+[http://machinelearningmastery.com/object-recognition-convolutional-neural-networks-keras-deep-learning-library/](http://machinelearningmastery.com/object-recognition-convolutional-neural-networks-keras-deep-learning-library/)

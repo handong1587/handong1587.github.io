@@ -11,6 +11,10 @@ date: 2015-10-09
 
 [http://datascienceatthecommandline.com/](http://datascienceatthecommandline.com/)
 
+**Data Science Challenges**
+
+[http://inverseprobability.com/2016/07/01/data-science-challenges](http://inverseprobability.com/2016/07/01/data-science-challenges)
+
 # Tutorials
 
 **Intelligent Data Analysis**

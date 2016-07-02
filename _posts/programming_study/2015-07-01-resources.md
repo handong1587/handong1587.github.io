@@ -32,6 +32,38 @@ date: 2015-07-01
 - intro: Learn how to make your application lifecycle faster and more predictable for both developers and the operations team.
 - homepage: [https://www.edx.org/course/introduction-devops-microsoft-dev212x](https://www.edx.org/course/introduction-devops-microsoft-dev212x)
 
+# C/C++
+
+**Templatized C++ Command Line Parser Library**
+
+- intro: TCLAP is a small, flexible library 
+that provides a simple interface for defining and accessing command line arguments
+- homepage: [http://tclap.sourceforge.net/](http://tclap.sourceforge.net/)
+- manual: [http://tclap.sourceforge.net/manual.html](http://tclap.sourceforge.net/manual.html)
+
+**C/C++ tip: How to get the process resident set size (physical memory use)**
+
+- blog: [http://nadeausoftware.com/articles/2012/07/c_c_tip_how_get_process_resident_set_size_physical_memory_use](http://nadeausoftware.com/articles/2012/07/c_c_tip_how_get_process_resident_set_size_physical_memory_use)
+
+**Adcanced Linux Programming**
+
+- book: [http://advancedlinuxprogramming.com/](http://advancedlinuxprogramming.com/)
+
+**The Ultimate Question of Programming, Refactoring, and Every**
+
+- intro: The book covers 42 recommendations about programming in C/C++. 
+It contains real examples with errors and the author gives explanations of how these bugs could be avoided. — Alex Astva
+- gitbook: [https://www.gitbook.com/book/alexastva/the-ultimate-question-of-programming-refactoring-/details](https://www.gitbook.com/book/alexastva/the-ultimate-question-of-programming-refactoring-/details)
+- pdf: [https://www.gitbook.com/download/pdf/book/alexastva/the-ultimate-question-of-programming-refactoring-](https://www.gitbook.com/download/pdf/book/alexastva/the-ultimate-question-of-programming-refactoring-)
+
+**openFrameworks: an open source C++ toolkit for creative coding.**
+
+- homepage: [http://openframeworks.cc/](http://openframeworks.cc/)
+
+**Awesome C++: A curated list of awesome C/C++ frameworks, libraries, resources, and shiny things**
+
+- homepage: [https://cpp.libhunt.com/](https://cpp.libhunt.com/)
+
 # Python
 
 **Python Computing for Data Science: An Undergraduate/Graduate Seminar Course at UC Berkeley (AY 250)**
@@ -82,6 +114,22 @@ which continually runs and visualizes your code as you type
 - github: [https://github.com/kanaka/mal](https://github.com/kanaka/mal)
 - guide: [https://github.com/kanaka/mal/blob/master/process/guide.md](https://github.com/kanaka/mal/blob/master/process/guide.md)
 
+**Build Your Own Lisp: Learn C and build your own programming language in 1000 lines of code!**
+
+[http://www.buildyourownlisp.com/](http://www.buildyourownlisp.com/)
+
+# Rust
+
+**RustPrimer**
+
+- github: [https://github.com/rustcc/RustPrimer](https://github.com/rustcc/RustPrimer)
+
+# JavaScript
+
+**JavaScript on Board: With Maps, Dynamic Arrays and Objects out of the box. Just plug in and start creating in seconds**
+
+[http://www.espruino.com/](http://www.espruino.com/)
+
 # CUDA
 
 **Implementing Run-length encoding in CUDA**
@@ -106,6 +154,62 @@ which continually runs and visualizes your code as you type
 
 - blog: [http://infocreeds.com/top-10-coding-challenges-websites/](http://infocreeds.com/top-10-coding-challenges-websites/)
 
+**Hackerrank - A great collection of questions to solidify your programming skills**
+
+[https://www.hackerrank.com/domains](https://www.hackerrank.com/domains)
+
+## Code of Honor Series
+
+**Tough times on the road to Starcraft**
+
+- blog: [http://www.codeofhonor.com/blog/tough-times-on-the-road-to-starcraft](http://www.codeofhonor.com/blog/tough-times-on-the-road-to-starcraft)
+
+**StarCraft: Orcs in space go down in flames**
+
+- blog: [http://www.codeofhonor.com/blog/starcraft-orcs-in-space-go-down-in-flames](http://www.codeofhonor.com/blog/starcraft-orcs-in-space-go-down-in-flames)
+
+**The StarCraft path-finding hack**
+
+- blog: [](http://www.codeofhonor.com/blog/the-starcraft-path-finding-hack)
+
+**The making of Warcraft**
+
+- part 1: [http://www.codeofhonor.com/blog/the-making-of-warcraft-part-1](http://www.codeofhonor.com/blog/the-making-of-warcraft-part-1)
+- part 2: [http://www.codeofhonor.com/blog/the-making-of-warcraft-part-2](http://www.codeofhonor.com/blog/the-making-of-warcraft-part-2)
+- part 3: [http://www.codeofhonor.com/blog/the-making-of-warcraft-part-3](http://www.codeofhonor.com/blog/the-making-of-warcraft-part-3)
+
+## Music and Coding
+
+![](/assets/programming_study/blogs/Lifestyle.jpg)
+
+**Music and Coding Part 1: Why listen while you work?**
+
+[https://blog.idrsolutions.com/2014/07/music-coding-part-1-listen-work/](https://blog.idrsolutions.com/2014/07/music-coding-part-1-listen-work/)
+
+**Music and Coding Part 2: What to listen to?**
+
+[https://blog.idrsolutions.com/2014/08/music-and-coding-part-2-listen/](https://blog.idrsolutions.com/2014/08/music-and-coding-part-2-listen/)
+
+**Music and Coding Part 3: How to listen to music**
+
+[https://blog.idrsolutions.com/2014/08/music-and-coding-part-3-listen-music/](https://blog.idrsolutions.com/2014/08/music-and-coding-part-3-listen-music/)
+
+# Programming
+
+**Why is Object-Oriented Programming Useful? (With a Role Playing Game Example)**
+
+[http://inventwithpython.com/blog/2014/12/02/why-is-object-oriented-programming-useful-with-an-role-playing-game-example](http://inventwithpython.com/blog/2014/12/02/why-is-object-oriented-programming-useful-with-an-role-playing-game-example)
+
+**Scraping NBA Play-by-Play Data with Scrapy & MongoDB**
+
+[http://blog.nycdatascience.com/students-work/scraping-nba-play-by-play-data-with-scrapy-mongodb/](http://blog.nycdatascience.com/students-work/scraping-nba-play-by-play-data-with-scrapy-mongodb/)
+
+# Debugging
+
+**Debugging with GDB: a real life example**
+
+- blog: [http://blog.0x972.info/?d=2015/09/09/09/19/14-debugging-with-gdb-a-real-life-example](http://blog.0x972.info/?d=2015/09/09/09/19/14-debugging-with-gdb-a-real-life-example)
+
 # Codes
 
 **The Archive of Interesting Code**
@@ -120,3 +224,203 @@ which continually runs and visualizes your code as you type
 
 - intro: Using Dijkstra's algorithm ("finding the shortest paths between nodes in a graph") to draw maps
 - github: [https://github.com/ibaaj/dijkstra-cartography](https://github.com/ibaaj/dijkstra-cartography)
+
+# Interesting Projects
+
+## Game
+
+**(Update: this repo has been taken down by Blizzard) StarCraft: HTML5 version for StarCraft game**
+
+![](/assets/programming_study/Starcraft_Demo.jpg)
+
+![](/assets/programming_study/Starcraft_Demo.gif)
+
+- project: [https://github.com/gloomyson/StarCraft](https://github.com/gloomyson/StarCraft)
+- news: [https://torrentfreak.com/blizzard-nukes-popular-html5-version-of-starcraft-game-151010/](https://torrentfreak.com/blizzard-nukes-popular-html5-version-of-starcraft-game-151010/)
+- news: [http://thenextweb.com/apps/2015/09/07/starcraft-now-works-in-the-browser-and-its-amazing/](http://thenextweb.com/apps/2015/09/07/starcraft-now-works-in-the-browser-and-its-amazing/)
+
+**The Brood War API**
+
+- project: [https://github.com/bwapi/bwapi](https://github.com/bwapi/bwapi)
+
+**CodeCombat: Multiplayer programming game for learning how to code**
+
+![](/assets/programming_study/CodeCombat_demo.png)
+
+![](/assets/programming_study/CodeCombat_example1.jpg)
+
+![](/assets/programming_study/CodeCombat_example2.jpg)
+
+- github: [https://github.com/codecombat/codecombat](https://github.com/codecombat/codecombat)
+- homepage: [http://codecombat.com/](http://codecombat.com/)
+- wiki: [https://github.com/codecombat/codecombat/wiki/Archmage-Home](https://github.com/codecombat/codecombat/wiki/Archmage-Home)
+
+**BrowserQuest: a HTML5/JavaScript multiplayer game experiment**
+
+![](/assets/programming_study/BrowserQuest_demo.jpg)
+
+- github: [https://github.com/mozilla/BrowserQuest](https://github.com/mozilla/BrowserQuest)
+- homepage: [http://browserquest.mozilla.org/](http://browserquest.mozilla.org/)
+
+**2048-AI**
+
+![](/assets/programming_study/2048.png)
+
+- demo: [http://ovolve.github.io/2048-AI/](http://ovolve.github.io/2048-AI/)
+- github: [https://github.com/ovolve/2048-AI](https://github.com/ovolve/2048-AI)
+- stackoverflow: [http://stackoverflow.com/questions/22342854/what-is-the-optimal-algorithm-for-the-game-2048](http://stackoverflow.com/questions/22342854/what-is-the-optimal-algorithm-for-the-game-2048)
+- zh-blog: [http://blogread.cn/it/article/6827?f=wb](http://blogread.cn/it/article/6827?f=wb)
+
+**The Berkeley Overmind Project**
+
+- intro: "The Overmind is an agent for playing StarCraft®: Brood War®, using [BWAPI](https://code.google.com/p/bwapi/)."
+- homepage: [http://overmind.cs.berkeley.edu/](http://overmind.cs.berkeley.edu/)
+
+**Spaceship.codes - A Game for Programmers**
+
+!()[https://fotino.me/content/images/2016/04/thrust-1.png]
+
+- intro: A programming game in which the user writes JavaScript code to 
+control a spaceship in order to complete some objective.
+[https://fotino.me/intro-to-space-ai/](https://fotino.me/intro-to-space-ai/)
+[https://github.com/rfotino/space-ai](https://github.com/rfotino/space-ai)
+
+**SnapSudoku: Extract and solve Sudoku from an image**
+
+![](https://camo.githubusercontent.com/b48905b57f007218604c23fdc244f9d876f67af4/68747470733a2f2f6c68332e676f6f676c6575736572636f6e74656e742e636f6d2f2d6854504e346d53444e69592f5677793855675463784e492f41414141414141414731632f6536376745395453414b517263642d4144486d41674f74754d4451506879437267434c63422f733530302f41667465722b50726570726f63657373696e672e706e67)
+
+- github: [https://github.com/prajwalkr/SnapSudoku](https://github.com/prajwalkr/SnapSudoku)
+
+## Editing
+
+**Latex to HTML5**
+
+- project: [https://github.com/smarr/latex-to-html5](https://github.com/smarr/latex-to-html5)
+
+**LaTeX handwritten symbol recognition: Detexify Backend Server implemented in Haskell**
+
+- demo: [http://detexify.kirelabs.org/classify.html](http://detexify.kirelabs.org/classify.html)
+- github: [https://github.com/kirel/detexify-hs-backend](https://github.com/kirel/detexify-hs-backend)
+
+**Enhancements for The official editor for Code in the Dark**
+
+![](https://cloud.githubusercontent.com/assets/688415/11440971/aadfae8e-9507-11e5-8aa0-0ecc87ca84b6.gif)
+
+- github: [https://github.com/codeinthedark/editor/pull/1)
+
+**activate-power-mode atom package**
+
+![](https://i.github-camo.com/b1d03b9b7a9d7dc9a32d1eab307b5378f8c59a7b/68747470733a2f2f636c6f75642e67697468756275736572636f6e74656e742e636f6d2f6173736574732f3638383431352f31313631353536352f31306631363435362d396336352d313165352d386166342d3236356630316663383361302e676966)
+
+- package: [https://atom.io/packages/activate-power-mode](https://atom.io/packages/activate-power-mode)
+
+**ActivatePowerMode: plugin for Xcode**
+
+![](https://raw.githubusercontent.com/poboke/ActivatePowerMode/master/Screenshots/about.gif)
+
+- github: [https://github.com/poboke/ActivatePowerMode](https://github.com/poboke/ActivatePowerMode)
+
+**Texter**
+
+- intro: Texter is a little javascript experiment that lets you explore your creativity by drawing with words. 
+- demo: [http://tholman.com/texter/](http://tholman.com/texter/)
+- github: [https://github.com/tholman/texter](https://github.com/tholman/texter)
+
+**PDFMiner: a tool for extracting information from PDF documents**
+
+- github: [https://github.com/euske/pdfminer/](https://github.com/euske/pdfminer/)
+
+## Painting
+
+**polygen: genetic algorithm for approximating an image with polygons (Golang)**
+
+![](https://raw.githubusercontent.com/armhold/polygen/master/images/starry.jpg)
+![](https://raw.githubusercontent.com/armhold/polygen/master/images/starry-50-polygons.png)
+
+- github: [https://github.com/armhold/polygen](https://github.com/armhold/polygen)
+
+**PyGraphArt: Some Python code to make GIFs from graph algos**
+
+![](https://raw.githubusercontent.com/dnlcrl/PyGraphArt/master/doc/bfs.gif)
+
+- github: [https://github.com/dnlcrl/PyGraphArt](https://github.com/dnlcrl/PyGraphArt)
+
+## Utilities
+
+**Python Gems: A collection of python scripts that solve interesting problems**
+
+- github: [https://github.com/RealHacker/python-gems](https://github.com/RealHacker/python-gems)
+
+**nude.js: Nudity detection with JavaScript and HTMLCanvas**
+
+- website: [http://www.patrick-wied.at/static/nudejs/](http://www.patrick-wied.at/static/nudejs/)
+- github: [https://github.com/pa7/nude.js](https://github.com/pa7/nude.js)
+
+**Hastily - A downloader of subtitles(Haskell)**
+
+[https://hackage.haskell.org/package/hastily](https://hackage.haskell.org/package/hastily)
+
+**nba-cli: Get NBA Data From The Command Line**
+
+![](https://camo.githubusercontent.com/782c2fcbc5de96d54ac8a2a866503c96f16a0d80/68747470733a2f2f692e696d6775722e636f6d2f364f43595239532e706e67)
+
+- github: [https://github.com/jaebradley/nba-cli](https://github.com/jaebradley/nba-cli)
+
+**Octotree: Code tree for GitHub and GitLab**
+
+![](https://raw.githubusercontent.com/buunguyen/octotree/master/docs/chrome-github.png)
+
+- github: [https://github.com/buunguyen/octotree](https://github.com/buunguyen/octotree)
+
+**coursera-dl-all**
+
+![](https://camo.githubusercontent.com/7bc2e3e4ba0fbc9f04d46fd136049cd682e27d82/687474703a2f2f7777772e696d6775722e636f6d2f485464303238422e706e67)
+
+- github: [https://github.com/Chillee/coursera-dl-all](https://github.com/Chillee/coursera-dl-all)
+
+## Multi-media
+
+**cmus — C* Music Player**
+
+![](https://cmus.github.io/cmus-2.4.3-osx.png)
+
+- website: [https://cmus.github.io/]
+- github: [https://github.com/cmus/cmus](https://github.com/cmus/cmus)
+
+**a2mp3 - anything2mp3**
+
+- github: [https://github.com/apfeltee/a2mp3](https://github.com/apfeltee/a2mp3)
+
+## Algorithm
+
+**Lean: a new open source theorem prover(Microsoft Research)**
+
+- website: [http://leanprover.github.io/](http://leanprover.github.io/)
+
+## Technology
+
+**RF-Capture: Capturing the Human Figure Through a Wall**
+
+![](http://rfcapture.csail.mit.edu/images/intro-figures.jpg)
+
+- project: [http://rfcapture.csail.mit.edu/](http://rfcapture.csail.mit.edu/)
+- paper: [http://rfcapture.csail.mit.edu/rfcapture-paper.pdf](http://rfcapture.csail.mit.edu/rfcapture-paper.pdf)
+
+**Stealing Keys from PCs using a Radio: Cheap Electromagnetic Attacks on Windowed Exponentiation**
+
+- homepage: [https://www.tau.ac.il/~tromer/radioexp/](https://www.tau.ac.il/~tromer/radioexp/)
+
+**A Windows 95 Simulator on Browser**
+
+[https://win95.ajf.me/win95.html](https://win95.ajf.me/win95.html)
+
+**eviltransform: Transform coordinate between earth(WGS-84) and mars in china(GCJ-02)**
+
+- github: [https://github.com/googollee/eviltransform](https://github.com/googollee/eviltransform)
+- blog("Why You Can't Trust GPS in China"): [http://www.travelandleisure.com/articles/digital-maps-skewed-china](http://www.travelandleisure.com/articles/digital-maps-skewed-china)
+
+## Others
+
+**Module 7: Introduction to D3.js**
+
+- github: [https://github.com/INFO-474/m7-d3-intro](https://github.com/INFO-474/m7-d3-intro)

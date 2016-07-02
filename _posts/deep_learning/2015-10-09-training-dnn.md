@@ -267,6 +267,13 @@ date: 2015-10-09
 
 - blog: [http://fastml.com/regularizing-neural-networks-with-dropout-and-with-dropconnect/](http://fastml.com/regularizing-neural-networks-with-dropout-and-with-dropconnect/)
 
+## DropNeuron
+
+**DropNeuron: Simplifying the Structure of Deep Neural Networks**
+
+- arxiv: [http://arxiv.org/abs/1606.07326](http://arxiv.org/abs/1606.07326)
+- github: [https://github.com/panweihit/DropNeuron](https://github.com/panweihit/DropNeuron)
+
 # Gradient Descent
 
 **Adaptive Subgradient Methods for Online Learning and Stochastic Optimization (AdaGrad)**

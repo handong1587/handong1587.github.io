@@ -153,6 +153,12 @@ date: 2015-10-09
 
 - blog: [http://www.trivialorwrong.com/2016/06/01/laws-sausages-and-convnets.html](http://www.trivialorwrong.com/2016/06/01/laws-sausages-and-convnets.html)
 
+**Convolutional Neural Networks (CNNs): An Illustrated Explanation**
+
+![](http://xrds.acm.org/blog/wp-content/uploads/2016/06/Figure_5.png)
+
+- blog: [http://xrds.acm.org/blog/2016/06/convolutional-neural-networks-cnns-illustrated-explanation/](http://xrds.acm.org/blog/2016/06/convolutional-neural-networks-cnns-illustrated-explanation/)
+
 ## Convolution
 
 **Convolution in Caffe: a memo**
@@ -178,6 +184,12 @@ date: 2015-10-09
 
 - arxiv: [http://arxiv.org/abs/1603.07285](http://arxiv.org/abs/1603.07285)
 - github: [https://github.com/vdumoulin/conv_arithmetic](https://github.com/vdumoulin/conv_arithmetic)
+
+**Going beyond full utilization: The inside scoop on Nervana’s Winograd kernels**
+
+![](https://www.nervanasys.com/wp-content/uploads/2016/06/wino_2b_filter_transform.png)
+
+- blog: [https://www.nervanasys.com/winograd-2/](https://www.nervanasys.com/winograd-2/)
 
 ## Backpropagation
 

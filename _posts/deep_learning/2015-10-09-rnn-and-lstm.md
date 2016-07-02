@@ -263,13 +263,6 @@ date: 2015-10-09
 - arXiv: [http://arxiv.org/abs/1511.06303](http://arxiv.org/abs/1511.06303)
 - github: [https://github.com/facebook/Conditional-character-based-RNN](https://github.com/facebook/Conditional-character-based-RNN)
 
-**Pixel Recurrent Neural Networks (Google DeepMind. ICML 2016 best paper)**
-
-- arxiv: [http://arxiv.org/abs/1601.06759](http://arxiv.org/abs/1601.06759)
-- github: [https://github.com/igul222/pixel_rnn](https://github.com/igul222/pixel_rnn)
-- notes(by Hugo Larochelle): [https://www.evernote.com/shard/s189/sh/fdf61a28-f4b6-491b-bef1-f3e148185b18/aba21367d1b3730d9334ed91d3250848](https://www.evernote.com/shard/s189/sh/fdf61a28-f4b6-491b-bef1-f3e148185b18/aba21367d1b3730d9334ed91d3250848)
-- video(by Hugo Larochelle): [https://www.periscope.tv/hugo_larochelle/1ypKdnMkjBnJW](https://www.periscope.tv/hugo_larochelle/1ypKdnMkjBnJW)
-
 **Long Short-Term Memory-Networks for Machine Reading**
 
 - arxiv: [http://arxiv.org/abs/1601.06733](http://arxiv.org/abs/1601.06733)
@@ -379,6 +372,10 @@ date: 2015-10-09
 
 - blog: [https://svail.github.io/persistent_rnns/](https://svail.github.io/persistent_rnns/)
 - github: [https://github.com/baidu-research/persistent-rnn](https://github.com/baidu-research/persistent-rnn)
+
+**min-char-rnn: Minimal character-level language model with a Vanilla Recurrent Neural Network, in Python/numpy**
+
+- github: [https://github.com/weixsong/min-char-rnn](https://github.com/weixsong/min-char-rnn)
 
 # Blogs
 

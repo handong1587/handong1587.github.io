@@ -58,3 +58,7 @@ date: 2015-08-27
 **Step by step Kaggle competition tutorial**
 
 [https://datanice.wordpress.com/2016/04/10/step-by-step-kaggle-competition-tutorial/](https://datanice.wordpress.com/2016/04/10/step-by-step-kaggle-competition-tutorial/)
+
+**Winton Kaggle Competition**
+
+[http://blog.nycdatascience.com/students-work/winton-kaggle-competition/](http://blog.nycdatascience.com/students-work/winton-kaggle-competition/)

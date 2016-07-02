@@ -55,6 +55,22 @@ date: 2015-07-01
 - github: [https://bost.ocks.org/mike/algorithms/](https://bost.ocks.org/mike/algorithms/)
 - video: [http://vimeo.com/112319901](http://vimeo.com/112319901)
 
+**Implementations of Algorithms & Datastructures from a Geek's Viewpoint**
+
+[http://www.geekviewpoint.com/](http://www.geekviewpoint.com/)
+
+**Z algorithm**
+
+[http://ivanyu.me/blog/2013/10/15/z-algorithm/](http://ivanyu.me/blog/2013/10/15/z-algorithm/)
+
+**Problem Solving with Algorithms and Data Structures (interactive Python online book)**
+
+[http://interactivepython.org/courselib/static/pythonds/index.html](http://interactivepython.org/courselib/static/pythonds/index.html)
+
+**Visualizing Algorithms**
+
+[http://bost.ocks.org/mike/algorithms/](http://bost.ocks.org/mike/algorithms/)
+
 # Codes
 
 **Bloofi: A java implementation of multidimensional Bloom filters**

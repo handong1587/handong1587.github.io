@@ -5,16 +5,6 @@ title: Neural Network
 date: 2015-08-27
 ---
 
-# Tutorials
-
-**A Step by Step Backpropagation Example**
-
-- blog: [http://mattmazur.com/2015/03/17/a-step-by-step-backpropagation-example/](http://mattmazur.com/2015/03/17/a-step-by-step-backpropagation-example/)
-
-**Artificial Neural Networks (ANN) Introduction**
-
-- blog: [https://annalyzin.wordpress.com/2016/03/13/how-do-computers-recognise-handwriting-using-artificial-neural-networks/](https://annalyzin.wordpress.com/2016/03/13/how-do-computers-recognise-handwriting-using-artificial-neural-networks/)
-
 # Papers
 
 **A Fast C++ Implementation of Neural Network Backpropagation Training Algorithm: Application to Bayesian Optimal Image Demosaicking**
@@ -34,6 +24,10 @@ date: 2015-08-27
 - paper: [https://github.com/mtomassoli/papers/blob/master/backprop.pdf](https://github.com/mtomassoli/papers/blob/master/backprop.pdf)
 
 # Blogs
+
+**Artificial Neural Networks (ANN) Introduction**
+
+- blog: [https://annalyzin.wordpress.com/2016/03/13/how-do-computers-recognise-handwriting-using-artificial-neural-networks/](https://annalyzin.wordpress.com/2016/03/13/how-do-computers-recognise-handwriting-using-artificial-neural-networks/)
 
 **Getting It Done - What I learnt from finishing the Neural Network Algorithm**
 
@@ -58,9 +52,23 @@ date: 2015-08-27
 
 [https://medium.com/@ivanliljeqvist/the-essence-of-artificial-neural-networks-5de300c995d6#.yk0kydmf8](https://medium.com/@ivanliljeqvist/the-essence-of-artificial-neural-networks-5de300c995d6#.yk0kydmf8)
 
+## Backpropagation
+
+**A Step by Step Backpropagation Example**
+
+- blog: [http://mattmazur.com/2015/03/17/a-step-by-step-backpropagation-example/](http://mattmazur.com/2015/03/17/a-step-by-step-backpropagation-example/)
+
 **Can you give a visual explanation for the back propagation algorithm for neural networks?**
 
 - github: [https://github.com/rasbt/python-machine-learning-book/blob/master/faq/visual-backpropagation.md](https://github.com/rasbt/python-machine-learning-book/blob/master/faq/visual-backpropagation.md)
+
+**一文弄懂神经网络中的反向传播法——BackPropagation**
+
+[http://www.cnblogs.com/charlotte77/p/5629865.html](http://www.cnblogs.com/charlotte77/p/5629865.html)
+
+**Visualize Algorithms based on the Backpropagation**
+
+- blog: [http://neupy.com/2015/07/04/visualize_backpropagation_algorithms.html#gradient-descent](http://neupy.com/2015/07/04/visualize_backpropagation_algorithms.html#gradient-descent)
 
 # Project
 

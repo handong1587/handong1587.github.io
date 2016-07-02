@@ -96,6 +96,14 @@ There are no right answers but it helps to understand their thoughts and researc
 
 - blog: [https://intellipaat.com/interview-question/python-interview-questions/](https://intellipaat.com/interview-question/python-interview-questions/)
 
+# Resumes
+
+**A very cool resume**
+
+![](/assets/programming_study/strml.net.png)
+
+[http://strml.net/](http://strml.net/)
+
 # Resources
 
 **Awesome Interviews: A curated awesome list of lists of interview questions**

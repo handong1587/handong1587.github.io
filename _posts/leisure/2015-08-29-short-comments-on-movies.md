@@ -147,3 +147,7 @@ Understanding the implications of what they're doing is equally as important.
 (2016-04-04) *Relatos salvajes (2014)*
 
 (2016-05-08) *Captain America: Civil War (2016)*
+
+(2016-06-28) *Pandorum (2009)*
+
+(2016-06-30) *Now You See Me 2 (2016)*: A gorgeous and yet rush movie
