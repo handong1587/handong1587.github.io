@@ -182,13 +182,21 @@ Compressed model is less than 500KB
 
 - github: [https://github.com/google/deepdream](https://github.com/google/deepdream)
 
+**cnn-vis: Use CNNs to generate images**
+
+- github: [https://github.com/jcjohnson/cnn-vis](https://github.com/jcjohnson/cnn-vis)
+
+**bat-country: A lightweight, extendible, easy to use Python package for deep dreaming and image generation with Caffe and CNNs**
+
+- github: [https://github.com/jrosebr1/bat-country](https://github.com/jrosebr1/bat-country)
+
 **DeepDreaming with TensorFlow**
 
 - ipn: [http://nbviewer.jupyter.org/github/tensorflow/tensorflow/blob/master/tensorflow/examples/tutorials/deepdream/deepdream.ipynb](http://nbviewer.jupyter.org/github/tensorflow/tensorflow/blob/master/tensorflow/examples/tutorials/deepdream/deepdream.ipynb)
 
 **deepdraw**
 
-- code: [https://github.com/auduno/deepdraw](https://github.com/auduno/deepdraw)
+- github: [https://github.com/auduno/deepdraw](https://github.com/auduno/deepdraw)
 
 **Understanding Deep Dreams**
 

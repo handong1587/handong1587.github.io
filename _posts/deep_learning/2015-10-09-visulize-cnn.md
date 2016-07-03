@@ -13,7 +13,7 @@ date: 2015-10-09
 
 **Visualizing and Understanding Convolutional Network**
 
-- paper: [http://arxiv.org/abs/1311.2901](http://arxiv.org/abs/1311.2901)
+- arxiv: [http://arxiv.org/abs/1311.2901](http://arxiv.org/abs/1311.2901)
 - slides: [https://courses.cs.washington.edu/courses/cse590v/14au/cse590v_dec5_DeepVis.pdf](https://courses.cs.washington.edu/courses/cse590v/14au/cse590v_dec5_DeepVis.pdf)
 - slides: [http://videolectures.net/site/normal_dl/tag=921098/eccv2014_zeiler_convolutional_networks_01.pdf](http://videolectures.net/site/normal_dl/tag=921098/eccv2014_zeiler_convolutional_networks_01.pdf)
 - video: [http://videolectures.net/eccv2014_zeiler_convolutional_networks/](http://videolectures.net/eccv2014_zeiler_convolutional_networks/)
@@ -107,15 +107,7 @@ date: 2015-10-09
 **Interactive Deep Neural Net Hallucinations**
 
 - project: [http://317070.github.io/Dream/](http://317070.github.io/Dream/)
-- code: [https://github.com/317070/Twitch-plays-LSD-neural-net](https://github.com/317070/Twitch-plays-LSD-neural-net)
-
-**cnn-vis**
-
-- code: [https://github.com/jcjohnson/cnn-vis](https://github.com/jcjohnson/cnn-vis)
-
-**bat-country**
-
-- code: [https://github.com/jrosebr1/bat-country](https://github.com/jrosebr1/bat-country)
+- github: [https://github.com/317070/Twitch-plays-LSD-neural-net](https://github.com/317070/Twitch-plays-LSD-neural-net)
 
 **torch-visbox**
 
@@ -133,13 +125,8 @@ date: 2015-10-09
 
 ![](/assets/vis-cnn/netscope.jpg)
 
-[http://ethereon.github.io/netscope/#/editor](http://ethereon.github.io/netscope/#/editor)
-
-**draw_convnet: Python script for illustrating Convolutional Neural Network (ConvNet)**
-
-![](https://raw.githubusercontent.com/gwding/draw_convnet/master/convnet_fig.png)
-
-- github: [https://github.com/gwding/draw_convnet](https://github.com/gwding/draw_convnet)
+- quickstart: [http://ethereon.github.io/netscope/quickstart.html](http://ethereon.github.io/netscope/quickstart.html)
+- demo: [http://ethereon.github.io/netscope/#/editor](http://ethereon.github.io/netscope/#/editor)
 
 # Blogs
 
