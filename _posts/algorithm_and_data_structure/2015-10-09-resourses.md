@@ -108,3 +108,9 @@ date: 2015-07-01
 **Solutions to Introduction to Algorithms**
 
 - github: [https://github.com/gzc/CLRS](https://github.com/gzc/CLRS)
+
+# Reading and Questions
+
+**What are the lesser known but useful data structures?**
+
+- stackoverflow: [http://stackoverflow.com/questions/500607/what-are-the-lesser-known-but-useful-data-structures](http://stackoverflow.com/questions/500607/what-are-the-lesser-known-but-useful-data-structures)
