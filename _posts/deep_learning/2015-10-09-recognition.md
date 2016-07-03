@@ -19,7 +19,7 @@ date: 2015-10-09
 **Delving Deep into Rectifiers: Surpassing Human-Level Performance on ImageNet Classification**
 
 - intro: ImageNet top-5 error: 4.94%
-- arXiv: [http://arxiv.org/abs/1502.01852](http://arxiv.org/abs/1502.01852)
+- arxiv: [http://arxiv.org/abs/1502.01852](http://arxiv.org/abs/1502.01852)
 - notes: [http://blog.csdn.net/happynear/article/details/45440811](http://blog.csdn.net/happynear/article/details/45440811)
 
 **Humans and deep networks largely agree on which kinds of variation make object recognition harder**

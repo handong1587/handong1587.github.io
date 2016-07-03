@@ -22,6 +22,8 @@ date: 2015-10-09
 - paper: [http://www.cs.toronto.edu/~ranzato/publications/DistBeliefNIPS2012_withAppendix.pdf](http://www.cs.toronto.edu/~ranzato/publications/DistBeliefNIPS2012_withAppendix.pdf)
 - slides: [http://admis.fudan.edu.cn/~yfhuang/files/LSDDN_slide.pdf](http://admis.fudan.edu.cn/~yfhuang/files/LSDDN_slide.pdf)
 
+## SparkNet
+
 **SparkNet: Training Deep Networks in Spark**
 
 - arXiv: [http://arxiv.org/abs/1511.06051](http://arxiv.org/abs/1511.06051)
@@ -40,16 +42,18 @@ date: 2015-10-09
 
 # Projects
 
+**Theano-MPI: a Theano-based Distributed Training Framework**
+
+- arxiv: [https://arxiv.org/abs/1605.08325](https://arxiv.org/abs/1605.08325)
+- github: [https://github.com/uoguelph-mlrg/Theano-MPI](https://github.com/uoguelph-mlrg/Theano-MPI)
+
+## CaffeOnSpark
+
 **CaffeOnSpark: Open Sourced for Distributed Deep Learning on Big Data Clusters (Yahoo)**
 
 - blog: [http://yahoohadoop.tumblr.com/post/139916563586/caffeonspark-open-sourced-for-distributed-deep](http://yahoohadoop.tumblr.com/post/139916563586/caffeonspark-open-sourced-for-distributed-deep)
 - github: [https://github.com/yahoo/CaffeOnSpark](https://github.com/yahoo/CaffeOnSpark)
 - youtube: [https://www.youtube.com/watch?v=bqj7nML-aHk](https://www.youtube.com/watch?v=bqj7nML-aHk)
-
-**Theano-MPI: a Theano-based Distributed Training Framework**
-
-- arxiv: [https://arxiv.org/abs/1605.08325](https://arxiv.org/abs/1605.08325)
-- github: [https://github.com/uoguelph-mlrg/Theano-MPI](https://github.com/uoguelph-mlrg/Theano-MPI)
 
 # Videos
 

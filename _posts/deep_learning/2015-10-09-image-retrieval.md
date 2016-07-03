@@ -22,7 +22,7 @@ date: 2015-10-09
 **Deep Learning of Binary Hash Codes for Fast Image Retrieval**
 
 - paper: [http://www.iis.sinica.edu.tw/~kevinlin311.tw/cvprw15.pdf](http://www.iis.sinica.edu.tw/~kevinlin311.tw/cvprw15.pdf)
-- code: [https://github.com/kevinlin311tw/caffe-cvprw15](https://github.com/kevinlin311tw/caffe-cvprw15)
+- github: [https://github.com/kevinlin311tw/caffe-cvprw15](https://github.com/kevinlin311tw/caffe-cvprw15)
 
 **Supervised Learning of Semantics-Preserving Hashing via Deep Neural Networks for Large-Scale Image Search (SSDH)**
 
@@ -83,7 +83,7 @@ date: 2015-10-09
 
 - paper: [http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Lin_Learning_Compact_Binary_CVPR_2016_paper.pdf](http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Lin_Learning_Compact_Binary_CVPR_2016_paper.pdf)
 
-# Tutorious
+# Tutorials
 
 **Deep Image Retrieval: Learning global representations for image search**
 

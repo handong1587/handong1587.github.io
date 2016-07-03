@@ -304,6 +304,7 @@ Compressed model is less than 500KB
 
 - project page: [http://richzhang.github.io/colorization/](http://richzhang.github.io/colorization/)
 - arxiv: [http://arxiv.org/abs/1603.08511](http://arxiv.org/abs/1603.08511)
+- github: [https://github.com/richzhang/colorization](https://github.com/richzhang/colorization)
 
 **Automatic Colorization (Tensorflow + VGG)**
 

@@ -39,6 +39,10 @@ date: 2016-04-03
 
 # Download Links
 
+**Visual C++ Redistributable for Visual Studio 2012 Update 4**
+
+[https://www.microsoft.com/en-us/download/details.aspx?id=30679](https://www.microsoft.com/en-us/download/details.aspx?id=30679)
+
 **Visual C++ Redistributable Packages for Visual Studio 2013**
 
 [https://www.microsoft.com/en-us/download/details.aspx?id=40784](https://www.microsoft.com/en-us/download/details.aspx?id=40784)

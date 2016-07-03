@@ -25,7 +25,7 @@ $CPPFLAGS += " -fPIC" unless $CPPFLAGS.split.include? "-rdynamic" or RUBY_PLATFO
 CPPFLAGS =  -DFD_SETSIZE=2048 -D_WIN32_WINNT=0x0501 -D__MINGW_USE_VC2005_COMPAT $(DEFS) $(cppflags) -Wall -g -rdynamic
 ```
 
-Somebody figures it out by change gcc compiler to version 4.2 (mine is 4.9.3).
+Somebody figures it out by changing gcc compiler to version 4.2 (mine is 4.9.3).
 For some reason the newer gcc version don't just ignore the -rdynamic flag, 
 which is only present for compiling on Linux and is not actually compatible with Windows and OS X. 
 
