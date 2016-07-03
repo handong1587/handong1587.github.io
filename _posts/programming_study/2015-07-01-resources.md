@@ -11,17 +11,9 @@ date: 2015-07-01
 
 [http://cmlakhan.github.io/courses/videos.html](http://cmlakhan.github.io/courses/videos.html)
 
-**Stanford CS243: Program Analysis and Optimization**
-
-[http://suif.stanford.edu/~courses/cs243/](http://suif.stanford.edu/~courses/cs243/)
-
 **CMU 15-814: Types and Programming Languages**
 
 [http://www.cs.cmu.edu/~rwh/courses/typesys/](http://www.cs.cmu.edu/~rwh/courses/typesys/)
-
-**MIT: Introduction to Algorithms**
-
-[http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/index.htm](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/index.htm)
 
 **Stanford: CS 97SI: Introduction to Programming Contests**
 
@@ -129,6 +121,10 @@ which continually runs and visualizes your code as you type
 **JavaScript on Board: With Maps, Dynamic Arrays and Objects out of the box. Just plug in and start creating in seconds**
 
 [http://www.espruino.com/](http://www.espruino.com/)
+
+**Introduction to Functional Programming in JavaScript (Part 1)**
+
+[https://asep.co/introduction-to-functional-programming-in-javascript-part-1/?utm_source=hn&utm_medium=direct-share&utm_campaign=fp-in-javascript](https://asep.co/introduction-to-functional-programming-in-javascript-part-1/?utm_source=hn&utm_medium=direct-share&utm_campaign=fp-in-javascript)
 
 # CUDA
 
@@ -424,3 +420,9 @@ control a spaceship in order to complete some objective.
 **Module 7: Introduction to D3.js**
 
 - github: [https://github.com/INFO-474/m7-d3-intro](https://github.com/INFO-474/m7-d3-intro)
+
+# Resources
+
+**24 Data Science, R, Python, Excel, and Machine Learning Cheat Sheets**
+
+- blog: [http://www.datasciencecentral.com/profiles/blogs/20-data-science-r-python-excel-and-machine-learning-cheat-sheets](http://www.datasciencecentral.com/profiles/blogs/20-data-science-r-python-excel-and-machine-learning-cheat-sheets)

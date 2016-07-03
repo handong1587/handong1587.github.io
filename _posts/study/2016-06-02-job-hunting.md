@@ -90,6 +90,12 @@ There are no right answers but it helps to understand their thoughts and researc
 
 - github: [https://github.com/andreis/interview](https://github.com/andreis/interview)
 
+# Linux
+
+**Top Linux Interview Questions – Most Asked**
+
+[https://intellipaat.com/interview-question/linux-interview-questions/](https://intellipaat.com/interview-question/linux-interview-questions/)
+
 # Python
 
 **Top Answers to Python Interview Questions**

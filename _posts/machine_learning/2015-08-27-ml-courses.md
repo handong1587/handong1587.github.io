@@ -158,3 +158,9 @@ with applications for model fitting and techniques for dealing with missing data
 
 - homepage: [https://www.cs.ox.ac.uk/teaching/courses/2015-2016/ml/](https://www.cs.ox.ac.uk/teaching/courses/2015-2016/ml/)
 - materials: [http://www.cs.ox.ac.uk/people/varun.kanade/teaching/ML-HT2016/index.html](http://www.cs.ox.ac.uk/people/varun.kanade/teaching/ML-HT2016/index.html)
+
+## Machine Learning on Distributed System
+
+**Distributed Machine Learning with Apache Spark**
+
+- edx: [https://prod-edx-mktg-edit.edx.org/course/distributed-machine-learning-apache-uc-berkeleyx-cs120x](https://prod-edx-mktg-edit.edx.org/course/distributed-machine-learning-apache-uc-berkeleyx-cs120x)

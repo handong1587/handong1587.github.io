@@ -17,6 +17,16 @@ date: 2015-10-09
 - project page: [http://imagine.enpc.fr/~zagoruys/deepcompare.html](http://imagine.enpc.fr/~zagoruys/deepcompare.html)
 - github: [https://github.com/szagoruyko/cvpr15deepcompare](https://github.com/szagoruyko/cvpr15deepcompare)
 
+## StyleNet
+
+**Fashion Style in 128 Floats (CVPR 2016)**
+
+![](http://hi.cs.waseda.ac.jp/~esimo/images/stylenet/fashionfeat.png)
+
+- project page: [http://hi.cs.waseda.ac.jp/~esimo/en/research/stylenet/](http://hi.cs.waseda.ac.jp/~esimo/en/research/stylenet/)
+- paper: [http://hi.cs.waseda.ac.jp/~esimo/publications/SimoSerraCVPR2016.pdf](http://hi.cs.waseda.ac.jp/~esimo/publications/SimoSerraCVPR2016.pdf)
+- github: [https://github.com/bobbens/cvpr2016_stylenet](https://github.com/bobbens/cvpr2016_stylenet)
+
 ## Person Re-identification
 
 **PersonNet: Person Re-identification with Deep Convolutional Neural Networks**

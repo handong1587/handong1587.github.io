@@ -40,6 +40,18 @@ date: 2015-07-01
 
 [http://courses.csail.mit.edu/6.851/](http://courses.csail.mit.edu/6.851/)
 
+**MIT Design and Analysis of Algorithms (Spring 2015)**
+
+- lecture videos: [http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/lecture-videos/](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/lecture-videos/)
+
+**Stanford CS243: Program Analysis and Optimization**
+
+[http://suif.stanford.edu/~courses/cs243/](http://suif.stanford.edu/~courses/cs243/)
+
+**MIT: Introduction to Algorithms**
+
+[http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/index.htm](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/index.htm)
+
 # Blogs
 
 **Know Thy Complexities!**

@@ -149,6 +149,8 @@ using the stochastic gradient descent (SGD) algorithm to obtain fine pixel-level
 
 ![](http://cvlab.postech.ac.kr/research/deconvnet/images/overall.png)
 
+- intro: two-stage training: train the network with easy examples first and 
+fine-tune the trained network with more challenging examples later
 - project page: [http://cvlab.postech.ac.kr/research/deconvnet/](http://cvlab.postech.ac.kr/research/deconvnet/)
 - arxiv: [http://arxiv.org/abs/1505.04366](http://arxiv.org/abs/1505.04366)
 - slides: [http://web.cs.hacettepe.edu.tr/~aykut/classes/spring2016/bil722/slides/w06-deconvnet.pdf](http://web.cs.hacettepe.edu.tr/~aykut/classes/spring2016/bil722/slides/w06-deconvnet.pdf)
@@ -199,6 +201,16 @@ using the stochastic gradient descent (SGD) algorithm to obtain fine pixel-level
 - arxiv: [http://arxiv.org/abs/1511.07122](http://arxiv.org/abs/1511.07122)
 - github: [https://github.com/fyu/dilation](https://github.com/fyu/dilation)
 - notes: [http://www.inference.vc/dilated-convolutions-and-kronecker-factorisation/](http://www.inference.vc/dilated-convolutions-and-kronecker-factorisation/)
+
+## TransferNet
+
+**Learning Transferrable Knowledge for Semantic Segmentation with Deep Convolutional Neural Network**
+
+![](http://cvlab.postech.ac.kr/research/transfernet/images/architecture.png)
+
+- project page: [http://cvlab.postech.ac.kr/research/transfernet/](http://cvlab.postech.ac.kr/research/transfernet/)
+- arxiv: [http://arxiv.org/abs/1512.07928](http://arxiv.org/abs/1512.07928)
+- github: [https://github.com/maga33/TransferNet](https://github.com/maga33/TransferNet)
 
 **Combining the Best of Convolutional Layers and Recurrent Layers: A Hybrid Network for Semantic Segmentation**
 

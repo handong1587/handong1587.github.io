@@ -28,6 +28,12 @@ date: 2015-10-09
 
 - arxiv: [http://arxiv.org/abs/1606.07792](http://arxiv.org/abs/1606.07792)
 
+**Hybrid Recommender System based on Autoencoders**
+
+- arxiv: [https://arxiv.org/abs/1606.07659](https://arxiv.org/abs/1606.07659)
+- github: [https://github.com/fstrub95/Autoencoders_cf](https://github.com/fstrub95/Autoencoders_cf)
+- notes: [https://github.com/jxieeducation/DIY-Data-Science/blob/master/papernotes/2016/06/hybrid-recommender-system-based-on-autoencoders.md](https://github.com/jxieeducation/DIY-Data-Science/blob/master/papernotes/2016/06/hybrid-recommender-system-based-on-autoencoders.md)
+
 # Slides
 
 **Deep learning for music recommendation**

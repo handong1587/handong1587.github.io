@@ -5,6 +5,15 @@ title: Graphical Models Resources
 date: 2015-08-27
 ---
 
+# Courses
+
+**Probabilistic Graphical Models**
+
+- instructor: Daphne Koller, Professor
+- coursera: [https://www.coursera.org/learn/probabilistic-graphical-models](https://www.coursera.org/learn/probabilistic-graphical-models)
+
+# Resources
+
 "A Brief Introduction to Graphical Models and Bayesian Networks"
 
 [http://www.cs.ubc.ca/~murphyk/Bayes/bnintro.html](http://www.cs.ubc.ca/~murphyk/Bayes/bnintro.html)
