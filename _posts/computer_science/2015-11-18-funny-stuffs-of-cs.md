@@ -15,7 +15,7 @@ date: 2015-11-18
 
 [https://www.reddit.com/r/gaming/comments/1nvj2t/what_to_expect_when_facing_gandhi_civ_v/](https://www.reddit.com/r/gaming/comments/1nvj2t/what_to_expect_when_facing_gandhi_civ_v/)
 
-# Go
+# Go (Weiqi)
 
 **Number of legal Go positions**
 

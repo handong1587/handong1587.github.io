@@ -85,6 +85,8 @@ date: 2015-10-09
 **Fully Convolutional Networks for Semantic Segmentation**
 
 - keywords: deconvolutional layer, crop layer
+- intro: An interesting idea in this work is that a simple interpolation filter is employed for deconvolution and 
+only the CNN part of the network is fine-tuned to learn deconvolution indirectly.
 - arxiv: [http://arxiv.org/abs/1411.4038](http://arxiv.org/abs/1411.4038)
 - arxiv(PAMI 2016): [http://arxiv.org/abs/1605.06211](http://arxiv.org/abs/1605.06211)
 - slides: [https://docs.google.com/presentation/d/1VeWFMpZ8XN7OC3URZP4WdXvOGYckoFWGVN7hApoXVnc](https://docs.google.com/presentation/d/1VeWFMpZ8XN7OC3URZP4WdXvOGYckoFWGVN7hApoXVnc)
@@ -92,6 +94,13 @@ date: 2015-10-09
 - github: [https://github.com/BVLC/caffe/wiki/Model-Zoo#fcn](https://github.com/BVLC/caffe/wiki/Model-Zoo#fcn)
 - github: [https://github.com/MarvinTeichmann/tensorflow-fcn](https://github.com/MarvinTeichmann/tensorflow-fcn)
 - notes: [http://zhangliliang.com/2014/11/28/paper-note-fcn-segment/](http://zhangliliang.com/2014/11/28/paper-note-fcn-segment/)
+
+**From Image-level to Pixel-level Labeling with Convolutional Networks (CVPR 2015)**
+
+- intro: "Weakly Supervised Semantic Segmentation with Convolutional Networks"
+- intro: performs semantic segmentation based only on image-level annotations in a multiple instance learning framework
+- arxiv: [http://arxiv.org/abs/1411.6228](http://arxiv.org/abs/1411.6228)
+- paper: [http://ronan.collobert.com/pub/matos/2015_semisupsemseg_cvpr.pdf](http://ronan.collobert.com/pub/matos/2015_semisupsemseg_cvpr.pdf)
 
 ## DeepLab
 
@@ -128,11 +137,22 @@ using the stochastic gradient descent (SGD) algorithm to obtain fine pixel-level
 - github: [https://github.com/torrvision/crfasrnn](https://github.com/torrvision/crfasrnn)
 - demo: [http://www.robots.ox.ac.uk/~szheng/crfasrnndemo](http://www.robots.ox.ac.uk/~szheng/crfasrnndemo)
 
+## BoxSup
+
+**BoxSup: Exploiting Bounding Boxes to Supervise Convolutional Networks for Semantic Segmentation**
+
+- arxiv: [http://arxiv.org/abs/1503.01640](http://arxiv.org/abs/1503.01640)
+
 ## DeconvNet
 
 **Learning Deconvolution Network for Semantic Segmentation (DeconvNet. ICCV 2015)**
 
-- arXiv: [http://arxiv.org/abs/1505.04366](http://arxiv.org/abs/1505.04366)
+![](http://cvlab.postech.ac.kr/research/deconvnet/images/overall.png)
+
+- project page: [http://cvlab.postech.ac.kr/research/deconvnet/](http://cvlab.postech.ac.kr/research/deconvnet/)
+- arxiv: [http://arxiv.org/abs/1505.04366](http://arxiv.org/abs/1505.04366)
+- slides: [http://web.cs.hacettepe.edu.tr/~aykut/classes/spring2016/bil722/slides/w06-deconvnet.pdf](http://web.cs.hacettepe.edu.tr/~aykut/classes/spring2016/bil722/slides/w06-deconvnet.pdf)
+- gitxiv: [http://gitxiv.com/posts/9tpJKNTYksN5eWcHz/learning-deconvolution-network-for-semantic-segmentation](http://gitxiv.com/posts/9tpJKNTYksN5eWcHz/learning-deconvolution-network-for-semantic-segmentation)
 - github: [https://github.com/HyeonwooNoh/DeconvNet](https://github.com/HyeonwooNoh/DeconvNet)
 
 ## SegNet
@@ -183,6 +203,15 @@ using the stochastic gradient descent (SGD) algorithm to obtain fine pixel-level
 **Combining the Best of Convolutional Layers and Recurrent Layers: A Hybrid Network for Semantic Segmentation**
 
 - arxiv: [http://arxiv.org/abs/1603.04871](http://arxiv.org/abs/1603.04871)
+
+## ScribbleSup
+
+**ScribbleSup: Scribble-Supervised Convolutional Networks for Semantic Segmentation**
+
+![](http://research.microsoft.com/en-us/um/people/jifdai/downloads/scribble_sup/Figures/scribble_example_12.jpg)
+
+- project page: [http://research.microsoft.com/en-us/um/people/jifdai/downloads/scribble_sup/](http://research.microsoft.com/en-us/um/people/jifdai/downloads/scribble_sup/)
+- arxiv: [http://arxiv.org/abs/1604.05144](http://arxiv.org/abs/1604.05144)
 
 **Natural Scene Image Segmentation Based on Multi-Layer Feature Extraction**
 

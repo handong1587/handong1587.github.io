@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Install Therubyracer Failure
-date: 2015-11-21 00:02:26
+date: 2016-07-03
 category: "web_dev"
 ---
 
