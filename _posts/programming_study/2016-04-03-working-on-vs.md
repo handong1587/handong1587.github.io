@@ -37,6 +37,20 @@ date: 2016-04-03
 
 [https://blogs.msdn.microsoft.com/vcblog/2016/03/31/cc-extension-for-visual-studio-code/](https://blogs.msdn.microsoft.com/vcblog/2016/03/31/cc-extension-for-visual-studio-code/)
 
+# NuGet
+
+**NuGet: package manager for the Microsoft development platform**
+
+[http://www.nuget.org/](http://www.nuget.org/)
+
+**Is there a way to download packages from nuget.org then do an offline installation into Visual Studio?**
+
+- stackoverflow: [http://stackoverflow.com/questions/8120289/is-there-a-way-to-download-packages-from-nuget-org-then-do-an-offline-installati](http://stackoverflow.com/questions/8120289/is-there-a-way-to-download-packages-from-nuget-org-then-do-an-offline-installati)
+
+**How to install a Nuget Package .nupkg file locally?**
+
+- stackoverflow: [http://stackoverflow.com/questions/10240029/how-to-install-a-nuget-package-nupkg-file-locally](http://stackoverflow.com/questions/10240029/how-to-install-a-nuget-package-nupkg-file-locally)
+
 # Download Links
 
 **Visual C++ Redistributable for Visual Studio 2012 Update 4 (MSVC11)**
