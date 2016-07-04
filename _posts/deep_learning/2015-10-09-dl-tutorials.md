@@ -212,6 +212,14 @@ date: 2015-10-09
 
 ## Backpropagation
 
+**Learning representations by back-propagating errors (1986)**
+**Learning Internal Representations by Error Propagating (1986)**
+
+- author: David E. Rumelhart, Geoffrey E. Hinton & Ronald J. Williams
+- paper: [http://www.nature.com/nature/journal/v323/n6088/pdf/323533a0.pdf](http://www.nature.com/nature/journal/v323/n6088/pdf/323533a0.pdf)
+- mirror: [http://pan.baidu.com/s/1bo30gHp](http://pan.baidu.com/s/1bo30gHp)
+- mirror: [http://pan.baidu.com/s/1kVfJ4of](http://pan.baidu.com/s/1kVfJ4of)
+
 **Convolutional Neural Networks backpropagation: from intuition to derivation**
 
 ![](https://grzegorzgwardys.files.wordpress.com/2016/01/convolution-mlp-mapping.png?w=640)
