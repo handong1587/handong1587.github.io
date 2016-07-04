@@ -30,7 +30,8 @@ date: 2015-08-27
 
 **The Unreasonable Effectiveness of Random Forests**
 
-[https://medium.com/rants-on-machine-learning/the-unreasonable-effectiveness-of-random-forests-f33c3ce28883](https://medium.com/rants-on-machine-learning/the-unreasonable-effectiveness-of-random-forests-f33c3ce28883)
+- blog: [https://medium.com/rants-on-machine-learning/the-unreasonable-effectiveness-of-random-forests-f33c3ce28883](https://medium.com/rants-on-machine-learning/the-unreasonable-effectiveness-of-random-forests-f33c3ce28883)
+- mirror: [http://pan.baidu.com/s/1gd6dsMR](http://pan.baidu.com/s/1gd6dsMR)
 
 **Random forest interpretation with scikit-learn**
 
