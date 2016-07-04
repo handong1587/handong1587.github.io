@@ -460,6 +460,8 @@ We additionally provide an implementation of the [ReInspect](https://github.com/
 
 **Using DIGITS to train an Object Detection network**
 
+![](https://raw.githubusercontent.com/NVIDIA/DIGITS/master/examples/object-detection/select-object-detection-dataset.jpg)
+
 - github: [https://github.com/NVIDIA/DIGITS/blob/master/examples/object-detection/README.md](https://github.com/NVIDIA/DIGITS/blob/master/examples/object-detection/README.md)
 
 # Blogs

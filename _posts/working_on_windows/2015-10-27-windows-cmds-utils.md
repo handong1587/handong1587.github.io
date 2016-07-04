@@ -94,3 +94,7 @@ Apply various effects and filters. Record audio from various inputs. Save files 
 - homepage: [http://waterlan.home.xs4all.nl/dos2unix.html](http://waterlan.home.xs4all.nl/dos2unix.html)
 - homepage: [http://dos2unix.sourceforge.net/](http://dos2unix.sourceforge.net/)
 - download(dos2unix): [http://waterlan.home.xs4all.nl/dos2unix.html#DOS2UNIX](http://waterlan.home.xs4all.nl/dos2unix.html#DOS2UNIX)
+
+**Git for Windows 国内下载站**
+
+- github: [https://github.com/waylau/git-for-win](https://github.com/waylau/git-for-win)

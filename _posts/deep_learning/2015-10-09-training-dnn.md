@@ -13,9 +13,13 @@ date: 2015-10-09
 
 # Activation functions
 
+## ReLU
+
 **Rectified linear units improve restricted boltzmann machines (ReLU)**
 
 - paper: [http://machinelearning.wustl.edu/mlpapers/paper_files/icml2010_NairH10.pdf](http://machinelearning.wustl.edu/mlpapers/paper_files/icml2010_NairH10.pdf)
+
+## LReLU
 
 **Rectifier Nonlinearities Improve Neural Network Acoustic Models (leaky-ReLU, aka LReLU)**
 
@@ -25,6 +29,8 @@ date: 2015-10-09
 
 - paper: [http://jmlr.org/proceedings/papers/v15/glorot11a/glorot11a.pdf](http://jmlr.org/proceedings/papers/v15/glorot11a/glorot11a.pdf)
 
+## PReLU
+
 **Delving Deep into Rectifiers: Surpassing Human-Level Performance on ImageNet Classification (PReLU)**
 
 - keywords: PReLU, Caffe "msra" weights initilization
@@ -33,6 +39,8 @@ date: 2015-10-09
 **Empirical Evaluation of Rectified Activations in Convolutional Network (ReLU/LReLU/PReLU/RReLU)**
 
 - arXiv: [http://arxiv.org/abs/1505.00853](http://arxiv.org/abs/1505.00853)
+
+## SReLU
 
 **Deep Learning with S-shaped Rectified Linear Activation Units (SReLU)**
 
@@ -55,6 +63,8 @@ date: 2015-10-09
 
 - arxiv: [http://arxiv.org/abs/1603.00391](http://arxiv.org/abs/1603.00391)
 
+## MBA
+
 **Multi-Bias Non-linear Activation in Deep Neural Networks (MBA)**
 
 - arxiv: [https://arxiv.org/abs/1604.00676](https://arxiv.org/abs/1604.00676)
@@ -67,6 +77,12 @@ date: 2015-10-09
 **What is the role of the activation function in a neural network?**
 
 - quora: [https://www.quora.com/What-is-the-role-of-the-activation-function-in-a-neural-network](https://www.quora.com/What-is-the-role-of-the-activation-function-in-a-neural-network)
+
+## GELU
+
+**Bridging Nonlinearities and Stochastic Regularizers with Gaussian Error Linear Units**
+
+- arxiv: [https://arxiv.org/abs/1606.08415](https://arxiv.org/abs/1606.08415)
 
 # Weights Initialization
 

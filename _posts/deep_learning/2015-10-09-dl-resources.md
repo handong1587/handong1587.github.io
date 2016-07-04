@@ -500,6 +500,10 @@ with fast exact probabilistic inference over many layers."
 
 - arxiv: [http://arxiv.org/abs/1605.08512](http://arxiv.org/abs/1605.08512)
 
+**Convolutional Neural Fabrics**
+
+- arxiv: [http://arxiv.org/abs/1606.02492](http://arxiv.org/abs/1606.02492)
+
 ## Spatial Transformer Networks
 
 **Spatial Transformer Networks (NIPS 2015)**
@@ -660,6 +664,10 @@ with fast exact probabilistic inference over many layers."
 - arxiv: [http://arxiv.org/abs/1604.03489](http://arxiv.org/abs/1604.03489)
 - github: [https://github.com/imatge-upc/sentiment-2016](https://github.com/imatge-upc/sentiment-2016)
 - gitxiv: [http://gitxiv.com/posts/ruqRgXdPTHJ77LDEb/from-pixels-to-sentiment-fine-tuning-cnns-for-visual](http://gitxiv.com/posts/ruqRgXdPTHJ77LDEb/from-pixels-to-sentiment-fine-tuning-cnns-for-visual)
+
+**Predict Sentiment From Movie Reviews Using Deep Learning**
+
+- blog: [http://machinelearningmastery.com/predict-sentiment-movie-reviews-using-deep-learning/](http://machinelearningmastery.com/predict-sentiment-movie-reviews-using-deep-learning/)
 
 ## Place Recognition
 

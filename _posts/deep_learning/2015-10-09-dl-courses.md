@@ -92,6 +92,10 @@ date: 2015-10-09
 - video: [http://videolectures.net/deeplearning2015_bengio_theoretical_motivations/](http://videolectures.net/deeplearning2015_bengio_theoretical_motivations/)
 - blog: [http://rinuboney.github.io/2015/10/18/theoretical-motivations-deep-learning.html](http://rinuboney.github.io/2015/10/18/theoretical-motivations-deep-learning.html)
 
+**Introduction to Deep Learning**
+
+- homepage: [https://beta.bigdatauniversity.com/courses/introduction-deep-learning/](https://beta.bigdatauniversity.com/courses/introduction-deep-learning/)
+
 # Computer Vision
 
 **Stanford CS231n: Convolutional Neural Networks for Visual Recognition**
@@ -140,9 +144,3 @@ date: 2015-10-09
 **GPU Programming**
 
 - homepage: [http://courses.cms.caltech.edu/cs179/](http://courses.cms.caltech.edu/cs179/)
-
-# Reinforcement Learning
-
-**(Udacity) Reinforcement Learning - Offered at Georgia Tech as CS 8803(by Charles Isbell, Michael Littman)**
-
-[https://www.udacity.com/course/reinforcement-learning--ud600](https://www.udacity.com/course/reinforcement-learning--ud600)

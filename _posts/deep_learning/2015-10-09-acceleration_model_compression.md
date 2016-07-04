@@ -32,7 +32,7 @@ singular value decomposition was adopted for the matrix factorization"
 - intro: "considered the subsequent nonlinear units while learning the low-rank decomposition"
 - arxiv: [http://arxiv.org/abs/1411.4229](http://arxiv.org/abs/1411.4229)
 
-**Flattened Convolutional Neural Networks for Feedforward Acceleration(ICLR 2015)**
+**Flattened Convolutional Neural Networks for Feedforward Acceleration (ICLR 2015)**
 
 - arXiv: [http://arxiv.org/abs/1412.5474](http://arxiv.org/abs/1412.5474)
 - github: [https://github.com/jhjin/flattened-cnn](https://github.com/jhjin/flattened-cnn)
@@ -54,13 +54,21 @@ transform a convolutional layer into multiple layers of lower complexity"
 - intro: "fully-connected layers were replaced by a single “Fastfood” layer for end-to-end training with convolutional layers"
 - arxiv: [http://arxiv.org/abs/1412.7149](http://arxiv.org/abs/1412.7149)
 
-**Distilling the Knowledge in a Neural Network (by Geoffrey Hinton, Oriol Vinyals, Jeff Dean)**
+**Fast Convolutional Nets With fbfft: A GPU Performance Evaluation (Facebook. ICLR 2015)**
 
+- arxiv: [http://arxiv.org/abs/1412.7580](http://arxiv.org/abs/1412.7580)
+- github: [http://facebook.github.io/fbcunn/fbcunn/](http://facebook.github.io/fbcunn/fbcunn/)
+
+**Distilling the Knowledge in a Neural Network**
+
+- author: Geoffrey Hinton, Oriol Vinyals, Jeff Dean
 - intro: "trained a distilled model to mimic the response of a larger and well-trained network"
 - comments: "Soft targets are a VERY good regulizer! Also trains much faster (soft targets enrich gradients)" -- Jeff Dean in CS231n talk
 - arxiv: [http://arxiv.org/abs/1503.02531](http://arxiv.org/abs/1503.02531)
 - blog: [http://fastml.com/geoff-hintons-dark-knowledge/](http://fastml.com/geoff-hintons-dark-knowledge/)
 - notes: [https://github.com/dennybritz/deeplearning-papernotes/blob/master/notes/distilling-the-knowledge-in-a-nn.md](https://github.com/dennybritz/deeplearning-papernotes/blob/master/notes/distilling-the-knowledge-in-a-nn.md)
+
+## HashedNets
 
 **Compressing Neural Networks with the Hashing Trick (HashedNets. ICML 2015)**
 
@@ -98,11 +106,14 @@ to decompose it into the multiplications of thinned dense matrices"
 - discussion: [https://github.com/soumith/convnet-benchmarks/issues/59#issuecomment-150111895](https://github.com/soumith/convnet-benchmarks/issues/59#issuecomment-150111895)
 - reddit: [https://www.reddit.com/r/MachineLearning/comments/3nocg5/fast_algorithms_for_convolutional_neural_networks/?](https://www.reddit.com/r/MachineLearning/comments/3nocg5/fast_algorithms_for_convolutional_neural_networks/?)
 
+## Deep Compression
+
 **Deep Compression: Compressing Deep Neural Networks with Pruning, Trained Quantization and Huffman Coding (ICLR 2016 Best Paper)**
 
 - intro: "reduced the size of AlexNet by 35x from 240MB to 6.9MB, the size of VGG16 by 49x from 552MB to 11.3MB, with no loss of accuracy"
 - arxiv: [http://arxiv.org/abs/1510.00149](http://arxiv.org/abs/1510.00149)
-- youtube("Deep compression and EIE: Deep learning model compression, design space exploration and hardware acceleration"): [https://www.youtube.com/watch?v=baZOmGSSUAg](https://www.youtube.com/watch?v=baZOmGSSUAg)
+
+## ZNN 
 
 **ZNN - A Fast and Scalable Algorithm for Training 3D Convolutional Networks on Multi-Core and Many-Core Shared Memory Machines**
 
@@ -118,12 +129,16 @@ to decompose it into the multiplications of thinned dense matrices"
 - arxiv: [http://arxiv.org/abs/1511.06067](http://arxiv.org/abs/1511.06067)
 - github: [https://github.com/chengtaipu/lowrankcnn](https://github.com/chengtaipu/lowrankcnn)
 
+## Q-CNN
+
 **Quantized Convolutional Neural Networks for Mobile Devices (Q-CNN)**
 
 - intro: "Extensive experiments on the ILSVRC-12 benchmark demonstrate 
 4 ∼ 6× speed-up and 15 ∼ 20× compression with merely one percentage loss of classification accuracy"
 - arxiv: [http://arxiv.org/abs/1512.06473](http://arxiv.org/abs/1512.06473)
 - github: [https://github.com/jiaxiang-wu/quantized-cnn](https://github.com/jiaxiang-wu/quantized-cnn)
+
+## EIE
 
 **EIE: Efficient Inference Engine on Compressed Deep Neural Network (ISCA'16)**
 
@@ -134,6 +149,8 @@ to decompose it into the multiplications of thinned dense matrices"
 **Convolutional Tables Ensemble: classification in microseconds**
 
 - arxiv: [http://arxiv.org/abs/1602.04489](http://arxiv.org/abs/1602.04489)
+
+## SqueezeNet
 
 **SqueezeNet: AlexNet-level accuracy with 50x fewer parameters and <0.5MB model size [DeepScale & UC Berkeley]**
 
@@ -147,6 +164,8 @@ to decompose it into the multiplications of thinned dense matrices"
 **Convolutional Neural Networks using Logarithmic Data Representation**
 
 - arxiv: [http://arxiv.org/abs/1603.01025](http://arxiv.org/abs/1603.01025)
+
+## DeepX
 
 **DeepX: A Software Accelerator for Low-Power Deep Learning Inference on Mobile Devices**
 
@@ -167,20 +186,17 @@ to decompose it into the multiplications of thinned dense matrices"
 
 - arxiv: [http://arxiv.org/abs/1605.03621](http://arxiv.org/abs/1605.03621)
 
+## FunHashNN
+
 **Functional Hashing for Compressing Neural Networks (FunHashNN)**
 
 - arxiv: [http://arxiv.org/abs/1605.06560](http://arxiv.org/abs/1605.06560)
 
+## Ristretto
+
 **Ristretto: Hardware-Oriented Approximation of Convolutional Neural Networks**
 
 - arxiv: [http://arxiv.org/abs/1605.06402](http://arxiv.org/abs/1605.06402)
-
-## Acceleration
-
-**Fast Convolutional Nets With fbfft: A GPU Performance Evaluation (Facebook. ICLR 2015)**
-
-- arxiv: [http://arxiv.org/abs/1412.7580](http://arxiv.org/abs/1412.7580)
-- github: [http://facebook.github.io/fbcunn/fbcunn/](http://facebook.github.io/fbcunn/fbcunn/)
 
 # Projects
 
@@ -188,6 +204,8 @@ to decompose it into the multiplications of thinned dense matrices"
 
 - intro: "This tool aims to accelerate the test-time computation and decrease number of parameters of deep CNNs."
 - github: [https://github.com/dmlc/mxnet/tree/master/tools/accnn](https://github.com/dmlc/mxnet/tree/master/tools/accnn)
+
+## OptNet
 
 **OptNet - reducing memory usage in torch neural networks**
 
@@ -212,6 +230,10 @@ to decompose it into the multiplications of thinned dense matrices"
 - part 2: [https://medium.com/@sidd_reddy/mobile-friendly-deep-convolutional-neural-networks-part-2-making-deep-nets-shallow-701b2fbd3ca9#.u58fkuak3](https://medium.com/@sidd_reddy/mobile-friendly-deep-convolutional-neural-networks-part-2-making-deep-nets-shallow-701b2fbd3ca9#.u58fkuak3)
 
 # Videos
+
+**Deep compression and EIE: Deep learning model compression, design space exploration and hardware acceleration**
+
+- youtube: [https://www.youtube.com/watch?v=baZOmGSSUAg](https://www.youtube.com/watch?v=baZOmGSSUAg)
 
 **Deep Compression, DSD Training and EIE: Deep Neural Network Model Compression, Regularization and Hardware Acceleration**
 

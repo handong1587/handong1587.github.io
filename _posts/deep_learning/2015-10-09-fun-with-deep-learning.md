@@ -120,6 +120,11 @@ Compressed model is less than 500KB
 - blog: [http://dmlc.ml/mxnet/2016/06/20/end-to-end-neural-style.html](http://dmlc.ml/mxnet/2016/06/20/end-to-end-neural-style.html)
 - github: [https://github.com/dmlc/mxnet/tree/master/example/neural-style](https://github.com/dmlc/mxnet/tree/master/example/neural-style)
 
+**Neural Style Explained**
+
+- blog: [http://kvfrans.com/neural-style-explained/](http://kvfrans.com/neural-style-explained/)
+- github: [https://github.com/kvfrans/neural-style](https://github.com/kvfrans/neural-style)
+
 ## Neural Art On Video
 
 **neural-style-video**

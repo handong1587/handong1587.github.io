@@ -155,6 +155,11 @@ date: 2015-10-09
 
 - blog: [https://auduno.github.io/2016/06/18/peeking-inside-convnets/](https://auduno.github.io/2016/06/18/peeking-inside-convnets/)
 
+**Visualizing Features from a Convolutional Neural Network**
+
+- blog: [http://kvfrans.com/visualizing-features-from-a-convolutional-neural-network/](http://kvfrans.com/visualizing-features-from-a-convolutional-neural-network/)
+- github: [https://github.com/kvfrans/feature-visualization](https://github.com/kvfrans/feature-visualization)
+
 # Tools
 
 **Topological Visualisation of a Convolutional Neural Network**

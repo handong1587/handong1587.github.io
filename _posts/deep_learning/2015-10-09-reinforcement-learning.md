@@ -18,7 +18,7 @@ date: 2015-10-09
 **Deep Reinforcement Learning (by David Silver, Google DeepMind)**
 
 - slides: [http://www.iclr.cc/lib/exe/fetch.php?media=iclr2015:silver-iclr2015.pdf](http://www.iclr.cc/lib/exe/fetch.php?media=iclr2015:silver-iclr2015.pdf)
-- pan: [http://pan.baidu.com/s/1qWBOJGo](http://pan.baidu.com/s/1qWBOJGo)
+- mirror: [http://pan.baidu.com/s/1qWBOJGo](http://pan.baidu.com/s/1qWBOJGo)
 
 **Deep Reinforcement Learning (MLSS2016) by John Schulman[UC Berkeley]**
 
@@ -53,11 +53,16 @@ date: 2015-10-09
 - instructors: John Schulman, Pieter Abbeel
 - homepage: [http://rll.berkeley.edu/deeprlcourse/](http://rll.berkeley.edu/deeprlcourse/)
 
+**Reinforcement Learning - Offered at Georgia Tech as CS 8803**
+
+- instructor: Charles Isbell, Michael Littman
+- udacity: [https://www.udacity.com/course/reinforcement-learning--ud600](https://www.udacity.com/course/reinforcement-learning--ud600)
+
 # Papers
 
-**Playing Atari with Deep Reinforcement Learning(Google DeepMind)**
+**Playing Atari with Deep Reinforcement Learning (Google DeepMind)**
 
-- arXiv: [http://arxiv.org/abs/1312.5602](http://arxiv.org/abs/1312.5602)
+- arxiv: [http://arxiv.org/abs/1312.5602](http://arxiv.org/abs/1312.5602)
 - github: [https://github.com/kristjankorjus/Replicating-DeepMind](https://github.com/kristjankorjus/Replicating-DeepMind)
 - demo: [http://cs.stanford.edu/people/karpathy/convnetjs/demo/rldemo.html](http://cs.stanford.edu/people/karpathy/convnetjs/demo/rldemo.html)
 - github: [https://github.com/Kaixhin/Atari](https://github.com/Kaixhin/Atari)
@@ -66,7 +71,7 @@ date: 2015-10-09
 
 **Incentivizing Exploration In Reinforcement Learning With Deep Predictive Models**
 
-- arXiv: [http://arxiv.org/abs/1507.00814](http://arxiv.org/abs/1507.00814)
+- arxiv: [http://arxiv.org/abs/1507.00814](http://arxiv.org/abs/1507.00814)
 - notes: [https://www.evernote.com/shard/s189/sh/a4262b84-a322-4f77-9a76-569278be84af/b8c3e146a76ca3853f560bb03b60a481](https://www.evernote.com/shard/s189/sh/a4262b84-a322-4f77-9a76-569278be84af/b8c3e146a76ca3853f560bb03b60a481)
 
 **Action-Conditional Video Prediction using Deep Networks in Atari Games**
@@ -76,22 +81,22 @@ date: 2015-10-09
 - github: [https://github.com/junhyukoh/nips2015-action-conditional-video-prediction](https://github.com/junhyukoh/nips2015-action-conditional-video-prediction)
 - video: [http://video.weibo.com/show?fid=1034:98062f3d83e41da6faa99cde5aa1ac97](http://video.weibo.com/show?fid=1034:98062f3d83e41da6faa99cde5aa1ac97)
 
-**Continuous control with deep reinforcement learning(Google Deepmind)**
+**Continuous control with deep reinforcement learning (Google Deepmind)**
 
-- paper: [http://arxiv.org/abs/1509.02971](http://arxiv.org/abs/1509.02971)
+- arxiv: [http://arxiv.org/abs/1509.02971](http://arxiv.org/abs/1509.02971)
 - github: [https://github.com/iassael/torch-policy-gradient](https://github.com/iassael/torch-policy-gradient)
 
 **Benchmarking for Bayesian Reinforcement Learning**
 
-- paper: [http://arxiv.org/abs/1509.04064v1](http://arxiv.org/abs/1509.04064v1)
+- arxiv: [http://arxiv.org/abs/1509.04064v1](http://arxiv.org/abs/1509.04064v1)
 - code: [https://github.com/mcastron/BBRL/](https://github.com/mcastron/BBRL/)
 - reading: [http://blogs.ulg.ac.be/damien-ernst/benchmarking-for-bayesian-reinforcement-learning/](http://blogs.ulg.ac.be/damien-ernst/benchmarking-for-bayesian-reinforcement-learning/)
 
 **Giraffe: Using Deep Reinforcement Learning to Play Chess**
 
-- paper: [http://arxiv.org/abs/1509.01549](http://arxiv.org/abs/1509.01549)
+- arxiv: [http://arxiv.org/abs/1509.01549](http://arxiv.org/abs/1509.01549)
 
-**Human-level control through deep reinforcement learning(Google DeepMind. 2015 Nature)**
+**Human-level control through deep reinforcement learning (Google DeepMind. 2015 Nature)**
 
 ![](/assets/reinforcement-learning-materials/DeepMind_Atari_Deep_Q_Learner-breakout.gif)
 
@@ -105,25 +110,25 @@ date: 2015-10-09
 
 **Data-Efficient Learning of Feedback Policies from Image Pixels using Deep Dynamical Models**
 
-- arXiv: [http://arxiv.org/abs/1510.02173](http://arxiv.org/abs/1510.02173)
+- arxiv: [http://arxiv.org/abs/1510.02173](http://arxiv.org/abs/1510.02173)
 
 **Variational Information Maximisation for Intrinsically Motivated Reinforcement Learning(Google DeepMind)**
 
-- arXiv: [http://arxiv.org/abs/1509.08731](http://arxiv.org/abs/1509.08731)
+- arxiv: [http://arxiv.org/abs/1509.08731](http://arxiv.org/abs/1509.08731)
 - notes: [https://www.evernote.com/shard/s189/sh/8c7ff9d9-c321-4e83-a802-58f55ebed9ac/bfc614113180a5f4624390df56e73889](https://www.evernote.com/shard/s189/sh/8c7ff9d9-c321-4e83-a802-58f55ebed9ac/bfc614113180a5f4624390df56e73889)
 
 **Actor-Mimic: Deep Multitask and Transfer Reinforcement Learning (ICLR 2016)**
 
-- arXiv: [http://arxiv.org/abs/1511.06342](http://arxiv.org/abs/1511.06342)
+- arxiv: [http://arxiv.org/abs/1511.06342](http://arxiv.org/abs/1511.06342)
 - github: [https://github.com/eparisotto/ActorMimic](https://github.com/eparisotto/ActorMimic)
 
 **MazeBase: A Sandbox for Learning from Games(New York University & Facebook AI Research)**
 
-- arXiv: [http://arxiv.org/abs/1511.07401](http://arxiv.org/abs/1511.07401)
+- arxiv: [http://arxiv.org/abs/1511.07401](http://arxiv.org/abs/1511.07401)
 
 **Learning Simple Algorithms from Examples(New York University & Facebook AI Research)**
 
-- arXiv: [http://arxiv.org/abs/1511.07275](http://arxiv.org/abs/1511.07275)
+- arxiv: [http://arxiv.org/abs/1511.07275](http://arxiv.org/abs/1511.07275)
 - github: [https://github.com/wojzaremba/algorithm-learning](https://github.com/wojzaremba/algorithm-learning)
 
 **Learning Algorithms from Data**
@@ -133,20 +138,20 @@ date: 2015-10-09
 
 **Multiagent Cooperation and Competition with Deep Reinforcement Learning**
 
-- arXiv: [http://arxiv.org/abs/1511.08779](http://arxiv.org/abs/1511.08779)
+- arxiv: [http://arxiv.org/abs/1511.08779](http://arxiv.org/abs/1511.08779)
 - github: [https://github.com/NeuroCSUT/DeepMind-Atari-Deep-Q-Learner-2Player](https://github.com/NeuroCSUT/DeepMind-Atari-Deep-Q-Learner-2Player)
 
 **Active Object Localization with Deep Reinforcement Learning**
 
-- arXiv: [http://arxiv.org/abs/1511.06015](http://arxiv.org/abs/1511.06015)
+- arxiv: [http://arxiv.org/abs/1511.06015](http://arxiv.org/abs/1511.06015)
 
 **Deep Reinforcement Learning with Attention for Slate Markov Decision Processes with High-Dimensional States and Actions**
 
-- arXiv: [http://arxiv.org/abs/1512.01124](http://arxiv.org/abs/1512.01124)
+- arxiv: [http://arxiv.org/abs/1512.01124](http://arxiv.org/abs/1512.01124)
 
 **How to Discount Deep Reinforcement Learning: Towards New Dynamic Strategies**
 
-- arXiv: [http://arxiv.org/abs/1512.02011](http://arxiv.org/abs/1512.02011)
+- arxiv: [http://arxiv.org/abs/1512.02011](http://arxiv.org/abs/1512.02011)
 
 **State of the Art Control of Atari Games Using Shallow Reinforcement Learning**
 
@@ -183,7 +188,7 @@ date: 2015-10-09
 
 **Insights in Reinforcement Learning (MSc thesis)**
 
-- pan: [http://pan.baidu.com/s/1bn51BYJ](http://pan.baidu.com/s/1bn51BYJ)
+- mirror: [http://pan.baidu.com/s/1bn51BYJ](http://pan.baidu.com/s/1bn51BYJ)
 
 **Using Deep Q-Learning to Control Optimization Hyperparameters**
 
