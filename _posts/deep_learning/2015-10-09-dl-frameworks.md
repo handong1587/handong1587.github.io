@@ -79,11 +79,11 @@ for building Deep Learning (DL) machine learning (ML) models
 
 - homepage: [http://tutorial.caffe.berkeleyvision.org/](http://tutorial.caffe.berkeleyvision.org/)
 
-- - -
-
 **OpenCV 3.0.0-dev: Load Caffe framework models**
 
 [http://docs.opencv.org/master/d5/de7/tutorial_dnn_googlenet.html#gsc.tab=0](http://docs.opencv.org/master/d5/de7/tutorial_dnn_googlenet.html#gsc.tab=0)
+
+# CDNN2
 
 **CDNN2 - CEVA Deep Neural Network Software Framework**
 

@@ -156,12 +156,13 @@ fine-tune the trained network with more challenging examples later
 - slides: [http://web.cs.hacettepe.edu.tr/~aykut/classes/spring2016/bil722/slides/w06-deconvnet.pdf](http://web.cs.hacettepe.edu.tr/~aykut/classes/spring2016/bil722/slides/w06-deconvnet.pdf)
 - gitxiv: [http://gitxiv.com/posts/9tpJKNTYksN5eWcHz/learning-deconvolution-network-for-semantic-segmentation](http://gitxiv.com/posts/9tpJKNTYksN5eWcHz/learning-deconvolution-network-for-semantic-segmentation)
 - github: [https://github.com/HyeonwooNoh/DeconvNet](https://github.com/HyeonwooNoh/DeconvNet)
+- github: [https://github.com/HyeonwooNoh/caffe](https://github.com/HyeonwooNoh/caffe)
 
 ## SegNet
 
 **SegNet: A Deep Convolutional Encoder-Decoder Architecture for Robust Semantic Pixel-Wise Labelling**
 
-- arXiv: [http://arxiv.org/abs/1505.07293](http://arxiv.org/abs/1505.07293)
+- arxiv: [http://arxiv.org/abs/1505.07293](http://arxiv.org/abs/1505.07293)
 - github: [https://github.com/alexgkendall/caffe-segnet](https://github.com/alexgkendall/caffe-segnet)
 
 **SegNet: A Deep Convolutional Encoder-Decoder Architecture for Image Segmentation**
@@ -176,22 +177,24 @@ fine-tune the trained network with more challenging examples later
 **SegNet: Pixel-Wise Semantic Labelling Using a Deep Networks**
 
 - youtube: [https://www.youtube.com/watch?v=xfNYAly1iXo](https://www.youtube.com/watch?v=xfNYAly1iXo)
-- video: [http://pan.baidu.com/s/1gdUzDlD](http://pan.baidu.com/s/1gdUzDlD)
+- mirror: [http://pan.baidu.com/s/1gdUzDlD](http://pan.baidu.com/s/1gdUzDlD)
+
+## DecoupledNet
 
 **Decoupled Deep Neural Network for Semi-supervised Semantic Segmentation (NIPS 2015)**
 
 ![](http://cvlab.postech.ac.kr/research/decouplednet/images/overall.png)
 
-- paper: [http://arxiv.org/abs/1506.04924](http://arxiv.org/abs/1506.04924)
-- project[paper+code]: [http://cvlab.postech.ac.kr/research/decouplednet/](http://cvlab.postech.ac.kr/research/decouplednet/)
+- project(paper+code): [http://cvlab.postech.ac.kr/research/decouplednet/](http://cvlab.postech.ac.kr/research/decouplednet/)
+- arxiv: [http://arxiv.org/abs/1506.04924](http://arxiv.org/abs/1506.04924)
 - github: [https://github.com/HyeonwooNoh/DecoupledNet](https://github.com/HyeonwooNoh/DecoupledNet)
 
 **Semantic Image Segmentation via Deep Parsing Network**
 
 ![](http://personal.ie.cuhk.edu.hk/~lz013/projects/dpn/intro.png)
 
-- paper: [http://arxiv.org/abs/1509.02634](http://arxiv.org/abs/1509.02634)
 - homepage: [http://personal.ie.cuhk.edu.hk/~lz013/projects/DPN.html](http://personal.ie.cuhk.edu.hk/~lz013/projects/DPN.html)
+- paper: [http://arxiv.org/abs/1509.02634](http://arxiv.org/abs/1509.02634)
 
 **Multi-Scale Context Aggregation by Dilated Convolutions**
 

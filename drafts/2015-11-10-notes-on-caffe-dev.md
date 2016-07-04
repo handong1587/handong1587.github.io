@@ -100,7 +100,3 @@ while the `Iteration T, loss = X` output is smoothed across iterations according
 **Caffe_Manual(by Shicai Yang(@星空下的巫师))**
 
 [https://github.com/shicai/Caffe_Manual](https://github.com/shicai/Caffe_Manual)
-
-**Why GEMM is at the heart of deep learning**
-
-[http://petewarden.com/2015/04/20/why-gemm-is-at-the-heart-of-deep-learning/](http://petewarden.com/2015/04/20/why-gemm-is-at-the-heart-of-deep-learning/)

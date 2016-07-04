@@ -7,7 +7,7 @@ date: 2015-08-27
 
 # Markov Random Field
 
-# Conditional Random Fields
+# Conditional Random Fields (CRF)
 
 **conditional random fields**
 
@@ -16,7 +16,7 @@ date: 2015-08-27
 
 **An Introduction to Conditional Random Fields**
 
-- arXiv: [http://arxiv.org/abs/1011.4088](http://arxiv.org/abs/1011.4088)
+- arxiv: [http://arxiv.org/abs/1011.4088](http://arxiv.org/abs/1011.4088)
 
 **Introduction to Conditional Random Fields**
 

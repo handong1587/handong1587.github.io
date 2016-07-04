@@ -1,10 +1,9 @@
 ---
 layout: post
 category: machine_learning
-title: Machine Learning And Arts
+title: Fun With Machine Learning
 date: 2015-08-27
 ---
-
 
 **Image Analogies**
 

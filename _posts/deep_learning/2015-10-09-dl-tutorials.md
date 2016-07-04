@@ -176,6 +176,13 @@ date: 2015-10-09
 
 [http://www.slideshare.net/nervanasys/an-analysis-of-convolution-for-inference](http://www.slideshare.net/nervanasys/an-analysis-of-convolution-for-inference)
 
+### maxDNN
+
+**maxDNN: An Efficient Convolution Kernel for Deep Learning with Maxwell GPUs**
+
+- arxiv: [http://arxiv.org/abs/1501.06633](http://arxiv.org/abs/1501.06633)
+- github: [https://github.com/eBay/maxDNN](https://github.com/eBay/maxDNN)
+
 **Understanding Convolution in Deep Learning**
 
 - blog: [http://timdettmers.com/2015/03/26/convolution-deep-learning/](http://timdettmers.com/2015/03/26/convolution-deep-learning/)
@@ -190,6 +197,18 @@ date: 2015-10-09
 ![](https://www.nervanasys.com/wp-content/uploads/2016/06/wino_2b_filter_transform.png)
 
 - blog: [https://www.nervanasys.com/winograd-2/](https://www.nervanasys.com/winograd-2/)
+
+## GEMM
+
+**Why GEMM is at the heart of deep learning**
+
+![](https://petewarden.files.wordpress.com/2015/04/im2col_corrected.png)
+
+- blog: [http://petewarden.com/2015/04/20/why-gemm-is-at-the-heart-of-deep-learning/](http://petewarden.com/2015/04/20/why-gemm-is-at-the-heart-of-deep-learning/)
+
+**A full walk through of the SGEMM implementation**
+
+- github-wiki: [https://github.com/NervanaSystems/maxas/wiki/SGEMM](https://github.com/NervanaSystems/maxas/wiki/SGEMM)
 
 ## Backpropagation
 

@@ -27,6 +27,13 @@ date: 2015-10-09
 singular value decomposition was adopted for the matrix factorization"
 - paper: [http://papers.nips.cc/paper/5544-exploiting-linear-structure-within-convolutional-networks-for-efficient-evaluation.pdf](http://papers.nips.cc/paper/5544-exploiting-linear-structure-within-convolutional-networks-for-efficient-evaluation.pdf)
 
+## cuDNN
+
+**cuDNN: Efficient Primitives for Deep Learning**
+
+- arxiv: [https://arxiv.org/abs/1410.0759](https://arxiv.org/abs/1410.0759)
+- download: [https://developer.nvidia.com/cudnn](https://developer.nvidia.com/cudnn)
+
 **Efficient and accurate approximations of nonlinear convolutional networks**
 
 - intro: "considered the subsequent nonlinear units while learning the low-rank decomposition"
@@ -67,6 +74,13 @@ transform a convolutional layer into multiple layers of lower complexity"
 - arxiv: [http://arxiv.org/abs/1503.02531](http://arxiv.org/abs/1503.02531)
 - blog: [http://fastml.com/geoff-hintons-dark-knowledge/](http://fastml.com/geoff-hintons-dark-knowledge/)
 - notes: [https://github.com/dennybritz/deeplearning-papernotes/blob/master/notes/distilling-the-knowledge-in-a-nn.md](https://github.com/dennybritz/deeplearning-papernotes/blob/master/notes/distilling-the-knowledge-in-a-nn.md)
+
+## Caffe con Troll (CcT)
+
+**Caffe con Troll: Shallow Ideas to Speed Up Deep Learning**
+
+- intro: a fully compatible end-to-end version of the popular framework Caffe with rebuilt internals
+- arxiv: [http://arxiv.org/abs/1504.04343](http://arxiv.org/abs/1504.04343)
 
 ## HashedNets
 
