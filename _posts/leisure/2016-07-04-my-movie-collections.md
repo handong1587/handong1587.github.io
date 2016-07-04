@@ -2,14 +2,10 @@
 layout: post
 categories: leisure
 title: My Movie Collections
+date: 2016-07-04
 ---
 
-{{ page.title }}
-================
-
-<p class="meta">4 Jul 2016 - Beijing</p>
-
-## G:/Movie/
+# G:/Movie/
 
 (1) 01.03.08.3.10.To.Yuma.2007.x264.720p.BDRiP-CHD [4.37G]  <br />
 (2) 12.Angry.Men.1957.Criterion.Collection.720p.BluRay.x264-WiKi [5.00G]  <br />
@@ -295,7 +291,7 @@ title: My Movie Collections
 (282) Zero.Dark.Thirty.2012.Bluray.720p.DTS.x264-CHD [7.14G]  <br />
 (283) Zodiac.Director's.Cut.2007.720p.BluRay.x264-WiKi [6.51G]  <br />
 
-## G:/Series Movie/
+# G:/Series Movie/
 
 (284) Daniel.Craig.007.Movies.Pack.720p.BluRay [26.79G]  <br />
 (285) Harry.Potter.Package.(8 Collections).BluRay.720p.x264.DTS-WiKi [62.88G]  <br />
@@ -306,7 +302,7 @@ title: My Movie Collections
 (290) Three.Colors.Blue.White.Red.Criterion.Collection.720p.BluRay.x264.DTS-WiKi [19.84G]  <br />
 (291) Vengeance.Trilogy.2002-2005.BluRay.iPad.720p.AAC.x264-CHDPAD [5.80G]  <br />
 
-## L:/Movie/
+# L:/Movie/
 
 (292) 12.Monkeys.1995.BluRay.720p.x264.DTS-WiKi [6.55G]  <br />
 (293) A.Walk.Among.the.Tombstones.2014.720p.BluRay.x264-SPARKS [5.46G]  <br />
@@ -493,7 +489,7 @@ title: My Movie Collections
 (474) Witness.For.The.Prosecution.1957.720p.HDTV.x264-DcX [4.38G]  <br />
 (475) You've.Got.Mail.1998.BluRay.720p.x264.AC3.3Audios-CMCT [3.80G]  <br />
 
-## L:/Movie(Asia)/
+# L:/Movie(Asia)/
 
 (476) 2046.2004.KOR.Bluray.1080p.DTS-HD.x264-Grym [13.95G]  <br />
 (477) [一代宗师].The.Grandmaster.2013.US.720p.BluRay.x264.DTS-WiKi [5.47G]  <br />
@@ -596,7 +592,7 @@ title: My Movie Collections
 (574) [黑太阳731].Men.Behind.The.Sun.1988.DVDRip.x264.EnglishSubs-SoupSandwich [1.23G]  <br />
 (575) [黑社会I-II].Election.I-II.2005-2006.BluRay.720p.x264.DTS-HDWinG [12.33G]  <br />
 
-## L:/Movie(Comics)/
+# L:/Movie(Comics)/
 
 (576) Ant.Man.2015.720p.BluRay.x264-WiKi [4.98G]  <br />
 (577) Avengers Age of Ultron Blu-ray Features [0.10G]  <br />
@@ -635,7 +631,7 @@ title: My Movie Collections
 (610) X-Men.Days.of.Future.Past.2014.720p.BluRay.x264.DTS-WiKi [6.56G]  <br />
 (611) X-Men.I.II.III.IV.V.BluRay.720p.x264.DTS-WiKi [31.86G]  <br />
 
-## J:/Series/Game of Thrones/
+# J:/Series/Game of Thrones/
 
 (612) Game.of.Thrones.EXTRA.The.Complete.Guide.To.The.Westeros.1080p.Bluray.x264-RCSW [3.93G]  <br />
 (613) Game.Of.Thrones.S01.2011.720p.BluRay.x264.DTS-HDChina [25.55G]  <br />
@@ -644,7 +640,7 @@ title: My Movie Collections
 (616) Game.of.Thrones.S04.720p.HDTV.DD5.1.x264-DON [21.74G]  <br />
 (617) Game.of.Thrones.S05.720p.HDTV.x264-DON [25.35G]  <br />
 
-## J:/Series/The Big Bang Theory/
+# J:/Series/The Big Bang Theory/
 
 (618) The.Big.Bang.Theory.S01.720p.HDTV.x264 [9.18G]  <br />
 (619) The.Big.Bang.Theory.S02.720p.HDTV.x264 [12.56G]  <br />
@@ -655,7 +651,7 @@ title: My Movie Collections
 (624) The.Big.Bang.Theory.S07.720p.HDTV.X264-DIMENSION [12.45G]  <br />
 (625) The.Big.Bang.Theory.S08.720p.HDTV.X264-DIMENSION [10.28G]  <br />
 
-## J:/Japanese TV/
+# J:/Japanese TV/
 
 (626) [胜利即是正义2].Legal High 2 Complete 720p HDTV x264 AAC-iHD [9.41G]  <br />
 (627) [胜利即是正义2].番外2.Legal.High.SP2.2014.720p.HDTV.x264.AAC-DoA [2.14G]  <br />
@@ -663,7 +659,7 @@ title: My Movie Collections
 (629) [胜利即是正义].番外1.LEGAL.HIGH.SP.Chi_Jap.HDTVrip.704X396-YYeTs人人影视 [0.46G]  <br />
 (630) 半泽直树.Hanzawa.Naoki.Chi_Jap.HDTVrip.1024X576-YYeTs人人影视 [5.82G]  <br />
 
-## K:/Series/
+# K:/Series/
 
 (631) House.of.Cards.2013.S02.720p.WEBRip.x264-BTN [12.87G]  <br />
 (632) House.of.Cards.S01.2013.BluRay.720p.MNHD-FRDS [12.76G]  <br />
@@ -675,7 +671,7 @@ title: My Movie Collections
 (638) 白い巨塔 1280x720 DivX6xx BSフジ [19.99G]  <br />
 (639) 神雕侠侣(古天乐版).32集全.国粤双语.1995￡CMCT暮雨潇潇 [12.50G]  <br />
 
-## M:/Movie/
+# M:/Movie/
 
 (640) 25th.Hour.2002.720p.BluRay.x264-WiKi [9.58G]  <br />
 (641) 300.Rise.of.an.Empire.2014.720p.BluRay.x264.DTS-WiKi [6.00G]  <br />
@@ -922,7 +918,7 @@ title: My Movie Collections
 (882) Womb.2010.720p.BluRay.x264-WiKi [PublicHD] [4.44G]  <br />
 (883) Yes.Man.2008.720p.BluRay.DTS.x264-DON [5.01G]  <br />
 
-## M:/Series Movie/
+# M:/Series Movie/
 
 (884) Dirty.Harry.1971-1988.BluRay.iPad.720p.x264.AAC-BYRPAD [7.89G]  <br />
 (885) Fast.and.Furious.1-6.2001-2013.Bluray.720p.DTSHD.x264-CHD [30.53G]  <br />
@@ -946,7 +942,7 @@ title: My Movie Collections
 (903) The.Matrix.Reloaded.2003.BluRay.720p.x264.DTS-WiKi [7.96G]  <br />
 (904) The.Matrix.Revolutions.2003.BluRay.720p.x264.DTS-WiKi [7.96G]  <br />
 
-## N:/Movie/
+# N:/Movie/
 
 (905) 1408.2007.Bluray.720p.DTS.x264-CHD [5.01G]  <br />
 (906) 500.Days.of.Summer.2009.Bluray.720p.DTS.x264-CHD [4.36G]  <br />
@@ -1134,12 +1130,12 @@ title: My Movie Collections
 (1088) While.You.Were.Sleeping.1995.720p.BluRay.X264-AMIABLE [PublicHD] [4.37G]  <br />
 (1089) Wild.Orchid.1989.1080p.BluRay.x264-Japhson[rarbg] [7.65G]  <br />
 
-## N:/Series Movie/
+# N:/Series Movie/
 
 (1090) Rocky.The.Undisputed.Collection.1976-2006.720p.DTS.x264-CHD [36.91G]  <br />
 (1091) TERMINATOR.I.II.III.IV.BluRay.720p.x264.DTS-WiKi [23.94G]  <br />
 
-## N:/Animation Movie/
+# N:/Animation Movie/
 
 (1092) A.Cat.in.Paris.2010.BluRay.X264.AAC.720p.SDHF-NORMTEAM [0.59G]  <br />
 (1093) BURN-E.BDRE.720p.x264.DD51-younghuie@MySiLU [0.19G]  <br />
@@ -1154,7 +1150,7 @@ title: My Movie Collections
 (1102) 今敏作品集 [4.20G]  <br />
 (1103) 宫崎骏 [29.52G]  <br />
 
-## N:/Documentary/
+# N:/Documentary/
 
 (1104) An.Inconvenient.Truth.HDTV.720p.AC3.2.0.x264@CHD联盟 [4.37G]  <br />
 (1105) Citizenfour.2014.720p.BluRay.x264-WiKi [4.47G]  <br />
