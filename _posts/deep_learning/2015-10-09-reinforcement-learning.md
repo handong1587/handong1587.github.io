@@ -38,6 +38,11 @@ date: 2015-10-09
 - blog: [http://karpathy.github.io/2016/05/31/rl/](http://karpathy.github.io/2016/05/31/rl/)
 - gist: [https://gist.github.com/karpathy/a4166c7fe253700972fcbc77e4ea32c5](https://gist.github.com/karpathy/a4166c7fe253700972fcbc77e4ea32c5)
 
+**Deep Reinforcement Learning (RLDM 2015)**
+
+- instructor: David Silver
+- video: [http://videolectures.net/rldm2015_silver_reinforcement_learning/](http://videolectures.net/rldm2015_silver_reinforcement_learning/)
+
 # Courses
 
 **Advanced Topics: RL**

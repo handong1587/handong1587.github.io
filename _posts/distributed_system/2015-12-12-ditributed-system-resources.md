@@ -27,6 +27,10 @@ date: 2015-12-12
 
 [http://dcg.ethz.ch/lectures/podc_allstars/](http://dcg.ethz.ch/lectures/podc_allstars/)
 
+**CME 323: Distributed Algorithms and Optimization**
+
+[http://stanford.edu/~rezab/dao/](http://stanford.edu/~rezab/dao/)
+
 # Tutorials
 
 **Distributed systems: for fun and profit**

@@ -326,6 +326,14 @@ for building Deep Learning (DL) machine learning (ML) models
 
 - github: [https://github.com/NervanaSystems/caffe2neon](https://github.com/NervanaSystems/caffe2neon)
 
+# OpenDeep
+
+**OpenDeep: a fully modular & extensible deep learning framework in Python**
+
+- intro: Modular & extensible deep learning framework built on Theano
+- homepage: [http://www.opendeep.org/](http://www.opendeep.org/)
+- github: [https://github.com/vitruvianscience/opendeep](https://github.com/vitruvianscience/opendeep)
+
 # OpenNN
 
 **OpenNN - Open Neural Networks Library**
@@ -461,7 +469,10 @@ for building Deep Learning (DL) machine learning (ML) models
 
 - website: [http://deeplearning.net/software/theano/index.html](http://deeplearning.net/software/theano/index.html)
 - github: [https://github.com/Theano/Theano](https://github.com/Theano/Theano)
-- tutorial: [https://github.com/Newmu/Theano-Tutorials](https://github.com/Newmu/Theano-Tutorials)
+
+**Theano-Tutorials: Bare bones introduction to machine learning from linear regression to convolutional neural networks using Theano**
+
+- github: [https://github.com/Newmu/Theano-Tutorials](https://github.com/Newmu/Theano-Tutorials)
 
 **Theano: A Python framework for fast computation of mathematical expressions**
 

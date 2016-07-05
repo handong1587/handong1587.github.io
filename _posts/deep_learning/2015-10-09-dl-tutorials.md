@@ -159,6 +159,14 @@ date: 2015-10-09
 
 - blog: [http://xrds.acm.org/blog/2016/06/convolutional-neural-networks-cnns-illustrated-explanation/](http://xrds.acm.org/blog/2016/06/convolutional-neural-networks-cnns-illustrated-explanation/)
 
+**intro_deep: Introduction tutorials to deep learning with Theano and OpenDeep**
+
+- slides: [https://docs.google.com/presentation/d/1cg9Tn2wWwqJmaSSDnlBDBEETD5SyV6TJSD8qiDJFgEM](https://docs.google.com/presentation/d/1cg9Tn2wWwqJmaSSDnlBDBEETD5SyV6TJSD8qiDJFgEM)
+- mirror: [http://pan.baidu.com/s/1hqIR0yC](http://pan.baidu.com/s/1hqIR0yC)
+- youtube: [https://www.youtube.com/watch?v=afUvcD3tEoQ](https://www.youtube.com/watch?v=afUvcD3tEoQ    )
+- mirror: [http://pan.baidu.com/s/1qWHp7xa](http://pan.baidu.com/s/1qWHp7xa)
+- github: [https://github.com/mbeissinger/intro_deep](https://github.com/mbeissinger/intro_deep)
+
 ## Convolution
 
 **Convolution in Caffe: a memo**

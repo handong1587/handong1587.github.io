@@ -238,6 +238,12 @@ Other awesome lists can be found in this [list](https://github.com/sindresorhus/
 - (4): Reparameterisation Tricks: [http://blog.shakirm.com/2015/10/machine-learning-trick-of-the-day-4-reparameterisation-tricks/](http://blog.shakirm.com/2015/10/machine-learning-trick-of-the-day-4-reparameterisation-tricks/)
 - (5): Log Derivative Trick: [http://blog.shakirm.com/2015/11/machine-learning-trick-of-the-day-5-log-derivative-trick/](http://blog.shakirm.com/2015/11/machine-learning-trick-of-the-day-5-log-derivative-trick/)
 
+# Debug Machine Learning
+
+**Debugging Machine Learning Tasks**
+
+- arxiv: [http://arxiv.org/abs/1603.07292](http://arxiv.org/abs/1603.07292)
+
 # Deep What?
 
 **Deep Support Vector Machines**

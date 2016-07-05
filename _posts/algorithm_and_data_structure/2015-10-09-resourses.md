@@ -53,6 +53,15 @@ date: 2015-07-01
 
 [http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/index.htm](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/index.htm)
 
+# Papers
+
+**The JPS Pathfinding System**
+**JPS+: Over 100x Faster than A***
+
+- paper: [http://www.aaai.org/ocs/index.php/SOCS/SOCS12/paper/viewFile/5396/5212](http://www.aaai.org/ocs/index.php/SOCS/SOCS12/paper/viewFile/5396/5212)
+- video: [http://www.gdcvault.com/play/1022094/JPS-Over-100x-Faster-than](http://www.gdcvault.com/play/1022094/JPS-Over-100x-Faster-than)
+- mirror: [http://pan.baidu.com/s/1sjNtIVz](http://pan.baidu.com/s/1sjNtIVz)
+
 # Blogs
 
 **Know Thy Complexities!**
@@ -89,6 +98,13 @@ date: 2015-07-01
 **Bloofi: A java implementation of multidimensional Bloom filters**
 
 - github: [https://github.com/lemire/bloofi](https://github.com/lemire/bloofi)
+
+**PathFinding.js: A comprehensive path-finding library for grid based games**
+
+![](/assets/algorithm_data_structure/pathfinding_js.PNG)
+
+- github: [https://github.com/qiao/PathFinding.js](https://github.com/qiao/PathFinding.js)
+- demo: [http://qiao.github.io/PathFinding.js/visual/](http://qiao.github.io/PathFinding.js/visual/)
 
 # Tools
 

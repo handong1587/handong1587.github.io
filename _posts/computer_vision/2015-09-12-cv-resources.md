@@ -249,6 +249,14 @@ date: 2015-09-12
 
 [http://web.cecs.pdx.edu/~kstew2/cs510vision/stitcher/](http://web.cecs.pdx.edu/~kstew2/cs510vision/stitcher/)
 
+# Image Stylization
+
+**stylize: Regressor based image stylization**
+
+![](https://raw.githubusercontent.com/Newmu/stylize/master/resources/iggy.gif)
+
+- github: [https://github.com/Newmu/stylize](https://github.com/Newmu/stylize)
+
 # Image Haze Removal
 
 **Single Image Haze Removal**
