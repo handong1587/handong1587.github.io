@@ -284,6 +284,10 @@ Other awesome lists can be found in this [list](https://github.com/sindresorhus/
 
 - blog: [http://blog.quantopian.com/bayesian-deep-learning/](http://blog.quantopian.com/bayesian-deep-learning/)
 
+**Bayesian Deep Learning Part II: Bridging PyMC3 and Lasagne to build a Hierarchical Neural Network**
+
+- blog: [http://twiecki.github.io/blog/2016/07/05/bayesian-deep-learning/](http://twiecki.github.io/blog/2016/07/05/bayesian-deep-learning/)
+
 # Mathematics
 
 **Some Notes on Applied Mathematics for Machine**

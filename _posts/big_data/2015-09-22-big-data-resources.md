@@ -29,6 +29,10 @@ date: 2015-09-22
 
 - arxiv: [http://arxiv.org/abs/1606.05293](http://arxiv.org/abs/1606.05293)
 
+**A survey of machine learning for big data processing**
+
+- paper: [http://link.springer.com/article/10.1186/s13634-016-0355-x](http://link.springer.com/article/10.1186/s13634-016-0355-x)
+
 # Projects
 
 ## Open Big Data Group

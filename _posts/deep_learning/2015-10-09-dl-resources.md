@@ -1120,6 +1120,10 @@ This was tested on a 64 bit machine with Nvidia Titan X, running Ubuntu 14.04
 Contains all the popular DL frameworks (TensorFlow, Theano, Torch, Caffe, etc.)
 - github: [https://github.com/saiprashanths/dl-docker](https://github.com/saiprashanths/dl-docker)
 
+**How to install CUDA Toolkit and cuDNN for deep learning**
+
+- blog: [http://www.pyimagesearch.com/2016/07/04/how-to-install-cuda-toolkit-and-cudnn-for-deep-learning/](http://www.pyimagesearch.com/2016/07/04/how-to-install-cuda-toolkit-and-cudnn-for-deep-learning/)
+
 # Resources
 
 **Awesome Deep Learning**

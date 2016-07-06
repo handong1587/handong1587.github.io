@@ -144,6 +144,13 @@ which continually runs and visualizes your code as you type
 
 - blog: [http://tutorialzine.com/2016/06/learn-git-in-30-minutes/](http://tutorialzine.com/2016/06/learn-git-in-30-minutes/)
 
+# Docker
+
+**Docker for Beginners: A comprehensive tutorial on getting started with Docker!**
+
+- tutorial: [http://prakhar.me/docker-curriculum/](http://prakhar.me/docker-curriculum/)
+- github: [https://github.com/prakhar1989/docker-curriculum](https://github.com/prakhar1989/docker-curriculum)
+
 # Coding
 
 **Top 10 coding challenges Websites**

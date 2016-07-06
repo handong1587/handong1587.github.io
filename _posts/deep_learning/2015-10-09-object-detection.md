@@ -192,7 +192,7 @@ bounding boxes (which are shared for these categories).
 - github: [https://github.com/pjreddie/darknet](https://github.com/pjreddie/darknet)
 - reddit: [https://www.reddit.com/r/MachineLearning/comments/3a3m0o/realtime_object_detection_with_yolo/](https://www.reddit.com/r/MachineLearning/comments/3a3m0o/realtime_object_detection_with_yolo/)
 - github: [https://github.com/gliese581gg/YOLO_tensorflow](https://github.com/gliese581gg/YOLO_tensorflow)
-- github: [https://github.com/MelodyHai/caffe-yolo](https://github.com/MelodyHai/caffe-yolo)
+- github: [https://github.com/xingwangsfu/caffe-yolo](https://github.com/xingwangsfu/caffe-yolo)
 
 **R-CNN minus R**
 
@@ -367,6 +367,11 @@ MSCOCO 2015 test:
 - paper: [http://www.cv-foundation.org/openaccess/content_iccv_2015/papers/Xie_Holistically-Nested_Edge_Detection_ICCV_2015_paper.pdf](http://www.cv-foundation.org/openaccess/content_iccv_2015/papers/Xie_Holistically-Nested_Edge_Detection_ICCV_2015_paper.pdf)
 - arxiv: [http://arxiv.org/abs/1504.06375](http://arxiv.org/abs/1504.06375)
 - github: [https://github.com/s9xie/hed](https://github.com/s9xie/hed)
+
+**Unsupervised Learning of Edges (CVPR 2016. Facebook AI Research)**
+
+- arxiv: [http://arxiv.org/abs/1511.04166](http://arxiv.org/abs/1511.04166)
+- zn-blog: [http://www.leiphone.com/news/201607/b1trsg9j6GSMnjOP.html](http://www.leiphone.com/news/201607/b1trsg9j6GSMnjOP.html)
 
 ## Skeleton Detection
 

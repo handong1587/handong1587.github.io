@@ -352,6 +352,13 @@ Its simple, and is ideal for rapid prototyping."
 
 - github: [https://github.com/spragunr/deep_q_rl](https://github.com/spragunr/deep_q_rl)
 
+**Reinforcement-trading**
+
+- intro: This project uses reinforcement learning on stock market and agent tries to learn trading. 
+The goal is to check if the agent can learn to read tape. 
+The project is dedicated to hero in life great Jesse Livermore.
+- github: [https://github.com/deependersingla/deep_trader](https://github.com/deependersingla/deep_trader)
+
 # Blogs
 
 **A Short Introduction To Some Reinforcement Learning Algorithms**

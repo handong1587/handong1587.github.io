@@ -163,9 +163,13 @@ date: 2015-10-09
 
 - slides: [https://docs.google.com/presentation/d/1cg9Tn2wWwqJmaSSDnlBDBEETD5SyV6TJSD8qiDJFgEM](https://docs.google.com/presentation/d/1cg9Tn2wWwqJmaSSDnlBDBEETD5SyV6TJSD8qiDJFgEM)
 - mirror: [http://pan.baidu.com/s/1hqIR0yC](http://pan.baidu.com/s/1hqIR0yC)
-- youtube: [https://www.youtube.com/watch?v=afUvcD3tEoQ](https://www.youtube.com/watch?v=afUvcD3tEoQ    )
+- youtube: [https://www.youtube.com/watch?v=afUvcD3tEoQ](https://www.youtube.com/watch?v=afUvcD3tEoQ)
 - mirror: [http://pan.baidu.com/s/1qWHp7xa](http://pan.baidu.com/s/1qWHp7xa)
 - github: [https://github.com/mbeissinger/intro_deep](https://github.com/mbeissinger/intro_deep)
+
+**Deep Learning on Java by Breandan Considine**
+
+- video: [https://speakerdeck.com/breandan/deep-learning-on-java](https://speakerdeck.com/breandan/deep-learning-on-java)
 
 ## Convolution
 

@@ -146,6 +146,13 @@ after the embedding and recurrent layers of the RNN."
 
 - arixv: [http://arxiv.org/abs/1606.07770](http://arxiv.org/abs/1606.07770)
 
+# Object Descriptions
+
+**Generation and Comprehension of Unambiguous Object Descriptions**
+
+- arxiv: [https://arxiv.org/abs/1511.02283](https://arxiv.org/abs/1511.02283)
+- github: [https://github.com/mjhucla/Google_Refexp_toolbox](https://github.com/mjhucla/Google_Refexp_toolbox)
+
 # Video Captioning
 
 **Translating Videos to Natural Language Using Deep Recurrent Neural Networks**

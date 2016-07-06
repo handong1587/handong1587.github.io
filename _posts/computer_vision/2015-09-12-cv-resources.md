@@ -548,6 +548,15 @@ The size of their dataset is, however, limited by the availability of domain-spe
 - homepage: [http://www.cbsr.ia.ac.cn/users/scliao/projects/npdface/index.html](http://www.cbsr.ia.ac.cn/users/scliao/projects/npdface/index.html)
 - github: [https://github.com/CitrusRokid/OpenNPD](https://github.com/CitrusRokid/OpenNPD)
 
+**libfacedetection: A binary library for face detection in images. You can use it free of charge with any purpose**
+
+- github: [https://github.com/ShiqiYu/libfacedetection](https://github.com/ShiqiYu/libfacedetection)
+
+**jQuery Face Detection Plugin: A jQuery plugin to detect faces on images, videos and canvases**
+
+- website: [http://facedetection.jaysalvat.com/](http://facedetection.jaysalvat.com/)
+- github: [https://github.com/jaysalvat/jquery.facedetection](https://github.com/jaysalvat/jquery.facedetection)
+
 # SLAM
 
 **Why SLAM Matters, The Future of Real-Time SLAM, and Deep Learning vs SLAM**

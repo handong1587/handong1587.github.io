@@ -430,6 +430,11 @@ date: 2015-10-09
 
 - blog: [https://shapeofdata.wordpress.com/2016/06/04/lstms/](https://shapeofdata.wordpress.com/2016/06/04/lstms/)
 
+**Machines and Magic: Teaching Computers to Write Harry Potter**
+
+- blog: [https://medium.com/@joycex99/machines-and-magic-teaching-computers-to-write-harry-potter-37839954f252#.4fxemal9t](https://medium.com/@joycex99/machines-and-magic-teaching-computers-to-write-harry-potter-37839954f252#.4fxemal9t)
+- github: [https://github.com/joycex99/hp-word-model](https://github.com/joycex99/hp-word-model)
+
 ## Optimizing RNN (Baidu Silicon Valley AI Lab)
 
 **Optimizing RNN performance**

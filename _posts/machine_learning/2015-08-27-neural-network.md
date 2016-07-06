@@ -52,6 +52,16 @@ date: 2015-08-27
 
 [https://medium.com/@ivanliljeqvist/the-essence-of-artificial-neural-networks-5de300c995d6#.yk0kydmf8](https://medium.com/@ivanliljeqvist/the-essence-of-artificial-neural-networks-5de300c995d6#.yk0kydmf8)
 
+**Neural Networks with PHP**
+
+- youtube: [https://www.youtube.com/watch?v=5bFxDsoNFzU](https://www.youtube.com/watch?v=5bFxDsoNFzU)
+- mirror: [http://pan.baidu.com/s/1boc933p](http://pan.baidu.com/s/1boc933p)
+
+**Neural Networs in MySQL**
+
+- blog: [http://blog.itdxer.com/2016/07/01/neural-networs-in-mysql.html](http://blog.itdxer.com/2016/07/01/neural-networs-in-mysql.html)
+- github: [https://github.com/itdxer/Neural-Network-in-MySQL](https://github.com/itdxer/Neural-Network-in-MySQL)
+
 ## Backpropagation
 
 **A Step by Step Backpropagation Example**

@@ -85,6 +85,10 @@ date: 2015-10-09
 
 - github: [https://github.com/pfnet/cupy](https://github.com/pfnet/cupy)
 
+**NumPy GPU acceleration**
+
+- blog: [http://scottsievert.com/blog/2016/07/01/numpy-gpu/](http://scottsievert.com/blog/2016/07/01/numpy-gpu/)
+
 # FPGA
 
 **Recurrent Neural Networks Hardware Implementation on FPGA**

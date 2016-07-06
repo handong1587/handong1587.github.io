@@ -86,6 +86,10 @@ accuracy and the detection and localization accuracy of all tasks
 
 - arxiv: [http://arxiv.org/abs/1603.01359](http://arxiv.org/abs/1603.01359)
 
+**Cross-stitch Networks for Multi-task Learning**
+
+- arxiv: [http://arxiv.org/abs/1604.03539](http://arxiv.org/abs/1604.03539)
+
 # Multi-modal Learning
 
 **Multimodal Deep Learning**
