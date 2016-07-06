@@ -35,6 +35,10 @@ date: 2015-10-09
 - intro: NVIDIA DevBox and Torch 7, 30 FPS
 - arxiv: [http://arxiv.org/abs/1604.07316](http://arxiv.org/abs/1604.07316)
 
+**Can we unify monocular detectors for autonomous driving by using the pixel-wise semantic segmentation of CNNs?**
+
+- arxiv: [http://arxiv.org/abs/1607.00971](http://arxiv.org/abs/1607.00971)
+
 # Projects
 
 **Caffe-Autopilot: Car autopilot software that uses C++, BVLC Caffe, OpenCV, and SFML**
