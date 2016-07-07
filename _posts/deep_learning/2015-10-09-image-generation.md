@@ -179,6 +179,13 @@ date: 2015-10-09
 
 - arxiv: [http://arxiv.org/abs/1603.05106](http://arxiv.org/abs/1603.05106)
 
+**Synthesizing Dynamic Textures and Sounds by Spatial-Temporal Generative ConvNet**
+
+![](http://www.stat.ucla.edu/~jxie/STGConvNet/STGConvNet_file/video/water_stone1.gif)
+
+- project page: [http://www.stat.ucla.edu/~jxie/STGConvNet/STGConvNet.html](http://www.stat.ucla.edu/~jxie/STGConvNet/STGConvNet.html)
+- paper: [http://www.stat.ucla.edu/~jxie/STGConvNet/STGConvNet_file/doc/STGConvNet.pdf](http://www.stat.ucla.edu/~jxie/STGConvNet/STGConvNet_file/doc/STGConvNet.pdf)
+
 # Blogs
 
 **Generative Adversarial Autoencoders in Theano**
