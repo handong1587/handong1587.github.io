@@ -346,6 +346,14 @@ MSCOCO 2015 test:
 - intro: "set a new record on the Caltech pedestrian dataset, lowering the log-average miss rate from 11.7% to 8.9%"
 - arxiv: [http://arxiv.org/abs/1603.04525](http://arxiv.org/abs/1603.04525)
 
+## Traffic-Sign Detection
+
+**Traffic-Sign Detection and Classification in the Wild**
+
+- project page(code+dataset): [http://cg.cs.tsinghua.edu.cn/traffic-sign/](http://cg.cs.tsinghua.edu.cn/traffic-sign/)
+- paper: [http://120.52.73.11/www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Zhu_Traffic-Sign_Detection_and_CVPR_2016_paper.pdf](http://120.52.73.11/www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Zhu_Traffic-Sign_Detection_and_CVPR_2016_paper.pdf)
+- code & model: [http://cg.cs.tsinghua.edu.cn/traffic-sign/data_model_code/newdata0411.zip](http://cg.cs.tsinghua.edu.cn/traffic-sign/data_model_code/newdata0411.zip)
+
 ## Boundary Detection
 
 **Pushing the Boundaries of Boundary Detection using Deep Learning**
