@@ -91,6 +91,10 @@ after the embedding and recurrent layers of the RNN."
 - homepage: [http://www.stat.ucla.edu/~junhua.mao/projects/child_learning.html](http://www.stat.ucla.edu/~junhua.mao/projects/child_learning.html)
 - github: [https://github.com/mjhucla/NVC-Dataset](https://github.com/mjhucla/NVC-Dataset)
 
+**What value do explicit high level concepts have in vision to language problems?**
+
+- arxiv: [http://arxiv.org/abs/1506.01144](http://arxiv.org/abs/1506.01144)
+
 **Learning FRAME Models Using CNN Filters for Knowledge Visualization(CVPR 2015)**
 
 - arXiv: [http://arxiv.org/abs/1509.08379](http://arxiv.org/abs/1509.08379)

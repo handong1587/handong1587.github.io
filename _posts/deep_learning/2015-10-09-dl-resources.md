@@ -370,6 +370,80 @@ testing it on the MNIST handwritten digits data.
 - blog: [http://russellsstewart.com/notes/0.html](http://russellsstewart.com/notes/0.html)
 - reddit: [https://www.reddit.com/r/MachineLearning/comments/4du7gv/introduction_to_debugging_neural_networks](https://www.reddit.com/r/MachineLearning/comments/4du7gv/introduction_to_debugging_neural_networks)
 
+# Adversarial Examples of Deep Learning
+
+**Intriguing properties of neural networks**
+
+- arxiv: [http://arxiv.org/abs/1312.6199](http://arxiv.org/abs/1312.6199)
+- my notes: In each layer of a deep network it is the "direction" of "space" (ensemble of feature activations) 
+which encodes useful class information rather than individual units (feature activations).
+
+**Deep Neural Networks are Easily Fooled: High Confidence Predictions for Unrecognizable Images**
+
+- arxiv: [http://arxiv.org/abs/1412.1897](http://arxiv.org/abs/1412.1897)
+- github: [https://github.com/Evolving-AI-Lab/fooling/](https://github.com/Evolving-AI-Lab/fooling/)
+
+**Explaining and Harnessing Adversarial Examples**
+
+- intro: primary cause of neural networks’ vulnerability to adversarial perturbation is their linear nature
+- arxiv: [http://arxiv.org/abs/1412.6572](http://arxiv.org/abs/1412.6572)
+
+**Distributional Smoothing with Virtual Adversarial Training**
+
+- arxiv: [http://arxiv.org/abs/1507.00677](http://arxiv.org/abs/1507.00677)
+- github: [https://github.com/takerum/vat](https://github.com/takerum/vat)
+
+**Confusing Deep Convolution Networks by Relabelling**
+
+- arxiv: [http://arxiv.org/abs/1510.06925v1](http://arxiv.org/abs/1510.06925v1)
+
+**Exploring the Space of Adversarial Images**
+
+- arxiv: [http://arxiv.org/abs/1510.05328](http://arxiv.org/abs/1510.05328)
+- github: [https://github.com/tabacof/adversarial](https://github.com/tabacof/adversarial)
+
+**Learning with a Strong Adversary**
+
+- arxiv: [http://arxiv.org/abs/1511.03034](http://arxiv.org/abs/1511.03034)
+
+## DeepFool
+
+**DeepFool: a simple and accurate method to fool deep neural networks**
+
+- arxiv: [http://arxiv.org/abs/1511.04599](http://arxiv.org/abs/1511.04599)
+- github: [https://github.com/LTS4/DeepFool](https://github.com/LTS4/DeepFool)
+
+**Adversarial Autoencoders**
+
+- arxiv: [http://arxiv.org/abs/1511.05644](http://arxiv.org/abs/1511.05644)
+- slides: [https://docs.google.com/presentation/d/1Lyp91JOSzXo0Kk8gPdgyQUDuqLV_PnSzJh7i5c8ZKjs/edit?pref=2&pli=1](https://docs.google.com/presentation/d/1Lyp91JOSzXo0Kk8gPdgyQUDuqLV_PnSzJh7i5c8ZKjs/edit?pref=2&pli=1)
+- notes(by Dustin Tran): [http://dustintran.com/blog/adversarial-autoencoders/](http://dustintran.com/blog/adversarial-autoencoders/)
+- TFD manifold: [http://www.comm.utoronto.ca/~makhzani/adv_ae/tfd.gif](http://www.comm.utoronto.ca/~makhzani/adv_ae/tfd.gif)
+- SVHN style manifold: [http://www.comm.utoronto.ca/~makhzani/adv_ae/svhn.gif](http://www.comm.utoronto.ca/~makhzani/adv_ae/svhn.gif)
+
+**Understanding Adversarial Training: Increasing Local Stability of Neural Nets through Robust Optimization**
+
+- arxiv: [http://arxiv.org/abs/1511.05432](http://arxiv.org/abs/1511.05432)
+- github: [https://github.com/yutaroyamada/RobustTraining](https://github.com/yutaroyamada/RobustTraining)
+
+**(Deep Learning’s Deep Flaws)’s Deep Flaws (By Zachary Chase Lipton)**
+
+- blog: [http://www.kdnuggets.com/2015/01/deep-learning-flaws-universal-machine-learning.html](http://www.kdnuggets.com/2015/01/deep-learning-flaws-universal-machine-learning.html)
+
+**Deep Learning Adversarial Examples – Clarifying Misconceptions (By Ian Goodfellow (Google))**
+
+- blog: [http://www.kdnuggets.com/2015/07/deep-learning-adversarial-examples-misconceptions.html](http://www.kdnuggets.com/2015/07/deep-learning-adversarial-examples-misconceptions.html)
+
+**Adversarial Machines: Fooling A.Is (and turn everyone into a Manga)**
+
+![](/assets/dl-materials/adversarial_machines_pipe.png)
+
+- blog: [https://medium.com/@samim/adversarial-machines-998d8362e996#.iv3muefgt](https://medium.com/@samim/adversarial-machines-998d8362e996#.iv3muefgt)
+
+**How to trick a neural network into thinking a panda is a vulture**
+
+- blog: [https://codewords.recurse.com/issues/five/why-do-neural-networks-think-a-panda-is-a-vulture](https://codewords.recurse.com/issues/five/why-do-neural-networks-think-a-panda-is-a-vulture)
+
 # Deep Learning Networks
 
 **Deeply-supervised Nets (DSN)**
@@ -737,8 +811,12 @@ with fast exact probabilistic inference over many layers."
 
 **Image Super-Resolution Using Deep Convolutional Networks (Microsoft Research)**
 
+![](http://mmlab.ie.cuhk.edu.hk/projects/SRCNN/img/figure1.png)
+
+- project page: [http://mmlab.ie.cuhk.edu.hk/projects/SRCNN.html](http://mmlab.ie.cuhk.edu.hk/projects/SRCNN.html)
 - paper: [http://arxiv.org/abs/1501.00092](http://arxiv.org/abs/1501.00092)
-- project: [http://mmlab.ie.cuhk.edu.hk/projects/SRCNN.html](http://mmlab.ie.cuhk.edu.hk/projects/SRCNN.html)
+- training code: [http://mmlab.ie.cuhk.edu.hk/projects/SRCNN/SRCNN_train.zip](http://mmlab.ie.cuhk.edu.hk/projects/SRCNN/SRCNN_train.zip)
+- test code: [http://mmlab.ie.cuhk.edu.hk/projects/SRCNN/SRCNN_v1.zip](http://mmlab.ie.cuhk.edu.hk/projects/SRCNN/SRCNN_v1.zip)
 
 **Learning a Deep Convolutional Network for Image Super-Resolution**
 
@@ -911,10 +989,6 @@ This task involves predicting the salient regions of an image given by human eye
 **Harnessing Deep Neural Networks with Logic Rules**
 
  - arxiv: [http://arxiv.org/abs/1603.06318](http://arxiv.org/abs/1603.06318)
- 
-**A guide to convolution arithmetic for deep learning**
- 
- - arxiv: [http://arxiv.org/abs/1603.07285](http://arxiv.org/abs/1603.07285)
  
 **Degrees of Freedom in Deep Neural Networks**
  
