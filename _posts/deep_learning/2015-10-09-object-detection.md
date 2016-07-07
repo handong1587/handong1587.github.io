@@ -362,7 +362,7 @@ MSCOCO 2015 test:
 
 **Holistically-Nested Edge Detection (ICCV 2015, Marr Prize)**
 
-![](/assets/cnn-materials/hed.jpg)
+![](https://camo.githubusercontent.com/da32e7e3275c2a9693dd2a6925b03a1151e2b098/687474703a2f2f70616765732e756373642e6564752f7e7a74752f6865642e6a7067)
 
 - paper: [http://www.cv-foundation.org/openaccess/content_iccv_2015/papers/Xie_Holistically-Nested_Edge_Detection_ICCV_2015_paper.pdf](http://www.cv-foundation.org/openaccess/content_iccv_2015/papers/Xie_Holistically-Nested_Edge_Detection_ICCV_2015_paper.pdf)
 - arxiv: [http://arxiv.org/abs/1504.06375](http://arxiv.org/abs/1504.06375)

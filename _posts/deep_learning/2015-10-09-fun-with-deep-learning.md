@@ -241,18 +241,18 @@ Compressed model is less than 500KB
 
 ![](/assets/fun_with_dl/Sketch-a-Net_that_Beats_Humans.png)
 
+- project page: [http://www.eecs.qmul.ac.uk/~tmh/downloads.html](http://www.eecs.qmul.ac.uk/~tmh/downloads.html)
 - arxiv: [http://arxiv.org/abs/1501.07873](http://arxiv.org/abs/1501.07873)
-- project: [http://www.eecs.qmul.ac.uk/~tmh/downloads.html](http://www.eecs.qmul.ac.uk/~tmh/downloads.html)
 - paper: [http://www.eecs.qmul.ac.uk/~tmh/papers/yu2015sketchanet.pdf](http://www.eecs.qmul.ac.uk/~tmh/papers/yu2015sketchanet.pdf)
 - code: [http://www.eecs.qmul.ac.uk/~tmh/downloads/SketchANet_Code.zip](http://www.eecs.qmul.ac.uk/~tmh/downloads/SketchANet_Code.zip)
 
 **How Do Humans Sketch Objects?**
 
-![](/assets/fun_with_dl/teaser_siggraph.jpg)
+![](http://cybertron.cg.tu-berlin.de/eitz/projects/classifysketch/teaser_siggraph.jpg)
 
+- project page: [http://cybertron.cg.tu-berlin.de/eitz/projects/classifysketch/](http://cybertron.cg.tu-berlin.de/eitz/projects/classifysketch/)
 - paper: [http://cybertron.cg.tu-berlin.de/eitz/pdf/2012_siggraph_classifysketch.pdf](http://cybertron.cg.tu-berlin.de/eitz/pdf/2012_siggraph_classifysketch.pdf)
-- project: [http://cybertron.cg.tu-berlin.de/eitz/projects/classifysketch/](http://cybertron.cg.tu-berlin.de/eitz/projects/classifysketch/)
-- code: [https://github.com/Zebreu/SketchingAI](https://github.com/Zebreu/SketchingAI)
+- github: [https://github.com/Zebreu/SketchingAI](https://github.com/Zebreu/SketchingAI)
 - gitxiv: [http://gitxiv.com/posts/ZBCxEc9g3Fg5xCQ6n/sketchingai](http://gitxiv.com/posts/ZBCxEc9g3Fg5xCQ6n/sketchingai)
 
 **Learning to Simplify: Fully Convolutional Networks for Rough Sketch Cleanup (SIGGRAPH 2016)**
@@ -505,7 +505,7 @@ Compressed model is less than 500KB
 
 **Reinforcement Learning using Tensor Flow: A deep Q learning demonstration using Google Tensorflow**
 
-![](/assets/dl-materials/tensorflow-deepq-example.gif)
+![](https://raw.githubusercontent.com/nivwusquorum/tensorflow-deepq/master/data/example.gif)
 
 - github: [https://github.com/nivwusquorum/tensorflow-deepq](https://github.com/nivwusquorum/tensorflow-deepq)
 

@@ -9,6 +9,7 @@ date: 2016-06-01
 
 - homepage: [https://sites.google.com/site/deeplearningsummerschool/schedule](https://sites.google.com/site/deeplearningsummerschool/schedule)
 - slides: [http://docs.huihoo.com/deep-learning/deeplearningsummerschool/2015/](http://docs.huihoo.com/deep-learning/deeplearningsummerschool/2015/)
+- github: [https://github.com/mila-udem/summerschool2015](https://github.com/mila-udem/summerschool2015)
 
 **26 Things I Learned in the Deep Learning Summer School**
 

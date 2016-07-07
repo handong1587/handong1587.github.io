@@ -71,10 +71,10 @@ date: 2015-09-12
 
 **Fast Burst Images Denoising(SIGGRAPH Asia 2014. CUHK, Microsoft Research)**
 
-![](/assets/computer-vision/Fast_Burst_Images_Denoising_intro.png)
+![](http://personal.ie.cuhk.edu.hk/~lz013/projects/burstdenoising/intro.png)
 
-- paper: [http://personal.ie.cuhk.edu.hk/~lz013/papers/burstdenoising.pdf](http://personal.ie.cuhk.edu.hk/~lz013/papers/burstdenoising.pdf)
 - project: [http://personal.ie.cuhk.edu.hk/~lz013/projects/BurstDenoising.html](http://personal.ie.cuhk.edu.hk/~lz013/projects/BurstDenoising.html)
+- paper: [http://personal.ie.cuhk.edu.hk/~lz013/papers/burstdenoising.pdf](http://personal.ie.cuhk.edu.hk/~lz013/papers/burstdenoising.pdf)
 
 **Robust non-linear regression analysis: A greedy approach employing kernels and application to image denoising (KGARD)**
 
@@ -168,7 +168,7 @@ date: 2015-09-12
 
 **PatchMatch: A Randomized Correspondence Algorithm for Structural Image Editing**
 
-![](/assets/computer-vision/patchmatch_title.png)
+![](http://gfx.cs.princeton.edu/pubs/Barnes_2009_PAR/patchmatch_title.png)
 
 - homepage(paper+code): [http://gfx.cs.princeton.edu/pubs/Barnes_2009_PAR/](http://gfx.cs.princeton.edu/pubs/Barnes_2009_PAR/)
 - paper: [http://gfx.cs.princeton.edu/pubs/Barnes_2009_PAR/patchmatch.pdf](http://gfx.cs.princeton.edu/pubs/Barnes_2009_PAR/patchmatch.pdf)
@@ -176,7 +176,7 @@ date: 2015-09-12
 
 **The Generalized PatchMatch Correspondence Algorithm**
 
-![](/assets/computer-vision/gpm_teaser.png)
+![](http://gfx.cs.princeton.edu/pubs/Barnes_2010_TGP/gpm_teaser.png)
 
 - homapage(paper+code): [http://gfx.cs.princeton.edu/pubs/Barnes_2010_TGP/index.php](http://gfx.cs.princeton.edu/pubs/Barnes_2010_TGP/index.php)
 - paper: [http://gfx.cs.princeton.edu/pubs/Barnes_2010_TGP/generalized_pm.pdf](http://gfx.cs.princeton.edu/pubs/Barnes_2010_TGP/generalized_pm.pdf)
@@ -295,7 +295,7 @@ date: 2015-09-12
 
 **Multi-scale Image Harmonization**
 
-![](/assets/computer-vision/harmonization_teaser_3.png)
+![](http://gvi.seas.harvard.edu/sites/all/files/paper-rep-images/harmonization_teaser_3.png)
 
 - homepage: [http://gvi.seas.harvard.edu/paper/multiscale-image-harmonization](http://gvi.seas.harvard.edu/paper/multiscale-image-harmonization)
 - paper: [http://gvi.seas.harvard.edu/sites/all/files/Harmonization_SIGGRAPH10.pdf](http://gvi.seas.harvard.edu/sites/all/files/Harmonization_SIGGRAPH10.pdf)
@@ -455,10 +455,10 @@ in digital tapestry, although some artifact removal methods can be used"
 
 **Video Tapestries with Continuous Temporal Zoom (Princeton. SIGGRAPH 2010)**
 
-![](/assets/computer-vision/Video_Tapestries_teaser.png)
+![](http://gfx.cs.princeton.edu/gfx/pubs/Barnes_2010_VTW/teaser.png)
 
-- paper: [http://www.connellybarnes.com/work/publications/2010_tapestry_electronic.pdf](http://www.connellybarnes.com/work/publications/2010_tapestry_electronic.pdf)
 - homepage: [http://gfx.cs.princeton.edu/gfx/pubs/Barnes_2010_VTW/index.php](http://gfx.cs.princeton.edu/gfx/pubs/Barnes_2010_VTW/index.php)
+- paper: [http://www.connellybarnes.com/work/publications/2010_tapestry_electronic.pdf](http://www.connellybarnes.com/work/publications/2010_tapestry_electronic.pdf)
 
 # Video Creativity
 
@@ -617,17 +617,17 @@ The size of their dataset is, however, limited by the availability of domain-spe
 
 **FaceDirector: Continuous Control of Facial Performance in Video**
 
-![](/assets/computer-vision/FaceDirector-Continuous-Control-of-Facial-Performance-in-Video-Image.png)
+![](https://www.disneyresearch.com/wp-content/uploads/FaceDirector-Continuous-Control-of-Facial-Performance-in-Video-Image.png)
 
 - homepage: [http://www.disneyresearch.com/publication/facedirector/](http://www.disneyresearch.com/publication/facedirector/)
 - paper: [http://disneyresearch.s3-us-west-1.amazonaws.com/wp-content/uploads/20151210174750/FaceDirector-Continuous-Control-of-Facial-Performance-in-Video-Paper.pdf](http://disneyresearch.s3-us-west-1.amazonaws.com/wp-content/uploads/20151210174750/FaceDirector-Continuous-Control-of-Facial-Performance-in-Video-Paper.pdf)
 
 **Real-time Expression Transfer for Facial Reenactment**
 
-![](/assets/computer-vision/Expression_Transfer_teaser.jpg)
+![](http://graphics.stanford.edu/~niessner/papers/2015/10face/teaser.jpg)
 
-- paper: [http://graphics.stanford.edu/~niessner/papers/2015/10face/thies2015realtime.pdf](http://graphics.stanford.edu/~niessner/papers/2015/10face/thies2015realtime.pdf)
 - homepage: [http://graphics.stanford.edu/~niessner/thies2015realtime.html](http://graphics.stanford.edu/~niessner/thies2015realtime.html)
+- paper: [http://graphics.stanford.edu/~niessner/papers/2015/10face/thies2015realtime.pdf](http://graphics.stanford.edu/~niessner/papers/2015/10face/thies2015realtime.pdf)
 
 **Photo Stylistic Brush: Robust Style Transfer via Superpixel-Based Bipartite Graph**
 

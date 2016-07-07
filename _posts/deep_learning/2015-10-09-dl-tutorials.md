@@ -9,10 +9,6 @@ date: 2015-10-09
 
 ![](/assets/cnn-materials/LeNet5.png)
 
-![](/assets/cnn-materials/conv.jpg)
-
-[http://cs231n.github.io/assets/conv-demo/index.html](http://cs231n.github.io/assets/conv-demo/index.html)
-
 **VGG Convolutional Neural Networks Practical**
 
 ![](http://www.robots.ox.ac.uk/~vgg/practicals/cnn/images/cover.png)
@@ -59,7 +55,7 @@ date: 2015-10-09
 
 **Deep learning from the bottom up**
 
-![](/assets/dl_resources/tutorials/deep_learning_from_the_bottom_up.png)
+![](https://i.imgur.com/SOjew3N.png)
 
 - blog: [https://www.metacademy.org/roadmaps/rgrosse/deep_learning](https://www.metacademy.org/roadmaps/rgrosse/deep_learning)
 
@@ -93,10 +89,10 @@ date: 2015-10-09
 
 **A 'Brief' History of Neural Nets and Deep Learning**
 
-- Part 1: [http://www.andreykurenkov.com/writing/a-brief-history-of-neural-nets-and-deep-learning/](http://www.andreykurenkov.com/writing/a-brief-history-of-neural-nets-and-deep-learning/)
-- Part 2: [http://www.andreykurenkov.com/writing/a-brief-history-of-neural-nets-and-deep-learning-part-2/](http://www.andreykurenkov.com/writing/a-brief-history-of-neural-nets-and-deep-learning-part-2/)
-- Part 3: [http://www.andreykurenkov.com/writing/a-brief-history-of-neural-nets-and-deep-learning-part-3/](http://www.andreykurenkov.com/writing/a-brief-history-of-neural-nets-and-deep-learning-part-3/)
-- Part 4: [http://www.andreykurenkov.com/writing/a-brief-history-of-neural-nets-and-deep-learning-part-4/](http://www.andreykurenkov.com/writing/a-brief-history-of-neural-nets-and-deep-learning-part-4/)
+- part 1: [http://www.andreykurenkov.com/writing/a-brief-history-of-neural-nets-and-deep-learning/](http://www.andreykurenkov.com/writing/a-brief-history-of-neural-nets-and-deep-learning/)
+- part 2: [http://www.andreykurenkov.com/writing/a-brief-history-of-neural-nets-and-deep-learning-part-2/](http://www.andreykurenkov.com/writing/a-brief-history-of-neural-nets-and-deep-learning-part-2/)
+- part 3: [http://www.andreykurenkov.com/writing/a-brief-history-of-neural-nets-and-deep-learning-part-3/](http://www.andreykurenkov.com/writing/a-brief-history-of-neural-nets-and-deep-learning-part-3/)
+- part 4: [http://www.andreykurenkov.com/writing/a-brief-history-of-neural-nets-and-deep-learning-part-4/](http://www.andreykurenkov.com/writing/a-brief-history-of-neural-nets-and-deep-learning-part-4/)
 
 **Deep Neural Networks — An Overview**
 
@@ -109,10 +105,6 @@ date: 2015-10-09
 **Deep Learning for Computer Vision – Introduction to Convolution Neural Networks**
 
 - blog: [http://www.analyticsvidhya.com/blog/2016/04/deep-learning-computer-vision-introduction-convolution-neural-networks/](http://www.analyticsvidhya.com/blog/2016/04/deep-learning-computer-vision-introduction-convolution-neural-networks/)
-
-**summerschool2015: Slides and exercises for the Deep Learning Summer School 2015 programming tutorials**
-
-- github: [https://github.com/mila-udem/summerschool2015](https://github.com/mila-udem/summerschool20150
 
 **BI Lab Deep Learning Tutorial**
 
@@ -172,6 +164,8 @@ date: 2015-10-09
 - video: [https://speakerdeck.com/breandan/deep-learning-on-java](https://speakerdeck.com/breandan/deep-learning-on-java)
 
 ## Convolution
+
+![](/assets/cnn-materials/conv.jpg)
 
 **Convolution in Caffe: a memo**
 

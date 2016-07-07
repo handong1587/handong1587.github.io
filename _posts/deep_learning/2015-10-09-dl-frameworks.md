@@ -386,7 +386,7 @@ for building Deep Learning (DL) machine learning (ML) models
 
 **TensorDebugger(TDB): Interactive, node-by-node debugging and visualization for TensorFlow**
 
-![](/assets/dl-frameworks/TDB.gif)
+![](https://camo.githubusercontent.com/4c671d2b359c9984472f37a73136971fd60e76e4/687474703a2f2f692e696d6775722e636f6d2f6e30506d58516e2e676966)
 
 - github: [https://github.com/ericjang/tdb](https://github.com/ericjang/tdb)
 

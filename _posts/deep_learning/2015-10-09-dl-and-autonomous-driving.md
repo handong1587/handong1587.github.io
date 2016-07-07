@@ -15,20 +15,15 @@ date: 2015-10-09
 
 # Papers
 
+## DeepDriving
+
 **DeepDriving: Learning Affordance for Direct Perception in Autonomous Driving**
 
 ![](http://deepdriving.cs.princeton.edu/teaser.jpg)
 
-- project: [http://deepdriving.cs.princeton.edu/](http://deepdriving.cs.princeton.edu/)
+- project page: [http://deepdriving.cs.princeton.edu/](http://deepdriving.cs.princeton.edu/)
 - paper: [http://deepdriving.cs.princeton.edu/paper.pdf](http://deepdriving.cs.princeton.edu/paper.pdf)
 - code: [http://deepdriving.cs.princeton.edu/DeepDriving.zip](http://deepdriving.cs.princeton.edu/DeepDriving.zip)
-
-**Recurrent Neural Networks for Driver Activity Anticipation via Sensory-Fusion Architecture**
-
-![](/assets/dl-materials/bnn_fp.png)
-
-- paper: [http://arxiv.org/abs/1509.05016](http://arxiv.org/abs/1509.05016)
-- homepage: [http://www.brain4cars.com/](http://www.brain4cars.com/)
 
 **End to End Learning for Self-Driving Cars**
 
@@ -38,6 +33,29 @@ date: 2015-10-09
 **Can we unify monocular detectors for autonomous driving by using the pixel-wise semantic segmentation of CNNs?**
 
 - arxiv: [http://arxiv.org/abs/1607.00971](http://arxiv.org/abs/1607.00971)
+
+## BRAIN4CARS: Cabin Sensing for Safe and Personalized Driving
+
+**Brain4Cars: Sensory-Fusion Recurrent Neural Models for Driver Activity Anticipation**
+
+**Brain4Cars: Car That Knows Before You Do via Sensory-Fusion Deep Learning Architecture**
+
+- arxiv: [http://arxiv.org/abs/1601.00740](http://arxiv.org/abs/1601.00740)
+
+**Car that Knows Before You Do: Anticipating Maneuvers via Learning Temporal Driving Models**
+
+![](http://brain4cars.com/img/demo.jpg)
+
+- arxiv: [http://arxiv.org/abs/1504.02789](http://arxiv.org/abs/1504.02789)
+- github: [https://github.com/asheshjain399/ICCV2015_Brain4Cars](https://github.com/asheshjain399/ICCV2015_Brain4Cars)
+
+**Recurrent Neural Networks for Driver Activity Anticipation via Sensory-Fusion Architecture**
+
+![](http://brain4cars.com/img/fusionRNN.png)
+
+- project page: [http://www.brain4cars.com/](http://www.brain4cars.com/)
+- arxiv: [http://arxiv.org/abs/1509.05016](http://arxiv.org/abs/1509.05016)
+- github: [https://github.com/asheshjain399/RNNexp](https://github.com/asheshjain399/RNNexp)
 
 # Projects
 
