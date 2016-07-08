@@ -128,3 +128,5 @@ date: 2016-07-08
 
 - intro: 3 hour tutorials on Torch, Tensorflow and Talks by Yoshua Bengio, NVIDIA, AMD
 - homepage: [https://portal.klewel.com/watch/webcast/deep-learning-tools-and-methods-workshop/](https://portal.klewel.com/watch/webcast/deep-learning-tools-and-methods-workshop/)
+- slides: [http://www.idiap.ch/workshop/dltm/](http://www.idiap.ch/workshop/dltm/)
+- Torch tutorials: [https://github.com/szagoruyko/idiap-tutorials](https://github.com/szagoruyko/idiap-tutorials)

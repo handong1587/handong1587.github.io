@@ -408,7 +408,17 @@ date: 2015-10-09
 
 - arxiv: [http://arxiv.org/abs/1502.02551](http://arxiv.org/abs/1502.02551)
 
+**BinaryConnect: Training Deep Neural Networks with binary weights during propagations**
+
+- paper: [http://papers.nips.cc/paper/5647-shape-and-illumination-from-shading-using-the-generic-viewpoint-assumption](http://papers.nips.cc/paper/5647-shape-and-illumination-from-shading-using-the-generic-viewpoint-assumption)
+- github: [https://github.com/MatthieuCourbariaux/BinaryConnect](https://github.com/MatthieuCourbariaux/BinaryConnect)
+
+**Binarized Neural Networks**
+
+- arxiv: [http://arxiv.org/abs/1602.02505](http://arxiv.org/abs/1602.02505)
+
 **BinaryNet: Training Deep Neural Networks with Weights and Activations Constrained to +1 or -1**
+**Binarized Neural Networks: Training Deep Neural Networks with Weights and Activations Constrained to +1 or -1**
 
 - arxiv: [http://arxiv.org/abs/1602.02830](http://arxiv.org/abs/1602.02830)
 - github: [https://github.com/MatthieuCourbariaux/BinaryNet](https://github.com/MatthieuCourbariaux/BinaryNet)

@@ -125,6 +125,13 @@ Compressed model is less than 500KB
 - blog: [http://kvfrans.com/neural-style-explained/](http://kvfrans.com/neural-style-explained/)
 - github: [https://github.com/kvfrans/neural-style](https://github.com/kvfrans/neural-style)
 
+## Neural Art On Audio
+
+**MSc AI Project on generative deep networks and neural style transfer for audio**
+
+- github: [https://github.com/Fr-d-rik/generative_audio](https://github.com/Fr-d-rik/generative_audio)
+- project report: [https://github.com/Fr-d-rik/generative_audio/blob/master/docs/project_report.pdf](https://github.com/Fr-d-rik/generative_audio/blob/master/docs/project_report.pdf)
+
 ## Neural Art On Video
 
 **neural-style-video**

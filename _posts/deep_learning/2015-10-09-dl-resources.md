@@ -176,6 +176,10 @@ date: 2015-10-09
 
 # Autoencoders
 
+**The Potential Energy of an Autoencoder (PAMI 2014)**
+
+- paper: [http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.698.4921&rep=rep1&type=pdf](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.698.4921&rep=rep1&type=pdf)
+
 **Importance Weighted Autoencoders**
 
 - paper: [http://arxiv.org/abs/1509.00519](http://arxiv.org/abs/1509.00519)
@@ -223,6 +227,11 @@ testing it on the MNIST handwritten digits data.
 - paper: [http://pages.cs.wisc.edu/~jerryzhu/pub/thesis.pdf](http://pages.cs.wisc.edu/~jerryzhu/pub/thesis.pdf)
 - blog("标签传播算法（Label Propagation）及Python实现"): [http://blog.csdn.net/zouxy09/article/details/49105265](http://blog.csdn.net/zouxy09/article/details/49105265)
 
+**Semi-Supervised Learning with Ladder Networks**
+
+- arxiv: [http://arxiv.org/abs/1507.02672](http://arxiv.org/abs/1507.02672)
+- github: [https://github.com/CuriousAI/ladder](https://github.com/CuriousAI/ladder)
+
 # Unsupervised Learning
 
 **On Random Weights and Unsupervised Feature Learning (ICML 2011)**
@@ -251,14 +260,25 @@ testing it on the MNIST handwritten digits data.
 - arxiv: [http://arxiv.org/abs/1603.09246](http://arxiv.org/abs/1603.09246)
 - notes: [http://www.inference.vc/notes-on-unsupervised-learning-of-visual-representations-by-solving-jigsaw-puzzles/](http://www.inference.vc/notes-on-unsupervised-learning-of-visual-representations-by-solving-jigsaw-puzzles/)
 
+## PredNet
+
+**Deep Predictive Coding Networks for Video Prediction and Unsupervised Learning (PredNet)**
+
+- arxiv: [http://arxiv.org/abs/1605.08104](http://arxiv.org/abs/1605.08104)
+
+## Image Clustering
+
 **Joint Unsupervised Learning of Deep Representations and Image Clusters (CVPR 2016)**
 
 - arxiv: [https://arxiv.org/abs/1604.03628](https://arxiv.org/abs/1604.03628)
 - github(Torch): [https://github.com/jwyang/joint-unsupervised-learning](https://github.com/jwyang/joint-unsupervised-learning)
 
-**Deep Predictive Coding Networks for Video Prediction and Unsupervised Learning (PredNet)**
+### Deep Embedded Clustering (DEC)
 
-- arxiv: [http://arxiv.org/abs/1605.08104](http://arxiv.org/abs/1605.08104)
+**Unsupervised Deep Embedding for Clustering Analysis (ICML 2016)**
+
+- arxiv: [https://arxiv.org/abs/1511.06335](https://arxiv.org/abs/1511.06335)
+- github: [https://github.com/piiswrong/dec](https://github.com/piiswrong/dec)
 
 # Transfer Learning
 
@@ -590,27 +610,26 @@ which encodes useful class information rather than individual units (feature act
 - github: [https://github.com/vshallc/PtrNets](https://github.com/vshallc/PtrNets)
 - notes: [https://github.com/dennybritz/deeplearning-papernotes/blob/master/notes/pointer-networks.md](https://github.com/dennybritz/deeplearning-papernotes/blob/master/notes/pointer-networks.md)
 
-**Training Very Deep Networks (highway networks)**
-
-- arxiv: [http://arxiv.org/abs/1507.06228](http://arxiv.org/abs/1507.06228)
-
 **Very Deep Learning with Highway Networks**
 
-- homepage(papers, code, FAQ): [http://people.idsia.ch/~rupesh/very_deep_learning/](http://people.idsia.ch/~rupesh/very_deep_learning/)
+- homepage(papers+code+FAQ): [http://people.idsia.ch/~rupesh/very_deep_learning/](http://people.idsia.ch/~rupesh/very_deep_learning/)
 
 **Rectified Factor Networks**
 
 - arXiv: [http://arxiv.org/abs/1502.06464](http://arxiv.org/abs/1502.06464)
 - github: [https://github.com/untom/librfn](https://github.com/untom/librfn)
 
+**FlowNet: Learning Optical Flow with Convolutional Networks**
+
+- arxiv: [http://arxiv.org/abs/1504.06852](http://arxiv.org/abs/1504.06852)
+
 **Correlational Neural Networks**
 
 - arxiv: [http://arxiv.org/abs/1504.07225](http://arxiv.org/abs/1504.07225)
 
-**Semi-Supervised Learning with Ladder Networks**
+**Training Very Deep Networks (highway networks)**
 
-- arxiv: [http://arxiv.org/abs/1507.02672](http://arxiv.org/abs/1507.02672)
-- github: [https://github.com/CuriousAI/ladder](https://github.com/CuriousAI/ladder)
+- arxiv: [http://arxiv.org/abs/1507.06228](http://arxiv.org/abs/1507.06228)
 
 **Diversity Networks**
 
@@ -645,15 +664,6 @@ with fast exact probabilistic inference over many layers."
 **Learning Discriminative Features via Label Consistent Neural Network**
 
 - arxiv: [http://arxiv.org/abs/1602.01168](http://arxiv.org/abs/1602.01168)
-
-**Binarized Neural Networks**
-
-- arxiv: [http://arxiv.org/abs/1602.02505](http://arxiv.org/abs/1602.02505)
-
-**BinaryConnect: Training Deep Neural Networks with binary weights during propagations**
-
-- paper: [http://papers.nips.cc/paper/5647-shape-and-illumination-from-shading-using-the-generic-viewpoint-assumption](http://papers.nips.cc/paper/5647-shape-and-illumination-from-shading-using-the-generic-viewpoint-assumption)
-- github: [https://github.com/MatthieuCourbariaux/BinaryConnect](https://github.com/MatthieuCourbariaux/BinaryConnect)
 
 **A Theory of Generative ConvNet**
 

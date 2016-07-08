@@ -51,7 +51,7 @@ dir /s /b /ad *.jpg > list.txt
 **List only files into a txt**
 
 ```
-dir /s /b /a:-d *.jpg > list.txt
+dir /s /b /a:-d *.mp4 *.mkv > list.txt
 ```
 
 # Utilities
