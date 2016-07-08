@@ -423,12 +423,12 @@ Compressed model is less than 500KB
 
 **Teaching Deep Convolutional Neural Networks to Play Go**
 
-- arXiv: [http://arxiv.org/abs/1412.3409](http://arxiv.org/abs/1412.3409)
+- arxiv: [http://arxiv.org/abs/1412.3409](http://arxiv.org/abs/1412.3409)
 - demo: [https://chrisc36.github.io/deep-go/](https://chrisc36.github.io/deep-go/)
 
 **Move Evaluation in Go Using Deep Convolutional Neural Networks(Google DeepMind, Google Brain)**
 
-- arXiv: [http://arxiv.org/abs/1412.6564](http://arxiv.org/abs/1412.6564)
+- arxiv: [http://arxiv.org/abs/1412.6564](http://arxiv.org/abs/1412.6564)
 
 **Training Deep Convolutional Neural Networks to Play Go**
 
@@ -457,7 +457,7 @@ Compressed model is less than 500KB
 
 ![](https://raw.githubusercontent.com/facebookresearch/darkforestGo/master/figure.png)
 
-- arXiv: [http://arxiv.org/abs/1511.06410](http://arxiv.org/abs/1511.06410)
+- arxiv: [http://arxiv.org/abs/1511.06410](http://arxiv.org/abs/1511.06410)
 - github: [https://github.com/facebookresearch/darkforestGo](https://github.com/facebookresearch/darkforestGo)
 - MIT tech review: [http://www.technologyreview.com/view/544181/how-facebooks-ai-researchers-built-a-game-changing-go-engine/](http://www.technologyreview.com/view/544181/how-facebooks-ai-researchers-built-a-game-changing-go-engine/)
 
@@ -484,7 +484,7 @@ Compressed model is less than 500KB
 
 **Giraffe: Using Deep Reinforcement Learning to Play Chess (MSc thesis)**
 
-- arXiv: [http://arxiv.org/abs/1509.01549](http://arxiv.org/abs/1509.01549)
+- arxiv: [http://arxiv.org/abs/1509.01549](http://arxiv.org/abs/1509.01549)
 
 **Spawkfish: neural network based chess engine**
 

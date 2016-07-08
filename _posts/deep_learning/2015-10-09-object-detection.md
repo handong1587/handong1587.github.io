@@ -99,7 +99,7 @@ topmost feature map after knowing the confidences of the underlying object categ
 |NoC,+EB   |07+12      |71.8%     |
 |NoC,+EB,bb|07+12      |73.3%     |
 
-- arXiv: [http://arxiv.org/abs/1504.06066](http://arxiv.org/abs/1504.06066)
+- arxiv: [http://arxiv.org/abs/1504.06066](http://arxiv.org/abs/1504.06066)
 
 **Improving Object Detection with Deep Convolutional Networks via Bayesian Optimization and Structured Prediction**
 
@@ -196,7 +196,7 @@ bounding boxes (which are shared for these categories).
 
 **R-CNN minus R**
 
-- arXiv: [http://arxiv.org/abs/1506.06981](http://arxiv.org/abs/1506.06981)
+- arxiv: [http://arxiv.org/abs/1506.06981](http://arxiv.org/abs/1506.06981)
 
 ## DenseBox
 
@@ -314,7 +314,7 @@ MSCOCO 2015 test:
 
 ![](/assets/object-detection-materials/end_to_end_people_detection_in_crowded_scenes.jpg)
 
-- arXiv: [http://arxiv.org/abs/1506.04878](http://arxiv.org/abs/1506.04878)
+- arxiv: [http://arxiv.org/abs/1506.04878](http://arxiv.org/abs/1506.04878)
 - github: [https://github.com/Russell91/reinspect](https://github.com/Russell91/reinspect)
 - ipn: [http://nbviewer.ipython.org/github/Russell91/ReInspect/blob/master/evaluation_reinspect.ipynb](http://nbviewer.ipython.org/github/Russell91/ReInspect/blob/master/evaluation_reinspect.ipynb)
 
@@ -322,7 +322,7 @@ MSCOCO 2015 test:
 
 **Context-aware CNNs for person head detection**
 
-- arXiv: [http://arxiv.org/abs/1511.07917](http://arxiv.org/abs/1511.07917)
+- arxiv: [http://arxiv.org/abs/1511.07917](http://arxiv.org/abs/1511.07917)
 - github: [https://github.com/aosokin/cnn_head_detection](https://github.com/aosokin/cnn_head_detection)
 
 ## Pedestrian Detection
@@ -334,7 +334,7 @@ MSCOCO 2015 test:
 
 **Deep convolutional neural networks for pedestrian detection**
 
-- arXiv: [http://arxiv.org/abs/1510.03608](http://arxiv.org/abs/1510.03608)
+- arxiv: [http://arxiv.org/abs/1510.03608](http://arxiv.org/abs/1510.03608)
 - github: [https://github.com/DenisTome/DeepPed](https://github.com/DenisTome/DeepPed)
 
 **New algorithm improves speed and accuracy of pedestrian detection**
@@ -358,13 +358,13 @@ MSCOCO 2015 test:
 
 **Pushing the Boundaries of Boundary Detection using Deep Learning**
 
-- arXiv: [http://arxiv.org/abs/1511.07386](http://arxiv.org/abs/1511.07386)
+- arxiv: [http://arxiv.org/abs/1511.07386](http://arxiv.org/abs/1511.07386)
 
 ## Abnormality Detection
 
 **Toward a Taxonomy and Computational Models of Abnormalities in Images**
 
-- arXiv: [http://arxiv.org/abs/1512.01325](http://arxiv.org/abs/1512.01325)
+- arxiv: [http://arxiv.org/abs/1512.01325](http://arxiv.org/abs/1512.01325)
 
 ## Edge Detection
 

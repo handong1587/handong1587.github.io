@@ -34,11 +34,11 @@ date: 2015-10-09
 **Delving Deep into Rectifiers: Surpassing Human-Level Performance on ImageNet Classification (PReLU)**
 
 - keywords: PReLU, Caffe "msra" weights initilization
-- arXiv: [http://arxiv.org/abs/1502.01852](http://arxiv.org/abs/1502.01852)
+- arxiv: [http://arxiv.org/abs/1502.01852](http://arxiv.org/abs/1502.01852)
 
 **Empirical Evaluation of Rectified Activations in Convolutional Network (ReLU/LReLU/PReLU/RReLU)**
 
-- arXiv: [http://arxiv.org/abs/1505.00853](http://arxiv.org/abs/1505.00853)
+- arxiv: [http://arxiv.org/abs/1505.00853](http://arxiv.org/abs/1505.00853)
 
 ## SReLU
 

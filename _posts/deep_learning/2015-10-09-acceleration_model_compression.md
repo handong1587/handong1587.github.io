@@ -41,7 +41,7 @@ singular value decomposition was adopted for the matrix factorization"
 
 **Flattened Convolutional Neural Networks for Feedforward Acceleration (ICLR 2015)**
 
-- arXiv: [http://arxiv.org/abs/1412.5474](http://arxiv.org/abs/1412.5474)
+- arxiv: [http://arxiv.org/abs/1412.5474](http://arxiv.org/abs/1412.5474)
 - github: [https://github.com/jhjin/flattened-cnn](https://github.com/jhjin/flattened-cnn)
 
 **Compressing Deep Convolutional Networks using Vector Quantization**
@@ -111,12 +111,13 @@ to decompose it into the multiplications of thinned dense matrices"
 **Data-free parameter pruning for Deep Neural Networks**
 
 - intro: "proposed to remove redundant neurons instead of network connections"
-- arXiv: [http://arxiv.org/abs/1507.06149](http://arxiv.org/abs/1507.06149)
+- arxiv: [http://arxiv.org/abs/1507.06149](http://arxiv.org/abs/1507.06149)
 
 **Fast Algorithms for Convolutional Neural Networks**
 
 - intro: "2.6x as fast as Caffe when comparing CPU implementations"
-- arXiv: [http://arxiv.org/abs/1509.09308](http://arxiv.org/abs/1509.09308)
+- arxiv: [http://arxiv.org/abs/1509.09308](http://arxiv.org/abs/1509.09308)
+- github: [https://github.com/andravin/wincnn](https://github.com/andravin/wincnn)
 - discussion: [https://github.com/soumith/convnet-benchmarks/issues/59#issuecomment-150111895](https://github.com/soumith/convnet-benchmarks/issues/59#issuecomment-150111895)
 - reddit: [https://www.reddit.com/r/MachineLearning/comments/3nocg5/fast_algorithms_for_convolutional_neural_networks/?](https://www.reddit.com/r/MachineLearning/comments/3nocg5/fast_algorithms_for_convolutional_neural_networks/?)
 
@@ -131,12 +132,12 @@ to decompose it into the multiplications of thinned dense matrices"
 
 **ZNN - A Fast and Scalable Algorithm for Training 3D Convolutional Networks on Multi-Core and Many-Core Shared Memory Machines**
 
-- arXiv: [http://arxiv.org/abs/1510.06706](http://arxiv.org/abs/1510.06706)
+- arxiv: [http://arxiv.org/abs/1510.06706](http://arxiv.org/abs/1510.06706)
 - github: [https://github.com/seung-lab/znn-release](https://github.com/seung-lab/znn-release)
 
 **Reducing the Training Time of Neural Networks by Partitioning**
 
-- arXiv: [http://arxiv.org/abs/1511.02954](http://arxiv.org/abs/1511.02954)
+- arxiv: [http://arxiv.org/abs/1511.02954](http://arxiv.org/abs/1511.02954)
 
 **Convolutional neural networks with low-rank regularization**
 

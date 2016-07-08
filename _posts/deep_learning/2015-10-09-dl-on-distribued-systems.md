@@ -26,7 +26,7 @@ date: 2015-10-09
 
 **SparkNet: Training Deep Networks in Spark**
 
-- arXiv: [http://arxiv.org/abs/1511.06051](http://arxiv.org/abs/1511.06051)
+- arxiv: [http://arxiv.org/abs/1511.06051](http://arxiv.org/abs/1511.06051)
 - github: [https://github.com/amplab/SparkNet](https://github.com/amplab/SparkNet)
 - blog: [http://www.kdnuggets.com/2015/12/spark-deep-learning-training-with-sparknet.html](http://www.kdnuggets.com/2015/12/spark-deep-learning-training-with-sparknet.html)
 

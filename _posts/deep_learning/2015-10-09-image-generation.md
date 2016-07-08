@@ -14,7 +14,7 @@ date: 2015-10-09
 
 **Learning to Generate Chairs, Tables and Cars with Convolutional Networks**
 
-- arXiv: [http://arxiv.org/abs/1411.5928](http://arxiv.org/abs/1411.5928)
+- arxiv: [http://arxiv.org/abs/1411.5928](http://arxiv.org/abs/1411.5928)
 
 **Generative Adversarial Networks**
 **Generative Adversarial Nets**
@@ -26,7 +26,7 @@ date: 2015-10-09
 
 **DRAW: A Recurrent Neural Network For Image Generation (Google DeepMind)**
 
-- arXiv: [http://arxiv.org/abs/1502.04623](http://arxiv.org/abs/1502.04623)
+- arxiv: [http://arxiv.org/abs/1502.04623](http://arxiv.org/abs/1502.04623)
 - github: [https://github.com/vivanov879/draw](https://github.com/vivanov879/draw)
 - github(Theano): [https://github.com/jbornschein/draw](https://github.com/jbornschein/draw)
 - github(Lasagne): [https://github.com/skaae/lasagne-draw](https://github.com/skaae/lasagne-draw)
@@ -40,12 +40,12 @@ date: 2015-10-09
 
 **Generative Image Modeling Using Spatial LSTMs**
 
-- arXiv: [http://arxiv.org/abs/1506.03478](http://arxiv.org/abs/1506.03478)
+- arxiv: [http://arxiv.org/abs/1506.03478](http://arxiv.org/abs/1506.03478)
 - github: [https://github.com/lucastheis/ride/](https://github.com/lucastheis/ride/)
 
 **Deep Generative Image Models using a Laplacian Pyramid of Adversarial Networks(NIPS 2015)**
 
-- arXiv: [http://arxiv.org/abs/1506.05751](http://arxiv.org/abs/1506.05751)
+- arxiv: [http://arxiv.org/abs/1506.05751](http://arxiv.org/abs/1506.05751)
 - code: [http://soumith.ch/eyescream/](http://soumith.ch/eyescream/)
 - project page: [http://soumith.ch/eyescream/](http://soumith.ch/eyescream/)
 - homepage: [http://www.cs.nyu.edu/~denton/](http://www.cs.nyu.edu/~denton/)
@@ -58,13 +58,13 @@ date: 2015-10-09
 
 **Generating Images from Captions with Attention**
 
-- arXiv: [http://arxiv.org/abs/1511.02793](http://arxiv.org/abs/1511.02793)
+- arxiv: [http://arxiv.org/abs/1511.02793](http://arxiv.org/abs/1511.02793)
 - github: [https://github.com/emansim/text2image](https://github.com/emansim/text2image)
 - demo: [http://www.cs.toronto.edu/~emansim/cap2im.html](http://www.cs.toronto.edu/~emansim/cap2im.html)
 
 **Attribute2Image: Conditional Image Generation from Visual Attributes**
 
-- arXiv: [http://arxiv.org/abs/1512.00570](http://arxiv.org/abs/1512.00570)
+- arxiv: [http://arxiv.org/abs/1512.00570](http://arxiv.org/abs/1512.00570)
 
 **Deep Visual Analogy-Making**
 
@@ -135,12 +135,12 @@ date: 2015-10-09
 
 **Max-margin Deep Generative Models**
 
-- arXiv: [http://arxiv.org/abs/1504.06787](http://arxiv.org/abs/1504.06787)
+- arxiv: [http://arxiv.org/abs/1504.06787](http://arxiv.org/abs/1504.06787)
 - github: [https://github.com/zhenxuan00/mmdgm](https://github.com/zhenxuan00/mmdgm)
 
-**Deep Generative Image Models using a Laplacian Pyramid of Adversarial Networks(NIPS 2015)**
+**Deep Generative Image Models using a Laplacian Pyramid of Adversarial Networks (NIPS 2015)**
 
-- arXiv: [http://arxiv.org/abs/1506.05751](http://arxiv.org/abs/1506.05751)
+- arxiv: [http://arxiv.org/abs/1506.05751](http://arxiv.org/abs/1506.05751)
 - code: [http://soumith.ch/eyescream/](http://soumith.ch/eyescream/)
 - project page: [http://soumith.ch/eyescream/](http://soumith.ch/eyescream/)
 - homepage: [http://www.cs.nyu.edu/~denton/](http://www.cs.nyu.edu/~denton/)
@@ -148,7 +148,7 @@ date: 2015-10-09
 
 **Unsupervised and Semi-supervised Learning with Categorical Generative Adversarial Networks(CatGAN)**
 
-- arXiv: [http://arxiv.org/abs/1511.06390](http://arxiv.org/abs/1511.06390)
+- arxiv: [http://arxiv.org/abs/1511.06390](http://arxiv.org/abs/1511.06390)
 
 **Torch convolutional GAN: Generating Faces with Torch**
 

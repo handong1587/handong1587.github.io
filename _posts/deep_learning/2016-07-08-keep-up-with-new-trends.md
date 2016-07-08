@@ -2,7 +2,7 @@
 layout: post
 category: deep_learning
 title: Keep Up With New Trends
-date: 2016-06-01
+date: 2016-07-08
 ---
 
 **Deep Learning Summer School 2015**
@@ -123,3 +123,8 @@ date: 2016-06-01
 **Deep Learning Trends @ ICLR 2016**
 
 [http://www.computervisionblog.com/2016/06/deep-learning-trends-iclr-2016.html](http://www.computervisionblog.com/2016/06/deep-learning-trends-iclr-2016.html)
+
+**Deep Learning, Tools and Methods workshop**
+
+- intro: 3 hour tutorials on Torch, Tensorflow and Talks by Yoshua Bengio, NVIDIA, AMD
+- homepage: [https://portal.klewel.com/watch/webcast/deep-learning-tools-and-methods-workshop/](https://portal.klewel.com/watch/webcast/deep-learning-tools-and-methods-workshop/)

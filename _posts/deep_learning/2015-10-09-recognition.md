@@ -66,6 +66,8 @@ date: 2015-10-09
 
 ### Food Recognition
 
+#### DeepFood
+
 **DeepFood: Deep Learning-Based Food Image Recognition for Computer-Aided Dietary Assessment**
 
 - arxiv: [http://arxiv.org/abs/1606.05675](http://arxiv.org/abs/1606.05675)

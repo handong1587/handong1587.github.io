@@ -576,6 +576,16 @@ The size of their dataset is, however, limited by the availability of domain-spe
 
 - blog: [http://www.computervisionblog.com/2016/01/why-slam-matters-future-of-real-time.html](http://www.computervisionblog.com/2016/01/why-slam-matters-future-of-real-time.html)
 
+# OCR
+
+**Ocular: a state-of-the-art historical OCR system**
+
+- github: [https://github.com/tberg12/ocular](https://github.com/tberg12/ocular)
+
+**【OCR/机器学习/搜索引擎】基于 Tesseract的图文识别搜**
+
+- github: [https://github.com/daijiale/OCR_FontsSearchEngine](https://github.com/daijiale/OCR_FontsSearchEngine)
+
 # Papers
 
 **Are Elephants Bigger than Butterflies? Reasoning about Sizes of Objects**
@@ -643,16 +653,7 @@ The size of their dataset is, however, limited by the availability of domain-spe
 - github: [https://github.com/biometrics/openbr](https://github.com/biometrics/openbr)
 - docs: [http://openbiometrics.org/docs/index.html](http://openbiometrics.org/docs/index.html)
 
-**Ocular: a state-of-the-art historical OCR system**
-
-- github: [https://github.com/tberg12/ocular](https://github.com/tberg12/ocular)
-
 # Resources
-
-**Awesome-deep-vision: A curated list of deep learning resources for computer vision**
-
-- website: [http://jiwonkim.org/awesome-deep-vision/](http://jiwonkim.org/awesome-deep-vision/)
-- github: [https://github.com/kjw0612/awesome-deep-vision](https://github.com/kjw0612/awesome-deep-vision)
 
 **Awesome Computer Vision**
 

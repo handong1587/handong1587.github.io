@@ -22,7 +22,7 @@ date: 2015-10-09
 
 **A Complex Network Approach for Collaborative Recommendation**
 
-- arXiv: [http://arxiv.org/abs/1510.00585v1](http://arxiv.org/abs/1510.00585v1)
+- arxiv: [http://arxiv.org/abs/1510.00585v1](http://arxiv.org/abs/1510.00585v1)
 
 **Wide & Deep Learning for Recommender Systems**
 

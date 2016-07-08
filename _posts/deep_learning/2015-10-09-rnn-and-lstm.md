@@ -118,7 +118,7 @@ date: 2015-10-09
 
 **Learning to Execute**
 
-- arXiv: [http://arxiv.org/abs/1410.4615](http://arxiv.org/abs/1410.4615)
+- arxiv: [http://arxiv.org/abs/1410.4615](http://arxiv.org/abs/1410.4615)
 - github: [https://github.com/wojciechz/learning_to_execute](https://github.com/wojciechz/learning_to_execute)
 - github(Tensorflow): [https://github.com/raindeer/seq2seq_experiments](https://github.com/raindeer/seq2seq_experiments)
 
@@ -130,7 +130,7 @@ date: 2015-10-09
 
 <img src="/assets/dl-materials/rnn_lstm/NPI/sort_full.gif" />
 
-- arXiv: [http://arxiv.org/abs/1511.06279](http://arxiv.org/abs/1511.06279)
+- arxiv: [http://arxiv.org/abs/1511.06279](http://arxiv.org/abs/1511.06279)
 - project page: [http://www-personal.umich.edu/~reedscot/iclr_project.html](http://www-personal.umich.edu/~reedscot/iclr_project.html)
 - github: [https://github.com/mokemokechicken/keras_npi](https://github.com/mokemokechicken/keras_npi)
 
@@ -168,7 +168,7 @@ date: 2015-10-09
 
 **A Neural Attention Model for Abstractive Sentence Summarization(EMNLP 2015. Facebook AI Research)**
 
-- arXiv: [http://arxiv.org/abs/1509.00685](http://arxiv.org/abs/1509.00685)
+- arxiv: [http://arxiv.org/abs/1509.00685](http://arxiv.org/abs/1509.00685)
 - github: [https://github.com/facebook/NAMAS](https://github.com/facebook/NAMAS)
 
 **Effective Approaches to Attention-based Neural Machine Translation (EMNLP2015)**
@@ -225,12 +225,12 @@ date: 2015-10-09
 
 **A Critical Review of Recurrent Neural Networks for Sequence Learning**
 
-- arXiv: [http://arxiv.org/abs/1506.00019](http://arxiv.org/abs/1506.00019)
+- arxiv: [http://arxiv.org/abs/1506.00019](http://arxiv.org/abs/1506.00019)
 - review: [http://blog.terminal.com/a-thorough-and-readable-review-on-rnns/](http://blog.terminal.com/a-thorough-and-readable-review-on-rnns/)
 
 **Scheduled Sampling for Sequence Prediction with Recurrent Neural Networks(Winner of MSCOCO image captioning challenge, 2015)**
 
-- arXiv: [http://arxiv.org/abs/1506.03099](http://arxiv.org/abs/1506.03099)
+- arxiv: [http://arxiv.org/abs/1506.03099](http://arxiv.org/abs/1506.03099)
 
 **Visualizing and Understanding Recurrent Networks (ICLR 2016. Andrej Karpathy, Justin Johnson, Fei-Fei Li)**
 
@@ -260,7 +260,7 @@ date: 2015-10-09
 
 **Alternative structures for character-level RNNs(INRIA & Facebook AI Research. ICLR 2016)**
 
-- arXiv: [http://arxiv.org/abs/1511.06303](http://arxiv.org/abs/1511.06303)
+- arxiv: [http://arxiv.org/abs/1511.06303](http://arxiv.org/abs/1511.06303)
 - github: [https://github.com/facebook/Conditional-character-based-RNN](https://github.com/facebook/Conditional-character-based-RNN)
 
 **Long Short-Term Memory-Networks for Machine Reading**
@@ -434,6 +434,10 @@ date: 2015-10-09
 
 - blog: [https://medium.com/@joycex99/machines-and-magic-teaching-computers-to-write-harry-potter-37839954f252#.4fxemal9t](https://medium.com/@joycex99/machines-and-magic-teaching-computers-to-write-harry-potter-37839954f252#.4fxemal9t)
 - github: [https://github.com/joycex99/hp-word-model](https://github.com/joycex99/hp-word-model)
+
+**Crash Course in Recurrent Neural Networks for Deep Learning**
+
+[http://machinelearningmastery.com/crash-course-recurrent-neural-networks-deep-learning/](http://machinelearningmastery.com/crash-course-recurrent-neural-networks-deep-learning/)
 
 ## Optimizing RNN (Baidu Silicon Valley AI Lab)
 

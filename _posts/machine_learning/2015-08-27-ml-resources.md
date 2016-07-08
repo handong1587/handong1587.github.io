@@ -104,7 +104,7 @@ Other awesome lists can be found in this [list](https://github.com/sindresorhus/
 
 **Convex Optimization: Algorithms and Complexity**
 
-- arXiv: [http://arxiv.org/abs/1405.4980](http://arxiv.org/abs/1405.4980)
+- arxiv: [http://arxiv.org/abs/1405.4980](http://arxiv.org/abs/1405.4980)
 - blog: [https://blogs.princeton.edu/imabandit/2015/11/30/convex-optimization-algorithms-and-complexity/](https://blogs.princeton.edu/imabandit/2015/11/30/convex-optimization-algorithms-and-complexity/)
 
 # Decision Tree
@@ -117,7 +117,7 @@ Other awesome lists can be found in this [list](https://github.com/sindresorhus/
 
 **Canonical Correlation Forests**
 
-- arXiv: [http://arxiv.org/abs/1507.05444](http://arxiv.org/abs/1507.05444)
+- arxiv: [http://arxiv.org/abs/1507.05444](http://arxiv.org/abs/1507.05444)
 - code: [https://bitbucket.org/twgr/ccf](https://bitbucket.org/twgr/ccf)
 
 # Generative Models
@@ -156,7 +156,7 @@ Other awesome lists can be found in this [list](https://github.com/sindresorhus/
 
 **Neural Network Matrix Factorization**
 
-- arXiv: [http://arxiv.org/abs/1511.06443](http://arxiv.org/abs/1511.06443)
+- arxiv: [http://arxiv.org/abs/1511.06443](http://arxiv.org/abs/1511.06443)
 
 **Beyond Low Rank + Sparse: Multi-scale Low Rank Matrix Decomposition**
 
@@ -264,7 +264,7 @@ Other awesome lists can be found in this [list](https://github.com/sindresorhus/
 
 **Deep Kernel Learning**
 
-- arXiv: [http://arxiv.org/abs/1511.02222](http://arxiv.org/abs/1511.02222)
+- arxiv: [http://arxiv.org/abs/1511.02222](http://arxiv.org/abs/1511.02222)
 
 **Questions on Deep Gaussian Processes**
 
@@ -488,7 +488,7 @@ Other awesome lists can be found in this [list](https://github.com/sindresorhus/
 
 **MILJS : Brand New JavaScript Libraries for Matrix Calculation and Machine Learning**
 
-- arXiv: [http://arxiv.org/abs/1503.05743v1](http://arxiv.org/abs/1503.05743v1)
+- arxiv: [http://arxiv.org/abs/1503.05743v1](http://arxiv.org/abs/1503.05743v1)
 - github: [https://github.com/mil-tokyo](https://github.com/mil-tokyo)
 - homepage: [http://mil-tokyo.github.io/](http://mil-tokyo.github.io/)
 

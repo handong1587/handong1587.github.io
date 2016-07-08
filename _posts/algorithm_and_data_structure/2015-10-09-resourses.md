@@ -126,6 +126,12 @@ date: 2015-07-01
 
 - github: [https://github.com/gzc/CLRS](https://github.com/gzc/CLRS)
 
+**Big-O Poster: Big-O Complexities / Poster of common algorithms used in Computer Science**
+
+![](https://cloud.githubusercontent.com/assets/1477672/16572711/6fd95eb8-4220-11e6-9389-c384da8553e0.jpg)
+
+- github: [https://github.com/ro31337/bigoposter](https://github.com/ro31337/bigoposter)
+
 # Reading and Questions
 
 **What are the lesser known but useful data structures?**

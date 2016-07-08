@@ -54,7 +54,7 @@ date: 2015-10-09
 
 ![](http://romera-paredes.com/wp-content/uploads/2015/12/RIS.png)
 	
-- arXiv: [http://arxiv.org/abs/1511.08250](http://arxiv.org/abs/1511.08250)
+- arxiv: [http://arxiv.org/abs/1511.08250](http://arxiv.org/abs/1511.08250)
 - homepage: [http://romera-paredes.com/recurrent-instance-segmentation](http://romera-paredes.com/recurrent-instance-segmentation)
 
 **Instance-aware Semantic Segmentation via Multi-task Network Cascades**
@@ -113,12 +113,12 @@ a unary term for Conditional Random Field (CRF) constructed over
 the image grid at its original resolution. 
 With labelling smoothness constraint enforced through pair-wise terms, 
 the per-pixel classification task is modeled as a CRF inference problem."
-- arXiv: [http://arxiv.org/abs/1412.7062](http://arxiv.org/abs/1412.7062)
+- arxiv: [http://arxiv.org/abs/1412.7062](http://arxiv.org/abs/1412.7062)
 - github: [https://bitbucket.org/deeplab/deeplab-public/](https://bitbucket.org/deeplab/deeplab-public/)
 
 **Weakly- and Semi-Supervised Learning of a DCNN for Semantic Image Segmentation (DeepLab)**
 
-- arXiv: [http://arxiv.org/abs/1502.02734](http://arxiv.org/abs/1502.02734)
+- arxiv: [http://arxiv.org/abs/1502.02734](http://arxiv.org/abs/1502.02734)
 - bitbucket: [https://bitbucket.org/deeplab/deeplab-public/](https://bitbucket.org/deeplab/deeplab-public/)
 
 **Conditional Random Fields as Recurrent Neural Networks (ICCV2015. Oxford / Stanford / Baidu)**

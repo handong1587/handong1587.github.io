@@ -28,7 +28,7 @@ date: 2015-10-09
 
 **Multi-view Face Detection Using Deep Convolutional Neural Networks(Yahoo)**
 
-- arXiv: [http://arxiv.org/abs/1502.02766](http://arxiv.org/abs/1502.02766)
+- arxiv: [http://arxiv.org/abs/1502.02766](http://arxiv.org/abs/1502.02766)
 
 **From Facial Parts Responses to Face Detection: A Deep Learning Approach**
 
@@ -43,37 +43,39 @@ date: 2015-10-09
 
 **FaceNet: A Unified Embedding for Face Recognition and Clustering(CVPR 2015. Google)**
 
-- arXiv: [http://arxiv.org/abs/1503.03832](http://arxiv.org/abs/1503.03832)
+- arxiv: [http://arxiv.org/abs/1503.03832](http://arxiv.org/abs/1503.03832)
 - github: [https://github.com/cmusatyalab/openface](https://github.com/cmusatyalab/openface)
 - github: [https://github.com/Atcold/torch-TripletEmbedding](https://github.com/Atcold/torch-TripletEmbedding)
 
 **Targeting Ultimate Accuracy: Face Recognition via Deep Embedding(CVPR 2015)**
 
-- arXiv: [http://arxiv.org/abs/1506.07310](http://arxiv.org/abs/1506.07310)
+- arxiv: [http://arxiv.org/abs/1506.07310](http://arxiv.org/abs/1506.07310)
 
 **Compact Convolutional Neural Network Cascade for Face Detection**
 
-- arXiv: [http://arxiv.org/abs/1508.01292](http://arxiv.org/abs/1508.01292)
+- arxiv: [http://arxiv.org/abs/1508.01292](http://arxiv.org/abs/1508.01292)
 - github: [https://github.com/Bkmz21/FD-Evaluation](https://github.com/Bkmz21/FD-Evaluation)
+
+**Makeup like a superstar: Deep Localized Makeup Transfer Network**
+
+- arxiv: [http://arxiv.org/abs/1604.07102](http://arxiv.org/abs/1604.07102)
+
+**Pose-Aware Face Recognition in the Wild**
+
+- paper: [www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Masi_Pose-Aware_Face_Recognition_CVPR_2016_paper.pdf](www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Masi_Pose-Aware_Face_Recognition_CVPR_2016_paper.pdf)
+
+# Datasets / Benchmarks
 
 **WIDER FACE: A Face Detection Benchmark**
 
 ![](http://mmlab.ie.cuhk.edu.hk/projects/WIDERFace/support/intro.jpg)
 
-- arXiv: [http://arxiv.org/abs/1511.06523](http://arxiv.org/abs/1511.06523)
 - homepage: [http://mmlab.ie.cuhk.edu.hk/projects/WIDERFace/](http://mmlab.ie.cuhk.edu.hk/projects/WIDERFace/)
+- arxiv: [http://arxiv.org/abs/1511.06523](http://arxiv.org/abs/1511.06523)
 
 **The MegaFace Benchmark: 1 Million Faces for Recognition at Scale**
 
-- arXiv: [http://arxiv.org/abs/1512.00596](http://arxiv.org/abs/1512.00596)
-
-**Makeup like a superstar: Deep Localized Makeup Transfer Network**
-
-- arXiv: [http://arxiv.org/abs/1604.07102](http://arxiv.org/abs/1604.07102)
-
-**Pose-Aware Face Recognition in the Wild**
-
-- paper: [www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Masi_Pose-Aware_Face_Recognition_CVPR_2016_paper.pdf](www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Masi_Pose-Aware_Face_Recognition_CVPR_2016_paper.pdf)
+- arxiv: [http://arxiv.org/abs/1512.00596](http://arxiv.org/abs/1512.00596)
 
 # Projects
 

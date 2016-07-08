@@ -28,7 +28,7 @@ for building Deep Learning (DL) machine learning (ML) models
 
 **Blocks and Fuel: Frameworks for deep learning**
 
-- arXiv: [http://arxiv.org/abs/1506.00619](http://arxiv.org/abs/1506.00619)
+- arxiv: [http://arxiv.org/abs/1506.00619](http://arxiv.org/abs/1506.00619)
 
 # BrainCore
 
@@ -53,6 +53,8 @@ for building Deep Learning (DL) machine learning (ML) models
 - slides: [http://vision.princeton.edu/courses/COS598/2015sp/slides/Caffe/caffe_tutorial.pdf](http://vision.princeton.edu/courses/COS598/2015sp/slides/Caffe/caffe_tutorial.pdf)
 - caffe-doc: [http://caffe.berkeleyvision.org/doxygen/index.html](http://caffe.berkeleyvision.org/doxygen/index.html)
 - tutorials("CAFFE with CUDA"): [http://pan.baidu.com/s/1i4kmpyH](http://pan.baidu.com/s/1i4kmpyH)
+
+## Caffe on both Linux and Windows
 
 **Caffe on both Linux and Windows**
 
@@ -368,7 +370,7 @@ for building Deep Learning (DL) machine learning (ML) models
 **Purine: A bi-graph based deep learning framework**
 
 - github: [https://github.com/purine/purine2](https://github.com/purine/purine2)
-- arXiv: [http://arxiv.org/abs/1412.6249](http://arxiv.org/abs/1412.6249)
+- arxiv: [http://arxiv.org/abs/1412.6249](http://arxiv.org/abs/1412.6249)
 
 # TensorFlow
 
@@ -383,6 +385,8 @@ for building Deep Learning (DL) machine learning (ML) models
 - stackoverflow: [https://stackoverflow.com/questions/tagged/tensorflow](https://stackoverflow.com/questions/tagged/tensorflow)
 - benchmark: [https://github.com/soumith/convnet-benchmarks/issues/66](https://github.com/soumith/convnet-benchmarks/issues/66)
 - tutorial-zh: [https://github.com/jikexueyuanwiki/tensorflow-zh](https://github.com/jikexueyuanwiki/tensorflow-zh)
+
+## TensorDebugger(TDB)
 
 **TensorDebugger(TDB): Interactive, node-by-node debugging and visualization for TensorFlow**
 
@@ -567,7 +571,7 @@ for building Deep Learning (DL) machine learning (ML) models
 **Comparative Study of Deep Learning Software Frameworks**
 
 - intro: Caffe / Neon / TensorFlow / Theano / Torch
-- arXiv: [http://arxiv.org/abs/1511.06435](http://arxiv.org/abs/1511.06435)
+- arxiv: [http://arxiv.org/abs/1511.06435](http://arxiv.org/abs/1511.06435)
 - github: [https://github.com/DL-Benchmarks/DL-Benchmarks](https://github.com/DL-Benchmarks/DL-Benchmarks)
 
 # Codes

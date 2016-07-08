@@ -30,7 +30,7 @@ date: 2015-10-09
 
 **Show and Tell: A Neural Image Caption Generator (Google)**
 
-- arXiv: [http://arxiv.org/abs/1411.4555](http://arxiv.org/abs/1411.4555)
+- arxiv: [http://arxiv.org/abs/1411.4555](http://arxiv.org/abs/1411.4555)
 - github: [https://github.com/karpathy/neuraltalk](https://github.com/karpathy/neuraltalk)
 - GitXiv: [http://gitxiv.com/posts/7nofxjoYBXga5XjtL/show-and-tell-a-neural-image-caption-nic-generator](http://gitxiv.com/posts/7nofxjoYBXga5XjtL/show-and-tell-a-neural-image-caption-nic-generator)
 - github: [https://github.com/apple2373/chainer_caption_generation](https://github.com/apple2373/chainer_caption_generation)
@@ -75,14 +75,14 @@ after the embedding and recurrent layers of the RNN."
 
 ![](http://kelvinxu.github.io/projects/diags/model_diag.png)
 
-- arXiv: [http://arxiv.org/abs/1502.03044](http://arxiv.org/abs/1502.03044)
+- arxiv: [http://arxiv.org/abs/1502.03044](http://arxiv.org/abs/1502.03044)
 - project page: [http://kelvinxu.github.io/projects/capgen.html](http://kelvinxu.github.io/projects/capgen.html)
 - github: [https://github.com/kelvinxu/arctic-captions](https://github.com/kelvinxu/arctic-captions)
 - github: [https://github.com/jazzsaxmafia/show_attend_and_tell.tensorflow](https://github.com/jazzsaxmafia/show_attend_and_tell.tensorflow)
 
 **Describing Videos by Exploiting Temporal Structure**
 
-- arXiv: [http://arxiv.org/abs/1502.08029](http://arxiv.org/abs/1502.08029)
+- arxiv: [http://arxiv.org/abs/1502.08029](http://arxiv.org/abs/1502.08029)
 - github: [https://github.com/yaoli/arctic-capgen-vid](https://github.com/yaoli/arctic-capgen-vid)
 
 **Learning like a Child: Fast Novel Visual Concept Learning from Sentence Descriptions of Images**
@@ -97,19 +97,19 @@ after the embedding and recurrent layers of the RNN."
 
 **Learning FRAME Models Using CNN Filters for Knowledge Visualization(CVPR 2015)**
 
-- arXiv: [http://arxiv.org/abs/1509.08379](http://arxiv.org/abs/1509.08379)
+- arxiv: [http://arxiv.org/abs/1509.08379](http://arxiv.org/abs/1509.08379)
 - project page: [http://www.stat.ucla.edu/~yang.lu/project/deepFrame/main.html](http://www.stat.ucla.edu/~yang.lu/project/deepFrame/main.html)
 - code+data: [http://www.stat.ucla.edu/~yang.lu/project/deepFrame/doc/deepFRAME_1.1.zip](http://www.stat.ucla.edu/~yang.lu/project/deepFrame/doc/deepFRAME_1.1.zip)
 
 **Generating Images from Captions with Attention**
 
-- arXiv: [http://arxiv.org/abs/1511.02793](http://arxiv.org/abs/1511.02793)
+- arxiv: [http://arxiv.org/abs/1511.02793](http://arxiv.org/abs/1511.02793)
 - github: [https://github.com/emansim/text2image](https://github.com/emansim/text2image)
 - demo: [http://www.cs.toronto.edu/~emansim/cap2im.html](http://www.cs.toronto.edu/~emansim/cap2im.html)
 
 **Order-Embeddings of Images and Language**
 
-- arXiv: [http://arxiv.org/abs/1511.06361](http://arxiv.org/abs/1511.06361)
+- arxiv: [http://arxiv.org/abs/1511.06361](http://arxiv.org/abs/1511.06361)
 - github: [https://github.com/ivendrov/order-embedding](https://github.com/ivendrov/order-embedding)
 
 ## DenseCap
@@ -117,7 +117,7 @@ after the embedding and recurrent layers of the RNN."
 **DenseCap: Fully Convolutional Localization Networks for Dense Captioning**
 
 - project page: [http://cs.stanford.edu/people/karpathy/densecap/](http://cs.stanford.edu/people/karpathy/densecap/)
-- arXiv: [http://arxiv.org/abs/1511.07571](http://arxiv.org/abs/1511.07571)
+- arxiv: [http://arxiv.org/abs/1511.07571](http://arxiv.org/abs/1511.07571)
 - github(Torch): [https://github.com/jcjohnson/densecap](https://github.com/jcjohnson/densecap)
 
 ## CRCN
@@ -168,14 +168,14 @@ after the embedding and recurrent layers of the RNN."
 
 ![](/assets/image_captioning/S2VTarchitecture.png)
 
-- arXiv: [http://arxiv.org/abs/1505.00487](http://arxiv.org/abs/1505.00487)
+- arxiv: [http://arxiv.org/abs/1505.00487](http://arxiv.org/abs/1505.00487)
 - project: [http://vsubhashini.github.io/s2vt.html](http://vsubhashini.github.io/s2vt.html)
 - github: [https://github.com/vsubhashini/caffe/tree/recurrent/examples/s2vt](https://github.com/vsubhashini/caffe/tree/recurrent/examples/s2vt)
 - github: [https://github.com/jazzsaxmafia/video_to_sequence](https://github.com/jazzsaxmafia/video_to_sequence)
 
 **Jointly Modeling Embedding and Translation to Bridge Video and Language**
 
-- arXiv: [http://arxiv.org/abs/1505.01861](http://arxiv.org/abs/1505.01861)
+- arxiv: [http://arxiv.org/abs/1505.01861](http://arxiv.org/abs/1505.01861)
 
 **Video Description using Bidirectional Recurrent Neural Networks**
 

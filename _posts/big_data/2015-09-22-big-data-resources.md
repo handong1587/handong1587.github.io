@@ -19,7 +19,7 @@ date: 2015-09-22
 
 **Random Forests for Big Data**
 
-- arXiv: [http://arxiv.org/abs/1511.08327](http://arxiv.org/abs/1511.08327)
+- arxiv: [http://arxiv.org/abs/1511.08327](http://arxiv.org/abs/1511.08327)
 
 **Big data analytics: a survey**
 

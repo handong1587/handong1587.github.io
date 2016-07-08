@@ -56,11 +56,11 @@ date: 2015-10-09
 
 **Understanding Intra-Class Knowledge Inside CNN**
 
-- arXiv: [http://arxiv.org/abs/1507.02379](http://arxiv.org/abs/1507.02379)
+- arxiv: [http://arxiv.org/abs/1507.02379](http://arxiv.org/abs/1507.02379)
 
 **Learning FRAME Models Using CNN Filters for Knowledge Visualization**
 
-- arXiv: [http://arxiv.org/abs/1509.08379](http://arxiv.org/abs/1509.08379)
+- arxiv: [http://arxiv.org/abs/1509.08379](http://arxiv.org/abs/1509.08379)
 - homepage: [http://www.stat.ucla.edu/~yang.lu/project/deepFrame/main.html](http://www.stat.ucla.edu/~yang.lu/project/deepFrame/main.html)
 - code: [http://www.stat.ucla.edu/~yang.lu/project/deepFrame/doc/code.zip](http://www.stat.ucla.edu/~yang.lu/project/deepFrame/doc/code.zip)
 
@@ -78,7 +78,7 @@ date: 2015-10-09
 
 **Visualizing Deep Convolutional Neural Networks Using Natural Pre-Images**
 
-- arXiv: [http://arxiv.org/abs/1512.02017](http://arxiv.org/abs/1512.02017)
+- arxiv: [http://arxiv.org/abs/1512.02017](http://arxiv.org/abs/1512.02017)
 
 **An Interactive Node-Link Visualization of Convolutional Neural Networks**
 
