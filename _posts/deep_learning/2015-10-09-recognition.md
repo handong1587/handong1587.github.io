@@ -27,7 +27,7 @@ date: 2015-10-09
 - arxiv: [http://arxiv.org/abs/1604.06486](http://arxiv.org/abs/1604.06486)
 - review: [https://www.technologyreview.com/s/601387/why-machine-vision-is-flawed-in-the-same-way-as-human-vision/](https://www.technologyreview.com/s/601387/why-machine-vision-is-flawed-in-the-same-way-as-human-vision/)
 
-# Multi-object Recognition
+## Multi-object Recognition
 
 **Multiple Object Recognition with Visual Attention**
 
@@ -45,6 +45,23 @@ date: 2015-10-09
 - arxiv: [http://arxiv.org/abs/1504.07889](http://arxiv.org/abs/1504.07889)
 - bitbucket: [https://bitbucket.org/tsungyu/bcnn.git](https://bitbucket.org/tsungyu/bcnn.git)
 
+**Fine-grained Image Classification by Exploring Bipartite-Graph Labels (CVPR 2016)**
+
+![](http://www.f-zhou.com/fg/over.png)
+
+- project page: [http://www.f-zhou.com/fg.html](http://www.f-zhou.com/fg.html)
+- arxiv: [http://arxiv.org/abs/1512.02665](http://arxiv.org/abs/1512.02665)
+- demo: [http://www.f-zhou.com/fg_demo/](http://www.f-zhou.com/fg_demo/)
+
+**Embedding Label Structures for Fine-Grained Feature Representation (CVPR 2016)**
+
+- arxiv: [http://arxiv.org/abs/1512.02895](http://arxiv.org/abs/1512.02895)
+- paper: [http://webpages.uncc.edu/~szhang16/paper/CVPR16_structured_labels.pdf](http://webpages.uncc.edu/~szhang16/paper/CVPR16_structured_labels.pdf)
+
+**Fine-grained Categorization and Dataset Bootstrapping using Deep Metric Learning with Humans in the Loop**
+
+- arxiv: [http://arxiv.org/abs/1512.05227](http://arxiv.org/abs/1512.05227)
+
 **Fully Convolutional Attention Localization Networks: Efficient Attention Localization for Fine-Grained Recognition**
 
 - arxiv: [http://arxiv.org/abs/1603.06765](http://arxiv.org/abs/1603.06765)
@@ -60,9 +77,19 @@ date: 2015-10-09
 - arxiv: [http://arxiv.org/abs/1605.05395](http://arxiv.org/abs/1605.05395)
 - github: [https://github.com/reedscot/cvpr2016](https://github.com/reedscot/cvpr2016)
 
+### IDNet
+
 **IDNet: Smartphone-based Gait Recognition with Convolutional Neural Networks**
 
 - arxiv: [http://arxiv.org/abs/1606.03238](http://arxiv.org/abs/1606.03238)
+
+**Picking Deep Filter Responses for Fine-grained Image Recognition (CVPR 2016)**
+
+### SPDA-CNN
+
+**SPDA-CNN: Unifying Semantic Part Detection and Abstraction for Fine-grained Recognition (CVPR 2016)**
+
+**Part-Stacked CNN for Fine-Grained Visual Categorization (CVPR 2016)**
 
 ### Food Recognition
 
@@ -71,6 +98,8 @@ date: 2015-10-09
 **DeepFood: Deep Learning-Based Food Image Recognition for Computer-Aided Dietary Assessment**
 
 - arxiv: [http://arxiv.org/abs/1606.05675](http://arxiv.org/abs/1606.05675)
+
+#### Im2Calories
 
 **Im2Calories: towards an automated mobile vision food diary**
 
@@ -108,3 +137,7 @@ date: 2015-10-09
 **Object Recognition with Convolutional Neural Networks in the Keras Deep Learning Library**
 
 [http://machinelearningmastery.com/object-recognition-convolutional-neural-networks-keras-deep-learning-library/](http://machinelearningmastery.com/object-recognition-convolutional-neural-networks-keras-deep-learning-library/)
+
+**【CVPR2016论文快讯】细粒度视觉分类的最新进展**
+
+[http://mp.weixin.qq.com/s?__biz=MzI1NTE4NTUwOQ==&mid=2650325020&idx=1&sn=d0eb308a95f4dfc90de10ca08e3f9e47&scene=2&srcid=0708FIXOyiOw9Wf3e79bsnT5&from=timeline&isappinstalled=0#wechat_redirect](http://mp.weixin.qq.com/s?__biz=MzI1NTE4NTUwOQ==&mid=2650325020&idx=1&sn=d0eb308a95f4dfc90de10ca08e3f9e47&scene=2&srcid=0708FIXOyiOw9Wf3e79bsnT5&from=timeline&isappinstalled=0#wechat_redirect)
