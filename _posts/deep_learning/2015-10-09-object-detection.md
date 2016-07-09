@@ -36,6 +36,7 @@ topmost feature map after knowing the confidences of the underlying object categ
 |R-CNN,bbox reg,VGG-Net|66.0%       |            |            |               |
 
 - arxiv: [http://arxiv.org/abs/1311.2524](http://arxiv.org/abs/1311.2524)
+- supp: [http://people.eecs.berkeley.edu/~rbg/papers/r-cnn-cvpr-supp.pdf](http://people.eecs.berkeley.edu/~rbg/papers/r-cnn-cvpr-supp.pdf)
 - slides: [http://www.image-net.org/challenges/LSVRC/2013/slides/r-cnn-ilsvrc2013-workshop.pdf](http://www.image-net.org/challenges/LSVRC/2013/slides/r-cnn-ilsvrc2013-workshop.pdf)
 - slides: [http://www.cs.berkeley.edu/~rbg/slides/rcnn-cvpr14-slides.pdf](http://www.cs.berkeley.edu/~rbg/slides/rcnn-cvpr14-slides.pdf)
 - github: [https://github.com/rbgirshick/rcnn](https://github.com/rbgirshick/rcnn)

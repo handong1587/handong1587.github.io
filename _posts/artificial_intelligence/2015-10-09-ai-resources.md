@@ -40,6 +40,18 @@ date: 2015-10-01
 - paper: [http://www.omicsgroup.org/journals/genetic-fuzzy-based-artificial-intelligence-for-unmanned-combat-aerialvehicle-control-in-simulated-air-combat-missions-2167-0374-1000144.pdf](http://www.omicsgroup.org/journals/genetic-fuzzy-based-artificial-intelligence-for-unmanned-combat-aerialvehicle-control-in-simulated-air-combat-missions-2167-0374-1000144.pdf)
 - blog: [http://magazine.uc.edu/editors_picks/recent_features/alpha.html](http://magazine.uc.edu/editors_picks/recent_features/alpha.html)
 
+# Projects
+
+**Malmö: a platform for Artificial Intelligence experimentation and research built on top of Minecraft**
+
+![](https://mscorpmedia.azureedge.net/mscorpmedia/2016/07/Malmo-2-low-res.jpg)
+
+- intro: Project Malmo is a platform for Artificial Intelligence experimentation and research built on top of Minecraft. 
+We aim to inspire a new generation of research into challenging new problems presented by this unique environment.
+- github: [https://github.com/Microsoft/malmo](https://github.com/Microsoft/malmo)
+- blog: [https://blogs.microsoft.com/next/2016/07/07/project-malmo-lets-researchers-use-minecraft-ai-research-makes-public-debut/#sm.00000cprgapu2iec3xp063js2t3x3](https://blogs.microsoft.com/next/2016/07/07/project-malmo-lets-researchers-use-minecraft-ai-research-makes-public-debut/#sm.00000cprgapu2iec3xp063js2t3x3)
+- review: [http://www.zdnet.com/article/microsofts-project-malmo-goes-open-source/](http://www.zdnet.com/article/microsofts-project-malmo-goes-open-source/)
+
 # Blogs
 
 **Artificial Intelligence Today**

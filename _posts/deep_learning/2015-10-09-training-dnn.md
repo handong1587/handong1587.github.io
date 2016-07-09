@@ -123,8 +123,8 @@ date: 2015-10-09
 
 **Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift(ImageNet top-5 error: 4.82%)**
 
-- intro: Batch-normalized Inception = Inception V2 
-- keywords: internal-covariate-shift problem
+- intro: ImageNet top-5 error: 4.82% 
+- keywords: internal covariate shift problem
 - arxiv: [http://arxiv.org/abs/1502.03167](http://arxiv.org/abs/1502.03167)
 - blog: [https://standardfrancis.wordpress.com/2015/04/16/batch-normalization/](https://standardfrancis.wordpress.com/2015/04/16/batch-normalization/)
 - notes: [http://blog.csdn.net/happynear/article/details/44238541](http://blog.csdn.net/happynear/article/details/44238541)
@@ -160,10 +160,6 @@ date: 2015-10-09
 **On Optimization Methods for Deep Learning**
 
 - paper: [http://www.icml-2011.org/papers/210_icmlpaper.pdf](http://www.icml-2011.org/papers/210_icmlpaper.pdf)
-
-**On the importance of initialization and momentum in deep learning**
-
-- paper: [http://jmlr.org/proceedings/papers/v28/sutskever13.pdf](http://jmlr.org/proceedings/papers/v28/sutskever13.pdf)
 
 **Invariant backpropagation: how to train a transformation-invariant neural network**
 
@@ -297,6 +293,8 @@ date: 2015-10-09
 
 # Gradient Descent
 
+## AdaGrad
+
 **Adaptive Subgradient Methods for Online Learning and Stochastic Optimization (AdaGrad)**
 
 - paper: [http://www.jmlr.org/papers/volume12/duchi11a/duchi11a.pdf](http://www.jmlr.org/papers/volume12/duchi11a/duchi11a.pdf)
@@ -305,9 +303,12 @@ date: 2015-10-09
 
 - arxiv: [http://arxiv.org/abs/1212.5701](http://arxiv.org/abs/1212.5701)
 
+## Momentum
+
 **On the importance of initialization and momentum in deep learning (NAG: Nesterov)**
 
 - paper: [http://www.cs.toronto.edu/~fritz/absps/momentum.pdf](http://www.cs.toronto.edu/~fritz/absps/momentum.pdf)
+- paper: [http://jmlr.org/proceedings/papers/v28/sutskever13.pdf](http://jmlr.org/proceedings/papers/v28/sutskever13.pdf)
 
 **RMSProp: Divide the gradient by a running average of its recent magnitude**
 
