@@ -234,6 +234,8 @@ testing it on the MNIST handwritten digits data.
 
 # Unsupervised Learning
 
+Restricted Boltzmann Machine (RBM), Sparse Coding and Auto-encoder
+
 **On Random Weights and Unsupervised Feature Learning (ICML 2011)**
 
 - paper: [http://www.robotics.stanford.edu/~ang/papers/icml11-RandomWeights.pdf](http://www.robotics.stanford.edu/~ang/papers/icml11-RandomWeights.pdf)
@@ -1188,26 +1190,53 @@ This task involves predicting the salient regions of an image given by human eye
 
 **How Auto-Encoders Could Provide Credit Assignment in Deep Networks via Target Propagation (Yoshua Bengio)**
 
-- paper: [http://arxiv.org/abs/1407.7906](http://arxiv.org/abs/1407.7906)
+- arxiv: [http://arxiv.org/abs/1407.7906](http://arxiv.org/abs/1407.7906)
 
 **Difference Target Propagation**
 
-- paper: [http://arxiv.org/abs/1412.7525](http://arxiv.org/abs/1412.7525)
-- code: [https://github.com/donghyunlee/dtp](https://github.com/donghyunlee/dtp)
+- arxiv: [http://arxiv.org/abs/1412.7525](http://arxiv.org/abs/1412.7525)
+- github: [https://github.com/donghyunlee/dtp](https://github.com/donghyunlee/dtp)
 
 ## CNN with Computer Vision
 
 **End-to-End Integration of a Convolutional Network, Deformable Parts Model and Non-Maximum Suppression**
 
-- arXiv: [http://arxiv.org/abs/1411.5309](http://arxiv.org/abs/1411.5309)
+- arxiv: [http://arxiv.org/abs/1411.5309](http://arxiv.org/abs/1411.5309)
 
 **A convnet for non-maximum suppression**
 
-- arXiv: [http://arxiv.org/abs/1511.06437](http://arxiv.org/abs/1511.06437)
+- arxiv: [http://arxiv.org/abs/1511.06437](http://arxiv.org/abs/1511.06437)
 
 **A Taxonomy of Deep Convolutional Neural Nets for Computer Vision**
 
 - arxiv: [http://arxiv.org/abs/1601.06615](http://arxiv.org/abs/1601.06615)
+
+# Installation
+
+**Setting up a Deep Learning Machine from Scratch (Software): Instructions for setting up the software on your deep learning machine**
+
+- intro: A detailed guide to setting up your machine for deep learning research. 
+Includes instructions to install drivers, tools and various deep learning frameworks. 
+This was tested on a 64 bit machine with Nvidia Titan X, running Ubuntu 14.04
+- github: [https://github.com/saiprashanths/dl-setup](https://github.com/saiprashanths/dl-setup)
+
+**How to install CUDA Toolkit and cuDNN for deep learning**
+
+- blog: [http://www.pyimagesearch.com/2016/07/04/how-to-install-cuda-toolkit-and-cudnn-for-deep-learning/](http://www.pyimagesearch.com/2016/07/04/how-to-install-cuda-toolkit-and-cudnn-for-deep-learning/)
+
+## Docker
+
+**All-in-one Docker image for Deep Learning**
+
+- intro: An all-in-one Docker image for deep learning. 
+Contains all the popular DL frameworks (TensorFlow, Theano, Torch, Caffe, etc.)
+- github: [https://github.com/saiprashanths/dl-docker](https://github.com/saiprashanths/dl-docker)
+
+## Cloud
+
+**SuperVessel Cloud for POWER/OpenPOWER LoginRegisterTutorials**
+
+[http://www.ptopenlab.com/](http://www.ptopenlab.com/)
 
 # Projects
 
@@ -1308,25 +1337,6 @@ We also include one pre-trained model using a custom convolutional network."
 **What is the difference between deep learning and usual machine learning?**
 
 - note: [https://github.com/rasbt/python-machine-learning-book/blob/master/faq/difference-deep-and-normal-learning.md](https://github.com/rasbt/python-machine-learning-book/blob/master/faq/difference-deep-and-normal-learning.md)
-
-# Installation
-
-**Setting up a Deep Learning Machine from Scratch (Software): Instructions for setting up the software on your deep learning machine**
-
-- intro: A detailed guide to setting up your machine for deep learning research. 
-Includes instructions to install drivers, tools and various deep learning frameworks. 
-This was tested on a 64 bit machine with Nvidia Titan X, running Ubuntu 14.04
-- github: [https://github.com/saiprashanths/dl-setup](https://github.com/saiprashanths/dl-setup)
-
-**All-in-one Docker image for Deep Learning**
-
-- intro: An all-in-one Docker image for deep learning. 
-Contains all the popular DL frameworks (TensorFlow, Theano, Torch, Caffe, etc.)
-- github: [https://github.com/saiprashanths/dl-docker](https://github.com/saiprashanths/dl-docker)
-
-**How to install CUDA Toolkit and cuDNN for deep learning**
-
-- blog: [http://www.pyimagesearch.com/2016/07/04/how-to-install-cuda-toolkit-and-cudnn-for-deep-learning/](http://www.pyimagesearch.com/2016/07/04/how-to-install-cuda-toolkit-and-cudnn-for-deep-learning/)
 
 # Resources
 
