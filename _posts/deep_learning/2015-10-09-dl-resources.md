@@ -14,6 +14,9 @@ date: 2015-10-09
 - nips-page: [http://papers.nips.cc/paper/4824-imagenet-classification-with-deep-](http://papers.nips.cc/paper/4824-imagenet-classification-with-deep-)
 - paper: [http://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf](http://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf)
 - slides: [http://www.image-net.org/challenges/LSVRC/2012/supervision.pdf](http://www.image-net.org/challenges/LSVRC/2012/supervision.pdf)
+- code: [https://code.google.com/p/cuda-convnet/](https://code.google.com/p/cuda-convnet/)
+- github: [https://github.com/dnouri/cuda-convnet](https://github.com/dnouri/cuda-convnet)
+- code: [https://code.google.com/p/cuda-convnet2/](https://code.google.com/p/cuda-convnet2/)
 
 ## Network In Network
 
@@ -54,22 +57,16 @@ date: 2015-10-09
 
 - github: [https://github.com/machrisaa/tensorflow-vgg](https://github.com/machrisaa/tensorflow-vgg)
 
-## Inception-V2
+## Inception-V2 / Inception-V3
 
-**Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift(ImageNet top-5 error: 4.82%)**
-
-- intro: Batch-normalized Inception = Inception V2 
-- arXiv: [http://arxiv.org/abs/1502.03167](http://arxiv.org/abs/1502.03167)
-- blog: [https://standardfrancis.wordpress.com/2015/04/16/batch-normalization/](https://standardfrancis.wordpress.com/2015/04/16/batch-normalization/)
-- notes: [http://blog.csdn.net/happynear/article/details/44238541](http://blog.csdn.net/happynear/article/details/44238541)
-
-## Inception-V3
+Inception-V3 = Inception-V2 + BN-auxiliary (fully connected layer of the auxiliary classifier is also batch-normalized, 
+not just the convolutions)
 
 **Rethinking the Inception Architecture for Computer Vision**
 
 - intro: "21.2% top-1 and 5.6% top-5 error for single frame evaluation using a network; 
 3.5% top-5 error and 17.3% top-1 error With an ensemble of 4 models and multi-crop evaluation."
-- arXiv: [http://arxiv.org/abs/1512.00567](http://arxiv.org/abs/1512.00567)
+- arxiv: [http://arxiv.org/abs/1512.00567](http://arxiv.org/abs/1512.00567)
 - github(Torch): [https://github.com/Moodstocks/inception-v3.torch](https://github.com/Moodstocks/inception-v3.torch)
 - github(TensorFlow): [https://github.com/tensorflow/models/tree/master/inception#how-to-train-from-scratch-in-a-distributed-setting](https://github.com/tensorflow/models/tree/master/inception#how-to-train-from-scratch-in-a-distributed-setting)
 
@@ -252,7 +249,7 @@ testing it on the MNIST handwritten digits data.
 **Unsupervised Learning on Neural Network Outputs**
 
 - intro: "use CNN trained on the ImageNet of 1000 classes to the ImageNet of over 20000 classes"
-- arXiv: [http://arxiv.org/abs/1506.00990](http://arxiv.org/abs/1506.00990)
+- arxiv: [http://arxiv.org/abs/1506.00990](http://arxiv.org/abs/1506.00990)
 - github: [https://github.com/yaolubrain/ULNNO](https://github.com/yaolubrain/ULNNO)
 
 **Unsupervised Learning of Visual Representations by Solving Jigsaw Puzzles**
@@ -284,7 +281,7 @@ testing it on the MNIST handwritten digits data.
 
 **How transferable are features in deep neural networks? (NIPS 2014)**
 
-- arXiv: [http://arxiv.org/abs/1411.1792](http://arxiv.org/abs/1411.1792)
+- arxiv: [http://arxiv.org/abs/1411.1792](http://arxiv.org/abs/1411.1792)
 
 **Learning and Transferring Mid-Level Image Representations using Convolutional Neural Networks**
 
@@ -298,7 +295,7 @@ testing it on the MNIST handwritten digits data.
 
 **Net2Net: Accelerating Learning via Knowledge Transfer**
 
-- arXiv: [http://arxiv.org/abs/1511.05641](http://arxiv.org/abs/1511.05641)
+- arxiv: [http://arxiv.org/abs/1511.05641](http://arxiv.org/abs/1511.05641)
 - github: [https://github.com/soumith/net2net.torch](https://github.com/soumith/net2net.torch)
 - notes(by Hugo Larochelle): [https://www.evernote.com/shard/s189/sh/46414718-9663-440e-bbb7-65126b247b42/19688c438709251d8275d843b8158b03](https://www.evernote.com/shard/s189/sh/46414718-9663-440e-bbb7-65126b247b42/19688c438709251d8275d843b8158b03)
 
@@ -444,7 +441,7 @@ accuracy and the detection and localization accuracy of all tasks
 
 **Compact Convolutional Neural Network Cascade for Face Detection**
 
-- arXiv: [http://arxiv.org/abs/1508.01292](http://arxiv.org/abs/1508.01292)
+- arxiv: [http://arxiv.org/abs/1508.01292](http://arxiv.org/abs/1508.01292)
 - github: [https://github.com/Bkmz21/FD-Evaluation](https://github.com/Bkmz21/FD-Evaluation)
 
 ## Bag of Words
@@ -493,13 +490,13 @@ accuracy and the detection and localization accuracy of all tasks
 
 **Robots that can adapt like animals(Nature 2014)**
 
-- arXiv: [http://arxiv.org/abs/1407.3501](http://arxiv.org/abs/1407.3501)
+- arxiv: [http://arxiv.org/abs/1407.3501](http://arxiv.org/abs/1407.3501)
 - code: [http://pages.isir.upmc.fr/~mouret/code/ite_source_code.tar.gz](http://pages.isir.upmc.fr/~mouret/code/ite_source_code.tar.gz)
 - github(for Bayesian optimization): [http://github.com/jbmouret/limbo](http://github.com/jbmouret/limbo)
 
 **End-to-End Training of Deep Visuomotor Policies**
 
-- arXiv: [http://arxiv.org/abs/1504.00702](http://arxiv.org/abs/1504.00702)
+- arxiv: [http://arxiv.org/abs/1504.00702](http://arxiv.org/abs/1504.00702)
 
 # Debugging Deep Learning
 
@@ -616,7 +613,7 @@ which encodes useful class information rather than individual units (feature act
 
 **Rectified Factor Networks**
 
-- arXiv: [http://arxiv.org/abs/1502.06464](http://arxiv.org/abs/1502.06464)
+- arxiv: [http://arxiv.org/abs/1502.06464](http://arxiv.org/abs/1502.06464)
 - github: [https://github.com/untom/librfn](https://github.com/untom/librfn)
 
 **FlowNet: Learning Optical Flow with Convolutional Networks**
@@ -808,7 +805,7 @@ with fast exact probabilistic inference over many layers."
 
 **PANDA: Pose Aligned Networks for Deep Attribute Modeling (Facebook. CVPR 2014)**
 
-- arXiv: [http://arxiv.org/abs/1311.5591](http://arxiv.org/abs/1311.5591)
+- arxiv: [http://arxiv.org/abs/1311.5591](http://arxiv.org/abs/1311.5591)
 - github: [https://github.com/facebook/pose-aligned-deep-networks](https://github.com/facebook/pose-aligned-deep-networks)
 
 **Predicting psychological attributions from face photographs with a deep neural network**
@@ -819,7 +816,12 @@ with fast exact probabilistic inference over many layers."
 
 - arxiv: [http://arxiv.org/abs/1511.03908](http://arxiv.org/abs/1511.03908)
 
-## Pose Estimation 
+## Pose Estimation
+
+**DeepPose: Human Pose Estimation via Deep Neural Networks (CVPR 2014)**
+
+- arxiv: [http://arxiv.org/abs/1312.4659](http://arxiv.org/abs/1312.4659)
+- slides: [http://140.122.184.143/paperlinks/Slides/DeepPose_HumanPose_Estimation_via_Deep_Neural_Networks.pptx](http://140.122.184.143/paperlinks/Slides/DeepPose_HumanPose_Estimation_via_Deep_Neural_Networks.pptx)
 
 **Flowing ConvNets for Human Pose Estimation in Videos**
 
@@ -879,7 +881,7 @@ with fast exact probabilistic inference over many layers."
 
 ![](http://www.di.ens.fr/willow/research/netvlad/images/teaser.png)
 
-- arXiv: [http://arxiv.org/abs/1511.07247](http://arxiv.org/abs/1511.07247)
+- arxiv: [http://arxiv.org/abs/1511.07247](http://arxiv.org/abs/1511.07247)
 - homepage: [http://www.di.ens.fr/willow/research/netvlad/](http://www.di.ens.fr/willow/research/netvlad/)
 
 **PlaNet - Photo Geolocation with Convolutional Neural Networks**
@@ -1199,11 +1201,11 @@ This task involves predicting the salient regions of an image given by human eye
 
 **End-to-End Integration of a Convolutional Network, Deformable Parts Model and Non-Maximum Suppression**
 
-- arXiv: [http://arxiv.org/abs/1411.5309](http://arxiv.org/abs/1411.5309)
+- arxiv: [http://arxiv.org/abs/1411.5309](http://arxiv.org/abs/1411.5309)
 
 **A convnet for non-maximum suppression**
 
-- arXiv: [http://arxiv.org/abs/1511.06437](http://arxiv.org/abs/1511.06437)
+- arxiv: [http://arxiv.org/abs/1511.06437](http://arxiv.org/abs/1511.06437)
 
 **A Taxonomy of Deep Convolutional Neural Nets for Computer Vision**
 
