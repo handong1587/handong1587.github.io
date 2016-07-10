@@ -711,12 +711,15 @@ with fast exact probabilistic inference over many layers."
 
 **Spatial Transformer Networks (NIPS 2015)**
 
+![](https://camo.githubusercontent.com/bb81d6267f2123d59979453526d958a58899bb4f/687474703a2f2f692e696d6775722e636f6d2f4578474456756c2e706e67)
+
 - arxiv: [http://arxiv.org/abs/1506.02025](http://arxiv.org/abs/1506.02025)
 - gitxiv: [http://gitxiv.com/posts/5WTXTLuEA4Hd8W84G/spatial-transformer-networks](http://gitxiv.com/posts/5WTXTLuEA4Hd8W84G/spatial-transformer-networks)
 - github: [https://github.com/daerduoCarey/SpatialTransformerLayer](https://github.com/daerduoCarey/SpatialTransformerLayer)
 - github: [https://github.com/qassemoquab/stnbhwd](https://github.com/qassemoquab/stnbhwd)
 - github: [https://github.com/skaae/transformer_network](https://github.com/skaae/transformer_network)
 - github(Caffe): [https://github.com/happynear/SpatialTransformerLayer](https://github.com/happynear/SpatialTransformerLayer)
+- github: [https://github.com/daviddao/spatial-transformer-tensorflow](https://github.com/daviddao/spatial-transformer-tensorflow)
 - caffe-issue: [https://github.com/BVLC/caffe/issues/3114](https://github.com/BVLC/caffe/issues/3114)
 - code: [https://lasagne.readthedocs.org/en/latest/modules/layers/special.html#lasagne.layers.TransformerLayer](https://lasagne.readthedocs.org/en/latest/modules/layers/special.html#lasagne.layers.TransformerLayer)
 - ipn(Lasagne): [http://nbviewer.jupyter.org/github/Lasagne/Recipes/blob/master/examples/spatial_transformer_network.ipynb](http://nbviewer.jupyter.org/github/Lasagne/Recipes/blob/master/examples/spatial_transformer_network.ipynb)

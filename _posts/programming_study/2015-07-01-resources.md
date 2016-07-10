@@ -197,6 +197,10 @@ which continually runs and visualizes your code as you type
 
 [https://blog.idrsolutions.com/2014/08/music-and-coding-part-3-listen-music/](https://blog.idrsolutions.com/2014/08/music-and-coding-part-3-listen-music/)
 
+**Programming Languages Used for Music**
+
+- blog: [http://www.nosuch.com/plum/cgi/showlist.cgi?sort=name&concise=yes](http://www.nosuch.com/plum/cgi/showlist.cgi?sort=name&concise=yes)
+
 # Programming
 
 **Why is Object-Oriented Programming Useful? (With a Role Playing Game Example)**
@@ -293,6 +297,12 @@ control a spaceship in order to complete some objective.
 ![](https://camo.githubusercontent.com/b48905b57f007218604c23fdc244f9d876f67af4/68747470733a2f2f6c68332e676f6f676c6575736572636f6e74656e742e636f6d2f2d6854504e346d53444e69592f5677793855675463784e492f41414141414141414731632f6536376745395453414b517263642d4144486d41674f74754d4451506879437267434c63422f733530302f41667465722b50726570726f63657373696e672e706e67)
 
 - github: [https://github.com/prajwalkr/SnapSudoku](https://github.com/prajwalkr/SnapSudoku)
+
+**TerraLegion**
+
+![](https://camo.githubusercontent.com/9c5c7bfd83a5448b6e1a2c0f55b194b9694ed9a6/687474703a2f2f692e696d6775722e636f6d2f6d36516342676a2e706e67)
+
+- github: [https://github.com/jmrapp1/TerraLegion](https://github.com/jmrapp1/TerraLegion)
 
 ## Editing
 

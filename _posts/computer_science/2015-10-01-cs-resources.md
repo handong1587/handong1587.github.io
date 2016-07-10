@@ -54,3 +54,9 @@ date: 2015-10-01
 **Landmark Contributions by Students in Computer Science**
 
 [http://lazowska.cs.washington.edu/Student_Achievements.pdf](http://lazowska.cs.washington.edu/Student_Achievements.pdf)
+
+**The Ultimate PCB Design Tutorial for Startups**
+
+![](http://www.nepsu.com/blog/img/nepsu_pcbdesignguide/mainpcblgoptimus.jpeg)
+
+- blog: [http://www.nepsu.com/nepsu_ultimate_pcb_design_guide.html](http://www.nepsu.com/nepsu_ultimate_pcb_design_guide.html)

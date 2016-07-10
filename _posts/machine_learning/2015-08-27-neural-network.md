@@ -109,6 +109,10 @@ date: 2015-08-27
 
 - blog: [http://www.iotapersei.com/_neural_networks_article.html](http://www.iotapersei.com/_neural_networks_article.html)
 
+**NeuroFlow: A lightweight, scala based library for Artificial Neural Networks**
+
+- github: [https://github.com/zenecture/neuroflow](https://github.com/zenecture/neuroflow)
+
 # Videos
 
 **Neural Networks with PHP**
