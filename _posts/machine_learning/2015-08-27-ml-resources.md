@@ -601,3 +601,7 @@ for creating complex software in C++ to solve real world problems.
 **Machine Learning Problem Bible (MLPB)**
 
 - github: [https://github.com/ben519/MLPB](https://github.com/ben519/MLPB)
+
+**List of machine learning concepts**
+
+- wiki: [https://en.wikipedia.org/wiki/List_of_machine_learning_concepts](https://en.wikipedia.org/wiki/List_of_machine_learning_concepts)

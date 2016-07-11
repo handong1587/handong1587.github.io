@@ -110,6 +110,10 @@ There are no right answers but it helps to understand their thoughts and researc
 
 [http://strml.net/](http://strml.net/)
 
+**This résumé for Elon Musk proves you never, ever need to use more than one page**
+
+[http://www.businessinsider.com/elons-musk-resume-all-on-one-page-2016-4?utm_source=tuicool&utm_medium=referral](http://www.businessinsider.com/elons-musk-resume-all-on-one-page-2016-4?utm_source=tuicool&utm_medium=referral)
+
 # Resources
 
 **Awesome Interviews: A curated awesome list of lists of interview questions**

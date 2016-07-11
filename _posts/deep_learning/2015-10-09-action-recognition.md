@@ -91,3 +91,7 @@ extract saptio-temporal features to represent the video using the CNNs."
 **Anticipating Visual Representations from Unlabeled Video**
 
 - paper: [http://web.mit.edu/vondrick/prediction.pdf](http://web.mit.edu/vondrick/prediction.pdf)
+
+**Deep, Convolutional, and Recurrent Models for Human Activity Recognition using Wearables**
+
+- arxiv: [http://arxiv.org/abs/1604.08880](http://arxiv.org/abs/1604.08880)

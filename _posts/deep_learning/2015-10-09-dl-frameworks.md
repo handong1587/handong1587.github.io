@@ -250,6 +250,9 @@ for building Deep Learning (DL) machine learning (ML) models
 ![](https://raw.githubusercontent.com/dmlc/web-data/master/mxnet/image/banner.png)
 
 - github: [https://github.com/dmlc/mxnet](https://github.com/dmlc/mxnet)
+
+**MXNet: A Flexible and Efficient Machine Learning Library for Heterogeneous Distributed Systems**
+
 - paper: [https://raw.githubusercontent.com/dmlc/web-data/master/mxnet/paper/mxnet-learningsys.pdf](https://raw.githubusercontent.com/dmlc/web-data/master/mxnet/paper/mxnet-learningsys.pdf)
 
 **a short introduction to mxnet design and implementation (chinese)**
