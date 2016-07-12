@@ -13,7 +13,7 @@ date: 2015-10-09
 
 ![](/assets/fun_with_dl/a_nerual_algorithm_of_artistic_style.jpg)
 
-- paper: [http://arxiv.org/abs/1508.06576](http://arxiv.org/abs/1508.06576)
+- arxiv: [http://arxiv.org/abs/1508.06576](http://arxiv.org/abs/1508.06576)
 - gitxiv: [http://gitxiv.com/posts/jG46ukGod8R7Rdtud/a-neural-algorithm-of-artistic-style](http://gitxiv.com/posts/jG46ukGod8R7Rdtud/a-neural-algorithm-of-artistic-style)
 - github: [https://github.com/kaishengtai/neuralart](https://github.com/kaishengtai/neuralart)
 - github: [https://github.com/jcjohnson/neural-style](https://github.com/jcjohnson/neural-style)
@@ -29,6 +29,10 @@ date: 2015-10-09
 - github: [https://github.com/Teaonly/easyStyle](https://github.com/Teaonly/easyStyle)
 - github: [https://github.com/ckmarkoh/neuralart_tensorflow](https://github.com/ckmarkoh/neuralart_tensorflow)
 - github: [https://github.com/fzliu/style-transfer](https://github.com/fzliu/style-transfer)
+
+**Image Style Transfer Using Convolutional Neural Networks**
+
+- paper: [www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Gatys_Image_Style_Transfer_CVPR_2016_paper.pdf](www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Gatys_Image_Style_Transfer_CVPR_2016_paper.pdf)
 
 **Artificial Startup Style: Neural art about startup fashion**
 

@@ -120,6 +120,10 @@ which continually runs and visualizes your code as you type
 
 - github: [https://github.com/rustcc/RustPrimer](https://github.com/rustcc/RustPrimer)
 
+**intellij-rust: Rust plugin for IntelliJ IDEA**
+
+[https://intellij-rust.github.io/](https://intellij-rust.github.io/)
+
 # JavaScript
 
 **JavaScript on Board: With Maps, Dynamic Arrays and Objects out of the box. Just plug in and start creating in seconds**
