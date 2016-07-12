@@ -605,3 +605,7 @@ for creating complex software in C++ to solve real world problems.
 **List of machine learning concepts**
 
 - wiki: [https://en.wikipedia.org/wiki/List_of_machine_learning_concepts](https://en.wikipedia.org/wiki/List_of_machine_learning_concepts)
+
+**What is the relation between Logistic Regression and Neural Networks and when to use which?**
+
+- blog: [http://sebastianraschka.com/faq/docs/logisticregr-neuralnet.html](http://sebastianraschka.com/faq/docs/logisticregr-neuralnet.html)

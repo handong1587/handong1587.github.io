@@ -202,7 +202,11 @@ date: 2015-10-09
 
 [http://blog.otoro.net/2016/04/01/generating-large-images-from-latent-vectors/](http://blog.otoro.net/2016/04/01/generating-large-images-from-latent-vectors/)
 
+**Generative Adversarial Network Demo for Fresh Machine Learning #2**
 
+- youtube: [https://www.youtube.com/watch?v=deyOX6Mt_As&feature=em-uploademail](https://www.youtube.com/watch?v=deyOX6Mt_As&feature=em-uploademail)
+- github: [https://github.com/llSourcell/Generative-Adversarial-Network-Demo](https://github.com/llSourcell/Generative-Adversarial-Network-Demo)
+- demo: [http://cs.stanford.edu/people/karpathy/gan/](http://cs.stanford.edu/people/karpathy/gan/)
 
 # Projects
 

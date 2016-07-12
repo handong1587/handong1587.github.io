@@ -96,6 +96,10 @@ date: 2015-10-09
 
 - homepage: [https://beta.bigdatauniversity.com/courses/introduction-deep-learning/](https://beta.bigdatauniversity.com/courses/introduction-deep-learning/)
 
+**Deep Learning Courses**
+
+- blog: [http://machinelearningmastery.com/deep-learning-courses/](http://machinelearningmastery.com/deep-learning-courses/)
+
 # Computer Vision
 
 **Stanford CS231n: Convolutional Neural Networks for Visual Recognition**

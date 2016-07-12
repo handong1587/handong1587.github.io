@@ -150,21 +150,21 @@ date: 2015-10-09
 
 **Recurrent Models of Visual Attention** (Google DeepMind. NIPS2014)
 
-- paper: [http://arxiv.org/abs/1406.6247](http://arxiv.org/abs/1406.6247)
+- arxiv: [http://arxiv.org/abs/1406.6247](http://arxiv.org/abs/1406.6247)
 - data: [https://github.com/deepmind/mnist-cluttered](https://github.com/deepmind/mnist-cluttered)
-- code: [https://github.com/Element-Research/rnn/blob/master/examples/recurrent-visual-attention.lua](https://github.com/Element-Research/rnn/blob/master/examples/recurrent-visual-attention.lua)
+- github: [https://github.com/Element-Research/rnn/blob/master/examples/recurrent-visual-attention.lua](https://github.com/Element-Research/rnn/blob/master/examples/recurrent-visual-attention.lua)
 
 **Recurrent Model of Visual Attention (Google DeepMind)**
 
 - paper: [http://arxiv.org/abs/1406.6247](http://arxiv.org/abs/1406.6247)
-- GitXiv: [http://gitxiv.com/posts/ZEobCXSh23DE8a8mo/recurrent-models-of-visual-attention](http://gitxiv.com/posts/ZEobCXSh23DE8a8mo/recurrent-models-of-visual-attention)
+- gitxiv: [http://gitxiv.com/posts/ZEobCXSh23DE8a8mo/recurrent-models-of-visual-attention](http://gitxiv.com/posts/ZEobCXSh23DE8a8mo/recurrent-models-of-visual-attention)
 - blog: [http://torch.ch/blog/2015/09/21/rmva.html](http://torch.ch/blog/2015/09/21/rmva.html)
-- code: [https://github.com/Element-Research/rnn/blob/master/scripts/evaluate-rva.lua](https://github.com/Element-Research/rnn/blob/master/scripts/evaluate-rva.lua)
+- github: [https://github.com/Element-Research/rnn/blob/master/scripts/evaluate-rva.lua](https://github.com/Element-Research/rnn/blob/master/scripts/evaluate-rva.lua)
 
 **Show, Attend and Tell: Neural Image Caption Generation with Visual Attention**
 
-- paper: [http://arxiv.org/abs/1502.03044](http://arxiv.org/abs/1502.03044)
-- code: [https://github.com/kelvinxu/arctic-captions](https://github.com/kelvinxu/arctic-captions)
+- arxiv: [http://arxiv.org/abs/1502.03044](http://arxiv.org/abs/1502.03044)
+- github: [https://github.com/kelvinxu/arctic-captions](https://github.com/kelvinxu/arctic-captions)
 
 **A Neural Attention Model for Abstractive Sentence Summarization(EMNLP 2015. Facebook AI Research)**
 
@@ -376,6 +376,10 @@ date: 2015-10-09
 **min-char-rnn: Minimal character-level language model with a Vanilla Recurrent Neural Network, in Python/numpy**
 
 - github: [https://github.com/weixsong/min-char-rnn](https://github.com/weixsong/min-char-rnn)
+
+**rnn: Recurrent Neural Network library for Torch7's nn**
+
+- github: [https://github.com/Element-Research/rnn](https://github.com/Element-Research/rnn)
 
 # Blogs
 

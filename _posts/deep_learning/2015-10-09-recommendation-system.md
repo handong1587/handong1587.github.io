@@ -24,6 +24,10 @@ date: 2015-10-09
 
 - arxiv: [http://arxiv.org/abs/1510.00585v1](http://arxiv.org/abs/1510.00585v1)
 
+**Item2Vec: Neural Item Embedding for Collaborative Filtering**
+
+- arxiv: [https://arxiv.org/abs/1603.04259](https://arxiv.org/abs/1603.04259)
+
 **Wide & Deep Learning for Recommender Systems**
 
 - arxiv: [http://arxiv.org/abs/1606.07792](http://arxiv.org/abs/1606.07792)
@@ -33,6 +37,10 @@ date: 2015-10-09
 - arxiv: [https://arxiv.org/abs/1606.07659](https://arxiv.org/abs/1606.07659)
 - github: [https://github.com/fstrub95/Autoencoders_cf](https://github.com/fstrub95/Autoencoders_cf)
 - notes: [https://github.com/jxieeducation/DIY-Data-Science/blob/master/papernotes/2016/06/hybrid-recommender-system-based-on-autoencoders.md](https://github.com/jxieeducation/DIY-Data-Science/blob/master/papernotes/2016/06/hybrid-recommender-system-based-on-autoencoders.md)
+
+**Parallel Recurrent Neural Network Architectures for Feature-rich Session-based Recommendations**
+
+- paper: [https://alexiskz.files.wordpress.com/2016/06/feature-rnn-paper1.pdf](https://alexiskz.files.wordpress.com/2016/06/feature-rnn-paper1.pdf)
 
 # Slides
 
@@ -45,6 +53,12 @@ date: 2015-10-09
 **Recommending music on Spotify with deep learning**
 
 [http://benanne.github.io/2014/08/05/spotify-cnns.html](http://benanne.github.io/2014/08/05/spotify-cnns.html)
+
+**Generating Recommendations at Amazon Scale with Apache Spark and Amazon DSSTNE**
+
+![](https://cdn.amazonblogs.com/bigdata_awsblog/images/DSSTNE_Image_1aa.PNG)
+
+[http://blogs.aws.amazon.com/bigdata/post/TxGEL8IJ0CAXTK/Generating-Recommendations-at-Amazon-Scale-with-Apache-Spark-and-Amazon-DSSTNE](http://blogs.aws.amazon.com/bigdata/post/TxGEL8IJ0CAXTK/Generating-Recommendations-at-Amazon-Scale-with-Apache-Spark-and-Amazon-DSSTNE)
 
 # Projects
 

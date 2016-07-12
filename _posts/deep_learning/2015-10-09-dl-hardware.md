@@ -89,6 +89,10 @@ date: 2015-10-09
 
 - blog: [http://scottsievert.com/blog/2016/07/01/numpy-gpu/](http://scottsievert.com/blog/2016/07/01/numpy-gpu/)
 
+**Efficient Convolutional Neural Network Inference on Mobile GPUs (Embedded Vision Summit)**
+
+- youtube: [https://www.youtube.com/watch?v=ximyhmm17UM](https://www.youtube.com/watch?v=ximyhmm17UM)
+
 # FPGA
 
 **Recurrent Neural Networks Hardware Implementation on FPGA**
@@ -114,6 +118,10 @@ date: 2015-10-09
 **Convolution Neural Network CNN Implementation on Altera FPGA using OpenCL**
 
 - youtube: [https://www.youtube.com/watch?v=78Qd5t-Mn0s](https://www.youtube.com/watch?v=78Qd5t-Mn0s)
+
+**Accelerating Deep Learning Using Altera FPGAs (Embedded Vision Summit)**
+
+- youtube: [https://www.youtube.com/watch?v=HlBC9qBqZRs](https://www.youtube.com/watch?v=HlBC9qBqZRs)
 
 # SRAM
 

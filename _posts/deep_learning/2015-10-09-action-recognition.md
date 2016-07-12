@@ -5,6 +5,8 @@ title: Action Recognition
 date: 2015-10-09
 ---
 
+# Papers
+
 **3d convolutional neural networks for human action recognition**
 
 - paper: [http://www.cs.odu.edu/~sji/papers/pdf/Ji_ICML10.pdf](http://www.cs.odu.edu/~sji/papers/pdf/Ji_ICML10.pdf)
@@ -95,3 +97,10 @@ extract saptio-temporal features to represent the video using the CNNs."
 **Deep, Convolutional, and Recurrent Models for Human Activity Recognition using Wearables**
 
 - arxiv: [http://arxiv.org/abs/1604.08880](http://arxiv.org/abs/1604.08880)
+
+# Projects
+
+**CUHK & ETH & SIAT Solution to ActivityNet Challenge 2016**
+
+- intro: won the 1st place in the untrimmed video classification task of ActivityNet Challenge 2016
+- github: [https://github.com/yjxiong/anet2016-cuhk](https://github.com/yjxiong/anet2016-cuhk)

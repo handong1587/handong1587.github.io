@@ -199,6 +199,12 @@ for building Deep Learning (DL) machine learning (ML) models
 
 - github: [https://github.com/MarcBS/keras](https://github.com/MarcBS/keras)
 
+**Hera: Train/evaluate a Keras model, get metrics streamed to a dashboard in your browser.**
+
+![](https://cloud.githubusercontent.com/assets/5866348/16719660/13460bee-46e2-11e6-8ab1-56873807390d.gif)
+
+- github: [https://github.com/jakebian/hera](https://github.com/jakebian/hera)
+
 # Lasagne
 
 **Lasagne: Lightweight library to build and train neural networks in Theano**

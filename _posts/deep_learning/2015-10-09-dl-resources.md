@@ -217,6 +217,11 @@ testing it on the MNIST handwritten digits data.
 - paper: [https://github.com/piotrmirowski/Tutorial_AutoEncoders/blob/master/PiotrMirowski_2014_ReviewAutoEncoders.pdf](https://github.com/piotrmirowski/Tutorial_AutoEncoders/blob/master/PiotrMirowski_2014_ReviewAutoEncoders.pdf)
 - github: [https://github.com/piotrmirowski/Tutorial_AutoEncoders](https://github.com/piotrmirowski/Tutorial_AutoEncoders)
 
+**Autoencoders: Torch implementations of various types of autoencoders**
+
+- intro: AE / SparseAE / DeepAE / ConvAE / UpconvAE / DenoisingAE / VAE / AdvAE
+- github: [https://github.com/Kaixhin/Autoencoders](https://github.com/Kaixhin/Autoencoders)
+
 # Semi-Supervised Learning
 
 **Semi-Supervised Learning with Graphs (Label Propagation)**
@@ -265,12 +270,16 @@ Restricted Boltzmann Machine (RBM), Sparse Coding and Auto-encoder
 
 - arxiv: [http://arxiv.org/abs/1605.08104](http://arxiv.org/abs/1605.08104)
 
-## Image Clustering
+## Clustering
 
 **Joint Unsupervised Learning of Deep Representations and Image Clusters (CVPR 2016)**
 
 - arxiv: [https://arxiv.org/abs/1604.03628](https://arxiv.org/abs/1604.03628)
 - github(Torch): [https://github.com/jwyang/joint-unsupervised-learning](https://github.com/jwyang/joint-unsupervised-learning)
+
+**Single-Channel Multi-Speaker Separation using Deep Clustering**
+
+- arxiv: [http://arxiv.org/abs/1607.02173](http://arxiv.org/abs/1607.02173)
 
 ### Deep Embedded Clustering (DEC)
 
@@ -546,6 +555,11 @@ which encodes useful class information rather than individual units (feature act
 **Learning with a Strong Adversary**
 
 - arxiv: [http://arxiv.org/abs/1511.03034](http://arxiv.org/abs/1511.03034)
+
+**Adversarial examples in the physical world (Google Brain & OpenAI)**
+
+- author: Alexey Kurakin, Ian Goodfellow, Samy Bengio
+- arxiv: [http://arxiv.org/abs/1607.02533](http://arxiv.org/abs/1607.02533)
 
 ## DeepFool
 
@@ -978,6 +992,10 @@ Bicubic VS. Shepard CNN
 **Super-Resolution with Deep Convolutional Sufficient Statistics**
 
 - arxiv: [http://arxiv.org/abs/1511.05666](http://arxiv.org/abs/1511.05666)
+
+**Deep Depth Super-Resolution : Learning Depth Super-Resolution using Deep Convolutional Neural Network**
+
+- arxiv: [http://arxiv.org/abs/1607.01977](http://arxiv.org/abs/1607.01977)
 
 ## Image Haze Removal
 

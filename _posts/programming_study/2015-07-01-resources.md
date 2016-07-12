@@ -24,6 +24,10 @@ date: 2015-07-01
 - intro: Learn how to make your application lifecycle faster and more predictable for both developers and the operations team.
 - homepage: [https://www.edx.org/course/introduction-devops-microsoft-dev212x](https://www.edx.org/course/introduction-devops-microsoft-dev212x)
 
+**Top Machine Learning MOOCs and Online Lectures: A Comprehensive Survey**
+
+- blog: [http://www.kdnuggets.com/2016/07/top-machine-learning-moocs-online-lectures.html](http://www.kdnuggets.com/2016/07/top-machine-learning-moocs-online-lectures.html)
+
 # C/C++
 
 **Templatized C++ Command Line Parser Library**
