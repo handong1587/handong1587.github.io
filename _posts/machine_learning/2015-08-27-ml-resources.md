@@ -429,6 +429,11 @@ Other awesome lists can be found in this [list](https://github.com/sindresorhus/
 
 - github: [https://github.com/johnmyleswhite/ML_for_Hackers](https://github.com/johnmyleswhite/ML_for_Hackers)
 
+**A Course in Machine Learning**
+
+- homepage: [http://ciml.info/](http://ciml.info/)
+- github: [https://github.com/hal3/ciml](https://github.com/hal3/ciml)
+
 # Videos
 
 **Video resources for machine learning**

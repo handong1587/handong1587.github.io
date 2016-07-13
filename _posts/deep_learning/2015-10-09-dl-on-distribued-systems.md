@@ -12,7 +12,7 @@ date: 2015-10-09
 - intro: By Jeff Dean & Oriol Vinyals, Google. NIPS 2015.
 - slides: [https://media.nips.cc/Conferences/2015/tutorialslides/Jeff-Oriol-NIPS-Tutorial-2015.pdf](https://media.nips.cc/Conferences/2015/tutorialslides/Jeff-Oriol-NIPS-Tutorial-2015.pdf)
 - video: [http://research.microsoft.com/apps/video/default.aspx?id=259564&l=i](http://research.microsoft.com/apps/video/default.aspx?id=259564&l=i)
-- video: [http://pan.baidu.com/s/1mgXV0hU](http://pan.baidu.com/s/1mgXV0hU)
+- mirror: [http://pan.baidu.com/s/1mgXV0hU](http://pan.baidu.com/s/1mgXV0hU)
 
 # Papers
 
@@ -60,17 +60,23 @@ date: 2015-10-09
 **A Scalable Implementation of Deep Learning on Spark**
 
 - youtube: [https://www.youtube.com/watch?v=pNYBBhuK8yU](https://www.youtube.com/watch?v=pNYBBhuK8yU)
-- video: [http://pan.baidu.com/s/1mhzF1uK](http://pan.baidu.com/s/1mhzF1uK)
+- mirror: [http://pan.baidu.com/s/1mhzF1uK](http://pan.baidu.com/s/1mhzF1uK)
 
 **Distributed TensorFlow on Spark: Scaling Google's Deep Learning Library (Spark Summit)**
 
 - youtube: [https://www.youtube.com/watch?v=-QtcP3yRqyM](https://www.youtube.com/watch?v=-QtcP3yRqyM)
-- video: [http://pan.baidu.com/s/1mgOR1GG](http://pan.baidu.com/s/1mgOR1GG)
+- mirror: [http://pan.baidu.com/s/1mgOR1GG](http://pan.baidu.com/s/1mgOR1GG)
 
 **Deep Recurrent Neural Networks for Sequence Learning in Spark (Spark Summit)**
 
 - youtube: [https://www.youtube.com/watch?v=mUuqLcl8Jog](https://www.youtube.com/watch?v=mUuqLcl8Jog)
-- video: [http://pan.baidu.com/s/1sklHTPr](http://pan.baidu.com/s/1sklHTPr)
+- mirror: [http://pan.baidu.com/s/1sklHTPr](http://pan.baidu.com/s/1sklHTPr)
+
+**Distributed deep learning on Spark**
+
+- author: Alexander Ulanov July 12, 2016
+- intro: Alexander Ulanov offers an overview of tools and frameworks that have been proposed for performing deep learning on Spark.
+- video: [https://www.oreilly.com/learning/distributed-deep-learning-on-spark](https://www.oreilly.com/learning/distributed-deep-learning-on-spark)
 
 # Blogs
 

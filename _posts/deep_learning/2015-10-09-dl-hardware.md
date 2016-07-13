@@ -122,6 +122,7 @@ date: 2015-10-09
 **Accelerating Deep Learning Using Altera FPGAs (Embedded Vision Summit)**
 
 - youtube: [https://www.youtube.com/watch?v=HlBC9qBqZRs](https://www.youtube.com/watch?v=HlBC9qBqZRs)
+- slides: [http://www.slideshare.net/embeddedvision/accelerating-deep-learning-using-altera-fpgas-a-presentation-from-intel](http://www.slideshare.net/embeddedvision/accelerating-deep-learning-using-altera-fpgas-a-presentation-from-intel)
 
 # SRAM
 
