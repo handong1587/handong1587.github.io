@@ -12,3 +12,8 @@ date: 2016-01-18
 **Hi, I'm a digital junkie, and I suffer from infomania**
 
 - blog: [http://www.latimes.com/business/technology/la-fi-thedownload-infomania-20160119-story.html](http://www.latimes.com/business/technology/la-fi-thedownload-infomania-20160119-story.html)
+
+**Of Course China, Like All Great Powers, Will Ignore an International Legal Verdict**
+
+- quote: “the strong do as they will; the weak suffer as they must”
+- news article: [http://thediplomat.com/2016/07/of-course-china-like-all-great-powers-will-ignore-an-international-legal-verdict/](http://thediplomat.com/2016/07/of-course-china-like-all-great-powers-will-ignore-an-international-legal-verdict/)

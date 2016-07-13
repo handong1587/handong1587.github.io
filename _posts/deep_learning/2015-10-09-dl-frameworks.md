@@ -480,6 +480,10 @@ for building Deep Learning (DL) machine learning (ML) models
 
 - github: [https://github.com/nihit/TensorFlow101](https://github.com/nihit/TensorFlow101)
 
+**TensorFlow-Tutorials: Simple tutorials using Google's TensorFlow Framework**
+
+- github: [https://github.com/nlintz/TensorFlow-Tutorials](https://github.com/nlintz/TensorFlow-Tutorials)
+
 # Theano
 
 **Theano**
@@ -652,3 +656,8 @@ for building Deep Learning (DL) machine learning (ML) models
 **A Look at Popular Machine Learning Frameworks**
 
 - blog: [http://redmonk.com/fryan/2016/06/06/a-look-at-popular-machine-learning-frameworks/](http://redmonk.com/fryan/2016/06/06/a-look-at-popular-machine-learning-frameworks/)
+
+**5 Deep Learning Projects You Can No Longer Overlook**
+
+- keywords: Leaf / tiny-cnn / Layered / Brain / neon
+- blog: [http://www.kdnuggets.com/2016/07/five-deep-learning-projects-cant-overlook.html](http://www.kdnuggets.com/2016/07/five-deep-learning-projects-cant-overlook.html)

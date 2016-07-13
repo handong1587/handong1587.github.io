@@ -234,6 +234,10 @@ testing it on the MNIST handwritten digits data.
 - arxiv: [http://arxiv.org/abs/1507.02672](http://arxiv.org/abs/1507.02672)
 - github: [https://github.com/CuriousAI/ladder](https://github.com/CuriousAI/ladder)
 
+**Semi-supervised Feature Transfer: The Practical Benefit of Deep Learning Today?**
+
+- blog: [http://www.kdnuggets.com/2016/07/semi-supervised-feature-transfer-deep-learning.html](http://www.kdnuggets.com/2016/07/semi-supervised-feature-transfer-deep-learning.html)
+
 # Unsupervised Learning
 
 Restricted Boltzmann Machine (RBM), Sparse Coding and Auto-encoder

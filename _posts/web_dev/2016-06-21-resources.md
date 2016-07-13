@@ -26,3 +26,10 @@ category: "web_dev"
 - blog: [http://gregfranko.com/jquery.tocify.js/](http://gregfranko.com/jquery.tocify.js/)
 - blog: [http://www.helloweba.com/demo/2016/tocify/](http://www.helloweba.com/demo/2016/tocify/)
 - github: [https://github.com/gfranko/jquery.tocify.js](https://github.com/gfranko/jquery.tocify.js)
+
+# Javascript
+
+**6 Best JavaScript Frameworks to Learn In 2016**
+
+- keywords: AngularJS / React / Ember / Adonis / Vue.js / Backbone.js
+- blog: [http://www.discoversdk.com/blog/6-best-javascript-frameworks-to-learn-in-2016/#/wow](http://www.discoversdk.com/blog/6-best-javascript-frameworks-to-learn-in-2016/#/wow)

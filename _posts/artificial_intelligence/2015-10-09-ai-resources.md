@@ -71,4 +71,9 @@ We aim to inspire a new generation of research into challenging new problems pre
 **The Future of AI (by Rich Sutton [UBC])**
 
 - youtube: [https://www.youtube.com/watch?v=pD-FWetbvN8](https://www.youtube.com/watch?v=pD-FWetbvN8)
-- video: [http://pan.baidu.com/s/1dEbYp3N](http://pan.baidu.com/s/1dEbYp3N)
+- mirror: [http://pan.baidu.com/s/1dEbYp3N](http://pan.baidu.com/s/1dEbYp3N)
+
+**Towards General Artificial Intelligence**
+
+- author: Demis Hassabis, Google DeepMind
+- youtube: [https://www.youtube.com/watch?v=vQXAsdMa_8A](https://www.youtube.com/watch?v=vQXAsdMa_8A)

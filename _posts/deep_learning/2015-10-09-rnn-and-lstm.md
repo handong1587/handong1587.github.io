@@ -298,6 +298,11 @@ date: 2015-10-09
 - arxiv: [http://arxiv.org/abs/1606.06216](http://arxiv.org/abs/1606.06216)
 - github: [https://github.com/ThomasMiconi/DiffRNN](https://github.com/ThomasMiconi/DiffRNN)
 
+**Recurrent Memory Array Structures**
+
+- arxiv: [https://arxiv.org/abs/1607.03085](https://arxiv.org/abs/1607.03085)
+- github: [https://github.com/krocki/ArrayLSTM](https://github.com/krocki/ArrayLSTM)
+
 ## LSTMVis
 
 **Visual Analysis of Hidden State Dynamics in Recurrent Neural Networks**
