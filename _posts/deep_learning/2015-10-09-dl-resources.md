@@ -1055,6 +1055,19 @@ This task involves predicting the salient regions of an image given by human eye
 - arxiv: [http://arxiv.org/abs/1603.00845](http://arxiv.org/abs/1603.00845)
 - github: [https://github.com/imatge-upc/saliency-2016-cvpr](https://github.com/imatge-upc/saliency-2016-cvpr)
 
+## Video Classification
+
+**Large-scale Video Classification with Convolutional Neural Networks (CVPR 2014)**
+
+- project page: [http://cs.stanford.edu/people/karpathy/deepvideo/](http://cs.stanford.edu/people/karpathy/deepvideo/)
+- paper: [www.cv-foundation.org/openaccess/content_cvpr_2014/papers/Karpathy_Large-scale_Video_Classification_2014_CVPR_paper.pdf](www.cv-foundation.org/openaccess/content_cvpr_2014/papers/Karpathy_Large-scale_Video_Classification_2014_CVPR_paper.pdf)
+
+**Beyond Short Snippets: Deep Networks for Video Classification**
+
+- keywords: CNN + LSTM
+- arxiv: [http://arxiv.org/abs/1503.08909](http://arxiv.org/abs/1503.08909)
+- demo: [http://pan.baidu.com/s/1eQ9zLZk](http://pan.baidu.com/s/1eQ9zLZk)
+
 # Deep Learning’s Accuracy
 
 - blog: [http://deeplearning4j.org/accuracy.html](http://deeplearning4j.org/accuracy.html)
