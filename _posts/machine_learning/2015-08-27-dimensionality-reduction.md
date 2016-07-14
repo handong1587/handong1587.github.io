@@ -58,7 +58,7 @@ date: 2015-08-27
 
 **RedSVD**
 
-- google-code: [https://code.google.com/p/redsvd/](https://code.google.com/p/redsvd/)
+- code: [https://code.google.com/p/redsvd/](https://code.google.com/p/redsvd/)
 - github: [https://github.com/handong1587/redsvd](https://github.com/handong1587/redsvd)
 - github: [https://github.com/ntessore/redsvd-h](https://github.com/ntessore/redsvd-h)
 
@@ -69,6 +69,10 @@ date: 2015-08-27
 **Singular Value Decomposition Part 1: Perspectives on Linear Algebra**
 
 - blog: [https://jeremykun.com/2016/04/18/singular-value-decomposition-part-1-perspectives-on-linear-algebra/](https://jeremykun.com/2016/04/18/singular-value-decomposition-part-1-perspectives-on-linear-algebra/)
+
+**Even Faster SVD Decomposition Yet Without Agonizing Pain**
+
+- arxiv: [http://arxiv.org/abs/1607.03463](http://arxiv.org/abs/1607.03463)
 
 # ICA
 

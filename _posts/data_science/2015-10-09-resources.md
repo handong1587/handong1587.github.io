@@ -35,6 +35,12 @@ date: 2015-10-09
 
 [https://codesachin.wordpress.com/2016/06/25/non-mathematical-feature-engineering-techniques-for-data-science/](https://codesachin.wordpress.com/2016/06/25/non-mathematical-feature-engineering-techniques-for-data-science/)
 
+**Learning Path To Become Data Scientist – Step by Step Guide**
+
+![](https://i.imgur.com/EJspIqD.jpg)
+
+[http://www.bigdataanalyticsguide.com/2016/07/09/learning-path-become-data-scientist-step-step-guide/](http://www.bigdataanalyticsguide.com/2016/07/09/learning-path-become-data-scientist-step-step-guide/)
+
 # Resources
 
 **Awesome Data Engineering: A curated list of data engineering tools for software developers**

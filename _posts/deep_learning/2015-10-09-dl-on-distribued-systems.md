@@ -93,3 +93,7 @@ date: 2015-10-09
 ![](https://www.mapr.com/sites/default/files/spark-driver.jpg)
 
 [https://www.mapr.com/blog/distributed-deep-learning-caffe-using-mapr-cluster](https://www.mapr.com/blog/distributed-deep-learning-caffe-using-mapr-cluster)
+
+**Deep Learning with Apache Spark and TensorFlow**
+
+[https://databricks.com/blog/2016/01/25/deep-learning-with-apache-spark-and-tensorflow.html](https://databricks.com/blog/2016/01/25/deep-learning-with-apache-spark-and-tensorflow.html)

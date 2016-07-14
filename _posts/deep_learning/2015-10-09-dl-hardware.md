@@ -93,6 +93,10 @@ date: 2015-10-09
 
 - youtube: [https://www.youtube.com/watch?v=ximyhmm17UM](https://www.youtube.com/watch?v=ximyhmm17UM)
 
+**Deep Learning with Multiple GPUs on Rescale: Torch**
+
+- blog: [https://blog.rescale.com/deep-learning-with-multiple-gpus-on-rescale-torch/](https://blog.rescale.com/deep-learning-with-multiple-gpus-on-rescale-torch/)
+
 # FPGA
 
 **Recurrent Neural Networks Hardware Implementation on FPGA**

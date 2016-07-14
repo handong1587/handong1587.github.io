@@ -490,3 +490,7 @@ We additionally provide an implementation of the [ReInspect](https://github.com/
 
 - keywords: Faster R-CNN
 - blog: [https://engineering.pinterest.com/blog/introducing-automatic-object-detection-visual-search](https://engineering.pinterest.com/blog/introducing-automatic-object-detection-visual-search)
+
+**CVPR 2016论文快讯：目标检测领域的新进展**
+
+[http://mp.weixin.qq.com/s?__biz=MzI1NTE4NTUwOQ==&mid=2650325043&idx=1&sn=bd016d98a40e8cf7d53ee674f201b4a7#rd](http://mp.weixin.qq.com/s?__biz=MzI1NTE4NTUwOQ==&mid=2650325043&idx=1&sn=bd016d98a40e8cf7d53ee674f201b4a7#rd)

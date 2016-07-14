@@ -567,6 +567,10 @@ for building Deep Learning (DL) machine learning (ML) models
 - paper: [https://lvdmaaten.github.io/publications/papers/Torchnet_2016.pdf](https://lvdmaaten.github.io/publications/papers/Torchnet_2016.pdf)
 - github: [https://github.com/torchnet/torchnet](https://github.com/torchnet/torchnet)
 
+**THFFmpeg: Torch bindings for FFmpeg (reading videos only)**
+
+- github: [https://github.com/MichaelMathieu/THFFmpeg](https://github.com/MichaelMathieu/THFFmpeg)
+
 # VELES
 
 **VELES: Distributed platform for rapid Deep learning application development**

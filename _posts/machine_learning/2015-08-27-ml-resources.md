@@ -573,6 +573,10 @@ for creating complex software in C++ to solve real world problems.
 
 - blog: [http://www.kdnuggets.com/software/bayesian.html](http://www.kdnuggets.com/software/bayesian.html)
 
+**ML-lib: An extensive machine learning library, made from scratch (Python)**
+
+- github: [https://github.com/christopherjenness/ML-lib](https://github.com/christopherjenness/ML-lib)
+
 # Projects
 
 **Plotting high-dimensional decision boundaries**

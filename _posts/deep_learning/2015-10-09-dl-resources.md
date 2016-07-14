@@ -780,6 +780,13 @@ with fast exact probabilistic inference over many layers."
 
 - arxiv: [http://arxiv.org/abs/1605.07678](http://arxiv.org/abs/1605.07678)
 
+**8 Inspirational Applications of Deep Learning**
+
+- intro: Colorization of Black and White Images, Adding Sounds To Silent Movies, Automatic Machine Translation
+Object Classification in Photographs, Automatic Handwriting Generation, Character Text Generation, 
+Image Caption Generation, Automatic Game Playing
+- blog: [http://machinelearningmastery.com/inspirational-applications-deep-learning/](http://machinelearningmastery.com/inspirational-applications-deep-learning/)
+
 ## Age Estimation
 
 **Deeply-Learned Feature for Age Estimation**
@@ -1474,6 +1481,11 @@ We also include one pre-trained model using a custom convolutional network."
 **FIRST CONTACT WITH TENSORFLOW: Get started with with Deep Learning programming (by Jordi Torres)**
 
 [http://www.jorditorres.org/first-contact-with-tensorflow/](http://www.jorditorres.org/first-contact-with-tensorflow/)
+
+**Make Your Own Neural Network: IPython Neural Networks on a Raspberry Pi Zero**
+
+- book: [http://makeyourownneuralnetwork.blogspot.jp/2016/03/ipython-neural-networks-on-raspberry-pi.html](http://makeyourownneuralnetwork.blogspot.jp/2016/03/ipython-neural-networks-on-raspberry-pi.html)
+- github: [https://github.com/makeyourownneuralnetwork/makeyourownneuralnetwork](https://github.com/makeyourownneuralnetwork/makeyourownneuralnetwork)
 
 # Blogs
 
