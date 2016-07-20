@@ -76,6 +76,10 @@ date: 2015-10-09
 - arxiv: [http://arxiv.org/abs/1604.08893](http://arxiv.org/abs/1604.08893)
 - github: [https://github.com/imatge-upc/retrieval-2016-deepvision](https://github.com/imatge-upc/retrieval-2016-deepvision)
 
+**Adversarial Training For Sketch Retrieval**
+
+- arxiv: [http://arxiv.org/abs/1607.02748](http://arxiv.org/abs/1607.02748)
+
 ## DeepBit
 
 **Learning Compact Binary Descriptors with Unsupervised Deep Neural Networks (DeepBit. CVPR 2016)**

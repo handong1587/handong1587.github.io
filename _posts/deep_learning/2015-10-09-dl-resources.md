@@ -234,6 +234,10 @@ testing it on the MNIST handwritten digits data.
 - arxiv: [http://arxiv.org/abs/1507.02672](http://arxiv.org/abs/1507.02672)
 - github: [https://github.com/CuriousAI/ladder](https://github.com/CuriousAI/ladder)
 
+**Semi-supervised Feature Transfer: The Practical Benefit of Deep Learning Today?**
+
+- blog: [http://www.kdnuggets.com/2016/07/semi-supervised-feature-transfer-deep-learning.html](http://www.kdnuggets.com/2016/07/semi-supervised-feature-transfer-deep-learning.html)
+
 # Unsupervised Learning
 
 Restricted Boltzmann Machine (RBM), Sparse Coding and Auto-encoder
@@ -776,6 +780,13 @@ with fast exact probabilistic inference over many layers."
 
 - arxiv: [http://arxiv.org/abs/1605.07678](http://arxiv.org/abs/1605.07678)
 
+**8 Inspirational Applications of Deep Learning**
+
+- intro: Colorization of Black and White Images, Adding Sounds To Silent Movies, Automatic Machine Translation
+Object Classification in Photographs, Automatic Handwriting Generation, Character Text Generation, 
+Image Caption Generation, Automatic Game Playing
+- blog: [http://machinelearningmastery.com/inspirational-applications-deep-learning/](http://machinelearningmastery.com/inspirational-applications-deep-learning/)
+
 **16 Open Source Deep Learning Models Running as Microservices**
 
 ![](http://blog.algorithmia.com/2016/07/open-source-deep-learning-algorithm-roundup/)
@@ -1049,6 +1060,19 @@ This task involves predicting the salient regions of an image given by human eye
 
 - arxiv: [http://arxiv.org/abs/1603.00845](http://arxiv.org/abs/1603.00845)
 - github: [https://github.com/imatge-upc/saliency-2016-cvpr](https://github.com/imatge-upc/saliency-2016-cvpr)
+
+## Video Classification
+
+**Large-scale Video Classification with Convolutional Neural Networks (CVPR 2014)**
+
+- project page: [http://cs.stanford.edu/people/karpathy/deepvideo/](http://cs.stanford.edu/people/karpathy/deepvideo/)
+- paper: [www.cv-foundation.org/openaccess/content_cvpr_2014/papers/Karpathy_Large-scale_Video_Classification_2014_CVPR_paper.pdf](www.cv-foundation.org/openaccess/content_cvpr_2014/papers/Karpathy_Large-scale_Video_Classification_2014_CVPR_paper.pdf)
+
+**Beyond Short Snippets: Deep Networks for Video Classification**
+
+- keywords: CNN + LSTM
+- arxiv: [http://arxiv.org/abs/1503.08909](http://arxiv.org/abs/1503.08909)
+- demo: [http://pan.baidu.com/s/1eQ9zLZk](http://pan.baidu.com/s/1eQ9zLZk)
 
 # Deep Learning’s Accuracy
 
@@ -1483,6 +1507,11 @@ We also include one pre-trained model using a custom convolutional network."
 **FIRST CONTACT WITH TENSORFLOW: Get started with with Deep Learning programming (by Jordi Torres)**
 
 [http://www.jorditorres.org/first-contact-with-tensorflow/](http://www.jorditorres.org/first-contact-with-tensorflow/)
+
+**Make Your Own Neural Network: IPython Neural Networks on a Raspberry Pi Zero**
+
+- book: [http://makeyourownneuralnetwork.blogspot.jp/2016/03/ipython-neural-networks-on-raspberry-pi.html](http://makeyourownneuralnetwork.blogspot.jp/2016/03/ipython-neural-networks-on-raspberry-pi.html)
+- github: [https://github.com/makeyourownneuralnetwork/makeyourownneuralnetwork](https://github.com/makeyourownneuralnetwork/makeyourownneuralnetwork)
 
 # Blogs
 

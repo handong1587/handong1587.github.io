@@ -302,6 +302,16 @@ date: 2015-10-09
 - arxiv: [http://arxiv.org/abs/1606.06216](http://arxiv.org/abs/1606.06216)
 - github: [https://github.com/ThomasMiconi/DiffRNN](https://github.com/ThomasMiconi/DiffRNN)
 
+**Recurrent Memory Array Structures**
+
+- arxiv: [https://arxiv.org/abs/1607.03085](https://arxiv.org/abs/1607.03085)
+- github: [https://github.com/krocki/ArrayLSTM](https://github.com/krocki/ArrayLSTM)
+
+**Recurrent Highway Networks**
+
+- author: Julian Georg Zilly, Rupesh Kumar Srivastava, Jan Koutník, Jürgen Schmidhuber
+- arxiv: [http://arxiv.org/abs/1607.03474](http://arxiv.org/abs/1607.03474)
+
 ## LSTMVis
 
 **Visual Analysis of Hidden State Dynamics in Recurrent Neural Networks**

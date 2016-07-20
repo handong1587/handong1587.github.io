@@ -157,6 +157,12 @@ date: 2015-09-12
 
 - arxiv: [http://arxiv.org/abs/1601.05610](http://arxiv.org/abs/1601.05610)
 
+# Image Retrieval
+
+**Multi-modal image retrieval with random walk on multi-layer graphs**
+
+- arxiv: [http://arxiv.org/abs/1607.03406](http://arxiv.org/abs/1607.03406)
+
 # Image Summary
 
 **Summarizing Visual Data Using Bidirectional Similarity**

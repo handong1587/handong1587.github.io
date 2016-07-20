@@ -433,6 +433,11 @@ Other awesome lists can be found in this [list](https://github.com/sindresorhus/
 
 - github: [https://github.com/johnmyleswhite/ML_for_Hackers](https://github.com/johnmyleswhite/ML_for_Hackers)
 
+**A Course in Machine Learning**
+
+- homepage: [http://ciml.info/](http://ciml.info/)
+- github: [https://github.com/hal3/ciml](https://github.com/hal3/ciml)
+
 # Videos
 
 **Video resources for machine learning**
@@ -571,6 +576,10 @@ for creating complex software in C++ to solve real world problems.
 **Bayesian Networks and Bayesian Classifier Software**
 
 - blog: [http://www.kdnuggets.com/software/bayesian.html](http://www.kdnuggets.com/software/bayesian.html)
+
+**ML-lib: An extensive machine learning library, made from scratch (Python)**
+
+- github: [https://github.com/christopherjenness/ML-lib](https://github.com/christopherjenness/ML-lib)
 
 # Projects
 

@@ -163,6 +163,10 @@ date: 2015-10-09
 
 - video: [https://speakerdeck.com/breandan/deep-learning-on-java](https://speakerdeck.com/breandan/deep-learning-on-java)
 
+**Using Convolutional Neural Networks and TensorFlow for Image Classification (NYC TensorFlow meetup)**
+
+- blog: [http://blog.altoros.com/using-convolutional-neural-networks-and-tensorflow-for-image-classification-and-search.html](http://blog.altoros.com/using-convolutional-neural-networks-and-tensorflow-for-image-classification-and-search.html)
+
 ## Convolution
 
 ![](/assets/cnn-materials/conv.jpg)

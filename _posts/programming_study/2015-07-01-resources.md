@@ -159,6 +159,12 @@ which continually runs and visualizes your code as you type
 - tutorial: [http://prakhar.me/docker-curriculum/](http://prakhar.me/docker-curriculum/)
 - github: [https://github.com/prakhar1989/docker-curriculum](https://github.com/prakhar1989/docker-curriculum)
 
+# Software Development
+
+**Professional Software Development: For Students**
+
+- book: [http://mixmastamyk.bitbucket.org/pro_soft_dev/](http://mixmastamyk.bitbucket.org/pro_soft_dev/)
+
 # Coding
 
 **Top 10 coding challenges Websites**
@@ -222,6 +228,10 @@ which continually runs and visualizes your code as you type
 **Scraping NBA Play-by-Play Data with Scrapy & MongoDB**
 
 [http://blog.nycdatascience.com/students-work/scraping-nba-play-by-play-data-with-scrapy-mongodb/](http://blog.nycdatascience.com/students-work/scraping-nba-play-by-play-data-with-scrapy-mongodb/)
+
+**15 Sites for Programming Exercises**
+
+- blog: [http://programmingzen.com/15-sites-for-programming-exercises/](http://programmingzen.com/15-sites-for-programming-exercises/)
 
 # Debugging
 

@@ -15,10 +15,6 @@ date: 2015-10-09
 
 - paper: [http://liris.cnrs.fr/Documents/Liris-5228.pdf](http://liris.cnrs.fr/Documents/Liris-5228.pdf)
 
-**Large-scale Video Classification with Convolutional Neural Networks (CVPR 2014)**
-
-paper: [http://120.52.73.14/www.cv-foundation.org/openaccess/content_cvpr_2014/papers/Karpathy_Large-scale_Video_Classification_2014_CVPR_paper.pdf](http://120.52.73.14/www.cv-foundation.org/openaccess/content_cvpr_2014/papers/Karpathy_Large-scale_Video_Classification_2014_CVPR_paper.pdf)
-
 **Two-stream convolutional networks for action recognition in videos**
 
 - arxiv: [http://arxiv.org/abs/1406.2199](http://arxiv.org/abs/1406.2199)

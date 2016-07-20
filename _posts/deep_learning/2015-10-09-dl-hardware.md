@@ -93,6 +93,10 @@ date: 2015-10-09
 
 - youtube: [https://www.youtube.com/watch?v=ximyhmm17UM](https://www.youtube.com/watch?v=ximyhmm17UM)
 
+**Deep Learning with Multiple GPUs on Rescale: Torch**
+
+- blog: [https://blog.rescale.com/deep-learning-with-multiple-gpus-on-rescale-torch/](https://blog.rescale.com/deep-learning-with-multiple-gpus-on-rescale-torch/)
+
 # FPGA
 
 **Recurrent Neural Networks Hardware Implementation on FPGA**
@@ -122,6 +126,7 @@ date: 2015-10-09
 **Accelerating Deep Learning Using Altera FPGAs (Embedded Vision Summit)**
 
 - youtube: [https://www.youtube.com/watch?v=HlBC9qBqZRs](https://www.youtube.com/watch?v=HlBC9qBqZRs)
+- slides: [http://www.slideshare.net/embeddedvision/accelerating-deep-learning-using-altera-fpgas-a-presentation-from-intel](http://www.slideshare.net/embeddedvision/accelerating-deep-learning-using-altera-fpgas-a-presentation-from-intel)
 
 # SRAM
 
