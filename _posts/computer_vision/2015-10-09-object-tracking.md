@@ -44,6 +44,10 @@ date: 2015-10-09
 - homepage: [http://www.robots.ox.ac.uk/~luca/staple.html](http://www.robots.ox.ac.uk/~luca/staple.html)
 - github: [https://github.com/bertinetto/staple](https://github.com/bertinetto/staple)
 
+**Visual Tracking via Reliable Memories**
+
+- arxiv: [http://arxiv.org/abs/1602.01887](http://arxiv.org/abs/1602.01887)
+
 # Projects
 
 **JS-face-tracking-demo**

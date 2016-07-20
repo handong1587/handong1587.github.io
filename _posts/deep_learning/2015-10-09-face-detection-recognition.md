@@ -7,6 +7,24 @@ date: 2015-10-09
 
 # Papers
 
+## DeepID
+
+**Deep Learning Face Representation from Predicting 10,000 Classes**
+
+- paper: [http://mmlab.ie.cuhk.edu.hk/pdf/YiSun_CVPR14.pdf](http://mmlab.ie.cuhk.edu.hk/pdf/YiSun_CVPR14.pdf)
+
+## DeepID2
+
+**Deep Learning Face Representation by Joint Identification-Verification**
+
+- paper: [http://papers.nips.cc/paper/5416-analog-memories-in-a-balanced-rate-based-network-of-e-i-neurons](http://papers.nips.cc/paper/5416-analog-memories-in-a-balanced-rate-based-network-of-e-i-neurons)
+
+**基于Caffe的DeepID2实现**
+
+- 1. [http://www.miaoerduo.com/deep-learning/%E5%9F%BA%E4%BA%8Ecaffe%E7%9A%84deepid2%E5%AE%9E%E7%8E%B0%EF%BC%88%E4%B8%8A%EF%BC%89.html](http://www.miaoerduo.com/deep-learning/%E5%9F%BA%E4%BA%8Ecaffe%E7%9A%84deepid2%E5%AE%9E%E7%8E%B0%EF%BC%88%E4%B8%8A%EF%BC%89.html)
+- 2. [http://www.miaoerduo.com/deep-learning/%E5%9F%BA%E4%BA%8Ecaffe%E7%9A%84deepid2%E5%AE%9E%E7%8E%B0%EF%BC%88%E4%B8%AD%EF%BC%89.html](http://www.miaoerduo.com/deep-learning/%E5%9F%BA%E4%BA%8Ecaffe%E7%9A%84deepid2%E5%AE%9E%E7%8E%B0%EF%BC%88%E4%B8%AD%EF%BC%89.html)
+- 3. [http://www.miaoerduo.com/deep-learning/%E5%9F%BA%E4%BA%8Ecaffe%E7%9A%84deepid2%E5%AE%9E%E7%8E%B0%EF%BC%88%E4%B8%8B%EF%BC%89.html](http://www.miaoerduo.com/deep-learning/%E5%9F%BA%E4%BA%8Ecaffe%E7%9A%84deepid2%E5%AE%9E%E7%8E%B0%EF%BC%88%E4%B8%8B%EF%BC%89.html)
+
 **Deep Convolutional Network Cascade for Facial Point Detection**
 
 ![](http://mmlab.ie.cuhk.edu.hk/archive/CNN/data/Picture1.png)
@@ -92,6 +110,7 @@ date: 2015-10-09
 
 - homepage: [http://cmusatyalab.github.io/openface/](http://cmusatyalab.github.io/openface/)
 - github: [https://github.com/cmusatyalab/openface](https://github.com/cmusatyalab/openface)
+- github: [https://github.com/aybassiouny/OpenFaceCpp](https://github.com/aybassiouny/OpenFaceCpp)
 
 **OpenFace 0.2.0: Higher accuracy and halved execution time**
 

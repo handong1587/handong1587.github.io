@@ -941,6 +941,21 @@ Image Caption Generation, Automatic Game Playing
 
 - paper: [http://arxiv.org/abs/1509.05909](http://arxiv.org/abs/1509.05909)
 
+## Crowd Counting / Analysis
+
+**Large scale crowd analysis based on convolutional neural network**
+
+- paper: [http://www.sciencedirect.com/science/article/pii/S0031320315001259](http://www.sciencedirect.com/science/article/pii/S0031320315001259)
+
+**Cross-scene Crowd Counting via Deep Convolutional Neural Networks (CVPR 2015)**
+
+- paper: [http://www.ee.cuhk.edu.hk/~xgwang/papers/zhangLWYcvpr15.pdf](http://www.ee.cuhk.edu.hk/~xgwang/papers/zhangLWYcvpr15.pdf)
+
+**Single-Image Crowd Counting via Multi-Column Convolutional Neural Network (CVPR 2016)**
+
+- paper: [http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Zhang_Single-Image_Crowd_Counting_CVPR_2016_paper.pdf](http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Zhang_Single-Image_Crowd_Counting_CVPR_2016_paper.pdf)
+- dataset(pwd: p1rv): [http://pan.baidu.com/s/1gfyNBTh](http://pan.baidu.com/s/1gfyNBTh)
+
 ## NSFW Detection / Classification 
 
 **Nipple Detection using Convolutional Neural Network**

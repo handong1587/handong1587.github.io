@@ -71,7 +71,7 @@ after the embedding and recurrent layers of the RNN."
 
 ## Show, Attend and Tell
 
-**Show, Attend and Tell: Neural Image Caption Generation with Visual Attention**
+**Show, Attend and Tell: Neural Image Caption Generation with Visual Attention (ICML 2015)**
 
 ![](http://kelvinxu.github.io/projects/diags/model_diag.png)
 
@@ -79,6 +79,7 @@ after the embedding and recurrent layers of the RNN."
 - project page: [http://kelvinxu.github.io/projects/capgen.html](http://kelvinxu.github.io/projects/capgen.html)
 - github: [https://github.com/kelvinxu/arctic-captions](https://github.com/kelvinxu/arctic-captions)
 - github: [https://github.com/jazzsaxmafia/show_attend_and_tell.tensorflow](https://github.com/jazzsaxmafia/show_attend_and_tell.tensorflow)
+- demo: [http://www.cs.toronto.edu/~rkiros/abstract_captions.html](http://www.cs.toronto.edu/~rkiros/abstract_captions.html)
 
 **Describing Videos by Exploiting Temporal Structure**
 

@@ -21,6 +21,11 @@ date: 2015-10-09
 
 - slides: [http://www.borgelt.net/slides/ida.pdf](http://www.borgelt.net/slides/ida.pdf)
 
+**Scaling Data Science in Python Tutorial**
+
+- github: [https://github.com/chdoig/dss-scaling-tutorial](https://github.com/chdoig/dss-scaling-tutorial)
+- slides: [https://speakerdeck.com/chdoig/scaling-ds-in-python](https://speakerdeck.com/chdoig/scaling-ds-in-python)
+
 # Blogs
 
 **Comprehensive learning path – Data Science in Python**

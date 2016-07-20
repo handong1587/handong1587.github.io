@@ -62,3 +62,7 @@ date: 2015-08-27
 **Winton Kaggle Competition**
 
 [http://blog.nycdatascience.com/students-work/winton-kaggle-competition/](http://blog.nycdatascience.com/students-work/winton-kaggle-competition/)
+
+**Kaggle Master, data scientist, & author: An interview with Luca Massaron**
+
+- blog: [http://blog.kaggle.com/2016/07/14/kaggle-master-data-scientist-author-an-interview-with-luca-massaron/](http://blog.kaggle.com/2016/07/14/kaggle-master-data-scientist-author-an-interview-with-luca-massaron/)

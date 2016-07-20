@@ -136,6 +136,7 @@ using the stochastic gradient descent (SGD) algorithm to obtain fine pixel-level
 - homepage: [http://www.robots.ox.ac.uk/~szheng/CRFasRNN.html](http://www.robots.ox.ac.uk/~szheng/CRFasRNN.html)
 - github: [https://github.com/torrvision/crfasrnn](https://github.com/torrvision/crfasrnn)
 - demo: [http://www.robots.ox.ac.uk/~szheng/crfasrnndemo](http://www.robots.ox.ac.uk/~szheng/crfasrnndemo)
+- github: [https://github.com/martinkersner/train-CRF-RNN](https://github.com/martinkersner/train-CRF-RNN)
 
 ## BoxSup
 
@@ -178,6 +179,11 @@ fine-tune the trained network with more challenging examples later
 
 - youtube: [https://www.youtube.com/watch?v=xfNYAly1iXo](https://www.youtube.com/watch?v=xfNYAly1iXo)
 - mirror: [http://pan.baidu.com/s/1gdUzDlD](http://pan.baidu.com/s/1gdUzDlD)
+
+**Getting Started with SegNet**
+
+- blog: [http://mi.eng.cam.ac.uk/projects/segnet/tutorial.html](http://mi.eng.cam.ac.uk/projects/segnet/tutorial.html)
+- github: [https://github.com/alexgkendall/SegNet-Tutorial](https://github.com/alexgkendall/SegNet-Tutorial)
 
 ## DecoupledNet
 

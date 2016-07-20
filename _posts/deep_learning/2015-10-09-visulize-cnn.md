@@ -128,6 +128,12 @@ date: 2015-10-09
 - quickstart: [http://ethereon.github.io/netscope/quickstart.html](http://ethereon.github.io/netscope/quickstart.html)
 - demo: [http://ethereon.github.io/netscope/#/editor](http://ethereon.github.io/netscope/#/editor)
 
+**Grad-CAM: Gradient-weighted Class Activation Mapping**
+
+![](https://camo.githubusercontent.com/19f10c286fcebde737b7d0ab85d443b522169dd4/687474703a2f2f692e696d6775722e636f6d2f7142505233614d2e6a7067)
+
+- github: [https://github.com/ramprasaath21/grad-cam](https://github.com/ramprasaath21/grad-cam)
+
 # Blogs
 
 "Visualizing GoogLeNet Classes"

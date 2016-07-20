@@ -454,9 +454,13 @@ MSCOCO 2015 test:
 
 **Learning Deep Features for Discriminative Localization**
 
+![](http://cnnlocalization.csail.mit.edu/framework.jpg)
+
 - homepage: [http://cnnlocalization.csail.mit.edu/](http://cnnlocalization.csail.mit.edu/)
 - arxiv: [http://arxiv.org/abs/1512.04150](http://arxiv.org/abs/1512.04150)
 - github(Tensorflow): [https://github.com/jazzsaxmafia/Weakly_detector](https://github.com/jazzsaxmafia/Weakly_detector)
+- github: [https://github.com/metalbubble/CAM](https://github.com/metalbubble/CAM)
+- github: [https://github.com/tdeboissiere/VGG16CAM-keras](https://github.com/tdeboissiere/VGG16CAM-keras)
 
 # Tutorials
 

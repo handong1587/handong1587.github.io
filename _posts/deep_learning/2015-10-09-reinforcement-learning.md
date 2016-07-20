@@ -359,6 +359,10 @@ The goal is to check if the agent can learn to read tape.
 The project is dedicated to hero in life great Jesse Livermore.
 - github: [https://github.com/deependersingla/deep_trader](https://github.com/deependersingla/deep_trader)
 
+**dist-dqn：Distributed Reinforcement Learning using Deep Q-Network in TensorFlow**
+
+- github: [https://github.com/viswanathgs/dist-dqn](https://github.com/viswanathgs/dist-dqn)
+
 # Blogs
 
 **A Short Introduction To Some Reinforcement Learning Algorithms**
@@ -427,6 +431,15 @@ The project is dedicated to hero in life great Jesse Livermore.
 - part 1: [https://medium.com/@awjuliani/super-simple-reinforcement-learning-tutorial-part-1-fd544fab149](https://medium.com/@awjuliani/super-simple-reinforcement-learning-tutorial-part-1-fd544fab149)
 - part 2: [https://medium.com/@awjuliani/super-simple-reinforcement-learning-tutorial-part-2-ded33892c724#.dyhxww1u6](https://medium.com/@awjuliani/super-simple-reinforcement-learning-tutorial-part-2-ded33892c724#.dyhxww1u6)
 - gist: [https://gist.github.com/awjuliani/16608e1c4968baaa692b9b8c7dd94d04](https://gist.github.com/awjuliani/16608e1c4968baaa692b9b8c7dd94d04)
+
+**Reinforcement Learning in Python**
+
+- github: [https://github.com/NathanEpstein/pydata-reinforce](https://github.com/NathanEpstein/pydata-reinforce)
+
+**Using Keras and Deep Q-Network to Play FlappyBird**
+
+- blog: [https://yanpanlau.github.io/2016/07/10/FlappyBird-Keras.html](https://yanpanlau.github.io/2016/07/10/FlappyBird-Keras.html)
+- github: [https://github.com/yanpanlau/Keras-FlappyBird](https://github.com/yanpanlau/Keras-FlappyBird)
 
 # Books
 

@@ -85,6 +85,13 @@ for building Deep Learning (DL) machine learning (ML) models
 
 [http://docs.opencv.org/master/d5/de7/tutorial_dnn_googlenet.html#gsc.tab=0](http://docs.opencv.org/master/d5/de7/tutorial_dnn_googlenet.html#gsc.tab=0)
 
+## Caffe.js
+
+**Caffe.js: Run Caffe models in the browser using ConvNetJS**
+
+- github: [https://github.com/chaosmail/caffejs/](https://github.com/chaosmail/caffejs/)
+- demo: [http://chaosmail.github.io/caffejs/models.html](http://chaosmail.github.io/caffejs/models.html)
+
 # CDNN2
 
 **CDNN2 - CEVA Deep Neural Network Software Framework**
@@ -420,23 +427,57 @@ for building Deep Learning (DL) machine learning (ML) models
 
 - github: [https://github.com/samjabrahams/tensorflow-on-raspberry-pi](https://github.com/samjabrahams/tensorflow-on-raspberry-pi)
 
-**LearningTensorFlow.com: A beginners guide to a powerful framework.**
-
-- homepge: [http://learningtensorflow.com/index.html](http://learningtensorflow.com/index.html)
-
 **TFLearn: Deep learning library featuring a higher-level API for TensorFlow**
 
 - homepage: [http://tflearn.org/](http://tflearn.org/)
 - github: [https://github.com/tflearn/tflearn](https://github.com/tflearn/tflearn)
 - examples: [https://github.com/tflearn/tflearn/blob/0.1.0/examples/README.md](https://github.com/tflearn/tflearn/blob/0.1.0/examples/README.md)
 
-**TensorFlow Examples: TensorFlow tutorials and code examples for beginners**
-
-- github: [https://github.com/aymericdamien/TensorFlow-Examples](https://github.com/aymericdamien/TensorFlow-Examples)
-
 **CodinGame: Deep Learning - TensorFlow**
 
 - homepage: [https://www.codingame.com/games/machine-learning?utm_source=CodinGame&utm_medium=Email&utm_campaign=tensorflow](https://www.codingame.com/games/machine-learning?utm_source=CodinGame&utm_medium=Email&utm_campaign=tensorflow)
+
+**TensorFlow on Spark**
+
+- github: [https://github.com/adatao/tensorspark](https://github.com/adatao/tensorspark)
+
+**TensorBoard**
+
+**A Practical Guide for Debugging Tensorflow Codes**
+
+- slides: [https://wookayin.github.io/TensorflowKR-2016-talk-debugging](https://wookayin.github.io/TensorflowKR-2016-talk-debugging)
+- github: [https://github.com/wookayin/TensorflowKR-2016-talk-debugging](https://github.com/wookayin/TensorflowKR-2016-talk-debugging)
+
+## TensorFlow.jl
+
+**TensorFlow.jl: A Julia wrapper for the TensorFlow Python library**
+
+- github: [https://github.com/benmoran/TensorFlow.jl](https://github.com/benmoran/TensorFlow.jl)
+
+**TensorLayer: Deep learning and Reinforcement learning library for TensorFlow**
+
+- github: [https://github.com/zsdonghao/tensorlayer](https://github.com/zsdonghao/tensorlayer)
+- docs: [http://tensorlayer.readthedocs.io/en/latest/](http://tensorlayer.readthedocs.io/en/latest/)
+
+# Papers
+
+**TensorFlow: Large-Scale Machine Learning on Heterogeneous Distributed Systems**
+
+- arxiv: [http://arxiv.org/abs/1603.04467](http://arxiv.org/abs/1603.04467)
+
+**TensorFlow: A system for large-scale machine learning**
+
+- arxiv: [http://arxiv.org/abs/1605.08695](http://arxiv.org/abs/1605.08695)
+
+## Tutorials
+
+**LearningTensorFlow.com: A beginners guide to a powerful framework.**
+
+- homepge: [http://learningtensorflow.com/index.html](http://learningtensorflow.com/index.html)
+
+**TensorFlow Examples: TensorFlow tutorials and code examples for beginners**
+
+- github: [https://github.com/aymericdamien/TensorFlow-Examples](https://github.com/aymericdamien/TensorFlow-Examples)
 
 **Awesome TensorFlow: A curated list of awesome TensorFlow experiments, libraries, and projects**
 
@@ -451,35 +492,12 @@ for building Deep Learning (DL) machine learning (ML) models
 
 - github: [https://github.com/sjchoi86/Tensorflow-101](https://github.com/sjchoi86/Tensorflow-101)
 
-**TensorFlow on Spark**
-
-- github: [https://github.com/adatao/tensorspark](https://github.com/adatao/tensorspark)
-
-**TensorFlow: Large-Scale Machine Learning on Heterogeneous Distributed Systems**
-
-- arxiv: [http://arxiv.org/abs/1603.04467](http://arxiv.org/abs/1603.04467)
-
-**TensorFlow: A system for large-scale machine learning**
-
-- arxiv: [http://arxiv.org/abs/1605.08695](http://arxiv.org/abs/1605.08695)
-
 **TensorFlow Tutorial**
 
 - homepage: [http://terryum.io/ml_practice/2016/05/28/TFIntroSlides/](http://terryum.io/ml_practice/2016/05/28/TFIntroSlides/)
 - slides: [https://s3.amazonaws.com/www.terryum.io/images/TensorFlow_Intro_160529.pptx](https://s3.amazonaws.com/www.terryum.io/images/TensorFlow_Intro_160529.pptx)
 - mirror: [http://pan.baidu.com/s/1c5cICY](http://pan.baidu.com/s/1c5cICY)
 - github: [https://github.com/terryum/TensorFlow_Exercises](https://github.com/terryum/TensorFlow_Exercises)
-
-**TensorBoard**
-
-**A Practical Guide for Debugging Tensorflow Codes**
-
-- slides: [https://wookayin.github.io/TensorflowKR-2016-talk-debugging](https://wookayin.github.io/TensorflowKR-2016-talk-debugging)
-- github: [https://github.com/wookayin/TensorflowKR-2016-talk-debugging](https://github.com/wookayin/TensorflowKR-2016-talk-debugging)
-
-**A Julia wrapper for the TensorFlow Python library**
-
-- github: [https://github.com/benmoran/TensorFlow.jl](https://github.com/benmoran/TensorFlow.jl)
 
 **FIRST CONTACT WITH TENSORFLOW**
 

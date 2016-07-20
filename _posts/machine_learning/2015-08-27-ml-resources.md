@@ -213,6 +213,13 @@ Other awesome lists can be found in this [list](https://github.com/sindresorhus/
 
 - github: [https://github.com/spotify/annoy](https://github.com/spotify/annoy)
 
+# Hidden Markov Models (HMM)
+
+**tensorflow_hmm: A tensorflow implementation of an HMM layer**
+
+- intro: Tensorflow and numpy implementations of the HMM viterbi and forward/backward algorithms
+- github: [https://github.com/dwiel/tensorflow_hmm](https://github.com/dwiel/tensorflow_hmm)
+
 # Online Learning
 
 **Lecture Notes on Online Learning**

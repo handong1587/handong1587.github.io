@@ -2,8 +2,12 @@
 layout: post
 category: deep_learning
 title: Keep Up With New Trends
-date: 2016-07-08
+date: 2016-07-20
 ---
+
+**ICML 2016 tutorials**
+
+[http://icml.cc/2016/?page_id=97](http://icml.cc/2016/?page_id=97)
 
 **Deep Learning, Tools and Methods workshop**
 

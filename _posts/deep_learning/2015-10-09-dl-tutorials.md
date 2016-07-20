@@ -167,6 +167,22 @@ date: 2015-10-09
 
 - blog: [http://blog.altoros.com/using-convolutional-neural-networks-and-tensorflow-for-image-classification-and-search.html](http://blog.altoros.com/using-convolutional-neural-networks-and-tensorflow-for-image-classification-and-search.html)
 
+**Neural networks with Theano and Lasagne**
+
+- youtube: [https://www.youtube.com/watch?v=dtGhSE1PFh0](https://www.youtube.com/watch?v=dtGhSE1PFh0)
+- mirror: [http://pan.baidu.com/s/1kUl3PvL](http://pan.baidu.com/s/1kUl3PvL)
+- github: [https://github.com/ebenolson/pydata2015](https://github.com/ebenolson/pydata2015)
+
+**Introduction to Deep Learning**
+
+- github: [https://github.com/rouseguy/intro2deeplearning](https://github.com/rouseguy/intro2deeplearning)
+- slides: [https://speakerdeck.com/bargava/introduction-to-deep-learning](https://speakerdeck.com/bargava/introduction-to-deep-learning)
+
+**Introduction to Deep Learning for Image Recognition - SciPy US 2016**
+
+- github: [https://github.com/rouseguy/scipyUS2016_dl-image](https://github.com/rouseguy/scipyUS2016_dl-image)
+- slides: [https://speakerdeck.com/bargava/introduction-to-deep-learning-for-image-processing](https://speakerdeck.com/bargava/introduction-to-deep-learning-for-image-processing)
+
 ## Convolution
 
 ![](/assets/cnn-materials/conv.jpg)

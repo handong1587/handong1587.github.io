@@ -321,6 +321,7 @@ Compressed model is less than 500KB
 - project page: [http://richzhang.github.io/colorization/](http://richzhang.github.io/colorization/)
 - arxiv: [http://arxiv.org/abs/1603.08511](http://arxiv.org/abs/1603.08511)
 - github: [https://github.com/richzhang/colorization](https://github.com/richzhang/colorization)
+- demo: [http://demos.algorithmia.com/colorize-photos/](http://demos.algorithmia.com/colorize-photos/)
 
 **Automatic Colorization (Tensorflow + VGG)**
 
@@ -589,3 +590,9 @@ Compressed model is less than 500KB
 **Go, Marvin Minsky, and the Chasm that AI Hasn’t Yet Crossed**
 
 blog: [https://medium.com/backchannel/has-deepmind-really-passed-go-adc85e256bec#.inx8nfid0](https://medium.com/backchannel/has-deepmind-really-passed-go-adc85e256bec#.inx8nfid0)
+
+# Resources
+
+**Music, Art and Machine Intelligence Workshop 2016**
+
+- youtube: [https://www.youtube.com/playlist?list=PL8h7Hk91ScJ2NKFS_i8y4DYk4Zg1LHn0a](https://www.youtube.com/playlist?list=PL8h7Hk91ScJ2NKFS_i8y4DYk4Zg1LHn0a)

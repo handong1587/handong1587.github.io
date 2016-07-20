@@ -19,6 +19,10 @@ date: 2015-08-27
 
 - homepage: [http://www.vision.ee.ethz.ch/datasets/food-101/](http://www.vision.ee.ethz.ch/datasets/food-101/)
 
+**Bernoulli Random Forests: Closing the Gap between Theoretical Consistency and Empirical Soundness (IJCAI 2016)**
+
+- paper: [http://www.ijcai.org/Proceedings/16/Papers/309.pdf](http://www.ijcai.org/Proceedings/16/Papers/309.pdf)
+
 # Resources
 
 **AWESOME-RANDOM-FOREST - a curated list of resources regarding random forest**

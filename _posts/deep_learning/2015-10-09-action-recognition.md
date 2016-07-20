@@ -94,6 +94,10 @@ extract saptio-temporal features to represent the video using the CNNs."
 
 - arxiv: [http://arxiv.org/abs/1604.08880](http://arxiv.org/abs/1604.08880)
 
+**VideoLSTM Convolves, Attends and Flows for Action Recognition**
+
+- arxiv: [http://arxiv.org/abs/1607.01794](http://arxiv.org/abs/1607.01794)
+
 # Projects
 
 **CUHK & ETH & SIAT Solution to ActivityNet Challenge 2016**
