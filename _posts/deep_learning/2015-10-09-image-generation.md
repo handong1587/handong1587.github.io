@@ -115,6 +115,7 @@ date: 2015-10-09
 **Conditional Image Generation with PixelCNN Decoders (Google DeepMind. PixelCNN 2.0)**
 
 - arxiv: [http://arxiv.org/abs/1606.05328](http://arxiv.org/abs/1606.05328)
+- github(Theano): [https://github.com/kundan2510/pixelCNN](https://github.com/kundan2510/pixelCNN)
 
 **Inverting face embeddings with convolutional neural networks**
 

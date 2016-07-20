@@ -107,6 +107,10 @@ Other awesome lists can be found in this [list](https://github.com/sindresorhus/
 - arxiv: [http://arxiv.org/abs/1405.4980](http://arxiv.org/abs/1405.4980)
 - blog: [https://blogs.princeton.edu/imabandit/2015/11/30/convex-optimization-algorithms-and-complexity/](https://blogs.princeton.edu/imabandit/2015/11/30/convex-optimization-algorithms-and-complexity/)
 
+**cvx-optim.torch: Torch library for convex optimization**
+
+- github: [https://github.com/bamos/cvx-optim.torch](https://github.com/bamos/cvx-optim.torch)
+
 # Decision Tree
 
 **Soft Decision Trees**

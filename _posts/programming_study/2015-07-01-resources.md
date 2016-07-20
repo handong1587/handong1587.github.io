@@ -169,6 +169,10 @@ which continually runs and visualizes your code as you type
 
 [https://www.hackerrank.com/domains](https://www.hackerrank.com/domains)
 
+**Python / C++ 11 Solutions of All 375 LeetCode Questions**
+
+- github: [https://github.com/kamyu104/LeetCode](https://github.com/kamyu104/LeetCode)
+
 ## Code of Honor Series
 
 **Tough times on the road to Starcraft**

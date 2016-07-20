@@ -53,6 +53,10 @@ date: 2015-10-09
 
 - github: [https://github.com/pranv/lrh/blob/master/about.md](https://github.com/pranv/lrh/blob/master/about.md)
 
+**Element-Research Torch RNN Tutorial for recurrent neural nets : let's predict time series with a laptop GPU**
+
+- blog: [https://christopher5106.github.io/deep/learning/2016/07/14/element-research-torch-rnn-tutorial.html](https://christopher5106.github.io/deep/learning/2016/07/14/element-research-torch-rnn-tutorial.html)
+
 # Train RNN
 
 **On the difficulty of training Recurrent Neural Networks**

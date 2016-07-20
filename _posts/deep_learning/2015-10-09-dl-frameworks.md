@@ -205,6 +205,10 @@ for building Deep Learning (DL) machine learning (ML) models
 
 - github: [https://github.com/jakebian/hera](https://github.com/jakebian/hera)
 
+**Installing Keras for deep learning**
+
+- blog: [http://www.pyimagesearch.com/2016/07/18/installing-keras-for-deep-learning/](http://www.pyimagesearch.com/2016/07/18/installing-keras-for-deep-learning/)
+
 # Lasagne
 
 **Lasagne: Lightweight library to build and train neural networks in Theano**
@@ -336,6 +340,11 @@ for building Deep Learning (DL) machine learning (ML) models
 **Tools to convert Caffe models to neon's serialization format**
 
 - github: [https://github.com/NervanaSystems/caffe2neon](https://github.com/NervanaSystems/caffe2neon)
+
+**Nervana’s Deep Learning Course**
+
+- homepag: [https://www.nervanasys.com/deep-learning-tutorials/](https://www.nervanasys.com/deep-learning-tutorials/)
+- github: [https://github.com/NervanaSystems/neon_course](https://github.com/NervanaSystems/neon_course)
 
 # OpenDeep
 

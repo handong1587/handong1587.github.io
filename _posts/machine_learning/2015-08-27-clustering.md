@@ -86,7 +86,7 @@ it surveys the widely known clustering algorithms in a comparative way"
 
 **k2-means for fast and accurate large scale clustering**
 
-- arixv: [http://arxiv.org/abs/1605.09299](http://arxiv.org/abs/1605.09299)
+- arxiv: [http://arxiv.org/abs/1605.09299](http://arxiv.org/abs/1605.09299)
 
 # Books
 

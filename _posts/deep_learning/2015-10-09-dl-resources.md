@@ -776,6 +776,12 @@ with fast exact probabilistic inference over many layers."
 
 - arxiv: [http://arxiv.org/abs/1605.07678](http://arxiv.org/abs/1605.07678)
 
+**16 Open Source Deep Learning Models Running as Microservices**
+
+![](http://blog.algorithmia.com/2016/07/open-source-deep-learning-algorithm-roundup/)
+
+- blog: [http://blog.algorithmia.com/2016/07/open-source-deep-learning-algorithm-roundup/](http://blog.algorithmia.com/2016/07/open-source-deep-learning-algorithm-roundup/)
+
 ## Age Estimation
 
 **Deeply-Learned Feature for Age Estimation**
@@ -1254,6 +1260,13 @@ This was tested on a 64 bit machine with Nvidia Titan X, running Ubuntu 14.04
 - intro: An all-in-one Docker image for deep learning. 
 Contains all the popular DL frameworks (TensorFlow, Theano, Torch, Caffe, etc.)
 - github: [https://github.com/saiprashanths/dl-docker](https://github.com/saiprashanths/dl-docker)
+
+**NVIDIA Docker: GPU Server Application Deployment Made Easy**
+
+![](https://cloud.githubusercontent.com/assets/3028125/12213714/5b208976-b632-11e5-8406-38d379ec46aa.png)
+
+- blog: [https://devblogs.nvidia.com/parallelforall/nvidia-docker-gpu-server-application-deployment-made-easy/](https://devblogs.nvidia.com/parallelforall/nvidia-docker-gpu-server-application-deployment-made-easy/)
+- github: [https://github.com/NVIDIA/nvidia-docker](https://github.com/NVIDIA/nvidia-docker)
 
 ## Cloud
 

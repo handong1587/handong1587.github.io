@@ -68,6 +68,7 @@ date: 2015-10-09
 - homepage: [http://ronghanghu.com/text_obj_retrieval/](http://ronghanghu.com/text_obj_retrieval/)
 - arxiv: [http://arxiv.org/abs/1511.04164](http://arxiv.org/abs/1511.04164)
 - github: [https://github.com/ronghanghu/natural-language-object-retrieval](https://github.com/ronghanghu/natural-language-object-retrieval)
+- github: [https://github.com/andrewliao11/Natural-Language-Object-Retrieval-tensorflow](https://github.com/andrewliao11/Natural-Language-Object-Retrieval-tensorflow)
 
 **Faster R-CNN Features for Instance Search**
 

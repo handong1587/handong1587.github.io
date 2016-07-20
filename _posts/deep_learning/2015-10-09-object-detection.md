@@ -412,6 +412,10 @@ MSCOCO 2015 test:
 - paper: [http://www.ee.cuhk.edu.hk/~wlouyang/Papers/KangVideoDet_CVPR16.pdf](http://www.ee.cuhk.edu.hk/~wlouyang/Papers/KangVideoDet_CVPR16.pdf)
 - gihtub: [https://github.com/myfavouritekk/vdetlib](https://github.com/myfavouritekk/vdetlib)
 
+**Context Matters: Refining Object Detection in Video with Recurrent Neural Networks**
+
+- arxiv: [http://arxiv.org/abs/1607.04648](http://arxiv.org/abs/1607.04648)
+
 # Object Proposal
 
 ## DeepProposal

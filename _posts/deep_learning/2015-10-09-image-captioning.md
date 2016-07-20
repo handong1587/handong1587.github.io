@@ -148,7 +148,7 @@ after the embedding and recurrent layers of the RNN."
 
 **Captioning Images with Diverse Objects**
 
-- arixv: [http://arxiv.org/abs/1606.07770](http://arxiv.org/abs/1606.07770)
+- arxiv: [http://arxiv.org/abs/1606.07770](http://arxiv.org/abs/1606.07770)
 
 # Object Descriptions
 
