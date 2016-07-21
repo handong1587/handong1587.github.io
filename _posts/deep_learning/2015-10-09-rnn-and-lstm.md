@@ -395,6 +395,10 @@ date: 2015-10-09
 
 - github: [https://github.com/Element-Research/rnn](https://github.com/Element-Research/rnn)
 
+**word-rnn-tensorflow: Multi-layer Recurrent Neural Networks (LSTM, RNN) for word-level language models in Python using TensorFlow**
+
+- github: [https://github.com/hunkim/word-rnn-tensorflow](https://github.com/hunkim/word-rnn-tensorflow)
+
 # Blogs
 
 **Survey on Attention-based Models Applied in NLP**

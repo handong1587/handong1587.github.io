@@ -183,6 +183,10 @@ date: 2015-10-09
 - github: [https://github.com/rouseguy/scipyUS2016_dl-image](https://github.com/rouseguy/scipyUS2016_dl-image)
 - slides: [https://speakerdeck.com/bargava/introduction-to-deep-learning-for-image-processing](https://speakerdeck.com/bargava/introduction-to-deep-learning-for-image-processing)
 
+**Deep learning tutorials (2nd ed.)**
+
+- github: [https://github.com/sjchoi86/dl_tutorials](https://github.com/sjchoi86/dl_tutorials)
+
 ## Convolution
 
 ![](/assets/cnn-materials/conv.jpg)

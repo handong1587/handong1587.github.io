@@ -415,6 +415,10 @@ accuracy and the detection and localization accuracy of all tasks
 
 - arxiv: [http://arxiv.org/abs/1604.03539](http://arxiv.org/abs/1604.03539)
 
+**Multi-Task Learning in Tensorflow (Part 1)**
+
+- blog: [https://jg8610.github.io/Multi-Task/](https://jg8610.github.io/Multi-Task/)
+
 ## Multi-modal Learning
 
 **Multimodal Deep Learning**
@@ -955,6 +959,12 @@ Image Caption Generation, Automatic Game Playing
 
 - paper: [http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Zhang_Single-Image_Crowd_Counting_CVPR_2016_paper.pdf](http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Zhang_Single-Image_Crowd_Counting_CVPR_2016_paper.pdf)
 - dataset(pwd: p1rv): [http://pan.baidu.com/s/1gfyNBTh](http://pan.baidu.com/s/1gfyNBTh)
+
+## Music Classification
+
+**Explaining Deep Convolutional Neural Networks on Music Classification**
+
+- arxiv: [http://arxiv.org/abs/1607.02444](http://arxiv.org/abs/1607.02444)
 
 ## NSFW Detection / Classification 
 

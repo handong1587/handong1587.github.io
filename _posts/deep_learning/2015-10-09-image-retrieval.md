@@ -89,6 +89,15 @@ date: 2015-10-09
 - paper: [http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Lin_Learning_Compact_Binary_CVPR_2016_paper.pdf](http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Lin_Learning_Compact_Binary_CVPR_2016_paper.pdf)
 - github: [https://github.com/kevinlin311tw/cvpr16-deepbit](https://github.com/kevinlin311tw/cvpr16-deepbit)
 
+# Blogs
+
+**Using Sketches to Search for Products Online**
+
+![](http://sketchx.eecs.qmul.ac.uk/wp-content/uploads/sites/27/2016/04/slider_template_cvpr4-1.jpg)
+
+- homepage: [http://sketchx.eecs.qmul.ac.uk/](http://sketchx.eecs.qmul.ac.uk/)
+- blog: [https://news.developer.nvidia.com/using-sketches-to-search-for-products-online/](https://news.developer.nvidia.com/using-sketches-to-search-for-products-online/)
+
 # Tutorials
 
 **Deep Image Retrieval: Learning global representations for image search**
