@@ -32,3 +32,7 @@ date: 2015-10-09
 **PersonNet: Person Re-identification with Deep Convolutional Neural Networks**
 
 - arxiv: [http://arxiv.org/abs/1601.07255](http://arxiv.org/abs/1601.07255)
+
+**A Multi-task Deep Network for Person Re-identification**
+
+- arxiv: [http://arxiv.org/abs/1607.05369](http://arxiv.org/abs/1607.05369)

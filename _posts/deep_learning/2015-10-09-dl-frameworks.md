@@ -511,6 +511,10 @@ for building Deep Learning (DL) machine learning (ML) models
 
 - github: [https://github.com/nlintz/TensorFlow-Tutorials](https://github.com/nlintz/TensorFlow-Tutorials)
 
+**Neural Network Toolbox on TensorFlow**
+
+- github: [https://github.com/ppwwyyxx/tensorpack](https://github.com/ppwwyyxx/tensorpack)
+
 # Theano
 
 **Theano**

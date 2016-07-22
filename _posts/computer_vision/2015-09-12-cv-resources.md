@@ -582,6 +582,10 @@ The size of their dataset is, however, limited by the availability of domain-spe
 
 - blog: [http://www.computervisionblog.com/2016/01/why-slam-matters-future-of-real-time.html](http://www.computervisionblog.com/2016/01/why-slam-matters-future-of-real-time.html)
 
+**Awesome SLAM**
+
+- github: [https://github.com/kanster/awesome-slam](https://github.com/kanster/awesome-slam)
+
 # OCR
 
 **Ocular: a state-of-the-art historical OCR system**

@@ -233,6 +233,10 @@ to decompose it into the multiplications of thinned dense matrices"
 - github: [https://github.com/Maratyszcza/NNPACK](https://github.com/Maratyszcza/NNPACK)
 - comments(Yann LeCun): [https://www.facebook.com/yann.lecun/posts/10153459577707143](https://www.facebook.com/yann.lecun/posts/10153459577707143)
 
+**Deep Compression on AlexNet**
+
+- github: [https://github.com/songhan/Deep-Compression-AlexNet](https://github.com/songhan/Deep-Compression-AlexNet)
+
 # Blogs
 
 **Neural Networks Are Impressively Good At Compression**

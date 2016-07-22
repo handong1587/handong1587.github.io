@@ -97,6 +97,10 @@ date: 2015-10-09
 
 - blog: [https://blog.rescale.com/deep-learning-with-multiple-gpus-on-rescale-torch/](https://blog.rescale.com/deep-learning-with-multiple-gpus-on-rescale-torch/)
 
+**GPU-accelerated Theano & Keras on Windows 10 native**
+
+- arxiv: [https://github.com/philferriere/dlwin](https://github.com/philferriere/dlwin)
+
 # FPGA
 
 **Recurrent Neural Networks Hardware Implementation on FPGA**

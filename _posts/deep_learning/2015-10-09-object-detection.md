@@ -307,6 +307,14 @@ MSCOCO 2015 test:
 - arxiv: [http://arxiv.org/abs/1605.06409](http://arxiv.org/abs/1605.06409)
 - github: [https://github.com/daijifeng001/R-FCN](https://github.com/daijifeng001/R-FCN)
 
+**Weakly supervised object detection using pseudo-strong labels**
+
+- arxiv: [http://arxiv.org/abs/1607.04731](http://arxiv.org/abs/1607.04731)
+
+**Recycle deep features for better object detection**
+
+- arxiv: [http://arxiv.org/abs/1607.05066](http://arxiv.org/abs/1607.05066)
+
 # Specific Object Deteciton
 
 ## People Detection
@@ -346,6 +354,20 @@ MSCOCO 2015 test:
 
 - intro: "set a new record on the Caltech pedestrian dataset, lowering the log-average miss rate from 11.7% to 8.9%"
 - arxiv: [http://arxiv.org/abs/1603.04525](http://arxiv.org/abs/1603.04525)
+
+**A Real-Time Deep Learning Pedestrian Detector for Robot Navigation**
+
+- arxiv: [http://arxiv.org/abs/1607.04436](http://arxiv.org/abs/1607.04436)
+
+**A Real-Time Pedestrian Detector using Deep Learning for Human-Aware Navigation**
+
+- arxiv: [http://arxiv.org/abs/1607.04441](http://arxiv.org/abs/1607.04441)
+
+## Vehicle Detection
+
+**DAVE: A Unified Framework for Fast Vehicle Detection and Annotation**
+
+- arxiv: [http://arxiv.org/abs/1607.04564](http://arxiv.org/abs/1607.04564)
 
 ## Traffic-Sign Detection
 

@@ -75,6 +75,12 @@ date: 2015-08-27
 - talk: [http://videolectures.net/aistats2011_wingate_lightweight/](http://videolectures.net/aistats2011_wingate_lightweight/)
 - github: ("probabilistic-js"): [https://github.com/dritchie/probabilistic-js](https://github.com/dritchie/probabilistic-js)
 
+**Introduction to Probabilistic Programming**
+
+![](http://austinrochford.com/resources/talks/img/probabilistic_programming.png)
+
+- blog: [http://austinrochford.com/resources/talks/dataphilly-jul2016.slides.html](http://austinrochford.com/resources/talks/dataphilly-jul2016.slides.html)
+
 # Books
 
 **Probabilistic Programming & Bayesian Methods for Hackers**

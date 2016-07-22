@@ -797,6 +797,10 @@ Image Caption Generation, Automatic Game Playing
 
 - blog: [http://blog.algorithmia.com/2016/07/open-source-deep-learning-algorithm-roundup/](http://blog.algorithmia.com/2016/07/open-source-deep-learning-algorithm-roundup/)
 
+**Deep Cascaded Bi-Network for Face Hallucination**
+
+- arxiv: [http://arxiv.org/abs/1607.05046](http://arxiv.org/abs/1607.05046)
+
 ## Age Estimation
 
 **Deeply-Learned Feature for Age Estimation**
@@ -1055,6 +1059,10 @@ Bicubic VS. Shepard CNN
 
 - arxiv: [http://arxiv.org/abs/1503.00593](http://arxiv.org/abs/1503.00593)
 
+**End-to-End Learning for Image Burst Deblurring**
+
+- arxiv: [http://arxiv.org/abs/1607.04433](http://arxiv.org/abs/1607.04433)
+
 ## Saliency Prediction
 
 This task involves predicting the salient regions of an image given by human eye fixations.
@@ -1085,6 +1093,18 @@ This task involves predicting the salient regions of an image given by human eye
 
 - arxiv: [http://arxiv.org/abs/1603.00845](http://arxiv.org/abs/1603.00845)
 - github: [https://github.com/imatge-upc/saliency-2016-cvpr](https://github.com/imatge-upc/saliency-2016-cvpr)
+
+**Two-Stream Convolutional Networks for Dynamic Saliency Prediction**
+
+- arxiv: [http://arxiv.org/abs/1607.04730](http://arxiv.org/abs/1607.04730)
+
+**Unconstrained Salient Object Detection (CVPR 2016)**
+
+![](http://cs-people.bu.edu/jmzhang/images/pasted%20image%201465x373.jpg)
+
+- project page: [http://cs-people.bu.edu/jmzhang/sod.html](http://cs-people.bu.edu/jmzhang/sod.html)
+- paper: [http://cs-people.bu.edu/jmzhang/SOD/CVPR16SOD_camera_ready.pdf](http://cs-people.bu.edu/jmzhang/SOD/CVPR16SOD_camera_ready.pdf)
+- github: [https://github.com/jimmie33/SOD](https://github.com/jimmie33/SOD)
 
 ## Video Classification
 
