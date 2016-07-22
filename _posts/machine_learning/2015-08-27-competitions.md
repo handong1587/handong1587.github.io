@@ -66,3 +66,10 @@ date: 2015-08-27
 **Kaggle Master, data scientist, & author: An interview with Luca Massaron**
 
 - blog: [http://blog.kaggle.com/2016/07/14/kaggle-master-data-scientist-author-an-interview-with-luca-massaron/](http://blog.kaggle.com/2016/07/14/kaggle-master-data-scientist-author-an-interview-with-luca-massaron/)
+
+**Recognizing and Localizing Endangered Right Whales with Extremely Deep Neural Networks (2nd place solution to the Kaggle Right Whale challenge)**
+
+![](http://felixlaumon.github.io/assets/kaggle-right-whale/aligner_localization_approach.png)
+
+- blog: [http://felixlaumon.github.io/2015/01/08/kaggle-right-whale.html](http://felixlaumon.github.io/2015/01/08/kaggle-right-whale.html)
+- github: [https://github.com/felixlaumon/kaggle-right-whale](https://github.com/felixlaumon/kaggle-right-whale)

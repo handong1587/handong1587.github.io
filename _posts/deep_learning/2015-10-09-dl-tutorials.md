@@ -187,6 +187,12 @@ date: 2015-10-09
 
 - github: [https://github.com/sjchoi86/dl_tutorials](https://github.com/sjchoi86/dl_tutorials)
 
+**A Beginner's Guide To Understanding Convolutional Neural Networks**
+
+![](https://adeshpande3.github.io/assets/Cover.png)
+
+- blog: [https://adeshpande3.github.io/adeshpande3.github.io/A-Beginner's-Guide-To-Understanding-Convolutional-Neural-Networks/](https://adeshpande3.github.io/adeshpande3.github.io/A-Beginner's-Guide-To-Understanding-Convolutional-Neural-Networks/)
+
 ## Convolution
 
 ![](/assets/cnn-materials/conv.jpg)

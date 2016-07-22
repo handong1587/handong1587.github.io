@@ -445,6 +445,13 @@ Other awesome lists can be found in this [list](https://github.com/sindresorhus/
 - homepage: [http://ciml.info/](http://ciml.info/)
 - github: [https://github.com/hal3/ciml](https://github.com/hal3/ciml)
 
+**An Introduction to Statistical Learning: with Applications in R**
+
+- homepage: [http://www-bcf.usc.edu/~gareth/ISL/](http://www-bcf.usc.edu/~gareth/ISL/)
+- course page: [https://lagunita.stanford.edu/courses/HumanitiesSciences/StatLearning/Winter2016/about](https://lagunita.stanford.edu/courses/HumanitiesSciences/StatLearning/Winter2016/about)
+- unofficial solutions: [http://blog.princehonest.com/stat-learning/](http://blog.princehonest.com/stat-learning/)
+- github: [https://github.com/asadoughi/stat-learning](https://github.com/asadoughi/stat-learning)
+
 # Videos
 
 **Video resources for machine learning**
