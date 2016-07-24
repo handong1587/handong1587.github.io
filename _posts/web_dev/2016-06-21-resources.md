@@ -9,6 +9,16 @@ category: "web_dev"
 
 - blog: [http://blog.teamtreehouse.com/install-node-js-npm-windows](http://blog.teamtreehouse.com/install-node-js-npm-windows)
 
+# How to install a gem correctly: use RVM
+
+**Why do I get a “permission denied” error while installing a gem?**
+
+- stackoverflow: [http://stackoverflow.com/questions/17550903/why-do-i-get-a-permission-denied-error-while-installing-a-gem](http://stackoverflow.com/questions/17550903/why-do-i-get-a-permission-denied-error-while-installing-a-gem)
+
+**Installing RVM**
+
+[https://rvm.io/rvm/install](https://rvm.io/rvm/install)
+
 # Toc of Markdown
 
 **为Jekyll博客添加目录与ScrollSpy效果**
