@@ -19,6 +19,17 @@ category: "web_dev"
 
 [https://rvm.io/rvm/install](https://rvm.io/rvm/install)
 
+# Install bower
+
+**/usr/bin/env: node: No such file or directory**
+
+```
+linjinbin@ubuntu:~/sw/node-v0.1.100$ cd /usr/local/lib/node_modules/bower/bin/
+linjinbin@ubuntu:/usr/local/lib/node_modules/bower/bin$ ./bower -v
+/usr/bin/env: node: No such file or directory
+linjinbin@ubuntu:/usr/local/lib/node_modules/bower/bin$ sudo ln -s /usr/bin/nodejs /usr/bin/node
+```
+
 # Toc of Markdown
 
 **为Jekyll博客添加目录与ScrollSpy效果**
