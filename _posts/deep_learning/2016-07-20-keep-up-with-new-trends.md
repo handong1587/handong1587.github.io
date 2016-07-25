@@ -29,6 +29,14 @@ date: 2016-07-20
 
 [https://indico.io/blog/iclr-2016-takeaways/](https://indico.io/blog/iclr-2016-takeaways/)
 
+**Five Things I Learned at CVPR 2016**
+
+- day 1: [https://gab41.lab41.org/all-your-questions-answered-cvpr-day-1-40f488103076#.ejrgol28h](https://gab41.lab41.org/all-your-questions-answered-cvpr-day-1-40f488103076#.ejrgol28h)
+- day 2: [https://gab41.lab41.org/the-sounds-of-cvpr-day-2-f33a3625cbf3#.nifea1blu](https://gab41.lab41.org/the-sounds-of-cvpr-day-2-f33a3625cbf3#.nifea1blu)
+- day 3: [https://gab41.lab41.org/animated-gifs-and-video-clips-cvpr-day-3-96fdcfc36e2c#.x9wd86lym](https://gab41.lab41.org/animated-gifs-and-video-clips-cvpr-day-3-96fdcfc36e2c#.x9wd86lym)
+- day 4: [https://gab41.lab41.org/caption-this-cvpr-day-4-8fe94d7aeb71#.rhzd3zg5j](https://gab41.lab41.org/caption-this-cvpr-day-4-8fe94d7aeb71#.rhzd3zg5j)
+- day 5: [https://gab41.lab41.org/five-things-i-learned-at-cvpr-2016-5e857c017f7b#.umag6vs3v](https://gab41.lab41.org/five-things-i-learned-at-cvpr-2016-5e857c017f7b#.umag6vs3v)
+
 **CVPR 2016**
 
 - homepage: [http://cvpr2016.thecvf.com/program/main_conference](http://cvpr2016.thecvf.com/program/main_conference)

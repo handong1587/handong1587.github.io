@@ -279,6 +279,7 @@ Compressed model is less than 500KB
 
 - arxiv: [http://arxiv.org/abs/1606.03073](http://arxiv.org/abs/1606.03073)
 - review: [https://www.technologyreview.com/s/601684/machine-vision-algorithm-learns-to-transform-hand-drawn-sketches-into-photorealistic-images/](https://www.technologyreview.com/s/601684/machine-vision-algorithm-learns-to-transform-hand-drawn-sketches-into-photorealistic-images/)
+- review: [https://techcrunch.com/2016/07/24/researchers-use-neural-networks-to-turn-face-sketches-into-photos/](https://techcrunch.com/2016/07/24/researchers-use-neural-networks-to-turn-face-sketches-into-photos/)
 
 **Sketch Me That Shoe (CVPR 2016)**
 
@@ -295,6 +296,13 @@ Compressed model is less than 500KB
 ![](/assets/fun_with_dl/portrait_eg16.png)
 
 - paper: [http://www.cse.cuhk.edu.hk/leojia/papers/portrait_eg16.pdf](http://www.cse.cuhk.edu.hk/leojia/papers/portrait_eg16.pdf)
+
+**Transfiguring Portraits**
+
+![](/assets/fun_with_dl/Transfiguring_Portraits.jpg)
+
+- homepage: [http://dreambit.xyz/](http://dreambit.xyz/)
+- paper: [http://homes.cs.washington.edu/~kemelmi/Transfiguring_Portraits_Kemelmacher_SIGGRAPH2016.pdf](http://homes.cs.washington.edu/~kemelmi/Transfiguring_Portraits_Kemelmacher_SIGGRAPH2016.pdf)
 
 ## Image Colorization
 

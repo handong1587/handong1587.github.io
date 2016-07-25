@@ -480,6 +480,10 @@ Other awesome lists can be found in this [list](https://github.com/sindresorhus/
 - unofficial solutions: [http://blog.princehonest.com/stat-learning/](http://blog.princehonest.com/stat-learning/)
 - github: [https://github.com/asadoughi/stat-learning](https://github.com/asadoughi/stat-learning)
 
+**Introduction to Machine Learning with Python**
+
+- github(Notebooks and code): [https://github.com/amueller/introduction_to_ml_with_python](https://github.com/amueller/introduction_to_ml_with_python)
+
 # Videos
 
 **Video resources for machine learning**

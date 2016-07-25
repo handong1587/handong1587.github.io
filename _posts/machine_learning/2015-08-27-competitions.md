@@ -79,3 +79,9 @@ date: 2015-08-27
 - blog: [http://mlwave.com/kaggle-ensembling-guide/](http://mlwave.com/kaggle-ensembling-guide/)
 - mirror: [http://pan.baidu.com/s/1jGGgvEQ](http://pan.baidu.com/s/1jGGgvEQ)
 - github: [https://github.com/MLWave/Kaggle-Ensemble-Guide](https://github.com/MLWave/Kaggle-Ensemble-Guide)
+
+**Approaching (Almost) Any Machine Learning Problem | Abhishek Thakur**
+
+![](http://blog.kaggle.com/wp-content/uploads/2016/07/abhishek_2.png)
+
+- blog: [http://blog.kaggle.com/2016/07/21/approaching-almost-any-machine-learning-problem-abhishek-thakur/](http://blog.kaggle.com/2016/07/21/approaching-almost-any-machine-learning-problem-abhishek-thakur/)

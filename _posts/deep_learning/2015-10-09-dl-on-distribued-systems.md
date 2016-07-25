@@ -40,6 +40,10 @@ date: 2015-10-09
 - arxiv: [http://arxiv.org/abs/1603.04467](http://arxiv.org/abs/1603.04467)
 - gitxiv: [http://gitxiv.com/posts/57kjddp3AWt4y5K4h/tensorflow-large-scale-machine-learning-on-heterogeneous](http://gitxiv.com/posts/57kjddp3AWt4y5K4h/tensorflow-large-scale-machine-learning-on-heterogeneous)
 
+**Distributed Supervised Learning using Neural Networks (Ph.D. thesis)**
+
+- arxiv: [http://arxiv.org/abs/1607.06364](http://arxiv.org/abs/1607.06364)
+
 # Projects
 
 **Theano-MPI: a Theano-based Distributed Training Framework**
