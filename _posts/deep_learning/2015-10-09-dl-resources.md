@@ -881,7 +881,7 @@ Image Caption Generation, Automatic Game Playing
 **Convolutional Pose Machines**
 
 - arxiv: [http://arxiv.org/abs/1602.00134](http://arxiv.org/abs/1602.00134)
-- github: [https://github.com/tenstep/convolutional-pose-machines-release](https://github.com/tenstep/convolutional-pose-machines-release)
+- github: [https://github.com/shihenw/convolutional-pose-machines-release](https://github.com/shihenw/convolutional-pose-machines-release)
 
 **Model-based Deep Hand Pose Estimation**
 

@@ -44,6 +44,24 @@ Other awesome lists can be found in this [list](https://github.com/sindresorhus/
 
 - blog: [http://blog.nycdatascience.com/students-work/a-comparison-of-supervised-learning-algorithm/](http://blog.nycdatascience.com/students-work/a-comparison-of-supervised-learning-algorithm/)
 
+## Machine Learning is Fun!
+
+**Machine Learning is Fun! - The world’s easiest introduction to Machine Learning**
+
+- blog: [https://medium.com/@ageitgey/machine-learning-is-fun-80ea3ec3c471#.yy4r6gf6b](https://medium.com/@ageitgey/machine-learning-is-fun-80ea3ec3c471#.yy4r6gf6b)
+
+**Machine Learning is Fun! Part 2 - Using Machine Learning to generate Super Mario Maker levels**
+
+- blog: [https://medium.com/@ageitgey/machine-learning-is-fun-part-2-a26a10b68df3#.r3jx7zqro](https://medium.com/@ageitgey/machine-learning-is-fun-part-2-a26a10b68df3#.r3jx7zqro)
+
+**Machine Learning is Fun! Part 3: Deep Learning and Convolutional Neural Networks**
+
+- blog: [https://medium.com/@ageitgey/machine-learning-is-fun-part-3-deep-learning-and-convolutional-neural-networks-f40359318721#.8jjnrfiix](https://medium.com/@ageitgey/machine-learning-is-fun-part-3-deep-learning-and-convolutional-neural-networks-f40359318721#.8jjnrfiix)
+
+**Machine Learning is Fun! Part 4: Modern Face Recognition with Deep Learning**
+
+- blog: [https://medium.com/@ageitgey/machine-learning-is-fun-part-4-modern-face-recognition-with-deep-learning-c3cffc121d78#.fnu6ep6ac](https://medium.com/@ageitgey/machine-learning-is-fun-part-4-modern-face-recognition-with-deep-learning-c3cffc121d78#.fnu6ep6ac)
+
 # Boosting
 
 "Quick Introduction to Boosting Algorithms in Machine Learning"
@@ -333,6 +351,16 @@ Other awesome lists can be found in this [list](https://github.com/sindresorhus/
 
 - paper: [http://www.cs.toronto.edu/~darius/papers/SedhainEtAl-AAAI2016.pdf](http://www.cs.toronto.edu/~darius/papers/SedhainEtAl-AAAI2016.pdf)
 - github: [https://github.com/mesuvash/LRec](https://github.com/mesuvash/LRec)
+
+## How to Write Your Own Recommendation System
+
+**How to Write Your Own Recommendation System - Part 1: Small Scale**
+
+- blog: [http://elliot.land/how-to-write-your-own-recommendation-system-part-1](http://elliot.land/how-to-write-your-own-recommendation-system-part-1)
+
+**How to Write Your Own Recommendation System, Part 2 - More Data!**
+
+- blog: [http://elliot.land/how-to-write-your-own-recommendation-system-part-2](http://elliot.land/how-to-write-your-own-recommendation-system-part-2)
 
 # Papers
 

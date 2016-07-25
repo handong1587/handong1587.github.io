@@ -441,6 +441,14 @@ The project is dedicated to hero in life great Jesse Livermore.
 - blog: [https://yanpanlau.github.io/2016/07/10/FlappyBird-Keras.html](https://yanpanlau.github.io/2016/07/10/FlappyBird-Keras.html)
 - github: [https://github.com/yanpanlau/Keras-FlappyBird](https://github.com/yanpanlau/Keras-FlappyBird)
 
+**The Skynet Salesman**
+
+![](http://multithreaded.stitchfix.com/assets/posts/2016-07-18-skynet-salesman/np4_5_w.gif)
+
+- keyworkds: traveling salesman problem (TSP), deep Q learning
+- blog: [http://multithreaded.stitchfix.com/blog/2016/07/21/skynet-salesman/](http://multithreaded.stitchfix.com/blog/2016/07/21/skynet-salesman/)
+- github: [https://github.com/jn2clark/ReinforcementLearning/tree/master/DeepQ](https://github.com/jn2clark/ReinforcementLearning/tree/master/DeepQ)
+
 # Books
 
 **Reinforcement Learning: State-of-the-Art**

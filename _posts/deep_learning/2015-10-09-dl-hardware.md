@@ -52,6 +52,10 @@ date: 2015-10-09
 
 # GPU
 
+**Which GPU(s) to Get for Deep Learning: My Experience and Advice for Using GPUs in Deep Learning**
+
+- blog: [http://timdettmers.com/2014/08/14/which-gpu-for-deep-learning/](http://timdettmers.com/2014/08/14/which-gpu-for-deep-learning/)
+
 **从深度学习选择什么样的gpu来谈谈gpu的硬件架构**
 
 - blog: [http://chenrudan.github.io/blog/2015/12/20/introductionofgpuhardware.html](http://chenrudan.github.io/blog/2015/12/20/introductionofgpuhardware.html)

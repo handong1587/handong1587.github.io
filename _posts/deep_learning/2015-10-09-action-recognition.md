@@ -77,6 +77,7 @@ extract saptio-temporal features to represent the video using the CNNs."
 **Convolutional Two-Stream Network Fusion for Video Action Recognition**
 
 - arxiv: [http://arxiv.org/abs/1604.06573](http://arxiv.org/abs/1604.06573)
+- github: [https://github.com/feichtenhofer/twostreamfusion](https://github.com/feichtenhofer/twostreamfusion)
 
 **Deep, Convolutional, and Recurrent Models for Human Activity Recognition using Wearables**
 
@@ -89,10 +90,6 @@ extract saptio-temporal features to represent the video using the CNNs."
 **Anticipating Visual Representations from Unlabeled Video**
 
 - paper: [http://web.mit.edu/vondrick/prediction.pdf](http://web.mit.edu/vondrick/prediction.pdf)
-
-**Deep, Convolutional, and Recurrent Models for Human Activity Recognition using Wearables**
-
-- arxiv: [http://arxiv.org/abs/1604.08880](http://arxiv.org/abs/1604.08880)
 
 **VideoLSTM Convolves, Attends and Flows for Action Recognition**
 

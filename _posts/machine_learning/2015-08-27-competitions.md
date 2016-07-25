@@ -73,3 +73,9 @@ date: 2015-08-27
 
 - blog: [http://felixlaumon.github.io/2015/01/08/kaggle-right-whale.html](http://felixlaumon.github.io/2015/01/08/kaggle-right-whale.html)
 - github: [https://github.com/felixlaumon/kaggle-right-whale](https://github.com/felixlaumon/kaggle-right-whale)
+
+**Kaggle Ensembling Guide**
+
+- blog: [http://mlwave.com/kaggle-ensembling-guide/](http://mlwave.com/kaggle-ensembling-guide/)
+- mirror: [http://pan.baidu.com/s/1jGGgvEQ](http://pan.baidu.com/s/1jGGgvEQ)
+- github: [https://github.com/MLWave/Kaggle-Ensemble-Guide](https://github.com/MLWave/Kaggle-Ensemble-Guide)

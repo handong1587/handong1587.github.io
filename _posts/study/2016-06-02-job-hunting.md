@@ -114,6 +114,13 @@ There are no right answers but it helps to understand their thoughts and researc
 
 [http://www.businessinsider.com/elons-musk-resume-all-on-one-page-2016-4?utm_source=tuicool&utm_medium=referral](http://www.businessinsider.com/elons-musk-resume-all-on-one-page-2016-4?utm_source=tuicool&utm_medium=referral)
 
+**An elegant \LaTeX\ résumé template**
+
+![](https://camo.githubusercontent.com/49acefc685c74053315818a494b8ca2e15745386/687474703a2f2f37786f6a72782e636f6d312e7a302e676c622e636c6f7564646e2e636f6d2f646f63732f726573756d652e706e67)
+
+- github: [https://github.com/billryan/resume](https://github.com/billryan/resume)
+- github(中文): [https://github.com/billryan/resume/tree/zh_CN](https://github.com/billryan/resume/tree/zh_CN)
+
 # Resources
 
 **Awesome Interviews: A curated awesome list of lists of interview questions**

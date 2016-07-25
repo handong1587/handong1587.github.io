@@ -100,6 +100,13 @@ date: 2015-10-09
 
 - blog: [http://machinelearningmastery.com/deep-learning-courses/](http://machinelearningmastery.com/deep-learning-courses/)
 
+**Creative Applications of Deep Learning w/ Tensorflow**
+
+![](https://raw.githubusercontent.com/pkmital/CADL/master/imgs/cadl-coursecard.png)
+
+- homepage: [https://www.kadenze.com/courses/creative-applications-of-deep-learning-with-tensorflow-i/info](https://www.kadenze.com/courses/creative-applications-of-deep-learning-with-tensorflow-i/info)
+- github(ourse materials/Homework materials): [https://github.com/pkmital/CADL](https://github.com/pkmital/CADL)
+
 # Computer Vision
 
 **Stanford CS231n: Convolutional Neural Networks for Visual Recognition**

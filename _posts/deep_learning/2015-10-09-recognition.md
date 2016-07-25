@@ -113,11 +113,23 @@ date: 2015-10-09
 - arxiv: [http://arxiv.org/abs/1511.05520](http://arxiv.org/abs/1511.05520)
 - github: [https://github.com/glennq/instrument-recognition](https://github.com/glennq/instrument-recognition)
 
+### Clothes Recognition
+
+#### DeepFashion
+
+**DeepFashion: Powering Robust Clothes Recognition and Retrieval with Rich Annotations**
+
+![](http://personal.ie.cuhk.edu.hk/~lz013/projects/deepfashion/intro.png)
+
+- project page: [http://personal.ie.cuhk.edu.hk/~lz013/projects/DeepFashion.html](http://personal.ie.cuhk.edu.hk/~lz013/projects/DeepFashion.html)
+- paper: [http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Liu_DeepFashion_Powering_Robust_CVPR_2016_paper.pdf](http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Liu_DeepFashion_Powering_Robust_CVPR_2016_paper.pdf)
+
 # Scene Recognition
 
 **Learning Deep Features for Scene Recognition using Places Database**
 
 - paper: [http://places.csail.mit.edu/places_NIPS14.pdf](http://places.csail.mit.edu/places_NIPS14.pdf)
+- gihtub: [https://github.com/metalbubble/places365](https://github.com/metalbubble/places365)
 
 **Using neon for Scene Recognition: Mini-Places2**
 

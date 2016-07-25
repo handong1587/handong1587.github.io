@@ -145,6 +145,17 @@ date: 2015-10-09
 
 - blog: [https://kratzert.github.io/2016/02/12/understanding-the-gradient-flow-through-the-batch-normalization-layer.html](https://kratzert.github.io/2016/02/12/understanding-the-gradient-flow-through-the-batch-normalization-layer.html)
 
+## Layer Normalization
+
+**Layer Normalization**
+
+- arxiv: [https://arxiv.org/abs/1607.06450](https://arxiv.org/abs/1607.06450)
+- github: [https://github.com/ryankiros/layer-norm](https://github.com/ryankiros/layer-norm)
+
+**Keras GRU with Layer Normalization**
+
+- gist: [https://gist.github.com/udibr/7f46e790c9e342d75dcbd9b1deb9d940](https://gist.github.com/udibr/7f46e790c9e342d75dcbd9b1deb9d940)
+
 # Loss Function
 
 **The Loss Surfaces of Multilayer Networks**
