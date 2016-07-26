@@ -315,6 +315,13 @@ MSCOCO 2015 test:
 
 - arxiv: [http://arxiv.org/abs/1607.05066](http://arxiv.org/abs/1607.05066)
 
+## MS-CNN
+
+**A Unified Multi-scale Deep Convolutional Neural Network for Fast Object Detection**
+
+- intro: 640×480: 15 fps, 960×720: 8 fps
+- arxiv: [http://arxiv.org/abs/1607.07155](http://arxiv.org/abs/1607.07155)
+
 # Specific Object Deteciton
 
 ## People Detection
@@ -362,6 +369,10 @@ MSCOCO 2015 test:
 **A Real-Time Pedestrian Detector using Deep Learning for Human-Aware Navigation**
 
 - arxiv: [http://arxiv.org/abs/1607.04441](http://arxiv.org/abs/1607.04441)
+
+**Is Faster R-CNN Doing Well for Pedestrian Detection?**
+
+- arxiv: [http://arxiv.org/abs/1607.07032](http://arxiv.org/abs/1607.07032)
 
 ## Vehicle Detection
 

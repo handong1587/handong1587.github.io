@@ -81,6 +81,12 @@ after the embedding and recurrent layers of the RNN."
 - github: [https://github.com/jazzsaxmafia/show_attend_and_tell.tensorflow](https://github.com/jazzsaxmafia/show_attend_and_tell.tensorflow)
 - demo: [http://www.cs.toronto.edu/~rkiros/abstract_captions.html](http://www.cs.toronto.edu/~rkiros/abstract_captions.html)
 
+**Automatically describing historic photographs**
+
+- website: [https://staff.fnwi.uva.nl/d.elliott/loc/](https://staff.fnwi.uva.nl/d.elliott/loc/)
+
+- - -
+
 **Describing Videos by Exploiting Temporal Structure**
 
 - arxiv: [http://arxiv.org/abs/1502.08029](http://arxiv.org/abs/1502.08029)

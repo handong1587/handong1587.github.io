@@ -845,6 +845,10 @@ Image Caption Generation, Automatic Game Playing
 - paper: [https://www.vision.ee.ethz.ch/en/publications/papers/proceedings/eth_biwi_01229.pdf](https://www.vision.ee.ethz.ch/en/publications/papers/proceedings/eth_biwi_01229.pdf)
 - homepage: [https://data.vision.ee.ethz.ch/cvl/rrothe/imdb-wiki/](https://data.vision.ee.ethz.ch/cvl/rrothe/imdb-wiki/)
 
+**Peak-Piloted Deep Network for Facial Expression Recognition**
+
+- arxiv: [http://arxiv.org/abs/1607.06997](http://arxiv.org/abs/1607.06997)
+
 ## Attribution Prediction
 
 **PANDA: Pose Aligned Networks for Deep Attribute Modeling (Facebook. CVPR 2014)**
@@ -1042,6 +1046,10 @@ Bicubic VS. Shepard CNN
 **Deep Depth Super-Resolution : Learning Depth Super-Resolution using Deep Convolutional Neural Network**
 
 - arxiv: [http://arxiv.org/abs/1607.01977](http://arxiv.org/abs/1607.01977)
+
+**Local- and Holistic- Structure Preserving Image Super Resolution via Deep Joint Component Learning**
+
+- arxiv: [http://arxiv.org/abs/1607.07220](http://arxiv.org/abs/1607.07220)
 
 ## Image Haze Removal
 
@@ -1261,6 +1269,9 @@ This task involves predicting the salient regions of an image given by human eye
 
 - project: [http://people.cs.uchicago.edu/~larsson/fractalnet/](http://people.cs.uchicago.edu/~larsson/fractalnet/)
 - arxiv: [http://arxiv.org/abs/1605.07648](http://arxiv.org/abs/1605.07648)
+- github: [https://github.com/gustavla/fractalnet](https://github.com/gustavla/fractalnet)
+- github: [https://github.com/edgelord/FractalNet](https://github.com/edgelord/FractalNet)
+- github(keras): [https://github.com/snf/keras-fractalnet](https://github.com/snf/keras-fractalnet)
 
 **Newtonian Image Understanding: Unfolding the Dynamics of Objects in Static Images**
 
@@ -1421,6 +1432,10 @@ We also include one pre-trained model using a custom convolutional network."
 - intro: the fast and easy header only c++ convolutional neural network package
 - github: [https://github.com/gnawice/mojo-cnn](https://github.com/gnawice/mojo-cnn)
 
+**DeepHeart: Neural networks for monitoring cardiac data**
+
+- github: [https://github.com/jisaacso/DeepHeart](https://github.com/jisaacso/DeepHeart)
+
 # Readings and Questions
 
 **What you wanted to know about AI**
@@ -1535,6 +1550,12 @@ We also include one pre-trained model using a custom convolutional network."
 
 - intro: This package provides an easy and modular way to build and train simple or complex neural networks using Torch
 - github: [https://github.com/torch/nn](https://github.com/torch/nn)
+
+**deepdish: Deep learning and data science tools from the University of Chicago**
+**deepdish: Serving Up Chicago-Style Deep Learning**
+
+- homepage: [http://deepdish.io/](http://deepdish.io/)
+- github: [https://github.com/uchicago-cs/deepdish](https://github.com/uchicago-cs/deepdish)
 
 # Books
 

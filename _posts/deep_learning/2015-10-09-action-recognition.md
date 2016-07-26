@@ -99,6 +99,10 @@ extract saptio-temporal features to represent the video using the CNNs."
 
 - arxiv: [http://arxiv.org/abs/1607.06416](http://arxiv.org/abs/1607.06416)
 
+**Spatio-Temporal LSTM with Trust Gates for 3D Human Action Recognition**
+
+- arxiv: [http://arxiv.org/abs/1607.07043](http://arxiv.org/abs/1607.07043)
+
 # Projects
 
 **CUHK & ETH & SIAT Solution to ActivityNet Challenge 2016**

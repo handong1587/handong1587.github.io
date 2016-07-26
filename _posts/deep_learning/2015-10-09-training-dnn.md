@@ -78,6 +78,12 @@ date: 2015-10-09
 
 - quora: [https://www.quora.com/What-is-the-role-of-the-activation-function-in-a-neural-network](https://www.quora.com/What-is-the-role-of-the-activation-function-in-a-neural-network)
 
+## Concatenated ReLU (CRelu)
+
+**Understanding and Improving Convolutional Neural Networks via Concatenated Rectified Linear Units**
+
+- arxiv: [http://arxiv.org/abs/1603.05201](http://arxiv.org/abs/1603.05201)
+
 ## GELU
 
 **Bridging Nonlinearities and Stochastic Regularizers with Gaussian Error Linear Units**

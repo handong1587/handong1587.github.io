@@ -193,6 +193,10 @@ date: 2015-10-09
 
 - blog: [https://adeshpande3.github.io/adeshpande3.github.io/A-Beginner's-Guide-To-Understanding-Convolutional-Neural-Networks/](https://adeshpande3.github.io/adeshpande3.github.io/A-Beginner's-Guide-To-Understanding-Convolutional-Neural-Networks/)
 
+**Introduction to Deep Learning for Image Processing**
+
+- slides: [https://speakerdeck.com/bargava/introduction-to-deep-learning-for-image-processing](https://speakerdeck.com/bargava/introduction-to-deep-learning-for-image-processing)
+
 ## Convolution
 
 ![](/assets/cnn-materials/conv.jpg)
