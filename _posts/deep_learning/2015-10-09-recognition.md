@@ -139,6 +139,10 @@ date: 2015-10-09
 - blog: [http://www.nervanasys.com/using-neon-for-scene-recognition-mini-places2/](http://www.nervanasys.com/using-neon-for-scene-recognition-mini-places2/)
 - github: [https://github.com/hunterlang/mpmz](https://github.com/hunterlang/mpmz)
 
+**Semantic Clustering for Robust Fine-Grained Scene Recognition**
+
+- arxix: [http://arxiv.org/abs/1607.07614](http://arxiv.org/abs/1607.07614)
+
 # Blogs
 
 **What is the class of this image ? - Discover the current state of the art in objects classification**

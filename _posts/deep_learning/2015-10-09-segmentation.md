@@ -293,6 +293,10 @@ not very deep with only three convolution layers."
 - arxiv: [http://arxiv.org/abs/1603.08575](http://arxiv.org/abs/1603.08575)
 - notes: [http://www.shortscience.org/paper?bibtexKey=journals/corr/EslamiHWTKH16](http://www.shortscience.org/paper?bibtexKey=journals/corr/EslamiHWTKH16)
 
+**"Semantic Segmentation for Scene Understanding: Algorithms and Implementations" tutorial (2016 Embedded Vision Summit)**
+
+- youtube: [https://www.youtube.com/watch?v=pQ318oCGJGY](https://www.youtube.com/watch?v=pQ318oCGJGY)
+
 ## Benchmarks
 
 **Semantic Understanding of Urban Street Scenes: Benchmark Suite**

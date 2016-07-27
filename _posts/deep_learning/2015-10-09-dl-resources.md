@@ -801,6 +801,13 @@ Image Caption Generation, Automatic Game Playing
 
 - arxiv: [http://arxiv.org/abs/1607.05046](http://arxiv.org/abs/1607.05046)
 
+**DeepWarp: Photorealistic Image Resynthesis for Gaze Manipulation**
+
+![](http://yaroslav.ganin.net/static/deepwarp/images/pipeline.svg)
+
+- project page: [http://yaroslav.ganin.net/static/deepwarp/](http://yaroslav.ganin.net/static/deepwarp/)
+- arxiv: [http://arxiv.org/abs/1607.07215](http://arxiv.org/abs/1607.07215)
+
 ## Age Estimation
 
 **Deeply-Learned Feature for Age Estimation**
@@ -1396,6 +1403,17 @@ We also include one pre-trained model using a custom convolutional network."
 **DeepHeart: Neural networks for monitoring cardiac data**
 
 - github: [https://github.com/jisaacso/DeepHeart](https://github.com/jisaacso/DeepHeart)
+
+**Deep Water: Deep Learning in H2O using Native GPU Backends**
+
+![](https://raw.githubusercontent.com/h2oai/deepwater/master/architecture/overview.png)
+
+- intro: Native implementation of Deep Learning models for GPU backends (mxnet, Caffe, TensorFlow, etc.)
+- github: [https://github.com/h2oai/deepwater](https://github.com/h2oai/deepwater)
+
+**Greentea LibDNN: Greentea LibDNN - a universal convolution implementation supporting CUDA and OpenCL**
+
+- github: [https://github.com/naibaf7/libdnn](https://github.com/naibaf7/libdnn)
 
 # Readings and Questions
 

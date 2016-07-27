@@ -563,6 +563,16 @@ The size of their dataset is, however, limited by the availability of domain-spe
 - website: [http://facedetection.jaysalvat.com/](http://facedetection.jaysalvat.com/)
 - github: [https://github.com/jaysalvat/jquery.facedetection](https://github.com/jaysalvat/jquery.facedetection)
 
+# VR
+
+**Surround360 System: Facebook's open source hardware and software for capturing stereoscopic 3D 360 video for VR**
+
+![](https://s2.wp.com/wp-content/themes/vip/fbspherical/images/static/surround-360-inside.png)
+
+- homepage: [https://facebook360.fb.com/facebook-surround-360/](https://facebook360.fb.com/facebook-surround-360/)
+- code: [https://code.facebook.com/posts/265413023819735/surround-360-is-now-open-source/](https://code.facebook.com/posts/265413023819735/surround-360-is-now-open-source/)
+- github: [https://github.com/facebook/Surround360](https://github.com/facebook/Surround360)
+
 # SLAM
 
 **Why SLAM Matters, The Future of Real-Time SLAM, and Deep Learning vs SLAM**
@@ -585,6 +595,10 @@ The size of their dataset is, however, limited by the availability of domain-spe
 **Awesome SLAM**
 
 - github: [https://github.com/kanster/awesome-slam](https://github.com/kanster/awesome-slam)
+
+**ORB-SLAM2: Real-Time SLAM for Monocular, Stereo and RGB-D Cameras, with Loop Detection and Relocalization Capabilities**
+
+- github: [https://github.com/raulmur/ORB_SLAM2](https://github.com/raulmur/ORB_SLAM2)
 
 # OCR
 

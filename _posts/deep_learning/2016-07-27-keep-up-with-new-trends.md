@@ -2,8 +2,12 @@
 layout: post
 category: deep_learning
 title: Keep Up With New Trends
-date: 2016-07-20
+date: 2016-07-27
 ---
+
+**ICML 2016 was awesome**
+
+- blog: [http://hunch.net/?p=4710099](http://hunch.net/?p=4710099)
 
 **ICML 2016 tutorials**
 

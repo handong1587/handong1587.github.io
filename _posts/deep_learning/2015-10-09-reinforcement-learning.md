@@ -430,6 +430,7 @@ The project is dedicated to hero in life great Jesse Livermore.
 
 - part 1: [https://medium.com/@awjuliani/super-simple-reinforcement-learning-tutorial-part-1-fd544fab149](https://medium.com/@awjuliani/super-simple-reinforcement-learning-tutorial-part-1-fd544fab149)
 - part 2: [https://medium.com/@awjuliani/super-simple-reinforcement-learning-tutorial-part-2-ded33892c724#.dyhxww1u6](https://medium.com/@awjuliani/super-simple-reinforcement-learning-tutorial-part-2-ded33892c724#.dyhxww1u6)
+- part 3: [https://medium.com/@awjuliani/simple-reinforcement-learning-with-tensorflow-part-3-model-based-rl-9a6fe0cce99#.r4c7i7tjq](https://medium.com/@awjuliani/simple-reinforcement-learning-with-tensorflow-part-3-model-based-rl-9a6fe0cce99#.r4c7i7tjq)
 - gist: [https://gist.github.com/awjuliani/16608e1c4968baaa692b9b8c7dd94d04](https://gist.github.com/awjuliani/16608e1c4968baaa692b9b8c7dd94d04)
 
 **Reinforcement Learning in Python**
