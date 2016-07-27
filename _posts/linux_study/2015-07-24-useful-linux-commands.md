@@ -9,19 +9,23 @@ date: 2015-07-24
 
 Count lines in a document
 
-<pre class="terminal"><code>$ wc -l /dir/file.txt</code></pre>
+```
+$ wc -l /dir/file.txt
+```
 
-<pre class="terminal"><code>$ cat /dir/file.txt | wc -l</code></pre>
+```
+$ cat /dir/file.txt | wc -l
+```
 
 Filter and count only lines with pattern, or with -v to invert match
 
-{% highlight bash %}
+```
 $ grep -w "pattern" -c file
-{% endhighlight %}
+```
 
-{% highlight bash %}
+```
 $ grep -w "pattern" -c -v file
-{% endhighlight %} 
+``` 
 
 Count files in the current directory:
 
