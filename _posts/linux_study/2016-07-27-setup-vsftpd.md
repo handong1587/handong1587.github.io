@@ -16,7 +16,7 @@ sudo apt-get install vsftpd
 Check if vsftpd installed successfully:
 
 ```
-sudo service status vsftpd
+sudo service vsftpd status
 ```
 
 Add `/home/uftp` as user home directory:
@@ -66,7 +66,19 @@ This file recording usernames which are forbidden to access FTP server.
 Restart vsftpd:
 
 ```
-sudo systemctl restart vsftpd
+sudo service vsftpd restart
+```
+
+# Close FTP server
+
+```
+sudo service vsftpd stop
+```
+
+# Visit FTP server (By default, the anonymous user is disabled)
+
+```
+ftp://user:pass@hostname/
 ```
 
 # Forbid user access top level directory:
@@ -90,3 +102,25 @@ Restart vsftpd:
 ```
 sudo service vsftpd restart
 ```
+
+# Does not allow the user to change the specified chroot_list_file root
+
+```
+chroot_local_user=NO
+chroot_list_enable=YES
+chroot_list_file=/etc/vsftpd.chroot_list
+```
+
+# Allows only specified users to change chroot_list_file root
+
+```
+chroot_local_user=YES
+chroot_list_enable=YES
+chroot_list_file=/etc/vsftpd.chroot_list
+```
+
+# Refs
+
+**How to Install and Configure vsftpd on Ubuntu 14.04 LTS**
+
+[http://www.liquidweb.com/kb/how-to-install-and-configure-vsftpd-on-ubuntu-14-04-lts/](http://www.liquidweb.com/kb/how-to-install-and-configure-vsftpd-on-ubuntu-14-04-lts/)
