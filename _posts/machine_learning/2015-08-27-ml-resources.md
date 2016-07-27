@@ -484,6 +484,11 @@ Other awesome lists can be found in this [list](https://github.com/sindresorhus/
 
 - github(Notebooks and code): [https://github.com/amueller/introduction_to_ml_with_python](https://github.com/amueller/introduction_to_ml_with_python)
 
+**Introduction to Machine Learning (Second Edition)**
+
+- author: Ethem Alpaydin
+- book: [https://static.aminer.org/upload/pdf/1821/326/1262/53e99a91b7602d9702304e89.pdf](https://static.aminer.org/upload/pdf/1821/326/1262/53e99a91b7602d9702304e89.pdf)
+
 # Videos
 
 **Video resources for machine learning**
