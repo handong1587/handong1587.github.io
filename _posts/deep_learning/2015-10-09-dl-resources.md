@@ -1051,6 +1051,10 @@ Bicubic VS. Shepard CNN
 
 - arxiv: [http://arxiv.org/abs/1607.07220](http://arxiv.org/abs/1607.07220)
 
+**End-to-End Image Super-Resolution via Deep and Shallow Convolutional Networks**
+
+- arxiv: [http://arxiv.org/abs/1607.07680](http://arxiv.org/abs/1607.07680)
+
 ## Image Haze Removal
 
 **DehazeNet: An End-to-End System for Single Image Haze Removal**
@@ -1070,49 +1074,6 @@ Bicubic VS. Shepard CNN
 **End-to-End Learning for Image Burst Deblurring**
 
 - arxiv: [http://arxiv.org/abs/1607.04433](http://arxiv.org/abs/1607.04433)
-
-## Saliency Prediction
-
-This task involves predicting the salient regions of an image given by human eye fixations.
-
-**Large-scale optimization of hierarchical features for saliency prediction in natural images**
-
-- paper: [http://coxlab.org/pdfs/cvpr2014_vig_saliency.pdf](http://coxlab.org/pdfs/cvpr2014_vig_saliency.pdf)
-
-**Predicting Eye Fixations using Convolutional Neural Networks**
-
-- paper: [http://www.escience.cn/system/file?fileId=72648](http://www.escience.cn/system/file?fileId=72648)
-
-**DeepFix: A Fully Convolutional Neural Network for predicting Human Eye Fixations**
-
-- arxiv: [http://arxiv.org/abs/1510.02927](http://arxiv.org/abs/1510.02927)
-
-**DeepSaliency: Multi-Task Deep Neural Network Model for Salient Object Detection**
-
-- arxiv: [http://arxiv.org/abs/1510.05484](http://arxiv.org/abs/1510.05484)
-
-**SuperCNN: A Superpixelwise Convolutional Neural Network for Salient Object Detection**
-
-![](http://www.shengfenghe.com/uploads/1/5/1/3/15132160/445461979.png)
-
-- paper: [www.shengfenghe.com/supercnn-a-superpixelwise-convolutional-neural-network-for-salient-object-detection.html](www.shengfenghe.com/supercnn-a-superpixelwise-convolutional-neural-network-for-salient-object-detection.html)
-
-**Shallow and Deep Convolutional Networks for Saliency Prediction**
-
-- arxiv: [http://arxiv.org/abs/1603.00845](http://arxiv.org/abs/1603.00845)
-- github: [https://github.com/imatge-upc/saliency-2016-cvpr](https://github.com/imatge-upc/saliency-2016-cvpr)
-
-**Two-Stream Convolutional Networks for Dynamic Saliency Prediction**
-
-- arxiv: [http://arxiv.org/abs/1607.04730](http://arxiv.org/abs/1607.04730)
-
-**Unconstrained Salient Object Detection (CVPR 2016)**
-
-![](http://cs-people.bu.edu/jmzhang/images/pasted%20image%201465x373.jpg)
-
-- project page: [http://cs-people.bu.edu/jmzhang/sod.html](http://cs-people.bu.edu/jmzhang/sod.html)
-- paper: [http://cs-people.bu.edu/jmzhang/SOD/CVPR16SOD_camera_ready.pdf](http://cs-people.bu.edu/jmzhang/SOD/CVPR16SOD_camera_ready.pdf)
-- github: [https://github.com/jimmie33/SOD](https://github.com/jimmie33/SOD)
 
 ## Video Classification
 

@@ -259,6 +259,10 @@ fine-tune the trained network with more challenging examples later
 
 - arxiv: [http://arxiv.org/abs/1606.07230](http://arxiv.org/abs/1606.07230)
 
+**Region-based semantic segmentation with end-to-end training (ECCV 2016 camera-ready)**
+
+- arxiv: [http://arxiv.org/abs/1607.07671](http://arxiv.org/abs/1607.07671)
+
 # Scene Labeling/Parsing
 
 **Indoor Semantic Segmentation using depth information**
