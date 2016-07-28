@@ -5,9 +5,17 @@ title: Keep Up With New Trends
 date: 2016-07-27
 ---
 
+**10 Papers from ICML and CVPR**
+
+[https://leotam.github.io/general/2016/07/12/ICMLcVPR.html](https://leotam.github.io/general/2016/07/12/ICMLcVPR.html)
+
 **ICML 2016 was awesome**
 
 - blog: [http://hunch.net/?p=4710099](http://hunch.net/?p=4710099)
+
+**Highlights from ICML 2016**
+
+[http://www.lunametrics.com/blog/2016/07/05/highlights-icml-2016/](http://www.lunametrics.com/blog/2016/07/05/highlights-icml-2016/)
 
 **ICML 2016 tutorials**
 

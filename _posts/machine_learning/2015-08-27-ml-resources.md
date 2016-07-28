@@ -210,16 +210,20 @@ Other awesome lists can be found in this [list](https://github.com/sindresorhus/
 
 - slides: [http://learning.mpi-sws.org/mlss2016/slides/gp_mlss16.pdf](http://learning.mpi-sws.org/mlss2016/slides/gp_mlss16.pdf)
 
-# Multilabel Learning
+# Multi-label Learning
 
 **Neural Network Models for Multilabel Learning**
 
 - paper: [http://pan.baidu.com/s/1bnFdYFX](http://pan.baidu.com/s/1bnFdYFX)
-- code: [https://github.com/abhishek-kumar/NNForMLL](https://github.com/abhishek-kumar/NNForMLL)
+- github: [https://github.com/abhishek-kumar/NNForMLL](https://github.com/abhishek-kumar/NNForMLL)
 
-**An Empirical Evaluation of Supervised Learning in High Dimensions**
+**Conditional Bernoulli Mixtures for Multi-label Classification**
 
-- paper: [http://lowrank.net/nikos/pubs/empirical.pdf](http://lowrank.net/nikos/pubs/empirical.pdf)
+- homepage: [http://www.chengli.io/publications/li2016conditional.html](http://www.chengli.io/publications/li2016conditional.html)
+- paper: [http://www.chengli.io/publications/li2016conditional.pdf](http://www.chengli.io/publications/li2016conditional.pdf)
+- slides: [http://www.chengli.io/publications/li2016conditional_slides.pdf](http://www.chengli.io/publications/li2016conditional_slides.pdf)
+- github: [https://github.com/cheng-li/pyramid](https://github.com/cheng-li/pyramid)
+- wiki: [https://github.com/cheng-li/pyramid/wiki/CBM](https://github.com/cheng-li/pyramid/wiki/CBM)
 
 # Multi-Task Learning
 
@@ -371,6 +375,10 @@ Other awesome lists can be found in this [list](https://github.com/sindresorhus/
 - blog: [http://elliot.land/how-to-write-your-own-recommendation-system-part-2](http://elliot.land/how-to-write-your-own-recommendation-system-part-2)
 
 # Papers
+
+**An Empirical Evaluation of Supervised Learning in High Dimensions**
+
+- paper: [http://lowrank.net/nikos/pubs/empirical.pdf](http://lowrank.net/nikos/pubs/empirical.pdf)
 
 **An embarrassingly simple approach to zero-shot learning**
 
