@@ -5,7 +5,7 @@ title: Setup vsftpd on Ubuntu 14.10
 date: 2016-07-27
 ---
 
-# Setup vsftpd:
+# Setup vsftpd
 
 Install vsftpd:
 
@@ -75,13 +75,15 @@ sudo service vsftpd restart
 sudo service vsftpd stop
 ```
 
-# Visit FTP server (By default, the anonymous user is disabled)
+# Visit FTP server 
+
+(By default, the anonymous user is disabled)
 
 ```
-ftp://user:pass@hostname/
+ftp://user:password@hostname/
 ```
 
-# Forbid user access top level directory:
+# Forbid user access top level directory
 
 Create file `vsftpd.chroot_list` but don't add anything:
 
@@ -95,6 +97,13 @@ Modify configurations as following:
 chroot_local_user=YES
 chroot_list_enable=NO
 chroot_list_file=/etc/vsftpd.chroot_list
+```
+
+If want to have write permission to user home directory (otherwise you would meet this error when login: 
+"500 OOPS: vsftpd: refusing to run with writable root inside chroot ()"):
+
+```
+allow_writeable_chroot=YES
 ```
 
 Restart vsftpd:
@@ -119,8 +128,22 @@ chroot_list_enable=YES
 chroot_list_file=/etc/vsftpd.chroot_list
 ```
 
+# Frequently used command
+
+`mkdir`
+
+`dir` or `ls`
+
+`put`
+
+`get`
+
 # Refs
 
 **How to Install and Configure vsftpd on Ubuntu 14.04 LTS**
 
 [http://www.liquidweb.com/kb/how-to-install-and-configure-vsftpd-on-ubuntu-14-04-lts/](http://www.liquidweb.com/kb/how-to-install-and-configure-vsftpd-on-ubuntu-14-04-lts/)
+
+**vsftpd 配置:chroot_local_user与chroot_list_enable详解**
+
+[http://blog.csdn.net/bluishglc/article/details/42398811](http://blog.csdn.net/bluishglc/article/details/42398811)

@@ -99,6 +99,10 @@ Other awesome lists can be found in this [list](https://github.com/sindresorhus/
 
 - blog: [http://rcarneva.github.io/understanding-gradient-boosting-part-1.html](http://rcarneva.github.io/understanding-gradient-boosting-part-1.html)
 
+**Gradient Boosting explained [demonstration]**
+
+- blog: [https://arogozhnikov.github.io/2016/06/24/gradient_boosting_explained.html]()https://arogozhnikov.github.io/2016/06/24/gradient_boosting_explained.html
+
 # Bootstrap
 
 **Coding, Visualizing, and Animating Bootstrap Resampling**
@@ -351,6 +355,10 @@ Other awesome lists can be found in this [list](https://github.com/sindresorhus/
 
 - paper: [http://www.cs.toronto.edu/~darius/papers/SedhainEtAl-AAAI2016.pdf](http://www.cs.toronto.edu/~darius/papers/SedhainEtAl-AAAI2016.pdf)
 - github: [https://github.com/mesuvash/LRec](https://github.com/mesuvash/LRec)
+
+**An Adaptive Matrix Factorization Approach for Personalized Recommender Systems**
+
+- arxiv: [http://arxiv.org/abs/1607.07607](http://arxiv.org/abs/1607.07607)
 
 ## How to Write Your Own Recommendation System
 

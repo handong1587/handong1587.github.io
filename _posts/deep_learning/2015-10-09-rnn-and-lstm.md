@@ -461,6 +461,10 @@ date: 2015-10-09
 
 [http://machinelearningmastery.com/crash-course-recurrent-neural-networks-deep-learning/](http://machinelearningmastery.com/crash-course-recurrent-neural-networks-deep-learning/)
 
+**Understanding Stateful LSTM Recurrent Neural Networks in Python with Keras**
+
+[http://machinelearningmastery.com/understanding-stateful-lstm-recurrent-neural-networks-python-keras/](http://machinelearningmastery.com/understanding-stateful-lstm-recurrent-neural-networks-python-keras/)
+
 ## Optimizing RNN (Baidu Silicon Valley AI Lab)
 
 **Optimizing RNN performance**

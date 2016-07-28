@@ -696,3 +696,8 @@ for building Deep Learning (DL) machine learning (ML) models
 
 - keywords: Leaf / tiny-cnn / Layered / Brain / neon
 - blog: [http://www.kdnuggets.com/2016/07/five-deep-learning-projects-cant-overlook.html](http://www.kdnuggets.com/2016/07/five-deep-learning-projects-cant-overlook.html)
+
+**Comparison of Deep Learning Libraries After Years of Use**
+
+- intro: Torch / MxNet / Theano / Caffe
+- blog:[http://www.erogol.com/comparison-deep-learning-libraries-years-use/](http://www.erogol.com/comparison-deep-learning-libraries-years-use/)

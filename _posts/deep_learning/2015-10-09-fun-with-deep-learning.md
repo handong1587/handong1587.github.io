@@ -427,6 +427,11 @@ Compressed model is less than 500KB
 - blog: [https://www.lunaverus.com/cnn](https://www.lunaverus.com/cnn)
 - download: [https://www.lunaverus.com/download](https://www.lunaverus.com/download)
 
+**Long Short-Term Memory Recurrent Neural Network Architectures for Generating Music and Japanese Lyrics**
+
+- paper: [http://cslab1.bc.edu/~csacademics/pdf/16Mikami.pdf](http://cslab1.bc.edu/~csacademics/pdf/16Mikami.pdf)
+- github: [https://github.com/mikamia](https://github.com/mikamia)
+
 # Poetry
 
 **NeuralSnap: Generates poetry from images using convolutional and recurrent neural networks**

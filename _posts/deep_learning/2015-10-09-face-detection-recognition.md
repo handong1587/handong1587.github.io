@@ -82,6 +82,10 @@ date: 2015-10-09
 
 - paper: [www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Masi_Pose-Aware_Face_Recognition_CVPR_2016_paper.pdf](www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Masi_Pose-Aware_Face_Recognition_CVPR_2016_paper.pdf)
 
+**Supervised Transformer Network for Efficient Face Detection**
+
+- arxiv: [http://arxiv.org/abs/1607.05477](http://arxiv.org/abs/1607.05477)
+
 **Recurrent Regression for Face Recognition**
 
 - arxiv: [http://arxiv.org/abs/1607.06999](http://arxiv.org/abs/1607.06999)

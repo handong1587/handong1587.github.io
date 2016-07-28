@@ -771,14 +771,22 @@ with fast exact probabilistic inference over many layers."
 - key word: copyright infringement cases, ownership attribution
 - arxiv: [http://arxiv.org/abs/1603.01068](http://arxiv.org/abs/1603.01068)
 
+## Video2GIF
+
 **Video2GIF: Automatic Generation of Animated GIFs from Video (Robust Deep RankNet)**
 
 - intro: 3D CNN, ranking model, Huber loss, 100K GIFs/video sources dataset
 - arxiv: [http://arxiv.org/abs/1605.04850](http://arxiv.org/abs/1605.04850)
 - github(dataset): [https://github.com/gyglim/video2gif_dataset](https://github.com/gyglim/video2gif_dataset)
 - results: [http://video2gif.info/](http://video2gif.info/)
-- demo: [http://people.ee.ethz.ch/~gyglim/work_public/autogif/](http://people.ee.ethz.ch/~gyglim/work_public/autogif/)
+- demo site: [http://people.ee.ethz.ch/~gyglim/work_public/autogif/](http://people.ee.ethz.ch/~gyglim/work_public/autogif/)
 - review: [http://motherboard.vice.com/read/these-fire-gifs-were-made-by-artificial-intelligence-yahoo](http://motherboard.vice.com/read/these-fire-gifs-were-made-by-artificial-intelligence-yahoo)
+
+**Creating Animated GIFs Automatically from Video**
+
+[https://yahooresearch.tumblr.com/post/148009705216/creating-animated-gifs-automatically-from-video](https://yahooresearch.tumblr.com/post/148009705216/creating-animated-gifs-automatically-from-video)
+
+- - -
 
 **An Analysis of Deep Neural Network Models for Practical Applications**
 
@@ -980,6 +988,10 @@ Image Caption Generation, Automatic Game Playing
 **Explaining Deep Convolutional Neural Networks on Music Classification**
 
 - arxiv: [http://arxiv.org/abs/1607.02444](http://arxiv.org/abs/1607.02444)
+- blog: [https://keunwoochoi.wordpress.com/2015/12/09/ismir-2015-lbd-auralisation-of-deep-convolutional-neural-networks-listening-to-learned-features-auralization/](https://keunwoochoi.wordpress.com/2015/12/09/ismir-2015-lbd-auralisation-of-deep-convolutional-neural-networks-listening-to-learned-features-auralization/)
+- blog: [https://keunwoochoi.wordpress.com/2016/03/23/what-cnns-see-when-cnns-see-spectrograms/](https://keunwoochoi.wordpress.com/2016/03/23/what-cnns-see-when-cnns-see-spectrograms/)
+- github: [https://github.com/keunwoochoi/Auralisation](https://github.com/keunwoochoi/Auralisation)
+- audio samples: [https://soundcloud.com/kchoi-research](https://soundcloud.com/kchoi-research)
 
 ## NSFW Detection / Classification 
 
@@ -1414,6 +1426,15 @@ We also include one pre-trained model using a custom convolutional network."
 **Greentea LibDNN: Greentea LibDNN - a universal convolution implementation supporting CUDA and OpenCL**
 
 - github: [https://github.com/naibaf7/libdnn](https://github.com/naibaf7/libdnn)
+
+**Dracula: A spookily good Part of Speech Tagger optimized for Twitter**
+
+- intro: A deep, LSTM-based part of speech tagger and sentiment analyser using character embeddings instead of words. 
+Compatible with Theano and TensorFlow. Optimized for Twitter.
+- homepage: [http://dracula.sentimentron.co.uk/](http://dracula.sentimentron.co.uk/)
+- speech tagging demo: [http://dracula.sentimentron.co.uk/pos-demo/](http://dracula.sentimentron.co.uk/pos-demo/)
+- sentiment demo: [http://dracula.sentimentron.co.uk/sentiment-demo/](http://dracula.sentimentron.co.uk/sentiment-demo/)
+- github: [https://github.com/Sentimentron/Dracula](https://github.com/Sentimentron/Dracula)
 
 # Readings and Questions
 
