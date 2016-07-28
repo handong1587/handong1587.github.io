@@ -207,6 +207,11 @@ bounding boxes (which are shared for these categories).
 - demo: [http://pan.baidu.com/s/1mgoWWsS](http://pan.baidu.com/s/1mgoWWsS)
 - KITTI result: [http://www.cvlibs.net/datasets/kitti/eval_object.php](http://www.cvlibs.net/datasets/kitti/eval_object.php)
 
+**CVPR研讨会 | 余凯特邀报告：基于密集预测图的物体检测技术造就全球领先的ADAS系统**
+
+- intro: DenseBox(V2)
+- blog: [https://mp.weixin.qq.com/s?__biz=MzI4ODAyNjU3MQ==&mid=2649827746&idx=1&sn=aa66524f964ac87d7437fc7b162f95a6&scene=1&srcid=0704uqAhpgy2fZQecXXLu6VN&pass_ticket=V7q2djnsZpyMQSJrOri0pR%2Bd%2Fi063dE5bK3kRigh1vPo%2B9yRU0Xm7cRvRNbzVgqF#rd](https://mp.weixin.qq.com/s?__biz=MzI4ODAyNjU3MQ==&mid=2649827746&idx=1&sn=aa66524f964ac87d7437fc7b162f95a6&scene=1&srcid=0704uqAhpgy2fZQecXXLu6VN&pass_ticket=V7q2djnsZpyMQSJrOri0pR%2Bd%2Fi063dE5bK3kRigh1vPo%2B9yRU0Xm7cRvRNbzVgqF#rd)
+
 ## SSD
 
 **SSD: Single Shot MultiBox Detector**
