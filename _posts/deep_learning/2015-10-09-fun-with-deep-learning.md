@@ -129,6 +129,15 @@ Compressed model is less than 500KB
 - blog: [http://kvfrans.com/neural-style-explained/](http://kvfrans.com/neural-style-explained/)
 - github: [https://github.com/kvfrans/neural-style](https://github.com/kvfrans/neural-style)
 
+**Texture Networks: Feed-forward Synthesis of Textures and Stylized Images**
+
+- arxiv: [http://arxiv.org/abs/1603.03417](http://arxiv.org/abs/1603.03417)
+- github: [https://github.com/DmitryUlyanov/texture_nets](https://github.com/DmitryUlyanov/texture_nets)
+
+**Instance Normalization: The Missing Ingredient for Fast Stylization**
+
+- arxiv: [http://arxiv.org/abs/1607.08022](http://arxiv.org/abs/1607.08022)
+
 ## Neural Art On Audio
 
 **MSc AI Project on generative deep networks and neural style transfer for audio**

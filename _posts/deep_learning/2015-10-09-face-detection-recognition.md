@@ -57,7 +57,7 @@ date: 2015-10-09
 **Deep Face Recognition(BMVC 2015)**
 
 - paper: [http://www.robots.ox.ac.uk/~vgg/publications/2015/Parkhi15/parkhi15.pdf](http://www.robots.ox.ac.uk/~vgg/publications/2015/Parkhi15/parkhi15.pdf)
-- homapage: [http://www.robots.ox.ac.uk/~vgg/software/vgg_face/](http://www.robots.ox.ac.uk/~vgg/software/vgg_face/)
+- homepage: [http://www.robots.ox.ac.uk/~vgg/software/vgg_face/](http://www.robots.ox.ac.uk/~vgg/software/vgg_face/)
 
 **FaceNet: A Unified Embedding for Face Recognition and Clustering(CVPR 2015. Google)**
 
@@ -102,6 +102,14 @@ date: 2015-10-09
 **The MegaFace Benchmark: 1 Million Faces for Recognition at Scale**
 
 - arxiv: [http://arxiv.org/abs/1512.00596](http://arxiv.org/abs/1512.00596)
+
+**MS-Celeb-1M: A Dataset and Benchmark for Large-Scale Face Recognition**
+
+- arxiv: [http://arxiv.org/abs/1607.08221](http://arxiv.org/abs/1607.08221)
+
+**MSR Image Recognition Challenge (IRC)**
+
+- homepage: [https://www.microsoft.com/en-us/research/project/msr-image-recognition-challenge-irc/](https://www.microsoft.com/en-us/research/project/msr-image-recognition-challenge-irc/)
 
 # Projects
 

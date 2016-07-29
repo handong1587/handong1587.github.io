@@ -86,6 +86,10 @@ which continually runs and visualizes your code as you type
 
 - github: [https://github.com/rasbt/python_reference](https://github.com/rasbt/python_reference)
 
+**CME 193: Introduction to Scientific Python**
+
+- course page: [http://web.stanford.edu/~arbenson/cme193.html](http://web.stanford.edu/~arbenson/cme193.html)
+
 # Go
 
 **Go by Example**

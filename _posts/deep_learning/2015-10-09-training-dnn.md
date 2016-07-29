@@ -157,6 +157,7 @@ date: 2015-10-09
 
 - arxiv: [https://arxiv.org/abs/1607.06450](https://arxiv.org/abs/1607.06450)
 - github: [https://github.com/ryankiros/layer-norm](https://github.com/ryankiros/layer-norm)
+- github(TensorFlow): [https://github.com/pbhatia243/tf-layer-norm](https://github.com/pbhatia243/tf-layer-norm)
 
 **Keras GRU with Layer Normalization**
 

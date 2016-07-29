@@ -66,6 +66,11 @@ date: 2015-10-09
 - arxiv: [http://arxiv.org/abs/1512.04412](http://arxiv.org/abs/1512.04412)
 - github: [https://github.com/daijifeng001/MNC](https://github.com/daijifeng001/MNC)
 
+**Learning to Refine Object Segments**
+
+- intro: Facebook AI Research (FAIR)
+- arxiv: [http://arxiv.org/abs/1603.08695](http://arxiv.org/abs/1603.08695)
+
 **Bridging Category-level and Instance-level Semantic Image Segmentation**
 
 - arxiv: [http://arxiv.org/abs/1605.06885](http://arxiv.org/abs/1605.06885)

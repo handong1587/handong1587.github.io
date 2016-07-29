@@ -291,6 +291,7 @@ MSCOCO 2015 test:
 
 **A MultiPath Network for Object Detection**
 
+- intro: Facebook AI Research (FAIR)
 - arxiv: [http://arxiv.org/abs/1604.02135](http://arxiv.org/abs/1604.02135)
 
 **Training Region-based Object Detectors with Online Hard Example Mining**
@@ -507,6 +508,12 @@ This task involves predicting the salient regions of an image given by human eye
 **Context Matters: Refining Object Detection in Video with Recurrent Neural Networks**
 
 - arxiv: [http://arxiv.org/abs/1607.04648](http://arxiv.org/abs/1607.04648)
+
+**CNN Based Object Detection in Large Video Images**
+
+- intro: WangTao @ 爱奇艺
+- keywords: object retrieval, object detection, scene classification
+- slides: [http://on-demand.gputechconf.com/gtc/2016/presentation/s6362-wang-tao-cnn-based-object-detection-large-video-images.pdf](http://on-demand.gputechconf.com/gtc/2016/presentation/s6362-wang-tao-cnn-based-object-detection-large-video-images.pdf)
 
 # Object Proposal
 

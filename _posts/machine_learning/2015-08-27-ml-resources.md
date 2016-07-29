@@ -552,6 +552,10 @@ Other awesome lists can be found in this [list](https://github.com/sindresorhus/
 
 - blog: [https://azure.microsoft.com/en-us/documentation/articles/machine-learning-algorithm-choice/](https://azure.microsoft.com/en-us/documentation/articles/machine-learning-algorithm-choice/)
 
+**New to Machine Learning? Avoid these three mistakes**
+
+- blog: [https://medium.com/machine-intelligence-report/new-to-machine-learning-avoid-these-three-mistakes-73258b3848a4#.hi1iowlmf](https://medium.com/machine-intelligence-report/new-to-machine-learning-avoid-these-three-mistakes-73258b3848a4#.hi1iowlmf)
+
 # Machine Learning Library
 
 **LambdaNet: Purely functional artificial neural network library implemented in Haskell**

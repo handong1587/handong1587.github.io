@@ -517,6 +517,10 @@ accuracy and the detection and localization accuracy of all tasks
 
 - arxiv: [http://arxiv.org/abs/1504.00702](http://arxiv.org/abs/1504.00702)
 
+**Comment on Open AI’s Efforts to Robot Learning**
+
+- blog: [https://gridworld.wordpress.com/2016/07/28/comment-on-open-ais-efforts-to-robot-learning/](https://gridworld.wordpress.com/2016/07/28/comment-on-open-ais-efforts-to-robot-learning/)
+
 # Debugging Deep Learning
 
 **Some tips for debugging deep learning**
@@ -1261,6 +1265,10 @@ Bicubic VS. Shepard CNN
 - arxiv: [http://arxiv.org/abs/1511.04048](http://arxiv.org/abs/1511.04048)
 - github: [https://github.com/roozbehm/newtonian](https://github.com/roozbehm/newtonian)
 
+**Convolutional Neural Networks Analyzed via Convolutional Sparse Coding**
+
+- arxiv: [http://arxiv.org/abs/1607.08194](http://arxiv.org/abs/1607.08194)
+
 ## STDP
 
 **A biological gradient descent for prediction through a combination of STDP and homeostatic plasticity**
@@ -1436,6 +1444,13 @@ Compatible with Theano and TensorFlow. Optimized for Twitter.
 - sentiment demo: [http://dracula.sentimentron.co.uk/sentiment-demo/](http://dracula.sentimentron.co.uk/sentiment-demo/)
 - github: [https://github.com/Sentimentron/Dracula](https://github.com/Sentimentron/Dracula)
 
+## gvnn
+
+**gvnn: Neural Network Library for Geometric Computer Vision**
+
+- arxiv: [http://arxiv.org/abs/1607.07405](http://arxiv.org/abs/1607.07405)
+- github: [https://github.com/ankurhanda/gvnn](https://github.com/ankurhanda/gvnn)
+
 # Readings and Questions
 
 **What you wanted to know about AI**
@@ -1608,3 +1623,8 @@ Compatible with Theano and TensorFlow. Optimized for Twitter.
 **What My Deep Model Doesn't Know...**
 
 [http://mlg.eng.cam.ac.uk/yarin/blog_3d801aa532c1ce.html](http://mlg.eng.cam.ac.uk/yarin/blog_3d801aa532c1ce.html)
+
+**Christoph Feichtenhofer**
+
+- intro: PhD Student, Graz University of Technology
+- homepage: [http://feichtenhofer.github.io/](http://feichtenhofer.github.io/)

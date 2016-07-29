@@ -48,8 +48,8 @@ extract saptio-temporal features to represent the video using the CNNs."
 
 **Contextual Action Recognition with R*CNN**
 
-- paper: [http://arxiv.org/abs/1505.01197](http://arxiv.org/abs/1505.01197)
-- code: [https://github.com/gkioxari/RstarCNN](https://github.com/gkioxari/RstarCNN)
+- arxiv: [http://arxiv.org/abs/1505.01197](http://arxiv.org/abs/1505.01197)
+- github: [https://github.com/gkioxari/RstarCNN](https://github.com/gkioxari/RstarCNN)
 
 **Towards Good Practices for Very Deep Two-Stream ConvNets**
 
@@ -109,3 +109,16 @@ extract saptio-temporal features to represent the video using the CNNs."
 
 - intro: won the 1st place in the untrimmed video classification task of ActivityNet Challenge 2016
 - github: [https://github.com/yjxiong/anet2016-cuhk](https://github.com/yjxiong/anet2016-cuhk)
+
+**A Torch Library for Action Recognition and Detection Using CNNs and LSTMs**
+
+- intro: CS231n student project report
+- paper: [http://cs231n.stanford.edu/reports2016/221_Report.pdf](http://cs231n.stanford.edu/reports2016/221_Report.pdf)
+- github: [https://github.com/garythung/torch-lrcn](https://github.com/garythung/torch-lrcn)
+
+# Datasets
+
+**Charades Dataset**
+
+- intro: This dataset guides our research into unstructured video activity recogntion and commonsense reasoning for daily human activities.
+- homepage: [http://allenai.org/plato/charades/](http://allenai.org/plato/charades/)

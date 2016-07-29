@@ -26,6 +26,13 @@ date: 2015-10-09
 - github: [https://github.com/chdoig/dss-scaling-tutorial](https://github.com/chdoig/dss-scaling-tutorial)
 - slides: [https://speakerdeck.com/chdoig/scaling-ds-in-python](https://speakerdeck.com/chdoig/scaling-ds-in-python)
 
+# Courses
+
+**General Assembly's Data Science course in Washington, DC**
+
+- course page: [https://generalassemb.ly/education/data-science/washington-dc/](https://generalassemb.ly/education/data-science/washington-dc/)
+- github: [https://github.com/justmarkham/DAT8](https://github.com/justmarkham/DAT8)
+
 # Blogs
 
 **Comprehensive learning path – Data Science in Python**

@@ -216,6 +216,10 @@ for building Deep Learning (DL) machine learning (ML) models
 
 - blog: [http://www.pyimagesearch.com/2016/07/18/installing-keras-for-deep-learning/](http://www.pyimagesearch.com/2016/07/18/installing-keras-for-deep-learning/)
 
+**Keras resources: Directory of tutorials and open-source code repositories for working with Keras, the Python deep learning library**
+
+- github: [https://github.com/fchollet/keras-resources](https://github.com/fchollet/keras-resources)
+
 # Lasagne
 
 **Lasagne: Lightweight library to build and train neural networks in Theano**

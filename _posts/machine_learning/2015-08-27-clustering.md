@@ -7,6 +7,11 @@ date: 2015-08-27
 
 # K-means
 
+**Yinyang K-Means: A Drop-In Replacement of the Classic K-Means with Consistent Speedup**
+
+- paper: [http://jmlr.org/proceedings/papers/v37/ding15.html](http://jmlr.org/proceedings/papers/v37/ding15.html)
+- github: [https://github.com/src-d/kmcuda](https://github.com/src-d/kmcuda)
+
 # Stream Clustering
 
 # Neural Network-based Clustering
@@ -147,6 +152,10 @@ it surveys the widely known clustering algorithms in a comparative way"
 **Why K-Means is not always a good idea**
 
 [https://datasciencemadesimpler.wordpress.com/2016/03/05/why-k-means-is-not-always-a-good-idea/](https://datasciencemadesimpler.wordpress.com/2016/03/05/why-k-means-is-not-always-a-good-idea/)
+
+**High Quality, High Performance Clustering with HDBSCAN | SciPy 2016**
+
+- youtube: [https://www.youtube.com/watch?v=AgPQ76RIi6A&list=PLYx7XA2nY5Gf37zYZMw6OqGFRPjB1jCy6&index=10](https://www.youtube.com/watch?v=AgPQ76RIi6A&list=PLYx7XA2nY5Gf37zYZMw6OqGFRPjB1jCy6&index=10)
 
 # Codes
 
