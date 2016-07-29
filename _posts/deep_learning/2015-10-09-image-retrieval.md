@@ -89,6 +89,14 @@ date: 2015-10-09
 - paper: [http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Lin_Learning_Compact_Binary_CVPR_2016_paper.pdf](http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Lin_Learning_Compact_Binary_CVPR_2016_paper.pdf)
 - github: [https://github.com/kevinlin311tw/cvpr16-deepbit](https://github.com/kevinlin311tw/cvpr16-deepbit)
 
+**CNN Image Retrieval Learns from BoW: Unsupervised Fine-Tuning with Hard Examples**
+
+![](http://ptak.felk.cvut.cz/personal/radenfil/siamac/siamac.png)
+
+- project page(paper+code+data): [http://cmp.felk.cvut.cz/~radenfil/projects/siamac.html](http://cmp.felk.cvut.cz/~radenfil/projects/siamac.html)
+- paper: [http://cmp.felk.cvut.cz/~radenfil/publications/Radenovic-ECCV16.pdf](http://cmp.felk.cvut.cz/~radenfil/publications/Radenovic-ECCV16.pdf)
+- code(Matlab): [http://ptak.felk.cvut.cz/personal/radenfil/siamac/siaMAC_code.tar.gz](http://ptak.felk.cvut.cz/personal/radenfil/siamac/siaMAC_code.tar.gz)
+
 # Blogs
 
 **Using Sketches to Search for Products Online**
