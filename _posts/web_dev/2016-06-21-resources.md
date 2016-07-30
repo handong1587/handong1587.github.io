@@ -19,6 +19,10 @@ category: "web_dev"
 
 [https://rvm.io/rvm/install](https://rvm.io/rvm/install)
 
+**Integrating RVM with gnome-terminal**
+
+[https://rvm.io/integration/gnome-terminal](https://rvm.io/integration/gnome-terminal)
+
 # Install bower
 
 **/usr/bin/env: node: No such file or directory**
