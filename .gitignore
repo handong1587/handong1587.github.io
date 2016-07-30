@@ -22,3 +22,8 @@ node_modules
 _site
 sea-modules
 .cache
+
+Gemfile.lock
+bower_components
+node_modules
+build

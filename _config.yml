@@ -14,7 +14,7 @@ encoding:     "utf-8"
 markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 textile_ext:  "textile"
 
-gems:         [jekyll-paginate]
+gems:         ['jekyll-paginate', 'jekyll-lunr-js-search']
 
 # Filtering Content
 show_drafts:  null
@@ -60,6 +60,8 @@ nav:
     url: /about.html
   - text: LINKS
     url: /links.html
+  - text: SEARCH
+    url: /search.html
 
 #Author config
 author:
@@ -125,3 +127,10 @@ duoshuo:
 #baidu share config
 baiduShare:
   config: false
+
+# lunr search
+lunr_search:
+  excludes: [rss.xml, atom.xml]
+  stopwords: "stopwords.txt"
+  min_length: 3
+  js_dir: "javascript"
