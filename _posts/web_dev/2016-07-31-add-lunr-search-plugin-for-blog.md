@@ -18,7 +18,7 @@ See my previous post:
 
 [http://handong1587.github.io/web_dev/2016/07/03/install-therubyracer.html](http://handong1587.github.io/web_dev/2016/07/03/install-therubyracer.html)
 
-Keep you aware don't include jQuery twice. It can really cause all sorts of issues.
+Keep yourself aware that you don't include jQuery twice. It can really cause all sorts of issues.
 
 This post explains in a more detail: 
 
@@ -32,9 +32,9 @@ It kept me receiving one wired error like:
 TypeError: $(...).lunrSearch is not a function
 ```
 
-and took a long time to find out why this happen.
+and took me a long time to find out why this happened.
 
 For a newbie like me who *know nothing at all* about front-end web development, 
 all the work become trial and error, and google plus stackoverflow. So great now it can work.
 
-Thanks to *My Chemical Romance* for helping me through those tough debugging night!
+Thanks to *My Chemical Romance* for helping me through those tough debugging nights!
