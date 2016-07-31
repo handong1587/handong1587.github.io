@@ -16,7 +16,7 @@ date: 2015-07-24
 
 **Icdiff: improved colored diff**
 
-![](https://www.jefftk.com/icdiff-css-demo-tall.png)
+![](https://www.jefftk.com/icdiff-css-demo-tall-2x.png)
 
 - homepage: [https://www.jefftk.com/icdiff](https://www.jefftk.com/icdiff)
 - github: [https://github.com/jeffkaufman/icdiff](https://github.com/jeffkaufman/icdiff)
