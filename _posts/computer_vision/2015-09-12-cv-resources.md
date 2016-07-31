@@ -7,20 +7,14 @@ date: 2015-09-12
 
 # Courses
 
-**Stanford CS231n: Convolutional Neural Networks for Visual Recognition**
+**Mobile Computer Vision (Spring 2015)**
 
-- homepage: [http://cs231n.stanford.edu/](http://cs231n.stanford.edu/)
-- homepage: [http://vision.stanford.edu/teaching/cs231n/index.html](http://vision.stanford.edu/teaching/cs231n/index.html)
-- syllabus: [http://vision.stanford.edu/teaching/cs231n/syllabus.html](http://vision.stanford.edu/teaching/cs231n/syllabus.html)
-- github.io: [http://cs231n.github.io/](http://cs231n.github.io/)
-- youtube: [https://www.youtube.com/watch?v=NfnWJUyUJYU&feature=youtu.be](https://www.youtube.com/watch?v=NfnWJUyUJYU&feature=youtu.be)
-- video: [http://pan.baidu.com/s/1pKsTivp](http://pan.baidu.com/s/1pKsTivp)
+![](http://web.stanford.edu/class/cs231m/assets/img/course-splash.png)
 
-**Mobile Computer Vision**
-
-![](/assets/computer-vision/courses/Mobile_Computer_Vision_course-splash.png)
-
-[http://web.stanford.edu/class/cs231m/](http://web.stanford.edu/class/cs231m/)
+- homepage: [http://web.stanford.edu/class/cs231m/](http://web.stanford.edu/class/cs231m/)
+- syllabus: [http://web.stanford.edu/class/cs231m/syllabus.html](http://web.stanford.edu/class/cs231m/syllabus.html)
+- projects: [http://web.stanford.edu/class/cs231m/projects.html](http://web.stanford.edu/class/cs231m/projects.html)
+- resources: [http://web.stanford.edu/class/cs231m/resources.html](http://web.stanford.edu/class/cs231m/resources.html)
 
 **CSCI1950-G Computational Photography**
 

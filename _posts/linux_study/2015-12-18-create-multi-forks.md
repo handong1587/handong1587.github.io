@@ -7,15 +7,15 @@ date: 2015-12-18
 
 # Step-1: Clone the original repo to your local machine
 
-{% highlight bash %}
+```
 git clone https://github.com/handong1587/caffe.git caffe-yolo
-{% endhighlight %}
+```
 
 ![](/assets/linux_study/create_multi_fork_1.jpg)
 
-{% highlight bash %}
+```
 cd caffe-yolo
-{% endhighlight %}
+```
 
 # Step-2: Create a new empty repo in your GitHub account
 
@@ -23,27 +23,27 @@ cd caffe-yolo
 
 # Step-3: Manually create the necessary remote links
 
-{% highlight bash %}
+```
 git remote -v
-{% endhighlight %}
+```
 
 ![](/assets/linux_study/create_multi_fork_3.jpg)
 
 # Step-4: Rename origin to upstream and add our new empty repo as the origin
 
-{% highlight bash %}
+```
 git remote rename origin upstream
 git remote add origin https://github.com/handong1587/caffe-yolo.git
 git remote -v
-{% endhighlight %}
+```
 
 ![](/assets/linux_study/create_multi_fork_4.jpg)
 
 # Step-5: Push from your local repo to your new remote one
 
-{% highlight bash %}
+```
 git push -u origin master
-{% endhighlight %}
+```
 
 ![](/assets/linux_study/create_multi_fork_5.jpg)
 

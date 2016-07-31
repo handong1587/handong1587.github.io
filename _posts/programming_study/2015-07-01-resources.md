@@ -150,6 +150,23 @@ which continually runs and visualizes your code as you type
 
 - blog: [http://blog.petrzemek.net/2016/04/06/things-about-vim-i-wish-i-knew-earlier/](http://blog.petrzemek.net/2016/04/06/things-about-vim-i-wish-i-knew-earlier/)
 
+## Pwerful VIM config on Github
+
+**spf13-vim: The Ultimate Vim Distribution**
+
+![(http://i.imgur.com/kZWj1.png)]
+
+- homepage: [http://vim.spf13.com/](http://vim.spf13.com/)
+- github: [https://github.com/spf13/spf13-vim](https://github.com/spf13/spf13-vim)
+
+**dot-vimrc: Maple's vim config files**
+
+- github: [https://github.com/humiaozuzu/dot-vimrc](https://github.com/humiaozuzu/dot-vimrc)
+
+**vimrc: The Ultimate vimrc**
+
+- github: [https://github.com/amix/vimrc](https://github.com/amix/vimrc)
+
 # Git
 
 **Learn Git in 30 Minutes**

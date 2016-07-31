@@ -18,9 +18,14 @@ The author also provides some shell files on his gist: [https://gist.github.com/
 They are useful, but since I work on Windows 7 x86, I add some modifications. [https://github.com/handong1587/run_valgrind](https://github.com/handong1587/run_valgrind)
 
 (How to access gist in China? Add 
+
 `192.30.252.141 gist.github.com` 
+
 to 
-`C:/Windows/System32/drivers/etc/hosts`)
+
+`C:/Windows/System32/drivers/etc/hosts`
+
+)
 
 One thing to note is that on Windows sometimes there will be some '\r', '\r\n' problems, 
 so we'd better use a dos2unix tool to convert the text format after every time we edit shell files on Windows.
@@ -47,24 +52,24 @@ Normally we should wait for about half an hour for bulding. All looks okay by fa
 
 When I build a 32-bit Valgrind, every time I try to start memcheck, it will output an error log:
 
-<pre class="terminal">
-<code>$ $SDKROOT/adb.exe shell "/data/local/Inst/bin/valgrind am start -a android.intent.action.MAIN -n com.example.MyAPP/.MyAPPMain"
-valgrind: failed to start tool 'memcheck' for platform 'arm64-linux': No such file or directory</code>
-</pre>
+```
+$ $SDKROOT/adb.exe shell "/data/local/Inst/bin/valgrind am start -a android.intent.action.MAIN -n com.example.MyAPP/.MyAPPMain"
+valgrind: failed to start tool 'memcheck' for platform 'arm64-linux': No such file or directory
+```
 
 Wired thing is that there is a memcheck-arm-linux in /data/local/Inst/lib/valgrind/, 
 and obviously Valgrind should call it since they are of 32-bit. But Valgrind always try to call a 64-bit memcheck. 
 Use `strace` command can show the calling procedure easily:
 
-<pre class="terminal">
-<code>$ $SDKROOT/adb.exe shell "strace /data/local/Inst/bin/valgrind am start -a android.intent.action.MAIN -n com.example.MyAPP/.MyAPPMain"</code>
-</pre>
+```
+$ $SDKROOT/adb.exe shell "strace /data/local/Inst/bin/valgrind am start -a android.intent.action.MAIN -n com.example.MyAPP/.MyAPPMain"
+```
 
 Outputs:
 
-<pre class="terminal">
-<code>execve("/data/local/Inst/lib/valgrind/memcheck-arm64-linux", ["/data/local/Inst/bin/valgrind", "am", "start", "-a", "android.intent.action.MAIN", "-n", "com.example.SGallery/.SGalleryMa"...], [/* 17 vars */]) = -1 ENOENT (No such file or directory)</code>
-</pre>
+```
+execve("/data/local/Inst/lib/valgrind/memcheck-arm64-linux", ["/data/local/Inst/bin/valgrind", "am", "start", "-a", "android.intent.action.MAIN", "-n", "com.example.SGallery/.SGalleryMa"...], [/* 17 vars */]) = -1 ENOENT (No such file or directory)
+```
 
 So I was stucked on this.
 And it is more frustrating that if I change to 64-bit configure, many Valgrind tools are failed to build. Still not memcheck-arm64-linux.

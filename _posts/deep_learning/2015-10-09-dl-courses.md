@@ -118,6 +118,9 @@ date: 2015-10-09
 - youtube: [https://www.youtube.com/watch?v=NfnWJUyUJYU&feature=youtu.be](https://www.youtube.com/watch?v=NfnWJUyUJYU&feature=youtu.be)
 - mirror: [http://pan.baidu.com/s/1pKsTivp](http://pan.baidu.com/s/1pKsTivp)
 - mirror: [http://pan.baidu.com/s/1c2wR8dy](http://pan.baidu.com/s/1c2wR8dy)
+- assignment 1: [http://cs231n.github.io/assignments2016/assignment1/](http://cs231n.github.io/assignments2016/assignment1/)
+- assignment 2: [http://cs231n.github.io/assignments2016/assignment2/](http://cs231n.github.io/assignments2016/assignment2/)
+- assignment 3: [http://cs231n.github.io/assignments2016/assignment3/](http://cs231n.github.io/assignments2016/assignment3/)
 
 **ITP-NYU - Spring 2016**
 

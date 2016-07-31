@@ -93,6 +93,10 @@ date: 2015-07-01
 
 [http://bost.ocks.org/mike/algorithms/](http://bost.ocks.org/mike/algorithms/)
 
+**The missing method: Deleting from Okasaki's red-black trees**
+
+- blog: [http://matt.might.net/articles/red-black-delete/](http://matt.might.net/articles/red-black-delete/)
+
 # Codes
 
 **Bloofi: A java implementation of multidimensional Bloom filters**
