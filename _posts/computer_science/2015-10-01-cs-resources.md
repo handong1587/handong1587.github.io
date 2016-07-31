@@ -17,6 +17,10 @@ date: 2015-10-01
 
 - homepage: [http://www.eecs.berkeley.edu/~christos/evol/evolcomS14.html](http://www.eecs.berkeley.edu/~christos/evol/evolcomS14.html)
 
+**Introduction to Computer Science and Programming Using Python**
+
+- edx page: [https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x-8](https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x-8)
+
 # Projects
 
 **Sketch: a Common Lisp environment for the creation of electronic art, visual design, game prototyping, game making, computer graphics, exploration of human-computer interaction and more**

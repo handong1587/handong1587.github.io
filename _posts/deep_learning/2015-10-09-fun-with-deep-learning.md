@@ -29,6 +29,7 @@ date: 2015-10-09
 - github: [https://github.com/Teaonly/easyStyle](https://github.com/Teaonly/easyStyle)
 - github: [https://github.com/ckmarkoh/neuralart_tensorflow](https://github.com/ckmarkoh/neuralart_tensorflow)
 - github: [https://github.com/fzliu/style-transfer](https://github.com/fzliu/style-transfer)
+- github: [https://github.com/titu1994/Neural-Style-Transfer](https://github.com/titu1994/Neural-Style-Transfer)
 
 **Image Style Transfer Using Convolutional Neural Networks**
 

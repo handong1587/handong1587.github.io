@@ -103,6 +103,10 @@ extract saptio-temporal features to represent the video using the CNNs."
 
 - arxiv: [http://arxiv.org/abs/1607.07043](http://arxiv.org/abs/1607.07043)
 
+**Connectionist Temporal Modeling for Weakly Supervised Action Labeling**
+
+- arxiv: [http://arxiv.org/abs/1607.08584](http://arxiv.org/abs/1607.08584)
+
 # Projects
 
 **CUHK & ETH & SIAT Solution to ActivityNet Challenge 2016**

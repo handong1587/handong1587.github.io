@@ -521,6 +521,10 @@ accuracy and the detection and localization accuracy of all tasks
 
 - blog: [https://gridworld.wordpress.com/2016/07/28/comment-on-open-ais-efforts-to-robot-learning/](https://gridworld.wordpress.com/2016/07/28/comment-on-open-ais-efforts-to-robot-learning/)
 
+**The Curious Robot: Learning Visual Representations via Physical Interactions**
+
+- arxiv: [http://arxiv.org/abs/1604.01360](http://arxiv.org/abs/1604.01360)
+
 # Debugging Deep Learning
 
 **Some tips for debugging deep learning**
@@ -651,6 +655,7 @@ which encodes useful class information rather than individual units (feature act
 **Correlational Neural Networks**
 
 - arxiv: [http://arxiv.org/abs/1504.07225](http://arxiv.org/abs/1504.07225)
+- github: [https://github.com/apsarath/CorrNet](https://github.com/apsarath/CorrNet)
 
 **Training Very Deep Networks (highway networks)**
 
@@ -811,6 +816,7 @@ Image Caption Generation, Automatic Game Playing
 
 **Deep Cascaded Bi-Network for Face Hallucination**
 
+- project page: [http://mmlab.ie.cuhk.edu.hk/projects/CBN.html](http://mmlab.ie.cuhk.edu.hk/projects/CBN.html)
 - arxiv: [http://arxiv.org/abs/1607.05046](http://arxiv.org/abs/1607.05046)
 
 **DeepWarp: Photorealistic Image Resynthesis for Gaze Manipulation**
@@ -1120,17 +1126,17 @@ Bicubic VS. Shepard CNN
 **Reweighted Wake-Sleep**
 
 - paper: [http://arxiv.org/abs/1406.2751](http://arxiv.org/abs/1406.2751)
-- code: [https://github.com/jbornschein/reweighted-ws](https://github.com/jbornschein/reweighted-ws)
+- github: [https://github.com/jbornschein/reweighted-ws](https://github.com/jbornschein/reweighted-ws)
 
 **Probabilistic Backpropagation for Scalable Learning of Bayesian Neural Networks**
 
 - paper: [http://arxiv.org/abs/1502.05336](http://arxiv.org/abs/1502.05336)
-- code: [https://github.com/HIPS/Probabilistic-Backpropagation](https://github.com/HIPS/Probabilistic-Backpropagation)
+- github: [https://github.com/HIPS/Probabilistic-Backpropagation](https://github.com/HIPS/Probabilistic-Backpropagation)
 
 **Deeply-Supervised Nets**
 
 - paper: [http://arxiv.org/abs/1409.5185](http://arxiv.org/abs/1409.5185)
-- code: [https://github.com/mbhenaff/spectral-lib](https://github.com/mbhenaff/spectral-lib)
+- github: [https://github.com/mbhenaff/spectral-lib](https://github.com/mbhenaff/spectral-lib)
 
 **Deep learning (Nature 2015)**
 
@@ -1147,6 +1153,11 @@ Bicubic VS. Shepard CNN
 - paper: [https://people.csail.mit.edu/khosla/papers/iccv2015_khosla.pdf](https://people.csail.mit.edu/khosla/papers/iccv2015_khosla.pdf)
 - code: [http://memorability.csail.mit.edu/download.html](http://memorability.csail.mit.edu/download.html)
 - reviews: [http://petapixel.com/2015/12/18/how-memorable-are-times-top-10-photos-of-2015-to-a-computer/](http://petapixel.com/2015/12/18/how-memorable-are-times-top-10-photos-of-2015-to-a-computer/)
+
+**Structured Prediction Energy Networks (SPEN)**
+
+- arxiv: [http://arxiv.org/abs/1511.06350](http://arxiv.org/abs/1511.06350)
+- github: [https://github.com/davidBelanger/SPEN](https://github.com/davidBelanger/SPEN)
 
 **A Mathematical Theory of Deep Convolutional Neural Networks for Feature Extraction**
 

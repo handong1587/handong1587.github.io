@@ -191,11 +191,16 @@ date: 2015-10-09
 
 ![](https://adeshpande3.github.io/assets/Cover.png)
 
-- blog: [https://adeshpande3.github.io/adeshpande3.github.io/A-Beginner's-Guide-To-Understanding-Convolutional-Neural-Networks/](https://adeshpande3.github.io/adeshpande3.github.io/A-Beginner's-Guide-To-Understanding-Convolutional-Neural-Networks/)
+- part 1: [https://adeshpande3.github.io/adeshpande3.github.io/A-Beginner's-Guide-To-Understanding-Convolutional-Neural-Networks/](https://adeshpande3.github.io/adeshpande3.github.io/A-Beginner's-Guide-To-Understanding-Convolutional-Neural-Networks/)
+- part 2: [https://adeshpande3.github.io/adeshpande3.github.io/A-Beginner's-Guide-To-Understanding-Convolutional-Neural-Networks-Part-2/](https://adeshpande3.github.io/adeshpande3.github.io/A-Beginner's-Guide-To-Understanding-Convolutional-Neural-Networks-Part-2/)
 
 **Introduction to Deep Learning for Image Processing**
 
 - slides: [https://speakerdeck.com/bargava/introduction-to-deep-learning-for-image-processing](https://speakerdeck.com/bargava/introduction-to-deep-learning-for-image-processing)
+
+**The best explanation of Convolutional Neural Networks on the Internet!**
+
+- blog: [https://medium.com/technologymadeeasy/the-best-explanation-of-convolutional-neural-networks-on-the-internet-fbb8b1ad5df8](https://medium.com/technologymadeeasy/the-best-explanation-of-convolutional-neural-networks-on-the-internet-fbb8b1ad5df8)
 
 ## Convolution
 

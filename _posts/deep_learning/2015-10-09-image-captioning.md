@@ -139,6 +139,11 @@ after the embedding and recurrent layers of the RNN."
 - author-page: [http://www.cs.cmu.edu/~gunhee/](http://www.cs.cmu.edu/~gunhee/)
 - github: [https://github.com/cesc-park/CRCN](https://github.com/cesc-park/CRCN)
 
+**Multimodal Pivots for Image Caption Translation**
+
+- intro: ACL 2016
+- arxiv: [http://arxiv.org/abs/1601.03916](http://arxiv.org/abs/1601.03916)
+
 **Image Captioning with Deep Bidirectional LSTMs**
 
 - arxiv: [http://arxiv.org/abs/1604.00790](http://arxiv.org/abs/1604.00790)

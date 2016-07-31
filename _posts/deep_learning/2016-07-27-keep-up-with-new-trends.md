@@ -5,6 +5,12 @@ title: Keep Up With New Trends
 date: 2016-07-27
 ---
 
+**Deep Learning for Computer Vision Barcelona**
+
+- homepage: [http://imatge-upc.github.io/telecombcn-2016-dlcv/](http://imatge-upc.github.io/telecombcn-2016-dlcv/)
+- homepage: [https://imatge.upc.edu/web/teaching/deep-learning-computer-vision](https://imatge.upc.edu/web/teaching/deep-learning-computer-vision)
+- youtube: [https://www.youtube.com/user/imatgeupc/videos?shelf_id=0&sort=dd&view=0](https://www.youtube.com/user/imatgeupc/videos?shelf_id=0&sort=dd&view=0)
+
 **10 Papers from ICML and CVPR**
 
 [https://leotam.github.io/general/2016/07/12/ICMLcVPR.html](https://leotam.github.io/general/2016/07/12/ICMLcVPR.html)

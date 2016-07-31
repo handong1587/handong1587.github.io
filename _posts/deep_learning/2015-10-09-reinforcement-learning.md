@@ -450,6 +450,13 @@ The project is dedicated to hero in life great Jesse Livermore.
 - blog: [http://multithreaded.stitchfix.com/blog/2016/07/21/skynet-salesman/](http://multithreaded.stitchfix.com/blog/2016/07/21/skynet-salesman/)
 - github: [https://github.com/jn2clark/ReinforcementLearning/tree/master/DeepQ](https://github.com/jn2clark/ReinforcementLearning/tree/master/DeepQ)
 
+**Apprenticeship learning using Inverse Reinforcement Learning**
+
+![](https://jangirrishabh.github.io/assets/IRL/irl_des.png)
+
+- blog: [https://jangirrishabh.github.io/2016/07/09/virtual-car-IRL/](https://jangirrishabh.github.io/2016/07/09/virtual-car-IRL/)
+- github: [https://github.com/jangirrishabh/toyCarIRL](https://github.com/jangirrishabh/toyCarIRL)
+
 # Books
 
 **Reinforcement Learning: State-of-the-Art**

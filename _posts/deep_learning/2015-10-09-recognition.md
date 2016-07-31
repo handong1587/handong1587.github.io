@@ -27,6 +27,16 @@ date: 2015-10-09
 - arxiv: [http://arxiv.org/abs/1604.06486](http://arxiv.org/abs/1604.06486)
 - review: [https://www.technologyreview.com/s/601387/why-machine-vision-is-flawed-in-the-same-way-as-human-vision/](https://www.technologyreview.com/s/601387/why-machine-vision-is-flawed-in-the-same-way-as-human-vision/)
 
+## FusionNet
+
+**FusionNet: 3D Object Classification Using Multiple Data Representations**
+
+- arxiv: [https://arxiv.org/abs/1607.05695](https://arxiv.org/abs/1607.05695)
+
+**From image recognition to object recognition**
+
+- blog: [https://www.oreilly.com/ideas/from-image-recognition-to-object-recognition](https://www.oreilly.com/ideas/from-image-recognition-to-object-recognition)
+
 ## Multi-object Recognition
 
 **Multiple Object Recognition with Visual Attention**

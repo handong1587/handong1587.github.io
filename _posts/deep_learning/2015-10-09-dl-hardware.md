@@ -136,6 +136,10 @@ date: 2015-10-09
 - youtube: [https://www.youtube.com/watch?v=HlBC9qBqZRs](https://www.youtube.com/watch?v=HlBC9qBqZRs)
 - slides: [http://www.slideshare.net/embeddedvision/accelerating-deep-learning-using-altera-fpgas-a-presentation-from-intel](http://www.slideshare.net/embeddedvision/accelerating-deep-learning-using-altera-fpgas-a-presentation-from-intel)
 
+**Machine Learning on FPGAs: Neural Networks**
+
+- youtube: [https://www.youtube.com/watch?v=3iCifD8gZ0Q](https://www.youtube.com/watch?v=3iCifD8gZ0Q)
+
 # SRAM
 
 **ShiDianNao: Shifting Vision Processing Closer to the Sensor**

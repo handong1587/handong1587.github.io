@@ -677,6 +677,14 @@ The size of their dataset is, however, limited by the availability of domain-spe
 - github: [https://github.com/biometrics/openbr](https://github.com/biometrics/openbr)
 - docs: [http://openbiometrics.org/docs/index.html](http://openbiometrics.org/docs/index.html)
 
+**SmartMirror**
+
+<p align="center">
+  <img src="/docs/SmartMirror_DisplayMenu_Preview.gif"/>       <img src="/docs/SmartMirror_Widget_Preview.gif"/>
+</p>
+
+- github: [https://github.com/Shinao/SmartMirror](https://github.com/Shinao/SmartMirror)
+
 # Resources
 
 **Awesome Computer Vision**
