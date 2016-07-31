@@ -253,6 +253,14 @@ find -iname "filename"
 
 [https://web.stanford.edu/class/cs107/gdb_refcard.pdf](https://web.stanford.edu/class/cs107/gdb_refcard.pdf)
 
+**GDB Tutorial: A Walkthrough with Examples**
+
+- slides: [https://www.cs.umd.edu/~srhuang/teaching/cmsc212/gdb-tutorial-handout.pdf](https://www.cs.umd.edu/~srhuang/teaching/cmsc212/gdb-tutorial-handout.pdf)
+
+**GNU GDB Debugger Command Cheat Sheet**
+
+[http://www.yolinux.com/TUTORIALS/GDB-Commands.html](http://www.yolinux.com/TUTORIALS/GDB-Commands.html)
+
 **Cheat Sheet**:
 
 | shortcut   | command       | explanation      |

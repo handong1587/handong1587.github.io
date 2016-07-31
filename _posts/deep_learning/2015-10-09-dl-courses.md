@@ -126,6 +126,14 @@ date: 2015-10-09
 
 - Video lectures and course notes: [http://ml4a.github.io/classes/itp-S16/](http://ml4a.github.io/classes/itp-S16/)
 
+**Deep Learning for Computer Vision Barcelona: Summer seminar UPC TelecomBCN (July 4-8, 2016)**
+
+- intro: This course will cover the basic principles and applications of deep learning to computer vision problems, 
+such as image classification, object detection or text captioning.
+- homepage(slides+videos): [http://imatge-upc.github.io/telecombcn-2016-dlcv/](http://imatge-upc.github.io/telecombcn-2016-dlcv/)
+- homepage: [https://imatge.upc.edu/web/teaching/deep-learning-computer-vision](https://imatge.upc.edu/web/teaching/deep-learning-computer-vision)
+- youtube: [https://www.youtube.com/user/imatgeupc/videos?shelf_id=0&sort=dd&view=0](https://www.youtube.com/user/imatgeupc/videos?shelf_id=0&sort=dd&view=0)
+
 # Natural Language Processing
 
 ![](http://cs224d.stanford.edu/images/treeFrontSentiment.png)
