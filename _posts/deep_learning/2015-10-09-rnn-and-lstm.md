@@ -15,6 +15,15 @@ date: 2015-10-09
 
 # Tutorials
 
+**The Unreasonable Effectiveness of Recurrent Neural Networks**
+
+- blog: [http://karpathy.github.io/2015/05/21/rnn-effectiveness/](http://karpathy.github.io/2015/05/21/rnn-effectiveness/)
+
+**Understanding LSTM Networks**
+
+- blog: [http://colah.github.io/posts/2015-08-Understanding-LSTMs/](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
+- blog(zh): [http://www.jianshu.com/p/9dc9f41f0b29](http://www.jianshu.com/p/9dc9f41f0b29)
+
 **A Beginner’s Guide to Recurrent Networks and LSTMs**
 
 [http://deeplearning4j.org/lstm.html](http://deeplearning4j.org/lstm.html)
@@ -37,11 +46,6 @@ date: 2015-10-09
 - Part 2(Implementing a RNN using Python and Theano): [http://www.wildml.com/2015/09/recurrent-neural-networks-tutorial-part-2-implementing-a-language-model-rnn-with-python-numpy-and-theano/](http://www.wildml.com/2015/09/recurrent-neural-networks-tutorial-part-2-implementing-a-language-model-rnn-with-python-numpy-and-theano/)
 - Part 3(Understanding the Backpropagation Through Time (BPTT) algorithm): [http://www.wildml.com/2015/10/recurrent-neural-networks-tutorial-part-3-backpropagation-through-time-and-vanishing-gradients/](http://www.wildml.com/2015/10/recurrent-neural-networks-tutorial-part-3-backpropagation-through-time-and-vanishing-gradients/)
 - Part 4(Implementing a GRU/LSTM RNN): [http://www.wildml.com/2015/10/recurrent-neural-network-tutorial-part-4-implementing-a-grulstm-rnn-with-python-and-theano/](http://www.wildml.com/2015/10/recurrent-neural-network-tutorial-part-4-implementing-a-grulstm-rnn-with-python-and-theano/)
-
-**Understanding LSTM Networks**
-
-- blog: [http://colah.github.io/posts/2015-08-Understanding-LSTMs/](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
-- ZH: [http://www.jianshu.com/p/9dc9f41f0b29](http://www.jianshu.com/p/9dc9f41f0b29)
 
 **Recurrent Neural Networks in DL4J**
 
@@ -204,10 +208,10 @@ date: 2015-10-09
 - github: [https://github.com/szcom/rnnlib](https://github.com/szcom/rnnlib)
 - blog: [http://blog.otoro.net/2015/12/12/handwriting-generation-demo-in-tensorflow/](http://blog.otoro.net/2015/12/12/handwriting-generation-demo-in-tensorflow/)
 
-**Unsupervised Learning of Video Representations using LSTMs(ICML2015)**
+**Unsupervised Learning of Video Representations using LSTMs (ICML2015)**
 
-- project: [http://www.cs.toronto.edu/~nitish/unsupervised_video/](http://www.cs.toronto.edu/~nitish/unsupervised_video/)
-- paper: [http://arxiv.org/abs/1502.04681](http://arxiv.org/abs/1502.04681)
+- project page: [http://www.cs.toronto.edu/~nitish/unsupervised_video/](http://www.cs.toronto.edu/~nitish/unsupervised_video/)
+- arxiv: [http://arxiv.org/abs/1502.04681](http://arxiv.org/abs/1502.04681)
 - code: [http://www.cs.toronto.edu/~nitish/unsupervised_video/unsup_video_lstm.tar.gz](http://www.cs.toronto.edu/~nitish/unsupervised_video/unsup_video_lstm.tar.gz)
 - github: [https://github.com/emansim/unsupervised-videos](https://github.com/emansim/unsupervised-videos)
 
@@ -217,15 +221,15 @@ date: 2015-10-09
 
 **LSTM: A Search Space Odyssey**
 
-- paper: [http://arxiv.org/abs/1503.04069](http://arxiv.org/abs/1503.04069)
+- arxiv: [http://arxiv.org/abs/1503.04069](http://arxiv.org/abs/1503.04069)
 - notes: [https://www.evernote.com/shard/s189/sh/48da42c5-8106-4f0d-b835-c203466bfac4/50d7a3c9a961aefd937fae3eebc6f540](https://www.evernote.com/shard/s189/sh/48da42c5-8106-4f0d-b835-c203466bfac4/50d7a3c9a961aefd937fae3eebc6f540)
 - blog("Dissecting the LSTM"): [https://medium.com/jim-fleming/implementing-lstm-a-search-space-odyssey-7d50c3bacf93#.crg8pztop](https://medium.com/jim-fleming/implementing-lstm-a-search-space-odyssey-7d50c3bacf93#.crg8pztop)
 - github: [https://github.com/jimfleming/lstm_search](https://github.com/jimfleming/lstm_search)
 
 **Inferring Algorithmic Patterns with Stack-Augmented Recurrent Nets**
 
-- paper: [http://arxiv.org/abs/1503.01007](http://arxiv.org/abs/1503.01007)
-- code: [https://github.com/facebook/Stack-RNN](https://github.com/facebook/Stack-RNN)
+- arxiv: [http://arxiv.org/abs/1503.01007](http://arxiv.org/abs/1503.01007)
+- github: [https://github.com/facebook/Stack-RNN](https://github.com/facebook/Stack-RNN)
 
 **A Critical Review of Recurrent Neural Networks for Sequence Learning**
 
@@ -238,7 +242,7 @@ date: 2015-10-09
 
 **Visualizing and Understanding Recurrent Networks (ICLR 2016. Andrej Karpathy, Justin Johnson, Fei-Fei Li)**
 
-- paper: [http://arxiv.org/abs/1506.02078](http://arxiv.org/abs/1506.02078)
+- arxiv: [http://arxiv.org/abs/1506.02078](http://arxiv.org/abs/1506.02078)
 - slides: [http://www.robots.ox.ac.uk/~seminars/seminars/Extra/2015_07_06_AndrejKarpathy.pdf](http://www.robots.ox.ac.uk/~seminars/seminars/Extra/2015_07_06_AndrejKarpathy.pdf)
 - github: [https://github.com/karpathy/char-rnn](https://github.com/karpathy/char-rnn)
 
@@ -249,8 +253,8 @@ date: 2015-10-09
 
 **Depth-Gated LSTM**
 
-- paper: [http://arxiv.org/abs/1508.03790](http://arxiv.org/abs/1508.03790)
-- code: [GitHub(dglstm.h+dglstm.cc)](https://github.com/kaishengyao/cnn/tree/master/cnn)
+- arxiv: [http://arxiv.org/abs/1508.03790](http://arxiv.org/abs/1508.03790)
+- github: [GitHub(dglstm.h+dglstm.cc)](https://github.com/kaishengyao/cnn/tree/master/cnn)
 
 **Deep Knowledge Tracing**
 

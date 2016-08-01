@@ -1021,7 +1021,7 @@ Image Caption Generation, Automatic Game Playing
 
 - blog: [http://blog.clarifai.com/what-convolutional-neural-networks-see-at-when-they-see-nudity#.VzVh_-yECZY](http://blog.clarifai.com/what-convolutional-neural-networks-see-at-when-they-see-nudity#.VzVh_-yECZY)
 
-## Image Reconstruction
+## Image Reconstruction / Inpainting
 
 **Context Encoders: Feature Learning by Inpainting (CVPR 2016)**
 
@@ -1030,6 +1030,11 @@ Image Caption Generation, Automatic Game Playing
 - project page: [http://www.cs.berkeley.edu/~pathak/context_encoder/](http://www.cs.berkeley.edu/~pathak/context_encoder/)
 - arxiv: [https://arxiv.org/abs/1604.07379](https://arxiv.org/abs/1604.07379)
 - github: [https://github.com/pathak22/context-encoder](https://github.com/pathak22/context-encoder)
+
+**Semantic Image Inpainting with Perceptual and Contextual Losses**
+
+- keywords: Deep Convolutional Generative Adversarial Network (DCGAN)
+- arxiv: [http://arxiv.org/abs/1607.07539](http://arxiv.org/abs/1607.07539)
 
 ## Image Restoration
 
@@ -1116,6 +1121,11 @@ Bicubic VS. Shepard CNN
 - keywords: CNN + LSTM
 - arxiv: [http://arxiv.org/abs/1503.08909](http://arxiv.org/abs/1503.08909)
 - demo: [http://pan.baidu.com/s/1eQ9zLZk](http://pan.baidu.com/s/1eQ9zLZk)
+
+**Learning End-to-end Video Classification with Rank-Pooling**
+
+- paper: [http://jmlr.org/proceedings/papers/v48/fernando16.html](http://jmlr.org/proceedings/papers/v48/fernando16.html)
+- summary(by Hugo Larochelle): [http://www.shortscience.org/paper?bibtexKey=conf/icml/FernandoG16#hlarochelle](http://www.shortscience.org/paper?bibtexKey=conf/icml/FernandoG16#hlarochelle)
 
 # Deep Learning’s Accuracy
 

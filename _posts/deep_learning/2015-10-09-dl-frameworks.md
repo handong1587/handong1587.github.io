@@ -415,7 +415,7 @@ for building Deep Learning (DL) machine learning (ML) models
 - benchmark: [https://github.com/soumith/convnet-benchmarks/issues/66](https://github.com/soumith/convnet-benchmarks/issues/66)
 - tutorial-zh: [https://github.com/jikexueyuanwiki/tensorflow-zh](https://github.com/jikexueyuanwiki/tensorflow-zh)
 
-## TensorDebugger(TDB)
+## TensorDebugger (TDB)
 
 **TensorDebugger(TDB): Interactive, node-by-node debugging and visualization for TensorFlow**
 

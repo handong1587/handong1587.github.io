@@ -26,6 +26,11 @@ date: 2015-10-09
 - github: [https://github.com/chdoig/dss-scaling-tutorial](https://github.com/chdoig/dss-scaling-tutorial)
 - slides: [https://speakerdeck.com/chdoig/scaling-ds-in-python](https://speakerdeck.com/chdoig/scaling-ds-in-python)
 
+**HackerMath: Introduction to Statistics and Basics of Mathematics for Data Science - The Hacker's Way**
+
+- intro: This is the repository for the full day workshop conducted at Fifth Elephant 2016 ([https://fifthelephant.in/2016/](https://fifthelephant.in/2016/))
+- github: [https://github.com/amitkaps/hackermath](https://github.com/amitkaps/hackermath)
+
 # Courses
 
 **General Assembly's Data Science course in Washington, DC**

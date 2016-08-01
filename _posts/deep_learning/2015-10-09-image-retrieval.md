@@ -97,6 +97,10 @@ date: 2015-10-09
 - paper: [http://cmp.felk.cvut.cz/~radenfil/publications/Radenovic-ECCV16.pdf](http://cmp.felk.cvut.cz/~radenfil/publications/Radenovic-ECCV16.pdf)
 - code(Matlab): [http://ptak.felk.cvut.cz/personal/radenfil/siamac/siaMAC_code.tar.gz](http://ptak.felk.cvut.cz/personal/radenfil/siamac/siaMAC_code.tar.gz)
 
+**SSDH: Semi-supervised Deep Hashing for Large Scale Image Retrieval**
+
+- arxiv: [http://arxiv.org/abs/1607.08477](http://arxiv.org/abs/1607.08477)
+
 # Blogs
 
 **Using Sketches to Search for Products Online**

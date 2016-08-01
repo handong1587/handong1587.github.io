@@ -85,6 +85,11 @@ date: 2015-10-09
 with the style of another image using convolutional neural networks
 - github: [https://github.com/SergeyMorugin/ostagram](https://github.com/SergeyMorugin/ostagram)
 
+**Exploring the Neural Algorithm of Artistic Style**
+
+- intro: A short class project report
+- arxiv: [http://arxiv.org/abs/1602.07188](http://arxiv.org/abs/1602.07188)
+
 **Perceptual Losses for Real-Time Style Transfer and Super-Resolution**
 
 - arxiv: [http://arxiv.org/abs/1603.08155](http://arxiv.org/abs/1603.08155)

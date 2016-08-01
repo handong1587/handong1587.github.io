@@ -36,3 +36,11 @@ date: 2015-10-09
 **A Multi-task Deep Network for Person Re-identification**
 
 - arxiv: [http://arxiv.org/abs/1607.05369](http://arxiv.org/abs/1607.05369)
+
+**Gated Siamese Convolutional Neural Network Architecture for Human Re-Identification**
+
+- arxiv: [http://arxiv.org/abs/1607.08378](http://arxiv.org/abs/1607.08378)
+
+**A Siamese Long Short-Term Memory Architecture for Human Re-Identification**
+
+- arxiv: [http://arxiv.org/abs/1607.08381](http://arxiv.org/abs/1607.08381)

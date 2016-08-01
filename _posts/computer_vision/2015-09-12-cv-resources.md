@@ -736,3 +736,9 @@ The size of their dataset is, however, limited by the availability of domain-spe
 **SIGGRAPH 2016 papers on the web**
 
 [http://kesen.realtimerendering.com/sig2016.html](http://kesen.realtimerendering.com/sig2016.html)
+
+# Resources
+
+**The Ultimate List of 300+ Computer Vision Resources**
+
+- blog: [https://hackerlists.com/computer-vision-resources/](https://hackerlists.com/computer-vision-resources/)

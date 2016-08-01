@@ -150,7 +150,7 @@ which continually runs and visualizes your code as you type
 
 - blog: [http://blog.petrzemek.net/2016/04/06/things-about-vim-i-wish-i-knew-earlier/](http://blog.petrzemek.net/2016/04/06/things-about-vim-i-wish-i-knew-earlier/)
 
-## Pwerful VIM config on Github
+## Powerful VIM config on Github
 
 **spf13-vim: The Ultimate Vim Distribution**
 
