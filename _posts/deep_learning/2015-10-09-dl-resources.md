@@ -222,6 +222,11 @@ testing it on the MNIST handwritten digits data.
 - intro: AE / SparseAE / DeepAE / ConvAE / UpconvAE / DenoisingAE / VAE / AdvAE
 - github: [https://github.com/Kaixhin/Autoencoders](https://github.com/Kaixhin/Autoencoders)
 
+**Tutorial on Variational Autoencoders**
+
+- arxiv: [http://arxiv.org/abs/1606.05908](http://arxiv.org/abs/1606.05908)
+- github: [https://github.com/cdoersch/vae_tutorial](https://github.com/cdoersch/vae_tutorial)
+
 # Semi-Supervised Learning
 
 **Semi-Supervised Learning with Graphs (Label Propagation)**
@@ -628,20 +633,11 @@ which encodes useful class information rather than individual units (feature act
 
 - arxiv: [http://arxiv.org/abs/1412.6806](http://arxiv.org/abs/1412.6806)
 
-**Highway Networks**
-
-- arxiv: [http://arxiv.org/abs/1505.00387](http://arxiv.org/abs/1505.00387)
-- blog("Highway Networks with TensorFlow"): [https://medium.com/jim-fleming/highway-networks-with-tensorflow-1e6dfa667daa#.71fgztsb6](https://medium.com/jim-fleming/highway-networks-with-tensorflow-1e6dfa667daa#.71fgztsb6)
-
 **Pointer Networks**
 
 - arxiv: [https://arxiv.org/abs/1506.03134](https://arxiv.org/abs/1506.03134)
 - github: [https://github.com/vshallc/PtrNets](https://github.com/vshallc/PtrNets)
 - notes: [https://github.com/dennybritz/deeplearning-papernotes/blob/master/notes/pointer-networks.md](https://github.com/dennybritz/deeplearning-papernotes/blob/master/notes/pointer-networks.md)
-
-**Very Deep Learning with Highway Networks**
-
-- homepage(papers+code+FAQ): [http://people.idsia.ch/~rupesh/very_deep_learning/](http://people.idsia.ch/~rupesh/very_deep_learning/)
 
 **Rectified Factor Networks**
 
@@ -656,10 +652,6 @@ which encodes useful class information rather than individual units (feature act
 
 - arxiv: [http://arxiv.org/abs/1504.07225](http://arxiv.org/abs/1504.07225)
 - github: [https://github.com/apsarath/CorrNet](https://github.com/apsarath/CorrNet)
-
-**Training Very Deep Networks (highway networks)**
-
-- arxiv: [http://arxiv.org/abs/1507.06228](http://arxiv.org/abs/1507.06228)
 
 **Diversity Networks**
 
@@ -697,8 +689,9 @@ with fast exact probabilistic inference over many layers."
 
 **A Theory of Generative ConvNet**
 
-- arxiv: [http://arxiv.org/abs/1602.03264](http://arxiv.org/abs/1602.03264)
 - project page: [http://www.stat.ucla.edu/~ywu/GenerativeConvNet/main.html](http://www.stat.ucla.edu/~ywu/GenerativeConvNet/main.html)
+- arxiv: [http://arxiv.org/abs/1602.03264](http://arxiv.org/abs/1602.03264)
+- code: [http://www.stat.ucla.edu/~ywu/GenerativeConvNet/doc/code.zip](http://www.stat.ucla.edu/~ywu/GenerativeConvNet/doc/code.zip)
 
 **Value Iteration Networks**
 
@@ -725,6 +718,7 @@ with fast exact probabilistic inference over many layers."
 **XNOR-Net: ImageNet Classification Using Binary Convolutional Neural Networks**
 
 - arxiv: [http://arxiv.org/abs/1603.05279](http://arxiv.org/abs/1603.05279)
+- github(Torch): [https://github.com/mrastegari/XNOR-Net](https://github.com/mrastegari/XNOR-Net)
 
 **Deeply-Fused Nets**
 
@@ -737,6 +731,21 @@ with fast exact probabilistic inference over many layers."
 **Convolutional Neural Fabrics**
 
 - arxiv: [http://arxiv.org/abs/1606.02492](http://arxiv.org/abs/1606.02492)
+
+## Highway Networks
+
+**Highway Networks**
+
+- arxiv: [http://arxiv.org/abs/1505.00387](http://arxiv.org/abs/1505.00387)
+- blog("Highway Networks with TensorFlow"): [https://medium.com/jim-fleming/highway-networks-with-tensorflow-1e6dfa667daa#.71fgztsb6](https://medium.com/jim-fleming/highway-networks-with-tensorflow-1e6dfa667daa#.71fgztsb6)
+
+**Very Deep Learning with Highway Networks**
+
+- homepage(papers+code+FAQ): [http://people.idsia.ch/~rupesh/very_deep_learning/](http://people.idsia.ch/~rupesh/very_deep_learning/)
+
+**Training Very Deep Networks (highway networks)**
+
+- arxiv: [http://arxiv.org/abs/1507.06228](http://arxiv.org/abs/1507.06228)
 
 ## Spatial Transformer Networks
 
@@ -1121,6 +1130,11 @@ Bicubic VS. Shepard CNN
 - keywords: CNN + LSTM
 - arxiv: [http://arxiv.org/abs/1503.08909](http://arxiv.org/abs/1503.08909)
 - demo: [http://pan.baidu.com/s/1eQ9zLZk](http://pan.baidu.com/s/1eQ9zLZk)
+
+**Efficient Large Scale Video Classification**
+
+- intro: Google
+- arxiv: [http://arxiv.org/abs/1505.06250](http://arxiv.org/abs/1505.06250)
 
 **Learning End-to-end Video Classification with Rank-Pooling**
 

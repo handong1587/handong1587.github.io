@@ -183,6 +183,10 @@ topmost feature map after knowing the confidences of the underlying object categ
 - github: [https://github.com/mitmul/chainer-faster-rcnn](https://github.com/mitmul/chainer-faster-rcnn)
 - github(Torch7): [https://github.com/andreaskoepf/faster-rcnn.torch](https://github.com/andreaskoepf/faster-rcnn.torch)
 
+**Faster R-CNN in MXNet with distributed implementation and data parallelization**
+
+- github: [https://github.com/dmlc/mxnet/tree/master/example/rcnn](https://github.com/dmlc/mxnet/tree/master/example/rcnn)
+
 ## YOLO
 
 **You Only Look Once: Unified, Real-Time Object Detection(YOLO)**

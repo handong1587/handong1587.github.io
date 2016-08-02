@@ -5,6 +5,10 @@ title: Keep Up With New Trends
 date: 2016-07-27
 ---
 
+**Montréal Deep Learning Summer School 2016**
+
+- material: [https://github.com/mila-udem/summerschool2016](https://github.com/mila-udem/summerschool2016)
+
 **10 Papers from ICML and CVPR**
 
 [https://leotam.github.io/general/2016/07/12/ICMLcVPR.html](https://leotam.github.io/general/2016/07/12/ICMLcVPR.html)

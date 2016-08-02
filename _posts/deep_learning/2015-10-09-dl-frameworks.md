@@ -354,7 +354,7 @@ for building Deep Learning (DL) machine learning (ML) models
 
 **Nervana’s Deep Learning Course**
 
-- homepag: [https://www.nervanasys.com/deep-learning-tutorials/](https://www.nervanasys.com/deep-learning-tutorials/)
+- homepage: [https://www.nervanasys.com/deep-learning-tutorials/](https://www.nervanasys.com/deep-learning-tutorials/)
 - github: [https://github.com/NervanaSystems/neon_course](https://github.com/NervanaSystems/neon_course)
 
 # OpenDeep
@@ -413,7 +413,6 @@ for building Deep Learning (DL) machine learning (ML) models
 - tutorial: [https://github.com/nlintz/TensorFlow-Tutorials](https://github.com/nlintz/TensorFlow-Tutorials)
 - stackoverflow: [https://stackoverflow.com/questions/tagged/tensorflow](https://stackoverflow.com/questions/tagged/tensorflow)
 - benchmark: [https://github.com/soumith/convnet-benchmarks/issues/66](https://github.com/soumith/convnet-benchmarks/issues/66)
-- tutorial-zh: [https://github.com/jikexueyuanwiki/tensorflow-zh](https://github.com/jikexueyuanwiki/tensorflow-zh)
 
 ## TensorDebugger (TDB)
 
@@ -474,6 +473,11 @@ for building Deep Learning (DL) machine learning (ML) models
 - arxiv: [http://arxiv.org/abs/1605.08695](http://arxiv.org/abs/1605.08695)
 
 ## Tutorials
+
+**TensorFlow 官方文档中文版**
+
+- tutorial-zh: [https://github.com/jikexueyuanwiki/tensorflow-zh](https://github.com/jikexueyuanwiki/tensorflow-zh)
+- homepage: [http://wiki.jikexueyuan.com/project/tensorflow-zh/](http://wiki.jikexueyuan.com/project/tensorflow-zh/)
 
 **LearningTensorFlow.com: A beginners guide to a powerful framework.**
 

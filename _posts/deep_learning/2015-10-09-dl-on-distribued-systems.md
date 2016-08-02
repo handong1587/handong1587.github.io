@@ -59,6 +59,12 @@ date: 2015-10-09
 - github: [https://github.com/yahoo/CaffeOnSpark](https://github.com/yahoo/CaffeOnSpark)
 - youtube: [https://www.youtube.com/watch?v=bqj7nML-aHk](https://www.youtube.com/watch?v=bqj7nML-aHk)
 
+## Tunnel
+
+**Tunnel: Data Driven Framework for Distributed Computing in Torch 7**
+
+- github: [https://github.com/zhangxiangxiao/tunnel](https://github.com/zhangxiangxiao/tunnel)
+
 # Videos
 
 **A Scalable Implementation of Deep Learning on Spark**

@@ -363,6 +363,10 @@ The project is dedicated to hero in life great Jesse Livermore.
 
 - github: [https://github.com/viswanathgs/dist-dqn](https://github.com/viswanathgs/dist-dqn)
 
+**Deep Reinforcement Learning for Keras**
+
+- github: [https://github.com/matthiasplappert/keras-rl](https://github.com/matthiasplappert/keras-rl)
+
 # Blogs
 
 **A Short Introduction To Some Reinforcement Learning Algorithms**
@@ -497,6 +501,10 @@ and together they truly represent a state-of-the-art of current reinforcement le
 **Deep Reinforcement Learning 深度增强学习资源**
 
 - blog: [https://zhuanlan.zhihu.com/p/20885568](https://zhuanlan.zhihu.com/p/20885568)
+
+**deep-reinforcement-learning-networks: A list of deep neural network architectures for reinforcement learning tasks**
+
+- github: [https://github.com/5vision/deep-reinforcement-learning-networks](https://github.com/5vision/deep-reinforcement-learning-networks)
 
 # Reading and Questions
 
