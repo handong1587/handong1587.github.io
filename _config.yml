@@ -14,7 +14,8 @@ encoding:     "utf-8"
 markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 textile_ext:  "textile"
 
-gems:         ['jekyll-paginate', 'jekyll-lunr-js-search']
+#gems:         ['jekyll-paginate', 'jekyll-lunr-js-search']
+gems:         ['jekyll-paginate']
 
 # Filtering Content
 show_drafts:  null
