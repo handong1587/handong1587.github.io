@@ -210,6 +210,10 @@ date: 2015-10-09
 
 ![](/assets/cnn-materials/conv.jpg)
 
+**Understanding Convolutions**
+
+- blog: [http://colah.github.io/posts/2014-07-Understanding-Convolutions/](http://colah.github.io/posts/2014-07-Understanding-Convolutions/)
+
 **Convolution in Caffe: a memo**
 
 - blog: [https://github.com/Yangqing/caffe/wiki/Convolution-in-Caffe:-a-memo](https://github.com/Yangqing/caffe/wiki/Convolution-in-Caffe:-a-memo)
@@ -268,6 +272,10 @@ date: 2015-10-09
 - paper: [http://www.nature.com/nature/journal/v323/n6088/pdf/323533a0.pdf](http://www.nature.com/nature/journal/v323/n6088/pdf/323533a0.pdf)
 - mirror: [http://pan.baidu.com/s/1bo30gHp](http://pan.baidu.com/s/1bo30gHp)
 - mirror: [http://pan.baidu.com/s/1kVfJ4of](http://pan.baidu.com/s/1kVfJ4of)
+
+**Calculus on Computational Graphs: Backpropagation**
+
+- blog: [http://colah.github.io/posts/2015-08-Backprop/](http://colah.github.io/posts/2015-08-Backprop/)
 
 **Convolutional Neural Networks backpropagation: from intuition to derivation**
 
