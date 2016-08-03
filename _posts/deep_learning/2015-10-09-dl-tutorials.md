@@ -202,6 +202,10 @@ date: 2015-10-09
 
 - blog: [https://medium.com/technologymadeeasy/the-best-explanation-of-convolutional-neural-networks-on-the-internet-fbb8b1ad5df8](https://medium.com/technologymadeeasy/the-best-explanation-of-convolutional-neural-networks-on-the-internet-fbb8b1ad5df8)
 
+**The Evolution and Core Concepts of Deep Learning & Neural Networks**
+
+- blog: [https://www.analyticsvidhya.com/blog/2016/08/evolution-core-concepts-deep-learning-neural-networks/](https://www.analyticsvidhya.com/blog/2016/08/evolution-core-concepts-deep-learning-neural-networks/)
+
 ## Convolution
 
 ![](/assets/cnn-materials/conv.jpg)
@@ -270,6 +274,10 @@ date: 2015-10-09
 ![](https://grzegorzgwardys.files.wordpress.com/2016/01/convolution-mlp-mapping.png?w=640)
 
 - blog: [https://grzegorzgwardys.wordpress.com/2016/04/22/8/](https://grzegorzgwardys.wordpress.com/2016/04/22/8/)
+
+**Styles of Truncated Backpropagation**
+
+- blog: [http://r2rt.com/styles-of-truncated-backpropagation.html](http://r2rt.com/styles-of-truncated-backpropagation.html)
 
 ## Caffe
 

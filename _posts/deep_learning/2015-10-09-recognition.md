@@ -1,7 +1,7 @@
 ---
 layout: post
 category: deep_learning
-title: Recognition
+title: Classification / Recognition
 date: 2015-10-09
 ---
 
@@ -36,6 +36,12 @@ date: 2015-10-09
 **From image recognition to object recognition**
 
 - blog: [https://www.oreilly.com/ideas/from-image-recognition-to-object-recognition](https://www.oreilly.com/ideas/from-image-recognition-to-object-recognition)
+
+## FisherNet
+
+**Deep FisherNet for Object Classification**
+
+- arxiv: [http://arxiv.org/abs/1608.00182](http://arxiv.org/abs/1608.00182)
 
 ## Multi-object Recognition
 
@@ -151,7 +157,7 @@ date: 2015-10-09
 
 **Semantic Clustering for Robust Fine-Grained Scene Recognition**
 
-- arxix: [http://arxiv.org/abs/1607.07614](http://arxiv.org/abs/1607.07614)
+- arxiv: [http://arxiv.org/abs/1607.07614](http://arxiv.org/abs/1607.07614)
 
 # Blogs
 

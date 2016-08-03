@@ -705,6 +705,11 @@ The size of their dataset is, however, limited by the availability of domain-spe
 
 - homepage: [https://developer.qualcomm.com/software/fastcv-sdk](https://developer.qualcomm.com/software/fastcv-sdk)
 
+**Video++, a C++14 high performance video and image processing library**
+
+- github: [https://github.com/matt-42/vpp](https://github.com/matt-42/vpp)
+- doc: [http://documentup.com/matt-42/vpp](http://documentup.com/matt-42/vpp)
+
 # Datasets
 
 **CVonline: Image Databases**
@@ -728,8 +733,8 @@ The size of their dataset is, however, limited by the availability of domain-spe
 
 **Exploring Computer Vision**
 
-- (Part I): Convolutional Neural Networks: [https://indico.io/blog/exploring-computer-vision-convolutional-neural-nets/](https://indico.io/blog/exploring-computer-vision-convolutional-neural-nets/)
-- (Part II): Transfer Learning: [https://indico.io/blog/exploring-computer-vision-transfer-learning/](https://indico.io/blog/exploring-computer-vision-transfer-learning/)
+- Part I: Convolutional Neural Networks: [https://indico.io/blog/exploring-computer-vision-convolutional-neural-nets/](https://indico.io/blog/exploring-computer-vision-convolutional-neural-nets/)
+- Part II: Transfer Learning: [https://indico.io/blog/exploring-computer-vision-transfer-learning/](https://indico.io/blog/exploring-computer-vision-transfer-learning/)
 
 # Conferences
 

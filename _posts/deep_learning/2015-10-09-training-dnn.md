@@ -151,6 +151,10 @@ date: 2015-10-09
 
 - blog: [https://kratzert.github.io/2016/02/12/understanding-the-gradient-flow-through-the-batch-normalization-layer.html](https://kratzert.github.io/2016/02/12/understanding-the-gradient-flow-through-the-batch-normalization-layer.html)
 
+**Implementing Batch Normalization in Tensorflow**
+
+- blog: [http://r2rt.com/implementing-batch-normalization-in-tensorflow.html](http://r2rt.com/implementing-batch-normalization-in-tensorflow.html)
+
 ## Layer Normalization
 
 **Layer Normalization**

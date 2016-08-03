@@ -523,6 +523,10 @@ for building Deep Learning (DL) machine learning (ML) models
 
 - github: [https://github.com/ppwwyyxx/tensorpack](https://github.com/ppwwyyxx/tensorpack)
 
+**Awesome Tensorflow Implementations**
+
+- github: [https://github.com/TensorFlowKR/awesome_tensorflow_implementations](https://github.com/TensorFlowKR/awesome_tensorflow_implementations)
+
 # Theano
 
 **Theano**

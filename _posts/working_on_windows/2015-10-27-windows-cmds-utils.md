@@ -54,6 +54,10 @@ dir /s /b /ad *.jpg > list.txt
 dir /s /b /a:-d *.mp4 *.mkv > list.txt
 ```
 
+**Arrays, linked lists and other data structures in cmd.exe (batch) script**
+
+[http://stackoverflow.com/questions/10166386/arrays-linked-lists-and-other-data-structures-in-cmd-exe-batch-script/10167990#10167990](http://stackoverflow.com/questions/10166386/arrays-linked-lists-and-other-data-structures-in-cmd-exe-batch-script/10167990#10167990)
+
 # Utilities
 
 **A Utility to Unassociate File Types in Windows 7 and Vista**

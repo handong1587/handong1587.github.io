@@ -333,6 +333,10 @@ Restricted Boltzmann Machine (RBM), Sparse Coding and Auto-encoder
 
 - blog: [http://www.nervanasys.com/transfer-learning-using-neon/](http://www.nervanasys.com/transfer-learning-using-neon/)
 
+**Hyperparameter Transfer Learning through Surrogate Alignment for Efficient Deep Neural Network Training**
+
+- arxiv: [http://arxiv.org/abs/1608.00218](http://arxiv.org/abs/1608.00218)
+
 # Multi What?
 
 ## Multi-label Learning
@@ -352,8 +356,8 @@ Restricted Boltzmann Machine (RBM), Sparse Coding and Auto-encoder
 
 **Learning with a Wasserstein Loss**
 
-- arxiv: [http://arxiv.org/abs/1506.05439](http://arxiv.org/abs/1506.05439)
 - project page: [http://cbcl.mit.edu/wasserstein/](http://cbcl.mit.edu/wasserstein/)
+- arxiv: [http://arxiv.org/abs/1506.05439](http://arxiv.org/abs/1506.05439)
 - code: [http://cbcl.mit.edu/wasserstein/yfcc100m_labels.tar.gz](http://cbcl.mit.edu/wasserstein/yfcc100m_labels.tar.gz)
 - MIT news: [http://news.mit.edu/2015/more-flexible-machine-learning-1001](http://news.mit.edu/2015/more-flexible-machine-learning-1001)
 
@@ -397,7 +401,7 @@ accuracy and the detection and localization accuracy of all tasks
 
 **Heterogeneous multi-task learning for human pose estimation with deep convolutional neural network**
 
-- paper: [http://120.52.73.9/www.cv-foundation.org/openaccess/content_cvpr_workshops_2014/W15/papers/LI_Heterogeneous_Multi-task_Learning_2014_CVPR_paper.pdf](http://120.52.73.9/www.cv-foundation.org/openaccess/content_cvpr_workshops_2014/W15/papers/LI_Heterogeneous_Multi-task_Learning_2014_CVPR_paper.pdf)
+- paper: [www.cv-foundation.org/openaccess/content_cvpr_workshops_2014/W15/papers/LI_Heterogeneous_Multi-task_Learning_2014_CVPR_paper.pdf](www.cv-foundation.org/openaccess/content_cvpr_workshops_2014/W15/papers/LI_Heterogeneous_Multi-task_Learning_2014_CVPR_paper.pdf)
 
 **Deep Joint Task Learning for Generic Object Extraction(NIPS2014)**
 
@@ -468,7 +472,7 @@ accuracy and the detection and localization accuracy of all tasks
 - arxiv: [http://arxiv.org/abs/1508.01292](http://arxiv.org/abs/1508.01292)
 - github: [https://github.com/Bkmz21/FD-Evaluation](https://github.com/Bkmz21/FD-Evaluation)
 
-## Bag of Words
+## Bag of Words (BoW)
 
 **Deep Learning Transcends the Bag of Words**
 
@@ -789,6 +793,12 @@ with fast exact probabilistic inference over many layers."
 - key word: copyright infringement cases, ownership attribution
 - arxiv: [http://arxiv.org/abs/1603.01068](http://arxiv.org/abs/1603.01068)
 
+**Build an AI Cat Chaser with Jetson TX1 and Caffe**
+
+![](https://devblogs.nvidia.com/parallelforall/wp-content/uploads/2016/07/cat1-2.jpeg)
+
+- blog: [https://devblogs.nvidia.com/parallelforall/ai-cat-chaser-jetson-tx1-caffe/](https://devblogs.nvidia.com/parallelforall/ai-cat-chaser-jetson-tx1-caffe/)
+
 ## Video2GIF
 
 **Video2GIF: Automatic Generation of Animated GIFs from Video (Robust Deep RankNet)**
@@ -1098,6 +1108,12 @@ Bicubic VS. Shepard CNN
 
 - arxiv: [http://arxiv.org/abs/1607.07680](http://arxiv.org/abs/1607.07680)
 
+**Accelerating the Super-Resolution Convolutional Neural Network**
+
+- intro: speed up of more than 40 times with even superior restoration quality, real-time performance on a generic CPU
+- project page: [http://mmlab.ie.cuhk.edu.hk/projects/FSRCNN.html](http://mmlab.ie.cuhk.edu.hk/projects/FSRCNN.html)
+- arxiv: [http://arxiv.org/abs/1608.00367](http://arxiv.org/abs/1608.00367)
+
 ## Image Haze Removal
 
 **DehazeNet: An End-to-End System for Single Image Haze Removal**
@@ -1117,6 +1133,15 @@ Bicubic VS. Shepard CNN
 **End-to-End Learning for Image Burst Deblurring**
 
 - arxiv: [http://arxiv.org/abs/1607.04433](http://arxiv.org/abs/1607.04433)
+
+# Depth Prediction
+
+**Deeper Depth Prediction with Fully Convolutional Residual Networks**
+
+![](https://camo.githubusercontent.com/eaee1af707b9ad2b2ac3b5be87de82fc590800d2/687474703a2f2f63616d7061722e696e2e74756d2e64652f66696c65732f7275707072656368742f6465707468707265642f696d616765732e6a7067)
+
+- arxiv: [https://arxiv.org/abs/1606.00373](https://arxiv.org/abs/1606.00373)
+- github: [https://github.com/iro-cp/FCRN-DepthPrediction](https://github.com/iro-cp/FCRN-DepthPrediction)
 
 ## Video Classification
 

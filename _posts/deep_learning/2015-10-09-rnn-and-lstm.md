@@ -306,16 +306,6 @@ date: 2015-10-09
 - arxiv: [http://arxiv.org/abs/1606.06216](http://arxiv.org/abs/1606.06216)
 - github: [https://github.com/ThomasMiconi/DiffRNN](https://github.com/ThomasMiconi/DiffRNN)
 
-**Recurrent Memory Array Structures**
-
-- arxiv: [https://arxiv.org/abs/1607.03085](https://arxiv.org/abs/1607.03085)
-- github: [https://github.com/krocki/ArrayLSTM](https://github.com/krocki/ArrayLSTM)
-
-**Recurrent Highway Networks**
-
-- author: Julian Georg Zilly, Rupesh Kumar Srivastava, Jan Koutník, Jürgen Schmidhuber
-- arxiv: [http://arxiv.org/abs/1607.03474](http://arxiv.org/abs/1607.03474)
-
 ## LSTMVis
 
 **Visual Analysis of Hidden State Dynamics in Recurrent Neural Networks**
@@ -326,6 +316,22 @@ date: 2015-10-09
 - demo: [http://lstm.seas.harvard.edu/client/index.html](http://lstm.seas.harvard.edu/client/index.html)
 - arxiv: [https://arxiv.org/abs/1606.07461](https://arxiv.org/abs/1606.07461)
 - github: [https://github.com/HendrikStrobelt/LSTMVis](https://github.com/HendrikStrobelt/LSTMVis)
+
+**Recurrent Memory Array Structures**
+
+- arxiv: [https://arxiv.org/abs/1607.03085](https://arxiv.org/abs/1607.03085)
+- github: [https://github.com/krocki/ArrayLSTM](https://github.com/krocki/ArrayLSTM)
+
+**Recurrent Highway Networks**
+
+- author: Julian Georg Zilly, Rupesh Kumar Srivastava, Jan Koutník, Jürgen Schmidhuber
+- arxiv: [http://arxiv.org/abs/1607.03474](http://arxiv.org/abs/1607.03474)
+
+## DeepSoft
+
+**DeepSoft: A vision for a deep model of software**
+
+- arxiv: [http://arxiv.org/abs/1608.00092](http://arxiv.org/abs/1608.00092)
 
 # Projects
 
@@ -468,6 +474,15 @@ date: 2015-10-09
 **Understanding Stateful LSTM Recurrent Neural Networks in Python with Keras**
 
 [http://machinelearningmastery.com/understanding-stateful-lstm-recurrent-neural-networks-python-keras/](http://machinelearningmastery.com/understanding-stateful-lstm-recurrent-neural-networks-python-keras/)
+
+**Recurrent Neural Networks in Tensorflow**
+
+- part I: [http://r2rt.com/recurrent-neural-networks-in-tensorflow-i.html](http://r2rt.com/recurrent-neural-networks-in-tensorflow-i.html)
+- part II: [http://r2rt.com/recurrent-neural-networks-in-tensorflow-ii.html](http://r2rt.com/recurrent-neural-networks-in-tensorflow-ii.html)
+
+**Written Memories: Understanding, Deriving and Extending the LSTM**
+
+[http://r2rt.com/written-memories-understanding-deriving-and-extending-the-lstm.html](http://r2rt.com/written-memories-understanding-deriving-and-extending-the-lstm.html)
 
 ## Optimizing RNN (Baidu Silicon Valley AI Lab)
 
