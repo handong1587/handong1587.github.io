@@ -109,6 +109,10 @@ Other awesome lists can be found in this [list](https://github.com/sindresorhus/
 
 [http://minimaxir.com/2015/09/bootstrap-resample/](http://minimaxir.com/2015/09/bootstrap-resample/)
 
+**Can we trust the bootstrap in high-dimension?**
+
+- arxiv: [http://arxiv.org/abs/1608.00696](http://arxiv.org/abs/1608.00696)
+
 # Cascades
 
 **Making faces with Haar cascades and mixed integer linear programming**

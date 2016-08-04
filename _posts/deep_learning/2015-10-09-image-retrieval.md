@@ -101,6 +101,10 @@ date: 2015-10-09
 
 - arxiv: [http://arxiv.org/abs/1607.08477](http://arxiv.org/abs/1607.08477)
 
+**PicHunt: Social Media Image Retrieval for Improved Law Enforcement**
+
+- arxiv: [http://arxiv.org/abs/1608.00905](http://arxiv.org/abs/1608.00905)
+
 # Blogs
 
 **Using Sketches to Search for Products Online**

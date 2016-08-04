@@ -799,6 +799,12 @@ with fast exact probabilistic inference over many layers."
 
 - blog: [https://devblogs.nvidia.com/parallelforall/ai-cat-chaser-jetson-tx1-caffe/](https://devblogs.nvidia.com/parallelforall/ai-cat-chaser-jetson-tx1-caffe/)
 
+**Automatic Image and Video Tagging**
+
+![](http://i2.wp.com/scottge.net/wp-content/uploads/2015/06/imagetagging.png?w=576)
+
+- blog: [http://scottge.net/2015/06/30/automatic-image-and-video-tagging/](http://scottge.net/2015/06/30/automatic-image-and-video-tagging/)
+
 ## Video2GIF
 
 **Video2GIF: Automatic Generation of Animated GIFs from Video (Robust Deep RankNet)**
@@ -892,6 +898,10 @@ Image Caption Generation, Automatic Game Playing
 **Peak-Piloted Deep Network for Facial Expression Recognition**
 
 - arxiv: [http://arxiv.org/abs/1607.06997](http://arxiv.org/abs/1607.06997)
+
+**Training Deep Networks for Facial Expression Recognition with Crowd-Sourced Label Distribution**
+
+- arxiv: [http://arxiv.org/abs/1608.01041](http://arxiv.org/abs/1608.01041)
 
 ## Attribution Prediction
 

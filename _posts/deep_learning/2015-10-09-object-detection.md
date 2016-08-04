@@ -189,7 +189,9 @@ topmost feature map after knowing the confidences of the underlying object categ
 
 ## YOLO
 
-**You Only Look Once: Unified, Real-Time Object Detection(YOLO)**
+**You Only Look Once: Unified, Real-Time Object Detection**
+
+![](https://camo.githubusercontent.com/e69d4118b20a42de4e23b9549f9a6ec6dbbb0814/687474703a2f2f706a7265646469652e636f6d2f6d656469612f66696c65732f6461726b6e65742d626c61636b2d736d616c6c2e706e67)
 
 - intro: YOLO uses the whole topmost feature map to predict both confidences for multiple categories and 
 bounding boxes (which are shared for these categories).
@@ -212,7 +214,7 @@ bounding boxes (which are shared for these categories).
 - demo: [http://pan.baidu.com/s/1mgoWWsS](http://pan.baidu.com/s/1mgoWWsS)
 - KITTI result: [http://www.cvlibs.net/datasets/kitti/eval_object.php](http://www.cvlibs.net/datasets/kitti/eval_object.php)
 
-**CVPR研讨会 | 余凯特邀报告：基于密集预测图的物体检测技术造就全球领先的ADAS系统**
+**CVPR研讨会 余凯特邀报告：基于密集预测图的物体检测技术造就全球领先的ADAS系统**
 
 - intro: DenseBox(V2)
 - blog: [https://mp.weixin.qq.com/s?__biz=MzI4ODAyNjU3MQ==&mid=2649827746&idx=1&sn=aa66524f964ac87d7437fc7b162f95a6&scene=1&srcid=0704uqAhpgy2fZQecXXLu6VN&pass_ticket=V7q2djnsZpyMQSJrOri0pR%2Bd%2Fi063dE5bK3kRigh1vPo%2B9yRU0Xm7cRvRNbzVgqF#rd](https://mp.weixin.qq.com/s?__biz=MzI4ODAyNjU3MQ==&mid=2649827746&idx=1&sn=aa66524f964ac87d7437fc7b162f95a6&scene=1&srcid=0704uqAhpgy2fZQecXXLu6VN&pass_ticket=V7q2djnsZpyMQSJrOri0pR%2Bd%2Fi063dE5bK3kRigh1vPo%2B9yRU0Xm7cRvRNbzVgqF#rd)
@@ -332,6 +334,45 @@ MSCOCO 2015 test:
 
 - intro: 640×480: 15 fps, 960×720: 8 fps
 - arxiv: [http://arxiv.org/abs/1607.07155](http://arxiv.org/abs/1607.07155)
+
+# Detection From Video
+
+**Analysing domain shift factors between videos and images for object detection**
+
+- arxiv: [https://arxiv.org/abs/1501.01186](https://arxiv.org/abs/1501.01186)
+
+## T-CNN
+
+**T-CNN: Tubelets with Convolutional Neural Networks for Object Detection from Videos**
+
+- arxiv: [http://arxiv.org/abs/1604.02532](http://arxiv.org/abs/1604.02532)
+- github: [https://github.com/myfavouritekk/T-CNN](https://github.com/myfavouritekk/T-CNN)
+
+**Object Detection from Video Tubelets with Convolutional Neural Networks**
+
+- intro: CVPR 2016 Spotlight paper
+- arxiv: [https://arxiv.org/abs/1604.04053](https://arxiv.org/abs/1604.04053)
+- paper: [http://www.ee.cuhk.edu.hk/~wlouyang/Papers/KangVideoDet_CVPR16.pdf](http://www.ee.cuhk.edu.hk/~wlouyang/Papers/KangVideoDet_CVPR16.pdf)
+- gihtub: [https://github.com/myfavouritekk/vdetlib](https://github.com/myfavouritekk/vdetlib)
+
+**Context Matters: Refining Object Detection in Video with Recurrent Neural Networks**
+
+- intro: BMVC 2016
+- keywords: pseudo-labeler
+- arxiv: [http://arxiv.org/abs/1607.04648](http://arxiv.org/abs/1607.04648)
+- paper: [http://vision.cornell.edu/se3/wp-content/uploads/2016/07/video_object_detection_BMVC.pdf](http://vision.cornell.edu/se3/wp-content/uploads/2016/07/video_object_detection_BMVC.pdf)
+
+**CNN Based Object Detection in Large Video Images**
+
+- intro: WangTao @ 爱奇艺
+- keywords: object retrieval, object detection, scene classification
+- slides: [http://on-demand.gputechconf.com/gtc/2016/presentation/s6362-wang-tao-cnn-based-object-detection-large-video-images.pdf](http://on-demand.gputechconf.com/gtc/2016/presentation/s6362-wang-tao-cnn-based-object-detection-large-video-images.pdf)
+
+# Datasets
+
+**YouTube-Objects dataset v2.2**
+
+- homepage: [http://calvin.inf.ed.ac.uk/datasets/youtube-objects-dataset/](http://calvin.inf.ed.ac.uk/datasets/youtube-objects-dataset/)
 
 # Salient Object Detection
 
@@ -494,31 +535,6 @@ This task involves predicting the salient regions of an image given by human eye
 **Deep Deformation Network for Object Landmark Localization**
 
 - arxiv: [http://arxiv.org/abs/1605.01014](http://arxiv.org/abs/1605.01014)
-
-# Detection From Video
-
-## T-CNN
-
-**T-CNN: Tubelets with Convolutional Neural Networks for Object Detection from Videos**
-
-- arxiv: [http://arxiv.org/abs/1604.02532](http://arxiv.org/abs/1604.02532)
-- github: [https://github.com/myfavouritekk/T-CNN](https://github.com/myfavouritekk/T-CNN)
-
-**Object Detection from Video Tubelets with Convolutional Neural Networks (CVPR 2016 Spotlight paper)**
-
-- arxiv: [https://arxiv.org/abs/1604.04053](https://arxiv.org/abs/1604.04053)
-- paper: [http://www.ee.cuhk.edu.hk/~wlouyang/Papers/KangVideoDet_CVPR16.pdf](http://www.ee.cuhk.edu.hk/~wlouyang/Papers/KangVideoDet_CVPR16.pdf)
-- gihtub: [https://github.com/myfavouritekk/vdetlib](https://github.com/myfavouritekk/vdetlib)
-
-**Context Matters: Refining Object Detection in Video with Recurrent Neural Networks**
-
-- arxiv: [http://arxiv.org/abs/1607.04648](http://arxiv.org/abs/1607.04648)
-
-**CNN Based Object Detection in Large Video Images**
-
-- intro: WangTao @ 爱奇艺
-- keywords: object retrieval, object detection, scene classification
-- slides: [http://on-demand.gputechconf.com/gtc/2016/presentation/s6362-wang-tao-cnn-based-object-detection-large-video-images.pdf](http://on-demand.gputechconf.com/gtc/2016/presentation/s6362-wang-tao-cnn-based-object-detection-large-video-images.pdf)
 
 # Object Proposal
 

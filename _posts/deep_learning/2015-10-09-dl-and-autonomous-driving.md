@@ -57,6 +57,18 @@ date: 2015-10-09
 - arxiv: [http://arxiv.org/abs/1509.05016](http://arxiv.org/abs/1509.05016)
 - github: [https://github.com/asheshjain399/RNNexp](https://github.com/asheshjain399/RNNexp)
 
+**Learning a Driving Simulator**
+
+![](http://research.comma.ai/images/selfsteer.gif)
+
+- project page: [http://research.comma.ai/](http://research.comma.ai/)
+- paper: [https://github.com/commaai/research/blob/master/paper/commalds.pdf](https://github.com/commaai/research/blob/master/paper/commalds.pdf)
+- github: [https://github.com/commaai/research](https://github.com/commaai/research)
+
+**Comma.ai open-sources the data it used for its first successful driverless trips**
+
+- blog: [https://techcrunch.com/2016/08/03/comma-ai-open-sources-the-data-it-used-for-its-first-successful-driverless-trips/](https://techcrunch.com/2016/08/03/comma-ai-open-sources-the-data-it-used-for-its-first-successful-driverless-trips/)
+
 # Projects
 
 **Caffe-Autopilot: Car autopilot software that uses C++, BVLC Caffe, OpenCV, and SFML**

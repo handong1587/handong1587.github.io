@@ -107,6 +107,10 @@ extract saptio-temporal features to represent the video using the CNNs."
 
 - arxiv: [http://arxiv.org/abs/1607.08584](http://arxiv.org/abs/1607.08584)
 
+**Temporal Segment Networks: Towards Good Practices for Deep Action Recognition**
+
+- arxiv: [http://arxiv.org/abs/1608.00859](http://arxiv.org/abs/1608.00859)
+
 # Projects
 
 **CUHK & ETH & SIAT Solution to ActivityNet Challenge 2016**

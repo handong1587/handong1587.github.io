@@ -16,6 +16,15 @@ date: 2015-10-09
 - code: [https://github.com/xiaolonw/nips14_loc_seg_testonly](https://github.com/xiaolonw/nips14_loc_seg_testonly)
 - dataset: [http://objectextraction.github.io/](http://objectextraction.github.io/)
 
+**U-Net: Convolutional Networks for Biomedical Image Segmentation**
+
+![](http://lmb.informatik.uni-freiburg.de/people/ronneber/u-net/u-net-architecture.png)
+
+- project page: [http://lmb.informatik.uni-freiburg.de/people/ronneber/u-net/](http://lmb.informatik.uni-freiburg.de/people/ronneber/u-net/)
+- arxiv: [http://arxiv.org/abs/1505.04597](http://arxiv.org/abs/1505.04597)
+- code+data: [http://lmb.informatik.uni-freiburg.de/people/ronneber/u-net/u-net-release-2015-10-02.tar.gz](http://lmb.informatik.uni-freiburg.de/people/ronneber/u-net/u-net-release-2015-10-02.tar.gz)
+- notes: [http://zongwei.leanote.com/post/Pa](http://zongwei.leanote.com/post/Pa)
+
 **Segmentation from Natural Language Expressions**
 
 ![](https://camo.githubusercontent.com/b3ad4ad6d83ceb6bf6b8f8346bc545ac6ae1fba1/687474703a2f2f7777772e656563732e6265726b656c65792e6564752f253745726f6e6768616e672f70726f6a656374732f746578745f6f626a7365672f746578745f6f626a7365675f64656d6f2e6a7067)
@@ -292,6 +301,10 @@ not very deep with only three convolution layers."
 **Multi-modal unsupervised feature learning for rgb-d scene labeling**
 
 - paper: [http://www3.ntu.edu.sg/home/wanggang/WangECCV2014.pdf](http://www3.ntu.edu.sg/home/wanggang/WangECCV2014.pdf)
+
+**Scene Labeling with LSTM Recurrent Neural Networks**
+
+- paper: [http://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Byeon_Scene_Labeling_With_2015_CVPR_paper.pdf](http://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Byeon_Scene_Labeling_With_2015_CVPR_paper.pdf)
 
 **Attend, Infer, Repeat: Fast Scene Understanding with Generative Models**
 

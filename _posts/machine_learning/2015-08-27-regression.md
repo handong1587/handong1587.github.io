@@ -69,3 +69,7 @@ date: 2015-08-27
 **What is Softmax regression and how is it related to Logistic regression?**
 
 -github: [https://github.com/rasbt/python-machine-learning-book/blob/master/faq/softmax_regression.md](https://github.com/rasbt/python-machine-learning-book/blob/master/faq/softmax_regression.md)
+
+**A Neat Trick to Increase Robustness of Regression Models**
+
+- blog: [https://blog.clevertap.com/a-neat-trick-to-increase-robustness-of-regression-models/](https://blog.clevertap.com/a-neat-trick-to-increase-robustness-of-regression-models/)
