@@ -107,16 +107,21 @@ extract saptio-temporal features to represent the video using the CNNs."
 
 - arxiv: [http://arxiv.org/abs/1607.08584](http://arxiv.org/abs/1607.08584)
 
-**Temporal Segment Networks: Towards Good Practices for Deep Action Recognition**
+## TSN
 
-- arxiv: [http://arxiv.org/abs/1608.00859](http://arxiv.org/abs/1608.00859)
-
-# Projects
-
-**CUHK & ETH & SIAT Solution to ActivityNet Challenge 2016**
+**CUHK & ETHZ & SIAT Submission to ActivityNet Challenge 2016**
 
 - intro: won the 1st place in the untrimmed video classification task of ActivityNet Challenge 2016
+- arxiv: [http://arxiv.org/abs/1608.00797](http://arxiv.org/abs/1608.00797)
 - github: [https://github.com/yjxiong/anet2016-cuhk](https://github.com/yjxiong/anet2016-cuhk)
+
+**Temporal Segment Networks: Towards Good Practices for Deep Action Recognition**
+
+- intro: ECCV 2016. HMDB51: 69.4%, UCF101: 94.2%
+- arxiv: [http://arxiv.org/abs/1608.00859](http://arxiv.org/abs/1608.00859)
+- github: [https://github.com/yjxiong/temporal-segment-networks](https://github.com/yjxiong/temporal-segment-networks)
+
+# Projects
 
 **A Torch Library for Action Recognition and Detection Using CNNs and LSTMs**
 

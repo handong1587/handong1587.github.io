@@ -462,6 +462,10 @@ for building Deep Learning (DL) machine learning (ML) models
 - github: [https://github.com/zsdonghao/tensorlayer](https://github.com/zsdonghao/tensorlayer)
 - docs: [http://tensorlayer.readthedocs.io/en/latest/](http://tensorlayer.readthedocs.io/en/latest/)
 
+**OpenCL support for TensorFlow**
+
+- github: [https://github.com/benoitsteiner/tensorflow-opencl](https://github.com/benoitsteiner/tensorflow-opencl)
+
 # Papers
 
 **TensorFlow: Large-Scale Machine Learning on Heterogeneous Distributed Systems**
