@@ -85,3 +85,8 @@ date: 2015-08-27
 ![](http://blog.kaggle.com/wp-content/uploads/2016/07/abhishek_2.png)
 
 - blog: [http://blog.kaggle.com/2016/07/21/approaching-almost-any-machine-learning-problem-abhishek-thakur/](http://blog.kaggle.com/2016/07/21/approaching-almost-any-machine-learning-problem-abhishek-thakur/)
+
+**Facebook V: Predicting Check Ins: I won the Kaggle competition!**
+
+- blog: [https://ttvand.github.io/Winning-approach-of-the-Facebook-V-Kaggle-competition/](https://ttvand.github.io/Winning-approach-of-the-Facebook-V-Kaggle-competition/)
+- github: [https://github.com/ttvand/Facebook-V](https://github.com/ttvand/Facebook-V)

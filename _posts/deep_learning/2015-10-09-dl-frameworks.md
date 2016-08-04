@@ -289,9 +289,17 @@ for building Deep Learning (DL) machine learning (ML) models
 
 - slides: [http://vdisk.weibo.com/s/z5dg0jVVHv2pn/1450157571](http://vdisk.weibo.com/s/z5dg0jVVHv2pn/1450157571)
 
+**Use Caffe operator in MXNet**
+
+- blog: [http://dmlc.ml/mxnet/2016/07/29/use-caffe-operator-in-mxnet.html](http://dmlc.ml/mxnet/2016/07/29/use-caffe-operator-in-mxnet.html)**
+
 **Deep Learning in a Single File for Smart Devices**
 
 [https://mxnet.readthedocs.org/en/latest/tutorial/smart_device.html](https://mxnet.readthedocs.org/en/latest/tutorial/smart_device.html)
+
+**MXNet Pascal Titan X benchmark**
+
+- blog: [http://dmlc.ml/mxnet/2016/08/03/mxnet-titanx-benchmark.html](http://dmlc.ml/mxnet/2016/08/03/mxnet-titanx-benchmark.html)
 
 **用MXnet实战深度学习之一:安装GPU版mxnet并跑一个MNIST手写数字识别**
 

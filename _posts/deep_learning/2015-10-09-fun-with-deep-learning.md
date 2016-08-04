@@ -447,6 +447,12 @@ Compressed model is less than 500KB
 - paper: [http://cslab1.bc.edu/~csacademics/pdf/16Mikami.pdf](http://cslab1.bc.edu/~csacademics/pdf/16Mikami.pdf)
 - github: [https://github.com/mikamia](https://github.com/mikamia)
 
+**BachBot: Use deep learning to generate and harmonize music in the style of Bach**
+
+- intro: BachBot is a research project utilizing long short term memory (LSTMs) to generate Bach compositions
+- homepage: [http://bachbot.com/](http://bachbot.com/)
+- github: [https://github.com/feynmanliang/bachbot](https://github.com/feynmanliang/bachbot)
+
 # Poetry
 
 **NeuralSnap: Generates poetry from images using convolutional and recurrent neural networks**
