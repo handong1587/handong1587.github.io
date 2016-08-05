@@ -453,6 +453,12 @@ control a spaceship in order to complete some objective.
 
 - github: [https://github.com/apfeltee/a2mp3](https://github.com/apfeltee/a2mp3)
 
+**eyeD3**
+
+- intro: a Python tool for working with audio files, specifically mp3 files containing ID3 metadata (i.e. song info).
+- homepage: [http://eyed3.nicfit.net/](http://eyed3.nicfit.net/)
+- installation: [http://eyed3.nicfit.net/installation.html](http://eyed3.nicfit.net/installation.html)
+
 ## Algorithm
 
 **Lean: a new open source theorem prover(Microsoft Research)**
