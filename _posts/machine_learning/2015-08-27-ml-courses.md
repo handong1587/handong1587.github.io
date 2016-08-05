@@ -159,6 +159,12 @@ with applications for model fitting and techniques for dealing with missing data
 - homepage: [https://www.cs.ox.ac.uk/teaching/courses/2015-2016/ml/](https://www.cs.ox.ac.uk/teaching/courses/2015-2016/ml/)
 - materials: [http://www.cs.ox.ac.uk/people/varun.kanade/teaching/ML-HT2016/index.html](http://www.cs.ox.ac.uk/people/varun.kanade/teaching/ML-HT2016/index.html)
 
+**CS273a: Introduction to Machine Learning**
+
+- homepage: [http://sli.ics.uci.edu/Classes/2015W-273a](http://sli.ics.uci.edu/Classes/2015W-273a)
+- youtube: [https://www.youtube.com/playlist?list=PLaXDtXvwY-oDvedS3f4HW0b4KxqpJ_imw](https://www.youtube.com/playlist?list=PLaXDtXvwY-oDvedS3f4HW0b4KxqpJ_imw)
+- course notes: [http://sli.ics.uci.edu/Classes-CS178-Notes/Classes-CS178-Notes](http://sli.ics.uci.edu/Classes-CS178-Notes/Classes-CS178-Notes)
+
 ## Machine Learning on Distributed System
 
 **Distributed Machine Learning with Apache Spark**

@@ -315,6 +315,13 @@ not very deep with only three convolution layers."
 
 - youtube: [https://www.youtube.com/watch?v=pQ318oCGJGY](https://www.youtube.com/watch?v=pQ318oCGJGY)
 
+# Segmentation From Video
+
+**Fast object segmentation in unconstrained video**
+
+- project page: [http://calvin.inf.ed.ac.uk/software/fast-video-segmentation/](http://calvin.inf.ed.ac.uk/software/fast-video-segmentation/)
+- paper: [http://calvin.inf.ed.ac.uk/wp-content/uploads/Publications/papazoglouICCV2013-camera-ready.pdf](http://calvin.inf.ed.ac.uk/wp-content/uploads/Publications/papazoglouICCV2013-camera-ready.pdf)
+
 ## Benchmarks
 
 **Semantic Understanding of Urban Street Scenes: Benchmark Suite**

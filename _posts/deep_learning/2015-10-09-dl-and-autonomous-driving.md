@@ -62,6 +62,7 @@ date: 2015-10-09
 ![](http://research.comma.ai/images/selfsteer.gif)
 
 - project page: [http://research.comma.ai/](http://research.comma.ai/)
+- arxiv: [http://arxiv.org/abs/1608.01230](http://arxiv.org/abs/1608.01230)
 - paper: [https://github.com/commaai/research/blob/master/paper/commalds.pdf](https://github.com/commaai/research/blob/master/paper/commalds.pdf)
 - github: [https://github.com/commaai/research](https://github.com/commaai/research)
 

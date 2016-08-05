@@ -370,6 +370,10 @@ Restricted Boltzmann Machine (RBM), Sparse Coding and Auto-encoder
 
 - arxiv: [http://arxiv.org/abs/1604.04573](http://arxiv.org/abs/1604.04573)
 
+**Improving Multi-label Learning with Missing Labels by Structured Semantic Correlations**
+
+- arxiv: [http://arxiv.org/abs/1608.01441](http://arxiv.org/abs/1608.01441)
+
 ## Multi-task Learning
 
 **Multitask Learning / Domain Adaptation**
@@ -736,6 +740,10 @@ with fast exact probabilistic inference over many layers."
 
 - arxiv: [http://arxiv.org/abs/1606.02492](http://arxiv.org/abs/1606.02492)
 
+**Holistic SparseCNN: Forging the Trident of Accuracy, Speed, and Size**
+
+- arxiv: [http://arxiv.org/abs/1608.01409](http://arxiv.org/abs/1608.01409)
+
 ## Highway Networks
 
 **Highway Networks**
@@ -869,7 +877,7 @@ Image Caption Generation, Automatic Game Playing
 
 - paper: [http://120.52.73.9/www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Wang_Recurrent_Face_Aging_CVPR_2016_paper.pdf](http://120.52.73.9/www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Wang_Recurrent_Face_Aging_CVPR_2016_paper.pdf)
 
-## Emotion Recognition
+## Emotion / Expression Recognition
 
 **Real-time emotion recognition for gaming using deep convolutional network features**
 
@@ -902,6 +910,10 @@ Image Caption Generation, Automatic Game Playing
 **Training Deep Networks for Facial Expression Recognition with Crowd-Sourced Label Distribution**
 
 - arxiv: [http://arxiv.org/abs/1608.01041](http://arxiv.org/abs/1608.01041)
+
+**A Recursive Framework for Expression Recognition: From Web Images to Deep Models to Game Dataset**
+
+ -arxiv: [http://arxiv.org/abs/1608.01647](http://arxiv.org/abs/1608.01647)
 
 ## Attribution Prediction
 

@@ -82,6 +82,8 @@ topmost feature map after knowing the confidences of the underlying object categ
 |:------------:|:----------:|:-------------:|
 |DeepID-Net    |64.1%       |50.3%          |
 
+- intro: an extension of R-CNN
+- keywords: box pre-training, cascade on region proposals, deformation layers and context representations
 - arxiv: [http://arxiv.org/abs/1412.5661](http://arxiv.org/abs/1412.5661)
 
 **Object Detectors Emerge in Deep Scene CNNs**
@@ -301,6 +303,22 @@ MSCOCO 2015 test:
 - intro: Facebook AI Research (FAIR)
 - arxiv: [http://arxiv.org/abs/1604.02135](http://arxiv.org/abs/1604.02135)
 
+## CRAFT
+
+**CRAFT Objects from Images**
+
+![](http://byangderek.github.io/projects/craft/approach.png)
+
+|   Method   |  VOC2007  |  VOC2012  |   ILSVRC   |
+|:----------:|:---------:|:---------:|:----------:|
+|   CRAFT    |   75.7    |   71.3    |    48.5    |
+
+- intro: CVPR 2016. Cascade Region-proposal-network And FasT-rcnn. an extension of Faster R-CNN
+- project page: [http://byangderek.github.io/projects/craft.html](http://byangderek.github.io/projects/craft.html)
+- arxiv: [https://arxiv.org/abs/1604.03239](https://arxiv.org/abs/1604.03239)
+- paper: [http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Yang_CRAFT_Objects_From_CVPR_2016_paper.pdf](http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Yang_CRAFT_Objects_From_CVPR_2016_paper.pdf)
+- github: [https://github.com/byangderek/CRAFT](https://github.com/byangderek/CRAFT)
+
 **Training Region-based Object Detectors with Online Hard Example Mining**
 
 - arxiv: [http://arxiv.org/abs/1604.03540](http://arxiv.org/abs/1604.03540)
@@ -337,6 +355,11 @@ MSCOCO 2015 test:
 
 # Detection From Video
 
+**Learning Object Class Detectors from Weakly Annotated Video**
+
+- intro: CVPR 2012
+- paper: [https://www.vision.ee.ethz.ch/publications/papers/proceedings/eth_biwi_00905.pdf](https://www.vision.ee.ethz.ch/publications/papers/proceedings/eth_biwi_00905.pdf)
+
 **Analysing domain shift factors between videos and images for object detection**
 
 - arxiv: [https://arxiv.org/abs/1501.01186](https://arxiv.org/abs/1501.01186)
@@ -345,6 +368,7 @@ MSCOCO 2015 test:
 
 **T-CNN: Tubelets with Convolutional Neural Networks for Object Detection from Videos**
 
+- intro: Winning solution in ILSVRC2015 Object Detection from Video(VID) Task
 - arxiv: [http://arxiv.org/abs/1604.02532](http://arxiv.org/abs/1604.02532)
 - github: [https://github.com/myfavouritekk/T-CNN](https://github.com/myfavouritekk/T-CNN)
 
@@ -354,6 +378,12 @@ MSCOCO 2015 test:
 - arxiv: [https://arxiv.org/abs/1604.04053](https://arxiv.org/abs/1604.04053)
 - paper: [http://www.ee.cuhk.edu.hk/~wlouyang/Papers/KangVideoDet_CVPR16.pdf](http://www.ee.cuhk.edu.hk/~wlouyang/Papers/KangVideoDet_CVPR16.pdf)
 - gihtub: [https://github.com/myfavouritekk/vdetlib](https://github.com/myfavouritekk/vdetlib)
+
+**Object Detection in Videos with Tubelets and Multi-context Cues**
+
+- intro: SenseTime Group
+- slides: [http://www.ee.cuhk.edu.hk/~xgwang/CUvideo.pdf](http://www.ee.cuhk.edu.hk/~xgwang/CUvideo.pdf)
+- slides: [http://image-net.org/challenges/talks/Object%20Detection%20in%20Videos%20with%20Tubelets%20and%20Multi-context%20Cues%20-%20Final.pdf](http://image-net.org/challenges/talks/Object%20Detection%20in%20Videos%20with%20Tubelets%20and%20Multi-context%20Cues%20-%20Final.pdf)
 
 **Context Matters: Refining Object Detection in Video with Recurrent Neural Networks**
 

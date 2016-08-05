@@ -50,6 +50,10 @@ date: 2015-10-09
 
 - blog: [http://www.pyimagesearch.com/2016/06/13/considerations-when-setting-up-deep-learning-hardware/](http://www.pyimagesearch.com/2016/06/13/considerations-when-setting-up-deep-learning-hardware/)
 
+**Building a Workstation for Deep Learning**
+
+- slides: [http://www.slideshare.net/PetteriTeikariPhD/deep-learning-workstation](http://www.slideshare.net/PetteriTeikariPhD/deep-learning-workstation)
+
 # GPU
 
 **Which GPU(s) to Get for Deep Learning: My Experience and Advice for Using GPUs in Deep Learning**
