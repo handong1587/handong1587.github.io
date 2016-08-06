@@ -66,10 +66,6 @@ extract saptio-temporal features to represent the video using the CNNs."
 
 - arxiv: [http://arxiv.org/abs/1603.06829](http://arxiv.org/abs/1603.06829)
 
-**ActivityNet: A Large-Scale Video Benchmark for Human Activity Understanding**
-
-- homepage: [http://activity-net.org/](http://activity-net.org/)
-
 **Active Learning for Online Recognition of Human Activities from Streaming Videos**
 
 - arxiv: [http://arxiv.org/abs/1604.02855](http://arxiv.org/abs/1604.02855)
@@ -131,7 +127,57 @@ extract saptio-temporal features to represent the video using the CNNs."
 
 # Datasets
 
+|   Dataset         |  videos                               |  categories  |
+|:-----------------:|:-------------------------------------:|:------------:|
+|  UCF101           | 13320                                 | 101          |
+|  HMDB51           | 7000                                  | 51           |
+|  ActivityNet 200  | 10024(train) + 4926(val) + 5044(test) | 200          |
+|  Sports-1M        | 100000                                | 487          |
+|  Charades         | 9848                                  | 157          |
+
+**UCF101 - Action Recognition Data Set**
+
+![](http://crcv.ucf.edu/data/UCF101/UCF101.jpg)
+
+- homepage: [http://crcv.ucf.edu/data/UCF101.php](http://crcv.ucf.edu/data/UCF101.php)
+
+**HMDB51: A Large Video Database for Human Motion Recognition**
+
+- homepage: [http://serre-lab.clps.brown.edu/resource/hmdb-a-large-human-motion-database/](http://serre-lab.clps.brown.edu/resource/hmdb-a-large-human-motion-database/)
+
+**ActivityNet: A Large-Scale Video Benchmark for Human Activity Understanding**
+
+- homepage: [http://activity-net.org/](http://activity-net.org/)
+- download: [http://activity-net.org/download.html](http://activity-net.org/download.html)
+- github: [https://github.com/activitynet](https://github.com/activitynet)
+
+**Sports-1M**
+
+- homepage: [https://github.com/gtoderici/sports-1m-dataset/blob/wiki/ProjectHome.md](https://github.com/gtoderici/sports-1m-dataset/blob/wiki/ProjectHome.md)
+- github: [https://github.com/gtoderici/sports-1m-dataset/](https://github.com/gtoderici/sports-1m-dataset/)
+- thumbnails: [http://cs.stanford.edu/people/karpathy/deepvideo/classes.html](http://cs.stanford.edu/people/karpathy/deepvideo/classes.html)
+
 **Charades Dataset**
 
 - intro: This dataset guides our research into unstructured video activity recogntion and commonsense reasoning for daily human activities.
+- intro: The dataset contains 66,500 temporal annotations for 157 action classes, 
+41,104 labels for 46 object classes, and 27,847 textual descriptions of the videos.
 - homepage: [http://allenai.org/plato/charades/](http://allenai.org/plato/charades/)
+
+# Challenges
+
+**THUMOS Challenge 2014**
+
+- homepage: [http://crcv.ucf.edu/THUMOS14/home.html](http://crcv.ucf.edu/THUMOS14/home.html)
+- download: [http://crcv.ucf.edu/THUMOS14/download.html](http://crcv.ucf.edu/THUMOS14/download.html)
+
+**THUMOS Challenge 2015**
+
+- homepage: [http://www.thumos.info/](http://www.thumos.info/)
+- download: [http://www.thumos.info/download.html](http://www.thumos.info/download.html)
+
+**ActivityNet Challenge 2016**
+
+![](http://activity-net.org/challenges/2016/images/anet_cover.png)
+
+- homepage: [http://activity-net.org/challenges/2016/](http://activity-net.org/challenges/2016/)
