@@ -159,12 +159,6 @@ date: 2015-10-09
 
 - arxiv: [http://arxiv.org/abs/1607.07614](http://arxiv.org/abs/1607.07614)
 
-# Video Object Recognition
-
-**Video Object Recognition**
-
-- slides: [http://vision.princeton.edu/courses/COS598/2015sp/slides/VideoRecog/Video%20Object%20Recognition.pptx](http://vision.princeton.edu/courses/COS598/2015sp/slides/VideoRecog/Video%20Object%20Recognition.pptx)
-
 # Blogs
 
 **What is the class of this image ? - Discover the current state of the art in objects classification**

@@ -364,6 +364,10 @@ MSCOCO 2015 test:
 
 - arxiv: [https://arxiv.org/abs/1501.01186](https://arxiv.org/abs/1501.01186)
 
+**Video Object Recognition**
+
+- slides: [http://vision.princeton.edu/courses/COS598/2015sp/slides/VideoRecog/Video%20Object%20Recognition.pptx](http://vision.princeton.edu/courses/COS598/2015sp/slides/VideoRecog/Video%20Object%20Recognition.pptx)
+
 ## T-CNN
 
 **T-CNN: Tubelets with Convolutional Neural Networks for Object Detection from Videos**
