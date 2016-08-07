@@ -227,6 +227,11 @@ testing it on the MNIST handwritten digits data.
 - arxiv: [http://arxiv.org/abs/1606.05908](http://arxiv.org/abs/1606.05908)
 - github: [https://github.com/cdoersch/vae_tutorial](https://github.com/cdoersch/vae_tutorial)
 
+**Variational Autoencoders Explained**
+
+- blog: [http://kvfrans.com/variational-autoencoders-explained/](http://kvfrans.com/variational-autoencoders-explained/)
+- github: [https://github.com/kvfrans/variational-autoencoder](https://github.com/kvfrans/variational-autoencoder)
+
 # Semi-Supervised Learning
 
 **Semi-Supervised Learning with Graphs (Label Propagation)**
@@ -1188,6 +1193,13 @@ Bicubic VS. Shepard CNN
 - paper: [http://jmlr.org/proceedings/papers/v48/fernando16.html](http://jmlr.org/proceedings/papers/v48/fernando16.html)
 - summary(by Hugo Larochelle): [http://www.shortscience.org/paper?bibtexKey=conf/icml/FernandoG16#hlarochelle](http://www.shortscience.org/paper?bibtexKey=conf/icml/FernandoG16#hlarochelle)
 
+## Music Tagging
+
+**Automatic tagging using deep convolutional neural networks**
+
+- arxiv: [https://arxiv.org/abs/1606.00298](https://arxiv.org/abs/1606.00298)
+- github: [https://github.com/keunwoochoi/music-auto_tagging-keras](https://github.com/keunwoochoi/music-auto_tagging-keras)
+
 # Deep Learning’s Accuracy
 
 - blog: [http://deeplearning4j.org/accuracy.html](http://deeplearning4j.org/accuracy.html)
@@ -1350,6 +1362,10 @@ Bicubic VS. Shepard CNN
 **Convolutional Neural Networks Analyzed via Convolutional Sparse Coding**
 
 - arxiv: [http://arxiv.org/abs/1607.08194](http://arxiv.org/abs/1607.08194)
+
+**Recent Advances in Convolutional Neural Networks**
+
+- arxiv: [http://arxiv.org/abs/1512.07108](http://arxiv.org/abs/1512.07108)
 
 ## STDP
 

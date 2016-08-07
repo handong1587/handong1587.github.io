@@ -107,3 +107,7 @@ date: 2015-10-09
 **Deep Learning with Apache Spark and TensorFlow**
 
 [https://databricks.com/blog/2016/01/25/deep-learning-with-apache-spark-and-tensorflow.html](https://databricks.com/blog/2016/01/25/deep-learning-with-apache-spark-and-tensorflow.html)
+
+**Deeplearning4j on Spark**
+
+[http://deeplearning4j.org/spark](http://deeplearning4j.org/spark)

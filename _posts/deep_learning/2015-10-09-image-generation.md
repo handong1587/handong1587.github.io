@@ -209,6 +209,10 @@ date: 2015-10-09
 - github: [https://github.com/llSourcell/Generative-Adversarial-Network-Demo](https://github.com/llSourcell/Generative-Adversarial-Network-Demo)
 - demo: [http://cs.stanford.edu/people/karpathy/gan/](http://cs.stanford.edu/people/karpathy/gan/)
 
+**Generative Adversial Networks Explained**
+
+- blog: [http://kvfrans.com/generative-adversial-networks-explained/](http://kvfrans.com/generative-adversial-networks-explained/)
+
 # Projects
 
 **Generate cat images with neural networks**

@@ -8,6 +8,8 @@ date: 2016-07-27
 **Montréal Deep Learning Summer School 2016**
 
 - material: [https://github.com/mila-udem/summerschool2016](https://github.com/mila-udem/summerschool2016)
+- slides: [https://sites.google.com/site/deeplearningsummerschool2016/speakers](https://sites.google.com/site/deeplearningsummerschool2016/speakers)
+- mirror: [http://pan.baidu.com/s/1kUWrWI7](http://pan.baidu.com/s/1kUWrWI7)
 
 **10 Papers from ICML and CVPR**
 
