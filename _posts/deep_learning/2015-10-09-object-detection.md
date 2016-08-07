@@ -5,6 +5,25 @@ title: Object Detection
 date: 2015-10-09
 ---
 
+| Method              | VOC2007     | VOC2010     | VOC2012     | ILSVRC 2013 | MSCOCO 2015 | Speed       |
+|:-------------------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
+| OverFeat            |             |             |             | 24.3%       |             |             |
+| R-CNN(AlexNet)      | 58.5%       | 53.7%       | 53.3%       | 31.4%       |             |             |
+| R-CNN               | 59.2%(ZFNet), 66.0%(VGG16) | |          |             |             |             |
+| SPP_net(ZF-5)       | 54.2%(1-model), 60.9%(2-model) | | |31.84%(1-model), 35.11%(6-model) |            |
+| DeepID-Net          | 64.1%       |             |             | 50.3%       |             |             |
+| NoC                 | 73.3%       |             | 68.8%       |             |             |             |
+| Fast-RCNN (VGG16)   | 70.0%       | 68.8%       | 68.4%       |             |             |             |
+| MR-CNN              | 78.2%       |             | 73.9%       |             |             |             |
+| Faster-RCNN (VGG16) | 69.9%/(07), 73.2%/(07+12), 78.8%/(COCO+07+12) | | 67.0%/(12), 70.4%/(07++12), 75.9%/(COCO+07++12) | | | 198ms |
+| SSD300 (VGG16)      | 72.1%       |             |             |             |             | 58 fps      |
+| SSD500 (VGG16)      | 75.1%       |             |             |             |             | 23 fps      | 
+| ION                 | 79.2%/(07+12+S) |       | 76.4%/(07+12+S)|            |             |             |
+| AZ-Net              | 70.4%       |             |             |             | 22.3%, 41.0%(IoU=0.5) |   |
+| CRAFT               | 75.7%       |             |  71.3%      |    48.5%    |             |             |
+| R-FCN (ResNet-50)   | 77.4%(07+12)|             |             |             |             | 0.12sec(K40), 0.09sec(Titian X) |
+| R-FCN (ResNet-101)  | 79.5%(07+12)|             |             |             |             | 0.17sec(K40), 0.12sec(Titian X) |
+
 # Papers
 
 **Deep Neural Networks for Object Detection**
@@ -12,10 +31,6 @@ date: 2015-10-09
 - paper: [http://papers.nips.cc/paper/5207-deep-neural-networks-for-object-detection.pdf](http://papers.nips.cc/paper/5207-deep-neural-networks-for-object-detection.pdf)
 
 **OverFeat: Integrated Recognition, Localization and Detection using Convolutional Networks**
-
-|  method  |ILSVRC 2013 mAP|
-|:--------:|:-------------:|
-|OverFeat  |24.3%          |
 
 - intro: A deep version of the sliding window method, predicts bounding box directly from each location of the 
 topmost feature map after knowing the confidences of the underlying object categories.
@@ -26,14 +41,6 @@ topmost feature map after knowing the confidences of the underlying object categ
 ## R-CNN
 
 **Rich feature hierarchies for accurate object detection and semantic segmentation(R-CNN)**
-
-|method                |VOC 2007 mAP|VOC 2010 mAP|VOC 2012 mAP|ILSVRC 2013 mAP|
-|:--------------------:|:----------:|:----------:|:----------:|:-------------:|
-|R-CNN,AlexNet         |54.2%       |50.2%       |49.6%       |               |
-|R-CNN,bbox reg,AlexNet|58.5%       |53.7%       |53.3%       |31.4%          |
-|R-CNN,bbox reg,ZFNet  |59.2%       |            |            |               |
-|R-CNN,VGG-Net         |62.2%       |            |            |               |
-|R-CNN,bbox reg,VGG-Net|66.0%       |            |            |               |
 
 - arxiv: [http://arxiv.org/abs/1311.2524](http://arxiv.org/abs/1311.2524)
 - supp: [http://people.eecs.berkeley.edu/~rbg/papers/r-cnn-cvpr-supp.pdf](http://people.eecs.berkeley.edu/~rbg/papers/r-cnn-cvpr-supp.pdf)
@@ -60,12 +67,6 @@ topmost feature map after knowing the confidences of the underlying object categ
 
 **Spatial Pyramid Pooling in Deep Convolutional Networks for Visual Recognition**
 
-|method               |VOC 2007 mAP|ILSVRC 2013 mAP|
-|:-------------------:|:----------:|:-------------:|
-|SPP_net(ZF-5),1-model|54.2%       |31.84%         |
-|SPP_net(ZF-5),2-model|60.9%       |               |
-|SPP_net(ZF-5),6-model|            |35.11%         |
-
 - arxiv: [http://arxiv.org/abs/1406.4729](http://arxiv.org/abs/1406.4729)
 - github: [https://github.com/ShaoqingRen/SPP_net](https://github.com/ShaoqingRen/SPP_net)
 - notes: [http://zhangliliang.com/2014/09/13/paper-note-sppnet/](http://zhangliliang.com/2014/09/13/paper-note-sppnet/)
@@ -77,10 +78,6 @@ topmost feature map after knowing the confidences of the underlying object categ
 ## DeepID-Net
 
 **DeepID-Net: Deformable Deep Convolutional Neural Networks for Object Detection**
-
-|method        |VOC 2007 mAP|ILSVRC 2013 mAP|
-|:------------:|:----------:|:-------------:|
-|DeepID-Net    |64.1%       |50.3%          |
 
 - intro: an extension of R-CNN
 - keywords: box pre-training, cascade on region proposals, deformation layers and context representations
@@ -95,13 +92,7 @@ topmost feature map after knowing the confidences of the underlying object categ
 
 **Object Detection Networks on Convolutional Feature Maps**
 
-|method    |Trained on |mAP       |
-|:--------:|:---------:|:--------:|
-|NoC       |07+12      |68.8%     |
-|NoC,bb    |07+12      |71.6%     |
-|NoC,+EB   |07+12      |71.8%     |
-|NoC,+EB,bb|07+12      |73.3%     |
-
+- intro: NoC
 - arxiv: [http://arxiv.org/abs/1504.06066](http://arxiv.org/abs/1504.06066)
 
 **Improving Object Detection with Deep Convolutional Networks via Bayesian Optimization and Structured Prediction**
@@ -113,21 +104,6 @@ topmost feature map after knowing the confidences of the underlying object categ
 ## Fast R-CNN
 
 **Fast R-CNN**
-
-|method    |data |VOC 2007 mAP|
-|:--------:|:---:|:----------:|
-|FRCN,VGG16|07   |66.9%       |
-|FRCN,VGG16|07+12|70.0%       |
-
-|method    |data  |VOC 2010 mAP|
-|:--------:|:----:|:----------:|
-|FRCN,VGG16|12    |66.1%       |
-|FRCN,VGG16|07++12|68.8%       |
-
-|method    |data  |VOC 2012 mAP|
-|:--------:|:----:|:----------:|
-|FRCN,VGG16|12    |65.7%       |
-|FRCN,VGG16|07++12|68.4%       |
 
 - arxiv: [http://arxiv.org/abs/1504.08083](http://arxiv.org/abs/1504.08083)
 - slides: [http://tutorial.caffe.berkeleyvision.org/caffe-cvpr15-detection.pdf](http://tutorial.caffe.berkeleyvision.org/caffe-cvpr15-detection.pdf)
@@ -151,16 +127,6 @@ topmost feature map after knowing the confidences of the underlying object categ
 
 **Object detection via a multi-region & semantic segmentation-aware CNN model (MR-CNN)**
 
-|Model     |Trained on|VOC 2007 mAP|
-|:--------:|:--------:|:----------:|
-|VGG-net   |07+12     |78.2%       |
-|VGG-net   |07        |74.9%       |
-
-|Model     |Trained on|VOC 2012 mAP|
-|:--------:|:--------:|:----------:|
-|VGG-net   |07+12     |73.9%       |
-|VGG-net   |12        |70.7%       |
-
 - arxiv: [http://arxiv.org/abs/1505.01749](http://arxiv.org/abs/1505.01749)
 - github: [https://github.com/gidariss/mrcnn-object-detection](https://github.com/gidariss/mrcnn-object-detection)
 - notes: [http://zhangliliang.com/2015/05/17/paper-note-ms-cnn/](http://zhangliliang.com/2015/05/17/paper-note-ms-cnn/)
@@ -169,15 +135,6 @@ topmost feature map after knowing the confidences of the underlying object categ
 ## Faster R-CNN
 
 **Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks(NIPS 2015)**
-
-|                   |training data|test data    |mAP  |time/img|
-|:-----------------:|:-----------:|:-----------:|:---:|:------:|
-|Faster RCNN, VGG-16|07           |VOC 2007 test|69.9%|198ms   |
-|Faster RCNN, VGG-16|07+12        |VOC 2007 test|73.2%|198ms   |
-|Faster RCNN, VGG-16|COCO+07+12   |VOC 2007 test|78.8%|198ms   |
-|Faster RCNN, VGG-16|12           |VOC 2012 test|67.0%|198ms   |
-|Faster RCNN, VGG-16|07++12       |VOC 2012 test|70.4%|198ms   |
-|Faster RCNN, VGG-16|COCO+07++12  |VOC 2012 test|75.9%|198ms   |
 
 - arxiv: [http://arxiv.org/abs/1506.01497](http://arxiv.org/abs/1506.01497)
 - github: [https://github.com/ShaoqingRen/faster_rcnn](https://github.com/ShaoqingRen/faster_rcnn)
@@ -227,31 +184,14 @@ bounding boxes (which are shared for these categories).
 
 ![](https://camo.githubusercontent.com/ad9b147ed3a5f48ffb7c3540711c15aa04ce49c6/687474703a2f2f7777772e63732e756e632e6564752f7e776c69752f7061706572732f7373642e706e67)
 
-|    System      | VOC2007 test *mAP* | **FPS** (Titan X) | Number of Boxes |
-|:---------------|:------------------:|:-----------------:|:---------------:|
-| SSD300 (VGG16) |      72.1          |       58          |    7308         |
-| SSD500 (VGG16) |    **75.1**        |       23          |    20097        |
-
 - arxiv: [http://arxiv.org/abs/1512.02325](http://arxiv.org/abs/1512.02325)
 - paper: [http://www.cs.unc.edu/~wliu/papers/ssd.pdf](http://www.cs.unc.edu/~wliu/papers/ssd.pdf)
 - github: [https://github.com/weiliu89/caffe/tree/ssd](https://github.com/weiliu89/caffe/tree/ssd)
 - video: [http://weibo.com/p/2304447a2326da963254c963c97fb05dd3a973](http://weibo.com/p/2304447a2326da963254c963c97fb05dd3a973)
 
-## Inside-Outside Net
+## Inside-Outside Net (ION)
 
 **Inside-Outside Net: Detecting Objects in Context with Skip Pooling and Recurrent Neural Networks**
-
-Detection results on VOC 2007 test:
-
-| Method | R | S | W | D | Train   | mAP  |
-|:------:|:-:|:-:|:-:|:-:|:-------:|:----:|
-| ION    | √ | √ | √ | √ | 07+12+S | 79.2 |
-
-Detection results on VOC 2012 test:
-
-| Method    | R | S | W | D | Train   | mAP  |
-|:---------:|:-:|:-:|:-:|:-:|:-------:|:----:|
-| ION       | √ | √ | √ | √ | 07+12+S | 76.4 |
 
 - intro: "0.8s per image on a Titan X GPU (excluding proposal generation) without two-stage bounding-box regression
 and 1.15s per image with it".
@@ -260,19 +200,6 @@ and 1.15s per image with it".
 - coco-leaderboard: [http://mscoco.org/dataset/#detections-leaderboard](http://mscoco.org/dataset/#detections-leaderboard)
 
 **Adaptive Object Detection Using Adjacency and Zoom Prediction (CVPR 2016)**
-
-VOC 2007 test:
-
-| Method  | Train | mAP  |
-|:-------:|:-----:|:----:|
-| AZ-Net  | 79.0  | 70.2 |
-| AZ-Net* | 78.4  | 70.4 |
-
-MSCOCO 2015 test:
-
-|     Method     |  AP  | AP IoU=0.50 |
-|:--------------:|:----:|:-----------:|
-| AZ-Net(VGG-16) | 22.3 |    41.0     |
 
 - arxiv: [http://arxiv.org/abs/1512.07711](http://arxiv.org/abs/1512.07711)
 - github: [https://github.com/luyongxi/az-net](https://github.com/luyongxi/az-net)
@@ -308,10 +235,6 @@ MSCOCO 2015 test:
 **CRAFT Objects from Images**
 
 ![](http://byangderek.github.io/projects/craft/approach.png)
-
-|   Method   |  VOC2007  |  VOC2012  |   ILSVRC   |
-|:----------:|:---------:|:---------:|:----------:|
-|   CRAFT    |   75.7    |   71.3    |    48.5    |
 
 - intro: CVPR 2016. Cascade Region-proposal-network And FasT-rcnn. an extension of Faster R-CNN
 - project page: [http://byangderek.github.io/projects/craft.html](http://byangderek.github.io/projects/craft.html)
