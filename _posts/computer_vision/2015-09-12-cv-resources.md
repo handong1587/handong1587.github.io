@@ -710,6 +710,13 @@ The size of their dataset is, however, limited by the availability of domain-spe
 - github: [https://github.com/matt-42/vpp](https://github.com/matt-42/vpp)
 - doc: [http://documentup.com/matt-42/vpp](http://documentup.com/matt-42/vpp)
 
+**VLFeat -- Vision Lab Features Library**
+
+- intro: Algorithms include Fisher Vector, VLAD, SIFT, MSER, k-means, hierarchical k-means, 
+agglomerative information bottleneck, SLIC superpixels, quick shift superpixels, large scale SVM training, and many others
+- homapage: [http://www.vlfeat.org/](http://www.vlfeat.org/)
+- github: [https://github.com/vlfeat/vlfeat](https://github.com/vlfeat/vlfeat)
+
 # Datasets
 
 **CVonline: Image Databases**
