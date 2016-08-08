@@ -33,18 +33,20 @@ date: 2015-10-09
 - paper: [http://www.ee.cuhk.edu.hk/~xgwang/papers/sunWTcvpr13.pdf](http://www.ee.cuhk.edu.hk/~xgwang/papers/sunWTcvpr13.pdf)
 - github: [https://github.com/luoyetx/deep-landmark](https://github.com/luoyetx/deep-landmark)
 
+## DeepID2+
+
 **Deeply learned face representations are sparse, selective, and robust (DeepID2+)**
 
 - arxiv: [http://arxiv.org/abs/1412.1265](http://arxiv.org/abs/1412.1265)
 - video: [http://research.microsoft.com/apps/video/?id=260023](http://research.microsoft.com/apps/video/?id=260023)
-- video: [http://pan.baidu.com/s/1boufl3x](http://pan.baidu.com/s/1boufl3x)
+- mirror: [http://pan.baidu.com/s/1boufl3x](http://pan.baidu.com/s/1boufl3x)
 
 **Deep Learning Face Representation from Predicting 10,000 Classes**
 
 - paper: [http://mmlab.ie.cuhk.edu.hk/pdf/YiSun_CVPR14.pdf](http://mmlab.ie.cuhk.edu.hk/pdf/YiSun_CVPR14.pdf)
 - github: [https://github.com/stdcoutzyx/DeepID_FaceClassify](https://github.com/stdcoutzyx/DeepID_FaceClassify)
 
-**Multi-view Face Detection Using Deep Convolutional Neural Networks(Yahoo)**
+**Multi-view Face Detection Using Deep Convolutional Neural Networks (Yahoo)**
 
 - arxiv: [http://arxiv.org/abs/1502.02766](http://arxiv.org/abs/1502.02766)
 
@@ -54,18 +56,20 @@ date: 2015-10-09
 
 - project: [http://personal.ie.cuhk.edu.hk/~ys014/projects/Faceness/Faceness.html](http://personal.ie.cuhk.edu.hk/~ys014/projects/Faceness/Faceness.html)
 
-**Deep Face Recognition(BMVC 2015)**
+**Deep Face Recognition (BMVC 2015)**
 
 - paper: [http://www.robots.ox.ac.uk/~vgg/publications/2015/Parkhi15/parkhi15.pdf](http://www.robots.ox.ac.uk/~vgg/publications/2015/Parkhi15/parkhi15.pdf)
 - homepage: [http://www.robots.ox.ac.uk/~vgg/software/vgg_face/](http://www.robots.ox.ac.uk/~vgg/software/vgg_face/)
 
-**FaceNet: A Unified Embedding for Face Recognition and Clustering(CVPR 2015. Google)**
+## FaceNet
+
+**FaceNet: A Unified Embedding for Face Recognition and Clustering (CVPR 2015. Google)**
 
 - arxiv: [http://arxiv.org/abs/1503.03832](http://arxiv.org/abs/1503.03832)
 - github: [https://github.com/cmusatyalab/openface](https://github.com/cmusatyalab/openface)
 - github: [https://github.com/Atcold/torch-TripletEmbedding](https://github.com/Atcold/torch-TripletEmbedding)
 
-**Targeting Ultimate Accuracy: Face Recognition via Deep Embedding(CVPR 2015)**
+**Targeting Ultimate Accuracy: Face Recognition via Deep Embedding (CVPR 2015)**
 
 - arxiv: [http://arxiv.org/abs/1506.07310](http://arxiv.org/abs/1506.07310)
 
@@ -89,6 +93,8 @@ date: 2015-10-09
 **Recurrent Regression for Face Recognition**
 
 - arxiv: [http://arxiv.org/abs/1607.06999](http://arxiv.org/abs/1607.06999)
+
+## UnitBox
 
 **UnitBox: An Advanced Object Detection Network**
 

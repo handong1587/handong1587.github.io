@@ -342,9 +342,7 @@ Restricted Boltzmann Machine (RBM), Sparse Coding and Auto-encoder
 
 - arxiv: [http://arxiv.org/abs/1608.00218](http://arxiv.org/abs/1608.00218)
 
-# Multi What?
-
-## Multi-label Learning
+# Multi-label Learning
 
 **CNN: Single-label to Multi-label**
 
@@ -379,7 +377,7 @@ Restricted Boltzmann Machine (RBM), Sparse Coding and Auto-encoder
 
 - arxiv: [http://arxiv.org/abs/1608.01441](http://arxiv.org/abs/1608.01441)
 
-## Multi-task Learning
+# Multi-task Learning
 
 **Multitask Learning / Domain Adaptation**
 
@@ -437,7 +435,7 @@ accuracy and the detection and localization accuracy of all tasks
 
 - blog: [https://jg8610.github.io/Multi-Task/](https://jg8610.github.io/Multi-Task/)
 
-## Multi-modal Learning
+# Multi-modal Learning
 
 **Multimodal Deep Learning**
 
@@ -471,77 +469,6 @@ accuracy and the detection and localization accuracy of all tasks
 
 - homepage: [http://projects.csail.mit.edu/cmplaces/index.html](http://projects.csail.mit.edu/cmplaces/index.html)
 - paper: [http://projects.csail.mit.edu/cmplaces/content/paper.pdf](http://projects.csail.mit.edu/cmplaces/content/paper.pdf)
-
-# Deep Learning and Traditional Machine Learning Methods
-
-## Cascade
-
-**Compact Convolutional Neural Network Cascade for Face Detection**
-
-- arxiv: [http://arxiv.org/abs/1508.01292](http://arxiv.org/abs/1508.01292)
-- github: [https://github.com/Bkmz21/FD-Evaluation](https://github.com/Bkmz21/FD-Evaluation)
-
-## Bag of Words (BoW)
-
-**Deep Learning Transcends the Bag of Words**
-
-- blog: [http://www.kdnuggets.com/2015/12/deep-learning-outgrows-bag-words-recurrent-neural-networks.html](http://www.kdnuggets.com/2015/12/deep-learning-outgrows-bag-words-recurrent-neural-networks.html)
-
-## Bootstrap
-
-**Training Deep Neural Networks on Noisy Labels with Bootstrapping**
-
-- arxiv: [http://arxiv.org/abs/1412.6596](http://arxiv.org/abs/1412.6596)
-
-## Decision Tree
-
-**Neural Network and Decision Tree**
-
-- blog: [http://rotationsymmetry.github.io/2015/07/18/neural-network-decision-tree/](http://rotationsymmetry.github.io/2015/07/18/neural-network-decision-tree/)
-
-**Decision Forests, Convolutional Networks and the Models in-Between**
-
-- arxiv: [http://arxiv.org/abs/1603.01250](http://arxiv.org/abs/1603.01250)
-- notes: [http://blog.csdn.net/stdcoutzyx/article/details/50993124](http://blog.csdn.net/stdcoutzyx/article/details/50993124)
-
-## SVM
-
-**Large-scale Learning with SVM and Convolutional for Generic Object Categorization**
-
-- paper: [http://yann.lecun.com/exdb/publis/pdf/huang-lecun-06.pdf](http://yann.lecun.com/exdb/publis/pdf/huang-lecun-06.pdf)
-
-**Convolutional Neural Support Vector Machines:Hybrid Visual Pattern Classifiers for Multi-robot Systems**
-
-- paper: [http://people.idsia.ch/~nagi/conferences/idsia/icmla2012.pdf](http://people.idsia.ch/~nagi/conferences/idsia/icmla2012.pdf)
-
-**Deep Learning using Linear Support Vector Machines**
-
-- paper: [http://deeplearning.net/wp-content/uploads/2013/03/dlsvm.pdf](http://deeplearning.net/wp-content/uploads/2013/03/dlsvm.pdf)
-
-# Deep Learning and Robots
-
-**Robot Learning Manipulation Action Plans by "Watching" Unconstrained Videos from the World Wide Web(AAAI 2015)**
-
-- paper: [http://www.umiacs.umd.edu/~yzyang/paper/YouCookMani_CameraReady.pdf](http://www.umiacs.umd.edu/~yzyang/paper/YouCookMani_CameraReady.pdf)
-- author page: [http://www.umiacs.umd.edu/~yzyang/](http://www.umiacs.umd.edu/~yzyang/)
-
-**Robots that can adapt like animals(Nature 2014)**
-
-- arxiv: [http://arxiv.org/abs/1407.3501](http://arxiv.org/abs/1407.3501)
-- code: [http://pages.isir.upmc.fr/~mouret/code/ite_source_code.tar.gz](http://pages.isir.upmc.fr/~mouret/code/ite_source_code.tar.gz)
-- github(for Bayesian optimization): [http://github.com/jbmouret/limbo](http://github.com/jbmouret/limbo)
-
-**End-to-End Training of Deep Visuomotor Policies**
-
-- arxiv: [http://arxiv.org/abs/1504.00702](http://arxiv.org/abs/1504.00702)
-
-**Comment on Open AI’s Efforts to Robot Learning**
-
-- blog: [https://gridworld.wordpress.com/2016/07/28/comment-on-open-ais-efforts-to-robot-learning/](https://gridworld.wordpress.com/2016/07/28/comment-on-open-ais-efforts-to-robot-learning/)
-
-**The Curious Robot: Learning Visual Representations via Physical Interactions**
-
-- arxiv: [http://arxiv.org/abs/1604.01360](http://arxiv.org/abs/1604.01360)
 
 # Debugging Deep Learning
 
@@ -793,6 +720,52 @@ with fast exact probabilistic inference over many layers."
 **Recurrent Spatial Transformer Networks**
 
 - paper: [http://arxiv.org/abs/1509.05329](http://arxiv.org/abs/1509.05329)
+
+# Deep Learning and Traditional Machine Learning Methods
+
+## Cascade
+
+**Compact Convolutional Neural Network Cascade for Face Detection**
+
+- arxiv: [http://arxiv.org/abs/1508.01292](http://arxiv.org/abs/1508.01292)
+- github: [https://github.com/Bkmz21/FD-Evaluation](https://github.com/Bkmz21/FD-Evaluation)
+
+## Bag of Words (BoW)
+
+**Deep Learning Transcends the Bag of Words**
+
+- blog: [http://www.kdnuggets.com/2015/12/deep-learning-outgrows-bag-words-recurrent-neural-networks.html](http://www.kdnuggets.com/2015/12/deep-learning-outgrows-bag-words-recurrent-neural-networks.html)
+
+## Bootstrap
+
+**Training Deep Neural Networks on Noisy Labels with Bootstrapping**
+
+- arxiv: [http://arxiv.org/abs/1412.6596](http://arxiv.org/abs/1412.6596)
+
+## Decision Tree
+
+**Neural Network and Decision Tree**
+
+- blog: [http://rotationsymmetry.github.io/2015/07/18/neural-network-decision-tree/](http://rotationsymmetry.github.io/2015/07/18/neural-network-decision-tree/)
+
+**Decision Forests, Convolutional Networks and the Models in-Between**
+
+- arxiv: [http://arxiv.org/abs/1603.01250](http://arxiv.org/abs/1603.01250)
+- notes: [http://blog.csdn.net/stdcoutzyx/article/details/50993124](http://blog.csdn.net/stdcoutzyx/article/details/50993124)
+
+## SVM
+
+**Large-scale Learning with SVM and Convolutional for Generic Object Categorization**
+
+- paper: [http://yann.lecun.com/exdb/publis/pdf/huang-lecun-06.pdf](http://yann.lecun.com/exdb/publis/pdf/huang-lecun-06.pdf)
+
+**Convolutional Neural Support Vector Machines:Hybrid Visual Pattern Classifiers for Multi-robot Systems**
+
+- paper: [http://people.idsia.ch/~nagi/conferences/idsia/icmla2012.pdf](http://people.idsia.ch/~nagi/conferences/idsia/icmla2012.pdf)
+
+**Deep Learning using Linear Support Vector Machines**
+
+- paper: [http://deeplearning.net/wp-content/uploads/2013/03/dlsvm.pdf](http://deeplearning.net/wp-content/uploads/2013/03/dlsvm.pdf)
 
 # Applications
 
@@ -1095,7 +1068,7 @@ Image Caption Generation, Automatic Game Playing
 ![](http://mmlab.ie.cuhk.edu.hk/projects/SRCNN/img/figure1.png)
 
 - project page: [http://mmlab.ie.cuhk.edu.hk/projects/SRCNN.html](http://mmlab.ie.cuhk.edu.hk/projects/SRCNN.html)
-- paper: [http://arxiv.org/abs/1501.00092](http://arxiv.org/abs/1501.00092)
+- arxiv: [http://arxiv.org/abs/1501.00092](http://arxiv.org/abs/1501.00092)
 - training code: [http://mmlab.ie.cuhk.edu.hk/projects/SRCNN/SRCNN_train.zip](http://mmlab.ie.cuhk.edu.hk/projects/SRCNN/SRCNN_train.zip)
 - test code: [http://mmlab.ie.cuhk.edu.hk/projects/SRCNN/SRCNN_v1.zip](http://mmlab.ie.cuhk.edu.hk/projects/SRCNN/SRCNN_v1.zip)
 
@@ -1161,7 +1134,7 @@ Bicubic VS. Shepard CNN
 
 - arxiv: [http://arxiv.org/abs/1607.04433](http://arxiv.org/abs/1607.04433)
 
-# Depth Prediction
+## Depth Prediction
 
 **Deeper Depth Prediction with Fully Convolutional Residual Networks**
 
@@ -1199,6 +1172,31 @@ Bicubic VS. Shepard CNN
 
 - arxiv: [https://arxiv.org/abs/1606.00298](https://arxiv.org/abs/1606.00298)
 - github: [https://github.com/keunwoochoi/music-auto_tagging-keras](https://github.com/keunwoochoi/music-auto_tagging-keras)
+
+## Deep Learning and Robots
+
+**Robot Learning Manipulation Action Plans by "Watching" Unconstrained Videos from the World Wide Web(AAAI 2015)**
+
+- paper: [http://www.umiacs.umd.edu/~yzyang/paper/YouCookMani_CameraReady.pdf](http://www.umiacs.umd.edu/~yzyang/paper/YouCookMani_CameraReady.pdf)
+- author page: [http://www.umiacs.umd.edu/~yzyang/](http://www.umiacs.umd.edu/~yzyang/)
+
+**Robots that can adapt like animals (Nature 2014)**
+
+- arxiv: [http://arxiv.org/abs/1407.3501](http://arxiv.org/abs/1407.3501)
+- code: [http://pages.isir.upmc.fr/~mouret/code/ite_source_code.tar.gz](http://pages.isir.upmc.fr/~mouret/code/ite_source_code.tar.gz)
+- github(for Bayesian optimization): [http://github.com/jbmouret/limbo](http://github.com/jbmouret/limbo)
+
+**End-to-End Training of Deep Visuomotor Policies**
+
+- arxiv: [http://arxiv.org/abs/1504.00702](http://arxiv.org/abs/1504.00702)
+
+**Comment on Open AI’s Efforts to Robot Learning**
+
+- blog: [https://gridworld.wordpress.com/2016/07/28/comment-on-open-ais-efforts-to-robot-learning/](https://gridworld.wordpress.com/2016/07/28/comment-on-open-ais-efforts-to-robot-learning/)
+
+**The Curious Robot: Learning Visual Representations via Physical Interactions**
+
+- arxiv: [http://arxiv.org/abs/1604.01360](http://arxiv.org/abs/1604.01360)
 
 # Deep Learning’s Accuracy
 
@@ -1405,40 +1403,6 @@ Bicubic VS. Shepard CNN
 **A Taxonomy of Deep Convolutional Neural Nets for Computer Vision**
 
 - arxiv: [http://arxiv.org/abs/1601.06615](http://arxiv.org/abs/1601.06615)
-
-# Installation
-
-**Setting up a Deep Learning Machine from Scratch (Software): Instructions for setting up the software on your deep learning machine**
-
-- intro: A detailed guide to setting up your machine for deep learning research. 
-Includes instructions to install drivers, tools and various deep learning frameworks. 
-This was tested on a 64 bit machine with Nvidia Titan X, running Ubuntu 14.04
-- github: [https://github.com/saiprashanths/dl-setup](https://github.com/saiprashanths/dl-setup)
-
-**How to install CUDA Toolkit and cuDNN for deep learning**
-
-- blog: [http://www.pyimagesearch.com/2016/07/04/how-to-install-cuda-toolkit-and-cudnn-for-deep-learning/](http://www.pyimagesearch.com/2016/07/04/how-to-install-cuda-toolkit-and-cudnn-for-deep-learning/)
-
-## Docker
-
-**All-in-one Docker image for Deep Learning**
-
-- intro: An all-in-one Docker image for deep learning. 
-Contains all the popular DL frameworks (TensorFlow, Theano, Torch, Caffe, etc.)
-- github: [https://github.com/saiprashanths/dl-docker](https://github.com/saiprashanths/dl-docker)
-
-**NVIDIA Docker: GPU Server Application Deployment Made Easy**
-
-![](https://cloud.githubusercontent.com/assets/3028125/12213714/5b208976-b632-11e5-8406-38d379ec46aa.png)
-
-- blog: [https://devblogs.nvidia.com/parallelforall/nvidia-docker-gpu-server-application-deployment-made-easy/](https://devblogs.nvidia.com/parallelforall/nvidia-docker-gpu-server-application-deployment-made-easy/)
-- github: [https://github.com/NVIDIA/nvidia-docker](https://github.com/NVIDIA/nvidia-docker)
-
-## Cloud
-
-**SuperVessel Cloud for POWER/OpenPOWER LoginRegisterTutorials**
-
-[http://www.ptopenlab.com/](http://www.ptopenlab.com/)
 
 # Projects
 

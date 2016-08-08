@@ -97,13 +97,21 @@ date: 2015-10-09
 - paper: [http://cmp.felk.cvut.cz/~radenfil/publications/Radenovic-ECCV16.pdf](http://cmp.felk.cvut.cz/~radenfil/publications/Radenovic-ECCV16.pdf)
 - code(Matlab): [http://ptak.felk.cvut.cz/personal/radenfil/siamac/siaMAC_code.tar.gz](http://ptak.felk.cvut.cz/personal/radenfil/siamac/siaMAC_code.tar.gz)
 
+## SSDH
+
 **SSDH: Semi-supervised Deep Hashing for Large Scale Image Retrieval**
 
 - arxiv: [http://arxiv.org/abs/1607.08477](http://arxiv.org/abs/1607.08477)
 
+## PicHunt
+
 **PicHunt: Social Media Image Retrieval for Improved Law Enforcement**
 
 - arxiv: [http://arxiv.org/abs/1608.00905](http://arxiv.org/abs/1608.00905)
+
+**SIFT Meets CNN: A Decade Survey of Instance Retrieval**
+
+- arxiv: [http://arxiv.org/abs/1608.01807](http://arxiv.org/abs/1608.01807)
 
 # Blogs
 

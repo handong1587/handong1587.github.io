@@ -1,7 +1,7 @@
 ---
 layout: post
 category: deep_learning
-title: Deep Learning and Hardware
+title: Deep Learning Software and Hardware
 date: 2015-10-09
 ---
 
@@ -10,6 +10,40 @@ date: 2015-10-09
 **Accelerating Deep Convolutional Neural Networks Using Specialized Hardware**
 
 - paper: [http://research.microsoft.com/pubs/240715/CNN%20Whitepaper.pdf](http://research.microsoft.com/pubs/240715/CNN%20Whitepaper.pdf)
+
+# Installation
+
+**Setting up a Deep Learning Machine from Scratch (Software): Instructions for setting up the software on your deep learning machine**
+
+- intro: A detailed guide to setting up your machine for deep learning research. 
+Includes instructions to install drivers, tools and various deep learning frameworks. 
+This was tested on a 64 bit machine with Nvidia Titan X, running Ubuntu 14.04
+- github: [https://github.com/saiprashanths/dl-setup](https://github.com/saiprashanths/dl-setup)
+
+**How to install CUDA Toolkit and cuDNN for deep learning**
+
+- blog: [http://www.pyimagesearch.com/2016/07/04/how-to-install-cuda-toolkit-and-cudnn-for-deep-learning/](http://www.pyimagesearch.com/2016/07/04/how-to-install-cuda-toolkit-and-cudnn-for-deep-learning/)
+
+## Docker
+
+**All-in-one Docker image for Deep Learning**
+
+- intro: An all-in-one Docker image for deep learning. 
+Contains all the popular DL frameworks (TensorFlow, Theano, Torch, Caffe, etc.)
+- github: [https://github.com/saiprashanths/dl-docker](https://github.com/saiprashanths/dl-docker)
+
+**NVIDIA Docker: GPU Server Application Deployment Made Easy**
+
+![](https://cloud.githubusercontent.com/assets/3028125/12213714/5b208976-b632-11e5-8406-38d379ec46aa.png)
+
+- blog: [https://devblogs.nvidia.com/parallelforall/nvidia-docker-gpu-server-application-deployment-made-easy/](https://devblogs.nvidia.com/parallelforall/nvidia-docker-gpu-server-application-deployment-made-easy/)
+- github: [https://github.com/NVIDIA/nvidia-docker](https://github.com/NVIDIA/nvidia-docker)
+
+## Cloud
+
+**SuperVessel Cloud for POWER/OpenPOWER LoginRegisterTutorials**
+
+[http://www.ptopenlab.com/](http://www.ptopenlab.com/)
 
 # Hardware System
 
