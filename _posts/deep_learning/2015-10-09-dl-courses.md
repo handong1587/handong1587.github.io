@@ -7,17 +7,29 @@ date: 2015-10-09
 
 # Deep Learning
 
-**EECS 598: Unsupervised Feature Learning(by Honglak Lee)**
+**Deep Learning: Taking machine learning to the next level (Udacity)**
 
-[http://web.eecs.umich.edu/~honglak/teaching/eecs598/schedule.html](http://web.eecs.umich.edu/~honglak/teaching/eecs598/schedule.html)
+- instructor: Vincent Vanhoucke (Google), Arpan Chakraborty
+- homepage: [https://www.udacity.com/course/deep-learning--ud730](https://www.udacity.com/course/deep-learning--ud730)
+- homepage: [https://cn.udacity.com/course/deep-learning--ud730/](https://cn.udacity.com/course/deep-learning--ud730/)
+- homepage: [https://classroom.udacity.com/courses/ud730/lessons/6370362152/concepts/63798118150923](https://classroom.udacity.com/courses/ud730/lessons/6370362152/concepts/63798118150923)
+- assignments: [https://github.com/tdhopper/udacity-deep-learning](https://github.com/tdhopper/udacity-deep-learning)
+- ipn: [https://github.com/tensorflow/tensorflow/blob/master/tensorflow/examples/udacity/1_notmnist.ipynb](https://github.com/tensorflow/tensorflow/blob/master/tensorflow/examples/udacity/1_notmnist.ipynb)
+- ipn: [http://nbviewer.jupyter.org/github/tensorflow/tensorflow/blob/master/tensorflow/examples/udacity/1_notmnist.ipynb](http://nbviewer.jupyter.org/github/tensorflow/tensorflow/blob/master/tensorflow/examples/udacity/1_notmnist.ipynb)
+
+**EECS 598: Unsupervised Feature Learning**
+
+- instructor: Honglak Lee
+- homepage: [http://web.eecs.umich.edu/~honglak/teaching/eecs598/schedule.html](http://web.eecs.umich.edu/~honglak/teaching/eecs598/schedule.html)
 
 **NVIDIA’s Deep Learning Courses**
 
 [https://developer.nvidia.com/deep-learning-courses](https://developer.nvidia.com/deep-learning-courses)
 
-**ECE 6504 Deep Learning for Perception(by Dhruv Batra, Virginia Tech)**
+**ECE 6504 Deep Learning for Perception**
 
-[https://computing.ece.vt.edu/~f15ece6504/](https://computing.ece.vt.edu/~f15ece6504/)
+- instructor: Dhruv Batra (Virginia Tech)
+- homepage: [https://computing.ece.vt.edu/~f15ece6504/](https://computing.ece.vt.edu/~f15ece6504/)
 
 **University of Oxford: Machine Learning: 2014-2015**
 
@@ -31,30 +43,21 @@ date: 2015-10-09
 
 **Neural networks class - Université de Sherbrooke**
 
-- intro: by Hugo Larochelle
+- instructor: Hugo Larochelle
 - youtube: [https://www.youtube.com/playlist?list=PL6Xpj9I5qXYEcOhn7TqghAJ6NAPrNmUBH](https://www.youtube.com/playlist?list=PL6Xpj9I5qXYEcOhn7TqghAJ6NAPrNmUBH)
 - video: [http://pan.baidu.com/s/1bnwEe8R](http://pan.baidu.com/s/1bnwEe8R)
 - course content: [http://info.usherbrooke.ca/hlarochelle/neural_networks/content.html](http://info.usherbrooke.ca/hlarochelle/neural_networks/content.html)
 - google group: [https://groups.google.com/forum/#!forum/neural-networks-online-course](https://groups.google.com/forum/#!forum/neural-networks-online-course)
 
-**CMU: Deep Learning (Instructor: Bhiksha Raj)**
+**CMU: Deep Learning**
 
+- instructor: Bhiksha Raj
 - homepage: [http://deeplearning.cs.cmu.edu/](http://deeplearning.cs.cmu.edu/)
 
 **University of Waterloo: STAT 946 - Deep Learning**
 
 - homepage: [https://uwaterloo.ca/data-science/deep-learning](https://uwaterloo.ca/data-science/deep-learning)
 - video+slides: [http://pan.baidu.com/s/1sjTRgjN](http://pan.baidu.com/s/1sjTRgjN)
-
-**Deep Learning: Taking machine learning to the next level (Udacity)**
-
-- intro: by Vincent Vanhoucke (Google)
-- homepage: [https://www.udacity.com/course/deep-learning--ud730](https://www.udacity.com/course/deep-learning--ud730)
-- homepage: [https://cn.udacity.com/course/deep-learning--ud730/](https://cn.udacity.com/course/deep-learning--ud730/)
-- homepage: [https://classroom.udacity.com/courses/ud730/lessons/6370362152/concepts/63798118150923](https://classroom.udacity.com/courses/ud730/lessons/6370362152/concepts/63798118150923)
-- assignments: [https://github.com/tdhopper/udacity-deep-learning](https://github.com/tdhopper/udacity-deep-learning)
-- ipn: [https://github.com/tensorflow/tensorflow/blob/master/tensorflow/examples/udacity/1_notmnist.ipynb](https://github.com/tensorflow/tensorflow/blob/master/tensorflow/examples/udacity/1_notmnist.ipynb)
-- ipn: [http://nbviewer.jupyter.org/github/tensorflow/tensorflow/blob/master/tensorflow/examples/udacity/1_notmnist.ipynb](http://nbviewer.jupyter.org/github/tensorflow/tensorflow/blob/master/tensorflow/examples/udacity/1_notmnist.ipynb)
 
 **stat212b: Topics Course on Deep Learning for Spring 2016**
 
@@ -148,7 +151,7 @@ such as image classification, object detection or text captioning.
 
 # Parallel Programming
 
-**(Udacity) Intro to Parallel Programming Using CUDA to Harness the Power of GPUs**
+**Intro to Parallel Programming Using CUDA to Harness the Power of GPUs (Udacity)**
 
 [https://www.udacity.com/course/intro-to-parallel-programming--cs344](https://www.udacity.com/course/intro-to-parallel-programming--cs344)
 

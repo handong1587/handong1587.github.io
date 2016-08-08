@@ -57,6 +57,10 @@ date: 2015-10-09
 - arxiv: [http://arxiv.org/abs/1509.05016](http://arxiv.org/abs/1509.05016)
 - github: [https://github.com/asheshjain399/RNNexp](https://github.com/asheshjain399/RNNexp)
 
+**Long-term Planning by Short-term Prediction**
+
+- arxiv: [http://arxiv.org/abs/1602.01580](http://arxiv.org/abs/1602.01580)
+
 **Learning a Driving Simulator**
 
 ![](http://research.comma.ai/images/selfsteer.gif)
@@ -77,6 +81,12 @@ date: 2015-10-09
 
 - github: [https://github.com/SullyChen/Caffe-Autopilot](https://github.com/SullyChen/Caffe-Autopilot)
 
+**Self Driving Car Demo**
+
+- intro; A project that trains a virtual car to how to move an object around a screen (drive itself) 
+without running into obstacles using a type of reinforcement learning called Q-Learning
+- github: [https://github.com/llSourcell/Self-Driving-Car-Demo/](https://github.com/llSourcell/Self-Driving-Car-Demo/)
+
 # Blogs
 
 **Self-driving cars: How far away are we REALLY from autonomous cars?(7 Aug 2015)**
@@ -96,3 +106,10 @@ date: 2015-10-09
 ![](https://venturebeat.com/wp-content/uploads/2016/05/Ubercar.jpg)
 
 [http://venturebeat.com/2016/06/25/human-in-the-loop-deep-learning-will-help-drive-autonomous-cars/](http://venturebeat.com/2016/06/25/human-in-the-loop-deep-learning-will-help-drive-autonomous-cars/)
+
+**Using reinforcement learning in Python to teach a virtual car to avoid obstacles**
+
+- part 1: [https://medium.com/@harvitronix/using-reinforcement-learning-in-python-to-teach-a-virtual-car-to-avoid-obstacles-6e782cc7d4c6#.rneyuerga](https://medium.com/@harvitronix/using-reinforcement-learning-in-python-to-teach-a-virtual-car-to-avoid-obstacles-6e782cc7d4c6#.rneyuerga)
+- part 2: [https://medium.com/@harvitronix/reinforcement-learning-in-python-to-teach-a-virtual-car-to-avoid-obstacles-part-2-93e614fcd238#.1pt1lli4c](https://medium.com/@harvitronix/reinforcement-learning-in-python-to-teach-a-virtual-car-to-avoid-obstacles-part-2-93e614fcd238#.1pt1lli4c)
+- part 3: [https://medium.com/@harvitronix/reinforcement-learning-in-python-to-teach-an-rc-car-to-avoid-obstacles-part-3-a1d063ac962f#.jwzm2v1r4](https://medium.com/@harvitronix/reinforcement-learning-in-python-to-teach-an-rc-car-to-avoid-obstacles-part-3-a1d063ac962f#.jwzm2v1r4)
+- github: [https://github.com/harvitronix/reinforcement-learning-car](https://github.com/harvitronix/reinforcement-learning-car)

@@ -113,6 +113,16 @@ date: 2015-10-09
 
 - arxiv: [http://arxiv.org/abs/1608.01807](http://arxiv.org/abs/1608.01807)
 
+# Video Indexing / Retrieval
+
+**Face Video Retrieval via Deep Learning of Binary Hash Representations**
+
+- paper: [https://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/download/11893/12117](https://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/download/11893/12117)
+
+**Deep Learning Based Semantic Video Indexing and Retrieval**
+
+- arxiv: [https://arxiv.org/abs/1601.07754](https://arxiv.org/abs/1601.07754)
+
 # Blogs
 
 **Using Sketches to Search for Products Online**

@@ -19,14 +19,6 @@ date: 2015-10-09
 
 - arxiv: [http://arxiv.org/abs/1406.2199](http://arxiv.org/abs/1406.2199)
 
-**Long-term Recurrent Convolutional Networks for Visual Recognition and Description (LRCN. Oral presentation at CVPR 2015)**
-
-![](http://jeffdonahue.com/lrcn/images/lrcn_tasks.png)
-
-- arxiv: [http://arxiv.org/abs/1411.4389](http://arxiv.org/abs/1411.4389)
-- project page: [http://jeffdonahue.com/lrcn/](http://jeffdonahue.com/lrcn/)
-- github: [https://github.com/BVLC/caffe/pull/2033](https://github.com/BVLC/caffe/pull/2033)
-
 **Finding action tubes**
 
 - intro: "built action models from shape and motion cues. 
@@ -56,11 +48,19 @@ extract saptio-temporal features to represent the video using the CNNs."
 - arxiv: [http://arxiv.org/abs/1507.02159](http://arxiv.org/abs/1507.02159)
 - github: [https://github.com/yjxiong/caffe](https://github.com/yjxiong/caffe)
 
-**Action Recognition using Visual Attention(LSTM/RNN)**
+**Action Recognition using Visual Attention**
 
+- intro: LSTM / RNN
 - arxiv: [http://arxiv.org/abs/1511.04119](http://arxiv.org/abs/1511.04119)
 - project page: [http://shikharsharma.com/projects/action-recognition-attention/](http://shikharsharma.com/projects/action-recognition-attention/)
 - github(Python/Theano): [https://github.com/kracwarlock/action-recognition-visual-attention](https://github.com/kracwarlock/action-recognition-visual-attention)
+
+**End-to-end Learning of Action Detection from Frame Glimpses in Videos**
+
+- intro: CVPR 2016
+- project page: [http://ai.stanford.edu/~syyeung/frameglimpses.html](http://ai.stanford.edu/~syyeung/frameglimpses.html)
+- arxiv: [http://arxiv.org/abs/1511.06984](http://arxiv.org/abs/1511.06984)
+- paper: [http://vision.stanford.edu/pdf/yeung2016cvpr.pdf](http://vision.stanford.edu/pdf/yeung2016cvpr.pdf)
 
 **Multi-velocity neural networks for gesture recognition in videos**
 

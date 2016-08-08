@@ -438,6 +438,8 @@ image salience, canvas constraint, natural preference, and user interaction"
 
 **Automatic Generation of Social Media Snippets for Mobile Browsing (Microsoft Research. ACM Multimedia 2013)**
 
+![](/assets/computer-vision/Automatic_Generation_of_Social_Media_Snippets_for_Mobile_Browsing.jpg)
+
 - homepage: [http://research.microsoft.com/apps/pubs/default.aspx?id=204877](http://research.microsoft.com/apps/pubs/default.aspx?id=204877)
 - paper: [http://research.microsoft.com/pubs/204877/mm035-yin.pdf](http://research.microsoft.com/pubs/204877/mm035-yin.pdf)
 
@@ -464,8 +466,8 @@ in digital tapestry, although some artifact removal methods can be used"
 
 **6 Seconds of Sound and Vision: Creativity in Micro-Videos (CVPR 2014)**
 
-- arxiv: [http://arxiv.org/abs/1411.4080](http://arxiv.org/abs/1411.4080)
 - homepage: [http://www.di.unito.it/~schifane/dataset/vine-dataset-cvpr14/](http://www.di.unito.it/~schifane/dataset/vine-dataset-cvpr14/)
+- arxiv: [http://arxiv.org/abs/1411.4080](http://arxiv.org/abs/1411.4080)
 
 # Video Highlights
 
@@ -491,15 +493,6 @@ The size of their dataset is, however, limited by the availability of domain-spe
 - paper: [https://drive.google.com/file/d/0ByJgUdTb1N2CbzNYTjdxX0ZiRmc/edit](https://drive.google.com/file/d/0ByJgUdTb1N2CbzNYTjdxX0ZiRmc/edit)
 - github: [https://github.com/aliensunmin/salientMontages](https://github.com/aliensunmin/salientMontages)
 
-**Unsupervised Extraction of Video Highlights Via Robust Recurrent Auto-encoders (ICCV 2015)**
-
-- intro: rely on an assumption that highlights of an event category are more frequently captured in short videos than non-highlights
-- arxiv: [http://arxiv.org/abs/1510.01442](http://arxiv.org/abs/1510.01442)
-
-**Highlight Detection with Pairwise Deep Ranking for First-Person Video Summarization**
-
-- paper: [http://research.microsoft.com/apps/pubs/default.aspx?id=264919](http://research.microsoft.com/apps/pubs/default.aspx?id=264919)
-
 # Video Summarization
 
 **Creating Summaries from User Videos (ECCV 2014)**
@@ -510,6 +503,11 @@ The size of their dataset is, however, limited by the availability of domain-spe
 - paper: [https://people.ee.ethz.ch/~gyglim/vsum/GygliECCV14_vsum.pdf](https://people.ee.ethz.ch/~gyglim/vsum/GygliECCV14_vsum.pdf)
 - paper: [http://www.vision.ee.ethz.ch/~hegrabne/papers/Gygli2014CreatingSummariesfrom.pdf](http://www.vision.ee.ethz.ch/~hegrabne/papers/Gygli2014CreatingSummariesfrom.pdf)
 - code: [https://people.ee.ethz.ch/~gyglim/vsum/index.php#sf_code](https://people.ee.ethz.ch/~gyglim/vsum/index.php#sf_code) 
+
+**Joint Summarization of Large-scale Collections of Web Images and Videos for Storyline Reconstruction**
+
+- intro: CVPR 2014
+- paper: [http://www.cs.cmu.edu/~gunhee/publish/cvpr14_videostory.pdf](http://www.cs.cmu.edu/~gunhee/publish/cvpr14_videostory.pdf)
 
 **Video Summarization by Learning Submodular Mixtures of Objectives (CVPR 2015)**
 
@@ -525,11 +523,8 @@ The size of their dataset is, however, limited by the availability of domain-spe
 
 **Summarizing While Recording: Context-Based Highlight Detection for Egocentric Videos**
 
+- keywords: structured SVM (SSVM)
 - paper: [http://www.umiacs.umd.edu/~morariu/publications/LinEgocentricICCVW15.pdf](http://www.umiacs.umd.edu/~morariu/publications/LinEgocentricICCVW15.pdf)
-
-**Video Summarization with Long Short-term Memory**
-
-- arxiv: [http://arxiv.org/abs/1605.08110](http://arxiv.org/abs/1605.08110)
 
 # Face Detection
 

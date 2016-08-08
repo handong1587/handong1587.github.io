@@ -435,6 +435,11 @@ accuracy and the detection and localization accuracy of all tasks
 
 - blog: [https://jg8610.github.io/Multi-Task/](https://jg8610.github.io/Multi-Task/)
 
+**一箭N雕：多任务深度学习实战**
+
+- intro: 薛云峰 深度学习大讲堂
+- blog: [http://mp.weixin.qq.com/s?__biz=MzI1NTE4NTUwOQ==&mid=2650325281&idx=1&sn=97779ff0da06190d6a71d33f23e9dede#rd](http://mp.weixin.qq.com/s?__biz=MzI1NTE4NTUwOQ==&mid=2650325281&idx=1&sn=97779ff0da06190d6a71d33f23e9dede#rd)
+
 # Multi-modal Learning
 
 **Multimodal Deep Learning**
@@ -774,6 +779,10 @@ with fast exact probabilistic inference over many layers."
 - arxiv: [http://arxiv.org/abs/1510.07867](http://arxiv.org/abs/1510.07867)
 - demo: [http://howhot.io/](http://howhot.io/)
 
+**Deep Learning Algorithms with Applications to Video Analytics for A Smart City: A Survey**
+
+- arxiv: [http://arxiv.org/abs/1512.03131](http://arxiv.org/abs/1512.03131)
+
 **Camera identification with deep convolutional networks**
 
 - key word: copyright infringement cases, ownership attribution
@@ -784,29 +793,6 @@ with fast exact probabilistic inference over many layers."
 ![](https://devblogs.nvidia.com/parallelforall/wp-content/uploads/2016/07/cat1-2.jpeg)
 
 - blog: [https://devblogs.nvidia.com/parallelforall/ai-cat-chaser-jetson-tx1-caffe/](https://devblogs.nvidia.com/parallelforall/ai-cat-chaser-jetson-tx1-caffe/)
-
-**Automatic Image and Video Tagging**
-
-![](http://i2.wp.com/scottge.net/wp-content/uploads/2015/06/imagetagging.png?w=576)
-
-- blog: [http://scottge.net/2015/06/30/automatic-image-and-video-tagging/](http://scottge.net/2015/06/30/automatic-image-and-video-tagging/)
-
-## Video2GIF
-
-**Video2GIF: Automatic Generation of Animated GIFs from Video (Robust Deep RankNet)**
-
-- intro: 3D CNN, ranking model, Huber loss, 100K GIFs/video sources dataset
-- arxiv: [http://arxiv.org/abs/1605.04850](http://arxiv.org/abs/1605.04850)
-- github(dataset): [https://github.com/gyglim/video2gif_dataset](https://github.com/gyglim/video2gif_dataset)
-- results: [http://video2gif.info/](http://video2gif.info/)
-- demo site: [http://people.ee.ethz.ch/~gyglim/work_public/autogif/](http://people.ee.ethz.ch/~gyglim/work_public/autogif/)
-- review: [http://motherboard.vice.com/read/these-fire-gifs-were-made-by-artificial-intelligence-yahoo](http://motherboard.vice.com/read/these-fire-gifs-were-made-by-artificial-intelligence-yahoo)
-
-**Creating Animated GIFs Automatically from Video**
-
-[https://yahooresearch.tumblr.com/post/148009705216/creating-animated-gifs-automatically-from-video](https://yahooresearch.tumblr.com/post/148009705216/creating-animated-gifs-automatically-from-video)
-
-- - -
 
 **An Analysis of Deep Neural Network Models for Practical Applications**
 
@@ -836,6 +822,15 @@ Image Caption Generation, Automatic Game Playing
 
 - project page: [http://yaroslav.ganin.net/static/deepwarp/](http://yaroslav.ganin.net/static/deepwarp/)
 - arxiv: [http://arxiv.org/abs/1607.07215](http://arxiv.org/abs/1607.07215)
+
+**Autoencoding Blade Runner**
+
+- blog: [https://medium.com/@Terrybroad/autoencoding-blade-runner-88941213abbe#.9kckqg7cq](https://medium.com/@Terrybroad/autoencoding-blade-runner-88941213abbe#.9kckqg7cq)
+- github: [https://github.com/terrybroad/Learned-Sim-Autoencoder-For-Video-Frames](https://github.com/terrybroad/Learned-Sim-Autoencoder-For-Video-Frames)
+
+**A guy trained a machine to "watch" Blade Runner. Then things got seriously sci-fi.**
+
+[http://www.vox.com/2016/6/1/11787262/blade-runner-neural-network-encoding](http://www.vox.com/2016/6/1/11787262/blade-runner-neural-network-encoding)
 
 ## Age Estimation
 
@@ -1143,29 +1138,6 @@ Bicubic VS. Shepard CNN
 - arxiv: [https://arxiv.org/abs/1606.00373](https://arxiv.org/abs/1606.00373)
 - github: [https://github.com/iro-cp/FCRN-DepthPrediction](https://github.com/iro-cp/FCRN-DepthPrediction)
 
-## Video Classification
-
-**Large-scale Video Classification with Convolutional Neural Networks (CVPR 2014)**
-
-- project page: [http://cs.stanford.edu/people/karpathy/deepvideo/](http://cs.stanford.edu/people/karpathy/deepvideo/)
-- paper: [www.cv-foundation.org/openaccess/content_cvpr_2014/papers/Karpathy_Large-scale_Video_Classification_2014_CVPR_paper.pdf](www.cv-foundation.org/openaccess/content_cvpr_2014/papers/Karpathy_Large-scale_Video_Classification_2014_CVPR_paper.pdf)
-
-**Beyond Short Snippets: Deep Networks for Video Classification**
-
-- keywords: CNN + LSTM
-- arxiv: [http://arxiv.org/abs/1503.08909](http://arxiv.org/abs/1503.08909)
-- demo: [http://pan.baidu.com/s/1eQ9zLZk](http://pan.baidu.com/s/1eQ9zLZk)
-
-**Efficient Large Scale Video Classification**
-
-- intro: Google
-- arxiv: [http://arxiv.org/abs/1505.06250](http://arxiv.org/abs/1505.06250)
-
-**Learning End-to-end Video Classification with Rank-Pooling**
-
-- paper: [http://jmlr.org/proceedings/papers/v48/fernando16.html](http://jmlr.org/proceedings/papers/v48/fernando16.html)
-- summary(by Hugo Larochelle): [http://www.shortscience.org/paper?bibtexKey=conf/icml/FernandoG16#hlarochelle](http://www.shortscience.org/paper?bibtexKey=conf/icml/FernandoG16#hlarochelle)
-
 ## Music Tagging
 
 **Automatic tagging using deep convolutional neural networks**
@@ -1197,6 +1169,76 @@ Bicubic VS. Shepard CNN
 **The Curious Robot: Learning Visual Representations via Physical Interactions**
 
 - arxiv: [http://arxiv.org/abs/1604.01360](http://arxiv.org/abs/1604.01360)
+
+## Video-related Applications
+
+### Video Classification
+
+### Video Tagging
+
+**Automatic Image and Video Tagging**
+
+![](http://i2.wp.com/scottge.net/wp-content/uploads/2015/06/imagetagging.png?w=576)
+
+- blog: [http://scottge.net/2015/06/30/automatic-image-and-video-tagging/](http://scottge.net/2015/06/30/automatic-image-and-video-tagging/)
+
+**Tagging YouTube music videos with deep learning - Alexandre Passant**
+
+- keywords: Clarifai's deep learning API
+- blog: [http://apassant.net/2015/07/03/tagging-youtube-music-clarifai-deep-learning/](http://apassant.net/2015/07/03/tagging-youtube-music-clarifai-deep-learning/)
+
+### Video2GIF
+
+**Video2GIF: Automatic Generation of Animated GIFs from Video (Robust Deep RankNet)**
+
+- intro: 3D CNN, ranking model, Huber loss, 100K GIFs/video sources dataset
+- arxiv: [http://arxiv.org/abs/1605.04850](http://arxiv.org/abs/1605.04850)
+- github(dataset): [https://github.com/gyglim/video2gif_dataset](https://github.com/gyglim/video2gif_dataset)
+- results: [http://video2gif.info/](http://video2gif.info/)
+- demo site: [http://people.ee.ethz.ch/~gyglim/work_public/autogif/](http://people.ee.ethz.ch/~gyglim/work_public/autogif/)
+- review: [http://motherboard.vice.com/read/these-fire-gifs-were-made-by-artificial-intelligence-yahoo](http://motherboard.vice.com/read/these-fire-gifs-were-made-by-artificial-intelligence-yahoo)
+
+**Creating Animated GIFs Automatically from Video**
+
+[https://yahooresearch.tumblr.com/post/148009705216/creating-animated-gifs-automatically-from-video](https://yahooresearch.tumblr.com/post/148009705216/creating-animated-gifs-automatically-from-video)
+
+### Video Captioning
+
+[http://handong1587.github.io/deep_learning/2015/10/09/image-video-captioning.html#video-captioning](http://handong1587.github.io/deep_learning/2015/10/09/image-video-captioning.html#video-captioning)
+
+### Video Summarization
+
+Video summarization produces a short summary of a full-length video and ideally encapsulates its most informative parts, 
+alleviates the problem of video browsing, editing and indexing.
+
+**Video Summarization with Long Short-term Memory**
+
+- arxiv: [http://arxiv.org/abs/1605.08110](http://arxiv.org/abs/1605.08110)
+
+**DeepVideo: Video Summarization using Temporal Sequence Modelling**
+
+- intro: CS231n student project report
+- paper: [http://cs231n.stanford.edu/reports2016/216_Report.pdf](http://cs231n.stanford.edu/reports2016/216_Report.pdf)
+
+### Video Highlight Detection
+
+**Unsupervised Extraction of Video Highlights Via Robust Recurrent Auto-encoders (ICCV 2015)**
+
+- intro: ICCV 2015
+- intro: rely on an assumption that highlights of an event category are more frequently captured in short videos than non-highlights
+- arxiv: [http://arxiv.org/abs/1510.01442](http://arxiv.org/abs/1510.01442)
+
+**Highlight Detection with Pairwise Deep Ranking for First-Person Video Summarization**
+
+- keywords: wearable device
+- paper: [http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Yao_Highlight_Detection_With_CVPR_2016_paper.pdf](http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Yao_Highlight_Detection_With_CVPR_2016_paper.pdf)
+- paper: [http://research.microsoft.com/apps/pubs/default.aspx?id=264919](http://research.microsoft.com/apps/pubs/default.aspx?id=264919)
+
+**Using Deep Learning to Find Basketball Highlights**
+
+![](https://cloud.githubusercontent.com/assets/10147637/7966603/228179fe-09f3-11e5-9ea7-31e76c8248fe.png)
+
+- blog: [http://public.hudl.com/bits/archives/2015/06/05/highlights/?utm_source=tuicool&utm_medium=referral](http://public.hudl.com/bits/archives/2015/06/05/highlights/?utm_source=tuicool&utm_medium=referral)
 
 # Deep Learning’s Accuracy
 

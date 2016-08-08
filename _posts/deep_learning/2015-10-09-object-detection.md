@@ -291,6 +291,12 @@ and 1.15s per image with it".
 
 - slides: [http://vision.princeton.edu/courses/COS598/2015sp/slides/VideoRecog/Video%20Object%20Recognition.pptx](http://vision.princeton.edu/courses/COS598/2015sp/slides/VideoRecog/Video%20Object%20Recognition.pptx)
 
+**Deep Learning for Saliency Prediction in Natural Video**
+
+- intro: Submitted on 12 Jan 2016
+- keywords: Deep learning, saliency map, optical flow, convolution network, contrast features
+- paper: [https://hal.archives-ouvertes.fr/hal-01251614/document](https://hal.archives-ouvertes.fr/hal-01251614/document)
+
 ## T-CNN
 
 **T-CNN: Tubelets with Convolutional Neural Networks for Object Detection from Videos**

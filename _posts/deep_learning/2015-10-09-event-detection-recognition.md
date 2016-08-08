@@ -26,5 +26,6 @@ date: 2015-10-09
 ![](https://tctechcrunch2011.files.wordpress.com/2016/06/basketball_actors.jpg)
 
 - arxiv: [http://arxiv.org/abs/1511.02917](http://arxiv.org/abs/1511.02917)
-- paper: [http://120.52.73.10/www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Ramanathan_Detecting_Events_and_CVPR_2016_paper.pdf](http://120.52.73.10/www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Ramanathan_Detecting_Events_and_CVPR_2016_paper.pdf)
+- paper: [www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Ramanathan_Detecting_Events_and_CVPR_2016_paper.pdf](www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Ramanathan_Detecting_Events_and_CVPR_2016_paper.pdf)
+- paper: [http://vision.stanford.edu/pdf/johnson2016cvpr.pdf](http://vision.stanford.edu/pdf/johnson2016cvpr.pdf)
 - blog: [http://www.leiphone.com/news/201606/l1TKIRFLO3DUFNNu.html](http://www.leiphone.com/news/201606/l1TKIRFLO3DUFNNu.html)

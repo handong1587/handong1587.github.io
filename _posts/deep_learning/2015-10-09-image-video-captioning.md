@@ -1,7 +1,7 @@
 ---
 layout: post
 category: deep_learning
-title: Image Captioning
+title: Image / Video Captioning
 date: 2015-10-09
 ---
 
@@ -18,12 +18,13 @@ date: 2015-10-09
 
 ## LRCN
 
-**Long-term Recurrent Convolutional Networks for Visual Recognition and Description (LRCN. Oral presentation at CVPR 2015)**
+**Long-term Recurrent Convolutional Networks for Visual Recognition and Description (LRCN)**
 
 ![](http://jeffdonahue.com/lrcn/images/lrcn_tasks.png)
 
-- arxiv: [http://arxiv.org/abs/1411.4389](http://arxiv.org/abs/1411.4389)
+- intro: Oral presentation at CVPR 2015
 - project page: [http://jeffdonahue.com/lrcn/](http://jeffdonahue.com/lrcn/)
+- arxiv: [http://arxiv.org/abs/1411.4389](http://arxiv.org/abs/1411.4389)
 - github: [https://github.com/BVLC/caffe/pull/2033](https://github.com/BVLC/caffe/pull/2033)
 
 ## Show and Tell
@@ -64,8 +65,8 @@ to localize different segments of the sentence to their corresponding image regi
 
 - intro: "combines the functionalities of the CNN and RNN by introducing a new multimodal layer, 
 after the embedding and recurrent layers of the RNN."
-- arxiv: [http://arxiv.org/abs/1412.6632](http://arxiv.org/abs/1412.6632)
 - homepage: [http://www.stat.ucla.edu/~junhua.mao/m-RNN.html](http://www.stat.ucla.edu/~junhua.mao/m-RNN.html)
+- arxiv: [http://arxiv.org/abs/1412.6632](http://arxiv.org/abs/1412.6632)
 - github: [https://github.com/mjhucla/mRNN-CR](https://github.com/mjhucla/mRNN-CR)
 - github: [https://github.com/mjhucla/TF-mRNN](https://github.com/mjhucla/TF-mRNN)
 
@@ -75,8 +76,8 @@ after the embedding and recurrent layers of the RNN."
 
 ![](http://kelvinxu.github.io/projects/diags/model_diag.png)
 
-- arxiv: [http://arxiv.org/abs/1502.03044](http://arxiv.org/abs/1502.03044)
 - project page: [http://kelvinxu.github.io/projects/capgen.html](http://kelvinxu.github.io/projects/capgen.html)
+- arxiv: [http://arxiv.org/abs/1502.03044](http://arxiv.org/abs/1502.03044)
 - github: [https://github.com/kelvinxu/arctic-captions](https://github.com/kelvinxu/arctic-captions)
 - github: [https://github.com/jazzsaxmafia/show_attend_and_tell.tensorflow](https://github.com/jazzsaxmafia/show_attend_and_tell.tensorflow)
 - demo: [http://www.cs.toronto.edu/~rkiros/abstract_captions.html](http://www.cs.toronto.edu/~rkiros/abstract_captions.html)
@@ -86,11 +87,6 @@ after the embedding and recurrent layers of the RNN."
 - website: [https://staff.fnwi.uva.nl/d.elliott/loc/](https://staff.fnwi.uva.nl/d.elliott/loc/)
 
 - - -
-
-**Describing Videos by Exploiting Temporal Structure**
-
-- arxiv: [http://arxiv.org/abs/1502.08029](http://arxiv.org/abs/1502.08029)
-- github: [https://github.com/yaoli/arctic-capgen-vid](https://github.com/yaoli/arctic-capgen-vid)
 
 **Learning like a Child: Fast Novel Visual Concept Learning from Sentence Descriptions of Images**
 
@@ -102,10 +98,10 @@ after the embedding and recurrent layers of the RNN."
 
 - arxiv: [http://arxiv.org/abs/1506.01144](http://arxiv.org/abs/1506.01144)
 
-**Learning FRAME Models Using CNN Filters for Knowledge Visualization(CVPR 2015)**
+**Learning FRAME Models Using CNN Filters for Knowledge Visualization (CVPR 2015)**
 
-- arxiv: [http://arxiv.org/abs/1509.08379](http://arxiv.org/abs/1509.08379)
 - project page: [http://www.stat.ucla.edu/~yang.lu/project/deepFrame/main.html](http://www.stat.ucla.edu/~yang.lu/project/deepFrame/main.html)
+- arxiv: [http://arxiv.org/abs/1509.08379](http://arxiv.org/abs/1509.08379)
 - code+data: [http://www.stat.ucla.edu/~yang.lu/project/deepFrame/doc/deepFRAME_1.1.zip](http://www.stat.ucla.edu/~yang.lu/project/deepFrame/doc/deepFRAME_1.1.zip)
 
 **Generating Images from Captions with Attention**
@@ -169,19 +165,37 @@ after the embedding and recurrent layers of the RNN."
 - arxiv: [https://arxiv.org/abs/1511.02283](https://arxiv.org/abs/1511.02283)
 - github: [https://github.com/mjhucla/Google_Refexp_toolbox](https://github.com/mjhucla/Google_Refexp_toolbox)
 
-# Video Captioning
+# Video Captioning / Description
+
+**Jointly Modeling Deep Video and Compositional Text to Bridge Vision and Language in a Unified Framework**
+
+- intro: AAAI 2015
+- paper: [http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Pan_Jointly_Modeling_Embedding_CVPR_2016_paper.pdf](http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Pan_Jointly_Modeling_Embedding_CVPR_2016_paper.pdf)
+- paper: [http://web.eecs.umich.edu/~jjcorso/pubs/xu_corso_AAAI2015_v2t.pdf](http://web.eecs.umich.edu/~jjcorso/pubs/xu_corso_AAAI2015_v2t.pdf)
 
 **Translating Videos to Natural Language Using Deep Recurrent Neural Networks**
 
-- arxiv: [http://arxiv.org/abs/1412.4729](http://arxiv.org/abs/1412.4729)
+![](https://www.cs.utexas.edu/~vsub/imgs/naacl-15-overview.png)
+
+- intro: NAACL-HLT 2015 camera ready
 - project page: [https://www.cs.utexas.edu/~vsub/naacl15_project.html](https://www.cs.utexas.edu/~vsub/naacl15_project.html)
+- arxiv: [http://arxiv.org/abs/1412.4729](http://arxiv.org/abs/1412.4729)
+- slides: [https://www.cs.utexas.edu/~vsub/pdf/Translating_Videos_slides.pdf](https://www.cs.utexas.edu/~vsub/pdf/Translating_Videos_slides.pdf)
+- code+data: [https://www.cs.utexas.edu/~vsub/naacl15_project.html#code](https://www.cs.utexas.edu/~vsub/naacl15_project.html#code)
 
-**Sequence to Sequence -- Video to Text(S2VT. ICCV 2015)**
+**Describing Videos by Exploiting Temporal Structure**
 
-![](/assets/image_captioning/S2VTarchitecture.png)
+- arxiv: [http://arxiv.org/abs/1502.08029](http://arxiv.org/abs/1502.08029)
+- github: [https://github.com/yaoli/arctic-capgen-vid](https://github.com/yaoli/arctic-capgen-vid)
 
+## S2VT
+
+**Sequence to Sequence -- Video to Text (S2VT. ICCV 2015)**
+
+![](http://www.cs.utexas.edu/~vsub/imgs/S2VTarchitecture.png)
+
+- project page: [http://vsubhashini.github.io/s2vt.html](http://vsubhashini.github.io/s2vt.html)
 - arxiv: [http://arxiv.org/abs/1505.00487](http://arxiv.org/abs/1505.00487)
-- project: [http://vsubhashini.github.io/s2vt.html](http://vsubhashini.github.io/s2vt.html)
 - github: [https://github.com/vsubhashini/caffe/tree/recurrent/examples/s2vt](https://github.com/vsubhashini/caffe/tree/recurrent/examples/s2vt)
 - github: [https://github.com/jazzsaxmafia/video_to_sequence](https://github.com/jazzsaxmafia/video_to_sequence)
 
@@ -192,6 +206,10 @@ after the embedding and recurrent layers of the RNN."
 **Video Description using Bidirectional Recurrent Neural Networks**
 
 - arxiv: [http://arxiv.org/abs/1604.03390](http://arxiv.org/abs/1604.03390)
+
+**Bidirectional Long-Short Term Memory for Video Description**
+
+- arxiv: [https://arxiv.org/abs/1606.04631](https://arxiv.org/abs/1606.04631)
 
 **3 Ways to Subtitle and Caption Your Videos Automatically Using Artificial Intelligence**
 
@@ -215,3 +233,8 @@ after the embedding and recurrent layers of the RNN."
 
 - arxiv: [http://arxiv.org/abs/1604.02748](http://arxiv.org/abs/1604.02748)
 - github: [https://github.com/raingo/TGIF-Release](https://github.com/raingo/TGIF-Release)
+
+**Collecting Multilingual Parallel Video Descriptions Using Mechanical Turk**
+
+- intro: 1970 YouTube video snippets: 1200 training, 100 validation, 670 test
+- homepage: [http://www.cs.utexas.edu/users/ml/clamp/videoDescription/](http://www.cs.utexas.edu/users/ml/clamp/videoDescription/)
