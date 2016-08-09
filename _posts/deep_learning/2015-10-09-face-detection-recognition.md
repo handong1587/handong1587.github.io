@@ -100,6 +100,10 @@ date: 2015-10-09
 
 - arxiv: [http://arxiv.org/abs/1608.01471](http://arxiv.org/abs/1608.01471)
 
+**Bootstrapping Face Detection with Hard Negative Examples**
+
+- arxiv: [http://arxiv.org/abs/1608.02236](http://arxiv.org/abs/1608.02236)
+
 # Datasets / Benchmarks
 
 **WIDER FACE: A Face Detection Benchmark**

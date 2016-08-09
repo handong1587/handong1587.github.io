@@ -123,6 +123,11 @@ date: 2015-10-09
 
 - arxiv: [https://arxiv.org/abs/1601.07754](https://arxiv.org/abs/1601.07754)
 
+**Learning Joint Representations of Videos and Sentences with Web Image Search**
+
+- intro: 4th Workshop on Web-scale Vision and Social Media (VSM), ECCV 2016
+- arxiv: [http://arxiv.org/abs/1608.02367](http://arxiv.org/abs/1608.02367)
+
 # Blogs
 
 **Using Sketches to Search for Products Online**

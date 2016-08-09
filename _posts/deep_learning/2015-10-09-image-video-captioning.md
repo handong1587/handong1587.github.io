@@ -98,6 +98,10 @@ after the embedding and recurrent layers of the RNN."
 
 - arxiv: [http://arxiv.org/abs/1506.01144](http://arxiv.org/abs/1506.01144)
 
+**Aligning where to see and what to tell: image caption with region-based attention and scene factorization**
+
+- arxiv: [http://arxiv.org/abs/1506.06272](http://arxiv.org/abs/1506.06272)
+
 **Learning FRAME Models Using CNN Filters for Knowledge Visualization (CVPR 2015)**
 
 - project page: [http://www.stat.ucla.edu/~yang.lu/project/deepFrame/main.html](http://www.stat.ucla.edu/~yang.lu/project/deepFrame/main.html)

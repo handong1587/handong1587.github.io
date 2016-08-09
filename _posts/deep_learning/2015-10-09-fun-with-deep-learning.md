@@ -171,6 +171,12 @@ Compressed model is less than 500KB
 - arxiv: [http://arxiv.org/abs/1604.08610](http://arxiv.org/abs/1604.08610)
 - github: [https://github.com/manuelruder/artistic-videos](https://github.com/manuelruder/artistic-videos)
 
+**How Deep Learning Can Paint Videos in the Style of Art’s Great Masters**
+
+![](https://blogs.nvidia.com/wp-content/uploads/2016/05/artistic-video-1200x528.jpg)
+
+- blog: [https://blogs.nvidia.com/blog/2016/05/25/deep-learning-paints-videos/](https://blogs.nvidia.com/blog/2016/05/25/deep-learning-paints-videos/)
+
 **DeepMovie: Using Optical Flow and Deep Neural Networks to Stylize Movies**
 
 - arxiv: [http://arxiv.org/abs/1605.08153](http://arxiv.org/abs/1605.08153)
