@@ -395,16 +395,6 @@ This task involves predicting the salient regions of an image given by human eye
 
 ## Face Deteciton
 
-## Facial Point / Landmark Detection
-
-**Deep Convolutional Network Cascade for Facial Point Detection**
-
-![](http://mmlab.ie.cuhk.edu.hk/archive/CNN/data/Picture1.png)
-
-- homepage: [http://mmlab.ie.cuhk.edu.hk/archive/CNN_FacePoint.htm](http://mmlab.ie.cuhk.edu.hk/archive/CNN_FacePoint.htm)
-- paper: [http://www.ee.cuhk.edu.hk/~xgwang/papers/sunWTcvpr13.pdf](http://www.ee.cuhk.edu.hk/~xgwang/papers/sunWTcvpr13.pdf)
-- github: [https://github.com/luoyetx/deep-landmark](https://github.com/luoyetx/deep-landmark)
-
 **Multi-view Face Detection Using Deep Convolutional Neural Networks**
 
 - intro: Yahoo
@@ -425,7 +415,7 @@ This task involves predicting the salient regions of an image given by human eye
 
 - arxiv: [http://arxiv.org/abs/1607.05477](http://arxiv.org/abs/1607.05477)
 
-## UnitBox
+### UnitBox
 
 **UnitBox: An Advanced Object Detection Network**
 
@@ -435,7 +425,7 @@ This task involves predicting the salient regions of an image given by human eye
 
 - arxiv: [http://arxiv.org/abs/1608.02236](http://arxiv.org/abs/1608.02236)
 
-## Datasets / Benchmarks
+### Datasets / Benchmarks
 
 **WIDER FACE: A Face Detection Benchmark**
 
@@ -443,6 +433,16 @@ This task involves predicting the salient regions of an image given by human eye
 
 - homepage: [http://mmlab.ie.cuhk.edu.hk/projects/WIDERFace/](http://mmlab.ie.cuhk.edu.hk/projects/WIDERFace/)
 - arxiv: [http://arxiv.org/abs/1511.06523](http://arxiv.org/abs/1511.06523)
+
+## Facial Point / Landmark Detection
+
+**Deep Convolutional Network Cascade for Facial Point Detection**
+
+![](http://mmlab.ie.cuhk.edu.hk/archive/CNN/data/Picture1.png)
+
+- homepage: [http://mmlab.ie.cuhk.edu.hk/archive/CNN_FacePoint.htm](http://mmlab.ie.cuhk.edu.hk/archive/CNN_FacePoint.htm)
+- paper: [http://www.ee.cuhk.edu.hk/~xgwang/papers/sunWTcvpr13.pdf](http://www.ee.cuhk.edu.hk/~xgwang/papers/sunWTcvpr13.pdf)
+- github: [https://github.com/luoyetx/deep-landmark](https://github.com/luoyetx/deep-landmark)
 
 ## People Detection
 
