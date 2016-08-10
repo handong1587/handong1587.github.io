@@ -393,6 +393,57 @@ This task involves predicting the salient regions of an image given by human eye
 
 # Specific Object Deteciton
 
+## Face Deteciton
+
+## Facial Point / Landmark Detection
+
+**Deep Convolutional Network Cascade for Facial Point Detection**
+
+![](http://mmlab.ie.cuhk.edu.hk/archive/CNN/data/Picture1.png)
+
+- homepage: [http://mmlab.ie.cuhk.edu.hk/archive/CNN_FacePoint.htm](http://mmlab.ie.cuhk.edu.hk/archive/CNN_FacePoint.htm)
+- paper: [http://www.ee.cuhk.edu.hk/~xgwang/papers/sunWTcvpr13.pdf](http://www.ee.cuhk.edu.hk/~xgwang/papers/sunWTcvpr13.pdf)
+- github: [https://github.com/luoyetx/deep-landmark](https://github.com/luoyetx/deep-landmark)
+
+**Multi-view Face Detection Using Deep Convolutional Neural Networks**
+
+- intro: Yahoo
+- arxiv: [http://arxiv.org/abs/1502.02766](http://arxiv.org/abs/1502.02766)
+
+**From Facial Parts Responses to Face Detection: A Deep Learning Approach**
+
+![](http://personal.ie.cuhk.edu.hk/~ys014/projects/Faceness/support/index.png)
+
+- project page: [http://personal.ie.cuhk.edu.hk/~ys014/projects/Faceness/Faceness.html](http://personal.ie.cuhk.edu.hk/~ys014/projects/Faceness/Faceness.html)
+
+**Compact Convolutional Neural Network Cascade for Face Detection**
+
+- arxiv: [http://arxiv.org/abs/1508.01292](http://arxiv.org/abs/1508.01292)
+- github: [https://github.com/Bkmz21/FD-Evaluation](https://github.com/Bkmz21/FD-Evaluation)
+
+**Supervised Transformer Network for Efficient Face Detection**
+
+- arxiv: [http://arxiv.org/abs/1607.05477](http://arxiv.org/abs/1607.05477)
+
+## UnitBox
+
+**UnitBox: An Advanced Object Detection Network**
+
+- arxiv: [http://arxiv.org/abs/1608.01471](http://arxiv.org/abs/1608.01471)
+
+**Bootstrapping Face Detection with Hard Negative Examples**
+
+- arxiv: [http://arxiv.org/abs/1608.02236](http://arxiv.org/abs/1608.02236)
+
+## Datasets / Benchmarks
+
+**WIDER FACE: A Face Detection Benchmark**
+
+![](http://mmlab.ie.cuhk.edu.hk/projects/WIDERFace/support/intro.jpg)
+
+- homepage: [http://mmlab.ie.cuhk.edu.hk/projects/WIDERFace/](http://mmlab.ie.cuhk.edu.hk/projects/WIDERFace/)
+- arxiv: [http://arxiv.org/abs/1511.06523](http://arxiv.org/abs/1511.06523)
+
 ## People Detection
 
 **End-to-end people detection in crowded scenes**

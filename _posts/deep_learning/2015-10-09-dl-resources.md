@@ -815,6 +815,11 @@ Image Caption Generation, Automatic Game Playing
 
 - blog: [http://blog.algorithmia.com/2016/07/open-source-deep-learning-algorithm-roundup/](http://blog.algorithmia.com/2016/07/open-source-deep-learning-algorithm-roundup/)
 
+**Makeup like a superstar: Deep Localized Makeup Transfer Network**
+
+- intro: IJCAI 2016
+- arxiv: [http://arxiv.org/abs/1604.07102](http://arxiv.org/abs/1604.07102)
+
 **Deep Cascaded Bi-Network for Face Hallucination**
 
 - project page: [http://mmlab.ie.cuhk.edu.hk/projects/CBN.html](http://mmlab.ie.cuhk.edu.hk/projects/CBN.html)
