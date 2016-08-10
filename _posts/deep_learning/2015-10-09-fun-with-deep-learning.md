@@ -145,6 +145,11 @@ Compressed model is less than 500KB
 
 - arxiv: [http://arxiv.org/abs/1607.08022](http://arxiv.org/abs/1607.08022)
 
+**Painting style transfer for head portraits using convolutional neural networks**
+
+- paper: [http://dl.acm.org/citation.cfm?id=2925968](http://dl.acm.org/citation.cfm?id=2925968)
+- sci-hub: [http://dl.acm.org.sci-hub.cc/citation.cfm?doid=2897824.2925968](http://dl.acm.org.sci-hub.cc/citation.cfm?doid=2897824.2925968)
+
 ## Neural Art On Audio
 
 **MSc AI Project on generative deep networks and neural style transfer for audio**

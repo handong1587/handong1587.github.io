@@ -539,6 +539,10 @@ for building Deep Learning (DL) machine learning (ML) models
 
 - github: [https://github.com/TensorFlowKR/awesome_tensorflow_implementations](https://github.com/TensorFlowKR/awesome_tensorflow_implementations)
 
+**The Ultimate List of TensorFlow Resources: Books, Tutorials & More**
+
+- blog: [https://hackerlists.com/tensorflow-resources/](https://hackerlists.com/tensorflow-resources/)
+
 # Theano
 
 **Theano**
@@ -725,3 +729,8 @@ for building Deep Learning (DL) machine learning (ML) models
 
 - intro: Torch / MxNet / Theano / Caffe
 - blog:[http://www.erogol.com/comparison-deep-learning-libraries-years-use/](http://www.erogol.com/comparison-deep-learning-libraries-years-use/)
+
+**Deep Learning Part 1: Comparison of Symbolic Deep Learning Frameworks**
+
+- intro: Theano / TensorFlow / MXNET
+- blog: [http://blog.revolutionanalytics.com/2016/08/deep-learning-part-1.html](http://blog.revolutionanalytics.com/2016/08/deep-learning-part-1.html)

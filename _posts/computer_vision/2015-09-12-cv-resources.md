@@ -552,6 +552,10 @@ The size of their dataset is, however, limited by the availability of domain-spe
 - website: [http://facedetection.jaysalvat.com/](http://facedetection.jaysalvat.com/)
 - github: [https://github.com/jaysalvat/jquery.facedetection](https://github.com/jaysalvat/jquery.facedetection)
 
+**Spoofing 2D Face Detection: Machines See People Who Aren't There**
+
+- arxiv: [http://arxiv.org/abs/1608.02128](http://arxiv.org/abs/1608.02128)
+
 # VR
 
 **Surround360 System: Facebook's open source hardware and software for capturing stereoscopic 3D 360 video for VR**

@@ -113,6 +113,13 @@ date: 2015-08-27
 
 - github: [https://github.com/zenecture/neuroflow](https://github.com/zenecture/neuroflow)
 
+**DN2A - Digital Neural Network Architecture**
+
+![](http://www.dn2a.org/images/concept-two-light.png)
+
+- homepage: [http://www.dn2a.org/](http://www.dn2a.org/)
+- github: [https://github.com/dn2a/dn2a-javascript](https://github.com/dn2a/dn2a-javascript)
+
 # Videos
 
 **Neural Networks with PHP**

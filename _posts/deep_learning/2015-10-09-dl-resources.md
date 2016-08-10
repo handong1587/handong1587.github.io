@@ -130,6 +130,10 @@ not just the convolutions)
 
 - blog: [https://dnlcrl.github.io/projects/2016/06/22/Deep-Residual-Networks-for-Image-Classification-with-Python+NumPy.html](https://dnlcrl.github.io/projects/2016/06/22/Deep-Residual-Networks-for-Image-Classification-with-Python+NumPy.html)
 
+**Residual Networks of Residual Networks: Multilevel Residual Networks**
+
+- arxiv: [http://arxiv.org/abs/1608.02908](http://arxiv.org/abs/1608.02908)
+
 ## Inception-V4
 
 **Inception-V4, Inception-Resnet And The Impact Of Residual Connections On Learning (Workshop track - ICLR 2016)**
@@ -1056,6 +1060,10 @@ Image Caption Generation, Automatic Game Playing
 
 - arxiv: [http://arxiv.org/abs/1606.08921](http://arxiv.org/abs/1606.08921)
 
+**Image Completion with Deep Learning in TensorFlow**
+
+- blog: [http://bamos.github.io/2016/08/09/deep-completion/](http://bamos.github.io/2016/08/09/deep-completion/)
+
 ## Image Super-Resolution
 
 **Image Super-Resolution Using Deep Convolutional Networks (Microsoft Research)**
@@ -1547,6 +1555,12 @@ Compatible with Theano and TensorFlow. Optimized for Twitter.
 - speech tagging demo: [http://dracula.sentimentron.co.uk/pos-demo/](http://dracula.sentimentron.co.uk/pos-demo/)
 - sentiment demo: [http://dracula.sentimentron.co.uk/sentiment-demo/](http://dracula.sentimentron.co.uk/sentiment-demo/)
 - github: [https://github.com/Sentimentron/Dracula](https://github.com/Sentimentron/Dracula)
+
+**Trained image classification models for Keras**
+
+- intro: Keras code and weights files for popular deep learning models.
+- intro: VGG16, VGG19, ResNet50, Inception v3
+- github: [https://github.com/fchollet/deep-learning-models](https://github.com/fchollet/deep-learning-models)
 
 ## gvnn
 

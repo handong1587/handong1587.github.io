@@ -117,6 +117,10 @@ extract saptio-temporal features to represent the video using the CNNs."
 - arxiv: [http://arxiv.org/abs/1608.00859](http://arxiv.org/abs/1608.00859)
 - github: [https://github.com/yjxiong/temporal-segment-networks](https://github.com/yjxiong/temporal-segment-networks)
 
+**Hierarchical Attention Network for Action Recognition in Videos**
+
+- arxiv: [http://arxiv.org/abs/1607.06416](http://arxiv.org/abs/1607.06416)
+
 # Projects
 
 **A Torch Library for Action Recognition and Detection Using CNNs and LSTMs**
@@ -124,6 +128,10 @@ extract saptio-temporal features to represent the video using the CNNs."
 - intro: CS231n student project report
 - paper: [http://cs231n.stanford.edu/reports2016/221_Report.pdf](http://cs231n.stanford.edu/reports2016/221_Report.pdf)
 - github: [https://github.com/garythung/torch-lrcn](https://github.com/garythung/torch-lrcn)
+
+**2016 ActivityNet action recognition challenge. CNN + LSTM approach. Multi-threaded loading.**
+
+- github: [https://github.com/jrbtaylor/ActivityNet](https://github.com/jrbtaylor/ActivityNet)
 
 # Datasets
 

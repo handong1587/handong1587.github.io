@@ -49,6 +49,7 @@ date: 2015-10-09
 
 - keyword: deep recurrent neural network, reinforcement learning
 - arxiv: [https://arxiv.org/abs/1412.7755](https://arxiv.org/abs/1412.7755)
+- github: [https://github.com/jrbtaylor/visual-attention](https://github.com/jrbtaylor/visual-attention)
 
 ## Fine-grained Recognition
 

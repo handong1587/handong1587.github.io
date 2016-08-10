@@ -73,3 +73,7 @@ date: 2015-08-27
 **A Neat Trick to Increase Robustness of Regression Models**
 
 - blog: [https://blog.clevertap.com/a-neat-trick-to-increase-robustness-of-regression-models/](https://blog.clevertap.com/a-neat-trick-to-increase-robustness-of-regression-models/)
+
+**A Primer on Logistic Regression**
+
+- blog: [https://blog.clevertap.com/a-primer-on-logistic-regression-part-i/](https://blog.clevertap.com/a-primer-on-logistic-regression-part-i/)

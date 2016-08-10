@@ -447,6 +447,7 @@ This task involves predicting the salient regions of an image given by human eye
 
 **DAVE: A Unified Framework for Fast Vehicle Detection and Annotation**
 
+- intro: ECCV 2016
 - arxiv: [http://arxiv.org/abs/1607.04564](http://arxiv.org/abs/1607.04564)
 
 ## Traffic-Sign Detection
@@ -457,32 +458,37 @@ This task involves predicting the salient regions of an image given by human eye
 - paper: [http://120.52.73.11/www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Zhu_Traffic-Sign_Detection_and_CVPR_2016_paper.pdf](http://120.52.73.11/www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Zhu_Traffic-Sign_Detection_and_CVPR_2016_paper.pdf)
 - code & model: [http://cg.cs.tsinghua.edu.cn/traffic-sign/data_model_code/newdata0411.zip](http://cg.cs.tsinghua.edu.cn/traffic-sign/data_model_code/newdata0411.zip)
 
-## Boundary Detection
+## Boundary / Edge / Contour Detection
+
+**Holistically-Nested Edge Detection**
+
+![](https://camo.githubusercontent.com/da32e7e3275c2a9693dd2a6925b03a1151e2b098/687474703a2f2f70616765732e756373642e6564752f7e7a74752f6865642e6a7067)
+
+- intro: ICCV 2015, Marr Prize
+- paper: [http://www.cv-foundation.org/openaccess/content_iccv_2015/papers/Xie_Holistically-Nested_Edge_Detection_ICCV_2015_paper.pdf](http://www.cv-foundation.org/openaccess/content_iccv_2015/papers/Xie_Holistically-Nested_Edge_Detection_ICCV_2015_paper.pdf)
+- arxiv: [http://arxiv.org/abs/1504.06375](http://arxiv.org/abs/1504.06375)
+- github: [https://github.com/s9xie/hed](https://github.com/s9xie/hed)
+
+**Unsupervised Learning of Edges**
+
+- intro: CVPR 2016. Facebook AI Research
+- arxiv: [http://arxiv.org/abs/1511.04166](http://arxiv.org/abs/1511.04166)
+- zn-blog: [http://www.leiphone.com/news/201607/b1trsg9j6GSMnjOP.html](http://www.leiphone.com/news/201607/b1trsg9j6GSMnjOP.html)
 
 **Pushing the Boundaries of Boundary Detection using Deep Learning**
 
 - arxiv: [http://arxiv.org/abs/1511.07386](http://arxiv.org/abs/1511.07386)
+
+**Convolutional Oriented Boundaries**
+
+- intro: ECCV 2016
+- arxiv: [http://arxiv.org/abs/1608.02755](http://arxiv.org/abs/1608.02755)
 
 ## Abnormality Detection
 
 **Toward a Taxonomy and Computational Models of Abnormalities in Images**
 
 - arxiv: [http://arxiv.org/abs/1512.01325](http://arxiv.org/abs/1512.01325)
-
-## Edge Detection
-
-**Holistically-Nested Edge Detection (ICCV 2015, Marr Prize)**
-
-![](https://camo.githubusercontent.com/da32e7e3275c2a9693dd2a6925b03a1151e2b098/687474703a2f2f70616765732e756373642e6564752f7e7a74752f6865642e6a7067)
-
-- paper: [http://www.cv-foundation.org/openaccess/content_iccv_2015/papers/Xie_Holistically-Nested_Edge_Detection_ICCV_2015_paper.pdf](http://www.cv-foundation.org/openaccess/content_iccv_2015/papers/Xie_Holistically-Nested_Edge_Detection_ICCV_2015_paper.pdf)
-- arxiv: [http://arxiv.org/abs/1504.06375](http://arxiv.org/abs/1504.06375)
-- github: [https://github.com/s9xie/hed](https://github.com/s9xie/hed)
-
-**Unsupervised Learning of Edges (CVPR 2016. Facebook AI Research)**
-
-- arxiv: [http://arxiv.org/abs/1511.04166](http://arxiv.org/abs/1511.04166)
-- zn-blog: [http://www.leiphone.com/news/201607/b1trsg9j6GSMnjOP.html](http://www.leiphone.com/news/201607/b1trsg9j6GSMnjOP.html)
 
 ## Skeleton Detection
 
