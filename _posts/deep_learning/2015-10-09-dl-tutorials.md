@@ -206,6 +206,12 @@ date: 2015-10-09
 
 - blog: [https://www.analyticsvidhya.com/blog/2016/08/evolution-core-concepts-deep-learning-neural-networks/](https://www.analyticsvidhya.com/blog/2016/08/evolution-core-concepts-deep-learning-neural-networks/)
 
+**An Intuitive Explanation of Convolutional Neural Networks**
+
+![](https://ujwlkarn.files.wordpress.com/2016/08/giphy.gif?w=748)
+
+- blog: [https://ujjwalkarn.me/2016/08/11/intuitive-explanation-convnets/](https://ujjwalkarn.me/2016/08/11/intuitive-explanation-convnets/)
+
 ## Convolution
 
 ![](/assets/cnn-materials/conv.jpg)
@@ -243,6 +249,11 @@ date: 2015-10-09
 ![](https://www.nervanasys.com/wp-content/uploads/2016/06/wino_2b_filter_transform.png)
 
 - blog: [https://www.nervanasys.com/winograd-2/](https://www.nervanasys.com/winograd-2/)
+
+**Playing with convolutions in TensorFlow: From a short introduction to convolution to a complete model**
+
+- blog: [http://mourafiq.com/2016/08/10/playing-with-convolutions-in-tensorflow.html](http://mourafiq.com/2016/08/10/playing-with-convolutions-in-tensorflow.html)
+- github: [https://github.com/mouradmourafiq/tensorflow-convolution-models](https://github.com/mouradmourafiq/tensorflow-convolution-models)
 
 ### maxDNN
 

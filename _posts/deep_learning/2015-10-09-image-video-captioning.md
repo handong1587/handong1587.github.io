@@ -194,14 +194,16 @@ after the embedding and recurrent layers of the RNN."
 
 ## S2VT
 
-**Sequence to Sequence -- Video to Text (S2VT. ICCV 2015)**
+**Sequence to Sequence -- Video to Text (S2VT)**
 
 ![](http://www.cs.utexas.edu/~vsub/imgs/S2VTarchitecture.png)
 
+- intro: ICCV 2015
 - project page: [http://vsubhashini.github.io/s2vt.html](http://vsubhashini.github.io/s2vt.html)
 - arxiv: [http://arxiv.org/abs/1505.00487](http://arxiv.org/abs/1505.00487)
-- github: [https://github.com/vsubhashini/caffe/tree/recurrent/examples/s2vt](https://github.com/vsubhashini/caffe/tree/recurrent/examples/s2vt)
-- github: [https://github.com/jazzsaxmafia/video_to_sequence](https://github.com/jazzsaxmafia/video_to_sequence)
+- slides: [https://www.cs.utexas.edu/~vsub/pdf/S2VT_slides.pdf](https://www.cs.utexas.edu/~vsub/pdf/S2VT_slides.pdf)
+- github(Caffe): [https://github.com/vsubhashini/caffe/tree/recurrent/examples/s2vt](https://github.com/vsubhashini/caffe/tree/recurrent/examples/s2vt)
+- github(TensorFlow): [https://github.com/jazzsaxmafia/video_to_sequence](https://github.com/jazzsaxmafia/video_to_sequence)
 
 **Jointly Modeling Embedding and Translation to Bridge Video and Language**
 

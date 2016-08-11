@@ -59,6 +59,7 @@ uncompress: sEx x FileName.*
 |                              | df -hl                |
 | Print current folder size    | du -sh DIRNAME        |
 | Print target folder volume (in MB) | du -sm          |
+| Prints one entry per line of output (bare format) | ls -1a         |
 
 # Download
 
@@ -453,10 +454,19 @@ eog /path/to/image/im.jpg
 display /path/to/image/im.jpg
 ```
 
-Convert text files with DOS or MAC line breaks to Unix line breaks
+Convert text files with DOS or MAC line breaks to Unix line breaks:
 
 ```
 sudo dos2unix /path/to/file
+```
+
+or:
+
+```
+sed -i 's/\r//' /path/to/file
+```
+
+```
 sudo sed -i -e 's/\r$//' /path/to/file
 ```
 

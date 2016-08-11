@@ -248,6 +248,10 @@ to decompose it into the multiplications of thinned dense matrices"
 - part 1: [https://medium.com/@sidd_reddy/mobile-friendly-deep-convolutional-neural-networks-part-1-331120ad40f9#.uy64ladvz](https://medium.com/@sidd_reddy/mobile-friendly-deep-convolutional-neural-networks-part-1-331120ad40f9#.uy64ladvz)
 - part 2: [https://medium.com/@sidd_reddy/mobile-friendly-deep-convolutional-neural-networks-part-2-making-deep-nets-shallow-701b2fbd3ca9#.u58fkuak3](https://medium.com/@sidd_reddy/mobile-friendly-deep-convolutional-neural-networks-part-2-making-deep-nets-shallow-701b2fbd3ca9#.u58fkuak3)
 
+**Lab41 Reading Group: Deep Compression**
+
+- blog: [https://gab41.lab41.org/lab41-reading-group-deep-compression-9c36064fb209#.hbqzn8wfu](https://gab41.lab41.org/lab41-reading-group-deep-compression-9c36064fb209#.hbqzn8wfu)
+
 # Videos
 
 **Deep compression and EIE: Deep learning model compression, design space exploration and hardware acceleration**

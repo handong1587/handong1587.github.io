@@ -337,6 +337,10 @@ and 1.15s per image with it".
 
 - homepage: [http://calvin.inf.ed.ac.uk/datasets/youtube-objects-dataset/](http://calvin.inf.ed.ac.uk/datasets/youtube-objects-dataset/)
 
+**ILSVRC2015: Object detection from video (VID)**
+
+- homepage: [http://vision.cs.unc.edu/ilsvrc2015/download-videos-3j16.php#vid](http://vision.cs.unc.edu/ilsvrc2015/download-videos-3j16.php#vid)
+
 # Salient Object Detection
 
 This task involves predicting the salient regions of an image given by human eye fixations.
@@ -643,3 +647,7 @@ We additionally provide an implementation of the [ReInspect](https://github.com/
 **CVPR 2016论文快讯：目标检测领域的新进展**
 
 [http://mp.weixin.qq.com/s?__biz=MzI1NTE4NTUwOQ==&mid=2650325043&idx=1&sn=bd016d98a40e8cf7d53ee674f201b4a7#rd](http://mp.weixin.qq.com/s?__biz=MzI1NTE4NTUwOQ==&mid=2650325043&idx=1&sn=bd016d98a40e8cf7d53ee674f201b4a7#rd)
+
+**Deep Learning for Object Detection with DIGITS**
+
+- blog: [https://devblogs.nvidia.com/parallelforall/deep-learning-object-detection-digits/](https://devblogs.nvidia.com/parallelforall/deep-learning-object-detection-digits/)
