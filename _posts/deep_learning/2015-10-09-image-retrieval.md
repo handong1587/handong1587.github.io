@@ -128,6 +128,10 @@ date: 2015-10-09
 - intro: 4th Workshop on Web-scale Vision and Social Media (VSM), ECCV 2016
 - arxiv: [http://arxiv.org/abs/1608.02367](http://arxiv.org/abs/1608.02367)
 
+**Multi-View Product Image Search Using ConvNets Features**
+
+- arxiv: [http://arxiv.org/abs/1608.03462](http://arxiv.org/abs/1608.03462)
+
 # Blogs
 
 **Using Sketches to Search for Products Online**

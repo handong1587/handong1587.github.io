@@ -45,9 +45,10 @@ date: 2015-10-09
 
 - paper: [http://research.microsoft.com/pubs/192937/Transactions-APSIPA.pdf](http://research.microsoft.com/pubs/192937/Transactions-APSIPA.pdf)
 
-**UFLDL Tutorial**
+**Stanford Unsupervised Feature Learning and Deep Learning Tutorial: UFLDL Tutorial**
 
-[http://ufldl.stanford.edu/tutorial/](http://ufldl.stanford.edu/tutorial/)
+- homepage: [http://ufldl.stanford.edu/tutorial/](http://ufldl.stanford.edu/tutorial/)
+- programming exercises: [https://github.com/amaas/stanford_dl_ex](https://github.com/amaas/stanford_dl_ex)
 
 **The Unreasonable Effectiveness of Deep Learning (LeCun)**
 

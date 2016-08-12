@@ -322,6 +322,10 @@ not very deep with only three convolution layers."
 - project page: [http://calvin.inf.ed.ac.uk/software/fast-video-segmentation/](http://calvin.inf.ed.ac.uk/software/fast-video-segmentation/)
 - paper: [http://calvin.inf.ed.ac.uk/wp-content/uploads/Publications/papazoglouICCV2013-camera-ready.pdf](http://calvin.inf.ed.ac.uk/wp-content/uploads/Publications/papazoglouICCV2013-camera-ready.pdf)
 
+**Object Detection, Tracking, and Motion Segmentation for Object-level Video Segmentation**
+
+- arxiv: [http://arxiv.org/abs/1608.03066](http://arxiv.org/abs/1608.03066)
+
 ## Benchmarks
 
 **Semantic Understanding of Urban Street Scenes: Benchmark Suite**

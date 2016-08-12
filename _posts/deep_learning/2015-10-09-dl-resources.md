@@ -1261,6 +1261,18 @@ alleviates the problem of video browsing, editing and indexing.
 
 - blog: [http://public.hudl.com/bits/archives/2015/06/05/highlights/?utm_source=tuicool&utm_medium=referral](http://public.hudl.com/bits/archives/2015/06/05/highlights/?utm_source=tuicool&utm_medium=referral)
 
+### Video Understanding
+
+**Slicing Convolutional Neural Network for Crowd Video Understanding**
+
+![](http://www.ee.cuhk.edu.hk/~jshao/SCNN_files/fig_network5.jpg)
+
+- intro: CVPR 2016
+- intro: It aims at learning generic spatio-temporal features from crowd videos, especially for long-term temporal learning
+- project page: [http://www.ee.cuhk.edu.hk/~jshao/SCNN.html](http://www.ee.cuhk.edu.hk/~jshao/SCNN.html)
+- paper: [http://www.ee.cuhk.edu.hk/~jshao/papers_jshao/jshao_cvpr16_scnn.pdf](http://www.ee.cuhk.edu.hk/~jshao/papers_jshao/jshao_cvpr16_scnn.pdf)
+- github: [https://github.com/amandajshao/Slicing-CNN](https://github.com/amandajshao/Slicing-CNN)
+
 # Deep Learning’s Accuracy
 
 - blog: [http://deeplearning4j.org/accuracy.html](http://deeplearning4j.org/accuracy.html)
@@ -1575,6 +1587,13 @@ Compatible with Theano and TensorFlow. Optimized for Twitter.
 - intro: VGG16, VGG19, ResNet50, Inception v3
 - github: [https://github.com/fchollet/deep-learning-models](https://github.com/fchollet/deep-learning-models)
 
+**PyCNN: Cellular Neural Networks Image Processing Python Library**
+
+![](https://camo.githubusercontent.com/0c5fd234a144b3d2145a133466766b2ecd9d3f3c/687474703a2f2f7777772e6973697765622e65652e6574687a2e63682f6861656e6767692f434e4e5f7765622f434e4e5f666967757265732f626c6f636b6469616772616d2e676966)
+
+- blog: [http://blog.ankitaggarwal.me/PyCNN/](http://blog.ankitaggarwal.me/PyCNN/)
+- github: [https://github.com/ankitaggarwal011/PyCNN](https://github.com/ankitaggarwal011/PyCNN)
+
 ## gvnn
 
 **gvnn: Neural Network Library for Geometric Computer Vision**
@@ -1681,6 +1700,10 @@ Compatible with Theano and TensorFlow. Optimized for Twitter.
 
 - blog: [https://computervisionblog.wordpress.com/2016/06/19/the-most-cited-papers-in-computer-vision-and-deep-learning/](https://computervisionblog.wordpress.com/2016/06/19/the-most-cited-papers-in-computer-vision-and-deep-learning/)
 
+**deep learning papers: A place to collect papers that are related to deep learning and computational biology**
+
+- github: [https://github.com/pimentel/deep_learning_papers](https://github.com/pimentel/deep_learning_papers)
+
 # Tools
 
 **DNNGraph - A deep neural network model generation DSL in Haskell**
@@ -1702,6 +1725,12 @@ Compatible with Theano and TensorFlow. Optimized for Twitter.
 
 - homepage: [http://deepdish.io/](http://deepdish.io/)
 - github: [https://github.com/uchicago-cs/deepdish](https://github.com/uchicago-cs/deepdish)
+
+**AETROS CLI: Console application to manage deep neural network training in AETROS Trainer**
+
+- intro: Create, train and monitor deep neural networks using a model designer.
+- homepage: [http://aetros.com/](http://aetros.com/)
+- github: [https://github.com/aetros/aetros-cli](https://github.com/aetros/aetros-cli)
 
 # Books
 

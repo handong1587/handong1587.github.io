@@ -80,6 +80,10 @@ date: 2015-08-27
 
 - blog: [http://neupy.com/2015/07/04/visualize_backpropagation_algorithms.html#gradient-descent](http://neupy.com/2015/07/04/visualize_backpropagation_algorithms.html#gradient-descent)
 
+**Backpropagation — How Neural Networks Learn Complex Behaviors**
+
+- blog: [https://medium.com/autonomous-agents/backpropagation-how-neural-networks-learn-complex-behaviors-9572ac161670#.ipu4jr2ka](https://medium.com/autonomous-agents/backpropagation-how-neural-networks-learn-complex-behaviors-9572ac161670#.ipu4jr2ka)
+
 # Project
 
 **Neural Networks demo in Javascript**

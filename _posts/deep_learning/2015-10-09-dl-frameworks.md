@@ -630,6 +630,10 @@ for building Deep Learning (DL) machine learning (ML) models
 
 - github: [https://github.com/MichaelMathieu/THFFmpeg](https://github.com/MichaelMathieu/THFFmpeg)
 
+**caffegraph: Load Caffe networks in Torch7 using nngraph**
+
+- github: [https://github.com/nhynes/caffegraph](https://github.com/nhynes/caffegraph)
+
 # VELES
 
 **VELES: Distributed platform for rapid Deep learning application development**

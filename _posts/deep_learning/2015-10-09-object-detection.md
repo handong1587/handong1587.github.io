@@ -560,6 +560,10 @@ This task involves predicting the salient regions of an image given by human eye
 
 - arxiv: [http://arxiv.org/abs/1605.01014](http://arxiv.org/abs/1605.01014)
 
+**Fashion Landmark Detection in the Wild**
+
+- arxiv: [http://arxiv.org/abs/1608.03049](http://arxiv.org/abs/1608.03049)
+
 # Object Proposal
 
 ## DeepProposal

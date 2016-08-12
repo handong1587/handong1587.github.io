@@ -121,6 +121,13 @@ extract saptio-temporal features to represent the video using the CNNs."
 
 - arxiv: [http://arxiv.org/abs/1607.06416](http://arxiv.org/abs/1607.06416)
 
+## DeepCAMP
+
+**DeepCAMP: Deep Convolutional Action & Attribute Mid-Level Patterns**
+
+- intro: CVPR 2016
+- arxiv: [http://arxiv.org/abs/1608.03217](http://arxiv.org/abs/1608.03217)
+
 # Projects
 
 **A Torch Library for Action Recognition and Detection Using CNNs and LSTMs**

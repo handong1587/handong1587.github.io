@@ -164,6 +164,11 @@ date: 2015-10-09
 
 - arxiv: [http://arxiv.org/abs/1607.06999](http://arxiv.org/abs/1607.06999)
 
+**A Discriminative Feature Learning Approach for Deep Face Recognition**
+
+- intro: ECCV 2016
+- paper: [http://ydwen.github.io/papers/WenECCV16.pdf](http://ydwen.github.io/papers/WenECCV16.pdf)
+
 #### Datasets / Benchmarks
 
 **The MegaFace Benchmark: 1 Million Faces for Recognition at Scale**

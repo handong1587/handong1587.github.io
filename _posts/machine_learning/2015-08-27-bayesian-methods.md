@@ -81,6 +81,12 @@ date: 2015-08-27
 
 - blog: [http://austinrochford.com/resources/talks/dataphilly-jul2016.slides.html](http://austinrochford.com/resources/talks/dataphilly-jul2016.slides.html)
 
+**webppl: Probabilistic programming for the web**
+
+- intro: webppl is a small but feature-rich probabilistic programming language embedded in Javascript.
+- homepage: [http://webppl.org/](http://webppl.org/)
+- github: [https://github.com/probmods/webppl](https://github.com/probmods/webppl)
+
 # Books
 
 **Probabilistic Programming & Bayesian Methods for Hackers**
