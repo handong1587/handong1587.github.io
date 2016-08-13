@@ -16,7 +16,10 @@ date: 2015-08-27
 
 **An Introduction to Conditional Random Fields**
 
-- arxiv: [http://arxiv.org/abs/1011.4088](http://arxiv.org/abs/1011.4088)
+- author: Charles Sutton and Andrew McCallum
+- intro: 90 pages
+- arxiv: [http://arxiv.org/abs/1011.4088](http://arxiv.org/abs/1011.4088
+- paper: [http://homepages.inf.ed.ac.uk/csutton/publications/crftut-fnt.pdf](http://homepages.inf.ed.ac.uk/csutton/publications/crftut-fnt.pdf)
 
 **Introduction to Conditional Random Fields**
 

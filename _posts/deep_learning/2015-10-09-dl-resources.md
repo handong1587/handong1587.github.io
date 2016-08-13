@@ -236,6 +236,10 @@ testing it on the MNIST handwritten digits data.
 - blog: [http://kvfrans.com/variational-autoencoders-explained/](http://kvfrans.com/variational-autoencoders-explained/)
 - github: [https://github.com/kvfrans/variational-autoencoder](https://github.com/kvfrans/variational-autoencoder)
 
+**Introducing Variational Autoencoders (in Prose and Code)**
+
+- blog: [http://blog.fastforwardlabs.com/post/148842796218/introducing-variational-autoencoders-in-prose-and](http://blog.fastforwardlabs.com/post/148842796218/introducing-variational-autoencoders-in-prose-and)
+
 # Semi-Supervised Learning
 
 **Semi-Supervised Learning with Graphs (Label Propagation)**
@@ -489,6 +493,10 @@ accuracy and the detection and localization accuracy of all tasks
 
 - blog: [http://russellsstewart.com/notes/0.html](http://russellsstewart.com/notes/0.html)
 - reddit: [https://www.reddit.com/r/MachineLearning/comments/4du7gv/introduction_to_debugging_neural_networks](https://www.reddit.com/r/MachineLearning/comments/4du7gv/introduction_to_debugging_neural_networks)
+
+**How to Visualize, Monitor and Debug Neural Network Learning**
+
+- blog: [http://deeplearning4j.org/visualization](http://deeplearning4j.org/visualization)
 
 # Adversarial Examples of Deep Learning
 
@@ -1190,6 +1198,16 @@ Bicubic VS. Shepard CNN
 **The Curious Robot: Learning Visual Representations via Physical Interactions**
 
 - arxiv: [http://arxiv.org/abs/1604.01360](http://arxiv.org/abs/1604.01360)
+
+## Deep Learning in Finance
+
+**Deep Learning in Finance**
+
+- arxiv: [http://arxiv.org/abs/1602.06561](http://arxiv.org/abs/1602.06561)
+
+**A Survey of Deep Learning Techniques Applied to Trading**
+
+- blog: [http://gregharris.info/a-survey-of-deep-learning-techniques-applied-to-trading/](http://gregharris.info/a-survey-of-deep-learning-techniques-applied-to-trading/)
 
 ## Video-related Applications
 

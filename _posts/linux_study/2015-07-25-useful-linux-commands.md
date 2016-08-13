@@ -44,7 +44,7 @@ uncompress: sEx x FileName.*
 # Print info
 
 | task                         | command               |
-|:----------------------------:|:---------------------:|
+|:-----------------------------|:---------------------:|
 | Print system info            | cat /proc/version     |
 | Print software info          | whereis SOFEWARE      |
 |                              | which SOFEWARE        |

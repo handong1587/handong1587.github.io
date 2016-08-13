@@ -367,6 +367,11 @@ The project is dedicated to hero in life great Jesse Livermore.
 
 - github: [https://github.com/matthiasplappert/keras-rl](https://github.com/matthiasplappert/keras-rl)
 
+**RL4J: Reinforcement Learning for the JVM**
+
+- intro: Reinforcement learning framework integrated with deeplearning4j.
+- github: [https://github.com/deeplearning4j/rl4j](https://github.com/deeplearning4j/rl4j)
+
 # Blogs
 
 **A Short Introduction To Some Reinforcement Learning Algorithms**

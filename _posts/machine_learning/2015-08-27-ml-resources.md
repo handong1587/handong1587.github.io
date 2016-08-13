@@ -515,7 +515,7 @@ Other awesome lists can be found in this [list](https://github.com/sindresorhus/
 
 [http://dustintran.com/blog/video-resources-for-machine-learning/](http://dustintran.com/blog/video-resources-for-machine-learning/)
 
-# blogs
+# Blogs
 
 **10 More lessons learned from building real-life Machine Learning systems — Part I**
 
@@ -559,6 +559,19 @@ Other awesome lists can be found in this [list](https://github.com/sindresorhus/
 **New to Machine Learning? Avoid these three mistakes**
 
 - blog: [https://medium.com/machine-intelligence-report/new-to-machine-learning-avoid-these-three-mistakes-73258b3848a4#.hi1iowlmf](https://medium.com/machine-intelligence-report/new-to-machine-learning-avoid-these-three-mistakes-73258b3848a4#.hi1iowlmf)
+
+**Machine Learning Exercises In Python**
+
+- part 1: [http://www.johnwittenauer.net/machine-learning-exercises-in-python-part-1/](http://www.johnwittenauer.net/machine-learning-exercises-in-python-part-1/)
+- part 2: [http://www.johnwittenauer.net/machine-learning-exercises-in-python-part-2/](http://www.johnwittenauer.net/machine-learning-exercises-in-python-part-2/)
+- part 3: [http://www.johnwittenauer.net/machine-learning-exercises-in-python-part-3/](http://www.johnwittenauer.net/machine-learning-exercises-in-python-part-3/)
+- part 4: [http://www.johnwittenauer.net/machine-learning-exercises-in-python-part-4/](http://www.johnwittenauer.net/machine-learning-exercises-in-python-part-4/)
+- part 5: [http://www.johnwittenauer.net/machine-learning-exercises-in-python-part-5/](http://www.johnwittenauer.net/machine-learning-exercises-in-python-part-5/)
+- part 6: [http://www.johnwittenauer.net/machine-learning-exercises-in-python-part-6/](http://www.johnwittenauer.net/machine-learning-exercises-in-python-part-6/)
+- part 7: [http://www.johnwittenauer.net/machine-learning-exercises-in-python-part-7/](http://www.johnwittenauer.net/machine-learning-exercises-in-python-part-7/)
+- part 8: [http://www.johnwittenauer.net/machine-learning-exercises-in-python-part-8/](http://www.johnwittenauer.net/machine-learning-exercises-in-python-part-8/)
+- github: [https://github.com/jdwittenauer/ipython-notebooks](https://github.com/jdwittenauer/ipython-notebooks)
+- reddit: [https://www.reddit.com/r/MachineLearning/comments/4xgkoa/all_of_andrew_ngs_machine_learning_class_in_python/](https://www.reddit.com/r/MachineLearning/comments/4xgkoa/all_of_andrew_ngs_machine_learning_class_in_python/)
 
 # Machine Learning Library
 

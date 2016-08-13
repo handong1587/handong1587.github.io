@@ -37,3 +37,15 @@ date: 2015-07-24
 
 - keywords: strace, dstat, tcpdump + wireshark, perf, opensnoop
 - blog: [http://jvns.ca/blog/2016/07/03/debugging-tools-i-love/](http://jvns.ca/blog/2016/07/03/debugging-tools-i-love/)
+
+**gdb Debugging Full Example (Tutorial): ncurses**
+
+- blog: [http://www.brendangregg.com/blog/2016-08-09/gdb-example-ncurses.html](http://www.brendangregg.com/blog/2016-08-09/gdb-example-ncurses.html)
+
+# Resources
+
+**Awesome Linux Software: A curated list of awesome applications, softwares, tools and other materials for Linux distros**
+
+![](https://cloud.githubusercontent.com/assets/6733770/17458846/b8cca9ae-5bf7-11e6-85ba-e6f2461e82de.jpg)
+
+- github: [https://github.com/VoLuong/Awesome-Linux-Software](https://github.com/VoLuong/Awesome-Linux-Software)

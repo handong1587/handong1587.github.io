@@ -127,6 +127,7 @@ topmost feature map after knowing the confidences of the underlying object categ
 
 **Object detection via a multi-region & semantic segmentation-aware CNN model (MR-CNN)**
 
+- intro: ICCV 2015
 - arxiv: [http://arxiv.org/abs/1505.01749](http://arxiv.org/abs/1505.01749)
 - github: [https://github.com/gidariss/mrcnn-object-detection](https://github.com/gidariss/mrcnn-object-detection)
 - notes: [http://zhangliliang.com/2015/05/17/paper-note-ms-cnn/](http://zhangliliang.com/2015/05/17/paper-note-ms-cnn/)
