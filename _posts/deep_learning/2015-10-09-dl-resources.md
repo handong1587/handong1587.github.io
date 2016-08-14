@@ -1211,6 +1211,12 @@ Bicubic VS. Shepard CNN
 
 ## Video-related Applications
 
+**Deep multi-scale video prediction beyond mean square error**
+
+- arxiv: [http://arxiv.org/abs/1511.05440](http://arxiv.org/abs/1511.05440)
+- github(TensorFlow): [https://github.com/dyelax/Adversarial_Video_Generation](https://github.com/dyelax/Adversarial_Video_Generation)
+- demo: [http://cs.nyu.edu/~mathieu/iclr2016.html](http://cs.nyu.edu/~mathieu/iclr2016.html)
+
 ### Video Classification
 
 ### Video Tagging
