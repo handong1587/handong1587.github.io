@@ -446,6 +446,11 @@ This task involves predicting the salient regions of an image given by human eye
 
 ### Datasets / Benchmarks
 
+**FDDB: Face Detection Data Set and Benchmark**
+
+- homepage: [http://vis-www.cs.umass.edu/fddb/index.html](http://vis-www.cs.umass.edu/fddb/index.html)
+- results: [http://vis-www.cs.umass.edu/fddb/results.html](http://vis-www.cs.umass.edu/fddb/results.html)
+
 **WIDER FACE: A Face Detection Benchmark**
 
 ![](http://mmlab.ie.cuhk.edu.hk/projects/WIDERFace/support/intro.jpg)
