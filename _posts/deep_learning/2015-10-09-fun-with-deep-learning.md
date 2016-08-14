@@ -97,6 +97,12 @@ with the style of another image using convolutional neural networks
 - github: [https://github.com/yusuketomoto/chainer-fast-neuralstyle](https://github.com/yusuketomoto/chainer-fast-neuralstyle)
 - github: [https://github.com/awentzonline/keras-rtst](https://github.com/awentzonline/keras-rtst)
 
+**Image transformation networks with fancy loss functions**
+
+- intro: Fast neural style in tensorflow based on [http://arxiv.org/abs/1603.08155](http://arxiv.org/abs/1603.08155)
+- blog: [http://olavnymoen.com/2016/07/07/image-transformation-network](http://olavnymoen.com/2016/07/07/image-transformation-network)
+- github: [https://github.com/OlavHN/fast-neural-style](https://github.com/OlavHN/fast-neural-style)
+
 **Improving the Neural Algorithm of Artistic Style**
 
 - arxiv: [http://arxiv.org/abs/1605.04603](http://arxiv.org/abs/1605.04603)

@@ -36,6 +36,7 @@ date: 2015-10-01
 **A Survey of Monte Carlo Tree Search Methods**
 
 - paper: [http://ccg.doc.gold.ac.uk/papers/browne_tciaig12_1.pdf](http://ccg.doc.gold.ac.uk/papers/browne_tciaig12_1.pdf)
+- paper: [http://www.cameronius.com/cv/mcts-survey-master.pdf](http://www.cameronius.com/cv/mcts-survey-master.pdf)
 
 # Rectangle Bin Packing
 

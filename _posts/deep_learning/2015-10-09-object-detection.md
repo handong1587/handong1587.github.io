@@ -13,16 +13,19 @@ date: 2015-10-09
 | SPP_net(ZF-5)       | 54.2%(1-model), 60.9%(2-model) | | |31.84%(1-model), 35.11%(6-model) |            |
 | DeepID-Net          | 64.1%       |             |             | 50.3%       |             |             |
 | NoC                 | 73.3%       |             | 68.8%       |             |             |             |
-| Fast-RCNN (VGG16)   | 70.0%       | 68.8%       | 68.4%       |             |             |             |
+| Fast-RCNN (VGG16)   | 70.0%       | 68.8%       | 68.4%       |             | 19.7%(@[0.5-0.95]), 35.9%(@0.5) | |
 | MR-CNN              | 78.2%       |             | 73.9%       |             |             |             |
-| Faster-RCNN (VGG16) | 69.9%/(07), 73.2%/(07+12), 78.8%/(COCO+07+12) | | 67.0%/(12), 70.4%/(07++12), 75.9%/(COCO+07++12) | | | 198ms |
+| Faster-RCNN (VGG16) | 69.9%/(07)  |             | 67.0%/(12)  |             |             | 198ms       |
+| Faster-RCNN (VGG16) | 73.2%/(07+12) |           | 70.4%/(07++12) |          |             | 198ms       |
+| Faster-RCNN (VGG16) | 78.8%/(COCO+07+12) |      | 75.9%/(COCO+07++12) |     | 21.9%(@[0.5-0.95]), 42.7%(@0.5) | 198ms |
 | SSD300 (VGG16)      | 72.1%       |             |             |             |             | 58 fps      |
 | SSD500 (VGG16)      | 75.1%       |             |             |             |             | 23 fps      | 
-| ION                 | 79.2%/(07+12+S) |       | 76.4%/(07+12+S)|            |             |             |
-| AZ-Net              | 70.4%       |             |             |             | 22.3%, 41.0%(IoU=0.5) |   |
+| ION                 | 79.2%/(07+12+S) |         | 76.4%/(07+12+S) |         |             |             |
+| AZ-Net              | 70.4%       |             |             |             | 22.3%(@[0.5-0.95]), 41.0%(@0.5) | |
 | CRAFT               | 75.7%       |             |  71.3%      |    48.5%    |             |             |
-| R-FCN (ResNet-50)   | 77.4%(07+12)|             |             |             |             | 0.12sec(K40), 0.09sec(Titian X) |
-| R-FCN (ResNet-101)  | 79.5%(07+12)|             |             |             |             | 0.17sec(K40), 0.12sec(Titian X) |
+| OHEM                | 78.9%       |             |  76.3%      |             | 25.5%(@[0.5-0.95]), 45.9%(@0.5) | |
+| R-FCN (ResNet-50)   | 77.4%(07+12)|             |             |             |             | 0.12sec(K40), 0.09sec(TitianX) |
+| R-FCN (ResNet-101)  | 79.5%(07+12)|             |             |             |             | 0.17sec(K40), 0.12sec(TitianX) |
 
 # Papers
 
@@ -40,8 +43,9 @@ topmost feature map after knowing the confidences of the underlying object categ
 
 ## R-CNN
 
-**Rich feature hierarchies for accurate object detection and semantic segmentation(R-CNN)**
+**Rich feature hierarchies for accurate object detection and semantic segmentation**
 
+- intro: R-CNN
 - arxiv: [http://arxiv.org/abs/1311.2524](http://arxiv.org/abs/1311.2524)
 - supp: [http://people.eecs.berkeley.edu/~rbg/papers/r-cnn-cvpr-supp.pdf](http://people.eecs.berkeley.edu/~rbg/papers/r-cnn-cvpr-supp.pdf)
 - slides: [http://www.image-net.org/challenges/LSVRC/2013/slides/r-cnn-ilsvrc2013-workshop.pdf](http://www.image-net.org/challenges/LSVRC/2013/slides/r-cnn-ilsvrc2013-workshop.pdf)
@@ -52,14 +56,15 @@ topmost feature map after knowing the confidences of the underlying object categ
 
 ## MultiBox
 
-**Scalable Object Detection using Deep Neural Networks (MultiBox)**
+**Scalable Object Detection using Deep Neural Networks**
 
-- intro: Train a CNN to predict Region of Interest.
+- intro: MultiBox. Train a CNN to predict Region of Interest.
 - arxiv: [http://arxiv.org/abs/1312.2249](http://arxiv.org/abs/1312.2249)
 - github: [https://github.com/google/multibox](https://github.com/google/multibox)
 
 **Scalable, High-Quality Object Detection**
 
+- intro: MultiBox
 - arxiv: [http://arxiv.org/abs/1412.1441](http://arxiv.org/abs/1412.1441)
 - github: [https://github.com/google/multibox](https://github.com/google/multibox)
 
@@ -125,9 +130,9 @@ topmost feature map after knowing the confidences of the underlying object categ
 
 ## MR-CNN
 
-**Object detection via a multi-region & semantic segmentation-aware CNN model (MR-CNN)**
+**Object detection via a multi-region & semantic segmentation-aware CNN model**
 
-- intro: ICCV 2015
+- intro: ICCV 2015. MR-CNN
 - arxiv: [http://arxiv.org/abs/1505.01749](http://arxiv.org/abs/1505.01749)
 - github: [https://github.com/gidariss/mrcnn-object-detection](https://github.com/gidariss/mrcnn-object-detection)
 - notes: [http://zhangliliang.com/2015/05/17/paper-note-ms-cnn/](http://zhangliliang.com/2015/05/17/paper-note-ms-cnn/)
@@ -135,8 +140,9 @@ topmost feature map after knowing the confidences of the underlying object categ
 
 ## Faster R-CNN
 
-**Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks(NIPS 2015)**
+**Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks**
 
+- intro: NIPS 2015
 - arxiv: [http://arxiv.org/abs/1506.01497](http://arxiv.org/abs/1506.01497)
 - github: [https://github.com/ShaoqingRen/faster_rcnn](https://github.com/ShaoqingRen/faster_rcnn)
 - github: [https://github.com/rbgirshick/py-faster-rcnn](https://github.com/rbgirshick/py-faster-rcnn)
@@ -200,8 +206,9 @@ and 1.15s per image with it".
 - slides: [http://www.seanbell.ca/tmp/ion-coco-talk-bell2015.pdf](http://www.seanbell.ca/tmp/ion-coco-talk-bell2015.pdf)
 - coco-leaderboard: [http://mscoco.org/dataset/#detections-leaderboard](http://mscoco.org/dataset/#detections-leaderboard)
 
-**Adaptive Object Detection Using Adjacency and Zoom Prediction (CVPR 2016)**
+**Adaptive Object Detection Using Adjacency and Zoom Prediction**
 
+- intro: CVPR 2016
 - arxiv: [http://arxiv.org/abs/1512.07711](http://arxiv.org/abs/1512.07711)
 - github: [https://github.com/luyongxi/az-net](https://github.com/luyongxi/az-net)
 - youtube: [https://www.youtube.com/watch?v=YmFtuNwxaNM](https://www.youtube.com/watch?v=YmFtuNwxaNM)
@@ -243,12 +250,16 @@ and 1.15s per image with it".
 - paper: [http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Yang_CRAFT_Objects_From_CVPR_2016_paper.pdf](http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Yang_CRAFT_Objects_From_CVPR_2016_paper.pdf)
 - github: [https://github.com/byangderek/CRAFT](https://github.com/byangderek/CRAFT)
 
+## OHEM
+
 **Training Region-based Object Detectors with Online Hard Example Mining**
 
+- intro: CVPR 2016 Oral. Online hard example mining (OHEM)
 - arxiv: [http://arxiv.org/abs/1604.03540](http://arxiv.org/abs/1604.03540)
 
-**Track and Transfer: Watching Videos to Simulate Strong Human Supervision for Weakly-Supervised Object Detection (CVPR 2016)**
+**Track and Transfer: Watching Videos to Simulate Strong Human Supervision for Weakly-Supervised Object Detection**
 
+- intro: CVPR 2016
 - arxiv: [http://arxiv.org/abs/1604.05766](http://arxiv.org/abs/1604.05766)
 
 **Exploit All the Layers: Fast and Accurate CNN Object Detector with Scale Dependent Pooling and Cascaded Rejection Classifiers**
@@ -383,10 +394,11 @@ This task involves predicting the salient regions of an image given by human eye
 
 - arxiv: [http://arxiv.org/abs/1607.04730](http://arxiv.org/abs/1607.04730)
 
-**Unconstrained Salient Object Detection (CVPR 2016)**
+**Unconstrained Salient Object Detection**
 
 ![](http://cs-people.bu.edu/jmzhang/images/pasted%20image%201465x373.jpg)
 
+- intro: CVPR 2016
 - project page: [http://cs-people.bu.edu/jmzhang/sod.html](http://cs-people.bu.edu/jmzhang/sod.html)
 - paper: [http://cs-people.bu.edu/jmzhang/SOD/CVPR16SOD_camera_ready.pdf](http://cs-people.bu.edu/jmzhang/SOD/CVPR16SOD_camera_ready.pdf)
 - github: [https://github.com/jimmie33/SOD](https://github.com/jimmie33/SOD)
@@ -428,6 +440,8 @@ This task involves predicting the salient regions of an image given by human eye
 
 **Bootstrapping Face Detection with Hard Negative Examples**
 
+- author: 万韶华 @ 小米.
+- intro: Faster R-CNN, hard negative mining. state-of-the-art on the FDDB dataset
 - arxiv: [http://arxiv.org/abs/1608.02236](http://arxiv.org/abs/1608.02236)
 
 ### Datasets / Benchmarks
@@ -468,7 +482,7 @@ This task involves predicting the salient regions of an image given by human eye
 
 ## Pedestrian Detection
 
-**Pedestrian Detection aided by Deep Learning Semantic Tasks**:
+**Pedestrian Detection aided by Deep Learning Semantic Tasks**
 
 - paper: [http://arxiv.org/abs/1412.0069](http://arxiv.org/abs/1412.0069)
 - project: [http://mmlab.ie.cuhk.edu.hk/projects/TA-CNN/](http://mmlab.ie.cuhk.edu.hk/projects/TA-CNN/)
@@ -576,16 +590,17 @@ This task involves predicting the salient regions of an image given by human eye
 
 ## DeepMask
 
-**Learning to Segment Object Candidates (DeepMask)**
+**Learning to Segment Object Candidates**
 
-- intro: learning segmentation proposals
+- intro: DeepMask. learning segmentation proposals
 - arxiv: [http://arxiv.org/abs/1506.06204](http://arxiv.org/abs/1506.06204)
 - github: [https://github.com/abbypa/NNProject_DeepMask](https://github.com/abbypa/NNProject_DeepMask)
 
 # Localization
 
-**Beyond Bounding Boxes: Precise Localization of Objects in Images (PhD Thesis)**
+**Beyond Bounding Boxes: Precise Localization of Objects in Images**
 
+- intro: PhD Thesis
 - homepage: [http://www.eecs.berkeley.edu/Pubs/TechRpts/2015/EECS-2015-193.html](http://www.eecs.berkeley.edu/Pubs/TechRpts/2015/EECS-2015-193.html)
 - phd-thesis: [http://www.eecs.berkeley.edu/Pubs/TechRpts/2015/EECS-2015-193.pdf](http://www.eecs.berkeley.edu/Pubs/TechRpts/2015/EECS-2015-193.pdf)
 - github("SDS using hypercolumns"): [https://github.com/bharath272/sds](https://github.com/bharath272/sds)

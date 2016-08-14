@@ -395,6 +395,12 @@ Insert current file name:
 :r! echo %
 ```
 
+**Insert characters at specific lines head**
+
+```
+:80,90s/^/#/
+```
+
 # Matlab
 
 Comment multi-lines in Matlab: Ctrl+R, Ctrl+T

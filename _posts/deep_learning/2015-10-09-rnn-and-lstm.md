@@ -109,6 +109,11 @@ date: 2015-10-09
 - github("LSTM with Batch Normalization"): [https://github.com/fchollet/keras/pull/2183](https://github.com/fchollet/keras/pull/2183)
 - notes: [http://www.shortscience.org/paper?bibtexKey=journals/corr/CooijmansBLC16](http://www.shortscience.org/paper?bibtexKey=journals/corr/CooijmansBLC16)
 
+**Batch normalized LSTM for Tensorflow**
+
+- blog: [http://olavnymoen.com/2016/07/07/rnn-batch-normalization](http://olavnymoen.com/2016/07/07/rnn-batch-normalization)
+- github: [https://github.com/OlavHN/bnlstm](https://github.com/OlavHN/bnlstm)
+
 **Optimizing Performance of Recurrent Neural Networks on GPUs**
 
 - arxiv: [http://arxiv.org/abs/1604.01946](http://arxiv.org/abs/1604.01946)
