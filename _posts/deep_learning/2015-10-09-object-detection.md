@@ -168,6 +168,14 @@ bounding boxes (which are shared for these categories).
 - github: [https://github.com/gliese581gg/YOLO_tensorflow](https://github.com/gliese581gg/YOLO_tensorflow)
 - github: [https://github.com/xingwangsfu/caffe-yolo](https://github.com/xingwangsfu/caffe-yolo)
 
+**Start Training YOLO with Our Own Data**
+
+![](http://guanghan.info/blog/en/wp-content/uploads/2015/12/images-40.jpg)
+
+- intro: train with customized data and class numbers/labels. Linux / Windows version for darknet.
+- blog: [http://guanghan.info/blog/en/my-works/train-yolo/](http://guanghan.info/blog/en/my-works/train-yolo/)
+- github: [https://github.com/Guanghan/darknet](https://github.com/Guanghan/darknet)
+
 **R-CNN minus R**
 
 - arxiv: [http://arxiv.org/abs/1506.06981](http://arxiv.org/abs/1506.06981)
