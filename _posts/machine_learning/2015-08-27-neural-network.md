@@ -62,6 +62,10 @@ date: 2015-08-27
 - blog: [http://blog.itdxer.com/2016/07/01/neural-networs-in-mysql.html](http://blog.itdxer.com/2016/07/01/neural-networs-in-mysql.html)
 - github: [https://github.com/itdxer/Neural-Network-in-MySQL](https://github.com/itdxer/Neural-Network-in-MySQL)
 
+**Neural Networks in JavaScript**
+
+- blog: [http://www.antoniodeluca.info/blog/10-08-2016/neural-networks-in-javascript.html](http://www.antoniodeluca.info/blog/10-08-2016/neural-networks-in-javascript.html)
+
 ## Backpropagation
 
 **A Step by Step Backpropagation Example**
@@ -123,6 +127,12 @@ date: 2015-08-27
 
 - homepage: [http://www.dn2a.org/](http://www.dn2a.org/)
 - github: [https://github.com/dn2a/dn2a-javascript](https://github.com/dn2a/dn2a-javascript)
+
+**visual-neural-net**
+
+- intro: Interactive visualization of artificial neural networks that leverages deeplearning4j, spring, and angular2
+- github(server): [https://github.com/JavaFXpert/visual-neural-net-server](https://github.com/JavaFXpert/visual-neural-net-server)
+- github(client):[https://github.com/JavaFXpert/ng2-spring-websocket-client](https://github.com/JavaFXpert/ng2-spring-websocket-client)
 
 # Videos
 

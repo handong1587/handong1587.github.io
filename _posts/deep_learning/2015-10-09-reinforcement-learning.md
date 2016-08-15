@@ -239,6 +239,16 @@ date: 2015-10-09
 - arxiv: [http://arxiv.org/abs/1606.02396](http://arxiv.org/abs/1606.02396)
 - github: [https://github.com/Ardavans/DSR](https://github.com/Ardavans/DSR)
 
+## RC-NFQ
+
+**Deep Reinforcement Learning with Regularized Convolutional Neural Fitted Q Iteration**
+**RC-NFQ: Regularized Convolutional Neural Fitted Q Iteration**
+
+- intro: A batch algorithm for deep reinforcement learning. 
+Incorporates dropout regularization and convolutional neural networks with a separate target Q network.
+- paper: [http://machineintelligence.org/papers/rc-nfq.pdf](http://machineintelligence.org/papers/rc-nfq.pdf)
+- github: [https://github.com/cosmoharrigan/rc-nfq](https://github.com/cosmoharrigan/rc-nfq)
+
 # Projects
 
 **Using Deep Q-Network to Learn How To Play Flappy Bird**

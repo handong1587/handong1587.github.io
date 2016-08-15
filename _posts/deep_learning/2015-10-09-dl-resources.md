@@ -652,7 +652,10 @@ with fast exact probabilistic inference over many layers."
 
 **Value Iteration Networks**
 
+![](https://raw.githubusercontent.com/karpathy/paper-notes/master/img/vin/Screen%20Shot%202016-08-13%20at%204.58.42%20PM.png)
+
 - arxiv: [http://arxiv.org/abs/1602.02867](http://arxiv.org/abs/1602.02867)
+- notes(by Andrej Karpathy): [https://github.com/karpathy/paper-notes/blob/master/vin.md](https://github.com/karpathy/paper-notes/blob/master/vin.md)
 
 **How to Train Deep Variational Autoencoders and Probabilistic Ladder Networks**
 
@@ -1166,6 +1169,29 @@ Bicubic VS. Shepard CNN
 
 - arxiv: [https://arxiv.org/abs/1606.00373](https://arxiv.org/abs/1606.00373)
 - github: [https://github.com/iro-cp/FCRN-DepthPrediction](https://github.com/iro-cp/FCRN-DepthPrediction)
+
+## Texture Synthesis
+
+**Texture Synthesis Using Convolutional Neural Networks**
+
+- arxiv: [http://arxiv.org/abs/1505.07376](http://arxiv.org/abs/1505.07376)
+
+**Combining Markov Random Fields and Convolutional Neural Networks for Image Synthesis**
+
+- arxiv: [http://arxiv.org/abs/1601.04589](http://arxiv.org/abs/1601.04589)
+
+**Texture Networks: Feed-forward Synthesis of Textures and Stylized Images**
+
+![](https://raw.githubusercontent.com/DmitryUlyanov/texture_nets/master/data/readme_pics/all.jpg)
+
+- intro: IMCL 2016
+- arxiv: [http://arxiv.org/abs/1603.03417](http://arxiv.org/abs/1603.03417)
+- github: [https://github.com/DmitryUlyanov/texture_nets](https://github.com/DmitryUlyanov/texture_nets)
+
+**Precomputed Real-Time Texture Synthesis with Markovian Generative Adversarial Networks**
+
+- arxiv: [http://arxiv.org/abs/1604.04382](http://arxiv.org/abs/1604.04382)
+- github(Torch): [https://github.com/chuanli11/MGANs](https://github.com/chuanli11/MGANs)
 
 ## Music Tagging
 
@@ -1727,6 +1753,11 @@ Compatible with Theano and TensorFlow. Optimized for Twitter.
 **deep learning papers: A place to collect papers that are related to deep learning and computational biology**
 
 - github: [https://github.com/pimentel/deep_learning_papers](https://github.com/pimentel/deep_learning_papers)
+
+**papers-I-read**
+
+- intro: "I am trying a new initiative - a-paper-a-week. This repository will hold all those papers and related summaries and notes."
+- github: [https://github.com/shagunsodhani/papers-I-read](https://github.com/shagunsodhani/papers-I-read)
 
 # Tools
 

@@ -217,7 +217,9 @@ Compressed model is less than 500KB
 
 ![](https://raw.githubusercontent.com/DmitryUlyanov/online-neural-doodle/master/data/starry/grid.png)
 
+- blog: [http://dmitryulyanov.github.io/feed-forward-neural-doodle/](http://dmitryulyanov.github.io/feed-forward-neural-doodle/)
 - github: [https://github.com/DmitryUlyanov/online-neural-doodle](https://github.com/DmitryUlyanov/online-neural-doodle)
+- demo: [http://likemo.net/](http://likemo.net/)
 
 **neural image analogies: Generate image analogies using neural matching and blending**
 
