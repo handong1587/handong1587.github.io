@@ -30,11 +30,12 @@ date: 2015-10-09
 
 **Segmentation from Natural Language Expressions**
 
-![](https://camo.githubusercontent.com/b3ad4ad6d83ceb6bf6b8f8346bc545ac6ae1fba1/687474703a2f2f7777772e656563732e6265726b656c65792e6564752f253745726f6e6768616e672f70726f6a656374732f746578745f6f626a7365672f746578745f6f626a7365675f64656d6f2e6a7067)
+![](http://ronghanghu.com/wp-content/uploads/text_objseg_method-768x331.jpg)
 
-- homepage: [http://ronghanghu.com/text_objseg/](http://ronghanghu.com/text_objseg/)
+- project page: [http://ronghanghu.com/text_objseg/](http://ronghanghu.com/text_objseg/)
 - arxiv: [http://arxiv.org/abs/1603.06180](http://arxiv.org/abs/1603.06180)
-- github: [https://github.com/ronghanghu/text_objseg](https://github.com/ronghanghu/text_objseg)
+- github(TensorFlow): [https://github.com/ronghanghu/text_objseg](https://github.com/ronghanghu/text_objseg)
+- gtihub(Caffe): [https://github.com/Seth-Park/text_objseg_caffe](https://github.com/Seth-Park/text_objseg_caffe)
 
 **Semantic Object Parsing with Graph LSTM**
 
