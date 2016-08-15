@@ -69,6 +69,10 @@ paper: [http://www.lv-nus.org/papers/2011/cvpr2010-context_final.pdf](http://www
 
 - arxiv: [http://arxiv.org/abs/1605.07586](http://arxiv.org/abs/1605.07586)
 
+**Automatic detection of moving objects in video surveillance**
+
+- arxiv: [http://arxiv.org/abs/1608.03617](http://arxiv.org/abs/1608.03617)
+
 # Blogs
 
 **Real-time Webcam Barcode Detection with OpenCV and C++**

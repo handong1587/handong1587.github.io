@@ -860,6 +860,11 @@ Image Caption Generation, Automatic Game Playing
 - project page(code): [http://mmlab.ie.cuhk.edu.hk/projects/ARCNN.html](http://mmlab.ie.cuhk.edu.hk/projects/ARCNN.html)
 - arxiv: [http://arxiv.org/abs/1608.02778](http://arxiv.org/abs/1608.02778)
 
+**Deep GDashboard: Visualizing and Understanding Genomic Sequences Using Deep Neural Networks**
+
+- intro: Deep Genomic Dashboard (Deep GDashboard)
+- arxiv: [http://arxiv.org/abs/1608.03644](http://arxiv.org/abs/1608.03644)
+
 ## Age Estimation
 
 **Deeply-Learned Feature for Age Estimation**

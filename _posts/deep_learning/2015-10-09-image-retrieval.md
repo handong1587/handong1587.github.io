@@ -113,6 +113,18 @@ date: 2015-10-09
 
 - arxiv: [http://arxiv.org/abs/1608.01807](http://arxiv.org/abs/1608.01807)
 
+## Deep Hashing
+
+**Deep Hashing: A Joint Approach for Image Signature Learning**
+
+- arxiv: [http://arxiv.org/abs/1608.03658](http://arxiv.org/abs/1608.03658)
+
+## DeepDiary
+
+**DeepDiary: Automatic Caption Generation for Lifelogging Image Streams**
+
+- arxiv: [http://arxiv.org/abs/1608.03819](http://arxiv.org/abs/1608.03819)
+
 # Video Indexing / Retrieval
 
 **Face Video Retrieval via Deep Learning of Binary Hash Representations**
