@@ -696,6 +696,10 @@ with fast exact probabilistic inference over many layers."
 
 - arxiv: [http://arxiv.org/abs/1608.01409](http://arxiv.org/abs/1608.01409)
 
+**Factorized Convolutional Neural Networks**
+
+- arxiv: [http://arxiv.org/abs/1608.04337](http://arxiv.org/abs/1608.04337)
+
 ## Highway Networks
 
 **Highway Networks**
@@ -1040,7 +1044,7 @@ Image Caption Generation, Automatic Game Playing
 - paper: [http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Zhang_Single-Image_Crowd_Counting_CVPR_2016_paper.pdf](http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Zhang_Single-Image_Crowd_Counting_CVPR_2016_paper.pdf)
 - dataset(pwd: p1rv): [http://pan.baidu.com/s/1gfyNBTh](http://pan.baidu.com/s/1gfyNBTh)
 
-## Music Classification
+## Music / Sound Classification
 
 **Explaining Deep Convolutional Neural Networks on Music Classification**
 
@@ -1049,6 +1053,10 @@ Image Caption Generation, Automatic Game Playing
 - blog: [https://keunwoochoi.wordpress.com/2016/03/23/what-cnns-see-when-cnns-see-spectrograms/](https://keunwoochoi.wordpress.com/2016/03/23/what-cnns-see-when-cnns-see-spectrograms/)
 - github: [https://github.com/keunwoochoi/Auralisation](https://github.com/keunwoochoi/Auralisation)
 - audio samples: [https://soundcloud.com/kchoi-research](https://soundcloud.com/kchoi-research)
+
+**Deep Convolutional Neural Networks and Data Augmentation for Environmental Sound Classification**
+
+- arxiv: [http://arxiv.org/abs/1608.04363](http://arxiv.org/abs/1608.04363)
 
 ## NSFW Detection / Classification 
 
@@ -1145,6 +1153,12 @@ Bicubic VS. Shepard CNN
 - intro: speed up of more than 40 times with even superior restoration quality, real-time performance on a generic CPU
 - project page: [http://mmlab.ie.cuhk.edu.hk/projects/FSRCNN.html](http://mmlab.ie.cuhk.edu.hk/projects/FSRCNN.html)
 - arxiv: [http://arxiv.org/abs/1608.00367](http://arxiv.org/abs/1608.00367)
+
+## Image Denoising
+
+**Beyond a Gaussian Denoiser: Residual Learning of Deep CNN for Image Denoising**
+
+- arxiv: [http://arxiv.org/abs/1608.03981](http://arxiv.org/abs/1608.03981)
 
 ## Image Haze Removal
 

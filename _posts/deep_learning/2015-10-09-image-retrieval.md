@@ -125,6 +125,11 @@ date: 2015-10-09
 
 - arxiv: [http://arxiv.org/abs/1608.03819](http://arxiv.org/abs/1608.03819)
 
+**Transitive Hashing Network for Heterogeneous Multimedia Retrieval**
+
+- intro: state of the art on NUS-WIDE, ImageNet-YahooQA
+- arxiv: [http://arxiv.org/abs/1608.04307](http://arxiv.org/abs/1608.04307)
+
 # Video Indexing / Retrieval
 
 **Face Video Retrieval via Deep Learning of Binary Hash Representations**
@@ -143,6 +148,12 @@ date: 2015-10-09
 **Multi-View Product Image Search Using ConvNets Features**
 
 - arxiv: [http://arxiv.org/abs/1608.03462](http://arxiv.org/abs/1608.03462)
+
+# Datasets
+
+**NUS-WIDE**
+
+**ImageNet-YahooQA**
 
 # Blogs
 
