@@ -228,6 +228,9 @@ date: 2015-10-09
 
 - intro: ACL 2015. Tree RNNs aka Recursive Neural Networks
 - arxiv: [https://arxiv.org/abs/1503.00075](https://arxiv.org/abs/1503.00075)
+- slides: [http://lit.eecs.umich.edu/wp-content/uploads/2015/10/tree-lstms.pptx](http://lit.eecs.umich.edu/wp-content/uploads/2015/10/tree-lstms.pptx)
+- gitxiv: [http://www.gitxiv.com/posts/esrArT2iLmSfNRrto/tree-structured-long-short-term-memory-networks](http://www.gitxiv.com/posts/esrArT2iLmSfNRrto/tree-structured-long-short-term-memory-networks)
+- github: [https://github.com/stanfordnlp/treelstm](https://github.com/stanfordnlp/treelstm)
 - github: [https://github.com/ofirnachum/tree_rnn](https://github.com/ofirnachum/tree_rnn)
 
 **LSTM: A Search Space Odyssey**
