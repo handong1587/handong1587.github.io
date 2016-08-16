@@ -622,6 +622,10 @@ This task involves predicting the salient regions of an image given by human eye
 
 - arxiv: [http://arxiv.org/abs/1503.00949](http://arxiv.org/abs/1503.00949)
 
+**Weakly Supervised Object Localization Using Size Estimates**
+
+- arxiv: [http://arxiv.org/abs/1608.04314](http://arxiv.org/abs/1608.04314)
+
 ## LocNet
 
 **LocNet: Improving Localization Accuracy for Object Detection**

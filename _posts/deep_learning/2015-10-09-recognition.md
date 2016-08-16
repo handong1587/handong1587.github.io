@@ -259,6 +259,12 @@ facial action unit recognition, and eye-gaze estimation.
 - project page: [http://personal.ie.cuhk.edu.hk/~lz013/projects/DeepFashion.html](http://personal.ie.cuhk.edu.hk/~lz013/projects/DeepFashion.html)
 - paper: [http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Liu_DeepFashion_Powering_Robust_CVPR_2016_paper.pdf](http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Liu_DeepFashion_Powering_Robust_CVPR_2016_paper.pdf)
 
+### Place Recognition
+
+**Visual place recognition using landmark distribution descriptors**
+
+- arxiv: [http://arxiv.org/abs/1608.04274](http://arxiv.org/abs/1608.04274)
+
 # Scene Recognition
 
 **Learning Deep Features for Scene Recognition using Places Database**

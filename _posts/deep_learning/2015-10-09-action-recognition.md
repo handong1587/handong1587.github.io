@@ -128,6 +128,12 @@ extract saptio-temporal features to represent the video using the CNNs."
 - intro: CVPR 2016
 - arxiv: [http://arxiv.org/abs/1608.03217](http://arxiv.org/abs/1608.03217)
 
+## Depth2Action
+
+**Depth2Action: Exploring Embedded Depth for Large-Scale Action Recognition**
+
+- arxiv: [http://arxiv.org/abs/1608.04339](http://arxiv.org/abs/1608.04339)
+
 # Projects
 
 **A Torch Library for Action Recognition and Detection Using CNNs and LSTMs**
