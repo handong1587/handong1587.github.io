@@ -18,31 +18,32 @@ date: 2015-10-09
 - slides: [http://videolectures.net/site/normal_dl/tag=921098/eccv2014_zeiler_convolutional_networks_01.pdf](http://videolectures.net/site/normal_dl/tag=921098/eccv2014_zeiler_convolutional_networks_01.pdf)
 - video: [http://videolectures.net/eccv2014_zeiler_convolutional_networks/](http://videolectures.net/eccv2014_zeiler_convolutional_networks/)
 - chs: [http://blog.csdn.net/kklots/article/details/17136059](http://blog.csdn.net/kklots/article/details/17136059)
+- github: [https://github.com/piergiaj/caffe-deconvnet](https://github.com/piergiaj/caffe-deconvnet)
 
 **Deep Inside Convolutional Networks: Visualising Image Classification Models and Saliency Maps (ICLR 2014 workshop)**
 
-- paper: [http://arxiv.org/abs/1312.6034](http://arxiv.org/abs/1312.6034)
+- arxiv: [http://arxiv.org/abs/1312.6034](http://arxiv.org/abs/1312.6034)
 - github: [https://github.com/yasunorikudo/vis-cnn](https://github.com/yasunorikudo/vis-cnn)
 
 **Understanding Deep Image Representations by Inverting Them**
 
-- paper: [http://arxiv.org/abs/1412.0035](http://arxiv.org/abs/1412.0035)
-- code: [https://github.com/aravindhm/deep-goggle](https://github.com/aravindhm/deep-goggle)
+- arxiv: [http://arxiv.org/abs/1412.0035](http://arxiv.org/abs/1412.0035)
+- github: [https://github.com/aravindhm/deep-goggle](https://github.com/aravindhm/deep-goggle)
 
 **deepViz: Visualizing Convolutional Neural Networks for Image Classification**
 
 - paper: [http://vis.berkeley.edu/courses/cs294-10-fa13/wiki/images/f/fd/DeepVizPaper.pdf](http://vis.berkeley.edu/courses/cs294-10-fa13/wiki/images/f/fd/DeepVizPaper.pdf)
-- code: [https://github.com/bruckner/deepViz](https://github.com/bruckner/deepViz)
+- github: [https://github.com/bruckner/deepViz](https://github.com/bruckner/deepViz)
 
 **Inverting Convolutional Networks with Convolutional Networks**
 
-- paper: [http://arxiv.org/abs/1506.02753](http://arxiv.org/abs/1506.02753)
+- arxiv: [http://arxiv.org/abs/1506.02753](http://arxiv.org/abs/1506.02753)
 
 **Understanding Neural Networks Through Deep Visualization**
 
-- paper: [http://arxiv.org/abs/1506.06579](http://arxiv.org/abs/1506.06579)
-- project: [http://yosinski.com/deepvis](http://yosinski.com/deepvis)
-- code: [https://github.com/yosinski/deep-visualization-toolbox](https://github.com/yosinski/deep-visualization-toolbox)
+- project page: [http://yosinski.com/deepvis](http://yosinski.com/deepvis)
+- arxiv: [http://arxiv.org/abs/1506.06579](http://arxiv.org/abs/1506.06579)
+- github: [https://github.com/yosinski/deep-visualization-toolbox](https://github.com/yosinski/deep-visualization-toolbox)
 
 **Visualizing Higher-Layer Features of a Deep Network**
 
@@ -50,8 +51,8 @@ date: 2015-10-09
 
 **Generative Modeling of Convolutional Neural Networks**
 
-- paper: [http://arxiv.org/abs/1412.6296](http://arxiv.org/abs/1412.6296)
-- project: [http://www.stat.ucla.edu/~yang.lu/Project/generativeCNN/main.html](http://www.stat.ucla.edu/~yang.lu/Project/generativeCNN/main.html)
+- project page: [http://www.stat.ucla.edu/~yang.lu/Project/generativeCNN/main.html](http://www.stat.ucla.edu/~yang.lu/Project/generativeCNN/main.html)
+- arxiv: [http://arxiv.org/abs/1412.6296](http://arxiv.org/abs/1412.6296)
 - code: [http://www.stat.ucla.edu/~yang.lu/Project/generativeCNN/doc/caffe-generative.zip](http://www.stat.ucla.edu/~yang.lu/Project/generativeCNN/doc/caffe-generative.zip)
 
 **Understanding Intra-Class Knowledge Inside CNN**
@@ -60,8 +61,8 @@ date: 2015-10-09
 
 **Learning FRAME Models Using CNN Filters for Knowledge Visualization**
 
+- project page: [http://www.stat.ucla.edu/~yang.lu/project/deepFrame/main.html](http://www.stat.ucla.edu/~yang.lu/project/deepFrame/main.html)
 - arxiv: [http://arxiv.org/abs/1509.08379](http://arxiv.org/abs/1509.08379)
-- homepage: [http://www.stat.ucla.edu/~yang.lu/project/deepFrame/main.html](http://www.stat.ucla.edu/~yang.lu/project/deepFrame/main.html)
 - code: [http://www.stat.ucla.edu/~yang.lu/project/deepFrame/doc/code.zip](http://www.stat.ucla.edu/~yang.lu/project/deepFrame/doc/code.zip)
 
 **Convergent Learning: Do different neural networks learn the same representations? (ICLR 2016)**
@@ -106,7 +107,7 @@ date: 2015-10-09
 
 **Interactive Deep Neural Net Hallucinations**
 
-- project: [http://317070.github.io/Dream/](http://317070.github.io/Dream/)
+- project page: [http://317070.github.io/Dream/](http://317070.github.io/Dream/)
 - github: [https://github.com/317070/Twitch-plays-LSD-neural-net](https://github.com/317070/Twitch-plays-LSD-neural-net)
 
 **torch-visbox**

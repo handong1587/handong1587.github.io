@@ -157,6 +157,12 @@ date: 2015-09-12
 
 - arxiv: [http://arxiv.org/abs/1607.03406](http://arxiv.org/abs/1607.03406)
 
+**Content-based image retrieval tutorial**
+
+- intro: KNN, SVM, MatLab GUI
+- arxiv: [http://arxiv.org/abs/1608.03811](http://arxiv.org/abs/1608.03811)
+- github: [https://github.com/kirk86/ImageRetrieval](https://github.com/kirk86/ImageRetrieval)
+
 # Image Summary
 
 **Summarizing Visual Data Using Bidirectional Similarity**

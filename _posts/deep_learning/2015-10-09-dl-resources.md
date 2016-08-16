@@ -1057,6 +1057,7 @@ Image Caption Generation, Automatic Game Playing
 **Deep Convolutional Neural Networks and Data Augmentation for Environmental Sound Classification**
 
 - arxiv: [http://arxiv.org/abs/1608.04363](http://arxiv.org/abs/1608.04363)
+- project page: [http://www.stat.ucla.edu/~yang.lu/project/deepFrame/main.html](http://www.stat.ucla.edu/~yang.lu/project/deepFrame/main.html)
 
 ## NSFW Detection / Classification 
 
@@ -1447,9 +1448,9 @@ alleviates the problem of video browsing, editing and indexing.
 **Harnessing Deep Neural Networks with Logic Rules**
 
  - arxiv: [http://arxiv.org/abs/1603.06318](http://arxiv.org/abs/1603.06318)
- 
+
 **Degrees of Freedom in Deep Neural Networks**
- 
+
 - arxiv: [http://arxiv.org/abs/1603.09260](http://arxiv.org/abs/1603.09260)
 
 **Deep Networks with Stochastic Depth**
@@ -1508,6 +1509,12 @@ alleviates the problem of video browsing, editing and indexing.
 **Recent Advances in Convolutional Neural Networks**
 
 - arxiv: [http://arxiv.org/abs/1512.07108](http://arxiv.org/abs/1512.07108)
+
+**TI-POOLING: transformation-invariant pooling for feature learning in Convolutional Neural Networks**
+
+- intro: CVPR 2016
+- paper: [http://dlaptev.org/papers/Laptev16_CVPR.pdf](http://dlaptev.org/papers/Laptev16_CVPR.pdf)
+- github: [https://github.com/dlaptev/TI-pooling](https://github.com/dlaptev/TI-pooling)
 
 ## STDP
 

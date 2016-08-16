@@ -467,6 +467,10 @@ date: 2015-10-09
 
 - arxiv: [http://arxiv.org/abs/1604.04326](http://arxiv.org/abs/1604.04326)
 
+**Faster Training of Very Deep Networks Via p-Norm Gates**
+
+- arxiv: [http://arxiv.org/abs/1608.03639](http://arxiv.org/abs/1608.03639)
+
 # Tools
 
 **pastalog: Simple, realtime visualization of neural network training performance**

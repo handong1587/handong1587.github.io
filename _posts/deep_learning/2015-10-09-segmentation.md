@@ -330,6 +330,11 @@ not very deep with only three convolution layers."
 
 - arxiv: [http://arxiv.org/abs/1608.03066](http://arxiv.org/abs/1608.03066)
 
+**Clockwork Convnets for Video Semantic Segmentation**
+
+- intro: evaluated on the Youtube-Objects, NYUD, and Cityscapes video datasets
+- arxiv: [http://arxiv.org/abs/1608.03609](http://arxiv.org/abs/1608.03609)
+
 ## Benchmarks
 
 **Semantic Understanding of Urban Street Scenes: Benchmark Suite**

@@ -224,6 +224,12 @@ date: 2015-10-09
 
 - paper: [http://jmlr.org/proceedings/papers/v37/jozefowicz15.pdf](http://jmlr.org/proceedings/papers/v37/jozefowicz15.pdf)
 
+**Improved Semantic Representations From Tree-Structured Long Short-Term Memory Networks**
+
+- intro: ACL 2015. Tree RNNs aka Recursive Neural Networks
+- arxiv: [https://arxiv.org/abs/1503.00075](https://arxiv.org/abs/1503.00075)
+- github: [https://github.com/ofirnachum/tree_rnn](https://github.com/ofirnachum/tree_rnn)
+
 **LSTM: A Search Space Odyssey**
 
 - arxiv: [http://arxiv.org/abs/1503.04069](http://arxiv.org/abs/1503.04069)

@@ -399,6 +399,12 @@ Other awesome lists can be found in this [list](https://github.com/sindresorhus/
 - homepage: [http://homes.cs.washington.edu/~marcotcr/blog/lime/](http://homes.cs.washington.edu/~marcotcr/blog/lime/)
 - github: [https://github.com/marcotcr/lime](https://github.com/marcotcr/lime)
 
+# Datasets
+
+**Datasets for Machine Learning**
+
+- blog: [http://blog.webkid.io/datasets-for-machine-learning/](http://blog.webkid.io/datasets-for-machine-learning/)
+
 # Resources
 
 **Machine Learning Surveys: A list of literature surveys, reviews, and tutorials on Machine Learning and related topics**

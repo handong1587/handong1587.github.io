@@ -213,6 +213,10 @@ to decompose it into the multiplications of thinned dense matrices"
 
 - arxiv: [http://arxiv.org/abs/1605.06402](http://arxiv.org/abs/1605.06402)
 
+**Learning Structured Sparsity in Deep Neural Networks**
+
+- arxiv: [http://arxiv.org/abs/1608.03665](http://arxiv.org/abs/1608.03665)
+
 # Projects
 
 **Accelerate Convolutional Neural Networks**
