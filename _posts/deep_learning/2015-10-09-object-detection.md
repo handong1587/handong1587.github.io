@@ -204,6 +204,10 @@ bounding boxes (which are shared for these categories).
 - github: [https://github.com/weiliu89/caffe/tree/ssd](https://github.com/weiliu89/caffe/tree/ssd)
 - video: [http://weibo.com/p/2304447a2326da963254c963c97fb05dd3a973](http://weibo.com/p/2304447a2326da963254c963c97fb05dd3a973)
 
+**为什么SSD(Single Shot MultiBox Detector)对小目标的检测效果不好？**
+
+- zhihu: [https://www.zhihu.com/question/49455386](https://www.zhihu.com/question/49455386)
+
 ## Inside-Outside Net (ION)
 
 **Inside-Outside Net: Detecting Objects in Context with Skip Pooling and Recurrent Neural Networks**

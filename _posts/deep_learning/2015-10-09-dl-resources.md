@@ -240,6 +240,10 @@ testing it on the MNIST handwritten digits data.
 
 - blog: [http://blog.fastforwardlabs.com/post/148842796218/introducing-variational-autoencoders-in-prose-and](http://blog.fastforwardlabs.com/post/148842796218/introducing-variational-autoencoders-in-prose-and)
 
+**The Unreasonable Confusion of Variational Autoencoders**
+
+- blog: [https://jaan.io/unreasonable-confusion/](https://jaan.io/unreasonable-confusion/)
+
 # Semi-Supervised Learning
 
 **Semi-Supervised Learning with Graphs (Label Propagation)**
