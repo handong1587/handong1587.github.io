@@ -29,6 +29,10 @@ date: 2015-10-09
 
 ## Person Re-identification
 
+**Recurrent Convolutional Network for Video-based Person Re-Identification**
+
+- arxiv: [Recurrent Convolutional Network for Video-based Person Re-Identification](Recurrent Convolutional Network for Video-based Person Re-Identification)
+
 **PersonNet: Person Re-identification with Deep Convolutional Neural Networks**
 
 - arxiv: [http://arxiv.org/abs/1601.07255](http://arxiv.org/abs/1601.07255)

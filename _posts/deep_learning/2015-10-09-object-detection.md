@@ -403,6 +403,11 @@ This task involves predicting the salient regions of an image given by human eye
 - arxiv: [http://arxiv.org/abs/1603.00845](http://arxiv.org/abs/1603.00845)
 - github: [https://github.com/imatge-upc/saliency-2016-cvpr](https://github.com/imatge-upc/saliency-2016-cvpr)
 
+**Recurrent Attentional Networks for Saliency Detection**
+
+- intro: CVPR 2016. recurrent attentional convolutional-deconvolution network (RACDNN)
+- arxiv: [http://arxiv.org/abs/1604.03227](http://arxiv.org/abs/1604.03227)
+
 **Two-Stream Convolutional Networks for Dynamic Saliency Prediction**
 
 - arxiv: [http://arxiv.org/abs/1607.04730](http://arxiv.org/abs/1607.04730)

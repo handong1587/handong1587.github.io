@@ -889,7 +889,7 @@ Image Caption Generation, Automatic Game Playing
 
 **Recurrent Face Aging**
 
-- paper: [http://120.52.73.9/www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Wang_Recurrent_Face_Aging_CVPR_2016_paper.pdf](http://120.52.73.9/www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Wang_Recurrent_Face_Aging_CVPR_2016_paper.pdf)
+- paper: [www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Wang_Recurrent_Face_Aging_CVPR_2016_paper.pdf](www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Wang_Recurrent_Face_Aging_CVPR_2016_paper.pdf)
 
 ## Emotion / Expression Recognition
 
