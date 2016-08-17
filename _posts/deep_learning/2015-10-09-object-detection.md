@@ -95,6 +95,15 @@ topmost feature map after knowing the confidences of the underlying object categ
 - paper: [https://people.csail.mit.edu/khosla/papers/iclr2015_zhou.pdf](https://people.csail.mit.edu/khosla/papers/iclr2015_zhou.pdf)
 - slides: [http://places.csail.mit.edu/slide_iclr2015.pdf](http://places.csail.mit.edu/slide_iclr2015.pdf)
 
+## segDeepM
+
+**segDeepM: Exploiting Segmentation and Context in Deep Neural Networks for Object Detection**
+
+- intro: CVPR 2015
+- project(code+data): [https://www.cs.toronto.edu/~yukun/segdeepm.html](https://www.cs.toronto.edu/~yukun/segdeepm.html)
+- arxiv: [https://arxiv.org/abs/1502.04275](https://arxiv.org/abs/1502.04275)
+- github: [https://github.com/YknZhu/segDeepM](https://github.com/YknZhu/segDeepM)
+
 **Object Detection Networks on Convolutional Feature Maps**
 
 - intro: NoC
