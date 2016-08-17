@@ -265,6 +265,14 @@ facial action unit recognition, and eye-gaze estimation.
 
 - arxiv: [http://arxiv.org/abs/1608.04274](http://arxiv.org/abs/1608.04274)
 
+### Star-galaxy Classification
+
+**Star-galaxy Classification Using Deep Convolutional Neural Networks**
+
+- intro: MNRAS
+- arxiv: [http://arxiv.org/abs/1608.04369](http://arxiv.org/abs/1608.04369)
+- github: [https://github.com/EdwardJKim/dl4astro](https://github.com/EdwardJKim/dl4astro)
+
 # Scene Recognition
 
 **Learning Deep Features for Scene Recognition using Places Database**

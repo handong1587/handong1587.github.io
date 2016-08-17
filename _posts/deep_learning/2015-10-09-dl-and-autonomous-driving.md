@@ -113,3 +113,10 @@ without running into obstacles using a type of reinforcement learning called Q-L
 - part 2: [https://medium.com/@harvitronix/reinforcement-learning-in-python-to-teach-a-virtual-car-to-avoid-obstacles-part-2-93e614fcd238#.1pt1lli4c](https://medium.com/@harvitronix/reinforcement-learning-in-python-to-teach-a-virtual-car-to-avoid-obstacles-part-2-93e614fcd238#.1pt1lli4c)
 - part 3: [https://medium.com/@harvitronix/reinforcement-learning-in-python-to-teach-an-rc-car-to-avoid-obstacles-part-3-a1d063ac962f#.jwzm2v1r4](https://medium.com/@harvitronix/reinforcement-learning-in-python-to-teach-an-rc-car-to-avoid-obstacles-part-3-a1d063ac962f#.jwzm2v1r4)
 - github: [https://github.com/harvitronix/reinforcement-learning-car](https://github.com/harvitronix/reinforcement-learning-car)
+
+**Autonomous RC car using Raspberry Pi and Neural Networks**
+
+![](https://camo.githubusercontent.com/42bd1644f47af0eec0a484011444d9a2ffe2bda9/68747470733a2f2f696d672e796f75747562652e636f6d2f76692f64437942764c6a573658302f6d617872657364656661756c742e6a7067)
+
+- blog: [http://www.multunus.com/blog/2016/07/autonomous-rc-car-using-raspberry-pi-and-neural-networks/](http://www.multunus.com/blog/2016/07/autonomous-rc-car-using-raspberry-pi-and-neural-networks/)
+- github: [https://github.com/multunus/autonomous-rc-car](https://github.com/multunus/autonomous-rc-car)

@@ -268,6 +268,7 @@ and 1.15s per image with it".
 
 - intro: CVPR 2016 Oral. Online hard example mining (OHEM)
 - arxiv: [http://arxiv.org/abs/1604.03540](http://arxiv.org/abs/1604.03540)
+- paper: [http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Shrivastava_Training_Region-Based_Object_CVPR_2016_paper.pdf](http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Shrivastava_Training_Region-Based_Object_CVPR_2016_paper.pdf)
 
 **Track and Transfer: Watching Videos to Simulate Strong Human Supervision for Weakly-Supervised Object Detection**
 

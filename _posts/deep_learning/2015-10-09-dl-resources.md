@@ -1164,6 +1164,7 @@ Bicubic VS. Shepard CNN
 **Beyond a Gaussian Denoiser: Residual Learning of Deep CNN for Image Denoising**
 
 - arxiv: [http://arxiv.org/abs/1608.03981](http://arxiv.org/abs/1608.03981)
+- github: [https://github.com/cszn/DnCNN](https://github.com/cszn/DnCNN)
 
 **Medical image denoising using convolutional denoising autoencoders**
 
