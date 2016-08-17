@@ -217,6 +217,11 @@ to decompose it into the multiplications of thinned dense matrices"
 
 - arxiv: [http://arxiv.org/abs/1608.03665](http://arxiv.org/abs/1608.03665)
 
+**Dynamic Network Surgery for Efficient DNNs**
+
+- intro: compress the number of parameters in LeNet-5 and AlexNet by a factor of 108× and 17.7× respectively
+- arxiv: [http://arxiv.org/abs/1608.04493](http://arxiv.org/abs/1608.04493)
+
 # Projects
 
 **Accelerate Convolutional Neural Networks**

@@ -126,3 +126,7 @@ There are no right answers but it helps to understand their thoughts and researc
 **Awesome Interviews: A curated awesome list of lists of interview questions**
 
 - github: [https://github.com/MaximAbramchuck/awesome-interview-questions](https://github.com/MaximAbramchuck/awesome-interview-questions)
+
+**Stories & Tips: 50+ Interviews With Facebook, Twitter, Amazon & Others**
+
+- blog: [http://blog.robertelder.org/50-interviews-with-facebook-twitter-amazon-others/](http://blog.robertelder.org/50-interviews-with-facebook-twitter-amazon-others/)

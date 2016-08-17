@@ -60,6 +60,12 @@ It contains real examples with errors and the author gives explanations of how t
 
 - homepage: [https://cpp.libhunt.com/](https://cpp.libhunt.com/)
 
+**shpp: Call c++ functions from a shell with any arguments of any types parsed automatically**
+
+![](https://cloud.githubusercontent.com/assets/17955551/17453191/c089d6c2-5b6f-11e6-9c1c-d5e094b270da.gif)
+
+- github: [https://github.com/GrossoMoreira/shpp](https://github.com/GrossoMoreira/shpp)
+
 # Python
 
 **Python Computing for Data Science: An Undergraduate/Graduate Seminar Course at UC Berkeley (AY 250)**

@@ -1165,6 +1165,10 @@ Bicubic VS. Shepard CNN
 
 - arxiv: [http://arxiv.org/abs/1608.03981](http://arxiv.org/abs/1608.03981)
 
+**Medical image denoising using convolutional denoising autoencoders**
+
+- arxiv: [http://arxiv.org/abs/1608.04667](http://arxiv.org/abs/1608.04667)
+
 ## Image Haze Removal
 
 **DehazeNet: An End-to-End System for Single Image Haze Removal**
