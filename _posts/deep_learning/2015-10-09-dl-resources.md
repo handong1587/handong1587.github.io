@@ -1129,6 +1129,11 @@ Bicubic VS. Shepard CNN
 - paper: [https://papers.nips.cc/paper/5774-shepard-convolutional-neural-networks.pdf](https://papers.nips.cc/paper/5774-shepard-convolutional-neural-networks.pdf)
 - github: [https://github.com/jimmy-ren/vcnn_double-bladed/tree/master/applications/Shepard_CNN](https://github.com/jimmy-ren/vcnn_double-bladed/tree/master/applications/Shepard_CNN)
 
+**Bidirectional Recurrent Convolutional Networks for Multi-Frame Super-Resolution**
+
+- intro: NIPS 2015
+- paper: [https://papers.nips.cc/paper/5778-bidirectional-recurrent-convolutional-networks-for-multi-frame-super-resolution](https://papers.nips.cc/paper/5778-bidirectional-recurrent-convolutional-networks-for-multi-frame-super-resolution)
+
 **Deeply-Recursive Convolutional Network for Image Super-Resolution**
 
 - arxiv: [http://arxiv.org/abs/1511.04491](http://arxiv.org/abs/1511.04491)
