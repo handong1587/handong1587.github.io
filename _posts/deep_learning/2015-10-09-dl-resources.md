@@ -1195,6 +1195,12 @@ Bicubic VS. Shepard CNN
 
 - arxiv: [http://arxiv.org/abs/1607.04433](http://arxiv.org/abs/1607.04433)
 
+## Image Compression / Encryption
+
+**An image compression and encryption scheme based on deep learning**
+
+- arxiv: [http://arxiv.org/abs/1608.05001](http://arxiv.org/abs/1608.05001)
+
 ## Depth Prediction
 
 **Deeper Depth Prediction with Fully Convolutional Residual Networks**

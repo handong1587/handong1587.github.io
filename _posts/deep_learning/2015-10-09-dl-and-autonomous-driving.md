@@ -30,6 +30,14 @@ date: 2015-10-09
 - intro: NVIDIA DevBox and Torch 7, 30 FPS
 - arxiv: [http://arxiv.org/abs/1604.07316](http://arxiv.org/abs/1604.07316)
 
+**End-to-End Deep Learning for Self-Driving Cars**
+
+![](https://devblogs.nvidia.com/parallelforall/wp-content/uploads/2016/08/training-624x291.png)
+
+- blog: [https://devblogs.nvidia.com/parallelforall/deep-learning-self-driving-cars/](https://devblogs.nvidia.com/parallelforall/deep-learning-self-driving-cars/)
+
+- - -
+
 **Can we unify monocular detectors for autonomous driving by using the pixel-wise semantic segmentation of CNNs?**
 
 - arxiv: [http://arxiv.org/abs/1607.00971](http://arxiv.org/abs/1607.00971)

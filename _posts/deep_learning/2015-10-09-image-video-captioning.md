@@ -221,6 +221,10 @@ after the embedding and recurrent layers of the RNN."
 
 - blog: [http://photography.tutsplus.com/tutorials/3-ways-to-subtitle-and-caption-your-videos-automatically-using-artificial-intelligence--cms-26834](http://photography.tutsplus.com/tutorials/3-ways-to-subtitle-and-caption-your-videos-automatically-using-artificial-intelligence--cms-26834)
 
+**Frame- and Segment-Level Features and Candidate Pool Evaluation for Video Caption Generation**
+
+- arxiv: [http://arxiv.org/abs/1608.04959](http://arxiv.org/abs/1608.04959)
+
 # Projects
 
 **Learning CNN-LSTM Architectures for Image Caption Generation: An implementation of CNN-LSTM image caption generator architecture that achieves close to state-of-the-art results on the MSCOCO dataset.**
