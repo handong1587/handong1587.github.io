@@ -35,7 +35,7 @@ date: 2015-10-09
 
 **Going Deeper with Convolutions**
 
-- paper: [http://arxiv.org/abs/1409.4842](http://arxiv.org/abs/1409.4842)
+- arxiv: [http://arxiv.org/abs/1409.4842](http://arxiv.org/abs/1409.4842)
 - github: [https://github.com/google/inception](https://github.com/google/inception)
 - github: [https://github.com/soumith/inception.torch](https://github.com/soumith/inception.torch)
 
