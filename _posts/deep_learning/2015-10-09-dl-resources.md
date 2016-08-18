@@ -1684,6 +1684,14 @@ Compatible with Theano and TensorFlow. Optimized for Twitter.
 - blog: [http://blog.ankitaggarwal.me/PyCNN/](http://blog.ankitaggarwal.me/PyCNN/)
 - github: [https://github.com/ankitaggarwal011/PyCNN](https://github.com/ankitaggarwal011/PyCNN)
 
+**regl-cnn: Digit recognition with Convolutional Neural Networks in WebGL**
+
+![](https://raw.githubusercontent.com/Erkaman/regl-cnn/gh-pages/gifs/record_resize.gif)
+
+- intro: TensorFlow, WebGL, [regl](https://github.com/mikolalysenko/regl)
+- github: [https://github.com/Erkaman/regl-cnn/](https://github.com/Erkaman/regl-cnn/)
+- demo: [https://erkaman.github.io/regl-cnn/src/demo.html](https://erkaman.github.io/regl-cnn/src/demo.html)
+
 ## gvnn
 
 **gvnn: Neural Network Library for Geometric Computer Vision**
