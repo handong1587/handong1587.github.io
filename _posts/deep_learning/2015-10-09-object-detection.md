@@ -61,6 +61,7 @@ topmost feature map after knowing the confidences of the underlying object categ
 - intro: MultiBox. Train a CNN to predict Region of Interest.
 - arxiv: [http://arxiv.org/abs/1312.2249](http://arxiv.org/abs/1312.2249)
 - github: [https://github.com/google/multibox](https://github.com/google/multibox)
+- blog: [https://research.googleblog.com/2014/12/high-quality-object-detection-at-scale.html](https://research.googleblog.com/2014/12/high-quality-object-detection-at-scale.html)
 
 **Scalable, High-Quality Object Detection**
 
@@ -153,6 +154,7 @@ topmost feature map after knowing the confidences of the underlying object categ
 
 - intro: NIPS 2015
 - arxiv: [http://arxiv.org/abs/1506.01497](http://arxiv.org/abs/1506.01497)
+- slides: [http://web.cs.hacettepe.edu.tr/~aykut/classes/spring2016/bil722/slides/w05-FasterR-CNN.pdf](http://web.cs.hacettepe.edu.tr/~aykut/classes/spring2016/bil722/slides/w05-FasterR-CNN.pdf)
 - github: [https://github.com/ShaoqingRen/faster_rcnn](https://github.com/ShaoqingRen/faster_rcnn)
 - github: [https://github.com/rbgirshick/py-faster-rcnn](https://github.com/rbgirshick/py-faster-rcnn)
 - github: [https://github.com/mitmul/chainer-faster-rcnn](https://github.com/mitmul/chainer-faster-rcnn)
@@ -176,6 +178,9 @@ bounding boxes (which are shared for these categories).
 - reddit: [https://www.reddit.com/r/MachineLearning/comments/3a3m0o/realtime_object_detection_with_yolo/](https://www.reddit.com/r/MachineLearning/comments/3a3m0o/realtime_object_detection_with_yolo/)
 - github: [https://github.com/gliese581gg/YOLO_tensorflow](https://github.com/gliese581gg/YOLO_tensorflow)
 - github: [https://github.com/xingwangsfu/caffe-yolo](https://github.com/xingwangsfu/caffe-yolo)
+- github: [https://github.com/frankzhangrui/Darknet-Yolo](https://github.com/frankzhangrui/Darknet-Yolo)
+- github: [https://github.com/BriSkyHekun/py-darknet-yolo](https://github.com/BriSkyHekun/py-darknet-yolo)
+- github: [https://github.com/tommy-qichang/yolo.torch](https://github.com/tommy-qichang/yolo.torch)
 
 **Start Training YOLO with Our Own Data**
 

@@ -380,6 +380,24 @@ Other awesome lists can be found in this [list](https://github.com/sindresorhus/
 
 # Papers
 
+**Do we Need Hundreds of Classifiers to Solve Real World Classification Problems?**
+
+- intro: evaluate 179 classifiers arising from 17 families (discriminant analysis, Bayesian, neural networks, support vector machines, 
+decision trees, rule-based classifiers, boosting, bagging, stacking, random forests and other ensembles, 
+generalized linear models, nearest-neighbors, partial least squares and principal component regression, 
+logistic and multinomial regression, multiple adaptive regression splines and other methods), 
+implemented in Weka, R (with and without the caret package), C and Matlab, 
+including all the relevant classifiers available today
+- intro: "The random forest is clearly the best family of classifiers"
+- paper: [http://www.jmlr.org/papers/volume15/delgado14a/delgado14a.pdf](http://www.jmlr.org/papers/volume15/delgado14a/delgado14a.pdf)
+
+**Are Random Forests Truly the Best Classifiers?**
+
+- intro: question the conclusion that random forests are the best classifiers
+- paper: [http://jmlr.org/papers/volume17/15-374/15-374.pdf](http://jmlr.org/papers/volume17/15-374/15-374.pdf)
+- notes: [http://weibo.com/ttarticle/p/show?id=2309404007876694808654](http://weibo.com/ttarticle/p/show?id=2309404007876694808654)
+- my notes: jeez, I love the above two papers..
+
 **An Empirical Evaluation of Supervised Learning in High Dimensions**
 
 - paper: [http://lowrank.net/nikos/pubs/empirical.pdf](http://lowrank.net/nikos/pubs/empirical.pdf)
@@ -393,11 +411,15 @@ Other awesome lists can be found in this [list](https://github.com/sindresorhus/
 
 - arxiv: [http://arxiv.org/abs/1603.07292](http://arxiv.org/abs/1603.07292)
 
+## LIME
+
 **"Why Should I Trust You?": Explaining the Predictions of Any Classifier**
 
-- arxiv: [http://arxiv.org/abs/1602.04938](http://arxiv.org/abs/1602.04938)
+- intro: Local Interpretable Model-Agnostic Explanations (LIME)
 - homepage: [http://homes.cs.washington.edu/~marcotcr/blog/lime/](http://homes.cs.washington.edu/~marcotcr/blog/lime/)
+- arxiv: [http://arxiv.org/abs/1602.04938](http://arxiv.org/abs/1602.04938)
 - github: [https://github.com/marcotcr/lime](https://github.com/marcotcr/lime)
+- blog: [https://www.oreilly.com/learning/introduction-to-local-interpretable-model-agnostic-explanations-lime](https://www.oreilly.com/learning/introduction-to-local-interpretable-model-agnostic-explanations-lime)
 
 # Datasets
 
