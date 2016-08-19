@@ -7,6 +7,8 @@ date: 2015-07-24
 
 # Tools
 
+## You-Get
+
 **You-Get: Dumb downloader that scrapes the web**
 
 ![](/assets/linux_study/you-get.jpg)
@@ -14,12 +16,16 @@ date: 2015-07-24
 - homepage: [https://you-get.org/](https://you-get.org/)
 - github: [https://github.com/soimort/you-get](https://github.com/soimort/you-get)
 
+## Icdiff
+
 **Icdiff: improved colored diff**
 
 ![](https://www.jefftk.com/icdiff-css-demo-tall-2x.png)
 
 - homepage: [https://www.jefftk.com/icdiff](https://www.jefftk.com/icdiff)
 - github: [https://github.com/jeffkaufman/icdiff](https://github.com/jeffkaufman/icdiff)
+
+## NcFTP
 
 **NcFTP**
 
@@ -30,6 +36,15 @@ date: 2015-07-24
 **Linux / Unix ncftp: Upload Directory Tree To Remote FTP Server Recursively**
 
 - blog: [http://www.cyberciti.biz/tips/linux-upload-the-files-and-directory-tree-to-remote-ftp-server.html](http://www.cyberciti.biz/tips/linux-upload-the-files-and-directory-tree-to-remote-ftp-server.html)
+
+## PowerShell
+
+- github: [https://github.com/PowerShell/PowerShell](https://github.com/PowerShell/PowerShell)
+- docs: [https://github.com/PowerShell/PowerShell/tree/master/docs/learning-powershell](https://github.com/PowerShell/PowerShell/tree/master/docs/learning-powershell)
+
+**PowerShell is open sourced and is available on Linux**
+
+- blog: [https://azure.microsoft.com/en-us/blog/powershell-is-open-sourced-and-is-available-on-linux/](https://azure.microsoft.com/en-us/blog/powershell-is-open-sourced-and-is-available-on-linux/)
 
 # Blogs
 

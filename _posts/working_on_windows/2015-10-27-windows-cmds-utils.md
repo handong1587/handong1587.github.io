@@ -40,7 +40,7 @@ Ref:
 
 ```
 dir /s /b /a *.jpg > list.txt
-``` 
+```
 
 **List only folders into a txt**
 
