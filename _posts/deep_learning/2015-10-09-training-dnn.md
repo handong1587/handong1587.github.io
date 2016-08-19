@@ -226,6 +226,11 @@ date: 2015-10-09
 
 - blog: [http://jxieeducation.com/2016-07-02/Quick-Explanations-of-Optimization-Methods/](http://jxieeducation.com/2016-07-02/Quick-Explanations-of-Optimization-Methods/)
 
+**SGDR: Stochastic Gradient Descent with Restarts**
+
+- arxiv: [http://arxiv.org/abs/1608.03983](http://arxiv.org/abs/1608.03983)
+- github: [https://github.com/loshchil/SGDR](https://github.com/loshchil/SGDR)
+
 # Tensor Methods
 
 **Tensorizing Neural Networks (TensorNet)**

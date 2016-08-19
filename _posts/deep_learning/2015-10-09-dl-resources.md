@@ -177,6 +177,10 @@ not just the convolutions)
 
 # Autoencoders
 
+**Auto-Encoding Variational Bayes**
+
+- arxiv: [http://arxiv.org/abs/1312.6114](http://arxiv.org/abs/1312.6114)
+
 **The Potential Energy of an Autoencoder (PAMI 2014)**
 
 - paper: [http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.698.4921&rep=rep1&type=pdf](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.698.4921&rep=rep1&type=pdf)
@@ -873,6 +877,11 @@ Image Caption Generation, Automatic Game Playing
 - intro: Deep Genomic Dashboard (Deep GDashboard)
 - arxiv: [http://arxiv.org/abs/1608.03644](http://arxiv.org/abs/1608.03644)
 
+**Photo Filter Recommendation by Category-Aware Aesthetic Learning**
+
+- intro: Filter Aesthetic Comparison Dataset (FACD): 28,000 filtered images and 42,240 reliable image pairs with aesthetic comparison annotations
+- arxiv: [http://arxiv.org/abs/1608.05339](http://arxiv.org/abs/1608.05339)
+
 ## Age Estimation
 
 **Deeply-Learned Feature for Age Estimation**
@@ -1195,11 +1204,15 @@ Bicubic VS. Shepard CNN
 
 - arxiv: [http://arxiv.org/abs/1607.04433](http://arxiv.org/abs/1607.04433)
 
-## Image Compression / Encryption
+## Image Compression
 
 **An image compression and encryption scheme based on deep learning**
 
 - arxiv: [http://arxiv.org/abs/1608.05001](http://arxiv.org/abs/1608.05001)
+
+**Full Resolution Image Compression with Recurrent Neural Networks**
+
+- arxiv: [http://arxiv.org/abs/1608.05148](http://arxiv.org/abs/1608.05148)
 
 ## Depth Prediction
 

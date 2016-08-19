@@ -39,6 +39,9 @@ date: 2015-07-24
 
 ## PowerShell
 
+*PowerShell for every system!***
+
+- homepage: [https://msdn.microsoft.com/en-us/powershell](https://msdn.microsoft.com/en-us/powershell)
 - github: [https://github.com/PowerShell/PowerShell](https://github.com/PowerShell/PowerShell)
 - docs: [https://github.com/PowerShell/PowerShell/tree/master/docs/learning-powershell](https://github.com/PowerShell/PowerShell/tree/master/docs/learning-powershell)
 

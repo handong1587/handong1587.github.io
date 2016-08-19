@@ -232,6 +232,8 @@ and 1.15s per image with it".
 - slides: [http://www.seanbell.ca/tmp/ion-coco-talk-bell2015.pdf](http://www.seanbell.ca/tmp/ion-coco-talk-bell2015.pdf)
 - coco-leaderboard: [http://mscoco.org/dataset/#detections-leaderboard](http://mscoco.org/dataset/#detections-leaderboard)
 
+## AZ-Net
+
 **Adaptive Object Detection Using Adjacency and Zoom Prediction**
 
 - intro: CVPR 2016
@@ -314,6 +316,11 @@ and 1.15s per image with it".
 
 - intro: 640×480: 15 fps, 960×720: 8 fps
 - arxiv: [http://arxiv.org/abs/1607.07155](http://arxiv.org/abs/1607.07155)
+
+**Multi-stage Object Detection with Group Recursive Learning**
+
+- intro: VOC2007: 78.6%, VOC2012: 74.9%
+- arxiv: [http://arxiv.org/abs/1608.05159](http://arxiv.org/abs/1608.05159)
 
 # Detection From Video
 
@@ -439,6 +446,16 @@ This task involves predicting the salient regions of an image given by human eye
 
 - intro: predicting the existence and the number of salient objects in an image using holistic cues
 - arxiv: [http://arxiv.org/abs/1607.07525](http://arxiv.org/abs/1607.07525)
+
+**Deeply-Supervised Recurrent Convolutional Neural Network for Saliency Detection**
+
+- intro: ACMMM 2016. deeply-supervised recurrent convolutional neural network (DSRCNN)
+- arxiv: [http://arxiv.org/abs/1608.05177](http://arxiv.org/abs/1608.05177)
+
+**Saliency Detection via Combining Region-Level and Pixel-Level Predictions with CNNs**
+
+- intro: ECCV 2016
+- arxiv: [http://arxiv.org/abs/1608.05186](http://arxiv.org/abs/1608.05186)
 
 # Specific Object Deteciton
 

@@ -299,6 +299,10 @@ date: 2015-10-09
 
 - blog: [http://r2rt.com/styles-of-truncated-backpropagation.html](http://r2rt.com/styles-of-truncated-backpropagation.html)
 
+**A Derivation of Backpropagation in Matrix Form**
+
+- blog: [http://sudeepraja.github.io/Neural/](http://sudeepraja.github.io/Neural/)
+
 ## Caffe
 
 **Deep learning tutorial on Caffe technology : basic commands, Python and C++ code**
