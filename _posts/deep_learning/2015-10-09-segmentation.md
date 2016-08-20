@@ -79,10 +79,14 @@ date: 2015-10-09
 - arxiv: [http://arxiv.org/abs/1512.04412](http://arxiv.org/abs/1512.04412)
 - github: [https://github.com/daijifeng001/MNC](https://github.com/daijifeng001/MNC)
 
+## SharpMask
+
 **Learning to Refine Object Segments**
 
 - intro: Facebook AI Research (FAIR)
+- intro: an extension of DeepMask which generates higher-fidelity masks using an additional top-down refinement step.
 - arxiv: [http://arxiv.org/abs/1603.08695](http://arxiv.org/abs/1603.08695)
+- github: [https://github.com/facebookresearch/deepmask](https://github.com/facebookresearch/deepmask)
 
 **Bridging Category-level and Instance-level Semantic Image Segmentation**
 

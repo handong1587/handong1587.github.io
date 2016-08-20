@@ -649,6 +649,7 @@ This task involves predicting the salient regions of an image given by human eye
 - intro: DeepMask. learning segmentation proposals
 - arxiv: [http://arxiv.org/abs/1506.06204](http://arxiv.org/abs/1506.06204)
 - github: [https://github.com/abbypa/NNProject_DeepMask](https://github.com/abbypa/NNProject_DeepMask)
+- github: [https://github.com/facebookresearch/deepmask](https://github.com/facebookresearch/deepmask)
 
 # Localization
 

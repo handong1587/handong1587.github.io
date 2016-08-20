@@ -359,7 +359,7 @@ Compressed model is less than 500KB
 
 **Colorful Image Colorization**
 
-![](http://richzhang.github.io/colorization/resources/images/teaser3.jpg)
+![](http://richzhang.github.io/colorization/resources/images/net_diagram.jpg)
 
 - project page: [http://richzhang.github.io/colorization/](http://richzhang.github.io/colorization/)
 - arxiv: [http://arxiv.org/abs/1603.08511](http://arxiv.org/abs/1603.08511)

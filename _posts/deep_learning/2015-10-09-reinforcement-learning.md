@@ -521,6 +521,10 @@ and together they truly represent a state-of-the-art of current reinforcement le
 
 - github: [https://github.com/5vision/deep-reinforcement-learning-networks](https://github.com/5vision/deep-reinforcement-learning-networks)
 
+**Deep Reinforcement Learning survey**
+
+- github: [https://github.com/andrewliao11/Deep-Reinforcement-Learning-Survey](https://github.com/andrewliao11/Deep-Reinforcement-Learning-Survey)
+
 # Reading and Questions
 
 **What are the best books about reinforcement learning?**

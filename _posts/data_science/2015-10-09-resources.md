@@ -31,12 +31,31 @@ date: 2015-10-09
 - intro: This is the repository for the full day workshop conducted at Fifth Elephant 2016 ([https://fifthelephant.in/2016/](https://fifthelephant.in/2016/))
 - github: [https://github.com/amitkaps/hackermath](https://github.com/amitkaps/hackermath)
 
+**Python Data Science Tutorials: common data analysis and machine learning tasks using python**
+
+- github: [https://github.com/ujjwalkarn/DataSciencePython](https://github.com/ujjwalkarn/DataSciencePython)
+
 # Courses
 
 **General Assembly's Data Science course in Washington, DC**
 
 - course page: [https://generalassemb.ly/education/data-science/washington-dc/](https://generalassemb.ly/education/data-science/washington-dc/)
 - github: [https://github.com/justmarkham/DAT8](https://github.com/justmarkham/DAT8)
+
+**140.711/2 Advanced Data Science I/II**
+
+- homepage: [http://jtleek.com/advdatasci/](http://jtleek.com/advdatasci/)
+
+# Tools
+
+**Provision the Linux Data Science Virtual Machine**
+
+- blog: [https://azure.microsoft.com/en-gb/documentation/articles/machine-learning-data-science-linux-dsvm-intro/](https://azure.microsoft.com/en-gb/documentation/articles/machine-learning-data-science-linux-dsvm-intro/)
+- github: [https://github.com/Azure/azure-content/blob/master/articles/machine-learning/machine-learning-data-science-linux-dsvm-intro.md](https://github.com/Azure/azure-content/blob/master/articles/machine-learning/machine-learning-data-science-linux-dsvm-intro.md)
+
+**Deep Learning tools for the Data Science Virtual Machine**
+
+- github: [https://github.com/Microsoft/deep_learning_tools_for_dsvm](https://github.com/Microsoft/deep_learning_tools_for_dsvm)
 
 # Blogs
 

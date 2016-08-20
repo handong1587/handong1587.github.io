@@ -601,6 +601,10 @@ including all the relevant classifiers available today
 - github: [https://github.com/jdwittenauer/ipython-notebooks](https://github.com/jdwittenauer/ipython-notebooks)
 - reddit: [https://www.reddit.com/r/MachineLearning/comments/4xgkoa/all_of_andrew_ngs_machine_learning_class_in_python/](https://www.reddit.com/r/MachineLearning/comments/4xgkoa/all_of_andrew_ngs_machine_learning_class_in_python/)
 
+**Assessing Stability of K-Means Clusterings**
+
+- blog: [http://activisiongamescience.github.io/2016/08/19/Assessing-Stability-of-K-Means-Clusterings/](http://activisiongamescience.github.io/2016/08/19/Assessing-Stability-of-K-Means-Clusterings/)
+
 # Machine Learning Library
 
 **LambdaNet: Purely functional artificial neural network library implemented in Haskell**
@@ -696,6 +700,10 @@ for creating complex software in C++ to solve real world problems.
 **ML-lib: An extensive machine learning library, made from scratch (Python)**
 
 - github: [https://github.com/christopherjenness/ML-lib](https://github.com/christopherjenness/ML-lib)
+
+**Top Machine Learning Projects for Julia**
+
+- blog: [http://www.kdnuggets.com/2016/08/top-machine-learning-projects-julia.html](http://www.kdnuggets.com/2016/08/top-machine-learning-projects-julia.html)
 
 # Projects
 

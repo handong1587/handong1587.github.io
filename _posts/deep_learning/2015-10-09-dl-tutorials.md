@@ -213,6 +213,16 @@ date: 2015-10-09
 
 - blog: [https://ujjwalkarn.me/2016/08/11/intuitive-explanation-convnets/](https://ujjwalkarn.me/2016/08/11/intuitive-explanation-convnets/)
 
+**How Convolutional Neural Networks Work**
+
+![](http://brohrer.github.io/images/cnn5.png)
+
+- blog: [http://brohrer.github.io/how_convolutional_neural_networks_work.html](http://brohrer.github.io/how_convolutional_neural_networks_work.html)
+
+**Preliminary Note on the Complexity of a Neural Network**
+
+- blog: [http://r2rt.com/preliminary-note-on-the-complexity-of-a-neural-network.html](http://r2rt.com/preliminary-note-on-the-complexity-of-a-neural-network.html)
+
 ## Convolution
 
 ![](/assets/cnn-materials/conv.jpg)

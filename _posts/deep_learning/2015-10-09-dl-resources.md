@@ -708,6 +708,11 @@ with fast exact probabilistic inference over many layers."
 
 - arxiv: [http://arxiv.org/abs/1608.04337](http://arxiv.org/abs/1608.04337)
 
+**Mollifying Networks**
+
+- author: Caglar Gulcehre, Marcin Moczulski, Francesco Visin, Yoshua Bengio
+- arxiv: [http://arxiv.org/abs/1608.04980](http://arxiv.org/abs/1608.04980)
+
 ## Highway Networks
 
 **Highway Networks**
@@ -834,8 +839,10 @@ Image Caption Generation, Automatic Game Playing
 
 **16 Open Source Deep Learning Models Running as Microservices**
 
-![](http://blog.algorithmia.com/2016/07/open-source-deep-learning-algorithm-roundup/)
+![](http://blog.algorithmia.com/wp-content/uploads/2016/07/deep-learning-model-roundup-1024x536.png)
 
+-intro: Places 365 Classifier, Deep Face Recognition, Real Estate Classifier, Colorful Image Colorization, 
+Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 - blog: [http://blog.algorithmia.com/2016/07/open-source-deep-learning-algorithm-roundup/](http://blog.algorithmia.com/2016/07/open-source-deep-learning-algorithm-roundup/)
 
 **Makeup like a superstar: Deep Localized Makeup Transfer Network**
@@ -850,7 +857,7 @@ Image Caption Generation, Automatic Game Playing
 
 **DeepWarp: Photorealistic Image Resynthesis for Gaze Manipulation**
 
-![](http://yaroslav.ganin.net/static/deepwarp/images/pipeline.svg)
+![](http://sites.skoltech.ru/compvision/projects/deepwarp/images/pipeline.svg)
 
 - project page: [http://yaroslav.ganin.net/static/deepwarp/](http://yaroslav.ganin.net/static/deepwarp/)
 - arxiv: [http://arxiv.org/abs/1607.07215](http://arxiv.org/abs/1607.07215)
@@ -881,6 +888,18 @@ Image Caption Generation, Automatic Game Playing
 
 - intro: Filter Aesthetic Comparison Dataset (FACD): 28,000 filtered images and 42,240 reliable image pairs with aesthetic comparison annotations
 - arxiv: [http://arxiv.org/abs/1608.05339](http://arxiv.org/abs/1608.05339)
+
+**Instagram photos reveal predictive markers of depression**
+
+- arxiv: [http://arxiv.org/abs/1608.03282](http://arxiv.org/abs/1608.03282)
+
+**How an Algorithm Learned to Identify Depressed Individuals by Studying Their Instagram Photos**
+
+- review: [https://www.technologyreview.com/s/602208/how-an-algorithm-learned-to-identify-depressed-individuals-by-studying-their-instagram/](https://www.technologyreview.com/s/602208/how-an-algorithm-learned-to-identify-depressed-individuals-by-studying-their-instagram/)
+
+**IM2CAD**
+
+- arxiv: [http://arxiv.org/abs/1608.05137](http://arxiv.org/abs/1608.05137)
 
 ## Age Estimation
 
@@ -1072,7 +1091,7 @@ Image Caption Generation, Automatic Game Playing
 - arxiv: [http://arxiv.org/abs/1608.04363](http://arxiv.org/abs/1608.04363)
 - project page: [http://www.stat.ucla.edu/~yang.lu/project/deepFrame/main.html](http://www.stat.ucla.edu/~yang.lu/project/deepFrame/main.html)
 
-## NSFW Detection / Classification 
+## NSFW Detection / Classification
 
 **Nipple Detection using Convolutional Neural Network**
 
@@ -1246,6 +1265,14 @@ Bicubic VS. Shepard CNN
 - arxiv: [http://arxiv.org/abs/1604.04382](http://arxiv.org/abs/1604.04382)
 - github(Torch): [https://github.com/chuanli11/MGANs](https://github.com/chuanli11/MGANs)
 
+## Image Tagging
+
+**Flexible Image Tagging with Fast0Tag**
+
+![](https://cdn-images-1.medium.com/max/800/1*SsIf1Bhe-G4HmN6DPDogmQ.png)
+
+- blog: [https://gab41.lab41.org/flexible-image-tagging-with-fast0tag-681c6283c9b7](https://gab41.lab41.org/flexible-image-tagging-with-fast0tag-681c6283c9b7)
+
 ## Music Tagging
 
 **Automatic tagging using deep convolutional neural networks**
@@ -1412,6 +1439,11 @@ alleviates the problem of video browsing, editing and indexing.
 - paper: [https://people.csail.mit.edu/khosla/papers/iccv2015_khosla.pdf](https://people.csail.mit.edu/khosla/papers/iccv2015_khosla.pdf)
 - code: [http://memorability.csail.mit.edu/download.html](http://memorability.csail.mit.edu/download.html)
 - reviews: [http://petapixel.com/2015/12/18/how-memorable-are-times-top-10-photos-of-2015-to-a-computer/](http://petapixel.com/2015/12/18/how-memorable-are-times-top-10-photos-of-2015-to-a-computer/)
+
+**Towards Open Set Deep Networks**
+
+- arxiv: [http://arxiv.org/abs/1511.06233](http://arxiv.org/abs/1511.06233)
+- github: [https://github.com/abhijitbendale/OSDN](https://github.com/abhijitbendale/OSDN)
 
 **Structured Prediction Energy Networks (SPEN)**
 

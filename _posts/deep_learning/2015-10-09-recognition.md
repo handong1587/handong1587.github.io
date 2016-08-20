@@ -248,6 +248,13 @@ facial action unit recognition, and eye-gaze estimation.
 - arxiv: [http://arxiv.org/abs/1511.05520](http://arxiv.org/abs/1511.05520)
 - github: [https://github.com/glennq/instrument-recognition](https://github.com/glennq/instrument-recognition)
 
+### Musical Instrument Recognition
+
+**Deep Convolutional Networks on the Pitch Spiral for Musical Instrument Recognition**
+
+- paper: [https://github.com/lostanlen/ismir2016/blob/master/paper/lostanlen_ismir2016.pdf](https://github.com/lostanlen/ismir2016/blob/master/paper/lostanlen_ismir2016.pdf)
+- github: [https://github.com/lostanlen/ismir2016](https://github.com/lostanlen/ismir2016)
+
 ### Clothes Recognition
 
 #### DeepFashion
@@ -297,6 +304,7 @@ facial action unit recognition, and eye-gaze estimation.
 **What is the class of this image ? - Discover the current state of the art in objects classification**
 
 - intro: "Discover the current state of the art in objects classification."
+- intro: MNIST, CIFAR-10, CIFAR-100, STL-10, SVHN, ILSVRC2012 task 1
 - blog: [http://rodrigob.github.io/are_we_there_yet/build/classification_datasets_results.html](http://rodrigob.github.io/are_we_there_yet/build/classification_datasets_results.html)
 
 **Object Recognition with Convolutional Neural Networks in the Keras Deep Learning Library**

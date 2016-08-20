@@ -96,6 +96,10 @@ which continually runs and visualizes your code as you type
 
 - course page: [http://web.stanford.edu/~arbenson/cme193.html](http://web.stanford.edu/~arbenson/cme193.html)
 
+**Interesting Python Tutorials**
+
+- blog: [https://pythontips.com/2016/08/19/interesting-python-tutorials/](https://pythontips.com/2016/08/19/interesting-python-tutorials/)
+
 # Go
 
 **Go by Example**

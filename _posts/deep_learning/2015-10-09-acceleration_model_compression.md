@@ -261,6 +261,12 @@ to decompose it into the multiplications of thinned dense matrices"
 
 - blog: [https://gab41.lab41.org/lab41-reading-group-deep-compression-9c36064fb209#.hbqzn8wfu](https://gab41.lab41.org/lab41-reading-group-deep-compression-9c36064fb209#.hbqzn8wfu)
 
+**Accelerating Machine Learning**
+
+![](http://www.linleygroup.com/mpr/h/2016/11561/U26_F4v2.png)
+
+- blog: [http://www.linleygroup.com/mpr/article.php?id=11561](http://www.linleygroup.com/mpr/article.php?id=11561)
+
 # Videos
 
 **Deep compression and EIE: Deep learning model compression, design space exploration and hardware acceleration**
