@@ -155,3 +155,5 @@ Understanding the implications of what they're doing is equally as important.
 (2016-07-09) *Batman v Superman: Dawn of Justice (2016)*: 3 hour long ultimate edition
 
 (2016-07-31) *Dawn of the Dead (2004)*
+
+(2016-08-20) *Das Leben der Anderen (2006)*
