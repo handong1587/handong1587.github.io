@@ -147,6 +147,7 @@ topmost feature map after knowing the confidences of the underlying object categ
 - github: [https://github.com/gidariss/mrcnn-object-detection](https://github.com/gidariss/mrcnn-object-detection)
 - notes: [http://zhangliliang.com/2015/05/17/paper-note-ms-cnn/](http://zhangliliang.com/2015/05/17/paper-note-ms-cnn/)
 - notes: [http://blog.cvmarcher.com/posts/2015/05/17/multi-region-semantic-segmentation-aware-cnn/](http://blog.cvmarcher.com/posts/2015/05/17/multi-region-semantic-segmentation-aware-cnn/)
+- my notes: Who can tell me why there are a bunch of duplicated sentences in section 7.2 "Detection error analysis"? :-D
 
 ## Faster R-CNN
 
@@ -632,6 +633,12 @@ This task involves predicting the salient regions of an image given by human eye
 **Fashion Landmark Detection in the Wild**
 
 - arxiv: [http://arxiv.org/abs/1608.03049](http://arxiv.org/abs/1608.03049)
+
+**Deep Learning for Fast and Accurate Fashion Item Detection**
+
+- intro: Kuznech Inc.
+- intro: MultiBox and Fast R-CNN
+- paper: [https://kddfashion2016.mybluemix.net/kddfashion_finalSubmissions/Deep%20Learning%20for%20Fast%20and%20Accurate%20Fashion%20Item%20Detection.pdf](https://kddfashion2016.mybluemix.net/kddfashion_finalSubmissions/Deep%20Learning%20for%20Fast%20and%20Accurate%20Fashion%20Item%20Detection.pdf)
 
 # Object Proposal
 

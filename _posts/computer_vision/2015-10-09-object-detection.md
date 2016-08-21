@@ -17,7 +17,13 @@ date: 2015-10-09
 
 paper: [http://www.lv-nus.org/papers/2011/cvpr2010-context_final.pdf](http://www.lv-nus.org/papers/2011/cvpr2010-context_final.pdf)
 
-- - -
+**Diagnosing Error in Object Detectors**
+
+- author: Derek Hoiem, Yodsawalai Chodpathumwan, and Qieyun Dai
+- project page: [http://web.engr.illinois.edu/~dhoiem/projects/detectionAnalysis/](http://web.engr.illinois.edu/~dhoiem/projects/detectionAnalysis/)
+- paper: [http://web.engr.illinois.edu/~dhoiem/publications/eccv2012_detanalysis_derek.pdf](http://web.engr.illinois.edu/~dhoiem/publications/eccv2012_detanalysis_derek.pdf)
+- code+data: [http://web.engr.illinois.edu/~dhoiem/projects/counter.php?Down=detectionAnalysis/detectionAnalysis_eccv12_v2.zip&Save=detectionAnalysis_eccv12](http://web.engr.illinois.edu/~dhoiem/projects/counter.php?Down=detectionAnalysis/detectionAnalysis_eccv12_v2.zip&Save=detectionAnalysis_eccv12)
+- slides: [http://web.engr.illinois.edu/~dhoiem/presentations/DetectionAnalysis_ECCV2012.pptx](http://web.engr.illinois.edu/~dhoiem/presentations/DetectionAnalysis_ECCV2012.pptx)
 
 ## DPM and DPM variants
 

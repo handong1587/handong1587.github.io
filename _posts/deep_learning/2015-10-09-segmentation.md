@@ -49,6 +49,11 @@ date: 2015-10-09
 - arxiv: [http://arxiv.org/abs/1407.1808](http://arxiv.org/abs/1407.1808)
 - github(Matlab): [https://github.com/bharath272/sds_eccv2014](https://github.com/bharath272/sds_eccv2014)
 
+**Convolutional Feature Masking for Joint Object and Stuff Segmentation**
+
+- intro: CVPR 2015
+- arxiv: [https://arxiv.org/abs/1412.1283](https://arxiv.org/abs/1412.1283)
+
 **Proposal-free Network for Instance-level Object Segmentation**
 
 - paper: [http://arxiv.org/abs/1509.02636](http://arxiv.org/abs/1509.02636)
@@ -75,6 +80,7 @@ date: 2015-10-09
 ![](https://raw.githubusercontent.com/daijifeng001/MNC/master/data/readme_img/example.png)
 
 - intro: "1st-place winner of MS COCO 2015 segmentation competition"
+- intro: CVPR 2016 oral
 - keywords: RoI warping
 - arxiv: [http://arxiv.org/abs/1512.04412](http://arxiv.org/abs/1512.04412)
 - github: [https://github.com/daijifeng001/MNC](https://github.com/daijifeng001/MNC)

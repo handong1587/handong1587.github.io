@@ -90,6 +90,10 @@ date: 2015-10-09
 
 - arxiv: [https://arxiv.org/abs/1606.08415](https://arxiv.org/abs/1606.08415)
 
+**Initialization Of Deep Networks Case of Rectifiers**
+
+- blog: [http://www.jefkine.com/deep/2016/08/08/initialization-of-deep-networks-case-of-rectifiers/](http://www.jefkine.com/deep/2016/08/08/initialization-of-deep-networks-case-of-rectifiers/)
+
 # Weights Initialization
 
 **An Explanation of Xavier Initialization**

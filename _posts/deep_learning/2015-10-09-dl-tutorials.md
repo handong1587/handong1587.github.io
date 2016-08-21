@@ -223,6 +223,12 @@ date: 2015-10-09
 
 - blog: [http://r2rt.com/preliminary-note-on-the-complexity-of-a-neural-network.html](http://r2rt.com/preliminary-note-on-the-complexity-of-a-neural-network.html)
 
+**Deep Learning Tutorial**
+
+- intro: Hung-yi Lee. 李宏毅
+- slides: [http://www.slideshare.net/tw_dsconf/ss-62245351?qid=c0f0f97a-6ca8-4df0-97e2-984452215ee7&v=&b=&from_search=1](http://www.slideshare.net/tw_dsconf/ss-62245351?qid=c0f0f97a-6ca8-4df0-97e2-984452215ee7&v=&b=&from_search=1)
+- mirror: [https://pan.baidu.com/s/1mhMhuFQ](https://pan.baidu.com/s/1mhMhuFQ)
+
 ## Convolution
 
 ![](/assets/cnn-materials/conv.jpg)
@@ -312,6 +318,10 @@ date: 2015-10-09
 **A Derivation of Backpropagation in Matrix Form**
 
 - blog: [http://sudeepraja.github.io/Neural/](http://sudeepraja.github.io/Neural/)
+
+**Backpropagation — How Neural Networks Learn Complex Behaviors**
+
+- blog: [https://medium.com/autonomous-agents/backpropagation-how-neural-networks-learn-complex-behaviors-9572ac161670#.dmdy8glec](https://medium.com/autonomous-agents/backpropagation-how-neural-networks-learn-complex-behaviors-9572ac161670#.dmdy8glec)
 
 ## Caffe
 
