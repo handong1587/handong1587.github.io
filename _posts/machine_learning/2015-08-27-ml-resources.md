@@ -260,6 +260,16 @@ Other awesome lists can be found in this [list](https://github.com/sindresorhus/
 
 - arxiv: [http://arxiv.org/abs/1601.01974](http://arxiv.org/abs/1601.01974)
 
+# Stochastic Gradient Descent (SGD)
+
+**Stochastic Gradient Descent (v.2)**
+
+![](http://leon.bottou.org/_media/projects/crf-f1.png)
+
+- author: Leon Bottou
+- intro: SGD, ASGD, Stochastic Gradient SVM, Stochastic Gradient CRFs
+- homepage: [http://leon.bottou.org/projects/sgd](http://leon.bottou.org/projects/sgd)
+
 # Visualization
 
 **Visualising High-Dimensional Data**

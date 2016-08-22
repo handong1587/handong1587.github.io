@@ -34,6 +34,10 @@ date: 2015-08-27
 
 - blog: [https://onionesquereality.wordpress.com/2011/08/20/conditional-random-fields-a-beginners-survey/](https://onionesquereality.wordpress.com/2011/08/20/conditional-random-fields-a-beginners-survey/)
 
+**CRF++代码分析**
+
+- blog: [http://www.hankcs.com/ml/crf-code-analysis.html](http://www.hankcs.com/ml/crf-code-analysis.html)
+
 # Gibbs Random Field
 
 # Gaussian Random Field
