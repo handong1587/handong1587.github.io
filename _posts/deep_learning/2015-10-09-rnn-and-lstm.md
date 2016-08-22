@@ -61,6 +61,10 @@ date: 2015-10-09
 
 - blog: [https://christopher5106.github.io/deep/learning/2016/07/14/element-research-torch-rnn-tutorial.html](https://christopher5106.github.io/deep/learning/2016/07/14/element-research-torch-rnn-tutorial.html)
 
+**RNNs in Tensorflow, a Practical Guide and Undocumented Features**
+
+- blog: [http://www.wildml.com/2016/08/rnns-in-tensorflow-a-practical-guide-and-undocumented-features/](http://www.wildml.com/2016/08/rnns-in-tensorflow-a-practical-guide-and-undocumented-features/)
+
 # Train RNN
 
 **On the difficulty of training Recurrent Neural Networks**

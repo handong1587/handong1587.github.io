@@ -562,6 +562,12 @@ The size of their dataset is, however, limited by the availability of domain-spe
 
 - arxiv: [http://arxiv.org/abs/1608.02128](http://arxiv.org/abs/1608.02128)
 
+**Fall-Detection: Human Fall Detection from CCTV camera feed**
+
+![](https://camo.githubusercontent.com/472295e9f092c3a7224b90fe09bfe91c25a102c6/68747470733a2f2f73342e706f7374696d672e6f72672f3439743472656c6f642f67697068792e676966)
+
+- github: [https://github.com/harishrithish7/Fall-Detection](https://github.com/harishrithish7/Fall-Detection)
+
 # VR
 
 **Surround360 System: Facebook's open source hardware and software for capturing stereoscopic 3D 360 video for VR**

@@ -85,8 +85,11 @@ topmost feature map after knowing the confidences of the underlying object categ
 
 **DeepID-Net: Deformable Deep Convolutional Neural Networks for Object Detection**
 
+![](http://www.ee.cuhk.edu.hk/~wlouyang/projects/imagenetDeepId/images/architecture.jpg)
+
 - intro: an extension of R-CNN
 - keywords: box pre-training, cascade on region proposals, deformation layers and context representations
+- project page: [http://www.ee.cuhk.edu.hk/%CB%9Cwlouyang/projects/imagenetDeepId/index.html](http://www.ee.cuhk.edu.hk/%CB%9Cwlouyang/projects/imagenetDeepId/index.html)
 - arxiv: [http://arxiv.org/abs/1412.5661](http://arxiv.org/abs/1412.5661)
 
 **Object Detectors Emerge in Deep Scene CNNs**
@@ -195,6 +198,16 @@ bounding boxes (which are shared for these categories).
 
 - arxiv: [http://arxiv.org/abs/1506.06981](http://arxiv.org/abs/1506.06981)
 
+## AttentionNet
+
+**AttentionNet: Aggregating Weak Directions for Accurate Object Detection**
+
+- intro: ICCV 2015
+- intro: state-of-the-art performance of 65% (AP) on PASCAL VOC 2007/2012 human detection task
+- arxiv: [http://arxiv.org/abs/1506.07704](http://arxiv.org/abs/1506.07704)
+- slides: [https://www.robots.ox.ac.uk/~vgg/rg/slides/AttentionNet.pdf](https://www.robots.ox.ac.uk/~vgg/rg/slides/AttentionNet.pdf)
+- slides: [http://image-net.org/challenges/talks/lunit-kaist-slide.pdf](http://image-net.org/challenges/talks/lunit-kaist-slide.pdf)
+
 ## DenseBox
 
 **DenseBox: Unifying Landmark Localization with End to End Object Detection**
@@ -249,7 +262,10 @@ and 1.15s per image with it".
 - arxiv: [http://arxiv.org/abs/1512.07729](http://arxiv.org/abs/1512.07729)
 
 **Factors in Finetuning Deep Model for object detection**
+**Factors in Finetuning Deep Model for Object Detection with Long-tail Distribution**
 
+- intro: CVPR 2016.rank 3rd for provided data and 2nd for external data on ILSVRC 2015 object detection
+- project page: [http://www.ee.cuhk.edu.hk/~wlouyang/projects/ImageNetFactors/CVPR16.html](http://www.ee.cuhk.edu.hk/~wlouyang/projects/ImageNetFactors/CVPR16.html)
 - arxiv: [http://arxiv.org/abs/1601.05150](http://arxiv.org/abs/1601.05150)
 
 **We don't need no bounding-boxes: Training object class detectors using only human verification**

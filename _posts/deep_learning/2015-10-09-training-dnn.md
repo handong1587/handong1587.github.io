@@ -90,6 +90,16 @@ date: 2015-10-09
 
 - arxiv: [https://arxiv.org/abs/1606.08415](https://arxiv.org/abs/1606.08415)
 
+## Series on Initialization of Weights for DNN
+
+**Initialization Of Feedfoward Networks**
+
+- blog: [http://www.jefkine.com/deep/2016/07/27/initialization-of-feedfoward-networks/](http://www.jefkine.com/deep/2016/07/27/initialization-of-feedfoward-networks/)
+
+**Initialization Of Deep Feedfoward Networks**
+
+- blog: [http://www.jefkine.com/deep/2016/08/01/initialization-of-deep-feedfoward-networks/](http://www.jefkine.com/deep/2016/08/01/initialization-of-deep-feedfoward-networks/)
+
 **Initialization Of Deep Networks Case of Rectifiers**
 
 - blog: [http://www.jefkine.com/deep/2016/08/08/initialization-of-deep-networks-case-of-rectifiers/](http://www.jefkine.com/deep/2016/08/08/initialization-of-deep-networks-case-of-rectifiers/)

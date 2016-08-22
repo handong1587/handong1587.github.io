@@ -88,6 +88,16 @@ date: 2015-10-09
 - demo: [http://scs.ryerson.ca/~aharley/vis/conv/](http://scs.ryerson.ca/~aharley/vis/conv/)
 - review: [http://www.popsci.com/gaze-inside-mind-artificial-intelligence](http://www.popsci.com/gaze-inside-mind-artificial-intelligence)
 
+**Learning Deep Features for Discriminative Localization**
+
+![](https://camo.githubusercontent.com/fb9a2d0813e5d530f49fa074c378cf83959346f7/687474703a2f2f636e6e6c6f63616c697a6174696f6e2e637361696c2e6d69742e6564752f6672616d65776f726b2e6a7067)
+
+- project page: [http://cnnlocalization.csail.mit.edu/](http://cnnlocalization.csail.mit.edu/)
+- arxiv: [http://arxiv.org/abs/1512.04150](http://arxiv.org/abs/1512.04150)
+- github: [https://github.com/metalbubble/CAM](https://github.com/metalbubble/CAM)
+- blog: [http://jacobcv.blogspot.com/2016/08/class-activation-maps-in-keras.html](http://jacobcv.blogspot.com/2016/08/class-activation-maps-in-keras.html)
+- github: [https://github.com/jacobgil/keras-cam](https://github.com/jacobgil/keras-cam)
+
 **Multifaceted Feature Visualization: Uncovering the Different Types of Features Learned By Each Neuron in Deep Neural Networks**
 
 ![](http://www.evolvingai.org/files/styles/content_width/public/fc8_layer_full.jpg?itok=q_X70Oj-)

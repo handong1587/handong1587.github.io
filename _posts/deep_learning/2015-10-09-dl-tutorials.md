@@ -229,6 +229,11 @@ date: 2015-10-09
 - slides: [http://www.slideshare.net/tw_dsconf/ss-62245351?qid=c0f0f97a-6ca8-4df0-97e2-984452215ee7&v=&b=&from_search=1](http://www.slideshare.net/tw_dsconf/ss-62245351?qid=c0f0f97a-6ca8-4df0-97e2-984452215ee7&v=&b=&from_search=1)
 - mirror: [https://pan.baidu.com/s/1mhMhuFQ](https://pan.baidu.com/s/1mhMhuFQ)
 
+**Jupyter notebooks and code for Intro to DL talk at Genesys**
+
+- blog: [http://sujitpal.blogspot.com/2016/08/kerasjupyter-notebooks-for-my.html](http://sujitpal.blogspot.com/2016/08/kerasjupyter-notebooks-for-my.html)
+- github: [https://github.com/sujitpal/intro-dl-talk-code](https://github.com/sujitpal/intro-dl-talk-code)
+
 ## Convolution
 
 ![](/assets/cnn-materials/conv.jpg)
@@ -271,6 +276,12 @@ date: 2015-10-09
 
 - blog: [http://mourafiq.com/2016/08/10/playing-with-convolutions-in-tensorflow.html](http://mourafiq.com/2016/08/10/playing-with-convolutions-in-tensorflow.html)
 - github: [https://github.com/mouradmourafiq/tensorflow-convolution-models](https://github.com/mouradmourafiq/tensorflow-convolution-models)
+
+**How convolutional neural networks see the world: An exploration of convnet filters with Keras**
+
+![](https://blog.keras.io/img/vgg16_filters_overview.jpg)
+
+- blog: [https://blog.keras.io/how-convolutional-neural-networks-see-the-world.html](https://blog.keras.io/how-convolutional-neural-networks-see-the-world.html)
 
 ### maxDNN
 

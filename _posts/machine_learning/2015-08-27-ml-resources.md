@@ -705,6 +705,10 @@ for creating complex software in C++ to solve real world problems.
 
 - blog: [http://www.kdnuggets.com/2016/08/top-machine-learning-projects-julia.html](http://www.kdnuggets.com/2016/08/top-machine-learning-projects-julia.html)
 
+**Helit: My machine learning/computer vision library for all of my recent papers, plus algorithms that I just like.**
+
+- github: [https://github.com/thaines/helit](https://github.com/thaines/helit)
+
 # Projects
 
 **Plotting high-dimensional decision boundaries**

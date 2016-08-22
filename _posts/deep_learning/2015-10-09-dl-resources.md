@@ -945,6 +945,11 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 - paper: [https://www.vision.ee.ethz.ch/en/publications/papers/proceedings/eth_biwi_01229.pdf](https://www.vision.ee.ethz.ch/en/publications/papers/proceedings/eth_biwi_01229.pdf)
 - homepage: [https://data.vision.ee.ethz.ch/cvl/rrothe/imdb-wiki/](https://data.vision.ee.ethz.ch/cvl/rrothe/imdb-wiki/)
 
+**How Deep Neural Networks Can Improve Emotion Recognition on Video Data**
+
+- intro: ICIP 2016
+- arxiv: [http://arxiv.org/abs/1602.07377](http://arxiv.org/abs/1602.07377)
+
 **Peak-Piloted Deep Network for Facial Expression Recognition**
 
 - arxiv: [http://arxiv.org/abs/1607.06997](http://arxiv.org/abs/1607.06997)

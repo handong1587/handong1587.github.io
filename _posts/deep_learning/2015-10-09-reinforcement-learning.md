@@ -207,6 +207,11 @@ date: 2015-10-09
 
 - arxiv: [http://arxiv.org/abs/1603.01121](http://arxiv.org/abs/1603.01121)
 
+**Hierarchical Deep Reinforcement Learning: Integrating Temporal Abstraction and Intrinsic Motivation**
+
+- arxiv: [https://arxiv.org/abs/1604.06057](https://arxiv.org/abs/1604.06057)
+- github: [https://github.com/EthanMacdonald/h-DQN](https://github.com/EthanMacdonald/h-DQN)
+
 **Benchmarking Deep Reinforcement Learning for Continuous Control**
 
 - arxiv: [http://arxiv.org/abs/1604.06778](http://arxiv.org/abs/1604.06778)

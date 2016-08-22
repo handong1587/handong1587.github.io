@@ -94,6 +94,11 @@ date: 2015-10-09
 - arxiv: [http://arxiv.org/abs/1603.08695](http://arxiv.org/abs/1603.08695)
 - github: [https://github.com/facebookresearch/deepmask](https://github.com/facebookresearch/deepmask)
 
+**Amodal Instance Segmentation**
+
+- intro: ECCV 2016
+- arxiv: [http://arxiv.org/abs/1604.08202](http://arxiv.org/abs/1604.08202)
+
 **Bridging Category-level and Instance-level Semantic Image Segmentation**
 
 - arxiv: [http://arxiv.org/abs/1605.06885](http://arxiv.org/abs/1605.06885)

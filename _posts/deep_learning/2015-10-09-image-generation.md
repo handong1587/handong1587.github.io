@@ -187,6 +187,10 @@ date: 2015-10-09
 - project page: [http://www.stat.ucla.edu/~jxie/STGConvNet/STGConvNet.html](http://www.stat.ucla.edu/~jxie/STGConvNet/STGConvNet.html)
 - paper: [http://www.stat.ucla.edu/~jxie/STGConvNet/STGConvNet_file/doc/STGConvNet.pdf](http://www.stat.ucla.edu/~jxie/STGConvNet/STGConvNet_file/doc/STGConvNet.pdf)
 
+**Coupled Generative Adversarial Networks**
+
+- arxiv: [https://arxiv.org/abs/1606.07536](https://arxiv.org/abs/1606.07536)
+
 # Blogs
 
 **Generative Adversarial Autoencoders in Theano**
