@@ -225,6 +225,13 @@ after the embedding and recurrent layers of the RNN."
 
 - arxiv: [http://arxiv.org/abs/1608.04959](http://arxiv.org/abs/1608.04959)
 
+## phi-LSTM
+
+**phi-LSTM: A Phrase-based Hierarchical LSTM Model for Image Captioning**
+
+- intro: ACCV 2016
+- arxiv: [http://arxiv.org/abs/1608.05813](http://arxiv.org/abs/1608.05813)
+
 # Projects
 
 **Learning CNN-LSTM Architectures for Image Caption Generation: An implementation of CNN-LSTM image caption generator architecture that achieves close to state-of-the-art results on the MSCOCO dataset.**

@@ -713,6 +713,10 @@ with fast exact probabilistic inference over many layers."
 - author: Caglar Gulcehre, Marcin Moczulski, Francesco Visin, Yoshua Bengio
 - arxiv: [http://arxiv.org/abs/1608.04980](http://arxiv.org/abs/1608.04980)
 
+**Local Binary Convolutional Neural Networks**
+
+- arxiv: [http://arxiv.org/abs/1608.06049](http://arxiv.org/abs/1608.06049)
+
 ## Highway Networks
 
 **Highway Networks**
@@ -1080,6 +1084,13 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 
 - paper: [http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Zhang_Single-Image_Crowd_Counting_CVPR_2016_paper.pdf](http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Zhang_Single-Image_Crowd_Counting_CVPR_2016_paper.pdf)
 - dataset(pwd: p1rv): [http://pan.baidu.com/s/1gfyNBTh](http://pan.baidu.com/s/1gfyNBTh)
+
+### CrowdNet
+
+**CrowdNet: A Deep Convolutional Network for Dense Crowd Counting**
+
+- intro: ACM Multimedia (MM) 2016
+- arxiv: [http://arxiv.org/abs/1608.06197](http://arxiv.org/abs/1608.06197)
 
 ## Music / Sound Classification
 

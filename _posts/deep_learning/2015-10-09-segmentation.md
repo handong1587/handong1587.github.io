@@ -350,6 +350,10 @@ not very deep with only three convolution layers."
 - intro: evaluated on the Youtube-Objects, NYUD, and Cityscapes video datasets
 - arxiv: [http://arxiv.org/abs/1608.03609](http://arxiv.org/abs/1608.03609)
 
+**STFCN: Spatio-Temporal FCN for Semantic Video Segmentation**
+
+- arxiv: [http://arxiv.org/abs/1608.05971](http://arxiv.org/abs/1608.05971)
+
 ## Benchmarks
 
 **Semantic Understanding of Urban Street Scenes: Benchmark Suite**

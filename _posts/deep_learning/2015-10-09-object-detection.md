@@ -185,6 +185,8 @@ bounding boxes (which are shared for these categories).
 - github: [https://github.com/frankzhangrui/Darknet-Yolo](https://github.com/frankzhangrui/Darknet-Yolo)
 - github: [https://github.com/BriSkyHekun/py-darknet-yolo](https://github.com/BriSkyHekun/py-darknet-yolo)
 - github: [https://github.com/tommy-qichang/yolo.torch](https://github.com/tommy-qichang/yolo.torch)
+- github: [https://github.com/frischzenger/yolo-windows](https://github.com/frischzenger/yolo-windows)
+- gtihub: [https://github.com/AlexeyAB/yolo-windows](https://github.com/AlexeyAB/yolo-windows)
 
 **Start Training YOLO with Our Own Data**
 
