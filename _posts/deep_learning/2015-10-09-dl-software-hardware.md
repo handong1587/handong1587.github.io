@@ -178,6 +178,14 @@ Contains all the popular DL frameworks (TensorFlow, Theano, Torch, Caffe, etc.)
 
 - youtube: [https://www.youtube.com/watch?v=3iCifD8gZ0Q](https://www.youtube.com/watch?v=3iCifD8gZ0Q)
 
+# ARM / Processor
+
+**'Neural network' spotted deep inside Samsung's Galaxy S7 silicon brain: Secrets of Exynos M1 cores spilled**
+
+![](https://regmedia.co.uk/2016/08/22/samsung_m1_icache.jpg?x=648&y=364&infer_y=1)
+
+- blog: [http://www.theregister.co.uk/2016/08/22/samsung_m1_core/?mt=1471918256061](http://www.theregister.co.uk/2016/08/22/samsung_m1_core/?mt=1471918256061)
+
 # SRAM
 
 **ShiDianNao: Shifting Vision Processing Closer to the Sensor**

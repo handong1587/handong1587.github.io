@@ -334,6 +334,12 @@ date: 2015-10-09
 
 - blog: [https://medium.com/autonomous-agents/backpropagation-how-neural-networks-learn-complex-behaviors-9572ac161670#.dmdy8glec](https://medium.com/autonomous-agents/backpropagation-how-neural-networks-learn-complex-behaviors-9572ac161670#.dmdy8glec)
 
+**Is BackPropagation Necessary?**
+
+![](http://i2.wp.com/deliprao.com/wp-content/uploads/2016/08/Selection_010-1.png?w=617)
+
+- blog: [http://deliprao.com/archives/191](http://deliprao.com/archives/191)
+
 ## Caffe
 
 **Deep learning tutorial on Caffe technology : basic commands, Python and C++ code**

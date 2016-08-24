@@ -91,6 +91,14 @@ multistep: piece-wise constant at arbitrary intervals
 The `net output #k` result is the output of the net for that particular iteration / batch 
 while the `Iteration T, loss = X` output is smoothed across iterations according to the `average_loss` field.
 
+# Enable `import caffe` of python file:
+
+Add following line to .bashrc file:
+
+```
+export PYTHONPATH=/path/to/caffe/python:$PYTHONPATH
+```
+
 # Reading and Notes
 
 **DIY Deep Learning for Vision: A Tutorial With Caffe 报告笔记**

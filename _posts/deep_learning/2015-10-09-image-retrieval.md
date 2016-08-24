@@ -173,3 +173,7 @@ date: 2015-10-09
 **Deep Image Retrieval: Learning global representations for image search**
 
 - youtube: [https://www.youtube.com/watch?v=yT52xDML6ys](https://www.youtube.com/watch?v=yT52xDML6ys)
+
+**Image Instance Retrieval: Overview of state-of-the-art**
+
+- youtube: [https://www.youtube.com/watch?v=EYq-rpaZn1o](https://www.youtube.com/watch?v=EYq-rpaZn1o)

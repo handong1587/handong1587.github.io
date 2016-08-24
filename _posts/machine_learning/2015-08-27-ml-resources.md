@@ -260,6 +260,10 @@ Other awesome lists can be found in this [list](https://github.com/sindresorhus/
 
 - arxiv: [http://arxiv.org/abs/1601.01974](http://arxiv.org/abs/1601.01974)
 
+**Online Learning with Expert Advice**
+
+- lecture notes: [http://courses.cs.washington.edu/courses/cse599s/14sp/scribes/lecture6/lecture6.pdf](http://courses.cs.washington.edu/courses/cse599s/14sp/scribes/lecture6/lecture6.pdf)
+
 # Stochastic Gradient Descent (SGD)
 
 **Stochastic Gradient Descent (v.2)**
@@ -294,6 +298,12 @@ Other awesome lists can be found in this [list](https://github.com/sindresorhus/
 **Debugging Machine Learning Tasks**
 
 - arxiv: [http://arxiv.org/abs/1603.07292](http://arxiv.org/abs/1603.07292)
+
+# Tackle Unbalanced Datasets
+
+**Survey of resampling techniques for improving classification performance in unbalanced datasets**
+
+- arxiv: [http://arxiv.org/abs/1608.06048](http://arxiv.org/abs/1608.06048)
 
 # Deep What?
 
@@ -429,7 +439,9 @@ including all the relevant classifiers available today
 - homepage: [http://homes.cs.washington.edu/~marcotcr/blog/lime/](http://homes.cs.washington.edu/~marcotcr/blog/lime/)
 - arxiv: [http://arxiv.org/abs/1602.04938](http://arxiv.org/abs/1602.04938)
 - github: [https://github.com/marcotcr/lime](https://github.com/marcotcr/lime)
+- github: [https://github.com/marcotcr/lime-experiments](https://github.com/marcotcr/lime-experiments)
 - blog: [https://www.oreilly.com/learning/introduction-to-local-interpretable-model-agnostic-explanations-lime](https://www.oreilly.com/learning/introduction-to-local-interpretable-model-agnostic-explanations-lime)
+- blog: [http://dataskeptic.com/epnotes/trusting-machine-learning-models-with-lime.php](http://dataskeptic.com/epnotes/trusting-machine-learning-models-with-lime.php)
 
 # Datasets
 

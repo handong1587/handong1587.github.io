@@ -1799,6 +1799,10 @@ Compatible with Theano and TensorFlow. Optimized for Twitter.
 - website: [http://jiwonkim.org/awesome-deep-vision/](http://jiwonkim.org/awesome-deep-vision/)
 - github: [https://github.com/kjw0612/awesome-deep-vision](https://github.com/kjw0612/awesome-deep-vision)
 
+**Applied Deep Learning Resources: A collection of research articles, blog posts, slides and code snippets about deep learning in applied settings.**
+
+- github: [https://github.com/kristjankorjus/applied-deep-learning-resources](https://github.com/kristjankorjus/applied-deep-learning-resources)
+
 **Deep Learning Libraries by Language**
 
 - website: [http://www.teglor.com/b/deep-learning-libraries-language-cm569/](http://www.teglor.com/b/deep-learning-libraries-language-cm569/)

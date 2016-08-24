@@ -170,3 +170,9 @@ with applications for model fitting and techniques for dealing with missing data
 **Distributed Machine Learning with Apache Spark**
 
 - edx: [https://prod-edx-mktg-edit.edx.org/course/distributed-machine-learning-apache-uc-berkeleyx-cs120x](https://prod-edx-mktg-edit.edx.org/course/distributed-machine-learning-apache-uc-berkeleyx-cs120x)
+
+# Resources
+
+**Learn Machine learning online – List of machine learning courses available online**
+
+- blog: [http://bafflednerd.com/learn-machine-learning-online/](http://bafflednerd.com/learn-machine-learning-online/)

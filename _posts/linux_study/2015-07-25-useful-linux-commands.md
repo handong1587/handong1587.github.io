@@ -287,7 +287,7 @@ find -iname "filename"
 gdb --arg python demo.py 2>&1 | tee demo.log
 ```
 
-# PDB
+# pdb
 
 ```
 import pdb
@@ -304,7 +304,7 @@ pdb.set_trace()
 | Ctrl+]          | jump to definition                                |
 | Ctrl+T          | jump back                                         |
 
-# Screen
+# screen
 
 | task                        | command                       |
 |:---------------------------:|:-----------------------------:|
@@ -333,7 +333,7 @@ echo $! > save_pid.txt
 kill -9 `cat save_pid.txt`
 ```
 
-# Cscope
+# cscope
 
 | task                              | command                         |
 |:---------------------------------:|:-------------------------------:|
