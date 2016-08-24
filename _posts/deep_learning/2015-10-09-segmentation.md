@@ -349,6 +349,7 @@ not very deep with only three convolution layers."
 
 - intro: evaluated on the Youtube-Objects, NYUD, and Cityscapes video datasets
 - arxiv: [http://arxiv.org/abs/1608.03609](http://arxiv.org/abs/1608.03609)
+- github: [https://github.com/shelhamer/clockwork-fcn](https://github.com/shelhamer/clockwork-fcn)
 
 **STFCN: Spatio-Temporal FCN for Semantic Video Segmentation**
 
