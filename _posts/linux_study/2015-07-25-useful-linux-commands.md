@@ -194,7 +194,7 @@ grep -w "pattern" -c file
 
 ```
 grep -w "pattern" -c -v file
-``` 
+```
 
 Count files in the current directory:
 
@@ -233,6 +233,26 @@ Using -iname instead of -name ignores the case of your query. The -name command 
 ```
 find -iname "filename"
 ```
+
+2. Finding all files containing a text string:
+
+```
+grep -rnw '/path/to/somewhere/' -e "pattern"
+
+grep --include=\*.{c,h} -rnw '/path/to/somewhere/' -e "pattern"
+
+grep --exclude=*.o -rnw '/path/to/somewhere/' -e "pattern"
+
+grep --exclude-dir={dir1,dir2,*.dst} -rnw '/path/to/somewhere/' -e "pattern"
+```
+
+ - -r or -R is recursive,
+ - -n is line number, and
+ - -w stands match the whole word.
+ - -l (lower-case L) can be added to just give the file name of matching files.
+ - Along with these, --exclude or --include parameter could be used for efficient searching.
+
+- ref: [http://stackoverflow.com/questions/16956810/finding-all-files-containing-a-text-string-on-linux](http://stackoverflow.com/questions/16956810/finding-all-files-containing-a-text-string-on-linux)
 
 ## References
 
