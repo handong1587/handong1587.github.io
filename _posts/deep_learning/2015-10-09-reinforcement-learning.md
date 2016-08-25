@@ -481,6 +481,10 @@ The project is dedicated to hero in life great Jesse Livermore.
 - blog: [https://jangirrishabh.github.io/2016/07/09/virtual-car-IRL/](https://jangirrishabh.github.io/2016/07/09/virtual-car-IRL/)
 - github: [https://github.com/jangirrishabh/toyCarIRL](https://github.com/jangirrishabh/toyCarIRL)
 
+**Reinforcement Learning and DQN, learning to play from pixels**
+
+- blog: [https://rubenfiszel.github.io/posts/rl4j/2016-08-24-Reinforcement-Learning-and-DQN.html](https://rubenfiszel.github.io/posts/rl4j/2016-08-24-Reinforcement-Learning-and-DQN.html)
+
 # Books
 
 **Reinforcement Learning: State-of-the-Art**

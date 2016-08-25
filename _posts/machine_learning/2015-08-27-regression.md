@@ -77,3 +77,9 @@ date: 2015-08-27
 **A Primer on Logistic Regression**
 
 - blog: [https://blog.clevertap.com/a-primer-on-logistic-regression-part-i/](https://blog.clevertap.com/a-primer-on-logistic-regression-part-i/)
+
+**Visualising Residuals**
+
+![](https://svbtleusercontent.com/9jiwlvibugesq.png)
+
+- blog: [https://drsimonj.svbtle.com/visualising-residuals](https://drsimonj.svbtle.com/visualising-residuals)

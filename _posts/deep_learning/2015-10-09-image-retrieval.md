@@ -24,6 +24,17 @@ date: 2015-10-09
 - paper: [http://www.iis.sinica.edu.tw/~kevinlin311.tw/cvprw15.pdf](http://www.iis.sinica.edu.tw/~kevinlin311.tw/cvprw15.pdf)
 - github: [https://github.com/kevinlin311tw/caffe-cvprw15](https://github.com/kevinlin311tw/caffe-cvprw15)
 
+**Learning visual similarity for product design with convolutional neural networks**
+
+- intro: SIGGRAPH 2015
+- paper: [http://www.cs.cornell.edu/~kb/publications/SIG15ProductNet.pdf](http://www.cs.cornell.edu/~kb/publications/SIG15ProductNet.pdf)
+
+**Where can I buy a chair like that? – This app will tell you**
+
+![](http://www.news.cornell.edu/sites/chronicle.cornell/files/GrokStyleApp.png?itok=3jd_S2R7)
+
+- blog: [http://www.news.cornell.edu/stories/2016/08/where-can-i-buy-chair-app-will-tell-you](http://www.news.cornell.edu/stories/2016/08/where-can-i-buy-chair-app-will-tell-you)
+
 **Supervised Learning of Semantics-Preserving Hashing via Deep Neural Networks for Large-Scale Image Search (SSDH)**
 
 - arxiv: [http://arxiv.org/abs/1507.00101](http://arxiv.org/abs/1507.00101)

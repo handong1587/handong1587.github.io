@@ -94,12 +94,12 @@ not just the convolutions)
 
 [http://torch.ch/blog/2016/02/04/resnets.html](http://torch.ch/blog/2016/02/04/resnets.html)
 
-**Highway Networks and Deep Residual Networks** 
+**Highway Networks and Deep Residual Networks**
 
 - blog: [http://yanran.li/peppypapers/2016/01/10/highway-networks-and-deep-residual-networks.html](http://yanran.li/peppypapers/2016/01/10/highway-networks-and-deep-residual-networks.html)
 
 **Interpretating Deep Residual Learning Blocks as Locally Recurrent Connections**
- 
+
 - blog: [https://matrixmashing.wordpress.com/2016/01/29/interpretating-deep-residual-learning-blocks-as-locally-recurrent-connections/](https://matrixmashing.wordpress.com/2016/01/29/interpretating-deep-residual-learning-blocks-as-locally-recurrent-connections/)
 
 **Resnet in Resnet: Generalizing Residual Architectures**
@@ -109,10 +109,12 @@ not just the convolutions)
 
 **Identity Mappings in Deep Residual Networks (by Kaiming He)**
 
+- intro: ResNet-v2
 - arxiv: [http://arxiv.org/abs/1603.05027](http://arxiv.org/abs/1603.05027)
 - github: [https://github.com/KaimingHe/resnet-1k-layers](https://github.com/KaimingHe/resnet-1k-layers)
 - github: [https://github.com/bazilas/matconvnet-ResNet](https://github.com/bazilas/matconvnet-ResNet)
 - github: [https://github.com/FlorianMuellerklein/Identity-Mapping-ResNet-Lasagne](https://github.com/FlorianMuellerklein/Identity-Mapping-ResNet-Lasagne)
+- github: [https://github.com/tornadomeet/ResNet](https://github.com/tornadomeet/ResNet)
 
 **Residual Networks are Exponential Ensembles of Relatively Shallow Networks**
 
@@ -174,6 +176,11 @@ not just the convolutions)
 **Towards Bayesian Deep Learning: A Survey**
 
 - arxiv: [http://arxiv.org/abs/1604.01662](http://arxiv.org/abs/1604.01662)
+
+**Towards Bayesian Deep Learning: A Framework and Some Existing Methods**
+
+- intro: IEEE Transactions on Knowledge and Data Engineering (TKDE), 2016
+- arxiv: [http://arxiv.org/abs/1608.06884](http://arxiv.org/abs/1608.06884)
 
 # Autoencoders
 

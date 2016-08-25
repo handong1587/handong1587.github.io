@@ -188,12 +188,37 @@ date: 2015-10-09
 
 - github: [https://github.com/sjchoi86/dl_tutorials](https://github.com/sjchoi86/dl_tutorials)
 
+- - -
+
 **A Beginner's Guide To Understanding Convolutional Neural Networks**
 
 ![](https://adeshpande3.github.io/assets/Cover.png)
 
 - part 1: [https://adeshpande3.github.io/adeshpande3.github.io/A-Beginner's-Guide-To-Understanding-Convolutional-Neural-Networks/](https://adeshpande3.github.io/adeshpande3.github.io/A-Beginner's-Guide-To-Understanding-Convolutional-Neural-Networks/)
+
+**A Beginner's Guide To Understanding Convolutional Neural Networks Part 2**
+
+![](https://adeshpande3.github.io/assets/Cover2nd.png)
+
 - part 2: [https://adeshpande3.github.io/adeshpande3.github.io/A-Beginner's-Guide-To-Understanding-Convolutional-Neural-Networks-Part-2/](https://adeshpande3.github.io/adeshpande3.github.io/A-Beginner's-Guide-To-Understanding-Convolutional-Neural-Networks-Part-2/)
+
+**The 9 Deep Learning Papers You Need To Know About (Understanding CNNs Part 3)**
+
+![](https://adeshpande3.github.io/assets/Cover3rd.png)
+
+- part 3: [https://adeshpande3.github.io/adeshpande3.github.io/The-9-Deep-Learning-Papers-You-Need-To-Know-About.html](https://adeshpande3.github.io/adeshpande3.github.io/The-9-Deep-Learning-Papers-You-Need-To-Know-About.html)
+
+- - -
+
+**Deep Learning Part 1: Comparison of Symbolic Deep Learning Frameworks**
+
+- blog: [http://blog.revolutionanalytics.com/2016/08/deep-learning-part-1.html](http://blog.revolutionanalytics.com/2016/08/deep-learning-part-1.html)
+
+**Deep Learning Part 2: Transfer Learning and Fine-tuning Deep Convolutional Neural Networks**
+
+- blog: [http://blog.revolutionanalytics.com/2016/08/deep-learning-part-2.html](http://blog.revolutionanalytics.com/2016/08/deep-learning-part-2.html)
+
+- - -
 
 **Introduction to Deep Learning for Image Processing**
 
@@ -233,6 +258,12 @@ date: 2015-10-09
 
 - blog: [http://sujitpal.blogspot.com/2016/08/kerasjupyter-notebooks-for-my.html](http://sujitpal.blogspot.com/2016/08/kerasjupyter-notebooks-for-my.html)
 - github: [https://github.com/sujitpal/intro-dl-talk-code](https://github.com/sujitpal/intro-dl-talk-code)
+
+**Learn Deep Learning the Hard Way**
+
+![](https://cdn-images-1.medium.com/max/800/1*ZrPDlOUX8B0htGfnY_bzIw.png)
+
+- blog: [https://medium.com/artifacia/learn-deep-learning-the-hard-way-e5d844f9fbc1#.yitf25xg5](https://medium.com/artifacia/learn-deep-learning-the-hard-way-e5d844f9fbc1#.yitf25xg5)
 
 ## Convolution
 

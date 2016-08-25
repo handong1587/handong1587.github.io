@@ -35,3 +35,7 @@ date: 2015-08-27
 **Spectral Learning for Supervised Topic Models**
 
 - arxiv: [http://arxiv.org/abs/1602.06025](http://arxiv.org/abs/1602.06025)
+
+**Beginners Guide to Topic Modeling in Python**
+
+- blog: [https://www.analyticsvidhya.com/blog/2016/08/beginners-guide-to-topic-modeling-in-python/](https://www.analyticsvidhya.com/blog/2016/08/beginners-guide-to-topic-modeling-in-python/)

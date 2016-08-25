@@ -68,6 +68,11 @@ date: 2015-10-09
 This package also includes implementation of RBM based collaborative filtering model(RBM-CF).
 - github: [https://github.com/mesuvash/NNRec](https://github.com/mesuvash/NNRec)
 
+**Deep learning recommend system with TensorFlow**
+
+- intro: a general project to walk through the proceses of using TensorFlow
+- github: [https://github.com/tobegit3hub/deep_recommend_system](https://github.com/tobegit3hub/deep_recommend_system)
+
 # Videos
 
 **Deep Learning for Recommender Systems**

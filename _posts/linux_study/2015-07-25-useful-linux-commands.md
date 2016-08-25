@@ -257,7 +257,7 @@ grep --exclude-dir={dir1,dir2,*.dst} -rnw '/path/to/somewhere/' -e "pattern"
 
 - stackoverflow: [http://stackoverflow.com/questions/16956810/finding-all-files-containing-a-text-string-on-linux](http://stackoverflow.com/questions/16956810/finding-all-files-containing-a-text-string-on-linux)
 
-## References
+**references**
 
 **How to Find a File in Linux**
 
@@ -508,3 +508,11 @@ Create new file list:
 ```
 sed 's?^?'`pwd`'/detection_images/?; s?$?.jpg?' trainval.txt > voc.2007trainval.list
 ```
+
+**Merge two files consistently line by line**
+
+```
+paste -d" " file1.txt file2.txt
+```
+
+[http://stackoverflow.com/questions/16394176/how-to-merge-two-files-consistently-line-by-line](http://stackoverflow.com/questions/16394176/how-to-merge-two-files-consistently-line-by-line)

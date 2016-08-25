@@ -217,6 +217,11 @@ date: 2015-10-09
 
 - blog: [http://kvfrans.com/generative-adversial-networks-explained/](http://kvfrans.com/generative-adversial-networks-explained/)
 
+**An introduction to Generative Adversarial Networks (with code in TensorFlow)**
+
+- blog: [http://blog.aylien.com/introduction-generative-adversarial-networks-code-tensorflow/](http://blog.aylien.com/introduction-generative-adversarial-networks-code-tensorflow/)
+- github: [https://github.com/AYLIEN/gan-intro](https://github.com/AYLIEN/gan-intro)
+
 # Projects
 
 **Generate cat images with neural networks**

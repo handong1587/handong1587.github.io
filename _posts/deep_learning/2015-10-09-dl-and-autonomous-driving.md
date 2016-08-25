@@ -95,6 +95,10 @@ date: 2015-10-09
 without running into obstacles using a type of reinforcement learning called Q-Learning
 - github: [https://github.com/llSourcell/Self-Driving-Car-Demo/](https://github.com/llSourcell/Self-Driving-Car-Demo/)
 
+**Autoware: Open-source software for urban autonomous driving**
+
+- github: [https://github.com/CPFL/Autoware](https://github.com/CPFL/Autoware)
+
 # Blogs
 
 **Self-driving cars: How far away are we REALLY from autonomous cars?(7 Aug 2015)**
