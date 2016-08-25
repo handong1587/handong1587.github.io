@@ -341,6 +341,13 @@ and 1.15s per image with it".
 - intro: VOC2007: 78.6%, VOC2012: 74.9%
 - arxiv: [http://arxiv.org/abs/1608.05159](http://arxiv.org/abs/1608.05159)
 
+## SubCNN
+
+**Subcategory-aware Convolutional Neural Networks for Object Proposals and Detection**
+
+- arxiv: [http://arxiv.org/abs/1604.04693](http://arxiv.org/abs/1604.04693)
+- github: [https://github.com/yuxng/SubCNN](https://github.com/yuxng/SubCNN)
+
 # Detection From Video
 
 **Learning Object Class Detectors from Weakly Annotated Video**

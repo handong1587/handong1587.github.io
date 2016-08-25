@@ -134,6 +134,12 @@ extract saptio-temporal features to represent the video using the CNNs."
 
 - arxiv: [http://arxiv.org/abs/1608.04339](http://arxiv.org/abs/1608.04339)
 
+**Dynamic Image Networks for Action Recognition**
+
+- intro: CVPR 2016
+- arxiv: [http://users.cecs.anu.edu.au/~sgould/papers/cvpr16-dynamic_images.pdf](http://users.cecs.anu.edu.au/~sgould/papers/cvpr16-dynamic_images.pdf)
+- github: [https://github.com/hbilen/dynamic-image-nets](https://github.com/hbilen/dynamic-image-nets)
+
 # Event Recognition
 
 **TagBook: A Semantic Video Representation without Supervision for Event Detection**

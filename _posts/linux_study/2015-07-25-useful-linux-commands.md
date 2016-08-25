@@ -226,7 +226,8 @@ ls -lR | grep “^d” | wc -l
 
 # Search
 
-1. Search for a file by its file name. 
+**Search for a file by its file name**
+
 The command below will search for the query in the current directory and any subdirectories.
 Using -iname instead of -name ignores the case of your query. The -name command is case-sensitive.
 
@@ -234,7 +235,7 @@ Using -iname instead of -name ignores the case of your query. The -name command 
 find -iname "filename"
 ```
 
-2. Finding all files containing a text string:
+**Finding all files containing a text string**
 
 ```
 grep -rnw '/path/to/somewhere/' -e "pattern"
@@ -246,13 +247,15 @@ grep --exclude=*.o -rnw '/path/to/somewhere/' -e "pattern"
 grep --exclude-dir={dir1,dir2,*.dst} -rnw '/path/to/somewhere/' -e "pattern"
 ```
 
- - -r or -R is recursive,
- - -n is line number, and
- - -w stands match the whole word.
- - -l (lower-case L) can be added to just give the file name of matching files.
- - Along with these, --exclude or --include parameter could be used for efficient searching.
+1. -r or -R is recursive,
+2. -n is line number, and
+3. -w stands match the whole word.
+4. -l (lower-case L) can be added to just give the file name of matching files.
+5. Along with these, --exclude or --include parameter could be used for efficient searching.
 
-- ref: [http://stackoverflow.com/questions/16956810/finding-all-files-containing-a-text-string-on-linux](http://stackoverflow.com/questions/16956810/finding-all-files-containing-a-text-string-on-linux)
+**Finding all files containing a text string on Linux**
+
+- stackoverflow: [http://stackoverflow.com/questions/16956810/finding-all-files-containing-a-text-string-on-linux](http://stackoverflow.com/questions/16956810/finding-all-files-containing-a-text-string-on-linux)
 
 ## References
 
@@ -267,6 +270,10 @@ grep --exclude-dir={dir1,dir2,*.dst} -rnw '/path/to/somewhere/' -e "pattern"
 **35 Practical Examples of Linux Find Command**
 
 [http://www.tecmint.com/35-practical-examples-of-linux-find-command/](http://www.tecmint.com/35-practical-examples-of-linux-find-command/)
+
+**How to use grep to search for strings in files on the shell**
+
+[https://www.howtoforge.com/tutorial/linux-grep-command/](https://www.howtoforge.com/tutorial/linux-grep-command/)
 
 # GDB
 

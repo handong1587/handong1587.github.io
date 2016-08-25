@@ -283,6 +283,12 @@ Other awesome lists can be found in this [list](https://github.com/sindresorhus/
 - blog: [http://blog.applied.ai/visualising-high-dimensional-data/](http://blog.applied.ai/visualising-high-dimensional-data/)
 - ipn("t-SNE Demo"): [https://s3-eu-west-1.amazonaws.com/appliedai.static/tsnedemo/htmlrenders/01_EndToEnd_DataViz.html](https://s3-eu-west-1.amazonaws.com/appliedai.static/tsnedemo/htmlrenders/01_EndToEnd_DataViz.html)
 
+**Interactive demonstrations for ML courses**
+
+![](http://arogozhnikov.github.io/images/ml_demonstrations/gradient_boosting_explained.png)
+
+- blog: [http://arogozhnikov.github.io/2016/04/28/demonstrations-for-ml-courses.html](http://arogozhnikov.github.io/2016/04/28/demonstrations-for-ml-courses.html)
+
 # Tricks
 
 **Machine Learning Trick of the Day**

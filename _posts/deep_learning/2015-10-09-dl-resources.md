@@ -244,6 +244,10 @@ testing it on the MNIST handwritten digits data.
 
 - blog: [http://blog.fastforwardlabs.com/post/148842796218/introducing-variational-autoencoders-in-prose-and](http://blog.fastforwardlabs.com/post/148842796218/introducing-variational-autoencoders-in-prose-and)
 
+**Under the Hood of the Variational Autoencoder (in Prose and Code)**
+
+- blog: [http://blog.fastforwardlabs.com/post/149329060653/under-the-hood-of-the-variational-autoencoder-in](http://blog.fastforwardlabs.com/post/149329060653/under-the-hood-of-the-variational-autoencoder-in)
+
 **The Unreasonable Confusion of Variational Autoencoders**
 
 - blog: [https://jaan.io/unreasonable-confusion/](https://jaan.io/unreasonable-confusion/)
