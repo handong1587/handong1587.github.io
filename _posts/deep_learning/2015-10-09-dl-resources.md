@@ -122,6 +122,7 @@ not just the convolutions)
 
 **Wide Residual Networks**
 
+- intro: BMVC 2016
 - arxiv: [http://arxiv.org/abs/1605.07146](http://arxiv.org/abs/1605.07146)
 - github: [https://github.com/szagoruyko/wide-residual-networks](https://github.com/szagoruyko/wide-residual-networks)
 - github: [https://github.com/asmith26/wide_resnets_keras](https://github.com/asmith26/wide_resnets_keras)
@@ -205,6 +206,12 @@ not just the convolutions)
 **Stacked What-Where Auto-encoders**
 
 - arxiv: [http://arxiv.org/abs/1506.02351](http://arxiv.org/abs/1506.02351)
+
+**Ladder Variational Autoencoders**
+**How to Train Deep Variational Autoencoders and Probabilistic Ladder Networks**
+
+- arxiv:[http://arxiv.org/abs/1602.02282](http://arxiv.org/abs/1602.02282)
+- github: [https://github.com/casperkaae/LVAE](https://github.com/casperkaae/LVAE)
 
 **Rank Ordered Autoencoders**
 
@@ -727,6 +734,10 @@ with fast exact probabilistic inference over many layers."
 **Local Binary Convolutional Neural Networks**
 
 - arxiv: [http://arxiv.org/abs/1608.06049](http://arxiv.org/abs/1608.06049)
+
+**Densely Connected Convolutional Networks**
+
+- arxiv: [http://arxiv.org/abs/1608.06993](http://arxiv.org/abs/1608.06993)
 
 ## Highway Networks
 

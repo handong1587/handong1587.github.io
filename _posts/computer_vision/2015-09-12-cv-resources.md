@@ -532,6 +532,12 @@ The size of their dataset is, however, limited by the availability of domain-spe
 - keywords: structured SVM (SSVM)
 - paper: [http://www.umiacs.umd.edu/~morariu/publications/LinEgocentricICCVW15.pdf](http://www.umiacs.umd.edu/~morariu/publications/LinEgocentricICCVW15.pdf)
 
+**Title Generation for User Generated Videos**
+
+- intro: ECCV 2016
+- intro: video captioning, video highlight detection, sentence augmentation
+- arxiv: [http://arxiv.org/abs/1608.07068](http://arxiv.org/abs/1608.07068)
+
 # Face Detection
 
 **Build a Face Detection App Using Node.js and OpenCV**

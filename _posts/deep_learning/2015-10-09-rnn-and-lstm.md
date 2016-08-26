@@ -351,6 +351,10 @@ date: 2015-10-09
 
 - arxiv: [http://arxiv.org/abs/1608.00092](http://arxiv.org/abs/1608.00092)
 
+**Recurrent Neural Networks With Limited Numerical Precision**
+
+- arxiv: [http://arxiv.org/abs/1608.06902](http://arxiv.org/abs/1608.06902)
+
 # Projects
 
 **NeuralTalk (Deprecated): a Python+numpy project for learning Multimodal Recurrent Neural Networks that describe images with sentences**
@@ -359,7 +363,7 @@ date: 2015-10-09
 
 **NeuralTalk2: Efficient Image Captioning code in Torch, runs on GPU**
 
-- github: 	[https://github.com/karpathy/neuraltalk2](https://github.com/karpathy/neuraltalk2)
+- github: [https://github.com/karpathy/neuraltalk2](https://github.com/karpathy/neuraltalk2)
 
 **char-rnn in Blocks**
 

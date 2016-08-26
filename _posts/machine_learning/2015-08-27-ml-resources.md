@@ -311,6 +311,12 @@ Other awesome lists can be found in this [list](https://github.com/sindresorhus/
 
 - arxiv: [http://arxiv.org/abs/1608.06048](http://arxiv.org/abs/1608.06048)
 
+**Learning from Imbalanced Classes**
+
+![](http://www.svds.com/wp-content/uploads/2016/08/ImbalancedClasses_fig5.jpg)
+
+- blog: [http://www.svds.com/learning-imbalanced-classes/](http://www.svds.com/learning-imbalanced-classes/)
+
 # Deep What?
 
 **Deep Support Vector Machines**

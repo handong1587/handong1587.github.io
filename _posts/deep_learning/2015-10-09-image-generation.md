@@ -175,6 +175,7 @@ date: 2015-10-09
 **Auxiliary Deep Generative Models**
 
 - arxiv: [http://arxiv.org/abs/1602.05473](http://arxiv.org/abs/1602.05473)
+- github: [https://github.com/larsmaaloee/auxiliary-deep-generative-models](https://github.com/larsmaaloee/auxiliary-deep-generative-models)
 
 **One-Shot Generalization in Deep Generative Models (Google DeepMind. ICML 2016)**
 

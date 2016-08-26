@@ -282,8 +282,11 @@ and 1.15s per image with it".
 
 **A MultiPath Network for Object Detection**
 
-- intro: Facebook AI Research (FAIR)
+![](https://cloud.githubusercontent.com/assets/4953728/17826153/442d027a-666e-11e6-9a1e-2fac95a2d3ba.jpg)
+
+- intro: BMVC 2016. Facebook AI Research (FAIR)
 - arxiv: [http://arxiv.org/abs/1604.02135](http://arxiv.org/abs/1604.02135)
+- github: [https://github.com/facebookresearch/multipathnet](https://github.com/facebookresearch/multipathnet)
 
 ## CRAFT
 
@@ -762,3 +765,15 @@ We additionally provide an implementation of the [ReInspect](https://github.com/
 **Deep Learning for Object Detection with DIGITS**
 
 - blog: [https://devblogs.nvidia.com/parallelforall/deep-learning-object-detection-digits/](https://devblogs.nvidia.com/parallelforall/deep-learning-object-detection-digits/)
+
+**讲堂干货No.1｜山世光－基于深度学习的目标检测技术进展与展望**
+
+[https://mp.weixin.qq.com/s?__biz=MzA5MjM0MDQ1NA==&mid=2650010895&idx=2&sn=2db3a20e0ff92be55b7e2f2929040f5d](https://mp.weixin.qq.com/s?__biz=MzA5MjM0MDQ1NA==&mid=2650010895&idx=2&sn=2db3a20e0ff92be55b7e2f2929040f5d)
+
+**讲堂干货No.2｜邬书哲－物体检测算法的革新与传承**
+
+[https://mp.weixin.qq.com/s?__biz=MzA5MjM0MDQ1NA==&mid=2650010895&idx=3&sn=d5ba43e4c96cf7585356c6e7e12c19e2](https://mp.weixin.qq.com/s?__biz=MzA5MjM0MDQ1NA==&mid=2650010895&idx=3&sn=d5ba43e4c96cf7585356c6e7e12c19e2)
+
+**讲堂干货No.3｜黄畅－基于DenesBox的目标检测在自动驾驶中的应用**
+
+[https://mp.weixin.qq.com/s?__biz=MzA5MjM0MDQ1NA==&mid=2650010895&idx=4&sn=6695376866bdbd7ffa0907c016fee70a](https://mp.weixin.qq.com/s?__biz=MzA5MjM0MDQ1NA==&mid=2650010895&idx=4&sn=6695376866bdbd7ffa0907c016fee70a)
