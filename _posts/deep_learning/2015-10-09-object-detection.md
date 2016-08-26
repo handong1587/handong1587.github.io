@@ -463,6 +463,7 @@ This task involves predicting the salient regions of an image given by human eye
 - arxiv: [http://arxiv.org/abs/1607.04730](http://arxiv.org/abs/1607.04730)
 
 **Unconstrained Salient Object Detection**
+**Unconstrained Salient Object Detection via Proposal Subset Optimization**
 
 ![](http://cs-people.bu.edu/jmzhang/images/pasted%20image%201465x373.jpg)
 
@@ -470,11 +471,18 @@ This task involves predicting the salient regions of an image given by human eye
 - project page: [http://cs-people.bu.edu/jmzhang/sod.html](http://cs-people.bu.edu/jmzhang/sod.html)
 - paper: [http://cs-people.bu.edu/jmzhang/SOD/CVPR16SOD_camera_ready.pdf](http://cs-people.bu.edu/jmzhang/SOD/CVPR16SOD_camera_ready.pdf)
 - github: [https://github.com/jimmie33/SOD](https://github.com/jimmie33/SOD)
+- caffe model zoo: [https://github.com/BVLC/caffe/wiki/Model-Zoo#cnn-object-proposal-models-for-salient-object-detection](https://github.com/BVLC/caffe/wiki/Model-Zoo#cnn-object-proposal-models-for-salient-object-detection)
 
 **Salient Object Subitizing**
 
+![](http://cs-people.bu.edu/jmzhang/images/frontpage.png?crc=123070793)
+
+- intro: CVPR 2015
 - intro: predicting the existence and the number of salient objects in an image using holistic cues
+- project page: [http://cs-people.bu.edu/jmzhang/sos.html](http://cs-people.bu.edu/jmzhang/sos.html)
 - arxiv: [http://arxiv.org/abs/1607.07525](http://arxiv.org/abs/1607.07525)
+- paper: [http://cs-people.bu.edu/jmzhang/SOS/SOS_preprint.pdf](http://cs-people.bu.edu/jmzhang/SOS/SOS_preprint.pdf)
+- caffe model zoo: [https://github.com/BVLC/caffe/wiki/Model-Zoo#cnn-models-for-salient-object-subitizing](https://github.com/BVLC/caffe/wiki/Model-Zoo#cnn-models-for-salient-object-subitizing)
 
 **Deeply-Supervised Recurrent Convolutional Neural Network for Saliency Detection**
 
