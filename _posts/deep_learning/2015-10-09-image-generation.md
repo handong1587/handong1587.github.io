@@ -188,6 +188,10 @@ date: 2015-10-09
 - project page: [http://www.stat.ucla.edu/~jxie/STGConvNet/STGConvNet.html](http://www.stat.ucla.edu/~jxie/STGConvNet/STGConvNet.html)
 - paper: [http://www.stat.ucla.edu/~jxie/STGConvNet/STGConvNet_file/doc/STGConvNet.pdf](http://www.stat.ucla.edu/~jxie/STGConvNet/STGConvNet_file/doc/STGConvNet.pdf)
 
+**Synthesizing the preferred inputs for neurons in neural networks via deep generator networks**
+
+- arxiv: [http://arxiv.org/abs/1605.09304](http://arxiv.org/abs/1605.09304)
+
 **Coupled Generative Adversarial Networks**
 
 - arxiv: [https://arxiv.org/abs/1606.07536](https://arxiv.org/abs/1606.07536)

@@ -134,6 +134,11 @@ date: 2015-08-27
 - github(server): [https://github.com/JavaFXpert/visual-neural-net-server](https://github.com/JavaFXpert/visual-neural-net-server)
 - github(client):[https://github.com/JavaFXpert/ng2-spring-websocket-client](https://github.com/JavaFXpert/ng2-spring-websocket-client)
 
+**NN++: A small and easy to use neural net implementation for C++**
+
+- intro: It includes the neural net implementation and a Matrix class for basic linear algebra operations
+- github: [https://github.com/stagadish/NNplusplus](https://github.com/stagadish/NNplusplus)
+
 # Videos
 
 **Neural Networks with PHP**

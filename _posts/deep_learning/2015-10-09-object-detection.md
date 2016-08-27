@@ -85,8 +85,6 @@ topmost feature map after knowing the confidences of the underlying object categ
 
 **DeepID-Net: Deformable Deep Convolutional Neural Networks for Object Detection**
 
-![](http://www.ee.cuhk.edu.hk/~wlouyang/projects/imagenetDeepId/images/architecture.jpg)
-
 - intro: an extension of R-CNN
 - keywords: box pre-training, cascade on region proposals, deformation layers and context representations
 - project page: [http://www.ee.cuhk.edu.hk/%CB%9Cwlouyang/projects/imagenetDeepId/index.html](http://www.ee.cuhk.edu.hk/%CB%9Cwlouyang/projects/imagenetDeepId/index.html)
@@ -218,11 +216,6 @@ bounding boxes (which are shared for these categories).
 - demo: [http://pan.baidu.com/s/1mgoWWsS](http://pan.baidu.com/s/1mgoWWsS)
 - KITTI result: [http://www.cvlibs.net/datasets/kitti/eval_object.php](http://www.cvlibs.net/datasets/kitti/eval_object.php)
 
-**CVPR研讨会 余凯特邀报告：基于密集预测图的物体检测技术造就全球领先的ADAS系统**
-
-- intro: DenseBox(V2)
-- blog: [https://mp.weixin.qq.com/s?__biz=MzI4ODAyNjU3MQ==&mid=2649827746&idx=1&sn=aa66524f964ac87d7437fc7b162f95a6&scene=1&srcid=0704uqAhpgy2fZQecXXLu6VN&pass_ticket=V7q2djnsZpyMQSJrOri0pR%2Bd%2Fi063dE5bK3kRigh1vPo%2B9yRU0Xm7cRvRNbzVgqF#rd](https://mp.weixin.qq.com/s?__biz=MzI4ODAyNjU3MQ==&mid=2649827746&idx=1&sn=aa66524f964ac87d7437fc7b162f95a6&scene=1&srcid=0704uqAhpgy2fZQecXXLu6VN&pass_ticket=V7q2djnsZpyMQSJrOri0pR%2Bd%2Fi063dE5bK3kRigh1vPo%2B9yRU0Xm7cRvRNbzVgqF#rd)
-
 ## SSD
 
 **SSD: Single Shot MultiBox Detector**
@@ -291,8 +284,6 @@ and 1.15s per image with it".
 ## CRAFT
 
 **CRAFT Objects from Images**
-
-![](http://byangderek.github.io/projects/craft/approach.png)
 
 - intro: CVPR 2016. Cascade Region-proposal-network And FasT-rcnn. an extension of Faster R-CNN
 - project page: [http://byangderek.github.io/projects/craft.html](http://byangderek.github.io/projects/craft.html)
@@ -760,19 +751,23 @@ We additionally provide an implementation of the [ReInspect](https://github.com/
 
 **Introducing automatic object detection to visual search (Pinterest)**
 
-![](https://engineering.pinterest.com/sites/engineering/files/Visual%20Search%20V1%20-%20Video.mp4)
-
 - keywords: Faster R-CNN
 - blog: [https://engineering.pinterest.com/blog/introducing-automatic-object-detection-visual-search](https://engineering.pinterest.com/blog/introducing-automatic-object-detection-visual-search)
+- demo: [https://engineering.pinterest.com/sites/engineering/files/Visual%20Search%20V1%20-%20Video.mp4](https://engineering.pinterest.com/sites/engineering/files/Visual%20Search%20V1%20-%20Video.mp4)
 - review: [https://news.developer.nvidia.com/pinterest-introduces-the-future-of-visual-search/?mkt_tok=eyJpIjoiTnpaa01UWXpPRE0xTURFMiIsInQiOiJJRjcybjkwTmtmallORUhLOFFFODBDclFqUlB3SWlRVXJXb1MrQ013TDRIMGxLQWlBczFIeWg0TFRUdnN2UHY2ZWFiXC9QQVwvQzBHM3B0UzBZblpOSmUyU1FcLzNPWXI4cml2VERwTTJsOFwvOEk9In0%3D](https://news.developer.nvidia.com/pinterest-introduces-the-future-of-visual-search/?mkt_tok=eyJpIjoiTnpaa01UWXpPRE0xTURFMiIsInQiOiJJRjcybjkwTmtmallORUhLOFFFODBDclFqUlB3SWlRVXJXb1MrQ013TDRIMGxLQWlBczFIeWg0TFRUdnN2UHY2ZWFiXC9QQVwvQzBHM3B0UzBZblpOSmUyU1FcLzNPWXI4cml2VERwTTJsOFwvOEk9In0%3D)
+
+**Deep Learning for Object Detection with DIGITS**
+
+- blog: [https://devblogs.nvidia.com/parallelforall/deep-learning-object-detection-digits/](https://devblogs.nvidia.com/parallelforall/deep-learning-object-detection-digits/)
 
 **CVPR 2016论文快讯：目标检测领域的新进展**
 
 [http://mp.weixin.qq.com/s?__biz=MzI1NTE4NTUwOQ==&mid=2650325043&idx=1&sn=bd016d98a40e8cf7d53ee674f201b4a7#rd](http://mp.weixin.qq.com/s?__biz=MzI1NTE4NTUwOQ==&mid=2650325043&idx=1&sn=bd016d98a40e8cf7d53ee674f201b4a7#rd)
 
-**Deep Learning for Object Detection with DIGITS**
+**CVPR研讨会 余凯特邀报告：基于密集预测图的物体检测技术造就全球领先的ADAS系统**
 
-- blog: [https://devblogs.nvidia.com/parallelforall/deep-learning-object-detection-digits/](https://devblogs.nvidia.com/parallelforall/deep-learning-object-detection-digits/)
+- intro: DenseBox(V2)
+- blog: [https://mp.weixin.qq.com/s?__biz=MzI4ODAyNjU3MQ==&mid=2649827746&idx=1&sn=aa66524f964ac87d7437fc7b162f95a6&scene=1&srcid=0704uqAhpgy2fZQecXXLu6VN&pass_ticket=V7q2djnsZpyMQSJrOri0pR%2Bd%2Fi063dE5bK3kRigh1vPo%2B9yRU0Xm7cRvRNbzVgqF#rd](https://mp.weixin.qq.com/s?__biz=MzI4ODAyNjU3MQ==&mid=2649827746&idx=1&sn=aa66524f964ac87d7437fc7b162f95a6&scene=1&srcid=0704uqAhpgy2fZQecXXLu6VN&pass_ticket=V7q2djnsZpyMQSJrOri0pR%2Bd%2Fi063dE5bK3kRigh1vPo%2B9yRU0Xm7cRvRNbzVgqF#rd)
 
 **讲堂干货No.1｜山世光－基于深度学习的目标检测技术进展与展望**
 

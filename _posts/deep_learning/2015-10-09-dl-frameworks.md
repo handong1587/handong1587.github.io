@@ -654,6 +654,11 @@ for building Deep Learning (DL) machine learning (ML) models
 - arxiv: [http://arxiv.org/abs/1511.06435](http://arxiv.org/abs/1511.06435)
 - github: [https://github.com/DL-Benchmarks/DL-Benchmarks](https://github.com/DL-Benchmarks/DL-Benchmarks)
 
+**Benchmarking State-of-the-Art Deep Learning Software Tools**
+
+- intro: Caffe, CNTK, TensorFlow, and Torch
+- arxiv: [http://arxiv.org/abs/1608.07249](http://arxiv.org/abs/1608.07249)
+
 # Codes
 
 **TensorFuse: Common interface for Theano, CGT, and TensorFlow**

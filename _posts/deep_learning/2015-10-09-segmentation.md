@@ -43,8 +43,9 @@ date: 2015-10-09
 
 # Instance Segmentation
 
-**Simultaneous Detection and Segmentation (ECCV 2014)**
+**Simultaneous Detection and Segmentation**
 
+- intro: ECCV 2014
 - author: Bharath Hariharan, Pablo Arbelaez, Ross Girshick, Jitendra Malik
 - arxiv: [http://arxiv.org/abs/1407.1808](http://arxiv.org/abs/1407.1808)
 - github(Matlab): [https://github.com/bharath272/sds_eccv2014](https://github.com/bharath272/sds_eccv2014)
@@ -58,14 +59,16 @@ date: 2015-10-09
 
 - paper: [http://arxiv.org/abs/1509.02636](http://arxiv.org/abs/1509.02636)
 
-**Hypercolumns for object segmentation and fine-grained localization (CVPR 2015)**
+**Hypercolumns for object segmentation and fine-grained localization**
 
+- intro: CVPR 2015
 - paper: [http://www.cs.berkeley.edu/~bharath2/pubs/pdfs/BharathCVPR2015.pdf](http://www.cs.berkeley.edu/~bharath2/pubs/pdfs/BharathCVPR2015.pdf)
 - github("SDS using hypercolumns"): [https://github.com/bharath272/sds](https://github.com/bharath272/sds)
 
-**Learning to decompose for object detection and instance segmentation (ICLR 2016 Workshop)**
+**Learning to decompose for object detection and instance segmentation**
 
-- intro: CNN / RNN, MNIST, KITTI 
+- intro: ICLR 2016 Workshop
+- keyword: CNN / RNN, MNIST, KITTI
 - arxiv: [http://arxiv.org/abs/1511.06449](http://arxiv.org/abs/1511.06449)
 
 **Recurrent Instance Segmentation**
@@ -129,8 +132,9 @@ only the CNN part of the network is fine-tuned to learn deconvolution indirectly
 - github: [https://github.com/MarvinTeichmann/tensorflow-fcn](https://github.com/MarvinTeichmann/tensorflow-fcn)
 - notes: [http://zhangliliang.com/2014/11/28/paper-note-fcn-segment/](http://zhangliliang.com/2014/11/28/paper-note-fcn-segment/)
 
-**From Image-level to Pixel-level Labeling with Convolutional Networks (CVPR 2015)**
+**From Image-level to Pixel-level Labeling with Convolutional Networks**
 
+- intro: CVPR 2015
 - intro: "Weakly Supervised Semantic Segmentation with Convolutional Networks"
 - intro: performs semantic segmentation based only on image-level annotations in a multiple instance learning framework
 - arxiv: [http://arxiv.org/abs/1411.6228](http://arxiv.org/abs/1411.6228)
@@ -155,10 +159,11 @@ the per-pixel classification task is modeled as a CRF inference problem."
 - arxiv: [http://arxiv.org/abs/1502.02734](http://arxiv.org/abs/1502.02734)
 - bitbucket: [https://bitbucket.org/deeplab/deeplab-public/](https://bitbucket.org/deeplab/deeplab-public/)
 
-**Conditional Random Fields as Recurrent Neural Networks (ICCV2015. Oxford / Stanford / Baidu)**
+**Conditional Random Fields as Recurrent Neural Networks**
 
 ![](http://www.robots.ox.ac.uk/~szheng/Res_CRFRNN/CRFasRNN.jpg)
 
+- intro: ICCV2015. Oxford / Stanford / Baidu
 - intro: "proposed a better approach where the CRF
 constructed on image is modeled as a Recurrent Neural Network (RNN). 
 By modeling the CRF as an RNN, it can be integrated as a part of any Deep Convolutinal Net 
@@ -180,10 +185,11 @@ using the stochastic gradient descent (SGD) algorithm to obtain fine pixel-level
 
 ## DeconvNet
 
-**Learning Deconvolution Network for Semantic Segmentation (DeconvNet. ICCV 2015)**
+**Learning Deconvolution Network for Semantic Segmentation (DeconvNet)**
 
 ![](http://cvlab.postech.ac.kr/research/deconvnet/images/overall.png)
 
+- intro: ICLR 2016
 - intro: two-stage training: train the network with easy examples first and 
 fine-tune the trained network with more challenging examples later
 - project page: [http://cvlab.postech.ac.kr/research/deconvnet/](http://cvlab.postech.ac.kr/research/deconvnet/)
@@ -219,12 +225,22 @@ fine-tune the trained network with more challenging examples later
 - blog: [http://mi.eng.cam.ac.uk/projects/segnet/tutorial.html](http://mi.eng.cam.ac.uk/projects/segnet/tutorial.html)
 - github: [https://github.com/alexgkendall/SegNet-Tutorial](https://github.com/alexgkendall/SegNet-Tutorial)
 
+## ParseNet
+
+**ParseNet: Looking Wider to See Better**
+
+- intro:ICLR 2016
+- arxiv: [http://arxiv.org/abs/1506.04579](http://arxiv.org/abs/1506.04579)
+- github: [https://github.com/weiliu89/caffe/tree/fcn](https://github.com/weiliu89/caffe/tree/fcn)
+- caffe model zoo: [https://github.com/BVLC/caffe/wiki/Model-Zoo#parsenet-looking-wider-to-see-better](https://github.com/BVLC/caffe/wiki/Model-Zoo#parsenet-looking-wider-to-see-better)
+
 ## DecoupledNet
 
-**Decoupled Deep Neural Network for Semi-supervised Semantic Segmentation (NIPS 2015)**
+**Decoupled Deep Neural Network for Semi-supervised Semantic Segmentation**
 
 ![](http://cvlab.postech.ac.kr/research/decouplednet/images/overall.png)
 
+- intro: ICLR 2016
 - project(paper+code): [http://cvlab.postech.ac.kr/research/decouplednet/](http://cvlab.postech.ac.kr/research/decouplednet/)
 - arxiv: [http://arxiv.org/abs/1506.04924](http://arxiv.org/abs/1506.04924)
 - github: [https://github.com/HyeonwooNoh/DecoupledNet](https://github.com/HyeonwooNoh/DecoupledNet)
@@ -292,8 +308,9 @@ fine-tune the trained network with more challenging examples later
 
 - arxiv: [http://arxiv.org/abs/1606.07230](http://arxiv.org/abs/1606.07230)
 
-**Region-based semantic segmentation with end-to-end training (ECCV 2016 camera-ready)**
+**Region-based semantic segmentation with end-to-end training**
 
+- intro: ECCV 2016
 - arxiv: [http://arxiv.org/abs/1607.07671](http://arxiv.org/abs/1607.07671)
 
 # Scene Labeling/Parsing
@@ -319,6 +336,7 @@ not very deep with only three convolution layers."
 
 **Multi-modal unsupervised feature learning for rgb-d scene labeling**
 
+- intro: ECCV 2014
 - paper: [http://www3.ntu.edu.sg/home/wanggang/WangECCV2014.pdf](http://www3.ntu.edu.sg/home/wanggang/WangECCV2014.pdf)
 
 **Scene Labeling with LSTM Recurrent Neural Networks**
@@ -330,8 +348,9 @@ not very deep with only three convolution layers."
 - arxiv: [http://arxiv.org/abs/1603.08575](http://arxiv.org/abs/1603.08575)
 - notes: [http://www.shortscience.org/paper?bibtexKey=journals/corr/EslamiHWTKH16](http://www.shortscience.org/paper?bibtexKey=journals/corr/EslamiHWTKH16)
 
-**"Semantic Segmentation for Scene Understanding: Algorithms and Implementations" tutorial (2016 Embedded Vision Summit)**
+**"Semantic Segmentation for Scene Understanding: Algorithms and Implementations" tutorial**
 
+- intro: 2016 Embedded Vision Summit
 - youtube: [https://www.youtube.com/watch?v=pQ318oCGJGY](https://www.youtube.com/watch?v=pQ318oCGJGY)
 
 # Segmentation From Video

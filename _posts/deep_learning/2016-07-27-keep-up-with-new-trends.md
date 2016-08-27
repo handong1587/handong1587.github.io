@@ -5,6 +5,8 @@ title: Keep Up With New Trends
 date: 2016-07-27
 ---
 
+# DLSS 2016
+
 **Montréal Deep Learning Summer School 2016**
 
 - video lectures: [http://videolectures.net/deeplearning2016_montreal/](http://videolectures.net/deeplearning2016_montreal/)
@@ -12,7 +14,13 @@ date: 2016-07-27
 - slides: [https://sites.google.com/site/deeplearningsummerschool2016/speakers](https://sites.google.com/site/deeplearningsummerschool2016/speakers)
 - mirror: [http://pan.baidu.com/s/1kUWrWI7](http://pan.baidu.com/s/1kUWrWI7)
 
+**Highlights from the Deep Learning Summer School (Part 1)**
+
+[https://vkrakovna.wordpress.com/2016/08/25/highlights-from-the-deep-learning-summer-school-part-1/](https://vkrakovna.wordpress.com/2016/08/25/highlights-from-the-deep-learning-summer-school-part-1/)
+
 **10 Papers from ICML and CVPR**
+
+# ICML 2016
 
 [https://leotam.github.io/general/2016/07/12/ICMLcVPR.html](https://leotam.github.io/general/2016/07/12/ICMLcVPR.html)
 
@@ -35,6 +43,8 @@ date: 2016-07-27
 - slides: [http://www.idiap.ch/workshop/dltm/](http://www.idiap.ch/workshop/dltm/)
 - Torch tutorials: [https://github.com/szagoruyko/idiap-tutorials](https://github.com/szagoruyko/idiap-tutorials)
 
+# ICLR 2016
+
 **Deep Learning Trends @ ICLR 2016**
 
 [http://www.computervisionblog.com/2016/06/deep-learning-trends-iclr-2016.html](http://www.computervisionblog.com/2016/06/deep-learning-trends-iclr-2016.html)
@@ -47,6 +57,12 @@ date: 2016-07-27
 **ICLR 2016 Takeaways: Adversarial Models & Optimization**
 
 [https://indico.io/blog/iclr-2016-takeaways/](https://indico.io/blog/iclr-2016-takeaways/)
+
+**tensor talk - Latest AI Code: conference-iclr-2016**
+
+[https://tensortalk.com/?cat=conference-iclr-2016](https://tensortalk.com/?cat=conference-iclr-2016)
+
+# CVPR 2016
 
 **Five Things I Learned at CVPR 2016**
 
@@ -63,14 +79,7 @@ date: 2016-07-27
 - Object Detection 1: [http://cvpr2016.thecvf.com/program/main_conference#S1-2A](http://cvpr2016.thecvf.com/program/main_conference#S1-2A)
 - Object Detection 2: [http://cvpr2016.thecvf.com/program/main_conference#S2-2A](http://cvpr2016.thecvf.com/program/main_conference#S2-2A)
 
-**Video Recordings of the ICML’15 Deep Learning Workshop**
-
-- homepage: [http://dpkingma.com/?page_id=483](http://dpkingma.com/?page_id=483)
-- youtube: [https://www.youtube.com/playlist?list=PLdH9u0f1XKW8cUM3vIVjnpBfk_FKzviCu](https://www.youtube.com/playlist?list=PLdH9u0f1XKW8cUM3vIVjnpBfk_FKzviCu)
-
-**tensor talk - Latest AI Code: conference-iclr-2016**
-
-[https://tensortalk.com/?cat=conference-iclr-2016](https://tensortalk.com/?cat=conference-iclr-2016)
+# VALSE 2016
 
 **VALSE 2016**
 
@@ -86,29 +95,30 @@ date: 2016-07-27
 - homapage: [http://indico.cern.ch/event/510372/](http://indico.cern.ch/event/510372/)
 - slides: [http://indico.cern.ch/event/510372/attachments/1245509/1840815/lecun-20160324-cern.pdf](http://indico.cern.ch/event/510372/attachments/1245509/1840815/lecun-20160324-cern.pdf)
 
+# ICML 2015
+
+**Video Recordings of the ICML’15 Deep Learning Workshop**
+
+- homepage: [http://dpkingma.com/?page_id=483](http://dpkingma.com/?page_id=483)
+- youtube: [https://www.youtube.com/playlist?list=PLdH9u0f1XKW8cUM3vIVjnpBfk_FKzviCu](https://www.youtube.com/playlist?list=PLdH9u0f1XKW8cUM3vIVjnpBfk_FKzviCu)
+
+# ICCV 2015
+
 **International Conference on Computer Vision (ICCV) 2015, Santiago**
 
 [http://videolectures.net/iccv2015_santiago/](http://videolectures.net/iccv2015_santiago/)
-
-**NIPS 2015 workshop on non-convex optimization**
-
-[http://www.offconvex.org/2016/01/25/non-convex-workshop/](http://www.offconvex.org/2016/01/25/non-convex-workshop/)
 
 **ICCV 2015 Tutorial on Tools for Efficient Object Detection**
 
 [http://mp7.watson.ibm.com/ICCV2015/ObjectDetectionICCV2015.html](http://mp7.watson.ibm.com/ICCV2015/ObjectDetectionICCV2015.html)
 
-**ImageNet and MS COCO Visual Recognition Challenges Joint Workshop**
-
-[http://image-net.org/challenges/ilsvrc+mscoco2015](http://image-net.org/challenges/ilsvrc+mscoco2015)
-
 **ICCV 2015 Tutorials**
 
 [http://pamitc.org/iccv15/tutorials.php](http://pamitc.org/iccv15/tutorials.php)
 
-**10 Deep Learning Trends at NIPS 2015**
+**ImageNet and MS COCO Visual Recognition Challenges Joint Workshop**
 
-[http://codinginparadise.org/ebooks/html/blog/ten_deep_learning_trends_at_nips_2015.html](http://codinginparadise.org/ebooks/html/blog/ten_deep_learning_trends_at_nips_2015.html)
+[http://image-net.org/challenges/ilsvrc+mscoco2015](http://image-net.org/challenges/ilsvrc+mscoco2015)
 
 **OpenAI: Some thoughts, mostly questions**
 
@@ -118,13 +128,23 @@ date: 2016-07-27
 
 [https://www.linkedin.com/pulse/7-steps-becoming-deep-learning-expert-ankit-agarwal](https://www.linkedin.com/pulse/7-steps-becoming-deep-learning-expert-ankit-agarwal)
 
-**NIPS 2015 – Deep RL Workshop**
-
-[https://gridworld.wordpress.com/2015/12/13/nips-2015-deep-rl-workshop/](https://gridworld.wordpress.com/2015/12/13/nips-2015-deep-rl-workshop/)
-
 **OpenAI — quick thoughts**
 
 [http://wp.goertzel.org/openai-quick-thoughts/](http://wp.goertzel.org/openai-quick-thoughts/)
+
+# NIPS 2015
+
+**NIPS 2015 workshop on non-convex optimization**
+
+[http://www.offconvex.org/2016/01/25/non-convex-workshop/](http://www.offconvex.org/2016/01/25/non-convex-workshop/)
+
+**10 Deep Learning Trends at NIPS 2015**
+
+[http://codinginparadise.org/ebooks/html/blog/ten_deep_learning_trends_at_nips_2015.html](http://codinginparadise.org/ebooks/html/blog/ten_deep_learning_trends_at_nips_2015.html)
+
+**NIPS 2015 – Deep RL Workshop**
+
+[https://gridworld.wordpress.com/2015/12/13/nips-2015-deep-rl-workshop/](https://gridworld.wordpress.com/2015/12/13/nips-2015-deep-rl-workshop/)
 
 **My takeaways from NIPS 2015**
 
@@ -139,7 +159,7 @@ date: 2016-07-27
 - Part 1: [https://memming.wordpress.com/2015/12/07/nips-2015-part-1/](https://memming.wordpress.com/2015/12/07/nips-2015-part-1/)
 - Part 2: [https://memming.wordpress.com/2015/12/09/nips-2015-part-2/](https://memming.wordpress.com/2015/12/09/nips-2015-part-2/)
 
-**Deep Learning - NIPS’2015	Tutorial (By Geoff Hinton,	Yoshua Bengio & Yann LeCun)**
+**Deep Learning - NIPS’2015 Tutorial (By Geoff Hinton, Yoshua Bengio & Yann LeCun)**
 
 - slides: [http://www.iro.umontreal.ca/~bengioy/talks/DL-Tutorial-NIPS2015.pdf](http://www.iro.umontreal.ca/~bengioy/talks/DL-Tutorial-NIPS2015.pdf)
 
@@ -150,6 +170,8 @@ date: 2016-07-27
 **NIPS 2015 Deep Learning Tutorial Notes**
 
 [http://jatwood.org/blog/nips-deep-learning-tutorial.html](http://jatwood.org/blog/nips-deep-learning-tutorial.html)
+
+# DLSS 2015
 
 **26 Things I Learned in the Deep Learning Summer School**
 

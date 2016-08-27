@@ -1,0 +1,25 @@
+train_net: "models/VGGNet/VOC0712/SSD_300x300/train.prototxt"
+test_net: "models/VGGNet/VOC0712/SSD_300x300/test.prototxt"
+test_iter: 4952
+test_interval: 10000
+base_lr: 0.001
+display: 10
+max_iter: 60000
+lr_policy: "step"
+gamma: 0.1
+momentum: 0.9
+weight_decay: 0.0005
+stepsize: 40000
+snapshot: 40000
+snapshot_prefix: "models/VGGNet/VOC0712/SSD_300x300/VGG_VOC0712_SSD_300x300"
+solver_mode: GPU
+device_id: 0
+debug_info: false
+snapshot_after_train: true
+test_initialization: false
+average_loss: 10
+iter_size: 1
+type: "SGD"
+eval_type: "detection"
+ap_version: "11point"
+

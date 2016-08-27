@@ -735,9 +735,14 @@ with fast exact probabilistic inference over many layers."
 
 - arxiv: [http://arxiv.org/abs/1608.06049](http://arxiv.org/abs/1608.06049)
 
+## DenseNet
+
 **Densely Connected Convolutional Networks**
 
+![](https://cloud.githubusercontent.com/assets/8370623/17981496/fa648b32-6ad1-11e6-9625-02fdd72fdcd3.jpg)
+
 - arxiv: [http://arxiv.org/abs/1608.06993](http://arxiv.org/abs/1608.06993)
+- github: [https://github.com/liuzhuang13/DenseNet](https://github.com/liuzhuang13/DenseNet)
 
 ## Highway Networks
 
@@ -1899,6 +1904,10 @@ Compatible with Theano and TensorFlow. Optimized for Twitter.
 
 - intro: "I am trying a new initiative - a-paper-a-week. This repository will hold all those papers and related summaries and notes."
 - github: [https://github.com/shagunsodhani/papers-I-read](https://github.com/shagunsodhani/papers-I-read)
+
+**LEARNING DEEP LEARNING - MY TOP-FIVE LIST**
+
+- blog: [http://thegrandjanitor.com/2016/08/15/learning-deep-learning-my-top-five-resource/](http://thegrandjanitor.com/2016/08/15/learning-deep-learning-my-top-five-resource/)
 
 # Tools
 
