@@ -74,9 +74,9 @@ date: 2015-10-09
 **Recurrent Instance Segmentation**
 
 ![](http://romera-paredes.com/wp-content/uploads/2015/12/RIS.png)
-	
-- arxiv: [http://arxiv.org/abs/1511.08250](http://arxiv.org/abs/1511.08250)
+
 - homepage: [http://romera-paredes.com/recurrent-instance-segmentation](http://romera-paredes.com/recurrent-instance-segmentation)
+- arxiv: [http://arxiv.org/abs/1511.08250](http://arxiv.org/abs/1511.08250)
 
 **Instance-aware Semantic Segmentation via Multi-task Network Cascades**
 
@@ -87,6 +87,15 @@ date: 2015-10-09
 - keywords: RoI warping
 - arxiv: [http://arxiv.org/abs/1512.04412](http://arxiv.org/abs/1512.04412)
 - github: [https://github.com/daijifeng001/MNC](https://github.com/daijifeng001/MNC)
+
+## DeepMask
+
+**Learning to Segment Object Candidates**
+
+- intro: Facebook AI Research (FAIR). learning segmentation proposals
+- arxiv: [http://arxiv.org/abs/1506.06204](http://arxiv.org/abs/1506.06204)
+- github: [https://github.com/abbypa/NNProject_DeepMask](https://github.com/abbypa/NNProject_DeepMask)
+- github: [https://github.com/facebookresearch/deepmask](https://github.com/facebookresearch/deepmask)
 
 ## SharpMask
 
@@ -144,13 +153,7 @@ only the CNN part of the network is fine-tuned to learn deconvolution indirectly
 
 **Semantic Image Segmentation with Deep Convolutional Nets and Fully Connected CRFs (DeepLab)**
 
-- intro: "adopted a more simplistic approach for maintaining resolution by removing
-the stride in the layers of FullConvNet, wherever possible. 
-Following this, the FullConvNet predicted output is modeled as 
-a unary term for Conditional Random Field (CRF) constructed over 
-the image grid at its original resolution. 
-With labelling smoothness constraint enforced through pair-wise terms, 
-the per-pixel classification task is modeled as a CRF inference problem."
+- intro: ICLR 2015
 - arxiv: [http://arxiv.org/abs/1412.7062](http://arxiv.org/abs/1412.7062)
 - github: [https://bitbucket.org/deeplab/deeplab-public/](https://bitbucket.org/deeplab/deeplab-public/)
 
@@ -159,20 +162,27 @@ the per-pixel classification task is modeled as a CRF inference problem."
 - arxiv: [http://arxiv.org/abs/1502.02734](http://arxiv.org/abs/1502.02734)
 - bitbucket: [https://bitbucket.org/deeplab/deeplab-public/](https://bitbucket.org/deeplab/deeplab-public/)
 
+## DeepLab v2
+
+**DeepLab: Semantic Image Segmentation with Deep Convolutional Nets, Atrous Convolution, and Fully Connected CRFs**
+
+![](http://liangchiehchen.com/fig/deeplab_intro.jpg)
+
+- intro: 79.7% mIOU in the test set, PASCAL VOC-2012 semantic image segmentation task
+- intro: Updated version of our previous ICLR 2015 paper
+- project page: [http://liangchiehchen.com/projects/DeepLab.html](http://liangchiehchen.com/projects/DeepLab.html)
+- arxiv: [https://arxiv.org/abs/1606.00915](https://arxiv.org/abs/1606.00915)
+- bitbucket: [https://bitbucket.org/aquariusjay/deeplab-public-ver2](https://bitbucket.org/aquariusjay/deeplab-public-ver2)
+
+## CRF-RNN
+
 **Conditional Random Fields as Recurrent Neural Networks**
 
 ![](http://www.robots.ox.ac.uk/~szheng/Res_CRFRNN/CRFasRNN.jpg)
 
 - intro: ICCV2015. Oxford / Stanford / Baidu
-- intro: "proposed a better approach where the CRF
-constructed on image is modeled as a Recurrent Neural Network (RNN). 
-By modeling the CRF as an RNN, it can be integrated as a part of any Deep Convolutinal Net 
-making the system efficient at both semantic feature extraction
-and fine-grained structure prediction. 
-This enables the end-to-end training of the entire FullConvNet + RNN system
-using the stochastic gradient descent (SGD) algorithm to obtain fine pixel-level segmentation."
+- project page: [http://www.robots.ox.ac.uk/~szheng/CRFasRNN.html](http://www.robots.ox.ac.uk/~szheng/CRFasRNN.html)
 - arxiv: [http://arxiv.org/abs/1502.03240](http://arxiv.org/abs/1502.03240)
-- homepage: [http://www.robots.ox.ac.uk/~szheng/CRFasRNN.html](http://www.robots.ox.ac.uk/~szheng/CRFasRNN.html)
 - github: [https://github.com/torrvision/crfasrnn](https://github.com/torrvision/crfasrnn)
 - demo: [http://www.robots.ox.ac.uk/~szheng/crfasrnndemo](http://www.robots.ox.ac.uk/~szheng/crfasrnndemo)
 - github: [https://github.com/martinkersner/train-CRF-RNN](https://github.com/martinkersner/train-CRF-RNN)
@@ -326,12 +336,6 @@ fine-tune the trained network with more challenging examples later
 
 **Learning hierarchical features for scene labeling**
 
-- intro: "Their approach comprised of densely computing multi-scale CNN features
-for each pixel and aggregating them over image regions upon which they are classified.
-However, their methodstill required the post-processing step of generating over-segmented regions, 
-like superpixels, for obtaining the final segmentation result. 
-Additionally, the CNNs used for multi-scale feature learning were 
-not very deep with only three convolution layers."
 - paper: [http://yann.lecun.com/exdb/publis/pdf/farabet-pami-13.pdf](http://yann.lecun.com/exdb/publis/pdf/farabet-pami-13.pdf)
 
 **Multi-modal unsupervised feature learning for rgb-d scene labeling**
