@@ -94,6 +94,51 @@ slides: [http://host.robots.ox.ac.uk/pascal/VOC/voc2012/workshop/Towards_VOC2012
 - blog: [http://www.codepool.biz/webcam-barcode-detection-opencv-cplusplus.html](http://www.codepool.biz/webcam-barcode-detection-opencv-cplusplus.html)
 - github: [https://github.com/dynamsoftlabs/cplusplus-webcam-barcode-reader](https://github.com/dynamsoftlabs/cplusplus-webcam-barcode-reader)
 
+## Face Detection
+
+**Build a Face Detection App Using Node.js and OpenCV**
+
+[http://www.sitepoint.com/face-detection-nodejs-opencv/](http://www.sitepoint.com/face-detection-nodejs-opencv/)
+
+**FaceTracker: Real time deformable face tracking in C++ with OpenCV 2**
+
+- github: [https://github.com/kylemcdonald/FaceTracker](https://github.com/kylemcdonald/FaceTracker)
+
+**A Fast and Accurate Unconstrained Face Detector**
+
+![](https://github.com/CitrusRokid/OpenNPD)
+
+- homepage: [http://www.cbsr.ia.ac.cn/users/scliao/projects/npdface/index.html](http://www.cbsr.ia.ac.cn/users/scliao/projects/npdface/index.html)
+- github: [https://github.com/CitrusRokid/OpenNPD](https://github.com/CitrusRokid/OpenNPD)
+
+**libfacedetection: A binary library for face detection in images. You can use it free of charge with any purpose**
+
+- github: [https://github.com/ShiqiYu/libfacedetection](https://github.com/ShiqiYu/libfacedetection)
+
+**jQuery Face Detection Plugin: A jQuery plugin to detect faces on images, videos and canvases**
+
+- website: [http://facedetection.jaysalvat.com/](http://facedetection.jaysalvat.com/)
+- github: [https://github.com/jaysalvat/jquery.facedetection](https://github.com/jaysalvat/jquery.facedetection)
+
+**Spoofing 2D Face Detection: Machines See People Who Aren't There**
+
+- arxiv: [http://arxiv.org/abs/1608.02128](http://arxiv.org/abs/1608.02128)
+
+**Fall-Detection: Human Fall Detection from CCTV camera feed**
+
+![](https://camo.githubusercontent.com/472295e9f092c3a7224b90fe09bfe91c25a102c6/68747470733a2f2f73342e706f7374696d672e6f72672f3439743472656c6f642f67697068792e676966)
+
+- github: [https://github.com/harishrithish7/Fall-Detection](https://github.com/harishrithish7/Fall-Detection)
+
+## Edge detection
+
+**Image-feature-detection-using-Phase-Stretch-Transform**
+
+![](https://upload.wikimedia.org/wikipedia/commons/4/45/PST_edge_detection_on_barbara_image.tif)
+
+- github: [https://github.com/JalaliLabUCLA/Image-feature-detection-using-Phase-Stretch-Transform](https://github.com/JalaliLabUCLA/Image-feature-detection-using-Phase-Stretch-Transform)
+- wikipedia: [https://en.wikipedia.org/wiki/Phase_stretch_transform](https://en.wikipedia.org/wiki/Phase_stretch_transform)
+
 ## Object Proposals
 
 **What makes for effective detection proposals?(PAMI 2015)**
