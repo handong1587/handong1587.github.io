@@ -266,6 +266,7 @@ fine-tune the trained network with more challenging examples later
 
 ![](http://vladlen.info/wp-content/uploads/2016/02/dilated-convolutions1-894x263.png)
 
+- intro: ICLR 2016. Dilated Convolution for Semantic Image Segmentation
 - homepage: [http://vladlen.info/publications/multi-scale-context-aggregation-by-dilated-convolutions/](http://vladlen.info/publications/multi-scale-context-aggregation-by-dilated-convolutions/)
 - arxiv: [http://arxiv.org/abs/1511.07122](http://arxiv.org/abs/1511.07122)
 - github: [https://github.com/fyu/dilation](https://github.com/fyu/dilation)
@@ -357,6 +358,35 @@ fine-tune the trained network with more challenging examples later
 - intro: 2016 Embedded Vision Summit
 - youtube: [https://www.youtube.com/watch?v=pQ318oCGJGY](https://www.youtube.com/watch?v=pQ318oCGJGY)
 
+**Semantic Understanding of Scenes through the ADE20K Dataset**
+
+- arxiv: [https://arxiv.org/abs/1608.05442](https://arxiv.org/abs/1608.05442)
+
+## Benchmarks
+
+**Semantic Understanding of Urban Street Scenes: Benchmark Suite**
+
+[https://www.cityscapes-dataset.com/benchmarks/](https://www.cityscapes-dataset.com/benchmarks/)
+
+## Challenges
+
+**Large-scale Scene Understanding Challenge**
+
+![](http://lsun.cs.princeton.edu/img/overview_4crop.jpg)
+
+- homepage: [http://lsun.cs.princeton.edu/](http://lsun.cs.princeton.edu/)
+
+**Places2 Challenge**
+
+[http://places2.csail.mit.edu/challenge.html](http://places2.csail.mit.edu/challenge.html)
+
+## Datasets
+
+**ADE20K**
+
+- intro: train: 20,120 images, val: 2000 images
+- homepage: [http://groups.csail.mit.edu/vision/datasets/ADE20K/](http://groups.csail.mit.edu/vision/datasets/ADE20K/)
+
 # Segmentation From Video
 
 **Fast object segmentation in unconstrained video**
@@ -378,19 +408,11 @@ fine-tune the trained network with more challenging examples later
 
 - arxiv: [http://arxiv.org/abs/1608.05971](http://arxiv.org/abs/1608.05971)
 
-## Benchmarks
+# Leaderboard
 
-**Semantic Understanding of Urban Street Scenes: Benchmark Suite**
+**Segmentation Results: VOC2012 BETA: Competition "comp6" (train on own data)**
 
-[https://www.cityscapes-dataset.com/benchmarks/](https://www.cityscapes-dataset.com/benchmarks/)
-
-## Challenges
-
-**Large-scale Scene Understanding Challenge**
-
-![](http://lsun.cs.princeton.edu/img/overview_4crop.jpg)
-
-- homepage: [http://lsun.cs.princeton.edu/](http://lsun.cs.princeton.edu/)
+[http://host.robots.ox.ac.uk:8080/leaderboard/displaylb.php?cls=mean&challengeid=11&compid=6](http://host.robots.ox.ac.uk:8080/leaderboard/displaylb.php?cls=mean&challengeid=11&compid=6)
 
 # Blogs
 

@@ -35,6 +35,12 @@ date: 2015-10-01
 - github: [https://github.com/DEAP/deap](https://github.com/DEAP/deap)
 - docs: [http://deap.readthedocs.io/en/master/](http://deap.readthedocs.io/en/master/)
 
+**Mezzano, an operating system written in Common Lisp**
+
+![](https://camo.githubusercontent.com/1653851081ed45686c80978b12d76c1dff5feae4/68747470733a2f2f646c2e64726f70626f7875736572636f6e74656e742e636f6d2f752f34363735333031382f53637265656e73686f7425323066726f6d253230323031362d30332d31322532303134253341333625334135352e706e67)
+
+- github: [https://github.com/froggey/Mezzano](https://github.com/froggey/Mezzano)
+
 # Blogs
 
 **Design Of A Modern Cache**
