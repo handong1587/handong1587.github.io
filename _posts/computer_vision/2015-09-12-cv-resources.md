@@ -79,7 +79,14 @@ date: 2015-09-12
 
 - arxiv: [http://arxiv.org/abs/1601.03117](http://arxiv.org/abs/1601.03117)
 
-# Deblur
+# Image Blur / Deblur
+
+**Motion Blurred Images Generation**
+
+- homepage: [http://home.deib.polimi.it/boracchi/Projects/PSFGeneration.html](http://home.deib.polimi.it/boracchi/Projects/PSFGeneration.html)
+- code(Matlab): [http://home.deib.polimi.it/boracchi/Projects/PSF_generation/PSF_generation.zip](http://home.deib.polimi.it/boracchi/Projects/PSF_generation/PSF_generation.zip)
+
+**Blind Image Deblurring Using Dark Channel Prior**
 
 **Good Regions to Deblur**
 
@@ -140,16 +147,6 @@ date: 2015-09-12
 - paper: [http://arxiv.org/abs/1503.01820](http://arxiv.org/abs/1503.01820)
 - github: [https://github.com/louxi11/activity_recognition](https://github.com/louxi11/activity_recognition)
 - author page: [https://staff.fnwi.uva.nl/n.hu/](https://staff.fnwi.uva.nl/n.hu/)
-
-# License Plate Recognition
-
-- website: [http://www.openalpr.com/](http://www.openalpr.com/)
-- github: [https://github.com/openalpr/openalpr](https://github.com/openalpr/openalpr)
-- tech reciew: [http://arstechnica.com/business/2015/12/new-open-source-license-plate-reader-software-lets-you-make-your-own-hot-list/](http://arstechnica.com/business/2015/12/new-open-source-license-plate-reader-software-lets-you-make-your-own-hot-list/)
-
-**Reading Car License Plates Using Deep Convolutional Neural Networks and LSTMs**
-
-- arxiv: [http://arxiv.org/abs/1601.05610](http://arxiv.org/abs/1601.05610)
 
 # Image Retrieval
 
@@ -273,17 +270,65 @@ date: 2015-09-12
 
 - arxiv: [http://arxiv.org/abs/1601.07661](http://arxiv.org/abs/1601.07661)
 
-# Graph Cut
+# Image Blending
 
-# GrabCut
+**Image Blending**
 
-**“GrabCut” — Interactive Foreground Extraction using Iterated Graph Cuts**
+- course-info: 15-463: Computational Photography. Alexei Efros, CMU, Spring 2010
+- lecture: [http://graphics.cs.cmu.edu/courses/15-463/2010_spring/Lectures/blending.pdf](http://graphics.cs.cmu.edu/courses/15-463/2010_spring/Lectures/blending.pdf)
 
-- paper: [http://cvg.ethz.ch/teaching/cvl/2012/grabcut-siggraph04.pdf](http://cvg.ethz.ch/teaching/cvl/2012/grabcut-siggraph04.pdf)
+**CS 195-G: Image Blending**
 
-**OpenCV 3.1: Interactive Foreground Extraction using GrabCut Algorithm**
+- homepage: [https://cs.brown.edu/courses/csci1950-g/results/proj2/edwallac/](https://cs.brown.edu/courses/csci1950-g/results/proj2/edwallac/)
 
-[http://docs.opencv.org/master/d8/d83/tutorial_py_grabcut.html#gsc.tab=0](http://docs.opencv.org/master/d8/d83/tutorial_py_grabcut.html#gsc.tab=0)
+**Panoramic Image Mosaic**
+
+- homepage: [http://pages.cs.wisc.edu/~csverma/CS766_09/ImageMosaic/imagemosaic.html](http://pages.cs.wisc.edu/~csverma/CS766_09/ImageMosaic/imagemosaic.html)
+
+## Linear Blending
+
+**Adding (blending) two images using OpenCV**
+
+[http://docs.opencv.org/master/d5/dc4/tutorial_adding_images.html#gsc.tab=0](http://docs.opencv.org/master/d5/dc4/tutorial_adding_images.html#gsc.tab=0)
+
+## Poisson Blending
+
+**Poisson Image Editing (SIGGRAPH 2003)**
+
+- paper: [http://cs.brown.edu/courses/csci1290/asgn/proj2/resources/PoissonImageEditing.pdf](http://cs.brown.edu/courses/csci1290/asgn/proj2/resources/PoissonImageEditing.pdf)
+- paper: [https://www.cs.jhu.edu/~misha/Fall07/Papers/Perez03.pdf](https://www.cs.jhu.edu/~misha/Fall07/Papers/Perez03.pdf)
+- slides: [https://graphics.ethz.ch/teaching/former/seminar/handouts/Weyrich_PoissonImageEditing.pdf](https://graphics.ethz.ch/teaching/former/seminar/handouts/Weyrich_PoissonImageEditing.pdf)
+- code(Matlab+C#): [https://code.google.com/p/imageblending/](https://code.google.com/p/imageblending/)
+- github: [https://github.com/fbessho/PyPoi](https://github.com/fbessho/PyPoi)
+- github(C++): [https://github.com/cheind/poisson-image-editing](https://github.com/cheind/poisson-image-editing)
+
+**Poisson Blending**
+
+- blog: [http://eric-yuan.me/poisson-blending/](http://eric-yuan.me/poisson-blending/)
+
+**Poisson Blending II**
+
+- blog: [http://eric-yuan.me/poisson-blending-2/](http://eric-yuan.me/poisson-blending-2/)
+- code: [http://codepad.org/ANqtikKR](http://codepad.org/ANqtikKR)
+
+**Solving the Discrete Poisson Equation using Jacobi, SOR, Conjugate Gradients, and the FFT**
+
+- intro: CS267: Lectures 15 and 16, Mar 5 and 7 1996
+- lecture: [http://www.cs.berkeley.edu/~demmel/cs267/lecture24/lecture24.html](http://www.cs.berkeley.edu/~demmel/cs267/lecture24/lecture24.html)
+
+**Gradient Domain Fusion Using Poisson Blending**
+
+![](http://120.52.72.72/cs.brown.edu/c3pr90ntcsf0/courses/cs129/results/proj2/taox/images/result_09.jpg)
+
+[http://cs.brown.edu/courses/cs129/results/proj2/taox/](http://cs.brown.edu/courses/cs129/results/proj2/taox/)
+
+## Multiband Blending
+
+## Feather Blending
+
+## Alpha Blending
+
+## Laplacian Blending
 
 # Image Stitching
 
@@ -535,7 +580,6 @@ The size of their dataset is, however, limited by the availability of domain-spe
 **Title Generation for User Generated Videos**
 
 - intro: ECCV 2016
-- intro: video captioning, video highlight detection, sentence augmentation
 - arxiv: [http://arxiv.org/abs/1608.07068](http://arxiv.org/abs/1608.07068)
 
 # Face Detection

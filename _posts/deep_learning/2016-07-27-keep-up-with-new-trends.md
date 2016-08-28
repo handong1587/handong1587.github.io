@@ -123,6 +123,10 @@ date: 2016-07-27
 
 [http://pamitc.org/iccv15/tutorials.php](http://pamitc.org/iccv15/tutorials.php)
 
+**ICCV 2015 Tutorial on Tools for Efficient Object Detection**
+
+[http://mp7.watson.ibm.com/ICCV2015/ObjectDetectionICCV2015.html](http://mp7.watson.ibm.com/ICCV2015/ObjectDetectionICCV2015.html)
+
 **ImageNet and MS COCO Visual Recognition Challenges Joint Workshop**
 
 [http://image-net.org/challenges/ilsvrc+mscoco2015](http://image-net.org/challenges/ilsvrc+mscoco2015)
