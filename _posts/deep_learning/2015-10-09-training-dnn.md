@@ -90,6 +90,10 @@ date: 2015-10-09
 
 - arxiv: [https://arxiv.org/abs/1606.08415](https://arxiv.org/abs/1606.08415)
 
+**Formulating The ReLU**
+
+- blog: [http://www.jefkine.com/general/2016/08/24/formulating-the-relu/](http://www.jefkine.com/general/2016/08/24/formulating-the-relu/)
+
 ## Series on Initialization of Weights for DNN
 
 **Initialization Of Feedfoward Networks**

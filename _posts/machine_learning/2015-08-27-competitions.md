@@ -90,3 +90,9 @@ date: 2015-08-27
 
 - blog: [https://ttvand.github.io/Winning-approach-of-the-Facebook-V-Kaggle-competition/](https://ttvand.github.io/Winning-approach-of-the-Facebook-V-Kaggle-competition/)
 - github: [https://github.com/ttvand/Facebook-V](https://github.com/ttvand/Facebook-V)
+
+**Entity Embeddings of Categorical Variables**
+
+- intro: 3rd place solution in Kaggle competition
+- arxiv: [http://arxiv.org/abs/1604.06737](http://arxiv.org/abs/1604.06737)
+- github: [https://github.com/entron/entity-embedding-rossmann](https://github.com/entron/entity-embedding-rossmann)

@@ -431,6 +431,10 @@ date: 2015-10-09
 
 - github: [https://github.com/hunkim/word-rnn-tensorflow](https://github.com/hunkim/word-rnn-tensorflow)
 
+**tf-char-rnn: Tensorflow implementation of char-rnn**
+
+- github: [https://github.com/shagunsodhani/tf-char-rnn](https://github.com/shagunsodhani/tf-char-rnn)
+
 # Blogs
 
 **Survey on Attention-based Models Applied in NLP**

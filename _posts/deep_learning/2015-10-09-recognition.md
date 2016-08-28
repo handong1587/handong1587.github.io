@@ -169,6 +169,10 @@ date: 2015-10-09
 - intro: ECCV 2016
 - paper: [http://ydwen.github.io/papers/WenECCV16.pdf](http://ydwen.github.io/papers/WenECCV16.pdf)
 
+**How Image Degradations Affect Deep CNN-based Face Recognition?**
+
+- arxiv: [http://arxiv.org/abs/1608.05246](http://arxiv.org/abs/1608.05246)
+
 #### Datasets / Benchmarks
 
 **The MegaFace Benchmark: 1 Million Faces for Recognition at Scale**

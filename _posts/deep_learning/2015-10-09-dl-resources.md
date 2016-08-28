@@ -1235,6 +1235,10 @@ Bicubic VS. Shepard CNN
 - project page: [http://mmlab.ie.cuhk.edu.hk/projects/FSRCNN.html](http://mmlab.ie.cuhk.edu.hk/projects/FSRCNN.html)
 - arxiv: [http://arxiv.org/abs/1608.00367](http://arxiv.org/abs/1608.00367)
 
+**srez: Image super-resolution through deep learning**
+
+- github: [https://github.com/david-gpu/srez](https://github.com/david-gpu/srez)
+
 ## Image Denoising
 
 **Beyond a Gaussian Denoiser: Residual Learning of Deep CNN for Image Denoising**
@@ -1307,6 +1311,14 @@ Bicubic VS. Shepard CNN
 
 - arxiv: [http://arxiv.org/abs/1604.04382](http://arxiv.org/abs/1604.04382)
 - github(Torch): [https://github.com/chuanli11/MGANs](https://github.com/chuanli11/MGANs)
+
+**Generative Adversarial Text to Image Synthesis**
+
+![](https://camo.githubusercontent.com/1925e23b5b6e19efa60f45daa3787f1f4a098ef3/687474703a2f2f692e696d6775722e636f6d2f644e6c32486b5a2e6a7067)
+
+- intro: ICML 2016
+- arxiv: [http://arxiv.org/abs/1605.05396](http://arxiv.org/abs/1605.05396)
+- github(Tensorflow): [https://github.com/paarthneekhara/text-to-image](https://github.com/paarthneekhara/text-to-image)
 
 ## Image Tagging
 

@@ -387,6 +387,13 @@ The project is dedicated to hero in life great Jesse Livermore.
 - intro: Reinforcement learning framework integrated with deeplearning4j.
 - github: [https://github.com/deeplearning4j/rl4j](https://github.com/deeplearning4j/rl4j)
 
+# Library
+
+**BURLAP: Brown-UMBC Reinforcement Learning and Planning (BURLAP) java code library**
+
+- intro: for the use and development of single or multi-agent planning and learning algorithms and domains to accompany them
+- homepage: [http://burlap.cs.brown.edu/](http://burlap.cs.brown.edu/)
+
 # Blogs
 
 **A Short Introduction To Some Reinforcement Learning Algorithms**

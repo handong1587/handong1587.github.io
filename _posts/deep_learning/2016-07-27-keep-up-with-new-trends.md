@@ -22,6 +22,8 @@ date: 2016-07-27
 
 # ICML 2016
 
+**10 Papers from ICML and CVPR**
+
 [https://leotam.github.io/general/2016/07/12/ICMLcVPR.html](https://leotam.github.io/general/2016/07/12/ICMLcVPR.html)
 
 **ICML 2016 was awesome**
@@ -42,6 +44,11 @@ date: 2016-07-27
 - homepage: [https://portal.klewel.com/watch/webcast/deep-learning-tools-and-methods-workshop/](https://portal.klewel.com/watch/webcast/deep-learning-tools-and-methods-workshop/)
 - slides: [http://www.idiap.ch/workshop/dltm/](http://www.idiap.ch/workshop/dltm/)
 - Torch tutorials: [https://github.com/szagoruyko/idiap-tutorials](https://github.com/szagoruyko/idiap-tutorials)
+
+**ICML 2016 Conference and Workshops**
+
+- intro: talks, orals, tutorials
+- homepage: [http://techtalks.tv/icml/2016/](http://techtalks.tv/icml/2016/)
 
 # ICLR 2016
 
