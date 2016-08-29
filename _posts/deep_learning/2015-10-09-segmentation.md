@@ -41,90 +41,6 @@ date: 2015-10-09
 
 - arxiv: [http://arxiv.org/abs/1603.07063](http://arxiv.org/abs/1603.07063)
 
-# Instance Segmentation
-
-**Simultaneous Detection and Segmentation**
-
-- intro: ECCV 2014
-- author: Bharath Hariharan, Pablo Arbelaez, Ross Girshick, Jitendra Malik
-- arxiv: [http://arxiv.org/abs/1407.1808](http://arxiv.org/abs/1407.1808)
-- github(Matlab): [https://github.com/bharath272/sds_eccv2014](https://github.com/bharath272/sds_eccv2014)
-
-**Convolutional Feature Masking for Joint Object and Stuff Segmentation**
-
-- intro: CVPR 2015
-- arxiv: [https://arxiv.org/abs/1412.1283](https://arxiv.org/abs/1412.1283)
-
-**Proposal-free Network for Instance-level Object Segmentation**
-
-- paper: [http://arxiv.org/abs/1509.02636](http://arxiv.org/abs/1509.02636)
-
-**Hypercolumns for object segmentation and fine-grained localization**
-
-- intro: CVPR 2015
-- paper: [http://www.cs.berkeley.edu/~bharath2/pubs/pdfs/BharathCVPR2015.pdf](http://www.cs.berkeley.edu/~bharath2/pubs/pdfs/BharathCVPR2015.pdf)
-- github("SDS using hypercolumns"): [https://github.com/bharath272/sds](https://github.com/bharath272/sds)
-
-**Learning to decompose for object detection and instance segmentation**
-
-- intro: ICLR 2016 Workshop
-- keyword: CNN / RNN, MNIST, KITTI
-- arxiv: [http://arxiv.org/abs/1511.06449](http://arxiv.org/abs/1511.06449)
-
-**Recurrent Instance Segmentation**
-
-![](http://romera-paredes.com/wp-content/uploads/2015/12/RIS.png)
-
-- homepage: [http://romera-paredes.com/recurrent-instance-segmentation](http://romera-paredes.com/recurrent-instance-segmentation)
-- arxiv: [http://arxiv.org/abs/1511.08250](http://arxiv.org/abs/1511.08250)
-
-**Instance-aware Semantic Segmentation via Multi-task Network Cascades**
-
-![](https://raw.githubusercontent.com/daijifeng001/MNC/master/data/readme_img/example.png)
-
-- intro: "1st-place winner of MS COCO 2015 segmentation competition"
-- intro: CVPR 2016 oral
-- keywords: RoI warping
-- arxiv: [http://arxiv.org/abs/1512.04412](http://arxiv.org/abs/1512.04412)
-- github: [https://github.com/daijifeng001/MNC](https://github.com/daijifeng001/MNC)
-
-## DeepMask
-
-**Learning to Segment Object Candidates**
-
-- intro: Facebook AI Research (FAIR). learning segmentation proposals
-- arxiv: [http://arxiv.org/abs/1506.06204](http://arxiv.org/abs/1506.06204)
-- github: [https://github.com/abbypa/NNProject_DeepMask](https://github.com/abbypa/NNProject_DeepMask)
-- github: [https://github.com/facebookresearch/deepmask](https://github.com/facebookresearch/deepmask)
-
-## SharpMask
-
-**Learning to Refine Object Segments**
-
-- intro: Facebook AI Research (FAIR)
-- intro: an extension of DeepMask which generates higher-fidelity masks using an additional top-down refinement step.
-- arxiv: [http://arxiv.org/abs/1603.08695](http://arxiv.org/abs/1603.08695)
-- github: [https://github.com/facebookresearch/deepmask](https://github.com/facebookresearch/deepmask)
-
-**Amodal Instance Segmentation**
-
-- intro: ECCV 2016
-- arxiv: [http://arxiv.org/abs/1604.08202](http://arxiv.org/abs/1604.08202)
-
-**Bridging Category-level and Instance-level Semantic Image Segmentation**
-
-- arxiv: [http://arxiv.org/abs/1605.06885](http://arxiv.org/abs/1605.06885)
-
-## DeepCut
-
-**DeepCut: Object Segmentation from Bounding Box Annotations using Convolutional Neural Networks**
-
-- arxiv: [http://arxiv.org/abs/1605.07866](http://arxiv.org/abs/1605.07866)
-
-**End-to-End Instance Segmentation and Counting with Recurrent Attention**
-
-- arxiv: [http://arxiv.org/abs/1605.09410](http://arxiv.org/abs/1605.09410)
-
 # Semantic Segmentation
 
 **Fully Convolutional Networks for Semantic Segmentation**
@@ -323,6 +239,90 @@ fine-tune the trained network with more challenging examples later
 
 - intro: ECCV 2016
 - arxiv: [http://arxiv.org/abs/1607.07671](http://arxiv.org/abs/1607.07671)
+
+# Instance Segmentation
+
+**Simultaneous Detection and Segmentation**
+
+- intro: ECCV 2014
+- author: Bharath Hariharan, Pablo Arbelaez, Ross Girshick, Jitendra Malik
+- arxiv: [http://arxiv.org/abs/1407.1808](http://arxiv.org/abs/1407.1808)
+- github(Matlab): [https://github.com/bharath272/sds_eccv2014](https://github.com/bharath272/sds_eccv2014)
+
+**Convolutional Feature Masking for Joint Object and Stuff Segmentation**
+
+- intro: CVPR 2015
+- arxiv: [https://arxiv.org/abs/1412.1283](https://arxiv.org/abs/1412.1283)
+
+**Proposal-free Network for Instance-level Object Segmentation**
+
+- paper: [http://arxiv.org/abs/1509.02636](http://arxiv.org/abs/1509.02636)
+
+**Hypercolumns for object segmentation and fine-grained localization**
+
+- intro: CVPR 2015
+- paper: [http://www.cs.berkeley.edu/~bharath2/pubs/pdfs/BharathCVPR2015.pdf](http://www.cs.berkeley.edu/~bharath2/pubs/pdfs/BharathCVPR2015.pdf)
+- github("SDS using hypercolumns"): [https://github.com/bharath272/sds](https://github.com/bharath272/sds)
+
+**Learning to decompose for object detection and instance segmentation**
+
+- intro: ICLR 2016 Workshop
+- keyword: CNN / RNN, MNIST, KITTI
+- arxiv: [http://arxiv.org/abs/1511.06449](http://arxiv.org/abs/1511.06449)
+
+**Recurrent Instance Segmentation**
+
+![](http://romera-paredes.com/wp-content/uploads/2015/12/RIS.png)
+
+- homepage: [http://romera-paredes.com/recurrent-instance-segmentation](http://romera-paredes.com/recurrent-instance-segmentation)
+- arxiv: [http://arxiv.org/abs/1511.08250](http://arxiv.org/abs/1511.08250)
+
+**Instance-aware Semantic Segmentation via Multi-task Network Cascades**
+
+![](https://raw.githubusercontent.com/daijifeng001/MNC/master/data/readme_img/example.png)
+
+- intro: "1st-place winner of MS COCO 2015 segmentation competition"
+- intro: CVPR 2016 oral
+- keywords: RoI warping
+- arxiv: [http://arxiv.org/abs/1512.04412](http://arxiv.org/abs/1512.04412)
+- github: [https://github.com/daijifeng001/MNC](https://github.com/daijifeng001/MNC)
+
+## DeepMask
+
+**Learning to Segment Object Candidates**
+
+- intro: Facebook AI Research (FAIR). learning segmentation proposals
+- arxiv: [http://arxiv.org/abs/1506.06204](http://arxiv.org/abs/1506.06204)
+- github: [https://github.com/abbypa/NNProject_DeepMask](https://github.com/abbypa/NNProject_DeepMask)
+- github: [https://github.com/facebookresearch/deepmask](https://github.com/facebookresearch/deepmask)
+
+## SharpMask
+
+**Learning to Refine Object Segments**
+
+- intro: Facebook AI Research (FAIR)
+- intro: an extension of DeepMask which generates higher-fidelity masks using an additional top-down refinement step.
+- arxiv: [http://arxiv.org/abs/1603.08695](http://arxiv.org/abs/1603.08695)
+- github: [https://github.com/facebookresearch/deepmask](https://github.com/facebookresearch/deepmask)
+
+**Amodal Instance Segmentation**
+
+- intro: ECCV 2016
+- arxiv: [http://arxiv.org/abs/1604.08202](http://arxiv.org/abs/1604.08202)
+
+**Bridging Category-level and Instance-level Semantic Image Segmentation**
+
+- arxiv: [http://arxiv.org/abs/1605.06885](http://arxiv.org/abs/1605.06885)
+
+## DeepCut
+
+**DeepCut: Object Segmentation from Bounding Box Annotations using Convolutional Neural Networks**
+
+- arxiv: [http://arxiv.org/abs/1605.07866](http://arxiv.org/abs/1605.07866)
+
+**End-to-End Instance Segmentation and Counting with Recurrent Attention**
+
+- arxiv: [http://arxiv.org/abs/1605.09410](http://arxiv.org/abs/1605.09410)
 
 # Scene Labeling/Parsing
 

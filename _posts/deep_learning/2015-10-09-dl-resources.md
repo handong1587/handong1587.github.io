@@ -70,6 +70,10 @@ not just the convolutions)
 - github(Torch): [https://github.com/Moodstocks/inception-v3.torch](https://github.com/Moodstocks/inception-v3.torch)
 - github(TensorFlow): [https://github.com/tensorflow/models/tree/master/inception#how-to-train-from-scratch-in-a-distributed-setting](https://github.com/tensorflow/models/tree/master/inception#how-to-train-from-scratch-in-a-distributed-setting)
 
+**Notes on the TensorFlow Implementation of Inception v3**
+
+[https://pseudoprofound.wordpress.com/2016/08/28/notes-on-the-tensorflow-implementation-of-inception-v3/](https://pseudoprofound.wordpress.com/2016/08/28/notes-on-the-tensorflow-implementation-of-inception-v3/)
+
 ## ResNet
 
 ![](/assets/dl_resources/ResNet_CVPR2016_BestPaperAward.jpg)

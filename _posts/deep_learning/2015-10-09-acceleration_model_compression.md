@@ -222,6 +222,11 @@ to decompose it into the multiplications of thinned dense matrices"
 - intro: compress the number of parameters in LeNet-5 and AlexNet by a factor of 108× and 17.7× respectively
 - arxiv: [http://arxiv.org/abs/1608.04493](http://arxiv.org/abs/1608.04493)
 
+**Scalable Compression of Deep Neural Networks**
+
+- intro: ACM Multimedia 2016
+- arxiv: [http://arxiv.org/abs/1608.07365](http://arxiv.org/abs/1608.07365)
+
 # Projects
 
 **Accelerate Convolutional Neural Networks**

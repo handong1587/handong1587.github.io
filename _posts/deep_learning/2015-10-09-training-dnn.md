@@ -122,12 +122,15 @@ date: 2015-10-09
 
 - arxiv: [http://arxiv.org/abs/1504.08291](http://arxiv.org/abs/1504.08291)
 
-**All you need is a good init (ICLR 2016)**
+**All you need is a good init**
 
+- intro: ICLR 2016
+- intro: Layer-sequential unit-variance (LSUV) initialization
 - arxiv: [http://arxiv.org/abs/1511.06422](http://arxiv.org/abs/1511.06422)
-- github: [https://github.com/ducha-aiki/LSUVinit](https://github.com/ducha-aiki/LSUVinit)
+- github(Caffe): [https://github.com/ducha-aiki/LSUVinit](https://github.com/ducha-aiki/LSUVinit)
 - github(Torch): [https://github.com/yobibyte/torch-lsuv](https://github.com/yobibyte/torch-lsuv)
 - github: [https://github.com/yobibyte/yobiblog/blob/master/posts/all-you-need-is-a-good-init.md](https://github.com/yobibyte/yobiblog/blob/master/posts/all-you-need-is-a-good-init.md)
+- github(Keras): [https://github.com/ducha-aiki/LSUV-keras](https://github.com/ducha-aiki/LSUV-keras)
 - review: [http://www.erogol.com/need-good-init/](http://www.erogol.com/need-good-init/)
 
 **Data-dependent Initializations of Convolutional Neural Networks**
@@ -397,6 +400,18 @@ date: 2015-10-09
 **Convergence rate of gradient descent**
 
 - blog: [https://building-babylon.net/2016/06/23/convergence-rate-of-gradient-descent/](https://building-babylon.net/2016/06/23/convergence-rate-of-gradient-descent/)
+
+# Backpropagation
+
+**Top-down Neural Attention by Excitation Backprop**
+
+![](http://cs-people.bu.edu/jmzhang/images/screen%20shot%202016-08-19%20at%2035847%20pm.jpg?crc=3911895888)
+
+- intro: ECCV, 2016 (oral)
+- projpage: [http://cs-people.bu.edu/jmzhang/excitationbp.html](http://cs-people.bu.edu/jmzhang/excitationbp.html)
+- arxiv: [http://arxiv.org/abs/1608.00507](http://arxiv.org/abs/1608.00507)
+- paper: [http://cs-people.bu.edu/jmzhang/EB/ExcitationBackprop.pdf](http://cs-people.bu.edu/jmzhang/EB/ExcitationBackprop.pdf)
+- github: [https://github.com/jimmie33/Caffe-ExcitationBP](https://github.com/jimmie33/Caffe-ExcitationBP)
 
 # Accelerate Training
 

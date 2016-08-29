@@ -216,6 +216,10 @@ for building Deep Learning (DL) machine learning (ML) models
 
 - blog: [http://www.pyimagesearch.com/2016/07/18/installing-keras-for-deep-learning/](http://www.pyimagesearch.com/2016/07/18/installing-keras-for-deep-learning/)
 
+**Keras Applications - deep learning models that are made available alongside pre-trained weights**
+
+[https://keras.io/applications/](https://keras.io/applications/)
+
 **Keras resources: Directory of tutorials and open-source code repositories for working with Keras, the Python deep learning library**
 
 - github: [https://github.com/fchollet/keras-resources](https://github.com/fchollet/keras-resources)
@@ -225,7 +229,7 @@ for building Deep Learning (DL) machine learning (ML) models
 **Lasagne: Lightweight library to build and train neural networks in Theano**
 
 - github: [https://github.com/Lasagne/Lasagne](https://github.com/Lasagne/Lasagne)
-- homepage: [http://lasagne.readthedocs.org/en/latest/](http://lasagne.readthedocs.org/en/latest/)
+- docs: [http://lasagne.readthedocs.org/en/latest/](http://lasagne.readthedocs.org/en/latest/)
 
 # Leaf
 

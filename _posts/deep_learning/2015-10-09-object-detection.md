@@ -156,6 +156,7 @@ topmost feature map after knowing the confidences of the underlying object categ
 
 - intro: NIPS 2015
 - arxiv: [http://arxiv.org/abs/1506.01497](http://arxiv.org/abs/1506.01497)
+- gitxiv: [http://www.gitxiv.com/posts/8pfpcvefDYn2gSgXk/faster-r-cnn-towards-real-time-object-detection-with-region](http://www.gitxiv.com/posts/8pfpcvefDYn2gSgXk/faster-r-cnn-towards-real-time-object-detection-with-region)
 - slides: [http://web.cs.hacettepe.edu.tr/~aykut/classes/spring2016/bil722/slides/w05-FasterR-CNN.pdf](http://web.cs.hacettepe.edu.tr/~aykut/classes/spring2016/bil722/slides/w05-FasterR-CNN.pdf)
 - github: [https://github.com/ShaoqingRen/faster_rcnn](https://github.com/ShaoqingRen/faster_rcnn)
 - github: [https://github.com/rbgirshick/py-faster-rcnn](https://github.com/rbgirshick/py-faster-rcnn)
@@ -513,6 +514,7 @@ This task involves predicting the salient regions of an image given by human eye
 
 **UnitBox: An Advanced Object Detection Network**
 
+- intro: ACM MM 2016
 - arxiv: [http://arxiv.org/abs/1608.01471](http://arxiv.org/abs/1608.01471)
 
 **Bootstrapping Face Detection with Hard Negative Examples**

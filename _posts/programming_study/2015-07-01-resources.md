@@ -105,13 +105,13 @@ which continually runs and visualizes your code as you type
 **Go by Example**
 
  - blog: [https://gobyexample.com/](https://gobyexample.com/)
- 
+
 # Assembly
- 
+
  **A fundamental introduction to x86 assembly programming**
- 
+
  ![](https://www.nayuki.io/res/a-fundamental-introduction-to-x86-assembly-programming/cpu-model.png)
- 
+
 - blog: [https://www.nayuki.io/page/a-fundamental-introduction-to-x86-assembly-programming](https://www.nayuki.io/page/a-fundamental-introduction-to-x86-assembly-programming)
 
 # Lisp
@@ -153,6 +153,13 @@ which continually runs and visualizes your code as you type
 **Implementing Run-length encoding in CUDA**
 
 - blog: [https://erkaman.github.io/posts/cuda_rle.html](https://erkaman.github.io/posts/cuda_rle.html)
+
+# Math
+
+**Benchmarking matrix multiplication implementations**
+
+- intro: Naive / Transposed / sdot / SSE sdot / SSE+tiling sdot / OpenBLAS / uBLAS / Eigen
+- github: [https://github.com/attractivechaos/matmul](https://github.com/attractivechaos/matmul)
 
 # Vim
 

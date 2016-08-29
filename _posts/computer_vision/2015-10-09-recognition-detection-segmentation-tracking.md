@@ -197,6 +197,16 @@ using a large number of the existing object proposal approaches.
 
 # Tracking
 
+**MEEM: Robust Tracking via Multiple Experts using Entropy Minimization**
+
+![](http://cs-people.bu.edu/jmzhang/MEEM/frontpage.png)
+
+- intro: ECCV 2014
+- project page(code+data): [http://cs-people.bu.edu/jmzhang/MEEM/MEEM.html](http://cs-people.bu.edu/jmzhang/MEEM/MEEM.html)
+- paper: [http://cs-people.bu.edu/jmzhang/MEEM/MEEM-eccv-preprint.pdf](http://cs-people.bu.edu/jmzhang/MEEM/MEEM-eccv-preprint.pdf)
+- code: [http://cs-people.bu.edu/jmzhang/MEEM/MEEM_v1_release.zip](http://cs-people.bu.edu/jmzhang/MEEM/MEEM_v1_release.zip)
+- code: [http://cs-people.bu.edu/jmzhang/MEEM/MEEM_v1.1_release.zip](http://cs-people.bu.edu/jmzhang/MEEM/MEEM_v1.1_release.zip)
+
 **Struck: Structured Output Tracking with Kernels**
 
 - paper: [http://mftp.mmcheng.net/Papers/StruckPAMI.pdf](http://mftp.mmcheng.net/Papers/StruckPAMI.pdf)
