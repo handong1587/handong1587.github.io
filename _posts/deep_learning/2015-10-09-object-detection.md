@@ -26,6 +26,13 @@ date: 2015-10-09
 | R-FCN (ResNet-101)  | 79.5%       |             |             |             |             | 0.17sec(K40), 0.12sec(TitianX) |
 | PVANet 9.0          | 81.8%       |             | 82.5%       |             |             | 750ms(CPU), 46ms(TitianX) |
 
+# Leaderboard
+
+**Detection Results: VOC2012**
+
+- intro: Competition "comp4" (train on own data)
+- homepage: [http://host.robots.ox.ac.uk:8080/leaderboard/displaylb.php?challengeid=11&compid=4](http://host.robots.ox.ac.uk:8080/leaderboard/displaylb.php?challengeid=11&compid=4)
+
 # Papers
 
 **Deep Neural Networks for Object Detection**
