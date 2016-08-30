@@ -41,6 +41,10 @@ date: 2015-10-09
 
 - arxiv: [http://arxiv.org/abs/1603.07063](http://arxiv.org/abs/1603.07063)
 
+**Fine Hand Segmentation using Convolutional Neural Networks**
+
+- arxiv: [http://arxiv.org/abs/1608.07454](http://arxiv.org/abs/1608.07454)
+
 # Semantic Segmentation
 
 **Fully Convolutional Networks for Semantic Segmentation**
@@ -361,6 +365,12 @@ fine-tune the trained network with more challenging examples later
 **Semantic Understanding of Scenes through the ADE20K Dataset**
 
 - arxiv: [https://arxiv.org/abs/1608.05442](https://arxiv.org/abs/1608.05442)
+
+## MPF-RNN
+
+**Multi-Path Feedback Recurrent Neural Network for Scene Parsing**
+
+- arxiv: [http://arxiv.org/abs/1608.07706](http://arxiv.org/abs/1608.07706)
 
 ## Benchmarks
 

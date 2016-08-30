@@ -250,6 +250,14 @@ using a large number of the existing object proposal approaches.
 
 - arxiv: [http://arxiv.org/abs/1602.01887](http://arxiv.org/abs/1602.01887)
 
+**Tracking Completion**
+
+- arxiv: [http://arxiv.org/abs/1608.08171](http://arxiv.org/abs/1608.08171)
+
+**Real-Time Visual Tracking: Promoting the Robustness of Correlation Filter Learning**
+
+- arxiv: [http://arxiv.org/abs/1608.08173](http://arxiv.org/abs/1608.08173)
+
 ## Projects
 
 **JS-face-tracking-demo**

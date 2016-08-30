@@ -19,13 +19,14 @@ date: 2015-10-09
 | Faster-RCNN (VGG16) | 73.2%/(07+12) |           | 70.4%/(07++12) |          |             | 198ms       |
 | Faster-RCNN (VGG16) | 78.8%/(COCO+07+12) |      | 75.9%/(COCO+07++12) |     | 21.9%(@[0.5-0.95]), 42.7%(@0.5) | 198ms |
 | SSD300 (VGG16)      | 72.1%       |             |             |             |             | 58 fps      |
-| SSD500 (VGG16)      | 75.1%       |             |             |             |             | 23 fps      | 
+| SSD500 (VGG16)      | 75.1%       |             |             |             |             | 23 fps      |
 | ION                 | 79.2%/(07+12+S) |         | 76.4%/(07+12+S) |         |             |             |
 | AZ-Net              | 70.4%       |             |             |             | 22.3%(@[0.5-0.95]), 41.0%(@0.5) | |
 | CRAFT               | 75.7%       |             |  71.3%      |    48.5%    |             |             |
 | OHEM                | 78.9%       |             |  76.3%      |             | 25.5%(@[0.5-0.95]), 45.9%(@0.5) | |
 | R-FCN (ResNet-50)   | 77.4%(07+12)|             |             |             |             | 0.12sec(K40), 0.09sec(TitianX) |
 | R-FCN (ResNet-101)  | 79.5%(07+12)|             |             |             |             | 0.17sec(K40), 0.12sec(TitianX) |
+| PVANet 9.0          | 81.8%/(COCO+07+12) |      | 82.5%/(COCO+07+12) |      |             | 750ms(CPU), 46ms(TitianX) |
 
 # Papers
 
@@ -328,8 +329,10 @@ and 1.15s per image with it".
 
 **A Unified Multi-scale Deep Convolutional Neural Network for Fast Object Detection**
 
+- intro: ECCV 2016
 - intro: 640×480: 15 fps, 960×720: 8 fps
 - arxiv: [http://arxiv.org/abs/1607.07155](http://arxiv.org/abs/1607.07155)
+- github: [https://github.com/zhaoweicai/mscnn](https://github.com/zhaoweicai/mscnn)
 
 **Multi-stage Object Detection with Group Recursive Learning**
 
@@ -342,6 +345,14 @@ and 1.15s per image with it".
 
 - arxiv: [http://arxiv.org/abs/1604.04693](http://arxiv.org/abs/1604.04693)
 - github: [https://github.com/yuxng/SubCNN](https://github.com/yuxng/SubCNN)
+
+## PVANET
+
+**PVANET: Deep but Lightweight Neural Networks for Real-time Object Detection**
+
+- intro: "less channels with more layers", concatenated ReLU, Inception, and HyperNet, batch normalization, residual connections
+- arxiv: [http://arxiv.org/abs/1608.08021](http://arxiv.org/abs/1608.08021)
+- leaderboard(PVANet 9.0): [http://host.robots.ox.ac.uk:8080/leaderboard/displaylb.php?challengeid=11&compid=4](http://host.robots.ox.ac.uk:8080/leaderboard/displaylb.php?challengeid=11&compid=4)
 
 # Detection From Video
 
@@ -485,6 +496,10 @@ This task involves predicting the salient regions of an image given by human eye
 
 - intro: ECCV 2016
 - arxiv: [http://arxiv.org/abs/1608.05186](http://arxiv.org/abs/1608.05186)
+
+**Edge Preserving and Multi-Scale Contextual Neural Network for Salient Object Detection**
+
+- arxiv: [http://arxiv.org/abs/1608.08029](http://arxiv.org/abs/1608.08029)
 
 # Specific Object Deteciton
 

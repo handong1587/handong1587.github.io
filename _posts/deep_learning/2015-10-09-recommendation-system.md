@@ -42,6 +42,11 @@ date: 2015-10-09
 
 - paper: [https://alexiskz.files.wordpress.com/2016/06/feature-rnn-paper1.pdf](https://alexiskz.files.wordpress.com/2016/06/feature-rnn-paper1.pdf)
 
+**Collaborative Filtering with Recurrent Neural Networks**
+
+- keywords: LSTM, movie recommendation
+- arixv: [http://arxiv.org/abs/1608.07400](http://arxiv.org/abs/1608.07400)
+
 # Slides
 
 **Deep learning for music recommendation**
