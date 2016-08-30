@@ -15,18 +15,16 @@ date: 2015-10-09
 | NoC                 | 73.3%       |             | 68.8%       |             |             |             |
 | Fast-RCNN (VGG16)   | 70.0%       | 68.8%       | 68.4%       |             | 19.7%(@[0.5-0.95]), 35.9%(@0.5) | |
 | MR-CNN              | 78.2%       |             | 73.9%       |             |             |             |
-| Faster-RCNN (VGG16) | 69.9%/(07)  |             | 67.0%/(12)  |             |             | 198ms       |
-| Faster-RCNN (VGG16) | 73.2%/(07+12) |           | 70.4%/(07++12) |          |             | 198ms       |
-| Faster-RCNN (VGG16) | 78.8%/(COCO+07+12) |      | 75.9%/(COCO+07++12) |     | 21.9%(@[0.5-0.95]), 42.7%(@0.5) | 198ms |
+| Faster-RCNN (VGG16) | 78.8%       |             | 75.9%       |             | 21.9%(@[0.5-0.95]), 42.7%(@0.5) | 198ms |
 | SSD300 (VGG16)      | 72.1%       |             |             |             |             | 58 fps      |
 | SSD500 (VGG16)      | 75.1%       |             |             |             |             | 23 fps      |
-| ION                 | 79.2%/(07+12+S) |         | 76.4%/(07+12+S) |         |             |             |
+| ION                 | 79.2%       |             | 76.4%       |             |             |             |
 | AZ-Net              | 70.4%       |             |             |             | 22.3%(@[0.5-0.95]), 41.0%(@0.5) | |
-| CRAFT               | 75.7%       |             |  71.3%      |    48.5%    |             |             |
-| OHEM                | 78.9%       |             |  76.3%      |             | 25.5%(@[0.5-0.95]), 45.9%(@0.5) | |
-| R-FCN (ResNet-50)   | 77.4%(07+12)|             |             |             |             | 0.12sec(K40), 0.09sec(TitianX) |
-| R-FCN (ResNet-101)  | 79.5%(07+12)|             |             |             |             | 0.17sec(K40), 0.12sec(TitianX) |
-| PVANet 9.0          | 81.8%/(COCO+07+12) |      | 82.5%/(COCO+07+12) |      |             | 750ms(CPU), 46ms(TitianX) |
+| CRAFT               | 75.7%       |             | 71.3%       | 48.5%       |             |             |
+| OHEM                | 78.9%       |             | 76.3%       |             | 25.5%(@[0.5-0.95]), 45.9%(@0.5) | |
+| R-FCN (ResNet-50)   | 77.4%       |             |             |             |             | 0.12sec(K40), 0.09sec(TitianX) |
+| R-FCN (ResNet-101)  | 79.5%       |             |             |             |             | 0.17sec(K40), 0.12sec(TitianX) |
+| PVANet 9.0          | 81.8%       |             | 82.5%       |             |             | 750ms(CPU), 46ms(TitianX) |
 
 # Papers
 
@@ -74,6 +72,7 @@ topmost feature map after knowing the confidences of the underlying object categ
 
 **Spatial Pyramid Pooling in Deep Convolutional Networks for Visual Recognition**
 
+- intro: ECCV 2014 / TPAMI 2015
 - arxiv: [http://arxiv.org/abs/1406.4729](http://arxiv.org/abs/1406.4729)
 - github: [https://github.com/ShaoqingRen/SPP_net](https://github.com/ShaoqingRen/SPP_net)
 - notes: [http://zhangliliang.com/2014/09/13/paper-note-sppnet/](http://zhangliliang.com/2014/09/13/paper-note-sppnet/)
