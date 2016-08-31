@@ -380,6 +380,10 @@ Restricted Boltzmann Machine (RBM), Sparse Coding and Auto-encoder
 
 - arxiv: [http://arxiv.org/abs/1608.00218](http://arxiv.org/abs/1608.00218)
 
+**What makes ImageNet good for transfer learning?**
+
+- arxiv: [http://arxiv.org/abs/1608.08614](http://arxiv.org/abs/1608.08614)
+
 # Multi-label Learning
 
 **CNN: Single-label to Multi-label**
@@ -797,7 +801,7 @@ with fast exact probabilistic inference over many layers."
 
 - paper: [http://arxiv.org/abs/1509.05329](http://arxiv.org/abs/1509.05329)
 
-# Deep Learning and Traditional Machine Learning Methods
+# Deep Learning with Traditional Machine Learning Methods
 
 ## Cascade
 
@@ -842,6 +846,48 @@ with fast exact probabilistic inference over many layers."
 **Deep Learning using Linear Support Vector Machines**
 
 - paper: [http://deeplearning.net/wp-content/uploads/2013/03/dlsvm.pdf](http://deeplearning.net/wp-content/uploads/2013/03/dlsvm.pdf)
+
+## Deep Learning and Robots
+
+**Robot Learning Manipulation Action Plans by "Watching" Unconstrained Videos from the World Wide Web(AAAI 2015)**
+
+- paper: [http://www.umiacs.umd.edu/~yzyang/paper/YouCookMani_CameraReady.pdf](http://www.umiacs.umd.edu/~yzyang/paper/YouCookMani_CameraReady.pdf)
+- author page: [http://www.umiacs.umd.edu/~yzyang/](http://www.umiacs.umd.edu/~yzyang/)
+
+**Robots that can adapt like animals (Nature 2014)**
+
+- arxiv: [http://arxiv.org/abs/1407.3501](http://arxiv.org/abs/1407.3501)
+- code: [http://pages.isir.upmc.fr/~mouret/code/ite_source_code.tar.gz](http://pages.isir.upmc.fr/~mouret/code/ite_source_code.tar.gz)
+- github(for Bayesian optimization): [http://github.com/jbmouret/limbo](http://github.com/jbmouret/limbo)
+
+**End-to-End Training of Deep Visuomotor Policies**
+
+- arxiv: [http://arxiv.org/abs/1504.00702](http://arxiv.org/abs/1504.00702)
+
+**Comment on Open AI’s Efforts to Robot Learning**
+
+- blog: [https://gridworld.wordpress.com/2016/07/28/comment-on-open-ais-efforts-to-robot-learning/](https://gridworld.wordpress.com/2016/07/28/comment-on-open-ais-efforts-to-robot-learning/)
+
+**The Curious Robot: Learning Visual Representations via Physical Interactions**
+
+- arxiv: [http://arxiv.org/abs/1604.01360](http://arxiv.org/abs/1604.01360)
+
+## Deep Learning on Mobile Devices
+
+**Convolutional neural networks on the iPhone with VGGNet**
+
+- blog: [http://matthijshollemans.com/2016/08/30/vggnet-convolutional-neural-network-iphone/](http://matthijshollemans.com/2016/08/30/vggnet-convolutional-neural-network-iphone/)
+- github: [https://github.com/hollance/VGGNet-Metal](https://github.com/hollance/VGGNet-Metal)
+
+## Deep Learning in Finance
+
+**Deep Learning in Finance**
+
+- arxiv: [http://arxiv.org/abs/1602.06561](http://arxiv.org/abs/1602.06561)
+
+**A Survey of Deep Learning Techniques Applied to Trading**
+
+- blog: [http://gregharris.info/a-survey-of-deep-learning-techniques-applied-to-trading/](http://gregharris.info/a-survey-of-deep-learning-techniques-applied-to-trading/)
 
 # Applications
 
@@ -1343,129 +1389,6 @@ Bicubic VS. Shepard CNN
 - arxiv: [https://arxiv.org/abs/1606.00298](https://arxiv.org/abs/1606.00298)
 - github: [https://github.com/keunwoochoi/music-auto_tagging-keras](https://github.com/keunwoochoi/music-auto_tagging-keras)
 
-## Deep Learning and Robots
-
-**Robot Learning Manipulation Action Plans by "Watching" Unconstrained Videos from the World Wide Web(AAAI 2015)**
-
-- paper: [http://www.umiacs.umd.edu/~yzyang/paper/YouCookMani_CameraReady.pdf](http://www.umiacs.umd.edu/~yzyang/paper/YouCookMani_CameraReady.pdf)
-- author page: [http://www.umiacs.umd.edu/~yzyang/](http://www.umiacs.umd.edu/~yzyang/)
-
-**Robots that can adapt like animals (Nature 2014)**
-
-- arxiv: [http://arxiv.org/abs/1407.3501](http://arxiv.org/abs/1407.3501)
-- code: [http://pages.isir.upmc.fr/~mouret/code/ite_source_code.tar.gz](http://pages.isir.upmc.fr/~mouret/code/ite_source_code.tar.gz)
-- github(for Bayesian optimization): [http://github.com/jbmouret/limbo](http://github.com/jbmouret/limbo)
-
-**End-to-End Training of Deep Visuomotor Policies**
-
-- arxiv: [http://arxiv.org/abs/1504.00702](http://arxiv.org/abs/1504.00702)
-
-**Comment on Open AI’s Efforts to Robot Learning**
-
-- blog: [https://gridworld.wordpress.com/2016/07/28/comment-on-open-ais-efforts-to-robot-learning/](https://gridworld.wordpress.com/2016/07/28/comment-on-open-ais-efforts-to-robot-learning/)
-
-**The Curious Robot: Learning Visual Representations via Physical Interactions**
-
-- arxiv: [http://arxiv.org/abs/1604.01360](http://arxiv.org/abs/1604.01360)
-
-## Deep Learning in Finance
-
-**Deep Learning in Finance**
-
-- arxiv: [http://arxiv.org/abs/1602.06561](http://arxiv.org/abs/1602.06561)
-
-**A Survey of Deep Learning Techniques Applied to Trading**
-
-- blog: [http://gregharris.info/a-survey-of-deep-learning-techniques-applied-to-trading/](http://gregharris.info/a-survey-of-deep-learning-techniques-applied-to-trading/)
-
-## Video-related Applications
-
-**Deep multi-scale video prediction beyond mean square error**
-
-- arxiv: [http://arxiv.org/abs/1511.05440](http://arxiv.org/abs/1511.05440)
-- github(TensorFlow): [https://github.com/dyelax/Adversarial_Video_Generation](https://github.com/dyelax/Adversarial_Video_Generation)
-- demo: [http://cs.nyu.edu/~mathieu/iclr2016.html](http://cs.nyu.edu/~mathieu/iclr2016.html)
-
-### Video Classification
-
-### Video Tagging
-
-**Automatic Image and Video Tagging**
-
-![](http://i2.wp.com/scottge.net/wp-content/uploads/2015/06/imagetagging.png?w=576)
-
-- blog: [http://scottge.net/2015/06/30/automatic-image-and-video-tagging/](http://scottge.net/2015/06/30/automatic-image-and-video-tagging/)
-
-**Tagging YouTube music videos with deep learning - Alexandre Passant**
-
-- keywords: Clarifai's deep learning API
-- blog: [http://apassant.net/2015/07/03/tagging-youtube-music-clarifai-deep-learning/](http://apassant.net/2015/07/03/tagging-youtube-music-clarifai-deep-learning/)
-
-### Video2GIF
-
-**Video2GIF: Automatic Generation of Animated GIFs from Video (Robust Deep RankNet)**
-
-- intro: 3D CNN, ranking model, Huber loss, 100K GIFs/video sources dataset
-- arxiv: [http://arxiv.org/abs/1605.04850](http://arxiv.org/abs/1605.04850)
-- github(dataset): [https://github.com/gyglim/video2gif_dataset](https://github.com/gyglim/video2gif_dataset)
-- results: [http://video2gif.info/](http://video2gif.info/)
-- demo site: [http://people.ee.ethz.ch/~gyglim/work_public/autogif/](http://people.ee.ethz.ch/~gyglim/work_public/autogif/)
-- review: [http://motherboard.vice.com/read/these-fire-gifs-were-made-by-artificial-intelligence-yahoo](http://motherboard.vice.com/read/these-fire-gifs-were-made-by-artificial-intelligence-yahoo)
-
-**Creating Animated GIFs Automatically from Video**
-
-[https://yahooresearch.tumblr.com/post/148009705216/creating-animated-gifs-automatically-from-video](https://yahooresearch.tumblr.com/post/148009705216/creating-animated-gifs-automatically-from-video)
-
-### Video Captioning
-
-[http://handong1587.github.io/deep_learning/2015/10/09/image-video-captioning.html#video-captioning](http://handong1587.github.io/deep_learning/2015/10/09/image-video-captioning.html#video-captioning)
-
-### Video Summarization
-
-Video summarization produces a short summary of a full-length video and ideally encapsulates its most informative parts, 
-alleviates the problem of video browsing, editing and indexing.
-
-**Video Summarization with Long Short-term Memory**
-
-- arxiv: [http://arxiv.org/abs/1605.08110](http://arxiv.org/abs/1605.08110)
-
-**DeepVideo: Video Summarization using Temporal Sequence Modelling**
-
-- intro: CS231n student project report
-- paper: [http://cs231n.stanford.edu/reports2016/216_Report.pdf](http://cs231n.stanford.edu/reports2016/216_Report.pdf)
-
-### Video Highlight Detection
-
-**Unsupervised Extraction of Video Highlights Via Robust Recurrent Auto-encoders (ICCV 2015)**
-
-- intro: ICCV 2015
-- intro: rely on an assumption that highlights of an event category are more frequently captured in short videos than non-highlights
-- arxiv: [http://arxiv.org/abs/1510.01442](http://arxiv.org/abs/1510.01442)
-
-**Highlight Detection with Pairwise Deep Ranking for First-Person Video Summarization**
-
-- keywords: wearable device
-- paper: [http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Yao_Highlight_Detection_With_CVPR_2016_paper.pdf](http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Yao_Highlight_Detection_With_CVPR_2016_paper.pdf)
-- paper: [http://research.microsoft.com/apps/pubs/default.aspx?id=264919](http://research.microsoft.com/apps/pubs/default.aspx?id=264919)
-
-**Using Deep Learning to Find Basketball Highlights**
-
-![](https://cloud.githubusercontent.com/assets/10147637/7966603/228179fe-09f3-11e5-9ea7-31e76c8248fe.png)
-
-- blog: [http://public.hudl.com/bits/archives/2015/06/05/highlights/?utm_source=tuicool&utm_medium=referral](http://public.hudl.com/bits/archives/2015/06/05/highlights/?utm_source=tuicool&utm_medium=referral)
-
-### Video Understanding
-
-**Slicing Convolutional Neural Network for Crowd Video Understanding**
-
-![](http://www.ee.cuhk.edu.hk/~jshao/SCNN_files/fig_network5.jpg)
-
-- intro: CVPR 2016
-- intro: It aims at learning generic spatio-temporal features from crowd videos, especially for long-term temporal learning
-- project page: [http://www.ee.cuhk.edu.hk/~jshao/SCNN.html](http://www.ee.cuhk.edu.hk/~jshao/SCNN.html)
-- paper: [http://www.ee.cuhk.edu.hk/~jshao/papers_jshao/jshao_cvpr16_scnn.pdf](http://www.ee.cuhk.edu.hk/~jshao/papers_jshao/jshao_cvpr16_scnn.pdf)
-- github: [https://github.com/amandajshao/Slicing-CNN](https://github.com/amandajshao/Slicing-CNN)
-
 # Deep Learning’s Accuracy
 
 - blog: [http://deeplearning4j.org/accuracy.html](http://deeplearning4j.org/accuracy.html)
@@ -1857,6 +1780,10 @@ Compatible with Theano and TensorFlow. Optimized for Twitter.
 **Deep Learning Resources**
 
 [http://yanirseroussi.com/deep-learning-resources/](http://yanirseroussi.com/deep-learning-resources/)
+
+**Deep Learning Resources**
+
+[https://omtcyfz.github.io/2016/08/29/Deep-Learning-Resources.html](https://omtcyfz.github.io/2016/08/29/Deep-Learning-Resources.html)
 
 **Turing Machine: musings on theory & code(DEEP LEARNING REVOLUTION, summer 2015, state of the art & topnotch links)**
 

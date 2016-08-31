@@ -386,6 +386,14 @@ for building Deep Learning (DL) machine learning (ML) models
 - homepage: [http://opennn.net/](http://opennn.net/)
 - github: [https://github.com/artelnics/opennn](https://github.com/artelnics/opennn)
 
+# Paddle
+
+**PaddlePaddle: PArallel Distributed Deep LEarning**
+
+- homepage: [http://www.paddlepaddle.org/](http://www.paddlepaddle.org/)
+- github: [https://github.com/baidu/Paddle](https://github.com/baidu/Paddle)
+- installation: [http://www.paddlepaddle.org/doc/build/](http://www.paddlepaddle.org/doc/build/)
+
 # Petuum
 
 **Petuum: a distributed machine learning framework**

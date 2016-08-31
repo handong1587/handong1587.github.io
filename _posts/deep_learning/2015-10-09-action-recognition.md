@@ -140,6 +140,15 @@ extract saptio-temporal features to represent the video using the CNNs."
 - arxiv: [http://users.cecs.anu.edu.au/~sgould/papers/cvpr16-dynamic_images.pdf](http://users.cecs.anu.edu.au/~sgould/papers/cvpr16-dynamic_images.pdf)
 - github: [https://github.com/hbilen/dynamic-image-nets](https://github.com/hbilen/dynamic-image-nets)
 
+**Human Action Recognition without Human**
+
+- arxiv: [http://arxiv.org/abs/1608.07876](http://arxiv.org/abs/1608.07876)
+
+**Temporal Convolutional Networks: A Unified Approach to Action Segmentation**
+
+- arxiv: [http://arxiv.org/abs/1608.08242](http://arxiv.org/abs/1608.08242)
+- ECCV 2016 workshop: [http://bravenewmotion.github.io/](http://bravenewmotion.github.io/)
+
 # Event Recognition
 
 **TagBook: A Semantic Video Representation without Supervision for Event Detection**

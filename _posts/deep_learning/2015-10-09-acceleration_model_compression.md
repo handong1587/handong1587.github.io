@@ -281,3 +281,8 @@ to decompose it into the multiplications of thinned dense matrices"
 **Deep Compression, DSD Training and EIE: Deep Neural Network Model Compression, Regularization and Hardware Acceleration**
 
 [http://research.microsoft.com/apps/video/default.aspx?id=266664](http://research.microsoft.com/apps/video/default.aspx?id=266664)
+
+**Tailoring Convolutional Neural Networks for Low-Cost, Low-Power Implementation**
+
+- intro: tutorial at the May 2015 Embedded Vision Summit
+- youtube: [https://www.youtube.com/watch?v=xACJBACStaU](https://www.youtube.com/watch?v=xACJBACStaU)
