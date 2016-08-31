@@ -111,9 +111,11 @@ not just the convolutions)
 - paper: [http://beta.openreview.net/forum?id=lx9l4r36gU2OVPy8Cv9g](http://beta.openreview.net/forum?id=lx9l4r36gU2OVPy8Cv9g)
 - arxiv: [http://arxiv.org/abs/1603.08029](http://arxiv.org/abs/1603.08029)
 
-**Identity Mappings in Deep Residual Networks (by Kaiming He)**
+## ResNet-v2
 
-- intro: ResNet-v2
+**Identity Mappings in Deep Residual Networks**
+
+- intro: ECCV 2016. ResNet-v2
 - arxiv: [http://arxiv.org/abs/1603.05027](http://arxiv.org/abs/1603.05027)
 - github: [https://github.com/KaimingHe/resnet-1k-layers](https://github.com/KaimingHe/resnet-1k-layers)
 - github: [https://github.com/bazilas/matconvnet-ResNet](https://github.com/bazilas/matconvnet-ResNet)
@@ -847,7 +849,7 @@ with fast exact probabilistic inference over many layers."
 
 - paper: [http://deeplearning.net/wp-content/uploads/2013/03/dlsvm.pdf](http://deeplearning.net/wp-content/uploads/2013/03/dlsvm.pdf)
 
-## Deep Learning and Robots
+# Deep Learning and Robots
 
 **Robot Learning Manipulation Action Plans by "Watching" Unconstrained Videos from the World Wide Web(AAAI 2015)**
 
@@ -872,14 +874,16 @@ with fast exact probabilistic inference over many layers."
 
 - arxiv: [http://arxiv.org/abs/1604.01360](http://arxiv.org/abs/1604.01360)
 
-## Deep Learning on Mobile Devices
+# Deep Learning on Mobile Devices
 
 **Convolutional neural networks on the iPhone with VGGNet**
+
+![](http://matthijshollemans.com/2016/08/30/vggnet-convolutional-neural-network-iphone/Bookcase.png)
 
 - blog: [http://matthijshollemans.com/2016/08/30/vggnet-convolutional-neural-network-iphone/](http://matthijshollemans.com/2016/08/30/vggnet-convolutional-neural-network-iphone/)
 - github: [https://github.com/hollance/VGGNet-Metal](https://github.com/hollance/VGGNet-Metal)
 
-## Deep Learning in Finance
+# Deep Learning in Finance
 
 **Deep Learning in Finance**
 
@@ -1120,6 +1124,12 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 **Predict Sentiment From Movie Reviews Using Deep Learning**
 
 - blog: [http://machinelearningmastery.com/predict-sentiment-movie-reviews-using-deep-learning/](http://machinelearningmastery.com/predict-sentiment-movie-reviews-using-deep-learning/)
+
+**Neural Sentiment Classification with User and Product Attention**
+
+- intro: EMNLP 2016
+- paper: [http://www.thunlp.org/~chm/publications/emnlp2016_NSCUPA.pdf](http://www.thunlp.org/~chm/publications/emnlp2016_NSCUPA.pdf)
+- github: [https://github.com/thunlp/NSC](https://github.com/thunlp/NSC)
 
 ## Place Recognition
 

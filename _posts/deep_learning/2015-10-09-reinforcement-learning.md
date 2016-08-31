@@ -43,6 +43,12 @@ date: 2015-10-09
 - instructor: David Silver
 - video: [http://videolectures.net/rldm2015_silver_reinforcement_learning/](http://videolectures.net/rldm2015_silver_reinforcement_learning/)
 
+**Deep Reinforcement Learning**
+
+- intro: David Silver [Google DeepMind]
+- video: [http://techtalks.tv/talks/deep-reinforcement-learning/62360/](http://techtalks.tv/talks/deep-reinforcement-learning/62360/)
+- slides: [http://hunch.net/~beygel/deep_rl_tutorial.pdf](http://hunch.net/~beygel/deep_rl_tutorial.pdf)
+
 # Courses
 
 **Advanced Topics: RL**

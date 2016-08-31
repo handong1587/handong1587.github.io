@@ -394,6 +394,10 @@ for building Deep Learning (DL) machine learning (ML) models
 - github: [https://github.com/baidu/Paddle](https://github.com/baidu/Paddle)
 - installation: [http://www.paddlepaddle.org/doc/build/](http://www.paddlepaddle.org/doc/build/)
 
+**基于Spark的异构分布式深度学习平台**
+
+[http://geek.csdn.net/news/detail/58867](http://geek.csdn.net/news/detail/58867)
+
 # Petuum
 
 **Petuum: a distributed machine learning framework**
