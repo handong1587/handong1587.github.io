@@ -111,7 +111,7 @@ not just the convolutions)
 - paper: [http://beta.openreview.net/forum?id=lx9l4r36gU2OVPy8Cv9g](http://beta.openreview.net/forum?id=lx9l4r36gU2OVPy8Cv9g)
 - arxiv: [http://arxiv.org/abs/1603.08029](http://arxiv.org/abs/1603.08029)
 
-## ResNet-v2
+## ResNet-V2
 
 **Identity Mappings in Deep Residual Networks**
 
