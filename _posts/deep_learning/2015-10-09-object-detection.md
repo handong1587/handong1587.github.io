@@ -716,6 +716,13 @@ This task involves predicting the salient regions of an image given by human eye
 
 - arxiv: [http://arxiv.org/abs/1608.04314](http://arxiv.org/abs/1608.04314)
 
+**Localizing objects using referring expressions**
+
+- intro: ECCV 2016
+- keywords: LSTM, multiple instance learning (MIL)
+- paper: [http://www.umiacs.umd.edu/~varun/files/refexp-ECCV16.pdf](http://www.umiacs.umd.edu/~varun/files/refexp-ECCV16.pdf)
+- github: [https://github.com/varun-nagaraja/referring-expressions](https://github.com/varun-nagaraja/referring-expressions)
+
 ## LocNet
 
 **LocNet: Improving Localization Accuracy for Object Detection**

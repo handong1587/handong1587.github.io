@@ -616,6 +616,12 @@ The size of their dataset is, however, limited by the availability of domain-spe
 
 - github: [https://github.com/tberg12/ocular](https://github.com/tberg12/ocular)
 
+**SESHAT: Handwritten math expression parser**
+
+- intro: Seshat is an open-source system for recognizing handwritten mathematical expressions. 
+Given a sample represented as a sequence of strokes, the parser is able to convert it to LaTeX or other formats like InkML or MathML.
+- github: [https://github.com/falvaro/seshat](https://github.com/falvaro/seshat)
+
 **【OCR/机器学习/搜索引擎】基于 Tesseract的图文识别搜**
 
 - github: [https://github.com/daijiale/OCR_FontsSearchEngine](https://github.com/daijiale/OCR_FontsSearchEngine)

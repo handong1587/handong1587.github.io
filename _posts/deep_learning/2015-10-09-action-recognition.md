@@ -149,6 +149,13 @@ extract saptio-temporal features to represent the video using the CNNs."
 - arxiv: [http://arxiv.org/abs/1608.08242](http://arxiv.org/abs/1608.08242)
 - ECCV 2016 workshop: [http://bravenewmotion.github.io/](http://bravenewmotion.github.io/)
 
+**Temporal Activity Detection in Untrimmed Videos with Recurrent Neural Networks**
+
+- intro: Bachelor Thesis Report at ETSETB TelecomBCN
+- project page: [https://imatge-upc.github.io/activitynet-2016-cvprw/](https://imatge-upc.github.io/activitynet-2016-cvprw/)
+- arxiv: [http://arxiv.org/abs/1608.08128](http://arxiv.org/abs/1608.08128)
+- github: [https://github.com/imatge-upc/activitynet-2016-cvprw](https://github.com/imatge-upc/activitynet-2016-cvprw)
+
 # Event Recognition
 
 **TagBook: A Semantic Video Representation without Supervision for Event Detection**

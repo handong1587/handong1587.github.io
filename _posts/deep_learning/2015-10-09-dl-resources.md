@@ -94,6 +94,10 @@ not just the convolutions)
 - github: [https://github.com/raghakot/keras-resnet](https://github.com/raghakot/keras-resnet)
 - github: [https://github.com/ry/tensorflow-resnet](https://github.com/ry/tensorflow-resnet)
 
+**Third-party re-implementations**
+
+[https://github.com/KaimingHe/deep-residual-networks#third-party-re-implementations](https://github.com/KaimingHe/deep-residual-networks#third-party-re-implementations)
+
 **Training and investigating Residual Nets**
 
 [http://torch.ch/blog/2016/02/04/resnets.html](http://torch.ch/blog/2016/02/04/resnets.html)
@@ -384,6 +388,7 @@ Restricted Boltzmann Machine (RBM), Sparse Coding and Auto-encoder
 
 **What makes ImageNet good for transfer learning?**
 
+- project page: [http://minyounghuh.com/papers/analysis/](http://minyounghuh.com/papers/analysis/)
 - arxiv: [http://arxiv.org/abs/1608.08614](http://arxiv.org/abs/1608.08614)
 
 # Multi-label Learning
@@ -757,6 +762,10 @@ with fast exact probabilistic inference over many layers."
 
 - arxiv: [http://arxiv.org/abs/1608.06993](http://arxiv.org/abs/1608.06993)
 - github: [https://github.com/liuzhuang13/DenseNet](https://github.com/liuzhuang13/DenseNet)
+
+**CliqueCNN: Deep Unsupervised Exemplar Learning**
+
+- arxiv: [http://arxiv.org/abs/1608.08792](http://arxiv.org/abs/1608.08792)
 
 ## Highway Networks
 
@@ -1576,6 +1585,10 @@ Bicubic VS. Shepard CNN
 - intro: CVPR 2016
 - paper: [http://dlaptev.org/papers/Laptev16_CVPR.pdf](http://dlaptev.org/papers/Laptev16_CVPR.pdf)
 - github: [https://github.com/dlaptev/TI-pooling](https://github.com/dlaptev/TI-pooling)
+
+**Why does deep and cheap learning work so well?**
+
+- arxiv: [http://arxiv.org/abs/1608.08225](http://arxiv.org/abs/1608.08225)
 
 ## STDP
 

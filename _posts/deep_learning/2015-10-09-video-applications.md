@@ -56,7 +56,9 @@ date: 2015-10-09
 
 **Deep multi-scale video prediction beyond mean square error**
 
+- intro: ICLR 2016
 - arxiv: [http://arxiv.org/abs/1511.05440](http://arxiv.org/abs/1511.05440)
+- github: [https://github.com/coupriec/VideoPredictionICLR2016](https://github.com/coupriec/VideoPredictionICLR2016)
 - github(TensorFlow): [https://github.com/dyelax/Adversarial_Video_Generation](https://github.com/dyelax/Adversarial_Video_Generation)
 - demo: [http://cs.nyu.edu/~mathieu/iclr2016.html](http://cs.nyu.edu/~mathieu/iclr2016.html)
 

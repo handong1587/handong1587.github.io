@@ -227,6 +227,10 @@ to decompose it into the multiplications of thinned dense matrices"
 - intro: ACM Multimedia 2016
 - arxiv: [http://arxiv.org/abs/1608.07365](http://arxiv.org/abs/1608.07365)
 
+**Pruning Filters for Efficient ConvNets**
+
+- arxiv: [http://arxiv.org/abs/1608.08710](http://arxiv.org/abs/1608.08710)
+
 # Projects
 
 **Accelerate Convolutional Neural Networks**
