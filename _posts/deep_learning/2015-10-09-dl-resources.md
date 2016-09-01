@@ -169,8 +169,9 @@ not just the convolutions)
 
 # Deep Learning And Bayesian
 
-**Scalable Bayesian Optimization Using Deep Neural Networks (ICML 2015)**
+**Scalable Bayesian Optimization Using Deep Neural Networks**
 
+- intro: ICML 2015
 - paper: [http://jmlr.org/proceedings/papers/v37/snoek15.html](http://jmlr.org/proceedings/papers/v37/snoek15.html)
 - arxiv: [http://arxiv.org/abs/1502.05700](http://arxiv.org/abs/1502.05700)
 - github: [https://github.com/bshahr/torch-dngo](https://github.com/bshahr/torch-dngo)
@@ -180,8 +181,9 @@ not just the convolutions)
 - paper: [http://arxiv.org/abs/1506.04416](http://arxiv.org/abs/1506.04416)
 - notes: [Notes on Bayesian Dark Knowledge](https://www.evernote.com/shard/s189/sh/92cc4cbf-285e-4038-af08-c6d9e4aee6ea/d505237e82dc81be9859bc82f3902f9f)
 
-**Memory-based Bayesian Reasoning with Deep Learning(2015.Google DeepMind)**
+**Memory-based Bayesian Reasoning with Deep Learning**
 
+- intro: Google DeepMind
 - slides: [http://blog.shakirm.com/wp-content/uploads/2015/11/CSML_BayesDeep.pdf](http://blog.shakirm.com/wp-content/uploads/2015/11/CSML_BayesDeep.pdf)
 
 **Towards Bayesian Deep Learning: A Survey**
@@ -199,8 +201,9 @@ not just the convolutions)
 
 - arxiv: [http://arxiv.org/abs/1312.6114](http://arxiv.org/abs/1312.6114)
 
-**The Potential Energy of an Autoencoder (PAMI 2014)**
+**The Potential Energy of an Autoencoder**
 
+- intro: PAMI 2014
 - paper: [http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.698.4921&rep=rep1&type=pdf](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.698.4921&rep=rep1&type=pdf)
 
 **Importance Weighted Autoencoders**
@@ -208,8 +211,9 @@ not just the convolutions)
 - paper: [http://arxiv.org/abs/1509.00519](http://arxiv.org/abs/1509.00519)
 - github: [https://github.com/yburda/iwae](https://github.com/yburda/iwae)
 
-**Review of Auto-Encoders(by Piotr Mirowski, Microsoft Bing London, 2014)**
+**Review of Auto-Encoders**
 
+- intro: Piotr Mirowski, Microsoft Bing London, 2014
 - slides: [https://piotrmirowski.files.wordpress.com/2014/03/piotrmirowski_2014_reviewautoencoders.pdf](https://piotrmirowski.files.wordpress.com/2014/03/piotrmirowski_2014_reviewautoencoders.pdf)
 - github: [https://github.com/piotrmirowski/Tutorial_AutoEncoders/](https://github.com/piotrmirowski/Tutorial_AutoEncoders/)
 
@@ -296,8 +300,9 @@ testing it on the MNIST handwritten digits data.
 
 Restricted Boltzmann Machine (RBM), Sparse Coding and Auto-encoder
 
-**On Random Weights and Unsupervised Feature Learning (ICML 2011)**
+**On Random Weights and Unsupervised Feature Learning**
 
+- intro: ICML 2011
 - paper: [http://www.robotics.stanford.edu/~ang/papers/icml11-RandomWeights.pdf](http://www.robotics.stanford.edu/~ang/papers/icml11-RandomWeights.pdf)
 
 **Unsupervised Learning of Spatiotemporally Coherent Metrics**
@@ -305,8 +310,9 @@ Restricted Boltzmann Machine (RBM), Sparse Coding and Auto-encoder
 - paper: [http://arxiv.org/abs/1412.6056](http://arxiv.org/abs/1412.6056)
 - code: [https://github.com/jhjin/flattened-cnn](https://github.com/jhjin/flattened-cnn)
 
-**Unsupervised Visual Representation Learning by Context Prediction (ICCV 2015)**
+**Unsupervised Visual Representation Learning by Context Prediction**
 
+- intro: ICCV 2015
 - homepage: [http://graphics.cs.cmu.edu/projects/deepContext/](http://graphics.cs.cmu.edu/projects/deepContext/)
 - arxiv: [http://arxiv.org/abs/1505.05192](http://arxiv.org/abs/1505.05192)
 - github: [https://github.com/cdoersch/deepcontext](https://github.com/cdoersch/deepcontext)
@@ -324,14 +330,15 @@ Restricted Boltzmann Machine (RBM), Sparse Coding and Auto-encoder
 
 ## PredNet
 
-**Deep Predictive Coding Networks for Video Prediction and Unsupervised Learning (PredNet)**
+**Deep Predictive Coding Networks for Video Prediction and Unsupervised Learning**
 
 - arxiv: [http://arxiv.org/abs/1605.08104](http://arxiv.org/abs/1605.08104)
 
 ## Clustering
 
-**Joint Unsupervised Learning of Deep Representations and Image Clusters (CVPR 2016)**
+**Joint Unsupervised Learning of Deep Representations and Image Clusters**
 
+- intro: CVPR 2016
 - arxiv: [https://arxiv.org/abs/1604.03628](https://arxiv.org/abs/1604.03628)
 - github(Torch): [https://github.com/jwyang/joint-unsupervised-learning](https://github.com/jwyang/joint-unsupervised-learning)
 
@@ -341,15 +348,17 @@ Restricted Boltzmann Machine (RBM), Sparse Coding and Auto-encoder
 
 ### Deep Embedded Clustering (DEC)
 
-**Unsupervised Deep Embedding for Clustering Analysis (ICML 2016)**
+**Unsupervised Deep Embedding for Clustering Analysis**
 
+- intro: ICML 2016
 - arxiv: [https://arxiv.org/abs/1511.06335](https://arxiv.org/abs/1511.06335)
 - github: [https://github.com/piiswrong/dec](https://github.com/piiswrong/dec)
 
 # Transfer Learning
 
-**How transferable are features in deep neural networks? (NIPS 2014)**
+**How transferable are features in deep neural networks?**
 
+-intro: NIPS 2014
 - arxiv: [http://arxiv.org/abs/1411.1792](http://arxiv.org/abs/1411.1792)
 
 **Learning and Transferring Mid-Level Image Representations using Convolutional Neural Networks**
@@ -413,8 +422,9 @@ Restricted Boltzmann Machine (RBM), Sparse Coding and Auto-encoder
 - code: [http://cbcl.mit.edu/wasserstein/yfcc100m_labels.tar.gz](http://cbcl.mit.edu/wasserstein/yfcc100m_labels.tar.gz)
 - MIT news: [http://news.mit.edu/2015/more-flexible-machine-learning-1001](http://news.mit.edu/2015/more-flexible-machine-learning-1001)
 
-**From Softmax to Sparsemax: A Sparse Model of Attention and Multi-Label Classification (ICML 2016)**
+**From Softmax to Sparsemax: A Sparse Model of Attention and Multi-Label Classification**
 
+- intro: ICML 2016
 - arxiv: [http://arxiv.org/abs/1602.02068](http://arxiv.org/abs/1602.02068)
 - github: [https://github.com/gokceneraslan/SparseMax.torch](https://github.com/gokceneraslan/SparseMax.torch)
 
@@ -459,17 +469,19 @@ accuracy and the detection and localization accuracy of all tasks
 
 - paper: [www.cv-foundation.org/openaccess/content_cvpr_workshops_2014/W15/papers/LI_Heterogeneous_Multi-task_Learning_2014_CVPR_paper.pdf](www.cv-foundation.org/openaccess/content_cvpr_workshops_2014/W15/papers/LI_Heterogeneous_Multi-task_Learning_2014_CVPR_paper.pdf)
 
-**Deep Joint Task Learning for Generic Object Extraction(NIPS2014)**
+**Deep Joint Task Learning for Generic Object Extraction**
 
 ![](http://vision.sysu.edu.cn/vision_sysu/wp-content/uploads/2013/05/%E5%B0%8FQ%E6%88%AA%E5%9B%BE-20141019095211.png)
 
+- intro: NIPS 2014
 - homepage: [http://vision.sysu.edu.cn/projects/deep-joint-task-learning/](http://vision.sysu.edu.cn/projects/deep-joint-task-learning/)
 - paper: [http://ss.sysu.edu.cn/~ll/files/NIPS2014_JointTask.pdf](http://ss.sysu.edu.cn/~ll/files/NIPS2014_JointTask.pdf)
 - github: [https://github.com/xiaolonw/nips14_loc_seg_testonly](https://github.com/xiaolonw/nips14_loc_seg_testonly)
 - dataset: [http://objectextraction.github.io/](http://objectextraction.github.io/)
 
-**Multi-Task Deep Visual-Semantic Embedding for Video Thumbnail Selection (CVPR 2015)**
+**Multi-Task Deep Visual-Semantic Embedding for Video Thumbnail Selection**
 
+- intro:  CVPR 2015
 - paper: [http://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Liu_Multi-Task_Deep_Visual-Semantic_2015_CVPR_paper.pdf](http://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Liu_Multi-Task_Deep_Visual-Semantic_2015_CVPR_paper.pdf)
 
 **Learning deep representation of multityped objects and tasks**
@@ -579,9 +591,9 @@ which encodes useful class information rather than individual units (feature act
 
 - arxiv: [http://arxiv.org/abs/1511.03034](http://arxiv.org/abs/1511.03034)
 
-**Adversarial examples in the physical world (Google Brain & OpenAI)**
+**Adversarial examples in the physical world**
 
-- author: Alexey Kurakin, Ian Goodfellow, Samy Bengio
+- author: Alexey Kurakin, Ian Goodfellow, Samy Bengio. Google Brain & OpenAI
 - arxiv: [http://arxiv.org/abs/1607.02533](http://arxiv.org/abs/1607.02533)
 
 ## DeepFool
@@ -608,8 +620,9 @@ which encodes useful class information rather than individual units (feature act
 
 - blog: [http://www.kdnuggets.com/2015/01/deep-learning-flaws-universal-machine-learning.html](http://www.kdnuggets.com/2015/01/deep-learning-flaws-universal-machine-learning.html)
 
-**Deep Learning Adversarial Examples – Clarifying Misconceptions (By Ian Goodfellow (Google))**
+**Deep Learning Adversarial Examples – Clarifying Misconceptions**
 
+- intro: By Ian Goodfellow, Google
 - blog: [http://www.kdnuggets.com/2015/07/deep-learning-adversarial-examples-misconceptions.html](http://www.kdnuggets.com/2015/07/deep-learning-adversarial-examples-misconceptions.html)
 
 **Adversarial Machines: Fooling A.Is (and turn everyone into a Manga)**
@@ -672,10 +685,11 @@ with fast exact probabilistic inference over many layers."
 - arxiv: [http://arxiv.org/abs/1511.07356](http://arxiv.org/abs/1511.07356)
 - github: [https://github.com/SinaHonari/RCN](https://github.com/SinaHonari/RCN)
 
-**Dynamic Capacity Networks (ICML 2016)**
+**Dynamic Capacity Networks**
 
 ![](http://mmbiz.qpic.cn/mmbiz/KmXPKA19gW8YYXeWomd4s4ruu7Jmb3wCMIXYPOgr9KIYzckKoiatgcEhedGnZfDZn40BYIoJMZibibxslEb3uicoibw/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1)
 
+- intro: ICML 2016
 - arxiv: [http://arxiv.org/abs/1511.07838](http://arxiv.org/abs/1511.07838)
 - github(Tensorflow): [https://github.com/beopst/dcn.tf](https://github.com/beopst/dcn.tf)
 - review: [http://www.erogol.com/1314-2/](http://www.erogol.com/1314-2/)
@@ -784,10 +798,11 @@ with fast exact probabilistic inference over many layers."
 
 ## Spatial Transformer Networks
 
-**Spatial Transformer Networks (NIPS 2015)**
+**Spatial Transformer Networks**
 
 ![](https://camo.githubusercontent.com/bb81d6267f2123d59979453526d958a58899bb4f/687474703a2f2f692e696d6775722e636f6d2f4578474456756c2e706e67)
 
+- intro: NIPS 2015
 - arxiv: [http://arxiv.org/abs/1506.02025](http://arxiv.org/abs/1506.02025)
 - gitxiv: [http://gitxiv.com/posts/5WTXTLuEA4Hd8W84G/spatial-transformer-networks](http://gitxiv.com/posts/5WTXTLuEA4Hd8W84G/spatial-transformer-networks)
 - github: [https://github.com/daerduoCarey/SpatialTransformerLayer](https://github.com/daerduoCarey/SpatialTransformerLayer)
@@ -860,8 +875,9 @@ with fast exact probabilistic inference over many layers."
 
 # Deep Learning and Robots
 
-**Robot Learning Manipulation Action Plans by "Watching" Unconstrained Videos from the World Wide Web(AAAI 2015)**
+**Robot Learning Manipulation Action Plans by "Watching" Unconstrained Videos from the World Wide Web**
 
+- intro: AAAI 2015
 - paper: [http://www.umiacs.umd.edu/~yzyang/paper/YouCookMani_CameraReady.pdf](http://www.umiacs.umd.edu/~yzyang/paper/YouCookMani_CameraReady.pdf)
 - author page: [http://www.umiacs.umd.edu/~yzyang/](http://www.umiacs.umd.edu/~yzyang/)
 
@@ -912,6 +928,11 @@ with fast exact probabilistic inference over many layers."
 **Deep Learning Algorithms with Applications to Video Analytics for A Smart City: A Survey**
 
 - arxiv: [http://arxiv.org/abs/1512.03131](http://arxiv.org/abs/1512.03131)
+
+**Deep-Spying: Spying using Smartwatch and Deep Learning**
+
+- arxiv: [http://arxiv.org/abs/1512.05616](http://arxiv.org/abs/1512.05616)
+- github: [https://github.com/tonybeltramelli/Deep-Spying](https://github.com/tonybeltramelli/Deep-Spying)
 
 **Camera identification with deep convolutional networks**
 
@@ -1036,10 +1057,11 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 
 - paper: [http://arxiv.org/abs/1509.05371](http://arxiv.org/abs/1509.05371)
 
-**DEX: Deep EXpectation of apparent age from a single image (ICCV 2015)**
+**DEX: Deep EXpectation of apparent age from a single image**
 
 ![](https://data.vision.ee.ethz.ch/cvl/rrothe/imdb-wiki/static/img/pipeline.png)
 
+- intro: ICCV 2015
 - paper: [https://www.vision.ee.ethz.ch/en/publications/papers/proceedings/eth_biwi_01229.pdf](https://www.vision.ee.ethz.ch/en/publications/papers/proceedings/eth_biwi_01229.pdf)
 - homepage: [https://data.vision.ee.ethz.ch/cvl/rrothe/imdb-wiki/](https://data.vision.ee.ethz.ch/cvl/rrothe/imdb-wiki/)
 
@@ -1062,8 +1084,9 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 
 ## Attribution Prediction
 
-**PANDA: Pose Aligned Networks for Deep Attribute Modeling (Facebook. CVPR 2014)**
+**PANDA: Pose Aligned Networks for Deep Attribute Modeling**
 
+- intro: Facebook. CVPR 2014
 - arxiv: [http://arxiv.org/abs/1311.5591](http://arxiv.org/abs/1311.5591)
 - github: [https://github.com/facebook/pose-aligned-deep-networks](https://github.com/facebook/pose-aligned-deep-networks)
 
@@ -1077,8 +1100,9 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 
 ## Pose Estimation
 
-**DeepPose: Human Pose Estimation via Deep Neural Networks (CVPR 2014)**
+**DeepPose: Human Pose Estimation via Deep Neural Networks**
 
+- intro: CVPR 2014
 - arxiv: [http://arxiv.org/abs/1312.4659](http://arxiv.org/abs/1312.4659)
 - slides: [http://140.122.184.143/paperlinks/Slides/DeepPose_HumanPose_Estimation_via_Deep_Neural_Networks.pptx](http://140.122.184.143/paperlinks/Slides/DeepPose_HumanPose_Estimation_via_Deep_Neural_Networks.pptx)
 
@@ -1112,8 +1136,9 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 - github: [https://github.com/anewell/pose-hg-train](https://github.com/anewell/pose-hg-train)
 - demo: [https://github.com/anewell/pose-hg-demo](https://github.com/anewell/pose-hg-demo)
 
-**Chained Predictions Using Convolutional Neural Networks (EECV 2016)**
+**Chained Predictions Using Convolutional Neural Networks**
 
+- intro: EECV 2016
 - keywords: CNN, structured prediction, RNN, human pose estimation
 - arxiv: [http://arxiv.org/abs/1605.02346](http://arxiv.org/abs/1605.02346)
 
@@ -1176,12 +1201,14 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 
 - paper: [http://www.sciencedirect.com/science/article/pii/S0031320315001259](http://www.sciencedirect.com/science/article/pii/S0031320315001259)
 
-**Cross-scene Crowd Counting via Deep Convolutional Neural Networks (CVPR 2015)**
+**Cross-scene Crowd Counting via Deep Convolutional Neural Networks**
 
+- intro: CVPR 2015
 - paper: [http://www.ee.cuhk.edu.hk/~xgwang/papers/zhangLWYcvpr15.pdf](http://www.ee.cuhk.edu.hk/~xgwang/papers/zhangLWYcvpr15.pdf)
 
-**Single-Image Crowd Counting via Multi-Column Convolutional Neural Network (CVPR 2016)**
+**Single-Image Crowd Counting via Multi-Column Convolutional Neural Network**
 
+- intro: CVPR 2016
 - paper: [http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Zhang_Single-Image_Crowd_Counting_CVPR_2016_paper.pdf](http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Zhang_Single-Image_Crowd_Counting_CVPR_2016_paper.pdf)
 - dataset(pwd: p1rv): [http://pan.baidu.com/s/1gfyNBTh](http://pan.baidu.com/s/1gfyNBTh)
 
@@ -1227,10 +1254,11 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 
 ## Image Reconstruction / Inpainting
 
-**Context Encoders: Feature Learning by Inpainting (CVPR 2016)**
+**Context Encoders: Feature Learning by Inpainting**
 
 ![](http://www.cs.berkeley.edu/~pathak/context_encoder/resources/result_fig.jpg)
 
+- intro: CVPR 2016
 - project page: [http://www.cs.berkeley.edu/~pathak/context_encoder/](http://www.cs.berkeley.edu/~pathak/context_encoder/)
 - arxiv: [https://arxiv.org/abs/1604.07379](https://arxiv.org/abs/1604.07379)
 - github: [https://github.com/pathak22/context-encoder](https://github.com/pathak22/context-encoder)
@@ -1252,10 +1280,11 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 
 ## Image Super-Resolution
 
-**Image Super-Resolution Using Deep Convolutional Networks (Microsoft Research)**
+**Image Super-Resolution Using Deep Convolutional Networks**
 
 ![](http://mmlab.ie.cuhk.edu.hk/projects/SRCNN/img/figure1.png)
 
+- intro: Microsoft Research
 - project page: [http://mmlab.ie.cuhk.edu.hk/projects/SRCNN.html](http://mmlab.ie.cuhk.edu.hk/projects/SRCNN.html)
 - arxiv: [http://arxiv.org/abs/1501.00092](http://arxiv.org/abs/1501.00092)
 - training code: [http://mmlab.ie.cuhk.edu.hk/projects/SRCNN/SRCNN_train.zip](http://mmlab.ie.cuhk.edu.hk/projects/SRCNN/SRCNN_train.zip)
@@ -1429,8 +1458,9 @@ Bicubic VS. Shepard CNN
 - paper: [http://arxiv.org/abs/1409.5185](http://arxiv.org/abs/1409.5185)
 - github: [https://github.com/mbhenaff/spectral-lib](https://github.com/mbhenaff/spectral-lib)
 
-**Deep learning (Nature 2015)**
+**Deep learning**
 
+- intro: Nature 2015
 - author: Yann LeCun, Yoshua Bengio & Geoffrey Hinton
 - paper: [http://www.cs.toronto.edu/~hinton/absps/NatureDeepReview.pdf](http://www.cs.toronto.edu/~hinton/absps/NatureDeepReview.pdf)
 
@@ -1438,8 +1468,9 @@ Bicubic VS. Shepard CNN
 
 - paper: [http://arxiv.org/abs/1509.05009](http://arxiv.org/abs/1509.05009)
 
-**Understanding and Predicting Image Memorability at a Large Scale (MIT. ICCV 2015)**
+**Understanding and Predicting Image Memorability at a Large Scale**
 
+- intro: MIT. ICCV 2015
 - homepage: [http://memorability.csail.mit.edu/](http://memorability.csail.mit.edu/)
 - paper: [https://people.csail.mit.edu/khosla/papers/iccv2015_khosla.pdf](https://people.csail.mit.edu/khosla/papers/iccv2015_khosla.pdf)
 - code: [http://memorability.csail.mit.edu/download.html](http://memorability.csail.mit.edu/download.html)
@@ -1464,11 +1495,6 @@ Bicubic VS. Shepard CNN
 - arxiv: [http://arxiv.org/abs/1601.02970](http://arxiv.org/abs/1601.02970)
 - demo: [http://brainmodels.csail.mit.edu/dnn/drawCNN/](http://brainmodels.csail.mit.edu/dnn/drawCNN/)
 
-**Deep-Spying: Spying using Smartwatch and Deep Learning**
-
-- arxiv: [http://arxiv.org/abs/1512.05616](http://arxiv.org/abs/1512.05616)
-- github: [https://github.com/tonybeltramelli/Deep-Spying](https://github.com/tonybeltramelli/Deep-Spying)
-
 **A Mathematical Theory of Deep Convolutional Neural Networks for Feature Extraction**
 
 - arxiv: [http://arxiv.org/abs/1512.06293](http://arxiv.org/abs/1512.06293)
@@ -1481,10 +1507,11 @@ Bicubic VS. Shepard CNN
 
 - arxiv: [http://arxiv.org/abs/1602.00357](http://arxiv.org/abs/1602.00357)
 
-**Exploiting Cyclic Symmetry in Convolutional Neural Networks (ICML 2016)**
+**Exploiting Cyclic Symmetry in Convolutional Neural Networks**
 
 ![](http://benanne.github.io/images/cyclicroll.png)
 
+- intro: ICML 2016
 - arxiv: [http://arxiv.org/abs/1602.02660](http://arxiv.org/abs/1602.02660)
 - github(Winning solution for the National Data Science Bowl competition on Kaggle (plankton classification)): [https://github.com/benanne/kaggle-ndsb](https://github.com/benanne/kaggle-ndsb)
 - ref(use Cyclic pooling): [http://benanne.github.io/2015/03/17/plankton.html](http://benanne.github.io/2015/03/17/plankton.html)
@@ -1554,6 +1581,8 @@ Bicubic VS. Shepard CNN
 
 - arxiv: [http://arxiv.org/abs/1605.06444](http://arxiv.org/abs/1605.06444)
 
+## FractalNet
+
 **FractalNet: Ultra-Deep Neural Networks without Residuals**
 
 ![](http://people.cs.uchicago.edu/~larsson/fractalnet/overview.png)
@@ -1596,7 +1625,7 @@ Bicubic VS. Shepard CNN
 
 - arxiv: [http://arxiv.org/abs/1206.4812](http://arxiv.org/abs/1206.4812)
 
-**An objective function for STDP(Yoshua Bengio)**
+**An objective function for STDP**
 
 - arxiv: [http://arxiv.org/abs/1509.05936](http://arxiv.org/abs/1509.05936)
 
@@ -1606,7 +1635,7 @@ Bicubic VS. Shepard CNN
 
 ## Target Propagation
 
-**How Auto-Encoders Could Provide Credit Assignment in Deep Networks via Target Propagation (Yoshua Bengio)**
+**How Auto-Encoders Could Provide Credit Assignment in Deep Networks via Target Propagation**
 
 - arxiv: [http://arxiv.org/abs/1407.7906](http://arxiv.org/abs/1407.7906)
 
@@ -1914,20 +1943,23 @@ Compatible with Theano and TensorFlow. Optimized for Twitter.
 
 # Books
 
-**Deep Learning (by Ian Goodfellow, Aaron Courville and Yoshua Bengio)**
+**Deep Learning**
 
+- author: Ian Goodfellow, Aaron Courville and Yoshua Bengio
 - homepage: [http://www.deeplearningbook.org/](http://www.deeplearningbook.org/)
 - website: [http://goodfeli.github.io/dlbook/](http://goodfeli.github.io/dlbook/)
 - notes("Deep Learning for Beginners"): [http://randomekek.github.io/deep/deeplearning.html](http://randomekek.github.io/deep/deeplearning.html)
 
-**Fundamentals of Deep Learning: Designing Next-Generation Artificial Intelligence Algorithms (Nikhil Buduma)**
+**Fundamentals of Deep Learning: Designing Next-Generation Artificial Intelligence Algorithms**
 
+- author: Nikhil Buduma
 - book review: [http://www.opengardensblog.futuretext.com/archives/2015/08/book-review-fundamentals-of-deep-learning-designing-next-generation-artificial-intelligence-algorithms-by-nikhil-buduma.html](http://www.opengardensblog.futuretext.com/archives/2015/08/book-review-fundamentals-of-deep-learning-designing-next-generation-artificial-intelligence-algorithms-by-nikhil-buduma.html)
 - github: [https://github.com/darksigma/Fundamentals-of-Deep-Learning-Book](https://github.com/darksigma/Fundamentals-of-Deep-Learning-Book)
 
-**FIRST CONTACT WITH TENSORFLOW: Get started with with Deep Learning programming (by Jordi Torres)**
+**FIRST CONTACT WITH TENSORFLOW: Get started with with Deep Learning programming**
 
-[http://www.jorditorres.org/first-contact-with-tensorflow/](http://www.jorditorres.org/first-contact-with-tensorflow/)
+- author: Jordi Torres
+- book: [http://www.jorditorres.org/first-contact-with-tensorflow/](http://www.jorditorres.org/first-contact-with-tensorflow/)
 
 **Make Your Own Neural Network: IPython Neural Networks on a Raspberry Pi Zero**
 

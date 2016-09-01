@@ -24,6 +24,7 @@ date: 2015-10-09
 | OHEM                | 78.9%       |             | 76.3%       |             | 25.5%(@[0.5-0.95]), 45.9%(@0.5) | |
 | R-FCN (ResNet-50)   | 77.4%       |             |             |             |             | 0.12sec(K40), 0.09sec(TitianX) |
 | R-FCN (ResNet-101)  | 79.5%       |             |             |             |             | 0.17sec(K40), 0.12sec(TitianX) |
+| R-FCN (ResNet-101),ms | 83.6%     |             | 82.0%       |             | 31.5%(@[0.5-0.95]), 53.2%(@0.5) | 0.17sec(K40), 0.12sec(TitianX) |
 | PVANet 9.0          | 81.8%       |             | 82.5%       |             |             | 750ms(CPU), 46ms(TitianX) |
 
 # Leaderboard
