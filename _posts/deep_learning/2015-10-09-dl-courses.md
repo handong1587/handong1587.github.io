@@ -149,6 +149,10 @@ such as image classification, object detection or text captioning.
 
 - github: [https://github.com/UKPLab/deeplearning4nlp-tutorial/tree/master/2015-10_Lecture](https://github.com/UKPLab/deeplearning4nlp-tutorial/tree/master/2015-10_Lecture)
 
+**Harvard University: CS287: Natural Language Processing**
+
+[http://cs287.fas.harvard.edu/](http://cs287.fas.harvard.edu/)
+
 # Parallel Programming
 
 **Intro to Parallel Programming Using CUDA to Harness the Power of GPUs (Udacity)**

@@ -74,6 +74,10 @@ not just the convolutions)
 
 [https://pseudoprofound.wordpress.com/2016/08/28/notes-on-the-tensorflow-implementation-of-inception-v3/](https://pseudoprofound.wordpress.com/2016/08/28/notes-on-the-tensorflow-implementation-of-inception-v3/)
 
+**Training an InceptionV3-based image classifier with your own dataset**
+
+- github: [https://github.com/danielvarga/keras-finetuning](https://github.com/danielvarga/keras-finetuning)
+
 ## ResNet
 
 ![](/assets/dl_resources/ResNet_CVPR2016_BestPaperAward.jpg)
@@ -115,9 +119,9 @@ not just the convolutions)
 - paper: [http://beta.openreview.net/forum?id=lx9l4r36gU2OVPy8Cv9g](http://beta.openreview.net/forum?id=lx9l4r36gU2OVPy8Cv9g)
 - arxiv: [http://arxiv.org/abs/1603.08029](http://arxiv.org/abs/1603.08029)
 
-## ResNet-V2
+## ResNet-v2
 
-**Identity Mappings in Deep Residual Networks**
+**Identity 89Mappings in Deep Residual Networks**
 
 - intro: ECCV 2016. ResNet-v2
 - arxiv: [http://arxiv.org/abs/1603.05027](http://arxiv.org/abs/1603.05027)
@@ -149,12 +153,14 @@ not just the convolutions)
 
 ## Inception-V4
 
-**Inception-V4, Inception-Resnet And The Impact Of Residual Connections On Learning (Workshop track - ICLR 2016)**
+**Inception-V4, Inception-Resnet And The Impact Of Residual Connections On Learning**
 
+- intro: Workshop track - ICLR 2016
 - intro: "achieve 3.08% top-5 error on the test set of the ImageNet classification (CLS) challenge"
 - arxiv: [http://arxiv.org/abs/1602.07261](http://arxiv.org/abs/1602.07261)
-- paper: [http://beta.openreview.net/pdf?id=q7kqBkL33f8LEkD3t7X9](http://beta.openreview.net/pdf?id=q7kqBkL33f8LEkD3t7X9)
 - github: [https://github.com/lim0606/torch-inception-resnet-v2](https://github.com/lim0606/torch-inception-resnet-v2)
+
+## Inception-ResNet-v2
 
 - - -
 
@@ -327,12 +333,6 @@ Restricted Boltzmann Machine (RBM), Sparse Coding and Auto-encoder
 
 - arxiv: [http://arxiv.org/abs/1603.09246](http://arxiv.org/abs/1603.09246)
 - notes: [http://www.inference.vc/notes-on-unsupervised-learning-of-visual-representations-by-solving-jigsaw-puzzles/](http://www.inference.vc/notes-on-unsupervised-learning-of-visual-representations-by-solving-jigsaw-puzzles/)
-
-## PredNet
-
-**Deep Predictive Coding Networks for Video Prediction and Unsupervised Learning**
-
-- arxiv: [http://arxiv.org/abs/1605.08104](http://arxiv.org/abs/1605.08104)
 
 ## Clustering
 
@@ -1081,6 +1081,14 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 **A Recursive Framework for Expression Recognition: From Web Images to Deep Models to Game Dataset**
 
  -arxiv: [http://arxiv.org/abs/1608.01647](http://arxiv.org/abs/1608.01647)
+
+### EmotioNet
+
+**EmotioNet: EmotioNet: An accurate, real-time algorithm for the automatic annotation of a million facial expressions in the wild**
+
+- intro: CVPR 2016
+- paper: [http://cbcsl.ece.ohio-state.edu/cvpr16.pdf](http://cbcsl.ece.ohio-state.edu/cvpr16.pdf)
+- database: [http://cbcsl.ece.ohio-state.edu/dbform_emotionet.html](http://cbcsl.ece.ohio-state.edu/dbform_emotionet.html)
 
 ## Attribution Prediction
 

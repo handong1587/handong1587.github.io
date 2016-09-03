@@ -490,6 +490,12 @@ for building Deep Learning (DL) machine learning (ML) models
 
 - github: [https://github.com/benoitsteiner/tensorflow-opencl](https://github.com/benoitsteiner/tensorflow-opencl)
 
+**Pretty Tensor: Fluent Networks in TensorFlow**
+
+- github: [https://github.com/google/prettytensor](https://github.com/google/prettytensor)
+- docs: [https://github.com/google/prettytensor/blob/master/docs/pretty_tensor_top_level.md](https://github.com/google/prettytensor/blob/master/docs/pretty_tensor_top_level.md)
+- tutorials: [https://github.com/google/prettytensor/tree/master/prettytensor/tutorial](https://github.com/google/prettytensor/tree/master/prettytensor/tutorial)
+
 # Papers
 
 **TensorFlow: Large-Scale Machine Learning on Heterogeneous Distributed Systems**
@@ -649,6 +655,10 @@ for building Deep Learning (DL) machine learning (ML) models
 **caffegraph: Load Caffe networks in Torch7 using nngraph**
 
 - github: [https://github.com/nhynes/caffegraph](https://github.com/nhynes/caffegraph)
+
+**Torch Video Tutorials**
+
+- github: [https://github.com/Atcold/torch-Video-Tutorials](https://github.com/Atcold/torch-Video-Tutorials)
 
 # VELES
 

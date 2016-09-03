@@ -83,6 +83,10 @@ date: 2015-10-09
 
 - blog: [https://techcrunch.com/2016/08/03/comma-ai-open-sources-the-data-it-used-for-its-first-successful-driverless-trips/](https://techcrunch.com/2016/08/03/comma-ai-open-sources-the-data-it-used-for-its-first-successful-driverless-trips/)
 
+**Autonomous driving challenge: To Infer the property of a dynamic object based on its motion pattern using recurrent neural network**
+
+- arxiv: [http://arxiv.org/abs/1609.00361](http://arxiv.org/abs/1609.00361)
+
 # Projects
 
 **Caffe-Autopilot: Car autopilot software that uses C++, BVLC Caffe, OpenCV, and SFML**

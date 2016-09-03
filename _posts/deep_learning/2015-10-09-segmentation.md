@@ -299,8 +299,8 @@ fine-tune the trained network with more challenging examples later
 
 - intro: Facebook AI Research (FAIR). learning segmentation proposals
 - arxiv: [http://arxiv.org/abs/1506.06204](http://arxiv.org/abs/1506.06204)
-- github: [https://github.com/abbypa/NNProject_DeepMask](https://github.com/abbypa/NNProject_DeepMask)
 - github: [https://github.com/facebookresearch/deepmask](https://github.com/facebookresearch/deepmask)
+- github: [https://github.com/abbypa/NNProject_DeepMask](https://github.com/abbypa/NNProject_DeepMask)
 
 ## SharpMask
 

@@ -188,6 +188,7 @@ date: 2015-10-09
 - arxiv: [http://arxiv.org/abs/1602.01783](http://arxiv.org/abs/1602.01783)
 - github(Tensorflow): [https://github.com/traai/async-deep-rl](https://github.com/traai/async-deep-rl)
 - github(Tensorflow+Keras+OpenAI Gym): [https://github.com/coreylynch/async-rl](https://github.com/coreylynch/async-rl)
+- github(Tensorflow): [https://github.com/devsisters/async-rl-tensorflow](https://github.com/devsisters/async-rl-tensorflow)
 
 **Graying the black box: Understanding DQNs**
 
@@ -249,6 +250,11 @@ date: 2015-10-09
 
 - arxiv: [http://arxiv.org/abs/1606.02396](http://arxiv.org/abs/1606.02396)
 - github: [https://github.com/Ardavans/DSR](https://github.com/Ardavans/DSR)
+
+**Learning to Communicate with Deep Multi-Agent Reinforcement Learning**
+
+- arxiv: [https://arxiv.org/abs/1605.06676](https://arxiv.org/abs/1605.06676)
+- github: [https://github.com/iassael/learning-to-communicate](https://github.com/iassael/learning-to-communicate)
 
 ## RC-NFQ
 

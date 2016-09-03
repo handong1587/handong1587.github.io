@@ -62,6 +62,14 @@ date: 2015-10-09
 - github(TensorFlow): [https://github.com/dyelax/Adversarial_Video_Generation](https://github.com/dyelax/Adversarial_Video_Generation)
 - demo: [http://cs.nyu.edu/~mathieu/iclr2016.html](http://cs.nyu.edu/~mathieu/iclr2016.html)
 
+## PredNet
+
+**Deep Predictive Coding Networks for Video Prediction and Unsupervised Learning**
+
+- project page: [https://coxlab.github.io/prednet/](https://coxlab.github.io/prednet/)
+- arxiv: [http://arxiv.org/abs/1605.08104](http://arxiv.org/abs/1605.08104)
+- github: [https://github.com/coxlab/prednet](https://github.com/coxlab/prednet)
+
 # Video Tagging
 
 **Automatic Image and Video Tagging**

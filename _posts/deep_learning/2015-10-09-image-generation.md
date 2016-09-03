@@ -24,8 +24,9 @@ date: 2015-10-09
 - github: [https://github.com/goodfeli/adversarial](https://github.com/goodfeli/adversarial)
 - github: [https://github.com/aleju/cat-generator](https://github.com/aleju/cat-generator)
 
-**DRAW: A Recurrent Neural Network For Image Generation (Google DeepMind)**
+**DRAW: A Recurrent Neural Network For Image Generation**
 
+- intro: Google DeepMind
 - arxiv: [http://arxiv.org/abs/1502.04623](http://arxiv.org/abs/1502.04623)
 - github: [https://github.com/vivanov879/draw](https://github.com/vivanov879/draw)
 - github(Theano): [https://github.com/jbornschein/draw](https://github.com/jbornschein/draw)
@@ -42,13 +43,6 @@ date: 2015-10-09
 
 - arxiv: [http://arxiv.org/abs/1506.03478](http://arxiv.org/abs/1506.03478)
 - github: [https://github.com/lucastheis/ride/](https://github.com/lucastheis/ride/)
-
-**Deep Generative Image Models using a Laplacian Pyramid of Adversarial Networks(NIPS 2015)**
-
-- arxiv: [http://arxiv.org/abs/1506.05751](http://arxiv.org/abs/1506.05751)
-- code: [http://soumith.ch/eyescream/](http://soumith.ch/eyescream/)
-- project page: [http://soumith.ch/eyescream/](http://soumith.ch/eyescream/)
-- homepage: [http://www.cs.nyu.edu/~denton/](http://www.cs.nyu.edu/~denton/)
 
 **Conditional generative adversarial nets for convolutional face generation**
 
@@ -139,12 +133,13 @@ date: 2015-10-09
 - arxiv: [http://arxiv.org/abs/1504.06787](http://arxiv.org/abs/1504.06787)
 - github: [https://github.com/zhenxuan00/mmdgm](https://github.com/zhenxuan00/mmdgm)
 
-**Deep Generative Image Models using a Laplacian Pyramid of Adversarial Networks (NIPS 2015)**
+**Deep Generative Image Models using a Laplacian Pyramid of Adversarial Networks**
 
-- arxiv: [http://arxiv.org/abs/1506.05751](http://arxiv.org/abs/1506.05751)
-- code: [http://soumith.ch/eyescream/](http://soumith.ch/eyescream/)
+- intro: NIPS 2015
 - project page: [http://soumith.ch/eyescream/](http://soumith.ch/eyescream/)
 - homepage: [http://www.cs.nyu.edu/~denton/](http://www.cs.nyu.edu/~denton/)
+- arxiv: [http://arxiv.org/abs/1506.05751](http://arxiv.org/abs/1506.05751)
+- code: [http://soumith.ch/eyescream/](http://soumith.ch/eyescream/)
 - notes: [http://colinraffel.com/wiki/deep_generative_image_models_using_a_laplacian_pyramid_of_adversarial_networks](http://colinraffel.com/wiki/deep_generative_image_models_using_a_laplacian_pyramid_of_adversarial_networks)
 
 **Unsupervised and Semi-supervised Learning with Categorical Generative Adversarial Networks(CatGAN)**
@@ -180,6 +175,11 @@ date: 2015-10-09
 **One-Shot Generalization in Deep Generative Models (Google DeepMind. ICML 2016)**
 
 - arxiv: [http://arxiv.org/abs/1603.05106](http://arxiv.org/abs/1603.05106)
+
+**Generative Image Modeling using Style and Structure Adversarial Networks**
+
+- arxiv: [http://arxiv.org/abs/1603.05631](http://arxiv.org/abs/1603.05631)
+- github: [https://github.com/xiaolonw/ss-gan](https://github.com/xiaolonw/ss-gan)
 
 **Synthesizing Dynamic Textures and Sounds by Spatial-Temporal Generative ConvNet**
 

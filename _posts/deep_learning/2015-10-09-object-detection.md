@@ -8,14 +8,15 @@ date: 2015-10-09
 | Method              | VOC2007     | VOC2010     | VOC2012     | ILSVRC 2013 | MSCOCO 2015 | Speed       |
 |:-------------------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
 | OverFeat            |             |             |             | 24.3%       |             |             |
-| R-CNN(AlexNet)      | 58.5%       | 53.7%       | 53.3%       | 31.4%       |             |             |
-| R-CNN               | 59.2%(ZFNet), 66.0%(VGG16) | |          |             |             |             |
+| R-CNN (AlexNet)     | 58.5%       | 53.7%       | 53.3%       | 31.4%       |             |             |
+| R-CNN (VGG16)       | 66.0%       |             |             |             |             |             |
 | SPP_net(ZF-5)       | 54.2%(1-model), 60.9%(2-model) | | |31.84%(1-model), 35.11%(6-model) |            |
 | DeepID-Net          | 64.1%       |             |             | 50.3%       |             |             |
 | NoC                 | 73.3%       |             | 68.8%       |             |             |             |
 | Fast-RCNN (VGG16)   | 70.0%       | 68.8%       | 68.4%       |             | 19.7%(@[0.5-0.95]), 35.9%(@0.5) | |
 | MR-CNN              | 78.2%       |             | 73.9%       |             |             |             |
 | Faster-RCNN (VGG16) | 78.8%       |             | 75.9%       |             | 21.9%(@[0.5-0.95]), 42.7%(@0.5) | 198ms |
+| Faster-RCNN (ResNet-101) | 85.6%  |             | 83.8%       |             | 37.4%(@[0.5-0.95]), 59.0%(@0.5) | |
 | SSD300 (VGG16)      | 72.1%       |             |             |             |             | 58 fps      |
 | SSD500 (VGG16)      | 75.1%       |             |             |             |             | 23 fps      |
 | ION                 | 79.2%       |             | 76.4%       |             |             |             |
@@ -24,7 +25,7 @@ date: 2015-10-09
 | OHEM                | 78.9%       |             | 76.3%       |             | 25.5%(@[0.5-0.95]), 45.9%(@0.5) | |
 | R-FCN (ResNet-50)   | 77.4%       |             |             |             |             | 0.12sec(K40), 0.09sec(TitianX) |
 | R-FCN (ResNet-101)  | 79.5%       |             |             |             |             | 0.17sec(K40), 0.12sec(TitianX) |
-| R-FCN (ResNet-101),ms | 83.6%     |             | 82.0%       |             | 31.5%(@[0.5-0.95]), 53.2%(@0.5) | 0.17sec(K40), 0.12sec(TitianX) |
+| R-FCN (ResNet-101),multi sc train | 83.6% |     | 82.0%       |             | 31.5%(@[0.5-0.95]), 53.2%(@0.5) | |
 | PVANet 9.0          | 81.8%       |             | 82.5%       |             |             | 750ms(CPU), 46ms(TitianX) |
 
 # Leaderboard
@@ -114,9 +115,11 @@ topmost feature map after knowing the confidences of the underlying object categ
 - arxiv: [https://arxiv.org/abs/1502.04275](https://arxiv.org/abs/1502.04275)
 - github: [https://github.com/YknZhu/segDeepM](https://github.com/YknZhu/segDeepM)
 
+## NoC
+
 **Object Detection Networks on Convolutional Feature Maps**
 
-- intro: NoC
+- intro: TPAMI 2015
 - arxiv: [http://arxiv.org/abs/1504.06066](http://arxiv.org/abs/1504.06066)
 
 **Improving Object Detection with Deep Convolutional Networks via Bayesian Optimization and Structured Prediction**
@@ -135,7 +138,6 @@ topmost feature map after knowing the confidences of the underlying object categ
 - webcam demo: [https://github.com/rbgirshick/fast-rcnn/pull/29](https://github.com/rbgirshick/fast-rcnn/pull/29)
 - notes: [http://zhangliliang.com/2015/05/17/paper-note-fast-rcnn/](http://zhangliliang.com/2015/05/17/paper-note-fast-rcnn/)
 - notes: [http://blog.csdn.net/linj_m/article/details/48930179](http://blog.csdn.net/linj_m/article/details/48930179)
-- github("Train Fast-RCNN on Another Dataset"): [https://github.com/zeyuanxy/fast-rcnn/tree/master/help/train](https://github.com/zeyuanxy/fast-rcnn/tree/master/help/train)
 - github("Fast R-CNN in MXNet"): [https://github.com/precedenceguo/mx-rcnn](https://github.com/precedenceguo/mx-rcnn)
 - github: [https://github.com/mahyarnajibi/fast-rcnn-torch](https://github.com/mahyarnajibi/fast-rcnn-torch)
 - github: [https://github.com/apple2373/chainer-simple-fast-rnn](https://github.com/apple2373/chainer-simple-fast-rnn)
@@ -281,6 +283,8 @@ and 1.15s per image with it".
 **HyperNet: Towards Accurate Region Proposal Generation and Joint Object Detection**
 
 - arxiv: [http://arxiv.org/abs/1604.00600](http://arxiv.org/abs/1604.00600)
+
+## MultiPathNet
 
 **A MultiPath Network for Object Detection**
 
@@ -802,3 +806,8 @@ We additionally provide an implementation of the [ReInspect](https://github.com/
 **讲堂干货No.3｜黄畅－基于DenesBox的目标检测在自动驾驶中的应用**
 
 [https://mp.weixin.qq.com/s?__biz=MzA5MjM0MDQ1NA==&mid=2650010895&idx=4&sn=6695376866bdbd7ffa0907c016fee70a](https://mp.weixin.qq.com/s?__biz=MzA5MjM0MDQ1NA==&mid=2650010895&idx=4&sn=6695376866bdbd7ffa0907c016fee70a)
+
+**Analyzing The Papers Behind Facebook's Computer Vision Approach**
+
+- keywords: DeepMask, SharpMask, MultiPathNet
+- blog: [https://adeshpande3.github.io/adeshpande3.github.io/Analyzing-the-Papers-Behind-Facebook's-Computer-Vision-Approach/](https://adeshpande3.github.io/adeshpande3.github.io/Analyzing-the-Papers-Behind-Facebook's-Computer-Vision-Approach/)

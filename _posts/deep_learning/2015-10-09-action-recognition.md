@@ -166,6 +166,10 @@ extract saptio-temporal features to represent the video using the CNNs."
 
 - arxiv: [http://arxiv.org/abs/1510.03979](http://arxiv.org/abs/1510.03979)
 
+**Transferring Object-Scene Convolutional Neural Networks for Event Recognition in Still Images**
+
+- arxiv: [http://arxiv.org/abs/1609.00162](http://arxiv.org/abs/1609.00162)
+
 # Event Detection
 
 **Devnet: A deep event network for multimedia event detection and evidence recounting**

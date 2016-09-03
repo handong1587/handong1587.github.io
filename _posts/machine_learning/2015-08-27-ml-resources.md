@@ -305,7 +305,18 @@ Other awesome lists can be found in this [list](https://github.com/sindresorhus/
 
 - arxiv: [http://arxiv.org/abs/1603.07292](http://arxiv.org/abs/1603.07292)
 
-# Tackle Unbalanced Datasets
+# Tackle Unbalanced Classes
+
+**Dealing with Unbalanced Classes ,Svm, Random Forests And Decision Trees In Python**
+
+![](http://www.bigdataexaminer.com/wp-content/uploads/2015/02/unbalanced01.jpg)
+
+- blog: [http://bigdataexaminer.com/data-science/dealing-with-unbalanced-classes-svm-random-forests-and-decision-trees-in-python/](http://bigdataexaminer.com/data-science/dealing-with-unbalanced-classes-svm-random-forests-and-decision-trees-in-python/)
+- blog: [http://www.kdnuggets.com/2016/04/unbalanced-classes-svm-random-forests-python.html](http://www.kdnuggets.com/2016/04/unbalanced-classes-svm-random-forests-python.html)
+
+**Fighting Class Unbalance Supervised ML Problem**
+
+[http://www.erogol.com/fighting-class-unbalance-supervised-ml-problem/](http://www.erogol.com/fighting-class-unbalance-supervised-ml-problem/)
 
 **Survey of resampling techniques for improving classification performance in unbalanced datasets**
 
@@ -316,6 +327,11 @@ Other awesome lists can be found in this [list](https://github.com/sindresorhus/
 ![](http://www.svds.com/wp-content/uploads/2016/08/ImbalancedClasses_fig5.jpg)
 
 - blog: [http://www.svds.com/learning-imbalanced-classes/](http://www.svds.com/learning-imbalanced-classes/)
+
+**Towards Competitive Classifiers for Unbalanced Classification Problems: A Study on the Performance Scores**
+
+- arxiv: [http://arxiv.org/abs/1608.08984](http://arxiv.org/abs/1608.08984)
+- github: [https://github.com/jonathanSS/ClassImbalanceStudies](https://github.com/jonathanSS/ClassImbalanceStudies)
 
 # Deep What?
 
@@ -587,13 +603,6 @@ including all the relevant classifiers available today
 
 [http://nbviewer.jupyter.org/github/etpinard/plotly-misc-nbs/blob/master/ml-classifier-comp/ml-classifier-comp.ipynb](http://nbviewer.jupyter.org/github/etpinard/plotly-misc-nbs/blob/master/ml-classifier-comp/ml-classifier-comp.ipynb)
 
-**Dealing with Unbalanced Classes ,Svm, Random Forests And Decision Trees In Python**
-
-![](http://www.bigdataexaminer.com/wp-content/uploads/2015/02/unbalanced01.jpg)
-
-- blog: [http://bigdataexaminer.com/data-science/dealing-with-unbalanced-classes-svm-random-forests-and-decision-trees-in-python/](http://bigdataexaminer.com/data-science/dealing-with-unbalanced-classes-svm-random-forests-and-decision-trees-in-python/)
-- blog: [http://www.kdnuggets.com/2016/04/unbalanced-classes-svm-random-forests-python.html](http://www.kdnuggets.com/2016/04/unbalanced-classes-svm-random-forests-python.html)
-
 **Fitting a model via closed-form equations vs. Gradient Descent vs Stochastic Gradient Descent vs Mini-Batch Learning. What is the difference?**
 
 ![](https://raw.githubusercontent.com/rasbt/python-machine-learning-book/master/faq/closed-form-vs-gd/simple_regression.png)
@@ -603,10 +612,6 @@ including all the relevant classifiers available today
 **A Friendly Introduction to Cross-Entropy Loss**
 
 [https://rdipietro.github.io/friendly-intro-to-cross-entropy-loss/](https://rdipietro.github.io/friendly-intro-to-cross-entropy-loss/)
-
-**Fighting Class Unbalance Supervised ML Problem**
-
-[http://www.erogol.com/fighting-class-unbalance-supervised-ml-problem/](http://www.erogol.com/fighting-class-unbalance-supervised-ml-problem/)
 
 **How Kalman Filters Work**
 

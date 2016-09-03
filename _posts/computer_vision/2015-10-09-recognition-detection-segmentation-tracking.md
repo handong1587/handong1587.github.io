@@ -157,6 +157,10 @@ slides: [http://host.robots.ox.ac.uk/pascal/VOC/voc2012/workshop/Towards_VOC2012
 using a large number of the existing object proposal approaches.
 - github: [https://github.com/batra-mlp-lab/object-proposals](https://github.com/batra-mlp-lab/object-proposals)
 
+**Segmentation Free Object Discovery in Video**
+
+- arxiv: [http://arxiv.org/abs/1609.00221](http://arxiv.org/abs/1609.00221)
+
 # Segmentation
 
 **Graph Based Image Segmentation**
