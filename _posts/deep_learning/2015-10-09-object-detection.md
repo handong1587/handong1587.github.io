@@ -786,28 +786,11 @@ We additionally provide an implementation of the [ReInspect](https://github.com/
 
 - blog: [https://devblogs.nvidia.com/parallelforall/deep-learning-object-detection-digits/](https://devblogs.nvidia.com/parallelforall/deep-learning-object-detection-digits/)
 
-**CVPR 2016论文快讯：目标检测领域的新进展**
-
-[http://mp.weixin.qq.com/s?__biz=MzI1NTE4NTUwOQ==&mid=2650325043&idx=1&sn=bd016d98a40e8cf7d53ee674f201b4a7#rd](http://mp.weixin.qq.com/s?__biz=MzI1NTE4NTUwOQ==&mid=2650325043&idx=1&sn=bd016d98a40e8cf7d53ee674f201b4a7#rd)
-
-**CVPR研讨会 余凯特邀报告：基于密集预测图的物体检测技术造就全球领先的ADAS系统**
-
-- intro: DenseBox(V2)
-- blog: [https://mp.weixin.qq.com/s?__biz=MzI4ODAyNjU3MQ==&mid=2649827746&idx=1&sn=aa66524f964ac87d7437fc7b162f95a6&scene=1&srcid=0704uqAhpgy2fZQecXXLu6VN&pass_ticket=V7q2djnsZpyMQSJrOri0pR%2Bd%2Fi063dE5bK3kRigh1vPo%2B9yRU0Xm7cRvRNbzVgqF#rd](https://mp.weixin.qq.com/s?__biz=MzI4ODAyNjU3MQ==&mid=2649827746&idx=1&sn=aa66524f964ac87d7437fc7b162f95a6&scene=1&srcid=0704uqAhpgy2fZQecXXLu6VN&pass_ticket=V7q2djnsZpyMQSJrOri0pR%2Bd%2Fi063dE5bK3kRigh1vPo%2B9yRU0Xm7cRvRNbzVgqF#rd)
-
-**讲堂干货No.1｜山世光－基于深度学习的目标检测技术进展与展望**
-
-[https://mp.weixin.qq.com/s?__biz=MzA5MjM0MDQ1NA==&mid=2650010895&idx=2&sn=2db3a20e0ff92be55b7e2f2929040f5d](https://mp.weixin.qq.com/s?__biz=MzA5MjM0MDQ1NA==&mid=2650010895&idx=2&sn=2db3a20e0ff92be55b7e2f2929040f5d)
-
-**讲堂干货No.2｜邬书哲－物体检测算法的革新与传承**
-
-[https://mp.weixin.qq.com/s?__biz=MzA5MjM0MDQ1NA==&mid=2650010895&idx=3&sn=d5ba43e4c96cf7585356c6e7e12c19e2](https://mp.weixin.qq.com/s?__biz=MzA5MjM0MDQ1NA==&mid=2650010895&idx=3&sn=d5ba43e4c96cf7585356c6e7e12c19e2)
-
-**讲堂干货No.3｜黄畅－基于DenesBox的目标检测在自动驾驶中的应用**
-
-[https://mp.weixin.qq.com/s?__biz=MzA5MjM0MDQ1NA==&mid=2650010895&idx=4&sn=6695376866bdbd7ffa0907c016fee70a](https://mp.weixin.qq.com/s?__biz=MzA5MjM0MDQ1NA==&mid=2650010895&idx=4&sn=6695376866bdbd7ffa0907c016fee70a)
-
 **Analyzing The Papers Behind Facebook's Computer Vision Approach**
 
 - keywords: DeepMask, SharpMask, MultiPathNet
 - blog: [https://adeshpande3.github.io/adeshpande3.github.io/Analyzing-the-Papers-Behind-Facebook's-Computer-Vision-Approach/](https://adeshpande3.github.io/adeshpande3.github.io/Analyzing-the-Papers-Behind-Facebook's-Computer-Vision-Approach/)
+
+**Tutorials: Plotting AP and ROC curves**
+
+[http://www.vlfeat.org/overview/plots-rank.html](http://www.vlfeat.org/overview/plots-rank.html)

@@ -47,6 +47,10 @@ date: 2015-10-09
 - keywords: LSTM, movie recommendation
 - arixv: [http://arxiv.org/abs/1608.07400](http://arxiv.org/abs/1608.07400)
 
+**Deep Neural Networks for YouTube Recommendations**
+
+- paper: [http://static.googleusercontent.com/media/research.google.com/en//pubs/archive/45530.pdf](http://static.googleusercontent.com/media/research.google.com/en//pubs/archive/45530.pdf)
+
 # Slides
 
 **Deep learning for music recommendation**
