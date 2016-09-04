@@ -2,7 +2,7 @@ alleviate training complexity
 
 ameliorate this problem
 
-address this issue
+address/mitigate/remedy this issue
 
 overcome such limitations
 

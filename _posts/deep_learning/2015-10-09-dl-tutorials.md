@@ -265,6 +265,10 @@ date: 2015-10-09
 
 - blog: [https://medium.com/artifacia/learn-deep-learning-the-hard-way-e5d844f9fbc1#.yitf25xg5](https://medium.com/artifacia/learn-deep-learning-the-hard-way-e5d844f9fbc1#.yitf25xg5)
 
+**A Complete Guide on Getting Started with Deep Learning in Python**
+
+- blog: [https://www.analyticsvidhya.com/blog/2016/08/deep-learning-path/](https://www.analyticsvidhya.com/blog/2016/08/deep-learning-path/)
+
 ## Convolution
 
 ![](/assets/cnn-materials/conv.jpg)

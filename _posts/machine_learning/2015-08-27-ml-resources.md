@@ -307,6 +307,11 @@ Other awesome lists can be found in this [list](https://github.com/sindresorhus/
 
 # Tackle Unbalanced Classes
 
+Classic strategies:
+
+1. class re-sampling
+2. cost-sensitive training
+
 **Dealing with Unbalanced Classes ,Svm, Random Forests And Decision Trees In Python**
 
 ![](http://www.bigdataexaminer.com/wp-content/uploads/2015/02/unbalanced01.jpg)

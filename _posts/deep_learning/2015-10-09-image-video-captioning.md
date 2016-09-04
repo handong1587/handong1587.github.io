@@ -232,6 +232,10 @@ after the embedding and recurrent layers of the RNN."
 - intro: ACCV 2016
 - arxiv: [http://arxiv.org/abs/1608.05813](http://arxiv.org/abs/1608.05813)
 
+**Learning to generalize to new compositions in image understanding**
+
+- arxiv: [http://arxiv.org/abs/1608.07639](http://arxiv.org/abs/1608.07639)
+
 # Projects
 
 **Learning CNN-LSTM Architectures for Image Caption Generation: An implementation of CNN-LSTM image caption generator architecture that achieves close to state-of-the-art results on the MSCOCO dataset.**

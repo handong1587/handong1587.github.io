@@ -622,6 +622,10 @@ The size of their dataset is, however, limited by the availability of domain-spe
 Given a sample represented as a sequence of strokes, the parser is able to convert it to LaTeX or other formats like InkML or MathML.
 - github: [https://github.com/falvaro/seshat](https://github.com/falvaro/seshat)
 
+**Awesome OCR: Links to awesome OCR projects**
+
+- github: [https://github.com/kba/awesome-ocr](https://github.com/kba/awesome-ocr)
+
 **【OCR/机器学习/搜索引擎】基于 Tesseract的图文识别搜**
 
 - github: [https://github.com/daijiale/OCR_FontsSearchEngine](https://github.com/daijiale/OCR_FontsSearchEngine)

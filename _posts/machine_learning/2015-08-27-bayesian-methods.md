@@ -19,8 +19,9 @@ date: 2015-08-27
 - github: [https://github.com/JasperSnoek/spearmint](https://github.com/JasperSnoek/spearmint)
 - github: [https://github.com/HIPS/Spearmint](https://github.com/HIPS/Spearmint)
 
-**Bayesian Face Revisited: A Joint Formulation(ECCV2012)**
+**Bayesian Face Revisited: A Joint Formulation**
 
+- intro: ECCV 2012
 - paper: [http://research.microsoft.com/en-us/um/people/jiansun/papers/ECCV12_BayesianFace.pdf](http://research.microsoft.com/en-us/um/people/jiansun/papers/ECCV12_BayesianFace.pdf)
 - github: [https://github.com/MaoXu/Joint_Bayesian/](https://github.com/MaoXu/Joint_Bayesian/)
 - github: [https://github.com/cyh24/Joint-Bayesian](https://github.com/cyh24/Joint-Bayesian)
@@ -40,8 +41,9 @@ date: 2015-08-27
 
 - paper: [http://homepages.inf.ed.ac.uk/rbf/CVonline/LOCAL_COPIES/AV0809/eshky.pdf](http://homepages.inf.ed.ac.uk/rbf/CVonline/LOCAL_COPIES/AV0809/eshky.pdf)
 
-**A Tutorial on Bayesian Belief Networks (2001)**
+**A Tutorial on Bayesian Belief Networks**
 
+- intro: 2001
 - paper: [http://dspace.dsto.defence.gov.au/dspace/bitstream/1947/3537/1/DSTO-TN-0403.pdf](http://dspace.dsto.defence.gov.au/dspace/bitstream/1947/3537/1/DSTO-TN-0403.pdf)
 - paper: [http://pan.baidu.com/s/1eQNtUxW](http://pan.baidu.com/s/1eQNtUxW)
 
@@ -86,6 +88,15 @@ date: 2015-08-27
 - intro: webppl is a small but feature-rich probabilistic programming language embedded in Javascript.
 - homepage: [http://webppl.org/](http://webppl.org/)
 - github: [https://github.com/probmods/webppl](https://github.com/probmods/webppl)
+
+**Probabilistic Data Analysis with Probabilistic Programming**
+
+- intro: MIT
+- arxiv: [http://arxiv.org/abs/1608.05347](http://arxiv.org/abs/1608.05347)
+
+**The Design and Implementation of Probabilistic Programming Languages**
+
+- book: [http://dippl.org/](http://dippl.org/)
 
 # Books
 

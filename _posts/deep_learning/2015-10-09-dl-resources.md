@@ -1589,6 +1589,16 @@ Bicubic VS. Shepard CNN
 
 - arxiv: [http://arxiv.org/abs/1605.06444](http://arxiv.org/abs/1605.06444)
 
+**Learning Deep Representation for Imbalanced Classification**
+
+![](http://mmlab.ie.cuhk.edu.hk/projects/LMLE/method.png)
+
+- intro: CVPR 2016
+- keywords: Deep Learning Large Margin Local Embedding (LMLE)
+- project page: [http://mmlab.ie.cuhk.edu.hk/projects/LMLE.html](http://mmlab.ie.cuhk.edu.hk/projects/LMLE.html)
+- paper: [http://personal.ie.cuhk.edu.hk/~ccloy/files/cvpr_2016_imbalanced.pdf](http://personal.ie.cuhk.edu.hk/~ccloy/files/cvpr_2016_imbalanced.pdf)
+- code: [http://mmlab.ie.cuhk.edu.hk/projects/LMLE/lmle_code.zip](http://mmlab.ie.cuhk.edu.hk/projects/LMLE/lmle_code.zip)
+
 ## FractalNet
 
 **FractalNet: Ultra-Deep Neural Networks without Residuals**
