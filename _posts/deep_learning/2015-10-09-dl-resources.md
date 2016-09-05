@@ -1025,6 +1025,10 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 - paper: [https://www.usenix.org/conference/usenixsecurity16/technical-sessions/presentation/melicher](https://www.usenix.org/conference/usenixsecurity16/technical-sessions/presentation/melicher)
 - github: [https://github.com/cupslab/neural_network_cracking](https://github.com/cupslab/neural_network_cracking)
 
+**Defeating Image Obfuscation with Deep Learning**
+
+- arxiv: [http://arxiv.org/abs/1609.00408](http://arxiv.org/abs/1609.00408)
+
 ## Age Estimation
 
 **Deeply-Learned Feature for Age Estimation**

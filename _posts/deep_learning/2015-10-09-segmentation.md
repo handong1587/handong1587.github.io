@@ -246,6 +246,11 @@ fine-tune the trained network with more challenging examples later
 - intro: ECCV 2016
 - arxiv: [http://arxiv.org/abs/1607.07671](http://arxiv.org/abs/1607.07671)
 
+**Built-in Foreground/Background Prior for Weakly-Supervised Semantic Segmentation**
+
+- intro: ECCV 2016
+- arxiv: [http://arxiv.org/abs/1609.00446](http://arxiv.org/abs/1609.00446)
+
 # Instance Segmentation
 
 **Simultaneous Detection and Segmentation**
