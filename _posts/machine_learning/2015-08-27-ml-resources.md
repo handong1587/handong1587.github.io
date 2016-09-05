@@ -392,6 +392,15 @@ Classic strategies:
 
 - paper: [https://people.maths.ox.ac.uk/gilesm/files/NA-08-01.pdf](https://people.maths.ox.ac.uk/gilesm/files/NA-08-01.pdf)
 
+**Probability Cheatsheet**
+
+- homepage: [http://www.wzchen.com/probability-cheatsheet](http://www.wzchen.com/probability-cheatsheet)
+- github: [https://github.com/wzchen/probability_cheatsheet](https://github.com/wzchen/probability_cheatsheet)
+
+**Probability Cheatsheet v2.0**
+
+[http://static1.squarespace.com/static/54bf3241e4b0f0d81bf7ff36/t/55e9494fe4b011aed10e48e5/1441352015658/probability_cheatsheet.pdf](http://static1.squarespace.com/static/54bf3241e4b0f0d81bf7ff36/t/55e9494fe4b011aed10e48e5/1441352015658/probability_cheatsheet.pdf)
+
 # L-BFGS
 
 # Code Stylometry

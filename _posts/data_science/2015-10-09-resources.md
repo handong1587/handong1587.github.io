@@ -46,6 +46,10 @@ date: 2015-10-09
 
 - homepage: [http://jtleek.com/advdatasci/](http://jtleek.com/advdatasci/)
 
+**Data Science From data to knowledge (September 12 to 14, 2016)**
+
+[http://data-science-ce-course.tk/](http://data-science-ce-course.tk/)
+
 # Tools
 
 **Provision the Linux Data Science Virtual Machine**

@@ -1020,6 +1020,11 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 
 - arxiv: [http://arxiv.org/abs/1608.05137](http://arxiv.org/abs/1608.05137)
 
+**Fast, Lean, and Accurate: Modeling Password Guessability Using Neural Networks**
+
+- paper: [https://www.usenix.org/conference/usenixsecurity16/technical-sessions/presentation/melicher](https://www.usenix.org/conference/usenixsecurity16/technical-sessions/presentation/melicher)
+- github: [https://github.com/cupslab/neural_network_cracking](https://github.com/cupslab/neural_network_cracking)
+
 ## Age Estimation
 
 **Deeply-Learned Feature for Age Estimation**
@@ -1317,7 +1322,9 @@ Bicubic VS. Shepard CNN
 
 **Deeply-Recursive Convolutional Network for Image Super-Resolution**
 
+- intro: CVPR 2016
 - arxiv: [http://arxiv.org/abs/1511.04491](http://arxiv.org/abs/1511.04491)
+- paper: [http://cv.snu.ac.kr/publication/conf/2016/DRCN_CVPR2016.pdf](http://cv.snu.ac.kr/publication/conf/2016/DRCN_CVPR2016.pdf)
 
 **Accurate Image Super-Resolution Using Very Deep Convolutional Networks**
 
@@ -1445,9 +1452,15 @@ Bicubic VS. Shepard CNN
 - arxiv: [https://arxiv.org/abs/1606.00298](https://arxiv.org/abs/1606.00298)
 - github: [https://github.com/keunwoochoi/music-auto_tagging-keras](https://github.com/keunwoochoi/music-auto_tagging-keras)
 
-# Deep Learning’s Accuracy
+# Benchmarks
+
+**Deep Learning’s Accuracy**
 
 - blog: [http://deeplearning4j.org/accuracy.html](http://deeplearning4j.org/accuracy.html)
+
+**Benchmarks for popular CNN models**
+
+[https://github.com/jcjohnson/cnn-benchmarks](https://github.com/jcjohnson/cnn-benchmarks)
 
 # Papers
 

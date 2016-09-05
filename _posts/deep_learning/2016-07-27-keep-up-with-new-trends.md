@@ -18,7 +18,9 @@ date: 2016-07-27
 
 [https://vkrakovna.wordpress.com/2016/08/25/highlights-from-the-deep-learning-summer-school-part-1/](https://vkrakovna.wordpress.com/2016/08/25/highlights-from-the-deep-learning-summer-school-part-1/)
 
-**10 Papers from ICML and CVPR**
+**What I learned from Deep Learning Summer School 2016**
+
+[https://www.linkedin.com/pulse/what-i-learned-from-deep-learning-summer-school-2016-hamid-palangi](https://www.linkedin.com/pulse/what-i-learned-from-deep-learning-summer-school-2016-hamid-palangi)
 
 # ICML 2016
 

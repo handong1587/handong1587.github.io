@@ -399,6 +399,11 @@ The project is dedicated to hero in life great Jesse Livermore.
 - intro: Reinforcement learning framework integrated with deeplearning4j.
 - github: [https://github.com/deeplearning4j/rl4j](https://github.com/deeplearning4j/rl4j)
 
+**Teaching Your Computer To Play Super Mario Bros. – A Fork of the Google DeepMind Atari Machine Learning Project**
+
+- blog: [http://www.ehrenbrav.com/2016/08/teaching-your-computer-to-play-super-mario-bros-a-fork-of-the-google-deepmind-atari-machine-learning-project/](http://www.ehrenbrav.com/2016/08/teaching-your-computer-to-play-super-mario-bros-a-fork-of-the-google-deepmind-atari-machine-learning-project/)
+- github: [https://github.com/ehrenbrav/DeepQNetwork](https://github.com/ehrenbrav/DeepQNetwork)
+
 # Library
 
 **BURLAP: Brown-UMBC Reinforcement Learning and Planning (BURLAP) java code library**
