@@ -496,7 +496,13 @@ for building Deep Learning (DL) machine learning (ML) models
 - docs: [https://github.com/google/prettytensor/blob/master/docs/pretty_tensor_top_level.md](https://github.com/google/prettytensor/blob/master/docs/pretty_tensor_top_level.md)
 - tutorials: [https://github.com/google/prettytensor/tree/master/prettytensor/tutorial](https://github.com/google/prettytensor/tree/master/prettytensor/tutorial)
 
-# Papers
+**Tensorflow Projects: Deep learning using tensorflow**
+
+- intro: A repo of everything deep and neurally related. 
+Implementations and ideas are largely based on papers from arxiv and implementations, tutorials from the internet.
+- github: [https://github.com/shekkizh/TensorflowProjects](https://github.com/shekkizh/TensorflowProjects)
+
+## Papers
 
 **TensorFlow: Large-Scale Machine Learning on Heterogeneous Distributed Systems**
 
@@ -655,6 +661,12 @@ for building Deep Learning (DL) machine learning (ML) models
 **caffegraph: Load Caffe networks in Torch7 using nngraph**
 
 - github: [https://github.com/nhynes/caffegraph](https://github.com/nhynes/caffegraph)
+
+**Optimized-Torch: Intel Torch is dedicated to improving Torch performance when running on CPU**
+
+- intro: Intel Torch gets 4.66x speedup using the convnet-benchmarks which includes AlexNet,VGG-E,GoogLenet,ResidualNet
+- github: [https://github.com/xhzhao/optimized-torch](https://github.com/xhzhao/optimized-torch)
+- benchmark: [https://github.com/xhzhao/Optimized-Torch-benchmark](https://github.com/xhzhao/Optimized-Torch-benchmark)
 
 **Torch Video Tutorials**
 

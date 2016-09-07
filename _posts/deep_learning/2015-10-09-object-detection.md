@@ -512,6 +512,10 @@ This task involves predicting the salient regions of an image given by human eye
 
 - arxiv: [http://arxiv.org/abs/1608.08029](http://arxiv.org/abs/1608.08029)
 
+**A Deep Multi-Level Network for Saliency Prediction**
+
+- arxiv: [http://arxiv.org/abs/1609.01064](http://arxiv.org/abs/1609.01064)
+
 # Specific Object Deteciton
 
 ## Face Deteciton
@@ -664,11 +668,15 @@ This task involves predicting the salient regions of an image given by human eye
 - intro: ECCV 2016
 - arxiv: [http://arxiv.org/abs/1608.02755](http://arxiv.org/abs/1608.02755)
 
-## Abnormality Detection
+## Abnormality / Anomaly Detection
 
 **Toward a Taxonomy and Computational Models of Abnormalities in Images**
 
 - arxiv: [http://arxiv.org/abs/1512.01325](http://arxiv.org/abs/1512.01325)
+
+**Fully Convolutional Neural Network for Fast Anomaly Detection in Crowded Scenes**
+
+- arxiv: [http://arxiv.org/abs/1609.00866](http://arxiv.org/abs/1609.00866)
 
 ## Skeleton Detection
 

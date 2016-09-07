@@ -83,3 +83,11 @@ date: 2015-08-27
 ![](https://svbtleusercontent.com/9jiwlvibugesq.png)
 
 - blog: [https://drsimonj.svbtle.com/visualising-residuals](https://drsimonj.svbtle.com/visualising-residuals)
+
+**Logistic Regression in Tensorflow with SMOTE**
+
+- blog: [http://aqibsaeed.github.io/2016-08-10-logistic-regression-tf/](http://aqibsaeed.github.io/2016-08-10-logistic-regression-tf/)
+
+**Evaluating Regularization and Optimization Algorithms for Logistic Regression on Spam Classification**
+
+- arxiv: [http://rnowling.github.io/data/science/2016/09/04/comparing-lr-regularization-and-optimizers.html](http://rnowling.github.io/data/science/2016/09/04/comparing-lr-regularization-and-optimizers.html)

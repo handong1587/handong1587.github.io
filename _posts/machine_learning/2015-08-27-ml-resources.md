@@ -103,6 +103,11 @@ Other awesome lists can be found in this [list](https://github.com/sindresorhus/
 
 - blog: [https://arogozhnikov.github.io/2016/06/24/gradient_boosting_explained.html]()https://arogozhnikov.github.io/2016/06/24/gradient_boosting_explained.html
 
+**Complete Guide to Parameter Tuning in XGBoost (with codes in Python)**
+
+- blog: [https://www.analyticsvidhya.com/blog/2016/03/complete-guide-parameter-tuning-xgboost-with-codes-python/](https://www.analyticsvidhya.com/blog/2016/03/complete-guide-parameter-tuning-xgboost-with-codes-python/)
+- zh-blog: [http://blog.csdn.net/u010657489/article/details/51952785](http://blog.csdn.net/u010657489/article/details/51952785)
+
 # Bootstrap
 
 **Coding, Visualizing, and Animating Bootstrap Resampling**
@@ -273,6 +278,13 @@ Other awesome lists can be found in this [list](https://github.com/sindresorhus/
 - author: Leon Bottou
 - intro: SGD, ASGD, Stochastic Gradient SVM, Stochastic Gradient CRFs
 - homepage: [http://leon.bottou.org/projects/sgd](http://leon.bottou.org/projects/sgd)
+
+# Boosted Regression Trees
+
+**DART: Dropouts meet Multiple Additive Regression Trees**
+
+- paper: [http://www.jmlr.org/proceedings/papers/v38/korlakaivinayak15.html](http://www.jmlr.org/proceedings/papers/v38/korlakaivinayak15.html)
+- github: [https://github.com/dmlc/xgboost/blob/master/doc/tutorials/dart.md](https://github.com/dmlc/xgboost/blob/master/doc/tutorials/dart.md)
 
 # Visualization
 

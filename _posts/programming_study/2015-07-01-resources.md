@@ -66,6 +66,11 @@ It contains real examples with errors and the author gives explanations of how t
 
 - github: [https://github.com/GrossoMoreira/shpp](https://github.com/GrossoMoreira/shpp)
 
+**AwesomePerfCpp:  curated list of awesome C/C++ performance optimization resources: talks, articles, books, libraries, tools, sites, blogs**
+
+- homepage: [https://fenbf.github.io/AwesomePerfCpp/](https://fenbf.github.io/AwesomePerfCpp/)
+- github: [https://github.com/fenbf/AwesomePerfCpp](https://github.com/fenbf/AwesomePerfCpp)
+
 # Python
 
 **Python Computing for Data Science: An Undergraduate/Graduate Seminar Course at UC Berkeley (AY 250)**
