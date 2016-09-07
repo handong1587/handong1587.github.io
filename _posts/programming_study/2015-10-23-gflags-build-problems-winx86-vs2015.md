@@ -5,6 +5,8 @@ title: Gflags Build Problems on Windows X86 and Visual Studio 2015
 date: 2015-10-23
 ---
 
+# Gflags Build Problems on Windows X86 and Visual Studio 2015
+
 Error:
 
 gflags.lib(gflags.obj) : error LNK2001: unresolved external symbol __imp__PathMatchSpecA@8

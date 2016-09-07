@@ -27,6 +27,8 @@ date: 2015-10-09
 
 **Deep Learning in a Nutshell: Core Concepts**
 
+![](https://devblogs.nvidia.com/parallelforall/wp-content/uploads/2015/11/fig1.png)
+
 [http://devblogs.nvidia.com/parallelforall/deep-learning-nutshell-core-concepts/](http://devblogs.nvidia.com/parallelforall/deep-learning-nutshell-core-concepts/)
 
 **Deep Learning in a Nutshell: History and Training**

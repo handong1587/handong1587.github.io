@@ -316,6 +316,11 @@ fine-tune the trained network with more challenging examples later
 - arxiv: [http://arxiv.org/abs/1603.08695](http://arxiv.org/abs/1603.08695)
 - github: [https://github.com/facebookresearch/deepmask](https://github.com/facebookresearch/deepmask)
 
+**Instance-sensitive Fully Convolutional Networks**
+
+- intro: ECCV 2016. instance segment proposal
+- arxiv: [http://arxiv.org/abs/1603.08678](http://arxiv.org/abs/1603.08678)
+
 **Amodal Instance Segmentation**
 
 - intro: ECCV 2016

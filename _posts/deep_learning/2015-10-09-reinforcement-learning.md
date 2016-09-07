@@ -80,6 +80,12 @@ date: 2015-10-09
 - github(Tensorflow): [https://github.com/gliese581gg/DQN_tensorflow](https://github.com/gliese581gg/DQN_tensorflow)
 - summary: [https://github.com/aleju/papers/blob/master/neural-nets/Playing_Atari_with_Deep_Reinforcement_Learning.md](https://github.com/aleju/papers/blob/master/neural-nets/Playing_Atari_with_Deep_Reinforcement_Learning.md)
 
+**A Tutorial for Reinforcement Learning**
+
+- paper: [http://web.mst.edu/~gosavia/tutorial.pdf](http://web.mst.edu/~gosavia/tutorial.pdf)
+- code(C): [http://web.mst.edu/~gosavia/bookcodes.html](http://web.mst.edu/~gosavia/bookcodes.html)
+- code(Matlab): [http://web.mst.edu/~gosavia/mrrl_website.html](http://web.mst.edu/~gosavia/mrrl_website.html)
+
 **Incentivizing Exploration In Reinforcement Learning With Deep Predictive Models**
 
 - arxiv: [http://arxiv.org/abs/1507.00814](http://arxiv.org/abs/1507.00814)

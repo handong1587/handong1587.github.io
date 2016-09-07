@@ -635,6 +635,13 @@ which encodes useful class information rather than individual units (feature act
 
 # Deep Learning Networks
 
+**PCANet: A Simple Deep Learning Baseline for Image Classification?**
+
+- arixv: [http://arxiv.org/abs/1404.3606](http://arxiv.org/abs/1404.3606)
+- code(Matlab): [http://mx.nthu.edu.tw/~tsunghan/download/PCANet_demo_pyramid.rar](http://mx.nthu.edu.tw/~tsunghan/download/PCANet_demo_pyramid.rar)
+- mirror: [http://pan.baidu.com/s/1mg24b3a](http://pan.baidu.com/s/1mg24b3a)
+- github(C++): [https://github.com/Ldpe2G/PCANet](https://github.com/Ldpe2G/PCANet)
+
 **Deeply-supervised Nets (DSN)**
 
 ![](http://vcl.ucsd.edu/~sxie/images/dsn/architecture.png)
@@ -780,6 +787,10 @@ with fast exact probabilistic inference over many layers."
 **CliqueCNN: Deep Unsupervised Exemplar Learning**
 
 - arxiv: [http://arxiv.org/abs/1608.08792](http://arxiv.org/abs/1608.08792)
+
+**Convexified Convolutional Neural Networks**
+
+- arxiv: [http://arxiv.org/abs/1609.01000](http://arxiv.org/abs/1609.01000)
 
 ## Highway Networks
 
@@ -1028,6 +1039,14 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 **Defeating Image Obfuscation with Deep Learning**
 
 - arxiv: [http://arxiv.org/abs/1609.00408](http://arxiv.org/abs/1609.00408)
+
+**Detecting Music BPM using Neural Networks**
+
+![](https://nlml.github.io/images/convnet_diagram.png)
+
+- keywords: BPM (Beats Per Minutes)
+- blog: [https://nlml.github.io/neural-networks/detecting-bpm-neural-networks/](https://nlml.github.io/neural-networks/detecting-bpm-neural-networks/)
+- github: [https://github.com/nlml/bpm](https://github.com/nlml/bpm)
 
 ## Age Estimation
 
@@ -1286,6 +1305,11 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 - arxiv: [http://arxiv.org/abs/1607.07539](http://arxiv.org/abs/1607.07539)
 
 ## Image Restoration
+
+**Image Restoration Using Very Deep Convolutional Encoder-Decoder Networks with Symmetric Skip Connections**
+
+- intro: NIPS 2016
+- arxiv: [http://arxiv.org/abs/1603.09056](http://arxiv.org/abs/1603.09056)
 
 **Image Restoration Using Convolutional Auto-encoders with Symmetric Skip Connections**
 

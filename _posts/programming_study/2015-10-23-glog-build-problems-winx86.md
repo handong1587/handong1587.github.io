@@ -13,8 +13,10 @@ Two errors:
 
 (1)
 
-glog-0.3.4\src\windows\port.h(116): error C2375: 'snprintf': redefinition; different linkage  <br />
+```
+glog-0.3.4\src\windows\port.h(116): error C2375: 'snprintf': redefinition; different linkage
 c:\program files\windows kits\10\include\10.0.10150.0\ucrt\stdio.h(1932): note: see declaration of 'snprintf'
+```
 
 Resolve:
 
@@ -22,8 +24,10 @@ Add "HAVE_SNPRINTF" to "C/C++ - Preprocessor - Preprocessor definitions".
 
 (2)
 
+```
 glog-0.3.4\src\windows\glog\logging.h(1268): error C2280: 'std::basic_ios<char,std::char_traits<char>>::basic_ios(const std::basic_ios<char,std::char_traits<char>> &)': attempting to reference a deleted function  <br />
 c:\program files\microsoft visual studio 14.0\vc\include\ios(189): note: see declaration of 'std::basic_ios<char,std::char_traits<char>>::basic_ios'
+```
 
 Resolve:
 
@@ -33,12 +37,14 @@ Follow this modification:
 
 (3)
 
+```
 common.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) void __cdecl google::InstallFailureSignalHandler(void)" (__imp_?InstallFailureSignalHandler@google@@YAXXZ)
+```
 
 Resolve:
 
 This function appears in "glog-0.3.4\src\signalhandler.cc". But can just comment out target line:
 
-{% highlight cpp %}
+```
 ::google::InstallFailureSignalHandler();
-{% endhighlight %}
+```
