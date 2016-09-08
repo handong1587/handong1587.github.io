@@ -516,6 +516,11 @@ This task involves predicting the salient regions of an image given by human eye
 
 - arxiv: [http://arxiv.org/abs/1609.01064](http://arxiv.org/abs/1609.01064)
 
+**Visual Saliency Detection Based on Multiscale Deep CNN Features**
+
+- intro: IEEE Transactions on Image Processing
+- arxiv: [http://arxiv.org/abs/1609.02077](http://arxiv.org/abs/1609.02077)
+
 # Specific Object Deteciton
 
 ## Face Deteciton
@@ -702,6 +707,12 @@ This task involves predicting the salient regions of an image given by human eye
 - intro: Kuznech Inc.
 - intro: MultiBox and Fast R-CNN
 - paper: [https://kddfashion2016.mybluemix.net/kddfashion_finalSubmissions/Deep%20Learning%20for%20Fast%20and%20Accurate%20Fashion%20Item%20Detection.pdf](https://kddfashion2016.mybluemix.net/kddfashion_finalSubmissions/Deep%20Learning%20for%20Fast%20and%20Accurate%20Fashion%20Item%20Detection.pdf)
+
+**Visual Relationship Detection with Language Priors**
+
+- intro: ECCV 2016 oral
+- paper: [https://cs.stanford.edu/people/ranjaykrishna/vrd/vrd.pdf](https://cs.stanford.edu/people/ranjaykrishna/vrd/vrd.pdf)
+- github: [https://github.com/Prof-Lu-Cewu/Visual-Relationship-Detection](https://github.com/Prof-Lu-Cewu/Visual-Relationship-Detection)
 
 # Object Proposal
 

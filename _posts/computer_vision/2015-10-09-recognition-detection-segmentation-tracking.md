@@ -250,6 +250,17 @@ using a large number of the existing object proposal approaches.
 - homepage: [http://www.robots.ox.ac.uk/~luca/staple.html](http://www.robots.ox.ac.uk/~luca/staple.html)
 - github: [https://github.com/bertinetto/staple](https://github.com/bertinetto/staple)
 
+## SORT
+
+**Simple Online and Realtime Tracking**
+
+- intro: ICIP 2016
+- intro: Simple, online, and realtime tracking of multiple objects in a video sequence
+- intro: Kalman Filter, Hungarian algorithm, 260 Hz
+- arxiv: [http://arxiv.org/abs/1602.00763](http://arxiv.org/abs/1602.00763)
+- github: [https://github.com/abewley/sort](https://github.com/abewley/sort)
+- demo: [https://motchallenge.net/movies/ETH-Linthescher-SORT.mp4](https://motchallenge.net/movies/ETH-Linthescher-SORT.mp4)
+
 **Visual Tracking via Reliable Memories**
 
 - arxiv: [http://arxiv.org/abs/1602.01887](http://arxiv.org/abs/1602.01887)

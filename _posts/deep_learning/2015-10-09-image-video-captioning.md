@@ -192,6 +192,12 @@ after the embedding and recurrent layers of the RNN."
 - arxiv: [http://arxiv.org/abs/1502.08029](http://arxiv.org/abs/1502.08029)
 - github: [https://github.com/yaoli/arctic-capgen-vid](https://github.com/yaoli/arctic-capgen-vid)
 
+**SA-tensorflow: Soft attention mechanism for video caption generation**
+
+![](https://raw.githubusercontent.com/tsenghungchen/SA-tensorflow/master/README_files/head.png)
+
+- github: [https://github.com/tsenghungchen/SA-tensorflow](https://github.com/tsenghungchen/SA-tensorflow)
+
 ## S2VT
 
 **Sequence to Sequence -- Video to Text (S2VT)**

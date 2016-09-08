@@ -116,6 +116,10 @@ alleviates the problem of video browsing, editing and indexing.
 - intro: CS231n student project report
 - paper: [http://cs231n.stanford.edu/reports2016/216_Report.pdf](http://cs231n.stanford.edu/reports2016/216_Report.pdf)
 
+**Semantic Video Trailers**
+
+- arxiv: [http://arxiv.org/abs/1609.01819](http://arxiv.org/abs/1609.01819)
+
 # Video Highlight Detection
 
 **Unsupervised Extraction of Video Highlights Via Robust Recurrent Auto-encoders (ICCV 2015)**

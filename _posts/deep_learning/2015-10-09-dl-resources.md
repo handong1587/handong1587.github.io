@@ -884,6 +884,13 @@ with fast exact probabilistic inference over many layers."
 
 - paper: [http://deeplearning.net/wp-content/uploads/2013/03/dlsvm.pdf](http://deeplearning.net/wp-content/uploads/2013/03/dlsvm.pdf)
 
+## Markov Random Field
+
+**Deep Markov Random Field for Image Modeling**
+
+- intro: ECCV 2016
+- arxiv: [http://arxiv.org/abs/1609.02036](http://arxiv.org/abs/1609.02036)
+
 # Deep Learning and Robots
 
 **Robot Learning Manipulation Action Plans by "Watching" Unconstrained Videos from the World Wide Web**
@@ -1401,6 +1408,14 @@ Bicubic VS. Shepard CNN
 
 - arxiv: [http://arxiv.org/abs/1601.07661](http://arxiv.org/abs/1601.07661)
 
+## Image Rain Removal
+
+### DerainNet
+
+**Clearing the Skies: A deep network architecture for single-image rain removal**
+
+- arxiv: [http://arxiv.org/abs/1609.02087](http://arxiv.org/abs/1609.02087)
+
 ## Blur Detection and Removal
 
 **Learning to Deblur**
@@ -1703,7 +1718,7 @@ Bicubic VS. Shepard CNN
 - arxiv: [http://arxiv.org/abs/1412.7525](http://arxiv.org/abs/1412.7525)
 - github: [https://github.com/donghyunlee/dtp](https://github.com/donghyunlee/dtp)
 
-## CNN with Computer Vision
+## Computer Vision
 
 **End-to-End Integration of a Convolutional Network, Deformable Parts Model and Non-Maximum Suppression**
 
@@ -1716,6 +1731,11 @@ Bicubic VS. Shepard CNN
 **A Taxonomy of Deep Convolutional Neural Nets for Computer Vision**
 
 - arxiv: [http://arxiv.org/abs/1601.06615](http://arxiv.org/abs/1601.06615)
+
+**UberNet: Training a `Universal' Convolutional Neural Network for Low-, Mid-, and High-Level Vision using Diverse Datasets and Limited Memory**
+
+- arxiv: [http://arxiv.org/abs/1609.02132](http://arxiv.org/abs/1609.02132)
+- demo: [http://cvn.ecp.fr/ubernet/](http://cvn.ecp.fr/ubernet/)
 
 # Projects
 
@@ -1839,6 +1859,12 @@ Compatible with Theano and TensorFlow. Optimized for Twitter.
 - intro: TensorFlow, WebGL, [regl](https://github.com/mikolalysenko/regl)
 - github: [https://github.com/Erkaman/regl-cnn/](https://github.com/Erkaman/regl-cnn/)
 - demo: [https://erkaman.github.io/regl-cnn/src/demo.html](https://erkaman.github.io/regl-cnn/src/demo.html)
+
+**dagstudio: Directed Acyclic Graph Studio with Javascript D3**
+
+![](https://raw.githubusercontent.com/TimZaman/dagstudio/master/misc/20160907_dagstudio_ex.gif)
+
+- github: [https://github.com/TimZaman/dagstudio](https://github.com/TimZaman/dagstudio)
 
 ## gvnn
 
@@ -1971,6 +1997,10 @@ Compatible with Theano and TensorFlow. Optimized for Twitter.
 
 - intro: Attention在视觉上的递归模型 / 基于Attention的图片生成 / 基于Attention的图片主题生成 / 基于Attention的字符识别
 - blog: [http://www.cosmosshadow.com/ml/%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C/2016/03/08/Attention.html](http://www.cosmosshadow.com/ml/%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C/2016/03/08/Attention.html)
+
+**awesome-free-deep-learning-papers**
+
+- github: [https://github.com/HFTrader/awesome-free-deep-learning-papers](https://github.com/HFTrader/awesome-free-deep-learning-papers)
 
 # Tools
 

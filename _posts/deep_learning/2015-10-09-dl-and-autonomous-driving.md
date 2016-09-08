@@ -13,6 +13,10 @@ date: 2015-10-09
 
 - homepage: [http://www.cs.toronto.edu/~urtasun/courses/CSC2541/CSC2541_Winter16.html](http://www.cs.toronto.edu/~urtasun/courses/CSC2541/CSC2541_Winter16.html)
 
+**How to Land An Autonomous Vehicle Job: Coursework**
+
+- blog: [https://medium.com/self-driving-cars/how-to-land-an-autonomous-vehicle-job-coursework-e7acc2bfe740#.7vfjx3i1j](https://medium.com/self-driving-cars/how-to-land-an-autonomous-vehicle-job-coursework-e7acc2bfe740#.7vfjx3i1j)
+
 # Papers
 
 ## DeepDriving

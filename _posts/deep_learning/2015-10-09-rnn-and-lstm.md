@@ -355,6 +355,10 @@ date: 2015-10-09
 
 - arxiv: [http://arxiv.org/abs/1608.06902](http://arxiv.org/abs/1608.06902)
 
+**Hierarchical Multiscale Recurrent Neural Networks**
+
+- arxiv: [http://arxiv.org/abs/1609.01704](http://arxiv.org/abs/1609.01704)
+
 # Projects
 
 **NeuralTalk (Deprecated): a Python+numpy project for learning Multimodal Recurrent Neural Networks that describe images with sentences**

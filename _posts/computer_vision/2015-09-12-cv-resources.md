@@ -630,6 +630,12 @@ Given a sample represented as a sequence of strokes, the parser is able to conve
 
 - github: [https://github.com/daijiale/OCR_FontsSearchEngine](https://github.com/daijiale/OCR_FontsSearchEngine)
 
+**The Simple + Practical Path to Machine Learning Capability: A Common Benchmark Task**
+
+![](https://indico.io/blog/wp-content/uploads/2016/09/TF0.5a-1-sm-768x520.png)
+
+- blog: [https://indico.io/blog/simple-practical-path-to-machine-learning-capability-part2/](https://indico.io/blog/simple-practical-path-to-machine-learning-capability-part2/)
+
 # Papers
 
 **Are Elephants Bigger than Butterflies? Reasoning about Sizes of Objects**
