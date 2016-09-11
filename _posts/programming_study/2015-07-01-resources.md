@@ -172,6 +172,14 @@ which continually runs and visualizes your code as you type
 
 - blog: [http://blog.petrzemek.net/2016/04/06/things-about-vim-i-wish-i-knew-earlier/](http://blog.petrzemek.net/2016/04/06/things-about-vim-i-wish-i-knew-earlier/)
 
+**PacVim**
+
+![](https://raw.githubusercontent.com/jmoon018/PacVim/master/gifs/all.gif)
+
+- intro: PacVim is a game that teaches you vim commands. 
+You must move pacman (the green cursor) to highlight each word on the gameboard while avoiding the ghosts (in red).
+- github: [https://github.com/jmoon018/PacVim](https://github.com/jmoon018/PacVim)
+
 ## Powerful VIM config on Github
 
 **spf13-vim: The Ultimate Vim Distribution**
