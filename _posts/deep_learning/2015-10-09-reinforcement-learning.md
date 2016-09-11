@@ -515,6 +515,10 @@ The project is dedicated to hero in life great Jesse Livermore.
 
 - blog: [https://rubenfiszel.github.io/posts/rl4j/2016-08-24-Reinforcement-Learning-and-DQN.html](https://rubenfiszel.github.io/posts/rl4j/2016-08-24-Reinforcement-Learning-and-DQN.html)
 
+**Deep Learning in a Nutshell: Reinforcement Learning**
+
+[https://devblogs.nvidia.com/parallelforall/deep-learning-nutshell-reinforcement-learning/](https://devblogs.nvidia.com/parallelforall/deep-learning-nutshell-reinforcement-learning/)
+
 # Books
 
 **Reinforcement Learning: State-of-the-Art**

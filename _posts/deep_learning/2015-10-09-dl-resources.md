@@ -119,6 +119,10 @@ not just the convolutions)
 - paper: [http://beta.openreview.net/forum?id=lx9l4r36gU2OVPy8Cv9g](http://beta.openreview.net/forum?id=lx9l4r36gU2OVPy8Cv9g)
 - arxiv: [http://arxiv.org/abs/1603.08029](http://arxiv.org/abs/1603.08029)
 
+**Lab41 Reading Group: Deep Residual Learning for Image Recognition**
+
+- blog: [https://gab41.lab41.org/lab41-reading-group-deep-residual-learning-for-image-recognition-ffeb94745a1f](https://gab41.lab41.org/lab41-reading-group-deep-residual-learning-for-image-recognition-ffeb94745a1f)
+
 ## ResNet-v2
 
 **Identity 89Mappings in Deep Residual Networks**
@@ -679,6 +683,11 @@ which encodes useful class information rather than individual units (feature act
 
 - arxiv: [http://arxiv.org/abs/1511.05077](http://arxiv.org/abs/1511.05077)
 
+**Competitive Multi-scale Convolution**
+
+- arxiv: [http://arxiv.org/abs/1511.05635](http://arxiv.org/abs/1511.05635)
+- blog: [https://zhuanlan.zhihu.com/p/22377389](https://zhuanlan.zhihu.com/p/22377389)
+
 **A Unified Approach for Learning the Parameters of Sum-Product Networks (SPN)**
 
 - intro: "The Sum-Product Network (SPN) is a new type of machine learning model 
@@ -890,6 +899,7 @@ with fast exact probabilistic inference over many layers."
 
 - intro: ECCV 2016
 - arxiv: [http://arxiv.org/abs/1609.02036](http://arxiv.org/abs/1609.02036)
+- github: [https://github.com/zhirongw/deep-mrf](https://github.com/zhirongw/deep-mrf)
 
 # Deep Learning and Robots
 
@@ -1414,7 +1424,11 @@ Bicubic VS. Shepard CNN
 
 **Clearing the Skies: A deep network architecture for single-image rain removal**
 
+![](http://smartdsp.xmu.edu.cn/memberpdf/fuxueyang/derainNet/overview.JPG)
+
+- project page: [http://smartdsp.xmu.edu.cn/derainNet.html](http://smartdsp.xmu.edu.cn/derainNet.html)
 - arxiv: [http://arxiv.org/abs/1609.02087](http://arxiv.org/abs/1609.02087)
+- code(Matlab): [http://smartdsp.xmu.edu.cn/memberpdf/fuxueyang/derainNet/code.zip](http://smartdsp.xmu.edu.cn/memberpdf/fuxueyang/derainNet/code.zip)
 
 ## Blur Detection and Removal
 
@@ -1733,6 +1747,8 @@ Bicubic VS. Shepard CNN
 - arxiv: [http://arxiv.org/abs/1601.06615](http://arxiv.org/abs/1601.06615)
 
 **UberNet: Training a `Universal' Convolutional Neural Network for Low-, Mid-, and High-Level Vision using Diverse Datasets and Limited Memory**
+
+![](http://cvn.ecp.fr/ubernet/res.png)
 
 - arxiv: [http://arxiv.org/abs/1609.02132](http://arxiv.org/abs/1609.02132)
 - demo: [http://cvn.ecp.fr/ubernet/](http://cvn.ecp.fr/ubernet/)

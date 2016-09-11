@@ -59,7 +59,18 @@ uncompress: sEx x FileName.*
 |                              | df -hl                |
 | Print current folder size    | du -sh DIRNAME        |
 | Print target folder volume (in MB) | du -sm          |
-| Prints one entry per line of output (bare format) | ls -1a         |
+| Prints one entry per line of output (bare format) | ls -1a |
+
+Print lines 20 to 40:
+```
+sed -n '20,40p;41q' file_name
+```
+
+or
+
+```
+awk 'FNR>=20 && FNR<=40' file_name>'
+```
 
 # Download
 
@@ -256,6 +267,12 @@ grep --exclude-dir={dir1,dir2,*.dst} -rnw '/path/to/somewhere/' -e "pattern"
 **Finding all files containing a text string on Linux**
 
 - stackoverflow: [http://stackoverflow.com/questions/16956810/finding-all-files-containing-a-text-string-on-linux](http://stackoverflow.com/questions/16956810/finding-all-files-containing-a-text-string-on-linux)
+
+Count occurrences of a char(e.g, 'aaa') in plain text file
+
+```
+fgrep -o 'aaa' <file> | wc -l
+```
 
 **references**
 

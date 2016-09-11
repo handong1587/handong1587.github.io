@@ -227,6 +227,10 @@ Compressed model is less than 500KB
 
 - github: [https://github.com/awentzonline/image-analogies](https://github.com/awentzonline/image-analogies)
 
+**Neural doodle with Keras**
+
+[https://github.com/fchollet/keras/blob/master/examples/neural_doodle.py](https://github.com/fchollet/keras/blob/master/examples/neural_doodle.py)
+
 ## Deep Dreams
 
 **deepdream**

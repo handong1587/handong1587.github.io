@@ -271,6 +271,10 @@ date: 2015-10-09
 
 - blog: [https://www.analyticsvidhya.com/blog/2016/08/deep-learning-path/](https://www.analyticsvidhya.com/blog/2016/08/deep-learning-path/)
 
+**Deep learning for complete beginners: Using convolutional nets to recognise images**
+
+- blog: [http://online.cambridgecoding.com/notebooks/cca_admin/convolutional-neural-networks-with-keras](http://online.cambridgecoding.com/notebooks/cca_admin/convolutional-neural-networks-with-keras)
+
 ## Convolution
 
 ![](/assets/cnn-materials/conv.jpg)

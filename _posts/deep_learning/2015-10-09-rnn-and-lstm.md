@@ -514,6 +514,10 @@ date: 2015-10-09
 
 [http://r2rt.com/written-memories-understanding-deriving-and-extending-the-lstm.html](http://r2rt.com/written-memories-understanding-deriving-and-extending-the-lstm.html)
 
+**Attention and Augmented Recurrent Neural Networks**
+
+[http://distill.pub/2016/augmented-rnns/](http://distill.pub/2016/augmented-rnns/)
+
 ## Optimizing RNN (Baidu Silicon Valley AI Lab)
 
 **Optimizing RNN performance**

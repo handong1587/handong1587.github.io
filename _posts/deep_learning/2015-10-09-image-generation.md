@@ -116,6 +116,16 @@ date: 2015-10-09
 - arxiv: [http://arxiv.org/abs/1606.04189](http://arxiv.org/abs/1606.04189)
 - github: [https://github.com/pavelgonchar/face-transfer-tensorflow](https://github.com/pavelgonchar/face-transfer-tensorflow)
 
+# Video Generation
+
+**Generating Videos with Scene Dynamics**
+
+- intro: NIPS 2016
+- intro: The model learns to generate tiny videos using adversarial networks
+- project page: [http://web.mit.edu/vondrick/tinyvideo/](http://web.mit.edu/vondrick/tinyvideo/)
+- paper: [http://web.mit.edu/vondrick/tinyvideo/paper.pdf](http://web.mit.edu/vondrick/tinyvideo/paper.pdf)
+- github: [https://github.com/cvondrick/videogan](https://github.com/cvondrick/videogan)
+
 # Deep Generative Model
 
 **Digit Fantasies by a Deep Generative Model**
@@ -226,6 +236,10 @@ date: 2015-10-09
 
 - blog: [http://blog.aylien.com/introduction-generative-adversarial-networks-code-tensorflow/](http://blog.aylien.com/introduction-generative-adversarial-networks-code-tensorflow/)
 - github: [https://github.com/AYLIEN/gan-intro](https://github.com/AYLIEN/gan-intro)
+
+**Difficulties training a Generative Adversarial Network**
+
+- github: [https://github.com/shekkizh/neuralnetworks.thought-experiments/blob/master/Generative%20Models/GAN/Readme.md](https://github.com/shekkizh/neuralnetworks.thought-experiments/blob/master/Generative%20Models/GAN/Readme.md)
 
 # Projects
 
