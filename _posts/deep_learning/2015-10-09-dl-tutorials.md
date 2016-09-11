@@ -275,6 +275,16 @@ date: 2015-10-09
 
 - blog: [http://online.cambridgecoding.com/notebooks/cca_admin/convolutional-neural-networks-with-keras](http://online.cambridgecoding.com/notebooks/cca_admin/convolutional-neural-networks-with-keras)
 
+**How do Convolutional Neural Networks work?**
+
+![](http://brohrer.github.io/images/cnn14.png)
+
+[http://brohrer.github.io/how_convolutional_neural_networks_work.html](http://brohrer.github.io/how_convolutional_neural_networks_work.html)
+
+**Creating a Neural Network That Can Tell if a Name Is Male or Female, in JavaScript**
+
+- blog: [https://medium.com/@hathibel/creating-a-neural-network-that-can-tell-if-a-name-is-male-or-female-in-javascript-3061029be396#.89l3znc2l](https://medium.com/@hathibel/creating-a-neural-network-that-can-tell-if-a-name-is-male-or-female-in-javascript-3061029be396#.89l3znc2l)
+
 ## Convolution
 
 ![](/assets/cnn-materials/conv.jpg)

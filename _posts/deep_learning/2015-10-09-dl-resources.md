@@ -338,6 +338,10 @@ Restricted Boltzmann Machine (RBM), Sparse Coding and Auto-encoder
 - arxiv: [http://arxiv.org/abs/1603.09246](http://arxiv.org/abs/1603.09246)
 - notes: [http://www.inference.vc/notes-on-unsupervised-learning-of-visual-representations-by-solving-jigsaw-puzzles/](http://www.inference.vc/notes-on-unsupervised-learning-of-visual-representations-by-solving-jigsaw-puzzles/)
 
+**Regularization for Unsupervised Deep Neural Nets**
+
+- arxiv: [http://arxiv.org/abs/1608.04426](http://arxiv.org/abs/1608.04426)
+
 ## Clustering
 
 **Joint Unsupervised Learning of Deep Representations and Image Clusters**
@@ -663,6 +667,7 @@ which encodes useful class information rather than individual units (feature act
 
 - arxiv: [https://arxiv.org/abs/1506.03134](https://arxiv.org/abs/1506.03134)
 - github: [https://github.com/vshallc/PtrNets](https://github.com/vshallc/PtrNets)
+- github(TensorFlow): [https://github.com/ikostrikov/TensorFlow-Pointer-Networks](https://github.com/ikostrikov/TensorFlow-Pointer-Networks)
 - notes: [https://github.com/dennybritz/deeplearning-papernotes/blob/master/notes/pointer-networks.md](https://github.com/dennybritz/deeplearning-papernotes/blob/master/notes/pointer-networks.md)
 
 **Rectified Factor Networks**
@@ -1373,7 +1378,11 @@ Bicubic VS. Shepard CNN
 
 **Accurate Image Super-Resolution Using Very Deep Convolutional Networks**
 
+- intro: CVPR 2016
+- project page: [http://cv.snu.ac.kr/research/VDSR/](http://cv.snu.ac.kr/research/VDSR/)
 - arxiv: [http://arxiv.org/abs/1511.04587](http://arxiv.org/abs/1511.04587)
+- code: [http://cv.snu.ac.kr/research/VDSR/VDSR_code.zip](http://cv.snu.ac.kr/research/VDSR/VDSR_code.zip)
+- github: [https://github.com/huangzehao/caffe-vdsr](https://github.com/huangzehao/caffe-vdsr)
 
 **Super-Resolution with Deep Convolutional Sufficient Statistics**
 
@@ -1462,6 +1471,15 @@ Bicubic VS. Shepard CNN
 
 - arxiv: [https://arxiv.org/abs/1606.00373](https://arxiv.org/abs/1606.00373)
 - github: [https://github.com/iro-cp/FCRN-DepthPrediction](https://github.com/iro-cp/FCRN-DepthPrediction)
+
+**Depth from a Single Image by Harmonizing Overcomplete Local Network Predictions**
+
+![](ttic.uchicago.edu/~ayanc/mdepth/teaser.jpg)
+
+- intro: NIPS 2016
+- project pag: [http://ttic.uchicago.edu/~ayanc/mdepth/](http://ttic.uchicago.edu/~ayanc/mdepth/)
+- arxiv: [http://arxiv.org/abs/1605.07081](http://arxiv.org/abs/1605.07081)
+- github: [https://github.com/ayanc/mdepth/](https://github.com/ayanc/mdepth/)
 
 ## Texture Synthesis
 

@@ -139,7 +139,7 @@ date: 2015-10-09
 - github: [https://github.com/wojciechz/learning_to_execute](https://github.com/wojciechz/learning_to_execute)
 - github(Tensorflow): [https://github.com/raindeer/seq2seq_experiments](https://github.com/raindeer/seq2seq_experiments)
 
-**Neural Programmer-Interpreters (Google DeepMind. ICLR 2016 Best Paper)**
+**Neural Programmer-Interpreters**
 
 <img src="/assets/dl-materials/rnn_lstm/NPI/add.gif" />
 
@@ -147,8 +147,9 @@ date: 2015-10-09
 
 <img src="/assets/dl-materials/rnn_lstm/NPI/sort_full.gif" />
 
+- intro:  Google DeepMind. ICLR 2016 Best Paper
 - arxiv: [http://arxiv.org/abs/1511.06279](http://arxiv.org/abs/1511.06279)
-- project page: [http://www-personal.umich.edu/~reedscot/iclr_project.html](http://www-personal.umich.edu/~reedscot/iclr_project.html)
+- project page: [http://www-personal.umic (Google DeepMind. ICLR 2016 Best Paper)h.edu/~reedscot/iclr_project.html](http://www-personal.umich.edu/~reedscot/iclr_project.html)
 - github: [https://github.com/mokemokechicken/keras_npi](https://github.com/mokemokechicken/keras_npi)
 
 **A Programmer-Interpreter Neural Network Architecture for Prefrontal Cognitive Control**
@@ -358,6 +359,7 @@ date: 2015-10-09
 **Hierarchical Multiscale Recurrent Neural Networks**
 
 - arxiv: [http://arxiv.org/abs/1609.01704](http://arxiv.org/abs/1609.01704)
+- notes: [https://github.com/dennybritz/deeplearning-papernotes/blob/master/notes/hm-rnn.md](https://github.com/dennybritz/deeplearning-papernotes/blob/master/notes/hm-rnn.md)
 
 # Projects
 
@@ -439,6 +441,11 @@ date: 2015-10-09
 
 - github: [https://github.com/shagunsodhani/tf-char-rnn](https://github.com/shagunsodhani/tf-char-rnn)
 
+**translit-rnn: Automatic transliteration with LSTM**
+
+- blog: [http://yerevann.github.io/2016/09/09/automatic-transliteration-with-lstm/](http://yerevann.github.io/2016/09/09/automatic-transliteration-with-lstm/)
+- github: [https://github.com/YerevaNN/translit-rnn](https://github.com/YerevaNN/translit-rnn)
+
 # Blogs
 
 **Survey on Attention-based Models Applied in NLP**
@@ -516,7 +523,8 @@ date: 2015-10-09
 
 **Attention and Augmented Recurrent Neural Networks**
 
-[http://distill.pub/2016/augmented-rnns/](http://distill.pub/2016/augmented-rnns/)
+- blog: [http://distill.pub/2016/augmented-rnns/](http://distill.pub/2016/augmented-rnns/)
+- github: [https://github.com/distillpub/post--augmented-rnns](https://github.com/distillpub/post--augmented-rnns)
 
 ## Optimizing RNN (Baidu Silicon Valley AI Lab)
 

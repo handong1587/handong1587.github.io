@@ -330,6 +330,10 @@ fine-tune the trained network with more challenging examples later
 
 - arxiv: [http://arxiv.org/abs/1605.06885](http://arxiv.org/abs/1605.06885)
 
+**Recurrent Instance Segmentation**
+
+- youtube: [https://www.youtube.com/watch?v=l_WD2OWOqBk](https://www.youtube.com/watch?v=l_WD2OWOqBk)
+
 ## DeepCut
 
 **DeepCut: Object Segmentation from Bounding Box Annotations using Convolutional Neural Networks**

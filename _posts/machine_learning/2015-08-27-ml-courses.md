@@ -176,3 +176,12 @@ with applications for model fitting and techniques for dealing with missing data
 **Learn Machine learning online – List of machine learning courses available online**
 
 - blog: [http://bafflednerd.com/learn-machine-learning-online/](http://bafflednerd.com/learn-machine-learning-online/)
+
+**Phd-level courses**
+
+- reddit: [https://www.reddit.com/r/MachineLearning/comments/51qhc8/phdlevel_courses/](https://www.reddit.com/r/MachineLearning/comments/51qhc8/phdlevel_courses/)
+
+**awesomeMLmath**
+
+- intro: Curated list to learn the math basics for machine learning. Note that this is a biased list from a Deep Learning research.
+- github: [https://github.com/EderSantana/awesomeMLmath](https://github.com/EderSantana/awesomeMLmath)

@@ -470,6 +470,13 @@ control a spaceship in order to complete some objective.
 
 - github: [https://github.com/Chillee/coursera-dl-all](https://github.com/Chillee/coursera-dl-all)
 
+**gifify: Convert any video file to an optimized animated GIF.**
+
+![](https://raw.githubusercontent.com/vvo/gifify/master/screencast.gif)
+
+- intro: Convert any video file to an optimized animated GIF. Either in its full length or only a part of it.
+- github: [https://github.com/vvo/gifify](https://github.com/vvo/gifify)
+
 ## Multi-media
 
 **cmus — C* Music Player**

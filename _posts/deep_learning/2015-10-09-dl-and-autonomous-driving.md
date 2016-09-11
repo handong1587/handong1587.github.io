@@ -19,6 +19,11 @@ date: 2015-10-09
 
 # Papers
 
+**An Empirical Evaluation of Deep Learning on Highway Driving**
+
+- arxiv: [http://arxiv.org/abs/1504.01716](http://arxiv.org/abs/1504.01716)
+- github: [https://github.com/brodyh/caffe](https://github.com/brodyh/caffe)
+
 ## DeepDriving
 
 **DeepDriving: Learning Affordance for Direct Perception in Autonomous Driving**

@@ -422,7 +422,7 @@ Classic strategies:
 - keywords: source code authorship, random forests
 - paper: [http://www.princeton.edu/~aylinc/papers/caliskan-islam_deanonymizing.pdf](http://www.princeton.edu/~aylinc/papers/caliskan-islam_deanonymizing.pdf)
 
-# Recommendation System
+# Recommendation / Recommender System
 
 **Human Curation and Convnets: Powering Item-to-Item Recommendations on Pinterest**
 
@@ -442,15 +442,14 @@ Classic strategies:
 
 - arxiv: [http://arxiv.org/abs/1607.07607](http://arxiv.org/abs/1607.07607)
 
-## How to Write Your Own Recommendation System
+**Implementing your own Recommender Systems in Python using Stochastic Gradient Descent**
 
-**How to Write Your Own Recommendation System - Part 1: Small Scale**
+- blog: [http://online.cambridgecoding.com/notebooks/mhaller/implementing-your-own-recommender-systems-in-python-using-stochastic-gradient-descent-4#implementing-your-own-recommender-systems-in-python-using-stochastic-gradient-descent](http://online.cambridgecoding.com/notebooks/mhaller/implementing-your-own-recommender-systems-in-python-using-stochastic-gradient-descent-4#implementing-your-own-recommender-systems-in-python-using-stochastic-gradient-descent)
 
-- blog: [http://elliot.land/how-to-write-your-own-recommendation-system-part-1](http://elliot.land/how-to-write-your-own-recommendation-system-part-1)
+**How to Write Your Own Recommendation System**
 
-**How to Write Your Own Recommendation System, Part 2 - More Data!**
-
-- blog: [http://elliot.land/how-to-write-your-own-recommendation-system-part-2](http://elliot.land/how-to-write-your-own-recommendation-system-part-2)
+- blog(part 1): [http://elliot.land/how-to-write-your-own-recommendation-system-part-1](http://elliot.land/how-to-write-your-own-recommendation-system-part-1)
+- blog(part 2): [http://elliot.land/how-to-write-your-own-recommendation-system-part-2](http://elliot.land/how-to-write-your-own-recommendation-system-part-2)
 
 # Papers
 
