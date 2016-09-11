@@ -195,11 +195,19 @@ which continually runs and visualizes your code as you type
 
 - blog: [http://tutorialzine.com/2016/06/learn-git-in-30-minutes/](http://tutorialzine.com/2016/06/learn-git-in-30-minutes/)
 
+**Git diff tips and tricks**
+
+[https://blog.twobucks.co/git-diff-tips-and-tricks/](https://blog.twobucks.co/git-diff-tips-and-tricks/)
+
 # Regulex
 
 **Regulex: JavaScript Regular Expression Visualizer**
 
 [https://jex.im/regulex/#!embed=false&flags=&re=%5E(a%7Cb)*%3F%24](https://jex.im/regulex/#!embed=false&flags=&re=%5E(a%7Cb)*%3F%24)
+
+**Demystifying The Regular Expression That Checks If A Number Is Prime**
+
+[https://iluxonchik.github.io/regular-expression-check-if-number-is-prime/](https://iluxonchik.github.io/regular-expression-check-if-number-is-prime/)
 
 # Docker
 
