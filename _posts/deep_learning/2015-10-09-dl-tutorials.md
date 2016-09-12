@@ -391,6 +391,12 @@ date: 2015-10-09
 
 - blog: [http://deliprao.com/archives/191](http://deliprao.com/archives/191)
 
+**Backpropagation In Convolutional Neural Networks**
+
+![](http://www.jefkine.com/assets/images/cnn.png)
+
+- blog: [http://www.jefkine.com/general/2016/09/05/backpropagation-in-convolutional-neural-networks/](http://www.jefkine.com/general/2016/09/05/backpropagation-in-convolutional-neural-networks/)
+
 ## Caffe
 
 **Deep learning tutorial on Caffe technology : basic commands, Python and C++ code**

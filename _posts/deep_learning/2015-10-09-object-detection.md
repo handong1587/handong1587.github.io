@@ -633,6 +633,11 @@ This task involves predicting the salient regions of an image given by human eye
 
 - arxiv: [http://arxiv.org/abs/1607.07032](http://arxiv.org/abs/1607.07032)
 
+**Reduced Memory Region Based Deep Convolutional Neural Network Detection**
+
+- intro: IEEE 2016 ICCE-Berlin
+- arxiv: [http://arxiv.org/abs/1609.02500](http://arxiv.org/abs/1609.02500)
+
 ## Vehicle Detection
 
 **DAVE: A Unified Framework for Fast Vehicle Detection and Annotation**

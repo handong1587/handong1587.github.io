@@ -334,6 +334,11 @@ fine-tune the trained network with more challenging examples later
 
 - youtube: [https://www.youtube.com/watch?v=l_WD2OWOqBk](https://www.youtube.com/watch?v=l_WD2OWOqBk)
 
+**Bottom-up Instance Segmentation using Deep Higher-Order CRFs**
+
+- intro: BMVC 2016
+- arxiv: [http://arxiv.org/abs/1609.02583](http://arxiv.org/abs/1609.02583)
+
 ## DeepCut
 
 **DeepCut: Object Segmentation from Bounding Box Annotations using Convolutional Neural Networks**

@@ -60,6 +60,10 @@ date: 2015-07-24
 
 - blog: [http://www.brendangregg.com/blog/2016-08-09/gdb-example-ncurses.html](http://www.brendangregg.com/blog/2016-08-09/gdb-example-ncurses.html)
 
+**Command-line tools can be 235x faster than your Hadoop cluster**
+
+- blog: [http://aadrake.com/command-line-tools-can-be-235x-faster-than-your-hadoop-cluster.html](http://aadrake.com/command-line-tools-can-be-235x-faster-than-your-hadoop-cluster.html)
+
 # Resources
 
 **Awesome Linux Software: A curated list of awesome applications, softwares, tools and other materials for Linux distros**
