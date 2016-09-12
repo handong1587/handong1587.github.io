@@ -28,6 +28,7 @@ date: 2015-10-09
 
 - intro: SIGGRAPH 2015
 - paper: [http://www.cs.cornell.edu/~kb/publications/SIG15ProductNet.pdf](http://www.cs.cornell.edu/~kb/publications/SIG15ProductNet.pdf)
+- paper: [http://dl.acm.org.sci-hub.cc/citation.cfm?doid=2809654.2766959](http://dl.acm.org.sci-hub.cc/citation.cfm?doid=2809654.2766959)
 
 **Where can I buy a chair like that? – This app will tell you**
 

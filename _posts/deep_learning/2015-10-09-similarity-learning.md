@@ -13,16 +13,27 @@ date: 2015-10-09
 
 **Learning to compare image patches via convolutional neural networks**
 
-- paper: [http://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Zagoruyko_Learning_to_Compare_2015_CVPR_paper.pdf](http://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Zagoruyko_Learning_to_Compare_2015_CVPR_paper.pdf)
+- intro: CVPR 2015. siamese network
 - project page: [http://imagine.enpc.fr/~zagoruys/deepcompare.html](http://imagine.enpc.fr/~zagoruys/deepcompare.html)
+- paper: [http://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Zagoruyko_Learning_to_Compare_2015_CVPR_paper.pdf](http://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Zagoruyko_Learning_to_Compare_2015_CVPR_paper.pdf)
 - github: [https://github.com/szagoruyko/cvpr15deepcompare](https://github.com/szagoruyko/cvpr15deepcompare)
+
+## MatchNet
+
+**MatchNet: Unifying Feature and Metric Learning for Patch-Based Matching**
+
+- intro: CVPR 2015. siamese network
+- paper: [http://www.cs.unc.edu/~xufeng/cs/papers/cvpr15-matchnet.pdf](http://www.cs.unc.edu/~xufeng/cs/papers/cvpr15-matchnet.pdf)
+- extended abstract: [http://www.cv-foundation.org/openaccess/content_cvpr_2015/ext/2A_114_ext.pdf](http://www.cv-foundation.org/openaccess/content_cvpr_2015/ext/2A_114_ext.pdf)
+- github: [https://github.com/hanxf/matchnet](https://github.com/hanxf/matchnet)
 
 ## StyleNet
 
-**Fashion Style in 128 Floats (CVPR 2016)**
+**Fashion Style in 128 Floats**
 
 ![](http://hi.cs.waseda.ac.jp/~esimo/images/stylenet/fashionfeat.png)
 
+- intro: CVPR 2016
 - project page: [http://hi.cs.waseda.ac.jp/~esimo/en/research/stylenet/](http://hi.cs.waseda.ac.jp/~esimo/en/research/stylenet/)
 - paper: [http://hi.cs.waseda.ac.jp/~esimo/publications/SimoSerraCVPR2016.pdf](http://hi.cs.waseda.ac.jp/~esimo/publications/SimoSerraCVPR2016.pdf)
 - github: [https://github.com/bobbens/cvpr2016_stylenet](https://github.com/bobbens/cvpr2016_stylenet)
@@ -32,6 +43,8 @@ date: 2015-10-09
 **Recurrent Convolutional Network for Video-based Person Re-Identification**
 
 - arxiv: [Recurrent Convolutional Network for Video-based Person Re-Identification](Recurrent Convolutional Network for Video-based Person Re-Identification)
+
+### PersonNet
 
 **PersonNet: Person Re-identification with Deep Convolutional Neural Networks**
 
