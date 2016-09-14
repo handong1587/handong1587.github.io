@@ -176,6 +176,10 @@ to decompose it into the multiplications of thinned dense matrices"
 - note: [https://www.evernote.com/shard/s146/sh/108eea91-349b-48ba-b7eb-7ac8f548bee9/5171dc6b1088fba05a4e317f7f5d32a3](https://www.evernote.com/shard/s146/sh/108eea91-349b-48ba-b7eb-7ac8f548bee9/5171dc6b1088fba05a4e317f7f5d32a3)
 - github(Keras): [https://github.com/DT42/squeezenet_demo](https://github.com/DT42/squeezenet_demo)
 
+**Lab41 Reading Group: SqueezeNet**
+
+[https://medium.com/m/global-identity?redirectUrl=https://gab41.lab41.org/lab41-reading-group-squeezenet-9b9d1d754c75](https://medium.com/m/global-identity?redirectUrl=https://gab41.lab41.org/lab41-reading-group-squeezenet-9b9d1d754c75)
+
 **Convolutional Neural Networks using Logarithmic Data Representation**
 
 - arxiv: [http://arxiv.org/abs/1603.01025](http://arxiv.org/abs/1603.01025)

@@ -272,6 +272,11 @@ Incorporates dropout regularization and convolutional neural networks with a sep
 - paper: [http://machineintelligence.org/papers/rc-nfq.pdf](http://machineintelligence.org/papers/rc-nfq.pdf)
 - github: [https://github.com/cosmoharrigan/rc-nfq](https://github.com/cosmoharrigan/rc-nfq)
 
+**Episodic Exploration for Deep Deterministic Policies: An Application to StarCraft Micromanagement Tasks**
+
+- intro: Facebook AI Research
+- arxiv: [http://arxiv.org/abs/1609.02993](http://arxiv.org/abs/1609.02993)
+
 # Projects
 
 **Using Deep Q-Network to Learn How To Play Flappy Bird**

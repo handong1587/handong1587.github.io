@@ -119,6 +119,19 @@ date: 2015-07-01
 - homepage: [http://jasonpark.me/AlgorithmVisualizer/](http://jasonpark.me/AlgorithmVisualizer/)
 - github: [https://github.com/parkjs814/AlgorithmVisualizer](https://github.com/parkjs814/AlgorithmVisualizer)
 
+**Visualizing String Matching**
+
+- intro: Naive / KMP / Boyer-Moore
+- homepage: [http://whocouldthat.be/visualizing-string-matching/](http://whocouldthat.be/visualizing-string-matching/)
+
+**Visualization of Sort Algorithms**
+
+[http://www.cs.usfca.edu/~galles/visualization/flash.html](http://www.cs.usfca.edu/~galles/visualization/flash.html)
+
+**Red/Black Tree Demonstration**
+
+[http://gauss.ececs.uc.edu/RedBlack/redblack.html](http://gauss.ececs.uc.edu/RedBlack/redblack.html)
+
 # Resources
 
 **The Algorithm Design Manual, 2nd Edition**

@@ -196,3 +196,9 @@ date: 2016-07-27
 - homepage: [https://sites.google.com/site/deeplearningsummerschool/schedule](https://sites.google.com/site/deeplearningsummerschool/schedule)
 - slides: [http://docs.huihoo.com/deep-learning/deeplearningsummerschool/2015/](http://docs.huihoo.com/deep-learning/deeplearningsummerschool/2015/)
 - github: [https://github.com/mila-udem/summerschool2015](https://github.com/mila-udem/summerschool2015)
+
+# ICLR 2015
+
+**Conference Schedule**
+
+[http://www.iclr.cc/doku.php?id=iclr2015:main&utm_content=buffer0b339&utm_campaign=buffer#conference_schedule](http://www.iclr.cc/doku.php?id=iclr2015:main&utm_content=buffer0b339&utm_campaign=buffer#conference_schedule)

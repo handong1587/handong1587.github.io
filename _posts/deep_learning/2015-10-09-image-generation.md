@@ -7,22 +7,15 @@ date: 2015-10-09
 
 # Papers
 
-**Optimizing Neural Networks That Generate Images(2014. PhD thesis)**
+**Optimizing Neural Networks That Generate Images**
 
+- intro: 2014 PhD thesis
 - paper : [http://www.cs.toronto.edu/~tijmen/tijmen_thesis.pdf](http://www.cs.toronto.edu/~tijmen/tijmen_thesis.pdf)
 - github: [https://github.com/mrkulk/Unsupervised-Capsule-Network](https://github.com/mrkulk/Unsupervised-Capsule-Network)
 
 **Learning to Generate Chairs, Tables and Cars with Convolutional Networks**
 
 - arxiv: [http://arxiv.org/abs/1411.5928](http://arxiv.org/abs/1411.5928)
-
-**Generative Adversarial Networks**
-**Generative Adversarial Nets**
-
-- arxiv: [http://arxiv.org/abs/1406.2661](http://arxiv.org/abs/1406.2661)
-- paper: [https://papers.nips.cc/paper/5423-generative-adversarial-nets.pdf](https://papers.nips.cc/paper/5423-generative-adversarial-nets.pdf)
-- github: [https://github.com/goodfeli/adversarial](https://github.com/goodfeli/adversarial)
-- github: [https://github.com/aleju/cat-generator](https://github.com/aleju/cat-generator)
 
 **DRAW: A Recurrent Neural Network For Image Generation**
 
@@ -60,10 +53,6 @@ date: 2015-10-09
 
 - arxiv: [http://arxiv.org/abs/1512.00570](http://arxiv.org/abs/1512.00570)
 
-**Deep Visual Analogy-Making**
-
-- paper: [https://papers.nips.cc/paper/5845-deep-visual-analogy-making.pdf](https://papers.nips.cc/paper/5845-deep-visual-analogy-making.pdf)
-
 **Autoencoding beyond pixels using a learned similarity metric**
 
 - arxiv: [http://arxiv.org/abs/1512.09300](http://arxiv.org/abs/1512.09300)
@@ -84,8 +73,9 @@ date: 2015-10-09
 
 ## PixelRNN
 
-**Pixel Recurrent Neural Networks (Google DeepMind. ICML 2016 best paper)**
+**Pixel Recurrent Neural Networks**
 
+- intro: Google DeepMind. ICML 2016 best paper
 - arxiv: [http://arxiv.org/abs/1601.06759](http://arxiv.org/abs/1601.06759)
 - github: [https://github.com/igul222/pixel_rnn](https://github.com/igul222/pixel_rnn)
 - notes(by Hugo Larochelle): [https://www.evernote.com/shard/s189/sh/fdf61a28-f4b6-491b-bef1-f3e148185b18/aba21367d1b3730d9334ed91d3250848](https://www.evernote.com/shard/s189/sh/fdf61a28-f4b6-491b-bef1-f3e148185b18/aba21367d1b3730d9334ed91d3250848)
@@ -96,10 +86,11 @@ date: 2015-10-09
 - arxiv: [http://arxiv.org/abs/1602.05110](http://arxiv.org/abs/1602.05110)
 - github: [https://github.com/jiwoongim/GRAN](https://github.com/jiwoongim/GRAN)
 
-**Generative Adversarial Text to Image Synthesis (ICML 2016)**
+**Generative Adversarial Text to Image Synthesis**
 
 ![](https://raw.githubusercontent.com/reedscot/icml2016/master/images/dcgan_network.jpg)
 
+- intro: ICML 2016
 - arxiv: [http://arxiv.org/abs/1605.05396](http://arxiv.org/abs/1605.05396)
 - project page: [https://www.mpi-inf.mpg.de/departments/computer-vision-and-multimodal-computing/research/embeddings-for-image-classification/generative-adversarial-text-to-image-synthesis/](https://www.mpi-inf.mpg.de/departments/computer-vision-and-multimodal-computing/research/embeddings-for-image-classification/generative-adversarial-text-to-image-synthesis/)
 - github: [https://github.com/reedscot/icml2016](https://github.com/reedscot/icml2016)
@@ -107,8 +98,9 @@ date: 2015-10-09
 
 ## PixelCNN
 
-**Conditional Image Generation with PixelCNN Decoders (Google DeepMind. PixelCNN 2.0)**
+**Conditional Image Generation with PixelCNN Decoders**
 
+- intro: Google DeepMind. PixelCNN 2.0
 - arxiv: [http://arxiv.org/abs/1606.05328](http://arxiv.org/abs/1606.05328)
 - github(Theano): [https://github.com/kundan2510/pixelCNN](https://github.com/kundan2510/pixelCNN)
 
@@ -153,25 +145,10 @@ date: 2015-10-09
 - code: [http://soumith.ch/eyescream/](http://soumith.ch/eyescream/)
 - notes: [http://colinraffel.com/wiki/deep_generative_image_models_using_a_laplacian_pyramid_of_adversarial_networks](http://colinraffel.com/wiki/deep_generative_image_models_using_a_laplacian_pyramid_of_adversarial_networks)
 
-**Unsupervised and Semi-supervised Learning with Categorical Generative Adversarial Networks(CatGAN)**
-
-- arxiv: [http://arxiv.org/abs/1511.06390](http://arxiv.org/abs/1511.06390)
-
 **Torch convolutional GAN: Generating Faces with Torch**
 
 - blog: [http://torch.ch/blog/2015/11/13/gan.html](http://torch.ch/blog/2015/11/13/gan.html)
 - github: [https://github.com/skaae/torch-gan](https://github.com/skaae/torch-gan)
-
-## DCGAN
-
-**Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks (DCGAN)**
-
-- arxiv: [http://arxiv.org/abs/1511.06434](http://arxiv.org/abs/1511.06434)
-- github: [https://github.com/jazzsaxmafia/dcgan_tensorflow](https://github.com/jazzsaxmafia/dcgan_tensorflow)
-- github: [https://github.com/Newmu/dcgan_code](https://github.com/Newmu/dcgan_code)
-- github: [https://github.com/mattya/chainer-DCGAN](https://github.com/mattya/chainer-DCGAN)
-- github: [https://github.com/soumith/dcgan.torch](https://github.com/soumith/dcgan.torch)
-- github: [https://github.com/carpedm20/DCGAN-tensorflow](https://github.com/carpedm20/DCGAN-tensorflow)
 
 **Discriminative Regularization for Generative Models**
 
@@ -183,8 +160,9 @@ date: 2015-10-09
 - arxiv: [http://arxiv.org/abs/1602.05473](http://arxiv.org/abs/1602.05473)
 - github: [https://github.com/larsmaaloee/auxiliary-deep-generative-models](https://github.com/larsmaaloee/auxiliary-deep-generative-models)
 
-**One-Shot Generalization in Deep Generative Models (Google DeepMind. ICML 2016)**
+**One-Shot Generalization in Deep Generative Models**
 
+- intro: Google DeepMind. ICML 2016
 - arxiv: [http://arxiv.org/abs/1603.05106](http://arxiv.org/abs/1603.05106)
 
 **Generative Image Modeling using Style and Structure Adversarial Networks**
@@ -203,20 +181,7 @@ date: 2015-10-09
 
 - arxiv: [http://arxiv.org/abs/1605.09304](http://arxiv.org/abs/1605.09304)
 
-**Coupled Generative Adversarial Networks**
-
-- arxiv: [https://arxiv.org/abs/1606.07536](https://arxiv.org/abs/1606.07536)
-
-**Generative Adversarial Networks with Keras**
-
-- github: [https://github.com/phreeza/keras-GAN](https://github.com/phreeza/keras-GAN)
-
 # Blogs
-
-**Generative Adversarial Autoencoders in Theano**
-
-- blog: [https://swarbrickjones.wordpress.com/2016/01/24/generative-adversarial-autoencoders-in-theano/](https://swarbrickjones.wordpress.com/2016/01/24/generative-adversarial-autoencoders-in-theano/)
-- github: [https://github.com/mikesj-public/dcgan-autoencoder](https://github.com/mikesj-public/dcgan-autoencoder)
 
 **Torch convolutional GAN: Generating Faces with Torch**
 
@@ -226,25 +191,6 @@ date: 2015-10-09
 **Generating Large Images from Latent Vectors**
 
 [http://blog.otoro.net/2016/04/01/generating-large-images-from-latent-vectors/](http://blog.otoro.net/2016/04/01/generating-large-images-from-latent-vectors/)
-
-**Generative Adversarial Network Demo for Fresh Machine Learning #2**
-
-- youtube: [https://www.youtube.com/watch?v=deyOX6Mt_As&feature=em-uploademail](https://www.youtube.com/watch?v=deyOX6Mt_As&feature=em-uploademail)
-- github: [https://github.com/llSourcell/Generative-Adversarial-Network-Demo](https://github.com/llSourcell/Generative-Adversarial-Network-Demo)
-- demo: [http://cs.stanford.edu/people/karpathy/gan/](http://cs.stanford.edu/people/karpathy/gan/)
-
-**Generative Adversial Networks Explained**
-
-- blog: [http://kvfrans.com/generative-adversial-networks-explained/](http://kvfrans.com/generative-adversial-networks-explained/)
-
-**An introduction to Generative Adversarial Networks (with code in TensorFlow)**
-
-- blog: [http://blog.aylien.com/introduction-generative-adversarial-networks-code-tensorflow/](http://blog.aylien.com/introduction-generative-adversarial-networks-code-tensorflow/)
-- github: [https://github.com/AYLIEN/gan-intro](https://github.com/AYLIEN/gan-intro)
-
-**Difficulties training a Generative Adversarial Network**
-
-- github: [https://github.com/shekkizh/neuralnetworks.thought-experiments/blob/master/Generative%20Models/GAN/Readme.md](https://github.com/shekkizh/neuralnetworks.thought-experiments/blob/master/Generative%20Models/GAN/Readme.md)
 
 # Projects
 

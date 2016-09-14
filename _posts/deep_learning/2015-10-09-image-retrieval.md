@@ -176,10 +176,6 @@ date: 2015-10-09
 - homepage: [http://sketchx.eecs.qmul.ac.uk/](http://sketchx.eecs.qmul.ac.uk/)
 - blog: [https://news.developer.nvidia.com/using-sketches-to-search-for-products-online/](https://news.developer.nvidia.com/using-sketches-to-search-for-products-online/)
 
-**基于深度学习的视觉实例搜索研究进展**
-
-[http://mp.weixin.qq.com/s?__biz=MzI1NTE4NTUwOQ==&mid=2650325339&idx=1&sn=9554c2ba8e7f3177d552a174803f89c1#rd](http://mp.weixin.qq.com/s?__biz=MzI1NTE4NTUwOQ==&mid=2650325339&idx=1&sn=9554c2ba8e7f3177d552a174803f89c1#rd)
-
 # Tutorials
 
 **Deep Image Retrieval: Learning global representations for image search**

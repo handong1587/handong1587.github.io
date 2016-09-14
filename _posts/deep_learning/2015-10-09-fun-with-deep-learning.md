@@ -554,6 +554,12 @@ Compressed model is less than 500KB
 - slides: [http://www.slideshare.net/ShaneSeungwhanMoon/how-alphago-works](http://www.slideshare.net/ShaneSeungwhanMoon/how-alphago-works)
 - slides: [http://pan.baidu.com/s/1qXwagGW](http://pan.baidu.com/s/1qXwagGW)
 
+**AlphaGo in Depth**
+
+- intro: by Mark Chang
+- slides: [http://www.slideshare.net/ckmarkohchang/alphago-in-depth?qid=283ab3bc-7d04-4e14-a205-b0b671ca4099](http://www.slideshare.net/ckmarkohchang/alphago-in-depth?qid=283ab3bc-7d04-4e14-a205-b0b671ca4099)
+- mirror: [https://pan.baidu.com/s/1i5JNeRj](https://pan.baidu.com/s/1i5JNeRj)
+
 # Chess
 
 **Giraffe: Using Deep Reinforcement Learning to Play Chess (MSc thesis)**

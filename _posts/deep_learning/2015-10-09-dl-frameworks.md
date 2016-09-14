@@ -534,7 +534,6 @@ Implementations and ideas are largely based on papers from arxiv and implementat
 **The Good, Bad, & Ugly of TensorFlow: A survey of six months rapid evolution (+ tips/hacks and code to fix the ugly stuff)**
 
 - blog: [https://indico.io/blog/the-good-bad-ugly-of-tensorflow/](https://indico.io/blog/the-good-bad-ugly-of-tensorflow/)
-- blog: [https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2650715438&idx=2&sn=3dafb301ec8103fce7ad88d6039cb3ad](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2650715438&idx=2&sn=3dafb301ec8103fce7ad88d6039cb3ad)
 
 **Tensorflow Tutorials using Jupyter Notebook**
 

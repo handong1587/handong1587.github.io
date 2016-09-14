@@ -20,6 +20,10 @@ date: 2016-04-03
 
 - blog: [https://blogs.msdn.microsoft.com/vcblog/2016/03/30/visual-c-for-linux-development/](https://blogs.msdn.microsoft.com/vcblog/2016/03/30/visual-c-for-linux-development/)
 
+**Visual C++ for Linux 1.0.5 Updates**
+
+[https://blogs.msdn.microsoft.com/vcblog/2016/09/13/visual-c-for-linux-1-0-5-updates/](https://blogs.msdn.microsoft.com/vcblog/2016/09/13/visual-c-for-linux-1-0-5-updates/)
+
 **Visual C++ for Linux and Raspberry Pi Development**
 
 - blog: [http://www.hanselman.com/blog/VisualCForLinuxAndRaspberryPiDevelopment.aspx](http://www.hanselman.com/blog/VisualCForLinuxAndRaspberryPiDevelopment.aspx)

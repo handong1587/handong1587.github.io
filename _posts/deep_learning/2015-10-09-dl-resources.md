@@ -310,6 +310,10 @@ testing it on the MNIST handwritten digits data.
 
 - arxiv: [http://arxiv.org/abs/1609.02907](http://arxiv.org/abs/1609.02907)
 
+**How powerful are Graph Convolutions? (review of Kipf & Welling, 2016)**
+
+[http://www.inference.vc/how-powerful-are-graph-convolutions-review-of-kipf-welling-2016-2/](http://www.inference.vc/how-powerful-are-graph-convolutions-review-of-kipf-welling-2016-2/)
+
 # Unsupervised Learning
 
 Restricted Boltzmann Machine (RBM), Sparse Coding and Auto-encoder
@@ -507,11 +511,6 @@ accuracy and the detection and localization accuracy of all tasks
 **Multi-Task Learning in Tensorflow (Part 1)**
 
 - blog: [https://jg8610.github.io/Multi-Task/](https://jg8610.github.io/Multi-Task/)
-
-**一箭N雕：多任务深度学习实战**
-
-- intro: 薛云峰 深度学习大讲堂
-- blog: [http://mp.weixin.qq.com/s?__biz=MzI1NTE4NTUwOQ==&mid=2650325281&idx=1&sn=97779ff0da06190d6a71d33f23e9dede#rd](http://mp.weixin.qq.com/s?__biz=MzI1NTE4NTUwOQ==&mid=2650325281&idx=1&sn=97779ff0da06190d6a71d33f23e9dede#rd)
 
 # Multi-modal Learning
 
@@ -810,6 +809,10 @@ with fast exact probabilistic inference over many layers."
 
 - arxiv: [http://arxiv.org/abs/1609.01000](http://arxiv.org/abs/1609.01000)
 
+**Multi-scale brain networks**
+
+- arxiv: [http://arxiv.org/abs/1608.08828](http://arxiv.org/abs/1608.08828)
+
 ## Highway Networks
 
 **Highway Networks**
@@ -955,6 +958,20 @@ with fast exact probabilistic inference over many layers."
 
 - blog: [http://gregharris.info/a-survey-of-deep-learning-techniques-applied-to-trading/](http://gregharris.info/a-survey-of-deep-learning-techniques-applied-to-trading/)
 
+# Deep Learning in Speech
+
+**WaveNet: A Generative Model for Raw Audio**
+
+- homepage: [https://deepmind.com/blog/wavenet-generative-model-raw-audio/](https://deepmind.com/blog/wavenet-generative-model-raw-audio/)
+- paper: [https://drive.google.com/file/d/0B3cxcnOkPx9AeWpLVXhkTDJINDQ/view](https://drive.google.com/file/d/0B3cxcnOkPx9AeWpLVXhkTDJINDQ/view)
+- mirror: [https://pan.baidu.com/s/1gfmGWaJ](https://pan.baidu.com/s/1gfmGWaJ)
+- github(Keras): [https://github.com/usernaamee/keras-wavenet](https://github.com/usernaamee/keras-wavenet)
+- github(TensorFlow): [https://github.com/ibab/tensorflow-wavenet](https://github.com/ibab/tensorflow-wavenet)
+
+**Wav2Letter: an End-to-End ConvNet-based Speech Recognition System**
+
+- arxiv: [http://arxiv.org/abs/1609.03193](http://arxiv.org/abs/1609.03193)
+
 # Applications
 
 **Some like it hot - visual guidance for preference prediction**
@@ -1073,6 +1090,12 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 - keywords: BPM (Beats Per Minutes)
 - blog: [https://nlml.github.io/neural-networks/detecting-bpm-neural-networks/](https://nlml.github.io/neural-networks/detecting-bpm-neural-networks/)
 - github: [https://github.com/nlml/bpm](https://github.com/nlml/bpm)
+
+**Generative Visual Manipulation on the Natural Image Manifold**
+
+- intro: ECCV 2016
+- project page: [https://people.eecs.berkeley.edu/~junyanz/projects/gvm/](https://people.eecs.berkeley.edu/~junyanz/projects/gvm/)
+- arxiv: [http://arxiv.org/abs/1609.03552](http://arxiv.org/abs/1609.03552)
 
 ## Age Estimation
 
@@ -2045,6 +2068,11 @@ Compatible with Theano and TensorFlow. Optimized for Twitter.
 **awesome-free-deep-learning-papers**
 
 - github: [https://github.com/HFTrader/awesome-free-deep-learning-papers](https://github.com/HFTrader/awesome-free-deep-learning-papers)
+
+**DeepLearningBibliography: Bibliography for Publications about Deep Learning using GPU**
+
+- homepage: [http://memkite.com/deep-learning-bibliography/](http://memkite.com/deep-learning-bibliography/)
+- github: [https://github.com/memkite/DeepLearningBibliography](https://github.com/memkite/DeepLearningBibliography)
 
 # Tools
 

@@ -173,11 +173,16 @@ date: 2015-10-09
 
 - arxiv: [http://arxiv.org/abs/1608.05246](http://arxiv.org/abs/1608.05246)
 
-#### VIPLFaceNet
+#### VIPLFaceNet / SeetaFace Engine
 
 **VIPLFaceNet: An Open Source Deep Face Recognition SDK**
 
 - arxiv: [http://arxiv.org/abs/1609.03892](http://arxiv.org/abs/1609.03892)
+
+**SeetaFace Engine**
+
+- intro: SeetaFace Engine is an open source C++ face recognition engine, which can run on CPU with no third-party dependence.
+- github: [https://github.com/seetaface/SeetaFaceEngine](https://github.com/seetaface/SeetaFaceEngine)
 
 #### Datasets / Benchmarks
 
@@ -320,7 +325,3 @@ facial action unit recognition, and eye-gaze estimation.
 **Object Recognition with Convolutional Neural Networks in the Keras Deep Learning Library**
 
 [http://machinelearningmastery.com/object-recognition-convolutional-neural-networks-keras-deep-learning-library/](http://machinelearningmastery.com/object-recognition-convolutional-neural-networks-keras-deep-learning-library/)
-
-**【CVPR2016论文快讯】细粒度视觉分类的最新进展**
-
-[http://mp.weixin.qq.com/s?__biz=MzI1NTE4NTUwOQ==&mid=2650325020&idx=1&sn=d0eb308a95f4dfc90de10ca08e3f9e47&scene=2&srcid=0708FIXOyiOw9Wf3e79bsnT5&from=timeline&isappinstalled=0#wechat_redirect](http://mp.weixin.qq.com/s?__biz=MzI1NTE4NTUwOQ==&mid=2650325020&idx=1&sn=d0eb308a95f4dfc90de10ca08e3f9e47&scene=2&srcid=0708FIXOyiOw9Wf3e79bsnT5&from=timeline&isappinstalled=0#wechat_redirect)
