@@ -172,6 +172,10 @@ with applications for model fitting and techniques for dealing with missing data
 
 ## PhD-level Courses (with video lectures)
 
+**Phd-level courses**
+
+- reddit: [https://www.reddit.com/r/MachineLearning/comments/51qhc8/phdlevel_courses/](https://www.reddit.com/r/MachineLearning/comments/51qhc8/phdlevel_courses/)
+
 **Advanced Introduction to Machine Learning**
 
 - homepage: [http://www.cs.cmu.edu/~bapoczos/Classes/ML10715_2015Fall/index.html](http://www.cs.cmu.edu/~bapoczos/Classes/ML10715_2015Fall/index.html)
@@ -228,10 +232,6 @@ with applications for model fitting and techniques for dealing with missing data
 **Learn Machine learning online – List of machine learning courses available online**
 
 - blog: [http://bafflednerd.com/learn-machine-learning-online/](http://bafflednerd.com/learn-machine-learning-online/)
-
-**Phd-level courses**
-
-- reddit: [https://www.reddit.com/r/MachineLearning/comments/51qhc8/phdlevel_courses/](https://www.reddit.com/r/MachineLearning/comments/51qhc8/phdlevel_courses/)
 
 **awesomeMLmath**
 
