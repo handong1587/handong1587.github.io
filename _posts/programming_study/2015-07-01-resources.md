@@ -304,6 +304,12 @@ You must move pacman (the green cursor) to highlight each word on the gameboard 
 
 - blog: [http://blog.0x972.info/?d=2015/09/09/09/19/14-debugging-with-gdb-a-real-life-example](http://blog.0x972.info/?d=2015/09/09/09/19/14-debugging-with-gdb-a-real-life-example)
 
+**Tips for Productive Debugging with GDB**
+
+![](https://metricpanda.com/assets/gdb-dashboard-a3babff3749376737a532bf1eea9b170ef8a8ea20fbda85645f41554e5dc01e7.png)
+
+- blog: [https://metricpanda.com/tips-for-productive-debugging-with-gdb](https://metricpanda.com/tips-for-productive-debugging-with-gdb)
+
 # Codes
 
 **The Archive of Interesting Code**

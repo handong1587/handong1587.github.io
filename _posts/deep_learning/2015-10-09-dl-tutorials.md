@@ -285,6 +285,10 @@ date: 2015-10-09
 
 - blog: [https://medium.com/@hathibel/creating-a-neural-network-that-can-tell-if-a-name-is-male-or-female-in-javascript-3061029be396#.89l3znc2l](https://medium.com/@hathibel/creating-a-neural-network-that-can-tell-if-a-name-is-male-or-female-in-javascript-3061029be396#.89l3znc2l)
 
+**Softmax Classifiers Explained**
+
+- blog: [http://www.pyimagesearch.com/2016/09/12/softmax-classifiers-explained/](http://www.pyimagesearch.com/2016/09/12/softmax-classifiers-explained/)
+
 ## Convolution
 
 ![](/assets/cnn-materials/conv.jpg)

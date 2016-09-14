@@ -156,6 +156,10 @@ Compressed model is less than 500KB
 - paper: [http://dl.acm.org/citation.cfm?id=2925968](http://dl.acm.org/citation.cfm?id=2925968)
 - sci-hub: [http://dl.acm.org.sci-hub.cc/citation.cfm?doid=2897824.2925968](http://dl.acm.org.sci-hub.cc/citation.cfm?doid=2897824.2925968)
 
+**Style-Transfer via Texture-Synthesis**
+
+- arxiv: [http://arxiv.org/abs/1609.03057](http://arxiv.org/abs/1609.03057)
+
 ## Neural Art On Audio
 
 **MSc AI Project on generative deep networks and neural style transfer for audio**

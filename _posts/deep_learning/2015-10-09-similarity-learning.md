@@ -38,6 +38,11 @@ date: 2015-10-09
 - paper: [http://hi.cs.waseda.ac.jp/~esimo/publications/SimoSerraCVPR2016.pdf](http://hi.cs.waseda.ac.jp/~esimo/publications/SimoSerraCVPR2016.pdf)
 - github: [https://github.com/bobbens/cvpr2016_stylenet](https://github.com/bobbens/cvpr2016_stylenet)
 
+**Fully-Trainable Deep Matching**
+
+- intro: BMVC 2016
+- arxiv: [http://arxiv.org/abs/1609.03532](http://arxiv.org/abs/1609.03532)
+
 ## Person Re-identification
 
 **Recurrent Convolutional Network for Video-based Person Re-Identification**

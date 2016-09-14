@@ -156,6 +156,10 @@ extract saptio-temporal features to represent the video using the CNNs."
 - arxiv: [http://arxiv.org/abs/1608.08128](http://arxiv.org/abs/1608.08128)
 - github: [https://github.com/imatge-upc/activitynet-2016-cvprw](https://github.com/imatge-upc/activitynet-2016-cvprw)
 
+**Sequential Deep Trajectory Descriptor for Action Recognition with Three-stream CNN**
+
+- arxiv: [http://arxiv.org/abs/1609.03056](http://arxiv.org/abs/1609.03056)
+
 # Event Recognition
 
 **TagBook: A Semantic Video Representation without Supervision for Event Detection**

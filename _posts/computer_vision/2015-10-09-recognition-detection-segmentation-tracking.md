@@ -94,6 +94,10 @@ slides: [http://host.robots.ox.ac.uk/pascal/VOC/voc2012/workshop/Towards_VOC2012
 - blog: [http://www.codepool.biz/webcam-barcode-detection-opencv-cplusplus.html](http://www.codepool.biz/webcam-barcode-detection-opencv-cplusplus.html)
 - github: [https://github.com/dynamsoftlabs/cplusplus-webcam-barcode-reader](https://github.com/dynamsoftlabs/cplusplus-webcam-barcode-reader)
 
+**The Role of Context Selection in Object Detection**
+
+- arxiv: [http://arxiv.org/abs/1609.02948](http://arxiv.org/abs/1609.02948)
+
 ## Face Detection
 
 **Build a Face Detection App Using Node.js and OpenCV**

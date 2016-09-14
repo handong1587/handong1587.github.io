@@ -173,6 +173,12 @@ date: 2015-10-09
 
 - arxiv: [http://arxiv.org/abs/1608.05246](http://arxiv.org/abs/1608.05246)
 
+#### VIPLFaceNet
+
+**VIPLFaceNet: An Open Source Deep Face Recognition SDK**
+
+- arxiv: [http://arxiv.org/abs/1609.03892](http://arxiv.org/abs/1609.03892)
+
 #### Datasets / Benchmarks
 
 **The MegaFace Benchmark: 1 Million Faces for Recognition at Scale**

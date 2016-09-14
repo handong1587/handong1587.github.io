@@ -11,44 +11,40 @@ date: 2015-08-27
 
 [http://homepages.inf.ed.ac.uk/rbf/IAPR/researchers/MLPAGES/mlcourses.htm](http://homepages.inf.ed.ac.uk/rbf/IAPR/researchers/MLPAGES/mlcourses.htm)
 
-**CSC2535 -- Spring 2013 Advanced Machine Learning(by Hinton, University of Toronto)**
+**CSC2535 -- Spring 2013 Advanced Machine Learning**
 
-[http://www.cs.toronto.edu/~hinton/csc2535/](http://www.cs.toronto.edu/~hinton/csc2535/)
-
-**CMU: Probabilistic Graphical Models(by Eric Xing)**
-
-- homepage: [http://www.cs.cmu.edu/~epxing/Class/10708/](http://www.cs.cmu.edu/~epxing/Class/10708/)
-- lecture: [http://www.cs.cmu.edu/~epxing/Class/10708-14/lecture.html](http://www.cs.cmu.edu/~epxing/Class/10708-14/lecture.html)
+- instructor: by Hinton, University of Toronto
+- homepage: [http://www.cs.toronto.edu/~hinton/csc2535/](http://www.cs.toronto.edu/~hinton/csc2535/)
 
 **Stanford CME 323: Distributed Algorithms and Optimization**
 
 [http://stanford.edu/~rezab/dao/](http://stanford.edu/~rezab/dao/)
 
-**CMU Convex Optimization: Fall 2015**
-
-[http://www.stat.cmu.edu/~ryantibs/convexopt/](http://www.stat.cmu.edu/~ryantibs/convexopt/)
-
 **University at Buffalo CSE574: Machine Learning and Probabilistic Graphical Models Course**
 
 [http://www.cedar.buffalo.edu/~srihari/CSE574/](http://www.cedar.buffalo.edu/~srihari/CSE574/)
 
-**Stanford CS229: Machine Learning Autumn 2015(by Andrew Ng)**
+**Stanford CS229: Machine Learning Autumn 2015**
 
+- instructor: Andrew Ng
 - homepage: [http://cs229.stanford.edu/](http://cs229.stanford.edu/)
 - projects-page: [http://cs229.stanford.edu/projects2015.html](http://cs229.stanford.edu/projects2015.html)
 
-**Stanford / Winter 2014-2015 CS229T/STATS231: Statistical Learning Theory(by Percy Liang)**
+**Stanford / Winter 2014-2015 CS229T/STATS231: Statistical Learning Theory**
 
+- instructor: Percy Liang
 - homepage: [http://web.stanford.edu/class/cs229t/](http://web.stanford.edu/class/cs229t/)
 - Lecture Notes: [http://web.stanford.edu/class/cs229t/notes.pdf](http://web.stanford.edu/class/cs229t/notes.pdf)
 
-**CMU Fall 2015 10-715: Advanced Introduction to Machine Learning(by Alex Smola, Barnabas Poczos)**
+**CMU Fall 2015 10-715: Advanced Introduction to Machine Learning**
 
+- instructor: Alex Smola, Barnabas Poczos
 - homepage: [http://www.cs.cmu.edu/~bapoczos/Classes/ML10715_2015Fall/](http://www.cs.cmu.edu/~bapoczos/Classes/ML10715_2015Fall/)
 - videos: [http://pan.baidu.com/s/1qWvcsUS](http://pan.baidu.com/s/1qWvcsUS)
 
-**2015 Machine Learning Summer School: Convex Optimization Short Course(by S. Boyd and S. Diamond)**
+**2015 Machine Learning Summer School: Convex Optimization Short Course**
 
+- instructor: S. Boyd and S. Diamond
 - Lecture slides and IPython notebooks: [https://stanford.edu/~boyd/papers/cvx_short_course.html](https://stanford.edu/~boyd/papers/cvx_short_course.html)
 
 **STA 4273H (Winter 2015): Large Scale Machine Learning**
@@ -62,8 +58,9 @@ date: 2015-08-27
 - lectures: [http://pan.baidu.com/s/1bndbxJh#path=%252FDeep%2520Learning%2520Lectures](http://pan.baidu.com/s/1bndbxJh#path=%252FDeep%2520Learning%2520Lectures)
 - github: [https://github.com/oxford-cs-ml-2015/](https://github.com/oxford-cs-ml-2015/)
 
-**Computer Science 294: Practical Machine Learning (Fall 2009) (by Michael Jordan)**
+**Computer Science 294: Practical Machine Learning (Fall 2009)**
 
+- instructor: Michael Jordan
 - homepage: [https://www.cs.berkeley.edu/~jordan/courses/294-fall09/](https://www.cs.berkeley.edu/~jordan/courses/294-fall09/)
 
 **Statistics, Probability and Machine Learning Short Course**
@@ -92,9 +89,10 @@ date: 2015-08-27
 
 [http://www.cs.princeton.edu/courses/archive/spring15/cos598D/](http://www.cs.princeton.edu/courses/archive/spring15/cos598D/)
 
-**Princeton Computer Science 511: Theoretical Machine Learning (by Rob Schapire)**
+**Princeton Computer Science 511: Theoretical Machine Learning**
 
-[http://www.cs.princeton.edu/courses/archive/spring14/cos511/schedule.html](http://www.cs.princeton.edu/courses/archive/spring14/cos511/schedule.html)
+- instructor: Rob Schapire
+- homepage: [http://www.cs.princeton.edu/courses/archive/spring14/cos511/schedule.html](http://www.cs.princeton.edu/courses/archive/spring14/cos511/schedule.html)
 
 **MACHINE LEARNING FOR MUSICIANS AND ARTISTS**
 
@@ -108,8 +106,9 @@ date: 2015-08-27
 
 [http://www.mit.edu/~9.520/fall15/](http://www.mit.edu/~9.520/fall15/)
 
-**Machine Learning: 10-701/15-781, Spring 2011 (Carnegie Mellon University. Tom Mitchell)**
+**CMU: Machine Learning: 10-701/15-781, Spring 2011**
 
+- instructor: Tom Mitchell
 - homepage: [http://www.cs.cmu.edu/~tom/10701_sp11/](http://www.cs.cmu.edu/~tom/10701_sp11/)
 - lectures: [http://www.cs.cmu.edu/~tom/10701_sp11/lectures.shtml](http://www.cs.cmu.edu/~tom/10701_sp11/lectures.shtml)
 
@@ -170,6 +169,59 @@ with applications for model fitting and techniques for dealing with missing data
 **Distributed Machine Learning with Apache Spark**
 
 - edx: [https://prod-edx-mktg-edit.edx.org/course/distributed-machine-learning-apache-uc-berkeleyx-cs120x](https://prod-edx-mktg-edit.edx.org/course/distributed-machine-learning-apache-uc-berkeleyx-cs120x)
+
+## PhD-level Courses (with video lectures)
+
+**Advanced Introduction to Machine Learning**
+
+- homepage: [http://www.cs.cmu.edu/~bapoczos/Classes/ML10715_2015Fall/index.html](http://www.cs.cmu.edu/~bapoczos/Classes/ML10715_2015Fall/index.html)
+- video: [https://www.youtube.com/playlist?list=PL4DwY1suLMkcu-wytRDbvBNmx57CdQ2pJ&jct=q4qVgISGxJql7TlE6eSLKa8Wwci8SA](https://www.youtube.com/playlist?list=PL4DwY1suLMkcu-wytRDbvBNmx57CdQ2pJ&jct=q4qVgISGxJql7TlE6eSLKa8Wwci8SA)
+
+**STA 4273H (Winter 2015): Large Scale Machine Learning**
+
+[http://www.cs.toronto.edu/~rsalakhu/STA4273_2015/](http://www.cs.toronto.edu/~rsalakhu/STA4273_2015/)
+
+**Statistical Learning Theory and Applications (MIT)**
+
+- homepage: [http://www.mit.edu/~9.520/fall15/index.html](http://www.mit.edu/~9.520/fall15/index.html)
+- video: [https://www.youtube.com/playlist?list=PLyGKBDfnk-iDj3FBd0Avr_dLbrU8VG73O](https://www.youtube.com/playlist?list=PLyGKBDfnk-iDj3FBd0Avr_dLbrU8VG73O)
+
+**(REGML 2016) Regularization Methods for Machine Learning**
+
+- homepage: [http://lcsl.mit.edu/courses/regml/regml2016/](http://lcsl.mit.edu/courses/regml/regml2016/)
+- video: [https://www.youtube.com/playlist?list=PLbF0BXX_6CPJ20Gf_KbLFnPWjFTvvRwCO](https://www.youtube.com/playlist?list=PLbF0BXX_6CPJ20Gf_KbLFnPWjFTvvRwCO)
+
+**Statistical Machine Learning**
+
+- homepage: [http://www.stat.cmu.edu/~larry/=sml/](http://www.stat.cmu.edu/~larry/=sml/)
+- video: [https://www.youtube.com/playlist?list=PLTB9VQq8WiaCBK2XrtYn5t9uuPdsNm7YE](https://www.youtube.com/playlist?list=PLTB9VQq8WiaCBK2XrtYn5t9uuPdsNm7YE)
+
+**Convex Optimization: Spring 2015**
+
+- homepage: [http://www.stat.cmu.edu/~ryantibs/convexopt-S15/](http://www.stat.cmu.edu/~ryantibs/convexopt-S15/)
+- video: [https://www.youtube.com/playlist?list=PLjbUi5mgii6BZBhJ9nW7eydgycyCOYeZ6](https://www.youtube.com/playlist?list=PLjbUi5mgii6BZBhJ9nW7eydgycyCOYeZ6)
+
+**CMU: Probabilistic Graphical Models (10-708, Spring 2014)**
+
+- instructor: Eric Xing
+- homepage: [http://www.cs.cmu.edu/~epxing/Class/10708/](http://www.cs.cmu.edu/~epxing/Class/10708/)
+- lecture: [http://www.cs.cmu.edu/~epxing/Class/10708-14/lecture.html](http://www.cs.cmu.edu/~epxing/Class/10708-14/lecture.html)
+
+**Advanced Optimization and Randomized Methods**
+
+- instructor: A. Smola, S. Sra
+- homepage: [http://www.cs.cmu.edu/~suvrit/teach/index.html](http://www.cs.cmu.edu/~suvrit/teach/index.html)
+
+**Machine Learning for Robotics and Computer Vision**
+
+- homepage: [http://vision.in.tum.de/teaching/ws2013/ml_ws13](http://vision.in.tum.de/teaching/ws2013/ml_ws13)
+- video: [https://www.youtube.com/watch?v=QZmZFeZxEKI&list=PLTBdjV_4f-EIiongKlS9OKrBEp8QR47Wl](https://www.youtube.com/watch?v=QZmZFeZxEKI&list=PLTBdjV_4f-EIiongKlS9OKrBEp8QR47Wl)
+
+## PhD-level Courses (without video lectures)
+
+**Probabilistic Graphical Models (10-708, Spring 2016)**
+
+[http://www.cs.cmu.edu/~epxing/Class/10708-16/lecture.html](http://www.cs.cmu.edu/~epxing/Class/10708-16/lecture.html)
 
 # Resources
 

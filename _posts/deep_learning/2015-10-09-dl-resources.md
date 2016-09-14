@@ -306,6 +306,10 @@ testing it on the MNIST handwritten digits data.
 
 - blog: [http://www.kdnuggets.com/2016/07/semi-supervised-feature-transfer-deep-learning.html](http://www.kdnuggets.com/2016/07/semi-supervised-feature-transfer-deep-learning.html)
 
+**Semi-Supervised Classification with Graph Convolutional Networks**
+
+- arxiv: [http://arxiv.org/abs/1609.02907](http://arxiv.org/abs/1609.02907)
+
 # Unsupervised Learning
 
 Restricted Boltzmann Machine (RBM), Sparse Coding and Auto-encoder
@@ -1421,6 +1425,10 @@ Bicubic VS. Shepard CNN
 
 - arxiv: [http://arxiv.org/abs/1608.04667](http://arxiv.org/abs/1608.04667)
 
+**Rectifier Neural Network with a Dual-Pathway Architecture for Image Denoising**
+
+- arxiv: [http://arxiv.org/abs/1609.03024](http://arxiv.org/abs/1609.03024)
+
 ## Image Haze Removal
 
 **DehazeNet: An End-to-End System for Single Image Haze Removal**
@@ -1723,7 +1731,9 @@ Bicubic VS. Shepard CNN
 
 **Why does deep and cheap learning work so well?**
 
+- intro: Harvard and MIT
 - arxiv: [http://arxiv.org/abs/1608.08225](http://arxiv.org/abs/1608.08225)
+- review: [https://www.technologyreview.com/s/602344/the-extraordinary-link-between-deep-neural-networks-and-the-nature-of-the-universe/](https://www.technologyreview.com/s/602344/the-extraordinary-link-between-deep-neural-networks-and-the-nature-of-the-universe/)
 
 ## STDP
 

@@ -559,6 +559,11 @@ This task involves predicting the salient regions of an image given by human eye
 - intro: Faster R-CNN, hard negative mining. state-of-the-art on the FDDB dataset
 - arxiv: [http://arxiv.org/abs/1608.02236](http://arxiv.org/abs/1608.02236)
 
+**A Multi-Scale Cascade Fully Convolutional Network Face Detector**
+
+- intro: ICPR 2016
+- arxiv: [http://arxiv.org/abs/1609.03536](http://arxiv.org/abs/1609.03536)
+
 ### Datasets / Benchmarks
 
 **FDDB: Face Detection Data Set and Benchmark**
@@ -697,6 +702,10 @@ This task involves predicting the salient regions of an image given by human eye
 
 - arxiv: [http://arxiv.org/abs/1603.09446](http://arxiv.org/abs/1603.09446)
 - github: [https://github.com/zeakey/DeepSkeleton](https://github.com/zeakey/DeepSkeleton)
+
+**DeepSkeleton: Learning Multi-task Scale-associated Deep Side Outputs for Object Skeleton Extraction in Natural Images**
+
+- arxiv: [http://arxiv.org/abs/1609.03659](http://arxiv.org/abs/1609.03659)
 
 ## Others
 

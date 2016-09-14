@@ -66,6 +66,10 @@ date: 2015-08-27
 
 - blog: [http://www.antoniodeluca.info/blog/10-08-2016/neural-networks-in-javascript.html](http://www.antoniodeluca.info/blog/10-08-2016/neural-networks-in-javascript.html)
 
+**Multiplication with simple neural nets**
+
+- blog: [http://nbviewer.jupyter.org/gist/fperez/c7b1cb4810f9d0935e893f34c41f0c62](http://nbviewer.jupyter.org/gist/fperez/c7b1cb4810f9d0935e893f34c41f0c62)
+
 ## Backpropagation
 
 **A Step by Step Backpropagation Example**

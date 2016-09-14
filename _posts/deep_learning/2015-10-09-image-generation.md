@@ -207,6 +207,10 @@ date: 2015-10-09
 
 - arxiv: [https://arxiv.org/abs/1606.07536](https://arxiv.org/abs/1606.07536)
 
+**Generative Adversarial Networks with Keras**
+
+- github: [https://github.com/phreeza/keras-GAN](https://github.com/phreeza/keras-GAN)
+
 # Blogs
 
 **Generative Adversarial Autoencoders in Theano**

@@ -20,3 +20,9 @@ date: 2016-02-24
 **The Matrix Cookbook**
 
 [https://www.math.uwaterloo.ca/~hwolkowi/matrixcookbook.pdf](https://www.math.uwaterloo.ca/~hwolkowi/matrixcookbook.pdf)
+
+# Courses
+
+**Stanford EE261 - The Fourier Transform and its Applications**
+
+- homepage: [https://see.stanford.edu/Course/EE261](https://see.stanford.edu/Course/EE261)

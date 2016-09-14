@@ -410,6 +410,10 @@ The project is dedicated to hero in life great Jesse Livermore.
 - blog: [http://www.ehrenbrav.com/2016/08/teaching-your-computer-to-play-super-mario-bros-a-fork-of-the-google-deepmind-atari-machine-learning-project/](http://www.ehrenbrav.com/2016/08/teaching-your-computer-to-play-super-mario-bros-a-fork-of-the-google-deepmind-atari-machine-learning-project/)
 - github: [https://github.com/ehrenbrav/DeepQNetwork](https://github.com/ehrenbrav/DeepQNetwork)
 
+**dprl: Deep reinforcement learning package for torch7**
+
+- github: [https://github.com/PoHsunSu/dprl](https://github.com/PoHsunSu/dprl)
+
 # Library
 
 **BURLAP: Brown-UMBC Reinforcement Learning and Planning (BURLAP) java code library**

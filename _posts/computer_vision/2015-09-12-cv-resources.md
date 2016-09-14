@@ -70,6 +70,10 @@ date: 2015-09-12
 
 - arxiv: [http://arxiv.org/abs/1601.03117](http://arxiv.org/abs/1601.03117)
 
+**Image denoising via group sparsity residual constraint**
+
+- arxiv: [http://arxiv.org/abs/1609.03302](http://arxiv.org/abs/1609.03302)
+
 # Image Blur / Deblur
 
 **Motion Blurred Images Generation**
