@@ -5,6 +5,11 @@ title: Resources
 date: 2016-02-24
 ---
 
+**Packings of Regular Pentagons in the Plane**
+
+- intro: every packing of congruent regular pentagons in the Euclidean plane has density at most (5−5√)/3, which is about 0.92
+- arxiv: [http://arxiv.org/abs/1602.07220](http://arxiv.org/abs/1602.07220)
+
 **A Primer on Bézier Curves: A free, online book for when you really need to know how to do Bézier things.**
 
 [http://pomax.github.io/bezierinfo/](http://pomax.github.io/bezierinfo/)

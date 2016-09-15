@@ -289,6 +289,19 @@ date: 2015-10-09
 
 - blog: [http://www.pyimagesearch.com/2016/09/12/softmax-classifiers-explained/](http://www.pyimagesearch.com/2016/09/12/softmax-classifiers-explained/)
 
+**How an algorithm behind Deep Learning works**
+
+- video: [http://blog.revolutionanalytics.com/2016/09/how-the-algorithm-behind-deep-learning-works.html](http://blog.revolutionanalytics.com/2016/09/how-the-algorithm-behind-deep-learning-works.html)
+- slides: [https://github.com/brohrer/public-hosting/raw/master/How_CNNs_work.pdf](https://github.com/brohrer/public-hosting/raw/master/How_CNNs_work.pdf)
+- blog: [http://www.kdnuggets.com/2016/08/brohrer-convolutional-neural-networks-explanation.html](http://www.kdnuggets.com/2016/08/brohrer-convolutional-neural-networks-explanation.html)
+- mirror: [http://v.youku.com/v_show/id_XMTcyNTgwNDQyOA==.html](http://v.youku.com/v_show/id_XMTcyNTgwNDQyOA==.html)
+
+**The Neural Network Zoo**
+
+![](http://www.asimovinstitute.org/wp-content/uploads/2016/09/neuralnetworks.png)
+
+[http://www.asimovinstitute.org/neural-network-zoo/](http://www.asimovinstitute.org/neural-network-zoo/)
+
 ## Convolution
 
 ![](/assets/cnn-materials/conv.jpg)

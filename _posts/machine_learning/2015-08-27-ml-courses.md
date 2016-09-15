@@ -28,13 +28,13 @@ date: 2015-08-27
 
 - instructor: Andrew Ng
 - homepage: [http://cs229.stanford.edu/](http://cs229.stanford.edu/)
-- projects-page: [http://cs229.stanford.edu/projects2015.html](http://cs229.stanford.edu/projects2015.html)
+- project page: [http://cs229.stanford.edu/projects2015.html](http://cs229.stanford.edu/projects2015.html)
 
 **Stanford / Winter 2014-2015 CS229T/STATS231: Statistical Learning Theory**
 
 - instructor: Percy Liang
 - homepage: [http://web.stanford.edu/class/cs229t/](http://web.stanford.edu/class/cs229t/)
-- Lecture Notes: [http://web.stanford.edu/class/cs229t/notes.pdf](http://web.stanford.edu/class/cs229t/notes.pdf)
+- lecture notes: [http://web.stanford.edu/class/cs229t/notes.pdf](http://web.stanford.edu/class/cs229t/notes.pdf)
 
 **CMU Fall 2015 10-715: Advanced Introduction to Machine Learning**
 

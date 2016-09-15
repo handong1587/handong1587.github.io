@@ -32,6 +32,11 @@ date: 2015-10-09
 
 [http://nikhilbuduma.com/2015/01/11/a-deep-dive-into-recurrent-neural-networks/](http://nikhilbuduma.com/2015/01/11/a-deep-dive-into-recurrent-neural-networks/)
 
+**A tutorial on training recurrent neural networks, covering BPPT, RTRL, EKF and the "echo state network" approach**
+
+- paper: [http://minds.jacobs-university.de/sites/default/files/uploads/papers/ESNTutorialRev.pdf](http://minds.jacobs-university.de/sites/default/files/uploads/papers/ESNTutorialRev.pdf)
+- slides: [http://deeplearning.cs.cmu.edu/notes/shaoweiwang.pdf](http://deeplearning.cs.cmu.edu/notes/shaoweiwang.pdf)
+
 **Long Short-Term Memory: Tutorial on LSTM Recurrent Networks**
 
 [http://people.idsia.ch/~juergen/lstm/index.htm](http://people.idsia.ch/~juergen/lstm/index.htm)

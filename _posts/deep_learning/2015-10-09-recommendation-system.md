@@ -51,6 +51,18 @@ date: 2015-10-09
 
 - paper: [http://static.googleusercontent.com/media/research.google.com/en//pubs/archive/45530.pdf](http://static.googleusercontent.com/media/research.google.com/en//pubs/archive/45530.pdf)
 
+**Photo Filter Recommendation by Category-Aware Aesthetic Learning**
+
+- intro: Filter Aesthetic Comparison Dataset (FACD): 28,000 filtered images and 42,240 reliable image pairs with aesthetic comparison annotations
+- arxiv: [http://arxiv.org/abs/1608.05339](http://arxiv.org/abs/1608.05339)
+
+**Convolutional Matrix Factorization for Document Context-Aware Recommendation**
+
+![](http://dm.postech.ac.kr/~cartopy/img/ConvMF_PGM_CNN.png)
+
+- project page: [http://dm.postech.ac.kr/~cartopy/ConvMF/](http://dm.postech.ac.kr/~cartopy/ConvMF/)
+- paper: [http://dl.acm.org/citation.cfm?id=2959165](http://dl.acm.org/citation.cfm?id=2959165)
+
 # Slides
 
 **Deep learning for music recommendation**

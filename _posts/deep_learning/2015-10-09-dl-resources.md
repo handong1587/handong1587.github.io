@@ -653,6 +653,11 @@ which encodes useful class information rather than individual units (feature act
 - mirror: [http://pan.baidu.com/s/1mg24b3a](http://pan.baidu.com/s/1mg24b3a)
 - github(C++): [https://github.com/Ldpe2G/PCANet](https://github.com/Ldpe2G/PCANet)
 
+**Convolutional Kernel Networks**
+
+- intro: NIPS 2014
+- arxiv: [http://arxiv.org/abs/1406.3332](http://arxiv.org/abs/1406.3332)
+
 **Deeply-supervised Nets (DSN)**
 
 ![](http://vcl.ucsd.edu/~sxie/images/dsn/architecture.png)
@@ -921,12 +926,6 @@ with fast exact probabilistic inference over many layers."
 - paper: [http://www.umiacs.umd.edu/~yzyang/paper/YouCookMani_CameraReady.pdf](http://www.umiacs.umd.edu/~yzyang/paper/YouCookMani_CameraReady.pdf)
 - author page: [http://www.umiacs.umd.edu/~yzyang/](http://www.umiacs.umd.edu/~yzyang/)
 
-**Robots that can adapt like animals (Nature 2014)**
-
-- arxiv: [http://arxiv.org/abs/1407.3501](http://arxiv.org/abs/1407.3501)
-- code: [http://pages.isir.upmc.fr/~mouret/code/ite_source_code.tar.gz](http://pages.isir.upmc.fr/~mouret/code/ite_source_code.tar.gz)
-- github(for Bayesian optimization): [http://github.com/jbmouret/limbo](http://github.com/jbmouret/limbo)
-
 **End-to-End Training of Deep Visuomotor Policies**
 
 - arxiv: [http://arxiv.org/abs/1504.00702](http://arxiv.org/abs/1504.00702)
@@ -1056,11 +1055,6 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 
 - intro: Deep Genomic Dashboard (Deep GDashboard)
 - arxiv: [http://arxiv.org/abs/1608.03644](http://arxiv.org/abs/1608.03644)
-
-**Photo Filter Recommendation by Category-Aware Aesthetic Learning**
-
-- intro: Filter Aesthetic Comparison Dataset (FACD): 28,000 filtered images and 42,240 reliable image pairs with aesthetic comparison annotations
-- arxiv: [http://arxiv.org/abs/1608.05339](http://arxiv.org/abs/1608.05339)
 
 **Instagram photos reveal predictive markers of depression**
 
@@ -1603,6 +1597,10 @@ Bicubic VS. Shepard CNN
 - code: [http://memorability.csail.mit.edu/download.html](http://memorability.csail.mit.edu/download.html)
 - reviews: [http://petapixel.com/2015/12/18/how-memorable-are-times-top-10-photos-of-2015-to-a-computer/](http://petapixel.com/2015/12/18/how-memorable-are-times-top-10-photos-of-2015-to-a-computer/)
 
+**A Survey: Time Travel in Deep Learning Space: An Introduction to Deep Learning Models and How Deep Learning Models Evolved from the Initial Ideas**
+
+- arxiv: [http://arxiv.org/abs/1510.04781](http://arxiv.org/abs/1510.04781)
+
 **Towards Open Set Deep Networks**
 
 - arxiv: [http://arxiv.org/abs/1511.06233](http://arxiv.org/abs/1511.06233)
@@ -1625,6 +1623,10 @@ Bicubic VS. Shepard CNN
 **A Mathematical Theory of Deep Convolutional Neural Networks for Feature Extraction**
 
 - arxiv: [http://arxiv.org/abs/1512.06293](http://arxiv.org/abs/1512.06293)
+
+**Recent Advances in Convolutional Neural Networks**
+
+- arxiv: [http://arxiv.org/abs/1512.07108](http://arxiv.org/abs/1512.07108)
 
 **Understanding Deep Convolutional Networks**
 
@@ -1741,10 +1743,6 @@ Bicubic VS. Shepard CNN
 **Convolutional Neural Networks Analyzed via Convolutional Sparse Coding**
 
 - arxiv: [http://arxiv.org/abs/1607.08194](http://arxiv.org/abs/1607.08194)
-
-**Recent Advances in Convolutional Neural Networks**
-
-- arxiv: [http://arxiv.org/abs/1512.07108](http://arxiv.org/abs/1512.07108)
 
 **TI-POOLING: transformation-invariant pooling for feature learning in Convolutional Neural Networks**
 

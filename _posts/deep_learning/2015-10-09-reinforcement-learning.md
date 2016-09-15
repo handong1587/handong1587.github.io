@@ -15,13 +15,15 @@ date: 2015-10-09
 
 [http://neuro.cs.ut.ee/deep-reinforcement-learning-with-neon/](http://neuro.cs.ut.ee/deep-reinforcement-learning-with-neon/)
 
-**Deep Reinforcement Learning (by David Silver, Google DeepMind)**
+**Deep Reinforcement Learning**
 
+- intro: David Silver, Google DeepMind
 - slides: [http://www.iclr.cc/lib/exe/fetch.php?media=iclr2015:silver-iclr2015.pdf](http://www.iclr.cc/lib/exe/fetch.php?media=iclr2015:silver-iclr2015.pdf)
 - mirror: [http://pan.baidu.com/s/1qWBOJGo](http://pan.baidu.com/s/1qWBOJGo)
 
-**Deep Reinforcement Learning (MLSS2016) by John Schulman[UC Berkeley]**
+**Deep Reinforcement Learning**
 
+- intro:  MLSS 2016. John Schulman[UC Berkeley]
 - homepage: [http://rl-gym-doc.s3-website-us-west-2.amazonaws.com/mlss/index.html](http://rl-gym-doc.s3-website-us-west-2.amazonaws.com/mlss/index.html)
 - slides: [http://pan.baidu.com/s/1jIatusA#path=%252F](http://pan.baidu.com/s/1jIatusA#path=%252F)
 
@@ -69,16 +71,33 @@ date: 2015-10-09
 - instructor: Charles Isbell, Michael Littman
 - udacity: [https://www.udacity.com/course/reinforcement-learning--ud600](https://www.udacity.com/course/reinforcement-learning--ud600)
 
+**CS229 Lecture notes Part XIII: Reinforcement Learning and Control**
+
+- intro: Andrew Ng
+- lecture notes: [http://cs229.stanford.edu/notes/cs229-notes12.pdf](http://cs229.stanford.edu/notes/cs229-notes12.pdf)
+
 # Papers
 
-**Playing Atari with Deep Reinforcement Learning (Google DeepMind)**
+**Reinforcement Learning: A Survey**
 
+- intro: JAIR 1996
+- project page: [http://www.cs.cmu.edu/afs/cs/project/jair/pub/volume4/kaelbling96a-html/rl-survey.html](http://www.cs.cmu.edu/afs/cs/project/jair/pub/volume4/kaelbling96a-html/rl-survey.html)
+- arxiv: [http://arxiv.org/abs/cs/9605103](http://arxiv.org/abs/cs/9605103)
+
+**Playing Atari with Deep Reinforcement Learning**
+
+- intro: Google DeepMind. NIPS Deep Learning Workshop 2013
 - arxiv: [http://arxiv.org/abs/1312.5602](http://arxiv.org/abs/1312.5602)
 - github: [https://github.com/kristjankorjus/Replicating-DeepMind](https://github.com/kristjankorjus/Replicating-DeepMind)
 - demo: [http://cs.stanford.edu/people/karpathy/convnetjs/demo/rldemo.html](http://cs.stanford.edu/people/karpathy/convnetjs/demo/rldemo.html)
 - github: [https://github.com/Kaixhin/Atari](https://github.com/Kaixhin/Atari)
 - github(Tensorflow): [https://github.com/gliese581gg/DQN_tensorflow](https://github.com/gliese581gg/DQN_tensorflow)
 - summary: [https://github.com/aleju/papers/blob/master/neural-nets/Playing_Atari_with_Deep_Reinforcement_Learning.md](https://github.com/aleju/papers/blob/master/neural-nets/Playing_Atari_with_Deep_Reinforcement_Learning.md)
+
+**Replicating the Paper “Playing Atari with Deep Reinforcement Learning”**
+
+- intro: University of Tartu
+- technical report: [https://courses.cs.ut.ee/MTAT.03.291/2014_spring/uploads/Main/Replicating%20DeepMind.pdf](https://courses.cs.ut.ee/MTAT.03.291/2014_spring/uploads/Main/Replicating%20DeepMind.pdf)
 
 **A Tutorial for Reinforcement Learning**
 
@@ -98,8 +117,9 @@ date: 2015-10-09
 - github: [https://github.com/junhyukoh/nips2015-action-conditional-video-prediction](https://github.com/junhyukoh/nips2015-action-conditional-video-prediction)
 - video: [http://video.weibo.com/show?fid=1034:98062f3d83e41da6faa99cde5aa1ac97](http://video.weibo.com/show?fid=1034:98062f3d83e41da6faa99cde5aa1ac97)
 
-**Continuous control with deep reinforcement learning (Google Deepmind)**
+**Continuous control with deep reinforcement learning**
 
+- intro: Google DeepMind
 - arxiv: [http://arxiv.org/abs/1509.02971](http://arxiv.org/abs/1509.02971)
 - github: [https://github.com/iassael/torch-policy-gradient](https://github.com/iassael/torch-policy-gradient)
 
@@ -113,11 +133,12 @@ date: 2015-10-09
 
 - arxiv: [http://arxiv.org/abs/1509.01549](http://arxiv.org/abs/1509.01549)
 
-**Human-level control through deep reinforcement learning (Google DeepMind. 2015 Nature)**
+**Human-level control through deep reinforcement learning**
 
 ![](/assets/reinforcement-learning-materials/DeepMind_Atari_Deep_Q_Learner-breakout.gif)
 
-- paper: [http://pan.baidu.com/s/1kTiwzOF](http://pan.baidu.com/s/1kTiwzOF)
+- intro: Google DeepMind. 2015 Nature
+- mirror: [http://pan.baidu.com/s/1kTiwzOF](http://pan.baidu.com/s/1kTiwzOF)
 - code: [https://sites.google.com/a/deepmind.com/dqn/](https://sites.google.com/a/deepmind.com/dqn/)
 - youtube: [https://www.youtube.com/watch?v=V2wzkPmiB_A](https://www.youtube.com/watch?v=V2wzkPmiB_A)
 - github: [https://github.com/kuz/DeepMind-Atari-Deep-Q-Learner](https://github.com/kuz/DeepMind-Atari-Deep-Q-Learner)
@@ -129,22 +150,26 @@ date: 2015-10-09
 
 - arxiv: [http://arxiv.org/abs/1510.02173](http://arxiv.org/abs/1510.02173)
 
-**Variational Information Maximisation for Intrinsically Motivated Reinforcement Learning(Google DeepMind)**
+**Variational Information Maximisation for Intrinsically Motivated Reinforcement Learning**
 
+- intro: Google DeepMind
 - arxiv: [http://arxiv.org/abs/1509.08731](http://arxiv.org/abs/1509.08731)
 - notes: [https://www.evernote.com/shard/s189/sh/8c7ff9d9-c321-4e83-a802-58f55ebed9ac/bfc614113180a5f4624390df56e73889](https://www.evernote.com/shard/s189/sh/8c7ff9d9-c321-4e83-a802-58f55ebed9ac/bfc614113180a5f4624390df56e73889)
 
-**Actor-Mimic: Deep Multitask and Transfer Reinforcement Learning (ICLR 2016)**
+**Actor-Mimic: Deep Multitask and Transfer Reinforcement Learning**
 
+- intro: ICLR 2016
 - arxiv: [http://arxiv.org/abs/1511.06342](http://arxiv.org/abs/1511.06342)
 - github: [https://github.com/eparisotto/ActorMimic](https://github.com/eparisotto/ActorMimic)
 
-**MazeBase: A Sandbox for Learning from Games(New York University & Facebook AI Research)**
+**MazeBase: A Sandbox for Learning from Games**
 
+- intro: New York University & Facebook AI Research
 - arxiv: [http://arxiv.org/abs/1511.07401](http://arxiv.org/abs/1511.07401)
 
-**Learning Simple Algorithms from Examples(New York University & Facebook AI Research)**
+**Learning Simple Algorithms from Examples**
 
+- intro: New York University & Facebook AI Research
 - arxiv: [http://arxiv.org/abs/1511.07275](http://arxiv.org/abs/1511.07275)
 - github: [https://github.com/wojzaremba/algorithm-learning](https://github.com/wojzaremba/algorithm-learning)
 
@@ -184,8 +209,9 @@ date: 2015-10-09
 
 - arxiv: [http://arxiv.org/abs/1511.05952](http://arxiv.org/abs/1511.05952)
 
-**Dueling Network Architectures for Deep Reinforcement Learning (ICML 2016 best paper)**
+**Dueling Network Architectures for Deep Reinforcement Learning**
 
+- intro: ICML 2016 best paper
 - arxiv: [http://arxiv.org/abs/1511.06581](http://arxiv.org/abs/1511.06581)
 - notes: [https://hadovanhasselt.wordpress.com/2016/06/20/best-paper-at-icml-dueling-network-architectures-for-deep-reinforcement-learning/](https://hadovanhasselt.wordpress.com/2016/06/20/best-paper-at-icml-dueling-network-architectures-for-deep-reinforcement-learning/)
 
@@ -204,8 +230,9 @@ date: 2015-10-09
 
 - arxiv: [http://arxiv.org/abs/1602.02672](http://arxiv.org/abs/1602.02672)
 
-**Insights in Reinforcement Learning (MSc thesis)**
+**Insights in Reinforcement Learning**
 
+- intro: MSc thesis
 - mirror: [http://pan.baidu.com/s/1bn51BYJ](http://pan.baidu.com/s/1bn51BYJ)
 
 **Using Deep Q-Learning to Control Optimization Hyperparameters**

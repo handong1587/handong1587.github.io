@@ -203,6 +203,16 @@ using a large number of the existing object proposal approaches.
 
 [http://docs.opencv.org/master/d8/d83/tutorial_py_grabcut.html#gsc.tab=0](http://docs.opencv.org/master/d8/d83/tutorial_py_grabcut.html#gsc.tab=0)
 
+## Video Segmentation
+
+**Bilateral Space Video Segmentation**
+
+![](https://graphics.ethz.ch/~perazzif/bvs/files/bvs_teaser.jpg)
+
+- intro: CVPR 2016
+- project page: [https://graphics.ethz.ch/~perazzif/bvs/index.html](https://graphics.ethz.ch/~perazzif/bvs/index.html)
+- github: [https://github.com/owang/BilateralVideoSegmentation](https://github.com/owang/BilateralVideoSegmentation)
+
 # Tracking
 
 **MEEM: Robust Tracking via Multiple Experts using Entropy Minimization**

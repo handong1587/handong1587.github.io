@@ -20,7 +20,8 @@ date: 2015-09-26
 
 **Robots that can adapt like animals**
 
-- paper: [http://arxiv.org/abs/1407.3501](http://arxiv.org/abs/1407.3501)
+- intro: Nature 2014
+- arxiv: [http://arxiv.org/abs/1407.3501](http://arxiv.org/abs/1407.3501)
 - code: [http://pages.isir.upmc.fr/~mouret/code/ite_source_code.tar.gz](http://pages.isir.upmc.fr/~mouret/code/ite_source_code.tar.gz)
 - videos: [http://www.nature.com/nature/journal/v521/n7553/full/nature14422.html#videos](http://www.nature.com/nature/journal/v521/n7553/full/nature14422.html#videos)
 

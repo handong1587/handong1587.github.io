@@ -13,6 +13,7 @@ date: 2015-10-09
 
 **Visualizing and Understanding Convolutional Network**
 
+- intro: ECCV 2014
 - arxiv: [http://arxiv.org/abs/1311.2901](http://arxiv.org/abs/1311.2901)
 - slides: [https://courses.cs.washington.edu/courses/cse590v/14au/cse590v_dec5_DeepVis.pdf](https://courses.cs.washington.edu/courses/cse590v/14au/cse590v_dec5_DeepVis.pdf)
 - slides: [http://videolectures.net/site/normal_dl/tag=921098/eccv2014_zeiler_convolutional_networks_01.pdf](http://videolectures.net/site/normal_dl/tag=921098/eccv2014_zeiler_convolutional_networks_01.pdf)

@@ -36,6 +36,11 @@ date: 2015-10-09
 
 - blog: [http://www.news.cornell.edu/stories/2016/08/where-can-i-buy-chair-app-will-tell-you](http://www.news.cornell.edu/stories/2016/08/where-can-i-buy-chair-app-will-tell-you)
 
+**Deep Semantic Ranking Based Hashing for Multi-Label Image Retrieval**
+
+- intro: CVPR 2015
+- arxiv: [http://arxiv.org/abs/1501.06272](http://arxiv.org/abs/1501.06272)
+
 **Supervised Learning of Semantics-Preserving Hashing via Deep Neural Networks for Large-Scale Image Search (SSDH)**
 
 - arxiv: [http://arxiv.org/abs/1507.00101](http://arxiv.org/abs/1507.00101)
