@@ -173,6 +173,7 @@ topmost feature map after knowing the confidences of the underlying object categ
 - github: [https://github.com/mitmul/chainer-faster-rcnn](https://github.com/mitmul/chainer-faster-rcnn)
 - github(Torch): [https://github.com/andreaskoepf/faster-rcnn.torch](https://github.com/andreaskoepf/faster-rcnn.torch)
 - github(Torch): [https://github.com/ruotianluo/Faster-RCNN-Densecap-torch](https://github.com/ruotianluo/Faster-RCNN-Densecap-torch)
+- github(Tensorflow): [https://github.com/smallcorgi/Faster-RCNN_TF](https://github.com/smallcorgi/Faster-RCNN_TF)
 
 **Faster R-CNN in MXNet with distributed implementation and data parallelization**
 
@@ -778,6 +779,17 @@ This task involves predicting the salient regions of an image given by human eye
 - github(Tensorflow): [https://github.com/jazzsaxmafia/Weakly_detector](https://github.com/jazzsaxmafia/Weakly_detector)
 - github: [https://github.com/metalbubble/CAM](https://github.com/metalbubble/CAM)
 - github: [https://github.com/tdeboissiere/VGG16CAM-keras](https://github.com/tdeboissiere/VGG16CAM-keras)
+
+## ContextLocNet
+
+**ContextLocNet: Context-Aware Deep Network Models for Weakly Supervised Localization**
+
+![](http://www.di.ens.fr/willow/research/contextlocnet/model.png)
+
+- intro: ECCV 2016
+- project page: [http://www.di.ens.fr/willow/research/contextlocnet/](http://www.di.ens.fr/willow/research/contextlocnet/)
+- arxiv: [http://arxiv.org/abs/1609.04331](http://arxiv.org/abs/1609.04331)
+- github: [https://github.com/vadimkantorov/contextlocnet](https://github.com/vadimkantorov/contextlocnet)
 
 # Tutorials
 

@@ -155,6 +155,12 @@ Other awesome lists can be found in this [list](https://github.com/sindresorhus/
 - arxiv: [http://arxiv.org/abs/1507.05444](http://arxiv.org/abs/1507.05444)
 - code: [https://bitbucket.org/twgr/ccf](https://bitbucket.org/twgr/ccf)
 
+**Decision Trees Tutorial**
+
+![](https://annalyzin.files.wordpress.com/2016/07/decision-tree-tutorial-animated3.gif?w=636&h=312&crop=1)
+
+- blog: [https://algobeans.com/2016/07/27/decision-trees-tutorial/](https://algobeans.com/2016/07/27/decision-trees-tutorial/)
+
 # Generative Models
 
 **A note on the evaluation of generative models**

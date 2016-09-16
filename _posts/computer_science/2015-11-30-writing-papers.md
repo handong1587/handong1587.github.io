@@ -1,6 +1,6 @@
 ---
 layout: post
-category: computer_sciense
+category: computer_science
 title: Writting CS Papers
 date: 2015-11-30
 ---

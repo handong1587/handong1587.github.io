@@ -91,57 +91,20 @@ date: 2015-09-12
 
 # Painting
 
-**Real-Time Gradient-Domain Painting (SIGGRAPH 2009)**
+**Real-Time Gradient-Domain Painting**
 
+- intro: SIGGRAPH 2009
 - homepage: [http://graphics.cs.cmu.edu/projects/gradient-paint/](http://graphics.cs.cmu.edu/projects/gradient-paint/)
 - paper: [http://graphics.cs.cmu.edu/projects/gradient-paint/grad.light.r2226.pdf](http://graphics.cs.cmu.edu/projects/gradient-paint/grad.light.r2226.pdf)
 
-**Combining Sketch and Tone for Pencil Drawing Production (NPAR 2012 Best Paper Award)**
+**Combining Sketch and Tone for Pencil Drawing Production**
 
 ![](/assets/computer-vision/pencil_drawing.jpg)
 
+- intro: NPAR 2012 Best Paper Award
 - homepage: [http://www.cse.cuhk.edu.hk/~leojia/projects/pencilsketch/pencil_drawing.htm](http://www.cse.cuhk.edu.hk/~leojia/projects/pencilsketch/pencil_drawing.htm)
 - paper: [http://www.cse.cuhk.edu.hk/~leojia/projects/pencilsketch/npar12_pencil.pdf](http://www.cse.cuhk.edu.hk/~leojia/projects/pencilsketch/npar12_pencil.pdf)
 - github: [https://github.com/fumin/pencil](https://github.com/fumin/pencil)
-
-- - -
-
-**RGB-W: When Vision Meets Wireless**
-
-![](http://vision.stanford.edu/pubimg/rgbw15_1.png)
-
-- paper: [http://vision.stanford.edu/pdf/RGBW_ICCV15.pdf](http://vision.stanford.edu/pdf/RGBW_ICCV15.pdf)
-
-- - -
-
-**Computer Vision Datasets**
-
-- website: [http://clickdamage.com/sourcecode/index.html](http://clickdamage.com/sourcecode/index.html)
-- code: [http://clickdamage.com/sourcecode/cv_datasets.php](http://clickdamage.com/sourcecode/cv_datasets.php)
-- BaiduPan: [http://pan.baidu.com/s/1pJmqD4n](http://pan.baidu.com/s/1pJmqD4n)
-
-**A Computational Approach for Obstruction-Free Photography**
-
-![](/assets/computer-vision/A_Computational_Approach_for_Obstruction-Free_Photography.jpg)
-
-- paper: [https://people.csail.mit.edu/mrub/papers/ObstructionFreePhotograpy_SIGGRAPH2015.pdf](https://people.csail.mit.edu/mrub/papers/ObstructionFreePhotograpy_SIGGRAPH2015.pdf)
-
-**My Text in Your Handwriting**
-
-![](http://visual.cs.ucl.ac.uk/pubs/handwriting/img/results.jpg)
-
-- homepage: [http://visual.cs.ucl.ac.uk/pubs/handwriting/](http://visual.cs.ucl.ac.uk/pubs/handwriting/)
-- paper: [http://visual.cs.ucl.ac.uk/pubs/handwriting/handwriting_visual_main.pdf](http://visual.cs.ucl.ac.uk/pubs/handwriting/handwriting_visual_main.pdf)
-
-# Bag Of Words
-
-# Activity Recognition
-
-**Latent Hierarchical Model for Activity Recognition**
-
-- paper: [http://arxiv.org/abs/1503.01820](http://arxiv.org/abs/1503.01820)
-- github: [https://github.com/louxi11/activity_recognition](https://github.com/louxi11/activity_recognition)
-- author page: [https://staff.fnwi.uva.nl/n.hu/](https://staff.fnwi.uva.nl/n.hu/)
 
 # Image Retrieval
 
@@ -162,7 +125,7 @@ date: 2015-09-12
 - homepage: [http://denis.simakov.info/weizmann/summarization_talk_20101116/summarization.html](http://denis.simakov.info/weizmann/summarization_talk_20101116/summarization.html)
 - paper: [http://www.wisdom.weizmann.ac.il/~vision/VisualSummary/bidirectional_similarity_CVPR2008.pdf](http://www.wisdom.weizmann.ac.il/~vision/VisualSummary/bidirectional_similarity_CVPR2008.pdf)
 
-# Image Retargeting/Editing
+# Image Retargeting / Editing
 
 **PatchMatch: A Randomized Correspondence Algorithm for Structural Image Editing**
 
@@ -179,8 +142,6 @@ date: 2015-09-12
 - homapage(paper+code): [http://gfx.cs.princeton.edu/pubs/Barnes_2010_TGP/index.php](http://gfx.cs.princeton.edu/pubs/Barnes_2010_TGP/index.php)
 - paper: [http://gfx.cs.princeton.edu/pubs/Barnes_2010_TGP/generalized_pm.pdf](http://gfx.cs.princeton.edu/pubs/Barnes_2010_TGP/generalized_pm.pdf)
 - code: [http://www.cs.princeton.edu/gfx/pubs/Barnes_2009_PAR/patchmatch-2.0.zip](http://www.cs.princeton.edu/gfx/pubs/Barnes_2009_PAR/patchmatch-2.0.zip)
-
-# Image Editing
 
 **Seamless Image Editing**
 
@@ -225,17 +186,19 @@ date: 2015-09-12
 
 # Image Cloning
 
-**Coordinates for Instant Image Cloning (SIGGRAPH 2009)**
+**Coordinates for Instant Image Cloning**
 
 ![](http://www.cs.huji.ac.il/~danix/mvclone/teaser.jpg)
 
+- intro: SIGGRAPH 2009
 - homepage: [http://www.cs.huji.ac.il/~danix/mvclone/](http://www.cs.huji.ac.il/~danix/mvclone/)
 - paper: [http://www.cs.huji.ac.il/~danix/mvclone/files/mvc-final-opt.pdf](http://www.cs.huji.ac.il/~danix/mvclone/files/mvc-final-opt.pdf)
 
 # Image Compositing
 
-**Interactive Digital Photomontage (SIGGRAPH 2004)**
+**Interactive Digital Photomontage**
 
+- intro: SIGGRAPH 2004
 - homepage: [http://grail.cs.washington.edu/projects/photomontage/](http://grail.cs.washington.edu/projects/photomontage/)
 - code: [http://grail.cs.washington.edu/projects/photomontage/release/](http://grail.cs.washington.edu/projects/photomontage/release/)
 - paper: [http://grail.cs.washington.edu/projects/photomontage/photomontage.pdf](http://grail.cs.washington.edu/projects/photomontage/photomontage.pdf)
@@ -266,6 +229,8 @@ date: 2015-09-12
 - arxiv: [http://arxiv.org/abs/1601.07661](http://arxiv.org/abs/1601.07661)
 
 # Image Blending
+
+Linear Blending, Poisson Blending, Multiband Blending, Feather Blending, Alpha Blending, Laplacian Blending
 
 **Image Blending**
 
@@ -316,14 +281,6 @@ date: 2015-09-12
 ![](http://120.52.72.72/cs.brown.edu/c3pr90ntcsf0/courses/cs129/results/proj2/taox/images/result_09.jpg)
 
 [http://cs.brown.edu/courses/cs129/results/proj2/taox/](http://cs.brown.edu/courses/cs129/results/proj2/taox/)
-
-## Multiband Blending
-
-## Feather Blending
-
-## Alpha Blending
-
-## Laplacian Blending
 
 # Image Stitching
 
@@ -577,6 +534,14 @@ The size of their dataset is, however, limited by the availability of domain-spe
 - intro: ECCV 2016
 - arxiv: [http://arxiv.org/abs/1608.07068](http://arxiv.org/abs/1608.07068)
 
+# Activity Recognition
+
+**Latent Hierarchical Model for Activity Recognition**
+
+- paper: [http://arxiv.org/abs/1503.01820](http://arxiv.org/abs/1503.01820)
+- github: [https://github.com/louxi11/activity_recognition](https://github.com/louxi11/activity_recognition)
+- author page: [https://staff.fnwi.uva.nl/n.hu/](https://staff.fnwi.uva.nl/n.hu/)
+
 # VR
 
 **Surround360 System: Facebook's open source hardware and software for capturing stereoscopic 3D 360 video for VR**
@@ -641,6 +606,49 @@ Given a sample represented as a sequence of strokes, the parser is able to conve
 - blog: [https://indico.io/blog/simple-practical-path-to-machine-learning-capability-part2/](https://indico.io/blog/simple-practical-path-to-machine-learning-capability-part2/)
 
 # Papers
+
+**RGB-W: When Vision Meets Wireless**
+
+![](http://vision.stanford.edu/pubimg/rgbw15_1.png)
+
+- paper: [http://vision.stanford.edu/pdf/RGBW_ICCV15.pdf](http://vision.stanford.edu/pdf/RGBW_ICCV15.pdf)
+
+**A Computational Approach for Obstruction-Free Photography**
+
+![](/assets/computer-vision/A_Computational_Approach_for_Obstruction-Free_Photography.jpg)
+
+- paper: [https://people.csail.mit.edu/mrub/papers/ObstructionFreePhotograpy_SIGGRAPH2015.pdf](https://people.csail.mit.edu/mrub/papers/ObstructionFreePhotograpy_SIGGRAPH2015.pdf)
+
+**My Text in Your Handwriting**
+
+![](http://visual.cs.ucl.ac.uk/pubs/handwriting/img/results.jpg)
+
+- homepage: [http://visual.cs.ucl.ac.uk/pubs/handwriting/](http://visual.cs.ucl.ac.uk/pubs/handwriting/)
+- paper: [http://visual.cs.ucl.ac.uk/pubs/handwriting/handwriting_visual_main.pdf](http://visual.cs.ucl.ac.uk/pubs/handwriting/handwriting_visual_main.pdf)
+
+**Seeing the Arrow of Time**
+
+- intro: CVPR 2013
+- intro: "is it possible to tell whether a video is running forwards or backwards?"
+- project page: [http://people.csail.mit.edu/yichangshih/toa_web/](http://people.csail.mit.edu/yichangshih/toa_web/)
+- project page: [http://www.robots.ox.ac.uk/~vgg/research/arrow/](http://www.robots.ox.ac.uk/~vgg/research/arrow/)
+- paper: [http://www.robots.ox.ac.uk/~vgg/publications/2014/Pickup14/pickup14.pdf](http://www.robots.ox.ac.uk/~vgg/publications/2014/Pickup14/pickup14.pdf)
+- paper: [http://people.csail.mit.edu/yichangshih/toa_web/ArrowCVPR131101.pdf](http://people.csail.mit.edu/yichangshih/toa_web/ArrowCVPR131101.pdf)
+
+**Time-lapse Mining from Internet Photos**
+
+![](http://grail.cs.washington.edu/projects/timelapse/teaser2.jpg)
+
+- intro: SIGGRAPH 2015
+- project page: [http://grail.cs.washington.edu/projects/timelapse/](http://grail.cs.washington.edu/projects/timelapse/)
+- paper: [http://grail.cs.washington.edu/projects/timelapse/TimelapseMiningSIGGRAPH15.pdf](http://grail.cs.washington.edu/projects/timelapse/TimelapseMiningSIGGRAPH15.pdf)
+- wired: [https://www.wired.com/2015/05/crowdsourced-timelapse/](https://www.wired.com/2015/05/crowdsourced-timelapse/)
+
+**3D Time-lapse Reconstruction from Internet Photos**
+
+- intro: ICCV 2015 (oral)
+- project page: [http://grail.cs.washington.edu/projects/timelapse3d/](http://grail.cs.washington.edu/projects/timelapse3d/)
+- paper: [http://grail.cs.washington.edu/projects/timelapse3d/3DTimelapseReconstructionICCV15.pdf](http://grail.cs.washington.edu/projects/timelapse3d/3DTimelapseReconstructionICCV15.pdf)
 
 **Are Elephants Bigger than Butterflies? Reasoning about Sizes of Objects**
 

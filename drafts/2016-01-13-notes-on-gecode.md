@@ -1,6 +1,6 @@
 ---
 layout: post
-category: computer_sciense
+category: computer_science
 title: Notes On Gecode
 date: 2015-09-06
 ---

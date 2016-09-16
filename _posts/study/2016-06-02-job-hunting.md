@@ -68,6 +68,10 @@ There are no right answers but it helps to understand their thoughts and researc
 
 - quora: [https://www.quora.com/To-be-a-data-scientist-in-a-tech-company-Google-Microsoft-Facebook-etc-how-well-do-I-need-to-know-machine-learning-algorithms/](https://www.quora.com/To-be-a-data-scientist-in-a-tech-company-Google-Microsoft-Facebook-etc-how-well-do-I-need-to-know-machine-learning-algorithms/)
 
+**40 Interview Questions asked at Startups in Machine Learning / Data Science**
+
+[https://www.analyticsvidhya.com/blog/2016/09/40-interview-questions-asked-at-startups-in-machine-learning-data-science/](https://www.analyticsvidhya.com/blog/2016/09/40-interview-questions-asked-at-startups-in-machine-learning-data-science/)
+
 # Algorithms and Data Structure
 
 **C & Data Structure Interview Questions**

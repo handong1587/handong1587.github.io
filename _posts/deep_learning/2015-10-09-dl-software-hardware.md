@@ -45,6 +45,10 @@ Contains all the popular DL frameworks (TensorFlow, Theano, Torch, Caffe, etc.)
 
 [http://www.ptopenlab.com/](http://www.ptopenlab.com/)
 
+**Building Deep Neural Networks in the Cloud with Azure GPU VMs, MXNet and Microsoft R Server**
+
+[https://blogs.technet.microsoft.com/machinelearning/2016/09/15/building-deep-neural-networks-in-the-cloud-with-azure-gpu-vms-mxnet-and-microsoft-r-server/](https://blogs.technet.microsoft.com/machinelearning/2016/09/15/building-deep-neural-networks-in-the-cloud-with-azure-gpu-vms-mxnet-and-microsoft-r-server/)
+
 # Hardware System
 
 **I: Building a Deep Learning (Dream) Machine**

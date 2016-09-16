@@ -1,6 +1,6 @@
 ---
 layout: post
-category: computer_sciense
+category: computer_science
 title: Funny Stuffs Of Computer Science
 date: 2015-11-18
 ---

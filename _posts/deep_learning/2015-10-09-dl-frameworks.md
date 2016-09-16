@@ -696,11 +696,15 @@ Implementations and ideas are largely based on papers from arxiv and implementat
 - intro: Caffe, CNTK, TensorFlow, and Torch
 - arxiv: [http://arxiv.org/abs/1608.07249](http://arxiv.org/abs/1608.07249)
 
-# Codes
+# Projects
 
 **TensorFuse: Common interface for Theano, CGT, and TensorFlow**
 
 - github: [https://github.com/dementrock/tensorfuse](https://github.com/dementrock/tensorfuse)
+
+**DeepRosetta: An universal deep learning models conversor**
+
+- github: [https://github.com/edgarriba/DeepRosetta](https://github.com/edgarriba/DeepRosetta)
 
 # References
 

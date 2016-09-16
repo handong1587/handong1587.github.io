@@ -1,11 +1,11 @@
 ---
 layout: post
-category: computer_sciense
+category: computer_science
 title: Computer Science Resources
 date: 2015-10-01
 ---
 
-# courses
+# Courses
 
 **University of Virginia: cs6501 Spring 2013: Great Works in Computer Science**
 
@@ -20,6 +20,13 @@ date: 2015-10-01
 **Introduction to Computer Science and Programming Using Python**
 
 - edx page: [https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x-8](https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x-8)
+
+## Database Systems
+
+**CMU 15-721 (SPRING 2016): Database Systems**
+
+- homepage: [http://15721.courses.cs.cmu.edu/spring2016/](http://15721.courses.cs.cmu.edu/spring2016/)
+- github: [https://github.com/mli/15721-ta](https://github.com/mli/15721-ta)
 
 # Projects
 

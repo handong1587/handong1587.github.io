@@ -1,6 +1,6 @@
 ---
 layout: post
-category: computer_sciense
+category: computer_science
 title: Notes On Discrete Optimization
 date: 2015-09-06
 ---

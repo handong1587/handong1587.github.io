@@ -49,6 +49,7 @@ date: 2015-10-09
 
 **Deep Neural Networks for YouTube Recommendations**
 
+- intro: RECSYS 2016. Google
 - paper: [http://static.googleusercontent.com/media/research.google.com/en//pubs/archive/45530.pdf](http://static.googleusercontent.com/media/research.google.com/en//pubs/archive/45530.pdf)
 
 **Photo Filter Recommendation by Category-Aware Aesthetic Learning**
@@ -62,6 +63,15 @@ date: 2015-10-09
 
 - project page: [http://dm.postech.ac.kr/~cartopy/ConvMF/](http://dm.postech.ac.kr/~cartopy/ConvMF/)
 - paper: [http://dl.acm.org/citation.cfm?id=2959165](http://dl.acm.org/citation.cfm?id=2959165)
+
+**Deep learning for audio-based music recommendation**
+
+- slides: [https://docs.google.com/presentation/d/1CRSAs2WOKo5mFhh5Iu-xkDfyJsg_NDL1r5dRtj6_aHo/edit#slide=id.p](https://docs.google.com/presentation/d/1CRSAs2WOKo5mFhh5Iu-xkDfyJsg_NDL1r5dRtj6_aHo/edit#slide=id.p)
+- mirror: [https://pan.baidu.com/s/1o8NaMPs](https://pan.baidu.com/s/1o8NaMPs)
+
+**Ask the GRU: Multi-Task Learning for Deep Text Recommendations**
+
+- arxiv: [https://arxiv.org/abs/1609.02116](https://arxiv.org/abs/1609.02116)
 
 # Slides
 

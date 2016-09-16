@@ -818,6 +818,10 @@ with fast exact probabilistic inference over many layers."
 
 - arxiv: [http://arxiv.org/abs/1608.08828](http://arxiv.org/abs/1608.08828)
 
+**Warped Convolutions: Efficient Invariance to Spatial Transformations**
+
+- arxiv: [http://arxiv.org/abs/1609.04382](http://arxiv.org/abs/1609.04382)
+
 ## Highway Networks
 
 **Highway Networks**
@@ -966,6 +970,9 @@ with fast exact probabilistic inference over many layers."
 - mirror: [https://pan.baidu.com/s/1gfmGWaJ](https://pan.baidu.com/s/1gfmGWaJ)
 - github(Keras): [https://github.com/usernaamee/keras-wavenet](https://github.com/usernaamee/keras-wavenet)
 - github(TensorFlow): [https://github.com/ibab/tensorflow-wavenet](https://github.com/ibab/tensorflow-wavenet)
+- github(Chainer): [https://github.com/monthly-hack/chainer-wavenet](https://github.com/monthly-hack/chainer-wavenet)
+- github(Theano): [https://github.com/huyouare/WaveNet-Theano](https://github.com/huyouare/WaveNet-Theano)
+- github(Keras): [https://github.com/basveeling/wavenet](https://github.com/basveeling/wavenet)
 
 **Wav2Letter: an End-to-End ConvNet-based Speech Recognition System**
 
@@ -1310,8 +1317,16 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 
 **Deep Convolutional Neural Networks and Data Augmentation for Environmental Sound Classification**
 
-- arxiv: [http://arxiv.org/abs/1608.04363](http://arxiv.org/abs/1608.04363)
 - project page: [http://www.stat.ucla.edu/~yang.lu/project/deepFrame/main.html](http://www.stat.ucla.edu/~yang.lu/project/deepFrame/main.html)
+- arxiv: [http://arxiv.org/abs/1608.04363](http://arxiv.org/abs/1608.04363)
+
+**Convolutional Recurrent Neural Networks for Music Classification**
+
+![](https://keunwoochoi.files.wordpress.com/2016/09/screen-shot-2016-09-14-at-20-38-27.png?w=1200)
+
+- arxiv: [http://arxiv.org/abs/1609.04243](http://arxiv.org/abs/1609.04243)
+- blog: [https://keunwoochoi.wordpress.com/2016/09/15/paper-is-out-convolutional-recurrent-neural-networks-for-music-classification/](https://keunwoochoi.wordpress.com/2016/09/15/paper-is-out-convolutional-recurrent-neural-networks-for-music-classification/)
+- github: [https://github.com/keunwoochoi/music-auto_tagging-keras](https://github.com/keunwoochoi/music-auto_tagging-keras)
 
 ## NSFW Detection / Classification
 
