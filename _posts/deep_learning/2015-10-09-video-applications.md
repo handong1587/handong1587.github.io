@@ -13,9 +13,14 @@ date: 2015-10-09
 - project page: [http://cs.stanford.edu/people/karpathy/deepvideo/](http://cs.stanford.edu/people/karpathy/deepvideo/)
 - paper: [www.cv-foundation.org/openaccess/content_cvpr_2014/papers/Karpathy_Large-scale_Video_Classification_2014_CVPR_paper.pdf](www.cv-foundation.org/openaccess/content_cvpr_2014/papers/Karpathy_Large-scale_Video_Classification_2014_CVPR_paper.pdf)
 
+**Exploiting Image-trained CNN Architectures for Unconstrained Video Classification**
+
+- intro: Video-level event detection. extracting deep features for each frame, averaging frame-level deep features
+- arxiv: [http://arxiv.org/abs/1503.04144](http://arxiv.org/abs/1503.04144)
+
 **Beyond Short Snippets: Deep Networks for Video Classification**
 
-- keywords: CNN + LSTM
+- intro: CNN + LSTM. Frame-level prediction
 - arxiv: [http://arxiv.org/abs/1503.08909](http://arxiv.org/abs/1503.08909)
 - demo: [http://pan.baidu.com/s/1eQ9zLZk](http://pan.baidu.com/s/1eQ9zLZk)
 
@@ -46,11 +51,8 @@ date: 2015-10-09
 **Learning End-to-end Video Classification with Rank-Pooling**
 
 - paper: [http://jmlr.org/proceedings/papers/v48/fernando16.html](http://jmlr.org/proceedings/papers/v48/fernando16.html)
+- paper: [http://jmlr.csail.mit.edu/proceedings/papers/v48/fernando16.pdf](http://jmlr.csail.mit.edu/proceedings/papers/v48/fernando16.pdf)
 - summary(by Hugo Larochelle): [http://www.shortscience.org/paper?bibtexKey=conf/icml/FernandoG16#hlarochelle](http://www.shortscience.org/paper?bibtexKey=conf/icml/FernandoG16#hlarochelle)
-
-**Object and scene recognition software work together to understand video content**
-
-[http://phys.org/news/2016-06-scene-recognition-software-video-content.html](http://phys.org/news/2016-06-scene-recognition-software-video-content.html)
 
 # Video Prediction
 
@@ -152,7 +154,19 @@ alleviates the problem of video browsing, editing and indexing.
 - paper: [http://www.ee.cuhk.edu.hk/~jshao/papers_jshao/jshao_cvpr16_scnn.pdf](http://www.ee.cuhk.edu.hk/~jshao/papers_jshao/jshao_cvpr16_scnn.pdf)
 - github: [https://github.com/amandajshao/Slicing-CNN](https://github.com/amandajshao/Slicing-CNN)
 
-# Dataset
+# Datasets
+
+| Dataset          | # Videos     | # Classes   | Year     | Manually Labeled ? |
+|:----------------:|:----------- :|:-----------:|:--------:|:------------------:|
+| Kodak            |   1,358      |    25       |  2007    | ✓                 |
+| MCG-WEBV         |   234,414    |    15       |  2009    | ✓                 |
+| CCV              |   9,317      |    20       |  2011    | ✓                 |
+| UCF-101          |   13,320     |    101      |  2012    | ✓                 |
+| THUMOS-2         |   18,394     |    101      |  2014    | ✓                 |
+| MED-2014         |   ≈28,000    |    20       |  2014    | ✓                 |
+| Sports-1M        |   1M         |    487      |  2014    | ✗                 |
+| ActivityNet      |   27,801     |    203      |  2015    | ✓                 |
+| FCVID            |   91,223     |    239      |  2015    | ✓                 |
 
 **FCVID: Fudan-Columbia Video Dataset**
 

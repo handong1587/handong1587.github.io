@@ -961,6 +961,11 @@ with fast exact probabilistic inference over many layers."
 
 - blog: [http://gregharris.info/a-survey-of-deep-learning-techniques-applied-to-trading/](http://gregharris.info/a-survey-of-deep-learning-techniques-applied-to-trading/)
 
+**Deep Learning and Long-Term Investing**
+
+- part 1: [http://www.euclidean.com/deep-learning-long-term-investing-1](http://www.euclidean.com/deep-learning-long-term-investing-1)
+- part 2: [http://www.euclidean.com/deep-learning-investing-part-2-preprocessing-data](http://www.euclidean.com/deep-learning-investing-part-2-preprocessing-data)
+
 # Deep Learning in Speech
 
 **WaveNet: A Generative Model for Raw Audio**
@@ -1445,6 +1450,10 @@ Bicubic VS. Shepard CNN
 **srez: Image super-resolution through deep learning**
 
 - github: [https://github.com/david-gpu/srez](https://github.com/david-gpu/srez)
+
+**Photo-Realistic Single Image Super-Resolution Using a Generative Adversarial Network**
+
+- arxiv: [https://arxiv.org/abs/1609.04802](https://arxiv.org/abs/1609.04802)
 
 ## Image Denoising
 
@@ -1945,6 +1954,10 @@ Compatible with Theano and TensorFlow. Optimized for Twitter.
 ![](https://raw.githubusercontent.com/TimZaman/dagstudio/master/misc/20160907_dagstudio_ex.gif)
 
 - github: [https://github.com/TimZaman/dagstudio](https://github.com/TimZaman/dagstudio)
+
+**NEUGO: Neural Networks in Go**
+
+- github: [https://github.com/wh1t3w01f/neugo](https://github.com/wh1t3w01f/neugo)
 
 ## gvnn
 

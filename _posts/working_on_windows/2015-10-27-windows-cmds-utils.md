@@ -102,3 +102,10 @@ Apply various effects and filters. Record audio from various inputs. Save files 
 **Git for Windows 国内下载站**
 
 - github: [https://github.com/waylau/git-for-win](https://github.com/waylau/git-for-win)
+
+**Zotero: a free, easy-to-use tool to help you collect, organize, cite, and share your research sources**
+
+![](https://www.zotero.org/static/images/index/features/capture-research-data.1473223289.png)
+![](https://www.zotero.org/static/images/index/features/store-anything.1473223289.png)
+
+[https://www.zotero.org/](https://www.zotero.org/)

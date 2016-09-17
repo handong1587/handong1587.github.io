@@ -53,6 +53,10 @@ date: 2015-07-01
 
 [http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/index.htm](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/index.htm)
 
+**(edX) Algorithms: Learn how to structure and use algorithms to solve real life problems.**
+
+[https://www.edx.org/course/algorithms-iitbombayx-cs213-3x](https://www.edx.org/course/algorithms-iitbombayx-cs213-3x)
+
 # Papers
 
 **The JPS Pathfinding System**

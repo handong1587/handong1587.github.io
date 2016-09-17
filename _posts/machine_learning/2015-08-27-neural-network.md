@@ -70,6 +70,10 @@ date: 2015-08-27
 
 - blog: [http://nbviewer.jupyter.org/gist/fperez/c7b1cb4810f9d0935e893f34c41f0c62](http://nbviewer.jupyter.org/gist/fperez/c7b1cb4810f9d0935e893f34c41f0c62)
 
+**Training Neural Networks with Theano**
+
+[http://blog.asidatascience.com/training-neural-networks-with-theano/](http://blog.asidatascience.com/training-neural-networks-with-theano/)
+
 ## Backpropagation
 
 **A Step by Step Backpropagation Example**

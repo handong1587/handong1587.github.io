@@ -7,6 +7,28 @@ date: 2015-10-09
 
 # Papers
 
+**Max-margin Deep Generative Models**
+
+- arxiv: [http://arxiv.org/abs/1504.06787](http://arxiv.org/abs/1504.06787)
+- github: [https://github.com/zhenxuan00/mmdgm](https://github.com/zhenxuan00/mmdgm)
+
+**Discriminative Regularization for Generative Models**
+
+- arxiv: [http://arxiv.org/abs/1602.03220](http://arxiv.org/abs/1602.03220)
+- github: [https://github.com/vdumoulin/discgen](https://github.com/vdumoulin/discgen)
+
+**Auxiliary Deep Generative Models**
+
+- arxiv: [http://arxiv.org/abs/1602.05473](http://arxiv.org/abs/1602.05473)
+- github: [https://github.com/larsmaaloee/auxiliary-deep-generative-models](https://github.com/larsmaaloee/auxiliary-deep-generative-models)
+
+**Sampling Generative Networks: Notes on a Few Effective Techniques**
+
+- arxiv: [http://arxiv.org/abs/1609.04468](http://arxiv.org/abs/1609.04468)
+- paper: [https://github.com/dribnet/plat](https://github.com/dribnet/plat)
+
+# Generative Adversarial Network
+
 **Generative Adversarial Networks**
 **Generative Adversarial Nets**
 

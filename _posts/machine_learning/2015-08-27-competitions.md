@@ -96,3 +96,9 @@ date: 2015-08-27
 - intro: 3rd place solution in Kaggle competition
 - arxiv: [http://arxiv.org/abs/1604.06737](http://arxiv.org/abs/1604.06737)
 - github: [https://github.com/entron/entity-embedding-rossmann](https://github.com/entron/entity-embedding-rossmann)
+
+**Kaggle First Steps With Julia (Chars74k): First Place using Convolutional Neural Networks**
+
+![](http://ankivil.com/wp-content/uploads/2016/09/Kaggle_FirstStepsJulia_Cover-1024x576.png)
+
+[http://ankivil.com/kaggle-first-steps-with-julia-chars74k-first-place-using-convolutional-neural-networks/](http://ankivil.com/kaggle-first-steps-with-julia-chars74k-first-place-using-convolutional-neural-networks/)

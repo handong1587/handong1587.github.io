@@ -304,6 +304,10 @@ Incorporates dropout regularization and convolutional neural networks with a sep
 - intro: Facebook AI Research
 - arxiv: [http://arxiv.org/abs/1609.02993](http://arxiv.org/abs/1609.02993)
 
+**Bayesian Reinforcement Learning: A Survey**
+
+- arxiv: [http://arxiv.org/abs/1609.04436](http://arxiv.org/abs/1609.04436)
+
 # Projects
 
 **Using Deep Q-Network to Learn How To Play Flappy Bird**
@@ -445,6 +449,11 @@ The project is dedicated to hero in life great Jesse Livermore.
 **dprl: Deep reinforcement learning package for torch7**
 
 - github: [https://github.com/PoHsunSu/dprl](https://github.com/PoHsunSu/dprl)
+
+**Reinforcement Learning for Torch: Introducing torch-twrl**
+
+- blog: [https://blog.twitter.com/2016/reinforcement-learning-for-torch-introducing-torch-twrl](https://blog.twitter.com/2016/reinforcement-learning-for-torch-introducing-torch-twrl)
+- github: [https://github.com/twitter/torch-twrl](https://github.com/twitter/torch-twrl)
 
 # Library
 

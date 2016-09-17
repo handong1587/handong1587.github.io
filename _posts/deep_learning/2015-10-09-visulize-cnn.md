@@ -178,6 +178,10 @@ date: 2015-10-09
 - blog: [http://kvfrans.com/visualizing-features-from-a-convolutional-neural-network/](http://kvfrans.com/visualizing-features-from-a-convolutional-neural-network/)
 - github: [https://github.com/kvfrans/feature-visualization](https://github.com/kvfrans/feature-visualization)
 
+**Visualizing Deep Neural Networks Classes and Features**
+
+[http://ankivil.com/visualizing-deep-neural-networks-classes-and-features/](http://ankivil.com/visualizing-deep-neural-networks-classes-and-features/)
+
 # Tools
 
 **Topological Visualisation of a Convolutional Neural Network**

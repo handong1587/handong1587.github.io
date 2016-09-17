@@ -131,11 +131,6 @@ date: 2015-10-09
 - blog: [http://www.foldl.me/2015/conditional-gans-face-generation/](http://www.foldl.me/2015/conditional-gans-face-generation/)
 - github: [https://github.com/hans/adversarial](https://github.com/hans/adversarial)
 
-**Max-margin Deep Generative Models**
-
-- arxiv: [http://arxiv.org/abs/1504.06787](http://arxiv.org/abs/1504.06787)
-- github: [https://github.com/zhenxuan00/mmdgm](https://github.com/zhenxuan00/mmdgm)
-
 **Deep Generative Image Models using a Laplacian Pyramid of Adversarial Networks**
 
 - intro: NIPS 2015
@@ -149,16 +144,6 @@ date: 2015-10-09
 
 - blog: [http://torch.ch/blog/2015/11/13/gan.html](http://torch.ch/blog/2015/11/13/gan.html)
 - github: [https://github.com/skaae/torch-gan](https://github.com/skaae/torch-gan)
-
-**Discriminative Regularization for Generative Models**
-
-- arxiv: [http://arxiv.org/abs/1602.03220](http://arxiv.org/abs/1602.03220)
-- github: [https://github.com/vdumoulin/discgen](https://github.com/vdumoulin/discgen)
-
-**Auxiliary Deep Generative Models**
-
-- arxiv: [http://arxiv.org/abs/1602.05473](http://arxiv.org/abs/1602.05473)
-- github: [https://github.com/larsmaaloee/auxiliary-deep-generative-models](https://github.com/larsmaaloee/auxiliary-deep-generative-models)
 
 **One-Shot Generalization in Deep Generative Models**
 

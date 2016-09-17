@@ -28,6 +28,14 @@ date: 2015-07-01
 
 - blog: [http://www.kdnuggets.com/2016/07/top-machine-learning-moocs-online-lectures.html](http://www.kdnuggets.com/2016/07/top-machine-learning-moocs-online-lectures.html)
 
+# Assembly
+
+ **A fundamental introduction to x86 assembly programming**
+
+ ![](https://www.nayuki.io/res/a-fundamental-introduction-to-x86-assembly-programming/cpu-model.png)
+
+- blog: [https://www.nayuki.io/page/a-fundamental-introduction-to-x86-assembly-programming](https://www.nayuki.io/page/a-fundamental-introduction-to-x86-assembly-programming)
+
 # C/C++
 
 **Templatized C++ Command Line Parser Library**
@@ -71,6 +79,66 @@ It contains real examples with errors and the author gives explanations of how t
 - homepage: [https://fenbf.github.io/AwesomePerfCpp/](https://fenbf.github.io/AwesomePerfCpp/)
 - github: [https://github.com/fenbf/AwesomePerfCpp](https://github.com/fenbf/AwesomePerfCpp)
 
+# CUDA
+
+**Implementing Run-length encoding in CUDA**
+
+- blog: [https://erkaman.github.io/posts/cuda_rle.html](https://erkaman.github.io/posts/cuda_rle.html)
+
+# Docker
+
+**Docker for Beginners: A comprehensive tutorial on getting started with Docker!**
+
+- tutorial: [http://prakhar.me/docker-curriculum/](http://prakhar.me/docker-curriculum/)
+- github: [https://github.com/prakhar1989/docker-curriculum](https://github.com/prakhar1989/docker-curriculum)
+
+# Git
+
+**Learn Git in 30 Minutes**
+
+- blog: [http://tutorialzine.com/2016/06/learn-git-in-30-minutes/](http://tutorialzine.com/2016/06/learn-git-in-30-minutes/)
+
+**Git diff tips and tricks**
+
+[https://blog.twobucks.co/git-diff-tips-and-tricks/](https://blog.twobucks.co/git-diff-tips-and-tricks/)
+
+# Go
+
+**Go by Example**
+
+ - blog: [https://gobyexample.com/](https://gobyexample.com/)
+
+# JavaScript
+
+**JavaScript on Board: With Maps, Dynamic Arrays and Objects out of the box. Just plug in and start creating in seconds**
+
+[http://www.espruino.com/](http://www.espruino.com/)
+
+**Introduction to Functional Programming in JavaScript (Part 1)**
+
+[https://asep.co/introduction-to-functional-programming-in-javascript-part-1/?utm_source=hn&utm_medium=direct-share&utm_campaign=fp-in-javascript](https://asep.co/introduction-to-functional-programming-in-javascript-part-1/?utm_source=hn&utm_medium=direct-share&utm_campaign=fp-in-javascript)
+
+# Lisp
+
+**mal - Make a Lisp**
+
+![](https://raw.githubusercontent.com/kanaka/mal/master/process/stepA_mal.png)
+
+- intro: Mal is a learning tool, implemented in 56 languages
+- github: [https://github.com/kanaka/mal](https://github.com/kanaka/mal)
+- guide: [https://github.com/kanaka/mal/blob/master/process/guide.md](https://github.com/kanaka/mal/blob/master/process/guide.md)
+
+**Build Your Own Lisp: Learn C and build your own programming language in 1000 lines of code!**
+
+[http://www.buildyourownlisp.com/](http://www.buildyourownlisp.com/)
+
+# Math
+
+**Benchmarking matrix multiplication implementations**
+
+- intro: Naive / Transposed / sdot / SSE sdot / SSE+tiling sdot / OpenBLAS / uBLAS / Eigen
+- github: [https://github.com/attractivechaos/matmul](https://github.com/attractivechaos/matmul)
+
 # Python
 
 **Python Computing for Data Science: An Undergraduate/Graduate Seminar Course at UC Berkeley (AY 250)**
@@ -105,33 +173,23 @@ which continually runs and visualizes your code as you type
 
 - blog: [https://pythontips.com/2016/08/19/interesting-python-tutorials/](https://pythontips.com/2016/08/19/interesting-python-tutorials/)
 
-# Go
+# Regulex
 
-**Go by Example**
+**Regulex: JavaScript Regular Expression Visualizer**
 
- - blog: [https://gobyexample.com/](https://gobyexample.com/)
+[https://jex.im/regulex/#!embed=false&flags=&re=%5E(a%7Cb)*%3F%24](https://jex.im/regulex/#!embed=false&flags=&re=%5E(a%7Cb)*%3F%24)
 
-# Assembly
+**Demystifying The Regular Expression That Checks If A Number Is Prime**
 
- **A fundamental introduction to x86 assembly programming**
+[https://iluxonchik.github.io/regular-expression-check-if-number-is-prime/](https://iluxonchik.github.io/regular-expression-check-if-number-is-prime/)
 
- ![](https://www.nayuki.io/res/a-fundamental-introduction-to-x86-assembly-programming/cpu-model.png)
+## Visualization of Regulex
 
-- blog: [https://www.nayuki.io/page/a-fundamental-introduction-to-x86-assembly-programming](https://www.nayuki.io/page/a-fundamental-introduction-to-x86-assembly-programming)
+[http://refiddle.com/](http://refiddle.com/)
 
-# Lisp
+[https://regexper.com/](https://regexper.com/)
 
-**mal - Make a Lisp**
-
-![](https://raw.githubusercontent.com/kanaka/mal/master/process/stepA_mal.png)
-
-- intro: Mal is a learning tool, implemented in 56 languages
-- github: [https://github.com/kanaka/mal](https://github.com/kanaka/mal)
-- guide: [https://github.com/kanaka/mal/blob/master/process/guide.md](https://github.com/kanaka/mal/blob/master/process/guide.md)
-
-**Build Your Own Lisp: Learn C and build your own programming language in 1000 lines of code!**
-
-[http://www.buildyourownlisp.com/](http://www.buildyourownlisp.com/)
+[https://www.debuggex.com/](https://www.debuggex.com/)
 
 # Rust
 
@@ -142,29 +200,6 @@ which continually runs and visualizes your code as you type
 **intellij-rust: Rust plugin for IntelliJ IDEA**
 
 [https://intellij-rust.github.io/](https://intellij-rust.github.io/)
-
-# JavaScript
-
-**JavaScript on Board: With Maps, Dynamic Arrays and Objects out of the box. Just plug in and start creating in seconds**
-
-[http://www.espruino.com/](http://www.espruino.com/)
-
-**Introduction to Functional Programming in JavaScript (Part 1)**
-
-[https://asep.co/introduction-to-functional-programming-in-javascript-part-1/?utm_source=hn&utm_medium=direct-share&utm_campaign=fp-in-javascript](https://asep.co/introduction-to-functional-programming-in-javascript-part-1/?utm_source=hn&utm_medium=direct-share&utm_campaign=fp-in-javascript)
-
-# CUDA
-
-**Implementing Run-length encoding in CUDA**
-
-- blog: [https://erkaman.github.io/posts/cuda_rle.html](https://erkaman.github.io/posts/cuda_rle.html)
-
-# Math
-
-**Benchmarking matrix multiplication implementations**
-
-- intro: Naive / Transposed / sdot / SSE sdot / SSE+tiling sdot / OpenBLAS / uBLAS / Eigen
-- github: [https://github.com/attractivechaos/matmul](https://github.com/attractivechaos/matmul)
 
 # Vim
 
@@ -196,39 +231,6 @@ You must move pacman (the green cursor) to highlight each word on the gameboard 
 **vimrc: The Ultimate vimrc**
 
 - github: [https://github.com/amix/vimrc](https://github.com/amix/vimrc)
-
-# Git
-
-**Learn Git in 30 Minutes**
-
-- blog: [http://tutorialzine.com/2016/06/learn-git-in-30-minutes/](http://tutorialzine.com/2016/06/learn-git-in-30-minutes/)
-
-**Git diff tips and tricks**
-
-[https://blog.twobucks.co/git-diff-tips-and-tricks/](https://blog.twobucks.co/git-diff-tips-and-tricks/)
-
-# Regulex
-
-**Regulex: JavaScript Regular Expression Visualizer**
-
-[https://jex.im/regulex/#!embed=false&flags=&re=%5E(a%7Cb)*%3F%24](https://jex.im/regulex/#!embed=false&flags=&re=%5E(a%7Cb)*%3F%24)
-
-**Demystifying The Regular Expression That Checks If A Number Is Prime**
-
-[https://iluxonchik.github.io/regular-expression-check-if-number-is-prime/](https://iluxonchik.github.io/regular-expression-check-if-number-is-prime/)
-
-# Docker
-
-**Docker for Beginners: A comprehensive tutorial on getting started with Docker!**
-
-- tutorial: [http://prakhar.me/docker-curriculum/](http://prakhar.me/docker-curriculum/)
-- github: [https://github.com/prakhar1989/docker-curriculum](https://github.com/prakhar1989/docker-curriculum)
-
-# Software Development
-
-**Professional Software Development: For Students**
-
-- book: [http://mixmastamyk.bitbucket.org/pro_soft_dev/](http://mixmastamyk.bitbucket.org/pro_soft_dev/)
 
 # Coding
 
@@ -284,6 +286,18 @@ You must move pacman (the green cursor) to highlight each word on the gameboard 
 
 - blog: [http://www.nosuch.com/plum/cgi/showlist.cgi?sort=name&concise=yes](http://www.nosuch.com/plum/cgi/showlist.cgi?sort=name&concise=yes)
 
+# Debugging
+
+**Debugging with GDB: a real life example**
+
+- blog: [http://blog.0x972.info/?d=2015/09/09/09/19/14-debugging-with-gdb-a-real-life-example](http://blog.0x972.info/?d=2015/09/09/09/19/14-debugging-with-gdb-a-real-life-example)
+
+**Tips for Productive Debugging with GDB**
+
+![](https://metricpanda.com/assets/gdb-dashboard-a3babff3749376737a532bf1eea9b170ef8a8ea20fbda85645f41554e5dc01e7.png)
+
+- blog: [https://metricpanda.com/tips-for-productive-debugging-with-gdb](https://metricpanda.com/tips-for-productive-debugging-with-gdb)
+
 # Programming
 
 **Why is Object-Oriented Programming Useful? (With a Role Playing Game Example)**
@@ -298,17 +312,22 @@ You must move pacman (the green cursor) to highlight each word on the gameboard 
 
 - blog: [http://programmingzen.com/15-sites-for-programming-exercises/](http://programmingzen.com/15-sites-for-programming-exercises/)
 
-# Debugging
+## Game AI Programming
 
-**Debugging with GDB: a real life example**
+**The AI Programmer's Bookshelf: A list of useful books for game AI programming.**
 
-- blog: [http://blog.0x972.info/?d=2015/09/09/09/19/14-debugging-with-gdb-a-real-life-example](http://blog.0x972.info/?d=2015/09/09/09/19/14-debugging-with-gdb-a-real-life-example)
+- intro: Jeff Orkin, MIT Media Lab
+- homepage: [http://alumni.media.mit.edu/~jorkin/aibooks.html](http://alumni.media.mit.edu/~jorkin/aibooks.html)
 
-**Tips for Productive Debugging with GDB**
+**GENERAL EXAMS READING LIST**
 
-![](https://metricpanda.com/assets/gdb-dashboard-a3babff3749376737a532bf1eea9b170ef8a8ea20fbda85645f41554e5dc01e7.png)
+[http://alumni.media.mit.edu/~jorkin//generals/general_exams.html](http://alumni.media.mit.edu/~jorkin//generals/general_exams.html)
 
-- blog: [https://metricpanda.com/tips-for-productive-debugging-with-gdb](https://metricpanda.com/tips-for-productive-debugging-with-gdb)
+# Software Development
+
+**Professional Software Development: For Students**
+
+- book: [http://mixmastamyk.bitbucket.org/pro_soft_dev/](http://mixmastamyk.bitbucket.org/pro_soft_dev/)
 
 # Codes
 
