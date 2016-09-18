@@ -73,6 +73,17 @@ date: 2016-07-27
 
 # CVPR 2016
 
+**CVPR 2016**
+
+- homepage: [http://cvpr2016.thecvf.com/program/main_conference](http://cvpr2016.thecvf.com/program/main_conference)
+- Object Recognition and Detection: [http://cvpr2016.thecvf.com/program/main_conference#O1-2A](http://cvpr2016.thecvf.com/program/main_conference#O1-2A)
+- Object Detection 1: [http://cvpr2016.thecvf.com/program/main_conference#S1-2A](http://cvpr2016.thecvf.com/program/main_conference#S1-2A)
+- Object Detection 2: [http://cvpr2016.thecvf.com/program/main_conference#S2-2A](http://cvpr2016.thecvf.com/program/main_conference#S2-2A)
+
+**Workshop @ CVPR16: Deep Vision Workshop**
+
+- youtube: [https://www.youtube.com/playlist?list=PL_bDvITUYucC8uLRtWw8fdvVr3DdwzAeH](https://www.youtube.com/playlist?list=PL_bDvITUYucC8uLRtWw8fdvVr3DdwzAeH)
+
 **Five Things I Learned at CVPR 2016**
 
 - day 1: [https://gab41.lab41.org/all-your-questions-answered-cvpr-day-1-40f488103076#.ejrgol28h](https://gab41.lab41.org/all-your-questions-answered-cvpr-day-1-40f488103076#.ejrgol28h)
@@ -80,13 +91,6 @@ date: 2016-07-27
 - day 3: [https://gab41.lab41.org/animated-gifs-and-video-clips-cvpr-day-3-96fdcfc36e2c#.x9wd86lym](https://gab41.lab41.org/animated-gifs-and-video-clips-cvpr-day-3-96fdcfc36e2c#.x9wd86lym)
 - day 4: [https://gab41.lab41.org/caption-this-cvpr-day-4-8fe94d7aeb71#.rhzd3zg5j](https://gab41.lab41.org/caption-this-cvpr-day-4-8fe94d7aeb71#.rhzd3zg5j)
 - day 5: [https://gab41.lab41.org/five-things-i-learned-at-cvpr-2016-5e857c017f7b#.umag6vs3v](https://gab41.lab41.org/five-things-i-learned-at-cvpr-2016-5e857c017f7b#.umag6vs3v)
-
-**CVPR 2016**
-
-- homepage: [http://cvpr2016.thecvf.com/program/main_conference](http://cvpr2016.thecvf.com/program/main_conference)
-- Object Recognition and Detection: [http://cvpr2016.thecvf.com/program/main_conference#O1-2A](http://cvpr2016.thecvf.com/program/main_conference#O1-2A)
-- Object Detection 1: [http://cvpr2016.thecvf.com/program/main_conference#S1-2A](http://cvpr2016.thecvf.com/program/main_conference#S1-2A)
-- Object Detection 2: [http://cvpr2016.thecvf.com/program/main_conference#S2-2A](http://cvpr2016.thecvf.com/program/main_conference#S2-2A)
 
 # VALSE 2016
 

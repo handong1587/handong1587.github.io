@@ -457,6 +457,12 @@ Classic strategies:
 - blog(part 1): [http://elliot.land/how-to-write-your-own-recommendation-system-part-1](http://elliot.land/how-to-write-your-own-recommendation-system-part-1)
 - blog(part 2): [http://elliot.land/how-to-write-your-own-recommendation-system-part-2](http://elliot.land/how-to-write-your-own-recommendation-system-part-2)
 
+**Addressing Cold Start for Next-song Recommendation**
+
+- intro: ACM Recsys 2016
+- paper: [http://mac.citi.sinica.edu.tw/~yang/pub/chou16recsys.pdf](http://mac.citi.sinica.edu.tw/~yang/pub/chou16recsys.pdf)
+- github: [https://github.com/fearofchou/ALMM](https://github.com/fearofchou/ALMM)
+
 # Papers
 
 **Do we Need Hundreds of Classifiers to Solve Real World Classification Problems?**

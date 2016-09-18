@@ -70,6 +70,11 @@ date: 2015-10-09
 
 - blog: [http://www.wildml.com/2016/08/rnns-in-tensorflow-a-practical-guide-and-undocumented-features/](http://www.wildml.com/2016/08/rnns-in-tensorflow-a-practical-guide-and-undocumented-features/)
 
+**Learning about LSTMs using Torch**
+
+- blog: [http://kbullaughey.github.io/lstm-play/](http://kbullaughey.github.io/lstm-play/)
+- github: [https://github.com/kbullaughey/lstm-play](https://github.com/kbullaughey/lstm-play)
+
 # Train RNN
 
 **On the difficulty of training Recurrent Neural Networks**

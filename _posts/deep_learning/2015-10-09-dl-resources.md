@@ -979,6 +979,12 @@ with fast exact probabilistic inference over many layers."
 - github(Theano): [https://github.com/huyouare/WaveNet-Theano](https://github.com/huyouare/WaveNet-Theano)
 - github(Keras): [https://github.com/basveeling/wavenet](https://github.com/basveeling/wavenet)
 
+**Fast Wavenet: An efficient Wavenet generation implementation**
+
+![](https://raw.githubusercontent.com/tomlepaine/fast-wavenet/master/assets/what-to-store.png)
+
+- github [https://github.com/tomlepaine/fast-wavenet](https://github.com/tomlepaine/fast-wavenet)
+
 **Wav2Letter: an End-to-End ConvNet-based Speech Recognition System**
 
 - arxiv: [http://arxiv.org/abs/1609.03193](http://arxiv.org/abs/1609.03193)
@@ -1810,6 +1816,7 @@ Bicubic VS. Shepard CNN
 **End-to-End Integration of a Convolutional Network, Deformable Parts Model and Non-Maximum Suppression**
 
 - arxiv: [http://arxiv.org/abs/1411.5309](http://arxiv.org/abs/1411.5309)
+- paper: [http://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Wan_End-to-End_Integration_of_2015_CVPR_paper.pdf](http://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Wan_End-to-End_Integration_of_2015_CVPR_paper.pdf)
 
 **A convnet for non-maximum suppression**
 

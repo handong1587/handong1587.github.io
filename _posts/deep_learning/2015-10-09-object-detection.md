@@ -329,6 +329,7 @@ and 1.15s per image with it".
 
 - arxiv: [http://arxiv.org/abs/1605.06409](http://arxiv.org/abs/1605.06409)
 - github: [https://github.com/daijifeng001/R-FCN](https://github.com/daijifeng001/R-FCN)
+- github: [https://github.com/Orpine/py-R-FCN](https://github.com/Orpine/py-R-FCN)
 
 **Weakly supervised object detection using pseudo-strong labels**
 

@@ -98,6 +98,16 @@ slides: [http://host.robots.ox.ac.uk/pascal/VOC/voc2012/workshop/Towards_VOC2012
 
 - arxiv: [http://arxiv.org/abs/1609.02948](http://arxiv.org/abs/1609.02948)
 
+## Detection in Video
+
+**Expanding Object Detector’s HORIZON: Incremental Learning Framework for Object Detection in Videos**
+
+![](https://www.disneyresearch.com/wp-content/uploads/Expanding-Object-Detector%E2%80%99s-HORIZON-Incremental-Learning-Framework-for-Object-Detection-in-Videos-Image.jpg)
+
+- intro: CVPR 2015
+- project page: [https://www.disneyresearch.com/publication/expanding-object-detectors-horizon/](https://www.disneyresearch.com/publication/expanding-object-detectors-horizon/)
+- paper: [http://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Kuznetsova_Expanding_Object_Detectors_2015_CVPR_paper.pdf](http://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Kuznetsova_Expanding_Object_Detectors_2015_CVPR_paper.pdf)
+
 ## Face Detection
 
 **Build a Face Detection App Using Node.js and OpenCV**
