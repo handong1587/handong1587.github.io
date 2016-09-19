@@ -463,6 +463,22 @@ Classic strategies:
 - paper: [http://mac.citi.sinica.edu.tw/~yang/pub/chou16recsys.pdf](http://mac.citi.sinica.edu.tw/~yang/pub/chou16recsys.pdf)
 - github: [https://github.com/fearofchou/ALMM](https://github.com/fearofchou/ALMM)
 
+# Lifelong Learning
+
+## NELL (Never Ending Language Learner)
+
+**Toward an architecture for neverending language learning**
+
+## NEIL (Never Ending Image Learner)
+
+**NEIL: Extracting Visual Knowledge from Web Data**
+
+- paper: [http://www.cv-foundation.org/openaccess/content_iccv_2013/papers/Chen_NEIL_Extracting_Visual_2013_ICCV_paper.pdf](http://www.cv-foundation.org/openaccess/content_iccv_2013/papers/Chen_NEIL_Extracting_Visual_2013_ICCV_paper.pdf)
+- slides: [http://web.cs.hacettepe.edu.tr/~nazli/courses/bil722/slides/week10_1.pdf](http://web.cs.hacettepe.edu.tr/~nazli/courses/bil722/slides/week10_1.pdf)
+- slides: [http://sglab.kaist.ac.kr/~sungeui/IR/Presentation/first/20141104%EC%9D%B4%EC%9C%A4%EC%84%9D.pdf](http://sglab.kaist.ac.kr/~sungeui/IR/Presentation/first/20141104%EC%9D%B4%EC%9C%A4%EC%84%9D.pdf)
+- talk: [http://techtalks.tv/talks/neil-extracting-visual-knowledge-from-web-data/59408/](http://techtalks.tv/talks/neil-extracting-visual-knowledge-from-web-data/59408/)
+- poster: [http://www.cs.cmu.edu/~xinleic/docs/neil/NEIL_poster.pdf](http://www.cs.cmu.edu/~xinleic/docs/neil/NEIL_poster.pdf)
+
 # Papers
 
 **Do we Need Hundreds of Classifiers to Solve Real World Classification Problems?**
