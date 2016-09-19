@@ -78,12 +78,14 @@ date: 2015-10-09
 - paper: [http://www.tamaraberg.com/papers/street2shop.pdf](http://www.tamaraberg.com/papers/street2shop.pdf)
 - paper: [http://www.cv-foundation.org/openaccess/content_iccv_2015/html/Kiapour_Where_to_Buy_ICCV_2015_paper.html](http://www.cv-foundation.org/openaccess/content_iccv_2015/html/Kiapour_Where_to_Buy_ICCV_2015_paper.html)
 
-**Natural Language Object Retrieval (CVPR 2015)**
+**Natural Language Object Retrieval**
 
 ![](http://ronghanghu.com/wp-content/uploads/method-900x353.png)
 
+- intro: CVPR 2015
 - homepage: [http://ronghanghu.com/text_obj_retrieval/](http://ronghanghu.com/text_obj_retrieval/)
 - arxiv: [http://arxiv.org/abs/1511.04164](http://arxiv.org/abs/1511.04164)
+- slides: [http://ronghanghu.com/slides/cvpr16_text_obj_retrieval_slides.pdf](http://ronghanghu.com/slides/cvpr16_text_obj_retrieval_slides.pdf)
 - github: [https://github.com/ronghanghu/natural-language-object-retrieval](https://github.com/ronghanghu/natural-language-object-retrieval)
 - github: [https://github.com/andrewliao11/Natural-Language-Object-Retrieval-tensorflow](https://github.com/andrewliao11/Natural-Language-Object-Retrieval-tensorflow)
 
@@ -99,10 +101,11 @@ date: 2015-10-09
 
 ## DeepBit
 
-**Learning Compact Binary Descriptors with Unsupervised Deep Neural Networks (DeepBit. CVPR 2016)**
+**Learning Compact Binary Descriptors with Unsupervised Deep Neural Networks**
 
 ![](/assets/image_retrieval/DeepBit.jpg)
 
+- intro: CVPR 2016. DeepBit
 - paper: [http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Lin_Learning_Compact_Binary_CVPR_2016_paper.pdf](http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Lin_Learning_Compact_Binary_CVPR_2016_paper.pdf)
 - github: [https://github.com/kevinlin311tw/cvpr16-deepbit](https://github.com/kevinlin311tw/cvpr16-deepbit)
 

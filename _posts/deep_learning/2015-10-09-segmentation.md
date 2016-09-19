@@ -32,6 +32,7 @@ date: 2015-10-09
 
 ![](http://ronghanghu.com/wp-content/uploads/text_objseg_method-768x331.jpg)
 
+- intro: ECCV 2016
 - project page: [http://ronghanghu.com/text_objseg/](http://ronghanghu.com/text_objseg/)
 - arxiv: [http://arxiv.org/abs/1603.06180](http://arxiv.org/abs/1603.06180)
 - github(TensorFlow): [https://github.com/ronghanghu/text_objseg](https://github.com/ronghanghu/text_objseg)
