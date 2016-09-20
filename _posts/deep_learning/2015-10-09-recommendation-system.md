@@ -51,6 +51,7 @@ date: 2015-10-09
 
 - intro: RECSYS 2016. Google
 - paper: [http://static.googleusercontent.com/media/research.google.com/en//pubs/archive/45530.pdf](http://static.googleusercontent.com/media/research.google.com/en//pubs/archive/45530.pdf)
+- summary: [https://blog.acolyer.org/2016/09/19/deep-neural-networks-for-youtube-recommendations/](https://blog.acolyer.org/2016/09/19/deep-neural-networks-for-youtube-recommendations/)
 
 **Photo Filter Recommendation by Category-Aware Aesthetic Learning**
 

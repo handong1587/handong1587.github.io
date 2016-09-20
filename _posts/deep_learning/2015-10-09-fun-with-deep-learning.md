@@ -265,6 +265,12 @@ Compressed model is less than 500KB
 
 - blog：[http://www.alanzucconi.com/2016/05/25/generating-deep-dreams/](http://www.alanzucconi.com/2016/05/25/generating-deep-dreams/)
 
+**Audio Deepdream: Optimizing Raw Audio With Convolutional Networks**
+
+- intro: Google Brain
+- paper: [https://wp.nyu.edu/ismir2016/wp-content/uploads/sites/2294/2016/08/ardila-audio.pdf](https://wp.nyu.edu/ismir2016/wp-content/uploads/sites/2294/2016/08/ardila-audio.pdf)
+- examples: [https://drive.google.com/drive/folders/0B7NUtSSG_AgqZWF1ajdhSjhEMlk](https://drive.google.com/drive/folders/0B7NUtSSG_AgqZWF1ajdhSjhEMlk)
+
 ## Emoji
 
 **Brewing EmojiNet**

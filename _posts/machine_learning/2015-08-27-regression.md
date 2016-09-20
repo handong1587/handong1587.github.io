@@ -15,6 +15,10 @@ date: 2015-08-27
 
 - arxiv: [http://arxiv.org/abs/1602.06042](http://arxiv.org/abs/1602.06042)
 
+**Evaluating Regularization and Optimization Algorithms for Logistic Regression on Spam Classification**
+
+- arxiv: [http://rnowling.github.io/data/science/2016/09/04/comparing-lr-regularization-and-optimizers.html](http://rnowling.github.io/data/science/2016/09/04/comparing-lr-regularization-and-optimizers.html)
+
 # Blogs
 
 **10 types of regressions. Which one to use?**
@@ -88,6 +92,6 @@ date: 2015-08-27
 
 - blog: [http://aqibsaeed.github.io/2016-08-10-logistic-regression-tf/](http://aqibsaeed.github.io/2016-08-10-logistic-regression-tf/)
 
-**Evaluating Regularization and Optimization Algorithms for Logistic Regression on Spam Classification**
+**Applications Of Isotonic Regression**
 
-- arxiv: [http://rnowling.github.io/data/science/2016/09/04/comparing-lr-regularization-and-optimizers.html](http://rnowling.github.io/data/science/2016/09/04/comparing-lr-regularization-and-optimizers.html)
+[http://jxieeducation.com/2016-09-18/Applications-of-Isotonic-Regression/](http://jxieeducation.com/2016-09-18/Applications-of-Isotonic-Regression/)

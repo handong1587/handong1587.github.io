@@ -155,6 +155,10 @@ not just the convolutions)
 
 - arxiv: [http://arxiv.org/abs/1608.02908](http://arxiv.org/abs/1608.02908)
 
+**Multi-Residual Networks**
+
+- arxiv: [http://arxiv.org/abs/1609.05672](http://arxiv.org/abs/1609.05672)
+
 ## Inception-V4
 
 **Inception-V4, Inception-Resnet And The Impact Of Residual Connections On Learning**
@@ -1296,6 +1300,10 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 
 - paper: [http://arxiv.org/abs/1509.05909](http://arxiv.org/abs/1509.05909)
 
+**Random Forests versus Neural Networks - What's Best for Camera Relocalization?**
+
+- arxiv: [http://arxiv.org/abs/1609.05797](http://arxiv.org/abs/1609.05797)
+
 ## Crowd Counting / Analysis
 
 **Large scale crowd analysis based on convolutional neural network**
@@ -1794,6 +1802,10 @@ Bicubic VS. Shepard CNN
 - intro: Harvard and MIT
 - arxiv: [http://arxiv.org/abs/1608.08225](http://arxiv.org/abs/1608.08225)
 - review: [https://www.technologyreview.com/s/602344/the-extraordinary-link-between-deep-neural-networks-and-the-nature-of-the-universe/](https://www.technologyreview.com/s/602344/the-extraordinary-link-between-deep-neural-networks-and-the-nature-of-the-universe/)
+
+**A scalable convolutional neural network for task-specified scenarios via knowledge distillation**
+
+- arxiv: [http://arxiv.org/abs/1609.05695](http://arxiv.org/abs/1609.05695)
 
 ## STDP
 

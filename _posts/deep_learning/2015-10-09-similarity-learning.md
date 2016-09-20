@@ -41,6 +41,7 @@ date: 2015-10-09
 **Fully-Trainable Deep Matching**
 
 - intro: BMVC 2016
+- project page: [http://lear.inrialpes.fr/src/deepmatching/](http://lear.inrialpes.fr/src/deepmatching/)
 - arxiv: [http://arxiv.org/abs/1609.03532](http://arxiv.org/abs/1609.03532)
 
 ## Person Re-identification

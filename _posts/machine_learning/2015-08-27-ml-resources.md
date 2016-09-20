@@ -463,6 +463,40 @@ Classic strategies:
 - paper: [http://mac.citi.sinica.edu.tw/~yang/pub/chou16recsys.pdf](http://mac.citi.sinica.edu.tw/~yang/pub/chou16recsys.pdf)
 - github: [https://github.com/fearofchou/ALMM](https://github.com/fearofchou/ALMM)
 
+**Using Navigation to Improve Recommendations in Real-Time**
+
+- paper: [http://dl.acm.org/citation.cfm?id=2959174](http://dl.acm.org/citation.cfm?id=2959174)
+
+**Local Item-Item Models For Top-N Recommendation**
+
+- paper: [http://dl.acm.org/citation.cfm?id=2959185](http://dl.acm.org/citation.cfm?id=2959185)
+
+**Lessons learned from building real-life recommender systems**
+
+- intro: Recsys 2016 tutorial
+- slides: [http://www.slideshare.net/xamat/recsys-2016-tutorial-lessons-learned-from-building-reallife-recommender-systems](http://www.slideshare.net/xamat/recsys-2016-tutorial-lessons-learned-from-building-reallife-recommender-systems)
+- mirror: [https://pan.baidu.com/s/1eSdWcue](https://pan.baidu.com/s/1eSdWcue)
+
+**Algorithms Aside: Recommendation As The Lens Of Life**
+
+- paper: [http://dl.acm.org/citation.cfm?doid=2959100.2959164](http://dl.acm.org/citation.cfm?doid=2959100.2959164)
+
+**Pairwise Preferences Based Matrix Factorization and Nearest Neighbor Recommendation Techniques**
+
+- paper: [http://dl.acm.org/citation.cfm?id=2959142](http://dl.acm.org/citation.cfm?id=2959142)
+- datasets: [http://www.inf.unibz.it/~kalloori/](http://www.inf.unibz.it/~kalloori/)
+
+**Mendeley: Recommendations for Researchers**
+
+- intro: RecSys 2016
+- slides: [http://saulvargas.es/slides/recsys2016/#/](http://saulvargas.es/slides/recsys2016/#/)
+
+**Past, Present and Future of Recommender Systems: an Industry Perspective**
+
+- intro: RecSys 2016
+- slides: [http://www.slideshare.net/xamat/past-present-and-future-of-recommender-systems-and-industry-perspective](http://www.slideshare.net/xamat/past-present-and-future-of-recommender-systems-and-industry-perspective)
+- mirror: [https://pan.baidu.com/s/1kVQ4SKZ](https://pan.baidu.com/s/1kVQ4SKZ)
+
 # Lifelong Learning
 
 ## NELL (Never Ending Language Learner)
@@ -800,6 +834,11 @@ for creating complex software in C++ to solve real world problems.
 **Helit: My machine learning/computer vision library for all of my recent papers, plus algorithms that I just like.**
 
 - github: [https://github.com/thaines/helit](https://github.com/thaines/helit)
+
+**Gorgonia: a library that helps facilitate machine learning in Go**
+
+- github: [https://github.com/chewxy/gorgonia](https://github.com/chewxy/gorgonia)
+- blog: [http://blog.chewxy.com/2016/09/19/gorgonia](http://blog.chewxy.com/2016/09/19/gorgonia)
 
 # Projects
 

@@ -338,8 +338,11 @@ date: 2015-10-09
 
 **What You Get Is What You See: A Visual Markup Decompiler**
 
+![](https://camo.githubusercontent.com/d5c6c528cdb25b504b1de298bc34d7109de06aea/687474703a2f2f6c73746d2e736561732e686172766172642e6564752f6c617465782f6e6574776f726b2e706e67)
+
 - project page: [http://lstm.seas.harvard.edu/latex/](http://lstm.seas.harvard.edu/latex/)
 - arxiv: [http://arxiv.org/abs/1609.04938](http://arxiv.org/abs/1609.04938)
+- github: [https://github.com/harvardnlp/im2markup](https://github.com/harvardnlp/im2markup)
 
 ## LSTMVis
 

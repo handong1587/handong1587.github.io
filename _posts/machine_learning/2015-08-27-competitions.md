@@ -102,3 +102,8 @@ date: 2015-08-27
 ![](http://ankivil.com/wp-content/uploads/2016/09/Kaggle_FirstStepsJulia_Cover-1024x576.png)
 
 [http://ankivil.com/kaggle-first-steps-with-julia-chars74k-first-place-using-convolutional-neural-networks/](http://ankivil.com/kaggle-first-steps-with-julia-chars74k-first-place-using-convolutional-neural-networks/)
+
+**Winning Kaggle Competitions**
+
+- slides: [http://www.slideshare.net/HJvanVeen/kaggle-presentation](http://www.slideshare.net/HJvanVeen/kaggle-presentation)
+- mirror: [https://pan.baidu.com/s/1bpgee55](https://pan.baidu.com/s/1bpgee55)
