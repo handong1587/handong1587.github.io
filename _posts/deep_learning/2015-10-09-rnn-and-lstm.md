@@ -336,6 +336,11 @@ date: 2015-10-09
 - arxiv: [http://arxiv.org/abs/1606.06216](http://arxiv.org/abs/1606.06216)
 - github: [https://github.com/ThomasMiconi/DiffRNN](https://github.com/ThomasMiconi/DiffRNN)
 
+**What You Get Is What You See: A Visual Markup Decompiler**
+
+- project page: [http://lstm.seas.harvard.edu/latex/](http://lstm.seas.harvard.edu/latex/)
+- arxiv: [http://arxiv.org/abs/1609.04938](http://arxiv.org/abs/1609.04938)
+
 ## LSTMVis
 
 **Visual Analysis of Hidden State Dynamics in Recurrent Neural Networks**

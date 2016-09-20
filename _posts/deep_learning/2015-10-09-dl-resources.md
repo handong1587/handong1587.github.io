@@ -1109,6 +1109,10 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 - project page: [https://people.eecs.berkeley.edu/~junyanz/projects/gvm/](https://people.eecs.berkeley.edu/~junyanz/projects/gvm/)
 - arxiv: [http://arxiv.org/abs/1609.03552](http://arxiv.org/abs/1609.03552)
 
+**Deep Impression: Audiovisual Deep Residual Networks for Multimodal Apparent Personality Trait Recognition**
+
+- arxiv: [http://arxiv.org/abs/1609.05119](http://arxiv.org/abs/1609.05119)
+
 ## Age Estimation
 
 **Deeply-Learned Feature for Age Estimation**
@@ -1460,6 +1464,11 @@ Bicubic VS. Shepard CNN
 **Photo-Realistic Single Image Super-Resolution Using a Generative Adversarial Network**
 
 - arxiv: [https://arxiv.org/abs/1609.04802](https://arxiv.org/abs/1609.04802)
+
+**Real-Time Single Image and Video Super-Resolution Using an Efficient Sub-Pixel Convolutional Neural Network**
+
+- intro: CVPR 2016
+- arxiv: [http://arxiv.org/abs/1609.05158](http://arxiv.org/abs/1609.05158)
 
 ## Image Denoising
 
