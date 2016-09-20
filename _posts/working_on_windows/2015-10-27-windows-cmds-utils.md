@@ -60,6 +60,10 @@ dir /s /b /a:-d *.mp4 *.mkv > list.txt
 
 # Utilities
 
+**XX-Net: a web proxy tool**
+
+- github: [https://github.com/XX-net/XX-Net](https://github.com/XX-net/XX-Net)
+
 **A Utility to Unassociate File Types in Windows 7 and Vista**
 
 [http://www.winhelponline.com/blog/unassociate-file-types-windows-7-vista/](http://www.winhelponline.com/blog/unassociate-file-types-windows-7-vista/)
