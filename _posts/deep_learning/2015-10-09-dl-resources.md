@@ -158,6 +158,7 @@ not just the convolutions)
 **Multi-Residual Networks**
 
 - arxiv: [http://arxiv.org/abs/1609.05672](http://arxiv.org/abs/1609.05672)
+- github: [https://github.com/masoudabd/multi-resnet](https://github.com/masoudabd/multi-resnet)
 
 ## Inception-V4
 

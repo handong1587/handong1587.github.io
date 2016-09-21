@@ -645,6 +645,7 @@ This task involves predicting the salient regions of an image given by human eye
 **Is Faster R-CNN Doing Well for Pedestrian Detection?**
 
 - arxiv: [http://arxiv.org/abs/1607.07032](http://arxiv.org/abs/1607.07032)
+- github: [https://github.com/zhangliliang/RPN_BF/tree/RPN-pedestrian](https://github.com/zhangliliang/RPN_BF/tree/RPN-pedestrian)
 
 **Reduced Memory Region Based Deep Convolutional Neural Network Detection**
 

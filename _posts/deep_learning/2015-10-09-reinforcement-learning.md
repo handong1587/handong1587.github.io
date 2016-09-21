@@ -308,6 +308,11 @@ Incorporates dropout regularization and convolutional neural networks with a sep
 
 - arxiv: [http://arxiv.org/abs/1609.04436](http://arxiv.org/abs/1609.04436)
 
+**Playing FPS Games with Deep Reinforcement Learning**
+
+- arxiv: [http://arxiv.org/abs/1609.05521](http://arxiv.org/abs/1609.05521)
+- demo: [https://www.youtube.com/playlist?list=PLduGZax9wmiHg-XPFSgqGg8PEAV51q1FT](https://www.youtube.com/playlist?list=PLduGZax9wmiHg-XPFSgqGg8PEAV51q1FT)
+
 # Projects
 
 **Using Deep Q-Network to Learn How To Play Flappy Bird**

@@ -209,6 +209,8 @@ date: 2015-10-09
 - demo: [http://auduno.github.io/clmtrackr/examples/clm_emotiondetection.html](http://auduno.github.io/clmtrackr/examples/clm_emotiondetection.html)
 - demo: [http://auduno.com/post/84214587523/twisting-faces](http://auduno.com/post/84214587523/twisting-faces)
 
+##### OpenFace
+
 **OpenFace: Face Recognition with Deep Neural Networks**
 
 - homepage: [http://cmusatyalab.github.io/openface/](http://cmusatyalab.github.io/openface/)
@@ -218,6 +220,10 @@ date: 2015-10-09
 **OpenFace 0.2.0: Higher accuracy and halved execution time**
 
 - homepage: [http://bamos.github.io/2016/01/19/openface-0.2.0/](http://bamos.github.io/2016/01/19/openface-0.2.0/)
+
+**OpenFace: A general-purpose face recognition library with mobile applications**
+
+- paper: [http://reports-archive.adm.cs.cmu.edu/anon/anon/usr0/ftp/2016/CMU-CS-16-118.pdf](http://reports-archive.adm.cs.cmu.edu/anon/anon/usr0/ftp/2016/CMU-CS-16-118.pdf)
 
 **Deep Face Representation: Face verification experiment for lfw**
 
