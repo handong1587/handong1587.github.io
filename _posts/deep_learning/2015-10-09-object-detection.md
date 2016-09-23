@@ -366,6 +366,7 @@ and 1.15s per image with it".
 
 - intro: "less channels with more layers", concatenated ReLU, Inception, and HyperNet, batch normalization, residual connections
 - arxiv: [http://arxiv.org/abs/1608.08021](http://arxiv.org/abs/1608.08021)
+- github: [https://github.com/sanghoon/pva-faster-rcnn](https://github.com/sanghoon/pva-faster-rcnn)
 - leaderboard(PVANet 9.0): [http://host.robots.ox.ac.uk:8080/leaderboard/displaylb.php?challengeid=11&compid=4](http://host.robots.ox.ac.uk:8080/leaderboard/displaylb.php?challengeid=11&compid=4)
 
 # Detection From Video
