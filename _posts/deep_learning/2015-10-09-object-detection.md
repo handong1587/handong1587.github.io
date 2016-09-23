@@ -596,6 +596,10 @@ This task involves predicting the salient regions of an image given by human eye
 - paper: [http://www.ee.cuhk.edu.hk/~xgwang/papers/sunWTcvpr13.pdf](http://www.ee.cuhk.edu.hk/~xgwang/papers/sunWTcvpr13.pdf)
 - github: [https://github.com/luoyetx/deep-landmark](https://github.com/luoyetx/deep-landmark)
 
+**Detecting facial landmarks in the video based on a hybrid framework**
+
+- arxiv: [http://arxiv.org/abs/1609.06441](http://arxiv.org/abs/1609.06441)
+
 ## People Detection
 
 **End-to-end people detection in crowded scenes**
@@ -738,6 +742,12 @@ This task involves predicting the salient regions of an image given by human eye
 - paper: [https://cs.stanford.edu/people/ranjaykrishna/vrd/vrd.pdf](https://cs.stanford.edu/people/ranjaykrishna/vrd/vrd.pdf)
 - github: [https://github.com/Prof-Lu-Cewu/Visual-Relationship-Detection](https://github.com/Prof-Lu-Cewu/Visual-Relationship-Detection)
 
+# Object Detection in 3D
+
+**Vote3Deep: Fast Object Detection in 3D Point Clouds Using Efficient Convolutional Neural Networks**
+
+- arxiv: [http://arxiv.org/abs/1609.06666](http://arxiv.org/abs/1609.06666)
+
 # Object Proposal
 
 ## DeepProposal
@@ -746,6 +756,11 @@ This task involves predicting the salient regions of an image given by human eye
 
 - arxiv: [http://arxiv.org/abs/1510.04445](http://arxiv.org/abs/1510.04445)
 - github: [https://github.com/aghodrati/deepproposal](https://github.com/aghodrati/deepproposal)
+
+**Scale-aware Pixel-wise Object Proposal Networks**
+
+- intro: IEEE Transactions on Image Processing
+- arxiv: [http://arxiv.org/abs/1601.04798](http://arxiv.org/abs/1601.04798)
 
 # Localization
 

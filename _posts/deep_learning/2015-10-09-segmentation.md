@@ -252,6 +252,13 @@ fine-tune the trained network with more challenging examples later
 - intro: ECCV 2016
 - arxiv: [http://arxiv.org/abs/1609.00446](http://arxiv.org/abs/1609.00446)
 
+## PixelNet
+
+**PixelNet: Towards a General Pixel-level Architecture**
+
+- intro: semantic segmentation, edge detection
+- arxiv: [http://arxiv.org/abs/1609.06694](http://arxiv.org/abs/1609.06694)
+
 # Instance Segmentation
 
 **Simultaneous Detection and Segmentation**

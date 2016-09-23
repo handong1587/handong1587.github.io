@@ -1163,6 +1163,14 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 - paper: [https://www.vision.ee.ethz.ch/en/publications/papers/proceedings/eth_biwi_01229.pdf](https://www.vision.ee.ethz.ch/en/publications/papers/proceedings/eth_biwi_01229.pdf)
 - homepage: [https://data.vision.ee.ethz.ch/cvl/rrothe/imdb-wiki/](https://data.vision.ee.ethz.ch/cvl/rrothe/imdb-wiki/)
 
+### EmotioNet
+
+**EmotioNet: EmotioNet: An accurate, real-time algorithm for the automatic annotation of a million facial expressions in the wild**
+
+- intro: CVPR 2016
+- paper: [http://cbcsl.ece.ohio-state.edu/cvpr16.pdf](http://cbcsl.ece.ohio-state.edu/cvpr16.pdf)
+- database: [http://cbcsl.ece.ohio-state.edu/dbform_emotionet.html](http://cbcsl.ece.ohio-state.edu/dbform_emotionet.html)
+
 **How Deep Neural Networks Can Improve Emotion Recognition on Video Data**
 
 - intro: ICIP 2016
@@ -1178,15 +1186,13 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 
 **A Recursive Framework for Expression Recognition: From Web Images to Deep Models to Game Dataset**
 
- -arxiv: [http://arxiv.org/abs/1608.01647](http://arxiv.org/abs/1608.01647)
+- arxiv: [http://arxiv.org/abs/1608.01647](http://arxiv.org/abs/1608.01647)
 
-### EmotioNet
+### FaceNet2ExpNet
 
-**EmotioNet: EmotioNet: An accurate, real-time algorithm for the automatic annotation of a million facial expressions in the wild**
+**FaceNet2ExpNet: Regularizing a Deep Face Recognition Net for Expression Recognition**
 
-- intro: CVPR 2016
-- paper: [http://cbcsl.ece.ohio-state.edu/cvpr16.pdf](http://cbcsl.ece.ohio-state.edu/cvpr16.pdf)
-- database: [http://cbcsl.ece.ohio-state.edu/dbform_emotionet.html](http://cbcsl.ece.ohio-state.edu/dbform_emotionet.html)
+- arxiv: [http://arxiv.org/abs/1609.06591](http://arxiv.org/abs/1609.06591)
 
 ## Attribution Prediction
 

@@ -38,6 +38,10 @@ date: 2015-10-09
 - blog("Image caption generation by CNN and LSTM"): [http://t-satoshi.blogspot.com/2015/12/image-caption-generation-by-cnn-and-lstm.html](http://t-satoshi.blogspot.com/2015/12/image-caption-generation-by-cnn-and-lstm.html)
 - github: [https://github.com/jazzsaxmafia/show_and_tell.tensorflow](https://github.com/jazzsaxmafia/show_and_tell.tensorflow)
 
+**Show and Tell: Lessons learned from the 2015 MSCOCO Image Captioning Challenge**
+
+- arxiv: [http://arxiv.org/abs/1609.06647](http://arxiv.org/abs/1609.06647)
+
 **Learning a Recurrent Visual Representation for Image Caption Generation**
 
 - arxiv: [http://arxiv.org/abs/1411.5654](http://arxiv.org/abs/1411.5654)
