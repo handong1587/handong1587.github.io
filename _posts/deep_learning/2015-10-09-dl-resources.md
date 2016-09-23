@@ -1485,6 +1485,11 @@ Bicubic VS. Shepard CNN
 - intro: CVPR 2016
 - arxiv: [http://arxiv.org/abs/1609.05158](http://arxiv.org/abs/1609.05158)
 
+**Is the deconvolution layer the same as a convolutional layer?**
+
+- intro: A note on Real­Time Single Image and Video Super­Resolution Using an Efficient Sub­Pixel Convolutional Neural Network.
+- arxiv: [http://arxiv.org/abs/1609.07009](http://arxiv.org/abs/1609.07009)
+
 ## Image Denoising
 
 **Beyond a Gaussian Denoiser: Residual Learning of Deep CNN for Image Denoising**
@@ -1860,6 +1865,11 @@ Bicubic VS. Shepard CNN
 
 - arxiv: [http://arxiv.org/abs/1609.02132](http://arxiv.org/abs/1609.02132)
 - demo: [http://cvn.ecp.fr/ubernet/](http://cvn.ecp.fr/ubernet/)
+
+**On the usability of deep networks for object-based image analysis**
+
+- intro: GEOBIA 2016
+- arxiv: [http://arxiv.org/abs/1609.06845](http://arxiv.org/abs/1609.06845)
 
 # Projects
 

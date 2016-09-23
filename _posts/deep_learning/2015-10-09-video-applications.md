@@ -54,6 +54,10 @@ date: 2015-10-09
 - paper: [http://jmlr.csail.mit.edu/proceedings/papers/v48/fernando16.pdf](http://jmlr.csail.mit.edu/proceedings/papers/v48/fernando16.pdf)
 - summary(by Hugo Larochelle): [http://www.shortscience.org/paper?bibtexKey=conf/icml/FernandoG16#hlarochelle](http://www.shortscience.org/paper?bibtexKey=conf/icml/FernandoG16#hlarochelle)
 
+**Deep Learning for Video Classification and Captioning**
+
+- arxiv: [http://arxiv.org/abs/1609.06782](http://arxiv.org/abs/1609.06782)
+
 ## Action Recognition
 
 **3d convolutional neural networks for human action recognition**

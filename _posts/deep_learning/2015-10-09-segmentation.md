@@ -259,6 +259,10 @@ fine-tune the trained network with more challenging examples later
 - intro: semantic segmentation, edge detection
 - arxiv: [http://arxiv.org/abs/1609.06694](http://arxiv.org/abs/1609.06694)
 
+**Semantic Segmentation of Earth Observation Data Using Multimodal and Multi-scale Deep Networks**
+
+- arxiv: [http://arxiv.org/abs/1609.06846](http://arxiv.org/abs/1609.06846)
+
 # Instance Segmentation
 
 **Simultaneous Detection and Segmentation**

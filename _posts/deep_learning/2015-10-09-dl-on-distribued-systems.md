@@ -30,19 +30,25 @@ date: 2015-10-09
 - github: [https://github.com/amplab/SparkNet](https://github.com/amplab/SparkNet)
 - blog: [http://www.kdnuggets.com/2015/12/spark-deep-learning-training-with-sparknet.html](http://www.kdnuggets.com/2015/12/spark-deep-learning-training-with-sparknet.html)
 
-**A Scalable Implementation of Deep Learning on Spark (Alexander Ulanov)**
+**A Scalable Implementation of Deep Learning on Spark**
 
-- page: [http://www.slideshare.net/AlexanderUlanov1/a-scalable-implementation-of-deep-learning-on-spark-alexander-ulanov](http://www.slideshare.net/AlexanderUlanov1/a-scalable-implementation-of-deep-learning-on-spark-alexander-ulanov)
-- slides: [http://pan.baidu.com/s/1jHiNW5C](http://pan.baidu.com/s/1jHiNW5C)
+- intro: Alexander Ulanov
+- slides: [http://www.slideshare.net/AlexanderUlanov1/a-scalable-implementation-of-deep-learning-on-spark-alexander-ulanov](http://www.slideshare.net/AlexanderUlanov1/a-scalable-implementation-of-deep-learning-on-spark-alexander-ulanov)
+- mirror: [http://pan.baidu.com/s/1jHiNW5C](http://pan.baidu.com/s/1jHiNW5C)
 
 **TensorFlow: Large-Scale Machine Learning on Heterogeneous Distributed Systems**
 
 - arxiv: [http://arxiv.org/abs/1603.04467](http://arxiv.org/abs/1603.04467)
 - gitxiv: [http://gitxiv.com/posts/57kjddp3AWt4y5K4h/tensorflow-large-scale-machine-learning-on-heterogeneous](http://gitxiv.com/posts/57kjddp3AWt4y5K4h/tensorflow-large-scale-machine-learning-on-heterogeneous)
 
-**Distributed Supervised Learning using Neural Networks (Ph.D. thesis)**
+**Distributed Supervised Learning using Neural Networks**
 
+- intro: Ph.D. thesis
 - arxiv: [http://arxiv.org/abs/1607.06364](http://arxiv.org/abs/1607.06364)
+
+**Distributed Training of Deep Neuronal Networks: Theoretical and Practical Limits of Parallel Scalability**
+
+- arxiv: [http://arxiv.org/abs/1609.06870](http://arxiv.org/abs/1609.06870)
 
 # Projects
 

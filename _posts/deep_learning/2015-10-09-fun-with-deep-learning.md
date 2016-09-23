@@ -402,6 +402,12 @@ Compressed model is less than 500KB
 
 - github: [https://github.com/YerevaNN/neural-colorizer](https://github.com/YerevaNN/neural-colorizer)
 
+## Photo Editing
+
+**Neural Photo Editing with Introspective Adversarial Networks**
+
+- arxiv: [http://arxiv.org/abs/1609.07093](http://arxiv.org/abs/1609.07093)
+
 # Sounds
 
 **Visually Indicated Sounds**
