@@ -287,6 +287,10 @@ date: 2015-10-09
 - arxiv: [http://arxiv.org/abs/1605.09085](http://arxiv.org/abs/1605.09085)
 - github: [https://github.com/AmalRT/DNN_Reg](https://github.com/AmalRT/DNN_Reg)
 
+**SoftTarget Regularization: An Effective Technique to Reduce Over-Fitting in Neural Networks**
+
+- arxiv: [http://arxiv.org/abs/1609.06693](http://arxiv.org/abs/1609.06693)
+
 ## Dropout
 
 **Improving neural networks by preventing co-adaptation of feature detectors (Dropout)**
@@ -412,6 +416,11 @@ date: 2015-10-09
 - arxiv: [http://arxiv.org/abs/1608.00507](http://arxiv.org/abs/1608.00507)
 - paper: [http://cs-people.bu.edu/jmzhang/EB/ExcitationBackprop.pdf](http://cs-people.bu.edu/jmzhang/EB/ExcitationBackprop.pdf)
 - github: [https://github.com/jimmie33/Caffe-ExcitationBP](https://github.com/jimmie33/Caffe-ExcitationBP)
+
+**Towards a Biologically Plausible Backprop**
+
+- arxiv: [http://arxiv.org/abs/1602.05179](http://arxiv.org/abs/1602.05179)
+- github: [https://github.com/bscellier/Towards-a-Biologically-Plausible-Backprop](https://github.com/bscellier/Towards-a-Biologically-Plausible-Backprop)
 
 # Accelerate Training
 

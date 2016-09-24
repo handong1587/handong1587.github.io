@@ -21,6 +21,10 @@ date: 2015-10-01
 
 - edx page: [https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x-8](https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x-8)
 
+**Game Theory Online**
+
+- youtube: [https://www.youtube.com/user/gametheoryonline/playlists](https://www.youtube.com/user/gametheoryonline/playlists)
+
 ## Database Systems
 
 **CMU 15-721 (SPRING 2016): Database Systems**

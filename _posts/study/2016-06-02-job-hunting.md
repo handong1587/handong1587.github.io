@@ -46,6 +46,10 @@ There are no right answers but it helps to understand their thoughts and researc
 
 (by Kenneth Tran, ML Scientist @ MSR)
 
+**How to Get a Job In Deep Learning**
+
+- blog: [http://blog.deepgram.com/how-to-get-a-job-in-deep-learning/](http://blog.deepgram.com/how-to-get-a-job-in-deep-learning/)
+
 # Machine Learning
 
 **What are the best interview questions to evaluate a machine learning researcher?**

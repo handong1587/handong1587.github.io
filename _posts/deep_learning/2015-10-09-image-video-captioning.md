@@ -35,12 +35,18 @@ date: 2015-10-09
 - github: [https://github.com/karpathy/neuraltalk](https://github.com/karpathy/neuraltalk)
 - GitXiv: [http://gitxiv.com/posts/7nofxjoYBXga5XjtL/show-and-tell-a-neural-image-caption-nic-generator](http://gitxiv.com/posts/7nofxjoYBXga5XjtL/show-and-tell-a-neural-image-caption-nic-generator)
 - github: [https://github.com/apple2373/chainer_caption_generation](https://github.com/apple2373/chainer_caption_generation)
-- blog("Image caption generation by CNN and LSTM"): [http://t-satoshi.blogspot.com/2015/12/image-caption-generation-by-cnn-and-lstm.html](http://t-satoshi.blogspot.com/2015/12/image-caption-generation-by-cnn-and-lstm.html)
+
+**Image caption generation by CNN and LSTM** 
+
+![](http://1.bp.blogspot.com/-RgNlhmSJvgU/Vna0V_GNGXI/AAAAAAAAACw/tjYqwuGHekM/s400/Screen%2BShot%2B2015-12-20%2Bat%2B08.59.26.png)
+
+- blog: [http://t-satoshi.blogspot.com/2015/12/image-caption-generation-by-cnn-and-lstm.html](http://t-satoshi.blogspot.com/2015/12/image-caption-generation-by-cnn-and-lstm.html)
 - github: [https://github.com/jazzsaxmafia/show_and_tell.tensorflow](https://github.com/jazzsaxmafia/show_and_tell.tensorflow)
 
 **Show and Tell: Lessons learned from the 2015 MSCOCO Image Captioning Challenge**
 
 - arxiv: [http://arxiv.org/abs/1609.06647](http://arxiv.org/abs/1609.06647)
+- github: [https://github.com/tensorflow/models/tree/master/im2txt](https://github.com/tensorflow/models/tree/master/im2txt)
 
 **Learning a Recurrent Visual Representation for Image Caption Generation**
 

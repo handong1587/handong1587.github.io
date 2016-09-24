@@ -295,6 +295,11 @@ testing it on the MNIST handwritten digits data.
 
 - blog: [https://jaan.io/unreasonable-confusion/](https://jaan.io/unreasonable-confusion/)
 
+**Variational Autoencoder for Deep Learning of Images, Labels and Captions**
+
+- intro: NIPS 2016. Duke University
+- paper: [http://people.ee.duke.edu/~lcarin/Yunchen_nips_2016.pdf](http://people.ee.duke.edu/~lcarin/Yunchen_nips_2016.pdf)
+
 # Semi-Supervised Learning
 
 **Semi-Supervised Learning with Graphs (Label Propagation)**
@@ -714,6 +719,10 @@ with fast exact probabilistic inference over many layers."
 - homepage: [http://spn.cs.washington.edu/index.shtml](http://spn.cs.washington.edu/index.shtml)
 - code: [http://spn.cs.washington.edu/code.shtml](http://spn.cs.washington.edu/code.shtml)
 
+**Awesome Sum-Product Networks**
+
+- github: [https://github.com/arranger1044/awesome-spn](https://github.com/arranger1044/awesome-spn)
+
 **Recombinator Networks: Learning Coarse-to-Fine Feature Aggregation**
 
 - arxiv: [http://arxiv.org/abs/1511.07356](http://arxiv.org/abs/1511.07356)
@@ -947,6 +956,12 @@ with fast exact probabilistic inference over many layers."
 
 - arxiv: [http://arxiv.org/abs/1604.01360](http://arxiv.org/abs/1604.01360)
 
+**How to build a robot that “sees” with $100 and TensorFlow**
+
+![](https://d3ansictanv2wj.cloudfront.net/Figure_5-5b104cf7a53a9c1ee95110b78fb14256.jpg)
+
+- blog: [https://www.oreilly.com/learning/how-to-build-a-robot-that-sees-with-100-and-tensorflow](https://www.oreilly.com/learning/how-to-build-a-robot-that-sees-with-100-and-tensorflow)
+
 # Deep Learning on Mobile Devices
 
 **Convolutional neural networks on the iPhone with VGGNet**
@@ -1110,9 +1125,12 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 
 **Generative Visual Manipulation on the Natural Image Manifold**
 
+![](https://raw.githubusercontent.com/junyanz/iGAN/master/pics/demo_teaser.jpg)
+
 - intro: ECCV 2016
 - project page: [https://people.eecs.berkeley.edu/~junyanz/projects/gvm/](https://people.eecs.berkeley.edu/~junyanz/projects/gvm/)
 - arxiv: [http://arxiv.org/abs/1609.03552](http://arxiv.org/abs/1609.03552)
+- github: [https://github.com/junyanz/iGAN](https://github.com/junyanz/iGAN)
 
 **Deep Impression: Audiovisual Deep Residual Networks for Multimodal Apparent Personality Trait Recognition**
 
@@ -1582,6 +1600,7 @@ Bicubic VS. Shepard CNN
 - intro: IMCL 2016
 - arxiv: [http://arxiv.org/abs/1603.03417](http://arxiv.org/abs/1603.03417)
 - github: [https://github.com/DmitryUlyanov/texture_nets](https://github.com/DmitryUlyanov/texture_nets)
+- notes: [https://blog.acolyer.org/2016/09/23/texture-networks-feed-forward-synthesis-of-textures-and-stylized-images/](https://blog.acolyer.org/2016/09/23/texture-networks-feed-forward-synthesis-of-textures-and-stylized-images/)
 
 **Precomputed Real-Time Texture Synthesis with Markovian Generative Adversarial Networks**
 
@@ -1597,6 +1616,12 @@ Bicubic VS. Shepard CNN
 - github(Tensorflow): [https://github.com/paarthneekhara/text-to-image](https://github.com/paarthneekhara/text-to-image)
 
 ## Image Tagging
+
+**Fast Zero-Shot Image Tagging**
+
+![](http://crcv.ucf.edu/projects/fastzeroshot/overview.png)
+
+- project: [http://crcv.ucf.edu/projects/fastzeroshot/](http://crcv.ucf.edu/projects/fastzeroshot/)
 
 **Flexible Image Tagging with Fast0Tag**
 
@@ -2067,12 +2092,14 @@ Compatible with Theano and TensorFlow. Optimized for Twitter.
 
 - github: [https://github.com/wh1t3w01f/neugo](https://github.com/wh1t3w01f/neugo)
 
-## gvnn
-
 **gvnn: Neural Network Library for Geometric Computer Vision**
 
 - arxiv: [http://arxiv.org/abs/1607.07405](http://arxiv.org/abs/1607.07405)
 - github: [https://github.com/ankurhanda/gvnn](https://github.com/ankurhanda/gvnn)
+
+**DeepForge: A development environment for deep learning**
+
+- github: [https://github.com/dfst/deepforge](https://github.com/dfst/deepforge)
 
 # Readings and Questions
 
@@ -2295,3 +2322,9 @@ Compatible with Theano and TensorFlow. Optimized for Twitter.
 
 - intro: PhD Student, Graz University of Technology
 - homepage: [http://feichtenhofer.github.io/](http://feichtenhofer.github.io/)
+
+**Image recognition is not enough: As with language, photos need contextual intelligence**
+
+![](https://cdn-images-1.medium.com/max/1200/1*27OxkybAgEXbb8BBjwhEIA.jpeg)
+
+[https://medium.com/@ken_getquik/image-recognition-is-not-enough-293cd7d58004#.dex817l2z](https://medium.com/@ken_getquik/image-recognition-is-not-enough-293cd7d58004#.dex817l2z)

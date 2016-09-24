@@ -53,25 +53,28 @@ date: 2015-10-09
 
 ## Fine-grained Recognition
 
-**Bilinear CNN Models for Fine-grained Visual Recognition (ICCV 2015)**
+**Bilinear CNN Models for Fine-grained Visual Recognition**
 
 ![](http://people.cs.umass.edu/~smaji/picon/bcnn.png)
 
+- intro: ICCV 2015
 - homepage: [http://vis-www.cs.umass.edu/bcnn/](http://vis-www.cs.umass.edu/bcnn/)
 - paper: [http://vis-www.cs.umass.edu/bcnn/docs/bcnn_iccv15.pdf](http://vis-www.cs.umass.edu/bcnn/docs/bcnn_iccv15.pdf)
 - arxiv: [http://arxiv.org/abs/1504.07889](http://arxiv.org/abs/1504.07889)
 - bitbucket: [https://bitbucket.org/tsungyu/bcnn.git](https://bitbucket.org/tsungyu/bcnn.git)
 
-**Fine-grained Image Classification by Exploring Bipartite-Graph Labels (CVPR 2016)**
+**Fine-grained Image Classification by Exploring Bipartite-Graph Labels**
 
 ![](http://www.f-zhou.com/fg/over.png)
 
+- intro: CVPR 2016
 - project page: [http://www.f-zhou.com/fg.html](http://www.f-zhou.com/fg.html)
 - arxiv: [http://arxiv.org/abs/1512.02665](http://arxiv.org/abs/1512.02665)
 - demo: [http://www.f-zhou.com/fg_demo/](http://www.f-zhou.com/fg_demo/)
 
-**Embedding Label Structures for Fine-Grained Feature Representation (CVPR 2016)**
+**Embedding Label Structures for Fine-Grained Feature Representation**
 
+- intro: CVPR 2016
 - arxiv: [http://arxiv.org/abs/1512.02895](http://arxiv.org/abs/1512.02895)
 - paper: [http://webpages.uncc.edu/~szhang16/paper/CVPR16_structured_labels.pdf](http://webpages.uncc.edu/~szhang16/paper/CVPR16_structured_labels.pdf)
 
@@ -87,10 +90,11 @@ date: 2015-10-09
 
 - arxiv: [https://arxiv.org/abs/1605.06217](https://arxiv.org/abs/1605.06217)
 
-**Learning Deep Representations of Fine-grained Visual Descriptions (CVPR 2016)**
+**Learning Deep Representations of Fine-grained Visual Descriptions**
 
 ![](https://raw.githubusercontent.com/reedscot/cvpr2016/master/images/description_embedding.jpg)
 
+- intro: CVPR 2016
 - arxiv: [http://arxiv.org/abs/1605.05395](http://arxiv.org/abs/1605.05395)
 - github: [https://github.com/reedscot/cvpr2016](https://github.com/reedscot/cvpr2016)
 
@@ -100,13 +104,19 @@ date: 2015-10-09
 
 - arxiv: [http://arxiv.org/abs/1606.03238](http://arxiv.org/abs/1606.03238)
 
-**Picking Deep Filter Responses for Fine-grained Image Recognition (CVPR 2016)**
+**Picking Deep Filter Responses for Fine-grained Image Recognition**
+
+- intro: CVPR 2016
 
 ### SPDA-CNN
 
-**SPDA-CNN: Unifying Semantic Part Detection and Abstraction for Fine-grained Recognition (CVPR 2016)**
+**SPDA-CNN: Unifying Semantic Part Detection and Abstraction for Fine-grained Recognition**
 
-**Part-Stacked CNN for Fine-Grained Visual Categorization (CVPR 2016)**
+- intro: CVPR 2016
+
+**Part-Stacked CNN for Fine-Grained Visual Categorization**
+
+- intro: CVPR 2016
 
 ### Face Recognition
 
@@ -131,7 +141,7 @@ date: 2015-10-09
 
 #### DeepID2+
 
-**Deeply learned face representations are sparse, selective, and robust (DeepID2+)**
+**Deeply learned face representations are sparse, selective, and robust**
 
 - arxiv: [http://arxiv.org/abs/1412.1265](http://arxiv.org/abs/1412.1265)
 - video: [http://research.microsoft.com/apps/video/?id=260023](http://research.microsoft.com/apps/video/?id=260023)
@@ -152,8 +162,9 @@ date: 2015-10-09
 - github: [https://github.com/cmusatyalab/openface](https://github.com/cmusatyalab/openface)
 - github: [https://github.com/Atcold/torch-TripletEmbedding](https://github.com/Atcold/torch-TripletEmbedding)
 
-**Targeting Ultimate Accuracy: Face Recognition via Deep Embedding (CVPR 2015)**
+**Targeting Ultimate Accuracy: Face Recognition via Deep Embedding**
 
+- intro: CVPR 2015
 - arxiv: [http://arxiv.org/abs/1506.07310](http://arxiv.org/abs/1506.07310)
 
 **Pose-Aware Face Recognition in the Wild**

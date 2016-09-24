@@ -671,6 +671,10 @@ Implementations and ideas are largely based on papers from arxiv and implementat
 
 - github: [https://github.com/Atcold/torch-Video-Tutorials](https://github.com/Atcold/torch-Video-Tutorials)
 
+**Torch in Action**
+
+- github: [https://github.com/nicholas-leonard/torch-in-action](https://github.com/nicholas-leonard/torch-in-action)
+
 # VELES
 
 **VELES: Distributed platform for rapid Deep learning application development**

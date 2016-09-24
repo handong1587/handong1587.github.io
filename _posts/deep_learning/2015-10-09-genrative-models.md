@@ -100,3 +100,8 @@ date: 2015-10-09
 **Are Energy-Based GANs any more energy-based than normal GANs?**
 
 [http://www.inference.vc/are-energy-based-gans-actually-energy-based/](http://www.inference.vc/are-energy-based-gans-actually-energy-based/)
+
+**Generative Adversarial Networks Explained with a Classic Spongebob Squarepants Episode: Plus a Tensorflow tutorial for implementing your own GAN**
+
+- blog: [https://medium.com/@awjuliani/generative-adversarial-networks-explained-with-a-classic-spongebob-squarepants-episode-54deab2fce39#.rpiunhdjh](https://medium.com/@awjuliani/generative-adversarial-networks-explained-with-a-classic-spongebob-squarepants-episode-54deab2fce39#.rpiunhdjh)
+- gist: [https://gist.github.com/awjuliani/8ebf356d03ffee139659807be7fa2611](https://gist.github.com/awjuliani/8ebf356d03ffee139659807be7fa2611)

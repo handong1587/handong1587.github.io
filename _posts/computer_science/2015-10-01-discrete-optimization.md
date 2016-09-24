@@ -38,6 +38,11 @@ date: 2015-10-01
 - paper: [http://ccg.doc.gold.ac.uk/papers/browne_tciaig12_1.pdf](http://ccg.doc.gold.ac.uk/papers/browne_tciaig12_1.pdf)
 - paper: [http://www.cameronius.com/cv/mcts-survey-master.pdf](http://www.cameronius.com/cv/mcts-survey-master.pdf)
 
+**Handbook of Markov Chain Monte Carlo**
+
+- book: [https://www.crcpress.com/Handbook-of-Markov-Chain-Monte-Carlo/Brooks-Gelman-Jones-Meng/p/book/9781420079418](https://www.crcpress.com/Handbook-of-Markov-Chain-Monte-Carlo/Brooks-Gelman-Jones-Meng/p/book/9781420079418)
+- homepage: [http://www.mcmchandbook.net/HandbookSampleChapters.html](http://www.mcmchandbook.net/HandbookSampleChapters.html)
+
 # Rectangle Bin Packing
 
 **Even More Rectangle Bin Packing**

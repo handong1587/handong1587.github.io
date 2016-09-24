@@ -116,6 +116,11 @@ only the CNN part of the network is fine-tuned to learn deconvolution indirectly
 
 - arxiv: [http://arxiv.org/abs/1503.01640](http://arxiv.org/abs/1503.01640)
 
+**Efficient piecewise training of deep structured models for semantic segmentation**
+
+- intro: CVPR 2016
+- arxiv: [http://arxiv.org/abs/1504.01013](http://arxiv.org/abs/1504.01013)
+
 ## DeconvNet
 
 **Learning Deconvolution Network for Semantic Segmentation (DeconvNet)**

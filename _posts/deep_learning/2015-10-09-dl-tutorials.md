@@ -302,7 +302,12 @@ date: 2015-10-09
 
 [http://www.asimovinstitute.org/neural-network-zoo/](http://www.asimovinstitute.org/neural-network-zoo/)
 
-## Convolution
+**Recognising Beer with TensorFlow**
+
+- blog: [https://medium.com/@chrishawkins/recognising-beer-with-tensorflow-9dedfee3c3c0#.pn5gm3fgc](https://medium.com/@chrishawkins/recognising-beer-with-tensorflow-9dedfee3c3c0#.pn5gm3fgc)
+- gist: [https://gist.github.com/chrishawkins/177e37756c833768a21d446cc4921c6e](https://gist.github.com/chrishawkins/177e37756c833768a21d446cc4921c6e)
+
+# Convolution
 
 ![](/assets/cnn-materials/conv.jpg)
 
@@ -351,14 +356,14 @@ date: 2015-10-09
 
 - blog: [https://blog.keras.io/how-convolutional-neural-networks-see-the-world.html](https://blog.keras.io/how-convolutional-neural-networks-see-the-world.html)
 
-### maxDNN
+## maxDNN
 
 **maxDNN: An Efficient Convolution Kernel for Deep Learning with Maxwell GPUs**
 
 - arxiv: [http://arxiv.org/abs/1501.06633](http://arxiv.org/abs/1501.06633)
 - github: [https://github.com/eBay/maxDNN](https://github.com/eBay/maxDNN)
 
-## GEMM
+# GEMM
 
 **Why GEMM is at the heart of deep learning**
 
@@ -370,7 +375,7 @@ date: 2015-10-09
 
 - github-wiki: [https://github.com/NervanaSystems/maxas/wiki/SGEMM](https://github.com/NervanaSystems/maxas/wiki/SGEMM)
 
-## Backpropagation
+# Backpropagation
 
 **Learning representations by back-propagating errors (1986)**
 **Learning Internal Representations by Error Propagating (1986)**
@@ -414,7 +419,15 @@ date: 2015-10-09
 
 - blog: [http://www.jefkine.com/general/2016/09/05/backpropagation-in-convolutional-neural-networks/](http://www.jefkine.com/general/2016/09/05/backpropagation-in-convolutional-neural-networks/)
 
-## Caffe
+# Attention
+
+**Attention in a Convolutional Neural Net**
+
+![](http://www.danvatterott.com/images/BMM_CNN/visual_system_models.png)
+
+- blog: [http://www.danvatterott.com/blog/2016/09/20/attention-in-a-convolutional-neural-net/](http://www.danvatterott.com/blog/2016/09/20/attention-in-a-convolutional-neural-net/)
+
+# Caffe
 
 **Deep learning tutorial on Caffe technology : basic commands, Python and C++ code**
 

@@ -146,6 +146,7 @@ Compressed model is less than 500KB
 
 - arxiv: [http://arxiv.org/abs/1603.03417](http://arxiv.org/abs/1603.03417)
 - github: [https://github.com/DmitryUlyanov/texture_nets](https://github.com/DmitryUlyanov/texture_nets)
+- notes: [https://blog.acolyer.org/2016/09/23/texture-networks-feed-forward-synthesis-of-textures-and-stylized-images/](https://blog.acolyer.org/2016/09/23/texture-networks-feed-forward-synthesis-of-textures-and-stylized-images/)
 
 **Instance Normalization: The Missing Ingredient for Fast Stylization**
 
@@ -406,7 +407,10 @@ Compressed model is less than 500KB
 
 **Neural Photo Editing with Introspective Adversarial Networks**
 
+![](https://camo.githubusercontent.com/c66848752d9fa05c3194ae36d48b869ec9d21743/687474703a2f2f692e696d6775722e636f6d2f773155323045492e706e67)
+
 - arxiv: [http://arxiv.org/abs/1609.07093](http://arxiv.org/abs/1609.07093)
+- github: [https://github.com/ajbrock/Neural-Photo-Editor](https://github.com/ajbrock/Neural-Photo-Editor)
 
 # Sounds
 
@@ -492,6 +496,15 @@ Compressed model is less than 500KB
 - intro: BachBot is a research project utilizing long short term memory (LSTMs) to generate Bach compositions
 - homepage: [http://bachbot.com/](http://bachbot.com/)
 - github: [https://github.com/feynmanliang/bachbot](https://github.com/feynmanliang/bachbot)
+
+**Generate Music in TensorFlow**
+
+- youtube: [https://www.youtube.com/watch?v=ZE7qWXX05T0](https://www.youtube.com/watch?v=ZE7qWXX05T0)
+- github: [https://github.com/llSourcell/Music_Generator_Demo](https://github.com/llSourcell/Music_Generator_Demo)
+
+**Generate new lyrics in the style of any artist using LSTMs and TensorFlow**
+
+- github: [https://github.com/dyelax/encore.ai](https://github.com/dyelax/encore.ai)
 
 # Poetry
 

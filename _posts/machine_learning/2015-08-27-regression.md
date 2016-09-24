@@ -95,3 +95,7 @@ date: 2015-08-27
 **Applications Of Isotonic Regression**
 
 [http://jxieeducation.com/2016-09-18/Applications-of-Isotonic-Regression/](http://jxieeducation.com/2016-09-18/Applications-of-Isotonic-Regression/)
+
+**Introduction to Logistic Regression**
+
+[https://blog.bigml.com/2016/09/22/introduction-to-logistic-regression/](https://blog.bigml.com/2016/09/22/introduction-to-logistic-regression/)

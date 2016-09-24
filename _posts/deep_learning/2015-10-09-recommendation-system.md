@@ -7,8 +7,9 @@ date: 2015-10-09
 
 # Tutorials
 
-**Making a Contextual Recommendation Engine(by Muktabh Mayank)**
+**Making a Contextual Recommendation Engine**
 
+- intro: by Muktabh Mayank
 - youtube: [https://www.youtube.com/watch?v=ToTyNF9kXkk&hd=1http://weibo.com/1402400261/profile?topnav=1&wvr=6](https://www.youtube.com/watch?v=ToTyNF9kXkk&hd=1http://weibo.com/1402400261/profile?topnav=1&wvr=6)
 - video: [http://pan.baidu.com/s/1eQFFVns](http://pan.baidu.com/s/1eQFFVns)
 
@@ -23,6 +24,12 @@ date: 2015-10-09
 **A Complex Network Approach for Collaborative Recommendation**
 
 - arxiv: [http://arxiv.org/abs/1510.00585v1](http://arxiv.org/abs/1510.00585v1)
+
+**Session-based Recommendations with Recurrent Neural Networks**
+
+- intro: ICLR 2016
+- arxiv: [http://arxiv.org/abs/1511.06939](http://arxiv.org/abs/1511.06939)
+- github: [https://github.com/hidasib/GRU4Rec](https://github.com/hidasib/GRU4Rec)
 
 **Item2Vec: Neural Item Embedding for Collaborative Filtering**
 

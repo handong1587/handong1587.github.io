@@ -98,6 +98,10 @@ date: 2015-08-27
 
 - book: [http://dippl.org/](http://dippl.org/)
 
+**Model-Based Machine Learning and Probabilistic Programming in RStan**
+
+- blog: [https://blog.dominodatalab.com/video-model-based-machine-learning-webcast/](https://blog.dominodatalab.com/video-model-based-machine-learning-webcast/)
+
 # Books
 
 **Probabilistic Programming & Bayesian Methods for Hackers**

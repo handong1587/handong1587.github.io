@@ -110,6 +110,19 @@ date: 2015-10-09
 - homepage: [https://www.kadenze.com/courses/creative-applications-of-deep-learning-with-tensorflow-i/info](https://www.kadenze.com/courses/creative-applications-of-deep-learning-with-tensorflow-i/info)
 - github(ourse materials/Homework materials): [https://github.com/pkmital/CADL](https://github.com/pkmital/CADL)
 
+**Deep Learning School: September 24-25, 2016 Stanford, CA**
+
+- homepage: [http://www.bayareadlschool.org/](http://www.bayareadlschool.org/)
+- day 1: [https://www.youtube.com/watch?v=9dXiAecyJrY](https://www.youtube.com/watch?v=9dXiAecyJrY)
+- day 2: [https://www.youtube.com/watch?v=eyovmAtoUx0](https://www.youtube.com/watch?v=eyovmAtoUx0)
+- github: [https://github.com/lamblin/bayareadlschool](https://github.com/lamblin/bayareadlschool)
+
+**CSC 2541 Fall 2016: Differentiable Inference and Generative Models**
+
+![](http://www.cs.toronto.edu/~duvenaud/courses/csc2541/gan-crop.jpg)
+
+- homepage: [http://www.cs.toronto.edu/~duvenaud/courses/csc2541/index.html](http://www.cs.toronto.edu/~duvenaud/courses/csc2541/index.html)
+
 # Computer Vision
 
 **Stanford CS231n: Convolutional Neural Networks for Visual Recognition**

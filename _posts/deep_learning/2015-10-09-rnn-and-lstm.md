@@ -379,6 +379,7 @@ date: 2015-10-09
 
 - arxiv: [http://arxiv.org/abs/1609.01704](http://arxiv.org/abs/1609.01704)
 - notes: [https://github.com/dennybritz/deeplearning-papernotes/blob/master/notes/hm-rnn.md](https://github.com/dennybritz/deeplearning-papernotes/blob/master/notes/hm-rnn.md)
+- notes: [https://medium.com/@jimfleming/notes-on-hierarchical-multiscale-recurrent-neural-networks-7362532f3b64#.pag4kund0](https://medium.com/@jimfleming/notes-on-hierarchical-multiscale-recurrent-neural-networks-7362532f3b64#.pag4kund0)
 
 # Projects
 

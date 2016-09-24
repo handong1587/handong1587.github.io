@@ -356,6 +356,10 @@ Classic strategies:
 - arxiv: [http://arxiv.org/abs/1608.08984](http://arxiv.org/abs/1608.08984)
 - github: [https://github.com/jonathanSS/ClassImbalanceStudies](https://github.com/jonathanSS/ClassImbalanceStudies)
 
+**This Machine Learning Project on Imbalanced Data Can Add Value to Your Resume**
+
+[https://www.analyticsvidhya.com/blog/2016/09/this-machine-learning-project-on-imbalanced-data-can-add-value-to-your-resume/](https://www.analyticsvidhya.com/blog/2016/09/this-machine-learning-project-on-imbalanced-data-can-add-value-to-your-resume/)
+
 # Deep What?
 
 **Deep Support Vector Machines**
@@ -557,6 +561,7 @@ including all the relevant classifiers available today
 - github: [https://github.com/marcotcr/lime-experiments](https://github.com/marcotcr/lime-experiments)
 - blog: [https://www.oreilly.com/learning/introduction-to-local-interpretable-model-agnostic-explanations-lime](https://www.oreilly.com/learning/introduction-to-local-interpretable-model-agnostic-explanations-lime)
 - blog: [http://dataskeptic.com/epnotes/trusting-machine-learning-models-with-lime.php](http://dataskeptic.com/epnotes/trusting-machine-learning-models-with-lime.php)
+- notes: [https://blog.acolyer.org/2016/09/22/why-should-i-trust-you-explaining-the-predictions-of-any-classifier/](https://blog.acolyer.org/2016/09/22/why-should-i-trust-you-explaining-the-predictions-of-any-classifier/)
 
 # Datasets
 
