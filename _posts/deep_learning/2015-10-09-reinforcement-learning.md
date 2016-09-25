@@ -591,8 +591,9 @@ and together they truly represent a state-of-the-art of current reinforcement le
 - book(1st edition): [http://pan.baidu.com/s/1jkaMq](http://pan.baidu.com/s/1jkaMq)
 - book(2rd edition): [http://pan.baidu.com/s/1dDnNEnR](http://pan.baidu.com/s/1dDnNEnR)
 
-**Reinforcement Learning: An Introduction(Second edition, Draft)**
+**Reinforcement Learning: An Introduction (Second edition, Draft)**
 
+- book: [https://webdocs.cs.ualberta.ca/~sutton/book/bookdraft2016sep.pdf](https://webdocs.cs.ualberta.ca/~sutton/book/bookdraft2016sep.pdf)
 - mirror: [https://pan.baidu.com/s/1slrMYkP](https://pan.baidu.com/s/1slrMYkP)
 
 # Resources
