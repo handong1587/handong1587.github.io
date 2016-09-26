@@ -80,10 +80,9 @@ not just the convolutions)
 
 ## ResNet
 
-![](/assets/dl_resources/ResNet_CVPR2016_BestPaperAward.jpg)
-
 **Deep Residual Learning for Image Recognition**
 
+- intro: CVPR 2016 Best Paper Award
 - arxiv: [http://arxiv.org/abs/1512.03385](http://arxiv.org/abs/1512.03385)
 - slides: [http://research.microsoft.com/en-us/um/people/kahe/ilsvrc15/ilsvrc2015_deep_residual_learning_kaiminghe.pdf](http://research.microsoft.com/en-us/um/people/kahe/ilsvrc15/ilsvrc2015_deep_residual_learning_kaiminghe.pdf)
 - gitxiv: [http://gitxiv.com/posts/LgPRdTY3cwPBiMKbm/deep-residual-learning-for-image-recognition](http://gitxiv.com/posts/LgPRdTY3cwPBiMKbm/deep-residual-learning-for-image-recognition)
