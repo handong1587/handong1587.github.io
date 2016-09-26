@@ -62,6 +62,16 @@ Other awesome lists can be found in this [list](https://github.com/sindresorhus/
 
 - blog: [https://medium.com/@ageitgey/machine-learning-is-fun-part-4-modern-face-recognition-with-deep-learning-c3cffc121d78#.fnu6ep6ac](https://medium.com/@ageitgey/machine-learning-is-fun-part-4-modern-face-recognition-with-deep-learning-c3cffc121d78#.fnu6ep6ac)
 
+## Machine Learning Theory
+
+**Machine Learning Theory - Part 1: Introduction**
+
+[https://mostafa-samir.github.io/ml-theory-pt1/](https://mostafa-samir.github.io/ml-theory-pt1/)
+
+**Machine Learning Theory - Part 2: Generalization Bounds**
+
+[https://mostafa-samir.github.io/ml-theory-pt2/](https://mostafa-samir.github.io/ml-theory-pt2/)
+
 # Boosting
 
 "Quick Introduction to Boosting Algorithms in Machine Learning"
@@ -517,6 +527,18 @@ Classic strategies:
 - talk: [http://techtalks.tv/talks/neil-extracting-visual-knowledge-from-web-data/59408/](http://techtalks.tv/talks/neil-extracting-visual-knowledge-from-web-data/59408/)
 - poster: [http://www.cs.cmu.edu/~xinleic/docs/neil/NEIL_poster.pdf](http://www.cs.cmu.edu/~xinleic/docs/neil/NEIL_poster.pdf)
 
+# One Shot Learning
+
+**An embarrassingly simple approach to zero-shot learning**
+
+- paper: [http://jmlr.org/proceedings/papers/v37/romera-paredes15.html](http://jmlr.org/proceedings/papers/v37/romera-paredes15.html)
+- github: [https://github.com/MLWave/extremely-simple-one-shot-learning](https://github.com/MLWave/extremely-simple-one-shot-learning)
+
+**Matching Networks for One Shot Learning**
+
+- arxiv: [http://arxiv.org/abs/1606.04080](http://arxiv.org/abs/1606.04080)
+- github: [https://github.com/zergylord/oneshot](https://github.com/zergylord/oneshot)
+
 # Papers
 
 **Do we Need Hundreds of Classifiers to Solve Real World Classification Problems?**
@@ -540,11 +562,6 @@ including all the relevant classifiers available today
 **An Empirical Evaluation of Supervised Learning in High Dimensions**
 
 - paper: [http://lowrank.net/nikos/pubs/empirical.pdf](http://lowrank.net/nikos/pubs/empirical.pdf)
-
-**An embarrassingly simple approach to zero-shot learning**
-
-- paper: [http://jmlr.org/proceedings/papers/v37/romera-paredes15.html](http://jmlr.org/proceedings/papers/v37/romera-paredes15.html)
-- github: [https://github.com/MLWave/extremely-simple-one-shot-learning](https://github.com/MLWave/extremely-simple-one-shot-learning)
 
 **Debugging Machine Learning Tasks**
 
@@ -844,6 +861,10 @@ for creating complex software in C++ to solve real world problems.
 
 - github: [https://github.com/chewxy/gorgonia](https://github.com/chewxy/gorgonia)
 - blog: [http://blog.chewxy.com/2016/09/19/gorgonia](http://blog.chewxy.com/2016/09/19/gorgonia)
+
+**GoLearn: Machine Learning for Go**
+
+- github: [https://github.com/sjwhitworth/golearn](https://github.com/sjwhitworth/golearn)
 
 # Projects
 

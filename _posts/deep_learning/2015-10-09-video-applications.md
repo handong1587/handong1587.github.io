@@ -254,6 +254,10 @@ extract saptio-temporal features to represent the video using the CNNs."
 
 - github: [https://github.com/jrbtaylor/ActivityNet](https://github.com/jrbtaylor/ActivityNet)
 
+**LSTM for Human Activity Recognition**
+
+- github: [https://github.com/guillaume-chevalier/LSTM-Human-Activity-Recognition/](https://github.com/guillaume-chevalier/LSTM-Human-Activity-Recognition/)
+
 # Event Recognition
 
 **TagBook: A Semantic Video Representation without Supervision for Event Detection**

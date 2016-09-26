@@ -93,6 +93,10 @@ it surveys the widely known clustering algorithms in a comparative way"
 
 - arxiv: [http://arxiv.org/abs/1605.09299](http://arxiv.org/abs/1605.09299)
 
+**Context Aware Nonnegative Matrix Factorization Clustering**
+
+- arxiv: [http://arxiv.org/abs/1609.04628](http://arxiv.org/abs/1609.04628)
+
 # Books
 
 **Introduction to Clustering and Unsupervised Learning | PACKT Books**

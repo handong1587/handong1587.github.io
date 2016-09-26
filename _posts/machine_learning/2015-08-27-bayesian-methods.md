@@ -119,3 +119,7 @@ date: 2015-08-27
 **Bayesian Optimization of Machine Learning Models**
 
 [http://blog.revolutionanalytics.com/2016/06/bayesian-optimization-of-machine-learning-models.html](http://blog.revolutionanalytics.com/2016/06/bayesian-optimization-of-machine-learning-models.html)
+
+**Probabilistic Programming - Part 1**
+
+[http://javaagile.blogspot.kr/2016/09/probabilistic-programming-part-1.html](http://javaagile.blogspot.kr/2016/09/probabilistic-programming-part-1.html)

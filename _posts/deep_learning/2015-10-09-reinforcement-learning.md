@@ -569,6 +569,10 @@ The project is dedicated to hero in life great Jesse Livermore.
 
 [https://devblogs.nvidia.com/parallelforall/deep-learning-nutshell-reinforcement-learning/](https://devblogs.nvidia.com/parallelforall/deep-learning-nutshell-reinforcement-learning/)
 
+**Write an AI to win at Pong from scratch with Reinforcement Learning**
+
+[https://medium.com/@dhruvp/how-to-write-a-neural-network-to-play-pong-from-scratch-956b57d4f6e0#.n1pgn9chr](https://medium.com/@dhruvp/how-to-write-a-neural-network-to-play-pong-from-scratch-956b57d4f6e0#.n1pgn9chr)
+
 # Books
 
 **Reinforcement Learning: State-of-the-Art**

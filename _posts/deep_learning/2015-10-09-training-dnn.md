@@ -493,9 +493,13 @@ date: 2015-10-09
 - arxiv: [http://arxiv.org/abs/1602.02830](http://arxiv.org/abs/1602.02830)
 - github: [https://github.com/MatthieuCourbariaux/BinaryNet](https://github.com/MatthieuCourbariaux/BinaryNet)
 
+**Quantized Neural Networks: Training Neural Networks with Low Precision Weights and Activations**
+
+- arxiv: [http://arxiv.org/abs/1609.07061](http://arxiv.org/abs/1609.07061)
+
 # Papers
 
-**Understanding the difﬁculty of training deep feed forward neural networks**
+**Understanding the difficulty of training deep feed forward neural networks**
 
 - intro: Xavier initialization
 - paper: [http://jmlr.org/proceedings/papers/v9/glorot10a/glorot10a.pdf](http://jmlr.org/proceedings/papers/v9/glorot10a/glorot10a.pdf)

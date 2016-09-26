@@ -93,8 +93,9 @@ date: 2015-10-09
 - reddit: [https://www.reddit.com/r/MachineLearning/comments/31rinf/150400941_a_simple_way_to_initialize_recurrent/](https://www.reddit.com/r/MachineLearning/comments/31rinf/150400941_a_simple_way_to_initialize_recurrent/)
 - reddit: [https://www.reddit.com/r/MachineLearning/comments/32tgvw/has_anyone_been_able_to_reproduce_the_results_in/](https://www.reddit.com/r/MachineLearning/comments/32tgvw/has_anyone_been_able_to_reproduce_the_results_in/)
 
-**Sequence Level Training with Recurrent Neural Networks (ICLR 2016)**
+**Sequence Level Training with Recurrent Neural Networks**
 
+- intro: ICLR 2016
 - arxiv: [http://arxiv.org/abs/1511.06732](http://arxiv.org/abs/1511.06732)
 - github: [https://github.com/facebookresearch/MIXER](https://github.com/facebookresearch/MIXER)
 - notes: [https://www.evernote.com/shard/s189/sh/ada01a82-70a9-48d4-985c-20492ab91e84/8da92be19e704996dc2b929473abed46](https://www.evernote.com/shard/s189/sh/ada01a82-70a9-48d4-985c-20492ab91e84/8da92be19e704996dc2b929473abed46)
@@ -176,14 +177,16 @@ date: 2015-10-09
 
 # Attention Models
 
-**Recurrent Models of Visual Attention** (Google DeepMind. NIPS2014)
+**Recurrent Models of Visual Attention**
 
+- intro: Google DeepMind. NIPS 2014
 - arxiv: [http://arxiv.org/abs/1406.6247](http://arxiv.org/abs/1406.6247)
 - data: [https://github.com/deepmind/mnist-cluttered](https://github.com/deepmind/mnist-cluttered)
 - github: [https://github.com/Element-Research/rnn/blob/master/examples/recurrent-visual-attention.lua](https://github.com/Element-Research/rnn/blob/master/examples/recurrent-visual-attention.lua)
 
-**Recurrent Model of Visual Attention (Google DeepMind)**
+**Recurrent Model of Visual Attention**
 
+- intro: Google DeepMind
 - paper: [http://arxiv.org/abs/1406.6247](http://arxiv.org/abs/1406.6247)
 - gitxiv: [http://gitxiv.com/posts/ZEobCXSh23DE8a8mo/recurrent-models-of-visual-attention](http://gitxiv.com/posts/ZEobCXSh23DE8a8mo/recurrent-models-of-visual-attention)
 - blog: [http://torch.ch/blog/2015/09/21/rmva.html](http://torch.ch/blog/2015/09/21/rmva.html)
@@ -194,13 +197,15 @@ date: 2015-10-09
 - arxiv: [http://arxiv.org/abs/1502.03044](http://arxiv.org/abs/1502.03044)
 - github: [https://github.com/kelvinxu/arctic-captions](https://github.com/kelvinxu/arctic-captions)
 
-**A Neural Attention Model for Abstractive Sentence Summarization(EMNLP 2015. Facebook AI Research)**
+**A Neural Attention Model for Abstractive Sentence Summarization**
 
+- intro: EMNLP 2015. Facebook AI Research
 - arxiv: [http://arxiv.org/abs/1509.00685](http://arxiv.org/abs/1509.00685)
 - github: [https://github.com/facebook/NAMAS](https://github.com/facebook/NAMAS)
 
-**Effective Approaches to Attention-based Neural Machine Translation (EMNLP2015)**
+**Effective Approaches to Attention-based Neural Machine Translation**
 
+- intro: EMNLP 2015
 - paper: [http://nlp.stanford.edu/pubs/emnlp15_attn.pdf](http://nlp.stanford.edu/pubs/emnlp15_attn.pdf)
 - project: [http://nlp.stanford.edu/projects/nmt/](http://nlp.stanford.edu/projects/nmt/)
 - github: [https://github.com/lmthang/nmt.matlab](https://github.com/lmthang/nmt.matlab)
@@ -228,8 +233,15 @@ date: 2015-10-09
 - github: [https://github.com/szcom/rnnlib](https://github.com/szcom/rnnlib)
 - blog: [http://blog.otoro.net/2015/12/12/handwriting-generation-demo-in-tensorflow/](http://blog.otoro.net/2015/12/12/handwriting-generation-demo-in-tensorflow/)
 
-**Unsupervised Learning of Video Representations using LSTMs (ICML2015)**
+**A Clockwork RNN**
 
+- arxiv: [https://arxiv.org/abs/1402.3511](https://arxiv.org/abs/1402.3511)
+- github: [https://github.com/makistsantekidis/clockworkrnn](https://github.com/makistsantekidis/clockworkrnn)
+- github: [https://github.com/zergylord/ClockworkRNN](https://github.com/zergylord/ClockworkRNN)
+
+**Unsupervised Learning of Video Representations using LSTMs**
+
+- intro: ICML 2015
 - project page: [http://www.cs.toronto.edu/~nitish/unsupervised_video/](http://www.cs.toronto.edu/~nitish/unsupervised_video/)
 - arxiv: [http://arxiv.org/abs/1502.04681](http://arxiv.org/abs/1502.04681)
 - code: [http://www.cs.toronto.edu/~nitish/unsupervised_video/unsup_video_lstm.tar.gz](http://www.cs.toronto.edu/~nitish/unsupervised_video/unsup_video_lstm.tar.gz)
@@ -265,8 +277,9 @@ date: 2015-10-09
 - arxiv: [http://arxiv.org/abs/1506.00019](http://arxiv.org/abs/1506.00019)
 - review: [http://blog.terminal.com/a-thorough-and-readable-review-on-rnns/](http://blog.terminal.com/a-thorough-and-readable-review-on-rnns/)
 
-**Scheduled Sampling for Sequence Prediction with Recurrent Neural Networks(Winner of MSCOCO image captioning challenge, 2015)**
+**Scheduled Sampling for Sequence Prediction with Recurrent Neural Networks**
 
+- intro: Winner of MSCOCO image captioning challenge, 2015
 - arxiv: [http://arxiv.org/abs/1506.03099](http://arxiv.org/abs/1506.03099)
 
 **Visualizing and Understanding Recurrent Networks**
@@ -296,8 +309,9 @@ date: 2015-10-09
 - arxiv: [http://arxiv.org/abs/1511.00060](http://arxiv.org/abs/1511.00060)
 - github: [https://github.com/XingxingZhang/td-treelstm](https://github.com/XingxingZhang/td-treelstm)
 
-**Alternative structures for character-level RNNs(INRIA & Facebook AI Research. ICLR 2016)**
+**Alternative structures for character-level RNNs**
 
+- intro: INRIA & Facebook AI Research. ICLR 2016
 - arxiv: [http://arxiv.org/abs/1511.06303](http://arxiv.org/abs/1511.06303)
 - github: [https://github.com/facebook/Conditional-character-based-RNN](https://github.com/facebook/Conditional-character-based-RNN)
 
@@ -440,8 +454,9 @@ date: 2015-10-09
 
 - github: [https://github.com/KnHuq/Dynamic_RNN_Tensorflow](https://github.com/KnHuq/Dynamic_RNN_Tensorflow)
 
-**PRNN: A fast implementation of recurrent neural network layers in CUDA (Baidu Research)**
+**PRNN: A fast implementation of recurrent neural network layers in CUDA**
 
+- intro: Baidu Research
 - blog: [https://svail.github.io/persistent_rnns/](https://svail.github.io/persistent_rnns/)
 - github: [https://github.com/baidu-research/persistent-rnn](https://github.com/baidu-research/persistent-rnn)
 

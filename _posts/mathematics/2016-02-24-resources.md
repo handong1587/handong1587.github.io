@@ -26,6 +26,11 @@ date: 2016-02-24
 
 [https://www.math.uwaterloo.ca/~hwolkowi/matrixcookbook.pdf](https://www.math.uwaterloo.ca/~hwolkowi/matrixcookbook.pdf)
 
+**Central Limit Theorem**
+
+- intro: This is an attempt to visually explain the core concepts of the Central Limit Theorem
+- blog: [http://mfviz.com/central-limit/](http://mfviz.com/central-limit/)
+
 # Courses
 
 **Stanford EE261 - The Fourier Transform and its Applications**
