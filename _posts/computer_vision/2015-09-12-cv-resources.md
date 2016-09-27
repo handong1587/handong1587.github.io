@@ -579,6 +579,21 @@ The size of their dataset is, however, limited by the availability of domain-spe
 
 - github: [https://github.com/raulmur/ORB_SLAM2](https://github.com/raulmur/ORB_SLAM2)
 
+# Optical Flow
+
+**A Database and Evaluation Methodology for Optical Flow**
+
+- intro: IJCV 2011
+- project page: [http://vision.middlebury.edu/flow/](http://vision.middlebury.edu/flow/)
+- paper: [http://vision.middlebury.edu/flow/floweval-ijcv2011.pdf](http://vision.middlebury.edu/flow/floweval-ijcv2011.pdf)
+
+**SimpleFlow: A Non-iterative, Sublinear Optical Flow Algorithm**
+
+- intro: Eurographics 2012
+- project page: [http://graphics.berkeley.edu/papers/Tao-SAN-2012-05/](http://graphics.berkeley.edu/papers/Tao-SAN-2012-05/)
+- paper: [http://graphics.berkeley.edu/papers/Tao-SAN-2012-05/Tao-SAN-2012-05.pdf](http://graphics.berkeley.edu/papers/Tao-SAN-2012-05/Tao-SAN-2012-05.pdf)
+- code: [graphics.berkeley.edu/papers/Tao-SAN-2012-05/SimpleFlow_Source.zip](graphics.berkeley.edu/papers/Tao-SAN-2012-05/SimpleFlow_Source.zip)
+
 # OCR
 
 **Ocular: a state-of-the-art historical OCR system**

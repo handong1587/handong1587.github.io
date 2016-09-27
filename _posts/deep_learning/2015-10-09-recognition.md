@@ -195,6 +195,11 @@ date: 2015-10-09
 - intro: SeetaFace Engine is an open source C++ face recognition engine, which can run on CPU with no third-party dependence.
 - github: [https://github.com/seetaface/SeetaFaceEngine](https://github.com/seetaface/SeetaFaceEngine)
 
+**A Discriminative Feature Learning Approach for Deep Face Recognition**
+
+- intro: ECCV 2016
+- paper: [http://ydwen.github.io/papers/WenECCV16.pdf](http://ydwen.github.io/papers/WenECCV16.pdf)
+
 #### Datasets / Benchmarks
 
 **The MegaFace Benchmark: 1 Million Faces for Recognition at Scale**

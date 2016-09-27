@@ -7,13 +7,14 @@ date: 2015-10-09
 
 # Papers
 
-**Deep Joint Task Learning for Generic Object Extraction (NIPS2014)**
+**Deep Joint Task Learning for Generic Object Extraction**
 
 ![](http://vision.sysu.edu.cn/vision_sysu/wp-content/uploads/2013/05/%E5%B0%8FQ%E6%88%AA%E5%9B%BE-20141019095211.png)
 
+- intro: NIPS 2014
 - homepage: [http://vision.sysu.edu.cn/projects/deep-joint-task-learning/](http://vision.sysu.edu.cn/projects/deep-joint-task-learning/)
 - paper: [http://ss.sysu.edu.cn/~ll/files/NIPS2014_JointTask.pdf](http://ss.sysu.edu.cn/~ll/files/NIPS2014_JointTask.pdf)
-- code: [https://github.com/xiaolonw/nips14_loc_seg_testonly](https://github.com/xiaolonw/nips14_loc_seg_testonly)
+- github: [https://github.com/xiaolonw/nips14_loc_seg_testonly](https://github.com/xiaolonw/nips14_loc_seg_testonly)
 - dataset: [http://objectextraction.github.io/](http://objectextraction.github.io/)
 
 ## U-Net
@@ -267,6 +268,10 @@ fine-tune the trained network with more challenging examples later
 **Semantic Segmentation of Earth Observation Data Using Multimodal and Multi-scale Deep Networks**
 
 - arxiv: [http://arxiv.org/abs/1609.06846](http://arxiv.org/abs/1609.06846)
+
+**Deep Structured Features for Semantic Segmentation**
+
+- arxiv: [http://arxiv.org/abs/1609.07916](http://arxiv.org/abs/1609.07916)
 
 # Instance Segmentation
 

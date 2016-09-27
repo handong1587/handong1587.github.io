@@ -473,15 +473,6 @@ Restricted Boltzmann Machine (RBM), Sparse Coding and Auto-encoder
 
 - discussion: [https://github.com/memect/hao/issues/93](https://github.com/memect/hao/issues/93)
 
-**OverFeat: Integrated Recognition, Localization and Detection using Convolutional Networks**
-
-- intro: training a convolutional network to simultaneously classify, 
-locate and detect objects in images can boost the classification
-accuracy and the detection and localization accuracy of all tasks
-- arxiv: [http://arxiv.org/abs/1312.6229](http://arxiv.org/abs/1312.6229)
-- github: [https://github.com/sermanet/OverFeat](https://github.com/sermanet/OverFeat)
-- code: [http://cilvr.nyu.edu/doku.php?id=software:overfeat:start](http://cilvr.nyu.edu/doku.php?id=software:overfeat:start)
-
 **Learning and Transferring Multi-task Deep Representation for Face Alignment**
 
 - arxiv: [http://arxiv.org/abs/1408.3967](http://arxiv.org/abs/1408.3967)
@@ -489,20 +480,6 @@ accuracy and the detection and localization accuracy of all tasks
 **Multi-task learning of facial landmarks and expression**
 
 - paper: [http://www.uoguelph.ca/~gwtaylor/publications/gwtaylor_crv2014.pdf](http://www.uoguelph.ca/~gwtaylor/publications/gwtaylor_crv2014.pdf)
-
-**Heterogeneous multi-task learning for human pose estimation with deep convolutional neural network**
-
-- paper: [www.cv-foundation.org/openaccess/content_cvpr_workshops_2014/W15/papers/LI_Heterogeneous_Multi-task_Learning_2014_CVPR_paper.pdf](www.cv-foundation.org/openaccess/content_cvpr_workshops_2014/W15/papers/LI_Heterogeneous_Multi-task_Learning_2014_CVPR_paper.pdf)
-
-**Deep Joint Task Learning for Generic Object Extraction**
-
-![](http://vision.sysu.edu.cn/vision_sysu/wp-content/uploads/2013/05/%E5%B0%8FQ%E6%88%AA%E5%9B%BE-20141019095211.png)
-
-- intro: NIPS 2014
-- homepage: [http://vision.sysu.edu.cn/projects/deep-joint-task-learning/](http://vision.sysu.edu.cn/projects/deep-joint-task-learning/)
-- paper: [http://ss.sysu.edu.cn/~ll/files/NIPS2014_JointTask.pdf](http://ss.sysu.edu.cn/~ll/files/NIPS2014_JointTask.pdf)
-- github: [https://github.com/xiaolonw/nips14_loc_seg_testonly](https://github.com/xiaolonw/nips14_loc_seg_testonly)
-- dataset: [http://objectextraction.github.io/](http://objectextraction.github.io/)
 
 **Multi-Task Deep Visual-Semantic Embedding for Video Thumbnail Selection**
 
@@ -520,6 +497,11 @@ accuracy and the detection and localization accuracy of all tasks
 **Multi-Task Learning in Tensorflow (Part 1)**
 
 - blog: [https://jg8610.github.io/Multi-Task/](https://jg8610.github.io/Multi-Task/)
+
+**Deep Multi-Task Learning with Shared Memory**
+
+- intro: EMNLP 2016
+- arxiv: [http://arxiv.org/abs/1609.07222](http://arxiv.org/abs/1609.07222)
 
 # Multi-modal Learning
 
@@ -834,6 +816,11 @@ with fast exact probabilistic inference over many layers."
 **Warped Convolutions: Efficient Invariance to Spatial Transformations**
 
 - arxiv: [http://arxiv.org/abs/1609.04382](http://arxiv.org/abs/1609.04382)
+
+**Input Convex Neural Networks**
+
+- arxiv: [http://arxiv.org/abs/1609.07152](http://arxiv.org/abs/1609.07152)
+- github: [https://github.com/locuslab/icnn](https://github.com/locuslab/icnn)
 
 ## Highway Networks
 
@@ -1235,6 +1222,10 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 - arxiv: [http://arxiv.org/abs/1312.4659](http://arxiv.org/abs/1312.4659)
 - slides: [http://140.122.184.143/paperlinks/Slides/DeepPose_HumanPose_Estimation_via_Deep_Neural_Networks.pptx](http://140.122.184.143/paperlinks/Slides/DeepPose_HumanPose_Estimation_via_Deep_Neural_Networks.pptx)
 
+**Heterogeneous multi-task learning for human pose estimation with deep convolutional neural network**
+
+- paper: [www.cv-foundation.org/openaccess/content_cvpr_workshops_2014/W15/papers/LI_Heterogeneous_Multi-task_Learning_2014_CVPR_paper.pdf](www.cv-foundation.org/openaccess/content_cvpr_workshops_2014/W15/papers/LI_Heterogeneous_Multi-task_Learning_2014_CVPR_paper.pdf)
+
 **Flowing ConvNets for Human Pose Estimation in Videos**
 
 - arxiv: [http://arxiv.org/abs/1506.02897](http://arxiv.org/abs/1506.02897)
@@ -1275,6 +1266,10 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 
 - arxiv: [http://arxiv.org/abs/1605.03170](http://arxiv.org/abs/1605.03170)
 - github: [https://github.com/eldar/deepcut-cnn](https://github.com/eldar/deepcut-cnn)
+
+**Real-time Human Pose Estimation from Video with Convolutional Neural Networks**
+
+- arxiv: [http://arxiv.org/abs/1609.07420](http://arxiv.org/abs/1609.07420)
 
 ## Sentiment Prediction
 
@@ -1539,6 +1534,17 @@ Bicubic VS. Shepard CNN
 - project page: [http://smartdsp.xmu.edu.cn/derainNet.html](http://smartdsp.xmu.edu.cn/derainNet.html)
 - arxiv: [http://arxiv.org/abs/1609.02087](http://arxiv.org/abs/1609.02087)
 - code(Matlab): [http://smartdsp.xmu.edu.cn/memberpdf/fuxueyang/derainNet/code.zip](http://smartdsp.xmu.edu.cn/memberpdf/fuxueyang/derainNet/code.zip)
+
+**Joint Rain Detection and Removal via Iterative Region Dependent Multi-Task Learning**
+
+- arxiv: [http://arxiv.org/abs/1609.07769](http://arxiv.org/abs/1609.07769)
+
+## Fence Removal
+
+**Deep learning based fence segmentation and removal from an image using a video sequence**
+
+- intro: ECCV Workshop on Video Segmentation, 2016
+- arxiv: [http://arxiv.org/abs/1609.07727](http://arxiv.org/abs/1609.07727)
 
 ## Blur Detection and Removal
 
@@ -1937,6 +1943,14 @@ Bicubic VS. Shepard CNN
 
 - arxiv: [http://arxiv.org/abs/1411.5309](http://arxiv.org/abs/1411.5309)
 - paper: [http://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Wan_End-to-End_Integration_of_2015_CVPR_paper.pdf](http://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Wan_End-to-End_Integration_of_2015_CVPR_paper.pdf)
+
+**FlowNet: Learning Optical Flow with Convolutional Networks**
+
+![](http://lmb.informatik.uni-freiburg.de/Publications/2015/DFIB15/teaser.png)
+
+- intro: "competitive accuracy at frame rates of 5 to 10 fps"
+- project page: [http://lmb.informatik.uni-freiburg.de/Publications/2015/DFIB15/](http://lmb.informatik.uni-freiburg.de/Publications/2015/DFIB15/)
+- arxiv: [https://arxiv.org/abs/1504.06852](https://arxiv.org/abs/1504.06852)
 
 **A convnet for non-maximum suppression**
 

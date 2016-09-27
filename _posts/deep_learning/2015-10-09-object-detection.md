@@ -45,6 +45,8 @@ date: 2015-10-09
 
 - intro: A deep version of the sliding window method, predicts bounding box directly from each location of the 
 topmost feature map after knowing the confidences of the underlying object categories.
+- intro: training a convolutional network to simultaneously classify, locate and detect objects in images 
+can boost the classification accuracy and the detection and localization accuracy of all tasks
 - arxiv: [http://arxiv.org/abs/1312.6229](http://arxiv.org/abs/1312.6229)
 - github: [https://github.com/sermanet/OverFeat](https://github.com/sermanet/OverFeat)
 - code: [http://cilvr.nyu.edu/doku.php?id=software:overfeat:start](http://cilvr.nyu.edu/doku.php?id=software:overfeat:start)
@@ -369,6 +371,12 @@ and 1.15s per image with it".
 - github: [https://github.com/sanghoon/pva-faster-rcnn](https://github.com/sanghoon/pva-faster-rcnn)
 - leaderboard(PVANet 9.0): [http://host.robots.ox.ac.uk:8080/leaderboard/displaylb.php?challengeid=11&compid=4](http://host.robots.ox.ac.uk:8080/leaderboard/displaylb.php?challengeid=11&compid=4)
 
+**Gated Bi-directional CNN for Object Detection**
+
+- intro: The Chinese University of Hong Kong & Sensetime Group Limited
+- paper: [http://link.springer.com/chapter/10.1007/978-3-319-46478-7_22](http://link.springer.com/chapter/10.1007/978-3-319-46478-7_22)
+- mirror: [https://pan.baidu.com/s/1dFohO7v](https://pan.baidu.com/s/1dFohO7v)
+
 # Detection From Video
 
 **Learning Object Class Detectors from Weakly Annotated Video**
@@ -572,6 +580,13 @@ This task involves predicting the salient regions of an image given by human eye
 
 - intro: ICPR 2016
 - arxiv: [http://arxiv.org/abs/1609.03536](http://arxiv.org/abs/1609.03536)
+
+**Joint Face Detection and Alignment using Multi-task Cascaded Convolutional Networks**
+
+![](https://kpzhang93.github.io/MTCNN_face_detection_alignment/support/index.png)
+
+- project page: [https://kpzhang93.github.io/MTCNN_face_detection_alignment/index.html](https://kpzhang93.github.io/MTCNN_face_detection_alignment/index.html)
+- github: [https://github.com/kpzhang93/MTCNN_face_detection_alignment](https://github.com/kpzhang93/MTCNN_face_detection_alignment)
 
 ### Datasets / Benchmarks
 

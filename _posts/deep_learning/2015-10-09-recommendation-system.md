@@ -112,6 +112,10 @@ This package also includes implementation of RBM based collaborative filtering m
 - intro: a general project to walk through the proceses of using TensorFlow
 - github: [https://github.com/tobegit3hub/deep_recommend_system](https://github.com/tobegit3hub/deep_recommend_system)
 
+**Deep Learning Recommender System**
+
+- github: [https://github.com/freegraphics/MIDS](https://github.com/freegraphics/MIDS)
+
 # Videos
 
 **Deep Learning for Recommender Systems**

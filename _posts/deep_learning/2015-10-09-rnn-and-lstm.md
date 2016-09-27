@@ -561,6 +561,10 @@ date: 2015-10-09
 - blog: [http://distill.pub/2016/augmented-rnns/](http://distill.pub/2016/augmented-rnns/)
 - github: [https://github.com/distillpub/post--augmented-rnns](https://github.com/distillpub/post--augmented-rnns)
 
+**Interpreting and Visualizing Neural Networks for Text Processing**
+
+[https://civisanalytics.com/blog/data-science/2016/09/22/neural-network-visualization/](https://civisanalytics.com/blog/data-science/2016/09/22/neural-network-visualization/)
+
 ## Optimizing RNN (Baidu Silicon Valley AI Lab)
 
 **Optimizing RNN performance**

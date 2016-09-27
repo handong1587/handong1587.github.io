@@ -220,6 +220,10 @@ date: 2015-10-09
 
 - blog: [http://blog.revolutionanalytics.com/2016/08/deep-learning-part-2.html](http://blog.revolutionanalytics.com/2016/08/deep-learning-part-2.html)
 
+**Deep Learning Part 3: Combining Deep Convolutional Neural Network with Recurrent Neural Network**
+
+- blog: [http://blog.revolutionanalytics.com/2016/09/deep-learning-part-3.html](http://blog.revolutionanalytics.com/2016/09/deep-learning-part-3.html)
+
 - - -
 
 **Introduction to Deep Learning for Image Processing**

@@ -177,6 +177,13 @@ date: 2015-10-09
 
 [http://blog.otoro.net/2016/04/01/generating-large-images-from-latent-vectors/](http://blog.otoro.net/2016/04/01/generating-large-images-from-latent-vectors/)
 
+**Generating Faces with Deconvolution Networks**
+
+![](https://raw.githubusercontent.com/zo7/facegen/master/img/example.gif)
+
+- blog: [https://zo7.github.io/blog/2016/09/25/generating-faces.html](https://zo7.github.io/blog/2016/09/25/generating-faces.html)
+- github: [https://github.com/zo7/facegen](https://github.com/zo7/facegen)
+
 # Projects
 
 **Generate cat images with neural networks**
