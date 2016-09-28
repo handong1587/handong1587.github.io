@@ -533,3 +533,9 @@ paste -d" " file1.txt file2.txt
 ```
 
 [http://stackoverflow.com/questions/16394176/how-to-merge-two-files-consistently-line-by-line](http://stackoverflow.com/questions/16394176/how-to-merge-two-files-consistently-line-by-line)
+
+**shuffle file lines**
+
+```
+shuf file.list > file_shuffled.list
+```
