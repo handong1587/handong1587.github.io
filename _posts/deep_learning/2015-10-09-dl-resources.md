@@ -371,11 +371,9 @@ Restricted Boltzmann Machine (RBM), Sparse Coding and Auto-encoder
 
 - arxiv: [http://arxiv.org/abs/1607.02173](http://arxiv.org/abs/1607.02173)
 
-### Deep Embedded Clustering (DEC)
-
 **Unsupervised Deep Embedding for Clustering Analysis**
 
-- intro: ICML 2016
+- intro: ICML 2016. Deep Embedded Clustering (DEC)
 - arxiv: [https://arxiv.org/abs/1511.06335](https://arxiv.org/abs/1511.06335)
 - github: [https://github.com/piiswrong/dec](https://github.com/piiswrong/dec)
 
@@ -383,7 +381,7 @@ Restricted Boltzmann Machine (RBM), Sparse Coding and Auto-encoder
 
 **How transferable are features in deep neural networks?**
 
--intro: NIPS 2014
+- intro: NIPS 2014
 - arxiv: [http://arxiv.org/abs/1411.1792](http://arxiv.org/abs/1411.1792)
 
 **Learning and Transferring Mid-Level Image Representations using Convolutional Neural Networks**
@@ -598,8 +596,6 @@ which encodes useful class information rather than individual units (feature act
 - author: Alexey Kurakin, Ian Goodfellow, Samy Bengio. Google Brain & OpenAI
 - arxiv: [http://arxiv.org/abs/1607.02533](http://arxiv.org/abs/1607.02533)
 
-## DeepFool
-
 **DeepFool: a simple and accurate method to fool deep neural networks**
 
 - arxiv: [http://arxiv.org/abs/1511.04599](http://arxiv.org/abs/1511.04599)
@@ -792,12 +788,11 @@ with fast exact probabilistic inference over many layers."
 
 - arxiv: [http://arxiv.org/abs/1608.06049](http://arxiv.org/abs/1608.06049)
 
-## DenseNet
-
 **Densely Connected Convolutional Networks**
 
 ![](https://cloud.githubusercontent.com/assets/8370623/17981496/fa648b32-6ad1-11e6-9625-02fdd72fdcd3.jpg)
 
+- intro: DenseNet
 - arxiv: [http://arxiv.org/abs/1608.06993](http://arxiv.org/abs/1608.06993)
 - github: [https://github.com/liuzhuang13/DenseNet](https://github.com/liuzhuang13/DenseNet)
 
@@ -833,8 +828,9 @@ with fast exact probabilistic inference over many layers."
 
 - homepage(papers+code+FAQ): [http://people.idsia.ch/~rupesh/very_deep_learning/](http://people.idsia.ch/~rupesh/very_deep_learning/)
 
-**Training Very Deep Networks (highway networks)**
+**Training Very Deep Networks**
 
+- project page: [http://people.idsia.ch/~rupesh/very_deep_learning/](http://people.idsia.ch/~rupesh/very_deep_learning/)
 - arxiv: [http://arxiv.org/abs/1507.06228](http://arxiv.org/abs/1507.06228)
 
 ## Spatial Transformer Networks
@@ -867,6 +863,18 @@ with fast exact probabilistic inference over many layers."
 **Recurrent Spatial Transformer Networks**
 
 - paper: [http://arxiv.org/abs/1509.05329](http://arxiv.org/abs/1509.05329)
+
+## FractalNet
+
+**FractalNet: Ultra-Deep Neural Networks without Residuals**
+
+![](http://people.cs.uchicago.edu/~larsson/fractalnet/overview.png)
+
+- project: [http://people.cs.uchicago.edu/~larsson/fractalnet/](http://people.cs.uchicago.edu/~larsson/fractalnet/)
+- arxiv: [http://arxiv.org/abs/1605.07648](http://arxiv.org/abs/1605.07648)
+- github: [https://github.com/gustavla/fractalnet](https://github.com/gustavla/fractalnet)
+- github: [https://github.com/edgelord/FractalNet](https://github.com/edgelord/FractalNet)
+- github(keras): [https://github.com/snf/keras-fractalnet](https://github.com/snf/keras-fractalnet)
 
 # Deep Learning with Traditional Machine Learning Methods
 
@@ -956,6 +964,10 @@ with fast exact probabilistic inference over many layers."
 
 - blog: [http://matthijshollemans.com/2016/08/30/vggnet-convolutional-neural-network-iphone/](http://matthijshollemans.com/2016/08/30/vggnet-convolutional-neural-network-iphone/)
 - github: [https://github.com/hollance/VGGNet-Metal](https://github.com/hollance/VGGNet-Metal)
+
+**TensorFlow for Mobile Poets**
+
+- blog: [https://petewarden.com/2016/09/27/tensorflow-for-mobile-poets/](https://petewarden.com/2016/09/27/tensorflow-for-mobile-poets/)
 
 # Deep Learning in Finance
 
@@ -1167,8 +1179,6 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 - paper: [https://www.vision.ee.ethz.ch/en/publications/papers/proceedings/eth_biwi_01229.pdf](https://www.vision.ee.ethz.ch/en/publications/papers/proceedings/eth_biwi_01229.pdf)
 - homepage: [https://data.vision.ee.ethz.ch/cvl/rrothe/imdb-wiki/](https://data.vision.ee.ethz.ch/cvl/rrothe/imdb-wiki/)
 
-### EmotioNet
-
 **EmotioNet: EmotioNet: An accurate, real-time algorithm for the automatic annotation of a million facial expressions in the wild**
 
 - intro: CVPR 2016
@@ -1191,8 +1201,6 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 **A Recursive Framework for Expression Recognition: From Web Images to Deep Models to Game Dataset**
 
 - arxiv: [http://arxiv.org/abs/1608.01647](http://arxiv.org/abs/1608.01647)
-
-### FaceNet2ExpNet
 
 **FaceNet2ExpNet: Regularizing a Deep Face Recognition Net for Expression Recognition**
 
@@ -1339,8 +1347,6 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 - intro: CVPR 2016
 - paper: [http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Zhang_Single-Image_Crowd_Counting_CVPR_2016_paper.pdf](http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Zhang_Single-Image_Crowd_Counting_CVPR_2016_paper.pdf)
 - dataset(pwd: p1rv): [http://pan.baidu.com/s/1gfyNBTh](http://pan.baidu.com/s/1gfyNBTh)
-
-### CrowdNet
 
 **CrowdNet: A Deep Convolutional Network for Dense Crowd Counting**
 
@@ -1525,12 +1531,11 @@ Bicubic VS. Shepard CNN
 
 ## Image Rain Removal
 
-### DerainNet
-
 **Clearing the Skies: A deep network architecture for single-image rain removal**
 
 ![](http://smartdsp.xmu.edu.cn/memberpdf/fuxueyang/derainNet/overview.JPG)
 
+- intro: DerainNet
 - project page: [http://smartdsp.xmu.edu.cn/derainNet.html](http://smartdsp.xmu.edu.cn/derainNet.html)
 - arxiv: [http://arxiv.org/abs/1609.02087](http://arxiv.org/abs/1609.02087)
 - code(Matlab): [http://smartdsp.xmu.edu.cn/memberpdf/fuxueyang/derainNet/code.zip](http://smartdsp.xmu.edu.cn/memberpdf/fuxueyang/derainNet/code.zip)
@@ -1647,8 +1652,6 @@ Bicubic VS. Shepard CNN
 - paper: [http://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Zagoruyko_Learning_to_Compare_2015_CVPR_paper.pdf](http://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Zagoruyko_Learning_to_Compare_2015_CVPR_paper.pdf)
 - github: [https://github.com/szagoruyko/cvpr15deepcompare](https://github.com/szagoruyko/cvpr15deepcompare)
 
-### MatchNet
-
 **MatchNet: Unifying Feature and Metric Learning for Patch-Based Matching**
 
 - intro: CVPR 2015. siamese network
@@ -1656,13 +1659,11 @@ Bicubic VS. Shepard CNN
 - extended abstract: [http://www.cv-foundation.org/openaccess/content_cvpr_2015/ext/2A_114_ext.pdf](http://www.cv-foundation.org/openaccess/content_cvpr_2015/ext/2A_114_ext.pdf)
 - github: [https://github.com/hanxf/matchnet](https://github.com/hanxf/matchnet)
 
-### StyleNet
-
 **Fashion Style in 128 Floats**
 
 ![](http://hi.cs.waseda.ac.jp/~esimo/images/stylenet/fashionfeat.png)
 
-- intro: CVPR 2016
+- intro: CVPR 2016. StyleNet
 - project page: [http://hi.cs.waseda.ac.jp/~esimo/en/research/stylenet/](http://hi.cs.waseda.ac.jp/~esimo/en/research/stylenet/)
 - paper: [http://hi.cs.waseda.ac.jp/~esimo/publications/SimoSerraCVPR2016.pdf](http://hi.cs.waseda.ac.jp/~esimo/publications/SimoSerraCVPR2016.pdf)
 - github: [https://github.com/bobbens/cvpr2016_stylenet](https://github.com/bobbens/cvpr2016_stylenet)
@@ -1678,8 +1679,6 @@ Bicubic VS. Shepard CNN
 **Recurrent Convolutional Network for Video-based Person Re-Identification**
 
 - arxiv: [Recurrent Convolutional Network for Video-based Person Re-Identification](Recurrent Convolutional Network for Video-based Person Re-Identification)
-
-### PersonNet
 
 **PersonNet: Person Re-identification with Deep Convolutional Neural Networks**
 
@@ -1871,18 +1870,6 @@ Bicubic VS. Shepard CNN
 - project page: [http://mmlab.ie.cuhk.edu.hk/projects/LMLE.html](http://mmlab.ie.cuhk.edu.hk/projects/LMLE.html)
 - paper: [http://personal.ie.cuhk.edu.hk/~ccloy/files/cvpr_2016_imbalanced.pdf](http://personal.ie.cuhk.edu.hk/~ccloy/files/cvpr_2016_imbalanced.pdf)
 - code: [http://mmlab.ie.cuhk.edu.hk/projects/LMLE/lmle_code.zip](http://mmlab.ie.cuhk.edu.hk/projects/LMLE/lmle_code.zip)
-
-## FractalNet
-
-**FractalNet: Ultra-Deep Neural Networks without Residuals**
-
-![](http://people.cs.uchicago.edu/~larsson/fractalnet/overview.png)
-
-- project: [http://people.cs.uchicago.edu/~larsson/fractalnet/](http://people.cs.uchicago.edu/~larsson/fractalnet/)
-- arxiv: [http://arxiv.org/abs/1605.07648](http://arxiv.org/abs/1605.07648)
-- github: [https://github.com/gustavla/fractalnet](https://github.com/gustavla/fractalnet)
-- github: [https://github.com/edgelord/FractalNet](https://github.com/edgelord/FractalNet)
-- github(keras): [https://github.com/snf/keras-fractalnet](https://github.com/snf/keras-fractalnet)
 
 **Newtonian Image Understanding: Unfolding the Dynamics of Objects in Static Images**
 
