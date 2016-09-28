@@ -620,6 +620,12 @@ Given a sample represented as a sequence of strokes, the parser is able to conve
 
 - blog: [https://indico.io/blog/simple-practical-path-to-machine-learning-capability-part2/](https://indico.io/blog/simple-practical-path-to-machine-learning-capability-part2/)
 
+# Codec
+
+**JPEG 101 - How does JPEG work?**
+
+- blog: [http://arjunsreedharan.org/post/146070390717/jpeg-101-how-does-jpeg-work](http://arjunsreedharan.org/post/146070390717/jpeg-101-how-does-jpeg-work)
+
 # Papers
 
 **RGB-W: When Vision Meets Wireless**

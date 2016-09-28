@@ -176,6 +176,10 @@ date: 2015-10-09
 
 - blog: [http://r2rt.com/implementing-batch-normalization-in-tensorflow.html](http://r2rt.com/implementing-batch-normalization-in-tensorflow.html)
 
+**Deriving the Gradient for the Backward Pass of Batch Normalization**
+
+- blog: [https://kevinzakka.github.io/2016/09/14/batch_normalization/](https://kevinzakka.github.io/2016/09/14/batch_normalization/)
+
 ## Layer Normalization
 
 **Layer Normalization**
@@ -252,6 +256,10 @@ date: 2015-10-09
 - arxiv: [http://arxiv.org/abs/1608.03983](http://arxiv.org/abs/1608.03983)
 - github: [https://github.com/loshchil/SGDR](https://github.com/loshchil/SGDR)
 
+**The zen of gradient descent**
+
+- blog: [http://blog.mrtz.org/2013/09/07/the-zen-of-gradient-descent.html](http://blog.mrtz.org/2013/09/07/the-zen-of-gradient-descent.html)
+
 # Tensor Methods
 
 **Tensorizing Neural Networks (TensorNet)**
@@ -323,6 +331,10 @@ date: 2015-10-09
 **Dropout Regularization in Deep Learning Models With Keras**
 
 - blog: [http://machinelearningmastery.com/dropout-regularization-deep-learning-models-keras/](http://machinelearningmastery.com/dropout-regularization-deep-learning-models-keras/)
+
+**Dropout with Expectation-linear Regularization**
+
+- arxiv: [http://arxiv.org/abs/1609.08017](http://arxiv.org/abs/1609.08017)
 
 ## DropConnect
 
@@ -533,3 +545,9 @@ date: 2015-10-09
 **torch-pastalog: A Torch interface for pastalog - simple, realtime visualization of neural network training performance**
 
 - github: [https://github.com/Kaixhin/torch-pastalog](https://github.com/Kaixhin/torch-pastalog)
+
+# Blogs
+
+**Important nuances to train deep learning models**
+
+[http://www.erogol.com/important-nuances-train-deep-learning-models/](http://www.erogol.com/important-nuances-train-deep-learning-models/)
