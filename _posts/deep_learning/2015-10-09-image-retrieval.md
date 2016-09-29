@@ -99,8 +99,6 @@ date: 2015-10-09
 
 - arxiv: [http://arxiv.org/abs/1607.02748](http://arxiv.org/abs/1607.02748)
 
-## DeepBit
-
 **Learning Compact Binary Descriptors with Unsupervised Deep Neural Networks**
 
 ![](/assets/image_retrieval/DeepBit.jpg)
@@ -117,13 +115,9 @@ date: 2015-10-09
 - paper: [http://cmp.felk.cvut.cz/~radenfil/publications/Radenovic-ECCV16.pdf](http://cmp.felk.cvut.cz/~radenfil/publications/Radenovic-ECCV16.pdf)
 - code(Matlab): [http://ptak.felk.cvut.cz/personal/radenfil/siamac/siaMAC_code.tar.gz](http://ptak.felk.cvut.cz/personal/radenfil/siamac/siaMAC_code.tar.gz)
 
-## SSDH
-
 **SSDH: Semi-supervised Deep Hashing for Large Scale Image Retrieval**
 
 - arxiv: [http://arxiv.org/abs/1607.08477](http://arxiv.org/abs/1607.08477)
-
-## PicHunt
 
 **PicHunt: Social Media Image Retrieval for Improved Law Enforcement**
 
@@ -133,13 +127,9 @@ date: 2015-10-09
 
 - arxiv: [http://arxiv.org/abs/1608.01807](http://arxiv.org/abs/1608.01807)
 
-## Deep Hashing
-
 **Deep Hashing: A Joint Approach for Image Signature Learning**
 
 - arxiv: [http://arxiv.org/abs/1608.03658](http://arxiv.org/abs/1608.03658)
-
-## DeepDiary
 
 **DeepDiary: Automatic Caption Generation for Lifelogging Image Streams**
 

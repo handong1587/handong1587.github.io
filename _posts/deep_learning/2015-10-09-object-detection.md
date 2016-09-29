@@ -719,10 +719,6 @@ This task involves predicting the salient regions of an image given by human eye
 
 - arxiv: [http://arxiv.org/abs/1512.01325](http://arxiv.org/abs/1512.01325)
 
-**Fully Convolutional Neural Network for Fast Anomaly Detection in Crowded Scenes**
-
-- arxiv: [http://arxiv.org/abs/1609.00866](http://arxiv.org/abs/1609.00866)
-
 ## Skeleton Detection
 
 **Object Skeleton Extraction in Natural Images by Fusing Scale-associated Deep Side Outputs**

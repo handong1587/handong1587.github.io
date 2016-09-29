@@ -83,11 +83,9 @@ extract saptio-temporal features to represent the video using the CNNs."
 
 - paper: [http://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Du_Hierarchical_Recurrent_Neural_2015_CVPR_paper.pdf](http://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Du_Hierarchical_Recurrent_Neural_2015_CVPR_paper.pdf)
 
-### TDD
-
 **Action Recognition with Trajectory-Pooled Deep-Convolutional Descriptors**
 
-- intro: CVPR 2015
+- intro: CVPR 2015. TDD
 - paper: [www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Wang_Action_Recognition_With_2015_CVPR_paper.pdf](www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Wang_Action_Recognition_With_2015_CVPR_paper.pdf)
 - ext: [http://www.cv-foundation.org/openaccess/content_cvpr_2015/app/2B_105_ext.pdf](http://www.cv-foundation.org/openaccess/content_cvpr_2015/app/2B_105_ext.pdf)
 - poster: [https://wanglimin.github.io/papers/WangQT_CVPR15_Poster.pdf](https://wanglimin.github.io/papers/WangQT_CVPR15_Poster.pdf)
@@ -96,8 +94,6 @@ extract saptio-temporal features to represent the video using the CNNs."
 **Action Recognition by Hierarchical Mid-level Action Elements**
 
 - paper: [http://cvgl.stanford.edu/papers/tian2015.pdf](http://cvgl.stanford.edu/papers/tian2015.pdf)
-
-### R*CNN
 
 **Contextual Action Recognition with R*CNN**
 
@@ -164,21 +160,17 @@ extract saptio-temporal features to represent the video using the CNNs."
 
 - arxiv: [http://arxiv.org/abs/1607.08584](http://arxiv.org/abs/1607.08584)
 
-### TSN
-
 **CUHK & ETHZ & SIAT Submission to ActivityNet Challenge 2016**
 
-- intro: won the 1st place in the untrimmed video classification task of ActivityNet Challenge 2016
+- intro: won the 1st place in the untrimmed video classification task of ActivityNet Challenge 2016. TSN
 - arxiv: [http://arxiv.org/abs/1608.00797](http://arxiv.org/abs/1608.00797)
 - github: [https://github.com/yjxiong/anet2016-cuhk](https://github.com/yjxiong/anet2016-cuhk)
-
-### H-FCN
 
 **Actionness Estimation Using Hybrid FCNs**
 
 ![](http://wanglimin.github.io/actionness_hfcn/actionness.png)
 
-- intro: CVPR 2016
+- intro: CVPR 2016. H-FCN
 - project page: [http://wanglimin.github.io/actionness_hfcn/index.html](http://wanglimin.github.io/actionness_hfcn/index.html)
 - paper: [http://wanglimin.github.io/papers/WangQTV_CVPR16.pdf](http://wanglimin.github.io/papers/WangQTV_CVPR16.pdf)
 - github: [https://github.com/wanglimin/actionness-estimation/](https://github.com/wanglimin/actionness-estimation/)
@@ -203,14 +195,10 @@ extract saptio-temporal features to represent the video using the CNNs."
 
 - arxiv: [http://arxiv.org/abs/1607.06416](http://arxiv.org/abs/1607.06416)
 
-### DeepCAMP
-
 **DeepCAMP: Deep Convolutional Action & Attribute Mid-Level Patterns**
 
 - intro: CVPR 2016
 - arxiv: [http://arxiv.org/abs/1608.03217](http://arxiv.org/abs/1608.03217)
-
-### Depth2Action
 
 **Depth2Action: Exploring Embedded Depth for Large-Scale Action Recognition**
 
@@ -288,6 +276,12 @@ extract saptio-temporal features to represent the video using the CNNs."
 - paper: [http://vision.stanford.edu/pdf/johnson2016cvpr.pdf](http://vision.stanford.edu/pdf/johnson2016cvpr.pdf)
 - blog: [http://www.leiphone.com/news/201606/l1TKIRFLO3DUFNNu.html](http://www.leiphone.com/news/201606/l1TKIRFLO3DUFNNu.html)
 
+# Abnormality / Anomaly Detection
+
+**Fully Convolutional Neural Network for Fast Anomaly Detection in Crowded Scenes**
+
+- arxiv: [http://arxiv.org/abs/1609.00866](http://arxiv.org/abs/1609.00866)
+
 # Video Prediction
 
 **Deep multi-scale video prediction beyond mean square error**
@@ -356,9 +350,14 @@ alleviates the problem of video browsing, editing and indexing.
 
 - arxiv: [http://arxiv.org/abs/1609.01819](http://arxiv.org/abs/1609.01819)
 
+**Video Summarization using Deep Semantic Features**
+
+- inro: ACCV 2016
+- arxiv: [http://arxiv.org/abs/1609.08758](http://arxiv.org/abs/1609.08758)
+
 # Video Highlight Detection
 
-**Unsupervised Extraction of Video Highlights Via Robust Recurrent Auto-encoders (ICCV 2015)**
+**Unsupervised Extraction of Video Highlights Via Robust Recurrent Auto-encoders**
 
 - intro: ICCV 2015
 - intro: rely on an assumption that highlights of an event category are more frequently captured in short videos than non-highlights
@@ -388,7 +387,7 @@ alleviates the problem of video browsing, editing and indexing.
 - paper: [http://www.ee.cuhk.edu.hk/~jshao/papers_jshao/jshao_cvpr16_scnn.pdf](http://www.ee.cuhk.edu.hk/~jshao/papers_jshao/jshao_cvpr16_scnn.pdf)
 - github: [https://github.com/amandajshao/Slicing-CNN](https://github.com/amandajshao/Slicing-CNN)
 
-# Datasets
+# Datasets / Benchmarks
 
 | Dataset          | # Videos     | # Classes   | Year     | Manually Labeled ? |
 |:----------------:|:----------- :|:-----------:|:--------:|:------------------:|
@@ -436,6 +435,10 @@ alleviates the problem of video browsing, editing and indexing.
 **FCVID: Fudan-Columbia Video Dataset**
 
 - homepage: [http://bigvid.fudan.edu.cn/FCVID/](http://bigvid.fudan.edu.cn/FCVID/)
+
+**YouTube-8M: A Large-Scale Video Classification Benchmark**
+
+- arxiv: [http://arxiv.org/abs/1609.08675](http://arxiv.org/abs/1609.08675)
 
 # Challenges
 

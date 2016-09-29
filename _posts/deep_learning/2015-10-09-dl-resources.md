@@ -501,6 +501,10 @@ Restricted Boltzmann Machine (RBM), Sparse Coding and Auto-encoder
 - intro: EMNLP 2016
 - arxiv: [http://arxiv.org/abs/1609.07222](http://arxiv.org/abs/1609.07222)
 
+**Learning to Push by Grasping: Using multiple tasks for effective learning**
+
+- arxiv: [http://arxiv.org/abs/1609.09025](http://arxiv.org/abs/1609.09025)
+
 # Multi-modal Learning
 
 **Multimodal Deep Learning**
@@ -817,6 +821,11 @@ with fast exact probabilistic inference over many layers."
 - arxiv: [http://arxiv.org/abs/1609.07152](http://arxiv.org/abs/1609.07152)
 - github: [https://github.com/locuslab/icnn](https://github.com/locuslab/icnn)
 
+**Graph Based Convolutional Neural Network**
+
+- intro: BMVC 2016
+- arxiv: [http://arxiv.org/abs/1609.08965](http://arxiv.org/abs/1609.08965)
+
 ## Highway Networks
 
 **Highway Networks**
@@ -929,6 +938,12 @@ with fast exact probabilistic inference over many layers."
 - intro: ECCV 2016
 - arxiv: [http://arxiv.org/abs/1609.02036](http://arxiv.org/abs/1609.02036)
 - github: [https://github.com/zhirongw/deep-mrf](https://github.com/zhirongw/deep-mrf)
+
+## Random Forest
+
+**Towards the effectiveness of Deep Convolutional Neural Network based Fast Random Forest Classifier**
+
+- arxiv: [http://arxiv.org/abs/1609.08864](http://arxiv.org/abs/1609.08864)
 
 # Deep Learning and Robots
 

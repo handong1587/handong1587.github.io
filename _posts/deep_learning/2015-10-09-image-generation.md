@@ -71,11 +71,9 @@ date: 2015-10-09
 - slides: [http://slideplayer.com/slide/9147672/](http://slideplayer.com/slide/9147672/)
 - mirror: [http://pan.baidu.com/s/1pKgrdnt](http://pan.baidu.com/s/1pKgrdnt)
 
-## PixelRNN
-
 **Pixel Recurrent Neural Networks**
 
-- intro: Google DeepMind. ICML 2016 best paper
+- intro: Google DeepMind. ICML 2016 best paper. PixelRNN
 - arxiv: [http://arxiv.org/abs/1601.06759](http://arxiv.org/abs/1601.06759)
 - github: [https://github.com/igul222/pixel_rnn](https://github.com/igul222/pixel_rnn)
 - notes(by Hugo Larochelle): [https://www.evernote.com/shard/s189/sh/fdf61a28-f4b6-491b-bef1-f3e148185b18/aba21367d1b3730d9334ed91d3250848](https://www.evernote.com/shard/s189/sh/fdf61a28-f4b6-491b-bef1-f3e148185b18/aba21367d1b3730d9334ed91d3250848)
@@ -95,8 +93,6 @@ date: 2015-10-09
 - project page: [https://www.mpi-inf.mpg.de/departments/computer-vision-and-multimodal-computing/research/embeddings-for-image-classification/generative-adversarial-text-to-image-synthesis/](https://www.mpi-inf.mpg.de/departments/computer-vision-and-multimodal-computing/research/embeddings-for-image-classification/generative-adversarial-text-to-image-synthesis/)
 - github: [https://github.com/reedscot/icml2016](https://github.com/reedscot/icml2016)
 - code+dataset: [http://datasets.d2.mpi-inf.mpg.de/akata/cub_txt.tar.gz](http://datasets.d2.mpi-inf.mpg.de/akata/cub_txt.tar.gz)
-
-## PixelCNN
 
 **Conditional Image Generation with PixelCNN Decoders**
 

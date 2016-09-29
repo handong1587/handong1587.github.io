@@ -7,8 +7,6 @@ date: 2015-10-09
 
 # Papers
 
-## Im2Text
-
 **Im2Text: Describing Images Using 1 Million Captioned Photographs**
 
 ![](http://vision.cs.stonybrook.edu/~vicente/sbucaptions/im2text_files/im2text.png)
@@ -16,21 +14,20 @@ date: 2015-10-09
 - paper: [http://tamaraberg.com/papers/generation_nips2011.pdf](http://tamaraberg.com/papers/generation_nips2011.pdf)
 - project: [http://vision.cs.stonybrook.edu/~vicente/sbucaptions/](http://vision.cs.stonybrook.edu/~vicente/sbucaptions/)
 
-## LRCN
-
-**Long-term Recurrent Convolutional Networks for Visual Recognition and Description (LRCN)**
+**Long-term Recurrent Convolutional Networks for Visual Recognition and Description**
 
 ![](http://jeffdonahue.com/lrcn/images/lrcn_tasks.png)
 
-- intro: Oral presentation at CVPR 2015
+- intro: Oral presentation at CVPR 2015. LRCN
 - project page: [http://jeffdonahue.com/lrcn/](http://jeffdonahue.com/lrcn/)
 - arxiv: [http://arxiv.org/abs/1411.4389](http://arxiv.org/abs/1411.4389)
 - github: [https://github.com/BVLC/caffe/pull/2033](https://github.com/BVLC/caffe/pull/2033)
 
 ## Show and Tell
 
-**Show and Tell: A Neural Image Caption Generator (Google)**
+**Show and Tell: A Neural Image Caption Generator**
 
+- intro: Google
 - arxiv: [http://arxiv.org/abs/1411.4555](http://arxiv.org/abs/1411.4555)
 - github: [https://github.com/karpathy/neuraltalk](https://github.com/karpathy/neuraltalk)
 - GitXiv: [http://gitxiv.com/posts/7nofxjoYBXga5XjtL/show-and-tell-a-neural-image-caption-nic-generator](http://gitxiv.com/posts/7nofxjoYBXga5XjtL/show-and-tell-a-neural-image-caption-nic-generator)
@@ -52,8 +49,9 @@ date: 2015-10-09
 
 - arxiv: [http://arxiv.org/abs/1411.5654](http://arxiv.org/abs/1411.5654)
 
-**Mind’s Eye: A Recurrent Visual Representation for Image Caption Generation (CVPR 2015)**
+**Mind’s Eye: A Recurrent Visual Representation for Image Caption Generation**
 
+- intro: CVPR 2015
 - paper: [http://www.cs.cmu.edu/~xinleic/papers/cvpr15_rnn.pdf](http://www.cs.cmu.edu/~xinleic/papers/cvpr15_rnn.pdf)
 
 **Deep Visual-Semantic Alignments for Generating Image Descriptions**
@@ -69,10 +67,9 @@ to localize different segments of the sentence to their corresponding image regi
 - github: [https://github.com/karpathy/neuraltalk](https://github.com/karpathy/neuraltalk)
 - demo: [http://cs.stanford.edu/people/karpathy/deepimagesent/rankingdemo/](http://cs.stanford.edu/people/karpathy/deepimagesent/rankingdemo/)
 
-## m-RNN
+**Deep Captioning with Multimodal Recurrent Neural Networks**
 
-**Deep Captioning with Multimodal Recurrent Neural Networks (m-RNN. ICLR 2015)**
-
+- intro: m-RNN. ICLR 2015
 - intro: "combines the functionalities of the CNN and RNN by introducing a new multimodal layer, 
 after the embedding and recurrent layers of the RNN."
 - homepage: [http://www.stat.ucla.edu/~junhua.mao/m-RNN.html](http://www.stat.ucla.edu/~junhua.mao/m-RNN.html)
@@ -129,20 +126,17 @@ after the embedding and recurrent layers of the RNN."
 - arxiv: [http://arxiv.org/abs/1511.06361](http://arxiv.org/abs/1511.06361)
 - github: [https://github.com/ivendrov/order-embedding](https://github.com/ivendrov/order-embedding)
 
-## DenseCap
-
 **DenseCap: Fully Convolutional Localization Networks for Dense Captioning**
 
 - project page: [http://cs.stanford.edu/people/karpathy/densecap/](http://cs.stanford.edu/people/karpathy/densecap/)
 - arxiv: [http://arxiv.org/abs/1511.07571](http://arxiv.org/abs/1511.07571)
 - github(Torch): [https://github.com/jcjohnson/densecap](https://github.com/jcjohnson/densecap)
 
-## CRCN
-
-**Expressing an Image Stream with a Sequence of Natural Sentences (CRCN. NIPS 2015)**
+**Expressing an Image Stream with a Sequence of Natural Sentences**
 
 ![](/assets/image_captioning/stream2text_nips.jpg)
 
+- intro: NIPS 2015. CRCN
 - nips-page: [http://papers.nips.cc/paper/5776-expressing-an-image-stream-with-a-sequence-of-natural-sentences](http://papers.nips.cc/paper/5776-expressing-an-image-stream-with-a-sequence-of-natural-sentences)
 - paper: [http://papers.nips.cc/paper/5776-expressing-an-image-stream-with-a-sequence-of-natural-sentences.pdf](http://papers.nips.cc/paper/5776-expressing-an-image-stream-with-a-sequence-of-natural-sentences.pdf)
 - paper: [http://www.cs.cmu.edu/~gunhee/publish/nips15_stream2text.pdf](http://www.cs.cmu.edu/~gunhee/publish/nips15_stream2text.pdf)
@@ -208,13 +202,11 @@ after the embedding and recurrent layers of the RNN."
 
 - github: [https://github.com/tsenghungchen/SA-tensorflow](https://github.com/tsenghungchen/SA-tensorflow)
 
-## S2VT
-
-**Sequence to Sequence -- Video to Text (S2VT)**
+**Sequence to Sequence -- Video to Text**
 
 ![](http://www.cs.utexas.edu/~vsub/imgs/S2VTarchitecture.png)
 
-- intro: ICCV 2015
+- intro: ICCV 2015. S2VT
 - project page: [http://vsubhashini.github.io/s2vt.html](http://vsubhashini.github.io/s2vt.html)
 - arxiv: [http://arxiv.org/abs/1505.00487](http://arxiv.org/abs/1505.00487)
 - slides: [https://www.cs.utexas.edu/~vsub/pdf/S2VT_slides.pdf](https://www.cs.utexas.edu/~vsub/pdf/S2VT_slides.pdf)
@@ -240,8 +232,6 @@ after the embedding and recurrent layers of the RNN."
 **Frame- and Segment-Level Features and Candidate Pool Evaluation for Video Caption Generation**
 
 - arxiv: [http://arxiv.org/abs/1608.04959](http://arxiv.org/abs/1608.04959)
-
-## phi-LSTM
 
 **phi-LSTM: A Phrase-based Hierarchical LSTM Model for Image Captioning**
 
