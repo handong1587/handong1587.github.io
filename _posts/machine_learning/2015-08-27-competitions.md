@@ -107,3 +107,7 @@ date: 2015-08-27
 
 - slides: [http://www.slideshare.net/HJvanVeen/kaggle-presentation](http://www.slideshare.net/HJvanVeen/kaggle-presentation)
 - mirror: [https://pan.baidu.com/s/1bpgee55](https://pan.baidu.com/s/1bpgee55)
+
+**How should a beginner get started on Kaggle?**
+
+- quora: [https://www.quora.com/How-should-a-beginner-get-started-on-Kaggle](https://www.quora.com/How-should-a-beginner-get-started-on-Kaggle)

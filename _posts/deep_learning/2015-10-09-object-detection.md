@@ -713,12 +713,6 @@ This task involves predicting the salient regions of an image given by human eye
 - intro: ECCV 2016
 - arxiv: [http://arxiv.org/abs/1608.02755](http://arxiv.org/abs/1608.02755)
 
-## Abnormality / Anomaly Detection
-
-**Toward a Taxonomy and Computational Models of Abnormalities in Images**
-
-- arxiv: [http://arxiv.org/abs/1512.01325](http://arxiv.org/abs/1512.01325)
-
 ## Skeleton Detection
 
 **Object Skeleton Extraction in Natural Images by Fusing Scale-associated Deep Side Outputs**
@@ -871,7 +865,3 @@ We additionally provide an implementation of the [ReInspect](https://github.com/
 
 - keywords: DeepMask, SharpMask, MultiPathNet
 - blog: [https://adeshpande3.github.io/adeshpande3.github.io/Analyzing-the-Papers-Behind-Facebook's-Computer-Vision-Approach/](https://adeshpande3.github.io/adeshpande3.github.io/Analyzing-the-Papers-Behind-Facebook's-Computer-Vision-Approach/)
-
-**Tutorials: Plotting AP and ROC curves**
-
-[http://www.vlfeat.org/overview/plots-rank.html](http://www.vlfeat.org/overview/plots-rank.html)

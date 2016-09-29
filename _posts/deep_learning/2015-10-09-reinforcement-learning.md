@@ -122,6 +122,7 @@ date: 2015-10-09
 - intro: Google DeepMind
 - arxiv: [http://arxiv.org/abs/1509.02971](http://arxiv.org/abs/1509.02971)
 - github: [https://github.com/iassael/torch-policy-gradient](https://github.com/iassael/torch-policy-gradient)
+- github: [https://github.com/stevenpjg/ddpg-aigym](https://github.com/stevenpjg/ddpg-aigym)
 
 **Benchmarking for Bayesian Reinforcement Learning**
 

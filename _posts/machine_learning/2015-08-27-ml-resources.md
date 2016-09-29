@@ -753,6 +753,18 @@ including all the relevant classifiers available today
 
 - blog: [http://activisiongamescience.github.io/2016/08/19/Assessing-Stability-of-K-Means-Clusterings/](http://activisiongamescience.github.io/2016/08/19/Assessing-Stability-of-K-Means-Clusterings/)
 
+## ROC Curve
+
+**Tutorials: Plotting AP and ROC curves**
+
+[http://www.vlfeat.org/overview/plots-rank.html](http://www.vlfeat.org/overview/plots-rank.html)
+
+**Beautiful Properties Of The Roc Curve**
+
+![](https://www.unc.edu/courses/2006spring/ecol/145/001/images/lectures/lecture37/fig4.png)
+
+[http://jxieeducation.com/2016-09-27/Beautiful-Properties-Of-The-ROC-Curve/](http://jxieeducation.com/2016-09-27/Beautiful-Properties-Of-The-ROC-Curve/)
+
 # Machine Learning Library
 
 **LambdaNet: Purely functional artificial neural network library implemented in Haskell**

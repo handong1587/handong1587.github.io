@@ -311,6 +311,11 @@ date: 2015-10-09
 - blog: [https://medium.com/@chrishawkins/recognising-beer-with-tensorflow-9dedfee3c3c0#.pn5gm3fgc](https://medium.com/@chrishawkins/recognising-beer-with-tensorflow-9dedfee3c3c0#.pn5gm3fgc)
 - gist: [https://gist.github.com/chrishawkins/177e37756c833768a21d446cc4921c6e](https://gist.github.com/chrishawkins/177e37756c833768a21d446cc4921c6e)
 
+**Deep learning architecture diagrams**
+
+- intro: LSTM diagrams
+- blog: [http://fastml.com/deep-learning-architecture-diagrams/](http://fastml.com/deep-learning-architecture-diagrams/)
+
 # Convolution
 
 ![](/assets/cnn-materials/conv.jpg)

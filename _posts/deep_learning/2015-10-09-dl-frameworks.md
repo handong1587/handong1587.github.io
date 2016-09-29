@@ -570,6 +570,10 @@ Implementations and ideas are largely based on papers from arxiv and implementat
 
 - blog: [https://hackerlists.com/tensorflow-resources/](https://hackerlists.com/tensorflow-resources/)
 
+**Install TensorFlow: Slides and code from our TensorFlow Workshop**
+
+- github: [https://github.com/random-forests/tensorflow-workshop](https://github.com/random-forests/tensorflow-workshop)
+
 # Theano
 
 **Theano**

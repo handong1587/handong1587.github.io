@@ -116,6 +116,8 @@ date: 2015-10-09
 - day 1: [https://www.youtube.com/watch?v=9dXiAecyJrY](https://www.youtube.com/watch?v=9dXiAecyJrY)
 - day 2: [https://www.youtube.com/watch?v=eyovmAtoUx0](https://www.youtube.com/watch?v=eyovmAtoUx0)
 - github: [https://github.com/lamblin/bayareadlschool](https://github.com/lamblin/bayareadlschool)
+- reddit: [https://amp.reddit.com/r/MachineLearning/comments/54shmi/great_new_introductory_talks_on_various_subfields/](https://amp.reddit.com/r/MachineLearning/comments/54shmi/great_new_introductory_talks_on_various_subfields/)
+- mirror: [https://pan.baidu.com/s/1gfBe2fL](https://pan.baidu.com/s/1gfBe2fL)
 
 **CSC 2541 Fall 2016: Differentiable Inference and Generative Models**
 

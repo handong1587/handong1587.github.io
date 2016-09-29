@@ -392,6 +392,7 @@ Restricted Boltzmann Machine (RBM), Sparse Coding and Auto-encoder
 
 ![](http://www.eecs.berkeley.edu/~jhoffman/figs/Tzeng_ICCV2015.png)
 
+- intro: ICCV2015
 - arxiv: [http://arxiv.org/abs/1510.02192](http://arxiv.org/abs/1510.02192)
 
 **Net2Net: Accelerating Learning via Knowledge Transfer**
@@ -1011,6 +1012,7 @@ with fast exact probabilistic inference over many layers."
 - github(Chainer): [https://github.com/monthly-hack/chainer-wavenet](https://github.com/monthly-hack/chainer-wavenet)
 - github(Theano): [https://github.com/huyouare/WaveNet-Theano](https://github.com/huyouare/WaveNet-Theano)
 - github(Keras): [https://github.com/basveeling/wavenet](https://github.com/basveeling/wavenet)
+- github: [https://github.com/ritheshkumar95/WaveNet](https://github.com/ritheshkumar95/WaveNet)
 
 **Fast Wavenet: An efficient Wavenet generation implementation**
 
@@ -1148,6 +1150,12 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 **Deep Impression: Audiovisual Deep Residual Networks for Multimodal Apparent Personality Trait Recognition**
 
 - arxiv: [http://arxiv.org/abs/1609.05119](http://arxiv.org/abs/1609.05119)
+
+**Deep Relative Attributes**
+
+- intro: ACCV 2016
+- arxiv: [http://arxiv.org/abs/1512.04103](http://arxiv.org/abs/1512.04103)
+- github: [https://github.com/yassersouri/ghiaseddin](https://github.com/yassersouri/ghiaseddin)
 
 ## Age Estimation
 
@@ -1589,6 +1597,12 @@ Bicubic VS. Shepard CNN
 **Full Resolution Image Compression with Recurrent Neural Networks**
 
 - arxiv: [http://arxiv.org/abs/1608.05148](http://arxiv.org/abs/1608.05148)
+
+## Abnormality / Anomaly Detection
+
+**Toward a Taxonomy and Computational Models of Abnormalities in Images**
+
+- arxiv: [http://arxiv.org/abs/1512.01325](http://arxiv.org/abs/1512.01325)
 
 ## Depth Prediction
 
