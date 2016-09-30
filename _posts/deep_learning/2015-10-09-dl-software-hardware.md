@@ -182,6 +182,10 @@ Contains all the popular DL frameworks (TensorFlow, Theano, Torch, Caffe, etc.)
 
 - youtube: [https://www.youtube.com/watch?v=3iCifD8gZ0Q](https://www.youtube.com/watch?v=3iCifD8gZ0Q)
 
+**Comprehensive Evaluation of OpenCL-based Convolutional Neural Network Accelerators in Xilinx and Altera FPGAs**
+
+- arxiv: [https://arxiv.org/abs/1609.09296](https://arxiv.org/abs/1609.09296)
+
 # ARM / Processor
 
 **'Neural network' spotted deep inside Samsung's Galaxy S7 silicon brain: Secrets of Exynos M1 cores spilled**

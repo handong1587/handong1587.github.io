@@ -273,6 +273,11 @@ fine-tune the trained network with more challenging examples later
 
 - arxiv: [http://arxiv.org/abs/1609.07916](http://arxiv.org/abs/1609.07916)
 
+**CNN-aware Binary Map for General Semantic Segmentation**
+
+- intro: ICIP 2016 Best Paper / Student Paper Finalist
+- arxiv: [https://arxiv.org/abs/1609.09220](https://arxiv.org/abs/1609.09220)
+
 # Instance Segmentation
 
 **Simultaneous Detection and Segmentation**
