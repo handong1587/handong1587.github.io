@@ -58,6 +58,7 @@ uncompress: sEx x FileName.*
 | Print disk free space        | df -h                 |
 |                              | df -hl                |
 | Print current folder size    | du -sh DIRNAME        |
+| Print target folder volume   | du -sh                |
 | Print target folder volume (in MB) | du -sm          |
 | Prints one entry per line of output (bare format) | ls -1a |
 
