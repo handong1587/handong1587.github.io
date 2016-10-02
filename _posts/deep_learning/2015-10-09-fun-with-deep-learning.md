@@ -506,6 +506,10 @@ Compressed model is less than 500KB
 
 - github: [https://github.com/dyelax/encore.ai](https://github.com/dyelax/encore.ai)
 
+**sound-GAN: Generative Adversial Network for music composition**
+
+- github: [https://github.com/jacotar/sound-GAN](https://github.com/jacotar/sound-GAN)
+
 # Poetry
 
 **NeuralSnap: Generates poetry from images using convolutional and recurrent neural networks**
@@ -640,9 +644,9 @@ Compressed model is less than 500KB
 
 ![](http://www.kdnuggets.com/wp-content/uploads/mona-lisa.jpg)
 
-- videos/lectures/course notes: [[http://ml4a.github.io/classes/itp-S16/]]([http://ml4a.github.io/classes/itp-S16/])
+- videos/lectures/course notes: [http://ml4a.github.io/classes/itp-S16/]([http://ml4a.github.io/classes/itp-S16/])
 - index: [http://ml4a.github.io/index/](http://ml4a.github.io/index/)
-- github: [https://github.com/ml4a/ml4a.github.io/tree/master/_posts](https://github.com/ml4a/ml4a.github.io/tree/master/_posts)
+- github: [https://github.com/ml4a/ml4a.github.io](https://github.com/ml4a/ml4a.github.io)
 - notes: [http://www.kdnuggets.com/2016/04/machine-learning-artists-video-lectures-notes.html](http://www.kdnuggets.com/2016/04/machine-learning-artists-video-lectures-notes.html)
 - blog: [https://medium.com/@genekogan/machine-learning-for-artists-e93d20fdb097#.25w95beqb](https://medium.com/@genekogan/machine-learning-for-artists-e93d20fdb097#.25w95beqb)
 

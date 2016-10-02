@@ -77,6 +77,10 @@ date: 2015-10-09
 - github: [https://github.com/llSourcell/Generative-Adversarial-Network-Demo](https://github.com/llSourcell/Generative-Adversarial-Network-Demo)
 - demo: [http://cs.stanford.edu/people/karpathy/gan/](http://cs.stanford.edu/people/karpathy/gan/)
 
+**TextGAN: A generative adversarial network for text generation, written in TensorFlow.**
+
+- github: [https://github.com/AustinStoneProjects/TextGAN](https://github.com/AustinStoneProjects/TextGAN)
+
 # Blogs
 
 **Generative Adversial Networks Explained**
@@ -105,3 +109,9 @@ date: 2015-10-09
 
 - blog: [https://medium.com/@awjuliani/generative-adversarial-networks-explained-with-a-classic-spongebob-squarepants-episode-54deab2fce39#.rpiunhdjh](https://medium.com/@awjuliani/generative-adversarial-networks-explained-with-a-classic-spongebob-squarepants-episode-54deab2fce39#.rpiunhdjh)
 - gist: [https://gist.github.com/awjuliani/8ebf356d03ffee139659807be7fa2611](https://gist.github.com/awjuliani/8ebf356d03ffee139659807be7fa2611)
+
+**Deep Learning Research Review Week 1: Generative Adversarial Nets**
+
+![](https://adeshpande3.github.io/assets/Cover5th.png)
+
+- blog: [https://adeshpande3.github.io/adeshpande3.github.io/Deep-Learning-Research-Review-Week-1-Generative-Adversarial-Nets](https://adeshpande3.github.io/adeshpande3.github.io/Deep-Learning-Research-Review-Week-1-Generative-Adversarial-Nets)

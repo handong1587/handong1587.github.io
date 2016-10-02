@@ -470,6 +470,12 @@ control a spaceship in order to complete some objective.
 
 - github: [https://github.com/dnlcrl/PyGraphArt](https://github.com/dnlcrl/PyGraphArt)
 
+**WaveFunctionCollapse: Bitmap & tilemap generation from a single example with the help of ideas from quantum mechanics.**
+
+![](https://camo.githubusercontent.com/3ea3b800ee9de783abea49612a40beeda97879de/687474703a2f2f692e696d6775722e636f6d2f67317947764c372e706e67)
+
+- github: [https://github.com/mxgmn/WaveFunctionCollapse](https://github.com/mxgmn/WaveFunctionCollapse)
+
 ## Utilities
 
 **Python Gems: A collection of python scripts that solve interesting problems**
@@ -531,8 +537,9 @@ control a spaceship in order to complete some objective.
 
 ## Algorithm
 
-**Lean: a new open source theorem prover(Microsoft Research)**
+**Lean: a new open source theorem prover**
 
+- intro: Microsoft Research
 - website: [http://leanprover.github.io/](http://leanprover.github.io/)
 
 ## Technology

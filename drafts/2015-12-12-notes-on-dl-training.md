@@ -5,7 +5,7 @@ title: Notes On Deep Learning Training
 date: 2015-12-12
 ---
 
-These notes come from a deep learning dicussion group.
+These notes come from a deep learning discussion group.
 
 # Convolution VS. Correlation
 
@@ -16,10 +16,10 @@ actually it is *Correlational* Nerual Network for most famous deep learning fram
 Bengio in his book *Deep Learning* has pointed out this:
 
 many neural network libraries implement arelated function called the cross-correlation, 
-which is the same as convolution butwithout ﬂipping the kernel:
+which is the same as convolution but without ﬂipping the kernel:
 
 (From [http://www.deeplearningbook.org/contents/convnets.html](http://www.deeplearningbook.org/contents/convnets.html),
-Draft Version 2016-03-11, page 337.)
+Chapter 9. Convolutional Networks)
 
 # About activation function
 

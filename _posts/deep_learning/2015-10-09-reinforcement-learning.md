@@ -601,6 +601,12 @@ and together they truly represent a state-of-the-art of current reinforcement le
 - book: [https://webdocs.cs.ualberta.ca/~sutton/book/bookdraft2016sep.pdf](https://webdocs.cs.ualberta.ca/~sutton/book/bookdraft2016sep.pdf)
 - mirror: [https://pan.baidu.com/s/1slrMYkP](https://pan.baidu.com/s/1slrMYkP)
 
+**The Self Learning Quant**
+
+- intro: explain and show the concept of self reinforcement learning combined with a neural network
+- blog: [https://medium.com/@danielzakrisson/the-self-learning-quant-d3329fcc9915#.9lsa5rh3e](https://medium.com/@danielzakrisson/the-self-learning-quant-d3329fcc9915#.9lsa5rh3e)
+- gihtub: [https://github.com/danielzak/sl-quant](https://github.com/danielzak/sl-quant)
+
 # Resources
 
 **Deep Reinforcement Learning Papers**

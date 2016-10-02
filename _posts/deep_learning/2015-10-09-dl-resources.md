@@ -296,13 +296,14 @@ testing it on the MNIST handwritten digits data.
 
 **Variational Autoencoder for Deep Learning of Images, Labels and Captions**
 
-- intro: NIPS 2016. Duke University
+- intro: NIPS 2016. Duke University & Nokia Bell Labs
 - paper: [http://people.ee.duke.edu/~lcarin/Yunchen_nips_2016.pdf](http://people.ee.duke.edu/~lcarin/Yunchen_nips_2016.pdf)
 
 # Semi-Supervised Learning
 
-**Semi-Supervised Learning with Graphs (Label Propagation)**
+**Semi-Supervised Learning with Graphs**
 
+- intro: Label Propagation
 - paper: [http://pages.cs.wisc.edu/~jerryzhu/pub/thesis.pdf](http://pages.cs.wisc.edu/~jerryzhu/pub/thesis.pdf)
 - blog("标签传播算法（Label Propagation）及Python实现"): [http://blog.csdn.net/zouxy09/article/details/49105265](http://blog.csdn.net/zouxy09/article/details/49105265)
 
@@ -314,14 +315,6 @@ testing it on the MNIST handwritten digits data.
 **Semi-supervised Feature Transfer: The Practical Benefit of Deep Learning Today?**
 
 - blog: [http://www.kdnuggets.com/2016/07/semi-supervised-feature-transfer-deep-learning.html](http://www.kdnuggets.com/2016/07/semi-supervised-feature-transfer-deep-learning.html)
-
-**Semi-Supervised Classification with Graph Convolutional Networks**
-
-- arxiv: [http://arxiv.org/abs/1609.02907](http://arxiv.org/abs/1609.02907)
-
-**How powerful are Graph Convolutions? (review of Kipf & Welling, 2016)**
-
-[http://www.inference.vc/how-powerful-are-graph-convolutions-review-of-kipf-welling-2016-2/](http://www.inference.vc/how-powerful-are-graph-convolutions-review-of-kipf-welling-2016-2/)
 
 # Unsupervised Learning
 
@@ -358,6 +351,11 @@ Restricted Boltzmann Machine (RBM), Sparse Coding and Auto-encoder
 **Regularization for Unsupervised Deep Neural Nets**
 
 - arxiv: [http://arxiv.org/abs/1608.04426](http://arxiv.org/abs/1608.04426)
+
+**Sparse coding: A simple exploration**
+
+- blog: [https://blog.metaflow.fr/sparse-coding-a-simple-exploration-152a3c900a7c#.o7g2jk9zi](https://blog.metaflow.fr/sparse-coding-a-simple-exploration-152a3c900a7c#.o7g2jk9zi)
+- github: [https://github.com/metaflow-ai/blog/tree/master/sparse-coding](https://github.com/metaflow-ai/blog/tree/master/sparse-coding)
 
 ## Clustering
 
@@ -822,10 +820,14 @@ with fast exact probabilistic inference over many layers."
 - arxiv: [http://arxiv.org/abs/1609.07152](http://arxiv.org/abs/1609.07152)
 - github: [https://github.com/locuslab/icnn](https://github.com/locuslab/icnn)
 
-**Graph Based Convolutional Neural Network**
+**HyperNetworks**
 
-- intro: BMVC 2016
-- arxiv: [http://arxiv.org/abs/1609.08965](http://arxiv.org/abs/1609.08965)
+- arxiv: [https://arxiv.org/abs/1609.09106](https://arxiv.org/abs/1609.09106)
+- blog: [http://blog.otoro.net/2016/09/28/hyper-networks/](http://blog.otoro.net/2016/09/28/hyper-networks/)
+
+**<HyperLSTM></HyperLSTM>**
+
+- github: [https://github.com/hardmaru/supercell/blob/master/supercell.py](https://github.com/hardmaru/supercell/blob/master/supercell.py)
 
 ## Highway Networks
 
@@ -885,6 +887,27 @@ with fast exact probabilistic inference over many layers."
 - github: [https://github.com/gustavla/fractalnet](https://github.com/gustavla/fractalnet)
 - github: [https://github.com/edgelord/FractalNet](https://github.com/edgelord/FractalNet)
 - github(keras): [https://github.com/snf/keras-fractalnet](https://github.com/snf/keras-fractalnet)
+
+## Graph Convolutional Networks
+
+**Semi-Supervised Classification with Graph Convolutional Networks**
+
+- arxiv: [http://arxiv.org/abs/1609.02907](http://arxiv.org/abs/1609.02907)
+
+**Graph Based Convolutional Neural Network**
+
+- intro: BMVC 2016
+- arxiv: [http://arxiv.org/abs/1609.08965](http://arxiv.org/abs/1609.08965)
+
+**How powerful are Graph Convolutions? (review of Kipf & Welling, 2016)**
+
+[http://www.inference.vc/how-powerful-are-graph-convolutions-review-of-kipf-welling-2016-2/](http://www.inference.vc/how-powerful-are-graph-convolutions-review-of-kipf-welling-2016-2/)
+
+**Graph Convolutional Networks**
+
+![](http://tkipf.github.io/graph-convolutional-networks/images/gcn_web.png)
+
+- blog: [http://tkipf.github.io/graph-convolutional-networks/](http://tkipf.github.io/graph-convolutional-networks/)
 
 # Deep Learning with Traditional Machine Learning Methods
 
@@ -1399,6 +1422,12 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 - blog: [https://keunwoochoi.wordpress.com/2016/09/15/paper-is-out-convolutional-recurrent-neural-networks-for-music-classification/](https://keunwoochoi.wordpress.com/2016/09/15/paper-is-out-convolutional-recurrent-neural-networks-for-music-classification/)
 - github: [https://github.com/keunwoochoi/music-auto_tagging-keras](https://github.com/keunwoochoi/music-auto_tagging-keras)
 
+**CNN Architectures for Large-Scale Audio Classification**
+
+- intro: Google
+- arxiv: [https://arxiv.org/abs/1609.09430](https://arxiv.org/abs/1609.09430)
+- demo: [https://www.youtube.com/watch?v=oAAo_r7ZT8U&feature=youtu.be](https://www.youtube.com/watch?v=oAAo_r7ZT8U&feature=youtu.be)
+
 ## NSFW Detection / Classification
 
 **Nipple Detection using Convolutional Neural Network**
@@ -1416,6 +1445,12 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 **WHAT CONVOLUTIONAL NEURAL NETWORKS LOOK AT WHEN THEY SEE NUDITY**
 
 - blog: [http://blog.clarifai.com/what-convolutional-neural-networks-see-at-when-they-see-nudity#.VzVh_-yECZY](http://blog.clarifai.com/what-convolutional-neural-networks-see-at-when-they-see-nudity#.VzVh_-yECZY)
+
+**Open Sourcing a Deep Learning Solution for Detecting NSFW Images**
+
+- intro: Yahoo
+- blog: [https://yahooeng.tumblr.com/post/151148689421/open-sourcing-a-deep-learning-solution-for](https://yahooeng.tumblr.com/post/151148689421/open-sourcing-a-deep-learning-solution-for)
+- github: [https://github.com/yahoo/open_nsfw](https://github.com/yahoo/open_nsfw)
 
 ## Image Reconstruction / Inpainting
 
@@ -1525,6 +1560,7 @@ Bicubic VS. Shepard CNN
 
 - intro: CVPR 2016
 - arxiv: [http://arxiv.org/abs/1609.05158](http://arxiv.org/abs/1609.05158)
+- github: [https://github.com/Tetrachrome/subpixel](https://github.com/Tetrachrome/subpixel)
 
 **Is the deconvolution layer the same as a convolutional layer?**
 
@@ -1597,6 +1633,11 @@ Bicubic VS. Shepard CNN
 **Full Resolution Image Compression with Recurrent Neural Networks**
 
 - arxiv: [http://arxiv.org/abs/1608.05148](http://arxiv.org/abs/1608.05148)
+- github: [https://github.com/tensorflow/models/tree/master/compression](https://github.com/tensorflow/models/tree/master/compression)
+
+**Image Compression with Neural Networks**
+
+- blog: [https://research.googleblog.com/2016/09/image-compression-with-neural-networks.html](https://research.googleblog.com/2016/09/image-compression-with-neural-networks.html)
 
 ## Abnormality / Anomaly Detection
 
@@ -1731,6 +1772,10 @@ Bicubic VS. Shepard CNN
 
 - arxiv: [https://arxiv.org/abs/1606.00298](https://arxiv.org/abs/1606.00298)
 - github: [https://github.com/keunwoochoi/music-auto_tagging-keras](https://github.com/keunwoochoi/music-auto_tagging-keras)
+
+**Music tagging and feature extraction with MusicTaggerCRNN**
+
+[https://keras.io/applications/#music-tagging-and-feature-extraction-with-musictaggercrnn](https://keras.io/applications/#music-tagging-and-feature-extraction-with-musictaggercrnn)
 
 # Benchmarks
 
@@ -2299,6 +2344,7 @@ Compatible with Theano and TensorFlow. Optimized for Twitter.
 - author: Ian Goodfellow, Aaron Courville and Yoshua Bengio
 - homepage: [http://www.deeplearningbook.org/](http://www.deeplearningbook.org/)
 - website: [http://goodfeli.github.io/dlbook/](http://goodfeli.github.io/dlbook/)
+- github: [https://github.com/HFTrader/DeepLearningBook](https://github.com/HFTrader/DeepLearningBook)
 - notes("Deep Learning for Beginners"): [http://randomekek.github.io/deep/deeplearning.html](http://randomekek.github.io/deep/deeplearning.html)
 
 **Fundamentals of Deep Learning: Designing Next-Generation Artificial Intelligence Algorithms**

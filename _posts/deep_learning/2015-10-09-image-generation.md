@@ -27,6 +27,13 @@ date: 2015-10-09
 - youtube: [https://www.youtube.com/watch?v=Zt-7MI9eKEo&hd=1](https://www.youtube.com/watch?v=Zt-7MI9eKEo&hd=1)
 - video: [http://pan.baidu.com/s/1gd3W6Fh](http://pan.baidu.com/s/1gd3W6Fh)
 
+**What is DRAW (Deep Recurrent Attentive Writer)?**
+
+![](http://kvfrans.com/content/images/2016/06/gencnn-afe135ff8d2725325a22455a488562b0e1cb7ac6a3f60b3cecb373fd043eb202.svg)
+
+- blog: [http://kvfrans.com/what-is-draw-deep-recurrent-attentive-writer/](http://kvfrans.com/what-is-draw-deep-recurrent-attentive-writer/)
+- github(tensorflow): [https://github.com/kvfrans/draw](https://github.com/kvfrans/draw)
+
 **Understanding and Implementing Deepmind's DRAW Model**
 
 - blog: [http://evjang.com/articles/draw](http://evjang.com/articles/draw)

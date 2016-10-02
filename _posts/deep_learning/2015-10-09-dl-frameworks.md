@@ -359,6 +359,7 @@ for building Deep Learning (DL) machine learning (ML) models
 
 - website: [http://neon.nervanasys.com/docs/latest/index.html](http://neon.nervanasys.com/docs/latest/index.html)
 - github: [https://github.com/NervanaSystems/neon](https://github.com/NervanaSystems/neon)
+- website: [https://www.nervanasys.com/learn/](https://www.nervanasys.com/learn/)
 
 **Tools to convert Caffe models to neon's serialization format**
 
@@ -792,3 +793,8 @@ Implementations and ideas are largely based on papers from arxiv and implementat
 
 - intro: Theano / TensorFlow / MXNET
 - blog: [http://blog.revolutionanalytics.com/2016/08/deep-learning-part-1.html](http://blog.revolutionanalytics.com/2016/08/deep-learning-part-1.html)
+
+**Deep Learning Frameworks Compared**
+
+- youtube: [https://www.youtube.com/watch?v=MDP9FfsNx60](https://www.youtube.com/watch?v=MDP9FfsNx60)
+- github: [https://github.com/llSourcell/tensorflow_vs_theano](https://github.com/llSourcell/tensorflow_vs_theano)

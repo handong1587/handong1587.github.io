@@ -11,7 +11,7 @@ date: 2015-10-09
 
 - paper: [http://research.microsoft.com/pubs/240715/CNN%20Whitepaper.pdf](http://research.microsoft.com/pubs/240715/CNN%20Whitepaper.pdf)
 
-# Installation
+# Installation / Deploying
 
 **Setting up a Deep Learning Machine from Scratch (Software): Instructions for setting up the software on your deep learning machine**
 
@@ -23,6 +23,10 @@ This was tested on a 64 bit machine with Nvidia Titan X, running Ubuntu 14.04
 **How to install CUDA Toolkit and cuDNN for deep learning**
 
 - blog: [http://www.pyimagesearch.com/2016/07/04/how-to-install-cuda-toolkit-and-cudnn-for-deep-learning/](http://www.pyimagesearch.com/2016/07/04/how-to-install-cuda-toolkit-and-cudnn-for-deep-learning/)
+
+**Deploying Deep Learning: Guide to deploying deep-learning inference networks and realtime object detection with TensorRT and Jetson TX1.**
+
+- github: [https://github.com/dusty-nv/jetson-inference](https://github.com/dusty-nv/jetson-inference)
 
 ## Docker
 
@@ -48,6 +52,12 @@ Contains all the popular DL frameworks (TensorFlow, Theano, Torch, Caffe, etc.)
 **Building Deep Neural Networks in the Cloud with Azure GPU VMs, MXNet and Microsoft R Server**
 
 [https://blogs.technet.microsoft.com/machinelearning/2016/09/15/building-deep-neural-networks-in-the-cloud-with-azure-gpu-vms-mxnet-and-microsoft-r-server/](https://blogs.technet.microsoft.com/machinelearning/2016/09/15/building-deep-neural-networks-in-the-cloud-with-azure-gpu-vms-mxnet-and-microsoft-r-server/)
+
+## Amazon EC2
+
+**Deep Learning AMI on AWS Marketplace**
+
+[https://aws.amazon.com/marketplace/pp/B01M0AXXQB](https://aws.amazon.com/marketplace/pp/B01M0AXXQB)
 
 # Hardware System
 
@@ -185,6 +195,10 @@ Contains all the popular DL frameworks (TensorFlow, Theano, Torch, Caffe, etc.)
 **Comprehensive Evaluation of OpenCL-based Convolutional Neural Network Accelerators in Xilinx and Altera FPGAs**
 
 - arxiv: [https://arxiv.org/abs/1609.09296](https://arxiv.org/abs/1609.09296)
+
+**Microsoft Goes All in for FPGAs to Build Out AI Cloud**
+
+- blog: [https://www.top500.org/news/microsoft-goes-all-in-for-fpgas-to-build-out-cloud-based-ai/](https://www.top500.org/news/microsoft-goes-all-in-for-fpgas-to-build-out-cloud-based-ai/)
 
 # ARM / Processor
 

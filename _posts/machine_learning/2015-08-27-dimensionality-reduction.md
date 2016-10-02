@@ -43,6 +43,14 @@ date: 2015-08-27
 - arxiv: [http://arxiv.org/abs/1605.07784](http://arxiv.org/abs/1605.07784)
 - code: [https://people.orie.cornell.edu/yudong.chen/rpca_gd/RPCA_GD.zip](https://people.orie.cornell.edu/yudong.chen/rpca_gd/RPCA_GD.zip)
 
+**Coherence Pursuit: Fast, Simple, and Robust Principal Component Analysis**
+
+- arxiv: [https://arxiv.org/abs/1609.04789](https://arxiv.org/abs/1609.04789)
+
+**A Fast Factorization-based Approach to Robust PCA**
+
+- arxiv: [https://arxiv.org/abs/1609.08677](https://arxiv.org/abs/1609.08677)
+
 # SVD
 
 **Feature Reduction using SVD**

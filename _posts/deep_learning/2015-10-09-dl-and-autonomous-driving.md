@@ -38,6 +38,9 @@ date: 2015-10-09
 
 - intro: NVIDIA DevBox and Torch 7, 30 FPS
 - arxiv: [http://arxiv.org/abs/1604.07316](http://arxiv.org/abs/1604.07316)
+- blog: [https://devblogs.nvidia.com/parallelforall/deep-learning-self-driving-cars/](https://devblogs.nvidia.com/parallelforall/deep-learning-self-driving-cars/)
+- demo: [https://www.youtube.com/watch?v=NJU9ULQUwng&feature=youtu.be](https://www.youtube.com/watch?v=NJU9ULQUwng&feature=youtu.be)
+- github: [https://github.com/SullyChen/Nvidia-Autopilot-TensorFlow](https://github.com/SullyChen/Nvidia-Autopilot-TensorFlow)
 
 **End-to-End Deep Learning for Self-Driving Cars**
 

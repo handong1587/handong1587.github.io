@@ -74,11 +74,16 @@ date: 2015-08-27
 
 [http://blog.asidatascience.com/training-neural-networks-with-theano/](http://blog.asidatascience.com/training-neural-networks-with-theano/)
 
+**Neural networks module for Redis**
+
+- github: [https://github.com/antirez/neural-redis](https://github.com/antirez/neural-redis)
+
 ## Backpropagation
 
 **A Step by Step Backpropagation Example**
 
 - blog: [http://mattmazur.com/2015/03/17/a-step-by-step-backpropagation-example/](http://mattmazur.com/2015/03/17/a-step-by-step-backpropagation-example/)
+- github: [https://github.com/mattm/simple-neural-network](https://github.com/mattm/simple-neural-network)
 
 **Can you give a visual explanation for the back propagation algorithm for neural networks?**
 
@@ -95,6 +100,22 @@ date: 2015-08-27
 **Backpropagation — How Neural Networks Learn Complex Behaviors**
 
 - blog: [https://medium.com/autonomous-agents/backpropagation-how-neural-networks-learn-complex-behaviors-9572ac161670#.ipu4jr2ka](https://medium.com/autonomous-agents/backpropagation-how-neural-networks-learn-complex-behaviors-9572ac161670#.ipu4jr2ka)
+
+**Derivation of Backpropagation**
+
+[https://www.cs.swarthmore.edu/~meeden/cs81/s10/BackPropDeriv.pdf](https://www.cs.swarthmore.edu/~meeden/cs81/s10/BackPropDeriv.pdf)
+
+**Backpropagation**
+
+[https://en.wikipedia.org/wiki/Backpropagation#Derivation](https://en.wikipedia.org/wiki/Backpropagation#Derivation)
+
+**A Derivation of Backpropagation in Matrix Form**
+
+- blog: [http://sudeepraja.github.io/Neural/](http://sudeepraja.github.io/Neural/)
+
+**Backpropagation — How Neural Networks Learn Complex Behaviors**
+
+- blog: [https://medium.com/autonomous-agents/backpropagation-how-neural-networks-learn-complex-behaviors-9572ac161670#.dmdy8glec](https://medium.com/autonomous-agents/backpropagation-how-neural-networks-learn-complex-behaviors-9572ac161670#.dmdy8glec)
 
 # Project
 

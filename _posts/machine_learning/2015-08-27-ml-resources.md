@@ -539,6 +539,13 @@ Classic strategies:
 - arxiv: [http://arxiv.org/abs/1606.04080](http://arxiv.org/abs/1606.04080)
 - github: [https://github.com/zergylord/oneshot](https://github.com/zergylord/oneshot)
 
+# Quantitative Trading
+
+**Self-Study Plan for Becoming a Quantitative Trader**
+
+- part 1: [https://www.quantstart.com/articles/Self-Study-Plan-for-Becoming-a-Quantitative-Trader-Part-I](https://www.quantstart.com/articles/Self-Study-Plan-for-Becoming-a-Quantitative-Trader-Part-I)
+- part 2: [https://www.quantstart.com/articles/Self-Study-Plan-for-Becoming-a-Quantitative-Trader-Part-II](https://www.quantstart.com/articles/Self-Study-Plan-for-Becoming-a-Quantitative-Trader-Part-II)
+
 # Papers
 
 **Do we Need Hundreds of Classifiers to Solve Real World Classification Problems?**

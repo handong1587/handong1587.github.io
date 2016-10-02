@@ -275,9 +275,17 @@ date: 2015-10-09
 
 - blog: [https://www.analyticsvidhya.com/blog/2016/08/deep-learning-path/](https://www.analyticsvidhya.com/blog/2016/08/deep-learning-path/)
 
+**Deep learning for complete beginners: Recognising handwritten digits**
+
+- blog: [http://online.cambridgecoding.com/notebooks/cca_admin/deep-learning-for-complete-beginners-recognising-handwritten-digits](http://online.cambridgecoding.com/notebooks/cca_admin/deep-learning-for-complete-beginners-recognising-handwritten-digits)
+
 **Deep learning for complete beginners: Using convolutional nets to recognise images**
 
 - blog: [http://online.cambridgecoding.com/notebooks/cca_admin/convolutional-neural-networks-with-keras](http://online.cambridgecoding.com/notebooks/cca_admin/convolutional-neural-networks-with-keras)
+
+**Deep learning for complete beginners: neural network fine-tuning techniques**
+
+- blog: [http://online.cambridgecoding.com/notebooks/cca_admin/neural-networks-tuning-techniques](http://online.cambridgecoding.com/notebooks/cca_admin/neural-networks-tuning-techniques)
 
 **How do Convolutional Neural Networks work?**
 
@@ -315,6 +323,24 @@ date: 2015-10-09
 
 - intro: LSTM diagrams
 - blog: [http://fastml.com/deep-learning-architecture-diagrams/](http://fastml.com/deep-learning-architecture-diagrams/)
+
+**Getting Started with Deep Learning and Python**
+
+- blog: [http://www.pyimagesearch.com/2014/09/22/getting-started-deep-learning-python](http://www.pyimagesearch.com/2014/09/22/getting-started-deep-learning-python)
+
+**Deep Learning Practicals**
+
+- intro: Video playlist of Torch Video Tutorials
+- youtube: [https://www.youtube.com/playlist?list=PLLHTzKZzVU9ebuL6DCclzI54MrPNFGqbW](https://www.youtube.com/playlist?list=PLLHTzKZzVU9ebuL6DCclzI54MrPNFGqbW)
+
+**A simple workflow for deep learning**
+
+- blog: [https://cartesianfaith.com/2016/09/29/a-simple-workflow-for-deep-learning/](https://cartesianfaith.com/2016/09/29/a-simple-workflow-for-deep-learning/)
+- github: [https://github.com/zatonovo/deep_learning_ex](https://github.com/zatonovo/deep_learning_ex)
+
+**A primer on universal function approximation with deep learning (in Torch and R)**
+
+- blog: [https://cartesianfaith.com/2016/09/23/a-primer-on-universal-function-approximation-with-deep-learning-in-torch-and-r/](https://cartesianfaith.com/2016/09/23/a-primer-on-universal-function-approximation-with-deep-learning-in-torch-and-r/)
 
 # Convolution
 
@@ -404,29 +430,21 @@ date: 2015-10-09
 
 - blog: [https://grzegorzgwardys.wordpress.com/2016/04/22/8/](https://grzegorzgwardys.wordpress.com/2016/04/22/8/)
 
+**Backpropagation In Convolutional Neural Networks**
+
+![](http://www.jefkine.com/assets/images/cnn.png)
+
+- blog: [http://www.jefkine.com/general/2016/09/05/backpropagation-in-convolutional-neural-networks/](http://www.jefkine.com/general/2016/09/05/backpropagation-in-convolutional-neural-networks/)
+
 **Styles of Truncated Backpropagation**
 
 - blog: [http://r2rt.com/styles-of-truncated-backpropagation.html](http://r2rt.com/styles-of-truncated-backpropagation.html)
-
-**A Derivation of Backpropagation in Matrix Form**
-
-- blog: [http://sudeepraja.github.io/Neural/](http://sudeepraja.github.io/Neural/)
-
-**Backpropagation — How Neural Networks Learn Complex Behaviors**
-
-- blog: [https://medium.com/autonomous-agents/backpropagation-how-neural-networks-learn-complex-behaviors-9572ac161670#.dmdy8glec](https://medium.com/autonomous-agents/backpropagation-how-neural-networks-learn-complex-behaviors-9572ac161670#.dmdy8glec)
 
 **Is BackPropagation Necessary?**
 
 ![](http://i2.wp.com/deliprao.com/wp-content/uploads/2016/08/Selection_010-1.png?w=617)
 
 - blog: [http://deliprao.com/archives/191](http://deliprao.com/archives/191)
-
-**Backpropagation In Convolutional Neural Networks**
-
-![](http://www.jefkine.com/assets/images/cnn.png)
-
-- blog: [http://www.jefkine.com/general/2016/09/05/backpropagation-in-convolutional-neural-networks/](http://www.jefkine.com/general/2016/09/05/backpropagation-in-convolutional-neural-networks/)
 
 # Attention
 

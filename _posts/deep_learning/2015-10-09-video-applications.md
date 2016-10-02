@@ -438,6 +438,7 @@ alleviates the problem of video browsing, editing and indexing.
 
 **YouTube-8M: A Large-Scale Video Classification Benchmark**
 
+- homepage: [http://research.google.com/youtube8m/](http://research.google.com/youtube8m/)
 - arxiv: [http://arxiv.org/abs/1609.08675](http://arxiv.org/abs/1609.08675)
 
 # Challenges

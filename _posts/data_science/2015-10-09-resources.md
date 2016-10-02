@@ -35,6 +35,16 @@ date: 2015-10-09
 
 - github: [https://github.com/ujjwalkarn/DataSciencePython](https://github.com/ujjwalkarn/DataSciencePython)
 
+**Getting Started with Data Science @ MSU Data Science**
+
+- slides: [https://speakerdeck.com/rasbt/getting-started-with-data-science-at-msu-data-science](https://speakerdeck.com/rasbt/getting-started-with-data-science-at-msu-data-science)
+
+**Helping our new Data Scientists start in Python: A guide to learning by doing**
+
+![](https://themarketingtechnologist-ghost.s3.amazonaws.com/2016/Sep/1200_628_marketingtechnologist_lbd_fb-1475154337738.jpg)
+
+- blog: [https://www.themarketingtechnologist.co/helping-our-new-data-scientists-start-in-python-a-guide-to-learning-by-doing/](https://www.themarketingtechnologist.co/helping-our-new-data-scientists-start-in-python-a-guide-to-learning-by-doing/)
+
 # Courses
 
 **General Assembly's Data Science course in Washington, DC**
@@ -94,3 +104,7 @@ date: 2015-10-09
 **data-science-practice-handbook: Awesome and Complete Practice Handbook For Data Science**
 
 - github: [https://github.com/wxyyxc1992/datascience-practice-handbook](https://github.com/wxyyxc1992/datascience-practice-handbook)
+
+**If you want to learn Data Science, start with one of these programming classes**
+
+- blog: [https://medium.freecodecamp.com/if-you-want-to-learn-data-science-start-with-one-of-these-programming-classes-fb694ffe780c#.quj2gi3f9](https://medium.freecodecamp.com/if-you-want-to-learn-data-science-start-with-one-of-these-programming-classes-fb694ffe780c#.quj2gi3f9)

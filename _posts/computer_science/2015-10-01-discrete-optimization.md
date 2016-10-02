@@ -43,6 +43,10 @@ date: 2015-10-01
 - book: [https://www.crcpress.com/Handbook-of-Markov-Chain-Monte-Carlo/Brooks-Gelman-Jones-Meng/p/book/9781420079418](https://www.crcpress.com/Handbook-of-Markov-Chain-Monte-Carlo/Brooks-Gelman-Jones-Meng/p/book/9781420079418)
 - homepage: [http://www.mcmchandbook.net/HandbookSampleChapters.html](http://www.mcmchandbook.net/HandbookSampleChapters.html)
 
+**Markov Chain Monte Carlo**
+
+- blog: [https://nicercode.github.io/guides/mcmc/](https://nicercode.github.io/guides/mcmc/)
+
 # Rectangle Bin Packing
 
 **Even More Rectangle Bin Packing**
