@@ -17,6 +17,12 @@ date: 2015-10-09
 
 [http://www.cs.waikato.ac.nz/ml/weka/book.html](http://www.cs.waikato.ac.nz/ml/weka/book.html)
 
+# Blogs
+
+**Data Mining in Python: A Guide**
+
+[https://www.springboard.com/blog/data-mining-python-tutorial/](https://www.springboard.com/blog/data-mining-python-tutorial/)
+
 # Resources
 
 **50 selected papers in Data Mining and Machine Learning**

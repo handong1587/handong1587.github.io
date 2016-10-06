@@ -575,6 +575,10 @@ Implementations and ideas are largely based on papers from arxiv and implementat
 
 - github: [https://github.com/random-forests/tensorflow-workshop](https://github.com/random-forests/tensorflow-workshop)
 
+**A Tour of TensorFlow**
+
+- arxiv: [https://arxiv.org/abs/1610.01178](https://arxiv.org/abs/1610.01178)
+
 # Theano
 
 **Theano**

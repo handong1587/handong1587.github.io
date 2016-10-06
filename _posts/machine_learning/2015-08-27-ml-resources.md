@@ -433,6 +433,18 @@ Classic strategies:
 
 [http://static1.squarespace.com/static/54bf3241e4b0f0d81bf7ff36/t/55e9494fe4b011aed10e48e5/1441352015658/probability_cheatsheet.pdf](http://static1.squarespace.com/static/54bf3241e4b0f0d81bf7ff36/t/55e9494fe4b011aed10e48e5/1441352015658/probability_cheatsheet.pdf)
 
+# Kalman Filter
+
+**How Kalman Filters Work**
+
+- part 1: [http://www.anuncommonlab.com/articles/how-kalman-filters-work/](http://www.anuncommonlab.com/articles/how-kalman-filters-work/)
+- part 2: [http://www.anuncommonlab.com/articles/how-kalman-filters-work/part2.html](http://www.anuncommonlab.com/articles/how-kalman-filters-work/part2.html)
+- part 3: [http://www.anuncommonlab.com/articles/how-kalman-filters-work/part3.html](http://www.anuncommonlab.com/articles/how-kalman-filters-work/part3.html)
+
+**Understanding the Basis of the Kalman Filter Via a Simple and Intuitive Derivation**
+
+- paper: [https://www.cl.cam.ac.uk/~rmf25/papers/Understanding%20the%20Basis%20of%20the%20Kalman%20Filter.pdf](https://www.cl.cam.ac.uk/~rmf25/papers/Understanding%20the%20Basis%20of%20the%20Kalman%20Filter.pdf)
+
 # L-BFGS
 
 # Code Stylometry
@@ -728,12 +740,6 @@ including all the relevant classifiers available today
 **A Friendly Introduction to Cross-Entropy Loss**
 
 [https://rdipietro.github.io/friendly-intro-to-cross-entropy-loss/](https://rdipietro.github.io/friendly-intro-to-cross-entropy-loss/)
-
-**How Kalman Filters Work**
-
-- part 1: [http://www.anuncommonlab.com/articles/how-kalman-filters-work/](http://www.anuncommonlab.com/articles/how-kalman-filters-work/)
-- part 2: [http://www.anuncommonlab.com/articles/how-kalman-filters-work/part2.html](http://www.anuncommonlab.com/articles/how-kalman-filters-work/part2.html)
-- part 3: [http://www.anuncommonlab.com/articles/how-kalman-filters-work/part3.html](http://www.anuncommonlab.com/articles/how-kalman-filters-work/part3.html)
 
 **How to choose algorithms for Microsoft Azure Machine Learning**
 

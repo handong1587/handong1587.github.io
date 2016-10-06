@@ -57,19 +57,21 @@ date: 2015-10-09
 - arxiv: [https://arxiv.org/abs/1605.08325](https://arxiv.org/abs/1605.08325)
 - github: [https://github.com/uoguelph-mlrg/Theano-MPI](https://github.com/uoguelph-mlrg/Theano-MPI)
 
-## CaffeOnSpark
+**CaffeOnSpark: Open Sourced for Distributed Deep Learning on Big Data Clusters**
 
-**CaffeOnSpark: Open Sourced for Distributed Deep Learning on Big Data Clusters (Yahoo)**
-
+- intro: Yahoo Big ML Team
 - blog: [http://yahoohadoop.tumblr.com/post/139916563586/caffeonspark-open-sourced-for-distributed-deep](http://yahoohadoop.tumblr.com/post/139916563586/caffeonspark-open-sourced-for-distributed-deep)
 - github: [https://github.com/yahoo/CaffeOnSpark](https://github.com/yahoo/CaffeOnSpark)
 - youtube: [https://www.youtube.com/watch?v=bqj7nML-aHk](https://www.youtube.com/watch?v=bqj7nML-aHk)
 
-## Tunnel
-
 **Tunnel: Data Driven Framework for Distributed Computing in Torch 7**
 
 - github: [https://github.com/zhangxiangxiao/tunnel](https://github.com/zhangxiangxiao/tunnel)
+
+**Distributed deep learning with Keras and Apache Spark**
+
+- project page: [http://joerihermans.com/work/distributed-keras/](http://joerihermans.com/work/distributed-keras/)
+- github: [https://github.com/JoeriHermans/dist-keras](https://github.com/JoeriHermans/dist-keras)
 
 # Videos
 

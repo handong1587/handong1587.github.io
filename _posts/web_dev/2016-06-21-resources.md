@@ -62,3 +62,7 @@ linjinbin@ubuntu:/usr/local/lib/node_modules/bower/bin$ sudo ln -s /usr/bin/node
 **A Brief Overview of Popular JS Frameworks: React, Angular, Bootstrap, and Polymer**
 
 [https://dzone.com/articles/react-angular-bootstrap-and-polymer-the-basics?utm_source=Top%205&utm_medium=email&utm_campaign=top5%202016-09-02](https://dzone.com/articles/react-angular-bootstrap-and-polymer-the-basics?utm_source=Top%205&utm_medium=email&utm_campaign=top5%202016-09-02)
+
+**How it feels to learn JavaScript in 2016**
+
+[https://hackernoon.com/how-it-feels-to-learn-javascript-in-2016-d3a717dd577f#.7ux04vedl](https://hackernoon.com/how-it-feels-to-learn-javascript-in-2016-d3a717dd577f#.7ux04vedl)

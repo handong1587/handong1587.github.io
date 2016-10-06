@@ -514,6 +514,11 @@ Compressed model is less than 500KB
 
 - github: [https://github.com/jacotar/sound-GAN](https://github.com/jacotar/sound-GAN)
 
+**Analyzing Six Deep Learning Tools for Music Generation**
+
+- intro: Magenta / DeepJazz / BachBot / FlowMachines / WaveNet / GRUV
+- blog: [http://www.asimovinstitute.org/notes-vs-waves/](http://www.asimovinstitute.org/notes-vs-waves/)
+
 # Poetry
 
 **NeuralSnap: Generates poetry from images using convolutional and recurrent neural networks**
