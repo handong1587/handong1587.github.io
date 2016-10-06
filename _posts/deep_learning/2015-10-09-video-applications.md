@@ -299,6 +299,7 @@ extract saptio-temporal features to represent the video using the CNNs."
 - project page: [https://coxlab.github.io/prednet/](https://coxlab.github.io/prednet/)
 - arxiv: [http://arxiv.org/abs/1605.08104](http://arxiv.org/abs/1605.08104)
 - github: [https://github.com/coxlab/prednet](https://github.com/coxlab/prednet)
+- github: [https://github.com/e-lab/torch-prednet](https://github.com/e-lab/torch-prednet)
 
 # Video Tagging
 
@@ -440,6 +441,12 @@ alleviates the problem of video browsing, editing and indexing.
 
 - homepage: [http://research.google.com/youtube8m/](http://research.google.com/youtube8m/)
 - arxiv: [http://arxiv.org/abs/1609.08675](http://arxiv.org/abs/1609.08675)
+
+**stabilized video frames**
+
+- intro: 9 TB, 35,000,000 clips, 32 frames
+- intro: Generating Videos with Scene Dynamics
+- homepage: [http://web.mit.edu/vondrick/tinyvideo/#data](http://web.mit.edu/vondrick/tinyvideo/#data)
 
 # Challenges
 

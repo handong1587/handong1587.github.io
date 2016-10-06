@@ -97,6 +97,14 @@ date: 2015-09-12
 - homepage: [http://graphics.cs.cmu.edu/projects/gradient-paint/](http://graphics.cs.cmu.edu/projects/gradient-paint/)
 - paper: [http://graphics.cs.cmu.edu/projects/gradient-paint/grad.light.r2226.pdf](http://graphics.cs.cmu.edu/projects/gradient-paint/grad.light.r2226.pdf)
 
+**Sketch2Photo: Internet Image Montage**
+
+![](http://cg.cs.tsinghua.edu.cn/montage/figures/teaser.jpg)
+
+- intro: ACM SIGGRAPH ASIA 2009
+- project page: [http://cg.cs.tsinghua.edu.cn/montage/main.htm](http://cg.cs.tsinghua.edu.cn/montage/main.htm)
+- paper: [http://cg.cs.tsinghua.edu.cn/montage/files/montage.pdf](http://cg.cs.tsinghua.edu.cn/montage/files/montage.pdf)
+
 **Combining Sketch and Tone for Pencil Drawing Production**
 
 ![](/assets/computer-vision/pencil_drawing.jpg)

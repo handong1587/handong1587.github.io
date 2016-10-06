@@ -117,3 +117,7 @@ date: 2015-10-09
 **Deeplearning4j on Spark**
 
 [http://deeplearning4j.org/spark](http://deeplearning4j.org/spark)
+
+**Distributed Deep Learning, Part 1: An Introduction to Distributed Training of Neural Networks**
+
+- blog: [http://engineering.skymind.io/distributed-deep-learning-part-1-an-introduction-to-distributed-training-of-neural-networks](http://engineering.skymind.io/distributed-deep-learning-part-1-an-introduction-to-distributed-training-of-neural-networks)

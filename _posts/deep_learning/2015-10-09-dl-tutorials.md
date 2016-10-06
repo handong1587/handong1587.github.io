@@ -342,6 +342,10 @@ date: 2015-10-09
 
 - blog: [https://cartesianfaith.com/2016/09/23/a-primer-on-universal-function-approximation-with-deep-learning-in-torch-and-r/](https://cartesianfaith.com/2016/09/23/a-primer-on-universal-function-approximation-with-deep-learning-in-torch-and-r/)
 
+**An Introduction to Implementing Neural Networks using TensorFlow**
+
+[https://www.analyticsvidhya.com/blog/2016/10/an-introduction-to-implementing-neural-networks-using-tensorflow/](https://www.analyticsvidhya.com/blog/2016/10/an-introduction-to-implementing-neural-networks-using-tensorflow/)
+
 # Convolution
 
 ![](/assets/cnn-materials/conv.jpg)

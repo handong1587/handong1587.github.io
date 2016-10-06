@@ -27,8 +27,6 @@ date: 2015-10-09
 singular value decomposition was adopted for the matrix factorization"
 - paper: [http://papers.nips.cc/paper/5544-exploiting-linear-structure-within-convolutional-networks-for-efficient-evaluation.pdf](http://papers.nips.cc/paper/5544-exploiting-linear-structure-within-convolutional-networks-for-efficient-evaluation.pdf)
 
-## cuDNN
-
 **cuDNN: Efficient Primitives for Deep Learning**
 
 - arxiv: [https://arxiv.org/abs/1410.0759](https://arxiv.org/abs/1410.0759)
@@ -39,8 +37,9 @@ singular value decomposition was adopted for the matrix factorization"
 - intro: "considered the subsequent nonlinear units while learning the low-rank decomposition"
 - arxiv: [http://arxiv.org/abs/1411.4229](http://arxiv.org/abs/1411.4229)
 
-**Flattened Convolutional Neural Networks for Feedforward Acceleration (ICLR 2015)**
+**Flattened Convolutional Neural Networks for Feedforward Acceleration**
 
+- intro: ICLR 2015
 - arxiv: [http://arxiv.org/abs/1412.5474](http://arxiv.org/abs/1412.5474)
 - github: [https://github.com/jhjin/flattened-cnn](https://github.com/jhjin/flattened-cnn)
 
@@ -61,8 +60,9 @@ transform a convolutional layer into multiple layers of lower complexity"
 - intro: "fully-connected layers were replaced by a single “Fastfood” layer for end-to-end training with convolutional layers"
 - arxiv: [http://arxiv.org/abs/1412.7149](http://arxiv.org/abs/1412.7149)
 
-**Fast Convolutional Nets With fbfft: A GPU Performance Evaluation (Facebook. ICLR 2015)**
+**Fast Convolutional Nets With fbfft: A GPU Performance Evaluation**
 
+- intro: Facebook. ICLR 2015
 - arxiv: [http://arxiv.org/abs/1412.7580](http://arxiv.org/abs/1412.7580)
 - github: [http://facebook.github.io/fbcunn/fbcunn/](http://facebook.github.io/fbcunn/fbcunn/)
 
@@ -75,19 +75,16 @@ transform a convolutional layer into multiple layers of lower complexity"
 - blog: [http://fastml.com/geoff-hintons-dark-knowledge/](http://fastml.com/geoff-hintons-dark-knowledge/)
 - notes: [https://github.com/dennybritz/deeplearning-papernotes/blob/master/notes/distilling-the-knowledge-in-a-nn.md](https://github.com/dennybritz/deeplearning-papernotes/blob/master/notes/distilling-the-knowledge-in-a-nn.md)
 
-## Caffe con Troll (CcT)
-
 **Caffe con Troll: Shallow Ideas to Speed Up Deep Learning**
 
 - intro: a fully compatible end-to-end version of the popular framework Caffe with rebuilt internals
 - arxiv: [http://arxiv.org/abs/1504.04343](http://arxiv.org/abs/1504.04343)
 
-## HashedNets
-
-**Compressing Neural Networks with the Hashing Trick (HashedNets. ICML 2015)**
+**Compressing Neural Networks with the Hashing Trick**
 
 ![](http://www.cse.wustl.edu/~wenlinchen/project/HashedNets/hashednets.png)
 
+- intro: HashedNets. ICML 2015
 - intro: "randomly grouped connection weights into hash buckets, and then fine-tuned network parameters with back-propagation"
 - project page: [http://www.cse.wustl.edu/~wenlinchen/project/HashedNets/index.html](http://www.cse.wustl.edu/~wenlinchen/project/HashedNets/index.html)
 - arxiv: [http://arxiv.org/abs/1504.04788](http://arxiv.org/abs/1504.04788)
@@ -121,14 +118,11 @@ to decompose it into the multiplications of thinned dense matrices"
 - discussion: [https://github.com/soumith/convnet-benchmarks/issues/59#issuecomment-150111895](https://github.com/soumith/convnet-benchmarks/issues/59#issuecomment-150111895)
 - reddit: [https://www.reddit.com/r/MachineLearning/comments/3nocg5/fast_algorithms_for_convolutional_neural_networks/?](https://www.reddit.com/r/MachineLearning/comments/3nocg5/fast_algorithms_for_convolutional_neural_networks/?)
 
-## Deep Compression
+**Deep Compression: Compressing Deep Neural Networks with Pruning, Trained Quantization and Huffman Coding**
 
-**Deep Compression: Compressing Deep Neural Networks with Pruning, Trained Quantization and Huffman Coding (ICLR 2016 Best Paper)**
-
+- intro: ICLR 2016 Best Paper
 - intro: "reduced the size of AlexNet by 35x from 240MB to 6.9MB, the size of VGG16 by 49x from 552MB to 11.3MB, with no loss of accuracy"
 - arxiv: [http://arxiv.org/abs/1510.00149](http://arxiv.org/abs/1510.00149)
-
-## ZNN 
 
 **ZNN - A Fast and Scalable Algorithm for Training 3D Convolutional Networks on Multi-Core and Many-Core Shared Memory Machines**
 
@@ -144,19 +138,17 @@ to decompose it into the multiplications of thinned dense matrices"
 - arxiv: [http://arxiv.org/abs/1511.06067](http://arxiv.org/abs/1511.06067)
 - github: [https://github.com/chengtaipu/lowrankcnn](https://github.com/chengtaipu/lowrankcnn)
 
-## Q-CNN
+**Quantized Convolutional Neural Networks for Mobile Devices**
 
-**Quantized Convolutional Neural Networks for Mobile Devices (Q-CNN)**
-
+- intro: Q-CNN
 - intro: "Extensive experiments on the ILSVRC-12 benchmark demonstrate 
 4 ∼ 6× speed-up and 15 ∼ 20× compression with merely one percentage loss of classification accuracy"
 - arxiv: [http://arxiv.org/abs/1512.06473](http://arxiv.org/abs/1512.06473)
 - github: [https://github.com/jiaxiang-wu/quantized-cnn](https://github.com/jiaxiang-wu/quantized-cnn)
 
-## EIE
+**EIE: Efficient Inference Engine on Compressed Deep Neural Network**
 
-**EIE: Efficient Inference Engine on Compressed Deep Neural Network (ISCA'16)**
-
+- intro: ISCA 2016
 - arxiv: [http://arxiv.org/abs/1602.01528](http://arxiv.org/abs/1602.01528)
 - slides: [http://on-demand.gputechconf.com/gtc/2016/presentation/s6561-song-han-deep-compression.pdf](http://on-demand.gputechconf.com/gtc/2016/presentation/s6561-song-han-deep-compression.pdf)
 - slides: [http://web.stanford.edu/class/ee380/Abstracts/160106-slides.pdf](http://web.stanford.edu/class/ee380/Abstracts/160106-slides.pdf)
@@ -165,10 +157,9 @@ to decompose it into the multiplications of thinned dense matrices"
 
 - arxiv: [http://arxiv.org/abs/1602.04489](http://arxiv.org/abs/1602.04489)
 
-## SqueezeNet
+**SqueezeNet: AlexNet-level accuracy with 50x fewer parameters and <0.5MB model size**
 
-**SqueezeNet: AlexNet-level accuracy with 50x fewer parameters and <0.5MB model size [DeepScale & UC Berkeley]**
-
+- intro: DeepScale & UC Berkeley
 - arxiv: [http://arxiv.org/abs/1602.07360](http://arxiv.org/abs/1602.07360)
 - github: [https://github.com/DeepScale/SqueezeNet](https://github.com/DeepScale/SqueezeNet)
 - homepage: [http://songhan.github.io/SqueezeNet-Deep-Compression/](http://songhan.github.io/SqueezeNet-Deep-Compression/)
@@ -184,8 +175,6 @@ to decompose it into the multiplications of thinned dense matrices"
 
 - arxiv: [http://arxiv.org/abs/1603.01025](http://arxiv.org/abs/1603.01025)
 
-## DeepX
-
 **DeepX: A Software Accelerator for Low-Power Deep Learning Inference on Mobile Devices**
 
 - paper: [http://niclane.org/pubs/deepx_ipsn.pdf](http://niclane.org/pubs/deepx_ipsn.pdf)
@@ -196,8 +185,9 @@ to decompose it into the multiplications of thinned dense matrices"
 - homepage: [http://ristretto.lepsucd.com/](http://ristretto.lepsucd.com/)
 - github("Ristretto: Caffe-based approximation of convolutional neural networks"): [https://github.com/pmgysel/caffe](https://github.com/pmgysel/caffe)
 
-**Deep Neural Networks Under Stress (ICIP 2016)**
+**Deep Neural Networks Under Stress**
 
+- intro: ICIP 2016
 - arxiv: [http://arxiv.org/abs/1605.03498](http://arxiv.org/abs/1605.03498)
 - github: [https://github.com/MicaelCarvalho/DNNsUnderStress](https://github.com/MicaelCarvalho/DNNsUnderStress)
 
@@ -205,13 +195,10 @@ to decompose it into the multiplications of thinned dense matrices"
 
 - arxiv: [http://arxiv.org/abs/1605.03621](http://arxiv.org/abs/1605.03621)
 
-## FunHashNN
+**Functional Hashing for Compressing Neural Networks**
 
-**Functional Hashing for Compressing Neural Networks (FunHashNN)**
-
+- intro: FunHashNN
 - arxiv: [http://arxiv.org/abs/1605.06560](http://arxiv.org/abs/1605.06560)
-
-## Ristretto
 
 **Ristretto: Hardware-Oriented Approximation of Convolutional Neural Networks**
 
@@ -234,6 +221,11 @@ to decompose it into the multiplications of thinned dense matrices"
 **Pruning Filters for Efficient ConvNets**
 
 - arxiv: [http://arxiv.org/abs/1608.08710](http://arxiv.org/abs/1608.08710)
+
+**Accelerating Deep Convolutional Networks using low-precision and sparsity**
+
+- intro: Intel Labs
+- arxiv: [https://arxiv.org/abs/1610.00324](https://arxiv.org/abs/1610.00324)
 
 # Projects
 

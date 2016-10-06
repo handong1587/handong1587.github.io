@@ -7,6 +7,10 @@ date: 2015-09-25
 
 # Deep Learning
 
+**Chat with Juergen Schmidhuber: Artificial Intelligence & Deep Learning - Now & Future**
+
+[http://stephenibaraki.com/acm/interviews/v0916/juergen_schmidhuber_acm.html](http://stephenibaraki.com/acm/interviews/v0916/juergen_schmidhuber_acm.html)
+
 **Convolutional Nets and CIFAR-10: An Interview with Yann LeCun**
 
 [http://blog.kaggle.com/2014/12/22/convolutional-nets-and-cifar-10-an-interview-with-yan-lecun/](http://blog.kaggle.com/2014/12/22/convolutional-nets-and-cifar-10-an-interview-with-yan-lecun/)
@@ -80,6 +84,12 @@ date: 2015-09-25
 - blog: [https://techcrunch.com/2016/06/28/google-researchers-teach-ais-to-see-the-important-parts-of-images-and-tell-you-about-them/](https://techcrunch.com/2016/06/28/google-researchers-teach-ais-to-see-the-important-parts-of-images-and-tell-you-about-them/)
 
 # AI
+
+**Can we open the black box of AI?**
+
+![](http://www.nature.com/widget_assets_polopoly/gifs/Black_box_AI_nature.gif)
+
+[http://www.nature.com/news/can-we-open-the-black-box-of-ai-1.20731](http://www.nature.com/news/can-we-open-the-black-box-of-ai-1.20731)
 
 **The Top A.I. Breakthroughs of 2015**
 

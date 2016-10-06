@@ -461,6 +461,12 @@ The project is dedicated to hero in life great Jesse Livermore.
 - blog: [https://blog.twitter.com/2016/reinforcement-learning-for-torch-introducing-torch-twrl](https://blog.twitter.com/2016/reinforcement-learning-for-torch-introducing-torch-twrl)
 - github: [https://github.com/twitter/torch-twrl](https://github.com/twitter/torch-twrl)
 
+**Alpha Toe - Using Deep learning to master Tic-Tac-Toe - Daniel Slater**
+
+- blog: [http://www.danielslater.net/2016/10/alphatoe.html](http://www.danielslater.net/2016/10/alphatoe.html)
+- youtube: [https://www.youtube.com/watch?v=Meb5hApAnj4](https://www.youtube.com/watch?v=Meb5hApAnj4)
+- github: [https://github.com/DanielSlater/AlphaToe](https://github.com/DanielSlater/AlphaToe)
+
 # Library
 
 **BURLAP: Brown-UMBC Reinforcement Learning and Planning (BURLAP) java code library**
@@ -574,6 +580,11 @@ The project is dedicated to hero in life great Jesse Livermore.
 
 [https://medium.com/@dhruvp/how-to-write-a-neural-network-to-play-pong-from-scratch-956b57d4f6e0#.n1pgn9chr](https://medium.com/@dhruvp/how-to-write-a-neural-network-to-play-pong-from-scratch-956b57d4f6e0#.n1pgn9chr)
 
+**Learning Reinforcement Learning (with Code, Exercises and Solutions)**
+
+- blog: [http://www.wildml.com/2016/10/learning-reinforcement-learning/](http://www.wildml.com/2016/10/learning-reinforcement-learning/)
+- github: [https://github.com/dennybritz/reinforcement-learning](https://github.com/dennybritz/reinforcement-learning)
+
 # Books
 
 **Reinforcement Learning: State-of-the-Art**
@@ -606,6 +617,12 @@ and together they truly represent a state-of-the-art of current reinforcement le
 - intro: explain and show the concept of self reinforcement learning combined with a neural network
 - blog: [https://medium.com/@danielzakrisson/the-self-learning-quant-d3329fcc9915#.9lsa5rh3e](https://medium.com/@danielzakrisson/the-self-learning-quant-d3329fcc9915#.9lsa5rh3e)
 - gihtub: [https://github.com/danielzak/sl-quant](https://github.com/danielzak/sl-quant)
+
+**Reinforcement Learning: An Introduction**
+
+- author: Richard S. Sutton and Andrew G. Barto
+- book: [https://webdocs.cs.ualberta.ca/~sutton/book/ebook/the-book.html](https://webdocs.cs.ualberta.ca/~sutton/book/ebook/the-book.html)
+- solutions: [https://github.com/btaba/intro-to-rl](https://github.com/btaba/intro-to-rl)
 
 # Resources
 

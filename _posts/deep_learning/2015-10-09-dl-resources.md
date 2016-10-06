@@ -829,6 +829,15 @@ with fast exact probabilistic inference over many layers."
 
 - github: [https://github.com/hardmaru/supercell/blob/master/supercell.py](https://github.com/hardmaru/supercell/blob/master/supercell.py)
 
+**X-CNN: Cross-modal Convolutional Neural Networks for Sparse Datasets**
+
+- arxiv: [https://arxiv.org/abs/1610.00163](https://arxiv.org/abs/1610.00163)
+
+**Video Pixel Networks**
+
+- intro: Google DeepMind
+- arxiv: [https://arxiv.org/abs/1610.00527](https://arxiv.org/abs/1610.00527)
+
 ## Highway Networks
 
 **Highway Networks**
@@ -890,6 +899,11 @@ with fast exact probabilistic inference over many layers."
 
 ## Graph Convolutional Networks
 
+**Convolutional Neural Networks on Graphs with Fast Localized Spectral Filtering**
+
+- arxiv: [https://arxiv.org/abs/1606.09375](https://arxiv.org/abs/1606.09375)
+- github: [https://github.com/mdeff/cnn_graph](https://github.com/mdeff/cnn_graph)
+
 **Semi-Supervised Classification with Graph Convolutional Networks**
 
 - arxiv: [http://arxiv.org/abs/1609.02907](http://arxiv.org/abs/1609.02907)
@@ -940,6 +954,14 @@ with fast exact probabilistic inference over many layers."
 
 - arxiv: [http://arxiv.org/abs/1603.01250](http://arxiv.org/abs/1603.01250)
 - notes: [http://blog.csdn.net/stdcoutzyx/article/details/50993124](http://blog.csdn.net/stdcoutzyx/article/details/50993124)
+
+## HMM
+
+**Unsupervised Neural Hidden Markov Models**
+
+- intro: EMNLP 2016
+- paper: [http://www.isi.edu/natural-language/mt/neural-hmm16.pdf](http://www.isi.edu/natural-language/mt/neural-hmm16.pdf)
+- github: [https://github.com/ketranm/neuralHMM](https://github.com/ketranm/neuralHMM)
 
 ## SVM
 
@@ -995,6 +1017,12 @@ with fast exact probabilistic inference over many layers."
 
 - blog: [https://www.oreilly.com/learning/how-to-build-a-robot-that-sees-with-100-and-tensorflow](https://www.oreilly.com/learning/how-to-build-a-robot-that-sees-with-100-and-tensorflow)
 
+**Deep Visual Foresight for Planning Robot Motion**
+
+- project page: [https://sites.google.com/site/brainrobotdata/](https://sites.google.com/site/brainrobotdata/)
+- arxiv: [https://arxiv.org/abs/1610.00696](https://arxiv.org/abs/1610.00696)
+- video: [https://sites.google.com/site/robotforesight/](https://sites.google.com/site/robotforesight/)
+
 # Deep Learning on Mobile Devices
 
 **Convolutional neural networks on the iPhone with VGGNet**
@@ -1037,6 +1065,10 @@ with fast exact probabilistic inference over many layers."
 - github(Keras): [https://github.com/basveeling/wavenet](https://github.com/basveeling/wavenet)
 - github: [https://github.com/ritheshkumar95/WaveNet](https://github.com/ritheshkumar95/WaveNet)
 
+**A TensorFlow implementation of DeepMind's WaveNet paper for text generation.**
+
+- github: [https://github.com/Zeta36/tensorflow-tex-wavenet](https://github.com/Zeta36/tensorflow-tex-wavenet)
+
 **Fast Wavenet: An efficient Wavenet generation implementation**
 
 ![](https://raw.githubusercontent.com/tomlepaine/fast-wavenet/master/assets/what-to-store.png)
@@ -1046,6 +1078,11 @@ with fast exact probabilistic inference over many layers."
 **Wav2Letter: an End-to-End ConvNet-based Speech Recognition System**
 
 - arxiv: [http://arxiv.org/abs/1609.03193](http://arxiv.org/abs/1609.03193)
+
+**TristouNet: Triplet Loss for Speaker Turn Embedding**
+
+- arxiv: [https://arxiv.org/abs/1609.04301](https://arxiv.org/abs/1609.04301)
+- github: [https://github.com/hbredin/TristouNet](https://github.com/hbredin/TristouNet)
 
 # Applications
 
@@ -1766,6 +1803,10 @@ Bicubic VS. Shepard CNN
 
 - arxiv: [http://arxiv.org/abs/1607.08381](http://arxiv.org/abs/1607.08381)
 
+**Gated Siamese Convolutional Neural Network Architecture for Human Re-Identification**
+
+- arxiv: [https://arxiv.org/abs/1607.08378](https://arxiv.org/abs/1607.08378)
+
 ## Music Tagging
 
 **Automatic tagging using deep convolutional neural networks**
@@ -1972,6 +2013,11 @@ Bicubic VS. Shepard CNN
 **A scalable convolutional neural network for task-specified scenarios via knowledge distillation**
 
 - arxiv: [http://arxiv.org/abs/1609.05695](http://arxiv.org/abs/1609.05695)
+
+**Alternating Back-Propagation for Generator Network**
+
+- project page(code+data): [http://www.stat.ucla.edu/~ywu/ABP/main.html](http://www.stat.ucla.edu/~ywu/ABP/main.html)
+- paper: [http://www.stat.ucla.edu/~ywu/ABP/doc/arXivABP.pdf](http://www.stat.ucla.edu/~ywu/ABP/doc/arXivABP.pdf)
 
 ## STDP
 

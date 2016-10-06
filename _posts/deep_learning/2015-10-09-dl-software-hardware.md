@@ -200,6 +200,11 @@ Contains all the popular DL frameworks (TensorFlow, Theano, Torch, Caffe, etc.)
 
 - blog: [https://www.top500.org/news/microsoft-goes-all-in-for-fpgas-to-build-out-cloud-based-ai/](https://www.top500.org/news/microsoft-goes-all-in-for-fpgas-to-build-out-cloud-based-ai/)
 
+**Caffeinated FPGAs: FPGA Framework For Convolutional Neural Networks**
+
+- arxiv: [https://arxiv.org/abs/1609.09671](https://arxiv.org/abs/1609.09671)
+- github: [https://github.com/dicecco1/fpga_caffe](https://github.com/dicecco1/fpga_caffe)
+
 # ARM / Processor
 
 **'Neural network' spotted deep inside Samsung's Galaxy S7 silicon brain: Secrets of Exynos M1 cores spilled**

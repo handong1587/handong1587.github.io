@@ -99,6 +99,11 @@ date: 2015-10-09
 
 [http://blogs.aws.amazon.com/bigdata/post/TxGEL8IJ0CAXTK/Generating-Recommendations-at-Amazon-Scale-with-Apache-Spark-and-Amazon-DSSTNE](http://blogs.aws.amazon.com/bigdata/post/TxGEL8IJ0CAXTK/Generating-Recommendations-at-Amazon-Scale-with-Apache-Spark-and-Amazon-DSSTNE)
 
+**Recommending movies with deep learning**
+
+- blog: [http://blog.richardweiss.org/2016/09/25/movie-embeddings.html](http://blog.richardweiss.org/2016/09/25/movie-embeddings.html)
+- ipn: [https://github.com/ririw/ririw.github.io/blob/master/assets/Recommending%20movies.ipynb](https://github.com/ririw/ririw.github.io/blob/master/assets/Recommending%20movies.ipynb)
+
 # Projects
 
 **NNRec: Neural models for Collaborative Filtering**

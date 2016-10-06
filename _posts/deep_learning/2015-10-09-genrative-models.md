@@ -81,6 +81,11 @@ date: 2015-10-09
 
 - github: [https://github.com/AustinStoneProjects/TextGAN](https://github.com/AustinStoneProjects/TextGAN)
 
+**cleverhans v0.1: an adversarial machine learning library**
+
+- arxiv: [https://arxiv.org/abs/1610.00768](https://arxiv.org/abs/1610.00768)
+- github: [https://github.com/openai/cleverhans](https://github.com/openai/cleverhans)
+
 # Blogs
 
 **Generative Adversial Networks Explained**

@@ -140,6 +140,12 @@ date: 2015-10-09
 - intro: state of the art on NUS-WIDE, ImageNet-YahooQA
 - arxiv: [http://arxiv.org/abs/1608.04307](http://arxiv.org/abs/1608.04307)
 
+**The Sketchy Database: Learning to Retrieve Badly Drawn Bunnies**
+
+- project page: [http://sketchy.eye.gatech.edu/](http://sketchy.eye.gatech.edu/)
+- paper: [http://www.cc.gatech.edu/~hays/tmp/sketchy-database.pdf](http://www.cc.gatech.edu/~hays/tmp/sketchy-database.pdf)
+- github: [https://github.com/janesjanes/sketchy](https://github.com/janesjanes/sketchy)
+
 # Video Indexing / Retrieval
 
 **Face Video Retrieval via Deep Learning of Binary Hash Representations**

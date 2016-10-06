@@ -93,7 +93,11 @@ with the style of another image using convolutional neural networks
 
 **Perceptual Losses for Real-Time Style Transfer and Super-Resolution**
 
+![](https://github.com/jcjohnson/fast-neural-style/blob/master/images/webcam.gif?raw=true)
+
+- intro: Justin Johnson, Alexandre Alahi, Li Fei-Fei. ECCV 2016
 - arxiv: [http://arxiv.org/abs/1603.08155](http://arxiv.org/abs/1603.08155)
+- github: [https://github.com/jcjohnson/fast-neural-style](https://github.com/jcjohnson/fast-neural-style)
 - github: [https://github.com/yusuketomoto/chainer-fast-neuralstyle](https://github.com/yusuketomoto/chainer-fast-neuralstyle)
 - github: [https://github.com/awentzonline/keras-rtst](https://github.com/awentzonline/keras-rtst)
 

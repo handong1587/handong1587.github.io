@@ -760,6 +760,25 @@ including all the relevant classifiers available today
 
 - blog: [http://activisiongamescience.github.io/2016/08/19/Assessing-Stability-of-K-Means-Clusterings/](http://activisiongamescience.github.io/2016/08/19/Assessing-Stability-of-K-Means-Clusterings/)
 
+**Cross-Validation Gone Wrong**
+
+- blog: [http://betatim.github.io/posts/cross-validation-gone-wrong/](http://betatim.github.io/posts/cross-validation-gone-wrong/)
+- ipn: [http://nbviewer.jupyter.org/url/betatim.github.io//downloads/notebooks/cross_validation.ipynb](http://nbviewer.jupyter.org/url/betatim.github.io//downloads/notebooks/cross_validation.ipynb)
+
+## Model evaluation, model selection, and algorithm selection in machine learning
+
+**Part I - The basics**
+
+[http://sebastianraschka.com/blog/2016/model-evaluation-selection-part1.html](http://sebastianraschka.com/blog/2016/model-evaluation-selection-part1.html)
+
+**Part II - Bootstrapping and uncertainties**
+
+[http://sebastianraschka.com/blog/2016/model-evaluation-selection-part2.html](http://sebastianraschka.com/blog/2016/model-evaluation-selection-part2.html)
+
+**Part III - Cross-validation and hyperparameter tuning**
+
+[http://sebastianraschka.com/blog/2016/model-evaluation-selection-part3.html](http://sebastianraschka.com/blog/2016/model-evaluation-selection-part3.html)
+
 ## ROC Curve
 
 **Tutorials: Plotting AP and ROC curves**

@@ -481,6 +481,10 @@ date: 2015-10-09
 - blog: [http://yerevann.github.io/2016/09/09/automatic-transliteration-with-lstm/](http://yerevann.github.io/2016/09/09/automatic-transliteration-with-lstm/)
 - github: [https://github.com/YerevaNN/translit-rnn](https://github.com/YerevaNN/translit-rnn)
 
+**tf_lstm.py: Simple implementation of LSTM in Tensorflow in 50 lines (+ 130 lines of data generation and comments)**
+
+- gist: [https://gist.github.com/nivwusquorum/b18ce332bde37e156034e5d3f60f8a23](https://gist.github.com/nivwusquorum/b18ce332bde37e156034e5d3f60f8a23)
+
 # Blogs
 
 **Survey on Attention-based Models Applied in NLP**

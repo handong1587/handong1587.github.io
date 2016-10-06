@@ -115,6 +115,12 @@ without running into obstacles using a type of reinforcement learning called Q-L
 
 - github: [https://github.com/CPFL/Autoware](https://github.com/CPFL/Autoware)
 
+**Open Sourcing 223GB of Driving Data**
+
+- homepage: [https://udacity.com/self-driving-car](https://udacity.com/self-driving-car)
+- blog: [https://medium.com/udacity/open-sourcing-223gb-of-mountain-view-driving-data-f6b5593fbfa5#.q8nk5bfpp](https://medium.com/udacity/open-sourcing-223gb-of-mountain-view-driving-data-f6b5593fbfa5#.q8nk5bfpp)
+- github: [https://github.com/udacity/self-driving-car](https://github.com/udacity/self-driving-car)
+
 # Blogs
 
 **Self-driving cars: How far away are we REALLY from autonomous cars?(7 Aug 2015)**
