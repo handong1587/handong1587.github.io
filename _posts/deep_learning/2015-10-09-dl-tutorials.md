@@ -346,6 +346,14 @@ date: 2015-10-09
 
 [https://www.analyticsvidhya.com/blog/2016/10/an-introduction-to-implementing-neural-networks-using-tensorflow/](https://www.analyticsvidhya.com/blog/2016/10/an-introduction-to-implementing-neural-networks-using-tensorflow/)
 
+**A Gentle Introduction to Convolutional Neural Networks**
+
+- blog: [https://miguelgfierro.com/blog/2016/a-gentle-introduction-to-convolutional-neural-networks/](https://miguelgfierro.com/blog/2016/a-gentle-introduction-to-convolutional-neural-networks/)
+
+**Beginning Machine Learning with Keras and TensorFlow**
+
+- blog: [http://blog.thoughtram.io/machine-learning/2016/09/23/beginning-ml-with-keras-and-tensorflow.html](http://blog.thoughtram.io/machine-learning/2016/09/23/beginning-ml-with-keras-and-tensorflow.html)
+
 # Convolution
 
 ![](/assets/cnn-materials/conv.jpg)

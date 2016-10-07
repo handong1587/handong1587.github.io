@@ -756,8 +756,6 @@ This task involves predicting the salient regions of an image given by human eye
 
 # Object Proposal
 
-## DeepProposal
-
 **DeepProposal: Hunting Objects by Cascading Deep Convolutional Layers**
 
 - arxiv: [http://arxiv.org/abs/1510.04445](http://arxiv.org/abs/1510.04445)
@@ -767,6 +765,12 @@ This task involves predicting the salient regions of an image given by human eye
 
 - intro: IEEE Transactions on Image Processing
 - arxiv: [http://arxiv.org/abs/1601.04798](http://arxiv.org/abs/1601.04798)
+
+**Attend Refine Repeat: Active Box Proposal Generation via In-Out Localization**
+
+- intro: AttractioNet
+- arxiv: [https://arxiv.org/abs/1606.04446](https://arxiv.org/abs/1606.04446)
+- github: [https://github.com/gidariss/AttractioNet](https://github.com/gidariss/AttractioNet)
 
 # Localization
 
@@ -792,8 +796,6 @@ This task involves predicting the salient regions of an image given by human eye
 - paper: [http://www.umiacs.umd.edu/~varun/files/refexp-ECCV16.pdf](http://www.umiacs.umd.edu/~varun/files/refexp-ECCV16.pdf)
 - github: [https://github.com/varun-nagaraja/referring-expressions](https://github.com/varun-nagaraja/referring-expressions)
 
-## LocNet
-
 **LocNet: Improving Localization Accuracy for Object Detection**
 
 - arxiv: [http://arxiv.org/abs/1511.07763](http://arxiv.org/abs/1511.07763)
@@ -808,8 +810,6 @@ This task involves predicting the salient regions of an image given by human eye
 - github(Tensorflow): [https://github.com/jazzsaxmafia/Weakly_detector](https://github.com/jazzsaxmafia/Weakly_detector)
 - github: [https://github.com/metalbubble/CAM](https://github.com/metalbubble/CAM)
 - github: [https://github.com/tdeboissiere/VGG16CAM-keras](https://github.com/tdeboissiere/VGG16CAM-keras)
-
-## ContextLocNet
 
 **ContextLocNet: Context-Aware Deep Network Models for Weakly Supervised Localization**
 

@@ -587,6 +587,16 @@ The size of their dataset is, however, limited by the availability of domain-spe
 
 - github: [https://github.com/raulmur/ORB_SLAM2](https://github.com/raulmur/ORB_SLAM2)
 
+**Cartographer**
+
+- intro: Cartographer is a system that provides real-time simultaneous localization 
+and mapping (SLAM) in 2D and 3D across multiple platforms and sensor configurations.
+- github: [https://github.com/googlecartographer/cartographer](https://github.com/googlecartographer/cartographer)
+
+**Introducing Cartographer**
+
+- blog: [https://opensource.googleblog.com/2016/10/introducing-cartographer.html](https://opensource.googleblog.com/2016/10/introducing-cartographer.html)
+
 # Optical Flow
 
 **A Database and Evaluation Methodology for Optical Flow**

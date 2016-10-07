@@ -122,7 +122,7 @@ not just the convolutions)
 
 - blog: [https://gab41.lab41.org/lab41-reading-group-deep-residual-learning-for-image-recognition-ffeb94745a1f](https://gab41.lab41.org/lab41-reading-group-deep-residual-learning-for-image-recognition-ffeb94745a1f)
 
-## ResNet-v2
+## ResNet-V2
 
 **Identity 89Mappings in Deep Residual Networks**
 
@@ -168,7 +168,7 @@ not just the convolutions)
 - arxiv: [http://arxiv.org/abs/1602.07261](http://arxiv.org/abs/1602.07261)
 - github: [https://github.com/lim0606/torch-inception-resnet-v2](https://github.com/lim0606/torch-inception-resnet-v2)
 
-## Inception-ResNet-v2
+## Inception-ResNet-V2
 
 - - -
 
@@ -1084,6 +1084,13 @@ with fast exact probabilistic inference over many layers."
 - arxiv: [https://arxiv.org/abs/1609.04301](https://arxiv.org/abs/1609.04301)
 - github: [https://github.com/hbredin/TristouNet](https://github.com/hbredin/TristouNet)
 
+**Speech Recognion and Deep Learning**
+
+- intro: Baidu Research Silicon Valley AI Lab
+- slides: [http://cs.stanford.edu/~acoates/ba_dls_speech2016.pdf](http://cs.stanford.edu/~acoates/ba_dls_speech2016.pdf)
+- mirror: [https://pan.baidu.com/s/1qYrPkPQ](https://pan.baidu.com/s/1qYrPkPQ)
+- github: [https://github.com/baidu-research/ba-dls-deepspeech](https://github.com/baidu-research/ba-dls-deepspeech)
+
 # Applications
 
 **Some like it hot - visual guidance for preference prediction**
@@ -1216,6 +1223,11 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 - intro: ACCV 2016
 - arxiv: [http://arxiv.org/abs/1512.04103](http://arxiv.org/abs/1512.04103)
 - github: [https://github.com/yassersouri/ghiaseddin](https://github.com/yassersouri/ghiaseddin)
+
+**Deep Gold: Using Convolution Networks to Find Minerals**
+
+- blog: [https://hackernoon.com/deep-gold-using-convolution-networks-to-find-minerals-aafdb37355df#.lgh95ub4a](https://hackernoon.com/deep-gold-using-convolution-networks-to-find-minerals-aafdb37355df#.lgh95ub4a)
+- github: [https://github.com/scottvallance/DeepGold](https://github.com/scottvallance/DeepGold)
 
 ## Age Estimation
 
@@ -2220,6 +2232,15 @@ Compatible with Theano and TensorFlow. Optimized for Twitter.
 **DeepForge: A development environment for deep learning**
 
 - github: [https://github.com/dfst/deepforge](https://github.com/dfst/deepforge)
+
+**Implementation of recent Deep Learning papers**
+
+- intro: DenseNet / DeconvNet / DenseRecNet
+- github: [https://github.com/tdeboissiere/DeepLearningImplementations](https://github.com/tdeboissiere/DeepLearningImplementations)
+
+**GPU-accelerated Theano & Keras on Windows 10 native**
+
+- github: [https://github.com/philferriere/dlwin](https://github.com/philferriere/dlwin)
 
 # Readings and Questions
 

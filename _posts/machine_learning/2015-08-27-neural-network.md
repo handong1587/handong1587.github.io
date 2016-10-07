@@ -74,9 +74,9 @@ date: 2015-08-27
 
 [http://blog.asidatascience.com/training-neural-networks-with-theano/](http://blog.asidatascience.com/training-neural-networks-with-theano/)
 
-**Neural networks module for Redis**
+**An Introduction to Machine Learning in Julia**
 
-- github: [https://github.com/antirez/neural-redis](https://github.com/antirez/neural-redis)
+[http://juliacomputing.com/blog/2016/09/28/knn-char-recognition.html](http://juliacomputing.com/blog/2016/09/28/knn-char-recognition.html)
 
 ## Backpropagation
 
@@ -167,6 +167,14 @@ date: 2015-08-27
 
 - intro: It includes the neural net implementation and a Matrix class for basic linear algebra operations
 - github: [https://github.com/stagadish/NNplusplus](https://github.com/stagadish/NNplusplus)
+
+**Neural networks module for Redis**
+
+- github: [https://github.com/antirez/neural-redis](https://github.com/antirez/neural-redis)
+
+**Neural Nets in native Haskell**
+
+- github: [https://github.com/brunjlar/neural](https://github.com/brunjlar/neural)
 
 # Videos
 

@@ -15,14 +15,16 @@ date: 2015-10-09
 
 ## ReLU
 
-**Rectified linear units improve restricted boltzmann machines (ReLU)**
+**Rectified linear units improve restricted boltzmann machines**
 
+- intro: ReLU
 - paper: [http://machinelearning.wustl.edu/mlpapers/paper_files/icml2010_NairH10.pdf](http://machinelearning.wustl.edu/mlpapers/paper_files/icml2010_NairH10.pdf)
 
 ## LReLU
 
-**Rectifier Nonlinearities Improve Neural Network Acoustic Models (leaky-ReLU, aka LReLU)**
+**Rectifier Nonlinearities Improve Neural Network Acoustic Models**
 
+- intro: leaky-ReLU, aka LReLU
 - paper: [http://ai.stanford.edu/~amaas/papers/relu_hybrid_icml2013_final.pdf](http://ai.stanford.edu/~amaas/papers/relu_hybrid_icml2013_final.pdf)
 
 **Deep Sparse Rectifier Neural Networks**
@@ -31,27 +33,30 @@ date: 2015-10-09
 
 ## PReLU
 
-**Delving Deep into Rectifiers: Surpassing Human-Level Performance on ImageNet Classification (PReLU)**
+**Delving Deep into Rectifiers: Surpassing Human-Level Performance on ImageNet Classification**
 
 - keywords: PReLU, Caffe "msra" weights initilization
 - arxiv: [http://arxiv.org/abs/1502.01852](http://arxiv.org/abs/1502.01852)
 
-**Empirical Evaluation of Rectified Activations in Convolutional Network (ReLU/LReLU/PReLU/RReLU)**
+**Empirical Evaluation of Rectified Activations in Convolutional Network**
 
+- intro: ReLU / LReLU / PReLU / RReLU
 - arxiv: [http://arxiv.org/abs/1505.00853](http://arxiv.org/abs/1505.00853)
 
 ## SReLU
 
-**Deep Learning with S-shaped Rectified Linear Activation Units (SReLU)**
+**Deep Learning with S-shaped Rectified Linear Activation Units**
 
+- intro:  SReLU
 - arxiv: [http://arxiv.org/abs/1512.07030](http://arxiv.org/abs/1512.07030)
 
 **Parametric Activation Pools greatly increase performance and consistency in ConvNets**
 
 - blog: [http://blog.claymcleod.io/2016/02/06/Parametric-Activation-Pools-greatly-increase-performance-and-consistency-in-ConvNets/](http://blog.claymcleod.io/2016/02/06/Parametric-Activation-Pools-greatly-increase-performance-and-consistency-in-ConvNets/)
 
-**From Softmax to Sparsemax: A Sparse Model of Attention and Multi-Label Classification (ICML 2016)**
+**From Softmax to Sparsemax: A Sparse Model of Attention and Multi-Label Classification**
 
+- intro: ICML 2016
 - arxiv: [http://arxiv.org/abs/1602.02068](http://arxiv.org/abs/1602.02068)
 - github: [https://github.com/gokceneraslan/SparseMax.torch](https://github.com/gokceneraslan/SparseMax.torch)
 
@@ -65,8 +70,9 @@ date: 2015-10-09
 
 ## MBA
 
-**Multi-Bias Non-linear Activation in Deep Neural Networks (MBA)**
+**Multi-Bias Non-linear Activation in Deep Neural Networks**
 
+- intro: MBA
 - arxiv: [https://arxiv.org/abs/1604.00676](https://arxiv.org/abs/1604.00676)
 
 **Learning activation functions from data using cubic spline interpolation**
@@ -148,7 +154,7 @@ date: 2015-10-09
 
 ## Batch Normalization
 
-**Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift(ImageNet top-5 error: 4.82%)**
+**Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift**
 
 - intro: ImageNet top-5 error: 4.82% 
 - keywords: internal covariate shift problem
@@ -262,9 +268,10 @@ date: 2015-10-09
 
 # Tensor Methods
 
-**Tensorizing Neural Networks (TensorNet)**
+**Tensorizing Neural Networks**
 
-- paper: [http://arxiv.org/abs/1509.06569v1](http://arxiv.org/abs/1509.06569v1)
+- intro: TensorNet
+- arxiv: [http://arxiv.org/abs/1509.06569](http://arxiv.org/abs/1509.06569)
 - github(Matlab+Theano+Lasagne): [https://github.com/Bihaqo/TensorNet](https://github.com/Bihaqo/TensorNet)
 - github(TensorFlow): [https://github.com/timgaripov/TensorNet-TF](https://github.com/timgaripov/TensorNet-TF)
 
@@ -277,17 +284,20 @@ date: 2015-10-09
 
 # Regularization
 
-**DisturbLabel: Regularizing CNN on the Loss Layer [University of California & MSR] (2016)**
+**DisturbLabel: Regularizing CNN on the Loss Layer**
 
+- intro:  University of California & MSR 2016
 - intro: "an extremely simple algorithm which randomly replaces a part of labels as incorrect values in each iteration"
 - paper: [http://research.microsoft.com/en-us/um/people/jingdw/pubs/cvpr16-disturblabel.pdf](http://research.microsoft.com/en-us/um/people/jingdw/pubs/cvpr16-disturblabel.pdf)
 
-**Robust Convolutional Neural Networks under Adversarial Noise (ICLR 2016)**
+**Robust Convolutional Neural Networks under Adversarial Noise**
 
+- intro:  ICLR 2016
 - arxiv: [http://arxiv.org/abs/1511.06306](http://arxiv.org/abs/1511.06306)
 
-**Adding Gradient Noise Improves Learning for Very Deep Networks (ICLR 2016)**
+**Adding Gradient Noise Improves Learning for Very Deep Networks**
 
+- intro:  ICLR 2016
 - arxiv: [http://arxiv.org/abs/1511.06807](http://arxiv.org/abs/1511.06807)
 
 **Stochastic Function Norm Regularization of Deep Networks**
@@ -301,8 +311,9 @@ date: 2015-10-09
 
 ## Dropout
 
-**Improving neural networks by preventing co-adaptation of feature detectors (Dropout)**
+**Improving neural networks by preventing co-adaptation of feature detectors**
 
+- intro: Dropout
 - arxiv: [http://arxiv.org/abs/1207.0580](http://arxiv.org/abs/1207.0580)
 
 **Dropout: A Simple Way to Prevent Neural Networks from Overfitting**
@@ -359,7 +370,7 @@ date: 2015-10-09
 
 ## AdaGrad
 
-**Adaptive Subgradient Methods for Online Learning and Stochastic Optimization (AdaGrad)**
+**Adaptive Subgradient Methods for Online Learning and Stochastic Optimization**
 
 - paper: [http://www.jmlr.org/papers/volume12/duchi11a/duchi11a.pdf](http://www.jmlr.org/papers/volume12/duchi11a/duchi11a.pdf)
 
@@ -369,8 +380,9 @@ date: 2015-10-09
 
 ## Momentum
 
-**On the importance of initialization and momentum in deep learning (NAG: Nesterov)**
+**On the importance of initialization and momentum in deep learning**
 
+- intro:  NAG: Nesterov
 - paper: [http://www.cs.toronto.edu/~fritz/absps/momentum.pdf](http://www.cs.toronto.edu/~fritz/absps/momentum.pdf)
 - paper: [http://jmlr.org/proceedings/papers/v28/sutskever13.pdf](http://jmlr.org/proceedings/papers/v28/sutskever13.pdf)
 
@@ -436,8 +448,9 @@ date: 2015-10-09
 
 # Accelerate Training
 
-**Neural Networks with Few Multiplications (ICLR 2016)**
+**Neural Networks with Few Multiplications**
 
+- intro:  ICLR 2016
 - arxiv: [https://arxiv.org/abs/1510.03009](https://arxiv.org/abs/1510.03009)
 
 **Acceleration of Deep Neural Network Training with Resistive Cross-Point Devices**
@@ -478,16 +491,23 @@ date: 2015-10-09
 
 - blog: [http://machinelearningmastery.com/image-augmentation-deep-learning-keras/](http://machinelearningmastery.com/image-augmentation-deep-learning-keras/)
 
+**What you need to know about data augmentation for machine learning**
+
+- intro: keras Imagegenerator
+- blog: [https://cartesianfaith.com/2016/10/06/what-you-need-to-know-about-data-augmentation-for-machine-learning/](https://cartesianfaith.com/2016/10/06/what-you-need-to-know-about-data-augmentation-for-machine-learning/)
+
 # Low Numerical Precision
 
-**Training deep neural networks with low precision multiplications (ICLR 2015)**
+**Training deep neural networks with low precision multiplications**
 
+- intro: ICLR 2015
 - intro: Maxout networks, 10-bit activations, 12-bit parameter updates
 - arxiv: [http://arxiv.org/abs/1412.7024](http://arxiv.org/abs/1412.7024)
 - github: [https://github.com/MatthieuCourbariaux/deep-learning-multipliers](https://github.com/MatthieuCourbariaux/deep-learning-multipliers)
 
-**Deep Learning with Limited Numerical Precision (ICML 2015)**
+**Deep Learning with Limited Numerical Precision**
 
+- intro: ICML 2015
 - arxiv: [http://arxiv.org/abs/1502.02551](http://arxiv.org/abs/1502.02551)
 
 **BinaryConnect: Training Deep Neural Networks with binary weights during propagations**

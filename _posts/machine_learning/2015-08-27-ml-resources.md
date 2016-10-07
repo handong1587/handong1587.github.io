@@ -456,6 +456,11 @@ Classic strategies:
 
 # Recommendation / Recommender System
 
+**Master Recommender Systems**
+
+- intro: Learn how to design, building and evaluate recommender systems for commerce and content.
+- course page: [https://www.coursera.org/specializations/recommender-systems](https://www.coursera.org/specializations/recommender-systems)
+
 **Human Curation and Convnets: Powering Item-to-Item Recommendations on Pinterest**
 
 - paper: [https://engineering.pinterest.com/sites/engineering/files/article/fields/field_image/human-curation-convnets%20%281%29.pdf](https://engineering.pinterest.com/sites/engineering/files/article/fields/field_image/human-curation-convnets%20%281%29.pdf)

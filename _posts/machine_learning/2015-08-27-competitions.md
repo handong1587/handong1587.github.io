@@ -111,3 +111,11 @@ date: 2015-08-27
 **How should a beginner get started on Kaggle?**
 
 - quora: [https://www.quora.com/How-should-a-beginner-get-started-on-Kaggle](https://www.quora.com/How-should-a-beginner-get-started-on-Kaggle)
+
+**Most popular kaggle competition solutions**
+
+[http://dataaspirant.com/2016/10/06/most-popular-kaggle-competition-solutions/](http://dataaspirant.com/2016/10/06/most-popular-kaggle-competition-solutions/)
+
+**Code for Kaggle Competitions**
+
+- github: [https://github.com/tdeboissiere/Kaggle](https://github.com/tdeboissiere/Kaggle)

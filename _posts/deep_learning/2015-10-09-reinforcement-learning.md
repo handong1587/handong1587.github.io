@@ -585,6 +585,10 @@ The project is dedicated to hero in life great Jesse Livermore.
 - blog: [http://www.wildml.com/2016/10/learning-reinforcement-learning/](http://www.wildml.com/2016/10/learning-reinforcement-learning/)
 - github: [https://github.com/dennybritz/reinforcement-learning](https://github.com/dennybritz/reinforcement-learning)
 
+**Deep Reinforcement Learning: Playing a Racing Game**
+
+[https://lopespm.github.io/machine_learning/2016/10/06/deep-reinforcement-learning-racing-game.html](https://lopespm.github.io/machine_learning/2016/10/06/deep-reinforcement-learning-racing-game.html)
+
 # Books
 
 **Reinforcement Learning: State-of-the-Art**

@@ -9,12 +9,13 @@ date: 2015-08-27
 
 **Probabilistic Graphical Models**
 
+- intro: Master a new way of reasoning and learning in complex domains
 - instructor: Daphne Koller, Professor
 - coursera: [https://www.coursera.org/learn/probabilistic-graphical-models](https://www.coursera.org/learn/probabilistic-graphical-models)
 
 # Resources
 
-"A Brief Introduction to Graphical Models and Bayesian Networks"
+**A Brief Introduction to Graphical Models and Bayesian Networks**
 
 [http://www.cs.ubc.ca/~murphyk/Bayes/bnintro.html](http://www.cs.ubc.ca/~murphyk/Bayes/bnintro.html)
 
@@ -22,8 +23,9 @@ date: 2015-08-27
 
 - paper: [http://www.cis.upenn.edu/~mkearns/papers/barbados/jordan-tut.pdf](http://www.cis.upenn.edu/~mkearns/papers/barbados/jordan-tut.pdf)
 
-**Human-level concept learning through probabilistic program induction (Science 2015)**
+**Human-level concept learning through probabilistic program induction**
 
+- intro:  Science 2015
 - paper: [http://cdn1.almosthuman.cn/wp-content/uploads/2015/12/Human-level-concept-learning-through-probabilistic-program-induction.pdf](http://cdn1.almosthuman.cn/wp-content/uploads/2015/12/Human-level-concept-learning-through-probabilistic-program-induction.pdf)
 - article: [http://www.sciencemag.org/content/350/6266/1332.full](http://www.sciencemag.org/content/350/6266/1332.full)
 - github: [https://github.com/brendenlake/BPL](https://github.com/brendenlake/BPL)

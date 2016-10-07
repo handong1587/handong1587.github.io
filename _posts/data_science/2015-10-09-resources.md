@@ -15,6 +15,11 @@ date: 2015-10-09
 
 [http://inverseprobability.com/2016/07/01/data-science-challenges](http://inverseprobability.com/2016/07/01/data-science-challenges)
 
+**Foundations of Data Science**
+
+- intro: John Hopcroft and Ravindran Kannan
+- book: [https://www.cs.cornell.edu/jeh/book2016June9.pdf](https://www.cs.cornell.edu/jeh/book2016June9.pdf)
+
 # Tutorials
 
 **Intelligent Data Analysis**
