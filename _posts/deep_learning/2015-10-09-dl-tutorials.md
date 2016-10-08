@@ -354,6 +354,10 @@ date: 2015-10-09
 
 - blog: [http://blog.thoughtram.io/machine-learning/2016/09/23/beginning-ml-with-keras-and-tensorflow.html](http://blog.thoughtram.io/machine-learning/2016/09/23/beginning-ml-with-keras-and-tensorflow.html)
 
+**Shortest Way to Deep Learning**
+
+- blog: [https://blog.asadmemon.com/shortest-way-to-deep-learning-41e704d65ef#.19iowho8t](https://blog.asadmemon.com/shortest-way-to-deep-learning-41e704d65ef#.19iowho8t)
+
 # Convolution
 
 ![](/assets/cnn-materials/conv.jpg)

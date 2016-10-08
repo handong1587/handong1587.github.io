@@ -309,6 +309,12 @@ date: 2015-10-09
 
 - arxiv: [http://arxiv.org/abs/1609.06693](http://arxiv.org/abs/1609.06693)
 
+**Regularizing neural networks by penalizing confident predictions**
+
+- intro: Gabriel Pereyra, George Tucker, Lukasz Kaiser, Geoffrey Hinton [Google Brain
+- dropbox: [https://www.dropbox.com/s/8kqf4v2c9lbnvar/BayLearn%202016%20(gjt).pdf?dl=0](https://www.dropbox.com/s/8kqf4v2c9lbnvar/BayLearn%202016%20(gjt).pdf?dl=0)
+- mirror: [https://pan.baidu.com/s/1kUUtxdl](https://pan.baidu.com/s/1kUUtxdl)
+
 ## Dropout
 
 **Improving neural networks by preventing co-adaptation of feature detectors**

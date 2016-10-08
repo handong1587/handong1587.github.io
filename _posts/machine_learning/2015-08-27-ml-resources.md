@@ -790,7 +790,11 @@ including all the relevant classifiers available today
 
 [http://sebastianraschka.com/blog/2016/model-evaluation-selection-part3.html](http://sebastianraschka.com/blog/2016/model-evaluation-selection-part3.html)
 
-## ROC Curve
+## ROC / AUC
+
+ROC: Receiver Operating Characteristic
+
+AUC: Area Under the Curve
 
 **Tutorials: Plotting AP and ROC curves**
 
@@ -801,6 +805,10 @@ including all the relevant classifiers available today
 ![](https://www.unc.edu/courses/2006spring/ecol/145/001/images/lectures/lecture37/fig4.png)
 
 [http://jxieeducation.com/2016-09-27/Beautiful-Properties-Of-The-ROC-Curve/](http://jxieeducation.com/2016-09-27/Beautiful-Properties-Of-The-ROC-Curve/)
+
+**On calculating AUC**
+
+- blog: [http://www.win-vector.com/blog/2016/10/on-calculating-auc/](http://www.win-vector.com/blog/2016/10/on-calculating-auc/)
 
 # Machine Learning Library
 

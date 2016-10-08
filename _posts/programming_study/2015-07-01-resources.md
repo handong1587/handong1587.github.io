@@ -139,6 +139,10 @@ It contains real examples with errors and the author gives explanations of how t
 - intro: Naive / Transposed / sdot / SSE sdot / SSE+tiling sdot / OpenBLAS / uBLAS / Eigen
 - github: [https://github.com/attractivechaos/matmul](https://github.com/attractivechaos/matmul)
 
+**ISAAC: Input-aware BLAS for super high-performance Linear Algebra on CUDA and OpenCL**
+
+- github: [https://github.com/ptillet/isaac](https://github.com/ptillet/isaac)
+
 # Python
 
 **Python Computing for Data Science: An Undergraduate/Graduate Seminar Course at UC Berkeley (AY 250)**

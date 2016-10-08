@@ -697,6 +697,11 @@ Compressed model is less than 500KB
 
 blog: [https://medium.com/backchannel/has-deepmind-really-passed-go-adc85e256bec#.inx8nfid0](https://medium.com/backchannel/has-deepmind-really-passed-go-adc85e256bec#.inx8nfid0)
 
+**A Return to Machine Learning**
+
+- intro: This post is aimed at artists and other creative people who are interested in a survey of recent developments in machine learning research that intersect with art and culture.
+- blog: [https://medium.com/@kcimc/a-return-to-machine-learning-2de3728558eb#.bp2b1ax2x](https://medium.com/@kcimc/a-return-to-machine-learning-2de3728558eb#.bp2b1ax2x)
+
 # Resources
 
 **Music, Art and Machine Intelligence Workshop 2016**

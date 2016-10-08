@@ -65,6 +65,10 @@ date: 2015-10-09
 - author: Junbo Zhao, Michael Mathieu, Yann LeCun
 - arxiv: [http://arxiv.org/abs/1609.03126](http://arxiv.org/abs/1609.03126)
 
+**Connecting Generative Adversarial Networks and Actor-Critic Methods**
+
+- arxiv: [https://arxiv.org/abs/1610.01945](https://arxiv.org/abs/1610.01945)
+
 # Projects
 
 **Generative Adversarial Networks with Keras**

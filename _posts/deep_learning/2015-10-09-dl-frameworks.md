@@ -579,6 +579,11 @@ Implementations and ideas are largely based on papers from arxiv and implementat
 
 - arxiv: [https://arxiv.org/abs/1610.01178](https://arxiv.org/abs/1610.01178)
 
+**TensorFlow Tutorials**
+
+- youtube: [https://www.youtube.com/playlist?list=PL9Hr9sNUjfsmEu1ZniY0XpHSzl5uihcXZ](https://www.youtube.com/playlist?list=PL9Hr9sNUjfsmEu1ZniY0XpHSzl5uihcXZ)
+- github: [https://github.com/Hvass-Labs/TensorFlow-Tutorials](https://github.com/Hvass-Labs/TensorFlow-Tutorials)
+
 # Theano
 
 **Theano**

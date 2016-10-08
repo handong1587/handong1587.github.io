@@ -33,16 +33,17 @@ date: 2015-10-09
 - github: [https://github.com/DanielSlater/PyDataLondon2016](https://github.com/DanielSlater/PyDataLondon2016)
 - youtube: [https://www.youtube.com/watch?v=n8NdT_3y9oY](https://www.youtube.com/watch?v=n8NdT_3y9oY)
 
-**Deep Reinforcement Learning: Pong from Pixels (Andrej Karpathy)**
+**Deep Reinforcement Learning: Pong from Pixels**
 
 ![](http://karpathy.github.io/assets/rl/preview.jpeg)
 
+- intro: Andrej Karpathy
 - blog: [http://karpathy.github.io/2016/05/31/rl/](http://karpathy.github.io/2016/05/31/rl/)
 - gist: [https://gist.github.com/karpathy/a4166c7fe253700972fcbc77e4ea32c5](https://gist.github.com/karpathy/a4166c7fe253700972fcbc77e4ea32c5)
 
-**Deep Reinforcement Learning (RLDM 2015)**
+**Deep Reinforcement Learning**
 
-- instructor: David Silver
+- instructor: David Silver. RLDM 2015
 - video: [http://videolectures.net/rldm2015_silver_reinforcement_learning/](http://videolectures.net/rldm2015_silver_reinforcement_learning/)
 
 **Deep Reinforcement Learning**
@@ -50,6 +51,37 @@ date: 2015-10-09
 - intro: David Silver [Google DeepMind]
 - video: [http://techtalks.tv/talks/deep-reinforcement-learning/62360/](http://techtalks.tv/talks/deep-reinforcement-learning/62360/)
 - slides: [http://hunch.net/~beygel/deep_rl_tutorial.pdf](http://hunch.net/~beygel/deep_rl_tutorial.pdf)
+
+## Simple Reinforcement Learning with Tensorflow
+
+**Part 0: Q-Learning with Tables and Neural Networks**
+
+[https://medium.com/emergent-future/simple-reinforcement-learning-with-tensorflow-part-0-q-learning-with-tables-and-neural-networks-d195264329d0#.oo105wa2t](https://medium.com/emergent-future/simple-reinforcement-learning-with-tensorflow-part-0-q-learning-with-tables-and-neural-networks-d195264329d0#.oo105wa2t)
+
+**Part 1 - Two-armed Bandit**
+
+[https://medium.com/@awjuliani/super-simple-reinforcement-learning-tutorial-part-1-fd544fab149#.tk89k51ob](https://medium.com/@awjuliani/super-simple-reinforcement-learning-tutorial-part-1-fd544fab149#.tk89k51ob)
+
+**Part 2 - Policy-based Agents**
+
+[https://medium.com/@awjuliani/super-simple-reinforcement-learning-tutorial-part-2-ded33892c724#.n2wytg9q0](https://medium.com/@awjuliani/super-simple-reinforcement-learning-tutorial-part-2-ded33892c724#.n2wytg9q0)
+
+**Part 3 - Model-Based RL**
+
+[https://medium.com/@awjuliani/simple-reinforcement-learning-with-tensorflow-part-3-model-based-rl-9a6fe0cce99#.742i2yj6p](https://medium.com/@awjuliani/simple-reinforcement-learning-with-tensorflow-part-3-model-based-rl-9a6fe0cce99#.742i2yj6p)
+
+**Part 4: Deep Q-Networks and Beyond**
+
+[https://medium.com/@awjuliani/simple-reinforcement-learning-with-tensorflow-part-4-deep-q-networks-and-beyond-8438a3e2b8df#.jox069crz](https://medium.com/@awjuliani/simple-reinforcement-learning-with-tensorflow-part-4-deep-q-networks-and-beyond-8438a3e2b8df#.jox069crz)
+
+**Part 5: Visualizing an Agent’s Thoughts and Actions**
+
+[https://medium.com/@awjuliani/simple-reinforcement-learning-with-tensorflow-part-5-visualizing-an-agents-thoughts-and-actions-4f27b134bb2a#.pluh6cygm](https://medium.com/@awjuliani/simple-reinforcement-learning-with-tensorflow-part-5-visualizing-an-agents-thoughts-and-actions-4f27b134bb2a#.pluh6cygm)
+
+**Part 6: Partial Observability and Deep Recurrent Q-Networks**
+
+- blog: [https://medium.com/emergent-future/simple-reinforcement-learning-with-tensorflow-part-6-partial-observability-and-deep-recurrent-q-68463e9aeefc#.3se46qkzy](https://medium.com/emergent-future/simple-reinforcement-learning-with-tensorflow-part-6-partial-observability-and-deep-recurrent-q-68463e9aeefc#.3se46qkzy)
+- github: [https://gist.github.com/awjuliani/35d2ab3409fc818011b6519f0f1629df](https://gist.github.com/awjuliani/35d2ab3409fc818011b6519f0f1629df)
 
 # Courses
 
