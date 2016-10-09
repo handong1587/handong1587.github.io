@@ -68,8 +68,9 @@ We aim to inspire a new generation of research into challenging new problems pre
 
 # Videos
 
-**The Future of AI (by Rich Sutton [UBC])**
+**The Future of AI**
 
+- intro: by Rich Sutton [UBC]
 - youtube: [https://www.youtube.com/watch?v=pD-FWetbvN8](https://www.youtube.com/watch?v=pD-FWetbvN8)
 - mirror: [http://pan.baidu.com/s/1dEbYp3N](http://pan.baidu.com/s/1dEbYp3N)
 
@@ -77,6 +78,11 @@ We aim to inspire a new generation of research into challenging new problems pre
 
 - author: Demis Hassabis, Google DeepMind
 - youtube: [https://www.youtube.com/watch?v=vQXAsdMa_8A](https://www.youtube.com/watch?v=vQXAsdMa_8A)
+
+**Artificial Intelligence Lecture Videos**
+
+- intro: MIT
+- homepage: [https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/lecture-videos/](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/lecture-videos/)
 
 # Resources
 

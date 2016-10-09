@@ -63,6 +63,7 @@ uncompress: sEx x FileName.*
 | Prints one entry per line of output (bare format) | ls -1a |
 
 Print lines 20 to 40:
+
 ```
 sed -n '20,40p;41q' file_name
 ```
@@ -70,7 +71,7 @@ sed -n '20,40p;41q' file_name
 or
 
 ```
-awk 'FNR>=20 && FNR<=40' file_name>'
+awk 'FNR>=20 && FNR<=40' file_name
 ```
 
 # Download

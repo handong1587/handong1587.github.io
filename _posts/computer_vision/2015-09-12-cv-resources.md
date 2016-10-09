@@ -597,6 +597,11 @@ and mapping (SLAM) in 2D and 3D across multiple platforms and sensor configurati
 
 - blog: [https://opensource.googleblog.com/2016/10/introducing-cartographer.html](https://opensource.googleblog.com/2016/10/introducing-cartographer.html)
 
+**Real-Time Loop Closure in 2D LIDAR SLAM**
+
+- intro: ICRA 2016. Google. Cartographer
+- paper: [http://static.googleusercontent.com/media/research.google.com/en//pubs/archive/45466.pdf](http://static.googleusercontent.com/media/research.google.com/en//pubs/archive/45466.pdf)
+
 # Optical Flow
 
 **A Database and Evaluation Methodology for Optical Flow**
