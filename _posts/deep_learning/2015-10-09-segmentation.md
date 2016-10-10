@@ -376,6 +376,14 @@ fine-tune the trained network with more challenging examples later
 
 - arxiv: [http://arxiv.org/abs/1605.09410](http://arxiv.org/abs/1605.09410)
 
+## TA-FCN
+
+**Translation-aware Fully Convolutional Instance Segmentation**
+
+- intro: winning entry of COCO segmentation challenge 2016
+- github: [https://github.com/daijifeng001/TA-FCN](https://github.com/daijifeng001/TA-FCN)
+- slides: [https://onedrive.live.com/?cid=f371d9563727b96f&id=F371D9563727B96F%2197213&authkey=%21AEYOyOirjIutSVk](https://onedrive.live.com/?cid=f371d9563727b96f&id=F371D9563727B96F%2197213&authkey=%21AEYOyOirjIutSVk)
+
 # Scene Labeling/Parsing
 
 **Indoor Semantic Segmentation using depth information**

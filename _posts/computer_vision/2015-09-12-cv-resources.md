@@ -767,6 +767,18 @@ Given a sample represented as a sequence of strokes, the parser is able to conve
 
 - github: [https://github.com/Shinao/SmartMirror](https://github.com/Shinao/SmartMirror)
 
+**Home Surveilance with Facial Recognition**
+
+![](https://raw.githubusercontent.com/BrandonJoffe/home_surveillance/prototype/system/debugging/dashboard.png)
+
+- github: [https://github.com/BrandonJoffe/home_surveillance](https://github.com/BrandonJoffe/home_surveillance)
+
+**Image unshredding using a TSP solver**
+
+![](https://camo.githubusercontent.com/fbf30f6bce6931eee114366a5dc3372f259451ff/68747470733a2f2f726f62696e686f7573746f6e2e6769746875622e696f2f696d6167652d756e736872656464696e672f696d616765732f6c656173742d737175617265732f626c75652d686f75722d70617269732e706e67)
+
+- github: [https://github.com/robinhouston/image-unshredding](https://github.com/robinhouston/image-unshredding)
+
 # Resources
 
 **Awesome Computer Vision**

@@ -838,6 +838,11 @@ with fast exact probabilistic inference over many layers."
 - intro: Google DeepMind
 - arxiv: [https://arxiv.org/abs/1610.00527](https://arxiv.org/abs/1610.00527)
 
+**Single Image 3D Interpreter Network**
+
+- intro: ECCV 2016 (oral)
+- arxiv: [https://arxiv.org/abs/1604.08685](https://arxiv.org/abs/1604.08685)
+
 ## Highway Networks
 
 **Highway Networks**

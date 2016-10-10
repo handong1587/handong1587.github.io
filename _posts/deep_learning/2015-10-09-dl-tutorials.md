@@ -332,6 +332,7 @@ date: 2015-10-09
 
 - intro: Video playlist of Torch Video Tutorials
 - youtube: [https://www.youtube.com/playlist?list=PLLHTzKZzVU9ebuL6DCclzI54MrPNFGqbW](https://www.youtube.com/playlist?list=PLLHTzKZzVU9ebuL6DCclzI54MrPNFGqbW)
+- mirror: [https://pan.baidu.com/s/1skMFGkt](https://pan.baidu.com/s/1skMFGkt)
 
 **A simple workflow for deep learning**
 

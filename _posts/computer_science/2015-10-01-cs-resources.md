@@ -81,3 +81,8 @@ date: 2015-10-01
 ![](http://www.nepsu.com/blog/img/nepsu_pcbdesignguide/mainpcblgoptimus.jpeg)
 
 - blog: [http://www.nepsu.com/nepsu_ultimate_pcb_design_guide.html](http://www.nepsu.com/nepsu_ultimate_pcb_design_guide.html)
+
+**How Humans Solve Complex Problems: The Case of the Knapsack Problem**
+
+- intro: Nature
+- paper: [http://www.nature.com/articles/srep34851](http://www.nature.com/articles/srep34851)

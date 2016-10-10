@@ -569,6 +569,11 @@ date: 2015-10-09
 
 [https://civisanalytics.com/blog/data-science/2016/09/22/neural-network-visualization/](https://civisanalytics.com/blog/data-science/2016/09/22/neural-network-visualization/)
 
+**A simple design pattern for recurrent deep learning in TensorFlow**
+
+- blog: [https://medium.com/@devnag/a-simple-design-pattern-for-recurrent-deep-learning-in-tensorflow-37aba4e2fd6b#.homq9zsyr](https://medium.com/@devnag/a-simple-design-pattern-for-recurrent-deep-learning-in-tensorflow-37aba4e2fd6b#.homq9zsyr)
+- github: [https://github.com/devnag/tensorflow-bptt](https://github.com/devnag/tensorflow-bptt)
+
 ## Optimizing RNN (Baidu Silicon Valley AI Lab)
 
 **Optimizing RNN performance**

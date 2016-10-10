@@ -528,6 +528,10 @@ Classic strategies:
 - slides: [http://www.slideshare.net/xamat/past-present-and-future-of-recommender-systems-and-industry-perspective](http://www.slideshare.net/xamat/past-present-and-future-of-recommender-systems-and-industry-perspective)
 - mirror: [https://pan.baidu.com/s/1kVQ4SKZ](https://pan.baidu.com/s/1kVQ4SKZ)
 
+**TF-recomm: Tensorflow-based Recommendation systems**
+
+- github: [https://github.com/songgc/TF-recomm](https://github.com/songgc/TF-recomm)
+
 # Lifelong Learning
 
 ## NELL (Never Ending Language Learner)

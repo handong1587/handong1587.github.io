@@ -254,6 +254,7 @@ date: 2015-10-09
 - github(Tensorflow): [https://github.com/traai/async-deep-rl](https://github.com/traai/async-deep-rl)
 - github(Tensorflow+Keras+OpenAI Gym): [https://github.com/coreylynch/async-rl](https://github.com/coreylynch/async-rl)
 - github(Tensorflow): [https://github.com/devsisters/async-rl-tensorflow](https://github.com/devsisters/async-rl-tensorflow)
+- notes: [https://blog.acolyer.org/2016/10/10/asynchronous-methods-for-deep-reinforcement-learning/](https://blog.acolyer.org/2016/10/10/asynchronous-methods-for-deep-reinforcement-learning/)
 
 **Graying the black box: Understanding DQNs**
 
@@ -346,16 +347,25 @@ Incorporates dropout regularization and convolutional neural networks with a sep
 - arxiv: [http://arxiv.org/abs/1609.05521](http://arxiv.org/abs/1609.05521)
 - demo: [https://www.youtube.com/playlist?list=PLduGZax9wmiHg-XPFSgqGg8PEAV51q1FT](https://www.youtube.com/playlist?list=PLduGZax9wmiHg-XPFSgqGg8PEAV51q1FT)
 
+**Reset-Free Guided Policy Search: Efficient Deep Reinforcement Learning with Stochastic Initial States**
+
+- intro: University of Washington & UC Berkeley
+- arxiv: [https://arxiv.org/abs/1610.01112](https://arxiv.org/abs/1610.01112)
+
 # Projects
 
 **Using Deep Q-Network to Learn How To Play Flappy Bird**
 
 - github: [https://github.com/yenchenlin1994/DeepLearningFlappyBird](https://github.com/yenchenlin1994/DeepLearningFlappyBird)
 
-**用Tensorflow基于Deep Q Learning DQN 玩Flappy Bird**
+**Playing Flappy Bird Using Deep Reinforcement Learning (Based on Deep Q Learning DQN using Tensorflow)**
 
 - blog: [http://blog.csdn.net/songrotek/article/details/50951537](http://blog.csdn.net/songrotek/article/details/50951537)
 - github: [https://github.com/songrotek/DRL-FlappyBird](https://github.com/songrotek/DRL-FlappyBird)
+
+**Playing Flappy Bird Using Deep Reinforcement Learning (Based on Deep Q Learning DQN)**
+
+- github: [https://github.com/li-haoran/DRL-FlappyBird](https://github.com/li-haoran/DRL-FlappyBird)
 
 **TorchQLearning**
 
