@@ -541,3 +541,9 @@ paste -d" " file1.txt file2.txt
 ```
 shuf file.list > file_shuffled.list
 ```
+
+**Combine multiple files into one file**
+
+```
+cat file1 file2 file3 .... >> merged_file
+```
