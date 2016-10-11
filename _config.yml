@@ -107,9 +107,9 @@ customLinks:
       url: http://deeplearning.net/reading-list/
     message: About Deep Learning
   - item:
-  - text: @爱可可-爱生活
-    url: http://weibo.com/fly51fly
-  message: Resources
+    - text: @爱可可-爱生活
+      url: http://weibo.com/fly51fly
+    message: Resources
 
 googleAnaly:
   config: false
