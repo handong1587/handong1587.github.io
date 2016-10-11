@@ -2,8 +2,14 @@
 layout: post
 category: deep_learning
 title: Keep Up With New Trends
-date: 2016-07-27
+date: 2016-10-11
 ---
+
+# 2nd ImageNet + COCO Joint Workshop
+
+**2nd ImageNet and COCO Visual Recognition Challenges Joint Workshop**
+
+[http://image-net.org/challenges/ilsvrc+coco2016](http://image-net.org/challenges/ilsvrc+coco2016)
 
 # DLSS 2016
 
@@ -133,6 +139,8 @@ date: 2016-07-27
 
 [http://mp7.watson.ibm.com/ICCV2015/ObjectDetectionICCV2015.html](http://mp7.watson.ibm.com/ICCV2015/ObjectDetectionICCV2015.html)
 
+# ImageNet + COCO Joint Workshop
+
 **ImageNet and MS COCO Visual Recognition Challenges Joint Workshop**
 
 [http://image-net.org/challenges/ilsvrc+mscoco2015](http://image-net.org/challenges/ilsvrc+mscoco2015)
@@ -140,10 +148,6 @@ date: 2016-07-27
 **OpenAI: Some thoughts, mostly questions**
 
 [https://medium.com/@kleinsound/openai-some-thoughts-mostly-questions-30fb63d53ef0#.32u1yt6oy](https://medium.com/@kleinsound/openai-some-thoughts-mostly-questions-30fb63d53ef0#.32u1yt6oy)
-
-**7 Steps for becoming Deep Learning Expert**
-
-[https://www.linkedin.com/pulse/7-steps-becoming-deep-learning-expert-ankit-agarwal](https://www.linkedin.com/pulse/7-steps-becoming-deep-learning-expert-ankit-agarwal)
 
 **OpenAI — quick thoughts**
 

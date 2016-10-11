@@ -2096,6 +2096,12 @@ Bicubic VS. Shepard CNN
 - intro: GEOBIA 2016
 - arxiv: [http://arxiv.org/abs/1609.06845](http://arxiv.org/abs/1609.06845)
 
+**Learning Recursive Filters for Low-Level Vision via a Hybrid Neural Network**
+
+- intro: ECCV 2016
+- paper: [http://faculty.ucmerced.edu/mhyang/papers/eccv16_rnn_filter.pdf](http://faculty.ucmerced.edu/mhyang/papers/eccv16_rnn_filter.pdf)
+- github: [https://github.com/Liusifei/caffe-lowlevel](https://github.com/Liusifei/caffe-lowlevel)
+
 # Projects
 
 **Top Deep Learning Projects**

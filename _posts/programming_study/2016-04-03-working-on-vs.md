@@ -41,6 +41,10 @@ date: 2016-04-03
 
 [https://blogs.msdn.microsoft.com/vcblog/2016/03/31/cc-extension-for-visual-studio-code/](https://blogs.msdn.microsoft.com/vcblog/2016/03/31/cc-extension-for-visual-studio-code/)
 
+**September 2016 (version 1.6)**
+
+[https://code.visualstudio.com/updates/v1_6](https://code.visualstudio.com/updates/v1_6)
+
 # NuGet
 
 **NuGet: package manager for the Microsoft development platform**

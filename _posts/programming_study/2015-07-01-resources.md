@@ -102,6 +102,16 @@ It contains real examples with errors and the author gives explanations of how t
 
 [https://blog.twobucks.co/git-diff-tips-and-tricks/](https://blog.twobucks.co/git-diff-tips-and-tricks/)
 
+**Git-Repo The ultimate utility for managing services**
+
+[http://i.got.nothing.to/code/on/git-repo:_the_utility_for_services/](http://i.got.nothing.to/code/on/git-repo:_the_utility_for_services/)
+
+**GitHub vs. Bitbucket vs. GitLab vs. Coding**
+
+![](https://cdn-images-1.medium.com/max/800/1*7HpNPipvf7O_92JrJYOmcA.png)
+
+[https://medium.com/flow-ci/github-vs-bitbucket-vs-gitlab-vs-coding-7cf2b43888a1#.9fk5ubn5n](https://medium.com/flow-ci/github-vs-bitbucket-vs-gitlab-vs-coding-7cf2b43888a1#.9fk5ubn5n)
+
 # Go
 
 **Go by Example**

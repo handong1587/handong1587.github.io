@@ -40,7 +40,7 @@ date: 2015-08-27
 
 - instructor: Alex Smola, Barnabas Poczos
 - homepage: [http://www.cs.cmu.edu/~bapoczos/Classes/ML10715_2015Fall/](http://www.cs.cmu.edu/~bapoczos/Classes/ML10715_2015Fall/)
-- videos: [http://pan.baidu.com/s/1qWvcsUS](http://pan.baidu.com/s/1qWvcsUS)
+- video: [http://pan.baidu.com/s/1qWvcsUS](http://pan.baidu.com/s/1qWvcsUS)
 
 **2015 Machine Learning Summer School: Convex Optimization Short Course**
 
@@ -116,12 +116,6 @@ date: 2015-08-27
 
 - ipn: [http://nbviewer.jupyter.org/github/Bihaqo/nla2015/blob/master/table_of_contents.ipynb](http://nbviewer.jupyter.org/github/Bihaqo/nla2015/blob/master/table_of_contents.ipynb)
 
-**Statistical Machine Learning**
-
-- homepage: [http://www.stat.cmu.edu/~larry/=sml/](http://www.stat.cmu.edu/~larry/=sml/)
-- youtube: [https://www.youtube.com/playlist?list=PLTB9VQq8WiaCBK2XrtYn5t9uuPdsNm7YE](https://www.youtube.com/playlist?list=PLTB9VQq8WiaCBK2XrtYn5t9uuPdsNm7YE)
-- videos: [http://pan.baidu.com/s/1eSuJ1Nc](http://pan.baidu.com/s/1eSuJ1Nc)
-
 **CS 189/289A: Introduction to Machine Learning(with videos)**
 
 ![](http://www.cs.berkeley.edu/~jrs/189/qdaaniso3d.png)
@@ -195,11 +189,6 @@ with applications for model fitting and techniques for dealing with missing data
 - homepage: [http://lcsl.mit.edu/courses/regml/regml2016/](http://lcsl.mit.edu/courses/regml/regml2016/)
 - video: [https://www.youtube.com/playlist?list=PLbF0BXX_6CPJ20Gf_KbLFnPWjFTvvRwCO](https://www.youtube.com/playlist?list=PLbF0BXX_6CPJ20Gf_KbLFnPWjFTvvRwCO)
 
-**Statistical Machine Learning**
-
-- homepage: [http://www.stat.cmu.edu/~larry/=sml/](http://www.stat.cmu.edu/~larry/=sml/)
-- video: [https://www.youtube.com/playlist?list=PLTB9VQq8WiaCBK2XrtYn5t9uuPdsNm7YE](https://www.youtube.com/playlist?list=PLTB9VQq8WiaCBK2XrtYn5t9uuPdsNm7YE)
-
 **Convex Optimization: Spring 2015**
 
 - homepage: [http://www.stat.cmu.edu/~ryantibs/convexopt-S15/](http://www.stat.cmu.edu/~ryantibs/convexopt-S15/)
@@ -220,6 +209,12 @@ with applications for model fitting and techniques for dealing with missing data
 
 - homepage: [http://vision.in.tum.de/teaching/ws2013/ml_ws13](http://vision.in.tum.de/teaching/ws2013/ml_ws13)
 - video: [https://www.youtube.com/watch?v=QZmZFeZxEKI&list=PLTBdjV_4f-EIiongKlS9OKrBEp8QR47Wl](https://www.youtube.com/watch?v=QZmZFeZxEKI&list=PLTBdjV_4f-EIiongKlS9OKrBEp8QR47Wl)
+
+**Statistical Machine Learning**
+
+- homepage: [http://www.stat.cmu.edu/~larry/=sml/](http://www.stat.cmu.edu/~larry/=sml/)
+- video: [https://www.youtube.com/playlist?list=PLTB9VQq8WiaCBK2XrtYn5t9uuPdsNm7YE](https://www.youtube.com/playlist?list=PLTB9VQq8WiaCBK2XrtYn5t9uuPdsNm7YE)
+- mirror: [http://pan.baidu.com/s/1eSuJ1Nc](http://pan.baidu.com/s/1eSuJ1Nc)
 
 ## PhD-level Courses (without video lectures)
 
