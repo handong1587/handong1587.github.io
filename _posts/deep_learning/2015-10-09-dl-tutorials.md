@@ -359,6 +359,20 @@ date: 2015-10-09
 
 - blog: [https://blog.asadmemon.com/shortest-way-to-deep-learning-41e704d65ef#.19iowho8t](https://blog.asadmemon.com/shortest-way-to-deep-learning-41e704d65ef#.19iowho8t)
 
+**Deep learning with Matlab**
+
+- intro: Covered topics of the presentation:
+Machine learning workflow, Extracting feaures from images (colours, edges, corners, etc.)
+- youtube: [https://www.youtube.com/watch?v=r4D3NxQ0Xhg](https://www.youtube.com/watch?v=r4D3NxQ0Xhg)
+
+**Convolutional neural networks for computer vision with Matlab**
+
+- youtube: [https://www.youtube.com/watch?v=MwUic9FCBJI](https://www.youtube.com/watch?v=MwUic9FCBJI)
+
+**Neural Net Computing Explodes**
+
+- blog: [http://semiengineering.com/neural-net-computing-explodes/](http://semiengineering.com/neural-net-computing-explodes/)
+
 # Convolution
 
 ![](/assets/cnn-materials/conv.jpg)

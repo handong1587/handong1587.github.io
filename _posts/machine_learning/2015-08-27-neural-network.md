@@ -176,6 +176,10 @@ date: 2015-08-27
 
 - github: [https://github.com/brunjlar/neural](https://github.com/brunjlar/neural)
 
+**Command Line Neural Network**
+
+- github: [https://github.com/hugorut/neural-cli](https://github.com/hugorut/neural-cli)
+
 # Videos
 
 **Neural Networks with PHP**

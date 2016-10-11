@@ -100,6 +100,7 @@ with the style of another image using convolutional neural networks
 - github: [https://github.com/jcjohnson/fast-neural-style](https://github.com/jcjohnson/fast-neural-style)
 - github: [https://github.com/yusuketomoto/chainer-fast-neuralstyle](https://github.com/yusuketomoto/chainer-fast-neuralstyle)
 - github: [https://github.com/awentzonline/keras-rtst](https://github.com/awentzonline/keras-rtst)
+- github(Keras): [https://github.com/titu1994/Fast-Neural-Style](https://github.com/titu1994/Fast-Neural-Style)
 
 **Image transformation networks with fancy loss functions**
 

@@ -152,6 +152,10 @@ such as image classification, object detection or text captioning.
 - homepage: [https://imatge.upc.edu/web/teaching/deep-learning-computer-vision](https://imatge.upc.edu/web/teaching/deep-learning-computer-vision)
 - youtube: [https://www.youtube.com/user/imatgeupc/videos?shelf_id=0&sort=dd&view=0](https://www.youtube.com/user/imatgeupc/videos?shelf_id=0&sort=dd&view=0)
 
+**DLCV - Deep Learning for Computer Vision**
+
+- homepage: [https://imatge.upc.edu/web/teaching/deep-learning-computer-vision](https://imatge.upc.edu/web/teaching/deep-learning-computer-vision)
+
 # Natural Language Processing
 
 ![](http://cs224d.stanford.edu/images/treeFrontSentiment.png)
@@ -159,6 +163,10 @@ such as image classification, object detection or text captioning.
 **Stanford CS224d: Deep Learning for Natural Language Processing**
 
 [http://cs224d.stanford.edu/](http://cs224d.stanford.edu/)
+
+**Code for Stanford CS224D: deep learning for natural language understanding**
+
+- github: [https://github.com/bogatyy/cs224d](https://github.com/bogatyy/cs224d)
 
 **Deep Learning for NLP - Lecture October 2015**
 

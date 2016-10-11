@@ -242,6 +242,11 @@ after the embedding and recurrent layers of the RNN."
 
 - arxiv: [http://arxiv.org/abs/1608.07639](http://arxiv.org/abs/1608.07639)
 
+**Grounding and Generation of Natural Language Descriptions for Images and Videos**
+
+- intro: Anna Rohrbach. Allen Institute for Artificial Intelligence (AI2)
+- youtube: [https://www.youtube.com/watch?v=fE3FX8FowiU](https://www.youtube.com/watch?v=fE3FX8FowiU)
+
 # Projects
 
 **Learning CNN-LSTM Architectures for Image Caption Generation: An implementation of CNN-LSTM image caption generator architecture that achieves close to state-of-the-art results on the MSCOCO dataset.**

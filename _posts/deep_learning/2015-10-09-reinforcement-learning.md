@@ -631,6 +631,11 @@ The project is dedicated to hero in life great Jesse Livermore.
 
 [https://lopespm.github.io/machine_learning/2016/10/06/deep-reinforcement-learning-racing-game.html](https://lopespm.github.io/machine_learning/2016/10/06/deep-reinforcement-learning-racing-game.html)
 
+**Experimenting with Reinforcement Learning and Active Inference**
+
+- blog: [http://www.araya.org/archives/955](http://www.araya.org/archives/955)
+- github: [https://github.com/arayabrain/BinarySearchLSTM](https://github.com/arayabrain/BinarySearchLSTM)
+
 # Books
 
 **Reinforcement Learning: State-of-the-Art**

@@ -574,6 +574,10 @@ date: 2015-10-09
 - blog: [https://medium.com/@devnag/a-simple-design-pattern-for-recurrent-deep-learning-in-tensorflow-37aba4e2fd6b#.homq9zsyr](https://medium.com/@devnag/a-simple-design-pattern-for-recurrent-deep-learning-in-tensorflow-37aba4e2fd6b#.homq9zsyr)
 - github: [https://github.com/devnag/tensorflow-bptt](https://github.com/devnag/tensorflow-bptt)
 
+**RNN Spelling Correction: To crack a nut with a sledgehammer**
+
+- blog: [https://medium.com/@yaoyaowd/rnn-spelling-correction-to-crack-a-nut-with-a-sledgehammer-7f5aa442c08c#.mc2ycyfda](https://medium.com/@yaoyaowd/rnn-spelling-correction-to-crack-a-nut-with-a-sledgehammer-7f5aa442c08c#.mc2ycyfda)
+
 ## Optimizing RNN (Baidu Silicon Valley AI Lab)
 
 **Optimizing RNN performance**

@@ -295,6 +295,10 @@ Other awesome lists can be found in this [list](https://github.com/sindresorhus/
 - intro: SGD, ASGD, Stochastic Gradient SVM, Stochastic Gradient CRFs
 - homepage: [http://leon.bottou.org/projects/sgd](http://leon.bottou.org/projects/sgd)
 
+**Gradient descent with Python**
+
+- blog: [http://www.pyimagesearch.com/2016/10/10/gradient-descent-with-python/](http://www.pyimagesearch.com/2016/10/10/gradient-descent-with-python/)
+
 # Boosted Regression Trees
 
 **DART: Dropouts meet Multiple Additive Regression Trees**

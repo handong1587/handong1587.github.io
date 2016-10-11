@@ -5,6 +5,12 @@ title: Keep Up With New Trends
 date: 2016-10-11
 ---
 
+# ECCV 2016
+
+**ECCV Brings Together the Brightest Minds in Computer Vision**
+
+[https://research.facebook.com/blog/eccv-brings-together-the-brightest-minds-in-computer-vision/](https://research.facebook.com/blog/eccv-brings-together-the-brightest-minds-in-computer-vision/)
+
 # 2nd ImageNet + COCO Joint Workshop
 
 **2nd ImageNet and COCO Visual Recognition Challenges Joint Workshop**

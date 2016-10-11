@@ -140,11 +140,12 @@ date: 2015-10-09
 - quickstart: [http://ethereon.github.io/netscope/quickstart.html](http://ethereon.github.io/netscope/quickstart.html)
 - demo: [http://ethereon.github.io/netscope/#/editor](http://ethereon.github.io/netscope/#/editor)
 
-**Grad-CAM: Gradient-weighted Class Activation Mapping**
+**Grad-CAM: Why did you say that? Visual Explanations from Deep Networks via Gradient-based Localization**
 
-![](https://camo.githubusercontent.com/19f10c286fcebde737b7d0ab85d443b522169dd4/687474703a2f2f692e696d6775722e636f6d2f7142505233614d2e6a7067)
+![](https://camo.githubusercontent.com/450498bd998fd99d51b647d2b6c8631e94585522/687474703a2f2f692e696d6775722e636f6d2f4a614762645a352e706e67)
 
-- github: [https://github.com/ramprasaath21/grad-cam](https://github.com/ramprasaath21/grad-cam)
+- arxiv: [https://arxiv.org/abs/1610.02391](https://arxiv.org/abs/1610.02391)
+- github: [https://github.com/ramprs/grad-cam/](https://github.com/ramprs/grad-cam/)
 
 # Blogs
 

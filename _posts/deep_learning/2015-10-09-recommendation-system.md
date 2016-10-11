@@ -104,6 +104,10 @@ date: 2015-10-09
 - blog: [http://blog.richardweiss.org/2016/09/25/movie-embeddings.html](http://blog.richardweiss.org/2016/09/25/movie-embeddings.html)
 - ipn: [https://github.com/ririw/ririw.github.io/blob/master/assets/Recommending%20movies.ipynb](https://github.com/ririw/ririw.github.io/blob/master/assets/Recommending%20movies.ipynb)
 
+**Deep Learning Helps iHeartRadio Personalize Music Recommendations**
+
+- blog: [https://news.developer.nvidia.com/deep-learning-helps-iheartradio-personalize-music-recommendations/](https://news.developer.nvidia.com/deep-learning-helps-iheartradio-personalize-music-recommendations/)
+
 # Projects
 
 **NNRec: Neural models for Collaborative Filtering**

@@ -124,3 +124,7 @@ date: 2015-10-09
 ![](https://adeshpande3.github.io/assets/Cover5th.png)
 
 - blog: [https://adeshpande3.github.io/adeshpande3.github.io/Deep-Learning-Research-Review-Week-1-Generative-Adversarial-Nets](https://adeshpande3.github.io/adeshpande3.github.io/Deep-Learning-Research-Review-Week-1-Generative-Adversarial-Nets)
+
+**Stability of Generative Adversarial Networks**
+
+- blog: [http://www.araya.org/archives/1183](http://www.araya.org/archives/1183)

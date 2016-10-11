@@ -95,6 +95,13 @@ date: 2015-08-27
 
 - github: [https://github.com/iassael/torch-decomposition](https://github.com/iassael/torch-decomposition)
 
+# Resources
+
+**Linear Dimensionality Reduction**
+
+- instructor: Percy Liang. CS294-10
+- slides: [http://vis.lbl.gov/~romano/mlgroup/papers/linear-dim-red.pdf](http://vis.lbl.gov/~romano/mlgroup/papers/linear-dim-red.pdf)
+
 # Readings and Questions
 
 **What is better PCA or SVD | Reddit**

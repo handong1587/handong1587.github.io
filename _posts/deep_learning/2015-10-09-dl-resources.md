@@ -558,6 +558,11 @@ Restricted Boltzmann Machine (RBM), Sparse Coding and Auto-encoder
 
 - blog: [http://deeplearning4j.org/visualization](http://deeplearning4j.org/visualization)
 
+**Learning from learning curves**
+
+- intro: Kaggle
+- blog: [https://medium.com/@dsouza.amanda/learning-from-learning-curves-1a82c6f98f49#.o5synrvvl](https://medium.com/@dsouza.amanda/learning-from-learning-curves-1a82c6f98f49#.o5synrvvl)
+
 # Adversarial Examples of Deep Learning
 
 **Intriguing properties of neural networks**
@@ -762,6 +767,11 @@ with fast exact probabilistic inference over many layers."
 - arxiv: [http://arxiv.org/abs/1603.05279](http://arxiv.org/abs/1603.05279)
 - github(Torch): [https://github.com/mrastegari/XNOR-Net](https://github.com/mrastegari/XNOR-Net)
 
+**Single Image 3D Interpreter Network**
+
+- intro: ECCV 2016 (oral)
+- arxiv: [https://arxiv.org/abs/1604.08685](https://arxiv.org/abs/1604.08685)
+
 **Deeply-Fused Nets**
 
 - arxiv: [http://arxiv.org/abs/1605.07716](http://arxiv.org/abs/1605.07716)
@@ -773,6 +783,11 @@ with fast exact probabilistic inference over many layers."
 **Convolutional Neural Fabrics**
 
 - arxiv: [http://arxiv.org/abs/1606.02492](http://arxiv.org/abs/1606.02492)
+
+**Progressive Neural Networks**
+
+- intro: Google DeepMind
+- arxiv: [https://arxiv.org/abs/1606.04671](https://arxiv.org/abs/1606.04671)
 
 **Holistic SparseCNN: Forging the Trident of Accuracy, Speed, and Size**
 
@@ -837,11 +852,6 @@ with fast exact probabilistic inference over many layers."
 
 - intro: Google DeepMind
 - arxiv: [https://arxiv.org/abs/1610.00527](https://arxiv.org/abs/1610.00527)
-
-**Single Image 3D Interpreter Network**
-
-- intro: ECCV 2016 (oral)
-- arxiv: [https://arxiv.org/abs/1604.08685](https://arxiv.org/abs/1604.08685)
 
 ## Highway Networks
 
@@ -2036,6 +2046,15 @@ Bicubic VS. Shepard CNN
 - project page(code+data): [http://www.stat.ucla.edu/~ywu/ABP/main.html](http://www.stat.ucla.edu/~ywu/ABP/main.html)
 - paper: [http://www.stat.ucla.edu/~ywu/ABP/doc/arXivABP.pdf](http://www.stat.ucla.edu/~ywu/ABP/doc/arXivABP.pdf)
 
+**Optimization of Convolutional Neural Network using Microcanonical Annealing Algorithm**
+
+- intro: IEEE ICACSIS 2016
+- arxiv: [https://arxiv.org/abs/1610.02306](https://arxiv.org/abs/1610.02306)
+
+**Deep Learning with Separable Convolutions**
+
+- arxiv: [https://arxiv.org/abs/1610.02357](https://arxiv.org/abs/1610.02357)
+
 ## STDP
 
 **A biological gradient descent for prediction through a combination of STDP and homeostatic plasticity**
@@ -2099,6 +2118,7 @@ Bicubic VS. Shepard CNN
 **Learning Recursive Filters for Low-Level Vision via a Hybrid Neural Network**
 
 - intro: ECCV 2016
+- project page: [http://www.sifeiliu.net/linear-rnn](http://www.sifeiliu.net/linear-rnn)
 - paper: [http://faculty.ucmerced.edu/mhyang/papers/eccv16_rnn_filter.pdf](http://faculty.ucmerced.edu/mhyang/papers/eccv16_rnn_filter.pdf)
 - github: [https://github.com/Liusifei/caffe-lowlevel](https://github.com/Liusifei/caffe-lowlevel)
 

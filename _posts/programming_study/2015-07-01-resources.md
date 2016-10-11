@@ -326,6 +326,10 @@ You must move pacman (the green cursor) to highlight each word on the gameboard 
 
 - blog: [http://programmingzen.com/15-sites-for-programming-exercises/](http://programmingzen.com/15-sites-for-programming-exercises/)
 
+**Eliminate null-checks using arrays**
+
+- blog: [http://firstclassthoughts.co.uk/Articles/Readability/NullCheckEliminationUsingArrays.html](http://firstclassthoughts.co.uk/Articles/Readability/NullCheckEliminationUsingArrays.html)
+
 ## Game AI Programming
 
 **The AI Programmer's Bookshelf: A list of useful books for game AI programming.**

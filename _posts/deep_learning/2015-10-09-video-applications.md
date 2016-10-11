@@ -245,6 +245,7 @@ extract saptio-temporal features to represent the video using the CNNs."
 **LSTM for Human Activity Recognition**
 
 - github: [https://github.com/guillaume-chevalier/LSTM-Human-Activity-Recognition/](https://github.com/guillaume-chevalier/LSTM-Human-Activity-Recognition/)
+- github(MXNet): [https://github.com/Ldpe2G/DeepLearningForFun/tree/master/Mxnet-Scala/HumanActivityRecognition](https://github.com/Ldpe2G/DeepLearningForFun/tree/master/Mxnet-Scala/HumanActivityRecognition)
 
 # Event Recognition
 
