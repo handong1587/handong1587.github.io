@@ -159,6 +159,11 @@ not just the convolutions)
 - arxiv: [http://arxiv.org/abs/1609.05672](http://arxiv.org/abs/1609.05672)
 - github: [https://github.com/masoudabd/multi-resnet](https://github.com/masoudabd/multi-resnet)
 
+**Deep Pyramidal Residual Networks**
+
+- arxiv: [https://arxiv.org/abs/1610.02915](https://arxiv.org/abs/1610.02915)
+- github: [https://github.com/jhkim89/PyramidNet](https://github.com/jhkim89/PyramidNet)
+
 ## Inception-V4
 
 **Inception-V4, Inception-Resnet And The Impact Of Residual Connections On Learning**
@@ -2052,6 +2057,7 @@ Bicubic VS. Shepard CNN
 - arxiv: [https://arxiv.org/abs/1610.02306](https://arxiv.org/abs/1610.02306)
 
 **Deep Learning with Separable Convolutions**
+**Xception: Deep Learning with Depthwise Separable Convolutions**
 
 - arxiv: [https://arxiv.org/abs/1610.02357](https://arxiv.org/abs/1610.02357)
 
@@ -2121,6 +2127,11 @@ Bicubic VS. Shepard CNN
 - project page: [http://www.sifeiliu.net/linear-rnn](http://www.sifeiliu.net/linear-rnn)
 - paper: [http://faculty.ucmerced.edu/mhyang/papers/eccv16_rnn_filter.pdf](http://faculty.ucmerced.edu/mhyang/papers/eccv16_rnn_filter.pdf)
 - github: [https://github.com/Liusifei/caffe-lowlevel](https://github.com/Liusifei/caffe-lowlevel)
+
+**Exploiting Depth from Single Monocular Images for Object Detection and Semantic Segmentation**
+
+- intro: IEEE T. Image Processing
+- arxiv: [https://arxiv.org/abs/1610.01706](https://arxiv.org/abs/1610.01706)
 
 # Projects
 

@@ -12,6 +12,10 @@ date: 2015-08-27
 - paper: [http://jmlr.org/proceedings/papers/v37/ding15.html](http://jmlr.org/proceedings/papers/v37/ding15.html)
 - github: [https://github.com/src-d/kmcuda](https://github.com/src-d/kmcuda)
 
+**Boost K-Means**
+
+- arxiv: [https://arxiv.org/abs/1610.02483](https://arxiv.org/abs/1610.02483)
+
 # Stream Clustering
 
 # Neural Network-based Clustering

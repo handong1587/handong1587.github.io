@@ -377,6 +377,15 @@ and 1.15s per image with it".
 - paper: [http://link.springer.com/chapter/10.1007/978-3-319-46478-7_22](http://link.springer.com/chapter/10.1007/978-3-319-46478-7_22)
 - mirror: [https://pan.baidu.com/s/1dFohO7v](https://pan.baidu.com/s/1dFohO7v)
 
+## GBD-Net
+
+**Crafting GBD-Net for Object Detection**
+
+- intro: winner of the ImageNet object detection challenge of 2016. CUImage and CUVideo
+- intro: gated bi-directional CNN (GBD-Net)
+- arxiv: [https://arxiv.org/abs/1610.02579](https://arxiv.org/abs/1610.02579)
+- github: [https://github.com/craftGBD/craftGBD](https://github.com/craftGBD/craftGBD)
+
 # Detection From Video
 
 **Learning Object Class Detectors from Weakly Annotated Video**
@@ -533,6 +542,11 @@ This task involves predicting the salient regions of an image given by human eye
 - intro: IEEE Transactions on Image Processing
 - arxiv: [http://arxiv.org/abs/1609.02077](http://arxiv.org/abs/1609.02077)
 
+**A Deep Spatial Contextual Long-term Recurrent Convolutional Network for Saliency Detection**
+
+- intro: DSCLRCN
+- arxiv: [https://arxiv.org/abs/1610.01708](https://arxiv.org/abs/1610.01708)
+
 # Specific Object Deteciton
 
 ## Face Deteciton
@@ -671,6 +685,10 @@ This task involves predicting the salient regions of an image given by human eye
 
 - intro: IEEE 2016 ICCE-Berlin
 - arxiv: [http://arxiv.org/abs/1609.02500](http://arxiv.org/abs/1609.02500)
+
+**Fused DNN: A deep neural network fusion approach to fast and robust pedestrian detection**
+
+- arxiv: [https://arxiv.org/abs/1610.03466](https://arxiv.org/abs/1610.03466)
 
 ## Vehicle Detection
 

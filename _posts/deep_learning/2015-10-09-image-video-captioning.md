@@ -247,6 +247,11 @@ after the embedding and recurrent layers of the RNN."
 - intro: Anna Rohrbach. Allen Institute for Artificial Intelligence (AI2)
 - youtube: [https://www.youtube.com/watch?v=fE3FX8FowiU](https://www.youtube.com/watch?v=fE3FX8FowiU)
 
+**Video Captioning and Retrieval Models with Semantic Attention**
+
+- intro: Winner of three (fill-in-the-blank, multiple-choice test, and movie retrieval) out of four tasks of the LSMDC 2016 Challenge (Workshop in ECCV 2016)
+- arxiv: [https://arxiv.org/abs/1610.02947](https://arxiv.org/abs/1610.02947)
+
 # Projects
 
 **Learning CNN-LSTM Architectures for Image Caption Generation: An implementation of CNN-LSTM image caption generator architecture that achieves close to state-of-the-art results on the MSCOCO dataset.**

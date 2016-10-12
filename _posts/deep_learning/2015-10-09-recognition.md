@@ -51,6 +51,11 @@ date: 2015-10-09
 - arxiv: [https://arxiv.org/abs/1412.7755](https://arxiv.org/abs/1412.7755)
 - github: [https://github.com/jrbtaylor/visual-attention](https://github.com/jrbtaylor/visual-attention)
 
+**Multiple Instance Learning Convolutional Neural Networks for Object Recognition**
+
+- intro: ICPR 2016 Oral
+- arxiv: [https://arxiv.org/abs/1610.03155](https://arxiv.org/abs/1610.03155)
+
 ## Fine-grained Recognition
 
 **Bilinear CNN Models for Fine-grained Visual Recognition**
