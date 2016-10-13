@@ -560,6 +560,10 @@ date: 2015-10-09
 
 - arxiv: [http://arxiv.org/abs/1608.03639](http://arxiv.org/abs/1608.03639)
 
+**Fast Training of Convolutional Neural Networks via Kernel Rescaling**
+
+- arxiv: [https://arxiv.org/abs/1610.03623](https://arxiv.org/abs/1610.03623)
+
 # Tools
 
 **pastalog: Simple, realtime visualization of neural network training performance**

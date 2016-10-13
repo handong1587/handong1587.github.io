@@ -744,6 +744,12 @@ This task involves predicting the salient regions of an image given by human eye
 
 - arxiv: [http://arxiv.org/abs/1609.03659](http://arxiv.org/abs/1609.03659)
 
+## Fruit Detection
+
+**Deep Fruit Detection in Orchards**
+
+- arxiv: [https://arxiv.org/abs/1610.03677](https://arxiv.org/abs/1610.03677)
+
 ## Others
 
 **Deep Deformation Network for Object Landmark Localization**

@@ -166,6 +166,11 @@ after the embedding and recurrent layers of the RNN."
 
 - arxiv: [http://arxiv.org/abs/1606.07770](http://arxiv.org/abs/1606.07770)
 
+**Generating captions without looking beyond objects**
+
+- intro: ECCV2016 2nd Workshop on Storytelling with Images and Videos (VisStory)
+- arxiv: [https://arxiv.org/abs/1610.03708](https://arxiv.org/abs/1610.03708)
+
 # Object Descriptions
 
 **Generation and Comprehension of Unambiguous Object Descriptions**
