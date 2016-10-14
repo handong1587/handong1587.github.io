@@ -5,6 +5,14 @@ title: Video Applications
 date: 2015-10-09
 ---
 
+# Papers
+
+**Video Fill in the Blank with Merging LSTMs**
+
+- intro: for Large Scale Movie Description and Understanding Challenge (LSMDC) 2016, "Movie fill-in-the-blank" Challenge, UCF_CRCV
+- intro: Video-Fill-in-the-Blank (ViFitB)
+- arxiv: [https://arxiv.org/abs/1610.04062](https://arxiv.org/abs/1610.04062)
+
 # Video Classification
 
 **Large-scale Video Classification with Convolutional Neural Networks**
@@ -229,6 +237,10 @@ extract saptio-temporal features to represent the video using the CNNs."
 **Sequential Deep Trajectory Descriptor for Action Recognition with Three-stream CNN**
 
 - arxiv: [http://arxiv.org/abs/1609.03056](http://arxiv.org/abs/1609.03056)
+
+**Semi-Coupled Two-Stream Fusion ConvNets for Action Recognition at Extremely Low Resolutions**
+
+- arxiv: [https://arxiv.org/abs/1610.03898](https://arxiv.org/abs/1610.03898)
 
 ### Projects
 

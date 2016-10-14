@@ -353,6 +353,11 @@ date: 2015-10-09
 
 - arxiv: [http://arxiv.org/abs/1609.08017](http://arxiv.org/abs/1609.08017)
 
+**Dropout with Theano**
+
+- blog: [http://rishy.github.io/ml/2016/10/12/dropout-with-theano/](http://rishy.github.io/ml/2016/10/12/dropout-with-theano/)
+- ipn: [http://nbviewer.jupyter.org/github/rishy/rishy.github.io/blob/master/ipy_notebooks/Dropout-Theano.ipynb](http://nbviewer.jupyter.org/github/rishy/rishy.github.io/blob/master/ipy_notebooks/Dropout-Theano.ipynb)
+
 ## DropConnect
 
 **Regularization of Neural Networks using DropConnect**

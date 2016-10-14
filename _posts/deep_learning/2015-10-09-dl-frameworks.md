@@ -224,6 +224,11 @@ for building Deep Learning (DL) machine learning (ML) models
 
 - github: [https://github.com/fchollet/keras-resources](https://github.com/fchollet/keras-resources)
 
+**Keras.js: Run trained Keras models in the browser, with GPU support**
+
+- homepage: [https://transcranial.github.io/keras-js/](https://transcranial.github.io/keras-js/)
+- github: [https://github.com/transcranial/keras-js](https://github.com/transcranial/keras-js)
+
 # Lasagne
 
 **Lasagne: Lightweight library to build and train neural networks in Theano**

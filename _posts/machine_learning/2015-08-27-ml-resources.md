@@ -299,6 +299,10 @@ Other awesome lists can be found in this [list](https://github.com/sindresorhus/
 
 - blog: [http://www.pyimagesearch.com/2016/10/10/gradient-descent-with-python/](http://www.pyimagesearch.com/2016/10/10/gradient-descent-with-python/)
 
+**Gradient Descent Learns Linear Dynamical Systems**
+
+- blog: [http://www.offconvex.org/2016/10/13/gradient-descent-learns-dynamical-systems/](http://www.offconvex.org/2016/10/13/gradient-descent-learns-dynamical-systems/)
+
 # Boosted Regression Trees
 
 **DART: Dropouts meet Multiple Additive Regression Trees**
@@ -784,6 +788,13 @@ including all the relevant classifiers available today
 - blog: [http://betatim.github.io/posts/cross-validation-gone-wrong/](http://betatim.github.io/posts/cross-validation-gone-wrong/)
 - ipn: [http://nbviewer.jupyter.org/url/betatim.github.io//downloads/notebooks/cross_validation.ipynb](http://nbviewer.jupyter.org/url/betatim.github.io//downloads/notebooks/cross_validation.ipynb)
 
+**Probabilistic Machine Learning in PyMC3**
+
+- blog: [http://twiecki.github.io/ODSC_London_2016_Probabilistic_ML_Wiecki.slides.html#/](http://twiecki.github.io/ODSC_London_2016_Probabilistic_ML_Wiecki.slides.html#/)
+- slides: [https://docs.google.com/presentation/d/1puj4iN70MRVauUmIMAZS0pfANktjdQ5uCP7H8OLPKFk/edit#slide=id.p](https://docs.google.com/presentation/d/1puj4iN70MRVauUmIMAZS0pfANktjdQ5uCP7H8OLPKFk/edit#slide=id.p)
+- mirror: [https://pan.baidu.com/s/1pLJCya3](https://pan.baidu.com/s/1pLJCya3)
+- ipn: [https://twiecki.github.io/probabilistic_ml.ipynb](https://twiecki.github.io/probabilistic_ml.ipynb)
+
 ## Model evaluation, model selection, and algorithm selection in machine learning
 
 **Part I - The basics**
@@ -930,6 +941,18 @@ for creating complex software in C++ to solve real world problems.
 **GoLearn: Machine Learning for Go**
 
 - github: [https://github.com/sjwhitworth/golearn](https://github.com/sjwhitworth/golearn)
+
+**Cortex: Machine learning in Clojure**
+
+- intro: Neural networks, regression and feature learning in Clojure.
+- github: [https://github.com/thinktopic/cortex](https://github.com/thinktopic/cortex)
+
+# Resources
+
+**Top-down learning path: Machine Learning for Software Engineers**
+
+- intro: A complete daily plan for studying to become a machine learning engineer.
+- github: [https://github.com/ZuzooVn/machine-learning-for-software-engineers](https://github.com/ZuzooVn/machine-learning-for-software-engineers)
 
 # Projects
 

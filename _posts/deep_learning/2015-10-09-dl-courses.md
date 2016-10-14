@@ -125,6 +125,10 @@ date: 2015-10-09
 
 - homepage: [http://www.cs.toronto.edu/~duvenaud/courses/csc2541/index.html](http://www.cs.toronto.edu/~duvenaud/courses/csc2541/index.html)
 
+**CS 294-131: Special Topics in Deep Learning (Fall, 2016)**
+
+[https://berkeley-deep-learning.github.io/cs294-dl-f16/](https://berkeley-deep-learning.github.io/cs294-dl-f16/)
+
 # Computer Vision
 
 **Stanford CS231n: Convolutional Neural Networks for Visual Recognition**

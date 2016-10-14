@@ -166,6 +166,7 @@ date: 2015-10-09
 - arxiv: [http://arxiv.org/abs/1503.03832](http://arxiv.org/abs/1503.03832)
 - github: [https://github.com/cmusatyalab/openface](https://github.com/cmusatyalab/openface)
 - github: [https://github.com/Atcold/torch-TripletEmbedding](https://github.com/Atcold/torch-TripletEmbedding)
+- github(Tensorflow): [https://github.com/davidsandberg/facenet](https://github.com/davidsandberg/facenet)
 
 **Targeting Ultimate Accuracy: Face Recognition via Deep Embedding**
 
@@ -184,6 +185,7 @@ date: 2015-10-09
 
 - intro: ECCV 2016
 - paper: [http://ydwen.github.io/papers/WenECCV16.pdf](http://ydwen.github.io/papers/WenECCV16.pdf)
+- github: [https://github.com/ydwen/caffe-face](https://github.com/ydwen/caffe-face)
 
 **How Image Degradations Affect Deep CNN-based Face Recognition?**
 
@@ -204,6 +206,12 @@ date: 2015-10-09
 
 - intro: ECCV 2016
 - paper: [http://ydwen.github.io/papers/WenECCV16.pdf](http://ydwen.github.io/papers/WenECCV16.pdf)
+
+#### Projects
+
+**Using MXNet for Face-related Algorithm**
+
+- github: [https://github.com/tornadomeet/mxnet-face](https://github.com/tornadomeet/mxnet-face)
 
 #### Datasets / Benchmarks
 
@@ -361,3 +369,9 @@ facial action unit recognition, and eye-gaze estimation.
 **Object Recognition with Convolutional Neural Networks in the Keras Deep Learning Library**
 
 [http://machinelearningmastery.com/object-recognition-convolutional-neural-networks-keras-deep-learning-library/](http://machinelearningmastery.com/object-recognition-convolutional-neural-networks-keras-deep-learning-library/)
+
+**The Effect of Resolution on Deep Neural Network Image Classification Accuracy**
+
+![](https://cdn-images-1.medium.com/max/800/1*0SBEYOChCOMbqnGG34xSxw.png)
+
+[https://medium.com/the-downlinq/the-effect-of-resolution-on-deep-neural-network-image-classification-accuracy-d1338e2782c5#.em5rk991r](https://medium.com/the-downlinq/the-effect-of-resolution-on-deep-neural-network-image-classification-accuracy-d1338e2782c5#.em5rk991r)

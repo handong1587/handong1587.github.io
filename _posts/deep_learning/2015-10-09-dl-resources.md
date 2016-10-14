@@ -161,6 +161,9 @@ not just the convolutions)
 
 **Deep Pyramidal Residual Networks**
 
+![](https://cloud.githubusercontent.com/assets/22743125/19235579/7e7e33c6-8f2d-11e6-9397-1b505688e92a.png)
+
+- intro: PyramidNet
 - arxiv: [https://arxiv.org/abs/1610.02915](https://arxiv.org/abs/1610.02915)
 - github: [https://github.com/jhkim89/PyramidNet](https://github.com/jhkim89/PyramidNet)
 
@@ -818,6 +821,8 @@ with fast exact probabilistic inference over many layers."
 - intro: DenseNet
 - arxiv: [http://arxiv.org/abs/1608.06993](http://arxiv.org/abs/1608.06993)
 - github: [https://github.com/liuzhuang13/DenseNet](https://github.com/liuzhuang13/DenseNet)
+- github(Lasagne): [https://github.com/Lasagne/Recipes/tree/master/papers/densenet](https://github.com/Lasagne/Recipes/tree/master/papers/densenet)
+- github(Keras): [https://github.com/tdeboissiere/DeepLearningImplementations/tree/master/DenseNet](https://github.com/tdeboissiere/DeepLearningImplementations/tree/master/DenseNet)
 
 **CliqueCNN: Deep Unsupervised Exemplar Learning**
 
@@ -1563,6 +1568,7 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 - arxiv: [http://arxiv.org/abs/1501.00092](http://arxiv.org/abs/1501.00092)
 - training code: [http://mmlab.ie.cuhk.edu.hk/projects/SRCNN/SRCNN_train.zip](http://mmlab.ie.cuhk.edu.hk/projects/SRCNN/SRCNN_train.zip)
 - test code: [http://mmlab.ie.cuhk.edu.hk/projects/SRCNN/SRCNN_v1.zip](http://mmlab.ie.cuhk.edu.hk/projects/SRCNN/SRCNN_v1.zip)
+- github(Keras): [https://github.com/titu1994/Image-Super-Resolution](https://github.com/titu1994/Image-Super-Resolution)
 
 **Learning a Deep Convolutional Network for Image Super-Resolution**
 
@@ -1860,6 +1866,10 @@ Bicubic VS. Shepard CNN
 
 [https://github.com/jcjohnson/cnn-benchmarks](https://github.com/jcjohnson/cnn-benchmarks)
 
+**Deep Learning Benchmarks**
+
+[http://add-for.com/deep-learning-benchmarks/](http://add-for.com/deep-learning-benchmarks/)
+
 # Papers
 
 **Reweighted Wake-Sleep**
@@ -2060,6 +2070,12 @@ Bicubic VS. Shepard CNN
 **Xception: Deep Learning with Depthwise Separable Convolutions**
 
 - arxiv: [https://arxiv.org/abs/1610.02357](https://arxiv.org/abs/1610.02357)
+
+**Uncertainty in Deep Learning**
+
+- intro: PhD Thesis. Cambridge Machine Learning Group
+- blog: [http://mlg.eng.cam.ac.uk/yarin/blog_2248.html](http://mlg.eng.cam.ac.uk/yarin/blog_2248.html)
+- thesis: [http://mlg.eng.cam.ac.uk/yarin/thesis/thesis.pdf](http://mlg.eng.cam.ac.uk/yarin/thesis/thesis.pdf)
 
 ## STDP
 

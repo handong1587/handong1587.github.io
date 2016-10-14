@@ -69,6 +69,10 @@ date: 2015-10-09
 
 - arxiv: [https://arxiv.org/abs/1610.01945](https://arxiv.org/abs/1610.01945)
 
+**Generative Adversarial Nets from a Density Ratio Estimation Perspective**
+
+- arxiv: [https://arxiv.org/abs/1610.02920](https://arxiv.org/abs/1610.02920)
+
 # Projects
 
 **Generative Adversarial Networks with Keras**

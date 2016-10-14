@@ -36,3 +36,11 @@ date: 2016-02-24
 **Stanford EE261 - The Fourier Transform and its Applications**
 
 - homepage: [https://see.stanford.edu/Course/EE261](https://see.stanford.edu/Course/EE261)
+
+# Books
+
+**An Infinitely Large Napkin (Draft)**
+
+- intro: MIT
+- homepage: [http://www.mit.edu/~evanchen/napkin.html](http://www.mit.edu/~evanchen/napkin.html)
+- mirror: [https://pan.baidu.com/s/1i5oa53B](https://pan.baidu.com/s/1i5oa53B)

@@ -113,3 +113,10 @@ date: 2015-10-09
 **If you want to learn Data Science, start with one of these programming classes**
 
 - blog: [https://medium.freecodecamp.com/if-you-want-to-learn-data-science-start-with-one-of-these-programming-classes-fb694ffe780c#.quj2gi3f9](https://medium.freecodecamp.com/if-you-want-to-learn-data-science-start-with-one-of-these-programming-classes-fb694ffe780c#.quj2gi3f9)
+
+## Data Sources for Cool Data Science Projects
+
+- part 1: [http://blog.thedataincubator.com/2014/10/data-sources-for-cool-data-science-projects-part-1/](http://blog.thedataincubator.com/2014/10/data-sources-for-cool-data-science-projects-part-1/)
+- part 2: [http://blog.thedataincubator.com/2014/10/data-sources-for-cool-data-science-projects-part-2/](http://blog.thedataincubator.com/2014/10/data-sources-for-cool-data-science-projects-part-2/)
+- part 3: [http://blog.thedataincubator.com/2016/10/data-sources-for-cool-data-science-projects-part-3/](http://blog.thedataincubator.com/2016/10/data-sources-for-cool-data-science-projects-part-3/)
+- part 4: [http://blog.thedataincubator.com/2016/10/data-sources-for-cool-data-science-projects-part-4/](http://blog.thedataincubator.com/2016/10/data-sources-for-cool-data-science-projects-part-4/)

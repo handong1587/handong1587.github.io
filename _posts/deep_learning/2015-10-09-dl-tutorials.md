@@ -373,6 +373,10 @@ Machine learning workflow, Extracting feaures from images (colours, edges, corne
 
 - blog: [http://semiengineering.com/neural-net-computing-explodes/](http://semiengineering.com/neural-net-computing-explodes/)
 
+**Tutorial: Optimizing Neural Networks using Keras (with Image recognition case study)**
+
+[https://www.analyticsvidhya.com/blog/2016/10/tutorial-optimizing-neural-networks-using-keras-with-image-recognition-case-study/](https://www.analyticsvidhya.com/blog/2016/10/tutorial-optimizing-neural-networks-using-keras-with-image-recognition-case-study/)
+
 # Convolution
 
 ![](/assets/cnn-materials/conv.jpg)

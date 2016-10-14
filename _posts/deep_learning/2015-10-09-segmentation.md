@@ -71,6 +71,13 @@ only the CNN part of the network is fine-tuned to learn deconvolution indirectly
 - arxiv: [http://arxiv.org/abs/1411.6228](http://arxiv.org/abs/1411.6228)
 - paper: [http://ronan.collobert.com/pub/matos/2015_semisupsemseg_cvpr.pdf](http://ronan.collobert.com/pub/matos/2015_semisupsemseg_cvpr.pdf)
 
+**Feedforward semantic segmentation with zoom-out features**
+
+- intro: CVPR 2015. Toyota Technological Institute at Chicago
+- paper: [http://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Mostajabi_Feedforward_Semantic_Segmentation_2015_CVPR_paper.pdf](http://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Mostajabi_Feedforward_Semantic_Segmentation_2015_CVPR_paper.pdf)
+- bitbuckt: [https://bitbucket.org/m_mostajabi/zoom-out-release](https://bitbucket.org/m_mostajabi/zoom-out-release)
+- video: [https://www.youtube.com/watch?v=HvgvX1LXQa8](https://www.youtube.com/watch?v=HvgvX1LXQa8)
+
 ## DeepLab
 
 **Semantic Image Segmentation with Deep Convolutional Nets and Fully Connected CRFs (DeepLab)**
@@ -338,7 +345,7 @@ fine-tune the trained network with more challenging examples later
 
 **Learning to Refine Object Segments**
 
-- intro: Facebook AI Research (FAIR)
+- intro: ECCV 2016. Facebook AI Research (FAIR)
 - intro: an extension of DeepMask which generates higher-fidelity masks using an additional top-down refinement step.
 - arxiv: [http://arxiv.org/abs/1603.08695](http://arxiv.org/abs/1603.08695)
 - github: [https://github.com/facebookresearch/deepmask](https://github.com/facebookresearch/deepmask)

@@ -99,6 +99,10 @@ date: 2015-10-09
 
 - arxiv: [http://arxiv.org/abs/1609.00361](http://arxiv.org/abs/1609.00361)
 
+**Safe, Multi-Agent, Reinforcement Learning for Autonomous Driving**
+
+- arxiv: [https://arxiv.org/abs/1610.03295](https://arxiv.org/abs/1610.03295)
+
 # Projects
 
 **Caffe-Autopilot: Car autopilot software that uses C++, BVLC Caffe, OpenCV, and SFML**

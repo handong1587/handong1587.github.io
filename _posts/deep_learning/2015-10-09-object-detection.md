@@ -889,3 +889,8 @@ We additionally provide an implementation of the [ReInspect](https://github.com/
 
 - keywords: DeepMask, SharpMask, MultiPathNet
 - blog: [https://adeshpande3.github.io/adeshpande3.github.io/Analyzing-the-Papers-Behind-Facebook's-Computer-Vision-Approach/](https://adeshpande3.github.io/adeshpande3.github.io/Analyzing-the-Papers-Behind-Facebook's-Computer-Vision-Approach/)
+
+**Easily Create High Quality Object Detectors with Deep Learning **
+
+- intro: dlib v19.2
+- blog: [http://blog.dlib.net/2016/10/easily-create-high-quality-object.html](http://blog.dlib.net/2016/10/easily-create-high-quality-object.html)

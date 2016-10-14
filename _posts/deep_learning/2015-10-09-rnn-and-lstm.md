@@ -75,6 +75,13 @@ date: 2015-10-09
 - blog: [http://kbullaughey.github.io/lstm-play/](http://kbullaughey.github.io/lstm-play/)
 - github: [https://github.com/kbullaughey/lstm-play](https://github.com/kbullaughey/lstm-play)
 
+**Build a Neural Network (LIVE)**
+
+- intro: LSTM
+- youtube: [https://www.youtube.com/watch?v=KvoZU-ItDiE](https://www.youtube.com/watch?v=KvoZU-ItDiE)
+- mirror: [https://pan.baidu.com/s/1i4KoumL](https://pan.baidu.com/s/1i4KoumL)
+- github: [https://github.com/llSourcell/build_a_neural_net_live](https://github.com/llSourcell/build_a_neural_net_live)
+
 # Train RNN
 
 **On the difficulty of training Recurrent Neural Networks**
@@ -308,6 +315,11 @@ date: 2015-10-09
 
 - arxiv: [http://arxiv.org/abs/1511.00060](http://arxiv.org/abs/1511.00060)
 - github: [https://github.com/XingxingZhang/td-treelstm](https://github.com/XingxingZhang/td-treelstm)
+
+**Improving performance of recurrent neural network with relu nonlinearity**
+
+- intro: ICLR 2016
+- arxiv: [https://arxiv.org/abs/1511.03771](https://arxiv.org/abs/1511.03771)
 
 **Alternative structures for character-level RNNs**
 

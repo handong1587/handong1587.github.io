@@ -166,6 +166,15 @@ Compressed model is less than 500KB
 
 - arxiv: [http://arxiv.org/abs/1609.03057](http://arxiv.org/abs/1609.03057)
 
+**neural-style-tf: TensorFlow implementation of Neural Style**
+
+- github: [https://github.com/cysmith/neural-style-tf](https://github.com/cysmith/neural-style-tf)
+
+**Deep Convolutional Networks as Models of Generalization and Blending Within Visual Creativity**
+
+- intro: In Proceedings of the 7th International Conference on Computational Creativity. Palo Alto: Association for the Advancement of Artificial Intelligence (AAAI) Press (2016)
+- arxiv: [https://arxiv.org/abs/1610.02478](https://arxiv.org/abs/1610.02478)
+
 ## Neural Art On Audio
 
 **MSc AI Project on generative deep networks and neural style transfer for audio**

@@ -155,6 +155,7 @@ date: 2015-10-09
 - arxiv: [http://arxiv.org/abs/1509.02971](http://arxiv.org/abs/1509.02971)
 - github: [https://github.com/iassael/torch-policy-gradient](https://github.com/iassael/torch-policy-gradient)
 - github: [https://github.com/stevenpjg/ddpg-aigym](https://github.com/stevenpjg/ddpg-aigym)
+- github(TensorFlow + OpenAI Gym): [https://github.com/SimonRamstedt/ddpg](https://github.com/SimonRamstedt/ddpg)
 
 **Benchmarking for Bayesian Reinforcement Learning**
 
@@ -351,6 +352,11 @@ Incorporates dropout regularization and convolutional neural networks with a sep
 
 - intro: University of Washington & UC Berkeley
 - arxiv: [https://arxiv.org/abs/1610.01112](https://arxiv.org/abs/1610.01112)
+
+**Deep Reinforcement Learning From Raw Pixels in Doom**
+
+- intro: Bachelor's thesis
+- arxiv: [https://arxiv.org/abs/1610.02164](https://arxiv.org/abs/1610.02164)
 
 # Projects
 
