@@ -319,6 +319,7 @@ testing it on the MNIST handwritten digits data.
 
 - arxiv: [http://arxiv.org/abs/1507.02672](http://arxiv.org/abs/1507.02672)
 - github: [https://github.com/CuriousAI/ladder](https://github.com/CuriousAI/ladder)
+- github: [https://github.com/rinuboney/ladder](https://github.com/rinuboney/ladder)
 
 **Semi-supervised Feature Transfer: The Practical Benefit of Deep Learning Today?**
 
@@ -867,8 +868,12 @@ with fast exact probabilistic inference over many layers."
 
 **Highway Networks**
 
+- intro: ICML 2015 Deep Learning workshop
 - arxiv: [http://arxiv.org/abs/1505.00387](http://arxiv.org/abs/1505.00387)
-- blog("Highway Networks with TensorFlow"): [https://medium.com/jim-fleming/highway-networks-with-tensorflow-1e6dfa667daa#.71fgztsb6](https://medium.com/jim-fleming/highway-networks-with-tensorflow-1e6dfa667daa#.71fgztsb6)
+
+**Highway Networks with TensorFlow**
+
+- blog: [https://medium.com/jim-fleming/highway-networks-with-tensorflow-1e6dfa667daa#.71fgztsb6](https://medium.com/jim-fleming/highway-networks-with-tensorflow-1e6dfa667daa#.71fgztsb6)
 
 **Very Deep Learning with Highway Networks**
 
@@ -876,6 +881,7 @@ with fast exact probabilistic inference over many layers."
 
 **Training Very Deep Networks**
 
+- intro: Extends [Highway Networks](https://arxiv.org/abs/1505.00387)
 - project page: [http://people.idsia.ch/~rupesh/very_deep_learning/](http://people.idsia.ch/~rupesh/very_deep_learning/)
 - arxiv: [http://arxiv.org/abs/1507.06228](http://arxiv.org/abs/1507.06228)
 
@@ -2434,6 +2440,20 @@ Compatible with Theano and TensorFlow. Optimized for Twitter.
 - homepage: [http://memkite.com/deep-learning-bibliography/](http://memkite.com/deep-learning-bibliography/)
 - github: [https://github.com/memkite/DeepLearningBibliography](https://github.com/memkite/DeepLearningBibliography)
 
+## Arxiv pages:
+
+**Neural and Evolutionary Computing**
+
+[https://arxiv.org/list/cs.NE/recent](https://arxiv.org/list/cs.NE/recent)
+
+**Learning**
+
+[https://arxiv.org/list/cs.LG/recent](https://arxiv.org/list/cs.LG/recent)
+
+**Computer Vision and Pattern Recognition**
+
+[https://arxiv.org/list/cs.CV/recent](https://arxiv.org/list/cs.CV/recent)
+
 # Tools
 
 **DNNGraph - A deep neural network model generation DSL in Haskell**
@@ -2528,3 +2548,8 @@ Compatible with Theano and TensorFlow. Optimized for Twitter.
 ![](https://cdn-images-1.medium.com/max/1200/1*27OxkybAgEXbb8BBjwhEIA.jpeg)
 
 [https://medium.com/@ken_getquik/image-recognition-is-not-enough-293cd7d58004#.dex817l2z](https://medium.com/@ken_getquik/image-recognition-is-not-enough-293cd7d58004#.dex817l2z)
+
+**ResNets, HighwayNets, and DenseNets, Oh My!**
+
+- blog: [https://medium.com/@awjuliani/resnets-highwaynets-and-densenets-oh-my-9bb15918ee32#.pgltg8pro](https://medium.com/@awjuliani/resnets-highwaynets-and-densenets-oh-my-9bb15918ee32#.pgltg8pro)
+- github: [https://github.com/awjuliani/TF-Tutorials/blob/master/Deep%20Network%20Comparison.ipynb](https://github.com/awjuliani/TF-Tutorials/blob/master/Deep%20Network%20Comparison.ipynb)

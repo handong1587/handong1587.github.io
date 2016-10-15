@@ -589,6 +589,10 @@ Implementations and ideas are largely based on papers from arxiv and implementat
 - youtube: [https://www.youtube.com/playlist?list=PL9Hr9sNUjfsmEu1ZniY0XpHSzl5uihcXZ](https://www.youtube.com/playlist?list=PL9Hr9sNUjfsmEu1ZniY0XpHSzl5uihcXZ)
 - github: [https://github.com/Hvass-Labs/TensorFlow-Tutorials](https://github.com/Hvass-Labs/TensorFlow-Tutorials)
 
+**Shapes and dynamic dimensions in TensorFlow**
+
+- blog: [https://blog.metaflow.fr/shapes-and-dynamic-dimensions-in-tensorflow-7b1fe79be363#.1293uf94t](https://blog.metaflow.fr/shapes-and-dynamic-dimensions-in-tensorflow-7b1fe79be363#.1293uf94t)
+
 # Theano
 
 **Theano**

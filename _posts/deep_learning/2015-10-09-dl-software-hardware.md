@@ -213,6 +213,10 @@ Contains all the popular DL frameworks (TensorFlow, Theano, Torch, Caffe, etc.)
 
 - blog: [http://www.theregister.co.uk/2016/08/22/samsung_m1_core/?mt=1471918256061](http://www.theregister.co.uk/2016/08/22/samsung_m1_core/?mt=1471918256061)
 
+**Intel will add deep-learning instructions to its processors**
+
+- blog: [http://lemire.me/blog/2016/10/14/intel-will-add-deep-learning-instructions-to-its-processors/](http://lemire.me/blog/2016/10/14/intel-will-add-deep-learning-instructions-to-its-processors/)
+
 # SRAM
 
 **ShiDianNao: Shifting Vision Processing Closer to the Sensor**

@@ -829,6 +829,13 @@ AUC: Area Under the Curve
 
 - blog: [http://www.win-vector.com/blog/2016/10/on-calculating-auc/](http://www.win-vector.com/blog/2016/10/on-calculating-auc/)
 
+## t-SNE
+
+**How to Use t-SNE Effectively**
+
+- blog: [http://distill.pub/2016/misread-tsne/](http://distill.pub/2016/misread-tsne/)
+- github: [https://github.com/distillpub/post--misread-tsne](https://github.com/distillpub/post--misread-tsne)
+
 # Machine Learning Library
 
 **LambdaNet: Purely functional artificial neural network library implemented in Haskell**

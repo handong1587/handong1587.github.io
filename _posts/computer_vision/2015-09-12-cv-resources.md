@@ -694,6 +694,12 @@ Given a sample represented as a sequence of strokes, the parser is able to conve
 - project page: [http://grail.cs.washington.edu/projects/timelapse3d/](http://grail.cs.washington.edu/projects/timelapse3d/)
 - paper: [http://grail.cs.washington.edu/projects/timelapse3d/3DTimelapseReconstructionICCV15.pdf](http://grail.cs.washington.edu/projects/timelapse3d/3DTimelapseReconstructionICCV15.pdf)
 
+**The Fast Bilateral Solver**
+
+- intro: ECCV 2016 Best Honorable Mention Award
+- arxiv: [https://arxiv.org/abs/1511.03296](https://arxiv.org/abs/1511.03296)
+- github: [https://github.com/poolio/bilateral_solver](https://github.com/poolio/bilateral_solver)
+
 **Are Elephants Bigger than Butterflies? Reasoning about Sizes of Objects**
 
 ![](http://grail.cs.washington.edu/projects/size/images/teaser.jpg)
