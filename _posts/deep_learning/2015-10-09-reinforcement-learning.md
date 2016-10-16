@@ -642,6 +642,11 @@ The project is dedicated to hero in life great Jesse Livermore.
 - blog: [http://www.araya.org/archives/955](http://www.araya.org/archives/955)
 - github: [https://github.com/arayabrain/BinarySearchLSTM](https://github.com/arayabrain/BinarySearchLSTM)
 
+**Deep reinforcement learning, battleship**
+
+- blog: [http://efavdb.com/battleship/](http://efavdb.com/battleship/)
+- github: [https://github.com/EFavDB/battleship](https://github.com/EFavDB/battleship)
+
 # Books
 
 **Reinforcement Learning: State-of-the-Art**

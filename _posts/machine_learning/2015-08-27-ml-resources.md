@@ -118,6 +118,12 @@ Other awesome lists can be found in this [list](https://github.com/sindresorhus/
 - blog: [https://www.analyticsvidhya.com/blog/2016/03/complete-guide-parameter-tuning-xgboost-with-codes-python/](https://www.analyticsvidhya.com/blog/2016/03/complete-guide-parameter-tuning-xgboost-with-codes-python/)
 - zh-blog: [http://blog.csdn.net/u010657489/article/details/51952785](http://blog.csdn.net/u010657489/article/details/51952785)
 
+**LightGBM, Light Gradient Boosting Machine**
+
+- intro: LightGBM is a fast, distributed, high performance gradient boosting (GBDT, GBRT, GBM or MART) framework 
+based on decision tree algorithms, used for ranking, classification and many other machine learning tasks.
+- github: [https://github.com/Microsoft/LightGBM](https://github.com/Microsoft/LightGBM)
+
 # Bootstrap
 
 **Coding, Visualizing, and Animating Bootstrap Resampling**

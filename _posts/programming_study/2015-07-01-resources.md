@@ -112,6 +112,10 @@ It contains real examples with errors and the author gives explanations of how t
 
 [https://medium.com/flow-ci/github-vs-bitbucket-vs-gitlab-vs-coding-7cf2b43888a1#.9fk5ubn5n](https://medium.com/flow-ci/github-vs-bitbucket-vs-gitlab-vs-coding-7cf2b43888a1#.9fk5ubn5n)
 
+**Git as a NoSql database**
+
+- blog: [https://www.kenneth-truyers.net/2016/10/13/git-nosql-database/](https://www.kenneth-truyers.net/2016/10/13/git-nosql-database/)
+
 # Go
 
 **Go by Example**

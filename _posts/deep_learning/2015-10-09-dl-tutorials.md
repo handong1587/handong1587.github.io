@@ -377,6 +377,10 @@ Machine learning workflow, Extracting feaures from images (colours, edges, corne
 
 [https://www.analyticsvidhya.com/blog/2016/10/tutorial-optimizing-neural-networks-using-keras-with-image-recognition-case-study/](https://www.analyticsvidhya.com/blog/2016/10/tutorial-optimizing-neural-networks-using-keras-with-image-recognition-case-study/)
 
+**15 Deep Learning Tutorials**
+
+- blog: [http://www.datasciencecentral.com/profiles/blogs/15-deep-learning-tutorials](http://www.datasciencecentral.com/profiles/blogs/15-deep-learning-tutorials)
+
 # Convolution
 
 ![](/assets/cnn-materials/conv.jpg)

@@ -1636,6 +1636,7 @@ Bicubic VS. Shepard CNN
 **Photo-Realistic Single Image Super-Resolution Using a Generative Adversarial Network**
 
 - arxiv: [https://arxiv.org/abs/1609.04802](https://arxiv.org/abs/1609.04802)
+- github(Torch): [https://github.com/leehomyc/Photo-Realistic-Super-Resoluton](https://github.com/leehomyc/Photo-Realistic-Super-Resoluton)
 
 **Real-Time Single Image and Video Super-Resolution Using an Efficient Sub-Pixel Convolutional Neural Network**
 
@@ -2066,6 +2067,10 @@ Bicubic VS. Shepard CNN
 
 - project page(code+data): [http://www.stat.ucla.edu/~ywu/ABP/main.html](http://www.stat.ucla.edu/~ywu/ABP/main.html)
 - paper: [http://www.stat.ucla.edu/~ywu/ABP/doc/arXivABP.pdf](http://www.stat.ucla.edu/~ywu/ABP/doc/arXivABP.pdf)
+
+**A Novel Representation of Neural Networks**
+
+- arxiv: [https://arxiv.org/abs/1610.01549](https://arxiv.org/abs/1610.01549)
 
 **Optimization of Convolutional Neural Network using Microcanonical Annealing Algorithm**
 

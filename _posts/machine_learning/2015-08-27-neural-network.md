@@ -23,6 +23,11 @@ date: 2015-08-27
 
 - paper: [https://github.com/mtomassoli/papers/blob/master/backprop.pdf](https://github.com/mtomassoli/papers/blob/master/backprop.pdf)
 
+**A Tutorial about Random Neural Networks in Supervised Learning**
+
+- inro: Neural Network World
+- arxiv: [https://arxiv.org/abs/1609.04846](https://arxiv.org/abs/1609.04846)
+
 # Blogs
 
 **Artificial Neural Networks (ANN) Introduction**

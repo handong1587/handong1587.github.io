@@ -451,6 +451,12 @@ and 1.15s per image with it".
 
 - homepage: [http://vision.cs.unc.edu/ilsvrc2015/download-videos-3j16.php#vid](http://vision.cs.unc.edu/ilsvrc2015/download-videos-3j16.php#vid)
 
+# Object Detection in 3D
+
+**Vote3Deep: Fast Object Detection in 3D Point Clouds Using Efficient Convolutional Neural Networks**
+
+- arxiv: [https://arxiv.org/abs/1609.06666](https://arxiv.org/abs/1609.06666)
+
 # Salient Object Detection
 
 This task involves predicting the salient regions of an image given by human eye fixations.
@@ -771,12 +777,6 @@ This task involves predicting the salient regions of an image given by human eye
 - intro: ECCV 2016 oral
 - paper: [https://cs.stanford.edu/people/ranjaykrishna/vrd/vrd.pdf](https://cs.stanford.edu/people/ranjaykrishna/vrd/vrd.pdf)
 - github: [https://github.com/Prof-Lu-Cewu/Visual-Relationship-Detection](https://github.com/Prof-Lu-Cewu/Visual-Relationship-Detection)
-
-# Object Detection in 3D
-
-**Vote3Deep: Fast Object Detection in 3D Point Clouds Using Efficient Convolutional Neural Networks**
-
-- arxiv: [http://arxiv.org/abs/1609.06666](http://arxiv.org/abs/1609.06666)
 
 # Object Proposal
 

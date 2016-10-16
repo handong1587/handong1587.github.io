@@ -47,6 +47,10 @@ date: 2015-08-27
 - youtube: [https://www.youtube.com/watch?v=3kYujfDgmNk&hd=1](https://www.youtube.com/watch?v=3kYujfDgmNk&hd=1)
 - lectures: [http://www.cs.ubc.ca/~nando/540-2013/lectures.html](http://www.cs.ubc.ca/~nando/540-2013/lectures.html)
 
+**A tour of random forests**
+
+[https://codewords.recurse.com/issues/seven/a-tour-of-random-forests](https://codewords.recurse.com/issues/seven/a-tour-of-random-forests)
+
 # Codes
 
 **Random Forest demo in Javascript**

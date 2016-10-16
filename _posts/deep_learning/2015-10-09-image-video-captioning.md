@@ -162,6 +162,11 @@ after the embedding and recurrent layers of the RNN."
 
 - arxiv: [http://arxiv.org/abs/1605.09553](http://arxiv.org/abs/1605.09553)
 
+**Image Caption Generation with Text-Conditional Semantic Attention**
+
+- arxiv: [https://arxiv.org/abs/1606.04621](https://arxiv.org/abs/1606.04621)
+- github: [https://github.com/LuoweiZhou/e2e-gLSTM-sc](https://github.com/LuoweiZhou/e2e-gLSTM-sc)
+
 **Captioning Images with Diverse Objects**
 
 - arxiv: [http://arxiv.org/abs/1606.07770](http://arxiv.org/abs/1606.07770)
