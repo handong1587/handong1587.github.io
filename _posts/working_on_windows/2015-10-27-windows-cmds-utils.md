@@ -58,6 +58,14 @@ dir /s /b /a:-d *.mp4 *.mkv > list.txt
 
 [http://stackoverflow.com/questions/10166386/arrays-linked-lists-and-other-data-structures-in-cmd-exe-batch-script/10167990#10167990](http://stackoverflow.com/questions/10166386/arrays-linked-lists-and-other-data-structures-in-cmd-exe-batch-script/10167990#10167990)
 
+**Loop through each line in a text file using a Windows batch file**
+
+```
+for /F "tokens=*" %%A in (myfile.txt) do [process] %%A
+```
+
+- stackoverflow: [http://stackoverflow.com/questions/155932/how-do-you-loop-through-each-line-in-a-text-file-using-a-windows-batch-file](http://stackoverflow.com/questions/155932/how-do-you-loop-through-each-line-in-a-text-file-using-a-windows-batch-file)
+
 # Utilities
 
 **XX-Net: a web proxy tool**

@@ -648,6 +648,11 @@ which encodes useful class information rather than individual units (feature act
 
 - blog: [https://codewords.recurse.com/issues/five/why-do-neural-networks-think-a-panda-is-a-vulture](https://codewords.recurse.com/issues/five/why-do-neural-networks-think-a-panda-is-a-vulture)
 
+**Assessing Threat of Adversarial Examples on Deep Neural Networks**
+
+- intro: pre-print version to appear in IEEE ICMLA 2016
+- arxiv: [https://arxiv.org/abs/1610.04256](https://arxiv.org/abs/1610.04256)
+
 # Deep Learning Networks
 
 **PCANet: A Simple Deep Learning Baseline for Image Classification?**
@@ -869,6 +874,7 @@ with fast exact probabilistic inference over many layers."
 **Highway Networks**
 
 - intro: ICML 2015 Deep Learning workshop
+- intro: shortcut connections with gating functions. These gates are data-dependent and have parameters
 - arxiv: [http://arxiv.org/abs/1505.00387](http://arxiv.org/abs/1505.00387)
 
 **Highway Networks with TensorFlow**
@@ -1462,6 +1468,12 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 **Large scale crowd analysis based on convolutional neural network**
 
 - paper: [http://www.sciencedirect.com/science/article/pii/S0031320315001259](http://www.sciencedirect.com/science/article/pii/S0031320315001259)
+
+**Crossing-line Crowd Counting with Two-phase Deep Neural Networks**
+
+- intro: ECCV 2016
+- paper: [http://www.ee.cuhk.edu.hk/~rzhao/project/crossline_eccv16/ZhaoLZWeccv16.pdf](http://www.ee.cuhk.edu.hk/~rzhao/project/crossline_eccv16/ZhaoLZWeccv16.pdf)
+- poster: [http://www.eccv2016.org/files/posters/P-3C-41.pdf](http://www.eccv2016.org/files/posters/P-3C-41.pdf)
 
 **Cross-scene Crowd Counting via Deep Convolutional Neural Networks**
 
@@ -2153,6 +2165,7 @@ Bicubic VS. Shepard CNN
 - intro: ECCV 2016
 - project page: [http://www.sifeiliu.net/linear-rnn](http://www.sifeiliu.net/linear-rnn)
 - paper: [http://faculty.ucmerced.edu/mhyang/papers/eccv16_rnn_filter.pdf](http://faculty.ucmerced.edu/mhyang/papers/eccv16_rnn_filter.pdf)
+- poster: [http://www.eccv2016.org/files/posters/O-3A-03.pdf](http://www.eccv2016.org/files/posters/O-3A-03.pdf)
 - github: [https://github.com/Liusifei/caffe-lowlevel](https://github.com/Liusifei/caffe-lowlevel)
 
 **Exploiting Depth from Single Monocular Images for Object Detection and Semantic Segmentation**
@@ -2391,8 +2404,6 @@ Compatible with Theano and TensorFlow. Optimized for Twitter.
 - github: [https://github.com/carpedm20/deep-learning-study](https://github.com/carpedm20/deep-learning-study)
 
 **Deep Learning Books**
-
-![](http://machinelearningmastery.com/wp-content/uploads/2016/04/Deep-Learning-Books.jpg)
 
 - blog: [http://machinelearningmastery.com/deep-learning-books/](http://machinelearningmastery.com/deep-learning-books/)
 
