@@ -61,6 +61,10 @@ date: 2016-04-03
 
 # Download Links
 
+**Microsoft Visual C++ 2008 Redistributable Package (x86)**
+
+[https://www.microsoft.com/en-us/download/details.aspx?id=29](https://www.microsoft.com/en-us/download/details.aspx?id=29)
+
 **Visual C++ Redistributable for Visual Studio 2012 Update 4 (MSVC11)**
 
 [https://www.microsoft.com/en-us/download/details.aspx?id=30679](https://www.microsoft.com/en-us/download/details.aspx?id=30679)

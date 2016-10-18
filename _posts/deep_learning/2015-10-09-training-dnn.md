@@ -507,6 +507,10 @@ date: 2015-10-09
 - intro: keras Imagegenerator
 - blog: [https://cartesianfaith.com/2016/10/06/what-you-need-to-know-about-data-augmentation-for-machine-learning/](https://cartesianfaith.com/2016/10/06/what-you-need-to-know-about-data-augmentation-for-machine-learning/)
 
+**HZPROC: torch data augmentation toolbox (supports affine transform)**
+
+- github: [https://github.com/zhanghang1989/hzproc](https://github.com/zhanghang1989/hzproc)
+
 # Low Numerical Precision
 
 **Training deep neural networks with low precision multiplications**
