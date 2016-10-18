@@ -78,6 +78,10 @@ not just the convolutions)
 
 - github: [https://github.com/danielvarga/keras-finetuning](https://github.com/danielvarga/keras-finetuning)
 
+**Inception-BN full for Caffe: Inception-BN ImageNet (21K classes) model for Caffe**
+
+- github: [https://github.com/pertusa/InceptionBN-21K-for-Caffe](https://github.com/pertusa/InceptionBN-21K-for-Caffe)
+
 ## ResNet
 
 **Deep Residual Learning for Image Recognition**
@@ -121,6 +125,10 @@ not just the convolutions)
 **Lab41 Reading Group: Deep Residual Learning for Image Recognition**
 
 - blog: [https://gab41.lab41.org/lab41-reading-group-deep-residual-learning-for-image-recognition-ffeb94745a1f](https://gab41.lab41.org/lab41-reading-group-deep-residual-learning-for-image-recognition-ffeb94745a1f)
+
+**50-layer ResNet, trained on ImageNet, classifying webcam**
+
+- homepage: [https://ml4a.github.io/demos/keras.js/](https://ml4a.github.io/demos/keras.js/)
 
 ## ResNet-V2
 
@@ -171,23 +179,15 @@ not just the convolutions)
 
 **Inception-V4, Inception-Resnet And The Impact Of Residual Connections On Learning**
 
-- intro: Workshop track - ICLR 2016
+- intro: Workshop track - ICLR 2016. 3.08 % top-5 error on ImageNet CLS
 - intro: "achieve 3.08% top-5 error on the test set of the ImageNet classification (CLS) challenge"
 - arxiv: [http://arxiv.org/abs/1602.07261](http://arxiv.org/abs/1602.07261)
-- github: [https://github.com/lim0606/torch-inception-resnet-v2](https://github.com/lim0606/torch-inception-resnet-v2)
 
 ## Inception-ResNet-V2
 
-- - -
+**The inception-resnet-v2 models trained from scratch via torch**
 
-**Striving for Simplicity: The All Convolutional Net**
-
-- arxiv: [http://arxiv.org/abs/1412.6806](http://arxiv.org/abs/1412.6806)
-
-**Systematic evaluation of CNN advances on the ImageNet**
-
-- arxiv: [http://arxiv.org/abs/1606.02228](http://arxiv.org/abs/1606.02228)
-- github: [https://github.com/ducha-aiki/caffenet-benchmark](https://github.com/ducha-aiki/caffenet-benchmark)
+- github: [https://github.com/lim0606/torch-inception-resnet-v2](https://github.com/lim0606/torch-inception-resnet-v2)
 
 # Deep Learning And Bayesian
 
@@ -1060,6 +1060,11 @@ with fast exact probabilistic inference over many layers."
 - arxiv: [https://arxiv.org/abs/1610.00696](https://arxiv.org/abs/1610.00696)
 - video: [https://sites.google.com/site/robotforesight/](https://sites.google.com/site/robotforesight/)
 
+**Sim-to-Real Robot Learning from Pixels with Progressive Nets**
+
+- intro: Google DeepMind
+- arxiv: [https://arxiv.org/abs/1610.04286](https://arxiv.org/abs/1610.04286)
+
 # Deep Learning on Mobile Devices
 
 **Convolutional neural networks on the iPhone with VGGNet**
@@ -1661,6 +1666,10 @@ Bicubic VS. Shepard CNN
 - intro: A note on Real­Time Single Image and Video Super­Resolution Using an Efficient Sub­Pixel Convolutional Neural Network.
 - arxiv: [http://arxiv.org/abs/1609.07009](http://arxiv.org/abs/1609.07009)
 
+**Amortised MAP Inference for Image Super-resolution**
+
+- arxiv: [https://arxiv.org/abs/1610.04490](https://arxiv.org/abs/1610.04490)
+
 ## Image Denoising
 
 **Beyond a Gaussian Denoiser: Residual Learning of Deep CNN for Image Denoising**
@@ -1896,6 +1905,10 @@ Bicubic VS. Shepard CNN
 - paper: [http://arxiv.org/abs/1406.2751](http://arxiv.org/abs/1406.2751)
 - github: [https://github.com/jbornschein/reweighted-ws](https://github.com/jbornschein/reweighted-ws)
 
+**Striving for Simplicity: The All Convolutional Net**
+
+- arxiv: [http://arxiv.org/abs/1412.6806](http://arxiv.org/abs/1412.6806)
+
 **Probabilistic Backpropagation for Scalable Learning of Bayesian Neural Networks**
 
 - paper: [http://arxiv.org/abs/1502.05336](http://arxiv.org/abs/1502.05336)
@@ -2064,6 +2077,11 @@ Bicubic VS. Shepard CNN
 - intro: CVPR 2016
 - paper: [http://dlaptev.org/papers/Laptev16_CVPR.pdf](http://dlaptev.org/papers/Laptev16_CVPR.pdf)
 - github: [https://github.com/dlaptev/TI-pooling](https://github.com/dlaptev/TI-pooling)
+
+**Systematic evaluation of CNN advances on the ImageNet**
+
+- arxiv: [http://arxiv.org/abs/1606.02228](http://arxiv.org/abs/1606.02228)
+- github: [https://github.com/ducha-aiki/caffenet-benchmark](https://github.com/ducha-aiki/caffenet-benchmark)
 
 **Why does deep and cheap learning work so well?**
 
@@ -2456,7 +2474,11 @@ Compatible with Theano and TensorFlow. Optimized for Twitter.
 - homepage: [http://memkite.com/deep-learning-bibliography/](http://memkite.com/deep-learning-bibliography/)
 - github: [https://github.com/memkite/DeepLearningBibliography](https://github.com/memkite/DeepLearningBibliography)
 
-## Arxiv pages:
+**Deep Learning Papers Reading Roadmap**
+
+- github: [https://github.com/songrotek/Deep-Learning-Papers-Reading-Roadmap](https://github.com/songrotek/Deep-Learning-Papers-Reading-Roadmap)
+
+## Arxiv Pages
 
 **Neural and Evolutionary Computing**
 

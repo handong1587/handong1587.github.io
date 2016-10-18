@@ -187,6 +187,17 @@ date: 2015-10-09
 - blog: [https://zo7.github.io/blog/2016/09/25/generating-faces.html](https://zo7.github.io/blog/2016/09/25/generating-faces.html)
 - github: [https://github.com/zo7/facegen](https://github.com/zo7/facegen)
 
+**Attention Models in Image and Caption Generation**
+
+- blog: [https://casmls.github.io/general/2016/10/16/attention_model.html](https://casmls.github.io/general/2016/10/16/attention_model.html)
+
+**Deconvolution and Checkerboard Artifacts**
+
+:star::star::star::star::star:
+
+- intro: Google Brain & Université de Montréal
+- blog: [http://distill.pub/2016/deconv-checkerboard/](http://distill.pub/2016/deconv-checkerboard/)
+
 # Projects
 
 **Generate cat images with neural networks**

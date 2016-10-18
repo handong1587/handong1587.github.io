@@ -305,6 +305,10 @@ based on decision tree algorithms, used for ranking, classification and many oth
 
 - blog: [http://www.pyimagesearch.com/2016/10/10/gradient-descent-with-python/](http://www.pyimagesearch.com/2016/10/10/gradient-descent-with-python/)
 
+**Stochastic Gradient Descent (SGD) with Python**
+
+- blog: [http://www.pyimagesearch.com/2016/10/17/stochastic-gradient-descent-sgd-with-python/](http://www.pyimagesearch.com/2016/10/17/stochastic-gradient-descent-sgd-with-python/)
+
 **Gradient Descent Learns Linear Dynamical Systems**
 
 - blog: [http://www.offconvex.org/2016/10/13/gradient-descent-learns-dynamical-systems/](http://www.offconvex.org/2016/10/13/gradient-descent-learns-dynamical-systems/)
@@ -427,6 +431,10 @@ Classic strategies:
 **Bayesian Deep Learning Part II: Bridging PyMC3 and Lasagne to build a Hierarchical Neural Network**
 
 - blog: [http://twiecki.github.io/blog/2016/07/05/bayesian-deep-learning/](http://twiecki.github.io/blog/2016/07/05/bayesian-deep-learning/)
+
+**Practical Learning of Deep Gaussian Processes via Random Fourier Features**
+
+- arxiv: [https://arxiv.org/abs/1610.04386](https://arxiv.org/abs/1610.04386)
 
 # Mathematics
 
