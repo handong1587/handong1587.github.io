@@ -103,8 +103,10 @@ date: 2015-10-09
 
 ![](http://www.evolvingai.org/files/styles/content_width/public/fc8_layer_full.jpg?itok=q_X70Oj-)
 
+- intro: Visualization for Deep Learning workshop. ICML 2016
 - arxiv: [http://arxiv.org/abs/1602.03616](http://arxiv.org/abs/1602.03616)
 - homepage: [http://www.evolvingai.org/nguyen-yosinski-clune-2016-multifaceted-feature](http://www.evolvingai.org/nguyen-yosinski-clune-2016-multifaceted-feature)
+- github: [https://github.com/Evolving-AI-Lab/mfv](https://github.com/Evolving-AI-Lab/mfv)
 
 **A New Method to Visualize Deep Neural Networks**
 

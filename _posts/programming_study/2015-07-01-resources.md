@@ -260,7 +260,7 @@ You must move pacman (the green cursor) to highlight each word on the gameboard 
 
 [https://www.hackerrank.com/domains](https://www.hackerrank.com/domains)
 
-**Python / C++ 11 Solutions of All 375 LeetCode Questions**
+**Python / C++ 11 Solutions of All 418 LeetCode Questions**
 
 - github: [https://github.com/kamyu104/LeetCode](https://github.com/kamyu104/LeetCode)
 

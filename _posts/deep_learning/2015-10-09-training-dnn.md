@@ -20,6 +20,16 @@ date: 2015-10-09
 - intro: ReLU
 - paper: [http://machinelearning.wustl.edu/mlpapers/paper_files/icml2010_NairH10.pdf](http://machinelearning.wustl.edu/mlpapers/paper_files/icml2010_NairH10.pdf)
 
+**Expressiveness of Rectifier Networks**
+
+- intro: ICML 2016
+- intro: This paper studies the expressiveness of ReLU Networks
+- arxiv: [https://arxiv.org/abs/1511.05678](https://arxiv.org/abs/1511.05678)
+
+**How can a deep neural network with ReLU activations in its hidden layers approximate any function?**
+
+- quora: [https://www.quora.com/How-can-a-deep-neural-network-with-ReLU-activations-in-its-hidden-layers-approximate-any-function](https://www.quora.com/How-can-a-deep-neural-network-with-ReLU-activations-in-its-hidden-layers-approximate-any-function)
+
 ## LReLU
 
 **Rectifier Nonlinearities Improve Neural Network Acoustic Models**
@@ -88,7 +98,12 @@ date: 2015-10-09
 
 **Understanding and Improving Convolutional Neural Networks via Concatenated Rectified Linear Units**
 
+- intro: ICML 2016
 - arxiv: [http://arxiv.org/abs/1603.05201](http://arxiv.org/abs/1603.05201)
+
+**Implement CReLU (Concatenated ReLU)**
+
+- github: [https://github.com/pfnet/chainer/pull/1142](https://github.com/pfnet/chainer/pull/1142)
 
 ## GELU
 
@@ -506,6 +521,10 @@ date: 2015-10-09
 
 - intro: keras Imagegenerator
 - blog: [https://cartesianfaith.com/2016/10/06/what-you-need-to-know-about-data-augmentation-for-machine-learning/](https://cartesianfaith.com/2016/10/06/what-you-need-to-know-about-data-augmentation-for-machine-learning/)
+
+**HZPROC: torch data augmentation toolbox (supports affine transform)**
+
+- github: [https://github.com/zhanghang1989/hzproc](https://github.com/zhanghang1989/hzproc)
 
 # Low Numerical Precision
 
