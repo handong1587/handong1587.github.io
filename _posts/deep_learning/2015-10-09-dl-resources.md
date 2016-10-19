@@ -96,7 +96,6 @@ not just the convolutions)
 - github: [https://github.com/gcr/torch-residual-networks](https://github.com/gcr/torch-residual-networks)
 - github: [https://github.com/apark263/cfmz](https://github.com/apark263/cfmz)
 - github: [https://github.com/NervanaSystems/neon/blob/master/examples/cifar10_msra.py](https://github.com/NervanaSystems/neon/blob/master/examples/cifar10_msra.py)
-- github: [https://github.com/facebook/fb.resnet.torch](https://github.com/facebook/fb.resnet.torch)
 - github: [https://github.com/yasunorikudo/chainer-ResNet](https://github.com/yasunorikudo/chainer-ResNet)
 - github: [https://github.com/raghakot/keras-resnet](https://github.com/raghakot/keras-resnet)
 - github: [https://github.com/ry/tensorflow-resnet](https://github.com/ry/tensorflow-resnet)
@@ -107,7 +106,9 @@ not just the convolutions)
 
 **Training and investigating Residual Nets**
 
-[http://torch.ch/blog/2016/02/04/resnets.html](http://torch.ch/blog/2016/02/04/resnets.html)
+- intro: Facebook AI Research
+- blog: [http://torch.ch/blog/2016/02/04/resnets.html](http://torch.ch/blog/2016/02/04/resnets.html)
+- github: [https://github.com/facebook/fb.resnet.torch](https://github.com/facebook/fb.resnet.torch)
 
 **Highway Networks and Deep Residual Networks**
 
@@ -175,15 +176,13 @@ not just the convolutions)
 - arxiv: [https://arxiv.org/abs/1610.02915](https://arxiv.org/abs/1610.02915)
 - github: [https://github.com/jhkim89/PyramidNet](https://github.com/jhkim89/PyramidNet)
 
-## Inception-V4
+## Inception-V4 / Inception-ResNet-V2
 
 **Inception-V4, Inception-Resnet And The Impact Of Residual Connections On Learning**
 
 - intro: Workshop track - ICLR 2016. 3.08 % top-5 error on ImageNet CLS
 - intro: "achieve 3.08% top-5 error on the test set of the ImageNet classification (CLS) challenge"
 - arxiv: [http://arxiv.org/abs/1602.07261](http://arxiv.org/abs/1602.07261)
-
-## Inception-ResNet-V2
 
 **The inception-resnet-v2 models trained from scratch via torch**
 
@@ -679,6 +678,11 @@ which encodes useful class information rather than individual units (feature act
 - homepage: [http://vcl.ucsd.edu/~sxie/2014/09/12/dsn-project/](http://vcl.ucsd.edu/~sxie/2014/09/12/dsn-project/)
 - github: [https://github.com/s9xie/DSN](https://github.com/s9xie/DSN)
 - notes: [http://zhangliliang.com/2014/11/02/paper-note-dsn/](http://zhangliliang.com/2014/11/02/paper-note-dsn/)
+
+**FitNets: Hints for Thin Deep Nets**
+
+- arxiv: [https://arxiv.org/abs/1412.6550](https://arxiv.org/abs/1412.6550)
+- github: [https://github.com/adri-romsor/FitNets](https://github.com/adri-romsor/FitNets)
 
 **Striving for Simplicity: The All Convolutional Net**
 

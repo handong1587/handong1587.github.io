@@ -52,6 +52,11 @@ date: 2015-10-01
 
 - github: [https://github.com/froggey/Mezzano](https://github.com/froggey/Mezzano)
 
+**Half-precision floating point library**
+
+- homepage: [http://half.sourceforge.net/](http://half.sourceforge.net/)
+- github: [https://github.com/headupinclouds/half](https://github.com/headupinclouds/half)
+
 # Blogs
 
 **Design Of A Modern Cache**

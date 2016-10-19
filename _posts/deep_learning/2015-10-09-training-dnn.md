@@ -223,6 +223,14 @@ date: 2015-10-09
 
 - arxiv: [http://arxiv.org/abs/1511.06411](http://arxiv.org/abs/1511.06411)
 
+# Pooling
+
+**Fractional Max-Pooling**
+
+- arxiv: [https://arxiv.org/abs/1412.6071](https://arxiv.org/abs/1412.6071)
+- notes: [https://gist.github.com/shagunsodhani/ccfe3134f46fd3738aa0](https://gist.github.com/shagunsodhani/ccfe3134f46fd3738aa0)
+- github: [https://github.com/torch/nn/issues/371](https://github.com/torch/nn/issues/371)
+
 # Optimization Methods
 
 **On Optimization Methods for Deep Learning**
@@ -391,6 +399,16 @@ date: 2015-10-09
 
 - arxiv: [http://arxiv.org/abs/1606.07326](http://arxiv.org/abs/1606.07326)
 - github: [https://github.com/panweihit/DropNeuron](https://github.com/panweihit/DropNeuron)
+
+## Maxout
+
+**Maxout Networks**
+
+- intro: ICML 2013
+- intro: "its output is the max of a set of inputs, a natural companion to dropout"
+- project page: [http://www-etud.iro.umontreal.ca/~goodfeli/maxout.html](http://www-etud.iro.umontreal.ca/~goodfeli/maxout.html)
+- arxiv: [https://arxiv.org/abs/1302.4389](https://arxiv.org/abs/1302.4389)
+- github: [https://github.com/lisa-lab/pylearn2/blob/master/pylearn2/models/maxout.py](https://github.com/lisa-lab/pylearn2/blob/master/pylearn2/models/maxout.py)
 
 # Gradient Descent
 
