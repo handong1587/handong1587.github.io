@@ -171,6 +171,15 @@ after the embedding and recurrent layers of the RNN."
 
 - arxiv: [http://arxiv.org/abs/1606.07770](http://arxiv.org/abs/1606.07770)
 
+**phi-LSTM: A Phrase-based Hierarchical LSTM Model for Image Captioning**
+
+- intro: ACCV 2016
+- arxiv: [http://arxiv.org/abs/1608.05813](http://arxiv.org/abs/1608.05813)
+
+**Learning to generalize to new compositions in image understanding**
+
+- arxiv: [http://arxiv.org/abs/1608.07639](http://arxiv.org/abs/1608.07639)
+
 **Generating captions without looking beyond objects**
 
 - intro: ECCV2016 2nd Workshop on Storytelling with Images and Videos (VisStory)
@@ -243,15 +252,6 @@ after the embedding and recurrent layers of the RNN."
 
 - arxiv: [http://arxiv.org/abs/1608.04959](http://arxiv.org/abs/1608.04959)
 
-**phi-LSTM: A Phrase-based Hierarchical LSTM Model for Image Captioning**
-
-- intro: ACCV 2016
-- arxiv: [http://arxiv.org/abs/1608.05813](http://arxiv.org/abs/1608.05813)
-
-**Learning to generalize to new compositions in image understanding**
-
-- arxiv: [http://arxiv.org/abs/1608.07639](http://arxiv.org/abs/1608.07639)
-
 **Grounding and Generation of Natural Language Descriptions for Images and Videos**
 
 - intro: Anna Rohrbach. Allen Institute for Artificial Intelligence (AI2)
@@ -261,6 +261,10 @@ after the embedding and recurrent layers of the RNN."
 
 - intro: Winner of three (fill-in-the-blank, multiple-choice test, and movie retrieval) out of four tasks of the LSMDC 2016 Challenge (Workshop in ECCV 2016)
 - arxiv: [https://arxiv.org/abs/1610.02947](https://arxiv.org/abs/1610.02947)
+
+**Spatio-Temporal Attention Models for Grounded Video Captioning**
+
+- arxiv: [https://arxiv.org/abs/1610.04997](https://arxiv.org/abs/1610.04997)
 
 # Projects
 

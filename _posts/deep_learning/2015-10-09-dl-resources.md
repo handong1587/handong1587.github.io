@@ -384,6 +384,10 @@ Restricted Boltzmann Machine (RBM), Sparse Coding and Auto-encoder
 - arxiv: [https://arxiv.org/abs/1511.06335](https://arxiv.org/abs/1511.06335)
 - github: [https://github.com/piiswrong/dec](https://github.com/piiswrong/dec)
 
+**Towards K-means-friendly Spaces: Simultaneous Deep Learning and Clustering**
+
+- arxiv: [https://arxiv.org/abs/1610.04794](https://arxiv.org/abs/1610.04794)
+
 # Transfer Learning
 
 **How transferable are features in deep neural networks?**
@@ -1863,6 +1867,10 @@ Bicubic VS. Shepard CNN
 **Gated Siamese Convolutional Neural Network Architecture for Human Re-Identification**
 
 - arxiv: [https://arxiv.org/abs/1607.08378](https://arxiv.org/abs/1607.08378)
+
+**Deep Learning Prototype Domains for Person Re-Identification**
+
+- arxiv: [https://arxiv.org/abs/1610.05047](https://arxiv.org/abs/1610.05047)
 
 ## Music Tagging
 
