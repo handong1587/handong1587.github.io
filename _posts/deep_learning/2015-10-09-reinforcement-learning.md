@@ -324,8 +324,6 @@ date: 2015-10-09
 - arxiv: [https://arxiv.org/abs/1605.06676](https://arxiv.org/abs/1605.06676)
 - github: [https://github.com/iassael/learning-to-communicate](https://github.com/iassael/learning-to-communicate)
 
-## RC-NFQ
-
 **Deep Reinforcement Learning with Regularized Convolutional Neural Fitted Q Iteration**
 **RC-NFQ: Regularized Convolutional Neural Fitted Q Iteration**
 
@@ -357,6 +355,10 @@ Incorporates dropout regularization and convolutional neural networks with a sep
 
 - intro: Bachelor's thesis
 - arxiv: [https://arxiv.org/abs/1610.02164](https://arxiv.org/abs/1610.02164)
+
+**Utilization of Deep Reinforcement Learning for saccadic-based object visual search**
+
+- arxiv: [https://arxiv.org/abs/1610.06492](https://arxiv.org/abs/1610.06492)
 
 # Projects
 
