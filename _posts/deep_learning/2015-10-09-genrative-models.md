@@ -54,6 +54,12 @@ date: 2015-10-09
 - github: [https://github.com/soumith/dcgan.torch](https://github.com/soumith/dcgan.torch)
 - github: [https://github.com/carpedm20/DCGAN-tensorflow](https://github.com/carpedm20/DCGAN-tensorflow)
 
+**InfoGAN: Interpretable Representation Learning by Information Maximizing Generative Adversarial Nets**
+
+- arxiv: [https://arxiv.org/abs/1606.03657](https://arxiv.org/abs/1606.03657)
+- github: [https://github.com/openai/InfoGAN](https://github.com/openai/InfoGAN)
+- github(Tensorflow): [https://github.com/buriburisuri/supervised_infogan](https://github.com/buriburisuri/supervised_infogan)
+
 **Coupled Generative Adversarial Networks**
 
 - arxiv: [https://arxiv.org/abs/1606.07536](https://arxiv.org/abs/1606.07536)
@@ -64,6 +70,7 @@ date: 2015-10-09
 
 - author: Junbo Zhao, Michael Mathieu, Yann LeCun
 - arxiv: [http://arxiv.org/abs/1609.03126](http://arxiv.org/abs/1609.03126)
+- github(Tensorflow): [https://github.com/buriburisuri/ebgan](https://github.com/buriburisuri/ebgan)
 
 **Connecting Generative Adversarial Networks and Actor-Critic Methods**
 

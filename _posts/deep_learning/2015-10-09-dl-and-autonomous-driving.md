@@ -170,3 +170,7 @@ without running into obstacles using a type of reinforcement learning called Q-L
 ![](https://cdn-images-1.medium.com/max/800/1*58utPvF5Lfyw9PpRjfaGpA.jpeg)
 
 [https://medium.com/the-mission/the-road-ahead-autonomous-vehicles-startup-ecosystem-3c91d546673d#.gft1xyh9l](https://medium.com/the-mission/the-road-ahead-autonomous-vehicles-startup-ecosystem-3c91d546673d#.gft1xyh9l)
+
+**Deep Driving - A revolutionary AI technique is about to transform the self-driving car**
+
+[https://www.technologyreview.com/s/602600/deep-driving/](https://www.technologyreview.com/s/602600/deep-driving/)

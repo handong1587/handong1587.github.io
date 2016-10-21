@@ -150,7 +150,10 @@ after the embedding and recurrent layers of the RNN."
 
 **Image Captioning with Deep Bidirectional LSTMs**
 
+- intro: ACMMM 2016
 - arxiv: [http://arxiv.org/abs/1604.00790](http://arxiv.org/abs/1604.00790)
+- github(Caffe): [https://github.com/deepsemantic/image_captioning](https://github.com/deepsemantic/image_captioning)
+- demo: [https://youtu.be/a0bh9_2LE24](https://youtu.be/a0bh9_2LE24)
 
 ## Encode, Review, and Decode
 
@@ -184,6 +187,15 @@ after the embedding and recurrent layers of the RNN."
 
 - intro: ECCV2016 2nd Workshop on Storytelling with Images and Videos (VisStory)
 - arxiv: [https://arxiv.org/abs/1610.03708](https://arxiv.org/abs/1610.03708)
+
+**SPICE: Semantic Propositional Image Caption Evaluation**
+
+![](http://www.panderson.me/images/spice-concept.png)
+
+- intro: ECCV 2016
+- project page: [http://www.panderson.me/spice/](http://www.panderson.me/spice/)
+- paper: [http://www.panderson.me/images/SPICE.pdf](http://www.panderson.me/images/SPICE.pdf)
+- github: [https://github.com/peteanderson80/SPICE](https://github.com/peteanderson80/SPICE)
 
 # Object Descriptions
 
