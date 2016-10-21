@@ -133,7 +133,7 @@ not just the convolutions)
 
 ## ResNet-V2
 
-**Identity 89Mappings in Deep Residual Networks**
+**Identity Mappings in Deep Residual Networks**
 
 - intro: ECCV 2016. ResNet-v2
 - arxiv: [http://arxiv.org/abs/1603.05027](http://arxiv.org/abs/1603.05027)
