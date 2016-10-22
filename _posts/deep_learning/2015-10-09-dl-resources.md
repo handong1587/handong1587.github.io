@@ -837,6 +837,9 @@ with fast exact probabilistic inference over many layers."
 - github: [https://github.com/liuzhuang13/DenseNet](https://github.com/liuzhuang13/DenseNet)
 - github(Lasagne): [https://github.com/Lasagne/Recipes/tree/master/papers/densenet](https://github.com/Lasagne/Recipes/tree/master/papers/densenet)
 - github(Keras): [https://github.com/tdeboissiere/DeepLearningImplementations/tree/master/DenseNet](https://github.com/tdeboissiere/DeepLearningImplementations/tree/master/DenseNet)
+- github(Caffe): [https://github.com/liuzhuang13/DenseNetCaffe](https://github.com/liuzhuang13/DenseNetCaffe)
+- github(Tensorflow): [https://github.com/YixuanLi/densenet-tensorflow](https://github.com/YixuanLi/densenet-tensorflow)
+
 
 **CliqueCNN: Deep Unsupervised Exemplar Learning**
 
