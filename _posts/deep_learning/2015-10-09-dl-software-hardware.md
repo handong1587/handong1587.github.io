@@ -230,3 +230,10 @@ Contains all the popular DL frameworks (TensorFlow, Theano, Torch, Caffe, etc.)
 ![](http://www.nextplatform.com/wp-content/uploads/2016/06/CNNLabProg.png)
 
 - blog: [http://www.nextplatform.com/2016/06/29/universal-fpga-gpu-platform-deep-learning/](http://www.nextplatform.com/2016/06/29/universal-fpga-gpu-platform-deep-learning/)
+
+# Videos
+
+**Energy-efficient Hardware for Embedded Vision and Deep Convolutional Neural Networks**
+
+- intro: September 2016 Embedded Vision Alliance Member Meeting Presentation: MIT
+- youtube: [https://www.youtube.com/watch?v=dO_lHz87DVM](https://www.youtube.com/watch?v=dO_lHz87DVM)

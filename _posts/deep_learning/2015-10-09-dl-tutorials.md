@@ -301,6 +301,10 @@ date: 2015-10-09
 
 - blog: [http://www.pyimagesearch.com/2016/09/12/softmax-classifiers-explained/](http://www.pyimagesearch.com/2016/09/12/softmax-classifiers-explained/)
 
+**The Softmax function and its derivative**
+
+- blog: [http://eli.thegreenplace.net/2016/the-softmax-function-and-its-derivative/](http://eli.thegreenplace.net/2016/the-softmax-function-and-its-derivative/)
+
 **How an algorithm behind Deep Learning works**
 
 - video: [http://blog.revolutionanalytics.com/2016/09/how-the-algorithm-behind-deep-learning-works.html](http://blog.revolutionanalytics.com/2016/09/how-the-algorithm-behind-deep-learning-works.html)
@@ -492,6 +496,11 @@ Machine learning workflow, Extracting feaures from images (colours, edges, corne
 ![](http://www.danvatterott.com/images/BMM_CNN/visual_system_models.png)
 
 - blog: [http://www.danvatterott.com/blog/2016/09/20/attention-in-a-convolutional-neural-net/](http://www.danvatterott.com/blog/2016/09/20/attention-in-a-convolutional-neural-net/)
+
+**Attention-based Networks**
+
+- intro: M. Malinowski. Max Planck Institut Informatik
+- slides: [http://download.mpi-inf.mpg.de/d2/mmalinow-slides/attention_networks.pdf](http://download.mpi-inf.mpg.de/d2/mmalinow-slides/attention_networks.pdf)
 
 # Caffe
 

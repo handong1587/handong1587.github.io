@@ -530,6 +530,10 @@ Compressed model is less than 500KB
 - intro: Magenta / DeepJazz / BachBot / FlowMachines / WaveNet / GRUV
 - blog: [http://www.asimovinstitute.org/notes-vs-waves/](http://www.asimovinstitute.org/notes-vs-waves/)
 
+**WIMP2: Creating Music with AI: Highlights of Current Research**
+
+- youtube: [https://www.youtube.com/watch?v=5K4hn6cBUPU](https://www.youtube.com/watch?v=5K4hn6cBUPU)
+
 # Poetry
 
 **NeuralSnap: Generates poetry from images using convolutional and recurrent neural networks**

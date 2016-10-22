@@ -157,6 +157,7 @@ date: 2015-10-09
 - intro: BMVC 2015
 - paper: [http://www.robots.ox.ac.uk/~vgg/publications/2015/Parkhi15/parkhi15.pdf](http://www.robots.ox.ac.uk/~vgg/publications/2015/Parkhi15/parkhi15.pdf)
 - homepage: [http://www.robots.ox.ac.uk/~vgg/software/vgg_face/](http://www.robots.ox.ac.uk/~vgg/software/vgg_face/)
+- github(Keras): [https://github.com/rcmalli/keras-vggface](https://github.com/rcmalli/keras-vggface)
 
 #### FaceNet
 

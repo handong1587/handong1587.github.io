@@ -96,8 +96,8 @@ can boost the classification accuracy and the detection and localization accurac
 
 **DeepID-Net: Deformable Deep Convolutional Neural Networks for Object Detection**
 
-- intro: an extension of R-CNN
-- keywords: box pre-training, cascade on region proposals, deformation layers and context representations
+- intro: PAMI 2016
+- intro: an extension of R-CNN. box pre-training, cascade on region proposals, deformation layers and context representations
 - project page: [http://www.ee.cuhk.edu.hk/%CB%9Cwlouyang/projects/imagenetDeepId/index.html](http://www.ee.cuhk.edu.hk/%CB%9Cwlouyang/projects/imagenetDeepId/index.html)
 - arxiv: [http://arxiv.org/abs/1412.5661](http://arxiv.org/abs/1412.5661)
 
@@ -372,13 +372,13 @@ and 1.15s per image with it".
 - github: [https://github.com/sanghoon/pva-faster-rcnn](https://github.com/sanghoon/pva-faster-rcnn)
 - leaderboard(PVANet 9.0): [http://host.robots.ox.ac.uk:8080/leaderboard/displaylb.php?challengeid=11&compid=4](http://host.robots.ox.ac.uk:8080/leaderboard/displaylb.php?challengeid=11&compid=4)
 
+## GBD-Net
+
 **Gated Bi-directional CNN for Object Detection**
 
 - intro: The Chinese University of Hong Kong & Sensetime Group Limited
 - paper: [http://link.springer.com/chapter/10.1007/978-3-319-46478-7_22](http://link.springer.com/chapter/10.1007/978-3-319-46478-7_22)
 - mirror: [https://pan.baidu.com/s/1dFohO7v](https://pan.baidu.com/s/1dFohO7v)
-
-## GBD-Net
 
 **Crafting GBD-Net for Object Detection**
 
@@ -386,6 +386,12 @@ and 1.15s per image with it".
 - intro: gated bi-directional CNN (GBD-Net)
 - arxiv: [https://arxiv.org/abs/1610.02579](https://arxiv.org/abs/1610.02579)
 - github: [https://github.com/craftGBD/craftGBD](https://github.com/craftGBD/craftGBD)
+
+## StuffNet
+
+**StuffNet: Using 'Stuff' to Improve Object Detection**
+
+- arxiv: [https://arxiv.org/abs/1610.05861](https://arxiv.org/abs/1610.05861)
 
 # Detection From Video
 
@@ -660,6 +666,12 @@ This task involves predicting the salient regions of an image given by human eye
 
 - paper: [http://arxiv.org/abs/1412.0069](http://arxiv.org/abs/1412.0069)
 - project: [http://mmlab.ie.cuhk.edu.hk/projects/TA-CNN/](http://mmlab.ie.cuhk.edu.hk/projects/TA-CNN/)
+
+**Deep Learning Strong Parts for Pedestrian Detection**
+
+- intro: ICCV 2015. CUHK. DeepParts
+- intro: Achieving 11.89% average miss rate on Caltech Pedestrian Dataset
+- paper: [http://personal.ie.cuhk.edu.hk/~pluo/pdf/tianLWTiccv15.pdf](http://personal.ie.cuhk.edu.hk/~pluo/pdf/tianLWTiccv15.pdf)
 
 **Deep convolutional neural networks for pedestrian detection**
 

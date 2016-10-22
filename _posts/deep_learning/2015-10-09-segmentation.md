@@ -285,6 +285,11 @@ fine-tune the trained network with more challenging examples later
 - intro: ICIP 2016 Best Paper / Student Paper Finalist
 - arxiv: [https://arxiv.org/abs/1609.09220](https://arxiv.org/abs/1609.09220)
 
+**Mixed context networks for semantic segmentation**
+
+- intro: Hikvision Research Institute
+- arxiv: [https://arxiv.org/abs/1610.05854](https://arxiv.org/abs/1610.05854)
+
 # Instance Segmentation
 
 **Simultaneous Detection and Segmentation**
@@ -492,3 +497,10 @@ fine-tune the trained network with more challenging examples later
 **Deep Learning for Natural Image Segmentation Priors**
 
 [http://cs.brown.edu/courses/csci2951-t/finals/ghope/](http://cs.brown.edu/courses/csci2951-t/finals/ghope/)
+
+# Talks
+
+**Deep learning for image segmentation**
+
+- intro: PyData Warsaw - Mateusz Opala & Michał Jamroż
+- youtube: [https://www.youtube.com/watch?v=W6r_a5crqGI](https://www.youtube.com/watch?v=W6r_a5crqGI)
