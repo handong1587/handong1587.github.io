@@ -289,6 +289,10 @@ date: 2015-10-09
 
 - blog: [http://blog.mrtz.org/2013/09/07/the-zen-of-gradient-descent.html](http://blog.mrtz.org/2013/09/07/the-zen-of-gradient-descent.html)
 
+**Big Batch SGD: Automated Inference using Adaptive Batch Sizes**
+
+- arxiv: [https://arxiv.org/abs/1610.05792](https://arxiv.org/abs/1610.05792)
+
 # Tensor Methods
 
 **Tensorizing Neural Networks**

@@ -124,6 +124,10 @@ Other awesome lists can be found in this [list](https://github.com/sindresorhus/
 based on decision tree algorithms, used for ranking, classification and many other machine learning tasks.
 - github: [https://github.com/Microsoft/LightGBM](https://github.com/Microsoft/LightGBM)
 
+**pyLightGBM: Python binding for Microsoft LightGBM**
+
+- github: [https://github.com/ArdalanM/pyLightGBM](https://github.com/ArdalanM/pyLightGBM)
+
 # Bootstrap
 
 **Coding, Visualizing, and Animating Bootstrap Resampling**

@@ -971,6 +971,10 @@ with fast exact probabilistic inference over many layers."
 
 - blog: [http://tkipf.github.io/graph-convolutional-networks/](http://tkipf.github.io/graph-convolutional-networks/)
 
+**DeepGraph: Graph Structure Predicts Network Growth**
+
+- arxiv: [https://arxiv.org/abs/1610.06251](https://arxiv.org/abs/1610.06251)
+
 # Deep Learning with Traditional Machine Learning Methods
 
 ## Cascade
@@ -1665,6 +1669,7 @@ Bicubic VS. Shepard CNN
 
 - arxiv: [https://arxiv.org/abs/1609.04802](https://arxiv.org/abs/1609.04802)
 - github(Torch): [https://github.com/leehomyc/Photo-Realistic-Super-Resoluton](https://github.com/leehomyc/Photo-Realistic-Super-Resoluton)
+- github: [https://github.com/junhocho/SRGAN](https://github.com/junhocho/SRGAN)
 
 **Real-Time Single Image and Video Super-Resolution Using an Efficient Sub-Pixel Convolutional Neural Network**
 
@@ -2126,6 +2131,7 @@ Bicubic VS. Shepard CNN
 **Xception: Deep Learning with Depthwise Separable Convolutions**
 
 - arxiv: [https://arxiv.org/abs/1610.02357](https://arxiv.org/abs/1610.02357)
+- code(Keras): [https://keras.io/applications/#xception](https://keras.io/applications/#xception)
 
 **Uncertainty in Deep Learning**
 

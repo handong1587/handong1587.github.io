@@ -76,6 +76,17 @@ There are no right answers but it helps to understand their thoughts and researc
 
 [https://www.analyticsvidhya.com/blog/2016/09/40-interview-questions-asked-at-startups-in-machine-learning-data-science/](https://www.analyticsvidhya.com/blog/2016/09/40-interview-questions-asked-at-startups-in-machine-learning-data-science/)
 
+**5 EBooks to Read Before Getting into A Machine Learning Career**
+
+[http://www.kdnuggets.com/2016/10/5-free-ebooks-machine-learning-career.html](http://www.kdnuggets.com/2016/10/5-free-ebooks-machine-learning-career.html)
+
+# Data Science
+
+**21 Must-Know Data Science Interview Questions and Answers**
+
+- part 1: [http://www.kdnuggets.com/2016/02/21-data-science-interview-questions-answers.html](http://www.kdnuggets.com/2016/02/21-data-science-interview-questions-answers.html)
+- part 2: [http://www.kdnuggets.com/2016/02/21-data-science-interview-questions-answers-part2.html](http://www.kdnuggets.com/2016/02/21-data-science-interview-questions-answers-part2.html)
+
 # Algorithms and Data Structure
 
 **C & Data Structure Interview Questions**

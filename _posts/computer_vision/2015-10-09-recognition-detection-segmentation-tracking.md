@@ -274,11 +274,9 @@ using a large number of the existing object proposal approaches.
 - homepage: [http://www.robots.ox.ac.uk/~luca/staple.html](http://www.robots.ox.ac.uk/~luca/staple.html)
 - github: [https://github.com/bertinetto/staple](https://github.com/bertinetto/staple)
 
-## SORT
-
 **Simple Online and Realtime Tracking**
 
-- intro: ICIP 2016
+- intro: ICIP 2016. SORT = Simple Online and Realtime Tracking
 - intro: Simple, online, and realtime tracking of multiple objects in a video sequence
 - intro: Kalman Filter, Hungarian algorithm, 260 Hz
 - arxiv: [http://arxiv.org/abs/1602.00763](http://arxiv.org/abs/1602.00763)
@@ -296,6 +294,10 @@ using a large number of the existing object proposal approaches.
 **Real-Time Visual Tracking: Promoting the Robustness of Correlation Filter Learning**
 
 - arxiv: [http://arxiv.org/abs/1608.08173](http://arxiv.org/abs/1608.08173)
+
+**KCF: High-Speed Tracking with Kernelized Correlation Filters**
+
+- github: [https://github.com/foolwood/KCF](https://github.com/foolwood/KCF)
 
 ## Projects
 

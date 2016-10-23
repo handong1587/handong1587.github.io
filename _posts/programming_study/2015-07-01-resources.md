@@ -85,6 +85,10 @@ It contains real examples with errors and the author gives explanations of how t
 
 - blog: [https://erkaman.github.io/posts/cuda_rle.html](https://erkaman.github.io/posts/cuda_rle.html)
 
+**Mixed-Precision Programming with CUDA 8**
+
+- blog: [https://devblogs.nvidia.com/parallelforall/mixed-precision-programming-cuda-8/](https://devblogs.nvidia.com/parallelforall/mixed-precision-programming-cuda-8/)
+
 # Docker
 
 **Docker for Beginners: A comprehensive tutorial on getting started with Docker!**

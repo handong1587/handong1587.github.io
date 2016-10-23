@@ -158,6 +158,11 @@ with applications for model fitting and techniques for dealing with missing data
 - youtube: [https://www.youtube.com/playlist?list=PLaXDtXvwY-oDvedS3f4HW0b4KxqpJ_imw](https://www.youtube.com/playlist?list=PLaXDtXvwY-oDvedS3f4HW0b4KxqpJ_imw)
 - course notes: [http://sli.ics.uci.edu/Classes-CS178-Notes/Classes-CS178-Notes](http://sli.ics.uci.edu/Classes-CS178-Notes/Classes-CS178-Notes)
 
+**Machine Learning CS-433**
+
+- homepage: [http://mlo.epfl.ch/page-136795.html](http://mlo.epfl.ch/page-136795.html)
+- github: [https://github.com/epfml/ML_course](https://github.com/epfml/ML_course)
+
 ## Machine Learning on Distributed System
 
 **Distributed Machine Learning with Apache Spark**

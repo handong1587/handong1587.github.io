@@ -222,6 +222,14 @@ fine-tune the trained network with more challenging examples later
 
 - arxiv: [http://arxiv.org/abs/1603.04871](http://arxiv.org/abs/1603.04871)
 
+**Seed, Expand and Constrain: Three Principles for Weakly-Supervised Image Segmentation**
+
+![](https://cloud.githubusercontent.com/assets/460828/19045346/9b3bd058-8998-11e6-93f2-4c667fb7a1e8.png)
+
+- intro: ECCV 2016
+- arxiv: [https://arxiv.org/abs/1603.06098](https://arxiv.org/abs/1603.06098)
+- github: [https://github.com/kolesman/SEC](https://github.com/kolesman/SEC)
+
 ## ScribbleSup
 
 **ScribbleSup: Scribble-Supervised Convolutional Networks for Semantic Segmentation**

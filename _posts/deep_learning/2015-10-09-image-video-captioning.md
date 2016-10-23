@@ -278,6 +278,11 @@ after the embedding and recurrent layers of the RNN."
 
 - arxiv: [https://arxiv.org/abs/1610.04997](https://arxiv.org/abs/1610.04997)
 
+**Video and Language: Bridging Video and Language with Deep Learning**
+
+- intro: ECCV-MM 2016. captioning, commenting, alignment
+- slides: [https://www.microsoft.com/en-us/research/wp-content/uploads/2016/10/Video-and-Language-ECCV-MM-2016-Tao-Mei-Pub.pdf](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/10/Video-and-Language-ECCV-MM-2016-Tao-Mei-Pub.pdf)
+
 # Projects
 
 **Learning CNN-LSTM Architectures for Image Caption Generation: An implementation of CNN-LSTM image caption generator architecture that achieves close to state-of-the-art results on the MSCOCO dataset.**

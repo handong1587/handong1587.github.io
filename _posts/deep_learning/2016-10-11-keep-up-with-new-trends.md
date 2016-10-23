@@ -11,6 +11,10 @@ date: 2016-10-11
 
 [https://research.facebook.com/blog/eccv-brings-together-the-brightest-minds-in-computer-vision/](https://research.facebook.com/blog/eccv-brings-together-the-brightest-minds-in-computer-vision/)
 
+**ECCV in a theatrical setting**
+
+- blog: [http://zoyathinks.blogspot.jp/2016/10/eccv-in-theatrical-setting.html](http://zoyathinks.blogspot.jp/2016/10/eccv-in-theatrical-setting.html)
+
 # 2nd ImageNet + COCO Joint Workshop
 
 **2nd ImageNet and COCO Visual Recognition Challenges Joint Workshop**

@@ -385,6 +385,26 @@ Machine learning workflow, Extracting feaures from images (colours, edges, corne
 
 - blog: [http://www.datasciencecentral.com/profiles/blogs/15-deep-learning-tutorials](http://www.datasciencecentral.com/profiles/blogs/15-deep-learning-tutorials)
 
+**Deep Learning Episode 1: Optimizing DeepMind's A3C on Torch**
+
+[http://www.allinea.com/blog/201607/deep-learning-episode-1-optimizing-deepminds-a3c-torch](http://www.allinea.com/blog/201607/deep-learning-episode-1-optimizing-deepminds-a3c-torch)
+
+**Deep Learning Episode 2: Scaling TensorFlow over multiple EC2 GPU nodes**
+
+[http://www.allinea.com/blog/201608/deep-learning-episode-2-scaling-tensorflow-over-multiple-ec2-gpu-nodes](http://www.allinea.com/blog/201608/deep-learning-episode-2-scaling-tensorflow-over-multiple-ec2-gpu-nodes)
+
+**Deep Learning Episode 3: Supercomputer vs Pong**
+
+[http://www.allinea.com/blog/201610/deep-learning-episode-3-supercomputer-vs-pong](http://www.allinea.com/blog/201610/deep-learning-episode-3-supercomputer-vs-pong)
+
+**Deep Learning Episode 4: Supercomputer vs Pong II**
+
+[http://www.allinea.com/blog/201610/deep-learning-episode-4-supercomputer-vs-pong-ii](http://www.allinea.com/blog/201610/deep-learning-episode-4-supercomputer-vs-pong-ii)
+
+**Nuts and Bolts of Applying Deep Learning — Summary**
+
+- blog: [https://medium.com/@aniketvartak/nuts-and-bolts-of-applying-deep-learning-summary-84b8a8e873d5#.y7xidlhb4](https://medium.com/@aniketvartak/nuts-and-bolts-of-applying-deep-learning-summary-84b8a8e873d5#.y7xidlhb4)
+
 # Convolution
 
 ![](/assets/cnn-materials/conv.jpg)

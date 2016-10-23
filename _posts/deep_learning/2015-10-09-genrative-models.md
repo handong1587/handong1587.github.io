@@ -60,6 +60,11 @@ date: 2015-10-09
 - github: [https://github.com/openai/InfoGAN](https://github.com/openai/InfoGAN)
 - github(Tensorflow): [https://github.com/buriburisuri/supervised_infogan](https://github.com/buriburisuri/supervised_infogan)
 
+**Learning Interpretable Latent Representations with InfoGAN: A tutorial on implementing InfoGAN in Tensorflow**
+
+- blog: [https://medium.com/@awjuliani/learning-interpretable-latent-representations-with-infogan-dd710852db46#.r0kur3aum](https://medium.com/@awjuliani/learning-interpretable-latent-representations-with-infogan-dd710852db46#.r0kur3aum)
+- github: [https://gist.github.com/awjuliani/c9ecd8b37d33d6855cd4ed9aa16ce89f#file-infogan-tutorial-ipynb](https://gist.github.com/awjuliani/c9ecd8b37d33d6855cd4ed9aa16ce89f#file-infogan-tutorial-ipynb)
+
 **Coupled Generative Adversarial Networks**
 
 - arxiv: [https://arxiv.org/abs/1606.07536](https://arxiv.org/abs/1606.07536)
@@ -101,6 +106,11 @@ date: 2015-10-09
 - arxiv: [https://arxiv.org/abs/1610.00768](https://arxiv.org/abs/1610.00768)
 - github: [https://github.com/openai/cleverhans](https://github.com/openai/cleverhans)
 
+**Deep Convolutional Variational Autoencoder w/ Adversarial Network**
+
+- intro: An implementation of the deep convolutional generative adversarial network, combined with a varational autoencoder
+- github: [https://github.com/staturecrane/dcgan_vae_torch](https://github.com/staturecrane/dcgan_vae_torch)
+
 # Blogs
 
 **Generative Adversial Networks Explained**
@@ -139,3 +149,7 @@ date: 2015-10-09
 **Stability of Generative Adversarial Networks**
 
 - blog: [http://www.araya.org/archives/1183](http://www.araya.org/archives/1183)
+
+**Instance Noise: A trick for stabilising GAN training**
+
+- blog: [http://www.inference.vc/instance-noise-a-trick-for-stabilising-gan-training/](http://www.inference.vc/instance-noise-a-trick-for-stabilising-gan-training/)

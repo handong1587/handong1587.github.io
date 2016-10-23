@@ -223,3 +223,8 @@ and DRAW: A Recurrent Neural Network For Image Generation).
 
 - project page: [http://blog.otoro.net/2016/06/02/generating-large-images-from-latent-vectors-part-two/](http://blog.otoro.net/2016/06/02/generating-large-images-from-latent-vectors-part-two/)
 - github: [https://github.com/hardmaru/resnet-cppn-gan-tensorflow](https://github.com/hardmaru/resnet-cppn-gan-tensorflow)
+
+**Analyzing 50k fonts using deep neural networks**
+
+- blog: [https://erikbern.com/2016/01/21/analyzing-50k-fonts-using-deep-neural-networks/](https://erikbern.com/2016/01/21/analyzing-50k-fonts-using-deep-neural-networks/)
+- github: [https://github.com/erikbern/deep-fonts](https://github.com/erikbern/deep-fonts)
