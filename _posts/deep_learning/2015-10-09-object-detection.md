@@ -242,6 +242,7 @@ bounding boxes (which are shared for these categories).
 - github: [https://github.com/weiliu89/caffe/tree/ssd](https://github.com/weiliu89/caffe/tree/ssd)
 - video: [http://weibo.com/p/2304447a2326da963254c963c97fb05dd3a973](http://weibo.com/p/2304447a2326da963254c963c97fb05dd3a973)
 - github(MXNet): [https://github.com/zhreshold/mxnet-ssd](https://github.com/zhreshold/mxnet-ssd)
+- github: [https://github.com/zhreshold/mxnet-ssd.cpp](https://github.com/zhreshold/mxnet-ssd.cpp)
 
 **为什么SSD(Single Shot MultiBox Detector)对小目标的检测效果不好？**
 

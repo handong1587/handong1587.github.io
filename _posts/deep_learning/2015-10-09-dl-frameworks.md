@@ -151,7 +151,8 @@ for building Deep Learning (DL) machine learning (ML) models
 
 **Deeplearning4j: Deep Learning for Java**
 
-- website: [http://deeplearning4j.org/](http://deeplearning4j.org/)
+- homepage: [http://deeplearning4j.org/](http://deeplearning4j.org/)
+- github: [https://github.com/deeplearning4j/deeplearning4j](https://github.com/deeplearning4j/deeplearning4j)
 
 # DeepLearningKit
 

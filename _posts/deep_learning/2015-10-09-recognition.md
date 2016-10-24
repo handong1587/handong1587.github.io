@@ -123,6 +123,11 @@ date: 2015-10-09
 
 - intro: CVPR 2016
 
+**Fine-grained Recognition in the Noisy Wild: Sensitivity Analysis of Convolutional Neural Networks Approaches**
+
+- intro: BMVC 2016
+- arxiv: [https://arxiv.org/abs/1610.06756](https://arxiv.org/abs/1610.06756)
+
 ### Face Recognition
 
 #### DeepID

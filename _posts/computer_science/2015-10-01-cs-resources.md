@@ -32,6 +32,13 @@ date: 2015-10-01
 - homepage: [http://15721.courses.cs.cmu.edu/spring2016/](http://15721.courses.cs.cmu.edu/spring2016/)
 - github: [https://github.com/mli/15721-ta](https://github.com/mli/15721-ta)
 
+# Operation System
+
+**Hack The Kernel**
+
+- intro: ops-class.org includes everything you need to learn about operating systems online.
+- homepage: [https://www.ops-class.org/](https://www.ops-class.org/)
+
 # Projects
 
 **Sketch: a Common Lisp environment for the creation of electronic art, visual design, game prototyping, game making, computer graphics, exploration of human-computer interaction and more**

@@ -86,6 +86,7 @@ date: 2015-10-09
 # Courses
 
 **Advanced Topics: RL**
+**UCL Course on RL**
 
 - instructors: David Silver (Google DeepMind, AlphaGo)
 - homepage: [http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html](http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html)
@@ -648,6 +649,16 @@ The project is dedicated to hero in life great Jesse Livermore.
 
 - blog: [http://efavdb.com/battleship/](http://efavdb.com/battleship/)
 - github: [https://github.com/EFavDB/battleship](https://github.com/EFavDB/battleship)
+
+## Let’s make a DQN
+
+**Let’s make a DQN**
+
+- Theory: [https://jaromiru.com/2016/09/27/lets-make-a-dqn-theory/](https://jaromiru.com/2016/09/27/lets-make-a-dqn-theory/)
+- Implementation: [https://jaromiru.com/2016/10/03/lets-make-a-dqn-implementation/](https://jaromiru.com/2016/10/03/lets-make-a-dqn-implementation/)
+- Debugging: [https://jaromiru.com/2016/10/12/lets-make-a-dqn-debugging/](https://jaromiru.com/2016/10/12/lets-make-a-dqn-debugging/)
+- Full DQN: [https://jaromiru.com/2016/10/21/lets-make-a-dqn-full-dqn/](https://jaromiru.com/2016/10/21/lets-make-a-dqn-full-dqn/)
+- github: [https://github.com/jaara/AI-blog/blob/master/CartPole-basic.py](https://github.com/jaara/AI-blog/blob/master/CartPole-basic.py)
 
 # Books
 
