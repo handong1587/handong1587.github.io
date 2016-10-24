@@ -99,10 +99,11 @@ date: 2015-10-09
 - instructors: John Schulman, Pieter Abbeel
 - homepage: [http://rll.berkeley.edu/deeprlcourse/](http://rll.berkeley.edu/deeprlcourse/)
 
-**Reinforcement Learning - Offered at Georgia Tech as CS 8803**
+**(Udacity) Reinforcement Learning - Offered at Georgia Tech as CS 8803**
 
 - instructor: Charles Isbell, Michael Littman
-- udacity: [https://www.udacity.com/course/reinforcement-learning--ud600](https://www.udacity.com/course/reinforcement-learning--ud600)
+- homepage: [https://www.udacity.com/course/reinforcement-learning--ud600](https://www.udacity.com/course/reinforcement-learning--ud600)
+- homepage: [https://classroom.udacity.com/courses/ud820/lessons/684808907/concepts/6512308530923](https://classroom.udacity.com/courses/ud820/lessons/684808907/concepts/6512308530923)
 
 **CS229 Lecture notes Part XIII: Reinforcement Learning and Control**
 
