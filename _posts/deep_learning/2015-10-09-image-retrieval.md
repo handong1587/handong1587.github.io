@@ -89,6 +89,11 @@ date: 2015-10-09
 - github: [https://github.com/ronghanghu/natural-language-object-retrieval](https://github.com/ronghanghu/natural-language-object-retrieval)
 - github: [https://github.com/andrewliao11/Natural-Language-Object-Retrieval-tensorflow](https://github.com/andrewliao11/Natural-Language-Object-Retrieval-tensorflow)
 
+**Deep Image Retrieval: Learning global representations for image search**
+
+- intro: ECCV 2016
+- arxiv: [https://arxiv.org/abs/1604.01325](https://arxiv.org/abs/1604.01325)
+
 **Faster R-CNN Features for Instance Search**
 
 - homepage: [http://imatge-upc.github.io/retrieval-2016-deepvision/](http://imatge-upc.github.io/retrieval-2016-deepvision/)
@@ -145,6 +150,11 @@ date: 2015-10-09
 - project page: [http://sketchy.eye.gatech.edu/](http://sketchy.eye.gatech.edu/)
 - paper: [http://www.cc.gatech.edu/~hays/tmp/sketchy-database.pdf](http://www.cc.gatech.edu/~hays/tmp/sketchy-database.pdf)
 - github: [https://github.com/janesjanes/sketchy](https://github.com/janesjanes/sketchy)
+
+**End-to-end Learning of Deep Visual Representations for Image Retrieval**
+
+- intro: ECCV 2016
+- arxiv: [https://arxiv.org/abs/1610.07940](https://arxiv.org/abs/1610.07940)
 
 # Video Indexing / Retrieval
 

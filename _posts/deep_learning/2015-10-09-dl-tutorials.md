@@ -405,6 +405,10 @@ Machine learning workflow, Extracting feaures from images (colours, edges, corne
 
 - blog: [https://medium.com/@aniketvartak/nuts-and-bolts-of-applying-deep-learning-summary-84b8a8e873d5#.y7xidlhb4](https://medium.com/@aniketvartak/nuts-and-bolts-of-applying-deep-learning-summary-84b8a8e873d5#.y7xidlhb4)
 
+**Intro to Deep Learning for Computer Vision**
+
+[http://chaosmail.github.io/deeplearning/2016/10/22/intro-to-deep-learning-for-computer-vision/](http://chaosmail.github.io/deeplearning/2016/10/22/intro-to-deep-learning-for-computer-vision/)
+
 # Convolution
 
 ![](/assets/cnn-materials/conv.jpg)

@@ -44,3 +44,9 @@ date: 2016-02-24
 - intro: MIT
 - homepage: [http://www.mit.edu/~evanchen/napkin.html](http://www.mit.edu/~evanchen/napkin.html)
 - mirror: [https://pan.baidu.com/s/1i5oa53B](https://pan.baidu.com/s/1i5oa53B)
+
+# Projects
+
+**openai-gemm: Open single and half precision gemm implementations**
+
+- github: [https://github.com/openai/openai-gemm](https://github.com/openai/openai-gemm)

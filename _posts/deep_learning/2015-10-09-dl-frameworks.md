@@ -509,6 +509,10 @@ for building Deep Learning (DL) machine learning (ML) models
 Implementations and ideas are largely based on papers from arxiv and implementations, tutorials from the internet.
 - github: [https://github.com/shekkizh/TensorflowProjects](https://github.com/shekkizh/TensorflowProjects)
 
+**Rust language bindings for TensorFlow**
+
+- github: [https://github.com/tensorflow/rust](https://github.com/tensorflow/rust)
+
 ## Papers
 
 **TensorFlow: Large-Scale Machine Learning on Heterogeneous Distributed Systems**

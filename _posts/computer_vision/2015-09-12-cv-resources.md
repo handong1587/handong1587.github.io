@@ -643,6 +643,10 @@ Given a sample represented as a sequence of strokes, the parser is able to conve
 
 - blog: [https://indico.io/blog/simple-practical-path-to-machine-learning-capability-part2/](https://indico.io/blog/simple-practical-path-to-machine-learning-capability-part2/)
 
+**Optical Character Recognition (OCR)**
+
+- blog: [http://aosabook.org/en/500L/pages/optical-character-recognition-ocr.html](http://aosabook.org/en/500L/pages/optical-character-recognition-ocr.html)
+
 # Codec
 
 **JPEG 101 - How does JPEG work?**

@@ -174,3 +174,8 @@ without running into obstacles using a type of reinforcement learning called Q-L
 **Deep Driving - A revolutionary AI technique is about to transform the self-driving car**
 
 [https://www.technologyreview.com/s/602600/deep-driving/](https://www.technologyreview.com/s/602600/deep-driving/)
+
+**Visualizations for regressing wheel steering angles in self driving cars with Keras **
+
+- blog: [http://jacobcv.blogspot.jp/2016/10/visualizations-for-regressing-wheel.html](http://jacobcv.blogspot.jp/2016/10/visualizations-for-regressing-wheel.html)
+- github: [https://github.com/jacobgil/keras-steering-angle-visualizations](https://github.com/jacobgil/keras-steering-angle-visualizations)

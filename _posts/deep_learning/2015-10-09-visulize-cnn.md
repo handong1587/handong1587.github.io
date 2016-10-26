@@ -148,6 +148,7 @@ date: 2015-10-09
 
 - arxiv: [https://arxiv.org/abs/1610.02391](https://arxiv.org/abs/1610.02391)
 - github: [https://github.com/ramprs/grad-cam/](https://github.com/ramprs/grad-cam/)
+- github(Keras): [https://github.com/jacobgil/keras-grad-cam](https://github.com/jacobgil/keras-grad-cam)
 
 # Blogs
 
@@ -170,7 +171,8 @@ date: 2015-10-09
 
 ![](https://cdn-images-1.medium.com/max/800/1*LPWa2qRl7SwvNNrRgVEdoQ.png)
 
-[https://medium.com/@awjuliani/visualizing-deep-learning-with-t-sne-tutorial-and-video-e7c59ee4080c#.ubhijafw7](https://medium.com/@awjuliani/visualizing-deep-learning-with-t-sne-tutorial-and-video-e7c59ee4080c#.ubhijafw7)
+- blog: [https://medium.com/@awjuliani/visualizing-deep-learning-with-t-sne-tutorial-and-video-e7c59ee4080c#.ubhijafw7](https://medium.com/@awjuliani/visualizing-deep-learning-with-t-sne-tutorial-and-video-e7c59ee4080c#.ubhijafw7)
+- github: [https://github.com/awjuliani/3D-TSNE](https://github.com/awjuliani/3D-TSNE)
 
 **Peeking inside Convnets**
 

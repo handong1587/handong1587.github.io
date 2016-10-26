@@ -129,6 +129,13 @@ date: 2015-10-09
 
 [https://berkeley-deep-learning.github.io/cs294-dl-f16/](https://berkeley-deep-learning.github.io/cs294-dl-f16/)
 
+**Deep Learning (2016) - BME 595A, Eugenio Culurciello, Purdue University**
+
+- course shedule: [http://t.cn/RVYQa69?u=1402400261&m=4034720314226808&cu=2261580215&ru=1402400261&rm=4034708389597157](http://t.cn/RVYQa69?u=1402400261&m=4034720314226808&cu=2261580215&ru=1402400261&rm=4034708389597157)
+- mirror: [https://pan.baidu.com/s/1hsBJOpQ](https://pan.baidu.com/s/1hsBJOpQ)
+- video: [https://www.youtube.com/playlist?list=PLNgy4gid0G9cbw5OjwG2jxvFqYDqkGnpJ](https://www.youtube.com/playlist?list=PLNgy4gid0G9cbw5OjwG2jxvFqYDqkGnpJ)
+- mirror: [https://pan.baidu.com/s/1bpKb5Cj](https://pan.baidu.com/s/1bpKb5Cj)
+
 # Computer Vision
 
 **Stanford CS231n: Convolutional Neural Networks for Visual Recognition**

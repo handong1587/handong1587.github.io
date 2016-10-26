@@ -90,6 +90,13 @@ transform a convolutional layer into multiple layers of lower complexity"
 - arxiv: [http://arxiv.org/abs/1504.04788](http://arxiv.org/abs/1504.04788)
 - code: [http://www.cse.wustl.edu/~wenlinchen/project/HashedNets/HashedNets.zip](http://www.cse.wustl.edu/~wenlinchen/project/HashedNets/HashedNets.zip)
 
+**PerforatedCNNs: Acceleration through Elimination of Redundant Convolutions**
+
+- intro: NIPS 2016
+- arxiv: [https://arxiv.org/abs/1504.08362](https://arxiv.org/abs/1504.08362)
+- github: [https://github.com/mfigurnov/perforated-cnn-matconvnet](https://github.com/mfigurnov/perforated-cnn-matconvnet)
+- github: [https://github.com/mfigurnov/perforated-cnn-caffe](https://github.com/mfigurnov/perforated-cnn-caffe)
+
 **Accelerating Very Deep Convolutional Networks for Classification and Detection**
 
 - intro: "considered the subsequent nonlinear units while learning the low-rank decomposition"

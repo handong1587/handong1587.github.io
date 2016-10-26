@@ -2612,3 +2612,11 @@ Compatible with Theano and TensorFlow. Optimized for Twitter.
 
 - blog: [https://medium.com/@awjuliani/resnets-highwaynets-and-densenets-oh-my-9bb15918ee32#.pgltg8pro](https://medium.com/@awjuliani/resnets-highwaynets-and-densenets-oh-my-9bb15918ee32#.pgltg8pro)
 - github: [https://github.com/awjuliani/TF-Tutorials/blob/master/Deep%20Network%20Comparison.ipynb](https://github.com/awjuliani/TF-Tutorials/blob/master/Deep%20Network%20Comparison.ipynb)
+
+**The Frontiers of Memory and Attention in Deep Learning**
+
+- sldies: [http://slides.com/smerity/quora-frontiers-of-memory-and-attention#/](http://slides.com/smerity/quora-frontiers-of-memory-and-attention#/)
+
+**Design Patterns for Deep Learning Architectures**
+
+[http://www.deeplearningpatterns.com/doku.php](http://www.deeplearningpatterns.com/doku.php)
