@@ -610,11 +610,14 @@ This task involves predicting the salient regions of an image given by human eye
 - arxiv: [http://arxiv.org/abs/1609.03536](http://arxiv.org/abs/1609.03536)
 
 **Joint Face Detection and Alignment using Multi-task Cascaded Convolutional Networks**
+**Joint Face Detection and Alignment using Multi-task Cascaded Convolutional Neural Networks**
 
 ![](https://kpzhang93.github.io/MTCNN_face_detection_alignment/support/index.png)
 
 - project page: [https://kpzhang93.github.io/MTCNN_face_detection_alignment/index.html](https://kpzhang93.github.io/MTCNN_face_detection_alignment/index.html)
-- github: [https://github.com/kpzhang93/MTCNN_face_detection_alignment](https://github.com/kpzhang93/MTCNN_face_detection_alignment)
+- arxiv: [https://arxiv.org/abs/1604.02878](https://arxiv.org/abs/1604.02878)
+- github(Matlab ): [https://github.com/kpzhang93/MTCNN_face_detection_alignment](https://github.com/kpzhang93/MTCNN_face_detection_alignment)
+- github(MXNet): [https://github.com/pangyupo/mxnet_mtcnn_face_detection](https://github.com/pangyupo/mxnet_mtcnn_face_detection)
 
 ### Datasets / Benchmarks
 
@@ -639,6 +642,11 @@ This task involves predicting the salient regions of an image given by human eye
 - homepage: [http://mmlab.ie.cuhk.edu.hk/archive/CNN_FacePoint.htm](http://mmlab.ie.cuhk.edu.hk/archive/CNN_FacePoint.htm)
 - paper: [http://www.ee.cuhk.edu.hk/~xgwang/papers/sunWTcvpr13.pdf](http://www.ee.cuhk.edu.hk/~xgwang/papers/sunWTcvpr13.pdf)
 - github: [https://github.com/luoyetx/deep-landmark](https://github.com/luoyetx/deep-landmark)
+
+**A Recurrent Encoder-Decoder Network for Sequential Face Alignment**
+
+- intro: ECCV 2016
+- arxiv: [https://arxiv.org/abs/1608.05477](https://arxiv.org/abs/1608.05477)
 
 **Detecting facial landmarks in the video based on a hybrid framework**
 
