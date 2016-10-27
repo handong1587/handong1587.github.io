@@ -258,6 +258,10 @@ to decompose it into the multiplications of thinned dense matrices"
 
 - github: [https://github.com/songhan/Deep-Compression-AlexNet](https://github.com/songhan/Deep-Compression-AlexNet)
 
+**CNNdroid: Open Source Library for GPU-Accelerated Execution of Trained Deep Convolutional Neural Networks on Android**
+
+- github: [https://github.com/ENCP/CNNdroid](https://github.com/ENCP/CNNdroid)
+
 # Blogs
 
 **Neural Networks Are Impressively Good At Compression**

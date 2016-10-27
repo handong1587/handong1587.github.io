@@ -57,12 +57,12 @@ nav:
     url: /categories.html
   - text: ARCHIVES
     url: /archives.html
-  - text: ABOUT ME
-    url: /about.html
   - text: LINKS
     url: /links.html
   - text: SEARCH
     url: /search.html
+  - text: ABOUT ME
+    url: /about.html
 
 #Author config
 author:
