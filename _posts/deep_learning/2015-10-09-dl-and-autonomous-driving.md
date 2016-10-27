@@ -131,6 +131,10 @@ without running into obstacles using a type of reinforcement learning called Q-L
 
 - github: [https://github.com/kendricktan/suiron](https://github.com/kendricktan/suiron)
 
+**Self Driving (Toy) Ferrari**
+
+- github: [https://github.com/RyanZotti/Self-Driving-Car](https://github.com/RyanZotti/Self-Driving-Car)
+
 # Blogs
 
 **Self-driving cars: How far away are we REALLY from autonomous cars?(7 Aug 2015)**

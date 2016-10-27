@@ -176,6 +176,12 @@ Compressed model is less than 500KB
 - intro: In Proceedings of the 7th International Conference on Computational Creativity. Palo Alto: Association for the Advancement of Artificial Intelligence (AAAI) Press (2016)
 - arxiv: [https://arxiv.org/abs/1610.02478](https://arxiv.org/abs/1610.02478)
 
+**A Learned Representation For Artistic Style**
+
+- intro: Google Brain
+- arxiv: [https://arxiv.org/abs/1610.07629](https://arxiv.org/abs/1610.07629)
+- blog: [https://research.googleblog.com/2016/10/supercharging-style-transfer.html](https://research.googleblog.com/2016/10/supercharging-style-transfer.html)
+
 ## Neural Art On Audio
 
 **MSc AI Project on generative deep networks and neural style transfer for audio**

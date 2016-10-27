@@ -7,6 +7,12 @@ date: 2015-10-09
 
 # Papers
 
+**You Lead, We Exceed: Labor-Free Video Concept Learningby Jointly Exploiting Web Videos and Images**
+
+- intro: CVPR 2016
+- intro: Lead–Exceed Neural Network (LENN), LSTM
+- paper: [https://www.microsoft.com/en-us/research/wp-content/uploads/2016/06/CVPR16_webly_final.pdf](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/06/CVPR16_webly_final.pdf)
+
 **Video Fill in the Blank with Merging LSTMs**
 
 - intro: for Large Scale Movie Description and Understanding Challenge (LSMDC) 2016, "Movie fill-in-the-blank" Challenge, UCF_CRCV
@@ -279,9 +285,10 @@ extract saptio-temporal features to represent the video using the CNNs."
 
 # Event Detection
 
-**Devnet: A deep event network for multimedia event detection and evidence recounting**
+**DevNet: A Deep Event Network for Multimedia Event Detection and Evidence Recounting**
 
 - paper: [http://120.52.72.47/winsty.net/c3pr90ntcsf0/papers/devnet.pdf](http://120.52.72.47/winsty.net/c3pr90ntcsf0/papers/devnet.pdf)
+- paper: [http://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Gan_DevNet_A_Deep_2015_CVPR_paper.pdf](http://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Gan_DevNet_A_Deep_2015_CVPR_paper.pdf)
 
 **Detecting events and key actors in multi-person videos**
 
@@ -394,6 +401,11 @@ alleviates the problem of video browsing, editing and indexing.
 - blog: [http://public.hudl.com/bits/archives/2015/06/05/highlights/?utm_source=tuicool&utm_medium=referral](http://public.hudl.com/bits/archives/2015/06/05/highlights/?utm_source=tuicool&utm_medium=referral)
 
 # Video Understanding
+
+**Scale Up Video Understandingwith Deep Learning**
+
+- intro: 2016, Tsinghua University
+- slides: [iiis.tsinghua.edu.cn/~jianli/courses/ATCS2016spring/talk_chuang.pptx](iiis.tsinghua.edu.cn/~jianli/courses/ATCS2016spring/talk_chuang.pptx)
 
 **Slicing Convolutional Neural Network for Crowd Video Understanding**
 

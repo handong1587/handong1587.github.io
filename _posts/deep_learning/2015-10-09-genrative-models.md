@@ -153,3 +153,9 @@ date: 2015-10-09
 **Instance Noise: A trick for stabilising GAN training**
 
 - blog: [http://www.inference.vc/instance-noise-a-trick-for-stabilising-gan-training/](http://www.inference.vc/instance-noise-a-trick-for-stabilising-gan-training/)
+
+# Resources
+
+**AdversarialNetsPapers: The classical Papers about adversial nets**
+
+- github: [https://github.com/zhangqianhui/AdversarialNetsPapers](https://github.com/zhangqianhui/AdversarialNetsPapers)

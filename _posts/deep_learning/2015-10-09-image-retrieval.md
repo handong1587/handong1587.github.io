@@ -154,6 +154,7 @@ date: 2015-10-09
 **End-to-end Learning of Deep Visual Representations for Image Retrieval**
 
 - intro: ECCV 2016
+- project page: [http://www.xrce.xerox.com/Research-Development/Computer-Vision/Learning-Visual-Representations/Deep-Image-Retrieval](http://www.xrce.xerox.com/Research-Development/Computer-Vision/Learning-Visual-Representations/Deep-Image-Retrieval)
 - arxiv: [https://arxiv.org/abs/1610.07940](https://arxiv.org/abs/1610.07940)
 
 # Video Indexing / Retrieval

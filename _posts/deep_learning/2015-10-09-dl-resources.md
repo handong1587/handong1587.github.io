@@ -1093,6 +1093,11 @@ with fast exact probabilistic inference over many layers."
 
 - blog: [https://petewarden.com/2016/09/27/tensorflow-for-mobile-poets/](https://petewarden.com/2016/09/27/tensorflow-for-mobile-poets/)
 
+**The Convolutional Neural Network(CNN) for Android**
+
+- intro: CnnForAndroid:A Classification Project using Convolutional Neural Network(CNN) in Android platform。It also support Caffe Model
+- github: [https://github.com/zhangqianhui/CnnForAndroid](https://github.com/zhangqianhui/CnnForAndroid)
+
 # Deep Learning in Finance
 
 **Deep Learning in Finance**
@@ -2132,6 +2137,7 @@ Bicubic VS. Shepard CNN
 
 - arxiv: [https://arxiv.org/abs/1610.02357](https://arxiv.org/abs/1610.02357)
 - code(Keras): [https://keras.io/applications/#xception](https://keras.io/applications/#xception)
+- github: [https://gist.github.com/culurciello/554c8e56d3bbaf7c66bf66c6089dc221](https://gist.github.com/culurciello/554c8e56d3bbaf7c66bf66c6089dc221)
 
 **Uncertainty in Deep Learning**
 

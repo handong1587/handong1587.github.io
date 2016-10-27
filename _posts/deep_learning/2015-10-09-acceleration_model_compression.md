@@ -145,6 +145,13 @@ to decompose it into the multiplications of thinned dense matrices"
 - arxiv: [http://arxiv.org/abs/1511.06067](http://arxiv.org/abs/1511.06067)
 - github: [https://github.com/chengtaipu/lowrankcnn](https://github.com/chengtaipu/lowrankcnn)
 
+**CNNdroid: Open Source Library for GPU-Accelerated Execution of Trained Deep Convolutional Neural Networks on Android**
+
+- arxiv: [https://arxiv.org/abs/1511.07376](https://arxiv.org/abs/1511.07376)
+- paper: [http://dl.acm.org/authorize.cfm?key=N14731](http://dl.acm.org/authorize.cfm?key=N14731)
+- slides: [http://sharif.edu/~matin/pub/2016_mm_slides.pdf](http://sharif.edu/~matin/pub/2016_mm_slides.pdf)
+- github: [https://github.com/ENCP/CNNdroid](https://github.com/ENCP/CNNdroid)
+
 **Quantized Convolutional Neural Networks for Mobile Devices**
 
 - intro: Q-CNN
@@ -257,10 +264,6 @@ to decompose it into the multiplications of thinned dense matrices"
 **Deep Compression on AlexNet**
 
 - github: [https://github.com/songhan/Deep-Compression-AlexNet](https://github.com/songhan/Deep-Compression-AlexNet)
-
-**CNNdroid: Open Source Library for GPU-Accelerated Execution of Trained Deep Convolutional Neural Networks on Android**
-
-- github: [https://github.com/ENCP/CNNdroid](https://github.com/ENCP/CNNdroid)
 
 # Blogs
 
