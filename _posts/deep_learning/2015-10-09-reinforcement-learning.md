@@ -364,19 +364,6 @@ Incorporates dropout regularization and convolutional neural networks with a sep
 
 # Projects
 
-**Using Deep Q-Network to Learn How To Play Flappy Bird**
-
-- github: [https://github.com/yenchenlin1994/DeepLearningFlappyBird](https://github.com/yenchenlin1994/DeepLearningFlappyBird)
-
-**Playing Flappy Bird Using Deep Reinforcement Learning (Based on Deep Q Learning DQN using Tensorflow)**
-
-- blog: [http://blog.csdn.net/songrotek/article/details/50951537](http://blog.csdn.net/songrotek/article/details/50951537)
-- github: [https://github.com/songrotek/DRL-FlappyBird](https://github.com/songrotek/DRL-FlappyBird)
-
-**Playing Flappy Bird Using Deep Reinforcement Learning (Based on Deep Q Learning DQN)**
-
-- github: [https://github.com/li-haoran/DRL-FlappyBird](https://github.com/li-haoran/DRL-FlappyBird)
-
 **TorchQLearning**
 
 ![](https://raw.githubusercontent.com/SeanNaren/TorchQLearningExample/master/images/torchplayscatch.gif)
@@ -449,10 +436,6 @@ Its simple, and is ideal for rapid prototyping."
 - github: [https://github.com/MickyDowns/deep-theano-rnn-lstm-car](https://github.com/MickyDowns/deep-theano-rnn-lstm-car)
 - youtube: [https://www.youtube.com/watch?v=WrLRGzbfeZc](https://www.youtube.com/watch?v=WrLRGzbfeZc)
 
-**Flappy Bird Bot using Reinforcement Learning in Python**
-
-- github: [https://github.com/chncyhn/flappybird-qlearning-bot](https://github.com/chncyhn/flappybird-qlearning-bot)
-
 **RL Helicopter Game: Q-Learning and DQN Reinforcement Learning to play the Helicopter Game - Keras based!**
 
 - project page: [http://dandxy89.github.io/rf_helicopter/](http://dandxy89.github.io/rf_helicopter/)
@@ -518,6 +501,34 @@ The project is dedicated to hero in life great Jesse Livermore.
 - blog: [http://www.danielslater.net/2016/10/alphatoe.html](http://www.danielslater.net/2016/10/alphatoe.html)
 - youtube: [https://www.youtube.com/watch?v=Meb5hApAnj4](https://www.youtube.com/watch?v=Meb5hApAnj4)
 - github: [https://github.com/DanielSlater/AlphaToe](https://github.com/DanielSlater/AlphaToe)
+
+## Play Flappy Bird
+
+**Using Deep Q-Network to Learn How To Play Flappy Bird**
+
+- github: [https://github.com/yenchenlin1994/DeepLearningFlappyBird](https://github.com/yenchenlin1994/DeepLearningFlappyBird)
+
+**Playing Flappy Bird Using Deep Reinforcement Learning (Based on Deep Q Learning DQN using Tensorflow)**
+
+- blog: [http://blog.csdn.net/songrotek/article/details/50951537](http://blog.csdn.net/songrotek/article/details/50951537)
+- github: [https://github.com/songrotek/DRL-FlappyBird](https://github.com/songrotek/DRL-FlappyBird)
+
+**Playing Flappy Bird Using Deep Reinforcement Learning (Based on Deep Q Learning DQN)**
+
+- github: [https://github.com/li-haoran/DRL-FlappyBird](https://github.com/li-haoran/DRL-FlappyBird)
+
+**MXNET-Scala Playing Flappy Bird Using Deep Reinforcement Learning**
+
+- github: [https://github.com/Ldpe2G/DeepLearningForFun/tree/master/Mxnet-Scala/DRLFlappyBird](https://github.com/Ldpe2G/DeepLearningForFun/tree/master/Mxnet-Scala/DRLFlappyBird)
+
+**Flappy Bird Bot using Reinforcement Learning in Python**
+
+- github: [https://github.com/chncyhn/flappybird-qlearning-bot](https://github.com/chncyhn/flappybird-qlearning-bot)
+
+**Using Keras and Deep Q-Network to Play FlappyBird**
+
+- blog: [https://yanpanlau.github.io/2016/07/10/FlappyBird-Keras.html](https://yanpanlau.github.io/2016/07/10/FlappyBird-Keras.html)
+- github: [https://github.com/yanpanlau/Keras-FlappyBird](https://github.com/yanpanlau/Keras-FlappyBird)
 
 # Library
 
@@ -599,11 +610,6 @@ The project is dedicated to hero in life great Jesse Livermore.
 **Reinforcement Learning in Python**
 
 - github: [https://github.com/NathanEpstein/pydata-reinforce](https://github.com/NathanEpstein/pydata-reinforce)
-
-**Using Keras and Deep Q-Network to Play FlappyBird**
-
-- blog: [https://yanpanlau.github.io/2016/07/10/FlappyBird-Keras.html](https://yanpanlau.github.io/2016/07/10/FlappyBird-Keras.html)
-- github: [https://github.com/yanpanlau/Keras-FlappyBird](https://github.com/yanpanlau/Keras-FlappyBird)
 
 **The Skynet Salesman**
 

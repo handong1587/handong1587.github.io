@@ -31,7 +31,7 @@ date: 2015-10-09
 
 - arxiv: [http://arxiv.org/abs/1511.02583](http://arxiv.org/abs/1511.02583)
 
-## GoogLeNet
+## GoogLeNet (Inception V1)
 
 **Going Deeper with Convolutions**
 
@@ -57,7 +57,17 @@ date: 2015-10-09
 
 - github: [https://github.com/machrisaa/tensorflow-vgg](https://github.com/machrisaa/tensorflow-vgg)
 
-## Inception-V2 / Inception-V3
+## Inception-V2
+
+**Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift**
+
+- intro: ImageNet top-5 error: 4.82% 
+- keywords: internal covariate shift problem
+- arxiv: [http://arxiv.org/abs/1502.03167](http://arxiv.org/abs/1502.03167)
+- blog: [https://standardfrancis.wordpress.com/2015/04/16/batch-normalization/](https://standardfrancis.wordpress.com/2015/04/16/batch-normalization/)
+- notes: [http://blog.csdn.net/happynear/article/details/44238541](http://blog.csdn.net/happynear/article/details/44238541)
+
+## Inception-V3
 
 Inception-V3 = Inception-V2 + BN-auxiliary (fully connected layer of the auxiliary classifier is also batch-normalized, 
 not just the convolutions)
