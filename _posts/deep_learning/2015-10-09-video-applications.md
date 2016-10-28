@@ -316,6 +316,12 @@ extract saptio-temporal features to represent the video using the CNNs."
 - github(TensorFlow): [https://github.com/dyelax/Adversarial_Video_Generation](https://github.com/dyelax/Adversarial_Video_Generation)
 - demo: [http://cs.nyu.edu/~mathieu/iclr2016.html](http://cs.nyu.edu/~mathieu/iclr2016.html)
 
+**Unsupervised Learning for Physical Interaction through Video Prediction**
+
+- intro: NIPS 2016
+- arxiv: [https://arxiv.org/abs/1605.07157](https://arxiv.org/abs/1605.07157)
+- github: [https://github.com/tensorflow/models/tree/master/video_prediction](https://github.com/tensorflow/models/tree/master/video_prediction)
+
 ## PredNet
 
 **Deep Predictive Coding Networks for Video Prediction and Unsupervised Learning**

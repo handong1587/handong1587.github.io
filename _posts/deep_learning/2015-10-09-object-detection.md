@@ -512,6 +512,7 @@ This task involves predicting the salient regions of an image given by human eye
 - arxiv: [http://arxiv.org/abs/1607.04730](http://arxiv.org/abs/1607.04730)
 
 **Unconstrained Salient Object Detection**
+
 **Unconstrained Salient Object Detection via Proposal Subset Optimization**
 
 ![](http://cs-people.bu.edu/jmzhang/images/pasted%20image%201465x373.jpg)
@@ -610,6 +611,7 @@ This task involves predicting the salient regions of an image given by human eye
 - arxiv: [http://arxiv.org/abs/1609.03536](http://arxiv.org/abs/1609.03536)
 
 **Joint Face Detection and Alignment using Multi-task Cascaded Convolutional Networks**
+
 **Joint Face Detection and Alignment using Multi-task Cascaded Convolutional Neural Networks**
 
 ![](https://kpzhang93.github.io/MTCNN_face_detection_alignment/support/index.png)
@@ -661,6 +663,11 @@ This task involves predicting the salient regions of an image given by human eye
 - arxiv: [http://arxiv.org/abs/1506.04878](http://arxiv.org/abs/1506.04878)
 - github: [https://github.com/Russell91/reinspect](https://github.com/Russell91/reinspect)
 - ipn: [http://nbviewer.ipython.org/github/Russell91/ReInspect/blob/master/evaluation_reinspect.ipynb](http://nbviewer.ipython.org/github/Russell91/ReInspect/blob/master/evaluation_reinspect.ipynb)
+
+**Detecting People in Artwork with CNNs**
+
+- intro: ECCV 2016 Workshops
+- arxiv: [https://arxiv.org/abs/1610.08871](https://arxiv.org/abs/1610.08871)
 
 ## Person Head Detection
 
@@ -777,6 +784,12 @@ This task involves predicting the salient regions of an image given by human eye
 **Deep Fruit Detection in Orchards**
 
 - arxiv: [https://arxiv.org/abs/1610.03677](https://arxiv.org/abs/1610.03677)
+
+**Image Segmentation for Fruit Detection and Yield Estimation in Apple Orchards**
+
+- intro: The Journal of Field Robotics in May 2016
+- project page: [http://confluence.acfr.usyd.edu.au/display/AGPub/](http://confluence.acfr.usyd.edu.au/display/AGPub/)
+- arxiv: [https://arxiv.org/abs/1610.08120](https://arxiv.org/abs/1610.08120)
 
 ## Others
 

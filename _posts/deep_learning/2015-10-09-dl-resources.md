@@ -253,6 +253,7 @@ not just the convolutions)
 - arxiv: [http://arxiv.org/abs/1506.02351](http://arxiv.org/abs/1506.02351)
 
 **Ladder Variational Autoencoders**
+
 **How to Train Deep Variational Autoencoders and Probabilistic Ladder Networks**
 
 - arxiv:[http://arxiv.org/abs/1602.02282](http://arxiv.org/abs/1602.02282)
@@ -850,7 +851,6 @@ with fast exact probabilistic inference over many layers."
 - github(Caffe): [https://github.com/liuzhuang13/DenseNetCaffe](https://github.com/liuzhuang13/DenseNetCaffe)
 - github(Tensorflow): [https://github.com/YixuanLi/densenet-tensorflow](https://github.com/YixuanLi/densenet-tensorflow)
 
-
 **CliqueCNN: Deep Unsupervised Exemplar Learning**
 
 - arxiv: [http://arxiv.org/abs/1608.08792](http://arxiv.org/abs/1608.08792)
@@ -877,7 +877,7 @@ with fast exact probabilistic inference over many layers."
 - arxiv: [https://arxiv.org/abs/1609.09106](https://arxiv.org/abs/1609.09106)
 - blog: [http://blog.otoro.net/2016/09/28/hyper-networks/](http://blog.otoro.net/2016/09/28/hyper-networks/)
 
-**<HyperLSTM></HyperLSTM>**
+**HyperLSTM**
 
 - github: [https://github.com/hardmaru/supercell/blob/master/supercell.py](https://github.com/hardmaru/supercell/blob/master/supercell.py)
 
@@ -1108,6 +1108,8 @@ with fast exact probabilistic inference over many layers."
 - intro: CnnForAndroid:A Classification Project using Convolutional Neural Network(CNN) in Android platform。It also support Caffe Model
 - github: [https://github.com/zhangqianhui/CnnForAndroid](https://github.com/zhangqianhui/CnnForAndroid)
 
+**Mobilenets: Efficient convolutional neural networks for mobile vision applications**
+
 # Deep Learning in Finance
 
 **Deep Learning in Finance**
@@ -1300,6 +1302,10 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 
 - blog: [https://hackernoon.com/deep-gold-using-convolution-networks-to-find-minerals-aafdb37355df#.lgh95ub4a](https://hackernoon.com/deep-gold-using-convolution-networks-to-find-minerals-aafdb37355df#.lgh95ub4a)
 - github: [https://github.com/scottvallance/DeepGold](https://github.com/scottvallance/DeepGold)
+
+**Predicting First Impressions with Deep Learning**
+
+- arxiv: [https://arxiv.org/abs/1610.08119](https://arxiv.org/abs/1610.08119)
 
 ## Age Estimation
 
@@ -1878,6 +1884,11 @@ Bicubic VS. Shepard CNN
 - project page: [http://lear.inrialpes.fr/src/deepmatching/](http://lear.inrialpes.fr/src/deepmatching/)
 - arxiv: [http://arxiv.org/abs/1609.03532](http://arxiv.org/abs/1609.03532)
 
+**Local Similarity-Aware Deep Feature Embedding**
+
+- intro: NIPS 2016
+- arxiv: [https://arxiv.org/abs/1610.08904](https://arxiv.org/abs/1610.08904)
+
 ## Person Re-identification
 
 **Recurrent Convolutional Network for Video-based Person Re-Identification**
@@ -1932,6 +1943,10 @@ Bicubic VS. Shepard CNN
 **Deep Learning Benchmarks**
 
 [http://add-for.com/deep-learning-benchmarks/](http://add-for.com/deep-learning-benchmarks/)
+
+**cudnn-rnn-benchmarks**
+
+- github: [https://github.com/MaximumEntropy/cudnn_rnn_theano_benchmarks](https://github.com/MaximumEntropy/cudnn_rnn_theano_benchmarks)
 
 # Papers
 
@@ -2143,6 +2158,7 @@ Bicubic VS. Shepard CNN
 - arxiv: [https://arxiv.org/abs/1610.02306](https://arxiv.org/abs/1610.02306)
 
 **Deep Learning with Separable Convolutions**
+
 **Xception: Deep Learning with Depthwise Separable Convolutions**
 
 - arxiv: [https://arxiv.org/abs/1610.02357](https://arxiv.org/abs/1610.02357)
@@ -2378,6 +2394,10 @@ Compatible with Theano and TensorFlow. Optimized for Twitter.
 **GPU-accelerated Theano & Keras on Windows 10 native**
 
 - github: [https://github.com/philferriere/dlwin](https://github.com/philferriere/dlwin)
+
+**Head Pose and Gaze Direction Estimation Using Convolutional Neural Networks**
+
+- github: [https://github.com/mpatacchiola/deepgaze](https://github.com/mpatacchiola/deepgaze)
 
 # Readings and Questions
 

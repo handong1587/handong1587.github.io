@@ -9,7 +9,8 @@ date: 2015-09-22
 
 **MIT 6.S897: Large-Scale Systems(Matei Zaharia)**
 
-[http://people.csail.mit.edu/matei/courses/2015/6.S897/](http://people.csail.mit.edu/matei/courses/2015/6.S897/)
+- instructor: Matei Zaharia
+- homepage: [http://people.csail.mit.edu/matei/courses/2015/6.S897/](http://people.csail.mit.edu/matei/courses/2015/6.S897/)
 
 # Papers
 

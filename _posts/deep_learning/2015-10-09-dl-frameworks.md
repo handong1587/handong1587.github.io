@@ -154,6 +154,10 @@ for building Deep Learning (DL) machine learning (ML) models
 - homepage: [http://deeplearning4j.org/](http://deeplearning4j.org/)
 - github: [https://github.com/deeplearning4j/deeplearning4j](https://github.com/deeplearning4j/deeplearning4j)
 
+**Deeplearning4j images for cuda and hadoop.**
+
+- github: [https://github.com/deeplearning4j/docker](https://github.com/deeplearning4j/docker)
+
 # DeepLearningKit
 
 **DeepLearningKit: Open Source Deep Learning Framework for Apple's tvOS, iOS and OS X**

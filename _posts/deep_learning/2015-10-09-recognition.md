@@ -27,8 +27,6 @@ date: 2015-10-09
 - arxiv: [http://arxiv.org/abs/1604.06486](http://arxiv.org/abs/1604.06486)
 - review: [https://www.technologyreview.com/s/601387/why-machine-vision-is-flawed-in-the-same-way-as-human-vision/](https://www.technologyreview.com/s/601387/why-machine-vision-is-flawed-in-the-same-way-as-human-vision/)
 
-## FusionNet
-
 **FusionNet: 3D Object Classification Using Multiple Data Representations**
 
 - arxiv: [https://arxiv.org/abs/1607.05695](https://arxiv.org/abs/1607.05695)
@@ -36,8 +34,6 @@ date: 2015-10-09
 **From image recognition to object recognition**
 
 - blog: [https://www.oreilly.com/ideas/from-image-recognition-to-object-recognition](https://www.oreilly.com/ideas/from-image-recognition-to-object-recognition)
-
-## FisherNet
 
 **Deep FisherNet for Object Classification**
 
@@ -103,8 +99,6 @@ date: 2015-10-09
 - arxiv: [http://arxiv.org/abs/1605.05395](http://arxiv.org/abs/1605.05395)
 - github: [https://github.com/reedscot/cvpr2016](https://github.com/reedscot/cvpr2016)
 
-### IDNet
-
 **IDNet: Smartphone-based Gait Recognition with Convolutional Neural Networks**
 
 - arxiv: [http://arxiv.org/abs/1606.03238](http://arxiv.org/abs/1606.03238)
@@ -112,8 +106,6 @@ date: 2015-10-09
 **Picking Deep Filter Responses for Fine-grained Image Recognition**
 
 - intro: CVPR 2016
-
-### SPDA-CNN
 
 **SPDA-CNN: Unifying Semantic Part Detection and Abstraction for Fine-grained Recognition**
 
@@ -190,8 +182,10 @@ date: 2015-10-09
 **A Discriminative Feature Learning Approach for Deep Face Recognition**
 
 - intro: ECCV 2016
+- intro: center loss
 - paper: [http://ydwen.github.io/papers/WenECCV16.pdf](http://ydwen.github.io/papers/WenECCV16.pdf)
 - github: [https://github.com/ydwen/caffe-face](https://github.com/ydwen/caffe-face)
+- github: [https://github.com/pangyupo/mxnet_center_loss](https://github.com/pangyupo/mxnet_center_loss)
 
 **How Image Degradations Affect Deep CNN-based Face Recognition?**
 
@@ -284,13 +278,9 @@ facial action unit recognition, and eye-gaze estimation.
 
 ### Food Recognition
 
-#### DeepFood
-
 **DeepFood: Deep Learning-Based Food Image Recognition for Computer-Aided Dietary Assessment**
 
 - arxiv: [http://arxiv.org/abs/1606.05675](http://arxiv.org/abs/1606.05675)
-
-#### Im2Calories
 
 **Im2Calories: towards an automated mobile vision food diary**
 
@@ -312,8 +302,6 @@ facial action unit recognition, and eye-gaze estimation.
 - github: [https://github.com/lostanlen/ismir2016](https://github.com/lostanlen/ismir2016)
 
 ### Clothes Recognition
-
-#### DeepFashion
 
 **DeepFashion: Powering Robust Clothes Recognition and Retrieval with Rich Annotations**
 

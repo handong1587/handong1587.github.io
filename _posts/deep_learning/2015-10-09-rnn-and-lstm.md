@@ -390,6 +390,7 @@ date: 2015-10-09
 
 - author: Julian Georg Zilly, Rupesh Kumar Srivastava, Jan Koutník, Jürgen Schmidhuber
 - arxiv: [http://arxiv.org/abs/1607.03474](http://arxiv.org/abs/1607.03474)
+- github(Tensorflow+Torch): [https://github.com/julian121266/RecurrentHighwayNetworks/](https://github.com/julian121266/RecurrentHighwayNetworks/)
 
 ## DeepSoft
 
@@ -524,9 +525,11 @@ date: 2015-10-09
 - blog: [https://medium.com/@shiyan/understanding-lstm-and-its-diagrams-37e2f46f1714](https://medium.com/@shiyan/understanding-lstm-and-its-diagrams-37e2f46f1714)
 - slides: [https://github.com/shi-yan/FreeWill/blob/master/Docs/Diagrams/lstm_diagram.pptx](https://github.com/shi-yan/FreeWill/blob/master/Docs/Diagrams/lstm_diagram.pptx)
 
-**Persistent RNNs: 30 times faster RNN layers at small mini-batch sizes (Greg Diamos, Baidu Silicon Valley AI Lab)**
+**Persistent RNNs: 30 times faster RNN layers at small mini-batch sizes**
+
 **Persistent RNNs: Stashing Recurrent Weights On-Chip**
 
+- intro: Greg Diamos, Baidu Silicon Valley AI Lab
 - paper: [http://jmlr.org/proceedings/papers/v48/diamos16.pdf](http://jmlr.org/proceedings/papers/v48/diamos16.pdf)
 - blog: [http://svail.github.io/persistent_rnns/](http://svail.github.io/persistent_rnns/)
 - slides: [http://on-demand.gputechconf.com/gtc/2016/presentation/s6673-greg-diamos-persisten-rnns.pdf](http://on-demand.gputechconf.com/gtc/2016/presentation/s6673-greg-diamos-persisten-rnns.pdf)
@@ -589,6 +592,10 @@ date: 2015-10-09
 **RNN Spelling Correction: To crack a nut with a sledgehammer**
 
 - blog: [https://medium.com/@yaoyaowd/rnn-spelling-correction-to-crack-a-nut-with-a-sledgehammer-7f5aa442c08c#.mc2ycyfda](https://medium.com/@yaoyaowd/rnn-spelling-correction-to-crack-a-nut-with-a-sledgehammer-7f5aa442c08c#.mc2ycyfda)
+
+**Recurrent Neural Network Gradients, and Lessons Learned Therein**
+
+- blog: [http://willwolf.io/en/2016/10/13/recurrent-neural-network-gradients-and-lessons-learned-therein/](http://willwolf.io/en/2016/10/13/recurrent-neural-network-gradients-and-lessons-learned-therein/)
 
 ## Optimizing RNN (Baidu Silicon Valley AI Lab)
 

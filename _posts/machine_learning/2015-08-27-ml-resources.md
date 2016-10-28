@@ -399,13 +399,15 @@ Classic strategies:
 - video: [http://videolectures.net/roks2013_wiering_vector/](http://videolectures.net/roks2013_wiering_vector/)
 - slides: [http://www.esat.kuleuven.be/sista/ROKS2013/files/presentations/DSVM_ROKS_2013_WIERING.pdf](http://www.esat.kuleuven.be/sista/ROKS2013/files/presentations/DSVM_ROKS_2013_WIERING.pdf)
 
-**Deep Boosting(ICML 2014)**
+**Deep Boosting**
 
+- intro: ICML 2014
 - paper: [http://www.cs.princeton.edu/~usyed/CortesMohriSyedICML2014.pdf](http://www.cs.princeton.edu/~usyed/CortesMohriSyedICML2014.pdf)
 - github: [https://github.com/google/deepboost](https://github.com/google/deepboost)
 
-**Deep Neural Decision Forests(ICCV 2015. Microsoft Research. ICCV'15 Marr Prize)**
+**Deep Neural Decision Forests**
 
+- intro: ICCV 2015. Microsoft Research. ICCV'15 Marr Prize
 - paper: [http://research.microsoft.com/pubs/255952/ICCV15_DeepNDF_main.pdf](http://research.microsoft.com/pubs/255952/ICCV15_DeepNDF_main.pdf)
 - supplement: [http://research.microsoft.com/pubs/255952/ICCV15_DeepNDF_suppl.pdf](http://research.microsoft.com/pubs/255952/ICCV15_DeepNDF_suppl.pdf)
 - notes: [http://pan.baidu.com/s/1jGRWem6](http://pan.baidu.com/s/1jGRWem6)

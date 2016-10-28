@@ -41,8 +41,14 @@ date: 2015-10-09
 - intro: CVPR 2015
 - arxiv: [http://arxiv.org/abs/1501.06272](http://arxiv.org/abs/1501.06272)
 
-**Supervised Learning of Semantics-Preserving Hashing via Deep Neural Networks for Large-Scale Image Search (SSDH)**
+**Exploiting Local Features from Deep Networks for Image Retrieval**
 
+- intro: CVPR DeepVision Workshop 2015
+- arxiv: [https://arxiv.org/abs/1504.05133](https://arxiv.org/abs/1504.05133)
+
+**Supervised Learning of Semantics-Preserving Hashing via Deep Neural Networks for Large-Scale Image Search**
+
+- intro: SSDH
 - arxiv: [http://arxiv.org/abs/1507.00101](http://arxiv.org/abs/1507.00101)
 - github: [https://github.com/kevinlin311tw/Caffe-DeepBinaryCode](https://github.com/kevinlin311tw/Caffe-DeepBinaryCode)
 
@@ -65,6 +71,10 @@ date: 2015-10-09
 
 - arxiv: [http://arxiv.org/abs/1511.03855](http://arxiv.org/abs/1511.03855)
 - code: [http://cs.nju.edu.cn/lwj/code/DPSH_code.rar](http://cs.nju.edu.cn/lwj/code/DPSH_code.rar)
+
+**Particular object retrieval with integral max-pooling of CNN activations**
+
+- arxiv: [https://arxiv.org/abs/1511.05879](https://arxiv.org/abs/1511.05879)
 
 **Group Invariant Deep Representations for Image Instance Retrieval**
 
@@ -93,6 +103,11 @@ date: 2015-10-09
 
 - intro: ECCV 2016
 - arxiv: [https://arxiv.org/abs/1604.01325](https://arxiv.org/abs/1604.01325)
+
+**Bags of Local Convolutional Features for Scalable Instance Search**
+
+- intro: ICMR 2016
+- arxiv: [https://arxiv.org/abs/1604.04653](https://arxiv.org/abs/1604.04653)
 
 **Faster R-CNN Features for Instance Search**
 
