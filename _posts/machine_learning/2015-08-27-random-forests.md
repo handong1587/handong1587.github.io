@@ -57,3 +57,9 @@ date: 2015-08-27
 
 - demo: [http://cs.stanford.edu/people/karpathy/svmjs/demo/demoforest.html](http://cs.stanford.edu/people/karpathy/svmjs/demo/demoforest.html)
 - github: [https://github.com/karpathy/forestjs](https://github.com/karpathy/forestjs)
+
+**ParallelForest: Random Forest Classification with Parallel Computing**
+
+- intro: R package implementing random forest classification using parallel computing, built with Fortran and OpenMP in the backend.
+- project page: [https://cran.r-project.org/web/packages/ParallelForest/vignettes/ParallelForest-intro.html](https://cran.r-project.org/web/packages/ParallelForest/vignettes/ParallelForest-intro.html)
+- github: [https://github.com/bert9bert/ParallelForest](https://github.com/bert9bert/ParallelForest)

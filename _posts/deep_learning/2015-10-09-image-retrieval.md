@@ -102,6 +102,7 @@ date: 2015-10-09
 **Deep Image Retrieval: Learning global representations for image search**
 
 - intro: ECCV 2016
+- project page: [http://www.xrce.xerox.com/Research-Development/Computer-Vision/Learning-Visual-Representations/Deep-Image-Retrieval](http://www.xrce.xerox.com/Research-Development/Computer-Vision/Learning-Visual-Representations/Deep-Image-Retrieval)
 - arxiv: [https://arxiv.org/abs/1604.01325](https://arxiv.org/abs/1604.01325)
 
 **Bags of Local Convolutional Features for Scalable Instance Search**

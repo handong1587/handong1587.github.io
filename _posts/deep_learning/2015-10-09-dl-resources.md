@@ -1930,6 +1930,13 @@ Bicubic VS. Shepard CNN
 
 [https://keras.io/applications/#music-tagging-and-feature-extraction-with-musictaggercrnn](https://keras.io/applications/#music-tagging-and-feature-extraction-with-musictaggercrnn)
 
+## CTR Prediction
+
+**Deep CTR Prediction in Display Advertising**
+
+- intro: ACM Multimedia Conference 2016
+- arxiv: [https://arxiv.org/abs/1609.06018](https://arxiv.org/abs/1609.06018)
+
 # Benchmarks
 
 **Deep Learning’s Accuracy**
