@@ -284,17 +284,22 @@ date: 2015-10-09
 - arxiv: [http://arxiv.org/abs/1506.00019](http://arxiv.org/abs/1506.00019)
 - review: [http://blog.terminal.com/a-thorough-and-readable-review-on-rnns/](http://blog.terminal.com/a-thorough-and-readable-review-on-rnns/)
 
-**Scheduled Sampling for Sequence Prediction with Recurrent Neural Networks**
-
-- intro: Winner of MSCOCO image captioning challenge, 2015
-- arxiv: [http://arxiv.org/abs/1506.03099](http://arxiv.org/abs/1506.03099)
-
 **Visualizing and Understanding Recurrent Networks**
 
 - intro: ICLR 2016. Andrej Karpathy, Justin Johnson, Fei-Fei Li
 - arxiv: [http://arxiv.org/abs/1506.02078](http://arxiv.org/abs/1506.02078)
 - slides: [http://www.robots.ox.ac.uk/~seminars/seminars/Extra/2015_07_06_AndrejKarpathy.pdf](http://www.robots.ox.ac.uk/~seminars/seminars/Extra/2015_07_06_AndrejKarpathy.pdf)
 - github: [https://github.com/karpathy/char-rnn](https://github.com/karpathy/char-rnn)
+
+**Scheduled Sampling for Sequence Prediction with Recurrent Neural Networks**
+
+- intro: Winner of MSCOCO image captioning challenge, 2015
+- arxiv: [http://arxiv.org/abs/1506.03099](http://arxiv.org/abs/1506.03099)
+
+**Convolutional LSTM Network: A Machine Learning Approach for Precipitation Nowcasting**
+
+- arxiv: [https://arxiv.org/abs/1506.04214](https://arxiv.org/abs/1506.04214)
+- github: [https://github.com/loliverhennigh/Convolutional-LSTM-in-Tensorflow](https://github.com/loliverhennigh/Convolutional-LSTM-in-Tensorflow)
 
 **Grid Long Short-Term Memory**
 
@@ -520,7 +525,9 @@ date: 2015-10-09
 
 [https://medium.com/@shiyan/materials-to-understand-lstm-34387d6454c1#.4mt3bzoau](https://medium.com/@shiyan/materials-to-understand-lstm-34387d6454c1#.4mt3bzoau)
 
-**Understanding LSTM and its diagrams (★★★★★)**
+**Understanding LSTM and its diagrams**
+
+:star::star::star::star::star:
 
 - blog: [https://medium.com/@shiyan/understanding-lstm-and-its-diagrams-37e2f46f1714](https://medium.com/@shiyan/understanding-lstm-and-its-diagrams-37e2f46f1714)
 - slides: [https://github.com/shi-yan/FreeWill/blob/master/Docs/Diagrams/lstm_diagram.pptx](https://github.com/shi-yan/FreeWill/blob/master/Docs/Diagrams/lstm_diagram.pptx)
@@ -596,6 +603,10 @@ date: 2015-10-09
 **Recurrent Neural Network Gradients, and Lessons Learned Therein**
 
 - blog: [http://willwolf.io/en/2016/10/13/recurrent-neural-network-gradients-and-lessons-learned-therein/](http://willwolf.io/en/2016/10/13/recurrent-neural-network-gradients-and-lessons-learned-therein/)
+
+**A noob’s guide to implementing RNN-LSTM using Tensorflow**
+
+[http://monik.in/a-noobs-guide-to-implementing-rnn-lstm-using-tensorflow/](http://monik.in/a-noobs-guide-to-implementing-rnn-lstm-using-tensorflow/)
 
 ## Optimizing RNN (Baidu Silicon Valley AI Lab)
 

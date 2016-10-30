@@ -502,6 +502,10 @@ The project is dedicated to hero in life great Jesse Livermore.
 - youtube: [https://www.youtube.com/watch?v=Meb5hApAnj4](https://www.youtube.com/watch?v=Meb5hApAnj4)
 - github: [https://github.com/DanielSlater/AlphaToe](https://github.com/DanielSlater/AlphaToe)
 
+**Tensorflow-Reinforce: Implementation of Reinforcement Learning Models in Tensorflow**
+
+- github: [https://github.com/yukezhu/tensorflow-reinforce](https://github.com/yukezhu/tensorflow-reinforce)
+
 ## Play Flappy Bird
 
 **Using Deep Q-Network to Learn How To Play Flappy Bird**

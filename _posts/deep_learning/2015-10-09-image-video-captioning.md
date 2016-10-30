@@ -289,6 +289,10 @@ after the embedding and recurrent layers of the RNN."
 
 - github: [https://github.com/mosessoh/CNN-LSTM-Caption-Generator](https://github.com/mosessoh/CNN-LSTM-Caption-Generator)
 
+**Review Network for Caption Generation**
+
+- github: [https://github.com/kimiyoung/review_net](https://github.com/kimiyoung/review_net)
+
 # Tools
 
 **CaptionBot (Microsoft)**

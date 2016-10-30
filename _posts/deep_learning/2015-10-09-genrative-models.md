@@ -111,6 +111,10 @@ date: 2015-10-09
 - intro: An implementation of the deep convolutional generative adversarial network, combined with a varational autoencoder
 - github: [https://github.com/staturecrane/dcgan_vae_torch](https://github.com/staturecrane/dcgan_vae_torch)
 
+**A versatile GAN(generative adversarial network) implementation. Focused on scalability and ease-of-use.**
+
+- github: [https://github.com/255BITS/HyperGAN](https://github.com/255BITS/HyperGAN)
+
 # Blogs
 
 **Generative Adversial Networks Explained**

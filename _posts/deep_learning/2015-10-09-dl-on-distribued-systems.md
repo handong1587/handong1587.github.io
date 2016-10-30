@@ -123,3 +123,7 @@ date: 2015-10-09
 **Distributed Deep Learning, Part 1: An Introduction to Distributed Training of Neural Networks**
 
 - blog: [http://engineering.skymind.io/distributed-deep-learning-part-1-an-introduction-to-distributed-training-of-neural-networks](http://engineering.skymind.io/distributed-deep-learning-part-1-an-introduction-to-distributed-training-of-neural-networks)
+
+**GPU Acceleration in Databricks: Speeding Up Deep Learning on Apache Spark**
+
+[https://databricks.com/blog/2016/10/27/gpu-acceleration-in-databricks.html](https://databricks.com/blog/2016/10/27/gpu-acceleration-in-databricks.html)

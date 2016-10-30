@@ -135,6 +135,14 @@ without running into obstacles using a type of reinforcement learning called Q-L
 
 - github: [https://github.com/RyanZotti/Self-Driving-Car](https://github.com/RyanZotti/Self-Driving-Car)
 
+**Lane Finding Project for Self-Driving Car ND**
+
+- github: [https://github.com/udacity/CarND-LaneLines-P1](https://github.com/udacity/CarND-LaneLines-P1)
+
+**Instructions on how to get your development environment ready for Udacity Self Driving Car (SDC) Challenges**
+
+- github: [https://github.com/gtarobotics/self-driving-car](https://github.com/gtarobotics/self-driving-car)
+
 # Blogs
 
 **Self-driving cars: How far away are we REALLY from autonomous cars?(7 Aug 2015)**

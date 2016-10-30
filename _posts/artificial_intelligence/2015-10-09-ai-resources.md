@@ -95,3 +95,4 @@ We aim to inspire a new generation of research into challenging new problems pre
 **Artificial Intelligence resources**
 
 - blog: [http://blog.digitalmind.io/post/artificial-intelligence-resources](http://blog.digitalmind.io/post/artificial-intelligence-resources)
+- blog: [https://medium.com/digitalmind/artificial-intelligence-resources-f4efeac949b4#.w4tu89t79](https://medium.com/digitalmind/artificial-intelligence-resources-f4efeac949b4#.w4tu89t79)

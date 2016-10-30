@@ -226,6 +226,12 @@ date: 2015-09-12
 
 - github: [https://github.com/Newmu/stylize](https://github.com/Newmu/stylize)
 
+**Procedurally Generating Stylized Farmland Scenes**
+
+![](http://graphics.cs.williams.edu/courses/cs371/f16/gallery/4-midterm/terrain/TopImage.jpg)
+
+[http://graphics.cs.williams.edu/courses/cs371/f16/gallery/4-midterm/terrain/report.md.html](http://graphics.cs.williams.edu/courses/cs371/f16/gallery/4-midterm/terrain/report.md.html)
+
 # Image Haze Removal
 
 **Single Image Haze Removal**
@@ -852,6 +858,10 @@ agglomerative information bottleneck, SLIC superpixels, quick shift superpixels,
 
 - Part I: Convolutional Neural Networks: [https://indico.io/blog/exploring-computer-vision-convolutional-neural-nets/](https://indico.io/blog/exploring-computer-vision-convolutional-neural-nets/)
 - Part II: Transfer Learning: [https://indico.io/blog/exploring-computer-vision-transfer-learning/](https://indico.io/blog/exploring-computer-vision-transfer-learning/)
+
+**Image Processing with Numpy**
+
+- blog: [http://www.degeneratestate.org/posts/2016/Oct/23/image-processing-with-numpy/](http://www.degeneratestate.org/posts/2016/Oct/23/image-processing-with-numpy/)
 
 # Conferences
 

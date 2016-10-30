@@ -22,8 +22,6 @@ date: 2015-10-09
 
 **Network In Network**
 
-![](https://culurciello.github.io/assets/nets/nin.jpg)
-
 - arxiv: [http://arxiv.org/abs/1312.4400](http://arxiv.org/abs/1312.4400)
 - gitxiv: [http://gitxiv.com/posts/PA98qGuMhsijsJzgX/network-in-network-nin](http://gitxiv.com/posts/PA98qGuMhsijsJzgX/network-in-network-nin)
 
@@ -180,8 +178,6 @@ not just the convolutions)
 
 **Deep Pyramidal Residual Networks**
 
-![](https://cloud.githubusercontent.com/assets/22743125/19235579/7e7e33c6-8f2d-11e6-9397-1b505688e92a.png)
-
 - intro: PyramidNet
 - arxiv: [https://arxiv.org/abs/1610.02915](https://arxiv.org/abs/1610.02915)
 - github: [https://github.com/jhkim89/PyramidNet](https://github.com/jhkim89/PyramidNet)
@@ -273,8 +269,6 @@ not just the convolutions)
 - github: [https://github.com/nanopony/keras-convautoencoder](https://github.com/nanopony/keras-convautoencoder)
 
 **Building Autoencoders in Keras**
-
-![](http://blog.keras.io/img/ae/autoencoder_schema.jpg)
 
 - blog: [http://blog.keras.io/building-autoencoders-in-keras.html](http://blog.keras.io/building-autoencoders-in-keras.html)
 
@@ -376,6 +370,10 @@ Restricted Boltzmann Machine (RBM), Sparse Coding and Auto-encoder
 - blog: [https://blog.metaflow.fr/sparse-coding-a-simple-exploration-152a3c900a7c#.o7g2jk9zi](https://blog.metaflow.fr/sparse-coding-a-simple-exploration-152a3c900a7c#.o7g2jk9zi)
 - github: [https://github.com/metaflow-ai/blog/tree/master/sparse-coding](https://github.com/metaflow-ai/blog/tree/master/sparse-coding)
 
+**Navigating the unsupervised learning landscape**
+
+- blog: [https://culurciello.github.io//tech/2016/06/10/unsup.html](https://culurciello.github.io//tech/2016/06/10/unsup.html)
+
 ## Clustering
 
 **Joint Unsupervised Learning of Deep Representations and Image Clusters**
@@ -411,9 +409,7 @@ Restricted Boltzmann Machine (RBM), Sparse Coding and Auto-encoder
 
 **Simultaneous Deep Transfer Across Domains and Tasks**
 
-![](http://www.eecs.berkeley.edu/~jhoffman/figs/Tzeng_ICCV2015.png)
-
-- intro: ICCV2015
+- intro: ICCV 2015
 - arxiv: [http://arxiv.org/abs/1510.02192](http://arxiv.org/abs/1510.02192)
 
 **Net2Net: Accelerating Learning via Knowledge Transfer**
@@ -485,8 +481,6 @@ Restricted Boltzmann Machine (RBM), Sparse Coding and Auto-encoder
 
 **Multitask Learning / Domain Adaptation**
 
-![](http://www.cs.cornell.edu/~kilian/research/multitasklearning/files/pasted-graphic.jpg)
-
 - homepage: [http://www.cs.cornell.edu/~kilian/research/multitasklearning/multitasklearning.html](http://www.cs.cornell.edu/~kilian/research/multitasklearning/multitasklearning.html)
 
 **multi-task learning**
@@ -534,8 +528,6 @@ Restricted Boltzmann Machine (RBM), Sparse Coding and Auto-encoder
 - paper: [http://ai.stanford.edu/~ang/papers/nipsdlufl10-MultimodalDeepLearning.pdf](http://ai.stanford.edu/~ang/papers/nipsdlufl10-MultimodalDeepLearning.pdf)
 
 **Multimodal Convolutional Neural Networks for Matching Image and Sentence**
-
-![](http://mcnn.noahlab.com.hk/mCNN.png)
 
 - homepage: [http://mcnn.noahlab.com.hk/project.html](http://mcnn.noahlab.com.hk/project.html)
 - paper: [http://mcnn.noahlab.com.hk/ICCV2015.pdf](http://mcnn.noahlab.com.hk/ICCV2015.pdf)
@@ -667,6 +659,10 @@ which encodes useful class information rather than individual units (feature act
 - intro: pre-print version to appear in IEEE ICMLA 2016
 - arxiv: [https://arxiv.org/abs/1610.04256](https://arxiv.org/abs/1610.04256)
 
+**Safety Verification of Deep Neural Networks**
+
+- arxiv: [https://arxiv.org/abs/1610.06940](https://arxiv.org/abs/1610.06940)
+
 # Deep Learning Networks
 
 **PCANet: A Simple Deep Learning Baseline for Image Classification?**
@@ -681,10 +677,9 @@ which encodes useful class information rather than individual units (feature act
 - intro: NIPS 2014
 - arxiv: [http://arxiv.org/abs/1406.3332](http://arxiv.org/abs/1406.3332)
 
-**Deeply-supervised Nets (DSN)**
+**Deeply-supervised Nets**
 
-![](http://vcl.ucsd.edu/~sxie/images/dsn/architecture.png)
-
+- intro: DSN
 - arxiv: [http://arxiv.org/abs/1409.5185](http://arxiv.org/abs/1409.5185)
 - homepage: [http://vcl.ucsd.edu/~sxie/2014/09/12/dsn-project/](http://vcl.ucsd.edu/~sxie/2014/09/12/dsn-project/)
 - github: [https://github.com/s9xie/DSN](https://github.com/s9xie/DSN)
@@ -747,8 +742,6 @@ with fast exact probabilistic inference over many layers."
 - github: [https://github.com/SinaHonari/RCN](https://github.com/SinaHonari/RCN)
 
 **Dynamic Capacity Networks**
-
-![](http://mmbiz.qpic.cn/mmbiz/KmXPKA19gW8YYXeWomd4s4ruu7Jmb3wCMIXYPOgr9KIYzckKoiatgcEhedGnZfDZn40BYIoJMZibibxslEb3uicoibw/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1)
 
 - intro: ICML 2016
 - arxiv: [http://arxiv.org/abs/1511.07838](http://arxiv.org/abs/1511.07838)
@@ -933,8 +926,6 @@ with fast exact probabilistic inference over many layers."
 - youtube: [https://www.youtube.com/watch?v=6NOQC_fl1hQ](https://www.youtube.com/watch?v=6NOQC_fl1hQ)
 
 **The power of Spatial Transformer Networks**
-
-![](https://raw.githubusercontent.com/moodstocks/gtsrb.torch/master/resources/traffic-signs.png)
 
 - blog: [http://torch.ch/blog/2015/09/07/spatial_transformers.html](http://torch.ch/blog/2015/09/07/spatial_transformers.html)
 - github: [https://github.com/moodstocks/gtsrb.torch](https://github.com/moodstocks/gtsrb.torch)
@@ -1145,8 +1136,6 @@ with fast exact probabilistic inference over many layers."
 
 **Fast Wavenet: An efficient Wavenet generation implementation**
 
-![](https://raw.githubusercontent.com/tomlepaine/fast-wavenet/master/assets/what-to-store.png)
-
 - github [https://github.com/tomlepaine/fast-wavenet](https://github.com/tomlepaine/fast-wavenet)
 
 **Wav2Letter: an End-to-End ConvNet-based Speech Recognition System**
@@ -1205,9 +1194,7 @@ Image Caption Generation, Automatic Game Playing
 
 **16 Open Source Deep Learning Models Running as Microservices**
 
-![](http://blog.algorithmia.com/wp-content/uploads/2016/07/deep-learning-model-roundup-1024x536.png)
-
--intro: Places 365 Classifier, Deep Face Recognition, Real Estate Classifier, Colorful Image Colorization, 
+- intro: Places 365 Classifier, Deep Face Recognition, Real Estate Classifier, Colorful Image Colorization, 
 Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 - blog: [http://blog.algorithmia.com/2016/07/open-source-deep-learning-algorithm-roundup/](http://blog.algorithmia.com/2016/07/open-source-deep-learning-algorithm-roundup/)
 
@@ -1315,8 +1302,6 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 
 **Age and Gender Classification using Convolutional Neural Networks**
 
-![](http://www.openu.ac.il/home/hassner/projects/cnn_agegender/teaser_a.png)
-
 - paper: [http://www.openu.ac.il/home/hassner/projects/cnn_agegender/CNN_AgeGenderEstimation.pdf](http://www.openu.ac.il/home/hassner/projects/cnn_agegender/CNN_AgeGenderEstimation.pdf)
 - project page: [http://www.openu.ac.il/home/hassner/projects/cnn_agegender/](http://www.openu.ac.il/home/hassner/projects/cnn_agegender/)
 - github: [https://github.com/GilLevi/AgeGenderDeepLearning](https://github.com/GilLevi/AgeGenderDeepLearning)
@@ -1324,6 +1309,10 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 **Recurrent Face Aging**
 
 - paper: [www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Wang_Recurrent_Face_Aging_CVPR_2016_paper.pdf](www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Wang_Recurrent_Face_Aging_CVPR_2016_paper.pdf)
+
+**Group-Aware Deep Feature Learning For Facial Age Estimation**
+
+- paper: [http://www.sciencedirect.com/science/article/pii/S0031320316303417](http://www.sciencedirect.com/science/article/pii/S0031320316303417)
 
 ## Emotion / Expression Recognition
 
@@ -1333,8 +1322,6 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 - code: [https://github.com/Zebreu/ConvolutionalEmotion](https://github.com/Zebreu/ConvolutionalEmotion)
 
 **Emotion Recognition in the Wild via Convolutional Neural Networks and Mapped Binary Patterns**
-
-![](http://www.openu.ac.il/home/hassner/projects/cnn_emotions/teaser.png)
 
 - project page: [http://www.openu.ac.il/home/hassner/projects/cnn_emotions/](http://www.openu.ac.il/home/hassner/projects/cnn_emotions/)
 - papre: [http://www.openu.ac.il/home/hassner/projects/cnn_emotions/LeviHassnerICMI15.pdf](http://www.openu.ac.il/home/hassner/projects/cnn_emotions/LeviHassnerICMI15.pdf)
@@ -1429,8 +1416,6 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 - github: [https://github.com/tenstep/DeepModel](https://github.com/tenstep/DeepModel)
 
 **Stacked Hourglass Networks for Human Pose Estimation**
-
-![](http://www-personal.umich.edu/~alnewell/images/stacked-hg.png)
 
 - homepage: [http://www-personal.umich.edu/~alnewell/pose/](http://www-personal.umich.edu/~alnewell/pose/)
 - arxiv: [http://arxiv.org/abs/1603.06937](http://arxiv.org/abs/1603.06937)
@@ -1561,6 +1546,12 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 - arxiv: [https://arxiv.org/abs/1609.09430](https://arxiv.org/abs/1609.09430)
 - demo: [https://www.youtube.com/watch?v=oAAo_r7ZT8U&feature=youtu.be](https://www.youtube.com/watch?v=oAAo_r7ZT8U&feature=youtu.be)
 
+**SoundNet: Learning Sound Representations from Unlabeled Video**
+
+- intro: MIT. NIPS 2016
+- paper: [http://web.mit.edu/vondrick/soundnet.pdf](http://web.mit.edu/vondrick/soundnet.pdf)
+- github: [https://github.com/cvondrick/soundnet](https://github.com/cvondrick/soundnet)
+
 ## NSFW Detection / Classification
 
 **Nipple Detection using Convolutional Neural Network**
@@ -1620,8 +1611,6 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 
 **Image Super-Resolution Using Deep Convolutional Networks**
 
-![](http://mmlab.ie.cuhk.edu.hk/projects/SRCNN/img/figure1.png)
-
 - intro: Microsoft Research
 - project page: [http://mmlab.ie.cuhk.edu.hk/projects/SRCNN.html](http://mmlab.ie.cuhk.edu.hk/projects/SRCNN.html)
 - arxiv: [http://arxiv.org/abs/1501.00092](http://arxiv.org/abs/1501.00092)
@@ -1634,9 +1623,6 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 - Baidu-pan: [http://pan.baidu.com/s/1c0k0wRu](http://pan.baidu.com/s/1c0k0wRu)
 
 **Shepard Convolutional Neural Networks**
-
-![](/assets/cnn-materials/comic_bicubic_x3.png)  ![](/assets/cnn-materials/comic_shcnn_x3.png) <br>
-Bicubic VS. Shepard CNN
 
 - paper: [https://papers.nips.cc/paper/5774-shepard-convolutional-neural-networks.pdf](https://papers.nips.cc/paper/5774-shepard-convolutional-neural-networks.pdf)
 - github: [https://github.com/jimmy-ren/vcnn_double-bladed/tree/master/applications/Shepard_CNN](https://github.com/jimmy-ren/vcnn_double-bladed/tree/master/applications/Shepard_CNN)
@@ -1691,6 +1677,7 @@ Bicubic VS. Shepard CNN
 - arxiv: [https://arxiv.org/abs/1609.04802](https://arxiv.org/abs/1609.04802)
 - github(Torch): [https://github.com/leehomyc/Photo-Realistic-Super-Resoluton](https://github.com/leehomyc/Photo-Realistic-Super-Resoluton)
 - github: [https://github.com/junhocho/SRGAN](https://github.com/junhocho/SRGAN)
+- github(Keras): [https://github.com/titu1994/Super-Resolution-using-Generative-Adversarial-Networks](https://github.com/titu1994/Super-Resolution-using-Generative-Adversarial-Networks)
 
 **Real-Time Single Image and Video Super-Resolution Using an Efficient Sub-Pixel Convolutional Neural Network**
 
@@ -1731,8 +1718,6 @@ Bicubic VS. Shepard CNN
 ## Image Rain Removal
 
 **Clearing the Skies: A deep network architecture for single-image rain removal**
-
-![](http://smartdsp.xmu.edu.cn/memberpdf/fuxueyang/derainNet/overview.JPG)
 
 - intro: DerainNet
 - project page: [http://smartdsp.xmu.edu.cn/derainNet.html](http://smartdsp.xmu.edu.cn/derainNet.html)
@@ -1789,14 +1774,10 @@ Bicubic VS. Shepard CNN
 
 **Deeper Depth Prediction with Fully Convolutional Residual Networks**
 
-![](https://camo.githubusercontent.com/eaee1af707b9ad2b2ac3b5be87de82fc590800d2/687474703a2f2f63616d7061722e696e2e74756d2e64652f66696c65732f7275707072656368742f6465707468707265642f696d616765732e6a7067)
-
 - arxiv: [https://arxiv.org/abs/1606.00373](https://arxiv.org/abs/1606.00373)
 - github: [https://github.com/iro-cp/FCRN-DepthPrediction](https://github.com/iro-cp/FCRN-DepthPrediction)
 
 **Depth from a Single Image by Harmonizing Overcomplete Local Network Predictions**
-
-![](ttic.uchicago.edu/~ayanc/mdepth/teaser.jpg)
 
 - intro: NIPS 2016
 - project pag: [http://ttic.uchicago.edu/~ayanc/mdepth/](http://ttic.uchicago.edu/~ayanc/mdepth/)
@@ -1814,8 +1795,6 @@ Bicubic VS. Shepard CNN
 - arxiv: [http://arxiv.org/abs/1601.04589](http://arxiv.org/abs/1601.04589)
 
 **Texture Networks: Feed-forward Synthesis of Textures and Stylized Images**
-
-![](https://raw.githubusercontent.com/DmitryUlyanov/texture_nets/master/data/readme_pics/all.jpg)
 
 - intro: IMCL 2016
 - arxiv: [http://arxiv.org/abs/1603.03417](http://arxiv.org/abs/1603.03417)
@@ -1936,6 +1915,13 @@ Bicubic VS. Shepard CNN
 
 - intro: ACM Multimedia Conference 2016
 - arxiv: [https://arxiv.org/abs/1609.06018](https://arxiv.org/abs/1609.06018)
+
+## Cryptography
+
+**Learning to Protect Communications with Adversarial Neural Cryptography**
+
+- intro: Google Brain
+- arxiv: [https://arxiv.org/abs/1610.06918](https://arxiv.org/abs/1610.06918)
 
 # Benchmarks
 
@@ -2212,8 +2198,6 @@ Bicubic VS. Shepard CNN
 
 **FlowNet: Learning Optical Flow with Convolutional Networks**
 
-![](http://lmb.informatik.uni-freiburg.de/Publications/2015/DFIB15/teaser.png)
-
 - intro: "competitive accuracy at frame rates of 5 to 10 fps"
 - project page: [http://lmb.informatik.uni-freiburg.de/Publications/2015/DFIB15/](http://lmb.informatik.uni-freiburg.de/Publications/2015/DFIB15/)
 - arxiv: [https://arxiv.org/abs/1504.06852](https://arxiv.org/abs/1504.06852)
@@ -2297,8 +2281,6 @@ Bicubic VS. Shepard CNN
 
 **Siamese Net**
 
-![](https://raw.githubusercontent.com/Kadenze/siamese_net/master/images/prediction.png)
-
 - intro: "This package shows how to train a siamese network using Lasagne and Theano and includes network definitions 
 for state-of-the-art networks including: DeepID, DeepID2, Chopra et. al, and Hani et. al. 
 We also include one pre-trained model using a custom convolutional network."
@@ -2335,8 +2317,6 @@ We also include one pre-trained model using a custom convolutional network."
 
 **Deep Water: Deep Learning in H2O using Native GPU Backends**
 
-![](https://raw.githubusercontent.com/h2oai/deepwater/master/architecture/overview.png)
-
 - intro: Native implementation of Deep Learning models for GPU backends (mxnet, Caffe, TensorFlow, etc.)
 - github: [https://github.com/h2oai/deepwater](https://github.com/h2oai/deepwater)
 
@@ -2367,8 +2347,6 @@ Compatible with Theano and TensorFlow. Optimized for Twitter.
 - github: [https://github.com/ankitaggarwal011/PyCNN](https://github.com/ankitaggarwal011/PyCNN)
 
 **regl-cnn: Digit recognition with Convolutional Neural Networks in WebGL**
-
-![](https://raw.githubusercontent.com/Erkaman/regl-cnn/gh-pages/gifs/record_resize.gif)
 
 - intro: TensorFlow, WebGL, [regl](https://github.com/mikolalysenko/regl)
 - github: [https://github.com/Erkaman/regl-cnn/](https://github.com/Erkaman/regl-cnn/)
@@ -2498,8 +2476,6 @@ Compatible with Theano and TensorFlow. Optimized for Twitter.
 - github: [https://github.com/Vict0rSch/deep_learning](https://github.com/Vict0rSch/deep_learning)
 
 **Deep Learning: Definition, Resources, Comparison with Machine Learning**
-
-![](http://api.ning.com/files/mRIiJdI0bcyTIJftimMbMYW4VRcz-NC1gCERsgtyu*mNietZRBt5g3AUs06WtU2BigiPWs1MvWCYq6bsuWrNbsG1KBqrcm8b/Capture.PNG)
 
 - blog: [http://www.datasciencecentral.com/profiles/blogs/deep-learning-definition-resources-comparison-with-machine-learni](http://www.datasciencecentral.com/profiles/blogs/deep-learning-definition-resources-comparison-with-machine-learni)
 
@@ -2646,8 +2622,6 @@ Compatible with Theano and TensorFlow. Optimized for Twitter.
 - homepage: [http://feichtenhofer.github.io/](http://feichtenhofer.github.io/)
 
 **Image recognition is not enough: As with language, photos need contextual intelligence**
-
-![](https://cdn-images-1.medium.com/max/1200/1*27OxkybAgEXbb8BBjwhEIA.jpeg)
 
 [https://medium.com/@ken_getquik/image-recognition-is-not-enough-293cd7d58004#.dex817l2z](https://medium.com/@ken_getquik/image-recognition-is-not-enough-293cd7d58004#.dex817l2z)
 
