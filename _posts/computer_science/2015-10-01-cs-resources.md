@@ -7,6 +7,10 @@ date: 2015-10-01
 
 # Courses
 
+**(Udacity) Georgia Tech Masters in CS**
+
+[https://www.udacity.com/courses/georgia-tech-masters-in-cs](https://www.udacity.com/courses/georgia-tech-masters-in-cs)
+
 **University of Virginia: cs6501 Spring 2013: Great Works in Computer Science**
 
 - homepage: [https://www.cs.virginia.edu/~evans/greatworks/](https://www.cs.virginia.edu/~evans/greatworks/)
