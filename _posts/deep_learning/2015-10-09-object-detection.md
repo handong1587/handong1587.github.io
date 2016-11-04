@@ -394,6 +394,10 @@ and 1.15s per image with it".
 
 - arxiv: [https://arxiv.org/abs/1610.05861](https://arxiv.org/abs/1610.05861)
 
+**Generalized Haar Filter based Deep Networks for Real-Time Object Detection in Traffic Scene**
+
+- arxiv: [https://arxiv.org/abs/1610.09609](https://arxiv.org/abs/1610.09609)
+
 # Detection From Video
 
 **Learning Object Class Detectors from Weakly Annotated Video**
@@ -476,6 +480,10 @@ This task involves predicting the salient regions of an image given by human eye
 **Predicting Eye Fixations using Convolutional Neural Networks**
 
 - paper: [http://www.escience.cn/system/file?fileId=72648](http://www.escience.cn/system/file?fileId=72648)
+
+**Saliency Detection by Multi-Context Deep Learning**
+
+- paper: [http://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Zhao_Saliency_Detection_by_2015_CVPR_paper.pdf](http://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Zhao_Saliency_Detection_by_2015_CVPR_paper.pdf)
 
 ## DeepFix
 

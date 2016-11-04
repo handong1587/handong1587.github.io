@@ -27,6 +27,10 @@ date: 2015-10-09
 - arxiv: [http://arxiv.org/abs/1609.04468](http://arxiv.org/abs/1609.04468)
 - paper: [https://github.com/dribnet/plat](https://github.com/dribnet/plat)
 
+**Conditional Image Synthesis With Auxiliary Classifier GANs**
+
+- arxiv: [https://arxiv.org/abs/1610.09585](https://arxiv.org/abs/1610.09585)
+
 # Generative Adversarial Network
 
 **Generative Adversarial Networks**
@@ -76,6 +80,13 @@ date: 2015-10-09
 - author: Junbo Zhao, Michael Mathieu, Yann LeCun
 - arxiv: [http://arxiv.org/abs/1609.03126](http://arxiv.org/abs/1609.03126)
 - github(Tensorflow): [https://github.com/buriburisuri/ebgan](https://github.com/buriburisuri/ebgan)
+
+## SeqGAN
+
+**SeqGAN: Sequence Generative Adversarial Nets with Policy Gradient**
+
+- arxiv: [https://arxiv.org/abs/1609.05473](https://arxiv.org/abs/1609.05473)
+- github: [https://github.com/LantaoYu/SeqGAN](https://github.com/LantaoYu/SeqGAN)
 
 **Connecting Generative Adversarial Networks and Actor-Critic Methods**
 
@@ -157,6 +168,11 @@ date: 2015-10-09
 **Instance Noise: A trick for stabilising GAN training**
 
 - blog: [http://www.inference.vc/instance-noise-a-trick-for-stabilising-gan-training/](http://www.inference.vc/instance-noise-a-trick-for-stabilising-gan-training/)
+
+**Generating Fine Art in 300 Lines of Code**
+
+- intro: DCGAN
+- blog: [https://medium.com/@richardherbert/generating-fine-art-in-300-lines-of-code-4d37218216a6#.63qm8ef9g](https://medium.com/@richardherbert/generating-fine-art-in-300-lines-of-code-4d37218216a6#.63qm8ef9g)
 
 # Resources
 

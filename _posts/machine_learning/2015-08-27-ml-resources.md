@@ -229,6 +229,10 @@ based on decision tree algorithms, used for ranking, classification and many oth
 - arxiv: [http://arxiv.org/abs/1512.07548](http://arxiv.org/abs/1512.07548)
 - note: [http://blog.csdn.net/cyh_24/article/details/50408884](http://blog.csdn.net/cyh_24/article/details/50408884)
 
+**cumf_sgd: matrix factorization library using stochastic gradent descent on GPUs**
+
+- github: [https://github.com/CuMF/cumf_sgd](https://github.com/CuMF/cumf_sgd)
+
 # Gaussian Processes
 
 **The Gaussian Processes Web Site**

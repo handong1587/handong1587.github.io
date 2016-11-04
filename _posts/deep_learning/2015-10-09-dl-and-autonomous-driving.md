@@ -143,6 +143,11 @@ without running into obstacles using a type of reinforcement learning called Q-L
 
 - github: [https://github.com/gtarobotics/self-driving-car](https://github.com/gtarobotics/self-driving-car)
 
+**DeepDrive: self-driving car AI**
+
+- intro: Caffe Model / Dataset / Tips and Tricks
+- homepage: [http://deepdrive.io/](http://deepdrive.io/)
+
 # Blogs
 
 **Self-driving cars: How far away are we REALLY from autonomous cars?(7 Aug 2015)**

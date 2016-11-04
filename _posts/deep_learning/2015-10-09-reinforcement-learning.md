@@ -27,12 +27,6 @@ date: 2015-10-09
 - homepage: [http://rl-gym-doc.s3-website-us-west-2.amazonaws.com/mlss/index.html](http://rl-gym-doc.s3-website-us-west-2.amazonaws.com/mlss/index.html)
 - slides: [http://pan.baidu.com/s/1jIatusA#path=%252F](http://pan.baidu.com/s/1jIatusA#path=%252F)
 
-**Building a Pong playing AI in just 1 hour(plus 4 days training...)**
-
-- sildes: [https://speakerdeck.com/danielslater/building-a-pong-ai](https://speakerdeck.com/danielslater/building-a-pong-ai)
-- github: [https://github.com/DanielSlater/PyDataLondon2016](https://github.com/DanielSlater/PyDataLondon2016)
-- youtube: [https://www.youtube.com/watch?v=n8NdT_3y9oY](https://www.youtube.com/watch?v=n8NdT_3y9oY)
-
 **Deep Reinforcement Learning: Pong from Pixels**
 
 ![](http://karpathy.github.io/assets/rl/preview.jpeg)
@@ -533,6 +527,19 @@ The project is dedicated to hero in life great Jesse Livermore.
 
 - blog: [https://yanpanlau.github.io/2016/07/10/FlappyBird-Keras.html](https://yanpanlau.github.io/2016/07/10/FlappyBird-Keras.html)
 - github: [https://github.com/yanpanlau/Keras-FlappyBird](https://github.com/yanpanlau/Keras-FlappyBird)
+
+# Pong
+
+**Building a Pong playing AI in just 1 hour(plus 4 days training...)**
+
+- sildes: [https://speakerdeck.com/danielslater/building-a-pong-ai](https://speakerdeck.com/danielslater/building-a-pong-ai)
+- github: [https://github.com/DanielSlater/PyDataLondon2016](https://github.com/DanielSlater/PyDataLondon2016)
+- youtube: [https://www.youtube.com/watch?v=n8NdT_3y9oY](https://www.youtube.com/watch?v=n8NdT_3y9oY)
+
+**Pong Neural Network(LIVE)**
+
+- youtube: [https://www.youtube.com/watch?v=Hqf__FlRlzg](https://www.youtube.com/watch?v=Hqf__FlRlzg)
+- github: [https://github.com/llSourcell/pong_neural_network_live](https://github.com/llSourcell/pong_neural_network_live)
 
 # Library
 

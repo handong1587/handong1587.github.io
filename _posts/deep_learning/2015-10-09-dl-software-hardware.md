@@ -59,6 +59,10 @@ Contains all the popular DL frameworks (TensorFlow, Theano, Torch, Caffe, etc.)
 
 [https://aws.amazon.com/marketplace/pp/B01M0AXXQB](https://aws.amazon.com/marketplace/pp/B01M0AXXQB)
 
+**We Have To Go Deeper: AWS p2.xlarge GPU optimized deep learning cluster-grenade**
+
+- github: [https://github.com/Miej/GoDeeper](https://github.com/Miej/GoDeeper)
+
 # Hardware System
 
 **I: Building a Deep Learning (Dream) Machine**

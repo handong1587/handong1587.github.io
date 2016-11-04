@@ -16,6 +16,10 @@ date: 2015-08-27
 
 - arxiv: [https://arxiv.org/abs/1610.02483](https://arxiv.org/abs/1610.02483)
 
+**Compressive K-means**
+
+- arxiv: [https://arxiv.org/abs/1610.08738](https://arxiv.org/abs/1610.08738)
+
 # Stream Clustering
 
 # Neural Network-based Clustering

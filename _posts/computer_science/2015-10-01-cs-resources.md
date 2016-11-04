@@ -68,6 +68,12 @@ date: 2015-10-01
 - homepage: [http://half.sourceforge.net/](http://half.sourceforge.net/)
 - github: [https://github.com/headupinclouds/half](https://github.com/headupinclouds/half)
 
+**TREPL**
+
+- intro: TRE is an object oriented, functional programming language, 
+that enables user to view all processes happening inside a memory during program execution.
+- working example: [http://trepl.xyz/ide](http://trepl.xyz/ide)
+
 # Blogs
 
 **Design Of A Modern Cache**

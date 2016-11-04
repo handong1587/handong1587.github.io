@@ -155,11 +155,13 @@ after the embedding and recurrent layers of the RNN."
 - github(Caffe): [https://github.com/deepsemantic/image_captioning](https://github.com/deepsemantic/image_captioning)
 - demo: [https://youtu.be/a0bh9_2LE24](https://youtu.be/a0bh9_2LE24)
 
-## Encode, Review, and Decode
-
 **Encode, Review, and Decode: Reviewer Module for Caption Generation**
 
-- arxiv: [http://arxiv.org/abs/1605.07912](http://arxiv.org/abs/1605.07912)
+**Review Network for Caption Generation**
+
+- intro: NIPS 2016
+- arxiv: [https://arxiv.org/abs/1605.07912](https://arxiv.org/abs/1605.07912)
+- github: [https://github.com/kimiyoung/review_net](https://github.com/kimiyoung/review_net)
 
 **Attention Correctness in Neural Image Captioning**
 
@@ -288,10 +290,6 @@ after the embedding and recurrent layers of the RNN."
 **Learning CNN-LSTM Architectures for Image Caption Generation: An implementation of CNN-LSTM image caption generator architecture that achieves close to state-of-the-art results on the MSCOCO dataset.**
 
 - github: [https://github.com/mosessoh/CNN-LSTM-Caption-Generator](https://github.com/mosessoh/CNN-LSTM-Caption-Generator)
-
-**Review Network for Caption Generation**
-
-- github: [https://github.com/kimiyoung/review_net](https://github.com/kimiyoung/review_net)
 
 # Tools
 

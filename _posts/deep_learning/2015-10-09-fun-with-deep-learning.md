@@ -181,6 +181,20 @@ Compressed model is less than 500KB
 - intro: Google Brain
 - arxiv: [https://arxiv.org/abs/1610.07629](https://arxiv.org/abs/1610.07629)
 - blog: [https://research.googleblog.com/2016/10/supercharging-style-transfer.html](https://research.googleblog.com/2016/10/supercharging-style-transfer.html)
+- github: [https://github.com/tensorflow/magenta/tree/master/magenta/models/image_stylization](https://github.com/tensorflow/magenta/tree/master/magenta/models/image_stylization)
+
+**How to Fake It As an Artist with Docker, AWS and Deep Learning**
+
+- blog: [https://medium.com/@lherrera/how-to-fake-it-as-an-artist-with-docker-aws-and-deep-learning-6d42f4acd890#.eq9gcgkzh](https://medium.com/@lherrera/how-to-fake-it-as-an-artist-with-docker-aws-and-deep-learning-6d42f4acd890#.eq9gcgkzh)
+
+**Multistyle Pastiche Generator**
+
+- blog: [https://magenta.tensorflow.org/2016/11/01/multistyle-pastiche-generator/](https://magenta.tensorflow.org/2016/11/01/multistyle-pastiche-generator/)
+
+**Fast Style Transfer in TensorFlow**
+
+- intro: Video Stylization, Image Stylization
+- github: [https://github.com/lengstrom/fast-style-transfer](https://github.com/lengstrom/fast-style-transfer)
 
 ## Neural Art On Audio
 

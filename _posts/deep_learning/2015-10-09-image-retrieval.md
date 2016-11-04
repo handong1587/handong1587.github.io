@@ -69,6 +69,7 @@ date: 2015-10-09
 
 **Feature Learning based Deep Supervised Hashing with Pairwise Labels**
 
+- intro: IJCAI 2016
 - arxiv: [http://arxiv.org/abs/1511.03855](http://arxiv.org/abs/1511.03855)
 - code: [http://cs.nju.edu.cn/lwj/code/DPSH_code.rar](http://cs.nju.edu.cn/lwj/code/DPSH_code.rar)
 
