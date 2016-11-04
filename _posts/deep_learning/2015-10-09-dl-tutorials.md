@@ -409,6 +409,11 @@ Machine learning workflow, Extracting feaures from images (colours, edges, corne
 
 [http://chaosmail.github.io/deeplearning/2016/10/22/intro-to-deep-learning-for-computer-vision/](http://chaosmail.github.io/deeplearning/2016/10/22/intro-to-deep-learning-for-computer-vision/)
 
+**If I Can Learn to Play Atari, I Can Learn TensorFlow**
+
+- intro: Here is a summary of new deep learning libraries, tools, and updates to existing frameworks.
+- blog: [https://dzone.com/articles/deep-learning-resources](https://dzone.com/articles/deep-learning-resources)
+
 # Convolution
 
 ![](/assets/cnn-materials/conv.jpg)

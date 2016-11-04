@@ -92,6 +92,14 @@ for building Deep Learning (DL) machine learning (ML) models
 - github: [https://github.com/chaosmail/caffejs/](https://github.com/chaosmail/caffejs/)
 - demo: [http://chaosmail.github.io/caffejs/models.html](http://chaosmail.github.io/caffejs/models.html)
 
+## Intel Caffe
+
+**Intel Caffe**
+
+- intro: This fork of BVLC/Caffe is dedicated to improving performance of this deep learning framework when running on CPU, 
+in particular Intel® Xeon processors (HSW+) and Intel® Xeon Phi processors
+- github [https://github.com/intel/caffe](https://github.com/intel/caffe)
+
 # CDNN2
 
 **CDNN2 - CEVA Deep Neural Network Software Framework**
@@ -516,6 +524,10 @@ Implementations and ideas are largely based on papers from arxiv and implementat
 **Rust language bindings for TensorFlow**
 
 - github: [https://github.com/tensorflow/rust](https://github.com/tensorflow/rust)
+
+**TensorFlow Ecosystem: Integration of TensorFlow with other open-source frameworks**
+
+- github: [https://github.com/tensorflow/ecosystem](https://github.com/tensorflow/ecosystem)
 
 ## Papers
 

@@ -223,7 +223,16 @@ date: 2015-10-09
 
 - arxiv: [http://arxiv.org/abs/1511.06411](http://arxiv.org/abs/1511.06411)
 
+**Nonconvex Loss Functions for Classifiers and Deep Networks**
+
+- blog: [https://casmls.github.io/general/2016/10/27/NonconvexLosses.html](https://casmls.github.io/general/2016/10/27/NonconvexLosses.html)
+
 # Pooling
+
+**Stochastic Pooling for Regularization of Deep Convolutional Neural Networks**
+
+- intro: ICLR 2013. Matthew D. Zeiler, Rob Fergus
+- paper: [http://www.matthewzeiler.com/pubs/iclr2013/iclr2013.pdf](http://www.matthewzeiler.com/pubs/iclr2013/iclr2013.pdf)
 
 **Fractional Max-Pooling**
 
@@ -525,7 +534,9 @@ date: 2015-10-09
 
 - arxiv: [http://arxiv.org/abs/1511.04561](http://arxiv.org/abs/1511.04561)
 
-# Image Data Augmentation
+# Handling Datasets
+
+## Image Data Augmentation
 
 **DataAugmentation ver1.0: Image data augmentation tool for training of image recognition algorithm**
 
@@ -547,6 +558,13 @@ date: 2015-10-09
 **HZPROC: torch data augmentation toolbox (supports affine transform)**
 
 - github: [https://github.com/zhanghang1989/hzproc](https://github.com/zhanghang1989/hzproc)
+
+## Imbalanced Datasets
+
+**Investigation on handling Structured & Imbalanced Datasets with Deep Learning**
+
+- intro: smote resampling, cost sensitive learning
+- blog: [https://www.analyticsvidhya.com/blog/2016/10/investigation-on-handling-structured-imbalanced-datasets-with-deep-learning/](https://www.analyticsvidhya.com/blog/2016/10/investigation-on-handling-structured-imbalanced-datasets-with-deep-learning/)
 
 # Low Numerical Precision
 

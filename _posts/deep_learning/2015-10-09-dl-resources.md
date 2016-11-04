@@ -118,6 +118,10 @@ not just the convolutions)
 - blog: [http://torch.ch/blog/2016/02/04/resnets.html](http://torch.ch/blog/2016/02/04/resnets.html)
 - github: [https://github.com/facebook/fb.resnet.torch](https://github.com/facebook/fb.resnet.torch)
 
+**resnet.torch: an updated version of fb.resnet.torch with many changes.**
+
+- github: [https://github.com/erogol/resnet.torch](https://github.com/erogol/resnet.torch)
+
 **Highway Networks and Deep Residual Networks**
 
 - blog: [http://yanran.li/peppypapers/2016/01/10/highway-networks-and-deep-residual-networks.html](http://yanran.li/peppypapers/2016/01/10/highway-networks-and-deep-residual-networks.html)
@@ -814,6 +818,7 @@ with fast exact probabilistic inference over many layers."
 
 - intro: Google DeepMind
 - arxiv: [https://arxiv.org/abs/1606.04671](https://arxiv.org/abs/1606.04671)
+- github: [https://github.com/synpon/prog_nn](https://github.com/synpon/prog_nn)
 
 **Holistic SparseCNN: Forging the Trident of Accuracy, Speed, and Size**
 
@@ -882,6 +887,12 @@ with fast exact probabilistic inference over many layers."
 
 - intro: Google DeepMind
 - arxiv: [https://arxiv.org/abs/1610.00527](https://arxiv.org/abs/1610.00527)
+
+**Tensor Switching Networks**
+
+- intro: NIPS 2016
+- arixiv: [https://arxiv.org/abs/1610.10087](https://arxiv.org/abs/1610.10087)
+- github: [https://github.com/coxlab/tsnet](https://github.com/coxlab/tsnet)
 
 ## Highway Networks
 
@@ -1080,6 +1091,10 @@ with fast exact probabilistic inference over many layers."
 
 - intro: Google DeepMind
 - arxiv: [https://arxiv.org/abs/1610.04286](https://arxiv.org/abs/1610.04286)
+
+**Towards Lifelong Self-Supervision: A Deep Learning Direction for Robotics**
+
+- arxiv: [https://arxiv.org/abs/1611.00201](https://arxiv.org/abs/1611.00201)
 
 # Deep Learning on Mobile Devices
 
@@ -1549,6 +1564,7 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 **SoundNet: Learning Sound Representations from Unlabeled Video**
 
 - intro: MIT. NIPS 2016
+- arxiv: [https://arxiv.org/abs/1610.09001](https://arxiv.org/abs/1610.09001)
 - paper: [http://web.mit.edu/vondrick/soundnet.pdf](http://web.mit.edu/vondrick/soundnet.pdf)
 - github: [https://github.com/cvondrick/soundnet](https://github.com/cvondrick/soundnet)
 
@@ -1832,6 +1848,8 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 
 **Learning Fine-grained Image Similarity with Deep Ranking**
 
+- intro: CVPR 2014
+- intro: Triplet Sampling
 - arxiv: [http://arxiv.org/abs/1404.4661](http://arxiv.org/abs/1404.4661)
 
 **Learning to compare image patches via convolutional neural networks**
@@ -2163,6 +2181,12 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 - intro: PhD Thesis. Cambridge Machine Learning Group
 - blog: [http://mlg.eng.cam.ac.uk/yarin/blog_2248.html](http://mlg.eng.cam.ac.uk/yarin/blog_2248.html)
 - thesis: [http://mlg.eng.cam.ac.uk/yarin/thesis/thesis.pdf](http://mlg.eng.cam.ac.uk/yarin/thesis/thesis.pdf)
+
+**Stochastic Variational Deep Kernel Learning**
+
+- intro: NIPS 2016
+- arxiv: [https://arxiv.org/abs/1611.00336](https://arxiv.org/abs/1611.00336)
+- code: [https://people.orie.cornell.edu/andrew/code/#SVDKL](https://people.orie.cornell.edu/andrew/code/#SVDKL)
 
 ## STDP
 

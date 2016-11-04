@@ -155,11 +155,13 @@ after the embedding and recurrent layers of the RNN."
 - github(Caffe): [https://github.com/deepsemantic/image_captioning](https://github.com/deepsemantic/image_captioning)
 - demo: [https://youtu.be/a0bh9_2LE24](https://youtu.be/a0bh9_2LE24)
 
-## Encode, Review, and Decode
-
 **Encode, Review, and Decode: Reviewer Module for Caption Generation**
 
-- arxiv: [http://arxiv.org/abs/1605.07912](http://arxiv.org/abs/1605.07912)
+**Review Network for Caption Generation**
+
+- intro: NIPS 2016
+- arxiv: [https://arxiv.org/abs/1605.07912](https://arxiv.org/abs/1605.07912)
+- github: [https://github.com/kimiyoung/review_net](https://github.com/kimiyoung/review_net)
 
 **Attention Correctness in Neural Image Captioning**
 
@@ -170,14 +172,19 @@ after the embedding and recurrent layers of the RNN."
 - arxiv: [https://arxiv.org/abs/1606.04621](https://arxiv.org/abs/1606.04621)
 - github: [https://github.com/LuoweiZhou/e2e-gLSTM-sc](https://github.com/LuoweiZhou/e2e-gLSTM-sc)
 
-**Captioning Images with Diverse Objects**
+**DeepDiary: Automatic Caption Generation for Lifelogging Image Streams**
 
-- arxiv: [http://arxiv.org/abs/1606.07770](http://arxiv.org/abs/1606.07770)
+- intro: ECCV International Workshop on Egocentric Perception, Interaction, and Computing
+- arxiv: [http://arxiv.org/abs/1608.03819](http://arxiv.org/abs/1608.03819)
 
 **phi-LSTM: A Phrase-based Hierarchical LSTM Model for Image Captioning**
 
 - intro: ACCV 2016
 - arxiv: [http://arxiv.org/abs/1608.05813](http://arxiv.org/abs/1608.05813)
+
+**Captioning Images with Diverse Objects**
+
+- arxiv: [http://arxiv.org/abs/1606.07770](http://arxiv.org/abs/1606.07770)
 
 **Learning to generalize to new compositions in image understanding**
 
@@ -288,10 +295,6 @@ after the embedding and recurrent layers of the RNN."
 **Learning CNN-LSTM Architectures for Image Caption Generation: An implementation of CNN-LSTM image caption generator architecture that achieves close to state-of-the-art results on the MSCOCO dataset.**
 
 - github: [https://github.com/mosessoh/CNN-LSTM-Caption-Generator](https://github.com/mosessoh/CNN-LSTM-Caption-Generator)
-
-**Review Network for Caption Generation**
-
-- github: [https://github.com/kimiyoung/review_net](https://github.com/kimiyoung/review_net)
 
 # Tools
 

@@ -394,6 +394,10 @@ and 1.15s per image with it".
 
 - arxiv: [https://arxiv.org/abs/1610.05861](https://arxiv.org/abs/1610.05861)
 
+**Generalized Haar Filter based Deep Networks for Real-Time Object Detection in Traffic Scene**
+
+- arxiv: [https://arxiv.org/abs/1610.09609](https://arxiv.org/abs/1610.09609)
+
 # Detection From Video
 
 **Learning Object Class Detectors from Weakly Annotated Video**
@@ -476,6 +480,10 @@ This task involves predicting the salient regions of an image given by human eye
 **Predicting Eye Fixations using Convolutional Neural Networks**
 
 - paper: [http://www.escience.cn/system/file?fileId=72648](http://www.escience.cn/system/file?fileId=72648)
+
+**Saliency Detection by Multi-Context Deep Learning**
+
+- paper: [http://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Zhao_Saliency_Detection_by_2015_CVPR_paper.pdf](http://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Zhao_Saliency_Detection_by_2015_CVPR_paper.pdf)
 
 ## DeepFix
 
@@ -680,8 +688,9 @@ This task involves predicting the salient regions of an image given by human eye
 
 **Pedestrian Detection aided by Deep Learning Semantic Tasks**
 
+- intro: CVPR 2015
+- project page: [http://mmlab.ie.cuhk.edu.hk/projects/TA-CNN/](http://mmlab.ie.cuhk.edu.hk/projects/TA-CNN/)
 - paper: [http://arxiv.org/abs/1412.0069](http://arxiv.org/abs/1412.0069)
-- project: [http://mmlab.ie.cuhk.edu.hk/projects/TA-CNN/](http://mmlab.ie.cuhk.edu.hk/projects/TA-CNN/)
 
 **Deep Learning Strong Parts for Pedestrian Detection**
 

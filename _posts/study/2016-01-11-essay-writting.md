@@ -20,3 +20,10 @@ date: 2016-01-11
 **Style: Toward Clarity and Grace**
 
 [http://www.unalmed.edu.co/~poboyca/documentos/Doc.%20Seminario%20I/style.pdf](http://www.unalmed.edu.co/~poboyca/documentos/Doc.%20Seminario%20I/style.pdf)
+
+# Resources
+
+**Begin LaTeX in minutes**
+
+- intro: Brief Intro to LaTeX for beginners that helps you use LaTeX with ease. Comments and Contributions are welcomed
+- github: [https://github.com/VoLuong/Begin-Latex-in-minutes](https://github.com/VoLuong/Begin-Latex-in-minutes)

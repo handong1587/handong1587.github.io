@@ -43,24 +43,25 @@ uncompress: sEx x FileName.*
 
 # Print info
 
-| task                         | command               |
-|:-----------------------------|:---------------------:|
-| Print system info            | cat /proc/version     |
-| Print software info          | whereis SOFEWARE      |
-|                              | which SOFEWARE        |
-|                              | locate SOFEWARE       |
-| Print CPU info               | cat /proc/cpuinfo     |
-|                              | dmesg \| grep -i xeon |
-| Print memory info            | cat /proc/meminfo     |
-|                              | free -m               |
-| Print graphics card version  | nvcc --version        |
-| Print graphics card GPU info | nvidia-smi            |
-| Print disk free space        | df -h                 |
-|                              | df -hl                |
-| Print current folder size    | du -sh DIRNAME        |
-| Print target folder volume   | du -sh                |
-| Print target folder volume (in MB) | du -sm          |
-| Prints one entry per line of output (bare format) | ls -1a |
+| task                                              | command                 |
+| :-----------------------------                    | :---------------------: |
+| Print system info                                 | cat /proc/version       |
+| Print software info                               | whereis SOFEWARE        |
+|                                                   | which SOFEWARE          |
+|                                                   | locate SOFEWARE         |
+| Print CPU info                                    | cat /proc/cpuinfo       |
+|                                                   | dmesg \| grep -i xeon   |
+| Print memory info                                 | cat /proc/meminfo       |
+|                                                   | free -m                 |
+| Print pid info                                    | ps aux \| grep 'target_pid' |
+| Print graphics card version                       | nvcc --version          |
+| Print graphics card GPU info                      | nvidia-smi              |
+| Print disk free space                             | df -h                   |
+|                                                   | df -hl                  |
+| Print current folder size                         | du -sh DIRNAME          |
+| Print target folder volume                        | du -sh                  |
+| Print target folder volume (in MB)                | du -sm                  |
+| Prints one entry per line of output (bare format) | ls -1a                  |
 
 Print lines 20 to 40:
 

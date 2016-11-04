@@ -11,16 +11,23 @@ date: 2015-10-09
 
 ![](http://sites.skoltech.ru/app/data/uploads/sites/25/2014/11/example-e1404721339557.png)
 
+- project page: [http://sites.skoltech.ru/compvision/projects/neuralcodes/](http://sites.skoltech.ru/compvision/projects/neuralcodes/)
 - arxiv: [http://arxiv.org/abs/1404.1777](http://arxiv.org/abs/1404.1777)
 - github: [https://github.com/arbabenko/Spoc](https://github.com/arbabenko/Spoc)
-- project page: [http://sites.skoltech.ru/compvision/projects/neuralcodes/](http://sites.skoltech.ru/compvision/projects/neuralcodes/)
 
 **Efficient On-the-fly Category Retrieval using ConvNets and GPUs**
 
 - arxiv: [http://arxiv.org/abs/1407.4764](http://arxiv.org/abs/1407.4764)
 
+**Hashing by Deep Learning**
+
+- intro: IBM T. J. Watson Research Center
+- paper: [http://www.ee.columbia.edu/~wliu/WeiLiu_DLHash.pdf](http://www.ee.columbia.edu/~wliu/WeiLiu_DLHash.pdf)
+
 **Deep Learning of Binary Hash Codes for Fast Image Retrieval**
 
+- intro: CVPR Workshop 2015
+- intro: MNIST, CIFAR-10, Yahoo-1M
 - paper: [http://www.iis.sinica.edu.tw/~kevinlin311.tw/cvprw15.pdf](http://www.iis.sinica.edu.tw/~kevinlin311.tw/cvprw15.pdf)
 - github: [https://github.com/kevinlin311tw/caffe-cvprw15](https://github.com/kevinlin311tw/caffe-cvprw15)
 
@@ -29,12 +36,6 @@ date: 2015-10-09
 - intro: SIGGRAPH 2015
 - paper: [http://www.cs.cornell.edu/~kb/publications/SIG15ProductNet.pdf](http://www.cs.cornell.edu/~kb/publications/SIG15ProductNet.pdf)
 - paper: [http://dl.acm.org.sci-hub.cc/citation.cfm?doid=2809654.2766959](http://dl.acm.org.sci-hub.cc/citation.cfm?doid=2809654.2766959)
-
-**Where can I buy a chair like that? – This app will tell you**
-
-![](http://www.news.cornell.edu/sites/chronicle.cornell/files/GrokStyleApp.png?itok=3jd_S2R7)
-
-- blog: [http://www.news.cornell.edu/stories/2016/08/where-can-i-buy-chair-app-will-tell-you](http://www.news.cornell.edu/stories/2016/08/where-can-i-buy-chair-app-will-tell-you)
 
 **Deep Semantic Ranking Based Hashing for Multi-Label Image Retrieval**
 
@@ -69,6 +70,7 @@ date: 2015-10-09
 
 **Feature Learning based Deep Supervised Hashing with Pairwise Labels**
 
+- intro: IJCAI 2016
 - arxiv: [http://arxiv.org/abs/1511.03855](http://arxiv.org/abs/1511.03855)
 - code: [http://cs.nju.edu.cn/lwj/code/DPSH_code.rar](http://cs.nju.edu.cn/lwj/code/DPSH_code.rar)
 
@@ -128,17 +130,29 @@ date: 2015-10-09
 - paper: [http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Lin_Learning_Compact_Binary_CVPR_2016_paper.pdf](http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Lin_Learning_Compact_Binary_CVPR_2016_paper.pdf)
 - github: [https://github.com/kevinlin311tw/cvpr16-deepbit](https://github.com/kevinlin311tw/cvpr16-deepbit)
 
+**Fast Training of Triplet-based Deep Binary Embedding Networks**
+
+- intro: CVPR 2016
+- paper: [http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Zhuang_Fast_Training_of_CVPR_2016_paper.pdf](http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Zhuang_Fast_Training_of_CVPR_2016_paper.pdf)
+
 **CNN Image Retrieval Learns from BoW: Unsupervised Fine-Tuning with Hard Examples**
 
 ![](http://ptak.felk.cvut.cz/personal/radenfil/siamac/siamac.png)
 
+- intro: ECCV 2016
 - project page(paper+code+data): [http://cmp.felk.cvut.cz/~radenfil/projects/siamac.html](http://cmp.felk.cvut.cz/~radenfil/projects/siamac.html)
+- arxiv: [https://arxiv.org/abs/1604.02426](https://arxiv.org/abs/1604.02426)
 - paper: [http://cmp.felk.cvut.cz/~radenfil/publications/Radenovic-ECCV16.pdf](http://cmp.felk.cvut.cz/~radenfil/publications/Radenovic-ECCV16.pdf)
 - code(Matlab): [http://ptak.felk.cvut.cz/personal/radenfil/siamac/siaMAC_code.tar.gz](http://ptak.felk.cvut.cz/personal/radenfil/siamac/siaMAC_code.tar.gz)
 
 **SSDH: Semi-supervised Deep Hashing for Large Scale Image Retrieval**
 
 - arxiv: [http://arxiv.org/abs/1607.08477](http://arxiv.org/abs/1607.08477)
+
+**Deep Semantic-Preserving and Ranking-Based Hashing for Image Retrieval**
+
+- intro: Microsoft
+- paper: [http://www.microsoft.com/en-us/research/wp-content/uploads/2016/08/Deep-Semantic-Preserving-and-Ranking-Based-Hashing-for-Image-Retrieval.pdf](http://www.microsoft.com/en-us/research/wp-content/uploads/2016/08/Deep-Semantic-Preserving-and-Ranking-Based-Hashing-for-Image-Retrieval.pdf)
 
 **PicHunt: Social Media Image Retrieval for Improved Law Enforcement**
 
@@ -151,10 +165,6 @@ date: 2015-10-09
 **Deep Hashing: A Joint Approach for Image Signature Learning**
 
 - arxiv: [http://arxiv.org/abs/1608.03658](http://arxiv.org/abs/1608.03658)
-
-**DeepDiary: Automatic Caption Generation for Lifelogging Image Streams**
-
-- arxiv: [http://arxiv.org/abs/1608.03819](http://arxiv.org/abs/1608.03819)
 
 **Transitive Hashing Network for Heterogeneous Multimedia Retrieval**
 
@@ -199,6 +209,12 @@ date: 2015-10-09
 **ImageNet-YahooQA**
 
 # Blogs
+
+**Where can I buy a chair like that? – This app will tell you**
+
+![](http://www.news.cornell.edu/sites/chronicle.cornell/files/GrokStyleApp.png?itok=3jd_S2R7)
+
+- blog: [http://www.news.cornell.edu/stories/2016/08/where-can-i-buy-chair-app-will-tell-you](http://www.news.cornell.edu/stories/2016/08/where-can-i-buy-chair-app-will-tell-you)
 
 **Using Sketches to Search for Products Online**
 

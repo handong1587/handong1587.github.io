@@ -25,10 +25,6 @@ date: 2015-08-27
 
 - blog: [http://www.datasciencecentral.com/profiles/blogs/10-types-of-regressions-which-one-to-use](http://www.datasciencecentral.com/profiles/blogs/10-types-of-regressions-which-one-to-use)
 
-**Guide to an in-depth understanding of logistic regression**
-
-- blog: [http://www.dataschool.io/guide-to-logistic-regression/](http://www.dataschool.io/guide-to-logistic-regression/)
-
 **Linear Regression for Machine Learning**
 
 [http://machinelearningmastery.com/linear-regression-for-machine-learning/](http://machinelearningmastery.com/linear-regression-for-machine-learning/)
@@ -37,17 +33,9 @@ date: 2015-08-27
 
 [http://ataspinar.com/2016/03/28/regression-logistic-regression-and-maximum-entropy/](http://ataspinar.com/2016/03/28/regression-logistic-regression-and-maximum-entropy/)
 
-**Demystifying Logistic Regression**
-
-[http://tech.magnetic.com/2016/04/demystifying-logistic-regression.html](http://tech.magnetic.com/2016/04/demystifying-logistic-regression.html)
-
 **Principal Components Regression**
 
 - "Pt.1: The Standard Method": [http://www.win-vector.com/blog/2016/05/pcr_part1_xonly/](http://www.win-vector.com/blog/2016/05/pcr_part1_xonly/)
-
-**The Sigmoid Function in Logistic Regression**
-
-[http://karlrosaen.com/ml/notebooks/logistic-regression-why-sigmoid/](http://karlrosaen.com/ml/notebooks/logistic-regression-why-sigmoid/)
 
 **Sequence prediction using recurrent neural networks(LSTM) with TensorFlow: LSTM regression using TensorFlow**
 
@@ -64,12 +52,6 @@ date: 2015-08-27
 
 [http://efavdb.com/linear-regression/](http://efavdb.com/linear-regression/)
 
-**A Brief Primer on Linear Regression**
-
-- part I: [https://blog.clevertap.com/a-brief-primer-on-linear-regression-part-i/](https://blog.clevertap.com/a-brief-primer-on-linear-regression-part-i/)
-- part II: [https://blog.clevertap.com/a-brief-primer-on-linear-regression-part-ii/](https://blog.clevertap.com/a-brief-primer-on-linear-regression-part-ii/) 
-- part III: [https://blog.clevertap.com/a-brief-primer-on-linear-regression-part-iii/](https://blog.clevertap.com/a-brief-primer-on-linear-regression-part-iii/)
-
 **What is Softmax regression and how is it related to Logistic regression?**
 
 -github: [https://github.com/rasbt/python-machine-learning-book/blob/master/faq/softmax_regression.md](https://github.com/rasbt/python-machine-learning-book/blob/master/faq/softmax_regression.md)
@@ -78,24 +60,49 @@ date: 2015-08-27
 
 - blog: [https://blog.clevertap.com/a-neat-trick-to-increase-robustness-of-regression-models/](https://blog.clevertap.com/a-neat-trick-to-increase-robustness-of-regression-models/)
 
-**A Primer on Logistic Regression**
-
-- blog: [https://blog.clevertap.com/a-primer-on-logistic-regression-part-i/](https://blog.clevertap.com/a-primer-on-logistic-regression-part-i/)
-
 **Visualising Residuals**
 
 ![](https://svbtleusercontent.com/9jiwlvibugesq.png)
 
 - blog: [https://drsimonj.svbtle.com/visualising-residuals](https://drsimonj.svbtle.com/visualising-residuals)
 
-**Logistic Regression in Tensorflow with SMOTE**
-
-- blog: [http://aqibsaeed.github.io/2016-08-10-logistic-regression-tf/](http://aqibsaeed.github.io/2016-08-10-logistic-regression-tf/)
-
 **Applications Of Isotonic Regression**
 
 [http://jxieeducation.com/2016-09-18/Applications-of-Isotonic-Regression/](http://jxieeducation.com/2016-09-18/Applications-of-Isotonic-Regression/)
 
+## Logistic regression
+
+**Guide to an in-depth understanding of logistic regression**
+
+- blog: [http://www.dataschool.io/guide-to-logistic-regression/](http://www.dataschool.io/guide-to-logistic-regression/)
+
+**Demystifying Logistic Regression**
+
+[http://tech.magnetic.com/2016/04/demystifying-logistic-regression.html](http://tech.magnetic.com/2016/04/demystifying-logistic-regression.html)
+
+**The Sigmoid Function in Logistic Regression**
+
+[http://karlrosaen.com/ml/notebooks/logistic-regression-why-sigmoid/](http://karlrosaen.com/ml/notebooks/logistic-regression-why-sigmoid/)
+
+**A Brief Primer on Linear Regression**
+
+- part I: [https://blog.clevertap.com/a-brief-primer-on-linear-regression-part-i/](https://blog.clevertap.com/a-brief-primer-on-linear-regression-part-i/)
+- part II: [https://blog.clevertap.com/a-brief-primer-on-linear-regression-part-ii/](https://blog.clevertap.com/a-brief-primer-on-linear-regression-part-ii/) 
+- part III: [https://blog.clevertap.com/a-brief-primer-on-linear-regression-part-iii/](https://blog.clevertap.com/a-brief-primer-on-linear-regression-part-iii/)
+
+**A Primer on Logistic Regression**
+
+- blog: [https://blog.clevertap.com/a-primer-on-logistic-regression-part-i/](https://blog.clevertap.com/a-primer-on-logistic-regression-part-i/)
+
+**Logistic Regression in Tensorflow with SMOTE**
+
+- blog: [http://aqibsaeed.github.io/2016-08-10-logistic-regression-tf/](http://aqibsaeed.github.io/2016-08-10-logistic-regression-tf/)
+
 **Introduction to Logistic Regression**
 
 [https://blog.bigml.com/2016/09/22/introduction-to-logistic-regression/](https://blog.bigml.com/2016/09/22/introduction-to-logistic-regression/)
+
+**Logistic regression**
+
+- blog: [http://eli.thegreenplace.net/2016/logistic-regression/](http://eli.thegreenplace.net/2016/logistic-regression/)
+- github: [https://github.com/eliben/deep-learning-samples/tree/master/logistic-regression](https://github.com/eliben/deep-learning-samples/tree/master/logistic-regression)

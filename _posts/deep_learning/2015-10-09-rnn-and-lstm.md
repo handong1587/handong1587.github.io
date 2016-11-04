@@ -362,6 +362,11 @@ date: 2015-10-09
 
 - arxiv: [http://arxiv.org/abs/1603.00954](http://arxiv.org/abs/1603.00954)
 
+**Sequential Neural Models with Stochastic Layers**
+
+- arxiv: [https://arxiv.org/abs/1605.07571](https://arxiv.org/abs/1605.07571)
+- github: [https://github.com/marcofraccaro/srnn](https://github.com/marcofraccaro/srnn)
+
 **Neural networks with differentiable structure**
 
 - arxiv: [http://arxiv.org/abs/1606.06216](http://arxiv.org/abs/1606.06216)
@@ -412,6 +417,19 @@ date: 2015-10-09
 - arxiv: [http://arxiv.org/abs/1609.01704](http://arxiv.org/abs/1609.01704)
 - notes: [https://github.com/dennybritz/deeplearning-papernotes/blob/master/notes/hm-rnn.md](https://github.com/dennybritz/deeplearning-papernotes/blob/master/notes/hm-rnn.md)
 - notes: [https://medium.com/@jimfleming/notes-on-hierarchical-multiscale-recurrent-neural-networks-7362532f3b64#.pag4kund0](https://medium.com/@jimfleming/notes-on-hierarchical-multiscale-recurrent-neural-networks-7362532f3b64#.pag4kund0)
+
+## LightRNN
+
+**LightRNN: Memory and Computation-Efficient Recurrent Neural Networks**
+
+- intro: NIPS 2016
+- arxiv: [https://arxiv.org/abs/1610.09893](https://arxiv.org/abs/1610.09893)
+
+**Full-Capacity Unitary Recurrent Neural Networks**
+
+- intro: NIPS 2016
+- arxiv: [https://arxiv.org/abs/1611.00035](https://arxiv.org/abs/1611.00035)
+- github: [https://github.com/stwisdom/urnn](https://github.com/stwisdom/urnn)
 
 # Projects
 
@@ -502,6 +520,10 @@ date: 2015-10-09
 **tf_lstm.py: Simple implementation of LSTM in Tensorflow in 50 lines (+ 130 lines of data generation and comments)**
 
 - gist: [https://gist.github.com/nivwusquorum/b18ce332bde37e156034e5d3f60f8a23](https://gist.github.com/nivwusquorum/b18ce332bde37e156034e5d3f60f8a23)
+
+**Handwriting generating with RNN**
+
+- github: [https://github.com/Arn-O/kadenze-deep-creative-apps/blob/master/final-project/glyphs-rnn.ipynb](https://github.com/Arn-O/kadenze-deep-creative-apps/blob/master/final-project/glyphs-rnn.ipynb)
 
 # Blogs
 
