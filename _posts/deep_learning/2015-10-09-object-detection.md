@@ -688,8 +688,9 @@ This task involves predicting the salient regions of an image given by human eye
 
 **Pedestrian Detection aided by Deep Learning Semantic Tasks**
 
+- intro: CVPR 2015
+- project page: [http://mmlab.ie.cuhk.edu.hk/projects/TA-CNN/](http://mmlab.ie.cuhk.edu.hk/projects/TA-CNN/)
 - paper: [http://arxiv.org/abs/1412.0069](http://arxiv.org/abs/1412.0069)
-- project: [http://mmlab.ie.cuhk.edu.hk/projects/TA-CNN/](http://mmlab.ie.cuhk.edu.hk/projects/TA-CNN/)
 
 **Deep Learning Strong Parts for Pedestrian Detection**
 

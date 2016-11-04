@@ -172,14 +172,19 @@ after the embedding and recurrent layers of the RNN."
 - arxiv: [https://arxiv.org/abs/1606.04621](https://arxiv.org/abs/1606.04621)
 - github: [https://github.com/LuoweiZhou/e2e-gLSTM-sc](https://github.com/LuoweiZhou/e2e-gLSTM-sc)
 
-**Captioning Images with Diverse Objects**
+**DeepDiary: Automatic Caption Generation for Lifelogging Image Streams**
 
-- arxiv: [http://arxiv.org/abs/1606.07770](http://arxiv.org/abs/1606.07770)
+- intro: ECCV International Workshop on Egocentric Perception, Interaction, and Computing
+- arxiv: [http://arxiv.org/abs/1608.03819](http://arxiv.org/abs/1608.03819)
 
 **phi-LSTM: A Phrase-based Hierarchical LSTM Model for Image Captioning**
 
 - intro: ACCV 2016
 - arxiv: [http://arxiv.org/abs/1608.05813](http://arxiv.org/abs/1608.05813)
+
+**Captioning Images with Diverse Objects**
+
+- arxiv: [http://arxiv.org/abs/1606.07770](http://arxiv.org/abs/1606.07770)
 
 **Learning to generalize to new compositions in image understanding**
 

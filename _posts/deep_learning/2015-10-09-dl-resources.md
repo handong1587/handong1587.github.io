@@ -1848,6 +1848,8 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 
 **Learning Fine-grained Image Similarity with Deep Ranking**
 
+- intro: CVPR 2014
+- intro: Triplet Sampling
 - arxiv: [http://arxiv.org/abs/1404.4661](http://arxiv.org/abs/1404.4661)
 
 **Learning to compare image patches via convolutional neural networks**

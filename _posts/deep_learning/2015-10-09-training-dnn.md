@@ -229,6 +229,11 @@ date: 2015-10-09
 
 # Pooling
 
+**Stochastic Pooling for Regularization of Deep Convolutional Neural Networks**
+
+- intro: ICLR 2013. Matthew D. Zeiler, Rob Fergus
+- paper: [http://www.matthewzeiler.com/pubs/iclr2013/iclr2013.pdf](http://www.matthewzeiler.com/pubs/iclr2013/iclr2013.pdf)
+
 **Fractional Max-Pooling**
 
 - arxiv: [https://arxiv.org/abs/1412.6071](https://arxiv.org/abs/1412.6071)
