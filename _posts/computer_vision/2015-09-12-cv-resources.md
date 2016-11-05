@@ -556,7 +556,7 @@ The size of their dataset is, however, limited by the availability of domain-spe
 - github: [https://github.com/louxi11/activity_recognition](https://github.com/louxi11/activity_recognition)
 - author page: [https://staff.fnwi.uva.nl/n.hu/](https://staff.fnwi.uva.nl/n.hu/)
 
-# VR
+# Virtual Reality (VR)
 
 **Surround360 System: Facebook's open source hardware and software for capturing stereoscopic 3D 360 video for VR**
 
@@ -565,6 +565,11 @@ The size of their dataset is, however, limited by the availability of domain-spe
 - homepage: [https://facebook360.fb.com/facebook-surround-360/](https://facebook360.fb.com/facebook-surround-360/)
 - code: [https://code.facebook.com/posts/265413023819735/surround-360-is-now-open-source/](https://code.facebook.com/posts/265413023819735/surround-360-is-now-open-source/)
 - github: [https://github.com/facebook/Surround360](https://github.com/facebook/Surround360)
+
+**Virtual Reality**
+
+- intro: Steven M. LaValle. Cambridge University Press 2016
+- book: [http://vr.cs.uiuc.edu/](http://vr.cs.uiuc.edu/)
 
 # SLAM
 

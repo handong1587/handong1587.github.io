@@ -81,6 +81,11 @@ date: 2015-10-09
 
 - arxiv: [https://arxiv.org/abs/1609.02116](https://arxiv.org/abs/1609.02116)
 
+**Collaborative Recurrent Autoencoder: Recommend while Learning to Fill in the Blanks**
+
+- intro: NIPS 2016
+- arxiv: [https://arxiv.org/abs/1611.00454](https://arxiv.org/abs/1611.00454)
+
 # Slides
 
 **Deep learning for music recommendation**

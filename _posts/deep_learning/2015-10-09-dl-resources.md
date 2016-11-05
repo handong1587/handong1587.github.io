@@ -1169,6 +1169,12 @@ with fast exact probabilistic inference over many layers."
 - mirror: [https://pan.baidu.com/s/1qYrPkPQ](https://pan.baidu.com/s/1qYrPkPQ)
 - github: [https://github.com/baidu-research/ba-dls-deepspeech](https://github.com/baidu-research/ba-dls-deepspeech)
 
+# Deep Learning on Games
+
+**TorchCraft: a Library for Machine Learning Research on Real-Time Strategy Games**
+
+- arxiv: [https://arxiv.org/abs/1611.00625](https://arxiv.org/abs/1611.00625)
+
 # Applications
 
 **Some like it hot - visual guidance for preference prediction**
@@ -2129,6 +2135,10 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 - arxiv: [http://arxiv.org/abs/1511.04048](http://arxiv.org/abs/1511.04048)
 - github: [https://github.com/roozbehm/newtonian](https://github.com/roozbehm/newtonian)
 
+**Matching Networks for One Shot Learning**
+
+- arxiv: [https://arxiv.org/abs/1606.04080](https://arxiv.org/abs/1606.04080)
+
 **Convolutional Neural Networks Analyzed via Convolutional Sparse Coding**
 
 - arxiv: [http://arxiv.org/abs/1607.08194](http://arxiv.org/abs/1607.08194)
@@ -2187,6 +2197,19 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 - intro: NIPS 2016
 - arxiv: [https://arxiv.org/abs/1611.00336](https://arxiv.org/abs/1611.00336)
 - code: [https://people.orie.cornell.edu/andrew/code/#SVDKL](https://people.orie.cornell.edu/andrew/code/#SVDKL)
+
+**Deep Convolutional Neural Network Design Patterns**
+
+- arxiv: [https://arxiv.org/abs/1611.00847](https://arxiv.org/abs/1611.00847)
+
+**LipNet: Sentence-level Lipreading**
+
+- paper: [http://openreview.net/pdf?id=BkjLkSqxg](http://openreview.net/pdf?id=BkjLkSqxg)
+
+**Extensions and Limitations of the Neural GPU**
+
+- arxiv: [https://arxiv.org/abs/1611.00736](https://arxiv.org/abs/1611.00736)
+- github: [https://github.com/openai/ecprice-neural-gpu](https://github.com/openai/ecprice-neural-gpu)
 
 ## STDP
 
@@ -2661,3 +2684,12 @@ Compatible with Theano and TensorFlow. Optimized for Twitter.
 **Design Patterns for Deep Learning Architectures**
 
 [http://www.deeplearningpatterns.com/doku.php](http://www.deeplearningpatterns.com/doku.php)
+
+**Building a Deep Learning Powered GIF Search Engine**
+
+- blog: [https://medium.com/@zan2434/building-a-deep-learning-powered-gif-search-engine-a3eb309d7525](https://medium.com/@zan2434/building-a-deep-learning-powered-gif-search-engine-a3eb309d7525)
+
+**Deep Learning in Aerial Systems Using Jetson**
+
+- blog: [https://devblogs.nvidia.com/parallelforall/deep-learning-in-aerial-systems-jetson/](https://devblogs.nvidia.com/parallelforall/deep-learning-in-aerial-systems-jetson/)
+- github: [https://github.com/amitibo/auvsi-targets](https://github.com/amitibo/auvsi-targets)

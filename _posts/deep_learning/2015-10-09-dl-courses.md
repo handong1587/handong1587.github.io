@@ -143,6 +143,7 @@ date: 2015-10-09
 
 - intro: MSc in Artificial Intelligence for the University of Amsterdam.
 - homepage: [http://uvadlc.github.io/](http://uvadlc.github.io/)
+- assignments: [https://github.com/uvadlc/uvadlc_practicals_2016](https://github.com/uvadlc/uvadlc_practicals_2016)
 
 # Computer Vision
 
