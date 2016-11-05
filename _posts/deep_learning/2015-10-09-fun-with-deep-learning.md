@@ -31,6 +31,7 @@ date: 2015-10-09
 - github: [https://github.com/fzliu/style-transfer](https://github.com/fzliu/style-transfer)
 - github: [https://github.com/titu1994/Neural-Style-Transfer](https://github.com/titu1994/Neural-Style-Transfer)
 - github: [https://github.com/saikatbsk/Vincent-AI-Artist](https://github.com/saikatbsk/Vincent-AI-Artist)
+- github: [https://github.com/zhaw/neural_style](https://github.com/zhaw/neural_style)
 
 **Image Style Transfer Using Convolutional Neural Networks**
 
@@ -154,6 +155,10 @@ Compressed model is less than 500KB
 - github: [https://github.com/DmitryUlyanov/texture_nets](https://github.com/DmitryUlyanov/texture_nets)
 - notes: [https://blog.acolyer.org/2016/09/23/texture-networks-feed-forward-synthesis-of-textures-and-stylized-images/](https://blog.acolyer.org/2016/09/23/texture-networks-feed-forward-synthesis-of-textures-and-stylized-images/)
 
+**Learning Typographic Style**
+
+- arxiv: [https://arxiv.org/abs/1603.04000](https://arxiv.org/abs/1603.04000)
+
 **Instance Normalization: The Missing Ingredient for Fast Stylization**
 
 - arxiv: [http://arxiv.org/abs/1607.08022](http://arxiv.org/abs/1607.08022)
@@ -195,6 +200,12 @@ Compressed model is less than 500KB
 
 - intro: Video Stylization, Image Stylization
 - github: [https://github.com/lengstrom/fast-style-transfer](https://github.com/lengstrom/fast-style-transfer)
+
+**Neural Style Transfer For Chinese Fonts**
+
+![](https://raw.githubusercontent.com/kaonashi-tyc/Rewrite/master/images/mixed_font.gif)
+
+- github: [https://github.com/kaonashi-tyc/Rewrite](https://github.com/kaonashi-tyc/Rewrite)
 
 ## Neural Art On Audio
 

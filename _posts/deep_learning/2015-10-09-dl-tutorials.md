@@ -414,6 +414,10 @@ Machine learning workflow, Extracting feaures from images (colours, edges, corne
 - intro: Here is a summary of new deep learning libraries, tools, and updates to existing frameworks.
 - blog: [https://dzone.com/articles/deep-learning-resources](https://dzone.com/articles/deep-learning-resources)
 
+**TensorFlow workshop materials**
+
+- github: [https://github.com/amygdala/tensorflow-workshop](https://github.com/amygdala/tensorflow-workshop)
+
 # Convolution
 
 ![](/assets/cnn-materials/conv.jpg)

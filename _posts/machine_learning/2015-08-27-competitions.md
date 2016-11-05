@@ -119,3 +119,9 @@ date: 2015-08-27
 **Code for Kaggle Competitions**
 
 - github: [https://github.com/tdeboissiere/Kaggle](https://github.com/tdeboissiere/Kaggle)
+
+**Kaggle competition Painter by Numbers: Winning solution for the Kaggle competition Painter by Numbers**
+
+![](https://raw.githubusercontent.com/inejc/painters/master/misc/front.jpg)
+
+- github: [https://github.com/inejc/painters](https://github.com/inejc/painters)

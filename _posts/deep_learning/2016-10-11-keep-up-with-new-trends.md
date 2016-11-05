@@ -5,6 +5,12 @@ title: Keep Up With New Trends
 date: 2016-10-11
 ---
 
+# Heuritech Deep Learning Meetup
+
+**Heuritech Deep Learning Meetup #7: more than 100 attendees for convolutionnal neural networks**
+
+- blog: [https://blog.heuritech.com/2016/11/03/heuritech-deep-learning-meetup-7-more-than-100-attendees-for-convolutionnal-neural-networks/](https://blog.heuritech.com/2016/11/03/heuritech-deep-learning-meetup-7-more-than-100-attendees-for-convolutionnal-neural-networks/)
+
 # ECCV 2016
 
 **ECCV Brings Together the Brightest Minds in Computer Vision**

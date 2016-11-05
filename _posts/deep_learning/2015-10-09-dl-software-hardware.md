@@ -53,6 +53,10 @@ Contains all the popular DL frameworks (TensorFlow, Theano, Torch, Caffe, etc.)
 
 [https://blogs.technet.microsoft.com/machinelearning/2016/09/15/building-deep-neural-networks-in-the-cloud-with-azure-gpu-vms-mxnet-and-microsoft-r-server/](https://blogs.technet.microsoft.com/machinelearning/2016/09/15/building-deep-neural-networks-in-the-cloud-with-azure-gpu-vms-mxnet-and-microsoft-r-server/)
 
+**Microsoft open sources its next-gen cloud hardware design**
+
+- blog: [https://techcrunch.com/2016/10/31/microsoft-open-sources-its-next-gen-cloud-hardware-design/](https://techcrunch.com/2016/10/31/microsoft-open-sources-its-next-gen-cloud-hardware-design/)
+
 ## Amazon EC2
 
 **Deep Learning AMI on AWS Marketplace**

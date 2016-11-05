@@ -54,3 +54,8 @@ date: 2015-08-27
 **merlin: An extensible C++ library for probabilistic inference in graphical models**
 
 - github：[https://github.com/radum2275/merlin](https://github.com/radum2275/merlin)
+
+**pgmpy: Python Library for Probabilistic Graphical Models**
+
+- homepage: [http://pgmpy.org/](http://pgmpy.org/)
+- github: [https://github.com/pgmpy/pgmpy](https://github.com/pgmpy/pgmpy)
