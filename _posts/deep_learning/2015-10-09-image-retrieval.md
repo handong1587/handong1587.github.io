@@ -62,10 +62,14 @@ date: 2015-10-09
 
 **Cross-domain Image Retrieval with a Dual Attribute-aware Ranking Network**
 
+- intro: ICCV 2015
+- intro: DARN, cross-entropy loss, triplet loss
 - arxiv: [http://arxiv.org/abs/1505.07922](http://arxiv.org/abs/1505.07922)
 
 **Aggregating Deep Convolutional Features for Image Retrieval**
 
+- intro: ICCV 2015
+- intro: Sum pooing
 - arxiv: [http://arxiv.org/abs/1510.07493](http://arxiv.org/abs/1510.07493)
 
 **Feature Learning based Deep Supervised Hashing with Pairwise Labels**
@@ -86,6 +90,7 @@ date: 2015-10-09
 
 ![](http://www.tamaraberg.com/street2shop/header.jpg)
 
+- intro: ICCV 2015
 - hmepage: [http://www.tamaraberg.com/street2shop/](http://www.tamaraberg.com/street2shop/)
 - paper: [http://www.tamaraberg.com/papers/street2shop.pdf](http://www.tamaraberg.com/papers/street2shop.pdf)
 - paper: [http://www.cv-foundation.org/openaccess/content_iccv_2015/html/Kiapour_Where_to_Buy_ICCV_2015_paper.html](http://www.cv-foundation.org/openaccess/content_iccv_2015/html/Kiapour_Where_to_Buy_ICCV_2015_paper.html)
@@ -118,6 +123,11 @@ date: 2015-10-09
 - arxiv: [http://arxiv.org/abs/1604.08893](http://arxiv.org/abs/1604.08893)
 - github: [https://github.com/imatge-upc/retrieval-2016-deepvision](https://github.com/imatge-upc/retrieval-2016-deepvision)
 
+**Where to Focus: Query Adaptive Matching for Instance Retrieval Using Convolutional Feature Maps**
+
+- intro: query adaptive matching (QAM), Feature Map Pooling, Overlapped Spatial Pyramid Pooling (OSPP)
+- arxiv: [https://arxiv.org/abs/1606.06811](https://arxiv.org/abs/1606.06811)
+
 **Adversarial Training For Sketch Retrieval**
 
 - arxiv: [http://arxiv.org/abs/1607.02748](http://arxiv.org/abs/1607.02748)
@@ -134,6 +144,20 @@ date: 2015-10-09
 
 - intro: CVPR 2016
 - paper: [http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Zhuang_Fast_Training_of_CVPR_2016_paper.pdf](http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Zhuang_Fast_Training_of_CVPR_2016_paper.pdf)
+
+**Deep Relative Distance Learning: Tell the Difference Between Similar Vehicles**
+
+- intro: CVPR 2016
+- intro: vehicle re-identification, vehicle retrieval. coupled clusters loss
+- paper: [http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Liu_Deep_Relative_Distance_CVPR_2016_paper.pdf](http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Liu_Deep_Relative_Distance_CVPR_2016_paper.pdf)
+
+**DeepFashion: Powering Robust Clothes Recognition and Retrieval with Rich Annotations**
+
+![](http://personal.ie.cuhk.edu.hk/~lz013/projects/deepfashion/intro.png)
+
+- intro: CVPR 2016. FashionNet
+- project page: [http://personal.ie.cuhk.edu.hk/~lz013/projects/DeepFashion.html](http://personal.ie.cuhk.edu.hk/~lz013/projects/DeepFashion.html)
+- paper: [http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Liu_DeepFashion_Powering_Robust_CVPR_2016_paper.pdf](http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Liu_DeepFashion_Powering_Robust_CVPR_2016_paper.pdf)
 
 **CNN Image Retrieval Learns from BoW: Unsupervised Fine-Tuning with Hard Examples**
 

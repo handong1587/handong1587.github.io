@@ -1482,8 +1482,10 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 
 ![](http://www.di.ens.fr/willow/research/netvlad/images/teaser.png)
 
-- arxiv: [http://arxiv.org/abs/1511.07247](http://arxiv.org/abs/1511.07247)
+- intro: CVPR 2016
+- intro: Google Street View Time Machine, soft-assignment, Weakly supervised triplet ranking loss
 - homepage: [http://www.di.ens.fr/willow/research/netvlad/](http://www.di.ens.fr/willow/research/netvlad/)
+- arxiv: [http://arxiv.org/abs/1511.07247](http://arxiv.org/abs/1511.07247)
 
 **PlaNet - Photo Geolocation with Convolutional Neural Networks**
 

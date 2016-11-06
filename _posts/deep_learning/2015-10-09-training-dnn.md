@@ -234,6 +234,13 @@ date: 2015-10-09
 - intro: ICLR 2013. Matthew D. Zeiler, Rob Fergus
 - paper: [http://www.matthewzeiler.com/pubs/iclr2013/iclr2013.pdf](http://www.matthewzeiler.com/pubs/iclr2013/iclr2013.pdf)
 
+**Multi-scale Orderless Pooling of Deep Convolutional Activation Features**
+
+- intro: ECCV 2014
+- intro: MOP-CNN, orderless VLAD pooling, image classification / instance-level retrieval
+- arxiv: [https://arxiv.org/abs/1403.1840](https://arxiv.org/abs/1403.1840)
+- paper: [http://web.engr.illinois.edu/~slazebni/publications/yunchao_eccv14_mopcnn.pdf](http://web.engr.illinois.edu/~slazebni/publications/yunchao_eccv14_mopcnn.pdf)
+
 **Fractional Max-Pooling**
 
 - arxiv: [https://arxiv.org/abs/1412.6071](https://arxiv.org/abs/1412.6071)
