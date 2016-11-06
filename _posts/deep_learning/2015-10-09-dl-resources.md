@@ -1096,6 +1096,10 @@ with fast exact probabilistic inference over many layers."
 
 - arxiv: [https://arxiv.org/abs/1611.00201](https://arxiv.org/abs/1611.00201)
 
+**A Differentiable Physics Engine for Deep Learning in Robotics**
+
+- paper: [http://openreview.net/pdf?id=SyEiHNKxx](http://openreview.net/pdf?id=SyEiHNKxx)
+
 # Deep Learning on Mobile Devices
 
 **Convolutional neural networks on the iPhone with VGGNet**
@@ -1540,6 +1544,13 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 - intro: ACM Multimedia (MM) 2016
 - arxiv: [http://arxiv.org/abs/1608.06197](http://arxiv.org/abs/1608.06197)
 
+## Activity Recognition
+
+**Implementing a CNN for Human Activity Recognition in Tensorflow**
+
+- blog: [http://aqibsaeed.github.io/2016-11-04-human-activity-recognition-cnn/](http://aqibsaeed.github.io/2016-11-04-human-activity-recognition-cnn/)
+- github: [https://github.com/aqibsaeed/Human-Activity-Recognition-using-CNN](https://github.com/aqibsaeed/Human-Activity-Recognition-using-CNN)
+
 ## Music / Sound Classification
 
 **Explaining Deep Convolutional Neural Networks on Music Classification**
@@ -1787,6 +1798,10 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 **Image Compression with Neural Networks**
 
 - blog: [https://research.googleblog.com/2016/09/image-compression-with-neural-networks.html](https://research.googleblog.com/2016/09/image-compression-with-neural-networks.html)
+
+**Lossy Image Compression With Compressive Autoencoders**
+
+- paper: [http://openreview.net/pdf?id=rJiNwv9gg](http://openreview.net/pdf?id=rJiNwv9gg)
 
 ## Abnormality / Anomaly Detection
 
@@ -2432,6 +2447,11 @@ Compatible with Theano and TensorFlow. Optimized for Twitter.
 **Head Pose and Gaze Direction Estimation Using Convolutional Neural Networks**
 
 - github: [https://github.com/mpatacchiola/deepgaze](https://github.com/mpatacchiola/deepgaze)
+
+**Intel(R) Math Kernel Library for Deep Neural Networks (Intel(R) MKL-DNN)**
+
+- homepage: [https://01.org/mkl-dnn](https://01.org/mkl-dnn)
+- github: [https://github.com/01org/mkl-dnn](https://github.com/01org/mkl-dnn)
 
 # Readings and Questions
 

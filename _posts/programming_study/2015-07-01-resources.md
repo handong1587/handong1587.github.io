@@ -254,6 +254,12 @@ You must move pacman (the green cursor) to highlight each word on the gameboard 
 
 - github: [https://github.com/amix/vimrc](https://github.com/amix/vimrc)
 
+# Tmux
+
+**A Tmux crash course: tips and tweaks.**
+
+- blog: [http://tangosource.com/blog/a-tmux-crash-course-tips-and-tweaks/](http://tangosource.com/blog/a-tmux-crash-course-tips-and-tweaks/)
+
 # Coding
 
 **Top 10 coding challenges Websites**

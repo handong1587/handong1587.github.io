@@ -548,6 +548,13 @@ The project is dedicated to hero in life great Jesse Livermore.
 - intro: for the use and development of single or multi-agent planning and learning algorithms and domains to accompany them
 - homepage: [http://burlap.cs.brown.edu/](http://burlap.cs.brown.edu/)
 
+**AgentNet: Deep Reinforcement Learning library for humans**
+
+![](https://camo.githubusercontent.com/5593b2c8184c4bc08372f919063e826d9bcc2c67/687474703a2f2f7333332e706f7374696d672e6f72672f79747836336b7763762f7768617469735f6167656e746e65745f706e672e706e67)
+
+- intro: A lightweight library to build and train deep reinforcement learning and custom recurrent networks using Theano+Lasagne 
+- github: [https://github.com/yandexdataschool/AgentNet](https://github.com/yandexdataschool/AgentNet)
+
 # Blogs
 
 **A Short Introduction To Some Reinforcement Learning Algorithms**

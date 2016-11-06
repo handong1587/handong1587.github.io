@@ -106,6 +106,7 @@ date: 2015-10-09
 - intro: Google DeepMind. PixelCNN 2.0
 - arxiv: [http://arxiv.org/abs/1606.05328](http://arxiv.org/abs/1606.05328)
 - github(Theano): [https://github.com/kundan2510/pixelCNN](https://github.com/kundan2510/pixelCNN)
+- gtihub(Torch): [https://github.com/dritchie/pixelCNN](https://github.com/dritchie/pixelCNN)
 
 **Inverting face embeddings with convolutional neural networks**
 
