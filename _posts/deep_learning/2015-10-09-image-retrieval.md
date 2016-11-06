@@ -106,14 +106,19 @@ date: 2015-10-09
 - intro: ECCV 2016
 - project page: [http://www.xrce.xerox.com/Research-Development/Computer-Vision/Learning-Visual-Representations/Deep-Image-Retrieval](http://www.xrce.xerox.com/Research-Development/Computer-Vision/Learning-Visual-Representations/Deep-Image-Retrieval)
 - arxiv: [https://arxiv.org/abs/1604.01325](https://arxiv.org/abs/1604.01325)
+- slides: [http://www.slideshare.net/xavigiro/deep-image-retrieval-learning-global-representations-for-image-search](http://www.slideshare.net/xavigiro/deep-image-retrieval-learning-global-representations-for-image-search)
 
 **Bags of Local Convolutional Features for Scalable Instance Search**
 
-- intro: ICMR 2016
+- intro: ICMR 2016. Best Poster Award at ICMR 2016.
+- project page: [https://imatge-upc.github.io/retrieval-2016-icmr/](https://imatge-upc.github.io/retrieval-2016-icmr/)
 - arxiv: [https://arxiv.org/abs/1604.04653](https://arxiv.org/abs/1604.04653)
+- github: [https://github.com/imatge-upc/retrieval-2016-icmr](https://github.com/imatge-upc/retrieval-2016-icmr)
+- slides: [http://www.slideshare.net/xavigiro/convolutional-features-for-instance-search](http://www.slideshare.net/xavigiro/convolutional-features-for-instance-search)
 
 **Faster R-CNN Features for Instance Search**
 
+- intro: DeepVision Workshop in CVPR 2016
 - homepage: [http://imatge-upc.github.io/retrieval-2016-deepvision/](http://imatge-upc.github.io/retrieval-2016-deepvision/)
 - arxiv: [http://arxiv.org/abs/1604.08893](http://arxiv.org/abs/1604.08893)
 - github: [https://github.com/imatge-upc/retrieval-2016-deepvision](https://github.com/imatge-upc/retrieval-2016-deepvision)
