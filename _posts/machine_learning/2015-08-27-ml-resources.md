@@ -592,12 +592,30 @@ Classic strategies:
 - arxiv: [http://arxiv.org/abs/1606.04080](http://arxiv.org/abs/1606.04080)
 - github: [https://github.com/zergylord/oneshot](https://github.com/zergylord/oneshot)
 
-# Quantitative Trading
+# Finance and Trading
+
+**Efficient Portfolio optimisation by Hybridised Machine Learning**
+
+- intro: Thesis 2014
+- mirror: [http://pan.baidu.com/s/1eQvSyZ4](http://pan.baidu.com/s/1eQvSyZ4)
+
+**Feature Selection for Portfolio Optimization**
+
+- paper: [https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2548800](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2548800)
+
+**The Efficient Frontier: Markowitz portfolio optimization in Python**
+
+- blog: [https://blog.quantopian.com/markowitz-portfolio-optimization-2/](https://blog.quantopian.com/markowitz-portfolio-optimization-2/)
 
 **Self-Study Plan for Becoming a Quantitative Trader**
 
 - part 1: [https://www.quantstart.com/articles/Self-Study-Plan-for-Becoming-a-Quantitative-Trader-Part-I](https://www.quantstart.com/articles/Self-Study-Plan-for-Becoming-a-Quantitative-Trader-Part-I)
 - part 2: [https://www.quantstart.com/articles/Self-Study-Plan-for-Becoming-a-Quantitative-Trader-Part-II](https://www.quantstart.com/articles/Self-Study-Plan-for-Becoming-a-Quantitative-Trader-Part-II)
+
+**Pyfolio -- a new Python library for performance and risk analysis**
+
+- blog: [https://blog.quantopian.com/pyfolio/](https://blog.quantopian.com/pyfolio/)
+- github: [https://github.com/quantopian/pyfolio](https://github.com/quantopian/pyfolio)
 
 # Papers
 
