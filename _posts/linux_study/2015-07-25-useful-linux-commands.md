@@ -548,3 +548,9 @@ shuf file.list > file_shuffled.list
 ```
 cat file1 file2 file3 .... >> merged_file
 ```
+
+**Show all hidden characters**:
+
+```
+cat -A filename
+```
