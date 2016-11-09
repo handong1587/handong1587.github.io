@@ -167,6 +167,11 @@ date: 2015-10-09
 
 - arxiv: [http://arxiv.org/abs/1602.05931](http://arxiv.org/abs/1602.05931)
 
+**Categorical Reparameterization with Gumbel-Softmax**
+
+- intro: Google Brain & University of Cambridge & Stanford University
+- arxiv: [https://arxiv.org/abs/1611.01144](https://arxiv.org/abs/1611.01144)
+
 ## Batch Normalization
 
 **Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift**
