@@ -83,6 +83,10 @@ date: 2015-08-27
 
 [http://juliacomputing.com/blog/2016/09/28/knn-char-recognition.html](http://juliacomputing.com/blog/2016/09/28/knn-char-recognition.html)
 
+**A Quick Introduction to Neural Networks**
+
+[http://www.kdnuggets.com/2016/11/quick-introduction-neural-networks.html](http://www.kdnuggets.com/2016/11/quick-introduction-neural-networks.html)
+
 ## Backpropagation
 
 **A Step by Step Backpropagation Example**
@@ -176,6 +180,10 @@ date: 2015-08-27
 **Neural networks module for Redis**
 
 - github: [https://github.com/antirez/neural-redis](https://github.com/antirez/neural-redis)
+
+**Introduction of neural-redis**
+
+- part 1: [https://medium.com/the-quarter-espresso/introduction-of-neural-redis-part-1-fa13c1faeef1#.v4sqluonf](https://medium.com/the-quarter-espresso/introduction-of-neural-redis-part-1-fa13c1faeef1#.v4sqluonf)
 
 **Neural Nets in native Haskell**
 

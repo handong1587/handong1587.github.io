@@ -149,6 +149,18 @@ date: 2015-10-09
 
 - blog: [http://smerity.com/articles/2016/orthogonal_init.html](http://smerity.com/articles/2016/orthogonal_init.html)
 
+**Phased LSTM: Accelerating Recurrent Network Training for Long or Event-based Sequences**
+
+- intro: Selected for an oral presentation at NIPS, 2016
+- arxiv: [https://arxiv.org/abs/1610.09513](https://arxiv.org/abs/1610.09513)
+- reddit: [https://www.reddit.com/r/MachineLearning/comments/5bmfw5/r_phased_lstm_accelerating_recurrent_network/](https://www.reddit.com/r/MachineLearning/comments/5bmfw5/r_phased_lstm_accelerating_recurrent_network/)
+
+**Tuning Recurrent Neural Networks with Reinforcement Learning (RL Tuner)**
+
+- paper: [http://openreview.net/pdf?id=BJ8fyHceg](http://openreview.net/pdf?id=BJ8fyHceg)
+- blog: [https://magenta.tensorflow.org/2016/11/09/tuning-recurrent-networks-with-reinforcement-learning/](https://magenta.tensorflow.org/2016/11/09/tuning-recurrent-networks-with-reinforcement-learning/)
+- github: [https://github.com/tensorflow/magenta/tree/master/magenta/models/rl_tuner](https://github.com/tensorflow/magenta/tree/master/magenta/models/rl_tuner)
+
 # Learn To Execute Programs
 
 **Learning to Execute**
@@ -430,6 +442,10 @@ date: 2015-10-09
 - intro: NIPS 2016
 - arxiv: [https://arxiv.org/abs/1611.00035](https://arxiv.org/abs/1611.00035)
 - github: [https://github.com/stwisdom/urnn](https://github.com/stwisdom/urnn)
+
+**DeepCoder: Learning to Write Programs**
+
+- arxiv: [https://arxiv.org/abs/1611.01989](https://arxiv.org/abs/1611.01989)
 
 # Projects
 

@@ -711,6 +711,7 @@ and together they truly represent a state-of-the-art of current reinforcement le
 
 - book: [https://webdocs.cs.ualberta.ca/~sutton/book/bookdraft2016sep.pdf](https://webdocs.cs.ualberta.ca/~sutton/book/bookdraft2016sep.pdf)
 - mirror: [https://pan.baidu.com/s/1slrMYkP](https://pan.baidu.com/s/1slrMYkP)
+- github: [https://github.com/ShangtongZhang/reinforcement-learning-an-introduction](https://github.com/ShangtongZhang/reinforcement-learning-an-introduction)
 
 **The Self Learning Quant**
 

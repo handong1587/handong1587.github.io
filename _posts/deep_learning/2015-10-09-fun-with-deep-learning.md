@@ -449,6 +449,14 @@ Compressed model is less than 500KB
 
 - github: [https://github.com/YerevaNN/neural-colorizer](https://github.com/YerevaNN/neural-colorizer)
 
+**Image-Color: A deep learning approach to colorizing images**
+
+- github: [https://github.com/cameronfabbri/Colorful-Image-Colorization](https://github.com/cameronfabbri/Colorful-Image-Colorization)
+
+**Creating an artificial artist: Color your photos using Neural Networks**
+
+- blog: [https://www.analyticsvidhya.com/blog/2016/11/creating-an-artificial-artist-color-your-photos-using-neural-networks/](https://www.analyticsvidhya.com/blog/2016/11/creating-an-artificial-artist-color-your-photos-using-neural-networks/)
+
 ## Photo Editing
 
 **Neural Photo Editing with Introspective Adversarial Networks**
@@ -565,6 +573,11 @@ Compressed model is less than 500KB
 
 - youtube: [https://www.youtube.com/watch?v=5K4hn6cBUPU](https://www.youtube.com/watch?v=5K4hn6cBUPU)
 
+**Song From PI: A Musically Plausible Network for Pop Music Generation**
+
+- paper: [http://openreview.net/pdf?id=ByBwSPcex](http://openreview.net/pdf?id=ByBwSPcex)
+- project page: [http://www.cs.toronto.edu/songfrompi/](http://www.cs.toronto.edu/songfrompi/)
+
 # Poetry
 
 **NeuralSnap: Generates poetry from images using convolutional and recurrent neural networks**
@@ -574,6 +587,11 @@ Compressed model is less than 500KB
 **Generating Chinese Classical Poems with RNN Encoder-Decoder**
 
 - arxiv: [http://arxiv.org/abs/1604.01537](http://arxiv.org/abs/1604.01537)
+
+**Chinese Poetry Generation with Planning based Neural Network**
+
+- intro: COLING 2016. University of Science and Technology of China & Baidu
+- arxiv: [https://arxiv.org/abs/1610.09889](https://arxiv.org/abs/1610.09889)
 
 # Weiqi (Go)
 

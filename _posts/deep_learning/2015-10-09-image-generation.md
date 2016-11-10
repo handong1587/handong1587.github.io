@@ -113,6 +113,15 @@ date: 2015-10-09
 - arxiv: [http://arxiv.org/abs/1606.04189](http://arxiv.org/abs/1606.04189)
 - github: [https://github.com/pavelgonchar/face-transfer-tensorflow](https://github.com/pavelgonchar/face-transfer-tensorflow)
 
+**Unsupervised Cross-Domain Image Generation**
+
+- arxiv: [https://arxiv.org/abs/1611.02200](https://arxiv.org/abs/1611.02200)
+
+**PixelCNN++: A PixelCNN Implementation with Discretized Logistic Mixture Likelihood and Other Modifications**
+
+- paper: [http://openreview.net/pdf?id=BJrFC6ceg](http://openreview.net/pdf?id=BJrFC6ceg)
+- github: [https://github.com/openai/pixel-cnn](https://github.com/openai/pixel-cnn)
+
 # Video Generation
 
 **Generating Videos with Scene Dynamics**
@@ -229,3 +238,12 @@ and DRAW: A Recurrent Neural Network For Image Generation).
 
 - blog: [https://erikbern.com/2016/01/21/analyzing-50k-fonts-using-deep-neural-networks/](https://erikbern.com/2016/01/21/analyzing-50k-fonts-using-deep-neural-networks/)
 - github: [https://github.com/erikbern/deep-fonts](https://github.com/erikbern/deep-fonts)
+
+**Generate cat images with neural networks**
+
+- intro: GAN, spatial transformers, weight initialization and LeakyReLUs.
+- github: [https://github.com/aleju/cat-generator](https://github.com/aleju/cat-generator)
+
+**Generate human faces with neural networks**
+
+- github: [https://github.com/aleju/face-generator](https://github.com/aleju/face-generator)

@@ -67,6 +67,10 @@ Contains all the popular DL frameworks (TensorFlow, Theano, Torch, Caffe, etc.)
 
 - github: [https://github.com/Miej/GoDeeper](https://github.com/Miej/GoDeeper)
 
+**A GPU enabled AMI for Deep Learning**
+
+- blog: [https://blog.empiricalci.com/a-gpu-enabled-ami-for-deep-learning-5aa3d694b630#.9339zxm4e](https://blog.empiricalci.com/a-gpu-enabled-ami-for-deep-learning-5aa3d694b630#.9339zxm4e)
+
 # Hardware System
 
 **I: Building a Deep Learning (Dream) Machine**
@@ -109,6 +113,10 @@ Contains all the popular DL frameworks (TensorFlow, Theano, Torch, Caffe, etc.)
 **Building a Workstation for Deep Learning**
 
 - slides: [http://www.slideshare.net/PetteriTeikariPhD/deep-learning-workstation](http://www.slideshare.net/PetteriTeikariPhD/deep-learning-workstation)
+
+**Deep Learning Machine: First build experience**
+
+- blog: [https://medium.com/@vivek.yadav/deep-learning-machine-first-build-experience-d04abf198831#.1d6q5mw9m](https://medium.com/@vivek.yadav/deep-learning-machine-first-build-experience-d04abf198831#.1d6q5mw9m)
 
 # GPU
 

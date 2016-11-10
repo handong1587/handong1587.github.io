@@ -51,6 +51,10 @@ date: 2015-08-27
 
 - arxiv: [https://arxiv.org/abs/1609.08677](https://arxiv.org/abs/1609.08677)
 
+**PCA Tutorial**
+
+- blog: [http://www.danvatterott.com/blog/2016/11/06/pca-tutorial/](http://www.danvatterott.com/blog/2016/11/06/pca-tutorial/)
+
 # SVD
 
 **Feature Reduction using SVD**

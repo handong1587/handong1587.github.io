@@ -148,6 +148,10 @@ without running into obstacles using a type of reinforcement learning called Q-L
 - intro: Caffe Model / Dataset / Tips and Tricks
 - homepage: [http://deepdrive.io/](http://deepdrive.io/)
 
+**DeepDrive setup: Run a self-driving car simulator from the comfort of your own PC**
+
+- github: [https://github.com/crizCraig/deepdrive](https://github.com/crizCraig/deepdrive)
+
 # Blogs
 
 **Self-driving cars: How far away are we REALLY from autonomous cars?(7 Aug 2015)**

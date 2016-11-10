@@ -96,6 +96,15 @@ date: 2015-10-09
 
 - arxiv: [https://arxiv.org/abs/1610.02920](https://arxiv.org/abs/1610.02920)
 
+**Unrolled Generative Adversarial Networks**
+
+- paper: [http://openreview.net/pdf?id=BydrOIcle](http://openreview.net/pdf?id=BydrOIcle)
+
+**Generative Adversarial Networks as Variational Training of Energy Based Models**
+
+- arxiv: [https://arxiv.org/abs/1611.01799](https://arxiv.org/abs/1611.01799)
+- github: [https://github.com/Shuangfei/vgan](https://github.com/Shuangfei/vgan)
+
 # Projects
 
 **Generative Adversarial Networks with Keras**

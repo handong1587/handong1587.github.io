@@ -321,6 +321,10 @@ based on decision tree algorithms, used for ranking, classification and many oth
 
 - blog: [http://www.offconvex.org/2016/10/13/gradient-descent-learns-dynamical-systems/](http://www.offconvex.org/2016/10/13/gradient-descent-learns-dynamical-systems/)
 
+**Why is gradient descent robust to non-linearly separable data?**
+
+- blog: [https://medium.com/@vivek.yadav/why-is-gradient-descent-robust-to-non-linearly-separable-data-a50c543e8f4a#.rhtf3xi79](https://medium.com/@vivek.yadav/why-is-gradient-descent-robust-to-non-linearly-separable-data-a50c543e8f4a#.rhtf3xi79)
+
 # Boosted Regression Trees
 
 **DART: Dropouts meet Multiple Additive Regression Trees**

@@ -618,6 +618,8 @@ This task involves predicting the salient regions of an image given by human eye
 - intro: ICPR 2016
 - arxiv: [http://arxiv.org/abs/1609.03536](http://arxiv.org/abs/1609.03536)
 
+### MTCNN
+
 **Joint Face Detection and Alignment using Multi-task Cascaded Convolutional Networks**
 
 **Joint Face Detection and Alignment using Multi-task Cascaded Convolutional Neural Networks**
@@ -626,8 +628,9 @@ This task involves predicting the salient regions of an image given by human eye
 
 - project page: [https://kpzhang93.github.io/MTCNN_face_detection_alignment/index.html](https://kpzhang93.github.io/MTCNN_face_detection_alignment/index.html)
 - arxiv: [https://arxiv.org/abs/1604.02878](https://arxiv.org/abs/1604.02878)
-- github(Matlab ): [https://github.com/kpzhang93/MTCNN_face_detection_alignment](https://github.com/kpzhang93/MTCNN_face_detection_alignment)
+- github(Matlab): [https://github.com/kpzhang93/MTCNN_face_detection_alignment](https://github.com/kpzhang93/MTCNN_face_detection_alignment)
 - github(MXNet): [https://github.com/pangyupo/mxnet_mtcnn_face_detection](https://github.com/pangyupo/mxnet_mtcnn_face_detection)
+- github: [https://github.com/DaFuCoding/MTCNN_Caffe](https://github.com/DaFuCoding/MTCNN_Caffe)
 
 ### Datasets / Benchmarks
 
@@ -943,3 +946,12 @@ We additionally provide an implementation of the [ReInspect](https://github.com/
 
 - blog: [https://blogs.technet.microsoft.com/machinelearning/2016/10/25/how-to-train-a-deep-learned-object-detection-model-in-cntk/](https://blogs.technet.microsoft.com/machinelearning/2016/10/25/how-to-train-a-deep-learned-object-detection-model-in-cntk/)
 - github: [https://github.com/Microsoft/CNTK/tree/master/Examples/Image/Detection/FastRCNN](https://github.com/Microsoft/CNTK/tree/master/Examples/Image/Detection/FastRCNN)
+
+**Object Detection in Satellite Imagery, a Low Overhead Approach**
+
+- part 1: [https://medium.com/the-downlinq/object-detection-in-satellite-imagery-a-low-overhead-approach-part-i-cbd96154a1b7#.2csh4iwx9](https://medium.com/the-downlinq/object-detection-in-satellite-imagery-a-low-overhead-approach-part-i-cbd96154a1b7#.2csh4iwx9)
+- part 2: [https://medium.com/the-downlinq/object-detection-in-satellite-imagery-a-low-overhead-approach-part-ii-893f40122f92#.f9b7dgf64](https://medium.com/the-downlinq/object-detection-in-satellite-imagery-a-low-overhead-approach-part-ii-893f40122f92#.f9b7dgf64)
+
+**ou Only Look Twice — Multi-Scale Object Detection in Satellite Imagery With Convolutional Neural Networks**
+
+- part 1: [https://medium.com/the-downlinq/you-only-look-twice-multi-scale-object-detection-in-satellite-imagery-with-convolutional-neural-38dad1cf7571#.fmmi2o3of](https://medium.com/the-downlinq/you-only-look-twice-multi-scale-object-detection-in-satellite-imagery-with-convolutional-neural-38dad1cf7571#.fmmi2o3of)

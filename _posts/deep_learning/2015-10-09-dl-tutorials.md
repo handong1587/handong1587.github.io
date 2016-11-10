@@ -418,6 +418,29 @@ Machine learning workflow, Extracting feaures from images (colours, edges, corne
 
 - github: [https://github.com/amygdala/tensorflow-workshop](https://github.com/amygdala/tensorflow-workshop)
 
+**Some theorems on deep learning**
+
+- intro: Tomaso Poggio [MIT]
+- youtube: [https://www.youtube.com/watch?v=YVjvRvvVn4w](https://www.youtube.com/watch?v=YVjvRvvVn4w)
+- mirror: [https://pan.baidu.com/s/1o8o7LjW](https://pan.baidu.com/s/1o8o7LjW)
+
+**Facial Recognition On A Jetson TX1 In Tensorflow**
+
+- blog: [http://www.mattkrzus.com/face.html](http://www.mattkrzus.com/face.html)
+
+**Pokemon, Colors, and Deep Learning**
+
+- blog: [https://juandes.com/pokemon-colors-and-deep-learning-95fb715be46](https://juandes.com/pokemon-colors-and-deep-learning-95fb715be46)
+- github: [https://github.com/juandes/PokemonTypesDeepLearning](https://github.com/juandes/PokemonTypesDeepLearning)
+
+**Why Deep Learning is Radically Different from Machine Learning**
+
+- blog: [https://medium.com/intuitionmachine/why-deep-learning-is-radically-different-from-machine-learning-945a4a65da4d#.yuqxqxpsz](https://medium.com/intuitionmachine/why-deep-learning-is-radically-different-from-machine-learning-945a4a65da4d#.yuqxqxpsz)
+
+**Deep Learning: The Unreasonable Effectiveness of Randomness**
+
+- blog: [https://medium.com/intuitionmachine/deep-learning-the-unreasonable-effectiveness-of-randomness-14d5aef13f87#.1n775yl4i](https://medium.com/intuitionmachine/deep-learning-the-unreasonable-effectiveness-of-randomness-14d5aef13f87#.1n775yl4i)
+
 # Convolution
 
 ![](/assets/cnn-materials/conv.jpg)
@@ -540,3 +563,9 @@ Machine learning workflow, Extracting feaures from images (colours, edges, corne
 **Deep learning tutorial on Caffe technology : basic commands, Python and C++ code**
 
 - blog: [http://christopher5106.github.io/deep/learning/2015/09/04/Deep-learning-tutorial-on-Caffe-Technology.html](http://christopher5106.github.io/deep/learning/2015/09/04/Deep-learning-tutorial-on-Caffe-Technology.html)
+
+# Theano
+
+**Theano Tutorial @ LTI, Carnegie Mellon University**
+
+- github: [https://github.com/k-kawakami/Theano_Tutorial/blob/master/Theano_Tutorial.ipynb](https://github.com/k-kawakami/Theano_Tutorial/blob/master/Theano_Tutorial.ipynb)
