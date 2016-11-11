@@ -734,6 +734,11 @@ This task involves predicting the salient regions of an image given by human eye
 
 - arxiv: [https://arxiv.org/abs/1610.03466](https://arxiv.org/abs/1610.03466)
 
+**Multispectral Deep Neural Networks for Pedestrian Detection**
+
+- intro: BMVC 2016 oral
+- arxiv: [https://arxiv.org/abs/1611.02644](https://arxiv.org/abs/1611.02644)
+
 ## Vehicle Detection
 
 **DAVE: A Unified Framework for Fast Vehicle Detection and Annotation**

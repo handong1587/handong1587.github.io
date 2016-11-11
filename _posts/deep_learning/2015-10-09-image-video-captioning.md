@@ -204,6 +204,10 @@ after the embedding and recurrent layers of the RNN."
 - paper: [http://www.panderson.me/images/SPICE.pdf](http://www.panderson.me/images/SPICE.pdf)
 - github: [https://github.com/peteanderson80/SPICE](https://github.com/peteanderson80/SPICE)
 
+**Boosting Image Captioning with Attributes**
+
+- arxiv: [https://arxiv.org/abs/1611.01646](https://arxiv.org/abs/1611.01646)
+
 # Object Descriptions
 
 **Generation and Comprehension of Unambiguous Object Descriptions**

@@ -227,6 +227,10 @@ date: 2015-10-09
 
 - homepage: [https://www.microsoft.com/en-us/research/project/msr-image-recognition-challenge-irc/](https://www.microsoft.com/en-us/research/project/msr-image-recognition-challenge-irc/)
 
+**UMDFaces: An Annotated Face Dataset for Training Deep Networks**
+
+- arxiv: [https://arxiv.org/abs/1611.01484](https://arxiv.org/abs/1611.01484)
+
 #### Projects
 
 **clmtrackr: Javascript library for precise tracking of facial features via Constrained Local Models**

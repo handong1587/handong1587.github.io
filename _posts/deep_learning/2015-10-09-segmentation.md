@@ -298,6 +298,10 @@ fine-tune the trained network with more challenging examples later
 - intro: Hikvision Research Institute
 - arxiv: [https://arxiv.org/abs/1610.05854](https://arxiv.org/abs/1610.05854)
 
+**High-Resolution Semantic Labeling with Convolutional Neural Networks**
+
+- arxiv: [https://arxiv.org/abs/1611.01962](https://arxiv.org/abs/1611.01962)
+
 # Instance Segmentation
 
 **Simultaneous Detection and Segmentation**

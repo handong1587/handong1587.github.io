@@ -227,6 +227,10 @@ date: 2015-10-09
 
 - blog: [https://casmls.github.io/general/2016/10/27/NonconvexLosses.html](https://casmls.github.io/general/2016/10/27/NonconvexLosses.html)
 
+**Learning Deep Embeddings with Histogram Loss**
+
+- arxiv: [https://arxiv.org/abs/1611.00822](https://arxiv.org/abs/1611.00822)
+
 # Pooling
 
 **Stochastic Pooling for Regularization of Deep Convolutional Neural Networks**

@@ -252,6 +252,15 @@ extract saptio-temporal features to represent the video using the CNNs."
 
 - arxiv: [https://arxiv.org/abs/1610.03898](https://arxiv.org/abs/1610.03898)
 
+**Spatiotemporal Residual Networks for Video Action Recognition**
+
+- intro: NIPS 2016
+- arxiv: [https://arxiv.org/abs/1611.02155](https://arxiv.org/abs/1611.02155)
+
+**Action Recognition Based on Joint Trajectory Maps Using Convolutional Neural Networks**
+
+- arxiv: [https://arxiv.org/abs/1611.02447](https://arxiv.org/abs/1611.02447)
+
 ### Projects
 
 **A Torch Library for Action Recognition and Detection Using CNNs and LSTMs**

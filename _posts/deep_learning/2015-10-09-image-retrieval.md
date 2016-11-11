@@ -212,6 +212,10 @@ date: 2015-10-09
 - project page: [http://www.xrce.xerox.com/Research-Development/Computer-Vision/Learning-Visual-Representations/Deep-Image-Retrieval](http://www.xrce.xerox.com/Research-Development/Computer-Vision/Learning-Visual-Representations/Deep-Image-Retrieval)
 - arxiv: [https://arxiv.org/abs/1610.07940](https://arxiv.org/abs/1610.07940)
 
+**What Is the Best Practice for CNNs Applied to Visual Instance Retrieval?**
+
+- arxiv: [https://arxiv.org/abs/1611.01640](https://arxiv.org/abs/1611.01640)
+
 # Video Indexing / Retrieval
 
 **Face Video Retrieval via Deep Learning of Binary Hash Representations**

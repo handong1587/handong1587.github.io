@@ -241,6 +241,10 @@ to decompose it into the multiplications of thinned dense matrices"
 - intro: Intel Labs
 - arxiv: [https://arxiv.org/abs/1610.00324](https://arxiv.org/abs/1610.00324)
 
+**Fixed-point Factorized Networks**
+
+- arxiv: [https://arxiv.org/abs/1611.01972](https://arxiv.org/abs/1611.01972)
+
 # Projects
 
 **Accelerate Convolutional Neural Networks**

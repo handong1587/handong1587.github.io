@@ -186,6 +186,10 @@ not just the convolutions)
 - arxiv: [https://arxiv.org/abs/1610.02915](https://arxiv.org/abs/1610.02915)
 - github: [https://github.com/jhkim89/PyramidNet](https://github.com/jhkim89/PyramidNet)
 
+**Learning Identity Mappings with Residual Gates**
+
+- arxiv: [https://arxiv.org/abs/1611.01260](https://arxiv.org/abs/1611.01260)
+
 ## Inception-V4 / Inception-ResNet-V2
 
 **Inception-V4, Inception-Resnet And The Impact Of Residual Connections On Learning**
@@ -1516,6 +1520,10 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 
 - arxiv: [http://arxiv.org/abs/1609.05797](http://arxiv.org/abs/1609.05797)
 
+**Deep Convolutional Neural Network for 6-DOF Image Localization**
+
+- arxiv: [https://arxiv.org/abs/1611.02776](https://arxiv.org/abs/1611.02776)
+
 ## Crowd Counting / Analysis
 
 **Large scale crowd analysis based on convolutional neural network**
@@ -1802,6 +1810,10 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 **Lossy Image Compression With Compressive Autoencoders**
 
 - paper: [http://openreview.net/pdf?id=rJiNwv9gg](http://openreview.net/pdf?id=rJiNwv9gg)
+
+**End-to-end Optimized Image Compression**
+
+- arxiv: [https://arxiv.org/abs/1611.01704](https://arxiv.org/abs/1611.01704)
 
 ## Abnormality / Anomaly Detection
 
@@ -2274,13 +2286,6 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 
 - arxiv: [http://arxiv.org/abs/1601.06615](http://arxiv.org/abs/1601.06615)
 
-**UberNet: Training a `Universal' Convolutional Neural Network for Low-, Mid-, and High-Level Vision using Diverse Datasets and Limited Memory**
-
-![](http://cvn.ecp.fr/ubernet/res.png)
-
-- arxiv: [http://arxiv.org/abs/1609.02132](http://arxiv.org/abs/1609.02132)
-- demo: [http://cvn.ecp.fr/ubernet/](http://cvn.ecp.fr/ubernet/)
-
 **On the usability of deep networks for object-based image analysis**
 
 - intro: GEOBIA 2016
@@ -2298,6 +2303,24 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 
 - intro: IEEE T. Image Processing
 - arxiv: [https://arxiv.org/abs/1610.01706](https://arxiv.org/abs/1610.01706)
+
+**Optical Flow Estimation using a Spatial Pyramid Network**
+
+- arxiv: [https://arxiv.org/abs/1611.00850](https://arxiv.org/abs/1611.00850)
+
+### All-In-One Network
+
+**UberNet: Training a `Universal' Convolutional Neural Network for Low-, Mid-, and High-Level Vision using Diverse Datasets and Limited Memory**
+
+![](http://cvn.ecp.fr/ubernet/res.png)
+
+- arxiv: [http://arxiv.org/abs/1609.02132](http://arxiv.org/abs/1609.02132)
+- demo: [http://cvn.ecp.fr/ubernet/](http://cvn.ecp.fr/ubernet/)
+
+**An All-In-One Convolutional Neural Network for Face Analysis**
+
+- intro: simultaneous face detection, face alignment, pose estimation, gender recognition, smile detection, age estimation and face recognition 
+- arxiv: [https://arxiv.org/abs/1611.00851](https://arxiv.org/abs/1611.00851)
 
 # Projects
 
