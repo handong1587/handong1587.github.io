@@ -321,6 +321,10 @@ based on decision tree algorithms, used for ranking, classification and many oth
 
 - blog: [http://www.offconvex.org/2016/10/13/gradient-descent-learns-dynamical-systems/](http://www.offconvex.org/2016/10/13/gradient-descent-learns-dynamical-systems/)
 
+**Why is gradient descent robust to non-linearly separable data?**
+
+- blog: [https://medium.com/@vivek.yadav/why-is-gradient-descent-robust-to-non-linearly-separable-data-a50c543e8f4a#.rhtf3xi79](https://medium.com/@vivek.yadav/why-is-gradient-descent-robust-to-non-linearly-separable-data-a50c543e8f4a#.rhtf3xi79)
+
 # Boosted Regression Trees
 
 **DART: Dropouts meet Multiple Additive Regression Trees**
@@ -395,6 +399,11 @@ Classic strategies:
 **This Machine Learning Project on Imbalanced Data Can Add Value to Your Resume**
 
 [https://www.analyticsvidhya.com/blog/2016/09/this-machine-learning-project-on-imbalanced-data-can-add-value-to-your-resume/](https://www.analyticsvidhya.com/blog/2016/09/this-machine-learning-project-on-imbalanced-data-can-add-value-to-your-resume/)
+
+**Dealing with unbalanced data: Generating additional data by jittering the original image**
+
+- blog: [https://medium.com/@vivek.yadav/dealing-with-unbalanced-data-generating-additional-data-by-jittering-the-original-image-7497fe2119c3](https://medium.com/@vivek.yadav/dealing-with-unbalanced-data-generating-additional-data-by-jittering-the-original-image-7497fe2119c3)
+- ipynb: [https://nbviewer.jupyter.org/github/vxy10/SCND_notebooks/blob/master/preprocessing_stuff/img_transform_NB.ipynb](https://nbviewer.jupyter.org/github/vxy10/SCND_notebooks/blob/master/preprocessing_stuff/img_transform_NB.ipynb)
 
 # Deep What?
 

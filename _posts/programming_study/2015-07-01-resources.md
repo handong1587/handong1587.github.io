@@ -96,6 +96,10 @@ It contains real examples with errors and the author gives explanations of how t
 - tutorial: [http://prakhar.me/docker-curriculum/](http://prakhar.me/docker-curriculum/)
 - github: [https://github.com/prakhar1989/docker-curriculum](https://github.com/prakhar1989/docker-curriculum)
 
+**Introduction to Docker (for Data Scientists)**
+
+- github: [https://github.com/jseabold/pydata-chi-docker](https://github.com/jseabold/pydata-chi-docker)
+
 # Git
 
 **Learn Git in 30 Minutes**

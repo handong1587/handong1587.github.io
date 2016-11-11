@@ -167,6 +167,12 @@ date: 2015-10-09
 
 - arxiv: [http://arxiv.org/abs/1602.05931](http://arxiv.org/abs/1602.05931)
 
+**Categorical Reparameterization with Gumbel-Softmax**
+
+- intro: Google Brain & University of Cambridge & Stanford University
+- arxiv: [https://arxiv.org/abs/1611.01144](https://arxiv.org/abs/1611.01144)
+- github: [https://github.com/ericjang/gumbel-softmax](https://github.com/ericjang/gumbel-softmax)
+
 ## Batch Normalization
 
 **Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift**
@@ -313,6 +319,12 @@ date: 2015-10-09
 
 - arxiv: [https://arxiv.org/abs/1610.05792](https://arxiv.org/abs/1610.05792)
 
+**Improving Stochastic Gradient Descent with Feedback**
+
+- arxiv: [https://arxiv.org/abs/1611.01505](https://arxiv.org/abs/1611.01505)
+- github: [https://github.com/jayanthkoushik/sgd-feedback](https://github.com/jayanthkoushik/sgd-feedback)
+- github: [https://github.com/tdeboissiere/DeepLearningImplementations/tree/master/Eve](https://github.com/tdeboissiere/DeepLearningImplementations/tree/master/Eve)
+
 # Tensor Methods
 
 **Tensorizing Neural Networks**
@@ -404,6 +416,10 @@ date: 2015-10-09
 
 - blog: [http://rishy.github.io/ml/2016/10/12/dropout-with-theano/](http://rishy.github.io/ml/2016/10/12/dropout-with-theano/)
 - ipn: [http://nbviewer.jupyter.org/github/rishy/rishy.github.io/blob/master/ipy_notebooks/Dropout-Theano.ipynb](http://nbviewer.jupyter.org/github/rishy/rishy.github.io/blob/master/ipy_notebooks/Dropout-Theano.ipynb)
+
+**Information Dropout: learning optimal representations through noise**
+
+- arxiv: [https://arxiv.org/abs/1611.01353](https://arxiv.org/abs/1611.01353)
 
 ## DropConnect
 

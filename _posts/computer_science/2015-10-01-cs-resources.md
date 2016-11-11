@@ -74,6 +74,12 @@ date: 2015-10-01
 that enables user to view all processes happening inside a memory during program execution.
 - working example: [http://trepl.xyz/ide](http://trepl.xyz/ide)
 
+# Books
+
+**Introduction to Computer Music: Volume One**
+
+[http://www.indiana.edu/~emusic/etext/toc.shtml](http://www.indiana.edu/~emusic/etext/toc.shtml)
+
 # Blogs
 
 **Design Of A Modern Cache**

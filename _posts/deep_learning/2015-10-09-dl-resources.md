@@ -319,6 +319,19 @@ testing it on the MNIST handwritten digits data.
 - intro: NIPS 2016. Duke University & Nokia Bell Labs
 - paper: [http://people.ee.duke.edu/~lcarin/Yunchen_nips_2016.pdf](http://people.ee.duke.edu/~lcarin/Yunchen_nips_2016.pdf)
 
+**Convolutional variational autoencoder with PyMC3 and Keras**
+
+[http://nbviewer.jupyter.org/github/taku-y/pymc3/blob/89b8634a2fd30ef96429953558bf360132b6153f/docs/source/notebooks/convolutional_vae_keras_advi.ipynb](http://nbviewer.jupyter.org/github/taku-y/pymc3/blob/89b8634a2fd30ef96429953558bf360132b6153f/docs/source/notebooks/convolutional_vae_keras_advi.ipynb)
+
+**Pixelvae: A Latent Variable Model For Natural Images**
+
+- paper: [http://openreview.net/pdf?id=BJKYvt5lg](http://openreview.net/pdf?id=BJKYvt5lg)
+
+**beta-VAE: Learning Basic Visual Concepts with a Constrained Variational Framework**
+
+- paper: [http://openreview.net/pdf?id=Sy2fzU9gl](http://openreview.net/pdf?id=Sy2fzU9gl)
+- github: [https://github.com/crcrpar/chainer-VAE](https://github.com/crcrpar/chainer-VAE)
+
 # Semi-Supervised Learning
 
 **Semi-Supervised Learning with Graphs**
@@ -671,6 +684,11 @@ which encodes useful class information rather than individual units (feature act
 
 - arxiv: [https://arxiv.org/abs/1610.06940](https://arxiv.org/abs/1610.06940)
 
+**Adversarial Machine Learning at Scale**
+
+- intro: Google Brain & OpenAI
+- arxiv: [https://arxiv.org/abs/1611.01236](https://arxiv.org/abs/1611.01236)
+
 # Deep Learning Networks
 
 **PCANet: A Simple Deep Learning Baseline for Image Classification?**
@@ -818,11 +836,18 @@ with fast exact probabilistic inference over many layers."
 
 - arxiv: [http://arxiv.org/abs/1606.02492](http://arxiv.org/abs/1606.02492)
 
+**Universal Correspondence Network**
+
+- intro: NIPS 2016 full oral presentation. Stanford University & NEC Laboratories America
+- project page: [http://cvgl.stanford.edu/projects/ucn/](http://cvgl.stanford.edu/projects/ucn/)
+- arxiv: [https://arxiv.org/abs/1606.03558](https://arxiv.org/abs/1606.03558)
+
 **Progressive Neural Networks**
 
 - intro: Google DeepMind
 - arxiv: [https://arxiv.org/abs/1606.04671](https://arxiv.org/abs/1606.04671)
 - github: [https://github.com/synpon/prog_nn](https://github.com/synpon/prog_nn)
+- github: [https://github.com/yao62995/A3C](https://github.com/yao62995/A3C)
 
 **Holistic SparseCNN: Forging the Trident of Accuracy, Speed, and Size**
 
@@ -878,6 +903,7 @@ with fast exact probabilistic inference over many layers."
 
 - arxiv: [https://arxiv.org/abs/1609.09106](https://arxiv.org/abs/1609.09106)
 - blog: [http://blog.otoro.net/2016/09/28/hyper-networks/](http://blog.otoro.net/2016/09/28/hyper-networks/)
+- github: [https://github.com/hardmaru/supercell/blob/master/assets/MNIST_Static_HyperNetwork_Example.ipynb](https://github.com/hardmaru/supercell/blob/master/assets/MNIST_Static_HyperNetwork_Example.ipynb)
 
 **HyperLSTM**
 
@@ -1124,6 +1150,10 @@ with fast exact probabilistic inference over many layers."
 
 **Mobilenets: Efficient convolutional neural networks for mobile vision applications**
 
+**TensorFlow on Android**
+
+- blog: [https://www.oreilly.com/learning/tensorflow-on-android](https://www.oreilly.com/learning/tensorflow-on-android)
+
 # Deep Learning in Finance
 
 **Deep Learning in Finance**
@@ -1138,6 +1168,21 @@ with fast exact probabilistic inference over many layers."
 
 - part 1: [http://www.euclidean.com/deep-learning-long-term-investing-1](http://www.euclidean.com/deep-learning-long-term-investing-1)
 - part 2: [http://www.euclidean.com/deep-learning-investing-part-2-preprocessing-data](http://www.euclidean.com/deep-learning-investing-part-2-preprocessing-data)
+
+**Deep Learning in Trading**
+
+- youtube: [https://www.youtube.com/watch?v=FoQKCeDuPiY](https://www.youtube.com/watch?v=FoQKCeDuPiY)
+- mirror: [https://pan.baidu.com/s/1sltRra9](https://pan.baidu.com/s/1sltRra9)
+
+**Research to Products: Machine & Human Intelligence in Finance**
+
+- intro: Peter Sarlin, Hanken School of Economics - Deep Learning in Finance Summit 2016 #reworkfin
+- youtube: [https://www.youtube.com/watch?v=Fd7Cc-KOVXg](https://www.youtube.com/watch?v=Fd7Cc-KOVXg)
+- mirror: [https://pan.baidu.com/s/1kVpZKur#list/path=%2F](https://pan.baidu.com/s/1kVpZKur#list/path=%2F)
+
+**eep Neural Networks for Real-time Market Predictions**
+
+- youtube: [https://www.youtube.com/watch?v=Kzz2-wAEK7A](https://www.youtube.com/watch?v=Kzz2-wAEK7A)
 
 # Deep Learning in Speech
 
@@ -1323,6 +1368,11 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 
 - arxiv: [https://arxiv.org/abs/1610.08119](https://arxiv.org/abs/1610.08119)
 
+**Judging a Book By its Cover**
+
+- arxiv: [https://arxiv.org/abs/1610.09204](https://arxiv.org/abs/1610.09204)
+- review: [https://www.technologyreview.com/s/602807/deep-neural-network-learns-to-judge-books-by-their-covers/](https://www.technologyreview.com/s/602807/deep-neural-network-learns-to-judge-books-by-their-covers/)
+
 ## Age Estimation
 
 **Deeply-Learned Feature for Age Estimation**
@@ -1394,6 +1444,11 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 **FaceNet2ExpNet: Regularizing a Deep Face Recognition Net for Expression Recognition**
 
 - arxiv: [http://arxiv.org/abs/1609.06591](http://arxiv.org/abs/1609.06591)
+
+**EmotionNet Challenge**
+
+- homrepage: [http://cbcsl.ece.ohio-state.edu/EmotionNetChallenge/index.html](http://cbcsl.ece.ohio-state.edu/EmotionNetChallenge/index.html)
+- dataset: [http://cbcsl.ece.ohio-state.edu/dbform_emotionet.html](http://cbcsl.ece.ohio-state.edu/dbform_emotionet.html)
 
 ## Attribution Prediction
 
@@ -1594,6 +1649,12 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 - arxiv: [https://arxiv.org/abs/1610.09001](https://arxiv.org/abs/1610.09001)
 - paper: [http://web.mit.edu/vondrick/soundnet.pdf](http://web.mit.edu/vondrick/soundnet.pdf)
 - github: [https://github.com/cvondrick/soundnet](https://github.com/cvondrick/soundnet)
+
+**Deep Learning 'ahem' detector**
+
+- github: [https://github.com/worldofpiggy/deeplearning-ahem-detector](https://github.com/worldofpiggy/deeplearning-ahem-detector)
+- slides: [https://docs.google.com/presentation/d/1QXQEOiAMj0uF2_Gafr2bn-kMniUJAIM1PLTFm1mUops/edit#slide=id.g35f391192_00](https://docs.google.com/presentation/d/1QXQEOiAMj0uF2_Gafr2bn-kMniUJAIM1PLTFm1mUops/edit#slide=id.g35f391192_00)
+- mirror: [https://pan.baidu.com/s/1c2KGlwO](https://pan.baidu.com/s/1c2KGlwO)
 
 ## NSFW Detection / Classification
 
@@ -1975,6 +2036,11 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 
 - intro: Google Brain
 - arxiv: [https://arxiv.org/abs/1610.06918](https://arxiv.org/abs/1610.06918)
+- github: [https://github.com/nlml/adversarial-neural-crypt](https://github.com/nlml/adversarial-neural-crypt)
+
+**Adversarial Neural Cryptography in Theano**
+
+- blog: [https://nlml.github.io/neural-networks/adversarial-neural-cryptography/](https://nlml.github.io/neural-networks/adversarial-neural-cryptography/)
 
 # Benchmarks
 
@@ -2109,7 +2175,7 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 
 **Harnessing Deep Neural Networks with Logic Rules**
 
- - arxiv: [http://arxiv.org/abs/1603.06318](http://arxiv.org/abs/1603.06318)
+- arxiv: [http://arxiv.org/abs/1603.06318](http://arxiv.org/abs/1603.06318)
 
 **Degrees of Freedom in Deep Neural Networks**
 
@@ -2169,6 +2235,11 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 - arxiv: [https://arxiv.org/abs/1606.04080](https://arxiv.org/abs/1606.04080)
 
 **Convolutional Neural Networks Analyzed via Convolutional Sparse Coding**
+
+**DeepMath - Deep Sequence Models for Premise Selection**
+
+- arxiv: [https://arxiv.org/abs/1606.04442](https://arxiv.org/abs/1606.04442)
+- github: [https://github.com/tensorflow/deepmath](https://github.com/tensorflow/deepmath)
 
 - arxiv: [http://arxiv.org/abs/1607.08194](http://arxiv.org/abs/1607.08194)
 
@@ -2239,6 +2310,23 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 
 - arxiv: [https://arxiv.org/abs/1611.00736](https://arxiv.org/abs/1611.00736)
 - github: [https://github.com/openai/ecprice-neural-gpu](https://github.com/openai/ecprice-neural-gpu)
+
+**Neural Functional Programming**
+
+- arxiv: [https://arxiv.org/abs/1611.01988](https://arxiv.org/abs/1611.01988)
+
+**Snapshot Ensembles: Train 1, Get M for Free**
+
+- paper: [http://openreview.net/pdf?id=BJYwwY9ll](http://openreview.net/pdf?id=BJYwwY9ll)
+- github: [https://github.com/gaohuang/SnapshotEnsemble](https://github.com/gaohuang/SnapshotEnsemble)
+
+**Deep Information Propagation**
+
+- arxiv: [https://arxiv.org/abs/1611.01232](https://arxiv.org/abs/1611.01232)
+
+**Compressed Learning: A Deep Neural Network Approach**
+
+- arxiv: [https://arxiv.org/abs/1610.09615](https://arxiv.org/abs/1610.09615)
 
 ## STDP
 
@@ -2609,6 +2697,11 @@ Compatible with Theano and TensorFlow. Optimized for Twitter.
 **Deep Learning Papers Reading Roadmap**
 
 - github: [https://github.com/songrotek/Deep-Learning-Papers-Reading-Roadmap](https://github.com/songrotek/Deep-Learning-Papers-Reading-Roadmap)
+
+**deep-learning-papers**
+
+- intro: Papers about deep learning ordered by task, date. Current state-of-the-art papers are labelled.
+- github: [https://github.com/sbrugman/deep-learning-papers/blob/master/README.md](https://github.com/sbrugman/deep-learning-papers/blob/master/README.md)
 
 ## Arxiv Pages
 

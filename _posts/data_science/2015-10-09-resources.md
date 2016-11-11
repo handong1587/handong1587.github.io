@@ -96,6 +96,11 @@ date: 2015-10-09
 
 [http://www.bigdataanalyticsguide.com/2016/07/09/learning-path-become-data-scientist-step-step-guide/](http://www.bigdataanalyticsguide.com/2016/07/09/learning-path-become-data-scientist-step-step-guide/)
 
+**Data Science Basics: An Introduction to Ensemble Learners**
+
+- intro: Beginners, Boosting, Data Science, Ensemble methods
+- blog: [http://www.kdnuggets.com/2016/11/data-science-basics-intro-ensemble-learners.html](http://www.kdnuggets.com/2016/11/data-science-basics-intro-ensemble-learners.html)
+
 # Resources
 
 **Awesome Data Engineering: A curated list of data engineering tools for software developers**
