@@ -30,6 +30,7 @@ date: 2015-10-09
 **Conditional Image Synthesis With Auxiliary Classifier GANs**
 
 - arxiv: [https://arxiv.org/abs/1610.09585](https://arxiv.org/abs/1610.09585)
+- github: [https://github.com/buriburisuri/ac-gan](https://github.com/buriburisuri/ac-gan)
 
 # Generative Adversarial Network
 

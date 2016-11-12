@@ -441,6 +441,18 @@ Machine learning workflow, Extracting feaures from images (colours, edges, corne
 
 - blog: [https://medium.com/intuitionmachine/deep-learning-the-unreasonable-effectiveness-of-randomness-14d5aef13f87#.1n775yl4i](https://medium.com/intuitionmachine/deep-learning-the-unreasonable-effectiveness-of-randomness-14d5aef13f87#.1n775yl4i)
 
+**Are Deep Neural Networks Creative?**
+
+- blog: [http://www.kdnuggets.com/2016/05/deep-neural-networks-creative-deep-learning-art.html](http://www.kdnuggets.com/2016/05/deep-neural-networks-creative-deep-learning-art.html)
+
+**Are Deep Neural Networks Creative? v2**
+
+- blog: [http://approximatelycorrect.com/2016/11/11/are-deep-neural-networks-creative/](http://approximatelycorrect.com/2016/11/11/are-deep-neural-networks-creative/)
+
+**Develop/Train A Convolutional Neural Netwok For MNIST Dataset**
+
+- github: [https://github.com/mirjalil/DataScience/blob/master/notebooks/deeplearning/tensorflow_03_CNN.ipynb](https://github.com/mirjalil/DataScience/blob/master/notebooks/deeplearning/tensorflow_03_CNN.ipynb)
+
 # Convolution
 
 ![](/assets/cnn-materials/conv.jpg)

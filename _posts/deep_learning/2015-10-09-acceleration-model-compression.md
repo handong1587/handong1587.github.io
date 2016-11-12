@@ -245,6 +245,12 @@ to decompose it into the multiplications of thinned dense matrices"
 
 - arxiv: [https://arxiv.org/abs/1611.01972](https://arxiv.org/abs/1611.01972)
 
+**Ultimate tensorization: compressing convolutional and FC layers alike**
+
+- intro: NIPS 2016 workshop: Learning with Tensors: Why Now and How?
+- arxiv: [https://arxiv.org/abs/1611.03214](https://arxiv.org/abs/1611.03214)
+- github: [https://github.com/timgaripov/TensorNet-TF](https://github.com/timgaripov/TensorNet-TF)
+
 # Projects
 
 **Accelerate Convolutional Neural Networks**
@@ -289,6 +295,10 @@ to decompose it into the multiplications of thinned dense matrices"
 ![](http://www.linleygroup.com/mpr/h/2016/11561/U26_F4v2.png)
 
 - blog: [http://www.linleygroup.com/mpr/article.php?id=11561](http://www.linleygroup.com/mpr/article.php?id=11561)
+
+**Compressing and regularizing deep neural networks**
+
+[https://www.oreilly.com/ideas/compressing-and-regularizing-deep-neural-networks](https://www.oreilly.com/ideas/compressing-and-regularizing-deep-neural-networks)
 
 # Videos
 

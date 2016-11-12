@@ -510,6 +510,10 @@ fine-tune the trained network with more challenging examples later
 
 [http://cs.brown.edu/courses/csci2951-t/finals/ghope/](http://cs.brown.edu/courses/csci2951-t/finals/ghope/)
 
+**Image Segmentation Using DIGITS 5**
+
+[https://devblogs.nvidia.com/parallelforall/image-segmentation-using-digits-5/](https://devblogs.nvidia.com/parallelforall/image-segmentation-using-digits-5/)
+
 # Talks
 
 **Deep learning for image segmentation**

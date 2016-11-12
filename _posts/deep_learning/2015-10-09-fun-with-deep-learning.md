@@ -426,6 +426,7 @@ Compressed model is less than 500KB
 - arxiv: [http://arxiv.org/abs/1603.08511](http://arxiv.org/abs/1603.08511)
 - github: [https://github.com/richzhang/colorization](https://github.com/richzhang/colorization)
 - demo: [http://demos.algorithmia.com/colorize-photos/](http://demos.algorithmia.com/colorize-photos/)
+- github: [https://github.com/tdeboissiere/DeepLearningImplementations/tree/master/Colorful](https://github.com/tdeboissiere/DeepLearningImplementations/tree/master/Colorful)
 
 **Automatic Colorization (Tensorflow + VGG)**
 

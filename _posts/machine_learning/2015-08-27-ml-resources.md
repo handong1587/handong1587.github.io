@@ -44,6 +44,10 @@ Other awesome lists can be found in this [list](https://github.com/sindresorhus/
 
 - blog: [http://blog.nycdatascience.com/students-work/a-comparison-of-supervised-learning-algorithm/](http://blog.nycdatascience.com/students-work/a-comparison-of-supervised-learning-algorithm/)
 
+**Statistical Learning and Kernel Methods**
+
+- slides: [http://matt.colorado.edu/compcogworkshop/talks/scholkopf.pdf](http://matt.colorado.edu/compcogworkshop/talks/scholkopf.pdf)
+
 ## Machine Learning is Fun!
 
 **Machine Learning is Fun! - The world’s easiest introduction to Machine Learning**
@@ -1019,6 +1023,11 @@ for creating complex software in C++ to solve real world problems.
 ![](https://raw.githubusercontent.com/tmadl/highdimensional-decision-boundary-plot/master/img/dr_model_overview.png)
 
 - github: [https://github.com/tmadl/highdimensional-decision-boundary-plot](https://github.com/tmadl/highdimensional-decision-boundary-plot)
+
+**Flappy Learning: Program that learns to play Flappy Bird by machine learning (Neuroevolution)**
+
+- blog: [https://xviniette.github.io/FlappyLearning/](https://xviniette.github.io/FlappyLearning/)
+- github: [https://github.com/xviniette/FlappyLearning](https://github.com/xviniette/FlappyLearning)
 
 # Readings and Questions
 

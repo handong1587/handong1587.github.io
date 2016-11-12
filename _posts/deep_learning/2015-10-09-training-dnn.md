@@ -30,6 +30,11 @@ date: 2015-10-09
 
 - quora: [https://www.quora.com/How-can-a-deep-neural-network-with-ReLU-activations-in-its-hidden-layers-approximate-any-function](https://www.quora.com/How-can-a-deep-neural-network-with-ReLU-activations-in-its-hidden-layers-approximate-any-function)
 
+**Understanding Deep Neural Networks with Rectified Linear Units**
+
+- intro: Johns Hopkins University
+- arxiv: [https://arxiv.org/abs/1611.01491](https://arxiv.org/abs/1611.01491)
+
 ## LReLU
 
 **Rectifier Nonlinearities Improve Neural Network Acoustic Models**
@@ -420,6 +425,10 @@ date: 2015-10-09
 **Information Dropout: learning optimal representations through noise**
 
 - arxiv: [https://arxiv.org/abs/1611.01353](https://arxiv.org/abs/1611.01353)
+
+**Recent Developments in Dropout**
+
+- blog: [https://casmls.github.io/general/2016/11/11/dropout.html](https://casmls.github.io/general/2016/11/11/dropout.html)
 
 ## DropConnect
 

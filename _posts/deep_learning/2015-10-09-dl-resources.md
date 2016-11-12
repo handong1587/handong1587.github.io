@@ -332,6 +332,10 @@ testing it on the MNIST handwritten digits data.
 - paper: [http://openreview.net/pdf?id=Sy2fzU9gl](http://openreview.net/pdf?id=Sy2fzU9gl)
 - github: [https://github.com/crcrpar/chainer-VAE](https://github.com/crcrpar/chainer-VAE)
 
+**Variational Lossy Autoencoder**
+
+- arxiv: [https://arxiv.org/abs/1611.02731](https://arxiv.org/abs/1611.02731)
+
 # Semi-Supervised Learning
 
 **Semi-Supervised Learning with Graphs**
@@ -416,6 +420,11 @@ Restricted Boltzmann Machine (RBM), Sparse Coding and Auto-encoder
 **Towards K-means-friendly Spaces: Simultaneous Deep Learning and Clustering**
 
 - arxiv: [https://arxiv.org/abs/1610.04794](https://arxiv.org/abs/1610.04794)
+
+**Deep Unsupervised Clustering with Gaussian Mixture Variational**
+
+- arxiv: [https://arxiv.org/abs/1611.02648](https://arxiv.org/abs/1611.02648)
+- github: [https://github.com/Nat-D/GMVAE](https://github.com/Nat-D/GMVAE)
 
 # Transfer Learning
 
@@ -924,6 +933,11 @@ with fast exact probabilistic inference over many layers."
 - arixiv: [https://arxiv.org/abs/1610.10087](https://arxiv.org/abs/1610.10087)
 - github: [https://github.com/coxlab/tsnet](https://github.com/coxlab/tsnet)
 
+**BranchyNet: Fast Inference via Early Exiting from Deep Neural Networks**
+
+- intro: Harvard University
+- paper: [http://www.eecs.harvard.edu/~htk/publication/2016-icpr-teerapittayanon-mcdanel-kung.pdf](http://www.eecs.harvard.edu/~htk/publication/2016-icpr-teerapittayanon-mcdanel-kung.pdf)
+
 ## Highway Networks
 
 **Highway Networks**
@@ -1227,6 +1241,15 @@ with fast exact probabilistic inference over many layers."
 **TorchCraft: a Library for Machine Learning Research on Real-Time Strategy Games**
 
 - arxiv: [https://arxiv.org/abs/1611.00625](https://arxiv.org/abs/1611.00625)
+
+# Deep Learning on Drug Discovery
+
+**Low Data Drug Discovery with One-shot Learning**
+
+- intro: MIT & Stanford University
+- arxiv: [https://arxiv.org/abs/1611.03199](https://arxiv.org/abs/1611.03199)
+- homepage: [http://deepchem.io/](http://deepchem.io/)
+- github: [https://github.com/deepchem/deepchem](https://github.com/deepchem/deepchem)
 
 # Applications
 
@@ -1782,6 +1805,7 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 - github(Torch): [https://github.com/leehomyc/Photo-Realistic-Super-Resoluton](https://github.com/leehomyc/Photo-Realistic-Super-Resoluton)
 - github: [https://github.com/junhocho/SRGAN](https://github.com/junhocho/SRGAN)
 - github(Keras): [https://github.com/titu1994/Super-Resolution-using-Generative-Adversarial-Networks](https://github.com/titu1994/Super-Resolution-using-Generative-Adversarial-Networks)
+- github: [https://github.com/buriburisuri/SRGAN](https://github.com/buriburisuri/SRGAN)
 
 **Real-Time Single Image and Video Super-Resolution Using an Efficient Sub-Pixel Convolutional Neural Network**
 

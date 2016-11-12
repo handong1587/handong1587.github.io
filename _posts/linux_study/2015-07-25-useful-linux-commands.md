@@ -554,3 +554,15 @@ cat file1 file2 file3 .... >> merged_file
 ```
 cat -A filename
 ```
+
+**Get recursive full-path listing**
+
+```
+find /path/to/folder
+```
+
+want files only (omit directories, devices, etc):
+
+```
+find /path/to/folder -type f
+```

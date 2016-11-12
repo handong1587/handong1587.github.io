@@ -58,6 +58,14 @@ We aim to inspire a new generation of research into challenging new problems pre
 - blog: [https://blogs.microsoft.com/next/2016/07/07/project-malmo-lets-researchers-use-minecraft-ai-research-makes-public-debut/#sm.00000cprgapu2iec3xp063js2t3x3](https://blogs.microsoft.com/next/2016/07/07/project-malmo-lets-researchers-use-minecraft-ai-research-makes-public-debut/#sm.00000cprgapu2iec3xp063js2t3x3)
 - review: [http://www.zdnet.com/article/microsofts-project-malmo-goes-open-source/](http://www.zdnet.com/article/microsofts-project-malmo-goes-open-source/)
 
+# Challenge / Competition
+
+**Halite: an artificial intelligence programming challenge**
+
+- intro: Contestants write bots to play an original multi-player turn-based strategy game played on a rectangular grid
+- homepage: [https://halite.io/](https://halite.io/)
+- github: [https://github.com/HaliteChallenge/Halite](https://github.com/HaliteChallenge/Halite)
+
 # Blogs
 
 **Artificial Intelligence Today**

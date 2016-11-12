@@ -500,6 +500,15 @@ The project is dedicated to hero in life great Jesse Livermore.
 
 - github: [https://github.com/yukezhu/tensorflow-reinforce](https://github.com/yukezhu/tensorflow-reinforce)
 
+**deep RL hacking on minecraft with malmo**
+
+- github: [https://github.com/matpalm/malmomo](https://github.com/matpalm/malmomo)
+
+**ReinforcementLearning**
+
+- intro: MC control, Q-learning, SARSA, Cross Entropy Method
+- github: [https://github.com/janivanecky/ReinforcementLearning](https://github.com/janivanecky/ReinforcementLearning)
+
 ## Play Flappy Bird
 
 **Using Deep Q-Network to Learn How To Play Flappy Bird**
