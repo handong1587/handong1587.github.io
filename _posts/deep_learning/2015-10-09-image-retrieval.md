@@ -7,6 +7,11 @@ date: 2015-10-09
 
 # Papers
 
+**Learning High-level Image Representation for Image Retrieval via Multi-Task DNN using Clickthrough Data**
+
+- arxiv: [http://arxiv.org/abs/1312.4740](http://arxiv.org/abs/1312.4740)
+- paper: [http://legacy.openreview.net/document/90fc8dad-ad02-4ddc-ab06-e7b55706869d#90fc8dad-ad02-4ddc-ab06-e7b55706869d](http://legacy.openreview.net/document/90fc8dad-ad02-4ddc-ab06-e7b55706869d#90fc8dad-ad02-4ddc-ab06-e7b55706869d)
+
 **Neural Codes for Image Retrieval**
 
 ![](http://sites.skoltech.ru/app/data/uploads/sites/25/2014/11/example-e1404721339557.png)
