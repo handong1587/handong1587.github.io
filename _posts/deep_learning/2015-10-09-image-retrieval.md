@@ -85,6 +85,7 @@ date: 2015-10-09
 
 **Particular object retrieval with integral max-pooling of CNN activations**
 
+- intro: use max-pooling to aggregate the deep descriptors, R-MAC (regional maximum activation of convolutions)
 - arxiv: [https://arxiv.org/abs/1511.05879](https://arxiv.org/abs/1511.05879)
 
 **Group Invariant Deep Representations for Image Instance Retrieval**
@@ -241,6 +242,14 @@ date: 2015-10-09
 - arxiv: [http://arxiv.org/abs/1608.03462](http://arxiv.org/abs/1608.03462)
 
 # Datasets
+
+Oxford5k
+
+Paris6k
+
+Oxford105k
+
+UKB
 
 **NUS-WIDE**
 
