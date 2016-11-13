@@ -920,6 +920,11 @@ We additionally provide an implementation of the [ReInspect](https://github.com/
 
 - github: [https://github.com/NVIDIA/DIGITS/blob/master/examples/object-detection/README.md](https://github.com/NVIDIA/DIGITS/blob/master/examples/object-detection/README.md)
 
+**FCN-MultiBox Detector**
+
+- intro: Full convolution MultiBox Detector ( like SSD) implemented in Torch.
+- github: [https://github.com/teaonly/FMD.torch](https://github.com/teaonly/FMD.torch)
+
 # Blogs
 
 **Convolutional Neural Networks for Object Detection**

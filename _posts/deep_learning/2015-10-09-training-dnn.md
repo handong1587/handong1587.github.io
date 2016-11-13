@@ -242,6 +242,13 @@ date: 2015-10-09
 
 - arxiv: [https://arxiv.org/abs/1611.00822](https://arxiv.org/abs/1611.00822)
 
+# Learning Rate
+
+**No More Pesky Learning Rates**
+
+- intro: Tom Schaul, Sixin Zhang, Yann LeCun
+- arxiv: [https://arxiv.org/abs/1206.1106](https://arxiv.org/abs/1206.1106)
+
 # Pooling
 
 **Stochastic Pooling for Regularization of Deep Convolutional Neural Networks**
