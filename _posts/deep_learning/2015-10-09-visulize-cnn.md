@@ -116,6 +116,10 @@ date: 2015-10-09
 
 - arxiv: [http://arxiv.org/abs/1606.07757](http://arxiv.org/abs/1606.07757)
 
+**VisualBackProp: visualizing CNNs for autonomous driving**
+
+- arxiv: [https://arxiv.org/abs/1611.05418](https://arxiv.org/abs/1611.05418)
+
 # Projects
 
 **Interactive Deep Neural Net Hallucinations**
@@ -208,3 +212,8 @@ date: 2015-10-09
 **CNNVis: Towards Better Analysis of Deep Convolutional Neural Networks.**
 
 [http://shixialiu.com/publications/cnnvis/demo/](http://shixialiu.com/publications/cnnvis/demo/)
+
+**Quiver: Interactive convnet features visualization for Keras**
+
+- homepage: [https://jakebian.github.io/quiver/](https://jakebian.github.io/quiver/)
+- github: [https://github.com/jakebian/quiver](https://github.com/jakebian/quiver)

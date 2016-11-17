@@ -447,6 +447,10 @@ date: 2015-10-09
 
 - arxiv: [https://arxiv.org/abs/1611.01989](https://arxiv.org/abs/1611.01989)
 
+**shuttleNet: A biologically-inspired RNN with loop connection and parameter sharing**
+
+- arxiv: [https://arxiv.org/abs/1611.05216](https://arxiv.org/abs/1611.05216)
+
 # Projects
 
 **NeuralTalk (Deprecated): a Python+numpy project for learning Multimodal Recurrent Neural Networks that describe images with sentences**

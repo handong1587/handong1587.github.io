@@ -28,6 +28,11 @@ This was tested on a 64 bit machine with Nvidia Titan X, running Ubuntu 14.04
 
 - github: [https://github.com/dusty-nv/jetson-inference](https://github.com/dusty-nv/jetson-inference)
 
+**Install Log**
+
+- intro: setting up Caffe on a cluster running Redhat 6.3 (Santiago) without having root
+- github: [https://github.com/yosinski/caffe/blob/jason_public/doc/linux-no-root-install-log.md](https://github.com/yosinski/caffe/blob/jason_public/doc/linux-no-root-install-log.md)
+
 ## Docker
 
 **All-in-one Docker image for Deep Learning**

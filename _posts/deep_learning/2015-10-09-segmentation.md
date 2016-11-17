@@ -484,6 +484,10 @@ fine-tune the trained network with more challenging examples later
 - project page: [http://calvin.inf.ed.ac.uk/software/fast-video-segmentation/](http://calvin.inf.ed.ac.uk/software/fast-video-segmentation/)
 - paper: [http://calvin.inf.ed.ac.uk/wp-content/uploads/Publications/papazoglouICCV2013-camera-ready.pdf](http://calvin.inf.ed.ac.uk/wp-content/uploads/Publications/papazoglouICCV2013-camera-ready.pdf)
 
+**Recurrent Fully Convolutional Networks for Video Segmentation**
+
+- arxiv: [https://arxiv.org/abs/1606.00487](https://arxiv.org/abs/1606.00487)
+
 **Object Detection, Tracking, and Motion Segmentation for Object-level Video Segmentation**
 
 - arxiv: [http://arxiv.org/abs/1608.03066](http://arxiv.org/abs/1608.03066)
@@ -497,6 +501,15 @@ fine-tune the trained network with more challenging examples later
 **STFCN: Spatio-Temporal FCN for Semantic Video Segmentation**
 
 - arxiv: [http://arxiv.org/abs/1608.05971](http://arxiv.org/abs/1608.05971)
+
+**One-Shot Video Object Segmentation**
+
+- intro: OSVOS
+- arxiv: [https://arxiv.org/abs/1611.05198](https://arxiv.org/abs/1611.05198)
+
+**Convolutional Gated Recurrent Networks for Video Segmentation**
+
+- arxiv: [https://arxiv.org/abs/1611.05435](https://arxiv.org/abs/1611.05435)
 
 # Leaderboard
 

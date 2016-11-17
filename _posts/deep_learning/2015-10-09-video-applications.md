@@ -261,6 +261,18 @@ extract saptio-temporal features to represent the video using the CNNs."
 
 - arxiv: [https://arxiv.org/abs/1611.02447](https://arxiv.org/abs/1611.02447)
 
+**Deep Recurrent Neural Network for Mobile Human Activity Recognition with High Throughput**
+
+- arxiv: [https://arxiv.org/abs/1611.03607](https://arxiv.org/abs/1611.03607)
+
+**Joint Network based Attention for Action Recognition**
+
+- arxiv: [https://arxiv.org/abs/1611.05215](https://arxiv.org/abs/1611.05215)
+
+**Temporal Convolutional Networks for Action Segmentation and Detection**
+
+- arxiv: [https://arxiv.org/abs/1611.05267](https://arxiv.org/abs/1611.05267)
+
 ### Projects
 
 **A Torch Library for Action Recognition and Detection Using CNNs and LSTMs**
@@ -339,6 +351,10 @@ extract saptio-temporal features to represent the video using the CNNs."
 - arxiv: [http://arxiv.org/abs/1605.08104](http://arxiv.org/abs/1605.08104)
 - github: [https://github.com/coxlab/prednet](https://github.com/coxlab/prednet)
 - github: [https://github.com/e-lab/torch-prednet](https://github.com/e-lab/torch-prednet)
+
+**Diversity encouraged learning of unsupervised LSTM ensemble for neural activity video prediction**
+
+- arxiv: [https://arxiv.org/abs/1611.04899](https://arxiv.org/abs/1611.04899)
 
 # Video Tagging
 

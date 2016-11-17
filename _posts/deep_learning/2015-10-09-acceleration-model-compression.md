@@ -251,6 +251,15 @@ to decompose it into the multiplications of thinned dense matrices"
 - arxiv: [https://arxiv.org/abs/1611.03214](https://arxiv.org/abs/1611.03214)
 - github: [https://github.com/timgaripov/TensorNet-TF](https://github.com/timgaripov/TensorNet-TF)
 
+**Designing Energy-Efficient Convolutional Neural Networks using Energy-Aware Pruning**
+
+- intro: "the energy consumption of AlexNet and GoogLeNet are reduced by 3.7x and 1.6x, respectively, with less than 1% top-5 accuracy loss"
+- arxiv: [https://arxiv.org/abs/1611.05128](https://arxiv.org/abs/1611.05128)
+
+**Net-Trim: A Layer-wise Convex Pruning of Deep Neural Networks**
+
+- arxiv: [https://arxiv.org/abs/1611.05162](https://arxiv.org/abs/1611.05162)
+
 # Projects
 
 **Accelerate Convolutional Neural Networks**

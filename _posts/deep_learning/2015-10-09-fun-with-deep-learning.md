@@ -207,6 +207,10 @@ Compressed model is less than 500KB
 
 - github: [https://github.com/kaonashi-tyc/Rewrite](https://github.com/kaonashi-tyc/Rewrite)
 
+**Neural Style Representations and the Large-Scale Classification of Artistic Style**
+
+- arxiv: [https://arxiv.org/abs/1611.05368](https://arxiv.org/abs/1611.05368)
+
 ## Neural Art On Audio
 
 **MSc AI Project on generative deep networks and neural style transfer for audio**
@@ -578,6 +582,10 @@ Compressed model is less than 500KB
 
 - paper: [http://openreview.net/pdf?id=ByBwSPcex](http://openreview.net/pdf?id=ByBwSPcex)
 - project page: [http://www.cs.toronto.edu/songfrompi/](http://www.cs.toronto.edu/songfrompi/)
+
+**Grammar Argumented LSTM Neural Networks with Note-Level Encoding for Music Composition**
+
+- arxiv: [https://arxiv.org/abs/1611.05416](https://arxiv.org/abs/1611.05416)
 
 # Poetry
 

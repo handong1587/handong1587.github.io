@@ -269,6 +269,11 @@ date: 2015-10-09
 - notes: [https://gist.github.com/shagunsodhani/ccfe3134f46fd3738aa0](https://gist.github.com/shagunsodhani/ccfe3134f46fd3738aa0)
 - github: [https://github.com/torch/nn/issues/371](https://github.com/torch/nn/issues/371)
 
+**S3Pool: Pooling with Stochastic Spatial Sampling**
+
+- arxiv: [https://arxiv.org/abs/1611.05138](https://arxiv.org/abs/1611.05138)
+- github(Lasagne): [https://github.com/Shuangfei/s3pool](https://github.com/Shuangfei/s3pool)
+
 # Optimization Methods
 
 **On Optimization Methods for Deep Learning**
@@ -648,6 +653,11 @@ date: 2015-10-09
 
 - intro: Xavier initialization
 - paper: [http://jmlr.org/proceedings/papers/v9/glorot10a/glorot10a.pdf](http://jmlr.org/proceedings/papers/v9/glorot10a/glorot10a.pdf)
+
+**Domain-Adversarial Training of Neural Networks**
+
+- arxiv: [https://arxiv.org/abs/1505.07818](https://arxiv.org/abs/1505.07818)
+- paper: [http://jmlr.org/papers/v17/15-239.html](http://jmlr.org/papers/v17/15-239.html)
 
 **Scalable and Sustainable Deep Learning via Randomized Hashing**
 
