@@ -76,7 +76,11 @@ not just the convolutions)
 3.5% top-5 error and 17.3% top-1 error With an ensemble of 4 models and multi-crop evaluation."
 - arxiv: [http://arxiv.org/abs/1512.00567](http://arxiv.org/abs/1512.00567)
 - github(Torch): [https://github.com/Moodstocks/inception-v3.torch](https://github.com/Moodstocks/inception-v3.torch)
-- github(TensorFlow): [https://github.com/tensorflow/models/tree/master/inception#how-to-train-from-scratch-in-a-distributed-setting](https://github.com/tensorflow/models/tree/master/inception#how-to-train-from-scratch-in-a-distributed-setting)
+
+**Inception in TensorFlow**
+
+- intro: demonstrate how to train the Inception v3 architecture
+- github: [https://github.com/tensorflow/models/tree/master/inception](https://github.com/tensorflow/models/tree/master/inception)
 
 **Notes on the TensorFlow Implementation of Inception v3**
 

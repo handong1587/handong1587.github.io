@@ -100,6 +100,10 @@ date: 2015-10-09
 - reddit: [https://www.reddit.com/r/MachineLearning/comments/31rinf/150400941_a_simple_way_to_initialize_recurrent/](https://www.reddit.com/r/MachineLearning/comments/31rinf/150400941_a_simple_way_to_initialize_recurrent/)
 - reddit: [https://www.reddit.com/r/MachineLearning/comments/32tgvw/has_anyone_been_able_to_reproduce_the_results_in/](https://www.reddit.com/r/MachineLearning/comments/32tgvw/has_anyone_been_able_to_reproduce_the_results_in/)
 
+**Batch Normalized Recurrent Neural Networks**
+
+- arxiv: [https://arxiv.org/abs/1510.01378](https://arxiv.org/abs/1510.01378)
+
 **Sequence Level Training with Recurrent Neural Networks**
 
 - intro: ICLR 2016
