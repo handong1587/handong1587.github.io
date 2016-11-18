@@ -31,7 +31,7 @@ date: 2015-07-25
 |.xz          |                                     |  xz -d myfiles.tar.xz       |
 |.xz          |                                     |  tar -xf myfiles.tar        |
 |.xz          |                                     |  tar -Jxf myfiles.tar.xz    |
-|.7z          |  7za a myfiles.7z myfiles/          |  7za e myfiles.7z           |
+|.7z          |  7za a myfiles.7z myfiles/          |  7za x myfiles.7z           |
 
 For compress/uncompress those files:
 
