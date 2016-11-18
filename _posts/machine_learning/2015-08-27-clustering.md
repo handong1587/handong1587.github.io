@@ -20,6 +20,11 @@ date: 2015-08-27
 
 - arxiv: [https://arxiv.org/abs/1610.08738](https://arxiv.org/abs/1610.08738)
 
+**Convergence rate of stochastic k-means**
+
+- arxiv: [https://arxiv.org/abs/1610.04900](https://arxiv.org/abs/1610.04900)
+- arxiv: [https://arxiv.org/abs/1611.05132](https://arxiv.org/abs/1611.05132)
+
 # Stream Clustering
 
 # Neural Network-based Clustering

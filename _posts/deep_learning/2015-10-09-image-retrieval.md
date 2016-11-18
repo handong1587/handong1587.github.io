@@ -241,6 +241,10 @@ date: 2015-10-09
 
 - arxiv: [http://arxiv.org/abs/1608.03462](http://arxiv.org/abs/1608.03462)
 
+**Generalisation and Sharing in Triplet Convnets for Sketch based Visual Search**
+
+- arxiv: [https://arxiv.org/abs/1611.05301](https://arxiv.org/abs/1611.05301)
+
 # Datasets
 
 Oxford5k

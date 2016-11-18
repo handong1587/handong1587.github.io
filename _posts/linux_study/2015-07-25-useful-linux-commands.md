@@ -28,9 +28,10 @@ date: 2015-07-25
 |.deb         |                                     |  ar x example.deb           |
 |.deb         |                                     |  ar p FileName.deb data.tar.gz \| tar zx |
 |.deb         |                                     |  dpkg -x somepackage.deb ~/temp/ |
-|.xz          |                                     |  xz -d linux-3.12.tar.xz    |
-|.xz          |                                     |  tar -xf linux-3.12.tar     |
-|.xz          |                                     |  tar -Jxf linux-3.12.tar.xz |
+|.xz          |                                     |  xz -d myfiles.tar.xz       |
+|.xz          |                                     |  tar -xf myfiles.tar        |
+|.xz          |                                     |  tar -Jxf myfiles.tar.xz    |
+|.7z          |  7za a myfiles.7z myfiles/          |  7za e myfiles.7z           |
 
 For compress/uncompress those files:
 
@@ -565,4 +566,14 @@ want files only (omit directories, devices, etc):
 
 ```
 find /path/to/folder -type f
+```
+
+**Remove specific file types**
+
+```
+rm `find -type f /path/to/dir/ | grep "filetype"`
+```
+
+```
+rm `find -type f /path/to/dir/ | grep -E "filetype1 | filetype2"`
 ```

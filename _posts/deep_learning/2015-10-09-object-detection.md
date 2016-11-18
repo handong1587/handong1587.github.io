@@ -351,6 +351,7 @@ and 1.15s per image with it".
 - intro: 640×480: 15 fps, 960×720: 8 fps
 - arxiv: [http://arxiv.org/abs/1607.07155](http://arxiv.org/abs/1607.07155)
 - github: [https://github.com/zhaoweicai/mscnn](https://github.com/zhaoweicai/mscnn)
+- poster: [http://www.eccv2016.org/files/posters/P-2B-38.pdf](http://www.eccv2016.org/files/posters/P-2B-38.pdf)
 
 **Multi-stage Object Detection with Group Recursive Learning**
 
@@ -393,6 +394,13 @@ and 1.15s per image with it".
 **StuffNet: Using 'Stuff' to Improve Object Detection**
 
 - arxiv: [https://arxiv.org/abs/1610.05861](https://arxiv.org/abs/1610.05861)
+
+**Hierarchical Object Detection with Deep Reinforcement Learning**
+
+- intro: Deep Reinforcement Learning Workshop (NIPS 2016)
+- project page: [https://imatge-upc.github.io/detection-2016-nipsws/](https://imatge-upc.github.io/detection-2016-nipsws/)
+- arxiv: [https://arxiv.org/abs/1611.03718](https://arxiv.org/abs/1611.03718)
+- github: [https://github.com/imatge-upc/detection-2016-nipsws](https://github.com/imatge-upc/detection-2016-nipsws)
 
 **Generalized Haar Filter based Deep Networks for Real-Time Object Detection in Traffic Scene**
 
@@ -485,12 +493,6 @@ This task involves predicting the salient regions of an image given by human eye
 
 - paper: [http://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Zhao_Saliency_Detection_by_2015_CVPR_paper.pdf](http://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Zhao_Saliency_Detection_by_2015_CVPR_paper.pdf)
 
-## DeepFix
-
-**DeepFix: A Fully Convolutional Neural Network for predicting Human Eye Fixations**
-
-- arxiv: [http://arxiv.org/abs/1510.02927](http://arxiv.org/abs/1510.02927)
-
 ## DeepSaliency
 
 **DeepSaliency: Multi-Task Deep Neural Network Model for Salient Object Detection**
@@ -569,6 +571,14 @@ This task involves predicting the salient regions of an image given by human eye
 
 - intro: DSCLRCN
 - arxiv: [https://arxiv.org/abs/1610.01708](https://arxiv.org/abs/1610.01708)
+
+**Deeply supervised salient object detection with short connections**
+
+- arxiv: [https://arxiv.org/abs/1611.04849](https://arxiv.org/abs/1611.04849)
+
+**Weakly Supervised Top-down Salient Object Detection**
+
+- arxiv: [https://arxiv.org/abs/1611.05345](https://arxiv.org/abs/1611.05345)
 
 # Specific Object Deteciton
 
@@ -829,6 +839,21 @@ This task involves predicting the salient regions of an image given by human eye
 - intro: ECCV 2016 oral
 - paper: [https://cs.stanford.edu/people/ranjaykrishna/vrd/vrd.pdf](https://cs.stanford.edu/people/ranjaykrishna/vrd/vrd.pdf)
 - github: [https://github.com/Prof-Lu-Cewu/Visual-Relationship-Detection](https://github.com/Prof-Lu-Cewu/Visual-Relationship-Detection)
+
+**OSMDeepOD - OSM and Deep Learning based Object Detection from Aerial Imagery (formerly known as "OSM-Crosswalk-Detection")**
+
+![](https://raw.githubusercontent.com/geometalab/OSMDeepOD/master/imgs/process.png)
+
+- github: [https://github.com/geometalab/OSMDeepOD](https://github.com/geometalab/OSMDeepOD)
+
+**Selfie Detection by Synergy-Constraint Based Convolutional Neural Network**
+
+- intro:  IEEE SITIS 2016
+- arxiv: [https://arxiv.org/abs/1611.04357](https://arxiv.org/abs/1611.04357)
+
+**Associative Embedding:End-to-End Learning for Joint Detection and Grouping**
+
+- arxiv: [https://arxiv.org/abs/1611.05424](https://arxiv.org/abs/1611.05424)
 
 # Object Proposal
 

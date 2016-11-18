@@ -50,6 +50,11 @@ date: 2015-10-09
 
 - arxiv: [http://arxiv.org/abs/1609.06870](http://arxiv.org/abs/1609.06870)
 
+**How to scale distributed deep learning?**
+
+- intro: Extended version of paper accepted at ML Sys 2016 (at NIPS 2016)
+- arxiv: [https://arxiv.org/abs/1611.04581](https://arxiv.org/abs/1611.04581)
+
 # Projects
 
 **Theano-MPI: a Theano-based Distributed Training Framework**

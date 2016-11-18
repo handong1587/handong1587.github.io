@@ -66,6 +66,18 @@ for /F "tokens=*" %%A in (myfile.txt) do [process] %%A
 
 - stackoverflow: [http://stackoverflow.com/questions/155932/how-do-you-loop-through-each-line-in-a-text-file-using-a-windows-batch-file](http://stackoverflow.com/questions/155932/how-do-you-loop-through-each-line-in-a-text-file-using-a-windows-batch-file)
 
+## Download
+
+```
+bitsadmin  /transfer job_name       /download  /priority priority   URL  local\path\file
+```
+
+Example:
+
+```
+bitsadmin  /transfer mydownloadjob  /download  /priority normal   http://example.com/filename.zip  C:\Users\username\Downloads\filename.zip
+```
+
 # Utilities
 
 **XX-Net: a web proxy tool**

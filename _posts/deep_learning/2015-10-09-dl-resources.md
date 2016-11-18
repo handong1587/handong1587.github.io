@@ -206,6 +206,12 @@ not just the convolutions)
 
 - github: [https://github.com/lim0606/torch-inception-resnet-v2](https://github.com/lim0606/torch-inception-resnet-v2)
 
+## ResNeXt
+
+**Aggregated Residual Transformations for Deep Neural Networks**
+
+- arxiv: [https://arxiv.org/abs/1611.05431](https://arxiv.org/abs/1611.05431)
+
 # Deep Learning And Bayesian
 
 **Scalable Bayesian Optimization Using Deep Neural Networks**
@@ -430,12 +436,18 @@ Restricted Boltzmann Machine (RBM), Sparse Coding and Auto-encoder
 - arxiv: [https://arxiv.org/abs/1611.02648](https://arxiv.org/abs/1611.02648)
 - github: [https://github.com/Nat-D/GMVAE](https://github.com/Nat-D/GMVAE)
 
+**Variational Deep Embedding: A Generative Approach to Clustering**
+
+- arxiv: [https://arxiv.org/abs/1611.05148](https://arxiv.org/abs/1611.05148)
+
 # Transfer Learning
 
 **How transferable are features in deep neural networks?**
 
 - intro: NIPS 2014
 - arxiv: [http://arxiv.org/abs/1411.1792](http://arxiv.org/abs/1411.1792)
+- paper: [http://papers.nips.cc/paper/5347-how-transferable-are-features-in-deep-neural-networks.pdf](http://papers.nips.cc/paper/5347-how-transferable-are-features-in-deep-neural-networks.pdf)
+- github: [https://github.com/yosinski/convnet_transfer](https://github.com/yosinski/convnet_transfer)
 
 **Learning and Transferring Mid-Level Image Representations using Convolutional Neural Networks**
 
@@ -942,6 +954,10 @@ with fast exact probabilistic inference over many layers."
 - intro: Harvard University
 - paper: [http://www.eecs.harvard.edu/~htk/publication/2016-icpr-teerapittayanon-mcdanel-kung.pdf](http://www.eecs.harvard.edu/~htk/publication/2016-icpr-teerapittayanon-mcdanel-kung.pdf)
 
+**Spectral Convolution Networks**
+
+- arxiv: [https://arxiv.org/abs/1611.05378](https://arxiv.org/abs/1611.05378)
+
 ## Highway Networks
 
 **Highway Networks**
@@ -1088,6 +1104,11 @@ with fast exact probabilistic inference over many layers."
 **Deep Learning using Linear Support Vector Machines**
 
 - paper: [http://deeplearning.net/wp-content/uploads/2013/03/dlsvm.pdf](http://deeplearning.net/wp-content/uploads/2013/03/dlsvm.pdf)
+
+**Trusting SVM for Piecewise Linear CNNs**
+
+- intro: PL-CNNs
+- arxiv: [https://arxiv.org/abs/1611.02185](https://arxiv.org/abs/1611.02185)
 
 ## Markov Random Field
 
@@ -1257,6 +1278,10 @@ with fast exact probabilistic inference over many layers."
 
 # Applications
 
+**DeepFix: A Fully Convolutional Neural Network for predicting Human Eye Fixations**
+
+- arxiv: [http://arxiv.org/abs/1510.02927](http://arxiv.org/abs/1510.02927)
+
 **Some like it hot - visual guidance for preference prediction**
 
 - arxiv: [http://arxiv.org/abs/1510.07867](http://arxiv.org/abs/1510.07867)
@@ -1400,6 +1425,10 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 - arxiv: [https://arxiv.org/abs/1610.09204](https://arxiv.org/abs/1610.09204)
 - review: [https://www.technologyreview.com/s/602807/deep-neural-network-learns-to-judge-books-by-their-covers/](https://www.technologyreview.com/s/602807/deep-neural-network-learns-to-judge-books-by-their-covers/)
 
+**Image Credibility Analysis with Effective Domain Transferred Deep Networks**
+
+- arxiv: [https://arxiv.org/abs/1611.05328](https://arxiv.org/abs/1611.05328)
+
 ## Age Estimation
 
 **Deeply-Learned Feature for Age Estimation**
@@ -1476,6 +1505,11 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 
 - homrepage: [http://cbcsl.ece.ohio-state.edu/EmotionNetChallenge/index.html](http://cbcsl.ece.ohio-state.edu/EmotionNetChallenge/index.html)
 - dataset: [http://cbcsl.ece.ohio-state.edu/dbform_emotionet.html](http://cbcsl.ece.ohio-state.edu/dbform_emotionet.html)
+
+**Baseline CNN structure analysis for facial expression recognition**
+
+- intro: RO-MAN2016 Conference
+- arxiv: [https://arxiv.org/abs/1611.04251](https://arxiv.org/abs/1611.04251)
 
 ## Attribution Prediction
 
@@ -1826,6 +1860,10 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 
 - arxiv: [https://arxiv.org/abs/1610.04490](https://arxiv.org/abs/1610.04490)
 
+**Real-Time Video Super-Resolution with Spatio-Temporal Networks and Motion Compensation**
+
+- arxiv: [https://arxiv.org/abs/1611.05250](https://arxiv.org/abs/1611.05250)
+
 ## Image Denoising
 
 **Beyond a Gaussian Denoiser: Residual Learning of Deep CNN for Image Denoising**
@@ -2039,6 +2077,10 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 **Deep Learning Prototype Domains for Person Re-Identification**
 
 - arxiv: [https://arxiv.org/abs/1610.05047](https://arxiv.org/abs/1610.05047)
+
+**Deep Transfer Learning for Person Re-identification**
+
+- arxiv: [https://arxiv.org/abs/1611.05244](https://arxiv.org/abs/1611.05244)
 
 ## Music Tagging
 
@@ -2380,6 +2422,12 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 
 - arxiv: [http://arxiv.org/abs/1412.7525](http://arxiv.org/abs/1412.7525)
 - github: [https://github.com/donghyunlee/dtp](https://github.com/donghyunlee/dtp)
+
+## Zero-Shot Learning
+
+**Learning a Deep Embedding Model for Zero-Shot Learning**
+
+- arxiv: [https://arxiv.org/abs/1611.05088](https://arxiv.org/abs/1611.05088)
 
 ## Computer Vision
 
@@ -2730,6 +2778,10 @@ Compatible with Theano and TensorFlow. Optimized for Twitter.
 
 - intro: Papers about deep learning ordered by task, date. Current state-of-the-art papers are labelled.
 - github: [https://github.com/sbrugman/deep-learning-papers/blob/master/README.md](https://github.com/sbrugman/deep-learning-papers/blob/master/README.md)
+
+**Deep Learning and applications in Startups, CV, Text Mining, NLP**
+
+- github: [https://github.com/lipiji/app-dl](https://github.com/lipiji/app-dl)
 
 ## Arxiv Pages
 

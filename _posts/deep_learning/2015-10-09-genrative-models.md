@@ -106,6 +106,10 @@ date: 2015-10-09
 - arxiv: [https://arxiv.org/abs/1611.01799](https://arxiv.org/abs/1611.01799)
 - github: [https://github.com/Shuangfei/vgan](https://github.com/Shuangfei/vgan)
 
+**Multi-class Generative Adversarial Networks with the L2 Loss Function**
+
+- arxiv: [https://arxiv.org/abs/1611.04076](https://arxiv.org/abs/1611.04076)
+
 # Projects
 
 **Generative Adversarial Networks with Keras**

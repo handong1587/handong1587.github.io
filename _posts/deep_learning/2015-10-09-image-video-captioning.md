@@ -208,6 +208,10 @@ after the embedding and recurrent layers of the RNN."
 
 - arxiv: [https://arxiv.org/abs/1611.01646](https://arxiv.org/abs/1611.01646)
 
+**Bootstrap, Review, Decode: Using Out-of-Domain Textual Data to Improve Image Captioning**
+
+- arxiv: [https://arxiv.org/abs/1611.05321](https://arxiv.org/abs/1611.05321)
+
 # Object Descriptions
 
 **Generation and Comprehension of Unambiguous Object Descriptions**
