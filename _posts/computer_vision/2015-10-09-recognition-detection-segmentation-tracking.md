@@ -243,6 +243,14 @@ using a large number of the existing object proposal approaches.
 - slides: [http://vision.stanford.edu/teaching/cs231b_spring1415/slides/struck_meng.pdf](http://vision.stanford.edu/teaching/cs231b_spring1415/slides/struck_meng.pdf)
 - github: [https://github.com/gnebehay/STRUCK](https://github.com/gnebehay/STRUCK)
 
+**High-Speed Tracking with Kernelized Correlation Filters**
+
+- intro: TPAMI 2015
+- project page: [http://www.robots.ox.ac.uk/~joao/circulant/index.html](http://www.robots.ox.ac.uk/~joao/circulant/index.html)
+- paper: [http://www.robots.ox.ac.uk/~joao/publications/henriques_tpami2015.pdf](http://www.robots.ox.ac.uk/~joao/publications/henriques_tpami2015.pdf)
+- github: [https://github.com/foolwood/KCF](https://github.com/foolwood/KCF)
+- github: [https://github.com/vojirt/kcf](https://github.com/vojirt/kcf)
+
 **Learning to Track: Online Multi-Object Tracking by Decision Making**
 
 ![](http://cvgl.stanford.edu/projects/MDP_tracking/MDP.png)
@@ -294,10 +302,6 @@ using a large number of the existing object proposal approaches.
 **Real-Time Visual Tracking: Promoting the Robustness of Correlation Filter Learning**
 
 - arxiv: [http://arxiv.org/abs/1608.08173](http://arxiv.org/abs/1608.08173)
-
-**KCF: High-Speed Tracking with Kernelized Correlation Filters**
-
-- github: [https://github.com/foolwood/KCF](https://github.com/foolwood/KCF)
 
 ## Projects
 

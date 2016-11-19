@@ -549,6 +549,10 @@ date: 2015-10-09
 
 - github: [https://github.com/Arn-O/kadenze-deep-creative-apps/blob/master/final-project/glyphs-rnn.ipynb](https://github.com/Arn-O/kadenze-deep-creative-apps/blob/master/final-project/glyphs-rnn.ipynb)
 
+**RecNet - Recurrent Neural Network Framework**
+
+- github: [https://github.com/joergfranke/recnet](https://github.com/joergfranke/recnet)
+
 # Blogs
 
 **Survey on Attention-based Models Applied in NLP**

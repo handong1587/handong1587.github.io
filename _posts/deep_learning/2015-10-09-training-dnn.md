@@ -391,6 +391,15 @@ date: 2015-10-09
 - dropbox: [https://www.dropbox.com/s/8kqf4v2c9lbnvar/BayLearn%202016%20(gjt).pdf?dl=0](https://www.dropbox.com/s/8kqf4v2c9lbnvar/BayLearn%202016%20(gjt).pdf?dl=0)
 - mirror: [https://pan.baidu.com/s/1kUUtxdl](https://pan.baidu.com/s/1kUUtxdl)
 
+**Automatic Node Selection for Deep Neural Networks using Group Lasso Regularization**
+
+- arxiv: [https://arxiv.org/abs/1611.05527](https://arxiv.org/abs/1611.05527)
+
+**Regularization in deep learning**
+
+- blog: [https://medium.com/@cristina_scheau/regularization-in-deep-learning-f649a45d6e0#.py327hkuv](https://medium.com/@cristina_scheau/regularization-in-deep-learning-f649a45d6e0#.py327hkuv)
+- github: [https://github.com/cscheau/Examples/blob/master/iris_l1_l2.py](https://github.com/cscheau/Examples/blob/master/iris_l1_l2.py)
+
 ## Dropout
 
 **Improving neural networks by preventing co-adaptation of feature detectors**

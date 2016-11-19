@@ -119,6 +119,10 @@ date: 2015-10-09
 
 - blog: [https://medium.freecodecamp.com/if-you-want-to-learn-data-science-start-with-one-of-these-programming-classes-fb694ffe780c#.quj2gi3f9](https://medium.freecodecamp.com/if-you-want-to-learn-data-science-start-with-one-of-these-programming-classes-fb694ffe780c#.quj2gi3f9)
 
+**Data Science, Machine Learning, and Artificial Intelligence Resources**
+
+- github: [https://github.com/acastrounis/data-science-machine-learning-ai-resources](https://github.com/acastrounis/data-science-machine-learning-ai-resources)
+
 ## Data Sources for Cool Data Science Projects
 
 - part 1: [http://blog.thedataincubator.com/2014/10/data-sources-for-cool-data-science-projects-part-1/](http://blog.thedataincubator.com/2014/10/data-sources-for-cool-data-science-projects-part-1/)

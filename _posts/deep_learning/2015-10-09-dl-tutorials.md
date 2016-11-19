@@ -453,6 +453,14 @@ Machine learning workflow, Extracting feaures from images (colours, edges, corne
 
 - github: [https://github.com/mirjalil/DataScience/blob/master/notebooks/deeplearning/tensorflow_03_CNN.ipynb](https://github.com/mirjalil/DataScience/blob/master/notebooks/deeplearning/tensorflow_03_CNN.ipynb)
 
+**Rethinking Generalization in Deep Learning**
+
+[https://medium.com/intuitionmachine/rethinking-generalization-in-deep-learning-ec66ed684ace#.tcnsqik5w](https://medium.com/intuitionmachine/rethinking-generalization-in-deep-learning-ec66ed684ace#.tcnsqik5w)
+
+**The hard thing about deep learning**
+
+- blog: [https://www.oreilly.com/ideas/the-hard-thing-about-deep-learning](https://www.oreilly.com/ideas/the-hard-thing-about-deep-learning)
+
 # Convolution
 
 ![](/assets/cnn-materials/conv.jpg)
@@ -581,3 +589,9 @@ Machine learning workflow, Extracting feaures from images (colours, edges, corne
 **Theano Tutorial @ LTI, Carnegie Mellon University**
 
 - github: [https://github.com/k-kawakami/Theano_Tutorial/blob/master/Theano_Tutorial.ipynb](https://github.com/k-kawakami/Theano_Tutorial/blob/master/Theano_Tutorial.ipynb)
+
+# TensorFlow
+
+**TensorFlow saving/restoring and mixing multiple models**
+
+[https://blog.metaflow.fr/tensorflow-saving-restoring-and-mixing-multiple-models-c4c94d5d7125#.242xy4d46](https://blog.metaflow.fr/tensorflow-saving-restoring-and-mixing-multiple-models-c4c94d5d7125#.242xy4d46)

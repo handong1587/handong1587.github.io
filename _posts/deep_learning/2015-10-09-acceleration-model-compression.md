@@ -284,6 +284,10 @@ to decompose it into the multiplications of thinned dense matrices"
 
 - github: [https://github.com/songhan/Deep-Compression-AlexNet](https://github.com/songhan/Deep-Compression-AlexNet)
 
+**Tiny Darknet**
+
+- github: [http://pjreddie.com/darknet/tiny-darknet/](http://pjreddie.com/darknet/tiny-darknet/)
+
 # Blogs
 
 **Neural Networks Are Impressively Good At Compression**

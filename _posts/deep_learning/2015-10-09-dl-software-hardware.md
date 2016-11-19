@@ -33,6 +33,10 @@ This was tested on a 64 bit machine with Nvidia Titan X, running Ubuntu 14.04
 - intro: setting up Caffe on a cluster running Redhat 6.3 (Santiago) without having root
 - github: [https://github.com/yosinski/caffe/blob/jason_public/doc/linux-no-root-install-log.md](https://github.com/yosinski/caffe/blob/jason_public/doc/linux-no-root-install-log.md)
 
+**Lessons Learned from Deploying Deep Learning at Scale**
+
+- blog: [http://blog.algorithmia.com/deploying-deep-learning-cloud-services/](http://blog.algorithmia.com/deploying-deep-learning-cloud-services/)
+
 ## Docker
 
 **All-in-one Docker image for Deep Learning**
@@ -62,6 +66,10 @@ Contains all the popular DL frameworks (TensorFlow, Theano, Torch, Caffe, etc.)
 
 - blog: [https://techcrunch.com/2016/10/31/microsoft-open-sources-its-next-gen-cloud-hardware-design/](https://techcrunch.com/2016/10/31/microsoft-open-sources-its-next-gen-cloud-hardware-design/)
 
+**Google Taps AMD For Accelerating Machine Learning In The Cloud**
+
+[http://www.forbes.com/sites/aarontilley/2016/11/15/google-taps-amd-for-accelerating-machine-learning-in-the-cloud/#3549d8554181](http://www.forbes.com/sites/aarontilley/2016/11/15/google-taps-amd-for-accelerating-machine-learning-in-the-cloud/#3549d8554181)
+
 ## Amazon EC2
 
 **Deep Learning AMI on AWS Marketplace**
@@ -75,6 +83,12 @@ Contains all the popular DL frameworks (TensorFlow, Theano, Torch, Caffe, etc.)
 **A GPU enabled AMI for Deep Learning**
 
 - blog: [https://blog.empiricalci.com/a-gpu-enabled-ami-for-deep-learning-5aa3d694b630#.9339zxm4e](https://blog.empiricalci.com/a-gpu-enabled-ami-for-deep-learning-5aa3d694b630#.9339zxm4e)
+
+## Microsoft R Server
+
+**Training Deep Neural Networks on ImageNet Using Microsoft R Server and Azure GPU VMs**
+
+- blog: [https://blogs.technet.microsoft.com/machinelearning/2016/11/15/imagenet-deep-neural-network-training-using-microsoft-r-server-and-azure-gpu-vms/](https://blogs.technet.microsoft.com/machinelearning/2016/11/15/imagenet-deep-neural-network-training-using-microsoft-r-server-and-azure-gpu-vms/)
 
 # Hardware System
 
@@ -225,6 +239,10 @@ Contains all the popular DL frameworks (TensorFlow, Theano, Torch, Caffe, etc.)
 
 - arxiv: [https://arxiv.org/abs/1609.09671](https://arxiv.org/abs/1609.09671)
 - github: [https://github.com/dicecco1/fpga_caffe](https://github.com/dicecco1/fpga_caffe)
+
+**Intel Unveils FPGA to Accelerate Neural Networks**
+
+[http://datacenterfrontier.com/intel-unveils-fpga-to-accelerate-ai-neural-networks/](http://datacenterfrontier.com/intel-unveils-fpga-to-accelerate-ai-neural-networks/)
 
 # ARM / Processor
 

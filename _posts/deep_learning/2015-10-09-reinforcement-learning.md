@@ -77,6 +77,11 @@ date: 2015-10-09
 - blog: [https://medium.com/emergent-future/simple-reinforcement-learning-with-tensorflow-part-6-partial-observability-and-deep-recurrent-q-68463e9aeefc#.3se46qkzy](https://medium.com/emergent-future/simple-reinforcement-learning-with-tensorflow-part-6-partial-observability-and-deep-recurrent-q-68463e9aeefc#.3se46qkzy)
 - github: [https://gist.github.com/awjuliani/35d2ab3409fc818011b6519f0f1629df](https://gist.github.com/awjuliani/35d2ab3409fc818011b6519f0f1629df)
 
+**Part 7: Action-Selection Strategies for Exploration**
+
+- blog: [https://medium.com/emergent-future/simple-reinforcement-learning-with-tensorflow-part-7-action-selection-strategies-for-exploration-d3a97b7cceaf#.8mcaa5nbe](https://medium.com/emergent-future/simple-reinforcement-learning-with-tensorflow-part-7-action-selection-strategies-for-exploration-d3a97b7cceaf#.8mcaa5nbe)
+- demo: [https://awjuliani.github.io/exploration/index.html](https://awjuliani.github.io/exploration/index.html)
+
 # Courses
 
 **Advanced Topics: RL**
@@ -355,6 +360,16 @@ Incorporates dropout regularization and convolutional neural networks with a sep
 **Utilization of Deep Reinforcement Learning for saccadic-based object visual search**
 
 - arxiv: [https://arxiv.org/abs/1610.06492](https://arxiv.org/abs/1610.06492)
+
+**Reinforcement Learning with Unsupervised Auxiliary Tasks**
+
+- intro: DeepMind
+- arxiv: [https://arxiv.org/abs/1611.05397](https://arxiv.org/abs/1611.05397)
+
+**Learning to reinforcement learn**
+
+- intro: DeepMind
+- arxiv: [https://arxiv.org/abs/1611.05763](https://arxiv.org/abs/1611.05763)
 
 # Projects
 
@@ -683,6 +698,14 @@ The project is dedicated to hero in life great Jesse Livermore.
 
 - blog: [http://efavdb.com/battleship/](http://efavdb.com/battleship/)
 - github: [https://github.com/EFavDB/battleship](https://github.com/EFavDB/battleship)
+
+**Deep Learning Research Review Week 2: Reinforcement Learning**
+
+[https://adeshpande3.github.io/adeshpande3.github.io/Deep-Learning-Research-Review-Week-2-Reinforcement-Learning](https://adeshpande3.github.io/adeshpande3.github.io/Deep-Learning-Research-Review-Week-2-Reinforcement-Learning)
+
+**Reinforcement Learning: Artificial Intelligence in Game Playing**
+
+[https://medium.com/@pavelkordik/reinforcement-learning-the-hardest-part-of-machine-learning-b667a22995ca#.jjiitflok](https://medium.com/@pavelkordik/reinforcement-learning-the-hardest-part-of-machine-learning-b667a22995ca#.jjiitflok)
 
 ## Let’s make a DQN
 

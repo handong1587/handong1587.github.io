@@ -242,6 +242,11 @@ in particular Intel® Xeon processors (HSW+) and Intel® Xeon Phi processors
 - homepage: [https://transcranial.github.io/keras-js/](https://transcranial.github.io/keras-js/)
 - github: [https://github.com/transcranial/keras-js](https://github.com/transcranial/keras-js)
 
+**keras2cpp**
+
+- intro: This is a bunch of code to port Keras neural network model into pure C++.
+- github: [https://github.com/pplonski/keras2cpp](https://github.com/pplonski/keras2cpp)
+
 # Lasagne
 
 **Lasagne: Lightweight library to build and train neural networks in Theano**
