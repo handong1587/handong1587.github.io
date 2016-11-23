@@ -143,6 +143,7 @@ can boost the classification accuracy and the detection and localization accurac
 - github("Fast R-CNN in MXNet"): [https://github.com/precedenceguo/mx-rcnn](https://github.com/precedenceguo/mx-rcnn)
 - github: [https://github.com/mahyarnajibi/fast-rcnn-torch](https://github.com/mahyarnajibi/fast-rcnn-torch)
 - github: [https://github.com/apple2373/chainer-simple-fast-rnn](https://github.com/apple2373/chainer-simple-fast-rnn)
+- github(Tensorflow): [https://github.com/zplizzi/tensorflow-fast-rcnn](https://github.com/zplizzi/tensorflow-fast-rcnn)
 
 ## DeepBox
 
@@ -176,6 +177,7 @@ can boost the classification accuracy and the detection and localization accurac
 - github(Torch): [https://github.com/andreaskoepf/faster-rcnn.torch](https://github.com/andreaskoepf/faster-rcnn.torch)
 - github(Torch): [https://github.com/ruotianluo/Faster-RCNN-Densecap-torch](https://github.com/ruotianluo/Faster-RCNN-Densecap-torch)
 - github(Tensorflow): [https://github.com/smallcorgi/Faster-RCNN_TF](https://github.com/smallcorgi/Faster-RCNN_TF)
+- github(tensorflow): [https://github.com/CharlesShang/TFFRCNN](https://github.com/CharlesShang/TFFRCNN)
 
 **Faster R-CNN in MXNet with distributed implementation and data parallelization**
 
@@ -395,6 +397,10 @@ and 1.15s per image with it".
 
 - arxiv: [https://arxiv.org/abs/1610.05861](https://arxiv.org/abs/1610.05861)
 
+**Generalized Haar Filter based Deep Networks for Real-Time Object Detection in Traffic Scene**
+
+- arxiv: [https://arxiv.org/abs/1610.09609](https://arxiv.org/abs/1610.09609)
+
 **Hierarchical Object Detection with Deep Reinforcement Learning**
 
 - intro: Deep Reinforcement Learning Workshop (NIPS 2016)
@@ -402,9 +408,9 @@ and 1.15s per image with it".
 - arxiv: [https://arxiv.org/abs/1611.03718](https://arxiv.org/abs/1611.03718)
 - github: [https://github.com/imatge-upc/detection-2016-nipsws](https://github.com/imatge-upc/detection-2016-nipsws)
 
-**Generalized Haar Filter based Deep Networks for Real-Time Object Detection in Traffic Scene**
+**Learning to detect and localize many objects from few examples**
 
-- arxiv: [https://arxiv.org/abs/1610.09609](https://arxiv.org/abs/1610.09609)
+- arxiv: [https://arxiv.org/abs/1611.05664](https://arxiv.org/abs/1611.05664)
 
 # Detection From Video
 

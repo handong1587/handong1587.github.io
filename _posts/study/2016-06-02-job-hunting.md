@@ -153,3 +153,7 @@ There are no right answers but it helps to understand their thoughts and researc
 **Google Interview University**
 
 - github: [https://github.com/jwasham/google-interview-university](https://github.com/jwasham/google-interview-university)
+
+**Guide to Technical Interviews**
+
+- github: [https://github.com/Developer-Y/technical-interviews](https://github.com/Developer-Y/technical-interviews)

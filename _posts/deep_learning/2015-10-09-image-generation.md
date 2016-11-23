@@ -107,6 +107,7 @@ date: 2015-10-09
 - arxiv: [http://arxiv.org/abs/1606.05328](http://arxiv.org/abs/1606.05328)
 - github(Theano): [https://github.com/kundan2510/pixelCNN](https://github.com/kundan2510/pixelCNN)
 - gtihub(Torch): [https://github.com/dritchie/pixelCNN](https://github.com/dritchie/pixelCNN)
+- github(Tensorflow): [https://github.com/anantzoid/Conditional-PixelCNN-decoder](https://github.com/anantzoid/Conditional-PixelCNN-decoder)
 
 **Inverting face embeddings with convolutional neural networks**
 

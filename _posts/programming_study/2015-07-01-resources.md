@@ -266,6 +266,10 @@ You must move pacman (the green cursor) to highlight each word on the gameboard 
 
 # Coding
 
+**Awesome Creative Coding**
+
+- github: [https://github.com/terkelg/awesome-creative-coding](https://github.com/terkelg/awesome-creative-coding)
+
 **Top 10 coding challenges Websites**
 
 - blog: [http://infocreeds.com/top-10-coding-challenges-websites/](http://infocreeds.com/top-10-coding-challenges-websites/)
@@ -277,6 +281,11 @@ You must move pacman (the green cursor) to highlight each word on the gameboard 
 **Python / C++ 11 Solutions of All 418 LeetCode Questions**
 
 - github: [https://github.com/kamyu104/LeetCode](https://github.com/kamyu104/LeetCode)
+
+**OpenGrok - a wicked fast source browser**
+
+- homepage: [http://opengrok.github.io/OpenGrok/](http://opengrok.github.io/OpenGrok/)
+- github: [https://github.com/OpenGrok/OpenGrok](https://github.com/OpenGrok/OpenGrok)
 
 ## Code of Honor Series
 

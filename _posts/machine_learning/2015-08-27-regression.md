@@ -70,6 +70,10 @@ date: 2015-08-27
 
 [http://jxieeducation.com/2016-09-18/Applications-of-Isotonic-Regression/](http://jxieeducation.com/2016-09-18/Applications-of-Isotonic-Regression/)
 
+**Bayesian Linear Regression**
+
+- github: [https://github.com/liviu-/notebooks/blob/master/bayesian_linear_regression.ipynb](https://github.com/liviu-/notebooks/blob/master/bayesian_linear_regression.ipynb)
+
 ## Logistic regression
 
 **Guide to an in-depth understanding of logistic regression**

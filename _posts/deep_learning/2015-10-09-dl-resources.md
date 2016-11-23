@@ -419,6 +419,11 @@ Restricted Boltzmann Machine (RBM), Sparse Coding and Auto-encoder
 
 - blog: [https://culurciello.github.io//tech/2016/06/10/unsup.html](https://culurciello.github.io//tech/2016/06/10/unsup.html)
 
+**Unsupervised Learning using Adversarial Networks**
+
+- intro: Facebook AI Research
+- youtube: [https://www.youtube.com/watch?v=lalg1CuNB30](https://www.youtube.com/watch?v=lalg1CuNB30)
+
 ## Clustering
 
 **Joint Unsupervised Learning of Deep Representations and Image Clusters**
@@ -496,6 +501,10 @@ Restricted Boltzmann Machine (RBM), Sparse Coding and Auto-encoder
 
 - project page: [http://minyounghuh.com/papers/analysis/](http://minyounghuh.com/papers/analysis/)
 - arxiv: [http://arxiv.org/abs/1608.08614](http://arxiv.org/abs/1608.08614)
+
+**Fine-tuning a Keras model using Theano trained Neural Network & Introduction to Transfer Learning**
+
+- github: [https://www.analyticsvidhya.com/blog/2016/11/fine-tuning-a-keras-model-using-theano-trained-neural-network-introduction-to-transfer-learning/](https://www.analyticsvidhya.com/blog/2016/11/fine-tuning-a-keras-model-using-theano-trained-neural-network-introduction-to-transfer-learning/)
 
 # Multi-label Learning
 
@@ -1276,11 +1285,39 @@ with fast exact probabilistic inference over many layers."
 - mirror: [https://pan.baidu.com/s/1qYrPkPQ](https://pan.baidu.com/s/1qYrPkPQ)
 - github: [https://github.com/baidu-research/ba-dls-deepspeech](https://github.com/baidu-research/ba-dls-deepspeech)
 
+**Robust end-to-end deep audiovisual speech recognition**
+
+- intro: CMU
+- github: [https://arxiv.org/abs/1611.06986](https://arxiv.org/abs/1611.06986)
+
+# Deep Learning for Music
+
+**Deep Learning for Music**
+
+- blog: [https://amundtveit.com/2016/11/22/deep-learning-for-music/](https://amundtveit.com/2016/11/22/deep-learning-for-music/)
+
 # Deep Learning on Games
 
 **TorchCraft: a Library for Machine Learning Research on Real-Time Strategy Games**
 
 - arxiv: [https://arxiv.org/abs/1611.00625](https://arxiv.org/abs/1611.00625)
+
+# Deep Learning in Medicine and Biology
+
+**Low Data Drug Discovery with One-shot Learning**
+
+- intro: MIT & Stanford University
+- arxiv: [https://arxiv.org/abs/1611.03199](https://arxiv.org/abs/1611.03199)
+- homepage: [http://deepchem.io/](http://deepchem.io/)
+- github: [https://github.com/deepchem/deepchem](https://github.com/deepchem/deepchem)
+
+**Introduction to Deep Learning in Medicine and Biology**
+
+- blog: [http://a12d.com/deep-learning-biomedicine](http://a12d.com/deep-learning-biomedicine)
+
+**Deep Learning for Alzheimer Diagnostics and Decision Support**
+
+[https://amundtveit.com/2016/11/18/deep-learning-for-alzheimer-diagnostics-and-decision-support/](https://amundtveit.com/2016/11/18/deep-learning-for-alzheimer-diagnostics-and-decision-support/)
 
 # Benchmarks
 
@@ -1565,6 +1602,15 @@ with fast exact probabilistic inference over many layers."
 
 - arxiv: [https://arxiv.org/abs/1610.09615](https://arxiv.org/abs/1610.09615)
 
+**A backward pass through a CNN using a generative model of its activations**
+
+- arxiv: [https://arxiv.org/abs/1611.02767](https://arxiv.org/abs/1611.02767)
+
+**Understanding deep learning requires rethinking generalization**
+
+- intro: MIT & Google Brain & UC Berkeley & Google DeepMind
+- arxiv: [https://arxiv.org/abs/1611.03530](https://arxiv.org/abs/1611.03530)
+
 ## STDP
 
 **A biological gradient descent for prediction through a combination of STDP and homeostatic plasticity**
@@ -1595,6 +1641,10 @@ with fast exact probabilistic inference over many layers."
 **Learning a Deep Embedding Model for Zero-Shot Learning**
 
 - arxiv: [https://arxiv.org/abs/1611.05088](https://arxiv.org/abs/1611.05088)
+
+**Zero-Shot (Deep) Learning**
+
+[https://amundtveit.com/2016/11/18/zero-shot-deep-learning/](https://amundtveit.com/2016/11/18/zero-shot-deep-learning/)
 
 ## Computer Vision
 

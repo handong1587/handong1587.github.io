@@ -82,6 +82,32 @@ date: 2015-10-09
 - mirror: [https://pan.baidu.com/s/1i4KoumL](https://pan.baidu.com/s/1i4KoumL)
 - github: [https://github.com/llSourcell/build_a_neural_net_live](https://github.com/llSourcell/build_a_neural_net_live)
 
+## How to build a Recurrent Neural Network in TensorFlow
+
+**How to build a Recurrent Neural Network in TensorFlow (1/7)**
+
+[https://medium.com/@erikhallstrm/hello-world-rnn-83cd7105b767#.2vozogqf7](https://medium.com/@erikhallstrm/hello-world-rnn-83cd7105b767#.2vozogqf7)
+
+**Using the RNN API in TensorFlow (2/7)**
+
+[https://medium.com/@erikhallstrm/tensorflow-rnn-api-2bb31821b185#.h0ycrjuo3](https://medium.com/@erikhallstrm/tensorflow-rnn-api-2bb31821b185#.h0ycrjuo3)
+
+**Using the LSTM API in TensorFlow (3/7)**
+
+[https://medium.com/@erikhallstrm/using-the-tensorflow-lstm-api-3-7-5f2b97ca6b73#.k7aciqaxn](https://medium.com/@erikhallstrm/using-the-tensorflow-lstm-api-3-7-5f2b97ca6b73#.k7aciqaxn)
+
+**Using the Multilayered LSTM API in TensorFlow (4/7)**
+
+[https://medium.com/@erikhallstrm/using-the-tensorflow-multilayered-lstm-api-f6e7da7bbe40#.dj7dy92m5](https://medium.com/@erikhallstrm/using-the-tensorflow-multilayered-lstm-api-f6e7da7bbe40#.dj7dy92m5)
+
+**Using the DynamicRNN API in TensorFlow (5/7)**
+
+[https://medium.com/@erikhallstrm/using-the-dynamicrnn-api-in-tensorflow-7237aba7f7ea#.49qw259ks](https://medium.com/@erikhallstrm/using-the-dynamicrnn-api-in-tensorflow-7237aba7f7ea#.49qw259ks)
+
+**Using the Dropout API in TensorFlow (6/7)**
+
+[https://medium.com/@erikhallstrm/using-the-dropout-api-in-tensorflow-2b2e6561dfeb#.a7mc3o9aq](https://medium.com/@erikhallstrm/using-the-dropout-api-in-tensorflow-2b2e6561dfeb#.a7mc3o9aq)
+
 # Train RNN
 
 **On the difficulty of training Recurrent Neural Networks**
@@ -657,6 +683,10 @@ date: 2015-10-09
 **A noob’s guide to implementing RNN-LSTM using Tensorflow**
 
 [http://monik.in/a-noobs-guide-to-implementing-rnn-lstm-using-tensorflow/](http://monik.in/a-noobs-guide-to-implementing-rnn-lstm-using-tensorflow/)
+
+**Non-Zero Initial States for Recurrent Neural Networks**
+
+- blog: [http://r2rt.com/non-zero-initial-states-for-recurrent-neural-networks.html](http://r2rt.com/non-zero-initial-states-for-recurrent-neural-networks.html)
 
 ## Optimizing RNN (Baidu Silicon Valley AI Lab)
 

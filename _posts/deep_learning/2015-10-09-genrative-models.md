@@ -32,6 +32,15 @@ date: 2015-10-09
 - arxiv: [https://arxiv.org/abs/1610.09585](https://arxiv.org/abs/1610.09585)
 - github: [https://github.com/buriburisuri/ac-gan](https://github.com/buriburisuri/ac-gan)
 
+**On the Quantitative Analysis of Decoder-Based Generative Models**
+
+- intro: University of Toronto & OpenAI & CMU
+- arxiv: [https://arxiv.org/abs/1611.04273](https://arxiv.org/abs/1611.04273)
+
+**Boosted Generative Models**
+
+- paper: [https://openreview.net/pdf?id=HyY4Owjll](https://openreview.net/pdf?id=HyY4Owjll)
+
 # Generative Adversarial Network
 
 **Generative Adversarial Networks**
@@ -109,6 +118,19 @@ date: 2015-10-09
 **Multi-class Generative Adversarial Networks with the L2 Loss Function**
 
 - arxiv: [https://arxiv.org/abs/1611.04076](https://arxiv.org/abs/1611.04076)
+
+**Inverting The Generator Of A Generative Adversarial Networ**
+
+- intro: NIPS 2016 Workshop on Adversarial Training
+- arxiv: [https://arxiv.org/abs/1611.05644](https://arxiv.org/abs/1611.05644)
+
+**Image-to-Image Translation with Conditional Adversarial Networks**
+
+![](https://phillipi.github.io/pix2pix/images/teaser_v3.png)
+
+- project page: [https://phillipi.github.io/pix2pix/](https://phillipi.github.io/pix2pix/)
+- arxiv: [https://arxiv.org/abs/1611.07004](https://arxiv.org/abs/1611.07004)
+- github: [https://github.com/phillipi/pix2pix](https://github.com/phillipi/pix2pix)
 
 # Projects
 

@@ -451,6 +451,10 @@ date: 2015-10-09
 
 - blog: [https://casmls.github.io/general/2016/11/11/dropout.html](https://casmls.github.io/general/2016/11/11/dropout.html)
 
+**Generalized Dropout**
+
+- arxiv: [https://arxiv.org/abs/1611.06791](https://arxiv.org/abs/1611.06791)
+
 ## DropConnect
 
 **Regularization of Neural Networks using DropConnect**
@@ -647,10 +651,12 @@ date: 2015-10-09
 - arxiv: [http://arxiv.org/abs/1602.02505](http://arxiv.org/abs/1602.02505)
 
 **BinaryNet: Training Deep Neural Networks with Weights and Activations Constrained to +1 or -1**
+
 **Binarized Neural Networks: Training Deep Neural Networks with Weights and Activations Constrained to +1 or -1**
 
 - arxiv: [http://arxiv.org/abs/1602.02830](http://arxiv.org/abs/1602.02830)
 - github: [https://github.com/MatthieuCourbariaux/BinaryNet](https://github.com/MatthieuCourbariaux/BinaryNet)
+- github: [https://github.com/codekansas/tinier-nn](https://github.com/codekansas/tinier-nn)
 
 **Quantized Neural Networks: Training Neural Networks with Low Precision Weights and Activations**
 

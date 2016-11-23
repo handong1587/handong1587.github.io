@@ -48,6 +48,10 @@ Other awesome lists can be found in this [list](https://github.com/sindresorhus/
 
 - slides: [http://matt.colorado.edu/compcogworkshop/talks/scholkopf.pdf](http://matt.colorado.edu/compcogworkshop/talks/scholkopf.pdf)
 
+**Getting Started with Machine Learning**
+
+[https://www.infoq.com/articles/getting-started-ml](https://www.infoq.com/articles/getting-started-ml)
+
 ## Machine Learning is Fun!
 
 **Machine Learning is Fun! - The world’s easiest introduction to Machine Learning**
@@ -594,6 +598,10 @@ Classic strategies:
 - talk: [http://techtalks.tv/talks/neil-extracting-visual-knowledge-from-web-data/59408/](http://techtalks.tv/talks/neil-extracting-visual-knowledge-from-web-data/59408/)
 - poster: [http://www.cs.cmu.edu/~xinleic/docs/neil/NEIL_poster.pdf](http://www.cs.cmu.edu/~xinleic/docs/neil/NEIL_poster.pdf)
 
+**Expert Gate: Lifelong Learning with a Network of Experts**
+
+- arxiv: [https://arxiv.org/abs/1611.06194](https://arxiv.org/abs/1611.06194)
+
 # One Shot Learning
 
 **An embarrassingly simple approach to zero-shot learning**
@@ -855,6 +863,21 @@ including all the relevant classifiers available today
 - slides: [https://docs.google.com/presentation/d/1puj4iN70MRVauUmIMAZS0pfANktjdQ5uCP7H8OLPKFk/edit#slide=id.p](https://docs.google.com/presentation/d/1puj4iN70MRVauUmIMAZS0pfANktjdQ5uCP7H8OLPKFk/edit#slide=id.p)
 - mirror: [https://pan.baidu.com/s/1pLJCya3](https://pan.baidu.com/s/1pLJCya3)
 - ipn: [https://twiecki.github.io/probabilistic_ml.ipynb](https://twiecki.github.io/probabilistic_ml.ipynb)
+
+**Bias in ML, and Teaching AI**
+
+- blog: [http://nlpers.blogspot.ru/2016/11/bias-in-ml-and-teaching-ai.html](http://nlpers.blogspot.ru/2016/11/bias-in-ml-and-teaching-ai.html)
+- slides: [http://www.umiacs.umd.edu/~hal/talks/16-11-diversity-bias.odp](http://www.umiacs.umd.edu/~hal/talks/16-11-diversity-bias.odp)
+- mirror: [https://pan.baidu.com/s/1bpqWIkB](https://pan.baidu.com/s/1bpqWIkB)
+
+**Solutions for Skilltest Machine Learning : Revealed**
+
+[https://www.analyticsvidhya.com/blog/2016/11/solution-for-skilltest-machine-learning-revealed/](https://www.analyticsvidhya.com/blog/2016/11/solution-for-skilltest-machine-learning-revealed/)
+
+**Machine Learning Performance Improvement Cheat Sheet**
+
+- intro: 32 Tips, Tricks and Hacks That You Can Use To Make Better Predictions.
+- blog: [http://machinelearningmastery.com/machine-learning-performance-improvement-cheat-sheet/](http://machinelearningmastery.com/machine-learning-performance-improvement-cheat-sheet/)
 
 ## Model evaluation, model selection, and algorithm selection in machine learning
 
