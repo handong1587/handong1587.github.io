@@ -135,3 +135,9 @@ This package also includes implementation of RBM based collaborative filtering m
 **Deep Learning for Recommender Systems**
 
 - youtube: [https://www.youtube.com/watch?v=KZ7bcfYGuxw](https://www.youtube.com/watch?v=KZ7bcfYGuxw)
+
+# Resources
+
+**Recommender Systems with Deep Learning**
+
+[https://amundtveit.com/2016/11/20/recommender-systems-with-deep-learning/](https://amundtveit.com/2016/11/20/recommender-systems-with-deep-learning/)

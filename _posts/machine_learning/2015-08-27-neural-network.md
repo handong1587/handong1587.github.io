@@ -185,6 +185,7 @@ date: 2015-08-27
 
 - part 1: [https://medium.com/the-quarter-espresso/introduction-of-neural-redis-part-1-fa13c1faeef1#.v4sqluonf](https://medium.com/the-quarter-espresso/introduction-of-neural-redis-part-1-fa13c1faeef1#.v4sqluonf)
 - part 2: [https://medium.com/the-quarter-espresso/introduction-of-neural-redis-part-2-6c22b42f412c#.gt452jx8c](https://medium.com/the-quarter-espresso/introduction-of-neural-redis-part-2-6c22b42f412c#.gt452jx8c)
+- part 3: [https://medium.com/the-quarter-espresso/introduction-of-neural-redis-part-3-9d59012120a#.wo9gblc1u](https://medium.com/the-quarter-espresso/introduction-of-neural-redis-part-3-9d59012120a#.wo9gblc1u)
 
 **Neural Nets in native Haskell**
 

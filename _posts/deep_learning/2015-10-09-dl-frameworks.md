@@ -842,3 +842,7 @@ Implementations and ideas are largely based on papers from arxiv and implementat
 
 - youtube: [https://www.youtube.com/watch?v=MDP9FfsNx60](https://www.youtube.com/watch?v=MDP9FfsNx60)
 - github: [https://github.com/llSourcell/tensorflow_vs_theano](https://github.com/llSourcell/tensorflow_vs_theano)
+
+**DL4J vs. Torch vs. Theano vs. Caffe vs. TensorFlow**
+
+[https://deeplearning4j.org/compare-dl4j-torch7-pylearn.html](https://deeplearning4j.org/compare-dl4j-torch7-pylearn.html)

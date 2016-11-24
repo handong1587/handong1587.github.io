@@ -9,6 +9,11 @@ date: 2015-10-09
 
 ![](/assets/cnn-materials/LeNet5.png)
 
+**Deep learning**
+
+- intro: From Wikipedia, the free encyclopedia
+- blog: [https://www.wikiwand.com/en/Deep_learning](https://www.wikiwand.com/en/Deep_learning)
+
 **VGG Convolutional Neural Networks Practical**
 
 ![](http://www.robots.ox.ac.uk/~vgg/practicals/cnn/images/cover.png)
@@ -461,6 +466,10 @@ Machine learning workflow, Extracting feaures from images (colours, edges, corne
 
 - blog: [https://www.oreilly.com/ideas/the-hard-thing-about-deep-learning](https://www.oreilly.com/ideas/the-hard-thing-about-deep-learning)
 
+**The hard thing about deep learning**
+
+- blog: [https://www.oreilly.com/ideas/the-hard-thing-about-deep-learning](https://www.oreilly.com/ideas/the-hard-thing-about-deep-learning)
+
 # Convolution
 
 ![](/assets/cnn-materials/conv.jpg)
@@ -595,3 +604,20 @@ Machine learning workflow, Extracting feaures from images (colours, edges, corne
 **TensorFlow saving/restoring and mixing multiple models**
 
 [https://blog.metaflow.fr/tensorflow-saving-restoring-and-mixing-multiple-models-c4c94d5d7125#.242xy4d46](https://blog.metaflow.fr/tensorflow-saving-restoring-and-mixing-multiple-models-c4c94d5d7125#.242xy4d46)
+
+**Getting to Know TensorFlow**
+
+- blog: [https://hackernoon.com/machine-learning-with-tensorflow-8873fdee2b68#.90j2jz5av](https://hackernoon.com/machine-learning-with-tensorflow-8873fdee2b68#.90j2jz5av)
+
+# Keras
+
+**Keras tutorial**
+
+- intro: Tutorial teaching the basics of Keras and some deep learning concepts
+- github: [https://github.com/jfsantos/keras-tutorial](https://github.com/jfsantos/keras-tutorial)
+
+# Torch
+
+**Torch Developer Guide**
+
+- github: [https://github.com/Atcold/Torch-Developer-Guide](https://github.com/Atcold/Torch-Developer-Guide)

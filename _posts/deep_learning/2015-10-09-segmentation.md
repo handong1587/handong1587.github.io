@@ -302,6 +302,13 @@ fine-tune the trained network with more challenging examples later
 
 - arxiv: [https://arxiv.org/abs/1611.01962](https://arxiv.org/abs/1611.01962)
 
+## RefineNet
+
+**RefineNet: Multi-Path Refinement Networks with Identity Mappings for High-Resolution Semantic Segmentation**
+
+- arxiv: [https://arxiv.org/abs/1611.06612](https://arxiv.org/abs/1611.06612)
+- github: [https://github.com/guosheng/refinenet](https://github.com/guosheng/refinenet)
+
 # Instance Segmentation
 
 **Simultaneous Detection and Segmentation**
