@@ -29,6 +29,11 @@ date: 2015-10-01
 
 - youtube: [https://www.youtube.com/user/gametheoryonline/playlists](https://www.youtube.com/user/gametheoryonline/playlists)
 
+**Computer Science video courses**
+
+- intro: List of Computer Science courses with video lectures. 
+- github: [https://github.com/Developer-Y/cs-video-courses](https://github.com/Developer-Y/cs-video-courses)
+
 ## Database Systems
 
 **CMU 15-721 (SPRING 2016): Database Systems**

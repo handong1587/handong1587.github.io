@@ -601,6 +601,7 @@ Compressed model is less than 500KB
 
 - intro: COLING 2016. University of Science and Technology of China & Baidu
 - arxiv: [https://arxiv.org/abs/1610.09889](https://arxiv.org/abs/1610.09889)
+- blog: [http://freecoder.me/archives/213.html](http://freecoder.me/archives/213.html)
 
 # Weiqi (Go)
 

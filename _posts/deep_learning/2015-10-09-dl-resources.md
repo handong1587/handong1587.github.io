@@ -64,6 +64,7 @@ date: 2015-10-09
 - arxiv: [http://arxiv.org/abs/1502.03167](http://arxiv.org/abs/1502.03167)
 - blog: [https://standardfrancis.wordpress.com/2015/04/16/batch-normalization/](https://standardfrancis.wordpress.com/2015/04/16/batch-normalization/)
 - notes: [http://blog.csdn.net/happynear/article/details/44238541](http://blog.csdn.net/happynear/article/details/44238541)
+- github: [https://github.com/lim0606/caffe-googlenet-bn](https://github.com/lim0606/caffe-googlenet-bn)
 
 ## Inception-V3
 
