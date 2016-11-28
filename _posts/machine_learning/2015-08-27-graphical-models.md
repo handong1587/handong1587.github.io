@@ -13,6 +13,13 @@ date: 2015-08-27
 - instructor: Daphne Koller, Professor
 - coursera: [https://www.coursera.org/learn/probabilistic-graphical-models](https://www.coursera.org/learn/probabilistic-graphical-models)
 
+# Tutorials
+
+**Scalable learning of graphical models: A KDD'16 Tutorial**
+
+- homepage: [http://www.francois-petitjean.com/Research/KDD-2016-Tutorial/](http://www.francois-petitjean.com/Research/KDD-2016-Tutorial/)
+- mirror: [https://pan.baidu.com/s/1kUPCeLT](https://pan.baidu.com/s/1kUPCeLT)
+
 # Resources
 
 **A Brief Introduction to Graphical Models and Bayesian Networks**

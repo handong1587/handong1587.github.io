@@ -145,6 +145,10 @@ date: 2015-10-09
 - homepage: [http://uvadlc.github.io/](http://uvadlc.github.io/)
 - assignments: [https://github.com/uvadlc/uvadlc_practicals_2016](https://github.com/uvadlc/uvadlc_practicals_2016)
 
+**Deep Learning with TensorFlow**
+
+[https://bigdatauniversity.com/courses/deep-learning-tensorflow/](https://bigdatauniversity.com/courses/deep-learning-tensorflow/)
+
 # Computer Vision
 
 **Stanford CS231n: Convolutional Neural Networks for Visual Recognition**

@@ -166,6 +166,11 @@ in particular Intel® Xeon processors (HSW+) and Intel® Xeon Phi processors
 
 - github: [https://github.com/deeplearning4j/docker](https://github.com/deeplearning4j/docker)
 
+**Deeplearning4J Examples**
+
+- intro: Deeplearning4j Examples (DL4J, DL4J Spark, DataVec)
+- github: [https://github.com/deeplearning4j/dl4j-examples](https://github.com/deeplearning4j/dl4j-examples)
+
 # DeepLearningKit
 
 **DeepLearningKit: Open Source Deep Learning Framework for Apple's tvOS, iOS and OS X**
@@ -302,6 +307,10 @@ in particular Intel® Xeon processors (HSW+) and Intel® Xeon Phi processors
 **MXNet: A Flexible and Efficient Machine Learning Library for Heterogeneous Distributed Systems**
 
 - paper: [https://raw.githubusercontent.com/dmlc/web-data/master/mxnet/paper/mxnet-learningsys.pdf](https://raw.githubusercontent.com/dmlc/web-data/master/mxnet/paper/mxnet-learningsys.pdf)
+
+**MXNet Model Gallery: Pre-trained Models of DMLC Project**
+
+- github: [https://github.com/dmlc/mxnet-model-gallery](https://github.com/dmlc/mxnet-model-gallery)
 
 **a short introduction to mxnet design and implementation (chinese)**
 

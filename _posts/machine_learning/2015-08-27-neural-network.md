@@ -87,6 +87,11 @@ date: 2015-08-27
 
 [http://www.kdnuggets.com/2016/11/quick-introduction-neural-networks.html](http://www.kdnuggets.com/2016/11/quick-introduction-neural-networks.html)
 
+**Starting with Neural Networks in Swift 3.0**
+
+- blog: [https://medium.com/@michael.m/starting-with-neural-networks-in-swift-3-0-d260c1f0bf74#.rghtp2ip3](https://medium.com/@michael.m/starting-with-neural-networks-in-swift-3-0-d260c1f0bf74#.rghtp2ip3)
+- bitbucket: [https://bitbucket.org/mmick66/neural1](https://bitbucket.org/mmick66/neural1)
+
 ## Backpropagation
 
 **A Step by Step Backpropagation Example**

@@ -244,6 +244,10 @@ Contains all the popular DL frameworks (TensorFlow, Theano, Torch, Caffe, etc.)
 
 [http://datacenterfrontier.com/intel-unveils-fpga-to-accelerate-ai-neural-networks/](http://datacenterfrontier.com/intel-unveils-fpga-to-accelerate-ai-neural-networks/)
 
+**Deep Learning with FPGA**
+
+- blog: [https://amundtveit.com/2016/11/23/deep-learning-with-fpga/](https://amundtveit.com/2016/11/23/deep-learning-with-fpga/)
+
 # ARM / Processor
 
 **'Neural network' spotted deep inside Samsung's Galaxy S7 silicon brain: Secrets of Exynos M1 cores spilled**

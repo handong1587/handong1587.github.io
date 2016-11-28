@@ -518,6 +518,10 @@ fine-tune the trained network with more challenging examples later
 
 - arxiv: [https://arxiv.org/abs/1611.05435](https://arxiv.org/abs/1611.05435)
 
+**One-Shot Video Object Segmentation**
+
+- arxiv: [https://arxiv.org/abs/1611.05198](https://arxiv.org/abs/1611.05198)
+
 # Leaderboard
 
 **Segmentation Results: VOC2012 BETA: Competition "comp6" (train on own data)**

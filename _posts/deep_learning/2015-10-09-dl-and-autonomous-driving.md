@@ -103,6 +103,10 @@ date: 2015-10-09
 
 - arxiv: [https://arxiv.org/abs/1610.03295](https://arxiv.org/abs/1610.03295)
 
+**Learning from Maps: Visual Common Sense for Autonomous Driving**
+
+- arxiv: [https://arxiv.org/abs/1611.08583](https://arxiv.org/abs/1611.08583)
+
 # Projects
 
 **Caffe-Autopilot: Car autopilot software that uses C++, BVLC Caffe, OpenCV, and SFML**

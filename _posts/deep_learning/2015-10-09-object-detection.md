@@ -245,6 +245,7 @@ bounding boxes (which are shared for these categories).
 - video: [http://weibo.com/p/2304447a2326da963254c963c97fb05dd3a973](http://weibo.com/p/2304447a2326da963254c963c97fb05dd3a973)
 - github(MXNet): [https://github.com/zhreshold/mxnet-ssd](https://github.com/zhreshold/mxnet-ssd)
 - github: [https://github.com/zhreshold/mxnet-ssd.cpp](https://github.com/zhreshold/mxnet-ssd.cpp)
+- github(Keras): [https://github.com/rykov8/ssd_keras](https://github.com/rykov8/ssd_keras)
 
 **为什么SSD(Single Shot MultiBox Detector)对小目标的检测效果不好？**
 
@@ -584,6 +585,7 @@ This task involves predicting the salient regions of an image given by human eye
 
 **Weakly Supervised Top-down Salient Object Detection**
 
+- intro: Nanyang Technological University
 - arxiv: [https://arxiv.org/abs/1611.05345](https://arxiv.org/abs/1611.05345)
 
 # Specific Object Deteciton
@@ -996,3 +998,9 @@ We additionally provide an implementation of the [ReInspect](https://github.com/
 **ou Only Look Twice — Multi-Scale Object Detection in Satellite Imagery With Convolutional Neural Networks**
 
 - part 1: [https://medium.com/the-downlinq/you-only-look-twice-multi-scale-object-detection-in-satellite-imagery-with-convolutional-neural-38dad1cf7571#.fmmi2o3of](https://medium.com/the-downlinq/you-only-look-twice-multi-scale-object-detection-in-satellite-imagery-with-convolutional-neural-38dad1cf7571#.fmmi2o3of)
+
+**Faster R-CNN Pedestrian and Car Detection**
+
+- blog: [https://bigsnarf.wordpress.com/2016/11/07/faster-r-cnn-pedestrian-and-car-detection/](https://bigsnarf.wordpress.com/2016/11/07/faster-r-cnn-pedestrian-and-car-detection/)
+- ipn: [https://gist.github.com/bigsnarfdude/2f7b2144065f6056892a98495644d3e0#file-demo_faster_rcnn_notebook-ipynb](https://gist.github.com/bigsnarfdude/2f7b2144065f6056892a98495644d3e0#file-demo_faster_rcnn_notebook-ipynb)
+- github: [https://github.com/bigsnarfdude/Faster-RCNN_TF](https://github.com/bigsnarfdude/Faster-RCNN_TF)

@@ -609,12 +609,20 @@ Machine learning workflow, Extracting feaures from images (colours, edges, corne
 
 - blog: [https://hackernoon.com/machine-learning-with-tensorflow-8873fdee2b68#.90j2jz5av](https://hackernoon.com/machine-learning-with-tensorflow-8873fdee2b68#.90j2jz5av)
 
+**Image Classification and Segmentation with Tensorflow and TF-Slim**
+
+[http://warmspringwinds.github.io/tensorflow/tf-slim/2016/10/30/image-classification-and-segmentation-using-tensorflow-and-tf-slim/](http://warmspringwinds.github.io/tensorflow/tf-slim/2016/10/30/image-classification-and-segmentation-using-tensorflow-and-tf-slim/)
+
 # Keras
 
 **Keras tutorial**
 
 - intro: Tutorial teaching the basics of Keras and some deep learning concepts
 - github: [https://github.com/jfsantos/keras-tutorial](https://github.com/jfsantos/keras-tutorial)
+
+**Keras Tutorial: The Ultimate Beginner's Guide to Deep Learning in Python**
+
+[https://elitedatascience.com/keras-tutorial-deep-learning-in-python](https://elitedatascience.com/keras-tutorial-deep-learning-in-python)
 
 # Torch
 

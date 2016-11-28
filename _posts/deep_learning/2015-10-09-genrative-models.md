@@ -31,6 +31,7 @@ date: 2015-10-09
 
 - arxiv: [https://arxiv.org/abs/1610.09585](https://arxiv.org/abs/1610.09585)
 - github: [https://github.com/buriburisuri/ac-gan](https://github.com/buriburisuri/ac-gan)
+- github(Keras): [https://github.com/lukedeo/keras-acgan](https://github.com/lukedeo/keras-acgan)
 
 **On the Quantitative Analysis of Decoder-Based Generative Models**
 
@@ -131,6 +132,25 @@ date: 2015-10-09
 - project page: [https://phillipi.github.io/pix2pix/](https://phillipi.github.io/pix2pix/)
 - arxiv: [https://arxiv.org/abs/1611.07004](https://arxiv.org/abs/1611.07004)
 - github: [https://github.com/phillipi/pix2pix](https://github.com/phillipi/pix2pix)
+- github(TensorFlow): [https://github.com/yenchenlin/pix2pix-tensorflow](https://github.com/yenchenlin/pix2pix-tensorflow)
+
+**ml4a-invisible-cities**
+
+- project page: [https://opendot.github.io/ml4a-invisible-cities/](https://opendot.github.io/ml4a-invisible-cities/)
+- arxiv: [https://github.com/opendot/ml4a-invisible-cities](https://github.com/opendot/ml4a-invisible-cities)
+
+**Semi-Supervised Learning with Context-Conditional Generative Adversarial Networks**
+
+- arxiv: [https://arxiv.org/abs/1611.06430](https://arxiv.org/abs/1611.06430)
+
+**Associative Adversarial Networks**
+
+- intro: NIPS 2016 Workshop on Adversarial Training
+- arxiv: [https://arxiv.org/abs/1611.06953](https://arxiv.org/abs/1611.06953)
+
+**Temporal Generative Adversarial Nets**
+
+- arxiv: [https://arxiv.org/abs/1611.06624](https://arxiv.org/abs/1611.06624)
 
 # Projects
 

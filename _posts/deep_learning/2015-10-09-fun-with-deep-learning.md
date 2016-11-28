@@ -211,6 +211,11 @@ Compressed model is less than 500KB
 
 - arxiv: [https://arxiv.org/abs/1611.05368](https://arxiv.org/abs/1611.05368)
 
+**Controlling Perceptual Factors in Neural Style Transfer**
+
+- intro: University of Tubingen & Adobe Research
+- arxiv: [https://arxiv.org/abs/1611.07865](https://arxiv.org/abs/1611.07865)
+
 ## Neural Art On Audio
 
 **MSc AI Project on generative deep networks and neural style transfer for audio**
@@ -732,6 +737,10 @@ Compressed model is less than 500KB
 - github: [https://github.com/ml4a/ml4a.github.io](https://github.com/ml4a/ml4a.github.io)
 - notes: [http://www.kdnuggets.com/2016/04/machine-learning-artists-video-lectures-notes.html](http://www.kdnuggets.com/2016/04/machine-learning-artists-video-lectures-notes.html)
 - blog: [https://medium.com/@genekogan/machine-learning-for-artists-e93d20fdb097#.25w95beqb](https://medium.com/@genekogan/machine-learning-for-artists-e93d20fdb097#.25w95beqb)
+
+**The Neural Aesthetic @ SchoolOfMa, Summer 2016**
+
+[http://ml4a.github.io/classes/neural-aesthetic/](http://ml4a.github.io/classes/neural-aesthetic/)
 
 # Blogs
 

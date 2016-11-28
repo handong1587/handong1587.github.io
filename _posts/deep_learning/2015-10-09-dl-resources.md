@@ -375,6 +375,10 @@ testing it on the MNIST handwritten digits data.
 - arxiv: [https://arxiv.org/abs/1610.05755](https://arxiv.org/abs/1610.05755)
 - github: [https://github.com/tensorflow/models/tree/master/differential_privacy/multiple_teachers](https://github.com/tensorflow/models/tree/master/differential_privacy/multiple_teachers)
 
+**Infinite Variational Autoencoder for Semi-Supervised Learning**
+
+- arxiv: [https://arxiv.org/abs/1611.07800](https://arxiv.org/abs/1611.07800)
+
 # Unsupervised Learning
 
 Restricted Boltzmann Machine (RBM), Sparse Coding and Auto-encoder
@@ -1056,6 +1060,7 @@ with fast exact probabilistic inference over many layers."
 **Semi-Supervised Classification with Graph Convolutional Networks**
 
 - arxiv: [http://arxiv.org/abs/1609.02907](http://arxiv.org/abs/1609.02907)
+- github: [https://github.com/tkipf/gcn](https://github.com/tkipf/gcn)
 
 **Graph Based Convolutional Neural Network**
 
@@ -1075,6 +1080,11 @@ with fast exact probabilistic inference over many layers."
 **DeepGraph: Graph Structure Predicts Network Growth**
 
 - arxiv: [https://arxiv.org/abs/1610.06251](https://arxiv.org/abs/1610.06251)
+
+**Deep Learning with Sets and Point Clouds**
+
+- intro: CMU
+- arxiv: [https://arxiv.org/abs/1611.04500](https://arxiv.org/abs/1611.04500)
 
 # Deep Learning with Traditional Machine Learning Methods
 
@@ -1218,6 +1228,12 @@ with fast exact probabilistic inference over many layers."
 
 - blog: [https://www.oreilly.com/learning/tensorflow-on-android](https://www.oreilly.com/learning/tensorflow-on-android)
 
+**Experimenting with TensorFlow on Android**
+
+- part 1: [https://medium.com/@mgazar/experimenting-with-tensorflow-on-android-pt-1-362683b31838#.5gbp2d4st](https://medium.com/@mgazar/experimenting-with-tensorflow-on-android-pt-1-362683b31838#.5gbp2d4st)
+- part 2: [https://medium.com/@mgazar/experimenting-with-tensorflow-on-android-part-2-12f3dc294eaf#.2gx3o65f5](https://medium.com/@mgazar/experimenting-with-tensorflow-on-android-part-2-12f3dc294eaf#.2gx3o65f5)
+- github: [https://github.com/MostafaGazar/tensorflow](https://github.com/MostafaGazar/tensorflow)
+
 # Deep Learning in Finance
 
 **Deep Learning in Finance**
@@ -1270,6 +1286,10 @@ with fast exact probabilistic inference over many layers."
 
 - github [https://github.com/tomlepaine/fast-wavenet](https://github.com/tomlepaine/fast-wavenet)
 
+**Speech-to-Text-WaveNet : End-to-end sentence level English speech recognition based on DeepMind's WaveNet and tensorflow**
+
+- github: [https://github.com/buriburisuri/speech-to-text-wavenet](https://github.com/buriburisuri/speech-to-text-wavenet)
+
 **Wav2Letter: an End-to-End ConvNet-based Speech Recognition System**
 
 - arxiv: [http://arxiv.org/abs/1609.03193](http://arxiv.org/abs/1609.03193)
@@ -1302,6 +1322,11 @@ with fast exact probabilistic inference over many layers."
 **TorchCraft: a Library for Machine Learning Research on Real-Time Strategy Games**
 
 - arxiv: [https://arxiv.org/abs/1611.00625](https://arxiv.org/abs/1611.00625)
+
+**BlizzCon 2016 DeepMind and StarCraft II Deep Learning Panel Transcript**
+
+- part 1: [http://starcraft.blizzplanet.com/blog/comments/blizzcon-2016-deepmind-and-starcraft-ii-deep-learning-panel-transcript](http://starcraft.blizzplanet.com/blog/comments/blizzcon-2016-deepmind-and-starcraft-ii-deep-learning-panel-transcript)
+- part 2: [http://starcraft.blizzplanet.com/blog/comments/blizzcon-2016-deepmind-and-starcraft-ii-deep-learning-panel-transcript/2](http://starcraft.blizzplanet.com/blog/comments/blizzcon-2016-deepmind-and-starcraft-ii-deep-learning-panel-transcript/2)
 
 # Deep Learning in Medicine and Biology
 
@@ -1612,6 +1637,11 @@ with fast exact probabilistic inference over many layers."
 - intro: MIT & Google Brain & UC Berkeley & Google DeepMind
 - arxiv: [https://arxiv.org/abs/1611.03530](https://arxiv.org/abs/1611.03530)
 
+**Local minima in training of deep networks**
+
+- intro: DeepMind
+- arxiv: [https://arxiv.org/abs/1611.06310](https://arxiv.org/abs/1611.06310)
+
 ## STDP
 
 **A biological gradient descent for prediction through a combination of STDP and homeostatic plasticity**
@@ -1646,6 +1676,12 @@ with fast exact probabilistic inference over many layers."
 **Zero-Shot (Deep) Learning**
 
 [https://amundtveit.com/2016/11/18/zero-shot-deep-learning/](https://amundtveit.com/2016/11/18/zero-shot-deep-learning/)
+
+## Incremental Learning
+
+**iCaRL: Incremental Classifier and Representation Learning**
+
+- arxiv: [https://arxiv.org/abs/1611.07725](https://arxiv.org/abs/1611.07725)
 
 ## Computer Vision
 
@@ -1689,6 +1725,10 @@ with fast exact probabilistic inference over many layers."
 **Optical Flow Estimation using a Spatial Pyramid Network**
 
 - arxiv: [https://arxiv.org/abs/1611.00850](https://arxiv.org/abs/1611.00850)
+
+**DSAC - Differentiable RANSAC for Camera Localization**
+
+- arxiv: [https://arxiv.org/abs/1611.05705](https://arxiv.org/abs/1611.05705)
 
 ### All-In-One Network
 
@@ -2000,6 +2040,10 @@ Compatible with Theano and TensorFlow. Optimized for Twitter.
 **Deep Learning and applications in Startups, CV, Text Mining, NLP**
 
 - github: [https://github.com/lipiji/app-dl](https://github.com/lipiji/app-dl)
+
+**ml4a-guides - a collection of practical resources for working with machine learning software, including code and tutorials**
+
+[http://ml4a.github.io/guides/](http://ml4a.github.io/guides/)
 
 ## Arxiv Pages
 

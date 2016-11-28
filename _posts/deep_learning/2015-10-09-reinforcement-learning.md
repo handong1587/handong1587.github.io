@@ -346,6 +346,7 @@ Incorporates dropout regularization and convolutional neural networks with a sep
 
 - arxiv: [http://arxiv.org/abs/1609.05521](http://arxiv.org/abs/1609.05521)
 - demo: [https://www.youtube.com/playlist?list=PLduGZax9wmiHg-XPFSgqGg8PEAV51q1FT](https://www.youtube.com/playlist?list=PLduGZax9wmiHg-XPFSgqGg8PEAV51q1FT)
+- notes: [https://blog.acolyer.org/2016/11/23/playing-fps-games-with-deep-reinforcement-learning/](https://blog.acolyer.org/2016/11/23/playing-fps-games-with-deep-reinforcement-learning/)
 
 **Reset-Free Guided Policy Search: Efficient Deep Reinforcement Learning with Stochastic Initial States**
 
@@ -370,6 +371,11 @@ Incorporates dropout regularization and convolutional neural networks with a sep
 
 - intro: DeepMind
 - arxiv: [https://arxiv.org/abs/1611.05763](https://arxiv.org/abs/1611.05763)
+
+**A Deep Learning Approach for Joint Video Frame and Reward Prediction in Atari Games**
+
+- intro: Graduate Training Center of Neuroscience & MSR
+- arxiv: [https://arxiv.org/abs/1611.07078](https://arxiv.org/abs/1611.07078)
 
 # Projects
 

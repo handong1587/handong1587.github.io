@@ -212,6 +212,16 @@ after the embedding and recurrent layers of the RNN."
 
 - arxiv: [https://arxiv.org/abs/1611.05321](https://arxiv.org/abs/1611.05321)
 
+**A Hierarchical Approach for Generating Descriptive Image Paragraphs**
+
+- intro: Stanford University
+- arxiv: [https://arxiv.org/abs/1611.06607](https://arxiv.org/abs/1611.06607)
+
+**Dense Captioning with Joint Inference and Visual Context**
+
+- intro: Snap Inc.
+- arxiv: [https://arxiv.org/abs/1611.06949](https://arxiv.org/abs/1611.06949)
+
 # Object Descriptions
 
 **Generation and Comprehension of Unambiguous Object Descriptions**

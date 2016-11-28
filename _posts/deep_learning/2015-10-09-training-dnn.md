@@ -274,6 +274,11 @@ date: 2015-10-09
 - arxiv: [https://arxiv.org/abs/1611.05138](https://arxiv.org/abs/1611.05138)
 - github(Lasagne): [https://github.com/Shuangfei/s3pool](https://github.com/Shuangfei/s3pool)
 
+**Inductive Bias of Deep Convolutional Networks through Pooling Geometry**
+
+- arxiv: [https://arxiv.org/abs/1605.06743](https://arxiv.org/abs/1605.06743)
+- github: [https://github.com/HUJI-Deep/inductive-pooling](https://github.com/HUJI-Deep/inductive-pooling)
+
 # Optimization Methods
 
 **On Optimization Methods for Deep Learning**

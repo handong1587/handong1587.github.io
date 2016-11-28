@@ -123,6 +123,11 @@ date: 2015-10-09
 - paper: [http://openreview.net/pdf?id=BJrFC6ceg](http://openreview.net/pdf?id=BJrFC6ceg)
 - github: [https://github.com/openai/pixel-cnn](https://github.com/openai/pixel-cnn)
 
+**Generating Interpretable Images with Controllable Structure**
+
+- intro: Google DeepMind
+- paper: [http://www.scottreed.info/files/iclr2017.pdf](http://www.scottreed.info/files/iclr2017.pdf)
+
 # Video Generation
 
 **Generating Videos with Scene Dynamics**

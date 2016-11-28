@@ -52,6 +52,10 @@ Other awesome lists can be found in this [list](https://github.com/sindresorhus/
 
 [https://www.infoq.com/articles/getting-started-ml](https://www.infoq.com/articles/getting-started-ml)
 
+**Getting Started with Machine Learning: For the absolute beginners and fifth graders**
+
+[https://medium.com/@suffiyanz/getting-started-with-machine-learning-f15df1c283ea#.fqipdiyyn](https://medium.com/@suffiyanz/getting-started-with-machine-learning-f15df1c283ea#.fqipdiyyn)
+
 ## Machine Learning is Fun!
 
 **Machine Learning is Fun! - The world’s easiest introduction to Machine Learning**
@@ -582,7 +586,15 @@ Classic strategies:
 
 - github: [https://github.com/songgc/TF-recomm](https://github.com/songgc/TF-recomm)
 
+**List of Recommender Systems**
+
+- github: [https://github.com/grahamjenson/list_of_recommender_systems](https://github.com/grahamjenson/list_of_recommender_systems)
+
 # Lifelong Learning
+
+**Lifelong Machine Learning**
+
+- book: [https://www.cs.uic.edu/~liub/lifelong-machine-learning.html](https://www.cs.uic.edu/~liub/lifelong-machine-learning.html)
 
 ## NELL (Never Ending Language Learner)
 
@@ -601,6 +613,16 @@ Classic strategies:
 **Expert Gate: Lifelong Learning with a Network of Experts**
 
 - arxiv: [https://arxiv.org/abs/1611.06194](https://arxiv.org/abs/1611.06194)
+
+**Lifelong Machine Learning and Computer Reading the Web**
+
+- intro: KDD 2016 Tutorial
+- paper: [https://www.cs.uic.edu/~liub/Lifelong-Machine-Learning-Tutorial-KDD-2016.pdf](https://www.cs.uic.edu/~liub/Lifelong-Machine-Learning-Tutorial-KDD-2016.pdf)
+
+**Lifelong Machine Learning for Natural Language Processing**
+
+- intro: EMNLP 2016 Tutorial
+- slides: [http://www.emnlp2016.net/tutorials/chen-liu-t3.pdf](http://www.emnlp2016.net/tutorials/chen-liu-t3.pdf)
 
 # One Shot Learning
 
@@ -924,7 +946,7 @@ AUC: Area Under the Curve
 
 **LambdaNet: Purely functional artificial neural network library implemented in Haskell**
 
- -github: [https://github.com/jbarrow/LambdaNet](https://github.com/jbarrow/LambdaNet)
+- github: [https://github.com/jbarrow/LambdaNet](https://github.com/jbarrow/LambdaNet)
 
 **rustlearn: Machine learning crate for Rust**
 
@@ -1037,6 +1059,10 @@ for creating complex software in C++ to solve real world problems.
 
 - intro: Neural networks, regression and feature learning in Clojure.
 - github: [https://github.com/thinktopic/cortex](https://github.com/thinktopic/cortex)
+
+**ELI5: A library for debugging machine learning classifiers and explaining their predictions**
+
+- github: [https://github.com/TeamHG-Memex/eli5](https://github.com/TeamHG-Memex/eli5)
 
 # Resources
 
