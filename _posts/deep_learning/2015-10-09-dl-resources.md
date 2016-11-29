@@ -929,7 +929,9 @@ with fast exact probabilistic inference over many layers."
 
 **CliqueCNN: Deep Unsupervised Exemplar Learning**
 
+- intro: NIPS 2016
 - arxiv: [http://arxiv.org/abs/1608.08792](http://arxiv.org/abs/1608.08792)
+- github: [https://github.com/asanakoy/cliquecnn](https://github.com/asanakoy/cliquecnn)
 
 **Convexified Convolutional Neural Networks**
 
