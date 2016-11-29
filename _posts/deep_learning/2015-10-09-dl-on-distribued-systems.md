@@ -22,6 +22,11 @@ date: 2015-10-09
 - paper: [http://www.cs.toronto.edu/~ranzato/publications/DistBeliefNIPS2012_withAppendix.pdf](http://www.cs.toronto.edu/~ranzato/publications/DistBeliefNIPS2012_withAppendix.pdf)
 - slides: [http://admis.fudan.edu.cn/~yfhuang/files/LSDDN_slide.pdf](http://admis.fudan.edu.cn/~yfhuang/files/LSDDN_slide.pdf)
 
+**Implementation of a Practical Distributed Calculation System with Browsers and JavaScript, and Application to Distributed Deep Learning**
+
+- project page: [http://mil-tokyo.github.io/](http://mil-tokyo.github.io/)
+- arxiv: [https://arxiv.org/abs/1503.05743](https://arxiv.org/abs/1503.05743)
+
 ## SparkNet
 
 **SparkNet: Training Deep Networks in Spark**

@@ -207,6 +207,10 @@ date: 2015-10-09
 - intro: ECCV 2016
 - paper: [http://ydwen.github.io/papers/WenECCV16.pdf](http://ydwen.github.io/papers/WenECCV16.pdf)
 
+**Range Loss for Deep Face Recognition with Long-tail**
+
+- arxiv: [https://arxiv.org/abs/1611.08976](https://arxiv.org/abs/1611.08976)
+
 #### Projects
 
 **Using MXNet for Face-related Algorithm**

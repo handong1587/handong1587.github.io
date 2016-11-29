@@ -76,6 +76,10 @@ date: 2015-10-09
 
 - arxiv: [http://arxiv.org/abs/1609.06782](http://arxiv.org/abs/1609.06782)
 
+**Fast Video Classification via Adaptive Cascading of Deep Models**
+
+- arxiv: [https://arxiv.org/abs/1611.06453](https://arxiv.org/abs/1611.06453)
+
 ## Action Recognition
 
 **3d convolutional neural networks for human action recognition**
@@ -273,6 +277,10 @@ extract saptio-temporal features to represent the video using the CNNs."
 
 - arxiv: [https://arxiv.org/abs/1611.05267](https://arxiv.org/abs/1611.05267)
 
+**AdaScan: Adaptive Scan Pooling in Deep Convolutional Neural Networks for Human Action Recognition in Videos**
+
+- arxiv: [https://arxiv.org/abs/1611.08240](https://arxiv.org/abs/1611.08240)
+
 ### Projects
 
 **A Torch Library for Action Recognition and Detection Using CNNs and LSTMs**
@@ -430,6 +438,10 @@ alleviates the problem of video browsing, editing and indexing.
 ![](https://cloud.githubusercontent.com/assets/10147637/7966603/228179fe-09f3-11e5-9ea7-31e76c8248fe.png)
 
 - blog: [http://public.hudl.com/bits/archives/2015/06/05/highlights/?utm_source=tuicool&utm_medium=referral](http://public.hudl.com/bits/archives/2015/06/05/highlights/?utm_source=tuicool&utm_medium=referral)
+
+**Real-Time Video Highlights for Yahoo Esports**
+
+- arxiv: [https://arxiv.org/abs/1611.08780](https://arxiv.org/abs/1611.08780)
 
 # Video Understanding
 

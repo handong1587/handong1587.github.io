@@ -260,6 +260,20 @@ to decompose it into the multiplications of thinned dense matrices"
 
 - arxiv: [https://arxiv.org/abs/1611.05162](https://arxiv.org/abs/1611.05162)
 
+**LCNN: Lookup-based Convolutional Neural Network**
+
+- intro: "Our fastest LCNN offers 37.6x speed up over AlexNet while maintaining 44.3% top-1 accuracy."
+- arxiv: [https://arxiv.org/abs/1611.06473](https://arxiv.org/abs/1611.06473)
+
+**Deep Tensor Convolution on Multicores**
+
+- intro: present the first practical CPU implementation of tensor convolution optimized for deep networks of small kernels
+- arxiv: [https://arxiv.org/abs/1611.06565](https://arxiv.org/abs/1611.06565)
+
+**Training Sparse Neural Networks**
+
+- arxiv: [https://arxiv.org/abs/1611.06694](https://arxiv.org/abs/1611.06694)
+
 # Projects
 
 **Accelerate Convolutional Neural Networks**

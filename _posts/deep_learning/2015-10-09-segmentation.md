@@ -293,6 +293,10 @@ fine-tune the trained network with more challenging examples later
 - intro: ICIP 2016 Best Paper / Student Paper Finalist
 - arxiv: [https://arxiv.org/abs/1609.09220](https://arxiv.org/abs/1609.09220)
 
+**Efficient Convolutional Neural Network with Binary Quantization Layer**
+
+- arxiv: [https://arxiv.org/abs/1611.06764](https://arxiv.org/abs/1611.06764)
+
 **Mixed context networks for semantic segmentation**
 
 - intro: Hikvision Research Institute
@@ -308,6 +312,23 @@ fine-tune the trained network with more challenging examples later
 
 - arxiv: [https://arxiv.org/abs/1611.06612](https://arxiv.org/abs/1611.06612)
 - github: [https://github.com/guosheng/refinenet](https://github.com/guosheng/refinenet)
+
+**Full-Resolution Residual Networks for Semantic Segmentation in Street Scenes**
+
+- arxiv: [https://arxiv.org/abs/1611.08323](https://arxiv.org/abs/1611.08323)
+
+**Semantic Segmentation using Adversarial Networks**
+
+- intro: NIPS Workshop on Adversarial Training, Dec 2016, Barcelona, Spain
+- arxiv: [https://arxiv.org/abs/1611.08408](https://arxiv.org/abs/1611.08408)
+
+**Improving Fully Convolution Network for Semantic Segmentation**
+
+- arxiv: [https://arxiv.org/abs/1611.08986](https://arxiv.org/abs/1611.08986)
+
+**The One Hundred Layers Tiramisu: Fully Convolutional DenseNets for Semantic Segmentation**
+
+- arxiv: [https://arxiv.org/abs/1611.09326](https://arxiv.org/abs/1611.09326)
 
 # Instance Segmentation
 
@@ -411,9 +432,24 @@ fine-tune the trained network with more challenging examples later
 
 **Translation-aware Fully Convolutional Instance Segmentation**
 
+**Fully Convolutional Instance-aware Semantic Segmentation**
+
 - intro: winning entry of COCO segmentation challenge 2016
+- arxiv: [https://arxiv.org/abs/1611.07709](https://arxiv.org/abs/1611.07709)
 - github: [https://github.com/daijifeng001/TA-FCN](https://github.com/daijifeng001/TA-FCN)
 - slides: [https://onedrive.live.com/?cid=f371d9563727b96f&id=F371D9563727B96F%2197213&authkey=%21AEYOyOirjIutSVk](https://onedrive.live.com/?cid=f371d9563727b96f&id=F371D9563727B96F%2197213&authkey=%21AEYOyOirjIutSVk)
+
+**InstanceCut: from Edges to Instances with MultiCut**
+
+- arxiv: [https://arxiv.org/abs/1611.08272](https://arxiv.org/abs/1611.08272)
+
+**Deep Watershed Transform for Instance Segmentation**
+
+- arxiv: [https://arxiv.org/abs/1611.08303](https://arxiv.org/abs/1611.08303)
+
+**Object Detection Free Instance Segmentation With Labeling Transformations**
+
+- arxiv: [https://arxiv.org/abs/1611.08991](https://arxiv.org/abs/1611.08991)
 
 # Scene Labeling/Parsing
 
@@ -458,6 +494,10 @@ fine-tune the trained network with more challenging examples later
 **Multi-Path Feedback Recurrent Neural Network for Scene Parsing**
 
 - arxiv: [http://arxiv.org/abs/1608.07706](http://arxiv.org/abs/1608.07706)
+
+**Scene Labeling using Recurrent Neural Networks with Explicit Long Range Contextual Dependency**
+
+- arxiv: [https://arxiv.org/abs/1611.07485](https://arxiv.org/abs/1611.07485)
 
 ## Benchmarks
 

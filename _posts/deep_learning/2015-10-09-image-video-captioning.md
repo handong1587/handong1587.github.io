@@ -308,6 +308,26 @@ after the embedding and recurrent layers of the RNN."
 - intro: ECCV-MM 2016. captioning, commenting, alignment
 - slides: [https://www.microsoft.com/en-us/research/wp-content/uploads/2016/10/Video-and-Language-ECCV-MM-2016-Tao-Mei-Pub.pdf](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/10/Video-and-Language-ECCV-MM-2016-Tao-Mei-Pub.pdf)
 
+**Recurrent Memory Addressing for describing videos**
+
+- arxiv: [https://arxiv.org/abs/1611.06492](https://arxiv.org/abs/1611.06492)
+
+**Video Captioning with Transferred Semantic Attributes**
+
+- arxiv: [https://arxiv.org/abs/1611.07675](https://arxiv.org/abs/1611.07675)
+
+**Adaptive Feature Abstraction for Translating Video to Language**
+
+- arxiv: [https://arxiv.org/abs/1611.07837](https://arxiv.org/abs/1611.07837)
+
+**Semantic Compositional Networks for Visual Captioning**
+
+- arxiv: [https://arxiv.org/abs/1611.08002](https://arxiv.org/abs/1611.08002)
+
+**Hierarchical Boundary-Aware Neural Encoder for Video Captioning**
+
+- arxiv: [https://arxiv.org/abs/1611.09312](https://arxiv.org/abs/1611.09312)
+
 # Projects
 
 **Learning CNN-LSTM Architectures for Image Caption Generation: An implementation of CNN-LSTM image caption generator architecture that achieves close to state-of-the-art results on the MSCOCO dataset.**

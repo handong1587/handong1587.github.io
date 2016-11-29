@@ -107,6 +107,11 @@ date: 2015-10-09
 
 - arxiv: [https://arxiv.org/abs/1611.08583](https://arxiv.org/abs/1611.08583)
 
+**SAD-GAN: Synthetic Autonomous Driving using Generative Adversarial Networks**
+
+- intro: Accepted at the Deep Learning for Action and Interaction Workshop, 30th Conference on Neural Information Processing Systems (NIPS 2016)
+- arxiv: [https://arxiv.org/abs/1611.08788](https://arxiv.org/abs/1611.08788)
+
 # Projects
 
 **Caffe-Autopilot: Car autopilot software that uses C++, BVLC Caffe, OpenCV, and SFML**

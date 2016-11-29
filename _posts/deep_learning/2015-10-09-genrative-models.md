@@ -152,6 +152,11 @@ date: 2015-10-09
 
 - arxiv: [https://arxiv.org/abs/1611.06624](https://arxiv.org/abs/1611.06624)
 
+**Handwriting Profiling using Generative Adversarial Networks**
+
+- intro: Accepted at The Thirty-First AAAI Conference on Artificial Intelligence (AAAI-17 Student Abstract and Poster Program)
+- arxiv: [https://arxiv.org/abs/1611.08789](https://arxiv.org/abs/1611.08789)
+
 # Projects
 
 **Generative Adversarial Networks with Keras**
