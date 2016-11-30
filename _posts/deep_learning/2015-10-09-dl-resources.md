@@ -989,6 +989,15 @@ with fast exact probabilistic inference over many layers."
 - arxiv: [https://arxiv.org/abs/1611.05552](https://arxiv.org/abs/1611.05552)
 - github: [https://github.com/xternalz/DelugeNets](https://github.com/xternalz/DelugeNets)
 
+**Weakly Supervised Cascaded Convolutional Networks**
+
+- arxiv: [https://arxiv.org/abs/1611.08258](https://arxiv.org/abs/1611.08258)
+
+**DeepSetNet: Predicting Sets with Deep Neural Networks**
+
+- intro: multi-class image classification and pedestrian detection
+- arxiv: [https://arxiv.org/abs/1611.08998](https://arxiv.org/abs/1611.08998)
+
 ## Highway Networks
 
 **Highway Networks**
@@ -1154,6 +1163,12 @@ with fast exact probabilistic inference over many layers."
 - intro: ECCV 2016
 - arxiv: [http://arxiv.org/abs/1609.02036](http://arxiv.org/abs/1609.02036)
 - github: [https://github.com/zhirongw/deep-mrf](https://github.com/zhirongw/deep-mrf)
+
+## Conditional Random Fields
+
+**Deep, Dense, and Low-Rank Gaussian Conditional Random Fields**
+
+- arxiv: [https://arxiv.org/abs/1611.09051](https://arxiv.org/abs/1611.09051)
 
 ## Random Forest
 
@@ -1643,6 +1658,11 @@ with fast exact probabilistic inference over many layers."
 
 - intro: DeepMind
 - arxiv: [https://arxiv.org/abs/1611.06310](https://arxiv.org/abs/1611.06310)
+
+**Learning the Number of Neurons in Deep Networks**
+
+- intro: NIPS 2016
+- arxiv: [https://arxiv.org/abs/1611.06321](https://arxiv.org/abs/1611.06321)
 
 ## STDP
 

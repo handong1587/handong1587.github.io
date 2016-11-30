@@ -154,6 +154,12 @@ date: 2015-10-09
 - github: [https://github.com/ramprs/grad-cam/](https://github.com/ramprs/grad-cam/)
 - github(Keras): [https://github.com/jacobgil/keras-grad-cam](https://github.com/jacobgil/keras-grad-cam)
 
+**Grad-CAM: Why did you say that?**
+
+- intro: NIPS 2016 Workshop on Interpretable Machine Learning in Complex Systems
+- intro: extended abstract version of [arXiv:1610.02391](https://arxiv.org/abs/1610.02391)
+- arxiv: [https://arxiv.org/abs/1611.07450](https://arxiv.org/abs/1611.07450)
+
 # Blogs
 
 "Visualizing GoogLeNet Classes"

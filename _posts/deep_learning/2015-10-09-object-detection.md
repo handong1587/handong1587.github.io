@@ -108,8 +108,6 @@ can boost the classification accuracy and the detection and localization accurac
 - paper: [https://people.csail.mit.edu/khosla/papers/iclr2015_zhou.pdf](https://people.csail.mit.edu/khosla/papers/iclr2015_zhou.pdf)
 - slides: [http://places.csail.mit.edu/slide_iclr2015.pdf](http://places.csail.mit.edu/slide_iclr2015.pdf)
 
-## segDeepM
-
 **segDeepM: Exploiting Segmentation and Context in Deep Neural Networks for Object Detection**
 
 - intro: CVPR 2015
@@ -261,11 +259,9 @@ and 1.15s per image with it".
 - slides: [http://www.seanbell.ca/tmp/ion-coco-talk-bell2015.pdf](http://www.seanbell.ca/tmp/ion-coco-talk-bell2015.pdf)
 - coco-leaderboard: [http://mscoco.org/dataset/#detections-leaderboard](http://mscoco.org/dataset/#detections-leaderboard)
 
-## AZ-Net
-
 **Adaptive Object Detection Using Adjacency and Zoom Prediction**
 
-- intro: CVPR 2016
+- intro: CVPR 2016. AZ-Net
 - arxiv: [http://arxiv.org/abs/1512.07711](http://arxiv.org/abs/1512.07711)
 - github: [https://github.com/luyongxi/az-net](https://github.com/luyongxi/az-net)
 - youtube: [https://www.youtube.com/watch?v=YmFtuNwxaNM](https://www.youtube.com/watch?v=YmFtuNwxaNM)
@@ -361,10 +357,9 @@ and 1.15s per image with it".
 - intro: VOC2007: 78.6%, VOC2012: 74.9%
 - arxiv: [http://arxiv.org/abs/1608.05159](http://arxiv.org/abs/1608.05159)
 
-## SubCNN
-
 **Subcategory-aware Convolutional Neural Networks for Object Proposals and Detection**
 
+- intro: SubCNN
 - arxiv: [http://arxiv.org/abs/1604.04693](http://arxiv.org/abs/1604.04693)
 - github: [https://github.com/yuxng/SubCNN](https://github.com/yuxng/SubCNN)
 
@@ -376,6 +371,12 @@ and 1.15s per image with it".
 - arxiv: [http://arxiv.org/abs/1608.08021](http://arxiv.org/abs/1608.08021)
 - github: [https://github.com/sanghoon/pva-faster-rcnn](https://github.com/sanghoon/pva-faster-rcnn)
 - leaderboard(PVANet 9.0): [http://host.robots.ox.ac.uk:8080/leaderboard/displaylb.php?challengeid=11&compid=4](http://host.robots.ox.ac.uk:8080/leaderboard/displaylb.php?challengeid=11&compid=4)
+
+**PVANet: Lightweight Deep Neural Networks for Real-time Object Detection**
+
+- intro: Presented at NIPS 2016 Workshop on Efficient Methods for Deep Neural Networks (EMDNN). 
+Continuation of [arXiv:1608.08021](https://arxiv.org/abs/1608.08021)
+- arxiv: [https://arxiv.org/abs/1611.08588](https://arxiv.org/abs/1611.08588)
 
 ## GBD-Net
 
@@ -500,13 +501,9 @@ This task involves predicting the salient regions of an image given by human eye
 
 - paper: [http://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Zhao_Saliency_Detection_by_2015_CVPR_paper.pdf](http://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Zhao_Saliency_Detection_by_2015_CVPR_paper.pdf)
 
-## DeepSaliency
-
 **DeepSaliency: Multi-Task Deep Neural Network Model for Salient Object Detection**
 
 - arxiv: [http://arxiv.org/abs/1510.05484](http://arxiv.org/abs/1510.05484)
-
-## SuperCNN
 
 **SuperCNN: A Superpixelwise Convolutional Neural Network for Salient Object Detection**
 
@@ -682,6 +679,10 @@ This task involves predicting the salient regions of an image given by human eye
 **Detecting facial landmarks in the video based on a hybrid framework**
 
 - arxiv: [http://arxiv.org/abs/1609.06441](http://arxiv.org/abs/1609.06441)
+
+**Deep Constrained Local Models for Facial Landmark Detection**
+
+- arxiv: [https://arxiv.org/abs/1611.08657](https://arxiv.org/abs/1611.08657)
 
 ## People Detection
 
