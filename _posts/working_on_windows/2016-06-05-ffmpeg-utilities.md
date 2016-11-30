@@ -19,3 +19,7 @@ ffmpeg -i video.mp4 output_audio.wav
 ffmpeg -i video.mp4 -i audio.wav -c:v copy -c:a aac -strict experimental output.mp4
 
 [http://superuser.com/questions/277642/how-to-merge-audio-and-video-file-in-ffmpeg](http://superuser.com/questions/277642/how-to-merge-audio-and-video-file-in-ffmpeg)
+
+# Compress MP4
+
+ffmpeg -i video.mp4 -vcodec h264 -b:v 1000k -acodec mp2 output.mp4

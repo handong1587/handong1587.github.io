@@ -45,6 +45,7 @@ date: 2015-10-09
 # Generative Adversarial Network
 
 **Generative Adversarial Networks**
+
 **Generative Adversarial Nets**
 
 - arxiv: [http://arxiv.org/abs/1406.2661](http://arxiv.org/abs/1406.2661)

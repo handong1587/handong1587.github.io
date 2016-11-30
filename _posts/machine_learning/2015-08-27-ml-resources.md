@@ -595,6 +595,7 @@ Classic strategies:
 **Lifelong Machine Learning**
 
 - book: [https://www.cs.uic.edu/~liub/lifelong-machine-learning.html](https://www.cs.uic.edu/~liub/lifelong-machine-learning.html)
+- pdf: [https://vk.com/doc-44016343_439142620?hash=a96978fe024d79e455&dl=2e154ea5883bbc8fd6](https://vk.com/doc-44016343_439142620?hash=a96978fe024d79e455&dl=2e154ea5883bbc8fd6)
 
 ## NELL (Never Ending Language Learner)
 
