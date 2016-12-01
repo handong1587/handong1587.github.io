@@ -665,16 +665,19 @@ Implementations and ideas are largely based on papers from arxiv and implementat
 
 - github: [https://github.com/mrakgr/Tutorials/blob/master/theano_install.md](https://github.com/mrakgr/Tutorials/blob/master/theano_install.md)
 
-# tiny-cnn
-
-**tiny-cnn: A header only, dependency-free deep learning framework in C++11**
-
-- github: [https://github.com/nyanp/tiny-cnn](https://github.com/nyanp/tiny-cnn)
-
 **Theano-MPI: a Theano-based Distributed Training Framework**
 
 - arxiv: [https://arxiv.org/abs/1605.08325](https://arxiv.org/abs/1605.08325)
 - github: [https://github.com/uoguelph-mlrg/Theano-MPI](https://github.com/uoguelph-mlrg/Theano-MPI)
+
+# tiny-dnn (tiny-cnn)
+
+**tiny-dnn: A header only, dependency-free deep learning framework in C++11**
+
+- inrtro: tiny-dnn is a C++11 implementation of deep learning. 
+It is suitable for deep learning on limited computational resource, embedded systems and IoT devices.
+- github: [https://github.com/tiny-dnn/tiny-dnn](https://github.com/tiny-dnn/tiny-dnn)
+- github: [https://github.com/nyanp/tiny-cnn](https://github.com/nyanp/tiny-cnn)
 
 # Torch
 
