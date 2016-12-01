@@ -1074,6 +1074,11 @@ for creating complex software in C++ to solve real world problems.
 
 # Projects
 
+**Machine learning algorithms： Minimal and clean examples of machine learning algorithms**
+
+- intro: A collection of minimal and clean implementations of machine learning algorithms.
+- github: [https://github.com/rushter/MLAlgorithms](https://github.com/rushter/MLAlgorithms)
+
 **Plotting high-dimensional decision boundaries**
 
 ![](https://raw.githubusercontent.com/tmadl/highdimensional-decision-boundary-plot/master/img/dr_model_overview.png)
