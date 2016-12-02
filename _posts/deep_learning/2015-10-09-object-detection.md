@@ -416,6 +416,7 @@ Continuation of [arXiv:1608.08021](https://arxiv.org/abs/1608.08021)
 
 **Speed/accuracy trade-offs for modern convolutional object detectors**
 
+- intro: Google Research
 - arxiv: [https://arxiv.org/abs/1611.10012](https://arxiv.org/abs/1611.10012)
 
 # Detection From Video
