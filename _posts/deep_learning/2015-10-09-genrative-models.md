@@ -158,6 +158,13 @@ date: 2015-10-09
 - intro: Accepted at The Thirty-First AAAI Conference on Artificial Intelligence (AAAI-17 Student Abstract and Poster Program)
 - arxiv: [https://arxiv.org/abs/1611.08789](https://arxiv.org/abs/1611.08789)
 
+**C-RNN-GAN: Continuous recurrent neural networks with adversarial training**
+
+- intro: Constructive Machine Learning Workshop (CML) at NIPS 2016
+- project page: [http://mogren.one/publications/2016/c-rnn-gan/](http://mogren.one/publications/2016/c-rnn-gan/)
+- arxiv: [https://arxiv.org/abs/1611.09904](https://arxiv.org/abs/1611.09904)
+- github: [https://github.com/olofmogren/c-rnn-gan](https://github.com/olofmogren/c-rnn-gan)
+
 # Projects
 
 **Generative Adversarial Networks with Keras**

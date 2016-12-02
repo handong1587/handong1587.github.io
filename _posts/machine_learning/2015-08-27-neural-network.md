@@ -131,6 +131,10 @@ date: 2015-08-27
 
 - blog: [https://medium.com/autonomous-agents/backpropagation-how-neural-networks-learn-complex-behaviors-9572ac161670#.dmdy8glec](https://medium.com/autonomous-agents/backpropagation-how-neural-networks-learn-complex-behaviors-9572ac161670#.dmdy8glec)
 
+**How to Implement the Backpropagation Algorithm From Scratch In Python**
+
+- blog: [http://machinelearningmastery.com/implement-backpropagation-algorithm-scratch-python/](http://machinelearningmastery.com/implement-backpropagation-algorithm-scratch-python/)
+
 # Project
 
 **Neural Networks demo in Javascript**
@@ -199,6 +203,10 @@ date: 2015-08-27
 **Command Line Neural Network**
 
 - github: [https://github.com/hugorut/neural-cli](https://github.com/hugorut/neural-cli)
+
+**Chai: An open source neural network library**
+
+- github: [https://github.com/SullyChen/Chai](https://github.com/SullyChen/Chai)
 
 # Videos
 

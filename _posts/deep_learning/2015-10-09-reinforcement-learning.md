@@ -377,6 +377,17 @@ Incorporates dropout regularization and convolutional neural networks with a sep
 - intro: Graduate Training Center of Neuroscience & MSR
 - arxiv: [https://arxiv.org/abs/1611.07078](https://arxiv.org/abs/1611.07078)
 
+**Exploration for Multi-task Reinforcement Learning with Deep Generative Models**
+
+- intro: NIPS Deep Reinforcement Learning Workshop 2016
+- arxiv: [https://arxiv.org/abs/1611.09894](https://arxiv.org/abs/1611.09894)
+
+**Neural Combinatorial Optimization with Reinforcement Learning**
+
+- intro: Google Brain
+- keywords: traveling salesman problem (TSP)
+- arxiv: [https://arxiv.org/abs/1611.09940](https://arxiv.org/abs/1611.09940)
+
 # Projects
 
 **TorchQLearning**

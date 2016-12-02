@@ -470,6 +470,10 @@ Machine learning workflow, Extracting feaures from images (colours, edges, corne
 
 - blog: [https://www.oreilly.com/ideas/the-hard-thing-about-deep-learning](https://www.oreilly.com/ideas/the-hard-thing-about-deep-learning)
 
+**Introduction to Autoencoders**
+
+- blog: [https://pgaleone.eu/neural-networks/2016/11/18/introduction-to-autoencoders/](https://pgaleone.eu/neural-networks/2016/11/18/introduction-to-autoencoders/)
+
 # Convolution
 
 ![](/assets/cnn-materials/conv.jpg)

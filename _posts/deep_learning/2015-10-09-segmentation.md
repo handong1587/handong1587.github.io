@@ -323,7 +323,7 @@ fine-tune the trained network with more challenging examples later
 
 **Semantic Segmentation using Adversarial Networks**
 
-- intro: NIPS Workshop on Adversarial Training, Dec 2016, Barcelona, Spain
+- intro: Facebook AI Research & INRIA. NIPS Workshop on Adversarial Training, Dec 2016, Barcelona, Spain
 - arxiv: [https://arxiv.org/abs/1611.08408](https://arxiv.org/abs/1611.08408)
 
 **Improving Fully Convolution Network for Semantic Segmentation**
@@ -332,6 +332,7 @@ fine-tune the trained network with more challenging examples later
 
 **The One Hundred Layers Tiramisu: Fully Convolutional DenseNets for Semantic Segmentation**
 
+- intro: Montreal Institute for Learning Algorithms & Ecole Polytechnique de Montreal
 - arxiv: [https://arxiv.org/abs/1611.09326](https://arxiv.org/abs/1611.09326)
 
 # Instance Segmentation

@@ -58,7 +58,10 @@ date: 2015-10-09
 
 **Attribute2Image: Conditional Image Generation from Visual Attributes**
 
+- intro: University of Michigan & Adobe Research & NEC Labs
+- project page: [https://sites.google.com/site/attribute2image/](https://sites.google.com/site/attribute2image/)
 - arxiv: [http://arxiv.org/abs/1512.00570](http://arxiv.org/abs/1512.00570)
+- github(Torch): [https://github.com/xcyan/eccv16_attr2img](https://github.com/xcyan/eccv16_attr2img)
 
 **Autoencoding beyond pixels using a learned similarity metric**
 

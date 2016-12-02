@@ -30,8 +30,10 @@ date: 2015-10-09
 - intro: Google
 - arxiv: [http://arxiv.org/abs/1411.4555](http://arxiv.org/abs/1411.4555)
 - github: [https://github.com/karpathy/neuraltalk](https://github.com/karpathy/neuraltalk)
-- GitXiv: [http://gitxiv.com/posts/7nofxjoYBXga5XjtL/show-and-tell-a-neural-image-caption-nic-generator](http://gitxiv.com/posts/7nofxjoYBXga5XjtL/show-and-tell-a-neural-image-caption-nic-generator)
+- gitxiv: [http://gitxiv.com/posts/7nofxjoYBXga5XjtL/show-and-tell-a-neural-image-caption-nic-generator](http://gitxiv.com/posts/7nofxjoYBXga5XjtL/show-and-tell-a-neural-image-caption-nic-generator)
 - github: [https://github.com/apple2373/chainer_caption_generation](https://github.com/apple2373/chainer_caption_generation)
+- github(TensorFlow): [https://github.com/tensorflow/models/tree/master/im2txt](https://github.com/tensorflow/models/tree/master/im2txt)
+- github(TensorFlow): [https://github.com/zsdonghao/Image-Captioning](https://github.com/zsdonghao/Image-Captioning)
 
 **Image caption generation by CNN and LSTM** 
 
@@ -322,6 +324,7 @@ after the embedding and recurrent layers of the RNN."
 
 **Semantic Compositional Networks for Visual Captioning**
 
+- intro: Duke University & Tsinghua University & MSR
 - arxiv: [https://arxiv.org/abs/1611.08002](https://arxiv.org/abs/1611.08002)
 
 **Hierarchical Boundary-Aware Neural Encoder for Video Captioning**

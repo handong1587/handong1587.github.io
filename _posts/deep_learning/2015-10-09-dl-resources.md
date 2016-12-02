@@ -358,6 +358,10 @@ testing it on the MNIST handwritten digits data.
 
 - arxiv: [https://arxiv.org/abs/1611.02731](https://arxiv.org/abs/1611.02731)
 
+**Convolutional Autoencoders**
+
+- blog: [https://pgaleone.eu/neural-networks/2016/11/24/convolutional-autoencoders/](https://pgaleone.eu/neural-networks/2016/11/24/convolutional-autoencoders/)
+
 # Semi-Supervised Learning
 
 **Semi-Supervised Learning with Graphs**
@@ -434,6 +438,13 @@ Restricted Boltzmann Machine (RBM), Sparse Coding and Auto-encoder
 
 - intro: Facebook AI Research
 - youtube: [https://www.youtube.com/watch?v=lalg1CuNB30](https://www.youtube.com/watch?v=lalg1CuNB30)
+
+**Split-Brain Autoencoders: Unsupervised Learning by Cross-Channel Prediction**
+
+- intro: UC Berkeley
+- project page: [https://richzhang.github.io/splitbrainauto/](https://richzhang.github.io/splitbrainauto/)
+- arxiv: [https://arxiv.org/abs/1611.09842](https://arxiv.org/abs/1611.09842)
+- github: [https://github.com/richzhang/splitbrainauto](https://github.com/richzhang/splitbrainauto)
 
 ## Clustering
 
@@ -1294,6 +1305,8 @@ with fast exact probabilistic inference over many layers."
 
 # Deep Learning in Speech
 
+## WaveNet
+
 **WaveNet: A Generative Model for Raw Audio**
 
 - homepage: [https://deepmind.com/blog/wavenet-generative-model-raw-audio/](https://deepmind.com/blog/wavenet-generative-model-raw-audio/)
@@ -1310,8 +1323,10 @@ with fast exact probabilistic inference over many layers."
 
 - github: [https://github.com/Zeta36/tensorflow-tex-wavenet](https://github.com/Zeta36/tensorflow-tex-wavenet)
 
-**Fast Wavenet: An efficient Wavenet generation implementation**
+**Fast Wavenet Generation Algorithm**
 
+- intro: An efficient Wavenet generation implementation
+- arxiv: [https://arxiv.org/abs/1611.09482](https://arxiv.org/abs/1611.09482)
 - github [https://github.com/tomlepaine/fast-wavenet](https://github.com/tomlepaine/fast-wavenet)
 
 **Speech-to-Text-WaveNet : End-to-end sentence level English speech recognition based on DeepMind's WaveNet and tensorflow**
@@ -1340,6 +1355,13 @@ with fast exact probabilistic inference over many layers."
 - github: [https://arxiv.org/abs/1611.06986](https://arxiv.org/abs/1611.06986)
 
 # Deep Learning for Music
+
+**Learning Features of Music from Scratch**
+
+- intro: University of Washington. MusicNet
+- project page: [http://homes.cs.washington.edu/~thickstn/musicnet.html](http://homes.cs.washington.edu/~thickstn/musicnet.html)
+- arxiv: [https://arxiv.org/abs/1611.09827](https://arxiv.org/abs/1611.09827)
+- demo: [http://homes.cs.washington.edu/~thickstn/demos.html](http://homes.cs.washington.edu/~thickstn/demos.html)
 
 **Deep Learning for Music**
 
@@ -1670,6 +1692,12 @@ with fast exact probabilistic inference over many layers."
 
 - intro: NIPS 2016
 - arxiv: [https://arxiv.org/abs/1611.06321](https://arxiv.org/abs/1611.06321)
+
+**Survey of Expressivity in Deep Neural Networks**
+
+- intro: Presented at NIPS 2016 Workshop on Interpretable Machine Learning in Complex Systems
+- intro: Google Brain & Cornell University & Stanford University
+- arxiv: [https://arxiv.org/abs/1611.08083](https://arxiv.org/abs/1611.08083)
 
 ## STDP
 
