@@ -22,7 +22,7 @@ date: 2015-07-25
 |.Z           |  compress FileName                  |  uncompress FileName.Z      |
 |.tar.Z       |  tar Zcvf FileName.tar.Z DirName    |  tar Zxvf FileName.tar.Z    |
 |.zip         |  zip FileName.zip DirName           |  unzip FileName.zip         |
-|.zip         |  zip FileName.zip DirName           |  unzip FileName.zip -d targetFolder |
+|.zip         |  zip -r target.zip dir1 dir2 dir3   |  unzip FileName.zip -d targetFolder |
 |.rar         |  rar a FileName.rar DirName         |  rar x FileName.rar         |
 |.lha         |  lha -a FileName.lha FileName       |  lha -e FileName.lha        |
 |.rpm         |                                     |  rpm2cpio FileName.rpm \| cpio -div |

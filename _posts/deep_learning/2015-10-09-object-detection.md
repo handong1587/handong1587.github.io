@@ -414,6 +414,10 @@ Continuation of [arXiv:1608.08021](https://arxiv.org/abs/1608.08021)
 
 - arxiv: [https://arxiv.org/abs/1611.05664](https://arxiv.org/abs/1611.05664)
 
+**Speed/accuracy trade-offs for modern convolutional object detectors**
+
+- arxiv: [https://arxiv.org/abs/1611.10012](https://arxiv.org/abs/1611.10012)
+
 # Detection From Video
 
 **Learning Object Class Detectors from Weakly Annotated Video**

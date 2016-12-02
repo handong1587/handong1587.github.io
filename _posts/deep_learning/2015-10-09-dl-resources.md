@@ -199,6 +199,12 @@ not just the convolutions)
 
 - arxiv: [https://arxiv.org/abs/1611.01260](https://arxiv.org/abs/1611.01260)
 
+**Wider or Deeper: Revisiting the ResNet Model for Visual Recognition**
+
+- intro: image classification, semantic image segmentation
+- arxiv: [https://arxiv.org/abs/1611.10080](https://arxiv.org/abs/1611.10080)
+- github: [https://github.com/itijyou/ademxapp](https://github.com/itijyou/ademxapp)
+
 ## Inception-V4 / Inception-ResNet-V2
 
 **Inception-V4, Inception-Resnet And The Impact Of Residual Connections On Learning**
@@ -1063,6 +1069,11 @@ with fast exact probabilistic inference over many layers."
 
 ## Graph Convolutional Networks
 
+**Learning Convolutional Neural Networks for Graphs**
+
+- intro: ICML 2016
+- arxiv: [http://arxiv.org/abs/1605.05273](http://arxiv.org/abs/1605.05273)
+
 **Convolutional Neural Networks on Graphs with Fast Localized Spectral Filtering**
 
 - arxiv: [https://arxiv.org/abs/1606.09375](https://arxiv.org/abs/1606.09375)
@@ -1523,10 +1534,6 @@ with fast exact probabilistic inference over many layers."
 
 - arxiv: [http://arxiv.org/abs/1603.08474](http://arxiv.org/abs/1603.08474)
 - github: [https://github.com/oswaldoludwig/visually-informed-embedding-of-word-VIEW-](https://github.com/oswaldoludwig/visually-informed-embedding-of-word-VIEW-)
-
-**Learning Convolutional Neural Networks for Graphs**
-
-- arxiv: [http://arxiv.org/abs/1605.05273](http://arxiv.org/abs/1605.05273)
 
 **Unreasonable Effectiveness of Learning Neural Nets: Accessible States and Robust Ensembles**
 
