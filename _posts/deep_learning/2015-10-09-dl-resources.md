@@ -880,11 +880,6 @@ with fast exact probabilistic inference over many layers."
 - arxiv: [http://arxiv.org/abs/1603.03116](http://arxiv.org/abs/1603.03116)
 - github: [https://github.com/Avmb/lowrank-gru](https://github.com/Avmb/lowrank-gru)
 
-**XNOR-Net: ImageNet Classification Using Binary Convolutional Neural Networks**
-
-- arxiv: [http://arxiv.org/abs/1603.05279](http://arxiv.org/abs/1603.05279)
-- github(Torch): [https://github.com/mrastegari/XNOR-Net](https://github.com/mrastegari/XNOR-Net)
-
 **Single Image 3D Interpreter Network**
 
 - intro: ECCV 2016 (oral)
