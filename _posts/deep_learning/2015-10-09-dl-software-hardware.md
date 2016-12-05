@@ -137,6 +137,10 @@ Contains all the popular DL frameworks (TensorFlow, Theano, Torch, Caffe, etc.)
 
 - blog: [https://medium.com/@vivek.yadav/deep-learning-machine-first-build-experience-d04abf198831#.1d6q5mw9m](https://medium.com/@vivek.yadav/deep-learning-machine-first-build-experience-d04abf198831#.1d6q5mw9m)
 
+**Building a machine learning/deep learning workstation for under $5000**
+
+- blog: [https://www.analyticsvidhya.com/blog/2016/11/building-a-machine-learning-deep-learning-workstation-for-under-5000/](https://www.analyticsvidhya.com/blog/2016/11/building-a-machine-learning-deep-learning-workstation-for-under-5000/)
+
 # GPU
 
 **Which GPU(s) to Get for Deep Learning: My Experience and Advice for Using GPUs in Deep Learning**

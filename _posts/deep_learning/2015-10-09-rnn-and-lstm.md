@@ -191,6 +191,11 @@ date: 2015-10-09
 - blog: [https://magenta.tensorflow.org/2016/11/09/tuning-recurrent-networks-with-reinforcement-learning/](https://magenta.tensorflow.org/2016/11/09/tuning-recurrent-networks-with-reinforcement-learning/)
 - github: [https://github.com/tensorflow/magenta/tree/master/magenta/models/rl_tuner](https://github.com/tensorflow/magenta/tree/master/magenta/models/rl_tuner)
 
+**Capacity and Trainability in Recurrent Neural Networks**
+
+- intro: Google Brain
+- arxiv: [https://arxiv.org/abs/1611.09913](https://arxiv.org/abs/1611.09913)
+
 # Learn To Execute Programs
 
 **Learning to Execute**

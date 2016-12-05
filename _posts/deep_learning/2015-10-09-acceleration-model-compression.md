@@ -274,6 +274,18 @@ to decompose it into the multiplications of thinned dense matrices"
 
 - arxiv: [https://arxiv.org/abs/1611.06694](https://arxiv.org/abs/1611.06694)
 
+**FINN: A Framework for Fast, Scalable Binarized Neural Network Inference**
+
+- intro: Xilinx Research Labs & Norwegian University of Science and Technology & University of Sydney
+- keywords: FPGA
+- paper: [http://www.idi.ntnu.no/~yamanu/2017-fpga-finn-preprint.pdf](http://www.idi.ntnu.no/~yamanu/2017-fpga-finn-preprint.pdf)
+
+**Deep Learning with INT8 Optimization on Xilinx Devices**
+
+- intro: "Xilinx's integrated DSP architecture can achieve 1.75X solution-level performance 
+at INT8 deep learning operations than other FPGA DSP architectures"
+- paper: [https://www.xilinx.com/support/documentation/white_papers/wp486-deep-learning-int8.pdf](https://www.xilinx.com/support/documentation/white_papers/wp486-deep-learning-int8.pdf)
+
 # Projects
 
 **Accelerate Convolutional Neural Networks**

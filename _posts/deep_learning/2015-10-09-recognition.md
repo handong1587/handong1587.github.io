@@ -39,6 +39,10 @@ date: 2015-10-09
 
 - arxiv: [http://arxiv.org/abs/1608.00182](http://arxiv.org/abs/1608.00182)
 
+**Hyperspectral CNN Classification with Limited Training Samples**
+
+- arxiv: [https://arxiv.org/abs/1611.09007](https://arxiv.org/abs/1611.09007)
+
 ## Multi-object Recognition
 
 **Multiple Object Recognition with Visual Attention**

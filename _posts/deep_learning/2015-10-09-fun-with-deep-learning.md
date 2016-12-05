@@ -216,6 +216,10 @@ Compressed model is less than 500KB
 - intro: University of Tubingen & Adobe Research
 - arxiv: [https://arxiv.org/abs/1611.07865](https://arxiv.org/abs/1611.07865)
 
+**Awesome Typography: Statistics-Based Text Effects Transfer**
+
+- arxiv: [https://arxiv.org/abs/1611.09026](https://arxiv.org/abs/1611.09026)
+
 ## Neural Art On Audio
 
 **MSc AI Project on generative deep networks and neural style transfer for audio**
@@ -591,6 +595,11 @@ Compressed model is less than 500KB
 **Grammar Argumented LSTM Neural Networks with Note-Level Encoding for Music Composition**
 
 - arxiv: [https://arxiv.org/abs/1611.05416](https://arxiv.org/abs/1611.05416)
+
+**用TensorFlow生成周杰伦歌词**
+
+- blog: [http://leix.me/2016/11/28/tensorflow-lyrics-generation/](http://leix.me/2016/11/28/tensorflow-lyrics-generation/)
+- github: [https://github.com/leido/char-rnn-cn](https://github.com/leido/char-rnn-cn)
 
 # Poetry
 

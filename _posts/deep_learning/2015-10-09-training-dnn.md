@@ -328,6 +328,12 @@ date: 2015-10-09
 
 - blog: [http://jxieeducation.com/2016-07-02/Quick-Explanations-of-Optimization-Methods/](http://jxieeducation.com/2016-07-02/Quick-Explanations-of-Optimization-Methods/)
 
+**Learning to learn by gradient descent by gradient descent**
+
+- intro: Google DeepMind
+- arxiv: [https://arxiv.org/abs/1606.04474](https://arxiv.org/abs/1606.04474)
+- github(TensorFlow): [https://github.com/runopti/Learning-To-Learn](https://github.com/runopti/Learning-To-Learn)
+
 **SGDR: Stochastic Gradient Descent with Restarts**
 
 - arxiv: [http://arxiv.org/abs/1608.03983](http://arxiv.org/abs/1608.03983)
@@ -568,6 +574,10 @@ date: 2015-10-09
 
 - arxiv: [http://arxiv.org/abs/1602.05179](http://arxiv.org/abs/1602.05179)
 - github: [https://github.com/bscellier/Towards-a-Biologically-Plausible-Backprop](https://github.com/bscellier/Towards-a-Biologically-Plausible-Backprop)
+
+**Sampled Backpropagation: Training Deep and Wide Neural Networks on Large Scale, User Generated Content Using Label Sampling**
+
+- blog: [https://medium.com/@karl1980.lab41/sampled-backpropagation-27ac58d5c51c#.xnbhyxtou](https://medium.com/@karl1980.lab41/sampled-backpropagation-27ac58d5c51c#.xnbhyxtou)
 
 # Accelerate Training
 
