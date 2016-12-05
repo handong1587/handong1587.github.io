@@ -134,6 +134,7 @@ to decompose it into the multiplications of thinned dense matrices"
 - intro: ICLR 2016 Best Paper
 - intro: "reduced the size of AlexNet by 35x from 240MB to 6.9MB, the size of VGG16 by 49x from 552MB to 11.3MB, with no loss of accuracy"
 - arxiv: [http://arxiv.org/abs/1510.00149](http://arxiv.org/abs/1510.00149)
+- video: [http://videolectures.net/iclr2016_han_deep_compression/](http://videolectures.net/iclr2016_han_deep_compression/)
 
 **ZNN - A Fast and Scalable Algorithm for Training 3D Convolutional Networks on Multi-Core and Many-Core Shared Memory Machines**
 
@@ -193,6 +194,11 @@ to decompose it into the multiplications of thinned dense matrices"
 
 - arxiv: [http://arxiv.org/abs/1603.01025](http://arxiv.org/abs/1603.01025)
 
+**XNOR-Net: ImageNet Classification Using Binary Convolutional Neural Networks**
+
+- arxiv: [http://arxiv.org/abs/1603.05279](http://arxiv.org/abs/1603.05279)
+- github(Torch): [https://github.com/mrastegari/XNOR-Net](https://github.com/mrastegari/XNOR-Net)
+
 **DeepX: A Software Accelerator for Low-Power Deep Learning Inference on Mobile Devices**
 
 - paper: [http://niclane.org/pubs/deepx_ipsn.pdf](http://niclane.org/pubs/deepx_ipsn.pdf)
@@ -221,6 +227,10 @@ to decompose it into the multiplications of thinned dense matrices"
 **Ristretto: Hardware-Oriented Approximation of Convolutional Neural Networks**
 
 - arxiv: [http://arxiv.org/abs/1605.06402](http://arxiv.org/abs/1605.06402)
+
+**YodaNN: An Ultra-Low Power Convolutional Neural Network Accelerator Based on Binary Weights**
+
+- arxiv: [https://arxiv.org/abs/1606.05487](https://arxiv.org/abs/1606.05487)
 
 **Learning Structured Sparsity in Deep Neural Networks**
 
