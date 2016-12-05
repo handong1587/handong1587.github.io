@@ -1303,6 +1303,10 @@ with fast exact probabilistic inference over many layers."
 
 - youtube: [https://www.youtube.com/watch?v=Kzz2-wAEK7A](https://www.youtube.com/watch?v=Kzz2-wAEK7A)
 
+**Deep Learning the Stock Market**
+
+- blog: [https://medium.com/@TalPerry/deep-learning-the-stock-market-df853d139e02#.z752rf43u](https://medium.com/@TalPerry/deep-learning-the-stock-market-df853d139e02#.z752rf43u)
+
 # Deep Learning in Speech
 
 ## WaveNet
@@ -1354,6 +1358,10 @@ with fast exact probabilistic inference over many layers."
 - intro: CMU
 - github: [https://arxiv.org/abs/1611.06986](https://arxiv.org/abs/1611.06986)
 
+**An Experimental Comparison of Deep Neural Networks for End-to-end Speech Recognition**
+
+- arxiv: [https://arxiv.org/abs/1611.07174](https://arxiv.org/abs/1611.07174)
+
 # Deep Learning for Music
 
 **Learning Features of Music from Scratch**
@@ -1371,7 +1379,9 @@ with fast exact probabilistic inference over many layers."
 
 **TorchCraft: a Library for Machine Learning Research on Real-Time Strategy Games**
 
+- intro: Connecting Torch to StarCraft
 - arxiv: [https://arxiv.org/abs/1611.00625](https://arxiv.org/abs/1611.00625)
+- github: [https://github.com/TorchCraft/TorchCraft](https://github.com/TorchCraft/TorchCraft)
 
 **BlizzCon 2016 DeepMind and StarCraft II Deep Learning Panel Transcript**
 

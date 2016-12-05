@@ -302,15 +302,6 @@ date: 2015-10-09
 - paper: [http://www.cs.ubc.ca/~van/papers/2016-TOG-deepRL/2016-TOG-deepRL.pdf](http://www.cs.ubc.ca/~van/papers/2016-TOG-deepRL/2016-TOG-deepRL.pdf)
 - github: [https://github.com/xbpeng/DeepTerrainRL](https://github.com/xbpeng/DeepTerrainRL)
 
-**ViZDoom: A Doom-based AI Research Platform for Visual Reinforcement Learning**
-
-![](http://vizdoom.cs.put.edu.pl/user/pages/01.home/depthbuffer.png)
-
-- arxiv: [http://arxiv.org/abs/1605.02097](http://arxiv.org/abs/1605.02097)
-- github: [https://github.com/Marqt/ViZDoom](https://github.com/Marqt/ViZDoom)
-- homepage: [http://vizdoom.cs.put.edu.pl/](http://vizdoom.cs.put.edu.pl/)
-- tutorial: [http://vizdoom.cs.put.edu.pl/tutorial](http://vizdoom.cs.put.edu.pl/tutorial)
-
 **Hierarchical Reinforcement Learning using Spatio-Temporal Abstractions and Deep Neural Networks**
 
 - arxiv: [http://arxiv.org/abs/1605.05359](http://arxiv.org/abs/1605.05359)
@@ -353,14 +344,15 @@ Incorporates dropout regularization and convolutional neural networks with a sep
 - intro: University of Washington & UC Berkeley
 - arxiv: [https://arxiv.org/abs/1610.01112](https://arxiv.org/abs/1610.01112)
 
-**Deep Reinforcement Learning From Raw Pixels in Doom**
-
-- intro: Bachelor's thesis
-- arxiv: [https://arxiv.org/abs/1610.02164](https://arxiv.org/abs/1610.02164)
-
 **Utilization of Deep Reinforcement Learning for saccadic-based object visual search**
 
 - arxiv: [https://arxiv.org/abs/1610.06492](https://arxiv.org/abs/1610.06492)
+
+**Learning to Navigate in Complex Environments**
+
+- intro: Google DeepMind
+- arxiv: [https://arxiv.org/abs/1611.03673](https://arxiv.org/abs/1611.03673)
+- youtube: [https://www.youtube.com/watch?v=lNoaTyMZsWI](https://www.youtube.com/watch?v=lNoaTyMZsWI)
 
 **Reinforcement Learning with Unsupervised Auxiliary Tasks**
 
@@ -387,6 +379,27 @@ Incorporates dropout regularization and convolutional neural networks with a sep
 - intro: Google Brain
 - keywords: traveling salesman problem (TSP)
 - arxiv: [https://arxiv.org/abs/1611.09940](https://arxiv.org/abs/1611.09940)
+
+## Playing Doom
+
+**ViZDoom: A Doom-based AI Research Platform for Visual Reinforcement Learning**
+
+![](http://vizdoom.cs.put.edu.pl/user/pages/01.home/depthbuffer.png)
+
+- arxiv: [http://arxiv.org/abs/1605.02097](http://arxiv.org/abs/1605.02097)
+- github: [https://github.com/Marqt/ViZDoom](https://github.com/Marqt/ViZDoom)
+- homepage: [http://vizdoom.cs.put.edu.pl/](http://vizdoom.cs.put.edu.pl/)
+- tutorial: [http://vizdoom.cs.put.edu.pl/tutorial](http://vizdoom.cs.put.edu.pl/tutorial)
+
+**Deep Reinforcement Learning From Raw Pixels in Doom**
+
+- intro: Bachelor's thesis
+- arxiv: [https://arxiv.org/abs/1610.02164](https://arxiv.org/abs/1610.02164)
+
+**Playing Doom with SLAM-Augmented Deep Reinforcement Learning**
+
+- intro: University of Oxford
+- arxiv: [https://arxiv.org/abs/1612.00380](https://arxiv.org/abs/1612.00380)
 
 # Projects
 

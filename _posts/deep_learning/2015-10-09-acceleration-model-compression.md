@@ -37,6 +37,10 @@ singular value decomposition was adopted for the matrix factorization"
 - intro: "considered the subsequent nonlinear units while learning the low-rank decomposition"
 - arxiv: [http://arxiv.org/abs/1411.4229](http://arxiv.org/abs/1411.4229)
 
+**Convolutional Neural Networks at Constrained Time Cost**
+
+- arxiv: [https://arxiv.org/abs/1412.1710](https://arxiv.org/abs/1412.1710)
+
 **Flattened Convolutional Neural Networks for Feedforward Acceleration**
 
 - intro: ICLR 2015

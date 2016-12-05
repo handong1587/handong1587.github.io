@@ -135,6 +135,11 @@ date: 2015-08-27
 
 - blog: [http://machinelearningmastery.com/implement-backpropagation-algorithm-scratch-python/](http://machinelearningmastery.com/implement-backpropagation-algorithm-scratch-python/)
 
+**Notes on Backpropagation**
+
+- intro: This document derives backpropagation for some common error functions and describes some other tricks.
+- paper: [https://www.ics.uci.edu/~pjsadows/notes.pdf](https://www.ics.uci.edu/~pjsadows/notes.pdf)
+
 # Project
 
 **Neural Networks demo in Javascript**

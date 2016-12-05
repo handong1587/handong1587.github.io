@@ -494,6 +494,10 @@ Continuation of [arXiv:1608.08021](https://arxiv.org/abs/1608.08021)
 
 This task involves predicting the salient regions of an image given by human eye fixations.
 
+**Best Deep Saliency Detection Models (CVPR 2016 & 2015)**
+
+[http://i.cs.hku.hk/~yzyu/vision.html](http://i.cs.hku.hk/~yzyu/vision.html)
+
 **Large-scale optimization of hierarchical features for saliency prediction in natural images**
 
 - paper: [http://coxlab.org/pdfs/cvpr2014_vig_saliency.pdf](http://coxlab.org/pdfs/cvpr2014_vig_saliency.pdf)
@@ -541,6 +545,10 @@ This task involves predicting the salient regions of an image given by human eye
 - paper: [http://cs-people.bu.edu/jmzhang/SOD/CVPR16SOD_camera_ready.pdf](http://cs-people.bu.edu/jmzhang/SOD/CVPR16SOD_camera_ready.pdf)
 - github: [https://github.com/jimmie33/SOD](https://github.com/jimmie33/SOD)
 - caffe model zoo: [https://github.com/BVLC/caffe/wiki/Model-Zoo#cnn-object-proposal-models-for-salient-object-detection](https://github.com/BVLC/caffe/wiki/Model-Zoo#cnn-object-proposal-models-for-salient-object-detection)
+
+**DHSNet: Deep Hierarchical Saliency Network for Salient Object Detection**
+
+- paper: [http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Liu_DHSNet_Deep_Hierarchical_CVPR_2016_paper.pdf](http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Liu_DHSNet_Deep_Hierarchical_CVPR_2016_paper.pdf)
 
 **Salient Object Subitizing**
 
@@ -632,6 +640,13 @@ This task involves predicting the salient regions of an image given by human eye
 - author: 万韶华 @ 小米.
 - intro: Faster R-CNN, hard negative mining. state-of-the-art on the FDDB dataset
 - arxiv: [http://arxiv.org/abs/1608.02236](http://arxiv.org/abs/1608.02236)
+
+**Grid Loss: Detecting Occluded Faces**
+
+- intro: ECCV 2016
+- arxiv: [https://arxiv.org/abs/1609.00129](https://arxiv.org/abs/1609.00129)
+- paper: [http://lrs.icg.tugraz.at/pubs/opitz_eccv_16.pdf](http://lrs.icg.tugraz.at/pubs/opitz_eccv_16.pdf)
+- poster: [http://www.eccv2016.org/files/posters/P-2A-34.pdf](http://www.eccv2016.org/files/posters/P-2A-34.pdf)
 
 **A Multi-Scale Cascade Fully Convolutional Network Face Detector**
 

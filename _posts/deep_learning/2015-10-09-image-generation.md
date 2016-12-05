@@ -131,6 +131,16 @@ date: 2015-10-09
 - intro: Google DeepMind
 - paper: [http://www.scottreed.info/files/iclr2017.pdf](http://www.scottreed.info/files/iclr2017.pdf)
 
+**Learning to Generate Images of Outdoor Scenes from Attributes and Semantic Layouts**
+
+- arxiv: [https://arxiv.org/abs/1612.00215](https://arxiv.org/abs/1612.00215)
+
+**Plug & Play Generative Networks: Conditional Iterative Generation of Images in Latent Space**
+
+- intro: University of Wyoming & Geometric Intelligence & Montreal Institute for Learning Algorithms & University of Freiburg
+- project page: [http://www.evolvingai.org/ppgn](http://www.evolvingai.org/ppgn)
+- paper: [http://www.evolvingai.org/files/nguyen2016ppgn_v1.pdf](http://www.evolvingai.org/files/nguyen2016ppgn_v1.pdf)
+
 # Video Generation
 
 **Generating Videos with Scene Dynamics**

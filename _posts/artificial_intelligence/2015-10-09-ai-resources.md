@@ -19,6 +19,10 @@ date: 2015-10-01
 
 - homepage: [http://ai.berkeley.edu/home.html](http://ai.berkeley.edu/home.html)
 
+**(edX) Artificial Intelligence (AI)**
+
+- homepage: [https://www.edx.org/course/artificial-intelligence-ai-columbiax-csmm-101x](https://www.edx.org/course/artificial-intelligence-ai-columbiax-csmm-101x)
+
 # Books
 
 **Notes on Artificial Intelligence (open source notebook)**

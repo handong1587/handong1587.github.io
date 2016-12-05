@@ -37,6 +37,7 @@ date: 2015-10-09
 
 - intro: University of Toronto & OpenAI & CMU
 - arxiv: [https://arxiv.org/abs/1611.04273](https://arxiv.org/abs/1611.04273)
+- github: [https://github.com/tonywu95/eval_gen](https://github.com/tonywu95/eval_gen)
 
 **Boosted Generative Models**
 
