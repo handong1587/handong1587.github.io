@@ -127,6 +127,13 @@ date: 2015-10-09
 - github(Tensorflow): [https://github.com/gliese581gg/DQN_tensorflow](https://github.com/gliese581gg/DQN_tensorflow)
 - summary: [https://github.com/aleju/papers/blob/master/neural-nets/Playing_Atari_with_Deep_Reinforcement_Learning.md](https://github.com/aleju/papers/blob/master/neural-nets/Playing_Atari_with_Deep_Reinforcement_Learning.md)
 
+**Deep Learning for Real-Time Atari Game Play Using Offline Monte-Carlo Tree Search Planning**
+
+- intro: NIPS 2014
+- keywords: DQN, MCTS
+- paper: [http://papers.nips.cc/paper/5421-scalable-inference-for-neuronal-connectivity-from-calcium-imaging](http://papers.nips.cc/paper/5421-scalable-inference-for-neuronal-connectivity-from-calcium-imaging)
+- paper: [https://web.eecs.umich.edu/~baveja/Papers/UCTtoCNNsAtariGames-FinalVersion.pdf](https://web.eecs.umich.edu/~baveja/Papers/UCTtoCNNsAtariGames-FinalVersion.pdf)
+
 **Replicating the Paper “Playing Atari with Deep Reinforcement Learning”**
 
 - intro: University of Tartu
@@ -143,12 +150,23 @@ date: 2015-10-09
 - arxiv: [http://arxiv.org/abs/1507.00814](http://arxiv.org/abs/1507.00814)
 - notes: [https://www.evernote.com/shard/s189/sh/a4262b84-a322-4f77-9a76-569278be84af/b8c3e146a76ca3853f560bb03b60a481](https://www.evernote.com/shard/s189/sh/a4262b84-a322-4f77-9a76-569278be84af/b8c3e146a76ca3853f560bb03b60a481)
 
+**Massively Parallel Methods for Deep Reinforcement Learning**
+
+- intro: ICML 2015. DeepMind
+- keywords: DQN, Gorila
+- arxiv: [https://arxiv.org/abs/1507.04296](https://arxiv.org/abs/1507.04296)
+
 **Action-Conditional Video Prediction using Deep Networks in Atari Games**
 
 - homepage: [https://sites.google.com/a/umich.edu/junhyuk-oh/action-conditional-video-prediction](https://sites.google.com/a/umich.edu/junhyuk-oh/action-conditional-video-prediction)
 - arxiv: [http://arxiv.org/abs/1507.08750](http://arxiv.org/abs/1507.08750)
 - github: [https://github.com/junhyukoh/nips2015-action-conditional-video-prediction](https://github.com/junhyukoh/nips2015-action-conditional-video-prediction)
 - video: [http://video.weibo.com/show?fid=1034:98062f3d83e41da6faa99cde5aa1ac97](http://video.weibo.com/show?fid=1034:98062f3d83e41da6faa99cde5aa1ac97)
+
+**Deep Recurrent Q-Learning for Partially Observable MDPs**
+
+- intro: AAAI 2015
+- arxiv: [https://arxiv.org/abs/1507.06527](https://arxiv.org/abs/1507.06527)
 
 **Continuous control with deep reinforcement learning**
 
@@ -160,9 +178,14 @@ date: 2015-10-09
 
 **Benchmarking for Bayesian Reinforcement Learning**
 
-- arxiv: [http://arxiv.org/abs/1509.04064v1](http://arxiv.org/abs/1509.04064v1)
+- arxiv: [http://arxiv.org/abs/1509.04064](http://arxiv.org/abs/1509.04064)
 - code: [https://github.com/mcastron/BBRL/](https://github.com/mcastron/BBRL/)
 - reading: [http://blogs.ulg.ac.be/damien-ernst/benchmarking-for-bayesian-reinforcement-learning/](http://blogs.ulg.ac.be/damien-ernst/benchmarking-for-bayesian-reinforcement-learning/)
+
+**Deep Reinforcement Learning with Double Q-learning**
+
+- intro: AAAI 2016
+- arxiv: [https://arxiv.org/abs/1509.06461](https://arxiv.org/abs/1509.06461)
 
 **Giraffe: Using Deep Reinforcement Learning to Play Chess**
 
@@ -285,6 +308,7 @@ date: 2015-10-09
 
 **Hierarchical Deep Reinforcement Learning: Integrating Temporal Abstraction and Intrinsic Motivation**
 
+- intro: MIT
 - arxiv: [https://arxiv.org/abs/1604.06057](https://arxiv.org/abs/1604.06057)
 - github: [https://github.com/EthanMacdonald/h-DQN](https://github.com/EthanMacdonald/h-DQN)
 
@@ -352,6 +376,7 @@ Incorporates dropout regularization and convolutional neural networks with a sep
 
 - intro: Google DeepMind
 - arxiv: [https://arxiv.org/abs/1611.03673](https://arxiv.org/abs/1611.03673)
+- github: [https://github.com/deepmind/lab](https://github.com/deepmind/lab)
 - youtube: [https://www.youtube.com/watch?v=lNoaTyMZsWI](https://www.youtube.com/watch?v=lNoaTyMZsWI)
 
 **Reinforcement Learning with Unsupervised Auxiliary Tasks**
@@ -486,6 +511,8 @@ Its simple, and is ideal for rapid prototyping."
 
 **Deep Attention Recurrent Q-Network**
 
+- intro: Deep Reinforcement Learning Workshop, NIPS 2015. DeepHack Game
+- arxiv: [https://arxiv.org/abs/1512.01693](https://arxiv.org/abs/1512.01693)
 - github: [https://github.com/5vision/DARQN](https://github.com/5vision/DARQN)
 
 **Deep Reinforcement Learning in TensorFlow**
@@ -553,6 +580,10 @@ The project is dedicated to hero in life great Jesse Livermore.
 
 - intro: MC control, Q-learning, SARSA, Cross Entropy Method
 - github: [https://github.com/janivanecky/ReinforcementLearning](https://github.com/janivanecky/ReinforcementLearning)
+
+**markovjs: Reinforcement Learning in JavaScript**
+
+- github: [https://github.com/lsunsi/markovjs](https://github.com/lsunsi/markovjs)
 
 ## Play Flappy Bird
 

@@ -335,6 +335,11 @@ extract saptio-temporal features to represent the video using the CNNs."
 
 - arxiv: [http://arxiv.org/abs/1609.00866](http://arxiv.org/abs/1609.00866)
 
+**Anomaly Detection in Video Using Predictive Convolutional Long Short-Term Memory Networks**
+
+- intro: Rochester Institute of Technology
+- arxiv: [https://arxiv.org/abs/1612.00390](https://arxiv.org/abs/1612.00390)
+
 # Video Prediction
 
 **Deep multi-scale video prediction beyond mean square error**

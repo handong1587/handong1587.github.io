@@ -224,6 +224,11 @@ after the embedding and recurrent layers of the RNN."
 - intro: Snap Inc.
 - arxiv: [https://arxiv.org/abs/1611.06949](https://arxiv.org/abs/1611.06949)
 
+**Optimization of image description metrics using policy gradient methods**
+
+- intro: University of Oxford & Google
+- arxiv: [https://arxiv.org/abs/1612.00370](https://arxiv.org/abs/1612.00370)
+
 # Object Descriptions
 
 **Generation and Comprehension of Unambiguous Object Descriptions**

@@ -52,6 +52,12 @@ date: 2015-10-01
 
 # Projects
 
+**Universe: a software platform for measuring and training an AI's general intelligence across the world's supply of games, websites and other applications**
+
+- homepage: [https://universe.openai.com/](https://universe.openai.com/)
+- github: [https://github.com/openai/universe](https://github.com/openai/universe)
+- github: [https://github.com/openai/universe-starter-agent](https://github.com/openai/universe-starter-agent)
+
 **Malmö: a platform for Artificial Intelligence experimentation and research built on top of Minecraft**
 
 ![](https://mscorpmedia.azureedge.net/mscorpmedia/2016/07/Malmo-2-low-res.jpg)

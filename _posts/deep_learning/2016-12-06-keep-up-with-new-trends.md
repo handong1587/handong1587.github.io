@@ -2,8 +2,14 @@
 layout: post
 category: deep_learning
 title: Keep Up With New Trends
-date: 2016-10-11
+date: 2016-12-06
 ---
+
+# NIPS 2016
+
+**DeepMind Papers @ NIPS (Part 1)**
+
+[https://deepmind.com/blog/deepmind-papers-nips-part-1/](https://deepmind.com/blog/deepmind-papers-nips-part-1/)
 
 # Heuritech Deep Learning Meetup
 

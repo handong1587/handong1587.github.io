@@ -564,6 +564,11 @@ Restricted Boltzmann Machine (RBM), Sparse Coding and Auto-encoder
 
 - arxiv: [http://arxiv.org/abs/1608.01441](http://arxiv.org/abs/1608.01441)
 
+**Extreme Multi-label Loss Functions for Recommendation, Tagging, Ranking & Other Missing Label Applications**
+
+- intro: Indian Institute of Technology Delhi & MSR
+- paper: [https://manikvarma.github.io/pubs/jain16.pdf](https://manikvarma.github.io/pubs/jain16.pdf)
+
 # Multi-task Learning
 
 **Multitask Learning / Domain Adaptation**
@@ -644,6 +649,12 @@ Restricted Boltzmann Machine (RBM), Sparse Coding and Auto-encoder
 **Variational methods for Conditional Multimodal Deep Learning**
 
 - arxiv: [http://arxiv.org/abs/1603.01801](http://arxiv.org/abs/1603.01801)
+
+**Training and Evaluating Multimodal Word Embeddings with Large-scale Web Annotated Images**
+
+- intro: NIPS 2016. University of California & Pinterest
+- project page: [http://www.stat.ucla.edu/~junhua.mao/multimodal_embedding.html](http://www.stat.ucla.edu/~junhua.mao/multimodal_embedding.html)
+- arxiv: [https://arxiv.org/abs/1611.08321](https://arxiv.org/abs/1611.08321)
 
 # Debugging Deep Learning
 
@@ -931,13 +942,14 @@ with fast exact probabilistic inference over many layers."
 
 ![](https://cloud.githubusercontent.com/assets/8370623/17981496/fa648b32-6ad1-11e6-9625-02fdd72fdcd3.jpg)
 
-- intro: DenseNet
+- intro: Cornell University & Tsinghua University. DenseNet
 - arxiv: [http://arxiv.org/abs/1608.06993](http://arxiv.org/abs/1608.06993)
 - github: [https://github.com/liuzhuang13/DenseNet](https://github.com/liuzhuang13/DenseNet)
 - github(Lasagne): [https://github.com/Lasagne/Recipes/tree/master/papers/densenet](https://github.com/Lasagne/Recipes/tree/master/papers/densenet)
 - github(Keras): [https://github.com/tdeboissiere/DeepLearningImplementations/tree/master/DenseNet](https://github.com/tdeboissiere/DeepLearningImplementations/tree/master/DenseNet)
 - github(Caffe): [https://github.com/liuzhuang13/DenseNetCaffe](https://github.com/liuzhuang13/DenseNetCaffe)
 - github(Tensorflow): [https://github.com/YixuanLi/densenet-tensorflow](https://github.com/YixuanLi/densenet-tensorflow)
+- github(Keras): [https://github.com/titu1994/DenseNet](https://github.com/titu1994/DenseNet)
 
 **CliqueCNN: Deep Unsupervised Exemplar Learning**
 
@@ -1192,6 +1204,12 @@ with fast exact probabilistic inference over many layers."
 **Towards the effectiveness of Deep Convolutional Neural Network based Fast Random Forest Classifier**
 
 - arxiv: [http://arxiv.org/abs/1609.08864](http://arxiv.org/abs/1609.08864)
+
+## Gaussian Process
+
+**Deep Learning with Gaussian Process**
+
+- blog: [https://amundtveit.com/2016/12/02/deep-learning-with-gaussian-process/](https://amundtveit.com/2016/12/02/deep-learning-with-gaussian-process/)
 
 # Deep Learning and Robots
 
@@ -1584,10 +1602,6 @@ with fast exact probabilistic inference over many layers."
 - arxiv: [http://arxiv.org/abs/1511.04048](http://arxiv.org/abs/1511.04048)
 - github: [https://github.com/roozbehm/newtonian](https://github.com/roozbehm/newtonian)
 
-**Matching Networks for One Shot Learning**
-
-- arxiv: [https://arxiv.org/abs/1606.04080](https://arxiv.org/abs/1606.04080)
-
 **Convolutional Neural Networks Analyzed via Convolutional Sparse Coding**
 
 **DeepMath - Deep Sequence Models for Premise Selection**
@@ -1704,6 +1718,22 @@ with fast exact probabilistic inference over many layers."
 - intro: Google Brain & Cornell University & Stanford University
 - arxiv: [https://arxiv.org/abs/1611.08083](https://arxiv.org/abs/1611.08083)
 
+**Designing Neural Network Architectures using Reinforcement Learning**
+
+- intro: MIT
+- project page: [https://bowenbaker.github.io/metaqnn/](https://bowenbaker.github.io/metaqnn/)
+- arxiv: [https://arxiv.org/abs/1611.02167](https://arxiv.org/abs/1611.02167)
+
+**Towards Robust Deep Neural Networks with BANG**
+
+- intro: University of Colorado
+- arxiv: [https://arxiv.org/abs/1612.00138](https://arxiv.org/abs/1612.00138)
+
+**Deep Quantization: Encoding Convolutional Activations with Deep Generative Model**
+
+- intro: University of Science and Technology of China & MSR
+- arxiv: [https://arxiv.org/abs/1611.09502](https://arxiv.org/abs/1611.09502)
+
 ## STDP
 
 **A biological gradient descent for prediction through a combination of STDP and homeostatic plasticity**
@@ -1729,7 +1759,7 @@ with fast exact probabilistic inference over many layers."
 - arxiv: [http://arxiv.org/abs/1412.7525](http://arxiv.org/abs/1412.7525)
 - github: [https://github.com/donghyunlee/dtp](https://github.com/donghyunlee/dtp)
 
-## Zero-Shot Learning
+## Zero Shot Learning
 
 **Learning a Deep Embedding Model for Zero-Shot Learning**
 
@@ -1739,11 +1769,29 @@ with fast exact probabilistic inference over many layers."
 
 [https://amundtveit.com/2016/11/18/zero-shot-deep-learning/](https://amundtveit.com/2016/11/18/zero-shot-deep-learning/)
 
+## One Shot Learning
+
+**Matching Networks for One Shot Learning**
+
+- intro: Google DeepMind
+- arxiv: [https://arxiv.org/abs/1606.04080](https://arxiv.org/abs/1606.04080)
+
 ## Incremental Learning
 
 **iCaRL: Incremental Classifier and Representation Learning**
 
 - arxiv: [https://arxiv.org/abs/1611.07725](https://arxiv.org/abs/1611.07725)
+
+## Ensemble Deep Learning
+
+**Stochastic Multiple Choice Learning for Training Diverse Deep Ensembles**
+
+- arxiv: [https://arxiv.org/abs/1606.07839](https://arxiv.org/abs/1606.07839)
+- youtube: [https://www.youtube.com/watch?v=KjUfMtZjyfg&feature=youtu.be](https://www.youtube.com/watch?v=KjUfMtZjyfg&feature=youtu.be)
+
+**Ensemble Deep Learning**
+
+- blog: [https://amundtveit.com/2016/12/02/ensemble-deep-learning/](https://amundtveit.com/2016/12/02/ensemble-deep-learning/)
 
 ## Computer Vision
 
@@ -1959,6 +2007,10 @@ Compatible with Theano and TensorFlow. Optimized for Twitter.
 
 - homepage: [https://01.org/mkl-dnn](https://01.org/mkl-dnn)
 - github: [https://github.com/01org/mkl-dnn](https://github.com/01org/mkl-dnn)
+
+**Deep CNN - Deep convolution neural network project with TensorFlow**
+
+- github: [https://github.com/tobegit3hub/deep_cnn](https://github.com/tobegit3hub/deep_cnn)
 
 # Readings and Questions
 

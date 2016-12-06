@@ -884,6 +884,11 @@ This task involves predicting the salient regions of an image given by human eye
 
 - arxiv: [https://arxiv.org/abs/1611.05424](https://arxiv.org/abs/1611.05424)
 
+**Deep Cuboid Detection: Beyond 2D Bounding Boxes**
+
+- intro: CMU & Magic Leap
+- arxiv: [https://arxiv.org/abs/1611.10010](https://arxiv.org/abs/1611.10010)
+
 # Object Proposal
 
 **DeepProposal: Hunting Objects by Cascading Deep Convolutional Layers**

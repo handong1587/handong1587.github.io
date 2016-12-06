@@ -54,6 +54,12 @@ date: 2015-10-09
 - github: [https://github.com/goodfeli/adversarial](https://github.com/goodfeli/adversarial)
 - github: [https://github.com/aleju/cat-generator](https://github.com/aleju/cat-generator)
 
+**Generative Adversarial Networks**
+
+- intro: by Ian Goodfellow, NIPS 2016 tutorial
+- slides: [http://www.iangoodfellow.com/slides/2016-12-04-NIPS.pdf](http://www.iangoodfellow.com/slides/2016-12-04-NIPS.pdf)
+- mirror: [https://pan.baidu.com/s/1gfBNYW7](https://pan.baidu.com/s/1gfBNYW7)
+
 ## CatGAN
 
 **Unsupervised and Semi-supervised Learning with Categorical Generative Adversarial Networks**
@@ -135,6 +141,7 @@ date: 2015-10-09
 - arxiv: [https://arxiv.org/abs/1611.07004](https://arxiv.org/abs/1611.07004)
 - github: [https://github.com/phillipi/pix2pix](https://github.com/phillipi/pix2pix)
 - github(TensorFlow): [https://github.com/yenchenlin/pix2pix-tensorflow](https://github.com/yenchenlin/pix2pix-tensorflow)
+- github(Chainer): [https://github.com/mattya/chainer-pix2pix](https://github.com/mattya/chainer-pix2pix)
 
 **ml4a-invisible-cities**
 

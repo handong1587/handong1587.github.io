@@ -65,6 +65,12 @@ date: 2015-10-09
 
 [http://data-science-ce-course.tk/](http://data-science-ce-course.tk/)
 
+**Harvard CS109 Data Science**
+
+- homepage: [http://cs109.github.io/2015/](http://cs109.github.io/2015/)
+- class material: [http://cs109.github.io/2015/pages/videos.html](http://cs109.github.io/2015/pages/videos.html)
+- github: [https://github.com/cs109/2015](https://github.com/cs109/2015)
+
 # Tools
 
 **Provision the Linux Data Science Virtual Machine**

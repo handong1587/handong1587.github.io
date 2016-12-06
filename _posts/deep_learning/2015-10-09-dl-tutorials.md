@@ -474,6 +474,14 @@ Machine learning workflow, Extracting feaures from images (colours, edges, corne
 
 - blog: [https://pgaleone.eu/neural-networks/2016/11/18/introduction-to-autoencoders/](https://pgaleone.eu/neural-networks/2016/11/18/introduction-to-autoencoders/)
 
+**Two Days to a Demo**
+
+- blog: [https://developer.nvidia.com/embedded/twodaystoademo](https://developer.nvidia.com/embedded/twodaystoademo)
+
+**Deep Learning Tutorials for 10 Weeks**
+
+- github: [https://github.com/sjchoi86/dl_tutorials_4th](https://github.com/sjchoi86/dl_tutorials_4th)
+
 # Convolution
 
 ![](/assets/cnn-materials/conv.jpg)
@@ -627,6 +635,12 @@ Machine learning workflow, Extracting feaures from images (colours, edges, corne
 **Keras Tutorial: The Ultimate Beginner's Guide to Deep Learning in Python**
 
 [https://elitedatascience.com/keras-tutorial-deep-learning-in-python](https://elitedatascience.com/keras-tutorial-deep-learning-in-python)
+
+**Transfer Learning and Fine Tuning for Cross Domain Image Classification with Keras**
+
+- slides: [http://www.slideshare.net/sujitpal/transfer-learning-and-fine-tuning-for-cross-domain-image-classification-with-keras](http://www.slideshare.net/sujitpal/transfer-learning-and-fine-tuning-for-cross-domain-image-classification-with-keras)
+- mirror: [https://pan.baidu.com/s/1gfn1xuj](https://pan.baidu.com/s/1gfn1xuj)
+- github: [https://github.com/sujitpal/fttl-with-keras](https://github.com/sujitpal/fttl-with-keras)
 
 # Torch
 

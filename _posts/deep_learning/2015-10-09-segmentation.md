@@ -335,6 +335,11 @@ fine-tune the trained network with more challenging examples later
 - intro: Montreal Institute for Learning Algorithms & Ecole Polytechnique de Montreal
 - arxiv: [https://arxiv.org/abs/1611.09326](https://arxiv.org/abs/1611.09326)
 
+**Training Bit Fully Convolutional Network for Fast Semantic Segmentation**
+
+- intro: Megvii
+- arxiv: [https://arxiv.org/abs/1612.00212](https://arxiv.org/abs/1612.00212)
+
 # Instance Segmentation
 
 **Simultaneous Detection and Segmentation**
