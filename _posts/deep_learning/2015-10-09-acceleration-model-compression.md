@@ -328,6 +328,10 @@ at INT8 deep learning operations than other FPGA DSP architectures"
 
 - github: [http://pjreddie.com/darknet/tiny-darknet/](http://pjreddie.com/darknet/tiny-darknet/)
 
+**CACU: Calculate deep convolution neurAl network on Cell Unit**
+
+- github: [https://github.com/luhaofang/CACU](https://github.com/luhaofang/CACU)
+
 # Blogs
 
 **Neural Networks Are Impressively Good At Compression**
