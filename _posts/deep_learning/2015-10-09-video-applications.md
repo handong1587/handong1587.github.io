@@ -369,6 +369,11 @@ extract saptio-temporal features to represent the video using the CNNs."
 
 - arxiv: [https://arxiv.org/abs/1611.04899](https://arxiv.org/abs/1611.04899)
 
+**Video Ladder Networks**
+
+- inro: NIPS 2016 workshop on ML for Spatiotemporal Forecasting
+- arxiv: [https://arxiv.org/abs/1612.01756](https://arxiv.org/abs/1612.01756)
+
 # Video Tagging
 
 **Automatic Image and Video Tagging**

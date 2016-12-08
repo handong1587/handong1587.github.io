@@ -300,6 +300,10 @@ to decompose it into the multiplications of thinned dense matrices"
 at INT8 deep learning operations than other FPGA DSP architectures"
 - paper: [https://www.xilinx.com/support/documentation/white_papers/wp486-deep-learning-int8.pdf](https://www.xilinx.com/support/documentation/white_papers/wp486-deep-learning-int8.pdf)
 
+**Parameter Compression of Recurrent Neural Networks and Degredation of Short-term Memory**
+
+- arxiv: [https://arxiv.org/abs/1612.00891](https://arxiv.org/abs/1612.00891)
+
 # Projects
 
 **Accelerate Convolutional Neural Networks**

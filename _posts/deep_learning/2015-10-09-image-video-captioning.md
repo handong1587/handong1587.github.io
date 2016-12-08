@@ -229,6 +229,14 @@ after the embedding and recurrent layers of the RNN."
 - intro: University of Oxford & Google
 - arxiv: [https://arxiv.org/abs/1612.00370](https://arxiv.org/abs/1612.00370)
 
+**Areas of Attention for Image Captioning**
+
+- arxiv: [https://arxiv.org/abs/1612.01033](https://arxiv.org/abs/1612.01033)
+
+**Knowing When to Look: Adaptive Attention via A Visual Sentinel for Image Captioning**
+
+- arxiv: [https://arxiv.org/abs/1612.01887](https://arxiv.org/abs/1612.01887)
+
 # Object Descriptions
 
 **Generation and Comprehension of Unambiguous Object Descriptions**

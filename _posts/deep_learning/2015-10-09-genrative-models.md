@@ -173,6 +173,11 @@ date: 2015-10-09
 - arxiv: [https://arxiv.org/abs/1611.09904](https://arxiv.org/abs/1611.09904)
 - github: [https://github.com/olofmogren/c-rnn-gan](https://github.com/olofmogren/c-rnn-gan)
 
+**Ensembles of Generative Adversarial Networks**
+
+- intro: NIPS 2016 Workshop on Adversarial Training
+- arxiv: [https://arxiv.org/abs/1612.00991](https://arxiv.org/abs/1612.00991)
+
 # Projects
 
 **Generative Adversarial Networks with Keras**

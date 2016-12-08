@@ -340,6 +340,16 @@ fine-tune the trained network with more challenging examples later
 - intro: Megvii
 - arxiv: [https://arxiv.org/abs/1612.00212](https://arxiv.org/abs/1612.00212)
 
+**Classification With an Edge: Improving Semantic Image Segmentation with Boundary Detection**
+
+- intro: "an end-to-end trainable deep convolutional neural network (DCNN) for semantic segmentation 
+with built-in awareness of semantically meaningful boundaries. "
+- arxiv: [https://arxiv.org/abs/1612.01337](https://arxiv.org/abs/1612.01337)
+
+**Diverse Sampling for Self-Supervised Learning of Semantic Segmentation**
+
+- arxiv: [https://arxiv.org/abs/1612.01991](https://arxiv.org/abs/1612.01991)
+
 # Instance Segmentation
 
 **Simultaneous Detection and Segmentation**
@@ -508,6 +518,11 @@ fine-tune the trained network with more challenging examples later
 **Scene Labeling using Recurrent Neural Networks with Explicit Long Range Contextual Dependency**
 
 - arxiv: [https://arxiv.org/abs/1611.07485](https://arxiv.org/abs/1611.07485)
+
+**Pyramid Scene Parsing Network**
+
+- intro: mIoU score as 85.4% on PASCAL VOC 2012 and 80.2% on Cityscapes
+- arxiv: [https://arxiv.org/abs/1612.01105](https://arxiv.org/abs/1612.01105)
 
 ## Benchmarks
 

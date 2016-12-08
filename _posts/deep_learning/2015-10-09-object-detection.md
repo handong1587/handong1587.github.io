@@ -781,6 +781,10 @@ This task involves predicting the salient regions of an image given by human eye
 - intro: BMVC 2016 oral
 - arxiv: [https://arxiv.org/abs/1611.02644](https://arxiv.org/abs/1611.02644)
 
+**SqueezeDet: Unified, Small, Low Power Fully Convolutional Neural Networks for Real-Time Object Detection for Autonomous Driving**
+
+- arxiv: [https://arxiv.org/abs/1612.01051](https://arxiv.org/abs/1612.01051)
+
 ## Vehicle Detection
 
 **DAVE: A Unified Framework for Fast Vehicle Detection and Annotation**
@@ -906,6 +910,10 @@ This task involves predicting the salient regions of an image given by human eye
 - intro: AttractioNet
 - arxiv: [https://arxiv.org/abs/1606.04446](https://arxiv.org/abs/1606.04446)
 - github: [https://github.com/gidariss/AttractioNet](https://github.com/gidariss/AttractioNet)
+
+**Learning to Segment Object Proposals via Recursive Neural Networks**
+
+- arxiv: [https://arxiv.org/abs/1612.01057](https://arxiv.org/abs/1612.01057)
 
 # Localization
 

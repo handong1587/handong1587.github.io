@@ -245,6 +245,10 @@ date: 2015-10-09
 
 - arxiv: [https://arxiv.org/abs/1611.05301](https://arxiv.org/abs/1611.05301)
 
+**Binary Subspace Coding for Query-by-Image Video Retrieval**
+
+- arxiv: [https://arxiv.org/abs/1612.01657](https://arxiv.org/abs/1612.01657)
+
 # Datasets
 
 Oxford5k
