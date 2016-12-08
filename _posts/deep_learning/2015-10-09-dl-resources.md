@@ -59,12 +59,18 @@ date: 2015-10-09
 
 **Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift**
 
-- intro: ImageNet top-5 error: 4.82% 
+- intro: ImageNet top-5 error: 4.82%
 - keywords: internal covariate shift problem
 - arxiv: [http://arxiv.org/abs/1502.03167](http://arxiv.org/abs/1502.03167)
 - blog: [https://standardfrancis.wordpress.com/2015/04/16/batch-normalization/](https://standardfrancis.wordpress.com/2015/04/16/batch-normalization/)
 - notes: [http://blog.csdn.net/happynear/article/details/44238541](http://blog.csdn.net/happynear/article/details/44238541)
 - github: [https://github.com/lim0606/caffe-googlenet-bn](https://github.com/lim0606/caffe-googlenet-bn)
+
+**ImageNet pre-trained models with batch normalization**
+
+- arxiv: [https://arxiv.org/abs/1612.01452](https://arxiv.org/abs/1612.01452)
+- project page: [http://www.inf-cv.uni-jena.de/Research/CNN+Models.html](http://www.inf-cv.uni-jena.de/Research/CNN+Models.html)
+- github: [https://github.com/cvjena/cnn-models](https://github.com/cvjena/cnn-models)
 
 ## Inception-V3
 
@@ -223,6 +229,10 @@ not just the convolutions)
 
 - intro: UC San Diego & Facebook AI Research
 - arxiv: [https://arxiv.org/abs/1611.05431](https://arxiv.org/abs/1611.05431)
+
+**Deep Pyramidal Residual Networks with Separated Stochastic Depth**
+
+- arxiv: [https://arxiv.org/abs/1612.01230](https://arxiv.org/abs/1612.01230)
 
 # Deep Learning And Bayesian
 
@@ -569,6 +579,11 @@ Restricted Boltzmann Machine (RBM), Sparse Coding and Auto-encoder
 - intro: Indian Institute of Technology Delhi & MSR
 - paper: [https://manikvarma.github.io/pubs/jain16.pdf](https://manikvarma.github.io/pubs/jain16.pdf)
 
+**Multi-Label Image Classification with Regional Latent Semantic Dependencies**
+
+- intro: Regional Latent Semantic Dependencies model (RLSD), RNN, RPN
+- arxiv: [https://arxiv.org/abs/1612.01082](https://arxiv.org/abs/1612.01082)
+
 # Multi-task Learning
 
 **Multitask Learning / Domain Adaptation**
@@ -655,6 +670,16 @@ Restricted Boltzmann Machine (RBM), Sparse Coding and Auto-encoder
 - intro: NIPS 2016. University of California & Pinterest
 - project page: [http://www.stat.ucla.edu/~junhua.mao/multimodal_embedding.html](http://www.stat.ucla.edu/~junhua.mao/multimodal_embedding.html)
 - arxiv: [https://arxiv.org/abs/1611.08321](https://arxiv.org/abs/1611.08321)
+
+**Deep Multi-Modal Image Correspondence Learning**
+
+- arxiv: [https://arxiv.org/abs/1612.01225](https://arxiv.org/abs/1612.01225)
+
+# Metric Learning
+
+**Learnable Structured Clustering Framework for Deep Metric Learning**
+
+- arxiv: [https://arxiv.org/abs/1612.01213](https://arxiv.org/abs/1612.01213)
 
 # Debugging Deep Learning
 
@@ -1805,6 +1830,11 @@ with fast exact probabilistic inference over many layers."
 - intro: "competitive accuracy at frame rates of 5 to 10 fps"
 - project page: [http://lmb.informatik.uni-freiburg.de/Publications/2015/DFIB15/](http://lmb.informatik.uni-freiburg.de/Publications/2015/DFIB15/)
 - arxiv: [https://arxiv.org/abs/1504.06852](https://arxiv.org/abs/1504.06852)
+
+**FlowNet 2.0: Evolution of Optical Flow Estimation with Deep Networks**
+
+- arxiv: [https://arxiv.org/abs/1612.01925](https://arxiv.org/abs/1612.01925)
+- video: [http://lmb.informatik.uni-freiburg.de/Publications/2016/IMKDB16/](http://lmb.informatik.uni-freiburg.de/Publications/2016/IMKDB16/)
 
 **A convnet for non-maximum suppression**
 

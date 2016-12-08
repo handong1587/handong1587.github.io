@@ -308,6 +308,10 @@ facial action unit recognition, and eye-gaze estimation.
 - intro: recognize the contents of your meal from a single image, then predict its nutritional contents, such as calories
 - paper: [http://www.cs.ubc.ca/~murphyk/Papers/im2calories_iccv15.pdf](http://www.cs.ubc.ca/~murphyk/Papers/im2calories_iccv15.pdf)
 
+**Food Image Recognition by Using Convolutional Neural Networks (CNNs)**
+
+- arxiv: [https://arxiv.org/abs/1612.00983](https://arxiv.org/abs/1612.00983)
+
 ### Instrument Recognition
 
 **Automatic Instrument Recognition in Polyphonic Music Using Convolutional Neural Networks**
