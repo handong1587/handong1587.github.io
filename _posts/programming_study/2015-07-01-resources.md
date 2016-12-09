@@ -15,10 +15,6 @@ date: 2015-07-01
 
 [http://www.cs.cmu.edu/~rwh/courses/typesys/](http://www.cs.cmu.edu/~rwh/courses/typesys/)
 
-**Stanford: CS 97SI: Introduction to Programming Contests**
-
-[http://web.stanford.edu/class/cs97si/](http://web.stanford.edu/class/cs97si/)
-
 **Introduction to DevOps**
 
 - intro: Learn how to make your application lifecycle faster and more predictable for both developers and the operations team.

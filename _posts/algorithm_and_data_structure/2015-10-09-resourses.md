@@ -60,11 +60,34 @@ date: 2015-07-01
 # Papers
 
 **The JPS Pathfinding System**
-**JPS+: Over 100x Faster than A***
+
+**JPS+: Over 100x Faster than A**
 
 - paper: [http://www.aaai.org/ocs/index.php/SOCS/SOCS12/paper/viewFile/5396/5212](http://www.aaai.org/ocs/index.php/SOCS/SOCS12/paper/viewFile/5396/5212)
 - video: [http://www.gdcvault.com/play/1022094/JPS-Over-100x-Faster-than](http://www.gdcvault.com/play/1022094/JPS-Over-100x-Faster-than)
 - mirror: [http://pan.baidu.com/s/1sjNtIVz](http://pan.baidu.com/s/1sjNtIVz)
+
+# Programming Contest
+
+**Stanford: CS 97SI: Introduction to Programming Contests**
+
+- course page: [http://web.stanford.edu/class/cs97si/](http://web.stanford.edu/class/cs97si/)
+
+**Stanford ACM-ICPC related materials**
+
+- intro: This is a repository for the Stanford ACM-ICPC teams. 
+It currently hosts (a) the team notebook, and (b) complete lecture slides for [CS 97SI](http://stanford.edu/class/cs97si/).
+- github: [https://github.com/jaehyunp/stanfordacm](https://github.com/jaehyunp/stanfordacm)
+
+**The Art of Programming Contest**
+
+- book: [https://www.comp.nus.edu.sg/~stevenha/database/Art_of_Programming_Contest_SE_for_uva.pdf](https://www.comp.nus.edu.sg/~stevenha/database/Art_of_Programming_Contest_SE_for_uva.pdf)
+- mirror: [https://pan.baidu.com/s/1qYQyXqc](https://pan.baidu.com/s/1qYQyXqc)
+
+**The Hitchhiker's Guide to the Programming Contest**
+
+- book: [http://comscigate.com/Books/contests/icpc.pdf](http://comscigate.com/Books/contests/icpc.pdf)
+- mirror: [https://pan.baidu.com/s/1i5I5M4H](https://pan.baidu.com/s/1i5I5M4H)
 
 # Blogs
 
