@@ -136,6 +136,11 @@ This package also includes implementation of RBM based collaborative filtering m
 
 - youtube: [https://www.youtube.com/watch?v=KZ7bcfYGuxw](https://www.youtube.com/watch?v=KZ7bcfYGuxw)
 
+**Using MXNet for Recommendation Modeling at Scale**
+
+- youtube: [https://www.youtube.com/watch?v=cftJAuwKWkA](https://www.youtube.com/watch?v=cftJAuwKWkA)
+- mirror: [https://pan.baidu.com/s/1kVsdrmR](https://pan.baidu.com/s/1kVsdrmR)
+
 # Resources
 
 **Recommender Systems with Deep Learning**

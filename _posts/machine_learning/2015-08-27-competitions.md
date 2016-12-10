@@ -125,3 +125,7 @@ date: 2015-08-27
 ![](https://raw.githubusercontent.com/inejc/painters/master/misc/front.jpg)
 
 - github: [https://github.com/inejc/painters](https://github.com/inejc/painters)
+
+**Using Keras+TensorFlow to solve NCFM-Leadboard Top 5%**
+
+- github: [https://github.com/pengpaiSH/Kaggle_NCFM](https://github.com/pengpaiSH/Kaggle_NCFM)

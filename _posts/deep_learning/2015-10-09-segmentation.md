@@ -334,6 +334,7 @@ fine-tune the trained network with more challenging examples later
 
 - intro: Montreal Institute for Learning Algorithms & Ecole Polytechnique de Montreal
 - arxiv: [https://arxiv.org/abs/1611.09326](https://arxiv.org/abs/1611.09326)
+- github: [https://github.com/SimJeg/FC-DenseNet](https://github.com/SimJeg/FC-DenseNet)
 
 **Training Bit Fully Convolutional Network for Fast Semantic Segmentation**
 
@@ -349,6 +350,11 @@ with built-in awareness of semantically meaningful boundaries. "
 **Diverse Sampling for Self-Supervised Learning of Semantic Segmentation**
 
 - arxiv: [https://arxiv.org/abs/1612.01991](https://arxiv.org/abs/1612.01991)
+
+**Mining Pixels: Weakly Supervised Semantic Segmentation Using Image Labels**
+
+- intro: Nankai University & University of Oxford & NUS
+- arxiv: [https://arxiv.org/abs/1612.02101](https://arxiv.org/abs/1612.02101)
 
 # Instance Segmentation
 
@@ -521,8 +527,12 @@ with built-in awareness of semantically meaningful boundaries. "
 
 **Pyramid Scene Parsing Network**
 
-- intro: mIoU score as 85.4% on PASCAL VOC 2012 and 80.2% on Cityscapes
+- intro: mIoU score as 85.4% on PASCAL VOC 2012 and 80.2% on Cityscapes, 
+ranked 1st place in ImageNet Scene Parsing Challenge 2016
+- project page: [http://appsrv.cse.cuhk.edu.hk/~hszhao/projects/pspnet/index.html](http://appsrv.cse.cuhk.edu.hk/~hszhao/projects/pspnet/index.html)
 - arxiv: [https://arxiv.org/abs/1612.01105](https://arxiv.org/abs/1612.01105)
+- slides: [http://image-net.org/challenges/talks/2016/SenseCUSceneParsing.pdf](http://image-net.org/challenges/talks/2016/SenseCUSceneParsing.pdf)
+- github: [https://github.com/hszhao/PSPNet](https://github.com/hszhao/PSPNet)
 
 ## Benchmarks
 

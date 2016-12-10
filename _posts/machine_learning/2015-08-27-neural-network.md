@@ -219,3 +219,9 @@ date: 2015-08-27
 
 - youtube: [https://www.youtube.com/watch?v=5bFxDsoNFzU](https://www.youtube.com/watch?v=5bFxDsoNFzU)
 - video: [http://pan.baidu.com/s/1boc933p](http://pan.baidu.com/s/1boc933p)
+
+# Books
+
+**Neural Network Programming with Java**
+
+[https://www.packtpub.com/mapt/book/All%20Books/9781785880902](https://www.packtpub.com/mapt/book/All%20Books/9781785880902)

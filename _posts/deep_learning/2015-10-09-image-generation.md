@@ -140,6 +140,7 @@ date: 2015-10-09
 - intro: University of Wyoming & Geometric Intelligence & Montreal Institute for Learning Algorithms & University of Freiburg
 - project page: [http://www.evolvingai.org/ppgn](http://www.evolvingai.org/ppgn)
 - paper: [http://www.evolvingai.org/files/nguyen2016ppgn_v1.pdf](http://www.evolvingai.org/files/nguyen2016ppgn_v1.pdf)
+- github: [https://github.com/Evolving-AI-Lab/ppgn](https://github.com/Evolving-AI-Lab/ppgn)
 
 # Video Generation
 

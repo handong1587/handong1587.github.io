@@ -60,6 +60,15 @@ date: 2015-10-09
 - slides: [http://www.iangoodfellow.com/slides/2016-12-04-NIPS.pdf](http://www.iangoodfellow.com/slides/2016-12-04-NIPS.pdf)
 - mirror: [https://pan.baidu.com/s/1gfBNYW7](https://pan.baidu.com/s/1gfBNYW7)
 
+**Adversarial Examples and Adversarial Training**
+
+- intro: NIPS 2016, Ian Goodfellow OpenAI
+- slides: [http://www.iangoodfellow.com/slides/2016-12-9-AT.pdf](http://www.iangoodfellow.com/slides/2016-12-9-AT.pdf)
+
+**How to Train a GAN? Tips and tricks to make GANs work**
+
+- github: [https://github.com/soumith/ganhacks](https://github.com/soumith/ganhacks)
+
 ## CatGAN
 
 **Unsupervised and Semi-supervised Learning with Categorical Generative Adversarial Networks**
@@ -177,6 +186,11 @@ date: 2015-10-09
 
 - intro: NIPS 2016 Workshop on Adversarial Training
 - arxiv: [https://arxiv.org/abs/1612.00991](https://arxiv.org/abs/1612.00991)
+
+**Improved generator objectives for GANs**
+
+- intro: NIPS 2016 Workshop on Adversarial Training
+- arxiv: [https://arxiv.org/abs/1612.02780](https://arxiv.org/abs/1612.02780)
 
 # Projects
 

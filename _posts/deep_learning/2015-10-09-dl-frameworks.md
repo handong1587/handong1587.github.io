@@ -252,6 +252,10 @@ in particular Intel® Xeon processors (HSW+) and Intel® Xeon Phi processors
 - intro: This is a bunch of code to port Keras neural network model into pure C++.
 - github: [https://github.com/pplonski/keras2cpp](https://github.com/pplonski/keras2cpp)
 
+**keras-cn: Chinese keras documents with more examples, explanations and tips.**
+
+- github: [https://github.com/MoyanZitto/keras-cn](https://github.com/MoyanZitto/keras-cn)
+
 # Lasagne
 
 **Lasagne: Lightweight library to build and train neural networks in Theano**

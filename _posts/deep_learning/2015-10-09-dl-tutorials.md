@@ -446,6 +446,10 @@ Machine learning workflow, Extracting feaures from images (colours, edges, corne
 
 - blog: [https://medium.com/intuitionmachine/deep-learning-the-unreasonable-effectiveness-of-randomness-14d5aef13f87#.1n775yl4i](https://medium.com/intuitionmachine/deep-learning-the-unreasonable-effectiveness-of-randomness-14d5aef13f87#.1n775yl4i)
 
+**Deep Meta-Learning : Machines now Bootstrap Themselves**
+
+- blog: [https://medium.com/intuitionmachine/deep-learning-can-now-create-itself-92e7ff0d59a7#.ml0dy8m9a](https://medium.com/intuitionmachine/deep-learning-can-now-create-itself-92e7ff0d59a7#.ml0dy8m9a)
+
 **Are Deep Neural Networks Creative?**
 
 - blog: [http://www.kdnuggets.com/2016/05/deep-neural-networks-creative-deep-learning-art.html](http://www.kdnuggets.com/2016/05/deep-neural-networks-creative-deep-learning-art.html)
@@ -481,6 +485,11 @@ Machine learning workflow, Extracting feaures from images (colours, edges, corne
 **Deep Learning Tutorials for 10 Weeks**
 
 - github: [https://github.com/sjchoi86/dl_tutorials_4th](https://github.com/sjchoi86/dl_tutorials_4th)
+
+**Traffic signs classification with Deep Learning.**
+
+- blog: [https://hackernoon.com/traffic-signs-classification-with-deep-learning-b0cb03e23efb#.n0fjehwo6](https://hackernoon.com/traffic-signs-classification-with-deep-learning-b0cb03e23efb#.n0fjehwo6)
+- github: [https://github.com/MehdiSv/TrafficSignsRecognition/](https://github.com/MehdiSv/TrafficSignsRecognition/)
 
 # Convolution
 
@@ -625,6 +634,12 @@ Machine learning workflow, Extracting feaures from images (colours, edges, corne
 
 [http://warmspringwinds.github.io/tensorflow/tf-slim/2016/10/30/image-classification-and-segmentation-using-tensorflow-and-tf-slim/](http://warmspringwinds.github.io/tensorflow/tf-slim/2016/10/30/image-classification-and-segmentation-using-tensorflow-and-tf-slim/)
 
+**Not another MNIST tutorial with TensorFlow**
+
+![](https://d3tdunqjn7n0wj.cloudfront.net/720x480/9728631593_21fb6f5f41_k_crop-526131ac6f07dc1b2f316a30c992b758.jpg)
+
+- blog: [https://www.oreilly.com/learning/not-another-mnist-tutorial-with-tensorflow](https://www.oreilly.com/learning/not-another-mnist-tutorial-with-tensorflow)
+
 # Keras
 
 **Keras tutorial**
@@ -647,3 +662,10 @@ Machine learning workflow, Extracting feaures from images (colours, edges, corne
 **Torch Developer Guide**
 
 - github: [https://github.com/Atcold/Torch-Developer-Guide](https://github.com/Atcold/Torch-Developer-Guide)
+
+# Building a System for Fun!
+
+**Deep Learning in Aerial Systems Using Jetson**
+
+- blog: [https://devblogs.nvidia.com/parallelforall/deep-learning-in-aerial-systems-jetson/](https://devblogs.nvidia.com/parallelforall/deep-learning-in-aerial-systems-jetson/)
+- github: [https://github.com/amitibo/auvsi-targets](https://github.com/amitibo/auvsi-targets)

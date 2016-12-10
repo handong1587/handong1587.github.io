@@ -99,6 +99,10 @@ date: 2015-10-09
 
 [https://berkeley-deep-learning.github.io/cs294-dl-f16/](https://berkeley-deep-learning.github.io/cs294-dl-f16/)
 
+**Fork of Lempitsky DL for HSE master students.**
+
+- github: [https://github.com/yandexdataschool/HSE_deeplearning](https://github.com/yandexdataschool/HSE_deeplearning)
+
 ## With Video Lectures
 
 **Deep Learning: Taking machine learning to the next level (Udacity)**

@@ -229,10 +229,18 @@ not just the convolutions)
 
 - intro: UC San Diego & Facebook AI Research
 - arxiv: [https://arxiv.org/abs/1611.05431](https://arxiv.org/abs/1611.05431)
+- github: [https://github.com/dmlc/mxnet/blob/master/example/image-classification/symbol/resnext.py](https://github.com/dmlc/mxnet/blob/master/example/image-classification/symbol/resnext.py)
+- dataset: [http://data.dmlc.ml/models/imagenet/resnext/](http://data.dmlc.ml/models/imagenet/resnext/)
+- reddit: [https://www.reddit.com/r/MachineLearning/comments/5haml9/p_implementation_of_aggregated_residual/](https://www.reddit.com/r/MachineLearning/comments/5haml9/p_implementation_of_aggregated_residual/)
 
 **Deep Pyramidal Residual Networks with Separated Stochastic Depth**
 
 - arxiv: [https://arxiv.org/abs/1612.01230](https://arxiv.org/abs/1612.01230)
+
+**Spatially Adaptive Computation Time for Residual Networks**
+
+- intro: Higher School of Economics & Google & CMU
+- arxiv: [https://arxiv.org/abs/1612.02297](https://arxiv.org/abs/1612.02297)
 
 # Deep Learning And Bayesian
 
@@ -262,116 +270,6 @@ not just the convolutions)
 - intro: IEEE Transactions on Knowledge and Data Engineering (TKDE), 2016
 - arxiv: [http://arxiv.org/abs/1608.06884](http://arxiv.org/abs/1608.06884)
 
-# Autoencoders
-
-**Auto-Encoding Variational Bayes**
-
-- arxiv: [http://arxiv.org/abs/1312.6114](http://arxiv.org/abs/1312.6114)
-
-**The Potential Energy of an Autoencoder**
-
-- intro: PAMI 2014
-- paper: [http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.698.4921&rep=rep1&type=pdf](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.698.4921&rep=rep1&type=pdf)
-
-**Importance Weighted Autoencoders**
-
-- paper: [http://arxiv.org/abs/1509.00519](http://arxiv.org/abs/1509.00519)
-- github: [https://github.com/yburda/iwae](https://github.com/yburda/iwae)
-
-**Review of Auto-Encoders**
-
-- intro: Piotr Mirowski, Microsoft Bing London, 2014
-- slides: [https://piotrmirowski.files.wordpress.com/2014/03/piotrmirowski_2014_reviewautoencoders.pdf](https://piotrmirowski.files.wordpress.com/2014/03/piotrmirowski_2014_reviewautoencoders.pdf)
-- github: [https://github.com/piotrmirowski/Tutorial_AutoEncoders/](https://github.com/piotrmirowski/Tutorial_AutoEncoders/)
-
-**Stacked What-Where Auto-encoders**
-
-- arxiv: [http://arxiv.org/abs/1506.02351](http://arxiv.org/abs/1506.02351)
-
-**Ladder Variational Autoencoders**
-
-**How to Train Deep Variational Autoencoders and Probabilistic Ladder Networks**
-
-- arxiv:[http://arxiv.org/abs/1602.02282](http://arxiv.org/abs/1602.02282)
-- github: [https://github.com/casperkaae/LVAE](https://github.com/casperkaae/LVAE)
-
-**Rank Ordered Autoencoders**
-
-- arxiv: [http://arxiv.org/abs/1605.01749](http://arxiv.org/abs/1605.01749)
-- github: [https://github.com/paulbertens/rank-ordered-autoencoder](https://github.com/paulbertens/rank-ordered-autoencoder)
-
-**Decoding Stacked Denoising Autoencoders**
-
-- arxiv: [http://arxiv.org/abs/1605.02832](http://arxiv.org/abs/1605.02832)
-
-**Keras autoencoders (convolutional/fcc)**
-
-- github: [https://github.com/nanopony/keras-convautoencoder](https://github.com/nanopony/keras-convautoencoder)
-
-**Building Autoencoders in Keras**
-
-- blog: [http://blog.keras.io/building-autoencoders-in-keras.html](http://blog.keras.io/building-autoencoders-in-keras.html)
-
-**Review of auto-encoders**
-
-- intro: Tutorial code for Auto-Encoders, implementing Marc'Aurelio Ranzato's Sparse Encoding Symmetric Machine and 
-testing it on the MNIST handwritten digits data.
-- paper: [https://github.com/piotrmirowski/Tutorial_AutoEncoders/blob/master/PiotrMirowski_2014_ReviewAutoEncoders.pdf](https://github.com/piotrmirowski/Tutorial_AutoEncoders/blob/master/PiotrMirowski_2014_ReviewAutoEncoders.pdf)
-- github: [https://github.com/piotrmirowski/Tutorial_AutoEncoders](https://github.com/piotrmirowski/Tutorial_AutoEncoders)
-
-**Autoencoders: Torch implementations of various types of autoencoders**
-
-- intro: AE / SparseAE / DeepAE / ConvAE / UpconvAE / DenoisingAE / VAE / AdvAE
-- github: [https://github.com/Kaixhin/Autoencoders](https://github.com/Kaixhin/Autoencoders)
-
-**Tutorial on Variational Autoencoders**
-
-- arxiv: [http://arxiv.org/abs/1606.05908](http://arxiv.org/abs/1606.05908)
-- github: [https://github.com/cdoersch/vae_tutorial](https://github.com/cdoersch/vae_tutorial)
-
-**Variational Autoencoders Explained**
-
-- blog: [http://kvfrans.com/variational-autoencoders-explained/](http://kvfrans.com/variational-autoencoders-explained/)
-- github: [https://github.com/kvfrans/variational-autoencoder](https://github.com/kvfrans/variational-autoencoder)
-
-**Introducing Variational Autoencoders (in Prose and Code)**
-
-- blog: [http://blog.fastforwardlabs.com/post/148842796218/introducing-variational-autoencoders-in-prose-and](http://blog.fastforwardlabs.com/post/148842796218/introducing-variational-autoencoders-in-prose-and)
-
-**Under the Hood of the Variational Autoencoder (in Prose and Code)**
-
-- blog: [http://blog.fastforwardlabs.com/post/149329060653/under-the-hood-of-the-variational-autoencoder-in](http://blog.fastforwardlabs.com/post/149329060653/under-the-hood-of-the-variational-autoencoder-in)
-
-**The Unreasonable Confusion of Variational Autoencoders**
-
-- blog: [https://jaan.io/unreasonable-confusion/](https://jaan.io/unreasonable-confusion/)
-
-**Variational Autoencoder for Deep Learning of Images, Labels and Captions**
-
-- intro: NIPS 2016. Duke University & Nokia Bell Labs
-- paper: [http://people.ee.duke.edu/~lcarin/Yunchen_nips_2016.pdf](http://people.ee.duke.edu/~lcarin/Yunchen_nips_2016.pdf)
-
-**Convolutional variational autoencoder with PyMC3 and Keras**
-
-[http://nbviewer.jupyter.org/github/taku-y/pymc3/blob/89b8634a2fd30ef96429953558bf360132b6153f/docs/source/notebooks/convolutional_vae_keras_advi.ipynb](http://nbviewer.jupyter.org/github/taku-y/pymc3/blob/89b8634a2fd30ef96429953558bf360132b6153f/docs/source/notebooks/convolutional_vae_keras_advi.ipynb)
-
-**Pixelvae: A Latent Variable Model For Natural Images**
-
-- paper: [http://openreview.net/pdf?id=BJKYvt5lg](http://openreview.net/pdf?id=BJKYvt5lg)
-
-**beta-VAE: Learning Basic Visual Concepts with a Constrained Variational Framework**
-
-- paper: [http://openreview.net/pdf?id=Sy2fzU9gl](http://openreview.net/pdf?id=Sy2fzU9gl)
-- github: [https://github.com/crcrpar/chainer-VAE](https://github.com/crcrpar/chainer-VAE)
-
-**Variational Lossy Autoencoder**
-
-- arxiv: [https://arxiv.org/abs/1611.02731](https://arxiv.org/abs/1611.02731)
-
-**Convolutional Autoencoders**
-
-- blog: [https://pgaleone.eu/neural-networks/2016/11/24/convolutional-autoencoders/](https://pgaleone.eu/neural-networks/2016/11/24/convolutional-autoencoders/)
-
 # Semi-Supervised Learning
 
 **Semi-Supervised Learning with Graphs**
@@ -398,94 +296,6 @@ testing it on the MNIST handwritten digits data.
 **Infinite Variational Autoencoder for Semi-Supervised Learning**
 
 - arxiv: [https://arxiv.org/abs/1611.07800](https://arxiv.org/abs/1611.07800)
-
-# Unsupervised Learning
-
-Restricted Boltzmann Machine (RBM), Sparse Coding and Auto-encoder
-
-**On Random Weights and Unsupervised Feature Learning**
-
-- intro: ICML 2011
-- paper: [http://www.robotics.stanford.edu/~ang/papers/icml11-RandomWeights.pdf](http://www.robotics.stanford.edu/~ang/papers/icml11-RandomWeights.pdf)
-
-**Unsupervised Learning of Spatiotemporally Coherent Metrics**
-
-- paper: [http://arxiv.org/abs/1412.6056](http://arxiv.org/abs/1412.6056)
-- code: [https://github.com/jhjin/flattened-cnn](https://github.com/jhjin/flattened-cnn)
-
-**Unsupervised Visual Representation Learning by Context Prediction**
-
-- intro: ICCV 2015
-- homepage: [http://graphics.cs.cmu.edu/projects/deepContext/](http://graphics.cs.cmu.edu/projects/deepContext/)
-- arxiv: [http://arxiv.org/abs/1505.05192](http://arxiv.org/abs/1505.05192)
-- github: [https://github.com/cdoersch/deepcontext](https://github.com/cdoersch/deepcontext)
-
-**Unsupervised Learning on Neural Network Outputs**
-
-- intro: "use CNN trained on the ImageNet of 1000 classes to the ImageNet of over 20000 classes"
-- arxiv: [http://arxiv.org/abs/1506.00990](http://arxiv.org/abs/1506.00990)
-- github: [https://github.com/yaolubrain/ULNNO](https://github.com/yaolubrain/ULNNO)
-
-**Unsupervised Learning of Visual Representations by Solving Jigsaw Puzzles**
-
-- arxiv: [http://arxiv.org/abs/1603.09246](http://arxiv.org/abs/1603.09246)
-- notes: [http://www.inference.vc/notes-on-unsupervised-learning-of-visual-representations-by-solving-jigsaw-puzzles/](http://www.inference.vc/notes-on-unsupervised-learning-of-visual-representations-by-solving-jigsaw-puzzles/)
-
-**Regularization for Unsupervised Deep Neural Nets**
-
-- arxiv: [http://arxiv.org/abs/1608.04426](http://arxiv.org/abs/1608.04426)
-
-**Sparse coding: A simple exploration**
-
-- blog: [https://blog.metaflow.fr/sparse-coding-a-simple-exploration-152a3c900a7c#.o7g2jk9zi](https://blog.metaflow.fr/sparse-coding-a-simple-exploration-152a3c900a7c#.o7g2jk9zi)
-- github: [https://github.com/metaflow-ai/blog/tree/master/sparse-coding](https://github.com/metaflow-ai/blog/tree/master/sparse-coding)
-
-**Navigating the unsupervised learning landscape**
-
-- blog: [https://culurciello.github.io//tech/2016/06/10/unsup.html](https://culurciello.github.io//tech/2016/06/10/unsup.html)
-
-**Unsupervised Learning using Adversarial Networks**
-
-- intro: Facebook AI Research
-- youtube: [https://www.youtube.com/watch?v=lalg1CuNB30](https://www.youtube.com/watch?v=lalg1CuNB30)
-
-**Split-Brain Autoencoders: Unsupervised Learning by Cross-Channel Prediction**
-
-- intro: UC Berkeley
-- project page: [https://richzhang.github.io/splitbrainauto/](https://richzhang.github.io/splitbrainauto/)
-- arxiv: [https://arxiv.org/abs/1611.09842](https://arxiv.org/abs/1611.09842)
-- github: [https://github.com/richzhang/splitbrainauto](https://github.com/richzhang/splitbrainauto)
-
-## Clustering
-
-**Joint Unsupervised Learning of Deep Representations and Image Clusters**
-
-- intro: CVPR 2016
-- arxiv: [https://arxiv.org/abs/1604.03628](https://arxiv.org/abs/1604.03628)
-- github(Torch): [https://github.com/jwyang/joint-unsupervised-learning](https://github.com/jwyang/joint-unsupervised-learning)
-
-**Single-Channel Multi-Speaker Separation using Deep Clustering**
-
-- arxiv: [http://arxiv.org/abs/1607.02173](http://arxiv.org/abs/1607.02173)
-
-**Unsupervised Deep Embedding for Clustering Analysis**
-
-- intro: ICML 2016. Deep Embedded Clustering (DEC)
-- arxiv: [https://arxiv.org/abs/1511.06335](https://arxiv.org/abs/1511.06335)
-- github: [https://github.com/piiswrong/dec](https://github.com/piiswrong/dec)
-
-**Towards K-means-friendly Spaces: Simultaneous Deep Learning and Clustering**
-
-- arxiv: [https://arxiv.org/abs/1610.04794](https://arxiv.org/abs/1610.04794)
-
-**Deep Unsupervised Clustering with Gaussian Mixture Variational**
-
-- arxiv: [https://arxiv.org/abs/1611.02648](https://arxiv.org/abs/1611.02648)
-- github: [https://github.com/Nat-D/GMVAE](https://github.com/Nat-D/GMVAE)
-
-**Variational Deep Embedding: A Generative Approach to Clustering**
-
-- arxiv: [https://arxiv.org/abs/1611.05148](https://arxiv.org/abs/1611.05148)
 
 # Transfer Learning
 
@@ -895,7 +705,9 @@ with fast exact probabilistic inference over many layers."
 
 ![](https://raw.githubusercontent.com/karpathy/paper-notes/master/img/vin/Screen%20Shot%202016-08-13%20at%204.58.42%20PM.png)
 
+- intro: NIPS 2016. University of California, Berkeley
 - arxiv: [http://arxiv.org/abs/1602.02867](http://arxiv.org/abs/1602.02867)
+- github: [https://github.com/avivt/VIN](https://github.com/avivt/VIN)
 - notes(by Andrej Karpathy): [https://github.com/karpathy/paper-notes/blob/master/vin.md](https://github.com/karpathy/paper-notes/blob/master/vin.md)
 
 **How to Train Deep Variational Autoencoders and Probabilistic Ladder Networks**
@@ -1347,6 +1159,16 @@ with fast exact probabilistic inference over many layers."
 
 # Deep Learning in Speech
 
+**Deep Speech 2: End-to-End Speech Recognition in English and Mandarin**
+
+- intro: Baidu Research, ICML 2016
+- arxiv: [https://arxiv.org/abs/1512.02595](https://arxiv.org/abs/1512.02595)
+- github(Neon): [https://github.com/NervanaSystems/deepspeech](https://github.com/NervanaSystems/deepspeech)
+
+**End-to-end speech recognition with neon**
+
+- blog: [https://www.nervanasys.com/end-end-speech-recognition-neon/](https://www.nervanasys.com/end-end-speech-recognition-neon/)
+
 ## WaveNet
 
 **WaveNet: A Generative Model for Raw Audio**
@@ -1400,7 +1222,20 @@ with fast exact probabilistic inference over many layers."
 
 - arxiv: [https://arxiv.org/abs/1611.07174](https://arxiv.org/abs/1611.07174)
 
-# Deep Learning for Music
+# Deep Learning for Sound / Music
+
+## Sound
+
+**Suggesting Sounds for Images from Video Collections**
+
+- intro: ETH Zurich & 2Disney Research
+- paper: [https://s3-us-west-1.amazonaws.com/disneyresearch/wp-content/uploads/20161014182443/Suggesting-Sounds-for-Images-from-Video-Collections-Paper.pdf](https://s3-us-west-1.amazonaws.com/disneyresearch/wp-content/uploads/20161014182443/Suggesting-Sounds-for-Images-from-Video-Collections-Paper.pdf)
+
+**Disney AI System Associates Images with Sounds**
+
+- blog: [https://news.developer.nvidia.com/disneys-ai-system-associates-images-with-sounds/](https://news.developer.nvidia.com/disneys-ai-system-associates-images-with-sounds/)
+
+## Music
 
 **Learning Features of Music from Scratch**
 
@@ -1408,6 +1243,12 @@ with fast exact probabilistic inference over many layers."
 - project page: [http://homes.cs.washington.edu/~thickstn/musicnet.html](http://homes.cs.washington.edu/~thickstn/musicnet.html)
 - arxiv: [https://arxiv.org/abs/1611.09827](https://arxiv.org/abs/1611.09827)
 - demo: [http://homes.cs.washington.edu/~thickstn/demos.html](http://homes.cs.washington.edu/~thickstn/demos.html)
+
+**DeepBach: a Steerable Model for Bach chorales generation**
+
+- project page: [http://www.flow-machines.com/deepbach-steerable-model-bach-chorales-generation/](http://www.flow-machines.com/deepbach-steerable-model-bach-chorales-generation/)
+- arxiv: [https://arxiv.org/abs/1612.01010](https://arxiv.org/abs/1612.01010)
+- github: [https://github.com/SonyCSL-Paris/DeepBach](https://github.com/SonyCSL-Paris/DeepBach)
 
 **Deep Learning for Music**
 
@@ -1758,6 +1599,15 @@ with fast exact probabilistic inference over many layers."
 
 - intro: University of Science and Technology of China & MSR
 - arxiv: [https://arxiv.org/abs/1611.09502](https://arxiv.org/abs/1611.09502)
+
+**A Probabilistic Theory of Deep Learning**
+
+- arxiv: [https://arxiv.org/abs/1504.00641](https://arxiv.org/abs/1504.00641)
+
+**A Probabilistic Framework for Deep Learning**
+
+- intro: Rice University
+- arxiv: [https://arxiv.org/abs/1612.01936](https://arxiv.org/abs/1612.01936)
 
 ## STDP
 
@@ -2318,7 +2168,6 @@ Compatible with Theano and TensorFlow. Optimized for Twitter.
 
 - blog: [https://medium.com/@zan2434/building-a-deep-learning-powered-gif-search-engine-a3eb309d7525](https://medium.com/@zan2434/building-a-deep-learning-powered-gif-search-engine-a3eb309d7525)
 
-**Deep Learning in Aerial Systems Using Jetson**
+**850k Images in 24 hours: Automating Deep Learning Dataset Creation**
 
-- blog: [https://devblogs.nvidia.com/parallelforall/deep-learning-in-aerial-systems-jetson/](https://devblogs.nvidia.com/parallelforall/deep-learning-in-aerial-systems-jetson/)
-- github: [https://github.com/amitibo/auvsi-targets](https://github.com/amitibo/auvsi-targets)
+[https://gab41.lab41.org/850k-images-in-24-hours-automating-deep-learning-dataset-creation-60bdced04275#.xhq9feuxx](https://gab41.lab41.org/850k-images-in-24-hours-automating-deep-learning-dataset-creation-60bdced04275#.xhq9feuxx)
