@@ -343,6 +343,29 @@ import pdb
 pdb.set_trace()
 ```
 
+**exit pdb and allow program to continue**
+
+1. To remove the breakpoint (if inserted it manually):
+
+    ```
+    (Pdb) break
+    Num Type         Disp Enb   Where
+    1   breakpoint   keep yes   at /path/to/test.py:5
+    (Pdb) clear 1
+    Deleted breakpoint 1
+    (Pdb) continue
+    ```
+
+2. if you're using pdb.set_trace(), you can try this (although if you're using pdb in more fancy ways, this may break things...)
+
+    ```
+    (Pdb) pdb.set_trace = lambda: None  # This replaces the set_trace() function!
+    (Pdb) continue
+    # No more breaks!
+    ```
+
+- ref: [http://stackoverflow.com/questions/17820618/how-to-exit-pdb-and-allow-program-to-continue](http://stackoverflow.com/questions/17820618/how-to-exit-pdb-and-allow-program-to-continue)
+
 # Ctags
 
 | command         | explanation                                       |
