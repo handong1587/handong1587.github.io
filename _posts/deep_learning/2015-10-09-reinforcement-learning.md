@@ -46,6 +46,12 @@ date: 2015-10-09
 - video: [http://techtalks.tv/talks/deep-reinforcement-learning/62360/](http://techtalks.tv/talks/deep-reinforcement-learning/62360/)
 - slides: [http://hunch.net/~beygel/deep_rl_tutorial.pdf](http://hunch.net/~beygel/deep_rl_tutorial.pdf)
 
+**The Nuts and Bolts of Deep RL Research**
+
+- intro: NIPS 2016, John Schulman, OpenAI
+- slides: [http://rll.berkeley.edu/deeprlcourse/docs/nuts-and-bolts.pdf](http://rll.berkeley.edu/deeprlcourse/docs/nuts-and-bolts.pdf)
+- mirror: [https://pan.baidu.com/s/1kVkBLkF](https://pan.baidu.com/s/1kVkBLkF)
+
 ## Simple Reinforcement Learning with Tensorflow
 
 **Part 0: Q-Learning with Tables and Neural Networks**

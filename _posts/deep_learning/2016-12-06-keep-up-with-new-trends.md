@@ -11,6 +11,30 @@ date: 2016-12-06
 
 [https://deepmind.com/blog/deepmind-papers-nips-part-1/](https://deepmind.com/blog/deepmind-papers-nips-part-1/)
 
+**DeepMind Papers @ NIPS (Part 2)**
+
+[https://deepmind.com/blog/deepmind-papers-nips-part-2/](https://deepmind.com/blog/deepmind-papers-nips-part-2/)
+
+**DeepMind Papers @ NIPS (Part 3)**
+
+[https://deepmind.com/blog/deepmind-papers-nips-part-3/](https://deepmind.com/blog/deepmind-papers-nips-part-3/)
+
+**NIPS 2016 Review, Days 0 & 1**
+
+[https://gab41.lab41.org/nips-2016-review-day-1-6e504bcf1451#.ldaft47ea](https://gab41.lab41.org/nips-2016-review-day-1-6e504bcf1451#.ldaft47ea)
+
+**NIPS 2016 Review, Day 2**
+
+[https://gab41.lab41.org/nips-2016-review-day-2-daff1088135e#.o9r8li43x](https://gab41.lab41.org/nips-2016-review-day-2-daff1088135e#.o9r8li43x)
+
+**NIPS 2016 — Day 1 Highlights**
+
+[https://blog.insightdatascience.com/nips-2016-day-1-6ae1207cab82#.c248ycixg](https://blog.insightdatascience.com/nips-2016-day-1-6ae1207cab82#.c248ycixg)
+
+**NIPS 2016 — Day 2 Highlights: Platform wars, RL and RNNs**
+
+[https://blog.insightdatascience.com/nips-2016-day-2-highlights-platform-wars-rl-and-rnns-9dca43bc1448#.zgtu1rtr0](https://blog.insightdatascience.com/nips-2016-day-2-highlights-platform-wars-rl-and-rnns-9dca43bc1448#.zgtu1rtr0)
+
 # Heuritech Deep Learning Meetup
 
 **Heuritech Deep Learning Meetup #7: more than 100 attendees for convolutionnal neural networks**

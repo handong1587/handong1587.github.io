@@ -192,6 +192,7 @@ date: 2015-10-09
 
 - arxiv: [http://arxiv.org/abs/1602.07868](http://arxiv.org/abs/1602.07868)
 - github(Lasagne): [https://github.com/TimSalimans/weight_norm](https://github.com/TimSalimans/weight_norm)
+- github: [https://github.com/openai/weightnorm](https://github.com/openai/weightnorm)
 - notes: [http://www.erogol.com/my-notes-weight-normalization/](http://www.erogol.com/my-notes-weight-normalization/)
 
 **Normalization Propagation: A Parametric Technique for Removing Internal Covariate Shift in Deep Networks**
@@ -219,6 +220,7 @@ date: 2015-10-09
 - arxiv: [https://arxiv.org/abs/1607.06450](https://arxiv.org/abs/1607.06450)
 - github: [https://github.com/ryankiros/layer-norm](https://github.com/ryankiros/layer-norm)
 - github(TensorFlow): [https://github.com/pbhatia243/tf-layer-norm](https://github.com/pbhatia243/tf-layer-norm)
+- github: [https://github.com/MycChiu/fast-LayerNorm-TF](https://github.com/MycChiu/fast-LayerNorm-TF)
 
 **Keras GRU with Layer Normalization**
 
@@ -241,6 +243,11 @@ date: 2015-10-09
 **Learning Deep Embeddings with Histogram Loss**
 
 - arxiv: [https://arxiv.org/abs/1611.00822](https://arxiv.org/abs/1611.00822)
+
+**Large-Margin Softmax Loss for Convolutional Neural Networks**
+
+- intro: ICML 2016
+- arxiv: [https://arxiv.org/abs/1612.02295](https://arxiv.org/abs/1612.02295)
 
 # Learning Rate
 
@@ -332,6 +339,7 @@ date: 2015-10-09
 
 - intro: Google DeepMind
 - arxiv: [https://arxiv.org/abs/1606.04474](https://arxiv.org/abs/1606.04474)
+- github: [https://github.com/deepmind/learning-to-learn](https://github.com/deepmind/learning-to-learn)
 - github(TensorFlow): [https://github.com/runopti/Learning-To-Learn](https://github.com/runopti/Learning-To-Learn)
 
 **SGDR: Stochastic Gradient Descent with Restarts**
@@ -495,6 +503,13 @@ date: 2015-10-09
 - arxiv: [https://arxiv.org/abs/1302.4389](https://arxiv.org/abs/1302.4389)
 - github: [https://github.com/lisa-lab/pylearn2/blob/master/pylearn2/models/maxout.py](https://github.com/lisa-lab/pylearn2/blob/master/pylearn2/models/maxout.py)
 
+## Whiteout
+
+**Whiteout: Gaussian Adaptive Regularization Noise in Deep Neural Networks**
+
+- intro: University of Notre Dame & University of Science and Technology of China
+- arxiv: [https://arxiv.org/abs/1612.01490](https://arxiv.org/abs/1612.01490)
+
 # Gradient Descent
 
 ## AdaGrad
@@ -634,6 +649,11 @@ date: 2015-10-09
 **HZPROC: torch data augmentation toolbox (supports affine transform)**
 
 - github: [https://github.com/zhanghang1989/hzproc](https://github.com/zhanghang1989/hzproc)
+
+**AGA: Attribute Guided Augmentation**
+
+- intro: one-shot recognition
+- arxiv: [https://arxiv.org/abs/1612.02559](https://arxiv.org/abs/1612.02559)
 
 ## Imbalanced Datasets
 
