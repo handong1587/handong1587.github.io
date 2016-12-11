@@ -826,6 +826,11 @@ This task involves predicting the salient regions of an image given by human eye
 - intro: ECCV 2016
 - arxiv: [http://arxiv.org/abs/1608.02755](http://arxiv.org/abs/1608.02755)
 
+**Richer Convolutional Features for Edge Detection**
+
+- intro: richer convolutional features (RCF)
+- arxiv: [https://arxiv.org/abs/1612.02103](https://arxiv.org/abs/1612.02103)
+
 ## Skeleton Detection
 
 **Object Skeleton Extraction in Natural Images by Fusing Scale-associated Deep Side Outputs**

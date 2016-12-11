@@ -350,6 +350,14 @@ with built-in awareness of semantically meaningful boundaries. "
 
 - arxiv: [https://arxiv.org/abs/1612.01991](https://arxiv.org/abs/1612.01991)
 
+**Mining Pixels: Weakly Supervised Semantic Segmentation Using Image Labels**
+
+- arxiv: [https://arxiv.org/abs/1612.02101](https://arxiv.org/abs/1612.02101)
+
+**FCNs in the Wild: Pixel-level Adversarial and Constraint-based Adaptation**
+
+- arxiv: [https://arxiv.org/abs/1612.02649](https://arxiv.org/abs/1612.02649)
+
 # Instance Segmentation
 
 **Simultaneous Detection and Segmentation**
@@ -586,6 +594,10 @@ with built-in awareness of semantically meaningful boundaries. "
 **One-Shot Video Object Segmentation**
 
 - arxiv: [https://arxiv.org/abs/1611.05198](https://arxiv.org/abs/1611.05198)
+
+**Learning Video Object Segmentation from Static Images**
+
+- arxiv: [https://arxiv.org/abs/1612.02646](https://arxiv.org/abs/1612.02646)
 
 # Leaderboard
 
