@@ -23,6 +23,14 @@ Auto-encoder
 - paper: [http://arxiv.org/abs/1412.6056](http://arxiv.org/abs/1412.6056)
 - code: [https://github.com/jhjin/flattened-cnn](https://github.com/jhjin/flattened-cnn)
 
+**Unsupervised Learning of Visual Representations using Videos**
+
+- intro: ICCV 2015
+- project page: [http://www.cs.cmu.edu/~xiaolonw/unsupervise.html](http://www.cs.cmu.edu/~xiaolonw/unsupervise.html)
+- arxiv: [http://arxiv.org/abs/1505.00687](http://arxiv.org/abs/1505.00687)
+- paper: [http://www.cs.toronto.edu/~nitish/depth_oral.pdf](http://www.cs.toronto.edu/~nitish/depth_oral.pdf)
+- github: [https://github.com/xiaolonw/caffe-video_triplet](https://github.com/xiaolonw/caffe-video_triplet)
+
 **Unsupervised Visual Representation Learning by Context Prediction**
 
 - intro: ICCV 2015

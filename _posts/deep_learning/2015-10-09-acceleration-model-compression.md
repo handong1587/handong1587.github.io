@@ -219,6 +219,13 @@ to decompose it into the multiplications of thinned dense matrices"
 
 - arxiv: [http://arxiv.org/abs/1605.03621](http://arxiv.org/abs/1605.03621)
 
+**Deep Roots: Improving CNN Efficiency with Hierarchical Filter Groups**
+
+- intro: "for ResNet 50, our model has 40% fewer parameters, 45% fewer floating point operations, and is 31% (12%) faster on a CPU (GPU).
+For the deeper ResNet 200 our model has 25% fewer floating point operations and 44% fewer parameters, 
+while maintaining state-of-the-art accuracy. For GoogLeNet, our model has 7% fewer parameters and is 21% (16%) faster on a CPU (GPU)."
+- arxiv: [https://arxiv.org/abs/1605.06489](https://arxiv.org/abs/1605.06489)
+
 **Functional Hashing for Compressing Neural Networks**
 
 - intro: FunHashNN

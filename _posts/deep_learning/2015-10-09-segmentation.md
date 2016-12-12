@@ -481,6 +481,10 @@ with built-in awareness of semantically meaningful boundaries. "
 
 - arxiv: [https://arxiv.org/abs/1611.08991](https://arxiv.org/abs/1611.08991)
 
+**Shape-aware Instance Segmentation**
+
+- arxiv: [https://arxiv.org/abs/1612.03129](https://arxiv.org/abs/1612.03129)
+
 # Scene Labeling/Parsing
 
 **Indoor Semantic Segmentation using depth information**

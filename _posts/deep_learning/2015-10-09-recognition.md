@@ -61,6 +61,184 @@ date: 2015-10-09
 - intro: ICPR 2016 Oral
 - arxiv: [https://arxiv.org/abs/1610.03155](https://arxiv.org/abs/1610.03155)
 
+## Face Recognition
+
+### DeepID
+
+**Deep Learning Face Representation from Predicting 10,000 Classes**
+
+- intro: CVPR 2014
+- paper: [http://mmlab.ie.cuhk.edu.hk/pdf/YiSun_CVPR14.pdf](http://mmlab.ie.cuhk.edu.hk/pdf/YiSun_CVPR14.pdf)
+- github: [https://github.com/stdcoutzyx/DeepID_FaceClassify](https://github.com/stdcoutzyx/DeepID_FaceClassify)
+
+### DeepID2
+
+**Deep Learning Face Representation by Joint Identification-Verification**
+
+- paper: [http://papers.nips.cc/paper/5416-analog-memories-in-a-balanced-rate-based-network-of-e-i-neurons](http://papers.nips.cc/paper/5416-analog-memories-in-a-balanced-rate-based-network-of-e-i-neurons)
+
+**基于Caffe的DeepID2实现**
+
+- 1. [http://www.miaoerduo.com/deep-learning/%E5%9F%BA%E4%BA%8Ecaffe%E7%9A%84deepid2%E5%AE%9E%E7%8E%B0%EF%BC%88%E4%B8%8A%EF%BC%89.html](http://www.miaoerduo.com/deep-learning/%E5%9F%BA%E4%BA%8Ecaffe%E7%9A%84deepid2%E5%AE%9E%E7%8E%B0%EF%BC%88%E4%B8%8A%EF%BC%89.html)
+- 2. [http://www.miaoerduo.com/deep-learning/%E5%9F%BA%E4%BA%8Ecaffe%E7%9A%84deepid2%E5%AE%9E%E7%8E%B0%EF%BC%88%E4%B8%AD%EF%BC%89.html](http://www.miaoerduo.com/deep-learning/%E5%9F%BA%E4%BA%8Ecaffe%E7%9A%84deepid2%E5%AE%9E%E7%8E%B0%EF%BC%88%E4%B8%AD%EF%BC%89.html)
+- 3. [http://www.miaoerduo.com/deep-learning/%E5%9F%BA%E4%BA%8Ecaffe%E7%9A%84deepid2%E5%AE%9E%E7%8E%B0%EF%BC%88%E4%B8%8B%EF%BC%89.html](http://www.miaoerduo.com/deep-learning/%E5%9F%BA%E4%BA%8Ecaffe%E7%9A%84deepid2%E5%AE%9E%E7%8E%B0%EF%BC%88%E4%B8%8B%EF%BC%89.html)
+
+### DeepID2+
+
+**Deeply learned face representations are sparse, selective, and robust**
+
+- arxiv: [http://arxiv.org/abs/1412.1265](http://arxiv.org/abs/1412.1265)
+- video: [http://research.microsoft.com/apps/video/?id=260023](http://research.microsoft.com/apps/video/?id=260023)
+- mirror: [http://pan.baidu.com/s/1boufl3x](http://pan.baidu.com/s/1boufl3x)
+
+### DeepFace
+
+**DeepFace: Closing the Gap to Human-Level Performance in Face Verification**
+
+- paper: [https://www.cs.toronto.edu/~ranzato/publications/taigman_cvpr14.pdf](https://www.cs.toronto.edu/~ranzato/publications/taigman_cvpr14.pdf)
+- slides: [http://valse.mmcheng.net/ftp/20141126/MingYang.pdf](http://valse.mmcheng.net/ftp/20141126/MingYang.pdf)
+- github: [https://github.com/RiweiChen/DeepFace](https://github.com/RiweiChen/DeepFace)
+
+**Deep Face Recognition**
+
+- intro: BMVC 2015
+- paper: [http://www.robots.ox.ac.uk/~vgg/publications/2015/Parkhi15/parkhi15.pdf](http://www.robots.ox.ac.uk/~vgg/publications/2015/Parkhi15/parkhi15.pdf)
+- homepage: [http://www.robots.ox.ac.uk/~vgg/software/vgg_face/](http://www.robots.ox.ac.uk/~vgg/software/vgg_face/)
+- github(Keras): [https://github.com/rcmalli/keras-vggface](https://github.com/rcmalli/keras-vggface)
+
+### FaceNet
+
+**FaceNet: A Unified Embedding for Face Recognition and Clustering**
+
+- intro: Google. CVPR 2015
+- arxiv: [http://arxiv.org/abs/1503.03832](http://arxiv.org/abs/1503.03832)
+- github(Tensorflow): [https://github.com/davidsandberg/facenet](https://github.com/davidsandberg/facenet)
+- github: [https://github.com/cmusatyalab/openface](https://github.com/cmusatyalab/openface)
+- github: [https://github.com/Atcold/torch-TripletEmbedding](https://github.com/Atcold/torch-TripletEmbedding)
+- github: [https://github.com/luhaofang/tripletloss](https://github.com/luhaofang/tripletloss)
+
+**Targeting Ultimate Accuracy: Face Recognition via Deep Embedding**
+
+- intro: CVPR 2015
+- arxiv: [http://arxiv.org/abs/1506.07310](http://arxiv.org/abs/1506.07310)
+
+**Pose-Aware Face Recognition in the Wild**
+
+- paper: [www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Masi_Pose-Aware_Face_Recognition_CVPR_2016_paper.pdf](www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Masi_Pose-Aware_Face_Recognition_CVPR_2016_paper.pdf)
+
+**Recurrent Regression for Face Recognition**
+
+- arxiv: [http://arxiv.org/abs/1607.06999](http://arxiv.org/abs/1607.06999)
+
+**A Discriminative Feature Learning Approach for Deep Face Recognition**
+
+- intro: ECCV 2016
+- intro: center loss
+- paper: [http://ydwen.github.io/papers/WenECCV16.pdf](http://ydwen.github.io/papers/WenECCV16.pdf)
+- github: [https://github.com/ydwen/caffe-face](https://github.com/ydwen/caffe-face)
+- github: [https://github.com/pangyupo/mxnet_center_loss](https://github.com/pangyupo/mxnet_center_loss)
+
+**How Image Degradations Affect Deep CNN-based Face Recognition?**
+
+- arxiv: [http://arxiv.org/abs/1608.05246](http://arxiv.org/abs/1608.05246)
+
+### VIPLFaceNet / SeetaFace Engine
+
+**VIPLFaceNet: An Open Source Deep Face Recognition SDK**
+
+- arxiv: [http://arxiv.org/abs/1609.03892](http://arxiv.org/abs/1609.03892)
+
+**SeetaFace Engine**
+
+- intro: SeetaFace Engine is an open source C++ face recognition engine, which can run on CPU with no third-party dependence.
+- github: [https://github.com/seetaface/SeetaFaceEngine](https://github.com/seetaface/SeetaFaceEngine)
+
+**A Discriminative Feature Learning Approach for Deep Face Recognition**
+
+- intro: ECCV 2016
+- paper: [http://ydwen.github.io/papers/WenECCV16.pdf](http://ydwen.github.io/papers/WenECCV16.pdf)
+
+**Sparsifying Neural Network Connections for Face Recognition**
+
+- paper: [http://www.ee.cuhk.edu.hk/~xgwang/papers/sunWTcvpr16.pdf](http://www.ee.cuhk.edu.hk/~xgwang/papers/sunWTcvpr16.pdf)
+
+**Range Loss for Deep Face Recognition with Long-tail**
+
+- arxiv: [https://arxiv.org/abs/1611.08976](https://arxiv.org/abs/1611.08976)
+
+### Projects
+
+**Using MXNet for Face-related Algorithm**
+
+- github: [https://github.com/tornadomeet/mxnet-face](https://github.com/tornadomeet/mxnet-face)
+
+### Datasets / Benchmarks
+
+**The MegaFace Benchmark: 1 Million Faces for Recognition at Scale**
+
+- arxiv: [http://arxiv.org/abs/1512.00596](http://arxiv.org/abs/1512.00596)
+
+**MS-Celeb-1M: A Dataset and Benchmark for Large-Scale Face Recognition**
+
+- arxiv: [http://arxiv.org/abs/1607.08221](http://arxiv.org/abs/1607.08221)
+
+**MSR Image Recognition Challenge (IRC)**
+
+- homepage: [https://www.microsoft.com/en-us/research/project/msr-image-recognition-challenge-irc/](https://www.microsoft.com/en-us/research/project/msr-image-recognition-challenge-irc/)
+
+**UMDFaces: An Annotated Face Dataset for Training Deep Networks**
+
+- arxiv: [https://arxiv.org/abs/1611.01484](https://arxiv.org/abs/1611.01484)
+
+### Projects
+
+**clmtrackr: Javascript library for precise tracking of facial features via Constrained Local Models**
+
+- github: [https://github.com/auduno/clmtrackr](https://github.com/auduno/clmtrackr)
+- blog: [http://auduno.com/post/61888277175/fitting-faces](http://auduno.com/post/61888277175/fitting-faces)
+- demo: [http://auduno.github.io/clmtrackr/examples/facesubstitution.html](http://auduno.github.io/clmtrackr/examples/facesubstitution.html)
+- demo: [http://auduno.github.io/clmtrackr/face_deformation_video.html](http://auduno.github.io/clmtrackr/face_deformation_video.html)
+- demo: [http://auduno.github.io/clmtrackr/examples/clm_emotiondetection.html](http://auduno.github.io/clmtrackr/examples/clm_emotiondetection.html)
+- demo: [http://auduno.com/post/84214587523/twisting-faces](http://auduno.com/post/84214587523/twisting-faces)
+
+#### OpenFace
+
+**OpenFace: Face Recognition with Deep Neural Networks**
+
+- homepage: [http://cmusatyalab.github.io/openface/](http://cmusatyalab.github.io/openface/)
+- github: [https://github.com/cmusatyalab/openface](https://github.com/cmusatyalab/openface)
+- github: [https://github.com/aybassiouny/OpenFaceCpp](https://github.com/aybassiouny/OpenFaceCpp)
+
+**OpenFace 0.2.0: Higher accuracy and halved execution time**
+
+- homepage: [http://bamos.github.io/2016/01/19/openface-0.2.0/](http://bamos.github.io/2016/01/19/openface-0.2.0/)
+
+**OpenFace: A general-purpose face recognition library with mobile applications**
+
+- paper: [http://reports-archive.adm.cs.cmu.edu/anon/anon/usr0/ftp/2016/CMU-CS-16-118.pdf](http://reports-archive.adm.cs.cmu.edu/anon/anon/usr0/ftp/2016/CMU-CS-16-118.pdf)
+
+**Deep Face Representation: Face verification experiment for lfw**
+
+- github: [https://github.com/AlfredXiangWu/face_verification_experiment](https://github.com/AlfredXiangWu/face_verification_experiment)
+
+**FaceVerification: An Experimental Implementation of Face Verification, 96.8% on LFW**
+
+- github: [https://github.com/happynear/FaceVerification](https://github.com/happynear/FaceVerification)
+
+**OpenFace: an open source facial behavior analysis toolkit**
+
+![](https://raw.githubusercontent.com/TadasBaltrusaitis/OpenFace/master/imgs/multi_face_img.png)
+
+- intro: a state-of-the art open source tool intended for facial landmark detection, head pose estimation, 
+facial action unit recognition, and eye-gaze estimation.
+- github: [https://github.com/TadasBaltrusaitis/OpenFace](https://github.com/TadasBaltrusaitis/OpenFace)
+
+### Resources
+
+**Face-Resources**
+
+- github: [https://github.com/betars/Face-Resources](https://github.com/betars/Face-Resources)
+
 ## Fine-grained Recognition
 
 **Bilinear CNN Models for Fine-grained Visual Recognition**
@@ -128,174 +306,6 @@ date: 2015-10-09
 
 - intro: BMVC 2016
 - arxiv: [https://arxiv.org/abs/1610.06756](https://arxiv.org/abs/1610.06756)
-
-### Face Recognition
-
-#### DeepID
-
-**Deep Learning Face Representation from Predicting 10,000 Classes**
-
-- paper: [http://mmlab.ie.cuhk.edu.hk/pdf/YiSun_CVPR14.pdf](http://mmlab.ie.cuhk.edu.hk/pdf/YiSun_CVPR14.pdf)
-- github: [https://github.com/stdcoutzyx/DeepID_FaceClassify](https://github.com/stdcoutzyx/DeepID_FaceClassify)
-
-#### DeepID2
-
-**Deep Learning Face Representation by Joint Identification-Verification**
-
-- paper: [http://papers.nips.cc/paper/5416-analog-memories-in-a-balanced-rate-based-network-of-e-i-neurons](http://papers.nips.cc/paper/5416-analog-memories-in-a-balanced-rate-based-network-of-e-i-neurons)
-
-**基于Caffe的DeepID2实现**
-
-- 1. [http://www.miaoerduo.com/deep-learning/%E5%9F%BA%E4%BA%8Ecaffe%E7%9A%84deepid2%E5%AE%9E%E7%8E%B0%EF%BC%88%E4%B8%8A%EF%BC%89.html](http://www.miaoerduo.com/deep-learning/%E5%9F%BA%E4%BA%8Ecaffe%E7%9A%84deepid2%E5%AE%9E%E7%8E%B0%EF%BC%88%E4%B8%8A%EF%BC%89.html)
-- 2. [http://www.miaoerduo.com/deep-learning/%E5%9F%BA%E4%BA%8Ecaffe%E7%9A%84deepid2%E5%AE%9E%E7%8E%B0%EF%BC%88%E4%B8%AD%EF%BC%89.html](http://www.miaoerduo.com/deep-learning/%E5%9F%BA%E4%BA%8Ecaffe%E7%9A%84deepid2%E5%AE%9E%E7%8E%B0%EF%BC%88%E4%B8%AD%EF%BC%89.html)
-- 3. [http://www.miaoerduo.com/deep-learning/%E5%9F%BA%E4%BA%8Ecaffe%E7%9A%84deepid2%E5%AE%9E%E7%8E%B0%EF%BC%88%E4%B8%8B%EF%BC%89.html](http://www.miaoerduo.com/deep-learning/%E5%9F%BA%E4%BA%8Ecaffe%E7%9A%84deepid2%E5%AE%9E%E7%8E%B0%EF%BC%88%E4%B8%8B%EF%BC%89.html)
-
-#### DeepID2+
-
-**Deeply learned face representations are sparse, selective, and robust**
-
-- arxiv: [http://arxiv.org/abs/1412.1265](http://arxiv.org/abs/1412.1265)
-- video: [http://research.microsoft.com/apps/video/?id=260023](http://research.microsoft.com/apps/video/?id=260023)
-- mirror: [http://pan.baidu.com/s/1boufl3x](http://pan.baidu.com/s/1boufl3x)
-
-**Deep Face Recognition**
-
-- intro: BMVC 2015
-- paper: [http://www.robots.ox.ac.uk/~vgg/publications/2015/Parkhi15/parkhi15.pdf](http://www.robots.ox.ac.uk/~vgg/publications/2015/Parkhi15/parkhi15.pdf)
-- homepage: [http://www.robots.ox.ac.uk/~vgg/software/vgg_face/](http://www.robots.ox.ac.uk/~vgg/software/vgg_face/)
-- github(Keras): [https://github.com/rcmalli/keras-vggface](https://github.com/rcmalli/keras-vggface)
-
-#### FaceNet
-
-**FaceNet: A Unified Embedding for Face Recognition and Clustering**
-
-- intro: Google. CVPR 2015
-- arxiv: [http://arxiv.org/abs/1503.03832](http://arxiv.org/abs/1503.03832)
-- github: [https://github.com/cmusatyalab/openface](https://github.com/cmusatyalab/openface)
-- github: [https://github.com/Atcold/torch-TripletEmbedding](https://github.com/Atcold/torch-TripletEmbedding)
-- github(Tensorflow): [https://github.com/davidsandberg/facenet](https://github.com/davidsandberg/facenet)
-
-**Targeting Ultimate Accuracy: Face Recognition via Deep Embedding**
-
-- intro: CVPR 2015
-- arxiv: [http://arxiv.org/abs/1506.07310](http://arxiv.org/abs/1506.07310)
-
-**Pose-Aware Face Recognition in the Wild**
-
-- paper: [www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Masi_Pose-Aware_Face_Recognition_CVPR_2016_paper.pdf](www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Masi_Pose-Aware_Face_Recognition_CVPR_2016_paper.pdf)
-
-**Recurrent Regression for Face Recognition**
-
-- arxiv: [http://arxiv.org/abs/1607.06999](http://arxiv.org/abs/1607.06999)
-
-**A Discriminative Feature Learning Approach for Deep Face Recognition**
-
-- intro: ECCV 2016
-- intro: center loss
-- paper: [http://ydwen.github.io/papers/WenECCV16.pdf](http://ydwen.github.io/papers/WenECCV16.pdf)
-- github: [https://github.com/ydwen/caffe-face](https://github.com/ydwen/caffe-face)
-- github: [https://github.com/pangyupo/mxnet_center_loss](https://github.com/pangyupo/mxnet_center_loss)
-
-**How Image Degradations Affect Deep CNN-based Face Recognition?**
-
-- arxiv: [http://arxiv.org/abs/1608.05246](http://arxiv.org/abs/1608.05246)
-
-#### VIPLFaceNet / SeetaFace Engine
-
-**VIPLFaceNet: An Open Source Deep Face Recognition SDK**
-
-- arxiv: [http://arxiv.org/abs/1609.03892](http://arxiv.org/abs/1609.03892)
-
-**SeetaFace Engine**
-
-- intro: SeetaFace Engine is an open source C++ face recognition engine, which can run on CPU with no third-party dependence.
-- github: [https://github.com/seetaface/SeetaFaceEngine](https://github.com/seetaface/SeetaFaceEngine)
-
-**A Discriminative Feature Learning Approach for Deep Face Recognition**
-
-- intro: ECCV 2016
-- paper: [http://ydwen.github.io/papers/WenECCV16.pdf](http://ydwen.github.io/papers/WenECCV16.pdf)
-
-**Sparsifying Neural Network Connections for Face Recognition**
-
-- paper: [http://www.ee.cuhk.edu.hk/~xgwang/papers/sunWTcvpr16.pdf](http://www.ee.cuhk.edu.hk/~xgwang/papers/sunWTcvpr16.pdf)
-
-**Range Loss for Deep Face Recognition with Long-tail**
-
-- arxiv: [https://arxiv.org/abs/1611.08976](https://arxiv.org/abs/1611.08976)
-
-#### Projects
-
-**Using MXNet for Face-related Algorithm**
-
-- github: [https://github.com/tornadomeet/mxnet-face](https://github.com/tornadomeet/mxnet-face)
-
-#### Datasets / Benchmarks
-
-**The MegaFace Benchmark: 1 Million Faces for Recognition at Scale**
-
-- arxiv: [http://arxiv.org/abs/1512.00596](http://arxiv.org/abs/1512.00596)
-
-**MS-Celeb-1M: A Dataset and Benchmark for Large-Scale Face Recognition**
-
-- arxiv: [http://arxiv.org/abs/1607.08221](http://arxiv.org/abs/1607.08221)
-
-**MSR Image Recognition Challenge (IRC)**
-
-- homepage: [https://www.microsoft.com/en-us/research/project/msr-image-recognition-challenge-irc/](https://www.microsoft.com/en-us/research/project/msr-image-recognition-challenge-irc/)
-
-**UMDFaces: An Annotated Face Dataset for Training Deep Networks**
-
-- arxiv: [https://arxiv.org/abs/1611.01484](https://arxiv.org/abs/1611.01484)
-
-#### Projects
-
-**clmtrackr: Javascript library for precise tracking of facial features via Constrained Local Models**
-
-- github: [https://github.com/auduno/clmtrackr](https://github.com/auduno/clmtrackr)
-- blog: [http://auduno.com/post/61888277175/fitting-faces](http://auduno.com/post/61888277175/fitting-faces)
-- demo: [http://auduno.github.io/clmtrackr/examples/facesubstitution.html](http://auduno.github.io/clmtrackr/examples/facesubstitution.html)
-- demo: [http://auduno.github.io/clmtrackr/face_deformation_video.html](http://auduno.github.io/clmtrackr/face_deformation_video.html)
-- demo: [http://auduno.github.io/clmtrackr/examples/clm_emotiondetection.html](http://auduno.github.io/clmtrackr/examples/clm_emotiondetection.html)
-- demo: [http://auduno.com/post/84214587523/twisting-faces](http://auduno.com/post/84214587523/twisting-faces)
-
-##### OpenFace
-
-**OpenFace: Face Recognition with Deep Neural Networks**
-
-- homepage: [http://cmusatyalab.github.io/openface/](http://cmusatyalab.github.io/openface/)
-- github: [https://github.com/cmusatyalab/openface](https://github.com/cmusatyalab/openface)
-- github: [https://github.com/aybassiouny/OpenFaceCpp](https://github.com/aybassiouny/OpenFaceCpp)
-
-**OpenFace 0.2.0: Higher accuracy and halved execution time**
-
-- homepage: [http://bamos.github.io/2016/01/19/openface-0.2.0/](http://bamos.github.io/2016/01/19/openface-0.2.0/)
-
-**OpenFace: A general-purpose face recognition library with mobile applications**
-
-- paper: [http://reports-archive.adm.cs.cmu.edu/anon/anon/usr0/ftp/2016/CMU-CS-16-118.pdf](http://reports-archive.adm.cs.cmu.edu/anon/anon/usr0/ftp/2016/CMU-CS-16-118.pdf)
-
-**Deep Face Representation: Face verification experiment for lfw**
-
-- github: [https://github.com/AlfredXiangWu/face_verification_experiment](https://github.com/AlfredXiangWu/face_verification_experiment)
-
-**FaceVerification: An Experimental Implementation of Face Verification, 96.8% on LFW**
-
-- github: [https://github.com/happynear/FaceVerification](https://github.com/happynear/FaceVerification)
-
-**OpenFace: an open source facial behavior analysis toolkit**
-
-![](https://raw.githubusercontent.com/TadasBaltrusaitis/OpenFace/master/imgs/multi_face_img.png)
-
-- intro: a state-of-the art open source tool intended for facial landmark detection, head pose estimation, 
-facial action unit recognition, and eye-gaze estimation.
-- github: [https://github.com/TadasBaltrusaitis/OpenFace](https://github.com/TadasBaltrusaitis/OpenFace)
-
-#### Resources
-
-**Face-Resources**
-
-- github: [https://github.com/betars/Face-Resources](https://github.com/betars/Face-Resources)
 
 ### Food Recognition
 

@@ -281,6 +281,10 @@ extract saptio-temporal features to represent the video using the CNNs."
 
 - arxiv: [https://arxiv.org/abs/1611.08240](https://arxiv.org/abs/1611.08240)
 
+**ActionFlowNet: Learning Motion Representation for Action Recognition**
+
+- arxiv: [https://arxiv.org/abs/1612.03052](https://arxiv.org/abs/1612.03052)
+
 ### Projects
 
 **A Torch Library for Action Recognition and Detection Using CNNs and LSTMs**

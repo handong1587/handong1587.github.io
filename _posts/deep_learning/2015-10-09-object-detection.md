@@ -419,6 +419,17 @@ Continuation of [arXiv:1608.08021](https://arxiv.org/abs/1608.08021)
 - intro: Google Research
 - arxiv: [https://arxiv.org/abs/1611.10012](https://arxiv.org/abs/1611.10012)
 
+**SqueezeDet: Unified, Small, Low Power Fully Convolutional Neural Networks for Real-Time Object Detection for Autonomous Driving**
+
+- arxiv: [https://arxiv.org/abs/1612.01051](https://arxiv.org/abs/1612.01051)
+
+## Feature Pyramid Network (FPN)
+
+**Feature Pyramid Networks for Object Detection**
+
+- intro: Facebook AI Research
+- arxiv: [https://arxiv.org/abs/1612.03144](https://arxiv.org/abs/1612.03144)
+
 # Detection From Video
 
 **Learning Object Class Detectors from Weakly Annotated Video**
@@ -780,10 +791,6 @@ This task involves predicting the salient regions of an image given by human eye
 
 - intro: BMVC 2016 oral
 - arxiv: [https://arxiv.org/abs/1611.02644](https://arxiv.org/abs/1611.02644)
-
-**SqueezeDet: Unified, Small, Low Power Fully Convolutional Neural Networks for Real-Time Object Detection for Autonomous Driving**
-
-- arxiv: [https://arxiv.org/abs/1612.01051](https://arxiv.org/abs/1612.01051)
 
 ## Vehicle Detection
 
