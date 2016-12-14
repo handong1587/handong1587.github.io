@@ -239,15 +239,12 @@ bounding boxes (which are shared for these categories).
 
 - arxiv: [http://arxiv.org/abs/1512.02325](http://arxiv.org/abs/1512.02325)
 - paper: [http://www.cs.unc.edu/~wliu/papers/ssd.pdf](http://www.cs.unc.edu/~wliu/papers/ssd.pdf)
+- slides: [http://www.cs.unc.edu/%7Ewliu/papers/ssd_eccv2016_slide.pdf](http://www.cs.unc.edu/%7Ewliu/papers/ssd_eccv2016_slide.pdf)
 - github: [https://github.com/weiliu89/caffe/tree/ssd](https://github.com/weiliu89/caffe/tree/ssd)
 - video: [http://weibo.com/p/2304447a2326da963254c963c97fb05dd3a973](http://weibo.com/p/2304447a2326da963254c963c97fb05dd3a973)
 - github(MXNet): [https://github.com/zhreshold/mxnet-ssd](https://github.com/zhreshold/mxnet-ssd)
 - github: [https://github.com/zhreshold/mxnet-ssd.cpp](https://github.com/zhreshold/mxnet-ssd.cpp)
 - github(Keras): [https://github.com/rykov8/ssd_keras](https://github.com/rykov8/ssd_keras)
-
-**为什么SSD(Single Shot MultiBox Detector)对小目标的检测效果不好？**
-
-- zhihu: [https://www.zhihu.com/question/49455386](https://www.zhihu.com/question/49455386)
 
 ## Inside-Outside Net (ION)
 
@@ -324,7 +321,8 @@ and 1.15s per image with it".
 
 **Exploit All the Layers: Fast and Accurate CNN Object Detector with Scale Dependent Pooling and Cascaded Rejection Classifiers**
 
-[http://www-personal.umich.edu/~wgchoi/SDP-CRC_camready.pdf](http://www-personal.umich.edu/~wgchoi/SDP-CRC_camready.pdf)
+- intro: scale-dependent pooling  (SDP), cascaded rejection clas-sifiers (CRC)
+- paper: [http://www-personal.umich.edu/~wgchoi/SDP-CRC_camready.pdf](http://www-personal.umich.edu/~wgchoi/SDP-CRC_camready.pdf)
 
 ## R-FCN
 
