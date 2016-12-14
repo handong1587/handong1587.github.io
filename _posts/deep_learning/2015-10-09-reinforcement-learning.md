@@ -591,6 +591,10 @@ The project is dedicated to hero in life great Jesse Livermore.
 
 - github: [https://github.com/lsunsi/markovjs](https://github.com/lsunsi/markovjs)
 
+**Deep Q: Deep reinforcement learning with TensorFlow**
+
+- github: [https://github.com/tobegit3hub/deep_q](https://github.com/tobegit3hub/deep_q)
+
 ## Play Flappy Bird
 
 **Using Deep Q-Network to Learn How To Play Flappy Bird**

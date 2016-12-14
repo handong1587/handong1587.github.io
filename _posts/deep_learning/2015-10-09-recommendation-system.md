@@ -37,7 +37,9 @@ date: 2015-10-09
 
 **Wide & Deep Learning for Recommender Systems**
 
+- intro: Google Research
 - arxiv: [http://arxiv.org/abs/1606.07792](http://arxiv.org/abs/1606.07792)
+- blog: [https://research.googleblog.com/2016/06/wide-deep-learning-better-together-with.html](https://research.googleblog.com/2016/06/wide-deep-learning-better-together-with.html)
 
 **Hybrid Recommender System based on Autoencoders**
 

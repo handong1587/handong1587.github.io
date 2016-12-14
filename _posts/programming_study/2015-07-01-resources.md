@@ -626,3 +626,7 @@ control a spaceship in order to complete some objective.
 **24 Data Science, R, Python, Excel, and Machine Learning Cheat Sheets**
 
 - blog: [http://www.datasciencecentral.com/profiles/blogs/20-data-science-r-python-excel-and-machine-learning-cheat-sheets](http://www.datasciencecentral.com/profiles/blogs/20-data-science-r-python-excel-and-machine-learning-cheat-sheets)
+
+**Reading for graduate students**
+
+[http://matt.might.net/articles/books-papers-materials-for-graduate-students/](http://matt.might.net/articles/books-papers-materials-for-graduate-students/)

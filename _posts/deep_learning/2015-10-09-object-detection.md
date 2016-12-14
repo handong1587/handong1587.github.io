@@ -408,6 +408,7 @@ Continuation of [arXiv:1608.08021](https://arxiv.org/abs/1608.08021)
 - intro: Deep Reinforcement Learning Workshop (NIPS 2016)
 - project page: [https://imatge-upc.github.io/detection-2016-nipsws/](https://imatge-upc.github.io/detection-2016-nipsws/)
 - arxiv: [https://arxiv.org/abs/1611.03718](https://arxiv.org/abs/1611.03718)
+- slides: [http://www.slideshare.net/xavigiro/hierarchical-object-detection-with-deep-reinforcement-learning](http://www.slideshare.net/xavigiro/hierarchical-object-detection-with-deep-reinforcement-learning)
 - github: [https://github.com/imatge-upc/detection-2016-nipsws](https://github.com/imatge-upc/detection-2016-nipsws)
 
 **Learning to detect and localize many objects from few examples**

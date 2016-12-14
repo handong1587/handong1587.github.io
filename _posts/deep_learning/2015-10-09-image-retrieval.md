@@ -249,6 +249,11 @@ date: 2015-10-09
 
 - arxiv: [https://arxiv.org/abs/1612.01657](https://arxiv.org/abs/1612.01657)
 
+**Deep Supervised Hashing with Triplet Labels**
+
+- intro: ACCV 2016
+- arxiv: [https://arxiv.org/abs/1612.03900](https://arxiv.org/abs/1612.03900)
+
 # Datasets
 
 Oxford5k
