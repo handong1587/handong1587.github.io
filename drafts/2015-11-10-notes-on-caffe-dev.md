@@ -99,6 +99,30 @@ Add following line to .bashrc file:
 export PYTHONPATH=/path/to/caffe/python:$PYTHONPATH
 ```
 
+# Extract CNN Features
+
+```
+def __tranform_img(self, net, img, mean_data=None):
+    transformer = caffe.io.Transformer({'data': net.blobs['data'].data.shape})
+    transformer.set_transpose('data', (2, 0, 1))
+    if (mean_data is not None):
+        transformer.set_mean('data', mean_data)
+
+    #transformer.set_raw_scale('data', 255)
+    transformer.set_channel_swap('data', (2, 1, 0))
+    return transformer.preprocess('data', img)
+
+# e.g,  GoogleNet pool5/7x7_s1
+img = caffe.io.load_image(input_image_file)
+trans_img = __tranform_img(net, img)
+net.blobs['data'].data[...] = trans_img
+net.forward()
+prob = np.squeeze(net.blobs['prob_main'].data)
+features = np.squeeze(net.blobs['pool5/7x7_s1'].data)
+```
+
+ref: [https://prateekvjoshi.com/2016/04/26/how-to-extract-feature-vectors-from-deep-neural-networks-in-python-caffe/](https://prateekvjoshi.com/2016/04/26/how-to-extract-feature-vectors-from-deep-neural-networks-in-python-caffe/)
+
 # Reading and Notes
 
 **DIY Deep Learning for Vision: A Tutorial With Caffe 报告笔记**

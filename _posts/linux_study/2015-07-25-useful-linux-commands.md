@@ -297,6 +297,24 @@ fgrep -o 'aaa' <file> | wc -l
 
 [https://www.howtoforge.com/tutorial/linux-grep-command/](https://www.howtoforge.com/tutorial/linux-grep-command/)
 
+**Find All Files of a Particular Size**
+
+```
+find /home/ -type f -size +512k -exec ls -lh {} \;
+```
+
+As units you can use:
+```
+    b – for 512-byte blocks (this is the default if no suffix is used)
+    c – for bytes
+    w – for two-byte words
+    k – for Kilobytes (units of 1024 bytes)
+    M – for Megabytes (units of 1048576 bytes)
+    G – for Gigabytes (units of 1073741824 bytes)
+```
+
+ref: [http://www.ducea.com/2008/02/12/linux-tips-find-all-files-of-a-particular-size/](http://www.ducea.com/2008/02/12/linux-tips-find-all-files-of-a-particular-size/)
+
 # GDB
 
 **GDB reference card**
