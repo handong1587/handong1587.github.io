@@ -310,6 +310,11 @@ not just the convolutions)
 
 - paper: [http://research.microsoft.com/pubs/214307/paper.pdf](http://research.microsoft.com/pubs/214307/paper.pdf)
 
+**Transferring Knowledge from a RNN to a DNN**
+
+- intro: CMU
+- arxiv: [https://arxiv.org/abs/1504.01483](https://arxiv.org/abs/1504.01483)
+
 **Simultaneous Deep Transfer Across Domains and Tasks**
 
 - intro: ICCV 2015
