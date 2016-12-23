@@ -408,6 +408,7 @@ Continuation of [arXiv:1608.08021](https://arxiv.org/abs/1608.08021)
 - arxiv: [https://arxiv.org/abs/1611.03718](https://arxiv.org/abs/1611.03718)
 - slides: [http://www.slideshare.net/xavigiro/hierarchical-object-detection-with-deep-reinforcement-learning](http://www.slideshare.net/xavigiro/hierarchical-object-detection-with-deep-reinforcement-learning)
 - github: [https://github.com/imatge-upc/detection-2016-nipsws](https://github.com/imatge-upc/detection-2016-nipsws)
+- blog: [http://jorditorres.org/nips/](http://jorditorres.org/nips/)
 
 **Learning to detect and localize many objects from few examples**
 
