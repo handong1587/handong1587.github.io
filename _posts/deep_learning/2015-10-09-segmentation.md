@@ -47,6 +47,10 @@ date: 2015-10-09
 
 - arxiv: [http://arxiv.org/abs/1608.07454](http://arxiv.org/abs/1608.07454)
 
+**FusionNet: A deep fully residual convolutional neural network for image segmentation in connectomics**
+
+- arxiv: [https://arxiv.org/abs/1612.05360](https://arxiv.org/abs/1612.05360)
+
 # Semantic Segmentation
 
 **Fully Convolutional Networks for Semantic Segmentation**

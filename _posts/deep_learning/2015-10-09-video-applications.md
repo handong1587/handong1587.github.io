@@ -23,6 +23,10 @@ date: 2015-10-09
 
 - arxiv: [https://arxiv.org/abs/1610.05985](https://arxiv.org/abs/1610.05985)
 
+**Video Propagation Networks**
+
+- arxiv: [https://arxiv.org/abs/1612.05478](https://arxiv.org/abs/1612.05478)
+
 # Video Classification
 
 **Large-scale Video Classification with Convolutional Neural Networks**

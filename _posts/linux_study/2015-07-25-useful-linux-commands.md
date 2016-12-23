@@ -619,3 +619,9 @@ rm `find -type f /path/to/dir/ | grep "filetype"`
 ```
 rm `find -type f /path/to/dir/ | grep -E "filetype1 | filetype2"`
 ```
+
+**Zip multiple files/folers to one named zip file**
+
+```
+zip -r target.zip file1 file2 folder1 folder2
+```

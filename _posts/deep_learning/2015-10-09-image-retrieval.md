@@ -222,6 +222,14 @@ date: 2015-10-09
 
 - arxiv: [https://arxiv.org/abs/1611.01640](https://arxiv.org/abs/1611.01640)
 
+**Deep Residual Hashing**
+
+- arxiv: [https://arxiv.org/abs/1612.05400](https://arxiv.org/abs/1612.05400)
+
+**Image Retrieval with Deep Local Features and Attention-based Keypoints**
+
+- arxiv: [https://arxiv.org/abs/1612.05478](https://arxiv.org/abs/1612.05478)
+
 # Video Indexing / Retrieval
 
 **Face Video Retrieval via Deep Learning of Binary Hash Representations**

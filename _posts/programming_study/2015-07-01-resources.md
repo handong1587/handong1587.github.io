@@ -201,6 +201,14 @@ which continually runs and visualizes your code as you type
 
 - blog: [https://pythontips.com/2016/08/19/interesting-python-tutorials/](https://pythontips.com/2016/08/19/interesting-python-tutorials/)
 
+**PyInstaller**
+
+- intro: PyInstaller bundles a Python application and all its dependencies into a single package. 
+The user can run the packaged app without installing a Python interpreter or any modules.
+- website: [http://www.pyinstaller.org/](http://www.pyinstaller.org/)
+- docs: [http://pyinstaller.readthedocs.io/en/stable/](http://pyinstaller.readthedocs.io/en/stable/)
+- github: [https://github.com/pyinstaller/pyinstaller](https://github.com/pyinstaller/pyinstaller)
+
 # Regulex
 
 **Regulex: JavaScript Regular Expression Visualizer**
