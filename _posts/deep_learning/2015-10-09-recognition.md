@@ -322,6 +322,10 @@ facial action unit recognition, and eye-gaze estimation.
 
 - arxiv: [https://arxiv.org/abs/1612.00983](https://arxiv.org/abs/1612.00983)
 
+**Wide-Slice Residual Networks for Food Recognition**
+
+- arxiv: [https://arxiv.org/abs/1612.06543](https://arxiv.org/abs/1612.06543)
+
 ### Instrument Recognition
 
 **Automatic Instrument Recognition in Polyphonic Music Using Convolutional Neural Networks**

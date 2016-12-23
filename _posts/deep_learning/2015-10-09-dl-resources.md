@@ -230,6 +230,7 @@ not just the convolutions)
 - intro: UC San Diego & Facebook AI Research
 - arxiv: [https://arxiv.org/abs/1611.05431](https://arxiv.org/abs/1611.05431)
 - github: [https://github.com/dmlc/mxnet/blob/master/example/image-classification/symbol/resnext.py](https://github.com/dmlc/mxnet/blob/master/example/image-classification/symbol/resnext.py)
+- github(Caffe): [https://github.com/terrychenism/ResNeXt](https://github.com/terrychenism/ResNeXt)
 - dataset: [http://data.dmlc.ml/models/imagenet/resnext/](http://data.dmlc.ml/models/imagenet/resnext/)
 - reddit: [https://www.reddit.com/r/MachineLearning/comments/5haml9/p_implementation_of_aggregated_residual/](https://www.reddit.com/r/MachineLearning/comments/5haml9/p_implementation_of_aggregated_residual/)
 

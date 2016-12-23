@@ -220,6 +220,10 @@ Compressed model is less than 500KB
 
 - arxiv: [https://arxiv.org/abs/1611.09026](https://arxiv.org/abs/1611.09026)
 
+**Fast Patch-based Style Transfer of Arbitrary Style**
+
+- arxiv: [https://arxiv.org/abs/1612.04337](https://arxiv.org/abs/1612.04337)
+
 ## Neural Art On Audio
 
 **MSc AI Project on generative deep networks and neural style transfer for audio**

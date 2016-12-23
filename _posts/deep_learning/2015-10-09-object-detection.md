@@ -430,6 +430,14 @@ Continuation of [arXiv:1608.08021](https://arxiv.org/abs/1608.08021)
 - intro: Facebook AI Research
 - arxiv: [https://arxiv.org/abs/1612.03144](https://arxiv.org/abs/1612.03144)
 
+**Action-Driven Object Detection with Top-Down Visual Attentions**
+
+- arxiv: [https://arxiv.org/abs/1612.06704](https://arxiv.org/abs/1612.06704)
+
+**Beyond Skip Connections: Top-Down Modulation for Object Detection**
+
+- arxiv: [https://arxiv.org/abs/1612.06851](https://arxiv.org/abs/1612.06851)
+
 # Detection From Video
 
 **Learning Object Class Detectors from Weakly Annotated Video**
@@ -634,6 +642,20 @@ This task involves predicting the salient regions of an image given by human eye
 - intro: ECCV 2016
 - arxiv: [https://arxiv.org/abs/1606.00850](https://arxiv.org/abs/1606.00850)
 - github(MXNet): [https://github.com/tfwu/FaceDetection-ConvNet-3D](https://github.com/tfwu/FaceDetection-ConvNet-3D)
+
+**CMS-RCNN: Contextual Multi-Scale Region-based CNN for Unconstrained Face Detection**
+
+- arxiv: [https://arxiv.org/abs/1606.05413](https://arxiv.org/abs/1606.05413)
+
+**Finding Tiny Faces**
+
+- intro: CMU
+- arxiv: [https://arxiv.org/abs/1612.04402](https://arxiv.org/abs/1612.04402)
+
+**Towards a Deep Learning Framework for Unconstrained Face Detection**
+
+- intro: overlap with CMS-RCNN
+- arxiv: [https://arxiv.org/abs/1612.05322](https://arxiv.org/abs/1612.05322)
 
 **Supervised Transformer Network for Efficient Face Detection**
 

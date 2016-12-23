@@ -237,6 +237,10 @@ after the embedding and recurrent layers of the RNN."
 
 - arxiv: [https://arxiv.org/abs/1612.01887](https://arxiv.org/abs/1612.01887)
 
+**Recurrent Image Captioner: Describing Images with Spatial-Invariant Transformation and Attention Filtering**
+
+- arxiv: [https://arxiv.org/abs/1612.04949](https://arxiv.org/abs/1612.04949)
+
 # Object Descriptions
 
 **Generation and Comprehension of Unambiguous Object Descriptions**
