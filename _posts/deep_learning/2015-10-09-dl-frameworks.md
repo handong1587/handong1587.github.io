@@ -632,6 +632,14 @@ Implementations and ideas are largely based on papers from arxiv and implementat
 
 - blog: [https://blog.metaflow.fr/shapes-and-dynamic-dimensions-in-tensorflow-7b1fe79be363#.1293uf94t](https://blog.metaflow.fr/shapes-and-dynamic-dimensions-in-tensorflow-7b1fe79be363#.1293uf94t)
 
+# Books
+
+**Machine Learning with TensorFlow**
+
+- homepage: [http://www.tensorflowbook.com/](http://www.tensorflowbook.com/)
+- github: [https://github.com/BinRoot/TensorFlow-Book](https://github.com/BinRoot/TensorFlow-Book)
+- blog: [https://www.manning.com/books/machine-learning-with-tensorflow](https://www.manning.com/books/machine-learning-with-tensorflow)
+
 # Theano
 
 **Theano**

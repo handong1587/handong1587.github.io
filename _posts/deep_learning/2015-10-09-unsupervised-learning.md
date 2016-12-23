@@ -82,6 +82,11 @@ Auto-encoder
 - arxiv: [https://arxiv.org/abs/1611.09842](https://arxiv.org/abs/1611.09842)
 - github: [https://github.com/richzhang/splitbrainauto](https://github.com/richzhang/splitbrainauto)
 
+**Learning Features by Watching Objects Move**
+
+- intro: Facebook AI Research & UC Berkeley
+- arxiv: [https://arxiv.org/abs/1612.06370](https://arxiv.org/abs/1612.06370)
+
 ## Clustering
 
 **Joint Unsupervised Learning of Deep Representations and Image Clusters**
@@ -222,6 +227,10 @@ testing it on the MNIST handwritten digits data.
 **Convolutional Autoencoders**
 
 - blog: [https://pgaleone.eu/neural-networks/2016/11/24/convolutional-autoencoders/](https://pgaleone.eu/neural-networks/2016/11/24/convolutional-autoencoders/)
+
+**Convolutional Autoencoders in Tensorflow**
+
+- blog: [https://pgaleone.eu/neural-networks/deep-learning/2016/12/13/convolutional-autoencoders-in-tensorflow/](https://pgaleone.eu/neural-networks/deep-learning/2016/12/13/convolutional-autoencoders-in-tensorflow/)
 
 # RBM (Restricted Boltzmann Machine)
 

@@ -411,6 +411,10 @@ Incorporates dropout regularization and convolutional neural networks with a sep
 - keywords: traveling salesman problem (TSP)
 - arxiv: [https://arxiv.org/abs/1611.09940](https://arxiv.org/abs/1611.09940)
 
+**Loss is its own Reward: Self-Supervision for Reinforcement Learning**
+
+- arxiv: [https://arxiv.org/abs/1612.07307](https://arxiv.org/abs/1612.07307)
+
 ## Playing Doom
 
 **ViZDoom: A Doom-based AI Research Platform for Visual Reinforcement Learning**

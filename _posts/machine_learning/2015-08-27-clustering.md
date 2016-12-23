@@ -25,6 +25,10 @@ date: 2015-08-27
 - arxiv: [https://arxiv.org/abs/1610.04900](https://arxiv.org/abs/1610.04900)
 - arxiv: [https://arxiv.org/abs/1611.05132](https://arxiv.org/abs/1611.05132)
 
+**Fast and Provably Good Seedings for k-Means using k-MC^2 and AFK-MC^2**
+
+- arxiv: [https://github.com/obachem/kmc2](https://github.com/obachem/kmc2)
+
 # Stream Clustering
 
 # Neural Network-based Clustering
@@ -109,6 +113,12 @@ it surveys the widely known clustering algorithms in a comparative way"
 **Context Aware Nonnegative Matrix Factorization Clustering**
 
 - arxiv: [http://arxiv.org/abs/1609.04628](http://arxiv.org/abs/1609.04628)
+
+# Datasets
+
+**Clustering datasets**
+
+[https://cs.joensuu.fi/sipu/datasets/](https://cs.joensuu.fi/sipu/datasets/)
 
 # Books
 

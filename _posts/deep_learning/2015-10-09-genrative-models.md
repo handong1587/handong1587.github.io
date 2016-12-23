@@ -43,6 +43,12 @@ date: 2015-10-09
 
 - paper: [https://openreview.net/pdf?id=HyY4Owjll](https://openreview.net/pdf?id=HyY4Owjll)
 
+**An Architecture for Deep, Hierarchical Generative Models**
+
+- intro: NIPS 2016
+- arxiv: [https://arxiv.org/abs/1612.04739](https://arxiv.org/abs/1612.04739)
+- github: [https://github.com/Philip-Bachman/MatNets-NIPS](https://github.com/Philip-Bachman/MatNets-NIPS)
+
 # Generative Adversarial Network
 
 **Generative Adversarial Networks**
@@ -191,6 +197,18 @@ date: 2015-10-09
 
 - intro: NIPS 2016 Workshop on Adversarial Training
 - arxiv: [https://arxiv.org/abs/1612.02780](https://arxiv.org/abs/1612.02780)
+
+## SGAN
+
+**Stacked Generative Adversarial Networks**
+
+- arxiv: [https://arxiv.org/abs/1612.04357](https://arxiv.org/abs/1612.04357)
+- github: [https://github.com/xunhuang1995/SGAN](https://github.com/xunhuang1995/SGAN)
+
+**Unsupervised Pixel-Level Domain Adaptation with Generative Adversarial Networks**
+
+- intro: Google Brain & Google Research
+- arxiv: [https://arxiv.org/abs/1612.05424](https://arxiv.org/abs/1612.05424)
 
 # Projects
 

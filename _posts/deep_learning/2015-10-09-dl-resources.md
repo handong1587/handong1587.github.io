@@ -354,6 +354,10 @@ not just the convolutions)
 
 - github: [https://www.analyticsvidhya.com/blog/2016/11/fine-tuning-a-keras-model-using-theano-trained-neural-network-introduction-to-transfer-learning/](https://www.analyticsvidhya.com/blog/2016/11/fine-tuning-a-keras-model-using-theano-trained-neural-network-introduction-to-transfer-learning/)
 
+**Multi-source Transfer Learning with Convolutional Neural Networks for Lung Pattern Analysis**
+
+- arxiv: [https://arxiv.org/abs/1612.02589](https://arxiv.org/abs/1612.02589)
+
 # Multi-label Learning
 
 **CNN: Single-label to Multi-label**
@@ -381,6 +385,7 @@ not just the convolutions)
 - intro: ICML 2016
 - arxiv: [http://arxiv.org/abs/1602.02068](http://arxiv.org/abs/1602.02068)
 - github: [https://github.com/gokceneraslan/SparseMax.torch](https://github.com/gokceneraslan/SparseMax.torch)
+- github: [https://github.com/Unbabel/sparsemax](https://github.com/Unbabel/sparsemax)
 
 **CNN-RNN: A Unified Framework for Multi-label Image Classification**
 
@@ -644,6 +649,11 @@ which encodes useful class information rather than individual units (feature act
 - github: [https://github.com/vshallc/PtrNets](https://github.com/vshallc/PtrNets)
 - github(TensorFlow): [https://github.com/ikostrikov/TensorFlow-Pointer-Networks](https://github.com/ikostrikov/TensorFlow-Pointer-Networks)
 - notes: [https://github.com/dennybritz/deeplearning-papernotes/blob/master/notes/pointer-networks.md](https://github.com/dennybritz/deeplearning-papernotes/blob/master/notes/pointer-networks.md)
+
+**Pointer Networks in TensorFlow (with sample code)**
+
+- blog: [https://medium.com/@devnag/pointer-networks-in-tensorflow-with-sample-code-14645063f264#.sxipqfj30](https://medium.com/@devnag/pointer-networks-in-tensorflow-with-sample-code-14645063f264#.sxipqfj30)
+- github: [https://github.com/devnag/tensorflow-pointer-networks](https://github.com/devnag/tensorflow-pointer-networks)
 
 **Rectified Factor Networks**
 
@@ -969,14 +979,11 @@ with fast exact probabilistic inference over many layers."
 - intro: CMU
 - arxiv: [https://arxiv.org/abs/1611.04500](https://arxiv.org/abs/1611.04500)
 
+**Deep Learning on Graphs**
+
+- lecture: [https://figshare.com/articles/Deep_Learning_on_Graphs/4491686](https://figshare.com/articles/Deep_Learning_on_Graphs/4491686)
+
 # Deep Learning with Traditional Machine Learning Methods
-
-## Cascade
-
-**Compact Convolutional Neural Network Cascade for Face Detection**
-
-- arxiv: [http://arxiv.org/abs/1508.01292](http://arxiv.org/abs/1508.01292)
-- github: [https://github.com/Bkmz21/FD-Evaluation](https://github.com/Bkmz21/FD-Evaluation)
 
 ## Bag of Words (BoW)
 
@@ -1000,6 +1007,12 @@ with fast exact probabilistic inference over many layers."
 
 - arxiv: [http://arxiv.org/abs/1603.01250](http://arxiv.org/abs/1603.01250)
 - notes: [http://blog.csdn.net/stdcoutzyx/article/details/50993124](http://blog.csdn.net/stdcoutzyx/article/details/50993124)
+
+## Dictionary Learning
+
+**Sparse Factorization Layers for Neural Networks with Limited Supervision**
+
+- arxiv: [https://arxiv.org/abs/1612.04468](https://arxiv.org/abs/1612.04468)
 
 ## HMM
 
@@ -1027,20 +1040,6 @@ with fast exact probabilistic inference over many layers."
 
 - intro: PL-CNNs
 - arxiv: [https://arxiv.org/abs/1611.02185](https://arxiv.org/abs/1611.02185)
-
-## Markov Random Field
-
-**Deep Markov Random Field for Image Modeling**
-
-- intro: ECCV 2016
-- arxiv: [http://arxiv.org/abs/1609.02036](http://arxiv.org/abs/1609.02036)
-- github: [https://github.com/zhirongw/deep-mrf](https://github.com/zhirongw/deep-mrf)
-
-## Conditional Random Fields
-
-**Deep, Dense, and Low-Rank Gaussian Conditional Random Fields**
-
-- arxiv: [https://arxiv.org/abs/1611.09051](https://arxiv.org/abs/1611.09051)
 
 ## Random Forest
 
@@ -1099,6 +1098,11 @@ with fast exact probabilistic inference over many layers."
 
 - paper: [http://openreview.net/pdf?id=SyEiHNKxx](http://openreview.net/pdf?id=SyEiHNKxx)
 
+**Deep-learning in Mobile Robotics - from Perception to Control Systems: A Survey on Why and Why not**
+
+- intro: City University of Hong Kong & Hong Kong University of Science and Technology
+- arxiv: [https://arxiv.org/abs/1612.07139](https://arxiv.org/abs/1612.07139)
+
 # Deep Learning on Mobile Devices
 
 **Convolutional neural networks on the iPhone with VGGNet**
@@ -1128,6 +1132,13 @@ with fast exact probabilistic inference over many layers."
 - part 1: [https://medium.com/@mgazar/experimenting-with-tensorflow-on-android-pt-1-362683b31838#.5gbp2d4st](https://medium.com/@mgazar/experimenting-with-tensorflow-on-android-pt-1-362683b31838#.5gbp2d4st)
 - part 2: [https://medium.com/@mgazar/experimenting-with-tensorflow-on-android-part-2-12f3dc294eaf#.2gx3o65f5](https://medium.com/@mgazar/experimenting-with-tensorflow-on-android-part-2-12f3dc294eaf#.2gx3o65f5)
 - github: [https://github.com/MostafaGazar/tensorflow](https://github.com/MostafaGazar/tensorflow)
+
+# Embedded Deep Learning
+
+**Embedded Deep Learning with NVIDIA Jetson**
+
+- youtube: [https://www.youtube.com/watch?v=_4tzlXPQWb8](https://www.youtube.com/watch?v=_4tzlXPQWb8)
+- mirror: [https://pan.baidu.com/s/1pKCDXkZ](https://pan.baidu.com/s/1pKCDXkZ)
 
 # Deep Learning in Finance
 
@@ -1228,6 +1239,11 @@ with fast exact probabilistic inference over many layers."
 
 - arxiv: [https://arxiv.org/abs/1611.07174](https://arxiv.org/abs/1611.07174)
 
+**Recurrent Deep Stacking Networks for Speech Recognition**
+
+- intro: The Ohio State University
+- arxiv: [https://arxiv.org/abs/1612.04675](https://arxiv.org/abs/1612.04675)
+
 # Deep Learning for Sound / Music
 
 ## Sound
@@ -1255,6 +1271,7 @@ with fast exact probabilistic inference over many layers."
 - project page: [http://www.flow-machines.com/deepbach-steerable-model-bach-chorales-generation/](http://www.flow-machines.com/deepbach-steerable-model-bach-chorales-generation/)
 - arxiv: [https://arxiv.org/abs/1612.01010](https://arxiv.org/abs/1612.01010)
 - github: [https://github.com/SonyCSL-Paris/DeepBach](https://github.com/SonyCSL-Paris/DeepBach)
+- youtube: [https://www.youtube.com/watch?v=QiBM7-5hA6o](https://www.youtube.com/watch?v=QiBM7-5hA6o)
 
 **Deep Learning for Music**
 
@@ -1289,6 +1306,16 @@ with fast exact probabilistic inference over many layers."
 **Deep Learning for Alzheimer Diagnostics and Decision Support**
 
 [https://amundtveit.com/2016/11/18/deep-learning-for-alzheimer-diagnostics-and-decision-support/](https://amundtveit.com/2016/11/18/deep-learning-for-alzheimer-diagnostics-and-decision-support/)
+
+**DeepCancer: Detecting Cancer through Gene Expressions via Deep Generative Learning**
+
+- intro: University of Florida
+- arxiv: [https://arxiv.org/abs/1612.03211](https://arxiv.org/abs/1612.03211)
+
+**Towards biologically plausible deep learning**
+
+- intro: Yoshua	Bengio, NIPS’2016 Workshops
+- slides: [http://www.iro.umontreal.ca/~bengioy/talks/Brains+Bits-NIPS2016Workshop.pptx.pdf](http://www.iro.umontreal.ca/~bengioy/talks/Brains+Bits-NIPS2016Workshop.pptx.pdf)
 
 # Benchmarks
 
@@ -1615,6 +1642,10 @@ with fast exact probabilistic inference over many layers."
 - intro: Rice University
 - arxiv: [https://arxiv.org/abs/1612.01936](https://arxiv.org/abs/1612.01936)
 
+**Paying More Attention to Attention: Improving the Performance of Convolutional Neural Networks via Attention Transfer**
+
+- arxiv: [https://arxiv.org/abs/1612.03928](https://arxiv.org/abs/1612.03928)
+
 ## STDP
 
 **A biological gradient descent for prediction through a combination of STDP and homeostatic plasticity**
@@ -1689,6 +1720,7 @@ with fast exact probabilistic inference over many layers."
 
 **FlowNet 2.0: Evolution of Optical Flow Estimation with Deep Networks**
 
+- project page: [http://lmb.informatik.uni-freiburg.de/Publications/2016/IMKDB16/](http://lmb.informatik.uni-freiburg.de/Publications/2016/IMKDB16/)
 - arxiv: [https://arxiv.org/abs/1612.01925](https://arxiv.org/abs/1612.01925)
 - video: [http://lmb.informatik.uni-freiburg.de/Publications/2016/IMKDB16/](http://lmb.informatik.uni-freiburg.de/Publications/2016/IMKDB16/)
 
@@ -2044,6 +2076,15 @@ Compatible with Theano and TensorFlow. Optimized for Twitter.
 **ml4a-guides - a collection of practical resources for working with machine learning software, including code and tutorials**
 
 [http://ml4a.github.io/guides/](http://ml4a.github.io/guides/)
+
+**deep-learning-resources**
+
+- intro: A Collection of resources I have found useful on my journey finding my way through the world of Deep Learning.
+- github: [https://github.com/chasingbob/deep-learning-resources](https://github.com/chasingbob/deep-learning-resources)
+
+**21 Deep Learning Videos, Tutorials & Courses on Youtube from 2016**
+
+[https://www.analyticsvidhya.com/blog/2016/12/21-deep-learning-videos-tutorials-courses-on-youtube-from-2016/](https://www.analyticsvidhya.com/blog/2016/12/21-deep-learning-videos-tutorials-courses-on-youtube-from-2016/)
 
 ## Arxiv Pages
 

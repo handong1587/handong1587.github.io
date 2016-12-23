@@ -183,6 +183,8 @@ date: 2015-10-09
 
 - intro: Selected for an oral presentation at NIPS, 2016
 - arxiv: [https://arxiv.org/abs/1610.09513](https://arxiv.org/abs/1610.09513)
+- github: [https://github.com/dannyneil/public_plstm](https://github.com/dannyneil/public_plstm)
+- github: [https://github.com/Enny1991/PLSTM](https://github.com/Enny1991/PLSTM)
 - reddit: [https://www.reddit.com/r/MachineLearning/comments/5bmfw5/r_phased_lstm_accelerating_recurrent_network/](https://www.reddit.com/r/MachineLearning/comments/5bmfw5/r_phased_lstm_accelerating_recurrent_network/)
 
 **Tuning Recurrent Neural Networks with Reinforcement Learning (RL Tuner)**
@@ -426,6 +428,8 @@ date: 2015-10-09
 - project page: [http://lstm.seas.harvard.edu/latex/](http://lstm.seas.harvard.edu/latex/)
 - arxiv: [http://arxiv.org/abs/1609.04938](http://arxiv.org/abs/1609.04938)
 - github: [https://github.com/harvardnlp/im2markup](https://github.com/harvardnlp/im2markup)
+- github(Tensorflow): [https://github.com/ssampang/im2latex](https://github.com/ssampang/im2latex)
+- github: [https://github.com/opennmt/im2text](https://github.com/opennmt/im2text)
 
 ## LSTMVis
 
@@ -485,6 +489,11 @@ date: 2015-10-09
 **shuttleNet: A biologically-inspired RNN with loop connection and parameter sharing**
 
 - arxiv: [https://arxiv.org/abs/1611.05216](https://arxiv.org/abs/1611.05216)
+
+**Tracking the World State with Recurrent Entity Networks**
+
+- intro: Facebook AI Research
+- arxiv: [https://arxiv.org/abs/1612.03969](https://arxiv.org/abs/1612.03969)
 
 # Projects
 

@@ -108,15 +108,6 @@ Other awesome lists can be found in this [list](https://github.com/sindresorhus/
 
 - blog: [http://www.analyticsvidhya.com/blog/2016/02/complete-guide-parameter-tuning-gradient-boosting-gbm-python/](http://www.analyticsvidhya.com/blog/2016/02/complete-guide-parameter-tuning-gradient-boosting-gbm-python/)
 
-**Awesome XGBoost**
-
-- intro: This page contains a curated list of examples, tutorials, blogs about XGBoost usecases. 
-- github: [https://github.com/dmlc/xgboost/blob/master/demo/README.md](https://github.com/dmlc/xgboost/blob/master/demo/README.md)
-
-**XGBoost: A Scalable Tree Boosting System**
-
-- arxiv: [http://arxiv.org/abs/1603.02754](http://arxiv.org/abs/1603.02754)
-
 **Understanding Gradient Boosting, Part 1**
 
 - blog: [http://rcarneva.github.io/understanding-gradient-boosting-part-1.html](http://rcarneva.github.io/understanding-gradient-boosting-part-1.html)
@@ -124,11 +115,6 @@ Other awesome lists can be found in this [list](https://github.com/sindresorhus/
 **Gradient Boosting explained [demonstration]**
 
 - blog: [https://arogozhnikov.github.io/2016/06/24/gradient_boosting_explained.html]()https://arogozhnikov.github.io/2016/06/24/gradient_boosting_explained.html
-
-**Complete Guide to Parameter Tuning in XGBoost (with codes in Python)**
-
-- blog: [https://www.analyticsvidhya.com/blog/2016/03/complete-guide-parameter-tuning-xgboost-with-codes-python/](https://www.analyticsvidhya.com/blog/2016/03/complete-guide-parameter-tuning-xgboost-with-codes-python/)
-- zh-blog: [http://blog.csdn.net/u010657489/article/details/51952785](http://blog.csdn.net/u010657489/article/details/51952785)
 
 **LightGBM, Light Gradient Boosting Machine**
 
@@ -139,6 +125,32 @@ based on decision tree algorithms, used for ranking, classification and many oth
 **pyLightGBM: Python binding for Microsoft LightGBM**
 
 - github: [https://github.com/ArdalanM/pyLightGBM](https://github.com/ArdalanM/pyLightGBM)
+
+## XGBoost
+
+**XGBoost: A Scalable Tree Boosting System**
+
+- arxiv: [http://arxiv.org/abs/1603.02754](http://arxiv.org/abs/1603.02754)
+
+**XGBoost: eXtreme Gradient Boosting**
+
+- intro: Scalable, Portable and Distributed Gradient Boosting (GBDT, GBRT or GBM) Library, 
+for Python, R, Java, Scala, C++ and more. Runs on single machine, Hadoop, Spark, Flink and DataFlow
+- github: [https://github.com/dmlc/xgboost](https://github.com/dmlc/xgboost)
+
+**GPU Accelerated XGBoost**
+
+- blog: [http://dmlc.ml/2016/12/14/GPU-accelerated-xgboost.html](http://dmlc.ml/2016/12/14/GPU-accelerated-xgboost.html)
+
+**Awesome XGBoost**
+
+- intro: This page contains a curated list of examples, tutorials, blogs about XGBoost usecases. 
+- github: [https://github.com/dmlc/xgboost/blob/master/demo/README.md](https://github.com/dmlc/xgboost/blob/master/demo/README.md)
+
+**Complete Guide to Parameter Tuning in XGBoost (with codes in Python)**
+
+- blog: [https://www.analyticsvidhya.com/blog/2016/03/complete-guide-parameter-tuning-xgboost-with-codes-python/](https://www.analyticsvidhya.com/blog/2016/03/complete-guide-parameter-tuning-xgboost-with-codes-python/)
+- zh-blog: [http://blog.csdn.net/u010657489/article/details/51952785](http://blog.csdn.net/u010657489/article/details/51952785)
 
 # Bootstrap
 
@@ -464,9 +476,24 @@ Classic strategies:
 
 - blog: [http://twiecki.github.io/blog/2016/07/05/bayesian-deep-learning/](http://twiecki.github.io/blog/2016/07/05/bayesian-deep-learning/)
 
+**Deep Markov Random Field for Image Modeling**
+
+- intro: ECCV 2016
+- arxiv: [http://arxiv.org/abs/1609.02036](http://arxiv.org/abs/1609.02036)
+- github: [https://github.com/zhirongw/deep-mrf](https://github.com/zhirongw/deep-mrf)
+
 **Practical Learning of Deep Gaussian Processes via Random Fourier Features**
 
 - arxiv: [https://arxiv.org/abs/1610.04386](https://arxiv.org/abs/1610.04386)
+
+**Deep, Dense, and Low-Rank Gaussian Conditional Random Fields**
+
+- arxiv: [https://arxiv.org/abs/1611.09051](https://arxiv.org/abs/1611.09051)
+
+**Deep Probabilistic Programming with Edward**
+
+- intro: Columbia University & Adobe Research & Google
+- poster: [http://dustintran.com/papers/TranHoffmanMurphyBrevdoSaurousBlei2016_poster.pdf](http://dustintran.com/papers/TranHoffmanMurphyBrevdoSaurousBlei2016_poster.pdf)
 
 # Mathematics
 
@@ -902,6 +929,10 @@ including all the relevant classifiers available today
 - intro: 32 Tips, Tricks and Hacks That You Can Use To Make Better Predictions.
 - blog: [http://machinelearningmastery.com/machine-learning-performance-improvement-cheat-sheet/](http://machinelearningmastery.com/machine-learning-performance-improvement-cheat-sheet/)
 
+**What is better: gradient-boosted trees, or a random forest?**
+
+[http://fastml.com/what-is-better-gradient-boosted-trees-or-random-forest/](http://fastml.com/what-is-better-gradient-boosted-trees-or-random-forest/)
+
 ## Model evaluation, model selection, and algorithm selection in machine learning
 
 **Part I - The basics**
@@ -1071,6 +1102,10 @@ for creating complex software in C++ to solve real world problems.
 
 - intro: A complete daily plan for studying to become a machine learning engineer.
 - github: [https://github.com/ZuzooVn/machine-learning-for-software-engineers](https://github.com/ZuzooVn/machine-learning-for-software-engineers)
+
+**30 Top Videos, Tutorials & Courses on Machine Learning & Artificial Intelligence from 2016**
+
+[https://www.analyticsvidhya.com/blog/2016/12/30-top-videos-tutorials-courses-on-machine-learning-artificial-intelligence-from-2016/](https://www.analyticsvidhya.com/blog/2016/12/30-top-videos-tutorials-courses-on-machine-learning-artificial-intelligence-from-2016/)
 
 # Projects
 

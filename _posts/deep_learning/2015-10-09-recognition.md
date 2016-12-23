@@ -48,6 +48,11 @@ date: 2015-10-09
 
 - arxiv: [https://arxiv.org/abs/1611.09007](https://arxiv.org/abs/1611.09007)
 
+**The More You Know: Using Knowledge Graphs for Image Classification**
+
+- intro: CMU. GSNN
+- arxiv: [https://arxiv.org/abs/1612.04844](https://arxiv.org/abs/1612.04844)
+
 ## Multi-object Recognition
 
 **Multiple Object Recognition with Visual Attention**

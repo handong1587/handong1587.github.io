@@ -640,6 +640,23 @@ Machine learning workflow, Extracting feaures from images (colours, edges, corne
 
 - blog: [https://www.oreilly.com/learning/not-another-mnist-tutorial-with-tensorflow](https://www.oreilly.com/learning/not-another-mnist-tutorial-with-tensorflow)
 
+**Traffic Sign Recognition with TensorFlow**
+
+- blog: [https://medium.com/@waleedka/traffic-sign-recognition-with-tensorflow-629dffc391a6#.2khbv6a9a](https://medium.com/@waleedka/traffic-sign-recognition-with-tensorflow-629dffc391a6#.2khbv6a9a)
+
+**Dive Into TensorFlow**
+
+- Part I: Getting Started with TensorFlow: [http://textminingonline.com/dive-into-tensorflow-part-i-getting-started-with-tensorflow](http://textminingonline.com/dive-into-tensorflow-part-i-getting-started-with-tensorflow)
+- Part II: Basic Concepts: [http://textminingonline.com/dive-into-tensorflow-part-ii-basic-concepts](http://textminingonline.com/dive-into-tensorflow-part-ii-basic-concepts)
+- Part III: GTX 1080+Ubuntu16.04+CUDA8.0+cuDNN5.0+TensorFlow: [http://textminingonline.com/dive-into-tensorflow-part-iii-gtx-1080-ubuntu16-04-cuda8-0-cudnn5-0-tensorflow](http://textminingonline.com/dive-into-tensorflow-part-iii-gtx-1080-ubuntu16-04-cuda8-0-cudnn5-0-tensorflow)
+- Part IV: Hello MNIST: [http://textminingonline.com/dive-into-tensorflow-part-iv-hello-mnist](http://textminingonline.com/dive-into-tensorflow-part-iv-hello-mnist)
+- Part V: Deep MNIST: [http://textminingonline.com/dive-into-tensorflow-part-v-deep-mnist](http://textminingonline.com/dive-into-tensorflow-part-v-deep-mnist)
+- Part VI: Beyond Deep Learning: [http://textminingonline.com/dive-into-tensorflow-part-vi-beyond-deep-learning](http://textminingonline.com/dive-into-tensorflow-part-vi-beyond-deep-learning)
+
+**TensorFlow Exercises - focusing on the comparison with NumPy.**
+
+- github: [https://github.com/Kyubyong/tensorflow-exercises](https://github.com/Kyubyong/tensorflow-exercises)
+
 # Keras
 
 **Keras tutorial**

@@ -5,6 +5,19 @@ title: Neural Network
 date: 2015-08-27
 ---
 
+# Tutorials
+
+**Neural Network Tutorial**
+
+- intro: In this tutorial series we develop the back-propagation algorithm, 
+explore how it functions, and build a back propagation neural network library in C#
+- youtube: [https://www.youtube.com/playlist?list=PL29C61214F2146796](https://www.youtube.com/playlist?list=PL29C61214F2146796)
+
+**A history of Bayesian neural networks**
+
+- intro: by Zoubin Ghahramani, University of Cambridge. NIPS 2016 Bayesian Deep Learning
+- slides: [http://bayesiandeeplearning.org/slides/nips16bayesdeep.pdf](http://bayesiandeeplearning.org/slides/nips16bayesdeep.pdf)
+
 # Papers
 
 **A Fast C++ Implementation of Neural Network Backpropagation Training Algorithm: Application to Bayesian Optimal Image Demosaicking**
@@ -92,6 +105,10 @@ date: 2015-08-27
 - blog: [https://medium.com/@michael.m/starting-with-neural-networks-in-swift-3-0-d260c1f0bf74#.rghtp2ip3](https://medium.com/@michael.m/starting-with-neural-networks-in-swift-3-0-d260c1f0bf74#.rghtp2ip3)
 - bitbucket: [https://bitbucket.org/mmick66/neural1](https://bitbucket.org/mmick66/neural1)
 
+**Visual and Interactive Guide to the Basics of Neural Networks**
+
+[http://jalammar.github.io/visual-interactive-guide-basics-neural-networks/](http://jalammar.github.io/visual-interactive-guide-basics-neural-networks/)
+
 ## Backpropagation
 
 **A Step by Step Backpropagation Example**
@@ -139,6 +156,11 @@ date: 2015-08-27
 
 - intro: This document derives backpropagation for some common error functions and describes some other tricks.
 - paper: [https://www.ics.uci.edu/~pjsadows/notes.pdf](https://www.ics.uci.edu/~pjsadows/notes.pdf)
+
+**Yes you should understand backprop**
+
+- intro: Andrej Karpathy
+- blog: [https://medium.com/@karpathy/yes-you-should-understand-backprop-e2f06eab496b#.hbbhgjzi9](https://medium.com/@karpathy/yes-you-should-understand-backprop-e2f06eab496b#.hbbhgjzi9)
 
 # Project
 

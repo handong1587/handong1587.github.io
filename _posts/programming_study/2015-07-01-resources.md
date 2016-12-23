@@ -209,6 +209,15 @@ The user can run the packaged app without installing a Python interpreter or any
 - docs: [http://pyinstaller.readthedocs.io/en/stable/](http://pyinstaller.readthedocs.io/en/stable/)
 - github: [https://github.com/pyinstaller/pyinstaller](https://github.com/pyinstaller/pyinstaller)
 
+**From Python to Numpy**
+
+- book: [http://www.labri.fr/perso/nrougier/from-python-to-numpy/](http://www.labri.fr/perso/nrougier/from-python-to-numpy/)
+- github: [https://github.com/rougier/from-python-to-numpy](https://github.com/rougier/from-python-to-numpy)
+
+**Numpy exercises.**
+
+- github: [https://github.com/Kyubyong/numpy_exercises](https://github.com/Kyubyong/numpy_exercises)
+
 # Regulex
 
 **Regulex: JavaScript Regular Expression Visualizer**

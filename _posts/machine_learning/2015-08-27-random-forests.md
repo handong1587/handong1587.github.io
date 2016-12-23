@@ -23,6 +23,12 @@ date: 2015-08-27
 
 - paper: [http://www.ijcai.org/Proceedings/16/Papers/309.pdf](http://www.ijcai.org/Proceedings/16/Papers/309.pdf)
 
+**TensorForest: Scalable Random Forests on TensorFlow**
+
+- intro: Google Inc. NIPS 2016
+- paper: [https://docs.google.com/viewer?a=v&pid=sites&srcid=ZGVmYXVsdGRvbWFpbnxtbHN5c25pcHMyMDE2fGd4OjFlNTRiOWU2OGM2YzA4MjE](https://docs.google.com/viewer?a=v&pid=sites&srcid=ZGVmYXVsdGRvbWFpbnxtbHN5c25pcHMyMDE2fGd4OjFlNTRiOWU2OGM2YzA4MjE)
+- github: [https://github.com/tensorflow/tensorflow/tree/master/tensorflow/contrib/tensor_forest](https://github.com/tensorflow/tensorflow/tree/master/tensorflow/contrib/tensor_forest)
+
 # Resources
 
 **AWESOME-RANDOM-FOREST - a curated list of resources regarding random forest**
@@ -51,7 +57,7 @@ date: 2015-08-27
 
 [https://codewords.recurse.com/issues/seven/a-tour-of-random-forests](https://codewords.recurse.com/issues/seven/a-tour-of-random-forests)
 
-# Codes
+# Projects
 
 **Random Forest demo in Javascript**
 

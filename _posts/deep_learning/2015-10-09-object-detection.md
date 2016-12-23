@@ -201,6 +201,11 @@ bounding boxes (which are shared for these categories).
 - github: [https://github.com/frischzenger/yolo-windows](https://github.com/frischzenger/yolo-windows)
 - gtihub: [https://github.com/AlexeyAB/yolo-windows](https://github.com/AlexeyAB/yolo-windows)
 
+**darkflow - translate darknet to tensorflow. Load trained weights, retrain/fine-tune them using tensorflow, export constant graph def to C++**
+
+- blog: [https://thtrieu.github.io/notes/yolo-tensorflow-graph-buffer-cpp](https://thtrieu.github.io/notes/yolo-tensorflow-graph-buffer-cpp)
+- github: [https://github.com/thtrieu/darkflow](https://github.com/thtrieu/darkflow)
+
 **Start Training YOLO with Our Own Data**
 
 ![](http://guanghan.info/blog/en/wp-content/uploads/2015/12/images-40.jpg)
@@ -436,6 +441,7 @@ Continuation of [arXiv:1608.08021](https://arxiv.org/abs/1608.08021)
 
 **Beyond Skip Connections: Top-Down Modulation for Object Detection**
 
+- intro: CMU & UC Berkeley & Google Research
 - arxiv: [https://arxiv.org/abs/1612.06851](https://arxiv.org/abs/1612.06851)
 
 # Detection From Video
@@ -927,6 +933,10 @@ This task involves predicting the salient regions of an image given by human eye
 
 - intro: CMU & Magic Leap
 - arxiv: [https://arxiv.org/abs/1611.10010](https://arxiv.org/abs/1611.10010)
+
+**Automatic Model Based Dataset Generation for Fast and Accurate Crop and Weeds Detection**
+
+- arxiv: [https://arxiv.org/abs/1612.03019](https://arxiv.org/abs/1612.03019)
 
 # Object Proposal
 

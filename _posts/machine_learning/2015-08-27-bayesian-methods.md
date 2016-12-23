@@ -60,6 +60,13 @@ date: 2015-08-27
 
 - paper: [http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7352306](http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7352306)
 
+**Bayesian Optimization for Machine Learning : A Practical Guidebook**
+
+- intro: SigOpt
+- arxiv: [https://arxiv.org/abs/1612.04858](https://arxiv.org/abs/1612.04858)
+- homepage: [https://sigopt.com/](https://sigopt.com/)
+- github: [https://github.com/sigopt](https://github.com/sigopt)
+
 # Probabilistic Programming
 
 **Probabilistic Programming in Python**

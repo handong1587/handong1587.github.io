@@ -47,6 +47,11 @@ date: 2015-10-09
 
 - arxiv: [http://arxiv.org/abs/1608.07454](http://arxiv.org/abs/1608.07454)
 
+**Feedback Neural Network for Weakly Supervised Geo-Semantic Segmentation**
+
+- intro: Facebook Connectivity Lab & Facebook Core Data Science & University of Illinois
+- arxiv: [https://arxiv.org/abs/1612.02766](https://arxiv.org/abs/1612.02766)
+
 **FusionNet: A deep fully residual convolutional neural network for image segmentation in connectomics**
 
 - arxiv: [https://arxiv.org/abs/1612.05360](https://arxiv.org/abs/1612.05360)
@@ -499,6 +504,8 @@ with built-in awareness of semantically meaningful boundaries. "
 
 - arxiv: [http://arxiv.org/abs/1306.2795](http://arxiv.org/abs/1306.2795)
 - slides: [http://people.ee.duke.edu/~lcarin/Yizhe8.14.2015.pdf](http://people.ee.duke.edu/~lcarin/Yizhe8.14.2015.pdf)
+- github: [https://github.com/NP-coder/CLPS1520Project](https://github.com/NP-coder/CLPS1520Project)
+- github: [https://github.com/rkargon/Scene-Labeling](https://github.com/rkargon/Scene-Labeling)
 
 **Learning hierarchical features for scene labeling**
 
@@ -628,6 +635,10 @@ ranked 1st place in ImageNet Scene Parsing Challenge 2016
 **Image Segmentation Using DIGITS 5**
 
 [https://devblogs.nvidia.com/parallelforall/image-segmentation-using-digits-5/](https://devblogs.nvidia.com/parallelforall/image-segmentation-using-digits-5/)
+
+**Image Segmentation with Tensorflow using CNNs and Conditional Random Fields**
+
+[http://warmspringwinds.github.io/tensorflow/tf-slim/2016/12/18/image-segmentation-with-tensorflow-using-cnns-and-conditional-random-fields/](http://warmspringwinds.github.io/tensorflow/tf-slim/2016/12/18/image-segmentation-with-tensorflow-using-cnns-and-conditional-random-fields/)
 
 # Talks
 

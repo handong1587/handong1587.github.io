@@ -151,9 +151,11 @@ Compressed model is less than 500KB
 
 **Texture Networks: Feed-forward Synthesis of Textures and Stylized Images**
 
+- intro: IMCL 2016
 - arxiv: [http://arxiv.org/abs/1603.03417](http://arxiv.org/abs/1603.03417)
 - github: [https://github.com/DmitryUlyanov/texture_nets](https://github.com/DmitryUlyanov/texture_nets)
 - notes: [https://blog.acolyer.org/2016/09/23/texture-networks-feed-forward-synthesis-of-textures-and-stylized-images/](https://blog.acolyer.org/2016/09/23/texture-networks-feed-forward-synthesis-of-textures-and-stylized-images/)
+- github: [https://github.com/tgyg-jegli/tf_texture_net](https://github.com/tgyg-jegli/tf_texture_net)
 
 **Learning Typographic Style**
 
@@ -223,6 +225,7 @@ Compressed model is less than 500KB
 **Fast Patch-based Style Transfer of Arbitrary Style**
 
 - arxiv: [https://arxiv.org/abs/1612.04337](https://arxiv.org/abs/1612.04337)
+- github: [https://github.com/rtqichen/style-swap](https://github.com/rtqichen/style-swap)
 
 ## Neural Art On Audio
 
@@ -230,6 +233,11 @@ Compressed model is less than 500KB
 
 - github: [https://github.com/Fr-d-rik/generative_audio](https://github.com/Fr-d-rik/generative_audio)
 - project report: [https://github.com/Fr-d-rik/generative_audio/blob/master/docs/project_report.pdf](https://github.com/Fr-d-rik/generative_audio/blob/master/docs/project_report.pdf)
+
+**Neural Song Style**
+
+- intro: Audio style transfer AI
+- github: [https://github.com/rupeshs/neuralsongstyle](https://github.com/rupeshs/neuralsongstyle)
 
 ## Neural Art On Video
 
@@ -750,6 +758,10 @@ Compressed model is less than 500KB
 - github: [https://github.com/ml4a/ml4a.github.io](https://github.com/ml4a/ml4a.github.io)
 - notes: [http://www.kdnuggets.com/2016/04/machine-learning-artists-video-lectures-notes.html](http://www.kdnuggets.com/2016/04/machine-learning-artists-video-lectures-notes.html)
 - blog: [https://medium.com/@genekogan/machine-learning-for-artists-e93d20fdb097#.25w95beqb](https://medium.com/@genekogan/machine-learning-for-artists-e93d20fdb097#.25w95beqb)
+
+**Machine Learning for Artists @ OpenDot, November 2016**
+
+- homepage: [http://ml4a.github.io/classes/opendot/](http://ml4a.github.io/classes/opendot/)
 
 **The Neural Aesthetic @ SchoolOfMa, Summer 2016**
 

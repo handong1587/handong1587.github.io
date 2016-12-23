@@ -153,6 +153,21 @@ date: 2015-10-09
 
 [https://bigdatauniversity.com/courses/deep-learning-tensorflow/](https://bigdatauniversity.com/courses/deep-learning-tensorflow/)
 
+**Practical Deep Learning For Coders, Part 1**
+
+- intro: 10 hours a week for 7 weeks
+- homepage: [http://course.fast.ai/](http://course.fast.ai/)
+- youtube: [https://www.youtube.com/playlist?list=PLfYUBJiXbdtS2UQRzyrxmyVHoGW0gmLSM](https://www.youtube.com/playlist?list=PLfYUBJiXbdtS2UQRzyrxmyVHoGW0gmLSM)
+- github: [https://github.com/fastai/courses](https://github.com/fastai/courses)
+- blog: [http://www.kdnuggets.com/2016/12/deep-learning-coders-mooc-jeremy-howard.html](http://www.kdnuggets.com/2016/12/deep-learning-coders-mooc-jeremy-howard.html)
+
+**T81-558:Applications of Deep Neural Networks**
+
+- intro: Washington University
+- course page: [https://sites.wustl.edu/jeffheaton/t81-558/](https://sites.wustl.edu/jeffheaton/t81-558/)
+- youtube: [https://www.youtube.com/playlist?list=PLjy4p-07OYzulelvJ5KVaT2pDlxivl_BN](https://www.youtube.com/playlist?list=PLjy4p-07OYzulelvJ5KVaT2pDlxivl_BN)
+- github: [https://github.com/jeffheaton/t81_558_deep_learning](https://github.com/jeffheaton/t81_558_deep_learning)
+
 # Computer Vision
 
 **Stanford CS231n: Convolutional Neural Networks for Visual Recognition**
@@ -224,3 +239,9 @@ such as image classification, object detection or text captioning.
 **GPU Programming**
 
 - homepage: [http://courses.cms.caltech.edu/cs179/](http://courses.cms.caltech.edu/cs179/)
+
+# Resources
+
+**Open Source Deep Learning Curriculum**
+
+[http://www.deeplearningweekly.com/pages/open_source_deep_learning_curriculum](http://www.deeplearningweekly.com/pages/open_source_deep_learning_curriculum)

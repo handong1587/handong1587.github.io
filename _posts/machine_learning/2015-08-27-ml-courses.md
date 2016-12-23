@@ -237,3 +237,7 @@ with applications for model fitting and techniques for dealing with missing data
 
 - intro: Curated list to learn the math basics for machine learning. Note that this is a biased list from a Deep Learning research.
 - github: [https://github.com/EderSantana/awesomeMLmath](https://github.com/EderSantana/awesomeMLmath)
+
+**MOOCs for Machine Learning**
+
+[https://medium.com/@amarbudhiraja/moocs-for-machine-learning-5a2f2c6cdcfe#.1m2v38e0y](https://medium.com/@amarbudhiraja/moocs-for-machine-learning-5a2f2c6cdcfe#.1m2v38e0y)

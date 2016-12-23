@@ -74,6 +74,10 @@ date: 2015-08-27
 
 - github: [https://github.com/liviu-/notebooks/blob/master/bayesian_linear_regression.ipynb](https://github.com/liviu-/notebooks/blob/master/bayesian_linear_regression.ipynb)
 
+**45 questions to test a Data Scientist on Regression (Skill test – Regression Solution)**
+
+[https://www.analyticsvidhya.com/blog/2016/12/45-questions-to-test-a-data-scientist-on-regression-skill-test-regression-solution/](https://www.analyticsvidhya.com/blog/2016/12/45-questions-to-test-a-data-scientist-on-regression-skill-test-regression-solution/)
+
 ## Logistic regression
 
 **Guide to an in-depth understanding of logistic regression**

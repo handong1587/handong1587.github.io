@@ -34,6 +34,11 @@ date: 2015-10-09
 - blog: [http://kvfrans.com/what-is-draw-deep-recurrent-attentive-writer/](http://kvfrans.com/what-is-draw-deep-recurrent-attentive-writer/)
 - github(tensorflow): [https://github.com/kvfrans/draw](https://github.com/kvfrans/draw)
 
+**Colorizing the DRAW Model**
+
+- blog: [http://kvfrans.com/colorizing-the-draw-model/](http://kvfrans.com/colorizing-the-draw-model/)
+- github: [https://github.com/kvfrans/draw-color](https://github.com/kvfrans/draw-color)
+
 **Understanding and Implementing Deepmind's DRAW Model**
 
 - blog: [http://evjang.com/articles/draw](http://evjang.com/articles/draw)

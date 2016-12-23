@@ -35,6 +35,23 @@ date: 2016-12-06
 
 [https://blog.insightdatascience.com/nips-2016-day-2-highlights-platform-wars-rl-and-rnns-9dca43bc1448#.zgtu1rtr0](https://blog.insightdatascience.com/nips-2016-day-2-highlights-platform-wars-rl-and-rnns-9dca43bc1448#.zgtu1rtr0)
 
+**50 things I learned at NIPS 2016**
+
+[https://blog.ought.com/nips-2016-875bb8fadb8c#.f1a1161hq](https://blog.ought.com/nips-2016-875bb8fadb8c#.f1a1161hq)
+
+**NIPS 2016 Highlights**
+
+- slides: [http://www.slideshare.net/SebastianRuder/nips-2016-highlights-sebastian-ruder](http://www.slideshare.net/SebastianRuder/nips-2016-highlights-sebastian-ruder)
+- mirror: [https://pan.baidu.com/s/1kUKnCJ9](https://pan.baidu.com/s/1kUKnCJ9)
+
+**Brad Neuberg’s NIPS 2016 Notes**
+
+- blog: [https://paper.dropbox.com/doc/Brad-Neubergs-NIPS-2016-Notes-XUFRdpNYyBhau0gWcybRo](https://paper.dropbox.com/doc/Brad-Neubergs-NIPS-2016-Notes-XUFRdpNYyBhau0gWcybRo)
+
+**All Code Implementations for NIPS 2016 papers**
+
+- reddit: [https://www.reddit.com/r/MachineLearning/comments/5hwqeb/project_all_code_implementations_for_nips_2016/](https://www.reddit.com/r/MachineLearning/comments/5hwqeb/project_all_code_implementations_for_nips_2016/)
+
 # Heuritech Deep Learning Meetup
 
 **Heuritech Deep Learning Meetup #7: more than 100 attendees for convolutionnal neural networks**

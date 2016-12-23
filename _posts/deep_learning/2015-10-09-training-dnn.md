@@ -74,6 +74,7 @@ date: 2015-10-09
 - intro: ICML 2016
 - arxiv: [http://arxiv.org/abs/1602.02068](http://arxiv.org/abs/1602.02068)
 - github: [https://github.com/gokceneraslan/SparseMax.torch](https://github.com/gokceneraslan/SparseMax.torch)
+- github: [https://github.com/Unbabel/sparsemax](https://github.com/Unbabel/sparsemax)
 
 **Revise Saturated Activation Functions**
 
@@ -255,6 +256,13 @@ date: 2015-10-09
 
 - intro: Tom Schaul, Sixin Zhang, Yann LeCun
 - arxiv: [https://arxiv.org/abs/1206.1106](https://arxiv.org/abs/1206.1106)
+
+**Coupling Adaptive Batch Sizes with Learning Rates**
+
+- intro: Max Planck Institute for Intelligent Systems
+- intro: Tensorflow implementation of SGD with Coupled Adaptive Batch Size (CABS)
+- arxiv: [https://arxiv.org/abs/1612.05086](https://arxiv.org/abs/1612.05086)
+- github: [https://github.com/ProbabilisticNumerics/cabs](https://github.com/ProbabilisticNumerics/cabs)
 
 # Pooling
 
@@ -502,6 +510,13 @@ date: 2015-10-09
 - project page: [http://www-etud.iro.umontreal.ca/~goodfeli/maxout.html](http://www-etud.iro.umontreal.ca/~goodfeli/maxout.html)
 - arxiv: [https://arxiv.org/abs/1302.4389](https://arxiv.org/abs/1302.4389)
 - github: [https://github.com/lisa-lab/pylearn2/blob/master/pylearn2/models/maxout.py](https://github.com/lisa-lab/pylearn2/blob/master/pylearn2/models/maxout.py)
+
+## Swapout
+
+**Swapout: Learning an ensemble of deep architectures**
+
+- arxiv: [https://arxiv.org/abs/1605.06465](https://arxiv.org/abs/1605.06465)
+- blog: [https://gab41.lab41.org/lab41-reading-group-swapout-learning-an-ensemble-of-deep-architectures-e67d2b822f8a#.9r2s4c58n](https://gab41.lab41.org/lab41-reading-group-swapout-learning-an-ensemble-of-deep-architectures-e67d2b822f8a#.9r2s4c58n)
 
 ## Whiteout
 
