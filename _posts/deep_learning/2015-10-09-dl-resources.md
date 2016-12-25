@@ -1760,6 +1760,11 @@ with fast exact probabilistic inference over many layers."
 
 ### All-In-One Network
 
+**HyperFace: A Deep Multi-task Learning Framework for Face Detection, Landmark Localization, Pose Estimation, and Gender Recognition**
+
+- arxiv: [https://arxiv.org/abs/1603.01249](https://arxiv.org/abs/1603.01249)
+- summary: [https://github.com/aleju/papers/blob/master/neural-nets/HyperFace.md](https://github.com/aleju/papers/blob/master/neural-nets/HyperFace.md)
+
 **UberNet: Training a `Universal' Convolutional Neural Network for Low-, Mid-, and High-Level Vision using Diverse Datasets and Limited Memory**
 
 ![](http://cvn.ecp.fr/ubernet/res.png)
@@ -1771,6 +1776,13 @@ with fast exact probabilistic inference over many layers."
 
 - intro: simultaneous face detection, face alignment, pose estimation, gender recognition, smile detection, age estimation and face recognition 
 - arxiv: [https://arxiv.org/abs/1611.00851](https://arxiv.org/abs/1611.00851)
+
+**MultiNet: Real-time Joint Semantic Reasoning for Autonomous Driving**
+
+- intro: first place on Kitti Road Segmentation. 
+joint classification, detection and semantic segmentation via a unified architecture, less than 100 ms to perform all tasks
+- arxiv: [https://arxiv.org/abs/1612.07695](https://arxiv.org/abs/1612.07695)
+- github: coming soon
 
 # Projects
 

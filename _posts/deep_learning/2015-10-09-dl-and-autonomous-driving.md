@@ -112,6 +112,13 @@ date: 2015-10-09
 - intro: Accepted at the Deep Learning for Action and Interaction Workshop, 30th Conference on Neural Information Processing Systems (NIPS 2016)
 - arxiv: [https://arxiv.org/abs/1611.08788](https://arxiv.org/abs/1611.08788)
 
+**MultiNet: Real-time Joint Semantic Reasoning for Autonomous Driving**
+
+- intro: first place on Kitti Road Segmentation. 
+joint classification, detection and semantic segmentation via a unified architecture, less than 100 ms to perform all tasks
+- arxiv: [https://arxiv.org/abs/1612.07695](https://arxiv.org/abs/1612.07695)
+- github: coming soon
+
 # Projects
 
 **Caffe-Autopilot: Car autopilot software that uses C++, BVLC Caffe, OpenCV, and SFML**

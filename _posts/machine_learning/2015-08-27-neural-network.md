@@ -162,6 +162,10 @@ explore how it functions, and build a back propagation neural network library in
 - intro: Andrej Karpathy
 - blog: [https://medium.com/@karpathy/yes-you-should-understand-backprop-e2f06eab496b#.hbbhgjzi9](https://medium.com/@karpathy/yes-you-should-understand-backprop-e2f06eab496b#.hbbhgjzi9)
 
+**Back-propagation, an introduction**
+
+- blog: [http://www.offconvex.org/2016/12/20/backprop/](http://www.offconvex.org/2016/12/20/backprop/)
+
 # Project
 
 **Neural Networks demo in Javascript**

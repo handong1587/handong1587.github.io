@@ -218,6 +218,10 @@ The user can run the packaged app without installing a Python interpreter or any
 
 - github: [https://github.com/Kyubyong/numpy_exercises](https://github.com/Kyubyong/numpy_exercises)
 
+**Python 2 vs Python 3: Practical Considerations**
+
+- blog: [https://www.digitalocean.com/community/tutorials/python-2-vs-python-3-practical-considerations-2](https://www.digitalocean.com/community/tutorials/python-2-vs-python-3-practical-considerations-2)
+
 # Regulex
 
 **Regulex: JavaScript Regular Expression Visualizer**

@@ -631,8 +631,6 @@ Compressed model is less than 500KB
 
 # Weiqi (Go)
 
-![](/assets/deep_learning/Weiqi_Go_Chess_Games/weiqi.jpg)
-
 **Teaching Deep Convolutional Neural Networks to Play Go**
 
 - arxiv: [http://arxiv.org/abs/1412.3409](http://arxiv.org/abs/1412.3409)

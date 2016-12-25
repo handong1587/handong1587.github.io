@@ -318,6 +318,8 @@ and 1.15s per image with it".
 - intro: CVPR 2016 Oral. Online hard example mining (OHEM)
 - arxiv: [http://arxiv.org/abs/1604.03540](http://arxiv.org/abs/1604.03540)
 - paper: [http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Shrivastava_Training_Region-Based_Object_CVPR_2016_paper.pdf](http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Shrivastava_Training_Region-Based_Object_CVPR_2016_paper.pdf)
+- github（Official）: [https://github.com/abhi2610/ohem](https://github.com/abhi2610/ohem)
+- author page: [http://abhinav-shrivastava.info/](http://abhinav-shrivastava.info/)
 
 **Track and Transfer: Watching Videos to Simulate Strong Human Supervision for Weakly-Supervised Object Detection**
 
@@ -784,6 +786,10 @@ This task involves predicting the salient regions of an image given by human eye
 
 - arxiv: [http://arxiv.org/abs/1510.03608](http://arxiv.org/abs/1510.03608)
 - github: [https://github.com/DenisTome/DeepPed](https://github.com/DenisTome/DeepPed)
+
+**Scale-aware Fast R-CNN for Pedestrian Detection**
+
+- arxiv: [https://arxiv.org/abs/1510.08160](https://arxiv.org/abs/1510.08160)
 
 **New algorithm improves speed and accuracy of pedestrian detection**
 

@@ -17,6 +17,12 @@ date: 2015-10-09
 - github: [https://github.com/xiaolonw/nips14_loc_seg_testonly](https://github.com/xiaolonw/nips14_loc_seg_testonly)
 - dataset: [http://objectextraction.github.io/](http://objectextraction.github.io/)
 
+**Highly Efficient Forward and Backward Propagation of Convolutional Neural Networks for Pixelwise Classification**
+
+- arxiv: [https://arxiv.org/abs/1412.4526](https://arxiv.org/abs/1412.4526)
+- code(Caffe): [https://dl.dropboxusercontent.com/u/6448899/caffe.zip](https://dl.dropboxusercontent.com/u/6448899/caffe.zip)
+- author page: [http://www.ee.cuhk.edu.hk/~hsli/](http://www.ee.cuhk.edu.hk/~hsli/)
+
 ## U-Net
 
 **U-Net: Convolutional Networks for Biomedical Image Segmentation**
@@ -410,9 +416,8 @@ with built-in awareness of semantically meaningful boundaries. "
 
 ![](https://raw.githubusercontent.com/daijifeng001/MNC/master/data/readme_img/example.png)
 
-- intro: "1st-place winner of MS COCO 2015 segmentation competition"
-- intro: CVPR 2016 oral
-- keywords: RoI warping
+- intro: CVPR 2016 oral. 1st-place winner of MS COCO 2015 segmentation competition
+- keywords: RoI warping layer
 - arxiv: [http://arxiv.org/abs/1512.04412](http://arxiv.org/abs/1512.04412)
 - github: [https://github.com/daijifeng001/MNC](https://github.com/daijifeng001/MNC)
 
@@ -465,6 +470,7 @@ with built-in awareness of semantically meaningful boundaries. "
 
 **End-to-End Instance Segmentation and Counting with Recurrent Attention**
 
+- intro: ReInspect
 - arxiv: [http://arxiv.org/abs/1605.09410](http://arxiv.org/abs/1605.09410)
 
 ## TA-FCN
