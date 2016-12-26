@@ -31,6 +31,11 @@ date: 2016-02-24
 - intro: This is an attempt to visually explain the core concepts of the Central Limit Theorem
 - blog: [http://mfviz.com/central-limit/](http://mfviz.com/central-limit/)
 
+**Mathematics at Google**
+
+- intro: Javier Tordable
+- slides: [http://static.googleusercontent.com/external_content/untrusted_dlcp/research.google.com/en//pubs/archive/38331.pdf](http://static.googleusercontent.com/external_content/untrusted_dlcp/research.google.com/en//pubs/archive/38331.pdf)
+
 # Courses
 
 **Stanford EE261 - The Fourier Transform and its Applications**

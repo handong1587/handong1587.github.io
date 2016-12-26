@@ -692,7 +692,9 @@ with fast exact probabilistic inference over many layers."
 
 **Recombinator Networks: Learning Coarse-to-Fine Feature Aggregation**
 
+- intro: CVPR 2016
 - arxiv: [http://arxiv.org/abs/1511.07356](http://arxiv.org/abs/1511.07356)
+- paper: [http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Honari_Recombinator_Networks_Learning_CVPR_2016_paper.pdf](http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Honari_Recombinator_Networks_Learning_CVPR_2016_paper.pdf)
 - github: [https://github.com/SinaHonari/RCN](https://github.com/SinaHonari/RCN)
 
 **Dynamic Capacity Networks**

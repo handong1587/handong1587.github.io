@@ -100,6 +100,15 @@ for building Deep Learning (DL) machine learning (ML) models
 in particular Intel® Xeon processors (HSW+) and Intel® Xeon Phi processors
 - github [https://github.com/intel/caffe](https://github.com/intel/caffe)
 
+# Caffe2
+
+**Caffe2**
+
+- intro: Caffe2 is a deep learning framework made with expression, speed, and modularity in mind. 
+It is an experimental refactoring of Caffe, and allows a more flexible way to organize computation.
+- github [https://github.com/caffe2/caffe2](https://github.com/caffe2/caffe2)
+- github [https://github.com/Yangqing/caffe2](https://github.com/Yangqing/caffe2)
+
 # CDNN2
 
 **CDNN2 - CEVA Deep Neural Network Software Framework**

@@ -20,7 +20,6 @@ date: 2015-10-09
 | SSD300 (VGG16)      | 72.1%       |             |             |             |             | 58 fps      |
 | SSD500 (VGG16)      | 75.1%       |             |             |             |             | 23 fps      |
 | ION                 | 79.2%       |             | 76.4%       |             |             |             |
-| AZ-Net              | 70.4%       |             |             |             | 22.3%(@[0.5-0.95]), 41.0%(@0.5) | |
 | CRAFT               | 75.7%       |             | 71.3%       | 48.5%       |             |             |
 | OHEM                | 78.9%       |             | 76.3%       |             | 25.5%(@[0.5-0.95]), 45.9%(@0.5) | |
 | R-FCN (ResNet-50)   | 77.4%       |             |             |             |             | 0.12sec(K40), 0.09sec(TitianX) |
@@ -242,6 +241,7 @@ bounding boxes (which are shared for these categories).
 
 ![](https://camo.githubusercontent.com/ad9b147ed3a5f48ffb7c3540711c15aa04ce49c6/687474703a2f2f7777772e63732e756e632e6564752f7e776c69752f7061706572732f7373642e706e67)
 
+- intro: ECCV 2016 Oral
 - arxiv: [http://arxiv.org/abs/1512.02325](http://arxiv.org/abs/1512.02325)
 - paper: [http://www.cs.unc.edu/~wliu/papers/ssd.pdf](http://www.cs.unc.edu/~wliu/papers/ssd.pdf)
 - slides: [http://www.cs.unc.edu/%7Ewliu/papers/ssd_eccv2016_slide.pdf](http://www.cs.unc.edu/%7Ewliu/papers/ssd_eccv2016_slide.pdf)
@@ -810,6 +810,7 @@ This task involves predicting the salient regions of an image given by human eye
 
 **Is Faster R-CNN Doing Well for Pedestrian Detection?**
 
+- intro: ECCV 2016
 - arxiv: [http://arxiv.org/abs/1607.07032](http://arxiv.org/abs/1607.07032)
 - github: [https://github.com/zhangliliang/RPN_BF/tree/RPN-pedestrian](https://github.com/zhangliliang/RPN_BF/tree/RPN-pedestrian)
 
@@ -958,7 +959,7 @@ This task involves predicting the salient regions of an image given by human eye
 
 **Attend Refine Repeat: Active Box Proposal Generation via In-Out Localization**
 
-- intro: AttractioNet
+- intro: BMVC 2016. AttractioNet
 - arxiv: [https://arxiv.org/abs/1606.04446](https://arxiv.org/abs/1606.04446)
 - github: [https://github.com/gidariss/AttractioNet](https://github.com/gidariss/AttractioNet)
 
@@ -1040,7 +1041,7 @@ We additionally provide an implementation of the [ReInspect](https://github.com/
 
 **FCN-MultiBox Detector**
 
-- intro: Full convolution MultiBox Detector ( like SSD) implemented in Torch.
+- intro: Full convolution MultiBox Detector (like SSD) implemented in Torch.
 - github: [https://github.com/teaonly/FMD.torch](https://github.com/teaonly/FMD.torch)
 
 # Blogs
