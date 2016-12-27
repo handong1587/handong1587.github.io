@@ -431,6 +431,7 @@ date: 2015-10-09
 - github: [https://github.com/harvardnlp/im2markup](https://github.com/harvardnlp/im2markup)
 - github(Tensorflow): [https://github.com/ssampang/im2latex](https://github.com/ssampang/im2latex)
 - github: [https://github.com/opennmt/im2text](https://github.com/opennmt/im2text)
+- github: [https://github.com/ritheshkumar95/im2latex-tensorflow](https://github.com/ritheshkumar95/im2latex-tensorflow)
 
 ## LSTMVis
 

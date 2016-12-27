@@ -127,6 +127,15 @@ date: 2015-10-09
 - intro: CVPR 2015
 - arxiv: [http://arxiv.org/abs/1506.07310](http://arxiv.org/abs/1506.07310)
 
+**Learning Robust Deep Face Representation**
+
+- arxiv: [https://arxiv.org/abs/1507.04844](https://arxiv.org/abs/1507.04844)
+
+**A Light CNN for Deep Face Representation with Noisy Labels**
+
+- arxiv: [https://arxiv.org/abs/1511.02683](https://arxiv.org/abs/1511.02683)
+- github: [https://github.com/AlfredXiangWu/face_verification_experiment](https://github.com/AlfredXiangWu/face_verification_experiment)
+
 **Pose-Aware Face Recognition in the Wild**
 
 - paper: [www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Masi_Pose-Aware_Face_Recognition_CVPR_2016_paper.pdf](www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Masi_Pose-Aware_Face_Recognition_CVPR_2016_paper.pdf)
@@ -221,10 +230,6 @@ date: 2015-10-09
 **OpenFace: A general-purpose face recognition library with mobile applications**
 
 - paper: [http://reports-archive.adm.cs.cmu.edu/anon/anon/usr0/ftp/2016/CMU-CS-16-118.pdf](http://reports-archive.adm.cs.cmu.edu/anon/anon/usr0/ftp/2016/CMU-CS-16-118.pdf)
-
-**Deep Face Representation: Face verification experiment for lfw**
-
-- github: [https://github.com/AlfredXiangWu/face_verification_experiment](https://github.com/AlfredXiangWu/face_verification_experiment)
 
 **FaceVerification: An Experimental Implementation of Face Verification, 96.8% on LFW**
 

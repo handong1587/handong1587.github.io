@@ -184,7 +184,7 @@ it surveys the widely known clustering algorithms in a comparative way"
 
 - youtube: [https://www.youtube.com/watch?v=AgPQ76RIi6A&list=PLYx7XA2nY5Gf37zYZMw6OqGFRPjB1jCy6&index=10](https://www.youtube.com/watch?v=AgPQ76RIi6A&list=PLYx7XA2nY5Gf37zYZMw6OqGFRPjB1jCy6&index=10)
 
-# Codes
+# Projects
 
 **MusicMappr: Find patterns in your favorite songs and remix them on the fly!**
 
@@ -210,3 +210,8 @@ This is for music lovers who are curious about the structures inherent to their 
 
 - blog: [http://nxn.se/post/145634722580/k-means-in-tensorflow](http://nxn.se/post/145634722580/k-means-in-tensorflow)
 - gist: [https://gist.github.com/vals/a01a37b14c4918df7937b30d43327837](https://gist.github.com/vals/a01a37b14c4918df7937b30d43327837)
+
+**VAE-Clustering**
+
+- intro: Unsupervised clustering with (Gaussian mixture) VAEs
+- github: [https://github.com/RuiShu/vae-clustering](https://github.com/RuiShu/vae-clustering)

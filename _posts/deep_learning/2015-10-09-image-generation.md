@@ -99,6 +99,12 @@ date: 2015-10-09
 - arxiv: [http://arxiv.org/abs/1602.05110](http://arxiv.org/abs/1602.05110)
 - github: [https://github.com/jiwoongim/GRAN](https://github.com/jiwoongim/GRAN)
 
+**Pixel-Level Domain Transfer**
+
+- intro: ECCV 2016
+- github(Torch): [https://github.com/fxia22/PixelDTGAN](https://github.com/fxia22/PixelDTGAN)
+- author page(Code and dataset): [https://dgyoo.github.io/](https://dgyoo.github.io/)
+
 **Generative Adversarial Text to Image Synthesis**
 
 ![](https://raw.githubusercontent.com/reedscot/icml2016/master/images/dcgan_network.jpg)
@@ -272,3 +278,8 @@ and DRAW: A Recurrent Neural Network For Image Generation).
 **Generate human faces with neural networks**
 
 - github: [https://github.com/aleju/face-generator](https://github.com/aleju/face-generator)
+
+**A TensorFlow implementation of DeepMind's WaveNet paper**
+
+- intro: This is a TensorFlow implementation of the WaveNet generative neural network architecture for image generation.
+- github: [https://github.com/Zeta36/tensorflow-image-wavenet](https://github.com/Zeta36/tensorflow-image-wavenet)

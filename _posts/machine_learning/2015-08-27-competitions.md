@@ -129,3 +129,7 @@ date: 2015-08-27
 **Using Keras+TensorFlow to solve NCFM-Leadboard Top 5%**
 
 - github: [https://github.com/pengpaiSH/Kaggle_NCFM](https://github.com/pengpaiSH/Kaggle_NCFM)
+
+**2nd Place Solution of the Kaggle Competition - Santander Product Recommendation**
+
+- github: [https://github.com/ttvand/Santander-Product-Recommendation](https://github.com/ttvand/Santander-Product-Recommendation)

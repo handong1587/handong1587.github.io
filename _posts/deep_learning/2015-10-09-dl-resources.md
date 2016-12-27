@@ -723,9 +723,10 @@ with fast exact probabilistic inference over many layers."
 
 ![](https://raw.githubusercontent.com/karpathy/paper-notes/master/img/vin/Screen%20Shot%202016-08-13%20at%204.58.42%20PM.png)
 
-- intro: NIPS 2016. University of California, Berkeley
+- intro: NIPS 2016, Best Paper Award. University of California, Berkeley
 - arxiv: [http://arxiv.org/abs/1602.02867](http://arxiv.org/abs/1602.02867)
-- github: [https://github.com/avivt/VIN](https://github.com/avivt/VIN)
+- github(official, Theano): [https://github.com/avivt/VIN](https://github.com/avivt/VIN)
+- github(Tensorflow): [https://github.com/TheAbhiKumar/tensorflow-value-iteration-networks](https://github.com/TheAbhiKumar/tensorflow-value-iteration-networks)
 - notes(by Andrej Karpathy): [https://github.com/karpathy/paper-notes/blob/master/vin.md](https://github.com/karpathy/paper-notes/blob/master/vin.md)
 
 **How to Train Deep Variational Autoencoders and Probabilistic Ladder Networks**
@@ -1940,7 +1941,7 @@ Compatible with Theano and TensorFlow. Optimized for Twitter.
 - homepage: [https://01.org/mkl-dnn](https://01.org/mkl-dnn)
 - github: [https://github.com/01org/mkl-dnn](https://github.com/01org/mkl-dnn)
 
-**Deep CNN - Deep convolution neural network project with TensorFlow**
+**Deep CNN and RNN - Deep convolution/recurrent neural network project with TensorFlow**
 
 - github: [https://github.com/tobegit3hub/deep_cnn](https://github.com/tobegit3hub/deep_cnn)
 
