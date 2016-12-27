@@ -126,7 +126,7 @@ only the CNN part of the network is fine-tuned to learn deconvolution indirectly
 
 ![](http://www.robots.ox.ac.uk/~szheng/Res_CRFRNN/CRFasRNN.jpg)
 
-- intro: ICCV2015. Oxford / Stanford / Baidu
+- intro: ICCV 2015. Oxford / Stanford / Baidu
 - project page: [http://www.robots.ox.ac.uk/~szheng/CRFasRNN.html](http://www.robots.ox.ac.uk/~szheng/CRFasRNN.html)
 - arxiv: [http://arxiv.org/abs/1502.03240](http://arxiv.org/abs/1502.03240)
 - github: [https://github.com/torrvision/crfasrnn](https://github.com/torrvision/crfasrnn)
@@ -387,7 +387,9 @@ with built-in awareness of semantically meaningful boundaries. "
 **Convolutional Feature Masking for Joint Object and Stuff Segmentation**
 
 - intro: CVPR 2015
+- keywords: masking layers
 - arxiv: [https://arxiv.org/abs/1412.1283](https://arxiv.org/abs/1412.1283)
+- paper: [http://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Dai_Convolutional_Feature_Masking_2015_CVPR_paper.pdf](http://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Dai_Convolutional_Feature_Masking_2015_CVPR_paper.pdf)
 
 **Proposal-free Network for Instance-level Object Segmentation**
 

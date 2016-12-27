@@ -291,6 +291,11 @@ for Python, R, Java, Scala, C++ and more. Runs on single machine, Hadoop, Spark,
 
 # Multi-Task Learning
 
+**Multitask Learning**
+
+- intro: 1997
+- paper: [http://www.cs.cornell.edu/~caruana/mlj97.pdf](http://www.cs.cornell.edu/~caruana/mlj97.pdf)
+
 **Multi-Task Learning: Theory, Algorithms, and Applications (2012)**
 
 - slides: [http://www.public.asu.edu/~jye02/Software/MALSAR/MTL-SDM12.pdf](http://www.public.asu.edu/~jye02/Software/MALSAR/MTL-SDM12.pdf)
