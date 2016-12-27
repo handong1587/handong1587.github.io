@@ -230,6 +230,10 @@ date: 2015-10-09
 
 - arxiv: [https://arxiv.org/abs/1612.05478](https://arxiv.org/abs/1612.05478)
 
+**Internet-Based Image Retrieval Using End-to-End Trained Deep Distributions**
+
+- arxiv: [https://arxiv.org/abs/1612.07697](https://arxiv.org/abs/1612.07697)
+
 # Video Indexing / Retrieval
 
 **Face Video Retrieval via Deep Learning of Binary Hash Representations**

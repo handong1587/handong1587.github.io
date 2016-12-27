@@ -241,6 +241,10 @@ after the embedding and recurrent layers of the RNN."
 
 - arxiv: [https://arxiv.org/abs/1612.04949](https://arxiv.org/abs/1612.04949)
 
+**Recurrent Highway Networks with Language CNN for Image Captioning**
+
+- arxiv: [https://arxiv.org/abs/1612.07086](https://arxiv.org/abs/1612.07086)
+
 # Object Descriptions
 
 **Generation and Comprehension of Unambiguous Object Descriptions**

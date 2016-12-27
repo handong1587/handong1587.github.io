@@ -625,6 +625,10 @@ This task involves predicting the salient regions of an image given by human eye
 - intro: Nanyang Technological University
 - arxiv: [https://arxiv.org/abs/1611.05345](https://arxiv.org/abs/1611.05345)
 
+**Top-down Visual Saliency Guided by Captions**
+
+- arxiv: [https://arxiv.org/abs/1612.07360](https://arxiv.org/abs/1612.07360)
+
 # Specific Object Deteciton
 
 ## Face Deteciton
