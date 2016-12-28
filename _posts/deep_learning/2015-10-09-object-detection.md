@@ -429,6 +429,7 @@ Continuation of [arXiv:1608.08021](https://arxiv.org/abs/1608.08021)
 **SqueezeDet: Unified, Small, Low Power Fully Convolutional Neural Networks for Real-Time Object Detection for Autonomous Driving**
 
 - arxiv: [https://arxiv.org/abs/1612.01051](https://arxiv.org/abs/1612.01051)
+- github: [https://github.com/BichenWuUCB/squeezeDet](https://github.com/BichenWuUCB/squeezeDet)
 
 ## Feature Pyramid Network (FPN)
 
@@ -445,6 +446,13 @@ Continuation of [arXiv:1608.08021](https://arxiv.org/abs/1608.08021)
 
 - intro: CMU & UC Berkeley & Google Research
 - arxiv: [https://arxiv.org/abs/1612.06851](https://arxiv.org/abs/1612.06851)
+
+## YOLOv2
+
+**YOLO9000: Better, Faster, Stronger**
+
+- arxiv: [https://arxiv.org/abs/1612.08242](https://arxiv.org/abs/1612.08242)
+- code: [http://pjreddie.com/yolo9000/](http://pjreddie.com/yolo9000/)
 
 # Detection From Video
 

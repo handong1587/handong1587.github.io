@@ -141,6 +141,11 @@ Contains all the popular DL frameworks (TensorFlow, Theano, Torch, Caffe, etc.)
 
 - blog: [https://www.analyticsvidhya.com/blog/2016/11/building-a-machine-learning-deep-learning-workstation-for-under-5000/](https://www.analyticsvidhya.com/blog/2016/11/building-a-machine-learning-deep-learning-workstation-for-under-5000/)
 
+**Hardware Guide: Neural Networks on GPUs (Updated 2016-1-30)**
+
+- intro: by Joseph Redmon
+- blog: [http://pjreddie.com/darknet/hardware-guide/](http://pjreddie.com/darknet/hardware-guide/)
+
 # GPU
 
 **Which GPU(s) to Get for Deep Learning: My Experience and Advice for Using GPUs in Deep Learning**
