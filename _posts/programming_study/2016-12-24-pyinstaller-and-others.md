@@ -62,16 +62,22 @@ So now we can setup a fundamental build script to help our work:
 
 # What is wrong with MKL
 
-One weird error I met was the Intel MKL FATAL ERROR;
+One weird error I met was the Intel MKL FATAL ERROR:
 
 ```
 Intel MKL FATAL ERROR: Cannot load libmkl_avx2.so or libmkl_def.so.
 ```
 
-Since I use anaconda I find already has MKL installed on the anaconda install location 
-and find these 2 files easily, but this error still pop out.
-And I remember correctly, the solution is quite even more weird:
+Since I use anaconda, I find MKL has already been installed on the anaconda install location 
+and can find these 2 files easily, but this error still pop out.
+If I remember correctly, the solution is even more weird:
 simply update numpy to a latest version:
+
+```
+conda update numpy
+```
+
+or:
 
 ```
 conda install linux-64_numpy-1.11.2-py27_0.tar.bz2

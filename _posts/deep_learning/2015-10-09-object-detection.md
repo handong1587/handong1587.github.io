@@ -637,6 +637,12 @@ This task involves predicting the salient regions of an image given by human eye
 
 - arxiv: [https://arxiv.org/abs/1612.07360](https://arxiv.org/abs/1612.07360)
 
+## Datasets
+
+**MSRA10K Salient Object Database**
+
+[http://mmcheng.net/msra10k/](http://mmcheng.net/msra10k/)
+
 # Specific Object Deteciton
 
 ## Face Deteciton
@@ -1027,11 +1033,16 @@ This task involves predicting the salient regions of an image given by human eye
 - arxiv: [http://arxiv.org/abs/1609.04331](http://arxiv.org/abs/1609.04331)
 - github: [https://github.com/vadimkantorov/contextlocnet](https://github.com/vadimkantorov/contextlocnet)
 
-# Tutorials
+# Tutorials / Talks
 
 **Convolutional Feature Maps: Elements of efficient (and accurate) CNN-based object detection**
 
 - slides: [http://research.microsoft.com/en-us/um/people/kahe/iccv15tutorial/iccv2015_tutorial_convolutional_feature_maps_kaiminghe.pdf](http://research.microsoft.com/en-us/um/people/kahe/iccv15tutorial/iccv2015_tutorial_convolutional_feature_maps_kaiminghe.pdf)
+
+**Towards Good Practices for Recognition & Detection**
+
+- intro: Hikvision Research Institute. Supervised Data Augmentation (SDA)
+- slides: [http://image-net.org/challenges/talks/2016/Hikvision_at_ImageNet_2016.pdf](http://image-net.org/challenges/talks/2016/Hikvision_at_ImageNet_2016.pdf)
 
 # Projects
 
