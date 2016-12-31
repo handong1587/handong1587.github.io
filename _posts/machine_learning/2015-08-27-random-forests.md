@@ -29,6 +29,13 @@ date: 2015-08-27
 - paper: [https://docs.google.com/viewer?a=v&pid=sites&srcid=ZGVmYXVsdGRvbWFpbnxtbHN5c25pcHMyMDE2fGd4OjFlNTRiOWU2OGM2YzA4MjE](https://docs.google.com/viewer?a=v&pid=sites&srcid=ZGVmYXVsdGRvbWFpbnxtbHN5c25pcHMyMDE2fGd4OjFlNTRiOWU2OGM2YzA4MjE)
 - github: [https://github.com/tensorflow/tensorflow/tree/master/tensorflow/contrib/tensor_forest](https://github.com/tensorflow/tensorflow/tree/master/tensorflow/contrib/tensor_forest)
 
+**ggRandomForests: Exploring Random Forest Survival**
+
+- intro: ggRandomForests: Visually Exploring Random Forests
+- arxiv: [https://arxiv.org/abs/1612.08974](https://arxiv.org/abs/1612.08974)
+- package(R): [https://cran.r-project.org/web/packages/ggRandomForests/index.html](https://cran.r-project.org/web/packages/ggRandomForests/index.html)
+- github: [https://github.com/ehrlinger/ggRandomForests](https://github.com/ehrlinger/ggRandomForests)
+
 # Resources
 
 **AWESOME-RANDOM-FOREST - a curated list of resources regarding random forest**

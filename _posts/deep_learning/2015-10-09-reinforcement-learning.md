@@ -415,6 +415,11 @@ Incorporates dropout regularization and convolutional neural networks with a sep
 
 - arxiv: [https://arxiv.org/abs/1612.07307](https://arxiv.org/abs/1612.07307)
 
+**Reinforcement Learning Using Quantum Boltzmann Machines**
+
+- intro: 1QB Information Technologies (1QBit)
+- arxiv: [https://arxiv.org/abs/1612.05695](https://arxiv.org/abs/1612.05695)
+
 ## Playing Doom
 
 **ViZDoom: A Doom-based AI Research Platform for Visual Reinforcement Learning**

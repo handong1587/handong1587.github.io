@@ -53,6 +53,11 @@ date: 2015-10-09
 - intro: CMU. GSNN
 - arxiv: [https://arxiv.org/abs/1612.04844](https://arxiv.org/abs/1612.04844)
 
+**MaxMin Convolutional Neural Networks for Image Classification**
+
+- paper: [http://webia.lip6.fr/~thomen/papers/Blot_ICIP_2016.pdf](http://webia.lip6.fr/~thomen/papers/Blot_ICIP_2016.pdf)
+- github: [https://github.com/karandesai-96/maxmin-cnn](https://github.com/karandesai-96/maxmin-cnn)
+
 ## Multi-object Recognition
 
 **Multiple Object Recognition with Visual Attention**

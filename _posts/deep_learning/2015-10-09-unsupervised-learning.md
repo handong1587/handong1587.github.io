@@ -279,3 +279,10 @@ and [Back-propagation](http://rawgit.com/aeyakovenko/rbm/master/docs/rojas-backp
 **Modelling a text corpus using Deep Boltzmann Machines**
 
 - youtube: [https://www.youtube.com/watch?v=uju4RXEniA8](https://www.youtube.com/watch?v=uju4RXEniA8)
+
+**Foundations of Unsupervised Deep Learning**
+
+- intro: Ruslan Salakhutdinov [CMU]
+- youtube: [https://www.youtube.com/watch?v=rK6bchqeaN8](https://www.youtube.com/watch?v=rK6bchqeaN8)
+- mirror: [https://pan.baidu.com/s/1mi4nCow](https://pan.baidu.com/s/1mi4nCow)
+- sildes: [http://www.cs.cmu.edu/~rsalakhu/talk_unsup.pdf](http://www.cs.cmu.edu/~rsalakhu/talk_unsup.pdf)

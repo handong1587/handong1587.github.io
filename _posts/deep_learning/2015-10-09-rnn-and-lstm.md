@@ -497,6 +497,11 @@ date: 2015-10-09
 - intro: Facebook AI Research
 - arxiv: [https://arxiv.org/abs/1612.03969](https://arxiv.org/abs/1612.03969)
 
+**Robust LSTM-Autoencoders for Face De-Occlusion in the Wild**
+
+- intro: National University of Singapore & Peking University
+- arxiv: [https://arxiv.org/abs/1612.08534](https://arxiv.org/abs/1612.08534)
+
 # Projects
 
 **NeuralTalk (Deprecated): a Python+numpy project for learning Multimodal Recurrent Neural Networks that describe images with sentences**

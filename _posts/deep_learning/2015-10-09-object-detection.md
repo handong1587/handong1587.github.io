@@ -338,6 +338,7 @@ and 1.15s per image with it".
 - arxiv: [http://arxiv.org/abs/1605.06409](http://arxiv.org/abs/1605.06409)
 - github: [https://github.com/daijifeng001/R-FCN](https://github.com/daijifeng001/R-FCN)
 - github: [https://github.com/Orpine/py-R-FCN](https://github.com/Orpine/py-R-FCN)
+- github(MXNet): [https://github.com/terrychenism/mx-rfcn](https://github.com/terrychenism/mx-rfcn)
 
 **Weakly supervised object detection using pseudo-strong labels**
 
@@ -416,6 +417,8 @@ Continuation of [arXiv:1608.08021](https://arxiv.org/abs/1608.08021)
 - slides: [http://www.slideshare.net/xavigiro/hierarchical-object-detection-with-deep-reinforcement-learning](http://www.slideshare.net/xavigiro/hierarchical-object-detection-with-deep-reinforcement-learning)
 - github: [https://github.com/imatge-upc/detection-2016-nipsws](https://github.com/imatge-upc/detection-2016-nipsws)
 - blog: [http://jorditorres.org/nips/](http://jorditorres.org/nips/)
+- youtube: [https://www.youtube.com/watch?v=DA-bY_05fwk](https://www.youtube.com/watch?v=DA-bY_05fwk)
+- mirror: [https://pan.baidu.com/s/1gft8wy3](https://pan.baidu.com/s/1gft8wy3)
 
 **Learning to detect and localize many objects from few examples**
 
@@ -677,6 +680,7 @@ This task involves predicting the salient regions of an image given by human eye
 
 - intro: CMU
 - arxiv: [https://arxiv.org/abs/1612.04402](https://arxiv.org/abs/1612.04402)
+- github: [https://github.com/peiyunh/tiny](https://github.com/peiyunh/tiny)
 
 **Towards a Deep Learning Framework for Unconstrained Face Detection**
 

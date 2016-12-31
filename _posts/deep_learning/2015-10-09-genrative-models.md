@@ -49,6 +49,11 @@ date: 2015-10-09
 - arxiv: [https://arxiv.org/abs/1612.04739](https://arxiv.org/abs/1612.04739)
 - github: [https://github.com/Philip-Bachman/MatNets-NIPS](https://github.com/Philip-Bachman/MatNets-NIPS)
 
+**Deep Learning and Hierarchal Generative Models**
+
+- intro: MIT
+- arxiv: [https://arxiv.org/abs/1612.09057](https://arxiv.org/abs/1612.09057)
+
 # Generative Adversarial Network
 
 **Generative Adversarial Networks**
@@ -287,6 +292,12 @@ date: 2015-10-09
 
 - intro: DCGAN
 - blog: [https://medium.com/@richardherbert/generating-fine-art-in-300-lines-of-code-4d37218216a6#.63qm8ef9g](https://medium.com/@richardherbert/generating-fine-art-in-300-lines-of-code-4d37218216a6#.63qm8ef9g)
+
+# Talks / Videos
+
+**Generative Adversarial Network visualization**
+
+- youtube: [https://www.youtube.com/watch?v=mObnwR-u8pc](https://www.youtube.com/watch?v=mObnwR-u8pc)
 
 # Resources
 

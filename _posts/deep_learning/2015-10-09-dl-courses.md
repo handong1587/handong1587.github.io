@@ -158,6 +158,7 @@ date: 2015-10-09
 - intro: 10 hours a week for 7 weeks
 - homepage: [http://course.fast.ai/](http://course.fast.ai/)
 - youtube: [https://www.youtube.com/playlist?list=PLfYUBJiXbdtS2UQRzyrxmyVHoGW0gmLSM](https://www.youtube.com/playlist?list=PLfYUBJiXbdtS2UQRzyrxmyVHoGW0gmLSM)
+- mirror: [https://pan.baidu.com/s/1eRLK742#list/path=%2F](https://pan.baidu.com/s/1eRLK742#list/path=%2F)
 - github: [https://github.com/fastai/courses](https://github.com/fastai/courses)
 - blog: [http://www.kdnuggets.com/2016/12/deep-learning-coders-mooc-jeremy-howard.html](http://www.kdnuggets.com/2016/12/deep-learning-coders-mooc-jeremy-howard.html)
 
