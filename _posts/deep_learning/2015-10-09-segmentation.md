@@ -502,6 +502,14 @@ with built-in awareness of semantically meaningful boundaries. "
 
 - arxiv: [https://arxiv.org/abs/1612.03129](https://arxiv.org/abs/1612.03129)
 
+# Segment Proposal
+
+**FastMask: Segment Object Multi-scale Candidates in One Shot**
+
+- intro: University of California & Fudan University & Megvii Inc.
+- arxiv: [https://arxiv.org/abs/1612.08843](https://arxiv.org/abs/1612.08843)
+- github: [https://github.com/voidrank/FastMask](https://github.com/voidrank/FastMask)
+
 # Scene Labeling/Parsing
 
 **Indoor Semantic Segmentation using depth information**
@@ -627,6 +635,10 @@ ranked 1st place in ImageNet Scene Parsing Challenge 2016
 **Learning Video Object Segmentation from Static Images**
 
 - arxiv: [https://arxiv.org/abs/1612.02646](https://arxiv.org/abs/1612.02646)
+
+**Semantic Video Segmentation by Gated Recurrent Flow Propagation**
+
+- arxiv: [https://arxiv.org/abs/1612.08871](https://arxiv.org/abs/1612.08871)
 
 # Leaderboard
 

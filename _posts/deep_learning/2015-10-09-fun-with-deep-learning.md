@@ -613,6 +613,10 @@ Compressed model is less than 500KB
 - blog: [http://leix.me/2016/11/28/tensorflow-lyrics-generation/](http://leix.me/2016/11/28/tensorflow-lyrics-generation/)
 - github: [https://github.com/leido/char-rnn-cn](https://github.com/leido/char-rnn-cn)
 
+**Hip-Hop - Generating lyrics with RNNs**
+
+- blog: [http://affinelayer.com/hiphop/index.html](http://affinelayer.com/hiphop/index.html)
+
 # Poetry
 
 **NeuralSnap: Generates poetry from images using convolutional and recurrent neural networks**

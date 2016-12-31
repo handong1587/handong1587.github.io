@@ -760,10 +760,6 @@ with fast exact probabilistic inference over many layers."
 
 - arxiv: [http://arxiv.org/abs/1605.08512](http://arxiv.org/abs/1605.08512)
 
-**Convolutional Neural Fabrics**
-
-- arxiv: [http://arxiv.org/abs/1606.02492](http://arxiv.org/abs/1606.02492)
-
 **Universal Correspondence Network**
 
 - intro: NIPS 2016 full oral presentation. Stanford University & NEC Laboratories America
@@ -877,6 +873,11 @@ with fast exact probabilistic inference over many layers."
 
 - intro: multi-class image classification and pedestrian detection
 - arxiv: [https://arxiv.org/abs/1611.08998](https://arxiv.org/abs/1611.08998)
+
+**Steerable CNNs**
+
+- intro: University of Amsterdam
+- arxiv: [https://arxiv.org/abs/1612.08498](https://arxiv.org/abs/1612.08498)
 
 ## Highway Networks
 
@@ -1024,6 +1025,12 @@ with fast exact probabilistic inference over many layers."
 - intro: EMNLP 2016
 - paper: [http://www.isi.edu/natural-language/mt/neural-hmm16.pdf](http://www.isi.edu/natural-language/mt/neural-hmm16.pdf)
 - github: [https://github.com/ketranm/neuralHMM](https://github.com/ketranm/neuralHMM)
+
+## Kernel Fusion
+
+**A Deep Learning Approach To Multiple Kernel Fusion**
+
+- arxiv: [https://arxiv.org/abs/1612.09007](https://arxiv.org/abs/1612.09007)
 
 ## SVM
 
@@ -1320,6 +1327,10 @@ with fast exact probabilistic inference over many layers."
 - intro: Yoshua	Bengio, NIPS’2016 Workshops
 - slides: [http://www.iro.umontreal.ca/~bengioy/talks/Brains+Bits-NIPS2016Workshop.pptx.pdf](http://www.iro.umontreal.ca/~bengioy/talks/Brains+Bits-NIPS2016Workshop.pptx.pdf)
 
+**Deep Learning and Its Applications to Machine Health Monitoring: A Survey**
+
+- arxiv: [https://arxiv.org/abs/1612.07640](https://arxiv.org/abs/1612.07640)
+
 # Benchmarks
 
 **Deep Learning’s Accuracy**
@@ -1582,11 +1593,6 @@ with fast exact probabilistic inference over many layers."
 
 - arxiv: [https://arxiv.org/abs/1611.01988](https://arxiv.org/abs/1611.01988)
 
-**Snapshot Ensembles: Train 1, Get M for Free**
-
-- paper: [http://openreview.net/pdf?id=BJYwwY9ll](http://openreview.net/pdf?id=BJYwwY9ll)
-- github: [https://github.com/gaohuang/SnapshotEnsemble](https://github.com/gaohuang/SnapshotEnsemble)
-
 **Deep Information Propagation**
 
 - arxiv: [https://arxiv.org/abs/1611.01232](https://arxiv.org/abs/1611.01232)
@@ -1691,6 +1697,11 @@ with fast exact probabilistic inference over many layers."
 - intro: Google DeepMind
 - arxiv: [https://arxiv.org/abs/1606.04080](https://arxiv.org/abs/1606.04080)
 
+**Learning feed-forward one-shot learners [NIPS 2016] [VALSE seminar]**
+
+- youtube: [https://www.youtube.com/watch?v=BnLN3uoXMRY](https://www.youtube.com/watch?v=BnLN3uoXMRY)
+- mirror: [https://pan.baidu.com/s/1mhAITmS](https://pan.baidu.com/s/1mhAITmS)
+
 ## Incremental Learning
 
 **iCaRL: Incremental Classifier and Representation Learning**
@@ -1699,10 +1710,21 @@ with fast exact probabilistic inference over many layers."
 
 ## Ensemble Deep Learning
 
+**Convolutional Neural Fabrics**
+
+- intro: NIPS 2016
+- arxiv: [http://arxiv.org/abs/1606.02492](http://arxiv.org/abs/1606.02492)
+- github: [https://github.com/shreyassaxena/convolutional-neural-fabrics](https://github.com/shreyassaxena/convolutional-neural-fabrics)
+
 **Stochastic Multiple Choice Learning for Training Diverse Deep Ensembles**
 
 - arxiv: [https://arxiv.org/abs/1606.07839](https://arxiv.org/abs/1606.07839)
 - youtube: [https://www.youtube.com/watch?v=KjUfMtZjyfg&feature=youtu.be](https://www.youtube.com/watch?v=KjUfMtZjyfg&feature=youtu.be)
+
+**Snapshot Ensembles: Train 1, Get M for Free**
+
+- paper: [http://openreview.net/pdf?id=BJYwwY9ll](http://openreview.net/pdf?id=BJYwwY9ll)
+- github: [https://github.com/gaohuang/SnapshotEnsemble](https://github.com/gaohuang/SnapshotEnsemble)
 
 **Ensemble Deep Learning**
 
@@ -1944,6 +1966,11 @@ Compatible with Theano and TensorFlow. Optimized for Twitter.
 **Deep CNN and RNN - Deep convolution/recurrent neural network project with TensorFlow**
 
 - github: [https://github.com/tobegit3hub/deep_cnn](https://github.com/tobegit3hub/deep_cnn)
+
+**Experimental implementation of novel neural network structures**
+
+- intro: binarynet / ternarynet / qrnn / vae / gcnn
+- github: [https://github.com/DingKe/nn_playground](https://github.com/DingKe/nn_playground)
 
 # Readings and Questions
 

@@ -491,6 +491,14 @@ Machine learning workflow, Extracting feaures from images (colours, edges, corne
 - blog: [https://hackernoon.com/traffic-signs-classification-with-deep-learning-b0cb03e23efb#.n0fjehwo6](https://hackernoon.com/traffic-signs-classification-with-deep-learning-b0cb03e23efb#.n0fjehwo6)
 - github: [https://github.com/MehdiSv/TrafficSignsRecognition/](https://github.com/MehdiSv/TrafficSignsRecognition/)
 
+**Deep Learning in Clojure With Cortex**
+
+- blog: [http://gigasquidsoftware.com/blog/2016/12/27/deep-learning-in-clojure-with-cortex/](http://gigasquidsoftware.com/blog/2016/12/27/deep-learning-in-clojure-with-cortex/)
+
+**A Guide to Deep Learning by YerevaNN**
+
+- blog: [http://yerevann.com/a-guide-to-deep-learning/](http://yerevann.com/a-guide-to-deep-learning/)
+
 # Convolution
 
 ![](/assets/cnn-materials/conv.jpg)
@@ -656,6 +664,10 @@ Machine learning workflow, Extracting feaures from images (colours, edges, corne
 **TensorFlow Exercises - focusing on the comparison with NumPy.**
 
 - github: [https://github.com/Kyubyong/tensorflow-exercises](https://github.com/Kyubyong/tensorflow-exercises)
+
+**A Gentle Guide to Using Batch Normalization in Tensorflow**
+
+- blog: [http://ruishu.io/2016/12/27/batchnorm/](http://ruishu.io/2016/12/27/batchnorm/)
 
 # Keras
 

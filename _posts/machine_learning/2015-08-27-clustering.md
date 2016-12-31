@@ -27,7 +27,8 @@ date: 2015-08-27
 
 **Fast and Provably Good Seedings for k-Means using k-MC^2 and AFK-MC^2**
 
-- arxiv: [https://github.com/obachem/kmc2](https://github.com/obachem/kmc2)
+- github: [https://github.com/obachem/kmc2](https://github.com/obachem/kmc2)
+- blog: [https://www.infoq.com/news/2016/12/AFK-MC2-boosts-kMeans-seeding](https://www.infoq.com/news/2016/12/AFK-MC2-boosts-kMeans-seeding)
 
 # Stream Clustering
 

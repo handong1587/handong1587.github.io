@@ -56,6 +56,11 @@ Other awesome lists can be found in this [list](https://github.com/sindresorhus/
 
 [https://medium.com/@suffiyanz/getting-started-with-machine-learning-f15df1c283ea#.fqipdiyyn](https://medium.com/@suffiyanz/getting-started-with-machine-learning-f15df1c283ea#.fqipdiyyn)
 
+**Machine Learning Crash Course**
+
+- part 1: [https://ml.berkeley.edu/blog/2016/11/06/tutorial-1/](https://ml.berkeley.edu/blog/2016/11/06/tutorial-1/)
+- part 2: [https://ml.berkeley.edu/blog/2016/12/24/tutorial-2/](https://ml.berkeley.edu/blog/2016/12/24/tutorial-2/)
+
 ## Machine Learning is Fun!
 
 **Machine Learning is Fun! - The world’s easiest introduction to Machine Learning**
@@ -694,6 +699,11 @@ Classic strategies:
 - blog: [https://blog.quantopian.com/pyfolio/](https://blog.quantopian.com/pyfolio/)
 - github: [https://github.com/quantopian/pyfolio](https://github.com/quantopian/pyfolio)
 
+**Application of Machine Learning: Automated Trading Informed by Event Driven Data**
+
+- intro: MIT master thesis
+- paper: [https://dspace.mit.edu/bitstream/handle/1721.1/105982/965785890-MIT.pdf](https://dspace.mit.edu/bitstream/handle/1721.1/105982/965785890-MIT.pdf)
+
 # Papers
 
 **Do we Need Hundreds of Classifiers to Solve Real World Classification Problems?**
@@ -1111,6 +1121,10 @@ for creating complex software in C++ to solve real world problems.
 **30 Top Videos, Tutorials & Courses on Machine Learning & Artificial Intelligence from 2016**
 
 [https://www.analyticsvidhya.com/blog/2016/12/30-top-videos-tutorials-courses-on-machine-learning-artificial-intelligence-from-2016/](https://www.analyticsvidhya.com/blog/2016/12/30-top-videos-tutorials-courses-on-machine-learning-artificial-intelligence-from-2016/)
+
+**Machine Learning Problem Bible (MLPB)**
+
+- github: [https://github.com/ben519/MLPB](https://github.com/ben519/MLPB)
 
 # Projects
 
