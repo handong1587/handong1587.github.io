@@ -249,6 +249,7 @@ date: 2015-10-09
 
 - intro: ICML 2016
 - arxiv: [https://arxiv.org/abs/1612.02295](https://arxiv.org/abs/1612.02295)
+- github(MXNet): [https://github.com/luoyetx/mx-lsoftmax](https://github.com/luoyetx/mx-lsoftmax)
 
 # Learning Rate
 
@@ -589,6 +590,12 @@ date: 2015-10-09
 - blog: [https://building-babylon.net/2016/06/23/convergence-rate-of-gradient-descent/](https://building-babylon.net/2016/06/23/convergence-rate-of-gradient-descent/)
 
 # Backpropagation
+
+**Relay Backpropagation for Effective Learning of Deep Convolutional Neural Networks**
+
+- intro: ECCV 2016. first place of ILSVRC 2015 Scene Classification Challenge
+- arxiv: [https://arxiv.org/abs/1512.05830](https://arxiv.org/abs/1512.05830)
+- paper: [http://www.cis.pku.edu.cn/faculty/vision/zlin/Publications/2016-ECCV-RelayBP.pdf](http://www.cis.pku.edu.cn/faculty/vision/zlin/Publications/2016-ECCV-RelayBP.pdf)
 
 **Top-down Neural Attention by Excitation Backprop**
 

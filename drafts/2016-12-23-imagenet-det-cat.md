@@ -1,8 +1,8 @@
-# ImageNet Detection 200 Categories
+# PASCAL VOC (20) / COCO (80) / ImageNet (200) Detection Categories
 
 |    | PASCAL VOC       | COCO             | ImageNet              |
 |----|------------------|------------------|-----------------------|
-|1   | Aeroplane        | person           | accordion             |
+|1   | Aeroplane        | person           | accordion (手风琴)    |
 |2   | Bicycle          | bicycle          | airplane              |
 |3   | Bird             | car              | ant                   |
 |4   | Boat             | motorcycle       | antelope (羚羊)       |
