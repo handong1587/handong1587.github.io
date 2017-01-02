@@ -345,6 +345,10 @@ at INT8 deep learning operations than other FPGA DSP architectures"
 
 - github: [https://github.com/luhaofang/CACU](https://github.com/luhaofang/CACU)
 
+**model_compression: Implementation of model compression with knowledge distilling method**
+
+- github: [https://github.com/chengshengchan/model_compression](https://github.com/chengshengchan/model_compression)
+
 # Blogs
 
 **Neural Networks Are Impressively Good At Compression**

@@ -337,6 +337,10 @@ extract saptio-temporal features to represent the video using the CNNs."
 - paper: [http://vision.stanford.edu/pdf/johnson2016cvpr.pdf](http://vision.stanford.edu/pdf/johnson2016cvpr.pdf)
 - blog: [http://www.leiphone.com/news/201606/l1TKIRFLO3DUFNNu.html](http://www.leiphone.com/news/201606/l1TKIRFLO3DUFNNu.html)
 
+**Efficient Action Detection in Untrimmed Videos via Multi-Task Learning**
+
+- arxiv: [https://arxiv.org/abs/1612.07403](https://arxiv.org/abs/1612.07403)
+
 # Abnormality / Anomaly Detection
 
 **Fully Convolutional Neural Network for Fast Anomaly Detection in Crowded Scenes**
