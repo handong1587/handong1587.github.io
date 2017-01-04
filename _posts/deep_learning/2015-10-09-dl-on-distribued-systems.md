@@ -83,6 +83,10 @@ date: 2015-10-09
 - project page: [http://joerihermans.com/work/distributed-keras/](http://joerihermans.com/work/distributed-keras/)
 - github: [https://github.com/JoeriHermans/dist-keras](https://github.com/JoeriHermans/dist-keras)
 
+**BigDL: Distributed Deep learning Library for Apache Spark**
+
+- github: [https://github.com/intel-analytics/BigDL](https://github.com/intel-analytics/BigDL)
+
 # Videos
 
 **A Scalable Implementation of Deep Learning on Spark**

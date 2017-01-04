@@ -245,6 +245,11 @@ after the embedding and recurrent layers of the RNN."
 
 - arxiv: [https://arxiv.org/abs/1612.07086](https://arxiv.org/abs/1612.07086)
 
+**Top-down Visual Saliency Guided by Captions**
+
+- arxiv: [https://arxiv.org/abs/1612.07360](https://arxiv.org/abs/1612.07360)
+- github: [https://github.com/VisionLearningGroup/caption-guided-saliency](https://github.com/VisionLearningGroup/caption-guided-saliency)
+
 # Object Descriptions
 
 **Generation and Comprehension of Unambiguous Object Descriptions**

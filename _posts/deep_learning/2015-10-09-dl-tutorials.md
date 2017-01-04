@@ -499,6 +499,12 @@ Machine learning workflow, Extracting feaures from images (colours, edges, corne
 
 - blog: [http://yerevann.com/a-guide-to-deep-learning/](http://yerevann.com/a-guide-to-deep-learning/)
 
+**Learning to Learn, to Program, to Explore and to Seek Knowledge**
+
+- intro: Nando de Freitas, NIPS 2016
+- youtube: [https://www.youtube.com/watch?v=tPWGGwmgwG0](https://www.youtube.com/watch?v=tPWGGwmgwG0)
+- mirror: [https://pan.baidu.com/s/1b2VZsE](https://pan.baidu.com/s/1b2VZsE)
+
 # Convolution
 
 ![](/assets/cnn-materials/conv.jpg)
@@ -668,6 +674,10 @@ Machine learning workflow, Extracting feaures from images (colours, edges, corne
 **A Gentle Guide to Using Batch Normalization in Tensorflow**
 
 - blog: [http://ruishu.io/2016/12/27/batchnorm/](http://ruishu.io/2016/12/27/batchnorm/)
+
+**Using TensorFlow in Windows with a GPU**
+
+- blog: [http://www.heatonresearch.com/2017/01/01/tensorflow-windows-gpu.html](http://www.heatonresearch.com/2017/01/01/tensorflow-windows-gpu.html)
 
 # Keras
 

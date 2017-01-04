@@ -119,6 +119,7 @@ only the CNN part of the network is fine-tuned to learn deconvolution indirectly
 - project page: [http://liangchiehchen.com/projects/DeepLab.html](http://liangchiehchen.com/projects/DeepLab.html)
 - arxiv: [https://arxiv.org/abs/1606.00915](https://arxiv.org/abs/1606.00915)
 - bitbucket: [https://bitbucket.org/aquariusjay/deeplab-public-ver2](https://bitbucket.org/aquariusjay/deeplab-public-ver2)
+- github(TensorFlow): [https://github.com/DrSleep/tensorflow-deeplab-resnet](https://github.com/DrSleep/tensorflow-deeplab-resnet)
 
 ## CRF-RNN
 

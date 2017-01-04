@@ -879,3 +879,7 @@ It is suitable for deep learning on limited computational resource, embedded sys
 **DL4J vs. Torch vs. Theano vs. Caffe vs. TensorFlow**
 
 [https://deeplearning4j.org/compare-dl4j-torch7-pylearn.html](https://deeplearning4j.org/compare-dl4j-torch7-pylearn.html)
+
+**Deep Learning frameworks: a review before finishing 2016**
+
+[https://medium.com/@ricardo.guerrero/deep-learning-frameworks-a-review-before-finishing-2016-5b3ab4010b06#.a6fdrqssl](https://medium.com/@ricardo.guerrero/deep-learning-frameworks-a-review-before-finishing-2016-5b3ab4010b06#.a6fdrqssl)
