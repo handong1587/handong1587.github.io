@@ -879,6 +879,12 @@ with fast exact probabilistic inference over many layers."
 - intro: University of Amsterdam
 - arxiv: [https://arxiv.org/abs/1612.08498](https://arxiv.org/abs/1612.08498)
 
+**Feedback Networks**
+
+- project page: [http://feedbacknet.stanford.edu/](http://feedbacknet.stanford.edu/)
+- arxiv: [https://arxiv.org/abs/1612.09508](https://arxiv.org/abs/1612.09508)
+- youtube: [https://youtu.be/MY5Uhv38Ttg](https://youtu.be/MY5Uhv38Ttg)
+
 ## Highway Networks
 
 **Highway Networks**

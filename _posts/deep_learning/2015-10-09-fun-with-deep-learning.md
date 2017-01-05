@@ -227,6 +227,10 @@ Compressed model is less than 500KB
 - arxiv: [https://arxiv.org/abs/1612.04337](https://arxiv.org/abs/1612.04337)
 - github: [https://github.com/rtqichen/style-swap](https://github.com/rtqichen/style-swap)
 
+**Demystifying Neural Style Transfer**
+
+- arxiv: [https://arxiv.org/abs/1701.01036](https://arxiv.org/abs/1701.01036)
+
 ## Neural Art On Audio
 
 **MSc AI Project on generative deep networks and neural style transfer for audio**

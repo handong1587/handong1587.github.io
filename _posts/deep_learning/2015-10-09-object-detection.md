@@ -633,6 +633,11 @@ This task involves predicting the salient regions of an image given by human eye
 - intro: Nanyang Technological University
 - arxiv: [https://arxiv.org/abs/1611.05345](https://arxiv.org/abs/1611.05345)
 
+**SalGAN: Visual Saliency Prediction with Generative Adversarial Networks**
+
+- project page: [https://imatge-upc.github.io/saliency-salgan-2017/](https://imatge-upc.github.io/saliency-salgan-2017/)
+- arxiv: [https://arxiv.org/abs/1701.01081](https://arxiv.org/abs/1701.01081)
+
 ## Datasets
 
 **MSRA10K Salient Object Database**
@@ -958,6 +963,10 @@ This task involves predicting the salient regions of an image given by human eye
 **Automatic Model Based Dataset Generation for Fast and Accurate Crop and Weeds Detection**
 
 - arxiv: [https://arxiv.org/abs/1612.03019](https://arxiv.org/abs/1612.03019)
+
+**Deep Learning Logo Detection with Data Expansion by Synthesising Context**
+
+- arxiv: [https://arxiv.org/abs/1612.09322](https://arxiv.org/abs/1612.09322)
 
 # Object Proposal
 
