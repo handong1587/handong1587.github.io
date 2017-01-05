@@ -36,6 +36,10 @@ date: 2016-02-24
 - intro: Javier Tordable
 - slides: [http://static.googleusercontent.com/external_content/untrusted_dlcp/research.google.com/en//pubs/archive/38331.pdf](http://static.googleusercontent.com/external_content/untrusted_dlcp/research.google.com/en//pubs/archive/38331.pdf)
 
+**An Interactive Guide To The Fourier Transform**
+
+- blog: [https://betterexplained.com/articles/an-interactive-guide-to-the-fourier-transform/](https://betterexplained.com/articles/an-interactive-guide-to-the-fourier-transform/)
+
 # Courses
 
 **Stanford EE261 - The Fourier Transform and its Applications**
