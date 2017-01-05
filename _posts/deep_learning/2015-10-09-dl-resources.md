@@ -1337,6 +1337,13 @@ with fast exact probabilistic inference over many layers."
 
 - arxiv: [https://arxiv.org/abs/1612.07640](https://arxiv.org/abs/1612.07640)
 
+# Deep Learning in Fashion
+
+**Deep Learning at GILT**
+
+- keywords: automated tagging, automatic dress faceting
+- blog: [http://tech.gilt.com/machine/learning,/deep/learning/2016/12/22/deep-learning-at-gilt](http://tech.gilt.com/machine/learning,/deep/learning/2016/12/22/deep-learning-at-gilt)
+
 # Benchmarks
 
 **Deep Learning’s Accuracy**

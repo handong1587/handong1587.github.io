@@ -87,10 +87,6 @@ can boost the classification accuracy and the detection and localization accurac
 - github: [https://github.com/ShaoqingRen/SPP_net](https://github.com/ShaoqingRen/SPP_net)
 - notes: [http://zhangliliang.com/2014/09/13/paper-note-sppnet/](http://zhangliliang.com/2014/09/13/paper-note-sppnet/)
 
-**Learning Rich Features from RGB-D Images for Object Detection and Segmentation**
-
-- arxiv: [http://arxiv.org/abs/1407.5736](http://arxiv.org/abs/1407.5736)
-
 ## DeepID-Net
 
 **DeepID-Net: Deformable Deep Convolutional Neural Networks for Object Detection**
@@ -524,6 +520,17 @@ Continuation of [arXiv:1608.08021](https://arxiv.org/abs/1608.08021)
 **Vote3Deep: Fast Object Detection in 3D Point Clouds Using Efficient Convolutional Neural Networks**
 
 - arxiv: [https://arxiv.org/abs/1609.06666](https://arxiv.org/abs/1609.06666)
+
+# Object Detection on RGB-D
+
+**Learning Rich Features from RGB-D Images for Object Detection and Segmentation**
+
+- arxiv: [http://arxiv.org/abs/1407.5736](http://arxiv.org/abs/1407.5736)
+
+**Differential Geometry Boosts Convolutional Neural Networks for Object Detection**
+
+- intro: CVPR 2016
+- paper: [http://www.cv-foundation.org/openaccess/content_cvpr_2016_workshops/w23/html/Wang_Differential_Geometry_Boosts_CVPR_2016_paper.html](http://www.cv-foundation.org/openaccess/content_cvpr_2016_workshops/w23/html/Wang_Differential_Geometry_Boosts_CVPR_2016_paper.html)
 
 # Salient Object Detection
 

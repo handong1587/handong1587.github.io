@@ -266,6 +266,14 @@ date: 2015-10-09
 - intro: ACCV 2016
 - arxiv: [https://arxiv.org/abs/1612.03900](https://arxiv.org/abs/1612.03900)
 
+# Talks / Slides
+
+**TiefVision: end-to-end image similarity search engine**
+
+- intro: It covers image classification, image location ( OverFeat ) and image similarity ( Deep Ranking).
+- slides: [https://docs.google.com/presentation/d/16hrXJhOzkbmla9AL7JCreCuBsa5L80gm71Pfrjo7F9Y/edit#slide=id.p](https://docs.google.com/presentation/d/16hrXJhOzkbmla9AL7JCreCuBsa5L80gm71Pfrjo7F9Y/edit#slide=id.p)
+- github: [https://github.com/paucarre/tiefvision](https://github.com/paucarre/tiefvision)
+
 # Datasets
 
 Oxford5k
