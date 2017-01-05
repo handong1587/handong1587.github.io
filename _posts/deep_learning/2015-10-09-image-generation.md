@@ -153,16 +153,6 @@ date: 2015-10-09
 - paper: [http://www.evolvingai.org/files/nguyen2016ppgn_v1.pdf](http://www.evolvingai.org/files/nguyen2016ppgn_v1.pdf)
 - github: [https://github.com/Evolving-AI-Lab/ppgn](https://github.com/Evolving-AI-Lab/ppgn)
 
-# Video Generation
-
-**Generating Videos with Scene Dynamics**
-
-- intro: NIPS 2016
-- intro: The model learns to generate tiny videos using adversarial networks
-- project page: [http://web.mit.edu/vondrick/tinyvideo/](http://web.mit.edu/vondrick/tinyvideo/)
-- paper: [http://web.mit.edu/vondrick/tinyvideo/paper.pdf](http://web.mit.edu/vondrick/tinyvideo/paper.pdf)
-- github: [https://github.com/cvondrick/videogan](https://github.com/cvondrick/videogan)
-
 # Deep Generative Model
 
 **Digit Fantasies by a Deep Generative Model**

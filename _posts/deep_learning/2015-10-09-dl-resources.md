@@ -1696,6 +1696,7 @@ with fast exact probabilistic inference over many layers."
 
 - intro: Google DeepMind
 - arxiv: [https://arxiv.org/abs/1606.04080](https://arxiv.org/abs/1606.04080)
+- notes: [https://blog.acolyer.org/2017/01/03/matching-networks-for-one-shot-learning/](https://blog.acolyer.org/2017/01/03/matching-networks-for-one-shot-learning/)
 
 **Learning feed-forward one-shot learners [NIPS 2016] [VALSE seminar]**
 

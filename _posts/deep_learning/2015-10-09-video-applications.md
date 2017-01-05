@@ -368,6 +368,14 @@ extract saptio-temporal features to represent the video using the CNNs."
 - arxiv: [https://arxiv.org/abs/1605.07157](https://arxiv.org/abs/1605.07157)
 - github: [https://github.com/tensorflow/models/tree/master/video_prediction](https://github.com/tensorflow/models/tree/master/video_prediction)
 
+**Generating Videos with Scene Dynamics**
+
+- intro: NIPS 2016
+- intro: The model learns to generate tiny videos using adversarial networks
+- project page: [http://web.mit.edu/vondrick/tinyvideo/](http://web.mit.edu/vondrick/tinyvideo/)
+- paper: [http://web.mit.edu/vondrick/tinyvideo/paper.pdf](http://web.mit.edu/vondrick/tinyvideo/paper.pdf)
+- github: [https://github.com/cvondrick/videogan](https://github.com/cvondrick/videogan)
+
 ## PredNet
 
 **Deep Predictive Coding Networks for Video Prediction and Unsupervised Learning**

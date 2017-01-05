@@ -120,6 +120,20 @@ date: 2015-10-09
 
 - arxiv: [https://arxiv.org/abs/1611.05418](https://arxiv.org/abs/1611.05418)
 
+**Grad-CAM: Why did you say that? Visual Explanations from Deep Networks via Gradient-based Localization**
+
+![](https://camo.githubusercontent.com/450498bd998fd99d51b647d2b6c8631e94585522/687474703a2f2f692e696d6775722e636f6d2f4a614762645a352e706e67)
+
+- arxiv: [https://arxiv.org/abs/1610.02391](https://arxiv.org/abs/1610.02391)
+- github: [https://github.com/ramprs/grad-cam/](https://github.com/ramprs/grad-cam/)
+- github(Keras): [https://github.com/jacobgil/keras-grad-cam](https://github.com/jacobgil/keras-grad-cam)
+
+**Grad-CAM: Why did you say that?**
+
+- intro: NIPS 2016 Workshop on Interpretable Machine Learning in Complex Systems
+- intro: extended abstract version of [arXiv:1610.02391](https://arxiv.org/abs/1610.02391)
+- arxiv: [https://arxiv.org/abs/1611.07450](https://arxiv.org/abs/1611.07450)
+
 # Projects
 
 **Interactive Deep Neural Net Hallucinations**
@@ -146,19 +160,10 @@ date: 2015-10-09
 - quickstart: [http://ethereon.github.io/netscope/quickstart.html](http://ethereon.github.io/netscope/quickstart.html)
 - demo: [http://ethereon.github.io/netscope/#/editor](http://ethereon.github.io/netscope/#/editor)
 
-**Grad-CAM: Why did you say that? Visual Explanations from Deep Networks via Gradient-based Localization**
+**Keras Visualization Toolkit**
 
-![](https://camo.githubusercontent.com/450498bd998fd99d51b647d2b6c8631e94585522/687474703a2f2f692e696d6775722e636f6d2f4a614762645a352e706e67)
-
-- arxiv: [https://arxiv.org/abs/1610.02391](https://arxiv.org/abs/1610.02391)
-- github: [https://github.com/ramprs/grad-cam/](https://github.com/ramprs/grad-cam/)
-- github(Keras): [https://github.com/jacobgil/keras-grad-cam](https://github.com/jacobgil/keras-grad-cam)
-
-**Grad-CAM: Why did you say that?**
-
-- intro: NIPS 2016 Workshop on Interpretable Machine Learning in Complex Systems
-- intro: extended abstract version of [arXiv:1610.02391](https://arxiv.org/abs/1610.02391)
-- arxiv: [https://arxiv.org/abs/1611.07450](https://arxiv.org/abs/1611.07450)
+- github: [https://github.com/raghakot/keras-vis](https://github.com/raghakot/keras-vis)
+- docs: [https://raghakot.github.io/keras-vis/](https://raghakot.github.io/keras-vis/)
 
 # Blogs
 

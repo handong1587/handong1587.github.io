@@ -99,7 +99,7 @@ date: 2015-10-09
 - video: [http://pan.baidu.com/s/1bnWGuIz/](http://pan.baidu.com/s/1bnWGuIz/)
 - assignment: [http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching_files/Easy21-Johannes.pdf](http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching_files/Easy21-Johannes.pdf)
 
-**CS 294: Deep Reinforcement Learning, Fall 2015**
+**CS 294: Deep Reinforcement Learning**
 
 - instructors: John Schulman, Pieter Abbeel
 - homepage: [http://rll.berkeley.edu/deeprlcourse/](http://rll.berkeley.edu/deeprlcourse/)

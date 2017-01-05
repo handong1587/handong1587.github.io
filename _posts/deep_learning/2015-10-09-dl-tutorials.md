@@ -505,6 +505,15 @@ Machine learning workflow, Extracting feaures from images (colours, edges, corne
 - youtube: [https://www.youtube.com/watch?v=tPWGGwmgwG0](https://www.youtube.com/watch?v=tPWGGwmgwG0)
 - mirror: [https://pan.baidu.com/s/1b2VZsE](https://pan.baidu.com/s/1b2VZsE)
 
+**Have Fun with Machine Learning: A Guide for Beginners**
+
+- intro: An absolute beginner's guide to Machine Learning and Image Classification with Neural Networks
+- github: [https://github.com/humphd/have-fun-with-machine-learning](https://github.com/humphd/have-fun-with-machine-learning)
+
+**Deep Learning Cheat Sheet**
+
+- blog: [https://hackernoon.com/deep-learning-cheat-sheet-25421411e460#.e0jwzxpkm](https://hackernoon.com/deep-learning-cheat-sheet-25421411e460#.e0jwzxpkm)
+
 # Convolution
 
 ![](/assets/cnn-materials/conv.jpg)

@@ -68,6 +68,7 @@ date: 2015-10-09
 **Generative Adversarial Networks**
 
 - intro: by Ian Goodfellow, NIPS 2016 tutorial
+- arxiv: [https://arxiv.org/abs/1701.00160](https://arxiv.org/abs/1701.00160)
 - slides: [http://www.iangoodfellow.com/slides/2016-12-04-NIPS.pdf](http://www.iangoodfellow.com/slides/2016-12-04-NIPS.pdf)
 - mirror: [https://pan.baidu.com/s/1gfBNYW7](https://pan.baidu.com/s/1gfBNYW7)
 
