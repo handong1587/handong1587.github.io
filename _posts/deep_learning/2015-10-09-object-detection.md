@@ -959,6 +959,10 @@ This task involves predicting the salient regions of an image given by human eye
 
 - arxiv: [https://arxiv.org/abs/1612.03019](https://arxiv.org/abs/1612.03019)
 
+**Deep Learning Logo Detection with Data Expansion by Synthesising Context**
+
+- arxiv: [https://arxiv.org/abs/1612.09322](https://arxiv.org/abs/1612.09322)
+
 # Object Proposal
 
 **DeepProposal: Hunting Objects by Cascading Deep Convolutional Layers**

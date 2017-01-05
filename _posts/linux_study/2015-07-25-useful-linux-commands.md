@@ -71,10 +71,27 @@ Print lines 20 to 40:
 sed -n '20,40p;41q' file_name
 ```
 
-or
+or:
+
+```
+sed -n '20,40p' file_name
+```
+
+or:
 
 ```
 awk 'FNR>=20 && FNR<=40' file_name
+```
+
+To print range with other specific line (5 - 8 & 10):
+
+```
+$ sed -n -e 5,8p -e 10p file
+Line 5
+Line 6
+Line 7
+Line 8
+Line 10
 ```
 
 # Download
