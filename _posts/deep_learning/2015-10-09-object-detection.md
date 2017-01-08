@@ -42,10 +42,6 @@ date: 2015-10-09
 
 **OverFeat: Integrated Recognition, Localization and Detection using Convolutional Networks**
 
-- intro: A deep version of the sliding window method, predicts bounding box directly from each location of the 
-topmost feature map after knowing the confidences of the underlying object categories.
-- intro: training a convolutional network to simultaneously classify, locate and detect objects in images 
-can boost the classification accuracy and the detection and localization accuracy of all tasks
 - arxiv: [http://arxiv.org/abs/1312.6229](http://arxiv.org/abs/1312.6229)
 - github: [https://github.com/sermanet/OverFeat](https://github.com/sermanet/OverFeat)
 - code: [http://cilvr.nyu.edu/doku.php?id=software:overfeat:start](http://cilvr.nyu.edu/doku.php?id=software:overfeat:start)
@@ -182,8 +178,6 @@ can boost the classification accuracy and the detection and localization accurac
 
 ![](https://camo.githubusercontent.com/e69d4118b20a42de4e23b9549f9a6ec6dbbb0814/687474703a2f2f706a7265646469652e636f6d2f6d656469612f66696c65732f6461726b6e65742d626c61636b2d736d616c6c2e706e67)
 
-- intro: YOLO uses the whole topmost feature map to predict both confidences for multiple categories and 
-bounding boxes (which are shared for these categories).
 - arxiv: [http://arxiv.org/abs/1506.02640](http://arxiv.org/abs/1506.02640)
 - code: [http://pjreddie.com/darknet/yolo/](http://pjreddie.com/darknet/yolo/)
 - github: [https://github.com/pjreddie/darknet](https://github.com/pjreddie/darknet)
@@ -271,6 +265,7 @@ and 1.15s per image with it".
 - arxiv: [http://arxiv.org/abs/1512.07729](http://arxiv.org/abs/1512.07729)
 
 **Factors in Finetuning Deep Model for object detection**
+
 **Factors in Finetuning Deep Model for Object Detection with Long-tail Distribution**
 
 - intro: CVPR 2016.rank 3rd for provided data and 2nd for external data on ILSVRC 2015 object detection
@@ -1013,6 +1008,12 @@ This task involves predicting the salient regions of an image given by human eye
 **Weakly Supervised Object Localization Using Size Estimates**
 
 - arxiv: [http://arxiv.org/abs/1608.04314](http://arxiv.org/abs/1608.04314)
+
+**Active Object Localization with Deep Reinforcement Learning**
+
+- intro: ICCV 2015
+- keywords: Markov Decision Process
+- arxiv: [https://arxiv.org/abs/1511.06015](https://arxiv.org/abs/1511.06015)
 
 **Localizing objects using referring expressions**
 

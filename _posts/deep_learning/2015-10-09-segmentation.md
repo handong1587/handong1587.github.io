@@ -351,6 +351,7 @@ fine-tune the trained network with more challenging examples later
 - intro: Montreal Institute for Learning Algorithms & Ecole Polytechnique de Montreal
 - arxiv: [https://arxiv.org/abs/1611.09326](https://arxiv.org/abs/1611.09326)
 - github: [https://github.com/SimJeg/FC-DenseNet](https://github.com/SimJeg/FC-DenseNet)
+- github: [https://github.com/titu1994/Fully-Connected-DenseNets-Semantic-Segmentation](https://github.com/titu1994/Fully-Connected-DenseNets-Semantic-Segmentation)
 
 **Training Bit Fully Convolutional Network for Fast Semantic Segmentation**
 

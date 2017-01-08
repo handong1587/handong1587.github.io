@@ -98,6 +98,10 @@ There are no right answers but it helps to understand their thoughts and researc
 - intro: Algorithms, Data Structures, Mathematics, Operating Systems, System Design, Interview Tips
 - github: [https://github.com/jdsutton/Technical-Interview-Megarepo](https://github.com/jdsutton/Technical-Interview-Megarepo)
 
+**350+ Data structures programming interview questions**
+
+[https://techiedelight.quora.com/350%2B-Data-structures-programming-interview-questions?srid=hOqIb](https://techiedelight.quora.com/350%2B-Data-structures-programming-interview-questions?srid=hOqIb)
+
 # Coding
 
 **Coding interview questions with solutions (C++)**

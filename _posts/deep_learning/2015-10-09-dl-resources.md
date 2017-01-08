@@ -527,8 +527,6 @@ not just the convolutions)
 **Intriguing properties of neural networks**
 
 - arxiv: [http://arxiv.org/abs/1312.6199](http://arxiv.org/abs/1312.6199)
-- my notes: In each layer of a deep network it is the "direction" of "space" (ensemble of feature activations) 
-which encodes useful class information rather than individual units (feature activations).
 
 **Deep Neural Networks are Easily Fooled: High Confidence Predictions for Unrecognizable Images**
 

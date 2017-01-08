@@ -514,6 +514,10 @@ Machine learning workflow, Extracting feaures from images (colours, edges, corne
 
 - blog: [https://hackernoon.com/deep-learning-cheat-sheet-25421411e460#.e0jwzxpkm](https://hackernoon.com/deep-learning-cheat-sheet-25421411e460#.e0jwzxpkm)
 
+**How to train your Deep Neural Network**
+
+[http://rishy.github.io//ml/2017/01/05/how-to-train-your-dnn/](http://rishy.github.io//ml/2017/01/05/how-to-train-your-dnn/)
+
 # Convolution
 
 ![](/assets/cnn-materials/conv.jpg)
