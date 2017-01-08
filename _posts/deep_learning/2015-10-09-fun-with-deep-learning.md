@@ -688,6 +688,7 @@ Compressed model is less than 500KB
 - homepage: [http://www.deepmind.com/alpha-go.html](http://www.deepmind.com/alpha-go.html)
 - paper: [https://storage.googleapis.com/deepmind-data/assets/papers/deepmind-mastering-go.pdf](https://storage.googleapis.com/deepmind-data/assets/papers/deepmind-mastering-go.pdf)
 - naturep page: [http://www.nature.com/nature/journal/v529/n7587/full/nature16961.html](http://www.nature.com/nature/journal/v529/n7587/full/nature16961.html)
+- paper: [https://gogameguru.com/i/2016/03/deepmind-mastering-go.pdf](https://gogameguru.com/i/2016/03/deepmind-mastering-go.pdf)
 - blog: [http://www.furidamu.org/blog/2016/01/26/mastering-the-game-of-go-with-deep-neural-networks-and-tree-search/](http://www.furidamu.org/blog/2016/01/26/mastering-the-game-of-go-with-deep-neural-networks-and-tree-search/)
 - blog("AlphaGo: From Intuitive Learning to Holistic Knowledge"): [https://caminao.wordpress.com/2016/02/01/alphago/](https://caminao.wordpress.com/2016/02/01/alphago/)
 - notes("AlphaGo的分析", by 田渊栋): [http://zhuanlan.zhihu.com/yuandong/20607684](http://zhuanlan.zhihu.com/yuandong/20607684)

@@ -281,6 +281,12 @@ You must move pacman (the green cursor) to highlight each word on the gameboard 
 
 - github: [https://github.com/amix/vimrc](https://github.com/amix/vimrc)
 
+# Reverse Engineering
+
+**Reverse Engineering: Cracking Sublime Text 3**
+
+- blog: [http://blog.fernandodominguez.me/cracking-sublime-text-3/](http://blog.fernandodominguez.me/cracking-sublime-text-3/)
+
 # Tmux
 
 **A Tmux crash course: tips and tweaks.**
