@@ -422,6 +422,14 @@ extract saptio-temporal features to represent the video using the CNNs."
 
 [https://yahooresearch.tumblr.com/post/148009705216/creating-animated-gifs-automatically-from-video](https://yahooresearch.tumblr.com/post/148009705216/creating-animated-gifs-automatically-from-video)
 
+# Video2Speech
+
+**Vid2speech: Speech Reconstruction from Silent Video**
+
+- intro: ICASSP 2017
+- project page: [http://www.vision.huji.ac.il/vid2speech/](http://www.vision.huji.ac.il/vid2speech/)
+- arxiv: [https://arxiv.org/abs/1701.00495](https://arxiv.org/abs/1701.00495)
+
 # Video Captioning
 
 [http://handong1587.github.io/deep_learning/2015/10/09/image-video-captioning.html#video-captioning](http://handong1587.github.io/deep_learning/2015/10/09/image-video-captioning.html#video-captioning)

@@ -1304,6 +1304,10 @@ with fast exact probabilistic inference over many layers."
 - part 1: [http://starcraft.blizzplanet.com/blog/comments/blizzcon-2016-deepmind-and-starcraft-ii-deep-learning-panel-transcript](http://starcraft.blizzplanet.com/blog/comments/blizzcon-2016-deepmind-and-starcraft-ii-deep-learning-panel-transcript)
 - part 2: [http://starcraft.blizzplanet.com/blog/comments/blizzcon-2016-deepmind-and-starcraft-ii-deep-learning-panel-transcript/2](http://starcraft.blizzplanet.com/blog/comments/blizzcon-2016-deepmind-and-starcraft-ii-deep-learning-panel-transcript/2)
 
+**DeepStack: Expert-Level Artificial Intelligence in No-Limit Poker**
+
+- arxiv: [https://arxiv.org/abs/1701.01724](https://arxiv.org/abs/1701.01724)
+
 # Deep Learning in Medicine and Biology
 
 **Low Data Drug Discovery with One-shot Learning**
@@ -1334,6 +1338,10 @@ with fast exact probabilistic inference over many layers."
 **Deep Learning and Its Applications to Machine Health Monitoring: A Survey**
 
 - arxiv: [https://arxiv.org/abs/1612.07640](https://arxiv.org/abs/1612.07640)
+
+**Generating Focussed Molecule Libraries for Drug Discovery with Recurrent Neural Networks**
+
+- arxiv: [https://arxiv.org/abs/1701.01329](https://arxiv.org/abs/1701.01329)
 
 # Deep Learning in Fashion
 

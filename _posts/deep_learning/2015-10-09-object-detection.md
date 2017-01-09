@@ -674,6 +674,7 @@ This task involves predicting the salient regions of an image given by human eye
 
 **CMS-RCNN: Contextual Multi-Scale Region-based CNN for Unconstrained Face Detection**
 
+- intro: CMU
 - arxiv: [https://arxiv.org/abs/1606.05413](https://arxiv.org/abs/1606.05413)
 
 **Finding Tiny Faces**

@@ -61,6 +61,10 @@ Other awesome lists can be found in this [list](https://github.com/sindresorhus/
 - part 1: [https://ml.berkeley.edu/blog/2016/11/06/tutorial-1/](https://ml.berkeley.edu/blog/2016/11/06/tutorial-1/)
 - part 2: [https://ml.berkeley.edu/blog/2016/12/24/tutorial-2/](https://ml.berkeley.edu/blog/2016/12/24/tutorial-2/)
 
+**Rules of Machine Learning: Best Practices for ML Engineering**
+
+[http://martin.zinkevich.org/rules_of_ml/rules_of_ml.pdf](http://martin.zinkevich.org/rules_of_ml/rules_of_ml.pdf)
+
 ## Machine Learning is Fun!
 
 **Machine Learning is Fun! - The world’s easiest introduction to Machine Learning**
