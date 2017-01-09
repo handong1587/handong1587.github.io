@@ -48,6 +48,13 @@ date: 2015-10-01
 - intro: ops-class.org includes everything you need to learn about operating systems online.
 - homepage: [https://www.ops-class.org/](https://www.ops-class.org/)
 
+# Computer Graphics
+
+**Taichi 太極: Physically based Computer Graphics Library**
+
+- homepage: [http://taichi.graphics/](http://taichi.graphics/)
+- gtihub: [https://github.com/IteratorAdvance/taichi](https://github.com/IteratorAdvance/taichi)
+
 # Projects
 
 **Sketch: a Common Lisp environment for the creation of electronic art, visual design, game prototyping, game making, computer graphics, exploration of human-computer interaction and more**

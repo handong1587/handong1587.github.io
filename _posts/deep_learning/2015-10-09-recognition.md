@@ -185,6 +185,11 @@ date: 2015-10-09
 
 - arxiv: [https://arxiv.org/abs/1611.08976](https://arxiv.org/abs/1611.08976)
 
+**Hybrid Deep Learning for Face Verification**
+
+- intro: TPAMI 2016. CNN+RBM
+- paper: [http://www.ee.cuhk.edu.hk/~xgwang/papers/sunWTpami16.pdf](http://www.ee.cuhk.edu.hk/~xgwang/papers/sunWTpami16.pdf)
+
 ### Projects
 
 **Using MXNet for Face-related Algorithm**
