@@ -883,6 +883,10 @@ with fast exact probabilistic inference over many layers."
 - arxiv: [https://arxiv.org/abs/1612.09508](https://arxiv.org/abs/1612.09508)
 - youtube: [https://youtu.be/MY5Uhv38Ttg](https://youtu.be/MY5Uhv38Ttg)
 
+**Oriented Response Networks**
+
+- arxiv: [https://arxiv.org/abs/1701.01833](https://arxiv.org/abs/1701.01833)
+
 ## Highway Networks
 
 **Highway Networks**
