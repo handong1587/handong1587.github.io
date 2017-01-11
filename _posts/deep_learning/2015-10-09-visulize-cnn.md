@@ -134,6 +134,11 @@ date: 2015-10-09
 - intro: extended abstract version of [arXiv:1610.02391](https://arxiv.org/abs/1610.02391)
 - arxiv: [https://arxiv.org/abs/1611.07450](https://arxiv.org/abs/1611.07450)
 
+**Visualizing Residual Networks**
+
+- intro: UC Berkeley CS 280 final project report
+- arxiv: [https://arxiv.org/abs/1701.02362](https://arxiv.org/abs/1701.02362)
+
 # Projects
 
 **Interactive Deep Neural Net Hallucinations**

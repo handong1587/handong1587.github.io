@@ -388,6 +388,12 @@ facial action unit recognition, and eye-gaze estimation.
 - arxiv: [http://arxiv.org/abs/1608.04369](http://arxiv.org/abs/1608.04369)
 - github: [https://github.com/EdwardJKim/dl4astro](https://github.com/EdwardJKim/dl4astro)
 
+### Logo Recognition
+
+**Deep Learning for Logo Recognition**
+
+- arxiv: [https://arxiv.org/abs/1701.02620](https://arxiv.org/abs/1701.02620)
+
 # Scene Recognition
 
 **Learning Deep Features for Scene Recognition using Places Database**

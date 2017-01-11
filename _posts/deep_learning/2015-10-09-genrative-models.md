@@ -216,6 +216,10 @@ date: 2015-10-09
 - intro: Google Brain & Google Research
 - arxiv: [https://arxiv.org/abs/1612.05424](https://arxiv.org/abs/1612.05424)
 
+**Unsupervised Image-to-Image Translation with Generative Adversarial Networks**
+
+- arxiv: [https://arxiv.org/abs/1701.02676](https://arxiv.org/abs/1701.02676)
+
 # Projects
 
 **Generative Adversarial Networks with Keras**
