@@ -169,6 +169,11 @@ date: 2015-10-09
 - youtube: [https://www.youtube.com/playlist?list=PLjy4p-07OYzulelvJ5KVaT2pDlxivl_BN](https://www.youtube.com/playlist?list=PLjy4p-07OYzulelvJ5KVaT2pDlxivl_BN)
 - github: [https://github.com/jeffheaton/t81_558_deep_learning](https://github.com/jeffheaton/t81_558_deep_learning)
 
+**CS 20SI: Tensorflow for Deep Learning Research**
+
+- homepage: [http://web.stanford.edu/class/cs20si/](http://web.stanford.edu/class/cs20si/)
+- github: [https://github.com/chiphuyen/tf-stanford-tutorials](https://github.com/chiphuyen/tf-stanford-tutorials)
+
 # Computer Vision
 
 **Stanford CS231n: Convolutional Neural Networks for Visual Recognition**
