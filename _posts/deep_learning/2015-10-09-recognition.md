@@ -12,9 +12,19 @@ date: 2015-10-09
 - auothor: Jeff Donahue, Yangqing Jia, Oriol Vinyals, Judy Hoffman, Ning Zhang, Eric Tzeng, Trevor Darrell
 - arxiv: [http://arxiv.org/abs/1310.1531](http://arxiv.org/abs/1310.1531)
 
-**CNN Features off-the-shelf: an Astounding Baseline for Recognition (CVPR 2014)**
+**CNN Features off-the-shelf: an Astounding Baseline for Recognition**
 
+- intro: CVPR 2014
 - arxiv: [http://arxiv.org/abs/1403.6382](http://arxiv.org/abs/1403.6382)
+
+**HD-CNN: Hierarchical Deep Convolutional Neural Network for Large Scale Visual Recognition**
+
+- intro: ICCV 2015
+- intro: introduce hierarchical deep CNNs (HD-CNNs) by embedding deep CNNs into a category hierarchy
+- project page: [https://sites.google.com/site/homepagezhichengyan/home/hdcnn](https://sites.google.com/site/homepagezhichengyan/home/hdcnn)
+- arxiv: [https://arxiv.org/abs/1410.0736](https://arxiv.org/abs/1410.0736)
+- code: [https://sites.google.com/site/homepagezhichengyan/home/hdcnn/code](https://sites.google.com/site/homepagezhichengyan/home/hdcnn/code)
+- github: [https://github.com/stephenyan1231/caffe-public/tree/hdcnn](https://github.com/stephenyan1231/caffe-public/tree/hdcnn)
 
 **Delving Deep into Rectifiers: Surpassing Human-Level Performance on ImageNet Classification**
 

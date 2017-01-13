@@ -300,6 +300,12 @@ not just the convolutions)
 
 # Transfer Learning
 
+**Discriminative Transfer Learning with Tree-based Priors**
+
+- intro: NIPS 2013
+- paper: [http://deeplearning.net/wp-content/uploads/2013/03/icml13_workshop.pdf](http://deeplearning.net/wp-content/uploads/2013/03/icml13_workshop.pdf)
+- paper: [http://www.cs.toronto.edu/~nitish/treebasedpriors.pdf](http://www.cs.toronto.edu/~nitish/treebasedpriors.pdf)
+
 **How transferable are features in deep neural networks?**
 
 - intro: NIPS 2014

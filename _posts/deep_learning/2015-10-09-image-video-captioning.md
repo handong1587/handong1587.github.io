@@ -357,6 +357,10 @@ after the embedding and recurrent layers of the RNN."
 
 - arxiv: [https://arxiv.org/abs/1611.09312](https://arxiv.org/abs/1611.09312)
 
+**Attention-Based Multimodal Fusion for Video Description**
+
+- arxiv: [https://arxiv.org/abs/1701.03126](https://arxiv.org/abs/1701.03126)
+
 # Projects
 
 **Learning CNN-LSTM Architectures for Image Caption Generation: An implementation of CNN-LSTM image caption generator architecture that achieves close to state-of-the-art results on the MSCOCO dataset.**

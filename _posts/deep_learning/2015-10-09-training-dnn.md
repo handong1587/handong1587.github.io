@@ -512,6 +512,10 @@ date: 2015-10-09
 - arxiv: [https://arxiv.org/abs/1302.4389](https://arxiv.org/abs/1302.4389)
 - github: [https://github.com/lisa-lab/pylearn2/blob/master/pylearn2/models/maxout.py](https://github.com/lisa-lab/pylearn2/blob/master/pylearn2/models/maxout.py)
 
+**Improving Deep Neural Networks with Probabilistic Maxout Units**
+
+- arxiv: [https://arxiv.org/abs/1312.6116](https://arxiv.org/abs/1312.6116)
+
 ## Swapout
 
 **Swapout: Learning an ensemble of deep architectures**
