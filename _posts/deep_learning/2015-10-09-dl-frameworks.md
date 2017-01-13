@@ -518,6 +518,8 @@ It is an experimental refactoring of Caffe, and allows a more flexible way to or
 
 **A Practical Guide for Debugging Tensorflow Codes**
 
+**Debugging Tips on TensorFlow**
+
 - slides: [https://wookayin.github.io/TensorflowKR-2016-talk-debugging](https://wookayin.github.io/TensorflowKR-2016-talk-debugging)
 - github: [https://github.com/wookayin/TensorflowKR-2016-talk-debugging](https://github.com/wookayin/TensorflowKR-2016-talk-debugging)
 

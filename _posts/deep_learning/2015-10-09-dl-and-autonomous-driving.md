@@ -7,11 +7,16 @@ date: 2015-10-09
 
 # Courses
 
-**CSC2541: Visual Perception for Autonomous Driving, Winter 2016 (Toronto)**
+**(Toronto) CSC2541: Visual Perception for Autonomous Driving, Winter 2016**
 
 ![](http://www.cs.toronto.edu/~urtasun/courses/CSC2541/driving.jpg)
 
 - homepage: [http://www.cs.toronto.edu/~urtasun/courses/CSC2541/CSC2541_Winter16.html](http://www.cs.toronto.edu/~urtasun/courses/CSC2541/CSC2541_Winter16.html)
+
+**(MIT) 6.S094: Deep Learning for Self-Driving Cars**
+
+- homepage: [http://selfdrivingcars.mit.edu/](http://selfdrivingcars.mit.edu/)
+- github: [https://github.com/lexfridman/deepcars](https://github.com/lexfridman/deepcars)
 
 **How to Land An Autonomous Vehicle Job: Coursework**
 
