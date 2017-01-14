@@ -115,6 +115,11 @@ date: 2015-10-09
 
 - blog: [https://news.developer.nvidia.com/deep-learning-helps-iheartradio-personalize-music-recommendations/](https://news.developer.nvidia.com/deep-learning-helps-iheartradio-personalize-music-recommendations/)
 
+**Applying deep learning to Related Pins**
+
+- intro: Pinterest
+- blog: [https://engineering.pinterest.com/blog/applying-deep-learning-related-pins](https://engineering.pinterest.com/blog/applying-deep-learning-related-pins)
+
 # Projects
 
 **NNRec: Neural models for Collaborative Filtering**

@@ -483,6 +483,10 @@ date: 2015-10-09
 
 - arxiv: [https://arxiv.org/abs/1611.06791](https://arxiv.org/abs/1611.06791)
 
+**Analysis of Dropout**
+
+- blog: [https://pgaleone.eu/deep-learning/regularization/2017/01/10/anaysis-of-dropout/](https://pgaleone.eu/deep-learning/regularization/2017/01/10/anaysis-of-dropout/)
+
 ## DropConnect
 
 **Regularization of Neural Networks using DropConnect**

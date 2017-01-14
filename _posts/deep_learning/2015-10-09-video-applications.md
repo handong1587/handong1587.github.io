@@ -394,6 +394,11 @@ extract saptio-temporal features to represent the video using the CNNs."
 - inro: NIPS 2016 workshop on ML for Spatiotemporal Forecasting
 - arxiv: [https://arxiv.org/abs/1612.01756](https://arxiv.org/abs/1612.01756)
 
+**Unsupervised Learning of Long-Term Motion Dynamics for Videos**
+
+- intro: Stanford University
+- arxiv: [https://arxiv.org/abs/1701.01821](https://arxiv.org/abs/1701.01821)
+
 # Video Tagging
 
 **Automatic Image and Video Tagging**

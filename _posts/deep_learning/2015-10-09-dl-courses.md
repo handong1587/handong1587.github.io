@@ -103,6 +103,10 @@ date: 2015-10-09
 
 - github: [https://github.com/yandexdataschool/HSE_deeplearning](https://github.com/yandexdataschool/HSE_deeplearning)
 
+**ELEG 5040: Advanced Topics in Signal Processing (Introduction to Deep Learning)**
+
+- resources: [https://piazza.com/cuhk.edu.hk/spring2015/eleg5040/resources](https://piazza.com/cuhk.edu.hk/spring2015/eleg5040/resources)
+
 ## With Video Lectures
 
 **Deep Learning: Taking machine learning to the next level (Udacity)**

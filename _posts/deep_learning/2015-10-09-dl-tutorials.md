@@ -518,6 +518,14 @@ Machine learning workflow, Extracting feaures from images (colours, edges, corne
 
 [http://rishy.github.io//ml/2017/01/05/how-to-train-your-dnn/](http://rishy.github.io//ml/2017/01/05/how-to-train-your-dnn/)
 
+**A deep learning traffic light detector using dlib and a few images from Google street view**
+
+- blog: [https://sagivtech.com/2016/11/10/post-2/](https://sagivtech.com/2016/11/10/post-2/)
+
+**Recognizing Traffic Lights With Deep Learning**
+
+- blog: [https://medium.com/@davidbrai/recognizing-traffic-lights-with-deep-learning-23dae23287cc#.k22tnf37a](https://medium.com/@davidbrai/recognizing-traffic-lights-with-deep-learning-23dae23287cc#.k22tnf37a)
+
 # Convolution
 
 ![](/assets/cnn-materials/conv.jpg)

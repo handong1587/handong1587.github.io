@@ -133,3 +133,8 @@ date: 2015-08-27
 **2nd Place Solution of the Kaggle Competition - Santander Product Recommendation**
 
 - github: [https://github.com/ttvand/Santander-Product-Recommendation](https://github.com/ttvand/Santander-Product-Recommendation)
+
+**Deep Learning Tutorial for Kaggle Ultrasound Nerve Segmentation competition, using Keras**
+
+- intro: U-Net
+- github: [https://github.com/jocicmarko/ultrasound-nerve-segmentation](https://github.com/jocicmarko/ultrasound-nerve-segmentation)

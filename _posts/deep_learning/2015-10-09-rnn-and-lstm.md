@@ -502,6 +502,11 @@ date: 2015-10-09
 - intro: National University of Singapore & Peking University
 - arxiv: [https://arxiv.org/abs/1612.08534](https://arxiv.org/abs/1612.08534)
 
+**Simplified Gating in Long Short-term Memory (LSTM) Recurrent Neural Networks**
+
+- arxiv: [https://arxiv.org/abs/1701.03441](https://arxiv.org/abs/1701.03441)
+- github: [https://github.com/jingweimo/Modified-LSTM](https://github.com/jingweimo/Modified-LSTM)
+
 # Projects
 
 **NeuralTalk (Deprecated): a Python+numpy project for learning Multimodal Recurrent Neural Networks that describe images with sentences**

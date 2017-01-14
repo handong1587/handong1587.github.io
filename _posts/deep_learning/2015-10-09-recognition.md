@@ -17,6 +17,8 @@ date: 2015-10-09
 - intro: CVPR 2014
 - arxiv: [http://arxiv.org/abs/1403.6382](http://arxiv.org/abs/1403.6382)
 
+**HD-CNN: Hierarchical Deep Convolutional Neural Network for Image Classification**
+
 **HD-CNN: Hierarchical Deep Convolutional Neural Network for Large Scale Visual Recognition**
 
 - intro: ICCV 2015

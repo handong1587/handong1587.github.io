@@ -7,6 +7,12 @@ date: 2015-10-09
 
 # Papers
 
+**Using Very Deep Autoencoders for Content-Based Image Retrieval**
+
+- intro: ESANN 2011. Alex Krizhevsky, and Geoffrey E. Hinton
+- paper: [https://www.cs.toronto.edu/~hinton/absps/esann-deep-final.pdf](https://www.cs.toronto.edu/~hinton/absps/esann-deep-final.pdf)
+- paper: [http://www.cs.toronto.edu/~fritz/absps/esann-deep-final.pdf](http://www.cs.toronto.edu/~fritz/absps/esann-deep-final.pdf)
+
 **Learning High-level Image Representation for Image Retrieval via Multi-Task DNN using Clickthrough Data**
 
 - arxiv: [http://arxiv.org/abs/1312.4740](http://arxiv.org/abs/1312.4740)

@@ -367,6 +367,12 @@ after the embedding and recurrent layers of the RNN."
 
 - github: [https://github.com/mosessoh/CNN-LSTM-Caption-Generator](https://github.com/mosessoh/CNN-LSTM-Caption-Generator)
 
+**screengrab-caption: an openframeworks app that live-captions your desktop screen with a neural net**
+
+- intro: openframeworks app which grabs your desktop screen, then sends it to darknet for captioning. 
+works great with video calls.
+- github: [https://github.com/genekogan/screengrab-caption](https://github.com/genekogan/screengrab-caption)
+
 # Tools
 
 **CaptionBot (Microsoft)**

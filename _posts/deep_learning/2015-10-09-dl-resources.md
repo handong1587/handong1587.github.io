@@ -944,6 +944,11 @@ with fast exact probabilistic inference over many layers."
 
 - paper: [http://arxiv.org/abs/1509.05329](http://arxiv.org/abs/1509.05329)
 
+**Deep Learning Paper Implementations: Spatial Transformer Networks - Part I**
+
+- blog: [https://kevinzakka.github.io/2017/01/10/stn-part1/](https://kevinzakka.github.io/2017/01/10/stn-part1/)
+- github: [https://github.com/kevinzakka/blog-code/tree/master/spatial_transformer](https://github.com/kevinzakka/blog-code/tree/master/spatial_transformer)
+
 ## FractalNet
 
 **FractalNet: Ultra-Deep Neural Networks without Residuals**
@@ -1267,6 +1272,11 @@ with fast exact probabilistic inference over many layers."
 
 - intro: The Ohio State University
 - arxiv: [https://arxiv.org/abs/1612.04675](https://arxiv.org/abs/1612.04675)
+
+**Towards End-to-End Speech Recognition with Deep Convolutional Neural Networks**
+
+- intro: Universite de Montreal & CIFAR
+- arxiv: [https://arxiv.org/abs/1701.02720](https://arxiv.org/abs/1701.02720)
 
 # Deep Learning for Sound / Music
 

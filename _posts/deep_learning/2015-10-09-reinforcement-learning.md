@@ -52,6 +52,10 @@ date: 2015-10-09
 - slides: [http://rll.berkeley.edu/deeprlcourse/docs/nuts-and-bolts.pdf](http://rll.berkeley.edu/deeprlcourse/docs/nuts-and-bolts.pdf)
 - mirror: [https://pan.baidu.com/s/1kVkBLkF](https://pan.baidu.com/s/1kVkBLkF)
 
+**Reinforcement learning explained**
+
+- blog: [https://www.oreilly.com/ideas/reinforcement-learning-explained](https://www.oreilly.com/ideas/reinforcement-learning-explained)
+
 ## Simple Reinforcement Learning with Tensorflow
 
 **Part 0: Q-Learning with Tables and Neural Networks**
@@ -441,6 +445,12 @@ Incorporates dropout regularization and convolutional neural networks with a sep
 
 - intro: University of Oxford
 - arxiv: [https://arxiv.org/abs/1612.00380](https://arxiv.org/abs/1612.00380)
+
+**Reinforcement Learning via Recurrent Convolutional Neural Networks**
+
+- intro: ICPR 2016
+- arxiv: [https://arxiv.org/abs/1701.02392](https://arxiv.org/abs/1701.02392)
+- github: [https://github.com/tanmayshankar/RCNN_MDP](https://github.com/tanmayshankar/RCNN_MDP)
 
 # Projects
 

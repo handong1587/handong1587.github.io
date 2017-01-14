@@ -262,6 +262,11 @@ while maintaining state-of-the-art accuracy. For GoogLeNet, our model has 7% few
 - intro: Intel Labs
 - arxiv: [https://arxiv.org/abs/1610.00324](https://arxiv.org/abs/1610.00324)
 
+**Deep Model Compression: Distilling Knowledge from Noisy Teachers**
+
+- arxiv: [https://arxiv.org/abs/1610.09650](https://arxiv.org/abs/1610.09650)
+- github: [https://github.com/chengshengchan/model_compression](https://github.com/chengshengchan/model_compression)](- github: [https://github.com/chengshengchan/model_compression](https://github.com/chengshengchan/model_compression)
+
 **Fixed-point Factorized Networks**
 
 - arxiv: [https://arxiv.org/abs/1611.01972](https://arxiv.org/abs/1611.01972)
@@ -374,7 +379,7 @@ at INT8 deep learning operations than other FPGA DSP architectures"
 
 [https://www.oreilly.com/ideas/compressing-and-regularizing-deep-neural-networks](https://www.oreilly.com/ideas/compressing-and-regularizing-deep-neural-networks)
 
-# Videos
+# Talks / Videos
 
 **Deep compression and EIE: Deep learning model compression, design space exploration and hardware acceleration**
 

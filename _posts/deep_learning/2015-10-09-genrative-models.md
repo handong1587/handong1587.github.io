@@ -154,6 +154,8 @@ date: 2015-10-09
 - intro: NIPS 2016 Workshop on Adversarial Training
 - arxiv: [https://arxiv.org/abs/1611.05644](https://arxiv.org/abs/1611.05644)
 
+## Pix2Pix
+
 **Image-to-Image Translation with Conditional Adversarial Networks**
 
 ![](https://phillipi.github.io/pix2pix/images/teaser_v3.png)
@@ -163,6 +165,12 @@ date: 2015-10-09
 - github: [https://github.com/phillipi/pix2pix](https://github.com/phillipi/pix2pix)
 - github(TensorFlow): [https://github.com/yenchenlin/pix2pix-tensorflow](https://github.com/yenchenlin/pix2pix-tensorflow)
 - github(Chainer): [https://github.com/mattya/chainer-pix2pix](https://github.com/mattya/chainer-pix2pix)
+
+**Remastering Classic Films in Tensorflow with Pix2Pix**
+
+- blog: [https://hackernoon.com/remastering-classic-films-in-tensorflow-with-pix2pix-f4d551fa0503#.6dmahnt8n](https://hackernoon.com/remastering-classic-films-in-tensorflow-with-pix2pix-f4d551fa0503#.6dmahnt8n)
+- github: [https://github.com/awjuliani/Pix2Pix-Film](https://github.com/awjuliani/Pix2Pix-Film)
+- model: [https://drive.google.com/file/d/0B8x0IeJAaBccNFVQMkQ0QW15TjQ/view](https://drive.google.com/file/d/0B8x0IeJAaBccNFVQMkQ0QW15TjQ/view)
 
 **ml4a-invisible-cities**
 
@@ -216,8 +224,14 @@ date: 2015-10-09
 - intro: Google Brain & Google Research
 - arxiv: [https://arxiv.org/abs/1612.05424](https://arxiv.org/abs/1612.05424)
 
+**AdaGAN: Boosting Generative Models**
+
+- intro: Max Planck Institute for Intelligent Systems & Google Brain
+- arxiv: [https://arxiv.org/abs/1701.02386](https://arxiv.org/abs/1701.02386)
+
 **Unsupervised Image-to-Image Translation with Generative Adversarial Networks**
 
+- intro: Imperial College London & Indian Institute of Technology
 - arxiv: [https://arxiv.org/abs/1701.02676](https://arxiv.org/abs/1701.02676)
 
 # Projects

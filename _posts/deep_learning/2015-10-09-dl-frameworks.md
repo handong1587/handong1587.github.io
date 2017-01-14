@@ -558,6 +558,11 @@ Implementations and ideas are largely based on papers from arxiv and implementat
 
 - github: [https://github.com/tensorflow/ecosystem](https://github.com/tensorflow/ecosystem)
 
+**Caffe to TensorFlow**
+
+- intro: Convert Caffe models to TensorFlow.
+- github: [https://github.com/ethereon/caffe-tensorflow](https://github.com/ethereon/caffe-tensorflow)
+
 ## Papers
 
 **TensorFlow: Large-Scale Machine Learning on Heterogeneous Distributed Systems**
@@ -702,6 +707,10 @@ It is suitable for deep learning on limited computational resource, embedded sys
 - github: [https://github.com/tiny-dnn/tiny-dnn](https://github.com/tiny-dnn/tiny-dnn)
 - github: [https://github.com/nyanp/tiny-cnn](https://github.com/nyanp/tiny-cnn)
 
+**Deep learning with C++ - an introduction to tiny-dnn**
+
+- slides: [http://www.slideshare.net/ssuser756ec5/deep-learning-with-c-an-introduction-to-tinydnn](http://www.slideshare.net/ssuser756ec5/deep-learning-with-c-an-introduction-to-tinydnn)
+
 # Torch
 
 **Torch**
@@ -766,6 +775,14 @@ It is suitable for deep learning on limited computational resource, embedded sys
 - website: [https://velesnet.ml/](https://velesnet.ml/)
 - github: [https://github.com/Samsung/veles](https://github.com/Samsung/veles)
 - workflow: [https://velesnet.ml/forge/forge.html](https://velesnet.ml/forge/forge.html)
+
+# Yann
+
+**Yann: Yet Another Neural Network Toolbox**
+
+- intro: It is a toolbox for building and learning convolutional neural networks, built on top of theano
+- github: [https://github.com/ragavvenkatesan/yann](https://github.com/ragavvenkatesan/yann)
+- docs: [http://yann.readthedocs.io/en/master/](http://yann.readthedocs.io/en/master/)
 
 # Benchmarks
 
