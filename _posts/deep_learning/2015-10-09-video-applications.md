@@ -19,6 +19,11 @@ date: 2015-10-09
 - intro: Video-Fill-in-the-Blank (ViFitB)
 - arxiv: [https://arxiv.org/abs/1610.04062](https://arxiv.org/abs/1610.04062)
 
+**Video Pixel Networks**
+
+- intro: Google DeepMind
+- arxiv: [https://arxiv.org/abs/1610.00527](https://arxiv.org/abs/1610.00527)
+
 **Robust Video Synchronization using Unsupervised Deep Learning**
 
 - arxiv: [https://arxiv.org/abs/1610.05985](https://arxiv.org/abs/1610.05985)

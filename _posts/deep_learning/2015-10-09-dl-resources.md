@@ -723,16 +723,6 @@ with fast exact probabilistic inference over many layers."
 - arxiv: [http://arxiv.org/abs/1602.03264](http://arxiv.org/abs/1602.03264)
 - code: [http://www.stat.ucla.edu/~ywu/GenerativeConvNet/doc/code.zip](http://www.stat.ucla.edu/~ywu/GenerativeConvNet/doc/code.zip)
 
-**Value Iteration Networks**
-
-![](https://raw.githubusercontent.com/karpathy/paper-notes/master/img/vin/Screen%20Shot%202016-08-13%20at%204.58.42%20PM.png)
-
-- intro: NIPS 2016, Best Paper Award. University of California, Berkeley
-- arxiv: [http://arxiv.org/abs/1602.02867](http://arxiv.org/abs/1602.02867)
-- github(official, Theano): [https://github.com/avivt/VIN](https://github.com/avivt/VIN)
-- github(Tensorflow): [https://github.com/TheAbhiKumar/tensorflow-value-iteration-networks](https://github.com/TheAbhiKumar/tensorflow-value-iteration-networks)
-- notes(by Andrej Karpathy): [https://github.com/karpathy/paper-notes/blob/master/vin.md](https://github.com/karpathy/paper-notes/blob/master/vin.md)
-
 **How to Train Deep Variational Autoencoders and Probabilistic Ladder Networks**
 
 - arxiv: [http://arxiv.org/abs/1602.02282](http://arxiv.org/abs/1602.02282)
@@ -843,11 +833,6 @@ with fast exact probabilistic inference over many layers."
 **X-CNN: Cross-modal Convolutional Neural Networks for Sparse Datasets**
 
 - arxiv: [https://arxiv.org/abs/1610.00163](https://arxiv.org/abs/1610.00163)
-
-**Video Pixel Networks**
-
-- intro: Google DeepMind
-- arxiv: [https://arxiv.org/abs/1610.00527](https://arxiv.org/abs/1610.00527)
 
 **Tensor Switching Networks**
 
@@ -1378,7 +1363,8 @@ with fast exact probabilistic inference over many layers."
 
 **Benchmarks for popular CNN models**
 
-[https://github.com/jcjohnson/cnn-benchmarks](https://github.com/jcjohnson/cnn-benchmarks)
+- intro: Benchmarks for popular convolutional neural network models on CPU and different GPUs, with and without cuDNN.
+- github: [https://github.com/jcjohnson/cnn-benchmarks](https://github.com/jcjohnson/cnn-benchmarks)
 
 **Deep Learning Benchmarks**
 
@@ -1867,13 +1853,6 @@ joint classification, detection and semantic segmentation via a unified architec
 
 - github: [https://github.com/patcat/Clarifai-Node-Demo](https://github.com/patcat/Clarifai-Node-Demo)
 - blog("How to Make Your Web App Smarter with Image Recognition"): [http://www.sitepoint.com/how-to-make-your-web-app-smarter-with-image-recognition/](http://www.sitepoint.com/how-to-make-your-web-app-smarter-with-image-recognition/)
-
-**Visual Search Server**
-
-![](https://raw.githubusercontent.com/AKSHAYUBHAT/VisualSearchServer/master/appcode/static/alpha3.png)
-
-- intro: "A simple implementation of Visual Search using features extracted from Tensor Flow inception model"
-- github: [https://github.com/AKSHAYUBHAT/VisualSearchServer](https://github.com/AKSHAYUBHAT/VisualSearchServer)
 
 **Deep Learning in Rust**
 

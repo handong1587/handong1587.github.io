@@ -300,6 +300,16 @@ date: 2015-10-09
 
 - arxiv: [http://arxiv.org/abs/1602.02672](http://arxiv.org/abs/1602.02672)
 
+**Value Iteration Networks**
+
+![](https://raw.githubusercontent.com/karpathy/paper-notes/master/img/vin/Screen%20Shot%202016-08-13%20at%204.58.42%20PM.png)
+
+- intro: NIPS 2016, Best Paper Award. University of California, Berkeley
+- arxiv: [http://arxiv.org/abs/1602.02867](http://arxiv.org/abs/1602.02867)
+- github(official, Theano): [https://github.com/avivt/VIN](https://github.com/avivt/VIN)
+- github(Tensorflow): [https://github.com/TheAbhiKumar/tensorflow-value-iteration-networks](https://github.com/TheAbhiKumar/tensorflow-value-iteration-networks)
+- notes(by Andrej Karpathy): [https://github.com/karpathy/paper-notes/blob/master/vin.md](https://github.com/karpathy/paper-notes/blob/master/vin.md)
+
 **Insights in Reinforcement Learning**
 
 - intro: MSc thesis

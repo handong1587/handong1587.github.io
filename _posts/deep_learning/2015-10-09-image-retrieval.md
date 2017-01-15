@@ -294,6 +294,15 @@ UKB
 
 **ImageNet-YahooQA**
 
+# Projects
+
+**Visual Search Server**
+
+![](https://raw.githubusercontent.com/AKSHAYUBHAT/VisualSearchServer/master/appcode/static/alpha3.png)
+
+- intro: A simple implementation of Visual Search using features extracted from Tensorflow inception model and Approximate Nearest Neighbors 
+- github: [https://github.com/AKSHAYUBHAT/VisualSearchServer](https://github.com/AKSHAYUBHAT/VisualSearchServer)
+
 # Blogs
 
 **Where can I buy a chair like that? – This app will tell you**

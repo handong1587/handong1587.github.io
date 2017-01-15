@@ -286,8 +286,6 @@ and 1.15s per image with it".
 
 **A MultiPath Network for Object Detection**
 
-![](https://cloud.githubusercontent.com/assets/4953728/17826153/442d027a-666e-11e6-9a1e-2fac95a2d3ba.jpg)
-
 - intro: BMVC 2016. Facebook AI Research (FAIR)
 - arxiv: [http://arxiv.org/abs/1604.02135](http://arxiv.org/abs/1604.02135)
 - github: [https://github.com/facebookresearch/multipathnet](https://github.com/facebookresearch/multipathnet)
@@ -552,8 +550,6 @@ This task involves predicting the salient regions of an image given by human eye
 - arxiv: [http://arxiv.org/abs/1510.05484](http://arxiv.org/abs/1510.05484)
 
 **SuperCNN: A Superpixelwise Convolutional Neural Network for Salient Object Detection**
-
-![](http://www.shengfenghe.com/uploads/1/5/1/3/15132160/445461979.png)
 
 - paper: [www.shengfenghe.com/supercnn-a-superpixelwise-convolutional-neural-network-for-salient-object-detection.html](www.shengfenghe.com/supercnn-a-superpixelwise-convolutional-neural-network-for-salient-object-detection.html)
 
@@ -1071,8 +1067,6 @@ We additionally provide an implementation of the [ReInspect](https://github.com/
 - github: [https://github.com/fmassa/object-detection.torch](https://github.com/fmassa/object-detection.torch)
 
 **Using DIGITS to train an Object Detection network**
-
-![](https://raw.githubusercontent.com/NVIDIA/DIGITS/master/examples/object-detection/select-object-detection-dataset.jpg)
 
 - github: [https://github.com/NVIDIA/DIGITS/blob/master/examples/object-detection/README.md](https://github.com/NVIDIA/DIGITS/blob/master/examples/object-detection/README.md)
 

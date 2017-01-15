@@ -1,7 +1,7 @@
 ---
 layout: post
 category: deep_learning
-title: Generative Adversarial Network
+title: Generative Models and Generative Adversarial Network
 date: 2015-10-09
 ---
 
