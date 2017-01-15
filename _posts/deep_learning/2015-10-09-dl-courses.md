@@ -107,6 +107,11 @@ date: 2015-10-09
 
 - resources: [https://piazza.com/cuhk.edu.hk/spring2015/eleg5040/resources](https://piazza.com/cuhk.edu.hk/spring2015/eleg5040/resources)
 
+**CS 20SI: Tensorflow for Deep Learning Research**
+
+- homepage: [http://web.stanford.edu/class/cs20si/](http://web.stanford.edu/class/cs20si/)
+- github: [https://github.com/chiphuyen/tf-stanford-tutorials](https://github.com/chiphuyen/tf-stanford-tutorials)
+
 ## With Video Lectures
 
 **Deep Learning: Taking machine learning to the next level (Udacity)**
@@ -173,10 +178,10 @@ date: 2015-10-09
 - youtube: [https://www.youtube.com/playlist?list=PLjy4p-07OYzulelvJ5KVaT2pDlxivl_BN](https://www.youtube.com/playlist?list=PLjy4p-07OYzulelvJ5KVaT2pDlxivl_BN)
 - github: [https://github.com/jeffheaton/t81_558_deep_learning](https://github.com/jeffheaton/t81_558_deep_learning)
 
-**CS 20SI: Tensorflow for Deep Learning Research**
+**CS294-129 Designing, Visualizing and Understanding Deep Neural Networks**
 
-- homepage: [http://web.stanford.edu/class/cs20si/](http://web.stanford.edu/class/cs20si/)
-- github: [https://github.com/chiphuyen/tf-stanford-tutorials](https://github.com/chiphuyen/tf-stanford-tutorials)
+- homepage: [https://bcourses.berkeley.edu/courses/1453965/pages/cs294-129-designing-visualizing-and-understanding-deep-neural-networks](https://bcourses.berkeley.edu/courses/1453965/pages/cs294-129-designing-visualizing-and-understanding-deep-neural-networks)
+- lecture video: [https://www.youtube.com/playlist?list=PLkFD6_40KJIxopmdJF_CLNqG3QuDFHQUm](https://www.youtube.com/playlist?list=PLkFD6_40KJIxopmdJF_CLNqG3QuDFHQUm)
 
 # Computer Vision
 
