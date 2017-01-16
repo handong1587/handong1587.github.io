@@ -318,6 +318,11 @@ at INT8 deep learning operations than other FPGA DSP architectures"
 
 - arxiv: [https://arxiv.org/abs/1612.00891](https://arxiv.org/abs/1612.00891)
 
+**An OpenCL(TM) Deep Learning Accelerator on Arria 10**
+
+- intro: FPGA 2017
+- arxiv: [https://arxiv.org/abs/1701.03534](https://arxiv.org/abs/1701.03534)
+
 # Projects
 
 **Accelerate Convolutional Neural Networks**

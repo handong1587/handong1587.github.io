@@ -1350,6 +1350,22 @@ with fast exact probabilistic inference over many layers."
 
 # Deep Learning in Fashion
 
+**Convolutional Neural Networks for Fashion Classification and Object Detection**
+
+- intro: CS231N project
+- paper: [http://cs231n.stanford.edu/reports/BLAO_KJAG_CS231N_FinalPaperFashionClassification.pdf](http://cs231n.stanford.edu/reports/BLAO_KJAG_CS231N_FinalPaperFashionClassification.pdf)
+
+**DeepFashion: Powering Robust Clothes Recognition and Retrieval with Rich Annotations**
+
+- intro: CVPR 2016
+- project page: [http://personal.ie.cuhk.edu.hk/~lz013/projects/DeepFashion.html](http://personal.ie.cuhk.edu.hk/~lz013/projects/DeepFashion.html)
+- paper: [http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Liu_DeepFashion_Powering_Robust_CVPR_2016_paper.pdf](http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Liu_DeepFashion_Powering_Robust_CVPR_2016_paper.pdf)
+
+**Deep Learning for Fast and Accurate Fashion Item Detection**
+
+- keywords:  MultiBox and Fast R-CNN, Kuznech-Fashion-156 and Kuznech-Fashion-205 fashion item detection datasets
+- paper: [https://kddfashion2016.mybluemix.net/kddfashion_finalSubmissions/Deep%20Learning%20for%20Fast%20and%20Accurate%20Fashion%20Item%20Detection.pdf](https://kddfashion2016.mybluemix.net/kddfashion_finalSubmissions/Deep%20Learning%20for%20Fast%20and%20Accurate%20Fashion%20Item%20Detection.pdf)
+
 **Deep Learning at GILT**
 
 - keywords: automated tagging, automatic dress faceting

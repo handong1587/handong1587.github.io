@@ -166,11 +166,17 @@ date: 2015-10-09
 - github(Torch): [https://github.com/andreaskoepf/faster-rcnn.torch](https://github.com/andreaskoepf/faster-rcnn.torch)
 - github(Torch): [https://github.com/ruotianluo/Faster-RCNN-Densecap-torch](https://github.com/ruotianluo/Faster-RCNN-Densecap-torch)
 - github(Tensorflow): [https://github.com/smallcorgi/Faster-RCNN_TF](https://github.com/smallcorgi/Faster-RCNN_TF)
-- github(tensorflow): [https://github.com/CharlesShang/TFFRCNN](https://github.com/CharlesShang/TFFRCNN)
+- github(Tensorflow): [https://github.com/CharlesShang/TFFRCNN](https://github.com/CharlesShang/TFFRCNN)
 
 **Faster R-CNN in MXNet with distributed implementation and data parallelization**
 
 - github: [https://github.com/dmlc/mxnet/tree/master/example/rcnn](https://github.com/dmlc/mxnet/tree/master/example/rcnn)
+
+**Contextual Priming and Feedback for Faster R-CNN**
+
+- intro: ECCV 2016. Carnegie Mellon University
+- paper: [http://abhinavsh.info/context_priming_feedback.pdf](http://abhinavsh.info/context_priming_feedback.pdf)
+- poster: [http://www.eccv2016.org/files/posters/P-1A-20.pdf](http://www.eccv2016.org/files/posters/P-1A-20.pdf)
 
 ## YOLO
 
