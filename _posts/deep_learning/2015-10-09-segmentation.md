@@ -413,8 +413,12 @@ with built-in awareness of semantically meaningful boundaries. "
 
 ![](http://romera-paredes.com/wp-content/uploads/2015/12/RIS.png)
 
-- homepage: [http://romera-paredes.com/recurrent-instance-segmentation](http://romera-paredes.com/recurrent-instance-segmentation)
+- intro: ECCV 2016
+- porject page: [http://romera-paredes.com/ris](http://romera-paredes.com/ris)
 - arxiv: [http://arxiv.org/abs/1511.08250](http://arxiv.org/abs/1511.08250)
+- github(Torch): [https://github.com/bernard24/ris](https://github.com/bernard24/ris)
+- poster: [http://www.eccv2016.org/files/posters/P-4B-46.pdf](http://www.eccv2016.org/files/posters/P-4B-46.pdf)
+- youtube: [https://www.youtube.com/watch?v=l_WD2OWOqBk](https://www.youtube.com/watch?v=l_WD2OWOqBk)
 
 **Instance-aware Semantic Segmentation via Multi-task Network Cascades**
 
@@ -456,10 +460,6 @@ with built-in awareness of semantically meaningful boundaries. "
 **Bridging Category-level and Instance-level Semantic Image Segmentation**
 
 - arxiv: [http://arxiv.org/abs/1605.06885](http://arxiv.org/abs/1605.06885)
-
-**Recurrent Instance Segmentation**
-
-- youtube: [https://www.youtube.com/watch?v=l_WD2OWOqBk](https://www.youtube.com/watch?v=l_WD2OWOqBk)
 
 **Bottom-up Instance Segmentation using Deep Higher-Order CRFs**
 
