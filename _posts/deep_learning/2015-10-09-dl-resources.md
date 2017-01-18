@@ -89,6 +89,11 @@ not just the convolutions)
 - intro: demonstrate how to train the Inception v3 architecture
 - github: [https://github.com/tensorflow/models/tree/master/inception](https://github.com/tensorflow/models/tree/master/inception)
 
+**Train your own image classifier with Inception in TensorFlow**
+
+- intro: Inception-v3
+- blog: [https://research.googleblog.com/2016/03/train-your-own-image-classifier-with.html](https://research.googleblog.com/2016/03/train-your-own-image-classifier-with.html)
+
 **Notes on the TensorFlow Implementation of Inception v3**
 
 [https://pseudoprofound.wordpress.com/2016/08/28/notes-on-the-tensorflow-implementation-of-inception-v3/](https://pseudoprofound.wordpress.com/2016/08/28/notes-on-the-tensorflow-implementation-of-inception-v3/)
@@ -854,6 +859,11 @@ with fast exact probabilistic inference over many layers."
 - arxiv: [https://arxiv.org/abs/1611.05552](https://arxiv.org/abs/1611.05552)
 - github: [https://github.com/xternalz/DelugeNets](https://github.com/xternalz/DelugeNets)
 
+**PolyNet: A Pursuit of Structural Diversity in Very Deep Networks**
+
+- arxiv: [https://arxiv.org/abs/1611.05725](https://arxiv.org/abs/1611.05725)
+- poster: [http://mmlab.ie.cuhk.edu.hk/projects/cu_deeplink/polynet_poster.pdf](http://mmlab.ie.cuhk.edu.hk/projects/cu_deeplink/polynet_poster.pdf)
+
 **Weakly Supervised Cascaded Convolutional Networks**
 
 - arxiv: [https://arxiv.org/abs/1611.08258](https://arxiv.org/abs/1611.08258)
@@ -1604,9 +1614,11 @@ with fast exact probabilistic inference over many layers."
 
 **Xception: Deep Learning with Depthwise Separable Convolutions**
 
+- intro: Extreme Inception
 - arxiv: [https://arxiv.org/abs/1610.02357](https://arxiv.org/abs/1610.02357)
 - code(Keras): [https://keras.io/applications/#xception](https://keras.io/applications/#xception)
 - github: [https://gist.github.com/culurciello/554c8e56d3bbaf7c66bf66c6089dc221](https://gist.github.com/culurciello/554c8e56d3bbaf7c66bf66c6089dc221)
+- notes: [http://www.shortscience.org/paper?bibtexKey=journals%2Fcorr%2F1610.02357](http://www.shortscience.org/paper?bibtexKey=journals%2Fcorr%2F1610.02357)
 
 **Uncertainty in Deep Learning**
 

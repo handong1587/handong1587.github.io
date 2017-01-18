@@ -63,14 +63,14 @@ date: 2015-10-09
 
 **Scalable Object Detection using Deep Neural Networks**
 
-- intro: MultiBox. Train a CNN to predict Region of Interest.
+- intro: first MultiBox. Train a CNN to predict Region of Interest.
 - arxiv: [http://arxiv.org/abs/1312.2249](http://arxiv.org/abs/1312.2249)
 - github: [https://github.com/google/multibox](https://github.com/google/multibox)
 - blog: [https://research.googleblog.com/2014/12/high-quality-object-detection-at-scale.html](https://research.googleblog.com/2014/12/high-quality-object-detection-at-scale.html)
 
 **Scalable, High-Quality Object Detection**
 
-- intro: MultiBox
+- intro: second MultiBox
 - arxiv: [http://arxiv.org/abs/1412.1441](http://arxiv.org/abs/1412.1441)
 - github: [https://github.com/google/multibox](https://github.com/google/multibox)
 
