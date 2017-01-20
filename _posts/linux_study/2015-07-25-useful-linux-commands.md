@@ -642,3 +642,23 @@ rm `find -type f /path/to/dir/ | grep -E "filetype1 | filetype2"`
 ```
 zip -r target.zip file1 file2 folder1 folder2
 ```
+
+**Remove Windows format line breaks**
+
+```
+sed -i 's/^M$//g'
+```
+
+Note:
+
+^M = Ctrl+v,Ctrl+m
+
+**Replace tab characters with spaces**
+
+```
+sed -i 's/^I//g'
+```
+
+Note:
+
+^I = Ctrl+v,Ctrl+I

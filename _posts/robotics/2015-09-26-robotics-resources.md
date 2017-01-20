@@ -16,6 +16,14 @@ date: 2015-09-26
 
 - homepage: [https://www.udacity.com/course/artificial-intelligence-for-robotics--cs373](https://www.udacity.com/course/artificial-intelligence-for-robotics--cs373)
 
+**Ludobots - Evolutionary Robotics**
+
+- intro: Josh Bongard, University of Vermont
+- homepage: [https://www.reddit.com/r/ludobots/wiki/index](https://www.reddit.com/r/ludobots/wiki/index)
+- start page: [https://www.reddit.com/r/ludobots/comments/4lctij/new_start_here/](https://www.reddit.com/r/ludobots/comments/4lctij/new_start_here/)
+- shedule: [https://docs.google.com/spreadsheets/d/1s-7Vedmf_KeC7xxA90HJCw9QTYQzHrRZQDz48H87GQk/edit#gid=0](https://docs.google.com/spreadsheets/d/1s-7Vedmf_KeC7xxA90HJCw9QTYQzHrRZQDz48H87GQk/edit#gid=0)
+- video lectures: [https://www.youtube.com/watch?v=EQgfrv4gOQY](https://www.youtube.com/watch?v=EQgfrv4gOQY)
+
 # Papers
 
 **Robots that can adapt like animals**

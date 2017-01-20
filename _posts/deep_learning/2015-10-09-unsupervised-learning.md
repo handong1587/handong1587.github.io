@@ -232,6 +232,10 @@ testing it on the MNIST handwritten digits data.
 
 - blog: [https://pgaleone.eu/neural-networks/deep-learning/2016/12/13/convolutional-autoencoders-in-tensorflow/](https://pgaleone.eu/neural-networks/deep-learning/2016/12/13/convolutional-autoencoders-in-tensorflow/)
 
+**A Deep Convolutional Auto-Encoder with Pooling - Unpooling Layers in Caffe**
+
+- arxiv: [https://arxiv.org/abs/1701.04949](https://arxiv.org/abs/1701.04949)
+
 # RBM (Restricted Boltzmann Machine)
 
 ## Papers
@@ -240,6 +244,11 @@ testing it on the MNIST handwritten digits data.
 
 - author: Ruslan Salakhutdinov, Geoffrey Hinton
 - paper: [http://www.cs.toronto.edu/~hinton/absps/dbm.pdf](http://www.cs.toronto.edu/~hinton/absps/dbm.pdf)
+
+**On the Equivalence of Restricted Boltzmann Machines and Tensor Network States**
+
+- arxiv: [https://arxiv.org/abs/1701.04831](https://arxiv.org/abs/1701.04831)
+- github: [https://github.com/yzcj105/rbm2mps](https://github.com/yzcj105/rbm2mps)
 
 ## Blogs
 

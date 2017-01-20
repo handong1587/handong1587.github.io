@@ -240,6 +240,15 @@ date: 2015-10-09
 
 - arxiv: [https://arxiv.org/abs/1612.07697](https://arxiv.org/abs/1612.07697)
 
+**Compression of Deep Neural Networks for Image Instance Retrieval**
+
+- intro: DCC 2017
+- arxiv: [https://arxiv.org/abs/1701.04923](https://arxiv.org/abs/1701.04923)
+
+**Effective Multi-Query Expansions: Collaborative Deep Networks for Robust Landmark Retrieval**
+
+- arxiv: [https://arxiv.org/abs/1701.05003](https://arxiv.org/abs/1701.05003)
+
 # Video Indexing / Retrieval
 
 **Face Video Retrieval via Deep Learning of Binary Hash Representations**

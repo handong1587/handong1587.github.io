@@ -893,6 +893,11 @@ This task involves predicting the salient regions of an image given by human eye
 - intro: ECCV 2016
 - arxiv: [http://arxiv.org/abs/1608.02755](http://arxiv.org/abs/1608.02755)
 
+**Convolutional Oriented Boundaries: From Image Segmentation to High-Level Tasks**
+
+- project page: [http://www.vision.ee.ethz.ch/~cvlsegmentation/](http://www.vision.ee.ethz.ch/~cvlsegmentation/)
+- arxiv: [https://arxiv.org/abs/1701.04658](https://arxiv.org/abs/1701.04658)
+
 **Richer Convolutional Features for Edge Detection**
 
 - intro: richer convolutional features (RCF)

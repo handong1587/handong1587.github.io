@@ -56,6 +56,10 @@ date: 2015-10-09
 
 - blog: [https://www.oreilly.com/ideas/reinforcement-learning-explained](https://www.oreilly.com/ideas/reinforcement-learning-explained)
 
+**Beginner's guide to Reinforcement Learning & its implementation in Python**
+
+[https://www.analyticsvidhya.com/blog/2017/01/introduction-to-reinforcement-learning-implementation/](https://www.analyticsvidhya.com/blog/2017/01/introduction-to-reinforcement-learning-implementation/)
+
 ## Simple Reinforcement Learning with Tensorflow
 
 **Part 0: Q-Learning with Tables and Neural Networks**

@@ -127,6 +127,7 @@ date: 2015-10-09
 - arxiv: [https://arxiv.org/abs/1610.02391](https://arxiv.org/abs/1610.02391)
 - github: [https://github.com/ramprs/grad-cam/](https://github.com/ramprs/grad-cam/)
 - github(Keras): [https://github.com/jacobgil/keras-grad-cam](https://github.com/jacobgil/keras-grad-cam)
+- github(TensorFlow): [https://github.com/Ankush96/grad-cam.tensorflow](https://github.com/Ankush96/grad-cam.tensorflow)
 
 **Grad-CAM: Why did you say that?**
 

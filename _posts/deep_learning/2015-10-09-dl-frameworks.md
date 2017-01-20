@@ -214,6 +214,17 @@ It is an experimental refactoring of Caffe, and allows a more flexible way to or
 - manual: [https://dp.readthedocs.org/en/latest/](https://dp.readthedocs.org/en/latest/)
 - manual: [https://github.com/nicholas-leonard/dp/blob/master/doc/index.md](https://github.com/nicholas-leonard/dp/blob/master/doc/index.md)
 
+# DyNet
+
+**DyNet: The Dynamic Neural Network Toolkit **
+
+- paper: [https://arxiv.org/abs/1701.03980](https://arxiv.org/abs/1701.03980)
+- github: [https://github.com/clab/dynet](https://github.com/clab/dynet)
+
+**DyNet Benchmarks**
+
+- github: [https://github.com/neulab/dynet-benchmark](https://github.com/neulab/dynet-benchmark)
+
 # IDLF
 
 **IDLF: The Intel® Deep Learning Framework**
@@ -264,6 +275,14 @@ It is an experimental refactoring of Caffe, and allows a more flexible way to or
 **keras-cn: Chinese keras documents with more examples, explanations and tips.**
 
 - github: [https://github.com/MoyanZitto/keras-cn](https://github.com/MoyanZitto/keras-cn)
+
+# Knet
+
+**Knet: Koç University deep learning framework**
+
+- intro: Knet (pronounced "kay-net") is the Koç University deep learning framework implemented in Julia by Deniz Yuret and collaborators.
+- github: [https://github.com/denizyuret/Knet.jl](https://github.com/denizyuret/Knet.jl)
+- doc: [https://knet.readthedocs.org/en/latest/](https://knet.readthedocs.org/en/latest/)
 
 # Lasagne
 
@@ -768,6 +787,10 @@ It is suitable for deep learning on limited computational resource, embedded sys
 
 - github: [https://github.com/nicholas-leonard/torch-in-action](https://github.com/nicholas-leonard/torch-in-action)
 
+**PyTorch**
+
+- github: [https://github.com/pytorch/pytorch](https://github.com/pytorch/pytorch)
+
 # VELES
 
 **VELES: Distributed platform for rapid Deep learning application development**
@@ -902,3 +925,7 @@ It is suitable for deep learning on limited computational resource, embedded sys
 **Deep Learning frameworks: a review before finishing 2016**
 
 [https://medium.com/@ricardo.guerrero/deep-learning-frameworks-a-review-before-finishing-2016-5b3ab4010b06#.a6fdrqssl](https://medium.com/@ricardo.guerrero/deep-learning-frameworks-a-review-before-finishing-2016-5b3ab4010b06#.a6fdrqssl)
+
+**The Anatomy of Deep Learning Frameworks**
+
+[https://medium.com/@gokul_uf/the-anatomy-of-deep-learning-frameworks-46e2a7af5e47](https://medium.com/@gokul_uf/the-anatomy-of-deep-learning-frameworks-46e2a7af5e47)

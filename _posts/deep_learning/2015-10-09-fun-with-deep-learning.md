@@ -231,6 +231,12 @@ Compressed model is less than 500KB
 
 - arxiv: [https://arxiv.org/abs/1701.01036](https://arxiv.org/abs/1701.01036)
 
+**Bringing Impressionism to Life with Neural Style Transfer in Come Swim**
+
+- intro: a case study of how Neural Style Transfer can be used in a movie production context
+- keywords: Kristen Stewart !
+- arxiv: [https://arxiv.org/abs/1701.04928](https://arxiv.org/abs/1701.04928)
+
 ## Neural Art On Audio
 
 **MSc AI Project on generative deep networks and neural style transfer for audio**

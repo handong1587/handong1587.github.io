@@ -62,6 +62,14 @@ date: 2015-10-09
 
 - arxiv: [https://arxiv.org/abs/1612.05360](https://arxiv.org/abs/1612.05360)
 
+# Foreground Object Segmentation
+
+**Pixel Objectness**
+
+- project page: [http://vision.cs.utexas.edu/projects/pixelobjectness/](http://vision.cs.utexas.edu/projects/pixelobjectness/)
+- arxiv: [https://arxiv.org/abs/1701.05349](https://arxiv.org/abs/1701.05349)
+- github: [https://github.com/suyogduttjain/pixelobjectness](https://github.com/suyogduttjain/pixelobjectness)
+
 # Semantic Segmentation
 
 **Fully Convolutional Networks for Semantic Segmentation**
@@ -167,6 +175,7 @@ fine-tune the trained network with more challenging examples later
 
 - arxiv: [http://arxiv.org/abs/1505.07293](http://arxiv.org/abs/1505.07293)
 - github: [https://github.com/alexgkendall/caffe-segnet](https://github.com/alexgkendall/caffe-segnet)
+- github: [https://github.com/pfnet-research/chainer-segnet](https://github.com/pfnet-research/chainer-segnet)
 
 **SegNet: A Deep Convolutional Encoder-Decoder Architecture for Image Segmentation**
 
@@ -641,6 +650,12 @@ ranked 1st place in ImageNet Scene Parsing Challenge 2016
 **Semantic Video Segmentation by Gated Recurrent Flow Propagation**
 
 - arxiv: [https://arxiv.org/abs/1612.08871](https://arxiv.org/abs/1612.08871)
+
+**FusionSeg: Learning to combine motion and appearance for fully automatic segmention of generic objects in videos**
+
+- project page: [http://vision.cs.utexas.edu/projects/fusionseg/](http://vision.cs.utexas.edu/projects/fusionseg/)
+- arxiv: [https://arxiv.org/abs/1701.05384](https://arxiv.org/abs/1701.05384)
+- github: [https://github.com/suyogduttjain/fusionseg](https://github.com/suyogduttjain/fusionseg)
 
 # Leaderboard
 

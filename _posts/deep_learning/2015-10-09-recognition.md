@@ -70,6 +70,11 @@ date: 2015-10-09
 - paper: [http://webia.lip6.fr/~thomen/papers/Blot_ICIP_2016.pdf](http://webia.lip6.fr/~thomen/papers/Blot_ICIP_2016.pdf)
 - github: [https://github.com/karandesai-96/maxmin-cnn](https://github.com/karandesai-96/maxmin-cnn)
 
+**Cost-Effective Active Learning for Deep Image Classification**
+
+- intro: TCSVT 2016. Sun Yat-sen University & Guangzhou University
+- arxiv: [https://arxiv.org/abs/1701.03551](https://arxiv.org/abs/1701.03551)
+
 ## Multi-object Recognition
 
 **Multiple Object Recognition with Visual Attention**
@@ -385,12 +390,6 @@ facial action unit recognition, and eye-gaze estimation.
 **Multi-Task Curriculum Transfer Deep Learning of Clothing Attributes**
 
 - arxiv: [https://arxiv.org/abs/1610.03670](https://arxiv.org/abs/1610.03670)
-
-### Place Recognition
-
-**Visual place recognition using landmark distribution descriptors**
-
-- arxiv: [http://arxiv.org/abs/1608.04274](http://arxiv.org/abs/1608.04274)
 
 ### Star-galaxy Classification
 

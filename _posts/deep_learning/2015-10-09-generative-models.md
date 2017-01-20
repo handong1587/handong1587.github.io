@@ -234,6 +234,11 @@ date: 2015-10-09
 - intro: Imperial College London & Indian Institute of Technology
 - arxiv: [https://arxiv.org/abs/1701.02676](https://arxiv.org/abs/1701.02676)
 
+**Towards Principled Methods for Training Generative Adversarial Networks**
+
+- intro: Courant Institute of Mathematical Sciences & Facebook AI Research
+- arxiv: [https://arxiv.org/abs/1701.04862](https://arxiv.org/abs/1701.04862)
+
 # Projects
 
 **Generative Adversarial Networks with Keras**

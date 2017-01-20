@@ -533,6 +533,13 @@ not just the convolutions)
 - intro: Kaggle
 - blog: [https://medium.com/@dsouza.amanda/learning-from-learning-curves-1a82c6f98f49#.o5synrvvl](https://medium.com/@dsouza.amanda/learning-from-learning-curves-1a82c6f98f49#.o5synrvvl)
 
+# Understanding CNN
+
+**Understanding the Effective Receptive Field in Deep Convolutional Neural Networks**
+
+- intro: NIPS 2016
+- paper: [http://www.cs.toronto.edu/~wenjie/papers/nips16/top.pdf](http://www.cs.toronto.edu/~wenjie/papers/nips16/top.pdf)
+
 # Adversarial Examples of Deep Learning
 
 **Intriguing properties of neural networks**
@@ -657,6 +664,7 @@ not just the convolutions)
 - arxiv: [https://arxiv.org/abs/1506.03134](https://arxiv.org/abs/1506.03134)
 - github: [https://github.com/vshallc/PtrNets](https://github.com/vshallc/PtrNets)
 - github(TensorFlow): [https://github.com/ikostrikov/TensorFlow-Pointer-Networks](https://github.com/ikostrikov/TensorFlow-Pointer-Networks)
+- github(TensorFlow): [https://github.com/devsisters/pointer-network-tensorflow](https://github.com/devsisters/pointer-network-tensorflow)
 - notes: [https://github.com/dennybritz/deeplearning-papernotes/blob/master/notes/pointer-networks.md](https://github.com/dennybritz/deeplearning-papernotes/blob/master/notes/pointer-networks.md)
 
 **Pointer Networks in TensorFlow (with sample code)**
@@ -1323,6 +1331,12 @@ with fast exact probabilistic inference over many layers."
 
 - arxiv: [https://arxiv.org/abs/1701.01724](https://arxiv.org/abs/1701.01724)
 
+**Gym StarCraft: StarCraft environment for OpenAI Gym, based on Facebook's TorchCraft**
+
+- intro: Gym StarCraft is an environment bundle for OpenAI Gym. 
+It is based on Facebook's TorchCraft, which is a bridge between Torch and StarCraft for AI research.
+- github: [https://github.com/deepcraft/gym-starcraft](https://github.com/deepcraft/gym-starcraft)
+
 # Deep Learning in Medicine and Biology
 
 **Low Data Drug Discovery with One-shot Learning**
@@ -1610,16 +1624,6 @@ with fast exact probabilistic inference over many layers."
 - intro: IEEE ICACSIS 2016
 - arxiv: [https://arxiv.org/abs/1610.02306](https://arxiv.org/abs/1610.02306)
 
-**Deep Learning with Separable Convolutions**
-
-**Xception: Deep Learning with Depthwise Separable Convolutions**
-
-- intro: Extreme Inception
-- arxiv: [https://arxiv.org/abs/1610.02357](https://arxiv.org/abs/1610.02357)
-- code(Keras): [https://keras.io/applications/#xception](https://keras.io/applications/#xception)
-- github: [https://gist.github.com/culurciello/554c8e56d3bbaf7c66bf66c6089dc221](https://gist.github.com/culurciello/554c8e56d3bbaf7c66bf66c6089dc221)
-- notes: [http://www.shortscience.org/paper?bibtexKey=journals%2Fcorr%2F1610.02357](http://www.shortscience.org/paper?bibtexKey=journals%2Fcorr%2F1610.02357)
-
 **Uncertainty in Deep Learning**
 
 - intro: PhD Thesis. Cambridge Machine Learning Group
@@ -1707,6 +1711,27 @@ with fast exact probabilistic inference over many layers."
 **Paying More Attention to Attention: Improving the Performance of Convolutional Neural Networks via Attention Transfer**
 
 - arxiv: [https://arxiv.org/abs/1612.03928](https://arxiv.org/abs/1612.03928)
+
+**Risk versus Uncertainty in Deep Learning: Bayes, Bootstrap and the Dangers of Dropout**
+
+- intro: Google Deepmind
+- paper: [http://bayesiandeeplearning.org/papers/BDL_4.pdf](http://bayesiandeeplearning.org/papers/BDL_4.pdf)
+
+## Separable Convolutions
+
+**Deep Learning with Separable Convolutions**
+
+**Xception: Deep Learning with Depthwise Separable Convolutions**
+
+- intro: Extreme Inception
+- arxiv: [https://arxiv.org/abs/1610.02357](https://arxiv.org/abs/1610.02357)
+- code(Keras): [https://keras.io/applications/#xception](https://keras.io/applications/#xception)
+- github: [https://gist.github.com/culurciello/554c8e56d3bbaf7c66bf66c6089dc221](https://gist.github.com/culurciello/554c8e56d3bbaf7c66bf66c6089dc221)
+- notes: [http://www.shortscience.org/paper?bibtexKey=journals%2Fcorr%2F1610.02357](http://www.shortscience.org/paper?bibtexKey=journals%2Fcorr%2F1610.02357)
+
+**Towards a New Interpretation of Separable Convolutions**
+
+- arxiv: [https://arxiv.org/abs/1701.04489](https://arxiv.org/abs/1701.04489)
 
 ## STDP
 
@@ -2018,6 +2043,15 @@ Compatible with Theano and TensorFlow. Optimized for Twitter.
 
 - intro: binarynet / ternarynet / qrnn / vae / gcnn
 - github: [https://github.com/DingKe/nn_playground](https://github.com/DingKe/nn_playground)
+
+**WaterNet: A convolutional neural network that identifies water in satellite images**
+
+- github: [https://github.com/treigerm/WaterNet](https://github.com/treigerm/WaterNet)
+
+**Kur: Descriptive Deep Learning**
+
+- github: [https://github.com/deepgram/kur](https://github.com/deepgram/kur)
+- docs: [http://kur.deepgram.com/](http://kur.deepgram.com/)
 
 # Readings and Questions
 

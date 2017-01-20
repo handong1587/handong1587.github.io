@@ -153,6 +153,10 @@ date: 2015-10-09
 - paper: [http://www.evolvingai.org/files/nguyen2016ppgn_v1.pdf](http://www.evolvingai.org/files/nguyen2016ppgn_v1.pdf)
 - github: [https://github.com/Evolving-AI-Lab/ppgn](https://github.com/Evolving-AI-Lab/ppgn)
 
+**Image Generation and Editing with Variational Info Generative AdversarialNetworks**
+
+- arxiv: [https://arxiv.org/abs/1701.04568](https://arxiv.org/abs/1701.04568)
+
 # Deep Generative Model
 
 **Digit Fantasies by a Deep Generative Model**

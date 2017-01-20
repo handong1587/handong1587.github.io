@@ -109,6 +109,13 @@ date: 2015-08-27
 
 - blog: [https://blog.dominodatalab.com/video-model-based-machine-learning-webcast/](https://blog.dominodatalab.com/video-model-based-machine-learning-webcast/)
 
+**Deep Probabilistic Programming**
+
+- intro: Columbia University & Adobe Research & Google Research & Google Brain
+- arxiv: [https://arxiv.org/abs/1701.03757](https://arxiv.org/abs/1701.03757)
+- homepage: [http://edwardlib.org/](http://edwardlib.org/)
+- zoo: [http://edwardlib.org/zoo](http://edwardlib.org/zoo)
+
 # Books
 
 **Probabilistic Programming & Bayesian Methods for Hackers**

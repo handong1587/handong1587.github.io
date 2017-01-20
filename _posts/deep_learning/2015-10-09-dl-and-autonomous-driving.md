@@ -17,6 +17,8 @@ date: 2015-10-09
 
 - homepage: [http://selfdrivingcars.mit.edu/](http://selfdrivingcars.mit.edu/)
 - github: [https://github.com/lexfridman/deepcars](https://github.com/lexfridman/deepcars)
+- youtube: [https://www.youtube.com/playlist?list=PLrAXtmErZgOeiKm4sgNOknGvNjby9efdf](https://www.youtube.com/playlist?list=PLrAXtmErZgOeiKm4sgNOknGvNjby9efdf)
+- mirror: [https://pan.baidu.com/s/1boLRFaB](https://pan.baidu.com/s/1boLRFaB)
 
 **How to Land An Autonomous Vehicle Job: Coursework**
 
@@ -172,6 +174,10 @@ without running into obstacles using a type of reinforcement learning called Q-L
 **DeepDrive setup: Run a self-driving car simulator from the comfort of your own PC**
 
 - github: [https://github.com/crizCraig/deepdrive](https://github.com/crizCraig/deepdrive)
+
+**DeepTesla: End-to-End Learning from Human and Autopilot Driving**
+
+[http://selfdrivingcars.mit.edu/deeptesla/](http://selfdrivingcars.mit.edu/deeptesla/)
 
 # Blogs
 

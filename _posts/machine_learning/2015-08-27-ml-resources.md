@@ -1023,11 +1023,6 @@ AUC: Area Under the Curve
 
 - homepage: [http://alexsosn.github.io/ml/2015/11/05/iOS-ML.html](http://alexsosn.github.io/ml/2015/11/05/iOS-ML.html)
 
-**Knet: a machine learning module implemented in Julia**
-
-- github: [https://github.com/denizyuret/Knet.jl](https://github.com/denizyuret/Knet.jl)
-- doc: [https://knet.readthedocs.org/en/latest/](https://knet.readthedocs.org/en/latest/)
-
 **DynaML: Scala Library/REPL for Machine Learning Research**
 
 - homepage: [http://mandar2812.github.io/DynaML/](http://mandar2812.github.io/DynaML/)

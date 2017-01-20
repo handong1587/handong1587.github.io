@@ -525,6 +525,19 @@ Machine learning workflow, Extracting feaures from images (colours, edges, corne
 **Recognizing Traffic Lights With Deep Learning**
 
 - blog: [https://medium.com/@davidbrai/recognizing-traffic-lights-with-deep-learning-23dae23287cc#.k22tnf37a](https://medium.com/@davidbrai/recognizing-traffic-lights-with-deep-learning-23dae23287cc#.k22tnf37a)
+- github: [https://github.com/davidbrai/deep-learning-traffic-lights](https://github.com/davidbrai/deep-learning-traffic-lights)
+
+**Tutorials for deep learning**
+
+- github: [https://github.com/oduerr/dl_tutorial](https://github.com/oduerr/dl_tutorial)
+
+**The Holographic Principle: Why Deep Learning Works**
+
+[https://medium.com/intuitionmachine/the-holographic-principle-and-deep-learning-52c2d6da8d9](https://medium.com/intuitionmachine/the-holographic-principle-and-deep-learning-52c2d6da8d9)
+
+**Deep Neural Networks - A Brief History**
+
+- arxiv: [https://arxiv.org/abs/1701.05549](https://arxiv.org/abs/1701.05549)
 
 # Convolution
 
@@ -649,6 +662,10 @@ Machine learning workflow, Extracting feaures from images (colours, edges, corne
 
 - blog: [http://christopher5106.github.io/deep/learning/2015/09/04/Deep-learning-tutorial-on-Caffe-Technology.html](http://christopher5106.github.io/deep/learning/2015/09/04/Deep-learning-tutorial-on-Caffe-Technology.html)
 
+**Using Caffe with your own dataset**
+
+[https://medium.com/@alexrachnog/using-caffe-with-your-own-dataset-b0ade5d71233](https://medium.com/@alexrachnog/using-caffe-with-your-own-dataset-b0ade5d71233)
+
 # Theano
 
 **Theano Tutorial @ LTI, Carnegie Mellon University**
@@ -678,6 +695,10 @@ Machine learning workflow, Extracting feaures from images (colours, edges, corne
 **Traffic Sign Recognition with TensorFlow**
 
 - blog: [https://medium.com/@waleedka/traffic-sign-recognition-with-tensorflow-629dffc391a6#.2khbv6a9a](https://medium.com/@waleedka/traffic-sign-recognition-with-tensorflow-629dffc391a6#.2khbv6a9a)
+
+**Traffic signs classification with a convolutional network**
+
+[http://navoshta.com/traffic-signs-classification/](http://navoshta.com/traffic-signs-classification/)
 
 **Dive Into TensorFlow**
 

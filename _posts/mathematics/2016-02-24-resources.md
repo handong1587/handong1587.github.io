@@ -40,6 +40,11 @@ date: 2016-02-24
 
 - blog: [https://betterexplained.com/articles/an-interactive-guide-to-the-fourier-transform/](https://betterexplained.com/articles/an-interactive-guide-to-the-fourier-transform/)
 
+**Image Fourier Transform**
+
+- github: [https://github.com/turbomaze/JS-Fourier-Image-Analysis](https://github.com/turbomaze/JS-Fourier-Image-Analysis)
+- demo: [http://turbomaze.github.io/JS-Fourier-Image-Analysis/](http://turbomaze.github.io/JS-Fourier-Image-Analysis/)
+
 # Courses
 
 **Stanford EE261 - The Fourier Transform and its Applications**

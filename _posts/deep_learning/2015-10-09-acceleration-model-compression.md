@@ -185,6 +185,12 @@ to decompose it into the multiplications of thinned dense matrices"
 - github: [https://github.com/songhan/SqueezeNet-Deep-Compression](https://github.com/songhan/SqueezeNet-Deep-Compression)
 - note: [https://www.evernote.com/shard/s146/sh/108eea91-349b-48ba-b7eb-7ac8f548bee9/5171dc6b1088fba05a4e317f7f5d32a3](https://www.evernote.com/shard/s146/sh/108eea91-349b-48ba-b7eb-7ac8f548bee9/5171dc6b1088fba05a4e317f7f5d32a3)
 - github(Keras): [https://github.com/DT42/squeezenet_demo](https://github.com/DT42/squeezenet_demo)
+- github(Keras): [https://github.com/rcmalli/keras-squeezenet](https://github.com/rcmalli/keras-squeezenet)
+
+**SqueezeNet-Residual**
+
+- intro: Residual-SqueezeNet improves the top-1 accuracy of SqueezeNet by 2.9% on ImageNet without changing the model size(only 4.8MB).
+- github: [https://github.com/songhan/SqueezeNet-Residual](https://github.com/songhan/SqueezeNet-Residual)
 
 **Lab41 Reading Group: SqueezeNet**
 
@@ -322,6 +328,11 @@ at INT8 deep learning operations than other FPGA DSP architectures"
 
 - intro: FPGA 2017
 - arxiv: [https://arxiv.org/abs/1701.03534](https://arxiv.org/abs/1701.03534)
+
+**The Incredible Shrinking Neural Network: New Perspectives on Learning Representations Through The Lens of Pruning**
+
+- intro: CMU & Universitat Paderborn]
+- arxiv: [https://arxiv.org/abs/1701.04465](https://arxiv.org/abs/1701.04465)
 
 # Projects
 
