@@ -1165,6 +1165,10 @@ with fast exact probabilistic inference over many layers."
 - part 2: [https://medium.com/@mgazar/experimenting-with-tensorflow-on-android-part-2-12f3dc294eaf#.2gx3o65f5](https://medium.com/@mgazar/experimenting-with-tensorflow-on-android-part-2-12f3dc294eaf#.2gx3o65f5)
 - github: [https://github.com/MostafaGazar/tensorflow](https://github.com/MostafaGazar/tensorflow)
 
+**XNOR.ai frees AI from the prison of the supercomputer**
+
+- blog: [https://techcrunch.com/2017/01/19/xnor-ai-frees-ai-from-the-prison-of-the-supercomputer/](https://techcrunch.com/2017/01/19/xnor-ai-frees-ai-from-the-prison-of-the-supercomputer/)
+
 # Embedded Deep Learning
 
 **Embedded Deep Learning with NVIDIA Jetson**
@@ -1711,6 +1715,7 @@ It is based on Facebook's TorchCraft, which is a bridge between Torch and StarCr
 **Paying More Attention to Attention: Improving the Performance of Convolutional Neural Networks via Attention Transfer**
 
 - arxiv: [https://arxiv.org/abs/1612.03928](https://arxiv.org/abs/1612.03928)
+- github(PyTorch): [https://github.com/szagoruyko/attention-transfer](https://github.com/szagoruyko/attention-transfer)
 
 **Risk versus Uncertainty in Deep Learning: Bayes, Bootstrap and the Dangers of Dropout**
 

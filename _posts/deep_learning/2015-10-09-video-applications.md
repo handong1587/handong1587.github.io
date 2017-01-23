@@ -294,6 +294,11 @@ extract saptio-temporal features to represent the video using the CNNs."
 
 - arxiv: [https://arxiv.org/abs/1612.03052](https://arxiv.org/abs/1612.03052)
 
+**Higher-order Pooling of CNN Features via Kernel Linearization for Action Recognition**
+
+- intro: Australian Center for Robotic Vision & Data61/CSIRO
+- arxiv: [https://arxiv.org/abs/1701.05432](https://arxiv.org/abs/1701.05432)
+
 ### Projects
 
 **A Torch Library for Action Recognition and Detection Using CNNs and LSTMs**
@@ -325,6 +330,11 @@ extract saptio-temporal features to represent the video using the CNNs."
 
 - arxiv: [http://arxiv.org/abs/1609.00162](http://arxiv.org/abs/1609.00162)
 
+**AENet: Learning Deep Audio Features for Video Analysis**
+
+- arxiv: [https://arxiv.org/abs/1701.00599](https://arxiv.org/abs/1701.00599)
+- github: [https://github.com/znaoya/aenet](https://github.com/znaoya/aenet)
+
 # Event Detection
 
 **DevNet: A Deep Event Network for Multimedia Event Detection and Evidence Recounting**
@@ -341,6 +351,11 @@ extract saptio-temporal features to represent the video using the CNNs."
 - paper: [www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Ramanathan_Detecting_Events_and_CVPR_2016_paper.pdf](www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Ramanathan_Detecting_Events_and_CVPR_2016_paper.pdf)
 - paper: [http://vision.stanford.edu/pdf/johnson2016cvpr.pdf](http://vision.stanford.edu/pdf/johnson2016cvpr.pdf)
 - blog: [http://www.leiphone.com/news/201606/l1TKIRFLO3DUFNNu.html](http://www.leiphone.com/news/201606/l1TKIRFLO3DUFNNu.html)
+
+**Deep Convolutional Neural Networks and Data Augmentation for Acoustic Event Detection**
+
+- intro: INTERSPEECH 2016
+- arxiv: [https://arxiv.org/abs/1604.07160](https://arxiv.org/abs/1604.07160)
 
 **Efficient Action Detection in Untrimmed Videos via Multi-Task Learning**
 

@@ -487,6 +487,10 @@ date: 2015-10-09
 
 - blog: [https://pgaleone.eu/deep-learning/regularization/2017/01/10/anaysis-of-dropout/](https://pgaleone.eu/deep-learning/regularization/2017/01/10/anaysis-of-dropout/)
 
+**Variational Dropout Sparsifies Deep Neural Networks**
+
+- arxiv: [https://arxiv.org/abs/1701.05369](https://arxiv.org/abs/1701.05369)
+
 ## DropConnect
 
 **Regularization of Neural Networks using DropConnect**

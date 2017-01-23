@@ -392,6 +392,10 @@ based on decision tree algorithms, used for ranking, classification and many oth
 
 - blog: [http://arogozhnikov.github.io/2016/04/28/demonstrations-for-ml-courses.html](http://arogozhnikov.github.io/2016/04/28/demonstrations-for-ml-courses.html)
 
+**Comprehensive Guide on t-SNE algorithm with implementation in R & Python**
+
+[https://www.analyticsvidhya.com/blog/2017/01/t-sne-implementation-r-python/](https://www.analyticsvidhya.com/blog/2017/01/t-sne-implementation-r-python/)
+
 # Tricks
 
 **Machine Learning Trick of the Day**
@@ -713,6 +717,14 @@ Classic strategies:
 
 - intro: MIT master thesis
 - paper: [https://dspace.mit.edu/bitstream/handle/1721.1/105982/965785890-MIT.pdf](https://dspace.mit.edu/bitstream/handle/1721.1/105982/965785890-MIT.pdf)
+
+**Python Programming for Finance**
+
+- youtube: [https://www.youtube.com/playlist?list=PLQVvvaa0QuDcOdF96TBtRtuQksErCEBYZ](https://www.youtube.com/playlist?list=PLQVvvaa0QuDcOdF96TBtRtuQksErCEBYZ)
+
+**Algorithmic trading in less than 100 lines of Python code**
+
+[https://www.oreilly.com/learning/algorithmic-trading-in-less-than-100-lines-of-python-code](https://www.oreilly.com/learning/algorithmic-trading-in-less-than-100-lines-of-python-code)
 
 # Papers
 

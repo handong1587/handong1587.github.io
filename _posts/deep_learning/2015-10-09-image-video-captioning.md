@@ -89,6 +89,7 @@ after the embedding and recurrent layers of the RNN."
 - arxiv: [http://arxiv.org/abs/1502.03044](http://arxiv.org/abs/1502.03044)
 - github: [https://github.com/kelvinxu/arctic-captions](https://github.com/kelvinxu/arctic-captions)
 - github: [https://github.com/jazzsaxmafia/show_attend_and_tell.tensorflow](https://github.com/jazzsaxmafia/show_attend_and_tell.tensorflow)
+- github(TensorFlow): [https://github.com/yunjey/show-attend-and-tell-tensorflow](https://github.com/yunjey/show-attend-and-tell-tensorflow)
 - demo: [http://www.cs.toronto.edu/~rkiros/abstract_captions.html](http://www.cs.toronto.edu/~rkiros/abstract_captions.html)
 
 **Automatically describing historic photographs**

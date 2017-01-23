@@ -139,6 +139,7 @@ date: 2015-10-09
 **Unrolled Generative Adversarial Networks**
 
 - paper: [http://openreview.net/pdf?id=BydrOIcle](http://openreview.net/pdf?id=BydrOIcle)
+- github: [https://github.com/bstriner/keras-adversarial](https://github.com/bstriner/keras-adversarial)
 
 **Generative Adversarial Networks as Variational Training of Energy Based Models**
 

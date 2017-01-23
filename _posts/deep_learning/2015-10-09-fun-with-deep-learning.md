@@ -231,6 +231,10 @@ Compressed model is less than 500KB
 
 - arxiv: [https://arxiv.org/abs/1701.01036](https://arxiv.org/abs/1701.01036)
 
+**Son of Zorn's Lemma: Targeted Style Transfer Using Instance-aware Semantic Segmentation**
+
+- arxiv: [https://arxiv.org/abs/1701.02357](https://arxiv.org/abs/1701.02357)
+
 **Bringing Impressionism to Life with Neural Style Transfer in Come Swim**
 
 - intro: a case study of how Neural Style Transfer can be used in a movie production context

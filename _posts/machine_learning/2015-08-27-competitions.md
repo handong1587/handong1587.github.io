@@ -138,3 +138,7 @@ date: 2015-08-27
 
 - intro: U-Net
 - github: [https://github.com/jocicmarko/ultrasound-nerve-segmentation](https://github.com/jocicmarko/ultrasound-nerve-segmentation)
+
+**Nexar’s Deep Learning Challenge: the winners reveal their secrets**
+
+[https://blog.getnexar.com/nexars-deep-learning-challenge-the-winners-reveal-their-secrets-e80c24147f2d#.rdu2pdv7h](https://blog.getnexar.com/nexars-deep-learning-challenge-the-winners-reveal-their-secrets-e80c24147f2d#.rdu2pdv7h)

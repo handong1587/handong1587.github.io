@@ -130,10 +130,16 @@ date: 2015-10-09
 
 **Unsupervised Cross-Domain Image Generation**
 
+![](https://raw.githubusercontent.com/yunjey/dtn-tensorflow/master/jpg/dtn.jpg)
+
+- intro: Facebook AI Research. Domain Transfer Network (DTN)
 - arxiv: [https://arxiv.org/abs/1611.02200](https://arxiv.org/abs/1611.02200)
+- github(TensorFlow): [https://github.com/yunjey/dtn-tensorflow](https://github.com/yunjey/dtn-tensorflow)
 
 **PixelCNN++: A PixelCNN Implementation with Discretized Logistic Mixture Likelihood and Other Modifications**
 
+- intro: OpenAI
+- arxiv: [https://arxiv.org/abs/1701.05517](https://arxiv.org/abs/1701.05517)
 - paper: [http://openreview.net/pdf?id=BJrFC6ceg](http://openreview.net/pdf?id=BJrFC6ceg)
 - github: [https://github.com/openai/pixel-cnn](https://github.com/openai/pixel-cnn)
 
@@ -156,6 +162,10 @@ date: 2015-10-09
 **Image Generation and Editing with Variational Info Generative AdversarialNetworks**
 
 - arxiv: [https://arxiv.org/abs/1701.04568](https://arxiv.org/abs/1701.04568)
+
+**DeepFace: Face Generation using Deep Learning**
+
+- arxiv: [https://arxiv.org/abs/1701.01876](https://arxiv.org/abs/1701.01876)
 
 # Deep Generative Model
 

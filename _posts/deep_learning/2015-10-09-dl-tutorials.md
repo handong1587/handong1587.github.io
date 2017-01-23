@@ -721,6 +721,12 @@ Machine learning workflow, Extracting feaures from images (colours, edges, corne
 
 - blog: [http://www.heatonresearch.com/2017/01/01/tensorflow-windows-gpu.html](http://www.heatonresearch.com/2017/01/01/tensorflow-windows-gpu.html)
 
+**Tensorflow and deep learning - without a PhD**
+
+- youtube: [https://www.youtube.com/watch?v=vq2nnJ4g6N0](https://www.youtube.com/watch?v=vq2nnJ4g6N0)
+- mirror: [https://pan.baidu.com/s/1o8HF9R8](https://pan.baidu.com/s/1o8HF9R8)
+- blog: [https://codelabs.developers.google.com/codelabs/cloud-tensorflow-mnist/#0](https://codelabs.developers.google.com/codelabs/cloud-tensorflow-mnist/#0)
+
 # Keras
 
 **Keras tutorial**
@@ -743,6 +749,12 @@ Machine learning workflow, Extracting feaures from images (colours, edges, corne
 **Torch Developer Guide**
 
 - github: [https://github.com/Atcold/Torch-Developer-Guide](https://github.com/Atcold/Torch-Developer-Guide)
+
+# PyTorch
+
+**Practical PyTorch tutorials**
+
+- github: [https://github.com/spro/practical-pytorch](https://github.com/spro/practical-pytorch)
 
 # Building a System for Fun!
 
