@@ -449,6 +449,13 @@ Continuation of [arXiv:1608.08021](https://arxiv.org/abs/1608.08021)
 - arxiv: [https://arxiv.org/abs/1612.08242](https://arxiv.org/abs/1612.08242)
 - code: [http://pjreddie.com/yolo9000/](http://pjreddie.com/yolo9000/)
 
+## DSSD
+
+**DSSD : Deconvolutional Single Shot Detector**
+
+- intro: UNC Chapel Hill & Amazon Inc
+- arxiv: [https://arxiv.org/abs/1701.06659](https://arxiv.org/abs/1701.06659)
+
 # Detection From Video
 
 **Learning Object Class Detectors from Weakly Annotated Video**

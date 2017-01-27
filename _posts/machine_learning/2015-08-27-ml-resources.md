@@ -125,6 +125,10 @@ Other awesome lists can be found in this [list](https://github.com/sindresorhus/
 
 - blog: [https://arogozhnikov.github.io/2016/06/24/gradient_boosting_explained.html]()https://arogozhnikov.github.io/2016/06/24/gradient_boosting_explained.html
 
+**A Kaggle Master Explains Gradient Boosting**
+
+[http://blog.kaggle.com/2017/01/23/a-kaggle-master-explains-gradient-boosting/](http://blog.kaggle.com/2017/01/23/a-kaggle-master-explains-gradient-boosting/)
+
 ## XGBoost
 
 **XGBoost: A Scalable Tree Boosting System**

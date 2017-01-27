@@ -439,6 +439,16 @@ Incorporates dropout regularization and convolutional neural networks with a sep
 - intro: 1QB Information Technologies (1QBit)
 - arxiv: [https://arxiv.org/abs/1612.05695](https://arxiv.org/abs/1612.05695)
 
+**Deep Reinforcement Learning applied to the game Bubble Shooter**
+
+- bachelor thesis: [https://staff.fnwi.uva.nl/b.bredeweg/pdf/BSc/20152016/Samson.pdf](https://staff.fnwi.uva.nl/b.bredeweg/pdf/BSc/20152016/Samson.pdf)
+- github: [https://github.com/laurenssam/AlphaBubble](https://github.com/laurenssam/AlphaBubble)
+- demo: [https://www.youtube.com/watch?v=DPAKFenNgbs](https://www.youtube.com/watch?v=DPAKFenNgbs)
+
+**Deep Reinforcement Learning: An Overview**
+
+- arxiv: [https://arxiv.org/abs/1701.07274](https://arxiv.org/abs/1701.07274)
+
 ## Playing Doom
 
 **ViZDoom: A Doom-based AI Research Platform for Visual Reinforcement Learning**
@@ -811,6 +821,10 @@ The project is dedicated to hero in life great Jesse Livermore.
 **Reinforcement Learning: Artificial Intelligence in Game Playing**
 
 [https://medium.com/@pavelkordik/reinforcement-learning-the-hardest-part-of-machine-learning-b667a22995ca#.jjiitflok](https://medium.com/@pavelkordik/reinforcement-learning-the-hardest-part-of-machine-learning-b667a22995ca#.jjiitflok)
+
+**Artificial Intelligence’s Next Big Step: Reinforcement Learning**
+
+[http://thenewstack.io/reinforcement-learning-ready-real-world/](http://thenewstack.io/reinforcement-learning-ready-real-world/)
 
 ## Let’s make a DQN
 

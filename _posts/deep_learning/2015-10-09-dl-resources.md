@@ -416,6 +416,11 @@ not just the convolutions)
 - intro: Regional Latent Semantic Dependencies model (RLSD), RNN, RPN
 - arxiv: [https://arxiv.org/abs/1612.01082](https://arxiv.org/abs/1612.01082)
 
+**Privileged Multi-label Learning**
+
+- intro: Peking University & University of Technology Sydney & University of Sydney
+- arxiv: [https://arxiv.org/abs/1701.07194](https://arxiv.org/abs/1701.07194)
+
 # Multi-task Learning
 
 **Multitask Learning / Domain Adaptation**
@@ -1135,6 +1140,11 @@ with fast exact probabilistic inference over many layers."
 - intro: City University of Hong Kong & Hong Kong University of Science and Technology
 - arxiv: [https://arxiv.org/abs/1612.07139](https://arxiv.org/abs/1612.07139)
 
+**Deep Robotic Learning**
+
+- intro: [https://simons.berkeley.edu/talks/sergey-levine-01-24-2017-1](https://simons.berkeley.edu/talks/sergey-levine-01-24-2017-1)
+- youtube: [https://www.youtube.com/watch?v=jtjW5Pye_44](https://www.youtube.com/watch?v=jtjW5Pye_44)
+
 # Deep Learning on Mobile Devices
 
 **Convolutional neural networks on the iPhone with VGGNet**
@@ -1375,6 +1385,15 @@ It is based on Facebook's TorchCraft, which is a bridge between Torch and StarCr
 **Generating Focussed Molecule Libraries for Drug Discovery with Recurrent Neural Networks**
 
 - arxiv: [https://arxiv.org/abs/1701.01329](https://arxiv.org/abs/1701.01329)
+
+**Deep Learning Applications in Medical Imaging**
+
+- blog: [http://techemergence.com/deep-learning-medical-applications/](http://techemergence.com/deep-learning-medical-applications/)
+
+**Dermatologist-level classification of skin cancer with deep neural networks**
+
+- intro: Stanford University. Nature 2017
+- paper: [http://www.nature.com/nature/journal/vaop/ncurrent/pdf/nature21056.pdf](http://www.nature.com/nature/journal/vaop/ncurrent/pdf/nature21056.pdf)
 
 # Deep Learning in Fashion
 
@@ -1670,6 +1689,7 @@ It is based on Facebook's TorchCraft, which is a bridge between Torch and StarCr
 
 - intro: MIT & Google Brain & UC Berkeley & Google DeepMind
 - arxiv: [https://arxiv.org/abs/1611.03530](https://arxiv.org/abs/1611.03530)
+- notes: [https://theneuralperspective.com/2017/01/24/understanding-deep-learning-requires-rethinking-generalization/](https://theneuralperspective.com/2017/01/24/understanding-deep-learning-requires-rethinking-generalization/)
 
 **Local minima in training of deep networks**
 
@@ -1721,6 +1741,17 @@ It is based on Facebook's TorchCraft, which is a bridge between Torch and StarCr
 
 - intro: Google Deepmind
 - paper: [http://bayesiandeeplearning.org/papers/BDL_4.pdf](http://bayesiandeeplearning.org/papers/BDL_4.pdf)
+
+**Outrageously Large Neural Networks: The Sparsely-Gated Mixture-of-Experts Layer**
+
+- intro: Google Brain & Jagiellonian University
+- arxiv: [https://arxiv.org/abs/1701.06538](https://arxiv.org/abs/1701.06538)
+- reddit: [https://www.reddit.com/r/MachineLearning/comments/5pud72/research_outrageously_large_neural_networks_the/](https://www.reddit.com/r/MachineLearning/comments/5pud72/research_outrageously_large_neural_networks_the/)
+
+**Deep Network Guided Proof Search**
+
+- intro: Google Research & University of Innsbruck
+- arxiv: [https://arxiv.org/abs/1701.06972](https://arxiv.org/abs/1701.06972)
 
 ## Separable Convolutions
 

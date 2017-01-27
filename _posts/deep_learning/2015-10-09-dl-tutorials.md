@@ -666,6 +666,27 @@ Machine learning workflow, Extracting feaures from images (colours, edges, corne
 
 [https://medium.com/@alexrachnog/using-caffe-with-your-own-dataset-b0ade5d71233](https://medium.com/@alexrachnog/using-caffe-with-your-own-dataset-b0ade5d71233)
 
+**OpenCV 3.0.0-dev: Load Caffe framework models**
+
+[http://docs.opencv.org/master/d5/de7/tutorial_dnn_googlenet.html#gsc.tab=0](http://docs.opencv.org/master/d5/de7/tutorial_dnn_googlenet.html#gsc.tab=0)
+
+# Keras
+
+**Keras tutorial**
+
+- intro: Tutorial teaching the basics of Keras and some deep learning concepts
+- github: [https://github.com/jfsantos/keras-tutorial](https://github.com/jfsantos/keras-tutorial)
+
+**Keras Tutorial: The Ultimate Beginner's Guide to Deep Learning in Python**
+
+[https://elitedatascience.com/keras-tutorial-deep-learning-in-python](https://elitedatascience.com/keras-tutorial-deep-learning-in-python)
+
+**Transfer Learning and Fine Tuning for Cross Domain Image Classification with Keras**
+
+- slides: [http://www.slideshare.net/sujitpal/transfer-learning-and-fine-tuning-for-cross-domain-image-classification-with-keras](http://www.slideshare.net/sujitpal/transfer-learning-and-fine-tuning-for-cross-domain-image-classification-with-keras)
+- mirror: [https://pan.baidu.com/s/1gfn1xuj](https://pan.baidu.com/s/1gfn1xuj)
+- github: [https://github.com/sujitpal/fttl-with-keras](https://github.com/sujitpal/fttl-with-keras)
+
 # Theano
 
 **Theano Tutorial @ LTI, Carnegie Mellon University**
@@ -727,22 +748,9 @@ Machine learning workflow, Extracting feaures from images (colours, edges, corne
 - mirror: [https://pan.baidu.com/s/1o8HF9R8](https://pan.baidu.com/s/1o8HF9R8)
 - blog: [https://codelabs.developers.google.com/codelabs/cloud-tensorflow-mnist/#0](https://codelabs.developers.google.com/codelabs/cloud-tensorflow-mnist/#0)
 
-# Keras
+**4 Steps To Learn TensorFlow When You Already Know scikit-learn**
 
-**Keras tutorial**
-
-- intro: Tutorial teaching the basics of Keras and some deep learning concepts
-- github: [https://github.com/jfsantos/keras-tutorial](https://github.com/jfsantos/keras-tutorial)
-
-**Keras Tutorial: The Ultimate Beginner's Guide to Deep Learning in Python**
-
-[https://elitedatascience.com/keras-tutorial-deep-learning-in-python](https://elitedatascience.com/keras-tutorial-deep-learning-in-python)
-
-**Transfer Learning and Fine Tuning for Cross Domain Image Classification with Keras**
-
-- slides: [http://www.slideshare.net/sujitpal/transfer-learning-and-fine-tuning-for-cross-domain-image-classification-with-keras](http://www.slideshare.net/sujitpal/transfer-learning-and-fine-tuning-for-cross-domain-image-classification-with-keras)
-- mirror: [https://pan.baidu.com/s/1gfn1xuj](https://pan.baidu.com/s/1gfn1xuj)
-- github: [https://github.com/sujitpal/fttl-with-keras](https://github.com/sujitpal/fttl-with-keras)
+[https://medium.com/@Zelros/4-steps-to-learn-tensorflow-when-you-already-know-scikit-learn-3cd0340456b5#.q206au7u9](https://medium.com/@Zelros/4-steps-to-learn-tensorflow-when-you-already-know-scikit-learn-3cd0340456b5#.q206au7u9)
 
 # Torch
 

@@ -54,8 +54,6 @@ for building Deep Learning (DL) machine learning (ML) models
 - caffe-doc: [http://caffe.berkeleyvision.org/doxygen/index.html](http://caffe.berkeleyvision.org/doxygen/index.html)
 - tutorials("CAFFE with CUDA"): [http://pan.baidu.com/s/1i4kmpyH](http://pan.baidu.com/s/1i4kmpyH)
 
-## Caffe on both Linux and Windows
-
 **Caffe on both Linux and Windows**
 
 - github: [https://github.com/Microsoft/caffe](https://github.com/Microsoft/caffe)
@@ -81,18 +79,10 @@ for building Deep Learning (DL) machine learning (ML) models
 
 - homepage: [http://tutorial.caffe.berkeleyvision.org/](http://tutorial.caffe.berkeleyvision.org/)
 
-**OpenCV 3.0.0-dev: Load Caffe framework models**
-
-[http://docs.opencv.org/master/d5/de7/tutorial_dnn_googlenet.html#gsc.tab=0](http://docs.opencv.org/master/d5/de7/tutorial_dnn_googlenet.html#gsc.tab=0)
-
-## Caffe.js
-
 **Caffe.js: Run Caffe models in the browser using ConvNetJS**
 
 - github: [https://github.com/chaosmail/caffejs/](https://github.com/chaosmail/caffejs/)
 - demo: [http://chaosmail.github.io/caffejs/models.html](http://chaosmail.github.io/caffejs/models.html)
-
-## Intel Caffe
 
 **Intel Caffe**
 
@@ -495,7 +485,6 @@ It is an experimental refactoring of Caffe, and allows a more flexible way to or
 **TensorFlow**
 
 - website: [http://tensorflow.org/](http://tensorflow.org/)
-- whitepaper: [http://download.tensorflow.org/paper/whitepaper2015.pdf](http://download.tensorflow.org/paper/whitepaper2015.pdf)
 - github: [https://github.com/tensorflow/tensorflow](https://github.com/tensorflow/tensorflow)
 - github: [https://github.com/tensorflow/tensorflow/tree/master/tensorflow/core/distributed_runtime](https://github.com/tensorflow/tensorflow/tree/master/tensorflow/core/distributed_runtime)
 - tutorial: [http://tensorflow.org/tutorials](http://tensorflow.org/tutorials)
@@ -517,6 +506,7 @@ It is an experimental refactoring of Caffe, and allows a more flexible way to or
 
 **Installing TensorFlow on Raspberry Pi 3 (and probably 2 as well)**
 
+- intro: TensorFlow for Raspberry Pi
 - github: [https://github.com/samjabrahams/tensorflow-on-raspberry-pi](https://github.com/samjabrahams/tensorflow-on-raspberry-pi)
 
 **TFLearn: Deep learning library featuring a higher-level API for TensorFlow**
@@ -541,8 +531,6 @@ It is an experimental refactoring of Caffe, and allows a more flexible way to or
 
 - slides: [https://wookayin.github.io/TensorflowKR-2016-talk-debugging](https://wookayin.github.io/TensorflowKR-2016-talk-debugging)
 - github: [https://github.com/wookayin/TensorflowKR-2016-talk-debugging](https://github.com/wookayin/TensorflowKR-2016-talk-debugging)
-
-## TensorFlow.jl
 
 **TensorFlow.jl: A Julia wrapper for the TensorFlow Python library**
 
@@ -587,6 +575,7 @@ Implementations and ideas are largely based on papers from arxiv and implementat
 **TensorFlow: Large-Scale Machine Learning on Heterogeneous Distributed Systems**
 
 - arxiv: [http://arxiv.org/abs/1603.04467](http://arxiv.org/abs/1603.04467)
+- whitepaper: [http://download.tensorflow.org/paper/whitepaper2015.pdf](http://download.tensorflow.org/paper/whitepaper2015.pdf)
 
 **TensorFlow: A system for large-scale machine learning**
 

@@ -7,6 +7,10 @@ date: 2016-12-06
 
 # NIPS 2016
 
+**NIPS 2016 Schedule**
+
+[https://nips.cc/Conferences/2016/Schedule](https://nips.cc/Conferences/2016/Schedule)
+
 **DeepMind Papers @ NIPS (Part 1)**
 
 [https://deepmind.com/blog/deepmind-papers-nips-part-1/](https://deepmind.com/blog/deepmind-papers-nips-part-1/)

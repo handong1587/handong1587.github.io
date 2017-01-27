@@ -38,6 +38,11 @@ date: 2015-08-27
 
 - blog: [http://www.hankcs.com/ml/crf-code-analysis.html](http://www.hankcs.com/ml/crf-code-analysis.html)
 
+**Learning Arbitrary Potentials in CRFs with Gradient Descent**
+
+- intro: Chalmers Univ. of Technology & Oxford Univ & Australian National Univ.
+- arxiv: [https://arxiv.org/abs/1701.06805](https://arxiv.org/abs/1701.06805)
+
 # Gibbs Random Field
 
 # Gaussian Random Field

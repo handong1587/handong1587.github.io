@@ -363,6 +363,11 @@ facial action unit recognition, and eye-gaze estimation.
 
 - arxiv: [https://arxiv.org/abs/1612.06543](https://arxiv.org/abs/1612.06543)
 
+**Food Classification with Deep Learning in Keras / Tensorflow**
+
+- blog: [http://blog.stratospark.com/deep-learning-applied-food-classification-deep-learning-keras.html](http://blog.stratospark.com/deep-learning-applied-food-classification-deep-learning-keras.html)
+- github: [https://github.com/stratospark/food-101-keras](https://github.com/stratospark/food-101-keras)
+
 ### Instrument Recognition
 
 **Automatic Instrument Recognition in Polyphonic Music Using Convolutional Neural Networks**

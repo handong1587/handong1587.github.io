@@ -141,3 +141,7 @@ date: 2015-10-09
 **GPU Acceleration in Databricks: Speeding Up Deep Learning on Apache Spark**
 
 [https://databricks.com/blog/2016/10/27/gpu-acceleration-in-databricks.html](https://databricks.com/blog/2016/10/27/gpu-acceleration-in-databricks.html)
+
+**Distributed Deep Learning with Apache Spark and Keras**
+
+[https://db-blog.web.cern.ch/blog/joeri-hermans/2017-01-distributed-deep-learning-apache-spark-and-keras](https://db-blog.web.cern.ch/blog/joeri-hermans/2017-01-distributed-deep-learning-apache-spark-and-keras)

@@ -249,6 +249,7 @@ date: 2015-10-09
 
 - intro: ICML 2016
 - arxiv: [https://arxiv.org/abs/1612.02295](https://arxiv.org/abs/1612.02295)
+- github(Official. Caffe): [https://github.com/wy1iu/LargeMargin_Softmax_Loss](https://github.com/wy1iu/LargeMargin_Softmax_Loss)
 - github(MXNet): [https://github.com/luoyetx/mx-lsoftmax](https://github.com/luoyetx/mx-lsoftmax)
 
 # Learning Rate
@@ -742,6 +743,7 @@ date: 2015-10-09
 
 - arxiv: [https://arxiv.org/abs/1505.07818](https://arxiv.org/abs/1505.07818)
 - paper: [http://jmlr.org/papers/v17/15-239.html](http://jmlr.org/papers/v17/15-239.html)
+- github: [https://github.com/pumpikano/tf-dann](https://github.com/pumpikano/tf-dann)
 
 **Scalable and Sustainable Deep Learning via Randomized Hashing**
 

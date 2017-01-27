@@ -657,6 +657,13 @@ ranked 1st place in ImageNet Scene Parsing Challenge 2016
 - arxiv: [https://arxiv.org/abs/1701.05384](https://arxiv.org/abs/1701.05384)
 - github: [https://github.com/suyogduttjain/fusionseg](https://github.com/suyogduttjain/fusionseg)
 
+# Projects
+
+**TF Image Segmentation: Image Segmentation framework**
+
+- intro: Image Segmentation framework based on Tensorflow and TF-Slim library
+- github: [https://github.com/warmspringwinds/tf-image-segmentation](https://github.com/warmspringwinds/tf-image-segmentation)
+
 # Leaderboard
 
 **Segmentation Results: VOC2012 BETA: Competition "comp6" (train on own data)**
@@ -676,6 +683,11 @@ ranked 1st place in ImageNet Scene Parsing Challenge 2016
 **Image Segmentation with Tensorflow using CNNs and Conditional Random Fields**
 
 [http://warmspringwinds.github.io/tensorflow/tf-slim/2016/12/18/image-segmentation-with-tensorflow-using-cnns-and-conditional-random-fields/](http://warmspringwinds.github.io/tensorflow/tf-slim/2016/12/18/image-segmentation-with-tensorflow-using-cnns-and-conditional-random-fields/)
+
+**Fully Convolutional Networks (FCNs) for Image Segmentation**
+
+- blog: [http://warmspringwinds.github.io/tensorflow/tf-slim/2017/01/23/fully-convolutional-networks-(fcns)-for-image-segmentation/](http://warmspringwinds.github.io/tensorflow/tf-slim/2017/01/23/fully-convolutional-networks-(fcns)-for-image-segmentation/)
+- ipn: [https://github.com/warmspringwinds/tensorflow_notes/blob/master/fully_convolutional_networks.ipynb](https://github.com/warmspringwinds/tensorflow_notes/blob/master/fully_convolutional_networks.ipynb)
 
 # Talks
 
