@@ -918,3 +918,7 @@ It is suitable for deep learning on limited computational resource, embedded sys
 **The Anatomy of Deep Learning Frameworks**
 
 [https://medium.com/@gokul_uf/the-anatomy-of-deep-learning-frameworks-46e2a7af5e47](https://medium.com/@gokul_uf/the-anatomy-of-deep-learning-frameworks-46e2a7af5e47)
+
+**Python Deep Learning Frameworks Reviewed**
+
+[https://indico.io/blog/python-deep-learning-frameworks-reviewed/](https://indico.io/blog/python-deep-learning-frameworks-reviewed/)

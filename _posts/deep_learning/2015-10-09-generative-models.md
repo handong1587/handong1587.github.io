@@ -173,6 +173,11 @@ date: 2015-10-09
 - github: [https://github.com/awjuliani/Pix2Pix-Film](https://github.com/awjuliani/Pix2Pix-Film)
 - model: [https://drive.google.com/file/d/0B8x0IeJAaBccNFVQMkQ0QW15TjQ/view](https://drive.google.com/file/d/0B8x0IeJAaBccNFVQMkQ0QW15TjQ/view)
 
+**Image-to-Image Translation in Tensorflow**
+
+- blog: [http://affinelayer.com/pix2pix/index.html](http://affinelayer.com/pix2pix/index.html)
+- github: [https://github.com/affinelayer/pix2pix-tensorflow](https://github.com/affinelayer/<pix2pix-tensorflow></pix2pix-tensorflow>)
+
 **ml4a-invisible-cities**
 
 - project page: [https://opendot.github.io/ml4a-invisible-cities/](https://opendot.github.io/ml4a-invisible-cities/)
@@ -239,6 +244,13 @@ date: 2015-10-09
 
 - intro: Courant Institute of Mathematical Sciences & Facebook AI Research
 - arxiv: [https://arxiv.org/abs/1701.04862](https://arxiv.org/abs/1701.04862)
+
+**Wasserstein GAN**
+
+- intro: Courant Institute of Mathematical Sciences & Facebook AI Research
+- arxiv: [https://arxiv.org/abs/1701.07875](https://arxiv.org/abs/1701.07875)
+- github: [https://github.com/martinarjovsky/WassersteinGAN](https://github.com/martinarjovsky/WassersteinGAN)
+- gist: [https://gist.github.com/soumith/71995cecc5b99cda38106ad64503cee3](https://gist.github.com/soumith/71995cecc5b99cda38106ad64503cee3)
 
 # Projects
 

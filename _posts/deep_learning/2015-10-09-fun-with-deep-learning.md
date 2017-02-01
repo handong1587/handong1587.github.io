@@ -497,6 +497,11 @@ Compressed model is less than 500KB
 
 - blog: [https://www.analyticsvidhya.com/blog/2016/11/creating-an-artificial-artist-color-your-photos-using-neural-networks/](https://www.analyticsvidhya.com/blog/2016/11/creating-an-artificial-artist-color-your-photos-using-neural-networks/)
 
+**Paints Chainer: line drawing colorization using chainer**
+
+- github: [https://github.com/pfnet/PaintsChainer](https://github.com/pfnet/PaintsChainer)
+- demo: [http://paintschainer.preferred.tech/](http://paintschainer.preferred.tech/)
+
 ## Photo Editing
 
 **Neural Photo Editing with Introspective Adversarial Networks**

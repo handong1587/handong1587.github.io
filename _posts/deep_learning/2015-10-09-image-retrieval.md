@@ -249,6 +249,11 @@ date: 2015-10-09
 
 - arxiv: [https://arxiv.org/abs/1701.05003](https://arxiv.org/abs/1701.05003)
 
+**Deep Region Hashing for Efficient Large-scale Instance Search from Images**
+
+- intro: Columbia University & University of Electronic Science and Technology of China
+- arxiv: [https://arxiv.org/abs/1701.07901](https://arxiv.org/abs/1701.07901)
+
 # Video Indexing / Retrieval
 
 **Face Video Retrieval via Deep Learning of Binary Hash Representations**

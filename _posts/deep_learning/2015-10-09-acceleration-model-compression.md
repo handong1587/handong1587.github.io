@@ -186,6 +186,7 @@ to decompose it into the multiplications of thinned dense matrices"
 - note: [https://www.evernote.com/shard/s146/sh/108eea91-349b-48ba-b7eb-7ac8f548bee9/5171dc6b1088fba05a4e317f7f5d32a3](https://www.evernote.com/shard/s146/sh/108eea91-349b-48ba-b7eb-7ac8f548bee9/5171dc6b1088fba05a4e317f7f5d32a3)
 - github(Keras): [https://github.com/DT42/squeezenet_demo](https://github.com/DT42/squeezenet_demo)
 - github(Keras): [https://github.com/rcmalli/keras-squeezenet](https://github.com/rcmalli/keras-squeezenet)
+- github(PyTorch): [https://github.com/gsp-27/pytorch_Squeezenet](https://github.com/gsp-27/pytorch_Squeezenet)
 
 **SqueezeNet-Residual**
 

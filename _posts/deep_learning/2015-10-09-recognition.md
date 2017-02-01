@@ -162,6 +162,12 @@ date: 2015-10-09
 
 - paper: [www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Masi_Pose-Aware_Face_Recognition_CVPR_2016_paper.pdf](www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Masi_Pose-Aware_Face_Recognition_CVPR_2016_paper.pdf)
 
+**Triplet Probabilistic Embedding for Face Verification and Clustering**
+
+- intro: Oral Paper in BTAS 2016; NVIDIA Best paper Award
+- arxiv: [https://arxiv.org/abs/1604.05417](https://arxiv.org/abs/1604.05417)
+- github(Keras): [https://github.com/meownoid/face-identification-tpe](https://github.com/meownoid/face-identification-tpe)
+
 **Recurrent Regression for Face Recognition**
 
 - arxiv: [http://arxiv.org/abs/1607.06999](http://arxiv.org/abs/1607.06999)
@@ -206,6 +212,11 @@ date: 2015-10-09
 
 - intro: TPAMI 2016. CNN+RBM
 - paper: [http://www.ee.cuhk.edu.hk/~xgwang/papers/sunWTpami16.pdf](http://www.ee.cuhk.edu.hk/~xgwang/papers/sunWTpami16.pdf)
+
+**Towards End-to-End Face Recognition through Alignment Learning**
+
+- intro: Tsinghua University
+- arxiv: [https://arxiv.org/abs/1701.07174](https://arxiv.org/abs/1701.07174)
 
 ### Projects
 

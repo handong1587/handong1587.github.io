@@ -223,6 +223,7 @@ not just the convolutions)
 - intro: Workshop track - ICLR 2016. 3.08 % top-5 error on ImageNet CLS
 - intro: "achieve 3.08% top-5 error on the test set of the ImageNet classification (CLS) challenge"
 - arxiv: [http://arxiv.org/abs/1602.07261](http://arxiv.org/abs/1602.07261)
+- github(Keras): [https://github.com/kentsommer/keras-inceptionV4](https://github.com/kentsommer/keras-inceptionV4)
 
 **The inception-resnet-v2 models trained from scratch via torch**
 
@@ -681,10 +682,6 @@ not just the convolutions)
 
 - arxiv: [http://arxiv.org/abs/1502.06464](http://arxiv.org/abs/1502.06464)
 - github: [https://github.com/untom/librfn](https://github.com/untom/librfn)
-
-**FlowNet: Learning Optical Flow with Convolutional Networks**
-
-- arxiv: [http://arxiv.org/abs/1504.06852](http://arxiv.org/abs/1504.06852)
 
 **Correlational Neural Networks**
 
@@ -1753,6 +1750,11 @@ It is based on Facebook's TorchCraft, which is a bridge between Torch and StarCr
 - intro: Google Research & University of Innsbruck
 - arxiv: [https://arxiv.org/abs/1701.06972](https://arxiv.org/abs/1701.06972)
 
+**Neural Architecture Search with Reinforcement Learning**
+
+- intro: Google Brain
+- paper: [https://openreview.net/pdf?id=r1Ue8Hcxg](https://openreview.net/pdf?id=r1Ue8Hcxg)
+
 ## Separable Convolutions
 
 **Deep Learning with Separable Convolutions**
@@ -1806,6 +1808,12 @@ It is based on Facebook's TorchCraft, which is a bridge between Torch and StarCr
 
 ## One Shot Learning
 
+**One-shot Learning with Memory-Augmented Neural Networks**
+
+- intro: Google DeepMind
+- arxiv: [https://arxiv.org/abs/1605.06065](https://arxiv.org/abs/1605.06065)
+- github(Tensorflow): [https://github.com/hmishra2250/NTM-One-Shot-TF](https://github.com/hmishra2250/NTM-One-Shot-TF)
+
 **Matching Networks for One Shot Learning**
 
 - intro: Google DeepMind
@@ -1857,6 +1865,8 @@ It is based on Facebook's TorchCraft, which is a bridge between Torch and StarCr
 - intro: "competitive accuracy at frame rates of 5 to 10 fps"
 - project page: [http://lmb.informatik.uni-freiburg.de/Publications/2015/DFIB15/](http://lmb.informatik.uni-freiburg.de/Publications/2015/DFIB15/)
 - arxiv: [https://arxiv.org/abs/1504.06852](https://arxiv.org/abs/1504.06852)
+- github(Torch): [https://github.com/ClementPinard/FlowNetTorch](https://github.com/ClementPinard/FlowNetTorch)
+- github(Pytorch): [https://github.com/ClementPinard/FlowNetPytorch](https://github.com/ClementPinard/FlowNetPytorch)
 
 **FlowNet 2.0: Evolution of Optical Flow Estimation with Deep Networks**
 

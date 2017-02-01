@@ -60,6 +60,12 @@ date: 2015-10-09
 
 [https://www.analyticsvidhya.com/blog/2017/01/introduction-to-reinforcement-learning-implementation/](https://www.analyticsvidhya.com/blog/2017/01/introduction-to-reinforcement-learning-implementation/)
 
+**Reinforcement Learning on the Web**
+
+- intro: Andrej Karpathy
+- slides: [https://docs.google.com/presentation/d/1lcYrN56V2_SuX1rSmpzOUeMnheF6Jsu33-MsvLW9O_4/edit#slide=id.p](https://docs.google.com/presentation/d/1lcYrN56V2_SuX1rSmpzOUeMnheF6Jsu33-MsvLW9O_4/edit#slide=id.p)
+- slides: [http://alpha.openai.com/ak_rework_2017.pdf](http://alpha.openai.com/ak_rework_2017.pdf)
+
 ## Simple Reinforcement Learning with Tensorflow
 
 **Part 0: Q-Learning with Tables and Neural Networks**
@@ -693,6 +699,12 @@ The project is dedicated to hero in life great Jesse Livermore.
 
 - intro: A lightweight library to build and train deep reinforcement learning and custom recurrent networks using Theano+Lasagne 
 - github: [https://github.com/yandexdataschool/AgentNet](https://github.com/yandexdataschool/AgentNet)
+
+**Atari Multitask & Transfer Learning Benchmark (AMTLB)**
+
+- intro: Atari gauntlet for RL agents
+- project page: [http://ai-on.org/projects/multitask-and-transfer-learning.html](http://ai-on.org/projects/multitask-and-transfer-learning.html)
+- github: [https://github.com/deontologician/atari_multitask](https://github.com/deontologician/atari_multitask)
 
 # Blogs
 

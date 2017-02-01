@@ -119,3 +119,8 @@ We aim to inspire a new generation of research into challenging new problems pre
 
 - blog: [http://blog.digitalmind.io/post/artificial-intelligence-resources](http://blog.digitalmind.io/post/artificial-intelligence-resources)
 - blog: [https://medium.com/digitalmind/artificial-intelligence-resources-f4efeac949b4#.w4tu89t79](https://medium.com/digitalmind/artificial-intelligence-resources-f4efeac949b4#.w4tu89t79)
+
+**WHAT-AI-CAN-DO-FOR-YOU**
+
+- intro: Breakthrough AI Papers and CODE for Any Industry.
+- github: [https://github.com/ceobillionaire/WHAT-AI-CAN-DO-FOR-YOU](https://github.com/ceobillionaire/WHAT-AI-CAN-DO-FOR-YOU)

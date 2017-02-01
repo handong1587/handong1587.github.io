@@ -45,6 +45,10 @@ date: 2016-06-02
 
 [http://www.kdnuggets.com/2016/10/5-free-ebooks-machine-learning-career.html](http://www.kdnuggets.com/2016/10/5-free-ebooks-machine-learning-career.html)
 
+**45 Questions to test a data scientist on basics of Deep Learning (along with solution)**
+
+- github: [https://www.analyticsvidhya.com/blog/2017/01/must-know-questions-deep-learning/](https://www.analyticsvidhya.com/blog/2017/01/must-know-questions-deep-learning/)
+
 # Data Science
 
 **21 Must-Know Data Science Interview Questions and Answers**

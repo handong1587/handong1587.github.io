@@ -740,6 +740,11 @@ This task involves predicting the salient regions of an image given by human eye
 - github: [https://github.com/DaFuCoding/MTCNN_Caffe](https://github.com/DaFuCoding/MTCNN_Caffe)
 - github(MXNet): [https://github.com/Seanlinx/mtcnn](https://github.com/Seanlinx/mtcnn)
 
+**Face Detection using Deep Learning: An Improved Faster RCNN Approach**
+
+- intro: DeepIR Inc
+- arxiv: [https://arxiv.org/abs/1701.08289](https://arxiv.org/abs/1701.08289)
+
 ### Datasets / Benchmarks
 
 **FDDB: Face Detection Data Set and Benchmark**

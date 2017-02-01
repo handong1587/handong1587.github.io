@@ -116,6 +116,16 @@ date: 2015-08-27
 - homepage: [http://edwardlib.org/](http://edwardlib.org/)
 - zoo: [http://edwardlib.org/zoo](http://edwardlib.org/zoo)
 
+**The Algorithms Behind Probabilistic Programming**
+
+[http://blog.fastforwardlabs.com/2017/01/30/the-algorithms-behind-probabilistic-programming.html](http://blog.fastforwardlabs.com/2017/01/30/the-algorithms-behind-probabilistic-programming.html)
+
+**Edward: A library for probabilistic modeling, inference, and criticism.**
+
+- intro: A library for probabilistic modeling, inference, and criticism. Deep generative models, variational inference. Runs on TensorFlow.
+- homepage: [http://edwardlib.org/](http://edwardlib.org/)
+- github: [https://github.com/blei-lab/edward](https://github.com/blei-lab/edward)
+
 # Books
 
 **Probabilistic Programming & Bayesian Methods for Hackers**
