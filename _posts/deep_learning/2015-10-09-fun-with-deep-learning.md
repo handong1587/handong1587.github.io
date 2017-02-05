@@ -241,6 +241,10 @@ Compressed model is less than 500KB
 - keywords: Kristen Stewart !
 - arxiv: [https://arxiv.org/abs/1701.04928](https://arxiv.org/abs/1701.04928)
 
+**Pytorch tutorials for Neural Style transfert**
+
+- github: [https://github.com/alexis-jacq/Pytorch-Tutorials](https://github.com/alexis-jacq/Pytorch-Tutorials)
+
 ## Neural Art On Audio
 
 **MSc AI Project on generative deep networks and neural style transfer for audio**
@@ -735,6 +739,11 @@ Compressed model is less than 500KB
 ![](http://int8.io/wp-content/uploads/2016/04/easiest_white_correct.png)
 
 - blog: [http://int8.io/chess-position-evaluation-with-convolutional-neural-networks-in-julia/](http://int8.io/chess-position-evaluation-with-convolutional-neural-networks-in-julia/)
+
+**Deep Learning for ... Chess**
+
+- blog: [http://blog.yhat.com/posts/deep-learning-chess.html](http://blog.yhat.com/posts/deep-learning-chess.html)
+- github: [https://github.com/erikbern/deep-pink](https://github.com/erikbern/deep-pink)
 
 # Game
 

@@ -513,6 +513,10 @@ not just the convolutions)
 
 - arxiv: [https://arxiv.org/abs/1612.01225](https://arxiv.org/abs/1612.01225)
 
+**Multimodal Deep Learning (D4L4 Deep Learning for Speech and Language UPC 2017)**
+
+- slides: [http://www.slideshare.net/xavigiro/multimodal-deep-learning-d4l4-deep-learning-for-speech-and-language-upc-2017](http://www.slideshare.net/xavigiro/multimodal-deep-learning-d4l4-deep-learning-for-speech-and-language-upc-2017)
+
 # Metric Learning
 
 **Learnable Structured Clustering Framework for Deep Metric Learning**
@@ -1754,6 +1758,12 @@ It is based on Facebook's TorchCraft, which is a bridge between Torch and StarCr
 
 - intro: Google Brain
 - paper: [https://openreview.net/pdf?id=r1Ue8Hcxg](https://openreview.net/pdf?id=r1Ue8Hcxg)
+
+**PathNet: Evolution Channels Gradient Descent in Super Neural Networks**
+
+- intro: Google DeepMind & Google Brain
+- arxiv: [https://arxiv.org/abs/1701.08734](https://arxiv.org/abs/1701.08734)
+- notes: [https://medium.com/intuitionmachine/pathnet-a-modular-deep-learning-architecture-for-agi-5302fcf53273#.8f0o6w3en](https://medium.com/intuitionmachine/pathnet-a-modular-deep-learning-architecture-for-agi-5302fcf53273#.8f0o6w3en)
 
 ## Separable Convolutions
 

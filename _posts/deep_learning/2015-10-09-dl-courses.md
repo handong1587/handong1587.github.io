@@ -112,6 +112,10 @@ date: 2015-10-09
 - homepage: [http://web.stanford.edu/class/cs20si/](http://web.stanford.edu/class/cs20si/)
 - github: [https://github.com/chiphuyen/tf-stanford-tutorials](https://github.com/chiphuyen/tf-stanford-tutorials)
 
+**6.S191: Introduction to Deep Learning**
+
+[http://introtodeeplearning.com/index.html](http://introtodeeplearning.com/index.html)
+
 ## With Video Lectures
 
 **Deep Learning: Taking machine learning to the next level (Udacity)**

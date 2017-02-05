@@ -102,6 +102,13 @@ date: 2015-10-09
 - blog: [https://medium.com/emergent-future/simple-reinforcement-learning-with-tensorflow-part-7-action-selection-strategies-for-exploration-d3a97b7cceaf#.8mcaa5nbe](https://medium.com/emergent-future/simple-reinforcement-learning-with-tensorflow-part-7-action-selection-strategies-for-exploration-d3a97b7cceaf#.8mcaa5nbe)
 - demo: [https://awjuliani.github.io/exploration/index.html](https://awjuliani.github.io/exploration/index.html)
 
+**Dissecting Reinforcement Learning**
+
+- part 1: [https://mpatacchiola.github.io/blog/2016/12/09/dissecting-reinforcement-learning.html](https://mpatacchiola.github.io/blog/2016/12/09/dissecting-reinforcement-learning.html)
+- part 2: [https://mpatacchiola.github.io/blog/2017/01/15/dissecting-reinforcement-learning-2.html](https://mpatacchiola.github.io/blog/2017/01/15/dissecting-reinforcement-learning-2.html)
+- part 3: [https://mpatacchiola.github.io/blog/2017/01/29/dissecting-reinforcement-learning-3.html](https://mpatacchiola.github.io/blog/2017/01/29/dissecting-reinforcement-learning-3.html)
+- github: [https://github.com/mpatacchiola/dissecting-reinforcement-learning](https://github.com/mpatacchiola/dissecting-reinforcement-learning)
+
 # Courses
 
 **Advanced Topics: RL**

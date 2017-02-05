@@ -800,6 +800,12 @@ It is suitable for deep learning on limited computational resource, embedded sys
 
 [https://github.com/soumith/convnet-benchmarks](https://github.com/soumith/convnet-benchmarks)
 
+# Tutorials
+
+**Deep Learning Implementations and Frameworks (DLIF)**
+
+[https://sites.google.com/site/dliftutorial/](https://sites.google.com/site/dliftutorial/)
+
 # Papers
 
 **Comparative Study of Deep Learning Software Frameworks**

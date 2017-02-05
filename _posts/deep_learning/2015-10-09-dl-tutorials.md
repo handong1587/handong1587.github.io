@@ -486,11 +486,6 @@ Machine learning workflow, Extracting feaures from images (colours, edges, corne
 
 - github: [https://github.com/sjchoi86/dl_tutorials_4th](https://github.com/sjchoi86/dl_tutorials_4th)
 
-**Traffic signs classification with Deep Learning.**
-
-- blog: [https://hackernoon.com/traffic-signs-classification-with-deep-learning-b0cb03e23efb#.n0fjehwo6](https://hackernoon.com/traffic-signs-classification-with-deep-learning-b0cb03e23efb#.n0fjehwo6)
-- github: [https://github.com/MehdiSv/TrafficSignsRecognition/](https://github.com/MehdiSv/TrafficSignsRecognition/)
-
 **Deep Learning in Clojure With Cortex**
 
 - blog: [http://gigasquidsoftware.com/blog/2016/12/27/deep-learning-in-clojure-with-cortex/](http://gigasquidsoftware.com/blog/2016/12/27/deep-learning-in-clojure-with-cortex/)
@@ -713,14 +708,6 @@ Machine learning workflow, Extracting feaures from images (colours, edges, corne
 
 - blog: [https://www.oreilly.com/learning/not-another-mnist-tutorial-with-tensorflow](https://www.oreilly.com/learning/not-another-mnist-tutorial-with-tensorflow)
 
-**Traffic Sign Recognition with TensorFlow**
-
-- blog: [https://medium.com/@waleedka/traffic-sign-recognition-with-tensorflow-629dffc391a6#.2khbv6a9a](https://medium.com/@waleedka/traffic-sign-recognition-with-tensorflow-629dffc391a6#.2khbv6a9a)
-
-**Traffic signs classification with a convolutional network**
-
-[http://navoshta.com/traffic-signs-classification/](http://navoshta.com/traffic-signs-classification/)
-
 **Dive Into TensorFlow**
 
 - Part I: Getting Started with TensorFlow: [http://textminingonline.com/dive-into-tensorflow-part-i-getting-started-with-tensorflow](http://textminingonline.com/dive-into-tensorflow-part-i-getting-started-with-tensorflow)
@@ -770,3 +757,22 @@ Machine learning workflow, Extracting feaures from images (colours, edges, corne
 
 - blog: [https://devblogs.nvidia.com/parallelforall/deep-learning-in-aerial-systems-jetson/](https://devblogs.nvidia.com/parallelforall/deep-learning-in-aerial-systems-jetson/)
 - github: [https://github.com/amitibo/auvsi-targets](https://github.com/amitibo/auvsi-targets)
+
+## Traffic Signs Classification
+
+**Traffic signs classification with Deep Learning.**
+
+- blog: [https://hackernoon.com/traffic-signs-classification-with-deep-learning-b0cb03e23efb#.n0fjehwo6](https://hackernoon.com/traffic-signs-classification-with-deep-learning-b0cb03e23efb#.n0fjehwo6)
+- github: [https://github.com/MehdiSv/TrafficSignsRecognition/](https://github.com/MehdiSv/TrafficSignsRecognition/)
+
+**Traffic Sign Recognition with TensorFlow**
+
+- blog: [https://medium.com/@waleedka/traffic-sign-recognition-with-tensorflow-629dffc391a6#.2khbv6a9a](https://medium.com/@waleedka/traffic-sign-recognition-with-tensorflow-629dffc391a6#.2khbv6a9a)
+
+**Traffic signs classification with a convolutional network**
+
+[http://navoshta.com/traffic-signs-classification/](http://navoshta.com/traffic-signs-classification/)
+
+**Convolutional Neural Network for Traffic Sign Classification — CarND**
+
+- blog: [https://medium.com/@gruby/convolutional-neural-network-for-traffic-sign-classification-carnd-e46e95453899#.lfutfs21v](https://medium.com/@gruby/convolutional-neural-network-for-traffic-sign-classification-carnd-e46e95453899#.lfutfs21v)

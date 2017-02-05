@@ -254,6 +254,10 @@ date: 2015-10-09
 - intro: Columbia University & University of Electronic Science and Technology of China
 - arxiv: [https://arxiv.org/abs/1701.07901](https://arxiv.org/abs/1701.07901)
 
+**HashNet: Deep Learning to Hash by Continuation**
+
+- arxiv: [https://arxiv.org/abs/1702.00758](https://arxiv.org/abs/1702.00758)
+
 # Video Indexing / Retrieval
 
 **Face Video Retrieval via Deep Learning of Binary Hash Representations**

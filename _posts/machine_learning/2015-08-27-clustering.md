@@ -11,6 +11,7 @@ date: 2015-08-27
 
 - paper: [http://jmlr.org/proceedings/papers/v37/ding15.html](http://jmlr.org/proceedings/papers/v37/ding15.html)
 - github: [https://github.com/src-d/kmcuda](https://github.com/src-d/kmcuda)
+- code: [http://research.csc.ncsu.edu/nc-caps/yykmeans.tar.bz2](http://research.csc.ncsu.edu/nc-caps/yykmeans.tar.bz2)
 
 **Boost K-Means**
 

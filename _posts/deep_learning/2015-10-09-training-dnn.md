@@ -690,6 +690,11 @@ date: 2015-10-09
 - intro: one-shot recognition
 - arxiv: [https://arxiv.org/abs/1612.02559](https://arxiv.org/abs/1612.02559)
 
+**Accelerating Deep Learning with Multiprocess Image Augmentation in Keras**
+
+- blog: [http://blog.stratospark.com/multiprocess-image-augmentation-keras.html](http://blog.stratospark.com/multiprocess-image-augmentation-keras.html)
+- github: [https://github.com/stratospark/keras-multiprocess-image-data-generator](https://github.com/stratospark/keras-multiprocess-image-data-generator)
+
 ## Imbalanced Datasets
 
 **Investigation on handling Structured & Imbalanced Datasets with Deep Learning**
