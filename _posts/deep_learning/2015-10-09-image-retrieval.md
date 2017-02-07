@@ -258,6 +258,10 @@ date: 2015-10-09
 
 - arxiv: [https://arxiv.org/abs/1702.00758](https://arxiv.org/abs/1702.00758)
 
+**Siamese Network of Deep Fisher-Vector Descriptors for Image Retrieval**
+
+- arxiv: [https://arxiv.org/abs/1702.00338](https://arxiv.org/abs/1702.00338)
+
 # Video Indexing / Retrieval
 
 **Face Video Retrieval via Deep Learning of Binary Hash Representations**

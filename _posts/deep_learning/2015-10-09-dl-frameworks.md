@@ -816,7 +816,8 @@ It is suitable for deep learning on limited computational resource, embedded sys
 
 **Benchmarking State-of-the-Art Deep Learning Software Tools**
 
-- intro: Caffe, CNTK, TensorFlow, and Torch
+- intro: Caffe, CNTK, MXNet, TensorFlow, and Torch
+- project page: [http://dlbench.comp.hkbu.edu.hk/](http://dlbench.comp.hkbu.edu.hk/)
 - arxiv: [http://arxiv.org/abs/1608.07249](http://arxiv.org/abs/1608.07249)
 
 # Projects

@@ -649,6 +649,20 @@ This task involves predicting the salient regions of an image given by human eye
 - project page: [https://imatge-upc.github.io/saliency-salgan-2017/](https://imatge-upc.github.io/saliency-salgan-2017/)
 - arxiv: [https://arxiv.org/abs/1701.01081](https://arxiv.org/abs/1701.01081)
 
+**Visual Saliency Prediction Using a Mixture of Deep Neural Networks**
+
+- arxiv: [https://arxiv.org/abs/1702.00372](https://arxiv.org/abs/1702.00372)
+
+**A Fast and Compact Salient Score Regression Network Based on Fully Convolutional Network**
+
+- arxiv: [https://arxiv.org/abs/1702.00615](https://arxiv.org/abs/1702.00615)
+
+## Saliency Detection in Video
+
+**Deep Learning For Video Saliency Detection**
+
+- arxiv: [https://arxiv.org/abs/1702.00871](https://arxiv.org/abs/1702.00871)
+
 ## Datasets
 
 **MSRA10K Salient Object Database**
@@ -744,6 +758,11 @@ This task involves predicting the salient regions of an image given by human eye
 
 - intro: DeepIR Inc
 - arxiv: [https://arxiv.org/abs/1701.08289](https://arxiv.org/abs/1701.08289)
+
+**Faceness-Net: Face Detection through Deep Facial Part Responses**
+
+- intro: An extended version of ICCV 2015 paper
+- arxiv: [https://arxiv.org/abs/1701.08393](https://arxiv.org/abs/1701.08393)
 
 ### Datasets / Benchmarks
 
@@ -871,6 +890,10 @@ This task involves predicting the salient regions of an image given by human eye
 - intro: ECCV 2016
 - arxiv: [http://arxiv.org/abs/1607.04564](http://arxiv.org/abs/1607.04564)
 
+**Evolving Boxes for fast Vehicle Detection**
+
+- arxiv: [https://arxiv.org/abs/1702.00254](https://arxiv.org/abs/1702.00254)
+
 ## Traffic-Sign Detection
 
 **Traffic-Sign Detection and Classification in the Wild**
@@ -989,6 +1012,10 @@ This task involves predicting the salient regions of an image given by human eye
 **Deep Learning Logo Detection with Data Expansion by Synthesising Context**
 
 - arxiv: [https://arxiv.org/abs/1612.09322](https://arxiv.org/abs/1612.09322)
+
+**Pixel-wise Ear Detection with Convolutional Encoder-Decoder Networks**
+
+- arxiv: [https://arxiv.org/abs/1702.00307](https://arxiv.org/abs/1702.00307)
 
 # Object Proposal
 

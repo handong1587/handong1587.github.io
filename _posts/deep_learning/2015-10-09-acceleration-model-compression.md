@@ -335,6 +335,11 @@ at INT8 deep learning operations than other FPGA DSP architectures"
 - intro: CMU & Universitat Paderborn]
 - arxiv: [https://arxiv.org/abs/1701.04465](https://arxiv.org/abs/1701.04465)
 
+**Deep Learning with Low Precision by Half-wave Gaussian Quantization**
+
+- intro: HWGQ-Net
+- arxiv: [https://arxiv.org/abs/1702.00953](https://arxiv.org/abs/1702.00953)
+
 # Projects
 
 **Accelerate Convolutional Neural Networks**
