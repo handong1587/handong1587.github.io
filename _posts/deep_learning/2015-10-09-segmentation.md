@@ -70,6 +70,10 @@ date: 2015-10-09
 - arxiv: [https://arxiv.org/abs/1701.05349](https://arxiv.org/abs/1701.05349)
 - github: [https://github.com/suyogduttjain/pixelobjectness](https://github.com/suyogduttjain/pixelobjectness)
 
+**A Deep Convolutional Neural Network for Background Subtraction**
+
+- arxiv: [https://arxiv.org/abs/1702.01731](https://arxiv.org/abs/1702.01731)
+
 # Semantic Segmentation
 
 **Fully Convolutional Networks for Semantic Segmentation**

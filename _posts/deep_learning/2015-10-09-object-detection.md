@@ -456,6 +456,14 @@ Continuation of [arXiv:1608.08021](https://arxiv.org/abs/1608.08021)
 - intro: UNC Chapel Hill & Amazon Inc
 - arxiv: [https://arxiv.org/abs/1701.06659](https://arxiv.org/abs/1701.06659)
 
+**Wide-Residual-Inception Networks for Real-time Object Detection**
+
+- arxiv: [https://arxiv.org/abs/1702.01243](https://arxiv.org/abs/1702.01243)
+
+**Attentional Network for Visual Object Detection**
+
+- arxiv: [https://arxiv.org/abs/1702.01478](https://arxiv.org/abs/1702.01478)
+
 # Detection From Video
 
 **Learning Object Class Detectors from Weakly Annotated Video**
