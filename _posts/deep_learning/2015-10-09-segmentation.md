@@ -668,6 +668,12 @@ ranked 1st place in ImageNet Scene Parsing Challenge 2016
 - intro: Image Segmentation framework based on Tensorflow and TF-Slim library
 - github: [https://github.com/warmspringwinds/tf-image-segmentation](https://github.com/warmspringwinds/tf-image-segmentation)
 
+**KittiSeg: A Kitti Road Segmentation model implemented in tensorflow.**
+
+- keywords: MultiNet
+- intro: KittiSeg performs segmentation of roads by utilizing an FCN based model.
+- github: [https://github.com/MarvinTeichmann/KittiBox](https://github.com/MarvinTeichmann/KittiBox)
+
 # Leaderboard
 
 **Segmentation Results: VOC2012 BETA: Competition "comp6" (train on own data)**

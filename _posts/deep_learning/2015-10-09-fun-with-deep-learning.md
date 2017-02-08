@@ -506,15 +506,6 @@ Compressed model is less than 500KB
 - github: [https://github.com/pfnet/PaintsChainer](https://github.com/pfnet/PaintsChainer)
 - demo: [http://paintschainer.preferred.tech/](http://paintschainer.preferred.tech/)
 
-## Photo Editing
-
-**Neural Photo Editing with Introspective Adversarial Networks**
-
-![](https://camo.githubusercontent.com/c66848752d9fa05c3194ae36d48b869ec9d21743/687474703a2f2f692e696d6775722e636f6d2f773155323045492e706e67)
-
-- arxiv: [http://arxiv.org/abs/1609.07093](http://arxiv.org/abs/1609.07093)
-- github: [https://github.com/ajbrock/Neural-Photo-Editor](https://github.com/ajbrock/Neural-Photo-Editor)
-
 # Sounds
 
 **Visually Indicated Sounds**

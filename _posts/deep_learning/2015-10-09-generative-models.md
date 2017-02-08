@@ -250,6 +250,7 @@ date: 2015-10-09
 - intro: Courant Institute of Mathematical Sciences & Facebook AI Research
 - arxiv: [https://arxiv.org/abs/1701.07875](https://arxiv.org/abs/1701.07875)
 - github: [https://github.com/martinarjovsky/WassersteinGAN](https://github.com/martinarjovsky/WassersteinGAN)
+- github: [https://github.com/Zardinality/WGAN-tensorflow](https://github.com/Zardinality/WGAN-tensorflow)
 - gist: [https://gist.github.com/soumith/71995cecc5b99cda38106ad64503cee3](https://gist.github.com/soumith/71995cecc5b99cda38106ad64503cee3)
 - reddit: [https://www.reddit.com/r/MachineLearning/comments/5qxoaz/r_170107875_wasserstein_gan/](https://www.reddit.com/r/MachineLearning/comments/5qxoaz/r_170107875_wasserstein_gan/)
 

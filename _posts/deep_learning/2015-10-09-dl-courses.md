@@ -238,6 +238,12 @@ such as image classification, object detection or text captioning.
 
 [http://cs287.fas.harvard.edu/](http://cs287.fas.harvard.edu/)
 
+**Deep Learning for Natural Language Processing:  2016-2017**
+
+- intro: Oxford Deep NLP 2017 course
+- homepage: [http://www.cs.ox.ac.uk/teaching/courses/2016-2017/dl/](http://www.cs.ox.ac.uk/teaching/courses/2016-2017/dl/)
+- github: [https://github.com/oxford-cs-deepnlp-2017/lectures](https://github.com/oxford-cs-deepnlp-2017/lectures)
+
 # Parallel Programming
 
 **Intro to Parallel Programming Using CUDA to Harness the Power of GPUs (Udacity)**

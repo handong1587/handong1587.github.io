@@ -570,6 +570,10 @@ Implementations and ideas are largely based on papers from arxiv and implementat
 - intro: Convert Caffe models to TensorFlow.
 - github: [https://github.com/ethereon/caffe-tensorflow](https://github.com/ethereon/caffe-tensorflow)
 
+**TensorFlow Mobile**
+
+[https://www.tensorflow.org/mobile/](https://www.tensorflow.org/mobile/)
+
 ## Papers
 
 **TensorFlow: Large-Scale Machine Learning on Heterogeneous Distributed Systems**

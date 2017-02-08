@@ -31,7 +31,7 @@ date: 2015-10-09
 
 **Detection Results: VOC2012**
 
-- intro: Competition "comp4" (train on own data)
+- intro: Competition "comp4" (train on additional data)
 - homepage: [http://host.robots.ox.ac.uk:8080/leaderboard/displaylb.php?challengeid=11&compid=4](http://host.robots.ox.ac.uk:8080/leaderboard/displaylb.php?challengeid=11&compid=4)
 
 # Papers
@@ -464,10 +464,12 @@ Continuation of [arXiv:1608.08021](https://arxiv.org/abs/1608.08021)
 
 **Wide-Residual-Inception Networks for Real-time Object Detection**
 
+- intro: Inha University
 - arxiv: [https://arxiv.org/abs/1702.01243](https://arxiv.org/abs/1702.01243)
 
 **Attentional Network for Visual Object Detection**
 
+- intro: University of Maryland & Mitsubishi Electric Research Laboratories
 - arxiv: [https://arxiv.org/abs/1702.01478](https://arxiv.org/abs/1702.01478)
 
 # Detection From Video
@@ -1139,6 +1141,12 @@ We additionally provide an implementation of the [ReInspect](https://github.com/
 - intro: Full convolution MultiBox Detector (like SSD) implemented in Torch.
 - github: [https://github.com/teaonly/FMD.torch](https://github.com/teaonly/FMD.torch)
 
+**KittiBox: A car detection model implemented in Tensorflow.**
+
+- keywords: MultiNet
+- intro: KittiBox is a collection of scripts to train out model FastBox on the Kitti Object Detection Dataset
+- github: [https://github.com/MarvinTeichmann/KittiBox](https://github.com/MarvinTeichmann/KittiBox)
+
 # Blogs
 
 **Convolutional Neural Networks for Object Detection**
@@ -1161,7 +1169,7 @@ We additionally provide an implementation of the [ReInspect](https://github.com/
 - keywords: DeepMask, SharpMask, MultiPathNet
 - blog: [https://adeshpande3.github.io/adeshpande3.github.io/Analyzing-the-Papers-Behind-Facebook's-Computer-Vision-Approach/](https://adeshpande3.github.io/adeshpande3.github.io/Analyzing-the-Papers-Behind-Facebook's-Computer-Vision-Approach/)
 
-**Easily Create High Quality Object Detectors with Deep Learning **
+**Easily Create High Quality Object Detectors with Deep Learning**
 
 - intro: dlib v19.2
 - blog: [http://blog.dlib.net/2016/10/easily-create-high-quality-object.html](http://blog.dlib.net/2016/10/easily-create-high-quality-object.html)
