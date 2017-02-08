@@ -178,6 +178,12 @@ date: 2015-10-09
 - paper: [http://abhinavsh.info/context_priming_feedback.pdf](http://abhinavsh.info/context_priming_feedback.pdf)
 - poster: [http://www.eccv2016.org/files/posters/P-1A-20.pdf](http://www.eccv2016.org/files/posters/P-1A-20.pdf)
 
+**An Implementation of Faster RCNN with Study for Region Sampling**
+
+- intro: Technical Report, 3 pages. CMU
+- arxiv: [https://arxiv.org/abs/1702.02138](https://arxiv.org/abs/1702.02138)
+- github: [https://github.com/endernewton/tf-faster-rcnn](https://github.com/endernewton/tf-faster-rcnn)
+
 ## YOLO
 
 **You Only Look Once: Unified, Real-Time Object Detection**

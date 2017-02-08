@@ -2109,6 +2109,12 @@ Compatible with Theano and TensorFlow. Optimized for Twitter.
 - github: [https://github.com/deepgram/kur](https://github.com/deepgram/kur)
 - docs: [http://kur.deepgram.com/](http://kur.deepgram.com/)
 
+**Development of JavaScript-based deep learning platform and application to distributed training**
+
+- intro: Workshop paper for ICLR2017
+- arxiv: [https://arxiv.org/abs/1702.01846](https://arxiv.org/abs/1702.01846)
+- github: [https://github.com/mil-tokyo](https://github.com/mil-tokyo)
+
 # Readings and Questions
 
 **What you wanted to know about AI**
