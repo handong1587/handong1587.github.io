@@ -496,6 +496,7 @@ date: 2015-10-09
 
 - intro: Facebook AI Research
 - arxiv: [https://arxiv.org/abs/1612.03969](https://arxiv.org/abs/1612.03969)
+- github(Official): [https://github.com/facebook/MemNN/tree/master/EntNet-babi](https://github.com/facebook/MemNN/tree/master/EntNet-babi)
 
 **Robust LSTM-Autoencoders for Face De-Occlusion in the Wild**
 

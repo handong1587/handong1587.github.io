@@ -235,6 +235,7 @@ not just the convolutions)
 
 - intro: UC San Diego & Facebook AI Research
 - arxiv: [https://arxiv.org/abs/1611.05431](https://arxiv.org/abs/1611.05431)
+- github(Torch): [https://github.com/facebookresearch/ResNeXt](https://github.com/facebookresearch/ResNeXt)
 - github: [https://github.com/dmlc/mxnet/blob/master/example/image-classification/symbol/resnext.py](https://github.com/dmlc/mxnet/blob/master/example/image-classification/symbol/resnext.py)
 - github(Caffe): [https://github.com/terrychenism/ResNeXt](https://github.com/terrychenism/ResNeXt)
 - dataset: [http://data.dmlc.ml/models/imagenet/resnext/](http://data.dmlc.ml/models/imagenet/resnext/)
@@ -1045,6 +1046,12 @@ with fast exact probabilistic inference over many layers."
 **Sparse Factorization Layers for Neural Networks with Limited Supervision**
 
 - arxiv: [https://arxiv.org/abs/1612.04468](https://arxiv.org/abs/1612.04468)
+
+## Fisher Vectors
+
+**Backpropagation Training for Fisher Vectors within Neural Networks**
+
+- arxiv: [https://arxiv.org/abs/1702.02549](https://arxiv.org/abs/1702.02549)
 
 ## HMM
 
@@ -1870,20 +1877,6 @@ It is based on Facebook's TorchCraft, which is a bridge between Torch and StarCr
 - arxiv: [http://arxiv.org/abs/1411.5309](http://arxiv.org/abs/1411.5309)
 - paper: [http://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Wan_End-to-End_Integration_of_2015_CVPR_paper.pdf](http://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Wan_End-to-End_Integration_of_2015_CVPR_paper.pdf)
 
-**FlowNet: Learning Optical Flow with Convolutional Networks**
-
-- intro: "competitive accuracy at frame rates of 5 to 10 fps"
-- project page: [http://lmb.informatik.uni-freiburg.de/Publications/2015/DFIB15/](http://lmb.informatik.uni-freiburg.de/Publications/2015/DFIB15/)
-- arxiv: [https://arxiv.org/abs/1504.06852](https://arxiv.org/abs/1504.06852)
-- github(Torch): [https://github.com/ClementPinard/FlowNetTorch](https://github.com/ClementPinard/FlowNetTorch)
-- github(Pytorch): [https://github.com/ClementPinard/FlowNetPytorch](https://github.com/ClementPinard/FlowNetPytorch)
-
-**FlowNet 2.0: Evolution of Optical Flow Estimation with Deep Networks**
-
-- project page: [http://lmb.informatik.uni-freiburg.de/Publications/2016/IMKDB16/](http://lmb.informatik.uni-freiburg.de/Publications/2016/IMKDB16/)
-- arxiv: [https://arxiv.org/abs/1612.01925](https://arxiv.org/abs/1612.01925)
-- video: [http://lmb.informatik.uni-freiburg.de/Publications/2016/IMKDB16/](http://lmb.informatik.uni-freiburg.de/Publications/2016/IMKDB16/)
-
 **A convnet for non-maximum suppression**
 
 - arxiv: [http://arxiv.org/abs/1511.06437](http://arxiv.org/abs/1511.06437)
@@ -1910,13 +1903,33 @@ It is based on Facebook's TorchCraft, which is a bridge between Torch and StarCr
 - intro: IEEE T. Image Processing
 - arxiv: [https://arxiv.org/abs/1610.01706](https://arxiv.org/abs/1610.01706)
 
+**DSAC - Differentiable RANSAC for Camera Localization**
+
+- arxiv: [https://arxiv.org/abs/1611.05705](https://arxiv.org/abs/1611.05705)
+
+### Optical Flow
+
+**FlowNet: Learning Optical Flow with Convolutional Networks**
+
+- intro: "competitive accuracy at frame rates of 5 to 10 fps"
+- project page: [http://lmb.informatik.uni-freiburg.de/Publications/2015/DFIB15/](http://lmb.informatik.uni-freiburg.de/Publications/2015/DFIB15/)
+- arxiv: [https://arxiv.org/abs/1504.06852](https://arxiv.org/abs/1504.06852)
+- github(Torch): [https://github.com/ClementPinard/FlowNetTorch](https://github.com/ClementPinard/FlowNetTorch)
+- github(Pytorch): [https://github.com/ClementPinard/FlowNetPytorch](https://github.com/ClementPinard/FlowNetPytorch)
+
+**FlowNet 2.0: Evolution of Optical Flow Estimation with Deep Networks**
+
+- project page: [http://lmb.informatik.uni-freiburg.de/Publications/2016/IMKDB16/](http://lmb.informatik.uni-freiburg.de/Publications/2016/IMKDB16/)
+- arxiv: [https://arxiv.org/abs/1612.01925](https://arxiv.org/abs/1612.01925)
+- video: [http://lmb.informatik.uni-freiburg.de/Publications/2016/IMKDB16/](http://lmb.informatik.uni-freiburg.de/Publications/2016/IMKDB16/)
+
 **Optical Flow Estimation using a Spatial Pyramid Network**
 
 - arxiv: [https://arxiv.org/abs/1611.00850](https://arxiv.org/abs/1611.00850)
 
-**DSAC - Differentiable RANSAC for Camera Localization**
+**Guided Optical Flow Learning**
 
-- arxiv: [https://arxiv.org/abs/1611.05705](https://arxiv.org/abs/1611.05705)
+- arxiv: [https://arxiv.org/abs/1702.02295](https://arxiv.org/abs/1702.02295)
 
 ### All-In-One Network
 

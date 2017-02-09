@@ -245,6 +245,10 @@ Compressed model is less than 500KB
 
 - github: [https://github.com/alexis-jacq/Pytorch-Tutorials](https://github.com/alexis-jacq/Pytorch-Tutorials)
 
+**Stable and Controllable Neural Texture Synthesis and Style Transfer Using Histogram Losses**
+
+- arxiv: [https://arxiv.org/abs/1701.08893](https://arxiv.org/abs/1701.08893)
+
 ## Neural Art On Audio
 
 **MSc AI Project on generative deep networks and neural style transfer for audio**

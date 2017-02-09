@@ -32,6 +32,11 @@ date: 2015-10-09
 
 - arxiv: [https://arxiv.org/abs/1612.05478](https://arxiv.org/abs/1612.05478)
 
+**Video Frame Synthesis using Deep Voxel Flow**
+
+- project page: [https://liuziwei7.github.io/projects/VoxelFlow.html](https://liuziwei7.github.io/projects/VoxelFlow.html)
+- arxiv: [https://arxiv.org/abs/1702.02463](https://arxiv.org/abs/1702.02463)
+
 # Video Classification
 
 **Large-scale Video Classification with Convolutional Neural Networks**
