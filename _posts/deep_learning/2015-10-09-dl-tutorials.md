@@ -534,6 +534,11 @@ Machine learning workflow, Extracting feaures from images (colours, edges, corne
 
 - arxiv: [https://arxiv.org/abs/1701.05549](https://arxiv.org/abs/1701.05549)
 
+**Fundamental Deep Learning code in TFLearn, Keras, Theano and TensorFlow**
+
+- blog: [https://insights.untapt.com/fundamental-deep-learning-code-in-tflearn-keras-theano-and-tensorflow-66be10a03227#.hoaw8fp9p](https://insights.untapt.com/fundamental-deep-learning-code-in-tflearn-keras-theano-and-tensorflow-66be10a03227#.hoaw8fp9p)
+- slides: [https://static1.squarespace.com/static/5362fa11e4b035b5651b7f7e/t/588fb378cd0f687201a2e317/1485812622873/Jon_Krohn_NYHackR_Deep_Learning_2017_01_30.pdf](https://static1.squarespace.com/static/5362fa11e4b035b5651b7f7e/t/588fb378cd0f687201a2e317/1485812622873/Jon_Krohn_NYHackR_Deep_Learning_2017_01_30.pdf)
+
 # Convolution
 
 ![](/assets/cnn-materials/conv.jpg)
@@ -738,6 +743,26 @@ Machine learning workflow, Extracting feaures from images (colours, edges, corne
 **4 Steps To Learn TensorFlow When You Already Know scikit-learn**
 
 [https://medium.com/@Zelros/4-steps-to-learn-tensorflow-when-you-already-know-scikit-learn-3cd0340456b5#.q206au7u9](https://medium.com/@Zelros/4-steps-to-learn-tensorflow-when-you-already-know-scikit-learn-3cd0340456b5#.q206au7u9)
+
+**Gentlest Introduction to Tensorflow**
+
+- part 1: [https://medium.com/all-of-us-are-belong-to-machines/the-gentlest-introduction-to-tensorflow-248dc871a224#.fxyclr1ui](https://medium.com/all-of-us-are-belong-to-machines/the-gentlest-introduction-to-tensorflow-248dc871a224#.fxyclr1ui)
+- part 2: [https://medium.com/all-of-us-are-belong-to-machines/gentlest-introduction-to-tensorflow-part-2-ed2a0a7a624f#.vf7p9upg2](https://medium.com/all-of-us-are-belong-to-machines/gentlest-introduction-to-tensorflow-part-2-ed2a0a7a624f#.vf7p9upg2)
+- part 3: [https://medium.com/all-of-us-are-belong-to-machines/gentlest-intro-to-tensorflow-part-3-matrices-multi-feature-linear-regression-30a81ebaaa6c#.bvjru1f88](https://medium.com/all-of-us-are-belong-to-machines/gentlest-intro-to-tensorflow-part-3-matrices-multi-feature-linear-regression-30a81ebaaa6c#.bvjru1f88)
+- part 4: [https://medium.com/all-of-us-are-belong-to-machines/gentlest-intro-to-tensorflow-4-logistic-regression-2afd0cabc54#.seh1fbr24](https://medium.com/all-of-us-are-belong-to-machines/gentlest-intro-to-tensorflow-4-logistic-regression-2afd0cabc54#.seh1fbr24)
+
+**learn code with tensorflow**
+
+- github: [https://github.com/burness/tensorflow-101](https://github.com/burness/tensorflow-101)
+
+**TensorFlow Machine Learning Cookbook**
+
+- book: [https://www.packtpub.com/big-data-and-business-intelligence/tensorflow-machine-learning-cookbook](https://www.packtpub.com/big-data-and-business-intelligence/tensorflow-machine-learning-cookbook)
+- github: [https://github.com/nfmcclure/tensorflow_cookbook](https://github.com/nfmcclure/tensorflow_cookbook)
+
+**TensorFlow Image Recognition on a Raspberry Pi**
+
+[http://svds.com/tensorflow-image-recognition-raspberry-pi/](http://svds.com/tensorflow-image-recognition-raspberry-pi/)
 
 # Torch
 

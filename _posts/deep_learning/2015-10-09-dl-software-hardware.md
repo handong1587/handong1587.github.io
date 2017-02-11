@@ -201,6 +201,10 @@ Contains all the popular DL frameworks (TensorFlow, Theano, Torch, Caffe, etc.)
 
 - arxiv: [https://github.com/philferriere/dlwin](https://github.com/philferriere/dlwin)
 
+**NVIDIA Announces Quadro GP100 - Big Pascal Comes to Workstations**
+
+[http://www.anandtech.com/show/11102/nvidia-announces-quadro-gp100](http://www.anandtech.com/show/11102/nvidia-announces-quadro-gp100)
+
 # FPGA
 
 **Recurrent Neural Networks Hardware Implementation on FPGA**

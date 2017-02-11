@@ -1403,6 +1403,11 @@ It is based on Facebook's TorchCraft, which is a bridge between Torch and StarCr
 - intro: Stanford University. Nature 2017
 - paper: [http://www.nature.com/nature/journal/vaop/ncurrent/pdf/nature21056.pdf](http://www.nature.com/nature/journal/vaop/ncurrent/pdf/nature21056.pdf)
 
+**Deep Learning for Health Informatics**
+
+- intro: Imperial College London
+- paper: [http://ieeexplore.ieee.org/abstract/document/7801947/](http://ieeexplore.ieee.org/abstract/document/7801947/)
+
 # Deep Learning in Fashion
 
 **Convolutional Neural Networks for Fashion Classification and Object Detection**

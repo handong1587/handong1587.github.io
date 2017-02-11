@@ -66,6 +66,11 @@ date: 2015-10-09
 - slides: [https://docs.google.com/presentation/d/1lcYrN56V2_SuX1rSmpzOUeMnheF6Jsu33-MsvLW9O_4/edit#slide=id.p](https://docs.google.com/presentation/d/1lcYrN56V2_SuX1rSmpzOUeMnheF6Jsu33-MsvLW9O_4/edit#slide=id.p)
 - slides: [http://alpha.openai.com/ak_rework_2017.pdf](http://alpha.openai.com/ak_rework_2017.pdf)
 
+**Deep Q Learning with Keras and Gym**
+
+- blog: [https://keon.io/rl/deep-q-learning-with-keras-and-gym/](https://keon.io/rl/deep-q-learning-with-keras-and-gym/)
+- github: [https://github.com/keon/deep-q-learning](https://github.com/keon/deep-q-learning)
+
 ## Simple Reinforcement Learning with Tensorflow
 
 **Part 0: Q-Learning with Tables and Neural Networks**
