@@ -403,6 +403,11 @@ You must move pacman (the green cursor) to highlight each word on the gameboard 
 
 - book: [http://mixmastamyk.bitbucket.org/pro_soft_dev/](http://mixmastamyk.bitbucket.org/pro_soft_dev/)
 
+**Software Engineering at Google**
+
+- intro: catalog and describe Google's key software engineering practices.
+- arxiv: [https://arxiv.org/abs/1702.01715](https://arxiv.org/abs/1702.01715)
+
 # Codes
 
 **The Archive of Interesting Code**
