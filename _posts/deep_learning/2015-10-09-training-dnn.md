@@ -214,6 +214,11 @@ date: 2015-10-09
 
 - blog: [https://kevinzakka.github.io/2016/09/14/batch_normalization/](https://kevinzakka.github.io/2016/09/14/batch_normalization/)
 
+**Exploring Normalization in Deep Residual Networks with Concatenated Rectified Linear Units**
+
+- intro: Oculus VR & Facebook & NEC Labs America
+- paper: [https://research.fb.com/publications/exploring-normalization-in-deep-residual-networks-with-concatenated-rectified-linear-units/](https://research.fb.com/publications/exploring-normalization-in-deep-residual-networks-with-concatenated-rectified-linear-units/)
+
 ## Layer Normalization
 
 **Layer Normalization**

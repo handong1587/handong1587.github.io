@@ -142,3 +142,7 @@ date: 2015-08-27
 **Nexar’s Deep Learning Challenge: the winners reveal their secrets**
 
 [https://blog.getnexar.com/nexars-deep-learning-challenge-the-winners-reveal-their-secrets-e80c24147f2d#.rdu2pdv7h](https://blog.getnexar.com/nexars-deep-learning-challenge-the-winners-reveal-their-secrets-e80c24147f2d#.rdu2pdv7h)
+
+**Nature Conservancy Fish Classification**
+
+- github: [https://github.com/rdcolema/nc-fish-classification](https://github.com/rdcolema/nc-fish-classification)

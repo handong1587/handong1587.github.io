@@ -534,6 +534,10 @@ control a spaceship in order to complete some objective.
 
 - github: [https://github.com/euske/pdfminer/](https://github.com/euske/pdfminer/)
 
+**A business card in LaTeX.**
+
+- github: [https://github.com/opieters/business-card](https://github.com/opieters/business-card)
+
 ## Painting
 
 **polygen: genetic algorithm for approximating an image with polygons (Golang)**

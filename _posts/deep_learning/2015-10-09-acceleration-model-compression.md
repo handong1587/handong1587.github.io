@@ -197,6 +197,10 @@ to decompose it into the multiplications of thinned dense matrices"
 
 [https://medium.com/m/global-identity?redirectUrl=https://gab41.lab41.org/lab41-reading-group-squeezenet-9b9d1d754c75](https://medium.com/m/global-identity?redirectUrl=https://gab41.lab41.org/lab41-reading-group-squeezenet-9b9d1d754c75)
 
+**SqueezeNet Keras Dogs vs. Cats demo**
+
+- github: [https://github.com/chasingbob/squeezenet-keras](https://github.com/chasingbob/squeezenet-keras)
+
 **Convolutional Neural Networks using Logarithmic Data Representation**
 
 - arxiv: [http://arxiv.org/abs/1603.01025](http://arxiv.org/abs/1603.01025)
@@ -339,6 +343,16 @@ at INT8 deep learning operations than other FPGA DSP architectures"
 
 - intro: HWGQ-Net
 - arxiv: [https://arxiv.org/abs/1702.00953](https://arxiv.org/abs/1702.00953)
+
+**DL-gleaning: An Approach For Improving Inference Speed And Accuracy**
+
+- intro: Electronics Telecommunications Research Institute (ETRI)
+- paper: [https://openreview.net/pdf?id=Hynn8SHOx](https://openreview.net/pdf?id=Hynn8SHOx)
+
+**Energy Saving Additive Neural Network**
+
+- intro: Middle East Technical University & Bilkent University
+- arxiv: [https://arxiv.org/abs/1702.02676](https://arxiv.org/abs/1702.02676)
 
 # Projects
 

@@ -816,6 +816,7 @@ with fast exact probabilistic inference over many layers."
 - github(Caffe): [https://github.com/liuzhuang13/DenseNetCaffe](https://github.com/liuzhuang13/DenseNetCaffe)
 - github(Tensorflow): [https://github.com/YixuanLi/densenet-tensorflow](https://github.com/YixuanLi/densenet-tensorflow)
 - github(Keras): [https://github.com/titu1994/DenseNet](https://github.com/titu1994/DenseNet)
+- github(PyTorch): [https://github.com/bamos/densenet.pytorch](https://github.com/bamos/densenet.pytorch)
 
 **CliqueCNN: Deep Unsupervised Exemplar Learning**
 
@@ -1227,6 +1228,11 @@ with fast exact probabilistic inference over many layers."
 **Deep Learning the Stock Market**
 
 - blog: [https://medium.com/@TalPerry/deep-learning-the-stock-market-df853d139e02#.z752rf43u](https://medium.com/@TalPerry/deep-learning-the-stock-market-df853d139e02#.z752rf43u)
+
+**rl_portfolio**
+
+- intro: This Repository uses Reinforcement Learning and Supervised learning to Optimize portfolio allocation.
+- github: [https://github.com/deependersingla/deep_portfolio](https://github.com/deependersingla/deep_portfolio)
 
 # Deep Learning in Speech
 

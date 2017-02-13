@@ -588,6 +588,10 @@ Machine learning workflow, Extracting feaures from images (colours, edges, corne
 
 - blog: [https://blog.keras.io/how-convolutional-neural-networks-see-the-world.html](https://blog.keras.io/how-convolutional-neural-networks-see-the-world.html)
 
+**One by One [ 1 x 1 ] Convolution - counter-intuitively useful**
+
+[http://iamaaditya.github.io/2016/03/one-by-one-convolution/](http://iamaaditya.github.io/2016/03/one-by-one-convolution/)
+
 ## maxDNN
 
 **maxDNN: An Efficient Convolution Kernel for Deep Learning with Maxwell GPUs**
@@ -763,6 +767,11 @@ Machine learning workflow, Extracting feaures from images (colours, edges, corne
 **TensorFlow Image Recognition on a Raspberry Pi**
 
 [http://svds.com/tensorflow-image-recognition-raspberry-pi/](http://svds.com/tensorflow-image-recognition-raspberry-pi/)
+
+**TensorFlow For Machine Intelligence**
+
+- book: [https://bleedingedgepress.com/tensor-flow-for-machine-intelligence/](https://bleedingedgepress.com/tensor-flow-for-machine-intelligence/)
+- github: [https://github.com/backstopmedia/tensorflowbook](https://github.com/backstopmedia/tensorflowbook)
 
 # Torch
 
