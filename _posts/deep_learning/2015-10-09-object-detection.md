@@ -804,6 +804,13 @@ This task involves predicting the salient regions of an image given by human eye
 - paper: [http://www.ee.cuhk.edu.hk/~xgwang/papers/sunWTcvpr13.pdf](http://www.ee.cuhk.edu.hk/~xgwang/papers/sunWTcvpr13.pdf)
 - github: [https://github.com/luoyetx/deep-landmark](https://github.com/luoyetx/deep-landmark)
 
+**Facial Landmark Detection by Deep Multi-task Learning**
+
+- intro: ECCV 2014
+- project page: [http://mmlab.ie.cuhk.edu.hk/projects/TCDCN.html](http://mmlab.ie.cuhk.edu.hk/projects/TCDCN.html)
+- paper: [http://personal.ie.cuhk.edu.hk/~ccloy/files/eccv_2014_deepfacealign.pdf](http://personal.ie.cuhk.edu.hk/~ccloy/files/eccv_2014_deepfacealign.pdf)
+- github(Matlab): [https://github.com/zhzhanp/TCDCN-face-alignment](https://github.com/zhzhanp/TCDCN-face-alignment)
+
 **A Recurrent Encoder-Decoder Network for Sequential Face Alignment**
 
 - intro: ECCV 2016
@@ -816,6 +823,10 @@ This task involves predicting the salient regions of an image given by human eye
 **Deep Constrained Local Models for Facial Landmark Detection**
 
 - arxiv: [https://arxiv.org/abs/1611.08657](https://arxiv.org/abs/1611.08657)
+
+**Effective face landmark localization via single deep network**
+
+- arxiv: [https://arxiv.org/abs/1702.02719](https://arxiv.org/abs/1702.02719)
 
 ## People Detection
 
