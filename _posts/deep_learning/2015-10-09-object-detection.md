@@ -454,6 +454,7 @@ Continuation of [arXiv:1608.08021](https://arxiv.org/abs/1608.08021)
 
 - arxiv: [https://arxiv.org/abs/1612.08242](https://arxiv.org/abs/1612.08242)
 - code: [http://pjreddie.com/yolo9000/](http://pjreddie.com/yolo9000/)
+- github(Chainer): [https://github.com/leetenki/YOLOv2](https://github.com/leetenki/YOLOv2)
 
 ## DSSD
 

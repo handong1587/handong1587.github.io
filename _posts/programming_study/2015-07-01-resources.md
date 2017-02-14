@@ -403,6 +403,11 @@ You must move pacman (the green cursor) to highlight each word on the gameboard 
 
 - book: [http://mixmastamyk.bitbucket.org/pro_soft_dev/](http://mixmastamyk.bitbucket.org/pro_soft_dev/)
 
+**Software Engineering at Google**
+
+- intro: catalog and describe Google's key software engineering practices.
+- arxiv: [https://arxiv.org/abs/1702.01715](https://arxiv.org/abs/1702.01715)
+
 # Codes
 
 **The Archive of Interesting Code**
@@ -528,6 +533,10 @@ control a spaceship in order to complete some objective.
 **PDFMiner: a tool for extracting information from PDF documents**
 
 - github: [https://github.com/euske/pdfminer/](https://github.com/euske/pdfminer/)
+
+**A business card in LaTeX.**
+
+- github: [https://github.com/opieters/business-card](https://github.com/opieters/business-card)
 
 ## Painting
 

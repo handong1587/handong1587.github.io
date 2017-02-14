@@ -7,6 +7,11 @@ date: 2015-10-09
 
 # Painting
 
+**Artist Agent: A Reinforcement Learning Approach to Automatic Stroke Generation in Oriental Ink Painting**
+
+- intro: ICML 2012
+- arxiv: [https://arxiv.org/abs/1206.4634](https://arxiv.org/abs/1206.4634)
+
 ## Neural Art
 
 **A Neural Algorithm of Artistic Style**

@@ -459,6 +459,7 @@ extract saptio-temporal features to represent the video using the CNNs."
 - intro: ICASSP 2017
 - project page: [http://www.vision.huji.ac.il/vid2speech/](http://www.vision.huji.ac.il/vid2speech/)
 - arxiv: [https://arxiv.org/abs/1701.00495](https://arxiv.org/abs/1701.00495)
+- github(official): [https://github.com/arielephrat/vid2speech](https://github.com/arielephrat/vid2speech)
 
 # Video Captioning
 

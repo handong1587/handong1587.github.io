@@ -294,6 +294,13 @@ date: 2015-10-09
 - intro: ACCV 2016
 - arxiv: [https://arxiv.org/abs/1612.03900](https://arxiv.org/abs/1612.03900)
 
+# Learning to Rank
+
+**Simple to Complex Cross-modal Learning to Rank**
+
+- intro: Xi’an Jiaotong University & University of Technology Sydney & National University of Singapore & CMU
+- arxiv: [https://arxiv.org/abs/1702.01229](https://arxiv.org/abs/1702.01229)
+
 # Talks / Slides
 
 **TiefVision: end-to-end image similarity search engine**

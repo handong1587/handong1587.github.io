@@ -816,6 +816,7 @@ with fast exact probabilistic inference over many layers."
 - github(Caffe): [https://github.com/liuzhuang13/DenseNetCaffe](https://github.com/liuzhuang13/DenseNetCaffe)
 - github(Tensorflow): [https://github.com/YixuanLi/densenet-tensorflow](https://github.com/YixuanLi/densenet-tensorflow)
 - github(Keras): [https://github.com/titu1994/DenseNet](https://github.com/titu1994/DenseNet)
+- github(PyTorch): [https://github.com/bamos/densenet.pytorch](https://github.com/bamos/densenet.pytorch)
 
 **CliqueCNN: Deep Unsupervised Exemplar Learning**
 
@@ -1228,6 +1229,11 @@ with fast exact probabilistic inference over many layers."
 
 - blog: [https://medium.com/@TalPerry/deep-learning-the-stock-market-df853d139e02#.z752rf43u](https://medium.com/@TalPerry/deep-learning-the-stock-market-df853d139e02#.z752rf43u)
 
+**rl_portfolio**
+
+- intro: This Repository uses Reinforcement Learning and Supervised learning to Optimize portfolio allocation.
+- github: [https://github.com/deependersingla/deep_portfolio](https://github.com/deependersingla/deep_portfolio)
+
 # Deep Learning in Speech
 
 **Deep Speech 2: End-to-End Speech Recognition in English and Mandarin**
@@ -1402,6 +1408,11 @@ It is based on Facebook's TorchCraft, which is a bridge between Torch and StarCr
 
 - intro: Stanford University. Nature 2017
 - paper: [http://www.nature.com/nature/journal/vaop/ncurrent/pdf/nature21056.pdf](http://www.nature.com/nature/journal/vaop/ncurrent/pdf/nature21056.pdf)
+
+**Deep Learning for Health Informatics**
+
+- intro: Imperial College London
+- paper: [http://ieeexplore.ieee.org/abstract/document/7801947/](http://ieeexplore.ieee.org/abstract/document/7801947/)
 
 # Deep Learning in Fashion
 

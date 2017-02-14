@@ -808,7 +808,8 @@ It is suitable for deep learning on limited computational resource, embedded sys
 
 **Deep Learning Implementations and Frameworks (DLIF)**
 
-[https://sites.google.com/site/dliftutorial/](https://sites.google.com/site/dliftutorial/)
+- tutorial: [https://sites.google.com/site/dliftutorial/](https://sites.google.com/site/dliftutorial/)
+- github: [https://github.com/delta2323/DLIF-tutorial](https://github.com/delta2323/DLIF-tutorial)
 
 # Papers
 
@@ -933,3 +934,7 @@ It is suitable for deep learning on limited computational resource, embedded sys
 **Python Deep Learning Frameworks Reviewed**
 
 [https://indico.io/blog/python-deep-learning-frameworks-reviewed/](https://indico.io/blog/python-deep-learning-frameworks-reviewed/)
+
+**Apple’s deep learning frameworks: BNNS vs. Metal CNN**
+
+[http://machinethink.net/blog/apple-deep-learning-bnns-versus-metal-cnn/](http://machinethink.net/blog/apple-deep-learning-bnns-versus-metal-cnn/)
