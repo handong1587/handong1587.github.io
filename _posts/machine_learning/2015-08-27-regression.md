@@ -120,3 +120,9 @@ date: 2015-08-27
 **Lecture notes on ridge regression**
 
 - arxiv: [https://arxiv.org/abs/1509.09169](https://arxiv.org/abs/1509.09169)
+
+**Sketched Ridge Regression: Optimization Perspective, Statistical Perspective, and Model Averaging**
+
+- intro: UC Berkeley & Rensselaer Polytechnic Institute
+- arxiv: [https://arxiv.org/abs/1702.04837](https://arxiv.org/abs/1702.04837)
+- github: [https://github.com/wangshusen/SketchedRidgeRegression](https://github.com/wangshusen/SketchedRidgeRegression)

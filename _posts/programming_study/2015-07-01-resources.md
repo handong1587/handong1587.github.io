@@ -222,6 +222,10 @@ The user can run the packaged app without installing a Python interpreter or any
 
 - blog: [https://www.digitalocean.com/community/tutorials/python-2-vs-python-3-practical-considerations-2](https://www.digitalocean.com/community/tutorials/python-2-vs-python-3-practical-considerations-2)
 
+**problem-solving-with-algorithms-and-data-structure-using-python 中文版**
+
+- github: [https://github.com/facert/python-data-structure-cn](https://github.com/facert/python-data-structure-cn)
+
 # Regulex
 
 **Regulex: JavaScript Regular Expression Visualizer**

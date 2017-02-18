@@ -126,10 +126,12 @@ date: 2015-10-09
 - video: [http://pan.baidu.com/s/1bnWGuIz/](http://pan.baidu.com/s/1bnWGuIz/)
 - assignment: [http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching_files/Easy21-Johannes.pdf](http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching_files/Easy21-Johannes.pdf)
 
-**CS 294: Deep Reinforcement Learning**
+**Berkeley CS 294: Deep Reinforcement Learning**
 
 - instructors: John Schulman, Pieter Abbeel
 - homepage: [http://rll.berkeley.edu/deeprlcourse/](http://rll.berkeley.edu/deeprlcourse/)
+- youtube: [https://www.youtube.com/playlist?list=PLkFD6_40KJIwTmSbCv9OVJB3YaO4sFwkX](https://www.youtube.com/playlist?list=PLkFD6_40KJIwTmSbCv9OVJB3YaO4sFwkX)
+- mirror: [https://pan.baidu.com/s/1hsQcm1Y](https://pan.baidu.com/s/1hsQcm1Y)
 
 **(Udacity) Reinforcement Learning - Offered at Georgia Tech as CS 8803**
 
@@ -317,6 +319,7 @@ date: 2015-10-09
 - github(Tensorflow): [https://github.com/traai/async-deep-rl](https://github.com/traai/async-deep-rl)
 - github(Tensorflow+Keras+OpenAI Gym): [https://github.com/coreylynch/async-rl](https://github.com/coreylynch/async-rl)
 - github(Tensorflow): [https://github.com/devsisters/async-rl-tensorflow](https://github.com/devsisters/async-rl-tensorflow)
+- github(PyTorch): [https://github.com/ikostrikov/pytorch-a3c](https://github.com/ikostrikov/pytorch-a3c)
 - notes: [https://blog.acolyer.org/2016/10/10/asynchronous-methods-for-deep-reinforcement-learning/](https://blog.acolyer.org/2016/10/10/asynchronous-methods-for-deep-reinforcement-learning/)
 
 **Graying the black box: Understanding DQNs**

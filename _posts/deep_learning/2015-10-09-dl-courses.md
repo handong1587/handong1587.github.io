@@ -112,13 +112,9 @@ date: 2015-10-09
 - homepage: [http://web.stanford.edu/class/cs20si/](http://web.stanford.edu/class/cs20si/)
 - github: [https://github.com/chiphuyen/tf-stanford-tutorials](https://github.com/chiphuyen/tf-stanford-tutorials)
 
-**MIT 6.S191: Introduction to Deep Learning**
+***Deep Learning course*
 
-- homepage: [http://introtodeeplearning.com/index.html](http://introtodeeplearning.com/index.html)
-- schedule(Slides+Videos): [http://introtodeeplearning.com/schedule.html](http://introtodeeplearning.com/schedule.html)
-- github: [https://github.com/yala/introdeeplearning](https://github.com/yala/introdeeplearning)
-- youtube: [https://www.youtube.com/playlist?list=PLkkuNyzb8LmxFutYuPA7B4oiMn6cjD6Rs](https://www.youtube.com/playlist?list=PLkkuNyzb8LmxFutYuPA7B4oiMn6cjD6Rs)
-- mirror: [https://pan.baidu.com/s/1qXXDCoG#list/path=%2F](https://pan.baidu.com/s/1qXXDCoG#list/path=%2F)
+- github: [https://github.com/ddtm/dl-course](https://github.com/ddtm/dl-course)
 
 ## With Video Lectures
 
@@ -190,6 +186,14 @@ date: 2015-10-09
 
 - homepage: [https://bcourses.berkeley.edu/courses/1453965/pages/cs294-129-designing-visualizing-and-understanding-deep-neural-networks](https://bcourses.berkeley.edu/courses/1453965/pages/cs294-129-designing-visualizing-and-understanding-deep-neural-networks)
 - lecture video: [https://www.youtube.com/playlist?list=PLkFD6_40KJIxopmdJF_CLNqG3QuDFHQUm](https://www.youtube.com/playlist?list=PLkFD6_40KJIxopmdJF_CLNqG3QuDFHQUm)
+
+**MIT 6.S191: Introduction to Deep Learning**
+
+- homepage: [http://introtodeeplearning.com/index.html](http://introtodeeplearning.com/index.html)
+- schedule(Slides+Videos): [http://introtodeeplearning.com/schedule.html](http://introtodeeplearning.com/schedule.html)
+- github: [https://github.com/yala/introdeeplearning](https://github.com/yala/introdeeplearning)
+- youtube: [https://www.youtube.com/playlist?list=PLkkuNyzb8LmxFutYuPA7B4oiMn6cjD6Rs](https://www.youtube.com/playlist?list=PLkkuNyzb8LmxFutYuPA7B4oiMn6cjD6Rs)
+- mirror: [https://pan.baidu.com/s/1qXXDCoG#list/path=%2F](https://pan.baidu.com/s/1qXXDCoG#list/path=%2F)
 
 # Computer Vision
 

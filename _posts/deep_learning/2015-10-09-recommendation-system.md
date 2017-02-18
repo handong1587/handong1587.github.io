@@ -97,7 +97,12 @@ date: 2015-10-09
 
 **Deep learning for music recommendation**
 
-- sldies: [http://pan.baidu.com/s/1skriMJj](http://pan.baidu.com/s/1skriMJj) 
+- sldies: [http://pan.baidu.com/s/1skriMJj](http://pan.baidu.com/s/1skriMJj)
+
+**Deep learning for music recommendation and generation**
+
+- slides: [https://docs.google.com/presentation/d/1AIotiiAp_528R90ll8j-Kc2EsRk2Oxc1poRgPXnEH8Y/edit](https://docs.google.com/presentation/d/1AIotiiAp_528R90ll8j-Kc2EsRk2Oxc1poRgPXnEH8Y/edit)
+- mirror: [https://pan.baidu.com/s/1czQQNO](https://pan.baidu.com/s/1czQQNO)
 
 # Blog
 

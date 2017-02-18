@@ -254,6 +254,11 @@ Compressed model is less than 500KB
 
 - arxiv: [https://arxiv.org/abs/1701.08893](https://arxiv.org/abs/1701.08893)
 
+**Arbitrary Style Transfer In Real-Time With Adaptive Instance Normalization**
+
+- intro: Cornell University
+- paper: [https://openreview.net/pdf?id=B1fUVMzKg](https://openreview.net/pdf?id=B1fUVMzKg)
+
 ## Neural Art On Audio
 
 **MSc AI Project on generative deep networks and neural style transfer for audio**
@@ -639,6 +644,10 @@ Compressed model is less than 500KB
 **Hip-Hop - Generating lyrics with RNNs**
 
 - blog: [http://affinelayer.com/hiphop/index.html](http://affinelayer.com/hiphop/index.html)
+
+**Metis Final Project: Music Composition with LSTMs**
+
+[http://blog.naoya.io/metis-final-project-music-composition-with-lstms/](http://blog.naoya.io/metis-final-project-music-composition-with-lstms/)
 
 # Poetry
 

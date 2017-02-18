@@ -113,6 +113,10 @@ date: 2016-06-02
 - github: [https://github.com/billryan/resume](https://github.com/billryan/resume)
 - github(中文): [https://github.com/billryan/resume/tree/zh_CN](https://github.com/billryan/resume/tree/zh_CN)
 
+**How to Make Your Data Science Resume Stand Out**
+
+[http://datasciencedegree.wisconsin.edu/blog/data-science-resume/](http://datasciencedegree.wisconsin.edu/blog/data-science-resume/)
+
 # Resources
 
 **Awesome Interviews: A curated awesome list of lists of interview questions**

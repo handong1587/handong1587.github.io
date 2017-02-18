@@ -504,33 +504,17 @@ It is an experimental refactoring of Caffe, and allows a more flexible way to or
 
 - github: [https://github.com/memo/ofxMSATensorFlow](https://github.com/memo/ofxMSATensorFlow)
 
-**Installing TensorFlow on Raspberry Pi 3 (and probably 2 as well)**
-
-- intro: TensorFlow for Raspberry Pi
-- github: [https://github.com/samjabrahams/tensorflow-on-raspberry-pi](https://github.com/samjabrahams/tensorflow-on-raspberry-pi)
-
 **TFLearn: Deep learning library featuring a higher-level API for TensorFlow**
 
 - homepage: [http://tflearn.org/](http://tflearn.org/)
 - github: [https://github.com/tflearn/tflearn](https://github.com/tflearn/tflearn)
 - examples: [https://github.com/tflearn/tflearn/blob/0.1.0/examples/README.md](https://github.com/tflearn/tflearn/blob/0.1.0/examples/README.md)
 
-**CodinGame: Deep Learning - TensorFlow**
-
-- homepage: [https://www.codingame.com/games/machine-learning?utm_source=CodinGame&utm_medium=Email&utm_campaign=tensorflow](https://www.codingame.com/games/machine-learning?utm_source=CodinGame&utm_medium=Email&utm_campaign=tensorflow)
-
 **TensorFlow on Spark**
 
 - github: [https://github.com/adatao/tensorspark](https://github.com/adatao/tensorspark)
 
 **TensorBoard**
-
-**A Practical Guide for Debugging Tensorflow Codes**
-
-**Debugging Tips on TensorFlow**
-
-- slides: [https://wookayin.github.io/TensorflowKR-2016-talk-debugging](https://wookayin.github.io/TensorflowKR-2016-talk-debugging)
-- github: [https://github.com/wookayin/TensorflowKR-2016-talk-debugging](https://github.com/wookayin/TensorflowKR-2016-talk-debugging)
 
 **TensorFlow.jl: A Julia wrapper for the TensorFlow Python library**
 
@@ -550,12 +534,6 @@ It is an experimental refactoring of Caffe, and allows a more flexible way to or
 - github: [https://github.com/google/prettytensor](https://github.com/google/prettytensor)
 - docs: [https://github.com/google/prettytensor/blob/master/docs/pretty_tensor_top_level.md](https://github.com/google/prettytensor/blob/master/docs/pretty_tensor_top_level.md)
 - tutorials: [https://github.com/google/prettytensor/tree/master/prettytensor/tutorial](https://github.com/google/prettytensor/tree/master/prettytensor/tutorial)
-
-**Tensorflow Projects: Deep learning using tensorflow**
-
-- intro: A repo of everything deep and neurally related. 
-Implementations and ideas are largely based on papers from arxiv and implementations, tutorials from the internet.
-- github: [https://github.com/shekkizh/TensorflowProjects](https://github.com/shekkizh/TensorflowProjects)
 
 **Rust language bindings for TensorFlow**
 
@@ -591,82 +569,6 @@ Implementations and ideas are largely based on papers from arxiv and implementat
 
 - tutorial-zh: [https://github.com/jikexueyuanwiki/tensorflow-zh](https://github.com/jikexueyuanwiki/tensorflow-zh)
 - homepage: [http://wiki.jikexueyuan.com/project/tensorflow-zh/](http://wiki.jikexueyuan.com/project/tensorflow-zh/)
-
-**LearningTensorFlow.com: A beginners guide to a powerful framework.**
-
-- homepge: [http://learningtensorflow.com/index.html](http://learningtensorflow.com/index.html)
-
-**TensorFlow Examples: TensorFlow tutorials and code examples for beginners**
-
-- github: [https://github.com/aymericdamien/TensorFlow-Examples](https://github.com/aymericdamien/TensorFlow-Examples)
-
-**Awesome TensorFlow: A curated list of awesome TensorFlow experiments, libraries, and projects**
-
-- github: [https://github.com/jtoy/awesome-tensorflow/](https://github.com/jtoy/awesome-tensorflow/)
-
-**The Good, Bad, & Ugly of TensorFlow: A survey of six months rapid evolution (+ tips/hacks and code to fix the ugly stuff)**
-
-- blog: [https://indico.io/blog/the-good-bad-ugly-of-tensorflow/](https://indico.io/blog/the-good-bad-ugly-of-tensorflow/)
-
-**Tensorflow Tutorials using Jupyter Notebook**
-
-- github: [https://github.com/sjchoi86/Tensorflow-101](https://github.com/sjchoi86/Tensorflow-101)
-
-**TensorFlow Tutorial**
-
-- homepage: [http://terryum.io/ml_practice/2016/05/28/TFIntroSlides/](http://terryum.io/ml_practice/2016/05/28/TFIntroSlides/)
-- slides: [https://s3.amazonaws.com/www.terryum.io/images/TensorFlow_Intro_160529.pptx](https://s3.amazonaws.com/www.terryum.io/images/TensorFlow_Intro_160529.pptx)
-- mirror: [http://pan.baidu.com/s/1c5cICY](http://pan.baidu.com/s/1c5cICY)
-- github: [https://github.com/terryum/TensorFlow_Exercises](https://github.com/terryum/TensorFlow_Exercises)
-
-**FIRST CONTACT WITH TENSORFLOW**
-
-- ebook: [http://www.jorditorres.org/first-contact-with-tensorflow/](http://www.jorditorres.org/first-contact-with-tensorflow/)
-
-**Introduction to TensorFlow**
-
-- github: [https://github.com/nihit/TensorFlow101](https://github.com/nihit/TensorFlow101)
-
-**TensorFlow-Tutorials: Simple tutorials using Google's TensorFlow Framework**
-
-- github: [https://github.com/nlintz/TensorFlow-Tutorials](https://github.com/nlintz/TensorFlow-Tutorials)
-
-**Neural Network Toolbox on TensorFlow**
-
-- github: [https://github.com/ppwwyyxx/tensorpack](https://github.com/ppwwyyxx/tensorpack)
-
-**Awesome Tensorflow Implementations**
-
-- github: [https://github.com/TensorFlowKR/awesome_tensorflow_implementations](https://github.com/TensorFlowKR/awesome_tensorflow_implementations)
-
-**The Ultimate List of TensorFlow Resources: Books, Tutorials & More**
-
-- blog: [https://hackerlists.com/tensorflow-resources/](https://hackerlists.com/tensorflow-resources/)
-
-**Install TensorFlow: Slides and code from our TensorFlow Workshop**
-
-- github: [https://github.com/random-forests/tensorflow-workshop](https://github.com/random-forests/tensorflow-workshop)
-
-**A Tour of TensorFlow**
-
-- arxiv: [https://arxiv.org/abs/1610.01178](https://arxiv.org/abs/1610.01178)
-
-**TensorFlow Tutorials**
-
-- youtube: [https://www.youtube.com/playlist?list=PL9Hr9sNUjfsmEu1ZniY0XpHSzl5uihcXZ](https://www.youtube.com/playlist?list=PL9Hr9sNUjfsmEu1ZniY0XpHSzl5uihcXZ)
-- github: [https://github.com/Hvass-Labs/TensorFlow-Tutorials](https://github.com/Hvass-Labs/TensorFlow-Tutorials)
-
-**Shapes and dynamic dimensions in TensorFlow**
-
-- blog: [https://blog.metaflow.fr/shapes-and-dynamic-dimensions-in-tensorflow-7b1fe79be363#.1293uf94t](https://blog.metaflow.fr/shapes-and-dynamic-dimensions-in-tensorflow-7b1fe79be363#.1293uf94t)
-
-# Books
-
-**Machine Learning with TensorFlow**
-
-- homepage: [http://www.tensorflowbook.com/](http://www.tensorflowbook.com/)
-- github: [https://github.com/BinRoot/TensorFlow-Book](https://github.com/BinRoot/TensorFlow-Book)
-- blog: [https://www.manning.com/books/machine-learning-with-tensorflow](https://www.manning.com/books/machine-learning-with-tensorflow)
 
 # Theano
 

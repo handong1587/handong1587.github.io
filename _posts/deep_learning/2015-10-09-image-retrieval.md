@@ -332,6 +332,13 @@ UKB
 - intro: A simple implementation of Visual Search using features extracted from Tensorflow inception model and Approximate Nearest Neighbors 
 - github: [https://github.com/AKSHAYUBHAT/VisualSearchServer](https://github.com/AKSHAYUBHAT/VisualSearchServer)
 
+**Vehicle Retrieval: vehicle image retrieval using k CNNs ensemble method**
+
+- intro: ranked 1st and won the special prize in the final of 
+the 3rd National Gradute Contest on Smart-CIty Technology and Creative Design, China
+- project page: [https://www.pkuml.org/resources/pku-vehicleid.html](https://www.pkuml.org/resources/pku-vehicleid.html)
+- github: [https://github.com/iamhankai/vehicle-retrieval-kCNNs](https://github.com/iamhankai/vehicle-retrieval-kCNNs)
+
 # Blogs
 
 **Where can I buy a chair like that? – This app will tell you**

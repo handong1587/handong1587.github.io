@@ -186,6 +186,7 @@ not just the convolutions)
 - arxiv: [http://arxiv.org/abs/1605.07146](http://arxiv.org/abs/1605.07146)
 - github: [https://github.com/szagoruyko/wide-residual-networks](https://github.com/szagoruyko/wide-residual-networks)
 - github: [https://github.com/asmith26/wide_resnets_keras](https://github.com/asmith26/wide_resnets_keras)
+- github: [https://github.com/ritchieng/wideresnet-tensorlayer](https://github.com/ritchieng/wideresnet-tensorlayer)
 
 **Deep Residual Networks for Image Classification with Python + NumPy**
 
@@ -819,6 +820,7 @@ with fast exact probabilistic inference over many layers."
 - github(Tensorflow): [https://github.com/YixuanLi/densenet-tensorflow](https://github.com/YixuanLi/densenet-tensorflow)
 - github(Keras): [https://github.com/titu1994/DenseNet](https://github.com/titu1994/DenseNet)
 - github(PyTorch): [https://github.com/bamos/densenet.pytorch](https://github.com/bamos/densenet.pytorch)
+- github(PyTorch): [https://github.com/andreasveit/densenet-pytorch](https://github.com/andreasveit/densenet-pytorch)
 
 **CliqueCNN: Deep Unsupervised Exemplar Learning**
 
@@ -1376,6 +1378,10 @@ It is based on Facebook's TorchCraft, which is a bridge between Torch and StarCr
 - arxiv: [https://arxiv.org/abs/1611.03199](https://arxiv.org/abs/1611.03199)
 - homepage: [http://deepchem.io/](http://deepchem.io/)
 - github: [https://github.com/deepchem/deepchem](https://github.com/deepchem/deepchem)
+
+**Democratizing Drug Discovery with DeepChem**
+
+- youtube: [https://www.youtube.com/watch?v=sntikyFI8s8](https://www.youtube.com/watch?v=sntikyFI8s8)
 
 **Introduction to Deep Learning in Medicine and Biology**
 
@@ -2348,6 +2354,10 @@ Compatible with Theano and TensorFlow. Optimized for Twitter.
 - intro: Create, train and monitor deep neural networks using a model designer.
 - homepage: [http://aetros.com/](http://aetros.com/)
 - github: [https://github.com/aetros/aetros-cli](https://github.com/aetros/aetros-cli)
+
+**Deep Learning Studio: Cloud platform for designing Deep Learning AI without programming**
+
+[http://deepcognition.ai/](http://deepcognition.ai/)
 
 # Books
 

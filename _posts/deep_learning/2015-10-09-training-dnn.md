@@ -361,6 +361,7 @@ date: 2015-10-09
 - arxiv: [https://arxiv.org/abs/1606.04474](https://arxiv.org/abs/1606.04474)
 - github: [https://github.com/deepmind/learning-to-learn](https://github.com/deepmind/learning-to-learn)
 - github(TensorFlow): [https://github.com/runopti/Learning-To-Learn](https://github.com/runopti/Learning-To-Learn)
+- github(PyTorch): [https://github.com/ikostrikov/pytorch-meta-optimizer](https://github.com/ikostrikov/pytorch-meta-optimizer)
 
 **SGDR: Stochastic Gradient Descent with Restarts**
 

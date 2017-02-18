@@ -140,6 +140,13 @@ date: 2015-10-09
 - intro: UC Berkeley CS 280 final project report
 - arxiv: [https://arxiv.org/abs/1701.02362](https://arxiv.org/abs/1701.02362)
 
+**Visualizing Deep Neural Network Decisions: Prediction Difference Analysis**
+
+- intro: University of Amsterdam & Canadian Institute of Advanced Research & Vrije Universiteit Brussel
+- intro: ICLR 2017
+- arxiv: [https://arxiv.org/abs/1702.04595](https://arxiv.org/abs/1702.04595)
+- github: [https://github.com/lmzintgraf/DeepVis-PredDiff](https://github.com/lmzintgraf/DeepVis-PredDiff)
+
 # Projects
 
 **Interactive Deep Neural Net Hallucinations**
@@ -207,6 +214,11 @@ date: 2015-10-09
 **Visualizing Deep Neural Networks Classes and Features**
 
 [http://ankivil.com/visualizing-deep-neural-networks-classes-and-features/](http://ankivil.com/visualizing-deep-neural-networks-classes-and-features/)
+
+**Visualizing parts of Convolutional Neural Networks using Keras and Cats**
+
+- blog: [https://hackernoon.com/visualizing-parts-of-convolutional-neural-networks-using-keras-and-cats-5cc01b214e59#.bt6bb13dk](https://hackernoon.com/visualizing-parts-of-convolutional-neural-networks-using-keras-and-cats-5cc01b214e59#.bt6bb13dk)
+- github: [https://github.com/erikreppel/visualizing_cnns](https://github.com/erikreppel/visualizing_cnns)
 
 # Tools
 

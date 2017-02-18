@@ -690,6 +690,10 @@ Machine learning workflow, Extracting feaures from images (colours, edges, corne
 
 [https://elitedatascience.com/keras-tutorial-deep-learning-in-python](https://elitedatascience.com/keras-tutorial-deep-learning-in-python)
 
+**Deep Learning with Keras: Tutorial @ EuroScipy 2016**
+
+- github: [https://github.com/leriomaggio/deep-learning-keras-tensorflow](https://github.com/leriomaggio/deep-learning-keras-tensorflow)
+
 **Transfer Learning and Fine Tuning for Cross Domain Image Classification with Keras**
 
 - slides: [http://www.slideshare.net/sujitpal/transfer-learning-and-fine-tuning-for-cross-domain-image-classification-with-keras](http://www.slideshare.net/sujitpal/transfer-learning-and-fine-tuning-for-cross-domain-image-classification-with-keras)
@@ -703,6 +707,74 @@ Machine learning workflow, Extracting feaures from images (colours, edges, corne
 - github: [https://github.com/k-kawakami/Theano_Tutorial/blob/master/Theano_Tutorial.ipynb](https://github.com/k-kawakami/Theano_Tutorial/blob/master/Theano_Tutorial.ipynb)
 
 # TensorFlow
+
+**LearningTensorFlow.com: A beginners guide to a powerful framework.**
+
+- homepge: [http://learningtensorflow.com/index.html](http://learningtensorflow.com/index.html)
+
+**TensorFlow Examples: TensorFlow tutorials and code examples for beginners**
+
+- github: [https://github.com/aymericdamien/TensorFlow-Examples](https://github.com/aymericdamien/TensorFlow-Examples)
+
+**Awesome TensorFlow: A curated list of awesome TensorFlow experiments, libraries, and projects**
+
+- github: [https://github.com/jtoy/awesome-tensorflow/](https://github.com/jtoy/awesome-tensorflow/)
+
+**The Good, Bad, & Ugly of TensorFlow: A survey of six months rapid evolution (+ tips/hacks and code to fix the ugly stuff)**
+
+- blog: [https://indico.io/blog/the-good-bad-ugly-of-tensorflow/](https://indico.io/blog/the-good-bad-ugly-of-tensorflow/)
+
+**Tensorflow Tutorials using Jupyter Notebook**
+
+- github: [https://github.com/sjchoi86/Tensorflow-101](https://github.com/sjchoi86/Tensorflow-101)
+
+**TensorFlow Tutorial**
+
+- homepage: [http://terryum.io/ml_practice/2016/05/28/TFIntroSlides/](http://terryum.io/ml_practice/2016/05/28/TFIntroSlides/)
+- slides: [https://s3.amazonaws.com/www.terryum.io/images/TensorFlow_Intro_160529.pptx](https://s3.amazonaws.com/www.terryum.io/images/TensorFlow_Intro_160529.pptx)
+- mirror: [http://pan.baidu.com/s/1c5cICY](http://pan.baidu.com/s/1c5cICY)
+- github: [https://github.com/terryum/TensorFlow_Exercises](https://github.com/terryum/TensorFlow_Exercises)
+
+**FIRST CONTACT WITH TENSORFLOW**
+
+- ebook: [http://www.jorditorres.org/first-contact-with-tensorflow/](http://www.jorditorres.org/first-contact-with-tensorflow/)
+
+**Introduction to TensorFlow**
+
+- github: [https://github.com/nihit/TensorFlow101](https://github.com/nihit/TensorFlow101)
+
+**TensorFlow-Tutorials: Simple tutorials using Google's TensorFlow Framework**
+
+- github: [https://github.com/nlintz/TensorFlow-Tutorials](https://github.com/nlintz/TensorFlow-Tutorials)
+
+**Neural Network Toolbox on TensorFlow**
+
+- github: [https://github.com/ppwwyyxx/tensorpack](https://github.com/ppwwyyxx/tensorpack)
+
+**Awesome Tensorflow Implementations**
+
+- github: [https://github.com/TensorFlowKR/awesome_tensorflow_implementations](https://github.com/TensorFlowKR/awesome_tensorflow_implementations)
+
+**The Ultimate List of TensorFlow Resources: Books, Tutorials & More**
+
+- blog: [https://hackerlists.com/tensorflow-resources/](https://hackerlists.com/tensorflow-resources/)
+
+**Install TensorFlow: Slides and code from our TensorFlow Workshop**
+
+- github: [https://github.com/random-forests/tensorflow-workshop](https://github.com/random-forests/tensorflow-workshop)
+
+**A Tour of TensorFlow**
+
+- arxiv: [https://arxiv.org/abs/1610.01178](https://arxiv.org/abs/1610.01178)
+
+**TensorFlow Tutorials**
+
+- youtube: [https://www.youtube.com/playlist?list=PL9Hr9sNUjfsmEu1ZniY0XpHSzl5uihcXZ](https://www.youtube.com/playlist?list=PL9Hr9sNUjfsmEu1ZniY0XpHSzl5uihcXZ)
+- github: [https://github.com/Hvass-Labs/TensorFlow-Tutorials](https://github.com/Hvass-Labs/TensorFlow-Tutorials)
+
+**Shapes and dynamic dimensions in TensorFlow**
+
+- blog: [https://blog.metaflow.fr/shapes-and-dynamic-dimensions-in-tensorflow-7b1fe79be363#.1293uf94t](https://blog.metaflow.fr/shapes-and-dynamic-dimensions-in-tensorflow-7b1fe79be363#.1293uf94t)
 
 **TensorFlow saving/restoring and mixing multiple models**
 
@@ -778,6 +850,39 @@ Machine learning workflow, Extracting feaures from images (colours, edges, corne
 - book: [https://bleedingedgepress.com/tensor-flow-for-machine-intelligence/](https://bleedingedgepress.com/tensor-flow-for-machine-intelligence/)
 - github: [https://github.com/backstopmedia/tensorflowbook](https://github.com/backstopmedia/tensorflowbook)
 
+**Installing TensorFlow on Raspberry Pi 3 (and probably 2 as well)**
+
+- intro: TensorFlow for Raspberry Pi
+- github: [https://github.com/samjabrahams/tensorflow-on-raspberry-pi](https://github.com/samjabrahams/tensorflow-on-raspberry-pi)
+
+**CodinGame: Deep Learning - TensorFlow**
+
+- homepage: [https://www.codingame.com/games/machine-learning?utm_source=CodinGame&utm_medium=Email&utm_campaign=tensorflow](https://www.codingame.com/games/machine-learning?utm_source=CodinGame&utm_medium=Email&utm_campaign=tensorflow)
+
+**A Practical Guide for Debugging Tensorflow Codes**
+
+**Debugging Tips on TensorFlow**
+
+- slides: [https://wookayin.github.io/TensorflowKR-2016-talk-debugging](https://wookayin.github.io/TensorflowKR-2016-talk-debugging)
+- github: [https://github.com/wookayin/TensorflowKR-2016-talk-debugging](https://github.com/wookayin/TensorflowKR-2016-talk-debugging)
+
+**Tensorflow Projects: Deep learning using tensorflow**
+
+- intro: A repo of everything deep and neurally related. 
+Implementations and ideas are largely based on papers from arxiv and implementations, tutorials from the internet.
+- github: [https://github.com/shekkizh/TensorflowProjects](https://github.com/shekkizh/TensorflowProjects)
+
+**Machine Learning with TensorFlow**
+
+- homepage: [http://www.tensorflowbook.com/](http://www.tensorflowbook.com/)
+- github: [https://github.com/BinRoot/TensorFlow-Book](https://github.com/BinRoot/TensorFlow-Book)
+- blog: [https://www.manning.com/books/machine-learning-with-tensorflow](https://www.manning.com/books/machine-learning-with-tensorflow)
+
+**Convolutional Networks: from TensorFlow to iOS BNNS**
+
+- blog: [https://paiv.github.io/blog/2016/09/25/tensorflow-to-bnns.html](https://paiv.github.io/blog/2016/09/25/tensorflow-to-bnns.html)
+- github: [https://github.com/paiv/mnist-bnns](https://github.com/paiv/mnist-bnns)
+
 # Torch
 
 **Torch Developer Guide**
@@ -789,6 +894,10 @@ Machine learning workflow, Extracting feaures from images (colours, edges, corne
 **Practical PyTorch tutorials**
 
 - github: [https://github.com/spro/practical-pytorch](https://github.com/spro/practical-pytorch)
+
+**The Incredible PyTorch**
+
+- github: [https://github.com/ritchieng/the-incredible-pytorch](https://github.com/ritchieng/the-incredible-pytorch)
 
 # Building a System for Fun!
 
