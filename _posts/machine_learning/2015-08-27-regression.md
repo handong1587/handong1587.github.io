@@ -114,3 +114,9 @@ date: 2015-08-27
 
 - blog: [http://eli.thegreenplace.net/2016/logistic-regression/](http://eli.thegreenplace.net/2016/logistic-regression/)
 - github: [https://github.com/eliben/deep-learning-samples/tree/master/logistic-regression](https://github.com/eliben/deep-learning-samples/tree/master/logistic-regression)
+
+# Ridge Regression
+
+**Lecture notes on ridge regression**
+
+- arxiv: [https://arxiv.org/abs/1509.09169](https://arxiv.org/abs/1509.09169)

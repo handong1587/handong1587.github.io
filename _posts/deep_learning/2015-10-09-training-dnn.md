@@ -219,6 +219,11 @@ date: 2015-10-09
 - intro: Oculus VR & Facebook & NEC Labs America
 - paper: [https://research.fb.com/publications/exploring-normalization-in-deep-residual-networks-with-concatenated-rectified-linear-units/](https://research.fb.com/publications/exploring-normalization-in-deep-residual-networks-with-concatenated-rectified-linear-units/)
 
+**Batch Renormalization: Towards Reducing Minibatch Dependence in Batch-Normalized Models**
+
+- intro: Sergey Ioffe, Google
+- arxiv: [https://arxiv.org/abs/1702.03275](https://arxiv.org/abs/1702.03275)
+
 ## Layer Normalization
 
 **Layer Normalization**

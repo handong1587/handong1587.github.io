@@ -117,6 +117,7 @@ date: 2015-10-09
 # Courses
 
 **Advanced Topics: RL**
+
 **UCL Course on RL**
 
 - instructors: David Silver (Google DeepMind, AlphaGo)
@@ -140,6 +141,10 @@ date: 2015-10-09
 
 - intro: Andrew Ng
 - lecture notes: [http://cs229.stanford.edu/notes/cs229-notes12.pdf](http://cs229.stanford.edu/notes/cs229-notes12.pdf)
+
+**Practical_RL: A course in reinforcement learning in the wild**
+
+- github: [https://github.com/yandexdataschool/Practical_RL](https://github.com/yandexdataschool/Practical_RL)
 
 # Papers
 

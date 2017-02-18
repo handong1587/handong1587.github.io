@@ -354,6 +354,17 @@ at INT8 deep learning operations than other FPGA DSP architectures"
 - intro: Middle East Technical University & Bilkent University
 - arxiv: [https://arxiv.org/abs/1702.02676](https://arxiv.org/abs/1702.02676)
 
+**Incremental Network Quantization: Towards Lossless CNNs with Low-Precision Weights**
+
+- intro: ICLR 2017
+- arxiv: [https://arxiv.org/abs/1702.03044](https://arxiv.org/abs/1702.03044)
+
+**Soft Weight-Sharing for Neural Network Compression**
+
+- intro: ICLR 2017. University of Amsterdam
+- arxiv: [https://arxiv.org/abs/1702.04008](https://arxiv.org/abs/1702.04008)
+- github: [https://github.com/KarenUllrich/Tutorial-SoftWeightSharingForNNCompression](https://github.com/KarenUllrich/Tutorial-SoftWeightSharingForNNCompression)
+
 # Projects
 
 **Accelerate Convolutional Neural Networks**
