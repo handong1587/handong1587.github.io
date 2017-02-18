@@ -214,6 +214,10 @@ date: 2015-10-09
 
 - arxiv: [http://arxiv.org/abs/1605.09304](http://arxiv.org/abs/1605.09304)
 
+**ArtGAN: Artwork Synthesis with Conditional Categorial GANs**
+
+- arxiv: [https://arxiv.org/abs/1702.03410](https://arxiv.org/abs/1702.03410)
+
 # Blogs
 
 **Torch convolutional GAN: Generating Faces with Torch**

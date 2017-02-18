@@ -365,7 +365,7 @@ and 1.15s per image with it".
 
 **Subcategory-aware Convolutional Neural Networks for Object Proposals and Detection**
 
-- intro: SubCNN
+- intro: WACV 2017. SubCNN
 - arxiv: [http://arxiv.org/abs/1604.04693](http://arxiv.org/abs/1604.04693)
 - github: [https://github.com/yuxng/SubCNN](https://github.com/yuxng/SubCNN)
 

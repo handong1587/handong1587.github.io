@@ -424,6 +424,11 @@ extract saptio-temporal features to represent the video using the CNNs."
 - intro: Stanford University
 - arxiv: [https://arxiv.org/abs/1701.01821](https://arxiv.org/abs/1701.01821)
 
+**One-Step Time-Dependent Future Video Frame Prediction with a Convolutional Encoder-Decoder Neural Network**
+
+- intro: NCCV 2016
+- arxiv: [https://arxiv.org/abs/1702.04125](https://arxiv.org/abs/1702.04125)
+
 # Video Tagging
 
 **Automatic Image and Video Tagging**

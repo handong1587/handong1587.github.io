@@ -50,6 +50,8 @@ date: 2015-10-09
 - slides: [http://llcao.net/cu-deeplearning15/presentation/cc3580_Simonyan.pptx](http://llcao.net/cu-deeplearning15/presentation/cc3580_Simonyan.pptx)
 - slides: [http://www.robots.ox.ac.uk/~karen/pdf/ILSVRC_2014.pdf](http://www.robots.ox.ac.uk/~karen/pdf/ILSVRC_2014.pdf)
 - slides: [http://deeplearning.cs.cmu.edu/slides.2015/25.simonyan.pdf](http://deeplearning.cs.cmu.edu/slides.2015/25.simonyan.pdf)
+- github(official, deprecated Caffe API): [https://gist.github.com/ksimonyan/211839e770f7b538e2d8](https://gist.github.com/ksimonyan/211839e770f7b538e2d8)
+- github: [https://github.com/ruimashita/caffe-train](https://github.com/ruimashita/caffe-train)
 
 **Tensorflow VGG16 and VGG19**
 
@@ -1782,6 +1784,10 @@ It is based on Facebook's TorchCraft, which is a bridge between Torch and StarCr
 - intro: Google DeepMind & Google Brain
 - arxiv: [https://arxiv.org/abs/1701.08734](https://arxiv.org/abs/1701.08734)
 - notes: [https://medium.com/intuitionmachine/pathnet-a-modular-deep-learning-architecture-for-agi-5302fcf53273#.8f0o6w3en](https://medium.com/intuitionmachine/pathnet-a-modular-deep-learning-architecture-for-agi-5302fcf53273#.8f0o6w3en)
+
+**Reluplex: An Efficient SMT Solver for Verifying Deep Neural Networks**
+
+- arxiv: [https://arxiv.org/abs/1702.01135](https://arxiv.org/abs/1702.01135)
 
 ## Separable Convolutions
 
