@@ -614,6 +614,7 @@ Machine learning workflow, Extracting feaures from images (colours, edges, corne
 # Backpropagation
 
 **Learning representations by back-propagating errors (1986)**
+
 **Learning Internal Representations by Error Propagating (1986)**
 
 - author: David E. Rumelhart, Geoffrey E. Hinton & Ronald J. Williams
@@ -646,6 +647,10 @@ Machine learning workflow, Extracting feaures from images (colours, edges, corne
 ![](http://i2.wp.com/deliprao.com/wp-content/uploads/2016/08/Selection_010-1.png?w=617)
 
 - blog: [http://deliprao.com/archives/191](http://deliprao.com/archives/191)
+
+**Backpropagation In Convolutional LSTMs**
+
+[https://www.doc.ic.ac.uk/~ahanda/ConvLSTMs.pdf](https://www.doc.ic.ac.uk/~ahanda/ConvLSTMs.pdf)
 
 # Attention
 

@@ -146,6 +146,10 @@ Contains all the popular DL frameworks (TensorFlow, Theano, Torch, Caffe, etc.)
 - intro: by Joseph Redmon
 - blog: [http://pjreddie.com/darknet/hardware-guide/](http://pjreddie.com/darknet/hardware-guide/)
 
+**Building Your Own Deep Learning Box**
+
+[https://medium.com/@bfortuner/building-your-own-deep-learning-box-47b918aea1eb#.4r5zchk4f](https://medium.com/@bfortuner/building-your-own-deep-learning-box-47b918aea1eb#.4r5zchk4f)
+
 # GPU
 
 **Which GPU(s) to Get for Deep Learning: My Experience and Advice for Using GPUs in Deep Learning**

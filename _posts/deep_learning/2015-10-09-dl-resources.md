@@ -1228,6 +1228,7 @@ with fast exact probabilistic inference over many layers."
 **Deep Learning the Stock Market**
 
 - blog: [https://medium.com/@TalPerry/deep-learning-the-stock-market-df853d139e02#.z752rf43u](https://medium.com/@TalPerry/deep-learning-the-stock-market-df853d139e02#.z752rf43u)
+- github: [https://github.com/talolard/MarketVectors](https://github.com/talolard/MarketVectors)
 
 **rl_portfolio**
 
@@ -2427,3 +2428,8 @@ Compatible with Theano and TensorFlow. Optimized for Twitter.
 **850k Images in 24 hours: Automating Deep Learning Dataset Creation**
 
 [https://gab41.lab41.org/850k-images-in-24-hours-automating-deep-learning-dataset-creation-60bdced04275#.xhq9feuxx](https://gab41.lab41.org/850k-images-in-24-hours-automating-deep-learning-dataset-creation-60bdced04275#.xhq9feuxx)
+
+**How six lines of code + SQL Server can bring Deep Learning to ANY App**
+
+- blog: [https://blogs.technet.microsoft.com/dataplatforminsider/2017/01/05/how-six-lines-of-code-sql-server-can-bring-deep-learning-to-any-app/](https://blogs.technet.microsoft.com/dataplatforminsider/2017/01/05/how-six-lines-of-code-sql-server-can-bring-deep-learning-to-any-app/)
+- github: [https://github.com/Microsoft/SQL-Server-R-Services-Samples/tree/master/Galaxies](https://github.com/Microsoft/SQL-Server-R-Services-Samples/tree/master/Galaxies)

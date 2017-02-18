@@ -5,6 +5,12 @@ title: Keep Up With New Trends
 date: 2016-12-06
 ---
 
+# CVPR 2017
+
+**CVPR'17 Tutorial: Deep Learning for Objects and Scenes**
+
+[http://deeplearning.csail.mit.edu/](http://deeplearning.csail.mit.edu/)
+
 # NIPS 2016
 
 **NIPS 2016 Schedule**
