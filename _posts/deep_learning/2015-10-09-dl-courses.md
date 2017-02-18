@@ -112,7 +112,11 @@ date: 2015-10-09
 - homepage: [http://web.stanford.edu/class/cs20si/](http://web.stanford.edu/class/cs20si/)
 - github: [https://github.com/chiphuyen/tf-stanford-tutorials](https://github.com/chiphuyen/tf-stanford-tutorials)
 
-***Deep Learning course*
+**Deep Learning with TensorFlow**
+
+[https://bigdatauniversity.com/courses/deep-learning-tensorflow/](https://bigdatauniversity.com/courses/deep-learning-tensorflow/)
+
+**Deep Learning course**
 
 - github: [https://github.com/ddtm/dl-course](https://github.com/ddtm/dl-course)
 
@@ -161,10 +165,6 @@ date: 2015-10-09
 - intro: MSc in Artificial Intelligence for the University of Amsterdam.
 - homepage: [http://uvadlc.github.io/](http://uvadlc.github.io/)
 - assignments: [https://github.com/uvadlc/uvadlc_practicals_2016](https://github.com/uvadlc/uvadlc_practicals_2016)
-
-**Deep Learning with TensorFlow**
-
-[https://bigdatauniversity.com/courses/deep-learning-tensorflow/](https://bigdatauniversity.com/courses/deep-learning-tensorflow/)
 
 **Practical Deep Learning For Coders, Part 1**
 
