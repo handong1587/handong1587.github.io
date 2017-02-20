@@ -218,6 +218,10 @@ date: 2015-10-09
 - intro: Tsinghua University
 - arxiv: [https://arxiv.org/abs/1701.07174](https://arxiv.org/abs/1701.07174)
 
+**Multi-Task Convolutional Neural Network for Face Recognition**
+
+- arxiv: [https://arxiv.org/abs/1702.04710](https://arxiv.org/abs/1702.04710)
+
 ### Projects
 
 **Using MXNet for Face-related Algorithm**

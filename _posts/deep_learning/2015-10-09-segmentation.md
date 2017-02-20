@@ -62,6 +62,10 @@ date: 2015-10-09
 
 - arxiv: [https://arxiv.org/abs/1612.05360](https://arxiv.org/abs/1612.05360)
 
+**A deep learning model integrating FCNNs and CRFs for brain tumor segmentation**
+
+- arxiv: [https://arxiv.org/abs/1702.04528](https://arxiv.org/abs/1702.04528)
+
 # Foreground Object Segmentation
 
 **Pixel Objectness**

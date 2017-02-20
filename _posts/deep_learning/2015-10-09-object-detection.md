@@ -845,6 +845,10 @@ This task involves predicting the salient regions of an image given by human eye
 - intro: ECCV 2016 Workshops
 - arxiv: [https://arxiv.org/abs/1610.08871](https://arxiv.org/abs/1610.08871)
 
+**Deep Multi-camera People Detection**
+
+- arxiv: [https://arxiv.org/abs/1702.04593](https://arxiv.org/abs/1702.04593)
+
 ## Person Head Detection
 
 **Context-aware CNNs for person head detection**
@@ -1045,6 +1049,11 @@ This task involves predicting the salient regions of an image given by human eye
 **Pixel-wise Ear Detection with Convolutional Encoder-Decoder Networks**
 
 - arxiv: [https://arxiv.org/abs/1702.00307](https://arxiv.org/abs/1702.00307)
+
+**Automatic Handgun Detection Alarm in Videos Using Deep Learning**
+
+- arxiv: [https://arxiv.org/abs/1702.05147](https://arxiv.org/abs/1702.05147)
+- results: [https://github.com/SihamTabik/Pistol-Detection-in-Videos](https://github.com/SihamTabik/Pistol-Detection-in-Videos)
 
 # Object Proposal
 
