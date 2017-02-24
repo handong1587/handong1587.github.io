@@ -232,7 +232,9 @@ such as image classification, object detection or text captioning.
 
 **Stanford CS224d: Deep Learning for Natural Language Processing**
 
-[http://cs224d.stanford.edu/](http://cs224d.stanford.edu/)
+- homepage: [http://cs224d.stanford.edu/](http://cs224d.stanford.edu/)
+- syllabus: [http://cs224d.stanford.edu/syllabus.html](http://cs224d.stanford.edu/syllabus.html)
+- lecture notes: [https://cs224d.stanford.edu/lecture_notes/](https://cs224d.stanford.edu/lecture_notes/)
 
 **Code for Stanford CS224D: deep learning for natural language understanding**
 
@@ -254,12 +256,6 @@ such as image classification, object detection or text captioning.
 - youtube: [https://www.youtube.com/playlist?list=PL613dYIGMXoZBtZhbyiBqb0QtgK6oJbpm](https://www.youtube.com/playlist?list=PL613dYIGMXoZBtZhbyiBqb0QtgK6oJbpm)
 - mirror: [https://pan.baidu.com/s/1dFvGHUh#list/path=%2F](https://pan.baidu.com/s/1dFvGHUh#list/path=%2F)
 
-# Parallel Programming
-
-**Intro to Parallel Programming Using CUDA to Harness the Power of GPUs (Udacity)**
-
-[https://www.udacity.com/course/intro-to-parallel-programming--cs344](https://www.udacity.com/course/intro-to-parallel-programming--cs344)
-
 # GPU Programming
 
 **Course on CUDA Programming on NVIDIA GPUs, July 27--31, 2015**
@@ -274,6 +270,12 @@ such as image classification, object detection or text captioning.
 **GPU Programming**
 
 - homepage: [http://courses.cms.caltech.edu/cs179/](http://courses.cms.caltech.edu/cs179/)
+
+# Parallel Programming
+
+**Intro to Parallel Programming Using CUDA to Harness the Power of GPUs (Udacity)**
+
+[https://www.udacity.com/course/intro-to-parallel-programming--cs344](https://www.udacity.com/course/intro-to-parallel-programming--cs344)
 
 # Resources
 
