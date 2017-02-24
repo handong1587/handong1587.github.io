@@ -474,6 +474,13 @@ Continuation of [arXiv:1608.08021](https://arxiv.org/abs/1608.08021)
 - intro: University of Maryland & Mitsubishi Electric Research Laboratories
 - arxiv: [https://arxiv.org/abs/1702.01478](https://arxiv.org/abs/1702.01478)
 
+## CC-Net
+
+**Learning Chained Deep Features and Classifiers for Cascade in Object Detection**
+
+- intro: chained cascade network (CC-Net). 81.1% mAP on PASCAL VOC 2007
+- arxiv: [https://arxiv.org/abs/1702.07054](https://arxiv.org/abs/1702.07054)
+
 # Detection From Video
 
 **Learning Object Class Detectors from Weakly Annotated Video**
@@ -528,6 +535,10 @@ Continuation of [arXiv:1608.08021](https://arxiv.org/abs/1608.08021)
 - intro: WangTao @ 爱奇艺
 - keywords: object retrieval, object detection, scene classification
 - slides: [http://on-demand.gputechconf.com/gtc/2016/presentation/s6362-wang-tao-cnn-based-object-detection-large-video-images.pdf](http://on-demand.gputechconf.com/gtc/2016/presentation/s6362-wang-tao-cnn-based-object-detection-large-video-images.pdf)
+
+**Object Detection in Videos with Tubelet Proposal Networks**
+
+- arxiv: [https://arxiv.org/abs/1702.06355](https://arxiv.org/abs/1702.06355)
 
 ## Datasets
 

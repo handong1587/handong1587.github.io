@@ -365,6 +365,10 @@ at INT8 deep learning operations than other FPGA DSP architectures"
 - arxiv: [https://arxiv.org/abs/1702.04008](https://arxiv.org/abs/1702.04008)
 - github: [https://github.com/KarenUllrich/Tutorial-SoftWeightSharingForNNCompression](https://github.com/KarenUllrich/Tutorial-SoftWeightSharingForNNCompression)
 
+**A 7.663-TOPS 8.2-W Energy-efficient FPGA Accelerator for Binary Convolutional Neural Networks**
+
+- arxiv: [https://arxiv.org/abs/1702.06392](https://arxiv.org/abs/1702.06392)
+
 # Projects
 
 **Accelerate Convolutional Neural Networks**

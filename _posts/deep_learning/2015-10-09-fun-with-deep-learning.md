@@ -520,6 +520,10 @@ Compressed model is less than 500KB
 - github: [https://github.com/pfnet/PaintsChainer](https://github.com/pfnet/PaintsChainer)
 - demo: [http://paintschainer.preferred.tech/](http://paintschainer.preferred.tech/)
 
+**Unsupervised Diverse Colorization via Generative Adversarial Networks**
+
+- arxiv: [https://arxiv.org/abs/1702.06674](https://arxiv.org/abs/1702.06674)
+
 # Sounds
 
 **Visually Indicated Sounds**

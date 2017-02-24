@@ -662,3 +662,14 @@ sed -i 's/^I//g'
 Note:
 
 ^I = Ctrl+v,Ctrl+I
+
+**Remove duplicate text lines
+
+```
+sort {file-name} | uniq -u
+```
+
+**Remove duplicate text lines and only keep one line
+```
+perl -lne '$seen{$_}++ and next or print;' data.txt > output.txt
+```

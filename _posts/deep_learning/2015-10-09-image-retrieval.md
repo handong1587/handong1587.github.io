@@ -262,6 +262,10 @@ date: 2015-10-09
 
 - arxiv: [https://arxiv.org/abs/1702.00338](https://arxiv.org/abs/1702.00338)
 
+**Deep Geometric Retrieval**
+
+- arxiv: [https://arxiv.org/abs/1702.06383](https://arxiv.org/abs/1702.06383)
+
 # Video Indexing / Retrieval
 
 **Face Video Retrieval via Deep Learning of Binary Hash Representations**

@@ -1796,6 +1796,10 @@ It is based on Facebook's TorchCraft, which is a bridge between Torch and StarCr
 
 - arxiv: [https://arxiv.org/abs/1702.01135](https://arxiv.org/abs/1702.01135)
 
+**The Power of Sparsity in Convolutional Neural Networks**
+
+- arxiv: [https://arxiv.org/abs/1702.06257](https://arxiv.org/abs/1702.06257)
+
 ## Separable Convolutions
 
 **Deep Learning with Separable Convolutions**
