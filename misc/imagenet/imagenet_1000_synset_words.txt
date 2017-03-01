@@ -1,27 +1,27 @@
 n01440764 tench, Tinca tinca 丁鲷；鲤鱼
 n01443537 goldfish, Carassius auratus
-n01484850 great white shark, white shark, man-eater, man-eating shark, Carcharodon carcharias
+n01484850 great white shark, white shark, man-eater, man-eating shark, Carcharodon carcharias  鲨鱼
 n01491361 tiger shark, Galeocerdo cuvieri
 n01494475 hammerhead, hammerhead shark
 n01496331 electric ray, crampfish, numbfish, torpedo
-n01498041 stingray
-n01514668 cock
-n01514859 hen
-n01518878 ostrich, Struthio camelus
+n01498041 stingray 黄貂鱼
+n01514668 cock 公鸡
+n01514859 hen  母鸡
+n01518878 ostrich, Struthio camelus  鸵鸟；
 n01530575 brambling, Fringilla montifringilla 燕雀；花鸡
 n01531178 goldfinch, Carduelis carduelis 金翅雀
 n01532829 house finch, linnet, Carpodacus mexicanus
 n01534433 junco, snowbird
 n01537544 indigo bunting, indigo finch, indigo bird, Passerina cyanea
-n01558993 robin, American robin, Turdus migratorius
-n01560419 bulbul
-n01580077 jay
+n01558993 robin, American robin, Turdus migratorius 旅鸫；候鸟
+n01560419 bulbul  夜莺
+n01580077 jay  松鸦
 n01582220 magpie 鹊，喜鹊
 n01592084 chickadee 山雀
 n01601694 water ouzel, dipper 河鸟
-n01608432 kite
-n01614925 bald eagle, American eagle, Haliaeetus leucocephalus
-n01616318 vulture
+n01608432 kite  鸢
+n01614925 bald eagle, American eagle, Haliaeetus leucocephalus  鹰
+n01616318 vulture  秃鹫
 n01622779 great grey owl, great gray owl, Strix nebulosa
 n01629819 European fire salamander, Salamandra salamandra
 n01630670 common newt, Triturus vulgaris
@@ -398,603 +398,602 @@ n02643566 lionfish
 n02655020 puffer, pufferfish, blowfish, globefish
 n02666196 abacus 算盘
 n02667093 abaya 长袍
-n02669723 academic gown, academic robe, judge's robe
+n02669723 academic gown, academic robe, judge's robe  学术礼服，法官长袍
 n02672831 accordion, piano accordion, squeeze box 手风琴
-n02676566 acoustic guitar
+n02676566 acoustic guitar 吉他
 n02687172 aircraft carrier, carrier, flattop, attack aircraft carrier 航空母舰
-n02690373 airliner
-n02692877 airship, dirigible
-n02699494 altar
-n02701002 ambulance
-n02704792 amphibian, amphibious vehicle
-n02708093 analog clock
-n02727426 apiary, bee house
+n02690373 airliner 大型客机
+n02692877 airship, dirigible 飞艇，飞船
+n02699494 altar  祭坛
+n02701002 ambulance  救护车
+n02704792 amphibian, amphibious vehicle 两栖车辆
+n02708093 analog clock  模拟时钟
+n02727426 apiary, bee house 养蜂场
 n02730930 apron 围裙
-n02747177 ashcan, trash can, garbage can, wastebin, ash bin, ash-bin, ashbin, dustbin, trash barrel, trash bin
-n02749479 assault rifle, assault gun
-n02769748 backpack, back pack, knapsack, packsack, rucksack, haversack
-n02776631 bakery, bakeshop, bakehouse
-n02777292 balance beam, beam
-n02782093 balloon
-n02783161 ballpoint, ballpoint pen, ballpen, Biro
-n02786058 Band Aid
+n02747177 ashcan, trash can, garbage can, wastebin, ash bin, ash-bin, ashbin, dustbin, trash barrel, trash bin 垃圾箱
+n02749479 assault rifle, assault gun 突击步枪
+n02769748 backpack, back pack, knapsack, packsack, rucksack, haversack 背包
+n02776631 bakery, bakeshop, bakehouse 面包店
+n02777292 balance beam, beam 光线
+n02782093 balloon 气球
+n02783161 ballpoint, ballpoint pen, ballpen, Biro 圆珠笔
+n02786058 Band Aid 创可贴
 n02787622 banjo 班卓琴；五弦琴
-n02788148 bannister, banister, balustrade, balusters, handrail
+n02788148 bannister, banister, balustrade, balusters, handrail 扶手，栏杆
 n02790996 barbell 杠铃
-n02791124 barber chair
-n02791270 barbershop
-n02793495 barn
-n02794156 barometer
-n02795169 barrel, cask
-n02797295 barrow, garden cart, lawn cart, wheelbarrow
-n02799071 baseball
-n02802426 basketball
+n02791124 barber chair 理发椅
+n02791270 barbershop 理发店
+n02793495 barn 车库
+n02794156 barometer 气压计
+n02795169 barrel, cask 桶，木桶
+n02797295 barrow, garden cart, lawn cart, wheelbarrow 手推车
+n02799071 baseball 棒球
+n02802426 basketball 篮球
 n02804414 bassinet 摇篮；摇篮车
-n02804610 bassoon
-n02807133 bathing cap, swimming cap
-n02808304 bath towel
+n02804610 bassoon 巴松管，低音管
+n02807133 bathing cap, swimming cap  浴帽，泳帽
+n02808304 bath towel 浴巾
 n02808440 bathtub, bathing tub, bath, tub 浴缸
-n02814533 beach wagon, station wagon, wagon, estate car, beach waggon, station waggon, waggon
-n02814860 beacon, lighthouse, beacon light, pharos
-n02815834 beaker
-n02817516 bearskin, busby, shako
-n02823428 beer bottle
-n02823750 beer glass
-n02825657 bell cote, bell cot
-n02834397 bib
-n02835271 bicycle-built-for-two, tandem bicycle, tandem
-n02837789 bikini, two-piece
-n02840245 binder, ring-binder
-n02841315 binoculars, field glasses, opera glasses
-n02843684 birdhouse
-n02859443 boathouse
-n02860847 bobsled, bobsleigh, bob
-n02865351 bolo tie, bolo, bola tie, bola
-n02869837 bonnet, poke bonnet
-n02870880 bookcase
-n02871525 bookshop, bookstore, bookstall
-n02877765 bottlecap
-n02879718 bow
-n02883205 bow tie, bow-tie, bowtie
-n02892201 brass, memorial tablet, plaque
-n02892767 brassiere, bra, bandeau
-n02894605 breakwater, groin, groyne, mole, bulwark, seawall, jetty
-n02895154 breastplate, aegis, egis
-n02906734 broom
-n02909870 bucket, pail
-n02910353 buckle
-n02916936 bulletproof vest
-n02917067 bullet train, bullet
-n02927161 butcher shop, meat market
-n02930766 cab, hack, taxi, taxicab
-n02939185 caldron, cauldron
-n02948072 candle, taper, wax light
-n02950826 cannon
-n02951358 canoe
-n02951585 can opener, tin opener
-n02963159 cardigan
-n02965783 car mirror
-n02966193 carousel, carrousel, merry-go-round, roundabout, whirligig
-n02966687 carpenter's kit, tool kit
-n02971356 carton
-n02974003 car wheel
-n02977058 cash machine, cash dispenser, automated teller machine, automatic teller machine, automated teller, automatic teller, ATM
-n02978881 cassette
-n02979186 cassette player
-n02980441 castle
-n02981792 catamaran
-n02988304 CD player
-n02992211 cello, violoncello
-n02992529 cellular telephone, cellular phone, cellphone, cell, mobile phone
+n02814533 beach wagon, station wagon, wagon, estate car, beach waggon, station waggon, waggon 旅行车
+n02814860 beacon, lighthouse, beacon light, pharos 灯塔
+n02815834 beaker 纸杯
+n02817516 bearskin, busby, shako  熊皮衣，帽子
+n02823428 beer bottle 啤酒瓶
+n02823750 beer glass 啤酒杯
+n02825657 bell cote, bell cot 床
+n02834397 bib 围嘴
+n02835271 bicycle-built-for-two, tandem bicycle, tandem 双人自行车
+n02837789 bikini, two-piece 比基尼泳装
+n02840245 binder, ring-binder 活页夹
+n02841315 binoculars, field glasses, opera glasses 双筒望远镜
+n02843684 birdhouse 鸟房
+n02859443 boathouse 船库
+n02860847 bobsled, bobsleigh, bob 雪橇
+n02865351 bolo tie, bolo, bola tie, bola 领带
+n02869837 bonnet, poke bonnet 帽子
+n02870880 bookcase 书架；书柜
+n02871525 bookshop, bookstore, bookstall 书店
+n02877765 bottlecap 瓶盖
+n02879718 bow 弓
+n02883205 bow tie, bow-tie, bowtie 蝴蝶结领带
+n02892201 brass, memorial tablet, plaque 黄铜，牌位，纪念碑
+n02892767 brassiere, bra, bandeau 胸罩
+n02894605 breakwater, groin, groyne, mole, bulwark, seawall, jetty 海堤
+n02895154 breastplate, aegis, egis 胸铠
+n02906734 broom 扫帚
+n02909870 bucket, pail 桶
+n02910353 buckle 皮带扣
+n02916936 bulletproof vest 防弹背心
+n02917067 bullet train, bullet 高速列车
+n02927161 butcher shop, meat market 肉食店
+n02930766 cab, hack, taxi, taxicab 出租汽车
+n02939185 caldron, cauldron 大锅
+n02948072 candle, taper,  wax light 蜡烛
+n02950826 cannon 大炮
+n02951358 canoe 独木舟；皮划艇；小划子
+n02951585 can opener, tin opener 开罐器
+n02963159 cardigan  开襟毛衣
+n02965783 car mirror 车镜
+n02966193 carousel, carrousel, merry-go-round, roundabout, whirligig 行李传送带
+n02966687 carpenter's kit, tool kit 工具包
+n02971356 carton 塑料罐，硬纸盒
+n02974003 car wheel 汽车轮
+n02977058 cash machine, cash dispenser, automated teller machine, automatic teller machine, automated teller, automatic teller, ATM  取款机
+n02978881 cassette 暗盒；磁带盒；盒式磁带；卡式磁带
+n02979186 cassette player 卡式录音机
+n02980441 castle 城堡；堡垒
+n02981792 catamaran 双体船
+n02988304 CD player  CD播放器
+n02992211 cello, violoncello n.大提琴
+n02992529 cellular telephone, cellular phone, cellphone, cell, mobile phone 手机
 n02999410 chain
 n03000134 chainlink fence
 n03000247 chain mail, ring mail, mail, chain armor, chain armour, ring armor, ring armour
-n03000684 chain saw, chainsaw
-n03014705 chest
-n03016953 chiffonier, commode
-n03017168 chime, bell, gong
-n03018349 china cabinet, china closet
-n03026506 Christmas stocking
-n03028079 church, church building
-n03032252 cinema, movie theater, movie theatre, movie house, picture palace
-n03041632 cleaver, meat cleaver, chopper
-n03042490 cliff dwelling
-n03045698 cloak
-n03047690 clog, geta, patten, sabot
-n03062245 cocktail shaker
-n03063599 coffee mug
-n03063689 coffeepot
-n03065424 coil, spiral, volute, whorl, helix
-n03075370 combination lock
-n03085013 computer keyboard, keypad
-n03089624 confectionery, confectionary, candy store
-n03095699 container ship, containership, container vessel
-n03100240 convertible
-n03109150 corkscrew, bottle screw
-n03110669 cornet, horn, trumpet, trump
-n03124043 cowboy boot
-n03124170 cowboy hat, ten-gallon hat
-n03125729 cradle
-n03126707 crane
-n03127747 crash helmet
-n03127925 crate
-n03131574 crib, cot
-n03133878 Crock Pot
-n03134739 croquet ball
-n03141823 crutch
-n03146219 cuirass
-n03160309 dam, dike, dyke
-n03179701 desk
-n03180011 desktop computer
-n03187595 dial telephone, dial phone
-n03188531 diaper, nappy, napkin
-n03196217 digital clock
-n03197337 digital watch
-n03201208 dining table, board
-n03207743 dishrag, dishcloth
-n03207941 dishwasher, dish washer, dishwashing machine
-n03208938 disk brake, disc brake
-n03216828 dock, dockage, docking facility
-n03218198 dogsled, dog sled, dog sleigh
-n03220513 dome
-n03223299 doormat, welcome mat
-n03240683 drilling platform, offshore rig
-n03249569 drum, membranophone, tympan
-n03250847 drumstick
-n03255030 dumbbell
-n03259280 Dutch oven
-n03271574 electric fan, blower
-n03272010 electric guitar
-n03272562 electric locomotive
-n03290653 entertainment center
-n03291819 envelope
-n03297495 espresso maker
-n03314780 face powder
-n03325584 feather boa, boa
-n03337140 file, file cabinet, filing cabinet
-n03344393 fireboat
-n03345487 fire engine, fire truck
-n03347037 fire screen, fireguard
-n03355925 flagpole, flagstaff
-n03372029 flute, transverse flute
-n03376595 folding chair
-n03379051 football helmet
-n03384352 forklift
-n03388043 fountain
-n03388183 fountain pen
-n03388549 four-poster
-n03393912 freight car
-n03394916 French horn, horn
-n03400231 frying pan, frypan, skillet
-n03404251 fur coat
-n03417042 garbage truck, dustcart
-n03424325 gasmask, respirator, gas helmet
-n03425413 gas pump, gasoline pump, petrol pump, island dispenser
-n03443371 goblet
-n03444034 go-kart
-n03445777 golf ball
+n03000684 chain saw, chainsaw 链条；链子；锁链
+n03014705 chest 衣柜
+n03016953 chiffonier, commode 小衣橱 
+n03017168 chime, bell, gong 铃，钟
+n03018349 china cabinet, china closet 瓷器橱，瓷器柜
+n03026506 Christmas stocking 圣诞袜
+n03028079 church, church building 教堂
+n03032252 cinema, movie theater, movie theatre, movie house, picture palace 电影院
+n03041632 cleaver, meat cleaver, chopper 剁肉刀
+n03045698 cloak 闹钟
+n03047690 clog, geta, patten, sabot 木屐
+n03062245 cocktail shaker 鸡尾酒杯
+n03063599 coffee mug 咖啡杯
+n03063689 coffeepot 咖啡壶
+n03065424 coil, spiral, volute, whorl, helix 线圈
+n03075370 combination lock 密码锁
+n03085013 computer keyboard, keypad 小键盘
+n03089624 confectionery, confectionary, candy store 糖果店
+n03095699 container ship, containership, container vessel 集装箱船，货柜船
+n03100240 convertible 敞篷车
+n03109150 corkscrew, bottle screw 红酒开瓶器
+n03110669 cornet, horn, trumpet, trump 喇叭；小号
+n03124043 cowboy boot 牛仔靴
+n03124170 cowboy hat, ten-gallon hat 牛仔帽
+n03125729 cradle 摇篮
+n03126707 crane 升降机
+n03127747 crash helmet 安全帽
+n03127925 crate 大木箱
+n03131574 crib, cot 幼儿床
+n03133878 Crock Pot 电锅
+n03134739 croquet ball 槌球
+n03141823 crutch 拐杖
+n03146219 cuirass 胸衣
+n03160309 dam, dike, dyke 水坝
+n03179701 desk 桌子
+n03180011 desktop computer 台式电脑
+n03187595 dial telephone, dial phone 拨盘式电话
+n03188531 diaper, nappy, napkin 尿布
+n03196217 digital clock 数字闹钟
+n03197337 digital watch 数字手表
+n03201208 dining table, board 餐桌
+n03207743 dishrag, dishcloth 抹布
+n03207941 dishwasher, dish washer, dishwashing machine 洗碗机
+n03208938 disk brake, disc brake  盘式制动器
+n03216828 dock, dockage, docking facility 码头
+n03218198 dogsled, dog sled, dog sleigh 狗拉雪橇
+n03220513 dome 圆屋顶；穹状建筑物
+n03223299  welcome mat 门口的擦鞋垫
+n03240683 drilling platform, offshore rig  钻探平台
+n03249569 drum, membranophone, tympan 鼓
+n03250847 drumstick 鸡腿
+n03255030 dumbbell 哑铃
+n03259280 Dutch oven 荷兰烤肉锅
+n03271574 electric fan, blower ；电吹风机
+n03272010 electric guitar 电吉他
+n03272562 electric locomotive 电力机车
+n03290653 entertainment center 娱乐中心
+n03291819 envelope 信封
+n03297495 espresso maker 浓缩咖啡机
+n03314780 face powder 脸上的粉
+n03325584 feather boa, boa 羽毛
+n03337140 file, file cabinet, filing cabinet 文件
+n03344393 fireboat 救火船
+n03345487 fire engine, fire truck 消防车
+n03347037 fire screen, fireguard 防火墙
+n03355925 flagpole, flagstaff 旗杆
+n03372029 flute, transverse flute 长笛
+n03376595 folding chair 折叠椅
+n03379051 football helmet 足球头盔
+n03384352 forklift 叉式升降装卸车
+n03388043 fountain 喷泉
+n03388183 fountain pen 钢笔
+n03388549 four-poster 四柱卧床
+n03393912 freight car 货运车
+n03394916 French horn, horn 号，喇叭
+n03400231 frying pan, frypan, skillet 平底锅
+n03404251 fur coat 毛皮大衣
+n03417042 garbage truck, dustcart 垃圾车
+n03424325 gasmask, respirator, gas helmet 口罩
+n03425413 gas pump, gasoline pump, petrol pump, island dispenser 气泵
+n03443371 goblet 高脚酒杯
+n03444034 go-kart 竞赛用的微型单座汽车
+n03445777 golf ball 高尔夫
 n03445924 golfcart, golf cart
-n03447447 gondola
-n03447721 gong, tam-tam
-n03450230 gown
-n03452741 grand piano, grand
-n03457902 greenhouse, nursery, glasshouse
-n03459775 grille, radiator grille
-n03461385 grocery store, grocery, food market, market
-n03467068 guillotine
-n03476684 hair slide
-n03476991 hair spray
-n03478589 half track
-n03481172 hammer
-n03482405 hamper
-n03483316 hand blower, blow dryer, blow drier, hair dryer, hair drier
-n03485407 hand-held computer, hand-held microcomputer
-n03485794 handkerchief, hankie, hanky, hankey
-n03492542 hard disc, hard disk, fixed disk
-n03494278 harmonica, mouth organ, harp, mouth harp
-n03495258 harp
-n03496892 harvester, reaper
-n03498962 hatchet
-n03527444 holster
-n03529860 home theater, home theatre
-n03530642 honeycomb
-n03532672 hook, claw
-n03534580 hoopskirt, crinoline
-n03535780 horizontal bar, high bar
-n03538406 horse cart, horse-cart
-n03544143 hourglass
-n03584254 iPod
-n03584829 iron, smoothing iron
-n03590841 jack-o'-lantern
-n03594734 jean, blue jean, denim
-n03594945 jeep, landrover
-n03595614 jersey, T-shirt, tee shirt
-n03598930 jigsaw puzzle
-n03599486 jinrikisha, ricksha, rickshaw
-n03602883 joystick
-n03617480 kimono
-n03623198 knee pad
-n03627232 knot
-n03630383 lab coat, laboratory coat
-n03633091 ladle
-n03637318 lampshade, lamp shade
-n03642806 laptop, laptop computer
-n03649909 lawn mower, mower
-n03657121 lens cap, lens cover
-n03658185 letter opener, paper knife, paperknife
-n03661043 library
-n03662601 lifeboat
-n03666591 lighter, light, igniter, ignitor
-n03670208 limousine, limo
-n03673027 liner, ocean liner
-n03676483 lipstick, lip rouge
-n03680355 Loafer
-n03690938 lotion
-n03691459 loudspeaker, speaker, speaker unit, loudspeaker system, speaker system
-n03692522 loupe, jeweler's loupe
-n03697007 lumbermill, sawmill
-n03706229 magnetic compass
-n03709823 mailbag, postbag
-n03710193 mailbox, letter box
-n03710637 maillot
-n03710721 maillot, tank suit
-n03717622 manhole cover
-n03720891 maraca
-n03721384 marimba, xylophone
-n03724870 mask
-n03729826 matchstick
-n03733131 maypole
-n03733281 maze, labyrinth
-n03733805 measuring cup
-n03742115 medicine chest, medicine cabinet
-n03743016 megalith, megalithic structure
-n03759954 microphone, mike
-n03761084 microwave, microwave oven
-n03763968 military uniform
-n03764736 milk can
-n03769881 minibus
-n03770439 miniskirt, mini
-n03770679 minivan
-n03773504 missile
-n03775071 mitten
-n03775546 mixing bowl
-n03776460 mobile home, manufactured home
-n03777568 Model T
-n03777754 modem
-n03781244 monastery
-n03782006 monitor
-n03785016 moped
-n03786901 mortar
-n03787032 mortarboard
-n03788195 mosque
-n03788365 mosquito net
-n03791053 motor scooter, scooter
-n03792782 mountain bike, all-terrain bike, off-roader
-n03792972 mountain tent
-n03793489 mouse, computer mouse
-n03794056 mousetrap
-n03796401 moving van
-n03803284 muzzle
-n03804744 nail
-n03814639 neck brace
-n03814906 necklace
-n03825788 nipple
-n03832673 notebook, notebook computer
-n03837869 obelisk
-n03838899 oboe, hautboy, hautbois
-n03840681 ocarina, sweet potato
-n03841143 odometer, hodometer, mileometer, milometer
-n03843555 oil filter
-n03854065 organ, pipe organ
-n03857828 oscilloscope, scope, cathode-ray oscilloscope, CRO
-n03866082 overskirt
-n03868242 oxcart
-n03868863 oxygen mask
-n03871628 packet
-n03873416 paddle, boat paddle
-n03874293 paddlewheel, paddle wheel
-n03874599 padlock
-n03876231 paintbrush
-n03877472 pajama, pyjama, pj's, jammies
-n03877845 palace
-n03884397 panpipe, pandean pipe, syrinx
-n03887697 paper towel
-n03888257 parachute, chute
-n03888605 parallel bars, bars
-n03891251 park bench
-n03891332 parking meter
-n03895866 passenger car, coach, carriage
-n03899768 patio, terrace
-n03902125 pay-phone, pay-station
-n03903868 pedestal, plinth, footstall
-n03908618 pencil box, pencil case
-n03908714 pencil sharpener
-n03916031 perfume, essence
-n03920288 Petri dish
-n03924679 photocopier
-n03929660 pick, plectrum, plectron
-n03929855 pickelhaube
-n03930313 picket fence, paling
-n03930630 pickup, pickup truck
-n03933933 pier
-n03935335 piggy bank, penny bank
-n03937543 pill bottle
-n03938244 pillow
-n03942813 ping-pong ball
-n03944341 pinwheel
-n03947888 pirate, pirate ship
-n03950228 pitcher, ewer
-n03954731 plane, carpenter's plane, woodworking plane
-n03956157 planetarium
-n03958227 plastic bag
-n03961711 plate rack
-n03967562 plow, plough
-n03970156 plunger, plumber's helper
-n03976467 Polaroid camera, Polaroid Land camera
-n03976657 pole
-n03977966 police van, police wagon, paddy wagon, patrol wagon, wagon, black Maria
-n03980874 poncho
-n03982430 pool table, billiard table, snooker table
-n03983396 pop bottle, soda bottle
-n03991062 pot, flowerpot
-n03992509 potter's wheel
-n03995372 power drill
-n03998194 prayer rug, prayer mat
-n04004767 printer
-n04005630 prison, prison house
-n04008634 projectile, missile
-n04009552 projector
-n04019541 puck, hockey puck
-n04023962 punching bag, punch bag, punching ball, punchball
-n04026417 purse
-n04033901 quill, quill pen
-n04033995 quilt, comforter, comfort, puff
-n04037443 racer, race car, racing car
-n04039381 racket, racquet
-n04040759 radiator
-n04041544 radio, wireless
-n04044716 radio telescope, radio reflector
-n04049303 rain barrel
-n04065272 recreational vehicle, RV, R.V.
-n04067472 reel
-n04069434 reflex camera
-n04070727 refrigerator, icebox
-n04074963 remote control, remote
-n04081281 restaurant, eating house, eating place, eatery
-n04086273 revolver, six-gun, six-shooter
-n04090263 rifle
-n04099969 rocking chair, rocker
-n04111531 rotisserie
-n04116512 rubber eraser, rubber, pencil eraser
-n04118538 rugby ball
-n04118776 rule, ruler
-n04120489 running shoe
-n04125021 safe
-n04127249 safety pin
-n04131690 saltshaker, salt shaker
-n04133789 sandal
-n04136333 sarong
-n04141076 sax, saxophone
-n04141327 scabbard
-n04141975 scale, weighing machine
-n04146614 school bus
-n04147183 schooner
-n04149813 scoreboard
-n04152593 screen, CRT screen
-n04153751 screw
-n04154565 screwdriver
-n04162706 seat belt, seatbelt
-n04179913 sewing machine
-n04192698 shield, buckler
-n04200800 shoe shop, shoe-shop, shoe store
-n04201297 shoji
-n04204238 shopping basket
-n04204347 shopping cart
-n04208210 shovel
-n04209133 shower cap
-n04209239 shower curtain
-n04228054 ski
-n04229816 ski mask
-n04235860 sleeping bag
-n04238763 slide rule, slipstick
-n04239074 sliding door
-n04243546 slot, one-armed bandit
-n04251144 snorkel
-n04252077 snowmobile
-n04252225 snowplow, snowplough
-n04254120 soap dispenser
-n04254680 soccer ball
-n04254777 sock
-n04258138 solar dish, solar collector, solar furnace
-n04259630 sombrero
-n04263257 soup bowl
-n04264628 space bar
-n04265275 space heater
-n04266014 space shuttle
-n04270147 spatula
-n04273569 speedboat
-n04275548 spider web, spider's web
-n04277352 spindle
-n04285008 sports car, sport car
-n04286575 spotlight, spot
-n04296562 stage
-n04310018 steam locomotive
-n04311004 steel arch bridge
-n04311174 steel drum
-n04317175 stethoscope
-n04325704 stole
-n04326547 stone wall
-n04328186 stopwatch, stop watch
-n04330267 stove
-n04332243 strainer
-n04335435 streetcar, tram, tramcar, trolley, trolley car
-n04336792 stretcher
-n04344873 studio couch, day bed
-n04346328 stupa, tope
-n04347754 submarine, pigboat, sub, U-boat
-n04350905 suit, suit of clothes
-n04355338 sundial
-n04355933 sunglass
-n04356056 sunglasses, dark glasses, shades
-n04357314 sunscreen, sunblock, sun blocker
-n04366367 suspension bridge
-n04367480 swab, swob, mop
-n04370456 sweatshirt
-n04371430 swimming trunks, bathing trunks
-n04371774 swing
-n04372370 switch, electric switch, electrical switch
-n04376876 syringe
-n04380533 table lamp
-n04389033 tank, army tank, armored combat vehicle, armoured combat vehicle
-n04392985 tape player
-n04398044 teapot
-n04399382 teddy, teddy bear
-n04404412 television, television system
-n04409515 tennis ball
-n04417672 thatch, thatched roof
-n04418357 theater curtain, theatre curtain
-n04423845 thimble
-n04428191 thresher, thrasher, threshing machine
-n04429376 throne
-n04435653 tile roof
-n04442312 toaster
-n04443257 tobacco shop, tobacconist shop, tobacconist
-n04447861 toilet seat
-n04456115 torch
-n04458633 totem pole
-n04461696 tow truck, tow car, wrecker
-n04462240 toyshop
-n04465501 tractor
-n04467665 trailer truck, tractor trailer, trucking rig, rig, articulated lorry, semi
-n04476259 tray
-n04479046 trench coat
-n04482393 tricycle, trike, velocipede
-n04483307 trimaran
-n04485082 tripod
-n04486054 triumphal arch
-n04487081 trolleybus, trolley coach, trackless trolley
-n04487394 trombone
-n04493381 tub, vat
-n04501370 turnstile
-n04505470 typewriter keyboard
-n04507155 umbrella
-n04509417 unicycle, monocycle
-n04515003 upright, upright piano
-n04517823 vacuum, vacuum cleaner
-n04522168 vase
-n04523525 vault
-n04525038 velvet
-n04525305 vending machine
-n04532106 vestment
-n04532670 viaduct
-n04536866 violin, fiddle
-n04540053 volleyball
-n04542943 waffle iron
-n04548280 wall clock
-n04548362 wallet, billfold, notecase, pocketbook
-n04550184 wardrobe, closet, press
-n04552348 warplane, military plane
-n04553703 washbasin, handbasin, washbowl, lavabo, wash-hand basin
-n04554684 washer, automatic washer, washing machine
-n04557648 water bottle
-n04560804 water jug
-n04562935 water tower
-n04579145 whiskey jug
-n04579432 whistle
-n04584207 wig
-n04589890 window screen
-n04590129 window shade
-n04591157 Windsor tie
-n04591713 wine bottle
-n04592741 wing
-n04596742 wok
-n04597913 wooden spoon
-n04599235 wool, woolen, woollen
-n04604644 worm fence, snake fence, snake-rail fence, Virginia fence
-n04606251 wreck
-n04612504 yawl
-n04613696 yurt
-n06359193 web site, website, internet site, site
-n06596364 comic book
-n06785654 crossword puzzle, crossword
-n06794110 street sign
-n06874185 traffic light, traffic signal, stoplight
-n07248320 book jacket, dust cover, dust jacket, dust wrapper
-n07565083 menu
-n07579787 plate
-n07583066 guacamole
-n07584110 consomme
-n07590611 hot pot, hotpot
-n07613480 trifle
-n07614500 ice cream, icecream
-n07615774 ice lolly, lolly, lollipop, popsicle
-n07684084 French loaf
-n07693725 bagel, beigel
-n07695742 pretzel
-n07697313 cheeseburger
-n07697537 hotdog, hot dog, red hot
-n07711569 mashed potato
-n07714571 head cabbage
-n07714990 broccoli
-n07715103 cauliflower
-n07716358 zucchini, courgette
-n07716906 spaghetti squash
-n07717410 acorn squash
-n07717556 butternut squash
-n07718472 cucumber, cuke
-n07718747 artichoke, globe artichoke
-n07720875 bell pepper
-n07730033 cardoon
-n07734744 mushroom
-n07742313 Granny Smith
-n07745940 strawberry
-n07747607 orange
-n07749582 lemon
-n07753113 fig
-n07753275 pineapple, ananas
-n07753592 banana
-n07754684 jackfruit, jak, jack
-n07760859 custard apple
-n07768694 pomegranate
-n07802026 hay
-n07831146 carbonara
-n07836838 chocolate sauce, chocolate syrup
-n07860988 dough
-n07871810 meat loaf, meatloaf
-n07873807 pizza, pizza pie
-n07875152 potpie
-n07880968 burrito
-n07892512 red wine
-n07920052 espresso
-n07930864 cup
-n07932039 eggnog
-n09193705 alp
-n09229709 bubble
-n09246464 cliff, drop, drop-off
-n09256479 coral reef
-n09288635 geyser
-n09332890 lakeside, lakeshore
-n09399592 promontory, headland, head, foreland
-n09421951 sandbar, sand bar
-n09428293 seashore, coast, seacoast, sea-coast
-n09468604 valley, vale
-n09472597 volcano
-n09835506 ballplayer, baseball player
-n10148035 groom, bridegroom
-n10565667 scuba diver
-n11879895 rapeseed
-n11939491 daisy
-n12057211 yellow lady's slipper, yellow lady-slipper, Cypripedium calceolus, Cypripedium parviflorum
-n12144580 corn
-n12267677 acorn
-n12620546 hip, rose hip, rosehip
-n12768682 buckeye, horse chestnut, conker
-n12985857 coral fungus
-n12998815 agaric
-n13037406 gyromitra
-n13040303 stinkhorn, carrion fungus
-n13044778 earthstar
-n13052670 hen-of-the-woods, hen of the woods, Polyporus frondosus, Grifola frondosa
-n13054560 bolete
-n13133613 ear, spike, capitulum
-n15075141 toilet tissue, toilet paper, bathroom tissue
+n03447447 gondola 吊篮
+n03447721 gong, tam-tam 锣
+n03450230 gown 女裙；女长服；女礼服；长外衣
+n03452741 grand piano, grand 钢琴
+n03457902 greenhouse, nursery, glasshouse  温室
+n03459775 grille, radiator grille 烧烤店
+n03461385 grocery store, grocery, food market, market 食品杂货店
+n03467068 guillotine 裁切机；切纸机
+n03476684 hair slide 小发夹
+n03476991 hair spray 发胶
+n03478589 half track 半履带车
+n03481172 hammer 锤子；链球
+n03482405 hamper 带盖大篮子
+n03483316 hand blower, blow dryer, blow drier, hair dryer, hair drier 鼓风机
+n03485407 hand-held computer, hand-held microcomputer 手提电脑
+n03485794 handkerchief, hankie, hanky, hankey 手帕；纸巾
+n03492542 hard disc, hard disk, fixed disk 硬盘
+n03494278 harmonica, mouth organ, harp, mouth harp 口琴
+n03495258 harp 竖琴
+n03496892 harvester, reaper 收割机
+n03498962 hatchet 短柄小斧
+n03527444 holster 手枪皮套
+n03529860 home theater, home theatre 家庭影院
+n03530642 honeycomb 蜂巢
+n03532672 hook, claw 挂钩；鱼钩
+n03534580 hoopskirt, crinoline 裙子
+n03535780 horizontal bar, high bar 单杠
+n03538406 horse cart, horse-cart 马车
+n03544143 hourglass 沙漏
+n03584254 iPod 音乐播放器
+n03584829 iron, smoothing iron 熨斗
+n03590841 jack-o'-lantern 南瓜灯
+n03594734 jean, blue jean, denim 工作服
+n03594945 jeep, landrover 吉普车
+n03595614 jersey, T-shirt, tee shirt  短袖圆领汗衫 
+n03598930 jigsaw puzzle 拼图
+n03599486 jinrikisha, ricksha, rickshaw 黄包车，人力车
+n03602883 joystick 操纵杆
+n03617480 kimono 和服
+n03623198 knee pad 护膝
+n03627232 knot 发髻
+n03630383 lab coat, laboratory coat 实验工作服
+n03633091 ladle  长柄勺
+n03637318 lampshade, lamp shade 灯罩
+n03642806 laptop, laptop computer 笔记本电脑
+n03649909 lawn mower, mower 割草机
+n03657121 lens cap, lens cover 镜头盖
+n03658185 letter opener, paper knife, paperknife 开信刀
+n03661043 library 图书馆
+n03662601 lifeboat 救生艇
+n03666591 lighter, light, igniter, ignitor 打火机
+n03670208 limousine, limo 豪华轿车；大型高级轿车；小型公共汽车
+n03673027 liner, ocean liner 邮轮
+n03676483 lipstick, lip rouge 口红；唇膏；唇彩
+n03680355 Loafer   懒汉鞋
+n03690938 lotion 护肤液；洁肤液；润肤乳
+n03691459 loudspeaker, speaker, speaker unit, loudspeaker system, speaker system 扬声器；扩音器
+n03692522 loupe, jeweler's loupe  观片器；寸镜
+n03697007 lumbermill, sawmill 锯木厂
+n03706229 magnetic compass  磁罗盘
+n03709823 mailbag, postbag  邮袋
+n03710193 mailbox, letter box 信箱
+n03710637 maillot 紧身衣，游泳衣
+n03710721 maillot, tank suit 连身泳装
+n03717622 manhole cover 井盖
+n03720891 maraca 沙球
+n03721384 marimba, xylophone 马林巴琴
+n03724870 mask 面具
+n03729826 matchstick 火柴杆；火柴棍
+n03733131 maypole 花柱
+n03733281 maze, labyrinth 迷宫
+n03733805 measuring cup 计量杯
+n03742115 medicine chest, medicine cabinet 药品箱
+n03743016 megalith, megalithic structure 巨石
+n03759954 microphone, mike 麦克风
+n03761084 microwave, microwave oven 微波炉
+n03763968 military uniform 军装
+n03764736 milk can 牛奶罐
+n03769881 minibus 小型公共汽车
+n03770439 miniskirt, mini 迷你裙
+n03770679 minivan 小型货车
+n03773504 missile 导弹
+n03775071 mitten 连指手套
+n03775546 mixing bowl 混料罐
+n03776460 mobile home, manufactured home 活动房屋
+n03777568 Model T T型车
+n03777754 modem 调制解调器
+n03781244 monastery 庙宇
+n03782006 monitor 显示屏
+n03785016 moped 机动脚踏两用车
+n03786901 mortar 迫击炮
+n03787032 mortarboard 学士帽
+n03788195 mosque 清真寺
+n03788365 mosquito net 蚊帐
+n03791053 motor scooter, scooter 摩托车
+n03792782 mountain bike, all-terrain bike, off-roader 山地自行车
+n03792972 mountain tent 帐篷
+n03793489 mouse, computer mouse 鼠标
+n03794056 mousetrap 捕鼠器；老鼠夹
+n03796401 moving van 搬运车
+n03803284 muzzle 口套
+n03804744 nail 钉子
+n03814639 neck brace 颈托
+n03814906 necklace 项链
+n03825788 nipple 奶嘴
+n03832673 notebook, notebook computer 笔记本电脑
+n03837869 obelisk 方尖纪念碑
+n03838899 oboe, hautboy, hautbois 双簧管
+n03840681 ocarina, sweet potato 小鹅笛
+n03841143 odometer, hodometer, mileometer, milometer 里程表
+n03843555 oil filter 滤油器
+n03854065 organ, pipe organ 风琴
+n03857828 oscilloscope, scope, cathode-ray oscilloscope, CRO 示波器；示波管
+n03866082 overskirt 罩裙
+n03868242 oxcart 牛车
+n03868863 oxygen mask 氧气面罩
+n03871628 packet 数据包
+n03873416 paddle, boat paddle 船桨
+n03874293 paddlewheel, paddle wheel 浆轮
+n03874599 padlock 挂锁
+n03876231 paintbrush 画笔；漆刷
+n03877472 pajama, pyjama, pj's, jammies 睡衣
+n03877845 palace 宫殿
+n03884397 panpipe, pandean pipe, syrinx 牧羊神之笛
+n03887697 paper towel 纸巾
+n03888257 parachute, chute 降落伞
+n03888605 parallel bars, bars 柜台
+n03891251 park bench 公园长椅
+n03891332 parking meter 停车计时器
+n03895866 passenger car, coach, carriage 长途汽车
+n03899768 patio, terrace 天井；院子；庭院
+n03902125 pay-phone, pay-station 投币式公用电话
+n03903868 pedestal, plinth, footstall 基座，台座
+n03908618 pencil box, pencil case 铅笔盒
+n03908714 pencil sharpener 铅笔卷笔刀
+n03916031 perfume, essence 香水
+n03920288 Petri dish 有盖培养皿
+n03924679 photocopier 复印机；影印机
+n03929660 pick, plectrum, plectron 琴拨
+n03929855 pickelhaube 尖顶盔
+n03930313 picket fence, paling 栅栏
+n03930630 pickup, pickup truck 小卡车
+n03933933 pier 码头，桥墩
+n03935335 piggy bank, penny bank 储蓄罐
+n03937543 pill bottle 药瓶子
+n03938244 pillow 枕头
+n03942813 ping-pong ball 乒乓球
+n03944341 pinwheel 纸风车
+n03947888 pirate, pirate ship 海盗船
+n03950228 pitcher, ewer 带柄的陶罐
+n03954731 plane, carpenter's plane, woodworking plane 飞机
+n03956157 planetarium 天文馆；天象馆
+n03958227 plastic bag 塑料袋
+n03961711 plate rack 餐具架
+n03967562 plow, plough 犁
+n03970156 plunger, plumber's helper 柱塞；活塞；（疏通管道用的）搋子
+n03976467 Polaroid camera, Polaroid Land camera 宝丽来相机
+n03976657 pole 柱子；杆子
+n03977966 police van, police wagon, paddy wagon, patrol wagon, wagon, black Maria 警车
+n03980874 poncho  雨披
+n03982430 pool table, billiard table, snooker table  台球桌
+n03983396 pop bottle, soda bottle 充气饮料瓶
+n03991062 pot, flowerpot 花盆
+n03992509 potter's wheel 陶工旋盘
+n03995372 power drill 电钻
+n03998194 prayer rug, prayer mat  拜毯
+n04004767 printer  打印机
+n04005630 prison, prison house 监狱
+n04008634 projectile, missile 炮弹
+n04009552 projector 投影仪；放映机
+n04019541 puck, hockey puck 冰球
+n04023962 punching bag, punch bag, punching ball, punchball 练习拳击用的吊袋，沙球
+n04026417 purse 钱包
+n04033901 quill, quill pen 毛笔
+n04033995 quilt, comforter, comfort, puff  床罩
+n04037443 racer, race car, racing car 赛车
+n04039381 racket, racquet 球拍
+n04040759 radiator  散热器；水箱；暖气片
+n04041544 radio, wireless 收音机
+n04044716 radio telescope, radio reflector  电波望远镜
+n04049303 rain barrel 雨桶
+n04065272 recreational vehicle, RV, R.V. 休闲车
+n04067472 reel  卷筒
+n04069434 reflex camera  反射式照相机
+n04070727 refrigerator, icebox  冰箱
+n04074963 remote control, remote  遥控
+n04081281 restaurant, eating house, eating place, eatery  饭店
+n04086273 revolver, six-gun, six-shooter 左轮手枪
+n04090263 rifle  步枪
+n04099969 rocking chair, rocker  摇椅
+n04111531 rotisserie  转架烤肉炉
+n04116512 rubber eraser, rubber, pencil eraser  橡皮
+n04118538 rugby ball  橄榄球
+n04118776 rule, ruler 尺子
+n04120489 running shoe 跑鞋
+n04125021 safe  保险箱；保险柜
+n04127249 safety pin  安全别针
+n04131690 saltshaker, salt shaker  食盐瓶
+n04133789 sandal  凉鞋
+n04136333 sarong  围裙
+n04141076 sax, saxophone  萨克斯管
+n04141327 scabbard  （刀、剑的）鞘
+n04141975 scale, weighing machine  秤
+n04146614 school bus  校车
+n04147183 schooner  大啤酒杯
+n04149813 scoreboard  记分牌
+n04152593 screen, CRT screen  屏幕
+n04153751 screw  螺丝；螺丝钉
+n04154565 screwdriver  螺丝刀
+n04162706 seat belt, seatbelt  安全带
+n04179913 sewing machine  缝纫机
+n04192698 shield, buckler  挡板；盾（牌）
+n04200800 shoe shop, shoe-shop, shoe store  鞋店
+n04201297 shoji 障子
+n04204238 shopping basket  购物篮
+n04204347 shopping cart 购物车
+n04208210 shovel  铲；铁铲；（推土机、挖土机等的）铲
+n04209133 shower cap  浴帽
+n04209239 shower curtain 浴帘
+n04228054 ski 滑雪板
+n04229816 ski mask 滑雪面罩
+n04235860 sleeping bag 睡袋
+n04238763 slide rule, slipstick  计算尺
+n04239074 sliding door 推拉门
+n04243546 slot, one-armed bandit  老虎机
+n04251144 snorkel （徒手潜水用的）呼吸管
+n04252077 snowmobile  机动雪橇；雪地机动车
+n04252225 snowplow, snowplough  扫雪机
+n04254120 soap dispenser  肥皂分发器
+n04254680 soccer ball  足球
+n04254777 sock 袜子
+n04258138 solar dish, solar collector, solar furnace  太阳能集热器
+n04259630 sombrero  阔边帽
+n04263257 soup bowl  汤碗
+n04264628 space bar 空格键
+n04265275 space heater 空间加热器，小型取暖器
+n04266014 space shuttle  航天飞机
+n04270147 spatula 刮刀；压舌板
+n04273569 speedboat  快艇
+n04275548 spider web, spider's web  蜘蛛网
+n04277352 spindle 纺锤
+n04285008 sports car, sport car 跑车
+n04286575 spotlight, spot 聚光灯
+n04296562 stage  戏剧
+n04310018 steam locomotive 蒸汽机车
+n04311004 steel arch bridge  刚拱桥
+n04311174 steel drum 铁桶
+n04317175 stethoscope  听诊器
+n04325704 stole  女用披肩
+n04326547 stone wall  石墙
+n04328186 stopwatch, stop watch  码表
+n04330267 stove  火炉
+n04332243 strainer  滤网；滤器；滤盆
+n04335435 streetcar, tram, tramcar, trolley, trolley car  有轨电车
+n04336792 stretcher  担架
+n04344873 studio couch, day bed  沙发床
+n04346328 stupa, tope 佛塔
+n04347754 submarine, pigboat, sub, U-boat  潜艇
+n04350905 suit, suit of clothes  西装；西服；套装
+n04355338 sundial  日晷，日规
+n04355933 sunglass  太阳镜
+n04356056 sunglasses, dark glasses, shades  太阳镜；墨镜
+n04357314 sunscreen, sunblock, sun blocker  防晒霜；防晒油；防晒乳
+n04366367 suspension bridge  吊桥
+n04367480 swab, swob, mop  药签
+n04370456 sweatshirt  长袖）运动衫
+n04371430 swimming trunks, bathing trunks  泳裤
+n04371774 swing 秋千
+n04372370 switch, electric switch, electrical switch  电开关
+n04376876 syringe  注射器
+n04380533 table lamp 台灯
+n04389033 tank, army tank, armored combat vehicle, armoured combat vehicle  坦克
+n04392985 tape player 磁带放音机
+n04398044 teapot  茶壶
+n04399382 teddy, teddy bear  泰迪熊
+n04404412 television, television system  电视
+n04409515 tennis ball    网球
+n04417672 thatch, thatched roof  茅草屋顶
+n04418357 theater curtain, theatre curtain  剧院窗帘
+n04423845 thimble  顶针；针箍
+n04428191 thresher, thrasher, threshing machine  打谷机
+n04429376 throne  王座
+n04435653 tile roof  瓦屋顶
+n04442312 toaster  烤面包片器
+n04443257 tobacco shop, tobacconist shop, tobacconist  烟草店
+n04447861 toilet seat  马桶垫
+n04456115 torch  手电筒
+n04458633 totem pole  图腾柱
+n04461696 tow truck, tow car, wrecker  拖车
+n04462240 toyshop  玩具店
+n04465501 tractor  拖拉机；牵引机；拖车头
+n04467665 trailer truck, tractor trailer, trucking rig, rig, articulated lorry, semi  拖车
+n04476259 tray 托盘
+n04479046 trench coat  风衣
+n04482393 tricycle, trike, velocipede  三轮脚踏车
+n04483307 trimaran  三体艇，三体帆船
+n04485082 tripod  （照相机、望远镜等的）三脚架
+n04486054 triumphal arch  凯旋门
+n04487081 trolleybus, trolley coach, trackless trolley  无轨电车
+n04487394 trombone  长号
+n04493381 tub, vat  桶
+n04501370 turnstile  旋转栅门
+n04505470 typewriter keyboard  打字机键盘
+n04507155 umbrella  雨伞
+n04509417 unicycle, monocycle  独轮脚踏车
+n04515003 upright, upright piano  钢琴
+n04517823 vacuum, vacuum cleaner 真空吸尘器
+n04522168 vase  花瓶
+n04523525 vault  拱顶；保险库
+n04525038 velvet  天鹅绒
+n04525305 vending machine  自动售卖机
+n04532106 vestment  祭服
+n04532670 viaduct  高架桥
+n04536866 violin, fiddle  小提琴
+n04540053 volleyball  排球
+n04542943 waffle iron  烘蛋奶饼的铁模
+n04548280 wall clock  挂钟
+n04548362 wallet, billfold, notecase, pocketbook  皮夹子；塑料夹
+n04550184 wardrobe, closet, press  衣柜；衣橱
+n04552348 warplane, military plane  军用飞机
+n04553703 washbasin, handbasin, washbowl, lavabo, wash-hand basin  （浴室内固定在墙上有水龙头的）洗脸盆
+n04554684 washer, automatic washer, washing machine  洗衣机
+n04557648 water bottle  水瓶
+n04560804 water jug 水壶
+n04562935 water tower  水塔
+n04579145 whiskey jug  威士忌壶
+n04579432 whistle  哨子；口哨；汽笛
+n04584207 wig  假发
+n04589890 window screen  纱窗
+n04590129 window shade 遮光窗帘，百叶窗
+n04591157 Windsor tie 温莎领带
+n04591713 wine bottle 酒瓶
+n04592741 wing  机翼
+n04596742 wok  炒菜锅
+n04597913 wooden spoon  木匙
+n04599235 wool, woolen, woollen  毛线
+n04604644 worm fence, snake fence, snake-rail fence, Virginia fence  栅栏
+n04606251 wreck   残骸
+n04612504 yawl  小帆船
+n04613696 yurt  蒙古包
+n06359193 web site, website, internet site, site  网址
+n06596364 comic book  漫画书
+n06785654 crossword puzzle, crossword  纵横填字游戏，纵横字谜
+n06794110 street sign  路标
+n06874185 traffic light, traffic signal, stoplight  红绿灯
+n07248320 book jacket, dust cover, dust jacket, dust wrapper  书皮，防尘罩
+n07565083 menu   菜单
+n07579787 plate  盘子
+n07583066 guacamole  墨西哥鳄梨酱
+n07584110 consomme  清汤；清炖肉汤
+n07590611 hot pot, hotpot  焖罐；小电热锅
+n07613480 trifle  蛋糕
+n07614500 ice cream, icecream  冰淇淋
+n07615774 ice lolly, lolly, lollipop, popsicle  冰棍
+n07684084 French loaf  法式面包
+n07693725 bagel, beigel  百吉圈（硬面包）
+n07695742 pretzel  椒盐卷饼（常作小吃）
+n07697313 cheeseburger  干酪汉堡包
+n07697537 hotdog, hot dog, red hot  热狗
+n07711569 mashed potato  土豆泥
+n07714571 head cabbage  卷心菜
+n07714990 broccoli  西兰花
+n07715103 cauliflower  花椰菜；菜花
+n07716358 zucchini, courgette  西葫芦
+n07716906 spaghetti squash  意大利面瓜
+n07717410 acorn squash  小青南瓜
+n07717556 butternut squash  冬南瓜
+n07718472 cucumber, cuke  黄瓜
+n07718747 artichoke, globe artichoke  朝鲜蓟
+n07720875 bell pepper  柿子椒
+n07730033 cardoon  刺棘蓟
+n07734744 mushroom  蘑菇
+n07742313 Granny Smith  绿苹果
+n07745940 strawberry  草莓
+n07747607 orange 橙子
+n07749582 lemon 柠檬
+n07753113 fig  无花果
+n07753275 pineapple, ananas  菠萝
+n07753592 banana 香蕉
+n07754684 jackfruit, jak, jack  木菠萝
+n07760859 custard apple  奶油苹果
+n07768694 pomegranate  石榴
+n07802026 hay  草料
+n07831146 carbonara  奶油培根意大利面
+n07836838 chocolate sauce, chocolate syrup  巧克力酱
+n07860988 dough  面团
+n07871810 meat loaf, meatloaf  肉馅糕
+n07873807 pizza, pizza pie  披萨
+n07875152 potpie  锅贴
+n07880968 burrito  （墨西哥）肉馅（或豆馅）玉米粉圆饼
+n07892512 red wine   红酒
+n07920052 espresso  浓咖啡
+n07930864 cup  杯子
+n07932039 eggnog   蛋奶酒
+n09193705 alp  高山
+n09229709 bubble  泡沫
+n09246464 cliff, drop, drop-off  峭壁
+n09256479 coral reef  珊瑚礁
+n09288635 geyser  热水锅炉；（建筑物的）电热水器
+n09332890 lakeside, lakeshore  湖边；湖畔；湖岸
+n09399592 promontory, headland, head, foreland   岬角（深入海中的狭长高地）
+n09421951 sandbar, sand bar  （河口的）沙洲
+n09428293 seashore, coast, seacoast, sea-coast  海滨；海岸
+n09468604 valley, vale  流域；山谷；峡谷；谷地
+n09472597 volcano  火山
+n09835506 ballplayer, baseball player  棒球[垒球]手
+n10148035 groom, bridegroom  新郎
+n10565667 scuba diver  戴水肺的潜水员
+n11879895 rapeseed  油菜籽
+n11939491 daisy  雏菊
+n12057211 yellow lady's slipper, yellow lady-slipper, Cypripedium calceolus, Cypripedium parviflorum  凤仙花
+n12144580 corn  玉米
+n12267677 acorn  橡子
+n12620546 hip, rose hip, rosehip  蔷薇果
+n12768682 buckeye, horse chestnut, conker  橡树
+n12985857 coral fungus  珊瑚菌
+n12998815 agaric  伞菌
+n13037406 gyromitra  鹿花菌素
+n13040303 stinkhorn, carrion fungus  腐尸真菌
+n13044778 earthstar   **真菌
+n13052670 hen-of-the-woods, hen of the woods, Polyporus frondosus, Grifola frondosa  多孔真菌
+n13054560 bolete  弩箭
+n13133613 ear, spike, capitulum  耳朵
+n15075141 toilet tissue, toilet paper, bathroom tissue  厕所纸

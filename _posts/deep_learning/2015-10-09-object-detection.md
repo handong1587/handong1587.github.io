@@ -698,6 +698,19 @@ This task involves predicting the salient regions of an image given by human eye
 
 [http://mmcheng.net/msra10k/](http://mmcheng.net/msra10k/)
 
+# Visual Relationship Detection
+
+**Visual Relationship Detection with Language Priors**
+
+- intro: ECCV 2016 oral
+- paper: [https://cs.stanford.edu/people/ranjaykrishna/vrd/vrd.pdf](https://cs.stanford.edu/people/ranjaykrishna/vrd/vrd.pdf)
+- github: [https://github.com/Prof-Lu-Cewu/Visual-Relationship-Detection](https://github.com/Prof-Lu-Cewu/Visual-Relationship-Detection)
+
+**ViP-CNN: A Visual Phrase Reasoning Convolutional Neural Network for Visual Relationship Detection**
+
+- intro: Visual Phrase reasoning Convolutional Neural Network (ViP-CNN), Visual Phrase Reasoning Structure (VPRS)
+- arxiv: [https://arxiv.org/abs/1702.07191](https://arxiv.org/abs/1702.07191)
+
 # Specific Object Deteciton
 
 ## Face Deteciton
@@ -1022,12 +1035,6 @@ This task involves predicting the salient regions of an image given by human eye
 - intro: Kuznech Inc.
 - intro: MultiBox and Fast R-CNN
 - paper: [https://kddfashion2016.mybluemix.net/kddfashion_finalSubmissions/Deep%20Learning%20for%20Fast%20and%20Accurate%20Fashion%20Item%20Detection.pdf](https://kddfashion2016.mybluemix.net/kddfashion_finalSubmissions/Deep%20Learning%20for%20Fast%20and%20Accurate%20Fashion%20Item%20Detection.pdf)
-
-**Visual Relationship Detection with Language Priors**
-
-- intro: ECCV 2016 oral
-- paper: [https://cs.stanford.edu/people/ranjaykrishna/vrd/vrd.pdf](https://cs.stanford.edu/people/ranjaykrishna/vrd/vrd.pdf)
-- github: [https://github.com/Prof-Lu-Cewu/Visual-Relationship-Detection](https://github.com/Prof-Lu-Cewu/Visual-Relationship-Detection)
 
 **OSMDeepOD - OSM and Deep Learning based Object Detection from Aerial Imagery (formerly known as "OSM-Crosswalk-Detection")**
 
