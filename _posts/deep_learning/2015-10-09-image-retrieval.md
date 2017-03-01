@@ -266,6 +266,10 @@ date: 2015-10-09
 
 - arxiv: [https://arxiv.org/abs/1702.06383](https://arxiv.org/abs/1702.06383)
 
+**Unsupervised Triplet Hashing for Fast Image Retrieval**
+
+- arxiv: [https://www.arxiv.org/abs/1702.08798](https://www.arxiv.org/abs/1702.08798)
+
 # Video Indexing / Retrieval
 
 **Face Video Retrieval via Deep Learning of Binary Hash Representations**

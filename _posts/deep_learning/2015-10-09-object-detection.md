@@ -711,6 +711,10 @@ This task involves predicting the salient regions of an image given by human eye
 - intro: Visual Phrase reasoning Convolutional Neural Network (ViP-CNN), Visual Phrase Reasoning Structure (VPRS)
 - arxiv: [https://arxiv.org/abs/1702.07191](https://arxiv.org/abs/1702.07191)
 
+**Visual Translation Embedding Network for Visual Relation Detection**
+
+- arxiv: [https://www.arxiv.org/abs/1702.08319](https://www.arxiv.org/abs/1702.08319)
+
 # Specific Object Deteciton
 
 ## Face Deteciton
