@@ -91,6 +91,7 @@ date: 2015-10-09
 - intro: Google DeepMind. ICML 2016 best paper. PixelRNN
 - arxiv: [http://arxiv.org/abs/1601.06759](http://arxiv.org/abs/1601.06759)
 - github: [https://github.com/igul222/pixel_rnn](https://github.com/igul222/pixel_rnn)
+- github(Tensorflow): [https://github.com/carpedm20/pixel-rnn-tensorflow](https://github.com/carpedm20/pixel-rnn-tensorflow)
 - notes(by Hugo Larochelle): [https://www.evernote.com/shard/s189/sh/fdf61a28-f4b6-491b-bef1-f3e148185b18/aba21367d1b3730d9334ed91d3250848](https://www.evernote.com/shard/s189/sh/fdf61a28-f4b6-491b-bef1-f3e148185b18/aba21367d1b3730d9334ed91d3250848)
 - video(by Hugo Larochelle): [https://www.periscope.tv/hugo_larochelle/1ypKdnMkjBnJW](https://www.periscope.tv/hugo_larochelle/1ypKdnMkjBnJW)
 

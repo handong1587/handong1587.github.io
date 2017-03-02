@@ -228,7 +228,10 @@ such as image classification, object detection or text captioning.
 
 # Natural Language Processing
 
-![](http://cs224d.stanford.edu/images/treeFrontSentiment.png)
+**CS224n: Natural Language Processing with Deep Learning**
+
+- intro: This course is a merger of Stanford's previous cs224n course and cs224d
+- homepage: [http://web.stanford.edu/class/cs224n/](http://web.stanford.edu/class/cs224n/)
 
 **Stanford CS224d: Deep Learning for Natural Language Processing**
 

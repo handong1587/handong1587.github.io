@@ -737,6 +737,12 @@ Compressed model is less than 500KB
 - slides: [http://www.slideshare.net/ckmarkohchang/alphago-in-depth?qid=283ab3bc-7d04-4e14-a205-b0b671ca4099](http://www.slideshare.net/ckmarkohchang/alphago-in-depth?qid=283ab3bc-7d04-4e14-a205-b0b671ca4099)
 - mirror: [https://pan.baidu.com/s/1i5JNeRj](https://pan.baidu.com/s/1i5JNeRj)
 
+**Leela**
+
+- intro: Leela is a strong Go playing program combining advances in Go programming and 
+further original research into a small, easy to use graphical interface.
+- homepage: [https://sjeng.org/leela.html](https://sjeng.org/leela.html)
+
 # Chess
 
 **Giraffe: Using Deep Reinforcement Learning to Play Chess (MSc thesis)**

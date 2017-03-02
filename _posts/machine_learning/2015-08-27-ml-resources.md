@@ -523,6 +523,10 @@ Classic strategies:
 - intro: Columbia University & Adobe Research & Google
 - poster: [http://dustintran.com/papers/TranHoffmanMurphyBrevdoSaurousBlei2016_poster.pdf](http://dustintran.com/papers/TranHoffmanMurphyBrevdoSaurousBlei2016_poster.pdf)
 
+**Deep Forest: Towards An Alternative to Deep Neural Networks**
+
+- arxiv: [https://arxiv.org/abs/1702.08835](https://arxiv.org/abs/1702.08835)
+
 # Mathematics
 
 **Some Notes on Applied Mathematics for Machine**

@@ -301,8 +301,9 @@ not just the convolutions)
 
 **Semi-supervised Knowledge Transfer for Deep Learning from Private Training Data**
 
+- intro: ICLR 2017 best paper award
 - arxiv: [https://arxiv.org/abs/1610.05755](https://arxiv.org/abs/1610.05755)
-- github: [https://github.com/tensorflow/models/tree/master/differential_privacy/multiple_teachers](https://github.com/tensorflow/models/tree/master/differential_privacy/multiple_teachers)
+- github: [https://github.com/tensorflow/models/tree/8505222ea1f26692df05e65e35824c6c71929bb5/privacy](https://github.com/tensorflow/models/tree/8505222ea1f26692df05e65e35824c6c71929bb5/privacy)
 
 **Infinite Variational Autoencoder for Semi-Supervised Learning**
 
@@ -1513,8 +1514,9 @@ It is based on Facebook's TorchCraft, which is a bridge between Torch and StarCr
 - arxiv: [http://arxiv.org/abs/1511.06233](http://arxiv.org/abs/1511.06233)
 - github: [https://github.com/abhijitbendale/OSDN](https://github.com/abhijitbendale/OSDN)
 
-**Structured Prediction Energy Networks (SPEN)**
+**Structured Prediction Energy Networks**
 
+- intro: ICML 2016. SPEN
 - arxiv: [http://arxiv.org/abs/1511.06350](http://arxiv.org/abs/1511.06350)
 - github: [https://github.com/davidBelanger/SPEN](https://github.com/davidBelanger/SPEN)
 
@@ -1599,6 +1601,11 @@ It is based on Facebook's TorchCraft, which is a bridge between Torch and StarCr
 
 - arxiv: [http://arxiv.org/abs/1603.09114](http://arxiv.org/abs/1603.09114)
 
+**Bridging the Gaps Between Residual Learning, Recurrent Neural Networks and Visual Cortex**
+
+- arxiv: [https://arxiv.org/abs/1604.03640](https://arxiv.org/abs/1604.03640)
+- slides: [http://prlab.tudelft.nl/sites/default/files/rnnResnetCortex.pdf](http://prlab.tudelft.nl/sites/default/files/rnnResnetCortex.pdf)
+
 **Understanding How Image Quality Affects Deep Neural Networks**
 
 - arxiv: [http://arxiv.org/abs/1604.04004](http://arxiv.org/abs/1604.04004)
@@ -1631,20 +1638,14 @@ It is based on Facebook's TorchCraft, which is a bridge between Torch and StarCr
 - arxiv: [http://arxiv.org/abs/1511.04048](http://arxiv.org/abs/1511.04048)
 - github: [https://github.com/roozbehm/newtonian](https://github.com/roozbehm/newtonian)
 
-**Convolutional Neural Networks Analyzed via Convolutional Sparse Coding**
-
 **DeepMath - Deep Sequence Models for Premise Selection**
 
 - arxiv: [https://arxiv.org/abs/1606.04442](https://arxiv.org/abs/1606.04442)
 - github: [https://github.com/tensorflow/deepmath](https://github.com/tensorflow/deepmath)
 
+**Convolutional Neural Networks Analyzed via Convolutional Sparse Coding**
+
 - arxiv: [http://arxiv.org/abs/1607.08194](http://arxiv.org/abs/1607.08194)
-
-**TI-POOLING: transformation-invariant pooling for feature learning in Convolutional Neural Networks**
-
-- intro: CVPR 2016
-- paper: [http://dlaptev.org/papers/Laptev16_CVPR.pdf](http://dlaptev.org/papers/Laptev16_CVPR.pdf)
-- github: [https://github.com/dlaptev/TI-pooling](https://github.com/dlaptev/TI-pooling)
 
 **Systematic evaluation of CNN advances on the ImageNet**
 

@@ -237,6 +237,10 @@ date: 2015-10-09
 
 - gist: [https://gist.github.com/udibr/7f46e790c9e342d75dcbd9b1deb9d940](https://gist.github.com/udibr/7f46e790c9e342d75dcbd9b1deb9d940)
 
+**Cosine Normalization: Using Cosine Similarity Instead of Dot Product in Neural Networks**
+
+- arxiv: [https://arxiv.org/abs/1702.05870](https://arxiv.org/abs/1702.05870)
+
 # Loss Function
 
 **The Loss Surfaces of Multilayer Networks**
@@ -295,6 +299,12 @@ date: 2015-10-09
 - arxiv: [https://arxiv.org/abs/1412.6071](https://arxiv.org/abs/1412.6071)
 - notes: [https://gist.github.com/shagunsodhani/ccfe3134f46fd3738aa0](https://gist.github.com/shagunsodhani/ccfe3134f46fd3738aa0)
 - github: [https://github.com/torch/nn/issues/371](https://github.com/torch/nn/issues/371)
+
+**TI-POOLING: transformation-invariant pooling for feature learning in Convolutional Neural Networks**
+
+- intro: CVPR 2016
+- paper: [http://dlaptev.org/papers/Laptev16_CVPR.pdf](http://dlaptev.org/papers/Laptev16_CVPR.pdf)
+- github: [https://github.com/dlaptev/TI-pooling](https://github.com/dlaptev/TI-pooling)
 
 **S3Pool: Pooling with Stochastic Spatial Sampling**
 
