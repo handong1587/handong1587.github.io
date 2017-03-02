@@ -498,6 +498,7 @@ n03026506 Christmas stocking 圣诞袜
 n03028079 church, church building 教堂
 n03032252 cinema, movie theater, movie theatre, movie house, picture palace 电影院
 n03041632 cleaver, meat cleaver, chopper 剁肉刀
+n03042490 cliff dwelling
 n03045698 cloak 闹钟
 n03047690 clog, geta, patten, sabot 木屐
 n03062245 cocktail shaker 鸡尾酒杯
@@ -536,7 +537,7 @@ n03208938 disk brake, disc brake  盘式制动器
 n03216828 dock, dockage, docking facility 码头
 n03218198 dogsled, dog sled, dog sleigh 狗拉雪橇
 n03220513 dome 圆屋顶；穹状建筑物
-n03223299  welcome mat 门口的擦鞋垫
+n03223299 doormat, welcome mat 门口的擦鞋垫
 n03240683 drilling platform, offshore rig  钻探平台
 n03249569 drum, membranophone, tympan 鼓
 n03250847 drumstick 鸡腿
