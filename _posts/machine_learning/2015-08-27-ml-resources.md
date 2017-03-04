@@ -475,6 +475,8 @@ Classic strategies:
 
 - intro: ICCV 2015. Microsoft Research. ICCV'15 Marr Prize
 - paper: [http://research.microsoft.com/pubs/255952/ICCV15_DeepNDF_main.pdf](http://research.microsoft.com/pubs/255952/ICCV15_DeepNDF_main.pdf)
+- slides: [https://docs.google.com/presentation/d/1Ze7BAiWbMPyF0ax36D-aK00VfaGMGvvgD_XuANQW1gU/edit#slide=id.p](https://docs.google.com/presentation/d/1Ze7BAiWbMPyF0ax36D-aK00VfaGMGvvgD_XuANQW1gU/edit#slide=id.p)
+- github: [https://github.com/chrischoy/fully-differentiable-deep-ndf-tf](https://github.com/chrischoy/fully-differentiable-deep-ndf-tf)
 - supplement: [http://research.microsoft.com/pubs/255952/ICCV15_DeepNDF_suppl.pdf](http://research.microsoft.com/pubs/255952/ICCV15_DeepNDF_suppl.pdf)
 - notes: [http://pan.baidu.com/s/1jGRWem6](http://pan.baidu.com/s/1jGRWem6)
 

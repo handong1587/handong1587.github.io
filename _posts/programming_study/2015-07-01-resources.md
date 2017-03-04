@@ -372,6 +372,15 @@ You must move pacman (the green cursor) to highlight each word on the gameboard 
 
 - blog: [https://metricpanda.com/tips-for-productive-debugging-with-gdb](https://metricpanda.com/tips-for-productive-debugging-with-gdb)
 
+**A browser-based frontend/gui for GDB**
+
+![](https://raw.githubusercontent.com/cs01/gdbgui/master/screenshots/gdbgui.png)
+
+- intro: A modern, browser-based frontend to gdb (gnu debugger). 
+Add breakpoints, view stack traces, and more in C, C++, Go, and Rust! 
+Simply run gdbgui from the terminal and a new tab will open in your browser.
+- github: [https://github.com/cs01/gdbgui](https://github.com/cs01/gdbgui)
+
 # Programming
 
 **Why is Object-Oriented Programming Useful? (With a Role Playing Game Example)**

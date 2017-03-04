@@ -150,6 +150,9 @@ Contains all the popular DL frameworks (TensorFlow, Theano, Torch, Caffe, etc.)
 
 [https://medium.com/@bfortuner/building-your-own-deep-learning-box-47b918aea1eb#.4r5zchk4f](https://medium.com/@bfortuner/building-your-own-deep-learning-box-47b918aea1eb#.4r5zchk4f)
 
+**Setting up a Deep learning machine in a lazy yet quick way**
+[https://medium.com/@sravsatuluri/setting-up-a-deep-learning-machine-in-a-lazy-yet-quick-way-be2642318850#.jrxrkfxa2](https://medium.com/@sravsatuluri/setting-up-a-deep-learning-machine-in-a-lazy-yet-quick-way-be2642318850#.jrxrkfxa2)
+
 # GPU
 
 **Which GPU(s) to Get for Deep Learning: My Experience and Advice for Using GPUs in Deep Learning**

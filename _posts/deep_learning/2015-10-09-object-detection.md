@@ -252,6 +252,7 @@ date: 2015-10-09
 - github(MXNet): [https://github.com/zhreshold/mxnet-ssd](https://github.com/zhreshold/mxnet-ssd)
 - github: [https://github.com/zhreshold/mxnet-ssd.cpp](https://github.com/zhreshold/mxnet-ssd.cpp)
 - github(Keras): [https://github.com/rykov8/ssd_keras](https://github.com/rykov8/ssd_keras)
+- github(TensorFlow): [https://github.com/balancap/SSD-Tensorflow](https://github.com/balancap/SSD-Tensorflow)
 
 ## Inside-Outside Net (ION)
 
@@ -456,6 +457,11 @@ Continuation of [arXiv:1608.08021](https://arxiv.org/abs/1608.08021)
 - code: [http://pjreddie.com/yolo9000/](http://pjreddie.com/yolo9000/)
 - github(Chainer): [https://github.com/leetenki/YOLOv2](https://github.com/leetenki/YOLOv2)
 - github(Keras): [https://github.com/allanzelener/YAD2K](https://github.com/allanzelener/YAD2K)
+- github(PyTorch): [https://github.com/longcw/yolo2-pytorch](https://github.com/longcw/yolo2-pytorch)
+
+**Yolo_mark: GUI for marking bounded boxes of objects in images for training Yolo v2**
+
+- github: [https://github.com/AlexeyAB/Yolo_mark](https://github.com/AlexeyAB/Yolo_mark)
 
 ## DSSD
 

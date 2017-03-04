@@ -399,6 +399,11 @@ with built-in awareness of semantically meaningful boundaries. "
 
 - arxiv: [https://arxiv.org/abs/1612.02649](https://arxiv.org/abs/1612.02649)
 
+**Understanding Convolution for Semantic Segmentation**
+
+- github: [https://arxiv.org/abs/1702.08502](https://arxiv.org/abs/1702.08502)
+- pretrained-models: [https://drive.google.com/drive/folders/0B72xLTlRb0SoREhISlhibFZTRmM](https://drive.google.com/drive/folders/0B72xLTlRb0SoREhISlhibFZTRmM)
+
 # Instance Segmentation
 
 **Simultaneous Detection and Segmentation**

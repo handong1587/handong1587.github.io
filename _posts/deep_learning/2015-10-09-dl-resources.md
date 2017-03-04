@@ -187,6 +187,7 @@ not just the convolutions)
 - github: [https://github.com/szagoruyko/wide-residual-networks](https://github.com/szagoruyko/wide-residual-networks)
 - github: [https://github.com/asmith26/wide_resnets_keras](https://github.com/asmith26/wide_resnets_keras)
 - github: [https://github.com/ritchieng/wideresnet-tensorlayer](https://github.com/ritchieng/wideresnet-tensorlayer)
+- github(PyTorch): [https://github.com/xternalz/WideResNet-pytorch](https://github.com/xternalz/WideResNet-pytorch)
 
 **Deep Residual Networks for Image Classification with Python + NumPy**
 
@@ -909,6 +910,19 @@ with fast exact probabilistic inference over many layers."
 
 - arxiv: [https://arxiv.org/abs/1701.01833](https://arxiv.org/abs/1701.01833)
 
+**OptNet: Differentiable Optimization as a Layer in Neural Networks**
+
+- arxiv: [https://arxiv.org/abs/1703.00443](https://arxiv.org/abs/1703.00443)
+- github: [https://github.com/locuslab/optnet](https://github.com/locuslab/optnet)
+
+**A fast and differentiable QP solver for PyTorch**
+
+- github: [https://github.com/locuslab/qpth](https://github.com/locuslab/qpth)
+
+**Meta Networks**
+
+[https://arxiv.org/abs/1703.00837](https://arxiv.org/abs/1703.00837)
+
 ## Highway Networks
 
 **Highway Networks**
@@ -1021,6 +1035,10 @@ with fast exact probabilistic inference over many layers."
 **Deep Learning on Graphs**
 
 - lecture: [https://figshare.com/articles/Deep_Learning_on_Graphs/4491686](https://figshare.com/articles/Deep_Learning_on_Graphs/4491686)
+
+**Robust Spatial Filtering with Graph Convolutional Neural Networks**
+
+[https://arxiv.org/abs/1703.00792](https://arxiv.org/abs/1703.00792)
 
 # Deep Learning with Traditional Machine Learning Methods
 
@@ -1447,6 +1465,11 @@ It is based on Facebook's TorchCraft, which is a bridge between Torch and StarCr
 - keywords: automated tagging, automatic dress faceting
 - blog: [http://tech.gilt.com/machine/learning,/deep/learning/2016/12/22/deep-learning-at-gilt](http://tech.gilt.com/machine/learning,/deep/learning/2016/12/22/deep-learning-at-gilt)
 
+**Working with Fashion Models**
+
+- blog: [https://making.lyst.com/2017/02/21/working-with-fashion-models/](https://making.lyst.com/2017/02/21/working-with-fashion-models/)
+- youtube: [https://www.youtube.com/watch?v=emr2qaCQOQs](https://www.youtube.com/watch?v=emr2qaCQOQs)
+
 # Benchmarks
 
 **Deep Learning’s Accuracy**
@@ -1800,6 +1823,11 @@ It is based on Facebook's TorchCraft, which is a bridge between Torch and StarCr
 **The Power of Sparsity in Convolutional Neural Networks**
 
 - arxiv: [https://arxiv.org/abs/1702.06257](https://arxiv.org/abs/1702.06257)
+
+**On the Origin of Deep Learning**
+
+- intro: CMU. 70 pages, 200 references
+- arxiv: [https://arxiv.org/abs/1702.07800](https://arxiv.org/abs/1702.07800)
 
 ## Separable Convolutions
 

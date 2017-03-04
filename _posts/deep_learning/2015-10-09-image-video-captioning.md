@@ -236,6 +236,7 @@ after the embedding and recurrent layers of the RNN."
 
 **Knowing When to Look: Adaptive Attention via A Visual Sentinel for Image Captioning**
 
+- intro: CVPR 2017
 - arxiv: [https://arxiv.org/abs/1612.01887](https://arxiv.org/abs/1612.01887)
 
 **Recurrent Image Captioner: Describing Images with Spatial-Invariant Transformation and Attention Filtering**

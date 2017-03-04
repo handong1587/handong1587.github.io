@@ -82,6 +82,10 @@ date: 2015-10-09
 - mirror: [https://pan.baidu.com/s/1i4KoumL](https://pan.baidu.com/s/1i4KoumL)
 - github: [https://github.com/llSourcell/build_a_neural_net_live](https://github.com/llSourcell/build_a_neural_net_live)
 
+**Deriving LSTM Gradient for Backpropagation**
+
+[http://wiseodd.github.io/techblog/2016/08/12/lstm-backprop/](http://wiseodd.github.io/techblog/2016/08/12/lstm-backprop/)
+
 ## How to build a Recurrent Neural Network in TensorFlow
 
 **How to build a Recurrent Neural Network in TensorFlow (1/7)**
@@ -507,6 +511,11 @@ date: 2015-10-09
 
 - arxiv: [https://arxiv.org/abs/1701.03441](https://arxiv.org/abs/1701.03441)
 - github: [https://github.com/jingweimo/Modified-LSTM](https://github.com/jingweimo/Modified-LSTM)
+
+**The Statistical Recurrent Unit**
+
+- intro: CMU
+- arxiv: [https://arxiv.org/abs/1703.00381](https://arxiv.org/abs/1703.00381)
 
 # Projects
 

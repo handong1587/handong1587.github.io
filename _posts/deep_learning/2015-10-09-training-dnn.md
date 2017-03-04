@@ -11,6 +11,10 @@ date: 2015-10-09
 
 [https://medium.com/@asjad/popular-training-approaches-of-dnns-a-quick-overview-26ee37ad7e96#.pqyo039bb](https://medium.com/@asjad/popular-training-approaches-of-dnns-a-quick-overview-26ee37ad7e96#.pqyo039bb)
 
+**Optimisation and training techniques for deep learning**
+
+[https://blog.acolyer.org/2017/03/01/optimisation-and-training-techniques-for-deep-learning/](https://blog.acolyer.org/2017/03/01/optimisation-and-training-techniques-for-deep-learning/)
+
 # Activation functions
 
 ## ReLU
@@ -120,6 +124,10 @@ date: 2015-10-09
 **Formulating The ReLU**
 
 - blog: [http://www.jefkine.com/general/2016/08/24/formulating-the-relu/](http://www.jefkine.com/general/2016/08/24/formulating-the-relu/)
+
+**Activation Ensembles for Deep Neural Networks**
+
+[https://arxiv.org/abs/1702.07790](https://arxiv.org/abs/1702.07790)
 
 ## Series on Initialization of Weights for DNN
 
@@ -715,6 +723,10 @@ date: 2015-10-09
 
 - blog: [http://blog.stratospark.com/multiprocess-image-augmentation-keras.html](http://blog.stratospark.com/multiprocess-image-augmentation-keras.html)
 - github: [https://github.com/stratospark/keras-multiprocess-image-data-generator](https://github.com/stratospark/keras-multiprocess-image-data-generator)
+
+**Comprehensive Data Augmentation and Sampling for Pytorch**
+
+- github: [https://github.com/ncullen93/torchsample](https://github.com/ncullen93/torchsample)
 
 ## Imbalanced Datasets
 

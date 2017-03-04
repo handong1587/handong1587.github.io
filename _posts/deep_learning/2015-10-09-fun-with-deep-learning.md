@@ -107,7 +107,8 @@ with the style of another image using convolutional neural networks
 - github: [https://github.com/yusuketomoto/chainer-fast-neuralstyle](https://github.com/yusuketomoto/chainer-fast-neuralstyle)
 - github: [https://github.com/awentzonline/keras-rtst](https://github.com/awentzonline/keras-rtst)
 - github(Keras): [https://github.com/titu1994/Fast-Neural-Style](https://github.com/titu1994/Fast-Neural-Style)
-- gtihub(Tensorflow): [https://github.com/junrushao1994/fast-neural-style.tf](https://github.com/junrushao1994/fast-neural-style.tf)
+- gtihub(Tensorflow): [https://github.com/junrushao1994/fast-neural-style.tf] (https://github.com/junrushao1994/fast-neural-style.tf)
+- github(PyTorch): [https://github.com/bengxy/FastNeuralStyle](https://github.com/bengxy/FastNeuralStyle)
 
 **Image transformation networks with fancy loss functions**
 

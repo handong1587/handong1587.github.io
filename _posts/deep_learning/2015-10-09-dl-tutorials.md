@@ -899,6 +899,11 @@ Implementations and ideas are largely based on papers from arxiv and implementat
 
 - github: [https://github.com/ritchieng/the-incredible-pytorch](https://github.com/ritchieng/the-incredible-pytorch)
 
+**PyTorch quick start: Classifying an image**
+
+- blog: [http://blog.outcome.io/pytorch-quick-start-classifying-an-image/](http://blog.outcome.io/pytorch-quick-start-classifying-an-image/)
+- ipn: [https://gist.github.com/jbencook/9918217f866c1aa9967391ba62d123b5](https://gist.github.com/jbencook/9918217f866c1aa9967391ba62d123b5)
+
 # Building a System for Fun!
 
 **Deep Learning in Aerial Systems Using Jetson**
