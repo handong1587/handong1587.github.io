@@ -165,6 +165,11 @@ not just the convolutions)
 
 - github: [https://github.com/tensorflow/models/tree/master/resnet](https://github.com/tensorflow/models/tree/master/resnet)
 
+**ShaResNet: reducing residual network parameter number by sharing weights**
+
+- arxiv: [https://arxiv.org/abs/1702.08782](https://arxiv.org/abs/1702.08782)
+- github: [https://github.com/aboulch/sharesnet](https://github.com/aboulch/sharesnet)
+
 ## ResNet-V2
 
 **Identity Mappings in Deep Residual Networks**
