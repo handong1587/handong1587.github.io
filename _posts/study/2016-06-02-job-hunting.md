@@ -71,6 +71,10 @@ date: 2016-06-02
 
 [https://techiedelight.quora.com/350%2B-Data-structures-programming-interview-questions?srid=hOqIb](https://techiedelight.quora.com/350%2B-Data-structures-programming-interview-questions?srid=hOqIb)
 
+**500 Data structures and algorithms interview questions and their solutions in C++**
+
+[https://techiedelight.quora.com/500-Data-structures-and-algorithms-interview-questions-and-their-solutions-in-C%2B%2B](https://techiedelight.quora.com/500-Data-structures-and-algorithms-interview-questions-and-their-solutions-in-C%2B%2B)
+
 # Coding
 
 **Coding interview questions with solutions (C++)**
