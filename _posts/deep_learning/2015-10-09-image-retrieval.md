@@ -270,6 +270,10 @@ date: 2015-10-09
 
 - arxiv: [https://www.arxiv.org/abs/1702.08798](https://www.arxiv.org/abs/1702.08798)
 
+**Context Aware Query Image Representation for Particular Object Retrieval**
+
+[https://www.arxiv.org/abs/1703.01226](https://www.arxiv.org/abs/1703.01226)
+
 # Video Indexing / Retrieval
 
 **Face Video Retrieval via Deep Learning of Binary Hash Representations**

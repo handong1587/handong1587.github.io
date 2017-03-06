@@ -75,6 +75,10 @@ date: 2015-10-09
 - intro: TCSVT 2016. Sun Yat-sen University & Guangzhou University
 - arxiv: [https://arxiv.org/abs/1701.03551](https://arxiv.org/abs/1701.03551)
 
+**Deep Collaborative Learning for Visual Recognition**
+
+[https://www.arxiv.org/abs/1703.01229](https://www.arxiv.org/abs/1703.01229)
+
 ## Multi-object Recognition
 
 **Multiple Object Recognition with Visual Attention**

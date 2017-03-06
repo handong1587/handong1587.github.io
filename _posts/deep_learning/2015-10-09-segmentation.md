@@ -404,6 +404,10 @@ with built-in awareness of semantically meaningful boundaries. "
 - github: [https://arxiv.org/abs/1702.08502](https://arxiv.org/abs/1702.08502)
 - pretrained-models: [https://drive.google.com/drive/folders/0B72xLTlRb0SoREhISlhibFZTRmM](https://drive.google.com/drive/folders/0B72xLTlRb0SoREhISlhibFZTRmM)
 
+**Label Refinement Network for Coarse-to-Fine Semantic Segmentation**
+
+[https://www.arxiv.org/abs/1703.00551](https://www.arxiv.org/abs/1703.00551)
+
 # Instance Segmentation
 
 **Simultaneous Detection and Segmentation**
