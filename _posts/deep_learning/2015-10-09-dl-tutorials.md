@@ -599,7 +599,7 @@ Machine learning workflow, Extracting feaures from images (colours, edges, corne
 - arxiv: [http://arxiv.org/abs/1501.06633](http://arxiv.org/abs/1501.06633)
 - github: [https://github.com/eBay/maxDNN](https://github.com/eBay/maxDNN)
 
-# GEMM
+# GEMM (General Matrix Matrix Multiply)
 
 **Why GEMM is at the heart of deep learning**
 

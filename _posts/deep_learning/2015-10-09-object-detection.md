@@ -167,6 +167,7 @@ date: 2015-10-09
 - github(Torch): [https://github.com/ruotianluo/Faster-RCNN-Densecap-torch](https://github.com/ruotianluo/Faster-RCNN-Densecap-torch)
 - github(Tensorflow): [https://github.com/smallcorgi/Faster-RCNN_TF](https://github.com/smallcorgi/Faster-RCNN_TF)
 - github(Tensorflow): [https://github.com/CharlesShang/TFFRCNN](https://github.com/CharlesShang/TFFRCNN)
+- github(C++ demo): [https://github.com/YihangLou/FasterRCNN-Encapsulation-Cplusplus](https://github.com/YihangLou/FasterRCNN-Encapsulation-Cplusplus)
 
 **Faster R-CNN in MXNet with distributed implementation and data parallelization**
 
