@@ -1,0 +1,14 @@
+net: "vgg.train_val.prototxt"
+test_iter: 10
+test_interval: 100
+base_lr: 0.0005
+lr_policy: "step"
+gamma: 0.001
+stepsize: 1000
+display: 10
+max_iter: 450000
+momentum: 0.9
+weight_decay: 0.0005
+snapshot: 100
+snapshot_prefix: "VGG_ILSVRC_16_layers"
+solver_mode: CPU
