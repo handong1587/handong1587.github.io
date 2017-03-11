@@ -168,6 +168,11 @@ date: 2015-10-09
 - github(Keras): [https://github.com/ducha-aiki/LSUV-keras](https://github.com/ducha-aiki/LSUV-keras)
 - review: [http://www.erogol.com/need-good-init/](http://www.erogol.com/need-good-init/)
 
+**All You Need is Beyond a Good Init: Exploring Better Solution for Training Extremely Deep Convolutional Neural Networks with Orthonormality and Modulation**
+
+- intro: CVPR 2017. HIKVision
+- arxiv: [https://arxiv.org/abs/1703.01827](https://arxiv.org/abs/1703.01827)
+
 **Data-dependent Initializations of Convolutional Neural Networks**
 
 - arxiv: [http://arxiv.org/abs/1511.06856](http://arxiv.org/abs/1511.06856)

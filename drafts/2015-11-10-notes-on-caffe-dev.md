@@ -123,6 +123,16 @@ features = np.squeeze(net.blobs['pool5/7x7_s1'].data)
 
 ref: [https://prateekvjoshi.com/2016/04/26/how-to-extract-feature-vectors-from-deep-neural-networks-in-python-caffe/](https://prateekvjoshi.com/2016/04/26/how-to-extract-feature-vectors-from-deep-neural-networks-in-python-caffe/)
 
+# Build/Make Errors
+
+1. fatal error: pyconfig.h: No such file or directory
+
+Solution:
+
+```
+export CPLUS_INCLUDE_PATH=/usr/include/python2.7
+```
+
 # Reading and Notes
 
 **DIY Deep Learning for Vision: A Tutorial With Caffe 报告笔记**

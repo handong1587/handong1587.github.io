@@ -170,6 +170,10 @@ not just the convolutions)
 - arxiv: [https://arxiv.org/abs/1702.08782](https://arxiv.org/abs/1702.08782)
 - github: [https://github.com/aboulch/sharesnet](https://github.com/aboulch/sharesnet)
 
+**Sharing Residual Units Through Collective Tensor Factorization in Deep Neural Networks**
+
+- arxiv: [https://arxiv.org/abs/1703.02180](https://arxiv.org/abs/1703.02180)
+
 ## ResNet-V2
 
 **Identity Mappings in Deep Residual Networks**
@@ -1834,6 +1838,14 @@ It is based on Facebook's TorchCraft, which is a bridge between Torch and StarCr
 
 - intro: CMU. 70 pages, 200 references
 - arxiv: [https://arxiv.org/abs/1702.07800](https://arxiv.org/abs/1702.07800)
+
+**Learning across scales - A multiscale method for Convolution Neural Networks**
+
+- arxiv: [https://arxiv.org/abs/1703.02009](https://arxiv.org/abs/1703.02009)
+
+**Stacking-based Deep Neural Network: Deep Analytic Network on Convolutional Spectral Histogram Features**
+
+- arxiv: [https://arxiv.org/abs/1703.01396](https://arxiv.org/abs/1703.01396)
 
 ## Separable Convolutions
 

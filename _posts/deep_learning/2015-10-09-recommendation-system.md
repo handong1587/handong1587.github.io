@@ -93,6 +93,10 @@ date: 2015-10-09
 - intro: University of Texas at Austin & Google Research & CMU & LinkedIn
 - paper: [http://alexbeutel.com/papers/rrn_wsdm2017.pdf](http://alexbeutel.com/papers/rrn_wsdm2017.pdf)
 
+**Deep Learning based Large Scale Visual Recommendation and Search for E-Commerce**
+
+- arxiv: [https://arxiv.org/abs/1703.02344](https://arxiv.org/abs/1703.02344)
+
 # Slides
 
 **Deep learning for music recommendation**

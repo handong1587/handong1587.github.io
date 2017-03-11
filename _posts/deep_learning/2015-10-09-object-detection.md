@@ -1020,6 +1020,12 @@ This task involves predicting the salient regions of an image given by human eye
 
 - arxiv: [http://arxiv.org/abs/1609.03659](http://arxiv.org/abs/1609.03659)
 
+**SRN: Side-output Residual Network for Object Symmetry Detection in the Wild**
+
+- intro: CVPR 2017
+- arxiv: [https://arxiv.org/abs/1703.02243](https://arxiv.org/abs/1703.02243)
+- github: [https://github.com/KevinKecc/SRN](https://github.com/KevinKecc/SRN)
+
 ## Fruit Detection
 
 **Deep Fruit Detection in Orchards**

@@ -535,6 +535,12 @@ with built-in awareness of semantically meaningful boundaries. "
 
 - arxiv: [https://arxiv.org/abs/1612.03129](https://arxiv.org/abs/1612.03129)
 
+# Specific Segmentation
+
+**End-to-end semantic face segmentation with conditional random fields as convolutional, recurrent and adversarial networks**
+
+- arxiv: [https://arxiv.org/abs/1703.03305](https://arxiv.org/abs/1703.03305)
+
 # Segment Proposal
 
 **FastMask: Segment Object Multi-scale Candidates in One Shot**
