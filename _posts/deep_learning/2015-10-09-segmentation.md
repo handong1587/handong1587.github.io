@@ -111,15 +111,16 @@ only the CNN part of the network is fine-tuned to learn deconvolution indirectly
 
 ## DeepLab
 
-**Semantic Image Segmentation with Deep Convolutional Nets and Fully Connected CRFs (DeepLab)**
+**Semantic Image Segmentation with Deep Convolutional Nets and Fully Connected CRFs**
 
-- intro: ICLR 2015
+- intro: ICLR 2015. DeepLab
 - arxiv: [http://arxiv.org/abs/1412.7062](http://arxiv.org/abs/1412.7062)
 - github: [https://bitbucket.org/deeplab/deeplab-public/](https://bitbucket.org/deeplab/deeplab-public/)
 - github: [https://github.com/TheLegendAli/DeepLab-Context](https://github.com/TheLegendAli/DeepLab-Context)
 
-**Weakly- and Semi-Supervised Learning of a DCNN for Semantic Image Segmentation (DeepLab)**
+**Weakly- and Semi-Supervised Learning of a DCNN for Semantic Image Segmentation**
 
+- intro: DeepLab
 - arxiv: [http://arxiv.org/abs/1502.02734](http://arxiv.org/abs/1502.02734)
 - bitbucket: [https://bitbucket.org/deeplab/deeplab-public/](https://bitbucket.org/deeplab/deeplab-public/)
 - github: [https://github.com/TheLegendAli/DeepLab-Context](https://github.com/TheLegendAli/DeepLab-Context)

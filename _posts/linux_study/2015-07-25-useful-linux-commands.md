@@ -663,13 +663,19 @@ Note:
 
 ^I = Ctrl+v,Ctrl+I
 
-**Remove duplicate text lines
+**Remove duplicate text lines**
 
 ```
 sort {file-name} | uniq -u
 ```
 
-**Remove duplicate text lines and only keep one line
+**Remove duplicate text lines and only keep one line**
 ```
 perl -lne '$seen{$_}++ and next or print;' data.txt > output.txt
+```
+
+**Exit a shell if some commands do not execute correctly**
+
+```
+dosomething1 || exit 1
 ```

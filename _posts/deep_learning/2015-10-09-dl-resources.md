@@ -461,6 +461,10 @@ not just the convolutions)
 - intro:  CVPR 2015
 - paper: [http://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Liu_Multi-Task_Deep_Visual-Semantic_2015_CVPR_paper.pdf](http://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Liu_Multi-Task_Deep_Visual-Semantic_2015_CVPR_paper.pdf)
 
+**Learning Multiple Tasks with Deep Relationship Networks**
+
+- arxiv: [https://arxiv.org/abs/1506.02117](https://arxiv.org/abs/1506.02117)
+
 **Learning deep representation of multityped objects and tasks**
 
 - arxiv: [http://arxiv.org/abs/1603.01359](http://arxiv.org/abs/1603.01359)
