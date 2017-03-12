@@ -480,6 +480,20 @@ It is an experimental refactoring of Caffe, and allows a more flexible way to or
 - github: [https://github.com/purine/purine2](https://github.com/purine/purine2)
 - arxiv: [http://arxiv.org/abs/1412.6249](http://arxiv.org/abs/1412.6249)
 
+# PyTorch
+
+**PyTorch**
+
+- github: [https://github.com/pytorch/pytorch](https://github.com/pytorch/pytorch)
+
+***Datasets, Transforms and Models specific to Computer Vision**
+
+[https://github.com/pytorch/vision/](https://github.com/pytorch/vision/)
+
+**Convert torch to pytorch**
+
+[https://github.com/clcarwin/convert_torch_to_pytorch](https://github.com/clcarwin/convert_torch_to_pytorch)
+
 # TensorFlow
 
 **TensorFlow**
@@ -681,10 +695,6 @@ It is suitable for deep learning on limited computational resource, embedded sys
 **Torch in Action**
 
 - github: [https://github.com/nicholas-leonard/torch-in-action](https://github.com/nicholas-leonard/torch-in-action)
-
-**PyTorch**
-
-- github: [https://github.com/pytorch/pytorch](https://github.com/pytorch/pytorch)
 
 # VELES
 

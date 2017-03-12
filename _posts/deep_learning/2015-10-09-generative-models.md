@@ -254,6 +254,7 @@ date: 2015-10-09
 - github: [https://github.com/martinarjovsky/WassersteinGAN](https://github.com/martinarjovsky/WassersteinGAN)
 - github: [https://github.com/Zardinality/WGAN-tensorflow](https://github.com/Zardinality/WGAN-tensorflow)
 - github(Tensorflow/Keras): [https://github.com/kuleshov/tf-wgan](https://github.com/kuleshov/tf-wgan)
+- github: [https://github.com/shekkizh/WassersteinGAN.tensorflow](https://github.com/shekkizh/WassersteinGAN.tensorflow)
 - gist: [https://gist.github.com/soumith/71995cecc5b99cda38106ad64503cee3](https://gist.github.com/soumith/71995cecc5b99cda38106ad64503cee3)
 - reddit: [https://www.reddit.com/r/MachineLearning/comments/5qxoaz/r_170107875_wasserstein_gan/](https://www.reddit.com/r/MachineLearning/comments/5qxoaz/r_170107875_wasserstein_gan/)
 

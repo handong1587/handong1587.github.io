@@ -480,11 +480,13 @@ Compressed model is less than 500KB
 
 ![](http://richzhang.github.io/colorization/resources/images/net_diagram.jpg)
 
+- intro: ECCV 2016
 - project page: [http://richzhang.github.io/colorization/](http://richzhang.github.io/colorization/)
 - arxiv: [http://arxiv.org/abs/1603.08511](http://arxiv.org/abs/1603.08511)
 - github: [https://github.com/richzhang/colorization](https://github.com/richzhang/colorization)
 - demo: [http://demos.algorithmia.com/colorize-photos/](http://demos.algorithmia.com/colorize-photos/)
 - github: [https://github.com/tdeboissiere/DeepLearningImplementations/tree/master/Colorful](https://github.com/tdeboissiere/DeepLearningImplementations/tree/master/Colorful)
+ github(Tensorflow): [https://github.com/nilboy/colorization-tf](https://github.com/nilboy/colorization-tf)
 
 **Automatic Colorization (Tensorflow + VGG)**
 

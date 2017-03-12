@@ -535,6 +535,12 @@ with built-in awareness of semantically meaningful boundaries. "
 
 - arxiv: [https://arxiv.org/abs/1612.03129](https://arxiv.org/abs/1612.03129)
 
+**Interpretable Structure-Evolving LSTM**
+
+- intro: CMU & Sun Yat-sen University & National University of Singapore & Adobe Research
+- intro: CVPR 2017 spotlight paper
+- arxiv: [https://arxiv.org/abs/1703.03055](https://arxiv.org/abs/1703.03055)
+
 # Specific Segmentation
 
 **End-to-end semantic face segmentation with conditional random fields as convolutional, recurrent and adversarial networks**
@@ -549,7 +555,7 @@ with built-in awareness of semantically meaningful boundaries. "
 - arxiv: [https://arxiv.org/abs/1612.08843](https://arxiv.org/abs/1612.08843)
 - github: [https://github.com/voidrank/FastMask](https://github.com/voidrank/FastMask)
 
-# Scene Labeling/Parsing
+# Scene Labeling / Parsing
 
 **Indoor Semantic Segmentation using depth information**
 
@@ -697,6 +703,21 @@ ranked 1st place in ImageNet Scene Parsing Challenge 2016
 - keywords: MultiNet
 - intro: KittiSeg performs segmentation of roads by utilizing an FCN based model.
 - github: [https://github.com/MarvinTeichmann/KittiBox](https://github.com/MarvinTeichmann/KittiBox)
+
+# 3D Segmentation
+
+**PointNet: Deep Learning on Point Sets for 3D Classification and Segmentation**
+
+![](http://stanford.edu/~rqi/pointnet/images/teaser.jpg)
+
+- intro: Stanford University
+- project page: [http://stanford.edu/~rqi/pointnet/](http://stanford.edu/~rqi/pointnet/)
+- arxiv: [https://arxiv.org/abs/1612.00593](https://arxiv.org/abs/1612.00593)
+- github: [https://github.com/charlesq34/pointnet](https://github.com/charlesq34/pointnet)
+
+**DA-RNN: Semantic Mapping with Data Associated Recurrent Neural Networks**
+
+[https://arxiv.org/abs/1703.03098](https://arxiv.org/abs/1703.03098)
 
 # Leaderboard
 

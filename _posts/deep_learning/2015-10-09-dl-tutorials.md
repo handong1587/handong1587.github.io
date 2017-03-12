@@ -429,10 +429,6 @@ Machine learning workflow, Extracting feaures from images (colours, edges, corne
 - youtube: [https://www.youtube.com/watch?v=YVjvRvvVn4w](https://www.youtube.com/watch?v=YVjvRvvVn4w)
 - mirror: [https://pan.baidu.com/s/1o8o7LjW](https://pan.baidu.com/s/1o8o7LjW)
 
-**Facial Recognition On A Jetson TX1 In Tensorflow**
-
-- blog: [http://www.mattkrzus.com/face.html](http://www.mattkrzus.com/face.html)
-
 **Pokemon, Colors, and Deep Learning**
 
 - blog: [https://juandes.com/pokemon-colors-and-deep-learning-95fb715be46](https://juandes.com/pokemon-colors-and-deep-learning-95fb715be46)
@@ -904,12 +900,31 @@ Implementations and ideas are largely based on papers from arxiv and implementat
 - blog: [http://blog.outcome.io/pytorch-quick-start-classifying-an-image/](http://blog.outcome.io/pytorch-quick-start-classifying-an-image/)
 - ipn: [https://gist.github.com/jbencook/9918217f866c1aa9967391ba62d123b5](https://gist.github.com/jbencook/9918217f866c1aa9967391ba62d123b5)
 
+**tutorial for researchers to learn deep learning with pytorch.**
+
+[https://github.com/yunjey/pytorch-tutorial](https://github.com/yunjey/pytorch-tutorial)
+
 # Building a System for Fun!
+
+**Facial Recognition On A Jetson TX1 In Tensorflow**
+
+- blog: [http://www.mattkrzus.com/face.html](http://www.mattkrzus.com/face.html)
+
+**Build an AI Cat Chaser with Jetson TX1 and Caffe**
+
+![](https://devblogs.nvidia.com/parallelforall/wp-content/uploads/2016/07/cat1-2.jpeg)
+
+- blog: [https://devblogs.nvidia.com/parallelforall/ai-cat-chaser-jetson-tx1-caffe/](https://devblogs.nvidia.com/parallelforall/ai-cat-chaser-jetson-tx1-caffe/)
 
 **Deep Learning in Aerial Systems Using Jetson**
 
 - blog: [https://devblogs.nvidia.com/parallelforall/deep-learning-in-aerial-systems-jetson/](https://devblogs.nvidia.com/parallelforall/deep-learning-in-aerial-systems-jetson/)
 - github: [https://github.com/amitibo/auvsi-targets](https://github.com/amitibo/auvsi-targets)
+
+**Cherry Autonomous Racecar (CAR): NCAT ECE Senior Design Project**
+
+- intro: Implementation of the CNN from End to End Learning for Self-Driving Cars on a Nvidia Jetson TX1 using Tensorflow and ROS
+- github: [https://github.com/DJTobias/Cherry-Autonomous-Racecar](https://github.com/DJTobias/Cherry-Autonomous-Racecar)
 
 ## Traffic Signs Classification
 

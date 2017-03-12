@@ -233,6 +233,10 @@ such as image classification, object detection or text captioning.
 - intro: This course is a merger of Stanford's previous cs224n course and cs224d
 - homepage: [http://web.stanford.edu/class/cs224n/](http://web.stanford.edu/class/cs224n/)
 
+**Course notes for CS224N Winter17**
+
+[https://github.com/stanfordnlp/cs224n-winter17-notes](https://github.com/stanfordnlp/cs224n-winter17-notes)
+
 **Stanford CS224d: Deep Learning for Natural Language Processing**
 
 - homepage: [http://cs224d.stanford.edu/](http://cs224d.stanford.edu/)

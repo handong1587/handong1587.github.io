@@ -351,6 +351,11 @@ the 3rd National Gradute Contest on Smart-CIty Technology and Creative Design, C
 - project page: [https://www.pkuml.org/resources/pku-vehicleid.html](https://www.pkuml.org/resources/pku-vehicleid.html)
 - github: [https://github.com/iamhankai/vehicle-retrieval-kCNNs](https://github.com/iamhankai/vehicle-retrieval-kCNNs)
 
+**A visual search engine based on Elasticsearch and Tensorflow**
+
+- keywords: faster r-cnn
+- github: [https://github.com/tuan3w/visual_search](https://github.com/tuan3w/visual_search)
+
 # Blogs
 
 **Where can I buy a chair like that? – This app will tell you**

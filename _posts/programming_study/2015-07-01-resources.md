@@ -381,6 +381,10 @@ Add breakpoints, view stack traces, and more in C, C++, Go, and Rust!
 Simply run gdbgui from the terminal and a new tab will open in your browser.
 - github: [https://github.com/cs01/gdbgui](https://github.com/cs01/gdbgui)
 
+**GDB基础 - 张银奎**
+
+- slides: [http://001001.org/gedu/06_LINUX_Raymond_GDB.pdf](http://001001.org/gedu/06_LINUX_Raymond_GDB.pdf)
+
 # Programming
 
 **Why is Object-Oriented Programming Useful? (With a Role Playing Game Example)**

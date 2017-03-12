@@ -124,7 +124,7 @@ date: 2015-10-09
 - intro: first place on Kitti Road Segmentation. 
 joint classification, detection and semantic segmentation via a unified architecture, less than 100 ms to perform all tasks
 - arxiv: [https://arxiv.org/abs/1612.07695](https://arxiv.org/abs/1612.07695)
-- github: coming soon
+- github: [https://github.com/MarvinTeichmann/MultiNet](https://github.com/MarvinTeichmann/MultiNet)
 
 # Projects
 

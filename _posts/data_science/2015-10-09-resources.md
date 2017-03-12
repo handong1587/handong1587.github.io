@@ -85,7 +85,6 @@ date: 2015-10-09
 # Blogs
 
 **Comprehensive learning path – Data Science in Python**
-
 [http://www.analyticsvidhya.com/learning-paths-data-science-business-analytics-business-intelligence-big-data/learning-path-data-science-python/](http://www.analyticsvidhya.com/learning-paths-data-science-business-analytics-business-intelligence-big-data/learning-path-data-science-python/)
 
 **Top Data Scientists to Follow & Best Data Science Tutorials on GitHub**
@@ -128,6 +127,10 @@ date: 2015-10-09
 **Data Science, Machine Learning, and Artificial Intelligence Resources**
 
 - github: [https://github.com/acastrounis/data-science-machine-learning-ai-resources](https://github.com/acastrounis/data-science-machine-learning-ai-resources)
+
+**Data Science and Robots**
+
+[http://brohrer.github.io/blog.html](http://brohrer.github.io/blog.html)
 
 ## Data Sources for Cool Data Science Projects
 

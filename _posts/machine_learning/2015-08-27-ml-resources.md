@@ -529,6 +529,15 @@ Classic strategies:
 
 - arxiv: [https://arxiv.org/abs/1702.08835](https://arxiv.org/abs/1702.08835)
 
+**Deep Bayesian Active Learning with Image Data**
+
+- project page: [http://mlg.eng.cam.ac.uk/yarin/publications.html#Gal2016Active](http://mlg.eng.cam.ac.uk/yarin/publications.html#Gal2016Active)
+- arxiv: [https://arxiv.org/abs/1703.02910](https://arxiv.org/abs/1703.02910)
+
+**Deep Robust Kalman Filter**
+
+[https://arxiv.org/abs/1703.02310](https://arxiv.org/abs/1703.02310)
+
 # Mathematics
 
 **Some Notes on Applied Mathematics for Machine**

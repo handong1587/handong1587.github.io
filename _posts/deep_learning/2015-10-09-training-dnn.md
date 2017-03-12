@@ -129,6 +129,10 @@ date: 2015-10-09
 
 [https://arxiv.org/abs/1702.07790](https://arxiv.org/abs/1702.07790)
 
+**Difference Between Softmax Function and Sigmoid Function**
+
+[http://dataaspirant.com/2017/03/07/difference-between-softmax-function-and-sigmoid-function/](http://dataaspirant.com/2017/03/07/difference-between-softmax-function-and-sigmoid-function/)
+
 ## Series on Initialization of Weights for DNN
 
 **Initialization Of Feedfoward Networks**
@@ -635,6 +639,12 @@ date: 2015-10-09
 **Convergence rate of gradient descent**
 
 - blog: [https://building-babylon.net/2016/06/23/convergence-rate-of-gradient-descent/](https://building-babylon.net/2016/06/23/convergence-rate-of-gradient-descent/)
+
+**A Robust Adaptive Stochastic Gradient Method for Deep Learning**
+
+- intro: IJCNN 2017 Accepted Paper, An extension of paper, "ADASECANT: Robust Adaptive Secant Method for Stochastic Gradient"
+- intro: Universite de Montreal & University of Oxford
+- arxiv: [https://arxiv.org/abs/1703.00788](https://arxiv.org/abs/1703.00788)
 
 # Backpropagation
 

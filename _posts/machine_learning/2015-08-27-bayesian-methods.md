@@ -115,6 +115,7 @@ date: 2015-08-27
 - arxiv: [https://arxiv.org/abs/1701.03757](https://arxiv.org/abs/1701.03757)
 - homepage: [http://edwardlib.org/](http://edwardlib.org/)
 - zoo: [http://edwardlib.org/zoo](http://edwardlib.org/zoo)
+- code: [http://edwardlib.org/iclr2017](http://edwardlib.org/iclr2017)
 
 **The Algorithms Behind Probabilistic Programming**
 

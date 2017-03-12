@@ -84,6 +84,10 @@ Contains all the popular DL frameworks (TensorFlow, Theano, Torch, Caffe, etc.)
 
 - blog: [https://blog.empiricalci.com/a-gpu-enabled-ami-for-deep-learning-5aa3d694b630#.9339zxm4e](https://blog.empiricalci.com/a-gpu-enabled-ami-for-deep-learning-5aa3d694b630#.9339zxm4e)
 
+**Keras with GPU on Amazon EC2 – a step-by-step instruction**
+
+[https://medium.com/@mateuszsieniawski/keras-with-gpu-on-amazon-ec2-a-step-by-step-instruction-4f90364e49ac#.k27d0mqir](https://medium.com/@mateuszsieniawski/keras-with-gpu-on-amazon-ec2-a-step-by-step-instruction-4f90364e49ac#.k27d0mqir)
+
 ## Microsoft R Server
 
 **Training Deep Neural Networks on ImageNet Using Microsoft R Server and Azure GPU VMs**
@@ -283,7 +287,6 @@ Contains all the popular DL frameworks (TensorFlow, Theano, Torch, Caffe, etc.)
 # SRAM
 
 **ShiDianNao: Shifting Vision Processing Closer to the Sensor**
-
 [http://lap.epfl.ch/files/content/sites/lap/files/shared/publications/DuJun15_ShiDianNaoShiftingVisionProcessingCloserToTheSensor_ISCA15.pdf](http://lap.epfl.ch/files/content/sites/lap/files/shared/publications/DuJun15_ShiDianNaoShiftingVisionProcessingCloserToTheSensor_ISCA15.pdf)
 
 # Blogs
@@ -293,6 +296,10 @@ Contains all the popular DL frameworks (TensorFlow, Theano, Torch, Caffe, etc.)
 ![](http://www.nextplatform.com/wp-content/uploads/2016/06/CNNLabProg.png)
 
 - blog: [http://www.nextplatform.com/2016/06/29/universal-fpga-gpu-platform-deep-learning/](http://www.nextplatform.com/2016/06/29/universal-fpga-gpu-platform-deep-learning/)
+
+**An Early Look at Startup Graphcore’s Deep Learning Chip**
+
+[https://www.nextplatform.com/2017/03/09/early-look-startup-graphcores-deep-learning-chip/](https://www.nextplatform.com/2017/03/09/early-look-startup-graphcores-deep-learning-chip/)
 
 # Videos
 

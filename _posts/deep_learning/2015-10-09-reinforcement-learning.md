@@ -74,7 +74,6 @@ date: 2015-10-09
 ## Simple Reinforcement Learning with Tensorflow
 
 **Part 0: Q-Learning with Tables and Neural Networks**
-
 [https://medium.com/emergent-future/simple-reinforcement-learning-with-tensorflow-part-0-q-learning-with-tables-and-neural-networks-d195264329d0#.oo105wa2t](https://medium.com/emergent-future/simple-reinforcement-learning-with-tensorflow-part-0-q-learning-with-tables-and-neural-networks-d195264329d0#.oo105wa2t)
 
 **Part 1 - Two-armed Bandit**
@@ -86,15 +85,12 @@ date: 2015-10-09
 [https://medium.com/@awjuliani/super-simple-reinforcement-learning-tutorial-part-2-ded33892c724#.n2wytg9q0](https://medium.com/@awjuliani/super-simple-reinforcement-learning-tutorial-part-2-ded33892c724#.n2wytg9q0)
 
 **Part 3 - Model-Based RL**
-
 [https://medium.com/@awjuliani/simple-reinforcement-learning-with-tensorflow-part-3-model-based-rl-9a6fe0cce99#.742i2yj6p](https://medium.com/@awjuliani/simple-reinforcement-learning-with-tensorflow-part-3-model-based-rl-9a6fe0cce99#.742i2yj6p)
 
 **Part 4: Deep Q-Networks and Beyond**
-
 [https://medium.com/@awjuliani/simple-reinforcement-learning-with-tensorflow-part-4-deep-q-networks-and-beyond-8438a3e2b8df#.jox069crz](https://medium.com/@awjuliani/simple-reinforcement-learning-with-tensorflow-part-4-deep-q-networks-and-beyond-8438a3e2b8df#.jox069crz)
 
 **Part 5: Visualizing an Agent’s Thoughts and Actions**
-
 [https://medium.com/@awjuliani/simple-reinforcement-learning-with-tensorflow-part-5-visualizing-an-agents-thoughts-and-actions-4f27b134bb2a#.pluh6cygm](https://medium.com/@awjuliani/simple-reinforcement-learning-with-tensorflow-part-5-visualizing-an-agents-thoughts-and-actions-4f27b134bb2a#.pluh6cygm)
 
 **Part 6: Partial Observability and Deep Recurrent Q-Networks**
@@ -113,6 +109,11 @@ date: 2015-10-09
 - part 2: [https://mpatacchiola.github.io/blog/2017/01/15/dissecting-reinforcement-learning-2.html](https://mpatacchiola.github.io/blog/2017/01/15/dissecting-reinforcement-learning-2.html)
 - part 3: [https://mpatacchiola.github.io/blog/2017/01/29/dissecting-reinforcement-learning-3.html](https://mpatacchiola.github.io/blog/2017/01/29/dissecting-reinforcement-learning-3.html)
 - github: [https://github.com/mpatacchiola/dissecting-reinforcement-learning](https://github.com/mpatacchiola/dissecting-reinforcement-learning)
+
+**REINFORCE tutorial**
+
+- intro: A small collection of code snippets and notes explaining the foundations of the REINFORCE algorithm.
+- github: [https://github.com/mathias-madsen/reinforce_tutorial](https://github.com/mathias-madsen/reinforce_tutorial)
 
 # Courses
 
@@ -432,7 +433,7 @@ Incorporates dropout regularization and convolutional neural networks with a sep
 
 **Reinforcement Learning with Unsupervised Auxiliary Tasks**
 
-- intro: DeepMind
+- intro: DeepMind. ICLR 2017 oral
 - arxiv: [https://arxiv.org/abs/1611.05397](https://arxiv.org/abs/1611.05397)
 
 **Learning to reinforcement learn**
@@ -474,6 +475,11 @@ Incorporates dropout regularization and convolutional neural networks with a sep
 **Deep Reinforcement Learning: An Overview**
 
 - arxiv: [https://arxiv.org/abs/1701.07274](https://arxiv.org/abs/1701.07274)
+
+**Robust Adversarial Reinforcement Learning**
+
+- intro: CMU & Google Brain & Google Research
+- arxiv: [https://arxiv.org/abs/1703.02702](https://arxiv.org/abs/1703.02702)
 
 ## Playing Doom
 

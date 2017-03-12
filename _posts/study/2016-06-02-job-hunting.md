@@ -86,6 +86,10 @@ date: 2016-06-02
 
 - github: [https://github.com/andreis/interview](https://github.com/andreis/interview)
 
+**Interviews - Everything you need to know to get the job**
+
+[https://github.com/kdn251/Interviews](https://github.com/kdn251/Interviews)
+
 # Linux
 
 **Top Linux Interview Questions – Most Asked**

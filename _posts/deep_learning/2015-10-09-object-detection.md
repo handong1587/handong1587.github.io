@@ -694,6 +694,10 @@ This task involves predicting the salient regions of an image given by human eye
 
 - arxiv: [https://arxiv.org/abs/1702.00615](https://arxiv.org/abs/1702.00615)
 
+**Saliency Detection by Forward and Backward Cues in Deep-CNNs**
+
+[https://arxiv.org/abs/1703.00152](https://arxiv.org/abs/1703.00152)
+
 ## Saliency Detection in Video
 
 **Deep Learning For Video Saliency Detection**
@@ -722,6 +726,11 @@ This task involves predicting the salient regions of an image given by human eye
 **Visual Translation Embedding Network for Visual Relation Detection**
 
 - arxiv: [https://www.arxiv.org/abs/1702.08319](https://www.arxiv.org/abs/1702.08319)
+
+**Deep Variation-structured Reinforcement Learning for Visual Relationship and Attribute Detection**
+
+- intro: CVPR 2017 spotlight paper
+- arxiv: [https://arxiv.org/abs/1703.03054](https://arxiv.org/abs/1703.03054)
 
 # Specific Object Deteciton
 
@@ -807,6 +816,7 @@ This task involves predicting the salient regions of an image given by human eye
 - github(MXNet): [https://github.com/pangyupo/mxnet_mtcnn_face_detection](https://github.com/pangyupo/mxnet_mtcnn_face_detection)
 - github: [https://github.com/DaFuCoding/MTCNN_Caffe](https://github.com/DaFuCoding/MTCNN_Caffe)
 - github(MXNet): [https://github.com/Seanlinx/mtcnn](https://github.com/Seanlinx/mtcnn)
+- github(Raspberry Pi): [https://github.com/Pi-DeepLearning/RaspberryPi-FaceDetection-MTCNN-Caffe-With-Motion](https://github.com/Pi-DeepLearning/RaspberryPi-FaceDetection-MTCNN-Caffe-With-Motion)
 
 **Face Detection using Deep Learning: An Improved Faster RCNN Approach**
 

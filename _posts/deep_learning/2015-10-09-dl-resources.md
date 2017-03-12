@@ -662,6 +662,7 @@ not just the convolutions)
 - code(Matlab): [http://mx.nthu.edu.tw/~tsunghan/download/PCANet_demo_pyramid.rar](http://mx.nthu.edu.tw/~tsunghan/download/PCANet_demo_pyramid.rar)
 - mirror: [http://pan.baidu.com/s/1mg24b3a](http://pan.baidu.com/s/1mg24b3a)
 - github(C++): [https://github.com/Ldpe2G/PCANet](https://github.com/Ldpe2G/PCANet)
+- github(Python): [https://github.com/IshitaTakeshi/PCANet](https://github.com/IshitaTakeshi/PCANet)
 
 **Convolutional Kernel Networks**
 
@@ -833,6 +834,7 @@ with fast exact probabilistic inference over many layers."
 - github(Keras): [https://github.com/titu1994/DenseNet](https://github.com/titu1994/DenseNet)
 - github(PyTorch): [https://github.com/bamos/densenet.pytorch](https://github.com/bamos/densenet.pytorch)
 - github(PyTorch): [https://github.com/andreasveit/densenet-pytorch](https://github.com/andreasveit/densenet-pytorch)
+- github(Tensorflow): [https://github.com/ikhlestov/vision_networks](https://github.com/ikhlestov/vision_networks)
 
 **CliqueCNN: Deep Unsupervised Exemplar Learning**
 
@@ -1356,6 +1358,10 @@ with fast exact probabilistic inference over many layers."
 
 - blog: [https://news.developer.nvidia.com/disneys-ai-system-associates-images-with-sounds/](https://news.developer.nvidia.com/disneys-ai-system-associates-images-with-sounds/)
 
+**Convolutional Recurrent Neural Networks for Bird Audio Detection**
+
+[https://arxiv.org/abs/1703.02317](https://arxiv.org/abs/1703.02317)
+
 ## Music
 
 **Learning Features of Music from Scratch**
@@ -1847,6 +1853,12 @@ It is based on Facebook's TorchCraft, which is a bridge between Torch and StarCr
 
 - arxiv: [https://arxiv.org/abs/1703.01396](https://arxiv.org/abs/1703.01396)
 
+**A Compositional Object-Based Approach to Learning Physical Dynamics**
+
+- intro: ICLR 2017. Neural Physics Engine
+- paper: [https://openreview.net/pdf?id=Bkab5dqxe](https://openreview.net/pdf?id=Bkab5dqxe)
+- github: [https://github.com/mbchang/dynamics](https://github.com/mbchang/dynamics)
+
 ## Separable Convolutions
 
 **Deep Learning with Separable Convolutions**
@@ -2202,6 +2214,12 @@ Compatible with Theano and TensorFlow. Optimized for Twitter.
 - intro: Workshop paper for ICLR2017
 - arxiv: [https://arxiv.org/abs/1702.01846](https://arxiv.org/abs/1702.01846)
 - github: [https://github.com/mil-tokyo](https://github.com/mil-tokyo)
+
+**NewralNet**
+
+- intro: A lightweight, easy to use and open source Java library for experimenting with
+feed-forward neural nets and deep learning.
+- gitlab: [https://gitlab.com/flimmerkiste/NewralNet](https://gitlab.com/flimmerkiste/NewralNet)
 
 # Readings and Questions
 
