@@ -671,6 +671,10 @@ The project is dedicated to hero in life great Jesse Livermore.
 
 - github: [https://github.com/tobegit3hub/deep_q](https://github.com/tobegit3hub/deep_q)
 
+**Deep Q-Learning Network in pytorch**
+
+[https://github.com/transedward/pytorch-dqn](https://github.com/transedward/pytorch-dqn)
+
 ## Play Flappy Bird
 
 **Using Deep Q-Network to Learn How To Play Flappy Bird**

@@ -660,6 +660,11 @@ Classic strategies:
 
 - github: [https://github.com/grahamjenson/list_of_recommender_systems](https://github.com/grahamjenson/list_of_recommender_systems)
 
+**Related Pins at Pinterest: The Evolution of a Real-World Recommender System**
+
+- intro: Pinterest, Inc.
+- arxiv: [https://arxiv.org/abs/1702.07969](https://arxiv.org/abs/1702.07969)
+
 # Lifelong Learning
 
 **Lifelong Machine Learning**

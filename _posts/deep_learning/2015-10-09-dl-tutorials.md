@@ -675,6 +675,12 @@ Machine learning workflow, Extracting feaures from images (colours, edges, corne
 
 [http://docs.opencv.org/master/d5/de7/tutorial_dnn_googlenet.html#gsc.tab=0](http://docs.opencv.org/master/d5/de7/tutorial_dnn_googlenet.html#gsc.tab=0)
 
+# Chainer
+
+**Chainer Info**
+
+[https://github.com/hidetomasuoka/chainer-info](https://github.com/hidetomasuoka/chainer-info)
+
 # Keras
 
 **Keras tutorial**
@@ -781,7 +787,6 @@ Machine learning workflow, Extracting feaures from images (colours, edges, corne
 - blog: [https://hackernoon.com/machine-learning-with-tensorflow-8873fdee2b68#.90j2jz5av](https://hackernoon.com/machine-learning-with-tensorflow-8873fdee2b68#.90j2jz5av)
 
 **Image Classification and Segmentation with Tensorflow and TF-Slim**
-
 [http://warmspringwinds.github.io/tensorflow/tf-slim/2016/10/30/image-classification-and-segmentation-using-tensorflow-and-tf-slim/](http://warmspringwinds.github.io/tensorflow/tf-slim/2016/10/30/image-classification-and-segmentation-using-tensorflow-and-tf-slim/)
 
 **Not another MNIST tutorial with TensorFlow**
@@ -878,6 +883,11 @@ Implementations and ideas are largely based on papers from arxiv and implementat
 
 - blog: [https://paiv.github.io/blog/2016/09/25/tensorflow-to-bnns.html](https://paiv.github.io/blog/2016/09/25/tensorflow-to-bnns.html)
 - github: [https://github.com/paiv/mnist-bnns](https://github.com/paiv/mnist-bnns)
+
+**Android TensorFlow Machine Learning Example**
+
+- blog: [https://blog.mindorks.com/android-tensorflow-machine-learning-example-ff0e9b2654cc#.ysg0ss9r2](https://blog.mindorks.com/android-tensorflow-machine-learning-example-ff0e9b2654cc#.ysg0ss9r2)
+- github: [https://github.com/MindorksOpenSource/AndroidTensorFlowMachineLearningExample](https://github.com/MindorksOpenSource/AndroidTensorFlowMachineLearningExample)
 
 # Torch
 

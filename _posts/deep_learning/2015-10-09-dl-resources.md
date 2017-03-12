@@ -486,6 +486,12 @@ not just the convolutions)
 
 - arxiv: [http://arxiv.org/abs/1609.09025](http://arxiv.org/abs/1609.09025)
 
+**Identifying beneficial task relations for multi-task learning in deep neural networks**
+
+- intro: EACL 2017
+- arxiv: [https://arxiv.org/abs/1702.08303](https://arxiv.org/abs/1702.08303)
+- github: [https://github.com/jbingel/eacl2017_mtl](https://github.com/jbingel/eacl2017_mtl)
+
 # Multi-modal Learning
 
 **Multimodal Deep Learning**
@@ -688,7 +694,14 @@ not just the convolutions)
 
 **Striving for Simplicity: The All Convolutional Net**
 
+- intro: ICLR-2015 workshop
 - arxiv: [http://arxiv.org/abs/1412.6806](http://arxiv.org/abs/1412.6806)
+
+**How these researchers tried something unconventional to come out with a smaller yet better Image Recognition.**
+
+- intro: All Convolutional Network: (https://arxiv.org/abs/1412.6806#) implementation in Keras
+- blog: [https://medium.com/@matelabs_ai/how-these-researchers-tried-something-unconventional-to-came-out-with-a-smaller-yet-better-image-544327f30e72#.pfdbvdmuh](https://medium.com/@matelabs_ai/how-these-researchers-tried-something-unconventional-to-came-out-with-a-smaller-yet-better-image-544327f30e72#.pfdbvdmuh)
+- blog: [https://github.com/MateLabs/All-Conv-Keras](https://github.com/MateLabs/All-Conv-Keras)
 
 **Pointer Networks**
 
@@ -1516,10 +1529,6 @@ It is based on Facebook's TorchCraft, which is a bridge between Torch and StarCr
 - paper: [http://arxiv.org/abs/1406.2751](http://arxiv.org/abs/1406.2751)
 - github: [https://github.com/jbornschein/reweighted-ws](https://github.com/jbornschein/reweighted-ws)
 
-**Striving for Simplicity: The All Convolutional Net**
-
-- arxiv: [http://arxiv.org/abs/1412.6806](http://arxiv.org/abs/1412.6806)
-
 **Probabilistic Backpropagation for Scalable Learning of Bayesian Neural Networks**
 
 - paper: [http://arxiv.org/abs/1502.05336](http://arxiv.org/abs/1502.05336)
@@ -2046,7 +2055,7 @@ It is based on Facebook's TorchCraft, which is a bridge between Torch and StarCr
 - intro: first place on Kitti Road Segmentation. 
 joint classification, detection and semantic segmentation via a unified architecture, less than 100 ms to perform all tasks
 - arxiv: [https://arxiv.org/abs/1612.07695](https://arxiv.org/abs/1612.07695)
-- github: coming soon
+- github: [https://github.com/MarvinTeichmann/MultiNet](https://github.com/MarvinTeichmann/MultiNet)
 
 # Projects
 
