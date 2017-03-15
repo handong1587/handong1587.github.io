@@ -95,7 +95,9 @@ date: 2015-10-09
 
 **Deep Learning based Large Scale Visual Recommendation and Search for E-Commerce**
 
+- intro: Visnet. Flipkart's visual search and recommendation system
 - arxiv: [https://arxiv.org/abs/1703.02344](https://arxiv.org/abs/1703.02344)
+- github: [https://github.com/flipkart-incubator/fk-visual-search](https://github.com/flipkart-incubator/fk-visual-search)
 
 # Slides
 
