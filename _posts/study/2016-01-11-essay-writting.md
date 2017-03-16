@@ -27,3 +27,7 @@ date: 2016-01-11
 
 - intro: Brief Intro to LaTeX for beginners that helps you use LaTeX with ease. Comments and Contributions are welcomed
 - github: [https://github.com/VoLuong/Begin-Latex-in-minutes](https://github.com/VoLuong/Begin-Latex-in-minutes)
+
+**The Most Common Habits from more than 200 English Papers written by Graduate Chinese Engineering Students**
+
+- paper: [https://pan.baidu.com/s/1hrIwQOW](https://pan.baidu.com/s/1hrIwQOW)

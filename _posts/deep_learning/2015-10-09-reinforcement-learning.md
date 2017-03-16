@@ -115,6 +115,10 @@ date: 2015-10-09
 - intro: A small collection of code snippets and notes explaining the foundations of the REINFORCE algorithm.
 - github: [https://github.com/mathias-madsen/reinforce_tutorial](https://github.com/mathias-madsen/reinforce_tutorial)
 
+**Deep Q-Learning Recap**
+
+[http://blog.davidqiu.com/Research/%5B%20Recap%20%5D%20Deep%20Q-Learning%20Recap/](http://blog.davidqiu.com/Research/%5B%20Recap%20%5D%20Deep%20Q-Learning%20Recap/)
+
 # Courses
 
 **Advanced Topics: RL**
