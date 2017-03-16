@@ -369,6 +369,11 @@ at INT8 deep learning operations than other FPGA DSP architectures"
 
 - arxiv: [https://arxiv.org/abs/1702.06392](https://arxiv.org/abs/1702.06392)
 
+**A Compact DNN: Approaching GoogLeNet-Level Accuracy of Classification and Domain Adaptation**
+
+- intro: CVPR 2017
+- arxiv: [https://arxiv.org/abs/1703.04071](https://arxiv.org/abs/1703.04071)
+
 # Projects
 
 **Accelerate Convolutional Neural Networks**

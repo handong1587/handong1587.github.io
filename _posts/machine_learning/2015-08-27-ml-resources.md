@@ -700,12 +700,18 @@ Classic strategies:
 - intro: EMNLP 2016 Tutorial
 - slides: [http://www.emnlp2016.net/tutorials/chen-liu-t3.pdf](http://www.emnlp2016.net/tutorials/chen-liu-t3.pdf)
 
-# One Shot Learning
+# Zero-Shot Learning
 
 **An embarrassingly simple approach to zero-shot learning**
 
 - paper: [http://jmlr.org/proceedings/papers/v37/romera-paredes15.html](http://jmlr.org/proceedings/papers/v37/romera-paredes15.html)
 - github: [https://github.com/MLWave/extremely-simple-one-shot-learning](https://github.com/MLWave/extremely-simple-one-shot-learning)
+
+**Zero-Shot Learning - The Good, the Bad and the Ugly**
+
+- arxiv: [https://arxiv.org/abs/1703.04394](https://arxiv.org/abs/1703.04394)
+
+# One Shot Learning
 
 **Matching Networks for One Shot Learning**
 
