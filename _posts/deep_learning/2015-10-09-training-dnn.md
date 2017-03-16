@@ -743,6 +743,10 @@ date: 2015-10-09
 
 - github: [https://github.com/ncullen93/torchsample](https://github.com/ncullen93/torchsample)
 
+**Image augmentation for machine learning experiments.**
+
+[https://github.com/aleju/imgaug](https://github.com/aleju/imgaug)
+
 ## Imbalanced Datasets
 
 **Investigation on handling Structured & Imbalanced Datasets with Deep Learning**

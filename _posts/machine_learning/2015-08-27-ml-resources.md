@@ -1166,7 +1166,6 @@ for creating complex software in C++ to solve real world problems.
 - github: [https://github.com/ZuzooVn/machine-learning-for-software-engineers](https://github.com/ZuzooVn/machine-learning-for-software-engineers)
 
 **30 Top Videos, Tutorials & Courses on Machine Learning & Artificial Intelligence from 2016**
-
 [https://www.analyticsvidhya.com/blog/2016/12/30-top-videos-tutorials-courses-on-machine-learning-artificial-intelligence-from-2016/](https://www.analyticsvidhya.com/blog/2016/12/30-top-videos-tutorials-courses-on-machine-learning-artificial-intelligence-from-2016/)
 
 **Machine Learning Problem Bible (MLPB)**
@@ -1191,7 +1190,11 @@ for creating complex software in C++ to solve real world problems.
 - blog: [https://xviniette.github.io/FlappyLearning/](https://xviniette.github.io/FlappyLearning/)
 - github: [https://github.com/xviniette/FlappyLearning](https://github.com/xviniette/FlappyLearning)
 
-# Readings and Questions
+# Readings /  Questions / Discussions
+
+**A Super Harsh Guide to Machine Learning**
+
+[https://www.reddit.com/r/MachineLearning/comments/5z8110/d_a_super_harsh_guide_to_machine_learning/](https://www.reddit.com/r/MachineLearning/comments/5z8110/d_a_super_harsh_guide_to_machine_learning/)
 
 **(Quora): What are the top 10 data mining or machine learning algorithms?**
 
@@ -1202,7 +1205,6 @@ for creating complex software in C++ to solve real world problems.
 [https://www.quora.com/What-are-the-must-read-papers-on-data-mining-and-machine-learning](https://www.quora.com/What-are-the-must-read-papers-on-data-mining-and-machine-learning)
 
 **(Quora): What would be your advice to a software engineer who wants to learn machine learning?**
-
 [https://www.quora.com/What-would-be-your-advice-to-a-software-engineer-who-wants-to-learn-machine-learning-3/answer/Alex-Smola-1](https://www.quora.com/What-would-be-your-advice-to-a-software-engineer-who-wants-to-learn-machine-learning-3/answer/Alex-Smola-1)
 
 **Machine Learning FAQ**
