@@ -163,6 +163,10 @@ with applications for model fitting and techniques for dealing with missing data
 - homepage: [http://mlo.epfl.ch/page-136795.html](http://mlo.epfl.ch/page-136795.html)
 - github: [https://github.com/epfml/ML_course](https://github.com/epfml/ML_course)
 
+**Machine Learning Introduction: A machine learning course using Python, Jupyter Notebooks, and OpenML**
+
+[https://github.com/joaquinvanschoren/ML-course](https://github.com/joaquinvanschoren/ML-course)
+
 ## Machine Learning on Distributed System
 
 **Distributed Machine Learning with Apache Spark**

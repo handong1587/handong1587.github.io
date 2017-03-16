@@ -262,6 +262,7 @@ such as image classification, object detection or text captioning.
 - github: [https://github.com/oxford-cs-deepnlp-2017/lectures](https://github.com/oxford-cs-deepnlp-2017/lectures)
 - youtube: [https://www.youtube.com/playlist?list=PL613dYIGMXoZBtZhbyiBqb0QtgK6oJbpm](https://www.youtube.com/playlist?list=PL613dYIGMXoZBtZhbyiBqb0QtgK6oJbpm)
 - mirror: [https://pan.baidu.com/s/1dFvGHUh#list/path=%2F](https://pan.baidu.com/s/1dFvGHUh#list/path=%2F)
+- mirror: [https://pan.baidu.com/s/1c2tcC96](https://pan.baidu.com/s/1c2tcC96)
 
 # GPU Programming
 

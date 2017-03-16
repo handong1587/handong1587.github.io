@@ -808,72 +808,6 @@ including all the relevant classifiers available today
 
 - blog: [http://blog.webkid.io/datasets-for-machine-learning/](http://blog.webkid.io/datasets-for-machine-learning/)
 
-# Resources
-
-**Machine Learning Surveys: A list of literature surveys, reviews, and tutorials on Machine Learning and related topics**
-
-[http://www.mlsurveys.com/](http://www.mlsurveys.com/)
-
-**machine learning classifier gallery**
-
-[http://home.comcast.net/~tom.fawcett/public_html/ML-gallery/pages/](http://home.comcast.net/~tom.fawcett/public_html/ML-gallery/pages/)
-
-**Machine Learning and Computer Vision Resources**
-
-[http://zhengrui.github.io/zerryland/ML-CV-Resource.html](http://zhengrui.github.io/zerryland/ML-CV-Resource.html)
-
-**A Huge List of Machine Learning And Statistics Repositories**
-
-[http://blog.josephmisiti.com/a-huge-list-of-machine-learning-repositories/](http://blog.josephmisiti.com/a-huge-list-of-machine-learning-repositories/)
-
-**机器学习(Machine Learning)&深度学习(Deep Learning)资料(Chapter 1)**
-
-[https://github.com/ty4z2008/Qix/blob/master/dl.md](https://github.com/ty4z2008/Qix/blob/master/dl.md)
-
-**The Spectator: Shakir's Machine Learning Blog**
-
-[http://blog.shakirm.com/](http://blog.shakirm.com/)
-
-**Useful Inequalities**
-
-[http://www.lkozma.net/inequalities_cheat_sheet/ineq.pdf](http://www.lkozma.net/inequalities_cheat_sheet/ineq.pdf)
-
-**Math for Machine Learning**
-
-[http://www.umiacs.umd.edu/~hal/courses/2013S_ML/math4ml.pdf](http://www.umiacs.umd.edu/~hal/courses/2013S_ML/math4ml.pdf)
-
-**Cheat Sheet: Algorithms for Supervised- and Unsupervised Learning**
-
-- blog: [http://eferm.com/machine-learning-cheat-sheet/](http://eferm.com/machine-learning-cheat-sheet/)
-
-**Annalyzin: Analytics For Layman, with Tutorials & Experiments**
-
-[https://annalyzin.wordpress.com/](https://annalyzin.wordpress.com/)
-
-**ALGORITHMS: AI, Data Mining, Clustering, Data Structures, Machine Learning, Neural, NLP, ...**
-
-- github: [https://github.com/svaksha/pythonidae/blob/master/AI.md](https://github.com/svaksha/pythonidae/blob/master/AI.md)
-
-**Awesome Machine Learning: A curated list of awesome machine learning frameworks, libraries and software (by language)**
-
-- github: [https://github.com/josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning)
-
-**awesome-machine-learning-cn: 机器学习资源大全中文版**
-
-- intro: 机器学习资源大全中文版，包括机器学习领域的框架、库以及软件
-- github: [https://github.com/jobbole/awesome-machine-learning-cn](https://github.com/jobbole/awesome-machine-learning-cn)
-
-**Machine and Deep Learning with Python**
-
-- github: [https://github.com/szwed/awesome-machine-learning-python](https://github.com/szwed/awesome-machine-learning-python)
-
-**useR! 2016 Tutorial: Machine Learning Algorithmic Deep Dive**
-
-![](https://raw.githubusercontent.com/ledell/useR-machine-learning-tutorial/master/images/user2016.png)
-
-- homepage: [http://user2016.org/tutorials/10.html](http://user2016.org/tutorials/10.html)
-- github: [https://github.com/ledell/useR-machine-learning-tutorial](https://github.com/ledell/useR-machine-learning-tutorial)
-
 # Books
 
 **Machine Learning plus Intelligent Optimization: THE LION WAY, VERSION 2.0**
@@ -1158,7 +1092,77 @@ for creating complex software in C++ to solve real world problems.
 
 - github: [https://github.com/TeamHG-Memex/eli5](https://github.com/TeamHG-Memex/eli5)
 
+**PHP-ML - Machine Learning library for PHP**
+
+- github: [https://github.com/php-ai/php-ml](https://github.com/php-ai/php-ml)
+- github: [https://github.com/php-ai/php-ml-examples](https://github.com/php-ai/php-ml-examples)
+- docs: [http://php-ml.readthedocs.io/en/latest/](http://php-ml.readthedocs.io/en/latest/)
+
 # Resources
+
+**Machine Learning Surveys: A list of literature surveys, reviews, and tutorials on Machine Learning and related topics**
+
+[http://www.mlsurveys.com/](http://www.mlsurveys.com/)
+
+**machine learning classifier gallery**
+
+[http://home.comcast.net/~tom.fawcett/public_html/ML-gallery/pages/](http://home.comcast.net/~tom.fawcett/public_html/ML-gallery/pages/)
+
+**Machine Learning and Computer Vision Resources**
+
+[http://zhengrui.github.io/zerryland/ML-CV-Resource.html](http://zhengrui.github.io/zerryland/ML-CV-Resource.html)
+
+**A Huge List of Machine Learning And Statistics Repositories**
+
+[http://blog.josephmisiti.com/a-huge-list-of-machine-learning-repositories/](http://blog.josephmisiti.com/a-huge-list-of-machine-learning-repositories/)
+
+**机器学习(Machine Learning)&深度学习(Deep Learning)资料(Chapter 1)**
+
+[https://github.com/ty4z2008/Qix/blob/master/dl.md](https://github.com/ty4z2008/Qix/blob/master/dl.md)
+
+**The Spectator: Shakir's Machine Learning Blog**
+
+[http://blog.shakirm.com/](http://blog.shakirm.com/)
+
+**Useful Inequalities**
+
+[http://www.lkozma.net/inequalities_cheat_sheet/ineq.pdf](http://www.lkozma.net/inequalities_cheat_sheet/ineq.pdf)
+
+**Math for Machine Learning**
+
+[http://www.umiacs.umd.edu/~hal/courses/2013S_ML/math4ml.pdf](http://www.umiacs.umd.edu/~hal/courses/2013S_ML/math4ml.pdf)
+
+**Cheat Sheet: Algorithms for Supervised- and Unsupervised Learning**
+
+- blog: [http://eferm.com/machine-learning-cheat-sheet/](http://eferm.com/machine-learning-cheat-sheet/)
+
+**Annalyzin: Analytics For Layman, with Tutorials & Experiments**
+
+[https://annalyzin.wordpress.com/](https://annalyzin.wordpress.com/)
+
+**ALGORITHMS: AI, Data Mining, Clustering, Data Structures, Machine Learning, Neural, NLP, ...**
+
+- github: [https://github.com/svaksha/pythonidae/blob/master/AI.md](https://github.com/svaksha/pythonidae/blob/master/AI.md)
+
+**Awesome Machine Learning: A curated list of awesome machine learning frameworks, libraries and software (by language)**
+
+- github: [https://github.com/josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning)
+
+**awesome-machine-learning-cn: 机器学习资源大全中文版**
+
+- intro: 机器学习资源大全中文版，包括机器学习领域的框架、库以及软件
+- github: [https://github.com/jobbole/awesome-machine-learning-cn](https://github.com/jobbole/awesome-machine-learning-cn)
+
+**Machine and Deep Learning with Python**
+
+- github: [https://github.com/szwed/awesome-machine-learning-python](https://github.com/szwed/awesome-machine-learning-python)
+
+**useR! 2016 Tutorial: Machine Learning Algorithmic Deep Dive**
+
+![](https://raw.githubusercontent.com/ledell/useR-machine-learning-tutorial/master/images/user2016.png)
+
+- homepage: [http://user2016.org/tutorials/10.html](http://user2016.org/tutorials/10.html)
+- github: [https://github.com/ledell/useR-machine-learning-tutorial](https://github.com/ledell/useR-machine-learning-tutorial)
 
 **Top-down learning path: Machine Learning for Software Engineers**
 

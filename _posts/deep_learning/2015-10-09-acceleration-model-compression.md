@@ -374,6 +374,11 @@ at INT8 deep learning operations than other FPGA DSP architectures"
 - intro: CVPR 2017
 - arxiv: [https://arxiv.org/abs/1703.04071](https://arxiv.org/abs/1703.04071)
 
+**Deep Convolutional Neural Network Inference with Floating-point Weights and Fixed-point Activations**
+
+- intro: ARM Research
+- arxiv: [https://arxiv.org/abs/1703.03073](https://arxiv.org/abs/1703.03073)
+
 # Projects
 
 **Accelerate Convolutional Neural Networks**

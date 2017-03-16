@@ -339,6 +339,7 @@ date: 2015-10-09
 - arxiv: [http://arxiv.org/abs/1602.02867](http://arxiv.org/abs/1602.02867)
 - github(official, Theano): [https://github.com/avivt/VIN](https://github.com/avivt/VIN)
 - github(Tensorflow): [https://github.com/TheAbhiKumar/tensorflow-value-iteration-networks](https://github.com/TheAbhiKumar/tensorflow-value-iteration-networks)
+- github(PyTorch): [https://github.com/onlytailei/PyTorch-value-iteration-networks](https://github.com/onlytailei/PyTorch-value-iteration-networks)
 - notes(by Andrej Karpathy): [https://github.com/karpathy/paper-notes/blob/master/vin.md](https://github.com/karpathy/paper-notes/blob/master/vin.md)
 
 **Insights in Reinforcement Learning**

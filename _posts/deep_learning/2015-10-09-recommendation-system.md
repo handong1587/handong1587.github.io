@@ -99,6 +99,12 @@ date: 2015-10-09
 - arxiv: [https://arxiv.org/abs/1703.02344](https://arxiv.org/abs/1703.02344)
 - github: [https://github.com/flipkart-incubator/fk-visual-search](https://github.com/flipkart-incubator/fk-visual-search)
 
+**What Your Image Reveals: Exploiting Visual Contents for Point-of-Interest Recommendation**
+
+- intro: Arizona State University & Michigan State University
+- intro: Point-of-Interest (POI)
+- paper: [http://www.public.asu.edu/~swang187/publications/VPOI.pdf](http://www.public.asu.edu/~swang187/publications/VPOI.pdf)
+
 # Slides
 
 **Deep learning for music recommendation**

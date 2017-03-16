@@ -658,6 +658,12 @@ Given a sample represented as a sequence of strokes, the parser is able to conve
 
 - blog: [http://aosabook.org/en/500L/pages/optical-character-recognition-ocr.html](http://aosabook.org/en/500L/pages/optical-character-recognition-ocr.html)
 
+**Sharingan: Newspaper text and context extractor**
+
+- intro: Tool to extract news articles from newspaper and give the context about the news
+- blog: [http://www.vipul.xyz/2017/03/sharingan-newspaper-text-and-context.html](http://www.vipul.xyz/2017/03/sharingan-newspaper-text-and-context.html)
+- github: [https://github.com/vipul-sharma20/sharingan](https://github.com/vipul-sharma20/sharingan)
+
 # Codec
 
 **JPEG 101 - How does JPEG work?**
