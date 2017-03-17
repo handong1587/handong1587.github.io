@@ -576,6 +576,10 @@ Continuation of [arXiv:1608.08021](https://arxiv.org/abs/1608.08021)
 - intro: CVPR 2016
 - paper: [http://www.cv-foundation.org/openaccess/content_cvpr_2016_workshops/w23/html/Wang_Differential_Geometry_Boosts_CVPR_2016_paper.html](http://www.cv-foundation.org/openaccess/content_cvpr_2016_workshops/w23/html/Wang_Differential_Geometry_Boosts_CVPR_2016_paper.html)
 
+**A Self-supervised Learning System for Object Detection using Physics Simulation and Multi-view Pose Estimation**
+
+[https://arxiv.org/abs/1703.03347](https://arxiv.org/abs/1703.03347)
+
 # Salient Object Detection
 
 This task involves predicting the salient regions of an image given by human eye fixations.

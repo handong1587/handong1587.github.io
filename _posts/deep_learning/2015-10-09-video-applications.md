@@ -41,6 +41,11 @@ date: 2015-10-09
 
 - arxiv: [https://arxiv.org/abs/1703.02529](https://arxiv.org/abs/1703.02529)
 
+**Unsupervised Visual-Linguistic Reference Resolution in Instructional Videos**
+
+- intro: CVPR 2017. Stanford University & University of Southern California
+- arxiv: [https://arxiv.org/abs/1703.02521](https://arxiv.org/abs/1703.02521)
+
 # Video Classification
 
 **Large-scale Video Classification with Convolutional Neural Networks**

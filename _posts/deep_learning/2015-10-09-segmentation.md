@@ -70,6 +70,10 @@ date: 2015-10-09
 
 - arxiv: [https://arxiv.org/abs/1703.05230](https://arxiv.org/abs/1703.05230)
 
+**Fast LIDAR-based Road Detection Using Convolutional Neural Networks**
+
+[https://arxiv.org/abs/1703.03613](https://arxiv.org/abs/1703.03613)
+
 # Foreground Object Segmentation
 
 **Pixel Objectness**
@@ -96,6 +100,8 @@ only the CNN part of the network is fine-tuned to learn deconvolution indirectly
 - github: [https://github.com/shelhamer/fcn.berkeleyvision.org](https://github.com/shelhamer/fcn.berkeleyvision.org)
 - github: [https://github.com/BVLC/caffe/wiki/Model-Zoo#fcn](https://github.com/BVLC/caffe/wiki/Model-Zoo#fcn)
 - github: [https://github.com/MarvinTeichmann/tensorflow-fcn](https://github.com/MarvinTeichmann/tensorflow-fcn)
+- github(Chainer): [https://github.com/wkentaro/fcn](https://github.com/wkentaro/fcn)
+- github(PyTorch): [https://github.com/wkentaro/pytorch-fcn](https://github.com/wkentaro/pytorch-fcn)
 - notes: [http://zhangliliang.com/2014/11/28/paper-note-fcn-segment/](http://zhangliliang.com/2014/11/28/paper-note-fcn-segment/)
 
 **From Image-level to Pixel-level Labeling with Convolutional Networks**

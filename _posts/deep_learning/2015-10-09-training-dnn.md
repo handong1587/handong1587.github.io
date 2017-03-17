@@ -279,9 +279,14 @@ date: 2015-10-09
 **Large-Margin Softmax Loss for Convolutional Neural Networks**
 
 - intro: ICML 2016
+- intro: Peking University & South China University of Technology & CMU & Shenzhen University
 - arxiv: [https://arxiv.org/abs/1612.02295](https://arxiv.org/abs/1612.02295)
 - github(Official. Caffe): [https://github.com/wy1iu/LargeMargin_Softmax_Loss](https://github.com/wy1iu/LargeMargin_Softmax_Loss)
 - github(MXNet): [https://github.com/luoyetx/mx-lsoftmax](https://github.com/luoyetx/mx-lsoftmax)
+
+**An empirical analysis of the optimization of deep network loss surfaces**
+
+[https://arxiv.org/abs/1612.04010](https://arxiv.org/abs/1612.04010)
 
 # Learning Rate
 
@@ -408,6 +413,12 @@ date: 2015-10-09
 - arxiv: [https://arxiv.org/abs/1611.01505](https://arxiv.org/abs/1611.01505)
 - github: [https://github.com/jayanthkoushik/sgd-feedback](https://github.com/jayanthkoushik/sgd-feedback)
 - github: [https://github.com/tdeboissiere/DeepLearningImplementations/tree/master/Eve](https://github.com/tdeboissiere/DeepLearningImplementations/tree/master/Eve)
+
+**Learning Gradient Descent: Better Generalization and Longer Horizons**
+
+- intro: Tsinghua University
+- arxiv: [https://arxiv.org/abs/1703.03633](https://arxiv.org/abs/1703.03633)
+- github(TensorFlow): [https://github.com/vfleaking/rnnprop](https://github.com/vfleaking/rnnprop)
 
 # Tensor Methods
 

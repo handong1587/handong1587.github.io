@@ -195,6 +195,7 @@ Compressed model is less than 500KB
 - arxiv: [https://arxiv.org/abs/1610.07629](https://arxiv.org/abs/1610.07629)
 - blog: [https://research.googleblog.com/2016/10/supercharging-style-transfer.html](https://research.googleblog.com/2016/10/supercharging-style-transfer.html)
 - github: [https://github.com/tensorflow/magenta/tree/master/magenta/models/image_stylization](https://github.com/tensorflow/magenta/tree/master/magenta/models/image_stylization)
+- github(Tensorflow): [https://github.com/Heumi/Fast_Multi_Style_Transfer-tf](https://github.com/Heumi/Fast_Multi_Style_Transfer-tf)
 
 **How to Fake It As an Artist with Docker, AWS and Deep Learning**
 
@@ -259,6 +260,11 @@ Compressed model is less than 500KB
 
 - intro: Cornell University
 - paper: [https://openreview.net/pdf?id=B1fUVMzKg](https://openreview.net/pdf?id=B1fUVMzKg)
+
+**Picking an optimizer for Style Transfer**
+
+- blog: [https://medium.com/slavv/picking-an-optimizer-for-style-transfer-86e7b8cba84b#.cgv2oreaq](https://medium.com/slavv/picking-an-optimizer-for-style-transfer-86e7b8cba84b#.cgv2oreaq)
+- github: [https://github.com/slavivanov/Style-Tranfer](https://github.com/slavivanov/Style-Tranfer)
 
 ## Neural Art On Audio
 

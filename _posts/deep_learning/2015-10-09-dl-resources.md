@@ -386,6 +386,11 @@ not just the convolutions)
 
 - arxiv: [https://arxiv.org/abs/1612.02589](https://arxiv.org/abs/1612.02589)
 
+**Borrowing Treasures from the Wealthy: Deep Transfer Learning through Selective Joint Fine-tuning**
+
+- intro: CVPR 2017. The University of Hong Kong
+- arxiv: [https://arxiv.org/abs/1702.08690](https://arxiv.org/abs/1702.08690)
+
 # Multi-label Learning
 
 **CNN: Single-label to Multi-label**
@@ -959,6 +964,7 @@ with fast exact probabilistic inference over many layers."
 - intro: ICML 2015 Deep Learning workshop
 - intro: shortcut connections with gating functions. These gates are data-dependent and have parameters
 - arxiv: [http://arxiv.org/abs/1505.00387](http://arxiv.org/abs/1505.00387)
+- github(PyTorch): [https://github.com/analvikingur/pytorch_Highway](https://github.com/analvikingur/pytorch_Highway)
 
 **Highway Networks with TensorFlow**
 
@@ -1651,7 +1657,9 @@ It is based on Facebook's TorchCraft, which is a bridge between Torch and StarCr
 
 **LIFT: Learned Invariant Feature Transform**
 
+- intro: ECCV 2016
 - arxiv: [http://arxiv.org/abs/1603.09114](http://arxiv.org/abs/1603.09114)
+- github(official): [https://github.com/cvlab-epfl/LIFT](https://github.com/cvlab-epfl/LIFT)
 
 **Bridging the Gaps Between Residual Learning, Recurrent Neural Networks and Visual Cortex**
 
@@ -1871,6 +1879,11 @@ It is based on Facebook's TorchCraft, which is a bridge between Torch and StarCr
 - intro: ICLR 2017. Neural Physics Engine
 - paper: [https://openreview.net/pdf?id=Bkab5dqxe](https://openreview.net/pdf?id=Bkab5dqxe)
 - github: [https://github.com/mbchang/dynamics](https://github.com/mbchang/dynamics)
+
+**Genetic CNN**
+
+- arxiv: [https://arxiv.org/abs/1703.01513](https://arxiv.org/abs/1703.01513)
+- github(Tensorflow): [https://github.com/aqibsaeed/Genetic-CNN](https://github.com/aqibsaeed/Genetic-CNN)
 
 ## Separable Convolutions
 
