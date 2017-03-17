@@ -1057,7 +1057,10 @@ This task involves predicting the salient regions of an image given by human eye
 
 **Fashion Landmark Detection in the Wild**
 
+- intro: ECCV 2016
+- project page: [http://personal.ie.cuhk.edu.hk/~lz013/projects/FashionLandmarks.html](http://personal.ie.cuhk.edu.hk/~lz013/projects/FashionLandmarks.html)
 - arxiv: [http://arxiv.org/abs/1608.03049](http://arxiv.org/abs/1608.03049)
+- github(Caffe): [https://github.com/liuziwei7/fashion-landmarks](https://github.com/liuziwei7/fashion-landmarks)
 
 **Deep Learning for Fast and Accurate Fashion Item Detection**
 

@@ -66,6 +66,10 @@ date: 2015-10-09
 
 - arxiv: [https://arxiv.org/abs/1702.04528](https://arxiv.org/abs/1702.04528)
 
+**Texture segmentation with Fully Convolutional Networks**
+
+- arxiv: [https://arxiv.org/abs/1703.05230](https://arxiv.org/abs/1703.05230)
+
 # Foreground Object Segmentation
 
 **Pixel Objectness**
