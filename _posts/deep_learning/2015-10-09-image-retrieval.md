@@ -274,6 +274,21 @@ date: 2015-10-09
 
 [https://www.arxiv.org/abs/1703.01226](https://www.arxiv.org/abs/1703.01226)
 
+**SVDNet for Pedestrian Retrieval**
+
+- intro: On the Market-1501 dataset, rank-1 accuracy is improved from 55.2% to 80.5% for CaffeNet, 
+and from 73.8% to 83.1% for ResNet-50
+- arxiv: [https://arxiv.org/abs/1703.05693](https://arxiv.org/abs/1703.05693)
+
+**Deep Sketch Hashing: Fast Free-hand Sketch-Based Image Retrieval**
+
+- intro: CVPR 2017 spotlight paper
+- arxiv: [https://arxiv.org/abs/1703.05605](https://arxiv.org/abs/1703.05605)
+
+**Learning Robust Hash Codes for Multiple Instance Image Retrieval**
+
+- arxiv: [https://arxiv.org/abs/1703.05724](https://arxiv.org/abs/1703.05724)
+
 # Video Indexing / Retrieval
 
 **Face Video Retrieval via Deep Learning of Binary Hash Representations**

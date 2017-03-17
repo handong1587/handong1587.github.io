@@ -79,6 +79,10 @@ date: 2015-10-09
 
 [https://www.arxiv.org/abs/1703.01229](https://www.arxiv.org/abs/1703.01229)
 
+**Convolutional Low-Resolution Fine-Grained Classification**
+
+[https://arxiv.org/abs/1703.05393](https://arxiv.org/abs/1703.05393)
+
 ## Multi-object Recognition
 
 **Multiple Object Recognition with Visual Attention**
