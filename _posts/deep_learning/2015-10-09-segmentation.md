@@ -250,6 +250,7 @@ fine-tune the trained network with more challenging examples later
 - homepage: [http://vladlen.info/publications/multi-scale-context-aggregation-by-dilated-convolutions/](http://vladlen.info/publications/multi-scale-context-aggregation-by-dilated-convolutions/)
 - arxiv: [http://arxiv.org/abs/1511.07122](http://arxiv.org/abs/1511.07122)
 - github: [https://github.com/fyu/dilation](https://github.com/fyu/dilation)
+- github(Keras): [https://github.com/nicolov/segmentation_keras](https://github.com/nicolov/segmentation_keras)
 - notes: [http://www.inference.vc/dilated-convolutions-and-kronecker-factorisation/](http://www.inference.vc/dilated-convolutions-and-kronecker-factorisation/)
 
 ## TransferNet
