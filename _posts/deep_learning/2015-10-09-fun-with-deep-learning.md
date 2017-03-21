@@ -260,6 +260,7 @@ Compressed model is less than 500KB
 
 - intro: Cornell University
 - paper: [https://openreview.net/pdf?id=B1fUVMzKg](https://openreview.net/pdf?id=B1fUVMzKg)
+- github(Torch): [https://github.com/xunhuang1995/AdaIN-style](https://github.com/xunhuang1995/AdaIN-style)
 
 **Picking an optimizer for Style Transfer**
 

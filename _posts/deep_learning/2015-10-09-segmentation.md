@@ -68,11 +68,17 @@ date: 2015-10-09
 
 **Texture segmentation with Fully Convolutional Networks**
 
+- intro: Dublin City University
 - arxiv: [https://arxiv.org/abs/1703.05230](https://arxiv.org/abs/1703.05230)
 
 **Fast LIDAR-based Road Detection Using Convolutional Neural Networks**
 
 [https://arxiv.org/abs/1703.03613](https://arxiv.org/abs/1703.03613)
+
+**Deep Value Networks Learn to Evaluate and Iteratively Refine Structured Outputs**
+
+- arxiv: [https://arxiv.org/abs/1703.04363](https://arxiv.org/abs/1703.04363)
+- demo: [https://gyglim.github.io/deep-value-net/](https://gyglim.github.io/deep-value-net/)
 
 # Foreground Object Segmentation
 
@@ -327,8 +333,10 @@ fine-tune the trained network with more challenging examples later
 
 **PixelNet: Representation of the pixels, by the pixels, and for the pixels**
 
+- intro: CMU & Adobe Research
 - project page: [http://www.cs.cmu.edu/~aayushb/pixelNet/](http://www.cs.cmu.edu/~aayushb/pixelNet/)
 - arxiv: [https://arxiv.org/abs/1702.06506](https://arxiv.org/abs/1702.06506)
+- github(Caffe): [https://github.com/aayushbansal/PixelNet](https://github.com/aayushbansal/PixelNet)
 
 **Semantic Segmentation of Earth Observation Data Using Multimodal and Multi-scale Deep Networks**
 
@@ -748,13 +756,17 @@ ranked 1st place in ImageNet Scene Parsing Challenge 2016
 [https://devblogs.nvidia.com/parallelforall/image-segmentation-using-digits-5/](https://devblogs.nvidia.com/parallelforall/image-segmentation-using-digits-5/)
 
 **Image Segmentation with Tensorflow using CNNs and Conditional Random Fields**
-
 [http://warmspringwinds.github.io/tensorflow/tf-slim/2016/12/18/image-segmentation-with-tensorflow-using-cnns-and-conditional-random-fields/](http://warmspringwinds.github.io/tensorflow/tf-slim/2016/12/18/image-segmentation-with-tensorflow-using-cnns-and-conditional-random-fields/)
 
 **Fully Convolutional Networks (FCNs) for Image Segmentation**
 
 - blog: [http://warmspringwinds.github.io/tensorflow/tf-slim/2017/01/23/fully-convolutional-networks-(fcns)-for-image-segmentation/](http://warmspringwinds.github.io/tensorflow/tf-slim/2017/01/23/fully-convolutional-networks-(fcns)-for-image-segmentation/)
 - ipn: [https://github.com/warmspringwinds/tensorflow_notes/blob/master/fully_convolutional_networks.ipynb](https://github.com/warmspringwinds/tensorflow_notes/blob/master/fully_convolutional_networks.ipynb)
+
+**Image segmentation with Neural Net**
+
+- blog: [https://medium.com/@m.zaradzki/image-segmentation-with-neural-net-d5094d571b1e#.s5f711g1q](https://medium.com/@m.zaradzki/image-segmentation-with-neural-net-d5094d571b1e#.s5f711g1q)
+- github: [https://github.com/mzaradzki/neuralnets/tree/master/vgg_segmentation_keras](https://github.com/mzaradzki/neuralnets/tree/master/vgg_segmentation_keras)
 
 # Talks
 

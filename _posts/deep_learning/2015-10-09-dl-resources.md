@@ -1075,6 +1075,15 @@ with fast exact probabilistic inference over many layers."
 
 [https://arxiv.org/abs/1703.00792](https://arxiv.org/abs/1703.00792)
 
+**Modeling Relational Data with Graph Convolutional Networks**
+
+[https://arxiv.org/abs/1703.06103](https://arxiv.org/abs/1703.06103)
+
+**Distance Metric Learning using Graph Convolutional Networks: Application to Functional Brain Networks**
+
+- intro: Imperial College London
+- arxiv: [https://arxiv.org/abs/1703.02161](https://arxiv.org/abs/1703.02161)
+
 # Deep Learning with Traditional Machine Learning Methods
 
 ## Bag of Words (BoW)
@@ -1885,6 +1894,28 @@ It is based on Facebook's TorchCraft, which is a bridge between Torch and StarCr
 - arxiv: [https://arxiv.org/abs/1703.01513](https://arxiv.org/abs/1703.01513)
 - github(Tensorflow): [https://github.com/aqibsaeed/Genetic-CNN](https://github.com/aqibsaeed/Genetic-CNN)
 
+**Deep Sets**
+
+- intro: Amazon Web Services & CMU
+- keywords: statistic estimation, point cloud classification, set expansion, and image tagging
+- arxiv: [https://arxiv.org/abs/1703.06114](https://arxiv.org/abs/1703.06114)
+
+**Multiscale Hierarchical Convolutional Networks**
+
+[https://arxiv.org/abs/1703.04140](https://arxiv.org/abs/1703.04140)
+[https://github.com/jhjacobsen/HierarchicalCNN](https://github.com/jhjacobsen/HierarchicalCNN)
+
+## Dive Into CNN
+
+**Structured Receptive Fields in CNNs**
+
+- arxiv: [https://arxiv.org/abs/1605.02971](https://arxiv.org/abs/1605.02971)
+- github: [https://github.com/jhjacobsen/RFNN](https://github.com/jhjacobsen/RFNN)
+
+**How ConvNets model Non-linear Transformations**
+
+- arxiv: [https://arxiv.org/abs/1702.07664](https://arxiv.org/abs/1702.07664)
+
 ## Separable Convolutions
 
 **Deep Learning with Separable Convolutions**
@@ -2402,6 +2433,10 @@ feed-forward neural nets and deep learning.
 **21 Deep Learning Videos, Tutorials & Courses on Youtube from 2016**
 
 [https://www.analyticsvidhya.com/blog/2016/12/21-deep-learning-videos-tutorials-courses-on-youtube-from-2016/](https://www.analyticsvidhya.com/blog/2016/12/21-deep-learning-videos-tutorials-courses-on-youtube-from-2016/)
+
+**Awesome Deep learning papers and other resources**
+
+- github: [https://github.com/endymecy/awesome-deeplearning-resources](https://github.com/endymecy/awesome-deeplearning-resources)
 
 ## Arxiv Pages
 
