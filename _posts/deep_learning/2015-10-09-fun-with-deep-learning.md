@@ -267,6 +267,14 @@ Compressed model is less than 500KB
 - blog: [https://medium.com/slavv/picking-an-optimizer-for-style-transfer-86e7b8cba84b#.cgv2oreaq](https://medium.com/slavv/picking-an-optimizer-for-style-transfer-86e7b8cba84b#.cgv2oreaq)
 - github: [https://github.com/slavivanov/Style-Tranfer](https://github.com/slavivanov/Style-Tranfer)
 
+**Multi-style Generative Network for Real-time Transfer**
+
+[https://arxiv.org/abs/1703.06953](https://arxiv.org/abs/1703.06953)
+
+**Deep Photo Style Transfer**
+
+[https://arxiv.org/abs/1703.07511](https://arxiv.org/abs/1703.07511)
+
 ## Neural Art On Audio
 
 **MSc AI Project on generative deep networks and neural style transfer for audio**

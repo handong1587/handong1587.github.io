@@ -336,14 +336,6 @@ extract saptio-temporal features to represent the video using the CNNs."
 
 - arxiv: [http://arxiv.org/abs/1510.02899](http://arxiv.org/abs/1510.02899)
 
-**Better Exploiting OS-CNNs for Better Event Recognition in Images**
-
-- arxiv: [http://arxiv.org/abs/1510.03979](http://arxiv.org/abs/1510.03979)
-
-**Transferring Object-Scene Convolutional Neural Networks for Event Recognition in Still Images**
-
-- arxiv: [http://arxiv.org/abs/1609.00162](http://arxiv.org/abs/1609.00162)
-
 **AENet: Learning Deep Audio Features for Video Analysis**
 
 - arxiv: [https://arxiv.org/abs/1701.00599](https://arxiv.org/abs/1701.00599)

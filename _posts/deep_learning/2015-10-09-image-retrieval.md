@@ -289,6 +289,10 @@ and from 73.8% to 83.1% for ResNet-50
 
 - arxiv: [https://arxiv.org/abs/1703.05724](https://arxiv.org/abs/1703.05724)
 
+**An End-to-End Approach to Natural Language Object Retrieval via Context-Aware Deep Reinforcement Learning**
+
+[https://arxiv.org/abs/1703.07579](https://arxiv.org/abs/1703.07579)
+
 # Video Indexing / Retrieval
 
 **Face Video Retrieval via Deep Learning of Binary Hash Representations**
@@ -327,6 +331,11 @@ and from 73.8% to 83.1% for ResNet-50
 
 - intro: Xi’an Jiaotong University & University of Technology Sydney & National University of Singapore & CMU
 - arxiv: [https://arxiv.org/abs/1702.01229](https://arxiv.org/abs/1702.01229)
+
+# Deep Metric Learning
+
+- intro: ICME 2017
+- arxiv: [https://arxiv.org/abs/1703.07026](https://arxiv.org/abs/1703.07026)
 
 # Talks / Slides
 

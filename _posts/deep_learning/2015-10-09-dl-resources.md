@@ -957,6 +957,14 @@ with fast exact probabilistic inference over many layers."
 
 [https://arxiv.org/abs/1703.00837](https://arxiv.org/abs/1703.00837)
 
+**Deformable Convolutional Networks**
+
+- arxiv: [https://arxiv.org/abs/1703.06211](https://arxiv.org/abs/1703.06211)
+
+**Second-order Convolutional Neural Networks**
+
+[https://arxiv.org/abs/1703.06817](https://arxiv.org/abs/1703.06817)
+
 ## Highway Networks
 
 **Highway Networks**
@@ -1904,6 +1912,10 @@ It is based on Facebook's TorchCraft, which is a bridge between Torch and StarCr
 
 [https://arxiv.org/abs/1703.04140](https://arxiv.org/abs/1703.04140)
 [https://github.com/jhjacobsen/HierarchicalCNN](https://github.com/jhjacobsen/HierarchicalCNN)
+
+**Deep Neural Networks Do Not Recognize Negative Images**
+
+[https://arxiv.org/abs/1703.06857](https://arxiv.org/abs/1703.06857)
 
 ## Dive Into CNN
 

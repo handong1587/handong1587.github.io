@@ -428,6 +428,11 @@ with built-in awareness of semantically meaningful boundaries. "
 
 [https://www.arxiv.org/abs/1703.00551](https://www.arxiv.org/abs/1703.00551)
 
+**Predicting Deeper into the Future of Semantic Segmentation**
+
+- intro: Facebook AI Research
+- arxiv: [https://arxiv.org/abs/1703.07684](https://arxiv.org/abs/1703.07684)
+
 # Instance Segmentation
 
 **Simultaneous Detection and Segmentation**
@@ -560,6 +565,11 @@ with built-in awareness of semantically meaningful boundaries. "
 - intro: CMU & Sun Yat-sen University & National University of Singapore & Adobe Research
 - intro: CVPR 2017 spotlight paper
 - arxiv: [https://arxiv.org/abs/1703.03055](https://arxiv.org/abs/1703.03055)
+
+**Mask R-CNN**
+
+- intro: Facebook AI Research
+- arxiv: [https://arxiv.org/abs/1703.06870](https://arxiv.org/abs/1703.06870)
 
 # Specific Segmentation
 
