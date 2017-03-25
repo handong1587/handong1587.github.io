@@ -301,6 +301,10 @@ Contains all the popular DL frameworks (TensorFlow, Theano, Torch, Caffe, etc.)
 
 [https://www.nextplatform.com/2017/03/09/early-look-startup-graphcores-deep-learning-chip/](https://www.nextplatform.com/2017/03/09/early-look-startup-graphcores-deep-learning-chip/)
 
+**Hardware for Deep Learning**
+
+[https://medium.com/towards-data-science/hardware-for-deep-learning-8d9b03df41a](https://medium.com/towards-data-science/hardware-for-deep-learning-8d9b03df41a)
+
 # Videos
 
 **Energy-efficient Hardware for Embedded Vision and Deep Convolutional Neural Networks**

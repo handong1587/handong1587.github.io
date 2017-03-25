@@ -86,6 +86,10 @@ date: 2015-10-09
 
 [http://wiseodd.github.io/techblog/2016/08/12/lstm-backprop/](http://wiseodd.github.io/techblog/2016/08/12/lstm-backprop/)
 
+**TensorFlow RNN Tutorial**
+
+[https://svds.com/tensorflow-rnn-tutorial/](https://svds.com/tensorflow-rnn-tutorial/)
+
 ## How to build a Recurrent Neural Network in TensorFlow
 
 **How to build a Recurrent Neural Network in TensorFlow (1/7)**

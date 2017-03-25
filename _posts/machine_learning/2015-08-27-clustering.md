@@ -37,6 +37,12 @@ date: 2015-08-27
 
 # Spectral Clustering
 
+**On Spectral Clustering: Analysis and an algorithm**
+
+- intro: NIPS 2001. Andrew Ng
+- paper: [https://papers.nips.cc/paper/2092-on-spectral-clustering-analysis-and-an-algorithm.pdf](https://papers.nips.cc/paper/2092-on-spectral-clustering-analysis-and-an-algorithm.pdf)
+- paper: [http://ai.stanford.edu/~ang/papers/nips01-spectral.pdf](http://ai.stanford.edu/~ang/papers/nips01-spectral.pdf)
+
 # Hierarchical Clustering
 
 # Online Clustering

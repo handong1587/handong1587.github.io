@@ -318,6 +318,7 @@ while maintaining state-of-the-art accuracy. For GoogLeNet, our model has 7% few
 - keywords: FPGA
 - paper: [http://www.idi.ntnu.no/~yamanu/2017-fpga-finn-preprint.pdf](http://www.idi.ntnu.no/~yamanu/2017-fpga-finn-preprint.pdf)
 - arxiv: [https://arxiv.org/abs/1612.07119](https://arxiv.org/abs/1612.07119)
+- github: [https://github.com/Xilinx/BNN-PYNQ](https://github.com/Xilinx/BNN-PYNQ)
 
 **Deep Learning with INT8 Optimization on Xilinx Devices**
 

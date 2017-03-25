@@ -146,3 +146,7 @@ date: 2015-08-27
 **Nature Conservancy Fish Classification**
 
 - github: [https://github.com/rdcolema/nc-fish-classification](https://github.com/rdcolema/nc-fish-classification)
+
+**Leaf Classification Competition: 1st Place Winner's Interview, Ivan Sosnovik**
+
+[http://blog.kaggle.com/2017/03/24/leaf-classification-competition-1st-place-winners-interview-ivan-sosnovik/](http://blog.kaggle.com/2017/03/24/leaf-classification-competition-1st-place-winners-interview-ivan-sosnovik/)

@@ -273,7 +273,12 @@ Compressed model is less than 500KB
 
 **Deep Photo Style Transfer**
 
-[https://arxiv.org/abs/1703.07511](https://arxiv.org/abs/1703.07511)
+- arxiv: [https://arxiv.org/abs/1703.07511](https://arxiv.org/abs/1703.07511)
+- github(Torch): [https://github.com/luanfujun/deep-photo-styletransfer](https://github.com/luanfujun/deep-photo-styletransfer)
+
+**Lightweight Neural Style on Pytorch**
+
+[https://github.com/lizeng614/SqueezeNet-Neural-Style-Pytorch](https://github.com/lizeng614/SqueezeNet-Neural-Style-Pytorch)
 
 ## Neural Art On Audio
 

@@ -171,7 +171,9 @@ not just the convolutions)
 
 **Sharing Residual Units Through Collective Tensor Factorization in Deep Neural Networks**
 
+- intro: Collective Residual Networks
 - arxiv: [https://arxiv.org/abs/1703.02180](https://arxiv.org/abs/1703.02180)
+- github(MXNet): [https://github.com/cypw/CRU-Net](https://github.com/cypw/CRU-Net)
 
 ## ResNet-V2
 
@@ -958,6 +960,7 @@ with fast exact probabilistic inference over many layers."
 
 **Deformable Convolutional Networks**
 
+- intro: Microsoft Research Asia
 - arxiv: [https://arxiv.org/abs/1703.06211](https://arxiv.org/abs/1703.06211)
 
 **Second-order Convolutional Neural Networks**
@@ -1916,6 +1919,11 @@ It is based on Facebook's TorchCraft, which is a bridge between Torch and StarCr
 
 [https://arxiv.org/abs/1703.06857](https://arxiv.org/abs/1703.06857)
 
+**Failures of Deep Learning**
+
+- arxiv: [https://arxiv.org/abs/1703.07950](https://arxiv.org/abs/1703.07950)
+- github: [https://github.com/shakedshammah/failures_of_DL](https://github.com/shakedshammah/failures_of_DL)
+
 ## Dive Into CNN
 
 **Structured Receptive Fields in CNNs**
@@ -1996,6 +2004,11 @@ It is based on Facebook's TorchCraft, which is a bridge between Torch and StarCr
 
 - youtube: [https://www.youtube.com/watch?v=BnLN3uoXMRY](https://www.youtube.com/watch?v=BnLN3uoXMRY)
 - mirror: [https://pan.baidu.com/s/1mhAITmS](https://pan.baidu.com/s/1mhAITmS)
+
+**Generative Adversarial Residual Pairwise Networks for One Shot Learning**
+
+- intro: Indian Institute of Science
+- arxiv: [https://arxiv.org/abs/1703.08033](https://arxiv.org/abs/1703.08033)
 
 ## Incremental Learning
 
@@ -2590,3 +2603,7 @@ feed-forward neural nets and deep learning.
 
 - blog: [https://blogs.technet.microsoft.com/dataplatforminsider/2017/01/05/how-six-lines-of-code-sql-server-can-bring-deep-learning-to-any-app/](https://blogs.technet.microsoft.com/dataplatforminsider/2017/01/05/how-six-lines-of-code-sql-server-can-bring-deep-learning-to-any-app/)
 - github: [https://github.com/Microsoft/SQL-Server-R-Services-Samples/tree/master/Galaxies](https://github.com/Microsoft/SQL-Server-R-Services-Samples/tree/master/Galaxies)
+
+**Neural Network Architectures**
+
+[https://medium.com/towards-data-science/neural-network-architectures-156e5bad51ba#.m8y39oih6](https://medium.com/towards-data-science/neural-network-architectures-156e5bad51ba#.m8y39oih6)

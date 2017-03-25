@@ -680,6 +680,10 @@ The project is dedicated to hero in life great Jesse Livermore.
 
 [https://github.com/transedward/pytorch-dqn](https://github.com/transedward/pytorch-dqn)
 
+**Tensorflow-RL: Implementations of deep RL papers and random experimentation**
+
+[https://github.com/steveKapturowski/tensorflow-rl](https://github.com/steveKapturowski/tensorflow-rl)
+
 ## Play Flappy Bird
 
 **Using Deep Q-Network to Learn How To Play Flappy Bird**

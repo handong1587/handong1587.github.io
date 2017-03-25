@@ -51,6 +51,14 @@ date: 2015-09-26
 - paper: [http://cacm.acm.org/magazines/2016/5/201594-a-survey-of-robotic-musicianship/fulltext](http://cacm.acm.org/magazines/2016/5/201594-a-survey-of-robotic-musicianship/fulltext)
 - pdf: [http://delivery.acm.org/10.1145/2820000/2818994/p100-bretan.pdf?ip=106.2.163.178&id=2818994&acc=OPEN&key=FA9C0C5108D19366%2EFA9C0C5108D19366%2E4D4702B0C3E38B35%2E6D218144511F3437&CFID=782936619&CFTOKEN=45889912&__acm__=1462790600_3fbc87eef6f7d60e7e061c117d80b1ca](http://delivery.acm.org/10.1145/2820000/2818994/p100-bretan.pdf?ip=106.2.163.178&id=2818994&acc=OPEN&key=FA9C0C5108D19366%2EFA9C0C5108D19366%2E4D4702B0C3E38B35%2E6D218144511F3437&CFID=782936619&CFTOKEN=45889912&__acm__=1462790600_3fbc87eef6f7d60e7e061c117d80b1ca)
 
+# Projects
+
+**The MRPT project**
+
+- intro: The Mobile Robot Programming Toolkit (MRPT)
+- project page: [http://www.mrpt.org/](http://www.mrpt.org/)
+- github: [https://github.com/MRPT/mrpt](https://github.com/MRPT/mrpt)
+
 # Hardware
 
 **Deep Learning Robot**

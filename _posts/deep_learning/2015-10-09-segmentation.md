@@ -103,11 +103,13 @@ only the CNN part of the network is fine-tuned to learn deconvolution indirectly
 - arxiv(PAMI 2016): [http://arxiv.org/abs/1605.06211](http://arxiv.org/abs/1605.06211)
 - slides: [https://docs.google.com/presentation/d/1VeWFMpZ8XN7OC3URZP4WdXvOGYckoFWGVN7hApoXVnc](https://docs.google.com/presentation/d/1VeWFMpZ8XN7OC3URZP4WdXvOGYckoFWGVN7hApoXVnc)
 - slides: [http://tutorial.caffe.berkeleyvision.org/caffe-cvpr15-pixels.pdf](http://tutorial.caffe.berkeleyvision.org/caffe-cvpr15-pixels.pdf)
+- talk: [http://techtalks.tv/talks/fully-convolutional-networks-for-semantic-segmentation/61606/](http://techtalks.tv/talks/fully-convolutional-networks-for-semantic-segmentation/61606/)
 - github: [https://github.com/shelhamer/fcn.berkeleyvision.org](https://github.com/shelhamer/fcn.berkeleyvision.org)
 - github: [https://github.com/BVLC/caffe/wiki/Model-Zoo#fcn](https://github.com/BVLC/caffe/wiki/Model-Zoo#fcn)
 - github: [https://github.com/MarvinTeichmann/tensorflow-fcn](https://github.com/MarvinTeichmann/tensorflow-fcn)
 - github(Chainer): [https://github.com/wkentaro/fcn](https://github.com/wkentaro/fcn)
 - github(PyTorch): [https://github.com/wkentaro/pytorch-fcn](https://github.com/wkentaro/pytorch-fcn)
+- github(Tensorflow): [https://github.com/shekkizh/FCN.tensorflow](https://github.com/shekkizh/FCN.tensorflow)
 - notes: [http://zhangliliang.com/2014/11/28/paper-note-fcn-segment/](http://zhangliliang.com/2014/11/28/paper-note-fcn-segment/)
 
 **From Image-level to Pixel-level Labeling with Convolutional Networks**
@@ -432,6 +434,11 @@ with built-in awareness of semantically meaningful boundaries. "
 
 - intro: Facebook AI Research
 - arxiv: [https://arxiv.org/abs/1703.07684](https://arxiv.org/abs/1703.07684)
+
+**Guided Perturbations: Self Corrective Behavior in Convolutional Neural Networks**
+
+- intro: University of Maryland & GE Global Research Center
+- arxiv: [https://arxiv.org/abs/1703.07928](https://arxiv.org/abs/1703.07928)
 
 # Instance Segmentation
 

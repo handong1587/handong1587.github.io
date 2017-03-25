@@ -107,6 +107,13 @@ in particular Intel® Xeon processors (HSW+) and Intel® Xeon Phi processors
 - github: [https://github.com/Caffe-MPI/Caffe-MPI.github.io](https://github.com/Caffe-MPI/Caffe-MPI.github.io)
 - slides: [http://mug.mvapich.cse.ohio-state.edu/static/media/mug/presentations/2016/Caffe-MPI_A_Parallel_Framework_on_the_GPU_Clusters.pdf](http://mug.mvapich.cse.ohio-state.edu/static/media/mug/presentations/2016/Caffe-MPI_A_Parallel_Framework_on_the_GPU_Clusters.pdf)
 
+## Caffe Utils
+
+**Caffe-model**
+
+- intro: Python script to generate prototxt on Caffe, specially the inception_v3\inception_v4\inception_resnet\fractalnet
+- github: [https://github.com/soeaver/caffe-model](https://github.com/soeaver/caffe-model)
+
 # Caffe2
 
 **Caffe2**
