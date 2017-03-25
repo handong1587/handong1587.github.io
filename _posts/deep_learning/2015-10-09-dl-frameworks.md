@@ -90,6 +90,23 @@ for building Deep Learning (DL) machine learning (ML) models
 in particular Intel® Xeon processors (HSW+) and Intel® Xeon Phi processors
 - github [https://github.com/intel/caffe](https://github.com/intel/caffe)
 
+## Multi-GPU / MPI Caffe
+
+**Caffe with OpenMPI-based Multi-GPU support**
+
+- intro: A fork of Caffe with OpenMPI-based Multi-GPU (mainly data parallel) support for action recognition and more.
+- github: [https://github.com/yjxiong/caffe/tree/mem](https://github.com/yjxiong/caffe/tree/mem)
+
+**mpi-caffe: Model-distributed Deep Learning with Caffe and MPI**
+
+- project page: [https://computing.ece.vt.edu/~steflee/mpi-caffe.html](https://computing.ece.vt.edu/~steflee/mpi-caffe.html)
+- github: [https://github.com/steflee/mpi-caffe](https://github.com/steflee/mpi-caffe)
+
+**Caffe-MPI for Deep Learning**
+
+- github: [https://github.com/Caffe-MPI/Caffe-MPI.github.io](https://github.com/Caffe-MPI/Caffe-MPI.github.io)
+- slides: [http://mug.mvapich.cse.ohio-state.edu/static/media/mug/presentations/2016/Caffe-MPI_A_Parallel_Framework_on_the_GPU_Clusters.pdf](http://mug.mvapich.cse.ohio-state.edu/static/media/mug/presentations/2016/Caffe-MPI_A_Parallel_Framework_on_the_GPU_Clusters.pdf)
+
 # Caffe2
 
 **Caffe2**
