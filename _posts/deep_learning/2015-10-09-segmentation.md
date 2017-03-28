@@ -651,6 +651,10 @@ ranked 1st place in ImageNet Scene Parsing Challenge 2016
 - slides: [http://image-net.org/challenges/talks/2016/SenseCUSceneParsing.pdf](http://image-net.org/challenges/talks/2016/SenseCUSceneParsing.pdf)
 - github: [https://github.com/hszhao/PSPNet](https://github.com/hszhao/PSPNet)
 
+**Open Vocabulary Scene Parsing**
+
+[https://arxiv.org/abs/1703.08769](https://arxiv.org/abs/1703.08769)
+
 ## Benchmarks
 
 **Semantic Understanding of Urban Street Scenes: Benchmark Suite**

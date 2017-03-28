@@ -280,6 +280,11 @@ Compressed model is less than 500KB
 
 [https://github.com/lizeng614/SqueezeNet-Neural-Style-Pytorch](https://github.com/lizeng614/SqueezeNet-Neural-Style-Pytorch)
 
+**StyleBank: An Explicit Representation for Neural Image Style Transfer**
+
+- intro: CVPR 2017
+- arxiv: [https://arxiv.org/abs/1703.09210](https://arxiv.org/abs/1703.09210)
+
 ## Neural Art On Audio
 
 **MSc AI Project on generative deep networks and neural style transfer for audio**
@@ -320,6 +325,10 @@ Compressed model is less than 500KB
 **DeepMovie: Using Optical Flow and Deep Neural Networks to Stylize Movies**
 
 - arxiv: [http://arxiv.org/abs/1605.08153](http://arxiv.org/abs/1605.08153)
+
+**Coherent Online Video Style Transfer**
+
+[https://arxiv.org/abs/1703.09211](https://arxiv.org/abs/1703.09211)
 
 ## Neural Doodle
 

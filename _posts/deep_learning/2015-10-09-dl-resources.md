@@ -1924,6 +1924,13 @@ It is based on Facebook's TorchCraft, which is a bridge between Torch and StarCr
 - arxiv: [https://arxiv.org/abs/1703.07950](https://arxiv.org/abs/1703.07950)
 - github: [https://github.com/shakedshammah/failures_of_DL](https://github.com/shakedshammah/failures_of_DL)
 
+## Tutorials and Surveys
+
+**Efficient Processing of Deep Neural Networks: A Tutorial and Survey**
+
+- intro: MIT
+- arxiv: [https://arxiv.org/abs/1703.09039](https://arxiv.org/abs/1703.09039)
+
 ## Dive Into CNN
 
 **Structured Receptive Fields in CNNs**

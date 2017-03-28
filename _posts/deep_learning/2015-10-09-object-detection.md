@@ -835,6 +835,11 @@ This task involves predicting the salient regions of an image given by human eye
 - intro: An extended version of ICCV 2015 paper
 - arxiv: [https://arxiv.org/abs/1701.08393](https://arxiv.org/abs/1701.08393)
 
+**Multi-Path Region-Based Convolutional Neural Network for Accurate Detection of Unconstrained "Hard Faces"**
+
+- intro: CVPR 2017. MP-RCNN, MP-RPN
+- arxiv: [https://arxiv.org/abs/1703.09145](https://arxiv.org/abs/1703.09145)
+
 ### Datasets / Benchmarks
 
 **FDDB: Face Detection Data Set and Benchmark**

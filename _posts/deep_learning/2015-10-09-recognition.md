@@ -457,6 +457,13 @@ facial action unit recognition, and eye-gaze estimation.
 - project page: [http://places.csail.mit.edu/index.html](http://places.csail.mit.edu/index.html)
 - arxiv: [https://arxiv.org/abs/1610.02055](https://arxiv.org/abs/1610.02055)
 
+## Leaderboard
+
+**Leaderboard of Places Database**
+
+- intro: currently rank1: Qian Zhang(Beijing Samsung Telecom R&D Center), 0.6410@top1, 0.9065@top5
+- homepage: [http://places.csail.mit.edu/user/leaderboard.php](http://places.csail.mit.edu/user/leaderboard.php)
+
 # Blogs
 
 **What is the class of this image ? - Discover the current state of the art in objects classification**

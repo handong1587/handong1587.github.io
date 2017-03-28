@@ -43,6 +43,12 @@ compress:   sEx a FileName.* FileName
 uncompress: sEx x FileName.*
 ```
 
+## Wiew a detailed table of contents for an archive
+
+|file type    |  view contents cmd                  |
+|:-----------:|:-----------------------------------:|
+|.tar.gz      |  tar -tvf my-data.tar.gz            |
+
 # Print info
 
 | task                                              | command                 |
@@ -64,6 +70,12 @@ uncompress: sEx x FileName.*
 | Print target folder volume                        | du -sh                  |
 | Print target folder volume (in MB)                | du -sm                  |
 | Prints one entry per line of output (bare format) | ls -1a                  |
+
+CuDNN Version Check:
+
+```
+cat /usr/local/cuda/include/cudnn.h | grep CUDNN_MAJOR -A 2
+```
 
 Print lines 20 to 40:
 
