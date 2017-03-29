@@ -255,6 +255,7 @@ date: 2015-10-09
 - github: [https://github.com/zhreshold/mxnet-ssd.cpp](https://github.com/zhreshold/mxnet-ssd.cpp)
 - github(Keras): [https://github.com/rykov8/ssd_keras](https://github.com/rykov8/ssd_keras)
 - github(TensorFlow): [https://github.com/balancap/SSD-Tensorflow](https://github.com/balancap/SSD-Tensorflow)
+- github: [https://github.com/amdegroot/ssd.pytorch](https://github.com/amdegroot/ssd.pytorch)
 
 ## Inside-Outside Net (ION)
 
