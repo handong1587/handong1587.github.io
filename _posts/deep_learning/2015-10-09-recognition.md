@@ -230,6 +230,10 @@ date: 2015-10-09
 
 - arxiv: [https://arxiv.org/abs/1702.04710](https://arxiv.org/abs/1702.04710)
 
+**L2-constrained Softmax Loss for Discriminative Face Verification**
+
+[https://arxiv.org/abs/1703.09507](https://arxiv.org/abs/1703.09507)
+
 ### Projects
 
 **Using MXNet for Face-related Algorithm**

@@ -463,6 +463,7 @@ Continuation of [arXiv:1608.08021](https://arxiv.org/abs/1608.08021)
 - github(Keras): [https://github.com/allanzelener/YAD2K](https://github.com/allanzelener/YAD2K)
 - github(PyTorch): [https://github.com/longcw/yolo2-pytorch](https://github.com/longcw/yolo2-pytorch)
 - github(Tensorflow): [https://github.com/hizhangp/yolo_tensorflow](https://github.com/hizhangp/yolo_tensorflow)
+- github(Windows): [https://github.com/AlexeyAB/darknet](https://github.com/AlexeyAB/darknet)
 
 **Yolo_mark: GUI for marking bounded boxes of objects in images for training Yolo v2**
 
@@ -1059,6 +1060,12 @@ This task involves predicting the salient regions of an image given by human eye
 - intro: The Journal of Field Robotics in May 2016
 - project page: [http://confluence.acfr.usyd.edu.au/display/AGPub/](http://confluence.acfr.usyd.edu.au/display/AGPub/)
 - arxiv: [https://arxiv.org/abs/1610.08120](https://arxiv.org/abs/1610.08120)
+
+## Part Detection
+
+**Objects as context for part detection**
+
+[https://arxiv.org/abs/1703.09529](https://arxiv.org/abs/1703.09529)
 
 ## Others
 
