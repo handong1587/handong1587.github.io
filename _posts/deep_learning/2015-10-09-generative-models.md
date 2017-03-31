@@ -169,6 +169,7 @@ date: 2015-10-09
 - github(TensorFlow): [https://github.com/yenchenlin/pix2pix-tensorflow](https://github.com/yenchenlin/pix2pix-tensorflow)
 - github(Chainer): [https://github.com/mattya/chainer-pix2pix](https://github.com/mattya/chainer-pix2pix)
 - github(PyTorch): [https://github.com/mrzhu-cool/pix2pix-pytorch](https://github.com/mrzhu-cool/pix2pix-pytorch)
+- github(Chainer): [https://github.com/wuhuikai/chainer-pix2pix](https://github.com/wuhuikai/chainer-pix2pix)
 
 **Remastering Classic Films in Tensorflow with Pix2Pix**
 

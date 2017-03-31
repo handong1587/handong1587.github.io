@@ -962,6 +962,7 @@ with fast exact probabilistic inference over many layers."
 
 - intro: Microsoft Research Asia
 - arxiv: [https://arxiv.org/abs/1703.06211](https://arxiv.org/abs/1703.06211)
+- github: [https://github.com/felixlaumon/deform-conv](https://github.com/felixlaumon/deform-conv)
 
 **Second-order Convolutional Neural Networks**
 
@@ -1923,6 +1924,18 @@ It is based on Facebook's TorchCraft, which is a bridge between Torch and StarCr
 
 - arxiv: [https://arxiv.org/abs/1703.07950](https://arxiv.org/abs/1703.07950)
 - github: [https://github.com/shakedshammah/failures_of_DL](https://github.com/shakedshammah/failures_of_DL)
+
+**Multi-Scale Dense Convolutional Networks for Efficient Prediction**
+
+- intro: Cornell University & Tsinghua University & Fudan University & Facebook AI Research
+- arxiv: [https://arxiv.org/abs/1703.09844](https://arxiv.org/abs/1703.09844)
+- github: [https://github.com/gaohuang/MSDNet](https://github.com/gaohuang/MSDNet)
+
+**Scaling the Scattering Transform: Deep Hybrid Networks**
+
+- arxiv: [https://arxiv.org/abs/1703.08961](https://arxiv.org/abs/1703.08961)
+- github: [https://github.com/edouardoyallon/scalingscattering](https://github.com/edouardoyallon/scalingscattering)
+- github(CuPy/PyTorch): [https://github.com/edouardoyallon/pyscatwave](https://github.com/edouardoyallon/pyscatwave)
 
 ## Tutorials and Surveys
 

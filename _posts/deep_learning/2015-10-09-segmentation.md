@@ -710,14 +710,12 @@ ranked 1st place in ImageNet Scene Parsing Challenge 2016
 
 - intro: OSVOS
 - arxiv: [https://arxiv.org/abs/1611.05198](https://arxiv.org/abs/1611.05198)
+- github: [https://github.com/kmaninis/OSVOS-caffe](https://github.com/kmaninis/OSVOS-caffe)
+- github: [https://github.com/scaelles/OSVOS-TensorFlow](https://github.com/scaelles/OSVOS-TensorFlow)
 
 **Convolutional Gated Recurrent Networks for Video Segmentation**
 
 - arxiv: [https://arxiv.org/abs/1611.05435](https://arxiv.org/abs/1611.05435)
-
-**One-Shot Video Object Segmentation**
-
-- arxiv: [https://arxiv.org/abs/1611.05198](https://arxiv.org/abs/1611.05198)
 
 **Learning Video Object Segmentation from Static Images**
 
