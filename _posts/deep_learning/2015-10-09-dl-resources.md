@@ -1937,6 +1937,10 @@ It is based on Facebook's TorchCraft, which is a bridge between Torch and StarCr
 - github: [https://github.com/edouardoyallon/scalingscattering](https://github.com/edouardoyallon/scalingscattering)
 - github(CuPy/PyTorch): [https://github.com/edouardoyallon/pyscatwave](https://github.com/edouardoyallon/pyscatwave)
 
+**Coordinating Filters for Faster Deep Neural Networks**
+
+[https://arxiv.org/abs/1703.09746](https://arxiv.org/abs/1703.09746)
+
 ## Tutorials and Surveys
 
 **Efficient Processing of Deep Neural Networks: A Tutorial and Survey**

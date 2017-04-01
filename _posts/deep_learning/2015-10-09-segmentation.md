@@ -579,6 +579,10 @@ with built-in awareness of semantically meaningful boundaries. "
 - arxiv: [https://arxiv.org/abs/1703.06870](https://arxiv.org/abs/1703.06870)
 - github(TensorFlow): [https://github.com/CharlesShang/FastMaskRCNN](https://github.com/CharlesShang/FastMaskRCNN)
 
+**Semantic Instance Segmentation via Deep Metric Learning**
+
+[https://arxiv.org/abs/1703.10277](https://arxiv.org/abs/1703.10277)
+
 # Specific Segmentation
 
 **End-to-end semantic face segmentation with conditional random fields as convolutional, recurrent and adversarial networks**

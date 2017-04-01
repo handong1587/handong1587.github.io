@@ -476,15 +476,15 @@ Compressed model is less than 500KB
 
 **Automatic Portrait Segmentation for Image Stylization**
 
-![](/assets/fun_with_dl/portrait_eg16.png)
+![](http://xiaoyongshen.me/webpage_portrait/figures/teaser.png)
 
+- project page(data+code): [http://xiaoyongshen.me/webpage_portrait/index.html](http://xiaoyongshen.me/webpage_portrait/index.html)
 - paper: [http://www.cse.cuhk.edu.hk/leojia/papers/portrait_eg16.pdf](http://www.cse.cuhk.edu.hk/leojia/papers/portrait_eg16.pdf)
 
 **Transfiguring Portraits**
 
 ![](/assets/fun_with_dl/Transfiguring_Portraits.jpg)
 
-- homepage: [http://dreambit.xyz/](http://dreambit.xyz/)
 - paper: [http://homes.cs.washington.edu/~kemelmi/Transfiguring_Portraits_Kemelmacher_SIGGRAPH2016.pdf](http://homes.cs.washington.edu/~kemelmi/Transfiguring_Portraits_Kemelmacher_SIGGRAPH2016.pdf)
 
 ## Image Colorization

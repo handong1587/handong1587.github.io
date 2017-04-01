@@ -494,6 +494,10 @@ Continuation of [arXiv:1608.08021](https://arxiv.org/abs/1608.08021)
 - intro: chained cascade network (CC-Net). 81.1% mAP on PASCAL VOC 2007
 - arxiv: [https://arxiv.org/abs/1702.07054](https://arxiv.org/abs/1702.07054)
 
+**DeNet: Scalable Real-time Object Detection with Directed Sparse Sampling**
+
+[https://arxiv.org/abs/1703.10295](https://arxiv.org/abs/1703.10295)
+
 # Detection From Video
 
 **Learning Object Class Detectors from Weakly Annotated Video**
@@ -759,6 +763,7 @@ This task involves predicting the salient regions of an image given by human eye
 
 - intro: Yahoo
 - arxiv: [http://arxiv.org/abs/1502.02766](http://arxiv.org/abs/1502.02766)
+- github: [https://github.com/guoyilin/FaceDetection_CNN](https://github.com/guoyilin/FaceDetection_CNN)
 
 **From Facial Parts Responses to Face Detection: A Deep Learning Approach**
 

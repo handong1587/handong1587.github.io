@@ -46,6 +46,10 @@ date: 2015-10-09
 - intro: CVPR 2017. Stanford University & University of Southern California
 - arxiv: [https://arxiv.org/abs/1703.02521](https://arxiv.org/abs/1703.02521)
 
+**ProcNets: Learning to Segment Procedures in Untrimmed and Unconstrained Videos**
+
+[https://arxiv.org/abs/1703.09788](https://arxiv.org/abs/1703.09788)
+
 # Video Classification
 
 **Large-scale Video Classification with Convolutional Neural Networks**
