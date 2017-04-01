@@ -558,6 +558,11 @@ Continuation of [arXiv:1608.08021](https://arxiv.org/abs/1608.08021)
 - intro: MSRA
 - arxiv: [https://arxiv.org/abs/1703.10025](https://arxiv.org/abs/1703.10025)
 
+**Video Object Detection using Faster R-CNN**
+
+- blog: [http://andrewliao11.github.io/object_detection/faster_rcnn/](http://andrewliao11.github.io/object_detection/faster_rcnn/)
+- github: [https://github.com/andrewliao11/py-faster-rcnn-imagenet](https://github.com/andrewliao11/py-faster-rcnn-imagenet)
+
 ## Datasets
 
 **YouTube-Objects dataset v2.2**
@@ -781,6 +786,7 @@ This task involves predicting the salient regions of an image given by human eye
 
 - intro: CMU
 - arxiv: [https://arxiv.org/abs/1612.04402](https://arxiv.org/abs/1612.04402)
+- github: [https://github.com/peiyunh/tiny](https://github.com/peiyunh/tiny)
 
 **Towards a Deep Learning Framework for Unconstrained Face Detection**
 
@@ -1030,6 +1036,7 @@ This task involves predicting the salient regions of an image given by human eye
 
 - project page: [http://www.vision.ee.ethz.ch/~cvlsegmentation/](http://www.vision.ee.ethz.ch/~cvlsegmentation/)
 - arxiv: [https://arxiv.org/abs/1701.04658](https://arxiv.org/abs/1701.04658)
+- github: [https://github.com/kmaninis/COB](https://github.com/kmaninis/COB)
 
 **Richer Convolutional Features for Edge Detection**
 
