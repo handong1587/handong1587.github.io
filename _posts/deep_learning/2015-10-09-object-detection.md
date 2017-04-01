@@ -553,6 +553,11 @@ Continuation of [arXiv:1608.08021](https://arxiv.org/abs/1608.08021)
 
 - arxiv: [https://arxiv.org/abs/1702.06355](https://arxiv.org/abs/1702.06355)
 
+**Flow-Guided Feature Aggregation for Video Object Detection**
+
+- intro: MSRA
+- arxiv: [https://arxiv.org/abs/1703.10025](https://arxiv.org/abs/1703.10025)
+
 ## Datasets
 
 **YouTube-Objects dataset v2.2**
