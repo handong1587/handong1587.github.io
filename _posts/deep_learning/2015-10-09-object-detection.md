@@ -790,6 +790,7 @@ This task involves predicting the salient regions of an image given by human eye
 **Finding Tiny Faces**
 
 - intro: CMU
+- project page: [http://www.cs.cmu.edu/~peiyunh/tiny/index.html](http://www.cs.cmu.edu/~peiyunh/tiny/index.html)
 - arxiv: [https://arxiv.org/abs/1612.04402](https://arxiv.org/abs/1612.04402)
 - github: [https://github.com/peiyunh/tiny](https://github.com/peiyunh/tiny)
 

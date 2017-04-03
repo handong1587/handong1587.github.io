@@ -90,6 +90,10 @@ for building Deep Learning (DL) machine learning (ML) models
 in particular Intel® Xeon processors (HSW+) and Intel® Xeon Phi processors
 - github [https://github.com/intel/caffe](https://github.com/intel/caffe)
 
+**NVIDIA Caffe**
+
+[https://github.com/NVIDIA/caffe](https://github.com/NVIDIA/caffe)
+
 ## Multi-GPU / MPI Caffe
 
 **Caffe with OpenMPI-based Multi-GPU support**
