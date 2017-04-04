@@ -373,6 +373,7 @@ date: 2015-10-09
 
 ![](http://sebastianruder.com/content/images/2016/01/contours_evaluation_optimizers.gif)
 
+- arxiv: [https://arxiv.org/abs/1609.04747](https://arxiv.org/abs/1609.04747)
 - blog: [http://sebastianruder.com/optimizing-gradient-descent/](http://sebastianruder.com/optimizing-gradient-descent/)
 
 **Exploiting the Structure: Stochastic Gradient Methods Using Raw Clusters**

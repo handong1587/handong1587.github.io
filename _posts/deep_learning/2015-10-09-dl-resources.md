@@ -22,6 +22,7 @@ date: 2015-10-09
 
 **Network In Network**
 
+- intro: ICLR 2014
 - arxiv: [http://arxiv.org/abs/1312.4400](http://arxiv.org/abs/1312.4400)
 - gitxiv: [http://gitxiv.com/posts/PA98qGuMhsijsJzgX/network-in-network-nin](http://gitxiv.com/posts/PA98qGuMhsijsJzgX/network-in-network-nin)
 
@@ -1448,6 +1449,10 @@ with fast exact probabilistic inference over many layers."
 It is based on Facebook's TorchCraft, which is a bridge between Torch and StarCraft for AI research.
 - github: [https://github.com/deepcraft/gym-starcraft](https://github.com/deepcraft/gym-starcraft)
 
+**Multiagent Bidirectionally-Coordinated Nets for Learning to Play StarCraft Combat Games**
+
+[https://arxiv.org/abs/1703.10069](https://arxiv.org/abs/1703.10069)
+
 # Deep Learning in Medicine and Biology
 
 **Low Data Drug Discovery with One-shot Learning**
@@ -2630,4 +2635,7 @@ feed-forward neural nets and deep learning.
 
 **Neural Network Architectures**
 
-[https://medium.com/towards-data-science/neural-network-architectures-156e5bad51ba#.m8y39oih6](https://medium.com/towards-data-science/neural-network-architectures-156e5bad51ba#.m8y39oih6)
+![](https://culurciello.github.io/assets/nets/acc_vs_net_vs_ops.svg)
+
+- blog: [https://medium.com/towards-data-science/neural-network-architectures-156e5bad51ba#.m8y39oih6](https://medium.com/towards-data-science/neural-network-architectures-156e5bad51ba#.m8y39oih6)
+- blog: [https://culurciello.github.io/tech/2016/06/04/nets.html](https://culurciello.github.io/tech/2016/06/04/nets.html)

@@ -166,10 +166,12 @@ date: 2015-10-09
 
 - github: [https://github.com/gwding/draw_convnet](https://github.com/gwding/draw_convnet)
 
-**Caffe prototxt visualization (Recommended by Kaiming He)**
+**Caffe prototxt visualization**
 
 ![](/assets/vis-cnn/netscope.jpg)
 
+- intro: Recommended by Kaiming He
+- github: [https://github.com/ethereon/netscope](https://github.com/ethereon/netscope)
 - quickstart: [http://ethereon.github.io/netscope/quickstart.html](http://ethereon.github.io/netscope/quickstart.html)
 - demo: [http://ethereon.github.io/netscope/#/editor](http://ethereon.github.io/netscope/#/editor)
 
