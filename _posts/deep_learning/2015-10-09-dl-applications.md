@@ -822,6 +822,10 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 - intro: University of Massachusetts & CMU
 - arxiv: [https://arxiv.org/abs/1703.05667](https://arxiv.org/abs/1703.05667)
 
+**Block-Matching Convolutional Neural Network for Image Denoising**
+
+[https://arxiv.org/abs/1704.00524](https://arxiv.org/abs/1704.00524)
+
 # Image Haze Removal
 
 **DehazeNet: An End-to-End System for Single Image Haze Removal**

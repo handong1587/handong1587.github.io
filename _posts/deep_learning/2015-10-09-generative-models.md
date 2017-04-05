@@ -157,31 +157,6 @@ date: 2015-10-09
 - intro: NIPS 2016 Workshop on Adversarial Training
 - arxiv: [https://arxiv.org/abs/1611.05644](https://arxiv.org/abs/1611.05644)
 
-## Pix2Pix
-
-**Image-to-Image Translation with Conditional Adversarial Networks**
-
-![](https://phillipi.github.io/pix2pix/images/teaser_v3.png)
-
-- project page: [https://phillipi.github.io/pix2pix/](https://phillipi.github.io/pix2pix/)
-- arxiv: [https://arxiv.org/abs/1611.07004](https://arxiv.org/abs/1611.07004)
-- github: [https://github.com/phillipi/pix2pix](https://github.com/phillipi/pix2pix)
-- github(TensorFlow): [https://github.com/yenchenlin/pix2pix-tensorflow](https://github.com/yenchenlin/pix2pix-tensorflow)
-- github(Chainer): [https://github.com/mattya/chainer-pix2pix](https://github.com/mattya/chainer-pix2pix)
-- github(PyTorch): [https://github.com/mrzhu-cool/pix2pix-pytorch](https://github.com/mrzhu-cool/pix2pix-pytorch)
-- github(Chainer): [https://github.com/wuhuikai/chainer-pix2pix](https://github.com/wuhuikai/chainer-pix2pix)
-
-**Remastering Classic Films in Tensorflow with Pix2Pix**
-
-- blog: [https://hackernoon.com/remastering-classic-films-in-tensorflow-with-pix2pix-f4d551fa0503#.6dmahnt8n](https://hackernoon.com/remastering-classic-films-in-tensorflow-with-pix2pix-f4d551fa0503#.6dmahnt8n)
-- github: [https://github.com/awjuliani/Pix2Pix-Film](https://github.com/awjuliani/Pix2Pix-Film)
-- model: [https://drive.google.com/file/d/0B8x0IeJAaBccNFVQMkQ0QW15TjQ/view](https://drive.google.com/file/d/0B8x0IeJAaBccNFVQMkQ0QW15TjQ/view)
-
-**Image-to-Image Translation in Tensorflow**
-
-- blog: [http://affinelayer.com/pix2pix/index.html](http://affinelayer.com/pix2pix/index.html)
-- github: [https://github.com/affinelayer/pix2pix-tensorflow](https://github.com/affinelayer/<pix2pix-tensorflow></pix2pix-tensorflow>)
-
 **ml4a-invisible-cities**
 
 - project page: [https://opendot.github.io/ml4a-invisible-cities/](https://opendot.github.io/ml4a-invisible-cities/)
@@ -239,11 +214,6 @@ date: 2015-10-09
 - intro: Max Planck Institute for Intelligent Systems & Google Brain
 - arxiv: [https://arxiv.org/abs/1701.02386](https://arxiv.org/abs/1701.02386)
 
-**Unsupervised Image-to-Image Translation with Generative Adversarial Networks**
-
-- intro: Imperial College London & Indian Institute of Technology
-- arxiv: [https://arxiv.org/abs/1701.02676](https://arxiv.org/abs/1701.02676)
-
 **Towards Principled Methods for Training Generative Adversarial Networks**
 
 - intro: Courant Institute of Mathematical Sciences & Facebook AI Research
@@ -260,9 +230,47 @@ date: 2015-10-09
 - gist: [https://gist.github.com/soumith/71995cecc5b99cda38106ad64503cee3](https://gist.github.com/soumith/71995cecc5b99cda38106ad64503cee3)
 - reddit: [https://www.reddit.com/r/MachineLearning/comments/5qxoaz/r_170107875_wasserstein_gan/](https://www.reddit.com/r/MachineLearning/comments/5qxoaz/r_170107875_wasserstein_gan/)
 
+## Image-to-Image Translation
+
+### Pix2Pix
+
+**Image-to-Image Translation with Conditional Adversarial Networks**
+
+![](https://phillipi.github.io/pix2pix/images/teaser_v3.png)
+
+- project page: [https://phillipi.github.io/pix2pix/](https://phillipi.github.io/pix2pix/)
+- arxiv: [https://arxiv.org/abs/1611.07004](https://arxiv.org/abs/1611.07004)
+- github: [https://github.com/phillipi/pix2pix](https://github.com/phillipi/pix2pix)
+- github(TensorFlow): [https://github.com/yenchenlin/pix2pix-tensorflow](https://github.com/yenchenlin/pix2pix-tensorflow)
+- github(Chainer): [https://github.com/mattya/chainer-pix2pix](https://github.com/mattya/chainer-pix2pix)
+- github(PyTorch): [https://github.com/mrzhu-cool/pix2pix-pytorch](https://github.com/mrzhu-cool/pix2pix-pytorch)
+- github(Chainer): [https://github.com/wuhuikai/chainer-pix2pix](https://github.com/wuhuikai/chainer-pix2pix)
+
+**Remastering Classic Films in Tensorflow with Pix2Pix**
+
+- blog: [https://hackernoon.com/remastering-classic-films-in-tensorflow-with-pix2pix-f4d551fa0503#.6dmahnt8n](https://hackernoon.com/remastering-classic-films-in-tensorflow-with-pix2pix-f4d551fa0503#.6dmahnt8n)
+- github: [https://github.com/awjuliani/Pix2Pix-Film](https://github.com/awjuliani/Pix2Pix-Film)
+- model: [https://drive.google.com/file/d/0B8x0IeJAaBccNFVQMkQ0QW15TjQ/view](https://drive.google.com/file/d/0B8x0IeJAaBccNFVQMkQ0QW15TjQ/view)
+
+**Image-to-Image Translation in Tensorflow**
+
+- blog: [http://affinelayer.com/pix2pix/index.html](http://affinelayer.com/pix2pix/index.html)
+- github: [https://github.com/affinelayer/pix2pix-tensorflow](https://github.com/affinelayer/pix2pix-tensorflow)
+
+---
+
+**Unsupervised Image-to-Image Translation with Generative Adversarial Networks**
+
+- intro: Imperial College London & Indian Institute of Technology
+- arxiv: [https://arxiv.org/abs/1701.02676](https://arxiv.org/abs/1701.02676)
+
 **Unsupervised Image-to-Image Translation Networks**
 
 [https://arxiv.org/abs/1703.00848](https://arxiv.org/abs/1703.00848)
+
+**Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks**
+
+[https://arxiv.org/abs/1703.10593](https://arxiv.org/abs/1703.10593)
 
 # Projects
 

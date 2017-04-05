@@ -556,6 +556,10 @@ Compressed model is less than 500KB
 
 - arxiv: [https://arxiv.org/abs/1702.06674](https://arxiv.org/abs/1702.06674)
 
+**(DE)^2 CO: Deep Depth Colorization**
+
+[https://arxiv.org/abs/1703.10881](https://arxiv.org/abs/1703.10881)
+
 # Sounds
 
 **Visually Indicated Sounds**

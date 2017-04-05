@@ -859,6 +859,10 @@ This task involves predicting the salient regions of an image given by human eye
 - intro: CVPR 2017. MP-RCNN, MP-RPN
 - arxiv: [https://arxiv.org/abs/1703.09145](https://arxiv.org/abs/1703.09145)
 
+**End-To-End Face Detection and Recognition**
+
+[https://arxiv.org/abs/1703.10818](https://arxiv.org/abs/1703.10818)
+
 ### Datasets / Benchmarks
 
 **FDDB: Face Detection Data Set and Benchmark**

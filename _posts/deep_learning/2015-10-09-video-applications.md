@@ -107,7 +107,7 @@ date: 2015-10-09
 
 - arxiv: [https://arxiv.org/abs/1611.06453](https://arxiv.org/abs/1611.06453)
 
-## Action Recognition
+## Action Detection /  Recognition
 
 **3d convolutional neural networks for human action recognition**
 
@@ -316,6 +316,10 @@ extract saptio-temporal features to represent the video using the CNNs."
 
 - intro: Australian Center for Robotic Vision & Data61/CSIRO
 - arxiv: [https://arxiv.org/abs/1701.05432](https://arxiv.org/abs/1701.05432)
+
+**Tube Convolutional Neural Network (T-CNN) for Action Detection in Videos**
+
+[https://arxiv.org/abs/1703.10664](https://arxiv.org/abs/1703.10664)
 
 ### Projects
 

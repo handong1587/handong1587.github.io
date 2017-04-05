@@ -293,6 +293,17 @@ and from 73.8% to 83.1% for ResNet-50
 
 [https://arxiv.org/abs/1703.07579](https://arxiv.org/abs/1703.07579)
 
+**Simultaneous Feature Aggregating and Hashing for Large-scale Image Search**
+
+- intro: CVPR 2017
+- arxiv: [https://arxiv.org/abs/1704.00860](https://arxiv.org/abs/1704.00860)
+
+**AMC: Attention guided Multi-modal Correlation Learning for Image Search**
+
+- intro: CVPR 2017
+- arxiv: [https://arxiv.org/abs/1704.00763](https://arxiv.org/abs/1704.00763)
+- github: [https://github.com/kanchen-usc/amc_att](https://github.com/kanchen-usc/amc_att)
+
 # Video Indexing / Retrieval
 
 **Face Video Retrieval via Deep Learning of Binary Hash Representations**

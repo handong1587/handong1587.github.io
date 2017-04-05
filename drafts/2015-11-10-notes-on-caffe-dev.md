@@ -133,6 +133,15 @@ Solution:
 export CPLUS_INCLUDE_PATH=/usr/include/python2.7
 ```
 
+# Runtime Warnings/Errors
+
+```
+/path/to/caffe/pycaffe.py:13: RuntimeWarning: to-Python converter for std::vector<boost::shared_ptr<caffe::Net<float> >, std::allocator<boost::shared_ptr<caffe::Net<float> > > > already registered; second conversion method ignored.
+```
+
+Solution:
+
+
 # Reading and Notes
 
 **DIY Deep Learning for Vision: A Tutorial With Caffe 报告笔记**

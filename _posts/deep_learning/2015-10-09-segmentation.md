@@ -735,6 +735,10 @@ ranked 1st place in ImageNet Scene Parsing Challenge 2016
 - arxiv: [https://arxiv.org/abs/1701.05384](https://arxiv.org/abs/1701.05384)
 - github: [https://github.com/suyogduttjain/fusionseg](https://github.com/suyogduttjain/fusionseg)
 
+**Unsupervised learning from video to detect foreground objects in single images**
+
+[https://arxiv.org/abs/1703.10901](https://arxiv.org/abs/1703.10901)
+
 # Projects
 
 **TF Image Segmentation: Image Segmentation framework**
