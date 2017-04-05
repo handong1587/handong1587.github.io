@@ -195,6 +195,8 @@ date: 2015-10-09
 - arxiv: [http://arxiv.org/abs/1506.02640](http://arxiv.org/abs/1506.02640)
 - code: [http://pjreddie.com/darknet/yolo/](http://pjreddie.com/darknet/yolo/)
 - github: [https://github.com/pjreddie/darknet](https://github.com/pjreddie/darknet)
+- blog: [https://pjreddie.com/publications/yolo/](https://pjreddie.com/publications/yolo/)
+- slides: [https://docs.google.com/presentation/d/1aeRvtKG21KHdD5lg6Hgyhx5rPq_ZOsGjG5rJ1HP7BbA/pub?start=false&loop=false&delayms=3000&slide=id.p](https://docs.google.com/presentation/d/1aeRvtKG21KHdD5lg6Hgyhx5rPq_ZOsGjG5rJ1HP7BbA/pub?start=false&loop=false&delayms=3000&slide=id.p)
 - reddit: [https://www.reddit.com/r/MachineLearning/comments/3a3m0o/realtime_object_detection_with_yolo/](https://www.reddit.com/r/MachineLearning/comments/3a3m0o/realtime_object_detection_with_yolo/)
 - github: [https://github.com/gliese581gg/YOLO_tensorflow](https://github.com/gliese581gg/YOLO_tensorflow)
 - github: [https://github.com/xingwangsfu/caffe-yolo](https://github.com/xingwangsfu/caffe-yolo)
@@ -465,6 +467,7 @@ Continuation of [arXiv:1608.08021](https://arxiv.org/abs/1608.08021)
 - github(PyTorch): [https://github.com/longcw/yolo2-pytorch](https://github.com/longcw/yolo2-pytorch)
 - github(Tensorflow): [https://github.com/hizhangp/yolo_tensorflow](https://github.com/hizhangp/yolo_tensorflow)
 - github(Windows): [https://github.com/AlexeyAB/darknet](https://github.com/AlexeyAB/darknet)
+- github: [https://github.com/choasUp/caffe-yolo9000](https://github.com/choasUp/caffe-yolo9000)
 
 **Yolo_mark: GUI for marking bounded boxes of objects in images for training Yolo v2**
 
