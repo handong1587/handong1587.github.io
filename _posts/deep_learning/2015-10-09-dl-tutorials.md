@@ -588,6 +588,18 @@ Machine learning workflow, Extracting feaures from images (colours, edges, corne
 
 [http://iamaaditya.github.io/2016/03/one-by-one-convolution/](http://iamaaditya.github.io/2016/03/one-by-one-convolution/)
 
+# Receptive Field
+
+**A guide to receptive field arithmetic for Convolutional Neural Networks**
+
+[https://medium.com/@nikasa1889/a-guide-to-receptive-field-arithmetic-for-convolutional-neural-networks-e0f514068807](https://medium.com/@nikasa1889/a-guide-to-receptive-field-arithmetic-for-convolutional-neural-networks-e0f514068807)
+
+# Momentum
+
+**Why Momentum Really Works**
+
+[http://distill.pub/2017/momentum/](http://distill.pub/2017/momentum/)
+
 ## maxDNN
 
 **maxDNN: An Efficient Convolution Kernel for Deep Learning with Maxwell GPUs**
