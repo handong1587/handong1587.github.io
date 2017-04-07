@@ -501,6 +501,11 @@ Continuation of [arXiv:1608.08021](https://arxiv.org/abs/1608.08021)
 
 [https://arxiv.org/abs/1703.10295](https://arxiv.org/abs/1703.10295)
 
+**A-Fast-RCNN: Hard Positive Generation via Adversary for Object Detection**
+
+- intro: CVPR 2017
+- paper: [http://abhinavsh.info/papers/pdfs/adversarial_object_detection.pdf](http://abhinavsh.info/papers/pdfs/adversarial_object_detection.pdf)
+
 # Detection From Video
 
 **Learning Object Class Detectors from Weakly Annotated Video**
