@@ -671,6 +671,10 @@ not just the convolutions)
 - intro: Google Brain & OpenAI
 - arxiv: [https://arxiv.org/abs/1611.01236](https://arxiv.org/abs/1611.01236)
 
+**Feature Squeezing: Detecting Adversarial Examples in Deep Neural Networks**
+
+[https://arxiv.org/abs/1704.01155](https://arxiv.org/abs/1704.01155)
+
 # Deep Learning Networks
 
 **PCANet: A Simple Deep Learning Baseline for Image Classification?**

@@ -914,6 +914,10 @@ This task involves predicting the salient regions of an image given by human eye
 
 - arxiv: [https://arxiv.org/abs/1702.02719](https://arxiv.org/abs/1702.02719)
 
+**A Convolution Tree with Deconvolution Branches: Exploiting Geometric Relationships for Single Shot Keypoint Detection**
+
+[https://arxiv.org/abs/1704.01880](https://arxiv.org/abs/1704.01880)
+
 ## People Detection
 
 **End-to-end people detection in crowded scenes**

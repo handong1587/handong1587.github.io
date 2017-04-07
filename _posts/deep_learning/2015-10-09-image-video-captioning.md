@@ -364,6 +364,16 @@ after the embedding and recurrent layers of the RNN."
 
 - arxiv: [https://arxiv.org/abs/1701.03126](https://arxiv.org/abs/1701.03126)
 
+**Weakly Supervised Dense Video Captioning**
+
+- intro: CVPR 2017
+- arxiv: [https://arxiv.org/abs/1704.01502](https://arxiv.org/abs/1704.01502)
+
+**Generating Descriptions with Grounded and Co-Referenced People**
+
+- intro: CVPR 2017. movie description
+- arxiv: [https://arxiv.org/abs/1704.01518](https://arxiv.org/abs/1704.01518)
+
 # Projects
 
 **Learning CNN-LSTM Architectures for Image Caption Generation: An implementation of CNN-LSTM image caption generator architecture that achieves close to state-of-the-art results on the MSCOCO dataset.**

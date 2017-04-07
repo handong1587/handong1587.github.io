@@ -285,6 +285,11 @@ Compressed model is less than 500KB
 - intro: CVPR 2017
 - arxiv: [https://arxiv.org/abs/1703.09210](https://arxiv.org/abs/1703.09210)
 
+**How to Make an Image More Memorable? A Deep Style Transfer Approach**
+
+- intro: ACM ICMR 2017
+- arxiv: [https://arxiv.org/abs/1704.01745](https://arxiv.org/abs/1704.01745)
+
 ## Neural Art On Audio
 
 **MSc AI Project on generative deep networks and neural style transfer for audio**

@@ -345,8 +345,14 @@ and from 73.8% to 83.1% for ResNet-50
 
 # Deep Metric Learning
 
+**Cross-modal Deep Metric Learning with Multi-task Regularization**
+
 - intro: ICME 2017
 - arxiv: [https://arxiv.org/abs/1703.07026](https://arxiv.org/abs/1703.07026)
+
+**Smart Mining for Deep Metric Learning**
+
+[https://arxiv.org/abs/1704.01285](https://arxiv.org/abs/1704.01285)
 
 # Talks / Slides
 
