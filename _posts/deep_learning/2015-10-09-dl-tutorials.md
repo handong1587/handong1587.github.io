@@ -547,7 +547,7 @@ Machine learning workflow, Extracting feaures from images (colours, edges, corne
 
 - intro: CS231n, Convolutional layer, Pooling layer, Forward pass, Backward pass
 - blog: [http://cthorey.github.io./backprop_conv/](http://cthorey.github.io./backprop_conv/)
-- [x]
+- [x] 
 
 **Convolution in Caffe: a memo**
 
