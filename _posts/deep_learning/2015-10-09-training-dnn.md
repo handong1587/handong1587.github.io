@@ -241,6 +241,20 @@ date: 2015-10-09
 - intro: Sergey Ioffe, Google
 - arxiv: [https://arxiv.org/abs/1702.03275](https://arxiv.org/abs/1702.03275)
 
+### Backward pass of BN
+
+**Understanding the backward pass through Batch Normalization Layer**
+
+[https://kratzert.github.io/2016/02/12/understanding-the-gradient-flow-through-the-batch-normalization-layer.html](https://kratzert.github.io/2016/02/12/understanding-the-gradient-flow-through-the-batch-normalization-layer.html)
+
+**Deriving the Gradient for the Backward Pass of Batch Normalization**
+
+[https://kevinzakka.github.io/2016/09/14/batch_normalization/](https://kevinzakka.github.io/2016/09/14/batch_normalization/)
+
+**What does the gradient flowing through batch normalization looks like ?**
+
+[http://cthorey.github.io./backpropagation/](http://cthorey.github.io./backpropagation/)
+
 ## Layer Normalization
 
 **Layer Normalization**
