@@ -543,6 +543,12 @@ Machine learning workflow, Extracting feaures from images (colours, edges, corne
 
 - blog: [http://colah.github.io/posts/2014-07-Understanding-Convolutions/](http://colah.github.io/posts/2014-07-Understanding-Convolutions/)
 
+**Note on the implementation of a convolutional neural networks**
+
+- intro: CS231n, Convolutional layer, Pooling layer, Forward pass, Backward pass
+- blog: [http://cthorey.github.io./backprop_conv/](http://cthorey.github.io./backprop_conv/)
+- [x]
+
 **Convolution in Caffe: a memo**
 
 - blog: [https://github.com/Yangqing/caffe/wiki/Convolution-in-Caffe:-a-memo](https://github.com/Yangqing/caffe/wiki/Convolution-in-Caffe:-a-memo)
