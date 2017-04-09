@@ -148,9 +148,6 @@ date: 2015-10-09
 - intro: Google. CVPR 2015
 - arxiv: [http://arxiv.org/abs/1503.03832](http://arxiv.org/abs/1503.03832)
 - github(Tensorflow): [https://github.com/davidsandberg/facenet](https://github.com/davidsandberg/facenet)
-- github: [https://github.com/cmusatyalab/openface](https://github.com/cmusatyalab/openface)
-- github: [https://github.com/Atcold/torch-TripletEmbedding](https://github.com/Atcold/torch-TripletEmbedding)
-- github: [https://github.com/luhaofang/tripletloss](https://github.com/luhaofang/tripletloss)
 
 **Targeting Ultimate Accuracy: Face Recognition via Deep Embedding**
 
