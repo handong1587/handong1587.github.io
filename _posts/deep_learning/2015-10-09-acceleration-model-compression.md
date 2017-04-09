@@ -380,6 +380,10 @@ at INT8 deep learning operations than other FPGA DSP architectures"
 - intro: ARM Research
 - arxiv: [https://arxiv.org/abs/1703.03073](https://arxiv.org/abs/1703.03073)
 
+**DyVEDeep: Dynamic Variable Effort Deep Neural Networks**
+
+[https://arxiv.org/abs/1704.01137](https://arxiv.org/abs/1704.01137)
+
 # Projects
 
 **Accelerate Convolutional Neural Networks**

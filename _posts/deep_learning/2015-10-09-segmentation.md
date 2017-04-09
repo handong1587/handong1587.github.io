@@ -133,7 +133,7 @@ only the CNN part of the network is fine-tuned to learn deconvolution indirectly
 
 - intro: ICLR 2015. DeepLab
 - arxiv: [http://arxiv.org/abs/1412.7062](http://arxiv.org/abs/1412.7062)
-- github: [https://bitbucket.org/deeplab/deeplab-public/](https://bitbucket.org/deeplab/deeplab-public/)
+- bitbucket: [https://bitbucket.org/deeplab/deeplab-public/](https://bitbucket.org/deeplab/deeplab-public/)
 - github: [https://github.com/TheLegendAli/DeepLab-Context](https://github.com/TheLegendAli/DeepLab-Context)
 
 **Weakly- and Semi-Supervised Learning of a DCNN for Semantic Image Segmentation**
@@ -440,6 +440,11 @@ with built-in awareness of semantically meaningful boundaries. "
 - intro: University of Maryland & GE Global Research Center
 - arxiv: [https://arxiv.org/abs/1703.07928](https://arxiv.org/abs/1703.07928)
 
+**Not All Pixels Are Equal: Difficulty-aware Semantic Segmentation via Deep Layer Cascade**
+
+- intro: CVPR 2017 spotlight paper
+- arxxiv: [https://arxiv.org/abs/1704.01344](https://arxiv.org/abs/1704.01344)
+
 # Instance Segmentation
 
 **Simultaneous Detection and Segmentation**
@@ -582,6 +587,10 @@ with built-in awareness of semantically meaningful boundaries. "
 **Semantic Instance Segmentation via Deep Metric Learning**
 
 [https://arxiv.org/abs/1703.10277](https://arxiv.org/abs/1703.10277)
+
+**Pose2Instance: Harnessing Keypoints for Person Instance Segmentation**
+
+[https://arxiv.org/abs/1704.01152](https://arxiv.org/abs/1704.01152)
 
 # Specific Segmentation
 
@@ -743,6 +752,10 @@ ranked 1st place in ImageNet Scene Parsing Challenge 2016
 **Unsupervised learning from video to detect foreground objects in single images**
 
 [https://arxiv.org/abs/1703.10901](https://arxiv.org/abs/1703.10901)
+
+**Semantically-Guided Video Object Segmentation**
+
+[https://arxiv.org/abs/1704.01926](https://arxiv.org/abs/1704.01926)
 
 ## Challenge
 

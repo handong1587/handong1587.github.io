@@ -1192,6 +1192,11 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 
 [https://arxiv.org/abs/1703.07737](https://arxiv.org/abs/1703.07737)
 
+**Beyond triplet loss: a deep quadruplet network for person re-identification**
+
+- intro: CVPR 2017
+- arxiv: [https://arxiv.org/abs/1704.01719](https://arxiv.org/abs/1704.01719)
+
 # Music Tagging
 
 **Automatic tagging using deep convolutional neural networks**

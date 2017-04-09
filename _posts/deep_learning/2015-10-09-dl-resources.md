@@ -591,6 +591,7 @@ not just the convolutions)
 
 **Deep Neural Networks are Easily Fooled: High Confidence Predictions for Unrecognizable Images**
 
+- intro: CVPR 2015
 - arxiv: [http://arxiv.org/abs/1412.1897](http://arxiv.org/abs/1412.1897)
 - github: [https://github.com/Evolving-AI-Lab/fooling/](https://github.com/Evolving-AI-Lab/fooling/)
 
@@ -670,6 +671,10 @@ not just the convolutions)
 
 - intro: Google Brain & OpenAI
 - arxiv: [https://arxiv.org/abs/1611.01236](https://arxiv.org/abs/1611.01236)
+
+**Feature Squeezing: Detecting Adversarial Examples in Deep Neural Networks**
+
+[https://arxiv.org/abs/1704.01155](https://arxiv.org/abs/1704.01155)
 
 # Deep Learning Networks
 
