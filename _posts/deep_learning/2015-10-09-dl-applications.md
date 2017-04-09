@@ -561,6 +561,11 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 - intro: A pipeline to build a dataset from your own music library and use it to fill the missing genres
 - github: [https://github.com/despoisj/DeepAudioClassification](https://github.com/despoisj/DeepAudioClassification)
 
+**TS-LSTM and Temporal-Inception: Exploiting Spatiotemporal Dynamics for Activity Recognition**
+
+- arxiv: [https://arxiv.org/abs/1703.10667](https://arxiv.org/abs/1703.10667)
+- github: [https://github.com/chihyaoma/Activity-Recognition-with-CNN-and-RNN](https://github.com/chihyaoma/Activity-Recognition-with-CNN-and-RNN)
+
 # NSFW Detection / Classification
 
 **Nipple Detection using Convolutional Neural Network**

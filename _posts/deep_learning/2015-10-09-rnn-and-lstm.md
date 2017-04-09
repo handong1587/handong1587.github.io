@@ -521,6 +521,12 @@ date: 2015-10-09
 - intro: CMU
 - arxiv: [https://arxiv.org/abs/1703.00381](https://arxiv.org/abs/1703.00381)
 
+**Factorization tricks for LSTM networks**
+
+- intro: ICLR 2017 Workshop
+- arxiv: [https://arxiv.org/abs/1703.10722](https://arxiv.org/abs/1703.10722)
+- github: [https://github.com/okuchaiev/f-lm](https://github.com/okuchaiev/f-lm)
+
 # Projects
 
 **NeuralTalk (Deprecated): a Python+numpy project for learning Multimodal Recurrent Neural Networks that describe images with sentences**
