@@ -294,6 +294,10 @@ It is an experimental refactoring of Caffe, and allows a more flexible way to or
 
 - github: [https://github.com/MoyanZitto/keras-cn](https://github.com/MoyanZitto/keras-cn)
 
+**Kerasify: Small library for running Keras models from a C++ application**
+
+[https://github.com/moof2k/kerasify](https://github.com/moof2k/kerasify)
+
 # Knet
 
 **Knet: Koç University deep learning framework**

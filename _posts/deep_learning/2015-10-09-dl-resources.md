@@ -840,6 +840,12 @@ with fast exact probabilistic inference over many layers."
 - author: Caglar Gulcehre, Marcin Moczulski, Francesco Visin, Yoshua Bengio
 - arxiv: [http://arxiv.org/abs/1608.04980](http://arxiv.org/abs/1608.04980)
 
+**Domain Separation Networks**
+
+- intro: NIPS 2016
+- arxiv: [https://arxiv.org/abs/1608.06019](https://arxiv.org/abs/1608.06019)
+- github: [https://github.com/tensorflow/models/tree/master/domain_adaptation](https://github.com/tensorflow/models/tree/master/domain_adaptation)
+
 **Local Binary Convolutional Neural Networks**
 
 - arxiv: [http://arxiv.org/abs/1608.06049](http://arxiv.org/abs/1608.06049)
@@ -964,6 +970,7 @@ with fast exact probabilistic inference over many layers."
 - intro: Microsoft Research Asia
 - arxiv: [https://arxiv.org/abs/1703.06211](https://arxiv.org/abs/1703.06211)
 - github: [https://github.com/felixlaumon/deform-conv](https://github.com/felixlaumon/deform-conv)
+- github: [https://github.com/oeway/pytorch-deform-conv](https://github.com/oeway/pytorch-deform-conv)
 
 **Second-order Convolutional Neural Networks**
 
@@ -1095,6 +1102,10 @@ with fast exact probabilistic inference over many layers."
 
 - intro: Imperial College London
 - arxiv: [https://arxiv.org/abs/1703.02161](https://arxiv.org/abs/1703.02161)
+
+**Deep Learning on Graphs with Graph Convolutional Networks**
+
+- slides: [http://tkipf.github.io/misc/GCNSlides.pdf](http://tkipf.github.io/misc/GCNSlides.pdf)
 
 # Deep Learning with Traditional Machine Learning Methods
 
@@ -1442,6 +1453,7 @@ with fast exact probabilistic inference over many layers."
 **DeepStack: Expert-Level Artificial Intelligence in No-Limit Poker**
 
 - arxiv: [https://arxiv.org/abs/1701.01724](https://arxiv.org/abs/1701.01724)
+- github: [https://github.com/lifrordi/DeepStack-Leduc](https://github.com/lifrordi/DeepStack-Leduc)
 
 **Gym StarCraft: StarCraft environment for OpenAI Gym, based on Facebook's TorchCraft**
 
@@ -1944,7 +1956,8 @@ It is based on Facebook's TorchCraft, which is a bridge between Torch and StarCr
 
 **Coordinating Filters for Faster Deep Neural Networks**
 
-[https://arxiv.org/abs/1703.09746](https://arxiv.org/abs/1703.09746)
+- arxiv: [https://arxiv.org/abs/1703.09746](https://arxiv.org/abs/1703.09746)
+- github: [https://github.com/wenwei202/caffe/tree/sfm](https://github.com/wenwei202/caffe/tree/sfm)
 
 ## Tutorials and Surveys
 
@@ -2509,6 +2522,10 @@ feed-forward neural nets and deep learning.
 
 - intro: Built by @karpathy to accelerate research.
 - page: [http://www.arxiv-sanity.com/](http://www.arxiv-sanity.com/)
+
+**Today's Deep Learning**
+
+[http://todaysdeeplearning.com/](http://todaysdeeplearning.com/)
 
 # Tools
 

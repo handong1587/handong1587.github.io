@@ -230,6 +230,11 @@ date: 2015-10-09
 - gist: [https://gist.github.com/soumith/71995cecc5b99cda38106ad64503cee3](https://gist.github.com/soumith/71995cecc5b99cda38106ad64503cee3)
 - reddit: [https://www.reddit.com/r/MachineLearning/comments/5qxoaz/r_170107875_wasserstein_gan/](https://www.reddit.com/r/MachineLearning/comments/5qxoaz/r_170107875_wasserstein_gan/)
 
+**Improved Training of Wasserstein GANs**
+
+- arxiv: [https://arxiv.org/abs/1704.00028](https://arxiv.org/abs/1704.00028)
+- github: [https://github.com/igul222/improved_wgan_training](https://github.com/igul222/improved_wgan_training)
+
 ## Image-to-Image Translation
 
 ### Pix2Pix

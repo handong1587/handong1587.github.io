@@ -150,3 +150,7 @@ date: 2015-08-27
 **Leaf Classification Competition: 1st Place Winner's Interview, Ivan Sosnovik**
 
 [http://blog.kaggle.com/2017/03/24/leaf-classification-competition-1st-place-winners-interview-ivan-sosnovik/](http://blog.kaggle.com/2017/03/24/leaf-classification-competition-1st-place-winners-interview-ivan-sosnovik/)
+
+**猫狗大战: Dogs vs. Cats**
+
+[https://github.com/ypwhs/dogs_vs_cats](https://github.com/ypwhs/dogs_vs_cats)

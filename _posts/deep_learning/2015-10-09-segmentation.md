@@ -662,6 +662,11 @@ ranked 1st place in ImageNet Scene Parsing Challenge 2016
 
 ## Benchmarks
 
+**MIT Scene Parsing Benchmark**
+
+- homepage: [http://sceneparsing.csail.mit.edu/](http://sceneparsing.csail.mit.edu/)
+- github(devkit): [https://github.com/CSAILVision/sceneparsing](https://github.com/CSAILVision/sceneparsing)
+
 **Semantic Understanding of Urban Street Scenes: Benchmark Suite**
 
 [https://www.cityscapes-dataset.com/benchmarks/](https://www.cityscapes-dataset.com/benchmarks/)
@@ -738,6 +743,13 @@ ranked 1st place in ImageNet Scene Parsing Challenge 2016
 **Unsupervised learning from video to detect foreground objects in single images**
 
 [https://arxiv.org/abs/1703.10901](https://arxiv.org/abs/1703.10901)
+
+## Challenge
+
+**DAVIS: Densely Annotated VIdeo Segmentation**
+
+- homepage: [http://davischallenge.org/](http://davischallenge.org/)
+- arxiv: [https://arxiv.org/abs/1704.00675](https://arxiv.org/abs/1704.00675)
 
 # Projects
 

@@ -147,6 +147,11 @@ date: 2015-10-09
 - arxiv: [https://arxiv.org/abs/1702.04595](https://arxiv.org/abs/1702.04595)
 - github: [https://github.com/lmzintgraf/DeepVis-PredDiff](https://github.com/lmzintgraf/DeepVis-PredDiff)
 
+**ActiVis: Visual Exploration of Industry-Scale Deep Neural Network Models**
+
+- intro: Georgia Tech & Facebook
+- arxiv: [https://arxiv.org/abs/1704.01942](https://arxiv.org/abs/1704.01942)
+
 # Projects
 
 **Interactive Deep Neural Net Hallucinations**

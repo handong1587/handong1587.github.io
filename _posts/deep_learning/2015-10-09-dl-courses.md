@@ -120,6 +120,11 @@ date: 2015-10-09
 
 - github: [https://github.com/ddtm/dl-course](https://github.com/ddtm/dl-course)
 
+**CSE 599G1: Deep Learning System**
+
+- homepage: [http://dlsys.cs.washington.edu/](http://dlsys.cs.washington.edu/)
+- assignment1: [https://github.com/dlsys-course/assignment1](https://github.com/dlsys-course/assignment1)
+
 ## With Video Lectures
 
 **Deep Learning: Taking machine learning to the next level (Udacity)**

@@ -443,6 +443,7 @@ Classic strategies:
 ![](http://www.svds.com/wp-content/uploads/2016/08/ImbalancedClasses_fig5.jpg)
 
 - blog: [http://www.svds.com/learning-imbalanced-classes/](http://www.svds.com/learning-imbalanced-classes/)
+- github: [https://github.com/silicon-valley-data-science/learning-from-imbalanced-classes](https://github.com/silicon-valley-data-science/learning-from-imbalanced-classes)
 
 **Towards Competitive Classifiers for Unbalanced Classification Problems: A Study on the Performance Scores**
 

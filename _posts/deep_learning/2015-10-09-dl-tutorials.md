@@ -598,7 +598,8 @@ Machine learning workflow, Extracting feaures from images (colours, edges, corne
 
 **Why Momentum Really Works**
 
-[http://distill.pub/2017/momentum/](http://distill.pub/2017/momentum/)
+- blog: [http://distill.pub/2017/momentum/](http://distill.pub/2017/momentum/)
+- github: [https://github.com/distillpub/post--momentum](https://github.com/distillpub/post--momentum)
 
 ## maxDNN
 

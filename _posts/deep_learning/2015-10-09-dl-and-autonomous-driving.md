@@ -126,6 +126,11 @@ joint classification, detection and semantic segmentation via a unified architec
 - arxiv: [https://arxiv.org/abs/1612.07695](https://arxiv.org/abs/1612.07695)
 - github: [https://github.com/MarvinTeichmann/MultiNet](https://github.com/MarvinTeichmann/MultiNet)
 
+**Interpretable Learning for Self-Driving Cars by Visualizing Causal Attention**
+
+- intro: UC Berkeley
+- arxiv: [https://arxiv.org/abs/1703.10631](https://arxiv.org/abs/1703.10631)
+
 # Projects
 
 **Caffe-Autopilot: Car autopilot software that uses C++, BVLC Caffe, OpenCV, and SFML**

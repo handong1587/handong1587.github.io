@@ -52,6 +52,10 @@ Contains all the popular DL frameworks (TensorFlow, Theano, Torch, Caffe, etc.)
 - blog: [https://devblogs.nvidia.com/parallelforall/nvidia-docker-gpu-server-application-deployment-made-easy/](https://devblogs.nvidia.com/parallelforall/nvidia-docker-gpu-server-application-deployment-made-easy/)
 - github: [https://github.com/NVIDIA/nvidia-docker](https://github.com/NVIDIA/nvidia-docker)
 
+**Deep learning base image for Docker (Tensorflow, Caffe, MXNet, Torch, Openface, etc.)**
+
+[https://github.com/dominiek/deep-base](https://github.com/dominiek/deep-base)
+
 ## Cloud
 
 **SuperVessel Cloud for POWER/OpenPOWER LoginRegisterTutorials**

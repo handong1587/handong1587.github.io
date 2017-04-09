@@ -75,6 +75,11 @@ date: 2016-06-02
 
 [https://techiedelight.quora.com/500-Data-structures-and-algorithms-interview-questions-and-their-solutions-in-C%2B%2B](https://techiedelight.quora.com/500-Data-structures-and-algorithms-interview-questions-and-their-solutions-in-C%2B%2B)
 
+**Algorithms and Data Structures: Implementation of Algorithms and Data Structures, Interview Questions and Answers**
+
+- intro: This is the collection of algorithms, data structures and Interview Questions with solutions
+- github: [https://github.com/sherxon/AlgoDS](https://github.com/sherxon/AlgoDS)
+
 # Coding
 
 **Coding interview questions with solutions (C++)**
