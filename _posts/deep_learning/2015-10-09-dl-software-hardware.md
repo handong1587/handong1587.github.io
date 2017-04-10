@@ -165,7 +165,7 @@ Contains all the popular DL frameworks (TensorFlow, Theano, Torch, Caffe, etc.)
 
 **Which GPU(s) to Get for Deep Learning: My Experience and Advice for Using GPUs in Deep Learning**
 
-- blog: [http://timdettmers.com/2014/08/14/which-gpu-for-deep-learning/](http://timdettmers.com/2014/08/14/which-gpu-for-deep-learning/)
+- blog: [http://timdettmers.com/2017/04/09/which-gpu-for-deep-learning/](http://timdettmers.com/2017/04/09/which-gpu-for-deep-learning/)
 
 **从深度学习选择什么样的gpu来谈谈gpu的硬件架构**
 
