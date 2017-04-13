@@ -156,6 +156,10 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 
 - arxiv: [https://www.arxiv.org/abs/1703.00586](https://www.arxiv.org/abs/1703.00586)
 
+**Learning Two-Branch Neural Networks for Image-Text Matching Tasks**
+
+[https://arxiv.org/abs/1704.03470](https://arxiv.org/abs/1704.03470)
+
 # Age Estimation
 
 **Deeply-Learned Feature for Age Estimation**

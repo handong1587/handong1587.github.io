@@ -1181,6 +1181,12 @@ This task involves predicting the salient regions of an image given by human eye
 
 - arxiv: [https://arxiv.org/abs/1612.01057](https://arxiv.org/abs/1612.01057)
 
+**Learning Detection with Diverse Proposals**
+
+- intro: CVPR 2017
+- keywords: differentiable Determinantal Point Process (DPP) layer, Learning Detection with Diverse Proposals (LDDP)
+- arxiv: [https://arxiv.org/abs/1704.03533](https://arxiv.org/abs/1704.03533)
+
 # Localization
 
 **Beyond Bounding Boxes: Precise Localization of Objects in Images**

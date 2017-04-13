@@ -450,6 +450,10 @@ with built-in awareness of semantically meaningful boundaries. "
 - intro: CVPR 2017
 - arxiv: [https://arxiv.org/abs/1704.02966](https://arxiv.org/abs/1704.02966)
 
+**Reformulating Level Sets as Deep Recurrent Neural Network Approach to Semantic Segmentation**
+
+[https://arxiv.org/abs/1704.03593](https://arxiv.org/abs/1704.03593)
+
 # Instance Segmentation
 
 **Simultaneous Detection and Segmentation**
@@ -602,6 +606,11 @@ with built-in awareness of semantically meaningful boundaries. "
 - intro: CVPR 2017
 - arxiv: [https://arxiv.org/abs/1704.02386](https://arxiv.org/abs/1704.02386)
 
+**Instance-Level Salient Object Segmentation**
+
+- intro: CVPR 2017
+- arxiv: [https://arxiv.org/abs/1704.03604](https://arxiv.org/abs/1704.03604)
+
 # Specific Segmentation
 
 **End-to-end semantic face segmentation with conditional random fields as convolutional, recurrent and adversarial networks**
@@ -678,6 +687,10 @@ ranked 1st place in ImageNet Scene Parsing Challenge 2016
 **Open Vocabulary Scene Parsing**
 
 [https://arxiv.org/abs/1703.08769](https://arxiv.org/abs/1703.08769)
+
+**Deep Contextual Recurrent Residual Networks for Scene Labeling**
+
+[https://arxiv.org/abs/1704.03594](https://arxiv.org/abs/1704.03594)
 
 ## Benchmarks
 

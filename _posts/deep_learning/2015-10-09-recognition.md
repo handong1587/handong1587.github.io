@@ -231,11 +231,26 @@ date: 2015-10-09
 
 [https://arxiv.org/abs/1703.09507](https://arxiv.org/abs/1703.09507)
 
+### Video Face Recognition
+
+**Attention-Set based Metric Learning for Video Face Recognition**
+
+[https://arxiv.org/abs/1704.03805](https://arxiv.org/abs/1704.03805)
+
 ### Projects
 
 **Using MXNet for Face-related Algorithm**
 
 - github: [https://github.com/tornadomeet/mxnet-face](https://github.com/tornadomeet/mxnet-face)
+
+**clmtrackr: Javascript library for precise tracking of facial features via Constrained Local Models**
+
+- github: [https://github.com/auduno/clmtrackr](https://github.com/auduno/clmtrackr)
+- blog: [http://auduno.com/post/61888277175/fitting-faces](http://auduno.com/post/61888277175/fitting-faces)
+- demo: [http://auduno.github.io/clmtrackr/examples/facesubstitution.html](http://auduno.github.io/clmtrackr/examples/facesubstitution.html)
+- demo: [http://auduno.github.io/clmtrackr/face_deformation_video.html](http://auduno.github.io/clmtrackr/face_deformation_video.html)
+- demo: [http://auduno.github.io/clmtrackr/examples/clm_emotiondetection.html](http://auduno.github.io/clmtrackr/examples/clm_emotiondetection.html)
+- demo: [http://auduno.com/post/84214587523/twisting-faces](http://auduno.com/post/84214587523/twisting-faces)
 
 ### Datasets / Benchmarks
 
@@ -254,17 +269,6 @@ date: 2015-10-09
 **UMDFaces: An Annotated Face Dataset for Training Deep Networks**
 
 - arxiv: [https://arxiv.org/abs/1611.01484](https://arxiv.org/abs/1611.01484)
-
-### Projects
-
-**clmtrackr: Javascript library for precise tracking of facial features via Constrained Local Models**
-
-- github: [https://github.com/auduno/clmtrackr](https://github.com/auduno/clmtrackr)
-- blog: [http://auduno.com/post/61888277175/fitting-faces](http://auduno.com/post/61888277175/fitting-faces)
-- demo: [http://auduno.github.io/clmtrackr/examples/facesubstitution.html](http://auduno.github.io/clmtrackr/examples/facesubstitution.html)
-- demo: [http://auduno.github.io/clmtrackr/face_deformation_video.html](http://auduno.github.io/clmtrackr/face_deformation_video.html)
-- demo: [http://auduno.github.io/clmtrackr/examples/clm_emotiondetection.html](http://auduno.github.io/clmtrackr/examples/clm_emotiondetection.html)
-- demo: [http://auduno.com/post/84214587523/twisting-faces](http://auduno.com/post/84214587523/twisting-faces)
 
 #### OpenFace
 
