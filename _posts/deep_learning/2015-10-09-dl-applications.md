@@ -789,6 +789,13 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 - intro: Extentions of mmm 2017 paper
 - arxiv: [https://arxiv.org/abs/1703.08173](https://arxiv.org/abs/1703.08173)
 
+## Video Super-resolution
+
+**Detail-revealing Deep Video Super-resolution**
+
+- arxiv: [https://arxiv.org/abs/1704.02738](https://arxiv.org/abs/1704.02738)
+- github: [https://github.com/jiangsutx/SPMC_VideoSR](https://github.com/jiangsutx/SPMC_VideoSR)
+
 # Image Denoising
 
 **Beyond a Gaussian Denoiser: Residual Learning of Deep CNN for Image Denoising**

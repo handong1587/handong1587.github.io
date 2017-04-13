@@ -336,6 +336,10 @@ and from 73.8% to 83.1% for ResNet-50
 - intro: ACCV 2016
 - arxiv: [https://arxiv.org/abs/1612.03900](https://arxiv.org/abs/1612.03900)
 
+**Supervised Deep Hashing for Hierarchical Labeled Data**
+
+- arxiv: [https://arxiv.org/abs/1704.02088](https://arxiv.org/abs/1704.02088)
+
 # Learning to Rank
 
 **Simple to Complex Cross-modal Learning to Rank**

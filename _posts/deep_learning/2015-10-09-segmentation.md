@@ -445,6 +445,11 @@ with built-in awareness of semantically meaningful boundaries. "
 - intro: CVPR 2017 spotlight paper
 - arxxiv: [https://arxiv.org/abs/1704.01344](https://arxiv.org/abs/1704.01344)
 
+**Loss Max-Pooling for Semantic Image Segmentation**
+
+- intro: CVPR 2017
+- arxiv: [https://arxiv.org/abs/1704.02966](https://arxiv.org/abs/1704.02966)
+
 # Instance Segmentation
 
 **Simultaneous Detection and Segmentation**
@@ -591,6 +596,11 @@ with built-in awareness of semantically meaningful boundaries. "
 **Pose2Instance: Harnessing Keypoints for Person Instance Segmentation**
 
 [https://arxiv.org/abs/1704.01152](https://arxiv.org/abs/1704.01152)
+
+**Pixelwise Instance Segmentation with a Dynamically Instantiated Network**
+
+- intro: CVPR 2017
+- arxiv: [https://arxiv.org/abs/1704.02386](https://arxiv.org/abs/1704.02386)
 
 # Specific Segmentation
 
