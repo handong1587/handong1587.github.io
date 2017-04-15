@@ -20,7 +20,6 @@ date: 2015-07-01
 [http://www.cs.cmu.edu/~rwh/courses/typesys/](http://www.cs.cmu.edu/~rwh/courses/typesys/)
 
 **MIT: Introduction to Algorithms**
-
 [http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/index.htm](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/index.htm)
 
 **Princeton Computer Science 521: Advanced Algorithm Design**
@@ -50,7 +49,6 @@ date: 2015-07-01
 [http://suif.stanford.edu/~courses/cs243/](http://suif.stanford.edu/~courses/cs243/)
 
 **MIT: Introduction to Algorithms**
-
 [http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/index.htm](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/index.htm)
 
 **(edX) Algorithms: Learn how to structure and use algorithms to solve real life problems.**
@@ -88,6 +86,11 @@ It currently hosts (a) the team notebook, and (b) complete lecture slides for [C
 
 - book: [http://comscigate.com/Books/contests/icpc.pdf](http://comscigate.com/Books/contests/icpc.pdf)
 - mirror: [https://pan.baidu.com/s/1i5I5M4H](https://pan.baidu.com/s/1i5I5M4H)
+
+**Competitive Programmer's Handbook**
+
+- homepage: [https://cses.fi/book.html](https://cses.fi/book.html)
+- pdf: [https://cses.fi/book.pdf](https://cses.fi/book.pdf)
 
 # Blogs
 

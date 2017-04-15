@@ -388,7 +388,6 @@ Simply run gdbgui from the terminal and a new tab will open in your browser.
 # Programming
 
 **Why is Object-Oriented Programming Useful? (With a Role Playing Game Example)**
-
 [http://inventwithpython.com/blog/2014/12/02/why-is-object-oriented-programming-useful-with-an-role-playing-game-example](http://inventwithpython.com/blog/2014/12/02/why-is-object-oriented-programming-useful-with-an-role-playing-game-example)
 
 **Scraping NBA Play-by-Play Data with Scrapy & MongoDB**
