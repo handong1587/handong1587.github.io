@@ -669,7 +669,7 @@ Machine learning workflow, Extracting feaures from images (colours, edges, corne
 
 - blog: [http://www.jefkine.com/general/2016/09/05/backpropagation-in-convolutional-neural-networks/](http://www.jefkine.com/general/2016/09/05/backpropagation-in-convolutional-neural-networks/)
 
-**Why do we rotate weights when computing the gradients in a convolution layer of a convolution network? **
+**Why do we rotate weights when computing the gradients in a convolution layer of a convolution network?**
 
 [http://soumith.ch/ex/pages/2014/08/07/why-rotate-weights-convolution-gradient/](http://soumith.ch/ex/pages/2014/08/07/why-rotate-weights-convolution-gradient/)
 
@@ -698,7 +698,7 @@ Machine learning workflow, Extracting feaures from images (colours, edges, corne
 
 **Deep learning tutorial on Caffe technology : basic commands, Python and C++ code**
 
-- blog: [http://christopher5106.github.io/deep/learning/2015/09/04/Deep-learning-tutorial-on-Caffe-Technology.html](http://christopher5106.github.io/deep/learning/2015/09/04/Deep-learning-tutorial-on-Caffe-Technology.html)
+[http://christopher5106.github.io/deep/learning/2015/09/04/Deep-learning-tutorial-on-Caffe-Technology.html](http://christopher5106.github.io/deep/learning/2015/09/04/Deep-learning-tutorial-on-Caffe-Technology.html)
 
 **Using Caffe with your own dataset**
 
