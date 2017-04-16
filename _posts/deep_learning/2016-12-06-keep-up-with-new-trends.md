@@ -283,3 +283,9 @@ date: 2016-12-06
 **Conference Schedule**
 
 [http://www.iclr.cc/doku.php?id=iclr2015:main&utm_content=buffer0b339&utm_campaign=buffer#conference_schedule](http://www.iclr.cc/doku.php?id=iclr2015:main&utm_content=buffer0b339&utm_campaign=buffer#conference_schedule)
+
+# CVPR 2014
+
+**TUTORIAL ON DEEP LEARNING FOR VISION**
+
+[https://sites.google.com/site/deeplearningcvpr2014/](https://sites.google.com/site/deeplearningcvpr2014/)
