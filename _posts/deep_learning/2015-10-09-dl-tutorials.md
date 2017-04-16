@@ -628,11 +628,11 @@ Machine learning workflow, Extracting feaures from images (colours, edges, corne
 
 # Backpropagation
 
-**Learning representations by back-propagating errors (1986)**
+**Learning representations by back-propagating errors**
 
-**Learning Internal Representations by Error Propagating (1986)**
+**Learning Internal Representations by Error Propagating**
 
-- author: David E. Rumelhart, Geoffrey E. Hinton & Ronald J. Williams
+- author: David E. Rumelhart, Geoffrey E. Hinton & Ronald J. Williams. 1986
 - paper: [http://www.nature.com/nature/journal/v323/n6088/pdf/323533a0.pdf](http://www.nature.com/nature/journal/v323/n6088/pdf/323533a0.pdf)
 - mirror: [http://pan.baidu.com/s/1bo30gHp](http://pan.baidu.com/s/1bo30gHp)
 - mirror: [http://pan.baidu.com/s/1kVfJ4of](http://pan.baidu.com/s/1kVfJ4of)
@@ -640,18 +640,6 @@ Machine learning workflow, Extracting feaures from images (colours, edges, corne
 **Calculus on Computational Graphs: Backpropagation**
 
 - blog: [http://colah.github.io/posts/2015-08-Backprop/](http://colah.github.io/posts/2015-08-Backprop/)
-
-**Convolutional Neural Networks backpropagation: from intuition to derivation**
-
-![](https://grzegorzgwardys.files.wordpress.com/2016/01/convolution-mlp-mapping.png?w=640)
-
-- blog: [https://grzegorzgwardys.wordpress.com/2016/04/22/8/](https://grzegorzgwardys.wordpress.com/2016/04/22/8/)
-
-**Backpropagation In Convolutional Neural Networks**
-
-![](http://www.jefkine.com/assets/images/cnn.png)
-
-- blog: [http://www.jefkine.com/general/2016/09/05/backpropagation-in-convolutional-neural-networks/](http://www.jefkine.com/general/2016/09/05/backpropagation-in-convolutional-neural-networks/)
 
 **Styles of Truncated Backpropagation**
 
@@ -667,6 +655,28 @@ Machine learning workflow, Extracting feaures from images (colours, edges, corne
 
 [https://www.doc.ic.ac.uk/~ahanda/ConvLSTMs.pdf](https://www.doc.ic.ac.uk/~ahanda/ConvLSTMs.pdf)
 
+## Backward Pass on Conv Layer
+
+**Convolutional Neural Networks backpropagation: from intuition to derivation**
+
+![](https://grzegorzgwardys.files.wordpress.com/2016/01/convolution-mlp-mapping.png?w=640)
+
+- blog: [https://grzegorzgwardys.wordpress.com/2016/04/22/8/](https://grzegorzgwardys.wordpress.com/2016/04/22/8/)
+
+**Backpropagation In Convolutional Neural Networks**
+
+![](http://www.jefkine.com/assets/images/cnn.png)
+
+- blog: [http://www.jefkine.com/general/2016/09/05/backpropagation-in-convolutional-neural-networks/](http://www.jefkine.com/general/2016/09/05/backpropagation-in-convolutional-neural-networks/)
+
+**Why do we rotate weights when computing the gradients in a convolution layer of a convolution network? **
+
+[http://soumith.ch/ex/pages/2014/08/07/why-rotate-weights-convolution-gradient/](http://soumith.ch/ex/pages/2014/08/07/why-rotate-weights-convolution-gradient/)
+
+**Note on the implementation of a convolutional neural networks**
+
+[http://cthorey.github.io./backprop_conv/](http://cthorey.github.io./backprop_conv/)
+
 # Attention
 
 **Attention in a Convolutional Neural Net**
@@ -681,6 +691,10 @@ Machine learning workflow, Extracting feaures from images (colours, edges, corne
 - slides: [http://download.mpi-inf.mpg.de/d2/mmalinow-slides/attention_networks.pdf](http://download.mpi-inf.mpg.de/d2/mmalinow-slides/attention_networks.pdf)
 
 # Caffe
+
+**DIY Deep Learning for Vision:  a Hands-On Tutorial with Caffe**
+
+[https://docs.google.com/presentation/d/1UeKXVgRvvxg9OUdh_UiC5G71UMscNPlvArsWER41PsU/edit#slide=id.gc2fcdcce7_216_0](https://docs.google.com/presentation/d/1UeKXVgRvvxg9OUdh_UiC5G71UMscNPlvArsWER41PsU/edit#slide=id.gc2fcdcce7_216_0)
 
 **Deep learning tutorial on Caffe technology : basic commands, Python and C++ code**
 

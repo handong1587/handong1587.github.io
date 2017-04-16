@@ -217,12 +217,6 @@ date: 2015-10-09
 
 - arxiv: [http://arxiv.org/abs/1603.01431](http://arxiv.org/abs/1603.01431)
 
-**Understanding the backward pass through Batch Normalization Layer**
-
-![](https://kratzert.github.io/images/bn_backpass/BNcircuit.png)
-
-- blog: [https://kratzert.github.io/2016/02/12/understanding-the-gradient-flow-through-the-batch-normalization-layer.html](https://kratzert.github.io/2016/02/12/understanding-the-gradient-flow-through-the-batch-normalization-layer.html)
-
 **Implementing Batch Normalization in Tensorflow**
 
 - blog: [http://r2rt.com/implementing-batch-normalization-in-tensorflow.html](http://r2rt.com/implementing-batch-normalization-in-tensorflow.html)
