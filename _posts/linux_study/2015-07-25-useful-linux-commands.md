@@ -498,8 +498,8 @@ kill -9 `cat save_pid.txt`
 
 | mode        | task                      | command   |
 |:-----------:|:-------------------------:|:-------- :|
-| normal mode | indent the current line   | type >>   |
-| normal mode | unindent the current line | type <<   |
+| normal mode | indent the current line   | type \>\> |
+| normal mode | unindent the current line | type \<\< |
 | insert mode | indent the current line   | Ctrl-T    |
 | insert mode | unindent the current line | Ctrl-D    |
 
@@ -689,5 +689,5 @@ perl -lne '$seen{$_}++ and next or print;' data.txt > output.txt
 **Exit a shell if some commands do not execute correctly**
 
 ```
-dosomething1 || exit 1
+./do_something.sh || exit 1
 ```

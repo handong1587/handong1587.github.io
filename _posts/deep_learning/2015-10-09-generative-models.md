@@ -235,6 +235,10 @@ date: 2015-10-09
 - arxiv: [https://arxiv.org/abs/1704.00028](https://arxiv.org/abs/1704.00028)
 - github: [https://github.com/igul222/improved_wgan_training](https://github.com/igul222/improved_wgan_training)
 
+**On the effect of Batch Normalization and Weight Normalization in Generative Adversarial Networks**
+
+[https://arxiv.org/abs/1704.03971](https://arxiv.org/abs/1704.03971)
+
 ## Image-to-Image Translation
 
 ### Pix2Pix

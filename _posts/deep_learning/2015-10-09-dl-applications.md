@@ -793,6 +793,13 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 - intro: Extentions of mmm 2017 paper
 - arxiv: [https://arxiv.org/abs/1703.08173](https://arxiv.org/abs/1703.08173)
 
+**Deep Laplacian Pyramid Networks for Fast and Accurate Super-Resolution**
+
+- intro: CVPR 2017
+- project page(code+dataset): [http://vllab1.ucmerced.edu/~wlai24/LapSRN/](http://vllab1.ucmerced.edu/~wlai24/LapSRN/)
+- arxiv: [https://arxiv.org/abs/1704.03915](https://arxiv.org/abs/1704.03915)
+- github(Matlab+MatConvNet): [https://github.com/phoenix104104/LapSRN](https://github.com/phoenix104104/LapSRN)
+
 ## Video Super-resolution
 
 **Detail-revealing Deep Video Super-resolution**
@@ -1154,6 +1161,13 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 
 - intro: Ghent University & Twitter
 - arxiv: [https://arxiv.org/abs/1611.09577](https://arxiv.org/abs/1611.09577)
+
+## Face Editing
+
+**Neural Face Editing with Intrinsic Image Disentangling**
+
+- intro: CVPR 2017 oral
+- arxiv: [https://arxiv.org/abs/1704.04131](https://arxiv.org/abs/1704.04131)
 
 # Person Re-identification
 

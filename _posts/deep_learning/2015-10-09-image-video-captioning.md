@@ -253,6 +253,10 @@ after the embedding and recurrent layers of the RNN."
 - arxiv: [https://arxiv.org/abs/1612.07360](https://arxiv.org/abs/1612.07360)
 - github: [https://github.com/VisionLearningGroup/caption-guided-saliency](https://github.com/VisionLearningGroup/caption-guided-saliency)
 
+**Deep Reinforcement Learning-based Image Captioning with Embedding Reward**
+
+[https://arxiv.org/abs/1704.03899](https://arxiv.org/abs/1704.03899)
+
 # Object Descriptions
 
 **Generation and Comprehension of Unambiguous Object Descriptions**

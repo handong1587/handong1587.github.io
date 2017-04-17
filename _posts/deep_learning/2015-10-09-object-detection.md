@@ -507,6 +507,10 @@ Continuation of [arXiv:1608.08021](https://arxiv.org/abs/1608.08021)
 - paper: [http://abhinavsh.info/papers/pdfs/adversarial_object_detection.pdf](http://abhinavsh.info/papers/pdfs/adversarial_object_detection.pdf)
 - github(Caffe): [https://github.com/xiaolonw/adversarial-frcnn](https://github.com/xiaolonw/adversarial-frcnn)
 
+**Spatial Memory for Context Reasoning in Object Detection**
+
+- arxiv: [https://arxiv.org/abs/1704.04224](https://arxiv.org/abs/1704.04224)
+
 # Detection From Video
 
 **Learning Object Class Detectors from Weakly Annotated Video**
