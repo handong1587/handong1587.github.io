@@ -22,6 +22,7 @@ date: 2015-10-09
 
 ![](http://sites.skoltech.ru/app/data/uploads/sites/25/2014/11/example-e1404721339557.png)
 
+- intro: ECCV 2014
 - project page: [http://sites.skoltech.ru/compvision/projects/neuralcodes/](http://sites.skoltech.ru/compvision/projects/neuralcodes/)
 - arxiv: [http://arxiv.org/abs/1404.1777](http://arxiv.org/abs/1404.1777)
 - github: [https://github.com/arbabenko/Spoc](https://github.com/arbabenko/Spoc)
@@ -30,28 +31,11 @@ date: 2015-10-09
 
 - arxiv: [http://arxiv.org/abs/1407.4764](http://arxiv.org/abs/1407.4764)
 
-**Hashing by Deep Learning**
-
-- intro: IBM T. J. Watson Research Center
-- paper: [http://www.ee.columbia.edu/~wliu/WeiLiu_DLHash.pdf](http://www.ee.columbia.edu/~wliu/WeiLiu_DLHash.pdf)
-
-**Deep Learning of Binary Hash Codes for Fast Image Retrieval**
-
-- intro: CVPR Workshop 2015
-- intro: MNIST, CIFAR-10, Yahoo-1M
-- paper: [http://www.iis.sinica.edu.tw/~kevinlin311.tw/cvprw15.pdf](http://www.iis.sinica.edu.tw/~kevinlin311.tw/cvprw15.pdf)
-- github: [https://github.com/kevinlin311tw/caffe-cvprw15](https://github.com/kevinlin311tw/caffe-cvprw15)
-
 **Learning visual similarity for product design with convolutional neural networks**
 
 - intro: SIGGRAPH 2015
 - paper: [http://www.cs.cornell.edu/~kb/publications/SIG15ProductNet.pdf](http://www.cs.cornell.edu/~kb/publications/SIG15ProductNet.pdf)
 - paper: [http://dl.acm.org.sci-hub.cc/citation.cfm?doid=2809654.2766959](http://dl.acm.org.sci-hub.cc/citation.cfm?doid=2809654.2766959)
-
-**Deep Semantic Ranking Based Hashing for Multi-Label Image Retrieval**
-
-- intro: CVPR 2015
-- arxiv: [http://arxiv.org/abs/1501.06272](http://arxiv.org/abs/1501.06272)
 
 **Exploiting Local Features from Deep Networks for Image Retrieval**
 
@@ -304,6 +288,83 @@ and from 73.8% to 83.1% for ResNet-50
 - arxiv: [https://arxiv.org/abs/1704.00763](https://arxiv.org/abs/1704.00763)
 - github: [https://github.com/kanchen-usc/amc_att](https://github.com/kanchen-usc/amc_att)
 
+# Hashing
+
+**Supervised Hashing for Image Retrieval via Image Representation Learning**
+
+- intro: AAAI 2014. Sun Yat-Sen University & National University of Singapore
+- keywords: CNNH (Convolutional Neural Network Hashing)
+- paper: [www.aaai.org/ocs/index.php/AAAI/AAAI14/paper/download/8137/8861](www.aaai.org/ocs/index.php/AAAI/AAAI14/paper/download/8137/8861)
+- slides: [https://pdfs.semanticscholar.org/f633/8f23860f9c4808586bbc7e8907d33836147f.pdf](https://pdfs.semanticscholar.org/f633/8f23860f9c4808586bbc7e8907d33836147f.pdf)
+
+**Simultaneous Feature Learning and Hash Coding with Deep Neural Networks**
+
+- intro: CVPR 2015. Sun Yat-Sen University & National University of Singapore
+- keywords: NINH (NIN Hashing), DNNH (Deep Neural Network Hashing)
+- arxiv: [https://arxiv.org/abs/1504.03410](https://arxiv.org/abs/1504.03410)
+- paper: [http://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Lai_Simultaneous_Feature_Learning_2015_CVPR_paper.pdf](http://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Lai_Simultaneous_Feature_Learning_2015_CVPR_paper.pdf)
+
+**Hashing by Deep Learning**
+
+- intro: IBM T. J. Watson Research Center
+- paper: [http://www.ee.columbia.edu/~wliu/WeiLiu_DLHash.pdf](http://www.ee.columbia.edu/~wliu/WeiLiu_DLHash.pdf)
+
+**Deep Semantic Ranking Based Hashing for Multi-Label Image Retrieval**
+
+- intro: CVPR 2015. DSRH (Deep Semantic Ranking Hashing)
+- arxiv: [http://arxiv.org/abs/1501.06272](http://arxiv.org/abs/1501.06272)
+
+**Deep Learning of Binary Hash Codes for Fast Image Retrieval**
+
+- intro: CVPR Workshop 2015
+- keywords: MNIST, CIFAR-10, Yahoo-1M. DLBHC (Deep Learning of Binary Hash Codes)
+- paper: [http://www.iis.sinica.edu.tw/~kevinlin311.tw/cvprw15.pdf](http://www.iis.sinica.edu.tw/~kevinlin311.tw/cvprw15.pdf)
+- github: [https://github.com/kevinlin311tw/caffe-cvprw15](https://github.com/kevinlin311tw/caffe-cvprw15)
+
+**Bit-Scalable Deep Hashing with Regularized Similarity Learning for Image Retrieval and Person Re-identification**
+
+- intro: IEEE Transactions on Image Processing 2015
+- keywords: DRSCH (Deep Regularized Similarity Comparison Hashing)
+- project page: [http://vision.sysu.edu.cn/projects/deephashing/](http://vision.sysu.edu.cn/projects/deephashing/)
+- arxiv: [https://arxiv.org/abs/1508.04535](https://arxiv.org/abs/1508.04535)
+- github: [https://github.com/ruixuejianfei/BitScalableDeepHash](https://github.com/ruixuejianfei/BitScalableDeepHash)
+
+**Deep Supervised Hashing for Fast Image Retrieval**
+
+- intro: CVPR 2016
+- keywords: DSH (Deep Supervised Hashing)
+- paper: [http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Liu_Deep_Supervised_Hashing_CVPR_2016_paper.pdf](http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Liu_Deep_Supervised_Hashing_CVPR_2016_paper.pdf)
+- paper: [http://www.jdl.ac.cn/doc/2011/201711214443668218_deep%20supervised%20hashing%20for%20fast%20image%20retrieval_cvpr2016.pdf](http://www.jdl.ac.cn/doc/2011/201711214443668218_deep%20supervised%20hashing%20for%20fast%20image%20retrieval_cvpr2016.pdf)
+- github: [https://github.com/lhmRyan/deep-supervised-hashing-DSH](https://github.com/lhmRyan/deep-supervised-hashing-DSH)
+
+**Deep Hashing Network for Efficient Similarity Retrieval**
+
+- intro: AAAI 2016
+- paper: [http://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/view/12039](http://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/view/12039)
+
+**Feature Learning based Deep Supervised Hashing with Pairwise Labels**
+
+- intro: IJCAI 2016
+- arxiv: [https://arxiv.org/abs/1511.03855](https://arxiv.org/abs/1511.03855)
+- paper: [https://www.ijcai.org/Proceedings/16/Papers/245.pdf](https://www.ijcai.org/Proceedings/16/Papers/245.pdf)
+- paper: [https://cs.nju.edu.cn/lwj/paper/IJCAI16_DPSH.pdf](https://cs.nju.edu.cn/lwj/paper/IJCAI16_DPSH.pdf)
+
+**Deep Cross-Modal Hashing**
+
+[https://arxiv.org/abs/1602.02255](https://arxiv.org/abs/1602.02255)
+
+**Learning to Hash**
+
+- blog: [https://cs.nju.edu.cn/lwj/L2H.html](https://cs.nju.edu.cn/lwj/L2H.html)
+
+## Projects
+
+**HABIR哈希图像检索工具箱**
+
+- intro: Various hashing methods for image retrieval and serves as the baselines
+- blog: [http://yongyuan.name/habir/](http://yongyuan.name/habir/)
+- github: [https://github.com/willard-yuan/hashing-baseline-for-image-retrieval](https://github.com/willard-yuan/hashing-baseline-for-image-retrieval)
+
 # Video Indexing / Retrieval
 
 **Face Video Retrieval via Deep Learning of Binary Hash Representations**
@@ -381,6 +442,14 @@ UKB
 **ImageNet-YahooQA**
 
 # Projects
+
+**图像检索：CNN卷积神经网络与实战**
+
+**CNN for Image Retrieval**
+
+- blog: [http://yongyuan.name/blog/CBIR-CNN-and-practice.html](http://yongyuan.name/blog/CBIR-CNN-and-practice.html)
+- github: [https://github.com/willard-yuan/CNN-for-Image-Retrieval](https://github.com/willard-yuan/CNN-for-Image-Retrieval)
+- demo: [http://yongyuan.name/pic/](http://yongyuan.name/pic/)
 
 **Visual Search Server**
 
