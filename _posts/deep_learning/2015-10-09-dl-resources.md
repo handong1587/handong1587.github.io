@@ -1267,7 +1267,10 @@ with fast exact probabilistic inference over many layers."
 - intro: CnnForAndroid:A Classification Project using Convolutional Neural Network(CNN) in Android platform。It also support Caffe Model
 - github: [https://github.com/zhangqianhui/CnnForAndroid](https://github.com/zhangqianhui/CnnForAndroid)
 
-**Mobilenets: Efficient convolutional neural networks for mobile vision applications**
+**MobileNets: Efficient Convolutional Neural Networks for Mobile Vision Applications**
+
+- intro: Google
+- arxiv: [https://arxiv.org/abs/1704.04861](https://arxiv.org/abs/1704.04861)
 
 **TensorFlow on Android**
 

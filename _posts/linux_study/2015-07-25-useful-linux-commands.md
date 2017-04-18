@@ -497,7 +497,7 @@ kill -9 `cat save_pid.txt`
 [http://vim.wikia.com/wiki/Shifting_blocks_visually](http://vim.wikia.com/wiki/Shifting_blocks_visually)
 
 | mode        | task                      | command   |
-|:-----------:|:-------------------------:|:-------- :|
+|:-----------:|:-------------------------:|:---------:|
 | normal mode | indent the current line   | type \>\> |
 | normal mode | unindent the current line | type \<\< |
 | insert mode | indent the current line   | Ctrl-T    |

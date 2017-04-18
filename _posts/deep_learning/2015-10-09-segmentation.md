@@ -613,6 +613,11 @@ with built-in awareness of semantically meaningful boundaries. "
 
 # Specific Segmentation
 
+**A CNN Cascade for Landmark Guided Semantic Part Segmentation**
+
+- project page: [http://aaronsplace.co.uk/](http://aaronsplace.co.uk/)
+- paper: [https://aaronsplace.co.uk/papers/jackson2016guided/jackson2016guided.pdf](https://aaronsplace.co.uk/papers/jackson2016guided/jackson2016guided.pdf)
+
 **End-to-end semantic face segmentation with conditional random fields as convolutional, recurrent and adversarial networks**
 
 - arxiv: [https://arxiv.org/abs/1703.03305](https://arxiv.org/abs/1703.03305)
