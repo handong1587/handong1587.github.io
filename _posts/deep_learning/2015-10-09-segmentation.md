@@ -80,6 +80,11 @@ date: 2015-10-09
 - arxiv: [https://arxiv.org/abs/1703.04363](https://arxiv.org/abs/1703.04363)
 - demo: [https://gyglim.github.io/deep-value-net/](https://gyglim.github.io/deep-value-net/)
 
+**Annotating Object Instances with a Polygon-RNN**
+
+- intro: CVPR 2017
+- arxiv: [https://arxiv.org/abs/1704.05548](https://arxiv.org/abs/1704.05548)
+
 # Foreground Object Segmentation
 
 **Pixel Objectness**
@@ -784,6 +789,10 @@ ranked 1st place in ImageNet Scene Parsing Challenge 2016
 **Semantically-Guided Video Object Segmentation**
 
 [https://arxiv.org/abs/1704.01926](https://arxiv.org/abs/1704.01926)
+
+**Learning Video Object Segmentation with Visual Memory**
+
+[https://arxiv.org/abs/1704.05737](https://arxiv.org/abs/1704.05737)
 
 ## Challenge
 

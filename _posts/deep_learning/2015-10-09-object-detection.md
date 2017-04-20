@@ -511,6 +511,22 @@ Continuation of [arXiv:1608.08021](https://arxiv.org/abs/1608.08021)
 
 - arxiv: [https://arxiv.org/abs/1704.04224](https://arxiv.org/abs/1704.04224)
 
+**Improving Object Detection With One Line of Code**
+
+- intro: Soft-NMS
+- arxiv: [https://arxiv.org/abs/1704.04503](https://arxiv.org/abs/1704.04503)
+- github: [https://github.com/bharatsingh430/soft-nms](https://github.com/bharatsingh430/soft-nms)
+
+**Accurate Single Stage Detector Using Recurrent Rolling Convolution**
+
+- intro: CVPR 2017
+- arxiv: [https://arxiv.org/abs/1704.05776](https://arxiv.org/abs/1704.05776)
+- github: [https://github.com/xiaohaoChen/rrc_detection](https://github.com/xiaohaoChen/rrc_detection)
+
+**Deep Occlusion Reasoning for Multi-Camera Multi-Target Detection**
+
+[https://arxiv.org/abs/1704.05775](https://arxiv.org/abs/1704.05775)
+
 # Detection From Video
 
 **Learning Object Class Detectors from Weakly Annotated Video**

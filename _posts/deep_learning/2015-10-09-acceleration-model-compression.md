@@ -136,6 +136,12 @@ to decompose it into the multiplications of thinned dense matrices"
 - arxiv: [http://arxiv.org/abs/1510.00149](http://arxiv.org/abs/1510.00149)
 - video: [http://videolectures.net/iclr2016_han_deep_compression/](http://videolectures.net/iclr2016_han_deep_compression/)
 
+**Structured Transforms for Small-Footprint Deep Learning**
+
+- intro: NIPS 2015
+- arxiv: [https://arxiv.org/abs/1510.01722](https://arxiv.org/abs/1510.01722)
+- paper: [https://papers.nips.cc/paper/5869-structured-transforms-for-small-footprint-deep-learning](https://papers.nips.cc/paper/5869-structured-transforms-for-small-footprint-deep-learning)
+
 **ZNN - A Fast and Scalable Algorithm for Training 3D Convolutional Networks on Multi-Core and Many-Core Shared Memory Machines**
 
 - arxiv: [http://arxiv.org/abs/1510.06706](http://arxiv.org/abs/1510.06706)
@@ -253,6 +259,10 @@ while maintaining state-of-the-art accuracy. For GoogLeNet, our model has 7% few
 **Learning Structured Sparsity in Deep Neural Networks**
 
 - arxiv: [http://arxiv.org/abs/1608.03665](http://arxiv.org/abs/1608.03665)
+
+**Design of Efficient Convolutional Layers using Single Intra-channel Convolution, Topological Subdivisioning and Spatial "Bottleneck" Structure**
+
+[https://arxiv.org/abs/1608.04337](https://arxiv.org/abs/1608.04337)
 
 **Dynamic Network Surgery for Efficient DNNs**
 

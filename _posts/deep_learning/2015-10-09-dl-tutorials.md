@@ -586,8 +586,6 @@ Machine learning workflow, Extracting feaures from images (colours, edges, corne
 
 **How convolutional neural networks see the world: An exploration of convnet filters with Keras**
 
-![](https://blog.keras.io/img/vgg16_filters_overview.jpg)
-
 - blog: [https://blog.keras.io/how-convolutional-neural-networks-see-the-world.html](https://blog.keras.io/how-convolutional-neural-networks-see-the-world.html)
 
 **One by One [ 1 x 1 ] Convolution - counter-intuitively useful**

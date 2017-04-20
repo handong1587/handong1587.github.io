@@ -648,6 +648,11 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 - intro: Seoul National University
 - arxiv: [https://arxiv.org/abs/1701.06190](https://arxiv.org/abs/1701.06190)
 
+**Generative Face Completion**
+
+- intro: CVPR 2017
+- arxiv: [https://arxiv.org/abs/1704.05838](https://arxiv.org/abs/1704.05838)
+
 # Image Super-Resolution
 
 **Super-Resolution.Benckmark**
