@@ -15,6 +15,14 @@ date: 2016-06-02
 
 - blog: [http://blog.deepgram.com/how-to-get-a-job-in-deep-learning/](http://blog.deepgram.com/how-to-get-a-job-in-deep-learning/)
 
+**Alternatives to a Degree to Prove Yourself in Deep Learning**
+
+[http://www.fast.ai/2017/04/06/alternatives/](http://www.fast.ai/2017/04/06/alternatives/)
+
+**40 Questions to test a data scientist on Deep Learning [Solution: SkillPower – Deep Learning, DataFest 2017]**
+
+[https://www.analyticsvidhya.com/blog/2017/04/40-questions-test-data-scientist-deep-learning/](https://www.analyticsvidhya.com/blog/2017/04/40-questions-test-data-scientist-deep-learning/)
+
 # Machine Learning
 
 **What are the best interview questions to evaluate a machine learning researcher?**
