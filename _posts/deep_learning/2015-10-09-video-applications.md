@@ -321,6 +321,12 @@ extract saptio-temporal features to represent the video using the CNNs."
 
 [https://arxiv.org/abs/1703.10664](https://arxiv.org/abs/1703.10664)
 
+**Temporal Action Detection with Structured Segment Networks**
+
+- project page: [http://yjxiong.me/others/ssn/](http://yjxiong.me/others/ssn/)
+- arxiv: [https://arxiv.org/abs/1704.06228](https://arxiv.org/abs/1704.06228)
+- github: [https://github.com/yjxiong/action-detection](https://github.com/yjxiong/action-detection)
+
 ### Projects
 
 **A Torch Library for Action Recognition and Detection Using CNNs and LSTMs**
