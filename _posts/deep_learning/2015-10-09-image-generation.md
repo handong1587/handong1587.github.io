@@ -168,6 +168,11 @@ date: 2015-10-09
 
 - arxiv: [https://arxiv.org/abs/1701.01876](https://arxiv.org/abs/1701.01876)
 
+**Multi-View Image Generation from a Single-View**
+
+- intro: Southwest Jiaotong University & National University of Singapore
+- arxiv: [https://arxiv.org/abs/1704.04886](https://arxiv.org/abs/1704.04886)
+
 # Deep Generative Model
 
 **Digit Fantasies by a Deep Generative Model**

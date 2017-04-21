@@ -131,6 +131,20 @@ joint classification, detection and semantic segmentation via a unified architec
 - intro: UC Berkeley
 - arxiv: [https://arxiv.org/abs/1703.10631](https://arxiv.org/abs/1703.10631)
 
+**Virtual to Real Reinforcement Learning for Autonomous Driving**
+
+- intro: Shanghai Jiao Tong University & UC Berkeley & Tsinghua University
+- arxiv: [https://arxiv.org/abs/1704.03952](https://arxiv.org/abs/1704.03952)
+
+**Computer Vision for Autonomous Vehicles: Problems, Datasets and State-of-the-Art**
+
+- homepage: [http://www.cvlibs.net/projects/autonomous_vision_survey/](http://www.cvlibs.net/projects/autonomous_vision_survey/)
+- arxiv: [https://arxiv.org/abs/1704.05519](https://arxiv.org/abs/1704.05519)
+
+**Deep Reinforcement Learning framework for Autonomous Driving**
+
+[https://arxiv.org/abs/1704.02532](https://arxiv.org/abs/1704.02532)
+
 # Projects
 
 **Caffe-Autopilot: Car autopilot software that uses C++, BVLC Caffe, OpenCV, and SFML**

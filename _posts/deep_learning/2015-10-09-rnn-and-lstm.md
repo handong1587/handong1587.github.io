@@ -187,6 +187,12 @@ date: 2015-10-09
 
 - blog: [http://smerity.com/articles/2016/orthogonal_init.html](http://smerity.com/articles/2016/orthogonal_init.html)
 
+**Professor Forcing: A New Algorithm for Training Recurrent Networks**
+
+- intro: NIPS 2016
+- arxiv: [https://arxiv.org/abs/1610.09038](https://arxiv.org/abs/1610.09038)
+- github: [https://github.com/anirudh9119/LM_GANS](https://github.com/anirudh9119/LM_GANS)
+
 **Phased LSTM: Accelerating Recurrent Network Training for Long or Event-based Sequences**
 
 - intro: Selected for an oral presentation at NIPS, 2016
@@ -441,6 +447,13 @@ date: 2015-10-09
 - github: [https://github.com/opennmt/im2text](https://github.com/opennmt/im2text)
 - github: [https://github.com/ritheshkumar95/im2latex-tensorflow](https://github.com/ritheshkumar95/im2latex-tensorflow)
 
+**Hybrid computing using a neural network with dynamic external memory**
+
+- intro: Nature 2016
+- keywords: Differentiable Neural Computer (DNC)
+[https://www.nature.com/articles/nature20101.epdf?author_access_token=ImTXBI8aWbYxYQ51Plys8NRgN0jAjWel9jnR3ZoTv0MggmpDmwljGswxVdeocYSurJ3hxupzWuRNeGvvXnoO8o4jTJcnAyhGuZzXJ1GEaD-Z7E6X_a9R-xqJ9TfJWBqz](https://www.nature.com/articles/nature20101.epdf?author_access_token=ImTXBI8aWbYxYQ51Plys8NRgN0jAjWel9jnR3ZoTv0MggmpDmwljGswxVdeocYSurJ3hxupzWuRNeGvvXnoO8o4jTJcnAyhGuZzXJ1GEaD-Z7E6X_a9R-xqJ9TfJWBqz)
+- github: [https://github.com/deepmind/dnc](https://github.com/deepmind/dnc)
+
 ## LSTMVis
 
 **Visual Analysis of Hidden State Dynamics in Recurrent Neural Networks**
@@ -462,8 +475,6 @@ date: 2015-10-09
 - author: Julian Georg Zilly, Rupesh Kumar Srivastava, Jan Koutník, Jürgen Schmidhuber
 - arxiv: [http://arxiv.org/abs/1607.03474](http://arxiv.org/abs/1607.03474)
 - github(Tensorflow+Torch): [https://github.com/julian121266/RecurrentHighwayNetworks/](https://github.com/julian121266/RecurrentHighwayNetworks/)
-
-## DeepSoft
 
 **DeepSoft: A vision for a deep model of software**
 
@@ -526,6 +537,10 @@ date: 2015-10-09
 - intro: ICLR 2017 Workshop
 - arxiv: [https://arxiv.org/abs/1703.10722](https://arxiv.org/abs/1703.10722)
 - github: [https://github.com/okuchaiev/f-lm](https://github.com/okuchaiev/f-lm)
+
+**Bayesian Recurrent Neural Networks**
+
+[https://arxiv.org/abs/1704.02798](https://arxiv.org/abs/1704.02798)
 
 # Projects
 

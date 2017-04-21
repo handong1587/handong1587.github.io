@@ -487,6 +487,11 @@ Incorporates dropout regularization and convolutional neural networks with a sep
 - intro: CMU & Google Brain & Google Research
 - arxiv: [https://arxiv.org/abs/1703.02702](https://arxiv.org/abs/1703.02702)
 
+**Beating Atari with Natural Language Guided Reinforcement Learning**
+
+- intro: Stanford University
+- arxiv: [https://arxiv.org/abs/1704.05539](https://arxiv.org/abs/1704.05539)
+
 ## Playing Doom
 
 **ViZDoom: A Doom-based AI Research Platform for Visual Reinforcement Learning**
@@ -684,6 +689,10 @@ The project is dedicated to hero in life great Jesse Livermore.
 **Tensorflow-RL: Implementations of deep RL papers and random experimentation**
 
 [https://github.com/steveKapturowski/tensorflow-rl](https://github.com/steveKapturowski/tensorflow-rl)
+
+**Minimal and Clean Reinforcement Learning Examples**
+
+[https://github.com/rlcode/reinforcement-learning](https://github.com/rlcode/reinforcement-learning)
 
 ## Play Flappy Bird
 

@@ -279,7 +279,13 @@ date: 2015-10-09
 
 **Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks**
 
-[https://arxiv.org/abs/1703.10593](https://arxiv.org/abs/1703.10593)
+- arxiv: [https://arxiv.org/abs/1703.10593](https://arxiv.org/abs/1703.10593)
+- github(Chainer): [https://github.com/Aixile/chainer-cyclegan](https://github.com/Aixile/chainer-cyclegan)
+
+**CycleGAN and pix2pix in PyTorch**
+
+- intro: Image-to-image translation in PyTorch (e.g. horse2zebra, edges2cats, and more)
+- github: [https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix)
 
 # Projects
 

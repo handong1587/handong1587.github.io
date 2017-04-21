@@ -535,6 +535,10 @@ Machine learning workflow, Extracting feaures from images (colours, edges, corne
 - blog: [https://insights.untapt.com/fundamental-deep-learning-code-in-tflearn-keras-theano-and-tensorflow-66be10a03227#.hoaw8fp9p](https://insights.untapt.com/fundamental-deep-learning-code-in-tflearn-keras-theano-and-tensorflow-66be10a03227#.hoaw8fp9p)
 - slides: [https://static1.squarespace.com/static/5362fa11e4b035b5651b7f7e/t/588fb378cd0f687201a2e317/1485812622873/Jon_Krohn_NYHackR_Deep_Learning_2017_01_30.pdf](https://static1.squarespace.com/static/5362fa11e4b035b5651b7f7e/t/588fb378cd0f687201a2e317/1485812622873/Jon_Krohn_NYHackR_Deep_Learning_2017_01_30.pdf)
 
+**Deep Neural Network from scratch**
+
+[https://matrices.io/deep-neural-network-from-scratch/](https://matrices.io/deep-neural-network-from-scratch/)
+
 # Convolution
 
 ![](/assets/cnn-materials/conv.jpg)
@@ -919,6 +923,10 @@ Implementations and ideas are largely based on papers from arxiv and implementat
 
 - blog: [https://blog.mindorks.com/android-tensorflow-machine-learning-example-ff0e9b2654cc#.ysg0ss9r2](https://blog.mindorks.com/android-tensorflow-machine-learning-example-ff0e9b2654cc#.ysg0ss9r2)
 - github: [https://github.com/MindorksOpenSource/AndroidTensorFlowMachineLearningExample](https://github.com/MindorksOpenSource/AndroidTensorFlowMachineLearningExample)
+
+**TensorFlow and Deep Learning Tutorials**
+
+[https://github.com/wagamamaz/tensorflow-tutorial](https://github.com/wagamamaz/tensorflow-tutorial)
 
 # Torch
 

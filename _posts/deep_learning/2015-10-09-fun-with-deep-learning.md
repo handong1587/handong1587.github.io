@@ -275,6 +275,7 @@ Compressed model is less than 500KB
 
 - arxiv: [https://arxiv.org/abs/1703.07511](https://arxiv.org/abs/1703.07511)
 - github(Torch): [https://github.com/luanfujun/deep-photo-styletransfer](https://github.com/luanfujun/deep-photo-styletransfer)
+- github(Docker): [https://github.com/martinbenson/deep-photo-styletransfer](https://github.com/martinbenson/deep-photo-styletransfer)
 
 **Lightweight Neural Style on Pytorch**
 
@@ -565,6 +566,11 @@ Compressed model is less than 500KB
 
 [https://arxiv.org/abs/1703.10881](https://arxiv.org/abs/1703.10881)
 
+**A Neural Representation of Sketch Drawings**
+
+- intro: Google Brain
+- arxiv: [https://arxiv.org/abs/1704.03477](https://arxiv.org/abs/1704.03477)
+
 # Sounds
 
 **Visually Indicated Sounds**
@@ -804,6 +810,11 @@ further original research into a small, easy to use graphical interface.
 
 - blog: [http://blog.yhat.com/posts/deep-learning-chess.html](http://blog.yhat.com/posts/deep-learning-chess.html)
 - github: [https://github.com/erikbern/deep-pink](https://github.com/erikbern/deep-pink)
+
+**DeepChess: End-to-End Deep Neural Network for Automatic Learning in Chess**
+
+- paper: [http://www.cs.tau.ac.il/~wolf/papers/deepchess.pdf](http://www.cs.tau.ac.il/~wolf/papers/deepchess.pdf)
+- github: [https://github.com/mr-press/DeepChess](https://github.com/mr-press/DeepChess)
 
 # Game
 

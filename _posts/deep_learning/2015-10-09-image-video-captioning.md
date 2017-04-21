@@ -255,7 +255,8 @@ after the embedding and recurrent layers of the RNN."
 
 **Deep Reinforcement Learning-based Image Captioning with Embedding Reward**
 
-[https://arxiv.org/abs/1704.03899](https://arxiv.org/abs/1704.03899)
+- intro: Snap Inc & Google Inc
+- arxiv: [https://arxiv.org/abs/1704.03899](https://arxiv.org/abs/1704.03899)
 
 # Object Descriptions
 

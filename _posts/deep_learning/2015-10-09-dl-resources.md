@@ -312,6 +312,12 @@ not just the convolutions)
 
 - blog: [http://www.kdnuggets.com/2016/07/semi-supervised-feature-transfer-deep-learning.html](http://www.kdnuggets.com/2016/07/semi-supervised-feature-transfer-deep-learning.html)
 
+**Temporal Ensembling for Semi-Supervised Learning**
+
+- intro: ICLR 2017
+- arxiv: [https://arxiv.org/abs/1610.02242](https://arxiv.org/abs/1610.02242)
+- github: [https://github.com/smlaine2/tempens](https://github.com/smlaine2/tempens)
+
 **Semi-supervised Knowledge Transfer for Deep Learning from Private Training Data**
 
 - intro: ICLR 2017 best paper award
@@ -1271,6 +1277,7 @@ with fast exact probabilistic inference over many layers."
 
 - intro: Google
 - arxiv: [https://arxiv.org/abs/1704.04861](https://arxiv.org/abs/1704.04861)
+- github: [https://github.com/rcmalli/keras-mobilenet](https://github.com/rcmalli/keras-mobilenet)
 
 **TensorFlow on Android**
 
@@ -1994,6 +2001,7 @@ It is based on Facebook's TorchCraft, which is a bridge between Torch and StarCr
 - intro: Extreme Inception
 - arxiv: [https://arxiv.org/abs/1610.02357](https://arxiv.org/abs/1610.02357)
 - code(Keras): [https://keras.io/applications/#xception](https://keras.io/applications/#xception)
+- github(Keras): [https://github.com/fchollet/deep-learning-models/blob/master/xception.py](https://github.com/fchollet/deep-learning-models/blob/master/xception.py)
 - github: [https://gist.github.com/culurciello/554c8e56d3bbaf7c66bf66c6089dc221](https://gist.github.com/culurciello/554c8e56d3bbaf7c66bf66c6089dc221)
 - notes: [http://www.shortscience.org/paper?bibtexKey=journals%2Fcorr%2F1610.02357](http://www.shortscience.org/paper?bibtexKey=journals%2Fcorr%2F1610.02357)
 
@@ -2043,6 +2051,7 @@ It is based on Facebook's TorchCraft, which is a bridge between Torch and StarCr
 - intro: Google DeepMind
 - arxiv: [https://arxiv.org/abs/1605.06065](https://arxiv.org/abs/1605.06065)
 - github(Tensorflow): [https://github.com/hmishra2250/NTM-One-Shot-TF](https://github.com/hmishra2250/NTM-One-Shot-TF)
+- note: [http://rylanschaeffer.github.io/content/research/one_shot_learning_with_memory_augmented_nn/main.html](http://rylanschaeffer.github.io/content/research/one_shot_learning_with_memory_augmented_nn/main.html)
 
 **Matching Networks for One Shot Learning**
 
@@ -2059,6 +2068,14 @@ It is based on Facebook's TorchCraft, which is a bridge between Torch and StarCr
 
 - intro: Indian Institute of Science
 - arxiv: [https://arxiv.org/abs/1703.08033](https://arxiv.org/abs/1703.08033)
+
+## Few-Shot Learning
+
+**Optimization as a Model for Few-Shot Learning**
+
+- intro: Twitter
+- paper: [https://openreview.net/pdf?id=rJY0-Kcll](https://openreview.net/pdf?id=rJY0-Kcll)
+- github: [https://github.com/twitter/meta-learning-lstm](https://github.com/twitter/meta-learning-lstm)
 
 ## Incremental Learning
 
@@ -2512,6 +2529,11 @@ feed-forward neural nets and deep learning.
 
 - github: [https://github.com/endymecy/awesome-deeplearning-resources](https://github.com/endymecy/awesome-deeplearning-resources)
 
+**awesome-deep-vision-web-demo**
+
+- intro: A curated list of awesome deep vision web demo
+- github: [https://github.com/hwalsuklee/awesome-deep-vision-web-demo](https://github.com/hwalsuklee/awesome-deep-vision-web-demo)
+
 ## Arxiv Pages
 
 **Neural and Evolutionary Computing**
@@ -2566,6 +2588,10 @@ feed-forward neural nets and deep learning.
 **Deep Learning Studio: Cloud platform for designing Deep Learning AI without programming**
 
 [http://deepcognition.ai/](http://deepcognition.ai/)
+
+**cuda-on-cl: Build NVIDIA® CUDA™ code for OpenCL™ 1.2 devices**
+
+- github: [https://github.com/hughperkins/cuda-on-cl](https://github.com/hughperkins/cuda-on-cl)
 
 # Books
 

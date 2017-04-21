@@ -515,6 +515,11 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 
 - arxiv: [https://arxiv.org/abs/1702.01638](https://arxiv.org/abs/1702.01638)
 
+**CERN: Confidence-Energy Recurrent Network for Group Activity Recognition**
+
+- intro: CVPR 2017
+- arxiv: [https://arxiv.org/abs/1704.03058](https://arxiv.org/abs/1704.03058)
+
 # Music / Sound Classification
 
 **Explaining Deep Convolutional Neural Networks on Music Classification**
@@ -1172,6 +1177,7 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 **Neural Face Editing with Intrinsic Image Disentangling**
 
 - intro: CVPR 2017 oral
+- project page: [http://www3.cs.stonybrook.edu/~cvl/content/neuralface/neuralface.html](http://www3.cs.stonybrook.edu/~cvl/content/neuralface/neuralface.html)
 - arxiv: [https://arxiv.org/abs/1704.04131](https://arxiv.org/abs/1704.04131)
 
 # Person Re-identification

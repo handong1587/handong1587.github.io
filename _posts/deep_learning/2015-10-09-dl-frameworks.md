@@ -120,12 +120,14 @@ in particular Intel® Xeon processors (HSW+) and Intel® Xeon Phi processors
 
 # Caffe2
 
-**Caffe2**
+**Caffe2: A New Lightweight, Modular, and Scalable Deep Learning Framework**
 
 - intro: Caffe2 is a deep learning framework made with expression, speed, and modularity in mind. 
 It is an experimental refactoring of Caffe, and allows a more flexible way to organize computation.
+- homepage: [https://caffe2.ai/](https://caffe2.ai/)
 - github [https://github.com/caffe2/caffe2](https://github.com/caffe2/caffe2)
 - github [https://github.com/Yangqing/caffe2](https://github.com/Yangqing/caffe2)
+- model zoo: [https://caffe2.ai/docs/zoo.html](https://caffe2.ai/docs/zoo.html)
 
 # CDNN2
 

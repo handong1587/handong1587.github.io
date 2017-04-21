@@ -344,6 +344,11 @@ extract saptio-temporal features to represent the video using the CNNs."
 - github: [https://github.com/guillaume-chevalier/LSTM-Human-Activity-Recognition/](https://github.com/guillaume-chevalier/LSTM-Human-Activity-Recognition/)
 - github(MXNet): [https://github.com/Ldpe2G/DeepLearningForFun/tree/master/Mxnet-Scala/HumanActivityRecognition](https://github.com/Ldpe2G/DeepLearningForFun/tree/master/Mxnet-Scala/HumanActivityRecognition)
 
+**Scanner: Efficient Video Analysis at Scale**
+
+- intro: Locate and recognize faces in a video, Detect shots in a film, Search videos by image
+- github: [https://github.com/scanner-research/scanner](https://github.com/scanner-research/scanner)
+
 # Event Recognition
 
 **TagBook: A Semantic Video Representation without Supervision for Event Detection**

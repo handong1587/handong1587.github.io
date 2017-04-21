@@ -252,6 +252,16 @@ date: 2015-10-09
 - demo: [http://auduno.github.io/clmtrackr/examples/clm_emotiondetection.html](http://auduno.github.io/clmtrackr/examples/clm_emotiondetection.html)
 - demo: [http://auduno.com/post/84214587523/twisting-faces](http://auduno.com/post/84214587523/twisting-faces)
 
+**DeepLogo**
+
+- intro: A brand logo recognition system using deep convolutional neural networks.
+- github: [https://github.com/satojkovic/DeepLogo](https://github.com/satojkovic/DeepLogo)
+
+**Deep-Leafsnap**
+
+- intro: LeafSnap replicated using deep neural networks to test accuracy compared to traditional computer vision methods.
+- github: [https://github.com/sujithv28/Deep-Leafsnap](https://github.com/sujithv28/Deep-Leafsnap)
+
 ### Datasets / Benchmarks
 
 **The MegaFace Benchmark: 1 Million Faces for Recognition at Scale**

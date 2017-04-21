@@ -17,6 +17,13 @@ date: 2015-10-09
 
 [http://www.cs.waikato.ac.nz/ml/weka/book.html](http://www.cs.waikato.ac.nz/ml/weka/book.html)
 
+# Porjects
+
+**PyClustering**
+
+- intro: pyclustring is a Python, C++ data mining (clustering, graph coloring algorithms, oscillatory networks, neural networks, etc.) library.
+- github: [https://github.com/annoviko/pyclustering](https://github.com/annoviko/pyclustering)
+
 # Blogs
 
 **Data Mining in Python: A Guide**

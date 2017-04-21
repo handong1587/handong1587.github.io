@@ -164,11 +164,12 @@ date: 2015-10-09
 - github: [https://github.com/ShaoqingRen/faster_rcnn](https://github.com/ShaoqingRen/faster_rcnn)
 - github: [https://github.com/rbgirshick/py-faster-rcnn](https://github.com/rbgirshick/py-faster-rcnn)
 - github: [https://github.com/mitmul/chainer-faster-rcnn](https://github.com/mitmul/chainer-faster-rcnn)
-- github(Torch): [https://github.com/andreaskoepf/faster-rcnn.torch](https://github.com/andreaskoepf/faster-rcnn.torch)
-- github(Torch): [https://github.com/ruotianluo/Faster-RCNN-Densecap-torch](https://github.com/ruotianluo/Faster-RCNN-Densecap-torch)
+- github: [https://github.com/andreaskoepf/faster-rcnn.torch](https://github.com/andreaskoepf/faster-rcnn.torch)
+- github: [https://github.com/ruotianluo/Faster-RCNN-Densecap-torch](https://github.com/ruotianluo/Faster-RCNN-Densecap-torch)
 - github(Tensorflow): [https://github.com/smallcorgi/Faster-RCNN_TF](https://github.com/smallcorgi/Faster-RCNN_TF)
 - github(Tensorflow): [https://github.com/CharlesShang/TFFRCNN](https://github.com/CharlesShang/TFFRCNN)
 - github(C++ demo): [https://github.com/YihangLou/FasterRCNN-Encapsulation-Cplusplus](https://github.com/YihangLou/FasterRCNN-Encapsulation-Cplusplus)
+- github: [https://github.com/yhenon/keras-frcnn](https://github.com/yhenon/keras-frcnn)
 
 **Faster R-CNN in MXNet with distributed implementation and data parallelization**
 
@@ -513,7 +514,8 @@ Continuation of [arXiv:1608.08021](https://arxiv.org/abs/1608.08021)
 
 **Improving Object Detection With One Line of Code**
 
-- intro: Soft-NMS
+- intro: University of Maryland
+- keywords: Soft-NMS
 - arxiv: [https://arxiv.org/abs/1704.04503](https://arxiv.org/abs/1704.04503)
 - github: [https://github.com/bharatsingh430/soft-nms](https://github.com/bharatsingh430/soft-nms)
 
@@ -784,6 +786,11 @@ This task involves predicting the salient regions of an image given by human eye
 - intro: CVPR 2017 spotlight paper
 - arxiv: [https://arxiv.org/abs/1703.03054](https://arxiv.org/abs/1703.03054)
 
+**Detecting Visual Relationships with Deep Relational Networks**
+
+- intro: CVPR 2017 oral. The Chinese University of Hong Kong
+- arxiv: [https://arxiv.org/abs/1704.03114](https://arxiv.org/abs/1704.03114)
+
 # Specific Object Deteciton
 
 ## Face Deteciton
@@ -873,6 +880,7 @@ This task involves predicting the salient regions of an image given by human eye
 - github(MXNet): [https://github.com/Seanlinx/mtcnn](https://github.com/Seanlinx/mtcnn)
 - github: [https://github.com/Pi-DeepLearning/RaspberryPi-FaceDetection-MTCNN-Caffe-With-Motion](https://github.com/Pi-DeepLearning/RaspberryPi-FaceDetection-MTCNN-Caffe-With-Motion)
 - github(Caffe): [https://github.com/foreverYoungGitHub/MTCNN](https://github.com/foreverYoungGitHub/MTCNN)
+- github: [https://github.com/CongWeilin/mtcnn-caffe](https://github.com/CongWeilin/mtcnn-caffe)
 
 **Face Detection using Deep Learning: An Improved Faster RCNN Approach**
 
