@@ -121,14 +121,6 @@ to decompose it into the multiplications of thinned dense matrices"
 - intro: "proposed to remove redundant neurons instead of network connections"
 - arxiv: [http://arxiv.org/abs/1507.06149](http://arxiv.org/abs/1507.06149)
 
-**Fast Algorithms for Convolutional Neural Networks**
-
-- intro: "2.6x as fast as Caffe when comparing CPU implementations"
-- arxiv: [http://arxiv.org/abs/1509.09308](http://arxiv.org/abs/1509.09308)
-- github: [https://github.com/andravin/wincnn](https://github.com/andravin/wincnn)
-- discussion: [https://github.com/soumith/convnet-benchmarks/issues/59#issuecomment-150111895](https://github.com/soumith/convnet-benchmarks/issues/59#issuecomment-150111895)
-- reddit: [https://www.reddit.com/r/MachineLearning/comments/3nocg5/fast_algorithms_for_convolutional_neural_networks/?](https://www.reddit.com/r/MachineLearning/comments/3nocg5/fast_algorithms_for_convolutional_neural_networks/?)
-
 **Deep Compression: Compressing Deep Neural Networks with Pruning, Trained Quantization and Huffman Coding**
 
 - intro: ICLR 2016 Best Paper
@@ -393,6 +385,18 @@ at INT8 deep learning operations than other FPGA DSP architectures"
 **DyVEDeep: Dynamic Variable Effort Deep Neural Networks**
 
 [https://arxiv.org/abs/1704.01137](https://arxiv.org/abs/1704.01137)
+
+## Accelerating / Fast Algorithms
+
+**Fast Algorithms for Convolutional Neural Networks**
+
+- intro: "2.6x as fast as Caffe when comparing CPU implementations"
+- keywords: Winograd's minimal filtering algorithms
+- arxiv: [http://arxiv.org/abs/1509.09308](http://arxiv.org/abs/1509.09308)
+- github: [https://github.com/andravin/wincnn](https://github.com/andravin/wincnn)
+- slides: [http://homes.cs.washington.edu/~cdel/presentations/Fast_Algorithms_for_Convolutional_Neural_Networks_Slides_reading_group_uw_delmundo_slides.pdf](http://homes.cs.washington.edu/~cdel/presentations/Fast_Algorithms_for_Convolutional_Neural_Networks_Slides_reading_group_uw_delmundo_slides.pdf)
+- discussion: [https://github.com/soumith/convnet-benchmarks/issues/59#issuecomment-150111895](https://github.com/soumith/convnet-benchmarks/issues/59#issuecomment-150111895)
+- reddit: [https://www.reddit.com/r/MachineLearning/comments/3nocg5/fast_algorithms_for_convolutional_neural_networks/?](https://www.reddit.com/r/MachineLearning/comments/3nocg5/fast_algorithms_for_convolutional_neural_networks/?)
 
 # Projects
 
