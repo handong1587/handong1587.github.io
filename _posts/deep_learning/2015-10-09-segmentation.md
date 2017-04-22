@@ -256,8 +256,12 @@ fine-tune the trained network with more challenging examples later
 
 ![](http://personal.ie.cuhk.edu.hk/~lz013/projects/dpn/intro.png)
 
+- intro: ICCV 2015. CUHK
+- keywords: Deep Parsing Network (DPN), Markov Random Field (MRF)
 - homepage: [http://personal.ie.cuhk.edu.hk/~lz013/projects/DPN.html](http://personal.ie.cuhk.edu.hk/~lz013/projects/DPN.html)
-- paper: [http://arxiv.org/abs/1509.02634](http://arxiv.org/abs/1509.02634)
+- arxiv.org: [http://arxiv.org/abs/1509.02634](http://arxiv.org/abs/1509.02634)
+- paper: [http://www.cv-foundation.org/openaccess/content_iccv_2015/papers/Liu_Semantic_Image_Segmentation_ICCV_2015_paper.pdf](http://www.cv-foundation.org/openaccess/content_iccv_2015/papers/Liu_Semantic_Image_Segmentation_ICCV_2015_paper.pdf)
+- slides: [http://personal.ie.cuhk.edu.hk/~pluo/pdf/presentation_dpn.pdf](http://personal.ie.cuhk.edu.hk/~pluo/pdf/presentation_dpn.pdf)
 
 **Multi-Scale Context Aggregation by Dilated Convolutions**
 
