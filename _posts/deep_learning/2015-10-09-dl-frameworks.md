@@ -128,6 +128,7 @@ It is an experimental refactoring of Caffe, and allows a more flexible way to or
 - github [https://github.com/caffe2/caffe2](https://github.com/caffe2/caffe2)
 - github [https://github.com/Yangqing/caffe2](https://github.com/Yangqing/caffe2)
 - model zoo: [https://caffe2.ai/docs/zoo.html](https://caffe2.ai/docs/zoo.html)
+- models: [https://github.com/caffe2/models](https://github.com/caffe2/models)
 
 # CDNN2
 

@@ -508,6 +508,11 @@ Continuation of [arXiv:1608.08021](https://arxiv.org/abs/1608.08021)
 - paper: [http://abhinavsh.info/papers/pdfs/adversarial_object_detection.pdf](http://abhinavsh.info/papers/pdfs/adversarial_object_detection.pdf)
 - github(Caffe): [https://github.com/xiaolonw/adversarial-frcnn](https://github.com/xiaolonw/adversarial-frcnn)
 
+**Discriminative Bimodal Networks for Visual Localization and Detection with Natural Language Queries**
+
+- intro: CVPR 2017
+- arxiv: [https://arxiv.org/abs/1704.03944](https://arxiv.org/abs/1704.03944)
+
 **Spatial Memory for Context Reasoning in Object Detection**
 
 - arxiv: [https://arxiv.org/abs/1704.04224](https://arxiv.org/abs/1704.04224)

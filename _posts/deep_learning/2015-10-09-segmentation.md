@@ -83,6 +83,7 @@ date: 2015-10-09
 **Annotating Object Instances with a Polygon-RNN**
 
 - intro: CVPR 2017
+- project page: [http://www.cs.toronto.edu/polyrnn/](http://www.cs.toronto.edu/polyrnn/)
 - arxiv: [https://arxiv.org/abs/1704.05548](https://arxiv.org/abs/1704.05548)
 
 # Foreground Object Segmentation

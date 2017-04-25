@@ -1285,6 +1285,8 @@ with fast exact probabilistic inference over many layers."
 - intro: Google
 - arxiv: [https://arxiv.org/abs/1704.04861](https://arxiv.org/abs/1704.04861)
 - github: [https://github.com/rcmalli/keras-mobilenet](https://github.com/rcmalli/keras-mobilenet)
+- github: [https://github.com/marvis/pytorch-mobilenet](https://github.com/marvis/pytorch-mobilenet)
+- github(Tensorflow): [https://github.com/Zehaos/MobileNet](https://github.com/Zehaos/MobileNet)
 
 **TensorFlow on Android**
 
@@ -1346,6 +1348,10 @@ with fast exact probabilistic inference over many layers."
 
 - intro: This Repository uses Reinforcement Learning and Supervised learning to Optimize portfolio allocation.
 - github: [https://github.com/deependersingla/deep_portfolio](https://github.com/deependersingla/deep_portfolio)
+
+**Deep-Trading: Algorithmic trading with deep learning experiments**
+
+[https://github.com/Rachnog/Deep-Trading](https://github.com/Rachnog/Deep-Trading)
 
 # Deep Learning in Speech
 
