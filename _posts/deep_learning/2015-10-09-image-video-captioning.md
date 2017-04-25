@@ -253,10 +253,19 @@ after the embedding and recurrent layers of the RNN."
 - arxiv: [https://arxiv.org/abs/1612.07360](https://arxiv.org/abs/1612.07360)
 - github: [https://github.com/VisionLearningGroup/caption-guided-saliency](https://github.com/VisionLearningGroup/caption-guided-saliency)
 
+**MAT: A Multimodal Attentive Translator for Image Captioning**
+
+[https://arxiv.org/abs/1702.05658](https://arxiv.org/abs/1702.05658)
+
 **Deep Reinforcement Learning-based Image Captioning with Embedding Reward**
 
 - intro: Snap Inc & Google Inc
 - arxiv: [https://arxiv.org/abs/1704.03899](https://arxiv.org/abs/1704.03899)
+
+**Attend to You: Personalized Image Captioning with Context Sequence Memory Networks**
+
+- intro: CVPR 2017
+- arxiv: [https://arxiv.org/abs/1704.06485](https://arxiv.org/abs/1704.06485)
 
 # Object Descriptions
 

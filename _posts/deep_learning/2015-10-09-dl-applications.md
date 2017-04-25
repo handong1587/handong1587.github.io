@@ -266,6 +266,10 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 
 [https://arxiv.org/abs/1703.07140](https://arxiv.org/abs/1703.07140)
 
+**Convolutional Neural Networks for Facial Expression Recognition**
+
+[https://arxiv.org/abs/1704.06756](https://arxiv.org/abs/1704.06756)
+
 # Attribution Prediction
 
 **PANDA: Pose Aligned Networks for Deep Attribute Modeling**

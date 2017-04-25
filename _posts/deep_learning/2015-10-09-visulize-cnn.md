@@ -152,6 +152,14 @@ date: 2015-10-09
 - intro: Georgia Tech & Facebook
 - arxiv: [https://arxiv.org/abs/1704.01942](https://arxiv.org/abs/1704.01942)
 
+**Network Dissection: Quantifying Interpretability of Deep Visual Representations**
+
+![](http://netdissect.csail.mit.edu/image/dissect-arch.png)
+
+- intro: CVPR 2017 oral. MIT
+- project page: [http://netdissect.csail.mit.edu/](http://netdissect.csail.mit.edu/)
+- arxiv: [https://arxiv.org/abs/1704.05796](https://arxiv.org/abs/1704.05796)
+
 # Projects
 
 **Interactive Deep Neural Net Hallucinations**

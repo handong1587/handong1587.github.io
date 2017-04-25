@@ -468,6 +468,10 @@ with built-in awareness of semantically meaningful boundaries. "
 
 [https://arxiv.org/abs/1704.03593](https://arxiv.org/abs/1704.03593)
 
+**A Review on Deep Learning Techniques Applied to Semantic Segmentation**
+
+[https://arxiv.org/abs/1704.06857](https://arxiv.org/abs/1704.06857)
+
 # Instance Segmentation
 
 **Simultaneous Detection and Segmentation**

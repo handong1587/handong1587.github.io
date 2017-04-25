@@ -42,12 +42,6 @@ date: 2015-10-09
 - intro: CVPR DeepVision Workshop 2015
 - arxiv: [https://arxiv.org/abs/1504.05133](https://arxiv.org/abs/1504.05133)
 
-**Supervised Learning of Semantics-Preserving Hashing via Deep Neural Networks for Large-Scale Image Search**
-
-- intro: SSDH
-- arxiv: [http://arxiv.org/abs/1507.00101](http://arxiv.org/abs/1507.00101)
-- github: [https://github.com/kevinlin311tw/Caffe-DeepBinaryCode](https://github.com/kevinlin311tw/Caffe-DeepBinaryCode)
-
 **Visual Search at Pinterest**
 
 ![](https://engineering.pinterest.com/sites/engineering/files/article/fields/field_image/Visual%20Search%20Tool%20-%20GIF.gif)
@@ -66,12 +60,6 @@ date: 2015-10-09
 - intro: ICCV 2015
 - intro: Sum pooing
 - arxiv: [http://arxiv.org/abs/1510.07493](http://arxiv.org/abs/1510.07493)
-
-**Feature Learning based Deep Supervised Hashing with Pairwise Labels**
-
-- intro: IJCAI 2016
-- arxiv: [http://arxiv.org/abs/1511.03855](http://arxiv.org/abs/1511.03855)
-- code: [http://cs.nju.edu.cn/lwj/code/DPSH_code.rar](http://cs.nju.edu.cn/lwj/code/DPSH_code.rar)
 
 **Particular object retrieval with integral max-pooling of CNN activations**
 
@@ -170,15 +158,6 @@ date: 2015-10-09
 - paper: [http://cmp.felk.cvut.cz/~radenfil/publications/Radenovic-ECCV16.pdf](http://cmp.felk.cvut.cz/~radenfil/publications/Radenovic-ECCV16.pdf)
 - code(Matlab): [http://ptak.felk.cvut.cz/personal/radenfil/siamac/siaMAC_code.tar.gz](http://ptak.felk.cvut.cz/personal/radenfil/siamac/siaMAC_code.tar.gz)
 
-**SSDH: Semi-supervised Deep Hashing for Large Scale Image Retrieval**
-
-- arxiv: [http://arxiv.org/abs/1607.08477](http://arxiv.org/abs/1607.08477)
-
-**Deep Semantic-Preserving and Ranking-Based Hashing for Image Retrieval**
-
-- intro: Microsoft
-- paper: [http://www.microsoft.com/en-us/research/wp-content/uploads/2016/08/Deep-Semantic-Preserving-and-Ranking-Based-Hashing-for-Image-Retrieval.pdf](http://www.microsoft.com/en-us/research/wp-content/uploads/2016/08/Deep-Semantic-Preserving-and-Ranking-Based-Hashing-for-Image-Retrieval.pdf)
-
 **PicHunt: Social Media Image Retrieval for Improved Law Enforcement**
 
 - arxiv: [http://arxiv.org/abs/1608.00905](http://arxiv.org/abs/1608.00905)
@@ -186,15 +165,6 @@ date: 2015-10-09
 **SIFT Meets CNN: A Decade Survey of Instance Retrieval**
 
 - arxiv: [http://arxiv.org/abs/1608.01807](http://arxiv.org/abs/1608.01807)
-
-**Deep Hashing: A Joint Approach for Image Signature Learning**
-
-- arxiv: [http://arxiv.org/abs/1608.03658](http://arxiv.org/abs/1608.03658)
-
-**Transitive Hashing Network for Heterogeneous Multimedia Retrieval**
-
-- intro: state of the art on NUS-WIDE, ImageNet-YahooQA
-- arxiv: [http://arxiv.org/abs/1608.04307](http://arxiv.org/abs/1608.04307)
 
 **The Sketchy Database: Learning to Retrieve Badly Drawn Bunnies**
 
@@ -211,10 +181,6 @@ date: 2015-10-09
 **What Is the Best Practice for CNNs Applied to Visual Instance Retrieval?**
 
 - arxiv: [https://arxiv.org/abs/1611.01640](https://arxiv.org/abs/1611.01640)
-
-**Deep Residual Hashing**
-
-- arxiv: [https://arxiv.org/abs/1612.05400](https://arxiv.org/abs/1612.05400)
 
 **Image Retrieval with Deep Local Features and Attention-based Keypoints**
 
@@ -233,15 +199,6 @@ date: 2015-10-09
 
 - arxiv: [https://arxiv.org/abs/1701.05003](https://arxiv.org/abs/1701.05003)
 
-**Deep Region Hashing for Efficient Large-scale Instance Search from Images**
-
-- intro: Columbia University & University of Electronic Science and Technology of China
-- arxiv: [https://arxiv.org/abs/1701.07901](https://arxiv.org/abs/1701.07901)
-
-**HashNet: Deep Learning to Hash by Continuation**
-
-- arxiv: [https://arxiv.org/abs/1702.00758](https://arxiv.org/abs/1702.00758)
-
 **Siamese Network of Deep Fisher-Vector Descriptors for Image Retrieval**
 
 - arxiv: [https://arxiv.org/abs/1702.00338](https://arxiv.org/abs/1702.00338)
@@ -249,10 +206,6 @@ date: 2015-10-09
 **Deep Geometric Retrieval**
 
 - arxiv: [https://arxiv.org/abs/1702.06383](https://arxiv.org/abs/1702.06383)
-
-**Unsupervised Triplet Hashing for Fast Image Retrieval**
-
-- arxiv: [https://www.arxiv.org/abs/1702.08798](https://www.arxiv.org/abs/1702.08798)
 
 **Context Aware Query Image Representation for Particular Object Retrieval**
 
@@ -264,29 +217,20 @@ date: 2015-10-09
 and from 73.8% to 83.1% for ResNet-50
 - arxiv: [https://arxiv.org/abs/1703.05693](https://arxiv.org/abs/1703.05693)
 
-**Deep Sketch Hashing: Fast Free-hand Sketch-Based Image Retrieval**
-
-- intro: CVPR 2017 spotlight paper
-- arxiv: [https://arxiv.org/abs/1703.05605](https://arxiv.org/abs/1703.05605)
-
-**Learning Robust Hash Codes for Multiple Instance Image Retrieval**
-
-- arxiv: [https://arxiv.org/abs/1703.05724](https://arxiv.org/abs/1703.05724)
-
 **An End-to-End Approach to Natural Language Object Retrieval via Context-Aware Deep Reinforcement Learning**
 
 [https://arxiv.org/abs/1703.07579](https://arxiv.org/abs/1703.07579)
-
-**Simultaneous Feature Aggregating and Hashing for Large-scale Image Search**
-
-- intro: CVPR 2017
-- arxiv: [https://arxiv.org/abs/1704.00860](https://arxiv.org/abs/1704.00860)
 
 **AMC: Attention guided Multi-modal Correlation Learning for Image Search**
 
 - intro: CVPR 2017
 - arxiv: [https://arxiv.org/abs/1704.00763](https://arxiv.org/abs/1704.00763)
 - github: [https://github.com/kanchen-usc/amc_att](https://github.com/kanchen-usc/amc_att)
+
+**Deep Learning for Content-Based, Cross-Modal Retrieval of Videos and Music**
+
+- arxiv: [https://arxiv.org/abs/1704.06761](https://arxiv.org/abs/1704.06761)
+- supplementary: [https://youtu.be/ZyINqDMo3Fg](https://youtu.be/ZyINqDMo3Fg)
 
 # Hashing
 
@@ -321,6 +265,12 @@ and from 73.8% to 83.1% for ResNet-50
 - paper: [http://www.iis.sinica.edu.tw/~kevinlin311.tw/cvprw15.pdf](http://www.iis.sinica.edu.tw/~kevinlin311.tw/cvprw15.pdf)
 - github: [https://github.com/kevinlin311tw/caffe-cvprw15](https://github.com/kevinlin311tw/caffe-cvprw15)
 
+**Supervised Learning of Semantics-Preserving Hashing via Deep Neural Networks for Large-Scale Image Search**
+
+- intro: SSDH
+- arxiv: [http://arxiv.org/abs/1507.00101](http://arxiv.org/abs/1507.00101)
+- github: [https://github.com/kevinlin311tw/Caffe-DeepBinaryCode](https://github.com/kevinlin311tw/Caffe-DeepBinaryCode)
+
 **Bit-Scalable Deep Hashing with Regularized Similarity Learning for Image Retrieval and Person Re-identification**
 
 - intro: IEEE Transactions on Image Processing 2015
@@ -348,10 +298,60 @@ and from 73.8% to 83.1% for ResNet-50
 - arxiv: [https://arxiv.org/abs/1511.03855](https://arxiv.org/abs/1511.03855)
 - paper: [https://www.ijcai.org/Proceedings/16/Papers/245.pdf](https://www.ijcai.org/Proceedings/16/Papers/245.pdf)
 - paper: [https://cs.nju.edu.cn/lwj/paper/IJCAI16_DPSH.pdf](https://cs.nju.edu.cn/lwj/paper/IJCAI16_DPSH.pdf)
+- code: [http://cs.nju.edu.cn/lwj/code/DPSH_code.rar](http://cs.nju.edu.cn/lwj/code/DPSH_code.rar)
 
 **Deep Cross-Modal Hashing**
 
 [https://arxiv.org/abs/1602.02255](https://arxiv.org/abs/1602.02255)
+
+**SSDH: Semi-supervised Deep Hashing for Large Scale Image Retrieval**
+
+- arxiv: [http://arxiv.org/abs/1607.08477](http://arxiv.org/abs/1607.08477)
+
+**Deep Semantic-Preserving and Ranking-Based Hashing for Image Retrieval**
+
+- intro: Microsoft
+- paper: [http://www.microsoft.com/en-us/research/wp-content/uploads/2016/08/Deep-Semantic-Preserving-and-Ranking-Based-Hashing-for-Image-Retrieval.pdf](http://www.microsoft.com/en-us/research/wp-content/uploads/2016/08/Deep-Semantic-Preserving-and-Ranking-Based-Hashing-for-Image-Retrieval.pdf)
+
+**Deep Hashing: A Joint Approach for Image Signature Learning**
+
+- arxiv: [http://arxiv.org/abs/1608.03658](http://arxiv.org/abs/1608.03658)
+
+**Transitive Hashing Network for Heterogeneous Multimedia Retrieval**
+
+- intro: state of the art on NUS-WIDE, ImageNet-YahooQA
+- arxiv: [http://arxiv.org/abs/1608.04307](http://arxiv.org/abs/1608.04307)
+
+**Deep Residual Hashing**
+
+- arxiv: [https://arxiv.org/abs/1612.05400](https://arxiv.org/abs/1612.05400)
+
+**Deep Region Hashing for Efficient Large-scale Instance Search from Images**
+
+- intro: Columbia University & University of Electronic Science and Technology of China
+- arxiv: [https://arxiv.org/abs/1701.07901](https://arxiv.org/abs/1701.07901)
+
+**HashNet: Deep Learning to Hash by Continuation**
+
+- arxiv: [https://arxiv.org/abs/1702.00758](https://arxiv.org/abs/1702.00758)
+
+**Unsupervised Triplet Hashing for Fast Image Retrieval**
+
+- arxiv: [https://www.arxiv.org/abs/1702.08798](https://www.arxiv.org/abs/1702.08798)
+
+**Deep Sketch Hashing: Fast Free-hand Sketch-Based Image Retrieval**
+
+- intro: CVPR 2017 spotlight paper
+- arxiv: [https://arxiv.org/abs/1703.05605](https://arxiv.org/abs/1703.05605)
+
+**Learning Robust Hash Codes for Multiple Instance Image Retrieval**
+
+- arxiv: [https://arxiv.org/abs/1703.05724](https://arxiv.org/abs/1703.05724)
+
+**Simultaneous Feature Aggregating and Hashing for Large-scale Image Search**
+
+- intro: CVPR 2017
+- arxiv: [https://arxiv.org/abs/1704.00860](https://arxiv.org/abs/1704.00860)
 
 **Learning to Hash**
 

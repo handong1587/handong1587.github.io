@@ -520,6 +520,12 @@ Insert current file name:
 :80,90s/^/#/
 ```
 
+**Switch windows**
+
+```
+gt
+```
+
 # Matlab
 
 Comment multi-lines in Matlab: Ctrl+R, Ctrl+T

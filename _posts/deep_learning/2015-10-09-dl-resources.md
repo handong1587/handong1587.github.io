@@ -148,11 +148,6 @@ not just the convolutions)
 
 - blog: [https://matrixmashing.wordpress.com/2016/01/29/interpretating-deep-residual-learning-blocks-as-locally-recurrent-connections/](https://matrixmashing.wordpress.com/2016/01/29/interpretating-deep-residual-learning-blocks-as-locally-recurrent-connections/)
 
-**Resnet in Resnet: Generalizing Residual Architectures**
-
-- paper: [http://beta.openreview.net/forum?id=lx9l4r36gU2OVPy8Cv9g](http://beta.openreview.net/forum?id=lx9l4r36gU2OVPy8Cv9g)
-- arxiv: [http://arxiv.org/abs/1603.08029](http://arxiv.org/abs/1603.08029)
-
 **Lab41 Reading Group: Deep Residual Learning for Image Recognition**
 
 - blog: [https://gab41.lab41.org/lab41-reading-group-deep-residual-learning-for-image-recognition-ffeb94745a1f](https://gab41.lab41.org/lab41-reading-group-deep-residual-learning-for-image-recognition-ffeb94745a1f)
@@ -165,17 +160,6 @@ not just the convolutions)
 
 - github: [https://github.com/tensorflow/models/tree/master/resnet](https://github.com/tensorflow/models/tree/master/resnet)
 
-**ShaResNet: reducing residual network parameter number by sharing weights**
-
-- arxiv: [https://arxiv.org/abs/1702.08782](https://arxiv.org/abs/1702.08782)
-- github: [https://github.com/aboulch/sharesnet](https://github.com/aboulch/sharesnet)
-
-**Sharing Residual Units Through Collective Tensor Factorization in Deep Neural Networks**
-
-- intro: Collective Residual Networks
-- arxiv: [https://arxiv.org/abs/1703.02180](https://arxiv.org/abs/1703.02180)
-- github(MXNet): [https://github.com/cypw/CRU-Net](https://github.com/cypw/CRU-Net)
-
 ## ResNet-V2
 
 **Identity Mappings in Deep Residual Networks**
@@ -187,50 +171,11 @@ not just the convolutions)
 - github: [https://github.com/FlorianMuellerklein/Identity-Mapping-ResNet-Lasagne](https://github.com/FlorianMuellerklein/Identity-Mapping-ResNet-Lasagne)
 - github: [https://github.com/tornadomeet/ResNet](https://github.com/tornadomeet/ResNet)
 
-**Residual Networks are Exponential Ensembles of Relatively Shallow Networks**
-
-- arxiv: [http://arxiv.org/abs/1605.06431](http://arxiv.org/abs/1605.06431)
-
-**Wide Residual Networks**
-
-- intro: BMVC 2016
-- arxiv: [http://arxiv.org/abs/1605.07146](http://arxiv.org/abs/1605.07146)
-- github: [https://github.com/szagoruyko/wide-residual-networks](https://github.com/szagoruyko/wide-residual-networks)
-- github: [https://github.com/asmith26/wide_resnets_keras](https://github.com/asmith26/wide_resnets_keras)
-- github: [https://github.com/ritchieng/wideresnet-tensorlayer](https://github.com/ritchieng/wideresnet-tensorlayer)
-- github(PyTorch): [https://github.com/xternalz/WideResNet-pytorch](https://github.com/xternalz/WideResNet-pytorch)
-- github(Torch): [https://github.com/meliketoy/wide-residual-network](https://github.com/meliketoy/wide-residual-network)
-
 **Deep Residual Networks for Image Classification with Python + NumPy**
 
 ![](https://dnlcrl.github.io/assets/thesis-post/Diagramma.png)
 
 - blog: [https://dnlcrl.github.io/projects/2016/06/22/Deep-Residual-Networks-for-Image-Classification-with-Python+NumPy.html](https://dnlcrl.github.io/projects/2016/06/22/Deep-Residual-Networks-for-Image-Classification-with-Python+NumPy.html)
-
-**Residual Networks of Residual Networks: Multilevel Residual Networks**
-
-- arxiv: [http://arxiv.org/abs/1608.02908](http://arxiv.org/abs/1608.02908)
-
-**Multi-Residual Networks**
-
-- arxiv: [http://arxiv.org/abs/1609.05672](http://arxiv.org/abs/1609.05672)
-- github: [https://github.com/masoudabd/multi-resnet](https://github.com/masoudabd/multi-resnet)
-
-**Deep Pyramidal Residual Networks**
-
-- intro: PyramidNet
-- arxiv: [https://arxiv.org/abs/1610.02915](https://arxiv.org/abs/1610.02915)
-- github: [https://github.com/jhkim89/PyramidNet](https://github.com/jhkim89/PyramidNet)
-
-**Learning Identity Mappings with Residual Gates**
-
-- arxiv: [https://arxiv.org/abs/1611.01260](https://arxiv.org/abs/1611.01260)
-
-**Wider or Deeper: Revisiting the ResNet Model for Visual Recognition**
-
-- intro: image classification, semantic image segmentation
-- arxiv: [https://arxiv.org/abs/1611.10080](https://arxiv.org/abs/1611.10080)
-- github: [https://github.com/itijyou/ademxapp](https://github.com/itijyou/ademxapp)
 
 ## Inception-V4 / Inception-ResNet-V2
 
@@ -257,6 +202,52 @@ not just the convolutions)
 - dataset: [http://data.dmlc.ml/models/imagenet/resnext/](http://data.dmlc.ml/models/imagenet/resnext/)
 - reddit: [https://www.reddit.com/r/MachineLearning/comments/5haml9/p_implementation_of_aggregated_residual/](https://www.reddit.com/r/MachineLearning/comments/5haml9/p_implementation_of_aggregated_residual/)
 
+## Residual Networks Variants
+
+**Resnet in Resnet: Generalizing Residual Architectures**
+
+- paper: [http://beta.openreview.net/forum?id=lx9l4r36gU2OVPy8Cv9g](http://beta.openreview.net/forum?id=lx9l4r36gU2OVPy8Cv9g)
+- arxiv: [http://arxiv.org/abs/1603.08029](http://arxiv.org/abs/1603.08029)
+
+**Residual Networks are Exponential Ensembles of Relatively Shallow Networks**
+
+- arxiv: [http://arxiv.org/abs/1605.06431](http://arxiv.org/abs/1605.06431)
+
+**Wide Residual Networks**
+
+- intro: BMVC 2016
+- arxiv: [http://arxiv.org/abs/1605.07146](http://arxiv.org/abs/1605.07146)
+- github: [https://github.com/szagoruyko/wide-residual-networks](https://github.com/szagoruyko/wide-residual-networks)
+- github: [https://github.com/asmith26/wide_resnets_keras](https://github.com/asmith26/wide_resnets_keras)
+- github: [https://github.com/ritchieng/wideresnet-tensorlayer](https://github.com/ritchieng/wideresnet-tensorlayer)
+- github(PyTorch): [https://github.com/xternalz/WideResNet-pytorch](https://github.com/xternalz/WideResNet-pytorch)
+- github(Torch): [https://github.com/meliketoy/wide-residual-network](https://github.com/meliketoy/wide-residual-network)
+
+**Residual Networks of Residual Networks: Multilevel Residual Networks**
+
+- arxiv: [http://arxiv.org/abs/1608.02908](http://arxiv.org/abs/1608.02908)
+
+**Multi-Residual Networks**
+
+- arxiv: [http://arxiv.org/abs/1609.05672](http://arxiv.org/abs/1609.05672)
+- github: [https://github.com/masoudabd/multi-resnet](https://github.com/masoudabd/multi-resnet)
+
+**Deep Pyramidal Residual Networks**
+
+- intro: PyramidNet
+- arxiv: [https://arxiv.org/abs/1610.02915](https://arxiv.org/abs/1610.02915)
+- github: [https://github.com/jhkim89/PyramidNet](https://github.com/jhkim89/PyramidNet)
+
+**Learning Identity Mappings with Residual Gates**
+
+- arxiv: [https://arxiv.org/abs/1611.01260](https://arxiv.org/abs/1611.01260)
+
+**Wider or Deeper: Revisiting the ResNet Model for Visual Recognition**
+
+- intro: image classification, semantic image segmentation
+- arxiv: [https://arxiv.org/abs/1611.10080](https://arxiv.org/abs/1611.10080)
+- github: [https://github.com/itijyou/ademxapp](https://github.com/itijyou/ademxapp)
+
 **Deep Pyramidal Residual Networks with Separated Stochastic Depth**
 
 - arxiv: [https://arxiv.org/abs/1612.01230](https://arxiv.org/abs/1612.01230)
@@ -265,6 +256,22 @@ not just the convolutions)
 
 - intro: Higher School of Economics & Google & CMU
 - arxiv: [https://arxiv.org/abs/1612.02297](https://arxiv.org/abs/1612.02297)
+
+**ShaResNet: reducing residual network parameter number by sharing weights**
+
+- arxiv: [https://arxiv.org/abs/1702.08782](https://arxiv.org/abs/1702.08782)
+- github: [https://github.com/aboulch/sharesnet](https://github.com/aboulch/sharesnet)
+
+**Sharing Residual Units Through Collective Tensor Factorization in Deep Neural Networks**
+
+- intro: Collective Residual Networks
+- arxiv: [https://arxiv.org/abs/1703.02180](https://arxiv.org/abs/1703.02180)
+- github(MXNet): [https://github.com/cypw/CRU-Net](https://github.com/cypw/CRU-Net)
+
+**Residual Attention Network for Image Classification**
+
+- intro: CVPR 2017. CUHK
+- arxiv: [https://arxiv.org/abs/1704.06904](https://arxiv.org/abs/1704.06904)
 
 # Deep Learning And Bayesian
 
@@ -1828,7 +1835,7 @@ It is based on Facebook's TorchCraft, which is a bridge between Torch and StarCr
 
 **Understanding deep learning requires rethinking generalization**
 
-- intro: MIT & Google Brain & UC Berkeley & Google DeepMind
+- intro: ICLR 2017 best paper. MIT & Google Brain & UC Berkeley & Google DeepMind
 - arxiv: [https://arxiv.org/abs/1611.03530](https://arxiv.org/abs/1611.03530)
 - notes: [https://theneuralperspective.com/2017/01/24/understanding-deep-learning-requires-rethinking-generalization/](https://theneuralperspective.com/2017/01/24/understanding-deep-learning-requires-rethinking-generalization/)
 
