@@ -91,8 +91,9 @@ Auto-encoder
 
 **Learning Features by Watching Objects Move**
 
-- intro: Facebook AI Research & UC Berkeley
+- intro: CVPR 2017. Facebook AI Research & UC Berkeley
 - arxiv: [https://arxiv.org/abs/1612.06370](https://arxiv.org/abs/1612.06370)
+- github((Caffe+Torch): [https://github.com/pathak22/unsupervised-video](https://github.com/pathak22/unsupervised-video)
 
 ## Clustering
 

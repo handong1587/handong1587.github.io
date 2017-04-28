@@ -1322,6 +1322,12 @@ We additionally provide an implementation of the [ReInspect](https://github.com/
 - intro: KittiBox is a collection of scripts to train out model FastBox on the Kitti Object Detection Dataset
 - github: [https://github.com/MarvinTeichmann/KittiBox](https://github.com/MarvinTeichmann/KittiBox)
 
+# Tools
+
+**BeaverDam: Video annotation tool for deep learning training labels**
+
+[https://github.com/antingshen/BeaverDam](https://github.com/antingshen/BeaverDam)
+
 # Blogs
 
 **Convolutional Neural Networks for Object Detection**
