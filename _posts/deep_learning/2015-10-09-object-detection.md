@@ -757,6 +757,10 @@ This task involves predicting the salient regions of an image given by human eye
 
 [https://arxiv.org/abs/1703.00152](https://arxiv.org/abs/1703.00152)
 
+**Supervised Adversarial Networks for Image Saliency Detection**
+
+[https://arxiv.org/abs/1704.07242](https://arxiv.org/abs/1704.07242)
+
 ## Saliency Detection in Video
 
 **Deep Learning For Video Saliency Detection**
@@ -1220,6 +1224,11 @@ This task involves predicting the salient regions of an image given by human eye
 - intro: CVPR 2017
 - keywords: differentiable Determinantal Point Process (DPP) layer, Learning Detection with Diverse Proposals (LDDP)
 - arxiv: [https://arxiv.org/abs/1704.03533](https://arxiv.org/abs/1704.03533)
+
+**ScaleNet: Guiding Object Proposal Generation in Supermarkets and Beyond**
+
+- keywords: product detection
+- arxiv: [https://arxiv.org/abs/1704.06752](https://arxiv.org/abs/1704.06752)
 
 # Localization
 

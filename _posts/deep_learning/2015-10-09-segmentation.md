@@ -768,6 +768,7 @@ ranked 1st place in ImageNet Scene Parsing Challenge 2016
 
 **Clockwork Convnets for Video Semantic Segmentation**
 
+- intro: ECCV 2016 Workshops
 - intro: evaluated on the Youtube-Objects, NYUD, and Cityscapes video datasets
 - arxiv: [http://arxiv.org/abs/1608.03609](http://arxiv.org/abs/1608.03609)
 - github: [https://github.com/shelhamer/clockwork-fcn](https://github.com/shelhamer/clockwork-fcn)

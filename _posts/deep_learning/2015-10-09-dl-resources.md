@@ -25,6 +25,7 @@ date: 2015-10-09
 - intro: ICLR 2014
 - arxiv: [http://arxiv.org/abs/1312.4400](http://arxiv.org/abs/1312.4400)
 - gitxiv: [http://gitxiv.com/posts/PA98qGuMhsijsJzgX/network-in-network-nin](http://gitxiv.com/posts/PA98qGuMhsijsJzgX/network-in-network-nin)
+- code(Caffe, official): [https://gist.github.com/mavenlin/d802a5849de39225bcc6](https://gist.github.com/mavenlin/d802a5849de39225bcc6)
 
 **Batch-normalized Maxout Network in Network**
 
@@ -2167,8 +2168,10 @@ It is based on Facebook's TorchCraft, which is a bridge between Torch and StarCr
 
 **FlowNet 2.0: Evolution of Optical Flow Estimation with Deep Networks**
 
+- intro: CVPR 2017
 - project page: [http://lmb.informatik.uni-freiburg.de/Publications/2016/IMKDB16/](http://lmb.informatik.uni-freiburg.de/Publications/2016/IMKDB16/)
 - arxiv: [https://arxiv.org/abs/1612.01925](https://arxiv.org/abs/1612.01925)
+- github(Caffe): [https://github.com/lmb-freiburg/flownet2](https://github.com/lmb-freiburg/flownet2)
 - video: [http://lmb.informatik.uni-freiburg.de/Publications/2016/IMKDB16/](http://lmb.informatik.uni-freiburg.de/Publications/2016/IMKDB16/)
 
 **Optical Flow Estimation using a Spatial Pyramid Network**

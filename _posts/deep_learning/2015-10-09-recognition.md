@@ -227,6 +227,16 @@ date: 2015-10-09
 
 - arxiv: [https://arxiv.org/abs/1702.04710](https://arxiv.org/abs/1702.04710)
 
+**NormFace: L2 Hypersphere Embedding for Face Verification**
+
+- arxiv: [https://arxiv.org/abs/1704.06369](https://arxiv.org/abs/1704.06369)
+- github: [https://github.com/happynear/NormFace](https://github.com/happynear/NormFace)
+
+**SphereFace: Deep Hypersphere Embedding for Face Recognition**
+
+- intro: CVPR 2017
+- arxiv: [http://wyliu.com/papers/LiuCVPR17.pdf](http://wyliu.com/papers/LiuCVPR17.pdf)
+
 **L2-constrained Softmax Loss for Discriminative Face Verification**
 
 [https://arxiv.org/abs/1703.09507](https://arxiv.org/abs/1703.09507)

@@ -21,6 +21,11 @@ date: 2015-08-27
 - arxiv: [http://arxiv.org/abs/1011.4088](http://arxiv.org/abs/1011.4088
 - paper: [http://homepages.inf.ed.ac.uk/csutton/publications/crftut-fnt.pdf](http://homepages.inf.ed.ac.uk/csutton/publications/crftut-fnt.pdf)
 
+**Efficient Inference in Fully Connected CRFs with Gaussian Edge Potentials**
+
+- intro: NIPS 2011
+- arxiv: [https://arxiv.org/abs/1210.5644](https://arxiv.org/abs/1210.5644)
+
 **Introduction to Conditional Random Fields**
 
 [http://blog.echen.me/2012/01/03/introduction-to-conditional-random-fields/](http://blog.echen.me/2012/01/03/introduction-to-conditional-random-fields/)
