@@ -410,6 +410,19 @@ and from 73.8% to 83.1% for ResNet-50
 
 # Deep Metric Learning
 
+**Learnable Structured Clustering Framework for Deep Metric Learning**
+
+- arxiv: [https://arxiv.org/abs/1612.01213](https://arxiv.org/abs/1612.01213)
+
+**Deep Metric Learning via Lifted Structured Feature Embedding**
+
+- intro: CVPR 2016
+- project page(code+data): [http://cvgl.stanford.edu/projects/lifted_struct/](http://cvgl.stanford.edu/projects/lifted_struct/)
+- paper: [http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Song_Deep_Metric_Learning_CVPR_2016_paper.pdf](http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Song_Deep_Metric_Learning_CVPR_2016_paper.pdf)
+- paper: [http://cvgl.stanford.edu/papers/song_cvpr16.pdf](http://cvgl.stanford.edu/papers/song_cvpr16.pdf)
+- github: [https://github.com/rksltnl/Deep-Metric-Learning-CVPR16](https://github.com/rksltnl/Deep-Metric-Learning-CVPR16)
+- dataset: [ftp://cs.stanford.edu/cs/cvgl/Stanford_Online_Products.zip](ftp://cs.stanford.edu/cs/cvgl/Stanford_Online_Products.zip)
+
 **Cross-modal Deep Metric Learning with Multi-task Regularization**
 
 - intro: ICME 2017

@@ -386,6 +386,10 @@ at INT8 deep learning operations than other FPGA DSP architectures"
 
 [https://arxiv.org/abs/1704.01137](https://arxiv.org/abs/1704.01137)
 
+**Incremental Network Quantization: Towards Lossless CNNs with Low-precision Weights**
+
+[https://openreview.net/forum?id=HyQJ-mclg&noteId=HyQJ-mclg](https://openreview.net/forum?id=HyQJ-mclg&noteId=HyQJ-mclg)
+
 ## Accelerating / Fast Algorithms
 
 **Fast Algorithms for Convolutional Neural Networks**

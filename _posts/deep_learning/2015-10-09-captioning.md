@@ -268,6 +268,10 @@ after the embedding and recurrent layers of the RNN."
 - arxiv: [https://arxiv.org/abs/1704.06485](https://arxiv.org/abs/1704.06485)
 - github: [https://github.com/cesc-park/attend2u](https://github.com/cesc-park/attend2u)
 
+**Punny Captions: Witty Wordplay in Image Descriptions**
+
+[https://arxiv.org/abs/1704.08224](https://arxiv.org/abs/1704.08224)
+
 # Object Descriptions
 
 **Generation and Comprehension of Unambiguous Object Descriptions**

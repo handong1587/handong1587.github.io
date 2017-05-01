@@ -33,6 +33,7 @@ date: 2015-10-09
 - arxiv: [http://arxiv.org/abs/1505.04597](http://arxiv.org/abs/1505.04597)
 - code+data: [http://lmb.informatik.uni-freiburg.de/people/ronneber/u-net/u-net-release-2015-10-02.tar.gz](http://lmb.informatik.uni-freiburg.de/people/ronneber/u-net/u-net-release-2015-10-02.tar.gz)
 - github: [https://github.com/orobix/retina-unet](https://github.com/orobix/retina-unet)
+- github: [https://github.com/jakeret/tf_unet](https://github.com/jakeret/tf_unet)
 - notes: [http://zongwei.leanote.com/post/Pa](http://zongwei.leanote.com/post/Pa)
 
 **Segmentation from Natural Language Expressions**
@@ -160,7 +161,8 @@ only the CNN part of the network is fine-tuned to learn deconvolution indirectly
 - project page: [http://liangchiehchen.com/projects/DeepLab.html](http://liangchiehchen.com/projects/DeepLab.html)
 - arxiv: [https://arxiv.org/abs/1606.00915](https://arxiv.org/abs/1606.00915)
 - bitbucket: [https://bitbucket.org/aquariusjay/deeplab-public-ver2](https://bitbucket.org/aquariusjay/deeplab-public-ver2)
-- github(TensorFlow): [https://github.com/DrSleep/tensorflow-deeplab-resnet](https://github.com/DrSleep/tensorflow-deeplab-resnet)
+- github: [https://github.com/DrSleep/tensorflow-deeplab-resnet](https://github.com/DrSleep/tensorflow-deeplab-resnet)
+- github: [https://github.com/isht7/pytorch-deeplab-resnet](https://github.com/isht7/pytorch-deeplab-resnet)
 
 **DeepLabv2 (ResNet-101)**
 
@@ -472,6 +474,21 @@ with built-in awareness of semantically meaningful boundaries. "
 **A Review on Deep Learning Techniques Applied to Semantic Segmentation**
 
 [https://arxiv.org/abs/1704.06857](https://arxiv.org/abs/1704.06857)
+
+**Joint Semantic and Motion Segmentation for dynamic scenes using Deep Convolutional Networks**
+
+- intro: [International Institute of Information Technology & Max Planck Institute For Intelligent Systems
+- arxiv: [https://arxiv.org/abs/1704.08331](https://arxiv.org/abs/1704.08331)
+
+## ICNet
+
+**ICNet for Real-Time Semantic Segmentation on High-Resolution Images**
+
+- intro: CUHK & Sensetime
+- project page: [https://hszhao.github.io/projects/icnet/](https://hszhao.github.io/projects/icnet/)
+- arxiv: [https://arxiv.org/abs/1704.08545](https://arxiv.org/abs/1704.08545)
+- github: [https://github.com/hszhao/ICNet](https://github.com/hszhao/ICNet)
+- video: [https://www.youtube.com/watch?v=qWl9idsCuLQ](https://www.youtube.com/watch?v=qWl9idsCuLQ)
 
 # Instance Segmentation
 

@@ -302,6 +302,14 @@ not just the convolutions)
 - intro: IEEE Transactions on Knowledge and Data Engineering (TKDE), 2016
 - arxiv: [http://arxiv.org/abs/1608.06884](http://arxiv.org/abs/1608.06884)
 
+**Bayesian Deep Learning: Neural Networks in PyMC3 estimated with Variational Inference**
+
+- blog: [http://blog.quantopian.com/bayesian-deep-learning/](http://blog.quantopian.com/bayesian-deep-learning/)
+
+**Bayesian Deep Learning Part II: Bridging PyMC3 and Lasagne to build a Hierarchical Neural Network**
+
+- blog: [http://twiecki.github.io/blog/2016/07/05/bayesian-deep-learning/](http://twiecki.github.io/blog/2016/07/05/bayesian-deep-learning/)
+
 # Semi-Supervised Learning
 
 **Semi-Supervised Learning with Graphs**
@@ -563,12 +571,6 @@ not just the convolutions)
 **Multimodal Deep Learning (D4L4 Deep Learning for Speech and Language UPC 2017)**
 
 - slides: [http://www.slideshare.net/xavigiro/multimodal-deep-learning-d4l4-deep-learning-for-speech-and-language-upc-2017](http://www.slideshare.net/xavigiro/multimodal-deep-learning-d4l4-deep-learning-for-speech-and-language-upc-2017)
-
-# Metric Learning
-
-**Learnable Structured Clustering Framework for Deep Metric Learning**
-
-- arxiv: [https://arxiv.org/abs/1612.01213](https://arxiv.org/abs/1612.01213)
 
 # Debugging Deep Learning
 
@@ -1075,6 +1077,7 @@ with fast exact probabilistic inference over many layers."
 
 - arxiv: [https://arxiv.org/abs/1606.09375](https://arxiv.org/abs/1606.09375)
 - github: [https://github.com/mdeff/cnn_graph](https://github.com/mdeff/cnn_graph)
+- github: [https://github.com/pfnet-research/chainer-graph-cnn](https://github.com/pfnet-research/chainer-graph-cnn)
 
 **Semi-Supervised Classification with Graph Convolutional Networks**
 
@@ -1134,6 +1137,14 @@ with fast exact probabilistic inference over many layers."
 
 - blog: [http://www.kdnuggets.com/2015/12/deep-learning-outgrows-bag-words-recurrent-neural-networks.html](http://www.kdnuggets.com/2015/12/deep-learning-outgrows-bag-words-recurrent-neural-networks.html)
 
+## Boosting
+
+**Deep Boosting**
+
+- intro: ICML 2014
+- paper: [http://www.cs.princeton.edu/~usyed/CortesMohriSyedICML2014.pdf](http://www.cs.princeton.edu/~usyed/CortesMohriSyedICML2014.pdf)
+- github: [https://github.com/google/deepboost](https://github.com/google/deepboost)
+
 ## Bootstrap
 
 **Training Deep Neural Networks on Noisy Labels with Bootstrapping**
@@ -1141,6 +1152,15 @@ with fast exact probabilistic inference over many layers."
 - arxiv: [http://arxiv.org/abs/1412.6596](http://arxiv.org/abs/1412.6596)
 
 ## Decision Tree
+
+**Deep Neural Decision Forests**
+
+- intro: ICCV 2015. Microsoft Research. ICCV'15 Marr Prize
+- paper: [http://research.microsoft.com/pubs/255952/ICCV15_DeepNDF_main.pdf](http://research.microsoft.com/pubs/255952/ICCV15_DeepNDF_main.pdf)
+- slides: [https://docs.google.com/presentation/d/1Ze7BAiWbMPyF0ax36D-aK00VfaGMGvvgD_XuANQW1gU/edit#slide=id.p](https://docs.google.com/presentation/d/1Ze7BAiWbMPyF0ax36D-aK00VfaGMGvvgD_XuANQW1gU/edit#slide=id.p)
+- github: [https://github.com/chrischoy/fully-differentiable-deep-ndf-tf](https://github.com/chrischoy/fully-differentiable-deep-ndf-tf)
+- supplement: [http://research.microsoft.com/pubs/255952/ICCV15_DeepNDF_suppl.pdf](http://research.microsoft.com/pubs/255952/ICCV15_DeepNDF_suppl.pdf)
+- notes: [http://pan.baidu.com/s/1jGRWem6](http://pan.baidu.com/s/1jGRWem6)
 
 **Neural Network and Decision Tree**
 
@@ -1153,6 +1173,10 @@ with fast exact probabilistic inference over many layers."
 
 ## Dictionary Learning
 
+**Greedy Deep Dictionary Learning**
+
+- arxiv: [http://arxiv.org/abs/1602.00203](http://arxiv.org/abs/1602.00203)
+
 **Sparse Factorization Layers for Neural Networks with Limited Supervision**
 
 - arxiv: [https://arxiv.org/abs/1612.04468](https://arxiv.org/abs/1612.04468)
@@ -1163,6 +1187,26 @@ with fast exact probabilistic inference over many layers."
 
 - arxiv: [https://arxiv.org/abs/1702.02549](https://arxiv.org/abs/1702.02549)
 
+## Gaussian Processes
+
+**Questions on Deep Gaussian Processes**
+
+- blog: [http://inverseprobability.com/2015/02/28/questions-on-deep-gaussian-processes/](http://inverseprobability.com/2015/02/28/questions-on-deep-gaussian-processes/)
+
+**Qs – Deep Gaussian Processes**
+
+![](https://www.opendatascience.com/wp-content/uploads/2016/05/Gaussian.jpg)
+
+- blog: [https://www.opendatascience.com/blog/qs-deep-gaussian-processes/](https://www.opendatascience.com/blog/qs-deep-gaussian-processes/)
+
+**Practical Learning of Deep Gaussian Processes via Random Fourier Features**
+
+- arxiv: [https://arxiv.org/abs/1610.04386](https://arxiv.org/abs/1610.04386)
+
+**Deep Learning with Gaussian Process**
+
+- blog: [https://amundtveit.com/2016/12/02/deep-learning-with-gaussian-process/](https://amundtveit.com/2016/12/02/deep-learning-with-gaussian-process/)
+
 ## HMM
 
 **Unsupervised Neural Hidden Markov Models**
@@ -1171,7 +1215,23 @@ with fast exact probabilistic inference over many layers."
 - paper: [http://www.isi.edu/natural-language/mt/neural-hmm16.pdf](http://www.isi.edu/natural-language/mt/neural-hmm16.pdf)
 - github: [https://github.com/ketranm/neuralHMM](https://github.com/ketranm/neuralHMM)
 
-## Kernel Fusion
+## Kernel Methods
+
+**Kernel Methods for Deep Learning**
+
+- intro: NIPS 2009
+- paper: [https://papers.nips.cc/paper/3628-kernel-methods-for-deep-learning](https://papers.nips.cc/paper/3628-kernel-methods-for-deep-learning)
+- paper: [http://cseweb.ucsd.edu/~saul/papers/nips09_kernel.pdf](http://cseweb.ucsd.edu/~saul/papers/nips09_kernel.pdf)
+
+**Deep Kernel Learning**
+
+- arxiv: [http://arxiv.org/abs/1511.02222](http://arxiv.org/abs/1511.02222)
+
+**Stochastic Variational Deep Kernel Learning**
+
+- intro: NIPS 2016
+- arxiv: [https://arxiv.org/abs/1611.00336](https://arxiv.org/abs/1611.00336)
+- code: [https://people.orie.cornell.edu/andrew/code/#SVDKL](https://people.orie.cornell.edu/andrew/code/#SVDKL)
 
 **A Deep Learning Approach To Multiple Kernel Fusion**
 
@@ -1189,8 +1249,16 @@ with fast exact probabilistic inference over many layers."
 
 **Deep Learning using Linear Support Vector Machines**
 
+- intro: Workshop on Representational Learning, ICML 2013
+- arxiv: [https://arxiv.org/abs/1306.0239](https://arxiv.org/abs/1306.0239)
 - paper: [http://deeplearning.net/wp-content/uploads/2013/03/dlsvm.pdf](http://deeplearning.net/wp-content/uploads/2013/03/dlsvm.pdf)
+- github: [https://github.com/momer/deep-learning-faces](https://github.com/momer/deep-learning-faces)
+- code: [https://code.google.com/p/deeplearning-faces/](https://code.google.com/p/deeplearning-faces/)
 
+**Deep Support Vector Machines**
+
+- video: [http://videolectures.net/roks2013_wiering_vector/](http://videolectures.net/roks2013_wiering_vector/)
+- slides: [http://www.esat.kuleuven.be/sista/ROKS2013/files/presentations/DSVM_ROKS_2013_WIERING.pdf](http://www.esat.kuleuven.be/sista/ROKS2013/files/presentations/DSVM_ROKS_2013_WIERING.pdf)
 **Trusting SVM for Piecewise Linear CNNs**
 
 - intro: PL-CNNs
@@ -1202,11 +1270,35 @@ with fast exact probabilistic inference over many layers."
 
 - arxiv: [http://arxiv.org/abs/1609.08864](http://arxiv.org/abs/1609.08864)
 
-## Gaussian Process
+**Deep Forest: Towards An Alternative to Deep Neural Networks**
 
-**Deep Learning with Gaussian Process**
+- arxiv: [https://arxiv.org/abs/1702.08835](https://arxiv.org/abs/1702.08835)
 
-- blog: [https://amundtveit.com/2016/12/02/deep-learning-with-gaussian-process/](https://amundtveit.com/2016/12/02/deep-learning-with-gaussian-process/)
+# Others
+
+**Deep Markov Random Field for Image Modeling**
+
+- intro: ECCV 2016
+- arxiv: [http://arxiv.org/abs/1609.02036](http://arxiv.org/abs/1609.02036)
+- github: [https://github.com/zhirongw/deep-mrf](https://github.com/zhirongw/deep-mrf)
+
+**Deep, Dense, and Low-Rank Gaussian Conditional Random Fields**
+
+- arxiv: [https://arxiv.org/abs/1611.09051](https://arxiv.org/abs/1611.09051)
+
+**Deep Probabilistic Programming with Edward**
+
+- intro: Columbia University & Adobe Research & Google
+- poster: [http://dustintran.com/papers/TranHoffmanMurphyBrevdoSaurousBlei2016_poster.pdf](http://dustintran.com/papers/TranHoffmanMurphyBrevdoSaurousBlei2016_poster.pdf)
+
+**Deep Bayesian Active Learning with Image Data**
+
+- project page: [http://mlg.eng.cam.ac.uk/yarin/publications.html#Gal2016Active](http://mlg.eng.cam.ac.uk/yarin/publications.html#Gal2016Active)
+- arxiv: [https://arxiv.org/abs/1703.02910](https://arxiv.org/abs/1703.02910)
+
+**Deep Robust Kalman Filter**
+
+[https://arxiv.org/abs/1703.02310](https://arxiv.org/abs/1703.02310)
 
 # Deep Learning and Robots
 
@@ -1808,12 +1900,6 @@ It is based on Facebook's TorchCraft, which is a bridge between Torch and StarCr
 - blog: [http://mlg.eng.cam.ac.uk/yarin/blog_2248.html](http://mlg.eng.cam.ac.uk/yarin/blog_2248.html)
 - thesis: [http://mlg.eng.cam.ac.uk/yarin/thesis/thesis.pdf](http://mlg.eng.cam.ac.uk/yarin/thesis/thesis.pdf)
 
-**Stochastic Variational Deep Kernel Learning**
-
-- intro: NIPS 2016
-- arxiv: [https://arxiv.org/abs/1611.00336](https://arxiv.org/abs/1611.00336)
-- code: [https://people.orie.cornell.edu/andrew/code/#SVDKL](https://people.orie.cornell.edu/andrew/code/#SVDKL)
-
 **Deep Convolutional Neural Network Design Patterns**
 
 - arxiv: [https://arxiv.org/abs/1611.00847](https://arxiv.org/abs/1611.00847)
@@ -1844,6 +1930,7 @@ It is based on Facebook's TorchCraft, which is a bridge between Torch and StarCr
 
 - intro: ICLR 2017 best paper. MIT & Google Brain & UC Berkeley & Google DeepMind
 - arxiv: [https://arxiv.org/abs/1611.03530](https://arxiv.org/abs/1611.03530)
+- example code: [https://github.com/pluskid/fitting-random-labels](https://github.com/pluskid/fitting-random-labels)
 - notes: [https://theneuralperspective.com/2017/01/24/understanding-deep-learning-requires-rethinking-generalization/](https://theneuralperspective.com/2017/01/24/understanding-deep-learning-requires-rethinking-generalization/)
 
 **Local minima in training of deep networks**
@@ -2057,6 +2144,17 @@ It is based on Facebook's TorchCraft, which is a bridge between Torch and StarCr
 **Zero-Shot (Deep) Learning**
 
 [https://amundtveit.com/2016/11/18/zero-shot-deep-learning/](https://amundtveit.com/2016/11/18/zero-shot-deep-learning/)
+
+**Zero-shot learning experiments by deep learning.**
+
+[https://github.com/Elyorcv/zsl-deep-learning](https://github.com/Elyorcv/zsl-deep-learning)
+
+**Semantic Autoencoder for Zero-Shot Learning**
+
+- intro: CVPR 2017
+- project page: [https://elyorcv.github.io/projects/sae](https://elyorcv.github.io/projects/sae)
+- arxiv: [https://arxiv.org/abs/1704.08345](https://arxiv.org/abs/1704.08345)
+- github: [https://github.com/Elyorcv/SAE](https://github.com/Elyorcv/SAE)
 
 ## One Shot Learning
 

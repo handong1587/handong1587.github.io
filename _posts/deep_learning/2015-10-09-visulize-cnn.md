@@ -159,6 +159,7 @@ date: 2015-10-09
 - intro: CVPR 2017 oral. MIT
 - project page: [http://netdissect.csail.mit.edu/](http://netdissect.csail.mit.edu/)
 - arxiv: [https://arxiv.org/abs/1704.05796](https://arxiv.org/abs/1704.05796)
+- github: [https://github.com/CSAILVision/NetDissect](https://github.com/CSAILVision/NetDissect)
 
 # Projects
 

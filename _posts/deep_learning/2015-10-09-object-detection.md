@@ -1379,3 +1379,8 @@ We additionally provide an implementation of the [ReInspect](https://github.com/
 **Small U-Net for vehicle detection**
 
 - blog: [https://medium.com/@vivek.yadav/small-u-net-for-vehicle-detection-9eec216f9fd6#.md4u80kad](https://medium.com/@vivek.yadav/small-u-net-for-vehicle-detection-9eec216f9fd6#.md4u80kad)
+
+**Region of interest pooling explained**
+
+- blog: [https://deepsense.io/region-of-interest-pooling-explained/](https://deepsense.io/region-of-interest-pooling-explained/)
+- github: [https://github.com/deepsense-io/roi-pooling](https://github.com/deepsense-io/roi-pooling)

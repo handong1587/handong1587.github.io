@@ -270,6 +270,11 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 
 [https://arxiv.org/abs/1704.06756](https://arxiv.org/abs/1704.06756)
 
+**End-to-End Multimodal Emotion Recognition using Deep Neural Networks**
+
+- intro: Imperial College London
+- arxiv: [https://arxiv.org/abs/1704.08619](https://arxiv.org/abs/1704.08619)
+
 # Attribution Prediction
 
 **PANDA: Pose Aligned Networks for Deep Attribute Modeling**

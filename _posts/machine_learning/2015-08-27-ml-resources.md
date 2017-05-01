@@ -459,86 +459,6 @@ Classic strategies:
 - blog: [https://medium.com/@vivek.yadav/dealing-with-unbalanced-data-generating-additional-data-by-jittering-the-original-image-7497fe2119c3](https://medium.com/@vivek.yadav/dealing-with-unbalanced-data-generating-additional-data-by-jittering-the-original-image-7497fe2119c3)
 - ipynb: [https://nbviewer.jupyter.org/github/vxy10/SCND_notebooks/blob/master/preprocessing_stuff/img_transform_NB.ipynb](https://nbviewer.jupyter.org/github/vxy10/SCND_notebooks/blob/master/preprocessing_stuff/img_transform_NB.ipynb)
 
-# Deep What?
-
-**Deep Support Vector Machines**
-
-- video: [http://videolectures.net/roks2013_wiering_vector/](http://videolectures.net/roks2013_wiering_vector/)
-- slides: [http://www.esat.kuleuven.be/sista/ROKS2013/files/presentations/DSVM_ROKS_2013_WIERING.pdf](http://www.esat.kuleuven.be/sista/ROKS2013/files/presentations/DSVM_ROKS_2013_WIERING.pdf)
-
-**Deep Boosting**
-
-- intro: ICML 2014
-- paper: [http://www.cs.princeton.edu/~usyed/CortesMohriSyedICML2014.pdf](http://www.cs.princeton.edu/~usyed/CortesMohriSyedICML2014.pdf)
-- github: [https://github.com/google/deepboost](https://github.com/google/deepboost)
-
-**Deep Neural Decision Forests**
-
-- intro: ICCV 2015. Microsoft Research. ICCV'15 Marr Prize
-- paper: [http://research.microsoft.com/pubs/255952/ICCV15_DeepNDF_main.pdf](http://research.microsoft.com/pubs/255952/ICCV15_DeepNDF_main.pdf)
-- slides: [https://docs.google.com/presentation/d/1Ze7BAiWbMPyF0ax36D-aK00VfaGMGvvgD_XuANQW1gU/edit#slide=id.p](https://docs.google.com/presentation/d/1Ze7BAiWbMPyF0ax36D-aK00VfaGMGvvgD_XuANQW1gU/edit#slide=id.p)
-- github: [https://github.com/chrischoy/fully-differentiable-deep-ndf-tf](https://github.com/chrischoy/fully-differentiable-deep-ndf-tf)
-- supplement: [http://research.microsoft.com/pubs/255952/ICCV15_DeepNDF_suppl.pdf](http://research.microsoft.com/pubs/255952/ICCV15_DeepNDF_suppl.pdf)
-- notes: [http://pan.baidu.com/s/1jGRWem6](http://pan.baidu.com/s/1jGRWem6)
-
-**Deep Kernel Learning**
-
-- arxiv: [http://arxiv.org/abs/1511.02222](http://arxiv.org/abs/1511.02222)
-
-**Questions on Deep Gaussian Processes**
-
-- blog: [http://inverseprobability.com/2015/02/28/questions-on-deep-gaussian-processes/](http://inverseprobability.com/2015/02/28/questions-on-deep-gaussian-processes/)
-
-**Greedy Deep Dictionary Learning**
-
-- arxiv: [http://arxiv.org/abs/1602.00203](http://arxiv.org/abs/1602.00203)
-
-**Qs – Deep Gaussian Processes**
-
-![](https://www.opendatascience.com/wp-content/uploads/2016/05/Gaussian.jpg)
-
-- blog: [https://www.opendatascience.com/blog/qs-deep-gaussian-processes/](https://www.opendatascience.com/blog/qs-deep-gaussian-processes/)
-
-**Bayesian Deep Learning: Neural Networks in PyMC3 estimated with Variational Inference**
-
-- blog: [http://blog.quantopian.com/bayesian-deep-learning/](http://blog.quantopian.com/bayesian-deep-learning/)
-
-**Bayesian Deep Learning Part II: Bridging PyMC3 and Lasagne to build a Hierarchical Neural Network**
-
-- blog: [http://twiecki.github.io/blog/2016/07/05/bayesian-deep-learning/](http://twiecki.github.io/blog/2016/07/05/bayesian-deep-learning/)
-
-**Deep Markov Random Field for Image Modeling**
-
-- intro: ECCV 2016
-- arxiv: [http://arxiv.org/abs/1609.02036](http://arxiv.org/abs/1609.02036)
-- github: [https://github.com/zhirongw/deep-mrf](https://github.com/zhirongw/deep-mrf)
-
-**Practical Learning of Deep Gaussian Processes via Random Fourier Features**
-
-- arxiv: [https://arxiv.org/abs/1610.04386](https://arxiv.org/abs/1610.04386)
-
-**Deep, Dense, and Low-Rank Gaussian Conditional Random Fields**
-
-- arxiv: [https://arxiv.org/abs/1611.09051](https://arxiv.org/abs/1611.09051)
-
-**Deep Probabilistic Programming with Edward**
-
-- intro: Columbia University & Adobe Research & Google
-- poster: [http://dustintran.com/papers/TranHoffmanMurphyBrevdoSaurousBlei2016_poster.pdf](http://dustintran.com/papers/TranHoffmanMurphyBrevdoSaurousBlei2016_poster.pdf)
-
-**Deep Forest: Towards An Alternative to Deep Neural Networks**
-
-- arxiv: [https://arxiv.org/abs/1702.08835](https://arxiv.org/abs/1702.08835)
-
-**Deep Bayesian Active Learning with Image Data**
-
-- project page: [http://mlg.eng.cam.ac.uk/yarin/publications.html#Gal2016Active](http://mlg.eng.cam.ac.uk/yarin/publications.html#Gal2016Active)
-- arxiv: [https://arxiv.org/abs/1703.02910](https://arxiv.org/abs/1703.02910)
-
-**Deep Robust Kalman Filter**
-
-[https://arxiv.org/abs/1703.02310](https://arxiv.org/abs/1703.02310)
-
 # Mathematics
 
 **Some Notes on Applied Mathematics for Machine**
@@ -555,7 +475,6 @@ Classic strategies:
 - github: [https://github.com/wzchen/probability_cheatsheet](https://github.com/wzchen/probability_cheatsheet)
 
 **Probability Cheatsheet v2.0**
-
 [http://static1.squarespace.com/static/54bf3241e4b0f0d81bf7ff36/t/55e9494fe4b011aed10e48e5/1441352015658/probability_cheatsheet.pdf](http://static1.squarespace.com/static/54bf3241e4b0f0d81bf7ff36/t/55e9494fe4b011aed10e48e5/1441352015658/probability_cheatsheet.pdf)
 
 # Kalman Filter
