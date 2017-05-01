@@ -2599,11 +2599,6 @@ feed-forward neural nets and deep learning.
 
 - blog: [http://thegrandjanitor.com/2016/08/15/learning-deep-learning-my-top-five-resource/](http://thegrandjanitor.com/2016/08/15/learning-deep-learning-my-top-five-resource/)
 
-**Attention**
-
-- intro: Attention在视觉上的递归模型 / 基于Attention的图片生成 / 基于Attention的图片主题生成 / 基于Attention的字符识别
-- blog: [http://www.cosmosshadow.com/ml/%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C/2016/03/08/Attention.html](http://www.cosmosshadow.com/ml/%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C/2016/03/08/Attention.html)
-
 **awesome-free-deep-learning-papers**
 
 - github: [https://github.com/HFTrader/awesome-free-deep-learning-papers](https://github.com/HFTrader/awesome-free-deep-learning-papers)
@@ -2647,6 +2642,10 @@ feed-forward neural nets and deep learning.
 
 - intro: A curated list of awesome deep vision web demo
 - github: [https://github.com/hwalsuklee/awesome-deep-vision-web-demo](https://github.com/hwalsuklee/awesome-deep-vision-web-demo)
+
+**Summaries of machine learning papers**
+
+[https://github.com/aleju/papers](https://github.com/aleju/papers)
 
 ## Arxiv Pages
 
