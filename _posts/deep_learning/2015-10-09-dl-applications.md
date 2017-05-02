@@ -928,6 +928,10 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 
 - arxiv: [https://arxiv.org/abs/1701.01486](https://arxiv.org/abs/1701.01486)
 
+**Deep Face Deblurring**
+
+[https://arxiv.org/abs/1704.08772](https://arxiv.org/abs/1704.08772)
+
 # Image Compression
 
 **An image compression and encryption scheme based on deep learning**

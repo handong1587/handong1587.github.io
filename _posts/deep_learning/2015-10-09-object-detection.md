@@ -1230,6 +1230,11 @@ This task involves predicting the salient regions of an image given by human eye
 - keywords: product detection
 - arxiv: [https://arxiv.org/abs/1704.06752](https://arxiv.org/abs/1704.06752)
 
+**Improving Small Object Proposals for Company Logo Detection**
+
+- intro: ICMR 2017
+- arxiv: [https://arxiv.org/abs/1704.08881](https://arxiv.org/abs/1704.08881)
+
 # Localization
 
 **Beyond Bounding Boxes: Precise Localization of Objects in Images**
