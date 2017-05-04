@@ -541,6 +541,11 @@ It is an experimental refactoring of Caffe, and allows a more flexible way to or
 - stackoverflow: [https://stackoverflow.com/questions/tagged/tensorflow](https://stackoverflow.com/questions/tagged/tensorflow)
 - benchmark: [https://github.com/soumith/convnet-benchmarks/issues/66](https://github.com/soumith/convnet-benchmarks/issues/66)
 
+**Benchmarks**
+
+- intro: A selection of image classification models were tested across multiple platforms to create a point of reference for the TensorFlow community
+- homepage: [https://www.tensorflow.org/performance/benchmarks](https://www.tensorflow.org/performance/benchmarks)
+
 ## TensorDebugger (TDB)
 
 **TensorDebugger(TDB): Interactive, node-by-node debugging and visualization for TensorFlow**

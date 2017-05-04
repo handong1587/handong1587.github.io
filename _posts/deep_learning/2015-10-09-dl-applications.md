@@ -529,6 +529,11 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 - intro: CVPR 2017
 - arxiv: [https://arxiv.org/abs/1704.03058](https://arxiv.org/abs/1704.03058)
 
+**Deploying Tensorflow model on Andorid device for Human Activity Recognition**
+
+- blog: [http://aqibsaeed.github.io/2017-05-02-deploying-tensorflow-model-andorid-device-human-activity-recognition/](http://aqibsaeed.github.io/2017-05-02-deploying-tensorflow-model-andorid-device-human-activity-recognition/)
+- github: [https://github.com/aqibsaeed/Human-Activity-Recognition-using-CNN/tree/master/ActivityRecognition](https://github.com/aqibsaeed/Human-Activity-Recognition-using-CNN/tree/master/ActivityRecognition)
+
 # Music / Sound Classification
 
 **Explaining Deep Convolutional Neural Networks on Music Classification**
@@ -1002,13 +1007,13 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 - arxiv: [https://arxiv.org/abs/1703.07195](https://arxiv.org/abs/1703.07195)
 - github(Official, Chainer): [https://github.com/wuhuikai/GP-GAN](https://github.com/wuhuikai/GP-GAN)
 
-# Abnormality / Anomaly Detection
+# Abnormality Detection / Anomaly Detection
 
 **Toward a Taxonomy and Computational Models of Abnormalities in Images**
 
 - arxiv: [http://arxiv.org/abs/1512.01325](http://arxiv.org/abs/1512.01325)
 
-# Depth Prediction
+# Depth Prediction / Depth Estimation
 
 **Deeper Depth Prediction with Fully Convolutional Residual Networks**
 
@@ -1021,6 +1026,10 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 - project pag: [http://ttic.uchicago.edu/~ayanc/mdepth/](http://ttic.uchicago.edu/~ayanc/mdepth/)
 - arxiv: [http://arxiv.org/abs/1605.07081](http://arxiv.org/abs/1605.07081)
 - github: [https://github.com/ayanc/mdepth/](https://github.com/ayanc/mdepth/)
+
+**Single image depth estimation by dilated deep residual convolutional neural network and soft-weight-sum inference**
+
+[https://arxiv.org/abs/1705.00534](https://arxiv.org/abs/1705.00534)
 
 # Texture Synthesis
 

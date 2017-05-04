@@ -440,20 +440,6 @@ and from 73.8% to 83.1% for ResNet-50
 - slides: [https://docs.google.com/presentation/d/16hrXJhOzkbmla9AL7JCreCuBsa5L80gm71Pfrjo7F9Y/edit#slide=id.p](https://docs.google.com/presentation/d/16hrXJhOzkbmla9AL7JCreCuBsa5L80gm71Pfrjo7F9Y/edit#slide=id.p)
 - github: [https://github.com/paucarre/tiefvision](https://github.com/paucarre/tiefvision)
 
-# Datasets
-
-Oxford5k
-
-Paris6k
-
-Oxford105k
-
-UKB
-
-**NUS-WIDE**
-
-**ImageNet-YahooQA**
-
 # Projects
 
 **图像检索：CNN卷积神经网络与实战**

@@ -603,16 +603,6 @@ Continuation of [arXiv:1608.08021](https://arxiv.org/abs/1608.08021)
 - blog: [http://andrewliao11.github.io/object_detection/faster_rcnn/](http://andrewliao11.github.io/object_detection/faster_rcnn/)
 - github: [https://github.com/andrewliao11/py-faster-rcnn-imagenet](https://github.com/andrewliao11/py-faster-rcnn-imagenet)
 
-## Datasets
-
-**YouTube-Objects dataset v2.2**
-
-- homepage: [http://calvin.inf.ed.ac.uk/datasets/youtube-objects-dataset/](http://calvin.inf.ed.ac.uk/datasets/youtube-objects-dataset/)
-
-**ILSVRC2015: Object detection from video (VID)**
-
-- homepage: [http://vision.cs.unc.edu/ilsvrc2015/download-videos-3j16.php#vid](http://vision.cs.unc.edu/ilsvrc2015/download-videos-3j16.php#vid)
-
 # Object Detection in 3D
 
 **Vote3Deep: Fast Object Detection in 3D Point Clouds Using Efficient Convolutional Neural Networks**
@@ -767,12 +757,6 @@ This task involves predicting the salient regions of an image given by human eye
 
 - arxiv: [https://arxiv.org/abs/1702.00871](https://arxiv.org/abs/1702.00871)
 
-## Datasets
-
-**MSRA10K Salient Object Database**
-
-[http://mmcheng.net/msra10k/](http://mmcheng.net/msra10k/)
-
 # Visual Relationship Detection
 
 **Visual Relationship Detection with Language Priors**
@@ -910,20 +894,6 @@ This task involves predicting the salient regions of an image given by human eye
 
 [https://arxiv.org/abs/1703.10818](https://arxiv.org/abs/1703.10818)
 
-### Datasets / Benchmarks
-
-**FDDB: Face Detection Data Set and Benchmark**
-
-- homepage: [http://vis-www.cs.umass.edu/fddb/index.html](http://vis-www.cs.umass.edu/fddb/index.html)
-- results: [http://vis-www.cs.umass.edu/fddb/results.html](http://vis-www.cs.umass.edu/fddb/results.html)
-
-**WIDER FACE: A Face Detection Benchmark**
-
-![](http://mmlab.ie.cuhk.edu.hk/projects/WIDERFace/support/intro.jpg)
-
-- homepage: [http://mmlab.ie.cuhk.edu.hk/projects/WIDERFace/](http://mmlab.ie.cuhk.edu.hk/projects/WIDERFace/)
-- arxiv: [http://arxiv.org/abs/1511.06523](http://arxiv.org/abs/1511.06523)
-
 ## Facial Point / Landmark Detection
 
 **Deep Convolutional Network Cascade for Facial Point Detection**
@@ -1047,6 +1017,13 @@ This task involves predicting the salient regions of an image given by human eye
 
 - intro: BMVC 2016 oral
 - arxiv: [https://arxiv.org/abs/1611.02644](https://arxiv.org/abs/1611.02644)
+
+**Expecting the Unexpected: Training Detectors for Unusual Pedestrians with Adversarial Imposters**
+
+- intro: CVPR 2017
+- project page: [http://ml.cs.tsinghua.edu.cn:5000/publications/synunity/](http://ml.cs.tsinghua.edu.cn:5000/publications/synunity/)
+- arxiv: [https://arxiv.org/abs/1703.06283](https://arxiv.org/abs/1703.06283)
+- github(Tensorflow): [https://github.com/huangshiyu13/RPNplus](https://github.com/huangshiyu13/RPNplus)
 
 ## Vehicle Detection
 

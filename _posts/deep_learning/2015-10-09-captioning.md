@@ -418,15 +418,3 @@ works great with video calls.
 **CaptionBot (Microsoft)**
 
 - website: [https://www.captionbot.ai/](https://www.captionbot.ai/)
-
-# Datasets
-
-**TGIF: A New Dataset and Benchmark on Animated GIF Description**
-
-- arxiv: [http://arxiv.org/abs/1604.02748](http://arxiv.org/abs/1604.02748)
-- github: [https://github.com/raingo/TGIF-Release](https://github.com/raingo/TGIF-Release)
-
-**Collecting Multilingual Parallel Video Descriptions Using Mechanical Turk**
-
-- intro: 1970 YouTube video snippets: 1200 training, 100 validation, 670 test
-- homepage: [http://www.cs.utexas.edu/users/ml/clamp/videoDescription/](http://www.cs.utexas.edu/users/ml/clamp/videoDescription/)

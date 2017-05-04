@@ -272,24 +272,6 @@ date: 2015-10-09
 - intro: LeafSnap replicated using deep neural networks to test accuracy compared to traditional computer vision methods.
 - github: [https://github.com/sujithv28/Deep-Leafsnap](https://github.com/sujithv28/Deep-Leafsnap)
 
-### Datasets / Benchmarks
-
-**The MegaFace Benchmark: 1 Million Faces for Recognition at Scale**
-
-- arxiv: [http://arxiv.org/abs/1512.00596](http://arxiv.org/abs/1512.00596)
-
-**MS-Celeb-1M: A Dataset and Benchmark for Large-Scale Face Recognition**
-
-- arxiv: [http://arxiv.org/abs/1607.08221](http://arxiv.org/abs/1607.08221)
-
-**MSR Image Recognition Challenge (IRC)**
-
-- homepage: [https://www.microsoft.com/en-us/research/project/msr-image-recognition-challenge-irc/](https://www.microsoft.com/en-us/research/project/msr-image-recognition-challenge-irc/)
-
-**UMDFaces: An Annotated Face Dataset for Training Deep Networks**
-
-- arxiv: [https://arxiv.org/abs/1611.01484](https://arxiv.org/abs/1611.01484)
-
 #### OpenFace
 
 **OpenFace: Face Recognition with Deep Neural Networks**
@@ -481,12 +463,6 @@ facial action unit recognition, and eye-gaze estimation.
 
 - project page: [http://places.csail.mit.edu/index.html](http://places.csail.mit.edu/index.html)
 - arxiv: [https://arxiv.org/abs/1610.02055](https://arxiv.org/abs/1610.02055)
-
-# Datasets
-
-**the Places365-CNNs**
-
-- github: [https://github.com/metalbubble/places365](https://github.com/metalbubble/places365)
 
 ## Leaderboard
 

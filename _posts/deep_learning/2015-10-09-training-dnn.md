@@ -196,6 +196,11 @@ date: 2015-10-09
 - arxiv: [https://arxiv.org/abs/1611.01144](https://arxiv.org/abs/1611.01144)
 - github: [https://github.com/ericjang/gumbel-softmax](https://github.com/ericjang/gumbel-softmax)
 
+**On weight initialization in deep neural networks**
+
+- arxiv: [https://arxiv.org/abs/1704.08863](https://arxiv.org/abs/1704.08863)
+- github: [https://github.com/sidkk86/weight_initialization](https://github.com/sidkk86/weight_initialization)
+
 ## Batch Normalization
 
 **Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift**

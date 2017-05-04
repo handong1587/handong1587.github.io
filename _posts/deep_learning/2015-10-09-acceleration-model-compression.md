@@ -195,6 +195,11 @@ to decompose it into the multiplications of thinned dense matrices"
 
 [https://medium.com/m/global-identity?redirectUrl=https://gab41.lab41.org/lab41-reading-group-squeezenet-9b9d1d754c75](https://medium.com/m/global-identity?redirectUrl=https://gab41.lab41.org/lab41-reading-group-squeezenet-9b9d1d754c75)
 
+**Simplified_SqueezeNet**
+
+- intro: An improved version of SqueezeNet networks
+- github(Caffe): [https://github.com/NidabaSystems/Simplified_SqueezeNet](https://github.com/NidabaSystems/Simplified_SqueezeNet)
+
 **SqueezeNet Keras Dogs vs. Cats demo**
 
 - github: [https://github.com/chasingbob/squeezenet-keras](https://github.com/chasingbob/squeezenet-keras)

@@ -5,6 +5,12 @@ title: Keep Up With New Trends
 date: 2016-12-06
 ---
 
+# ICLR 2017
+
+**ICLR 2017 Videos**
+
+[https://www.facebook.com/pg/iclr.cc/videos/](https://www.facebook.com/pg/iclr.cc/videos/)
+
 # CVPR 2017
 
 **CVPR'17 Tutorial: Deep Learning for Objects and Scenes**

@@ -760,14 +760,7 @@ ranked 1st place in ImageNet Scene Parsing Challenge 2016
 
 [http://places2.csail.mit.edu/challenge.html](http://places2.csail.mit.edu/challenge.html)
 
-## Datasets
-
-**ADE20K**
-
-- intro: train: 20,120 images, val: 2000 images
-- homepage: [http://groups.csail.mit.edu/vision/datasets/ADE20K/](http://groups.csail.mit.edu/vision/datasets/ADE20K/)
-
-# Segmentation From Video(Tensorflow)
+# Segmentation From Video
 
 **Fast object segmentation in unconstrained video**
 

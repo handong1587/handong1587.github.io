@@ -191,6 +191,11 @@ not just the convolutions)
 
 - github: [https://github.com/lim0606/torch-inception-resnet-v2](https://github.com/lim0606/torch-inception-resnet-v2)
 
+**Inception v4 in Keras**
+
+- intro: Inception-v4, Inception - Resnet-v1 and v2
+- github: [https://github.com/titu1994/Inception-v4](https://github.com/titu1994/Inception-v4)
+
 ## ResNeXt
 
 **Aggregated Residual Transformations for Deep Neural Networks**
@@ -691,6 +696,11 @@ not just the convolutions)
 **Feature Squeezing: Detecting Adversarial Examples in Deep Neural Networks**
 
 [https://arxiv.org/abs/1704.01155](https://arxiv.org/abs/1704.01155)
+
+**Parseval Networks: Improving Robustness to Adversarial Examples**
+
+- intro: Facebook AI Research
+- arxiv: [https://arxiv.org/abs/1704.08847](https://arxiv.org/abs/1704.08847)
 
 # Deep Learning Networks
 

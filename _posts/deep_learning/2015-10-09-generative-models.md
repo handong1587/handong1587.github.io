@@ -65,6 +65,12 @@ date: 2015-10-09
 - github: [https://github.com/goodfeli/adversarial](https://github.com/goodfeli/adversarial)
 - github: [https://github.com/aleju/cat-generator](https://github.com/aleju/cat-generator)
 
+**Adversarial Feature Learning**
+
+- intro: ICLR 2017
+- arxiv: [https://arxiv.org/abs/1605.09782](https://arxiv.org/abs/1605.09782)
+- github: [https://github.com/jeffdonahue/bigan](https://github.com/jeffdonahue/bigan)
+
 **Generative Adversarial Networks**
 
 - intro: by Ian Goodfellow, NIPS 2016 tutorial
@@ -265,6 +271,10 @@ date: 2015-10-09
 
 - blog: [http://affinelayer.com/pix2pix/index.html](http://affinelayer.com/pix2pix/index.html)
 - github: [https://github.com/affinelayer/pix2pix-tensorflow](https://github.com/affinelayer/pix2pix-tensorflow)
+
+**webcam pix2pix**
+
+[https://github.com/memo/webcam-pix2pix-tensorflow](https://github.com/memo/webcam-pix2pix-tensorflow)
 
 ---
 

@@ -291,6 +291,11 @@ Compressed model is less than 500KB
 - intro: ACM ICMR 2017
 - arxiv: [https://arxiv.org/abs/1704.01745](https://arxiv.org/abs/1704.01745)
 
+**Visual Attribute Transfer through Deep Image Analogy**
+
+- intro: SIGGRAPH 2017
+- arxiv: [https://arxiv.org/abs/1705.01088](https://arxiv.org/abs/1705.01088)
+
 ## Neural Art On Audio
 
 **MSc AI Project on generative deep networks and neural style transfer for audio**
