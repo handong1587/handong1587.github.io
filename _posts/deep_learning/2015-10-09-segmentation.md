@@ -649,7 +649,8 @@ with built-in awareness of semantically meaningful boundaries. "
 
 **Learning to Segment Object Candidates**
 
-- intro: Facebook AI Research (FAIR). learning segmentation proposals
+- intro: Facebook AI Research (FAIR)
+- intro: DeepMask. learning segmentation proposals
 - arxiv: [http://arxiv.org/abs/1506.06204](http://arxiv.org/abs/1506.06204)
 - github: [https://github.com/facebookresearch/deepmask](https://github.com/facebookresearch/deepmask)
 - github: [https://github.com/abbypa/NNProject_DeepMask](https://github.com/abbypa/NNProject_DeepMask)
@@ -657,7 +658,7 @@ with built-in awareness of semantically meaningful boundaries. "
 **Learning to Refine Object Segments**
 
 - intro: ECCV 2016. Facebook AI Research (FAIR)
-- intro: an extension of DeepMask which generates higher-fidelity masks using an additional top-down refinement step.
+- intro: SharpMask. an extension of DeepMask which generates higher-fidelity masks using an additional top-down refinement step.
 - arxiv: [http://arxiv.org/abs/1603.08695](http://arxiv.org/abs/1603.08695)
 - github: [https://github.com/facebookresearch/deepmask](https://github.com/facebookresearch/deepmask)
 
