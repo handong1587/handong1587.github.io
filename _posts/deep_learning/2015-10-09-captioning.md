@@ -272,6 +272,10 @@ after the embedding and recurrent layers of the RNN."
 
 [https://arxiv.org/abs/1704.08224](https://arxiv.org/abs/1704.08224)
 
+**Show, Adapt and Tell: Adversarial Training of Cross-domain Image Captioner**
+
+[https://arxiv.org/abs/1705.00930](https://arxiv.org/abs/1705.00930)
+
 # Object Descriptions
 
 **Generation and Comprehension of Unambiguous Object Descriptions**
@@ -392,6 +396,10 @@ after the embedding and recurrent layers of the RNN."
 
 - intro: CVPR 2017. movie description
 - arxiv: [https://arxiv.org/abs/1704.01518](https://arxiv.org/abs/1704.01518)
+
+**Dense-Captioning Events in Videos**
+
+[https://arxiv.org/abs/1705.00754](https://arxiv.org/abs/1705.00754)
 
 # Projects
 

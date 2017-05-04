@@ -268,6 +268,7 @@ while maintaining state-of-the-art accuracy. For GoogLeNet, our model has 7% few
 
 **Pruning Filters for Efficient ConvNets**
 
+- intro: NIPS Workshop on Efficient Methods for Deep Neural Networks (EMDNN), 2016
 - arxiv: [http://arxiv.org/abs/1608.08710](http://arxiv.org/abs/1608.08710)
 
 **Accelerating Deep Convolutional Networks using low-precision and sparsity**
@@ -477,3 +478,10 @@ at INT8 deep learning operations than other FPGA DSP architectures"
 
 - intro: tutorial at the May 2015 Embedded Vision Summit
 - youtube: [https://www.youtube.com/watch?v=xACJBACStaU](https://www.youtube.com/watch?v=xACJBACStaU)
+
+# Resources
+
+**Embedded-Neural-Network**
+
+- intro: collection of works aiming at reducing model sizes or the ASIC/FPGA accelerator for machine learning
+- github: [https://github.com/ZhishengWang/Embedded-Neural-Network](https://github.com/ZhishengWang/Embedded-Neural-Network)

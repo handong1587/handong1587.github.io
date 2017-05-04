@@ -547,24 +547,6 @@ with built-in awareness of semantically meaningful boundaries. "
 - blog: [https://medium.com/the-downlinq/object-segmentation-on-spacenet-via-multi-task-network-cascades-mnc-f1c89d790b42](https://medium.com/the-downlinq/object-segmentation-on-spacenet-via-multi-task-network-cascades-mnc-f1c89d790b42)
 - github: [https://github.com/lncohn/pascal_to_spacenet](https://github.com/lncohn/pascal_to_spacenet)
 
-## DeepMask
-
-**Learning to Segment Object Candidates**
-
-- intro: Facebook AI Research (FAIR). learning segmentation proposals
-- arxiv: [http://arxiv.org/abs/1506.06204](http://arxiv.org/abs/1506.06204)
-- github: [https://github.com/facebookresearch/deepmask](https://github.com/facebookresearch/deepmask)
-- github: [https://github.com/abbypa/NNProject_DeepMask](https://github.com/abbypa/NNProject_DeepMask)
-
-## SharpMask
-
-**Learning to Refine Object Segments**
-
-- intro: ECCV 2016. Facebook AI Research (FAIR)
-- intro: an extension of DeepMask which generates higher-fidelity masks using an additional top-down refinement step.
-- arxiv: [http://arxiv.org/abs/1603.08695](http://arxiv.org/abs/1603.08695)
-- github: [https://github.com/facebookresearch/deepmask](https://github.com/facebookresearch/deepmask)
-
 **Instance-sensitive Fully Convolutional Networks**
 
 - intro: ECCV 2016. instance segment proposal
@@ -665,6 +647,21 @@ with built-in awareness of semantically meaningful boundaries. "
 
 # Segment Proposal
 
+**Learning to Segment Object Candidates**
+
+- intro: Facebook AI Research (FAIR)
+- intro: DeepMask. learning segmentation proposals
+- arxiv: [http://arxiv.org/abs/1506.06204](http://arxiv.org/abs/1506.06204)
+- github: [https://github.com/facebookresearch/deepmask](https://github.com/facebookresearch/deepmask)
+- github: [https://github.com/abbypa/NNProject_DeepMask](https://github.com/abbypa/NNProject_DeepMask)
+
+**Learning to Refine Object Segments**
+
+- intro: ECCV 2016. Facebook AI Research (FAIR)
+- intro: SharpMask. an extension of DeepMask which generates higher-fidelity masks using an additional top-down refinement step.
+- arxiv: [http://arxiv.org/abs/1603.08695](http://arxiv.org/abs/1603.08695)
+- github: [https://github.com/facebookresearch/deepmask](https://github.com/facebookresearch/deepmask)
+
 **FastMask: Segment Object Multi-scale Candidates in One Shot**
 
 - intro: CVPR 2017. University of California & Fudan University & Megvii Inc.
@@ -721,6 +718,8 @@ with built-in awareness of semantically meaningful boundaries. "
 
 - arxiv: [https://arxiv.org/abs/1611.07485](https://arxiv.org/abs/1611.07485)
 
+## PSPNet
+
 **Pyramid Scene Parsing Network**
 
 - intro: mIoU score as 85.4% on PASCAL VOC 2012 and 80.2% on Cityscapes, 
@@ -768,7 +767,7 @@ ranked 1st place in ImageNet Scene Parsing Challenge 2016
 - intro: train: 20,120 images, val: 2000 images
 - homepage: [http://groups.csail.mit.edu/vision/datasets/ADE20K/](http://groups.csail.mit.edu/vision/datasets/ADE20K/)
 
-# Segmentation From Video
+# Segmentation From Video(Tensorflow)
 
 **Fast object segmentation in unconstrained video**
 
