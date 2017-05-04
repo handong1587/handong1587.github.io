@@ -997,6 +997,10 @@ with fast exact probabilistic inference over many layers."
 
 [https://arxiv.org/abs/1703.06817](https://arxiv.org/abs/1703.06817)
 
+**Gabor Convolutional Networks**
+
+[https://arxiv.org/abs/1705.01450](https://arxiv.org/abs/1705.01450)
+
 ## Highway Networks
 
 **Highway Networks**
