@@ -667,7 +667,7 @@ with built-in awareness of semantically meaningful boundaries. "
 
 **FastMask: Segment Object Multi-scale Candidates in One Shot**
 
-- intro: University of California & Fudan University & Megvii Inc.
+- intro: CVPR 2017. University of California & Fudan University & Megvii Inc.
 - arxiv: [https://arxiv.org/abs/1612.08843](https://arxiv.org/abs/1612.08843)
 - github: [https://github.com/voidrank/FastMask](https://github.com/voidrank/FastMask)
 
