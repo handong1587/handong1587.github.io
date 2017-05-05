@@ -254,10 +254,10 @@ date: 2015-10-09
 - slides: [http://www.cs.unc.edu/%7Ewliu/papers/ssd_eccv2016_slide.pdf](http://www.cs.unc.edu/%7Ewliu/papers/ssd_eccv2016_slide.pdf)
 - github: [https://github.com/weiliu89/caffe/tree/ssd](https://github.com/weiliu89/caffe/tree/ssd)
 - video: [http://weibo.com/p/2304447a2326da963254c963c97fb05dd3a973](http://weibo.com/p/2304447a2326da963254c963c97fb05dd3a973)
-- github(MXNet): [https://github.com/zhreshold/mxnet-ssd](https://github.com/zhreshold/mxnet-ssd)
+- github: [https://github.com/zhreshold/mxnet-ssd](https://github.com/zhreshold/mxnet-ssd)
 - github: [https://github.com/zhreshold/mxnet-ssd.cpp](https://github.com/zhreshold/mxnet-ssd.cpp)
-- github(Keras): [https://github.com/rykov8/ssd_keras](https://github.com/rykov8/ssd_keras)
-- github(TensorFlow): [https://github.com/balancap/SSD-Tensorflow](https://github.com/balancap/SSD-Tensorflow)
+- github: [https://github.com/rykov8/ssd_keras](https://github.com/rykov8/ssd_keras)
+- github: [https://github.com/balancap/SSD-Tensorflow](https://github.com/balancap/SSD-Tensorflow)
 - github: [https://github.com/amdegroot/ssd.pytorch](https://github.com/amdegroot/ssd.pytorch)
 
 ## Inside-Outside Net (ION)
