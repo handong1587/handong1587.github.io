@@ -80,13 +80,13 @@ cat /usr/local/cuda/include/cudnn.h | grep CUDNN_MAJOR -A 2
 Print lines 20 to 40:
 
 ```
-sed -n '20,40p;41q' file_name
+sed -n '20,40p' file_name
 ```
 
 or:
 
 ```
-sed -n '20,40p' file_name
+sed -n '20,40p;41q' file_name
 ```
 
 or:
@@ -565,6 +565,30 @@ echo $! > save_runGenerareSSProposals_val_pid.txt
 ```
 
 # Others
+
+**Hotkeys to speed up Linux CLI navigation:**
+
+| hotkey    |                                                                                                              |
+| :------:  | :----------------------------------------------------------------------------------------------------------: |
+| Ctrl + a  | go to the start of the command line                                                                          |
+| Ctrl + e  | go to the end of the command line                                                                            |
+| Ctrl + k  | delete from cursor to the end of the command line                                                            |
+| Ctrl + u  | delete from cursor to the start of the command line                                                          |
+| Ctrl + w  | delete from cursor to start of word (i.e. delete backwards one word)                                         |
+| Ctrl + y  | paste word or text that was cut using one of the deletion shortcuts (such as the one above) after the cursor |
+| Ctrl + xx | move between start of command line and current cursor position (and back again)                              |
+| Alt + b   | move backward one word (or go to start of word the cursor is currently on)                                   |
+| Alt + f   | move forward one word (or go to end of word the cursor is currently on)                                      |
+| Alt + d   | delete to end of word starting at cursor (whole word if cursor is at the beginning of word)                  |
+| Alt + c   | capitalize to end of word starting at cursor (whole word if cursor is at the beginning of word)              |
+| Alt + u   | make uppercase from cursor to end of word                                                                    |
+| Alt + l   | make lowercase from cursor to end of word                                                                    |
+| Alt + t   | swap current word with previous                                                                              |
+| Ctrl + f  | move forward one character                                                                                   |
+| Ctrl + b  | move backward one character                                                                                  |
+| Ctrl + d  | delete character under the cursor                                                                            |
+| Ctrl + h  | delete character before the cursor                                                                           |
+| Ctrl + t  | swap character under cursor with the previous one                                                            |
 
 Launch terminal in Ubuntu: Ctrl+Alt+T
 

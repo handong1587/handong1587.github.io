@@ -254,6 +254,14 @@ The user can run the packaged app without installing a Python interpreter or any
 
 [https://intellij-rust.github.io/](https://intellij-rust.github.io/)
 
+
+# Shell
+
+**ShellCheck - A shell script static analysis tool**
+
+- intro: ShellCheck is a GPLv3 tool that gives warnings and suggestions for bash/sh shell script
+- github: [https://github.com/koalaman/shellcheck](https://github.com/koalaman/shellcheck)
+
 # Vim
 
 **Things About Vim I Wish I Knew Earlier**

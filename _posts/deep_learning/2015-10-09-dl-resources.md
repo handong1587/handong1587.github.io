@@ -1000,6 +1000,7 @@ with fast exact probabilistic inference over many layers."
 
 - intro: Microsoft Research Asia
 - arxiv: [https://arxiv.org/abs/1703.06211](https://arxiv.org/abs/1703.06211)
+- github(official): [https://github.com/msracver/Deformable-ConvNets](https://github.com/msracver/Deformable-ConvNets)
 - github: [https://github.com/felixlaumon/deform-conv](https://github.com/felixlaumon/deform-conv)
 - github: [https://github.com/oeway/pytorch-deform-conv](https://github.com/oeway/pytorch-deform-conv)
 

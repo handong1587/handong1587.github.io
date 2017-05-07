@@ -760,6 +760,21 @@ ranked 1st place in ImageNet Scene Parsing Challenge 2016
 
 [http://places2.csail.mit.edu/challenge.html](http://places2.csail.mit.edu/challenge.html)
 
+# Human Parsing
+
+**Human Parsing with Contextualized Convolutional Neural Network**
+
+- intro: ICCV 2015
+- paper: [http://www.cv-foundation.org/openaccess/content_iccv_2015/html/Liang_Human_Parsing_With_ICCV_2015_paper.html](http://www.cv-foundation.org/openaccess/content_iccv_2015/html/Liang_Human_Parsing_With_ICCV_2015_paper.html)
+
+**Look into Person: Self-supervised Structure-sensitive Learning and A New Benchmark for Human Parsing**
+
+- intro: CVPr 2017. SYSU & CMU
+- keywords: Look Into Person (LIP)
+- project page: [http://hcp.sysu.edu.cn/lip/](http://hcp.sysu.edu.cn/lip/)
+- arxiv: [https://arxiv.org/abs/1703.05446](https://arxiv.org/abs/1703.05446)
+- github: [https://github.com/Engineering-Course/LIP_SSL](https://github.com/Engineering-Course/LIP_SSL)
+
 # Segmentation From Video
 
 **Fast object segmentation in unconstrained video**
