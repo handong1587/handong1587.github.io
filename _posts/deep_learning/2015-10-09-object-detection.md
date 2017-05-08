@@ -534,6 +534,10 @@ Continuation of [arXiv:1608.08021](https://arxiv.org/abs/1608.08021)
 
 [https://arxiv.org/abs/1704.05775](https://arxiv.org/abs/1704.05775)
 
+**S-OHEM: Stratified Online Hard Example Mining for Object Detection**
+
+[https://arxiv.org/abs/1705.02233](https://arxiv.org/abs/1705.02233)
+
 # Detection From Video
 
 **Learning Object Class Detectors from Weakly Annotated Video**

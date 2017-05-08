@@ -1260,6 +1260,11 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 - intro: CVPR 2017
 - arxiv: [https://arxiv.org/abs/1704.01719](https://arxiv.org/abs/1704.01719)
 
+**Part-based Deep Hashing for Large-scale Person Re-identification**
+
+- intro: IEEE Transactions on Image Processing, 2017
+- arxiv: [https://arxiv.org/abs/1705.02145](https://arxiv.org/abs/1705.02145)
+
 # Music Tagging
 
 **Automatic tagging using deep convolutional neural networks**

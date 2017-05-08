@@ -296,6 +296,10 @@ Compressed model is less than 500KB
 - intro: SIGGRAPH 2017
 - arxiv: [https://arxiv.org/abs/1705.01088](https://arxiv.org/abs/1705.01088)
 
+**Characterizing and Improving Stability in Neural Style Transfer**
+
+[https://arxiv.org/abs/1705.02092](https://arxiv.org/abs/1705.02092)
+
 ## Neural Art On Audio
 
 **MSc AI Project on generative deep networks and neural style transfer for audio**
