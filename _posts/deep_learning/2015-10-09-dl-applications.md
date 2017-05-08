@@ -357,6 +357,13 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 - project page: [https://www.adrianbulat.com/binary-cnn-landmarks](https://www.adrianbulat.com/binary-cnn-landmarks)
 - arxiv: [https://www.arxiv.org/abs/1703.00862](https://www.arxiv.org/abs/1703.00862)
 
+**Adversarial PoseNet: A Structure-aware Convolutional Network for Human Pose Estimation**
+
+- arxiv: [https://arxiv.org/abs/1705.00389](https://arxiv.org/abs/1705.00389)
+- video: [http://v.qq.com/x/page/c039862eira.html](http://v.qq.com/x/page/c039862eira.html)
+- video: [http://v.qq.com/x/page/f0398zcvkl5.html](http://v.qq.com/x/page/f0398zcvkl5.html)
+- video: [http://v.qq.com/x/page/w0398ei9m1r.html](http://v.qq.com/x/page/w0398ei9m1r.html)
+
 # Sentiment Prediction
 
 **From Pixels to Sentiment: Fine-tuning CNNs for Visual Sentiment Prediction**
@@ -1201,69 +1208,6 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 - intro: CVPR 2017 oral
 - project page: [http://www3.cs.stonybrook.edu/~cvl/content/neuralface/neuralface.html](http://www3.cs.stonybrook.edu/~cvl/content/neuralface/neuralface.html)
 - arxiv: [https://arxiv.org/abs/1704.04131](https://arxiv.org/abs/1704.04131)
-
-# Person Re-identification
-
-**DeepReID: Deep Filter Pairing Neural Network for Person Re-Identification**
-
-- intro: CVPR 2014
-- paper: [http://www.cv-foundation.org/openaccess/content_cvpr_2014/papers/Li_DeepReID_Deep_Filter_2014_CVPR_paper.pdf](http://www.cv-foundation.org/openaccess/content_cvpr_2014/papers/Li_DeepReID_Deep_Filter_2014_CVPR_paper.pdf)
-
-**Recurrent Convolutional Network for Video-based Person Re-Identification**
-
-- arxiv: [Recurrent Convolutional Network for Video-based Person Re-Identification](Recurrent Convolutional Network for Video-based Person Re-Identification)
-
-**PersonNet: Person Re-identification with Deep Convolutional Neural Networks**
-
-- arxiv: [http://arxiv.org/abs/1601.07255](http://arxiv.org/abs/1601.07255)
-
-**Learning Deep Feature Representations with Domain Guided Dropout for Person Re-identification**
-
-- intro: CVPR 2016
-- arxiv: [https://arxiv.org/abs/1604.07528](https://arxiv.org/abs/1604.07528)
-- github: [https://github.com/Cysu/dgd_person_reid](https://github.com/Cysu/dgd_person_reid)
-
-**A Multi-task Deep Network for Person Re-identification**
-
-- arxiv: [http://arxiv.org/abs/1607.05369](http://arxiv.org/abs/1607.05369)
-
-**Gated Siamese Convolutional Neural Network Architecture for Human Re-Identification**
-
-- arxiv: [http://arxiv.org/abs/1607.08378](http://arxiv.org/abs/1607.08378)
-
-**A Siamese Long Short-Term Memory Architecture for Human Re-Identification**
-
-- arxiv: [http://arxiv.org/abs/1607.08381](http://arxiv.org/abs/1607.08381)
-
-**Gated Siamese Convolutional Neural Network Architecture for Human Re-Identification**
-
-- arxiv: [https://arxiv.org/abs/1607.08378](https://arxiv.org/abs/1607.08378)
-
-**Deep Learning Prototype Domains for Person Re-Identification**
-
-- arxiv: [https://arxiv.org/abs/1610.05047](https://arxiv.org/abs/1610.05047)
-
-**Deep Transfer Learning for Person Re-identification**
-
-- arxiv: [https://arxiv.org/abs/1611.05244](https://arxiv.org/abs/1611.05244)
-
-**Structured Deep Hashing with Convolutional Neural Networks for Fast Person Re-identification**
-
-- arxiv: [https://arxiv.org/abs/1702.04179](https://arxiv.org/abs/1702.04179)
-
-**In Defense of the Triplet Loss for Person Re-Identification**
-
-[https://arxiv.org/abs/1703.07737](https://arxiv.org/abs/1703.07737)
-
-**Beyond triplet loss: a deep quadruplet network for person re-identification**
-
-- intro: CVPR 2017
-- arxiv: [https://arxiv.org/abs/1704.01719](https://arxiv.org/abs/1704.01719)
-
-**Part-based Deep Hashing for Large-scale Person Re-identification**
-
-- intro: IEEE Transactions on Image Processing, 2017
-- arxiv: [https://arxiv.org/abs/1705.02145](https://arxiv.org/abs/1705.02145)
 
 # Music Tagging
 

@@ -408,6 +408,11 @@ at INT8 deep learning operations than other FPGA DSP architectures"
 - discussion: [https://github.com/soumith/convnet-benchmarks/issues/59#issuecomment-150111895](https://github.com/soumith/convnet-benchmarks/issues/59#issuecomment-150111895)
 - reddit: [https://www.reddit.com/r/MachineLearning/comments/3nocg5/fast_algorithms_for_convolutional_neural_networks/?](https://www.reddit.com/r/MachineLearning/comments/3nocg5/fast_algorithms_for_convolutional_neural_networks/?)
 
+**Speeding up Convolutional Neural Networks By Exploiting the Sparsity of Rectifier Units**
+
+- intro: Hong Kong Baptist University
+- arxiv: [https://arxiv.org/abs/1704.07724](https://arxiv.org/abs/1704.07724)
+
 # Projects
 
 **Accelerate Convolutional Neural Networks**

@@ -346,8 +346,9 @@ and 1.15s per image with it".
 - arxiv: [http://arxiv.org/abs/1605.06409](http://arxiv.org/abs/1605.06409)
 - github: [https://github.com/daijifeng001/R-FCN](https://github.com/daijifeng001/R-FCN)
 - github: [https://github.com/Orpine/py-R-FCN](https://github.com/Orpine/py-R-FCN)
-- github(PyTorch): [https://github.com/PureDiors/pytorch_RFCN](https://github.com/PureDiors/pytorch_RFCN)
+- github: [https://github.com/PureDiors/pytorch_RFCN](https://github.com/PureDiors/pytorch_RFCN)
 - github: [https://github.com/bharatsingh430/py-R-FCN-multiGPU](https://github.com/bharatsingh430/py-R-FCN-multiGPU)
+- github: [https://github.com/xdever/RFCN-tensorflow](https://github.com/xdever/RFCN-tensorflow)
 
 **Weakly supervised object detection using pseudo-strong labels**
 

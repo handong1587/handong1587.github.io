@@ -399,7 +399,8 @@ after the embedding and recurrent layers of the RNN."
 
 **Dense-Captioning Events in Videos**
 
-[https://arxiv.org/abs/1705.00754](https://arxiv.org/abs/1705.00754)
+- project page: [http://cs.stanford.edu/people/ranjaykrishna/densevid/](http://cs.stanford.edu/people/ranjaykrishna/densevid/)
+- arxiv: [https://arxiv.org/abs/1705.00754](https://arxiv.org/abs/1705.00754)
 
 # Projects
 
