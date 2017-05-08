@@ -388,7 +388,7 @@ fine-tune the trained network with more challenging examples later
 
 **RefineNet: Multi-Path Refinement Networks for High-Resolution Semantic Segmentation**
 
-- intro: IoU 83.4% on PASCAL VOC 2012
+- intro: CVPR 2017. IoU 83.4% on PASCAL VOC 2012
 - arxiv: [https://arxiv.org/abs/1611.06612](https://arxiv.org/abs/1611.06612)
 - github: [https://github.com/guosheng/refinenet](https://github.com/guosheng/refinenet)
 - leaderboard: [http://host.robots.ox.ac.uk:8080/leaderboard/displaylb.php?challengeid=11&compid=6#KEY_Multipath-RefineNet-Res152](http://host.robots.ox.ac.uk:8080/leaderboard/displaylb.php?challengeid=11&compid=6#KEY_Multipath-RefineNet-Res152)

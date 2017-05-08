@@ -440,7 +440,7 @@ facial action unit recognition, and eye-gaze estimation.
 
 - arxiv: [https://arxiv.org/abs/1701.02620](https://arxiv.org/abs/1701.02620)
 
-# Scene Recognition
+# Scene Recognition / Scene Classification
 
 **Learning Deep Features for Scene Recognition using Places Database**
 
@@ -454,6 +454,10 @@ facial action unit recognition, and eye-gaze estimation.
 [He et. al., "Deep Residual Learning for Image Recognition"](http://arxiv.org/abs/1512.03385).
 - blog: [http://www.nervanasys.com/using-neon-for-scene-recognition-mini-places2/](http://www.nervanasys.com/using-neon-for-scene-recognition-mini-places2/)
 - github: [https://github.com/hunterlang/mpmz](https://github.com/hunterlang/mpmz)
+
+**Scene Classification with Inception-7**
+
+- slides: [http://lsun.cs.princeton.edu/slides/Christian.pdf](http://lsun.cs.princeton.edu/slides/Christian.pdf)
 
 **Semantic Clustering for Robust Fine-Grained Scene Recognition**
 
