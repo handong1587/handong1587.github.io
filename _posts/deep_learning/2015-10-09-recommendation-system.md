@@ -175,3 +175,8 @@ This package also includes implementation of RBM based collaborative filtering m
 **Recommender Systems with Deep Learning**
 
 [https://amundtveit.com/2016/11/20/recommender-systems-with-deep-learning/](https://amundtveit.com/2016/11/20/recommender-systems-with-deep-learning/)
+
+**Deep-Learning-for-Recommendation-Systems**
+
+- intro: This repository contains Deep Learning based articles , paper and repositories for Recommender Systems
+- github: [https://github.com/robi56/Deep-Learning-for-Recommendation-Systems](https://github.com/robi56/Deep-Learning-for-Recommendation-Systems)

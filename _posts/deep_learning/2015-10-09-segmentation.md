@@ -490,6 +490,13 @@ with built-in awareness of semantically meaningful boundaries. "
 - github: [https://github.com/hszhao/ICNet](https://github.com/hszhao/ICNet)
 - video: [https://www.youtube.com/watch?v=qWl9idsCuLQ](https://www.youtube.com/watch?v=qWl9idsCuLQ)
 
+## LinkNet
+
+**Feature Forwarding: Exploiting Encoder Representations for Efficient Semantic Segmentation**
+
+- project page: [https://codeac29.github.io/projects/linknet/](https://codeac29.github.io/projects/linknet/)
+- github: [https://github.com/e-lab/LinkNet](https://github.com/e-lab/LinkNet)
+
 # Instance Segmentation
 
 **Simultaneous Detection and Segmentation**

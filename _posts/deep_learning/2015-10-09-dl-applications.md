@@ -926,7 +926,10 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 
 **Deep Video Deblurring**
 
+- intro: CVPR 2017 spotlight paper
+- project page(code+dataset): [http://www.cs.ubc.ca/labs/imager/tr/2017/DeepVideoDeblurring/](http://www.cs.ubc.ca/labs/imager/tr/2017/DeepVideoDeblurring/)
 - arxiv: [https://arxiv.org/abs/1611.08387](https://arxiv.org/abs/1611.08387)
+[https://github.com/shuochsu/DeepVideoDeblurring](https://github.com/shuochsu/DeepVideoDeblurring)
 
 **Deep Multi-scale Convolutional Neural Network for Dynamic Scene Deblurring**
 
@@ -967,6 +970,7 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 **End-to-end Optimized Image Compression**
 
 - arxiv: [https://arxiv.org/abs/1611.01704](https://arxiv.org/abs/1611.01704)
+- notes: [https://blog.acolyer.org/2017/05/08/end-to-end-optimized-image-compression/](https://blog.acolyer.org/2017/05/08/end-to-end-optimized-image-compression/)
 
 **CAS-CNN: A Deep Convolutional Neural Network for Image Compression Artifact Suppression**
 

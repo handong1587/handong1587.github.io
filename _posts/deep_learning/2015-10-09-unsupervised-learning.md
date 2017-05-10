@@ -97,6 +97,17 @@ Auto-encoder
 
 ## Clustering
 
+**Deep clustering: Discriminative embeddings for segmentation and separation**
+
+- arxiv: [https://arxiv.org/abs/1508.04306](https://arxiv.org/abs/1508.04306)
+- github(Keras): [https://github.com/jcsilva/deep-clustering](https://github.com/jcsilva/deep-clustering)
+
+**Unsupervised Deep Embedding for Clustering Analysis**
+
+- intro: ICML 2016. Deep Embedded Clustering (DEC)
+- arxiv: [https://arxiv.org/abs/1511.06335](https://arxiv.org/abs/1511.06335)
+- github: [https://github.com/piiswrong/dec](https://github.com/piiswrong/dec)
+
 **Joint Unsupervised Learning of Deep Representations and Image Clusters**
 
 - intro: CVPR 2016
@@ -106,12 +117,6 @@ Auto-encoder
 **Single-Channel Multi-Speaker Separation using Deep Clustering**
 
 - arxiv: [http://arxiv.org/abs/1607.02173](http://arxiv.org/abs/1607.02173)
-
-**Unsupervised Deep Embedding for Clustering Analysis**
-
-- intro: ICML 2016. Deep Embedded Clustering (DEC)
-- arxiv: [https://arxiv.org/abs/1511.06335](https://arxiv.org/abs/1511.06335)
-- github: [https://github.com/piiswrong/dec](https://github.com/piiswrong/dec)
 
 **Towards K-means-friendly Spaces: Simultaneous Deep Learning and Clustering**
 
