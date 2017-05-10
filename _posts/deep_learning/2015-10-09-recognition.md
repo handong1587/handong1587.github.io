@@ -398,6 +398,10 @@ facial action unit recognition, and eye-gaze estimation.
 - blog: [http://blog.stratospark.com/deep-learning-applied-food-classification-deep-learning-keras.html](http://blog.stratospark.com/deep-learning-applied-food-classification-deep-learning-keras.html)
 - github: [https://github.com/stratospark/food-101-keras](https://github.com/stratospark/food-101-keras)
 
+**ChineseFoodNet: A large-scale Image Dataset for Chinese Food Recognition**
+
+[https://arxiv.org/abs/1705.02743](https://arxiv.org/abs/1705.02743)
+
 ### Instrument Recognition
 
 **Automatic Instrument Recognition in Polyphonic Music Using Convolutional Neural Networks**

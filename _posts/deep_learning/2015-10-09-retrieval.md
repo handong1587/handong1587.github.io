@@ -464,6 +464,10 @@ and from 73.8% to 83.1% for ResNet-50
 - intro: IEEE Transactions on Image Processing, 2017
 - arxiv: [https://arxiv.org/abs/1705.02145](https://arxiv.org/abs/1705.02145)
 
+**Deep Person Re-Identification with Improved Embedding**
+
+[https://arxiv.org/abs/1705.03332](https://arxiv.org/abs/1705.03332)
+
 # Learning to Rank
 
 **Simple to Complex Cross-modal Learning to Rank**

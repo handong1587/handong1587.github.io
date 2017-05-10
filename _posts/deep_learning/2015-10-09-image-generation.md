@@ -173,6 +173,10 @@ date: 2015-10-09
 - intro: Southwest Jiaotong University & National University of Singapore
 - arxiv: [https://arxiv.org/abs/1704.04886](https://arxiv.org/abs/1704.04886)
 
+**Generative Cooperative Net for Image Generation and Data Augmentation**
+
+[https://arxiv.org/abs/1705.02887](https://arxiv.org/abs/1705.02887)
+
 # Deep Generative Model
 
 **Digit Fantasies by a Deep Generative Model**

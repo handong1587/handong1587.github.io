@@ -518,13 +518,6 @@ Continuation of [arXiv:1608.08021](https://arxiv.org/abs/1608.08021)
 
 - arxiv: [https://arxiv.org/abs/1704.04224](https://arxiv.org/abs/1704.04224)
 
-**Improving Object Detection With One Line of Code**
-
-- intro: University of Maryland
-- keywords: Soft-NMS
-- arxiv: [https://arxiv.org/abs/1704.04503](https://arxiv.org/abs/1704.04503)
-- github: [https://github.com/bharatsingh430/soft-nms](https://github.com/bharatsingh430/soft-nms)
-
 **Accurate Single Stage Detector Using Recurrent Rolling Convolution**
 
 - intro: CVPR 2017
@@ -538,6 +531,19 @@ Continuation of [arXiv:1608.08021](https://arxiv.org/abs/1608.08021)
 **S-OHEM: Stratified Online Hard Example Mining for Object Detection**
 
 [https://arxiv.org/abs/1705.02233](https://arxiv.org/abs/1705.02233)
+
+## NMS
+
+**Improving Object Detection With One Line of Code**
+
+- intro: University of Maryland
+- keywords: Soft-NMS
+- arxiv: [https://arxiv.org/abs/1704.04503](https://arxiv.org/abs/1704.04503)
+- github: [https://github.com/bharatsingh430/soft-nms](https://github.com/bharatsingh430/soft-nms)
+
+**Learning non-maximum suppression**
+
+[https://arxiv.org/abs/1705.02950](https://arxiv.org/abs/1705.02950)
 
 # Detection From Video
 
@@ -1085,6 +1091,10 @@ This task involves predicting the salient regions of an image given by human eye
 
 - intro: richer convolutional features (RCF)
 - arxiv: [https://arxiv.org/abs/1612.02103](https://arxiv.org/abs/1612.02103)
+
+**Contour Detection from Deep Patch-level Boundary Prediction**
+
+[https://arxiv.org/abs/1705.03159](https://arxiv.org/abs/1705.03159)
 
 ## Skeleton Detection
 

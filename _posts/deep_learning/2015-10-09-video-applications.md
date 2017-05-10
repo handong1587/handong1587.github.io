@@ -50,6 +50,10 @@ date: 2015-10-09
 
 [https://arxiv.org/abs/1703.09788](https://arxiv.org/abs/1703.09788)
 
+**Large-scale, Fast and Accurate Shot Boundary Detection through Spatio-temporal Convolutional Neural Networks**
+
+[https://arxiv.org/abs/1705.03281](https://arxiv.org/abs/1705.03281)
+
 # Video Classification
 
 **Large-scale Video Classification with Convolutional Neural Networks**
@@ -239,6 +243,11 @@ extract saptio-temporal features to represent the video using the CNNs."
 - arxiv: [http://arxiv.org/abs/1608.00859](http://arxiv.org/abs/1608.00859)
 - paper: [http://wanglimin.github.io/papers/WangXWQLTV_ECCV16.pdf](http://wanglimin.github.io/papers/WangXWQLTV_ECCV16.pdf)
 - github: [https://github.com/yjxiong/temporal-segment-networks](https://github.com/yjxiong/temporal-segment-networks)
+
+**Temporal Segment Networks for Action Recognition in Videos**
+
+- intro: An extension of submission [http://arxiv.org/abs/1608.00859](http://arxiv.org/abs/1608.00859)
+- arxiv: [https://arxiv.org/abs/1705.02953](https://arxiv.org/abs/1705.02953)
 
 **Hierarchical Attention Network for Action Recognition in Videos**
 

@@ -555,6 +555,11 @@ date: 2015-10-09
 
 - arxiv: [https://arxiv.org/abs/1701.05369](https://arxiv.org/abs/1701.05369)
 
+**Learning Deep Networks from Noisy Labels with Dropout Regularization**
+
+- intro: 2016 IEEE 16th International Conference on Data Mining
+- arxiv: [https://arxiv.org/abs/1705.03419](https://arxiv.org/abs/1705.03419)
+
 ## DropConnect
 
 **Regularization of Neural Networks using DropConnect**

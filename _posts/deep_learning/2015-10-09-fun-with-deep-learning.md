@@ -580,6 +580,13 @@ Compressed model is less than 500KB
 - intro: Google Brain
 - arxiv: [https://arxiv.org/abs/1704.03477](https://arxiv.org/abs/1704.03477)
 
+**Real-Time User-Guided Image Colorization with Learned Deep Priors**
+
+- intro: SIGGRAPH 2017
+- project page: [https://richzhang.github.io/ideepcolor/](https://richzhang.github.io/ideepcolor/)
+- arxiv: [https://arxiv.org/abs/1705.02999](https://arxiv.org/abs/1705.02999)
+- github(official, Caffe): [https://github.com/junyanz/interactive-deep-colorization](https://github.com/junyanz/interactive-deep-colorization)
+
 # Sounds
 
 **Visually Indicated Sounds**
