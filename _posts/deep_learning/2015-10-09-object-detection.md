@@ -1089,8 +1089,10 @@ This task involves predicting the salient regions of an image given by human eye
 
 **Richer Convolutional Features for Edge Detection**
 
-- intro: richer convolutional features (RCF)
+- intro: CVPR 2017
+- keywords: richer convolutional features (RCF)
 - arxiv: [https://arxiv.org/abs/1612.02103](https://arxiv.org/abs/1612.02103)
+- github: [https://github.com/yun-liu/rcf](https://github.com/yun-liu/rcf)
 
 **Contour Detection from Deep Patch-level Boundary Prediction**
 

@@ -75,10 +75,6 @@ for building Deep Learning (DL) machine learning (ML) models
 
 - github: [https://github.com/sh1r0/caffe-android-demo](https://github.com/sh1r0/caffe-android-demo)
 
-**DIY Deep Learning for Vision: a Hands-On Tutorial with Caffe**
-
-- homepage: [http://tutorial.caffe.berkeleyvision.org/](http://tutorial.caffe.berkeleyvision.org/)
-
 **Caffe.js: Run Caffe models in the browser using ConvNetJS**
 
 - github: [https://github.com/chaosmail/caffejs/](https://github.com/chaosmail/caffejs/)
@@ -93,6 +89,11 @@ in particular Intel® Xeon processors (HSW+) and Intel® Xeon Phi processors
 **NVIDIA Caffe**
 
 [https://github.com/NVIDIA/caffe](https://github.com/NVIDIA/caffe)
+
+**Mini-Caffe**
+
+- intro: Minimal runtime core of Caffe, Forward only, GPU support and Memory efficiency.
+- github: [https://github.com/luoyetx/mini-caffe](https://github.com/luoyetx/mini-caffe)
 
 ## Multi-GPU / MPI Caffe
 

@@ -123,7 +123,7 @@ date: 2015-10-09
 **CSE 599G1: Deep Learning System**
 
 - homepage: [http://dlsys.cs.washington.edu/](http://dlsys.cs.washington.edu/)
-- assignment1: [https://github.com/dlsys-course/assignment1](https://github.com/dlsys-course/assignment1)
+- assignments: [http://dlsys.cs.washington.edu/assignments](http://dlsys.cs.washington.edu/assignments)
 
 ## With Video Lectures
 

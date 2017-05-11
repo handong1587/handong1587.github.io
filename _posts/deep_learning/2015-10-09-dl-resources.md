@@ -279,6 +279,13 @@ not just the convolutions)
 - intro: CVPR 2017. CUHK
 - arxiv: [https://arxiv.org/abs/1704.06904](https://arxiv.org/abs/1704.06904)
 
+**Dilated Residual Networks**
+
+- intro: CVPR 2017. Princeton University & Intel Labs
+- keywords: Dilated Residual Networks (DRN)
+- project page: [http://vladlen.info/publications/dilated-residual-networks/](http://vladlen.info/publications/dilated-residual-networks/)
+- paper: [http://vladlen.info/papers/DRN.pdf](http://vladlen.info/papers/DRN.pdf)
+
 # Deep Learning And Bayesian
 
 **Scalable Bayesian Optimization Using Deep Neural Networks**
