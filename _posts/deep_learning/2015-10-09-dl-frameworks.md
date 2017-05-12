@@ -335,6 +335,13 @@ It is an experimental refactoring of Caffe, and allows a more flexible way to or
 - homepage: [http://www.umiacs.umd.edu/~yzyang/LightNet/](http://www.umiacs.umd.edu/~yzyang/LightNet/)
 - github: [https://github.com/yechengxi/lightnet](https://github.com/yechengxi/lightnet)
 
+# MatConvNet
+
+**MatConvNet: CNNs for MATLAB**
+
+- homepage: [http://www.vlfeat.org/matconvnet/](http://www.vlfeat.org/matconvnet/)
+- github: [https://github.com/vlfeat/matconvnet](https://github.com/vlfeat/matconvnet)
+
 # Marvin
 
 **Marvin: A minimalist GPU-only N-dimensional ConvNet framework**
