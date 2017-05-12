@@ -51,11 +51,6 @@ date: 2015-10-09
 
 - arxiv: [http://arxiv.org/abs/1608.00182](http://arxiv.org/abs/1608.00182)
 
-**Deep Feature Flow for Video Recognition**
-
-- arxiv: [https://arxiv.org/abs/1611.07715](https://arxiv.org/abs/1611.07715)
-- youtube: [https://www.youtube.com/watch?v=J0rMHE6ehGw](https://www.youtube.com/watch?v=J0rMHE6ehGw)
-
 **Hyperspectral CNN Classification with Limited Training Samples**
 
 - arxiv: [https://arxiv.org/abs/1611.09007](https://arxiv.org/abs/1611.09007)

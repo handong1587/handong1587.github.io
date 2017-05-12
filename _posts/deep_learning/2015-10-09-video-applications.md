@@ -111,6 +111,14 @@ date: 2015-10-09
 
 - arxiv: [https://arxiv.org/abs/1611.06453](https://arxiv.org/abs/1611.06453)
 
+**Deep Feature Flow for Video Recognition**
+
+- intro: CVPR 2017
+- intro: It provides a simple, fast, accurate, and end-to-end framework for video recognition (e.g., object detection and semantic segmentation in videos)
+- arxiv: [https://arxiv.org/abs/1611.07715](https://arxiv.org/abs/1611.07715)
+- github(official, MXNet): [https://github.com/msracver/Deep-Feature-Flow](https://github.com/msracver/Deep-Feature-Flow)
+- youtube: [https://www.youtube.com/watch?v=J0rMHE6ehGw](https://www.youtube.com/watch?v=J0rMHE6ehGw)
+
 ## Action Detection /  Recognition
 
 **3d convolutional neural networks for human action recognition**
