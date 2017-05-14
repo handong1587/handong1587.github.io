@@ -1402,6 +1402,7 @@ with fast exact probabilistic inference over many layers."
 - github: [https://github.com/rcmalli/keras-mobilenet](https://github.com/rcmalli/keras-mobilenet)
 - github: [https://github.com/marvis/pytorch-mobilenet](https://github.com/marvis/pytorch-mobilenet)
 - github(Tensorflow): [https://github.com/Zehaos/MobileNet](https://github.com/Zehaos/MobileNet)
+- github: [https://github.com/shicai/MobileNet-Caffe](https://github.com/shicai/MobileNet-Caffe)
 
 **TensorFlow on Android**
 
