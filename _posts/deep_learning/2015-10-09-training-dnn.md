@@ -777,6 +777,10 @@ date: 2015-10-09
 
 [https://github.com/aleju/imgaug](https://github.com/aleju/imgaug)
 
+**Google/inception's data augmentation: scale and aspect ratio augmentation**
+
+[https://github.com/facebook/fb.resnet.torch/blob/master/datasets/transforms.lua#L130](https://github.com/facebook/fb.resnet.torch/blob/master/datasets/transforms.lua#L130)
+
 ## Imbalanced Datasets
 
 **Investigation on handling Structured & Imbalanced Datasets with Deep Learning**
