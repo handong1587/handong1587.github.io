@@ -190,7 +190,7 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 
 - arxiv: [https://arxiv.org/abs/1702.01983](https://arxiv.org/abs/1702.01983)
 
-# Emotion / Expression Recognition
+# Emotion Recognition / Expression Recognition
 
 **Real-time emotion recognition for gaming using deep convolutional network features**
 
@@ -274,6 +274,10 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 
 - intro: Imperial College London
 - arxiv: [https://arxiv.org/abs/1704.08619](https://arxiv.org/abs/1704.08619)
+
+**Spatial-Temporal Recurrent Neural Network for Emotion Recognition**
+
+[https://arxiv.org/abs/1705.04515](https://arxiv.org/abs/1705.04515)
 
 # Attribution Prediction
 
