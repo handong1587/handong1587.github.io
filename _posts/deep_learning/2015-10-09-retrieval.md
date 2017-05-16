@@ -468,6 +468,11 @@ and from 73.8% to 83.1% for ResNet-50
 
 [https://arxiv.org/abs/1705.03332](https://arxiv.org/abs/1705.03332)
 
+**Person Re-Identification by Deep Joint Learning of Multi-Loss Classification**
+
+- intro: IJCAI 2017
+- arxiv: [https://arxiv.org/abs/1705.04724](https://arxiv.org/abs/1705.04724)
+
 # Learning to Rank
 
 **Simple to Complex Cross-modal Learning to Rank**

@@ -835,6 +835,10 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 - arxiv: [https://arxiv.org/abs/1704.03915](https://arxiv.org/abs/1704.03915)
 - github(Matlab+MatConvNet): [https://github.com/phoenix104104/LapSRN](https://github.com/phoenix104104/LapSRN)
 
+**Single Image Super-Resolution Using Multi-Scale Convolutional Neural Network**
+
+[https://arxiv.org/abs/1705.05084](https://arxiv.org/abs/1705.05084)
+
 ## Video Super-resolution
 
 **Detail-revealing Deep Video Super-resolution**
@@ -1227,6 +1231,12 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 **Music tagging and feature extraction with MusicTaggerCRNN**
 
 [https://keras.io/applications/#music-tagging-and-feature-extraction-with-musictaggercrnn](https://keras.io/applications/#music-tagging-and-feature-extraction-with-musictaggercrnn)
+
+# Action Recognition
+
+**Single Image Action Recognition by Predicting Space-Time Saliency**
+
+[https://arxiv.org/abs/1705.04641](https://arxiv.org/abs/1705.04641)
 
 # CTR Prediction
 
