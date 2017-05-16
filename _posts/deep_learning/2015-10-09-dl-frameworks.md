@@ -95,6 +95,11 @@ in particular Intel® Xeon processors (HSW+) and Intel® Xeon Phi processors
 - intro: Minimal runtime core of Caffe, Forward only, GPU support and Memory efficiency.
 - github: [https://github.com/luoyetx/mini-caffe](https://github.com/luoyetx/mini-caffe)
 
+**Caffe on Mobile Devices**
+
+- intro: Optimized (for size and speed) Caffe lib for iOS and Android with demo APP.
+- github: [https://github.com/solrex/caffe-mobile](https://github.com/solrex/caffe-mobile)
+
 ## Multi-GPU / MPI Caffe
 
 **Caffe with OpenMPI-based Multi-GPU support**

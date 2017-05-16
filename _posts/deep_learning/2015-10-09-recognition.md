@@ -369,6 +369,11 @@ facial action unit recognition, and eye-gaze estimation.
 - intro: BMVC 2016
 - arxiv: [https://arxiv.org/abs/1610.06756](https://arxiv.org/abs/1610.06756)
 
+**细粒度图像分析**
+
+- intro: by 吴建鑫, NJU. VALSE 2017 Annual Progress Review Series
+- slides: [http://mac.xmu.edu.cn/valse2017/ppt/APR/wjx_APR.pdf](http://mac.xmu.edu.cn/valse2017/ppt/APR/wjx_APR.pdf)
+
 ### Food Recognition
 
 **DeepFood: Deep Learning-Based Food Image Recognition for Computer-Aided Dietary Assessment**

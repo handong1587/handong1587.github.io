@@ -413,6 +413,23 @@ at INT8 deep learning operations than other FPGA DSP architectures"
 - intro: Hong Kong Baptist University
 - arxiv: [https://arxiv.org/abs/1704.07724](https://arxiv.org/abs/1704.07724)
 
+## Code Optimization
+
+**Production Deep Learning with NVIDIA GPU Inference Engine**
+
+![](https://devblogs.nvidia.com/parallelforall/wp-content/uploads/2016/06/GIE_GoogLeNet_top10kernels-1.png)
+
+- intro: convolution, bias, and ReLU layers are fused to form a single layer: CBR
+- blog: [https://devblogs.nvidia.com/parallelforall/production-deep-learning-nvidia-gpu-inference-engine/](https://devblogs.nvidia.com/parallelforall/production-deep-learning-nvidia-gpu-inference-engine/)
+
+**speed improvement by merging batch normalization and scale #5**
+
+- github issue: [https://github.com/sanghoon/pva-faster-rcnn/issues/5](https://github.com/sanghoon/pva-faster-rcnn/issues/5)
+
+**Add a tool to merge 'Conv-BN-Scale' into a single 'Conv' layer.**
+
+[https://github.com/sanghoon/pva-faster-rcnn/commit/39570aab8c6513f0e76e5ab5dba8dfbf63e9c68c/](https://github.com/sanghoon/pva-faster-rcnn/commit/39570aab8c6513f0e76e5ab5dba8dfbf63e9c68c/)
+
 # Projects
 
 **Accelerate Convolutional Neural Networks**
