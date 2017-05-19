@@ -1004,6 +1004,12 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 
 [https://arxiv.org/abs/1703.10553](https://arxiv.org/abs/1703.10553)
 
+**Real-Time Adaptive Image Compression**
+
+- intro: ICML 2017
+- keywords: GAN
+- arxiv: [https://arxiv.org/abs/1705.05823](https://arxiv.org/abs/1705.05823)
+
 # Image Quality Assessment
 
 **Deep Neural Networks for No-Reference and Full-Reference Image Quality Assessment**

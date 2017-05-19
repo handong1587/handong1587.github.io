@@ -473,6 +473,10 @@ and from 73.8% to 83.1% for ResNet-50
 - intro: IJCAI 2017
 - arxiv: [https://arxiv.org/abs/1705.04724](https://arxiv.org/abs/1705.04724)
 
+**IAN: The Individual Aggregation Network for Person Search**
+
+[https://arxiv.org/abs/1705.05552](https://arxiv.org/abs/1705.05552)
+
 # Learning to Rank
 
 **Simple to Complex Cross-modal Learning to Rank**

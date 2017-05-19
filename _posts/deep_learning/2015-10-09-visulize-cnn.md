@@ -161,6 +161,12 @@ date: 2015-10-09
 - arxiv: [https://arxiv.org/abs/1704.05796](https://arxiv.org/abs/1704.05796)
 - github: [https://github.com/CSAILVision/NetDissect](https://github.com/CSAILVision/NetDissect)
 
+**Picasso: A Neural Network Visualizer**
+
+- arxiv: [https://arxiv.org/abs/1705.05627](https://arxiv.org/abs/1705.05627)
+- github: [https://github.com/merantix/picasso](https://github.com/merantix/picasso)
+- blog: [https://medium.com/merantix/picasso-a-free-open-source-visualizer-for-cnns-d8ed3a35cfc5](https://medium.com/merantix/picasso-a-free-open-source-visualizer-for-cnns-d8ed3a35cfc5)
+
 # Projects
 
 **Interactive Deep Neural Net Hallucinations**
