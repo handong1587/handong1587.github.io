@@ -263,8 +263,10 @@ while maintaining state-of-the-art accuracy. For GoogLeNet, our model has 7% few
 
 **Dynamic Network Surgery for Efficient DNNs**
 
+- intro: NIPS 2016
 - intro: compress the number of parameters in LeNet-5 and AlexNet by a factor of 108× and 17.7× respectively
 - arxiv: [http://arxiv.org/abs/1608.04493](http://arxiv.org/abs/1608.04493)
+- github(official. Caffe): [https://github.com/yiwenguo/Dynamic-Network-Surgery](https://github.com/yiwenguo/Dynamic-Network-Surgery)
 
 **Scalable Compression of Deep Neural Networks**
 

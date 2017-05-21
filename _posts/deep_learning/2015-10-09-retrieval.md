@@ -416,6 +416,12 @@ and from 73.8% to 83.1% for ResNet-50
 
 - arxiv: [http://arxiv.org/abs/1601.07255](http://arxiv.org/abs/1601.07255)
 
+**Joint Detection and Identification Feature Learning for Person Search**
+
+- intro: CVPR 2017
+- arxiv: [https://arxiv.org/abs/1604.01850](https://arxiv.org/abs/1604.01850)
+- github(official, Caffe): [https://github.com/ShuangLI59/person_search](https://github.com/ShuangLI59/person_search)
+
 **Learning Deep Feature Representations with Domain Guided Dropout for Person Re-identification**
 
 - intro: CVPR 2016

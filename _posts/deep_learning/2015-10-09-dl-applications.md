@@ -462,6 +462,13 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 
 # Counting Objects
 
+**Towards perspective-free object counting with deep learning**
+
+- intro: ECCV 2016. Counting CNN and Hydra CNN
+- paper: [http://agamenon.tsc.uah.es/Investigacion/gram/publications/eccv2016-onoro.pdf](http://agamenon.tsc.uah.es/Investigacion/gram/publications/eccv2016-onoro.pdf)
+- github: [https://github.com/gramuah/ccnn](https://github.com/gramuah/ccnn)
+- poster: [http://www.eccv2016.org/files/posters/P-3B-26.pdf](http://www.eccv2016.org/files/posters/P-3B-26.pdf)
+
 **Using Convolutional Neural Networks to Count Palm Trees in Satellite Images**
 
 - arxiv: [https://arxiv.org/abs/1701.06462](https://arxiv.org/abs/1701.06462)
@@ -475,6 +482,11 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 **Large scale crowd analysis based on convolutional neural network**
 
 - paper: [http://www.sciencedirect.com/science/article/pii/S0031320315001259](http://www.sciencedirect.com/science/article/pii/S0031320315001259)
+
+**Deep People Counting in Extremely Dense Crowds**
+
+- intro: ACM 2015
+- paper: [http://yangliang.github.io/pdf/sp055u.pdf](http://yangliang.github.io/pdf/sp055u.pdf)
 
 **Crossing-line Crowd Counting with Two-phase Deep Neural Networks**
 
@@ -491,7 +503,9 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 
 - intro: CVPR 2016
 - paper: [http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Zhang_Single-Image_Crowd_Counting_CVPR_2016_paper.pdf](http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Zhang_Single-Image_Crowd_Counting_CVPR_2016_paper.pdf)
+- paper: [http://sist.shanghaitech.edu.cn/office/research/news/CVPR2016/paper/Single-Image%20Crowd%20Counting%20via%20Multi-Column%20Convolutional%20Neural%20Network.pdf](http://sist.shanghaitech.edu.cn/office/research/news/CVPR2016/paper/Single-Image%20Crowd%20Counting%20via%20Multi-Column%20Convolutional%20Neural%20Network.pdf)
 - dataset(pwd: p1rv): [http://pan.baidu.com/s/1gfyNBTh](http://pan.baidu.com/s/1gfyNBTh)
+- slides: [http://smartdsp.xmu.edu.cn/%E6%B1%87%E6%8A%A5pdf/crowd%20counting%E6%9E%97%E8%B4%A8%E9%94%90.pdf](http://smartdsp.xmu.edu.cn/%E6%B1%87%E6%8A%A5pdf/crowd%20counting%E6%9E%97%E8%B4%A8%E9%94%90.pdf)
 
 **CrowdNet: A Deep Convolutional Network for Dense Crowd Counting**
 
@@ -837,7 +851,8 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 
 **Single Image Super-Resolution Using Multi-Scale Convolutional Neural Network**
 
-[https://arxiv.org/abs/1705.05084](https://arxiv.org/abs/1705.05084)
+- intro: South China University of Technology
+- arxiv: [https://arxiv.org/abs/1705.05084](https://arxiv.org/abs/1705.05084)
 
 ## Video Super-resolution
 
@@ -1004,6 +1019,12 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 
 [https://arxiv.org/abs/1703.10553](https://arxiv.org/abs/1703.10553)
 
+**Real-Time Adaptive Image Compression**
+
+- intro: ICML 2017
+- project page: [http://www.wave.one/icml2017](http://www.wave.one/icml2017)
+- arxiv: [https://arxiv.org/abs/1705.05823](https://arxiv.org/abs/1705.05823)
+
 # Image Quality Assessment
 
 **Deep Neural Networks for No-Reference and Full-Reference Image Quality Assessment**
@@ -1034,10 +1055,11 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 
 # Depth Prediction / Depth Estimation
 
-**Deeper Depth Prediction with Fully Convolutional Residual Networks**
+**Unsupervised CNN for Single View Depth Estimation: Geometry to the Rescue**
 
-- arxiv: [https://arxiv.org/abs/1606.00373](https://arxiv.org/abs/1606.00373)
-- github: [https://github.com/iro-cp/FCRN-DepthPrediction](https://github.com/iro-cp/FCRN-DepthPrediction)
+- intro: ECCV 2016
+- arxiv: [https://arxiv.org/abs/1603.04992](https://arxiv.org/abs/1603.049921)
+- github: [https://github.com/Ravi-Garg/Unsupervised_Depth_Estimation](https://github.com/Ravi-Garg/Unsupervised_Depth_Estimation)
 
 **Depth from a Single Image by Harmonizing Overcomplete Local Network Predictions**
 
@@ -1045,6 +1067,11 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 - project pag: [http://ttic.uchicago.edu/~ayanc/mdepth/](http://ttic.uchicago.edu/~ayanc/mdepth/)
 - arxiv: [http://arxiv.org/abs/1605.07081](http://arxiv.org/abs/1605.07081)
 - github: [https://github.com/ayanc/mdepth/](https://github.com/ayanc/mdepth/)
+
+**Deeper Depth Prediction with Fully Convolutional Residual Networks**
+
+- arxiv: [https://arxiv.org/abs/1606.00373](https://arxiv.org/abs/1606.00373)
+- github: [https://github.com/iro-cp/FCRN-DepthPrediction](https://github.com/iro-cp/FCRN-DepthPrediction)
 
 **Single image depth estimation by dilated deep residual convolutional neural network and soft-weight-sum inference**
 

@@ -539,6 +539,10 @@ Machine learning workflow, Extracting feaures from images (colours, edges, corne
 
 [https://matrices.io/deep-neural-network-from-scratch/](https://matrices.io/deep-neural-network-from-scratch/)
 
+**Convolutional Neural Networks**
+
+[https://github.com/Alfredvc/cnn_workshop](https://github.com/Alfredvc/cnn_workshop)
+
 # Convolution
 
 ![](/assets/cnn-materials/conv.jpg)

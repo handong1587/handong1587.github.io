@@ -159,6 +159,10 @@ This package also includes implementation of RBM based collaborative filtering m
 
 - github: [https://github.com/freegraphics/MIDS](https://github.com/freegraphics/MIDS)
 
+**Keras Implementation of Recommender Systems**
+
+[https://github.com/sonyisme/keras-recommendation](https://github.com/sonyisme/keras-recommendation)
+
 # Videos
 
 **Deep Learning for Recommender Systems**

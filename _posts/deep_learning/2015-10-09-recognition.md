@@ -143,6 +143,7 @@ date: 2015-10-09
 - intro: Google. CVPR 2015
 - arxiv: [http://arxiv.org/abs/1503.03832](http://arxiv.org/abs/1503.03832)
 - github(Tensorflow): [https://github.com/davidsandberg/facenet](https://github.com/davidsandberg/facenet)
+- github(Caffe): [https://github.com/hizhangp/triplet](https://github.com/hizhangp/triplet)
 
 **Targeting Ultimate Accuracy: Face Recognition via Deep Embedding**
 
@@ -368,6 +369,13 @@ facial action unit recognition, and eye-gaze estimation.
 
 - intro: BMVC 2016
 - arxiv: [https://arxiv.org/abs/1610.06756](https://arxiv.org/abs/1610.06756)
+
+**Low-rank Bilinear Pooling for Fine-Grained Classification**
+
+- intro: CVPR 2017
+- project page: [http://www.ics.uci.edu/~skong2/lr_bilinear.html](http://www.ics.uci.edu/~skong2/lr_bilinear.html)
+- arxiv: [https://arxiv.org/abs/1611.05109](https://arxiv.org/abs/1611.05109)
+- github: [https://github.com/aimerykong/Low-Rank-Bilinear-Pooling](https://github.com/aimerykong/Low-Rank-Bilinear-Pooling)
 
 **细粒度图像分析**
 

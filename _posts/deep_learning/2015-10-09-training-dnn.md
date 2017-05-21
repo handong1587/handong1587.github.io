@@ -39,6 +39,10 @@ date: 2015-10-09
 - intro: Johns Hopkins University
 - arxiv: [https://arxiv.org/abs/1611.01491](https://arxiv.org/abs/1611.01491)
 
+**Learning ReLUs via Gradient Descent**
+
+[https://arxiv.org/abs/1705.04591](https://arxiv.org/abs/1705.04591)
+
 ## LReLU
 
 **Rectifier Nonlinearities Improve Neural Network Acoustic Models**
@@ -350,6 +354,13 @@ date: 2015-10-09
 
 - arxiv: [https://arxiv.org/abs/1605.06743](https://arxiv.org/abs/1605.06743)
 - github: [https://github.com/HUJI-Deep/inductive-pooling](https://github.com/HUJI-Deep/inductive-pooling)
+
+# Batch Size
+
+**On Large-Batch Training for Deep Learning: Generalization Gap and Sharp Minima**
+
+- intro: ICLR 2017
+- arxiv: [https://arxiv.org/abs/1609.04836](https://arxiv.org/abs/1609.04836)
 
 # Optimization Methods
 

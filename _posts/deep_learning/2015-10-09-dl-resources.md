@@ -7,6 +7,30 @@ date: 2015-10-09
 
 # ImageNet
 
+Single-model on 224x224
+
+| Method              | top1        | top5        | Model Size  | Speed       |
+|:-------------------:|:-----------:|:-----------:|:-----------:|:-----------:|
+| ResNet-101          | 78.0%       | 94.0%       |             |             |
+| ResNet-200          | 78.3%       | 94.2%       |             |             |
+| Inception-v3        |             |             |             |             |
+| Inception-v4        |             |             |             |             |
+| Inception-ResNet-v2 |             |             |             |             |
+| ResNet-50           | 77.8%       |             |             |             |
+| ResNet-101          | 79.6%       | 94.7%       |             |             |
+
+Single-model on 320×320 / 299×299
+
+| Method              | top1        | top5        | Model Size  | Speed       |
+|:-------------------:|:-----------:|:-----------:|:-----------:|:-----------:|
+| ResNet-101          |             |             |             |             |
+| ResNet-200          | 79.9%       | 95.2%       |             |             |
+| Inception-v3        | 78.8%       | 94.4%       |             |             |
+| Inception-v4        | 80.0%       | 95.0%       |             |             |
+| Inception-ResNet-v2 | 80.1%       | 95.1%       |             |             |
+| ResNet-50           |             |             |             |             |
+| ResNet-101          | 80.9%       | 95.6%       |             |             |
+
 ## AlexNet
 
 **ImageNet Classification with Deep Convolutional Neural Networks**
@@ -86,7 +110,7 @@ not just the convolutions)
 - intro: "21.2% top-1 and 5.6% top-5 error for single frame evaluation using a network; 
 3.5% top-5 error and 17.3% top-1 error With an ensemble of 4 models and multi-crop evaluation."
 - arxiv: [http://arxiv.org/abs/1512.00567](http://arxiv.org/abs/1512.00567)
-- github(Torch): [https://github.com/Moodstocks/inception-v3.torch](https://github.com/Moodstocks/inception-v3.torch)
+- github: [https://github.com/Moodstocks/inception-v3.torch](https://github.com/Moodstocks/inception-v3.torch)
 
 **Inception in TensorFlow**
 
@@ -200,7 +224,7 @@ not just the convolutions)
 
 **Aggregated Residual Transformations for Deep Neural Networks**
 
-- intro: UC San Diego & Facebook AI Research
+- intro: CVPR 2017. UC San Diego & Facebook AI Research
 - arxiv: [https://arxiv.org/abs/1611.05431](https://arxiv.org/abs/1611.05431)
 - github(Torch): [https://github.com/facebookresearch/ResNeXt](https://github.com/facebookresearch/ResNeXt)
 - github: [https://github.com/dmlc/mxnet/blob/master/example/image-classification/symbol/resnext.py](https://github.com/dmlc/mxnet/blob/master/example/image-classification/symbol/resnext.py)
@@ -869,10 +893,6 @@ with fast exact probabilistic inference over many layers."
 
 - arxiv: [http://arxiv.org/abs/1608.01409](http://arxiv.org/abs/1608.01409)
 
-**Factorized Convolutional Neural Networks**
-
-- arxiv: [http://arxiv.org/abs/1608.04337](http://arxiv.org/abs/1608.04337)
-
 **Mollifying Networks**
 
 - author: Caglar Gulcehre, Marcin Moczulski, Francesco Visin, Yoshua Bengio
@@ -1394,15 +1414,6 @@ with fast exact probabilistic inference over many layers."
 
 - intro: CnnForAndroid:A Classification Project using Convolutional Neural Network(CNN) in Android platform。It also support Caffe Model
 - github: [https://github.com/zhangqianhui/CnnForAndroid](https://github.com/zhangqianhui/CnnForAndroid)
-
-**MobileNets: Efficient Convolutional Neural Networks for Mobile Vision Applications**
-
-- intro: Google
-- arxiv: [https://arxiv.org/abs/1704.04861](https://arxiv.org/abs/1704.04861)
-- github: [https://github.com/rcmalli/keras-mobilenet](https://github.com/rcmalli/keras-mobilenet)
-- github: [https://github.com/marvis/pytorch-mobilenet](https://github.com/marvis/pytorch-mobilenet)
-- github(Tensorflow): [https://github.com/Zehaos/MobileNet](https://github.com/Zehaos/MobileNet)
-- github: [https://github.com/shicai/MobileNet-Caffe](https://github.com/shicai/MobileNet-Caffe)
 
 **TensorFlow on Android**
 
@@ -2116,7 +2127,13 @@ It is based on Facebook's TorchCraft, which is a bridge between Torch and StarCr
 
 - arxiv: [https://arxiv.org/abs/1702.07664](https://arxiv.org/abs/1702.07664)
 
-## Separable Convolutions
+## Separable Convolutions / Grouped Convolutions
+
+**Factorized Convolutional Neural Networks**
+
+**Design of Efficient Convolutional Layers using Single Intra-channel Convolution, Topological Subdivisioning and Spatial "Bottleneck" Structure**
+
+- arxiv: [http://arxiv.org/abs/1608.04337](http://arxiv.org/abs/1608.04337)
 
 **Deep Learning with Separable Convolutions**
 
@@ -2132,6 +2149,15 @@ It is based on Facebook's TorchCraft, which is a bridge between Torch and StarCr
 **Towards a New Interpretation of Separable Convolutions**
 
 - arxiv: [https://arxiv.org/abs/1701.04489](https://arxiv.org/abs/1701.04489)
+
+**MobileNets: Efficient Convolutional Neural Networks for Mobile Vision Applications**
+
+- intro: Google
+- arxiv: [https://arxiv.org/abs/1704.04861](https://arxiv.org/abs/1704.04861)
+- github: [https://github.com/rcmalli/keras-mobilenet](https://github.com/rcmalli/keras-mobilenet)
+- github: [https://github.com/marvis/pytorch-mobilenet](https://github.com/marvis/pytorch-mobilenet)
+- github(Tensorflow): [https://github.com/Zehaos/MobileNet](https://github.com/Zehaos/MobileNet)
+- github: [https://github.com/shicai/MobileNet-Caffe](https://github.com/shicai/MobileNet-Caffe)
 
 ## STDP
 
@@ -2234,7 +2260,8 @@ It is based on Facebook's TorchCraft, which is a bridge between Torch and StarCr
 **Snapshot Ensembles: Train 1, Get M for Free**
 
 - paper: [http://openreview.net/pdf?id=BJYwwY9ll](http://openreview.net/pdf?id=BJYwwY9ll)
-- github: [https://github.com/gaohuang/SnapshotEnsemble](https://github.com/gaohuang/SnapshotEnsemble)
+- github(Torch): [https://github.com/gaohuang/SnapshotEnsemble](https://github.com/gaohuang/SnapshotEnsemble)
+- github: [https://github.com/titu1994/Snapshot-Ensembles](https://github.com/titu1994/Snapshot-Ensembles)
 
 **Ensemble Deep Learning**
 
@@ -2284,8 +2311,8 @@ It is based on Facebook's TorchCraft, which is a bridge between Torch and StarCr
 - intro: "competitive accuracy at frame rates of 5 to 10 fps"
 - project page: [http://lmb.informatik.uni-freiburg.de/Publications/2015/DFIB15/](http://lmb.informatik.uni-freiburg.de/Publications/2015/DFIB15/)
 - arxiv: [https://arxiv.org/abs/1504.06852](https://arxiv.org/abs/1504.06852)
-- github(Torch): [https://github.com/ClementPinard/FlowNetTorch](https://github.com/ClementPinard/FlowNetTorch)
-- github(Pytorch): [https://github.com/ClementPinard/FlowNetPytorch](https://github.com/ClementPinard/FlowNetPytorch)
+- github: [https://github.com/ClementPinard/FlowNetTorch](https://github.com/ClementPinard/FlowNetTorch)
+- github: [https://github.com/ClementPinard/FlowNetPytorch](https://github.com/ClementPinard/FlowNetPytorch)
 
 **FlowNet 2.0: Evolution of Optical Flow Estimation with Deep Networks**
 

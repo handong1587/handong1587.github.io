@@ -532,6 +532,11 @@ Continuation of [arXiv:1608.08021](https://arxiv.org/abs/1608.08021)
 
 [https://arxiv.org/abs/1705.02233](https://arxiv.org/abs/1705.02233)
 
+**LCDet: Low-Complexity Fully-Convolutional Neural Networks for Object Detection in Embedded Systems**
+
+- intro: Embedded Vision Workshop in CVPR. UC San Diego & Qualcomm Inc
+- arxiv: [https://arxiv.org/abs/1705.05922](https://arxiv.org/abs/1705.05922)
+
 ## NMS
 
 **Improving Object Detection With One Line of Code**
