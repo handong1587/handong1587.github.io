@@ -814,7 +814,10 @@ This task involves predicting the salient regions of an image given by human eye
 
 ![](http://personal.ie.cuhk.edu.hk/~ys014/projects/Faceness/support/index.png)
 
+- intro: ICCV 2015. CUHK
 - project page: [http://personal.ie.cuhk.edu.hk/~ys014/projects/Faceness/Faceness.html](http://personal.ie.cuhk.edu.hk/~ys014/projects/Faceness/Faceness.html)
+- arxiv: [https://arxiv.org/abs/1509.06451](https://arxiv.org/abs/1509.06451)
+- paper: [http://www.cv-foundation.org/openaccess/content_iccv_2015/papers/Yang_From_Facial_Parts_ICCV_2015_paper.pdf](http://www.cv-foundation.org/openaccess/content_iccv_2015/papers/Yang_From_Facial_Parts_ICCV_2015_paper.pdf)
 
 **Compact Convolutional Neural Network Cascade for Face Detection**
 
@@ -834,7 +837,7 @@ This task involves predicting the salient regions of an image given by human eye
 
 **Finding Tiny Faces**
 
-- intro: CMU
+- intro: CVPR 2017. CMU
 - project page: [http://www.cs.cmu.edu/~peiyunh/tiny/index.html](http://www.cs.cmu.edu/~peiyunh/tiny/index.html)
 - arxiv: [https://arxiv.org/abs/1612.04402](https://arxiv.org/abs/1612.04402)
 - github: [https://github.com/peiyunh/tiny](https://github.com/peiyunh/tiny)

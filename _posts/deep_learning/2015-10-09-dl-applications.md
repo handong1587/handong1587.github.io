@@ -368,6 +368,15 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 - video: [http://v.qq.com/x/page/f0398zcvkl5.html](http://v.qq.com/x/page/f0398zcvkl5.html)
 - video: [http://v.qq.com/x/page/w0398ei9m1r.html](http://v.qq.com/x/page/w0398ei9m1r.html)
 
+**Human Pose Detection Mining Body Language from Videos**
+
+- blog: [https://medium.com/@samim/human-pose-detection-51268e95ddc2](https://medium.com/@samim/human-pose-detection-51268e95ddc2)
+
+**OpenPose: A Real-Time Multi-Person Keypoint Detection And Multi-Threading C++ Library**
+
+- intro: OpenPose is a library for real-time multi-person keypoint detection and multi-threading written in C++ using OpenCV and Caffe
+- github: [https://github.com/CMU-Perceptual-Computing-Lab/openpose](https://github.com/CMU-Perceptual-Computing-Lab/openpose)
+
 # Sentiment Prediction
 
 **From Pixels to Sentiment: Fine-tuning CNNs for Visual Sentiment Prediction**

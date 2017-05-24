@@ -755,7 +755,6 @@ Given a sample represented as a sequence of strokes, the parser is able to conve
 # Applications
 
 **Target acquired: Finding targets in drone and quadcopter video streams using Python and OpenCV**
-
 [http://www.pyimagesearch.com/2015/05/04/target-acquired-finding-targets-in-drone-and-quadcopter-video-streams-using-python-and-opencv/](http://www.pyimagesearch.com/2015/05/04/target-acquired-finding-targets-in-drone-and-quadcopter-video-streams-using-python-and-opencv/)
 
 **FaceDirector: Continuous Control of Facial Performance in Video**
@@ -775,6 +774,14 @@ Given a sample represented as a sequence of strokes, the parser is able to conve
 **Photo Stylistic Brush: Robust Style Transfer via Superpixel-Based Bipartite Graph**
 
 - arxiv: [http://arxiv.org/abs/1606.03871](http://arxiv.org/abs/1606.03871)
+
+**GMS: Grid-based Motion Statistics for Fast, Ultra-robust Feature Correspondence**
+
+![](https://i1.wp.com/jwbian.net/wp-content/uploads/2017/03/dog_ours.jpg?resize=768%2C512)
+
+- intro: CVPR 2017
+- project page: [http://jwbian.net/gms](http://jwbian.net/gms)
+- github: [https://github.com/JiawangBian/GMS-Feature-Matcher](https://github.com/JiawangBian/GMS-Feature-Matcher)
 
 # Projects
 
