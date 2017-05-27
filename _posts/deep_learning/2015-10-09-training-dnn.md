@@ -571,6 +571,11 @@ date: 2015-10-09
 - intro: 2016 IEEE 16th International Conference on Data Mining
 - arxiv: [https://arxiv.org/abs/1705.03419](https://arxiv.org/abs/1705.03419)
 
+**Concrete Dropout**
+
+- intro: University of Cambridge
+- arxiv: [https://arxiv.org/abs/1705.07832](https://arxiv.org/abs/1705.07832)
+
 ## DropConnect
 
 **Regularization of Neural Networks using DropConnect**

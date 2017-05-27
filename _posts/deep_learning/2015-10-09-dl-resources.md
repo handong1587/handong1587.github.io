@@ -557,6 +557,11 @@ not just the convolutions)
 - arxiv: [https://arxiv.org/abs/1702.08303](https://arxiv.org/abs/1702.08303)
 - github: [https://github.com/jbingel/eacl2017_mtl](https://github.com/jbingel/eacl2017_mtl)
 
+**Multi-Task Learning Using Uncertainty to Weigh Losses for Scene Geometry and Semantics**
+
+- intro: University of Cambridge
+- arxiv: [https://arxiv.org/abs/1705.07115](https://arxiv.org/abs/1705.07115)
+
 # Multi-modal Learning
 
 **Multimodal Deep Learning**
@@ -1171,6 +1176,11 @@ with fast exact probabilistic inference over many layers."
 
 - slides: [http://tkipf.github.io/misc/GCNSlides.pdf](http://tkipf.github.io/misc/GCNSlides.pdf)
 
+**Deep Learning on Graphs with Keras**
+
+- intro:; Keras implementation of Graph Convolutional Networks
+- github: [https://github.com/tkipf/keras-gcn](https://github.com/tkipf/keras-gcn)
+
 # Deep Learning with Traditional Machine Learning Methods
 
 ## Bag of Words (BoW)
@@ -1192,6 +1202,13 @@ with fast exact probabilistic inference over many layers."
 **Training Deep Neural Networks on Noisy Labels with Bootstrapping**
 
 - arxiv: [http://arxiv.org/abs/1412.6596](http://arxiv.org/abs/1412.6596)
+
+## Conditional Random Fields
+
+**DeepCRF: Neural Networks and CRFs for Sequence Labeling**
+
+- intro: A implementation of Conditional Random Fields (CRFs) with Deep Learning Method
+- github: [https://github.com/aonotas/deep-crf](https://github.com/aonotas/deep-crf)
 
 ## Decision Tree
 
@@ -1315,6 +1332,11 @@ with fast exact probabilistic inference over many layers."
 **Deep Forest: Towards An Alternative to Deep Neural Networks**
 
 - arxiv: [https://arxiv.org/abs/1702.08835](https://arxiv.org/abs/1702.08835)
+
+**Forward Thinking: Building Deep Random Forests**
+
+- arxiv: [https://arxiv.org/abs/1705.07366](https://arxiv.org/abs/1705.07366)
+- github: [https://github.com/tkchris93/ForwardThinking](https://github.com/tkchris93/ForwardThinking)
 
 # Others
 
@@ -1700,6 +1722,11 @@ It is based on Facebook's TorchCraft, which is a bridge between Torch and StarCr
 
 - blog: [https://making.lyst.com/2017/02/21/working-with-fashion-models/](https://making.lyst.com/2017/02/21/working-with-fashion-models/)
 - youtube: [https://www.youtube.com/watch?v=emr2qaCQOQs](https://www.youtube.com/watch?v=emr2qaCQOQs)
+
+**Fashion Forward: Forecasting Visual Style in Fashion**
+
+- intro: Karlsruhe Institute of Technology & The University of Texas at Austin
+- arxiv: [https://arxiv.org/abs/1705.06394](https://arxiv.org/abs/1705.06394)
 
 # Benchmarks
 

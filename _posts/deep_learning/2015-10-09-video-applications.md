@@ -50,9 +50,17 @@ date: 2015-10-09
 
 [https://arxiv.org/abs/1703.09788](https://arxiv.org/abs/1703.09788)
 
-**Large-scale, Fast and Accurate Shot Boundary Detection through Spatio-temporal Convolutional Neural Networks**
+**Unsupervised Learning Layers for Video Analysis**
 
-[https://arxiv.org/abs/1705.03281](https://arxiv.org/abs/1705.03281)
+- intro: Baidu Research
+- intro: "The experiments demonstrated the potential applications of UL layers and online learning algorithm to head orientation estimation and moving object localization"
+- arxiv: [https://arxiv.org/abs/1705.08918](https://arxiv.org/abs/1705.08918)
+
+**Look, Listen and Learn**
+
+- intro: DeepMind
+- intro: "Audio-Visual Correspondence" learning
+- arxiv: [https://arxiv.org/abs/1705.08168](https://arxiv.org/abs/1705.08168)
 
 # Video Classification
 
@@ -119,7 +127,7 @@ date: 2015-10-09
 - github(official, MXNet): [https://github.com/msracver/Deep-Feature-Flow](https://github.com/msracver/Deep-Feature-Flow)
 - youtube: [https://www.youtube.com/watch?v=J0rMHE6ehGw](https://www.youtube.com/watch?v=J0rMHE6ehGw)
 
-## Action Detection /  Recognition
+## Action Detection / Activity Recognition
 
 **3d convolutional neural networks for human action recognition**
 
@@ -366,6 +374,11 @@ extract saptio-temporal features to represent the video using the CNNs."
 - intro: Locate and recognize faces in a video, Detect shots in a film, Search videos by image
 - github: [https://github.com/scanner-research/scanner](https://github.com/scanner-research/scanner)
 
+**Charades Starter Code for Activity Classification and Localization**
+
+- intro: Activity Recognition Algorithms for the Charades Dataset
+- github: [https://github.com/gsig/charades-algorithms](https://github.com/gsig/charades-algorithms)
+
 # Event Recognition
 
 **TagBook: A Semantic Video Representation without Supervision for Event Detection**
@@ -478,6 +491,24 @@ extract saptio-temporal features to represent the video using the CNNs."
 
 - keywords: Clarifai's deep learning API
 - blog: [http://apassant.net/2015/07/03/tagging-youtube-music-clarifai-deep-learning/](http://apassant.net/2015/07/03/tagging-youtube-music-clarifai-deep-learning/)
+
+# Shot Boundary Detection
+
+**Large-scale, Fast and Accurate Shot Boundary Detection through Spatio-temporal Convolutional Neural Networks**
+
+[https://arxiv.org/abs/1705.03281](https://arxiv.org/abs/1705.03281)
+
+**Ridiculously Fast Shot Boundary Detection with Fully Convolutional Neural Networks**
+
+- intro: obtains state-of-the-art results while running at an unprecedented speed of more than 120x real-time.
+- arxiv: [https://arxiv.org/abs/1705.08214](https://arxiv.org/abs/1705.08214)
+
+# Video Action Segmentation
+
+**TricorNet: A Hybrid Temporal Convolutional and Recurrent Network for Video Action Segmentation**
+
+- intro: University of Rochester
+- arxiv: [https://arxiv.org/abs/1705.07818](https://arxiv.org/abs/1705.07818)
 
 # Video2GIF
 

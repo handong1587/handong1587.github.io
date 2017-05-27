@@ -398,6 +398,10 @@ at INT8 deep learning operations than other FPGA DSP architectures"
 
 [https://openreview.net/forum?id=HyQJ-mclg&noteId=HyQJ-mclg](https://openreview.net/forum?id=HyQJ-mclg&noteId=HyQJ-mclg)
 
+**Bayesian Compression for Deep Learning**
+
+[https://arxiv.org/abs/1705.08665](https://arxiv.org/abs/1705.08665)
+
 ## Accelerating / Fast Algorithms
 
 **Fast Algorithms for Convolutional Neural Networks**
@@ -467,6 +471,11 @@ at INT8 deep learning operations than other FPGA DSP architectures"
 **model_compression: Implementation of model compression with knowledge distilling method**
 
 - github: [https://github.com/chengshengchan/model_compression](https://github.com/chengshengchan/model_compression)
+
+**keras_compressor: Model Compression CLI Tool for Keras**
+
+- blog: [https://nico-opendata.jp/ja/casestudy/model_compression/index.html](https://nico-opendata.jp/ja/casestudy/model_compression/index.html)
+- github: [https://github.com/nico-opendata/keras_compressor](https://github.com/nico-opendata/keras_compressor)
 
 # Blogs
 

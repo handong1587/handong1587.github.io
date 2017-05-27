@@ -116,6 +116,17 @@ date: 2015-10-09
 
 [https://medium.com/@erikhallstrm/using-the-dropout-api-in-tensorflow-2b2e6561dfeb#.a7mc3o9aq](https://medium.com/@erikhallstrm/using-the-dropout-api-in-tensorflow-2b2e6561dfeb#.a7mc3o9aq)
 
+## Unfolding RNNs
+
+**Unfolding RNNs: RNN : Concepts and Architectures**
+
+- blog: [http://suriyadeepan.github.io/2017-01-07-unfolding-rnn/](http://suriyadeepan.github.io/2017-01-07-unfolding-rnn/)
+
+**Unfolding RNNs II: Vanilla, GRU, LSTM RNNs from scratch in Tensorflow**
+
+- blog: [http://suriyadeepan.github.io/2017-02-13-unfolding-rnn-2/](http://suriyadeepan.github.io/2017-02-13-unfolding-rnn-2/)
+- github: [https://github.com/suriyadeepan/rnn-from-scratch](https://github.com/suriyadeepan/rnn-from-scratch)
+
 # Train RNN
 
 **On the difficulty of training Recurrent Neural Networks**
@@ -542,6 +553,22 @@ date: 2015-10-09
 **Bayesian Recurrent Neural Networks**
 
 [https://arxiv.org/abs/1704.02798](https://arxiv.org/abs/1704.02798)
+
+**Fast-Slow Recurrent Neural Networks**
+
+- arxiv: [https://arxiv.org/abs/1705.08639](https://arxiv.org/abs/1705.08639)
+- github: [https://github.com/amujika/Fast-Slow-LSTM](https://github.com/amujika/Fast-Slow-LSTM)
+
+**Visualizing LSTM decisions**
+
+[https://arxiv.org/abs/1705.08153](https://arxiv.org/abs/1705.08153)
+
+**Recurrent Additive Networks**
+
+- intro: [University of Washington & Allen Institute for Artificial Intelligence
+- arxiv: [https://arxiv.org/abs/1705.07393](https://arxiv.org/abs/1705.07393)
+- paper: [http://www.kentonl.com/pub/llz.2017.pdf](http://www.kentonl.com/pub/llz.2017.pdf)
+- github(PyTorch): [https://github.com/bheinzerling/ran](https://github.com/bheinzerling/ran)
 
 # Projects
 

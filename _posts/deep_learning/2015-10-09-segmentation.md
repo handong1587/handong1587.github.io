@@ -497,6 +497,11 @@ with built-in awareness of semantically meaningful boundaries. "
 - project page: [https://codeac29.github.io/projects/linknet/](https://codeac29.github.io/projects/linknet/)
 - github: [https://github.com/e-lab/LinkNet](https://github.com/e-lab/LinkNet)
 
+**Pixel Deconvolutional Networks**
+
+- intro: Washington State University
+- arxiv: [https://arxiv.org/abs/1705.06820](https://arxiv.org/abs/1705.06820)
+
 # Instance Segmentation
 
 **Simultaneous Detection and Segmentation**
@@ -573,8 +578,6 @@ with built-in awareness of semantically meaningful boundaries. "
 - intro: BMVC 2016
 - arxiv: [http://arxiv.org/abs/1609.02583](http://arxiv.org/abs/1609.02583)
 
-## DeepCut
-
 **DeepCut: Object Segmentation from Bounding Box Annotations using Convolutional Neural Networks**
 
 - arxiv: [http://arxiv.org/abs/1605.07866](http://arxiv.org/abs/1605.07866)
@@ -584,7 +587,7 @@ with built-in awareness of semantically meaningful boundaries. "
 - intro: ReInspect
 - arxiv: [http://arxiv.org/abs/1605.09410](http://arxiv.org/abs/1605.09410)
 
-## TA-FCN
+## TA-FCN / FCIS
 
 **Translation-aware Fully Convolutional Instance Segmentation**
 

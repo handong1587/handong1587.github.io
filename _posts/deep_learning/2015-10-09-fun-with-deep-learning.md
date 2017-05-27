@@ -294,7 +294,9 @@ Compressed model is less than 500KB
 **Visual Attribute Transfer through Deep Image Analogy**
 
 - intro: SIGGRAPH 2017
+- keywords: Deep Image Analogy
 - arxiv: [https://arxiv.org/abs/1705.01088](https://arxiv.org/abs/1705.01088)
+- github: [https://github.com/msracver/Deep-Image-Analogy](https://github.com/msracver/Deep-Image-Analogy)
 
 **Characterizing and Improving Stability in Neural Style Transfer**
 
@@ -587,6 +589,11 @@ Compressed model is less than 500KB
 - arxiv: [https://arxiv.org/abs/1705.02999](https://arxiv.org/abs/1705.02999)
 - github(official, Caffe): [https://github.com/junyanz/interactive-deep-colorization](https://github.com/junyanz/interactive-deep-colorization)
 
+**PixColor: Pixel Recursive Colorization**
+
+- intro: Google Research
+- arxiv: [https://arxiv.org/abs/1705.07208](https://arxiv.org/abs/1705.07208)
+
 # Sounds
 
 **Visually Indicated Sounds**
@@ -784,6 +791,7 @@ Compressed model is less than 500KB
 - paper: [https://storage.googleapis.com/deepmind-data/assets/papers/deepmind-mastering-go.pdf](https://storage.googleapis.com/deepmind-data/assets/papers/deepmind-mastering-go.pdf)
 - naturep page: [http://www.nature.com/nature/journal/v529/n7587/full/nature16961.html](http://www.nature.com/nature/journal/v529/n7587/full/nature16961.html)
 - paper: [https://gogameguru.com/i/2016/03/deepmind-mastering-go.pdf](https://gogameguru.com/i/2016/03/deepmind-mastering-go.pdf)
+- slides: [http://www.bioinfo.org.cn/~casp/temp/alphago_slides.pdf](http://www.bioinfo.org.cn/~casp/temp/alphago_slides.pdf)
 - blog: [http://www.furidamu.org/blog/2016/01/26/mastering-the-game-of-go-with-deep-neural-networks-and-tree-search/](http://www.furidamu.org/blog/2016/01/26/mastering-the-game-of-go-with-deep-neural-networks-and-tree-search/)
 - blog("AlphaGo: From Intuitive Learning to Holistic Knowledge"): [https://caminao.wordpress.com/2016/02/01/alphago/](https://caminao.wordpress.com/2016/02/01/alphago/)
 - notes("AlphaGo的分析", by 田渊栋): [http://zhuanlan.zhihu.com/yuandong/20607684](http://zhuanlan.zhihu.com/yuandong/20607684)
@@ -817,8 +825,6 @@ further original research into a small, easy to use graphical interface.
 - homepage: [http://spawk.fish/](http://spawk.fish/)
 
 **Chess position evaluation with convolutional neural network in Julia**
-
-![](http://int8.io/wp-content/uploads/2016/04/easiest_white_correct.png)
 
 - blog: [http://int8.io/chess-position-evaluation-with-convolutional-neural-networks-in-julia/](http://int8.io/chess-position-evaluation-with-convolutional-neural-networks-in-julia/)
 

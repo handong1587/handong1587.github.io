@@ -5,6 +5,13 @@ title: Linux Resources
 date: 2015-07-24
 ---
 
+# Libraries
+
+**Porting Windows Dynamic Link Libraries to Linux**
+
+- intro: This repository contains a library that allows native Linux programs to load and call functions from a Windows DLL.
+- github: [https://github.com/taviso/loadlibrary](https://github.com/taviso/loadlibrary)
+
 # Tools
 
 ## You-Get
