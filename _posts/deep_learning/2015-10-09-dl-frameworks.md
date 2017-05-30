@@ -65,6 +65,7 @@ for building Deep Learning (DL) machine learning (ML) models
 
 **fb-caffe-exts: Some handy utility libraries and tools for the Caffe deep learning framework**
 
+- intro: fb-caffe-exts is a collection of extensions developed at FB while using Caffe in (mainly) production scenarios.
 - github: [https://github.com/facebook/fb-caffe-exts](https://github.com/facebook/fb-caffe-exts)
 
 **Caffe-Android-Lib: Porting caffe to android platform**
