@@ -208,11 +208,6 @@ to decompose it into the multiplications of thinned dense matrices"
 
 - arxiv: [http://arxiv.org/abs/1603.01025](http://arxiv.org/abs/1603.01025)
 
-**XNOR-Net: ImageNet Classification Using Binary Convolutional Neural Networks**
-
-- arxiv: [http://arxiv.org/abs/1603.05279](http://arxiv.org/abs/1603.05279)
-- github(Torch): [https://github.com/mrastegari/XNOR-Net](https://github.com/mrastegari/XNOR-Net)
-
 **DeepX: A Software Accelerator for Low-Power Deep Learning Inference on Mobile Devices**
 
 - paper: [http://niclane.org/pubs/deepx_ipsn.pdf](http://niclane.org/pubs/deepx_ipsn.pdf)
@@ -376,10 +371,6 @@ at INT8 deep learning operations than other FPGA DSP architectures"
 - arxiv: [https://arxiv.org/abs/1702.04008](https://arxiv.org/abs/1702.04008)
 - github: [https://github.com/KarenUllrich/Tutorial-SoftWeightSharingForNNCompression](https://github.com/KarenUllrich/Tutorial-SoftWeightSharingForNNCompression)
 
-**A 7.663-TOPS 8.2-W Energy-efficient FPGA Accelerator for Binary Convolutional Neural Networks**
-
-- arxiv: [https://arxiv.org/abs/1702.06392](https://arxiv.org/abs/1702.06392)
-
 **A Compact DNN: Approaching GoogLeNet-Level Accuracy of Classification and Domain Adaptation**
 
 - intro: CVPR 2017
@@ -401,6 +392,32 @@ at INT8 deep learning operations than other FPGA DSP architectures"
 **Bayesian Compression for Deep Learning**
 
 [https://arxiv.org/abs/1705.08665](https://arxiv.org/abs/1705.08665)
+
+**A Kernel Redundancy Removing Policy for Convolutional Neural Network**
+
+[https://arxiv.org/abs/1705.10748](https://arxiv.org/abs/1705.10748)
+
+**Gated XNOR Networks: Deep Neural Networks with Ternary Weights and Activations under a Unified Discretization Framework**
+
+- keywords: discrete state transition (DST)
+- arxiv: [https://arxiv.org/abs/1705.09283](https://arxiv.org/abs/1705.09283)
+
+## Binary Convolutional Neural Networks
+
+**XNOR-Net: ImageNet Classification Using Binary Convolutional Neural Networks**
+
+- arxiv: [http://arxiv.org/abs/1603.05279](http://arxiv.org/abs/1603.05279)
+- github(Torch): [https://github.com/mrastegari/XNOR-Net](https://github.com/mrastegari/XNOR-Net)
+
+**A 7.663-TOPS 8.2-W Energy-efficient FPGA Accelerator for Binary Convolutional Neural Networks**
+
+- arxiv: [https://arxiv.org/abs/1702.06392](https://arxiv.org/abs/1702.06392)
+
+**BMXNet: An Open-Source Binary Neural Network Implementation Based on MXNet**
+
+- keywords: Binary Neural Networks (BNNs)
+- arxiv: [https://arxiv.org/abs/1705.09864](https://arxiv.org/abs/1705.09864)
+- github: [https://github.com/hpi-xnor](https://github.com/hpi-xnor)
 
 ## Accelerating / Fast Algorithms
 

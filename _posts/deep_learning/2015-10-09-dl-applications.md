@@ -547,6 +547,15 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 
 [https://arxiv.org/abs/1703.09393](https://arxiv.org/abs/1703.09393)
 
+**Beyond Counting: Comparisons of Density Maps for Crowd Analysis Tasks - Counting, Detection, and Tracking**
+
+[https://arxiv.org/abs/1705.10118](https://arxiv.org/abs/1705.10118)
+
+**ResnetCrowd: A Residual Deep Learning Architecture for Crowd Counting, Violent Behaviour Detection and Crowd Density Level Classification**
+
+- intro: AVSS 2017
+- arxiv: [https://arxiv.org/abs/1705.10698](https://arxiv.org/abs/1705.10698)
+
 # Activity Recognition
 
 **Implementing a CNN for Human Activity Recognition in Tensorflow**

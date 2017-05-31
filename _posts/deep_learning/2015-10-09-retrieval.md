@@ -232,6 +232,11 @@ and from 73.8% to 83.1% for ResNet-50
 - arxiv: [https://arxiv.org/abs/1704.06761](https://arxiv.org/abs/1704.06761)
 - supplementary: [https://youtu.be/ZyINqDMo3Fg](https://youtu.be/ZyINqDMo3Fg)
 
+**Deep image representations using caption generators**
+
+- intro: ICME 2017
+- arxiv: [https://arxiv.org/abs/1705.09142](https://arxiv.org/abs/1705.09142)
+
 # Hashing
 
 **Supervised Hashing for Image Retrieval via Image Representation Learning**
@@ -357,6 +362,10 @@ and from 73.8% to 83.1% for ResNet-50
 
 - blog: [https://cs.nju.edu.cn/lwj/L2H.html](https://cs.nju.edu.cn/lwj/L2H.html)
 
+**Hashing as Tie-Aware Learning to Rank**
+
+[https://arxiv.org/abs/1705.08562](https://arxiv.org/abs/1705.08562)
+
 ## Projects
 
 **HABIR哈希图像检索工具箱**
@@ -416,10 +425,14 @@ and from 73.8% to 83.1% for ResNet-50
 
 - arxiv: [http://arxiv.org/abs/1601.07255](http://arxiv.org/abs/1601.07255)
 
+**End-to-End Deep Learning for Person Search**
+
 **Joint Detection and Identification Feature Learning for Person Search**
 
 - intro: CVPR 2017
+- homepage(dataset, code):[http://www.ee.cuhk.edu.hk/~xgwang/PS/dataset.html](http://www.ee.cuhk.edu.hk/~xgwang/PS/dataset.html)
 - arxiv: [https://arxiv.org/abs/1604.01850](https://arxiv.org/abs/1604.01850)
+- paper: [http://www.ee.cuhk.edu.hk/~xgwang/PS/paper.pdf](http://www.ee.cuhk.edu.hk/~xgwang/PS/paper.pdf)
 - github(official, Caffe): [https://github.com/ShuangLI59/person_search](https://github.com/ShuangLI59/person_search)
 
 **Learning Deep Feature Representations with Domain Guided Dropout for Person Re-identification**
@@ -478,6 +491,12 @@ and from 73.8% to 83.1% for ResNet-50
 
 - intro: IJCAI 2017
 - arxiv: [https://arxiv.org/abs/1705.04724](https://arxiv.org/abs/1705.04724)
+
+**Attention-based Natural Language Person Retrieval**
+
+- intro: CVPR 2017 Workshop (vision meets cognition)
+- keywords: Bidirectional Long Short- Term Memory (BLSTM)
+- arxiv: [https://arxiv.org/abs/1705.08923](https://arxiv.org/abs/1705.08923)
 
 # Learning to Rank
 

@@ -521,6 +521,12 @@ Incorporates dropout regularization and convolutional neural networks with a sep
 - arxiv: [https://arxiv.org/abs/1701.02392](https://arxiv.org/abs/1701.02392)
 - github: [https://github.com/tanmayshankar/RCNN_MDP](https://github.com/tanmayshankar/RCNN_MDP)
 
+**Shallow Updates for Deep Reinforcement Learning**
+
+- intro: The Technion & UC Berkeley
+- arxiv: [https://arxiv.org/abs/1705.07461](https://arxiv.org/abs/1705.07461)
+- github(Official): [https://github.com/Shallow-Updates-for-Deep-RL/Shallow_Updates_for_Deep_RL](https://github.com/Shallow-Updates-for-Deep-RL/Shallow_Updates_for_Deep_RL)
+
 # Projects
 
 **TorchQLearning**

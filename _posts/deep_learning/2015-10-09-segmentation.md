@@ -87,6 +87,11 @@ date: 2015-10-09
 - project page: [http://www.cs.toronto.edu/polyrnn/](http://www.cs.toronto.edu/polyrnn/)
 - arxiv: [https://arxiv.org/abs/1704.05548](https://arxiv.org/abs/1704.05548)
 
+**Nighttime sky/cloud image segmentation**
+
+- intro: ICIP 2017
+- arxiv: [https://arxiv.org/abs/1705.10583](https://arxiv.org/abs/1705.10583)
+
 # Foreground Object Segmentation
 
 **Pixel Objectness**

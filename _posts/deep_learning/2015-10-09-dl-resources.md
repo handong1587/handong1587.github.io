@@ -308,6 +308,7 @@ not just the convolutions)
 - intro: CVPR 2017. Princeton University & Intel Labs
 - keywords: Dilated Residual Networks (DRN)
 - project page: [http://vladlen.info/publications/dilated-residual-networks/](http://vladlen.info/publications/dilated-residual-networks/)
+- arxiv: [https://arxiv.org/abs/1705.09914](https://arxiv.org/abs/1705.09914)
 - paper: [http://vladlen.info/papers/DRN.pdf](http://vladlen.info/papers/DRN.pdf)
 
 # Deep Learning And Bayesian
@@ -1066,6 +1067,21 @@ with fast exact probabilistic inference over many layers."
 - intro: Extends [Highway Networks](https://arxiv.org/abs/1505.00387)
 - project page: [http://people.idsia.ch/~rupesh/very_deep_learning/](http://people.idsia.ch/~rupesh/very_deep_learning/)
 - arxiv: [http://arxiv.org/abs/1507.06228](http://arxiv.org/abs/1507.06228)
+
+**Deep Rotation Equivariant Network**
+
+[https://arxiv.org/abs/1705.08623](https://arxiv.org/abs/1705.08623)
+
+**Dense Transformer Networks**
+
+- intro: Washington State University & University of California, Davis
+- arxiv: [https://arxiv.org/abs/1705.08881](https://arxiv.org/abs/1705.08881)
+
+**Deep Complex Networks**
+
+- intro: [Université de Montréal & INRS-EMT & Microsoft Maluuba
+- arxiv: [https://arxiv.org/abs/1705.09792](https://arxiv.org/abs/1705.09792)
+- github: [https://github.com/ChihebTrabelsi/deep_complex_networks](https://github.com/ChihebTrabelsi/deep_complex_networks)
 
 ## Spatial Transformer Networks
 
@@ -2135,6 +2151,16 @@ It is based on Facebook's TorchCraft, which is a bridge between Torch and StarCr
 
 - arxiv: [https://arxiv.org/abs/1703.09746](https://arxiv.org/abs/1703.09746)
 - github: [https://github.com/wenwei202/caffe/tree/sfm](https://github.com/wenwei202/caffe/tree/sfm)
+
+**Deep Learning is Robust to Massive Label Noise**
+
+[https://arxiv.org/abs/1705.10694](https://arxiv.org/abs/1705.10694)
+
+**Input Fast-Forwarding for Better Deep Learning**
+
+- intro: ICIAR 2017
+- keywords: Fast-Forward Network (FFNet)
+- arxiv: [https://arxiv.org/abs/1705.08479](https://arxiv.org/abs/1705.08479)
 
 ## Tutorials and Surveys
 

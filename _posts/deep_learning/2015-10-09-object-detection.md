@@ -260,6 +260,12 @@ date: 2015-10-09
 - github: [https://github.com/balancap/SSD-Tensorflow](https://github.com/balancap/SSD-Tensorflow)
 - github: [https://github.com/amdegroot/ssd.pytorch](https://github.com/amdegroot/ssd.pytorch)
 
+**Enhancement of SSD by concatenating feature maps for object detection**
+
+[https://arxiv.org/abs/1705.09587](https://arxiv.org/abs/1705.09587)
+
+- - -
+
 ## Inside-Outside Net (ION)
 
 **Inside-Outside Net: Detecting Objects in Context with Skip Pooling and Recurrent Neural Networks**
@@ -1106,6 +1112,11 @@ This task involves predicting the salient regions of an image given by human eye
 
 [https://arxiv.org/abs/1705.03159](https://arxiv.org/abs/1705.03159)
 
+**CASENet: Deep Category-Aware Semantic Edge Detection**
+
+- intro: CVPR 2017
+- arxiv: [https://arxiv.org/abs/1705.09759](https://arxiv.org/abs/1705.09759)
+
 ## Skeleton Detection
 
 **Object Skeleton Extraction in Natural Images by Fusing Scale-associated Deep Side Outputs**
@@ -1290,6 +1301,10 @@ This task involves predicting the salient regions of an image given by human eye
 - project page: [http://www.di.ens.fr/willow/research/contextlocnet/](http://www.di.ens.fr/willow/research/contextlocnet/)
 - arxiv: [http://arxiv.org/abs/1609.04331](http://arxiv.org/abs/1609.04331)
 - github: [https://github.com/vadimkantorov/contextlocnet](https://github.com/vadimkantorov/contextlocnet)
+
+**Ensemble of Part Detectors for Simultaneous Classification and Localization**
+
+[https://arxiv.org/abs/1705.10034](https://arxiv.org/abs/1705.10034)
 
 # Tutorials / Talks
 

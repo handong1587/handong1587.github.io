@@ -302,6 +302,10 @@ Compressed model is less than 500KB
 
 [https://arxiv.org/abs/1705.02092](https://arxiv.org/abs/1705.02092)
 
+**Towards Metamerism via Foveated Style Transfer**
+
+[https://arxiv.org/abs/1705.10041](https://arxiv.org/abs/1705.10041)
+
 ## Neural Art On Audio
 
 **MSc AI Project on generative deep networks and neural style transfer for audio**
