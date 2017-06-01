@@ -899,6 +899,7 @@ This task involves predicting the salient regions of an image given by human eye
 - github: [https://github.com/Pi-DeepLearning/RaspberryPi-FaceDetection-MTCNN-Caffe-With-Motion](https://github.com/Pi-DeepLearning/RaspberryPi-FaceDetection-MTCNN-Caffe-With-Motion)
 - github(Caffe): [https://github.com/foreverYoungGitHub/MTCNN](https://github.com/foreverYoungGitHub/MTCNN)
 - github: [https://github.com/CongWeilin/mtcnn-caffe](https://github.com/CongWeilin/mtcnn-caffe)
+- github: [https://github.com/AlphaQi/MTCNN-light](https://github.com/AlphaQi/MTCNN-light)
 
 **Face Detection using Deep Learning: An Improved Faster RCNN Approach**
 

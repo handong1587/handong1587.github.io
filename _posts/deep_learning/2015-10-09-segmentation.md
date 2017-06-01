@@ -736,6 +736,7 @@ with built-in awareness of semantically meaningful boundaries. "
 
 **Pyramid Scene Parsing Network**
 
+- intro: CVPR 2017
 - intro: mIoU score as 85.4% on PASCAL VOC 2012 and 80.2% on Cityscapes, 
 ranked 1st place in ImageNet Scene Parsing Challenge 2016
 - project page: [http://appsrv.cse.cuhk.edu.hk/~hszhao/projects/pspnet/index.html](http://appsrv.cse.cuhk.edu.hk/~hszhao/projects/pspnet/index.html)

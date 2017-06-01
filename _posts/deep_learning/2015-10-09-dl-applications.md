@@ -1073,6 +1073,17 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 
 # Depth Prediction / Depth Estimation
 
+**Deep Convolutional Neural Fields for Depth Estimation from a Single Image**
+
+- intro: CVPR 2015
+- arxiv: [https://arxiv.org/abs/1411.6387](https://arxiv.org/abs/1411.6387)
+
+**Learning Depth from Single Monocular Images Using Deep Convolutional Neural Fields**
+
+- intro: IEEE T. Pattern Analysis and Machine Intelligence
+- arxiv: [https://arxiv.org/abs/1502.07411](https://arxiv.org/abs/1502.07411)
+- bitbucket: [https://bitbucket.org/fayao/dcnf-fcsp](https://bitbucket.org/fayao/dcnf-fcsp)
+
 **Unsupervised CNN for Single View Depth Estimation: Geometry to the Rescue**
 
 - intro: ECCV 2016
