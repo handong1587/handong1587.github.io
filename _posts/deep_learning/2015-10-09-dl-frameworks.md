@@ -758,6 +758,13 @@ It is suitable for deep learning on limited computational resource, embedded sys
 - github: [https://github.com/Samsung/veles](https://github.com/Samsung/veles)
 - workflow: [https://velesnet.ml/forge/forge.html](https://velesnet.ml/forge/forge.html)
 
+# WebDNN
+
+**WebDNN: Fastest DNN Execution Framework on Web Browser**
+
+- homepage: [https://mil-tokyo.github.io/webdnn/](https://mil-tokyo.github.io/webdnn/)
+- github: [https://github.com/mil-tokyo/webdnn](https://github.com/mil-tokyo/webdnn)
+
 # Yann
 
 **Yann: Yet Another Neural Network Toolbox**

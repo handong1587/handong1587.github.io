@@ -262,7 +262,8 @@ date: 2015-10-09
 
 **Enhancement of SSD by concatenating feature maps for object detection**
 
-[https://arxiv.org/abs/1705.09587](https://arxiv.org/abs/1705.09587)
+- intro: rainbow SSD (R-SSD)
+- arxiv: [https://arxiv.org/abs/1705.09587](https://arxiv.org/abs/1705.09587)
 
 - - -
 

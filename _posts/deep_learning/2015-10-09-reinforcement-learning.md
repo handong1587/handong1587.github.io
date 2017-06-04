@@ -241,6 +241,7 @@ date: 2015-10-09
 
 - intro: Google DeepMind. 2015 Nature
 - paper: [http://www.readcube.com/articles/10.1038/nature14236?shared_access_token=Lo_2hFdW4MuqEcF3CVBZm9RgN0jAjWel9jnR3ZoTv0P5kedCCNjz3FJ2FhQCgXkApOr3ZSsJAldp-tw3IWgTseRnLpAc9xQq-vTA2Z5Ji9lg16_WvCy4SaOgpK5XXA6ecqo8d8J7l4EJsdjwai53GqKt-7JuioG0r3iV67MQIro74l6IxvmcVNKBgOwiMGi8U0izJStLpmQp6Vmi_8Lw_A%3D%3D](http://www.readcube.com/articles/10.1038/nature14236?shared_access_token=Lo_2hFdW4MuqEcF3CVBZm9RgN0jAjWel9jnR3ZoTv0P5kedCCNjz3FJ2FhQCgXkApOr3ZSsJAldp-tw3IWgTseRnLpAc9xQq-vTA2Z5Ji9lg16_WvCy4SaOgpK5XXA6ecqo8d8J7l4EJsdjwai53GqKt-7JuioG0r3iV67MQIro74l6IxvmcVNKBgOwiMGi8U0izJStLpmQp6Vmi_8Lw_A%3D%3D)
+- paper: [http://web.stanford.edu/class/psych209/Readings/MnihEtAlHassibis15NatureControlDeepRL.pdf](http://web.stanford.edu/class/psych209/Readings/MnihEtAlHassibis15NatureControlDeepRL.pdf)
 - github(Lua/Torch): [https://github.com/deepmind/dqn](https://github.com/deepmind/dqn)
 - mirror: [http://pan.baidu.com/s/1kTiwzOF](http://pan.baidu.com/s/1kTiwzOF)
 - code: [https://sites.google.com/a/deepmind.com/dqn/](https://sites.google.com/a/deepmind.com/dqn/)
@@ -706,7 +707,7 @@ The project is dedicated to hero in life great Jesse Livermore.
 
 **Using Deep Q-Network to Learn How To Play Flappy Bird**
 
-- github: [https://github.com/yenchenlin1994/DeepLearningFlappyBird](https://github.com/yenchenlin1994/DeepLearningFlappyBird)
+- github: [https://github.com/yenchenlin/DeepLearningFlappyBird](https://github.com/yenchenlin/DeepLearningFlappyBird)
 
 **Playing Flappy Bird Using Deep Reinforcement Learning (Based on Deep Q Learning DQN using Tensorflow)**
 

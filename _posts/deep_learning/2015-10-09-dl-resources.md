@@ -1045,6 +1045,27 @@ with fast exact probabilistic inference over many layers."
 
 [https://arxiv.org/abs/1705.01450](https://arxiv.org/abs/1705.01450)
 
+**Deep Rotation Equivariant Network**
+
+[https://arxiv.org/abs/1705.08623](https://arxiv.org/abs/1705.08623)
+
+**Dense Transformer Networks**
+
+- intro: Washington State University & University of California, Davis
+- arxiv: [https://arxiv.org/abs/1705.08881](https://arxiv.org/abs/1705.08881)
+
+**Deep Complex Networks**
+
+- intro: [Université de Montréal & INRS-EMT & Microsoft Maluuba
+- arxiv: [https://arxiv.org/abs/1705.09792](https://arxiv.org/abs/1705.09792)
+- github: [https://github.com/ChihebTrabelsi/deep_complex_networks](https://github.com/ChihebTrabelsi/deep_complex_networks)
+
+**DiracNets: Training Very Deep Neural Networks Without Skip-Connections**
+
+- intro: Université Paris-Est
+- arxiv: [https://arxiv.org/abs/1706.00388](https://arxiv.org/abs/1706.00388)
+- github: [https://github.com/szagoruyko/diracnets](https://github.com/szagoruyko/diracnets)
+
 ## Highway Networks
 
 **Highway Networks**
@@ -1067,21 +1088,6 @@ with fast exact probabilistic inference over many layers."
 - intro: Extends [Highway Networks](https://arxiv.org/abs/1505.00387)
 - project page: [http://people.idsia.ch/~rupesh/very_deep_learning/](http://people.idsia.ch/~rupesh/very_deep_learning/)
 - arxiv: [http://arxiv.org/abs/1507.06228](http://arxiv.org/abs/1507.06228)
-
-**Deep Rotation Equivariant Network**
-
-[https://arxiv.org/abs/1705.08623](https://arxiv.org/abs/1705.08623)
-
-**Dense Transformer Networks**
-
-- intro: Washington State University & University of California, Davis
-- arxiv: [https://arxiv.org/abs/1705.08881](https://arxiv.org/abs/1705.08881)
-
-**Deep Complex Networks**
-
-- intro: [Université de Montréal & INRS-EMT & Microsoft Maluuba
-- arxiv: [https://arxiv.org/abs/1705.09792](https://arxiv.org/abs/1705.09792)
-- github: [https://github.com/ChihebTrabelsi/deep_complex_networks](https://github.com/ChihebTrabelsi/deep_complex_networks)
 
 ## Spatial Transformer Networks
 
@@ -1347,7 +1353,9 @@ with fast exact probabilistic inference over many layers."
 
 **Deep Forest: Towards An Alternative to Deep Neural Networks**
 
+- projetc: [http://lamda.nju.edu.cn/code_gcForest.ashx](http://lamda.nju.edu.cn/code_gcForest.ashx)
 - arxiv: [https://arxiv.org/abs/1702.08835](https://arxiv.org/abs/1702.08835)
+- github(official): [https://github.com/kingfengji/gcForest](https://github.com/kingfengji/gcForest)
 
 **Forward Thinking: Building Deep Random Forests**
 
@@ -2091,11 +2099,6 @@ It is based on Facebook's TorchCraft, which is a bridge between Torch and StarCr
 
 - arxiv: [https://arxiv.org/abs/1702.06257](https://arxiv.org/abs/1702.06257)
 
-**On the Origin of Deep Learning**
-
-- intro: CMU. 70 pages, 200 references
-- arxiv: [https://arxiv.org/abs/1702.07800](https://arxiv.org/abs/1702.07800)
-
 **Learning across scales - A multiscale method for Convolution Neural Networks**
 
 - arxiv: [https://arxiv.org/abs/1703.02009](https://arxiv.org/abs/1703.02009)
@@ -2162,7 +2165,16 @@ It is based on Facebook's TorchCraft, which is a bridge between Torch and StarCr
 - keywords: Fast-Forward Network (FFNet)
 - arxiv: [https://arxiv.org/abs/1705.08479](https://arxiv.org/abs/1705.08479)
 
+**Deep Mutual Learning**
+
+[https://arxiv.org/abs/1706.00384](https://arxiv.org/abs/1706.00384)
+
 ## Tutorials and Surveys
+
+**On the Origin of Deep Learning**
+
+- intro: CMU. 70 pages, 200 references
+- arxiv: [https://arxiv.org/abs/1702.07800](https://arxiv.org/abs/1702.07800)
 
 **Efficient Processing of Deep Neural Networks: A Tutorial and Survey**
 

@@ -243,7 +243,10 @@ date: 2015-10-09
 
 **On the effect of Batch Normalization and Weight Normalization in Generative Adversarial Networks**
 
-[https://arxiv.org/abs/1704.03971](https://arxiv.org/abs/1704.03971)
+**On the Effects of Batch and Weight Normalization in Generative Adversarial Networks**
+
+- arxiv: [https://arxiv.org/abs/1704.03971](https://arxiv.org/abs/1704.03971)
+- github: [https://github.com/stormraiser/GAN-weight-norm](https://github.com/stormraiser/GAN-weight-norm)
 
 ## Image-to-Image Translation
 

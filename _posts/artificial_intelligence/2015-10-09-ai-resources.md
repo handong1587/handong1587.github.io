@@ -35,6 +35,12 @@ date: 2015-10-01
 - github: [https://github.com/aimacode/aima-python](https://github.com/aimacode/aima-python)
 - github: [https://github.com/aimacode/aima-java](https://github.com/aimacode/aima-java)
 
+**Artificial Intelligence and Games**
+
+- intro: A Springer Textbook | By Georgios N. Yannakakis and Julian Togelius
+- homepage: [http://gameaibook.org/](http://gameaibook.org/)
+- draft: [http://gameaibook.org/book.pdf](http://gameaibook.org/book.pdf)
+
 # Papers
 
 **Building Machines That Learn and Think Like People**

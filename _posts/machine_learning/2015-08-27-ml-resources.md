@@ -459,6 +459,10 @@ Classic strategies:
 - blog: [https://medium.com/@vivek.yadav/dealing-with-unbalanced-data-generating-additional-data-by-jittering-the-original-image-7497fe2119c3](https://medium.com/@vivek.yadav/dealing-with-unbalanced-data-generating-additional-data-by-jittering-the-original-image-7497fe2119c3)
 - ipynb: [https://nbviewer.jupyter.org/github/vxy10/SCND_notebooks/blob/master/preprocessing_stuff/img_transform_NB.ipynb](https://nbviewer.jupyter.org/github/vxy10/SCND_notebooks/blob/master/preprocessing_stuff/img_transform_NB.ipynb)
 
+**7 Techniques to Handle Imbalanced Data**
+
+[http://www.kdnuggets.com/2017/06/7-techniques-handle-imbalanced-data.html](http://www.kdnuggets.com/2017/06/7-techniques-handle-imbalanced-data.html)
+
 # Mathematics
 
 **Some Notes on Applied Mathematics for Machine**
