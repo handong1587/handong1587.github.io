@@ -458,7 +458,7 @@ with built-in awareness of semantically meaningful boundaries. "
 
 **Understanding Convolution for Semantic Segmentation**
 
-- github: [https://arxiv.org/abs/1702.08502](https://arxiv.org/abs/1702.08502)
+- arxiv: [https://arxiv.org/abs/1702.08502](https://arxiv.org/abs/1702.08502)
 - pretrained-models: [https://drive.google.com/drive/folders/0B72xLTlRb0SoREhISlhibFZTRmM](https://drive.google.com/drive/folders/0B72xLTlRb0SoREhISlhibFZTRmM)
 
 **Label Refinement Network for Coarse-to-Fine Semantic Segmentation**
