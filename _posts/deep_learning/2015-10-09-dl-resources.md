@@ -347,6 +347,11 @@ not just the convolutions)
 
 - blog: [http://twiecki.github.io/blog/2016/07/05/bayesian-deep-learning/](http://twiecki.github.io/blog/2016/07/05/bayesian-deep-learning/)
 
+**Deep Learning: A Bayesian Perspective**
+
+- intro: George Mason University
+- arxiv: [https://arxiv.org/abs/1706.00473](https://arxiv.org/abs/1706.00473)
+
 # Semi-Supervised Learning
 
 **Semi-Supervised Learning with Graphs**
