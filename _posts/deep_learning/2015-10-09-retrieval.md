@@ -44,8 +44,7 @@ date: 2015-10-09
 
 **Visual Search at Pinterest**
 
-![](https://engineering.pinterest.com/sites/engineering/files/article/fields/field_image/Visual%20Search%20Tool%20-%20GIF.gif)
-
+- intro: in Proceedings of the 21th ACM SIGKDD International Conference on Knowledge and Discovery and Data Mining, 2015
 - arxiv: [http://arxiv.org/abs/1505.07647](http://arxiv.org/abs/1505.07647)
 - blog: [https://engineering.pinterest.com/blog/introducing-new-way-visually-search-pinterest](https://engineering.pinterest.com/blog/introducing-new-way-visually-search-pinterest)
 

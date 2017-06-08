@@ -125,6 +125,7 @@ date: 2015-10-09
 
 **DeepFace: Closing the Gap to Human-Level Performance in Face Verification**
 
+- intro: CVPR 2014. Facebook AI Research
 - paper: [https://www.cs.toronto.edu/~ranzato/publications/taigman_cvpr14.pdf](https://www.cs.toronto.edu/~ranzato/publications/taigman_cvpr14.pdf)
 - slides: [http://valse.mmcheng.net/ftp/20141126/MingYang.pdf](http://valse.mmcheng.net/ftp/20141126/MingYang.pdf)
 - github: [https://github.com/RiweiChen/DeepFace](https://github.com/RiweiChen/DeepFace)
