@@ -402,6 +402,10 @@ after the embedding and recurrent layers of the RNN."
 - project page: [http://cs.stanford.edu/people/ranjaykrishna/densevid/](http://cs.stanford.edu/people/ranjaykrishna/densevid/)
 - arxiv: [https://arxiv.org/abs/1705.00754](https://arxiv.org/abs/1705.00754)
 
+**Hierarchical LSTM with Adjusted Temporal Attention for Video Captioning**
+
+[https://arxiv.org/abs/1706.01231](https://arxiv.org/abs/1706.01231)
+
 # Projects
 
 **Learning CNN-LSTM Architectures for Image Caption Generation: An implementation of CNN-LSTM image caption generator architecture that achieves close to state-of-the-art results on the MSCOCO dataset.**

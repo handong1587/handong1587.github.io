@@ -419,6 +419,10 @@ at INT8 deep learning operations than other FPGA DSP architectures"
 - arxiv: [https://arxiv.org/abs/1705.09864](https://arxiv.org/abs/1705.09864)
 - github: [https://github.com/hpi-xnor](https://github.com/hpi-xnor)
 
+**ShiftCNN: Generalized Low-Precision Architecture for Inference of Convolutional Neural Networks**
+
+[https://arxiv.org/abs/1706.02393](https://arxiv.org/abs/1706.02393)
+
 ## Accelerating / Fast Algorithms
 
 **Fast Algorithms for Convolutional Neural Networks**
@@ -435,6 +439,10 @@ at INT8 deep learning operations than other FPGA DSP architectures"
 
 - intro: Hong Kong Baptist University
 - arxiv: [https://arxiv.org/abs/1704.07724](https://arxiv.org/abs/1704.07724)
+
+**NullHop: A Flexible Convolutional Neural Network Accelerator Based on Sparse Representations of Feature Maps**
+
+[https://arxiv.org/abs/1706.01406](https://arxiv.org/abs/1706.01406)
 
 ## Code Optimization
 

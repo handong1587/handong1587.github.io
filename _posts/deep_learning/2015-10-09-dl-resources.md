@@ -1724,7 +1724,7 @@ It is based on Facebook's TorchCraft, which is a bridge between Torch and StarCr
 - intro: Imperial College London
 - paper: [http://ieeexplore.ieee.org/abstract/document/7801947/](http://ieeexplore.ieee.org/abstract/document/7801947/)
 
-# Deep Learning in Fashion
+# Deep Learning for Fashion
 
 **Convolutional Neural Networks for Fashion Classification and Object Detection**
 
@@ -1756,6 +1756,10 @@ It is based on Facebook's TorchCraft, which is a bridge between Torch and StarCr
 
 - intro: Karlsruhe Institute of Technology & The University of Texas at Austin
 - arxiv: [https://arxiv.org/abs/1705.06394](https://arxiv.org/abs/1705.06394)
+
+**StreetStyle: Exploring world-wide clothing styles from millions of photos**
+
+[https://arxiv.org/abs/1706.01869](https://arxiv.org/abs/1706.01869)
 
 # Benchmarks
 

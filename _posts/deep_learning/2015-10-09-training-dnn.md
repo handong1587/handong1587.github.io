@@ -362,6 +362,11 @@ date: 2015-10-09
 - intro: ICLR 2017
 - arxiv: [https://arxiv.org/abs/1609.04836](https://arxiv.org/abs/1609.04836)
 
+**Accurate, Large Minibatch SGD: Training ImageNet in 1 Hour**
+
+- intro: Facebook
+- arxiv: [https://arxiv.org/abs/1706.02677](https://arxiv.org/abs/1706.02677)
+
 # Optimization Methods
 
 **On Optimization Methods for Deep Learning**

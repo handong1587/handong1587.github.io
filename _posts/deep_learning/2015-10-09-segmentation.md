@@ -520,6 +520,11 @@ with built-in awareness of semantically meaningful boundaries. "
 - intro: Washington State University
 - arxiv: [https://arxiv.org/abs/1705.06820](https://arxiv.org/abs/1705.06820)
 
+**Incorporating Network Built-in Priors in Weakly-supervised Semantic Segmentation**
+
+- intro: IEEE TPAMI
+- arxiv: [https://arxiv.org/abs/1706.02189](https://arxiv.org/abs/1706.02189)
+
 # Instance Segmentation
 
 **Simultaneous Detection and Segmentation**
@@ -682,7 +687,7 @@ with built-in awareness of semantically meaningful boundaries. "
 - arxiv: [https://arxiv.org/abs/1612.08843](https://arxiv.org/abs/1612.08843)
 - github: [https://github.com/voidrank/FastMask](https://github.com/voidrank/FastMask)
 
-# Scene Labeling / Parsing
+# Scene Labeling / Scene Parsing
 
 **Indoor Semantic Segmentation using depth information**
 
@@ -721,6 +726,11 @@ with built-in awareness of semantically meaningful boundaries. "
 **Semantic Understanding of Scenes through the ADE20K Dataset**
 
 - arxiv: [https://arxiv.org/abs/1608.05442](https://arxiv.org/abs/1608.05442)
+
+**Learning Deep Representations for Scene Labeling with Guided Supervision**
+
+- intro: CUHK
+- arxiv: [https://arxiv.org/abs/1706.02493](https://arxiv.org/abs/1706.02493)
 
 ## MPF-RNN
 

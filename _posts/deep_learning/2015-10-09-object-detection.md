@@ -252,13 +252,17 @@ date: 2015-10-09
 - arxiv: [http://arxiv.org/abs/1512.02325](http://arxiv.org/abs/1512.02325)
 - paper: [http://www.cs.unc.edu/~wliu/papers/ssd.pdf](http://www.cs.unc.edu/~wliu/papers/ssd.pdf)
 - slides: [http://www.cs.unc.edu/%7Ewliu/papers/ssd_eccv2016_slide.pdf](http://www.cs.unc.edu/%7Ewliu/papers/ssd_eccv2016_slide.pdf)
-- github: [https://github.com/weiliu89/caffe/tree/ssd](https://github.com/weiliu89/caffe/tree/ssd)
+- github(Official): [https://github.com/weiliu89/caffe/tree/ssd](https://github.com/weiliu89/caffe/tree/ssd)
 - video: [http://weibo.com/p/2304447a2326da963254c963c97fb05dd3a973](http://weibo.com/p/2304447a2326da963254c963c97fb05dd3a973)
 - github: [https://github.com/zhreshold/mxnet-ssd](https://github.com/zhreshold/mxnet-ssd)
 - github: [https://github.com/zhreshold/mxnet-ssd.cpp](https://github.com/zhreshold/mxnet-ssd.cpp)
 - github: [https://github.com/rykov8/ssd_keras](https://github.com/rykov8/ssd_keras)
 - github: [https://github.com/balancap/SSD-Tensorflow](https://github.com/balancap/SSD-Tensorflow)
 - github: [https://github.com/amdegroot/ssd.pytorch](https://github.com/amdegroot/ssd.pytorch)
+
+**What's the diffience in performance between this new code you pushed and the previous code? #327**
+
+[https://github.com/weiliu89/caffe/issues/327](https://github.com/weiliu89/caffe/issues/327)
 
 **Enhancement of SSD by concatenating feature maps for object detection**
 
@@ -333,7 +337,7 @@ and 1.15s per image with it".
 - intro: CVPR 2016 Oral. Online hard example mining (OHEM)
 - arxiv: [http://arxiv.org/abs/1604.03540](http://arxiv.org/abs/1604.03540)
 - paper: [http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Shrivastava_Training_Region-Based_Object_CVPR_2016_paper.pdf](http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Shrivastava_Training_Region-Based_Object_CVPR_2016_paper.pdf)
-- github（Official）: [https://github.com/abhi2610/ohem](https://github.com/abhi2610/ohem)
+- github(Official): [https://github.com/abhi2610/ohem](https://github.com/abhi2610/ohem)
 - author page: [http://abhinav-shrivastava.info/](http://abhinav-shrivastava.info/)
 
 **Track and Transfer: Watching Videos to Simulate Strong Human Supervision for Weakly-Supervised Object Detection**
@@ -921,6 +925,10 @@ This task involves predicting the salient regions of an image given by human eye
 
 [https://arxiv.org/abs/1703.10818](https://arxiv.org/abs/1703.10818)
 
+**Face R-CNN**
+
+[https://arxiv.org/abs/1706.01061](https://arxiv.org/abs/1706.01061)
+
 ## Facial Point / Landmark Detection
 
 **Deep Convolutional Network Cascade for Facial Point Detection**
@@ -959,7 +967,12 @@ This task involves predicting the salient regions of an image given by human eye
 
 [https://arxiv.org/abs/1704.01880](https://arxiv.org/abs/1704.01880)
 
-## People Detection
+**Deep Alignment Network: A convolutional neural network for robust face alignment**
+
+- intro: CVPRW 2017
+- arxiv: [https://arxiv.org/abs/1706.01789](https://arxiv.org/abs/1706.01789)
+
+# People Detection
 
 **End-to-end people detection in crowded scenes**
 
