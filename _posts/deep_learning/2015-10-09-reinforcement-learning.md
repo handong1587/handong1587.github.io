@@ -703,6 +703,10 @@ The project is dedicated to hero in life great Jesse Livermore.
 
 [https://github.com/rlcode/reinforcement-learning](https://github.com/rlcode/reinforcement-learning)
 
+**DeepRL: Highly modularized implementation of popular deep RL algorithms by PyTorch**
+
+[https://github.com/ShangtongZhang/DeepRL](https://github.com/ShangtongZhang/DeepRL)
+
 ## Play Flappy Bird
 
 **Using Deep Q-Network to Learn How To Play Flappy Bird**

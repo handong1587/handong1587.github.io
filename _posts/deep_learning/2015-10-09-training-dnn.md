@@ -133,6 +133,19 @@ date: 2015-10-09
 
 [https://arxiv.org/abs/1702.07790](https://arxiv.org/abs/1702.07790)
 
+## SELU
+
+**Self-Normalizing Neural Networks**
+
+- intro: SELU
+- arxiv: [https://arxiv.org/abs/1706.02515](https://arxiv.org/abs/1706.02515)
+- github: [https://github.com/bioinf-jku/SNNs](https://github.com/bioinf-jku/SNNs)
+- notes: [https://github.com/kevinzakka/research-paper-notes/blob/master/snn.md](https://github.com/kevinzakka/research-paper-notes/blob/master/snn.md)
+
+**SELUs (scaled exponential linear units) - Visualized and Histogramed Comparisons among ReLU and Leaky ReLU**
+
+[https://github.com/shaohua0116/Activation-Visualization-Histogram](https://github.com/shaohua0116/Activation-Visualization-Histogram)
+
 **Difference Between Softmax Function and Sigmoid Function**
 
 [http://dataaspirant.com/2017/03/07/difference-between-softmax-function-and-sigmoid-function/](http://dataaspirant.com/2017/03/07/difference-between-softmax-function-and-sigmoid-function/)
@@ -365,6 +378,7 @@ date: 2015-10-09
 **Accurate, Large Minibatch SGD: Training ImageNet in 1 Hour**
 
 - intro: Facebook
+- keywords: Training with 256 GPUs, minibatches of 8192
 - arxiv: [https://arxiv.org/abs/1706.02677](https://arxiv.org/abs/1706.02677)
 
 # Optimization Methods

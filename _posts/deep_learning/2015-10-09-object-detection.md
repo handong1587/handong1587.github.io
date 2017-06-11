@@ -681,6 +681,7 @@ This task involves predicting the salient regions of an image given by human eye
 
 **Shallow and Deep Convolutional Networks for Saliency Prediction**
 
+- intro: CVPR 2016
 - arxiv: [http://arxiv.org/abs/1603.00845](http://arxiv.org/abs/1603.00845)
 - github: [https://github.com/imatge-upc/saliency-2016-cvpr](https://github.com/imatge-upc/saliency-2016-cvpr)
 
@@ -971,6 +972,7 @@ This task involves predicting the salient regions of an image given by human eye
 
 - intro: CVPRW 2017
 - arxiv: [https://arxiv.org/abs/1706.01789](https://arxiv.org/abs/1706.01789)
+- gihtub: [https://github.com/MarekKowalski/DeepAlignmentNetwork](https://github.com/MarekKowalski/DeepAlignmentNetwork)
 
 # People Detection
 

@@ -1527,6 +1527,11 @@ with fast exact probabilistic inference over many layers."
 - intro: This Repository uses Reinforcement Learning and Supervised learning to Optimize portfolio allocation.
 - github: [https://github.com/deependersingla/deep_portfolio](https://github.com/deependersingla/deep_portfolio)
 
+**Neural networks for algorithmic trading. Multivariate time series**
+
+- blog: [https://medium.com/@alexrachnog/neural-networks-for-algorithmic-trading-2-1-multivariate-time-series-ab016ce70f57](https://medium.com/@alexrachnog/neural-networks-for-algorithmic-trading-2-1-multivariate-time-series-ab016ce70f57)
+- github: [https://github.com/Rachnog/Deep-Trading/tree/master/multivariate](https://github.com/Rachnog/Deep-Trading/tree/master/multivariate)
+
 **Deep-Trading: Algorithmic trading with deep learning experiments**
 
 [https://github.com/Rachnog/Deep-Trading](https://github.com/Rachnog/Deep-Trading)
@@ -1759,7 +1764,9 @@ It is based on Facebook's TorchCraft, which is a bridge between Torch and StarCr
 
 **StreetStyle: Exploring world-wide clothing styles from millions of photos**
 
-[https://arxiv.org/abs/1706.01869](https://arxiv.org/abs/1706.01869)
+- homepage: [http://streetstyle.cs.cornell.edu/](http://streetstyle.cs.cornell.edu/)
+- arxiv: [https://arxiv.org/abs/1706.01869](https://arxiv.org/abs/1706.01869)
+- demo: [http://streetstyle.cs.cornell.edu/trends.html](http://streetstyle.cs.cornell.edu/trends.html)
 
 # Benchmarks
 
@@ -2232,6 +2239,7 @@ It is based on Facebook's TorchCraft, which is a bridge between Torch and StarCr
 - github: [https://github.com/marvis/pytorch-mobilenet](https://github.com/marvis/pytorch-mobilenet)
 - github(Tensorflow): [https://github.com/Zehaos/MobileNet](https://github.com/Zehaos/MobileNet)
 - github: [https://github.com/shicai/MobileNet-Caffe](https://github.com/shicai/MobileNet-Caffe)
+- github: [https://github.com/hollance/MobileNet-CoreML](https://github.com/hollance/MobileNet-CoreML)
 
 ## STDP
 

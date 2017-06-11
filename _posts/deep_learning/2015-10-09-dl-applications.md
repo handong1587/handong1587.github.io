@@ -279,6 +279,10 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 
 [https://arxiv.org/abs/1705.04515](https://arxiv.org/abs/1705.04515)
 
+**Facial Emotion Detection Using Convolutional Neural Networks and Representational Autoencoder Units**
+
+[https://arxiv.org/abs/1706.01509](https://arxiv.org/abs/1706.01509)
+
 # Attribution Prediction
 
 **PANDA: Pose Aligned Networks for Deep Attribute Modeling**
@@ -486,6 +490,11 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 
 [https://arxiv.org/abs/1703.08710](https://arxiv.org/abs/1703.08710)
 
+**Counting Objects with Faster R-CNN**
+
+- blog: [https://softwaremill.com/counting-objects-with-faster-rcnn/](https://softwaremill.com/counting-objects-with-faster-rcnn/)
+- github: [https://github.com/softberries/keras-frcnn](https://github.com/softberries/keras-frcnn)
+
 ## Crowd Counting / Analysis
 
 **Large scale crowd analysis based on convolutional neural network**
@@ -577,7 +586,7 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 - blog: [http://aqibsaeed.github.io/2017-05-02-deploying-tensorflow-model-andorid-device-human-activity-recognition/](http://aqibsaeed.github.io/2017-05-02-deploying-tensorflow-model-andorid-device-human-activity-recognition/)
 - github: [https://github.com/aqibsaeed/Human-Activity-Recognition-using-CNN/tree/master/ActivityRecognition](https://github.com/aqibsaeed/Human-Activity-Recognition-using-CNN/tree/master/ActivityRecognition)
 
-# Music / Sound Classification
+# Music Classification / Sound Classification
 
 **Explaining Deep Convolutional Neural Networks on Music Classification**
 
@@ -631,6 +640,11 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 
 - arxiv: [https://arxiv.org/abs/1703.10667](https://arxiv.org/abs/1703.10667)
 - github: [https://github.com/chihyaoma/Activity-Recognition-with-CNN-and-RNN](https://github.com/chihyaoma/Activity-Recognition-with-CNN-and-RNN)
+
+**On the Robustness of Deep Convolutional Neural Networks for Music Classification**
+
+- intro: Queen Mary University of London & New York University
+- arxiv: [https://arxiv.org/abs/1706.02361](https://arxiv.org/abs/1706.02361)
 
 # NSFW Detection / Classification
 
@@ -975,6 +989,7 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 **Deep Multi-scale Convolutional Neural Network for Dynamic Scene Deblurring**
 
 - arxiv: [https://arxiv.org/abs/1612.02177](https://arxiv.org/abs/1612.02177)
+- github(official. Torch)): [https://github.com/SeungjunNah/DeepDeblur_release](https://github.com/SeungjunNah/DeepDeblur_release)
 
 **From Motion Blur to Motion Flow: a Deep Learning Solution for Removing Heterogeneous Motion Blur**
 

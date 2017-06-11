@@ -727,6 +727,11 @@ Compressed model is less than 500KB
 
 [http://blog.naoya.io/metis-final-project-music-composition-with-lstms/](http://blog.naoya.io/metis-final-project-music-composition-with-lstms/)
 
+**Neural Translation of Musical Style**
+
+- blog: [http://imanmalik.com/cs/2017/06/05/neural-style.html](http://imanmalik.com/cs/2017/06/05/neural-style.html)
+- github: [https://github.com/imalikshake/StyleNet](https://github.com/imalikshake/StyleNet)
+
 # Poetry
 
 **NeuralSnap: Generates poetry from images using convolutional and recurrent neural networks**
