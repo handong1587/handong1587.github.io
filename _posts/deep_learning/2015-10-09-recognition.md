@@ -51,6 +51,12 @@ date: 2015-10-09
 
 - arxiv: [http://arxiv.org/abs/1608.00182](http://arxiv.org/abs/1608.00182)
 
+**Factorized Bilinear Models for Image Recognition**
+
+- intro: TuSimple
+- arxiv: [https://arxiv.org/abs/1611.05709](https://arxiv.org/abs/1611.05709)
+- github(MXNet): [https://github.com/lyttonhao/Factorized-Bilinear-Network](https://github.com/lyttonhao/Factorized-Bilinear-Network)
+
 **Hyperspectral CNN Classification with Limited Training Samples**
 
 - arxiv: [https://arxiv.org/abs/1611.09007](https://arxiv.org/abs/1611.09007)

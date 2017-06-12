@@ -108,15 +108,14 @@ date: 2015-10-09
 
 **Fully Convolutional Networks for Semantic Segmentation**
 
+- intro: CVPR 2015, PAMI 2016
 - keywords: deconvolutional layer, crop layer
-- intro: An interesting idea in this work is that a simple interpolation filter is employed for deconvolution and 
-only the CNN part of the network is fine-tuned to learn deconvolution indirectly.
 - arxiv: [http://arxiv.org/abs/1411.4038](http://arxiv.org/abs/1411.4038)
 - arxiv(PAMI 2016): [http://arxiv.org/abs/1605.06211](http://arxiv.org/abs/1605.06211)
 - slides: [https://docs.google.com/presentation/d/1VeWFMpZ8XN7OC3URZP4WdXvOGYckoFWGVN7hApoXVnc](https://docs.google.com/presentation/d/1VeWFMpZ8XN7OC3URZP4WdXvOGYckoFWGVN7hApoXVnc)
 - slides: [http://tutorial.caffe.berkeleyvision.org/caffe-cvpr15-pixels.pdf](http://tutorial.caffe.berkeleyvision.org/caffe-cvpr15-pixels.pdf)
 - talk: [http://techtalks.tv/talks/fully-convolutional-networks-for-semantic-segmentation/61606/](http://techtalks.tv/talks/fully-convolutional-networks-for-semantic-segmentation/61606/)
-- github: [https://github.com/shelhamer/fcn.berkeleyvision.org](https://github.com/shelhamer/fcn.berkeleyvision.org)
+- github(official): [https://github.com/shelhamer/fcn.berkeleyvision.org](https://github.com/shelhamer/fcn.berkeleyvision.org)
 - github: [https://github.com/BVLC/caffe/wiki/Model-Zoo#fcn](https://github.com/BVLC/caffe/wiki/Model-Zoo#fcn)
 - github: [https://github.com/MarvinTeichmann/tensorflow-fcn](https://github.com/MarvinTeichmann/tensorflow-fcn)
 - github(Chainer): [https://github.com/wkentaro/fcn](https://github.com/wkentaro/fcn)
@@ -829,6 +828,7 @@ ranked 1st place in ImageNet Scene Parsing Challenge 2016
 **One-Shot Video Object Segmentation**
 
 - intro: OSVOS
+- project: [http://www.vision.ee.ethz.ch/~cvlsegmentation/osvos/](http://www.vision.ee.ethz.ch/~cvlsegmentation/osvos/)
 - arxiv: [https://arxiv.org/abs/1611.05198](https://arxiv.org/abs/1611.05198)
 - github: [https://github.com/kmaninis/OSVOS-caffe](https://github.com/kmaninis/OSVOS-caffe)
 - github: [https://github.com/scaelles/OSVOS-TensorFlow](https://github.com/scaelles/OSVOS-TensorFlow)
