@@ -311,6 +311,11 @@ not just the convolutions)
 - arxiv: [https://arxiv.org/abs/1705.09914](https://arxiv.org/abs/1705.09914)
 - paper: [http://vladlen.info/papers/DRN.pdf](http://vladlen.info/papers/DRN.pdf)
 
+**Dynamic Steerable Blocks in Deep Residual Networks**
+
+- intro: University of Amsterdam & ESAT-PSI
+- arxiv: [https://arxiv.org/abs/1706.00598](https://arxiv.org/abs/1706.00598)
+
 # Deep Learning And Bayesian
 
 **Scalable Bayesian Optimization Using Deep Neural Networks**
@@ -468,8 +473,9 @@ not just the convolutions)
 - arxiv: [http://arxiv.org/abs/1502.05988](http://arxiv.org/abs/1502.05988)
 - github: [http://meka.sourceforge.net](http://meka.sourceforge.net)
 
-**Predicting Unseen Labels using Label Hierarchies in Large-Scale Multi-label Learning(ECML2015)**
+**Predicting Unseen Labels using Label Hierarchies in Large-Scale Multi-label Learning**
 
+- intro: ECML 2015
 - paper: [https://www.kdsl.tu-darmstadt.de/fileadmin/user_upload/Group_KDSL/PUnL_ECML2015_camera_ready.pdf](https://www.kdsl.tu-darmstadt.de/fileadmin/user_upload/Group_KDSL/PUnL_ECML2015_camera_ready.pdf)
 
 **Learning with a Wasserstein Loss**
@@ -2231,6 +2237,8 @@ It is based on Facebook's TorchCraft, which is a bridge between Torch and StarCr
 
 - arxiv: [https://arxiv.org/abs/1701.04489](https://arxiv.org/abs/1701.04489)
 
+## MobileNets
+
 **MobileNets: Efficient Convolutional Neural Networks for Mobile Vision Applications**
 
 - intro: Google
@@ -2239,6 +2247,16 @@ It is based on Facebook's TorchCraft, which is a bridge between Torch and StarCr
 - github: [https://github.com/marvis/pytorch-mobilenet](https://github.com/marvis/pytorch-mobilenet)
 - github(Tensorflow): [https://github.com/Zehaos/MobileNet](https://github.com/Zehaos/MobileNet)
 - github: [https://github.com/shicai/MobileNet-Caffe](https://github.com/shicai/MobileNet-Caffe)
+- github: [https://github.com/hollance/MobileNet-CoreML](https://github.com/hollance/MobileNet-CoreML)
+
+**MobileNets: Open-Source Models for Efficient On-Device Vision**
+
+- blog: [https://research.googleblog.com/2017/06/mobilenets-open-source-models-for.html](https://research.googleblog.com/2017/06/mobilenets-open-source-models-for.html)
+- github: [https://github.com/tensorflow/models/blob/master/slim/nets/mobilenet_v1.md](https://github.com/tensorflow/models/blob/master/slim/nets/mobilenet_v1.md)
+
+**Google’s MobileNets on the iPhone**
+
+- blog: [http://machinethink.net/blog/googles-mobile-net-architecture-on-iphone/](http://machinethink.net/blog/googles-mobile-net-architecture-on-iphone/)
 - github: [https://github.com/hollance/MobileNet-CoreML](https://github.com/hollance/MobileNet-CoreML)
 
 ## STDP

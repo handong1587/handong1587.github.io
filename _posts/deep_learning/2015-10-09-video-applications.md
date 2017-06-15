@@ -62,6 +62,17 @@ date: 2015-10-09
 - intro: "Audio-Visual Correspondence" learning
 - arxiv: [https://arxiv.org/abs/1705.08168](https://arxiv.org/abs/1705.08168)
 
+**Video Imagination from a Single Image with Transformation Generation**
+
+- intro: Peking University
+- arxiv: [https://arxiv.org/abs/1706.04124](https://arxiv.org/abs/1706.04124)
+- github: [https://github.com/gitpub327/VideoImagination](https://github.com/gitpub327/VideoImagination)
+
+**Learning to Learn from Noisy Web Videos**
+
+- intro: CVPR 2017. Stanford University & CMU & Simon Fraser University
+- arxiv: [https://arxiv.org/abs/1706.02884](https://arxiv.org/abs/1706.02884)
+
 # Video Classification
 
 **Large-scale Video Classification with Convolutional Neural Networks**

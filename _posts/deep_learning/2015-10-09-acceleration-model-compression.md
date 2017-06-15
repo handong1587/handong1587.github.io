@@ -402,6 +402,21 @@ at INT8 deep learning operations than other FPGA DSP architectures"
 - keywords: discrete state transition (DST)
 - arxiv: [https://arxiv.org/abs/1705.09283](https://arxiv.org/abs/1705.09283)
 
+**SEP-Nets: Small and Effective Pattern Networks**
+
+- intro: The University of Iowa & Snap Research
+- arxiv: [https://arxiv.org/abs/1706.03912](https://arxiv.org/abs/1706.03912)
+
+**Training Quantized Nets: A Deeper Understanding**
+
+- intro: University of Maryland & Cornell University
+- arxiv: [https://arxiv.org/abs/1706.02379](https://arxiv.org/abs/1706.02379)
+
+**ShiftCNN: Generalized Low-Precision Architecture for Inference of Convolutional Neural Networks**
+
+- arxiv: [https://arxiv.org/abs/1706.02393](https://arxiv.org/abs/1706.02393)
+- github: [https://github.com/gudovskiy/ShiftCNN](https://github.com/gudovskiy/ShiftCNN)
+
 ## Binary Convolutional Neural Networks
 
 **XNOR-Net: ImageNet Classification Using Binary Convolutional Neural Networks**

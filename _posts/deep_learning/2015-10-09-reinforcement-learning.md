@@ -495,6 +495,12 @@ Incorporates dropout regularization and convolutional neural networks with a sep
 - intro: Stanford University
 - arxiv: [https://arxiv.org/abs/1704.05539](https://arxiv.org/abs/1704.05539)
 
+**Feature Control as Intrinsic Motivation for Hierarchical Reinforcement Learning**
+
+- intro: Imperial College London
+- arxiv: [https://arxiv.org/abs/1705.06769](https://arxiv.org/abs/1705.06769)
+- github: [https://github.com/Nat-D/FeatureControlHRL](https://github.com/Nat-D/FeatureControlHRL)
+
 ## Playing Doom
 
 **ViZDoom: A Doom-based AI Research Platform for Visual Reinforcement Learning**

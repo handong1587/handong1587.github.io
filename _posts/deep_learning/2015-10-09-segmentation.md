@@ -728,6 +728,8 @@ with built-in awareness of semantically meaningful boundaries. "
 
 **Learning Deep Representations for Scene Labeling with Guided Supervision**
 
+**Learning Deep Representations for Scene Labeling with Semantic Context Guided Supervision**
+
 - intro: CUHK
 - arxiv: [https://arxiv.org/abs/1706.02493](https://arxiv.org/abs/1706.02493)
 

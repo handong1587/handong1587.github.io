@@ -141,6 +141,7 @@ date: 2015-10-09
 - arxiv: [https://arxiv.org/abs/1706.02515](https://arxiv.org/abs/1706.02515)
 - github: [https://github.com/bioinf-jku/SNNs](https://github.com/bioinf-jku/SNNs)
 - notes: [https://github.com/kevinzakka/research-paper-notes/blob/master/snn.md](https://github.com/kevinzakka/research-paper-notes/blob/master/snn.md)
+- github(Chainer): [https://github.com/musyoku/self-normalizing-networks](https://github.com/musyoku/self-normalizing-networks)
 
 **SELUs (scaled exponential linear units) - Visualized and Histogramed Comparisons among ReLU and Leaky ReLU**
 

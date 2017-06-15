@@ -97,6 +97,14 @@ date: 2015-10-09
 - intro: ICPR 2016 Oral
 - arxiv: [https://arxiv.org/abs/1610.03155](https://arxiv.org/abs/1610.03155)
 
+## Multi-Label Classification
+
+**Learning Spatial Regularization with Image-level Supervisions for Multi-label Image Classification**
+
+- intro: CVPR 2017. University of Science and Technology of China & CUHK
+- arxiv: [https://arxiv.org/abs/1702.05891](https://arxiv.org/abs/1702.05891)
+- github(official. Caffe): [https://github.com/zhufengx/SRN_multilabel/](https://github.com/zhufengx/SRN_multilabel/)
+
 ## Face Recognition
 
 ### DeepID

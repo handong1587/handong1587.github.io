@@ -1349,7 +1349,11 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 
 **LipNet: Sentence-level Lipreading**
 
+**LipNet: End-to-End Sentence-level Lipreading**
+
+- arxiv: [https://arxiv.org/abs/1611.01599](https://arxiv.org/abs/1611.01599)
 - paper: [http://openreview.net/pdf?id=BkjLkSqxg](http://openreview.net/pdf?id=BkjLkSqxg)
+- github: [https://github.com/bshillingford/LipNet](https://github.com/bshillingford/LipNet)
 
 **Lip Reading Sentences in the Wild**
 

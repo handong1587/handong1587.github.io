@@ -306,6 +306,10 @@ Compressed model is less than 500KB
 
 [https://arxiv.org/abs/1705.10041](https://arxiv.org/abs/1705.10041)
 
+**Style Transfer for Sketches with Enhanced Residual U-net and Auxiliary Classifier GAN**
+
+[https://arxiv.org/abs/1706.03319](https://arxiv.org/abs/1706.03319)
+
 ## Neural Art On Audio
 
 **MSc AI Project on generative deep networks and neural style transfer for audio**

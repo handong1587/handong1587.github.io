@@ -94,6 +94,10 @@ date: 2015-10-09
 
 [https://svds.com/tensorflow-rnn-tutorial/](https://svds.com/tensorflow-rnn-tutorial/)
 
+**RNN Training Tips and Tricks**
+
+[https://github.com/karpathy/char-rnn#tips-and-tricks](https://github.com/karpathy/char-rnn#tips-and-tricks)
+
 ## How to build a Recurrent Neural Network in TensorFlow
 
 **How to build a Recurrent Neural Network in TensorFlow (1/7)**
