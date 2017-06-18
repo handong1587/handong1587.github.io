@@ -895,6 +895,11 @@ date: 2015-10-09
 
 - arxiv: [https://arxiv.org/abs/1610.03623](https://arxiv.org/abs/1610.03623)
 
+**FreezeOut: Accelerate Training by Progressively Freezing Layers**
+
+- arxiv: [https://arxiv.org/abs/1706.04983](https://arxiv.org/abs/1706.04983)
+- github: [https://github.com/ajbrock/FreezeOut]()
+
 # Tools
 
 **pastalog: Simple, realtime visualization of neural network training performance**

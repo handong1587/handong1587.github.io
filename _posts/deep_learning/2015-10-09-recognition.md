@@ -425,6 +425,14 @@ facial action unit recognition, and eye-gaze estimation.
 
 [https://arxiv.org/abs/1705.02743](https://arxiv.org/abs/1705.02743)
 
+**Computer vision-based food calorie estimation: dataset, method, and experiment**
+
+[https://arxiv.org/abs/1705.07632](https://arxiv.org/abs/1705.07632)
+
+**Deep Learning-Based Food Calorie Estimation Method in Dietary Assessment**
+
+[https://arxiv.org/abs/1706.04062](https://arxiv.org/abs/1706.04062)
+
 ### Instrument Recognition
 
 **Automatic Instrument Recognition in Polyphonic Music Using Convolutional Neural Networks**
@@ -466,6 +474,13 @@ facial action unit recognition, and eye-gaze estimation.
 **Deep Learning for Logo Recognition**
 
 - arxiv: [https://arxiv.org/abs/1701.02620](https://arxiv.org/abs/1701.02620)
+
+### Plant Classification
+
+**Large-Scale Plant Classification with Deep Neural Networks**
+
+- intro: Published at Proocedings of ACM Computing Frontiers Conference 2017
+- arxiv: [https://arxiv.org/abs/1706.03736](https://arxiv.org/abs/1706.03736)
 
 # Scene Recognition / Scene Classification
 

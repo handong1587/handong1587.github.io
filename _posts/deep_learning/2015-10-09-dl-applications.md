@@ -565,6 +565,11 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 - intro: AVSS 2017
 - arxiv: [https://arxiv.org/abs/1705.10698](https://arxiv.org/abs/1705.10698)
 
+**Image Crowd Counting Using Convolutional Neural Network and Markov Random Field**
+
+- intro: CVPR 2017
+- arxiv: [https://arxiv.org/abs/1706.03725](https://arxiv.org/abs/1706.03725)
+
 # Activity Recognition
 
 **Implementing a CNN for Human Activity Recognition in Tensorflow**
@@ -682,9 +687,11 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 ![](http://www.cs.berkeley.edu/~pathak/context_encoder/resources/result_fig.jpg)
 
 - intro: CVPR 2016
+- intro: Unsupervised Feature Learning by Image Inpainting using GANs
 - project page: [http://www.cs.berkeley.edu/~pathak/context_encoder/](http://www.cs.berkeley.edu/~pathak/context_encoder/)
 - arxiv: [https://arxiv.org/abs/1604.07379](https://arxiv.org/abs/1604.07379)
-- github: [https://github.com/pathak22/context-encoder](https://github.com/pathak22/context-encoder)
+- github(official): [https://github.com/pathak22/context-encoder](https://github.com/pathak22/context-encoder)
+- github: [https://github.com/BoyuanJiang/context_encoder_pytorch](https://github.com/BoyuanJiang/context_encoder_pytorch)
 
 **Semantic Image Inpainting with Perceptual and Contextual Losses**
 
@@ -934,6 +941,10 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 **Block-Matching Convolutional Neural Network for Image Denoising**
 
 [https://arxiv.org/abs/1704.00524](https://arxiv.org/abs/1704.00524)
+
+**When Image Denoising Meets High-Level Vision Tasks: A Deep Learning Approach**
+
+[https://arxiv.org/abs/1706.04284](https://arxiv.org/abs/1706.04284)
 
 # Image Haze Removal
 

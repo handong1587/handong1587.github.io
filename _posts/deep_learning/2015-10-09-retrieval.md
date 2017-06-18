@@ -236,6 +236,11 @@ and from 73.8% to 83.1% for ResNet-50
 - intro: ICME 2017
 - arxiv: [https://arxiv.org/abs/1705.09142](https://arxiv.org/abs/1705.09142)
 
+**Visual Search at eBay**
+
+- intro: 23rd SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), 2017
+- arxiv: [https://arxiv.org/abs/1706.03154](https://arxiv.org/abs/1706.03154)
+
 # Hashing
 
 **Supervised Hashing for Image Retrieval via Image Representation Learning**
@@ -399,6 +404,10 @@ and from 73.8% to 83.1% for ResNet-50
 **Binary Subspace Coding for Query-by-Image Video Retrieval**
 
 - arxiv: [https://arxiv.org/abs/1612.01657](https://arxiv.org/abs/1612.01657)
+
+**Action Search: Learning to Search for Human Activities in Untrimmed Videos**
+
+[https://arxiv.org/abs/1706.04269](https://arxiv.org/abs/1706.04269)
 
 **Deep Supervised Hashing with Triplet Labels**
 

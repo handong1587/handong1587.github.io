@@ -138,6 +138,16 @@ date: 2015-10-09
 - github(official, MXNet): [https://github.com/msracver/Deep-Feature-Flow](https://github.com/msracver/Deep-Feature-Flow)
 - youtube: [https://www.youtube.com/watch?v=J0rMHE6ehGw](https://www.youtube.com/watch?v=J0rMHE6ehGw)
 
+**Large-Scale YouTube-8M Video Understanding with Deep Neural Networks**
+
+[https://arxiv.org/abs/1706.04488](https://arxiv.org/abs/1706.04488)
+
+**Deep Learning Methods for Efficient Large Scale Video Labeling**
+
+- intro: Solution to the Kaggle's competition Google Cloud & YouTube-8M Video Understanding Challenge
+- arxiv: [https://arxiv.org/abs/1706.04572](https://arxiv.org/abs/1706.04572)
+- github: [https://github.com/mpekalski/Y8M](https://github.com/mpekalski/Y8M)
+
 ## Action Detection / Activity Recognition
 
 **3d convolutional neural networks for human action recognition**

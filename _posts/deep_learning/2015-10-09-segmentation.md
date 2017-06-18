@@ -198,11 +198,11 @@ date: 2015-10-09
 
 ## DeconvNet
 
-**Learning Deconvolution Network for Semantic Segmentation (DeconvNet)**
+**Learning Deconvolution Network for Semantic Segmentation**
 
 ![](http://cvlab.postech.ac.kr/research/deconvnet/images/overall.png)
 
-- intro: ICLR 2016
+- intro: ICCV 2015. DeconvNet
 - intro: two-stage training: train the network with easy examples first and 
 fine-tune the trained network with more challenging examples later
 - project page: [http://cvlab.postech.ac.kr/research/deconvnet/](http://cvlab.postech.ac.kr/research/deconvnet/)
@@ -457,6 +457,7 @@ with built-in awareness of semantically meaningful boundaries. "
 
 **Understanding Convolution for Semantic Segmentation**
 
+- intro: UCSD & CMU & UIUC & TuSimple
 - arxiv: [https://arxiv.org/abs/1702.08502](https://arxiv.org/abs/1702.08502)
 - pretrained-models: [https://drive.google.com/drive/folders/0B72xLTlRb0SoREhISlhibFZTRmM](https://drive.google.com/drive/folders/0B72xLTlRb0SoREhISlhibFZTRmM)
 
@@ -547,8 +548,12 @@ with built-in awareness of semantically meaningful boundaries. "
 **Hypercolumns for object segmentation and fine-grained localization**
 
 - intro: CVPR 2015
+- arxiv: [https://arxiv.org/abs/1411.5752](https://arxiv.org/abs/1411.5752)
 - paper: [http://www.cs.berkeley.edu/~bharath2/pubs/pdfs/BharathCVPR2015.pdf](http://www.cs.berkeley.edu/~bharath2/pubs/pdfs/BharathCVPR2015.pdf)
-- github("SDS using hypercolumns"): [https://github.com/bharath272/sds](https://github.com/bharath272/sds)
+
+**SDS using hypercolumns**
+
+- github: [https://github.com/bharath272/sds](https://github.com/bharath272/sds)
 
 **Learning to decompose for object detection and instance segmentation**
 

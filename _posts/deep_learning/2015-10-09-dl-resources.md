@@ -316,6 +316,11 @@ not just the convolutions)
 - intro: University of Amsterdam & ESAT-PSI
 - arxiv: [https://arxiv.org/abs/1706.00598](https://arxiv.org/abs/1706.00598)
 
+**Learning Deep ResNet Blocks Sequentially using Boosting Theory**
+
+- intro: Microsoft Research & Princeton University
+- arxiv: [https://arxiv.org/abs/1706.04964](https://arxiv.org/abs/1706.04964)
+
 # Deep Learning And Bayesian
 
 **Scalable Bayesian Optimization Using Deep Neural Networks**
@@ -1299,6 +1304,12 @@ with fast exact probabilistic inference over many layers."
 
 - blog: [https://amundtveit.com/2016/12/02/deep-learning-with-gaussian-process/](https://amundtveit.com/2016/12/02/deep-learning-with-gaussian-process/)
 
+**Doubly Stochastic Variational Inference for Deep Gaussian Processes**
+
+- arxiv: [https://arxiv.org/abs/1705.08933](https://arxiv.org/abs/1705.08933)
+- github: [https://github.com/thangbui/deepGP_approxEP](https://github.com/thangbui/deepGP_approxEP)
+- github: [https://github.com/ICL-SML/Doubly-Stochastic-DGP](https://github.com/ICL-SML/Doubly-Stochastic-DGP)
+
 ## HMM
 
 **Unsupervised Neural Hidden Markov Models**
@@ -2248,6 +2259,7 @@ It is based on Facebook's TorchCraft, which is a bridge between Torch and StarCr
 - github(Tensorflow): [https://github.com/Zehaos/MobileNet](https://github.com/Zehaos/MobileNet)
 - github: [https://github.com/shicai/MobileNet-Caffe](https://github.com/shicai/MobileNet-Caffe)
 - github: [https://github.com/hollance/MobileNet-CoreML](https://github.com/hollance/MobileNet-CoreML)
+- github: [https://github.com/KeyKy/mobilenet-mxnet](https://github.com/KeyKy/mobilenet-mxnet)
 
 **MobileNets: Open-Source Models for Efficient On-Device Vision**
 

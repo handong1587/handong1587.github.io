@@ -129,6 +129,11 @@ Other awesome lists can be found in this [list](https://github.com/sindresorhus/
 
 [http://blog.kaggle.com/2017/01/23/a-kaggle-master-explains-gradient-boosting/](http://blog.kaggle.com/2017/01/23/a-kaggle-master-explains-gradient-boosting/)
 
+**Performance of various open source GBM implementations**
+
+- intro: h2o VS. xgboost VS. lightgbm
+- github: [https://github.com/szilard/GBM-perf](https://github.com/szilard/GBM-perf)
+
 ## XGBoost
 
 **XGBoost: A Scalable Tree Boosting System**

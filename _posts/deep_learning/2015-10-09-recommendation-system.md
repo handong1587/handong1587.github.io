@@ -105,6 +105,12 @@ date: 2015-10-09
 - intro: Point-of-Interest (POI)
 - paper: [http://www.public.asu.edu/~swang187/publications/VPOI.pdf](http://www.public.asu.edu/~swang187/publications/VPOI.pdf)
 
+**Recurrent Neural Networks with Top-k Gains for Session-based Recommendations**
+
+- intro: Gravity R&D & Telefonica Research
+- arxiv: [https://arxiv.org/abs/1706.03847](https://arxiv.org/abs/1706.03847)
+- github: [https://github.com/hidasib/GRU4Rec](https://github.com/hidasib/GRU4Rec)
+
 # Slides
 
 **Deep learning for music recommendation**

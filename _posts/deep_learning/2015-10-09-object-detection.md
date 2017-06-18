@@ -97,6 +97,7 @@ date: 2015-10-09
 
 **Object Detectors Emerge in Deep Scene CNNs**
 
+- intro: ICLR 2015
 - arxiv: [http://arxiv.org/abs/1412.6856](http://arxiv.org/abs/1412.6856)
 - paper: [https://www.robots.ox.ac.uk/~vgg/rg/papers/zhou_iclr15.pdf](https://www.robots.ox.ac.uk/~vgg/rg/papers/zhou_iclr15.pdf)
 - paper: [https://people.csail.mit.edu/khosla/papers/iclr2015_zhou.pdf](https://people.csail.mit.edu/khosla/papers/iclr2015_zhou.pdf)
@@ -815,6 +816,10 @@ This task involves predicting the salient regions of an image given by human eye
 - intro: CVPR 2017 oral. The Chinese University of Hong Kong
 - arxiv: [https://arxiv.org/abs/1704.03114](https://arxiv.org/abs/1704.03114)
 
+**Identifying Spatial Relations in Images using Convolutional Neural Networks**
+
+[https://arxiv.org/abs/1706.04215](https://arxiv.org/abs/1706.04215)
+
 # Specific Object Deteciton
 
 ## Face Deteciton
@@ -932,6 +937,10 @@ This task involves predicting the salient regions of an image given by human eye
 **Face R-CNN**
 
 [https://arxiv.org/abs/1706.01061](https://arxiv.org/abs/1706.01061)
+
+**Face Detection through Scale-Friendly Deep Convolutional Networks**
+
+[https://arxiv.org/abs/1706.02863](https://arxiv.org/abs/1706.02863)
 
 ## Facial Point / Landmark Detection
 
