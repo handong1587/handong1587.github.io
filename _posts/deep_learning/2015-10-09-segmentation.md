@@ -366,6 +366,12 @@ fine-tune the trained network with more challenging examples later
 - intro: semantic segmentation, edge detection
 - arxiv: [http://arxiv.org/abs/1609.06694](http://arxiv.org/abs/1609.06694)
 
+**Exploiting Depth from Single Monocular Images for Object Detection and Semantic Segmentation**
+
+- intro: IEEE T. Image Processing
+- intro: propose an RGB-D semantic segmentation method which applies a multi-task training scheme: semantic label prediction and depth value regression
+- arxiv: [https://arxiv.org/abs/1610.01706](https://arxiv.org/abs/1610.01706)
+
 **PixelNet: Representation of the pixels, by the pixels, and for the pixels**
 
 - intro: CMU & Adobe Research

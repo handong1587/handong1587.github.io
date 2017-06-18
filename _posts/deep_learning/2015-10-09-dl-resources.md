@@ -143,12 +143,6 @@ not just the convolutions)
 - slides: [http://research.microsoft.com/en-us/um/people/kahe/ilsvrc15/ilsvrc2015_deep_residual_learning_kaiminghe.pdf](http://research.microsoft.com/en-us/um/people/kahe/ilsvrc15/ilsvrc2015_deep_residual_learning_kaiminghe.pdf)
 - gitxiv: [http://gitxiv.com/posts/LgPRdTY3cwPBiMKbm/deep-residual-learning-for-image-recognition](http://gitxiv.com/posts/LgPRdTY3cwPBiMKbm/deep-residual-learning-for-image-recognition)
 - github: [https://github.com/KaimingHe/deep-residual-networks](https://github.com/KaimingHe/deep-residual-networks)
-- github: [https://github.com/alrojo/lasagne_residual_network](https://github.com/alrojo/lasagne_residual_network)
-- github(MXNet): [https://github.com/shuokay/resnet](https://github.com/shuokay/resnet)
-- github: [https://github.com/gcr/torch-residual-networks](https://github.com/gcr/torch-residual-networks)
-- github: [https://github.com/NervanaSystems/neon/blob/master/examples/cifar10_msra.py](https://github.com/NervanaSystems/neon/blob/master/examples/cifar10_msra.py)
-- github: [https://github.com/yasunorikudo/chainer-ResNet](https://github.com/yasunorikudo/chainer-ResNet)
-- github: [https://github.com/raghakot/keras-resnet](https://github.com/raghakot/keras-resnet)
 - github: [https://github.com/ry/tensorflow-resnet](https://github.com/ry/tensorflow-resnet)
 
 **Third-party re-implementations**
@@ -192,8 +186,6 @@ not just the convolutions)
 - intro: ECCV 2016. ResNet-v2
 - arxiv: [http://arxiv.org/abs/1603.05027](http://arxiv.org/abs/1603.05027)
 - github: [https://github.com/KaimingHe/resnet-1k-layers](https://github.com/KaimingHe/resnet-1k-layers)
-- github: [https://github.com/bazilas/matconvnet-ResNet](https://github.com/bazilas/matconvnet-ResNet)
-- github: [https://github.com/FlorianMuellerklein/Identity-Mapping-ResNet-Lasagne](https://github.com/FlorianMuellerklein/Identity-Mapping-ResNet-Lasagne)
 - github: [https://github.com/tornadomeet/ResNet](https://github.com/tornadomeet/ResNet)
 
 **Deep Residual Networks for Image Classification with Python + NumPy**
@@ -228,7 +220,6 @@ not just the convolutions)
 - arxiv: [https://arxiv.org/abs/1611.05431](https://arxiv.org/abs/1611.05431)
 - github(Torch): [https://github.com/facebookresearch/ResNeXt](https://github.com/facebookresearch/ResNeXt)
 - github: [https://github.com/dmlc/mxnet/blob/master/example/image-classification/symbol/resnext.py](https://github.com/dmlc/mxnet/blob/master/example/image-classification/symbol/resnext.py)
-- github(Caffe): [https://github.com/terrychenism/ResNeXt](https://github.com/terrychenism/ResNeXt)
 - dataset: [http://data.dmlc.ml/models/imagenet/resnext/](http://data.dmlc.ml/models/imagenet/resnext/)
 - reddit: [https://www.reddit.com/r/MachineLearning/comments/5haml9/p_implementation_of_aggregated_residual/](https://www.reddit.com/r/MachineLearning/comments/5haml9/p_implementation_of_aggregated_residual/)
 
@@ -250,7 +241,7 @@ not just the convolutions)
 - github: [https://github.com/szagoruyko/wide-residual-networks](https://github.com/szagoruyko/wide-residual-networks)
 - github: [https://github.com/asmith26/wide_resnets_keras](https://github.com/asmith26/wide_resnets_keras)
 - github: [https://github.com/ritchieng/wideresnet-tensorlayer](https://github.com/ritchieng/wideresnet-tensorlayer)
-- github(PyTorch): [https://github.com/xternalz/WideResNet-pytorch](https://github.com/xternalz/WideResNet-pytorch)
+- github: [https://github.com/xternalz/WideResNet-pytorch](https://github.com/xternalz/WideResNet-pytorch)
 - github(Torch): [https://github.com/meliketoy/wide-residual-network](https://github.com/meliketoy/wide-residual-network)
 
 **Residual Networks of Residual Networks: Multilevel Residual Networks**
@@ -1384,7 +1375,7 @@ with fast exact probabilistic inference over many layers."
 - arxiv: [https://arxiv.org/abs/1705.07366](https://arxiv.org/abs/1705.07366)
 - github: [https://github.com/tkchris93/ForwardThinking](https://github.com/tkchris93/ForwardThinking)
 
-# Others
+## Others
 
 **Deep Markov Random Field for Image Modeling**
 
@@ -1468,8 +1459,6 @@ with fast exact probabilistic inference over many layers."
 # Deep Learning on Mobile Devices
 
 **Convolutional neural networks on the iPhone with VGGNet**
-
-![](http://matthijshollemans.com/2016/08/30/vggnet-convolutional-neural-network-iphone/Bookcase.png)
 
 - blog: [http://matthijshollemans.com/2016/08/30/vggnet-convolutional-neural-network-iphone/](http://matthijshollemans.com/2016/08/30/vggnet-convolutional-neural-network-iphone/)
 - github: [https://github.com/hollance/VGGNet-Metal](https://github.com/hollance/VGGNet-Metal)
@@ -1572,10 +1561,10 @@ with fast exact probabilistic inference over many layers."
 - homepage: [https://deepmind.com/blog/wavenet-generative-model-raw-audio/](https://deepmind.com/blog/wavenet-generative-model-raw-audio/)
 - paper: [https://drive.google.com/file/d/0B3cxcnOkPx9AeWpLVXhkTDJINDQ/view](https://drive.google.com/file/d/0B3cxcnOkPx9AeWpLVXhkTDJINDQ/view)
 - mirror: [https://pan.baidu.com/s/1gfmGWaJ](https://pan.baidu.com/s/1gfmGWaJ)
-- github(Keras): [https://github.com/usernaamee/keras-wavenet](https://github.com/usernaamee/keras-wavenet)
-- github(TensorFlow): [https://github.com/ibab/tensorflow-wavenet](https://github.com/ibab/tensorflow-wavenet)
-- github(Chainer): [https://github.com/monthly-hack/chainer-wavenet](https://github.com/monthly-hack/chainer-wavenet)
-- github(Theano): [https://github.com/huyouare/WaveNet-Theano](https://github.com/huyouare/WaveNet-Theano)
+- github: [https://github.com/usernaamee/keras-wavenet](https://github.com/usernaamee/keras-wavenet)
+- github: [https://github.com/ibab/tensorflow-wavenet](https://github.com/ibab/tensorflow-wavenet)
+- github: [https://github.com/monthly-hack/chainer-wavenet](https://github.com/monthly-hack/chainer-wavenet)
+- github: [https://github.com/huyouare/WaveNet-Theano](https://github.com/huyouare/WaveNet-Theano)
 - github(Keras): [https://github.com/basveeling/wavenet](https://github.com/basveeling/wavenet)
 - github: [https://github.com/ritheshkumar95/WaveNet](https://github.com/ritheshkumar95/WaveNet)
 
@@ -2381,15 +2370,6 @@ It is based on Facebook's TorchCraft, which is a bridge between Torch and StarCr
 
 ## Computer Vision
 
-**End-to-End Integration of a Convolutional Network, Deformable Parts Model and Non-Maximum Suppression**
-
-- arxiv: [http://arxiv.org/abs/1411.5309](http://arxiv.org/abs/1411.5309)
-- paper: [http://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Wan_End-to-End_Integration_of_2015_CVPR_paper.pdf](http://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Wan_End-to-End_Integration_of_2015_CVPR_paper.pdf)
-
-**A convnet for non-maximum suppression**
-
-- arxiv: [http://arxiv.org/abs/1511.06437](http://arxiv.org/abs/1511.06437)
-
 **A Taxonomy of Deep Convolutional Neural Nets for Computer Vision**
 
 - arxiv: [http://arxiv.org/abs/1601.06615](http://arxiv.org/abs/1601.06615)
@@ -2406,11 +2386,6 @@ It is based on Facebook's TorchCraft, which is a bridge between Torch and StarCr
 - paper: [http://faculty.ucmerced.edu/mhyang/papers/eccv16_rnn_filter.pdf](http://faculty.ucmerced.edu/mhyang/papers/eccv16_rnn_filter.pdf)
 - poster: [http://www.eccv2016.org/files/posters/O-3A-03.pdf](http://www.eccv2016.org/files/posters/O-3A-03.pdf)
 - github: [https://github.com/Liusifei/caffe-lowlevel](https://github.com/Liusifei/caffe-lowlevel)
-
-**Exploiting Depth from Single Monocular Images for Object Detection and Semantic Segmentation**
-
-- intro: IEEE T. Image Processing
-- arxiv: [https://arxiv.org/abs/1610.01706](https://arxiv.org/abs/1610.01706)
 
 **DSAC - Differentiable RANSAC for Camera Localization**
 
@@ -2450,8 +2425,6 @@ It is based on Facebook's TorchCraft, which is a bridge between Torch and StarCr
 - summary: [https://github.com/aleju/papers/blob/master/neural-nets/HyperFace.md](https://github.com/aleju/papers/blob/master/neural-nets/HyperFace.md)
 
 **UberNet: Training a `Universal' Convolutional Neural Network for Low-, Mid-, and High-Level Vision using Diverse Datasets and Limited Memory**
-
-![](http://cvn.ecp.fr/ubernet/res.png)
 
 - arxiv: [http://arxiv.org/abs/1609.02132](http://arxiv.org/abs/1609.02132)
 - demo: [http://cvn.ecp.fr/ubernet/](http://cvn.ecp.fr/ubernet/)

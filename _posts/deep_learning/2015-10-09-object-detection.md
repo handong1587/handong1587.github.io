@@ -552,7 +552,22 @@ Continuation of [arXiv:1608.08021](https://arxiv.org/abs/1608.08021)
 - intro: Embedded Vision Workshop in CVPR. UC San Diego & Qualcomm Inc
 - arxiv: [https://arxiv.org/abs/1705.05922](https://arxiv.org/abs/1705.05922)
 
+**Point Linking Network for Object Detection**
+
+- intro: Point Linking Network (PLN)
+- arxiv: [https://arxiv.org/abs/1706.03646](https://arxiv.org/abs/1706.03646)
+
 ## NMS
+
+**End-to-End Integration of a Convolutional Network, Deformable Parts Model and Non-Maximum Suppression**
+
+- intro: CVPR 2015
+- arxiv: [http://arxiv.org/abs/1411.5309](http://arxiv.org/abs/1411.5309)
+- paper: [http://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Wan_End-to-End_Integration_of_2015_CVPR_paper.pdf](http://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Wan_End-to-End_Integration_of_2015_CVPR_paper.pdf)
+
+**A convnet for non-maximum suppression**
+
+- arxiv: [http://arxiv.org/abs/1511.06437](http://arxiv.org/abs/1511.06437)
 
 **Improving Object Detection With One Line of Code**
 
