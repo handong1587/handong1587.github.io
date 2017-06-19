@@ -557,6 +557,10 @@ Continuation of [arXiv:1608.08021](https://arxiv.org/abs/1608.08021)
 - intro: Point Linking Network (PLN)
 - arxiv: [https://arxiv.org/abs/1706.03646](https://arxiv.org/abs/1706.03646)
 
+**Perceptual Generative Adversarial Networks for Small Object Detection**
+
+[https://arxiv.org/abs/1706.05274](https://arxiv.org/abs/1706.05274)
+
 ## NMS
 
 **End-to-End Integration of a Convolutional Network, Deformable Parts Model and Non-Maximum Suppression**
@@ -1450,3 +1454,8 @@ We additionally provide an implementation of the [ReInspect](https://github.com/
 
 - blog: [https://deepsense.io/region-of-interest-pooling-explained/](https://deepsense.io/region-of-interest-pooling-explained/)
 - github: [https://github.com/deepsense-io/roi-pooling](https://github.com/deepsense-io/roi-pooling)
+
+**Supercharge your Computer Vision models with the TensorFlow Object Detection API**
+
+- blog: [https://research.googleblog.com/2017/06/supercharge-your-computer-vision-models.html](https://research.googleblog.com/2017/06/supercharge-your-computer-vision-models.html)
+- github: [https://github.com/tensorflow/models/tree/master/object_detection](https://github.com/tensorflow/models/tree/master/object_detection)
