@@ -131,7 +131,9 @@ date: 2015-10-09
 **Fast Training of Triplet-based Deep Binary Embedding Networks**
 
 - intro: CVPR 2016
+- arxiv: [https://arxiv.org/abs/1603.02844](https://arxiv.org/abs/1603.02844)
 - paper: [http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Zhuang_Fast_Training_of_CVPR_2016_paper.pdf](http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Zhuang_Fast_Training_of_CVPR_2016_paper.pdf)
+- bitbucket(official): [https://bitbucket.org/jingruixiaozhuang/fast-training-of-triplet-based-deep-binary-embedding-networks](https://bitbucket.org/jingruixiaozhuang/fast-training-of-triplet-based-deep-binary-embedding-networks)
 
 **Deep Relative Distance Learning: Tell the Difference Between Similar Vehicles**
 
@@ -448,6 +450,10 @@ and from 73.8% to 83.1% for ResNet-50
 - intro: CVPR 2016
 - arxiv: [https://arxiv.org/abs/1604.07528](https://arxiv.org/abs/1604.07528)
 - github: [https://github.com/Cysu/dgd_person_reid](https://github.com/Cysu/dgd_person_reid)
+
+**Deep Recurrent Convolutional Networks for Video-based Person Re-identification: An End-to-End Approach**
+
+[https://arxiv.org/abs/1606.01609](https://arxiv.org/abs/1606.01609)
 
 **A Multi-task Deep Network for Person Re-identification**
 

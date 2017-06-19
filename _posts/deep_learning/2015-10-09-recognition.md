@@ -505,11 +505,6 @@ facial action unit recognition, and eye-gaze estimation.
 
 - arxiv: [http://arxiv.org/abs/1607.07614](http://arxiv.org/abs/1607.07614)
 
-**Places: An Image Database for Deep Scene Understanding**
-
-- project page: [http://places.csail.mit.edu/index.html](http://places.csail.mit.edu/index.html)
-- arxiv: [https://arxiv.org/abs/1610.02055](https://arxiv.org/abs/1610.02055)
-
 ## Leaderboard
 
 **Leaderboard of Places Database**
