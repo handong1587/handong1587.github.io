@@ -94,12 +94,6 @@ follow:
 #Links
 customLinks:
   - item:
-    - text: EnSharing
-      url: http://ensharing.com/
-    - text: JOSHUA's BLOG
-      url: http://joshua881228.webfactional.com/
-    message: Friends
-  - item:
     - text: Caffe on github
       url: https://github.com/BVLC/caffe
     - text: Deep Learning Tutorials
