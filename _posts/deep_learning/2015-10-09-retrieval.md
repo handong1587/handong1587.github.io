@@ -122,8 +122,6 @@ date: 2015-10-09
 
 **Learning Compact Binary Descriptors with Unsupervised Deep Neural Networks**
 
-![](/assets/image_retrieval/DeepBit.jpg)
-
 - intro: CVPR 2016. DeepBit
 - paper: [http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Lin_Learning_Compact_Binary_CVPR_2016_paper.pdf](http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Lin_Learning_Compact_Binary_CVPR_2016_paper.pdf)
 - github: [https://github.com/kevinlin311tw/cvpr16-deepbit](https://github.com/kevinlin311tw/cvpr16-deepbit)
