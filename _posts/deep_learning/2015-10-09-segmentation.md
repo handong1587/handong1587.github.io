@@ -172,6 +172,13 @@ date: 2015-10-09
 
 [http://liangchiehchen.com/projects/DeepLabv2_resnet.html](http://liangchiehchen.com/projects/DeepLabv2_resnet.html)
 
+## DeepLab v3
+
+**Rethinking Atrous Convolution for Semantic Image Segmentation**
+
+- intro: Google. DeepLabv3
+- arxiv: [https://arxiv.org/abs/1706.05587](https://arxiv.org/abs/1706.05587)
+
 ## CRF-RNN
 
 **Conditional Random Fields as Recurrent Neural Networks**

@@ -62,6 +62,65 @@ date: 2015-10-09
 - notes: [http://zhangliliang.com/2014/07/23/paper-note-rcnn/](http://zhangliliang.com/2014/07/23/paper-note-rcnn/)
 - caffe-pr("Make R-CNN the Caffe detection example"): [https://github.com/BVLC/caffe/pull/482](https://github.com/BVLC/caffe/pull/482) 
 
+## Fast R-CNN
+
+**Fast R-CNN**
+
+- arxiv: [http://arxiv.org/abs/1504.08083](http://arxiv.org/abs/1504.08083)
+- slides: [http://tutorial.caffe.berkeleyvision.org/caffe-cvpr15-detection.pdf](http://tutorial.caffe.berkeleyvision.org/caffe-cvpr15-detection.pdf)
+- github: [https://github.com/rbgirshick/fast-rcnn](https://github.com/rbgirshick/fast-rcnn)
+- github(COCO-branch): [https://github.com/rbgirshick/fast-rcnn/tree/coco](https://github.com/rbgirshick/fast-rcnn/tree/coco)
+- webcam demo: [https://github.com/rbgirshick/fast-rcnn/pull/29](https://github.com/rbgirshick/fast-rcnn/pull/29)
+- notes: [http://zhangliliang.com/2015/05/17/paper-note-fast-rcnn/](http://zhangliliang.com/2015/05/17/paper-note-fast-rcnn/)
+- notes: [http://blog.csdn.net/linj_m/article/details/48930179](http://blog.csdn.net/linj_m/article/details/48930179)
+- github("Fast R-CNN in MXNet"): [https://github.com/precedenceguo/mx-rcnn](https://github.com/precedenceguo/mx-rcnn)
+- github: [https://github.com/mahyarnajibi/fast-rcnn-torch](https://github.com/mahyarnajibi/fast-rcnn-torch)
+- github: [https://github.com/apple2373/chainer-simple-fast-rnn](https://github.com/apple2373/chainer-simple-fast-rnn)
+- github: [https://github.com/zplizzi/tensorflow-fast-rcnn](https://github.com/zplizzi/tensorflow-fast-rcnn)
+
+**A-Fast-RCNN: Hard Positive Generation via Adversary for Object Detection**
+
+- intro: CVPR 2017
+- arxiv: [https://arxiv.org/abs/1704.03414](https://arxiv.org/abs/1704.03414)
+- paper: [http://abhinavsh.info/papers/pdfs/adversarial_object_detection.pdf](http://abhinavsh.info/papers/pdfs/adversarial_object_detection.pdf)
+- github(Caffe): [https://github.com/xiaolonw/adversarial-frcnn](https://github.com/xiaolonw/adversarial-frcnn)
+
+## Faster R-CNN
+
+**Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks**
+
+- intro: NIPS 2015
+- arxiv: [http://arxiv.org/abs/1506.01497](http://arxiv.org/abs/1506.01497)
+- gitxiv: [http://www.gitxiv.com/posts/8pfpcvefDYn2gSgXk/faster-r-cnn-towards-real-time-object-detection-with-region](http://www.gitxiv.com/posts/8pfpcvefDYn2gSgXk/faster-r-cnn-towards-real-time-object-detection-with-region)
+- slides: [http://web.cs.hacettepe.edu.tr/~aykut/classes/spring2016/bil722/slides/w05-FasterR-CNN.pdf](http://web.cs.hacettepe.edu.tr/~aykut/classes/spring2016/bil722/slides/w05-FasterR-CNN.pdf)
+- github(official, Matlab): [https://github.com/ShaoqingRen/faster_rcnn](https://github.com/ShaoqingRen/faster_rcnn)
+- github: [https://github.com/rbgirshick/py-faster-rcnn](https://github.com/rbgirshick/py-faster-rcnn)
+- github: [https://github.com/mitmul/chainer-faster-rcnn](https://github.com/mitmul/chainer-faster-rcnn)
+- github: [https://github.com/andreaskoepf/faster-rcnn.torch](https://github.com/andreaskoepf/faster-rcnn.torch)
+- github: [https://github.com/ruotianluo/Faster-RCNN-Densecap-torch](https://github.com/ruotianluo/Faster-RCNN-Densecap-torch)
+- github: [https://github.com/smallcorgi/Faster-RCNN_TF](https://github.com/smallcorgi/Faster-RCNN_TF)
+- github: [https://github.com/CharlesShang/TFFRCNN](https://github.com/CharlesShang/TFFRCNN)
+- github(C++ demo): [https://github.com/YihangLou/FasterRCNN-Encapsulation-Cplusplus](https://github.com/YihangLou/FasterRCNN-Encapsulation-Cplusplus)
+- github: [https://github.com/yhenon/keras-frcnn](https://github.com/yhenon/keras-frcnn)
+
+**Faster R-CNN in MXNet with distributed implementation and data parallelization**
+
+- github: [https://github.com/dmlc/mxnet/tree/master/example/rcnn](https://github.com/dmlc/mxnet/tree/master/example/rcnn)
+
+**Contextual Priming and Feedback for Faster R-CNN**
+
+- intro: ECCV 2016. Carnegie Mellon University
+- paper: [http://abhinavsh.info/context_priming_feedback.pdf](http://abhinavsh.info/context_priming_feedback.pdf)
+- poster: [http://www.eccv2016.org/files/posters/P-1A-20.pdf](http://www.eccv2016.org/files/posters/P-1A-20.pdf)
+
+**An Implementation of Faster RCNN with Study for Region Sampling**
+
+- intro: Technical Report, 3 pages. CMU
+- arxiv: [https://arxiv.org/abs/1702.02138](https://arxiv.org/abs/1702.02138)
+- github: [https://github.com/endernewton/tf-faster-rcnn](https://github.com/endernewton/tf-faster-rcnn)
+
+- - -
+
 ## MultiBox
 
 **Scalable Object Detection using Deep Neural Networks**
@@ -123,22 +182,6 @@ date: 2015-10-09
 - slides: [http://www.ytzhang.net/files/publications/2015-cvpr-det-slides.pdf](http://www.ytzhang.net/files/publications/2015-cvpr-det-slides.pdf)
 - github: [https://github.com/YutingZhang/fgs-obj](https://github.com/YutingZhang/fgs-obj)
 
-## Fast R-CNN
-
-**Fast R-CNN**
-
-- arxiv: [http://arxiv.org/abs/1504.08083](http://arxiv.org/abs/1504.08083)
-- slides: [http://tutorial.caffe.berkeleyvision.org/caffe-cvpr15-detection.pdf](http://tutorial.caffe.berkeleyvision.org/caffe-cvpr15-detection.pdf)
-- github: [https://github.com/rbgirshick/fast-rcnn](https://github.com/rbgirshick/fast-rcnn)
-- github(COCO-branch): [https://github.com/rbgirshick/fast-rcnn/tree/coco](https://github.com/rbgirshick/fast-rcnn/tree/coco)
-- webcam demo: [https://github.com/rbgirshick/fast-rcnn/pull/29](https://github.com/rbgirshick/fast-rcnn/pull/29)
-- notes: [http://zhangliliang.com/2015/05/17/paper-note-fast-rcnn/](http://zhangliliang.com/2015/05/17/paper-note-fast-rcnn/)
-- notes: [http://blog.csdn.net/linj_m/article/details/48930179](http://blog.csdn.net/linj_m/article/details/48930179)
-- github("Fast R-CNN in MXNet"): [https://github.com/precedenceguo/mx-rcnn](https://github.com/precedenceguo/mx-rcnn)
-- github: [https://github.com/mahyarnajibi/fast-rcnn-torch](https://github.com/mahyarnajibi/fast-rcnn-torch)
-- github: [https://github.com/apple2373/chainer-simple-fast-rnn](https://github.com/apple2373/chainer-simple-fast-rnn)
-- github(Tensorflow): [https://github.com/zplizzi/tensorflow-fast-rcnn](https://github.com/zplizzi/tensorflow-fast-rcnn)
-
 ## DeepBox
 
 **DeepBox: Learning Objectness with Convolutional Networks**
@@ -155,41 +198,6 @@ date: 2015-10-09
 - github: [https://github.com/gidariss/mrcnn-object-detection](https://github.com/gidariss/mrcnn-object-detection)
 - notes: [http://zhangliliang.com/2015/05/17/paper-note-ms-cnn/](http://zhangliliang.com/2015/05/17/paper-note-ms-cnn/)
 - notes: [http://blog.cvmarcher.com/posts/2015/05/17/multi-region-semantic-segmentation-aware-cnn/](http://blog.cvmarcher.com/posts/2015/05/17/multi-region-semantic-segmentation-aware-cnn/)
-- my notes: Who can tell me why there are a bunch of duplicated sentences in section 7.2 "Detection error analysis"? :-D
-
-## Faster R-CNN
-
-**Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks**
-
-- intro: NIPS 2015
-- arxiv: [http://arxiv.org/abs/1506.01497](http://arxiv.org/abs/1506.01497)
-- gitxiv: [http://www.gitxiv.com/posts/8pfpcvefDYn2gSgXk/faster-r-cnn-towards-real-time-object-detection-with-region](http://www.gitxiv.com/posts/8pfpcvefDYn2gSgXk/faster-r-cnn-towards-real-time-object-detection-with-region)
-- slides: [http://web.cs.hacettepe.edu.tr/~aykut/classes/spring2016/bil722/slides/w05-FasterR-CNN.pdf](http://web.cs.hacettepe.edu.tr/~aykut/classes/spring2016/bil722/slides/w05-FasterR-CNN.pdf)
-- github(official, Matlab): [https://github.com/ShaoqingRen/faster_rcnn](https://github.com/ShaoqingRen/faster_rcnn)
-- github: [https://github.com/rbgirshick/py-faster-rcnn](https://github.com/rbgirshick/py-faster-rcnn)
-- github: [https://github.com/mitmul/chainer-faster-rcnn](https://github.com/mitmul/chainer-faster-rcnn)
-- github: [https://github.com/andreaskoepf/faster-rcnn.torch](https://github.com/andreaskoepf/faster-rcnn.torch)
-- github: [https://github.com/ruotianluo/Faster-RCNN-Densecap-torch](https://github.com/ruotianluo/Faster-RCNN-Densecap-torch)
-- github: [https://github.com/smallcorgi/Faster-RCNN_TF](https://github.com/smallcorgi/Faster-RCNN_TF)
-- github: [https://github.com/CharlesShang/TFFRCNN](https://github.com/CharlesShang/TFFRCNN)
-- github(C++ demo): [https://github.com/YihangLou/FasterRCNN-Encapsulation-Cplusplus](https://github.com/YihangLou/FasterRCNN-Encapsulation-Cplusplus)
-- github: [https://github.com/yhenon/keras-frcnn](https://github.com/yhenon/keras-frcnn)
-
-**Faster R-CNN in MXNet with distributed implementation and data parallelization**
-
-- github: [https://github.com/dmlc/mxnet/tree/master/example/rcnn](https://github.com/dmlc/mxnet/tree/master/example/rcnn)
-
-**Contextual Priming and Feedback for Faster R-CNN**
-
-- intro: ECCV 2016. Carnegie Mellon University
-- paper: [http://abhinavsh.info/context_priming_feedback.pdf](http://abhinavsh.info/context_priming_feedback.pdf)
-- poster: [http://www.eccv2016.org/files/posters/P-1A-20.pdf](http://www.eccv2016.org/files/posters/P-1A-20.pdf)
-
-**An Implementation of Faster RCNN with Study for Region Sampling**
-
-- intro: Technical Report, 3 pages. CMU
-- arxiv: [https://arxiv.org/abs/1702.02138](https://arxiv.org/abs/1702.02138)
-- github: [https://github.com/endernewton/tf-faster-rcnn](https://github.com/endernewton/tf-faster-rcnn)
 
 ## YOLO
 
@@ -223,6 +231,25 @@ date: 2015-10-09
 - intro: train with customized data and class numbers/labels. Linux / Windows version for darknet.
 - blog: [http://guanghan.info/blog/en/my-works/train-yolo/](http://guanghan.info/blog/en/my-works/train-yolo/)
 - github: [https://github.com/Guanghan/darknet](https://github.com/Guanghan/darknet)
+
+## YOLOv2
+
+**YOLO9000: Better, Faster, Stronger**
+
+- arxiv: [https://arxiv.org/abs/1612.08242](https://arxiv.org/abs/1612.08242)
+- code: [http://pjreddie.com/yolo9000/](http://pjreddie.com/yolo9000/)
+- github(Chainer): [https://github.com/leetenki/YOLOv2](https://github.com/leetenki/YOLOv2)
+- github(Keras): [https://github.com/allanzelener/YAD2K](https://github.com/allanzelener/YAD2K)
+- github(PyTorch): [https://github.com/longcw/yolo2-pytorch](https://github.com/longcw/yolo2-pytorch)
+- github(Tensorflow): [https://github.com/hizhangp/yolo_tensorflow](https://github.com/hizhangp/yolo_tensorflow)
+- github(Windows): [https://github.com/AlexeyAB/darknet](https://github.com/AlexeyAB/darknet)
+- github: [https://github.com/choasUp/caffe-yolo9000](https://github.com/choasUp/caffe-yolo9000)
+
+**Yolo_mark: GUI for marking bounded boxes of objects in images for training Yolo v2**
+
+- github: [https://github.com/AlexeyAB/Yolo_mark](https://github.com/AlexeyAB/Yolo_mark)
+
+- - -
 
 **R-CNN minus R**
 
@@ -272,6 +299,13 @@ date: 2015-10-09
 
 - intro: rainbow SSD (R-SSD)
 - arxiv: [https://arxiv.org/abs/1705.09587](https://arxiv.org/abs/1705.09587)
+
+## DSSD
+
+**DSSD : Deconvolutional Single Shot Detector**
+
+- intro: UNC Chapel Hill & Amazon Inc
+- arxiv: [https://arxiv.org/abs/1701.06659](https://arxiv.org/abs/1701.06659)
 
 - - -
 
@@ -473,30 +507,6 @@ Continuation of [arXiv:1608.08021](https://arxiv.org/abs/1608.08021)
 - intro: CMU & UC Berkeley & Google Research
 - arxiv: [https://arxiv.org/abs/1612.06851](https://arxiv.org/abs/1612.06851)
 
-## YOLOv2
-
-**YOLO9000: Better, Faster, Stronger**
-
-- arxiv: [https://arxiv.org/abs/1612.08242](https://arxiv.org/abs/1612.08242)
-- code: [http://pjreddie.com/yolo9000/](http://pjreddie.com/yolo9000/)
-- github(Chainer): [https://github.com/leetenki/YOLOv2](https://github.com/leetenki/YOLOv2)
-- github(Keras): [https://github.com/allanzelener/YAD2K](https://github.com/allanzelener/YAD2K)
-- github(PyTorch): [https://github.com/longcw/yolo2-pytorch](https://github.com/longcw/yolo2-pytorch)
-- github(Tensorflow): [https://github.com/hizhangp/yolo_tensorflow](https://github.com/hizhangp/yolo_tensorflow)
-- github(Windows): [https://github.com/AlexeyAB/darknet](https://github.com/AlexeyAB/darknet)
-- github: [https://github.com/choasUp/caffe-yolo9000](https://github.com/choasUp/caffe-yolo9000)
-
-**Yolo_mark: GUI for marking bounded boxes of objects in images for training Yolo v2**
-
-- github: [https://github.com/AlexeyAB/Yolo_mark](https://github.com/AlexeyAB/Yolo_mark)
-
-## DSSD
-
-**DSSD : Deconvolutional Single Shot Detector**
-
-- intro: UNC Chapel Hill & Amazon Inc
-- arxiv: [https://arxiv.org/abs/1701.06659](https://arxiv.org/abs/1701.06659)
-
 **Wide-Residual-Inception Networks for Real-time Object Detection**
 
 - intro: Inha University
@@ -517,12 +527,6 @@ Continuation of [arXiv:1608.08021](https://arxiv.org/abs/1608.08021)
 **DeNet: Scalable Real-time Object Detection with Directed Sparse Sampling**
 
 [https://arxiv.org/abs/1703.10295](https://arxiv.org/abs/1703.10295)
-
-**A-Fast-RCNN: Hard Positive Generation via Adversary for Object Detection**
-
-- intro: CVPR 2017
-- paper: [http://abhinavsh.info/papers/pdfs/adversarial_object_detection.pdf](http://abhinavsh.info/papers/pdfs/adversarial_object_detection.pdf)
-- github(Caffe): [https://github.com/xiaolonw/adversarial-frcnn](https://github.com/xiaolonw/adversarial-frcnn)
 
 **Discriminative Bimodal Networks for Visual Localization and Detection with Natural Language Queries**
 
@@ -1257,6 +1261,11 @@ This task involves predicting the salient regions of an image given by human eye
 
 - arxiv: [https://arxiv.org/abs/1702.05147](https://arxiv.org/abs/1702.05147)
 - results: [https://github.com/SihamTabik/Pistol-Detection-in-Videos](https://github.com/SihamTabik/Pistol-Detection-in-Videos)
+
+**Using Deep Networks for Drone Detection**
+
+- intro: AVSS 2017
+- arxiv: [https://arxiv.org/abs/1706.05726](https://arxiv.org/abs/1706.05726)
 
 # Object Proposal
 

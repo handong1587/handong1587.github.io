@@ -121,6 +121,11 @@ We aim to inspire a new generation of research into challenging new problems pre
 
 # Resources
 
+**Measuring the Progress of AI Research**
+
+- project page: [https://www.eff.org/ai/metrics](https://www.eff.org/ai/metrics)
+- github: [https://github.com/AI-metrics/AI-metrics](https://github.com/AI-metrics/AI-metrics)
+
 **Artificial Intelligence resources**
 
 - blog: [http://blog.digitalmind.io/post/artificial-intelligence-resources](http://blog.digitalmind.io/post/artificial-intelligence-resources)

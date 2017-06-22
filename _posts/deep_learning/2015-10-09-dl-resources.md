@@ -570,6 +570,21 @@ not just the convolutions)
 - intro: University of Cambridge
 - arxiv: [https://arxiv.org/abs/1705.07115](https://arxiv.org/abs/1705.07115)
 
+**One Model To Learn Them All**
+
+- intro: Google Brain & University of Toronto
+- arxiv: [https://arxiv.org/abs/1706.05137](https://arxiv.org/abs/1706.05137)
+- github: [https://github.com/tensorflow/tensor2tensor](https://github.com/tensorflow/tensor2tensor)
+
+**MultiModel: Multi-Task Machine Learning Across Domains**
+
+[https://research.googleblog.com/2017/06/multimodel-multi-task-machine-learning.html](https://research.googleblog.com/2017/06/multimodel-multi-task-machine-learning.html)
+
+**An Overview of Multi-Task Learning in Deep Neural Networks**
+
+- intro: Aylien Ltd
+- arxiv: [https://arxiv.org/abs/1706.05098](https://arxiv.org/abs/1706.05098)
+
 # Multi-modal Learning
 
 **Multimodal Deep Learning**
@@ -745,6 +760,11 @@ not just the convolutions)
 
 - intro: Facebook AI Research
 - arxiv: [https://arxiv.org/abs/1704.08847](https://arxiv.org/abs/1704.08847)
+
+**Towards Deep Learning Models Resistant to Adversarial Attacks**
+
+- intro: MIT
+- arxiv: [https://arxiv.org/abs/1706.06083](https://arxiv.org/abs/1706.06083)
 
 # Deep Learning Networks
 
