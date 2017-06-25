@@ -602,6 +602,11 @@ Compressed model is less than 500KB
 - intro: Google Research
 - arxiv: [https://arxiv.org/abs/1705.07208](https://arxiv.org/abs/1705.07208)
 
+**cGAN-based Manga Colorization Using a Single Training Image**
+
+- intro: University of Tokyo
+- arxiv: [https://arxiv.org/abs/1706.06918](https://arxiv.org/abs/1706.06918)
+
 # Sounds
 
 **Visually Indicated Sounds**

@@ -1332,6 +1332,11 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 - intro: Harbin Institute of Technology & Huawei
 - arxiv: [https://arxiv.org/abs/1703.04247](https://arxiv.org/abs/1703.04247)
 
+**Deep Interest Network for Click-Through Rate Prediction**
+
+- intro: Alibaba
+- arxiv: [https://arxiv.org/abs/1706.06978](https://arxiv.org/abs/1706.06978)
+
 # Cryptography
 
 **Learning to Protect Communications with Adversarial Neural Cryptography**

@@ -597,6 +597,11 @@ date: 2015-10-09
 - arxiv: [https://arxiv.org/abs/1705.07832](https://arxiv.org/abs/1705.07832)
 - github: [https://github.com/yaringal/ConcreteDropout](https://github.com/yaringal/ConcreteDropout)
 
+**Analysis of dropout learning regarded as ensemble learning**
+
+- intro: Nihon University
+- arxiv: [https://arxiv.org/abs/1706.06859](https://arxiv.org/abs/1706.06859)
+
 ## DropConnect
 
 **Regularization of Neural Networks using DropConnect**

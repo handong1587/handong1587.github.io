@@ -148,6 +148,12 @@ date: 2015-10-09
 - arxiv: [https://arxiv.org/abs/1706.04572](https://arxiv.org/abs/1706.04572)
 - github: [https://github.com/mpekalski/Y8M](https://github.com/mpekalski/Y8M)
 
+**Learnable pooling with Context Gating for video classification**
+
+- intro: CVPR17 Youtube 8M workshop. Kaggle 1st place
+- arxiv: [https://arxiv.org/abs/1706.06905](https://arxiv.org/abs/1706.06905)
+- github: [https://github.com/antoine77340/LOUPE](https://github.com/antoine77340/LOUPE)
+
 ## Action Detection / Activity Recognition
 
 **3d convolutional neural networks for human action recognition**

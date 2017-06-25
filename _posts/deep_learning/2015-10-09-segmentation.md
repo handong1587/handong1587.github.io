@@ -27,8 +27,7 @@ date: 2015-10-09
 
 **U-Net: Convolutional Networks for Biomedical Image Segmentation**
 
-![](https://raw.githubusercontent.com/orobix/retina-unet/master/test/test_Original_GroundTruth_Prediction_3.png)
-
+- intro: conditionally accepted at MICCAI 2015
 - project page: [http://lmb.informatik.uni-freiburg.de/people/ronneber/u-net/](http://lmb.informatik.uni-freiburg.de/people/ronneber/u-net/)
 - arxiv: [http://arxiv.org/abs/1505.04597](http://arxiv.org/abs/1505.04597)
 - code+data: [http://lmb.informatik.uni-freiburg.de/people/ronneber/u-net/u-net-release-2015-10-02.tar.gz](http://lmb.informatik.uni-freiburg.de/people/ronneber/u-net/u-net-release-2015-10-02.tar.gz)
@@ -160,6 +159,7 @@ date: 2015-10-09
 
 ![](http://liangchiehchen.com/fig/deeplab_intro.jpg)
 
+- intro: TPAMI
 - intro: 79.7% mIOU in the test set, PASCAL VOC-2012 semantic image segmentation task
 - intro: Updated version of our previous ICLR 2015 paper
 - project page: [http://liangchiehchen.com/projects/DeepLab.html](http://liangchiehchen.com/projects/DeepLab.html)
@@ -412,6 +412,11 @@ fine-tune the trained network with more challenging examples later
 
 - arxiv: [https://arxiv.org/abs/1611.01962](https://arxiv.org/abs/1611.01962)
 
+**Gated Feedback Refinement Network for Dense Image Labeling**
+
+- intro: CVPR 2017
+- paper: [http://www.cs.umanitoba.ca/~ywang/papers/cvpr17.pdf](http://www.cs.umanitoba.ca/~ywang/papers/cvpr17.pdf)
+
 ## RefineNet
 
 **RefineNet: Multi-Path Refinement Networks with Identity Mappings for High-Resolution Semantic Segmentation**
@@ -426,6 +431,7 @@ fine-tune the trained network with more challenging examples later
 **Full-Resolution Residual Networks for Semantic Segmentation in Street Scenes**
 
 - arxiv: [https://arxiv.org/abs/1611.08323](https://arxiv.org/abs/1611.08323)
+- github: [https://github.com/TobyPDE/FRRN](https://github.com/TobyPDE/FRRN)
 
 **Semantic Segmentation using Adversarial Networks**
 
@@ -492,6 +498,10 @@ with built-in awareness of semantically meaningful boundaries. "
 
 - intro: CVPR 2017 spotlight paper
 - arxxiv: [https://arxiv.org/abs/1704.01344](https://arxiv.org/abs/1704.01344)
+
+**Large Kernel Matters -- Improve Semantic Segmentation by Global Convolutional Network**
+
+[https://arxiv.org/abs/1703.02719](https://arxiv.org/abs/1703.02719)
 
 **Loss Max-Pooling for Semantic Image Segmentation**
 

@@ -232,6 +232,17 @@ date: 2015-10-09
 - blog: [http://guanghan.info/blog/en/my-works/train-yolo/](http://guanghan.info/blog/en/my-works/train-yolo/)
 - github: [https://github.com/Guanghan/darknet](https://github.com/Guanghan/darknet)
 
+**YOLO: Core ML versus MPSNNGraph**
+
+- intro: Tiny YOLO for iOS implemented using CoreML but also using the new MPS graph API.
+- blog: [http://machinethink.net/blog/yolo-coreml-versus-mps-graph/](http://machinethink.net/blog/yolo-coreml-versus-mps-graph/)
+- github: [https://github.com/hollance/YOLO-CoreML-MPSNNGraph](https://github.com/hollance/YOLO-CoreML-MPSNNGraph)
+
+**TensorFlow YOLO object detection on Android**
+
+- intro: Real-time object detection on Android using the YOLO network with TensorFlow
+- github: [https://github.com/natanielruiz/android-yolo](https://github.com/natanielruiz/android-yolo)
+
 ## YOLOv2
 
 **YOLO9000: Better, Faster, Stronger**

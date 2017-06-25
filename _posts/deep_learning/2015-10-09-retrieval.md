@@ -425,9 +425,16 @@ and from 73.8% to 83.1% for ResNet-50
 - intro: CVPR 2014
 - paper: [http://www.cv-foundation.org/openaccess/content_cvpr_2014/papers/Li_DeepReID_Deep_Filter_2014_CVPR_paper.pdf](http://www.cv-foundation.org/openaccess/content_cvpr_2014/papers/Li_DeepReID_Deep_Filter_2014_CVPR_paper.pdf)
 
-**Recurrent Convolutional Network for Video-based Person Re-Identification**
+**An Improved Deep Learning Architecture for Person Re-Identification**
 
-- arxiv: [Recurrent Convolutional Network for Video-based Person Re-Identification](Recurrent Convolutional Network for Video-based Person Re-Identification)
+- intro: CVPR 2015
+- paper: [http://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Ahmed_An_Improved_Deep_2015_CVPR_paper.pdf](http://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Ahmed_An_Improved_Deep_2015_CVPR_paper.pdf)
+- github: [https://github.com/Ning-Ding/Implementation-CVPR2015-CNN-for-ReID](https://github.com/Ning-Ding/Implementation-CVPR2015-CNN-for-ReID)
+
+**Deep Ranking for Person Re-identification via Joint Representation Learning**
+
+- intro: IEEE Transactions on Image Processing (TIP), 2016
+- arxiv: [https://arxiv.org/abs/1505.06821](https://arxiv.org/abs/1505.06821)
 
 **PersonNet: Person Re-identification with Deep Convolutional Neural Networks**
 
@@ -448,10 +455,6 @@ and from 73.8% to 83.1% for ResNet-50
 - intro: CVPR 2016
 - arxiv: [https://arxiv.org/abs/1604.07528](https://arxiv.org/abs/1604.07528)
 - github: [https://github.com/Cysu/dgd_person_reid](https://github.com/Cysu/dgd_person_reid)
-
-**Deep Recurrent Convolutional Networks for Video-based Person Re-identification: An End-to-End Approach**
-
-[https://arxiv.org/abs/1606.01609](https://arxiv.org/abs/1606.01609)
 
 **A Multi-task Deep Network for Person Re-identification**
 
@@ -509,6 +512,18 @@ and from 73.8% to 83.1% for ResNet-50
 - intro: CVPR 2017 Workshop (vision meets cognition)
 - keywords: Bidirectional Long Short- Term Memory (BLSTM)
 - arxiv: [https://arxiv.org/abs/1705.08923](https://arxiv.org/abs/1705.08923)
+
+## Video-based Person Re-Identification
+
+**Recurrent Convolutional Network for Video-based Person Re-Identification**
+
+- intro: CVPR 2016
+- paper: [http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/McLaughlin_Recurrent_Convolutional_Network_CVPR_2016_paper.pdf](http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/McLaughlin_Recurrent_Convolutional_Network_CVPR_2016_paper.pdf)
+- github: [https://github.com/niallmcl/Recurrent-Convolutional-Video-ReID](https://github.com/niallmcl/Recurrent-Convolutional-Video-ReID)
+
+**Deep Recurrent Convolutional Networks for Video-based Person Re-identification: An End-to-End Approach**
+
+[https://arxiv.org/abs/1606.01609](https://arxiv.org/abs/1606.01609)
 
 # Learning to Rank
 
