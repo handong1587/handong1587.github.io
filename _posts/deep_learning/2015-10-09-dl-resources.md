@@ -312,6 +312,13 @@ not just the convolutions)
 - intro: Microsoft Research & Princeton University
 - arxiv: [https://arxiv.org/abs/1706.04964](https://arxiv.org/abs/1706.04964)
 
+## ImageNet Projects
+
+**Training an Object Classifier in Torch-7 on multiple GPUs over ImageNet**
+
+- intro: an imagenet example in torch
+- github: [https://github.com/soumith/imagenet-multiGPU.torch](https://github.com/soumith/imagenet-multiGPU.torch)
+
 # Deep Learning And Bayesian
 
 **Scalable Bayesian Optimization Using Deep Neural Networks**
