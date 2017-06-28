@@ -1132,6 +1132,11 @@ This task involves predicting the salient regions of an image given by human eye
 - paper: [http://120.52.73.11/www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Zhu_Traffic-Sign_Detection_and_CVPR_2016_paper.pdf](http://120.52.73.11/www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Zhu_Traffic-Sign_Detection_and_CVPR_2016_paper.pdf)
 - code & model: [http://cg.cs.tsinghua.edu.cn/traffic-sign/data_model_code/newdata0411.zip](http://cg.cs.tsinghua.edu.cn/traffic-sign/data_model_code/newdata0411.zip)
 
+**Detecting Small Signs from Large Images**
+
+- intro: IEEE Conference on Information Reuse and Integration (IRI) 2017 an oral presentation
+- arxiv: [https://arxiv.org/abs/1706.08574](https://arxiv.org/abs/1706.08574)
+
 ## Boundary / Edge / Contour Detection
 
 **Holistically-Nested Edge Detection**
