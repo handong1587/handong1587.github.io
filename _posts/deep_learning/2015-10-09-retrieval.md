@@ -241,6 +241,11 @@ and from 73.8% to 83.1% for ResNet-50
 - intro: 23rd SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), 2017
 - arxiv: [https://arxiv.org/abs/1706.03154](https://arxiv.org/abs/1706.03154)
 
+**Multi-Label Learning with Label Enhancement**
+
+- keywords: distance weighted sampling
+- arxiv: [https://arxiv.org/abs/1706.07567](https://arxiv.org/abs/1706.07567)
+
 # Hashing
 
 **Supervised Hashing for Image Retrieval via Image Representation Learning**

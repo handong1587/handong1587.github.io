@@ -389,11 +389,6 @@ and 1.15s per image with it".
 - github(Official): [https://github.com/abhi2610/ohem](https://github.com/abhi2610/ohem)
 - author page: [http://abhinav-shrivastava.info/](http://abhinav-shrivastava.info/)
 
-**Track and Transfer: Watching Videos to Simulate Strong Human Supervision for Weakly-Supervised Object Detection**
-
-- intro: CVPR 2016
-- arxiv: [http://arxiv.org/abs/1604.05766](http://arxiv.org/abs/1604.05766)
-
 **Exploit All the Layers: Fast and Accurate CNN Object Detector with Scale Dependent Pooling and Cascaded Rejection Classifiers**
 
 - intro: scale-dependent pooling  (SDP), cascaded rejection clas-sifiers (CRC)
@@ -409,10 +404,6 @@ and 1.15s per image with it".
 - github: [https://github.com/PureDiors/pytorch_RFCN](https://github.com/PureDiors/pytorch_RFCN)
 - github: [https://github.com/bharatsingh430/py-R-FCN-multiGPU](https://github.com/bharatsingh430/py-R-FCN-multiGPU)
 - github: [https://github.com/xdever/RFCN-tensorflow](https://github.com/xdever/RFCN-tensorflow)
-
-**Weakly supervised object detection using pseudo-strong labels**
-
-- arxiv: [http://arxiv.org/abs/1607.04731](http://arxiv.org/abs/1607.04731)
 
 **Recycle deep features for better object detection**
 
@@ -576,6 +567,10 @@ Continuation of [arXiv:1608.08021](https://arxiv.org/abs/1608.08021)
 
 [https://arxiv.org/abs/1706.05274](https://arxiv.org/abs/1706.05274)
 
+**Few-shot Object Detection**
+
+[https://arxiv.org/abs/1706.08249](https://arxiv.org/abs/1706.08249)
+
 ## NMS
 
 **End-to-End Integration of a Convolutional Network, Deformable Parts Model and Non-Maximum Suppression**
@@ -598,6 +593,22 @@ Continuation of [arXiv:1608.08021](https://arxiv.org/abs/1608.08021)
 **Learning non-maximum suppression**
 
 [https://arxiv.org/abs/1705.02950](https://arxiv.org/abs/1705.02950)
+
+## Weakly Supervised Object Detection
+
+**Track and Transfer: Watching Videos to Simulate Strong Human Supervision for Weakly-Supervised Object Detection**
+
+- intro: CVPR 2016
+- arxiv: [http://arxiv.org/abs/1604.05766](http://arxiv.org/abs/1604.05766)
+
+**Weakly supervised object detection using pseudo-strong labels**
+
+- arxiv: [http://arxiv.org/abs/1607.04731](http://arxiv.org/abs/1607.04731)
+
+**Saliency Guided End-to-End Learning for Weakly Supervised Object Detection**
+
+- intro: IJCAI 2017
+- arxiv: [https://arxiv.org/abs/1706.06768](https://arxiv.org/abs/1706.06768)
 
 # Detection From Video
 
@@ -1112,6 +1123,14 @@ This task involves predicting the salient regions of an image given by human eye
 - project page: [http://ml.cs.tsinghua.edu.cn:5000/publications/synunity/](http://ml.cs.tsinghua.edu.cn:5000/publications/synunity/)
 - arxiv: [https://arxiv.org/abs/1703.06283](https://arxiv.org/abs/1703.06283)
 - github(Tensorflow): [https://github.com/huangshiyu13/RPNplus](https://github.com/huangshiyu13/RPNplus)
+
+**Illuminating Pedestrians via Simultaneous Detection & Segmentation**
+
+[https://arxiv.org/abs/1706.08564](https://arxiv.org/abs/1706.08564
+
+**Rotational Rectification Network for Robust Pedestrian Detection**
+
+[https://arxiv.org/abs/1706.08917](https://arxiv.org/abs/1706.08917)
 
 ## Vehicle Detection
 

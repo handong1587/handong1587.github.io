@@ -151,6 +151,11 @@ date: 2015-10-09
 
 [http://dataaspirant.com/2017/03/07/difference-between-softmax-function-and-sigmoid-function/](http://dataaspirant.com/2017/03/07/difference-between-softmax-function-and-sigmoid-function/)
 
+**Flexible Rectified Linear Units for Improving Convolutional Neural Networks**
+
+- keywords: rectified linear unit (FReLU)
+- arxiv: [https://arxiv.org/abs/1706.08098](https://arxiv.org/abs/1706.08098)
+
 ## Series on Initialization of Weights for DNN
 
 **Initialization Of Feedfoward Networks**

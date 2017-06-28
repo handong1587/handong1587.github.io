@@ -155,14 +155,6 @@ to decompose it into the multiplications of thinned dense matrices"
 - slides: [http://sharif.edu/~matin/pub/2016_mm_slides.pdf](http://sharif.edu/~matin/pub/2016_mm_slides.pdf)
 - github: [https://github.com/ENCP/CNNdroid](https://github.com/ENCP/CNNdroid)
 
-**Quantized Convolutional Neural Networks for Mobile Devices**
-
-- intro: Q-CNN
-- intro: "Extensive experiments on the ILSVRC-12 benchmark demonstrate 
-4 ∼ 6× speed-up and 15 ∼ 20× compression with merely one percentage loss of classification accuracy"
-- arxiv: [http://arxiv.org/abs/1512.06473](http://arxiv.org/abs/1512.06473)
-- github: [https://github.com/jiaxiang-wu/quantized-cnn](https://github.com/jiaxiang-wu/quantized-cnn)
-
 **EIE: Efficient Inference Engine on Compressed Deep Neural Network**
 
 - intro: ISCA 2016
@@ -407,15 +399,35 @@ at INT8 deep learning operations than other FPGA DSP architectures"
 - intro: The University of Iowa & Snap Research
 - arxiv: [https://arxiv.org/abs/1706.03912](https://arxiv.org/abs/1706.03912)
 
+**ShiftCNN: Generalized Low-Precision Architecture for Inference of Convolutional Neural Networks**
+
+- arxiv: [https://arxiv.org/abs/1706.02393](https://arxiv.org/abs/1706.02393)
+- github: [https://github.com/gudovskiy/ShiftCNN](https://github.com/gudovskiy/ShiftCNN)
+
+**MEC: Memory-efficient Convolution for Deep Neural Network**
+
+- intro: ICML 2017
+- arxiv: [https://arxiv.org/abs/1706.06873](https://arxiv.org/abs/1706.06873)
+
+## Quantized Neural Networks
+
+**Quantized Convolutional Neural Networks for Mobile Devices**
+
+- intro: Q-CNN
+- intro: "Extensive experiments on the ILSVRC-12 benchmark demonstrate 
+4 ∼ 6× speed-up and 15 ∼ 20× compression with merely one percentage loss of classification accuracy"
+- arxiv: [http://arxiv.org/abs/1512.06473](http://arxiv.org/abs/1512.06473)
+- github: [https://github.com/jiaxiang-wu/quantized-cnn](https://github.com/jiaxiang-wu/quantized-cnn)
+
 **Training Quantized Nets: A Deeper Understanding**
 
 - intro: University of Maryland & Cornell University
 - arxiv: [https://arxiv.org/abs/1706.02379](https://arxiv.org/abs/1706.02379)
 
-**ShiftCNN: Generalized Low-Precision Architecture for Inference of Convolutional Neural Networks**
+**Balanced Quantization: An Effective and Efficient Approach to Quantized Neural Networks**
 
-- arxiv: [https://arxiv.org/abs/1706.02393](https://arxiv.org/abs/1706.02393)
-- github: [https://github.com/gudovskiy/ShiftCNN](https://github.com/gudovskiy/ShiftCNN)
+- intro: the top-5 error rate of 4-bit quantized GoogLeNet model is 12.7%
+- arxiv: [https://arxiv.org/abs/1706.07145](https://arxiv.org/abs/1706.07145)
 
 ## Binary Convolutional Neural Networks
 

@@ -379,6 +379,10 @@ extract saptio-temporal features to represent the video using the CNNs."
 - arxiv: [https://arxiv.org/abs/1704.06228](https://arxiv.org/abs/1704.06228)
 - github: [https://github.com/yjxiong/action-detection](https://github.com/yjxiong/action-detection)
 
+**Recurrent Residual Learning for Action Recognition**
+
+[https://arxiv.org/abs/1706.08807](https://arxiv.org/abs/1706.08807)
+
 ### Projects
 
 **A Torch Library for Action Recognition and Detection Using CNNs and LSTMs**

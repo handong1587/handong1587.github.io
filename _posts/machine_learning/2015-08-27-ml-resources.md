@@ -313,6 +313,10 @@ based on decision tree algorithms, used for ranking, classification and many oth
 - github: [https://github.com/cheng-li/pyramid](https://github.com/cheng-li/pyramid)
 - wiki: [https://github.com/cheng-li/pyramid/wiki/CBM](https://github.com/cheng-li/pyramid/wiki/CBM)
 
+**Multi-Label Learning with Label Enhancement**
+
+[https://arxiv.org/abs/1706.08323](https://arxiv.org/abs/1706.08323)
+
 # Multi-Task Learning
 
 **Multitask Learning**
