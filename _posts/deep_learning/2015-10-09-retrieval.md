@@ -44,8 +44,7 @@ date: 2015-10-09
 
 **Visual Search at Pinterest**
 
-![](https://engineering.pinterest.com/sites/engineering/files/article/fields/field_image/Visual%20Search%20Tool%20-%20GIF.gif)
-
+- intro: in Proceedings of the 21th ACM SIGKDD International Conference on Knowledge and Discovery and Data Mining, 2015
 - arxiv: [http://arxiv.org/abs/1505.07647](http://arxiv.org/abs/1505.07647)
 - blog: [https://engineering.pinterest.com/blog/introducing-new-way-visually-search-pinterest](https://engineering.pinterest.com/blog/introducing-new-way-visually-search-pinterest)
 
@@ -123,8 +122,6 @@ date: 2015-10-09
 
 **Learning Compact Binary Descriptors with Unsupervised Deep Neural Networks**
 
-![](/assets/image_retrieval/DeepBit.jpg)
-
 - intro: CVPR 2016. DeepBit
 - paper: [http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Lin_Learning_Compact_Binary_CVPR_2016_paper.pdf](http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Lin_Learning_Compact_Binary_CVPR_2016_paper.pdf)
 - github: [https://github.com/kevinlin311tw/cvpr16-deepbit](https://github.com/kevinlin311tw/cvpr16-deepbit)
@@ -132,7 +129,9 @@ date: 2015-10-09
 **Fast Training of Triplet-based Deep Binary Embedding Networks**
 
 - intro: CVPR 2016
+- arxiv: [https://arxiv.org/abs/1603.02844](https://arxiv.org/abs/1603.02844)
 - paper: [http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Zhuang_Fast_Training_of_CVPR_2016_paper.pdf](http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Zhuang_Fast_Training_of_CVPR_2016_paper.pdf)
+- bitbucket(official): [https://bitbucket.org/jingruixiaozhuang/fast-training-of-triplet-based-deep-binary-embedding-networks](https://bitbucket.org/jingruixiaozhuang/fast-training-of-triplet-based-deep-binary-embedding-networks)
 
 **Deep Relative Distance Learning: Tell the Difference Between Similar Vehicles**
 
@@ -231,6 +230,21 @@ and from 73.8% to 83.1% for ResNet-50
 
 - arxiv: [https://arxiv.org/abs/1704.06761](https://arxiv.org/abs/1704.06761)
 - supplementary: [https://youtu.be/ZyINqDMo3Fg](https://youtu.be/ZyINqDMo3Fg)
+
+**Deep image representations using caption generators**
+
+- intro: ICME 2017
+- arxiv: [https://arxiv.org/abs/1705.09142](https://arxiv.org/abs/1705.09142)
+
+**Visual Search at eBay**
+
+- intro: 23rd SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), 2017
+- arxiv: [https://arxiv.org/abs/1706.03154](https://arxiv.org/abs/1706.03154)
+
+**Multi-Label Learning with Label Enhancement**
+
+- keywords: distance weighted sampling
+- arxiv: [https://arxiv.org/abs/1706.07567](https://arxiv.org/abs/1706.07567)
 
 # Hashing
 
@@ -357,6 +371,10 @@ and from 73.8% to 83.1% for ResNet-50
 
 - blog: [https://cs.nju.edu.cn/lwj/L2H.html](https://cs.nju.edu.cn/lwj/L2H.html)
 
+**Hashing as Tie-Aware Learning to Rank**
+
+[https://arxiv.org/abs/1705.08562](https://arxiv.org/abs/1705.08562)
+
 ## Projects
 
 **HABIR哈希图像检索工具箱**
@@ -392,6 +410,10 @@ and from 73.8% to 83.1% for ResNet-50
 
 - arxiv: [https://arxiv.org/abs/1612.01657](https://arxiv.org/abs/1612.01657)
 
+**Action Search: Learning to Search for Human Activities in Untrimmed Videos**
+
+[https://arxiv.org/abs/1706.04269](https://arxiv.org/abs/1706.04269)
+
 **Deep Supervised Hashing with Triplet Labels**
 
 - intro: ACCV 2016
@@ -408,13 +430,30 @@ and from 73.8% to 83.1% for ResNet-50
 - intro: CVPR 2014
 - paper: [http://www.cv-foundation.org/openaccess/content_cvpr_2014/papers/Li_DeepReID_Deep_Filter_2014_CVPR_paper.pdf](http://www.cv-foundation.org/openaccess/content_cvpr_2014/papers/Li_DeepReID_Deep_Filter_2014_CVPR_paper.pdf)
 
-**Recurrent Convolutional Network for Video-based Person Re-Identification**
+**An Improved Deep Learning Architecture for Person Re-Identification**
 
-- arxiv: [Recurrent Convolutional Network for Video-based Person Re-Identification](Recurrent Convolutional Network for Video-based Person Re-Identification)
+- intro: CVPR 2015
+- paper: [http://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Ahmed_An_Improved_Deep_2015_CVPR_paper.pdf](http://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Ahmed_An_Improved_Deep_2015_CVPR_paper.pdf)
+- github: [https://github.com/Ning-Ding/Implementation-CVPR2015-CNN-for-ReID](https://github.com/Ning-Ding/Implementation-CVPR2015-CNN-for-ReID)
+
+**Deep Ranking for Person Re-identification via Joint Representation Learning**
+
+- intro: IEEE Transactions on Image Processing (TIP), 2016
+- arxiv: [https://arxiv.org/abs/1505.06821](https://arxiv.org/abs/1505.06821)
 
 **PersonNet: Person Re-identification with Deep Convolutional Neural Networks**
 
 - arxiv: [http://arxiv.org/abs/1601.07255](http://arxiv.org/abs/1601.07255)
+
+**End-to-End Deep Learning for Person Search**
+
+**Joint Detection and Identification Feature Learning for Person Search**
+
+- intro: CVPR 2017
+- homepage(dataset, code):[http://www.ee.cuhk.edu.hk/~xgwang/PS/dataset.html](http://www.ee.cuhk.edu.hk/~xgwang/PS/dataset.html)
+- arxiv: [https://arxiv.org/abs/1604.01850](https://arxiv.org/abs/1604.01850)
+- paper: [http://www.ee.cuhk.edu.hk/~xgwang/PS/paper.pdf](http://www.ee.cuhk.edu.hk/~xgwang/PS/paper.pdf)
+- github(official, Caffe): [https://github.com/ShuangLI59/person_search](https://github.com/ShuangLI59/person_search)
 
 **Learning Deep Feature Representations with Domain Guided Dropout for Person Re-identification**
 
@@ -476,6 +515,24 @@ and from 73.8% to 83.1% for ResNet-50
 **IAN: The Individual Aggregation Network for Person Search**
 
 [https://arxiv.org/abs/1705.05552](https://arxiv.org/abs/1705.05552)
+
+**Attention-based Natural Language Person Retrieval**
+
+- intro: CVPR 2017 Workshop (vision meets cognition)
+- keywords: Bidirectional Long Short- Term Memory (BLSTM)
+- arxiv: [https://arxiv.org/abs/1705.08923](https://arxiv.org/abs/1705.08923)
+
+## Video-based Person Re-Identification
+
+**Recurrent Convolutional Network for Video-based Person Re-Identification**
+
+- intro: CVPR 2016
+- paper: [http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/McLaughlin_Recurrent_Convolutional_Network_CVPR_2016_paper.pdf](http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/McLaughlin_Recurrent_Convolutional_Network_CVPR_2016_paper.pdf)
+- github: [https://github.com/niallmcl/Recurrent-Convolutional-Video-ReID](https://github.com/niallmcl/Recurrent-Convolutional-Video-ReID)
+
+**Deep Recurrent Convolutional Networks for Video-based Person Re-identification: An End-to-End Approach**
+
+[https://arxiv.org/abs/1606.01609](https://arxiv.org/abs/1606.01609)
 
 # Learning to Rank
 

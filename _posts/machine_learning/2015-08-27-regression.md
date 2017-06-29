@@ -78,6 +78,10 @@ date: 2015-08-27
 
 [https://www.analyticsvidhya.com/blog/2016/12/45-questions-to-test-a-data-scientist-on-regression-skill-test-regression-solution/](https://www.analyticsvidhya.com/blog/2016/12/45-questions-to-test-a-data-scientist-on-regression-skill-test-regression-solution/)
 
+**A comprehensive beginners guide for Linear, Ridge and Lasso Regression**
+
+[https://www.analyticsvidhya.com/blog/2017/06/a-comprehensive-guide-for-linear-ridge-and-lasso-regression/](https://www.analyticsvidhya.com/blog/2017/06/a-comprehensive-guide-for-linear-ridge-and-lasso-regression/)
+
 ## Logistic regression
 
 **Guide to an in-depth understanding of logistic regression**

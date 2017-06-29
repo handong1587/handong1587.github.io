@@ -65,6 +65,7 @@ for building Deep Learning (DL) machine learning (ML) models
 
 **fb-caffe-exts: Some handy utility libraries and tools for the Caffe deep learning framework**
 
+- intro: fb-caffe-exts is a collection of extensions developed at FB while using Caffe in (mainly) production scenarios.
 - github: [https://github.com/facebook/fb-caffe-exts](https://github.com/facebook/fb-caffe-exts)
 
 **Caffe-Android-Lib: Porting caffe to android platform**
@@ -756,6 +757,13 @@ It is suitable for deep learning on limited computational resource, embedded sys
 - website: [https://velesnet.ml/](https://velesnet.ml/)
 - github: [https://github.com/Samsung/veles](https://github.com/Samsung/veles)
 - workflow: [https://velesnet.ml/forge/forge.html](https://velesnet.ml/forge/forge.html)
+
+# WebDNN
+
+**WebDNN: Fastest DNN Execution Framework on Web Browser**
+
+- homepage: [https://mil-tokyo.github.io/webdnn/](https://mil-tokyo.github.io/webdnn/)
+- github: [https://github.com/mil-tokyo/webdnn](https://github.com/mil-tokyo/webdnn)
 
 # Yann
 

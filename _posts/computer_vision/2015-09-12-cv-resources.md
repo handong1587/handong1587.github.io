@@ -54,15 +54,17 @@ date: 2015-09-12
 
 # Images Denoising
 
-**Fast Burst Images Denoising(SIGGRAPH Asia 2014. CUHK, Microsoft Research)**
+**Fast Burst Images Denoising**
 
 ![](http://personal.ie.cuhk.edu.hk/~lz013/projects/burstdenoising/intro.png)
 
+- intro: SIGGRAPH Asia 2014. CUHK, Microsoft Research
 - project: [http://personal.ie.cuhk.edu.hk/~lz013/projects/BurstDenoising.html](http://personal.ie.cuhk.edu.hk/~lz013/projects/BurstDenoising.html)
 - paper: [http://personal.ie.cuhk.edu.hk/~lz013/papers/burstdenoising.pdf](http://personal.ie.cuhk.edu.hk/~lz013/papers/burstdenoising.pdf)
 
-**Robust non-linear regression analysis: A greedy approach employing kernels and application to image denoising (KGARD)**
+**Robust non-linear regression analysis: A greedy approach employing kernels and application to image denoising**
 
+- intro: KGARD
 - arxiv: [http://arxiv.org/abs/1601.00595](http://arxiv.org/abs/1601.00595)
 - code(Matlab): [http://bouboulis.mysch.gr/kernels.html](http://bouboulis.mysch.gr/kernels.html)
 
@@ -106,8 +108,6 @@ date: 2015-09-12
 - paper: [http://cg.cs.tsinghua.edu.cn/montage/files/montage.pdf](http://cg.cs.tsinghua.edu.cn/montage/files/montage.pdf)
 
 **Combining Sketch and Tone for Pencil Drawing Production**
-
-![](/assets/computer-vision/pencil_drawing.jpg)
 
 - intro: NPAR 2012 Best Paper Award
 - homepage: [http://www.cse.cuhk.edu.hk/~leojia/projects/pencilsketch/pencil_drawing.htm](http://www.cse.cuhk.edu.hk/~leojia/projects/pencilsketch/pencil_drawing.htm)
@@ -267,8 +267,9 @@ Linear Blending, Poisson Blending, Multiband Blending, Feather Blending, Alpha B
 
 ## Poisson Blending
 
-**Poisson Image Editing (SIGGRAPH 2003)**
+**Poisson Image Editing**
 
+- intro: SIGGRAPH 2003
 - paper: [http://cs.brown.edu/courses/csci1290/asgn/proj2/resources/PoissonImageEditing.pdf](http://cs.brown.edu/courses/csci1290/asgn/proj2/resources/PoissonImageEditing.pdf)
 - paper: [https://www.cs.jhu.edu/~misha/Fall07/Papers/Perez03.pdf](https://www.cs.jhu.edu/~misha/Fall07/Papers/Perez03.pdf)
 - slides: [https://graphics.ethz.ch/teaching/former/seminar/handouts/Weyrich_PoissonImageEditing.pdf](https://graphics.ethz.ch/teaching/former/seminar/handouts/Weyrich_PoissonImageEditing.pdf)
@@ -379,31 +380,23 @@ Linear Blending, Poisson Blending, Multiband Blending, Feather Blending, Alpha B
 
 # Photo Collage
 
-**AutoCollage (SIGGRAPH 2006)**
+**AutoCollage**
 
-![](/assets/computer-vision/video_summary/collage1fullcomp.jpg)
-
-- intro: "Autocollage defines different energies to encourage the selection of a representative set of images, 
-select particular object classes, and encourage a spatially efficient and seamless layout. 
-The optimization is divided into a sequence of steps: from static ranking of images, through region of interest detection, 
-optimal packing by the branch-and-bound algorithm, and lastly graph-cut alpha expansion. 
-The core packing algorithm is limited; for example, user interaction cannot be integrated. 
-The packing algorithm cannot deal with images with multiple salient regions which are assigned different weights.
-Further, the blending still may bring artifacts on the boundaries of different images." 
+- intro: SIGGRAPH 2006
 - homepage: [http://research.microsoft.com/en-us/projects/i3l/autocollage.aspx](http://research.microsoft.com/en-us/projects/i3l/autocollage.aspx)
 - paper: [http://research.microsoft.com/pubs/67894/autocollage_rotheretal_siggraph2006.pdf](http://research.microsoft.com/pubs/67894/autocollage_rotheretal_siggraph2006.pdf)
 - slides: [http://research.microsoft.com/en-us/UM/cambridge/projects/VisionImageVideoEditing/autocollage/TalkSiggraph2006Compressed.zip](http://research.microsoft.com/en-us/UM/cambridge/projects/VisionImageVideoEditing/autocollage/TalkSiggraph2006Compressed.zip)
 - demo: [http://research.microsoft.com/en-us/um/cambridge/projects/autocollage/](http://research.microsoft.com/en-us/um/cambridge/projects/autocollage/)
 
-**Picture Collage (2006)**
+**Picture Collage**
 
+- intro: 2006
 - paper: [http://research.microsoft.com/en-us/um/people/jiansun/papers/PictureCollage_CVPR2006.pdf](http://research.microsoft.com/en-us/um/people/jiansun/papers/PictureCollage_CVPR2006.pdf)
 - paper: [http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.89.5727](http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.89.5727)
 
-**Picture Collage (2009)**
+**Picture Collage**
 
-- intro: "formulate the picture collage creation problem in a conditional random field model, which integrates
-image salience, canvas constraint, natural preference, and user interaction"
+- intro: 2009
 - paper: [http://mmlab.ie.cuhk.edu.hk/archive/2009/07_Picture.pdf](http://mmlab.ie.cuhk.edu.hk/archive/2009/07_Picture.pdf)
 
 **Efficient Optimization of Photo Collage**
@@ -412,13 +405,15 @@ image salience, canvas constraint, natural preference, and user interaction"
 
 # Video Collage
 
-**Video collage: A novel presentation of video sequence (ICME 2007)**
-
-[http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.130.3728&rep=rep1&type=pdf](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.130.3728&rep=rep1&type=pdf)
-
 **Stained-Glass Visualization for Highly Condensed Video Summaries (ICME 2004)**
 
-[https://www.fxpal.com/publications/stained-glass-visualization-for-highly-condensed-video-summaries.pdf](https://www.fxpal.com/publications/stained-glass-visualization-for-highly-condensed-video-summaries.pdf)
+- intro: ICME 2004
+- paper: [https://www.fxpal.com/publications/stained-glass-visualization-for-highly-condensed-video-summaries.pdf](https://www.fxpal.com/publications/stained-glass-visualization-for-highly-condensed-video-summaries.pdf)
+
+**Video collage: A novel presentation of video sequence**
+
+- intro: ICME 2007
+- paper: [http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.130.3728&rep=rep1&type=pdf](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.130.3728&rep=rep1&type=pdf)
 
 **Stained Glass Photo Collages**
 
@@ -445,56 +440,50 @@ image salience, canvas constraint, natural preference, and user interaction"
 
 [http://citeseerx.ist.psu.edu/viewdoc/download;jsessionid=576998825C3E40A32826A00B64089DF6?doi=10.1.1.230.5997&rep=rep1&type=pdf](http://citeseerx.ist.psu.edu/viewdoc/download;jsessionid=576998825C3E40A32826A00B64089DF6?doi=10.1.1.230.5997&rep=rep1&type=pdf)
 
-**Content-aware Photo Collage Using Circle Packing (NJU. TVCG 2014)**
+**Content-aware Photo Collage Using Circle Packing**
 
-![](/assets/computer-vision/video_summary/Photo_Collage_Flowchart.jpg)
-
+- intro: TVCG 2014. NJU
 - homepage: [http://cs.nju.edu.cn/ywguo/PhotoCollage/Index.html](http://cs.nju.edu.cn/ywguo/PhotoCollage/Index.html)
 - paper: [http://cs.nju.edu.cn/ywguo/webs/paperdownload/Content-aware%20Photo%20Collage%20Using%20Circle%20Packing.pdf](http://cs.nju.edu.cn/ywguo/webs/paperdownload/Content-aware%20Photo%20Collage%20Using%20Circle%20Packing.pdf)
 - demo: [http://cs.nju.edu.cn/ywguo/PhotoCollage/dload.html](http://cs.nju.edu.cn/ywguo/PhotoCollage/dload.html)
 
-**Automatic Generation of Social Media Snippets for Mobile Browsing (Microsoft Research. ACM Multimedia 2013)**
+**Automatic Generation of Social Media Snippets for Mobile Browsing**
 
-![](/assets/computer-vision/Automatic_Generation_of_Social_Media_Snippets_for_Mobile_Browsing.jpg)
-
+- intro: Microsoft Research. ACM Multimedia 2013
 - homepage: [http://research.microsoft.com/apps/pubs/default.aspx?id=204877](http://research.microsoft.com/apps/pubs/default.aspx?id=204877)
 - paper: [http://research.microsoft.com/pubs/204877/mm035-yin.pdf](http://research.microsoft.com/pubs/204877/mm035-yin.pdf)
 
 # Video Tapestry
 
-**Digital Tapestry (MSR. CVPR 2005)**
+**Digital Tapestry**
 
-- intro: "formulates the selection of salient regions and their placement together as a Markov random field (MRF) problem. 
-Each image is represented as a set of blocks, and the multiple-class labeling problem with non-metric
-constraints is optimized by “truncating” the non-regular energy.
-However, artifacts are also introduced along the boundaries of neighboring salient regions coming from two different images
-in digital tapestry, although some artifact removal methods can be used"
+- intro: MSR. CVPR 2005
 - homepage: [http://research.microsoft.com/apps/pubs/default.aspx?id=67404](http://research.microsoft.com/apps/pubs/default.aspx?id=67404)
 - paper: [http://pub.ist.ac.at/~vnk/papers/tapestry_cvpr05.pdf](http://pub.ist.ac.at/~vnk/papers/tapestry_cvpr05.pdf)
 
-**Video Tapestries with Continuous Temporal Zoom (Princeton. SIGGRAPH 2010)**
+**Video Tapestries with Continuous Temporal Zoom**
 
 ![](http://gfx.cs.princeton.edu/gfx/pubs/Barnes_2010_VTW/teaser.png)
 
+- intro: Princeton. SIGGRAPH 2010
 - homepage: [http://gfx.cs.princeton.edu/gfx/pubs/Barnes_2010_VTW/index.php](http://gfx.cs.princeton.edu/gfx/pubs/Barnes_2010_VTW/index.php)
 - paper: [http://www.connellybarnes.com/work/publications/2010_tapestry_electronic.pdf](http://www.connellybarnes.com/work/publications/2010_tapestry_electronic.pdf)
 
 # Video Creativity
 
-**6 Seconds of Sound and Vision: Creativity in Micro-Videos (CVPR 2014)**
+**6 Seconds of Sound and Vision: Creativity in Micro-Videos**
 
+- intro:  CVPR 2014
 - homepage: [http://www.di.unito.it/~schifane/dataset/vine-dataset-cvpr14/](http://www.di.unito.it/~schifane/dataset/vine-dataset-cvpr14/)
 - arxiv: [http://arxiv.org/abs/1411.4080](http://arxiv.org/abs/1411.4080)
 
 # Video Highlights
 
-**Ranking Domain-specific Highlights by Analyzing Edited Videos (ECCV 2014)**
+**Ranking Domain-specific Highlights by Analyzing Edited Videos**
 
 ![](http://aliensunmin.github.io/project/at-a-glance/highlight_teaser.png)
 
-- intro: use a dataset obtained by crawling Youtube data. find pairs of raw and edited videos, used in training,
-by matching all pairs of videos within a certain category(e.g. gymnastics).
-The size of their dataset is, however, limited by the availability of domain-specific videos in both raw and edited forms.
+- intro: ECCV 2014
 - homepage: [http://aliensunmin.github.io/project/at-a-glance/](http://aliensunmin.github.io/project/at-a-glance/)
 - paper: [http://grail.cs.washington.edu/wp-content/uploads/2015/08/sun2014rdh.pdf](http://grail.cs.washington.edu/wp-content/uploads/2015/08/sun2014rdh.pdf)
 - paper: [https://drive.google.com/file/d/0ByJgUdTb1N2CM3Y5VU1BRjlmR3c/edit](https://drive.google.com/file/d/0ByJgUdTb1N2CM3Y5VU1BRjlmR3c/edit)
@@ -512,10 +501,11 @@ The size of their dataset is, however, limited by the availability of domain-spe
 
 # Video Summarization
 
-**Creating Summaries from User Videos (ECCV 2014)**
+**Creating Summaries from User Videos**
 
 ![](http://www.vision.ee.ethz.ch/~hegrabne/visualInterestingness/vsum.png)
 
+- intro: ECCV 2014
 - project page: [https://people.ee.ethz.ch/~gyglim/vsum/index.php](https://people.ee.ethz.ch/~gyglim/vsum/index.php)
 - paper: [https://people.ee.ethz.ch/~gyglim/vsum/GygliECCV14_vsum.pdf](https://people.ee.ethz.ch/~gyglim/vsum/GygliECCV14_vsum.pdf)
 - paper: [http://www.vision.ee.ethz.ch/~hegrabne/papers/Gygli2014CreatingSummariesfrom.pdf](http://www.vision.ee.ethz.ch/~hegrabne/papers/Gygli2014CreatingSummariesfrom.pdf)
@@ -526,10 +516,11 @@ The size of their dataset is, however, limited by the availability of domain-spe
 - intro: CVPR 2014
 - paper: [http://www.cs.cmu.edu/~gunhee/publish/cvpr14_videostory.pdf](http://www.cs.cmu.edu/~gunhee/publish/cvpr14_videostory.pdf)
 
-**Video Summarization by Learning Submodular Mixtures of Objectives (CVPR 2015)**
+**Video Summarization by Learning Submodular Mixtures of Objectives**
 
 ![](http://www.vision.ee.ethz.ch/~hegrabne/visualInterestingness/vsum2.jpg)
 
+- intro: CVPR 2015
 - paper: [http://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Gygli_Video_Summarization_by_2015_CVPR_paper.pdf](http://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Gygli_Video_Summarization_by_2015_CVPR_paper.pdf)
 
 **TVSum: Summarizing Web Videos Using Titles**
@@ -680,8 +671,6 @@ Given a sample represented as a sequence of strokes, the parser is able to conve
 
 **A Computational Approach for Obstruction-Free Photography**
 
-![](/assets/computer-vision/A_Computational_Approach_for_Obstruction-Free_Photography.jpg)
-
 - paper: [https://people.csail.mit.edu/mrub/papers/ObstructionFreePhotograpy_SIGGRAPH2015.pdf](https://people.csail.mit.edu/mrub/papers/ObstructionFreePhotograpy_SIGGRAPH2015.pdf)
 
 **My Text in Your Handwriting**
@@ -755,7 +744,6 @@ Given a sample represented as a sequence of strokes, the parser is able to conve
 # Applications
 
 **Target acquired: Finding targets in drone and quadcopter video streams using Python and OpenCV**
-
 [http://www.pyimagesearch.com/2015/05/04/target-acquired-finding-targets-in-drone-and-quadcopter-video-streams-using-python-and-opencv/](http://www.pyimagesearch.com/2015/05/04/target-acquired-finding-targets-in-drone-and-quadcopter-video-streams-using-python-and-opencv/)
 
 **FaceDirector: Continuous Control of Facial Performance in Video**
@@ -775,6 +763,14 @@ Given a sample represented as a sequence of strokes, the parser is able to conve
 **Photo Stylistic Brush: Robust Style Transfer via Superpixel-Based Bipartite Graph**
 
 - arxiv: [http://arxiv.org/abs/1606.03871](http://arxiv.org/abs/1606.03871)
+
+**GMS: Grid-based Motion Statistics for Fast, Ultra-robust Feature Correspondence**
+
+![](https://i1.wp.com/jwbian.net/wp-content/uploads/2017/03/dog_ours.jpg?resize=768%2C512)
+
+- intro: CVPR 2017
+- project page: [http://jwbian.net/gms](http://jwbian.net/gms)
+- github: [https://github.com/JiawangBian/GMS-Feature-Matcher](https://github.com/JiawangBian/GMS-Feature-Matcher)
 
 # Projects
 

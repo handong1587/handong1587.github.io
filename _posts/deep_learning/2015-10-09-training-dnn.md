@@ -39,6 +39,10 @@ date: 2015-10-09
 - intro: Johns Hopkins University
 - arxiv: [https://arxiv.org/abs/1611.01491](https://arxiv.org/abs/1611.01491)
 
+**Learning ReLUs via Gradient Descent**
+
+[https://arxiv.org/abs/1705.04591](https://arxiv.org/abs/1705.04591)
+
 ## LReLU
 
 **Rectifier Nonlinearities Improve Neural Network Acoustic Models**
@@ -129,9 +133,28 @@ date: 2015-10-09
 
 [https://arxiv.org/abs/1702.07790](https://arxiv.org/abs/1702.07790)
 
+## SELU
+
+**Self-Normalizing Neural Networks**
+
+- intro: SELU
+- arxiv: [https://arxiv.org/abs/1706.02515](https://arxiv.org/abs/1706.02515)
+- github: [https://github.com/bioinf-jku/SNNs](https://github.com/bioinf-jku/SNNs)
+- notes: [https://github.com/kevinzakka/research-paper-notes/blob/master/snn.md](https://github.com/kevinzakka/research-paper-notes/blob/master/snn.md)
+- github(Chainer): [https://github.com/musyoku/self-normalizing-networks](https://github.com/musyoku/self-normalizing-networks)
+
+**SELUs (scaled exponential linear units) - Visualized and Histogramed Comparisons among ReLU and Leaky ReLU**
+
+[https://github.com/shaohua0116/Activation-Visualization-Histogram](https://github.com/shaohua0116/Activation-Visualization-Histogram)
+
 **Difference Between Softmax Function and Sigmoid Function**
 
 [http://dataaspirant.com/2017/03/07/difference-between-softmax-function-and-sigmoid-function/](http://dataaspirant.com/2017/03/07/difference-between-softmax-function-and-sigmoid-function/)
+
+**Flexible Rectified Linear Units for Improving Convolutional Neural Networks**
+
+- keywords: rectified linear unit (FReLU)
+- arxiv: [https://arxiv.org/abs/1706.08098](https://arxiv.org/abs/1706.08098)
 
 ## Series on Initialization of Weights for DNN
 
@@ -351,6 +374,19 @@ date: 2015-10-09
 - arxiv: [https://arxiv.org/abs/1605.06743](https://arxiv.org/abs/1605.06743)
 - github: [https://github.com/HUJI-Deep/inductive-pooling](https://github.com/HUJI-Deep/inductive-pooling)
 
+# Batch Size
+
+**On Large-Batch Training for Deep Learning: Generalization Gap and Sharp Minima**
+
+- intro: ICLR 2017
+- arxiv: [https://arxiv.org/abs/1609.04836](https://arxiv.org/abs/1609.04836)
+
+**Accurate, Large Minibatch SGD: Training ImageNet in 1 Hour**
+
+- intro: Facebook
+- keywords: Training with 256 GPUs, minibatches of 8192
+- arxiv: [https://arxiv.org/abs/1706.02677](https://arxiv.org/abs/1706.02677)
+
 # Optimization Methods
 
 **On Optimization Methods for Deep Learning**
@@ -559,6 +595,17 @@ date: 2015-10-09
 
 - intro: 2016 IEEE 16th International Conference on Data Mining
 - arxiv: [https://arxiv.org/abs/1705.03419](https://arxiv.org/abs/1705.03419)
+
+**Concrete Dropout**
+
+- intro: University of Cambridge
+- arxiv: [https://arxiv.org/abs/1705.07832](https://arxiv.org/abs/1705.07832)
+- github: [https://github.com/yaringal/ConcreteDropout](https://github.com/yaringal/ConcreteDropout)
+
+**Analysis of dropout learning regarded as ensemble learning**
+
+- intro: Nihon University
+- arxiv: [https://arxiv.org/abs/1706.06859](https://arxiv.org/abs/1706.06859)
 
 ## DropConnect
 
@@ -857,6 +904,11 @@ date: 2015-10-09
 **Fast Training of Convolutional Neural Networks via Kernel Rescaling**
 
 - arxiv: [https://arxiv.org/abs/1610.03623](https://arxiv.org/abs/1610.03623)
+
+**FreezeOut: Accelerate Training by Progressively Freezing Layers**
+
+- arxiv: [https://arxiv.org/abs/1706.04983](https://arxiv.org/abs/1706.04983)
+- github: [https://github.com/ajbrock/FreezeOut]()
 
 # Tools
 

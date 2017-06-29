@@ -239,6 +239,11 @@ explore how it functions, and build a back propagation neural network library in
 
 - github: [https://github.com/SullyChen/Chai](https://github.com/SullyChen/Chai)
 
+**Neural networks in JavaScript**
+
+- homepage: [http://brainjs.com/](http://brainjs.com/)
+- github: [https://github.com/harthur-org/brain.js](https://github.com/harthur-org/brain.js)
+
 # Videos
 
 **Neural Networks with PHP**

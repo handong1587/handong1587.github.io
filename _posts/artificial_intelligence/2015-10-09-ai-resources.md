@@ -35,6 +35,12 @@ date: 2015-10-01
 - github: [https://github.com/aimacode/aima-python](https://github.com/aimacode/aima-python)
 - github: [https://github.com/aimacode/aima-java](https://github.com/aimacode/aima-java)
 
+**Artificial Intelligence and Games**
+
+- intro: A Springer Textbook | By Georgios N. Yannakakis and Julian Togelius
+- homepage: [http://gameaibook.org/](http://gameaibook.org/)
+- draft: [http://gameaibook.org/book.pdf](http://gameaibook.org/book.pdf)
+
 # Papers
 
 **Building Machines That Learn and Think Like People**
@@ -114,6 +120,11 @@ We aim to inspire a new generation of research into challenging new problems pre
 - homepage: [https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/lecture-videos/](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/lecture-videos/)
 
 # Resources
+
+**Measuring the Progress of AI Research**
+
+- project page: [https://www.eff.org/ai/metrics](https://www.eff.org/ai/metrics)
+- github: [https://github.com/AI-metrics/AI-metrics](https://github.com/AI-metrics/AI-metrics)
 
 **Artificial Intelligence resources**
 

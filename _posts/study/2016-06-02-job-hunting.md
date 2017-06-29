@@ -155,3 +155,8 @@ date: 2016-06-02
 **Guide to Technical Interviews**
 
 - github: [https://github.com/Developer-Y/technical-interviews](https://github.com/Developer-Y/technical-interviews)
+
+**Interview questions**
+
+- github: [https://github.com/mission-peace/interview](https://github.com/mission-peace/interview)
+- wiki: [https://github.com/mission-peace/interview/wiki](https://github.com/mission-peace/interview/wiki)

@@ -279,6 +279,10 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 
 [https://arxiv.org/abs/1705.04515](https://arxiv.org/abs/1705.04515)
 
+**Facial Emotion Detection Using Convolutional Neural Networks and Representational Autoencoder Units**
+
+[https://arxiv.org/abs/1706.01509](https://arxiv.org/abs/1706.01509)
+
 # Attribution Prediction
 
 **PANDA: Pose Aligned Networks for Deep Attribute Modeling**
@@ -367,6 +371,15 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 - video: [http://v.qq.com/x/page/c039862eira.html](http://v.qq.com/x/page/c039862eira.html)
 - video: [http://v.qq.com/x/page/f0398zcvkl5.html](http://v.qq.com/x/page/f0398zcvkl5.html)
 - video: [http://v.qq.com/x/page/w0398ei9m1r.html](http://v.qq.com/x/page/w0398ei9m1r.html)
+
+**Human Pose Detection Mining Body Language from Videos**
+
+- blog: [https://medium.com/@samim/human-pose-detection-51268e95ddc2](https://medium.com/@samim/human-pose-detection-51268e95ddc2)
+
+**OpenPose: A Real-Time Multi-Person Keypoint Detection And Multi-Threading C++ Library**
+
+- intro: OpenPose is a library for real-time multi-person keypoint detection and multi-threading written in C++ using OpenCV and Caffe
+- github: [https://github.com/CMU-Perceptual-Computing-Lab/openpose](https://github.com/CMU-Perceptual-Computing-Lab/openpose)
 
 # Sentiment Prediction
 
@@ -462,6 +475,13 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 
 # Counting Objects
 
+**Towards perspective-free object counting with deep learning**
+
+- intro: ECCV 2016. Counting CNN and Hydra CNN
+- paper: [http://agamenon.tsc.uah.es/Investigacion/gram/publications/eccv2016-onoro.pdf](http://agamenon.tsc.uah.es/Investigacion/gram/publications/eccv2016-onoro.pdf)
+- github: [https://github.com/gramuah/ccnn](https://github.com/gramuah/ccnn)
+- poster: [http://www.eccv2016.org/files/posters/P-3B-26.pdf](http://www.eccv2016.org/files/posters/P-3B-26.pdf)
+
 **Using Convolutional Neural Networks to Count Palm Trees in Satellite Images**
 
 - arxiv: [https://arxiv.org/abs/1701.06462](https://arxiv.org/abs/1701.06462)
@@ -470,11 +490,21 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 
 [https://arxiv.org/abs/1703.08710](https://arxiv.org/abs/1703.08710)
 
+**Counting Objects with Faster R-CNN**
+
+- blog: [https://softwaremill.com/counting-objects-with-faster-rcnn/](https://softwaremill.com/counting-objects-with-faster-rcnn/)
+- github: [https://github.com/softberries/keras-frcnn](https://github.com/softberries/keras-frcnn)
+
 ## Crowd Counting / Analysis
 
 **Large scale crowd analysis based on convolutional neural network**
 
 - paper: [http://www.sciencedirect.com/science/article/pii/S0031320315001259](http://www.sciencedirect.com/science/article/pii/S0031320315001259)
+
+**Deep People Counting in Extremely Dense Crowds**
+
+- intro: ACM 2015
+- paper: [http://yangliang.github.io/pdf/sp055u.pdf](http://yangliang.github.io/pdf/sp055u.pdf)
 
 **Crossing-line Crowd Counting with Two-phase Deep Neural Networks**
 
@@ -491,7 +521,9 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 
 - intro: CVPR 2016
 - paper: [http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Zhang_Single-Image_Crowd_Counting_CVPR_2016_paper.pdf](http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Zhang_Single-Image_Crowd_Counting_CVPR_2016_paper.pdf)
+- paper: [http://sist.shanghaitech.edu.cn/office/research/news/CVPR2016/paper/Single-Image%20Crowd%20Counting%20via%20Multi-Column%20Convolutional%20Neural%20Network.pdf](http://sist.shanghaitech.edu.cn/office/research/news/CVPR2016/paper/Single-Image%20Crowd%20Counting%20via%20Multi-Column%20Convolutional%20Neural%20Network.pdf)
 - dataset(pwd: p1rv): [http://pan.baidu.com/s/1gfyNBTh](http://pan.baidu.com/s/1gfyNBTh)
+- slides: [http://smartdsp.xmu.edu.cn/%E6%B1%87%E6%8A%A5pdf/crowd%20counting%E6%9E%97%E8%B4%A8%E9%94%90.pdf](http://smartdsp.xmu.edu.cn/%E6%B1%87%E6%8A%A5pdf/crowd%20counting%E6%9E%97%E8%B4%A8%E9%94%90.pdf)
 
 **CrowdNet: A Deep Convolutional Network for Dense Crowd Counting**
 
@@ -524,6 +556,20 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 
 [https://arxiv.org/abs/1703.09393](https://arxiv.org/abs/1703.09393)
 
+**Beyond Counting: Comparisons of Density Maps for Crowd Analysis Tasks - Counting, Detection, and Tracking**
+
+[https://arxiv.org/abs/1705.10118](https://arxiv.org/abs/1705.10118)
+
+**ResnetCrowd: A Residual Deep Learning Architecture for Crowd Counting, Violent Behaviour Detection and Crowd Density Level Classification**
+
+- intro: AVSS 2017
+- arxiv: [https://arxiv.org/abs/1705.10698](https://arxiv.org/abs/1705.10698)
+
+**Image Crowd Counting Using Convolutional Neural Network and Markov Random Field**
+
+- intro: CVPR 2017
+- arxiv: [https://arxiv.org/abs/1706.03725](https://arxiv.org/abs/1706.03725)
+
 # Activity Recognition
 
 **Implementing a CNN for Human Activity Recognition in Tensorflow**
@@ -545,7 +591,7 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 - blog: [http://aqibsaeed.github.io/2017-05-02-deploying-tensorflow-model-andorid-device-human-activity-recognition/](http://aqibsaeed.github.io/2017-05-02-deploying-tensorflow-model-andorid-device-human-activity-recognition/)
 - github: [https://github.com/aqibsaeed/Human-Activity-Recognition-using-CNN/tree/master/ActivityRecognition](https://github.com/aqibsaeed/Human-Activity-Recognition-using-CNN/tree/master/ActivityRecognition)
 
-# Music / Sound Classification
+# Music Classification / Sound Classification
 
 **Explaining Deep Convolutional Neural Networks on Music Classification**
 
@@ -600,6 +646,11 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 - arxiv: [https://arxiv.org/abs/1703.10667](https://arxiv.org/abs/1703.10667)
 - github: [https://github.com/chihyaoma/Activity-Recognition-with-CNN-and-RNN](https://github.com/chihyaoma/Activity-Recognition-with-CNN-and-RNN)
 
+**On the Robustness of Deep Convolutional Neural Networks for Music Classification**
+
+- intro: Queen Mary University of London & New York University
+- arxiv: [https://arxiv.org/abs/1706.02361](https://arxiv.org/abs/1706.02361)
+
 # NSFW Detection / Classification
 
 **Nipple Detection using Convolutional Neural Network**
@@ -636,9 +687,11 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 ![](http://www.cs.berkeley.edu/~pathak/context_encoder/resources/result_fig.jpg)
 
 - intro: CVPR 2016
+- intro: Unsupervised Feature Learning by Image Inpainting using GANs
 - project page: [http://www.cs.berkeley.edu/~pathak/context_encoder/](http://www.cs.berkeley.edu/~pathak/context_encoder/)
 - arxiv: [https://arxiv.org/abs/1604.07379](https://arxiv.org/abs/1604.07379)
-- github: [https://github.com/pathak22/context-encoder](https://github.com/pathak22/context-encoder)
+- github(official): [https://github.com/pathak22/context-encoder](https://github.com/pathak22/context-encoder)
+- github: [https://github.com/BoyuanJiang/context_encoder_pytorch](https://github.com/BoyuanJiang/context_encoder_pytorch)
 
 **Semantic Image Inpainting with Perceptual and Contextual Losses**
 
@@ -837,7 +890,8 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 
 **Single Image Super-Resolution Using Multi-Scale Convolutional Neural Network**
 
-[https://arxiv.org/abs/1705.05084](https://arxiv.org/abs/1705.05084)
+- intro: South China University of Technology
+- arxiv: [https://arxiv.org/abs/1705.05084](https://arxiv.org/abs/1705.05084)
 
 ## Video Super-resolution
 
@@ -887,6 +941,10 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 **Block-Matching Convolutional Neural Network for Image Denoising**
 
 [https://arxiv.org/abs/1704.00524](https://arxiv.org/abs/1704.00524)
+
+**When Image Denoising Meets High-Level Vision Tasks: A Deep Learning Approach**
+
+[https://arxiv.org/abs/1706.04284](https://arxiv.org/abs/1706.04284)
 
 # Image Haze Removal
 
@@ -942,6 +1000,7 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 **Deep Multi-scale Convolutional Neural Network for Dynamic Scene Deblurring**
 
 - arxiv: [https://arxiv.org/abs/1612.02177](https://arxiv.org/abs/1612.02177)
+- github(official. Torch)): [https://github.com/SeungjunNah/DeepDeblur_release](https://github.com/SeungjunNah/DeepDeblur_release)
 
 **From Motion Blur to Motion Flow: a Deep Learning Solution for Removing Heterogeneous Motion Blur**
 
@@ -1008,6 +1067,7 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 
 - intro: ICML 2017
 - keywords: GAN
+- project page: [http://www.wave.one/icml2017](http://www.wave.one/icml2017)
 - arxiv: [https://arxiv.org/abs/1705.05823](https://arxiv.org/abs/1705.05823)
 
 # Image Quality Assessment
@@ -1040,10 +1100,22 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 
 # Depth Prediction / Depth Estimation
 
-**Deeper Depth Prediction with Fully Convolutional Residual Networks**
+**Deep Convolutional Neural Fields for Depth Estimation from a Single Image**
 
-- arxiv: [https://arxiv.org/abs/1606.00373](https://arxiv.org/abs/1606.00373)
-- github: [https://github.com/iro-cp/FCRN-DepthPrediction](https://github.com/iro-cp/FCRN-DepthPrediction)
+- intro: CVPR 2015
+- arxiv: [https://arxiv.org/abs/1411.6387](https://arxiv.org/abs/1411.6387)
+
+**Learning Depth from Single Monocular Images Using Deep Convolutional Neural Fields**
+
+- intro: IEEE T. Pattern Analysis and Machine Intelligence
+- arxiv: [https://arxiv.org/abs/1502.07411](https://arxiv.org/abs/1502.07411)
+- bitbucket: [https://bitbucket.org/fayao/dcnf-fcsp](https://bitbucket.org/fayao/dcnf-fcsp)
+
+**Unsupervised CNN for Single View Depth Estimation: Geometry to the Rescue**
+
+- intro: ECCV 2016
+- arxiv: [https://arxiv.org/abs/1603.04992](https://arxiv.org/abs/1603.049921)
+- github: [https://github.com/Ravi-Garg/Unsupervised_Depth_Estimation](https://github.com/Ravi-Garg/Unsupervised_Depth_Estimation)
 
 **Depth from a Single Image by Harmonizing Overcomplete Local Network Predictions**
 
@@ -1051,6 +1123,11 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 - project pag: [http://ttic.uchicago.edu/~ayanc/mdepth/](http://ttic.uchicago.edu/~ayanc/mdepth/)
 - arxiv: [http://arxiv.org/abs/1605.07081](http://arxiv.org/abs/1605.07081)
 - github: [https://github.com/ayanc/mdepth/](https://github.com/ayanc/mdepth/)
+
+**Deeper Depth Prediction with Fully Convolutional Residual Networks**
+
+- arxiv: [https://arxiv.org/abs/1606.00373](https://arxiv.org/abs/1606.00373)
+- github: [https://github.com/iro-cp/FCRN-DepthPrediction](https://github.com/iro-cp/FCRN-DepthPrediction)
 
 **Single image depth estimation by dilated deep residual convolutional neural network and soft-weight-sum inference**
 
@@ -1256,6 +1333,11 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 - intro: Harbin Institute of Technology & Huawei
 - arxiv: [https://arxiv.org/abs/1703.04247](https://arxiv.org/abs/1703.04247)
 
+**Deep Interest Network for Click-Through Rate Prediction**
+
+- intro: Alibaba
+- arxiv: [https://arxiv.org/abs/1706.06978](https://arxiv.org/abs/1706.06978)
+
 # Cryptography
 
 **Learning to Protect Communications with Adversarial Neural Cryptography**
@@ -1284,7 +1366,11 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 
 **LipNet: Sentence-level Lipreading**
 
+**LipNet: End-to-End Sentence-level Lipreading**
+
+- arxiv: [https://arxiv.org/abs/1611.01599](https://arxiv.org/abs/1611.01599)
 - paper: [http://openreview.net/pdf?id=BkjLkSqxg](http://openreview.net/pdf?id=BkjLkSqxg)
+- github: [https://github.com/bshillingford/LipNet](https://github.com/bshillingford/LipNet)
 
 **Lip Reading Sentences in the Wild**
 

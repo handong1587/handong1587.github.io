@@ -228,6 +228,10 @@ date: 2015-10-09
 
 - arxiv: [https://arxiv.org/abs/1702.03410](https://arxiv.org/abs/1702.03410)
 
+**Learning to Generate Chairs with Generative Adversarial Nets**
+
+[https://arxiv.org/abs/1705.10413](https://arxiv.org/abs/1705.10413)
+
 # Blogs
 
 **Torch convolutional GAN: Generating Faces with Torch**

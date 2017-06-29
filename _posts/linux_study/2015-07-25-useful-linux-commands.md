@@ -526,6 +526,12 @@ Insert current file name:
 gt
 ```
 
+**Fold code block under spf-13 Vim**
+
+```
+za
+```
+
 # Matlab
 
 Comment multi-lines in Matlab: Ctrl+R, Ctrl+T

@@ -73,6 +73,7 @@ author:
     detailIntro:
       <p>I am working as machine learning/deep learning engineer.</p>
       <p>This blog is used to organise interesting papers, projects, websites, blogs and my reading/study notes.</p>
+      <p>Feel free to send PRs or open issues to help maintain this blog&#58; https://github.com/handong1587/handong1587.github.io</p>
       <p></p>
 
 #You can choose your icon by http://fortawesome.github.io/Font-Awesome/icons/#brand
@@ -92,12 +93,6 @@ follow:
 
 #Links
 customLinks:
-  - item:
-    - text: EnSharing
-      url: http://ensharing.com/
-    - text: JOSHUA's BLOG
-      url: http://joshua881228.webfactional.com/
-    message: Friends
   - item:
     - text: Caffe on github
       url: https://github.com/BVLC/caffe

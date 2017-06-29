@@ -129,6 +129,11 @@ Other awesome lists can be found in this [list](https://github.com/sindresorhus/
 
 [http://blog.kaggle.com/2017/01/23/a-kaggle-master-explains-gradient-boosting/](http://blog.kaggle.com/2017/01/23/a-kaggle-master-explains-gradient-boosting/)
 
+**Performance of various open source GBM implementations**
+
+- intro: h2o VS. xgboost VS. lightgbm
+- github: [https://github.com/szilard/GBM-perf](https://github.com/szilard/GBM-perf)
+
 ## XGBoost
 
 **XGBoost: A Scalable Tree Boosting System**
@@ -308,6 +313,10 @@ based on decision tree algorithms, used for ranking, classification and many oth
 - github: [https://github.com/cheng-li/pyramid](https://github.com/cheng-li/pyramid)
 - wiki: [https://github.com/cheng-li/pyramid/wiki/CBM](https://github.com/cheng-li/pyramid/wiki/CBM)
 
+**Multi-Label Learning with Label Enhancement**
+
+[https://arxiv.org/abs/1706.08323](https://arxiv.org/abs/1706.08323)
+
 # Multi-Task Learning
 
 **Multitask Learning**
@@ -458,6 +467,10 @@ Classic strategies:
 
 - blog: [https://medium.com/@vivek.yadav/dealing-with-unbalanced-data-generating-additional-data-by-jittering-the-original-image-7497fe2119c3](https://medium.com/@vivek.yadav/dealing-with-unbalanced-data-generating-additional-data-by-jittering-the-original-image-7497fe2119c3)
 - ipynb: [https://nbviewer.jupyter.org/github/vxy10/SCND_notebooks/blob/master/preprocessing_stuff/img_transform_NB.ipynb](https://nbviewer.jupyter.org/github/vxy10/SCND_notebooks/blob/master/preprocessing_stuff/img_transform_NB.ipynb)
+
+**7 Techniques to Handle Imbalanced Data**
+
+[http://www.kdnuggets.com/2017/06/7-techniques-handle-imbalanced-data.html](http://www.kdnuggets.com/2017/06/7-techniques-handle-imbalanced-data.html)
 
 # Mathematics
 

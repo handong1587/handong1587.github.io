@@ -155,14 +155,6 @@ to decompose it into the multiplications of thinned dense matrices"
 - slides: [http://sharif.edu/~matin/pub/2016_mm_slides.pdf](http://sharif.edu/~matin/pub/2016_mm_slides.pdf)
 - github: [https://github.com/ENCP/CNNdroid](https://github.com/ENCP/CNNdroid)
 
-**Quantized Convolutional Neural Networks for Mobile Devices**
-
-- intro: Q-CNN
-- intro: "Extensive experiments on the ILSVRC-12 benchmark demonstrate 
-4 ∼ 6× speed-up and 15 ∼ 20× compression with merely one percentage loss of classification accuracy"
-- arxiv: [http://arxiv.org/abs/1512.06473](http://arxiv.org/abs/1512.06473)
-- github: [https://github.com/jiaxiang-wu/quantized-cnn](https://github.com/jiaxiang-wu/quantized-cnn)
-
 **EIE: Efficient Inference Engine on Compressed Deep Neural Network**
 
 - intro: ISCA 2016
@@ -207,11 +199,6 @@ to decompose it into the multiplications of thinned dense matrices"
 **Convolutional Neural Networks using Logarithmic Data Representation**
 
 - arxiv: [http://arxiv.org/abs/1603.01025](http://arxiv.org/abs/1603.01025)
-
-**XNOR-Net: ImageNet Classification Using Binary Convolutional Neural Networks**
-
-- arxiv: [http://arxiv.org/abs/1603.05279](http://arxiv.org/abs/1603.05279)
-- github(Torch): [https://github.com/mrastegari/XNOR-Net](https://github.com/mrastegari/XNOR-Net)
 
 **DeepX: A Software Accelerator for Low-Power Deep Learning Inference on Mobile Devices**
 
@@ -263,8 +250,10 @@ while maintaining state-of-the-art accuracy. For GoogLeNet, our model has 7% few
 
 **Dynamic Network Surgery for Efficient DNNs**
 
+- intro: NIPS 2016
 - intro: compress the number of parameters in LeNet-5 and AlexNet by a factor of 108× and 17.7× respectively
 - arxiv: [http://arxiv.org/abs/1608.04493](http://arxiv.org/abs/1608.04493)
+- github(official. Caffe): [https://github.com/yiwenguo/Dynamic-Network-Surgery](https://github.com/yiwenguo/Dynamic-Network-Surgery)
 
 **Scalable Compression of Deep Neural Networks**
 
@@ -374,10 +363,6 @@ at INT8 deep learning operations than other FPGA DSP architectures"
 - arxiv: [https://arxiv.org/abs/1702.04008](https://arxiv.org/abs/1702.04008)
 - github: [https://github.com/KarenUllrich/Tutorial-SoftWeightSharingForNNCompression](https://github.com/KarenUllrich/Tutorial-SoftWeightSharingForNNCompression)
 
-**A 7.663-TOPS 8.2-W Energy-efficient FPGA Accelerator for Binary Convolutional Neural Networks**
-
-- arxiv: [https://arxiv.org/abs/1702.06392](https://arxiv.org/abs/1702.06392)
-
 **A Compact DNN: Approaching GoogLeNet-Level Accuracy of Classification and Domain Adaptation**
 
 - intro: CVPR 2017
@@ -396,6 +381,75 @@ at INT8 deep learning operations than other FPGA DSP architectures"
 
 [https://openreview.net/forum?id=HyQJ-mclg&noteId=HyQJ-mclg](https://openreview.net/forum?id=HyQJ-mclg&noteId=HyQJ-mclg)
 
+**Bayesian Compression for Deep Learning**
+
+[https://arxiv.org/abs/1705.08665](https://arxiv.org/abs/1705.08665)
+
+**A Kernel Redundancy Removing Policy for Convolutional Neural Network**
+
+[https://arxiv.org/abs/1705.10748](https://arxiv.org/abs/1705.10748)
+
+**Gated XNOR Networks: Deep Neural Networks with Ternary Weights and Activations under a Unified Discretization Framework**
+
+- keywords: discrete state transition (DST)
+- arxiv: [https://arxiv.org/abs/1705.09283](https://arxiv.org/abs/1705.09283)
+
+**SEP-Nets: Small and Effective Pattern Networks**
+
+- intro: The University of Iowa & Snap Research
+- arxiv: [https://arxiv.org/abs/1706.03912](https://arxiv.org/abs/1706.03912)
+
+**ShiftCNN: Generalized Low-Precision Architecture for Inference of Convolutional Neural Networks**
+
+- arxiv: [https://arxiv.org/abs/1706.02393](https://arxiv.org/abs/1706.02393)
+- github: [https://github.com/gudovskiy/ShiftCNN](https://github.com/gudovskiy/ShiftCNN)
+
+**MEC: Memory-efficient Convolution for Deep Neural Network**
+
+- intro: ICML 2017
+- arxiv: [https://arxiv.org/abs/1706.06873](https://arxiv.org/abs/1706.06873)
+
+## Quantized Neural Networks
+
+**Quantized Convolutional Neural Networks for Mobile Devices**
+
+- intro: Q-CNN
+- intro: "Extensive experiments on the ILSVRC-12 benchmark demonstrate 
+4 ∼ 6× speed-up and 15 ∼ 20× compression with merely one percentage loss of classification accuracy"
+- arxiv: [http://arxiv.org/abs/1512.06473](http://arxiv.org/abs/1512.06473)
+- github: [https://github.com/jiaxiang-wu/quantized-cnn](https://github.com/jiaxiang-wu/quantized-cnn)
+
+**Training Quantized Nets: A Deeper Understanding**
+
+- intro: University of Maryland & Cornell University
+- arxiv: [https://arxiv.org/abs/1706.02379](https://arxiv.org/abs/1706.02379)
+
+**Balanced Quantization: An Effective and Efficient Approach to Quantized Neural Networks**
+
+- intro: the top-5 error rate of 4-bit quantized GoogLeNet model is 12.7%
+- arxiv: [https://arxiv.org/abs/1706.07145](https://arxiv.org/abs/1706.07145)
+
+## Binary Convolutional Neural Networks
+
+**XNOR-Net: ImageNet Classification Using Binary Convolutional Neural Networks**
+
+- arxiv: [http://arxiv.org/abs/1603.05279](http://arxiv.org/abs/1603.05279)
+- github(Torch): [https://github.com/mrastegari/XNOR-Net](https://github.com/mrastegari/XNOR-Net)
+
+**A 7.663-TOPS 8.2-W Energy-efficient FPGA Accelerator for Binary Convolutional Neural Networks**
+
+- arxiv: [https://arxiv.org/abs/1702.06392](https://arxiv.org/abs/1702.06392)
+
+**BMXNet: An Open-Source Binary Neural Network Implementation Based on MXNet**
+
+- keywords: Binary Neural Networks (BNNs)
+- arxiv: [https://arxiv.org/abs/1705.09864](https://arxiv.org/abs/1705.09864)
+- github: [https://github.com/hpi-xnor](https://github.com/hpi-xnor)
+
+**ShiftCNN: Generalized Low-Precision Architecture for Inference of Convolutional Neural Networks**
+
+[https://arxiv.org/abs/1706.02393](https://arxiv.org/abs/1706.02393)
+
 ## Accelerating / Fast Algorithms
 
 **Fast Algorithms for Convolutional Neural Networks**
@@ -412,6 +466,10 @@ at INT8 deep learning operations than other FPGA DSP architectures"
 
 - intro: Hong Kong Baptist University
 - arxiv: [https://arxiv.org/abs/1704.07724](https://arxiv.org/abs/1704.07724)
+
+**NullHop: A Flexible Convolutional Neural Network Accelerator Based on Sparse Representations of Feature Maps**
+
+[https://arxiv.org/abs/1706.01406](https://arxiv.org/abs/1706.01406)
 
 ## Code Optimization
 
@@ -465,6 +523,11 @@ at INT8 deep learning operations than other FPGA DSP architectures"
 **model_compression: Implementation of model compression with knowledge distilling method**
 
 - github: [https://github.com/chengshengchan/model_compression](https://github.com/chengshengchan/model_compression)
+
+**keras_compressor: Model Compression CLI Tool for Keras**
+
+- blog: [https://nico-opendata.jp/ja/casestudy/model_compression/index.html](https://nico-opendata.jp/ja/casestudy/model_compression/index.html)
+- github: [https://github.com/nico-opendata/keras_compressor](https://github.com/nico-opendata/keras_compressor)
 
 # Blogs
 

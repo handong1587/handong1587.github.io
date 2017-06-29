@@ -7,6 +7,30 @@ date: 2015-10-09
 
 # ImageNet
 
+Single-model on 224x224
+
+| Method              | top1        | top5        | Model Size  | Speed       |
+|:-------------------:|:-----------:|:-----------:|:-----------:|:-----------:|
+| ResNet-101          | 78.0%       | 94.0%       |             |             |
+| ResNet-200          | 78.3%       | 94.2%       |             |             |
+| Inception-v3        |             |             |             |             |
+| Inception-v4        |             |             |             |             |
+| Inception-ResNet-v2 |             |             |             |             |
+| ResNet-50           | 77.8%       |             |             |             |
+| ResNet-101          | 79.6%       | 94.7%       |             |             |
+
+Single-model on 320×320 / 299×299
+
+| Method              | top1        | top5        | Model Size  | Speed       |
+|:-------------------:|:-----------:|:-----------:|:-----------:|:-----------:|
+| ResNet-101          |             |             |             |             |
+| ResNet-200          | 79.9%       | 95.2%       |             |             |
+| Inception-v3        | 78.8%       | 94.4%       |             |             |
+| Inception-v4        | 80.0%       | 95.0%       |             |             |
+| Inception-ResNet-v2 | 80.1%       | 95.1%       |             |             |
+| ResNet-50           |             |             |             |             |
+| ResNet-101          | 80.9%       | 95.6%       |             |             |
+
 ## AlexNet
 
 **ImageNet Classification with Deep Convolutional Neural Networks**
@@ -86,7 +110,7 @@ not just the convolutions)
 - intro: "21.2% top-1 and 5.6% top-5 error for single frame evaluation using a network; 
 3.5% top-5 error and 17.3% top-1 error With an ensemble of 4 models and multi-crop evaluation."
 - arxiv: [http://arxiv.org/abs/1512.00567](http://arxiv.org/abs/1512.00567)
-- github(Torch): [https://github.com/Moodstocks/inception-v3.torch](https://github.com/Moodstocks/inception-v3.torch)
+- github: [https://github.com/Moodstocks/inception-v3.torch](https://github.com/Moodstocks/inception-v3.torch)
 
 **Inception in TensorFlow**
 
@@ -119,12 +143,6 @@ not just the convolutions)
 - slides: [http://research.microsoft.com/en-us/um/people/kahe/ilsvrc15/ilsvrc2015_deep_residual_learning_kaiminghe.pdf](http://research.microsoft.com/en-us/um/people/kahe/ilsvrc15/ilsvrc2015_deep_residual_learning_kaiminghe.pdf)
 - gitxiv: [http://gitxiv.com/posts/LgPRdTY3cwPBiMKbm/deep-residual-learning-for-image-recognition](http://gitxiv.com/posts/LgPRdTY3cwPBiMKbm/deep-residual-learning-for-image-recognition)
 - github: [https://github.com/KaimingHe/deep-residual-networks](https://github.com/KaimingHe/deep-residual-networks)
-- github: [https://github.com/alrojo/lasagne_residual_network](https://github.com/alrojo/lasagne_residual_network)
-- github(MXNet): [https://github.com/shuokay/resnet](https://github.com/shuokay/resnet)
-- github: [https://github.com/gcr/torch-residual-networks](https://github.com/gcr/torch-residual-networks)
-- github: [https://github.com/NervanaSystems/neon/blob/master/examples/cifar10_msra.py](https://github.com/NervanaSystems/neon/blob/master/examples/cifar10_msra.py)
-- github: [https://github.com/yasunorikudo/chainer-ResNet](https://github.com/yasunorikudo/chainer-ResNet)
-- github: [https://github.com/raghakot/keras-resnet](https://github.com/raghakot/keras-resnet)
 - github: [https://github.com/ry/tensorflow-resnet](https://github.com/ry/tensorflow-resnet)
 
 **Third-party re-implementations**
@@ -168,8 +186,6 @@ not just the convolutions)
 - intro: ECCV 2016. ResNet-v2
 - arxiv: [http://arxiv.org/abs/1603.05027](http://arxiv.org/abs/1603.05027)
 - github: [https://github.com/KaimingHe/resnet-1k-layers](https://github.com/KaimingHe/resnet-1k-layers)
-- github: [https://github.com/bazilas/matconvnet-ResNet](https://github.com/bazilas/matconvnet-ResNet)
-- github: [https://github.com/FlorianMuellerklein/Identity-Mapping-ResNet-Lasagne](https://github.com/FlorianMuellerklein/Identity-Mapping-ResNet-Lasagne)
 - github: [https://github.com/tornadomeet/ResNet](https://github.com/tornadomeet/ResNet)
 
 **Deep Residual Networks for Image Classification with Python + NumPy**
@@ -200,11 +216,10 @@ not just the convolutions)
 
 **Aggregated Residual Transformations for Deep Neural Networks**
 
-- intro: UC San Diego & Facebook AI Research
+- intro: CVPR 2017. UC San Diego & Facebook AI Research
 - arxiv: [https://arxiv.org/abs/1611.05431](https://arxiv.org/abs/1611.05431)
 - github(Torch): [https://github.com/facebookresearch/ResNeXt](https://github.com/facebookresearch/ResNeXt)
 - github: [https://github.com/dmlc/mxnet/blob/master/example/image-classification/symbol/resnext.py](https://github.com/dmlc/mxnet/blob/master/example/image-classification/symbol/resnext.py)
-- github(Caffe): [https://github.com/terrychenism/ResNeXt](https://github.com/terrychenism/ResNeXt)
 - dataset: [http://data.dmlc.ml/models/imagenet/resnext/](http://data.dmlc.ml/models/imagenet/resnext/)
 - reddit: [https://www.reddit.com/r/MachineLearning/comments/5haml9/p_implementation_of_aggregated_residual/](https://www.reddit.com/r/MachineLearning/comments/5haml9/p_implementation_of_aggregated_residual/)
 
@@ -226,7 +241,7 @@ not just the convolutions)
 - github: [https://github.com/szagoruyko/wide-residual-networks](https://github.com/szagoruyko/wide-residual-networks)
 - github: [https://github.com/asmith26/wide_resnets_keras](https://github.com/asmith26/wide_resnets_keras)
 - github: [https://github.com/ritchieng/wideresnet-tensorlayer](https://github.com/ritchieng/wideresnet-tensorlayer)
-- github(PyTorch): [https://github.com/xternalz/WideResNet-pytorch](https://github.com/xternalz/WideResNet-pytorch)
+- github: [https://github.com/xternalz/WideResNet-pytorch](https://github.com/xternalz/WideResNet-pytorch)
 - github(Torch): [https://github.com/meliketoy/wide-residual-network](https://github.com/meliketoy/wide-residual-network)
 
 **Residual Networks of Residual Networks: Multilevel Residual Networks**
@@ -284,7 +299,25 @@ not just the convolutions)
 - intro: CVPR 2017. Princeton University & Intel Labs
 - keywords: Dilated Residual Networks (DRN)
 - project page: [http://vladlen.info/publications/dilated-residual-networks/](http://vladlen.info/publications/dilated-residual-networks/)
+- arxiv: [https://arxiv.org/abs/1705.09914](https://arxiv.org/abs/1705.09914)
 - paper: [http://vladlen.info/papers/DRN.pdf](http://vladlen.info/papers/DRN.pdf)
+
+**Dynamic Steerable Blocks in Deep Residual Networks**
+
+- intro: University of Amsterdam & ESAT-PSI
+- arxiv: [https://arxiv.org/abs/1706.00598](https://arxiv.org/abs/1706.00598)
+
+**Learning Deep ResNet Blocks Sequentially using Boosting Theory**
+
+- intro: Microsoft Research & Princeton University
+- arxiv: [https://arxiv.org/abs/1706.04964](https://arxiv.org/abs/1706.04964)
+
+## ImageNet Projects
+
+**Training an Object Classifier in Torch-7 on multiple GPUs over ImageNet**
+
+- intro: an imagenet example in torch
+- github: [https://github.com/soumith/imagenet-multiGPU.torch](https://github.com/soumith/imagenet-multiGPU.torch)
 
 # Deep Learning And Bayesian
 
@@ -321,6 +354,11 @@ not just the convolutions)
 **Bayesian Deep Learning Part II: Bridging PyMC3 and Lasagne to build a Hierarchical Neural Network**
 
 - blog: [http://twiecki.github.io/blog/2016/07/05/bayesian-deep-learning/](http://twiecki.github.io/blog/2016/07/05/bayesian-deep-learning/)
+
+**Deep Learning: A Bayesian Perspective**
+
+- intro: George Mason University
+- arxiv: [https://arxiv.org/abs/1706.00473](https://arxiv.org/abs/1706.00473)
 
 # Semi-Supervised Learning
 
@@ -438,8 +476,9 @@ not just the convolutions)
 - arxiv: [http://arxiv.org/abs/1502.05988](http://arxiv.org/abs/1502.05988)
 - github: [http://meka.sourceforge.net](http://meka.sourceforge.net)
 
-**Predicting Unseen Labels using Label Hierarchies in Large-Scale Multi-label Learning(ECML2015)**
+**Predicting Unseen Labels using Label Hierarchies in Large-Scale Multi-label Learning**
 
+- intro: ECML 2015
 - paper: [https://www.kdsl.tu-darmstadt.de/fileadmin/user_upload/Group_KDSL/PUnL_ECML2015_camera_ready.pdf](https://www.kdsl.tu-darmstadt.de/fileadmin/user_upload/Group_KDSL/PUnL_ECML2015_camera_ready.pdf)
 
 **Learning with a Wasserstein Loss**
@@ -532,6 +571,26 @@ not just the convolutions)
 - intro: EACL 2017
 - arxiv: [https://arxiv.org/abs/1702.08303](https://arxiv.org/abs/1702.08303)
 - github: [https://github.com/jbingel/eacl2017_mtl](https://github.com/jbingel/eacl2017_mtl)
+
+**Multi-Task Learning Using Uncertainty to Weigh Losses for Scene Geometry and Semantics**
+
+- intro: University of Cambridge
+- arxiv: [https://arxiv.org/abs/1705.07115](https://arxiv.org/abs/1705.07115)
+
+**One Model To Learn Them All**
+
+- intro: Google Brain & University of Toronto
+- arxiv: [https://arxiv.org/abs/1706.05137](https://arxiv.org/abs/1706.05137)
+- github: [https://github.com/tensorflow/tensor2tensor](https://github.com/tensorflow/tensor2tensor)
+
+**MultiModel: Multi-Task Machine Learning Across Domains**
+
+[https://research.googleblog.com/2017/06/multimodel-multi-task-machine-learning.html](https://research.googleblog.com/2017/06/multimodel-multi-task-machine-learning.html)
+
+**An Overview of Multi-Task Learning in Deep Neural Networks**
+
+- intro: Aylien Ltd
+- arxiv: [https://arxiv.org/abs/1706.05098](https://arxiv.org/abs/1706.05098)
 
 # Multi-modal Learning
 
@@ -709,6 +768,11 @@ not just the convolutions)
 - intro: Facebook AI Research
 - arxiv: [https://arxiv.org/abs/1704.08847](https://arxiv.org/abs/1704.08847)
 
+**Towards Deep Learning Models Resistant to Adversarial Attacks**
+
+- intro: MIT
+- arxiv: [https://arxiv.org/abs/1706.06083](https://arxiv.org/abs/1706.06083)
+
 # Deep Learning Networks
 
 **PCANet: A Simple Deep Learning Baseline for Image Classification?**
@@ -869,10 +933,6 @@ with fast exact probabilistic inference over many layers."
 
 - arxiv: [http://arxiv.org/abs/1608.01409](http://arxiv.org/abs/1608.01409)
 
-**Factorized Convolutional Neural Networks**
-
-- arxiv: [http://arxiv.org/abs/1608.04337](http://arxiv.org/abs/1608.04337)
-
 **Mollifying Networks**
 
 - author: Caglar Gulcehre, Marcin Moczulski, Francesco Visin, Yoshua Bengio
@@ -1019,6 +1079,27 @@ with fast exact probabilistic inference over many layers."
 
 [https://arxiv.org/abs/1705.01450](https://arxiv.org/abs/1705.01450)
 
+**Deep Rotation Equivariant Network**
+
+[https://arxiv.org/abs/1705.08623](https://arxiv.org/abs/1705.08623)
+
+**Dense Transformer Networks**
+
+- intro: Washington State University & University of California, Davis
+- arxiv: [https://arxiv.org/abs/1705.08881](https://arxiv.org/abs/1705.08881)
+
+**Deep Complex Networks**
+
+- intro: [Université de Montréal & INRS-EMT & Microsoft Maluuba
+- arxiv: [https://arxiv.org/abs/1705.09792](https://arxiv.org/abs/1705.09792)
+- github: [https://github.com/ChihebTrabelsi/deep_complex_networks](https://github.com/ChihebTrabelsi/deep_complex_networks)
+
+**DiracNets: Training Very Deep Neural Networks Without Skip-Connections**
+
+- intro: Université Paris-Est
+- arxiv: [https://arxiv.org/abs/1706.00388](https://arxiv.org/abs/1706.00388)
+- github: [https://github.com/szagoruyko/diracnets](https://github.com/szagoruyko/diracnets)
+
 ## Highway Networks
 
 **Highway Networks**
@@ -1151,6 +1232,11 @@ with fast exact probabilistic inference over many layers."
 
 - slides: [http://tkipf.github.io/misc/GCNSlides.pdf](http://tkipf.github.io/misc/GCNSlides.pdf)
 
+**Deep Learning on Graphs with Keras**
+
+- intro:; Keras implementation of Graph Convolutional Networks
+- github: [https://github.com/tkipf/keras-gcn](https://github.com/tkipf/keras-gcn)
+
 # Deep Learning with Traditional Machine Learning Methods
 
 ## Bag of Words (BoW)
@@ -1172,6 +1258,13 @@ with fast exact probabilistic inference over many layers."
 **Training Deep Neural Networks on Noisy Labels with Bootstrapping**
 
 - arxiv: [http://arxiv.org/abs/1412.6596](http://arxiv.org/abs/1412.6596)
+
+## Conditional Random Fields
+
+**DeepCRF: Neural Networks and CRFs for Sequence Labeling**
+
+- intro: A implementation of Conditional Random Fields (CRFs) with Deep Learning Method
+- github: [https://github.com/aonotas/deep-crf](https://github.com/aonotas/deep-crf)
 
 ## Decision Tree
 
@@ -1228,6 +1321,12 @@ with fast exact probabilistic inference over many layers."
 **Deep Learning with Gaussian Process**
 
 - blog: [https://amundtveit.com/2016/12/02/deep-learning-with-gaussian-process/](https://amundtveit.com/2016/12/02/deep-learning-with-gaussian-process/)
+
+**Doubly Stochastic Variational Inference for Deep Gaussian Processes**
+
+- arxiv: [https://arxiv.org/abs/1705.08933](https://arxiv.org/abs/1705.08933)
+- github: [https://github.com/thangbui/deepGP_approxEP](https://github.com/thangbui/deepGP_approxEP)
+- github: [https://github.com/ICL-SML/Doubly-Stochastic-DGP](https://github.com/ICL-SML/Doubly-Stochastic-DGP)
 
 ## HMM
 
@@ -1294,9 +1393,16 @@ with fast exact probabilistic inference over many layers."
 
 **Deep Forest: Towards An Alternative to Deep Neural Networks**
 
+- projetc: [http://lamda.nju.edu.cn/code_gcForest.ashx](http://lamda.nju.edu.cn/code_gcForest.ashx)
 - arxiv: [https://arxiv.org/abs/1702.08835](https://arxiv.org/abs/1702.08835)
+- github(official): [https://github.com/kingfengji/gcForest](https://github.com/kingfengji/gcForest)
 
-# Others
+**Forward Thinking: Building Deep Random Forests**
+
+- arxiv: [https://arxiv.org/abs/1705.07366](https://arxiv.org/abs/1705.07366)
+- github: [https://github.com/tkchris93/ForwardThinking](https://github.com/tkchris93/ForwardThinking)
+
+## Others
 
 **Deep Markov Random Field for Image Modeling**
 
@@ -1381,8 +1487,6 @@ with fast exact probabilistic inference over many layers."
 
 **Convolutional neural networks on the iPhone with VGGNet**
 
-![](http://matthijshollemans.com/2016/08/30/vggnet-convolutional-neural-network-iphone/Bookcase.png)
-
 - blog: [http://matthijshollemans.com/2016/08/30/vggnet-convolutional-neural-network-iphone/](http://matthijshollemans.com/2016/08/30/vggnet-convolutional-neural-network-iphone/)
 - github: [https://github.com/hollance/VGGNet-Metal](https://github.com/hollance/VGGNet-Metal)
 
@@ -1394,15 +1498,6 @@ with fast exact probabilistic inference over many layers."
 
 - intro: CnnForAndroid:A Classification Project using Convolutional Neural Network(CNN) in Android platform。It also support Caffe Model
 - github: [https://github.com/zhangqianhui/CnnForAndroid](https://github.com/zhangqianhui/CnnForAndroid)
-
-**MobileNets: Efficient Convolutional Neural Networks for Mobile Vision Applications**
-
-- intro: Google
-- arxiv: [https://arxiv.org/abs/1704.04861](https://arxiv.org/abs/1704.04861)
-- github: [https://github.com/rcmalli/keras-mobilenet](https://github.com/rcmalli/keras-mobilenet)
-- github: [https://github.com/marvis/pytorch-mobilenet](https://github.com/marvis/pytorch-mobilenet)
-- github(Tensorflow): [https://github.com/Zehaos/MobileNet](https://github.com/Zehaos/MobileNet)
-- github: [https://github.com/shicai/MobileNet-Caffe](https://github.com/shicai/MobileNet-Caffe)
 
 **TensorFlow on Android**
 
@@ -1465,6 +1560,11 @@ with fast exact probabilistic inference over many layers."
 - intro: This Repository uses Reinforcement Learning and Supervised learning to Optimize portfolio allocation.
 - github: [https://github.com/deependersingla/deep_portfolio](https://github.com/deependersingla/deep_portfolio)
 
+**Neural networks for algorithmic trading. Multivariate time series**
+
+- blog: [https://medium.com/@alexrachnog/neural-networks-for-algorithmic-trading-2-1-multivariate-time-series-ab016ce70f57](https://medium.com/@alexrachnog/neural-networks-for-algorithmic-trading-2-1-multivariate-time-series-ab016ce70f57)
+- github: [https://github.com/Rachnog/Deep-Trading/tree/master/multivariate](https://github.com/Rachnog/Deep-Trading/tree/master/multivariate)
+
 **Deep-Trading: Algorithmic trading with deep learning experiments**
 
 [https://github.com/Rachnog/Deep-Trading](https://github.com/Rachnog/Deep-Trading)
@@ -1488,10 +1588,10 @@ with fast exact probabilistic inference over many layers."
 - homepage: [https://deepmind.com/blog/wavenet-generative-model-raw-audio/](https://deepmind.com/blog/wavenet-generative-model-raw-audio/)
 - paper: [https://drive.google.com/file/d/0B3cxcnOkPx9AeWpLVXhkTDJINDQ/view](https://drive.google.com/file/d/0B3cxcnOkPx9AeWpLVXhkTDJINDQ/view)
 - mirror: [https://pan.baidu.com/s/1gfmGWaJ](https://pan.baidu.com/s/1gfmGWaJ)
-- github(Keras): [https://github.com/usernaamee/keras-wavenet](https://github.com/usernaamee/keras-wavenet)
-- github(TensorFlow): [https://github.com/ibab/tensorflow-wavenet](https://github.com/ibab/tensorflow-wavenet)
-- github(Chainer): [https://github.com/monthly-hack/chainer-wavenet](https://github.com/monthly-hack/chainer-wavenet)
-- github(Theano): [https://github.com/huyouare/WaveNet-Theano](https://github.com/huyouare/WaveNet-Theano)
+- github: [https://github.com/usernaamee/keras-wavenet](https://github.com/usernaamee/keras-wavenet)
+- github: [https://github.com/ibab/tensorflow-wavenet](https://github.com/ibab/tensorflow-wavenet)
+- github: [https://github.com/monthly-hack/chainer-wavenet](https://github.com/monthly-hack/chainer-wavenet)
+- github: [https://github.com/huyouare/WaveNet-Theano](https://github.com/huyouare/WaveNet-Theano)
 - github(Keras): [https://github.com/basveeling/wavenet](https://github.com/basveeling/wavenet)
 - github: [https://github.com/ritheshkumar95/WaveNet](https://github.com/ritheshkumar95/WaveNet)
 
@@ -1662,7 +1762,7 @@ It is based on Facebook's TorchCraft, which is a bridge between Torch and StarCr
 - intro: Imperial College London
 - paper: [http://ieeexplore.ieee.org/abstract/document/7801947/](http://ieeexplore.ieee.org/abstract/document/7801947/)
 
-# Deep Learning in Fashion
+# Deep Learning for Fashion
 
 **Convolutional Neural Networks for Fashion Classification and Object Detection**
 
@@ -1689,6 +1789,17 @@ It is based on Facebook's TorchCraft, which is a bridge between Torch and StarCr
 
 - blog: [https://making.lyst.com/2017/02/21/working-with-fashion-models/](https://making.lyst.com/2017/02/21/working-with-fashion-models/)
 - youtube: [https://www.youtube.com/watch?v=emr2qaCQOQs](https://www.youtube.com/watch?v=emr2qaCQOQs)
+
+**Fashion Forward: Forecasting Visual Style in Fashion**
+
+- intro: Karlsruhe Institute of Technology & The University of Texas at Austin
+- arxiv: [https://arxiv.org/abs/1705.06394](https://arxiv.org/abs/1705.06394)
+
+**StreetStyle: Exploring world-wide clothing styles from millions of photos**
+
+- homepage: [http://streetstyle.cs.cornell.edu/](http://streetstyle.cs.cornell.edu/)
+- arxiv: [https://arxiv.org/abs/1706.01869](https://arxiv.org/abs/1706.01869)
+- demo: [http://streetstyle.cs.cornell.edu/trends.html](http://streetstyle.cs.cornell.edu/trends.html)
 
 # Benchmarks
 
@@ -2037,11 +2148,6 @@ It is based on Facebook's TorchCraft, which is a bridge between Torch and StarCr
 
 - arxiv: [https://arxiv.org/abs/1702.06257](https://arxiv.org/abs/1702.06257)
 
-**On the Origin of Deep Learning**
-
-- intro: CMU. 70 pages, 200 references
-- arxiv: [https://arxiv.org/abs/1702.07800](https://arxiv.org/abs/1702.07800)
-
 **Learning across scales - A multiscale method for Convolution Neural Networks**
 
 - arxiv: [https://arxiv.org/abs/1703.02009](https://arxiv.org/abs/1703.02009)
@@ -2098,7 +2204,26 @@ It is based on Facebook's TorchCraft, which is a bridge between Torch and StarCr
 - arxiv: [https://arxiv.org/abs/1703.09746](https://arxiv.org/abs/1703.09746)
 - github: [https://github.com/wenwei202/caffe/tree/sfm](https://github.com/wenwei202/caffe/tree/sfm)
 
+**Deep Learning is Robust to Massive Label Noise**
+
+[https://arxiv.org/abs/1705.10694](https://arxiv.org/abs/1705.10694)
+
+**Input Fast-Forwarding for Better Deep Learning**
+
+- intro: ICIAR 2017
+- keywords: Fast-Forward Network (FFNet)
+- arxiv: [https://arxiv.org/abs/1705.08479](https://arxiv.org/abs/1705.08479)
+
+**Deep Mutual Learning**
+
+[https://arxiv.org/abs/1706.00384](https://arxiv.org/abs/1706.00384)
+
 ## Tutorials and Surveys
+
+**On the Origin of Deep Learning**
+
+- intro: CMU. 70 pages, 200 references
+- arxiv: [https://arxiv.org/abs/1702.07800](https://arxiv.org/abs/1702.07800)
 
 **Efficient Processing of Deep Neural Networks: A Tutorial and Survey**
 
@@ -2116,7 +2241,13 @@ It is based on Facebook's TorchCraft, which is a bridge between Torch and StarCr
 
 - arxiv: [https://arxiv.org/abs/1702.07664](https://arxiv.org/abs/1702.07664)
 
-## Separable Convolutions
+## Separable Convolutions / Grouped Convolutions
+
+**Factorized Convolutional Neural Networks**
+
+**Design of Efficient Convolutional Layers using Single Intra-channel Convolution, Topological Subdivisioning and Spatial "Bottleneck" Structure**
+
+- arxiv: [http://arxiv.org/abs/1608.04337](http://arxiv.org/abs/1608.04337)
 
 **Deep Learning with Separable Convolutions**
 
@@ -2132,6 +2263,29 @@ It is based on Facebook's TorchCraft, which is a bridge between Torch and StarCr
 **Towards a New Interpretation of Separable Convolutions**
 
 - arxiv: [https://arxiv.org/abs/1701.04489](https://arxiv.org/abs/1701.04489)
+
+## MobileNets
+
+**MobileNets: Efficient Convolutional Neural Networks for Mobile Vision Applications**
+
+- intro: Google
+- arxiv: [https://arxiv.org/abs/1704.04861](https://arxiv.org/abs/1704.04861)
+- github: [https://github.com/rcmalli/keras-mobilenet](https://github.com/rcmalli/keras-mobilenet)
+- github: [https://github.com/marvis/pytorch-mobilenet](https://github.com/marvis/pytorch-mobilenet)
+- github(Tensorflow): [https://github.com/Zehaos/MobileNet](https://github.com/Zehaos/MobileNet)
+- github: [https://github.com/shicai/MobileNet-Caffe](https://github.com/shicai/MobileNet-Caffe)
+- github: [https://github.com/hollance/MobileNet-CoreML](https://github.com/hollance/MobileNet-CoreML)
+- github: [https://github.com/KeyKy/mobilenet-mxnet](https://github.com/KeyKy/mobilenet-mxnet)
+
+**MobileNets: Open-Source Models for Efficient On-Device Vision**
+
+- blog: [https://research.googleblog.com/2017/06/mobilenets-open-source-models-for.html](https://research.googleblog.com/2017/06/mobilenets-open-source-models-for.html)
+- github: [https://github.com/tensorflow/models/blob/master/slim/nets/mobilenet_v1.md](https://github.com/tensorflow/models/blob/master/slim/nets/mobilenet_v1.md)
+
+**Google’s MobileNets on the iPhone**
+
+- blog: [http://machinethink.net/blog/googles-mobile-net-architecture-on-iphone/](http://machinethink.net/blog/googles-mobile-net-architecture-on-iphone/)
+- github: [https://github.com/hollance/MobileNet-CoreML](https://github.com/hollance/MobileNet-CoreML)
 
 ## STDP
 
@@ -2234,22 +2388,14 @@ It is based on Facebook's TorchCraft, which is a bridge between Torch and StarCr
 **Snapshot Ensembles: Train 1, Get M for Free**
 
 - paper: [http://openreview.net/pdf?id=BJYwwY9ll](http://openreview.net/pdf?id=BJYwwY9ll)
-- github: [https://github.com/gaohuang/SnapshotEnsemble](https://github.com/gaohuang/SnapshotEnsemble)
+- github(Torch): [https://github.com/gaohuang/SnapshotEnsemble](https://github.com/gaohuang/SnapshotEnsemble)
+- github: [https://github.com/titu1994/Snapshot-Ensembles](https://github.com/titu1994/Snapshot-Ensembles)
 
 **Ensemble Deep Learning**
 
 - blog: [https://amundtveit.com/2016/12/02/ensemble-deep-learning/](https://amundtveit.com/2016/12/02/ensemble-deep-learning/)
 
 ## Computer Vision
-
-**End-to-End Integration of a Convolutional Network, Deformable Parts Model and Non-Maximum Suppression**
-
-- arxiv: [http://arxiv.org/abs/1411.5309](http://arxiv.org/abs/1411.5309)
-- paper: [http://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Wan_End-to-End_Integration_of_2015_CVPR_paper.pdf](http://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Wan_End-to-End_Integration_of_2015_CVPR_paper.pdf)
-
-**A convnet for non-maximum suppression**
-
-- arxiv: [http://arxiv.org/abs/1511.06437](http://arxiv.org/abs/1511.06437)
 
 **A Taxonomy of Deep Convolutional Neural Nets for Computer Vision**
 
@@ -2268,11 +2414,6 @@ It is based on Facebook's TorchCraft, which is a bridge between Torch and StarCr
 - poster: [http://www.eccv2016.org/files/posters/O-3A-03.pdf](http://www.eccv2016.org/files/posters/O-3A-03.pdf)
 - github: [https://github.com/Liusifei/caffe-lowlevel](https://github.com/Liusifei/caffe-lowlevel)
 
-**Exploiting Depth from Single Monocular Images for Object Detection and Semantic Segmentation**
-
-- intro: IEEE T. Image Processing
-- arxiv: [https://arxiv.org/abs/1610.01706](https://arxiv.org/abs/1610.01706)
-
 **DSAC - Differentiable RANSAC for Camera Localization**
 
 - arxiv: [https://arxiv.org/abs/1611.05705](https://arxiv.org/abs/1611.05705)
@@ -2284,8 +2425,8 @@ It is based on Facebook's TorchCraft, which is a bridge between Torch and StarCr
 - intro: "competitive accuracy at frame rates of 5 to 10 fps"
 - project page: [http://lmb.informatik.uni-freiburg.de/Publications/2015/DFIB15/](http://lmb.informatik.uni-freiburg.de/Publications/2015/DFIB15/)
 - arxiv: [https://arxiv.org/abs/1504.06852](https://arxiv.org/abs/1504.06852)
-- github(Torch): [https://github.com/ClementPinard/FlowNetTorch](https://github.com/ClementPinard/FlowNetTorch)
-- github(Pytorch): [https://github.com/ClementPinard/FlowNetPytorch](https://github.com/ClementPinard/FlowNetPytorch)
+- github: [https://github.com/ClementPinard/FlowNetTorch](https://github.com/ClementPinard/FlowNetTorch)
+- github: [https://github.com/ClementPinard/FlowNetPytorch](https://github.com/ClementPinard/FlowNetPytorch)
 
 **FlowNet 2.0: Evolution of Optical Flow Estimation with Deep Networks**
 
@@ -2311,8 +2452,6 @@ It is based on Facebook's TorchCraft, which is a bridge between Torch and StarCr
 - summary: [https://github.com/aleju/papers/blob/master/neural-nets/HyperFace.md](https://github.com/aleju/papers/blob/master/neural-nets/HyperFace.md)
 
 **UberNet: Training a `Universal' Convolutional Neural Network for Low-, Mid-, and High-Level Vision using Diverse Datasets and Limited Memory**
-
-![](http://cvn.ecp.fr/ubernet/res.png)
 
 - arxiv: [http://arxiv.org/abs/1609.02132](http://arxiv.org/abs/1609.02132)
 - demo: [http://cvn.ecp.fr/ubernet/](http://cvn.ecp.fr/ubernet/)

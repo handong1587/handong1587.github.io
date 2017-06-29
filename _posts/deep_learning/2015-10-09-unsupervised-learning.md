@@ -131,6 +131,11 @@ Auto-encoder
 
 - arxiv: [https://arxiv.org/abs/1611.05148](https://arxiv.org/abs/1611.05148)
 
+**A new look at clustering through the lens of deep convolutional neural networks**
+
+- intro: University of Central Florida & Purdue University
+- arxiv: [https://arxiv.org/abs/1706.05048](https://arxiv.org/abs/1706.05048)
+
 # Auto-encoder
 
 **Auto-Encoding Variational Bayes**

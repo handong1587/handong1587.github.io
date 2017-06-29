@@ -539,6 +539,10 @@ Machine learning workflow, Extracting feaures from images (colours, edges, corne
 
 [https://matrices.io/deep-neural-network-from-scratch/](https://matrices.io/deep-neural-network-from-scratch/)
 
+**Convolutional Neural Networks**
+
+[https://github.com/Alfredvc/cnn_workshop](https://github.com/Alfredvc/cnn_workshop)
+
 # Convolution
 
 ![](/assets/cnn-materials/conv.jpg)
@@ -859,7 +863,6 @@ Machine learning workflow, Extracting feaures from images (colours, edges, corne
 - blog: [https://codelabs.developers.google.com/codelabs/cloud-tensorflow-mnist/#0](https://codelabs.developers.google.com/codelabs/cloud-tensorflow-mnist/#0)
 
 **4 Steps To Learn TensorFlow When You Already Know scikit-learn**
-
 [https://medium.com/@Zelros/4-steps-to-learn-tensorflow-when-you-already-know-scikit-learn-3cd0340456b5#.q206au7u9](https://medium.com/@Zelros/4-steps-to-learn-tensorflow-when-you-already-know-scikit-learn-3cd0340456b5#.q206au7u9)
 
 **Gentlest Introduction to Tensorflow**
@@ -928,6 +931,14 @@ Implementations and ideas are largely based on papers from arxiv and implementat
 **TensorFlow and Deep Learning Tutorials**
 
 [https://github.com/wagamamaz/tensorflow-tutorial](https://github.com/wagamamaz/tensorflow-tutorial)
+
+## Tensorflow on Android
+
+**A Guide to Running Tensorflow Models on Android**
+
+- youtube: [https://www.youtube.com/watch?v=kFWKdLOxykE](https://www.youtube.com/watch?v=kFWKdLOxykE)
+- mirror: [http://www.bilibili.com/video/av9806881/index_10.html](http://www.bilibili.com/video/av9806881/index_10.html)
+- github: [https://github.com/llSourcell/A_Guide_to_Running_Tensorflow_Models_on_Android](https://github.com/llSourcell/A_Guide_to_Running_Tensorflow_Models_on_Android)
 
 # Torch
 

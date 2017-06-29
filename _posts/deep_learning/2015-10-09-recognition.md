@@ -51,6 +51,12 @@ date: 2015-10-09
 
 - arxiv: [http://arxiv.org/abs/1608.00182](http://arxiv.org/abs/1608.00182)
 
+**Factorized Bilinear Models for Image Recognition**
+
+- intro: TuSimple
+- arxiv: [https://arxiv.org/abs/1611.05709](https://arxiv.org/abs/1611.05709)
+- github(MXNet): [https://github.com/lyttonhao/Factorized-Bilinear-Network](https://github.com/lyttonhao/Factorized-Bilinear-Network)
+
 **Hyperspectral CNN Classification with Limited Training Samples**
 
 - arxiv: [https://arxiv.org/abs/1611.09007](https://arxiv.org/abs/1611.09007)
@@ -78,6 +84,10 @@ date: 2015-10-09
 
 [https://arxiv.org/abs/1703.05393](https://arxiv.org/abs/1703.05393)
 
+**Deep Mixture of Diverse Experts for Large-Scale Visual Recognition**
+
+[https://arxiv.org/abs/1706.07901](https://arxiv.org/abs/1706.07901)
+
 ## Multi-object Recognition
 
 **Multiple Object Recognition with Visual Attention**
@@ -90,6 +100,14 @@ date: 2015-10-09
 
 - intro: ICPR 2016 Oral
 - arxiv: [https://arxiv.org/abs/1610.03155](https://arxiv.org/abs/1610.03155)
+
+## Multi-Label Classification
+
+**Learning Spatial Regularization with Image-level Supervisions for Multi-label Image Classification**
+
+- intro: CVPR 2017. University of Science and Technology of China & CUHK
+- arxiv: [https://arxiv.org/abs/1702.05891](https://arxiv.org/abs/1702.05891)
+- github(official. Caffe): [https://github.com/zhufengx/SRN_multilabel/](https://github.com/zhufengx/SRN_multilabel/)
 
 ## Face Recognition
 
@@ -125,6 +143,7 @@ date: 2015-10-09
 
 **DeepFace: Closing the Gap to Human-Level Performance in Face Verification**
 
+- intro: CVPR 2014. Facebook AI Research
 - paper: [https://www.cs.toronto.edu/~ranzato/publications/taigman_cvpr14.pdf](https://www.cs.toronto.edu/~ranzato/publications/taigman_cvpr14.pdf)
 - slides: [http://valse.mmcheng.net/ftp/20141126/MingYang.pdf](http://valse.mmcheng.net/ftp/20141126/MingYang.pdf)
 - github: [https://github.com/RiweiChen/DeepFace](https://github.com/RiweiChen/DeepFace)
@@ -143,6 +162,7 @@ date: 2015-10-09
 - intro: Google. CVPR 2015
 - arxiv: [http://arxiv.org/abs/1503.03832](http://arxiv.org/abs/1503.03832)
 - github(Tensorflow): [https://github.com/davidsandberg/facenet](https://github.com/davidsandberg/facenet)
+- github(Caffe): [https://github.com/hizhangp/triplet](https://github.com/hizhangp/triplet)
 
 **Targeting Ultimate Accuracy: Face Recognition via Deep Embedding**
 
@@ -369,6 +389,13 @@ facial action unit recognition, and eye-gaze estimation.
 - intro: BMVC 2016
 - arxiv: [https://arxiv.org/abs/1610.06756](https://arxiv.org/abs/1610.06756)
 
+**Low-rank Bilinear Pooling for Fine-Grained Classification**
+
+- intro: CVPR 2017
+- project page: [http://www.ics.uci.edu/~skong2/lr_bilinear.html](http://www.ics.uci.edu/~skong2/lr_bilinear.html)
+- arxiv: [https://arxiv.org/abs/1611.05109](https://arxiv.org/abs/1611.05109)
+- github: [https://github.com/aimerykong/Low-Rank-Bilinear-Pooling](https://github.com/aimerykong/Low-Rank-Bilinear-Pooling)
+
 **细粒度图像分析**
 
 - intro: by 吴建鑫, NJU. VALSE 2017 Annual Progress Review Series
@@ -401,6 +428,14 @@ facial action unit recognition, and eye-gaze estimation.
 **ChineseFoodNet: A large-scale Image Dataset for Chinese Food Recognition**
 
 [https://arxiv.org/abs/1705.02743](https://arxiv.org/abs/1705.02743)
+
+**Computer vision-based food calorie estimation: dataset, method, and experiment**
+
+[https://arxiv.org/abs/1705.07632](https://arxiv.org/abs/1705.07632)
+
+**Deep Learning-Based Food Calorie Estimation Method in Dietary Assessment**
+
+[https://arxiv.org/abs/1706.04062](https://arxiv.org/abs/1706.04062)
 
 ### Instrument Recognition
 
@@ -444,6 +479,13 @@ facial action unit recognition, and eye-gaze estimation.
 
 - arxiv: [https://arxiv.org/abs/1701.02620](https://arxiv.org/abs/1701.02620)
 
+### Plant Classification
+
+**Large-Scale Plant Classification with Deep Neural Networks**
+
+- intro: Published at Proocedings of ACM Computing Frontiers Conference 2017
+- arxiv: [https://arxiv.org/abs/1706.03736](https://arxiv.org/abs/1706.03736)
+
 # Scene Recognition / Scene Classification
 
 **Learning Deep Features for Scene Recognition using Places Database**
@@ -466,11 +508,6 @@ facial action unit recognition, and eye-gaze estimation.
 **Semantic Clustering for Robust Fine-Grained Scene Recognition**
 
 - arxiv: [http://arxiv.org/abs/1607.07614](http://arxiv.org/abs/1607.07614)
-
-**Places: An Image Database for Deep Scene Understanding**
-
-- project page: [http://places.csail.mit.edu/index.html](http://places.csail.mit.edu/index.html)
-- arxiv: [https://arxiv.org/abs/1610.02055](https://arxiv.org/abs/1610.02055)
 
 ## Leaderboard
 

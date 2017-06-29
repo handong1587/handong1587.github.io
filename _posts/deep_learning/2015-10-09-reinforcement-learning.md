@@ -241,6 +241,7 @@ date: 2015-10-09
 
 - intro: Google DeepMind. 2015 Nature
 - paper: [http://www.readcube.com/articles/10.1038/nature14236?shared_access_token=Lo_2hFdW4MuqEcF3CVBZm9RgN0jAjWel9jnR3ZoTv0P5kedCCNjz3FJ2FhQCgXkApOr3ZSsJAldp-tw3IWgTseRnLpAc9xQq-vTA2Z5Ji9lg16_WvCy4SaOgpK5XXA6ecqo8d8J7l4EJsdjwai53GqKt-7JuioG0r3iV67MQIro74l6IxvmcVNKBgOwiMGi8U0izJStLpmQp6Vmi_8Lw_A%3D%3D](http://www.readcube.com/articles/10.1038/nature14236?shared_access_token=Lo_2hFdW4MuqEcF3CVBZm9RgN0jAjWel9jnR3ZoTv0P5kedCCNjz3FJ2FhQCgXkApOr3ZSsJAldp-tw3IWgTseRnLpAc9xQq-vTA2Z5Ji9lg16_WvCy4SaOgpK5XXA6ecqo8d8J7l4EJsdjwai53GqKt-7JuioG0r3iV67MQIro74l6IxvmcVNKBgOwiMGi8U0izJStLpmQp6Vmi_8Lw_A%3D%3D)
+- paper: [http://web.stanford.edu/class/psych209/Readings/MnihEtAlHassibis15NatureControlDeepRL.pdf](http://web.stanford.edu/class/psych209/Readings/MnihEtAlHassibis15NatureControlDeepRL.pdf)
 - github(Lua/Torch): [https://github.com/deepmind/dqn](https://github.com/deepmind/dqn)
 - mirror: [http://pan.baidu.com/s/1kTiwzOF](http://pan.baidu.com/s/1kTiwzOF)
 - code: [https://sites.google.com/a/deepmind.com/dqn/](https://sites.google.com/a/deepmind.com/dqn/)
@@ -346,6 +347,7 @@ date: 2015-10-09
 - github: [https://github.com/TheAbhiKumar/tensorflow-value-iteration-networks](https://github.com/TheAbhiKumar/tensorflow-value-iteration-networks)
 - github: [https://github.com/onlytailei/PyTorch-value-iteration-networks](https://github.com/onlytailei/PyTorch-value-iteration-networks)
 - github: [https://github.com/kentsommer/pytorch-value-iteration-networks](https://github.com/kentsommer/pytorch-value-iteration-networks)
+- github: [https://github.com/neka-nat/vin-keras](https://github.com/neka-nat/vin-keras)
 - notes(by Andrej Karpathy): [https://github.com/karpathy/paper-notes/blob/master/vin.md](https://github.com/karpathy/paper-notes/blob/master/vin.md)
 
 **Insights in Reinforcement Learning**
@@ -493,6 +495,12 @@ Incorporates dropout regularization and convolutional neural networks with a sep
 - intro: Stanford University
 - arxiv: [https://arxiv.org/abs/1704.05539](https://arxiv.org/abs/1704.05539)
 
+**Feature Control as Intrinsic Motivation for Hierarchical Reinforcement Learning**
+
+- intro: Imperial College London
+- arxiv: [https://arxiv.org/abs/1705.06769](https://arxiv.org/abs/1705.06769)
+- github: [https://github.com/Nat-D/FeatureControlHRL](https://github.com/Nat-D/FeatureControlHRL)
+
 ## Playing Doom
 
 **ViZDoom: A Doom-based AI Research Platform for Visual Reinforcement Learning**
@@ -519,6 +527,12 @@ Incorporates dropout regularization and convolutional neural networks with a sep
 - intro: ICPR 2016
 - arxiv: [https://arxiv.org/abs/1701.02392](https://arxiv.org/abs/1701.02392)
 - github: [https://github.com/tanmayshankar/RCNN_MDP](https://github.com/tanmayshankar/RCNN_MDP)
+
+**Shallow Updates for Deep Reinforcement Learning**
+
+- intro: The Technion & UC Berkeley
+- arxiv: [https://arxiv.org/abs/1705.07461](https://arxiv.org/abs/1705.07461)
+- github(Official): [https://github.com/Shallow-Updates-for-Deep-RL/Shallow_Updates_for_Deep_RL](https://github.com/Shallow-Updates-for-Deep-RL/Shallow_Updates_for_Deep_RL)
 
 # Projects
 
@@ -695,11 +709,15 @@ The project is dedicated to hero in life great Jesse Livermore.
 
 [https://github.com/rlcode/reinforcement-learning](https://github.com/rlcode/reinforcement-learning)
 
+**DeepRL: Highly modularized implementation of popular deep RL algorithms by PyTorch**
+
+[https://github.com/ShangtongZhang/DeepRL](https://github.com/ShangtongZhang/DeepRL)
+
 ## Play Flappy Bird
 
 **Using Deep Q-Network to Learn How To Play Flappy Bird**
 
-- github: [https://github.com/yenchenlin1994/DeepLearningFlappyBird](https://github.com/yenchenlin1994/DeepLearningFlappyBird)
+- github: [https://github.com/yenchenlin/DeepLearningFlappyBird](https://github.com/yenchenlin/DeepLearningFlappyBird)
 
 **Playing Flappy Bird Using Deep Reinforcement Learning (Based on Deep Q Learning DQN using Tensorflow)**
 

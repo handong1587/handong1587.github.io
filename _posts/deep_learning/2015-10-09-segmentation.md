@@ -27,8 +27,7 @@ date: 2015-10-09
 
 **U-Net: Convolutional Networks for Biomedical Image Segmentation**
 
-![](https://raw.githubusercontent.com/orobix/retina-unet/master/test/test_Original_GroundTruth_Prediction_3.png)
-
+- intro: conditionally accepted at MICCAI 2015
 - project page: [http://lmb.informatik.uni-freiburg.de/people/ronneber/u-net/](http://lmb.informatik.uni-freiburg.de/people/ronneber/u-net/)
 - arxiv: [http://arxiv.org/abs/1505.04597](http://arxiv.org/abs/1505.04597)
 - code+data: [http://lmb.informatik.uni-freiburg.de/people/ronneber/u-net/u-net-release-2015-10-02.tar.gz](http://lmb.informatik.uni-freiburg.de/people/ronneber/u-net/u-net-release-2015-10-02.tar.gz)
@@ -87,6 +86,11 @@ date: 2015-10-09
 - project page: [http://www.cs.toronto.edu/polyrnn/](http://www.cs.toronto.edu/polyrnn/)
 - arxiv: [https://arxiv.org/abs/1704.05548](https://arxiv.org/abs/1704.05548)
 
+**Nighttime sky/cloud image segmentation**
+
+- intro: ICIP 2017
+- arxiv: [https://arxiv.org/abs/1705.10583](https://arxiv.org/abs/1705.10583)
+
 # Foreground Object Segmentation
 
 **Pixel Objectness**
@@ -103,15 +107,14 @@ date: 2015-10-09
 
 **Fully Convolutional Networks for Semantic Segmentation**
 
+- intro: CVPR 2015, PAMI 2016
 - keywords: deconvolutional layer, crop layer
-- intro: An interesting idea in this work is that a simple interpolation filter is employed for deconvolution and 
-only the CNN part of the network is fine-tuned to learn deconvolution indirectly.
 - arxiv: [http://arxiv.org/abs/1411.4038](http://arxiv.org/abs/1411.4038)
 - arxiv(PAMI 2016): [http://arxiv.org/abs/1605.06211](http://arxiv.org/abs/1605.06211)
 - slides: [https://docs.google.com/presentation/d/1VeWFMpZ8XN7OC3URZP4WdXvOGYckoFWGVN7hApoXVnc](https://docs.google.com/presentation/d/1VeWFMpZ8XN7OC3URZP4WdXvOGYckoFWGVN7hApoXVnc)
 - slides: [http://tutorial.caffe.berkeleyvision.org/caffe-cvpr15-pixels.pdf](http://tutorial.caffe.berkeleyvision.org/caffe-cvpr15-pixels.pdf)
 - talk: [http://techtalks.tv/talks/fully-convolutional-networks-for-semantic-segmentation/61606/](http://techtalks.tv/talks/fully-convolutional-networks-for-semantic-segmentation/61606/)
-- github: [https://github.com/shelhamer/fcn.berkeleyvision.org](https://github.com/shelhamer/fcn.berkeleyvision.org)
+- github(official): [https://github.com/shelhamer/fcn.berkeleyvision.org](https://github.com/shelhamer/fcn.berkeleyvision.org)
 - github: [https://github.com/BVLC/caffe/wiki/Model-Zoo#fcn](https://github.com/BVLC/caffe/wiki/Model-Zoo#fcn)
 - github: [https://github.com/MarvinTeichmann/tensorflow-fcn](https://github.com/MarvinTeichmann/tensorflow-fcn)
 - github(Chainer): [https://github.com/wkentaro/fcn](https://github.com/wkentaro/fcn)
@@ -156,6 +159,7 @@ only the CNN part of the network is fine-tuned to learn deconvolution indirectly
 
 ![](http://liangchiehchen.com/fig/deeplab_intro.jpg)
 
+- intro: TPAMI
 - intro: 79.7% mIOU in the test set, PASCAL VOC-2012 semantic image segmentation task
 - intro: Updated version of our previous ICLR 2015 paper
 - project page: [http://liangchiehchen.com/projects/DeepLab.html](http://liangchiehchen.com/projects/DeepLab.html)
@@ -167,6 +171,13 @@ only the CNN part of the network is fine-tuned to learn deconvolution indirectly
 **DeepLabv2 (ResNet-101)**
 
 [http://liangchiehchen.com/projects/DeepLabv2_resnet.html](http://liangchiehchen.com/projects/DeepLabv2_resnet.html)
+
+## DeepLab v3
+
+**Rethinking Atrous Convolution for Semantic Image Segmentation**
+
+- intro: Google. DeepLabv3
+- arxiv: [https://arxiv.org/abs/1706.05587](https://arxiv.org/abs/1706.05587)
 
 ## CRF-RNN
 
@@ -194,11 +205,11 @@ only the CNN part of the network is fine-tuned to learn deconvolution indirectly
 
 ## DeconvNet
 
-**Learning Deconvolution Network for Semantic Segmentation (DeconvNet)**
+**Learning Deconvolution Network for Semantic Segmentation**
 
 ![](http://cvlab.postech.ac.kr/research/deconvnet/images/overall.png)
 
-- intro: ICLR 2016
+- intro: ICCV 2015. DeconvNet
 - intro: two-stage training: train the network with easy examples first and 
 fine-tune the trained network with more challenging examples later
 - project page: [http://cvlab.postech.ac.kr/research/deconvnet/](http://cvlab.postech.ac.kr/research/deconvnet/)
@@ -277,12 +288,25 @@ fine-tune the trained network with more challenging examples later
 - github(Keras): [https://github.com/nicolov/segmentation_keras](https://github.com/nicolov/segmentation_keras)
 - notes: [http://www.inference.vc/dilated-convolutions-and-kronecker-factorisation/](http://www.inference.vc/dilated-convolutions-and-kronecker-factorisation/)
 
-## TransferNet
+**Instance-aware Semantic Segmentation via Multi-task Network Cascades**
+
+![](https://raw.githubusercontent.com/daijifeng001/MNC/master/data/readme_img/example.png)
+
+- intro: CVPR 2016 oral. 1st-place winner of MS COCO 2015 segmentation competition
+- keywords: RoI warping layer, Multi-task Network Cascades (MNC)
+- arxiv: [http://arxiv.org/abs/1512.04412](http://arxiv.org/abs/1512.04412)
+- github: [https://github.com/daijifeng001/MNC](https://github.com/daijifeng001/MNC)
+
+**Object Segmentation on SpaceNet via Multi-task Network Cascades (MNC)**
+
+- blog: [https://medium.com/the-downlinq/object-segmentation-on-spacenet-via-multi-task-network-cascades-mnc-f1c89d790b42](https://medium.com/the-downlinq/object-segmentation-on-spacenet-via-multi-task-network-cascades-mnc-f1c89d790b42)
+- github: [https://github.com/lncohn/pascal_to_spacenet](https://github.com/lncohn/pascal_to_spacenet)
 
 **Learning Transferrable Knowledge for Semantic Segmentation with Deep Convolutional Neural Network**
 
 ![](http://cvlab.postech.ac.kr/research/transfernet/images/architecture.png)
 
+- intro: TransferNet
 - project page: [http://cvlab.postech.ac.kr/research/transfernet/](http://cvlab.postech.ac.kr/research/transfernet/)
 - arxiv: [http://arxiv.org/abs/1512.07928](http://arxiv.org/abs/1512.07928)
 - github: [https://github.com/maga33/TransferNet](https://github.com/maga33/TransferNet)
@@ -349,6 +373,12 @@ fine-tune the trained network with more challenging examples later
 - intro: semantic segmentation, edge detection
 - arxiv: [http://arxiv.org/abs/1609.06694](http://arxiv.org/abs/1609.06694)
 
+**Exploiting Depth from Single Monocular Images for Object Detection and Semantic Segmentation**
+
+- intro: IEEE T. Image Processing
+- intro: propose an RGB-D semantic segmentation method which applies a multi-task training scheme: semantic label prediction and depth value regression
+- arxiv: [https://arxiv.org/abs/1610.01706](https://arxiv.org/abs/1610.01706)
+
 **PixelNet: Representation of the pixels, by the pixels, and for the pixels**
 
 - intro: CMU & Adobe Research
@@ -382,6 +412,11 @@ fine-tune the trained network with more challenging examples later
 
 - arxiv: [https://arxiv.org/abs/1611.01962](https://arxiv.org/abs/1611.01962)
 
+**Gated Feedback Refinement Network for Dense Image Labeling**
+
+- intro: CVPR 2017
+- paper: [http://www.cs.umanitoba.ca/~ywang/papers/cvpr17.pdf](http://www.cs.umanitoba.ca/~ywang/papers/cvpr17.pdf)
+
 ## RefineNet
 
 **RefineNet: Multi-Path Refinement Networks with Identity Mappings for High-Resolution Semantic Segmentation**
@@ -396,6 +431,7 @@ fine-tune the trained network with more challenging examples later
 **Full-Resolution Residual Networks for Semantic Segmentation in Street Scenes**
 
 - arxiv: [https://arxiv.org/abs/1611.08323](https://arxiv.org/abs/1611.08323)
+- github: [https://github.com/TobyPDE/FRRN](https://github.com/TobyPDE/FRRN)
 
 **Semantic Segmentation using Adversarial Networks**
 
@@ -440,7 +476,8 @@ with built-in awareness of semantically meaningful boundaries. "
 
 **Understanding Convolution for Semantic Segmentation**
 
-- github: [https://arxiv.org/abs/1702.08502](https://arxiv.org/abs/1702.08502)
+- intro: UCSD & CMU & UIUC & TuSimple
+- arxiv: [https://arxiv.org/abs/1702.08502](https://arxiv.org/abs/1702.08502)
 - pretrained-models: [https://drive.google.com/drive/folders/0B72xLTlRb0SoREhISlhibFZTRmM](https://drive.google.com/drive/folders/0B72xLTlRb0SoREhISlhibFZTRmM)
 
 **Label Refinement Network for Coarse-to-Fine Semantic Segmentation**
@@ -461,6 +498,10 @@ with built-in awareness of semantically meaningful boundaries. "
 
 - intro: CVPR 2017 spotlight paper
 - arxxiv: [https://arxiv.org/abs/1704.01344](https://arxiv.org/abs/1704.01344)
+
+**Large Kernel Matters -- Improve Semantic Segmentation by Global Convolutional Network**
+
+[https://arxiv.org/abs/1703.02719](https://arxiv.org/abs/1703.02719)
 
 **Loss Max-Pooling for Semantic Image Segmentation**
 
@@ -497,6 +538,16 @@ with built-in awareness of semantically meaningful boundaries. "
 - project page: [https://codeac29.github.io/projects/linknet/](https://codeac29.github.io/projects/linknet/)
 - github: [https://github.com/e-lab/LinkNet](https://github.com/e-lab/LinkNet)
 
+**Pixel Deconvolutional Networks**
+
+- intro: Washington State University
+- arxiv: [https://arxiv.org/abs/1705.06820](https://arxiv.org/abs/1705.06820)
+
+**Incorporating Network Built-in Priors in Weakly-supervised Semantic Segmentation**
+
+- intro: IEEE TPAMI
+- arxiv: [https://arxiv.org/abs/1706.02189](https://arxiv.org/abs/1706.02189)
+
 # Instance Segmentation
 
 **Simultaneous Detection and Segmentation**
@@ -520,8 +571,12 @@ with built-in awareness of semantically meaningful boundaries. "
 **Hypercolumns for object segmentation and fine-grained localization**
 
 - intro: CVPR 2015
+- arxiv: [https://arxiv.org/abs/1411.5752](https://arxiv.org/abs/1411.5752)
 - paper: [http://www.cs.berkeley.edu/~bharath2/pubs/pdfs/BharathCVPR2015.pdf](http://www.cs.berkeley.edu/~bharath2/pubs/pdfs/BharathCVPR2015.pdf)
-- github("SDS using hypercolumns"): [https://github.com/bharath272/sds](https://github.com/bharath272/sds)
+
+**SDS using hypercolumns**
+
+- github: [https://github.com/bharath272/sds](https://github.com/bharath272/sds)
 
 **Learning to decompose for object detection and instance segmentation**
 
@@ -539,20 +594,6 @@ with built-in awareness of semantically meaningful boundaries. "
 - github(Torch): [https://github.com/bernard24/ris](https://github.com/bernard24/ris)
 - poster: [http://www.eccv2016.org/files/posters/P-4B-46.pdf](http://www.eccv2016.org/files/posters/P-4B-46.pdf)
 - youtube: [https://www.youtube.com/watch?v=l_WD2OWOqBk](https://www.youtube.com/watch?v=l_WD2OWOqBk)
-
-**Instance-aware Semantic Segmentation via Multi-task Network Cascades**
-
-![](https://raw.githubusercontent.com/daijifeng001/MNC/master/data/readme_img/example.png)
-
-- intro: CVPR 2016 oral. 1st-place winner of MS COCO 2015 segmentation competition
-- keywords: RoI warping layer, Multi-task Network Cascades (MNC)
-- arxiv: [http://arxiv.org/abs/1512.04412](http://arxiv.org/abs/1512.04412)
-- github: [https://github.com/daijifeng001/MNC](https://github.com/daijifeng001/MNC)
-
-**Object Segmentation on SpaceNet via Multi-task Network Cascades (MNC)**
-
-- blog: [https://medium.com/the-downlinq/object-segmentation-on-spacenet-via-multi-task-network-cascades-mnc-f1c89d790b42](https://medium.com/the-downlinq/object-segmentation-on-spacenet-via-multi-task-network-cascades-mnc-f1c89d790b42)
-- github: [https://github.com/lncohn/pascal_to_spacenet](https://github.com/lncohn/pascal_to_spacenet)
 
 **Instance-sensitive Fully Convolutional Networks**
 
@@ -573,8 +614,6 @@ with built-in awareness of semantically meaningful boundaries. "
 - intro: BMVC 2016
 - arxiv: [http://arxiv.org/abs/1609.02583](http://arxiv.org/abs/1609.02583)
 
-## DeepCut
-
 **DeepCut: Object Segmentation from Bounding Box Annotations using Convolutional Neural Networks**
 
 - arxiv: [http://arxiv.org/abs/1605.07866](http://arxiv.org/abs/1605.07866)
@@ -584,7 +623,7 @@ with built-in awareness of semantically meaningful boundaries. "
 - intro: ReInspect
 - arxiv: [http://arxiv.org/abs/1605.09410](http://arxiv.org/abs/1605.09410)
 
-## TA-FCN
+## TA-FCN / FCIS
 
 **Translation-aware Fully Convolutional Instance Segmentation**
 
@@ -675,7 +714,7 @@ with built-in awareness of semantically meaningful boundaries. "
 - arxiv: [https://arxiv.org/abs/1612.08843](https://arxiv.org/abs/1612.08843)
 - github: [https://github.com/voidrank/FastMask](https://github.com/voidrank/FastMask)
 
-# Scene Labeling / Parsing
+# Scene Labeling / Scene Parsing
 
 **Indoor Semantic Segmentation using depth information**
 
@@ -715,6 +754,13 @@ with built-in awareness of semantically meaningful boundaries. "
 
 - arxiv: [https://arxiv.org/abs/1608.05442](https://arxiv.org/abs/1608.05442)
 
+**Learning Deep Representations for Scene Labeling with Guided Supervision**
+
+**Learning Deep Representations for Scene Labeling with Semantic Context Guided Supervision**
+
+- intro: CUHK
+- arxiv: [https://arxiv.org/abs/1706.02493](https://arxiv.org/abs/1706.02493)
+
 ## MPF-RNN
 
 **Multi-Path Feedback Recurrent Neural Network for Scene Parsing**
@@ -729,6 +775,7 @@ with built-in awareness of semantically meaningful boundaries. "
 
 **Pyramid Scene Parsing Network**
 
+- intro: CVPR 2017
 - intro: mIoU score as 85.4% on PASCAL VOC 2012 and 80.2% on Cityscapes, 
 ranked 1st place in ImageNet Scene Parsing Challenge 2016
 - project page: [http://appsrv.cse.cuhk.edu.hk/~hszhao/projects/pspnet/index.html](http://appsrv.cse.cuhk.edu.hk/~hszhao/projects/pspnet/index.html)
@@ -811,6 +858,7 @@ ranked 1st place in ImageNet Scene Parsing Challenge 2016
 **One-Shot Video Object Segmentation**
 
 - intro: OSVOS
+- project: [http://www.vision.ee.ethz.ch/~cvlsegmentation/osvos/](http://www.vision.ee.ethz.ch/~cvlsegmentation/osvos/)
 - arxiv: [https://arxiv.org/abs/1611.05198](https://arxiv.org/abs/1611.05198)
 - github: [https://github.com/kmaninis/OSVOS-caffe](https://github.com/kmaninis/OSVOS-caffe)
 - github: [https://github.com/scaelles/OSVOS-TensorFlow](https://github.com/scaelles/OSVOS-TensorFlow)
