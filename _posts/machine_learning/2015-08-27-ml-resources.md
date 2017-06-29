@@ -176,6 +176,13 @@ based on decision tree algorithms, used for ranking, classification and many oth
 
 - blog: [https://medium.com/data-design/benchmarking-lightgbm-how-fast-is-lightgbm-vs-xgboost-7b5484746ac4#.xwkhql46h](https://medium.com/data-design/benchmarking-lightgbm-how-fast-is-lightgbm-vs-xgboost-7b5484746ac4#.xwkhql46h)
 
+**GPU-acceleration for Large-scale Tree Boosting**
+
+- intro: University of California, Davis & Google Research
+- intro: GPU Accelerated LightGBM for Histogram-based GBDT Training
+- arxiv: [https://arxiv.org/abs/1706.08359](https://arxiv.org/abs/1706.08359)
+- github: [https://github.com/huanzhang12/lightgbm-gpu](https://github.com/huanzhang12/lightgbm-gpu)
+
 # Bootstrap
 
 **Coding, Visualizing, and Animating Bootstrap Resampling**

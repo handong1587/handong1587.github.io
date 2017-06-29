@@ -111,6 +111,11 @@ date: 2015-10-09
 - arxiv: [https://arxiv.org/abs/1706.03847](https://arxiv.org/abs/1706.03847)
 - github: [https://github.com/hidasib/GRU4Rec](https://github.com/hidasib/GRU4Rec)
 
+**On Sampling Strategies for Neural Network-based Collaborative Filtering**
+
+- intro: KDD 2017. University of California, Los Angeles & Yahoo! Research & Etsy Inc
+- arxiv: [https://arxiv.org/abs/1706.07881](https://arxiv.org/abs/1706.07881)
+
 # Slides
 
 **Deep learning for music recommendation**
