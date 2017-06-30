@@ -991,6 +991,11 @@ This task involves predicting the salient regions of an image given by human eye
 
 [https://arxiv.org/abs/1706.02863](https://arxiv.org/abs/1706.02863)
 
+**Scale-Aware Face Detection**
+
+- intro: CVPR 2017
+- arxiv: [https://arxiv.org/abs/1706.09876](https://arxiv.org/abs/1706.09876)
+
 ## Facial Point / Landmark Detection
 
 **Deep Convolutional Network Cascade for Facial Point Detection**

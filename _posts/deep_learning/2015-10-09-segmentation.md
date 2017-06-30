@@ -893,6 +893,10 @@ ranked 1st place in ImageNet Scene Parsing Challenge 2016
 
 [https://arxiv.org/abs/1704.05737](https://arxiv.org/abs/1704.05737)
 
+**Flow-free Video Object Segmentation**
+
+[https://arxiv.org/abs/1706.09544](https://arxiv.org/abs/1706.09544)
+
 ## Challenge
 
 **DAVIS: Densely Annotated VIdeo Segmentation**
