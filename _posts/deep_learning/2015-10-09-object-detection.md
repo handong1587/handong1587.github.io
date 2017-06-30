@@ -888,6 +888,7 @@ This task involves predicting the salient regions of an image given by human eye
 
 - arxiv: [http://arxiv.org/abs/1508.01292](http://arxiv.org/abs/1508.01292)
 - github: [https://github.com/Bkmz21/FD-Evaluation](https://github.com/Bkmz21/FD-Evaluation)
+- github: [https://github.com/Bkmz21/CompactCNNCascade](https://github.com/Bkmz21/CompactCNNCascade)
 
 **Face Detection with End-to-End Integration of a ConvNet and a 3D Model**
 
