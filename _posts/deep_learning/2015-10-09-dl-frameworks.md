@@ -473,6 +473,14 @@ It is an experimental refactoring of Caffe, and allows a more flexible way to or
 - homepage: [https://www.nervanasys.com/deep-learning-tutorials/](https://www.nervanasys.com/deep-learning-tutorials/)
 - github: [https://github.com/NervanaSystems/neon_course](https://github.com/NervanaSystems/neon_course)
 
+# NNabla
+
+**NNabla - Neural Network Libraries by Sony**
+
+- intro: NNabla - Neural Network Libraries NNabla is a deep learning framework that is intended to be used for research, development and production. We aim it running everywhere like desktop PCs, HPC clusters, embedded devices and production servers.
+- homepage: [https://nnabla.org/](https://nnabla.org/)
+- github: [https://github.com/sony/nnabla](https://github.com/sony/nnabla)
+
 # OpenDeep
 
 **OpenDeep: a fully modular & extensible deep learning framework in Python**

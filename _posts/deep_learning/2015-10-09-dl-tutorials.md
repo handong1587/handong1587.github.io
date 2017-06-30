@@ -932,6 +932,11 @@ Implementations and ideas are largely based on papers from arxiv and implementat
 
 [https://github.com/wagamamaz/tensorflow-tutorial](https://github.com/wagamamaz/tensorflow-tutorial)
 
+**Finetuning AlexNet with TensorFlow**
+
+- blog: [https://kratzert.github.io/kratzert.github.io/2017/02/24/finetuning-alexnet-with-tensorflow.html](https://kratzert.github.io/kratzert.github.io/2017/02/24/finetuning-alexnet-with-tensorflow.html)
+- github: [https://github.com/kratzert/finetune_alexnet_with_tensorflow](https://github.com/kratzert/finetune_alexnet_with_tensorflow)
+
 ## Tensorflow on Android
 
 **A Guide to Running Tensorflow Models on Android**

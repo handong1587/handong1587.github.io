@@ -241,8 +241,9 @@ and from 73.8% to 83.1% for ResNet-50
 - intro: 23rd SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), 2017
 - arxiv: [https://arxiv.org/abs/1706.03154](https://arxiv.org/abs/1706.03154)
 
-**Multi-Label Learning with Label Enhancement**
+**Sampling Matters in Deep Embedding Learning**
 
+- intro: UT Austin & A9/Amazon
 - keywords: distance weighted sampling
 - arxiv: [https://arxiv.org/abs/1706.07567](https://arxiv.org/abs/1706.07567)
 

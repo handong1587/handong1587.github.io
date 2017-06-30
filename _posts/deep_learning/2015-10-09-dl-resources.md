@@ -2218,6 +2218,11 @@ It is based on Facebook's TorchCraft, which is a bridge between Torch and StarCr
 
 [https://arxiv.org/abs/1706.00384](https://arxiv.org/abs/1706.00384)
 
+**Methods for Interpreting and Understanding Deep Neural Networks**
+
+- intro: Technische Universit¨at Berlin & Fraunhofer Heinrich Hertz Institute
+- arxiv: [https://arxiv.org/abs/1706.07979](https://arxiv.org/abs/1706.07979)
+
 ## Tutorials and Surveys
 
 **On the Origin of Deep Learning**

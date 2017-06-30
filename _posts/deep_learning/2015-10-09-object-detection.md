@@ -217,7 +217,8 @@ date: 2015-10-09
 - github: [https://github.com/BriSkyHekun/py-darknet-yolo](https://github.com/BriSkyHekun/py-darknet-yolo)
 - github: [https://github.com/tommy-qichang/yolo.torch](https://github.com/tommy-qichang/yolo.torch)
 - github: [https://github.com/frischzenger/yolo-windows](https://github.com/frischzenger/yolo-windows)
-- gtihub: [https://github.com/AlexeyAB/yolo-windows](https://github.com/AlexeyAB/yolo-windows)
+- github: [https://github.com/AlexeyAB/yolo-windows](https://github.com/AlexeyAB/yolo-windows)
+- github: [https://github.com/nilboy/tensorflow-yolo](https://github.com/nilboy/tensorflow-yolo)
 
 **darkflow - translate darknet to tensorflow. Load trained weights, retrain/fine-tune them using tensorflow, export constant graph def to C++**
 
@@ -391,7 +392,8 @@ and 1.15s per image with it".
 
 **Exploit All the Layers: Fast and Accurate CNN Object Detector with Scale Dependent Pooling and Cascaded Rejection Classifiers**
 
-- intro: scale-dependent pooling  (SDP), cascaded rejection clas-sifiers (CRC)
+- intro: CVPR 2016
+- keywords: scale-dependent pooling  (SDP), cascaded rejection classifiers (CRC)
 - paper: [http://www-personal.umich.edu/~wgchoi/SDP-CRC_camready.pdf](http://www-personal.umich.edu/~wgchoi/SDP-CRC_camready.pdf)
 
 ## R-FCN
@@ -428,7 +430,7 @@ and 1.15s per image with it".
 
 - intro: WACV 2017. SubCNN
 - arxiv: [http://arxiv.org/abs/1604.04693](http://arxiv.org/abs/1604.04693)
-- github: [https://github.com/yuxng/SubCNN](https://github.com/yuxng/SubCNN)
+- github: [https://github.com/tanshen/SubCNN](https://github.com/tanshen/SubCNN)
 
 ## PVANET
 
@@ -541,7 +543,8 @@ Continuation of [arXiv:1608.08021](https://arxiv.org/abs/1608.08021)
 
 **Accurate Single Stage Detector Using Recurrent Rolling Convolution**
 
-- intro: CVPR 2017
+- intro: CVPR 2017. SenseTime
+- keywords: Recurrent Rolling Convolution (RRC)
 - arxiv: [https://arxiv.org/abs/1704.05776](https://arxiv.org/abs/1704.05776)
 - github: [https://github.com/xiaohaoChen/rrc_detection](https://github.com/xiaohaoChen/rrc_detection)
 
@@ -1041,6 +1044,7 @@ This task involves predicting the salient regions of an image given by human eye
 - arxiv: [http://arxiv.org/abs/1506.04878](http://arxiv.org/abs/1506.04878)
 - github: [https://github.com/Russell91/reinspect](https://github.com/Russell91/reinspect)
 - ipn: [http://nbviewer.ipython.org/github/Russell91/ReInspect/blob/master/evaluation_reinspect.ipynb](http://nbviewer.ipython.org/github/Russell91/ReInspect/blob/master/evaluation_reinspect.ipynb)
+- youtube: [https://www.youtube.com/watch?v=QeWl0h3kQ24](https://www.youtube.com/watch?v=QeWl0h3kQ24)
 
 **Detecting People in Artwork with CNNs**
 
@@ -1154,7 +1158,7 @@ This task involves predicting the salient regions of an image given by human eye
 
 **Detecting Small Signs from Large Images**
 
-- intro: IEEE Conference on Information Reuse and Integration (IRI) 2017 an oral presentation
+- intro: IEEE Conference on Information Reuse and Integration (IRI) 2017 oral
 - arxiv: [https://arxiv.org/abs/1706.08574](https://arxiv.org/abs/1706.08574)
 
 ## Boundary / Edge / Contour Detection
@@ -1373,6 +1377,7 @@ This task involves predicting the salient regions of an image given by human eye
 
 **LocNet: Improving Localization Accuracy for Object Detection**
 
+- intro: CVPR 2016 oral
 - arxiv: [http://arxiv.org/abs/1511.07763](http://arxiv.org/abs/1511.07763)
 - github: [https://github.com/gidariss/LocNet](https://github.com/gidariss/LocNet)
 

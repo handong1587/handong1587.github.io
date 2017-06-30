@@ -139,6 +139,16 @@ date: 2015-10-09
 - video: [http://research.microsoft.com/apps/video/?id=260023](http://research.microsoft.com/apps/video/?id=260023)
 - mirror: [http://pan.baidu.com/s/1boufl3x](http://pan.baidu.com/s/1boufl3x)
 
+### MobileID
+
+**MobileID: Face Model Compression by Distilling Knowledge from Neurons**
+
+- intro: AAAI 2016 Oral. CUHK
+- intro: MobileID is an extremely fast face recognition system by distilling knowledge from DeepID2
+- project page: [http://personal.ie.cuhk.edu.hk/~lz013/projects/MobileID.html](http://personal.ie.cuhk.edu.hk/~lz013/projects/MobileID.html)
+- paper: [http://personal.ie.cuhk.edu.hk/~pluo/pdf/aaai16-face-model-compression.pdf](http://personal.ie.cuhk.edu.hk/~pluo/pdf/aaai16-face-model-compression.pdf)
+- github: [https://github.com/liuziwei7/mobile-id](https://github.com/liuziwei7/mobile-id)
+
 ### DeepFace
 
 **DeepFace: Closing the Gap to Human-Level Performance in Face Verification**
@@ -255,6 +265,11 @@ date: 2015-10-09
 **L2-constrained Softmax Loss for Discriminative Face Verification**
 
 [https://arxiv.org/abs/1703.09507](https://arxiv.org/abs/1703.09507)
+
+**Low Resolution Face Recognition Using a Two-Branch Deep Convolutional Neural Network Architecture**
+
+- intro: Amirkabir University of Technology & MIT
+- arxiv: [https://arxiv.org/abs/1706.06247](https://arxiv.org/abs/1706.06247)
 
 ### Video Face Recognition
 
