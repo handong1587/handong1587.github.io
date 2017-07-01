@@ -451,6 +451,7 @@ and from 73.8% to 83.1% for ResNet-50
 **Joint Detection and Identification Feature Learning for Person Search**
 
 - intro: CVPR 2017
+- keywords: Online Instance Matching (OIM) loss function
 - homepage(dataset, code):[http://www.ee.cuhk.edu.hk/~xgwang/PS/dataset.html](http://www.ee.cuhk.edu.hk/~xgwang/PS/dataset.html)
 - arxiv: [https://arxiv.org/abs/1604.01850](https://arxiv.org/abs/1604.01850)
 - paper: [http://www.ee.cuhk.edu.hk/~xgwang/PS/paper.pdf](http://www.ee.cuhk.edu.hk/~xgwang/PS/paper.pdf)

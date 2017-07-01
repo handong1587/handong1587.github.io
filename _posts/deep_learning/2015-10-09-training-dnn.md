@@ -374,7 +374,12 @@ date: 2015-10-09
 - arxiv: [https://arxiv.org/abs/1605.06743](https://arxiv.org/abs/1605.06743)
 - github: [https://github.com/HUJI-Deep/inductive-pooling](https://github.com/HUJI-Deep/inductive-pooling)
 
-# Batch Size
+# Batch
+
+**Online Batch Selection for Faster Training of Neural Networks**
+
+- intro: Workshop paper at ICLR 2016
+- arxiv: [https://arxiv.org/abs/1511.06343](https://arxiv.org/abs/1511.06343)
 
 **On Large-Batch Training for Deep Learning: Generalization Gap and Sharp Minima**
 
