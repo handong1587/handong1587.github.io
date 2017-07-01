@@ -897,6 +897,10 @@ ranked 1st place in ImageNet Scene Parsing Challenge 2016
 
 [https://arxiv.org/abs/1706.09544](https://arxiv.org/abs/1706.09544)
 
+**Online Adaptation of Convolutional Neural Networks for Video Object Segmentation**
+
+[https://arxiv.org/abs/1706.09364](https://arxiv.org/abs/1706.09364)
+
 ## Challenge
 
 **DAVIS: Densely Annotated VIdeo Segmentation**

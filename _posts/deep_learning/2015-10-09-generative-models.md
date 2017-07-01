@@ -300,6 +300,10 @@ date: 2015-10-09
 - intro: Image-to-image translation in PyTorch (e.g. horse2zebra, edges2cats, and more)
 - github: [https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix)
 
+**Perceptual Adversarial Networks for Image-to-Image Transformation**
+
+[https://arxiv.org/abs/1706.09138](https://arxiv.org/abs/1706.09138)
+
 # Projects
 
 **Generative Adversarial Networks with Keras**
