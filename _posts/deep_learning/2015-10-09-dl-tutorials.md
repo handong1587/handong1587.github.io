@@ -742,6 +742,12 @@ Machine learning workflow, Extracting feaures from images (colours, edges, corne
 - mirror: [https://pan.baidu.com/s/1gfn1xuj](https://pan.baidu.com/s/1gfn1xuj)
 - github: [https://github.com/sujitpal/fttl-with-keras](https://github.com/sujitpal/fttl-with-keras)
 
+# MXNet
+
+**10 Deep Learning projects based on Apache MXNet**
+
+[https://medium.com/@julsimon/10-deep-learning-projects-based-on-apache-mxnet-8231109f3f64](https://medium.com/@julsimon/10-deep-learning-projects-based-on-apache-mxnet-8231109f3f64)
+
 # Theano
 
 **Theano Tutorial @ LTI, Carnegie Mellon University**
@@ -936,6 +942,10 @@ Implementations and ideas are largely based on papers from arxiv and implementat
 
 - blog: [https://kratzert.github.io/kratzert.github.io/2017/02/24/finetuning-alexnet-with-tensorflow.html](https://kratzert.github.io/kratzert.github.io/2017/02/24/finetuning-alexnet-with-tensorflow.html)
 - github: [https://github.com/kratzert/finetune_alexnet_with_tensorflow](https://github.com/kratzert/finetune_alexnet_with_tensorflow)
+
+**Deep Learning examples using Tensorflow**
+
+[https://github.com/aditya101993/Deep-Learning](https://github.com/aditya101993/Deep-Learning)
 
 ## Tensorflow on Android
 

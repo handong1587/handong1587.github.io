@@ -174,6 +174,13 @@ date: 2015-10-09
 - github(Tensorflow): [https://github.com/davidsandberg/facenet](https://github.com/davidsandberg/facenet)
 - github(Caffe): [https://github.com/hizhangp/triplet](https://github.com/hizhangp/triplet)
 
+**Real time face detection and recognition**
+
+- intro: Real time face detection and recognition base on opencv/tensorflow/mtcnn/facenet
+- github: [https://github.com/shanren7/real_time_face_recognition](https://github.com/shanren7/real_time_face_recognition)
+
+- - -
+
 **Targeting Ultimate Accuracy: Face Recognition via Deep Embedding**
 
 - intro: CVPR 2015

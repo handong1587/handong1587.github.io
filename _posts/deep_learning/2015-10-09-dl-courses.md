@@ -125,6 +125,10 @@ date: 2015-10-09
 - homepage: [http://dlsys.cs.washington.edu/](http://dlsys.cs.washington.edu/)
 - assignments: [http://dlsys.cs.washington.edu/assignments](http://dlsys.cs.washington.edu/assignments)
 
+**CSC 321 Winter 2017: Intro to Neural Networks and Machine Learning**
+
+[http://www.cs.toronto.edu/~rgrosse/courses/csc321_2017/](http://www.cs.toronto.edu/~rgrosse/courses/csc321_2017/)
+
 ## With Video Lectures
 
 **Deep Learning: Taking machine learning to the next level (Udacity)**
@@ -199,6 +203,11 @@ date: 2015-10-09
 - github: [https://github.com/yala/introdeeplearning](https://github.com/yala/introdeeplearning)
 - youtube: [https://www.youtube.com/playlist?list=PLkkuNyzb8LmxFutYuPA7B4oiMn6cjD6Rs](https://www.youtube.com/playlist?list=PLkkuNyzb8LmxFutYuPA7B4oiMn6cjD6Rs)
 - mirror: [https://pan.baidu.com/s/1qXXDCoG#list/path=%2F](https://pan.baidu.com/s/1qXXDCoG#list/path=%2F)
+
+**Edx: Deep Learning Explained**
+
+- intro: Microsoft
+- course page: [https://www.edx.org/course/deep-learning-explained-microsoft-dat236x](https://www.edx.org/course/deep-learning-explained-microsoft-dat236x)
 
 # Computer Vision
 

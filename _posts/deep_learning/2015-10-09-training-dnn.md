@@ -153,7 +153,7 @@ date: 2015-10-09
 
 **Flexible Rectified Linear Units for Improving Convolutional Neural Networks**
 
-- keywords: rectified linear unit (FReLU)
+- keywords: flexible rectified linear unit (FReLU)
 - arxiv: [https://arxiv.org/abs/1706.08098](https://arxiv.org/abs/1706.08098)
 
 ## Series on Initialization of Weights for DNN
@@ -661,24 +661,6 @@ date: 2015-10-09
 
 # Gradient Descent
 
-## AdaGrad
-
-**Adaptive Subgradient Methods for Online Learning and Stochastic Optimization**
-
-- paper: [http://www.jmlr.org/papers/volume12/duchi11a/duchi11a.pdf](http://www.jmlr.org/papers/volume12/duchi11a/duchi11a.pdf)
-
-**ADADELTA: An Adaptive Learning Rate Method**
-
-- arxiv: [http://arxiv.org/abs/1212.5701](http://arxiv.org/abs/1212.5701)
-
-## Momentum
-
-**On the importance of initialization and momentum in deep learning**
-
-- intro:  NAG: Nesterov
-- paper: [http://www.cs.toronto.edu/~fritz/absps/momentum.pdf](http://www.cs.toronto.edu/~fritz/absps/momentum.pdf)
-- paper: [http://jmlr.org/proceedings/papers/v28/sutskever13.pdf](http://jmlr.org/proceedings/papers/v28/sutskever13.pdf)
-
 **RMSProp: Divide the gradient by a running average of its recent magnitude**
 
 ![](/assets/train-dnn/rmsprop.jpg)
@@ -727,6 +709,37 @@ date: 2015-10-09
 - intro: IJCNN 2017 Accepted Paper, An extension of paper, "ADASECANT: Robust Adaptive Secant Method for Stochastic Gradient"
 - intro: Universite de Montreal & University of Oxford
 - arxiv: [https://arxiv.org/abs/1703.00788](https://arxiv.org/abs/1703.00788)
+
+**Gentle Introduction to the Adam Optimization Algorithm for Deep Learning**
+
+- blog: [http://machinelearningmastery.com/adam-optimization-algorithm-for-deep-learning/](http://machinelearningmastery.com/adam-optimization-algorithm-for-deep-learning/)
+
+## AdaGrad
+
+**Adaptive Subgradient Methods for Online Learning and Stochastic Optimization**
+
+- paper: [http://www.jmlr.org/papers/volume12/duchi11a/duchi11a.pdf](http://www.jmlr.org/papers/volume12/duchi11a/duchi11a.pdf)
+
+**ADADELTA: An Adaptive Learning Rate Method**
+
+- arxiv: [http://arxiv.org/abs/1212.5701](http://arxiv.org/abs/1212.5701)
+
+## Momentum
+
+**On the importance of initialization and momentum in deep learning**
+
+- intro:  NAG: Nesterov
+- paper: [http://www.cs.toronto.edu/~fritz/absps/momentum.pdf](http://www.cs.toronto.edu/~fritz/absps/momentum.pdf)
+- paper: [http://jmlr.org/proceedings/papers/v28/sutskever13.pdf](http://jmlr.org/proceedings/papers/v28/sutskever13.pdf)
+
+**YellowFin and the Art of Momentum Tuning**
+
+- intro: Stanford University
+- intro: auto-tuning momentum SGD optimizer
+- project page: [http://cs.stanford.edu/~zjian/project/YellowFin/](http://cs.stanford.edu/~zjian/project/YellowFin/)
+- arxiv: [https://arxiv.org/abs/1706.03471](https://arxiv.org/abs/1706.03471)
+- github(TensorFlow): [https://github.com/JianGoForIt/YellowFin](https://github.com/JianGoForIt/YellowFin)
+[https://github.com/JianGoForIt/YellowFin_Pytorch](https://github.com/JianGoForIt/YellowFin_Pytorch)
 
 # Backpropagation
 
@@ -932,3 +945,7 @@ date: 2015-10-09
 **Important nuances to train deep learning models**
 
 [http://www.erogol.com/important-nuances-train-deep-learning-models/](http://www.erogol.com/important-nuances-train-deep-learning-models/)
+
+**Train your deep model faster and sharper — two novel techniques**
+
+[https://hackernoon.com/training-your-deep-model-faster-and-sharper-e85076c3b047](https://hackernoon.com/training-your-deep-model-faster-and-sharper-e85076c3b047)

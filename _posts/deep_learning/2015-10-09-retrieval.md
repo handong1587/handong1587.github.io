@@ -376,6 +376,12 @@ and from 73.8% to 83.1% for ResNet-50
 
 [https://arxiv.org/abs/1705.08562](https://arxiv.org/abs/1705.08562)
 
+**Deep Hashing Network for Unsupervised Domain Adaptation**
+
+- intro: CVPR 2017
+- arxiv: [https://arxiv.org/abs/1706.07522](https://arxiv.org/abs/1706.07522)
+- github(MatConvNet): [https://github.com/hemanthdv/da-hash](https://github.com/hemanthdv/da-hash)
+
 ## Projects
 
 **HABIR哈希图像检索工具箱**

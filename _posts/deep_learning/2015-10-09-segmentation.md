@@ -352,6 +352,9 @@ fine-tune the trained network with more challenging examples later
 
 - arxiv: [http://arxiv.org/abs/1606.02147](http://arxiv.org/abs/1606.02147)
 - github: [https://github.com/e-lab/ENet-training](https://github.com/e-lab/ENet-training)
+- github(Caffe): [https://github.com/TimoSaemann/ENet](https://github.com/TimoSaemann/ENet)
+- github: [https://github.com/PavlosMelissinos/enet-keras](https://github.com/PavlosMelissinos/enet-keras)
+- github: [https://github.com/kwotsin/TensorFlow-ENet](https://github.com/kwotsin/TensorFlow-ENet)
 - blog: [http://culurciello.github.io/tech/2016/06/20/training-enet.html](http://culurciello.github.io/tech/2016/06/20/training-enet.html)
 
 **Fully Convolutional Networks for Dense Semantic Labelling of High-Resolution Aerial Imagery**

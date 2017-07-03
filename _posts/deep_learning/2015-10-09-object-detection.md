@@ -994,7 +994,7 @@ This task involves predicting the salient regions of an image given by human eye
 
 **Scale-Aware Face Detection**
 
-- intro: CVPR 2017
+- intro: CVPR 2017. SenseTime & Tsinghua University
 - arxiv: [https://arxiv.org/abs/1706.09876](https://arxiv.org/abs/1706.09876)
 
 ## Facial Point / Landmark Detection
@@ -1157,7 +1157,8 @@ This task involves predicting the salient regions of an image given by human eye
 
 **Rotational Rectification Network for Robust Pedestrian Detection**
 
-[https://arxiv.org/abs/1706.08917](https://arxiv.org/abs/1706.08917)
+- intro: CMU & Volvo Construction
+- arxiv: [https://arxiv.org/abs/1706.08917](https://arxiv.org/abs/1706.08917)
 
 ## Vehicle Detection
 
