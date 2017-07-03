@@ -910,6 +910,7 @@ This task involves predicting the salient regions of an image given by human eye
 - project page: [http://www.cs.cmu.edu/~peiyunh/tiny/index.html](http://www.cs.cmu.edu/~peiyunh/tiny/index.html)
 - arxiv: [https://arxiv.org/abs/1612.04402](https://arxiv.org/abs/1612.04402)
 - github: [https://github.com/peiyunh/tiny](https://github.com/peiyunh/tiny)
+- github(inference-only): [https://github.com/chinakook/hr101_mxnet](https://github.com/chinakook/hr101_mxnet)
 
 **Towards a Deep Learning Framework for Unconstrained Face Detection**
 
@@ -1073,13 +1074,29 @@ This task involves predicting the salient regions of an image given by human eye
 
 - intro: CVPR 2015
 - project page: [http://mmlab.ie.cuhk.edu.hk/projects/TA-CNN/](http://mmlab.ie.cuhk.edu.hk/projects/TA-CNN/)
-- paper: [http://arxiv.org/abs/1412.0069](http://arxiv.org/abs/1412.0069)
+- arxiv: [http://arxiv.org/abs/1412.0069](http://arxiv.org/abs/1412.0069)
 
 **Deep Learning Strong Parts for Pedestrian Detection**
 
 - intro: ICCV 2015. CUHK. DeepParts
 - intro: Achieving 11.89% average miss rate on Caltech Pedestrian Dataset
 - paper: [http://personal.ie.cuhk.edu.hk/~pluo/pdf/tianLWTiccv15.pdf](http://personal.ie.cuhk.edu.hk/~pluo/pdf/tianLWTiccv15.pdf)
+
+**Taking a Deeper Look at Pedestrians**
+
+- intro: CVPR 2015
+- arxiv: [https://arxiv.org/abs/1501.05790](https://arxiv.org/abs/1501.05790)
+
+**Convolutional Channel Features**
+
+- intro: ICCV 2015
+- arxiv: [https://arxiv.org/abs/1504.07339](https://arxiv.org/abs/1504.07339)
+- github: [https://github.com/byangderek/CCF](https://github.com/byangderek/CCF)
+
+**Learning Complexity-Aware Cascades for Deep Pedestrian Detection**
+
+- intro: ICCV 2015
+- arxiv: [https://arxiv.org/abs/1507.05348](https://arxiv.org/abs/1507.05348)
 
 **Deep convolutional neural networks for pedestrian detection**
 

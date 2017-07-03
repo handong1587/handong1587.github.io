@@ -54,6 +54,11 @@ for building Deep Learning (DL) machine learning (ML) models
 - caffe-doc: [http://caffe.berkeleyvision.org/doxygen/index.html](http://caffe.berkeleyvision.org/doxygen/index.html)
 - tutorials("CAFFE with CUDA"): [http://pan.baidu.com/s/1i4kmpyH](http://pan.baidu.com/s/1i4kmpyH)
 
+**OpenCL Caffe**
+
+- intro: an experimental, community-maintained branch
+- github: [https://github.com/BVLC/caffe/tree/opencl](https://github.com/BVLC/caffe/tree/opencl)
+
 **Caffe on both Linux and Windows**
 
 - github: [https://github.com/Microsoft/caffe](https://github.com/Microsoft/caffe)
