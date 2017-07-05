@@ -2297,6 +2297,11 @@ It is based on Facebook's TorchCraft, which is a bridge between Torch and StarCr
 - blog: [http://machinethink.net/blog/googles-mobile-net-architecture-on-iphone/](http://machinethink.net/blog/googles-mobile-net-architecture-on-iphone/)
 - github: [https://github.com/hollance/MobileNet-CoreML](https://github.com/hollance/MobileNet-CoreML)
 
+**ShuffleNet: An Extremely Efficient Convolutional Neural Network for Mobile Devices**
+
+- intro: Megvii Inc (Face++)
+- arxiv: [https://arxiv.org/abs/1707.01083](https://arxiv.org/abs/1707.01083)
+
 ## STDP
 
 **A biological gradient descent for prediction through a combination of STDP and homeostatic plasticity**

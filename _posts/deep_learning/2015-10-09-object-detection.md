@@ -574,6 +574,10 @@ Continuation of [arXiv:1608.08021](https://arxiv.org/abs/1608.08021)
 
 [https://arxiv.org/abs/1706.08249](https://arxiv.org/abs/1706.08249)
 
+**SMC Faster R-CNN: Toward a scene-specialized multi-object detector**
+
+[https://arxiv.org/abs/1706.10217](https://arxiv.org/abs/1706.10217)
+
 ## NMS
 
 **End-to-End Integration of a Convolutional Network, Deformable Parts Model and Non-Maximum Suppression**

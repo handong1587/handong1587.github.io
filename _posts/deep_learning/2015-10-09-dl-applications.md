@@ -898,12 +898,21 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 - intro: COMSATS Institute of IT (CIIT)
 - arxiv: [https://arxiv.org/abs/1706.09077](https://arxiv.org/abs/1706.09077)
 
+**High-Quality Face Image SR Using Conditional Generative Adversarial Networks**
+
+[https://arxiv.org/abs/1707.00737](https://arxiv.org/abs/1707.00737)
+
 ## Video Super-resolution
 
 **Detail-revealing Deep Video Super-resolution**
 
 - arxiv: [https://arxiv.org/abs/1704.02738](https://arxiv.org/abs/1704.02738)
 - github: [https://github.com/jiangsutx/SPMC_VideoSR](https://github.com/jiangsutx/SPMC_VideoSR)
+
+**End-to-End Learning of Video Super-Resolution with Motion Compensation**
+
+- intro: GCPR 2017
+- arxiv: [https://arxiv.org/abs/1707.00471](https://arxiv.org/abs/1707.00471)
 
 # Image Denoising
 

@@ -247,6 +247,16 @@ and from 73.8% to 83.1% for ResNet-50
 - keywords: distance weighted sampling
 - arxiv: [https://arxiv.org/abs/1706.07567](https://arxiv.org/abs/1706.07567)
 
+**One-Shot Fine-Grained Instance Retrieval**
+
+- intro: ACM MM 2017
+- arxiv: [https://arxiv.org/abs/1707.00811](https://arxiv.org/abs/1707.00811)
+
+**Selective Deep Convolutional Features for Image Retrieval**
+
+- intro: ACM MM 2017
+- arxiv: [https://arxiv.org/abs/1707.00809](https://arxiv.org/abs/1707.00809)
+
 # Hashing
 
 **Supervised Hashing for Image Retrieval via Image Representation Learning**
@@ -523,6 +533,14 @@ and from 73.8% to 83.1% for ResNet-50
 - intro: CVPR 2017 Workshop (vision meets cognition)
 - keywords: Bidirectional Long Short- Term Memory (BLSTM)
 - arxiv: [https://arxiv.org/abs/1705.08923](https://arxiv.org/abs/1705.08923)
+
+**Deep Representation Learning with Part Loss for Person Re-Identification**
+
+[https://arxiv.org/abs/1707.00798](https://arxiv.org/abs/1707.00798)
+
+**Pedestrian Alignment Network for Large-scale Person Re-identification**
+
+[https://arxiv.org/abs/1707.00408](https://arxiv.org/abs/1707.00408)
 
 ## Person Search
 

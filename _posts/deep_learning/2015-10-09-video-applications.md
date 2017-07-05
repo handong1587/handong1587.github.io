@@ -154,6 +154,11 @@ date: 2015-10-09
 - arxiv: [https://arxiv.org/abs/1706.06905](https://arxiv.org/abs/1706.06905)
 - github: [https://github.com/antoine77340/LOUPE](https://github.com/antoine77340/LOUPE)
 
+**Aggregating Frame-level Features for Large-Scale Video Classification**
+
+- intro: Youtube-8M Challenge, 4th place
+- arxiv: [https://arxiv.org/abs/1707.00803](https://arxiv.org/abs/1707.00803)
+
 ## Action Detection / Activity Recognition
 
 **3d convolutional neural networks for human action recognition**
