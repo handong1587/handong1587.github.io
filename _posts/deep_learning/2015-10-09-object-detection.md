@@ -217,7 +217,8 @@ date: 2015-10-09
 - github: [https://github.com/BriSkyHekun/py-darknet-yolo](https://github.com/BriSkyHekun/py-darknet-yolo)
 - github: [https://github.com/tommy-qichang/yolo.torch](https://github.com/tommy-qichang/yolo.torch)
 - github: [https://github.com/frischzenger/yolo-windows](https://github.com/frischzenger/yolo-windows)
-- gtihub: [https://github.com/AlexeyAB/yolo-windows](https://github.com/AlexeyAB/yolo-windows)
+- github: [https://github.com/AlexeyAB/yolo-windows](https://github.com/AlexeyAB/yolo-windows)
+- github: [https://github.com/nilboy/tensorflow-yolo](https://github.com/nilboy/tensorflow-yolo)
 
 **darkflow - translate darknet to tensorflow. Load trained weights, retrain/fine-tune them using tensorflow, export constant graph def to C++**
 
@@ -391,7 +392,8 @@ and 1.15s per image with it".
 
 **Exploit All the Layers: Fast and Accurate CNN Object Detector with Scale Dependent Pooling and Cascaded Rejection Classifiers**
 
-- intro: scale-dependent pooling  (SDP), cascaded rejection clas-sifiers (CRC)
+- intro: CVPR 2016
+- keywords: scale-dependent pooling  (SDP), cascaded rejection classifiers (CRC)
 - paper: [http://www-personal.umich.edu/~wgchoi/SDP-CRC_camready.pdf](http://www-personal.umich.edu/~wgchoi/SDP-CRC_camready.pdf)
 
 ## R-FCN
@@ -428,7 +430,7 @@ and 1.15s per image with it".
 
 - intro: WACV 2017. SubCNN
 - arxiv: [http://arxiv.org/abs/1604.04693](http://arxiv.org/abs/1604.04693)
-- github: [https://github.com/yuxng/SubCNN](https://github.com/yuxng/SubCNN)
+- github: [https://github.com/tanshen/SubCNN](https://github.com/tanshen/SubCNN)
 
 ## PVANET
 
@@ -541,7 +543,8 @@ Continuation of [arXiv:1608.08021](https://arxiv.org/abs/1608.08021)
 
 **Accurate Single Stage Detector Using Recurrent Rolling Convolution**
 
-- intro: CVPR 2017
+- intro: CVPR 2017. SenseTime
+- keywords: Recurrent Rolling Convolution (RRC)
 - arxiv: [https://arxiv.org/abs/1704.05776](https://arxiv.org/abs/1704.05776)
 - github: [https://github.com/xiaohaoChen/rrc_detection](https://github.com/xiaohaoChen/rrc_detection)
 
@@ -888,6 +891,7 @@ This task involves predicting the salient regions of an image given by human eye
 
 - arxiv: [http://arxiv.org/abs/1508.01292](http://arxiv.org/abs/1508.01292)
 - github: [https://github.com/Bkmz21/FD-Evaluation](https://github.com/Bkmz21/FD-Evaluation)
+- github: [https://github.com/Bkmz21/CompactCNNCascade](https://github.com/Bkmz21/CompactCNNCascade)
 
 **Face Detection with End-to-End Integration of a ConvNet and a 3D Model**
 
@@ -906,6 +910,7 @@ This task involves predicting the salient regions of an image given by human eye
 - project page: [http://www.cs.cmu.edu/~peiyunh/tiny/index.html](http://www.cs.cmu.edu/~peiyunh/tiny/index.html)
 - arxiv: [https://arxiv.org/abs/1612.04402](https://arxiv.org/abs/1612.04402)
 - github: [https://github.com/peiyunh/tiny](https://github.com/peiyunh/tiny)
+- github(inference-only): [https://github.com/chinakook/hr101_mxnet](https://github.com/chinakook/hr101_mxnet)
 
 **Towards a Deep Learning Framework for Unconstrained Face Detection**
 
@@ -987,6 +992,11 @@ This task involves predicting the salient regions of an image given by human eye
 
 [https://arxiv.org/abs/1706.02863](https://arxiv.org/abs/1706.02863)
 
+**Scale-Aware Face Detection**
+
+- intro: CVPR 2017. SenseTime & Tsinghua University
+- arxiv: [https://arxiv.org/abs/1706.09876](https://arxiv.org/abs/1706.09876)
+
 ## Facial Point / Landmark Detection
 
 **Deep Convolutional Network Cascade for Facial Point Detection**
@@ -1040,6 +1050,7 @@ This task involves predicting the salient regions of an image given by human eye
 - arxiv: [http://arxiv.org/abs/1506.04878](http://arxiv.org/abs/1506.04878)
 - github: [https://github.com/Russell91/reinspect](https://github.com/Russell91/reinspect)
 - ipn: [http://nbviewer.ipython.org/github/Russell91/ReInspect/blob/master/evaluation_reinspect.ipynb](http://nbviewer.ipython.org/github/Russell91/ReInspect/blob/master/evaluation_reinspect.ipynb)
+- youtube: [https://www.youtube.com/watch?v=QeWl0h3kQ24](https://www.youtube.com/watch?v=QeWl0h3kQ24)
 
 **Detecting People in Artwork with CNNs**
 
@@ -1063,13 +1074,29 @@ This task involves predicting the salient regions of an image given by human eye
 
 - intro: CVPR 2015
 - project page: [http://mmlab.ie.cuhk.edu.hk/projects/TA-CNN/](http://mmlab.ie.cuhk.edu.hk/projects/TA-CNN/)
-- paper: [http://arxiv.org/abs/1412.0069](http://arxiv.org/abs/1412.0069)
+- arxiv: [http://arxiv.org/abs/1412.0069](http://arxiv.org/abs/1412.0069)
 
 **Deep Learning Strong Parts for Pedestrian Detection**
 
 - intro: ICCV 2015. CUHK. DeepParts
 - intro: Achieving 11.89% average miss rate on Caltech Pedestrian Dataset
 - paper: [http://personal.ie.cuhk.edu.hk/~pluo/pdf/tianLWTiccv15.pdf](http://personal.ie.cuhk.edu.hk/~pluo/pdf/tianLWTiccv15.pdf)
+
+**Taking a Deeper Look at Pedestrians**
+
+- intro: CVPR 2015
+- arxiv: [https://arxiv.org/abs/1501.05790](https://arxiv.org/abs/1501.05790)
+
+**Convolutional Channel Features**
+
+- intro: ICCV 2015
+- arxiv: [https://arxiv.org/abs/1504.07339](https://arxiv.org/abs/1504.07339)
+- github: [https://github.com/byangderek/CCF](https://github.com/byangderek/CCF)
+
+**Learning Complexity-Aware Cascades for Deep Pedestrian Detection**
+
+- intro: ICCV 2015
+- arxiv: [https://arxiv.org/abs/1507.05348](https://arxiv.org/abs/1507.05348)
 
 **Deep convolutional neural networks for pedestrian detection**
 
@@ -1130,7 +1157,8 @@ This task involves predicting the salient regions of an image given by human eye
 
 **Rotational Rectification Network for Robust Pedestrian Detection**
 
-[https://arxiv.org/abs/1706.08917](https://arxiv.org/abs/1706.08917)
+- intro: CMU & Volvo Construction
+- arxiv: [https://arxiv.org/abs/1706.08917](https://arxiv.org/abs/1706.08917)
 
 ## Vehicle Detection
 
@@ -1153,7 +1181,7 @@ This task involves predicting the salient regions of an image given by human eye
 
 **Detecting Small Signs from Large Images**
 
-- intro: IEEE Conference on Information Reuse and Integration (IRI) 2017 an oral presentation
+- intro: IEEE Conference on Information Reuse and Integration (IRI) 2017 oral
 - arxiv: [https://arxiv.org/abs/1706.08574](https://arxiv.org/abs/1706.08574)
 
 ## Boundary / Edge / Contour Detection
@@ -1372,6 +1400,7 @@ This task involves predicting the salient regions of an image given by human eye
 
 **LocNet: Improving Localization Accuracy for Object Detection**
 
+- intro: CVPR 2016 oral
 - arxiv: [http://arxiv.org/abs/1511.07763](http://arxiv.org/abs/1511.07763)
 - github: [https://github.com/gidariss/LocNet](https://github.com/gidariss/LocNet)
 

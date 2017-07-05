@@ -118,7 +118,10 @@ date: 2015-10-09
 
 **VisualBackProp: visualizing CNNs for autonomous driving**
 
+**VisualBackProp: efficient visualization of CNNs**
+
 - arxiv: [https://arxiv.org/abs/1611.05418](https://arxiv.org/abs/1611.05418)
+- github: [https://github.com/mbojarski/VisualBackProp](https://github.com/mbojarski/VisualBackProp)
 
 **Grad-CAM: Why did you say that? Visual Explanations from Deep Networks via Gradient-based Localization**
 
@@ -199,6 +202,11 @@ date: 2015-10-09
 
 - github: [https://github.com/raghakot/keras-vis](https://github.com/raghakot/keras-vis)
 - docs: [https://raghakot.github.io/keras-vis/](https://raghakot.github.io/keras-vis/)
+
+**mNeuron: A Matlab Plugin to Visualize Neurons from Deep Models**
+
+- project page: [http://vision03.csail.mit.edu/cnn_art/](http://vision03.csail.mit.edu/cnn_art/)
+- github: [https://github.com/donglaiw/mNeuron](https://github.com/donglaiw/mNeuron)
 
 # Blogs
 

@@ -276,6 +276,12 @@ after the embedding and recurrent layers of the RNN."
 
 [https://arxiv.org/abs/1705.00930](https://arxiv.org/abs/1705.00930)
 
+**Actor-Critic Sequence Training for Image Captioning**
+
+- intro: Queen Mary University of London & Yang’s Accounting Consultancy Ltd
+- keywords: actor-critic reinforcement learning
+- arxiv: [https://arxiv.org/abs/1706.09601](https://arxiv.org/abs/1706.09601)
+
 # Object Descriptions
 
 **Generation and Comprehension of Unambiguous Object Descriptions**

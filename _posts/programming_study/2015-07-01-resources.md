@@ -623,6 +623,12 @@ control a spaceship in order to complete some objective.
 - intro: Convert any video file to an optimized animated GIF. Either in its full length or only a part of it.
 - github: [https://github.com/vvo/gifify](https://github.com/vvo/gifify)
 
+**pdf-diff: A PDF comparison utility in Python**
+
+![](https://raw.githubusercontent.com/JoshData/pdf-diff/master/example.png)
+
+[https://github.com/JoshData/pdf-diff](https://github.com/JoshData/pdf-diff)
+
 ## Multi-media
 
 **cmus — C* Music Player**

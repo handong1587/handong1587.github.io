@@ -315,6 +315,15 @@ date: 2015-10-09
 
 - arxiv: [http://arxiv.org/abs/1601.06823](http://arxiv.org/abs/1601.06823)
 
+**Attention in Long Short-Term Memory Recurrent Neural Networks**
+
+- blog: [http://machinelearningmastery.com/attention-long-short-term-memory-recurrent-neural-networks/](http://machinelearningmastery.com/attention-long-short-term-memory-recurrent-neural-networks/)
+
+**How to Visualize Your Recurrent Neural Network with Attention in Keras**
+
+- blog: [https://medium.com/datalogue/attention-in-keras-1892773a4f22](https://medium.com/datalogue/attention-in-keras-1892773a4f22)
+- github: [https://github.com/datalogue/keras-attention](https://github.com/datalogue/keras-attention)
+
 # Papers
 
 **Generating Sequences With Recurrent Neural Networks**
@@ -784,6 +793,10 @@ date: 2015-10-09
 **Non-Zero Initial States for Recurrent Neural Networks**
 
 - blog: [http://r2rt.com/non-zero-initial-states-for-recurrent-neural-networks.html](http://r2rt.com/non-zero-initial-states-for-recurrent-neural-networks.html)
+
+**Interpreting neurons in an LSTM network**
+
+[http://yerevann.github.io/2017/06/27/interpreting-neurons-in-an-LSTM-network/](http://yerevann.github.io/2017/06/27/interpreting-neurons-in-an-LSTM-network/)
 
 ## Optimizing RNN (Baidu Silicon Valley AI Lab)
 

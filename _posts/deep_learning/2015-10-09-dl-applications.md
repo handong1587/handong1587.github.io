@@ -893,6 +893,11 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 - intro: South China University of Technology
 - arxiv: [https://arxiv.org/abs/1705.05084](https://arxiv.org/abs/1705.05084)
 
+**Super-Resolution via Deep Learning**
+
+- intro: COMSATS Institute of IT (CIIT)
+- arxiv: [https://arxiv.org/abs/1706.09077](https://arxiv.org/abs/1706.09077)
+
 ## Video Super-resolution
 
 **Detail-revealing Deep Video Super-resolution**

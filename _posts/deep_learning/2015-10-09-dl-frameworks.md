@@ -54,6 +54,11 @@ for building Deep Learning (DL) machine learning (ML) models
 - caffe-doc: [http://caffe.berkeleyvision.org/doxygen/index.html](http://caffe.berkeleyvision.org/doxygen/index.html)
 - tutorials("CAFFE with CUDA"): [http://pan.baidu.com/s/1i4kmpyH](http://pan.baidu.com/s/1i4kmpyH)
 
+**OpenCL Caffe**
+
+- intro: an experimental, community-maintained branch
+- github: [https://github.com/BVLC/caffe/tree/opencl](https://github.com/BVLC/caffe/tree/opencl)
+
 **Caffe on both Linux and Windows**
 
 - github: [https://github.com/Microsoft/caffe](https://github.com/Microsoft/caffe)
@@ -472,6 +477,14 @@ It is an experimental refactoring of Caffe, and allows a more flexible way to or
 
 - homepage: [https://www.nervanasys.com/deep-learning-tutorials/](https://www.nervanasys.com/deep-learning-tutorials/)
 - github: [https://github.com/NervanaSystems/neon_course](https://github.com/NervanaSystems/neon_course)
+
+# NNabla
+
+**NNabla - Neural Network Libraries by Sony**
+
+- intro: NNabla - Neural Network Libraries NNabla is a deep learning framework that is intended to be used for research, development and production. We aim it running everywhere like desktop PCs, HPC clusters, embedded devices and production servers.
+- homepage: [https://nnabla.org/](https://nnabla.org/)
+- github: [https://github.com/sony/nnabla](https://github.com/sony/nnabla)
 
 # OpenDeep
 

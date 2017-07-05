@@ -1681,6 +1681,10 @@ with fast exact probabilistic inference over many layers."
 
 - blog: [https://amundtveit.com/2016/11/22/deep-learning-for-music/](https://amundtveit.com/2016/11/22/deep-learning-for-music/)
 
+**First International Workshop on Deep Learning and Music**
+
+[https://arxiv.org/html/1706.08675](https://arxiv.org/html/1706.08675)
+
 # Deep Learning on Games
 
 **TorchCraft: a Library for Machine Learning Research on Real-Time Strategy Games**
@@ -2218,6 +2222,11 @@ It is based on Facebook's TorchCraft, which is a bridge between Torch and StarCr
 
 [https://arxiv.org/abs/1706.00384](https://arxiv.org/abs/1706.00384)
 
+**Methods for Interpreting and Understanding Deep Neural Networks**
+
+- intro: Technische Universit¨at Berlin & Fraunhofer Heinrich Hertz Institute
+- arxiv: [https://arxiv.org/abs/1706.07979](https://arxiv.org/abs/1706.07979)
+
 ## Tutorials and Surveys
 
 **On the Origin of Deep Learning**
@@ -2255,9 +2264,10 @@ It is based on Facebook's TorchCraft, which is a bridge between Torch and StarCr
 
 - intro: Extreme Inception
 - arxiv: [https://arxiv.org/abs/1610.02357](https://arxiv.org/abs/1610.02357)
-- code(Keras): [https://keras.io/applications/#xception](https://keras.io/applications/#xception)
+- code: [https://keras.io/applications/#xception](https://keras.io/applications/#xception)
 - github(Keras): [https://github.com/fchollet/deep-learning-models/blob/master/xception.py](https://github.com/fchollet/deep-learning-models/blob/master/xception.py)
 - github: [https://gist.github.com/culurciello/554c8e56d3bbaf7c66bf66c6089dc221](https://gist.github.com/culurciello/554c8e56d3bbaf7c66bf66c6089dc221)
+- github: [https://github.com/kwotsin/Tensorflow-Xception](https://github.com/kwotsin/Tensorflow-Xception)
 - notes: [http://www.shortscience.org/paper?bibtexKey=journals%2Fcorr%2F1610.02357](http://www.shortscience.org/paper?bibtexKey=journals%2Fcorr%2F1610.02357)
 
 **Towards a New Interpretation of Separable Convolutions**

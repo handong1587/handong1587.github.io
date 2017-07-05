@@ -161,6 +161,10 @@ Contains all the popular DL frameworks (TensorFlow, Theano, Torch, Caffe, etc.)
 **Setting up a Deep learning machine in a lazy yet quick way**
 [https://medium.com/@sravsatuluri/setting-up-a-deep-learning-machine-in-a-lazy-yet-quick-way-be2642318850#.jrxrkfxa2](https://medium.com/@sravsatuluri/setting-up-a-deep-learning-machine-in-a-lazy-yet-quick-way-be2642318850#.jrxrkfxa2)
 
+**Deep Confusion: Misadventures In Building A Deep Learning Machine**
+
+[http://www.topbots.com/deep-confusion-misadventures-in-building-a-machine-learning-server/](http://www.topbots.com/deep-confusion-misadventures-in-building-a-machine-learning-server/)
+
 # GPU
 
 **Which GPU(s) to Get for Deep Learning: My Experience and Advice for Using GPUs in Deep Learning**

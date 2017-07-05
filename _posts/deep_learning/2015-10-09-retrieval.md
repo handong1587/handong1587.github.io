@@ -241,8 +241,9 @@ and from 73.8% to 83.1% for ResNet-50
 - intro: 23rd SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), 2017
 - arxiv: [https://arxiv.org/abs/1706.03154](https://arxiv.org/abs/1706.03154)
 
-**Multi-Label Learning with Label Enhancement**
+**Sampling Matters in Deep Embedding Learning**
 
+- intro: UT Austin & A9/Amazon
 - keywords: distance weighted sampling
 - arxiv: [https://arxiv.org/abs/1706.07567](https://arxiv.org/abs/1706.07567)
 
@@ -375,6 +376,12 @@ and from 73.8% to 83.1% for ResNet-50
 
 [https://arxiv.org/abs/1705.08562](https://arxiv.org/abs/1705.08562)
 
+**Deep Hashing Network for Unsupervised Domain Adaptation**
+
+- intro: CVPR 2017
+- arxiv: [https://arxiv.org/abs/1706.07522](https://arxiv.org/abs/1706.07522)
+- github(MatConvNet): [https://github.com/hemanthdv/da-hash](https://github.com/hemanthdv/da-hash)
+
 ## Projects
 
 **HABIR哈希图像检索工具箱**
@@ -445,21 +452,16 @@ and from 73.8% to 83.1% for ResNet-50
 
 - arxiv: [http://arxiv.org/abs/1601.07255](http://arxiv.org/abs/1601.07255)
 
-**End-to-End Deep Learning for Person Search**
-
-**Joint Detection and Identification Feature Learning for Person Search**
-
-- intro: CVPR 2017
-- homepage(dataset, code):[http://www.ee.cuhk.edu.hk/~xgwang/PS/dataset.html](http://www.ee.cuhk.edu.hk/~xgwang/PS/dataset.html)
-- arxiv: [https://arxiv.org/abs/1604.01850](https://arxiv.org/abs/1604.01850)
-- paper: [http://www.ee.cuhk.edu.hk/~xgwang/PS/paper.pdf](http://www.ee.cuhk.edu.hk/~xgwang/PS/paper.pdf)
-- github(official, Caffe): [https://github.com/ShuangLI59/person_search](https://github.com/ShuangLI59/person_search)
-
 **Learning Deep Feature Representations with Domain Guided Dropout for Person Re-identification**
 
 - intro: CVPR 2016
 - arxiv: [https://arxiv.org/abs/1604.07528](https://arxiv.org/abs/1604.07528)
 - github: [https://github.com/Cysu/dgd_person_reid](https://github.com/Cysu/dgd_person_reid)
+
+**Person Re-Identification by Multi-Channel Parts-Based CNN with Improved Triplet Loss Function**
+
+- intro: CVPR 2016
+- paper: [http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Cheng_Person_Re-Identification_by_CVPR_2016_paper.pdf](http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Cheng_Person_Re-Identification_by_CVPR_2016_paper.pdf)
 
 **A Multi-task Deep Network for Person Re-identification**
 
@@ -521,6 +523,19 @@ and from 73.8% to 83.1% for ResNet-50
 - intro: CVPR 2017 Workshop (vision meets cognition)
 - keywords: Bidirectional Long Short- Term Memory (BLSTM)
 - arxiv: [https://arxiv.org/abs/1705.08923](https://arxiv.org/abs/1705.08923)
+
+## Person Search
+
+**End-to-End Deep Learning for Person Search**
+
+**Joint Detection and Identification Feature Learning for Person Search**
+
+- intro: CVPR 2017
+- keywords: Online Instance Matching (OIM) loss function
+- homepage(dataset+code):[http://www.ee.cuhk.edu.hk/~xgwang/PS/dataset.html](http://www.ee.cuhk.edu.hk/~xgwang/PS/dataset.html)
+- arxiv: [https://arxiv.org/abs/1604.01850](https://arxiv.org/abs/1604.01850)
+- paper: [http://www.ee.cuhk.edu.hk/~xgwang/PS/paper.pdf](http://www.ee.cuhk.edu.hk/~xgwang/PS/paper.pdf)
+- github(official. Caffe): [https://github.com/ShuangLI59/person_search](https://github.com/ShuangLI59/person_search)
 
 ## Video-based Person Re-Identification
 

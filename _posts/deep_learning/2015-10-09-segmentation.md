@@ -9,8 +9,6 @@ date: 2015-10-09
 
 **Deep Joint Task Learning for Generic Object Extraction**
 
-![](http://vision.sysu.edu.cn/vision_sysu/wp-content/uploads/2013/05/%E5%B0%8FQ%E6%88%AA%E5%9B%BE-20141019095211.png)
-
 - intro: NIPS 2014
 - homepage: [http://vision.sysu.edu.cn/projects/deep-joint-task-learning/](http://vision.sysu.edu.cn/projects/deep-joint-task-learning/)
 - paper: [http://ss.sysu.edu.cn/~ll/files/NIPS2014_JointTask.pdf](http://ss.sysu.edu.cn/~ll/files/NIPS2014_JointTask.pdf)
@@ -281,11 +279,12 @@ fine-tune the trained network with more challenging examples later
 
 ![](http://vladlen.info/wp-content/uploads/2016/02/dilated-convolutions1-894x263.png)
 
-- intro: ICLR 2016. Dilated Convolution for Semantic Image Segmentation
+- intro: ICLR 2016.
+- intro: Dilated Convolution for Semantic Image Segmentation
 - homepage: [http://vladlen.info/publications/multi-scale-context-aggregation-by-dilated-convolutions/](http://vladlen.info/publications/multi-scale-context-aggregation-by-dilated-convolutions/)
 - arxiv: [http://arxiv.org/abs/1511.07122](http://arxiv.org/abs/1511.07122)
 - github: [https://github.com/fyu/dilation](https://github.com/fyu/dilation)
-- github(Keras): [https://github.com/nicolov/segmentation_keras](https://github.com/nicolov/segmentation_keras)
+- github: [https://github.com/nicolov/segmentation_keras](https://github.com/nicolov/segmentation_keras)
 - notes: [http://www.inference.vc/dilated-convolutions-and-kronecker-factorisation/](http://www.inference.vc/dilated-convolutions-and-kronecker-factorisation/)
 
 **Instance-aware Semantic Segmentation via Multi-task Network Cascades**
@@ -327,10 +326,17 @@ fine-tune the trained network with more challenging examples later
 
 **ScribbleSup: Scribble-Supervised Convolutional Networks for Semantic Segmentation**
 
-![](http://research.microsoft.com/en-us/um/people/jifdai/downloads/scribble_sup/Figures/scribble_example_12.jpg)
-
 - project page: [http://research.microsoft.com/en-us/um/people/jifdai/downloads/scribble_sup/](http://research.microsoft.com/en-us/um/people/jifdai/downloads/scribble_sup/)
 - arxiv: [http://arxiv.org/abs/1604.05144](http://arxiv.org/abs/1604.05144)
+
+**Laplacian Reconstruction and Refinement for Semantic Segmentation**
+
+**Laplacian Pyramid Reconstruction and Refinement for Semantic Segmentation**
+
+- intro: ECCV 2016
+- arxiv: [https://arxiv.org/abs/1605.02264](https://arxiv.org/abs/1605.02264)
+- paper: [https://www.ics.uci.edu/~fowlkes/papers/gf-eccv16.pdf](https://www.ics.uci.edu/~fowlkes/papers/gf-eccv16.pdf)
+- github(MatConvNet): [https://github.com/golnazghiasi/LRR](https://github.com/golnazghiasi/LRR)
 
 **Natural Scene Image Segmentation Based on Multi-Layer Feature Extraction**
 
@@ -346,6 +352,9 @@ fine-tune the trained network with more challenging examples later
 
 - arxiv: [http://arxiv.org/abs/1606.02147](http://arxiv.org/abs/1606.02147)
 - github: [https://github.com/e-lab/ENet-training](https://github.com/e-lab/ENet-training)
+- github(Caffe): [https://github.com/TimoSaemann/ENet](https://github.com/TimoSaemann/ENet)
+- github: [https://github.com/PavlosMelissinos/enet-keras](https://github.com/PavlosMelissinos/enet-keras)
+- github: [https://github.com/kwotsin/TensorFlow-ENet](https://github.com/kwotsin/TensorFlow-ENet)
 - blog: [http://culurciello.github.io/tech/2016/06/20/training-enet.html](http://culurciello.github.io/tech/2016/06/20/training-enet.html)
 
 **Fully Convolutional Networks for Dense Semantic Labelling of High-Resolution Aerial Imagery**
@@ -430,8 +439,10 @@ fine-tune the trained network with more challenging examples later
 
 **Full-Resolution Residual Networks for Semantic Segmentation in Street Scenes**
 
+- keywords: Full-Resolution Residual Units (FRRU), Full-Resolution Residual Networks (FRRNs)
 - arxiv: [https://arxiv.org/abs/1611.08323](https://arxiv.org/abs/1611.08323)
-- github: [https://github.com/TobyPDE/FRRN](https://github.com/TobyPDE/FRRN)
+- github(Theano/Lasagne): [https://github.com/TobyPDE/FRRN](https://github.com/TobyPDE/FRRN)
+- youtube: [https://www.youtube.com/watch?v=PNzQ4PNZSzc](https://www.youtube.com/watch?v=PNzQ4PNZSzc)
 
 **Semantic Segmentation using Adversarial Networks**
 
@@ -607,6 +618,7 @@ with built-in awareness of semantically meaningful boundaries. "
 
 **Bridging Category-level and Instance-level Semantic Image Segmentation**
 
+- keywords: online bootstrapping
 - arxiv: [http://arxiv.org/abs/1605.06885](http://arxiv.org/abs/1605.06885)
 
 **Bottom-up Instance Segmentation using Deep Higher-Order CRFs**
@@ -892,6 +904,14 @@ ranked 1st place in ImageNet Scene Parsing Challenge 2016
 **Learning Video Object Segmentation with Visual Memory**
 
 [https://arxiv.org/abs/1704.05737](https://arxiv.org/abs/1704.05737)
+
+**Flow-free Video Object Segmentation**
+
+[https://arxiv.org/abs/1706.09544](https://arxiv.org/abs/1706.09544)
+
+**Online Adaptation of Convolutional Neural Networks for Video Object Segmentation**
+
+[https://arxiv.org/abs/1706.09364](https://arxiv.org/abs/1706.09364)
 
 ## Challenge
 
