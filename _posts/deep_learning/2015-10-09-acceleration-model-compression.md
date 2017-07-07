@@ -70,15 +70,6 @@ transform a convolutional layer into multiple layers of lower complexity"
 - arxiv: [http://arxiv.org/abs/1412.7580](http://arxiv.org/abs/1412.7580)
 - github: [http://facebook.github.io/fbcunn/fbcunn/](http://facebook.github.io/fbcunn/fbcunn/)
 
-**Distilling the Knowledge in a Neural Network**
-
-- author: Geoffrey Hinton, Oriol Vinyals, Jeff Dean
-- intro: "trained a distilled model to mimic the response of a larger and well-trained network"
-- comments: "Soft targets are a VERY good regulizer! Also trains much faster (soft targets enrich gradients)" -- Jeff Dean in CS231n talk
-- arxiv: [http://arxiv.org/abs/1503.02531](http://arxiv.org/abs/1503.02531)
-- blog: [http://fastml.com/geoff-hintons-dark-knowledge/](http://fastml.com/geoff-hintons-dark-knowledge/)
-- notes: [https://github.com/dennybritz/deeplearning-papernotes/blob/master/notes/distilling-the-knowledge-in-a-nn.md](https://github.com/dennybritz/deeplearning-papernotes/blob/master/notes/distilling-the-knowledge-in-a-nn.md)
-
 **Caffe con Troll: Shallow Ideas to Speed Up Deep Learning**
 
 - intro: a fully compatible end-to-end version of the popular framework Caffe with rebuilt internals
@@ -470,6 +461,27 @@ at INT8 deep learning operations than other FPGA DSP architectures"
 **NullHop: A Flexible Convolutional Neural Network Accelerator Based on Sparse Representations of Feature Maps**
 
 [https://arxiv.org/abs/1706.01406](https://arxiv.org/abs/1706.01406)
+
+## Knowledge Distilling / Knowledge Transfer
+
+**Distilling the Knowledge in a Neural Network**
+
+- intro: NIPS 2014 Deep Learning Workshop
+- author: Geoffrey Hinton, Oriol Vinyals, Jeff Dean
+- arxiv: [http://arxiv.org/abs/1503.02531](http://arxiv.org/abs/1503.02531)
+- blog: [http://fastml.com/geoff-hintons-dark-knowledge/](http://fastml.com/geoff-hintons-dark-knowledge/)
+- notes: [https://github.com/dennybritz/deeplearning-papernotes/blob/master/notes/distilling-the-knowledge-in-a-nn.md](https://github.com/dennybritz/deeplearning-papernotes/blob/master/notes/distilling-the-knowledge-in-a-nn.md)
+
+**Like What You Like: Knowledge Distill via Neuron Selectivity Transfer**
+
+- intro: TuSimple
+- arxiv: [https://arxiv.org/abs/1707.01219](https://arxiv.org/abs/1707.01219)
+
+**DarkRank: Accelerating Deep Metric Learning via Cross Sample Similarities Transfer**
+
+- intro: TuSimple
+- keywords: pedestrian re-identification
+- arxiv: [https://arxiv.org/abs/1707.01220](https://arxiv.org/abs/1707.01220)
 
 ## Code Optimization
 

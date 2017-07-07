@@ -159,6 +159,10 @@ date: 2015-10-09
 - intro: Youtube-8M Challenge, 4th place
 - arxiv: [https://arxiv.org/abs/1707.00803](https://arxiv.org/abs/1707.00803)
 
+**Tensor-Train Recurrent Neural Networks for Video Classification**
+
+[https://arxiv.org/abs/1707.01786](https://arxiv.org/abs/1707.01786)
+
 ## Action Detection / Activity Recognition
 
 **3d convolutional neural networks for human action recognition**

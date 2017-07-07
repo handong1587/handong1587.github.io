@@ -578,6 +578,16 @@ Continuation of [arXiv:1608.08021](https://arxiv.org/abs/1608.08021)
 
 [https://arxiv.org/abs/1706.10217](https://arxiv.org/abs/1706.10217)
 
+**Towards lightweight convolutional neural networks for object detection**
+
+[https://arxiv.org/abs/1707.01395](https://arxiv.org/abs/1707.01395)
+
+**RON: Reverse Connection with Objectness Prior Networks for Object Detection**
+
+- intro: CVPR 2017
+- arxiv: [https://arxiv.org/abs/1707.01691](https://arxiv.org/abs/1707.01691)
+- github: [https://github.com/taokong/RON](https://github.com/taokong/RON)
+
 ## NMS
 
 **End-to-End Integration of a Convolutional Network, Deformable Parts Model and Non-Maximum Suppression**

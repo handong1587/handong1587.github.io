@@ -570,6 +570,10 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 - intro: CVPR 2017
 - arxiv: [https://arxiv.org/abs/1706.03725](https://arxiv.org/abs/1706.03725)
 
+**A Survey of Recent Advances in CNN-based Single Image Crowd Counting and Density Estimation**
+
+[https://arxiv.org/abs/1707.01202](https://arxiv.org/abs/1707.01202)
+
 # Activity Recognition
 
 **Implementing a CNN for Human Activity Recognition in Tensorflow**

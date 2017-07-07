@@ -598,6 +598,12 @@ and from 73.8% to 83.1% for ResNet-50
 
 [https://arxiv.org/abs/1704.01285](https://arxiv.org/abs/1704.01285)
 
+**DarkRank: Accelerating Deep Metric Learning via Cross Sample Similarities Transfer**
+
+- intro: TuSimple
+- keywords: pedestrian re-identification
+- arxiv: [https://arxiv.org/abs/1707.01220](https://arxiv.org/abs/1707.01220)
+
 # Talks / Slides
 
 **TiefVision: end-to-end image similarity search engine**

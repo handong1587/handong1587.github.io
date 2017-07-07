@@ -355,6 +355,11 @@ Compressed model is less than 500KB
 
 [https://arxiv.org/abs/1703.09211](https://arxiv.org/abs/1703.09211)
 
+**Laplacian-Steered Neural Style Transfer**
+
+- intro: ACM Multimedia Conference (MM) 2017
+- arxiv: [https://arxiv.org/abs/1707.01253](https://arxiv.org/abs/1707.01253)
+
 ## Neural Doodle
 
 **Semantic Style Transfer and Turning Two-Bit Doodles into Fine Artworks**

@@ -1100,6 +1100,11 @@ with fast exact probabilistic inference over many layers."
 - arxiv: [https://arxiv.org/abs/1706.00388](https://arxiv.org/abs/1706.00388)
 - github: [https://github.com/szagoruyko/diracnets](https://github.com/szagoruyko/diracnets)
 
+**Dual Path Networks**
+
+- arxiv: [https://arxiv.org/abs/1707.01629](https://arxiv.org/abs/1707.01629)
+- github(MXNet): [https://github.com/cypw/DPNs](https://github.com/cypw/DPNs)
+
 ## Highway Networks
 
 **Highway Networks**
