@@ -2,8 +2,13 @@
 layout: post
 category: deep_learning
 title: Keep Up With New Trends
-date: 2016-12-06
+date: 2017-07-08
 ---
+
+# Deep Learning and Reinforcement Learning Summer School 2017
+
+- homepage: [https://mila.umontreal.ca/en/cours/deep-learning-summer-school-2017/](https://mila.umontreal.ca/en/cours/deep-learning-summer-school-2017/)
+- slides: [https://mila.umontreal.ca/en/cours/deep-learning-summer-school-2017/slides/](https://mila.umontreal.ca/en/cours/deep-learning-summer-school-2017/slides/)
 
 # ICLR 2017
 

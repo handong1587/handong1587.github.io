@@ -1290,9 +1290,10 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 
 **Deep Feature Interpolation for Image Content Changes**
 
-- intro: Cornell University & Washington University
+- intro: CVPR 2017. Cornell University & Washington University
 - arxiv: [https://arxiv.org/abs/1611.05507](https://arxiv.org/abs/1611.05507)
-- github(Tensorflow): [https://github.com/slang03/dfi-tensorflow](https://github.com/slang03/dfi-tensorflow)
+- github(official): [https://github.com/paulu/deepfeatinterp](https://github.com/paulu/deepfeatinterp)
+- github: [https://github.com/slang03/dfi-tensorflow](https://github.com/slang03/dfi-tensorflow)
 
 **Invertible Conditional GANs for image editing**
 

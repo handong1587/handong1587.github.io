@@ -127,7 +127,7 @@ date: 2015-10-09
 - slides: [https://docs.google.com/presentation/d/1AIotiiAp_528R90ll8j-Kc2EsRk2Oxc1poRgPXnEH8Y/edit](https://docs.google.com/presentation/d/1AIotiiAp_528R90ll8j-Kc2EsRk2Oxc1poRgPXnEH8Y/edit)
 - mirror: [https://pan.baidu.com/s/1czQQNO](https://pan.baidu.com/s/1czQQNO)
 
-# Blog
+# Blogs
 
 **Recommending music on Spotify with deep learning**
 
@@ -152,6 +152,10 @@ date: 2015-10-09
 
 - intro: Pinterest
 - blog: [https://engineering.pinterest.com/blog/applying-deep-learning-related-pins](https://engineering.pinterest.com/blog/applying-deep-learning-related-pins)
+
+**Recommendation System Algorithms: Main existing recommendation engines and how they work**
+
+[https://blog.statsbot.co/recommendation-system-algorithms-ba67f39ac9a3](https://blog.statsbot.co/recommendation-system-algorithms-ba67f39ac9a3)
 
 # Projects
 

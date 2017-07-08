@@ -540,7 +540,10 @@ and from 73.8% to 83.1% for ResNet-50
 
 **Pedestrian Alignment Network for Large-scale Person Re-identification**
 
-[https://arxiv.org/abs/1707.00408](https://arxiv.org/abs/1707.00408)
+![](https://raw.githubusercontent.com/layumi/Pedestrian_Alignment/master/fig2.jpg)
+
+- arxiv: [https://arxiv.org/abs/1707.00408](https://arxiv.org/abs/1707.00408)
+- github: [https://github.com/layumi/Pedestrian_Alignment](https://github.com/layumi/Pedestrian_Alignment)
 
 ## Person Search
 

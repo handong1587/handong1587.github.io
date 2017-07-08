@@ -98,6 +98,14 @@ date: 2015-10-09
 
 [https://github.com/karpathy/char-rnn#tips-and-tricks](https://github.com/karpathy/char-rnn#tips-and-tricks)
 
+**Tips for Training Recurrent Neural Networks**
+
+[http://danijar.com/tips-for-training-recurrent-neural-networks/](http://danijar.com/tips-for-training-recurrent-neural-networks/)
+
+**A Tour of Recurrent Neural Network Algorithms for Deep Learning**
+
+[http://machinelearningmastery.com/recurrent-neural-network-algorithms-for-deep-learning/](http://machinelearningmastery.com/recurrent-neural-network-algorithms-for-deep-learning/)
+
 ## How to build a Recurrent Neural Network in TensorFlow
 
 **How to build a Recurrent Neural Network in TensorFlow (1/7)**

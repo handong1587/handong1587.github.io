@@ -153,6 +153,11 @@ date: 2015-10-09
 
 - github: [https://github.com/yandexdataschool/Practical_RL](https://github.com/yandexdataschool/Practical_RL)
 
+**Reinforcement Learning (COMP-762) Winter 2017**
+
+- course page: [http://www.cs.mcgill.ca/~dprecup/courses/rl.html](http://www.cs.mcgill.ca/~dprecup/courses/rl.html)
+- lectures: [http://www.cs.mcgill.ca/~dprecup/courses/RL/lectures.html](http://www.cs.mcgill.ca/~dprecup/courses/RL/lectures.html)
+
 # Papers
 
 **Reinforcement Learning: A Survey**

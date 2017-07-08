@@ -95,6 +95,11 @@ Auto-encoder
 - arxiv: [https://arxiv.org/abs/1612.06370](https://arxiv.org/abs/1612.06370)
 - github((Caffe+Torch): [https://github.com/pathak22/unsupervised-video](https://github.com/pathak22/unsupervised-video)
 
+**CNN features are also great at unsupervised classification**
+
+- intro: Arts et Métiers ParisTech
+- arxiv: [https://arxiv.org/abs/1707.01700](https://arxiv.org/abs/1707.01700)
+
 ## Clustering
 
 **Deep clustering: Discriminative embeddings for segmentation and separation**

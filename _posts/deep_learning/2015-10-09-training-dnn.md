@@ -324,6 +324,11 @@ date: 2015-10-09
 
 [https://arxiv.org/abs/1612.04010](https://arxiv.org/abs/1612.04010)
 
+**Towards Understanding Generalization of Deep Learning: Perspective of Loss Landscapes**
+
+- intro: Peking University
+- arxiv: [https://arxiv.org/abs/1706.10239](https://arxiv.org/abs/1706.10239)
+
 # Learning Rate
 
 **No More Pesky Learning Rates**

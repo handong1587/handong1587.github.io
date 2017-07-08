@@ -1102,6 +1102,7 @@ with fast exact probabilistic inference over many layers."
 
 **Dual Path Networks**
 
+- intro: National University of Singapore
 - arxiv: [https://arxiv.org/abs/1707.01629](https://arxiv.org/abs/1707.01629)
 - github(MXNet): [https://github.com/cypw/DPNs](https://github.com/cypw/DPNs)
 
@@ -1573,6 +1574,15 @@ with fast exact probabilistic inference over many layers."
 **Deep-Trading: Algorithmic trading with deep learning experiments**
 
 [https://github.com/Rachnog/Deep-Trading](https://github.com/Rachnog/Deep-Trading)
+
+**Deep Learning with Python in Finance - Singapore Python User Group**
+
+- youtube: [https://www.youtube.com/watch?v=xvm-M-R2fZY](https://www.youtube.com/watch?v=xvm-M-R2fZY)
+
+**A Deep Reinforcement Learning Framework for the Financial Portfolio Management Problem**
+
+- intro: Xi’an Jiaotong-Liverpool University
+- arxiv: [https://arxiv.org/abs/1706.10059](https://arxiv.org/abs/1706.10059)
 
 # Deep Learning in Speech
 
@@ -2232,6 +2242,11 @@ It is based on Facebook's TorchCraft, which is a bridge between Torch and StarCr
 - intro: Technische Universit¨at Berlin & Fraunhofer Heinrich Hertz Institute
 - arxiv: [https://arxiv.org/abs/1706.07979](https://arxiv.org/abs/1706.07979)
 
+**Automated Problem Identification: Regression vs Classification via Evolutionary Deep Networks**
+
+- intro: University of Cape Town
+- arxiv: [https://arxiv.org/abs/1707.00703](https://arxiv.org/abs/1707.00703)
+
 ## Tutorials and Surveys
 
 **On the Origin of Deep Learning**
@@ -2828,6 +2843,10 @@ feed-forward neural nets and deep learning.
 **Summaries of machine learning papers**
 
 [https://github.com/aleju/papers](https://github.com/aleju/papers)
+
+**Awesome Deep Learning Resources**
+
+[https://github.com/guillaume-chevalier/awesome-deep-learning-resources](https://github.com/guillaume-chevalier/awesome-deep-learning-resources)
 
 ## Arxiv Pages
 

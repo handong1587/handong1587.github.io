@@ -977,6 +977,10 @@ ranked 1st place in ImageNet Scene Parsing Challenge 2016
 - blog: [https://medium.com/@m.zaradzki/image-segmentation-with-neural-net-d5094d571b1e#.s5f711g1q](https://medium.com/@m.zaradzki/image-segmentation-with-neural-net-d5094d571b1e#.s5f711g1q)
 - github: [https://github.com/mzaradzki/neuralnets/tree/master/vgg_segmentation_keras](https://github.com/mzaradzki/neuralnets/tree/master/vgg_segmentation_keras)
 
+**A 2017 Guide to Semantic Segmentation with Deep Learning**
+
+[http://blog.qure.ai/notes/semantic-segmentation-deep-learning-review](http://blog.qure.ai/notes/semantic-segmentation-deep-learning-review)
+
 # Talks
 
 **Deep learning for image segmentation**

@@ -39,7 +39,15 @@ date: 2015-10-09
 
 **Optimizing Deep CNN-Based Queries over Video Streams at Scale**
 
+- intro: Stanford InfoLab
+- keywords: NoScope. difference detectors, specialized models
 - arxiv: [https://arxiv.org/abs/1703.02529](https://arxiv.org/abs/1703.02529)
+- github: [https://github.com/stanford-futuredata/noscope](https://github.com/stanford-futuredata/noscope)
+- github: [https://github.com/stanford-futuredata/tensorflow-noscope](https://github.com/stanford-futuredata/tensorflow-noscope)
+
+**NoScope: 1000x Faster Deep Learning Queries over Video**
+
+[http://dawn.cs.stanford.edu/2017/06/22/noscope/](http://dawn.cs.stanford.edu/2017/06/22/noscope/)
 
 **Unsupervised Visual-Linguistic Reference Resolution in Instructional Videos**
 
