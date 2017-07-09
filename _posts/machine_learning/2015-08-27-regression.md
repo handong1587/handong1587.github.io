@@ -130,3 +130,10 @@ date: 2015-08-27
 - intro: UC Berkeley & Rensselaer Polytechnic Institute
 - arxiv: [https://arxiv.org/abs/1702.04837](https://arxiv.org/abs/1702.04837)
 - github: [https://github.com/wangshusen/SketchedRidgeRegression](https://github.com/wangshusen/SketchedRidgeRegression)
+
+# Support Vector Regressor (SVR)
+
+**A Tutorial on Support Vector Regression**
+
+- intro: Alex J. Smola. 2003
+- paper: [https://alex.smola.org/papers/2003/SmoSch03b.pdf](https://alex.smola.org/papers/2003/SmoSch03b.pdf)

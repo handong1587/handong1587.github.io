@@ -318,6 +318,7 @@ date: 2015-10-09
 
 - intro: UNC Chapel Hill & Amazon Inc
 - arxiv: [https://arxiv.org/abs/1701.06659](https://arxiv.org/abs/1701.06659)
+- demo: [http://120.52.72.53/www.cs.unc.edu/c3pr90ntc0td/~cyfu/dssd_lalaland.mp4](http://120.52.72.53/www.cs.unc.edu/c3pr90ntc0td/~cyfu/dssd_lalaland.mp4)
 
 - - -
 
