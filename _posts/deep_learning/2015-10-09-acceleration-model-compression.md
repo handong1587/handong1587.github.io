@@ -431,6 +431,11 @@ at INT8 deep learning operations than other FPGA DSP architectures"
 
 - arxiv: [https://arxiv.org/abs/1702.06392](https://arxiv.org/abs/1702.06392)
 
+**Espresso: Efficient Forward Propagation for BCNNs**
+
+- arxiv: [https://arxiv.org/abs/1705.07175](https://arxiv.org/abs/1705.07175)
+- github: [https://github.com/fpeder/espresso](https://github.com/fpeder/espresso)
+
 **BMXNet: An Open-Source Binary Neural Network Implementation Based on MXNet**
 
 - keywords: Binary Neural Networks (BNNs)

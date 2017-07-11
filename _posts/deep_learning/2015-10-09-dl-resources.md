@@ -1575,6 +1575,11 @@ with fast exact probabilistic inference over many layers."
 
 [https://github.com/Rachnog/Deep-Trading](https://github.com/Rachnog/Deep-Trading)
 
+**Neural networks for algorithmic trading. Multimodal and multitask deep learning**
+
+- blog: [https://becominghuman.ai/neural-networks-for-algorithmic-trading-multimodal-and-multitask-deep-learning-5498e0098caf](https://becominghuman.ai/neural-networks-for-algorithmic-trading-multimodal-and-multitask-deep-learning-5498e0098caf)
+- github: [https://github.com/Rachnog/Deep-Trading/tree/master/multimodal](https://github.com/Rachnog/Deep-Trading/tree/master/multimodal)
+
 **Deep Learning with Python in Finance - Singapore Python User Group**
 
 - youtube: [https://www.youtube.com/watch?v=xvm-M-R2fZY](https://www.youtube.com/watch?v=xvm-M-R2fZY)

@@ -933,6 +933,11 @@ ranked 1st place in ImageNet Scene Parsing Challenge 2016
 - intro: KittiSeg performs segmentation of roads by utilizing an FCN based model.
 - github: [https://github.com/MarvinTeichmann/KittiBox](https://github.com/MarvinTeichmann/KittiBox)
 
+**Semantic Segmentation Architectures Implemented in PyTorch**
+
+- intro: Segnet/FCN/U-Net/Link-Net
+- github: [https://github.com/meetshah1995/pytorch-semseg](https://github.com/meetshah1995/pytorch-semseg)
+
 # 3D Segmentation
 
 **PointNet: Deep Learning on Point Sets for 3D Classification and Segmentation**

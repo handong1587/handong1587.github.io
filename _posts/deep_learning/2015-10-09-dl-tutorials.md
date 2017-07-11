@@ -955,6 +955,11 @@ Implementations and ideas are largely based on papers from arxiv and implementat
 - mirror: [http://www.bilibili.com/video/av9806881/index_10.html](http://www.bilibili.com/video/av9806881/index_10.html)
 - github: [https://github.com/llSourcell/A_Guide_to_Running_Tensorflow_Models_on_Android](https://github.com/llSourcell/A_Guide_to_Running_Tensorflow_Models_on_Android)
 
+**TensorFlow Android stand-alone demo**
+
+- intro: Android demo source files extracted from original TensorFlow source. (TensorFlow r0.10)
+- github: [https://github.com/miyosuda/TensorFlowAndroidDemo](https://github.com/miyosuda/TensorFlowAndroidDemo)
+
 # Torch
 
 **Torch Developer Guide**
