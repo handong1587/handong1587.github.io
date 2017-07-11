@@ -534,6 +534,11 @@ and from 73.8% to 83.1% for ResNet-50
 - keywords: Bidirectional Long Short- Term Memory (BLSTM)
 - arxiv: [https://arxiv.org/abs/1705.08923](https://arxiv.org/abs/1705.08923)
 
+**Unsupervised Person Re-identification: Clustering and Fine-tuning**
+
+- arxiv: [https://arxiv.org/abs/1705.10444](https://arxiv.org/abs/1705.10444)
+- github: [https://github.com/hehefan/Unsupervised-Person-Re-identification-Clustering-and-Fine-tuning](https://github.com/hehefan/Unsupervised-Person-Re-identification-Clustering-and-Fine-tuning)
+
 **Deep Representation Learning with Part Loss for Person Re-Identification**
 
 [https://arxiv.org/abs/1707.00798](https://arxiv.org/abs/1707.00798)
