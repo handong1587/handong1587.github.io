@@ -503,7 +503,8 @@ and from 73.8% to 83.1% for ResNet-50
 
 **In Defense of the Triplet Loss for Person Re-Identification**
 
-[https://arxiv.org/abs/1703.07737](https://arxiv.org/abs/1703.07737)
+- arxiv: [https://arxiv.org/abs/1703.07737](https://arxiv.org/abs/1703.07737)
+- github: [https://github.com/VisualComputingInstitute/triplet-reid](https://github.com/VisualComputingInstitute/triplet-reid)
 
 **Beyond triplet loss: a deep quadruplet network for person re-identification**
 
