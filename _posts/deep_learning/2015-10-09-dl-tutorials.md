@@ -545,8 +545,6 @@ Machine learning workflow, Extracting feaures from images (colours, edges, corne
 
 # Convolution
 
-![](/assets/cnn-materials/conv.jpg)
-
 **Understanding Convolutions**
 
 - blog: [http://colah.github.io/posts/2014-07-Understanding-Convolutions/](http://colah.github.io/posts/2014-07-Understanding-Convolutions/)
@@ -599,6 +597,11 @@ Machine learning workflow, Extracting feaures from images (colours, edges, corne
 **One by One [ 1 x 1 ] Convolution - counter-intuitively useful**
 
 [http://iamaaditya.github.io/2016/03/one-by-one-convolution/](http://iamaaditya.github.io/2016/03/one-by-one-convolution/)
+
+**Checkerboard artifact free sub-pixel convolution: A note on sub-pixel convolution, resize convolution and convolution resize**
+
+- intro: Twitter
+- arxiv: [https://arxiv.org/abs/1707.02937](https://arxiv.org/abs/1707.02937)
 
 # Receptive Field
 

@@ -421,6 +421,10 @@ Simply run gdbgui from the terminal and a new tab will open in your browser.
 
 [http://alumni.media.mit.edu/~jorkin//generals/general_exams.html](http://alumni.media.mit.edu/~jorkin//generals/general_exams.html)
 
+**UAlbertaBot - StarCraft AI Competition Bot**
+
+[https://github.com/davechurchill/ualbertabot](https://github.com/davechurchill/ualbertabot)
+
 # Software Development
 
 **Professional Software Development: For Students**

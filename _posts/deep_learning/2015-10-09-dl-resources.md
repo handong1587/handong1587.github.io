@@ -773,6 +773,11 @@ not just the convolutions)
 - intro: MIT
 - arxiv: [https://arxiv.org/abs/1706.06083](https://arxiv.org/abs/1706.06083)
 
+**NO Need to Worry about Adversarial Examples in Object Detection in Autonomous Vehicles**
+
+- intro: CVPR 2017 Spotlight Oral Workshop
+- arxiv: [https://arxiv.org/abs/1707.03501](https://arxiv.org/abs/1707.03501)
+
 # Deep Learning Networks
 
 **PCANet: A Simple Deep Learning Baseline for Image Classification?**
@@ -1733,6 +1738,11 @@ It is based on Facebook's TorchCraft, which is a bridge between Torch and StarCr
 
 [https://arxiv.org/abs/1703.10069](https://arxiv.org/abs/1703.10069)
 
+**Learning Macromanagement in StarCraft from Replays using Deep Learning**
+
+- intro: CIG 2017. IT University of Copenhagen
+- arxiv: [https://arxiv.org/abs/1707.03743](https://arxiv.org/abs/1707.03743)
+
 # Deep Learning in Medicine and Biology
 
 **Low Data Drug Discovery with One-shot Learning**
@@ -2251,6 +2261,12 @@ It is based on Facebook's TorchCraft, which is a bridge between Torch and StarCr
 
 - intro: University of Cape Town
 - arxiv: [https://arxiv.org/abs/1707.00703](https://arxiv.org/abs/1707.00703)
+
+**Revisiting Unreasonable Effectiveness of Data in Deep Learning Era**
+
+- intro: Google Research & CMU
+- arxiv: [https://arxiv.org/abs/1707.02968](https://arxiv.org/abs/1707.02968)
+- blog: [https://research.googleblog.com/2017/07/revisiting-unreasonable-effectiveness.html](https://research.googleblog.com/2017/07/revisiting-unreasonable-effectiveness.html)
 
 ## Tutorials and Surveys
 

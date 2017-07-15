@@ -257,6 +257,13 @@ and from 73.8% to 83.1% for ResNet-50
 - intro: ACM MM 2017
 - arxiv: [https://arxiv.org/abs/1707.00809](https://arxiv.org/abs/1707.00809)
 
+**Class-Weighted Convolutional Features for Visual Instance Search**
+
+- intro: BMVC 2017. Universitat Politecnica de Catalunya Barcelona & CSIRO
+- project page: [http://imatge-upc.github.io/retrieval-2017-cam/](http://imatge-upc.github.io/retrieval-2017-cam/)
+- arxiv: [https://arxiv.org/abs/1707.02581](https://arxiv.org/abs/1707.02581)
+- github: [https://github.com/imatge-upc/retrieval-2017-cam](https://github.com/imatge-upc/retrieval-2017-cam)
+
 # Hashing
 
 **Supervised Hashing for Image Retrieval via Image Representation Learning**
