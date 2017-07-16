@@ -532,10 +532,6 @@ and from 73.8% to 83.1% for ResNet-50
 - intro: IJCAI 2017
 - arxiv: [https://arxiv.org/abs/1705.04724](https://arxiv.org/abs/1705.04724)
 
-**IAN: The Individual Aggregation Network for Person Search**
-
-[https://arxiv.org/abs/1705.05552](https://arxiv.org/abs/1705.05552)
-
 **Attention-based Natural Language Person Retrieval**
 
 - intro: CVPR 2017 Workshop (vision meets cognition)
@@ -558,6 +554,14 @@ and from 73.8% to 83.1% for ResNet-50
 - arxiv: [https://arxiv.org/abs/1707.00408](https://arxiv.org/abs/1707.00408)
 - github: [https://github.com/layumi/Pedestrian_Alignment](https://github.com/layumi/Pedestrian_Alignment)
 
+**Deep Reinforcement Learning Attention Selection for Person Re-Identification**
+
+[https://arxiv.org/abs/1707.02785](https://arxiv.org/abs/1707.02785)
+
+**Learning Efficient Image Representation for Person Re-Identification**
+
+[https://arxiv.org/abs/1707.02319](https://arxiv.org/abs/1707.02319)
+
 ## Person Search
 
 **End-to-End Deep Learning for Person Search**
@@ -570,6 +574,20 @@ and from 73.8% to 83.1% for ResNet-50
 - arxiv: [https://arxiv.org/abs/1604.01850](https://arxiv.org/abs/1604.01850)
 - paper: [http://www.ee.cuhk.edu.hk/~xgwang/PS/paper.pdf](http://www.ee.cuhk.edu.hk/~xgwang/PS/paper.pdf)
 - github(official. Caffe): [https://github.com/ShuangLI59/person_search](https://github.com/ShuangLI59/person_search)
+
+**IAN: The Individual Aggregation Network for Person Search**
+
+[https://arxiv.org/abs/1705.05552](https://arxiv.org/abs/1705.05552)
+
+## Projects
+
+**Open-ReID: Open source person re-identification library in python**
+
+- intro: Open-ReID is a lightweight library of person re-identification for research purpose. It aims to provide a uniform interface for different datasets, a full set of models and evaluation metrics, as well as examples to reproduce (near) state-of-the-art results.
+- project page: [https://cysu.github.io/open-reid/](https://cysu.github.io/open-reid/)
+- github(PyTorch): [https://github.com/Cysu/open-reid](https://github.com/Cysu/open-reid)
+- examples: [https://cysu.github.io/open-reid/examples/training_id.html](https://cysu.github.io/open-reid/examples/training_id.html)
+- benchmarks: [https://cysu.github.io/open-reid/examples/benchmarks.html](https://cysu.github.io/open-reid/examples/benchmarks.html)
 
 ## Video-based Person Re-Identification
 

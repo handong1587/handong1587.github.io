@@ -1111,6 +1111,10 @@ with fast exact probabilistic inference over many layers."
 - arxiv: [https://arxiv.org/abs/1707.01629](https://arxiv.org/abs/1707.01629)
 - github(MXNet): [https://github.com/cypw/DPNs](https://github.com/cypw/DPNs)
 
+**Primal-Dual Group Convolutions for Deep Neural Networks**
+
+[https://arxiv.org/abs/1707.02725](https://arxiv.org/abs/1707.02725)
+
 ## Highway Networks
 
 **Highway Networks**

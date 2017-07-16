@@ -62,6 +62,10 @@ slides: [http://host.robots.ox.ac.uk/pascal/VOC/voc2012/workshop/Towards_VOC2012
 - arxiv: [http://arxiv.org/abs/1409.5403](http://arxiv.org/abs/1409.5403)
 - github: [https://github.com/rbgirshick/DeepPyramid](https://github.com/rbgirshick/DeepPyramid)
 
+**Tensor-based approach to accelerate deformable part models**
+
+[https://arxiv.org/abs/1707.03268](https://arxiv.org/abs/1707.03268)
+
 - - -
 
 **Integrating Context and Occlusion for Car Detection by Hierarchical And-or Model**

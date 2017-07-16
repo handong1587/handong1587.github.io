@@ -171,6 +171,26 @@ date: 2015-10-09
 
 [https://arxiv.org/abs/1707.01786](https://arxiv.org/abs/1707.01786)
 
+**Hierarchical Deep Recurrent Architecture for Video Understanding**
+
+- intro: Classification Challenge Track paper in CVPR 2017 Workshop on YouTube-8M Large-Scale Video Understanding
+- arxiv: [https://arxiv.org/abs/1707.03296](https://arxiv.org/abs/1707.03296)
+
+**Large-scale Video Classification guided by Batch Normalized LSTM Translator**
+
+- intro: CVPR2017 Workshop on Youtube-8M Large-scale Video Understanding
+- arxiv: [https://arxiv.org/abs/1707.04045](https://arxiv.org/abs/1707.04045)
+
+**UTS submission to Google YouTube-8M Challenge 2017**
+
+- intro: CVPR'17 Workshop on YouTube-8M
+- arxiv: [https://arxiv.org/abs/1707.04143](https://arxiv.org/abs/1707.04143)
+- github: [https://github.com/ffmpbgrnn/yt8m](https://github.com/ffmpbgrnn/yt8m)
+
+**A spatiotemporal model with visual attention for video classification**
+
+[https://arxiv.org/abs/1707.02069](https://arxiv.org/abs/1707.02069)
+
 ## Action Detection / Activity Recognition
 
 **3d convolutional neural networks for human action recognition**

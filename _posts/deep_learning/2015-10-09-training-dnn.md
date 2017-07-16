@@ -156,6 +156,11 @@ date: 2015-10-09
 - keywords: flexible rectified linear unit (FReLU)
 - arxiv: [https://arxiv.org/abs/1706.08098](https://arxiv.org/abs/1706.08098)
 
+**Be Careful What You Backpropagate: A Case For Linear Output Activations & Gradient Boosting**
+
+- intro: CMU
+- arxiv: [https://arxiv.org/abs/1707.04199](https://arxiv.org/abs/1707.04199)
+
 ## Series on Initialization of Weights for DNN
 
 **Initialization Of Feedfoward Networks**

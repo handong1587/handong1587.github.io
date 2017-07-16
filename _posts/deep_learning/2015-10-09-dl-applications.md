@@ -440,6 +440,10 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 - intro: ICRA 2017
 - arxiv: [https://arxiv.org/abs/1701.05105](https://arxiv.org/abs/1701.05105)
 
+**Place recognition: An Overview of Vision Perspective**
+
+[https://arxiv.org/abs/1707.03470](https://arxiv.org/abs/1707.03470)
+
 ## Camera Relocalization
 
 **PoseNet: A Convolutional Network for Real-Time 6-DOF Camera Relocalization**
@@ -906,6 +910,11 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 
 [https://arxiv.org/abs/1707.00737](https://arxiv.org/abs/1707.00737)
 
+**Enhanced Deep Residual Networks for Single Image Super-Resolution**
+
+- intro: CVPR 2017 workshop. Best paper award of the NTIRE2017 workshop, and the winners of the NTIRE2017 Challenge on Single Image Super-Resolution
+- arxiv: [https://arxiv.org/abs/1707.02921](https://arxiv.org/abs/1707.02921)
+
 ## Video Super-resolution
 
 **Detail-revealing Deep Video Super-resolution**
@@ -1109,6 +1118,13 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 - project page: [https://wuhuikai.github.io/GP-GAN-Project/](https://wuhuikai.github.io/GP-GAN-Project/)
 - arxiv: [https://arxiv.org/abs/1703.07195](https://arxiv.org/abs/1703.07195)
 - github(Official, Chainer): [https://github.com/wuhuikai/GP-GAN](https://github.com/wuhuikai/GP-GAN)
+
+# Image Enhancement
+
+**Deep Bilateral Learning for Real-Time Image Enhancement**
+
+- intro: MIT & Google Research
+- arxiv: [https://arxiv.org/abs/1707.02880](https://arxiv.org/abs/1707.02880)
 
 # Abnormality Detection / Anomaly Detection
 

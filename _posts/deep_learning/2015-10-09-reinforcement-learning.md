@@ -506,6 +506,12 @@ Incorporates dropout regularization and convolutional neural networks with a sep
 - arxiv: [https://arxiv.org/abs/1705.06769](https://arxiv.org/abs/1705.06769)
 - github: [https://github.com/Nat-D/FeatureControlHRL](https://github.com/Nat-D/FeatureControlHRL)
 
+**Distral: Robust Multitask Reinforcement Learning**
+
+- intro: DeepMind
+- keywords: Distill, transfer learning
+- arxiv: [https://arxiv.org/abs/1707.04175](https://arxiv.org/abs/1707.04175)
+
 ## Playing Doom
 
 **ViZDoom: A Doom-based AI Research Platform for Visual Reinforcement Learning**

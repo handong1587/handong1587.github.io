@@ -546,7 +546,10 @@ with built-in awareness of semantically meaningful boundaries. "
 
 **Feature Forwarding: Exploiting Encoder Representations for Efficient Semantic Segmentation**
 
+**LinkNet: Exploiting Encoder Representations for Efficient Semantic Segmentation**
+
 - project page: [https://codeac29.github.io/projects/linknet/](https://codeac29.github.io/projects/linknet/)
+- arxiv: [https://arxiv.org/abs/1707.03718](https://arxiv.org/abs/1707.03718)
 - github: [https://github.com/e-lab/LinkNet](https://github.com/e-lab/LinkNet)
 
 **Pixel Deconvolutional Networks**
@@ -558,6 +561,11 @@ with built-in awareness of semantically meaningful boundaries. "
 
 - intro: IEEE TPAMI
 - arxiv: [https://arxiv.org/abs/1706.02189](https://arxiv.org/abs/1706.02189)
+
+**Deep Semantic Segmentation for Automated Driving: Taxonomy, Roadmap and Challenges**
+
+- intro: IEEE ITSC 2017
+- arxiv: [https://arxiv.org/abs/1707.02432](https://arxiv.org/abs/1707.02432)
 
 # Instance Segmentation
 

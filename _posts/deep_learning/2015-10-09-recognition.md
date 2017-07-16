@@ -459,6 +459,24 @@ facial action unit recognition, and eye-gaze estimation.
 
 [https://arxiv.org/abs/1706.04062](https://arxiv.org/abs/1706.04062)
 
+### Attribute Recognition
+
+**Multi-attribute Learning for Pedestrian Attribute Recognition in Surveillance Scenarios**
+
+- keywords: DeepSAR / DeepMAR
+- paper: [http://or.nsfc.gov.cn/bitstream/00001903-5/417802/1/1000014103914.pdf](http://or.nsfc.gov.cn/bitstream/00001903-5/417802/1/1000014103914.pdf)
+- github: [https://github.com/kyu-sz/DeepMAR_deploy](https://github.com/kyu-sz/DeepMAR_deploy)
+
+**Weakly-supervised Learning of Mid-level Features for Pedestrian Attribute Recognition and Localization**
+
+- arxiv: [https://arxiv.org/abs/1611.05603](https://arxiv.org/abs/1611.05603)
+- github: [https://github.com/kyu-sz/WPAL-network](https://github.com/kyu-sz/WPAL-network)
+
+**Generative Adversarial Models for People Attribute Recognition in Surveillance**
+
+- intro: AVSS 2017 oral
+- arxiv: [https://arxiv.org/abs/1707.02240](https://arxiv.org/abs/1707.02240)
+
 ### Instrument Recognition
 
 **Automatic Instrument Recognition in Polyphonic Music Using Convolutional Neural Networks**
