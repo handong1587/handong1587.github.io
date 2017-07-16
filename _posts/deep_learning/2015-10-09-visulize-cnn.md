@@ -10,6 +10,8 @@ date: 2015-10-09
 **Deconvolutional Networks**
 
 - paper: [http://www.matthewzeiler.com/pubs/cvpr2010/cvpr2010.pdf](http://www.matthewzeiler.com/pubs/cvpr2010/cvpr2010.pdf)
+- video: [https://ipam.wistia.com/medias/zd0qnekkwc](https://ipam.wistia.com/medias/zd0qnekkwc)
+- presentation: [https://mathinstitutes.org/videos/videos/3295](https://mathinstitutes.org/videos/videos/3295)
 
 **Visualizing and Understanding Convolutional Network**
 
