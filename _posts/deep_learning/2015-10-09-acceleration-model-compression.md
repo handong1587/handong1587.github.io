@@ -446,6 +446,11 @@ at INT8 deep learning operations than other FPGA DSP architectures"
 
 [https://arxiv.org/abs/1706.02393](https://arxiv.org/abs/1706.02393)
 
+**Binarized Convolutional Neural Networks with Separable Filters for Efficient Hardware Acceleration**
+
+- intro: Embedded Vision Workshop (CVPRW)
+- arxiv: [https://arxiv.org/abs/1707.04693](https://arxiv.org/abs/1707.04693)
+
 ## Accelerating / Fast Algorithms
 
 **Fast Algorithms for Convolutional Neural Networks**

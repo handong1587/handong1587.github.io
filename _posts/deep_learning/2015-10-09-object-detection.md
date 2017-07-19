@@ -589,6 +589,10 @@ Continuation of [arXiv:1608.08021](https://arxiv.org/abs/1608.08021)
 - arxiv: [https://arxiv.org/abs/1707.01691](https://arxiv.org/abs/1707.01691)
 - github: [https://github.com/taokong/RON](https://github.com/taokong/RON)
 
+**Residual Features and Unified Prediction Network for Single Stage Detection**
+
+[https://arxiv.org/abs/1707.05031](https://arxiv.org/abs/1707.05031)
+
 ## NMS
 
 **End-to-End Integration of a Convolutional Network, Deformable Parts Model and Non-Maximum Suppression**

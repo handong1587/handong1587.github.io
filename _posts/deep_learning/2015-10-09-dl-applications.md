@@ -915,6 +915,11 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 - intro: CVPR 2017 workshop. Best paper award of the NTIRE2017 workshop, and the winners of the NTIRE2017 Challenge on Single Image Super-Resolution
 - arxiv: [https://arxiv.org/abs/1707.02921](https://arxiv.org/abs/1707.02921)
 
+**Fast and Accurate Image Super Resolution by Deep CNN with Skip Connection and Network in Network**
+
+- arxiv: [https://arxiv.org/abs/1707.05425](https://arxiv.org/abs/1707.05425)
+- github(Tensorflow): [https://github.com/jiny2001/dcscn-super-resolution](https://github.com/jiny2001/dcscn-super-resolution)
+
 ## Video Super-resolution
 
 **Detail-revealing Deep Video Super-resolution**
@@ -972,6 +977,10 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 **When Image Denoising Meets High-Level Vision Tasks: A Deep Learning Approach**
 
 [https://arxiv.org/abs/1706.04284](https://arxiv.org/abs/1706.04284)
+
+**Wide Inference Network for Image Denoising**
+
+[https://arxiv.org/abs/1707.05414](https://arxiv.org/abs/1707.05414)
 
 # Image Haze Removal
 

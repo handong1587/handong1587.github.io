@@ -191,6 +191,11 @@ date: 2015-10-09
 
 [https://arxiv.org/abs/1707.02069](https://arxiv.org/abs/1707.02069)
 
+**Cultivating DNN Diversity for Large Scale Video Labelling**
+
+- intro: CVPR 2017 Youtube-8M Workshop
+- arxiv: [https://arxiv.org/abs/1707.04272](https://arxiv.org/abs/1707.04272)
+
 ## Action Detection / Activity Recognition
 
 **3d convolutional neural networks for human action recognition**
