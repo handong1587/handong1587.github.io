@@ -472,6 +472,11 @@ at INT8 deep learning operations than other FPGA DSP architectures"
 
 [https://arxiv.org/abs/1706.01406](https://arxiv.org/abs/1706.01406)
 
+**Channel Pruning for Accelerating Very Deep Neural Networks**
+
+- intro: ICCV 2017. Megvii Inc
+- arxiv: [https://arxiv.org/abs/1707.06168](https://arxiv.org/abs/1707.06168)
+
 ## Knowledge Distilling / Knowledge Transfer
 
 **Distilling the Knowledge in a Neural Network**

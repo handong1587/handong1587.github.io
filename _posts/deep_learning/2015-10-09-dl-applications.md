@@ -499,6 +499,10 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 - blog: [https://softwaremill.com/counting-objects-with-faster-rcnn/](https://softwaremill.com/counting-objects-with-faster-rcnn/)
 - github: [https://github.com/softberries/keras-frcnn](https://github.com/softberries/keras-frcnn)
 
+**Drone-based Object Counting by Spatially Regularized Regional Proposal Network**
+
+[https://arxiv.org/abs/1707.05972](https://arxiv.org/abs/1707.05972)
+
 ## Crowd Counting / Analysis
 
 **Large scale crowd analysis based on convolutional neural network**
