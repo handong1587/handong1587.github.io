@@ -1498,7 +1498,7 @@ with fast exact probabilistic inference over many layers."
 - intro: [https://simons.berkeley.edu/talks/sergey-levine-01-24-2017-1](https://simons.berkeley.edu/talks/sergey-levine-01-24-2017-1)
 - youtube: [https://www.youtube.com/watch?v=jtjW5Pye_44](https://www.youtube.com/watch?v=jtjW5Pye_44)
 
-# Deep Learning on Mobile Devices
+# Deep Learning on Mobile / Embedded Devices
 
 **Convolutional neural networks on the iPhone with VGGNet**
 
@@ -1528,12 +1528,14 @@ with fast exact probabilistic inference over many layers."
 
 - blog: [https://techcrunch.com/2017/01/19/xnor-ai-frees-ai-from-the-prison-of-the-supercomputer/](https://techcrunch.com/2017/01/19/xnor-ai-frees-ai-from-the-prison-of-the-supercomputer/)
 
-# Embedded Deep Learning
-
 **Embedded Deep Learning with NVIDIA Jetson**
 
 - youtube: [https://www.youtube.com/watch?v=_4tzlXPQWb8](https://www.youtube.com/watch?v=_4tzlXPQWb8)
 - mirror: [https://pan.baidu.com/s/1pKCDXkZ](https://pan.baidu.com/s/1pKCDXkZ)
+
+**Embedded and mobile deep learning research resources**
+
+[https://github.com/csarron/emdl](https://github.com/csarron/emdl)
 
 # Deep Learning in Finance
 
