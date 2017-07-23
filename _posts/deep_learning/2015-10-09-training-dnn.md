@@ -778,6 +778,10 @@ date: 2015-10-09
 
 - blog: [https://medium.com/@karl1980.lab41/sampled-backpropagation-27ac58d5c51c#.xnbhyxtou](https://medium.com/@karl1980.lab41/sampled-backpropagation-27ac58d5c51c#.xnbhyxtou)
 
+**The Reversible Residual Network: Backpropagation Without Storing Activations**
+
+[https://arxiv.org/abs/1707.04585](https://arxiv.org/abs/1707.04585)
+
 # Accelerate Training
 
 **Neural Networks with Few Multiplications**

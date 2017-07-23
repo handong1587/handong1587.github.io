@@ -109,6 +109,10 @@ date: 2015-10-09
 - arxiv: [https://arxiv.org/abs/1702.05891](https://arxiv.org/abs/1702.05891)
 - github(official. Caffe): [https://github.com/zhufengx/SRN_multilabel/](https://github.com/zhufengx/SRN_multilabel/)
 
+**Order-Free RNN with Visual Attention for Multi-Label Classification**
+
+[https://arxiv.org/abs/1707.05495](https://arxiv.org/abs/1707.05495)
+
 ## Face Recognition
 
 ### DeepID

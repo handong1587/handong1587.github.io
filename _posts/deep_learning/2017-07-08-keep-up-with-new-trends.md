@@ -18,6 +18,10 @@ date: 2017-07-08
 
 # CVPR 2017
 
+**CVPR 2017 open access**
+
+[http://openaccess.thecvf.com/CVPR2017.py](http://openaccess.thecvf.com/CVPR2017.py)
+
 **CVPR'17 Tutorial: Deep Learning for Objects and Scenes**
 
 [http://deeplearning.csail.mit.edu/](http://deeplearning.csail.mit.edu/)

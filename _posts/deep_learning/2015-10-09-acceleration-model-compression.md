@@ -446,6 +446,11 @@ at INT8 deep learning operations than other FPGA DSP architectures"
 
 [https://arxiv.org/abs/1706.02393](https://arxiv.org/abs/1706.02393)
 
+**Binarized Convolutional Neural Networks with Separable Filters for Efficient Hardware Acceleration**
+
+- intro: Embedded Vision Workshop (CVPRW)
+- arxiv: [https://arxiv.org/abs/1707.04693](https://arxiv.org/abs/1707.04693)
+
 ## Accelerating / Fast Algorithms
 
 **Fast Algorithms for Convolutional Neural Networks**
@@ -466,6 +471,11 @@ at INT8 deep learning operations than other FPGA DSP architectures"
 **NullHop: A Flexible Convolutional Neural Network Accelerator Based on Sparse Representations of Feature Maps**
 
 [https://arxiv.org/abs/1706.01406](https://arxiv.org/abs/1706.01406)
+
+**Channel Pruning for Accelerating Very Deep Neural Networks**
+
+- intro: ICCV 2017. Megvii Inc
+- arxiv: [https://arxiv.org/abs/1707.06168](https://arxiv.org/abs/1707.06168)
 
 ## Knowledge Distilling / Knowledge Transfer
 

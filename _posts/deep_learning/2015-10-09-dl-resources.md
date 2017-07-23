@@ -292,6 +292,7 @@ not just the convolutions)
 **Residual Attention Network for Image Classification**
 
 - intro: CVPR 2017. CUHK
+- intro: ImageNet (4.8% single model and single crop, top-5 error)
 - arxiv: [https://arxiv.org/abs/1704.06904](https://arxiv.org/abs/1704.06904)
 
 **Dilated Residual Networks**

@@ -589,6 +589,15 @@ Continuation of [arXiv:1608.08021](https://arxiv.org/abs/1608.08021)
 - arxiv: [https://arxiv.org/abs/1707.01691](https://arxiv.org/abs/1707.01691)
 - github: [https://github.com/taokong/RON](https://github.com/taokong/RON)
 
+**Residual Features and Unified Prediction Network for Single Stage Detection**
+
+[https://arxiv.org/abs/1707.05031](https://arxiv.org/abs/1707.05031)
+
+**Deformable Part-based Fully Convolutional Network for Object Detection**
+
+- intro: BMVC 2017 (oral)
+- arxiv: [https://arxiv.org/abs/1707.06175](https://arxiv.org/abs/1707.06175)
+
 ## NMS
 
 **End-to-End Integration of a Convolutional Network, Deformable Parts Model and Non-Maximum Suppression**
