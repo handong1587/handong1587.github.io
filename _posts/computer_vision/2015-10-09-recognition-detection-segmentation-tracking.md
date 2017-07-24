@@ -229,6 +229,20 @@ using a large number of the existing object proposal approaches.
 
 # Tracking
 
+**Online Object Tracking: A Benchmark**
+
+- intro: CVPR 2013
+- paper: [http://faculty.ucmerced.edu/mhyang/papers/cvpr13_benchmark.pdf](http://faculty.ucmerced.edu/mhyang/papers/cvpr13_benchmark.pdf)
+
+**Object Tracking Benchmark**
+
+- intro: PAMI 2015
+- paper: [http://faculty.ucmerced.edu/mhyang/papers/pami15_tracking_benchmark.pdf](http://faculty.ucmerced.edu/mhyang/papers/pami15_tracking_benchmark.pdf)
+
+**Visual Tracker Benchmark**
+
+[http://cvlab.hanyang.ac.kr/tracker_benchmark/benchmark_v10.html](http://cvlab.hanyang.ac.kr/tracker_benchmark/benchmark_v10.html)
+
 **MEEM: Robust Tracking via Multiple Experts using Entropy Minimization**
 
 ![](http://cs-people.bu.edu/jmzhang/MEEM/frontpage.png)
