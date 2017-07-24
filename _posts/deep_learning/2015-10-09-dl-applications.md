@@ -992,6 +992,11 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 
 - arxiv: [http://arxiv.org/abs/1601.07661](http://arxiv.org/abs/1601.07661)
 
+**An All-in-One Network for Dehazing and Beyond**
+
+- intro: All-in-One Dehazing Network (AOD-Net)
+- arxiv: [https://arxiv.org/abs/1707.06543](https://arxiv.org/abs/1707.06543)
+
 # Image Rain Removal / De-raining
 
 **Clearing the Skies: A deep network architecture for single-image rain removal**

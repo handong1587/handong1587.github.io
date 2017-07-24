@@ -454,6 +454,11 @@ It is an experimental refactoring of Caffe, and allows a more flexible way to or
 
 - github: [https://github.com/pppoe/WhatsThis-iOS](https://github.com/pppoe/WhatsThis-iOS)
 
+# ncnn
+
+- intro: ncnn is a high-performance neural network inference framework optimized for the mobile platform
+- github: [https://github.com/Tencent/ncnn](https://github.com/Tencent/ncnn)
+
 # neocortex.js
 
 **Run trained deep neural networks in the browser or node.js**

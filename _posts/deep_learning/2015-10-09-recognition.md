@@ -88,6 +88,11 @@ date: 2015-10-09
 
 [https://arxiv.org/abs/1706.07901](https://arxiv.org/abs/1706.07901)
 
+**Sunrise or Sunset: Selective Comparison Learning for Subtle Attribute Recognition**
+
+- intro: BMVC 2017
+- arxiv: [https://arxiv.org/abs/1707.06335](https://arxiv.org/abs/1707.06335)
+
 ## Multi-object Recognition
 
 **Multiple Object Recognition with Visual Attention**

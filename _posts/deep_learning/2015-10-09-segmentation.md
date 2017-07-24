@@ -567,6 +567,11 @@ with built-in awareness of semantically meaningful boundaries. "
 - intro: IEEE ITSC 2017
 - arxiv: [https://arxiv.org/abs/1707.02432](https://arxiv.org/abs/1707.02432)
 
+**Semantic Segmentation with Reverse Attention**
+
+- intro: BMVC 2017 oral
+- arxiv: [https://arxiv.org/abs/1707.06426](https://arxiv.org/abs/1707.06426)
+
 # Instance Segmentation
 
 **Simultaneous Detection and Segmentation**
@@ -920,6 +925,11 @@ ranked 1st place in ImageNet Scene Parsing Challenge 2016
 **Online Adaptation of Convolutional Neural Networks for Video Object Segmentation**
 
 [https://arxiv.org/abs/1706.09364](https://arxiv.org/abs/1706.09364)
+
+**Video Object Segmentation using Tracked Object Proposals**
+
+- intro: CVPR-2017 workshop, DAVIS-2017 Challenge
+- arxiv: [https://arxiv.org/abs/1707.06545](https://arxiv.org/abs/1707.06545)
 
 ## Challenge
 

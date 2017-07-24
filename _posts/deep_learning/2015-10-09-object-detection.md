@@ -598,6 +598,11 @@ Continuation of [arXiv:1608.08021](https://arxiv.org/abs/1608.08021)
 - intro: BMVC 2017 (oral)
 - arxiv: [https://arxiv.org/abs/1707.06175](https://arxiv.org/abs/1707.06175)
 
+**Adaptive Feeding: Achieving Fast and Accurate Detections by Adaptively Combining Object Detectors**
+
+- intro: ICCV 2017
+- arxiv: [https://arxiv.org/abs/1707.06399](https://arxiv.org/abs/1707.06399)
+
 ## NMS
 
 **End-to-End Integration of a Convolutional Network, Deformable Parts Model and Non-Maximum Suppression**
@@ -1020,6 +1025,10 @@ This task involves predicting the salient regions of an image given by human eye
 
 - intro: CVPR 2017. SenseTime & Tsinghua University
 - arxiv: [https://arxiv.org/abs/1706.09876](https://arxiv.org/abs/1706.09876)
+
+**Multi-Branch Fully Convolutional Network for Face Detection**
+
+[https://arxiv.org/abs/1707.06330](https://arxiv.org/abs/1707.06330)
 
 ## Facial Point / Landmark Detection
 
