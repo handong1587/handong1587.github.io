@@ -313,6 +313,28 @@ not just the convolutions)
 - intro: Microsoft Research & Princeton University
 - arxiv: [https://arxiv.org/abs/1706.04964](https://arxiv.org/abs/1706.04964)
 
+## DenseNet
+
+**Densely Connected Convolutional Networks**
+
+![](https://cloud.githubusercontent.com/assets/8370623/17981496/fa648b32-6ad1-11e6-9625-02fdd72fdcd3.jpg)
+
+- intro: CVPR 2017 best paper. Cornell University & Tsinghua University. DenseNet
+- arxiv: [http://arxiv.org/abs/1608.06993](http://arxiv.org/abs/1608.06993)
+- github: [https://github.com/liuzhuang13/DenseNet](https://github.com/liuzhuang13/DenseNet)
+- github(Lasagne): [https://github.com/Lasagne/Recipes/tree/master/papers/densenet](https://github.com/Lasagne/Recipes/tree/master/papers/densenet)
+- github(Keras): [https://github.com/tdeboissiere/DeepLearningImplementations/tree/master/DenseNet](https://github.com/tdeboissiere/DeepLearningImplementations/tree/master/DenseNet)
+- github(Caffe): [https://github.com/liuzhuang13/DenseNetCaffe](https://github.com/liuzhuang13/DenseNetCaffe)
+- github(Tensorflow): [https://github.com/YixuanLi/densenet-tensorflow](https://github.com/YixuanLi/densenet-tensorflow)
+- github(Keras): [https://github.com/titu1994/DenseNet](https://github.com/titu1994/DenseNet)
+- github(PyTorch): [https://github.com/bamos/densenet.pytorch](https://github.com/bamos/densenet.pytorch)
+- github(PyTorch): [https://github.com/andreasveit/densenet-pytorch](https://github.com/andreasveit/densenet-pytorch)
+- github(Tensorflow): [https://github.com/ikhlestov/vision_networks](https://github.com/ikhlestov/vision_networks)
+
+**Memory-Efficient Implementation of DenseNets**
+
+[https://arxiv.org/abs/1707.06990](https://arxiv.org/abs/1707.06990)
+
 ## ImageNet Projects
 
 **Training an Object Classifier in Torch-7 on multiple GPUs over ImageNet**
@@ -953,22 +975,6 @@ with fast exact probabilistic inference over many layers."
 **Local Binary Convolutional Neural Networks**
 
 - arxiv: [http://arxiv.org/abs/1608.06049](http://arxiv.org/abs/1608.06049)
-
-**Densely Connected Convolutional Networks**
-
-![](https://cloud.githubusercontent.com/assets/8370623/17981496/fa648b32-6ad1-11e6-9625-02fdd72fdcd3.jpg)
-
-- intro: Cornell University & Tsinghua University. DenseNet
-- arxiv: [http://arxiv.org/abs/1608.06993](http://arxiv.org/abs/1608.06993)
-- github: [https://github.com/liuzhuang13/DenseNet](https://github.com/liuzhuang13/DenseNet)
-- github(Lasagne): [https://github.com/Lasagne/Recipes/tree/master/papers/densenet](https://github.com/Lasagne/Recipes/tree/master/papers/densenet)
-- github(Keras): [https://github.com/tdeboissiere/DeepLearningImplementations/tree/master/DenseNet](https://github.com/tdeboissiere/DeepLearningImplementations/tree/master/DenseNet)
-- github(Caffe): [https://github.com/liuzhuang13/DenseNetCaffe](https://github.com/liuzhuang13/DenseNetCaffe)
-- github(Tensorflow): [https://github.com/YixuanLi/densenet-tensorflow](https://github.com/YixuanLi/densenet-tensorflow)
-- github(Keras): [https://github.com/titu1994/DenseNet](https://github.com/titu1994/DenseNet)
-- github(PyTorch): [https://github.com/bamos/densenet.pytorch](https://github.com/bamos/densenet.pytorch)
-- github(PyTorch): [https://github.com/andreasveit/densenet-pytorch](https://github.com/andreasveit/densenet-pytorch)
-- github(Tensorflow): [https://github.com/ikhlestov/vision_networks](https://github.com/ikhlestov/vision_networks)
 
 **CliqueCNN: Deep Unsupervised Exemplar Learning**
 
@@ -2272,6 +2278,10 @@ It is based on Facebook's TorchCraft, which is a bridge between Torch and StarCr
 - intro: Google Research & CMU
 - arxiv: [https://arxiv.org/abs/1707.02968](https://arxiv.org/abs/1707.02968)
 - blog: [https://research.googleblog.com/2017/07/revisiting-unreasonable-effectiveness.html](https://research.googleblog.com/2017/07/revisiting-unreasonable-effectiveness.html)
+
+**Deep Layer Aggregation**
+
+[https://arxiv.org/abs/1707.06484](https://arxiv.org/abs/1707.06484)
 
 ## Tutorials and Surveys
 

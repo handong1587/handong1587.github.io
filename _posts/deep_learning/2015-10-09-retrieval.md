@@ -583,6 +583,11 @@ and from 73.8% to 83.1% for ResNet-50
 
 [https://arxiv.org/abs/1705.05552](https://arxiv.org/abs/1705.05552)
 
+**Neural Person Search Machines**
+
+- intro: ICCV2017
+- arxiv: [https://arxiv.org/abs/1707.06777](https://arxiv.org/abs/1707.06777)
+
 ## Projects
 
 **Open-ReID: Open source person re-identification library in python**

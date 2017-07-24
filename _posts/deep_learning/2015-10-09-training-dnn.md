@@ -384,6 +384,10 @@ date: 2015-10-09
 - arxiv: [https://arxiv.org/abs/1605.06743](https://arxiv.org/abs/1605.06743)
 - github: [https://github.com/HUJI-Deep/inductive-pooling](https://github.com/HUJI-Deep/inductive-pooling)
 
+**Improved Bilinear Pooling with CNNs**
+
+[https://arxiv.org/abs/1707.06772](https://arxiv.org/abs/1707.06772)
+
 # Batch
 
 **Online Batch Selection for Faster Training of Neural Networks**

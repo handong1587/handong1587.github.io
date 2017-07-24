@@ -400,6 +400,18 @@ at INT8 deep learning operations than other FPGA DSP architectures"
 - intro: ICML 2017
 - arxiv: [https://arxiv.org/abs/1706.06873](https://arxiv.org/abs/1706.06873)
 
+# Pruning
+
+**ThiNet: A Filter Level Pruning Method for Deep Neural Network Compression**
+
+- intro: ICCV 2017
+- arxiv: [https://arxiv.org/abs/1707.06342](https://arxiv.org/abs/1707.06342)
+
+**Neuron Pruning for Compressing Deep Networks using Maxout Architectures**
+
+- intro: GCPR 2017
+- arxiv: [https://arxiv.org/abs/1707.06838](https://arxiv.org/abs/1707.06838)
+
 ## Quantized Neural Networks
 
 **Quantized Convolutional Neural Networks for Mobile Devices**
