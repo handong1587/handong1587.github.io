@@ -323,6 +323,11 @@ using a large number of the existing object proposal approaches.
 
 ## Projects
 
+**Benchmark Results of Correlation Filters**
+
+- intro: Collect and share results for correlation filter trackers.
+- github: [https://github.com/HakaseH/CF_benchmark_results](https://github.com/HakaseH/CF_benchmark_results)
+
 **JS-face-tracking-demo**
 
 ![](https://camo.githubusercontent.com/3cde9346fa47e7985235b22a9c032d149dcf7c6d/68747470733a2f2f692e696d6775722e636f6d2f6a36424f4b39662e676966)
