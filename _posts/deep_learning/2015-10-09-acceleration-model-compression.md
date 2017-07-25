@@ -404,7 +404,7 @@ at INT8 deep learning operations than other FPGA DSP architectures"
 
 **ThiNet: A Filter Level Pruning Method for Deep Neural Network Compression**
 
-- intro: ICCV 2017
+- intro: ICCV 2017. Nanjing University & Shanghai Jiao Tong University
 - arxiv: [https://arxiv.org/abs/1707.06342](https://arxiv.org/abs/1707.06342)
 
 **Neuron Pruning for Compressing Deep Networks using Maxout Architectures**
@@ -460,7 +460,7 @@ at INT8 deep learning operations than other FPGA DSP architectures"
 
 **Binarized Convolutional Neural Networks with Separable Filters for Efficient Hardware Acceleration**
 
-- intro: Embedded Vision Workshop (CVPRW)
+- intro: Embedded Vision Workshop (CVPRW). UC San Diego & UC Los Angeles & Cornell University
 - arxiv: [https://arxiv.org/abs/1707.04693](https://arxiv.org/abs/1707.04693)
 
 ## Accelerating / Fast Algorithms

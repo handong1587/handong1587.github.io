@@ -382,8 +382,9 @@ after the embedding and recurrent layers of the RNN."
 
 **Semantic Compositional Networks for Visual Captioning**
 
-- intro: Duke University & Tsinghua University & MSR
+- intro: CVPR 2017. Duke University & Tsinghua University & MSR
 - arxiv: [https://arxiv.org/abs/1611.08002](https://arxiv.org/abs/1611.08002)
+- github: [https://github.com/zhegan27/SCN_for_video_captioning](https://github.com/zhegan27/SCN_for_video_captioning)
 
 **Hierarchical Boundary-Aware Neural Encoder for Video Captioning**
 

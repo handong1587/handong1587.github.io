@@ -595,7 +595,7 @@ Continuation of [arXiv:1608.08021](https://arxiv.org/abs/1608.08021)
 
 **Deformable Part-based Fully Convolutional Network for Object Detection**
 
-- intro: BMVC 2017 (oral)
+- intro: BMVC 2017 (oral). Sorbonne Universités & CEDRIC
 - arxiv: [https://arxiv.org/abs/1707.06175](https://arxiv.org/abs/1707.06175)
 
 **Adaptive Feeding: Achieving Fast and Accurate Detections by Adaptively Combining Object Detectors**

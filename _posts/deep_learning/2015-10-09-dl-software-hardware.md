@@ -165,6 +165,11 @@ Contains all the popular DL frameworks (TensorFlow, Theano, Torch, Caffe, etc.)
 
 [http://www.topbots.com/deep-confusion-misadventures-in-building-a-machine-learning-server/](http://www.topbots.com/deep-confusion-misadventures-in-building-a-machine-learning-server/)
 
+**DIY-Deep-Learning-Workstation**
+
+- intro: Build a deep learning workstation from scratch (HW & SW). 
+- github: [https://github.com/charlesq34/DIY-Deep-Learning-Workstation](https://github.com/charlesq34/DIY-Deep-Learning-Workstation)
+
 # GPU
 
 **Which GPU(s) to Get for Deep Learning: My Experience and Advice for Using GPUs in Deep Learning**

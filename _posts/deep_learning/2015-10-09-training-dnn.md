@@ -784,7 +784,9 @@ date: 2015-10-09
 
 **The Reversible Residual Network: Backpropagation Without Storing Activations**
 
-[https://arxiv.org/abs/1707.04585](https://arxiv.org/abs/1707.04585)
+- intro: CoRR 2017. University of Toronto
+- arxiv: [https://arxiv.org/abs/1707.04585](https://arxiv.org/abs/1707.04585)
+- github: [https://github.com/renmengye/revnet-public](https://github.com/renmengye/revnet-public)
 
 # Accelerate Training
 
@@ -906,6 +908,13 @@ date: 2015-10-09
 
 - arxiv: [http://arxiv.org/abs/1609.07061](http://arxiv.org/abs/1609.07061)
 
+# Adversarial Training
+
+**Learning from Simulated and Unsupervised Images through Adversarial Training**
+
+- intro: CVPR 2017 oral, best paper award. Apple Inc.
+- arxiv: [https://arxiv.org/abs/1612.07828](https://arxiv.org/abs/1612.07828)
+
 # Papers
 
 **Understanding the difficulty of training deep feed forward neural networks**
@@ -944,7 +953,12 @@ date: 2015-10-09
 **FreezeOut: Accelerate Training by Progressively Freezing Layers**
 
 - arxiv: [https://arxiv.org/abs/1706.04983](https://arxiv.org/abs/1706.04983)
-- github: [https://github.com/ajbrock/FreezeOut]()
+- github: [https://github.com/ajbrock/FreezeOut](https://github.com/ajbrock/FreezeOut)
+
+**Normalized Gradient with Adaptive Stepsize Method for Deep Neural Network Training**
+
+- intro: CMU & The University of Iowa
+- arxiv: [https://arxiv.org/abs/1707.04822](https://arxiv.org/abs/1707.04822)
 
 # Tools
 

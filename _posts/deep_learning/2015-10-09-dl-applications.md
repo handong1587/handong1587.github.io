@@ -918,6 +918,8 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 
 - intro: CVPR 2017 workshop. Best paper award of the NTIRE2017 workshop, and the winners of the NTIRE2017 Challenge on Single Image Super-Resolution
 - arxiv: [https://arxiv.org/abs/1707.02921](https://arxiv.org/abs/1707.02921)
+- paper: [http://cv.snu.ac.kr/publication/conf/2017/EDSR_fixed.pdf](http://cv.snu.ac.kr/publication/conf/2017/EDSR_fixed.pdf)
+- github: [https://github.com/LimBee/NTIRE2017](https://github.com/LimBee/NTIRE2017)
 
 **Fast and Accurate Image Super Resolution by Deep CNN with Skip Connection and Network in Network**
 
@@ -1149,6 +1151,11 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 - intro: MIT & Google Research
 - arxiv: [https://arxiv.org/abs/1707.02880](https://arxiv.org/abs/1707.02880)
 
+**Aesthetic-Driven Image Enhancement by Adversarial Learning**
+
+- intro: CUHK
+- arxiv: [https://arxiv.org/abs/1707.05251](https://arxiv.org/abs/1707.05251)
+
 # Abnormality Detection / Anomaly Detection
 
 **Toward a Taxonomy and Computational Models of Abnormalities in Images**
@@ -1229,6 +1236,7 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 
 - intro: University of California & Adobe Research. CVPR 2017
 - arxiv: [https://arxiv.org/abs/1703.01664](https://arxiv.org/abs/1703.01664)
+- github: [https://github.com/Yijunmaverick/MultiTextureSynthesis](https://github.com/Yijunmaverick/MultiTextureSynthesis)
 
 # Image Synthesis
 
@@ -1314,8 +1322,10 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 
 **Convolutional neural network architecture for geometric matching**
 
-- intro: CVPR 2017
+- intro: CVPR 2017. Inria
+- project page: [http://www.di.ens.fr/willow/research/cnngeometric/](http://www.di.ens.fr/willow/research/cnngeometric/)
 - arxiv: [https://arxiv.org/abs/1703.05593](https://arxiv.org/abs/1703.05593)
+- github: [https://github.com/ignacio-rocco/cnngeometric_matconvnet](https://github.com/ignacio-rocco/cnngeometric_matconvnet)
 
 # Image Editing
 

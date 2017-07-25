@@ -333,7 +333,12 @@ not just the convolutions)
 
 **Memory-Efficient Implementation of DenseNets**
 
-[https://arxiv.org/abs/1707.06990](https://arxiv.org/abs/1707.06990)
+- intro: Cornell University & Fudan University & Facebook AI Research
+- arxiv: [https://arxiv.org/abs/1707.06990](https://arxiv.org/abs/1707.06990)
+- github: [https://github.com/liuzhuang13/DenseNet/tree/master/models](https://github.com/liuzhuang13/DenseNet/tree/master/models)
+- github: [https://github.com/gpleiss/efficient_densenet_pytorch](https://github.com/gpleiss/efficient_densenet_pytorch)
+- github: [https://github.com/taineleau/efficient_densenet_mxnet](https://github.com/taineleau/efficient_densenet_mxnet)
+- github: [https://github.com/Tongcheng/DN_CaffeScript](https://github.com/Tongcheng/DN_CaffeScript)
 
 ## ImageNet Projects
 
@@ -1023,6 +1028,7 @@ with fast exact probabilistic inference over many layers."
 
 - intro: Harvard University
 - paper: [http://www.eecs.harvard.edu/~htk/publication/2016-icpr-teerapittayanon-mcdanel-kung.pdf](http://www.eecs.harvard.edu/~htk/publication/2016-icpr-teerapittayanon-mcdanel-kung.pdf)
+- github: [https://github.com/kunglab/branchynet](https://github.com/kunglab/branchynet)
 
 **Spectral Convolution Networks**
 
@@ -2283,7 +2289,8 @@ It is based on Facebook's TorchCraft, which is a bridge between Torch and StarCr
 
 **Deep Layer Aggregation**
 
-[https://arxiv.org/abs/1707.06484](https://arxiv.org/abs/1707.06484)
+- intro: UC Berkeley
+- arxiv: [https://arxiv.org/abs/1707.06484](https://arxiv.org/abs/1707.06484)
 
 ## Tutorials and Surveys
 
@@ -2944,6 +2951,14 @@ feed-forward neural nets and deep learning.
 **cuda-on-cl: Build NVIDIA® CUDA™ code for OpenCL™ 1.2 devices**
 
 - github: [https://github.com/hughperkins/cuda-on-cl](https://github.com/hughperkins/cuda-on-cl)
+
+# Hackathons
+
+**VisionHack 2017**
+
+- intro: 10 - 14 Sep 2017, Moscow, Russia
+- intro: a full-fledged hackathon that will last three full days
+- homepage: [http://visionhack.misis.ru/](http://visionhack.misis.ru/)
 
 # Books
 

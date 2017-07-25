@@ -119,6 +119,12 @@ date: 2015-10-09
 
 [http://blog.davidqiu.com/Research/%5B%20Recap%20%5D%20Deep%20Q-Learning%20Recap/](http://blog.davidqiu.com/Research/%5B%20Recap%20%5D%20Deep%20Q-Learning%20Recap/)
 
+**Introduction to Reinforcement Learning**
+
+- intro: Joelle Pineau [McGill University]
+- video: [http://videolectures.net/deeplearning2016_pineau_reinforcement_learning/](http://videolectures.net/deeplearning2016_pineau_reinforcement_learning/)
+- slides: [http://videolectures.net/site/normal_dl/tag=1051677/deeplearning2016_pineau_reinforcement_learning_01.pdf](http://videolectures.net/site/normal_dl/tag=1051677/deeplearning2016_pineau_reinforcement_learning_01.pdf)
+
 # Courses
 
 **Advanced Topics: RL**

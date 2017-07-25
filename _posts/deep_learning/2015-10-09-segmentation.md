@@ -80,7 +80,7 @@ date: 2015-10-09
 
 **Annotating Object Instances with a Polygon-RNN**
 
-- intro: CVPR 2017
+- intro: CVPR 2017. CVPR Best Paper Honorable Mention Award. University of Toronto
 - project page: [http://www.cs.toronto.edu/polyrnn/](http://www.cs.toronto.edu/polyrnn/)
 - arxiv: [https://arxiv.org/abs/1704.05548](https://arxiv.org/abs/1704.05548)
 
@@ -448,6 +448,7 @@ fine-tune the trained network with more challenging examples later
 
 - intro: Facebook AI Research & INRIA. NIPS Workshop on Adversarial Training, Dec 2016, Barcelona, Spain
 - arxiv: [https://arxiv.org/abs/1611.08408](https://arxiv.org/abs/1611.08408)
+- github(Chainer): [https://github.com/oyam/Semantic-Segmentation-using-Adversarial-Networks](https://github.com/oyam/Semantic-Segmentation-using-Adversarial-Networks)
 
 **Improving Fully Convolution Network for Semantic Segmentation**
 
@@ -569,7 +570,7 @@ with built-in awareness of semantically meaningful boundaries. "
 
 **Semantic Segmentation with Reverse Attention**
 
-- intro: BMVC 2017 oral
+- intro: BMVC 2017 oral. University of Southern California
 - arxiv: [https://arxiv.org/abs/1707.06426](https://arxiv.org/abs/1707.06426)
 
 # Instance Segmentation

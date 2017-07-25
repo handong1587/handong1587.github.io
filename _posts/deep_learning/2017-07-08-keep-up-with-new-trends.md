@@ -22,6 +22,10 @@ date: 2017-07-08
 
 [http://openaccess.thecvf.com/CVPR2017.py](http://openaccess.thecvf.com/CVPR2017.py)
 
+**CVPR 2017 Workshops, Honolulu Hawaii**
+
+[http://openaccess.thecvf.com/CVPR2017_workshops/menu.py](http://openaccess.thecvf.com/CVPR2017_workshops/menu.py)
+
 **CVPR'17 Tutorial: Deep Learning for Objects and Scenes**
 
 [http://deeplearning.csail.mit.edu/](http://deeplearning.csail.mit.edu/)

@@ -696,6 +696,10 @@ Classic strategies:
 
 [https://www.oreilly.com/learning/algorithmic-trading-in-less-than-100-lines-of-python-code](https://www.oreilly.com/learning/algorithmic-trading-in-less-than-100-lines-of-python-code)
 
+**Designing an Algorithmic Trading Strategy with Python**
+
+[https://www.youtube.com/watch?v=9XYjR6ge73M](https://www.youtube.com/watch?v=9XYjR6ge73M)
+
 # Papers
 
 **Do we Need Hundreds of Classifiers to Solve Real World Classification Problems?**
