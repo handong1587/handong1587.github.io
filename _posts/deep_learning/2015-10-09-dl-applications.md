@@ -924,6 +924,11 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 - arxiv: [https://arxiv.org/abs/1707.05425](https://arxiv.org/abs/1707.05425)
 - github(Tensorflow): [https://github.com/jiny2001/dcscn-super-resolution](https://github.com/jiny2001/dcscn-super-resolution)
 
+**Single Image Super-Resolution with Dilated Convolution based Multi-Scale Information Learning Inception Module**
+
+- intro: ICIP 2017
+- arxiv: [https://arxiv.org/abs/1707.07128](https://arxiv.org/abs/1707.07128)
+
 ## Video Super-resolution
 
 **Detail-revealing Deep Video Super-resolution**
@@ -984,7 +989,7 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 
 **Wide Inference Network for Image Denoising**
 
-[https://arxiv.org/abs/1707.05414](https://arxiv.org/abs/1707.05414)
+[https://arxiv.org/abs/1707.05414](hmttps://arxiv.org/abs/1707.05414)
 
 # Image Haze Removal
 

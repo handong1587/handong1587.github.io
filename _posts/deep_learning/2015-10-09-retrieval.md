@@ -566,6 +566,20 @@ and from 73.8% to 83.1% for ResNet-50
 
 [https://arxiv.org/abs/1707.02319](https://arxiv.org/abs/1707.02319)
 
+**Person Re-identification Using Visual Attention**
+
+- intro: ICIP 2017
+- arxiv: [https://arxiv.org/abs/1707.07336](https://arxiv.org/abs/1707.07336)
+
+**Deeply-Learned Part-Aligned Representations for Person Re-Identification**
+
+- intro: ICCV 2017
+- arxiv: [https://arxiv.org/abs/1707.07256](https://arxiv.org/abs/1707.07256)
+
+**What-and-Where to Match: Deep Spatially Multiplicative Integration Networks for Person Re-identification**
+
+[https://arxiv.org/abs/1707.07074](https://arxiv.org/abs/1707.07074)
+
 ## Person Search
 
 **End-to-End Deep Learning for Person Search**

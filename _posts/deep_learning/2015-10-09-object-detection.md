@@ -860,6 +860,10 @@ This task involves predicting the salient regions of an image given by human eye
 
 [https://arxiv.org/abs/1704.07242](https://arxiv.org/abs/1704.07242)
 
+**Group-wise Deep Co-saliency Detection**
+
+[https://arxiv.org/abs/1707.07381](https://arxiv.org/abs/1707.07381)
+
 ## Saliency Detection in Video
 
 **Deep Learning For Video Saliency Detection**
