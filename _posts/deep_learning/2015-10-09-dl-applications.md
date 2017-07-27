@@ -1141,6 +1141,12 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 - intro: Beckman Institute for Advanced Science and Technology & Adobe Research
 - arxiv: [https://arxiv.org/abs/1703.03872](https://arxiv.org/abs/1703.03872)
 
+**Fast Deep Matting for Portrait Animation on Mobile Phone**
+
+- intro: ACM Multimedia Conference (MM) 2017
+- intro: does not need any interaction and can realize real-time matting with 15 fps
+- arxiv: [https://arxiv.org/abs/1707.08289](https://arxiv.org/abs/1707.08289)
+
 # Image Blending
 
 **GP-GAN: Towards Realistic High-Resolution Image Blending**
