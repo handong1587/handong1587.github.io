@@ -255,10 +255,12 @@ using a large number of the existing object proposal approaches.
 
 **Struck: Structured Output Tracking with Kernels**
 
+- intro: ICCV 2011
 - paper: [http://mftp.mmcheng.net/Papers/StruckPAMI.pdf](http://mftp.mmcheng.net/Papers/StruckPAMI.pdf)
 - paper: [http://www.robots.ox.ac.uk/~tvg/publications/2015/struck-author.pdf](http://www.robots.ox.ac.uk/~tvg/publications/2015/struck-author.pdf)
 - paper: [http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=7360205](http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=7360205)
 - slides: [http://vision.stanford.edu/teaching/cs231b_spring1415/slides/struck_meng.pdf](http://vision.stanford.edu/teaching/cs231b_spring1415/slides/struck_meng.pdf)
+- github: [https://github.com/samhare/struck](https://github.com/samhare/struck)
 - github: [https://github.com/gnebehay/STRUCK](https://github.com/gnebehay/STRUCK)
 
 **High-Speed Tracking with Kernelized Correlation Filters**
@@ -304,7 +306,7 @@ using a large number of the existing object proposal approaches.
 
 - intro: ICIP 2016. SORT = Simple Online and Realtime Tracking
 - intro: Simple, online, and realtime tracking of multiple objects in a video sequence
-- intro: Kalman Filter, Hungarian algorithm, 260 Hz
+- keywords: Kalman Filter, Hungarian algorithm, 260 Hz
 - arxiv: [http://arxiv.org/abs/1602.00763](http://arxiv.org/abs/1602.00763)
 - github: [https://github.com/abewley/sort](https://github.com/abewley/sort)
 - demo: [https://motchallenge.net/movies/ETH-Linthescher-SORT.mp4](https://motchallenge.net/movies/ETH-Linthescher-SORT.mp4)

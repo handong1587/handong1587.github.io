@@ -575,6 +575,10 @@ Continuation of [arXiv:1608.08021](https://arxiv.org/abs/1608.08021)
 
 [https://arxiv.org/abs/1706.08249](https://arxiv.org/abs/1706.08249)
 
+**Yes-Net: An effective Detector Based on Global Information**
+
+[https://arxiv.org/abs/1706.09180](https://arxiv.org/abs/1706.09180)
+
 **SMC Faster R-CNN: Toward a scene-specialized multi-object detector**
 
 [https://arxiv.org/abs/1706.10217](https://arxiv.org/abs/1706.10217)
