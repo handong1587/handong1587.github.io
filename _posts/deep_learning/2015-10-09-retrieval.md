@@ -473,6 +473,13 @@ and from 73.8% to 83.1% for ResNet-50
 
 - arxiv: [http://arxiv.org/abs/1601.07255](http://arxiv.org/abs/1601.07255)
 
+**Person Re-identification in the Wild**
+
+- intro: CVPR 2017 spotlight
+- project page: [http://www.liangzheng.com.cn/Project/project_prw.html](http://www.liangzheng.com.cn/Project/project_prw.html)
+- arxiv: [https://arxiv.org/abs/1604.02531](https://arxiv.org/abs/1604.02531)
+- github: [https://github.com/liangzheng06/PRW-baseline](https://github.com/liangzheng06/PRW-baseline)
+
 **Learning Deep Feature Representations with Domain Guided Dropout for Person Re-identification**
 
 - intro: CVPR 2016
@@ -579,6 +586,10 @@ and from 73.8% to 83.1% for ResNet-50
 **What-and-Where to Match: Deep Spatially Multiplicative Integration Networks for Person Re-identification**
 
 [https://arxiv.org/abs/1707.07074](https://arxiv.org/abs/1707.07074)
+
+**Deep Feature Learning via Structured Graph Laplacian Embedding for Person Re-Identification**
+
+[https://arxiv.org/abs/1707.07791](https://arxiv.org/abs/1707.07791)
 
 ## Person Search
 

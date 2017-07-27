@@ -503,7 +503,7 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 
 [https://arxiv.org/abs/1707.05972](https://arxiv.org/abs/1707.05972)
 
-## Crowd Counting / Analysis
+## Crowd Counting / Crowd Analysis
 
 **Large scale crowd analysis based on convolutional neural network**
 
@@ -581,6 +581,11 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 **A Survey of Recent Advances in CNN-based Single Image Crowd Counting and Density Estimation**
 
 [https://arxiv.org/abs/1707.01202](https://arxiv.org/abs/1707.01202)
+
+**Spatiotemporal Modeling for Crowd Counting in Videos**
+
+- intro: ICCV 2017
+- arxiv: [https://arxiv.org/abs/1707.07890](https://arxiv.org/abs/1707.07890)
 
 # Activity Recognition
 
