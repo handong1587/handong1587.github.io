@@ -388,6 +388,11 @@ date: 2015-10-09
 
 [https://arxiv.org/abs/1707.06772](https://arxiv.org/abs/1707.06772)
 
+**Learning Bag-of-Features Pooling for Deep Convolutional Neural Networks
+
+- intro: ICCV 2017
+- arxiv: [https://arxiv.org/abs/1707.08105](https://arxiv.org/abs/1707.08105)
+
 # Batch
 
 **Online Batch Selection for Faster Training of Neural Networks**

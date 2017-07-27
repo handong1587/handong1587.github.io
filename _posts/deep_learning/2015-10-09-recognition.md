@@ -287,6 +287,10 @@ date: 2015-10-09
 - intro: Amirkabir University of Technology & MIT
 - arxiv: [https://arxiv.org/abs/1706.06247](https://arxiv.org/abs/1706.06247)
 
+**Enhancing Convolutional Neural Networks for Face Recognition with Occlusion Maps and Batch Triplet Loss**
+
+[https://arxiv.org/abs/1707.07923](https://arxiv.org/abs/1707.07923)
+
 ### Video Face Recognition
 
 **Attention-Set based Metric Learning for Video Face Recognition**

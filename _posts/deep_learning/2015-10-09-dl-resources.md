@@ -2296,6 +2296,10 @@ It is based on Facebook's TorchCraft, which is a bridge between Torch and StarCr
 - intro: UC Berkeley
 - arxiv: [https://arxiv.org/abs/1707.06484](https://arxiv.org/abs/1707.06484)
 
+**Improving Robustness of Feature Representations to Image Deformations using Powered Convolution in CNNs**
+
+[https://arxiv.org/abs/1707.07830](https://arxiv.org/abs/1707.07830)
+
 ## Tutorials and Surveys
 
 **On the Origin of Deep Learning**

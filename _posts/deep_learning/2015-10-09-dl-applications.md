@@ -503,7 +503,7 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 
 [https://arxiv.org/abs/1707.05972](https://arxiv.org/abs/1707.05972)
 
-## Crowd Counting / Analysis
+## Crowd Counting / Crowd Analysis
 
 **Large scale crowd analysis based on convolutional neural network**
 
@@ -581,6 +581,11 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 **A Survey of Recent Advances in CNN-based Single Image Crowd Counting and Density Estimation**
 
 [https://arxiv.org/abs/1707.01202](https://arxiv.org/abs/1707.01202)
+
+**Spatiotemporal Modeling for Crowd Counting in Videos**
+
+- intro: ICCV 2017
+- arxiv: [https://arxiv.org/abs/1707.07890](https://arxiv.org/abs/1707.07890)
 
 # Activity Recognition
 
@@ -1135,6 +1140,12 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 - intro: CVPR 2017
 - intro: Beckman Institute for Advanced Science and Technology & Adobe Research
 - arxiv: [https://arxiv.org/abs/1703.03872](https://arxiv.org/abs/1703.03872)
+
+**Fast Deep Matting for Portrait Animation on Mobile Phone**
+
+- intro: ACM Multimedia Conference (MM) 2017
+- intro: does not need any interaction and can realize real-time matting with 15 fps
+- arxiv: [https://arxiv.org/abs/1707.08289](https://arxiv.org/abs/1707.08289)
 
 # Image Blending
 

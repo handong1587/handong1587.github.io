@@ -484,6 +484,10 @@ and from 73.8% to 83.1% for ResNet-50
 - intro: CVPR 2016
 - paper: [http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Cheng_Person_Re-Identification_by_CVPR_2016_paper.pdf](http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Cheng_Person_Re-Identification_by_CVPR_2016_paper.pdf)
 
+**End-to-End Comparative Attention Networks for Person Re-identification**
+
+[https://arxiv.org/abs/1606.04404](https://arxiv.org/abs/1606.04404)
+
 **A Multi-task Deep Network for Person Re-identification**
 
 - arxiv: [http://arxiv.org/abs/1607.05369](http://arxiv.org/abs/1607.05369)
@@ -511,6 +515,10 @@ and from 73.8% to 83.1% for ResNet-50
 **Structured Deep Hashing with Convolutional Neural Networks for Fast Person Re-identification**
 
 - arxiv: [https://arxiv.org/abs/1702.04179](https://arxiv.org/abs/1702.04179)
+
+**Improving Person Re-identification by Attribute and Identity Learning**
+
+[https://arxiv.org/abs/1703.07220](https://arxiv.org/abs/1703.07220)
 
 **In Defense of the Triplet Loss for Person Re-Identification**
 
@@ -580,6 +588,10 @@ and from 73.8% to 83.1% for ResNet-50
 
 [https://arxiv.org/abs/1707.07074](https://arxiv.org/abs/1707.07074)
 
+**Deep Feature Learning via Structured Graph Laplacian Embedding for Person Re-Identification**
+
+[https://arxiv.org/abs/1707.07791](https://arxiv.org/abs/1707.07791)
+
 ## Person Search
 
 **End-to-End Deep Learning for Person Search**
@@ -593,13 +605,21 @@ and from 73.8% to 83.1% for ResNet-50
 - paper: [http://www.ee.cuhk.edu.hk/~xgwang/PS/paper.pdf](http://www.ee.cuhk.edu.hk/~xgwang/PS/paper.pdf)
 - github(official. Caffe): [https://github.com/ShuangLI59/person_search](https://github.com/ShuangLI59/person_search)
 
+**Person Re-identification in the Wild**
+
+- intro: CVPR 2017 spotlight
+- keywords: PRW dataset
+- project page: [http://www.liangzheng.com.cn/Project/project_prw.html](http://www.liangzheng.com.cn/Project/project_prw.html)
+- arxiv: [https://arxiv.org/abs/1604.02531](https://arxiv.org/abs/1604.02531)
+- github: [https://github.com/liangzheng06/PRW-baseline](https://github.com/liangzheng06/PRW-baseline)
+
 **IAN: The Individual Aggregation Network for Person Search**
 
 [https://arxiv.org/abs/1705.05552](https://arxiv.org/abs/1705.05552)
 
 **Neural Person Search Machines**
 
-- intro: ICCV2017
+- intro: ICCV 2017
 - arxiv: [https://arxiv.org/abs/1707.06777](https://arxiv.org/abs/1707.06777)
 
 ## Projects
