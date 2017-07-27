@@ -1511,6 +1511,10 @@ with fast exact probabilistic inference over many layers."
 - intro: [https://simons.berkeley.edu/talks/sergey-levine-01-24-2017-1](https://simons.berkeley.edu/talks/sergey-levine-01-24-2017-1)
 - youtube: [https://www.youtube.com/watch?v=jtjW5Pye_44](https://www.youtube.com/watch?v=jtjW5Pye_44)
 
+**Deep Learning in Robotics: A Review of Recent Research**
+
+[https://arxiv.org/abs/1707.07217](https://arxiv.org/abs/1707.07217)
+
 # Deep Learning on Mobile / Embedded Devices
 
 **Convolutional neural networks on the iPhone with VGGNet**
