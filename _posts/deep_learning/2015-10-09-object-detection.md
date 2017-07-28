@@ -320,6 +320,11 @@ date: 2015-10-09
 - arxiv: [https://arxiv.org/abs/1701.06659](https://arxiv.org/abs/1701.06659)
 - demo: [http://120.52.72.53/www.cs.unc.edu/c3pr90ntc0td/~cyfu/dssd_lalaland.mp4](http://120.52.72.53/www.cs.unc.edu/c3pr90ntc0td/~cyfu/dssd_lalaland.mp4)
 
+**Context-aware Single-Shot Detector**
+
+- keywords: CSSD, DiCSSD, DeCSSD, effective receptive fields (ERFs),  theoretical receptive fields (TRFs)
+- arxiv: [https://arxiv.org/abs/1707.08682](https://arxiv.org/abs/1707.08682)
+
 - - -
 
 ## Inside-Outside Net (ION)

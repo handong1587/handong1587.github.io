@@ -472,6 +472,10 @@ facial action unit recognition, and eye-gaze estimation.
 
 [https://arxiv.org/abs/1706.04062](https://arxiv.org/abs/1706.04062)
 
+**Food Ingredients Recognition through Multi-label Learning**
+
+[https://arxiv.org/abs/1707.08816](https://arxiv.org/abs/1707.08816)
+
 ### Attribute Recognition
 
 **Multi-attribute Learning for Pedestrian Attribute Recognition in Surveillance Scenarios**
@@ -489,6 +493,10 @@ facial action unit recognition, and eye-gaze estimation.
 
 - intro: AVSS 2017 oral
 - arxiv: [https://arxiv.org/abs/1707.02240](https://arxiv.org/abs/1707.02240)
+
+**A Jointly Learned Deep Architecture for Facial Attribute Analysis and Face Detection in the Wild**
+
+[https://arxiv.org/abs/1707.08705](https://arxiv.org/abs/1707.08705)
 
 ### Instrument Recognition
 
