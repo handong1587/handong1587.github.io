@@ -622,6 +622,21 @@ and from 73.8% to 83.1% for ResNet-50
 - intro: ICCV 2017
 - arxiv: [https://arxiv.org/abs/1707.06777](https://arxiv.org/abs/1707.06777)
 
+## Deep Metric Learning
+
+**Deep Metric Learning for Person Re-Identification**
+
+- intro: ICPR 2014
+- paper: [http://www.cbsr.ia.ac.cn/users/zlei/papers/ICPR2014/Yi-ICPR-14.pdf](http://www.cbsr.ia.ac.cn/users/zlei/papers/ICPR2014/Yi-ICPR-14.pdf)
+
+**Deep Metric Learning for Practical Person Re-Identification**
+
+[https://arxiv.org/abs/1407.4979](https://arxiv.org/abs/1407.4979)
+
+**Constrained Deep Metric Learning for Person Re-identification**
+
+[https://arxiv.org/abs/1511.07545](https://arxiv.org/abs/1511.07545)
+
 ## Projects
 
 **Open-ReID: Open source person re-identification library in python**
