@@ -392,6 +392,7 @@ date: 2015-10-09
 
 - intro: ICCV 2017
 - arxiv: [https://arxiv.org/abs/1707.08105](https://arxiv.org/abs/1707.08105)
+- github: [https://github.com/passalis/cbof](https://github.com/passalis/cbof)
 
 # Batch
 
