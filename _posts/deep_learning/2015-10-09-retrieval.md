@@ -668,6 +668,12 @@ and from 73.8% to 83.1% for ResNet-50
 
 # Deep Metric Learning
 
+**Deep metric learning using Triplet network**
+
+- arxiv: [https://arxiv.org/abs/1412.6622](https://arxiv.org/abs/1412.6622)
+- slides: [http://tce.technion.ac.il/wp-content/uploads/sites/8/2016/01/Elad-Hofer.pdf](http://tce.technion.ac.il/wp-content/uploads/sites/8/2016/01/Elad-Hofer.pdf)
+- github: [https://github.com/eladhoffer/TripletNet](https://github.com/eladhoffer/TripletNet)
+
 **Learnable Structured Clustering Framework for Deep Metric Learning**
 
 - arxiv: [https://arxiv.org/abs/1612.01213](https://arxiv.org/abs/1612.01213)
