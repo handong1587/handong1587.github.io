@@ -5,6 +5,17 @@ title: Keep Up With New Trends
 date: 2017-07-08
 ---
 
+# ILSVRC 2017
+
+**Overview of ILSVRC 2017**
+
+[http://image-net.org/challenges/talks_2017/ILSVRC2017_overview.pdf](http://image-net.org/challenges/talks_2017/ILSVRC2017_overview.pdf)
+
+**ImageNet: Where are we going? And where have we been?**
+
+- intro: by Fei-Fei Li, Jia Deng
+- slides: [http://image-net.org/challenges/talks_2017/imagenet_ilsvrc2017_v1.0.pdf](http://image-net.org/challenges/talks_2017/imagenet_ilsvrc2017_v1.0.pdf)
+
 # Deep Learning and Reinforcement Learning Summer School 2017
 
 - homepage: [https://mila.umontreal.ca/en/cours/deep-learning-summer-school-2017/](https://mila.umontreal.ca/en/cours/deep-learning-summer-school-2017/)

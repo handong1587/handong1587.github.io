@@ -183,6 +183,11 @@ based on decision tree algorithms, used for ranking, classification and many oth
 - arxiv: [https://arxiv.org/abs/1706.08359](https://arxiv.org/abs/1706.08359)
 - github: [https://github.com/huanzhang12/lightgbm-gpu](https://github.com/huanzhang12/lightgbm-gpu)
 
+**Lessons Learned From Benchmarking Fast Machine Learning Algorithms**
+
+- intro: XGBoost and LightGBM
+- blog: [https://blogs.technet.microsoft.com/machinelearning/2017/07/25/lessons-learned-benchmarking-fast-machine-learning-algorithms/](https://blogs.technet.microsoft.com/machinelearning/2017/07/25/lessons-learned-benchmarking-fast-machine-learning-algorithms/)
+
 # Bootstrap
 
 **Coding, Visualizing, and Animating Bootstrap Resampling**

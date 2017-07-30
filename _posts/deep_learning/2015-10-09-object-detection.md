@@ -256,6 +256,7 @@ date: 2015-10-09
 - github(Tensorflow): [https://github.com/hizhangp/yolo_tensorflow](https://github.com/hizhangp/yolo_tensorflow)
 - github(Windows): [https://github.com/AlexeyAB/darknet](https://github.com/AlexeyAB/darknet)
 - github: [https://github.com/choasUp/caffe-yolo9000](https://github.com/choasUp/caffe-yolo9000)
+- github: [https://github.com/philipperemy/yolo-9000](https://github.com/philipperemy/yolo-9000)
 
 **Yolo_mark: GUI for marking bounded boxes of objects in images for training Yolo v2**
 
@@ -302,6 +303,7 @@ date: 2015-10-09
 - github: [https://github.com/rykov8/ssd_keras](https://github.com/rykov8/ssd_keras)
 - github: [https://github.com/balancap/SSD-Tensorflow](https://github.com/balancap/SSD-Tensorflow)
 - github: [https://github.com/amdegroot/ssd.pytorch](https://github.com/amdegroot/ssd.pytorch)
+- github(Caffe): [https://github.com/chuanqi305/MobileNet-SSD](https://github.com/chuanqi305/MobileNet-SSD)
 
 **What's the diffience in performance between this new code you pushed and the previous code? #327**
 
@@ -719,6 +721,10 @@ Continuation of [arXiv:1608.08021](https://arxiv.org/abs/1608.08021)
 
 - blog: [http://andrewliao11.github.io/object_detection/faster_rcnn/](http://andrewliao11.github.io/object_detection/faster_rcnn/)
 - github: [https://github.com/andrewliao11/py-faster-rcnn-imagenet](https://github.com/andrewliao11/py-faster-rcnn-imagenet)
+
+**Improving Context Modeling for Video Object Detection and Tracking**
+
+[http://image-net.org/challenges/talks_2017/ilsvrc2017_short(poster).pdf](http://image-net.org/challenges/talks_2017/ilsvrc2017_short(poster).pdf)
 
 # Object Detection in 3D
 

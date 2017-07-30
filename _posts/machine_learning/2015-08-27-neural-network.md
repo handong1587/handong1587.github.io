@@ -244,6 +244,11 @@ explore how it functions, and build a back propagation neural network library in
 - homepage: [http://brainjs.com/](http://brainjs.com/)
 - github: [https://github.com/harthur-org/brain.js](https://github.com/harthur-org/brain.js)
 
+**Neural Network in Rust**
+
+- homepage: [http://juggernaut.rs/](http://juggernaut.rs/)
+- github: [https://github.com/afshinm/juggernaut](https://github.com/afshinm/juggernaut)
+
 # Videos
 
 **Neural Networks with PHP**

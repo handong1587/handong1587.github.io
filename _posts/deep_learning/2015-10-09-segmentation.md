@@ -939,6 +939,10 @@ ranked 1st place in ImageNet Scene Parsing Challenge 2016
 - homepage: [http://davischallenge.org/](http://davischallenge.org/)
 - arxiv: [https://arxiv.org/abs/1704.00675](https://arxiv.org/abs/1704.00675)
 
+**DAVIS Challenge on Video Object Segmentation 2017**
+
+[http://davischallenge.org/challenge2017/publications.html](http://davischallenge.org/challenge2017/publications.html)
+
 # Projects
 
 **TF Image Segmentation: Image Segmentation framework**

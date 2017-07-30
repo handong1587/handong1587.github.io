@@ -1245,7 +1245,7 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 
 **Diversified Texture Synthesis with Feed-forward Networks**
 
-- intro: University of California & Adobe Research. CVPR 2017
+- intro: CVPR 2017. University of California & Adobe Research
 - arxiv: [https://arxiv.org/abs/1703.01664](https://arxiv.org/abs/1703.01664)
 - github: [https://github.com/Yijunmaverick/MultiTextureSynthesis](https://github.com/Yijunmaverick/MultiTextureSynthesis)
 

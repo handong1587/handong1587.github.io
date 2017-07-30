@@ -436,6 +436,11 @@ facial action unit recognition, and eye-gaze estimation.
 - intro: by 吴建鑫, NJU. VALSE 2017 Annual Progress Review Series
 - slides: [http://mac.xmu.edu.cn/valse2017/ppt/APR/wjx_APR.pdf](http://mac.xmu.edu.cn/valse2017/ppt/APR/wjx_APR.pdf)
 
+**Look Closer to See Better: Recurrent Attention Convolutional Neural Network for Fine-grained Image Recognition**
+
+- intro: CVPR 2017
+- paper: [http://openaccess.thecvf.com/content_cvpr_2017/papers/Fu_Look_Closer_to_CVPR_2017_paper.pdf](http://openaccess.thecvf.com/content_cvpr_2017/papers/Fu_Look_Closer_to_CVPR_2017_paper.pdf)
+
 ### Food Recognition
 
 **DeepFood: Deep Learning-Based Food Image Recognition for Computer-Aided Dietary Assessment**

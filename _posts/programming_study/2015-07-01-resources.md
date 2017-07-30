@@ -633,6 +633,11 @@ control a spaceship in order to complete some objective.
 
 [https://github.com/JoshData/pdf-diff](https://github.com/JoshData/pdf-diff)
 
+**Web Image Downloader Tools**
+
+- intro: Python utilities for automated download of images from various web sources
+- github: [https://github.com/kencoken/imsearch-tools](https://github.com/kencoken/imsearch-tools)
+
 ## Multi-media
 
 **cmus — C* Music Player**

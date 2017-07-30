@@ -157,6 +157,12 @@ date: 2015-10-09
 
 [https://blog.statsbot.co/recommendation-system-algorithms-ba67f39ac9a3](https://blog.statsbot.co/recommendation-system-algorithms-ba67f39ac9a3)
 
+**Building a Music Recommender with Deep Learning**
+
+- intro: Music recommender using deep learning with Keras and TensorFlow
+- blog: [http://mattmurray.net/building-a-music-recommender-with-deep-learning/](http://mattmurray.net/building-a-music-recommender-with-deep-learning/)
+- github: [https://github.com/mattmurray/music_recommender](https://github.com/mattmurray/music_recommender)
+
 # Projects
 
 **NNRec: Neural models for Collaborative Filtering**

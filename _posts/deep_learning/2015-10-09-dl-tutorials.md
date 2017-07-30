@@ -757,6 +757,11 @@ Machine learning workflow, Extracting feaures from images (colours, edges, corne
 
 - github: [https://github.com/k-kawakami/Theano_Tutorial/blob/master/Theano_Tutorial.ipynb](https://github.com/k-kawakami/Theano_Tutorial/blob/master/Theano_Tutorial.ipynb)
 
+**An Introduction to MXNet/Gluon**
+
+- intro: @李沐
+- github: [https://github.com/mli/cvpr17](https://github.com/mli/cvpr17)
+
 # TensorFlow
 
 **LearningTensorFlow.com: A beginners guide to a powerful framework.**

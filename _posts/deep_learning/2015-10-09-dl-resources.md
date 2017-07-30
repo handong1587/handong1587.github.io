@@ -1617,6 +1617,16 @@ with fast exact probabilistic inference over many layers."
 - intro: Xi’an Jiaotong-Liverpool University
 - arxiv: [https://arxiv.org/abs/1706.10059](https://arxiv.org/abs/1706.10059)
 
+**Stock Prediction: a method based on extraction of news features and recurrent neural networks**
+
+- intro: Peking University. The 22nd China Conference on Information Retrieval
+- arxiv: [https://arxiv.org/abs/1707.07585](https://arxiv.org/abs/1707.07585)
+
+**Multidimensional LSTM Networks to Predict Bitcoin Price**
+
+- blog: [http://www.jakob-aungiers.com/articles/a/Multidimensional-LSTM-Networks-to-Predict-Bitcoin-Price](http://www.jakob-aungiers.com/articles/a/Multidimensional-LSTM-Networks-to-Predict-Bitcoin-Price)
+- github: [https://github.com/jaungiers/Multidimensional-LSTM-BitCoin-Time-Series](https://github.com/jaungiers/Multidimensional-LSTM-BitCoin-Time-Series)
+
 # Deep Learning in Speech
 
 **Deep Speech 2: End-to-End Speech Recognition in English and Mandarin**
@@ -2300,6 +2310,18 @@ It is based on Facebook's TorchCraft, which is a bridge between Torch and StarCr
 
 [https://arxiv.org/abs/1707.07830](https://arxiv.org/abs/1707.07830)
 
+**Learning uncertainty in regression tasks by deep neural networks**
+
+- intro: Free University of Berlin
+- arxiv: [https://arxiv.org/abs/1707.07287](https://arxiv.org/abs/1707.07287)
+
+**DenseReg: Fully Convolutional Dense Shape Regression In-the-Wild**
+
+- intro: CVPR 2017
+- project page: [http://alpguler.com/DenseReg.html](http://alpguler.com/DenseReg.html)
+- arxiv: [https://arxiv.org/abs/1612.01202](https://arxiv.org/abs/1612.01202)
+- github: [https://github.com/ralpguler/DenseReg](https://github.com/ralpguler/DenseReg)
+
 ## Tutorials and Surveys
 
 **On the Origin of Deep Learning**
@@ -2505,6 +2527,11 @@ It is based on Facebook's TorchCraft, which is a bridge between Torch and StarCr
 **DSAC - Differentiable RANSAC for Camera Localization**
 
 - arxiv: [https://arxiv.org/abs/1611.05705](https://arxiv.org/abs/1611.05705)
+
+**Toward Geometric Deep SLAM**
+
+- intro: Magic Leap, Inc
+- arxiv: [https://arxiv.org/abs/1707.07410](https://arxiv.org/abs/1707.07410)
 
 ### Optical Flow
 
@@ -2959,6 +2986,11 @@ feed-forward neural nets and deep learning.
 **cuda-on-cl: Build NVIDIA® CUDA™ code for OpenCL™ 1.2 devices**
 
 - github: [https://github.com/hughperkins/cuda-on-cl](https://github.com/hughperkins/cuda-on-cl)
+
+**Receptive Field Calculator**
+
+- homepage: [http://fomoro.com/tools/receptive-fields/](http://fomoro.com/tools/receptive-fields/)
+- example: [http://fomoro.com/tools/receptive-fields/#3,1,1,VALID;3,1,1,VALID;3,1,1,VALID](http://fomoro.com/tools/receptive-fields/#3,1,1,VALID;3,1,1,VALID;3,1,1,VALID)
 
 # Hackathons
 
