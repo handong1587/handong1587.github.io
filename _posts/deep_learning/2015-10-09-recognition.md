@@ -489,6 +489,11 @@ facial action unit recognition, and eye-gaze estimation.
 - paper: [http://or.nsfc.gov.cn/bitstream/00001903-5/417802/1/1000014103914.pdf](http://or.nsfc.gov.cn/bitstream/00001903-5/417802/1/1000014103914.pdf)
 - github: [https://github.com/kyu-sz/DeepMAR_deploy](https://github.com/kyu-sz/DeepMAR_deploy)
 
+**Robust Pedestrian Attribute Recognition for an Unbalanced Dataset using Mini-batch Training with Rarity Rate**
+
+- intro: Intelligent Vehicles Symposium 2016. Chubu University & Nagoya University, Japan
+- paper: [http://www.vision.cs.chubu.ac.jp/MPRG/C_group/C081_fukui2016.pdf](http://www.vision.cs.chubu.ac.jp/MPRG/C_group/C081_fukui2016.pdf)
+
 **Weakly-supervised Learning of Mid-level Features for Pedestrian Attribute Recognition and Localization**
 
 - arxiv: [https://arxiv.org/abs/1611.05603](https://arxiv.org/abs/1611.05603)

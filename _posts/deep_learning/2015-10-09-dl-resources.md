@@ -1868,6 +1868,11 @@ It is based on Facebook's TorchCraft, which is a bridge between Torch and StarCr
 - arxiv: [https://arxiv.org/abs/1706.01869](https://arxiv.org/abs/1706.01869)
 - demo: [http://streetstyle.cs.cornell.edu/trends.html](http://streetstyle.cs.cornell.edu/trends.html)
 
+**Fashioning with Networks: Neural Style Transfer to Design Clothes**
+
+- intro: ML4Fashion 2017
+- arxiv: [https://arxiv.org/abs/1707.09899](https://arxiv.org/abs/1707.09899)
+
 # Benchmarks
 
 **Deep Learning’s Accuracy**
@@ -2322,6 +2327,18 @@ It is based on Facebook's TorchCraft, which is a bridge between Torch and StarCr
 - arxiv: [https://arxiv.org/abs/1612.01202](https://arxiv.org/abs/1612.01202)
 - github: [https://github.com/ralpguler/DenseReg](https://github.com/ralpguler/DenseReg)
 
+**Generalizing the Convolution Operator in Convolutional Neural Networks**
+
+[https://arxiv.org/abs/1707.09864](https://arxiv.org/abs/1707.09864)
+
+**Convolution with Logarithmic Filter Groups for Efficient Shallow CNN**
+
+[https://arxiv.org/abs/1707.09855](https://arxiv.org/abs/1707.09855)
+
+**Deep Multi-View Learning with Stochastic Decorrelation Loss**
+
+[https://arxiv.org/abs/1707.09669](https://arxiv.org/abs/1707.09669)
+
 ## Tutorials and Surveys
 
 **On the Origin of Deep Learning**
@@ -2504,6 +2521,12 @@ It is based on Facebook's TorchCraft, which is a bridge between Torch and StarCr
 **Ensemble Deep Learning**
 
 - blog: [https://amundtveit.com/2016/12/02/ensemble-deep-learning/](https://amundtveit.com/2016/12/02/ensemble-deep-learning/)
+
+## Embedding
+
+**Full-Network Embedding in a Multimodal Embedding Pipeline**
+
+[https://arxiv.org/abs/1707.09872](https://arxiv.org/abs/1707.09872)
 
 ## Computer Vision
 

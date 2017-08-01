@@ -587,6 +587,11 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 - intro: ICCV 2017
 - arxiv: [https://arxiv.org/abs/1707.07890](https://arxiv.org/abs/1707.07890)
 
+**CNN-based Cascaded Multi-task Learning of High-level Prior and Density Estimation for Crowd Counting**
+
+- intro: AVSS 2017 (14th International Conference on Advanced Video and Signal Based Surveillance)
+- arxiv: [https://arxiv.org/abs/1707.09605](https://arxiv.org/abs/1707.09605)
+
 # Activity Recognition
 
 **Implementing a CNN for Human Activity Recognition in Tensorflow**
@@ -997,6 +1002,11 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 **Wide Inference Network for Image Denoising**
 
 [https://arxiv.org/abs/1707.05414](hmttps://arxiv.org/abs/1707.05414)
+
+**Learning Pixel-Distribution Prior with Wider Convolution for Image Denoising**
+
+- arxiv: [https://arxiv.org/abs/1707.09135](https://arxiv.org/abs/1707.09135)
+- github(MatConvNet): [https://github.com/cswin/WIN](https://github.com/cswin/WIN)
 
 # Image Haze Removal
 

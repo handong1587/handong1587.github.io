@@ -400,6 +400,12 @@ at INT8 deep learning operations than other FPGA DSP architectures"
 - intro: ICML 2017
 - arxiv: [https://arxiv.org/abs/1706.06873](https://arxiv.org/abs/1706.06873)
 
+**Extremely Low Bit Neural Network: Squeeze the Last Bit Out with ADMM**
+
+- intro: Alibaba Group
+- keywords: alternating direction method of multipliers (ADMM)
+- arxiv: [https://arxiv.org/abs/1707.09870](https://arxiv.org/abs/1707.09870)
+
 # Pruning
 
 **ThiNet: A Filter Level Pruning Method for Deep Neural Network Compression**
@@ -411,6 +417,11 @@ at INT8 deep learning operations than other FPGA DSP architectures"
 
 - intro: GCPR 2017
 - arxiv: [https://arxiv.org/abs/1707.06838](https://arxiv.org/abs/1707.06838)
+
+**Fine-Pruning: Joint Fine-Tuning and Compression of a Convolutional Network with Bayesian Optimization**
+
+- intro: BMVC 2017 oral
+- arxiv: [https://arxiv.org/abs/1707.09102](https://arxiv.org/abs/1707.09102)
 
 ## Quantized Neural Networks
 
