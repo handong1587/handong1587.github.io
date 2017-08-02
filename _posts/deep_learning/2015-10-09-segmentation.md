@@ -932,6 +932,11 @@ ranked 1st place in ImageNet Scene Parsing Challenge 2016
 - intro: CVPR-2017 workshop, DAVIS-2017 Challenge
 - arxiv: [https://arxiv.org/abs/1707.06545](https://arxiv.org/abs/1707.06545)
 
+**Video Object Segmentation with Re-identification**
+
+- intro: CVPR 2017 Workshop, DAVIS Challenge on Video Object Segmentation 2017 (Winning Entry)
+- arxiv: [https://arxiv.org/abs/1708.00197](https://arxiv.org/abs/1708.00197)
+
 ## Challenge
 
 **DAVIS: Densely Annotated VIdeo Segmentation**

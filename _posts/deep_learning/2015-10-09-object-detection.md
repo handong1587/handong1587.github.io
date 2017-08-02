@@ -879,6 +879,11 @@ This task involves predicting the salient regions of an image given by human eye
 
 [https://arxiv.org/abs/1707.07381](https://arxiv.org/abs/1707.07381)
 
+**Towards the Success Rate of One: Real-time Unconstrained Salient Object Detection**
+
+- intro: University of Maryland College Park & eBay Inc
+- arxiv: [https://arxiv.org/abs/1708.00079](https://arxiv.org/abs/1708.00079)
+
 ## Saliency Detection in Video
 
 **Deep Learning For Video Saliency Detection**

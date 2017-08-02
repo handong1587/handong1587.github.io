@@ -592,6 +592,13 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 - intro: AVSS 2017 (14th International Conference on Advanced Video and Signal Based Surveillance)
 - arxiv: [https://arxiv.org/abs/1707.09605](https://arxiv.org/abs/1707.09605)
 
+**Switching Convolutional Neural Network for Crowd Counting**
+
+- intro: CVPR 2017
+- project page: [http://val.serc.iisc.ernet.in/crowdcnn/](http://val.serc.iisc.ernet.in/crowdcnn/)
+- arxiv: [https://arxiv.org/abs/1708.00199](https://arxiv.org/abs/1708.00199)
+- github: [https://github.com/val-iisc/crowd-counting-scnn](https://github.com/val-iisc/crowd-counting-scnn)
+
 # Activity Recognition
 
 **Implementing a CNN for Human Activity Recognition in Tensorflow**
@@ -1007,6 +1014,10 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 
 - arxiv: [https://arxiv.org/abs/1707.09135](https://arxiv.org/abs/1707.09135)
 - github(MatConvNet): [https://github.com/cswin/WIN](https://github.com/cswin/WIN)
+
+**Image Denoising via CNNs: An Adversarial Approach**
+
+[https://arxiv.org/abs/1708.00159](https://arxiv.org/abs/1708.00159)
 
 # Image Haze Removal
 
