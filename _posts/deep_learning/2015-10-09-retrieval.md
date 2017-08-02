@@ -504,6 +504,10 @@ and from 73.8% to 83.1% for ResNet-50
 
 - arxiv: [https://arxiv.org/abs/1607.08378](https://arxiv.org/abs/1607.08378)
 
+**Person Re-identification: Past, Present and Future**
+
+[https://arxiv.org/abs/1610.02984](https://arxiv.org/abs/1610.02984)
+
 **Deep Learning Prototype Domains for Person Re-Identification**
 
 - arxiv: [https://arxiv.org/abs/1610.05047](https://arxiv.org/abs/1610.05047)
