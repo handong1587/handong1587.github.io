@@ -406,6 +406,15 @@ at INT8 deep learning operations than other FPGA DSP architectures"
 - keywords: alternating direction method of multipliers (ADMM)
 - arxiv: [https://arxiv.org/abs/1707.09870](https://arxiv.org/abs/1707.09870)
 
+**An End-to-End Compression Framework Based on Convolutional Neural Networks**
+
+[https://arxiv.org/abs/1708.00838](https://arxiv.org/abs/1708.00838)
+
+**Learning Accurate Low-Bit Deep Neural Networks with Stochastic Quantization**
+
+- intro: BMVC 2017 Oral
+- arxiv: [https://arxiv.org/abs/1708.01001](https://arxiv.org/abs/1708.01001)
+
 # Pruning
 
 **ThiNet: A Filter Level Pruning Method for Deep Neural Network Compression**

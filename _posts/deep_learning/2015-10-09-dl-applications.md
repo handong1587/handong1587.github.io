@@ -381,6 +381,11 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 - intro: OpenPose is a library for real-time multi-person keypoint detection and multi-threading written in C++ using OpenCV and Caffe
 - github: [https://github.com/CMU-Perceptual-Computing-Lab/openpose](https://github.com/CMU-Perceptual-Computing-Lab/openpose)
 
+**Learning Feature Pyramids for Human Pose Estimation**
+
+- arxiv: [https://arxiv.org/abs/1708.01101](https://arxiv.org/abs/1708.01101)
+- github: [https://github.com/bearpaw/PyraNet](https://github.com/bearpaw/PyraNet)
+
 # Sentiment Prediction
 
 **From Pixels to Sentiment: Fine-tuning CNNs for Visual Sentiment Prediction**
@@ -598,6 +603,11 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 - project page: [http://val.serc.iisc.ernet.in/crowdcnn/](http://val.serc.iisc.ernet.in/crowdcnn/)
 - arxiv: [https://arxiv.org/abs/1708.00199](https://arxiv.org/abs/1708.00199)
 - github: [https://github.com/val-iisc/crowd-counting-scnn](https://github.com/val-iisc/crowd-counting-scnn)
+
+**Generating High-Quality Crowd Density Maps using Contextual Pyramid CNNs**
+
+- intro: ICCV 2017
+- arxiv: [https://arxiv.org/abs/1708.00953](https://arxiv.org/abs/1708.00953)
 
 # Activity Recognition
 
@@ -1029,6 +1039,10 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 
 - intro: All-in-One Dehazing Network (AOD-Net)
 - arxiv: [https://arxiv.org/abs/1707.06543](https://arxiv.org/abs/1707.06543)
+
+**Joint Transmission Map Estimation and Dehazing using Deep Networks**
+
+[https://arxiv.org/abs/1708.00581](https://arxiv.org/abs/1708.00581)
 
 # Image Rain Removal / De-raining
 

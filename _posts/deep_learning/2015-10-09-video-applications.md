@@ -196,6 +196,11 @@ date: 2015-10-09
 - intro: CVPR 2017 Youtube-8M Workshop
 - arxiv: [https://arxiv.org/abs/1707.04272](https://arxiv.org/abs/1707.04272)
 
+**Attention Transfer from Web Images for Video Recognition**
+
+- intro: ACM Multimedia, 2017
+- arxiv: [https://arxiv.org/abs/1708.00973](https://arxiv.org/abs/1708.00973)
+
 ## Action Detection / Activity Recognition
 
 **3d convolutional neural networks for human action recognition**

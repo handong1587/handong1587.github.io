@@ -1128,6 +1128,10 @@ with fast exact probabilistic inference over many layers."
 
 [https://arxiv.org/abs/1707.02725](https://arxiv.org/abs/1707.02725)
 
+**Sensor Transformation Attention Networks**
+
+[https://arxiv.org/abs/1708.01015](https://arxiv.org/abs/1708.01015)
+
 ## Highway Networks
 
 **Highway Networks**

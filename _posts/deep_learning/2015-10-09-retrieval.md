@@ -647,6 +647,11 @@ and from 73.8% to 83.1% for ResNet-50
 - examples: [https://cysu.github.io/open-reid/examples/training_id.html](https://cysu.github.io/open-reid/examples/training_id.html)
 - benchmarks: [https://cysu.github.io/open-reid/examples/benchmarks.html](https://cysu.github.io/open-reid/examples/benchmarks.html)
 
+**caffe-PersonReID**
+
+- intro: Person Re-Identification: Multi-Task Deep CNN with Triplet Loss
+- gtihub: [https://github.com/agjayant/caffe-Person-ReID](https://github.com/agjayant/caffe-Person-ReID)
+
 ## Video-based Person Re-Identification
 
 **Recurrent Convolutional Network for Video-based Person Re-Identification**

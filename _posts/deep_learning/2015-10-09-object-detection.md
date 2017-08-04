@@ -614,6 +614,16 @@ Continuation of [arXiv:1608.08021](https://arxiv.org/abs/1608.08021)
 - intro: ICCV 2017
 - arxiv: [https://arxiv.org/abs/1707.06399](https://arxiv.org/abs/1707.06399)
 
+## DSOD
+
+**DSOD: Learning Deeply Supervised Object Detectors from Scratch**
+
+![](https://user-images.githubusercontent.com/3794909/28934967-718c9302-78b5-11e7-89ee-8b514e53e23c.png)
+
+- intro: ICCV 2017
+- arxiv: [https://arxiv.org/abs/1708.01241](https://arxiv.org/abs/1708.01241)
+- github: [https://github.com/szq0214/DSOD](https://github.com/szq0214/DSOD)
+
 ## NMS
 
 **End-to-End Integration of a Convolutional Network, Deformable Parts Model and Non-Maximum Suppression**
@@ -725,6 +735,11 @@ Continuation of [arXiv:1608.08021](https://arxiv.org/abs/1608.08021)
 **Improving Context Modeling for Video Object Detection and Tracking**
 
 [http://image-net.org/challenges/talks_2017/ilsvrc2017_short(poster).pdf](http://image-net.org/challenges/talks_2017/ilsvrc2017_short(poster).pdf)
+
+**Temporal Dynamic Graph LSTM for Action-driven Video Object Detection**
+
+- intro: ICCV 2017
+- arxiv: [https://arxiv.org/abs/1708.00666](https://arxiv.org/abs/1708.00666)
 
 # Object Detection in 3D
 
