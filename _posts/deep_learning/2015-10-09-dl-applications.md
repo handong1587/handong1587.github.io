@@ -482,6 +482,11 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 
 - arxiv: [https://www.arxiv.org/abs/1703.00845](https://www.arxiv.org/abs/1703.00845)
 
+**Camera Relocalization by Computing Pairwise Relative Poses Using Convolutional Neural Network**
+
+- intro: Aalto University & Indian Institute of Technology
+- arxiv: [https://arxiv.org/abs/1707.09733](https://arxiv.org/abs/1707.09733)
+
 # Counting Objects
 
 **Towards perspective-free object counting with deep learning**
@@ -507,6 +512,11 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 **Drone-based Object Counting by Spatially Regularized Regional Proposal Network**
 
 [https://arxiv.org/abs/1707.05972](https://arxiv.org/abs/1707.05972)
+
+**FCN-rLSTM: Deep Spatio-Temporal Neural Networks for Vehicle Counting in City Cameras**
+
+- intro: ICCV 2017. CMU & Universidade de Lisboa
+- arxiv: [https://arxiv.org/abs/1707.09476](https://arxiv.org/abs/1707.09476)
 
 ## Crowd Counting / Crowd Analysis
 
@@ -599,7 +609,7 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 
 **Switching Convolutional Neural Network for Crowd Counting**
 
-- intro: CVPR 2017
+- intro: CVPR 2017. Indian Institute of Science
 - project page: [http://val.serc.iisc.ernet.in/crowdcnn/](http://val.serc.iisc.ernet.in/crowdcnn/)
 - arxiv: [https://arxiv.org/abs/1708.00199](https://arxiv.org/abs/1708.00199)
 - github: [https://github.com/val-iisc/crowd-counting-scnn](https://github.com/val-iisc/crowd-counting-scnn)
@@ -1027,7 +1037,8 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 
 **Image Denoising via CNNs: An Adversarial Approach**
 
-[https://arxiv.org/abs/1708.00159](https://arxiv.org/abs/1708.00159)
+- intro: Indian Institute of Science
+- arxiv: [https://arxiv.org/abs/1708.00159](https://arxiv.org/abs/1708.00159)
 
 # Image Haze Removal
 

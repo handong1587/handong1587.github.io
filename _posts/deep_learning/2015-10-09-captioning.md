@@ -413,6 +413,17 @@ after the embedding and recurrent layers of the RNN."
 
 [https://arxiv.org/abs/1706.01231](https://arxiv.org/abs/1706.01231)
 
+**End-to-end Concept Word Detection for Video Captioning, Retrieval, and Question Answering**
+
+- intro: CVPR 2017. Winner of three (fill-in-the-blank, multiple-choice test, and movie retrieval) out of four tasks of the LSMDC 2016 Challenge
+- arxiv: [https://arxiv.org/abs/1610.02947](https://arxiv.org/abs/1610.02947)
+- slides: [https://drive.google.com/file/d/0B9nOObAFqKC9aHl2VWJVNFp1bFk/view](https://drive.google.com/file/d/0B9nOObAFqKC9aHl2VWJVNFp1bFk/view)
+
+**Multi-Task Video Captioning with Video and Entailment Generation**
+
+- intro: ACL 2017. UNC Chapel Hill
+- arxiv: [https://arxiv.org/abs/1704.07489](https://arxiv.org/abs/1704.07489)
+
 # Projects
 
 **Learning CNN-LSTM Architectures for Image Caption Generation: An implementation of CNN-LSTM image caption generator architecture that achieves close to state-of-the-art results on the MSCOCO dataset.**

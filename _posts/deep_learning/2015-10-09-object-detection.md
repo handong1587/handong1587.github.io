@@ -614,13 +614,20 @@ Continuation of [arXiv:1608.08021](https://arxiv.org/abs/1608.08021)
 - intro: ICCV 2017
 - arxiv: [https://arxiv.org/abs/1707.06399](https://arxiv.org/abs/1707.06399)
 
+**Recurrent Scale Approximation for Object Detection in CNN**
+
+- intro: ICCV 2017
+- keywords: Recurrent Scale Approximation (RSA)
+- arxiv: [https://arxiv.org/abs/1707.09531](https://arxiv.org/abs/1707.09531)
+- github: [https://github.com/sciencefans/RSA-for-object-detection](https://github.com/sciencefans/RSA-for-object-detection)
+
 ## DSOD
 
 **DSOD: Learning Deeply Supervised Object Detectors from Scratch**
 
 ![](https://user-images.githubusercontent.com/3794909/28934967-718c9302-78b5-11e7-89ee-8b514e53e23c.png)
 
-- intro: ICCV 2017
+- intro: ICCV 2017. Fudan University & Tsinghua University & Intel Labs China
 - arxiv: [https://arxiv.org/abs/1708.01241](https://arxiv.org/abs/1708.01241)
 - github: [https://github.com/szq0214/DSOD](https://github.com/szq0214/DSOD)
 
@@ -1231,6 +1238,11 @@ This task involves predicting the salient regions of an image given by human eye
 
 - intro: CMU & Volvo Construction
 - arxiv: [https://arxiv.org/abs/1706.08917](https://arxiv.org/abs/1706.08917)
+
+**STD-PD: Generating Synthetic Training Data for Pedestrian Detection in Unannotated Videos**
+
+- intro: The University of North Carolina at Chapel Hill
+- arxiv: [https://arxiv.org/abs/1707.09100](https://arxiv.org/abs/1707.09100)
 
 ## Vehicle Detection
 

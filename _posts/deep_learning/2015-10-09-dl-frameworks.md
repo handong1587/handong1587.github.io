@@ -106,6 +106,11 @@ in particular Intel® Xeon processors (HSW+) and Intel® Xeon Phi processors
 - intro: Optimized (for size and speed) Caffe lib for iOS and Android with demo APP.
 - github: [https://github.com/solrex/caffe-mobile](https://github.com/solrex/caffe-mobile)
 
+**CaffeOnACL**
+
+- intro: Using ARM Compute Library (NEON+GPU) to speed up caffe; Providing utilities to debug, profile and tune application performance
+- github: [https://github.com/OAID/caffeOnACL](https://github.com/OAID/caffeOnACL)
+
 ## Multi-GPU / MPI Caffe
 
 **Caffe with OpenMPI-based Multi-GPU support**
@@ -246,6 +251,13 @@ It is an experimental refactoring of Caffe, and allows a more flexible way to or
 - github: [https://github.com/nicholas-leonard/dp](https://github.com/nicholas-leonard/dp)
 - manual: [https://dp.readthedocs.org/en/latest/](https://dp.readthedocs.org/en/latest/)
 - manual: [https://github.com/nicholas-leonard/dp/blob/master/doc/index.md](https://github.com/nicholas-leonard/dp/blob/master/doc/index.md)
+
+# Dragon
+
+**Dragon: A Computation Graph Virtual Machine Based Deep Learning Framework**
+
+- arxiv: [https://arxiv.org/abs/1707.08265](https://arxiv.org/abs/1707.08265)
+- github: [https://github.com/neopenx/Dragon](https://github.com/neopenx/Dragon)
 
 # DyNet
 

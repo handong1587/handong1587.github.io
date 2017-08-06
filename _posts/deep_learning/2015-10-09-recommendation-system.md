@@ -116,6 +116,11 @@ date: 2015-10-09
 - intro: KDD 2017. University of California, Los Angeles & Yahoo! Research & Etsy Inc
 - arxiv: [https://arxiv.org/abs/1706.07881](https://arxiv.org/abs/1706.07881)
 
+**Deep Learning based Recommender System: A Survey and New Perspectives**
+
+- intro: University of New South Wales & Nanyang Technological University
+- arxiv: [https://arxiv.org/abs/1707.07435](https://arxiv.org/abs/1707.07435)
+
 # Slides
 
 **Deep learning for music recommendation**

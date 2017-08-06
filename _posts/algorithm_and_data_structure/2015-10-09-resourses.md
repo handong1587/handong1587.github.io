@@ -131,6 +131,10 @@ It currently hosts (a) the team notebook, and (b) complete lecture slides for [C
 
 [http://blog.fastforwardlabs.com/post/153566952648/probabilistic-data-structure-showdown-cuckoo](http://blog.fastforwardlabs.com/post/153566952648/probabilistic-data-structure-showdown-cuckoo)
 
+**Data Structures Related to Machine Learning Algorithms**
+
+[https://dzone.com/articles/data-structures-related-to-machine-learning-algori](https://dzone.com/articles/data-structures-related-to-machine-learning-algori)
+
 ## Visualization
 
 **Visualisation of A* path-finding algorithm in a maze**

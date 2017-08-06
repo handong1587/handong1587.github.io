@@ -20,6 +20,7 @@ date: 2017-07-08
 
 - homepage: [https://mila.umontreal.ca/en/cours/deep-learning-summer-school-2017/](https://mila.umontreal.ca/en/cours/deep-learning-summer-school-2017/)
 - slides: [https://mila.umontreal.ca/en/cours/deep-learning-summer-school-2017/slides/](https://mila.umontreal.ca/en/cours/deep-learning-summer-school-2017/slides/)
+- mirror: [https://pan.baidu.com/s/1eSvijvW#list/path=%2F](https://pan.baidu.com/s/1eSvijvW#list/path=%2F)
 
 # ICLR 2017
 

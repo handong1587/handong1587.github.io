@@ -334,6 +334,10 @@ date: 2015-10-09
 - intro: Peking University
 - arxiv: [https://arxiv.org/abs/1706.10239](https://arxiv.org/abs/1706.10239)
 
+**Hierarchical Softmax**
+
+[http://building-babylon.net/2017/08/01/hierarchical-softmax/](http://building-babylon.net/2017/08/01/hierarchical-softmax/)
+
 # Learning Rate
 
 **No More Pesky Learning Rates**

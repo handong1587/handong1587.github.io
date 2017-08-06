@@ -883,6 +883,10 @@ including all the relevant classifiers available today
 
 [http://fastml.com/what-is-better-gradient-boosted-trees-or-random-forest/](http://fastml.com/what-is-better-gradient-boosted-trees-or-random-forest/)
 
+**A Practical Guide to Tree Based Learning Algorithms**
+
+[https://sadanand-singh.github.io/posts/treebasedmodels/](https://sadanand-singh.github.io/posts/treebasedmodels/)
+
 ## Model evaluation, model selection, and algorithm selection in machine learning
 
 **Part I - The basics**
