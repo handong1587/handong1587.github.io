@@ -413,6 +413,11 @@ after the embedding and recurrent layers of the RNN."
 
 [https://arxiv.org/abs/1706.01231](https://arxiv.org/abs/1706.01231)
 
+**Reinforced Video Captioning with Entailment Rewards**
+
+- intro: EMNLP 2017
+- arxiv: [https://arxiv.org/abs/1708.02300](https://arxiv.org/abs/1708.02300)
+
 # Projects
 
 **Learning CNN-LSTM Architectures for Image Caption Generation: An implementation of CNN-LSTM image caption generator architecture that achieves close to state-of-the-art results on the MSCOCO dataset.**

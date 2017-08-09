@@ -775,6 +775,12 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 - intro: CVPR 2017
 - arxiv: [https://arxiv.org/abs/1704.05838](https://arxiv.org/abs/1704.05838)
 
+**MemNet: A Persistent Memory Network for Image Restoration**
+
+- intro: ICCV 2017 (Spotlight presentation)
+- arxiv: [https://arxiv.org/abs/1708.02209](https://arxiv.org/abs/1708.02209)
+- github: [https://github.com/tyshiwo/MemNet](https://github.com/tyshiwo/MemNet)
+
 # Image Super-Resolution
 
 **Super-Resolution.Benckmark**

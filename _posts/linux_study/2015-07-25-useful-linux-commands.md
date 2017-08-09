@@ -429,6 +429,7 @@ pdb.set_trace()
 |:---------------------------:|:-----------------------------:|
 | Run program in screen mode  | screen python demo.py --gpu 1 |
 | Detach screen               | Ctrl + a, c                   |
+| Detach screen               | Ctrl + a, d                   |
 | Re-connect screen           | screen -r pid                 |
 | Display all screens         | screen -ls                    |
 | Delete screen               | kill pid                      |
