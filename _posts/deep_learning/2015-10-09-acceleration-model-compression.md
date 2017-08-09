@@ -429,7 +429,7 @@ at INT8 deep learning operations than other FPGA DSP architectures"
 
 **Fine-Pruning: Joint Fine-Tuning and Compression of a Convolutional Network with Bayesian Optimization**
 
-- intro: BMVC 2017 oral
+- intro: BMVC 2017 oral. Simon Fraser University
 - arxiv: [https://arxiv.org/abs/1707.09102](https://arxiv.org/abs/1707.09102)
 
 ## Quantized Neural Networks

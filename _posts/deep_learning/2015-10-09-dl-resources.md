@@ -291,9 +291,10 @@ not just the convolutions)
 
 **Residual Attention Network for Image Classification**
 
-- intro: CVPR 2017. CUHK
+- intro: CVPR 2017 Spotlight. SenseTime Group Limited & Tsinghua University & The Chinese University of Hong Kong
 - intro: ImageNet (4.8% single model and single crop, top-5 error)
 - arxiv: [https://arxiv.org/abs/1704.06904](https://arxiv.org/abs/1704.06904)
+- github(Caffe): [https://github.com/buptwangfei/residual-attention-network](https://github.com/buptwangfei/residual-attention-network)
 
 **Dilated Residual Networks**
 

@@ -210,6 +210,11 @@ date: 2015-10-09
 - project page: [http://vision03.csail.mit.edu/cnn_art/](http://vision03.csail.mit.edu/cnn_art/)
 - github: [https://github.com/donglaiw/mNeuron](https://github.com/donglaiw/mNeuron)
 
+**cnnvis-pytorch**
+
+- intro: visualization of CNN in PyTorch
+- github: [https://github.com/leelabcnbc/cnnvis-pytorch](https://github.com/leelabcnbc/cnnvis-pytorch)
+
 # Blogs
 
 "Visualizing GoogLeNet Classes"
