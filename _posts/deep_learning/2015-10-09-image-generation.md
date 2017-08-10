@@ -177,6 +177,10 @@ date: 2015-10-09
 
 [https://arxiv.org/abs/1705.02887](https://arxiv.org/abs/1705.02887)
 
+**Statistics of Deep Generated Images**
+
+[https://arxiv.org/abs/1708.02688](https://arxiv.org/abs/1708.02688)
+
 # Deep Generative Model
 
 **Digit Fantasies by a Deep Generative Model**

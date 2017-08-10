@@ -631,6 +631,15 @@ Continuation of [arXiv:1608.08021](https://arxiv.org/abs/1608.08021)
 - arxiv: [https://arxiv.org/abs/1708.01241](https://arxiv.org/abs/1708.01241)
 - github: [https://github.com/szq0214/DSOD](https://github.com/szq0214/DSOD)
 
+**Focal Loss for Dense Object Detection**
+
+[https://arxiv.org/abs/1708.02002](https://arxiv.org/abs/1708.02002)
+
+**CoupleNet: Coupling Global Structure with Local Parts for Object Detection**
+
+- intro: ICCV 2017
+- arxiv: [https://arxiv.org/abs/1708.02863](https://arxiv.org/abs/1708.02863)
+
 ## NMS
 
 **End-to-End Integration of a Convolutional Network, Deformable Parts Model and Non-Maximum Suppression**
@@ -906,11 +915,25 @@ This task involves predicting the salient regions of an image given by human eye
 - intro: University of Maryland College Park & eBay Inc
 - arxiv: [https://arxiv.org/abs/1708.00079](https://arxiv.org/abs/1708.00079)
 
+**Amulet: Aggregating Multi-level Convolutional Features for Salient Object Detection**
+
+- intro: ICCV 2017
+- arixv: [https://arxiv.org/abs/1708.02001](https://arxiv.org/abs/1708.02001)
+
+**Learning Uncertain Convolutional Features for Accurate Saliency Detection**
+
+- intro: Accepted as a poster in ICCV 2017
+- arxiv: [https://arxiv.org/abs/1708.02031](https://arxiv.org/abs/1708.02031)
+
 ## Saliency Detection in Video
 
 **Deep Learning For Video Saliency Detection**
 
 - arxiv: [https://arxiv.org/abs/1702.00871](https://arxiv.org/abs/1702.00871)
+
+**Video Salient Object Detection Using Spatiotemporal Deep Features**
+
+[https://arxiv.org/abs/1708.01447](https://arxiv.org/abs/1708.01447)
 
 # Visual Relationship Detection
 
@@ -942,6 +965,11 @@ This task involves predicting the salient regions of an image given by human eye
 **Identifying Spatial Relations in Images using Convolutional Neural Networks**
 
 [https://arxiv.org/abs/1706.04215](https://arxiv.org/abs/1706.04215)
+
+**PPR-FCN: Weakly Supervised Visual Relation Detection via Parallel Pairwise R-FCN**
+
+- intro: ICCV
+- arxiv: [https://arxiv.org/abs/1708.01956](https://arxiv.org/abs/1708.01956)
 
 # Specific Object Deteciton
 
@@ -1413,6 +1441,11 @@ This task involves predicting the salient regions of an image given by human eye
 
 - intro: AVSS 2017
 - arxiv: [https://arxiv.org/abs/1706.05726](https://arxiv.org/abs/1706.05726)
+
+**Cut, Paste and Learn: Surprisingly Easy Synthesis for Instance Detection**
+
+- intro: ICCV 2017
+- arxiv: [https://arxiv.org/abs/1708.01642](https://arxiv.org/abs/1708.01642)
 
 # Object Proposal
 

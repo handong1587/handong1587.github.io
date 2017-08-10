@@ -282,6 +282,11 @@ after the embedding and recurrent layers of the RNN."
 - keywords: actor-critic reinforcement learning
 - arxiv: [https://arxiv.org/abs/1706.09601](https://arxiv.org/abs/1706.09601)
 
+**What is the Role of Recurrent Neural Networks (RNNs) in an Image Caption Generator?**
+
+- intro: Proceedings of the 10th International Conference on Natural Language Generation (INLG'17)
+- arxiv: [https://arxiv.org/abs/1708.02043](https://arxiv.org/abs/1708.02043)
+
 # Object Descriptions
 
 **Generation and Comprehension of Unambiguous Object Descriptions**
@@ -404,6 +409,11 @@ after the embedding and recurrent layers of the RNN."
 - intro: CVPR 2017. movie description
 - arxiv: [https://arxiv.org/abs/1704.01518](https://arxiv.org/abs/1704.01518)
 
+**Multi-Task Video Captioning with Video and Entailment Generation**
+
+- intro: ACL 2017. UNC Chapel Hill
+- arxiv: [https://arxiv.org/abs/1704.07489](https://arxiv.org/abs/1704.07489)
+
 **Dense-Captioning Events in Videos**
 
 - project page: [http://cs.stanford.edu/people/ranjaykrishna/densevid/](http://cs.stanford.edu/people/ranjaykrishna/densevid/)
@@ -424,11 +434,9 @@ after the embedding and recurrent layers of the RNN."
 - arxiv: [https://arxiv.org/abs/1610.02947](https://arxiv.org/abs/1610.02947)
 - slides: [https://drive.google.com/file/d/0B9nOObAFqKC9aHl2VWJVNFp1bFk/view](https://drive.google.com/file/d/0B9nOObAFqKC9aHl2VWJVNFp1bFk/view)
 
-**Multi-Task Video Captioning with Video and Entailment Generation**
+**From Deterministic to Generative: Multi-Modal Stochastic RNNs for Video Captioning**
 
-- intro: ACL 2017. UNC Chapel Hill
-- arxiv: [https://arxiv.org/abs/1704.07489](https://arxiv.org/abs/1704.07489)
->>>>>>> 0876c3324f3f04bb30352a45d24fb71d15f8d3ca
+[https://arxiv.org/abs/1708.02478](https://arxiv.org/abs/1708.02478)
 
 # Projects
 

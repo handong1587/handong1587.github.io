@@ -264,6 +264,20 @@ and from 73.8% to 83.1% for ResNet-50
 - arxiv: [https://arxiv.org/abs/1707.02581](https://arxiv.org/abs/1707.02581)
 - github: [https://github.com/imatge-upc/retrieval-2017-cam](https://github.com/imatge-upc/retrieval-2017-cam)
 
+**Deep Binaries: Encoding Semantic-Rich Cues for Efficient Textual-Visual Cross Retrieval**
+
+- intro: ICCV 2017
+- arxiv: [https://arxiv.org/abs/1708.02531](https://arxiv.org/abs/1708.02531)
+
+**Learning a Repression Network for Precise Vehicle Search**
+
+[https://arxiv.org/abs/1708.02386](https://arxiv.org/abs/1708.02386)
+
+**SUBIC: A supervised, structured binary code for image search**
+
+- intro: ICCV 2017 (Spotlight)
+- arxiv: [https://arxiv.org/abs/1708.02932](https://arxiv.org/abs/1708.02932)
+
 # Hashing
 
 **Supervised Hashing for Image Retrieval via Image Representation Learning**
@@ -451,6 +465,11 @@ and from 73.8% to 83.1% for ResNet-50
 
 - arxiv: [https://arxiv.org/abs/1704.02088](https://arxiv.org/abs/1704.02088)
 
+**Localizing Moments in Video with Natural Language**
+
+- intro: ICCV 2017
+- arxiv: [https://arxiv.org/abs/1708.01641](https://arxiv.org/abs/1708.01641)
+
 # Learning to Rank
 
 **Simple to Complex Cross-modal Learning to Rank**
@@ -493,6 +512,11 @@ and from 73.8% to 83.1% for ResNet-50
 - intro: TuSimple
 - keywords: pedestrian re-identification
 - arxiv: [https://arxiv.org/abs/1707.01220](https://arxiv.org/abs/1707.01220)
+
+**Deep Metric Learning with Angular Loss**
+
+- intro: ICCV 2017
+- arxiv: [https://arxiv.org/abs/1708.01682](https://arxiv.org/abs/1708.01682)
 
 # Talks / Slides
 

@@ -432,6 +432,10 @@ at INT8 deep learning operations than other FPGA DSP architectures"
 - intro: BMVC 2017 oral. Simon Fraser University
 - arxiv: [https://arxiv.org/abs/1707.09102](https://arxiv.org/abs/1707.09102)
 
+**Prune the Convolutional Neural Networks with Sparse Shrink**
+
+[https://arxiv.org/abs/1708.02439](https://arxiv.org/abs/1708.02439)
+
 ## Quantized Neural Networks
 
 **Quantized Convolutional Neural Networks for Mobile Devices**

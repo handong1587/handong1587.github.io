@@ -706,6 +706,11 @@ with built-in awareness of semantically meaningful boundaries. "
 - intro: CVPR 2017
 - arxiv: [https://arxiv.org/abs/1704.03604](https://arxiv.org/abs/1704.03604)
 
+**Semantic Instance Segmentation with a Discriminative Loss Function**
+
+- intro: Published at "Deep Learning for Robotic Vision", workshop at CVPR 2017
+- arxiv: [https://arxiv.org/abs/1708.02551](https://arxiv.org/abs/1708.02551)
+
 # Specific Segmentation
 
 **A CNN Cascade for Landmark Guided Semantic Part Segmentation**
@@ -716,6 +721,11 @@ with built-in awareness of semantically meaningful boundaries. "
 **End-to-end semantic face segmentation with conditional random fields as convolutional, recurrent and adversarial networks**
 
 - arxiv: [https://arxiv.org/abs/1703.03305](https://arxiv.org/abs/1703.03305)
+
+**Face Parsing via Recurrent Propagation**
+
+- intro: BMVC 2017
+- arxiv: [https://arxiv.org/abs/1708.01936](https://arxiv.org/abs/1708.01936)
 
 # Segment Proposal
 
@@ -816,6 +826,20 @@ ranked 1st place in ImageNet Scene Parsing Challenge 2016
 **Deep Contextual Recurrent Residual Networks for Scene Labeling**
 
 [https://arxiv.org/abs/1704.03594](https://arxiv.org/abs/1704.03594)
+
+**Fast Scene Understanding for Autonomous Driving**
+
+- intro: Published at "Deep Learning for Vehicle Perception", workshop at the IEEE Symposium on Intelligent Vehicles 2017
+- arxiv: [https://arxiv.org/abs/1708.02550](https://arxiv.org/abs/1708.02550)
+
+**FoveaNet: Perspective-aware Urban Scene Parsing**
+
+[https://arxiv.org/abs/1708.02421](https://arxiv.org/abs/1708.02421)
+
+**BlitzNet: A Real-Time Deep Network for Scene Understanding**
+
+- intro: INRIA
+- arxiv: [https://arxiv.org/abs/1708.02813](https://arxiv.org/abs/1708.02813)
 
 ## Benchmarks
 
