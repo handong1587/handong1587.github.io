@@ -71,6 +71,11 @@ date: 2015-10-09
 - blog: [https://keon.io/rl/deep-q-learning-with-keras-and-gym/](https://keon.io/rl/deep-q-learning-with-keras-and-gym/)
 - github: [https://github.com/keon/deep-q-learning](https://github.com/keon/deep-q-learning)
 
+**“Deep Reinforcement Learning, Decision Making, and Control**
+
+- intro: ICML 2017 Tutorial
+- slides: [https://sites.google.com/view/icml17deeprl](https://sites.google.com/view/icml17deeprl)
+
 ## Simple Reinforcement Learning with Tensorflow
 
 **Part 0: Q-Learning with Tables and Neural Networks**

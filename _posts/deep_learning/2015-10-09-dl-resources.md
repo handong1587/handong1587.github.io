@@ -1106,6 +1106,7 @@ with fast exact probabilistic inference over many layers."
 
 - intro: Washington State University & University of California, Davis
 - arxiv: [https://arxiv.org/abs/1705.08881](https://arxiv.org/abs/1705.08881)
+- github: [https://github.com/divelab/dtn](https://github.com/divelab/dtn)
 
 **Deep Complex Networks**
 
@@ -1219,6 +1220,7 @@ with fast exact probabilistic inference over many layers."
 
 - arxiv: [http://arxiv.org/abs/1609.02907](http://arxiv.org/abs/1609.02907)
 - github: [https://github.com/tkipf/gcn](https://github.com/tkipf/gcn)
+- blog: [http://tkipf.github.io/graph-convolutional-networks/](http://tkipf.github.io/graph-convolutional-networks/)
 
 **Graph Based Convolutional Neural Network**
 
@@ -1877,6 +1879,10 @@ It is based on Facebook's TorchCraft, which is a bridge between Torch and StarCr
 
 - intro: ML4Fashion 2017
 - arxiv: [https://arxiv.org/abs/1707.09899](https://arxiv.org/abs/1707.09899)
+
+**Deep Learning Our Way Through Fashion Week**
+
+[https://inside.edited.com/deep-learning-our-way-through-fashion-week-ea55bf50bab8](https://inside.edited.com/deep-learning-our-way-through-fashion-week-ea55bf50bab8)
 
 # Benchmarks
 

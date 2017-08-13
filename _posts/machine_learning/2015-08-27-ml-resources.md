@@ -134,6 +134,11 @@ Other awesome lists can be found in this [list](https://github.com/sindresorhus/
 - intro: h2o VS. xgboost VS. lightgbm
 - github: [https://github.com/szilard/GBM-perf](https://github.com/szilard/GBM-perf)
 
+**arboretum - Gradient Boosting on GPU**
+
+- intro: Gradient Boosting powered by GPU(NVIDIA CUDA)
+- github: [https://github.com/sh1ng/arboretum](https://github.com/sh1ng/arboretum)
+
 ## XGBoost
 
 **XGBoost: A Scalable Tree Boosting System**
@@ -662,6 +667,18 @@ Classic strategies:
 
 - arxiv: [http://arxiv.org/abs/1606.04080](http://arxiv.org/abs/1606.04080)
 - github: [https://github.com/zergylord/oneshot](https://github.com/zergylord/oneshot)
+
+# Metric Learning
+
+**Distance Metric Learning: A Comprehensive Survey**
+
+- intro: 2006
+- paper: [https://www.cs.cmu.edu/~liuy/frame_survey_v2.pdf](https://www.cs.cmu.edu/~liuy/frame_survey_v2.pdf)
+
+**Large Scale Metric Learning from Equivalence Constraints**
+
+- intro: CVPR 2012. KISSME
+- paper: [http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.384.2335&rep=rep1&type=pdf](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.384.2335&rep=rep1&type=pdf)
 
 # Finance and Trading
 

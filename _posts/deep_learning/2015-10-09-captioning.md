@@ -425,7 +425,7 @@ after the embedding and recurrent layers of the RNN."
 
 **Reinforced Video Captioning with Entailment Rewards**
 
-- intro: EMNLP 2017
+- intro: EMNLP 2017. UNC Chapel Hill
 - arxiv: [https://arxiv.org/abs/1708.02300](https://arxiv.org/abs/1708.02300)
 
 **End-to-end Concept Word Detection for Video Captioning, Retrieval, and Question Answering**
@@ -455,3 +455,9 @@ works great with video calls.
 **CaptionBot (Microsoft)**
 
 - website: [https://www.captionbot.ai/](https://www.captionbot.ai/)
+
+# Blogs
+
+**Captioning Novel Objects in Images**
+
+[http://bair.berkeley.edu/jacky/2017/08/08/novel-object-captioning/](http://bair.berkeley.edu/jacky/2017/08/08/novel-object-captioning/)
