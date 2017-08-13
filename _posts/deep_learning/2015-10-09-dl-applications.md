@@ -974,6 +974,10 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 - intro: ICIP 2017
 - arxiv: [https://arxiv.org/abs/1707.07128](https://arxiv.org/abs/1707.07128)
 
+**Attention-Aware Face Hallucination via Deep Reinforcement Learning**
+
+[https://arxiv.org/abs/1708.03132](https://arxiv.org/abs/1708.03132)
+
 ## Video Super-resolution
 
 **Detail-revealing Deep Video Super-resolution**

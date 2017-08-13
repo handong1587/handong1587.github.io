@@ -145,6 +145,10 @@ joint classification, detection and semantic segmentation via a unified architec
 
 [https://arxiv.org/abs/1704.02532](https://arxiv.org/abs/1704.02532)
 
+**Systematic Testing of Convolutional Neural Networks for Autonomous Driving**
+
+[https://arxiv.org/abs/1708.03309](https://arxiv.org/abs/1708.03309)
+
 # Projects
 
 **Caffe-Autopilot: Car autopilot software that uses C++, BVLC Caffe, OpenCV, and SFML**
