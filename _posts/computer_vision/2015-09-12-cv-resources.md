@@ -661,6 +661,27 @@ Given a sample represented as a sequence of strokes, the parser is able to conve
 
 - blog: [http://arjunsreedharan.org/post/146070390717/jpeg-101-how-does-jpeg-work](http://arjunsreedharan.org/post/146070390717/jpeg-101-how-does-jpeg-work)
 
+# Face Alignment
+
+**Supervised Descent Method and its Applications to Face Alignment**
+
+- intro: CVPR 2013
+- project page: [http://patrikhuber.github.io/superviseddescent/](http://patrikhuber.github.io/superviseddescent/)
+- paper: [http://101.96.8.164/www.ri.cmu.edu/pub_files/2013/5/main.pdf](http://101.96.8.164/www.ri.cmu.edu/pub_files/2013/5/main.pdf)
+- github: [https://github.com/patrikhuber/superviseddescent](https://github.com/patrikhuber/superviseddescent)
+
+**Face Alignment at 3000 FPS via Regressing Local Binary Features**
+
+- intro: CVPR 2014. MSRA
+- paper: [http://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/yichenw-cvpr14_facealignment.pdf](http://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/yichenw-cvpr14_facealignment.pdf)
+- github: [https://github.com/yulequan/face-alignment-in-3000fps](https://github.com/yulequan/face-alignment-in-3000fps)
+
+**Joint Cascade Face Detection and Alignment**
+
+- intro: ECCV 2014
+- paper: [http://www.microsoft.com/en-us/research/wp-content/uploads/2016/12/ECCV14_JointCascade.pdf](http://www.microsoft.com/en-us/research/wp-content/uploads/2016/12/ECCV14_JointCascade.pdf)
+- github: [https://github.com/FaceDetect/jointCascade_py](https://github.com/FaceDetect/jointCascade_py)
+
 # Papers
 
 **RGB-W: When Vision Meets Wireless**

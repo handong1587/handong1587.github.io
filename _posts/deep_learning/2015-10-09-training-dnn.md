@@ -338,6 +338,11 @@ date: 2015-10-09
 
 [http://building-babylon.net/2017/08/01/hierarchical-softmax/](http://building-babylon.net/2017/08/01/hierarchical-softmax/)
 
+**Noisy Softmax: Improving the Generalization Ability of DCNN via Postponing the Early Softmax Saturation**
+
+- intro: CVPR 2017
+- arxiv: [https://arxiv.org/abs/1708.03769](https://arxiv.org/abs/1708.03769)
+
 # Learning Rate
 
 **No More Pesky Learning Rates**
@@ -415,6 +420,10 @@ date: 2015-10-09
 - intro: Facebook
 - keywords: Training with 256 GPUs, minibatches of 8192
 - arxiv: [https://arxiv.org/abs/1706.02677](https://arxiv.org/abs/1706.02677)
+
+**Scaling SGD Batch Size to 32K for ImageNet Training**
+
+[https://arxiv.org/abs/1708.03888](https://arxiv.org/abs/1708.03888)
 
 # Optimization Methods
 
@@ -969,6 +978,10 @@ date: 2015-10-09
 
 - intro: CMU & The University of Iowa
 - arxiv: [https://arxiv.org/abs/1707.04822](https://arxiv.org/abs/1707.04822)
+
+**Image Quality Assessment Guided Deep Neural Networks Training**
+
+[https://arxiv.org/abs/1708.03880](https://arxiv.org/abs/1708.03880)
 
 # Tools
 

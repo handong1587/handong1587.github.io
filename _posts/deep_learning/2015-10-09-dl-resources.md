@@ -1286,6 +1286,10 @@ with fast exact probabilistic inference over many layers."
 - paper: [http://www.cs.princeton.edu/~usyed/CortesMohriSyedICML2014.pdf](http://www.cs.princeton.edu/~usyed/CortesMohriSyedICML2014.pdf)
 - github: [https://github.com/google/deepboost](https://github.com/google/deepboost)
 
+**Deep Incremental Boosting**
+
+[https://arxiv.org/abs/1708.03704](https://arxiv.org/abs/1708.03704)
+
 ## Bootstrap
 
 **Training Deep Neural Networks on Noisy Labels with Bootstrapping**

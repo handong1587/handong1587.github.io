@@ -727,6 +727,10 @@ with built-in awareness of semantically meaningful boundaries. "
 - intro: BMVC 2017
 - arxiv: [https://arxiv.org/abs/1708.01936](https://arxiv.org/abs/1708.01936)
 
+**Face Parsing via a Fully-Convolutional Continuous CRF Neural Network**
+
+[https://arxiv.org/abs/1708.03736](https://arxiv.org/abs/1708.03736)
+
 # Segment Proposal
 
 **Learning to Segment Object Candidates**

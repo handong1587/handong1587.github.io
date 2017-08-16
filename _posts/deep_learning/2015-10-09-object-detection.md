@@ -1104,6 +1104,11 @@ This task involves predicting the salient regions of an image given by human eye
 
 [https://arxiv.org/abs/1707.06330](https://arxiv.org/abs/1707.06330)
 
+**SSH: Single Stage Headless Face Detector**
+
+- intro: ICCV 2017
+- arxiv: [https://arxiv.org/abs/1708.03979](https://arxiv.org/abs/1708.03979)
+
 ## Facial Point / Landmark Detection
 
 **Deep Convolutional Network Cascade for Facial Point Detection**
