@@ -708,7 +708,7 @@ with built-in awareness of semantically meaningful boundaries. "
 
 **Semantic Instance Segmentation with a Discriminative Loss Function**
 
-- intro: Published at "Deep Learning for Robotic Vision", workshop at CVPR 2017
+- intro: Published at "Deep Learning for Robotic Vision", workshop at CVPR 2017. KU Leuven
 - arxiv: [https://arxiv.org/abs/1708.02551](https://arxiv.org/abs/1708.02551)
 
 # Specific Segmentation

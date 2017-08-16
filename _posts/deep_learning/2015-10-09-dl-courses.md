@@ -211,7 +211,12 @@ date: 2015-10-09
 
 # Computer Vision
 
-**Stanford CS231n: Convolutional Neural Networks for Visual Recognition**
+**Stanford CS231n: Convolutional Neural Networks for Visual Recognition (Spring 2017)**
+
+- youtube: [https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv](https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv)
+- mirror: [http://www.bilibili.com/video/av13260183/](http://www.bilibili.com/video/av13260183/)
+
+**Stanford CS231n: Convolutional Neural Networks for Visual Recognition (Winter 2016)**
 
 - homepage: [http://cs231n.stanford.edu/](http://cs231n.stanford.edu/)
 - homepage: [http://vision.stanford.edu/teaching/cs231n/index.html](http://vision.stanford.edu/teaching/cs231n/index.html)

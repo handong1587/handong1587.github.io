@@ -633,7 +633,8 @@ Continuation of [arXiv:1608.08021](https://arxiv.org/abs/1608.08021)
 
 **Focal Loss for Dense Object Detection**
 
-[https://arxiv.org/abs/1708.02002](https://arxiv.org/abs/1708.02002)
+- intro: Facebook AI Research
+- arxiv: [https://arxiv.org/abs/1708.02002](https://arxiv.org/abs/1708.02002)
 
 **CoupleNet: Coupling Global Structure with Local Parts for Object Detection**
 
@@ -1177,6 +1178,8 @@ This task involves predicting the salient regions of an image given by human eye
 
 **Context-aware CNNs for person head detection**
 
+- intro: ICCV 2015
+- project page: [http://www.di.ens.fr/willow/research/headdetection/](http://www.di.ens.fr/willow/research/headdetection/)
 - arxiv: [http://arxiv.org/abs/1511.07917](http://arxiv.org/abs/1511.07917)
 - github: [https://github.com/aosokin/cnn_head_detection](https://github.com/aosokin/cnn_head_detection)
 

@@ -386,6 +386,16 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 - arxiv: [https://arxiv.org/abs/1708.01101](https://arxiv.org/abs/1708.01101)
 - github: [https://github.com/bearpaw/PyraNet](https://github.com/bearpaw/PyraNet)
 
+**Multi-Context Attention for Human Pose Estimation**
+
+- intro: CVPR 2017
+- arxiv: [https://arxiv.org/abs/1702.07432](https://arxiv.org/abs/1702.07432)
+- github(Torch): [https://github.com/bearpaw/pose-attention](https://github.com/bearpaw/pose-attention)
+
+**Human Pose Estimation with TensorFlow**
+
+[https://github.com/eldar/pose-tensorflow](https://github.com/eldar/pose-tensorflow)
+
 # Sentiment Prediction
 
 **From Pixels to Sentiment: Fine-tuning CNNs for Visual Sentiment Prediction**
@@ -1268,6 +1278,11 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 **Single image depth estimation by dilated deep residual convolutional neural network and soft-weight-sum inference**
 
 [https://arxiv.org/abs/1705.00534](https://arxiv.org/abs/1705.00534)
+
+**Monocular Depth Estimation with Hierarchical Fusion of Dilated CNNs and Soft-Weighted-Sum Inference**
+
+- intro: Northwestern Polytechnical University
+- arxiv: [https://arxiv.org/abs/1708.02287](https://arxiv.org/abs/1708.02287)
 
 # Texture Synthesis
 

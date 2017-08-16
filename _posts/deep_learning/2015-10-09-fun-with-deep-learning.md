@@ -360,6 +360,11 @@ Compressed model is less than 500KB
 - intro: ACM Multimedia Conference (MM) 2017
 - arxiv: [https://arxiv.org/abs/1707.01253](https://arxiv.org/abs/1707.01253)
 
+**Real-Time Neural Style Transfer for Videos**
+
+- intro: Tsinghua University & Tencent AI Lab
+- paper: [http://openaccess.thecvf.com/content_cvpr_2017/papers/Huang_Real-Time_Neural_Style_CVPR_2017_paper.pdf](http://openaccess.thecvf.com/content_cvpr_2017/papers/Huang_Real-Time_Neural_Style_CVPR_2017_paper.pdf)
+
 ## Neural Doodle
 
 **Semantic Style Transfer and Turning Two-Bit Doodles into Fine Artworks**

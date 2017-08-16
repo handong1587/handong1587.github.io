@@ -30,7 +30,10 @@ date: 2015-10-09
 
 **Video Propagation Networks**
 
+- intro: CVPR 2017. Max Planck Institute for Intelligent Systems & Bernstein Center for Computational Neuroscience
+- project page: [https://varunjampani.github.io/vpn/](https://varunjampani.github.io/vpn/)
 - arxiv: [https://arxiv.org/abs/1612.05478](https://arxiv.org/abs/1612.05478)
+- github(Caffe): [https://github.com/varunjampani/video_prop_networks](https://github.com/varunjampani/video_prop_networks)
 
 **Video Frame Synthesis using Deep Voxel Flow**
 

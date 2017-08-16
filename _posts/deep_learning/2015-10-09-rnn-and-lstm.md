@@ -223,11 +223,12 @@ date: 2015-10-09
 
 **Phased LSTM: Accelerating Recurrent Network Training for Long or Event-based Sequences**
 
-- intro: Selected for an oral presentation at NIPS, 2016
+- intro: Selected for an oral presentation at NIPS, 2016. University of Zurich and ETH Zurich
 - arxiv: [https://arxiv.org/abs/1610.09513](https://arxiv.org/abs/1610.09513)
 - github: [https://github.com/dannyneil/public_plstm](https://github.com/dannyneil/public_plstm)
 - github: [https://github.com/Enny1991/PLSTM](https://github.com/Enny1991/PLSTM)
 - github: [https://github.com/philipperemy/tensorflow-phased-lstm](https://github.com/philipperemy/tensorflow-phased-lstm)
+- github: [https://www.tensorflow.org/api_docs/python/tf/contrib/rnn/PhasedLSTMCell](https://www.tensorflow.org/api_docs/python/tf/contrib/rnn/PhasedLSTMCell)
 - reddit: [https://www.reddit.com/r/MachineLearning/comments/5bmfw5/r_phased_lstm_accelerating_recurrent_network/](https://www.reddit.com/r/MachineLearning/comments/5bmfw5/r_phased_lstm_accelerating_recurrent_network/)
 
 **Tuning Recurrent Neural Networks with Reinforcement Learning (RL Tuner)**

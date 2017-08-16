@@ -421,6 +421,7 @@ at INT8 deep learning operations than other FPGA DSP architectures"
 
 - intro: ICCV 2017. Nanjing University & Shanghai Jiao Tong University
 - arxiv: [https://arxiv.org/abs/1707.06342](https://arxiv.org/abs/1707.06342)
+- github(Caffe): [https://github.com/Roll920/ThiNet](https://github.com/Roll920/ThiNet)
 
 **Neuron Pruning for Compressing Deep Networks using Maxout Architectures**
 

@@ -275,7 +275,7 @@ and from 73.8% to 83.1% for ResNet-50
 
 **SUBIC: A supervised, structured binary code for image search**
 
-- intro: ICCV 2017 (Spotlight)
+- intro: ICCV 2017 (Spotlight). Technicolor & INRIA Rennes & Amazon
 - arxiv: [https://arxiv.org/abs/1708.02932](https://arxiv.org/abs/1708.02932)
 
 # Hashing
@@ -379,7 +379,9 @@ and from 73.8% to 83.1% for ResNet-50
 
 **HashNet: Deep Learning to Hash by Continuation**
 
+- intro: ICCV 2017. Tsinghua University
 - arxiv: [https://arxiv.org/abs/1702.00758](https://arxiv.org/abs/1702.00758)
+- github: [https://github.com/thuml/HashNet](https://github.com/thuml/HashNet)
 
 **Unsupervised Triplet Hashing for Fast Image Retrieval**
 

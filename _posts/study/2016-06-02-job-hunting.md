@@ -160,3 +160,7 @@ date: 2016-06-02
 
 - github: [https://github.com/mission-peace/interview](https://github.com/mission-peace/interview)
 - wiki: [https://github.com/mission-peace/interview/wiki](https://github.com/mission-peace/interview/wiki)
+
+**How to Interview Engineers**
+
+[http://blog.triplebyte.com/how-to-interview-engineers](http://blog.triplebyte.com/how-to-interview-engineers)

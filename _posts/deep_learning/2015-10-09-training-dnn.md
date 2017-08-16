@@ -840,7 +840,7 @@ date: 2015-10-09
 
 # Handling Datasets
 
-## Image Data Augmentation
+## Data Augmentation
 
 **DataAugmentation ver1.0: Image data augmentation tool for training of image recognition algorithm**
 
@@ -884,6 +884,11 @@ date: 2015-10-09
 **Google/inception's data augmentation: scale and aspect ratio augmentation**
 
 [https://github.com/facebook/fb.resnet.torch/blob/master/datasets/transforms.lua#L130](https://github.com/facebook/fb.resnet.torch/blob/master/datasets/transforms.lua#L130)
+
+**Caffe Augmentation Extension**
+
+- intro: Data Augmentation for Caffe
+- github: [https://github.com/twtygqyy/caffe-augmentation](https://github.com/twtygqyy/caffe-augmentation)
 
 ## Imbalanced Datasets
 
@@ -982,6 +987,16 @@ date: 2015-10-09
 **Image Quality Assessment Guided Deep Neural Networks Training**
 
 [https://arxiv.org/abs/1708.03880](https://arxiv.org/abs/1708.03880)
+
+**An Effective Training Method For Deep Convolutional Neural Network**
+
+- intro: Beijing Institute of Technology & Tsinghua University
+- arxiv: [https://arxiv.org/abs/1708.01666](https://arxiv.org/abs/1708.01666)
+
+**On the Importance of Consistency in Training Deep Neural Networks**
+
+- intro: University of Maryland & Arizona State University
+- arxiv: [https://arxiv.org/abs/1708.00631](https://arxiv.org/abs/1708.00631)
 
 # Tools
 
