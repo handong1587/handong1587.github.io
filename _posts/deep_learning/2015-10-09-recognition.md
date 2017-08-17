@@ -277,6 +277,8 @@ date: 2015-10-09
 
 - intro: CVPR 2017
 - arxiv: [http://wyliu.com/papers/LiuCVPR17.pdf](http://wyliu.com/papers/LiuCVPR17.pdf)
+- github: [https://github.com/wy1iu/sphereface](https://github.com/wy1iu/sphereface)
+- demo: [http://v-wb.youku.com/v_show/id_XMjk3NTc1NjMxMg==.html](http://v-wb.youku.com/v_show/id_XMjk3NTc1NjMxMg==.html)
 
 **L2-constrained Softmax Loss for Discriminative Face Verification**
 
