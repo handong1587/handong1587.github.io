@@ -1146,6 +1146,12 @@ for creating complex software in C++ to solve real world problems.
 
 - github: [https://github.com/ben519/MLPB](https://github.com/ben519/MLPB)
 
+**The most shared Machine Learning conten on Twitter from the past 7 days**
+
+- Based on the millions of #machinelearning tweets already processed by [The Herd Locker](http://theherdlocker.com/tweet/popularity/machinelearning), noise is a little over 94% of the conversation. Tracking the 8,000 daily tweets that are tagged #machineLearning, the platform filters and ranks the most popular shared content in realtime. Machine learning’s zeitgeist, you might say. It's been running for over a year, monitoring half a billion tweets a day, and will always be free to use. No ads. No BS. [http://theherdlocker.com/tweet/popularity/machinelearning](http://theherdlocker.com/tweet/popularity/machinelearning)
+
+
+
 # Projects
 
 **Machine learning algorithms： Minimal and clean examples of machine learning algorithms**
