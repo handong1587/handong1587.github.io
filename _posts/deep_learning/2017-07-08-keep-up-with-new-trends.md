@@ -42,6 +42,14 @@ date: 2017-07-08
 
 [http://deeplearning.csail.mit.edu/](http://deeplearning.csail.mit.edu/)
 
+## CVPR 2017 Tutorial
+
+**Learning Deep Features for Visual Recognition**
+
+- intro: by Kaiming He
+- slides: [http://deeplearning.csail.mit.edu/cvpr2017_tutorial_kaiminghe.pdf](http://deeplearning.csail.mit.edu/cvpr2017_tutorial_kaiminghe.pdf)
+- youtube: [https://www.youtube.com/watch?v=jHv37mKAhV4](https://www.youtube.com/watch?v=jHv37mKAhV4)
+
 # NIPS 2016
 
 **NIPS 2016 Schedule**
