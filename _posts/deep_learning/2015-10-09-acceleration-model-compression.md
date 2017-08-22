@@ -514,6 +514,10 @@ at INT8 deep learning operations than other FPGA DSP architectures"
 - intro: ICCV 2017. Megvii Inc
 - arxiv: [https://arxiv.org/abs/1707.06168](https://arxiv.org/abs/1707.06168)
 
+**DeepRebirth: Accelerating Deep Neural Network Execution on Mobile Devices**
+
+[https://arxiv.org/abs/1708.04728](https://arxiv.org/abs/1708.04728)
+
 ## Knowledge Distilling / Knowledge Transfer
 
 **Distilling the Knowledge in a Neural Network**

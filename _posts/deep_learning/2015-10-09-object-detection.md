@@ -926,6 +926,14 @@ This task involves predicting the salient regions of an image given by human eye
 - intro: Accepted as a poster in ICCV 2017
 - arxiv: [https://arxiv.org/abs/1708.02031](https://arxiv.org/abs/1708.02031)
 
+**Deep Edge-Aware Saliency Detection**
+
+[https://arxiv.org/abs/1708.04366](https://arxiv.org/abs/1708.04366)
+
+**Self-explanatory Deep Salient Object Detection**
+
+[https://arxiv.org/abs/1708.05595](https://arxiv.org/abs/1708.05595)
+
 ## Saliency Detection in Video
 
 **Deep Learning For Video Saliency Detection**
@@ -1109,6 +1117,23 @@ This task involves predicting the salient regions of an image given by human eye
 
 - intro: ICCV 2017
 - arxiv: [https://arxiv.org/abs/1708.03979](https://arxiv.org/abs/1708.03979)
+
+**Dockerface: an easy to install and use Faster R-CNN face detector in a Docker container**
+
+[https://arxiv.org/abs/1708.04370](https://arxiv.org/abs/1708.04370)
+
+**FaceBoxes: A CPU Real-time Face Detector with High Accuracy**
+
+- intro: IJCB 2017
+- keywords: Rapidly Digested Convolutional Layers (RDCL), Multiple Scale Convolutional Layers (MSCL)
+- intro: the proposed detector runs at 20 FPS on a single CPU core and 125 FPS using a GPU for VGA-resolution images
+- arxiv: [https://arxiv.org/abs/1708.05234](https://arxiv.org/abs/1708.05234)
+
+**S3FD: Single Shot Scale-invariant Face Detector**
+
+- intro: ICCV 2017
+- intro: can run at 36 FPS on a Nvidia Titan X (Pascal) for VGA-resolution images
+- arxiv: [https://arxiv.org/abs/1708.05237](https://arxiv.org/abs/1708.05237)
 
 ## Facial Point / Landmark Detection
 

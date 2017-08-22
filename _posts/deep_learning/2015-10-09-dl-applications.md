@@ -1060,6 +1060,15 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 - intro: Indian Institute of Science
 - arxiv: [https://arxiv.org/abs/1708.00159](https://arxiv.org/abs/1708.00159)
 
+**An ELU Network with Total Variation for Image Denoising**
+
+- intro: 24th International Conference on Neural Information Processing (2017)
+- arxiv: [https://arxiv.org/abs/1708.04317](https://arxiv.org/abs/1708.04317)
+
+**Dilated Residual Network for Image Denoising**
+
+[https://arxiv.org/abs/1708.05473](https://arxiv.org/abs/1708.05473)
+
 # Image Haze Removal
 
 **DehazeNet: An End-to-End System for Single Image Haze Removal**
@@ -1098,6 +1107,12 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 
 - intro: ECCV Workshop on Video Segmentation, 2016
 - arxiv: [http://arxiv.org/abs/1609.07727](http://arxiv.org/abs/1609.07727)
+
+# Snow Removal
+
+**DesnowNet: Context-Aware Deep Network for Snow Removal**
+
+[https://arxiv.org/abs/1708.04512](https://arxiv.org/abs/1708.04512)
 
 # Blur Detection and Removal
 

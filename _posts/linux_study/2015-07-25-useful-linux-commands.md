@@ -524,7 +524,9 @@ Insert current file name:
 **Switch windows**
 
 ```
-gt
+gt            go to next tab
+gT            go to previous tab
+{i}gt         go to tab in position i
 ```
 
 **Fold code block under spf-13 Vim**

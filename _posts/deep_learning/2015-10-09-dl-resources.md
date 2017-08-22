@@ -1272,6 +1272,10 @@ with fast exact probabilistic inference over many layers."
 - intro:; Keras implementation of Graph Convolutional Networks
 - github: [https://github.com/tkipf/keras-gcn](https://github.com/tkipf/keras-gcn)
 
+**Learning Graph While Training: An Evolving Graph Convolutional Neural Network**
+
+[https://arxiv.org/abs/1708.04675](https://arxiv.org/abs/1708.04675)
+
 # Deep Learning with Traditional Machine Learning Methods
 
 ## Bag of Words (BoW)
@@ -2353,6 +2357,14 @@ It is based on Facebook's TorchCraft, which is a bridge between Torch and StarCr
 **Deep Multi-View Learning with Stochastic Decorrelation Loss**
 
 [https://arxiv.org/abs/1707.09669](https://arxiv.org/abs/1707.09669)
+
+**Towards Interpretable Deep Neural Networks by Leveraging Adversarial Examples**
+
+[https://arxiv.org/abs/1708.05493](https://arxiv.org/abs/1708.05493)
+
+**Practical Network Blocks Design with Q-Learning**
+
+[https://arxiv.org/abs/1708.05552](https://arxiv.org/abs/1708.05552)
 
 ## Tutorials and Surveys
 

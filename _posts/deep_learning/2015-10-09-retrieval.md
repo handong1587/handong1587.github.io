@@ -278,6 +278,14 @@ and from 73.8% to 83.1% for ResNet-50
 - intro: ICCV 2017 (Spotlight). Technicolor & INRIA Rennes & Amazon
 - arxiv: [https://arxiv.org/abs/1708.02932](https://arxiv.org/abs/1708.02932)
 
+**MHTN: Modal-adversarial Hybrid Transfer Network for Cross-modal Retrieval**
+
+[https://arxiv.org/abs/1708.04308](https://arxiv.org/abs/1708.04308)
+
+**Pruning Convolutional Neural Networks for Image Instance Retrieval**
+
+[https://arxiv.org/abs/1707.05455](https://arxiv.org/abs/1707.05455)
+
 # Hashing
 
 **Supervised Hashing for Image Retrieval via Image Representation Learning**
@@ -415,9 +423,10 @@ and from 73.8% to 83.1% for ResNet-50
 - arxiv: [https://arxiv.org/abs/1706.07522](https://arxiv.org/abs/1706.07522)
 - github(MatConvNet): [https://github.com/hemanthdv/da-hash](https://github.com/hemanthdv/da-hash)
 
-**Pruning Convolutional Neural Networks for Image Instance Retrieval**
+**Deep Binary Reconstruction for Cross-modal Hashing**
 
-[https://arxiv.org/abs/1707.05455](https://arxiv.org/abs/1707.05455)
+- intro: ACM Multimedia 2017
+- arxiv: [https://arxiv.org/abs/1708.05127](https://arxiv.org/abs/1708.05127)
 
 ## Projects
 

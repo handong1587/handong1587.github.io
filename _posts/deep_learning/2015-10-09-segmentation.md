@@ -573,6 +573,10 @@ with built-in awareness of semantically meaningful boundaries. "
 - intro: BMVC 2017 oral. University of Southern California
 - arxiv: [https://arxiv.org/abs/1707.06426](https://arxiv.org/abs/1707.06426)
 
+**Stacked Deconvolutional Network for Semantic Segmentation**
+
+[https://arxiv.org/abs/1708.04943](https://arxiv.org/abs/1708.04943)
+
 # Instance Segmentation
 
 **Simultaneous Detection and Segmentation**
@@ -964,6 +968,11 @@ ranked 1st place in ImageNet Scene Parsing Challenge 2016
 
 - intro: CVPR 2017 Workshop, DAVIS Challenge on Video Object Segmentation 2017 (Winning Entry)
 - arxiv: [https://arxiv.org/abs/1708.00197](https://arxiv.org/abs/1708.00197)
+
+**Pixel-Level Matching for Video Object Segmentation using Convolutional Neural Networks**
+
+- intro: ICCV 2017
+- arxiv: [https://arxiv.org/abs/1708.05137](https://arxiv.org/abs/1708.05137)
 
 ## Challenge
 
