@@ -556,6 +556,12 @@ Compressed model is less than 500KB
 - github: [https://github.com/tdeboissiere/DeepLearningImplementations/tree/master/Colorful](https://github.com/tdeboissiere/DeepLearningImplementations/tree/master/Colorful)
  github(Tensorflow): [https://github.com/nilboy/colorization-tf](https://github.com/nilboy/colorization-tf)
 
+ **Colorising Black & White Photos using Deep Learning**
+
+ [https://hackernoon.com/colorising-black-white-photos-using-deep-learning-4da22a05f531](https://hackernoon.com/colorising-black-white-photos-using-deep-learning-4da22a05f531)
+
+ - - -
+
 **Automatic Colorization (Tensorflow + VGG)**
 
 ![](http://tinyclouds.org/colorize/best/6.jpg)

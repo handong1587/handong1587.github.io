@@ -89,6 +89,11 @@ date: 2015-10-09
 - intro: ICIP 2017
 - arxiv: [https://arxiv.org/abs/1705.10583](https://arxiv.org/abs/1705.10583)
 
+**Distantly Supervised Road Segmentation**
+
+- intro: ICCV workshop CVRSUAD2017. Indiana University & Preferred Networks
+- arxiv: [https://arxiv.org/abs/1708.06118](https://arxiv.org/abs/1708.06118)
+
 # Foreground Object Segmentation
 
 **Pixel Objectness**
@@ -826,6 +831,7 @@ ranked 1st place in ImageNet Scene Parsing Challenge 2016
 - arxiv: [https://arxiv.org/abs/1612.01105](https://arxiv.org/abs/1612.01105)
 - slides: [http://image-net.org/challenges/talks/2016/SenseCUSceneParsing.pdf](http://image-net.org/challenges/talks/2016/SenseCUSceneParsing.pdf)
 - github: [https://github.com/hszhao/PSPNet](https://github.com/hszhao/PSPNet)
+- github: [https://github.com/Vladkryvoruchko/PSPNet-Keras-tensorflow](https://github.com/Vladkryvoruchko/PSPNet-Keras-tensorflow)
 
 **Open Vocabulary Scene Parsing**
 

@@ -751,6 +751,12 @@ Machine learning workflow, Extracting feaures from images (colours, edges, corne
 
 [https://medium.com/@julsimon/10-deep-learning-projects-based-on-apache-mxnet-8231109f3f64](https://medium.com/@julsimon/10-deep-learning-projects-based-on-apache-mxnet-8231109f3f64)
 
+## TVM
+
+**Optimize Deep Learning GPU Operators with TVM: A Depthwise Convolution Example**
+
+[http://tvmlang.org/2017/08/22/Optimize-Deep-Learning-GPU-Operators-with-TVM-A-Depthwise-Convolution-Example.html](http://tvmlang.org/2017/08/22/Optimize-Deep-Learning-GPU-Operators-with-TVM-A-Depthwise-Convolution-Example.html)
+
 # Theano
 
 **Theano Tutorial @ LTI, Carnegie Mellon University**

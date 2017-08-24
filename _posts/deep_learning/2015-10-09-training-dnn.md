@@ -890,6 +890,12 @@ date: 2015-10-09
 - intro: Data Augmentation for Caffe
 - github: [https://github.com/twtygqyy/caffe-augmentation](https://github.com/twtygqyy/caffe-augmentation)
 
+**Improving Deep Learning using Generic Data Augmentation**
+
+- intro: University of Cape Town
+- arxiv: [https://arxiv.org/abs/1708.06020](https://arxiv.org/abs/1708.06020)
+- github: [https://github.com/webstorms/AugmentedDatasets](https://github.com/webstorms/AugmentedDatasets)
+
 ## Imbalanced Datasets
 
 **Investigation on handling Structured & Imbalanced Datasets with Deep Learning**

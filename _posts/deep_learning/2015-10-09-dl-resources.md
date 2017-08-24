@@ -2360,7 +2360,8 @@ It is based on Facebook's TorchCraft, which is a bridge between Torch and StarCr
 
 **Towards Interpretable Deep Neural Networks by Leveraging Adversarial Examples**
 
-[https://arxiv.org/abs/1708.05493](https://arxiv.org/abs/1708.05493)
+- intro: Tsinghua University
+- arxiv: [https://arxiv.org/abs/1708.05493](https://arxiv.org/abs/1708.05493)
 
 **Practical Network Blocks Design with Q-Learning**
 

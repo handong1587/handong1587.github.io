@@ -171,12 +171,6 @@ date: 2015-10-09
 
 # Papers
 
-**Reinforcement Learning: A Survey**
-
-- intro: JAIR 1996
-- project page: [http://www.cs.cmu.edu/afs/cs/project/jair/pub/volume4/kaelbling96a-html/rl-survey.html](http://www.cs.cmu.edu/afs/cs/project/jair/pub/volume4/kaelbling96a-html/rl-survey.html)
-- arxiv: [http://arxiv.org/abs/cs/9605103](http://arxiv.org/abs/cs/9605103)
-
 **Playing Atari with Deep Reinforcement Learning**
 
 - intro: Google DeepMind. NIPS Deep Learning Workshop 2013
@@ -522,6 +516,20 @@ Incorporates dropout regularization and convolutional neural networks with a sep
 - intro: DeepMind
 - keywords: Distill, transfer learning
 - arxiv: [https://arxiv.org/abs/1707.04175](https://arxiv.org/abs/1707.04175)
+
+## Surveys
+
+**Reinforcement Learning: A Survey**
+
+- intro: JAIR 1996
+- project page: [http://www.cs.cmu.edu/afs/cs/project/jair/pub/volume4/kaelbling96a-html/rl-survey.html](http://www.cs.cmu.edu/afs/cs/project/jair/pub/volume4/kaelbling96a-html/rl-survey.html)
+- arxiv: [http://arxiv.org/abs/cs/9605103](http://arxiv.org/abs/cs/9605103)
+
+**A Brief Survey of Deep Reinforcement Learning**
+
+- intro: IEEE Signal Processing Magazine, Special Issue on Deep Learning for Image Understanding
+- intro: Imperial College London & Arizona State University
+- arxiv: [https://arxiv.org/abs/1708.05866](https://arxiv.org/abs/1708.05866)
 
 ## Playing Doom
 

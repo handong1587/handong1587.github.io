@@ -38,17 +38,23 @@ date: 2017-07-08
 
 [http://openaccess.thecvf.com/CVPR2017_workshops/menu.py](http://openaccess.thecvf.com/CVPR2017_workshops/menu.py)
 
+## CVPR 2017 Tutorial
+
 **CVPR'17 Tutorial: Deep Learning for Objects and Scenes**
 
 [http://deeplearning.csail.mit.edu/](http://deeplearning.csail.mit.edu/)
 
-## CVPR 2017 Tutorial
-
-**Learning Deep Features for Visual Recognition**
+**Lecture 1: Learning Deep Representations for Visual Recognition**
 
 - intro: by Kaiming He
 - slides: [http://deeplearning.csail.mit.edu/cvpr2017_tutorial_kaiminghe.pdf](http://deeplearning.csail.mit.edu/cvpr2017_tutorial_kaiminghe.pdf)
 - youtube: [https://www.youtube.com/watch?v=jHv37mKAhV4](https://www.youtube.com/watch?v=jHv37mKAhV4)
+
+**Lecture 2: Deep Learning for Instance-level Object Understanding**
+
+- intro: by Ross Girshick
+- slides: [http://deeplearning.csail.mit.edu/instance_ross.pdf](http://deeplearning.csail.mit.edu/instance_ross.pdf)
+- youtube: [https://www.youtube.com/watch?v=jHv37mKAhV4&feature=youtu.be&t=2349](https://www.youtube.com/watch?v=jHv37mKAhV4&feature=youtu.be&t=2349)
 
 # NIPS 2016
 

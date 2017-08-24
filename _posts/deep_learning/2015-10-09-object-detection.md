@@ -932,7 +932,8 @@ This task involves predicting the salient regions of an image given by human eye
 
 **Self-explanatory Deep Salient Object Detection**
 
-[https://arxiv.org/abs/1708.05595](https://arxiv.org/abs/1708.05595)
+- intro: National University of Defense Technology, China & National University of Singapore
+- arxiv: [https://arxiv.org/abs/1708.05595](https://arxiv.org/abs/1708.05595)
 
 ## Saliency Detection in Video
 

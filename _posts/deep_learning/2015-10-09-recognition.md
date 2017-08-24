@@ -496,6 +496,15 @@ facial action unit recognition, and eye-gaze estimation.
 - intro: Intelligent Vehicles Symposium 2016. Chubu University & Nagoya University, Japan
 - paper: [http://www.vision.cs.chubu.ac.jp/MPRG/C_group/C081_fukui2016.pdf](http://www.vision.cs.chubu.ac.jp/MPRG/C_group/C081_fukui2016.pdf)
 
+**Multi-task CNN Model for Attribute Prediction**
+
+- intro: ieee transaction paper
+- arxiv: [https://arxiv.org/abs/1601.00400](https://arxiv.org/abs/1601.00400)
+
+**Attributes for Improved Attributes: A Multi-Task Network for Attribute Classification**
+
+[https://arxiv.org/abs/1604.07360](https://arxiv.org/abs/1604.07360)
+
 **Weakly-supervised Learning of Mid-level Features for Pedestrian Attribute Recognition and Localization**
 
 - arxiv: [https://arxiv.org/abs/1611.05603](https://arxiv.org/abs/1611.05603)

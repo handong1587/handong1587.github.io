@@ -286,6 +286,11 @@ and from 73.8% to 83.1% for ResNet-50
 
 [https://arxiv.org/abs/1707.05455](https://arxiv.org/abs/1707.05455)
 
+**Image2song: Song Retrieval via Bridging Image Content and Lyric Words**
+
+- intro: ICCV 2017. Chinese Academy of Sciences & Northwestern Polytechnical University
+- arxiv: [https://arxiv.org/abs/1708.05851](https://arxiv.org/abs/1708.05851)
+
 # Hashing
 
 **Supervised Hashing for Image Retrieval via Image Representation Learning**
