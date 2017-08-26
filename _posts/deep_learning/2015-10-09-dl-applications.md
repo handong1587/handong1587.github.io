@@ -528,6 +528,11 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 - intro: ICCV 2017. CMU & Universidade de Lisboa
 - arxiv: [https://arxiv.org/abs/1707.09476](https://arxiv.org/abs/1707.09476)
 
+**Representation Learning by Learning to Count**
+
+- intro: ICCV 2017 oral
+- arxiv: [https://arxiv.org/abs/1708.06734](https://arxiv.org/abs/1708.06734)
+
 ## Crowd Counting / Crowd Analysis
 
 **Large scale crowd analysis based on convolutional neural network**

@@ -1134,6 +1134,10 @@ with fast exact probabilistic inference over many layers."
 
 [https://arxiv.org/abs/1708.01015](https://arxiv.org/abs/1708.01015)
 
+**Sparsity Invariant CNNs**
+
+[https://arxiv.org/abs/1708.06500](https://arxiv.org/abs/1708.06500)
+
 ## Highway Networks
 
 **Highway Networks**

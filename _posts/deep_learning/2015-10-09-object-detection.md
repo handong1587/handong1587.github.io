@@ -935,6 +935,10 @@ This task involves predicting the salient regions of an image given by human eye
 - intro: National University of Defense Technology, China & National University of Singapore
 - arxiv: [https://arxiv.org/abs/1708.05595](https://arxiv.org/abs/1708.05595)
 
+**PiCANet: Learning Pixel-wise Contextual Attention in ConvNets and Its Application in Saliency Detection**
+
+[https://arxiv.org/abs/1708.06433](https://arxiv.org/abs/1708.06433)
+
 ## Saliency Detection in Video
 
 **Deep Learning For Video Saliency Detection**
@@ -1179,6 +1183,10 @@ This task involves predicting the salient regions of an image given by human eye
 - intro: CVPRW 2017
 - arxiv: [https://arxiv.org/abs/1706.01789](https://arxiv.org/abs/1706.01789)
 - gihtub: [https://github.com/MarekKowalski/DeepAlignmentNetwork](https://github.com/MarekKowalski/DeepAlignmentNetwork)
+
+**Joint Multi-view Face Alignment in the Wild**
+
+[https://arxiv.org/abs/1708.06023](https://arxiv.org/abs/1708.06023)
 
 # People Detection
 
@@ -1577,6 +1585,10 @@ This task involves predicting the salient regions of an image given by human eye
 **Ensemble of Part Detectors for Simultaneous Classification and Localization**
 
 [https://arxiv.org/abs/1705.10034](https://arxiv.org/abs/1705.10034)
+
+**STNet: Selective Tuning of Convolutional Networks for Object Localization**
+
+[https://arxiv.org/abs/1708.06418](https://arxiv.org/abs/1708.06418)
 
 # Tutorials / Talks
 

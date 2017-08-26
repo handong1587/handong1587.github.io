@@ -642,6 +642,11 @@ alleviates the problem of video browsing, editing and indexing.
 - inro: ACCV 2016
 - arxiv: [http://arxiv.org/abs/1609.08758](http://arxiv.org/abs/1609.08758)
 
+**CNN-Based Prediction of Frame-Level Shot Importance for Video Summarization**
+
+- intro: International Conference on new Trends in Computer Sciences (ICTCS), Amman-Jordan, 2017
+- arxiv: [https://arxiv.org/abs/1708.07023](https://arxiv.org/abs/1708.07023)
+
 # Video Highlight Detection
 
 **Unsupervised Extraction of Video Highlights Via Robust Recurrent Auto-encoders**

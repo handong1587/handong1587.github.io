@@ -172,6 +172,11 @@ date: 2015-10-09
 - github: [https://github.com/merantix/picasso](https://github.com/merantix/picasso)
 - blog: [https://medium.com/merantix/picasso-a-free-open-source-visualizer-for-cnns-d8ed3a35cfc5](https://medium.com/merantix/picasso-a-free-open-source-visualizer-for-cnns-d8ed3a35cfc5)
 
+**CNN Fixations: An unraveling approach to visualize the discriminative image regions**
+
+- arxiv: [https://arxiv.org/abs/1708.06670](https://arxiv.org/abs/1708.06670)
+- github: [https://github.com/utsavgarg/cnn-fixations](https://github.com/utsavgarg/cnn-fixations)
+
 # Projects
 
 **Interactive Deep Neural Net Hallucinations**

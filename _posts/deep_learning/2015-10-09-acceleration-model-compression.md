@@ -519,6 +519,11 @@ at INT8 deep learning operations than other FPGA DSP architectures"
 
 [https://arxiv.org/abs/1708.04728](https://arxiv.org/abs/1708.04728)
 
+**Learning Efficient Convolutional Networks through Network Slimming**
+
+- intro: ICCV 2017
+- arxiv: [https://arxiv.org/abs/1708.06519](https://arxiv.org/abs/1708.06519)
+
 ## Knowledge Distilling / Knowledge Transfer
 
 **Distilling the Knowledge in a Neural Network**

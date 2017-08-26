@@ -181,6 +181,12 @@ date: 2015-10-09
 
 [https://arxiv.org/abs/1708.02688](https://arxiv.org/abs/1708.02688)
 
+# Video Generation
+
+**Attentive Semantic Video Generation using Captions**
+
+[https://arxiv.org/abs/1708.05980](https://arxiv.org/abs/1708.05980)
+
 # Deep Generative Model
 
 **Digit Fantasies by a Deep Generative Model**

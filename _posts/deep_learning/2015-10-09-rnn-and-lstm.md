@@ -492,6 +492,11 @@ date: 2015-10-09
 [https://www.nature.com/articles/nature20101.epdf?author_access_token=ImTXBI8aWbYxYQ51Plys8NRgN0jAjWel9jnR3ZoTv0MggmpDmwljGswxVdeocYSurJ3hxupzWuRNeGvvXnoO8o4jTJcnAyhGuZzXJ1GEaD-Z7E6X_a9R-xqJ9TfJWBqz](https://www.nature.com/articles/nature20101.epdf?author_access_token=ImTXBI8aWbYxYQ51Plys8NRgN0jAjWel9jnR3ZoTv0MggmpDmwljGswxVdeocYSurJ3hxupzWuRNeGvvXnoO8o4jTJcnAyhGuZzXJ1GEaD-Z7E6X_a9R-xqJ9TfJWBqz)
 - github: [https://github.com/deepmind/dnc](https://github.com/deepmind/dnc)
 
+**Skip RNN: Learning to Skip State Updates in Recurrent Neural Networks**
+
+- project page: [https://imatge-upc.github.io/skiprnn-2017-telecombcn/](https://imatge-upc.github.io/skiprnn-2017-telecombcn/)
+- arxiv: [https://arxiv.org/abs/1708.06834](https://arxiv.org/abs/1708.06834)
+
 ## LSTMVis
 
 **Visual Analysis of Hidden State Dynamics in Recurrent Neural Networks**

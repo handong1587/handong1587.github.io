@@ -357,6 +357,17 @@ date: 2015-10-09
 - arxiv: [https://arxiv.org/abs/1612.05086](https://arxiv.org/abs/1612.05086)
 - github: [https://github.com/ProbabilisticNumerics/cabs](https://github.com/ProbabilisticNumerics/cabs)
 
+**Super-Convergence: Very Fast Training of Residual Networks Using Large Learning Rates**
+
+[https://arxiv.org/abs/1708.07120](https://arxiv.org/abs/1708.07120)
+
+# Convolution Filters
+
+**Non-linear Convolution Filters for CNN-based Learning**
+
+- intro: ICCV 2017
+- arxiv: [https://arxiv.org/abs/1708.07038](https://arxiv.org/abs/1708.07038)
+
 # Pooling
 
 **Stochastic Pooling for Regularization of Deep Convolutional Neural Networks**
