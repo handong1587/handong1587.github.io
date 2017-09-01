@@ -1188,6 +1188,10 @@ This task involves predicting the salient regions of an image given by human eye
 
 [https://arxiv.org/abs/1708.06023](https://arxiv.org/abs/1708.06023)
 
+**FacePoseNet: Making a Case for Landmark-Free Face Alignment**
+
+[https://arxiv.org/abs/1708.07517](https://arxiv.org/abs/1708.07517)
+
 # People Detection
 
 **End-to-end people detection in crowded scenes**

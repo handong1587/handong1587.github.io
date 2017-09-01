@@ -433,6 +433,10 @@ extract saptio-temporal features to represent the video using the CNNs."
 
 [https://arxiv.org/abs/1706.08807](https://arxiv.org/abs/1706.08807)
 
+**Hierarchical Multi-scale Attention Networks for Action Recognition**
+
+[https://arxiv.org/abs/1708.07590](https://arxiv.org/abs/1708.07590)
+
 ### Projects
 
 **A Torch Library for Action Recognition and Detection Using CNNs and LSTMs**

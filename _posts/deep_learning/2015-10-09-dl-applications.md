@@ -180,6 +180,10 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 
 [https://arxiv.org/abs/1703.08497](https://arxiv.org/abs/1703.08497)
 
+**Understanding and Comparing Deep Neural Networks for Age and Gender Classification**
+
+[https://arxiv.org/abs/1708.07689](https://arxiv.org/abs/1708.07689)
+
 # Face Aging
 
 **Recurrent Face Aging**
@@ -532,6 +536,11 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 
 - intro: ICCV 2017 oral
 - arxiv: [https://arxiv.org/abs/1708.06734](https://arxiv.org/abs/1708.06734)
+
+**Leaf Counting with Deep Convolutional and Deconvolutional Networks**
+
+- intro: ICCV 2017 Workshop on Computer Vision Problems in Plant Phenotyping
+- arxiv: [https://arxiv.org/abs/1708.07570](https://arxiv.org/abs/1708.07570)
 
 ## Crowd Counting / Crowd Analysis
 

@@ -1138,6 +1138,10 @@ with fast exact probabilistic inference over many layers."
 
 [https://arxiv.org/abs/1708.06500](https://arxiv.org/abs/1708.06500)
 
+**SPARCNN: SPAtially Related Convolutional Neural Networks**
+
+[https://arxiv.org/abs/1708.07522](https://arxiv.org/abs/1708.07522)
+
 ## Highway Networks
 
 **Highway Networks**

@@ -855,6 +855,10 @@ ranked 1st place in ImageNet Scene Parsing Challenge 2016
 - intro: INRIA
 - arxiv: [https://arxiv.org/abs/1708.02813](https://arxiv.org/abs/1708.02813)
 
+**Semantic Foggy Scene Understanding with Synthetic Data**
+
+[https://arxiv.org/abs/1708.07819](https://arxiv.org/abs/1708.07819)
+
 ## Benchmarks
 
 **MIT Scene Parsing Benchmark**
