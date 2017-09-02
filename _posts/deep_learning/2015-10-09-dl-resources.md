@@ -2592,6 +2592,10 @@ It is based on Facebook's TorchCraft, which is a bridge between Torch and StarCr
 - intro: Magic Leap, Inc
 - arxiv: [https://arxiv.org/abs/1707.07410](https://arxiv.org/abs/1707.07410)
 
+**Cascade Residual Learning: A Two-stage Convolutional Neural Network for Stereo Matching**
+
+[https://arxiv.org/abs/1708.09204](https://arxiv.org/abs/1708.09204)
+
 ### Optical Flow
 
 **FlowNet: Learning Optical Flow with Convolutional Networks**

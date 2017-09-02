@@ -437,6 +437,15 @@ extract saptio-temporal features to represent the video using the CNNs."
 
 [https://arxiv.org/abs/1708.07590](https://arxiv.org/abs/1708.07590)
 
+**Two-stream Flow-guided Convolutional Attention Networks for Action Recognition**
+
+- intro: International Conference of Computer Vision Workshop (ICCVW), 2017
+- arxiv: [https://arxiv.org/abs/1708.09268](https://arxiv.org/abs/1708.09268)
+
+**Action Classification and Highlighting in Videos**
+
+[https://arxiv.org/abs/1708.09522](https://arxiv.org/abs/1708.09522)
+
 ### Projects
 
 **A Torch Library for Action Recognition and Detection Using CNNs and LSTMs**
@@ -511,6 +520,11 @@ extract saptio-temporal features to represent the video using the CNNs."
 
 - intro: Rochester Institute of Technology
 - arxiv: [https://arxiv.org/abs/1612.00390](https://arxiv.org/abs/1612.00390)
+
+**Abnormal Event Detection in Videos using Generative Adversarial Nets**
+
+- intro: Best Paper / Student Paper Award Finalist, IEEE International Conference on Image Processing (ICIP), 2017
+- arxiv: [https://arxiv.org/abs/1708.09644](https://arxiv.org/abs/1708.09644)
 
 # Video Prediction
 
@@ -650,6 +664,10 @@ alleviates the problem of video browsing, editing and indexing.
 
 - intro: International Conference on new Trends in Computer Sciences (ICTCS), Amman-Jordan, 2017
 - arxiv: [https://arxiv.org/abs/1708.07023](https://arxiv.org/abs/1708.07023)
+
+**Video Summarization with Attention-Based Encoder-Decoder Networks**
+
+[https://arxiv.org/abs/1708.09545](https://arxiv.org/abs/1708.09545)
 
 # Video Highlight Detection
 

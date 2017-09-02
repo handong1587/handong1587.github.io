@@ -634,6 +634,7 @@ Continuation of [arXiv:1608.08021](https://arxiv.org/abs/1608.08021)
 **Focal Loss for Dense Object Detection**
 
 - intro: Facebook AI Research
+- keywords: RetinaNet
 - arxiv: [https://arxiv.org/abs/1708.02002](https://arxiv.org/abs/1708.02002)
 
 **CoupleNet: Coupling Global Structure with Local Parts for Object Detection**
