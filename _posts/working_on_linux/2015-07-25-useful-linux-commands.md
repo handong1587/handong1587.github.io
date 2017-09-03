@@ -269,6 +269,19 @@ Count folders in the current directory, recursively:
 ls -lR | grep “^d” | wc -l
 ```
 
+Count words in a file:
+
+```
+grep -o objStr  filename|wc -l
+grep -o ‘objStr1\|objStr2'  filename|wc -l
+```
+
+Count words in a file under Vim:
+
+```
+:%s/objStr//gn
+```
+
 # Search
 
 **Search for a file by its file name**
