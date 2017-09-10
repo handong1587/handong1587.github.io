@@ -415,6 +415,11 @@ at INT8 deep learning operations than other FPGA DSP architectures"
 - intro: BMVC 2017 Oral
 - arxiv: [https://arxiv.org/abs/1708.01001](https://arxiv.org/abs/1708.01001)
 
+**Domain-adaptive deep network compression**
+
+- intro: ICCV 2017
+- arxiv: [https://arxiv.org/abs/1709.01041](https://arxiv.org/abs/1709.01041)
+
 # Pruning
 
 **ThiNet: A Filter Level Pruning Method for Deep Neural Network Compression**
@@ -544,6 +549,10 @@ at INT8 deep learning operations than other FPGA DSP architectures"
 - intro: TuSimple
 - keywords: pedestrian re-identification
 - arxiv: [https://arxiv.org/abs/1707.01220](https://arxiv.org/abs/1707.01220)
+
+**Learning Loss for Knowledge Distillation with Conditional Adversarial Networks**
+
+[https://arxiv.org/abs/1709.00513](https://arxiv.org/abs/1709.00513)
 
 ## Code Optimization
 

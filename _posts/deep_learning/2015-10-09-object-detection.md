@@ -1319,6 +1319,10 @@ This task involves predicting the salient regions of an image given by human eye
 - intro: The University of North Carolina at Chapel Hill
 - arxiv: [https://arxiv.org/abs/1707.09100](https://arxiv.org/abs/1707.09100)
 
+**Too Far to See? Not Really! --- Pedestrian Detection with Scale-aware Localization Policy**
+
+[https://arxiv.org/abs/1709.00235](https://arxiv.org/abs/1709.00235)
+
 ## Vehicle Detection
 
 **DAVE: A Unified Framework for Fast Vehicle Detection and Annotation**

@@ -33,6 +33,10 @@ date: 2015-10-09
 - github: [https://github.com/jakeret/tf_unet](https://github.com/jakeret/tf_unet)
 - notes: [http://zongwei.leanote.com/post/Pa](http://zongwei.leanote.com/post/Pa)
 
+**DeepUNet: A Deep Fully Convolutional Network for Pixel-level Sea-Land Segmentation**
+
+[https://arxiv.org/abs/1709.00201](https://arxiv.org/abs/1709.00201)
+
 **Segmentation from Natural Language Expressions**
 
 ![](http://ronghanghu.com/wp-content/uploads/text_objseg_method-768x331.jpg)

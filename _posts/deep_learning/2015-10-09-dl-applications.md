@@ -780,6 +780,10 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 
 [https://www.arxiv.org/abs/1703.00832](https://www.arxiv.org/abs/1703.00832)
 
+**Deep Learning-Guided Image Reconstruction from Incomplete Data**
+
+[https://arxiv.org/abs/1709.00584](https://arxiv.org/abs/1709.00584)
+
 # Image Restoration
 
 **Image Restoration Using Very Deep Convolutional Encoder-Decoder Networks with Symmetric Skip Connections**
@@ -1565,6 +1569,11 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 **Combining Residual Networks with LSTMs for Lipreading**
 
 - arxiv: [https://arxiv.org/abs/1703.04105](https://arxiv.org/abs/1703.04105)
+
+**End-to-End Multi-View Lipreading**
+
+- intro: BMVC 2017
+- arxiv: [https://arxiv.org/abs/1709.00443](https://arxiv.org/abs/1709.00443)
 
 # Event Recognition
 

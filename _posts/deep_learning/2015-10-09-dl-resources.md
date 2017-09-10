@@ -1142,6 +1142,11 @@ with fast exact probabilistic inference over many layers."
 
 [https://arxiv.org/abs/1708.07522](https://arxiv.org/abs/1708.07522)
 
+**Fast Image Processing with Fully-Convolutional Networks**
+
+- arxiv: [https://arxiv.org/abs/1709.00643](https://arxiv.org/abs/1709.00643)
+- supp: [https://youtu.be/eQyfHgLx8Dc](https://youtu.be/eQyfHgLx8Dc)
+
 ## Highway Networks
 
 **Highway Networks**
@@ -1346,6 +1351,10 @@ with fast exact probabilistic inference over many layers."
 **Sparse Factorization Layers for Neural Networks with Limited Supervision**
 
 - arxiv: [https://arxiv.org/abs/1612.04468](https://arxiv.org/abs/1612.04468)
+
+**Online Convolutional Dictionary Learning**
+
+[https://arxiv.org/abs/1709.00106](https://arxiv.org/abs/1709.00106)
 
 ## Fisher Vectors
 
