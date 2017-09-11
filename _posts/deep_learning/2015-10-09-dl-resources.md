@@ -1147,6 +1147,14 @@ with fast exact probabilistic inference over many layers."
 - arxiv: [https://arxiv.org/abs/1709.00643](https://arxiv.org/abs/1709.00643)
 - supp: [https://youtu.be/eQyfHgLx8Dc](https://youtu.be/eQyfHgLx8Dc)
 
+**BranchyNet: Fast Inference via Early Exiting from Deep Neural Networks**
+
+[https://arxiv.org/abs/1709.01686](https://arxiv.org/abs/1709.01686)
+
+**Polar Transformer Networks**
+
+[https://arxiv.org/abs/1709.01889](https://arxiv.org/abs/1709.01889)
+
 ## Highway Networks
 
 **Highway Networks**
@@ -2630,6 +2638,10 @@ It is based on Facebook's TorchCraft, which is a bridge between Torch and StarCr
 **Guided Optical Flow Learning**
 
 - arxiv: [https://arxiv.org/abs/1702.02295](https://arxiv.org/abs/1702.02295)
+
+**PWC-Net: CNNs for Optical Flow Using Pyramid, Warping, and Cost Volume**
+
+[https://arxiv.org/abs/1709.02371](https://arxiv.org/abs/1709.02371)
 
 ### All-In-One Network
 

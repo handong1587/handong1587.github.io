@@ -586,6 +586,15 @@ with built-in awareness of semantically meaningful boundaries. "
 
 [https://arxiv.org/abs/1708.04943](https://arxiv.org/abs/1708.04943)
 
+**Learning Dilation Factors for Semantic Segmentation of Street Scenes**
+
+- intro: GCPR 2017
+- arxiv: [https://arxiv.org/abs/1709.01956](https://arxiv.org/abs/1709.01956)
+
+**A Self-aware Sampling Scheme to Efficiently Train Fully Convolutional Networks for Semantic Segmentation**
+
+[https://arxiv.org/abs/1709.02764](https://arxiv.org/abs/1709.02764)
+
 # Instance Segmentation
 
 **Simultaneous Detection and Segmentation**

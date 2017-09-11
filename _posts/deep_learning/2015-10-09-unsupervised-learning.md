@@ -141,6 +141,11 @@ Auto-encoder
 - intro: University of Central Florida & Purdue University
 - arxiv: [https://arxiv.org/abs/1706.05048](https://arxiv.org/abs/1706.05048)
 
+**Deep Subspace Clustering Networks**
+
+- intro: NIPS 2017
+- arxiv: [https://arxiv.org/abs/1709.02508](https://arxiv.org/abs/1709.02508)
+
 # Auto-encoder
 
 **Auto-Encoding Variational Bayes**

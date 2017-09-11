@@ -940,6 +940,10 @@ This task involves predicting the salient regions of an image given by human eye
 
 [https://arxiv.org/abs/1708.06433](https://arxiv.org/abs/1708.06433)
 
+**DeepFeat: A Bottom Up and Top Down Saliency Model Based on Deep Features of Convolutional Neural Nets**
+
+[https://arxiv.org/abs/1709.02495](https://arxiv.org/abs/1709.02495)
+
 ## Saliency Detection in Video
 
 **Deep Learning For Video Saliency Detection**
@@ -1334,6 +1338,11 @@ This task involves predicting the salient regions of an image given by human eye
 
 - arxiv: [https://arxiv.org/abs/1702.00254](https://arxiv.org/abs/1702.00254)
 
+**Fine-Grained Car Detection for Visual Census Estimation**
+
+- intro: AAAI 2016
+- arxiv: [https://arxiv.org/abs/1709.02480](https://arxiv.org/abs/1709.02480)
+
 ## Traffic-Sign Detection
 
 **Traffic-Sign Detection and Classification in the Wild**
@@ -1598,6 +1607,11 @@ This task involves predicting the salient regions of an image given by human eye
 **STNet: Selective Tuning of Convolutional Networks for Object Localization**
 
 [https://arxiv.org/abs/1708.06418](https://arxiv.org/abs/1708.06418)
+
+**Soft Proposal Networks for Weakly Supervised Object Localization**
+
+- intro: ICCV 2017
+- arxiv: [https://arxiv.org/abs/1709.01829](https://arxiv.org/abs/1709.01829)
 
 # Tutorials / Talks
 

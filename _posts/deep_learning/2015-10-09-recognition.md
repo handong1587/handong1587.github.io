@@ -443,6 +443,11 @@ facial action unit recognition, and eye-gaze estimation.
 - intro: CVPR 2017
 - paper: [http://openaccess.thecvf.com/content_cvpr_2017/papers/Fu_Look_Closer_to_CVPR_2017_paper.pdf](http://openaccess.thecvf.com/content_cvpr_2017/papers/Fu_Look_Closer_to_CVPR_2017_paper.pdf)
 
+**Fine-grained Recognition in the Wild: A Multi-Task Domain Adaptation Approach**
+
+- intro: ICCV 2017
+- arxiv: [https://arxiv.org/abs/1709.02476](https://arxiv.org/abs/1709.02476)
+
 ### Food Recognition
 
 **DeepFood: Deep Learning-Based Food Image Recognition for Computer-Aided Dietary Assessment**

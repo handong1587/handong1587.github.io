@@ -907,6 +907,10 @@ date: 2015-10-09
 - arxiv: [https://arxiv.org/abs/1708.06020](https://arxiv.org/abs/1708.06020)
 - github: [https://github.com/webstorms/AugmentedDatasets](https://github.com/webstorms/AugmentedDatasets)
 
+**Learning to Compose Domain-Specific Transformations for Data Augmentation**
+
+[https://arxiv.org/abs/1709.01643](https://arxiv.org/abs/1709.01643)
+
 ## Imbalanced Datasets
 
 **Investigation on handling Structured & Imbalanced Datasets with Deep Learning**

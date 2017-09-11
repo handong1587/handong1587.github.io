@@ -493,6 +493,10 @@ at INT8 deep learning operations than other FPGA DSP architectures"
 - intro: Embedded Vision Workshop (CVPRW). UC San Diego & UC Los Angeles & Cornell University
 - arxiv: [https://arxiv.org/abs/1707.04693](https://arxiv.org/abs/1707.04693)
 
+**Embedded Binarized Neural Networks**
+
+[https://arxiv.org/abs/1709.02260](https://arxiv.org/abs/1709.02260)
+
 ## Accelerating / Fast Algorithms
 
 **Fast Algorithms for Convolutional Neural Networks**
