@@ -595,6 +595,16 @@ with built-in awareness of semantically meaningful boundaries. "
 
 [https://arxiv.org/abs/1709.02764](https://arxiv.org/abs/1709.02764)
 
+**One-Shot Learning for Semantic Segmentation**
+
+- intro: BMWC 2017
+- arcxiv: [https://arxiv.org/abs/1709.03410](https://arxiv.org/abs/1709.03410)
+- github: [https://github.com/lzzcd001/OSLSM](https://github.com/lzzcd001/OSLSM)
+
+**An Adaptive Sampling Scheme to Efficiently Train Fully Convolutional Networks for Semantic Segmentation**
+
+[https://arxiv.org/abs/1709.02764](https://arxiv.org/abs/1709.02764)
+
 # Instance Segmentation
 
 **Simultaneous Detection and Segmentation**
@@ -943,6 +953,10 @@ ranked 1st place in ImageNet Scene Parsing Challenge 2016
 - arxiv: [https://arxiv.org/abs/1611.05198](https://arxiv.org/abs/1611.05198)
 - github: [https://github.com/kmaninis/OSVOS-caffe](https://github.com/kmaninis/OSVOS-caffe)
 - github: [https://github.com/scaelles/OSVOS-TensorFlow](https://github.com/scaelles/OSVOS-TensorFlow)
+
+**Video Object Segmentation Without Temporal Information**
+
+[https://arxiv.org/abs/1709.06031](https://arxiv.org/abs/1709.06031)
 
 **Convolutional Gated Recurrent Networks for Video Segmentation**
 

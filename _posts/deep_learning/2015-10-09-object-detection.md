@@ -327,6 +327,10 @@ date: 2015-10-09
 - keywords: CSSD, DiCSSD, DeCSSD, effective receptive fields (ERFs),  theoretical receptive fields (TRFs)
 - arxiv: [https://arxiv.org/abs/1707.08682](https://arxiv.org/abs/1707.08682)
 
+**Feature-Fused SSD: Fast Detection for Small Objects**
+
+[https://arxiv.org/abs/1709.05054](https://arxiv.org/abs/1709.05054)
+
 - - -
 
 ## Inside-Outside Net (ION)
@@ -641,6 +645,14 @@ Continuation of [arXiv:1608.08021](https://arxiv.org/abs/1608.08021)
 
 - intro: ICCV 2017
 - arxiv: [https://arxiv.org/abs/1708.02863](https://arxiv.org/abs/1708.02863)
+
+**Zoom Out-and-In Network with Map Attention Decision for Region Proposal and Object Detection**
+
+[https://arxiv.org/abs/1709.04347](https://arxiv.org/abs/1709.04347)
+
+**StairNet: Top-Down Semantic Aggregation for Accurate One Shot Detection**
+
+[https://arxiv.org/abs/1709.05788](https://arxiv.org/abs/1709.05788)
 
 ## NMS
 
@@ -1145,6 +1157,10 @@ This task involves predicting the salient regions of an image given by human eye
 - intro: can run at 36 FPS on a Nvidia Titan X (Pascal) for VGA-resolution images
 - arxiv: [https://arxiv.org/abs/1708.05237](https://arxiv.org/abs/1708.05237)
 
+**Detecting Faces Using Region-based Fully Convolutional Networks**
+
+[https://arxiv.org/abs/1709.05256](https://arxiv.org/abs/1709.05256)
+
 ## Facial Point / Landmark Detection
 
 **Deep Convolutional Network Cascade for Facial Point Detection**
@@ -1506,6 +1522,10 @@ This task involves predicting the salient regions of an image given by human eye
 
 - intro: ICCV 2017
 - arxiv: [https://arxiv.org/abs/1708.01642](https://arxiv.org/abs/1708.01642)
+
+**DeepVoting: An Explainable Framework for Semantic Part Detection under Partial Occlusion**
+
+[https://arxiv.org/abs/1709.04577](https://arxiv.org/abs/1709.04577)
 
 # Object Proposal
 

@@ -310,6 +310,11 @@ Compressed model is less than 500KB
 
 [https://arxiv.org/abs/1706.03319](https://arxiv.org/abs/1706.03319)
 
+**Meta Networks for Neural Style Transfer**
+
+- arxiv: [https://arxiv.org/abs/1709.04111](https://arxiv.org/abs/1709.04111)
+- github: [https://github.com/FalongShen/styletransfer](https://github.com/FalongShen/styletransfer)
+
 ## Neural Art On Audio
 
 **MSc AI Project on generative deep networks and neural style transfer for audio**

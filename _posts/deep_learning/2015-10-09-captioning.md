@@ -287,6 +287,14 @@ after the embedding and recurrent layers of the RNN."
 - intro: Proceedings of the 10th International Conference on Natural Language Generation (INLG'17)
 - arxiv: [https://arxiv.org/abs/1708.02043](https://arxiv.org/abs/1708.02043)
 
+**Stack-Captioning: Coarse-to-Fine Learning for Image Captioning**
+
+[https://arxiv.org/abs/1709.03376](https://arxiv.org/abs/1709.03376)
+
+**Self-Guiding Multimodal LSTM - when we do not have a perfect training dataset for image captioning**
+
+[https://arxiv.org/abs/1709.05038](https://arxiv.org/abs/1709.05038)
+
 # Object Descriptions
 
 **Generation and Comprehension of Unambiguous Object Descriptions**

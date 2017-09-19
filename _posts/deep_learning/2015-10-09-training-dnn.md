@@ -436,6 +436,10 @@ date: 2015-10-09
 
 [https://arxiv.org/abs/1708.03888](https://arxiv.org/abs/1708.03888)
 
+**ImageNet Training in 24 Minutes**
+
+[https://arxiv.org/abs/1709.05011](https://arxiv.org/abs/1709.05011)
+
 # Optimization Methods
 
 **On Optimization Methods for Deep Learning**
@@ -959,6 +963,13 @@ date: 2015-10-09
 
 - intro: CVPR 2017 oral, best paper award. Apple Inc.
 - arxiv: [https://arxiv.org/abs/1612.07828](https://arxiv.org/abs/1612.07828)
+
+# Incremental Training
+
+**ClickBAIT: Click-based Accelerated Incremental Training of Convolutional Neural Networks**
+
+- arxiv: [https://arxiv.org/abs/1709.05021](https://arxiv.org/abs/1709.05021)
+- dataset: [http://clickbait.crossmobile.info/](http://clickbait.crossmobile.info/)
 
 # Papers
 
