@@ -743,6 +743,10 @@ with built-in awareness of semantically meaningful boundaries. "
 - intro: Published at "Deep Learning for Robotic Vision", workshop at CVPR 2017. KU Leuven
 - arxiv: [https://arxiv.org/abs/1708.02551](https://arxiv.org/abs/1708.02551)
 
+**SceneCut: Joint Geometric and Object Segmentation for Indoor Scenes**
+
+[https://arxiv.org/abs/1709.07158](https://arxiv.org/abs/1709.07158)
+
 # Specific Segmentation
 
 **A CNN Cascade for Landmark Guided Semantic Part Segmentation**
@@ -1010,6 +1014,12 @@ ranked 1st place in ImageNet Scene Parsing Challenge 2016
 
 - intro: ICCV 2017
 - arxiv: [https://arxiv.org/abs/1708.05137](https://arxiv.org/abs/1708.05137)
+
+**SegFlow: Joint Learning for Video Object Segmentation and Optical Flow**
+
+- project page: [https://sites.google.com/site/yihsuantsai/research/iccv17-segflow](https://sites.google.com/site/yihsuantsai/research/iccv17-segflow)
+- arxiv: [https://arxiv.org/abs/1709.06750](https://arxiv.org/abs/1709.06750)
+- github: [https://github.com/JingchunCheng/SegFlow](https://github.com/JingchunCheng/SegFlow)
 
 ## Challenge
 

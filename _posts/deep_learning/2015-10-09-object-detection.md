@@ -966,6 +966,10 @@ This task involves predicting the salient regions of an image given by human eye
 
 [https://arxiv.org/abs/1708.01447](https://arxiv.org/abs/1708.01447)
 
+**Predicting Video Saliency with Object-to-Motion CNN and Two-layer Convolutional LSTM**
+
+[https://arxiv.org/abs/1709.06316](https://arxiv.org/abs/1709.06316)
+
 # Visual Relationship Detection
 
 **Visual Relationship Detection with Language Priors**
@@ -1160,6 +1164,10 @@ This task involves predicting the salient regions of an image given by human eye
 **Detecting Faces Using Region-based Fully Convolutional Networks**
 
 [https://arxiv.org/abs/1709.05256](https://arxiv.org/abs/1709.05256)
+
+**AffordanceNet: An End-to-End Deep Learning Approach for Object Affordance Detection**
+
+[https://arxiv.org/abs/1709.07326](https://arxiv.org/abs/1709.07326)
 
 ## Facial Point / Landmark Detection
 

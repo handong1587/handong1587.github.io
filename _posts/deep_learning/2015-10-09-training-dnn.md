@@ -43,6 +43,10 @@ date: 2015-10-09
 
 [https://arxiv.org/abs/1705.04591](https://arxiv.org/abs/1705.04591)
 
+**Training Better CNNs Requires to Rethink ReLU**
+
+[https://arxiv.org/abs/1709.06247](https://arxiv.org/abs/1709.06247)
+
 ## LReLU
 
 **Rectifier Nonlinearities Improve Neural Network Acoustic Models**

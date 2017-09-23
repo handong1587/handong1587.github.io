@@ -424,6 +424,11 @@ at INT8 deep learning operations than other FPGA DSP architectures"
 
 [https://arxiv.org/abs/1709.04731](https://arxiv.org/abs/1709.04731)
 
+**Compressing Low Precision Deep Neural Networks Using Sparsity-Induced Regularization in Ternary Networks**
+
+- intro: ICONIP 2017
+- arxiv: [https://arxiv.org/abs/1709.06262](https://arxiv.org/abs/1709.06262)
+
 # Pruning
 
 **ThiNet: A Filter Level Pruning Method for Deep Neural Network Compression**

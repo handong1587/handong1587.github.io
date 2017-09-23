@@ -164,6 +164,11 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 
 [https://arxiv.org/abs/1709.04595](https://arxiv.org/abs/1709.04595)
 
+**Image operator learning coupled with CNN classification and its application to staff line removal**
+
+- intro: ICDAR 2017
+- arxiv: [https://arxiv.org/abs/1709.06476](https://arxiv.org/abs/1709.06476)
+
 # Age Estimation
 
 **Deeply-Learned Feature for Age Estimation**
@@ -290,6 +295,10 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 **Facial Emotion Detection Using Convolutional Neural Networks and Representational Autoencoder Units**
 
 [https://arxiv.org/abs/1706.01509](https://arxiv.org/abs/1706.01509)
+
+**Temporal Multimodal Fusion for Video Emotion Classification in the Wild**
+
+[https://arxiv.org/abs/1709.07200](https://arxiv.org/abs/1709.07200)
 
 # Attribution Prediction
 
@@ -1014,6 +1023,10 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 **Attention-Aware Face Hallucination via Deep Reinforcement Learning**
 
 [https://arxiv.org/abs/1708.03132](https://arxiv.org/abs/1708.03132)
+
+**CISRDCNN: Super-resolution of compressed images using deep convolutional neural networks**
+
+[https://arxiv.org/abs/1709.06229](https://arxiv.org/abs/1709.06229)
 
 ## Video Super-resolution
 
