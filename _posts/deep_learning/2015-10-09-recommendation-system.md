@@ -121,6 +121,11 @@ date: 2015-10-09
 - intro: University of New South Wales & Nanyang Technological University
 - arxiv: [https://arxiv.org/abs/1707.07435](https://arxiv.org/abs/1707.07435)
 
+**Training Deep AutoEncoders for Collaborative Filtering**
+
+- arxiv: [https://arxiv.org/abs/1708.01715](https://arxiv.org/abs/1708.01715)
+- github: [https://github.com/NVIDIA/DeepRecommender](https://github.com/NVIDIA/DeepRecommender)
+
 # Slides
 
 **Deep learning for music recommendation**

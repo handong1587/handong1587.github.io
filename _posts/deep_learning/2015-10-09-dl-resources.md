@@ -341,6 +341,14 @@ not just the convolutions)
 - github: [https://github.com/taineleau/efficient_densenet_mxnet](https://github.com/taineleau/efficient_densenet_mxnet)
 - github: [https://github.com/Tongcheng/DN_CaffeScript](https://github.com/Tongcheng/DN_CaffeScript)
 
+# SENet
+
+**Squeeze-and-Excitation Networks**
+
+- intro: ILSVRC 2017 image classification winner
+- arxiv: [https://arxiv.org/abs/1709.01507](https://arxiv.org/abs/1709.01507)
+- github: [https://github.com/hujie-frank/SENet](https://github.com/hujie-frank/SENet)
+
 ## ImageNet Projects
 
 **Training an Object Classifier in Torch-7 on multiple GPUs over ImageNet**

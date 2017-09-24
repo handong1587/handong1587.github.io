@@ -907,6 +907,11 @@ date: 2015-10-09
 - arxiv: [https://arxiv.org/abs/1708.06020](https://arxiv.org/abs/1708.06020)
 - github: [https://github.com/webstorms/AugmentedDatasets](https://github.com/webstorms/AugmentedDatasets)
 
+**Augmentor: An Image Augmentation Library for Machine Learning**
+
+- arxiv: [https://arxiv.org/abs/1708.04680](https://arxiv.org/abs/1708.04680)
+- github: [https://github.com/mdbloice/Augmentor](https://github.com/mdbloice/Augmentor)
+
 ## Imbalanced Datasets
 
 **Investigation on handling Structured & Imbalanced Datasets with Deep Learning**

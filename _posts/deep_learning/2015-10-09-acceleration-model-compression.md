@@ -419,6 +419,7 @@ at INT8 deep learning operations than other FPGA DSP architectures"
 
 - intro: ICCV 2017
 - arxiv: [https://arxiv.org/abs/1709.01041](https://arxiv.org/abs/1709.01041)
+- github: [https://github.com/mmasana/DALR](https://github.com/mmasana/DALR)
 
 # Pruning
 

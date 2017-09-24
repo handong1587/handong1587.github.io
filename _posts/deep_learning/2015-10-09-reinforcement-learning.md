@@ -784,6 +784,13 @@ The project is dedicated to hero in life great Jesse Livermore.
 - youtube: [https://www.youtube.com/watch?v=Hqf__FlRlzg](https://www.youtube.com/watch?v=Hqf__FlRlzg)
 - github: [https://github.com/llSourcell/pong_neural_network_live](https://github.com/llSourcell/pong_neural_network_live)
 
+# Tips and Tricks
+
+**DeepRLHacks**
+
+- intro: The Nuts and Bolts of Deep RL Research
+- github: [https://github.com/williamFalcon/DeepRLHacks](https://github.com/williamFalcon/DeepRLHacks)
+
 # Library
 
 **BURLAP: Brown-UMBC Reinforcement Learning and Planning (BURLAP) java code library**
