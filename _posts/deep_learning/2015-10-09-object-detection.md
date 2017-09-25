@@ -327,6 +327,10 @@ date: 2015-10-09
 - keywords: CSSD, DiCSSD, DeCSSD, effective receptive fields (ERFs),  theoretical receptive fields (TRFs)
 - arxiv: [https://arxiv.org/abs/1707.08682](https://arxiv.org/abs/1707.08682)
 
+**Feature-Fused SSD: Fast Detection for Small Objects**
+
+[https://arxiv.org/abs/1709.05054](https://arxiv.org/abs/1709.05054)
+
 - - -
 
 ## Inside-Outside Net (ION)
@@ -502,6 +506,7 @@ Continuation of [arXiv:1608.08021](https://arxiv.org/abs/1608.08021)
 
 - arxiv: [https://arxiv.org/abs/1612.01051](https://arxiv.org/abs/1612.01051)
 - github: [https://github.com/BichenWuUCB/squeezeDet](https://github.com/BichenWuUCB/squeezeDet)
+- github: [https://github.com/fregu856/2D_detection](https://github.com/fregu856/2D_detection)
 
 ## Feature Pyramid Network (FPN)
 
@@ -641,6 +646,14 @@ Continuation of [arXiv:1608.08021](https://arxiv.org/abs/1608.08021)
 
 - intro: ICCV 2017
 - arxiv: [https://arxiv.org/abs/1708.02863](https://arxiv.org/abs/1708.02863)
+
+**Zoom Out-and-In Network with Map Attention Decision for Region Proposal and Object Detection**
+
+[https://arxiv.org/abs/1709.04347](https://arxiv.org/abs/1709.04347)
+
+**StairNet: Top-Down Semantic Aggregation for Accurate One Shot Detection**
+
+[https://arxiv.org/abs/1709.05788](https://arxiv.org/abs/1709.05788)
 
 ## NMS
 
@@ -940,6 +953,10 @@ This task involves predicting the salient regions of an image given by human eye
 
 [https://arxiv.org/abs/1708.06433](https://arxiv.org/abs/1708.06433)
 
+**DeepFeat: A Bottom Up and Top Down Saliency Model Based on Deep Features of Convolutional Neural Nets**
+
+[https://arxiv.org/abs/1709.02495](https://arxiv.org/abs/1709.02495)
+
 ## Saliency Detection in Video
 
 **Deep Learning For Video Saliency Detection**
@@ -949,6 +966,10 @@ This task involves predicting the salient regions of an image given by human eye
 **Video Salient Object Detection Using Spatiotemporal Deep Features**
 
 [https://arxiv.org/abs/1708.01447](https://arxiv.org/abs/1708.01447)
+
+**Predicting Video Saliency with Object-to-Motion CNN and Two-layer Convolutional LSTM**
+
+[https://arxiv.org/abs/1709.06316](https://arxiv.org/abs/1709.06316)
 
 # Visual Relationship Detection
 
@@ -1140,6 +1161,14 @@ This task involves predicting the salient regions of an image given by human eye
 - intro: ICCV 2017
 - intro: can run at 36 FPS on a Nvidia Titan X (Pascal) for VGA-resolution images
 - arxiv: [https://arxiv.org/abs/1708.05237](https://arxiv.org/abs/1708.05237)
+
+**Detecting Faces Using Region-based Fully Convolutional Networks**
+
+[https://arxiv.org/abs/1709.05256](https://arxiv.org/abs/1709.05256)
+
+**AffordanceNet: An End-to-End Deep Learning Approach for Object Affordance Detection**
+
+[https://arxiv.org/abs/1709.07326](https://arxiv.org/abs/1709.07326)
 
 ## Facial Point / Landmark Detection
 
@@ -1334,6 +1363,11 @@ This task involves predicting the salient regions of an image given by human eye
 
 - arxiv: [https://arxiv.org/abs/1702.00254](https://arxiv.org/abs/1702.00254)
 
+**Fine-Grained Car Detection for Visual Census Estimation**
+
+- intro: AAAI 2016
+- arxiv: [https://arxiv.org/abs/1709.02480](https://arxiv.org/abs/1709.02480)
+
 ## Traffic-Sign Detection
 
 **Traffic-Sign Detection and Classification in the Wild**
@@ -1498,6 +1532,10 @@ This task involves predicting the salient regions of an image given by human eye
 - intro: ICCV 2017
 - arxiv: [https://arxiv.org/abs/1708.01642](https://arxiv.org/abs/1708.01642)
 
+**DeepVoting: An Explainable Framework for Semantic Part Detection under Partial Occlusion**
+
+[https://arxiv.org/abs/1709.04577](https://arxiv.org/abs/1709.04577)
+
 # Object Proposal
 
 **DeepProposal: Hunting Objects by Cascading Deep Convolutional Layers**
@@ -1598,6 +1636,11 @@ This task involves predicting the salient regions of an image given by human eye
 **STNet: Selective Tuning of Convolutional Networks for Object Localization**
 
 [https://arxiv.org/abs/1708.06418](https://arxiv.org/abs/1708.06418)
+
+**Soft Proposal Networks for Weakly Supervised Object Localization**
+
+- intro: ICCV 2017
+- arxiv: [https://arxiv.org/abs/1709.01829](https://arxiv.org/abs/1709.01829)
 
 # Tutorials / Talks
 

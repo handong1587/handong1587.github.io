@@ -502,6 +502,10 @@ not just the convolutions)
 - intro: CVPR 2017. The University of Hong Kong
 - arxiv: [https://arxiv.org/abs/1702.08690](https://arxiv.org/abs/1702.08690)
 
+**Optimal Transport for Deep Joint Transfer Learning**
+
+[https://arxiv.org/abs/1709.02995](https://arxiv.org/abs/1709.02995)
+
 # Multi-label Learning
 
 **CNN: Single-label to Multi-label**
@@ -1155,6 +1159,14 @@ with fast exact probabilistic inference over many layers."
 - arxiv: [https://arxiv.org/abs/1709.00643](https://arxiv.org/abs/1709.00643)
 - supp: [https://youtu.be/eQyfHgLx8Dc](https://youtu.be/eQyfHgLx8Dc)
 
+**BranchyNet: Fast Inference via Early Exiting from Deep Neural Networks**
+
+[https://arxiv.org/abs/1709.01686](https://arxiv.org/abs/1709.01686)
+
+**Polar Transformer Networks**
+
+[https://arxiv.org/abs/1709.01889](https://arxiv.org/abs/1709.01889)
+
 ## Highway Networks
 
 **Highway Networks**
@@ -1304,6 +1316,11 @@ with fast exact probabilistic inference over many layers."
 **Deep Learning Transcends the Bag of Words**
 
 - blog: [http://www.kdnuggets.com/2015/12/deep-learning-outgrows-bag-words-recurrent-neural-networks.html](http://www.kdnuggets.com/2015/12/deep-learning-outgrows-bag-words-recurrent-neural-networks.html)
+
+**E2BoWs: An End-to-End Bag-of-Words Model via Deep Convolutional Neural Network**
+
+- intro: ChinaMM 2017, image retrieval
+- arxiv: [https://arxiv.org/abs/1709.05903](https://arxiv.org/abs/1709.05903)
 
 ## Boosting
 
@@ -2638,6 +2655,10 @@ It is based on Facebook's TorchCraft, which is a bridge between Torch and StarCr
 **Guided Optical Flow Learning**
 
 - arxiv: [https://arxiv.org/abs/1702.02295](https://arxiv.org/abs/1702.02295)
+
+**PWC-Net: CNNs for Optical Flow Using Pyramid, Warping, and Cost Volume**
+
+[https://arxiv.org/abs/1709.02371](https://arxiv.org/abs/1709.02371)
 
 ### All-In-One Network
 

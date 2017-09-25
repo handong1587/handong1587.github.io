@@ -149,6 +149,10 @@ joint classification, detection and semantic segmentation via a unified architec
 
 [https://arxiv.org/abs/1708.03309](https://arxiv.org/abs/1708.03309)
 
+**MODNet: Moving Object Detection Network with Motion and Appearance for Autonomous Driving**
+
+[https://arxiv.org/abs/1709.04821](https://arxiv.org/abs/1709.04821)
+
 # Projects
 
 **Caffe-Autopilot: Car autopilot software that uses C++, BVLC Caffe, OpenCV, and SFML**

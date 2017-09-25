@@ -43,6 +43,10 @@ date: 2015-10-09
 
 [https://arxiv.org/abs/1705.04591](https://arxiv.org/abs/1705.04591)
 
+**Training Better CNNs Requires to Rethink ReLU**
+
+[https://arxiv.org/abs/1709.06247](https://arxiv.org/abs/1709.06247)
+
 ## LReLU
 
 **Rectifier Nonlinearities Improve Neural Network Acoustic Models**
@@ -435,6 +439,10 @@ date: 2015-10-09
 **Scaling SGD Batch Size to 32K for ImageNet Training**
 
 [https://arxiv.org/abs/1708.03888](https://arxiv.org/abs/1708.03888)
+
+**ImageNet Training in 24 Minutes**
+
+[https://arxiv.org/abs/1709.05011](https://arxiv.org/abs/1709.05011)
 
 # Optimization Methods
 
@@ -912,6 +920,10 @@ date: 2015-10-09
 - arxiv: [https://arxiv.org/abs/1708.04680](https://arxiv.org/abs/1708.04680)
 - github: [https://github.com/mdbloice/Augmentor](https://github.com/mdbloice/Augmentor)
 
+**Learning to Compose Domain-Specific Transformations for Data Augmentation**
+
+[https://arxiv.org/abs/1709.01643](https://arxiv.org/abs/1709.01643)
+
 ## Imbalanced Datasets
 
 **Investigation on handling Structured & Imbalanced Datasets with Deep Learning**
@@ -960,6 +972,13 @@ date: 2015-10-09
 
 - intro: CVPR 2017 oral, best paper award. Apple Inc.
 - arxiv: [https://arxiv.org/abs/1612.07828](https://arxiv.org/abs/1612.07828)
+
+# Incremental Training
+
+**ClickBAIT: Click-based Accelerated Incremental Training of Convolutional Neural Networks**
+
+- arxiv: [https://arxiv.org/abs/1709.05021](https://arxiv.org/abs/1709.05021)
+- dataset: [http://clickbait.crossmobile.info/](http://clickbait.crossmobile.info/)
 
 # Papers
 

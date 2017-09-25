@@ -421,6 +421,15 @@ at INT8 deep learning operations than other FPGA DSP architectures"
 - arxiv: [https://arxiv.org/abs/1709.01041](https://arxiv.org/abs/1709.01041)
 - github: [https://github.com/mmasana/DALR](https://github.com/mmasana/DALR)
 
+**Binary-decomposed DCNN for accelerating computation and compressing model without retraining**
+
+[https://arxiv.org/abs/1709.04731](https://arxiv.org/abs/1709.04731)
+
+**Compressing Low Precision Deep Neural Networks Using Sparsity-Induced Regularization in Ternary Networks**
+
+- intro: ICONIP 2017
+- arxiv: [https://arxiv.org/abs/1709.06262](https://arxiv.org/abs/1709.06262)
+
 # Pruning
 
 **ThiNet: A Filter Level Pruning Method for Deep Neural Network Compression**
@@ -493,6 +502,10 @@ at INT8 deep learning operations than other FPGA DSP architectures"
 
 - intro: Embedded Vision Workshop (CVPRW). UC San Diego & UC Los Angeles & Cornell University
 - arxiv: [https://arxiv.org/abs/1707.04693](https://arxiv.org/abs/1707.04693)
+
+**Embedded Binarized Neural Networks**
+
+[https://arxiv.org/abs/1709.02260](https://arxiv.org/abs/1709.02260)
 
 ## Accelerating / Fast Algorithms
 
@@ -571,6 +584,10 @@ at INT8 deep learning operations than other FPGA DSP architectures"
 **Add a tool to merge 'Conv-BN-Scale' into a single 'Conv' layer.**
 
 [https://github.com/sanghoon/pva-faster-rcnn/commit/39570aab8c6513f0e76e5ab5dba8dfbf63e9c68c/](https://github.com/sanghoon/pva-faster-rcnn/commit/39570aab8c6513f0e76e5ab5dba8dfbf63e9c68c/)
+
+**Low-memory GEMM-based convolution algorithms for deep neural networks**
+
+[https://arxiv.org/abs/1709.03395](https://arxiv.org/abs/1709.03395)
 
 # Projects
 

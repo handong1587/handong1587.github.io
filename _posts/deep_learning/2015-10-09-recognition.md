@@ -93,6 +93,16 @@ date: 2015-10-09
 - intro: BMVC 2017
 - arxiv: [https://arxiv.org/abs/1707.06335](https://arxiv.org/abs/1707.06335)
 
+**Why Do Deep Neural Networks Still Not Recognize These Images?: A Qualitative Analysis on Failure Cases of ImageNet Classification**
+
+- intro: Poster presented at CVPR 2017 Scene Understanding Workshop
+- arxiv: [https://arxiv.org/abs/1709.03439](https://arxiv.org/abs/1709.03439)
+
+**Learning Deep Features via Congenerous Cosine Loss for Person Recognition**
+
+- arxiv: [https://arxiv.org/abs/1702.06890](https://arxiv.org/abs/1702.06890)
+- github: [https://github.com/sciencefans/coco_loss](https://github.com/sciencefans/coco_loss)
+
 ## Multi-object Recognition
 
 **Multiple Object Recognition with Visual Attention**
@@ -293,6 +303,14 @@ date: 2015-10-09
 
 [https://arxiv.org/abs/1707.07923](https://arxiv.org/abs/1707.07923)
 
+**Model Distillation with Knowledge Transfer in Face Classification, Alignment and Verification**
+
+[https://arxiv.org/abs/1709.02929](https://arxiv.org/abs/1709.02929)
+
+**Improving Heterogeneous Face Recognition with Conditional Adversarial Networks**
+
+[https://arxiv.org/abs/1709.02848](https://arxiv.org/abs/1709.02848)
+
 ### Video Face Recognition
 
 **Attention-Set based Metric Learning for Video Face Recognition**
@@ -443,6 +461,15 @@ facial action unit recognition, and eye-gaze estimation.
 - intro: CVPR 2017
 - paper: [http://openaccess.thecvf.com/content_cvpr_2017/papers/Fu_Look_Closer_to_CVPR_2017_paper.pdf](http://openaccess.thecvf.com/content_cvpr_2017/papers/Fu_Look_Closer_to_CVPR_2017_paper.pdf)
 
+**Fine-grained Recognition in the Wild: A Multi-Task Domain Adaptation Approach**
+
+- intro: ICCV 2017
+- arxiv: [https://arxiv.org/abs/1709.02476](https://arxiv.org/abs/1709.02476)
+
+**Where to Focus: Deep Attention-based Spatially Recurrent Bilinear Networks for Fine-Grained Visual Recognition**
+
+[https://arxiv.org/abs/1709.05769](https://arxiv.org/abs/1709.05769)
+
 ### Food Recognition
 
 **DeepFood: Deep Learning-Based Food Image Recognition for Computer-Aided Dietary Assessment**
@@ -518,6 +545,10 @@ facial action unit recognition, and eye-gaze estimation.
 **A Jointly Learned Deep Architecture for Facial Attribute Analysis and Face Detection in the Wild**
 
 [https://arxiv.org/abs/1707.08705](https://arxiv.org/abs/1707.08705)
+
+**A Deep Cascade Network for Unaligned Face Attribute Classification**
+
+[https://arxiv.org/abs/1709.03851](https://arxiv.org/abs/1709.03851)
 
 ### Instrument Recognition
 

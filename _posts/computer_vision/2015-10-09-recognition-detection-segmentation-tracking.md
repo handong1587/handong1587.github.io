@@ -323,6 +323,12 @@ using a large number of the existing object proposal approaches.
 
 - arxiv: [http://arxiv.org/abs/1608.08173](http://arxiv.org/abs/1608.08173)
 
+## Multi-camera Multi-Object Tracking
+
+**Multi-camera Multi-Object Tracking**
+
+[https://arxiv.org/abs/1709.07065](https://arxiv.org/abs/1709.07065)
+
 ## Projects
 
 **Benchmark Results of Correlation Filters**

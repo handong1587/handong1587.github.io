@@ -84,6 +84,11 @@ date: 2015-10-09
 - intro: CVPR 2017. Stanford University & CMU & Simon Fraser University
 - arxiv: [https://arxiv.org/abs/1706.02884](https://arxiv.org/abs/1706.02884)
 
+**Convolutional Long Short-Term Memory Networks for Recognizing First Person Interactions**
+
+- intro: Accepted on the second International Workshop on Egocentric Perception, Interaction and Computing(EPIC) at International Conference on Computer Vision(ICCV-17)
+- arxiv: [https://arxiv.org/abs/1709.06495](https://arxiv.org/abs/1709.06495)
+
 # Video Classification
 
 **Large-scale Video Classification with Convolutional Neural Networks**

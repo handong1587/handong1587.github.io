@@ -160,6 +160,15 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 
 [https://arxiv.org/abs/1704.03470](https://arxiv.org/abs/1704.03470)
 
+**A2-RL: Aesthetics Aware Reinforcement Learning for Automatic Image Cropping**
+
+[https://arxiv.org/abs/1709.04595](https://arxiv.org/abs/1709.04595)
+
+**Image operator learning coupled with CNN classification and its application to staff line removal**
+
+- intro: ICDAR 2017
+- arxiv: [https://arxiv.org/abs/1709.06476](https://arxiv.org/abs/1709.06476)
+
 # Age Estimation
 
 **Deeply-Learned Feature for Age Estimation**
@@ -286,6 +295,10 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 **Facial Emotion Detection Using Convolutional Neural Networks and Representational Autoencoder Units**
 
 [https://arxiv.org/abs/1706.01509](https://arxiv.org/abs/1706.01509)
+
+**Temporal Multimodal Fusion for Video Emotion Classification in the Wild**
+
+[https://arxiv.org/abs/1709.07200](https://arxiv.org/abs/1709.07200)
 
 # Attribution Prediction
 
@@ -819,6 +832,11 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 - arxiv: [https://arxiv.org/abs/1708.02209](https://arxiv.org/abs/1708.02209)
 - github: [https://github.com/tyshiwo/MemNet](https://github.com/tyshiwo/MemNet)
 
+**Deep Mean-Shift Priors for Image Restoration**
+
+- intro: NIPS 2017
+- arxiv: [https://arxiv.org/abs/1709.03749](https://arxiv.org/abs/1709.03749)
+
 # Image Super-Resolution
 
 **Super-Resolution.Benckmark**
@@ -1006,6 +1024,10 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 
 [https://arxiv.org/abs/1708.03132](https://arxiv.org/abs/1708.03132)
 
+**CISRDCNN: Super-resolution of compressed images using deep convolutional neural networks**
+
+[https://arxiv.org/abs/1709.06229](https://arxiv.org/abs/1709.06229)
+
 ## Video Super-resolution
 
 **Detail-revealing Deep Video Super-resolution**
@@ -1102,6 +1124,10 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 
 [https://arxiv.org/abs/1708.00581](https://arxiv.org/abs/1708.00581)
 
+**End-to-End United Video Dehazing and Detection**
+
+[https://arxiv.org/abs/1709.03919](https://arxiv.org/abs/1709.03919)
+
 # Image Rain Removal / De-raining
 
 **Clearing the Skies: A deep network architecture for single-image rain removal**
@@ -1174,6 +1200,10 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 
 - intro: ICCV 2017
 - arxiv: [https://arxiv.org/abs/1708.04208](https://arxiv.org/abs/1708.04208)
+
+**Deep Generative Filter for Motion Deblurring**
+
+[https://arxiv.org/abs/1709.03481](https://arxiv.org/abs/1709.03481)
 
 # Image Compression
 

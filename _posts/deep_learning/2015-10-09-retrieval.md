@@ -291,6 +291,10 @@ and from 73.8% to 83.1% for ResNet-50
 - intro: ICCV 2017. Chinese Academy of Sciences & Northwestern Polytechnical University
 - arxiv: [https://arxiv.org/abs/1708.05851](https://arxiv.org/abs/1708.05851)
 
+**Cross-Domain Image Retrieval with Attention Modeling**
+
+[https://arxiv.org/abs/1709.01784](https://arxiv.org/abs/1709.01784)
+
 # Hashing
 
 **Supervised Hashing for Image Retrieval via Image Representation Learning**
