@@ -1167,6 +1167,10 @@ with fast exact probabilistic inference over many layers."
 
 [https://arxiv.org/abs/1709.01889](https://arxiv.org/abs/1709.01889)
 
+**Tensor Product Generation Networks**
+
+[https://arxiv.org/abs/1709.09118](https://arxiv.org/abs/1709.09118)
+
 ## Highway Networks
 
 **Highway Networks**
@@ -1610,6 +1614,10 @@ with fast exact probabilistic inference over many layers."
 **Embedded and mobile deep learning research resources**
 
 [https://github.com/csarron/emdl](https://github.com/csarron/emdl)
+
+**Modeling the Resource Requirements of Convolutional Neural Networks on Mobile Devices**
+
+[https://arxiv.org/abs/1709.09118](https://arxiv.org/abs/1709.09118)
 
 # Deep Learning in Finance
 

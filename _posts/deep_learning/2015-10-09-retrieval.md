@@ -295,6 +295,11 @@ and from 73.8% to 83.1% for ResNet-50
 
 [https://arxiv.org/abs/1709.01784](https://arxiv.org/abs/1709.01784)
 
+**Region-Based Image Retrieval Revisited**
+
+- intro: ACM Multimedia 2017 (Oral)
+- arxiv: [https://arxiv.org/abs/1709.09106](https://arxiv.org/abs/1709.09106)
+
 # Hashing
 
 **Supervised Hashing for Image Retrieval via Image Representation Learning**

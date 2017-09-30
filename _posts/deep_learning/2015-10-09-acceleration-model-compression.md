@@ -430,6 +430,10 @@ at INT8 deep learning operations than other FPGA DSP architectures"
 - intro: ICONIP 2017
 - arxiv: [https://arxiv.org/abs/1709.06262](https://arxiv.org/abs/1709.06262)
 
+**Improving Efficiency in Convolutional Neural Network with Multilinear Filters**
+
+[https://arxiv.org/abs/1709.09902](https://arxiv.org/abs/1709.09902)
+
 # Pruning
 
 **ThiNet: A Filter Level Pruning Method for Deep Neural Network Compression**
