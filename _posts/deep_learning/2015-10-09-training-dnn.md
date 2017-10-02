@@ -165,6 +165,12 @@ date: 2015-10-09
 - intro: CMU
 - arxiv: [https://arxiv.org/abs/1707.04199](https://arxiv.org/abs/1707.04199)
 
+## EraseReLU
+
+**EraseReLU: A Simple Way to Ease the Training of Deep Convolution Neural Networks**
+
+[https://arxiv.org/abs/1709.07634](https://arxiv.org/abs/1709.07634)
+
 ## Series on Initialization of Weights for DNN
 
 **Initialization Of Feedfoward Networks**
@@ -271,6 +277,10 @@ date: 2015-10-09
 
 - intro: Sergey Ioffe, Google
 - arxiv: [https://arxiv.org/abs/1702.03275](https://arxiv.org/abs/1702.03275)
+
+**Comparison of Batch Normalization and Weight Normalization Algorithms for the Large-scale Image Classification**
+
+[https://arxiv.org/abs/1709.08145](https://arxiv.org/abs/1709.08145)
 
 ### Backward pass of BN
 

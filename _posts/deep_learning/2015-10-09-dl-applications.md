@@ -797,6 +797,10 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 
 [https://arxiv.org/abs/1709.00584](https://arxiv.org/abs/1709.00584)
 
+**Learning to Inpaint for Image Compression**
+
+[https://arxiv.org/abs/1709.08855](https://arxiv.org/abs/1709.08855)
+
 # Image Restoration
 
 **Image Restoration Using Very Deep Convolutional Encoder-Decoder Networks with Symmetric Skip Connections**

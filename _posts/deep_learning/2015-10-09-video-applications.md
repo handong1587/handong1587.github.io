@@ -531,6 +531,11 @@ extract saptio-temporal features to represent the video using the CNNs."
 - intro: Best Paper / Student Paper Award Finalist, IEEE International Conference on Image Processing (ICIP), 2017
 - arxiv: [https://arxiv.org/abs/1708.09644](https://arxiv.org/abs/1708.09644)
 
+**Joint Detection and Recounting of Abnormal Events by Learning Deep Generic Knowledge**
+
+- intro: ICCV 2017
+- arxiv: [https://arxiv.org/abs/1709.09121](https://arxiv.org/abs/1709.09121)
+
 # Video Prediction
 
 **Deep multi-scale video prediction beyond mean square error**

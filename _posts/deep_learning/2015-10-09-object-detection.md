@@ -1009,6 +1009,78 @@ This task involves predicting the salient regions of an image given by human eye
 
 # Specific Object Deteciton
 
+**Deep Deformation Network for Object Landmark Localization**
+
+- arxiv: [http://arxiv.org/abs/1605.01014](http://arxiv.org/abs/1605.01014)
+
+**Fashion Landmark Detection in the Wild**
+
+- intro: ECCV 2016
+- project page: [http://personal.ie.cuhk.edu.hk/~lz013/projects/FashionLandmarks.html](http://personal.ie.cuhk.edu.hk/~lz013/projects/FashionLandmarks.html)
+- arxiv: [http://arxiv.org/abs/1608.03049](http://arxiv.org/abs/1608.03049)
+- github(Caffe): [https://github.com/liuziwei7/fashion-landmarks](https://github.com/liuziwei7/fashion-landmarks)
+
+**Deep Learning for Fast and Accurate Fashion Item Detection**
+
+- intro: Kuznech Inc.
+- intro: MultiBox and Fast R-CNN
+- paper: [https://kddfashion2016.mybluemix.net/kddfashion_finalSubmissions/Deep%20Learning%20for%20Fast%20and%20Accurate%20Fashion%20Item%20Detection.pdf](https://kddfashion2016.mybluemix.net/kddfashion_finalSubmissions/Deep%20Learning%20for%20Fast%20and%20Accurate%20Fashion%20Item%20Detection.pdf)
+
+**OSMDeepOD - OSM and Deep Learning based Object Detection from Aerial Imagery (formerly known as "OSM-Crosswalk-Detection")**
+
+![](https://raw.githubusercontent.com/geometalab/OSMDeepOD/master/imgs/process.png)
+
+- github: [https://github.com/geometalab/OSMDeepOD](https://github.com/geometalab/OSMDeepOD)
+
+**Selfie Detection by Synergy-Constraint Based Convolutional Neural Network**
+
+- intro:  IEEE SITIS 2016
+- arxiv: [https://arxiv.org/abs/1611.04357](https://arxiv.org/abs/1611.04357)
+
+**Associative Embedding:End-to-End Learning for Joint Detection and Grouping**
+
+- arxiv: [https://arxiv.org/abs/1611.05424](https://arxiv.org/abs/1611.05424)
+
+**Deep Cuboid Detection: Beyond 2D Bounding Boxes**
+
+- intro: CMU & Magic Leap
+- arxiv: [https://arxiv.org/abs/1611.10010](https://arxiv.org/abs/1611.10010)
+
+**Automatic Model Based Dataset Generation for Fast and Accurate Crop and Weeds Detection**
+
+- arxiv: [https://arxiv.org/abs/1612.03019](https://arxiv.org/abs/1612.03019)
+
+**Deep Learning Logo Detection with Data Expansion by Synthesising Context**
+
+- arxiv: [https://arxiv.org/abs/1612.09322](https://arxiv.org/abs/1612.09322)
+
+**Pixel-wise Ear Detection with Convolutional Encoder-Decoder Networks**
+
+- arxiv: [https://arxiv.org/abs/1702.00307](https://arxiv.org/abs/1702.00307)
+
+**Automatic Handgun Detection Alarm in Videos Using Deep Learning**
+
+- arxiv: [https://arxiv.org/abs/1702.05147](https://arxiv.org/abs/1702.05147)
+- results: [https://github.com/SihamTabik/Pistol-Detection-in-Videos](https://github.com/SihamTabik/Pistol-Detection-in-Videos)
+
+**Using Deep Networks for Drone Detection**
+
+- intro: AVSS 2017
+- arxiv: [https://arxiv.org/abs/1706.05726](https://arxiv.org/abs/1706.05726)
+
+**Cut, Paste and Learn: Surprisingly Easy Synthesis for Instance Detection**
+
+- intro: ICCV 2017
+- arxiv: [https://arxiv.org/abs/1708.01642](https://arxiv.org/abs/1708.01642)
+
+**DeepVoting: An Explainable Framework for Semantic Part Detection under Partial Occlusion**
+
+[https://arxiv.org/abs/1709.04577](https://arxiv.org/abs/1709.04577)
+
+**Fast Shadow Detection from a Single Image Using a Patched Convolutional Neural Network**
+
+[https://arxiv.org/abs/1709.09283](https://arxiv.org/abs/1709.09283)
+
 ## Face Deteciton
 
 **Multi-view Face Detection Using Deep Convolutional Neural Networks**
@@ -1466,76 +1538,6 @@ This task involves predicting the salient regions of an image given by human eye
 
 [https://arxiv.org/abs/1703.09529](https://arxiv.org/abs/1703.09529)
 
-## Others
-
-**Deep Deformation Network for Object Landmark Localization**
-
-- arxiv: [http://arxiv.org/abs/1605.01014](http://arxiv.org/abs/1605.01014)
-
-**Fashion Landmark Detection in the Wild**
-
-- intro: ECCV 2016
-- project page: [http://personal.ie.cuhk.edu.hk/~lz013/projects/FashionLandmarks.html](http://personal.ie.cuhk.edu.hk/~lz013/projects/FashionLandmarks.html)
-- arxiv: [http://arxiv.org/abs/1608.03049](http://arxiv.org/abs/1608.03049)
-- github(Caffe): [https://github.com/liuziwei7/fashion-landmarks](https://github.com/liuziwei7/fashion-landmarks)
-
-**Deep Learning for Fast and Accurate Fashion Item Detection**
-
-- intro: Kuznech Inc.
-- intro: MultiBox and Fast R-CNN
-- paper: [https://kddfashion2016.mybluemix.net/kddfashion_finalSubmissions/Deep%20Learning%20for%20Fast%20and%20Accurate%20Fashion%20Item%20Detection.pdf](https://kddfashion2016.mybluemix.net/kddfashion_finalSubmissions/Deep%20Learning%20for%20Fast%20and%20Accurate%20Fashion%20Item%20Detection.pdf)
-
-**OSMDeepOD - OSM and Deep Learning based Object Detection from Aerial Imagery (formerly known as "OSM-Crosswalk-Detection")**
-
-![](https://raw.githubusercontent.com/geometalab/OSMDeepOD/master/imgs/process.png)
-
-- github: [https://github.com/geometalab/OSMDeepOD](https://github.com/geometalab/OSMDeepOD)
-
-**Selfie Detection by Synergy-Constraint Based Convolutional Neural Network**
-
-- intro:  IEEE SITIS 2016
-- arxiv: [https://arxiv.org/abs/1611.04357](https://arxiv.org/abs/1611.04357)
-
-**Associative Embedding:End-to-End Learning for Joint Detection and Grouping**
-
-- arxiv: [https://arxiv.org/abs/1611.05424](https://arxiv.org/abs/1611.05424)
-
-**Deep Cuboid Detection: Beyond 2D Bounding Boxes**
-
-- intro: CMU & Magic Leap
-- arxiv: [https://arxiv.org/abs/1611.10010](https://arxiv.org/abs/1611.10010)
-
-**Automatic Model Based Dataset Generation for Fast and Accurate Crop and Weeds Detection**
-
-- arxiv: [https://arxiv.org/abs/1612.03019](https://arxiv.org/abs/1612.03019)
-
-**Deep Learning Logo Detection with Data Expansion by Synthesising Context**
-
-- arxiv: [https://arxiv.org/abs/1612.09322](https://arxiv.org/abs/1612.09322)
-
-**Pixel-wise Ear Detection with Convolutional Encoder-Decoder Networks**
-
-- arxiv: [https://arxiv.org/abs/1702.00307](https://arxiv.org/abs/1702.00307)
-
-**Automatic Handgun Detection Alarm in Videos Using Deep Learning**
-
-- arxiv: [https://arxiv.org/abs/1702.05147](https://arxiv.org/abs/1702.05147)
-- results: [https://github.com/SihamTabik/Pistol-Detection-in-Videos](https://github.com/SihamTabik/Pistol-Detection-in-Videos)
-
-**Using Deep Networks for Drone Detection**
-
-- intro: AVSS 2017
-- arxiv: [https://arxiv.org/abs/1706.05726](https://arxiv.org/abs/1706.05726)
-
-**Cut, Paste and Learn: Surprisingly Easy Synthesis for Instance Detection**
-
-- intro: ICCV 2017
-- arxiv: [https://arxiv.org/abs/1708.01642](https://arxiv.org/abs/1708.01642)
-
-**DeepVoting: An Explainable Framework for Semantic Part Detection under Partial Occlusion**
-
-[https://arxiv.org/abs/1709.04577](https://arxiv.org/abs/1709.04577)
-
 # Object Proposal
 
 **DeepProposal: Hunting Objects by Cascading Deep Convolutional Layers**
@@ -1641,6 +1643,11 @@ This task involves predicting the salient regions of an image given by human eye
 
 - intro: ICCV 2017
 - arxiv: [https://arxiv.org/abs/1709.01829](https://arxiv.org/abs/1709.01829)
+
+**Fine-grained Discriminative Localization via Saliency-guided Faster R-CNN**
+
+- intro: ACM MM 2017
+- arxiv: [https://arxiv.org/abs/1709.08295](https://arxiv.org/abs/1709.08295)
 
 # Tutorials / Talks
 

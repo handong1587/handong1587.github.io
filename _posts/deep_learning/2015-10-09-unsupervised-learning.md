@@ -9,6 +9,10 @@ Restricted Boltzmann Machine (RBM)
 
 Sparse Coding
 
+**Fast Convolutional Sparse Coding in the Dual Domain**
+
+[https://arxiv.org/abs/1709.09479](https://arxiv.org/abs/1709.09479)
+
 Auto-encoder
 
 # Papers

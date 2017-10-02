@@ -605,6 +605,10 @@ with built-in awareness of semantically meaningful boundaries. "
 
 [https://arxiv.org/abs/1709.02764](https://arxiv.org/abs/1709.02764)
 
+**Semantic Segmentation from Limited Training Data**
+
+[https://arxiv.org/abs/1709.07665](https://arxiv.org/abs/1709.07665)
+
 # Instance Segmentation
 
 **Simultaneous Detection and Segmentation**

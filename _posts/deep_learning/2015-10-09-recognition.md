@@ -103,6 +103,10 @@ date: 2015-10-09
 - arxiv: [https://arxiv.org/abs/1702.06890](https://arxiv.org/abs/1702.06890)
 - github: [https://github.com/sciencefans/coco_loss](https://github.com/sciencefans/coco_loss)
 
+**B-CNN: Branch Convolutional Neural Network for Hierarchical Classification**
+
+[https://arxiv.org/abs/1709.09890](https://arxiv.org/abs/1709.09890)
+
 ## Multi-object Recognition
 
 **Multiple Object Recognition with Visual Attention**
@@ -510,6 +514,11 @@ facial action unit recognition, and eye-gaze estimation.
 
 [https://arxiv.org/abs/1707.08816](https://arxiv.org/abs/1707.08816)
 
+**FoodNet: Recognizing Foods Using Ensemble of Deep Networks**
+
+- intro: IEEE Signal Processing Letters
+- arxiv: [https://arxiv.org/abs/1709.09429](https://arxiv.org/abs/1709.09429)
+
 ### Attribute Recognition
 
 **Multi-attribute Learning for Pedestrian Attribute Recognition in Surveillance Scenarios**
@@ -549,6 +558,11 @@ facial action unit recognition, and eye-gaze estimation.
 **A Deep Cascade Network for Unaligned Face Attribute Classification**
 
 [https://arxiv.org/abs/1709.03851](https://arxiv.org/abs/1709.03851)
+
+**Attribute Recognition by Joint Recurrent Learning of Context and Correlation**
+
+- intro: ICCV 2017
+- arxiv: [https://arxiv.org/abs/1709.08553](https://arxiv.org/abs/1709.08553)
 
 ### Instrument Recognition
 
