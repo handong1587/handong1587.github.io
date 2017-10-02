@@ -428,6 +428,11 @@ date: 2015-10-09
 - arxiv: [https://arxiv.org/abs/1707.08105](https://arxiv.org/abs/1707.08105)
 - github: [https://github.com/passalis/cbof](https://github.com/passalis/cbof)
 
+**A new kind of pooling layer for faster and sharper convergence**
+
+- blog: [https://medium.com/@singlasahil14/a-new-kind-of-pooling-layer-for-faster-and-sharper-convergence-1043c756a221](https://medium.com/@singlasahil14/a-new-kind-of-pooling-layer-for-faster-and-sharper-convergence-1043c756a221)
+- github: [https://github.com/singlasahil14/sortpool2d](https://github.com/singlasahil14/sortpool2d)
+
 # Batch
 
 **Online Batch Selection for Faster Training of Neural Networks**

@@ -1351,6 +1351,12 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 - intro: Northwestern Polytechnical University
 - arxiv: [https://arxiv.org/abs/1708.02287](https://arxiv.org/abs/1708.02287)
 
+**Sparse-to-Dense: Depth Prediction from Sparse Depth Samples and a Single Image**
+
+- arxiv: [https://arxiv.org/abs/1709.07492](https://arxiv.org/abs/1709.07492)
+- video: [https://www.youtube.com/watch?v=vNIIT_M7x7Y](https://www.youtube.com/watch?v=vNIIT_M7x7Y)
+- github: [https://github.com/fangchangma/sparse-to-dense](https://github.com/fangchangma/sparse-to-dense)
+
 # Texture Synthesis
 
 **Texture Synthesis Using Convolutional Neural Networks**
