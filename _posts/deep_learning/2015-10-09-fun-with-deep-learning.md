@@ -236,7 +236,9 @@ Compressed model is less than 500KB
 
 **Demystifying Neural Style Transfer**
 
+- intro: IJCAI 2017
 - arxiv: [https://arxiv.org/abs/1701.01036](https://arxiv.org/abs/1701.01036)
+- github: [https://github.com/lyttonhao/Neural-Style-MMD](https://github.com/lyttonhao/Neural-Style-MMD)
 
 **Son of Zorn's Lemma: Targeted Style Transfer Using Instance-aware Semantic Segmentation**
 
@@ -314,6 +316,11 @@ Compressed model is less than 500KB
 
 - arxiv: [https://arxiv.org/abs/1709.04111](https://arxiv.org/abs/1709.04111)
 - github: [https://github.com/FalongShen/styletransfer](https://github.com/FalongShen/styletransfer)
+
+**Neural Color Transfer between Images**
+
+- intro: Hong Kong University of Science and Technology & Microsoft Research
+- arxiv: [https://arxiv.org/abs/1710.00756](https://arxiv.org/abs/1710.00756)
 
 ## Neural Art On Audio
 

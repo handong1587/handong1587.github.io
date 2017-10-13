@@ -1171,6 +1171,27 @@ with fast exact probabilistic inference over many layers."
 
 [https://arxiv.org/abs/1709.09118](https://arxiv.org/abs/1709.09118)
 
+**Deep Competitive Pathway Networks**
+
+- intro: ACML 2017
+- arxiv: [https://arxiv.org/abs/1709.10282](https://arxiv.org/abs/1709.10282)
+- github: [https://github.com/JiaRenChang/CoPaNet](https://github.com/JiaRenChang/CoPaNet)
+
+**Context Embedding Networks**
+
+[https://arxiv.org/abs/1710.01691](https://arxiv.org/abs/1710.01691)
+
+## Interpretable Convolutional Neural Networks
+
+**Towards Interpretable Deep Neural Networks by Leveraging Adversarial Examples**
+
+- intro: Tsinghua University
+- arxiv: [https://arxiv.org/abs/1708.05493](https://arxiv.org/abs/1708.05493)
+
+**Interpretable Convolutional Neural Networks**
+
+[https://arxiv.org/abs/1710.00935](https://arxiv.org/abs/1710.00935)
+
 ## Highway Networks
 
 **Highway Networks**
@@ -2407,11 +2428,6 @@ It is based on Facebook's TorchCraft, which is a bridge between Torch and StarCr
 **Deep Multi-View Learning with Stochastic Decorrelation Loss**
 
 [https://arxiv.org/abs/1707.09669](https://arxiv.org/abs/1707.09669)
-
-**Towards Interpretable Deep Neural Networks by Leveraging Adversarial Examples**
-
-- intro: Tsinghua University
-- arxiv: [https://arxiv.org/abs/1708.05493](https://arxiv.org/abs/1708.05493)
 
 **Practical Network Blocks Design with Q-Learning**
 

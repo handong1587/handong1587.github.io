@@ -98,6 +98,11 @@ date: 2015-10-09
 - intro: ICCV workshop CVRSUAD2017. Indiana University & Preferred Networks
 - arxiv: [https://arxiv.org/abs/1708.06118](https://arxiv.org/abs/1708.06118)
 
+**Learning to Segment Human by Watching YouTube**
+
+- intro: TPAMI 2017
+- arxiv: [https://arxiv.org/abs/1710.01457](https://arxiv.org/abs/1710.01457)
+
 # Foreground Object Segmentation
 
 **Pixel Objectness**
@@ -1053,6 +1058,10 @@ ranked 1st place in ImageNet Scene Parsing Challenge 2016
 
 - intro: Segnet/FCN/U-Net/Link-Net
 - github: [https://github.com/meetshah1995/pytorch-semseg](https://github.com/meetshah1995/pytorch-semseg)
+
+**PyTorch for Semantic Segmentation**
+
+[https://github.com/ZijunDeng/pytorch-semantic-segmentation](https://github.com/ZijunDeng/pytorch-semantic-segmentation)
 
 # 3D Segmentation
 

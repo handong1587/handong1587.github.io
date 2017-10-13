@@ -993,6 +993,12 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 - arxiv: [https://arxiv.org/abs/1704.03915](https://arxiv.org/abs/1704.03915)
 - github(Matlab+MatConvNet): [https://github.com/phoenix104104/LapSRN](https://github.com/phoenix104104/LapSRN)
 
+**Fast and Accurate Image Super-Resolution with Deep Laplacian Pyramid Networks**
+
+- project page: [http://vllab.ucmerced.edu/wlai24/LapSRN/](http://vllab.ucmerced.edu/wlai24/LapSRN/)
+- arxiv: [https://arxiv.org/abs/1710.01992](https://arxiv.org/abs/1710.01992)
+- github: [https://github.com/phoenix104104/LapSRN](https://github.com/phoenix104104/LapSRN)
+
 **Single Image Super-Resolution Using Multi-Scale Convolutional Neural Network**
 
 - intro: South China University of Technology
@@ -1131,6 +1137,10 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 **End-to-End United Video Dehazing and Detection**
 
 [https://arxiv.org/abs/1709.03919](https://arxiv.org/abs/1709.03919)
+
+**Image Dehazing using Bilinear Composition Loss Function**
+
+[https://arxiv.org/abs/1710.00279](https://arxiv.org/abs/1710.00279)
 
 # Image Rain Removal / De-raining
 

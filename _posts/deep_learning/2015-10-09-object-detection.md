@@ -244,6 +244,11 @@ date: 2015-10-09
 - intro: Real-time object detection on Android using the YOLO network with TensorFlow
 - github: [https://github.com/natanielruiz/android-yolo](https://github.com/natanielruiz/android-yolo)
 
+**Computer Vision in iOS – Object Detection**
+
+- blog: [https://sriraghu.com/2017/07/12/computer-vision-in-ios-object-detection/](https://sriraghu.com/2017/07/12/computer-vision-in-ios-object-detection/)
+- github:[https://github.com/r4ghu/iOS-CoreML-Yolo](https://github.com/r4ghu/iOS-CoreML-Yolo)
+
 ## YOLOv2
 
 **YOLO9000: Better, Faster, Stronger**
