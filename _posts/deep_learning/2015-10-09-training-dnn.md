@@ -679,6 +679,10 @@ date: 2015-10-09
 - intro: Nihon University
 - arxiv: [https://arxiv.org/abs/1706.06859](https://arxiv.org/abs/1706.06859)
 
+**An Analysis of Dropout for Matrix Factorization**
+
+[https://arxiv.org/abs/1710.03487](https://arxiv.org/abs/1710.03487)
+
 ## DropConnect
 
 **Regularization of Neural Networks using DropConnect**

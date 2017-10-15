@@ -295,6 +295,11 @@ after the embedding and recurrent layers of the RNN."
 
 [https://arxiv.org/abs/1709.05038](https://arxiv.org/abs/1709.05038)
 
+**Contrastive Learning for Image Captioning**
+
+- intro: NIPS 2017
+- arxiv: [https://arxiv.org/abs/1710.02534](https://arxiv.org/abs/1710.02534)
+
 # Object Descriptions
 
 **Generation and Comprehension of Unambiguous Object Descriptions**

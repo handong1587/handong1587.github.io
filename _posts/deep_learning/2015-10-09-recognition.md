@@ -98,16 +98,11 @@ date: 2015-10-09
 - intro: Poster presented at CVPR 2017 Scene Understanding Workshop
 - arxiv: [https://arxiv.org/abs/1709.03439](https://arxiv.org/abs/1709.03439)
 
-**Learning Deep Features via Congenerous Cosine Loss for Person Recognition**
-
-- arxiv: [https://arxiv.org/abs/1702.06890](https://arxiv.org/abs/1702.06890)
-- github: [https://github.com/sciencefans/coco_loss](https://github.com/sciencefans/coco_loss)
-
 **B-CNN: Branch Convolutional Neural Network for Hierarchical Classification**
 
 [https://arxiv.org/abs/1709.09890](https://arxiv.org/abs/1709.09890)
 
-## Multi-object Recognition
+# Multi-object Recognition
 
 **Multiple Object Recognition with Visual Attention**
 
@@ -120,7 +115,7 @@ date: 2015-10-09
 - intro: ICPR 2016 Oral
 - arxiv: [https://arxiv.org/abs/1610.03155](https://arxiv.org/abs/1610.03155)
 
-## Multi-Label Classification
+# Multi-Label Classification
 
 **Learning Spatial Regularization with Image-level Supervisions for Multi-label Image Classification**
 
@@ -132,9 +127,9 @@ date: 2015-10-09
 
 [https://arxiv.org/abs/1707.05495](https://arxiv.org/abs/1707.05495)
 
-## Face Recognition
+# Face Recognition
 
-### DeepID
+## DeepID
 
 **Deep Learning Face Representation from Predicting 10,000 Classes**
 
@@ -142,7 +137,7 @@ date: 2015-10-09
 - paper: [http://mmlab.ie.cuhk.edu.hk/pdf/YiSun_CVPR14.pdf](http://mmlab.ie.cuhk.edu.hk/pdf/YiSun_CVPR14.pdf)
 - github: [https://github.com/stdcoutzyx/DeepID_FaceClassify](https://github.com/stdcoutzyx/DeepID_FaceClassify)
 
-### DeepID2
+## DeepID2
 
 **Deep Learning Face Representation by Joint Identification-Verification**
 
@@ -154,7 +149,7 @@ date: 2015-10-09
 - 2. [http://www.miaoerduo.com/deep-learning/%E5%9F%BA%E4%BA%8Ecaffe%E7%9A%84deepid2%E5%AE%9E%E7%8E%B0%EF%BC%88%E4%B8%AD%EF%BC%89.html](http://www.miaoerduo.com/deep-learning/%E5%9F%BA%E4%BA%8Ecaffe%E7%9A%84deepid2%E5%AE%9E%E7%8E%B0%EF%BC%88%E4%B8%AD%EF%BC%89.html)
 - 3. [http://www.miaoerduo.com/deep-learning/%E5%9F%BA%E4%BA%8Ecaffe%E7%9A%84deepid2%E5%AE%9E%E7%8E%B0%EF%BC%88%E4%B8%8B%EF%BC%89.html](http://www.miaoerduo.com/deep-learning/%E5%9F%BA%E4%BA%8Ecaffe%E7%9A%84deepid2%E5%AE%9E%E7%8E%B0%EF%BC%88%E4%B8%8B%EF%BC%89.html)
 
-### DeepID2+
+## DeepID2+
 
 **Deeply learned face representations are sparse, selective, and robust**
 
@@ -162,7 +157,7 @@ date: 2015-10-09
 - video: [http://research.microsoft.com/apps/video/?id=260023](http://research.microsoft.com/apps/video/?id=260023)
 - mirror: [http://pan.baidu.com/s/1boufl3x](http://pan.baidu.com/s/1boufl3x)
 
-### MobileID
+## MobileID
 
 **MobileID: Face Model Compression by Distilling Knowledge from Neurons**
 
@@ -172,7 +167,7 @@ date: 2015-10-09
 - paper: [http://personal.ie.cuhk.edu.hk/~pluo/pdf/aaai16-face-model-compression.pdf](http://personal.ie.cuhk.edu.hk/~pluo/pdf/aaai16-face-model-compression.pdf)
 - github: [https://github.com/liuziwei7/mobile-id](https://github.com/liuziwei7/mobile-id)
 
-### DeepFace
+## DeepFace
 
 **DeepFace: Closing the Gap to Human-Level Performance in Face Verification**
 
@@ -188,7 +183,7 @@ date: 2015-10-09
 - homepage: [http://www.robots.ox.ac.uk/~vgg/software/vgg_face/](http://www.robots.ox.ac.uk/~vgg/software/vgg_face/)
 - github(Keras): [https://github.com/rcmalli/keras-vggface](https://github.com/rcmalli/keras-vggface)
 
-### FaceNet
+## FaceNet
 
 **FaceNet: A Unified Embedding for Face Recognition and Clustering**
 
@@ -244,7 +239,7 @@ date: 2015-10-09
 
 - arxiv: [http://arxiv.org/abs/1608.05246](http://arxiv.org/abs/1608.05246)
 
-### VIPLFaceNet / SeetaFace Engine
+## VIPLFaceNet / SeetaFace Engine
 
 **VIPLFaceNet: An Open Source Deep Face Recognition SDK**
 
@@ -315,13 +310,18 @@ date: 2015-10-09
 
 [https://arxiv.org/abs/1709.02848](https://arxiv.org/abs/1709.02848)
 
-### Video Face Recognition
+**Face Sketch Matching via Coupled Deep Transform Learning**
+
+- intro: ICCV 2017
+- arxiv: [https://arxiv.org/abs/1710.02914](https://arxiv.org/abs/1710.02914)
+
+## Video Face Recognition
 
 **Attention-Set based Metric Learning for Video Face Recognition**
 
 [https://arxiv.org/abs/1704.03805](https://arxiv.org/abs/1704.03805)
 
-### Projects
+## Projects
 
 **Using MXNet for Face-related Algorithm**
 
@@ -346,7 +346,7 @@ date: 2015-10-09
 - intro: LeafSnap replicated using deep neural networks to test accuracy compared to traditional computer vision methods.
 - github: [https://github.com/sujithv28/Deep-Leafsnap](https://github.com/sujithv28/Deep-Leafsnap)
 
-#### OpenFace
+### OpenFace
 
 **OpenFace: Face Recognition with Deep Neural Networks**
 
@@ -374,13 +374,24 @@ date: 2015-10-09
 facial action unit recognition, and eye-gaze estimation.
 - github: [https://github.com/TadasBaltrusaitis/OpenFace](https://github.com/TadasBaltrusaitis/OpenFace)
 
-### Resources
+## Resources
 
 **Face-Resources**
 
 - github: [https://github.com/betars/Face-Resources](https://github.com/betars/Face-Resources)
 
-## Fine-grained Recognition
+# Person Recognition
+
+**Learning Deep Features via Congenerous Cosine Loss for Person Recognition**
+
+- arxiv: [https://arxiv.org/abs/1702.06890](https://arxiv.org/abs/1702.06890)
+- github: [https://github.com/sciencefans/coco_loss](https://github.com/sciencefans/coco_loss)
+
+**Person Recognition in Social Media Photos**
+
+[https://arxiv.org/abs/1710.03224](https://arxiv.org/abs/1710.03224)
+
+# Fine-grained Recognition
 
 **Bilinear CNN Models for Fine-grained Visual Recognition**
 
@@ -474,7 +485,7 @@ facial action unit recognition, and eye-gaze estimation.
 
 [https://arxiv.org/abs/1709.05769](https://arxiv.org/abs/1709.05769)
 
-### Food Recognition
+# Food Recognition
 
 **DeepFood: Deep Learning-Based Food Image Recognition for Computer-Aided Dietary Assessment**
 
@@ -519,7 +530,7 @@ facial action unit recognition, and eye-gaze estimation.
 - intro: IEEE Signal Processing Letters
 - arxiv: [https://arxiv.org/abs/1709.09429](https://arxiv.org/abs/1709.09429)
 
-### Attribute Recognition
+# Attribute Recognition
 
 **Multi-attribute Learning for Pedestrian Attribute Recognition in Surveillance Scenarios**
 
@@ -564,21 +575,21 @@ facial action unit recognition, and eye-gaze estimation.
 - intro: ICCV 2017
 - arxiv: [https://arxiv.org/abs/1709.08553](https://arxiv.org/abs/1709.08553)
 
-### Instrument Recognition
+# Instrument Recognition
 
 **Automatic Instrument Recognition in Polyphonic Music Using Convolutional Neural Networks**
 
 - arxiv: [http://arxiv.org/abs/1511.05520](http://arxiv.org/abs/1511.05520)
 - github: [https://github.com/glennq/instrument-recognition](https://github.com/glennq/instrument-recognition)
 
-### Musical Instrument Recognition
+## Musical Instrument Recognition
 
 **Deep Convolutional Networks on the Pitch Spiral for Musical Instrument Recognition**
 
 - paper: [https://github.com/lostanlen/ismir2016/blob/master/paper/lostanlen_ismir2016.pdf](https://github.com/lostanlen/ismir2016/blob/master/paper/lostanlen_ismir2016.pdf)
 - github: [https://github.com/lostanlen/ismir2016](https://github.com/lostanlen/ismir2016)
 
-### Clothes Recognition
+# Clothes Recognition
 
 **DeepFashion: Powering Robust Clothes Recognition and Retrieval with Rich Annotations**
 
@@ -592,7 +603,7 @@ facial action unit recognition, and eye-gaze estimation.
 
 - arxiv: [https://arxiv.org/abs/1610.03670](https://arxiv.org/abs/1610.03670)
 
-### Star-galaxy Classification
+# Star-galaxy Classification
 
 **Star-galaxy Classification Using Deep Convolutional Neural Networks**
 
@@ -600,13 +611,13 @@ facial action unit recognition, and eye-gaze estimation.
 - arxiv: [http://arxiv.org/abs/1608.04369](http://arxiv.org/abs/1608.04369)
 - github: [https://github.com/EdwardJKim/dl4astro](https://github.com/EdwardJKim/dl4astro)
 
-### Logo Recognition
+# Logo Recognition
 
 **Deep Learning for Logo Recognition**
 
 - arxiv: [https://arxiv.org/abs/1701.02620](https://arxiv.org/abs/1701.02620)
 
-### Plant Classification
+# Plant Classification
 
 **Large-Scale Plant Classification with Deep Neural Networks**
 

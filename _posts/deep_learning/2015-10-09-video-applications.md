@@ -451,6 +451,10 @@ extract saptio-temporal features to represent the video using the CNNs."
 
 [https://arxiv.org/abs/1708.09522](https://arxiv.org/abs/1708.09522)
 
+**Real-Time Action Detection in Video Surveillance using Sub-Action Descriptor with Multi-CNN**
+
+[https://arxiv.org/abs/1710.03383](https://arxiv.org/abs/1710.03383)
+
 ### Projects
 
 **A Torch Library for Action Recognition and Detection Using CNNs and LSTMs**

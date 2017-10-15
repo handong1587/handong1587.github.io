@@ -169,6 +169,10 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 - intro: ICDAR 2017
 - arxiv: [https://arxiv.org/abs/1709.06476](https://arxiv.org/abs/1709.06476)
 
+**Joint Image Filtering with Deep Convolutional Networks**
+
+[https://arxiv.org/abs/1710.04200](https://arxiv.org/abs/1710.04200)
+
 # Age Estimation
 
 **Deeply-Learned Feature for Age Estimation**
@@ -192,6 +196,11 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 **Understanding and Comparing Deep Neural Networks for Age and Gender Classification**
 
 [https://arxiv.org/abs/1708.07689](https://arxiv.org/abs/1708.07689)
+
+**Age Group and Gender Estimation in the Wild with Deep RoR Architecture**
+
+- intro: IEEE ACCESS
+- arxiv: [https://arxiv.org/abs/1710.02985](https://arxiv.org/abs/1710.02985)
 
 # Face Aging
 
@@ -299,6 +308,10 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 **Temporal Multimodal Fusion for Video Emotion Classification in the Wild**
 
 [https://arxiv.org/abs/1709.07200](https://arxiv.org/abs/1709.07200)
+
+**Island Loss for Learning Discriminative Features in Facial Expression Recognition**
+
+[https://arxiv.org/abs/1710.03144](https://arxiv.org/abs/1710.03144)
 
 # Attribution Prediction
 
@@ -1118,6 +1131,11 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 **Dilated Residual Network for Image Denoising**
 
 [https://arxiv.org/abs/1708.05473](https://arxiv.org/abs/1708.05473)
+
+**FFDNet: Toward a Fast and Flexible Solution for CNN based Image Denoising**
+
+- arxiv: [https://arxiv.org/abs/1710.04026](https://arxiv.org/abs/1710.04026)
+- github(MatConvNet): [https://github.com/cszn/FFDNet](https://github.com/cszn/FFDNet)
 
 # Image Haze Removal
 
