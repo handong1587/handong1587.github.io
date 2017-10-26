@@ -490,6 +490,7 @@ facial action unit recognition, and eye-gaze estimation.
 **DeepFood: Deep Learning-Based Food Image Recognition for Computer-Aided Dietary Assessment**
 
 - arxiv: [http://arxiv.org/abs/1606.05675](http://arxiv.org/abs/1606.05675)
+- github: [https://github.com/deercoder/DeepFood](https://github.com/deercoder/DeepFood)
 
 **Im2Calories: towards an automated mobile vision food diary**
 
