@@ -434,6 +434,11 @@ at INT8 deep learning operations than other FPGA DSP architectures"
 
 [https://arxiv.org/abs/1709.09902](https://arxiv.org/abs/1709.09902)
 
+**A Survey of Model Compression and Acceleration for Deep Neural Networks**
+
+- intro: IEEE Signal Processing Magazine. IBM Thoms J. Watson Research Center & Tsinghua University & Huazhong University of Science and Technology
+- arxiv: [https://arxiv.org/abs/1710.09282](https://arxiv.org/abs/1710.09282)
+
 # Pruning
 
 **ThiNet: A Filter Level Pruning Method for Deep Neural Network Compression**
@@ -476,7 +481,17 @@ at INT8 deep learning operations than other FPGA DSP architectures"
 - intro: the top-5 error rate of 4-bit quantized GoogLeNet model is 12.7%
 - arxiv: [https://arxiv.org/abs/1706.07145](https://arxiv.org/abs/1706.07145)
 
-## Binary Convolutional Neural Networks
+## Binary Convolutional Neural Networks / Binarized Neural Networks
+
+**BinaryNet: Training Deep Neural Networks with Weights and Activations Constrained to +1 or -1**
+
+**Binarized Neural Networks: Training Deep Neural Networks with Weights and Activations Constrained to +1 or -1**
+
+[https://arxiv.org/abs/1602.02830](https://arxiv.org/abs/1602.02830)
+
+**Quantized Neural Networks: Training Neural Networks with Low Precision Weights and Activations**
+
+[https://arxiv.org/abs/1609.07061](https://arxiv.org/abs/1609.07061)
 
 **XNOR-Net: ImageNet Classification Using Binary Convolutional Neural Networks**
 
@@ -571,6 +586,14 @@ at INT8 deep learning operations than other FPGA DSP architectures"
 **Learning Loss for Knowledge Distillation with Conditional Adversarial Networks**
 
 [https://arxiv.org/abs/1709.00513](https://arxiv.org/abs/1709.00513)
+
+**Data-Free Knowledge Distillation for Deep Neural Networks**
+
+[https://arxiv.org/abs/1710.07535](https://arxiv.org/abs/1710.07535)
+
+**Knowledge Projection for Deep Neural Networks**
+
+[https://arxiv.org/abs/1710.09505](https://arxiv.org/abs/1710.09505)
 
 ## Code Optimization
 

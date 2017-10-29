@@ -495,6 +495,11 @@ and from 73.8% to 83.1% for ResNet-50
 - intro: ICCV 2017
 - arxiv: [https://arxiv.org/abs/1708.01641](https://arxiv.org/abs/1708.01641)
 
+**Dress like a Star: Retrieving Fashion Products from Videos**
+
+- intro: Aston University
+- arxiv: [https://arxiv.org/abs/1710.07198](https://arxiv.org/abs/1710.07198)
+
 # Learning to Rank
 
 **Simple to Complex Cross-modal Learning to Rank**

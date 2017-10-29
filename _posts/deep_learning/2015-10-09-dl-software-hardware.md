@@ -56,6 +56,12 @@ Contains all the popular DL frameworks (TensorFlow, Theano, Torch, Caffe, etc.)
 
 [https://github.com/dominiek/deep-base](https://github.com/dominiek/deep-base)
 
+**Deepo: a Docker image with a full reproducible deep learning research environment**
+
+- intro: A Docker image containing almost all popular deep learning frameworks: theano, tensorflow, sonnet, pytorch, keras, lasagne, mxnet, cntk, chainer, caffe, torch.
+- project page: [https://hub.docker.com/r/ufoym/deepo/](https://hub.docker.com/r/ufoym/deepo/)
+- github: [https://github.com//ufoym/deepo](https://github.com//ufoym/deepo)
+
 ## Cloud
 
 **SuperVessel Cloud for POWER/OpenPOWER LoginRegisterTutorials**

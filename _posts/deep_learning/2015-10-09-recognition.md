@@ -485,6 +485,12 @@ facial action unit recognition, and eye-gaze estimation.
 
 [https://arxiv.org/abs/1709.05769](https://arxiv.org/abs/1709.05769)
 
+**Learning Multi-Attention Convolutional Neural Network for Fine-Grained Image Recognition**
+
+- introL ICCV 2017. MA-CNN
+- intro: University of Science and Technology of China & Microsoft Research & University of Rochester
+- paper: [http://openaccess.thecvf.com/content_ICCV_2017/papers/Zheng_Learning_Multi-Attention_Convolutional_ICCV_2017_paper.pdf](http://openaccess.thecvf.com/content_ICCV_2017/papers/Zheng_Learning_Multi-Attention_Convolutional_ICCV_2017_paper.pdf)
+
 # Food Recognition
 
 **DeepFood: Deep Learning-Based Food Image Recognition for Computer-Aided Dietary Assessment**

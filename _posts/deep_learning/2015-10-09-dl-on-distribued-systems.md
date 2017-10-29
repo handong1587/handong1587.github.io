@@ -110,6 +110,12 @@ date: 2015-10-09
 - intro: Alexander Ulanov offers an overview of tools and frameworks that have been proposed for performing deep learning on Spark.
 - video: [https://www.oreilly.com/learning/distributed-deep-learning-on-spark](https://www.oreilly.com/learning/distributed-deep-learning-on-spark)
 
+# Resources
+
+**Distributed Deep Learning Reads**
+
+[https://github.com//tmulc18/DistributedDeepLearningReads](https://github.com//tmulc18/DistributedDeepLearningReads)
+
 # Blogs
 
 **Hadoop, Spark, Deep Learning Mesh on Single GPU Cluster**

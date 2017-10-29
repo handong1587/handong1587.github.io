@@ -592,6 +592,13 @@ extract saptio-temporal features to represent the video using the CNNs."
 - intro: NCCV 2016
 - arxiv: [https://arxiv.org/abs/1702.04125](https://arxiv.org/abs/1702.04125)
 
+**Fully Context-Aware Video Prediction**
+
+- intro: ETH Zurich & NNAISENSE
+- keywords: unsupervised learning through video prediction, Parallel Multi-Dimensional LSTM
+- project page: [https://sites.google.com/view/contextvp](https://sites.google.com/view/contextvp)
+- arxiv: [https://arxiv.org/abs/1710.08518](https://arxiv.org/abs/1710.08518)
+
 # Video Tagging
 
 **Automatic Image and Video Tagging**

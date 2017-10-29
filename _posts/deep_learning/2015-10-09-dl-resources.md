@@ -348,6 +348,7 @@ not just the convolutions)
 - intro: ILSVRC 2017 image classification winner
 - arxiv: [https://arxiv.org/abs/1709.01507](https://arxiv.org/abs/1709.01507)
 - github: [https://github.com/hujie-frank/SENet](https://github.com/hujie-frank/SENet)
+- github: [https://github.com//bruinxiong/SENet.mxnet](https://github.com//bruinxiong/SENet.mxnet)
 
 ## ImageNet Projects
 
@@ -818,6 +819,10 @@ not just the convolutions)
 
 - intro: CVPR 2017 Spotlight Oral Workshop
 - arxiv: [https://arxiv.org/abs/1707.03501](https://arxiv.org/abs/1707.03501)
+
+**One pixel attack for fooling deep neural networks**
+
+[https://arxiv.org/abs/1710.08864](https://arxiv.org/abs/1710.08864)
 
 # Deep Learning Networks
 
@@ -1963,6 +1968,12 @@ It is based on Facebook's TorchCraft, which is a bridge between Torch and StarCr
 
 [https://inside.edited.com/deep-learning-our-way-through-fashion-week-ea55bf50bab8](https://inside.edited.com/deep-learning-our-way-through-fashion-week-ea55bf50bab8)
 
+**Be Your Own Prada: Fashion Synthesis with Structural Coherence**
+
+- intro: ICCV 2017
+- paper: [http://openaccess.thecvf.com/content_ICCV_2017/papers/Zhu_Be_Your_Own_ICCV_2017_paper.pdf](http://openaccess.thecvf.com/content_ICCV_2017/papers/Zhu_Be_Your_Own_ICCV_2017_paper.pdf)
+- github: [https://github.com/zhusz/ICCV17-fashionGAN](https://github.com/zhusz/ICCV17-fashionGAN)
+
 # Benchmarks
 
 **Deep Learning’s Accuracy**
@@ -2433,6 +2444,12 @@ It is based on Facebook's TorchCraft, which is a bridge between Torch and StarCr
 
 [https://arxiv.org/abs/1708.05552](https://arxiv.org/abs/1708.05552)
 
+**Dynamic Routing Between Capsules**
+
+- intro: Sara Sabour, Nicholas Frosst, Geoffrey E Hinton
+- intro: Google Brain, Toronto
+- arxiv: [https://arxiv.org/abs/1710.09829](https://arxiv.org/abs/1710.09829)
+
 ## Tutorials and Surveys
 
 **On the Origin of Deep Learning**
@@ -2468,12 +2485,13 @@ It is based on Facebook's TorchCraft, which is a bridge between Torch and StarCr
 
 **Xception: Deep Learning with Depthwise Separable Convolutions**
 
-- intro: Extreme Inception
+- intro: CVPR 2017. Extreme Inception
 - arxiv: [https://arxiv.org/abs/1610.02357](https://arxiv.org/abs/1610.02357)
 - code: [https://keras.io/applications/#xception](https://keras.io/applications/#xception)
 - github(Keras): [https://github.com/fchollet/deep-learning-models/blob/master/xception.py](https://github.com/fchollet/deep-learning-models/blob/master/xception.py)
 - github: [https://gist.github.com/culurciello/554c8e56d3bbaf7c66bf66c6089dc221](https://gist.github.com/culurciello/554c8e56d3bbaf7c66bf66c6089dc221)
 - github: [https://github.com/kwotsin/Tensorflow-Xception](https://github.com/kwotsin/Tensorflow-Xception)
+- github: [https://github.com//bruinxiong/xception.mxnet](https://github.com//bruinxiong/xception.mxnet)
 - notes: [http://www.shortscience.org/paper?bibtexKey=journals%2Fcorr%2F1610.02357](http://www.shortscience.org/paper?bibtexKey=journals%2Fcorr%2F1610.02357)
 
 **Towards a New Interpretation of Separable Convolutions**

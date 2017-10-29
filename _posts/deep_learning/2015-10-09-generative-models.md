@@ -248,6 +248,12 @@ date: 2015-10-09
 - arxiv: [https://arxiv.org/abs/1704.03971](https://arxiv.org/abs/1704.03971)
 - github: [https://github.com/stormraiser/GAN-weight-norm](https://github.com/stormraiser/GAN-weight-norm)
 
+**Generative Adversarial Networks: An Overview**
+
+- intro: Imperial College London & Victoria University of Wellington & University of Montreal & Cortexica Vision Systems Ltd
+- intro: IEEE Signal Processing Magazine Special Issue on Deep Learning for Visual Understanding
+- arxiv: [https://arxiv.org/abs/1710.07035](https://arxiv.org/abs/1710.07035)
+
 ## Image-to-Image Translation
 
 ### Pix2Pix

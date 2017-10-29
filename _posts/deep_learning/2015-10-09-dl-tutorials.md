@@ -961,6 +961,10 @@ Implementations and ideas are largely based on papers from arxiv and implementat
 
 [https://github.com/aditya101993/Deep-Learning](https://github.com/aditya101993/Deep-Learning)
 
+**How To Write Your Own Tensorflow in C++**
+
+[https://oneraynyday.github.io/ml/2017/10/20/Tensorflow-C++/](https://oneraynyday.github.io/ml/2017/10/20/Tensorflow-C++/)
+
 ## Tensorflow on Android
 
 **A Guide to Running Tensorflow Models on Android**

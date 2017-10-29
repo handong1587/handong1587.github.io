@@ -517,6 +517,11 @@ Incorporates dropout regularization and convolutional neural networks with a sep
 - keywords: Distill, transfer learning
 - arxiv: [https://arxiv.org/abs/1707.04175](https://arxiv.org/abs/1707.04175)
 
+**Deep Reinforcement Learning: Framework, Applications, and Embedded Implementations**
+
+- intro: Syracuse University & University of California, Riverside
+- arxiv: [https://arxiv.org/abs/1710.03792](https://arxiv.org/abs/1710.03792)
+
 ## Surveys
 
 **Reinforcement Learning: A Survey**

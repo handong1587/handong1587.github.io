@@ -643,7 +643,7 @@ Continuation of [arXiv:1608.08021](https://arxiv.org/abs/1608.08021)
 
 **Focal Loss for Dense Object Detection**
 
-- intro: Facebook AI Research
+- intro: ICCV 2017 Best student paper award. Facebook AI Research
 - keywords: RetinaNet
 - arxiv: [https://arxiv.org/abs/1708.02002](https://arxiv.org/abs/1708.02002)
 
@@ -674,7 +674,9 @@ Continuation of [arXiv:1608.08021](https://arxiv.org/abs/1608.08021)
 
 **Improving Object Detection With One Line of Code**
 
-- intro: University of Maryland
+**Soft-NMS -- Improving Object Detection With One Line of Code**
+
+- intro: ICCV 2017. University of Maryland
 - keywords: Soft-NMS
 - arxiv: [https://arxiv.org/abs/1704.04503](https://arxiv.org/abs/1704.04503)
 - github: [https://github.com/bharatsingh430/soft-nms](https://github.com/bharatsingh430/soft-nms)

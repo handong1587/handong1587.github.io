@@ -266,6 +266,13 @@ such as image classification, object detection or text captioning.
 
 - github: [https://github.com/bogatyy/cs224d](https://github.com/bogatyy/cs224d)
 
+**CMU CS 11-747, Fall 2017: Neural Networks for NLP**
+
+- intro: by Graham Neubig
+- course page: [http://phontron.com/class/nn4nlp2017/](http://phontron.com/class/nn4nlp2017/)
+- github: [https://github.com/neubig/nn4nlp2017-code](https://github.com/neubig/nn4nlp2017-code)
+- video: [https://www.bilibili.com/video/av14153689/](https://www.bilibili.com/video/av14153689/)
+
 **Deep Learning for NLP - Lecture October 2015**
 
 - github: [https://github.com/UKPLab/deeplearning4nlp-tutorial/tree/master/2015-10_Lecture](https://github.com/UKPLab/deeplearning4nlp-tutorial/tree/master/2015-10_Lecture)

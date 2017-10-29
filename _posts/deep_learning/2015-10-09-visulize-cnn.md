@@ -262,6 +262,12 @@ date: 2015-10-09
 - blog: [https://hackernoon.com/visualizing-parts-of-convolutional-neural-networks-using-keras-and-cats-5cc01b214e59#.bt6bb13dk](https://hackernoon.com/visualizing-parts-of-convolutional-neural-networks-using-keras-and-cats-5cc01b214e59#.bt6bb13dk)
 - github: [https://github.com/erikreppel/visualizing_cnns](https://github.com/erikreppel/visualizing_cnns)
 
+**Visualizing convolutional neural networks**
+
+- intro: How to build convolutional neural networks from scratch w/ Tensorflow
+- blog: [https://www.oreilly.com/ideas/visualizing-convolutional-neural-networks](https://www.oreilly.com/ideas/visualizing-convolutional-neural-networks)
+- github: [https://github.com//wagonhelm/Visualizing-Convnets/](https://github.com//wagonhelm/Visualizing-Convnets/)
+
 # Tools
 
 **Topological Visualisation of a Convolutional Neural Network**

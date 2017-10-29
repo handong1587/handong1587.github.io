@@ -5,6 +5,24 @@ title: Keep Up With New Trends
 date: 2017-07-08
 ---
 
+# ICCV 2017
+
+**ICCV 2017 open access**
+
+[http://openaccess.thecvf.com/ICCV2017.py](http://openaccess.thecvf.com/ICCV2017.py)
+
+**ICCV 2017 Workshops, Venice Italy**
+
+[http://openaccess.thecvf.com/ICCV2017_workshops/menu.py](http://openaccess.thecvf.com/ICCV2017_workshops/menu.py)
+
+**Facebook at ICCV 2017**
+
+[https://research.fb.com/facebook-at-iccv-2017/](https://research.fb.com/facebook-at-iccv-2017/)
+
+**ICCV 2017 Tutorial on GANs**
+
+[https://sites.google.com/view/iccv-2017-gans/schedule](https://sites.google.com/view/iccv-2017-gans/schedule)
+
 # ILSVRC 2017
 
 **Overview of ILSVRC 2017**

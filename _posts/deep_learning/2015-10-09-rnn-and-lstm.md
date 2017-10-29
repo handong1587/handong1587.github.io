@@ -583,7 +583,9 @@ date: 2015-10-09
 
 **Bayesian Recurrent Neural Networks**
 
-[https://arxiv.org/abs/1704.02798](https://arxiv.org/abs/1704.02798)
+- intro: UC Berkeley
+- arxiv: [https://arxiv.org/abs/1704.02798](https://arxiv.org/abs/1704.02798)
+- github: [https://github.com/mirceamironenco/BayesianRecurrentNN](https://github.com/mirceamironenco/BayesianRecurrentNN)
 
 **Fast-Slow Recurrent Neural Networks**
 

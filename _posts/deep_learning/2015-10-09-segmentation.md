@@ -725,9 +725,9 @@ with built-in awareness of semantically meaningful boundaries. "
 
 **Mask R-CNN**
 
-- intro: Facebook AI Research
+- intro: ICCV 2017 Best paper award. Facebook AI Research
 - arxiv: [https://arxiv.org/abs/1703.06870](https://arxiv.org/abs/1703.06870)
-- github(TensorFlow): [https://github.com/CharlesShang/FastMaskRCNN](https://github.com/CharlesShang/FastMaskRCNN)
+- github: [https://github.com/TuSimple/mx-maskrcnn](https://github.com/TuSimple/mx-maskrcnn)
 
 **Semantic Instance Segmentation via Deep Metric Learning**
 
@@ -1077,6 +1077,17 @@ ranked 1st place in ImageNet Scene Parsing Challenge 2016
 **DA-RNN: Semantic Mapping with Data Associated Recurrent Neural Networks**
 
 [https://arxiv.org/abs/1703.03098](https://arxiv.org/abs/1703.03098)
+
+**SqueezeSeg: Convolutional Neural Nets with Recurrent CRF for Real-Time Road-Object Segmentation from 3D LiDAR Point Cloud**
+
+- intro: UC Berkeley
+- arxiv: [https://arxiv.org/abs/1710.07368](https://arxiv.org/abs/1710.07368)
+
+**SEGCloud: Semantic Segmentation of 3D Point Clouds**
+
+- intro: International Conference of 3D Vision (3DV) 2017 (Spotlight). Stanford University
+- homepage: [http://segcloud.stanford.edu/](http://segcloud.stanford.edu/)
+- arxiv: [https://arxiv.org/abs/1710.07563](https://arxiv.org/abs/1710.07563)
 
 # Leaderboard
 

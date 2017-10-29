@@ -539,6 +539,13 @@ It is an experimental refactoring of Caffe, and allows a more flexible way to or
 - website: [http://petuum.github.io/](http://petuum.github.io/)
 - github: [https://github.com/petuum/bosen](https://github.com/petuum/bosen)
 
+# PlaidML
+
+**PlaidML: A framework for making deep learning work everywhere**
+
+- homepage: [http://vertex.ai/](http://vertex.ai/)
+- github: [https://github.com/plaidml/plaidml](https://github.com/plaidml/plaidml)
+
 # Platoon
 
 **Platoon: Multi-GPU mini-framework for Theano**

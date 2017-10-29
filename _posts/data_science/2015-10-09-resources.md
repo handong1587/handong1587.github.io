@@ -71,6 +71,10 @@ date: 2015-10-09
 - class material: [http://cs109.github.io/2015/pages/videos.html](http://cs109.github.io/2015/pages/videos.html)
 - github: [https://github.com/cs109/2015](https://github.com/cs109/2015)
 
+**Coursera: How to Win a Data Science Competition: Learn from Top Kagglers**
+
+[https://www.coursera.org/learn/competitive-data-science](https://www.coursera.org/learn/competitive-data-science)
+
 # Tools
 
 **Provision the Linux Data Science Virtual Machine**

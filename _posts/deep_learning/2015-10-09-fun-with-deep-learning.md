@@ -833,10 +833,11 @@ Compressed model is less than 500KB
 
 ## AlphaGo
 
-**Mastering the game of Go with deep neural networks and tree search (AlphaGo. Google DeepMind)**
+**Mastering the game of Go with deep neural networks and tree search**
 
 ![](http://k.sinaimg.cn/n/sports/transform/20160128/RGVK-fxnzanh0214327.jpg/w570778.jpg)
 
+- intro: AlphaGo. Google DeepMind
 - homepage: [http://www.deepmind.com/alpha-go.html](http://www.deepmind.com/alpha-go.html)
 - paper: [https://storage.googleapis.com/deepmind-data/assets/papers/deepmind-mastering-go.pdf](https://storage.googleapis.com/deepmind-data/assets/papers/deepmind-mastering-go.pdf)
 - naturep page: [http://www.nature.com/nature/journal/v529/n7587/full/nature16961.html](http://www.nature.com/nature/journal/v529/n7587/full/nature16961.html)
@@ -844,8 +845,12 @@ Compressed model is less than 500KB
 - slides: [http://www.bioinfo.org.cn/~casp/temp/alphago_slides.pdf](http://www.bioinfo.org.cn/~casp/temp/alphago_slides.pdf)
 - blog: [http://www.furidamu.org/blog/2016/01/26/mastering-the-game-of-go-with-deep-neural-networks-and-tree-search/](http://www.furidamu.org/blog/2016/01/26/mastering-the-game-of-go-with-deep-neural-networks-and-tree-search/)
 - blog("AlphaGo: From Intuitive Learning to Holistic Knowledge"): [https://caminao.wordpress.com/2016/02/01/alphago/](https://caminao.wordpress.com/2016/02/01/alphago/)
-- notes("AlphaGo的分析", by 田渊栋): [http://zhuanlan.zhihu.com/yuandong/20607684](http://zhuanlan.zhihu.com/yuandong/20607684)
 - github: [https://github.com/Rochester-NRT/AlphaGo](https://github.com/Rochester-NRT/AlphaGo)
+
+**AlphaGo的分析**
+
+- intro: by 田渊栋
+- blog: [http://zhuanlan.zhihu.com/yuandong/20607684](http://zhuanlan.zhihu.com/yuandong/20607684)
 
 **How Alphago Works**
 
@@ -863,6 +868,11 @@ Compressed model is less than 500KB
 - intro: Leela is a strong Go playing program combining advances in Go programming and 
 further original research into a small, easy to use graphical interface.
 - homepage: [https://sjeng.org/leela.html](https://sjeng.org/leela.html)
+
+**Mastering the game of Go without human knowledge**
+
+- nature page: [http://www.nature.com/nature/journal/v550/n7676/full/nature24270.html](http://www.nature.com/nature/journal/v550/n7676/full/nature24270.html)
+- paper: [https://deepmind.com/documents/119/agz_unformatted_nature.pdf](https://deepmind.com/documents/119/agz_unformatted_nature.pdf)
 
 # Chess
 

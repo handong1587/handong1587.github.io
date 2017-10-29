@@ -53,11 +53,6 @@ Image Caption Generation, Automatic Game Playing
 Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 - blog: [http://blog.algorithmia.com/2016/07/open-source-deep-learning-algorithm-roundup/](http://blog.algorithmia.com/2016/07/open-source-deep-learning-algorithm-roundup/)
 
-**Makeup like a superstar: Deep Localized Makeup Transfer Network**
-
-- intro: IJCAI 2016
-- arxiv: [http://arxiv.org/abs/1604.07102](http://arxiv.org/abs/1604.07102)
-
 **Deep Cascaded Bi-Network for Face Hallucination**
 
 - project page: [http://mmlab.ie.cuhk.edu.hk/projects/CBN.html](http://mmlab.ie.cuhk.edu.hk/projects/CBN.html)
@@ -160,10 +155,6 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 
 [https://arxiv.org/abs/1704.03470](https://arxiv.org/abs/1704.03470)
 
-**A2-RL: Aesthetics Aware Reinforcement Learning for Automatic Image Cropping**
-
-[https://arxiv.org/abs/1709.04595](https://arxiv.org/abs/1709.04595)
-
 **Image operator learning coupled with CNN classification and its application to staff line removal**
 
 - intro: ICDAR 2017
@@ -171,7 +162,16 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 
 **Joint Image Filtering with Deep Convolutional Networks**
 
-[https://arxiv.org/abs/1710.04200](https://arxiv.org/abs/1710.04200)
+- intro: University of California, Merced & Virginia Tech & University of Illinois
+- project page: [http://vllab1.ucmerced.edu/~yli62/DJF_residual/](http://vllab1.ucmerced.edu/~yli62/DJF_residual/)
+- arxiv: [https://arxiv.org/abs/1710.04200](https://arxiv.org/abs/1710.04200)
+- github: [https://github.com/Yijunmaverick/DeepJointFilter](https://github.com/Yijunmaverick/DeepJointFilter)
+
+**DSLR-Quality Photos on Mobile Devices with Deep Convolutional Networks**
+
+- intro: ICCV 2017
+- arxiv: [https://arxiv.org/abs/1704.02470](https://arxiv.org/abs/1704.02470)
+- github: [https://github.com/aiff22/DPED](https://github.com/aiff22/DPED)
 
 # Age Estimation
 
@@ -312,6 +312,10 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 **Island Loss for Learning Discriminative Features in Facial Expression Recognition**
 
 [https://arxiv.org/abs/1710.03144](https://arxiv.org/abs/1710.03144)
+
+**Real-time Convolutional Neural Networks for Emotion and Gender Classification**
+
+[https://arxiv.org/abs/1710.07557](https://arxiv.org/abs/1710.07557)
 
 # Attribution Prediction
 
@@ -668,6 +672,10 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 
 - intro: ICCV 2017
 - arxiv: [https://arxiv.org/abs/1708.00953](https://arxiv.org/abs/1708.00953)
+
+**Deep Spatial Regression Model for Image Crowd Counting**
+
+[https://arxiv.org/abs/1710.09757](https://arxiv.org/abs/1710.09757)
 
 # Activity Recognition
 
@@ -1426,6 +1434,17 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 - arxiv: [https://arxiv.org/abs/1703.01664](https://arxiv.org/abs/1703.01664)
 - github: [https://github.com/Yijunmaverick/MultiTextureSynthesis](https://github.com/Yijunmaverick/MultiTextureSynthesis)
 
+# Image Cropping
+
+**A2-RL: Aesthetics Aware Reinforcement Learning for Automatic Image Cropping**
+
+[https://arxiv.org/abs/1709.04595](https://arxiv.org/abs/1709.04595)
+
+**Deep Cropping via Attention Box Prediction and Aesthetics Assessment**
+
+- intro: ICCV 2017
+- arxiv: [https://arxiv.org/abs/1710.08014](https://arxiv.org/abs/1710.08014)
+
 # Image Synthesis
 
 **Combining Markov Random Fields and Convolutional Neural Networks for Image Synthesis**
@@ -1559,6 +1578,19 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 - intro: CVPR 2017 oral
 - project page: [http://www3.cs.stonybrook.edu/~cvl/content/neuralface/neuralface.html](http://www3.cs.stonybrook.edu/~cvl/content/neuralface/neuralface.html)
 - arxiv: [https://arxiv.org/abs/1704.04131](https://arxiv.org/abs/1704.04131)
+
+# Deep Learning for Makeup
+
+**Makeup like a superstar: Deep Localized Makeup Transfer Network**
+
+- intro: IJCAI 2016
+- arxiv: [http://arxiv.org/abs/1604.07102](http://arxiv.org/abs/1604.07102)
+
+**Makeup-Go: Blind Reversion of Portrait Edit**
+
+- intro: The Chinese University of Hong Kong & Tencent Youtu Lab
+- paper: [http://openaccess.thecvf.com/content_ICCV_2017/papers/Chen_Makeup-Go_Blind_Reversion_ICCV_2017_paper.pdf](http://openaccess.thecvf.com/content_ICCV_2017/papers/Chen_Makeup-Go_Blind_Reversion_ICCV_2017_paper.pdf)
+- paper: [http://open.youtu.qq.com/content/file/iccv17_makeupgo.pdf](http://open.youtu.qq.com/content/file/iccv17_makeupgo.pdf)
 
 # Music Tagging
 
