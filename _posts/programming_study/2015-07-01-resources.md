@@ -276,6 +276,10 @@ The user can run the packaged app without installing a Python interpreter or any
 You must move pacman (the green cursor) to highlight each word on the gameboard while avoiding the ghosts (in red).
 - github: [https://github.com/jmoon018/PacVim](https://github.com/jmoon018/PacVim)
 
+**Turning vim into an IDE through vim plugins**
+
+[https://www.safaribooksonline.com/blog/2014/11/23/way-vim-ide/](https://www.safaribooksonline.com/blog/2014/11/23/way-vim-ide/)
+
 ## Powerful VIM config on Github
 
 **spf13-vim: The Ultimate Vim Distribution**

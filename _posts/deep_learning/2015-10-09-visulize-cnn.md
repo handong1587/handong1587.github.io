@@ -166,6 +166,10 @@ date: 2015-10-09
 - arxiv: [https://arxiv.org/abs/1704.05796](https://arxiv.org/abs/1704.05796)
 - github: [https://github.com/CSAILVision/NetDissect](https://github.com/CSAILVision/NetDissect)
 
+**Interpreting Deep Visual Representations via Network Dissection**
+
+[https://arxiv.org/abs/1711.05611](https://arxiv.org/abs/1711.05611)
+
 **Picasso: A Neural Network Visualizer**
 
 - arxiv: [https://arxiv.org/abs/1705.05627](https://arxiv.org/abs/1705.05627)
@@ -176,6 +180,15 @@ date: 2015-10-09
 
 - arxiv: [https://arxiv.org/abs/1708.06670](https://arxiv.org/abs/1708.06670)
 - github: [https://github.com/utsavgarg/cnn-fixations](https://github.com/utsavgarg/cnn-fixations)
+
+**A Forward-Backward Approach for Visualizing Information Flow in Deep Networks**
+
+- intro: NIPS 2017 Symposium on Interpretable Machine Learning. Iowa State University
+- arxiv: [https://arxiv.org/abs/1711.06221](https://arxiv.org/abs/1711.06221)
+
+**Using KL-divergence to focus Deep Visual Explanation**
+
+[https://arxiv.org/abs/1711.06431](https://arxiv.org/abs/1711.06431)
 
 # Projects
 

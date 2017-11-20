@@ -300,6 +300,11 @@ after the embedding and recurrent layers of the RNN."
 - intro: NIPS 2017
 - arxiv: [https://arxiv.org/abs/1710.02534](https://arxiv.org/abs/1710.02534)
 
+**Phrase-based Image Captioning with Hierarchical LSTM Model**
+
+- intro: ACCV2016 extension, phrase-based image captioning
+- arxiv: [https://arxiv.org/abs/1711.05557](https://arxiv.org/abs/1711.05557)
+
 # Object Descriptions
 
 **Generation and Comprehension of Unambiguous Object Descriptions**
@@ -450,6 +455,10 @@ after the embedding and recurrent layers of the RNN."
 **From Deterministic to Generative: Multi-Modal Stochastic RNNs for Video Captioning**
 
 [https://arxiv.org/abs/1708.02478](https://arxiv.org/abs/1708.02478)
+
+**Grounded Objects and Interactions for Video Captioning**
+
+[https://arxiv.org/abs/1711.06354](https://arxiv.org/abs/1711.06354)
 
 # Projects
 

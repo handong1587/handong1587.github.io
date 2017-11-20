@@ -497,6 +497,13 @@ date: 2015-10-09
 - project page: [https://imatge-upc.github.io/skiprnn-2017-telecombcn/](https://imatge-upc.github.io/skiprnn-2017-telecombcn/)
 - arxiv: [https://arxiv.org/abs/1708.06834](https://arxiv.org/abs/1708.06834)
 
+**Dilated Recurrent Neural Networks**
+
+- intro: NIPS 2017. IBM & University of Illinois at Urbana-Champaign
+- keywords: DilatedRNN
+- arxiv: [https://arxiv.org/abs/1710.02224](https://arxiv.org/abs/1710.02224)
+- github(Tensorflow): [https://github.com/code-terminator/DilatedRNN](https://github.com/code-terminator/DilatedRNN)
+
 ## LSTMVis
 
 **Visual Analysis of Hidden State Dynamics in Recurrent Neural Networks**

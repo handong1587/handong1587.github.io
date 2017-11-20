@@ -504,6 +504,7 @@ with built-in awareness of semantically meaningful boundaries. "
 
 - intro: UCSD & CMU & UIUC & TuSimple
 - arxiv: [https://arxiv.org/abs/1702.08502](https://arxiv.org/abs/1702.08502)
+- github(MXNet): [https://github.com/TuSimple/TuSimple-DUC]https://github.com/TuSimple/TuSimple-DUC
 - pretrained-models: [https://drive.google.com/drive/folders/0B72xLTlRb0SoREhISlhibFZTRmM](https://drive.google.com/drive/folders/0B72xLTlRb0SoREhISlhibFZTRmM)
 
 **Label Refinement Network for Coarse-to-Fine Semantic Segmentation**
@@ -728,6 +729,7 @@ with built-in awareness of semantically meaningful boundaries. "
 - intro: ICCV 2017 Best paper award. Facebook AI Research
 - arxiv: [https://arxiv.org/abs/1703.06870](https://arxiv.org/abs/1703.06870)
 - github: [https://github.com/TuSimple/mx-maskrcnn](https://github.com/TuSimple/mx-maskrcnn)
+- github(Keras+TensorFlow): [https://github.com/matterport/Mask_RCNN](https://github.com/matterport/Mask_RCNN)
 
 **Semantic Instance Segmentation via Deep Metric Learning**
 

@@ -171,6 +171,16 @@ date: 2015-10-09
 
 [https://arxiv.org/abs/1709.07634](https://arxiv.org/abs/1709.07634)
 
+## Swish
+
+**Swish: a Self-Gated Activation Function**
+
+**Searching for Activation Functions**
+
+- intro: Google Brain
+- arxiv: [https://arxiv.org/abs/1710.05941](https://arxiv.org/abs/1710.05941)
+- reddit: [https://www.reddit.com/r/MachineLearning/comments/77gcrv/d_swish_is_not_performing_very_well/](https://www.reddit.com/r/MachineLearning/comments/77gcrv/d_swish_is_not_performing_very_well/)
+
 ## Series on Initialization of Weights for DNN
 
 **Initialization Of Feedfoward Networks**
@@ -375,6 +385,10 @@ date: 2015-10-09
 
 [https://arxiv.org/abs/1708.07120](https://arxiv.org/abs/1708.07120)
 
+**Improving the way we work with learning rate.**
+
+[https://medium.com/@bushaev/improving-the-way-we-work-with-learning-rate-5e99554f163b](https://medium.com/@bushaev/improving-the-way-we-work-with-learning-rate-5e99554f163b)
+
 # Convolution Filters
 
 **Non-linear Convolution Filters for CNN-based Learning**
@@ -433,7 +447,7 @@ date: 2015-10-09
 - blog: [https://medium.com/@singlasahil14/a-new-kind-of-pooling-layer-for-faster-and-sharper-convergence-1043c756a221](https://medium.com/@singlasahil14/a-new-kind-of-pooling-layer-for-faster-and-sharper-convergence-1043c756a221)
 - github: [https://github.com/singlasahil14/sortpool2d](https://github.com/singlasahil14/sortpool2d)
 
-# Batch
+# Batch Size
 
 **Online Batch Selection for Faster Training of Neural Networks**
 
@@ -458,6 +472,16 @@ date: 2015-10-09
 **ImageNet Training in 24 Minutes**
 
 [https://arxiv.org/abs/1709.05011](https://arxiv.org/abs/1709.05011)
+
+**Don't Decay the Learning Rate, Increase the Batch Size**
+
+- intro: Google Brain
+- arxiv: [https://arxiv.org/abs/1711.00489](https://arxiv.org/abs/1711.00489)
+
+**Extremely Large Minibatch SGD: Training ResNet-50 on ImageNet in 15 Minutes**
+
+- intro: NIPS 2017 Workshop: Deep Learning at Supercomputer Scale
+- arxiv: [https://arxiv.org/abs/1711.04325](https://arxiv.org/abs/1711.04325)
 
 # Optimization Methods
 
@@ -599,6 +623,10 @@ date: 2015-10-09
 
 - blog: [https://medium.com/@cristina_scheau/regularization-in-deep-learning-f649a45d6e0#.py327hkuv](https://medium.com/@cristina_scheau/regularization-in-deep-learning-f649a45d6e0#.py327hkuv)
 - github: [https://github.com/cscheau/Examples/blob/master/iris_l1_l2.py](https://github.com/cscheau/Examples/blob/master/iris_l1_l2.py)
+
+**LDMNet: Low Dimensional Manifold Regularized Neural Networks**
+
+[https://arxiv.org/abs/1711.06246](https://arxiv.org/abs/1711.06246)
 
 ## Dropout
 
@@ -785,6 +813,13 @@ date: 2015-10-09
 
 - blog: [http://machinelearningmastery.com/adam-optimization-algorithm-for-deep-learning/](http://machinelearningmastery.com/adam-optimization-algorithm-for-deep-learning/)
 
+**Understanding Generalization and Stochastic Gradient Descent**
+
+**A Bayesian Perspective on Generalization and Stochastic Gradient Descent**
+
+- intro: Google Brain
+- arxiv: [https://arxiv.org/abs/1710.06451](https://arxiv.org/abs/1710.06451)
+
 ## AdaGrad
 
 **Adaptive Subgradient Methods for Online Learning and Stochastic Optimization**
@@ -943,12 +978,30 @@ date: 2015-10-09
 
 [https://arxiv.org/abs/1709.01643](https://arxiv.org/abs/1709.01643)
 
+**Data Augmentation in Classification using GAN**
+
+[https://arxiv.org/abs/1711.00648](https://arxiv.org/abs/1711.00648)
+
+**Data Augmentation Generative Adversarial Networks**
+
+[https://arxiv.org/abs/1711.04340](https://arxiv.org/abs/1711.04340)
+
+**Random Erasing Data Augmentation**
+
+- arxiv: [https://arxiv.org/abs/1708.04896](https://arxiv.org/abs/1708.04896)
+- github: [https://github.com/zhunzhong07/Random-Erasing](https://github.com/zhunzhong07/Random-Erasing)
+
 ## Imbalanced Datasets
 
 **Investigation on handling Structured & Imbalanced Datasets with Deep Learning**
 
 - intro: smote resampling, cost sensitive learning
 - blog: [https://www.analyticsvidhya.com/blog/2016/10/investigation-on-handling-structured-imbalanced-datasets-with-deep-learning/](https://www.analyticsvidhya.com/blog/2016/10/investigation-on-handling-structured-imbalanced-datasets-with-deep-learning/)
+
+**A systematic study of the class imbalance problem in convolutional neural networks**
+
+- intro: Duke University & Royal Institute of Technology (KTH)
+- arxiv: [https://arxiv.org/abs/1710.05381](https://arxiv.org/abs/1710.05381)
 
 # Low Numerical Precision
 

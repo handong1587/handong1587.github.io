@@ -102,6 +102,8 @@ date: 2015-10-09
 - github: [https://github.com/CharlesShang/TFFRCNN](https://github.com/CharlesShang/TFFRCNN)
 - github(C++ demo): [https://github.com/YihangLou/FasterRCNN-Encapsulation-Cplusplus](https://github.com/YihangLou/FasterRCNN-Encapsulation-Cplusplus)
 - github: [https://github.com/yhenon/keras-frcnn](https://github.com/yhenon/keras-frcnn)
+- github: [https://github.com/Eniac-Xie/faster-rcnn-resnet](https://github.com/Eniac-Xie/faster-rcnn-resnet)
+ -github(C++): [https://github.com/D-X-Y/caffe-faster-rcnn/tree/dev](https://github.com/D-X-Y/caffe-faster-rcnn/tree/dev)
 
 **Faster R-CNN in MXNet with distributed implementation and data parallelization**
 
@@ -118,6 +120,11 @@ date: 2015-10-09
 - intro: Technical Report, 3 pages. CMU
 - arxiv: [https://arxiv.org/abs/1702.02138](https://arxiv.org/abs/1702.02138)
 - github: [https://github.com/endernewton/tf-faster-rcnn](https://github.com/endernewton/tf-faster-rcnn)
+
+**Interpretable R-CNN**
+
+- intro: AND-OR Graph (AOG)
+- arxiv: [https://arxiv.org/abs/1711.05226](https://arxiv.org/abs/1711.05226)
 
 - - -
 
@@ -325,6 +332,7 @@ date: 2015-10-09
 
 - intro: UNC Chapel Hill & Amazon Inc
 - arxiv: [https://arxiv.org/abs/1701.06659](https://arxiv.org/abs/1701.06659)
+- github: [https://github.com/chengyangfu/caffe/tree/dssd](https://github.com/chengyangfu/caffe/tree/dssd)
 - demo: [http://120.52.72.53/www.cs.unc.edu/c3pr90ntc0td/~cyfu/dssd_lalaland.mp4](http://120.52.72.53/www.cs.unc.edu/c3pr90ntc0td/~cyfu/dssd_lalaland.mp4)
 
 **Context-aware Single-Shot Detector**
@@ -504,7 +512,7 @@ Continuation of [arXiv:1608.08021](https://arxiv.org/abs/1608.08021)
 
 **Speed/accuracy trade-offs for modern convolutional object detectors**
 
-- intro: Google Research
+- intro: CVPR 2017. Google Research
 - arxiv: [https://arxiv.org/abs/1611.10012](https://arxiv.org/abs/1611.10012)
 
 **SqueezeDet: Unified, Small, Low Power Fully Convolutional Neural Networks for Real-Time Object Detection for Autonomous Driving**
@@ -610,6 +618,11 @@ Continuation of [arXiv:1608.08021](https://arxiv.org/abs/1608.08021)
 - arxiv: [https://arxiv.org/abs/1707.01691](https://arxiv.org/abs/1707.01691)
 - github: [https://github.com/taokong/RON](https://github.com/taokong/RON)
 
+**Mimicking Very Efficient Network for Object Detection**
+
+- intro: CVPR 2017. SenseTime & Beihang University
+- paper: [http://openaccess.thecvf.com/content_cvpr_2017/papers/Li_Mimicking_Very_Efficient_CVPR_2017_paper.pdf](http://openaccess.thecvf.com/content_cvpr_2017/papers/Li_Mimicking_Very_Efficient_CVPR_2017_paper.pdf)
+
 **Residual Features and Unified Prediction Network for Single Stage Detection**
 
 [https://arxiv.org/abs/1707.05031](https://arxiv.org/abs/1707.05031)
@@ -659,6 +672,15 @@ Continuation of [arXiv:1608.08021](https://arxiv.org/abs/1608.08021)
 **StairNet: Top-Down Semantic Aggregation for Accurate One Shot Detection**
 
 [https://arxiv.org/abs/1709.05788](https://arxiv.org/abs/1709.05788)
+
+**Dynamic Zoom-in Network for Fast Object Detection in Large Images**
+
+[https://arxiv.org/abs/1711.05187](https://arxiv.org/abs/1711.05187)
+
+**Zero-Annotation Object Detection with Web Knowledge Transfer**
+
+- keywords: multi-instance multi-label domain adaption learning framework
+- arxiv: [https://arxiv.org/abs/1711.05954](https://arxiv.org/abs/1711.05954)
 
 ## NMS
 
@@ -778,6 +800,10 @@ Continuation of [arXiv:1608.08021](https://arxiv.org/abs/1608.08021)
 
 - intro: ICCV 2017
 - arxiv: [https://arxiv.org/abs/1708.00666](https://arxiv.org/abs/1708.00666)
+
+**Mobile Video Object Detection with Temporally-Aware Feature Maps**
+
+[https://arxiv.org/abs/1711.06368](https://arxiv.org/abs/1711.06368)
 
 # Object Detection in 3D
 
@@ -1014,6 +1040,10 @@ This task involves predicting the salient regions of an image given by human eye
 - intro: ICCV
 - arxiv: [https://arxiv.org/abs/1708.01956](https://arxiv.org/abs/1708.01956)
 
+**Natural Language Guided Visual Relationship Detection**
+
+[https://arxiv.org/abs/1711.06032](https://arxiv.org/abs/1711.06032)
+
 # Specific Object Deteciton
 
 **Deep Deformation Network for Object Landmark Localization**
@@ -1087,6 +1117,16 @@ This task involves predicting the salient regions of an image given by human eye
 **Fast Shadow Detection from a Single Image Using a Patched Convolutional Neural Network**
 
 [https://arxiv.org/abs/1709.09283](https://arxiv.org/abs/1709.09283)
+
+**VPGNet: Vanishing Point Guided Network for Lane and Road Marking Detection and Recognition**
+
+- intro: ICCV 2017
+- arxiv: [https://arxiv.org/abs/1710.06288](https://arxiv.org/abs/1710.06288)
+- github: [https://github.com/SeokjuLee/VPGNet](https://github.com/SeokjuLee/VPGNet)
+
+**Grab, Pay and Eat: Semantic Food Detection for Smart Restaurants**
+
+[https://arxiv.org/abs/1711.05128](https://arxiv.org/abs/1711.05128)
 
 ## Face Deteciton
 
@@ -1505,8 +1545,10 @@ This task involves predicting the salient regions of an image given by human eye
 
 **CASENet: Deep Category-Aware Semantic Edge Detection**
 
-- intro: CVPR 2017
+- intro: CVPR 2017. CMU & Mitsubishi Electric Research Laboratories (MERL)
 - arxiv: [https://arxiv.org/abs/1705.09759](https://arxiv.org/abs/1705.09759)
+- code: [http://www.merl.com/research/license#CASENet](http://www.merl.com/research/license#CASENet)
+- video: [https://www.youtube.com/watch?v=BNE1hAP6Qho](https://www.youtube.com/watch?v=BNE1hAP6Qho)
 
 ## Skeleton Detection
 

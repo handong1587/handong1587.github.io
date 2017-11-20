@@ -248,11 +248,20 @@ date: 2015-10-09
 - arxiv: [https://arxiv.org/abs/1704.03971](https://arxiv.org/abs/1704.03971)
 - github: [https://github.com/stormraiser/GAN-weight-norm](https://github.com/stormraiser/GAN-weight-norm)
 
+**Controllable Generative Adversarial Network**
+
+- intro: Korea University
+- arxiv: [https://arxiv.org/abs/1708.00598](https://arxiv.org/abs/1708.00598)
+
 **Generative Adversarial Networks: An Overview**
 
 - intro: Imperial College London & Victoria University of Wellington & University of Montreal & Cortexica Vision Systems Ltd
 - intro: IEEE Signal Processing Magazine Special Issue on Deep Learning for Visual Understanding
 - arxiv: [https://arxiv.org/abs/1710.07035](https://arxiv.org/abs/1710.07035)
+
+**CyCADA: Cycle-Consistent Adversarial Domain Adaptation**
+
+[https://arxiv.org/abs/1711.03213](https://arxiv.org/abs/1711.03213)
 
 ## Image-to-Image Translation
 
@@ -309,6 +318,10 @@ date: 2015-10-09
 **Perceptual Adversarial Networks for Image-to-Image Transformation**
 
 [https://arxiv.org/abs/1706.09138](https://arxiv.org/abs/1706.09138)
+
+**XGAN: Unsupervised Image-to-Image Translation for many-to-many Mappings**
+
+[https://arxiv.org/abs/1711.05139](https://arxiv.org/abs/1711.05139)
 
 # Projects
 
@@ -395,6 +408,11 @@ date: 2015-10-09
 - youtube: [https://www.youtube.com/watch?v=mObnwR-u8pc](https://www.youtube.com/watch?v=mObnwR-u8pc)
 
 # Resources
+
+**The GAN Zoo**
+
+- intro: A list of all named GANs!
+- github: [https://github.com/hindupuravinash/the-gan-zoo](https://github.com/hindupuravinash/the-gan-zoo)
 
 **AdversarialNetsPapers: The classical Papers about adversial nets**
 

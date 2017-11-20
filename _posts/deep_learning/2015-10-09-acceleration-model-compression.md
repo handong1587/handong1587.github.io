@@ -261,11 +261,6 @@ while maintaining state-of-the-art accuracy. For GoogLeNet, our model has 7% few
 - intro: Intel Labs
 - arxiv: [https://arxiv.org/abs/1610.00324](https://arxiv.org/abs/1610.00324)
 
-**Deep Model Compression: Distilling Knowledge from Noisy Teachers**
-
-- arxiv: [https://arxiv.org/abs/1610.09650](https://arxiv.org/abs/1610.09650)
-- github: [https://github.com/chengshengchan/model_compression](https://github.com/chengshengchan/model_compression)](- github: [https://github.com/chengshengchan/model_compression](https://github.com/chengshengchan/model_compression)
-
 **Fixed-point Factorized Networks**
 
 - arxiv: [https://arxiv.org/abs/1611.01972](https://arxiv.org/abs/1611.01972)
@@ -400,6 +395,10 @@ at INT8 deep learning operations than other FPGA DSP architectures"
 - intro: ICML 2017
 - arxiv: [https://arxiv.org/abs/1706.06873](https://arxiv.org/abs/1706.06873)
 
+**Data-Driven Sparse Structure Selection for Deep Neural Networks**
+
+[https://arxiv.org/abs/1707.01213](https://arxiv.org/abs/1707.01213)
+
 **Extremely Low Bit Neural Network: Squeeze the Last Bit Out with ADMM**
 
 - intro: Alibaba Group
@@ -439,6 +438,15 @@ at INT8 deep learning operations than other FPGA DSP architectures"
 - intro: IEEE Signal Processing Magazine. IBM Thoms J. Watson Research Center & Tsinghua University & Huazhong University of Science and Technology
 - arxiv: [https://arxiv.org/abs/1710.09282](https://arxiv.org/abs/1710.09282)
 
+**Compression-aware Training of Deep Networks**
+
+- intro: NIPS 2017
+- arxiv: [https://arxiv.org/abs/1711.02638](https://arxiv.org/abs/1711.02638)
+
+**Training Simplification and Model Simplification for Deep Learning: A Minimal Effort Back Propagation Method**
+
+[https://arxiv.org/abs/1711.06528](https://arxiv.org/abs/1711.06528)
+
 # Pruning
 
 **ThiNet: A Filter Level Pruning Method for Deep Neural Network Compression**
@@ -461,7 +469,11 @@ at INT8 deep learning operations than other FPGA DSP architectures"
 
 [https://arxiv.org/abs/1708.02439](https://arxiv.org/abs/1708.02439)
 
-## Quantized Neural Networks
+**NISP: Pruning Networks using Neuron Importance Score Propagation**
+
+[https://arxiv.org/abs/1711.05908](https://arxiv.org/abs/1711.05908)
+
+# Quantized Neural Networks
 
 **Quantized Convolutional Neural Networks for Mobile Devices**
 
@@ -481,7 +493,7 @@ at INT8 deep learning operations than other FPGA DSP architectures"
 - intro: the top-5 error rate of 4-bit quantized GoogLeNet model is 12.7%
 - arxiv: [https://arxiv.org/abs/1706.07145](https://arxiv.org/abs/1706.07145)
 
-## Binary Convolutional Neural Networks / Binarized Neural Networks
+# Binary Convolutional Neural Networks / Binarized Neural Networks
 
 **BinaryNet: Training Deep Neural Networks with Weights and Activations Constrained to +1 or -1**
 
@@ -526,7 +538,7 @@ at INT8 deep learning operations than other FPGA DSP architectures"
 
 [https://arxiv.org/abs/1709.02260](https://arxiv.org/abs/1709.02260)
 
-## Accelerating / Fast Algorithms
+# Accelerating / Fast Algorithms
 
 **Fast Algorithms for Convolutional Neural Networks**
 
@@ -562,7 +574,11 @@ at INT8 deep learning operations than other FPGA DSP architectures"
 - intro: ICCV 2017
 - arxiv: [https://arxiv.org/abs/1708.06519](https://arxiv.org/abs/1708.06519)
 
-## Knowledge Distilling / Knowledge Transfer
+**SparCE: Sparsity aware General Purpose Core Extensions to Accelerate Deep Neural Networks**
+
+[https://arxiv.org/abs/1711.06315](https://arxiv.org/abs/1711.06315)
+
+# Knowledge Distilling / Knowledge Transfer
 
 **Distilling the Knowledge in a Neural Network**
 
@@ -571,6 +587,11 @@ at INT8 deep learning operations than other FPGA DSP architectures"
 - arxiv: [http://arxiv.org/abs/1503.02531](http://arxiv.org/abs/1503.02531)
 - blog: [http://fastml.com/geoff-hintons-dark-knowledge/](http://fastml.com/geoff-hintons-dark-knowledge/)
 - notes: [https://github.com/dennybritz/deeplearning-papernotes/blob/master/notes/distilling-the-knowledge-in-a-nn.md](https://github.com/dennybritz/deeplearning-papernotes/blob/master/notes/distilling-the-knowledge-in-a-nn.md)
+
+**Deep Model Compression: Distilling Knowledge from Noisy Teachers**
+
+- arxiv: [https://arxiv.org/abs/1610.09650](https://arxiv.org/abs/1610.09650)
+- github: [https://github.com/chengshengchan/model_compression](https://github.com/chengshengchan/model_compression)](- github: [https://github.com/chengshengchan/model_compression](https://github.com/chengshengchan/model_compression)
 
 **Like What You Like: Knowledge Distill via Neuron Selectivity Transfer**
 
@@ -595,7 +616,15 @@ at INT8 deep learning operations than other FPGA DSP architectures"
 
 [https://arxiv.org/abs/1710.09505](https://arxiv.org/abs/1710.09505)
 
-## Code Optimization
+**Moonshine: Distilling with Cheap Convolutions**
+
+[https://arxiv.org/abs/1711.02613](https://arxiv.org/abs/1711.02613)
+
+**model_compression: Implementation of model compression with knowledge distilling method**
+
+- github: [https://github.com/chengshengchan/model_compression](https://github.com/chengshengchan/model_compression)
+
+# Code Optimization
 
 **Production Deep Learning with NVIDIA GPU Inference Engine**
 
@@ -647,10 +676,6 @@ at INT8 deep learning operations than other FPGA DSP architectures"
 **CACU: Calculate deep convolution neurAl network on Cell Unit**
 
 - github: [https://github.com/luhaofang/CACU](https://github.com/luhaofang/CACU)
-
-**model_compression: Implementation of model compression with knowledge distilling method**
-
-- github: [https://github.com/chengshengchan/model_compression](https://github.com/chengshengchan/model_compression)
 
 **keras_compressor: Model Compression CLI Tool for Keras**
 

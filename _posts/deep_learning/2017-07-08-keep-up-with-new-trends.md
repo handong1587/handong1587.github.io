@@ -5,6 +5,10 @@ title: Keep Up With New Trends
 date: 2017-07-08
 ---
 
+**ComputerVisionFoundation Videos**
+
+[https://www.youtube.com/channel/UC0n76gicaarsN_Y9YShWwhw/playlists](https://www.youtube.com/channel/UC0n76gicaarsN_Y9YShWwhw/playlists)
+
 # ICCV 2017
 
 **ICCV 2017 open access**

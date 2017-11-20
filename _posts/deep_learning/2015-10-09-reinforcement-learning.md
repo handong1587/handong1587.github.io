@@ -169,6 +169,11 @@ date: 2015-10-09
 - course page: [http://www.cs.mcgill.ca/~dprecup/courses/rl.html](http://www.cs.mcgill.ca/~dprecup/courses/rl.html)
 - lectures: [http://www.cs.mcgill.ca/~dprecup/courses/RL/lectures.html](http://www.cs.mcgill.ca/~dprecup/courses/RL/lectures.html)
 
+**Deep RL Bootcamp - 26-27 August 2017 | Berkeley CA**
+
+- lectures: [https://sites.google.com/view/deep-rl-bootcamp/lectures](https://sites.google.com/view/deep-rl-bootcamp/lectures)
+- video: [https://www.bilibili.com/video/av15568836/](https://www.bilibili.com/video/av15568836/)
+
 # Papers
 
 **Playing Atari with Deep Reinforcement Learning**
@@ -748,6 +753,11 @@ The project is dedicated to hero in life great Jesse Livermore.
 
 [https://github.com/ShangtongZhang/DeepRL](https://github.com/ShangtongZhang/DeepRL)
 
+**Self-Driving-Car-AI**
+
+- intro: A simple self-driving car AI python script using the deep Q-learning algorithm
+- github: [https://github.com//JianyangZhang/Self-Driving-Car-AI](https://github.com//JianyangZhang/Self-Driving-Car-AI)
+
 ## Play Flappy Bird
 
 **Using Deep Q-Network to Learn How To Play Flappy Bird**
@@ -815,6 +825,12 @@ The project is dedicated to hero in life great Jesse Livermore.
 - intro: Atari gauntlet for RL agents
 - project page: [http://ai-on.org/projects/multitask-and-transfer-learning.html](http://ai-on.org/projects/multitask-and-transfer-learning.html)
 - github: [https://github.com/deontologician/atari_multitask](https://github.com/deontologician/atari_multitask)
+
+**Coach: a python reinforcement learning research framework containing implementation of many state-of-the-art algorithms**
+
+- intro: Reinforcement Learning Coach by Intel® Nervana™ enables easy experimentation with state of the art Reinforcement Learning algorithms
+- homepage: [http://coach.nervanasys.com/](http://coach.nervanasys.com/)
+- github: [https://github.com/NervanaSystems/coach](https://github.com/NervanaSystems/coach)
 
 # Blogs
 

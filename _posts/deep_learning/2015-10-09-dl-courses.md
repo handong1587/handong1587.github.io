@@ -129,6 +129,12 @@ date: 2015-10-09
 
 [http://www.cs.toronto.edu/~rgrosse/courses/csc321_2017/](http://www.cs.toronto.edu/~rgrosse/courses/csc321_2017/)
 
+**Theories of Deep Learning (STATS 385)**
+
+- homepage: [https://stats385.github.io/](https://stats385.github.io/)
+- video: [https://www.researchgate.net/project/Theories-of-Deep-Learning](https://www.researchgate.net/project/Theories-of-Deep-Learning)
+- mirror: [https://www.bilibili.com/video/av16136625/](https://www.bilibili.com/video/av16136625/)
+
 ## With Video Lectures
 
 **Deep Learning: Taking machine learning to the next level (Udacity)**
@@ -310,6 +316,14 @@ such as image classification, object detection or text captioning.
 **Intro to Parallel Programming Using CUDA to Harness the Power of GPUs (Udacity)**
 
 [https://www.udacity.com/course/intro-to-parallel-programming--cs344](https://www.udacity.com/course/intro-to-parallel-programming--cs344)
+
+# Workshops
+
+**Deep Learning: Theory, Algorithms, and Applications**
+
+- homepage: [http://doc.ml.tu-berlin.de/dlworkshop2017/](http://doc.ml.tu-berlin.de/dlworkshop2017/)
+- video: [https://www.youtube.com/playlist?list=PLJOzdkh8T5kqCNV_v1w2tapvtJDZYiohW](https://www.youtube.com/playlist?list=PLJOzdkh8T5kqCNV_v1w2tapvtJDZYiohW)
+- mirror: [https://www.bilibili.com/video/av15565354/](https://www.bilibili.com/video/av15565354/)
 
 # Resources
 

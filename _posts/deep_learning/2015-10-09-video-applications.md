@@ -455,6 +455,11 @@ extract saptio-temporal features to represent the video using the CNNs."
 
 [https://arxiv.org/abs/1710.03383](https://arxiv.org/abs/1710.03383)
 
+**End-to-end Video-level Representation Learning for Action Recognition**
+
+- keywords: Deep networks with Temporal Pyramid Pooling (DTPP)
+- arxiv: [https://arxiv.org/abs/1711.04161](https://arxiv.org/abs/1711.04161)
+
 ### Projects
 
 **A Torch Library for Action Recognition and Detection Using CNNs and LSTMs**

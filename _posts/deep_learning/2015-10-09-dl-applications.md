@@ -151,10 +151,6 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 
 - arxiv: [https://www.arxiv.org/abs/1703.00586](https://www.arxiv.org/abs/1703.00586)
 
-**Learning Two-Branch Neural Networks for Image-Text Matching Tasks**
-
-[https://arxiv.org/abs/1704.03470](https://arxiv.org/abs/1704.03470)
-
 **Image operator learning coupled with CNN classification and its application to staff line removal**
 
 - intro: ICDAR 2017
@@ -172,6 +168,16 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 - intro: ICCV 2017
 - arxiv: [https://arxiv.org/abs/1704.02470](https://arxiv.org/abs/1704.02470)
 - github: [https://github.com/aiff22/DPED](https://github.com/aiff22/DPED)
+
+# Image-Text
+
+**Learning Two-Branch Neural Networks for Image-Text Matching Tasks**
+
+[https://arxiv.org/abs/1704.03470](https://arxiv.org/abs/1704.03470)
+
+**Dual-Path Convolutional Image-Text Embedding**
+
+[https://arxiv.org/abs/1711.05535](https://arxiv.org/abs/1711.05535)
 
 # Age Estimation
 
@@ -677,6 +683,11 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 
 [https://arxiv.org/abs/1710.09757](https://arxiv.org/abs/1710.09757)
 
+**Crowd counting via scale-adaptive convolutional neural network**
+
+- intro: Tencent Youtu Lab
+- arxiv: [https://arxiv.org/abs/1711.04433](https://arxiv.org/abs/1711.04433)
+
 # Activity Recognition
 
 **Implementing a CNN for Human Activity Recognition in Tensorflow**
@@ -802,8 +813,11 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 
 **Semantic Image Inpainting with Perceptual and Contextual Losses**
 
+**Semantic Image Inpainting with Deep Generative Models**
+
 - keywords: Deep Convolutional Generative Adversarial Network (DCGAN)
 - arxiv: [http://arxiv.org/abs/1607.07539](http://arxiv.org/abs/1607.07539)
+- github: [https://github.com/bamos/dcgan-completion.tensorflow](https://github.com/bamos/dcgan-completion.tensorflow)
 
 **High-Resolution Image Inpainting using Multi-Scale Neural Patch Synthesis**
 
@@ -861,6 +875,10 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 
 - intro: NIPS 2017
 - arxiv: [https://arxiv.org/abs/1709.03749](https://arxiv.org/abs/1709.03749)
+
+**xUnit: Learning a Spatial Activation Function for Efficient Image Restoration**
+
+[https://arxiv.org/abs/1711.06445](https://arxiv.org/abs/1711.06445)
 
 # Image Super-Resolution
 
@@ -1058,6 +1076,20 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 **CISRDCNN: Super-resolution of compressed images using deep convolutional neural networks**
 
 [https://arxiv.org/abs/1709.06229](https://arxiv.org/abs/1709.06229)
+
+**Deep Inception-Residual Laplacian Pyramid Networks for Accurate Single Image Super-Resolution**
+
+- intro: Chongqing University
+- arxiv: [https://arxiv.org/abs/1711.05431](https://arxiv.org/abs/1711.05431)
+
+**D-PCN: Parallel Convolutional Neural Networks for Image Recognition in Reverse Adversarial Style**
+
+{https://arxiv.org/abs/1711.04237}(https://arxiv.org/abs/1711.04237)
+
+**CT-SRCNN: Cascade Trained and Trimmed Deep Convolutional Neural Networks for Image Super Resolution**
+
+- intro: IEEE Winter Conf. on Applications of Computer Vision (WACV) 2018, Lake Tahoe, USA
+- arxiv: [https://arxiv.org/abs/1711.04048](https://arxiv.org/abs/1711.04048)
 
 ## Video Super-resolution
 
@@ -1564,6 +1596,10 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 - intro: University of Illinois at Urbana-Champaign & The Chinese University of Hong Kong & Google
 - arxiv: [https://arxiv.org/abs/1611.09961](https://arxiv.org/abs/1611.09961)
 
+**Language-Based Image Editing with Recurrent Attentive Models**
+
+[https://arxiv.org/abs/1711.06288](https://arxiv.org/abs/1711.06288)
+
 ## Face Swap
 
 **Fast Face-swap Using Convolutional Neural Networks**
@@ -1609,6 +1645,13 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 
 [https://arxiv.org/abs/1705.04641](https://arxiv.org/abs/1705.04641)
 
+**Attentional Pooling for Action Recognition**
+
+- intro: NIPS 2017
+- project page: [https://rohitgirdhar.github.io/AttentionalPoolingAction/](https://rohitgirdhar.github.io/AttentionalPoolingAction/)
+- arxiv: [https://arxiv.org/abs/1711.01467](https://arxiv.org/abs/1711.01467)
+- github: [https://github.com/rohitgirdhar/AttentionalPoolingAction/](https://github.com/rohitgirdhar/AttentionalPoolingAction/)
+
 # CTR Prediction
 
 **Deep CTR Prediction in Display Advertising**
@@ -1623,8 +1666,13 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 
 **Deep Interest Network for Click-Through Rate Prediction**
 
-- intro: Alibaba
+- intro: Alibaba Inc.
 - arxiv: [https://arxiv.org/abs/1706.06978](https://arxiv.org/abs/1706.06978)
+
+**Image Matters: Jointly Train Advertising CTR Model with Image Representation of Ad and User Behavior**
+
+- intro: Alibaba Inc.
+- arxiv: [https://arxiv.org/abs/1711.06505](https://arxiv.org/abs/1711.06505)
 
 # Cryptography
 

@@ -300,6 +300,10 @@ and from 73.8% to 83.1% for ResNet-50
 - intro: ACM Multimedia 2017 (Oral)
 - arxiv: [https://arxiv.org/abs/1709.09106](https://arxiv.org/abs/1709.09106)
 
+**Look, Imagine and Match: Improving Textual-Visual Cross-Modal Retrieval with Generative Models**
+
+[https://arxiv.org/abs/1711.06420](https://arxiv.org/abs/1711.06420)
+
 # Hashing
 
 **Supervised Hashing for Image Retrieval via Image Representation Learning**
@@ -442,6 +446,10 @@ and from 73.8% to 83.1% for ResNet-50
 - intro: ACM Multimedia 2017
 - arxiv: [https://arxiv.org/abs/1708.05127](https://arxiv.org/abs/1708.05127)
 
+**A Revisit on Deep Hashings for Large-scale Content Based Image Retrieval**
+
+[https://arxiv.org/abs/1711.06016](https://arxiv.org/abs/1711.06016)
+
 ## Projects
 
 **HABIR哈希图像检索工具箱**
@@ -515,6 +523,14 @@ and from 73.8% to 83.1% for ResNet-50
 - slides: [http://tce.technion.ac.il/wp-content/uploads/sites/8/2016/01/Elad-Hofer.pdf](http://tce.technion.ac.il/wp-content/uploads/sites/8/2016/01/Elad-Hofer.pdf)
 - github: [https://github.com/eladhoffer/TripletNet](https://github.com/eladhoffer/TripletNet)
 
+**Hard-Aware Deeply Cascaded Embedding**
+
+- intro: ICCV 2017
+- arxiv: [https://arxiv.org/abs/1611.05720](https://arxiv.org/abs/1611.05720)
+- paper: [http://openaccess.thecvf.com/content_ICCV_2017/papers/Yuan_Hard-Aware_Deeply_Cascaded_ICCV_2017_paper.pdf](http://openaccess.thecvf.com/content_ICCV_2017/papers/Yuan_Hard-Aware_Deeply_Cascaded_ICCV_2017_paper.pdf)
+- github: [https://github.com/PkuRainBow/Hard-Aware-Deeply-Cascaded-Embedding_release](https://github.com/PkuRainBow/Hard-Aware-Deeply-Cascaded-Embedding_release)
+- github: [https://github.com/PkuRainBow/Hard-Aware-Deeply-Cascaed-Embedding](https://github.com/PkuRainBow/Hard-Aware-Deeply-Cascaed-Embedding)
+
 **Learnable Structured Clustering Framework for Deep Metric Learning**
 
 - arxiv: [https://arxiv.org/abs/1612.01213](https://arxiv.org/abs/1612.01213)
@@ -526,6 +542,7 @@ and from 73.8% to 83.1% for ResNet-50
 - paper: [http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Song_Deep_Metric_Learning_CVPR_2016_paper.pdf](http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Song_Deep_Metric_Learning_CVPR_2016_paper.pdf)
 - paper: [http://cvgl.stanford.edu/papers/song_cvpr16.pdf](http://cvgl.stanford.edu/papers/song_cvpr16.pdf)
 - github: [https://github.com/rksltnl/Deep-Metric-Learning-CVPR16](https://github.com/rksltnl/Deep-Metric-Learning-CVPR16)
+- github: [https://github.com/rksltnl/Caffe-Deep-Metric-Learning-CVPR16](https://github.com/rksltnl/Caffe-Deep-Metric-Learning-CVPR16)
 - dataset: [ftp://cs.stanford.edu/cs/cvgl/Stanford_Online_Products.zip](ftp://cs.stanford.edu/cs/cvgl/Stanford_Online_Products.zip)
 
 **Cross-modal Deep Metric Learning with Multi-task Regularization**

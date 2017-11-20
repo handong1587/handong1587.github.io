@@ -135,6 +135,11 @@ date: 2015-10-09
 - homepage: [http://cogprints.org/5869/](http://cogprints.org/5869/)
 - paper: [http://cogprints.org/5869/1/cnn_tutorial.pdf](http://cogprints.org/5869/1/cnn_tutorial.pdf)
 
+**Feed Forward and Backward Run in Deep Convolution Neural Network**
+
+- intro: 20th International Conference on Computer Vision and Image Processing
+- arxiv: [https://arxiv.org/abs/1711.03278](https://arxiv.org/abs/1711.03278)
+
 **Convolutional Networks**
 
 [http://deeplearning4j.org/convolutionalnets.html](http://deeplearning4j.org/convolutionalnets.html)
@@ -698,6 +703,10 @@ Machine learning workflow, Extracting feaures from images (colours, edges, corne
 
 - intro: M. Malinowski. Max Planck Institut Informatik
 - slides: [http://download.mpi-inf.mpg.de/d2/mmalinow-slides/attention_networks.pdf](http://download.mpi-inf.mpg.de/d2/mmalinow-slides/attention_networks.pdf)
+
+**Attention in Neural Networks and How to Use It**
+
+[http://akosiorek.github.io/ml/2017/10/14/visual-attention.html](http://akosiorek.github.io/ml/2017/10/14/visual-attention.html)
 
 # Caffe
 

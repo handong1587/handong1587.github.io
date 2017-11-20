@@ -102,6 +102,16 @@ date: 2015-10-09
 
 [https://arxiv.org/abs/1709.09890](https://arxiv.org/abs/1709.09890)
 
+**Learning Transferable Architectures for Scalable Image Recognition**
+
+- intro: Google Brain
+- keywords: Neural Architecture Search
+- arxiv: [https://arxiv.org/abs/1707.07012](https://arxiv.org/abs/1707.07012)
+
+**AOGNets: Deep AND-OR Grammar Networks for Visual Recognition**
+
+[https://arxiv.org/abs/1711.05847](https://arxiv.org/abs/1711.05847)
+
 # Multi-object Recognition
 
 **Multiple Object Recognition with Visual Attention**
@@ -126,6 +136,16 @@ date: 2015-10-09
 **Order-Free RNN with Visual Attention for Multi-Label Classification**
 
 [https://arxiv.org/abs/1707.05495](https://arxiv.org/abs/1707.05495)
+
+**Learning Social Image Embedding with Deep Multimodal Attention Networks**
+
+- intro: Beihang University & Microsoft Research
+- arxiv: [https://arxiv.org/abs/1710.06582](https://arxiv.org/abs/1710.06582)
+
+**Multi-label Image Recognition by Recurrently Discovering Attentional Regions**
+
+- intro: ICCV 2017
+- arxiv: [https://arxiv.org/abs/1711.02816](https://arxiv.org/abs/1711.02816)
 
 # Face Recognition
 
@@ -187,7 +207,7 @@ date: 2015-10-09
 
 **FaceNet: A Unified Embedding for Face Recognition and Clustering**
 
-- intro: Google. CVPR 2015
+- intro: Google Inc. CVPR 2015
 - arxiv: [http://arxiv.org/abs/1503.03832](http://arxiv.org/abs/1503.03832)
 - github(Tensorflow): [https://github.com/davidsandberg/facenet](https://github.com/davidsandberg/facenet)
 - github(Caffe): [https://github.com/hizhangp/triplet](https://github.com/hizhangp/triplet)

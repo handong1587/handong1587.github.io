@@ -268,6 +268,12 @@ testing it on the MNIST handwritten digits data.
 
 - arxiv: [https://arxiv.org/abs/1701.04949](https://arxiv.org/abs/1701.04949)
 
+**Deep Matching Autoencoders**
+
+- intro: University of Edinburgh & RIKEN AIP
+- keywords: Deep Matching Autoencoders (DMAE)
+- arxiv: [https://arxiv.org/abs/1711.06047](https://arxiv.org/abs/1711.06047)
+
 # RBM (Restricted Boltzmann Machine)
 
 ## Papers

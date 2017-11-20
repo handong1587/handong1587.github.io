@@ -43,6 +43,19 @@ compress:   sEx a FileName.* FileName
 uncompress: sEx x FileName.*
 ```
 
+**unzip a tar gz archive to a specific destination**
+
+```
+cd /root/Desktop/folder
+tar xf /root/Documents/file.tar.gz
+```
+
+or:
+
+```
+tar xf file.tar.gz -C /root/Desktop/folder
+```
+
 ## Wiew a detailed table of contents for an archive
 
 |file type    |  view contents cmd                  |
@@ -64,6 +77,7 @@ uncompress: sEx x FileName.*
 | Print pid info                                    | ps aux \| grep 'target_pid' |
 | Print graphics card version                       | nvcc --version          |
 | Print graphics card GPU info                      | nvidia-smi              |
+| Print graphics card GPU info dynamically          | watch -n0.1 nvidia-smi  |
 | Print disk free space                             | df -h                   |
 |                                                   | df -hl                  |
 | Print current folder size                         | du -sh DIRNAME          |
@@ -546,6 +560,16 @@ gT            go to previous tab
 
 ```
 za
+```
+
+```
+vimdiff file1 file2
+```
+
+Or After vimed file1:
+
+```
+:vert diffsplit file2
 ```
 
 # Matlab

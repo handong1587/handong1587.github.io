@@ -165,6 +165,16 @@ for Python, R, Java, Scala, C++ and more. Runs on single machine, Hadoop, Spark,
 - blog: [https://www.analyticsvidhya.com/blog/2016/03/complete-guide-parameter-tuning-xgboost-with-codes-python/](https://www.analyticsvidhya.com/blog/2016/03/complete-guide-parameter-tuning-xgboost-with-codes-python/)
 - zh-blog: [http://blog.csdn.net/u010657489/article/details/51952785](http://blog.csdn.net/u010657489/article/details/51952785)
 
+**LinXGBoost: Extension of XGBoost to Generalized Local Linear Models**
+
+- arxiv: [https://arxiv.org/abs/1710.03634](https://arxiv.org/abs/1710.03634)
+- github: [https://github.com/ldv1/LinXGBoost](https://github.com/ldv1/LinXGBoost)
+
+**Tree Boosting With XGBoost - Why Does XGBoost Win "Every" Machine Learning Competition?**
+
+- intro: Master thesis
+- thesis page: [https://brage.bibsys.no/xmlui/handle/11250/2433761](https://brage.bibsys.no/xmlui/handle/11250/2433761)
+
 ## LightGBM
 
 **LightGBM, Light Gradient Boosting Machine**

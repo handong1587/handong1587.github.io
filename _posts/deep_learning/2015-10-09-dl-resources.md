@@ -634,6 +634,10 @@ not just the convolutions)
 - intro: Aylien Ltd
 - arxiv: [https://arxiv.org/abs/1706.05098](https://arxiv.org/abs/1706.05098)
 
+**PackNet: Adding Multiple Tasks to a Single Network by Iterative Pruning**
+
+[https://arxiv.org/abs/1711.05769](https://arxiv.org/abs/1711.05769)
+
 # Multi-modal Learning
 
 **Multimodal Deep Learning**
@@ -823,6 +827,10 @@ not just the convolutions)
 **One pixel attack for fooling deep neural networks**
 
 [https://arxiv.org/abs/1710.08864](https://arxiv.org/abs/1710.08864)
+
+**Enhanced Attacks on Defensively Distilled Deep Neural Networks**
+
+[https://arxiv.org/abs/1711.05934](https://arxiv.org/abs/1711.05934)
 
 # Deep Learning Networks
 
@@ -1101,8 +1109,10 @@ with fast exact probabilistic inference over many layers."
 
 **Deformable Convolutional Networks**
 
-- intro: Microsoft Research Asia
+- intro: ICCV 2017 oral. Microsoft Research Asia
+- keywords: deformable convolution, deformable RoI pooling
 - arxiv: [https://arxiv.org/abs/1703.06211](https://arxiv.org/abs/1703.06211)
+- sliedes: [http://www.jifengdai.org/slides/Deformable_Convolutional_Networks_Oral.pdf](http://www.jifengdai.org/slides/Deformable_Convolutional_Networks_Oral.pdf)
 - github(official): [https://github.com/msracver/Deformable-ConvNets](https://github.com/msracver/Deformable-ConvNets)
 - github: [https://github.com/felixlaumon/deform-conv](https://github.com/felixlaumon/deform-conv)
 - github: [https://github.com/oeway/pytorch-deform-conv](https://github.com/oeway/pytorch-deform-conv)
@@ -1186,6 +1196,40 @@ with fast exact probabilistic inference over many layers."
 
 [https://arxiv.org/abs/1710.01691](https://arxiv.org/abs/1710.01691)
 
+**Generalization in Deep Learning**
+
+- intro: MIT & University of Montreal
+- arxiv: [https://arxiv.org/abs/1710.05468](https://arxiv.org/abs/1710.05468)
+
+**Do Convolutional Neural Networks Learn Class Hierarchy?**
+
+- intro: Bosch Research North America & Michigan State University
+- arxiv: [https://arxiv.org/abs/1710.06501](https://arxiv.org/abs/1710.06501)
+- video demo: [https://vimeo.com/228263798](https://vimeo.com/228263798)
+
+**Deep Hyperspherical Learning**
+
+- intro: NIPS 2017
+- arxiv: [https://arxiv.org/abs/1711.03189](https://arxiv.org/abs/1711.03189)
+
+**Beyond Sparsity: Tree Regularization of Deep Models for Interpretability**
+
+- intro: AAAI 2018
+- arxiv: [https://arxiv.org/abs/1711.06178](https://arxiv.org/abs/1711.06178)
+
+**Neural Motifs: Scene Graph Parsing with Global Context**
+
+- keywords: Stacked Motif Networks
+- arxiv: [https://arxiv.org/abs/1711.06640](https://arxiv.org/abs/1711.06640)
+
+**Priming Neural Networks**
+
+[https://arxiv.org/abs/1711.05918](https://arxiv.org/abs/1711.05918)
+
+**Three Factors Influencing Minima in SGD**
+
+[https://arxiv.org/abs/1711.04623](https://arxiv.org/abs/1711.04623)
+
 ## Interpretable Convolutional Neural Networks
 
 **Towards Interpretable Deep Neural Networks by Leveraging Adversarial Examples**
@@ -1196,6 +1240,11 @@ with fast exact probabilistic inference over many layers."
 **Interpretable Convolutional Neural Networks**
 
 [https://arxiv.org/abs/1710.00935](https://arxiv.org/abs/1710.00935)
+
+**Interpreting Convolutional Neural Networks Through Compression**
+
+- intro: NIPS 2017 Symposium on Interpretable Machine Learning
+- arxiv: [https://arxiv.org/abs/1711.02329](https://arxiv.org/abs/1711.02329)
 
 ## Highway Networks
 
@@ -1473,6 +1522,12 @@ with fast exact probabilistic inference over many layers."
 
 - arxiv: [https://arxiv.org/abs/1612.09007](https://arxiv.org/abs/1612.09007)
 
+## LBP
+
+**Deep Local Binary Patterns**
+
+[https://arxiv.org/abs/1711.06597](https://arxiv.org/abs/1711.06597)
+
 ## SVM
 
 **Large-scale Learning with SVM and Convolutional for Generic Object Categorization**
@@ -1717,6 +1772,15 @@ with fast exact probabilistic inference over many layers."
 
 - blog: [http://www.jakob-aungiers.com/articles/a/Multidimensional-LSTM-Networks-to-Predict-Bitcoin-Price](http://www.jakob-aungiers.com/articles/a/Multidimensional-LSTM-Networks-to-Predict-Bitcoin-Price)
 - github: [https://github.com/jaungiers/Multidimensional-LSTM-BitCoin-Time-Series](https://github.com/jaungiers/Multidimensional-LSTM-BitCoin-Time-Series)
+
+**Improving Factor-Based Quantitative Investing by Forecasting Company Fundamentals**
+
+- intro: Euclidean Technologies & Amazon AI
+- arxiv: [https://arxiv.org/abs/1711.04837](https://arxiv.org/abs/1711.04837)
+
+**Findings from our Research on Applying Deep Learning to Long-Term Investing**
+
+[http://www.euclidean.com/paper-on-deep-learning-long-term-investing](http://www.euclidean.com/paper-on-deep-learning-long-term-investing)
 
 # Deep Learning in Speech
 
@@ -2389,7 +2453,8 @@ It is based on Facebook's TorchCraft, which is a bridge between Torch and StarCr
 
 **Deep Mutual Learning**
 
-[https://arxiv.org/abs/1706.00384](https://arxiv.org/abs/1706.00384)
+- keywords: deep mutual learning (DML)
+- arxiv: [https://arxiv.org/abs/1706.00384](https://arxiv.org/abs/1706.00384)
 
 **Methods for Interpreting and Understanding Deep Neural Networks**
 
@@ -2572,6 +2637,15 @@ It is based on Facebook's TorchCraft, which is a bridge between Torch and StarCr
 - arxiv: [https://arxiv.org/abs/1704.08345](https://arxiv.org/abs/1704.08345)
 - github: [https://github.com/Elyorcv/SAE](https://github.com/Elyorcv/SAE)
 
+**Zero-Shot Learning via Category-Specific Visual-Semantic Mapping**
+
+[https://arxiv.org/abs/1711.06167](https://arxiv.org/abs/1711.06167)
+
+**Zero-Shot Learning via Class-Conditioned Deep Generative Models**
+
+- intro: AAAI 2018
+- arxiv: [https://arxiv.org/abs/1711.05820](https://arxiv.org/abs/1711.05820)
+
 ## One Shot Learning
 
 **One-shot Learning with Memory-Augmented Neural Networks**
@@ -2604,6 +2678,11 @@ It is based on Facebook's TorchCraft, which is a bridge between Torch and StarCr
 - intro: Twitter
 - paper: [https://openreview.net/pdf?id=rJY0-Kcll](https://openreview.net/pdf?id=rJY0-Kcll)
 - github: [https://github.com/twitter/meta-learning-lstm](https://github.com/twitter/meta-learning-lstm)
+
+**Learning to Compare: Relation Network for Few-Shot Learning**
+
+- intro: Queen Mary University of London & The University of Edinburgh
+- arxiv: [https://arxiv.org/abs/1711.06025](https://arxiv.org/abs/1711.06025)
 
 ## Incremental Learning
 
@@ -2701,6 +2780,10 @@ It is based on Facebook's TorchCraft, which is a bridge between Torch and StarCr
 **PWC-Net: CNNs for Optical Flow Using Pyramid, Warping, and Cost Volume**
 
 [https://arxiv.org/abs/1709.02371](https://arxiv.org/abs/1709.02371)
+
+**Occlusion Aware Unsupervised Learning of Optical Flow**
+
+[https://arxiv.org/abs/1711.05890](https://arxiv.org/abs/1711.05890)
 
 ### All-In-One Network
 

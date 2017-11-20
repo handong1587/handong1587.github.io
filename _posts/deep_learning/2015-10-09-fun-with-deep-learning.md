@@ -873,6 +873,13 @@ further original research into a small, easy to use graphical interface.
 
 - nature page: [http://www.nature.com/nature/journal/v550/n7676/full/nature24270.html](http://www.nature.com/nature/journal/v550/n7676/full/nature24270.html)
 - paper: [https://deepmind.com/documents/119/agz_unformatted_nature.pdf](https://deepmind.com/documents/119/agz_unformatted_nature.pdf)
+- notes: [https://blog.acolyer.org/2017/11/17/mastering-the-game-of-go-without-human-knowledge/](https://blog.acolyer.org/2017/11/17/mastering-the-game-of-go-without-human-knowledge/)
+
+**Computer Go & AlphaGo Zero**
+
+- youtube: [https://www.youtube.com/watch?v=6fKG4wJ7uBk](https://www.youtube.com/watch?v=6fKG4wJ7uBk)
+- mirror: [https://www.bilibili.com/video/av16428694/](https://www.bilibili.com/video/av16428694/)
+- slides: [https://drive.google.com/file/d/1rmUyIitEmAtMUKdKEnlHRfmXtpyoxxey/view](https://drive.google.com/file/d/1rmUyIitEmAtMUKdKEnlHRfmXtpyoxxey/view)
 
 # Chess
 
