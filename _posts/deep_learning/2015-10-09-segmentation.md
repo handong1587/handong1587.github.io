@@ -615,6 +615,10 @@ with built-in awareness of semantically meaningful boundaries. "
 
 [https://arxiv.org/abs/1709.07665](https://arxiv.org/abs/1709.07665)
 
+**Unsupervised Domain Adaptation for Semantic Segmentation with GANs**
+
+[https://arxiv.org/abs/1711.06969](https://arxiv.org/abs/1711.06969)
+
 # Instance Segmentation
 
 **Simultaneous Detection and Segmentation**

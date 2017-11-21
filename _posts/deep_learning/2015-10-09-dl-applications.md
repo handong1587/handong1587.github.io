@@ -436,6 +436,10 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 
 [https://github.com/eldar/pose-tensorflow](https://github.com/eldar/pose-tensorflow)
 
+**Cascaded Pyramid Network for Multi-Person Pose Estimation**
+
+[https://arxiv.org/abs/1711.07319](https://arxiv.org/abs/1711.07319)
+
 # Sentiment Prediction
 
 **From Pixels to Sentiment: Fine-tuning CNNs for Visual Sentiment Prediction**
@@ -1200,6 +1204,10 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 
 [https://arxiv.org/abs/1710.00279](https://arxiv.org/abs/1710.00279)
 
+**Learning Aggregated Transmission Propagation Networks for Haze Removal and Beyond**
+
+[https://arxiv.org/abs/1711.06787](https://arxiv.org/abs/1711.06787)
+
 # Image Rain Removal / De-raining
 
 **Clearing the Skies: A deep network architecture for single-image rain removal**
@@ -1276,6 +1284,11 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 **Deep Generative Filter for Motion Deblurring**
 
 [https://arxiv.org/abs/1709.03481](https://arxiv.org/abs/1709.03481)
+
+**DeblurGAN: Blind Motion Deblurring Using Conditional Adversarial Networks**
+
+- arxiv: [https://arxiv.org/abs/1711.07064](https://arxiv.org/abs/1711.07064)
+- github: [https://github.com/KupynOrest/DeblurGAN](https://github.com/KupynOrest/DeblurGAN)
 
 # Image Compression
 
@@ -1516,6 +1529,11 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 
 - arxiv: [https://arxiv.org/abs/1611.06962](https://arxiv.org/abs/1611.06962)
 - github: [https://github.com/lab41/attalos](https://github.com/lab41/attalos)
+
+**Kill Two Birds with One Stone: Weakly-Supervised Neural Network for Image Annotation and Tag Refinement**
+
+- intro: AAAI 2018
+- arxiv: [https://arxiv.org/abs/1711.06998](https://arxiv.org/abs/1711.06998)
 
 # Image Matching
 

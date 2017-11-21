@@ -832,6 +832,10 @@ not just the convolutions)
 
 [https://arxiv.org/abs/1711.05934](https://arxiv.org/abs/1711.05934)
 
+**Adversarial Attacks Beyond the Image Space**
+
+[https://arxiv.org/abs/1711.07183](https://arxiv.org/abs/1711.07183)
+
 # Deep Learning Networks
 
 **PCANet: A Simple Deep Learning Baseline for Image Classification?**
@@ -1229,6 +1233,14 @@ with fast exact probabilistic inference over many layers."
 **Three Factors Influencing Minima in SGD**
 
 [https://arxiv.org/abs/1711.04623](https://arxiv.org/abs/1711.04623)
+
+**Parameter Reference Loss for Unsupervised Domain Adaptation**
+
+[https://arxiv.org/abs/1711.07170](https://arxiv.org/abs/1711.07170)
+
+**BPGrad: Towards Global Optimality in Deep Learning via Branch and Pruning**
+
+[https://arxiv.org/abs/1711.06959](https://arxiv.org/abs/1711.06959)
 
 ## Interpretable Convolutional Neural Networks
 

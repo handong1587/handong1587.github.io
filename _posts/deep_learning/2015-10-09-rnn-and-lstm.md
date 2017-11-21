@@ -504,6 +504,10 @@ date: 2015-10-09
 - arxiv: [https://arxiv.org/abs/1710.02224](https://arxiv.org/abs/1710.02224)
 - github(Tensorflow): [https://github.com/code-terminator/DilatedRNN](https://github.com/code-terminator/DilatedRNN)
 
+**Excitation Backprop for RNNs**
+
+[https://arxiv.org/abs/1711.06778](https://arxiv.org/abs/1711.06778)
+
 ## LSTMVis
 
 **Visual Analysis of Hidden State Dynamics in Recurrent Neural Networks**

@@ -682,6 +682,19 @@ Continuation of [arXiv:1608.08021](https://arxiv.org/abs/1608.08021)
 - keywords: multi-instance multi-label domain adaption learning framework
 - arxiv: [https://arxiv.org/abs/1711.05954](https://arxiv.org/abs/1711.05954)
 
+**MegDet: A Large Mini-Batch Object Detector**
+
+[https://arxiv.org/abs/1711.07240](https://arxiv.org/abs/1711.07240)
+
+**Light-Head R-CNN: In Defense of Two-Stage Object Detector**
+
+[https://arxiv.org/abs/1711.07264](https://arxiv.org/abs/1711.07264)
+
+**Single-Shot Refinement Neural Network for Object Detection**
+
+- arxiv: [https://arxiv.org/abs/1711.06897](https://arxiv.org/abs/1711.06897)
+- github: [https://github.com/sfzhang15/RefineDet](https://github.com/sfzhang15/RefineDet)
+
 ## NMS
 
 **End-to-End Integration of a Convolutional Network, Deformable Parts Model and Non-Maximum Suppression**
@@ -1289,6 +1302,10 @@ This task involves predicting the salient regions of an image given by human eye
 
 [https://arxiv.org/abs/1709.07326](https://arxiv.org/abs/1709.07326)
 
+**Face Attention Network: An effective Face Detector for the Occluded Faces**
+
+[https://arxiv.org/abs/1711.07246](https://arxiv.org/abs/1711.07246)
+
 ## Facial Point / Landmark Detection
 
 **Deep Convolutional Network Cascade for Facial Point Detection**
@@ -1340,6 +1357,10 @@ This task involves predicting the salient regions of an image given by human eye
 **FacePoseNet: Making a Case for Landmark-Free Face Alignment**
 
 [https://arxiv.org/abs/1708.07517](https://arxiv.org/abs/1708.07517)
+
+**Wing Loss for Robust Facial Landmark Localisation with Convolutional Neural Networks**
+
+[https://arxiv.org/abs/1711.06753](https://arxiv.org/abs/1711.06753)
 
 # People Detection
 
