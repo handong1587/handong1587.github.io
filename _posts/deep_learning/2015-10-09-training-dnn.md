@@ -566,6 +566,12 @@ date: 2015-10-09
 - arxiv: [https://arxiv.org/abs/1703.03633](https://arxiv.org/abs/1703.03633)
 - github(TensorFlow): [https://github.com/vfleaking/rnnprop](https://github.com/vfleaking/rnnprop)
 
+**Optimization Algorithms**
+
+- blog: [https://3dbabove.com/2017/11/14/optimizationalgorithms/](https://3dbabove.com/2017/11/14/optimizationalgorithms/)
+- github: [https://github.com//ManuelGonzalezRivero/3dbabove](https://github.com//ManuelGonzalezRivero/3dbabove)
+- reddit: [https://www.reddit.com/r/MachineLearning/comments/7ehxky/d_optimization_algorithms_math_and_code/](https://www.reddit.com/r/MachineLearning/comments/7ehxky/d_optimization_algorithms_math_and_code/)
+
 # Tensor Methods
 
 **Tensorizing Neural Networks**
@@ -710,6 +716,10 @@ date: 2015-10-09
 **An Analysis of Dropout for Matrix Factorization**
 
 [https://arxiv.org/abs/1710.03487](https://arxiv.org/abs/1710.03487)
+
+**Analysis of Dropout in Online Learning**
+
+[https://arxiv.org/abs/1711.03343](https://arxiv.org/abs/1711.03343)
 
 ## DropConnect
 
@@ -879,6 +889,12 @@ date: 2015-10-09
 - intro: CoRR 2017. University of Toronto
 - arxiv: [https://arxiv.org/abs/1707.04585](https://arxiv.org/abs/1707.04585)
 - github: [https://github.com/renmengye/revnet-public](https://github.com/renmengye/revnet-public)
+
+**meProp: Sparsified Back Propagation for Accelerated Deep Learning with Reduced Overfitting**
+
+- intro: ICML 2017
+- arxiv: [https://arxiv.org/abs/1706.06197](https://arxiv.org/abs/1706.06197)
+- github: [https://github.com//jklj077/meProp](https://github.com//jklj077/meProp)
 
 # Accelerate Training
 

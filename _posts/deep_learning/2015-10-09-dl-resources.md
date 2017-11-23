@@ -395,8 +395,9 @@ not just the convolutions)
 
 **Deep Learning: A Bayesian Perspective**
 
-- intro: George Mason University
+- intro: University of Chicago & George Mason University
 - arxiv: [https://arxiv.org/abs/1706.00473](https://arxiv.org/abs/1706.00473)
+- paper: [https://projecteuclid.org/euclid.ba/1510801992](https://projecteuclid.org/euclid.ba/1510801992)
 
 # Semi-Supervised Learning
 
@@ -1205,6 +1206,11 @@ with fast exact probabilistic inference over many layers."
 - intro: MIT & University of Montreal
 - arxiv: [https://arxiv.org/abs/1710.05468](https://arxiv.org/abs/1710.05468)
 
+**Understanding Deep Learning Generalization by Maximum Entropy**
+
+- intro: University of Science and Technology of China & Beijing Jiaotong University & Chinese Academy of Sciences
+- arxiv: [https://arxiv.org/abs/1711.07758](https://arxiv.org/abs/1711.07758)
+
 **Do Convolutional Neural Networks Learn Class Hierarchy?**
 
 - intro: Bosch Research North America & Michigan State University
@@ -1233,10 +1239,6 @@ with fast exact probabilistic inference over many layers."
 **Three Factors Influencing Minima in SGD**
 
 [https://arxiv.org/abs/1711.04623](https://arxiv.org/abs/1711.04623)
-
-**Parameter Reference Loss for Unsupervised Domain Adaptation**
-
-[https://arxiv.org/abs/1711.07170](https://arxiv.org/abs/1711.07170)
 
 **BPGrad: Towards Global Optimality in Deep Learning via Branch and Pruning**
 
@@ -1534,6 +1536,11 @@ with fast exact probabilistic inference over many layers."
 
 - arxiv: [https://arxiv.org/abs/1612.09007](https://arxiv.org/abs/1612.09007)
 
+**Optimizing Kernel Machines using Deep Learning**
+
+- keywords: DKMO (Deep Kernel Machine Optimization)
+- arxiv: [https://arxiv.org/abs/1711.05374](https://arxiv.org/abs/1711.05374)
+
 ## LBP
 
 **Deep Local Binary Patterns**
@@ -1773,7 +1780,9 @@ with fast exact probabilistic inference over many layers."
 **A Deep Reinforcement Learning Framework for the Financial Portfolio Management Problem**
 
 - intro: Xi’an Jiaotong-Liverpool University
+- keywords: PGPortfolio: Policy Gradient Portfolio
 - arxiv: [https://arxiv.org/abs/1706.10059](https://arxiv.org/abs/1706.10059)
+- github: [https://github.com//ZhengyaoJiang/PGPortfolio](https://github.com//ZhengyaoJiang/PGPortfolio)
 
 **Stock Prediction: a method based on extraction of news features and recurrent neural networks**
 
@@ -1793,6 +1802,11 @@ with fast exact probabilistic inference over many layers."
 **Findings from our Research on Applying Deep Learning to Long-Term Investing**
 
 [http://www.euclidean.com/paper-on-deep-learning-long-term-investing](http://www.euclidean.com/paper-on-deep-learning-long-term-investing)
+
+**Predicting Cryptocurrency Prices With Deep Learning**
+
+- intro: This post brings together cryptos and deep learning in a desperate attempt for Reddit popularity
+- blog: [https://dashee87.github.io/deep%20learning/python/predicting-cryptocurrency-prices-with-deep-learning/](https://dashee87.github.io/deep%20learning/python/predicting-cryptocurrency-prices-with-deep-learning/)
 
 # Deep Learning in Speech
 
@@ -2527,6 +2541,11 @@ It is based on Facebook's TorchCraft, which is a bridge between Torch and StarCr
 - intro: Google Brain, Toronto
 - arxiv: [https://arxiv.org/abs/1710.09829](https://arxiv.org/abs/1710.09829)
 
+**Capsule Networks (CapsNets) – Tutorial**
+
+- youtube: [https://www.youtube.com/watch?v=pPN8d0E3900](https://www.youtube.com/watch?v=pPN8d0E3900)
+- mirror: [http://www.bilibili.com/video/av16594836/](http://www.bilibili.com/video/av16594836/)
+
 ## Tutorials and Surveys
 
 **On the Origin of Deep Learning**
@@ -2602,6 +2621,10 @@ It is based on Facebook's TorchCraft, which is a bridge between Torch and StarCr
 
 - intro: Megvii Inc (Face++)
 - arxiv: [https://arxiv.org/abs/1707.01083](https://arxiv.org/abs/1707.01083)
+
+**Depth_conv-for-mobileNet**
+
+[https://github.com//LamHoCN/Depth_conv-for-mobileNet](https://github.com//LamHoCN/Depth_conv-for-mobileNet)
 
 ## STDP
 
@@ -2725,6 +2748,22 @@ It is based on Facebook's TorchCraft, which is a bridge between Torch and StarCr
 
 - blog: [https://amundtveit.com/2016/12/02/ensemble-deep-learning/](https://amundtveit.com/2016/12/02/ensemble-deep-learning/)
 
+## Domain Adaptation
+
+**Adversarial Discriminative Domain Adaptation**
+
+- intro: UC Berkeley & Stanford University & Boston University
+- arxiv: [https://arxiv.org/abs/1702.05464](https://arxiv.org/abs/1702.05464)
+- github: [https://github.com//corenel/pytorch-adda](https://github.com//corenel/pytorch-adda)
+
+**Parameter Reference Loss for Unsupervised Domain Adaptation**
+
+[https://arxiv.org/abs/1711.07170](https://arxiv.org/abs/1711.07170)
+
+**Residual Parameter Transfer for Deep Domain Adaptation**
+
+[https://arxiv.org/abs/1711.07714](https://arxiv.org/abs/1711.07714)
+
 ## Embedding
 
 **Full-Network Embedding in a Multimodal Embedding Pipeline**
@@ -2796,6 +2835,11 @@ It is based on Facebook's TorchCraft, which is a bridge between Torch and StarCr
 **Occlusion Aware Unsupervised Learning of Optical Flow**
 
 [https://arxiv.org/abs/1711.05890](https://arxiv.org/abs/1711.05890)
+
+**UnFlow: Unsupervised Learning of Optical Flow with a Bidirectional Census Loss**
+
+- intro: AAAI 2018
+- arxiv: [https://arxiv.org/abs/1711.07837](https://arxiv.org/abs/1711.07837)
 
 ### All-In-One Network
 

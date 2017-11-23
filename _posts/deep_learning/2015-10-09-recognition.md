@@ -112,6 +112,10 @@ date: 2015-10-09
 
 [https://arxiv.org/abs/1711.05847](https://arxiv.org/abs/1711.05847)
 
+**Knowledge Concentration: Learning 100K Object Classifiers in a Single CNN**
+
+[https://arxiv.org/abs/1711.07607](https://arxiv.org/abs/1711.07607)
+
 # Multi-object Recognition
 
 **Multiple Object Recognition with Visual Attention**

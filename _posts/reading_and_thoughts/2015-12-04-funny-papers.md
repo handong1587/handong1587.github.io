@@ -18,3 +18,7 @@ conspiracy theories, the paranormal and alternative medicine."
 **Sex, drugs, and violence**
 
 - arxiv: [http://arxiv.org/abs/1608.03448](http://arxiv.org/abs/1608.03448)
+
+**The Shortest Papers Ever Published**
+
+[https://paperpile.com/blog/shortest-papers/](https://paperpile.com/blog/shortest-papers/)

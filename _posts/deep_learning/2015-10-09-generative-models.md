@@ -263,6 +263,10 @@ date: 2015-10-09
 
 [https://arxiv.org/abs/1711.03213](https://arxiv.org/abs/1711.03213)
 
+**Spectral Normalization for Generative Adversarial Networks**
+
+[https://openreview.net/forum?id=B1QRgziT-](https://openreview.net/forum?id=B1QRgziT-)
+
 ## Image-to-Image Translation
 
 ### Pix2Pix
@@ -321,7 +325,8 @@ date: 2015-10-09
 
 **XGAN: Unsupervised Image-to-Image Translation for many-to-many Mappings**
 
-[https://arxiv.org/abs/1711.05139](https://arxiv.org/abs/1711.05139)
+- intro: IST Austria & Google Brain & Google Research
+- arxiv: [https://arxiv.org/abs/1711.05139](https://arxiv.org/abs/1711.05139)
 
 # Projects
 

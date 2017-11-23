@@ -948,6 +948,10 @@ AUC: Area Under the Curve
 
 - blog: [http://www.win-vector.com/blog/2016/10/on-calculating-auc/](http://www.win-vector.com/blog/2016/10/on-calculating-auc/)
 
+**ROC to precision-recall curve translator**
+
+[https://rafalab.shinyapps.io/roc-precision-recall/](https://rafalab.shinyapps.io/roc-precision-recall/)
+
 ## t-SNE
 
 **How to Use t-SNE Effectively**

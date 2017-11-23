@@ -471,7 +471,8 @@ at INT8 deep learning operations than other FPGA DSP architectures"
 
 **NISP: Pruning Networks using Neuron Importance Score Propagation**
 
-[https://arxiv.org/abs/1711.05908](https://arxiv.org/abs/1711.05908)
+- intro: University of Maryland & IBM T. J. Watson Research
+- arxiv: [https://arxiv.org/abs/1711.05908](https://arxiv.org/abs/1711.05908)
 
 # Quantized Neural Networks
 

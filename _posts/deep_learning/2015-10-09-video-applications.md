@@ -209,6 +209,11 @@ date: 2015-10-09
 - intro: ACM Multimedia, 2017
 - arxiv: [https://arxiv.org/abs/1708.00973](https://arxiv.org/abs/1708.00973)
 
+**Non-local Neural Networks**
+
+- intro: CMU & Facebook AI Research
+- arxiv: [https://arxiv.org/abs/1711.07971](https://arxiv.org/abs/1711.07971)
+
 ## Action Detection / Activity Recognition
 
 **3d convolutional neural networks for human action recognition**

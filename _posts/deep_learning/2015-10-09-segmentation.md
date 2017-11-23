@@ -762,6 +762,11 @@ with built-in awareness of semantically meaningful boundaries. "
 
 [https://arxiv.org/abs/1709.07158](https://arxiv.org/abs/1709.07158)
 
+**S4 Net: Single Stage Salient-Instance Segmentation**
+
+- arxiv: [https://arxiv.org/abs/1711.07618](https://arxiv.org/abs/1711.07618)
+- github: [https://github.com/RuochenFan/S4Net](https://github.com/RuochenFan/S4Net)
+
 # Specific Segmentation
 
 **A CNN Cascade for Landmark Guided Semantic Part Segmentation**

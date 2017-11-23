@@ -438,9 +438,10 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 
 **Cascaded Pyramid Network for Multi-Person Pose Estimation**
 
-[https://arxiv.org/abs/1711.07319](https://arxiv.org/abs/1711.07319)
+- intro: Tsinghua University & HuaZhong Univerisity of Science and Technology & Megvii Inc
+- github: [https://arxiv.org/abs/1711.07319](https://arxiv.org/abs/1711.07319)
 
-# Sentiment Prediction
+# Sentiment Analysis / Sentiment Prediction
 
 **From Pixels to Sentiment: Fine-tuning CNNs for Visual Sentiment Prediction**
 
@@ -463,6 +464,11 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 - intro: Accepted for publication in Image and Vision Computing
 - arxiv: [https://arxiv.org/abs/1604.03489](https://arxiv.org/abs/1604.03489)
 - github: [https://github.com/imatge-upc/sentiment-2016](https://github.com/imatge-upc/sentiment-2016)
+
+**Visual and Textual Sentiment Analysis Using Deep Fusion Convolutional Neural Networks**
+
+- intro: ICIP 2017
+- arxiv: [https://arxiv.org/abs/1711.07798](https://arxiv.org/abs/1711.07798)
 
 # Place Recognition
 
@@ -1181,6 +1187,10 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 - arxiv: [https://arxiv.org/abs/1710.04026](https://arxiv.org/abs/1710.04026)
 - github(MatConvNet): [https://github.com/cszn/FFDNet](https://github.com/cszn/FFDNet)
 
+**Universal Denoising Networks : A Novel CNN-based Network Architecture for Image Denoising**
+
+[https://arxiv.org/abs/1711.07807](https://arxiv.org/abs/1711.07807)
+
 # Image Haze Removal
 
 **DehazeNet: An End-to-End System for Single Image Haze Removal**
@@ -1583,6 +1593,10 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 - project page: [http://www.di.ens.fr/willow/research/cnngeometric/](http://www.di.ens.fr/willow/research/cnngeometric/)
 - arxiv: [https://arxiv.org/abs/1703.05593](https://arxiv.org/abs/1703.05593)
 - github: [https://github.com/ignacio-rocco/cnngeometric_matconvnet](https://github.com/ignacio-rocco/cnngeometric_matconvnet)
+
+**Multi-Image Semantic Matching by Mining Consistent Features**
+
+[https://arxiv.org/abs/1711.07641](https://arxiv.org/abs/1711.07641)
 
 # Image Editing
 

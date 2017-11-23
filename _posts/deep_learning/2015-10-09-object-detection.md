@@ -123,7 +123,8 @@ date: 2015-10-09
 
 **Interpretable R-CNN**
 
-- intro: AND-OR Graph (AOG)
+- intro: North Carolina State University & Alibaba
+- keywords: AND-OR Graph (AOG)
 - arxiv: [https://arxiv.org/abs/1711.05226](https://arxiv.org/abs/1711.05226)
 
 - - -
@@ -273,6 +274,10 @@ date: 2015-10-09
 **Yolo_mark: GUI for marking bounded boxes of objects in images for training Yolo v2**
 
 - github: [https://github.com/AlexeyAB/Yolo_mark](https://github.com/AlexeyAB/Yolo_mark)
+
+**LightNet: Bringing pjreddie's DarkNet out of the shadows**
+
+[https://github.com//explosion/lightnet](https://github.com//explosion/lightnet)
 
 - - -
 
@@ -684,16 +689,23 @@ Continuation of [arXiv:1608.08021](https://arxiv.org/abs/1608.08021)
 
 **MegDet: A Large Mini-Batch Object Detector**
 
-[https://arxiv.org/abs/1711.07240](https://arxiv.org/abs/1711.07240)
+- intro: Peking University & Tsinghua University & Megvii Inc
+- arxiv: [https://arxiv.org/abs/1711.07240](https://arxiv.org/abs/1711.07240)
 
 **Light-Head R-CNN: In Defense of Two-Stage Object Detector**
 
-[https://arxiv.org/abs/1711.07264](https://arxiv.org/abs/1711.07264)
+- intro: Tsinghua University & Megvii Inc
+- arxiv: [https://arxiv.org/abs/1711.07264](https://arxiv.org/abs/1711.07264)
+- github: [https://github.com/terrychenism/Deformable-ConvNets/blob/master/rfcn/symbols/resnet_v1_101_rfcn_light.py#L784](https://github.com/terrychenism/Deformable-ConvNets/blob/master/rfcn/symbols/resnet_v1_101_rfcn_light.py#L784)
 
 **Single-Shot Refinement Neural Network for Object Detection**
 
 - arxiv: [https://arxiv.org/abs/1711.06897](https://arxiv.org/abs/1711.06897)
 - github: [https://github.com/sfzhang15/RefineDet](https://github.com/sfzhang15/RefineDet)
+
+**Receptive Field Block Net for Accurate and Fast Object Detection**
+
+[https://arxiv.org/abs/1711.07767](https://arxiv.org/abs/1711.07767)
 
 ## NMS
 
@@ -1290,9 +1302,10 @@ This task involves predicting the salient regions of an image given by human eye
 
 **S3FD: Single Shot Scale-invariant Face Detector**
 
-- intro: ICCV 2017
+- intro: ICCV 2017. Chinese Academy of Sciences
 - intro: can run at 36 FPS on a Nvidia Titan X (Pascal) for VGA-resolution images
 - arxiv: [https://arxiv.org/abs/1708.05237](https://arxiv.org/abs/1708.05237)
+- github: [https://github.com//clcarwin/SFD_pytorch](https://github.com//clcarwin/SFD_pytorch)
 
 **Detecting Faces Using Region-based Fully Convolutional Networks**
 
@@ -1491,6 +1504,10 @@ This task involves predicting the salient regions of an image given by human eye
 **Too Far to See? Not Really! --- Pedestrian Detection with Scale-aware Localization Policy**
 
 [https://arxiv.org/abs/1709.00235](https://arxiv.org/abs/1709.00235)
+
+**Repulsion Loss: Detecting Pedestrians in a Crowd**
+
+[https://arxiv.org/abs/1711.07752](https://arxiv.org/abs/1711.07752)
 
 ## Vehicle Detection
 

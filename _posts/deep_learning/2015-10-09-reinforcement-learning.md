@@ -758,6 +758,12 @@ The project is dedicated to hero in life great Jesse Livermore.
 - intro: A simple self-driving car AI python script using the deep Q-learning algorithm
 - github: [https://github.com//JianyangZhang/Self-Driving-Car-AI](https://github.com//JianyangZhang/Self-Driving-Car-AI)
 
+## Autonomous vehicle navigation
+
+**Autonomous vehicle navigation based on Deep Reinforcement Learning**
+
+[https://github.com//kaihuchen/DRL-AutonomousVehicles](https://github.com//kaihuchen/DRL-AutonomousVehicles)
+
 ## Play Flappy Bird
 
 **Using Deep Q-Network to Learn How To Play Flappy Bird**
@@ -799,7 +805,7 @@ The project is dedicated to hero in life great Jesse Livermore.
 - youtube: [https://www.youtube.com/watch?v=Hqf__FlRlzg](https://www.youtube.com/watch?v=Hqf__FlRlzg)
 - github: [https://github.com/llSourcell/pong_neural_network_live](https://github.com/llSourcell/pong_neural_network_live)
 
-# Tips and Tricks
+## Tips and Tricks
 
 **DeepRLHacks**
 
