@@ -753,16 +753,20 @@ The project is dedicated to hero in life great Jesse Livermore.
 
 [https://github.com/ShangtongZhang/DeepRL](https://github.com/ShangtongZhang/DeepRL)
 
+## Autonomous vehicle navigation
+
 **Self-Driving-Car-AI**
 
 - intro: A simple self-driving car AI python script using the deep Q-learning algorithm
 - github: [https://github.com//JianyangZhang/Self-Driving-Car-AI](https://github.com//JianyangZhang/Self-Driving-Car-AI)
 
-## Autonomous vehicle navigation
-
 **Autonomous vehicle navigation based on Deep Reinforcement Learning**
 
 [https://github.com//kaihuchen/DRL-AutonomousVehicles](https://github.com//kaihuchen/DRL-AutonomousVehicles)
+
+**Car Racing using Reinforcement Learning**
+
+[https://web.stanford.edu/class/cs221/2017/restricted/p-final/elibol/final.pdf](https://web.stanford.edu/class/cs221/2017/restricted/p-final/elibol/final.pdf)
 
 ## Play Flappy Bird
 

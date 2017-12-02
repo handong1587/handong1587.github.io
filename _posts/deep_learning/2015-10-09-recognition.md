@@ -114,7 +114,13 @@ date: 2015-10-09
 
 **Knowledge Concentration: Learning 100K Object Classifiers in a Single CNN**
 
-[https://arxiv.org/abs/1711.07607](https://arxiv.org/abs/1711.07607)
+- intro: University of Southern California & Google Research
+- arxiv: [https://arxiv.org/abs/1711.07607](https://arxiv.org/abs/1711.07607)
+
+**Between-class Learning for Image Classification**
+
+- intro: The University of Tokyo & RIKEN
+- arxiv: [https://arxiv.org/abs/1711.10284](https://arxiv.org/abs/1711.10284)
 
 # Multi-object Recognition
 

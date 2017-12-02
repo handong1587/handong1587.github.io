@@ -684,6 +684,7 @@ Continuation of [arXiv:1608.08021](https://arxiv.org/abs/1608.08021)
 
 **Zero-Annotation Object Detection with Web Knowledge Transfer**
 
+- intro: NTU, Singapore & Amazon
 - keywords: multi-instance multi-label domain adaption learning framework
 - arxiv: [https://arxiv.org/abs/1711.05954](https://arxiv.org/abs/1711.05954)
 
@@ -705,7 +706,32 @@ Continuation of [arXiv:1608.08021](https://arxiv.org/abs/1608.08021)
 
 **Receptive Field Block Net for Accurate and Fast Object Detection**
 
-[https://arxiv.org/abs/1711.07767](https://arxiv.org/abs/1711.07767)
+- intro: RFBNet
+- arxiv: [https://arxiv.org/abs/1711.07767](https://arxiv.org/abs/1711.07767)
+- github: [https://github.com//ruinmessi/RFBNet](https://github.com//ruinmessi/RFBNet)
+
+**An Analysis of Scale Invariance in Object Detection - SNIP**
+
+- arxiv: [https://arxiv.org/abs/1711.08189](https://arxiv.org/abs/1711.08189)
+- github: [https://github.com/bharatsingh430/snip](https://github.com/bharatsingh430/snip)
+
+**Feature Selective Networks for Object Detection**
+
+[https://arxiv.org/abs/1711.08879](https://arxiv.org/abs/1711.08879)
+
+**Learning a Rotation Invariant Detector with Rotatable Bounding Box**
+
+- arxiv: [https://arxiv.org/abs/1711.09405](https://arxiv.org/abs/1711.09405)
+- github: [https://github.com/liulei01/DRBox](https://github.com/liulei01/DRBox)
+
+**Scalable Object Detection for Stylized Objects**
+
+- intro: Microsoft AI & Research Munich
+- arxiv: [https://arxiv.org/abs/1711.09822](https://arxiv.org/abs/1711.09822)
+
+**Relation Networks for Object Detection**
+
+[https://arxiv.org/abs/1711.11575](https://arxiv.org/abs/1711.11575)
 
 ## NMS
 
@@ -829,6 +855,10 @@ Continuation of [arXiv:1608.08021](https://arxiv.org/abs/1608.08021)
 **Mobile Video Object Detection with Temporally-Aware Feature Maps**
 
 [https://arxiv.org/abs/1711.06368](https://arxiv.org/abs/1711.06368)
+
+**Towards High Performance Video Object Detection**
+
+[https://arxiv.org/abs/1711.11577](https://arxiv.org/abs/1711.11577)
 
 # Object Detection in 3D
 

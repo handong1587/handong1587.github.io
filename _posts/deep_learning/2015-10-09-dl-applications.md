@@ -179,6 +179,14 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 
 [https://arxiv.org/abs/1711.05535](https://arxiv.org/abs/1711.05535)
 
+**Conditional Image-Text Embedding Networks**
+
+[https://arxiv.org/abs/1711.08389](https://arxiv.org/abs/1711.08389)
+
+**AttnGAN: Fine-Grained Text to Image Generation with Attentional Generative Adversarial Networks**
+
+[https://arxiv.org/abs/1711.10485](https://arxiv.org/abs/1711.10485)
+
 # Age Estimation
 
 **Deeply-Learned Feature for Age Estimation**
@@ -217,6 +225,10 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 **Face Aging With Conditional Generative Adversarial Networks**
 
 - arxiv: [https://arxiv.org/abs/1702.01983](https://arxiv.org/abs/1702.01983)
+
+**Learning Face Age Progression: A Pyramid Architecture of GANs**
+
+[https://arxiv.org/abs/1711.10352](https://arxiv.org/abs/1711.10352)
 
 # Emotion Recognition / Expression Recognition
 
@@ -440,6 +452,10 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 
 - intro: Tsinghua University & HuaZhong Univerisity of Science and Technology & Megvii Inc
 - github: [https://arxiv.org/abs/1711.07319](https://arxiv.org/abs/1711.07319)
+
+**Integral Human Pose Regression**
+
+[https://arxiv.org/abs/1711.08229](https://arxiv.org/abs/1711.08229)
 
 # Sentiment Analysis / Sentiment Prediction
 
@@ -846,6 +862,10 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 
 [https://arxiv.org/abs/1709.08855](https://arxiv.org/abs/1709.08855)
 
+**Image Inpainting using Multi-Scale Feature Image Translation**
+
+[https://arxiv.org/abs/1711.08590](https://arxiv.org/abs/1711.08590)
+
 # Image Restoration
 
 **Image Restoration Using Very Deep Convolutional Encoder-Decoder Networks with Symmetric Skip Connections**
@@ -889,6 +909,14 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 **xUnit: Learning a Spatial Activation Function for Efficient Image Restoration**
 
 [https://arxiv.org/abs/1711.06445](https://arxiv.org/abs/1711.06445)
+
+**Deep image prior**
+
+- intro: Skolkovo Institute of Science and Technology & University of Oxford
+- project page: [https://dmitryulyanov.github.io/deep_image_prior](https://dmitryulyanov.github.io/deep_image_prior)
+- paper: [https://sites.skoltech.ru/app/data/uploads/sites/25/2017/11/deep_image_prior.pdf](https://sites.skoltech.ru/app/data/uploads/sites/25/2017/11/deep_image_prior.pdf)
+- github: [https://github.com//DmitryUlyanov/deep-image-prior](https://github.com//DmitryUlyanov/deep-image-prior)
+- reddit: [https://www.reddit.com/r/MachineLearning/comments/7gls3j/r_deep_image_prior_deep_superresolution/](https://www.reddit.com/r/MachineLearning/comments/7gls3j/r_deep_image_prior_deep_superresolution/)
 
 # Image Super-Resolution
 
@@ -1101,6 +1129,10 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 - intro: IEEE Winter Conf. on Applications of Computer Vision (WACV) 2018, Lake Tahoe, USA
 - arxiv: [https://arxiv.org/abs/1711.04048](https://arxiv.org/abs/1711.04048)
 
+**FSRNet: End-to-End Learning Face Super-Resolution with Facial Priors**
+
+[https://arxiv.org/abs/1711.10703](https://arxiv.org/abs/1711.10703)
+
 ## Video Super-resolution
 
 **Detail-revealing Deep Video Super-resolution**
@@ -1297,8 +1329,13 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 
 **DeblurGAN: Blind Motion Deblurring Using Conditional Adversarial Networks**
 
+- intro: Ukrainian Catholic University & CTU in Prague
 - arxiv: [https://arxiv.org/abs/1711.07064](https://arxiv.org/abs/1711.07064)
 - github: [https://github.com/KupynOrest/DeblurGAN](https://github.com/KupynOrest/DeblurGAN)
+
+**DeepDeblur: Fast one-step blurry face images restoration**
+
+[https://arxiv.org/abs/1711.09515](https://arxiv.org/abs/1711.09515)
 
 # Image Compression
 
@@ -1768,6 +1805,351 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 **IOD-CNN: Integrating Object Detection Networks for Event Recognition**
 
 [https://arxiv.org/abs/1703.07431](https://arxiv.org/abs/1703.07431)
+
+# Deep Learning in Finance
+
+**Deep Learning in Finance**
+
+- arxiv: [http://arxiv.org/abs/1602.06561](http://arxiv.org/abs/1602.06561)
+
+**A Survey of Deep Learning Techniques Applied to Trading**
+
+- blog: [http://gregharris.info/a-survey-of-deep-learning-techniques-applied-to-trading/](http://gregharris.info/a-survey-of-deep-learning-techniques-applied-to-trading/)
+
+**Deep Learning and Long-Term Investing**
+
+- part 1: [http://www.euclidean.com/deep-learning-long-term-investing-1](http://www.euclidean.com/deep-learning-long-term-investing-1)
+- part 2: [http://www.euclidean.com/deep-learning-investing-part-2-preprocessing-data](http://www.euclidean.com/deep-learning-investing-part-2-preprocessing-data)
+
+**Deep Learning in Trading**
+
+- youtube: [https://www.youtube.com/watch?v=FoQKCeDuPiY](https://www.youtube.com/watch?v=FoQKCeDuPiY)
+- mirror: [https://pan.baidu.com/s/1sltRra9](https://pan.baidu.com/s/1sltRra9)
+
+**Research to Products: Machine & Human Intelligence in Finance**
+
+- intro: Peter Sarlin, Hanken School of Economics - Deep Learning in Finance Summit 2016 #reworkfin
+- youtube: [https://www.youtube.com/watch?v=Fd7Cc-KOVXg](https://www.youtube.com/watch?v=Fd7Cc-KOVXg)
+- mirror: [https://pan.baidu.com/s/1kVpZKur#list/path=%2F](https://pan.baidu.com/s/1kVpZKur#list/path=%2F)
+
+**eep Neural Networks for Real-time Market Predictions**
+
+- youtube: [https://www.youtube.com/watch?v=Kzz2-wAEK7A](https://www.youtube.com/watch?v=Kzz2-wAEK7A)
+
+**Deep Learning the Stock Market**
+
+- blog: [https://medium.com/@TalPerry/deep-learning-the-stock-market-df853d139e02#.z752rf43u](https://medium.com/@TalPerry/deep-learning-the-stock-market-df853d139e02#.z752rf43u)
+- github: [https://github.com/talolard/MarketVectors](https://github.com/talolard/MarketVectors)
+
+**rl_portfolio**
+
+- intro: This Repository uses Reinforcement Learning and Supervised learning to Optimize portfolio allocation.
+- github: [https://github.com/deependersingla/deep_portfolio](https://github.com/deependersingla/deep_portfolio)
+
+**Neural networks for algorithmic trading. Multivariate time series**
+
+- blog: [https://medium.com/@alexrachnog/neural-networks-for-algorithmic-trading-2-1-multivariate-time-series-ab016ce70f57](https://medium.com/@alexrachnog/neural-networks-for-algorithmic-trading-2-1-multivariate-time-series-ab016ce70f57)
+- github: [https://github.com/Rachnog/Deep-Trading/tree/master/multivariate](https://github.com/Rachnog/Deep-Trading/tree/master/multivariate)
+
+**Deep-Trading: Algorithmic trading with deep learning experiments**
+
+[https://github.com/Rachnog/Deep-Trading](https://github.com/Rachnog/Deep-Trading)
+
+**Neural networks for algorithmic trading. Multimodal and multitask deep learning**
+
+- blog: [https://becominghuman.ai/neural-networks-for-algorithmic-trading-multimodal-and-multitask-deep-learning-5498e0098caf](https://becominghuman.ai/neural-networks-for-algorithmic-trading-multimodal-and-multitask-deep-learning-5498e0098caf)
+- github: [https://github.com/Rachnog/Deep-Trading/tree/master/multimodal](https://github.com/Rachnog/Deep-Trading/tree/master/multimodal)
+
+**Deep Learning with Python in Finance - Singapore Python User Group**
+
+- youtube: [https://www.youtube.com/watch?v=xvm-M-R2fZY](https://www.youtube.com/watch?v=xvm-M-R2fZY)
+
+**A Deep Reinforcement Learning Framework for the Financial Portfolio Management Problem**
+
+- intro: Xi’an Jiaotong-Liverpool University
+- keywords: PGPortfolio: Policy Gradient Portfolio
+- arxiv: [https://arxiv.org/abs/1706.10059](https://arxiv.org/abs/1706.10059)
+- github: [https://github.com//ZhengyaoJiang/PGPortfolio](https://github.com//ZhengyaoJiang/PGPortfolio)
+
+**Stock Prediction: a method based on extraction of news features and recurrent neural networks**
+
+- intro: Peking University. The 22nd China Conference on Information Retrieval
+- arxiv: [https://arxiv.org/abs/1707.07585](https://arxiv.org/abs/1707.07585)
+
+**Multidimensional LSTM Networks to Predict Bitcoin Price**
+
+- blog: [http://www.jakob-aungiers.com/articles/a/Multidimensional-LSTM-Networks-to-Predict-Bitcoin-Price](http://www.jakob-aungiers.com/articles/a/Multidimensional-LSTM-Networks-to-Predict-Bitcoin-Price)
+- github: [https://github.com/jaungiers/Multidimensional-LSTM-BitCoin-Time-Series](https://github.com/jaungiers/Multidimensional-LSTM-BitCoin-Time-Series)
+
+**Improving Factor-Based Quantitative Investing by Forecasting Company Fundamentals**
+
+- intro: Euclidean Technologies & Amazon AI
+- arxiv: [https://arxiv.org/abs/1711.04837](https://arxiv.org/abs/1711.04837)
+
+**Findings from our Research on Applying Deep Learning to Long-Term Investing**
+
+[http://www.euclidean.com/paper-on-deep-learning-long-term-investing](http://www.euclidean.com/paper-on-deep-learning-long-term-investing)
+
+**Predicting Cryptocurrency Prices With Deep Learning**
+
+- intro: This post brings together cryptos and deep learning in a desperate attempt for Reddit popularity
+- blog: [https://dashee87.github.io/deep%20learning/python/predicting-cryptocurrency-prices-with-deep-learning/](https://dashee87.github.io/deep%20learning/python/predicting-cryptocurrency-prices-with-deep-learning/)
+
+# Deep Learning in Speech
+
+**Deep Speech 2: End-to-End Speech Recognition in English and Mandarin**
+
+- intro: Baidu Research, ICML 2016
+- arxiv: [https://arxiv.org/abs/1512.02595](https://arxiv.org/abs/1512.02595)
+- github(Neon): [https://github.com/NervanaSystems/deepspeech](https://github.com/NervanaSystems/deepspeech)
+
+**End-to-end speech recognition with neon**
+
+- blog: [https://www.nervanasys.com/end-end-speech-recognition-neon/](https://www.nervanasys.com/end-end-speech-recognition-neon/)
+
+## WaveNet
+
+**WaveNet: A Generative Model for Raw Audio**
+
+- homepage: [https://deepmind.com/blog/wavenet-generative-model-raw-audio/](https://deepmind.com/blog/wavenet-generative-model-raw-audio/)
+- paper: [https://drive.google.com/file/d/0B3cxcnOkPx9AeWpLVXhkTDJINDQ/view](https://drive.google.com/file/d/0B3cxcnOkPx9AeWpLVXhkTDJINDQ/view)
+- mirror: [https://pan.baidu.com/s/1gfmGWaJ](https://pan.baidu.com/s/1gfmGWaJ)
+- github: [https://github.com/usernaamee/keras-wavenet](https://github.com/usernaamee/keras-wavenet)
+- github: [https://github.com/ibab/tensorflow-wavenet](https://github.com/ibab/tensorflow-wavenet)
+- github: [https://github.com/monthly-hack/chainer-wavenet](https://github.com/monthly-hack/chainer-wavenet)
+- github: [https://github.com/huyouare/WaveNet-Theano](https://github.com/huyouare/WaveNet-Theano)
+- github(Keras): [https://github.com/basveeling/wavenet](https://github.com/basveeling/wavenet)
+- github: [https://github.com/ritheshkumar95/WaveNet](https://github.com/ritheshkumar95/WaveNet)
+
+**A TensorFlow implementation of DeepMind's WaveNet paper for text generation.**
+
+- github: [https://github.com/Zeta36/tensorflow-tex-wavenet](https://github.com/Zeta36/tensorflow-tex-wavenet)
+
+**Fast Wavenet Generation Algorithm**
+
+- intro: An efficient Wavenet generation implementation
+- arxiv: [https://arxiv.org/abs/1611.09482](https://arxiv.org/abs/1611.09482)
+- github [https://github.com/tomlepaine/fast-wavenet](https://github.com/tomlepaine/fast-wavenet)
+
+**Speech-to-Text-WaveNet : End-to-end sentence level English speech recognition based on DeepMind's WaveNet and tensorflow**
+
+- github: [https://github.com/buriburisuri/speech-to-text-wavenet](https://github.com/buriburisuri/speech-to-text-wavenet)
+
+**Wav2Letter: an End-to-End ConvNet-based Speech Recognition System**
+
+- arxiv: [http://arxiv.org/abs/1609.03193](http://arxiv.org/abs/1609.03193)
+
+**TristouNet: Triplet Loss for Speaker Turn Embedding**
+
+- arxiv: [https://arxiv.org/abs/1609.04301](https://arxiv.org/abs/1609.04301)
+- github: [https://github.com/hbredin/TristouNet](https://github.com/hbredin/TristouNet)
+
+**Speech Recognion and Deep Learning**
+
+- intro: Baidu Research Silicon Valley AI Lab
+- slides: [http://cs.stanford.edu/~acoates/ba_dls_speech2016.pdf](http://cs.stanford.edu/~acoates/ba_dls_speech2016.pdf)
+- mirror: [https://pan.baidu.com/s/1qYrPkPQ](https://pan.baidu.com/s/1qYrPkPQ)
+- github: [https://github.com/baidu-research/ba-dls-deepspeech](https://github.com/baidu-research/ba-dls-deepspeech)
+
+**Robust end-to-end deep audiovisual speech recognition**
+
+- intro: CMU
+- github: [https://arxiv.org/abs/1611.06986](https://arxiv.org/abs/1611.06986)
+
+**An Experimental Comparison of Deep Neural Networks for End-to-end Speech Recognition**
+
+- arxiv: [https://arxiv.org/abs/1611.07174](https://arxiv.org/abs/1611.07174)
+
+**Recurrent Deep Stacking Networks for Speech Recognition**
+
+- intro: The Ohio State University
+- arxiv: [https://arxiv.org/abs/1612.04675](https://arxiv.org/abs/1612.04675)
+
+**Towards End-to-End Speech Recognition with Deep Convolutional Neural Networks**
+
+- intro: Universite de Montreal & CIFAR
+- arxiv: [https://arxiv.org/abs/1701.02720](https://arxiv.org/abs/1701.02720)
+
+# Deep Learning for Sound / Music
+
+## Sound
+
+**Suggesting Sounds for Images from Video Collections**
+
+- intro: ETH Zurich & 2Disney Research
+- paper: [https://s3-us-west-1.amazonaws.com/disneyresearch/wp-content/uploads/20161014182443/Suggesting-Sounds-for-Images-from-Video-Collections-Paper.pdf](https://s3-us-west-1.amazonaws.com/disneyresearch/wp-content/uploads/20161014182443/Suggesting-Sounds-for-Images-from-Video-Collections-Paper.pdf)
+
+**Disney AI System Associates Images with Sounds**
+
+- blog: [https://news.developer.nvidia.com/disneys-ai-system-associates-images-with-sounds/](https://news.developer.nvidia.com/disneys-ai-system-associates-images-with-sounds/)
+
+**Convolutional Recurrent Neural Networks for Bird Audio Detection**
+
+[https://arxiv.org/abs/1703.02317](https://arxiv.org/abs/1703.02317)
+
+## Music
+
+**Learning Features of Music from Scratch**
+
+- intro: University of Washington. MusicNet
+- project page: [http://homes.cs.washington.edu/~thickstn/musicnet.html](http://homes.cs.washington.edu/~thickstn/musicnet.html)
+- arxiv: [https://arxiv.org/abs/1611.09827](https://arxiv.org/abs/1611.09827)
+- demo: [http://homes.cs.washington.edu/~thickstn/demos.html](http://homes.cs.washington.edu/~thickstn/demos.html)
+
+**DeepBach: a Steerable Model for Bach chorales generation**
+
+- project page: [http://www.flow-machines.com/deepbach-steerable-model-bach-chorales-generation/](http://www.flow-machines.com/deepbach-steerable-model-bach-chorales-generation/)
+- arxiv: [https://arxiv.org/abs/1612.01010](https://arxiv.org/abs/1612.01010)
+- github: [https://github.com/SonyCSL-Paris/DeepBach](https://github.com/SonyCSL-Paris/DeepBach)
+- youtube: [https://www.youtube.com/watch?v=QiBM7-5hA6o](https://www.youtube.com/watch?v=QiBM7-5hA6o)
+
+**Deep Learning for Music**
+
+- blog: [https://amundtveit.com/2016/11/22/deep-learning-for-music/](https://amundtveit.com/2016/11/22/deep-learning-for-music/)
+
+**First International Workshop on Deep Learning and Music**
+
+[https://arxiv.org/html/1706.08675](https://arxiv.org/html/1706.08675)
+
+# Deep Learning on Games
+
+**TorchCraft: a Library for Machine Learning Research on Real-Time Strategy Games**
+
+- intro: Connecting Torch to StarCraft
+- arxiv: [https://arxiv.org/abs/1611.00625](https://arxiv.org/abs/1611.00625)
+- github: [https://github.com/TorchCraft/TorchCraft](https://github.com/TorchCraft/TorchCraft)
+
+**BlizzCon 2016 DeepMind and StarCraft II Deep Learning Panel Transcript**
+
+- part 1: [http://starcraft.blizzplanet.com/blog/comments/blizzcon-2016-deepmind-and-starcraft-ii-deep-learning-panel-transcript](http://starcraft.blizzplanet.com/blog/comments/blizzcon-2016-deepmind-and-starcraft-ii-deep-learning-panel-transcript)
+- part 2: [http://starcraft.blizzplanet.com/blog/comments/blizzcon-2016-deepmind-and-starcraft-ii-deep-learning-panel-transcript/2](http://starcraft.blizzplanet.com/blog/comments/blizzcon-2016-deepmind-and-starcraft-ii-deep-learning-panel-transcript/2)
+
+**DeepStack: Expert-Level Artificial Intelligence in No-Limit Poker**
+
+- arxiv: [https://arxiv.org/abs/1701.01724](https://arxiv.org/abs/1701.01724)
+- github: [https://github.com/lifrordi/DeepStack-Leduc](https://github.com/lifrordi/DeepStack-Leduc)
+
+**Gym StarCraft: StarCraft environment for OpenAI Gym, based on Facebook's TorchCraft**
+
+- intro: Gym StarCraft is an environment bundle for OpenAI Gym. 
+It is based on Facebook's TorchCraft, which is a bridge between Torch and StarCraft for AI research.
+- github: [https://github.com/deepcraft/gym-starcraft](https://github.com/deepcraft/gym-starcraft)
+
+**Multiagent Bidirectionally-Coordinated Nets for Learning to Play StarCraft Combat Games**
+
+[https://arxiv.org/abs/1703.10069](https://arxiv.org/abs/1703.10069)
+
+**Learning Macromanagement in StarCraft from Replays using Deep Learning**
+
+- intro: CIG 2017. IT University of Copenhagen
+- arxiv: [https://arxiv.org/abs/1707.03743](https://arxiv.org/abs/1707.03743)
+
+# Deep Learning in Medicine and Biology
+
+**Low Data Drug Discovery with One-shot Learning**
+
+- intro: MIT & Stanford University
+- arxiv: [https://arxiv.org/abs/1611.03199](https://arxiv.org/abs/1611.03199)
+- homepage: [http://deepchem.io/](http://deepchem.io/)
+- github: [https://github.com/deepchem/deepchem](https://github.com/deepchem/deepchem)
+
+**Democratizing Drug Discovery with DeepChem**
+
+- youtube: [https://www.youtube.com/watch?v=sntikyFI8s8](https://www.youtube.com/watch?v=sntikyFI8s8)
+
+**Introduction to Deep Learning in Medicine and Biology**
+
+- blog: [http://a12d.com/deep-learning-biomedicine](http://a12d.com/deep-learning-biomedicine)
+
+**Deep Learning for Alzheimer Diagnostics and Decision Support**
+
+[https://amundtveit.com/2016/11/18/deep-learning-for-alzheimer-diagnostics-and-decision-support/](https://amundtveit.com/2016/11/18/deep-learning-for-alzheimer-diagnostics-and-decision-support/)
+
+**DeepCancer: Detecting Cancer through Gene Expressions via Deep Generative Learning**
+
+- intro: University of Florida
+- arxiv: [https://arxiv.org/abs/1612.03211](https://arxiv.org/abs/1612.03211)
+
+**Towards biologically plausible deep learning**
+
+- intro: Yoshua	Bengio, NIPS’2016 Workshops
+- slides: [http://www.iro.umontreal.ca/~bengioy/talks/Brains+Bits-NIPS2016Workshop.pptx.pdf](http://www.iro.umontreal.ca/~bengioy/talks/Brains+Bits-NIPS2016Workshop.pptx.pdf)
+
+**Deep Learning and Its Applications to Machine Health Monitoring: A Survey**
+
+- arxiv: [https://arxiv.org/abs/1612.07640](https://arxiv.org/abs/1612.07640)
+
+**Generating Focussed Molecule Libraries for Drug Discovery with Recurrent Neural Networks**
+
+- arxiv: [https://arxiv.org/abs/1701.01329](https://arxiv.org/abs/1701.01329)
+
+**Deep Learning Applications in Medical Imaging**
+
+- blog: [http://techemergence.com/deep-learning-medical-applications/](http://techemergence.com/deep-learning-medical-applications/)
+
+**Dermatologist-level classification of skin cancer with deep neural networks**
+
+- intro: Stanford University. Nature 2017
+- paper: [http://www.nature.com/nature/journal/vaop/ncurrent/pdf/nature21056.pdf](http://www.nature.com/nature/journal/vaop/ncurrent/pdf/nature21056.pdf)
+
+**Deep Learning for Health Informatics**
+
+- intro: Imperial College London
+- paper: [http://ieeexplore.ieee.org/abstract/document/7801947/](http://ieeexplore.ieee.org/abstract/document/7801947/)
+
+# Deep Learning for Fashion
+
+**Convolutional Neural Networks for Fashion Classification and Object Detection**
+
+- intro: CS231N project
+- paper: [http://cs231n.stanford.edu/reports/BLAO_KJAG_CS231N_FinalPaperFashionClassification.pdf](http://cs231n.stanford.edu/reports/BLAO_KJAG_CS231N_FinalPaperFashionClassification.pdf)
+
+**DeepFashion: Powering Robust Clothes Recognition and Retrieval with Rich Annotations**
+
+- intro: CVPR 2016
+- project page: [http://personal.ie.cuhk.edu.hk/~lz013/projects/DeepFashion.html](http://personal.ie.cuhk.edu.hk/~lz013/projects/DeepFashion.html)
+- paper: [http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Liu_DeepFashion_Powering_Robust_CVPR_2016_paper.pdf](http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Liu_DeepFashion_Powering_Robust_CVPR_2016_paper.pdf)
+
+**Deep Learning for Fast and Accurate Fashion Item Detection**
+
+- keywords:  MultiBox and Fast R-CNN, Kuznech-Fashion-156 and Kuznech-Fashion-205 fashion item detection datasets
+- paper: [https://kddfashion2016.mybluemix.net/kddfashion_finalSubmissions/Deep%20Learning%20for%20Fast%20and%20Accurate%20Fashion%20Item%20Detection.pdf](https://kddfashion2016.mybluemix.net/kddfashion_finalSubmissions/Deep%20Learning%20for%20Fast%20and%20Accurate%20Fashion%20Item%20Detection.pdf)
+
+**Deep Learning at GILT**
+
+- keywords: automated tagging, automatic dress faceting
+- blog: [http://tech.gilt.com/machine/learning,/deep/learning/2016/12/22/deep-learning-at-gilt](http://tech.gilt.com/machine/learning,/deep/learning/2016/12/22/deep-learning-at-gilt)
+
+**Working with Fashion Models**
+
+- blog: [https://making.lyst.com/2017/02/21/working-with-fashion-models/](https://making.lyst.com/2017/02/21/working-with-fashion-models/)
+- youtube: [https://www.youtube.com/watch?v=emr2qaCQOQs](https://www.youtube.com/watch?v=emr2qaCQOQs)
+
+**Fashion Forward: Forecasting Visual Style in Fashion**
+
+- intro: Karlsruhe Institute of Technology & The University of Texas at Austin
+- arxiv: [https://arxiv.org/abs/1705.06394](https://arxiv.org/abs/1705.06394)
+
+**StreetStyle: Exploring world-wide clothing styles from millions of photos**
+
+- homepage: [http://streetstyle.cs.cornell.edu/](http://streetstyle.cs.cornell.edu/)
+- arxiv: [https://arxiv.org/abs/1706.01869](https://arxiv.org/abs/1706.01869)
+- demo: [http://streetstyle.cs.cornell.edu/trends.html](http://streetstyle.cs.cornell.edu/trends.html)
+
+**Fashioning with Networks: Neural Style Transfer to Design Clothes**
+
+- intro: ML4Fashion 2017
+- arxiv: [https://arxiv.org/abs/1707.09899](https://arxiv.org/abs/1707.09899)
+
+**Deep Learning Our Way Through Fashion Week**
+
+[https://inside.edited.com/deep-learning-our-way-through-fashion-week-ea55bf50bab8](https://inside.edited.com/deep-learning-our-way-through-fashion-week-ea55bf50bab8)
+
+**Be Your Own Prada: Fashion Synthesis with Structural Coherence**
+
+- intro: ICCV 2017
+- paper: [http://openaccess.thecvf.com/content_ICCV_2017/papers/Zhu_Be_Your_Own_ICCV_2017_paper.pdf](http://openaccess.thecvf.com/content_ICCV_2017/papers/Zhu_Be_Your_Own_ICCV_2017_paper.pdf)
+- github: [https://github.com/zhusz/ICCV17-fashionGAN](https://github.com/zhusz/ICCV17-fashionGAN)
 
 # Others
 

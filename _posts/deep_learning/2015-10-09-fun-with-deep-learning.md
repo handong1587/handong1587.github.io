@@ -902,6 +902,8 @@ further original research into a small, easy to use graphical interface.
 
 **DeepChess: End-to-End Deep Neural Network for Automatic Learning in Chess**
 
+- intro: Winner of Best Paper Award in ICANN 2016
+- arxiv: [https://arxiv.org/abs/1711.09667](https://arxiv.org/abs/1711.09667)
 - paper: [http://www.cs.tau.ac.il/~wolf/papers/deepchess.pdf](http://www.cs.tau.ac.il/~wolf/papers/deepchess.pdf)
 - github: [https://github.com/mr-press/DeepChess](https://github.com/mr-press/DeepChess)
 

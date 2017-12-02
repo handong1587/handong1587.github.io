@@ -732,6 +732,52 @@ Classic strategies:
 
 [https://www.youtube.com/watch?v=9XYjR6ge73M](https://www.youtube.com/watch?v=9XYjR6ge73M)
 
+# Different Interpretation about Same Model
+
+**Dropout as a Bayesian Approximation: Representing Model Uncertainty in Deep Learning**
+
+- intro: ICML 2016
+- arxiv: [https://arxiv.org/abs/1506.02142](https://arxiv.org/abs/1506.02142)
+
+**Dropout as a Bayesian Approximation: Insights and Applications**
+
+[http://mlg.eng.cam.ac.uk/yarin/PDFs/Dropout_as_a_Bayesian_approximation.pdf](http://mlg.eng.cam.ac.uk/yarin/PDFs/Dropout_as_a_Bayesian_approximation.pdf)
+
+**k-Means Clustering Is Matrix Factorization**
+
+[https://arxiv.org/abs/1512.07548](https://arxiv.org/abs/1512.07548)
+
+word embedding as matrix factorization
+
+**Neural Word Embedding as Implicit Matrix Factorization**
+
+[https://levyomer.files.wordpress.com/2014/09/neural-word-embeddings-as-implicit-matrix-factorization.pdf](https://levyomer.files.wordpress.com/2014/09/neural-word-embeddings-as-implicit-matrix-factorization.pdf)
+
+**Deformable Part Models are Convolutional Neural Networks**
+
+- intro: CVPR 2015
+- arxiv: [https://arxiv.org/abs/1409.5403](https://arxiv.org/abs/1409.5403)
+- paper: [http://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Girshick_Deformable_Part_Models_2015_CVPR_paper.pdf](http://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Girshick_Deformable_Part_Models_2015_CVPR_paper.pdf)
+
+**k-Means is a Variational EM Approximation of Gaussian Mixture Models**
+
+[https://arxiv.org/abs/1704.04812](https://arxiv.org/abs/1704.04812)
+
+**Steepest descent with momentum for quadratic functions is a version of the conjugate gradient method**
+
+[http://www.sciencedirect.com/science/article/pii/S0893608003001709](http://www.sciencedirect.com/science/article/pii/S0893608003001709)
+
+**On the momentum term in gradient descent learning algorithms**
+
+[http://www.sciencedirect.com/science/article/pii/S0893608098001166?np=y&npKey=142c3bf066ad1c36c5b4fd8713d0a8967413462675bae2f8d7b89933fa8cf228](http://www.sciencedirect.com/science/article/pii/S0893608098001166?np=y&npKey=142c3bf066ad1c36c5b4fd8713d0a8967413462675bae2f8d7b89933fa8cf228)
+
+EM as a coordinate descent
+
+**Backprop as Functor: A compositional perspective on supervised learning**
+
+- intro: MIT
+- arxiv: [https://arxiv.org/abs/1711.10455](https://arxiv.org/abs/1711.10455)
+
 # Papers
 
 **Do we Need Hundreds of Classifiers to Solve Real World Classification Problems?**
@@ -1163,8 +1209,6 @@ for creating complex software in C++ to solve real world problems.
 **The most shared Machine Learning conten on Twitter from the past 7 days**
 
 - Based on the millions of #machinelearning tweets already processed by [The Herd Locker](http://theherdlocker.com/tweet/popularity/machinelearning), noise is a little over 94% of the conversation. Tracking the 8,000 daily tweets that are tagged #machineLearning, the platform filters and ranks the most popular shared content in realtime. Machine learning’s zeitgeist, you might say. It's been running for over a year, monitoring half a billion tweets a day, and will always be free to use. No ads. No BS. [http://theherdlocker.com/tweet/popularity/machinelearning](http://theherdlocker.com/tweet/popularity/machinelearning)
-
-
 
 # Projects
 

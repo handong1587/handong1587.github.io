@@ -508,6 +508,12 @@ date: 2015-10-09
 
 [https://arxiv.org/abs/1711.06778](https://arxiv.org/abs/1711.06778)
 
+**Recurrent Relational Networks for Complex Relational Reasoning**
+
+- project page: [https://rasmusbergpalm.github.io/recurrent-relational-networks/](https://rasmusbergpalm.github.io/recurrent-relational-networks/)
+- arxiv: [https://arxiv.org/abs/1711.08028](https://arxiv.org/abs/1711.08028)
+- github: [https://github.com//rasmusbergpalm/recurrent-relational-networks](https://github.com//rasmusbergpalm/recurrent-relational-networks)
+
 ## LSTMVis
 
 **Visual Analysis of Hidden State Dynamics in Recurrent Neural Networks**

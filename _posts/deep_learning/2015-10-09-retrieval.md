@@ -48,12 +48,6 @@ date: 2015-10-09
 - arxiv: [http://arxiv.org/abs/1505.07647](http://arxiv.org/abs/1505.07647)
 - blog: [https://engineering.pinterest.com/blog/introducing-new-way-visually-search-pinterest](https://engineering.pinterest.com/blog/introducing-new-way-visually-search-pinterest)
 
-**Cross-domain Image Retrieval with a Dual Attribute-aware Ranking Network**
-
-- intro: ICCV 2015
-- intro: DARN, cross-entropy loss, triplet loss
-- arxiv: [http://arxiv.org/abs/1505.07922](http://arxiv.org/abs/1505.07922)
-
 **Aggregating Deep Convolutional Features for Image Retrieval**
 
 - intro: ICCV 2015
@@ -226,11 +220,6 @@ and from 73.8% to 83.1% for ResNet-50
 - arxiv: [https://arxiv.org/abs/1704.00763](https://arxiv.org/abs/1704.00763)
 - github: [https://github.com/kanchen-usc/amc_att](https://github.com/kanchen-usc/amc_att)
 
-**Deep Learning for Content-Based, Cross-Modal Retrieval of Videos and Music**
-
-- arxiv: [https://arxiv.org/abs/1704.06761](https://arxiv.org/abs/1704.06761)
-- supplementary: [https://youtu.be/ZyINqDMo3Fg](https://youtu.be/ZyINqDMo3Fg)
-
 **Deep image representations using caption generators**
 
 - intro: ICME 2017
@@ -264,11 +253,6 @@ and from 73.8% to 83.1% for ResNet-50
 - arxiv: [https://arxiv.org/abs/1707.02581](https://arxiv.org/abs/1707.02581)
 - github: [https://github.com/imatge-upc/retrieval-2017-cam](https://github.com/imatge-upc/retrieval-2017-cam)
 
-**Deep Binaries: Encoding Semantic-Rich Cues for Efficient Textual-Visual Cross Retrieval**
-
-- intro: ICCV 2017
-- arxiv: [https://arxiv.org/abs/1708.02531](https://arxiv.org/abs/1708.02531)
-
 **Learning a Repression Network for Precise Vehicle Search**
 
 [https://arxiv.org/abs/1708.02386](https://arxiv.org/abs/1708.02386)
@@ -277,10 +261,6 @@ and from 73.8% to 83.1% for ResNet-50
 
 - intro: ICCV 2017 (Spotlight). Technicolor & INRIA Rennes & Amazon
 - arxiv: [https://arxiv.org/abs/1708.02932](https://arxiv.org/abs/1708.02932)
-
-**MHTN: Modal-adversarial Hybrid Transfer Network for Cross-modal Retrieval**
-
-[https://arxiv.org/abs/1708.04308](https://arxiv.org/abs/1708.04308)
 
 **Pruning Convolutional Neural Networks for Image Instance Retrieval**
 
@@ -291,18 +271,18 @@ and from 73.8% to 83.1% for ResNet-50
 - intro: ICCV 2017. Chinese Academy of Sciences & Northwestern Polytechnical University
 - arxiv: [https://arxiv.org/abs/1708.05851](https://arxiv.org/abs/1708.05851)
 
-**Cross-Domain Image Retrieval with Attention Modeling**
-
-[https://arxiv.org/abs/1709.01784](https://arxiv.org/abs/1709.01784)
-
 **Region-Based Image Retrieval Revisited**
 
 - intro: ACM Multimedia 2017 (Oral)
 - arxiv: [https://arxiv.org/abs/1709.09106](https://arxiv.org/abs/1709.09106)
 
-**Look, Imagine and Match: Improving Textual-Visual Cross-Modal Retrieval with Generative Models**
+**Beyond Part Models: Person Retrieval with Refined Part Pooling**
 
-[https://arxiv.org/abs/1711.06420](https://arxiv.org/abs/1711.06420)
+[https://arxiv.org/abs/1711.09349](https://arxiv.org/abs/1711.09349)
+
+**Query-Adaptive R-CNN for Open-Vocabulary Object Detection and Retrieval**
+
+[https://arxiv.org/abs/1711.09509](https://arxiv.org/abs/1711.09509)
 
 # Hashing
 
@@ -448,7 +428,59 @@ and from 73.8% to 83.1% for ResNet-50
 
 **A Revisit on Deep Hashings for Large-scale Content Based Image Retrieval**
 
-[https://arxiv.org/abs/1711.06016](https://arxiv.org/abs/1711.06016)
+- intro: Zhejiang University
+- arixv: [https://arxiv.org/abs/1711.06016](https://arxiv.org/abs/1711.06016)
+
+**The Devil is in the Middle: Exploiting Mid-level Representations for Cross-Domain Instance Matching**
+
+[https://arxiv.org/abs/1711.08106](https://arxiv.org/abs/1711.08106)
+
+**ForestHash: Semantic Hashing With Shallow Random Forests and Tiny Convolutional Networks**
+
+[https://arxiv.org/abs/1711.08364](https://arxiv.org/abs/1711.08364)
+
+**Supervised Hashing with End-to-End Binary Deep Neural Network**
+
+[https://arxiv.org/abs/1711.08901](https://arxiv.org/abs/1711.08901)
+
+**Saliency Weighted Convolutional Features for Instance Search**
+
+- project page: [https://imatge-upc.github.io/salbow/](https://imatge-upc.github.io/salbow/)
+- github: [https://arxiv.org/abs/1711.10795](https://arxiv.org/abs/1711.10795)
+
+# Cross Modal Retrieval
+
+**Cross-domain Image Retrieval with a Dual Attribute-aware Ranking Network**
+
+- intro: ICCV 2015
+- intro: DARN, cross-entropy loss, triplet loss
+- arxiv: [http://arxiv.org/abs/1505.07922](http://arxiv.org/abs/1505.07922)
+
+**Deep Learning for Content-Based, Cross-Modal Retrieval of Videos and Music**
+
+- arxiv: [https://arxiv.org/abs/1704.06761](https://arxiv.org/abs/1704.06761)
+- supplementary: [https://youtu.be/ZyINqDMo3Fg](https://youtu.be/ZyINqDMo3Fg)
+
+**Deep Binaries: Encoding Semantic-Rich Cues for Efficient Textual-Visual Cross Retrieval**
+
+- intro: ICCV 2017
+- arxiv: [https://arxiv.org/abs/1708.02531](https://arxiv.org/abs/1708.02531)
+
+**MHTN: Modal-adversarial Hybrid Transfer Network for Cross-modal Retrieval**
+
+[https://arxiv.org/abs/1708.04308](https://arxiv.org/abs/1708.04308)
+
+**Cross-Domain Image Retrieval with Attention Modeling**
+
+[https://arxiv.org/abs/1709.01784](https://arxiv.org/abs/1709.01784)
+
+**Look, Imagine and Match: Improving Textual-Visual Cross-Modal Retrieval with Generative Models**
+
+[https://arxiv.org/abs/1711.06420](https://arxiv.org/abs/1711.06420)
+
+**HashGAN:Attention-aware Deep Adversarial Hashing for Cross Modal Retrieval**
+
+[https://arxiv.org/abs/1711.09347](https://arxiv.org/abs/1711.09347)
 
 ## Projects
 

@@ -721,6 +721,16 @@ date: 2015-10-09
 
 [https://arxiv.org/abs/1711.03343](https://arxiv.org/abs/1711.03343)
 
+**Fixing Weight Decay Regularization in Adam**
+
+- arxiv: [https://arxiv.org/abs/1711.05101](https://arxiv.org/abs/1711.05101)
+- github: [https://github.com/loshchil/AdamW-and-SGDW](https://github.com/loshchil/AdamW-and-SGDW)
+- github: [https://github.com/fastai/fastai/pull/46/files](https://github.com/fastai/fastai/pull/46/files)
+
+**Regularization of Deep Neural Networks with Spectral Dropout**
+
+[https://arxiv.org/abs/1711.08591](https://arxiv.org/abs/1711.08591)
+
 ## DropConnect
 
 **Regularization of Neural Networks using DropConnect**
@@ -829,6 +839,11 @@ date: 2015-10-09
 
 - intro: Google Brain
 - arxiv: [https://arxiv.org/abs/1710.06451](https://arxiv.org/abs/1710.06451)
+
+**Accelerated Gradient Descent Escapes Saddle Points Faster than Gradient Descent**
+
+- intro: UC Berkeley & Microsoft Research, India
+- arxiv: [https://arxiv.org/abs/1711.10456](https://arxiv.org/abs/1711.10456)
 
 ## AdaGrad
 

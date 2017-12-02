@@ -98,10 +98,19 @@ date: 2015-10-09
 - intro: ICCV workshop CVRSUAD2017. Indiana University & Preferred Networks
 - arxiv: [https://arxiv.org/abs/1708.06118](https://arxiv.org/abs/1708.06118)
 
+**Superpixel clustering with deep features for unsupervised road segmentation**
+
+- intro: Preferred Networks, Inc & Indiana University
+- arxiv: [https://arxiv.org/abs/1711.05998](https://arxiv.org/abs/1711.05998)
+
 **Learning to Segment Human by Watching YouTube**
 
 - intro: TPAMI 2017
 - arxiv: [https://arxiv.org/abs/1710.01457](https://arxiv.org/abs/1710.01457)
+
+**W-Net: A Deep Model for Fully Unsupervised Image Segmentation**
+
+[https://arxiv.org/abs/1711.08506](https://arxiv.org/abs/1711.08506)
 
 # Foreground Object Segmentation
 
@@ -619,6 +628,14 @@ with built-in awareness of semantically meaningful boundaries. "
 
 [https://arxiv.org/abs/1711.06969](https://arxiv.org/abs/1711.06969)
 
+**Neuron-level Selective Context Aggregation for Scene Segmentation**
+
+[https://arxiv.org/abs/1711.08278](https://arxiv.org/abs/1711.08278)
+
+**Road Extraction by Deep Residual U-Net**
+
+[https://arxiv.org/abs/1711.10684](https://arxiv.org/abs/1711.10684)
+
 # Instance Segmentation
 
 **Simultaneous Detection and Segmentation**
@@ -766,6 +783,16 @@ with built-in awareness of semantically meaningful boundaries. "
 
 - arxiv: [https://arxiv.org/abs/1711.07618](https://arxiv.org/abs/1711.07618)
 - github: [https://github.com/RuochenFan/S4Net](https://github.com/RuochenFan/S4Net)
+
+**Deep Extreme Cut: From Extreme Points to Object Segmentation**
+
+[https://arxiv.org/abs/1711.09081](https://arxiv.org/abs/1711.09081)
+
+**Learning to Segment Every Thing**
+
+- intro: UC Berkeley & Facebook AI Research
+- keywords: MaskX R-CNN
+- arxiv: [https://arxiv.org/abs/1711.10370](https://arxiv.org/abs/1711.10370)
 
 # Specific Segmentation
 
@@ -1040,6 +1067,10 @@ ranked 1st place in ImageNet Scene Parsing Challenge 2016
 - project page: [https://sites.google.com/site/yihsuantsai/research/iccv17-segflow](https://sites.google.com/site/yihsuantsai/research/iccv17-segflow)
 - arxiv: [https://arxiv.org/abs/1709.06750](https://arxiv.org/abs/1709.06750)
 - github: [https://github.com/JingchunCheng/SegFlow](https://github.com/JingchunCheng/SegFlow)
+
+**Video Semantic Object Segmentation by Self-Adaptation of DCNN**
+
+[https://arxiv.org/abs/1711.08180](https://arxiv.org/abs/1711.08180)
 
 ## Challenge
 

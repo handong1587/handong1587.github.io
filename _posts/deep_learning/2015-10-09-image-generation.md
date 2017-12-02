@@ -181,6 +181,10 @@ date: 2015-10-09
 
 [https://arxiv.org/abs/1708.02688](https://arxiv.org/abs/1708.02688)
 
+**Sketch-to-Image Generation Using Deep Contextual Completion**
+
+[https://arxiv.org/abs/1711.08972](https://arxiv.org/abs/1711.08972)
+
 # Video Generation
 
 **Attentive Semantic Video Generation using Captions**

@@ -572,7 +572,7 @@ It is an experimental refactoring of Caffe, and allows a more flexible way to or
 
 - github: [https://github.com/pytorch/pytorch](https://github.com/pytorch/pytorch)
 
-***Datasets, Transforms and Models specific to Computer Vision**
+**Datasets, Transforms and Models specific to Computer Vision**
 
 [https://github.com/pytorch/vision/](https://github.com/pytorch/vision/)
 
@@ -667,6 +667,10 @@ It is an experimental refactoring of Caffe, and allows a more flexible way to or
 **TensorFlow: A system for large-scale machine learning**
 
 - arxiv: [http://arxiv.org/abs/1605.08695](http://arxiv.org/abs/1605.08695)
+
+**TensorFlow Distributions**
+
+[https://arxiv.org/abs/1711.10604](https://arxiv.org/abs/1711.10604)
 
 ## Tutorials
 
@@ -812,7 +816,13 @@ It is suitable for deep learning on limited computational resource, embedded sys
 
 # Benchmarks
 
+**Easy benchmarking of all publicly accessible implementations of convnets**
+
 [https://github.com/soumith/convnet-benchmarks](https://github.com/soumith/convnet-benchmarks)
+
+**Stanford DAWN Deep Learning Benchmark (DAWNBench) - An End-to-End Deep Learning Benchmark and Competition**
+
+[http://dawn.cs.stanford.edu/benchmark/index.html](http://dawn.cs.stanford.edu/benchmark/index.html)
 
 # Tutorials
 

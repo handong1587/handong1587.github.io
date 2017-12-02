@@ -291,6 +291,11 @@ Contains all the popular DL frameworks (TensorFlow, Theano, Torch, Caffe, etc.)
 
 - blog: [https://amundtveit.com/2016/11/23/deep-learning-with-fpga/](https://amundtveit.com/2016/11/23/deep-learning-with-fpga/)
 
+**A General Neural Network Hardware Architecture on FPGA**
+
+- intro: University of Birmingham
+- arxiv: [https://arxiv.org/abs/1711.05860](https://arxiv.org/abs/1711.05860)
+
 # ARM / Processor
 
 **'Neural network' spotted deep inside Samsung's Galaxy S7 silicon brain: Secrets of Exynos M1 cores spilled**

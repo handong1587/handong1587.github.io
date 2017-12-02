@@ -214,6 +214,15 @@ date: 2015-10-09
 - intro: CMU & Facebook AI Research
 - arxiv: [https://arxiv.org/abs/1711.07971](https://arxiv.org/abs/1711.07971)
 
+**Temporal 3D ConvNets: New Architecture and Transfer Learning for Video Classification**
+
+[https://arxiv.org/abs/1711.08200](https://arxiv.org/abs/1711.08200)
+
+**Appearance-and-Relation Networks for Video Classification**
+
+- arxiv: [https://arxiv.org/abs/1711.09125](https://arxiv.org/abs/1711.09125)
+- github: [https://github.com/wanglimin/ARTNet](https://github.com/wanglimin/ARTNet)
+
 ## Action Detection / Activity Recognition
 
 **3d convolutional neural networks for human action recognition**

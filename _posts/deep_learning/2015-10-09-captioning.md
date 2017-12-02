@@ -305,6 +305,10 @@ after the embedding and recurrent layers of the RNN."
 - intro: ACCV2016 extension, phrase-based image captioning
 - arxiv: [https://arxiv.org/abs/1711.05557](https://arxiv.org/abs/1711.05557)
 
+**Convolutional Image Captioning**
+
+[https://arxiv.org/abs/1711.09151](https://arxiv.org/abs/1711.09151)
+
 # Object Descriptions
 
 **Generation and Comprehension of Unambiguous Object Descriptions**
@@ -459,6 +463,14 @@ after the embedding and recurrent layers of the RNN."
 **Grounded Objects and Interactions for Video Captioning**
 
 [https://arxiv.org/abs/1711.06354](https://arxiv.org/abs/1711.06354)
+
+**Integrating both Visual and Audio Cues for Enhanced Video Caption**
+
+[https://arxiv.org/abs/1711.08097](https://arxiv.org/abs/1711.08097)
+
+**Video Captioning via Hierarchical Reinforcement Learning**
+
+[https://arxiv.org/abs/1711.11135](https://arxiv.org/abs/1711.11135)
 
 # Projects
 
