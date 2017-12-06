@@ -636,6 +636,12 @@ with built-in awareness of semantically meaningful boundaries. "
 
 [https://arxiv.org/abs/1711.10684](https://arxiv.org/abs/1711.10684)
 
+**Mix-and-Match Tuning for Self-Supervised Semantic Segmentation**
+
+- intro: AAAI 2018
+- project page: [http://mmlab.ie.cuhk.edu.hk/projects/M&M/](http://mmlab.ie.cuhk.edu.hk/projects/M&M/)
+- arxiv: [https://arxiv.org/abs/1712.00661](https://arxiv.org/abs/1712.00661)
+
 # Instance Segmentation
 
 **Simultaneous Detection and Segmentation**
@@ -793,6 +799,12 @@ with built-in awareness of semantically meaningful boundaries. "
 - intro: UC Berkeley & Facebook AI Research
 - keywords: MaskX R-CNN
 - arxiv: [https://arxiv.org/abs/1711.10370](https://arxiv.org/abs/1711.10370)
+
+**Recurrent Neural Networks for Semantic Instance Segmentation**
+
+- project page: [https://imatge-upc.github.io/rsis/](https://imatge-upc.github.io/rsis/)
+- arxiv: [https://arxiv.org/abs/1712.00617](https://arxiv.org/abs/1712.00617)
+- github: [https://github.com/imatge-upc/rsis](https://github.com/imatge-upc/rsis)
 
 # Specific Segmentation
 
@@ -1071,6 +1083,10 @@ ranked 1st place in ImageNet Scene Parsing Challenge 2016
 **Video Semantic Object Segmentation by Self-Adaptation of DCNN**
 
 [https://arxiv.org/abs/1711.08180](https://arxiv.org/abs/1711.08180)
+
+**Learning to Segment Moving Objects**
+
+[https://arxiv.org/abs/1712.01127](https://arxiv.org/abs/1712.01127)
 
 ## Challenge
 

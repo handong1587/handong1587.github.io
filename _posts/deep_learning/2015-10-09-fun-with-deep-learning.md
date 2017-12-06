@@ -381,6 +381,10 @@ Compressed model is less than 500KB
 - intro: Tsinghua University & Tencent AI Lab
 - paper: [http://openaccess.thecvf.com/content_cvpr_2017/papers/Huang_Real-Time_Neural_Style_CVPR_2017_paper.pdf](http://openaccess.thecvf.com/content_cvpr_2017/papers/Huang_Real-Time_Neural_Style_CVPR_2017_paper.pdf)
 
+**Multi-Content GAN for Few-Shot Font Style Transfer**
+
+[https://arxiv.org/abs/1712.00516](https://arxiv.org/abs/1712.00516)
+
 ## Neural Doodle
 
 **Semantic Style Transfer and Turning Two-Bit Doodles into Fine Artworks**

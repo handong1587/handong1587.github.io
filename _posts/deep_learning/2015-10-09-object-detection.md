@@ -30,13 +30,6 @@ date: 2015-10-09
 | R-FCN (ResNet-101),multi sc train | 83.6% |     | 82.0%       |             | 31.5%(@[0.5-0.95]), 53.2%(@0.5) | |
 | PVANet 9.0          | 89.8%       |             | 84.2%       |             |             | 750ms(CPU), 46ms(TitianX) |
 
-# Leaderboard
-
-**Detection Results: VOC2012**
-
-- intro: Competition "comp4" (train on additional data)
-- homepage: [http://host.robots.ox.ac.uk:8080/leaderboard/displaylb.php?challengeid=11&compid=4](http://host.robots.ox.ac.uk:8080/leaderboard/displaylb.php?challengeid=11&compid=4)
-
 # Papers
 
 **Deep Neural Networks for Object Detection**
@@ -105,6 +98,10 @@ date: 2015-10-09
 - github: [https://github.com/Eniac-Xie/faster-rcnn-resnet](https://github.com/Eniac-Xie/faster-rcnn-resnet)
  -github(C++): [https://github.com/D-X-Y/caffe-faster-rcnn/tree/dev](https://github.com/D-X-Y/caffe-faster-rcnn/tree/dev)
 
+**R-CNN minus R**
+
+- arxiv: [http://arxiv.org/abs/1506.06981](http://arxiv.org/abs/1506.06981)
+
 **Faster R-CNN in MXNet with distributed implementation and data parallelization**
 
 - github: [https://github.com/dmlc/mxnet/tree/master/example/rcnn](https://github.com/dmlc/mxnet/tree/master/example/rcnn)
@@ -126,6 +123,21 @@ date: 2015-10-09
 - intro: North Carolina State University & Alibaba
 - keywords: AND-OR Graph (AOG)
 - arxiv: [https://arxiv.org/abs/1711.05226](https://arxiv.org/abs/1711.05226)
+
+## Light-Head R-CNN
+
+**Light-Head R-CNN: In Defense of Two-Stage Object Detector**
+
+- intro: Tsinghua University & Megvii Inc
+- arxiv: [https://arxiv.org/abs/1711.07264](https://arxiv.org/abs/1711.07264)
+- github: [https://github.com/terrychenism/Deformable-ConvNets/blob/master/rfcn/symbols/resnet_v1_101_rfcn_light.py#L784](https://github.com/terrychenism/Deformable-ConvNets/blob/master/rfcn/symbols/resnet_v1_101_rfcn_light.py#L784)
+
+## Cascade R-CNN
+
+**Cascade R-CNN: Delving into High Quality Object Detection**
+
+[https://arxiv.org/abs/1712.00726](https://arxiv.org/abs/1712.00726)
+[https://github.com/zhaoweicai/cascade-rcnn](https://github.com/zhaoweicai/cascade-rcnn)
 
 - - -
 
@@ -177,11 +189,10 @@ date: 2015-10-09
 - arxiv: [https://arxiv.org/abs/1502.04275](https://arxiv.org/abs/1502.04275)
 - github: [https://github.com/YknZhu/segDeepM](https://github.com/YknZhu/segDeepM)
 
-## NoC
-
 **Object Detection Networks on Convolutional Feature Maps**
 
 - intro: TPAMI 2015
+- keywords: NoC
 - arxiv: [http://arxiv.org/abs/1504.06066](http://arxiv.org/abs/1504.06066)
 
 **Improving Object Detection with Deep Convolutional Networks via Bayesian Optimization and Structured Prediction**
@@ -190,10 +201,9 @@ date: 2015-10-09
 - slides: [http://www.ytzhang.net/files/publications/2015-cvpr-det-slides.pdf](http://www.ytzhang.net/files/publications/2015-cvpr-det-slides.pdf)
 - github: [https://github.com/YutingZhang/fgs-obj](https://github.com/YutingZhang/fgs-obj)
 
-## DeepBox
-
 **DeepBox: Learning Objectness with Convolutional Networks**
 
+- keywords: DeepBox
 - arxiv: [http://arxiv.org/abs/1505.02146](http://arxiv.org/abs/1505.02146)
 - github: [https://github.com/weichengkuo/DeepBox](https://github.com/weichengkuo/DeepBox)
 
@@ -281,12 +291,6 @@ date: 2015-10-09
 
 - - -
 
-**R-CNN minus R**
-
-- arxiv: [http://arxiv.org/abs/1506.06981](http://arxiv.org/abs/1506.06981)
-
-## AttentionNet
-
 **AttentionNet: Aggregating Weak Directions for Accurate Object Detection**
 
 - intro: ICCV 2015
@@ -349,7 +353,11 @@ date: 2015-10-09
 
 [https://arxiv.org/abs/1709.05054](https://arxiv.org/abs/1709.05054)
 
-- - -
+## FSSD
+
+**FSSD: Feature Fusion Single Shot Multibox Detector**
+
+[https://arxiv.org/abs/1712.00960](https://arxiv.org/abs/1712.00960)
 
 ## Inside-Outside Net (ION)
 
@@ -368,8 +376,6 @@ and 1.15s per image with it".
 - github: [https://github.com/luyongxi/az-net](https://github.com/luyongxi/az-net)
 - youtube: [https://www.youtube.com/watch?v=YmFtuNwxaNM](https://www.youtube.com/watch?v=YmFtuNwxaNM)
 
-## G-CNN
-
 **G-CNN: an Iterative Grid Based Object Detector**
 
 - arxiv: [http://arxiv.org/abs/1512.07729](http://arxiv.org/abs/1512.07729)
@@ -386,13 +392,9 @@ and 1.15s per image with it".
 
 - arxiv: [http://arxiv.org/abs/1602.08405](http://arxiv.org/abs/1602.08405)
 
-## HyperNet
-
 **HyperNet: Towards Accurate Region Proposal Generation and Joint Object Detection**
 
 - arxiv: [http://arxiv.org/abs/1604.00600](http://arxiv.org/abs/1604.00600)
-
-## MultiPathNet
 
 **A MultiPath Network for Object Detection**
 
@@ -420,6 +422,12 @@ and 1.15s per image with it".
 - github(Official): [https://github.com/abhi2610/ohem](https://github.com/abhi2610/ohem)
 - author page: [http://abhinav-shrivastava.info/](http://abhinav-shrivastava.info/)
 
+**S-OHEM: Stratified Online Hard Example Mining for Object Detection**
+
+[https://arxiv.org/abs/1705.02233](https://arxiv.org/abs/1705.02233)
+
+- - -
+
 **Exploit All the Layers: Fast and Accurate CNN Object Detector with Scale Dependent Pooling and Cascaded Rejection Classifiers**
 
 - intro: CVPR 2016
@@ -436,6 +444,10 @@ and 1.15s per image with it".
 - github: [https://github.com/PureDiors/pytorch_RFCN](https://github.com/PureDiors/pytorch_RFCN)
 - github: [https://github.com/bharatsingh430/py-R-FCN-multiGPU](https://github.com/bharatsingh430/py-R-FCN-multiGPU)
 - github: [https://github.com/xdever/RFCN-tensorflow](https://github.com/xdever/RFCN-tensorflow)
+
+**R-FCN-3000 at 30fps: Decoupling Detection and Classification**
+
+[https://arxiv.org/abs/1712.01802](https://arxiv.org/abs/1712.01802)
 
 **Recycle deep features for better object detection**
 
@@ -552,10 +564,9 @@ Continuation of [arXiv:1608.08021](https://arxiv.org/abs/1608.08021)
 - intro: University of Maryland & Mitsubishi Electric Research Laboratories
 - arxiv: [https://arxiv.org/abs/1702.01478](https://arxiv.org/abs/1702.01478)
 
-## CC-Net
-
 **Learning Chained Deep Features and Classifiers for Cascade in Object Detection**
 
+- keykwords: CC-Net
 - intro: chained cascade network (CC-Net). 81.1% mAP on PASCAL VOC 2007
 - arxiv: [https://arxiv.org/abs/1702.07054](https://arxiv.org/abs/1702.07054)
 
@@ -582,10 +593,6 @@ Continuation of [arXiv:1608.08021](https://arxiv.org/abs/1608.08021)
 **Deep Occlusion Reasoning for Multi-Camera Multi-Target Detection**
 
 [https://arxiv.org/abs/1704.05775](https://arxiv.org/abs/1704.05775)
-
-**S-OHEM: Stratified Online Hard Example Mining for Object Detection**
-
-[https://arxiv.org/abs/1705.02233](https://arxiv.org/abs/1705.02233)
 
 **LCDet: Low-Complexity Fully-Convolutional Neural Networks for Object Detection in Embedded Systems**
 
@@ -688,16 +695,12 @@ Continuation of [arXiv:1608.08021](https://arxiv.org/abs/1608.08021)
 - keywords: multi-instance multi-label domain adaption learning framework
 - arxiv: [https://arxiv.org/abs/1711.05954](https://arxiv.org/abs/1711.05954)
 
+## MegDet
+
 **MegDet: A Large Mini-Batch Object Detector**
 
 - intro: Peking University & Tsinghua University & Megvii Inc
 - arxiv: [https://arxiv.org/abs/1711.07240](https://arxiv.org/abs/1711.07240)
-
-**Light-Head R-CNN: In Defense of Two-Stage Object Detector**
-
-- intro: Tsinghua University & Megvii Inc
-- arxiv: [https://arxiv.org/abs/1711.07264](https://arxiv.org/abs/1711.07264)
-- github: [https://github.com/terrychenism/Deformable-ConvNets/blob/master/rfcn/symbols/resnet_v1_101_rfcn_light.py#L784](https://github.com/terrychenism/Deformable-ConvNets/blob/master/rfcn/symbols/resnet_v1_101_rfcn_light.py#L784)
 
 **Single-Shot Refinement Neural Network for Object Detection**
 
@@ -733,6 +736,11 @@ Continuation of [arXiv:1608.08021](https://arxiv.org/abs/1608.08021)
 
 [https://arxiv.org/abs/1711.11575](https://arxiv.org/abs/1711.11575)
 
+**Learning Object Detectors from Scratch with Gated Recurrent Feature Pyramids**
+
+- arxiv: [https://arxiv.org/abs/1712.00886](https://arxiv.org/abs/1712.00886)
+- github: [https://github.com/szq0214/GRP-DSOD](https://github.com/szq0214/GRP-DSOD)
+
 ## NMS
 
 **End-to-End Integration of a Convolutional Network, Deformable Parts Model and Non-Maximum Suppression**
@@ -758,7 +766,7 @@ Continuation of [arXiv:1608.08021](https://arxiv.org/abs/1608.08021)
 
 [https://arxiv.org/abs/1705.02950](https://arxiv.org/abs/1705.02950)
 
-## Weakly Supervised Object Detection
+# Weakly Supervised Object Detection
 
 **Track and Transfer: Watching Videos to Simulate Strong Human Supervision for Weakly-Supervised Object Detection**
 
@@ -794,8 +802,6 @@ Continuation of [arXiv:1608.08021](https://arxiv.org/abs/1608.08021)
 - intro: Submitted on 12 Jan 2016
 - keywords: Deep learning, saliency map, optical flow, convolution network, contrast features
 - paper: [https://hal.archives-ouvertes.fr/hal-01251614/document](https://hal.archives-ouvertes.fr/hal-01251614/document)
-
-## T-CNN
 
 **T-CNN: Tubelets with Convolutional Neural Networks for Object Detection from Videos**
 
@@ -1099,91 +1105,7 @@ This task involves predicting the salient regions of an image given by human eye
 
 [https://arxiv.org/abs/1711.06032](https://arxiv.org/abs/1711.06032)
 
-# Specific Object Deteciton
-
-**Deep Deformation Network for Object Landmark Localization**
-
-- arxiv: [http://arxiv.org/abs/1605.01014](http://arxiv.org/abs/1605.01014)
-
-**Fashion Landmark Detection in the Wild**
-
-- intro: ECCV 2016
-- project page: [http://personal.ie.cuhk.edu.hk/~lz013/projects/FashionLandmarks.html](http://personal.ie.cuhk.edu.hk/~lz013/projects/FashionLandmarks.html)
-- arxiv: [http://arxiv.org/abs/1608.03049](http://arxiv.org/abs/1608.03049)
-- github(Caffe): [https://github.com/liuziwei7/fashion-landmarks](https://github.com/liuziwei7/fashion-landmarks)
-
-**Deep Learning for Fast and Accurate Fashion Item Detection**
-
-- intro: Kuznech Inc.
-- intro: MultiBox and Fast R-CNN
-- paper: [https://kddfashion2016.mybluemix.net/kddfashion_finalSubmissions/Deep%20Learning%20for%20Fast%20and%20Accurate%20Fashion%20Item%20Detection.pdf](https://kddfashion2016.mybluemix.net/kddfashion_finalSubmissions/Deep%20Learning%20for%20Fast%20and%20Accurate%20Fashion%20Item%20Detection.pdf)
-
-**OSMDeepOD - OSM and Deep Learning based Object Detection from Aerial Imagery (formerly known as "OSM-Crosswalk-Detection")**
-
-![](https://raw.githubusercontent.com/geometalab/OSMDeepOD/master/imgs/process.png)
-
-- github: [https://github.com/geometalab/OSMDeepOD](https://github.com/geometalab/OSMDeepOD)
-
-**Selfie Detection by Synergy-Constraint Based Convolutional Neural Network**
-
-- intro:  IEEE SITIS 2016
-- arxiv: [https://arxiv.org/abs/1611.04357](https://arxiv.org/abs/1611.04357)
-
-**Associative Embedding:End-to-End Learning for Joint Detection and Grouping**
-
-- arxiv: [https://arxiv.org/abs/1611.05424](https://arxiv.org/abs/1611.05424)
-
-**Deep Cuboid Detection: Beyond 2D Bounding Boxes**
-
-- intro: CMU & Magic Leap
-- arxiv: [https://arxiv.org/abs/1611.10010](https://arxiv.org/abs/1611.10010)
-
-**Automatic Model Based Dataset Generation for Fast and Accurate Crop and Weeds Detection**
-
-- arxiv: [https://arxiv.org/abs/1612.03019](https://arxiv.org/abs/1612.03019)
-
-**Deep Learning Logo Detection with Data Expansion by Synthesising Context**
-
-- arxiv: [https://arxiv.org/abs/1612.09322](https://arxiv.org/abs/1612.09322)
-
-**Pixel-wise Ear Detection with Convolutional Encoder-Decoder Networks**
-
-- arxiv: [https://arxiv.org/abs/1702.00307](https://arxiv.org/abs/1702.00307)
-
-**Automatic Handgun Detection Alarm in Videos Using Deep Learning**
-
-- arxiv: [https://arxiv.org/abs/1702.05147](https://arxiv.org/abs/1702.05147)
-- results: [https://github.com/SihamTabik/Pistol-Detection-in-Videos](https://github.com/SihamTabik/Pistol-Detection-in-Videos)
-
-**Using Deep Networks for Drone Detection**
-
-- intro: AVSS 2017
-- arxiv: [https://arxiv.org/abs/1706.05726](https://arxiv.org/abs/1706.05726)
-
-**Cut, Paste and Learn: Surprisingly Easy Synthesis for Instance Detection**
-
-- intro: ICCV 2017
-- arxiv: [https://arxiv.org/abs/1708.01642](https://arxiv.org/abs/1708.01642)
-
-**DeepVoting: An Explainable Framework for Semantic Part Detection under Partial Occlusion**
-
-[https://arxiv.org/abs/1709.04577](https://arxiv.org/abs/1709.04577)
-
-**Fast Shadow Detection from a Single Image Using a Patched Convolutional Neural Network**
-
-[https://arxiv.org/abs/1709.09283](https://arxiv.org/abs/1709.09283)
-
-**VPGNet: Vanishing Point Guided Network for Lane and Road Marking Detection and Recognition**
-
-- intro: ICCV 2017
-- arxiv: [https://arxiv.org/abs/1710.06288](https://arxiv.org/abs/1710.06288)
-- github: [https://github.com/SeokjuLee/VPGNet](https://github.com/SeokjuLee/VPGNet)
-
-**Grab, Pay and Eat: Semantic Food Detection for Smart Restaurants**
-
-[https://arxiv.org/abs/1711.05128](https://arxiv.org/abs/1711.05128)
-
-## Face Deteciton
+# Face Deteciton
 
 **Multi-view Face Detection Using Deep Convolutional Neural Networks**
 
@@ -1234,7 +1156,7 @@ This task involves predicting the salient regions of an image given by human eye
 
 - arxiv: [http://arxiv.org/abs/1607.05477](http://arxiv.org/abs/1607.05477)
 
-### UnitBox
+## UnitBox
 
 **UnitBox: An Advanced Object Detection Network**
 
@@ -1259,7 +1181,7 @@ This task involves predicting the salient regions of an image given by human eye
 - intro: ICPR 2016
 - arxiv: [http://arxiv.org/abs/1609.03536](http://arxiv.org/abs/1609.03536)
 
-### MTCNN
+## MTCNN
 
 **Joint Face Detection and Alignment using Multi-task Cascaded Convolutional Networks**
 
@@ -1349,7 +1271,11 @@ This task involves predicting the salient regions of an image given by human eye
 
 [https://arxiv.org/abs/1711.07246](https://arxiv.org/abs/1711.07246)
 
-## Facial Point / Landmark Detection
+**Feature Agglomeration Networks for Single Stage Face Detection**
+
+[https://arxiv.org/abs/1712.00721](https://arxiv.org/abs/1712.00721)
+
+# Facial Point / Landmark Detection
 
 **Deep Convolutional Network Cascade for Facial Point Detection**
 
@@ -1425,7 +1351,7 @@ This task involves predicting the salient regions of an image given by human eye
 
 - arxiv: [https://arxiv.org/abs/1702.04593](https://arxiv.org/abs/1702.04593)
 
-## Person Head Detection
+# Person Head Detection
 
 **Context-aware CNNs for person head detection**
 
@@ -1434,7 +1360,7 @@ This task involves predicting the salient regions of an image given by human eye
 - arxiv: [http://arxiv.org/abs/1511.07917](http://arxiv.org/abs/1511.07917)
 - github: [https://github.com/aosokin/cnn_head_detection](https://github.com/aosokin/cnn_head_detection)
 
-## Pedestrian Detection
+# Pedestrian Detection
 
 **Pedestrian Detection aided by Deep Learning Semantic Tasks**
 
@@ -1539,7 +1465,7 @@ This task involves predicting the salient regions of an image given by human eye
 
 [https://arxiv.org/abs/1711.07752](https://arxiv.org/abs/1711.07752)
 
-## Vehicle Detection
+# Vehicle Detection
 
 **DAVE: A Unified Framework for Fast Vehicle Detection and Annotation**
 
@@ -1555,7 +1481,7 @@ This task involves predicting the salient regions of an image given by human eye
 - intro: AAAI 2016
 - arxiv: [https://arxiv.org/abs/1709.02480](https://arxiv.org/abs/1709.02480)
 
-## Traffic-Sign Detection
+# Traffic-Sign Detection
 
 **Traffic-Sign Detection and Classification in the Wild**
 
@@ -1568,7 +1494,7 @@ This task involves predicting the salient regions of an image given by human eye
 - intro: IEEE Conference on Information Reuse and Integration (IRI) 2017 oral
 - arxiv: [https://arxiv.org/abs/1706.08574](https://arxiv.org/abs/1706.08574)
 
-## Boundary / Edge / Contour Detection
+# Boundary / Edge / Contour Detection
 
 **Holistically-Nested Edge Detection**
 
@@ -1618,7 +1544,7 @@ This task involves predicting the salient regions of an image given by human eye
 - code: [http://www.merl.com/research/license#CASENet](http://www.merl.com/research/license#CASENet)
 - video: [https://www.youtube.com/watch?v=BNE1hAP6Qho](https://www.youtube.com/watch?v=BNE1hAP6Qho)
 
-## Skeleton Detection
+# Skeleton Detection
 
 **Object Skeleton Extraction in Natural Images by Fusing Scale-associated Deep Side Outputs**
 
@@ -1637,7 +1563,7 @@ This task involves predicting the salient regions of an image given by human eye
 - arxiv: [https://arxiv.org/abs/1703.02243](https://arxiv.org/abs/1703.02243)
 - github: [https://github.com/KevinKecc/SRN](https://github.com/KevinKecc/SRN)
 
-## Fruit Detection
+# Fruit Detection
 
 **Deep Fruit Detection in Orchards**
 
@@ -1649,11 +1575,97 @@ This task involves predicting the salient regions of an image given by human eye
 - project page: [http://confluence.acfr.usyd.edu.au/display/AGPub/](http://confluence.acfr.usyd.edu.au/display/AGPub/)
 - arxiv: [https://arxiv.org/abs/1610.08120](https://arxiv.org/abs/1610.08120)
 
-## Part Detection
+# Specific Object Deteciton
+
+**Deep Deformation Network for Object Landmark Localization**
+
+- arxiv: [http://arxiv.org/abs/1605.01014](http://arxiv.org/abs/1605.01014)
+
+**Fashion Landmark Detection in the Wild**
+
+- intro: ECCV 2016
+- project page: [http://personal.ie.cuhk.edu.hk/~lz013/projects/FashionLandmarks.html](http://personal.ie.cuhk.edu.hk/~lz013/projects/FashionLandmarks.html)
+- arxiv: [http://arxiv.org/abs/1608.03049](http://arxiv.org/abs/1608.03049)
+- github(Caffe): [https://github.com/liuziwei7/fashion-landmarks](https://github.com/liuziwei7/fashion-landmarks)
+
+**Deep Learning for Fast and Accurate Fashion Item Detection**
+
+- intro: Kuznech Inc.
+- intro: MultiBox and Fast R-CNN
+- paper: [https://kddfashion2016.mybluemix.net/kddfashion_finalSubmissions/Deep%20Learning%20for%20Fast%20and%20Accurate%20Fashion%20Item%20Detection.pdf](https://kddfashion2016.mybluemix.net/kddfashion_finalSubmissions/Deep%20Learning%20for%20Fast%20and%20Accurate%20Fashion%20Item%20Detection.pdf)
+
+**OSMDeepOD - OSM and Deep Learning based Object Detection from Aerial Imagery (formerly known as "OSM-Crosswalk-Detection")**
+
+![](https://raw.githubusercontent.com/geometalab/OSMDeepOD/master/imgs/process.png)
+
+- github: [https://github.com/geometalab/OSMDeepOD](https://github.com/geometalab/OSMDeepOD)
+
+**Selfie Detection by Synergy-Constraint Based Convolutional Neural Network**
+
+- intro:  IEEE SITIS 2016
+- arxiv: [https://arxiv.org/abs/1611.04357](https://arxiv.org/abs/1611.04357)
+
+**Associative Embedding:End-to-End Learning for Joint Detection and Grouping**
+
+- arxiv: [https://arxiv.org/abs/1611.05424](https://arxiv.org/abs/1611.05424)
+
+**Deep Cuboid Detection: Beyond 2D Bounding Boxes**
+
+- intro: CMU & Magic Leap
+- arxiv: [https://arxiv.org/abs/1611.10010](https://arxiv.org/abs/1611.10010)
+
+**Automatic Model Based Dataset Generation for Fast and Accurate Crop and Weeds Detection**
+
+- arxiv: [https://arxiv.org/abs/1612.03019](https://arxiv.org/abs/1612.03019)
+
+**Deep Learning Logo Detection with Data Expansion by Synthesising Context**
+
+- arxiv: [https://arxiv.org/abs/1612.09322](https://arxiv.org/abs/1612.09322)
+
+**Pixel-wise Ear Detection with Convolutional Encoder-Decoder Networks**
+
+- arxiv: [https://arxiv.org/abs/1702.00307](https://arxiv.org/abs/1702.00307)
+
+**Automatic Handgun Detection Alarm in Videos Using Deep Learning**
+
+- arxiv: [https://arxiv.org/abs/1702.05147](https://arxiv.org/abs/1702.05147)
+- results: [https://github.com/SihamTabik/Pistol-Detection-in-Videos](https://github.com/SihamTabik/Pistol-Detection-in-Videos)
 
 **Objects as context for part detection**
 
 [https://arxiv.org/abs/1703.09529](https://arxiv.org/abs/1703.09529)
+
+**Using Deep Networks for Drone Detection**
+
+- intro: AVSS 2017
+- arxiv: [https://arxiv.org/abs/1706.05726](https://arxiv.org/abs/1706.05726)
+
+**Cut, Paste and Learn: Surprisingly Easy Synthesis for Instance Detection**
+
+- intro: ICCV 2017
+- arxiv: [https://arxiv.org/abs/1708.01642](https://arxiv.org/abs/1708.01642)
+
+**DeepVoting: An Explainable Framework for Semantic Part Detection under Partial Occlusion**
+
+[https://arxiv.org/abs/1709.04577](https://arxiv.org/abs/1709.04577)
+
+**Fast Shadow Detection from a Single Image Using a Patched Convolutional Neural Network**
+
+[https://arxiv.org/abs/1709.09283](https://arxiv.org/abs/1709.09283)
+
+**VPGNet: Vanishing Point Guided Network for Lane and Road Marking Detection and Recognition**
+
+- intro: ICCV 2017
+- arxiv: [https://arxiv.org/abs/1710.06288](https://arxiv.org/abs/1710.06288)
+- github: [https://github.com/SeokjuLee/VPGNet](https://github.com/SeokjuLee/VPGNet)
+
+**Grab, Pay and Eat: Semantic Food Detection for Smart Restaurants**
+
+[https://arxiv.org/abs/1711.05128](https://arxiv.org/abs/1711.05128)
+
+**A+D-Net: Shadow Detection with Adversarial Shadow Attenuation**
+
+[https://arxiv.org/abs/1712.01361](https://arxiv.org/abs/1712.01361)
 
 # Object Proposal
 
@@ -1807,6 +1819,13 @@ We additionally provide an implementation of the [ReInspect](https://github.com/
 **Deformable Convolutional Networks + MST + Soft-NMS**
 
 - github: [https://github.com/bharatsingh430/Deformable-ConvNets](https://github.com/bharatsingh430/Deformable-ConvNets)
+
+# Leaderboard
+
+**Detection Results: VOC2012**
+
+- intro: Competition "comp4" (train on additional data)
+- homepage: [http://host.robots.ox.ac.uk:8080/leaderboard/displaylb.php?challengeid=11&compid=4](http://host.robots.ox.ac.uk:8080/leaderboard/displaylb.php?challengeid=11&compid=4)
 
 # Tools
 

@@ -1987,6 +1987,11 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 
 [https://arxiv.org/abs/1703.02317](https://arxiv.org/abs/1703.02317)
 
+**Visual to Sound: Generating Natural Sound for Videos in the Wild**
+
+- project page: [http://bvision11.cs.unc.edu/bigpen/yipin/visual2sound_webpage/visual2sound.html](http://bvision11.cs.unc.edu/bigpen/yipin/visual2sound_webpage/visual2sound.html)
+- arxiv: [https://arxiv.org/abs/1712.01393](https://arxiv.org/abs/1712.01393)
+
 ## Music
 
 **Learning Features of Music from Scratch**

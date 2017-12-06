@@ -2473,6 +2473,10 @@ with fast exact probabilistic inference over many layers."
 - intro: AAAI 2018
 - arxiv: [https://arxiv.org/abs/1711.05820](https://arxiv.org/abs/1711.05820)
 
+**Feature Generating Networks for Zero-Shot Learning**
+
+[https://arxiv.org/abs/1712.00981](https://arxiv.org/abs/1712.00981)
+
 ## Incremental Learning
 
 **iCaRL: Incremental Classifier and Representation Learning**
@@ -2525,6 +2529,10 @@ with fast exact probabilistic inference over many layers."
 **Adversarial Feature Augmentation for Unsupervised Domain Adaptation**
 
 [https://arxiv.org/abs/1711.08561](https://arxiv.org/abs/1711.08561)
+
+**Image to Image Translation for Domain Adaptation**
+
+[https://arxiv.org/abs/1712.00479](https://arxiv.org/abs/1712.00479)
 
 ## Embedding
 

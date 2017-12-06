@@ -731,6 +731,10 @@ date: 2015-10-09
 
 [https://arxiv.org/abs/1711.08591](https://arxiv.org/abs/1711.08591)
 
+**Data Dropout in Arbitrary Basis for Deep Network Regularization**
+
+[https://arxiv.org/abs/1712.00891](https://arxiv.org/abs/1712.00891)
+
 ## DropConnect
 
 **Regularization of Neural Networks using DropConnect**
@@ -844,6 +848,10 @@ date: 2015-10-09
 
 - intro: UC Berkeley & Microsoft Research, India
 - arxiv: [https://arxiv.org/abs/1711.10456](https://arxiv.org/abs/1711.10456)
+
+**Gradient Descent Learns One-hidden-layer CNN: Don't be Afraid of Spurious Local Minima**
+
+[https://arxiv.org/abs/1712.00779](https://arxiv.org/abs/1712.00779)
 
 ## AdaGrad
 
@@ -1021,6 +1029,10 @@ date: 2015-10-09
 
 - arxiv: [https://arxiv.org/abs/1708.04896](https://arxiv.org/abs/1708.04896)
 - github: [https://github.com/zhunzhong07/Random-Erasing](https://github.com/zhunzhong07/Random-Erasing)
+
+**Context Augmentation for Convolutional Neural Networks**
+
+[https://arxiv.org/abs/1712.01653](https://arxiv.org/abs/1712.01653)
 
 ## Imbalanced Datasets
 

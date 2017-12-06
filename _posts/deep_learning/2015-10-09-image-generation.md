@@ -185,6 +185,14 @@ date: 2015-10-09
 
 [https://arxiv.org/abs/1711.08972](https://arxiv.org/abs/1711.08972)
 
+**Energy-relaxed Wassertein GANs(EnergyWGAN): Towards More Stable and High Resolution Image Generation**
+
+[https://arxiv.org/abs/1712.01026](https://arxiv.org/abs/1712.01026)
+
+**Spatial PixelCNN: Generating Images from Patches**
+
+[https://arxiv.org/abs/1712.00714](https://arxiv.org/abs/1712.00714)
+
 # Video Generation
 
 **Attentive Semantic Video Generation using Captions**

@@ -474,6 +474,10 @@ at INT8 deep learning operations than other FPGA DSP architectures"
 - intro: University of Maryland & IBM T. J. Watson Research
 - arxiv: [https://arxiv.org/abs/1711.05908](https://arxiv.org/abs/1711.05908)
 
+**Automated Pruning for Deep Neural Network Compression**
+
+[https://arxiv.org/abs/1712.01721](https://arxiv.org/abs/1712.01721)
+
 # Quantized Neural Networks
 
 **Quantized Convolutional Neural Networks for Mobile Devices**
@@ -579,6 +583,11 @@ at INT8 deep learning operations than other FPGA DSP architectures"
 
 [https://arxiv.org/abs/1711.06315](https://arxiv.org/abs/1711.06315)
 
+**Accelerating Convolutional Neural Networks for Continuous Mobile Vision via Cache Reuse**
+
+- keywords: CNNCache
+- arxiv: [https://arxiv.org/abs/1712.01670](https://arxiv.org/abs/1712.01670)
+
 # Knowledge Distilling / Knowledge Transfer
 
 **Distilling the Knowledge in a Neural Network**
@@ -592,18 +601,12 @@ at INT8 deep learning operations than other FPGA DSP architectures"
 **Deep Model Compression: Distilling Knowledge from Noisy Teachers**
 
 - arxiv: [https://arxiv.org/abs/1610.09650](https://arxiv.org/abs/1610.09650)
-- github: [https://github.com/chengshengchan/model_compression](https://github.com/chengshengchan/model_compression)](- github: [https://github.com/chengshengchan/model_compression](https://github.com/chengshengchan/model_compression)
+- github: [https://github.com/chengshengchan/model_compression](https://github.com/chengshengchan/model_compression)]
 
 **Like What You Like: Knowledge Distill via Neuron Selectivity Transfer**
 
 - intro: TuSimple
 - arxiv: [https://arxiv.org/abs/1707.01219](https://arxiv.org/abs/1707.01219)
-
-**DarkRank: Accelerating Deep Metric Learning via Cross Sample Similarities Transfer**
-
-- intro: TuSimple
-- keywords: pedestrian re-identification
-- arxiv: [https://arxiv.org/abs/1707.01220](https://arxiv.org/abs/1707.01220)
 
 **Learning Loss for Knowledge Distillation with Conditional Adversarial Networks**
 
