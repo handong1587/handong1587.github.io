@@ -1223,6 +1223,11 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 
 [https://arxiv.org/abs/1711.07807](https://arxiv.org/abs/1711.07807)
 
+**Burst Denoising with Kernel Prediction Networks**
+
+- project page: [http://people.eecs.berkeley.edu/~bmild/kpn/](http://people.eecs.berkeley.edu/~bmild/kpn/)
+- arxiv: [https://arxiv.org/abs/1712.02327](https://arxiv.org/abs/1712.02327)
+
 # Image Haze Removal
 
 **DehazeNet: An End-to-End System for Single Image Haze Removal**

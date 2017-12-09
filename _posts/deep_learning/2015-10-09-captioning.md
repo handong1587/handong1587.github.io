@@ -309,6 +309,10 @@ after the embedding and recurrent layers of the RNN."
 
 [https://arxiv.org/abs/1711.09151](https://arxiv.org/abs/1711.09151)
 
+**Show-and-Fool: Crafting Adversarial Examples for Neural Image Captioning**
+
+[https://arxiv.org/abs/1712.02051](https://arxiv.org/abs/1712.02051)
+
 # Object Descriptions
 
 **Generation and Comprehension of Unambiguous Object Descriptions**

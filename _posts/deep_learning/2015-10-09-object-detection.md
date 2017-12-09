@@ -741,6 +741,15 @@ Continuation of [arXiv:1608.08021](https://arxiv.org/abs/1608.08021)
 - arxiv: [https://arxiv.org/abs/1712.00886](https://arxiv.org/abs/1712.00886)
 - github: [https://github.com/szq0214/GRP-DSOD](https://github.com/szq0214/GRP-DSOD)
 
+**Deep Regionlets for Object Detection**
+
+- keywords: region selection network, gating network
+- arxiv: [https://arxiv.org/abs/1712.02408](https://arxiv.org/abs/1712.02408)
+
+**Adversarial Examples that Fool Detectors**
+
+[https://arxiv.org/abs/1712.02494](https://arxiv.org/abs/1712.02494)
+
 ## NMS
 
 **End-to-End Integration of a Convolutional Network, Deformable Parts Model and Non-Maximum Suppression**
@@ -1575,7 +1584,21 @@ This task involves predicting the salient regions of an image given by human eye
 - project page: [http://confluence.acfr.usyd.edu.au/display/AGPub/](http://confluence.acfr.usyd.edu.au/display/AGPub/)
 - arxiv: [https://arxiv.org/abs/1610.08120](https://arxiv.org/abs/1610.08120)
 
-# Specific Object Deteciton
+## Shadow Detection
+
+**Fast Shadow Detection from a Single Image Using a Patched Convolutional Neural Network**
+
+[https://arxiv.org/abs/1709.09283](https://arxiv.org/abs/1709.09283)
+
+**A+D-Net: Shadow Detection with Adversarial Shadow Attenuation**
+
+[https://arxiv.org/abs/1712.01361](https://arxiv.org/abs/1712.01361)
+
+**Stacked Conditional Generative Adversarial Networks for Jointly Learning Shadow Detection and Shadow Removal**
+
+[https://arxiv.org/abs/1712.02478](https://arxiv.org/abs/1712.02478)
+
+# Others Deteciton
 
 **Deep Deformation Network for Object Landmark Localization**
 
@@ -1649,10 +1672,6 @@ This task involves predicting the salient regions of an image given by human eye
 
 [https://arxiv.org/abs/1709.04577](https://arxiv.org/abs/1709.04577)
 
-**Fast Shadow Detection from a Single Image Using a Patched Convolutional Neural Network**
-
-[https://arxiv.org/abs/1709.09283](https://arxiv.org/abs/1709.09283)
-
 **VPGNet: Vanishing Point Guided Network for Lane and Road Marking Detection and Recognition**
 
 - intro: ICCV 2017
@@ -1662,10 +1681,6 @@ This task involves predicting the salient regions of an image given by human eye
 **Grab, Pay and Eat: Semantic Food Detection for Smart Restaurants**
 
 [https://arxiv.org/abs/1711.05128](https://arxiv.org/abs/1711.05128)
-
-**A+D-Net: Shadow Detection with Adversarial Shadow Attenuation**
-
-[https://arxiv.org/abs/1712.01361](https://arxiv.org/abs/1712.01361)
 
 # Object Proposal
 

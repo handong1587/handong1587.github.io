@@ -887,8 +887,9 @@ further original research into a small, easy to use graphical interface.
 
 # Chess
 
-**Giraffe: Using Deep Reinforcement Learning to Play Chess (MSc thesis)**
+**Giraffe: Using Deep Reinforcement Learning to Play Chess**
 
+- intro: MSc thesis
 - arxiv: [http://arxiv.org/abs/1509.01549](http://arxiv.org/abs/1509.01549)
 
 **Spawkfish: neural network based chess engine**
@@ -910,6 +911,11 @@ further original research into a small, easy to use graphical interface.
 - arxiv: [https://arxiv.org/abs/1711.09667](https://arxiv.org/abs/1711.09667)
 - paper: [http://www.cs.tau.ac.il/~wolf/papers/deepchess.pdf](http://www.cs.tau.ac.il/~wolf/papers/deepchess.pdf)
 - github: [https://github.com/mr-press/DeepChess](https://github.com/mr-press/DeepChess)
+
+**Mastering Chess and Shogi by Self-Play with a General Reinforcement Learning Algorithm**
+
+- intro: DeepMind
+- arxiv: [https://arxiv.org/abs/1712.01815](https://arxiv.org/abs/1712.01815)
 
 # Game
 

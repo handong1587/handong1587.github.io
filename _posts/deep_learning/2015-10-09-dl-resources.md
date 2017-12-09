@@ -1284,6 +1284,10 @@ with fast exact probabilistic inference over many layers."
 - intro: Facebook AI Research
 - arxiv: [https://arxiv.org/abs/1711.11443](https://arxiv.org/abs/1711.11443)
 
+**Broadcasting Convolutional Network**
+
+[https://arxiv.org/abs/1712.02517](https://arxiv.org/abs/1712.02517)
+
 ## Interpreting Convolutional Neural Networks
 
 **SVCCA: Singular Vector Canonical Correlation Analysis for Deep Learning Dynamics and Interpretability**
@@ -1377,6 +1381,10 @@ with fast exact probabilistic inference over many layers."
 - blog: [https://kevinzakka.github.io/2017/01/10/stn-part1/](https://kevinzakka.github.io/2017/01/10/stn-part1/)
 - github: [https://github.com/kevinzakka/blog-code/tree/master/spatial_transformer](https://github.com/kevinzakka/blog-code/tree/master/spatial_transformer)
 
+**Top-down Flow Transformer Networks**
+
+[https://arxiv.org/abs/1712.02400](https://arxiv.org/abs/1712.02400)
+
 ## FractalNet
 
 **FractalNet: Ultra-Deep Neural Networks without Residuals**
@@ -1464,7 +1472,7 @@ with fast exact probabilistic inference over many layers."
 
 **Residual Gated Graph ConvNets**
 
-
+[https://arxiv.org/abs/1711.07553](https://arxiv.org/abs/1711.07553)
 
 # Generative Models
 
@@ -1516,238 +1524,6 @@ with fast exact probabilistic inference over many layers."
 
 - intro: NIPS 2016. MIT
 - arxiv: [https://arxiv.org/abs/1612.09057](https://arxiv.org/abs/1612.09057)
-
-# Deep Learning with Traditional Machine Learning Methods
-
-## Bag of Words (BoW)
-
-**Deep Learning Transcends the Bag of Words**
-
-- blog: [http://www.kdnuggets.com/2015/12/deep-learning-outgrows-bag-words-recurrent-neural-networks.html](http://www.kdnuggets.com/2015/12/deep-learning-outgrows-bag-words-recurrent-neural-networks.html)
-
-**E2BoWs: An End-to-End Bag-of-Words Model via Deep Convolutional Neural Network**
-
-- intro: ChinaMM 2017, image retrieval
-- arxiv: [https://arxiv.org/abs/1709.05903](https://arxiv.org/abs/1709.05903)
-
-## Boosting
-
-**Deep Boosting**
-
-- intro: ICML 2014
-- paper: [http://www.cs.princeton.edu/~usyed/CortesMohriSyedICML2014.pdf](http://www.cs.princeton.edu/~usyed/CortesMohriSyedICML2014.pdf)
-- github: [https://github.com/google/deepboost](https://github.com/google/deepboost)
-
-**Deep Incremental Boosting**
-
-[https://arxiv.org/abs/1708.03704](https://arxiv.org/abs/1708.03704)
-
-## Bootstrap
-
-**Training Deep Neural Networks on Noisy Labels with Bootstrapping**
-
-- arxiv: [http://arxiv.org/abs/1412.6596](http://arxiv.org/abs/1412.6596)
-
-## Conditional Random Fields
-
-**DeepCRF: Neural Networks and CRFs for Sequence Labeling**
-
-- intro: A implementation of Conditional Random Fields (CRFs) with Deep Learning Method
-- github: [https://github.com/aonotas/deep-crf](https://github.com/aonotas/deep-crf)
-
-## Decision Tree
-
-**Deep Neural Decision Forests**
-
-- intro: ICCV 2015. Microsoft Research. ICCV'15 Marr Prize
-- paper: [http://research.microsoft.com/pubs/255952/ICCV15_DeepNDF_main.pdf](http://research.microsoft.com/pubs/255952/ICCV15_DeepNDF_main.pdf)
-- slides: [https://docs.google.com/presentation/d/1Ze7BAiWbMPyF0ax36D-aK00VfaGMGvvgD_XuANQW1gU/edit#slide=id.p](https://docs.google.com/presentation/d/1Ze7BAiWbMPyF0ax36D-aK00VfaGMGvvgD_XuANQW1gU/edit#slide=id.p)
-- github: [https://github.com/chrischoy/fully-differentiable-deep-ndf-tf](https://github.com/chrischoy/fully-differentiable-deep-ndf-tf)
-- supplement: [http://research.microsoft.com/pubs/255952/ICCV15_DeepNDF_suppl.pdf](http://research.microsoft.com/pubs/255952/ICCV15_DeepNDF_suppl.pdf)
-- notes: [http://pan.baidu.com/s/1jGRWem6](http://pan.baidu.com/s/1jGRWem6)
-
-**Neural Network and Decision Tree**
-
-- blog: [http://rotationsymmetry.github.io/2015/07/18/neural-network-decision-tree/](http://rotationsymmetry.github.io/2015/07/18/neural-network-decision-tree/)
-
-**Decision Forests, Convolutional Networks and the Models in-Between**
-
-- arxiv: [http://arxiv.org/abs/1603.01250](http://arxiv.org/abs/1603.01250)
-- notes: [http://blog.csdn.net/stdcoutzyx/article/details/50993124](http://blog.csdn.net/stdcoutzyx/article/details/50993124)
-
-**Distilling a Neural Network Into a Soft Decision Tree**
-
-- intro: Google Brain
-- arxiv: [https://arxiv.org/abs/1711.09784](https://arxiv.org/abs/1711.09784)
-
-## Dictionary Learning
-
-**Greedy Deep Dictionary Learning**
-
-- arxiv: [http://arxiv.org/abs/1602.00203](http://arxiv.org/abs/1602.00203)
-
-**Sparse Factorization Layers for Neural Networks with Limited Supervision**
-
-- arxiv: [https://arxiv.org/abs/1612.04468](https://arxiv.org/abs/1612.04468)
-
-**Online Convolutional Dictionary Learning**
-
-[https://arxiv.org/abs/1709.00106](https://arxiv.org/abs/1709.00106)
-
-## Fisher Vectors
-
-**Backpropagation Training for Fisher Vectors within Neural Networks**
-
-- arxiv: [https://arxiv.org/abs/1702.02549](https://arxiv.org/abs/1702.02549)
-
-## Gaussian Processes
-
-**Questions on Deep Gaussian Processes**
-
-- blog: [http://inverseprobability.com/2015/02/28/questions-on-deep-gaussian-processes/](http://inverseprobability.com/2015/02/28/questions-on-deep-gaussian-processes/)
-
-**Qs – Deep Gaussian Processes**
-
-![](https://www.opendatascience.com/wp-content/uploads/2016/05/Gaussian.jpg)
-
-- blog: [https://www.opendatascience.com/blog/qs-deep-gaussian-processes/](https://www.opendatascience.com/blog/qs-deep-gaussian-processes/)
-
-**Practical Learning of Deep Gaussian Processes via Random Fourier Features**
-
-- arxiv: [https://arxiv.org/abs/1610.04386](https://arxiv.org/abs/1610.04386)
-
-**Deep Learning with Gaussian Process**
-
-- blog: [https://amundtveit.com/2016/12/02/deep-learning-with-gaussian-process/](https://amundtveit.com/2016/12/02/deep-learning-with-gaussian-process/)
-
-**Doubly Stochastic Variational Inference for Deep Gaussian Processes**
-
-- arxiv: [https://arxiv.org/abs/1705.08933](https://arxiv.org/abs/1705.08933)
-- github: [https://github.com/thangbui/deepGP_approxEP](https://github.com/thangbui/deepGP_approxEP)
-- github: [https://github.com/ICL-SML/Doubly-Stochastic-DGP](https://github.com/ICL-SML/Doubly-Stochastic-DGP)
-
-**Deep Gaussian Mixture Models**
-
-[https://arxiv.org/abs/1711.06929](https://arxiv.org/abs/1711.06929)
-
-**How Deep Are Deep Gaussian Processes?**
-
-[https://arxiv.org/abs/1711.11280](https://arxiv.org/abs/1711.11280)
-
-## HMM
-
-**Unsupervised Neural Hidden Markov Models**
-
-- intro: EMNLP 2016
-- paper: [http://www.isi.edu/natural-language/mt/neural-hmm16.pdf](http://www.isi.edu/natural-language/mt/neural-hmm16.pdf)
-- github: [https://github.com/ketranm/neuralHMM](https://github.com/ketranm/neuralHMM)
-
-## Kernel Methods
-
-**Kernel Methods for Deep Learning**
-
-- intro: NIPS 2009
-- paper: [https://papers.nips.cc/paper/3628-kernel-methods-for-deep-learning](https://papers.nips.cc/paper/3628-kernel-methods-for-deep-learning)
-- paper: [http://cseweb.ucsd.edu/~saul/papers/nips09_kernel.pdf](http://cseweb.ucsd.edu/~saul/papers/nips09_kernel.pdf)
-
-**Deep Kernel Learning**
-
-- arxiv: [http://arxiv.org/abs/1511.02222](http://arxiv.org/abs/1511.02222)
-
-**Stochastic Variational Deep Kernel Learning**
-
-- intro: NIPS 2016
-- arxiv: [https://arxiv.org/abs/1611.00336](https://arxiv.org/abs/1611.00336)
-- code: [https://people.orie.cornell.edu/andrew/code/#SVDKL](https://people.orie.cornell.edu/andrew/code/#SVDKL)
-
-**A Deep Learning Approach To Multiple Kernel Fusion**
-
-- arxiv: [https://arxiv.org/abs/1612.09007](https://arxiv.org/abs/1612.09007)
-
-**Optimizing Kernel Machines using Deep Learning**
-
-- keywords: DKMO (Deep Kernel Machine Optimization)
-- arxiv: [https://arxiv.org/abs/1711.05374](https://arxiv.org/abs/1711.05374)
-
-**Stacked Kernel Network**
-
-[https://arxiv.org/abs/1711.09219](https://arxiv.org/abs/1711.09219)
-
-## LBP
-
-**Deep Local Binary Patterns**
-
-[https://arxiv.org/abs/1711.06597](https://arxiv.org/abs/1711.06597)
-
-## SVM
-
-**Large-scale Learning with SVM and Convolutional for Generic Object Categorization**
-
-- paper: [http://yann.lecun.com/exdb/publis/pdf/huang-lecun-06.pdf](http://yann.lecun.com/exdb/publis/pdf/huang-lecun-06.pdf)
-
-**Convolutional Neural Support Vector Machines:Hybrid Visual Pattern Classifiers for Multi-robot Systems**
-
-- paper: [http://people.idsia.ch/~nagi/conferences/idsia/icmla2012.pdf](http://people.idsia.ch/~nagi/conferences/idsia/icmla2012.pdf)
-
-**Deep Learning using Linear Support Vector Machines**
-
-- intro: Workshop on Representational Learning, ICML 2013
-- arxiv: [https://arxiv.org/abs/1306.0239](https://arxiv.org/abs/1306.0239)
-- paper: [http://deeplearning.net/wp-content/uploads/2013/03/dlsvm.pdf](http://deeplearning.net/wp-content/uploads/2013/03/dlsvm.pdf)
-- github: [https://github.com/momer/deep-learning-faces](https://github.com/momer/deep-learning-faces)
-- code: [https://code.google.com/p/deeplearning-faces/](https://code.google.com/p/deeplearning-faces/)
-
-**Deep Support Vector Machines**
-
-- video: [http://videolectures.net/roks2013_wiering_vector/](http://videolectures.net/roks2013_wiering_vector/)
-- slides: [http://www.esat.kuleuven.be/sista/ROKS2013/files/presentations/DSVM_ROKS_2013_WIERING.pdf](http://www.esat.kuleuven.be/sista/ROKS2013/files/presentations/DSVM_ROKS_2013_WIERING.pdf)
-**Trusting SVM for Piecewise Linear CNNs**
-
-- intro: PL-CNNs
-- arxiv: [https://arxiv.org/abs/1611.02185](https://arxiv.org/abs/1611.02185)
-
-## Random Forest
-
-**Towards the effectiveness of Deep Convolutional Neural Network based Fast Random Forest Classifier**
-
-- arxiv: [http://arxiv.org/abs/1609.08864](http://arxiv.org/abs/1609.08864)
-
-**Deep Forest: Towards An Alternative to Deep Neural Networks**
-
-- projetc: [http://lamda.nju.edu.cn/code_gcForest.ashx](http://lamda.nju.edu.cn/code_gcForest.ashx)
-- arxiv: [https://arxiv.org/abs/1702.08835](https://arxiv.org/abs/1702.08835)
-- github(official): [https://github.com/kingfengji/gcForest](https://github.com/kingfengji/gcForest)
-
-**Forward Thinking: Building Deep Random Forests**
-
-- arxiv: [https://arxiv.org/abs/1705.07366](https://arxiv.org/abs/1705.07366)
-- github: [https://github.com/tkchris93/ForwardThinking](https://github.com/tkchris93/ForwardThinking)
-
-## Others
-
-**Deep Markov Random Field for Image Modeling**
-
-- intro: ECCV 2016
-- arxiv: [http://arxiv.org/abs/1609.02036](http://arxiv.org/abs/1609.02036)
-- github: [https://github.com/zhirongw/deep-mrf](https://github.com/zhirongw/deep-mrf)
-
-**Deep, Dense, and Low-Rank Gaussian Conditional Random Fields**
-
-- arxiv: [https://arxiv.org/abs/1611.09051](https://arxiv.org/abs/1611.09051)
-
-**Deep Probabilistic Programming with Edward**
-
-- intro: Columbia University & Adobe Research & Google
-- poster: [http://dustintran.com/papers/TranHoffmanMurphyBrevdoSaurousBlei2016_poster.pdf](http://dustintran.com/papers/TranHoffmanMurphyBrevdoSaurousBlei2016_poster.pdf)
-
-**Deep Bayesian Active Learning with Image Data**
-
-- project page: [http://mlg.eng.cam.ac.uk/yarin/publications.html#Gal2016Active](http://mlg.eng.cam.ac.uk/yarin/publications.html#Gal2016Active)
-- arxiv: [https://arxiv.org/abs/1703.02910](https://arxiv.org/abs/1703.02910)
-
-**Deep Robust Kalman Filter**
-
-[https://arxiv.org/abs/1703.02310](https://arxiv.org/abs/1703.02310)
 
 # Deep Learning and Robots
 
@@ -2338,6 +2114,14 @@ with fast exact probabilistic inference over many layers."
 - youtube: [https://www.youtube.com/watch?v=pPN8d0E3900](https://www.youtube.com/watch?v=pPN8d0E3900)
 - mirror: [http://www.bilibili.com/video/av16594836/](http://www.bilibili.com/video/av16594836/)
 
+**CNNs are Globally Optimal Given Multi-Layer Support**
+
+[https://arxiv.org/abs/1712.02501](https://arxiv.org/abs/1712.02501)
+
+**Take it in your stride: Do we need striding in CNNs?**
+
+[https://arxiv.org/abs/1712.02502](https://arxiv.org/abs/1712.02502)
+
 ## Tutorials and Surveys
 
 **On the Origin of Deep Learning**
@@ -2477,6 +2261,10 @@ with fast exact probabilistic inference over many layers."
 
 [https://arxiv.org/abs/1712.00981](https://arxiv.org/abs/1712.00981)
 
+**Zero-Shot Visual Recognition using Semantics-Preserving Adversarial Embedding Network**
+
+[https://arxiv.org/abs/1712.01928](https://arxiv.org/abs/1712.01928)
+
 ## Incremental Learning
 
 **iCaRL: Incremental Classifier and Representation Learning**
@@ -2486,6 +2274,10 @@ with fast exact probabilistic inference over many layers."
 **FearNet: Brain-Inspired Model for Incremental Learning**
 
 [https://arxiv.org/abs/1711.10563](https://arxiv.org/abs/1711.10563)
+
+**Incremental Learning in Deep Convolutional Neural Networks Using Partial Network Sharing**
+
+[https://arxiv.org/abs/1712.02719](https://arxiv.org/abs/1712.02719)
 
 ## Ensemble Deep Learning
 

@@ -193,6 +193,10 @@ date: 2015-10-09
 
 [https://arxiv.org/abs/1712.00714](https://arxiv.org/abs/1712.00714)
 
+**Disentangled Person Image Generation**
+
+[https://arxiv.org/abs/1712.02621](https://arxiv.org/abs/1712.02621)
+
 # Video Generation
 
 **Attentive Semantic Video Generation using Captions**

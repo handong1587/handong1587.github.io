@@ -612,6 +612,11 @@ facial action unit recognition, and eye-gaze estimation.
 - intro: ICCV 2017
 - arxiv: [https://arxiv.org/abs/1709.08553](https://arxiv.org/abs/1709.08553)
 
+**Co-domain Embedding using Deep Quadruplet Networks for Unseen Traffic Sign Recognition**
+
+- intro: AAAI 2018
+- arix:v[https://arxiv.org/abs/1712.01907](https://arxiv.org/abs/1712.01907)
+
 # Instrument Recognition
 
 **Automatic Instrument Recognition in Polyphonic Music Using Convolutional Neural Networks**
