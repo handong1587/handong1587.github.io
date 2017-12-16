@@ -543,6 +543,10 @@ at INT8 deep learning operations than other FPGA DSP architectures"
 
 [https://arxiv.org/abs/1709.02260](https://arxiv.org/abs/1709.02260)
 
+**Compact Hash Code Learning with Binary Deep Neural Network**
+
+[https://arxiv.org/abs/1712.02956](https://arxiv.org/abs/1712.02956)
+
 # Accelerating / Fast Algorithms
 
 **Fast Algorithms for Convolutional Neural Networks**

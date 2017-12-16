@@ -193,9 +193,18 @@ date: 2015-10-09
 
 [https://arxiv.org/abs/1712.00714](https://arxiv.org/abs/1712.00714)
 
+# Face Image Generation
+
+# Person Image Generation
+
 **Disentangled Person Image Generation**
 
 [https://arxiv.org/abs/1712.02621](https://arxiv.org/abs/1712.02621)
+
+**Pose Guided Person Image Generation**
+
+- intro: NIPS 2017
+- arxiv: [https://arxiv.org/abs/1705.09368](https://arxiv.org/abs/1705.09368)
 
 # Video Generation
 

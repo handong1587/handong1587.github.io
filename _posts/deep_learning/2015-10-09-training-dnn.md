@@ -647,6 +647,10 @@ date: 2015-10-09
 
 [https://arxiv.org/abs/1712.01312](https://arxiv.org/abs/1712.01312)
 
+**Regularization and Optimization strategies in Deep Convolutional Neural Network**
+
+[https://arxiv.org/abs/1712.04711](https://arxiv.org/abs/1712.04711)
+
 ## Dropout
 
 **Improving neural networks by preventing co-adaptation of feature detectors**
@@ -1047,6 +1051,10 @@ date: 2015-10-09
 
 [https://arxiv.org/abs/1712.01653](https://arxiv.org/abs/1712.01653)
 
+**The Effectiveness of Data Augmentation in Image Classification using Deep Learning**
+
+[https://arxiv.org/abs/1712.04621](https://arxiv.org/abs/1712.04621)
+
 ## Imbalanced Datasets
 
 **Investigation on handling Structured & Imbalanced Datasets with Deep Learning**
@@ -1058,6 +1066,10 @@ date: 2015-10-09
 
 - intro: Duke University & Royal Institute of Technology (KTH)
 - arxiv: [https://arxiv.org/abs/1710.05381](https://arxiv.org/abs/1710.05381)
+
+**Class Rectification Hard Mining for Imbalanced Deep Learning**
+
+[https://arxiv.org/abs/1712.03162](https://arxiv.org/abs/1712.03162)
 
 # Low Numerical Precision
 

@@ -642,6 +642,10 @@ with built-in awareness of semantically meaningful boundaries. "
 - project page: [http://mmlab.ie.cuhk.edu.hk/projects/M&M/](http://mmlab.ie.cuhk.edu.hk/projects/M&M/)
 - arxiv: [https://arxiv.org/abs/1712.00661](https://arxiv.org/abs/1712.00661)
 
+**Error Correction for Dense Semantic Image Labeling**
+
+[https://arxiv.org/abs/1712.03812](https://arxiv.org/abs/1712.03812)
+
 # Instance Segmentation
 
 **Simultaneous Detection and Segmentation**
@@ -805,6 +809,12 @@ with built-in awareness of semantically meaningful boundaries. "
 - project page: [https://imatge-upc.github.io/rsis/](https://imatge-upc.github.io/rsis/)
 - arxiv: [https://arxiv.org/abs/1712.00617](https://arxiv.org/abs/1712.00617)
 - github: [https://github.com/imatge-upc/rsis](https://github.com/imatge-upc/rsis)
+
+## MaskLab
+
+**MaskLab: Instance Segmentation by Refining Object Detection with Semantic and Direction Features**
+
+[https://arxiv.org/abs/1712.04837](https://arxiv.org/abs/1712.04837)
 
 # Specific Segmentation
 

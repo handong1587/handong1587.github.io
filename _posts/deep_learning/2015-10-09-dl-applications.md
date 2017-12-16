@@ -216,6 +216,10 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 - intro: IEEE ACCESS
 - arxiv: [https://arxiv.org/abs/1710.02985](https://arxiv.org/abs/1710.02985)
 
+**Age and gender estimation based on Convolutional Neural Network and TensorFlow**
+
+[https://github.com/BoyuanJiang/Age-Gender-Estimate-TF](https://github.com/BoyuanJiang/Age-Gender-Estimate-TF)
+
 # Face Aging
 
 **Recurrent Face Aging**
@@ -866,6 +870,10 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 
 [https://arxiv.org/abs/1711.08590](https://arxiv.org/abs/1711.08590)
 
+**Image Inpainting for High-Resolution Textures using CNN Texture Synthesis**
+
+[https://arxiv.org/abs/1712.03111](https://arxiv.org/abs/1712.03111)
+
 # Image Restoration
 
 **Image Restoration Using Very Deep Convolutional Encoder-Decoder Networks with Symmetric Skip Connections**
@@ -1133,6 +1141,10 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 
 [https://arxiv.org/abs/1711.10703](https://arxiv.org/abs/1711.10703)
 
+**A Frequency Domain Neural Network for Fast Image Super-resolution**
+
+[https://arxiv.org/abs/1712.03037](https://arxiv.org/abs/1712.03037)
+
 ## Video Super-resolution
 
 **Detail-revealing Deep Video Super-resolution**
@@ -1227,6 +1239,10 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 
 - project page: [http://people.eecs.berkeley.edu/~bmild/kpn/](http://people.eecs.berkeley.edu/~bmild/kpn/)
 - arxiv: [https://arxiv.org/abs/1712.02327](https://arxiv.org/abs/1712.02327)
+
+**Chaining Identity Mapping Modules for Image Denoising**
+
+[https://arxiv.org/abs/1712.02933](https://arxiv.org/abs/1712.02933)
 
 # Image Haze Removal
 
@@ -1437,6 +1453,10 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 
 - intro: CUHK
 - arxiv: [https://arxiv.org/abs/1707.05251](https://arxiv.org/abs/1707.05251)
+
+**Learned Perceptual Image Enhancement**
+
+[https://arxiv.org/abs/1712.02864](https://arxiv.org/abs/1712.02864)
 
 # Abnormality Detection / Anomaly Detection
 

@@ -330,11 +330,6 @@ date: 2015-10-09
 
 [https://github.com/weiliu89/caffe/issues/327](https://github.com/weiliu89/caffe/issues/327)
 
-**Enhancement of SSD by concatenating feature maps for object detection**
-
-- intro: rainbow SSD (R-SSD)
-- arxiv: [https://arxiv.org/abs/1705.09587](https://arxiv.org/abs/1705.09587)
-
 ## DSSD
 
 **DSSD : Deconvolutional Single Shot Detector**
@@ -343,6 +338,11 @@ date: 2015-10-09
 - arxiv: [https://arxiv.org/abs/1701.06659](https://arxiv.org/abs/1701.06659)
 - github: [https://github.com/chengyangfu/caffe/tree/dssd](https://github.com/chengyangfu/caffe/tree/dssd)
 - demo: [http://120.52.72.53/www.cs.unc.edu/c3pr90ntc0td/~cyfu/dssd_lalaland.mp4](http://120.52.72.53/www.cs.unc.edu/c3pr90ntc0td/~cyfu/dssd_lalaland.mp4)
+
+**Enhancement of SSD by concatenating feature maps for object detection**
+
+- intro: rainbow SSD (R-SSD)
+- arxiv: [https://arxiv.org/abs/1705.09587](https://arxiv.org/abs/1705.09587)
 
 **Context-aware Single-Shot Detector**
 
@@ -358,6 +358,12 @@ date: 2015-10-09
 **FSSD: Feature Fusion Single Shot Multibox Detector**
 
 [https://arxiv.org/abs/1712.00960](https://arxiv.org/abs/1712.00960)
+
+**Weaving Multi-scale Context for Single Shot Detector**
+
+- intro: WeaveNet
+- keywords: fuse multi-scale information
+- arxiv: [https://arxiv.org/abs/1712.03149](https://arxiv.org/abs/1712.03149)
 
 ## Inside-Outside Net (ION)
 
@@ -1597,6 +1603,10 @@ This task involves predicting the salient regions of an image given by human eye
 **Stacked Conditional Generative Adversarial Networks for Jointly Learning Shadow Detection and Shadow Removal**
 
 [https://arxiv.org/abs/1712.02478](https://arxiv.org/abs/1712.02478)
+
+**Direction-aware Spatial Context Features for Shadow Detection**
+
+[https://arxiv.org/abs/1712.04142](https://arxiv.org/abs/1712.04142)
 
 # Others Deteciton
 

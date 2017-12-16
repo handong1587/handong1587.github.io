@@ -750,6 +750,10 @@ alleviates the problem of video browsing, editing and indexing.
 - paper: [http://www.ee.cuhk.edu.hk/~jshao/papers_jshao/jshao_cvpr16_scnn.pdf](http://www.ee.cuhk.edu.hk/~jshao/papers_jshao/jshao_cvpr16_scnn.pdf)
 - github: [https://github.com/amandajshao/Slicing-CNN](https://github.com/amandajshao/Slicing-CNN)
 
+**Rethinking Spatiotemporal Feature Learning For Video Understanding**
+
+[https://arxiv.org/abs/1712.04851](https://arxiv.org/abs/1712.04851)
+
 # Challenges
 
 **THUMOS Challenge 2014**

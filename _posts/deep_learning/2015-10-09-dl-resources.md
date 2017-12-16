@@ -857,6 +857,23 @@ not just the convolutions)
 
 [https://arxiv.org/abs/1711.09856](https://arxiv.org/abs/1711.09856)
 
+**Defense against Adversarial Attacks Using High-Level Representation Guided Denoiser**
+
+[https://arxiv.org/abs/1712.02976](https://arxiv.org/abs/1712.02976)
+
+**A Rotation and a Translation Suffice: Fooling CNNs with Simple Transformations**
+
+[https://arxiv.org/abs/1712.02779](https://arxiv.org/abs/1712.02779)
+
+**Training Ensembles to Detect Adversarial Examples**
+
+[https://arxiv.org/abs/1712.04006](https://arxiv.org/abs/1712.04006)
+
+**Decision-Based Adversarial Attacks: Reliable Attacks Against Black-Box Machine Learning Models**
+
+- arxiv: [https://arxiv.org/abs/1712.04248](https://arxiv.org/abs/1712.04248)
+- openreview: [https://openreview.net/forum?id=SyZI0GWCZ](https://openreview.net/forum?id=SyZI0GWCZ)
+
 # Deep Learning Networks
 
 **PCANet: A Simple Deep Learning Baseline for Image Classification?**
@@ -1163,6 +1180,10 @@ with fast exact probabilistic inference over many layers."
 - intro: [Université de Montréal & INRS-EMT & Microsoft Maluuba
 - arxiv: [https://arxiv.org/abs/1705.09792](https://arxiv.org/abs/1705.09792)
 - github: [https://github.com/ChihebTrabelsi/deep_complex_networks](https://github.com/ChihebTrabelsi/deep_complex_networks)
+
+**Deep Quaternion Networks**
+
+[https://arxiv.org/abs/1712.04604](https://arxiv.org/abs/1712.04604)
 
 **DiracNets: Training Very Deep Neural Networks Without Skip-Connections**
 
@@ -1701,18 +1722,10 @@ with fast exact probabilistic inference over many layers."
 - arxiv: [http://arxiv.org/abs/1511.06350](http://arxiv.org/abs/1511.06350)
 - github: [https://github.com/davidBelanger/SPEN](https://github.com/davidBelanger/SPEN)
 
-**A Mathematical Theory of Deep Convolutional Neural Networks for Feature Extraction**
-
-- arxiv: [http://arxiv.org/abs/1512.06293](http://arxiv.org/abs/1512.06293)
-
 **Deep Neural Networks predict Hierarchical Spatio-temporal Cortical Dynamics of Human Visual Object Recognition**
 
 - arxiv: [http://arxiv.org/abs/1601.02970](http://arxiv.org/abs/1601.02970)
 - demo: [http://brainmodels.csail.mit.edu/dnn/drawCNN/](http://brainmodels.csail.mit.edu/dnn/drawCNN/)
-
-**A Mathematical Theory of Deep Convolutional Neural Networks for Feature Extraction**
-
-- arxiv: [http://arxiv.org/abs/1512.06293](http://arxiv.org/abs/1512.06293)
 
 **Recent Advances in Convolutional Neural Networks**
 
@@ -2134,6 +2147,16 @@ with fast exact probabilistic inference over many layers."
 - intro: MIT
 - arxiv: [https://arxiv.org/abs/1703.09039](https://arxiv.org/abs/1703.09039)
 
+## Mathematics of Deep Learning
+
+**A Mathematical Theory of Deep Convolutional Neural Networks for Feature Extraction**
+
+- arxiv: [http://arxiv.org/abs/1512.06293](http://arxiv.org/abs/1512.06293)
+
+**Mathematics of Deep Learning**
+
+[https://arxiv.org/abs/1712.04741](https://arxiv.org/abs/1712.04741)
+
 ## Dive Into CNN
 
 **Structured Receptive Fields in CNNs**
@@ -2202,6 +2225,10 @@ with fast exact probabilistic inference over many layers."
 
 [https://github.com//LamHoCN/Depth_conv-for-mobileNet](https://github.com//LamHoCN/Depth_conv-for-mobileNet)
 
+**The Enhanced Hybrid MobileNet**
+
+[https://arxiv.org/abs/1712.04698](https://arxiv.org/abs/1712.04698)
+
 ## STDP
 
 **A biological gradient descent for prediction through a combination of STDP and homeostatic plasticity**
@@ -2264,6 +2291,11 @@ with fast exact probabilistic inference over many layers."
 **Zero-Shot Visual Recognition using Semantics-Preserving Adversarial Embedding Network**
 
 [https://arxiv.org/abs/1712.01928](https://arxiv.org/abs/1712.01928)
+
+**Combining Deep Universal Features, Semantic Attributes, and Hierarchical Classification for Zero-Shot Learning**
+
+- intro: extension to work published in conference proceedings of 2017 IAPR MVA Conference
+- arxiv: [https://arxiv.org/abs/1712.03151](https://arxiv.org/abs/1712.03151)
 
 ## Incremental Learning
 

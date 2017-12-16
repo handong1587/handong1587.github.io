@@ -448,6 +448,10 @@ and from 73.8% to 83.1% for ResNet-50
 - project page: [https://imatge-upc.github.io/salbow/](https://imatge-upc.github.io/salbow/)
 - github: [https://arxiv.org/abs/1711.10795](https://arxiv.org/abs/1711.10795)
 
+**Transfer Adversarial Hashing for Hamming Space Retrieval**
+
+[https://arxiv.org/abs/1712.04616](https://arxiv.org/abs/1712.04616)
+
 # Cross Modal Retrieval
 
 **Cross-domain Image Retrieval with a Dual Attribute-aware Ranking Network**

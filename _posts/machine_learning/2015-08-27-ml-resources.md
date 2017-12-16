@@ -1146,6 +1146,10 @@ for creating complex software in C++ to solve real world problems.
 
 [http://blog.josephmisiti.com/a-huge-list-of-machine-learning-repositories/](http://blog.josephmisiti.com/a-huge-list-of-machine-learning-repositories/)
 
+**Machine Learning in Python Course**
+
+[https://www.springboard.com/learning-paths/machine-learning-python/](https://www.springboard.com/learning-paths/machine-learning-python/)
+
 **机器学习(Machine Learning)&深度学习(Deep Learning)资料(Chapter 1)**
 
 [https://github.com/ty4z2008/Qix/blob/master/dl.md](https://github.com/ty4z2008/Qix/blob/master/dl.md)
