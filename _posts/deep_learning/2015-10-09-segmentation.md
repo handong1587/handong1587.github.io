@@ -392,6 +392,7 @@ fine-tune the trained network with more challenging examples later
 
 - intro: ECCV 2016
 - arxiv: [http://arxiv.org/abs/1607.07671](http://arxiv.org/abs/1607.07671)
+- githun: [https://github.com/nightrome/matconvnet-calvin](https://github.com/nightrome/matconvnet-calvin)
 
 **Built-in Foreground/Background Prior for Weakly-Supervised Semantic Segmentation**
 
