@@ -28,7 +28,7 @@ date: 2015-10-09
 | R-FCN (ResNet-50)   | 77.4%       |             |             |             |             | 0.12sec(K40), 0.09sec(TitianX) |
 | R-FCN (ResNet-101)  | 79.5%       |             |             |             |             | 0.17sec(K40), 0.12sec(TitianX) |
 | R-FCN (ResNet-101),multi sc train | 83.6% |     | 82.0%       |             | 31.5%(@[0.5-0.95]), 53.2%(@0.5) | |
-| PVANet 9.0          | 89.8%       |             | 84.2%       |             |             | 750ms(CPU), 46ms(TitianX) |
+| PVANet 9.0          | 84.9%       |             | 84.2%       |             |             | 750ms(CPU), 46ms(TitianX) |
 
 # Papers
 
@@ -482,18 +482,13 @@ and 1.15s per image with it".
 
 ## PVANET
 
-**PVANET: Deep but Lightweight Neural Networks for Real-time Object Detection**
-
-- intro: "less channels with more layers", concatenated ReLU, Inception, and HyperNet, batch normalization, residual connections
-- arxiv: [http://arxiv.org/abs/1608.08021](http://arxiv.org/abs/1608.08021)
-- github: [https://github.com/sanghoon/pva-faster-rcnn](https://github.com/sanghoon/pva-faster-rcnn)
-- leaderboard(PVANet 9.0): [http://host.robots.ox.ac.uk:8080/leaderboard/displaylb.php?challengeid=11&compid=4](http://host.robots.ox.ac.uk:8080/leaderboard/displaylb.php?challengeid=11&compid=4)
-
 **PVANet: Lightweight Deep Neural Networks for Real-time Object Detection**
 
 - intro: Presented at NIPS 2016 Workshop on Efficient Methods for Deep Neural Networks (EMDNN). 
 Continuation of [arXiv:1608.08021](https://arxiv.org/abs/1608.08021)
 - arxiv: [https://arxiv.org/abs/1611.08588](https://arxiv.org/abs/1611.08588)
+- github: [https://github.com/sanghoon/pva-faster-rcnn](https://github.com/sanghoon/pva-faster-rcnn)
+- leaderboard(PVANet 9.0): [http://host.robots.ox.ac.uk:8080/leaderboard/displaylb.php?challengeid=11&compid=4](http://host.robots.ox.ac.uk:8080/leaderboard/displaylb.php?challengeid=11&compid=4)
 
 ## GBD-Net
 
