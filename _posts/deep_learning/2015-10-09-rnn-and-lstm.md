@@ -106,6 +106,14 @@ date: 2015-10-09
 
 [http://machinelearningmastery.com/recurrent-neural-network-algorithms-for-deep-learning/](http://machinelearningmastery.com/recurrent-neural-network-algorithms-for-deep-learning/)
 
+**Fundamentals of Deep Learning – Introduction to Recurrent Neural Networks**
+
+[https://www.analyticsvidhya.com/blog/2017/12/introduction-to-recurrent-neural-networks/](https://www.analyticsvidhya.com/blog/2017/12/introduction-to-recurrent-neural-networks/)
+
+**Essentials of Deep Learning : Introduction to Long Short Term Memory**
+
+[https://www.analyticsvidhya.com/blog/2017/12/fundamentals-of-deep-learning-introduction-to-lstm/](https://www.analyticsvidhya.com/blog/2017/12/fundamentals-of-deep-learning-introduction-to-lstm/)
+
 ## How to build a Recurrent Neural Network in TensorFlow
 
 **How to build a Recurrent Neural Network in TensorFlow (1/7)**
@@ -513,6 +521,11 @@ date: 2015-10-09
 - project page: [https://rasmusbergpalm.github.io/recurrent-relational-networks/](https://rasmusbergpalm.github.io/recurrent-relational-networks/)
 - arxiv: [https://arxiv.org/abs/1711.08028](https://arxiv.org/abs/1711.08028)
 - github: [https://github.com//rasmusbergpalm/recurrent-relational-networks](https://github.com//rasmusbergpalm/recurrent-relational-networks)
+
+**Learning Compact Recurrent Neural Networks with Block-Term Tensor Decomposition**
+
+- intro: University of Electronic Science and Technology of China & Brown University & University of Utah & XJERA LABS PTE.LTD
+- arxiv: [https://arxiv.org/abs/1712.05134](https://arxiv.org/abs/1712.05134)
 
 ## LSTMVis
 

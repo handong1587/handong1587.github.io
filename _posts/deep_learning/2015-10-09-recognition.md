@@ -404,6 +404,11 @@ date: 2015-10-09
 facial action unit recognition, and eye-gaze estimation.
 - github: [https://github.com/TadasBaltrusaitis/OpenFace](https://github.com/TadasBaltrusaitis/OpenFace)
 
+**InsightFace**
+
+- intro: Face Recognition Project on MXnet
+- arxiv: [https://github.com//deepinsight/insightface](https://github.com//deepinsight/insightface)
+
 ## Resources
 
 **Face-Resources**

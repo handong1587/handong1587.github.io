@@ -139,6 +139,10 @@ Other awesome lists can be found in this [list](https://github.com/sindresorhus/
 - intro: Gradient Boosting powered by GPU(NVIDIA CUDA)
 - github: [https://github.com/sh1ng/arboretum](https://github.com/sh1ng/arboretum)
 
+**Gradient Boosting from scratch**
+
+[https://medium.com/mlreview/gradient-boosting-from-scratch-1e317ae4587d](https://medium.com/mlreview/gradient-boosting-from-scratch-1e317ae4587d)
+
 ## XGBoost
 
 **XGBoost: A Scalable Tree Boosting System**
@@ -203,6 +207,14 @@ based on decision tree algorithms, used for ranking, classification and many oth
 - intro: XGBoost and LightGBM
 - blog: [https://blogs.technet.microsoft.com/machinelearning/2017/07/25/lessons-learned-benchmarking-fast-machine-learning-algorithms/](https://blogs.technet.microsoft.com/machinelearning/2017/07/25/lessons-learned-benchmarking-fast-machine-learning-algorithms/)
 
+## CatBoost
+
+**CatBoost is an open-source gradient boosting library with categorical features support**
+
+- intro: CatBoost is a machine learning method based on gradient boosting over decision trees.
+- homepage: [https://catboost.yandex/](https://catboost.yandex/)
+- github: [https://github.com/catboost/catboost](https://github.com/catboost/catboost)
+
 # Bootstrap
 
 **Coding, Visualizing, and Animating Bootstrap Resampling**
@@ -255,6 +267,11 @@ based on decision tree algorithms, used for ranking, classification and many oth
 ![](https://annalyzin.files.wordpress.com/2016/07/decision-tree-tutorial-animated3.gif?w=636&h=312&crop=1)
 
 - blog: [https://algobeans.com/2016/07/27/decision-trees-tutorial/](https://algobeans.com/2016/07/27/decision-trees-tutorial/)
+
+**End-to-end Learning of Deterministic Decision Trees**
+
+- intro: Heidelberg University
+- arxiv: [https://arxiv.org/abs/1712.02743](https://arxiv.org/abs/1712.02743)
 
 # Generative Models
 
@@ -1005,7 +1022,7 @@ AUC: Area Under the Curve
 - blog: [http://distill.pub/2016/misread-tsne/](http://distill.pub/2016/misread-tsne/)
 - github: [https://github.com/distillpub/post--misread-tsne](https://github.com/distillpub/post--misread-tsne)
 
-# Machine Learning Library
+# Machine Learning Libraries
 
 **LambdaNet: Purely functional artificial neural network library implemented in Haskell**
 
@@ -1127,6 +1144,10 @@ for creating complex software in C++ to solve real world problems.
 - github: [https://github.com/php-ai/php-ml](https://github.com/php-ai/php-ml)
 - github: [https://github.com/php-ai/php-ml-examples](https://github.com/php-ai/php-ml-examples)
 - docs: [http://php-ml.readthedocs.io/en/latest/](http://php-ml.readthedocs.io/en/latest/)
+
+**ml.js - Machine learning tools in JavaScript**
+
+[https://github.com//mljs/ml](https://github.com//mljs/ml)
 
 # Resources
 

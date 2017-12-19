@@ -122,6 +122,18 @@ it surveys the widely known clustering algorithms in a comparative way"
 
 - arxiv: [http://arxiv.org/abs/1609.04628](http://arxiv.org/abs/1609.04628)
 
+**Clustering by fast search and find of density peaks**
+
+[http://science.sciencemag.org/content/344/6191/1492](http://science.sciencemag.org/content/344/6191/1492)
+- slides: [http://conference.mipt.ru/img/conference/material-design-2014/talks/Laio-talk.pdf](http://conference.mipt.ru/img/conference/material-design-2014/talks/Laio-talk.pdf)
+- github: [https://github.com/thomasp85/densityClust](https://github.com/thomasp85/densityClust)
+- github: [https://github.com/GuipengLi/Dcluster](https://github.com/GuipengLi/Dcluster)
+- blog: [http://eric-yuan.me/clustering-fast-search-find-density-peaks/](http://eric-yuan.me/clustering-fast-search-find-density-peaks/)
+
+**Comment on "Clustering by fast search and find of density peaks"**
+
+[https://arxiv.org/abs/1501.04267](https://arxiv.org/abs/1501.04267)
+
 # Datasets
 
 **Clustering datasets**

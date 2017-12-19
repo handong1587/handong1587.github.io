@@ -284,6 +284,14 @@ and from 73.8% to 83.1% for ResNet-50
 
 [https://arxiv.org/abs/1711.09509](https://arxiv.org/abs/1711.09509)
 
+**Saliency Weighted Convolutional Features for Instance Search**
+
+- intro: Dublin City University & Universitat Politecnica de Catalunya
+- keywords: local convolutional features (BLCF), human visual attention models (saliency)
+- project page: [https://imatge-upc.github.io/salbow/](https://imatge-upc.github.io/salbow/)
+- arxiv: [https://arxiv.org/abs/1711.10795](https://arxiv.org/abs/1711.10795)
+- github: [https://arxiv.org/abs/1711.10795](https://arxiv.org/abs/1711.10795)
+
 # Hashing
 
 **Supervised Hashing for Image Retrieval via Image Representation Learning**
@@ -442,11 +450,6 @@ and from 73.8% to 83.1% for ResNet-50
 **Supervised Hashing with End-to-End Binary Deep Neural Network**
 
 [https://arxiv.org/abs/1711.08901](https://arxiv.org/abs/1711.08901)
-
-**Saliency Weighted Convolutional Features for Instance Search**
-
-- project page: [https://imatge-upc.github.io/salbow/](https://imatge-upc.github.io/salbow/)
-- github: [https://arxiv.org/abs/1711.10795](https://arxiv.org/abs/1711.10795)
 
 **Transfer Adversarial Hashing for Hamming Space Retrieval**
 

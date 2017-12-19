@@ -88,6 +88,12 @@ date: 2015-10-09
 - project page: [http://www.cs.toronto.edu/polyrnn/](http://www.cs.toronto.edu/polyrnn/)
 - arxiv: [https://arxiv.org/abs/1704.05548](https://arxiv.org/abs/1704.05548)
 
+**Semantic Segmentation via Structured Patch Prediction, Context CRF and Guidance CRF**
+
+- intro: CVPR 2017
+- paper: [http://openaccess.thecvf.com/content_cvpr_2017/papers/Shen_Semantic_Segmentation_via_CVPR_2017_paper.pdf](http://openaccess.thecvf.com/content_cvpr_2017/papers/Shen_Semantic_Segmentation_via_CVPR_2017_paper.pdf)
+- github(Caffe): [https://github.com//FalongShen/SegModel](https://github.com//FalongShen/SegModel)
+
 **Nighttime sky/cloud image segmentation**
 
 - intro: ICIP 2017
@@ -642,6 +648,8 @@ with built-in awareness of semantically meaningful boundaries. "
 - intro: AAAI 2018
 - project page: [http://mmlab.ie.cuhk.edu.hk/projects/M&M/](http://mmlab.ie.cuhk.edu.hk/projects/M&M/)
 - arxiv: [https://arxiv.org/abs/1712.00661](https://arxiv.org/abs/1712.00661)
+- github: [https://github.com/XiaohangZhan/mix-and-match/](https://github.com/XiaohangZhan/mix-and-match/)
+- github: [https://github.com//liuziwei7/mix-and-match](https://github.com//liuziwei7/mix-and-match)
 
 **Error Correction for Dense Semantic Image Labeling**
 
@@ -906,6 +914,11 @@ with built-in awareness of semantically meaningful boundaries. "
 
 - intro: CUHK
 - arxiv: [https://arxiv.org/abs/1706.02493](https://arxiv.org/abs/1706.02493)
+
+**Spatial As Deep: Spatial CNN for Traffic Scene Understanding**
+
+- intro: AAAI 2018
+- arxiv: [https://arxiv.org/abs/1712.06080](https://arxiv.org/abs/1712.06080)
 
 ## MPF-RNN
 

@@ -5,30 +5,30 @@ title: Object Detection
 date: 2015-10-09
 ---
 
-| Method              | VOC2007     | VOC2010     | VOC2012     | ILSVRC 2013 | MSCOCO 2015 | Speed       |
-|:-------------------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
-| OverFeat            |             |             |             | 24.3%       |             |             |
-| R-CNN (AlexNet)     | 58.5%       | 53.7%       | 53.3%       | 31.4%       |             |             |
-| R-CNN (VGG16)       | 66.0%       |             |             |             |             |             |
-| SPP_net(ZF-5)       | 54.2%(1-model), 60.9%(2-model) | | |31.84%(1-model), 35.11%(6-model) |            |
-| DeepID-Net          | 64.1%       |             |             | 50.3%       |             |             |
-| NoC                 | 73.3%       |             | 68.8%       |             |             |             |
-| Fast-RCNN (VGG16)   | 70.0%       | 68.8%       | 68.4%       |             | 19.7%(@[0.5-0.95]), 35.9%(@0.5) | |
-| MR-CNN              | 78.2%       |             | 73.9%       |             |             |             |
-| Faster-RCNN (VGG16) | 78.8%       |             | 75.9%       |             | 21.9%(@[0.5-0.95]), 42.7%(@0.5) | 198ms |
-| Faster-RCNN (ResNet-101) | 85.6%  |             | 83.8%       |             | 37.4%(@[0.5-0.95]), 59.0%(@0.5) | |
-| YOLO                | 63.4%       |             | 57.9%       |             |             | 45 fps      |
-| YOLO VGG-16         | 66.4%       |             |             |             |             | 21 fps      |
-| YOLOv2 544 × 544    | 78.6%       |             | 73.4%       |             | 21.6%(@[0.5-0.95]), 44.0%(@0.5) | 40 fps |
-| SSD300 (VGG16)      | 77.2%       |             | 75.8%       |             | 25.1%(@[0.5-0.95]), 43.1%(@0.5) | 46 fps |
-| SSD512 (VGG16)      | 79.8%       |             | 78.5%       |             | 28.8%(@[0.5-0.95]), 48.5%(@0.5) | 19 fps |
-| ION                 | 79.2%       |             | 76.4%       |             |             |             |
-| CRAFT               | 75.7%       |             | 71.3%       | 48.5%       |             |             |
-| OHEM                | 78.9%       |             | 76.3%       |             | 25.5%(@[0.5-0.95]), 45.9%(@0.5) | |
-| R-FCN (ResNet-50)   | 77.4%       |             |             |             |             | 0.12sec(K40), 0.09sec(TitianX) |
-| R-FCN (ResNet-101)  | 79.5%       |             |             |             |             | 0.17sec(K40), 0.12sec(TitianX) |
-| R-FCN (ResNet-101),multi sc train | 83.6% |     | 82.0%       |             | 31.5%(@[0.5-0.95]), 53.2%(@0.5) | |
-| PVANet 9.0          | 84.9%       |             | 84.2%       |             |             | 750ms(CPU), 46ms(TitianX) |
+| Method                      | VOC2007 | VOC2010 | VOC2012  | ILSVRC 2013 | MSCOCO 2015                     | Speed                          |
+| :-------------------:       | :-----: | :-----: | :------: | :------:    | :-----------:                   | :-----------:                  |
+| OverFeat                    |         |         |          | 24.3%       |                                 |                                |
+| R-CNN (AlexNet)             | 58.5%   | 53.7%   | 53.3%    | 31.4%       |                                 |                                |
+| R-CNN (VGG16)               | 66.0%   |         |          |             |                                 |                                |
+| SPP_net(ZF-5)               | 54.2%   |         |          | 31.84%      |                                 |
+| DeepID-Net                  | 64.1%   |         |          | 50.3%       |                                 |                                |
+| NoC                         | 73.3%   |         | 68.8%    |             |                                 |                                |
+| Fast-RCNN (VGG16)           | 70.0%   | 68.8%   | 68.4%    |             | 19.7%(@[0.5-0.95]), 35.9%(@0.5) |                                |
+| MR-CNN                      | 78.2%   |         | 73.9%    |             |                                 |                                |
+| Faster-RCNN (VGG16)         | 78.8%   |         | 75.9%    |             | 21.9%(@[0.5-0.95]), 42.7%(@0.5) | 198ms                          |
+| Faster-RCNN (ResNet-101)    | 85.6%   |         | 83.8%    |             | 37.4%(@[0.5-0.95]), 59.0%(@0.5) |                                |
+| YOLO                        | 63.4%   |         | 57.9%    |             |                                 | 45 fps                         |
+| YOLO VGG-16                 | 66.4%   |         |          |             |                                 | 21 fps                         |
+| YOLOv2 544 × 544            | 78.6%   |         | 73.4%    |             | 21.6%(@[0.5-0.95]), 44.0%(@0.5) | 40 fps                         |
+| SSD300 (VGG16)              | 77.2%   |         | 75.8%    |             | 25.1%(@[0.5-0.95]), 43.1%(@0.5) | 46 fps                         |
+| SSD512 (VGG16)              | 79.8%   |         | 78.5%    |             | 28.8%(@[0.5-0.95]), 48.5%(@0.5) | 19 fps                         |
+| ION                         | 79.2%   |         | 76.4%    |             |                                 |                                |
+| CRAFT                       | 75.7%   |         | 71.3%    | 48.5%       |                                 |                                |
+| OHEM                        | 78.9%   |         | 76.3%    |             | 25.5%(@[0.5-0.95]), 45.9%(@0.5) |                                |
+| R-FCN (ResNet-50)           | 77.4%   |         |          |             |                                 | 0.12sec(K40), 0.09sec(TitianX) |
+| R-FCN (ResNet-101)          | 79.5%   |         |          |             |                                 | 0.17sec(K40), 0.12sec(TitianX) |
+| R-FCN (ResNet-101),ms train | 83.6%   |         | 82.0%    |             | 31.5%(@[0.5-0.95]), 53.2%(@0.5) |                                |
+| PVANet 9.0                  | 84.9%   |         | 84.2%    |             |                                 | 750ms(CPU), 46ms(TitianX)      |
 
 # Papers
 
@@ -88,6 +88,8 @@ date: 2015-10-09
 - slides: [http://web.cs.hacettepe.edu.tr/~aykut/classes/spring2016/bil722/slides/w05-FasterR-CNN.pdf](http://web.cs.hacettepe.edu.tr/~aykut/classes/spring2016/bil722/slides/w05-FasterR-CNN.pdf)
 - github(official, Matlab): [https://github.com/ShaoqingRen/faster_rcnn](https://github.com/ShaoqingRen/faster_rcnn)
 - github: [https://github.com/rbgirshick/py-faster-rcnn](https://github.com/rbgirshick/py-faster-rcnn)
+- github(MXNet): [https://github.com/msracver/Deformable-ConvNets/tree/master/faster_rcnn](https://github.com/msracver/Deformable-ConvNets/tree/master/faster_rcnn)
+- github: [https://github.com//jwyang/faster-rcnn.pytorch](https://github.com//jwyang/faster-rcnn.pytorch)
 - github: [https://github.com/mitmul/chainer-faster-rcnn](https://github.com/mitmul/chainer-faster-rcnn)
 - github: [https://github.com/andreaskoepf/faster-rcnn.torch](https://github.com/andreaskoepf/faster-rcnn.torch)
 - github: [https://github.com/ruotianluo/Faster-RCNN-Densecap-torch](https://github.com/ruotianluo/Faster-RCNN-Densecap-torch)
@@ -96,7 +98,7 @@ date: 2015-10-09
 - github(C++ demo): [https://github.com/YihangLou/FasterRCNN-Encapsulation-Cplusplus](https://github.com/YihangLou/FasterRCNN-Encapsulation-Cplusplus)
 - github: [https://github.com/yhenon/keras-frcnn](https://github.com/yhenon/keras-frcnn)
 - github: [https://github.com/Eniac-Xie/faster-rcnn-resnet](https://github.com/Eniac-Xie/faster-rcnn-resnet)
- -github(C++): [https://github.com/D-X-Y/caffe-faster-rcnn/tree/dev](https://github.com/D-X-Y/caffe-faster-rcnn/tree/dev)
+- github(C++): [https://github.com/D-X-Y/caffe-faster-rcnn/tree/dev](https://github.com/D-X-Y/caffe-faster-rcnn/tree/dev)
 
 **R-CNN minus R**
 
@@ -446,6 +448,7 @@ and 1.15s per image with it".
 
 - arxiv: [http://arxiv.org/abs/1605.06409](http://arxiv.org/abs/1605.06409)
 - github: [https://github.com/daijifeng001/R-FCN](https://github.com/daijifeng001/R-FCN)
+- github(MXNet): [https://github.com/msracver/Deformable-ConvNets/tree/master/rfcn](https://github.com/msracver/Deformable-ConvNets/tree/master/rfcn)
 - github: [https://github.com/Orpine/py-R-FCN](https://github.com/Orpine/py-R-FCN)
 - github: [https://github.com/PureDiors/pytorch_RFCN](https://github.com/PureDiors/pytorch_RFCN)
 - github: [https://github.com/bharatsingh430/py-R-FCN-multiGPU](https://github.com/bharatsingh430/py-R-FCN-multiGPU)
@@ -678,6 +681,11 @@ Continuation of [arXiv:1608.08021](https://arxiv.org/abs/1608.08021)
 - intro: ICCV 2017
 - arxiv: [https://arxiv.org/abs/1708.02863](https://arxiv.org/abs/1708.02863)
 
+**Incremental Learning of Object Detectors without Catastrophic Forgetting**
+
+- intro: ICCV 2017. Inria
+- arxiv: [https://arxiv.org/abs/1708.06977](https://arxiv.org/abs/1708.06977)
+
 **Zoom Out-and-In Network with Map Attention Decision for Region Proposal and Object Detection**
 
 [https://arxiv.org/abs/1709.04347](https://arxiv.org/abs/1709.04347)
@@ -749,7 +757,8 @@ Continuation of [arXiv:1608.08021](https://arxiv.org/abs/1608.08021)
 
 **Adversarial Examples that Fool Detectors**
 
-[https://arxiv.org/abs/1712.02494](https://arxiv.org/abs/1712.02494)
+- intro: University of Illinois
+- arxiv: [https://arxiv.org/abs/1712.02494](https://arxiv.org/abs/1712.02494)
 
 ## NMS
 
@@ -792,7 +801,7 @@ Continuation of [arXiv:1608.08021](https://arxiv.org/abs/1608.08021)
 - intro: IJCAI 2017
 - arxiv: [https://arxiv.org/abs/1706.06768](https://arxiv.org/abs/1706.06768)
 
-# Detection From Video
+# Video Object Detection
 
 **Learning Object Class Detectors from Weakly Annotated Video**
 
@@ -875,6 +884,14 @@ Continuation of [arXiv:1608.08021](https://arxiv.org/abs/1608.08021)
 **Towards High Performance Video Object Detection**
 
 [https://arxiv.org/abs/1711.11577](https://arxiv.org/abs/1711.11577)
+
+**Impression Network for Video Object Detection**
+
+[https://arxiv.org/abs/1712.05896](https://arxiv.org/abs/1712.05896)
+
+**Spatial-Temporal Memory Networks for Video Object Detection**
+
+[https://arxiv.org/abs/1712.06317](https://arxiv.org/abs/1712.06317)
 
 # Object Detection in 3D
 
@@ -1840,6 +1857,11 @@ We additionally provide an implementation of the [ReInspect](https://github.com/
 
 - github: [https://github.com/bharatsingh430/Deformable-ConvNets](https://github.com/bharatsingh430/Deformable-ConvNets)
 
+**How to Build a Real-time Hand-Detector using Neural Networks (SSD) on Tensorflow**
+
+- blog: [https://towardsdatascience.com/how-to-build-a-real-time-hand-detector-using-neural-networks-ssd-on-tensorflow-d6bac0e4b2ce](https://towardsdatascience.com/how-to-build-a-real-time-hand-detector-using-neural-networks-ssd-on-tensorflow-d6bac0e4b2ce)
+- github: [https://github.com//victordibia/handtracking](https://github.com//victordibia/handtracking)
+
 # Leaderboard
 
 **Detection Results: VOC2012**
@@ -1914,3 +1936,7 @@ We additionally provide an implementation of the [ReInspect](https://github.com/
 
 - blog: [https://research.googleblog.com/2017/06/supercharge-your-computer-vision-models.html](https://research.googleblog.com/2017/06/supercharge-your-computer-vision-models.html)
 - github: [https://github.com/tensorflow/models/tree/master/object_detection](https://github.com/tensorflow/models/tree/master/object_detection)
+
+**Understanding SSD MultiBox — Real-Time Object Detection In Deep Learning**
+
+[https://towardsdatascience.com/understanding-ssd-multibox-real-time-object-detection-in-deep-learning-495ef744fab](https://towardsdatascience.com/understanding-ssd-multibox-real-time-object-detection-in-deep-learning-495ef744fab)

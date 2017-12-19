@@ -767,3 +767,10 @@ perl -lne '$seen{$_}++ and next or print;' data.txt > output.txt
 ```
 ./do_something.sh || exit 1
 ```
+
+**Split string on Shell**
+
+```
+str="/aaaa/bbbbb/cccc"
+echo $str | tr "/" "\"
+```

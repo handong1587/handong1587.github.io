@@ -334,6 +334,12 @@ Compressed model is less than 500KB
 - intro: Audio style transfer AI
 - github: [https://github.com/rupeshs/neuralsongstyle](https://github.com/rupeshs/neuralsongstyle)
 
+**Time Domain Neural Audio Style Transfer**
+
+- intro: NIPS 2017
+- arxiv: [https://arxiv.org/abs/1711.11160](https://arxiv.org/abs/1711.11160)
+- github: [https://github.com//pkmital/time-domain-neural-audio-style-transfer](https://github.com//pkmital/time-domain-neural-audio-style-transfer)
+
 ## Neural Art On Video
 
 **neural-style-video**
@@ -527,14 +533,23 @@ Compressed model is less than 500KB
 - paper: [http://www.eecs.qmul.ac.uk/~qian/SketchMeThatShoe.pdf](http://www.eecs.qmul.ac.uk/~qian/SketchMeThatShoe.pdf)
 - github: [https://github.com/seuliufeng/DeepSBIR](https://github.com/seuliufeng/DeepSBIR)
 
+**Mastering Sketching: Adversarial Augmentation for Structured Prediction**
+
+- keywords: Sketch Simplification
+- project page: [http://hi.cs.waseda.ac.jp/~esimo/en/research/sketch_master/](http://hi.cs.waseda.ac.jp/~esimo/en/research/sketch_master/)
+- arxiv: [https://arxiv.org/abs/1703.08966](https://arxiv.org/abs/1703.08966)
+- github: [https://github.com/bobbens/sketch_simplification](https://github.com/bobbens/sketch_simplification)
+
 ## Image Stylization
 
 **Automatic Portrait Segmentation for Image Stylization**
 
 ![](http://xiaoyongshen.me/webpage_portrait/figures/teaser.png)
 
+- intro: The Chinese University of Hong Kong & Adobe Research
 - project page(data+code): [http://xiaoyongshen.me/webpage_portrait/index.html](http://xiaoyongshen.me/webpage_portrait/index.html)
 - paper: [http://www.cse.cuhk.edu.hk/leojia/papers/portrait_eg16.pdf](http://www.cse.cuhk.edu.hk/leojia/papers/portrait_eg16.pdf)
+- github(Tensorflow): [https://github.com/PetroWu/AutoPortraitMatting](https://github.com/PetroWu/AutoPortraitMatting)
 
 **Transfiguring Portraits**
 
@@ -825,6 +840,11 @@ Compressed model is less than 500KB
 - homepage: [http://maxpumperla.github.io/betago/](http://maxpumperla.github.io/betago/)
 - github: [https://github.com/maxpumperla/betago](https://github.com/maxpumperla/betago)
 
+**Deep Learning and the Game of Go**
+
+- book: [https://www.manning.com/books/deep-learning-and-the-game-of-go](https://www.manning.com/books/deep-learning-and-the-game-of-go)
+- github: [https://github.com//maxpumperla/deep_learning_and_the_game_of_go](https://github.com//maxpumperla/deep_learning_and_the_game_of_go)
+
 ## DarkForest
 
 **Better Computer Go Player with Neural Network and Long-term Prediction (Facebook AI Research)**
@@ -850,6 +870,11 @@ Compressed model is less than 500KB
 - blog: [http://www.furidamu.org/blog/2016/01/26/mastering-the-game-of-go-with-deep-neural-networks-and-tree-search/](http://www.furidamu.org/blog/2016/01/26/mastering-the-game-of-go-with-deep-neural-networks-and-tree-search/)
 - blog("AlphaGo: From Intuitive Learning to Holistic Knowledge"): [https://caminao.wordpress.com/2016/02/01/alphago/](https://caminao.wordpress.com/2016/02/01/alphago/)
 - github: [https://github.com/Rochester-NRT/AlphaGo](https://github.com/Rochester-NRT/AlphaGo)
+
+**AlphaGo Teach**
+
+- intro: Let the AlphaGo Teaching Tool help you find new and creative ways of playing Go
+- homepage: [https://alphagoteach.deepmind.com/](https://alphagoteach.deepmind.com/)
 
 **AlphaGo的分析**
 
@@ -884,6 +909,16 @@ further original research into a small, easy to use graphical interface.
 - youtube: [https://www.youtube.com/watch?v=6fKG4wJ7uBk](https://www.youtube.com/watch?v=6fKG4wJ7uBk)
 - mirror: [https://www.bilibili.com/video/av16428694/](https://www.bilibili.com/video/av16428694/)
 - slides: [https://drive.google.com/file/d/1rmUyIitEmAtMUKdKEnlHRfmXtpyoxxey/view](https://drive.google.com/file/d/1rmUyIitEmAtMUKdKEnlHRfmXtpyoxxey/view)
+
+**AlphaZero: Mastering Games without Human Knowledge - NIPS 2017**
+
+- intro: Keynote by David Silver on AlphaGo, AlphaGo Zero and AlphaZero, at the 2017 NIPS Deep Reinforcement Learning Symposium, 6 Dec, Long Beach, CA
+- youtube: [https://www.youtube.com/watch?v=A3ekFcZ3KNw](https://www.youtube.com/watch?v=A3ekFcZ3KNw)
+- mirror: [https://www.bilibili.com/video/av17210816/](https://www.bilibili.com/video/av17210816/)
+
+**The future is here – AlphaZero learns chess**
+
+[https://en.chessbase.com/post/the-future-is-here-alphazero-learns-chess](https://en.chessbase.com/post/the-future-is-here-alphazero-learns-chess)
 
 # Chess
 

@@ -15,6 +15,11 @@ date: 2015-10-09
 
 # Papers
 
+**Collaborative Deep Learning for Recommender Systems**
+
+- arxiv: [https://arxiv.org/abs/1409.2944](https://arxiv.org/abs/1409.2944)
+- paper: [http://www.wanghao.in/paper/KDD15_CDL.pdf](http://www.wanghao.in/paper/KDD15_CDL.pdf)
+
 **Image-based recommendations on styles and substitutes**
 
 - paper: [http://cseweb.ucsd.edu/~jmcauley/pdfs/sigir15.pdf](http://cseweb.ucsd.edu/~jmcauley/pdfs/sigir15.pdf)

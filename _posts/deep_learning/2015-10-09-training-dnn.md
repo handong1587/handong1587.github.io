@@ -490,7 +490,8 @@ date: 2015-10-09
 
 **AdaBatch: Adaptive Batch Sizes for Training Deep Neural Networks**
 
-[https://arxiv.org/abs/1712.02029](https://arxiv.org/abs/1712.02029)
+- intro: UC Berkeley & NVIDIA
+- arxiv: [https://arxiv.org/abs/1712.02029](https://arxiv.org/abs/1712.02029)
 
 # Optimization Methods
 
@@ -581,6 +582,20 @@ date: 2015-10-09
 - github: [https://github.com//ManuelGonzalezRivero/3dbabove](https://github.com//ManuelGonzalezRivero/3dbabove)
 - reddit: [https://www.reddit.com/r/MachineLearning/comments/7ehxky/d_optimization_algorithms_math_and_code/](https://www.reddit.com/r/MachineLearning/comments/7ehxky/d_optimization_algorithms_math_and_code/)
 
+**Gradient Normalization & Depth Based Decay For Deep Learning**
+
+- intro: Columbia University
+- arxiv: [https://arxiv.org/abs/1712.03607](https://arxiv.org/abs/1712.03607)
+
+**Neumann Optimizer: A Practical Optimization Algorithm for Deep Neural Networks**
+
+- intro: Google Research
+- arxiv: [https://arxiv.org/abs/1712.03298](https://arxiv.org/abs/1712.03298)
+
+**Optimization for Deep Learning Highlights in 2017**
+
+[http://ruder.io/deep-learning-optimization-2017/index.html](http://ruder.io/deep-learning-optimization-2017/index.html)
+
 # Tensor Methods
 
 **Tensorizing Neural Networks**
@@ -645,7 +660,8 @@ date: 2015-10-09
 
 **Learning Sparse Neural Networks through L0 Regularization**
 
-[https://arxiv.org/abs/1712.01312](https://arxiv.org/abs/1712.01312)
+- intro: University of Amsterdam & OpenAI
+- arxiv: [https://arxiv.org/abs/1712.01312](https://arxiv.org/abs/1712.01312)
 
 **Regularization and Optimization strategies in Deep Convolutional Neural Network**
 
@@ -740,6 +756,7 @@ date: 2015-10-09
 
 **Fixing Weight Decay Regularization in Adam**
 
+- intro: University of Freiburg
 - arxiv: [https://arxiv.org/abs/1711.05101](https://arxiv.org/abs/1711.05101)
 - github: [https://github.com/loshchil/AdamW-and-SGDW](https://github.com/loshchil/AdamW-and-SGDW)
 - github: [https://github.com/fastai/fastai/pull/46/files](https://github.com/fastai/fastai/pull/46/files)
@@ -865,10 +882,6 @@ date: 2015-10-09
 
 - intro: UC Berkeley & Microsoft Research, India
 - arxiv: [https://arxiv.org/abs/1711.10456](https://arxiv.org/abs/1711.10456)
-
-**Gradient Descent Learns One-hidden-layer CNN: Don't be Afraid of Spurious Local Minima**
-
-[https://arxiv.org/abs/1712.00779](https://arxiv.org/abs/1712.00779)
 
 ## AdaGrad
 
@@ -1055,6 +1068,22 @@ date: 2015-10-09
 
 [https://arxiv.org/abs/1712.04621](https://arxiv.org/abs/1712.04621)
 
+**MentorNet: Regularizing Very Deep Neural Networks on Corrupted Labels**
+
+- intro: Google Inc & Stanford University
+- arxiv: [https://arxiv.org/abs/1712.05055](https://arxiv.org/abs/1712.05055)
+
+**mixup: Beyond Empirical Risk Minimization**
+
+- intro: MIT & FAIR
+- arxiv: [https://arxiv.org/abs/1710.09412](https://arxiv.org/abs/1710.09412)
+- github: [https://github.com//leehomyc/mixup_pytorch](https://github.com//leehomyc/mixup_pytorch)
+- github: [https://github.com//unsky/mixup](https://github.com//unsky/mixup)
+
+**mixup: Data-Dependent Data Augmentation**
+
+[http://www.inference.vc/mixup-data-dependent-data-augmentation/](http://www.inference.vc/mixup-data-dependent-data-augmentation/)
+
 ## Imbalanced Datasets
 
 **Investigation on handling Structured & Imbalanced Datasets with Deep Learning**
@@ -1159,9 +1188,14 @@ date: 2015-10-09
 
 **Deep Gradient Compression: Reducing the Communication Bandwidth for Distributed Training**
 
+- intro: Tsinghua University & Stanford University
 - comments: we find 99.9% of the gradient exchange in distributed SGD is redundant; we reduce the communication bandwidth by two orders of magnitude without losing accuracy
 - keywords: momentum correction, local gradient clipping, momentum factor masking, and warm-up training
 - arxiv: [https://arxiv.org/abs/1712.01887](https://arxiv.org/abs/1712.01887)
+
+**Distributed learning of CNNs on heterogeneous CPU/GPU architectures**
+
+[https://arxiv.org/abs/1712.02546](https://arxiv.org/abs/1712.02546)
 
 ## Projects
 
@@ -1328,6 +1362,7 @@ date: 2015-10-09
 
 **Solving internal covariate shift in deep learning with linked neurons**
 
+- intro: Universitat de Barcelona
 - arxiv: [https://arxiv.org/abs/1712.02609](https://arxiv.org/abs/1712.02609)
 - github: [https://github.com/blauigris/linked_neurons](https://github.com/blauigris/linked_neurons)
 

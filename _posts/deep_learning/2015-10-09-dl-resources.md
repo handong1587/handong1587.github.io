@@ -396,6 +396,11 @@ not just the convolutions)
 
 - arxiv: [https://arxiv.org/abs/1611.07800](https://arxiv.org/abs/1611.07800)
 
+**Data Distillation: Towards Omni-Supervised Learning**
+
+- intro: Facebook AI Research (FAIR)
+- arxiv: [https://arxiv.org/abs/1712.04440](https://arxiv.org/abs/1712.04440)
+
 # Transfer Learning
 
 **Discriminative Transfer Learning with Tree-based Priors**
@@ -480,6 +485,11 @@ not just the convolutions)
 
 - intro: Université Paris Descartes, Paris
 - arxiv: [https://arxiv.org/abs/1711.10177](https://arxiv.org/abs/1711.10177)
+
+**Born Again Neural Networks**
+
+- intro: University of Southern California & CMU & Amazon AI
+- paper: [http://metalearning.ml/papers/metalearn17_furlanello.pdf](http://metalearning.ml/papers/metalearn17_furlanello.pdf)
 
 ## One Shot Learning
 
@@ -874,6 +884,11 @@ not just the convolutions)
 - arxiv: [https://arxiv.org/abs/1712.04248](https://arxiv.org/abs/1712.04248)
 - openreview: [https://openreview.net/forum?id=SyZI0GWCZ](https://openreview.net/forum?id=SyZI0GWCZ)
 
+**Where Classification Fails, Interpretation Rises**
+
+- intro: Lehigh University
+- arxiv: [https://arxiv.org/abs/1712.00558](https://arxiv.org/abs/1712.00558)
+
 # Deep Learning Networks
 
 **PCANet: A Simple Deep Learning Baseline for Image Classification?**
@@ -1183,7 +1198,8 @@ with fast exact probabilistic inference over many layers."
 
 **Deep Quaternion Networks**
 
-[https://arxiv.org/abs/1712.04604](https://arxiv.org/abs/1712.04604)
+- intro: University of Louisiana
+- arxiv: [https://arxiv.org/abs/1712.04604](https://arxiv.org/abs/1712.04604)
 
 **DiracNets: Training Very Deep Neural Networks Without Skip-Connections**
 
@@ -1199,7 +1215,11 @@ with fast exact probabilistic inference over many layers."
 
 **Primal-Dual Group Convolutions for Deep Neural Networks**
 
-[https://arxiv.org/abs/1707.02725](https://arxiv.org/abs/1707.02725)
+**Interleaved Group Convolutions for Deep Neural Networks**
+
+- intro: ICCV 2017
+- arxiv: [https://arxiv.org/abs/1707.02725](https://arxiv.org/abs/1707.02725)
+- gihtub: [https://github.com/hellozting/InterleavedGroupConvolutions](https://github.com/hellozting/InterleavedGroupConvolutions)
 
 **Sensor Transformation Attention Networks**
 
@@ -1285,7 +1305,8 @@ with fast exact probabilistic inference over many layers."
 
 **BlockDrop: Dynamic Inference Paths in Residual Networks**
 
-[https://arxiv.org/abs/1711.08393](https://arxiv.org/abs/1711.08393)
+- intro: UMD & UT Austin & IBM Research & Fusemachines Inc.
+- arxiv: [https://arxiv.org/abs/1711.08393](https://arxiv.org/abs/1711.08393)
 
 **Wasserstein Introspective Neural Networks**
 
@@ -1308,6 +1329,11 @@ with fast exact probabilistic inference over many layers."
 **Broadcasting Convolutional Network**
 
 [https://arxiv.org/abs/1712.02517](https://arxiv.org/abs/1712.02517)
+
+**Point-wise Convolutional Neural Network**
+
+- intro: Singapore University of Technology and Design
+- arxiv: [https://arxiv.org/abs/1712.05245](https://arxiv.org/abs/1712.05245)
 
 ## Interpreting Convolutional Neural Networks
 
@@ -1344,6 +1370,13 @@ with fast exact probabilistic inference over many layers."
 - arxiv: [https://arxiv.org/abs/1711.08141](https://arxiv.org/abs/1711.08141)
 
 **Spatially-Adaptive Filter Units for Deep Neural Networks**
+
+- intro: University of Ljubljana & University of Birmingham
+- arxiv: [https://arxiv.org/abs/1711.11473](https://arxiv.org/abs/1711.11473)
+
+**clcNet: Improving the Efficiency of Convolutional Neural Network using Channel Local Convolutions**
+
+[https://arxiv.org/abs/1712.06145](https://arxiv.org/abs/1712.06145)
 
 ## Highway Networks
 
@@ -1417,6 +1450,25 @@ with fast exact probabilistic inference over many layers."
 - github: [https://github.com/gustavla/fractalnet](https://github.com/gustavla/fractalnet)
 - github: [https://github.com/edgelord/FractalNet](https://github.com/edgelord/FractalNet)
 - github(Keras): [https://github.com/snf/keras-fractalnet](https://github.com/snf/keras-fractalnet)
+
+## Architecture Search for Convolutional Neural Networks
+
+**Learning Transferable Architectures for Scalable Image Recognition**
+
+- intro: Google Brain
+- keywordss: Neural Architecture Search Network (NASNet)
+- arxiv: [https://arxiv.org/abs/1707.07012](https://arxiv.org/abs/1707.07012)
+- gtihub: [https://github.com//titu1994/Keras-NASNet](https://github.com//titu1994/Keras-NASNet)
+
+**Simple And Efficient Architecture Search for Convolutional Neural Networks**
+
+- intro: Bosch Center for Artificial Intelligence & University of Freiburg
+- arxiv: [https://arxiv.org/abs/1711.04528](https://arxiv.org/abs/1711.04528)
+
+**Progressive Neural Architecture Search**
+
+- intri: Johns Hopkins University & Google Brain & Google Cloud & Stanford University & Google AI
+- arxiv: [https://arxiv.org/abs/1712.00559](https://arxiv.org/abs/1712.00559)
 
 ## Graph Convolutional Networks
 
@@ -1546,6 +1598,11 @@ with fast exact probabilistic inference over many layers."
 - intro: NIPS 2016. MIT
 - arxiv: [https://arxiv.org/abs/1612.09057](https://arxiv.org/abs/1612.09057)
 
+**Probabilistic Torch**
+
+- intro: Probabilistic Torch is library for deep generative models that extends PyTorch
+- github: [https://github.com/probtorch/probtorch](https://github.com/probtorch/probtorch)
+
 # Deep Learning and Robots
 
 **Robot Learning Manipulation Action Plans by "Watching" Unconstrained Videos from the World Wide Web**
@@ -1608,6 +1665,8 @@ with fast exact probabilistic inference over many layers."
 **Deep Learning for Robotics**
 
 - intro: by Pieter Abbeel
+- video: [https://www.facebook.com/nipsfoundation/videos/1554594181298482/](https://www.facebook.com/nipsfoundation/videos/1554594181298482/)
+- mirror: [https://www.bilibili.com/video/av17078186/](https://www.bilibili.com/video/av17078186/)
 - slides: [https://www.dropbox.com/s/4fhczb9cxkuqalf/2017_11_xx_BARS-Abbeel.pdf?dl=0](https://www.dropbox.com/s/4fhczb9cxkuqalf/2017_11_xx_BARS-Abbeel.pdf?dl=0)
 
 # Deep Learning on Mobile / Embedded Devices
@@ -1911,11 +1970,6 @@ with fast exact probabilistic inference over many layers."
 - example code: [https://github.com/pluskid/fitting-random-labels](https://github.com/pluskid/fitting-random-labels)
 - notes: [https://theneuralperspective.com/2017/01/24/understanding-deep-learning-requires-rethinking-generalization/](https://theneuralperspective.com/2017/01/24/understanding-deep-learning-requires-rethinking-generalization/)
 
-**Local minima in training of deep networks**
-
-- intro: DeepMind
-- arxiv: [https://arxiv.org/abs/1611.06310](https://arxiv.org/abs/1611.06310)
-
 **Learning the Number of Neurons in Deep Networks**
 
 - intro: NIPS 2016
@@ -2135,6 +2189,20 @@ with fast exact probabilistic inference over many layers."
 
 [https://arxiv.org/abs/1712.02502](https://arxiv.org/abs/1712.02502)
 
+**Security Risks in Deep Learning Implementation**
+
+- intro: Qihoo 360 Security Research Lab & University of Georgia & University of Virginia
+- arxiv: [https://arxiv.org/abs/1711.11008](https://arxiv.org/abs/1711.11008)
+
+**Online Learning with Gated Linear Networks**
+
+- intro: DeepMind
+- arxiv: [https://arxiv.org/abs/1712.01897](https://arxiv.org/abs/1712.01897)
+
+**On the Information Bottleneck Theory of Deep Learning**
+
+[https://openreview.net/forum?id=ry_WPG-A-&noteId=ry_WPG-A](https://openreview.net/forum?id=ry_WPG-A-&noteId=ry_WPG-A)
+
 ## Tutorials and Surveys
 
 **On the Origin of Deep Learning**
@@ -2155,7 +2223,25 @@ with fast exact probabilistic inference over many layers."
 
 **Mathematics of Deep Learning**
 
-[https://arxiv.org/abs/1712.04741](https://arxiv.org/abs/1712.04741)
+- intro: Johns Hopkins University & New York University & Tel-Aviv University & University of California, Los Angeles
+- arxiv: [https://arxiv.org/abs/1712.04741](https://arxiv.org/abs/1712.04741)
+
+## Local Minima
+
+**Local minima in training of deep networks**
+
+- intro: DeepMind
+- arxiv: [https://arxiv.org/abs/1611.06310](https://arxiv.org/abs/1611.06310)
+
+**Deep linear neural networks with arbitrary loss: All local minima are global**
+
+**Gradient Descent Learns One-hidden-layer CNN: Don't be Afraid of Spurious Local Minima**
+
+- intro: CMU & University of Southern California & Facebook Artificial Intelligence Research
+- arxiv: [https://arxiv.org/abs/1712.00779](https://arxiv.org/abs/1712.00779)
+
+- intro: Loyola Marymount University & California State University
+- arxiv: [https://arxiv.org/abs/1712.01473](https://arxiv.org/abs/1712.01473)
 
 ## Dive Into CNN
 
@@ -2417,6 +2503,7 @@ with fast exact probabilistic inference over many layers."
 - project page: [http://lmb.informatik.uni-freiburg.de/Publications/2016/IMKDB16/](http://lmb.informatik.uni-freiburg.de/Publications/2016/IMKDB16/)
 - arxiv: [https://arxiv.org/abs/1612.01925](https://arxiv.org/abs/1612.01925)
 - github(Caffe): [https://github.com/lmb-freiburg/flownet2](https://github.com/lmb-freiburg/flownet2)
+- github: [https://github.com//NVIDIA/flownet2-pytorch](https://github.com//NVIDIA/flownet2-pytorch)
 - video: [http://lmb.informatik.uni-freiburg.de/Publications/2016/IMKDB16/](http://lmb.informatik.uni-freiburg.de/Publications/2016/IMKDB16/)
 
 **Optical Flow Estimation using a Spatial Pyramid Network**
@@ -2808,6 +2895,10 @@ feed-forward neural nets and deep learning.
 **Awesome Deep Learning Resources**
 
 [https://github.com/guillaume-chevalier/awesome-deep-learning-resources](https://github.com/guillaume-chevalier/awesome-deep-learning-resources)
+
+**Virginia Tech Vision and Learning Reading Group**
+
+[https://github.com//vt-vl-lab/reading_group](https://github.com//vt-vl-lab/reading_group)
 
 ## Arxiv Pages
 

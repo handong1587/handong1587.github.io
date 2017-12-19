@@ -195,11 +195,18 @@ date: 2015-10-09
 
 # Face Image Generation
 
+**Fader Networks: Manipulating Images by Sliding Attributes**
+
+- intro: NIPS 2017. Facebook AI Research & Sorbonne Université
+- arxiv: [https://arxiv.org/abs/1706.00409](https://arxiv.org/abs/1706.00409)
+- github: [https://github.com//facebookresearch/FaderNetworks](https://github.com//facebookresearch/FaderNetworks)
+
 # Person Image Generation
 
 **Disentangled Person Image Generation**
 
-[https://arxiv.org/abs/1712.02621](https://arxiv.org/abs/1712.02621)
+- intro: KU-Leuven/PSI & Max Planck Institute for Informatics & ETH Zurich
+- arxiv: [https://arxiv.org/abs/1712.02621](https://arxiv.org/abs/1712.02621)
 
 **Pose Guided Person Image Generation**
 
@@ -208,9 +215,27 @@ date: 2015-10-09
 
 # Video Generation
 
+**MoCoGAN: Decomposing Motion and Content for Video Generation**
+
+- arxiv: [https://arxiv.org/abs/1707.04993](https://arxiv.org/abs/1707.04993)
+- github: [https://github.com/sergeytulyakov/mocogan](https://github.com/sergeytulyakov/mocogan)
+- github(PyTorch): [https://github.com/DLHacks/mocogan](https://github.com/DLHacks/mocogan)
+
 **Attentive Semantic Video Generation using Captions**
 
 [https://arxiv.org/abs/1708.05980](https://arxiv.org/abs/1708.05980)
+
+**Hierarchical Video Generation from Orthogonal Information: Optical Flow and Texture**
+
+- intro: AAAI2018. The University of Tokyo
+- project page: [http://www.mi.t.u-tokyo.ac.jp/assets/publication/hierarchical_video_generation_sup/](http://www.mi.t.u-tokyo.ac.jp/assets/publication/hierarchical_video_generation_sup/)
+- arxiv: [https://arxiv.org/abs/1711.09618](https://arxiv.org/abs/1711.09618)
+
+**Towards an Understanding of Our World by GANing Videos in the Wild**
+
+- intro: ETH Zurich
+- arxiv: [https://arxiv.org/abs/1711.11453](https://arxiv.org/abs/1711.11453)
+- github: [https://github.com//bernhard2202/improved-video-gan](https://github.com//bernhard2202/improved-video-gan)
 
 # Deep Generative Model
 

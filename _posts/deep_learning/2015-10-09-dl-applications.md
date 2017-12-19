@@ -177,7 +177,8 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 
 **Dual-Path Convolutional Image-Text Embedding**
 
-[https://arxiv.org/abs/1711.05535](https://arxiv.org/abs/1711.05535)
+- arxiv: [https://arxiv.org/abs/1711.05535](https://arxiv.org/abs/1711.05535)
+- github: [https://github.com//layumi/Image-Text-Embedding](https://github.com//layumi/Image-Text-Embedding)
 
 **Conditional Image-Text Embedding Networks**
 
@@ -461,6 +462,11 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 
 [https://arxiv.org/abs/1711.08229](https://arxiv.org/abs/1711.08229)
 
+**LSTM Pose Machines**
+
+- intro: SenseTime
+- arxiv: [https://arxiv.org/abs/1712.06316](https://arxiv.org/abs/1712.06316)
+
 # Sentiment Analysis / Sentiment Prediction
 
 **From Pixels to Sentiment: Fine-tuning CNNs for Visual Sentiment Prediction**
@@ -566,6 +572,11 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 
 - intro: Aalto University & Indian Institute of Technology
 - arxiv: [https://arxiv.org/abs/1707.09733](https://arxiv.org/abs/1707.09733)
+
+**MapNet: Geometry-Aware Learning of Maps for Camera Localization**
+
+- intro: Georgia Institute of Technology & NVIDIA
+- arxiv: [https://arxiv.org/abs/1712.03342](https://arxiv.org/abs/1712.03342)
 
 # Counting Objects
 
@@ -918,13 +929,20 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 
 [https://arxiv.org/abs/1711.06445](https://arxiv.org/abs/1711.06445)
 
-**Deep image prior**
+**Deep Image Prior**
 
 - intro: Skolkovo Institute of Science and Technology & University of Oxford
 - project page: [https://dmitryulyanov.github.io/deep_image_prior](https://dmitryulyanov.github.io/deep_image_prior)
+- arxiv: [https://arxiv.org/abs/1711.10925](https://arxiv.org/abs/1711.10925)
 - paper: [https://sites.skoltech.ru/app/data/uploads/sites/25/2017/11/deep_image_prior.pdf](https://sites.skoltech.ru/app/data/uploads/sites/25/2017/11/deep_image_prior.pdf)
 - github: [https://github.com//DmitryUlyanov/deep-image-prior](https://github.com//DmitryUlyanov/deep-image-prior)
 - reddit: [https://www.reddit.com/r/MachineLearning/comments/7gls3j/r_deep_image_prior_deep_superresolution/](https://www.reddit.com/r/MachineLearning/comments/7gls3j/r_deep_image_prior_deep_superresolution/)
+
+**MemNet: A Persistent Memory Network for Image Restoration**
+
+- intro: ICCV 2017 spotlight
+- paper: [http://cvlab.cse.msu.edu/pdfs/Image_Restoration%20using_Persistent_Memory_Network.pdf](http://cvlab.cse.msu.edu/pdfs/Image_Restoration%20using_Persistent_Memory_Network.pdf)
+- github: [https://github.com//tyshiwo/MemNet](https://github.com//tyshiwo/MemNet)
 
 # Image Super-Resolution
 
@@ -1145,6 +1163,19 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 
 [https://arxiv.org/abs/1712.03037](https://arxiv.org/abs/1712.03037)
 
+**SRPGAN: Perceptual Generative Adversarial Network for Single Image Super Resolution**
+
+[https://arxiv.org/abs/1712.05927](https://arxiv.org/abs/1712.05927)
+
+**"Zero-Shot" Super-Resolution using Deep Internal Learning**
+
+- project page: [http://www.wisdom.weizmann.ac.il/~vision/zssr/](http://www.wisdom.weizmann.ac.il/~vision/zssr/)
+- arxiv: [https://arxiv.org/abs/1712.06087](https://arxiv.org/abs/1712.06087)
+
+**Super-Resolution with Deep Adaptive Image Resampling**
+
+[https://arxiv.org/abs/1712.06463](https://arxiv.org/abs/1712.06463)
+
 ## Video Super-resolution
 
 **Detail-revealing Deep Video Super-resolution**
@@ -1243,6 +1274,10 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 **Chaining Identity Mapping Modules for Image Denoising**
 
 [https://arxiv.org/abs/1712.02933](https://arxiv.org/abs/1712.02933)
+
+**Deep Burst Denoising**
+
+[https://arxiv.org/abs/1712.05790](https://arxiv.org/abs/1712.05790)
 
 # Image Haze Removal
 
@@ -1582,6 +1617,12 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 - arxiv: [https://arxiv.org/abs/1612.03242](https://arxiv.org/abs/1612.03242)
 - github: [https://github.com/hanzhanggit/StackGAN](https://github.com/hanzhanggit/StackGAN)
 - github: [https://github.com/brangerbriz/docker-StackGAN](https://github.com/brangerbriz/docker-StackGAN)
+
+**Semantic Image Synthesis via Adversarial Learning**
+
+- intro: ICCV 2017
+- arxiv: [https://arxiv.org/abs/1707.06873](https://arxiv.org/abs/1707.06873)
+- github(PyTorch): [https://github.com//woozzu/dong_iccv_2017](https://github.com//woozzu/dong_iccv_2017)
 
 # Image Tagging
 

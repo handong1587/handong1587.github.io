@@ -142,6 +142,11 @@ date: 2015-10-09
 - video: [http://pan.baidu.com/s/1bnWGuIz/](http://pan.baidu.com/s/1bnWGuIz/)
 - assignment: [http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching_files/Easy21-Johannes.pdf](http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching_files/Easy21-Johannes.pdf)
 
+**CS 294: Deep Reinforcement Learning, Spring 2017**
+
+- course page: [http://rll.berkeley.edu/deeprlcoursesp17/](http://rll.berkeley.edu/deeprlcoursesp17/)
+- github: [https://github.com//txizzle/drl](https://github.com//txizzle/drl)
+
 **Berkeley CS 294: Deep Reinforcement Learning**
 
 - instructors: John Schulman, Pieter Abbeel
@@ -527,6 +532,15 @@ Incorporates dropout regularization and convolutional neural networks with a sep
 - intro: Syracuse University & University of California, Riverside
 - arxiv: [https://arxiv.org/abs/1710.03792](https://arxiv.org/abs/1710.03792)
 
+**Robust Deep Reinforcement Learning with Adversarial Attacks**
+
+[https://arxiv.org/abs/1712.03632](https://arxiv.org/abs/1712.03632)
+
+**Variational Deep Q Network**
+
+- intro: Second workshop on Bayesian Deep Learning (NIPS 2017). Columbia University
+- arxiv: [https://arxiv.org/abs/1711.11225](https://arxiv.org/abs/1711.11225)
+
 ## Surveys
 
 **Reinforcement Learning: A Survey**
@@ -766,7 +780,8 @@ The project is dedicated to hero in life great Jesse Livermore.
 
 **Car Racing using Reinforcement Learning**
 
-[https://web.stanford.edu/class/cs221/2017/restricted/p-final/elibol/final.pdf](https://web.stanford.edu/class/cs221/2017/restricted/p-final/elibol/final.pdf)
+- intro: Stanford University
+- paper: [https://web.stanford.edu/class/cs221/2017/restricted/p-final/elibol/final.pdf](https://web.stanford.edu/class/cs221/2017/restricted/p-final/elibol/final.pdf)
 
 ## Play Flappy Bird
 

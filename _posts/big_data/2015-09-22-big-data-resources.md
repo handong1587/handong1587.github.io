@@ -34,6 +34,12 @@ date: 2015-09-22
 
 - paper: [http://link.springer.com/article/10.1186/s13634-016-0355-x](http://link.springer.com/article/10.1186/s13634-016-0355-x)
 
+**A Big Data Analysis Framework Using Apache Spark and Deep Learning**
+
+- intro: IEEE ICDM 2017 (International Conference on Data Mining) Workshop on Data Science and Big Data Analytics (DSBDA)
+- intro: University of Delhi & Manav Rachna University & CMU]
+- arxiv: [https://arxiv.org/abs/1711.09279](https://arxiv.org/abs/1711.09279)
+
 # Projects
 
 ## Open Big Data Group

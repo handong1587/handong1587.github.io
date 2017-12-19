@@ -548,6 +548,10 @@ Machine learning workflow, Extracting feaures from images (colours, edges, corne
 
 [https://github.com/Alfredvc/cnn_workshop](https://github.com/Alfredvc/cnn_workshop)
 
+**Exploring Optimizers**
+
+[https://github.com//KeremTurgutlu/deeplearning/blob/master/Exploring%20Optimizers.ipynb](https://github.com//KeremTurgutlu/deeplearning/blob/master/Exploring%20Optimizers.ipynb)
+
 # Convolution
 
 **Understanding Convolutions**

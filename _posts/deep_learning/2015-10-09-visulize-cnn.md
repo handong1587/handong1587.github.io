@@ -190,6 +190,15 @@ date: 2015-10-09
 
 [https://arxiv.org/abs/1711.06431](https://arxiv.org/abs/1711.06431)
 
+**An Introduction to Deep Visual Explanation**
+
+- intro: NIPS 2017 - Workshop Interpreting, Explaining and Visualizing Deep Learning
+- arxiv: [https://arxiv.org/abs/1711.09482](https://arxiv.org/abs/1711.09482)
+
+**Visual Explanation by Interpretation: Improving Visual Feedback Capabilities of Deep Neural Networks**
+
+[https://arxiv.org/abs/1712.06302](https://arxiv.org/abs/1712.06302)
+
 # Projects
 
 **Interactive Deep Neural Net Hallucinations**

@@ -89,6 +89,12 @@ date: 2015-10-09
 - intro: Accepted on the second International Workshop on Egocentric Perception, Interaction and Computing(EPIC) at International Conference on Computer Vision(ICCV-17)
 - arxiv: [https://arxiv.org/abs/1709.06495](https://arxiv.org/abs/1709.06495)
 
+**Learning Binary Residual Representations for Domain-specific Video Streaming**
+
+- intro: AAAI 2018
+- project page: [http://research.nvidia.com/publication/2018-02_Learning-Binary-Residual](http://research.nvidia.com/publication/2018-02_Learning-Binary-Residual)
+- arxiv: [https://arxiv.org/abs/1712.05087](https://arxiv.org/abs/1712.05087)
+
 # Video Classification
 
 **Large-scale Video Classification with Convolutional Neural Networks**
