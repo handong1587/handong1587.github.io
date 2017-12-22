@@ -396,11 +396,6 @@ not just the convolutions)
 
 - arxiv: [https://arxiv.org/abs/1611.07800](https://arxiv.org/abs/1611.07800)
 
-**Data Distillation: Towards Omni-Supervised Learning**
-
-- intro: Facebook AI Research (FAIR)
-- arxiv: [https://arxiv.org/abs/1712.04440](https://arxiv.org/abs/1712.04440)
-
 # Transfer Learning
 
 **Discriminative Transfer Learning with Tree-based Priors**
@@ -888,6 +883,37 @@ not just the convolutions)
 
 - intro: Lehigh University
 - arxiv: [https://arxiv.org/abs/1712.00558](https://arxiv.org/abs/1712.00558)
+
+**Query-Efficient Black-box Adversarial Examples**
+
+[https://arxiv.org/abs/1712.07113](https://arxiv.org/abs/1712.07113)
+
+**Adversarial Examples: Attacks and Defenses for Deep Learning**
+
+- intro: University of Florida
+[https://arxiv.org/abs/1712.07107](https://arxiv.org/abs/1712.07107)
+
+**Wolf in Sheep's Clothing - The Downscaling Attack Against Deep Learning Applications**
+
+[https://arxiv.org/abs/1712.07805](https://arxiv.org/abs/1712.07805)
+
+**Note on Attacking Object Detectors with Adversarial Stickers**
+
+- arxiv: [https://arxiv.org/abs/1712.08062](https://arxiv.org/abs/1712.08062)
+- demo: [https://iotsecurity.eecs.umich.edu/#yolo](https://iotsecurity.eecs.umich.edu/#yolo)
+
+**Targeted Backdoor Attacks on Deep Learning Systems Using Data Poisoning**
+
+- intro: UC Berkeley
+- arxiv: [https://arxiv.org/abs/1712.05526](https://arxiv.org/abs/1712.05526)
+
+**Awesome Adversarial Examples for Deep Learning**
+
+[https://github.com/chbrian/awesome-adversarial-examples-dl](https://github.com/chbrian/awesome-adversarial-examples-dl)
+
+**Targeted Backdoor Attacks on Deep Learning Systems Using Data Poisoning**
+
+[https://arxiv.org/abs/1712.05526](https://arxiv.org/abs/1712.05526)
 
 # Deep Learning Networks
 
@@ -1469,6 +1495,11 @@ with fast exact probabilistic inference over many layers."
 
 - intri: Johns Hopkins University & Google Brain & Google Cloud & Stanford University & Google AI
 - arxiv: [https://arxiv.org/abs/1712.00559](https://arxiv.org/abs/1712.00559)
+
+**Finding Competitive Network Architectures Within a Day Using UCT**
+
+- intro: IBM Research AI – Ireland
+- arxiv: [https://arxiv.org/abs/1712.07420](https://arxiv.org/abs/1712.07420)
 
 ## Graph Convolutional Networks
 
@@ -2183,7 +2214,8 @@ with fast exact probabilistic inference over many layers."
 
 **CNNs are Globally Optimal Given Multi-Layer Support**
 
-[https://arxiv.org/abs/1712.02501](https://arxiv.org/abs/1712.02501)
+- intro: CMU
+- arxiv: [https://arxiv.org/abs/1712.02501](https://arxiv.org/abs/1712.02501)
 
 **Take it in your stride: Do we need striding in CNNs?**
 
@@ -2395,7 +2427,8 @@ with fast exact probabilistic inference over many layers."
 
 **Incremental Learning in Deep Convolutional Neural Networks Using Partial Network Sharing**
 
-[https://arxiv.org/abs/1712.02719](https://arxiv.org/abs/1712.02719)
+- intro: Purdue University
+- arxiv: [https://arxiv.org/abs/1712.02719](https://arxiv.org/abs/1712.02719)
 
 ## Ensemble Deep Learning
 
@@ -2443,6 +2476,10 @@ with fast exact probabilistic inference over many layers."
 **Image to Image Translation for Domain Adaptation**
 
 [https://arxiv.org/abs/1712.00479](https://arxiv.org/abs/1712.00479)
+
+**Incremental Adversarial Domain Adaptation**
+
+[https://arxiv.org/abs/1712.07436](https://arxiv.org/abs/1712.07436)
 
 ## Embedding
 
@@ -2969,13 +3006,17 @@ feed-forward neural nets and deep learning.
 - intro: (PyTorch/Keras/TensorFlow)Gradient based receptive field estimation for Convolutional Neural Networks
 - github: [https://github.com//fornaxai/receptivefield](https://github.com//fornaxai/receptivefield)
 
-# Hackathons
+# Challenges / Hackathons
 
 **VisionHack 2017**
 
 - intro: 10 - 14 Sep 2017, Moscow, Russia
 - intro: a full-fledged hackathon that will last three full days
 - homepage: [http://visionhack.misis.ru/](http://visionhack.misis.ru/)
+
+**NVIDIA AI City Challenge Workshop at CVPR 2018**
+
+[http://www.aicitychallenge.org/](http://www.aicitychallenge.org/)
 
 # Books
 
@@ -2997,6 +3038,11 @@ feed-forward neural nets and deep learning.
 
 - author: Jordi Torres
 - book: [http://www.jorditorres.org/first-contact-with-tensorflow/](http://www.jorditorres.org/first-contact-with-tensorflow/)
+
+**《解析卷积神经网络—深度学习实践手册》**
+
+- intro: by 魏秀参（Xiu-Shen WEI）
+- homepage: [http://lamda.nju.edu.cn/weixs/book/CNN_book.html](http://lamda.nju.edu.cn/weixs/book/CNN_book.html)
 
 **Make Your Own Neural Network: IPython Neural Networks on a Raspberry Pi Zero**
 

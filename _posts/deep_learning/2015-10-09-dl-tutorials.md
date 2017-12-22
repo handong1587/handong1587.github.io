@@ -552,6 +552,10 @@ Machine learning workflow, Extracting feaures from images (colours, edges, corne
 
 [https://github.com//KeremTurgutlu/deeplearning/blob/master/Exploring%20Optimizers.ipynb](https://github.com//KeremTurgutlu/deeplearning/blob/master/Exploring%20Optimizers.ipynb)
 
+**A Gentle Introduction to Exploding Gradients in Neural Networks**
+
+[https://machinelearningmastery.com/exploding-gradients-in-neural-networks/](https://machinelearningmastery.com/exploding-gradients-in-neural-networks/)
+
 # Convolution
 
 **Understanding Convolutions**
@@ -711,6 +715,12 @@ Machine learning workflow, Extracting feaures from images (colours, edges, corne
 **Attention in Neural Networks and How to Use It**
 
 [http://akosiorek.github.io/ml/2017/10/14/visual-attention.html](http://akosiorek.github.io/ml/2017/10/14/visual-attention.html)
+
+# Softmax
+
+**Hierarchical softmax and negative sampling: short notes worth telling**
+
+[https://towardsdatascience.com/hierarchical-softmax-and-negative-sampling-short-notes-worth-telling-2672010dbe08](https://towardsdatascience.com/hierarchical-softmax-and-negative-sampling-short-notes-worth-telling-2672010dbe08)
 
 # Caffe
 

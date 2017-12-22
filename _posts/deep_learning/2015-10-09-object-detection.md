@@ -755,11 +755,6 @@ Continuation of [arXiv:1608.08021](https://arxiv.org/abs/1608.08021)
 - keywords: region selection network, gating network
 - arxiv: [https://arxiv.org/abs/1712.02408](https://arxiv.org/abs/1712.02408)
 
-**Adversarial Examples that Fool Detectors**
-
-- intro: University of Illinois
-- arxiv: [https://arxiv.org/abs/1712.02494](https://arxiv.org/abs/1712.02494)
-
 ## NMS
 
 **End-to-End Integration of a Convolutional Network, Deformable Parts Model and Non-Maximum Suppression**
@@ -784,6 +779,19 @@ Continuation of [arXiv:1608.08021](https://arxiv.org/abs/1608.08021)
 **Learning non-maximum suppression**
 
 [https://arxiv.org/abs/1705.02950](https://arxiv.org/abs/1705.02950)
+
+## Adversarial Examples
+
+**Adversarial Examples that Fool Detectors**
+
+- intro: University of Illinois
+- arxiv: [https://arxiv.org/abs/1712.02494](https://arxiv.org/abs/1712.02494)
+
+**Adversarial Examples Are Not Easily Detected: Bypassing Ten Detection Methods**
+
+- project page: [http://nicholas.carlini.com/code/nn_breaking_detection/](http://nicholas.carlini.com/code/nn_breaking_detection/)
+- arxiv: [https://arxiv.org/abs/1705.07263](https://arxiv.org/abs/1705.07263)
+- github: [https://github.com/carlini/nn_breaking_detection](https://github.com/carlini/nn_breaking_detection)
 
 # Weakly Supervised Object Detection
 

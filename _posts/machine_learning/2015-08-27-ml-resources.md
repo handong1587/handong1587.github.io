@@ -695,6 +695,12 @@ Classic strategies:
 - arxiv: [http://arxiv.org/abs/1606.04080](http://arxiv.org/abs/1606.04080)
 - github: [https://github.com/zergylord/oneshot](https://github.com/zergylord/oneshot)
 
+# Maximum Entropy
+
+**Maximum entropy probability distribution**
+
+[https://www.wikiwand.com/en/Maximum_entropy_probability_distribution](https://www.wikiwand.com/en/Maximum_entropy_probability_distribution)
+
 # Metric Learning
 
 **Distance Metric Learning: A Comprehensive Survey**

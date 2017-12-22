@@ -1,7 +1,7 @@
 ---
 layout: post
 category: deep_learning
-title: Image Generation
+title: Audio / Image / Video Generation
 date: 2015-10-09
 ---
 
@@ -192,6 +192,12 @@ date: 2015-10-09
 **Spatial PixelCNN: Generating Images from Patches**
 
 [https://arxiv.org/abs/1712.00714](https://arxiv.org/abs/1712.00714)
+
+**Visual to Sound: Generating Natural Sound for Videos in the Wild**
+
+- intro: University of North Carolina at Chapel Hill & Adobe Research
+- project page: [http://bvision11.cs.unc.edu/bigpen/yipin/visual2sound_webpage/visual2sound.html](http://bvision11.cs.unc.edu/bigpen/yipin/visual2sound_webpage/visual2sound.html)
+- arxiv: [https://arxiv.org/abs/1712.01393](https://arxiv.org/abs/1712.01393)
 
 # Face Image Generation
 

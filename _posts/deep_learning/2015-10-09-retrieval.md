@@ -489,6 +489,11 @@ and from 73.8% to 83.1% for ResNet-50
 
 [https://arxiv.org/abs/1711.09347](https://arxiv.org/abs/1711.09347)
 
+**Objects that Sound**
+
+- intro: DeepMind, VGG
+- arxiv: [https://arxiv.org/abs/1712.06651](https://arxiv.org/abs/1712.06651)
+
 ## Projects
 
 **HABIR哈希图像检索工具箱**

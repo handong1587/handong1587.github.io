@@ -52,6 +52,12 @@ date: 2015-10-09
 - slides: [http://rll.berkeley.edu/deeprlcourse/docs/nuts-and-bolts.pdf](http://rll.berkeley.edu/deeprlcourse/docs/nuts-and-bolts.pdf)
 - mirror: [https://pan.baidu.com/s/1kVkBLkF](https://pan.baidu.com/s/1kVkBLkF)
 
+**ML Tutorial: Modern Reinforcement Learning and Video Games**
+
+- intro: by Marc Bellemare [DeepMind]
+- youtube: [https://www.youtube.com/watch?v=WuFMrk3ZbkE](https://www.youtube.com/watch?v=WuFMrk3ZbkE)
+- mirror: [https://www.bilibili.com/video/av17360035/](https://www.bilibili.com/video/av17360035/)
+
 **Reinforcement learning explained**
 
 - blog: [https://www.oreilly.com/ideas/reinforcement-learning-explained](https://www.oreilly.com/ideas/reinforcement-learning-explained)

@@ -169,6 +169,13 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 - arxiv: [https://arxiv.org/abs/1704.02470](https://arxiv.org/abs/1704.02470)
 - github: [https://github.com/aiff22/DPED](https://github.com/aiff22/DPED)
 
+**Neural Scene De-rendering**
+
+- intro: CVPR 2017
+- project page: [http://nsd.csail.mit.edu/](http://nsd.csail.mit.edu/)
+- paper: [http://nsd.csail.mit.edu/papers/nsd_cvpr.pdf](http://nsd.csail.mit.edu/papers/nsd_cvpr.pdf)
+- gihtub: [https://github.com/jiajunwu/nsd](https://github.com/jiajunwu/nsd)
+
 # Image-Text
 
 **Learning Two-Branch Neural Networks for Image-Text Matching Tasks**
@@ -220,6 +227,11 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 **Age and gender estimation based on Convolutional Neural Network and TensorFlow**
 
 [https://github.com/BoyuanJiang/Age-Gender-Estimate-TF](https://github.com/BoyuanJiang/Age-Gender-Estimate-TF)
+
+**Deep Regression Forests for Age Estimation**
+
+- intro: Shanghai University & Johns Hopkins University & Nankai University
+- arxiv: [https://arxiv.org/abs/1712.07195](https://arxiv.org/abs/1712.07195)
 
 # Face Aging
 
@@ -729,6 +741,10 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 - intro: Tencent Youtu Lab
 - arxiv: [https://arxiv.org/abs/1711.04433](https://arxiv.org/abs/1711.04433)
 
+**DecideNet: Counting Varying Density Crowds Through Attention Guided Detection and Density Estimation**
+
+[https://arxiv.org/abs/1712.06679](https://arxiv.org/abs/1712.06679)
+
 # Activity Recognition
 
 **Implementing a CNN for Human Activity Recognition in Tensorflow**
@@ -884,6 +900,10 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 **Image Inpainting for High-Resolution Textures using CNN Texture Synthesis**
 
 [https://arxiv.org/abs/1712.03111](https://arxiv.org/abs/1712.03111)
+
+**Context-Aware Semantic Inpainting**
+
+[https://arxiv.org/abs/1712.07778](https://arxiv.org/abs/1712.07778)
 
 # Image Restoration
 
@@ -1176,6 +1196,11 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 
 [https://arxiv.org/abs/1712.06463](https://arxiv.org/abs/1712.06463)
 
+**SRPGAN: Perceptual Generative Adversarial Network for Single Image Super Resolution**
+
+- intro: Peking Univeristy
+- arxiv: [https://arxiv.org/abs/1712.05927](https://arxiv.org/abs/1712.05927)
+
 ## Video Super-resolution
 
 **Detail-revealing Deep Video Super-resolution**
@@ -1323,6 +1348,11 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 
 - arxiv: [https://arxiv.org/abs/1701.05957](https://arxiv.org/abs/1701.05957)
 
+**Single Image Deraining using Scale-Aware Multi-Stage Recurrent Network**
+
+- intro: CVPR 2018
+- arxiv: [https://arxiv.org/abs/1712.06830](https://arxiv.org/abs/1712.06830)
+
 # Fence Removal
 
 **Deep learning based fence segmentation and removal from an image using a video sequence**
@@ -1468,6 +1498,11 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 - intro: ACM Multimedia Conference (MM) 2017
 - intro: does not need any interaction and can realize real-time matting with 15 fps
 - arxiv: [https://arxiv.org/abs/1707.08289](https://arxiv.org/abs/1707.08289)
+
+**Real-time deep hair matting on mobile devices**
+
+- intro: ModiFace Inc, University of Toronto
+- arxiv: [https://arxiv.org/abs/1712.07168](https://arxiv.org/abs/1712.07168)
 
 # Image Blending
 

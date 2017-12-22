@@ -11,6 +11,10 @@ date: 2017-12-18
 
 # NISP 2017
 
+**NIPS 2017 Spotlights**
+
+- youtube: [https://www.youtube.com/playlist?list=PLbVjlVq6hjK89WtlGHdC_PNwcawrzht5S](https://www.youtube.com/playlist?list=PLbVjlVq6hjK89WtlGHdC_PNwcawrzht5S)
+
 **NIPS 2017 — notes and thoughs**
 
 [https://olgalitech.wordpress.com/2017/12/12/nips-2017-notes-and-thoughs/](https://olgalitech.wordpress.com/2017/12/12/nips-2017-notes-and-thoughs/)

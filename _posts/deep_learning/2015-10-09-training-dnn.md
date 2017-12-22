@@ -294,6 +294,7 @@ date: 2015-10-09
 
 **In-Place Activated BatchNorm for Memory-Optimized Training of DNNs**
 
+- intro: Mapillary Research
 - arxiv: [https://arxiv.org/abs/1712.02616](https://arxiv.org/abs/1712.02616)
 - github: [https://github.com/mapillary/inplace_abn](https://github.com/mapillary/inplace_abn)
 
@@ -595,6 +596,11 @@ date: 2015-10-09
 **Optimization for Deep Learning Highlights in 2017**
 
 [http://ruder.io/deep-learning-optimization-2017/index.html](http://ruder.io/deep-learning-optimization-2017/index.html)
+
+**Gradients explode - Deep Networks are shallow - ResNet explained**
+
+- intro: CMU & UC Berkeley
+- arxiv: [https://arxiv.org/abs/1712.05577](https://arxiv.org/abs/1712.05577)
 
 # Tensor Methods
 
@@ -1100,6 +1106,18 @@ date: 2015-10-09
 
 [https://arxiv.org/abs/1712.03162](https://arxiv.org/abs/1712.03162)
 
+## Noisy / Unlabelled Data
+
+**Data Distillation: Towards Omni-Supervised Learning**
+
+- intro: Facebook AI Research (FAIR)
+- arxiv: [https://arxiv.org/abs/1712.04440](https://arxiv.org/abs/1712.04440)
+
+**Learning From Noisy Singly-labeled Data**
+
+- intro: University of Illinois Urbana Champaign & CMU & Caltech & Amazon AI
+- arxiv: [https://arxiv.org/abs/1712.04577](https://arxiv.org/abs/1712.04577)
+
 # Low Numerical Precision
 
 **Training deep neural networks with low precision multiplications**
@@ -1196,6 +1214,11 @@ date: 2015-10-09
 **Distributed learning of CNNs on heterogeneous CPU/GPU architectures**
 
 [https://arxiv.org/abs/1712.02546](https://arxiv.org/abs/1712.02546)
+
+**Integrated Model and Data Parallelism in Training Neural Networks**
+
+- intro: UC Berkeley & Lawrence Berkeley National Laboratory
+- arxiv: [https://arxiv.org/abs/1712.04432](https://arxiv.org/abs/1712.04432)
 
 ## Projects
 

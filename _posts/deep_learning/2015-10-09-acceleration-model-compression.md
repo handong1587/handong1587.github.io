@@ -545,7 +545,8 @@ at INT8 deep learning operations than other FPGA DSP architectures"
 
 **Compact Hash Code Learning with Binary Deep Neural Network**
 
-[https://arxiv.org/abs/1712.02956](https://arxiv.org/abs/1712.02956)
+- intro: Singapore University of Technology and Design
+- arxiv: [https://arxiv.org/abs/1712.02956](https://arxiv.org/abs/1712.02956)
 
 # Accelerating / Fast Algorithms
 
@@ -591,6 +592,11 @@ at INT8 deep learning operations than other FPGA DSP architectures"
 
 - keywords: CNNCache
 - arxiv: [https://arxiv.org/abs/1712.01670](https://arxiv.org/abs/1712.01670)
+
+**Learning a Wavelet-like Auto-Encoder to Accelerate Deep Neural Networks**
+
+- intro: AAAI 2018
+- arxiv: [https://arxiv.org/abs/1712.07493](https://arxiv.org/abs/1712.07493)
 
 # Knowledge Distilling / Knowledge Transfer
 

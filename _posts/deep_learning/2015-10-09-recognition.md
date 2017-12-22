@@ -157,6 +157,11 @@ date: 2015-10-09
 - intro: ICCV 2017
 - arxiv: [https://arxiv.org/abs/1711.02816](https://arxiv.org/abs/1711.02816)
 
+**Recurrent Attentional Reinforcement Learning for Multi-label Image Recognition**
+
+- intro: AAAI 2018
+- arxiv: [https://arxiv.org/abs/1712.07465](https://arxiv.org/abs/1712.07465)
+
 # Face Recognition
 
 ## DeepID
