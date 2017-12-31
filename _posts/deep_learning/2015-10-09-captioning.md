@@ -476,6 +476,10 @@ after the embedding and recurrent layers of the RNN."
 
 [https://arxiv.org/abs/1711.11135](https://arxiv.org/abs/1711.11135)
 
+**Consensus-based Sequence Training for Video Captioning**
+
+[https://arxiv.org/abs/1712.09532](https://arxiv.org/abs/1712.09532)
+
 # Projects
 
 **Learning CNN-LSTM Architectures for Image Caption Generation: An implementation of CNN-LSTM image caption generator architecture that achieves close to state-of-the-art results on the MSCOCO dataset.**

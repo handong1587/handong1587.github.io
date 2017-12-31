@@ -206,6 +206,11 @@ without running into obstacles using a type of reinforcement learning called Q-L
 
 [http://selfdrivingcars.mit.edu/deeptesla/](http://selfdrivingcars.mit.edu/deeptesla/)
 
+**DeepPicar: A Low-cost Deep Neural Network-based Autonomous Car**
+
+- arxiv: [https://arxiv.org/abs/1712.08644](https://arxiv.org/abs/1712.08644)
+- github: [https://github.com//heechul/picar](https://github.com//heechul/picar)
+
 # Blogs
 
 **Self-driving cars: How far away are we REALLY from autonomous cars?(7 Aug 2015)**

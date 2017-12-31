@@ -5,30 +5,36 @@ title: Object Detection
 date: 2015-10-09
 ---
 
-| Method                      | VOC2007 | VOC2010 | VOC2012  | ILSVRC 2013 | MSCOCO 2015                     | Speed                          |
-| :-------------------:       | :-----: | :-----: | :------: | :------:    | :-----------:                   | :-----------:                  |
-| OverFeat                    |         |         |          | 24.3%       |                                 |                                |
-| R-CNN (AlexNet)             | 58.5%   | 53.7%   | 53.3%    | 31.4%       |                                 |                                |
-| R-CNN (VGG16)               | 66.0%   |         |          |             |                                 |                                |
-| SPP_net(ZF-5)               | 54.2%   |         |          | 31.84%      |                                 |
-| DeepID-Net                  | 64.1%   |         |          | 50.3%       |                                 |                                |
-| NoC                         | 73.3%   |         | 68.8%    |             |                                 |                                |
-| Fast-RCNN (VGG16)           | 70.0%   | 68.8%   | 68.4%    |             | 19.7%(@[0.5-0.95]), 35.9%(@0.5) |                                |
-| MR-CNN                      | 78.2%   |         | 73.9%    |             |                                 |                                |
-| Faster-RCNN (VGG16)         | 78.8%   |         | 75.9%    |             | 21.9%(@[0.5-0.95]), 42.7%(@0.5) | 198ms                          |
-| Faster-RCNN (ResNet-101)    | 85.6%   |         | 83.8%    |             | 37.4%(@[0.5-0.95]), 59.0%(@0.5) |                                |
-| YOLO                        | 63.4%   |         | 57.9%    |             |                                 | 45 fps                         |
-| YOLO VGG-16                 | 66.4%   |         |          |             |                                 | 21 fps                         |
-| YOLOv2 544 × 544            | 78.6%   |         | 73.4%    |             | 21.6%(@[0.5-0.95]), 44.0%(@0.5) | 40 fps                         |
-| SSD300 (VGG16)              | 77.2%   |         | 75.8%    |             | 25.1%(@[0.5-0.95]), 43.1%(@0.5) | 46 fps                         |
-| SSD512 (VGG16)              | 79.8%   |         | 78.5%    |             | 28.8%(@[0.5-0.95]), 48.5%(@0.5) | 19 fps                         |
-| ION                         | 79.2%   |         | 76.4%    |             |                                 |                                |
-| CRAFT                       | 75.7%   |         | 71.3%    | 48.5%       |                                 |                                |
-| OHEM                        | 78.9%   |         | 76.3%    |             | 25.5%(@[0.5-0.95]), 45.9%(@0.5) |                                |
-| R-FCN (ResNet-50)           | 77.4%   |         |          |             |                                 | 0.12sec(K40), 0.09sec(TitianX) |
-| R-FCN (ResNet-101)          | 79.5%   |         |          |             |                                 | 0.17sec(K40), 0.12sec(TitianX) |
-| R-FCN (ResNet-101),ms train | 83.6%   |         | 82.0%    |             | 31.5%(@[0.5-0.95]), 53.2%(@0.5) |                                |
-| PVANet 9.0                  | 84.9%   |         | 84.2%    |             |                                 | 750ms(CPU), 46ms(TitianX)      |
+| Method           | backbone   | test size | VOC2007 | VOC2010 | VOC2012 | ILSVRC 2013 | MSCOCO 2015                     | Speed                          |
+| :------------:   | :-----:    | :-----:   | :-----: | :-----: | :-----: | :---------: |
+| OverFeat         |            |           |         |         |         | 24.3%       |                                 |                                |
+| R-CNN            | AlexNet    |           | 58.5%   | 53.7%   | 53.3%   | 31.4%       |                                 |                                |
+| R-CNN            | VGG16      |           | 66.0%   |         |         |             |                                 |                                |
+| SPP_net          | ZF-5       |           | 54.2%   |         |         | 31.84%      |                                 |
+| DeepID-Net       |            |           | 64.1%   |         |         | 50.3%       |                                 |                                |
+| NoC              | 73.3%      |           | 68.8%   |         |         |             |
+| Fast-RCNN        | VGG16      |           | 70.0%   | 68.8%   | 68.4%   |             | 19.7%(@[0.5-0.95]), 35.9%(@0.5) |                                |
+| MR-CNN           | 78.2%      |           | 73.9%   |         |         |             |
+| Faster-RCNN      | VGG16      |           | 78.8%   |         | 75.9%   |             | 21.9%(@[0.5-0.95]), 42.7%(@0.5) | 198ms                          |
+| Faster-RCNN      | ResNet101  |           | 85.6%   |         | 83.8%   |             | 37.4%(@[0.5-0.95]), 59.0%(@0.5) |                                |
+| YOLO             |            |           | 63.4%   |         | 57.9%   |             |                                 | 45 fps                         |
+| YOLO VGG-16      |            |           | 66.4%   |         |         |             |                                 | 21 fps                         |
+| YOLOv2           |            | 448x448   | 78.6%   |         | 73.4%   |             | 21.6%(@[0.5-0.95]), 44.0%(@0.5) | 40 fps                         |
+| SSD              | VGG16      | 300x300   | 77.2%   |         | 75.8%   |             | 25.1%(@[0.5-0.95]), 43.1%(@0.5) | 46 fps                         |
+| SSD              | VGG16      | 512x512   | 79.8%   |         | 78.5%   |             | 28.8%(@[0.5-0.95]), 48.5%(@0.5) | 19 fps                         |
+| SSD              | ResNet101  | 300x300   |         |         |         |             | 28.0%(@[0.5-0.95])              | 16 fps                         |
+| SSD              | ResNet101  | 512x512   |         |         |         |             | 31.2%(@[0.5-0.95])              | 8 fps                          |
+| DSSD             | ResNet101  | 300x300   |         |         |         |             | 28.0%(@[0.5-0.95])              | 8 fps                          |
+| DSSD             | ResNet101  | 500x500   |         |         |         |             | 33.2%(@[0.5-0.95])              | 6 fps                          |
+| ION              |            |           | 79.2%   |         | 76.4%   |             |                                 |                                |
+| CRAFT            |            |           | 75.7%   |         | 71.3%   | 48.5%       |                                 |                                |
+| OHEM             |            |           | 78.9%   |         | 76.3%   |             | 25.5%(@[0.5-0.95]), 45.9%(@0.5) |                                |
+| R-FCN            | ResNet50   |           | 77.4%   |         |         |             |                                 | 0.12sec(K40), 0.09sec(TitianX) |
+| R-FCN            | ResNet101  |           | 79.5%   |         |         |             |                                 | 0.17sec(K40), 0.12sec(TitianX) |
+| R-FCN(ms train)  | ResNet101  |           | 83.6%   |         | 82.0%   |             | 31.5%(@[0.5-0.95]), 53.2%(@0.5) |                                |
+| PVANet 9.0       |            |           | 84.9%   |         | 84.2%   |             |                                 | 750ms(CPU), 46ms(TitianX)      |
+| Light-Head R-CNN | Xception\* | 800/1200  |         |         |         |             | 31.5%@[0.5:0.95]                | 95 fps                         |
+| Light-Head R-CNN | Xception\* | 700/1100  |         |         |         |             | 30.7%@[0.5:0.95]                | 102 fps                        |
 
 # Papers
 
@@ -166,8 +172,6 @@ date: 2015-10-09
 - arxiv: [http://arxiv.org/abs/1406.4729](http://arxiv.org/abs/1406.4729)
 - github: [https://github.com/ShaoqingRen/SPP_net](https://github.com/ShaoqingRen/SPP_net)
 - notes: [http://zhangliliang.com/2014/09/13/paper-note-sppnet/](http://zhangliliang.com/2014/09/13/paper-note-sppnet/)
-
-## DeepID-Net
 
 **DeepID-Net: Deformable Deep Convolutional Neural Networks for Object Detection**
 
@@ -508,8 +512,6 @@ Continuation of [arXiv:1608.08021](https://arxiv.org/abs/1608.08021)
 - arxiv: [https://arxiv.org/abs/1610.02579](https://arxiv.org/abs/1610.02579)
 - github: [https://github.com/craftGBD/craftGBD](https://github.com/craftGBD/craftGBD)
 
-## StuffNet
-
 **StuffNet: Using 'Stuff' to Improve Object Detection**
 
 - arxiv: [https://arxiv.org/abs/1610.05861](https://arxiv.org/abs/1610.05861)
@@ -576,7 +578,8 @@ Continuation of [arXiv:1608.08021](https://arxiv.org/abs/1608.08021)
 
 **DeNet: Scalable Real-time Object Detection with Directed Sparse Sampling**
 
-[https://arxiv.org/abs/1703.10295](https://arxiv.org/abs/1703.10295)
+- intro: ICCV 2017 (poster)
+- arxiv: [https://arxiv.org/abs/1703.10295](https://arxiv.org/abs/1703.10295)
 
 **Discriminative Bimodal Networks for Visual Localization and Detection with Natural Language Queries**
 
@@ -670,6 +673,8 @@ Continuation of [arXiv:1608.08021](https://arxiv.org/abs/1608.08021)
 - arxiv: [https://arxiv.org/abs/1708.01241](https://arxiv.org/abs/1708.01241)
 - github: [https://github.com/szq0214/DSOD](https://github.com/szq0214/DSOD)
 
+## RetinaNet
+
 **Focal Loss for Dense Object Detection**
 
 - intro: ICCV 2017 Best student paper award. Facebook AI Research
@@ -754,6 +759,16 @@ Continuation of [arXiv:1608.08021](https://arxiv.org/abs/1608.08021)
 
 - keywords: region selection network, gating network
 - arxiv: [https://arxiv.org/abs/1712.02408](https://arxiv.org/abs/1712.02408)
+
+**Training and Testing Object Detectors with Virtual Images**
+
+- intro: IEEE/CAA Journal of Automatica Sinica
+- arxiv: [https://arxiv.org/abs/1712.08470](https://arxiv.org/abs/1712.08470)
+
+**Large-Scale Object Discovery and Detector Adaptation from Unlabeled Video**
+
+- keywords: object mining, object tracking, unsupervised object discovery by appearance-based clustering, self-supervised detector adaptation
+- arxiv: [https://arxiv.org/abs/1712.08832](https://arxiv.org/abs/1712.08832)
 
 ## NMS
 
@@ -1086,7 +1101,7 @@ This task involves predicting the salient regions of an image given by human eye
 
 [https://arxiv.org/abs/1709.02495](https://arxiv.org/abs/1709.02495)
 
-## Saliency Detection in Video
+## Video Saliency Detection
 
 **Deep Learning For Video Saliency Detection**
 
@@ -1366,26 +1381,6 @@ This task involves predicting the salient regions of an image given by human eye
 
 [https://arxiv.org/abs/1711.06753](https://arxiv.org/abs/1711.06753)
 
-# People Detection
-
-**End-to-end people detection in crowded scenes**
-
-![](/assets/object-detection-materials/end_to_end_people_detection_in_crowded_scenes.jpg)
-
-- arxiv: [http://arxiv.org/abs/1506.04878](http://arxiv.org/abs/1506.04878)
-- github: [https://github.com/Russell91/reinspect](https://github.com/Russell91/reinspect)
-- ipn: [http://nbviewer.ipython.org/github/Russell91/ReInspect/blob/master/evaluation_reinspect.ipynb](http://nbviewer.ipython.org/github/Russell91/ReInspect/blob/master/evaluation_reinspect.ipynb)
-- youtube: [https://www.youtube.com/watch?v=QeWl0h3kQ24](https://www.youtube.com/watch?v=QeWl0h3kQ24)
-
-**Detecting People in Artwork with CNNs**
-
-- intro: ECCV 2016 Workshops
-- arxiv: [https://arxiv.org/abs/1610.08871](https://arxiv.org/abs/1610.08871)
-
-**Deep Multi-camera People Detection**
-
-- arxiv: [https://arxiv.org/abs/1702.04593](https://arxiv.org/abs/1702.04593)
-
 # Person Head Detection
 
 **Context-aware CNNs for person head detection**
@@ -1395,7 +1390,7 @@ This task involves predicting the salient regions of an image given by human eye
 - arxiv: [http://arxiv.org/abs/1511.07917](http://arxiv.org/abs/1511.07917)
 - github: [https://github.com/aosokin/cnn_head_detection](https://github.com/aosokin/cnn_head_detection)
 
-# Pedestrian Detection
+# Pedestrian Detection / People Detection
 
 **Pedestrian Detection aided by Deep Learning Semantic Tasks**
 
@@ -1419,6 +1414,15 @@ This task involves predicting the salient regions of an image given by human eye
 - intro: ICCV 2015
 - arxiv: [https://arxiv.org/abs/1504.07339](https://arxiv.org/abs/1504.07339)
 - github: [https://github.com/byangderek/CCF](https://github.com/byangderek/CCF)
+
+**End-to-end people detection in crowded scenes**
+
+![](/assets/object-detection-materials/end_to_end_people_detection_in_crowded_scenes.jpg)
+
+- arxiv: [http://arxiv.org/abs/1506.04878](http://arxiv.org/abs/1506.04878)
+- github: [https://github.com/Russell91/reinspect](https://github.com/Russell91/reinspect)
+- ipn: [http://nbviewer.ipython.org/github/Russell91/ReInspect/blob/master/evaluation_reinspect.ipynb](http://nbviewer.ipython.org/github/Russell91/ReInspect/blob/master/evaluation_reinspect.ipynb)
+- youtube: [https://www.youtube.com/watch?v=QeWl0h3kQ24](https://www.youtube.com/watch?v=QeWl0h3kQ24)
 
 **Learning Complexity-Aware Cascades for Deep Pedestrian Detection**
 
@@ -1466,10 +1470,19 @@ This task involves predicting the salient regions of an image given by human eye
 
 - arxiv: [https://arxiv.org/abs/1610.03466](https://arxiv.org/abs/1610.03466)
 
+**Detecting People in Artwork with CNNs**
+
+- intro: ECCV 2016 Workshops
+- arxiv: [https://arxiv.org/abs/1610.08871](https://arxiv.org/abs/1610.08871)
+
 **Multispectral Deep Neural Networks for Pedestrian Detection**
 
 - intro: BMVC 2016 oral
 - arxiv: [https://arxiv.org/abs/1611.02644](https://arxiv.org/abs/1611.02644)
+
+**Deep Multi-camera People Detection**
+
+- arxiv: [https://arxiv.org/abs/1702.04593](https://arxiv.org/abs/1702.04593)
 
 **Expecting the Unexpected: Training Detectors for Unusual Pedestrians with Adversarial Imposters**
 

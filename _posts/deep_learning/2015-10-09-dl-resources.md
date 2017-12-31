@@ -415,6 +415,12 @@ not just the convolutions)
 
 - paper: [http://research.microsoft.com/pubs/214307/paper.pdf](http://research.microsoft.com/pubs/214307/paper.pdf)
 
+**Learning Transferable Features with Deep Adaptation Networks**
+
+- intro: ICML 2015
+- arxiv: [https://arxiv.org/abs/1502.02791](https://arxiv.org/abs/1502.02791)
+- gihtub: [https://github.com/caoyue10/icml-caffe](https://github.com/caoyue10/icml-caffe)
+
 **Transferring Knowledge from a RNN to a DNN**
 
 - intro: CMU
@@ -914,6 +920,14 @@ not just the convolutions)
 **Targeted Backdoor Attacks on Deep Learning Systems Using Data Poisoning**
 
 [https://arxiv.org/abs/1712.05526](https://arxiv.org/abs/1712.05526)
+
+**Exploring the Space of Black-box Attacks on Deep Neural Networks**
+
+[https://arxiv.org/abs/1712.09491](https://arxiv.org/abs/1712.09491)
+
+**Adversarial Patch**
+
+[https://arxiv.org/abs/1712.09665](https://arxiv.org/abs/1712.09665)
 
 # Deep Learning Networks
 
@@ -1482,9 +1496,10 @@ with fast exact probabilistic inference over many layers."
 **Learning Transferable Architectures for Scalable Image Recognition**
 
 - intro: Google Brain
-- keywordss: Neural Architecture Search Network (NASNet)
+- keywordss: Neural Architecture Search Network (NASNet), AutoML
 - arxiv: [https://arxiv.org/abs/1707.07012](https://arxiv.org/abs/1707.07012)
 - gtihub: [https://github.com//titu1994/Keras-NASNet](https://github.com//titu1994/Keras-NASNet)
+- blog: [https://research.googleblog.com/2017/11/automl-for-large-scale-image.html](https://research.googleblog.com/2017/11/automl-for-large-scale-image.html)
 
 **Simple And Efficient Architecture Search for Convolutional Neural Networks**
 
@@ -1633,6 +1648,13 @@ with fast exact probabilistic inference over many layers."
 
 - intro: Probabilistic Torch is library for deep generative models that extends PyTorch
 - github: [https://github.com/probtorch/probtorch](https://github.com/probtorch/probtorch)
+
+**Tutorial on Deep Generative Models**
+
+- intro: UAI 2017 Tutorial: Shakir Mohamed & Danilo Rezende (DeepMind)
+- youtube: [https://www.youtube.com/watch?v=JrO5fSskISY](https://www.youtube.com/watch?v=JrO5fSskISY)
+- mirror: [https://www.bilibili.com/video/av16428277/](https://www.bilibili.com/video/av16428277/)
+- slides: [http://www.shakirm.com/slides/DeepGenModelsTutorial.pdf](http://www.shakirm.com/slides/DeepGenModelsTutorial.pdf)
 
 # Deep Learning and Robots
 
@@ -2267,13 +2289,17 @@ with fast exact probabilistic inference over many layers."
 
 **Deep linear neural networks with arbitrary loss: All local minima are global**
 
-**Gradient Descent Learns One-hidden-layer CNN: Don't be Afraid of Spurious Local Minima**
-
 - intro: CMU & University of Southern California & Facebook Artificial Intelligence Research
 - arxiv: [https://arxiv.org/abs/1712.00779](https://arxiv.org/abs/1712.00779)
 
+**Gradient Descent Learns One-hidden-layer CNN: Don't be Afraid of Spurious Local Minima**
+
 - intro: Loyola Marymount University & California State University
 - arxiv: [https://arxiv.org/abs/1712.01473](https://arxiv.org/abs/1712.01473)
+
+**Spurious Local Minima are Common in Two-Layer ReLU Neural Networks**
+
+[https://arxiv.org/abs/1712.08968](https://arxiv.org/abs/1712.08968)
 
 ## Dive Into CNN
 

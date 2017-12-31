@@ -373,6 +373,11 @@ date: 2015-10-09
 - intro: CVPR 2017
 - arxiv: [https://arxiv.org/abs/1708.03769](https://arxiv.org/abs/1708.03769)
 
+**DropMax: Adaptive Stochastic Softmax**
+
+- intro: UNIST & Postech & KAIST
+- arxiv: [https://arxiv.org/abs/1712.07834](https://arxiv.org/abs/1712.07834)
+
 # Learning Rate
 
 **No More Pesky Learning Rates**
@@ -833,6 +838,7 @@ date: 2015-10-09
 
 **Adam: A Method for Stochastic Optimization**
 
+- intro: ICLR 2015
 - arxiv: [http://arxiv.org/abs/1412.6980](http://arxiv.org/abs/1412.6980)
 
 **Fitting a model via closed-form equations vs. Gradient Descent vs Stochastic Gradient Descent vs Mini-Batch Learning. What is the difference?(Normal Equations vs. GD vs. SGD vs. MB-GD)**
@@ -888,6 +894,10 @@ date: 2015-10-09
 
 - intro: UC Berkeley & Microsoft Research, India
 - arxiv: [https://arxiv.org/abs/1711.10456](https://arxiv.org/abs/1711.10456)
+
+**Improving Generalization Performance by Switching from Adam to SGD**
+
+[https://arxiv.org/abs/1712.07628](https://arxiv.org/abs/1712.07628)
 
 ## AdaGrad
 
@@ -1316,6 +1326,10 @@ date: 2015-10-09
 
 - intro: CVPR 2017 oral, best paper award. Apple Inc.
 - arxiv: [https://arxiv.org/abs/1612.07828](https://arxiv.org/abs/1612.07828)
+
+**The Robust Manifold Defense: Adversarial Training using Generative Models**
+
+[https://arxiv.org/abs/1712.09196](https://arxiv.org/abs/1712.09196)
 
 # Incremental Training
 

@@ -185,6 +185,11 @@ date: 2015-10-09
 - lectures: [https://sites.google.com/view/deep-rl-bootcamp/lectures](https://sites.google.com/view/deep-rl-bootcamp/lectures)
 - video: [https://www.bilibili.com/video/av15568836/](https://www.bilibili.com/video/av15568836/)
 
+**CMPUT 366: Intelligent Systems and CMPUT 609: Reinforcement Learning & Artificial Intelligence**
+
+- intro: by Rich Sutton, Adam White
+- lecture video: [https://drive.google.com/drive/folders/0B3w765rOKuKAMG9lbmRacFdsLWM?direction=a](https://drive.google.com/drive/folders/0B3w765rOKuKAMG9lbmRacFdsLWM?direction=a)
+
 # Papers
 
 **Playing Atari with Deep Reinforcement Learning**
@@ -546,6 +551,10 @@ Incorporates dropout regularization and convolutional neural networks with a sep
 
 - intro: Second workshop on Bayesian Deep Learning (NIPS 2017). Columbia University
 - arxiv: [https://arxiv.org/abs/1711.11225](https://arxiv.org/abs/1711.11225)
+
+**On Monte Carlo Tree Search and Reinforcement Learning**
+
+[https://www.jair.org/media/5507/live-5507-10333-jair.pdf](https://www.jair.org/media/5507/live-5507-10333-jair.pdf)
 
 ## Surveys
 

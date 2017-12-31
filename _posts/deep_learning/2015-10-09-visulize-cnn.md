@@ -199,6 +199,11 @@ date: 2015-10-09
 
 [https://arxiv.org/abs/1712.06302](https://arxiv.org/abs/1712.06302)
 
+**Visualizing the Loss Landscape of Neural Nets**
+
+- intro: University of Maryland & United States Naval Academy
+- arxiv: [https://arxiv.org/abs/1712.09913](https://arxiv.org/abs/1712.09913)
+
 # Projects
 
 **Interactive Deep Neural Net Hallucinations**

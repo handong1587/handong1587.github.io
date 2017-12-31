@@ -479,6 +479,11 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 - intro: SenseTime
 - arxiv: [https://arxiv.org/abs/1712.06316](https://arxiv.org/abs/1712.06316)
 
+**Detect-and-Track: Efficient Pose Estimation in Videos**
+
+- intro: Ranked first in ICCV 2017 PoseTrack challenge (keypoint tracking in videos)
+- arxiv: [https://arxiv.org/abs/1712.09184](https://arxiv.org/abs/1712.09184)
+
 # Sentiment Analysis / Sentiment Prediction
 
 **From Pixels to Sentiment: Fine-tuning CNNs for Visual Sentiment Prediction**
@@ -904,6 +909,10 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 **Context-Aware Semantic Inpainting**
 
 [https://arxiv.org/abs/1712.07778](https://arxiv.org/abs/1712.07778)
+
+**Deep Blind Image Inpainting**
+
+[https://arxiv.org/abs/1712.09078](https://arxiv.org/abs/1712.09078)
 
 # Image Restoration
 
@@ -1631,6 +1640,11 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 
 - intro: ICCV 2017
 - arxiv: [https://arxiv.org/abs/1710.08014](https://arxiv.org/abs/1710.08014)
+
+**Automatic Image Cropping for Visual Aesthetic Enhancement Using Deep Neural Networks and Cascaded Regression**
+
+- intro: IEEE Transactions on Multimedia, 2017
+- arxiv: [https://arxiv.org/abs/1712.09048](https://arxiv.org/abs/1712.09048)
 
 # Image Synthesis
 

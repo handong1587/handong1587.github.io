@@ -204,12 +204,6 @@ date: 2015-10-09
 
 [https://www.arxiv.org/abs/1703.01226](https://www.arxiv.org/abs/1703.01226)
 
-**SVDNet for Pedestrian Retrieval**
-
-- intro: On the Market-1501 dataset, rank-1 accuracy is improved from 55.2% to 80.5% for CaffeNet, 
-and from 73.8% to 83.1% for ResNet-50
-- arxiv: [https://arxiv.org/abs/1703.05693](https://arxiv.org/abs/1703.05693)
-
 **An End-to-End Approach to Natural Language Object Retrieval via Context-Aware Deep Reinforcement Learning**
 
 [https://arxiv.org/abs/1703.07579](https://arxiv.org/abs/1703.07579)
@@ -454,6 +448,10 @@ and from 73.8% to 83.1% for ResNet-50
 **Transfer Adversarial Hashing for Hamming Space Retrieval**
 
 [https://arxiv.org/abs/1712.04616](https://arxiv.org/abs/1712.04616)
+
+**Deep Hashing with Category Mask for Fast Video Retrieval**
+
+[https://arxiv.org/abs/1712.08315](https://arxiv.org/abs/1712.08315)
 
 # Cross Modal Retrieval
 

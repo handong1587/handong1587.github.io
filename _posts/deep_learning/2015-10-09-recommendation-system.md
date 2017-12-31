@@ -131,6 +131,11 @@ date: 2015-10-09
 - arxiv: [https://arxiv.org/abs/1708.01715](https://arxiv.org/abs/1708.01715)
 - github: [https://github.com/NVIDIA/DeepRecommender](https://github.com/NVIDIA/DeepRecommender)
 
+**Deep Collaborative Autoencoder for Recommender Systems: A Unified Framework for Explicit and Implicit Feedback**
+
+- intro: Zhejiang University
+- arxiv: [https://arxiv.org/abs/1712.09043](https://arxiv.org/abs/1712.09043)
+
 # Slides
 
 **Deep learning for music recommendation**

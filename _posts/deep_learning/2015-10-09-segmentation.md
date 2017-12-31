@@ -825,6 +825,15 @@ with built-in awareness of semantically meaningful boundaries. "
 
 [https://arxiv.org/abs/1712.04837](https://arxiv.org/abs/1712.04837)
 
+**Recurrent Pixel Embedding for Instance Grouping**
+
+- intro: learning to embed pixels and group them into boundaries, object proposals, semantic segments and instances.
+- project page: [http://www.ics.uci.edu/~skong2/SMMMSG.html](http://www.ics.uci.edu/~skong2/SMMMSG.html)
+- arxiv: [https://arxiv.org/abs/1712.08273](https://arxiv.org/abs/1712.08273)
+- github: [https://github.com/aimerykong/Recurrent-Pixel-Embedding-for-Instance-Grouping](https://github.com/aimerykong/Recurrent-Pixel-Embedding-for-Instance-Grouping)
+- slides: [http://www.ics.uci.edu/~skong2/slides/pixel_embedding_for_grouping_public_version.pdf](http://www.ics.uci.edu/~skong2/slides/pixel_embedding_for_grouping_public_version.pdf)
+- poster: [http://www.ics.uci.edu/~skong2/slides/pixel_embedding_for_grouping_poster.pdf](http://www.ics.uci.edu/~skong2/slides/pixel_embedding_for_grouping_poster.pdf)
+
 # Specific Segmentation
 
 **A CNN Cascade for Landmark Guided Semantic Part Segmentation**
@@ -844,6 +853,10 @@ with built-in awareness of semantically meaningful boundaries. "
 **Face Parsing via a Fully-Convolutional Continuous CRF Neural Network**
 
 [https://arxiv.org/abs/1708.03736](https://arxiv.org/abs/1708.03736)
+
+**Boundary-sensitive Network for Portrait Segmentation**
+
+[https://arxiv.org/abs/1712.08675](https://arxiv.org/abs/1712.08675)
 
 # Segment Proposal
 
