@@ -770,6 +770,11 @@ Continuation of [arXiv:1608.08021](https://arxiv.org/abs/1608.08021)
 - keywords: object mining, object tracking, unsupervised object discovery by appearance-based clustering, self-supervised detector adaptation
 - arxiv: [https://arxiv.org/abs/1712.08832](https://arxiv.org/abs/1712.08832)
 
+**Spot the Difference by Object Detection**
+
+- intro: Tsinghua University & JD Group
+- arxiv: [https://arxiv.org/abs/1801.01051](https://arxiv.org/abs/1801.01051)
+
 ## NMS
 
 **End-to-End Integration of a Convolutional Network, Deformable Parts Model and Non-Maximum Suppression**
@@ -1288,8 +1293,9 @@ This task involves predicting the salient regions of an image given by human eye
 
 **SSH: Single Stage Headless Face Detector**
 
-- intro: ICCV 2017
+- intro: ICCV 2017. University of Maryland
 - arxiv: [https://arxiv.org/abs/1708.03979](https://arxiv.org/abs/1708.03979)
+- github(official, Caffe): [https://github.com/mahyarnajibi/SSH](https://github.com/mahyarnajibi/SSH)
 
 **Dockerface: an easy to install and use Faster R-CNN face detector in a Docker container**
 
@@ -1513,6 +1519,10 @@ This task involves predicting the salient regions of an image given by human eye
 
 [https://arxiv.org/abs/1711.07752](https://arxiv.org/abs/1711.07752)
 
+**Aggregated Channels Network for Real-Time Pedestrian Detection**
+
+[https://arxiv.org/abs/1801.00476](https://arxiv.org/abs/1801.00476)
+
 # Vehicle Detection
 
 **DAVE: A Unified Framework for Fast Vehicle Detection and Annotation**
@@ -1591,6 +1601,11 @@ This task involves predicting the salient regions of an image given by human eye
 - arxiv: [https://arxiv.org/abs/1705.09759](https://arxiv.org/abs/1705.09759)
 - code: [http://www.merl.com/research/license#CASENet](http://www.merl.com/research/license#CASENet)
 - video: [https://www.youtube.com/watch?v=BNE1hAP6Qho](https://www.youtube.com/watch?v=BNE1hAP6Qho)
+
+**Learning Deep Structured Multi-Scale Features using Attention-Gated CRFs for Contour Prediction**
+
+- intro: NIPS 2017
+- arxiv: [https://arxiv.org/abs/1801.00524](https://arxiv.org/abs/1801.00524)
 
 # Skeleton Detection
 

@@ -774,6 +774,10 @@ Machine learning workflow, Extracting feaures from images (colours, edges, corne
 
 [https://medium.com/@julsimon/10-deep-learning-projects-based-on-apache-mxnet-8231109f3f64](https://medium.com/@julsimon/10-deep-learning-projects-based-on-apache-mxnet-8231109f3f64)
 
+**Awesome MXNet(Beta)**
+
+[https://github.com/chinakook/Awesome-MXNet](https://github.com/chinakook/Awesome-MXNet)
+
 ## TVM
 
 **Optimize Deep Learning GPU Operators with TVM: A Depthwise Convolution Example**

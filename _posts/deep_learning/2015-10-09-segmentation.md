@@ -982,6 +982,10 @@ ranked 1st place in ImageNet Scene Parsing Challenge 2016
 
 [https://arxiv.org/abs/1708.07819](https://arxiv.org/abs/1708.07819)
 
+**Restricted Deformable Convolution based Road Scene Semantic Segmentation Using Surround View Cameras**
+
+[https://arxiv.org/abs/1801.00708](https://arxiv.org/abs/1801.00708)
+
 ## Benchmarks
 
 **MIT Scene Parsing Benchmark**
@@ -1020,7 +1024,7 @@ ranked 1st place in ImageNet Scene Parsing Challenge 2016
 - arxiv: [https://arxiv.org/abs/1703.05446](https://arxiv.org/abs/1703.05446)
 - github: [https://github.com/Engineering-Course/LIP_SSL](https://github.com/Engineering-Course/LIP_SSL)
 
-# Segmentation From Video
+# Video Object Segmentation
 
 **Fast object segmentation in unconstrained video**
 
@@ -1124,6 +1128,15 @@ ranked 1st place in ImageNet Scene Parsing Challenge 2016
 **Learning to Segment Moving Objects**
 
 [https://arxiv.org/abs/1712.01127](https://arxiv.org/abs/1712.01127)
+
+**Instance Embedding Transfer to Unsupervised Video Object Segmentation**
+
+[https://arxiv.org/abs/1801.00908](https://arxiv.org/abs/1801.00908)
+
+**Panoptic Segmentation**
+
+- intro: Facebook AI Research (FAIR) & Heidelberg University
+- arxiv: [https://arxiv.org/abs/1801.00868](https://arxiv.org/abs/1801.00868)
 
 ## Challenge
 

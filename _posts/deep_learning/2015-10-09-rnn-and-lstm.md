@@ -633,6 +633,11 @@ date: 2015-10-09
 - paper: [http://www.kentonl.com/pub/llz.2017.pdf](http://www.kentonl.com/pub/llz.2017.pdf)
 - github(PyTorch): [https://github.com/bheinzerling/ran](https://github.com/bheinzerling/ran)
 
+**Recent Advances in Recurrent Neural Networks**
+
+- intro: University of Toronto & University of Waterloo
+- arxiv: [https://arxiv.org/abs/1801.01078](https://arxiv.org/abs/1801.01078)
+
 # Projects
 
 **NeuralTalk (Deprecated): a Python+numpy project for learning Multimodal Recurrent Neural Networks that describe images with sentences**

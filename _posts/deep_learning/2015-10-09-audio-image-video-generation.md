@@ -219,6 +219,12 @@ date: 2015-10-09
 - intro: NIPS 2017
 - arxiv: [https://arxiv.org/abs/1705.09368](https://arxiv.org/abs/1705.09368)
 
+**Deformable GANs for Pose-based Human Image Generation**
+
+- intro: University of Trento & Inria Grenoble Rhone-Alpes
+- arxiv: [https://arxiv.org/abs/1801.00055](https://arxiv.org/abs/1801.00055)
+- github: [https://github.com/AliaksandrSiarohin/pose-gan](https://github.com/AliaksandrSiarohin/pose-gan)
+
 # Video Generation
 
 **MoCoGAN: Decomposing Motion and Content for Video Generation**

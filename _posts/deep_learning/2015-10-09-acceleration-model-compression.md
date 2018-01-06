@@ -498,6 +498,11 @@ at INT8 deep learning operations than other FPGA DSP architectures"
 - intro: the top-5 error rate of 4-bit quantized GoogLeNet model is 12.7%
 - arxiv: [https://arxiv.org/abs/1706.07145](https://arxiv.org/abs/1706.07145)
 
+**Quantization and Training of Neural Networks for Efficient Integer-Arithmetic-Only Inference**
+
+- intro: Google
+- arxiv: [https://arxiv.org/abs/1712.05877](https://arxiv.org/abs/1712.05877)
+
 # Binary Convolutional Neural Networks / Binarized Neural Networks
 
 **BinaryNet: Training Deep Neural Networks with Weights and Activations Constrained to +1 or -1**

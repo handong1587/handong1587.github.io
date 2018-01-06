@@ -929,6 +929,15 @@ not just the convolutions)
 
 [https://arxiv.org/abs/1712.09665](https://arxiv.org/abs/1712.09665)
 
+**Adversarial Generative Nets: Neural Network Attacks on State-of-the-Art Face Recognition**
+
+- intro: CMU & University of North Carolina at Chapel Hill
+- arxiv: [https://arxiv.org/abs/1801.00349](https://arxiv.org/abs/1801.00349)
+
+**Threat of Adversarial Attacks on Deep Learning in Computer Vision: A Survey**
+
+[https://arxiv.org/abs/1801.00553](https://arxiv.org/abs/1801.00553)
+
 # Deep Learning Networks
 
 **PCANet: A Simple Deep Learning Baseline for Image Classification?**
@@ -1375,6 +1384,11 @@ with fast exact probabilistic inference over many layers."
 - intro: Singapore University of Technology and Design
 - arxiv: [https://arxiv.org/abs/1712.05245](https://arxiv.org/abs/1712.05245)
 
+**ScreenerNet: Learning Curriculum for Neural Networks**
+
+- keywords: curricular learning, deep learning, deep q-learning
+- arxiv: [https://arxiv.org/abs/1801.00904](https://arxiv.org/abs/1801.00904)
+
 ## Interpreting Convolutional Neural Networks
 
 **SVCCA: Singular Vector Canonical Correlation Analysis for Deep Learning Dynamics and Interpretability**
@@ -1493,6 +1507,11 @@ with fast exact probabilistic inference over many layers."
 
 ## Architecture Search for Convolutional Neural Networks
 
+**Neural Architecture Search with Reinforcement Learning**
+
+- intro: Google Brain
+- paper: [https://openreview.net/pdf?id=r1Ue8Hcxg](https://openreview.net/pdf?id=r1Ue8Hcxg)
+
 **Learning Transferable Architectures for Scalable Image Recognition**
 
 - intro: Google Brain
@@ -1500,6 +1519,12 @@ with fast exact probabilistic inference over many layers."
 - arxiv: [https://arxiv.org/abs/1707.07012](https://arxiv.org/abs/1707.07012)
 - gtihub: [https://github.com//titu1994/Keras-NASNet](https://github.com//titu1994/Keras-NASNet)
 - blog: [https://research.googleblog.com/2017/11/automl-for-large-scale-image.html](https://research.googleblog.com/2017/11/automl-for-large-scale-image.html)
+- github: [https://github.com/titu1994/neural-architecture-search](https://github.com/titu1994/neural-architecture-search)
+
+**The First Step-by-Step Guide for Implementing Neural Architecture Search with Reinforcement Learning Using TensorFlow**
+
+- blog: [https://lab.wallarm.com/the-first-step-by-step-guide-for-implementing-neural-architecture-search-with-reinforcement-99ade71b3d28](https://lab.wallarm.com/the-first-step-by-step-guide-for-implementing-neural-architecture-search-with-reinforcement-99ade71b3d28)
+- github: [https://github.com/wallarm/nascell-automl](https://github.com/wallarm/nascell-automl)
 
 **Simple And Efficient Architecture Search for Convolutional Neural Networks**
 
@@ -2079,11 +2104,6 @@ with fast exact probabilistic inference over many layers."
 
 - intro: Google Research & University of Innsbruck
 - arxiv: [https://arxiv.org/abs/1701.06972](https://arxiv.org/abs/1701.06972)
-
-**Neural Architecture Search with Reinforcement Learning**
-
-- intro: Google Brain
-- paper: [https://openreview.net/pdf?id=r1Ue8Hcxg](https://openreview.net/pdf?id=r1Ue8Hcxg)
 
 **PathNet: Evolution Channels Gradient Descent in Super Neural Networks**
 
@@ -2962,6 +2982,11 @@ feed-forward neural nets and deep learning.
 **Virginia Tech Vision and Learning Reading Group**
 
 [https://github.com//vt-vl-lab/reading_group](https://github.com//vt-vl-lab/reading_group)
+
+**MEGALODON: ML/DL Resources At One Place**
+
+- intro: Various ML/DL Resources organised at a single place.
+- arxiv: [https://github.com//vyraun/Megalodon](https://github.com//vyraun/Megalodon)
 
 ## Arxiv Pages
 

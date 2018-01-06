@@ -136,6 +136,11 @@ date: 2015-10-09
 - intro: Zhejiang University
 - arxiv: [https://arxiv.org/abs/1712.09043](https://arxiv.org/abs/1712.09043)
 
+**Deep Reinforcement Learning for List-wise Recommendations**
+
+- intro: Michigan State University & Data Science Lab
+- arxiv: [https://arxiv.org/abs/1801.00209](https://arxiv.org/abs/1801.00209)
+
 # Slides
 
 **Deep learning for music recommendation**

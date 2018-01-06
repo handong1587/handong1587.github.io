@@ -914,6 +914,10 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 
 [https://arxiv.org/abs/1712.09078](https://arxiv.org/abs/1712.09078)
 
+**Deep Stacked Networks with Residual Polishing for Image Inpainting**
+
+[https://arxiv.org/abs/1801.00289](https://arxiv.org/abs/1801.00289)
+
 # Image Restoration
 
 **Image Restoration Using Very Deep Convolutional Encoder-Decoder Networks with Symmetric Skip Connections**
@@ -1046,7 +1050,9 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 
 **Photo-Realistic Single Image Super-Resolution Using a Generative Adversarial Network**
 
+- intro: CVPR 2017 Oral
 - arxiv: [https://arxiv.org/abs/1609.04802](https://arxiv.org/abs/1609.04802)
+- github: [https://github.com/tensorlayer/SRGAN](https://github.com/tensorlayer/SRGAN)
 - github(Torch): [https://github.com/leehomyc/Photo-Realistic-Super-Resoluton](https://github.com/leehomyc/Photo-Realistic-Super-Resoluton)
 - github: [https://github.com/junhocho/SRGAN](https://github.com/junhocho/SRGAN)
 - github(Keras): [https://github.com/titu1994/Super-Resolution-using-Generative-Adversarial-Networks](https://github.com/titu1994/Super-Resolution-using-Generative-Adversarial-Networks)
@@ -1200,6 +1206,7 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 
 - project page: [http://www.wisdom.weizmann.ac.il/~vision/zssr/](http://www.wisdom.weizmann.ac.il/~vision/zssr/)
 - arxiv: [https://arxiv.org/abs/1712.06087](https://arxiv.org/abs/1712.06087)
+- github: [https://github.com/jacobgil/pytorch-zssr](https://github.com/jacobgil/pytorch-zssr)
 
 **Super-Resolution with Deep Adaptive Image Resampling**
 

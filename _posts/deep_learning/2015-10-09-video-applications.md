@@ -715,6 +715,13 @@ alleviates the problem of video browsing, editing and indexing.
 
 [https://arxiv.org/abs/1708.09545](https://arxiv.org/abs/1708.09545)
 
+**Deep Reinforcement Learning for Unsupervised Video Summarization with Diversity-Representativeness Reward**
+
+- intro: AAAI 2018. Chinese Academy of Sciences & Queen Mary University of London
+- project page: [https://kaiyangzhou.github.io/project_vsumm_reinforce/index.html](https://kaiyangzhou.github.io/project_vsumm_reinforce/index.html)
+- arxiv: [https://arxiv.org/abs/1801.00054](https://arxiv.org/abs/1801.00054)
+- github: [https://github.com//KaiyangZhou/vsumm-reinforce](https://github.com//KaiyangZhou/vsumm-reinforce)
+
 # Video Highlight Detection
 
 **Unsupervised Extraction of Video Highlights Via Robust Recurrent Auto-encoders**
