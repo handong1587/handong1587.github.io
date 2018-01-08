@@ -1386,6 +1386,7 @@ with fast exact probabilistic inference over many layers."
 
 **ScreenerNet: Learning Curriculum for Neural Networks**
 
+- intro: Intel Corporation & Allen Institute for Artificial Intelligence
 - keywords: curricular learning, deep learning, deep q-learning
 - arxiv: [https://arxiv.org/abs/1801.00904](https://arxiv.org/abs/1801.00904)
 
