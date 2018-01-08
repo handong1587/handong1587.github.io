@@ -6,7 +6,7 @@ date: 2015-10-09
 ---
 
 | Method           | backbone   | test size | VOC2007 | VOC2010 | VOC2012 | ILSVRC 2013 | MSCOCO 2015                     | Speed                          |
-| :------------:   | :-----:    | :-----:   | :-----: | :-----: | :-----: | :---------: |                                 |                                |
+| :------------:   | :-----:    | :-----:   | :-----: | :-----: | :-----: | :---------: | :---------:                     | :---------:                    |
 | OverFeat         |            |           |         |         |         | 24.3%       |                                 |                                |
 | R-CNN            | AlexNet    |           | 58.5%   | 53.7%   | 53.3%   | 31.4%       |                                 |                                |
 | R-CNN            | VGG16      |           | 66.0%   |         |         |             |                                 |                                |
@@ -921,6 +921,10 @@ Continuation of [arXiv:1608.08021](https://arxiv.org/abs/1608.08021)
 
 [https://arxiv.org/abs/1712.06317](https://arxiv.org/abs/1712.06317)
 
+**3D-DETNet: a Single Stage Video-Based Vehicle Detector**
+
+[https://arxiv.org/abs/1801.01769](https://arxiv.org/abs/1801.01769)
+
 # Object Detection in 3D
 
 **Vote3Deep: Fast Object Detection in 3D Point Clouds Using Efficient Convolutional Neural Networks**
@@ -1625,6 +1629,10 @@ This task involves predicting the salient regions of an image given by human eye
 - intro: CVPR 2017
 - arxiv: [https://arxiv.org/abs/1703.02243](https://arxiv.org/abs/1703.02243)
 - github: [https://github.com/KevinKecc/SRN](https://github.com/KevinKecc/SRN)
+
+**Hi-Fi: Hierarchical Feature Integration for Skeleton Detection**
+
+[https://arxiv.org/abs/1801.01849](https://arxiv.org/abs/1801.01849)
 
 # Fruit Detection
 
