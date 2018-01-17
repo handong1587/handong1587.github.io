@@ -247,6 +247,12 @@ date: 2015-10-09
 - intro: visualization of CNN in PyTorch
 - github: [https://github.com/leelabcnbc/cnnvis-pytorch](https://github.com/leelabcnbc/cnnvis-pytorch)
 
+**VisualDL**
+
+- intro: A platform to visualize the deep learning process
+- homepage: [http://visualdl.paddlepaddle.org/](http://visualdl.paddlepaddle.org/)
+- github: [https://github.com/PaddlePaddle/VisualDL](https://github.com/PaddlePaddle/VisualDL)
+
 # Blogs
 
 "Visualizing GoogLeNet Classes"

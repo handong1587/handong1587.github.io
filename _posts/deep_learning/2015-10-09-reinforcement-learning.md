@@ -556,6 +556,12 @@ Incorporates dropout regularization and convolutional neural networks with a sep
 
 [https://www.jair.org/media/5507/live-5507-10333-jair.pdf](https://www.jair.org/media/5507/live-5507-10333-jair.pdf)
 
+**Distributed Deep Reinforcement Learning: Learn how to play Atari games in 21 minutes**
+
+- intro: deepsense.ai & Intel & Polish Academy of Sciences
+- arxiv: [https://arxiv.org/abs/1801.02852](https://arxiv.org/abs/1801.02852)
+- gihtub: [https://github.com//anonymous-author1/DDRL](https://github.com//anonymous-author1/DDRL)
+
 ## Surveys
 
 **Reinforcement Learning: A Survey**

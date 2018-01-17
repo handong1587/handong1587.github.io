@@ -322,6 +322,10 @@ Compressed model is less than 500KB
 - intro: Hong Kong University of Science and Technology & Microsoft Research
 - arxiv: [https://arxiv.org/abs/1710.00756](https://arxiv.org/abs/1710.00756)
 
+**Improved Style Transfer by Respecting Inter-layer Correlations**
+
+[https://arxiv.org/abs/1801.01933](https://arxiv.org/abs/1801.01933)
+
 ## Neural Art On Audio
 
 **MSc AI Project on generative deep networks and neural style transfer for audio**
@@ -539,6 +543,11 @@ Compressed model is less than 500KB
 - project page: [http://hi.cs.waseda.ac.jp/~esimo/en/research/sketch_master/](http://hi.cs.waseda.ac.jp/~esimo/en/research/sketch_master/)
 - arxiv: [https://arxiv.org/abs/1703.08966](https://arxiv.org/abs/1703.08966)
 - github: [https://github.com/bobbens/sketch_simplification](https://github.com/bobbens/sketch_simplification)
+
+**SketchyGAN: Towards Diverse and Realistic Sketch to Image Synthesis**
+
+- intro: Georgia Institute of Technology
+- arxiv: [https://arxiv.org/abs/1801.02753](https://arxiv.org/abs/1801.02753)
 
 ## Image Stylization
 
@@ -972,6 +981,43 @@ further original research into a small, easy to use graphical interface.
 - github: [https://github.com/moscow25/deep_draw](https://github.com/moscow25/deep_draw)
 - slides: [https://drive.google.com/file/d/0B5eOIUHA0khiMjN1YnEtZHMwams/view](https://drive.google.com/file/d/0B5eOIUHA0khiMjN1YnEtZHMwams/view)
 - slides: [http://pan.baidu.com/s/1nu5zpZ7](http://pan.baidu.com/s/1nu5zpZ7)
+
+**TorchCraft: a Library for Machine Learning Research on Real-Time Strategy Games**
+
+- intro: Connecting Torch to StarCraft
+- arxiv: [https://arxiv.org/abs/1611.00625](https://arxiv.org/abs/1611.00625)
+- github: [https://github.com/TorchCraft/TorchCraft](https://github.com/TorchCraft/TorchCraft)
+
+**BlizzCon 2016 DeepMind and StarCraft II Deep Learning Panel Transcript**
+
+- part 1: [http://starcraft.blizzplanet.com/blog/comments/blizzcon-2016-deepmind-and-starcraft-ii-deep-learning-panel-transcript](http://starcraft.blizzplanet.com/blog/comments/blizzcon-2016-deepmind-and-starcraft-ii-deep-learning-panel-transcript)
+- part 2: [http://starcraft.blizzplanet.com/blog/comments/blizzcon-2016-deepmind-and-starcraft-ii-deep-learning-panel-transcript/2](http://starcraft.blizzplanet.com/blog/comments/blizzcon-2016-deepmind-and-starcraft-ii-deep-learning-panel-transcript/2)
+
+**DeepStack: Expert-Level Artificial Intelligence in No-Limit Poker**
+
+- arxiv: [https://arxiv.org/abs/1701.01724](https://arxiv.org/abs/1701.01724)
+- github: [https://github.com/lifrordi/DeepStack-Leduc](https://github.com/lifrordi/DeepStack-Leduc)
+
+**Gym StarCraft: StarCraft environment for OpenAI Gym, based on Facebook's TorchCraft**
+
+- intro: Gym StarCraft is an environment bundle for OpenAI Gym. 
+It is based on Facebook's TorchCraft, which is a bridge between Torch and StarCraft for AI research.
+- github: [https://github.com/deepcraft/gym-starcraft](https://github.com/deepcraft/gym-starcraft)
+
+**Multiagent Bidirectionally-Coordinated Nets for Learning to Play StarCraft Combat Games**
+
+[https://arxiv.org/abs/1703.10069](https://arxiv.org/abs/1703.10069)
+
+**Learning Macromanagement in StarCraft from Replays using Deep Learning**
+
+- intro: CIG 2017. IT University of Copenhagen
+- arxiv: [https://arxiv.org/abs/1707.03743](https://arxiv.org/abs/1707.03743)
+
+**Multi-platform Version of StarCraft: Brood War in a Docker Container: Technical Report**
+
+- intro: Czech Technical University in Prague
+- arxiv: [https://arxiv.org/abs/1801.02193](https://arxiv.org/abs/1801.02193)
+- gihtub: [https://github.com/Games-and-Simulations/sc-docker](https://github.com/Games-and-Simulations/sc-docker)
 
 # Courses
 

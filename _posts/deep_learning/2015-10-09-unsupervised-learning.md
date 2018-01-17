@@ -150,6 +150,11 @@ Auto-encoder
 - intro: NIPS 2017
 - arxiv: [https://arxiv.org/abs/1709.02508](https://arxiv.org/abs/1709.02508)
 
+**SpectralNet: Spectral Clustering using Deep Neural Networks**
+
+- arxiv: [https://arxiv.org/abs/1801.01587](https://arxiv.org/abs/1801.01587)
+- github: [https://github.com//kstant0725/SpectralNet](https://github.com//kstant0725/SpectralNet)
+
 # Auto-encoder
 
 **Auto-Encoding Variational Bayes**

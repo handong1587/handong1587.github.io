@@ -565,6 +565,11 @@ extract saptio-temporal features to represent the video using the CNNs."
 - intro: ICCV 2017
 - arxiv: [https://arxiv.org/abs/1709.09121](https://arxiv.org/abs/1709.09121)
 
+**An overview of deep learning based methods for unsupervised and semi-supervised anomaly detection in videos**
+
+- intro: Uncanny Vision Solutions
+- arxiv: [https://arxiv.org/abs/1801.03149](https://arxiv.org/abs/1801.03149)
+
 # Video Prediction
 
 **Deep multi-scale video prediction beyond mean square error**

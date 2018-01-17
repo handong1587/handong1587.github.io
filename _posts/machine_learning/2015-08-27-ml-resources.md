@@ -1028,7 +1028,7 @@ AUC: Area Under the Curve
 - blog: [http://distill.pub/2016/misread-tsne/](http://distill.pub/2016/misread-tsne/)
 - github: [https://github.com/distillpub/post--misread-tsne](https://github.com/distillpub/post--misread-tsne)
 
-# Machine Learning Libraries
+# Libraries
 
 **LambdaNet: Purely functional artificial neural network library implemented in Haskell**
 
@@ -1153,7 +1153,13 @@ for creating complex software in C++ to solve real world problems.
 
 **ml.js - Machine learning tools in JavaScript**
 
-[https://github.com//mljs/ml](https://github.com//mljs/ml)
+[https://github.com/mljs/ml](https://github.com/mljs/ml)
+
+**Propel**
+
+- intro: A Machine Learning Framework for JavaScript / Differential Programming in JavaScript
+- homepage: [http://propelml.org/](http://propelml.org/)
+- github: [https://github.com/propelml/propel](https://github.com/propelml/propel)
 
 # Resources
 

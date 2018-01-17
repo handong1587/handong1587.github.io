@@ -118,6 +118,11 @@ date: 2015-10-09
 
 [https://arxiv.org/abs/1711.08506](https://arxiv.org/abs/1711.08506)
 
+**End-to-end detection-segmentation network with ROI convolution**
+
+- intro: ISBI 2018
+- arxiv: [https://arxiv.org/abs/1801.02722](https://arxiv.org/abs/1801.02722)
+
 # Foreground Object Segmentation
 
 **Pixel Objectness**
@@ -655,6 +660,10 @@ with built-in awareness of semantically meaningful boundaries. "
 
 [https://arxiv.org/abs/1712.03812](https://arxiv.org/abs/1712.03812)
 
+**Semantic Segmentation via Highly Fused Convolutional Network with Multiple Soft Cost Functions**
+
+[https://arxiv.org/abs/1801.01317](https://arxiv.org/abs/1801.01317)
+
 # Instance Segmentation
 
 **Simultaneous Detection and Segmentation**
@@ -1024,6 +1033,11 @@ ranked 1st place in ImageNet Scene Parsing Challenge 2016
 - arxiv: [https://arxiv.org/abs/1703.05446](https://arxiv.org/abs/1703.05446)
 - github: [https://github.com/Engineering-Course/LIP_SSL](https://github.com/Engineering-Course/LIP_SSL)
 
+**Cross-domain Human Parsing via Adversarial Feature and Label Adaptation**
+
+- intro: AAAI 2018
+- arxiv: [https://arxiv.org/abs/1801.01260](https://arxiv.org/abs/1801.01260)
+
 # Video Object Segmentation
 
 **Fast object segmentation in unconstrained video**
@@ -1131,7 +1145,8 @@ ranked 1st place in ImageNet Scene Parsing Challenge 2016
 
 **Instance Embedding Transfer to Unsupervised Video Object Segmentation**
 
-[https://arxiv.org/abs/1801.00908](https://arxiv.org/abs/1801.00908)
+- intro: University of Southern California & Google Inc
+- arxiv: [https://arxiv.org/abs/1801.00908](https://arxiv.org/abs/1801.00908)
 
 **Panoptic Segmentation**
 

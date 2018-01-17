@@ -466,6 +466,11 @@ It is an experimental refactoring of Caffe, and allows a more flexible way to or
 
 - github: [https://github.com/pppoe/WhatsThis-iOS](https://github.com/pppoe/WhatsThis-iOS)
 
+**MXNET-MPI: Embedding MPI parallelism in Parameter Server Task Model for scaling Deep Learning**
+
+- intro: IBM T J Watson Research Center
+- arxiv: [https://arxiv.org/abs/1801.03855](https://arxiv.org/abs/1801.03855)
+
 # ncnn
 
 - intro: ncnn is a high-performance neural network inference framework optimized for the mobile platform

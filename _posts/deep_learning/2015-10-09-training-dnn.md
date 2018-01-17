@@ -1100,6 +1100,16 @@ date: 2015-10-09
 
 [http://www.inference.vc/mixup-data-dependent-data-augmentation/](http://www.inference.vc/mixup-data-dependent-data-augmentation/)
 
+**Data Augmentation by Pairing Samples for Images Classification**
+
+- intro: IBM Research - Tokyo
+- arxiv: [https://arxiv.org/abs/1801.02929](https://arxiv.org/abs/1801.02929)
+
+**Feature Space Transfer for Data Augmentation**
+
+- keywords: eATure TransfEr Network (FATTEN)
+- arxiv: [https://arxiv.org/abs/1801.04356](https://arxiv.org/abs/1801.04356)
+
 ## Imbalanced Datasets
 
 **Investigation on handling Structured & Imbalanced Datasets with Deep Learning**
@@ -1115,6 +1125,11 @@ date: 2015-10-09
 **Class Rectification Hard Mining for Imbalanced Deep Learning**
 
 [https://arxiv.org/abs/1712.03162](https://arxiv.org/abs/1712.03162)
+
+**Bridging the Gap: Simultaneous Fine Tuning for Data Re-Balancing**
+
+- arxiv: [https://arxiv.org/abs/1801.02548](https://arxiv.org/abs/1801.02548)
+- github: [https://github.com/JohnMcKay/dataImbalance](https://github.com/JohnMcKay/dataImbalance)
 
 ## Noisy / Unlabelled Data
 

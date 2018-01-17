@@ -341,6 +341,8 @@ not just the convolutions)
 - github: [https://github.com/taineleau/efficient_densenet_mxnet](https://github.com/taineleau/efficient_densenet_mxnet)
 - github: [https://github.com/Tongcheng/DN_CaffeScript](https://github.com/Tongcheng/DN_CaffeScript)
 
+## DenseNet 2.0
+
 **CondenseNet: An Efficient DenseNet using Learned Group Convolutions**
 
 - arxiv: [https://arxiv.org/abs/1711.09224](https://arxiv.org/abs/1711.09224)
@@ -350,10 +352,10 @@ not just the convolutions)
 
 **Squeeze-and-Excitation Networks**
 
-- intro: ILSVRC 2017 image classification winner
+- intro: ILSVRC 2017 image classification winner. Momenta & University of Oxford
 - arxiv: [https://arxiv.org/abs/1709.01507](https://arxiv.org/abs/1709.01507)
-- github: [https://github.com/hujie-frank/SENet](https://github.com/hujie-frank/SENet)
-- github: [https://github.com//bruinxiong/SENet.mxnet](https://github.com//bruinxiong/SENet.mxnet)
+- github(official, Caffe): [https://github.com/hujie-frank/SENet](https://github.com/hujie-frank/SENet)
+- github: [https://github.com/bruinxiong/SENet.mxnet](https://github.com/bruinxiong/SENet.mxnet)
 
 ## ImageNet Projects
 
@@ -938,6 +940,25 @@ not just the convolutions)
 
 [https://arxiv.org/abs/1801.00553](https://arxiv.org/abs/1801.00553)
 
+**Spatially transformed adversarial examples**
+
+[https://arxiv.org/abs/1801.02612](https://arxiv.org/abs/1801.02612)
+
+**Generating adversarial examples with adversarial networks**
+
+- intro: University of Michigan & UC Berkeley & MIT CSAIL
+- arxiv: [https://arxiv.org/abs/1801.02610](https://arxiv.org/abs/1801.02610)
+
+**Adversarial Spheres**
+
+- intro: Google Brain
+- arxiv: [https://arxiv.org/abs/1801.02774](https://arxiv.org/abs/1801.02774)
+
+**LaVAN: Localized and Visible Adversarial Noise**
+
+- intro: Bar-Ilan University & DeepMind
+- arxiv: [https://arxiv.org/abs/1801.02608](https://arxiv.org/abs/1801.02608)
+
 # Deep Learning Networks
 
 **PCANet: A Simple Deep Learning Baseline for Image Classification?**
@@ -1413,6 +1434,10 @@ with fast exact probabilistic inference over many layers."
 - intro: NIPS 2017 Symposium on Interpretable Machine Learning
 - arxiv: [https://arxiv.org/abs/1711.02329](https://arxiv.org/abs/1711.02329)
 
+**Interpreting Deep Neural Networks**
+
+- blog: [http://www.shallowmind.co/jekyll/pixyll/2017/12/30/tree-regularization/](http://www.shallowmind.co/jekyll/pixyll/2017/12/30/tree-regularization/)
+
 ## Convolutions / Filters
 
 **Warped Convolutions: Efficient Invariance to Spatial Transformations**
@@ -1432,6 +1457,11 @@ with fast exact probabilistic inference over many layers."
 **clcNet: Improving the Efficiency of Convolutional Neural Network using Channel Local Convolutions**
 
 [https://arxiv.org/abs/1712.06145](https://arxiv.org/abs/1712.06145)
+
+**Non-Parametric Transformation Networks**
+
+- intro: CMU
+- arxiv: [https://arxiv.org/abs/1801.04520](https://arxiv.org/abs/1801.04520)
 
 ## Highway Networks
 
@@ -1681,6 +1711,16 @@ with fast exact probabilistic inference over many layers."
 - youtube: [https://www.youtube.com/watch?v=JrO5fSskISY](https://www.youtube.com/watch?v=JrO5fSskISY)
 - mirror: [https://www.bilibili.com/video/av16428277/](https://www.bilibili.com/video/av16428277/)
 - slides: [http://www.shakirm.com/slides/DeepGenModelsTutorial.pdf](http://www.shakirm.com/slides/DeepGenModelsTutorial.pdf)
+
+**A Note on the Inception Score**
+
+- intro: Stanford University
+- arxiv: [https://arxiv.org/abs/1801.01973](https://arxiv.org/abs/1801.01973)
+
+**Gradient Layer: Enhancing the Convergence of Adversarial Training for Generative Models**
+
+- intro: AISTATS 2018. The University of Tokyo
+- arxiv: [https://arxiv.org/abs/1801.02227](https://arxiv.org/abs/1801.02227)
 
 # Deep Learning and Robots
 
@@ -2278,6 +2318,17 @@ with fast exact probabilistic inference over many layers."
 
 [https://openreview.net/forum?id=ry_WPG-A-&noteId=ry_WPG-A](https://openreview.net/forum?id=ry_WPG-A-&noteId=ry_WPG-A)
 
+**The Unreasonable Effectiveness of Deep Features as a Perceptual Metric**
+
+- project page: [https://richzhang.github.io/PerceptualSimilarity/](https://richzhang.github.io/PerceptualSimilarity/)
+- arxiv: [https://arxiv.org/abs/1801.03924](https://arxiv.org/abs/1801.03924)
+- github: [https://github.com//richzhang/PerceptualSimilarity](https://github.com//richzhang/PerceptualSimilarity)
+
+**Less is More: Culling the Training Set to Improve Robustness of Deep Neural Networks**
+
+- intro: University of California, Davis
+- arxiv: [https://arxiv.org/abs/1801.02850](https://arxiv.org/abs/1801.02850)
+
 ## Tutorials and Surveys
 
 **On the Origin of Deep Learning**
@@ -2393,6 +2444,14 @@ with fast exact probabilistic inference over many layers."
 **The Enhanced Hybrid MobileNet**
 
 [https://arxiv.org/abs/1712.04698](https://arxiv.org/abs/1712.04698)
+
+## MobileNetV2
+
+**Inverted Residuals and Linear Bottlenecks: Mobile Networks forClassification, Detection and Segmentation**
+
+- intro: Google
+- keywords: MobileNetV2, SSDLite, DeepLabv3
+- arxiv: [https://arxiv.org/abs/1801.04381](https://arxiv.org/abs/1801.04381)
 
 ## STDP
 
@@ -2634,6 +2693,14 @@ with fast exact probabilistic inference over many layers."
 joint classification, detection and semantic segmentation via a unified architecture, less than 100 ms to perform all tasks
 - arxiv: [https://arxiv.org/abs/1612.07695](https://arxiv.org/abs/1612.07695)
 - github: [https://github.com/MarvinTeichmann/MultiNet](https://github.com/MarvinTeichmann/MultiNet)
+
+### Deep Learning for Data Structures
+
+**The Case for Learned Index Structures**
+
+- intro: MIT & Google
+- keywords: B-Tree-Index, Hash-Index, BitMap-Index
+- arxiv: [https://arxiv.org/abs/1712.01208](https://arxiv.org/abs/1712.01208)
 
 # Projects
 

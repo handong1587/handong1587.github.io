@@ -110,7 +110,7 @@ date: 2015-10-09
 **CS 20SI: Tensorflow for Deep Learning Research**
 
 - homepage: [http://web.stanford.edu/class/cs20si/](http://web.stanford.edu/class/cs20si/)
-- github: [https://github.com/chiphuyen/tf-stanford-tutorials](https://github.com/chiphuyen/tf-stanford-tutorials)
+- github: [https://github.com/chiphuyen/stanford-tensorflow-tutorials](https://github.com/chiphuyen/stanford-tensorflow-tutorials)
 
 **Deep Learning with TensorFlow**
 

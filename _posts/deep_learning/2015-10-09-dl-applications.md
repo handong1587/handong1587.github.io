@@ -455,6 +455,11 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 - arxiv: [https://arxiv.org/abs/1708.01101](https://arxiv.org/abs/1708.01101)
 - github: [https://github.com/bearpaw/PyraNet](https://github.com/bearpaw/PyraNet)
 
+**Crossing Nets: Combining GANs and VAEs with a Shared Latent Space for Hand Pose Estimation**
+
+- intro: CVPR 2017
+- arxiv: [https://arxiv.org/abs/1702.03431](https://arxiv.org/abs/1702.03431)
+
 **Multi-Context Attention for Human Pose Estimation**
 
 - intro: CVPR 2017
@@ -1229,6 +1234,10 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 - intro: GCPR 2017
 - arxiv: [https://arxiv.org/abs/1707.00471](https://arxiv.org/abs/1707.00471)
 
+**Frame-Recurrent Video Super-Resolution**
+
+[https://arxiv.org/abs/1801.04590](https://arxiv.org/abs/1801.04590)
+
 # Image Denoising
 
 **Beyond a Gaussian Denoiser: Residual Learning of Deep CNN for Image Denoising**
@@ -1347,6 +1356,10 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 
 [https://arxiv.org/abs/1711.06787](https://arxiv.org/abs/1711.06787)
 
+**CANDY: Conditional Adversarial Networks based Fully End-to-End System for Single Image Haze Removal**
+
+[https://arxiv.org/abs/1801.02892](https://arxiv.org/abs/1801.02892)
+
 # Image Rain Removal / De-raining
 
 **Clearing the Skies: A deep network architecture for single-image rain removal**
@@ -1439,6 +1452,11 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 
 [https://arxiv.org/abs/1711.09515](https://arxiv.org/abs/1711.09515)
 
+**Reblur2Deblur: Deblurring Videos via Self-Supervised Learning**
+
+- arxiv: [https://arxiv.org/abs/1801.05117](https://arxiv.org/abs/1801.05117)
+- supplementary: [https://drive.google.com/file/d/17Itta-z89lpWUdvUjpafKzJRSLoxHF5c/view](https://drive.google.com/file/d/17Itta-z89lpWUdvUjpafKzJRSLoxHF5c/view)
+
 # Image Compression
 
 **An image compression and encryption scheme based on deep learning**
@@ -1494,6 +1512,10 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 - keywords: GAN
 - project page: [http://www.wave.one/icml2017](http://www.wave.one/icml2017)
 - arxiv: [https://arxiv.org/abs/1705.05823](https://arxiv.org/abs/1705.05823)
+
+**Efficient Trimmed Convolutional Arithmetic Encoding for Lossless Image Compression**
+
+[https://arxiv.org/abs/1801.04662](https://arxiv.org/abs/1801.04662)
 
 # Image Quality Assessment
 
@@ -1595,6 +1617,10 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 - arxiv: [https://arxiv.org/abs/1709.07492](https://arxiv.org/abs/1709.07492)
 - video: [https://www.youtube.com/watch?v=vNIIT_M7x7Y](https://www.youtube.com/watch?v=vNIIT_M7x7Y)
 - github: [https://github.com/fangchangma/sparse-to-dense](https://github.com/fangchangma/sparse-to-dense)
+
+**Size-to-depth: A New Perspective for Single Image Depth Estimation**
+
+[https://arxiv.org/abs/1801.04461](https://arxiv.org/abs/1801.04461)
 
 # Texture Synthesis
 
@@ -2137,39 +2163,6 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 **First International Workshop on Deep Learning and Music**
 
 [https://arxiv.org/html/1706.08675](https://arxiv.org/html/1706.08675)
-
-# Deep Learning on Games
-
-**TorchCraft: a Library for Machine Learning Research on Real-Time Strategy Games**
-
-- intro: Connecting Torch to StarCraft
-- arxiv: [https://arxiv.org/abs/1611.00625](https://arxiv.org/abs/1611.00625)
-- github: [https://github.com/TorchCraft/TorchCraft](https://github.com/TorchCraft/TorchCraft)
-
-**BlizzCon 2016 DeepMind and StarCraft II Deep Learning Panel Transcript**
-
-- part 1: [http://starcraft.blizzplanet.com/blog/comments/blizzcon-2016-deepmind-and-starcraft-ii-deep-learning-panel-transcript](http://starcraft.blizzplanet.com/blog/comments/blizzcon-2016-deepmind-and-starcraft-ii-deep-learning-panel-transcript)
-- part 2: [http://starcraft.blizzplanet.com/blog/comments/blizzcon-2016-deepmind-and-starcraft-ii-deep-learning-panel-transcript/2](http://starcraft.blizzplanet.com/blog/comments/blizzcon-2016-deepmind-and-starcraft-ii-deep-learning-panel-transcript/2)
-
-**DeepStack: Expert-Level Artificial Intelligence in No-Limit Poker**
-
-- arxiv: [https://arxiv.org/abs/1701.01724](https://arxiv.org/abs/1701.01724)
-- github: [https://github.com/lifrordi/DeepStack-Leduc](https://github.com/lifrordi/DeepStack-Leduc)
-
-**Gym StarCraft: StarCraft environment for OpenAI Gym, based on Facebook's TorchCraft**
-
-- intro: Gym StarCraft is an environment bundle for OpenAI Gym. 
-It is based on Facebook's TorchCraft, which is a bridge between Torch and StarCraft for AI research.
-- github: [https://github.com/deepcraft/gym-starcraft](https://github.com/deepcraft/gym-starcraft)
-
-**Multiagent Bidirectionally-Coordinated Nets for Learning to Play StarCraft Combat Games**
-
-[https://arxiv.org/abs/1703.10069](https://arxiv.org/abs/1703.10069)
-
-**Learning Macromanagement in StarCraft from Replays using Deep Learning**
-
-- intro: CIG 2017. IT University of Copenhagen
-- arxiv: [https://arxiv.org/abs/1707.03743](https://arxiv.org/abs/1707.03743)
 
 # Deep Learning in Medicine and Biology
 

@@ -23,6 +23,10 @@ date: 2015-10-01
 
 - homepage: [https://www.edx.org/course/artificial-intelligence-ai-columbiax-csmm-101x](https://www.edx.org/course/artificial-intelligence-ai-columbiax-csmm-101x)
 
+**MIT 6.S099: Artificial General Intelligence**
+
+[https://agi.mit.edu/](https://agi.mit.edu/)
+
 # Books
 
 **Notes on Artificial Intelligence (open source notebook)**

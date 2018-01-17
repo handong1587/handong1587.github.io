@@ -447,6 +447,12 @@ at INT8 deep learning operations than other FPGA DSP architectures"
 
 [https://arxiv.org/abs/1711.06528](https://arxiv.org/abs/1711.06528)
 
+**Reducing Deep Network Complexity with Fourier Transform Methods**
+
+- intro: Harvard University
+- arxiv: [https://arxiv.org/abs/1801.01451](https://arxiv.org/abs/1801.01451)
+- github: [https://github.com/andrew-jeremy/Reducing-Deep-Network-Complexity-with-Fourier-Transform-Methods](https://github.com/andrew-jeremy/Reducing-Deep-Network-Complexity-with-Fourier-Transform-Methods)
+
 # Pruning
 
 **ThiNet: A Filter Level Pruning Method for Deep Neural Network Compression**
@@ -602,6 +608,11 @@ at INT8 deep learning operations than other FPGA DSP architectures"
 
 - intro: AAAI 2018
 - arxiv: [https://arxiv.org/abs/1712.07493](https://arxiv.org/abs/1712.07493)
+
+**SBNet: Sparse Blocks Network for Fast Inference**
+
+- intro: Uber
+- arxiv: [https://arxiv.org/abs/1801.02108](https://arxiv.org/abs/1801.02108)
 
 # Knowledge Distilling / Knowledge Transfer
 

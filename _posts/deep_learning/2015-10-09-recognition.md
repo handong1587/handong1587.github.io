@@ -84,6 +84,12 @@ date: 2015-10-09
 
 [https://arxiv.org/abs/1703.05393](https://arxiv.org/abs/1703.05393)
 
+**Multi-Scale Dense Networks for Resource Efficient Image Classification**
+
+- intro: Cornell University & Fudan University & Tsinghua University & Facebook AI Research
+- arxiv: [https://arxiv.org/abs/1703.09844](https://arxiv.org/abs/1703.09844)
+- github: [https://github.com//gaohuang/MSDNet](https://github.com//gaohuang/MSDNet)
+
 **Deep Mixture of Diverse Experts for Large-Scale Visual Recognition**
 
 [https://arxiv.org/abs/1706.07901](https://arxiv.org/abs/1706.07901)

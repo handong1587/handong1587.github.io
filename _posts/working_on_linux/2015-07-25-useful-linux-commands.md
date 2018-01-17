@@ -475,6 +475,12 @@ nohup xxx.sh 1 > log.txt 2>&1 &
 **nohup - get the process ID to kill a nohup process**
 
 ```
+ps -ef | grep "command name"
+```
+
+or:
+
+```
 nohup command-with-options & 
 echo $! > save_pid.txt
 kill -9 `cat save_pid.txt`

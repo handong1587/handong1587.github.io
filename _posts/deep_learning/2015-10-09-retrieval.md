@@ -286,6 +286,14 @@ date: 2015-10-09
 - arxiv: [https://arxiv.org/abs/1711.10795](https://arxiv.org/abs/1711.10795)
 - github: [https://arxiv.org/abs/1711.10795](https://arxiv.org/abs/1711.10795)
 
+**DeepStyle: Multimodal Search Engine for Fashion and Interior Design**
+
+[https://arxiv.org/abs/1801.03002](https://arxiv.org/abs/1801.03002)
+
+**Focus: Querying Large Video Datasets with Low Latency and Low Cost**
+
+[https://arxiv.org/abs/1801.03493](https://arxiv.org/abs/1801.03493)
+
 # Hashing
 
 **Supervised Hashing for Image Retrieval via Image Representation Learning**
@@ -492,6 +500,11 @@ date: 2015-10-09
 - intro: DeepMind, VGG
 - arxiv: [https://arxiv.org/abs/1712.06651](https://arxiv.org/abs/1712.06651)
 
+**Cross-modal Embeddings for Video and Audio Retrieval**
+
+- arxiv: [https://arxiv.org/abs/1801.02200](https://arxiv.org/abs/1801.02200)
+- github: [https://github.com/surisdi/youtube-8m](https://github.com/surisdi/youtube-8m)
+
 ## Projects
 
 **HABIR哈希图像检索工具箱**
@@ -606,6 +619,10 @@ date: 2015-10-09
 
 - intro: ICCV 2017
 - arxiv: [https://arxiv.org/abs/1708.01682](https://arxiv.org/abs/1708.01682)
+
+**Deep Metric Learning with BIER: Boosting Independent Embeddings Robustly**
+
+[https://arxiv.org/abs/1801.04815](https://arxiv.org/abs/1801.04815)
 
 # Talks / Slides
 

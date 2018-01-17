@@ -296,6 +296,11 @@ Contains all the popular DL frameworks (TensorFlow, Theano, Torch, Caffe, etc.)
 - intro: University of Birmingham
 - arxiv: [https://arxiv.org/abs/1711.05860](https://arxiv.org/abs/1711.05860)
 
+**Approximate FPGA-based LSTMs under Computation Time Constraints**
+
+- intro: ARC 2018
+- arxiv: [https://arxiv.org/abs/1801.02190](https://arxiv.org/abs/1801.02190)
+
 # ARM / Processor
 
 **'Neural network' spotted deep inside Samsung's Galaxy S7 silicon brain: Secrets of Exynos M1 cores spilled**

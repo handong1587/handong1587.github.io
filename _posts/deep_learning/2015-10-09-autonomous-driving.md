@@ -211,6 +211,11 @@ without running into obstacles using a type of reinforcement learning called Q-L
 - arxiv: [https://arxiv.org/abs/1712.08644](https://arxiv.org/abs/1712.08644)
 - github: [https://github.com//heechul/picar](https://github.com//heechul/picar)
 
+**Autonomous Driving in Reality with Reinforcement Learning and Image Translation**
+
+- intro: Shanghai Jiao Tong University
+- arxiv: [https://arxiv.org/abs/1801.05299](https://arxiv.org/abs/1801.05299)
+
 # Blogs
 
 **Self-driving cars: How far away are we REALLY from autonomous cars?(7 Aug 2015)**
