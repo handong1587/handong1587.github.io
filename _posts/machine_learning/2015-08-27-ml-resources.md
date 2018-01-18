@@ -713,6 +713,11 @@ Classic strategies:
 - intro: CVPR 2012. KISSME
 - paper: [http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.384.2335&rep=rep1&type=pdf](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.384.2335&rep=rep1&type=pdf)
 
+**Large Scale Strongly Supervised Ensemble Metric Learning, with Applications to Face Verification and Retrieval**
+
+- intro: NEC Laboratories America
+- arxiv: [https://arxiv.org/abs/1212.6094](https://arxiv.org/abs/1212.6094)
+
 # Finance and Trading
 
 **Efficient Portfolio optimisation by Hybridised Machine Learning**

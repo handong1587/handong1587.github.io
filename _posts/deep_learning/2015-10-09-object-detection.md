@@ -288,6 +288,11 @@ date: 2015-10-09
 - github: [https://github.com/choasUp/caffe-yolo9000](https://github.com/choasUp/caffe-yolo9000)
 - github: [https://github.com/philipperemy/yolo-9000](https://github.com/philipperemy/yolo-9000)
 
+**darknet_scripts**
+
+- intro: Auxilary scripts to work with (YOLO) darknet deep learning famework. AKA -> How to generate YOLO anchors?
+- github: [https://github.com/Jumabek/darknet_scripts](https://github.com/Jumabek/darknet_scripts)
+
 **Yolo_mark: GUI for marking bounded boxes of objects in images for training Yolo v2**
 
 - github: [https://github.com/AlexeyAB/Yolo_mark](https://github.com/AlexeyAB/Yolo_mark)
@@ -1120,6 +1125,11 @@ This task involves predicting the salient regions of an image given by human eye
 
 [https://arxiv.org/abs/1709.02495](https://arxiv.org/abs/1709.02495)
 
+**Deep saliency: What is learnt by a deep network about saliency?**
+
+- intro: 2nd Workshop on Visualisation for Deep Learning in the 34th International Conference On Machine Learning
+- arxiv: [https://arxiv.org/abs/1801.04261](https://arxiv.org/abs/1801.04261)
+
 ## Video Saliency Detection
 
 **Deep Learning For Video Saliency Detection**
@@ -1267,7 +1277,7 @@ This task involves predicting the salient regions of an image given by human eye
 - github: [https://github.com/Pi-DeepLearning/RaspberryPi-FaceDetection-MTCNN-Caffe-With-Motion](https://github.com/Pi-DeepLearning/RaspberryPi-FaceDetection-MTCNN-Caffe-With-Motion)
 - github(Caffe): [https://github.com/foreverYoungGitHub/MTCNN](https://github.com/foreverYoungGitHub/MTCNN)
 - github: [https://github.com/CongWeilin/mtcnn-caffe](https://github.com/CongWeilin/mtcnn-caffe)
-- github: [https://github.com/AlphaQi/MTCNN-light](https://github.com/AlphaQi/MTCNN-light)
+- github(OpenCV+OpenBlas): [https://github.com/AlphaQi/MTCNN-light](https://github.com/AlphaQi/MTCNN-light)
 
 **Face Detection using Deep Learning: An Improved Faster RCNN Approach**
 

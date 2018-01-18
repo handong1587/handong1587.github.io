@@ -21,22 +21,6 @@ date: 2015-10-09
 - code(Caffe): [https://dl.dropboxusercontent.com/u/6448899/caffe.zip](https://dl.dropboxusercontent.com/u/6448899/caffe.zip)
 - author page: [http://www.ee.cuhk.edu.hk/~hsli/](http://www.ee.cuhk.edu.hk/~hsli/)
 
-## U-Net
-
-**U-Net: Convolutional Networks for Biomedical Image Segmentation**
-
-- intro: conditionally accepted at MICCAI 2015
-- project page: [http://lmb.informatik.uni-freiburg.de/people/ronneber/u-net/](http://lmb.informatik.uni-freiburg.de/people/ronneber/u-net/)
-- arxiv: [http://arxiv.org/abs/1505.04597](http://arxiv.org/abs/1505.04597)
-- code+data: [http://lmb.informatik.uni-freiburg.de/people/ronneber/u-net/u-net-release-2015-10-02.tar.gz](http://lmb.informatik.uni-freiburg.de/people/ronneber/u-net/u-net-release-2015-10-02.tar.gz)
-- github: [https://github.com/orobix/retina-unet](https://github.com/orobix/retina-unet)
-- github: [https://github.com/jakeret/tf_unet](https://github.com/jakeret/tf_unet)
-- notes: [http://zongwei.leanote.com/post/Pa](http://zongwei.leanote.com/post/Pa)
-
-**DeepUNet: A Deep Fully Convolutional Network for Pixel-level Sea-Land Segmentation**
-
-[https://arxiv.org/abs/1709.00201](https://arxiv.org/abs/1709.00201)
-
 **Segmentation from Natural Language Expressions**
 
 ![](http://ronghanghu.com/wp-content/uploads/text_objseg_method-768x331.jpg)
@@ -122,6 +106,29 @@ date: 2015-10-09
 
 - intro: ISBI 2018
 - arxiv: [https://arxiv.org/abs/1801.02722](https://arxiv.org/abs/1801.02722)
+
+## U-Net
+
+**U-Net: Convolutional Networks for Biomedical Image Segmentation**
+
+- intro: conditionally accepted at MICCAI 2015
+- project page: [http://lmb.informatik.uni-freiburg.de/people/ronneber/u-net/](http://lmb.informatik.uni-freiburg.de/people/ronneber/u-net/)
+- arxiv: [http://arxiv.org/abs/1505.04597](http://arxiv.org/abs/1505.04597)
+- code+data: [http://lmb.informatik.uni-freiburg.de/people/ronneber/u-net/u-net-release-2015-10-02.tar.gz](http://lmb.informatik.uni-freiburg.de/people/ronneber/u-net/u-net-release-2015-10-02.tar.gz)
+- github: [https://github.com/orobix/retina-unet](https://github.com/orobix/retina-unet)
+- github: [https://github.com/jakeret/tf_unet](https://github.com/jakeret/tf_unet)
+- notes: [http://zongwei.leanote.com/post/Pa](http://zongwei.leanote.com/post/Pa)
+
+**DeepUNet: A Deep Fully Convolutional Network for Pixel-level Sea-Land Segmentation**
+
+[https://arxiv.org/abs/1709.00201](https://arxiv.org/abs/1709.00201)
+
+**TernausNet: U-Net with VGG11 Encoder Pre-Trained on ImageNet for Image Segmentation**
+
+- intro: Lyft Inc. & MIT
+- intro: part of the winning solution (1st out of 735) in the Kaggle: Carvana Image Masking Challenge
+- arxiv: [https://arxiv.org/abs/1801.05746](https://arxiv.org/abs/1801.05746)
+- github: [https://github.com/ternaus/TernausNet](https://github.com/ternaus/TernausNet)
 
 # Foreground Object Segmentation
 

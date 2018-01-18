@@ -199,6 +199,10 @@ date: 2015-10-09
 - project page: [http://bvision11.cs.unc.edu/bigpen/yipin/visual2sound_webpage/visual2sound.html](http://bvision11.cs.unc.edu/bigpen/yipin/visual2sound_webpage/visual2sound.html)
 - arxiv: [https://arxiv.org/abs/1712.01393](https://arxiv.org/abs/1712.01393)
 
+**Semi-supervised FusedGAN for Conditional Image Generation**
+
+[https://arxiv.org/abs/1801.05551](https://arxiv.org/abs/1801.05551)
+
 # Face Image Generation
 
 **Fader Networks: Manipulating Images by Sliding Attributes**

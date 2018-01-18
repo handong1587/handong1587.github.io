@@ -34,6 +34,16 @@ date: 2015-10-09
 - arxiv: [http://arxiv.org/abs/1502.01852](http://arxiv.org/abs/1502.01852)
 - notes: [http://blog.csdn.net/happynear/article/details/45440811](http://blog.csdn.net/happynear/article/details/45440811)
 
+**Automatic Instrument Recognition in Polyphonic Music Using Convolutional Neural Networks**
+
+- arxiv: [http://arxiv.org/abs/1511.05520](http://arxiv.org/abs/1511.05520)
+- github: [https://github.com/glennq/instrument-recognition](https://github.com/glennq/instrument-recognition)
+
+**Deep Convolutional Networks on the Pitch Spiral for Musical Instrument Recognition**
+
+- paper: [https://github.com/lostanlen/ismir2016/blob/master/paper/lostanlen_ismir2016.pdf](https://github.com/lostanlen/ismir2016/blob/master/paper/lostanlen_ismir2016.pdf)
+- github: [https://github.com/lostanlen/ismir2016](https://github.com/lostanlen/ismir2016)
+
 **Humans and deep networks largely agree on which kinds of variation make object recognition harder**
 
 - arxiv: [http://arxiv.org/abs/1604.06486](http://arxiv.org/abs/1604.06486)
@@ -280,10 +290,9 @@ date: 2015-10-09
 
 - arxiv: [http://arxiv.org/abs/1608.05246](http://arxiv.org/abs/1608.05246)
 
-## VIPLFaceNet / SeetaFace Engine
-
 **VIPLFaceNet: An Open Source Deep Face Recognition SDK**
 
+- keywords: VIPLFaceNet / SeetaFace Engine
 - arxiv: [http://arxiv.org/abs/1609.03892](http://arxiv.org/abs/1609.03892)
 
 **SeetaFace Engine**
@@ -356,6 +365,16 @@ date: 2015-10-09
 - intro: ICCV 2017
 - arxiv: [https://arxiv.org/abs/1710.02914](https://arxiv.org/abs/1710.02914)
 
+**Additive Margin Softmax for Face Verification**
+
+- keywords: additive margin Softmax (AM-Softmax),
+- arxiv: [https://arxiv.org/abs/1801.05599](https://arxiv.org/abs/1801.05599)
+- github: [https://github.com/happynear/AMSoftmax](https://github.com/happynear/AMSoftmax)
+
+**Face Recognition via Centralized Coordinate Learning**
+
+[https://arxiv.org/abs/1801.05678](https://arxiv.org/abs/1801.05678)
+
 ## Video Face Recognition
 
 **Attention-Set based Metric Learning for Video Face Recognition**
@@ -387,6 +406,15 @@ date: 2015-10-09
 - intro: LeafSnap replicated using deep neural networks to test accuracy compared to traditional computer vision methods.
 - github: [https://github.com/sujithv28/Deep-Leafsnap](https://github.com/sujithv28/Deep-Leafsnap)
 
+**FaceVerification: An Experimental Implementation of Face Verification, 96.8% on LFW**
+
+- github: [https://github.com/happynear/FaceVerification](https://github.com/happynear/FaceVerification)
+
+**InsightFace**
+
+- intro: Face Recognition Project on MXnet
+- arxiv: [https://github.com//deepinsight/insightface](https://github.com//deepinsight/insightface)
+
 ### OpenFace
 
 **OpenFace: Face Recognition with Deep Neural Networks**
@@ -403,10 +431,6 @@ date: 2015-10-09
 
 - paper: [http://reports-archive.adm.cs.cmu.edu/anon/anon/usr0/ftp/2016/CMU-CS-16-118.pdf](http://reports-archive.adm.cs.cmu.edu/anon/anon/usr0/ftp/2016/CMU-CS-16-118.pdf)
 
-**FaceVerification: An Experimental Implementation of Face Verification, 96.8% on LFW**
-
-- github: [https://github.com/happynear/FaceVerification](https://github.com/happynear/FaceVerification)
-
 **OpenFace: an open source facial behavior analysis toolkit**
 
 ![](https://raw.githubusercontent.com/TadasBaltrusaitis/OpenFace/master/imgs/multi_face_img.png)
@@ -414,11 +438,6 @@ date: 2015-10-09
 - intro: a state-of-the art open source tool intended for facial landmark detection, head pose estimation, 
 facial action unit recognition, and eye-gaze estimation.
 - github: [https://github.com/TadasBaltrusaitis/OpenFace](https://github.com/TadasBaltrusaitis/OpenFace)
-
-**InsightFace**
-
-- intro: Face Recognition Project on MXnet
-- arxiv: [https://github.com//deepinsight/insightface](https://github.com//deepinsight/insightface)
 
 ## Resources
 
@@ -632,20 +651,6 @@ facial action unit recognition, and eye-gaze estimation.
 
 - intro: AAAI 2018
 - arix:v[https://arxiv.org/abs/1712.01907](https://arxiv.org/abs/1712.01907)
-
-# Instrument Recognition
-
-**Automatic Instrument Recognition in Polyphonic Music Using Convolutional Neural Networks**
-
-- arxiv: [http://arxiv.org/abs/1511.05520](http://arxiv.org/abs/1511.05520)
-- github: [https://github.com/glennq/instrument-recognition](https://github.com/glennq/instrument-recognition)
-
-## Musical Instrument Recognition
-
-**Deep Convolutional Networks on the Pitch Spiral for Musical Instrument Recognition**
-
-- paper: [https://github.com/lostanlen/ismir2016/blob/master/paper/lostanlen_ismir2016.pdf](https://github.com/lostanlen/ismir2016/blob/master/paper/lostanlen_ismir2016.pdf)
-- github: [https://github.com/lostanlen/ismir2016](https://github.com/lostanlen/ismir2016)
 
 # Clothes Recognition
 

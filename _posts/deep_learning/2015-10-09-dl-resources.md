@@ -537,6 +537,11 @@ not just the convolutions)
 - intro: Beihang University & Johns Hopkins University
 - arxiv: [https://arxiv.org/abs/1711.08277](https://arxiv.org/abs/1711.08277)
 
+**Low-Shot Learning from Imaginary Data**
+
+- intro: Facebook AI Research (FAIR) & CMU & Cornell University
+- arxiv: [https://arxiv.org/abs/1801.05401](https://arxiv.org/abs/1801.05401)
+
 # Multi-label Learning
 
 **CNN: Single-label to Multi-label**

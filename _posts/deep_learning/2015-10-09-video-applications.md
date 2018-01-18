@@ -480,6 +480,11 @@ extract saptio-temporal features to represent the video using the CNNs."
 - keywords: Deep networks with Temporal Pyramid Pooling (DTPP)
 - arxiv: [https://arxiv.org/abs/1711.04161](https://arxiv.org/abs/1711.04161)
 
+**Fully-Coupled Two-Stream Spatiotemporal Networks for Extremely Low Resolution Action Recognition**
+
+- intro: WACV 2018
+- arxiv: [https://arxiv.org/abs/1801.03983](https://arxiv.org/abs/1801.03983)
+
 ### Projects
 
 **A Torch Library for Action Recognition and Detection Using CNNs and LSTMs**
