@@ -923,6 +923,10 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 
 [https://arxiv.org/abs/1801.00289](https://arxiv.org/abs/1801.00289)
 
+**Light-weight pixel context encoders for image inpainting**
+
+[https://arxiv.org/abs/1801.05585](https://arxiv.org/abs/1801.05585)
+
 # Image Restoration
 
 **Image Restoration Using Very Deep Convolutional Encoder-Decoder Networks with Symmetric Skip Connections**
@@ -965,7 +969,8 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 
 **xUnit: Learning a Spatial Activation Function for Efficient Image Restoration**
 
-[https://arxiv.org/abs/1711.06445](https://arxiv.org/abs/1711.06445)
+- arxiv: [https://arxiv.org/abs/1711.06445](https://arxiv.org/abs/1711.06445)
+- github: [https://github.com/kligvasser/xUnit](https://github.com/kligvasser/xUnit)
 
 **Deep Image Prior**
 
@@ -1516,6 +1521,10 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 **Efficient Trimmed Convolutional Arithmetic Encoding for Lossless Image Compression**
 
 [https://arxiv.org/abs/1801.04662](https://arxiv.org/abs/1801.04662)
+
+**Conditional Probability Models for Deep Image Compression**
+
+[https://arxiv.org/abs/1801.04260](https://arxiv.org/abs/1801.04260)
 
 # Image Quality Assessment
 
