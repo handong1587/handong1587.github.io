@@ -109,6 +109,7 @@ date: 2015-10-09
 
 **R-CNN minus R**
 
+- intro: BMVC 2015
 - arxiv: [http://arxiv.org/abs/1506.06981](http://arxiv.org/abs/1506.06981)
 
 **Faster R-CNN in MXNet with distributed implementation and data parallelization**
@@ -145,10 +146,8 @@ date: 2015-10-09
 
 **Cascade R-CNN: Delving into High Quality Object Detection**
 
-[https://arxiv.org/abs/1712.00726](https://arxiv.org/abs/1712.00726)
-[https://github.com/zhaoweicai/cascade-rcnn](https://github.com/zhaoweicai/cascade-rcnn)
-
-- - -
+- arxiv: [https://arxiv.org/abs/1712.00726](https://arxiv.org/abs/1712.00726)
+- github: [https://github.com/zhaoweicai/cascade-rcnn](https://github.com/zhaoweicai/cascade-rcnn)
 
 ## MultiBox
 
@@ -376,6 +375,12 @@ date: 2015-10-09
 - intro: WeaveNet
 - keywords: fuse multi-scale information
 - arxiv: [https://arxiv.org/abs/1712.03149](https://arxiv.org/abs/1712.03149)
+
+## ESSD
+
+**Extend the shallow part of Single Shot MultiBox Detector via Convolutional Neural Network**
+
+[https://arxiv.org/abs/1801.05918](https://arxiv.org/abs/1801.05918)
 
 ## Inside-Outside Net (ION)
 
@@ -785,7 +790,7 @@ Continuation of [arXiv:1608.08021](https://arxiv.org/abs/1608.08021)
 
 - arxiv: [https://arxiv.org/abs/1801.05124](https://arxiv.org/abs/1801.05124)
 
-## NMS
+# Non-Maximum Suppression (NMS)
 
 **End-to-End Integration of a Convolutional Network, Deformable Parts Model and Non-Maximum Suppression**
 
@@ -810,7 +815,7 @@ Continuation of [arXiv:1608.08021](https://arxiv.org/abs/1608.08021)
 
 [https://arxiv.org/abs/1705.02950](https://arxiv.org/abs/1705.02950)
 
-## Adversarial Examples
+# Adversarial Examples
 
 **Adversarial Examples that Fool Detectors**
 
@@ -1130,7 +1135,7 @@ This task involves predicting the salient regions of an image given by human eye
 - intro: 2nd Workshop on Visualisation for Deep Learning in the 34th International Conference On Machine Learning
 - arxiv: [https://arxiv.org/abs/1801.04261](https://arxiv.org/abs/1801.04261)
 
-## Video Saliency Detection
+# Video Saliency Detection
 
 **Deep Learning For Video Saliency Detection**
 
@@ -1240,6 +1245,7 @@ This task involves predicting the salient regions of an image given by human eye
 **UnitBox: An Advanced Object Detection Network**
 
 - intro: ACM MM 2016
+- keywords: IOULoss
 - arxiv: [http://arxiv.org/abs/1608.01471](http://arxiv.org/abs/1608.01471)
 
 **Bootstrapping Face Detection with Hard Negative Examples**
@@ -1270,7 +1276,7 @@ This task involves predicting the salient regions of an image given by human eye
 
 - project page: [https://kpzhang93.github.io/MTCNN_face_detection_alignment/index.html](https://kpzhang93.github.io/MTCNN_face_detection_alignment/index.html)
 - arxiv: [https://arxiv.org/abs/1604.02878](https://arxiv.org/abs/1604.02878)
-- github(Matlab): [https://github.com/kpzhang93/MTCNN_face_detection_alignment](https://github.com/kpzhang93/MTCNN_face_detection_alignment)
+- github(official, Matlab): [https://github.com/kpzhang93/MTCNN_face_detection_alignment](https://github.com/kpzhang93/MTCNN_face_detection_alignment)
 - github: [https://github.com/pangyupo/mxnet_mtcnn_face_detection](https://github.com/pangyupo/mxnet_mtcnn_face_detection)
 - github: [https://github.com/DaFuCoding/MTCNN_Caffe](https://github.com/DaFuCoding/MTCNN_Caffe)
 - github(MXNet): [https://github.com/Seanlinx/mtcnn](https://github.com/Seanlinx/mtcnn)
@@ -1354,62 +1360,6 @@ This task involves predicting the salient regions of an image given by human eye
 **Feature Agglomeration Networks for Single Stage Face Detection**
 
 [https://arxiv.org/abs/1712.00721](https://arxiv.org/abs/1712.00721)
-
-# Facial Point / Landmark Detection
-
-**Deep Convolutional Network Cascade for Facial Point Detection**
-
-![](http://mmlab.ie.cuhk.edu.hk/archive/CNN/data/Picture1.png)
-
-- homepage: [http://mmlab.ie.cuhk.edu.hk/archive/CNN_FacePoint.htm](http://mmlab.ie.cuhk.edu.hk/archive/CNN_FacePoint.htm)
-- paper: [http://www.ee.cuhk.edu.hk/~xgwang/papers/sunWTcvpr13.pdf](http://www.ee.cuhk.edu.hk/~xgwang/papers/sunWTcvpr13.pdf)
-- github: [https://github.com/luoyetx/deep-landmark](https://github.com/luoyetx/deep-landmark)
-
-**Facial Landmark Detection by Deep Multi-task Learning**
-
-- intro: ECCV 2014
-- project page: [http://mmlab.ie.cuhk.edu.hk/projects/TCDCN.html](http://mmlab.ie.cuhk.edu.hk/projects/TCDCN.html)
-- paper: [http://personal.ie.cuhk.edu.hk/~ccloy/files/eccv_2014_deepfacealign.pdf](http://personal.ie.cuhk.edu.hk/~ccloy/files/eccv_2014_deepfacealign.pdf)
-- github(Matlab): [https://github.com/zhzhanp/TCDCN-face-alignment](https://github.com/zhzhanp/TCDCN-face-alignment)
-
-**A Recurrent Encoder-Decoder Network for Sequential Face Alignment**
-
-- intro: ECCV 2016
-- arxiv: [https://arxiv.org/abs/1608.05477](https://arxiv.org/abs/1608.05477)
-
-**Detecting facial landmarks in the video based on a hybrid framework**
-
-- arxiv: [http://arxiv.org/abs/1609.06441](http://arxiv.org/abs/1609.06441)
-
-**Deep Constrained Local Models for Facial Landmark Detection**
-
-- arxiv: [https://arxiv.org/abs/1611.08657](https://arxiv.org/abs/1611.08657)
-
-**Effective face landmark localization via single deep network**
-
-- arxiv: [https://arxiv.org/abs/1702.02719](https://arxiv.org/abs/1702.02719)
-
-**A Convolution Tree with Deconvolution Branches: Exploiting Geometric Relationships for Single Shot Keypoint Detection**
-
-[https://arxiv.org/abs/1704.01880](https://arxiv.org/abs/1704.01880)
-
-**Deep Alignment Network: A convolutional neural network for robust face alignment**
-
-- intro: CVPRW 2017
-- arxiv: [https://arxiv.org/abs/1706.01789](https://arxiv.org/abs/1706.01789)
-- gihtub: [https://github.com/MarekKowalski/DeepAlignmentNetwork](https://github.com/MarekKowalski/DeepAlignmentNetwork)
-
-**Joint Multi-view Face Alignment in the Wild**
-
-[https://arxiv.org/abs/1708.06023](https://arxiv.org/abs/1708.06023)
-
-**FacePoseNet: Making a Case for Landmark-Free Face Alignment**
-
-[https://arxiv.org/abs/1708.07517](https://arxiv.org/abs/1708.07517)
-
-**Wing Loss for Robust Facial Landmark Localisation with Convolutional Neural Networks**
-
-[https://arxiv.org/abs/1711.06753](https://arxiv.org/abs/1711.06753)
 
 # Person Head Detection
 
@@ -1575,65 +1525,6 @@ This task involves predicting the salient regions of an image given by human eye
 
 - intro: IEEE Conference on Information Reuse and Integration (IRI) 2017 oral
 - arxiv: [https://arxiv.org/abs/1706.08574](https://arxiv.org/abs/1706.08574)
-
-# Boundary / Edge / Contour Detection
-
-**Holistically-Nested Edge Detection**
-
-![](https://camo.githubusercontent.com/da32e7e3275c2a9693dd2a6925b03a1151e2b098/687474703a2f2f70616765732e756373642e6564752f7e7a74752f6865642e6a7067)
-
-- intro: ICCV 2015, Marr Prize
-- paper: [http://www.cv-foundation.org/openaccess/content_iccv_2015/papers/Xie_Holistically-Nested_Edge_Detection_ICCV_2015_paper.pdf](http://www.cv-foundation.org/openaccess/content_iccv_2015/papers/Xie_Holistically-Nested_Edge_Detection_ICCV_2015_paper.pdf)
-- arxiv: [http://arxiv.org/abs/1504.06375](http://arxiv.org/abs/1504.06375)
-- github: [https://github.com/s9xie/hed](https://github.com/s9xie/hed)
-
-**Unsupervised Learning of Edges**
-
-- intro: CVPR 2016. Facebook AI Research
-- arxiv: [http://arxiv.org/abs/1511.04166](http://arxiv.org/abs/1511.04166)
-- zn-blog: [http://www.leiphone.com/news/201607/b1trsg9j6GSMnjOP.html](http://www.leiphone.com/news/201607/b1trsg9j6GSMnjOP.html)
-
-**Pushing the Boundaries of Boundary Detection using Deep Learning**
-
-- arxiv: [http://arxiv.org/abs/1511.07386](http://arxiv.org/abs/1511.07386)
-
-**Convolutional Oriented Boundaries**
-
-- intro: ECCV 2016
-- arxiv: [http://arxiv.org/abs/1608.02755](http://arxiv.org/abs/1608.02755)
-
-**Convolutional Oriented Boundaries: From Image Segmentation to High-Level Tasks**
-
-- project page: [http://www.vision.ee.ethz.ch/~cvlsegmentation/](http://www.vision.ee.ethz.ch/~cvlsegmentation/)
-- arxiv: [https://arxiv.org/abs/1701.04658](https://arxiv.org/abs/1701.04658)
-- github: [https://github.com/kmaninis/COB](https://github.com/kmaninis/COB)
-
-**Richer Convolutional Features for Edge Detection**
-
-- intro: CVPR 2017
-- keywords: richer convolutional features (RCF)
-- arxiv: [https://arxiv.org/abs/1612.02103](https://arxiv.org/abs/1612.02103)
-- github: [https://github.com/yun-liu/rcf](https://github.com/yun-liu/rcf)
-
-**Contour Detection from Deep Patch-level Boundary Prediction**
-
-[https://arxiv.org/abs/1705.03159](https://arxiv.org/abs/1705.03159)
-
-**CASENet: Deep Category-Aware Semantic Edge Detection**
-
-- intro: CVPR 2017. CMU & Mitsubishi Electric Research Laboratories (MERL)
-- arxiv: [https://arxiv.org/abs/1705.09759](https://arxiv.org/abs/1705.09759)
-- code: [http://www.merl.com/research/license#CASENet](http://www.merl.com/research/license#CASENet)
-- video: [https://www.youtube.com/watch?v=BNE1hAP6Qho](https://www.youtube.com/watch?v=BNE1hAP6Qho)
-
-**Learning Deep Structured Multi-Scale Features using Attention-Gated CRFs for Contour Prediction**
-
-- intro: NIPS 2017
-- arxiv: [https://arxiv.org/abs/1801.00524](https://arxiv.org/abs/1801.00524)
-
-**Deep Crisp Boundaries: From Boundaries to Higher-level Tasks**
-
-[https://arxiv.org/abs/1801.02439](https://arxiv.org/abs/1801.02439)
 
 # Skeleton Detection
 

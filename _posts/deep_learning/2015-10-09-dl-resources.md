@@ -1468,6 +1468,10 @@ with fast exact probabilistic inference over many layers."
 - intro: CMU
 - arxiv: [https://arxiv.org/abs/1801.04520](https://arxiv.org/abs/1801.04520)
 
+**Sparsely Connected Convolutional Networks**
+
+[https://arxiv.org/abs/1801.05895](https://arxiv.org/abs/1801.05895)
+
 ## Highway Networks
 
 **Highway Networks**
@@ -2630,50 +2634,6 @@ with fast exact probabilistic inference over many layers."
 
 - intro: Magic Leap, Inc
 - arxiv: [https://arxiv.org/abs/1707.07410](https://arxiv.org/abs/1707.07410)
-
-**Cascade Residual Learning: A Two-stage Convolutional Neural Network for Stereo Matching**
-
-[https://arxiv.org/abs/1708.09204](https://arxiv.org/abs/1708.09204)
-
-### Optical Flow
-
-**FlowNet: Learning Optical Flow with Convolutional Networks**
-
-- intro: "competitive accuracy at frame rates of 5 to 10 fps"
-- project page: [http://lmb.informatik.uni-freiburg.de/Publications/2015/DFIB15/](http://lmb.informatik.uni-freiburg.de/Publications/2015/DFIB15/)
-- arxiv: [https://arxiv.org/abs/1504.06852](https://arxiv.org/abs/1504.06852)
-- github: [https://github.com/ClementPinard/FlowNetTorch](https://github.com/ClementPinard/FlowNetTorch)
-- github: [https://github.com/ClementPinard/FlowNetPytorch](https://github.com/ClementPinard/FlowNetPytorch)
-
-**FlowNet 2.0: Evolution of Optical Flow Estimation with Deep Networks**
-
-- intro: CVPR 2017
-- project page: [http://lmb.informatik.uni-freiburg.de/Publications/2016/IMKDB16/](http://lmb.informatik.uni-freiburg.de/Publications/2016/IMKDB16/)
-- arxiv: [https://arxiv.org/abs/1612.01925](https://arxiv.org/abs/1612.01925)
-- github(Caffe): [https://github.com/lmb-freiburg/flownet2](https://github.com/lmb-freiburg/flownet2)
-- github: [https://github.com//NVIDIA/flownet2-pytorch](https://github.com//NVIDIA/flownet2-pytorch)
-- video: [http://lmb.informatik.uni-freiburg.de/Publications/2016/IMKDB16/](http://lmb.informatik.uni-freiburg.de/Publications/2016/IMKDB16/)
-
-**Optical Flow Estimation using a Spatial Pyramid Network**
-
-- arxiv: [https://arxiv.org/abs/1611.00850](https://arxiv.org/abs/1611.00850)
-
-**Guided Optical Flow Learning**
-
-- arxiv: [https://arxiv.org/abs/1702.02295](https://arxiv.org/abs/1702.02295)
-
-**PWC-Net: CNNs for Optical Flow Using Pyramid, Warping, and Cost Volume**
-
-[https://arxiv.org/abs/1709.02371](https://arxiv.org/abs/1709.02371)
-
-**Occlusion Aware Unsupervised Learning of Optical Flow**
-
-[https://arxiv.org/abs/1711.05890](https://arxiv.org/abs/1711.05890)
-
-**UnFlow: Unsupervised Learning of Optical Flow with a Bidirectional Census Loss**
-
-- intro: AAAI 2018
-- arxiv: [https://arxiv.org/abs/1711.07837](https://arxiv.org/abs/1711.07837)
 
 ### All-In-One Network
 

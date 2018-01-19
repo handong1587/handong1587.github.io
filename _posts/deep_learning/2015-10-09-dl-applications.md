@@ -176,6 +176,65 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 - paper: [http://nsd.csail.mit.edu/papers/nsd_cvpr.pdf](http://nsd.csail.mit.edu/papers/nsd_cvpr.pdf)
 - gihtub: [https://github.com/jiajunwu/nsd](https://github.com/jiajunwu/nsd)
 
+# Boundary / Edge / Contour Detection
+
+**Holistically-Nested Edge Detection**
+
+![](https://camo.githubusercontent.com/da32e7e3275c2a9693dd2a6925b03a1151e2b098/687474703a2f2f70616765732e756373642e6564752f7e7a74752f6865642e6a7067)
+
+- intro: ICCV 2015, Marr Prize
+- paper: [http://www.cv-foundation.org/openaccess/content_iccv_2015/papers/Xie_Holistically-Nested_Edge_Detection_ICCV_2015_paper.pdf](http://www.cv-foundation.org/openaccess/content_iccv_2015/papers/Xie_Holistically-Nested_Edge_Detection_ICCV_2015_paper.pdf)
+- arxiv: [http://arxiv.org/abs/1504.06375](http://arxiv.org/abs/1504.06375)
+- github: [https://github.com/s9xie/hed](https://github.com/s9xie/hed)
+
+**Unsupervised Learning of Edges**
+
+- intro: CVPR 2016. Facebook AI Research
+- arxiv: [http://arxiv.org/abs/1511.04166](http://arxiv.org/abs/1511.04166)
+- zn-blog: [http://www.leiphone.com/news/201607/b1trsg9j6GSMnjOP.html](http://www.leiphone.com/news/201607/b1trsg9j6GSMnjOP.html)
+
+**Pushing the Boundaries of Boundary Detection using Deep Learning**
+
+- arxiv: [http://arxiv.org/abs/1511.07386](http://arxiv.org/abs/1511.07386)
+
+**Convolutional Oriented Boundaries**
+
+- intro: ECCV 2016
+- arxiv: [http://arxiv.org/abs/1608.02755](http://arxiv.org/abs/1608.02755)
+
+**Convolutional Oriented Boundaries: From Image Segmentation to High-Level Tasks**
+
+- project page: [http://www.vision.ee.ethz.ch/~cvlsegmentation/](http://www.vision.ee.ethz.ch/~cvlsegmentation/)
+- arxiv: [https://arxiv.org/abs/1701.04658](https://arxiv.org/abs/1701.04658)
+- github: [https://github.com/kmaninis/COB](https://github.com/kmaninis/COB)
+
+**Richer Convolutional Features for Edge Detection**
+
+- intro: CVPR 2017
+- keywords: richer convolutional features (RCF)
+- arxiv: [https://arxiv.org/abs/1612.02103](https://arxiv.org/abs/1612.02103)
+- github: [https://github.com/yun-liu/rcf](https://github.com/yun-liu/rcf)
+
+**Contour Detection from Deep Patch-level Boundary Prediction**
+
+[https://arxiv.org/abs/1705.03159](https://arxiv.org/abs/1705.03159)
+
+**CASENet: Deep Category-Aware Semantic Edge Detection**
+
+- intro: CVPR 2017. CMU & Mitsubishi Electric Research Laboratories (MERL)
+- arxiv: [https://arxiv.org/abs/1705.09759](https://arxiv.org/abs/1705.09759)
+- code: [http://www.merl.com/research/license#CASENet](http://www.merl.com/research/license#CASENet)
+- video: [https://www.youtube.com/watch?v=BNE1hAP6Qho](https://www.youtube.com/watch?v=BNE1hAP6Qho)
+
+**Learning Deep Structured Multi-Scale Features using Attention-Gated CRFs for Contour Prediction**
+
+- intro: NIPS 2017
+- arxiv: [https://arxiv.org/abs/1801.00524](https://arxiv.org/abs/1801.00524)
+
+**Deep Crisp Boundaries: From Boundaries to Higher-level Tasks**
+
+[https://arxiv.org/abs/1801.02439](https://arxiv.org/abs/1801.02439)
+
 # Image-Text
 
 **Learning Two-Branch Neural Networks for Image-Text Matching Tasks**
@@ -1840,6 +1899,151 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 - intro: CVPR 2017 oral
 - project page: [http://www3.cs.stonybrook.edu/~cvl/content/neuralface/neuralface.html](http://www3.cs.stonybrook.edu/~cvl/content/neuralface/neuralface.html)
 - arxiv: [https://arxiv.org/abs/1704.04131](https://arxiv.org/abs/1704.04131)
+
+# Stereo
+
+**End-to-End Learning of Geometry and Context for Deep Stereo Regression**
+
+[https://arxiv.org/abs/1703.04309](https://arxiv.org/abs/1703.04309)
+
+**Unsupervised Adaptation for Deep Stereo**
+
+- intro: ICCV 2017
+- paper: [http://openaccess.thecvf.com/content_ICCV_2017/papers/Tonioni_Unsupervised_Adaptation_for_ICCV_2017_paper.pdf](http://openaccess.thecvf.com/content_ICCV_2017/papers/Tonioni_Unsupervised_Adaptation_for_ICCV_2017_paper.pdf)
+- paper: [http://vision.disi.unibo.it/~mpoggi/papers/iccv2017_adaptation.pdf](http://vision.disi.unibo.it/~mpoggi/papers/iccv2017_adaptation.pdf)
+- github: [https://github.com/CVLAB-Unibo/Unsupervised-Adaptation-for-Deep-Stereo](https://github.com/CVLAB-Unibo/Unsupervised-Adaptation-for-Deep-Stereo)
+
+**Cascade Residual Learning: A Two-stage Convolutional Neural Network for Stereo Matching**
+
+[https://arxiv.org/abs/1708.09204](https://arxiv.org/abs/1708.09204)
+
+**StereoConvNet: Stereo convolutional neural network for depth map prediction from stereo images**
+
+- github: [https://github.com/LouisFoucard/StereoConvNet](https://github.com/LouisFoucard/StereoConvNet)
+
+# Optical Flow
+
+**FlowNet: Learning Optical Flow with Convolutional Networks**
+
+- intro: "competitive accuracy at frame rates of 5 to 10 fps"
+- project page: [http://lmb.informatik.uni-freiburg.de/Publications/2015/DFIB15/](http://lmb.informatik.uni-freiburg.de/Publications/2015/DFIB15/)
+- arxiv: [https://arxiv.org/abs/1504.06852](https://arxiv.org/abs/1504.06852)
+- github: [https://github.com/ClementPinard/FlowNetTorch](https://github.com/ClementPinard/FlowNetTorch)
+- github: [https://github.com/ClementPinard/FlowNetPytorch](https://github.com/ClementPinard/FlowNetPytorch)
+
+**FlowNet 2.0: Evolution of Optical Flow Estimation with Deep Networks**
+
+- intro: CVPR 2017
+- project page: [http://lmb.informatik.uni-freiburg.de/Publications/2016/IMKDB16/](http://lmb.informatik.uni-freiburg.de/Publications/2016/IMKDB16/)
+- arxiv: [https://arxiv.org/abs/1612.01925](https://arxiv.org/abs/1612.01925)
+- github(Caffe): [https://github.com/lmb-freiburg/flownet2](https://github.com/lmb-freiburg/flownet2)
+- github: [https://github.com//NVIDIA/flownet2-pytorch](https://github.com//NVIDIA/flownet2-pytorch)
+- video: [http://lmb.informatik.uni-freiburg.de/Publications/2016/IMKDB16/](http://lmb.informatik.uni-freiburg.de/Publications/2016/IMKDB16/)
+
+**Optical Flow Estimation using a Spatial Pyramid Network**
+
+- arxiv: [https://arxiv.org/abs/1611.00850](https://arxiv.org/abs/1611.00850)
+
+**Guided Optical Flow Learning**
+
+- arxiv: [https://arxiv.org/abs/1702.02295](https://arxiv.org/abs/1702.02295)
+
+**PWC-Net: CNNs for Optical Flow Using Pyramid, Warping, and Cost Volume**
+
+[https://arxiv.org/abs/1709.02371](https://arxiv.org/abs/1709.02371)
+
+**Occlusion Aware Unsupervised Learning of Optical Flow**
+
+[https://arxiv.org/abs/1711.05890](https://arxiv.org/abs/1711.05890)
+
+**UnFlow: Unsupervised Learning of Optical Flow with a Bidirectional Census Loss**
+
+- intro: AAAI 2018
+- arxiv: [https://arxiv.org/abs/1711.07837](https://arxiv.org/abs/1711.07837)
+
+# 3D
+
+**Learning Spatiotemporal Features with 3D Convolutional Networks**
+
+**C3D: Generic Features for Video Analysis**
+
+- project page: [http://vlg.cs.dartmouth.edu/c3d/](http://vlg.cs.dartmouth.edu/c3d/)
+- arxiv: [http://arxiv.org/abs/1412.0767](http://arxiv.org/abs/1412.0767)
+- slides: [http://web.cs.hacettepe.edu.tr/~aykut/classes/spring2016/bil722/slides/w07-conv3d.pdf](http://web.cs.hacettepe.edu.tr/~aykut/classes/spring2016/bil722/slides/w07-conv3d.pdf)
+- github: [https://github.com/facebook/C3D](https://github.com/facebook/C3D)
+
+**C3D Model for Keras trained over Sports 1M**
+
+- project page: [https://imatge.upc.edu/web/resources/c3d-model-keras-trained-over-sports-1m](https://imatge.upc.edu/web/resources/c3d-model-keras-trained-over-sports-1m)
+
+**Sports 1M C3D Network to Keras**
+
+- notebook: [http://nbviewer.jupyter.org/gist/albertomontesg/d8b21a179c1e6cca0480ebdf292c34d2/Sports1M%20C3D%20Network%20to%20Keras.ipynb](http://nbviewer.jupyter.org/gist/albertomontesg/d8b21a179c1e6cca0480ebdf292c34d2/Sports1M%20C3D%20Network%20to%20Keras.ipynb)
+
+**Deep End2End Voxel2Voxel Prediction**
+
+- arxiv: [http://arxiv.org/abs/1511.06681](http://arxiv.org/abs/1511.06681)
+
+**Aligning 3D Models to RGB-D Images of Cluttered Scenes**
+
+- paper: [http://www.cs.berkeley.edu/~rbg/papers/cvpr15/align2rgbd.pdf](http://www.cs.berkeley.edu/~rbg/papers/cvpr15/align2rgbd.pdf)
+
+**Deep Sliding Shapes for Amodal 3D Object Detection in RGB-D Images**
+
+![](http://dss.cs.princeton.edu/teaser.jpg)
+
+- homepage: [http://dss.cs.princeton.edu/](http://dss.cs.princeton.edu/)
+- arxiv: [http://arxiv.org/abs/1511.02300](http://arxiv.org/abs/1511.02300)
+
+**Multi-view 3D Models from Single Images with a Convolutional Network**
+
+- arxiv: [http://arxiv.org/abs/1511.06702](http://arxiv.org/abs/1511.06702)
+
+**Sparseness Meets Deepness: 3D Human Pose Estimation from Monocular Video**
+
+![](https://fling.seas.upenn.edu/~xiaowz/dynamic/wordpress/wp-content/uploads/2016/01/overview.png)
+
+- arxiv: [http://arxiv.org/abs/1511.09439](http://arxiv.org/abs/1511.09439)
+- project page: [https://fling.seas.upenn.edu/~xiaowz/dynamic/wordpress/monocular-human-pose/](https://fling.seas.upenn.edu/~xiaowz/dynamic/wordpress/monocular-human-pose/)
+- video: [http://weibo.com/p/230444264a8772b7fff71cd23e40b8a88dcaad](http://weibo.com/p/230444264a8772b7fff71cd23e40b8a88dcaad)
+
+**RotationNet: Learning Object Classification Using Unsupervised Viewpoint Estimation**
+
+- arxiv: [http://arxiv.org/abs/1603.06208](http://arxiv.org/abs/1603.06208)
+
+**DeepContext: Context-Encoding Neural Pathways for 3D Holistic Scene Understanding**
+
+![](http://deepcontext.cs.princeton.edu/teaser.png)
+
+- paper: [http://deepcontext.cs.princeton.edu/paper.pdf](http://deepcontext.cs.princeton.edu/paper.pdf)
+- project page: [http://deepcontext.cs.princeton.edu/](http://deepcontext.cs.princeton.edu/)
+
+**Volumetric and Multi-View CNNs for Object Classification on 3D Data**
+
+![](http://graphics.stanford.edu/projects/3dcnn/teaser.jpg)
+
+- homepage: [http://graphics.stanford.edu/projects/3dcnn/](http://graphics.stanford.edu/projects/3dcnn/)
+- arxiv: [https://arxiv.org/abs/1604.03265](https://arxiv.org/abs/1604.03265)
+- github: [https://github.com/charlesq34/3dcnn.torch](https://github.com/charlesq34/3dcnn.torch)
+
+**Deep3D: Automatic 2D-to-3D Video Conversion with CNNs**
+
+![](https://raw.githubusercontent.com/piiswrong/deep3d/master/img/teaser.png)
+
+- project page: [http://dmlc.ml/mxnet/2016/04/04/deep3d-automatic-2d-to-3d-conversion-with-CNN.html](http://dmlc.ml/mxnet/2016/04/04/deep3d-automatic-2d-to-3d-conversion-with-CNN.html)
+- paper: [http://homes.cs.washington.edu/~jxie/pdf/deep3d.pdf](http://homes.cs.washington.edu/~jxie/pdf/deep3d.pdf)
+- github: [https://github.com/piiswrong/deep3d](https://github.com/piiswrong/deep3d)
+
+**Deep3D: Fully Automatic 2D-to-3D Video Conversion with Deep Convolutional Neural Networks**
+
+- arxiv: [http://arxiv.org/abs/1604.03650](http://arxiv.org/abs/1604.03650)
+
+**3D-R2N2: A Unified Approach for Single and Multi-view 3D Object Reconstruction**
+
+![](https://raw.githubusercontent.com/chrischoy/3D-R2N2/master/imgs/overview.png)
+
+- arxiv: [http://arxiv.org/abs/1604.00449](http://arxiv.org/abs/1604.00449)
+- github: [https://github.com/chrischoy/3D-R2N2](https://github.com/chrischoy/3D-R2N2)
 
 # Deep Learning for Makeup
 
