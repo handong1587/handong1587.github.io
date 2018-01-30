@@ -207,6 +207,15 @@ date: 2015-10-09
 
 [https://arxiv.org/abs/1801.05678](https://arxiv.org/abs/1801.05678)
 
+**ArcFace: Additive Angular Margin Loss for Deep Face Recognition**
+
+- arxiv: [https://arxiv.org/abs/1801.07698](https://arxiv.org/abs/1801.07698)
+- github: [https://github.com/deepinsight/insightface](https://github.com/deepinsight/insightface)
+
+**CosFace: Large Margin Cosine Loss for Deep Face Recognition**
+
+[https://arxiv.org/abs/1801.09414](https://arxiv.org/abs/1801.09414)
+
 # Video Face Recognition
 
 **Attention-Set based Metric Learning for Video Face Recognition**

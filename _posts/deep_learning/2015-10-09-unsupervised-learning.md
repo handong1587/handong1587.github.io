@@ -155,6 +155,12 @@ Auto-encoder
 - arxiv: [https://arxiv.org/abs/1801.01587](https://arxiv.org/abs/1801.01587)
 - github: [https://github.com//kstant0725/SpectralNet](https://github.com//kstant0725/SpectralNet)
 
+**Clustering with Deep Learning: Taxonomy and New Methods**
+
+- intro: Technical University of Munich
+- arxiv: [https://arxiv.org/abs/1801.07648](https://arxiv.org/abs/1801.07648)
+- github: [https://github.com/elieJalbout/Clustering-with-Deep-learning](https://github.com/elieJalbout/Clustering-with-Deep-learning)
+
 # Auto-encoder
 
 **Auto-Encoding Variational Bayes**

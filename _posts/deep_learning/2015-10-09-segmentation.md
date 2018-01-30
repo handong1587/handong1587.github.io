@@ -107,6 +107,10 @@ date: 2015-10-09
 - intro: ISBI 2018
 - arxiv: [https://arxiv.org/abs/1801.02722](https://arxiv.org/abs/1801.02722)
 
+**A Foreground Inference Network for Video Surveillance Using Multi-View Receptive Field**
+
+[https://arxiv.org/abs/1801.06593](https://arxiv.org/abs/1801.06593)
+
 ## U-Net
 
 **U-Net: Convolutional Networks for Biomedical Image Segmentation**
@@ -949,8 +953,6 @@ with built-in awareness of semantically meaningful boundaries. "
 - intro: AAAI 2018
 - arxiv: [https://arxiv.org/abs/1712.06080](https://arxiv.org/abs/1712.06080)
 
-## MPF-RNN
-
 **Multi-Path Feedback Recurrent Neural Network for Scene Parsing**
 
 - arxiv: [http://arxiv.org/abs/1608.07706](http://arxiv.org/abs/1608.07706)
@@ -1001,6 +1003,10 @@ ranked 1st place in ImageNet Scene Parsing Challenge 2016
 **Restricted Deformable Convolution based Road Scene Semantic Segmentation Using Surround View Cameras**
 
 [https://arxiv.org/abs/1801.00708](https://arxiv.org/abs/1801.00708)
+
+**Dense Recurrent Neural Networks for Scene Labeling**
+
+[https://arxiv.org/abs/1801.06831](https://arxiv.org/abs/1801.06831)
 
 ## Benchmarks
 

@@ -135,6 +135,11 @@ It currently hosts (a) the team notebook, and (b) complete lecture slides for [C
 
 [https://dzone.com/articles/data-structures-related-to-machine-learning-algori](https://dzone.com/articles/data-structures-related-to-machine-learning-algori)
 
+**Using Self-Organizing Maps to solve the Traveling Salesman Problem**
+
+- blog: [https://diego.codes/post/som-tsp/](https://diego.codes/post/som-tsp/)
+- github: [https://github.com/DiegoVicen/som-tsp](https://github.com/DiegoVicen/som-tsp)
+
 ## Visualization
 
 **Visualisation of A* path-finding algorithm in a maze**

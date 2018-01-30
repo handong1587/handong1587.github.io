@@ -485,6 +485,10 @@ extract saptio-temporal features to represent the video using the CNNs."
 - intro: WACV 2018
 - arxiv: [https://arxiv.org/abs/1801.03983](https://arxiv.org/abs/1801.03983)
 
+**DiscrimNet: Semi-Supervised Action Recognition from Videos using Generative Adversarial Networks**
+
+[https://arxiv.org/abs/1801.07230](https://arxiv.org/abs/1801.07230)
+
 ### Projects
 
 **A Torch Library for Action Recognition and Detection Using CNNs and LSTMs**

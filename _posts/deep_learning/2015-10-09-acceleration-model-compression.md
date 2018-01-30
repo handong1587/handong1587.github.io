@@ -453,6 +453,11 @@ at INT8 deep learning operations than other FPGA DSP architectures"
 - arxiv: [https://arxiv.org/abs/1801.01451](https://arxiv.org/abs/1801.01451)
 - github: [https://github.com/andrew-jeremy/Reducing-Deep-Network-Complexity-with-Fourier-Transform-Methods](https://github.com/andrew-jeremy/Reducing-Deep-Network-Complexity-with-Fourier-Transform-Methods)
 
+**EffNet: An Efficient Structure for Convolutional Neural Networks**
+
+- intro: Aptiv & University of Wupperta
+- arxiv: [https://arxiv.org/abs/1801.06434](https://arxiv.org/abs/1801.06434)
+
 # Pruning
 
 **ThiNet: A Filter Level Pruning Method for Deep Neural Network Compression**
@@ -483,6 +488,10 @@ at INT8 deep learning operations than other FPGA DSP architectures"
 **Automated Pruning for Deep Neural Network Compression**
 
 [https://arxiv.org/abs/1712.01721](https://arxiv.org/abs/1712.01721)
+
+**Learning to Prune Filters in Convolutional Neural Networks**
+
+[https://arxiv.org/abs/1801.07365](https://arxiv.org/abs/1801.07365)
 
 # Quantized Neural Networks
 
@@ -612,7 +621,13 @@ at INT8 deep learning operations than other FPGA DSP architectures"
 **SBNet: Sparse Blocks Network for Fast Inference**
 
 - intro: Uber
+- project page: [https://eng.uber.com/sbnet/](https://eng.uber.com/sbnet/)
 - arxiv: [https://arxiv.org/abs/1801.02108](https://arxiv.org/abs/1801.02108)
+
+**Accelerating deep neural networks with tensor decompositions**
+
+- blog: [https://jacobgil.github.io/deeplearning/tensor-decompositions-deep-learning](https://jacobgil.github.io/deeplearning/tensor-decompositions-deep-learning)
+- github: [https://github.com/jacobgil/pytorch-tensor-decompositions](https://github.com/jacobgil/pytorch-tensor-decompositions)
 
 # Knowledge Distilling / Knowledge Transfer
 

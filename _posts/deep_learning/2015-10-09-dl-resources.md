@@ -1308,11 +1308,6 @@ with fast exact probabilistic inference over many layers."
 
 [https://arxiv.org/abs/1708.07522](https://arxiv.org/abs/1708.07522)
 
-**Fast Image Processing with Fully-Convolutional Networks**
-
-- arxiv: [https://arxiv.org/abs/1709.00643](https://arxiv.org/abs/1709.00643)
-- supp: [https://youtu.be/eQyfHgLx8Dc](https://youtu.be/eQyfHgLx8Dc)
-
 **BranchyNet: Fast Inference via Early Exiting from Deep Neural Networks**
 
 [https://arxiv.org/abs/1709.01686](https://arxiv.org/abs/1709.01686)
@@ -1532,6 +1527,10 @@ with fast exact probabilistic inference over many layers."
 **Top-down Flow Transformer Networks**
 
 [https://arxiv.org/abs/1712.02400](https://arxiv.org/abs/1712.02400)
+
+**Hierarchical Spatial Transformer Network**
+
+[https://arxiv.org/abs/1801.09467](https://arxiv.org/abs/1801.09467)
 
 ## FractalNet
 
@@ -1796,6 +1795,12 @@ with fast exact probabilistic inference over many layers."
 - video: [https://www.facebook.com/nipsfoundation/videos/1554594181298482/](https://www.facebook.com/nipsfoundation/videos/1554594181298482/)
 - mirror: [https://www.bilibili.com/video/av17078186/](https://www.bilibili.com/video/av17078186/)
 - slides: [https://www.dropbox.com/s/4fhczb9cxkuqalf/2017_11_xx_BARS-Abbeel.pdf?dl=0](https://www.dropbox.com/s/4fhczb9cxkuqalf/2017_11_xx_BARS-Abbeel.pdf?dl=0)
+
+**DroNet: Learning to Fly by Driving**
+
+- project page: [http://rpg.ifi.uzh.ch/dronet.html](http://rpg.ifi.uzh.ch/dronet.html)
+- paper: [http://rpg.ifi.uzh.ch/docs/RAL18_Loquercio.pdf](http://rpg.ifi.uzh.ch/docs/RAL18_Loquercio.pdf)
+- github: [https://github.com/uzh-rpg/rpg_public_dronet](https://github.com/uzh-rpg/rpg_public_dronet)
 
 # Deep Learning on Mobile / Embedded Devices
 

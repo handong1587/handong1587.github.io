@@ -176,6 +176,12 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 - paper: [http://nsd.csail.mit.edu/papers/nsd_cvpr.pdf](http://nsd.csail.mit.edu/papers/nsd_cvpr.pdf)
 - gihtub: [https://github.com/jiajunwu/nsd](https://github.com/jiajunwu/nsd)
 
+**Image2GIF: Generating Cinemagraphs using Recurrent Deep Q-Networks**
+
+- intro: WACV 2018
+- project page: [http://bvision11.cs.unc.edu/bigpen/yipin/WACV2018/](http://bvision11.cs.unc.edu/bigpen/yipin/WACV2018/)
+- arxiv: [https://arxiv.org/abs/1801.09042](https://arxiv.org/abs/1801.09042)
+
 # Boundary / Edge / Contour Detection
 
 **Holistically-Nested Edge Detection**
@@ -234,6 +240,20 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 **Deep Crisp Boundaries: From Boundaries to Higher-level Tasks**
 
 [https://arxiv.org/abs/1801.02439](https://arxiv.org/abs/1801.02439)
+
+# Image Processing
+
+**Fast Image Processing with Fully-Convolutional Networks**
+
+- intro: ICCV 2017. Qifeng Chen (陈启峰)
+- project page: [http://www.cqf.io/ImageProcessing/](http://www.cqf.io/ImageProcessing/)
+- arxiv: [https://arxiv.org/abs/1709.00643](https://arxiv.org/abs/1709.00643)
+- supp: [https://youtu.be/eQyfHgLx8Dc](https://youtu.be/eQyfHgLx8Dc)
+- github: [https://github.com/CQFIO/FastImageProcessing](https://github.com/CQFIO/FastImageProcessing)
+
+**DeepISP: Learning End-to-End Image Processing Pipeline**
+
+[https://arxiv.org/abs/1801.06724](https://arxiv.org/abs/1801.06724)
 
 # Image-Text
 
@@ -577,6 +597,11 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 - intro: ICIP 2017
 - arxiv: [https://arxiv.org/abs/1711.07798](https://arxiv.org/abs/1711.07798)
 
+**Deep Learning for Sentiment Analysis : A Survey**
+
+- intro: LinkedIn & University of Illinois at Chicago
+- arxiv: [https://arxiv.org/abs/1801.07883](https://arxiv.org/abs/1801.07883)
+
 # Place Recognition
 
 **NetVLAD: CNN architecture for weakly supervised place recognition**
@@ -814,6 +839,15 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 
 [https://arxiv.org/abs/1712.06679](https://arxiv.org/abs/1712.06679)
 
+**Structured Inhomogeneous Density Map Learning for Crowd Counting**
+
+[https://arxiv.org/abs/1801.06642](https://arxiv.org/abs/1801.06642)
+
+**Understanding Human Behaviors in Crowds by Imitating the Decision-Making Process**
+
+- intro: AAAI 2018
+- arxiv: [https://arxiv.org/abs/1801.08391](https://arxiv.org/abs/1801.08391)
+
 # Activity Recognition
 
 **Implementing a CNN for Human Activity Recognition in Tensorflow**
@@ -986,6 +1020,14 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 
 [https://arxiv.org/abs/1801.05585](https://arxiv.org/abs/1801.05585)
 
+**Deep Structured Energy-Based Image Inpainting**
+
+[https://arxiv.org/abs/1801.07939](https://arxiv.org/abs/1801.07939)
+
+**Shift-Net: Image Inpainting via Deep Feature Rearrangement**
+
+[https://arxiv.org/abs/1801.09392](https://arxiv.org/abs/1801.09392)
+
 # Image Restoration
 
 **Image Restoration Using Very Deep Convolutional Encoder-Decoder Networks with Symmetric Skip Connections**
@@ -1009,11 +1051,6 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 
 - intro: Seoul National University
 - arxiv: [https://arxiv.org/abs/1701.06190](https://arxiv.org/abs/1701.06190)
-
-**Generative Face Completion**
-
-- intro: CVPR 2017
-- arxiv: [https://arxiv.org/abs/1704.05838](https://arxiv.org/abs/1704.05838)
 
 **MemNet: A Persistent Memory Network for Image Restoration**
 
@@ -1045,6 +1082,22 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 - intro: ICCV 2017 spotlight
 - paper: [http://cvlab.cse.msu.edu/pdfs/Image_Restoration%20using_Persistent_Memory_Network.pdf](http://cvlab.cse.msu.edu/pdfs/Image_Restoration%20using_Persistent_Memory_Network.pdf)
 - github: [https://github.com//tyshiwo/MemNet](https://github.com//tyshiwo/MemNet)
+
+**Denoising Prior Driven Deep Neural Network for Image Restoration**
+
+[https://arxiv.org/abs/1801.06756](https://arxiv.org/abs/1801.06756)
+
+## Face Completion
+
+**Generative Face Completion**
+
+- intro: CVPR 2017
+- arxiv: [https://arxiv.org/abs/1704.05838](https://arxiv.org/abs/1704.05838)
+
+**High Resolution Face Completion with Multiple Controllable Attributes via Fully End-to-End Progressive Generative Adversarial Networks**
+
+- intro: North Carolina State University
+- arxiv: [https://arxiv.org/abs/1801.07632](https://arxiv.org/abs/1801.07632)
 
 # Image Super-Resolution
 
@@ -1424,6 +1477,11 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 
 [https://arxiv.org/abs/1801.02892](https://arxiv.org/abs/1801.02892)
 
+**C2MSNet: A Novel approach for single image haze removal**
+
+- intro: WACV 2018
+- arxiv: [https://arxiv.org/abs/1801.08406](https://arxiv.org/abs/1801.08406)
+
 # Image Rain Removal / De-raining
 
 **Clearing the Skies: A deep network architecture for single-image rain removal**
@@ -1445,6 +1503,10 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 
 - intro: CVPR 2018
 - arxiv: [https://arxiv.org/abs/1712.06830](https://arxiv.org/abs/1712.06830)
+
+**Deep joint rain and haze removal from single images**
+
+[https://arxiv.org/abs/1801.06769](https://arxiv.org/abs/1801.06769)
 
 # Fence Removal
 
@@ -1584,6 +1646,18 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 **Conditional Probability Models for Deep Image Compression**
 
 [https://arxiv.org/abs/1801.04260](https://arxiv.org/abs/1801.04260)
+
+**Multiple Description Convolutional Neural Networks for Image Compression**
+
+[https://arxiv.org/abs/1801.06611](https://arxiv.org/abs/1801.06611)
+
+**Near-lossless L-infinity constrained Multi-rate Image Decompression via Deep Neural Network**
+
+[https://arxiv.org/abs/1801.07987](https://arxiv.org/abs/1801.07987)
+
+**DeepSIC: Deep Semantic Image Compression**
+
+[https://arxiv.org/abs/1801.09468](https://arxiv.org/abs/1801.09468)
 
 # Image Quality Assessment
 

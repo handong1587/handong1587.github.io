@@ -1228,8 +1228,16 @@ This task involves predicting the salient regions of an image given by human eye
 - intro: CVPR 2017. CMU
 - project page: [http://www.cs.cmu.edu/~peiyunh/tiny/index.html](http://www.cs.cmu.edu/~peiyunh/tiny/index.html)
 - arxiv: [https://arxiv.org/abs/1612.04402](https://arxiv.org/abs/1612.04402)
-- github: [https://github.com/peiyunh/tiny](https://github.com/peiyunh/tiny)
+- github(official, Matlab): [https://github.com/peiyunh/tiny](https://github.com/peiyunh/tiny)
 - github(inference-only): [https://github.com/chinakook/hr101_mxnet](https://github.com/chinakook/hr101_mxnet)
+- github: [https://github.com/cydonia999/Tiny_Faces_in_Tensorflow](https://github.com/cydonia999/Tiny_Faces_in_Tensorflow)
+
+**Detecting and counting tiny faces**
+
+- intro: ENS Paris-Saclay. ExtendedTinyFaces
+- intro: Detecting and counting small objects - Analysis, review and application to counting
+- arxiv: [https://arxiv.org/abs/1801.06504](https://arxiv.org/abs/1801.06504)
+- github: [https://github.com/alexattia/ExtendedTinyFaces](https://github.com/alexattia/ExtendedTinyFaces)
 
 **Towards a Deep Learning Framework for Unconstrained Face Detection**
 
@@ -1239,8 +1247,6 @@ This task involves predicting the salient regions of an image given by human eye
 **Supervised Transformer Network for Efficient Face Detection**
 
 - arxiv: [http://arxiv.org/abs/1607.05477](http://arxiv.org/abs/1607.05477)
-
-## UnitBox
 
 **UnitBox: An Advanced Object Detection Network**
 
@@ -1284,6 +1290,7 @@ This task involves predicting the salient regions of an image given by human eye
 - github(Caffe): [https://github.com/foreverYoungGitHub/MTCNN](https://github.com/foreverYoungGitHub/MTCNN)
 - github: [https://github.com/CongWeilin/mtcnn-caffe](https://github.com/CongWeilin/mtcnn-caffe)
 - github(OpenCV+OpenBlas): [https://github.com/AlphaQi/MTCNN-light](https://github.com/AlphaQi/MTCNN-light)
+- github(Tensorflow+golang): [https://github.com/jdeng/goface](https://github.com/jdeng/goface)
 
 **Face Detection using Deep Learning: An Improved Faster RCNN Approach**
 
@@ -1791,6 +1798,11 @@ This task involves predicting the salient regions of an image given by human eye
 - slides: [http://image-net.org/challenges/talks/2016/Hikvision_at_ImageNet_2016.pdf](http://image-net.org/challenges/talks/2016/Hikvision_at_ImageNet_2016.pdf)
 
 # Projects
+
+**Detectron**
+
+- intro: FAIR's research platform for object detection research, implementing popular algorithms like Mask R-CNN and RetinaNet.
+- github: [https://github.com/facebookresearch/Detectron](https://github.com/facebookresearch/Detectron)
 
 **TensorBox: a simple framework for training neural networks to detect objects in images**
 

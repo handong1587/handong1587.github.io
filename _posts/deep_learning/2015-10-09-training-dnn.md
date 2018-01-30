@@ -458,6 +458,10 @@ date: 2015-10-09
 - blog: [https://medium.com/@singlasahil14/a-new-kind-of-pooling-layer-for-faster-and-sharper-convergence-1043c756a221](https://medium.com/@singlasahil14/a-new-kind-of-pooling-layer-for-faster-and-sharper-convergence-1043c756a221)
 - github: [https://github.com/singlasahil14/sortpool2d](https://github.com/singlasahil14/sortpool2d)
 
+**Statistically Motivated Second Order Pooling**
+
+[https://arxiv.org/abs/1801.07492](https://arxiv.org/abs/1801.07492)
+
 # Batch Size
 
 **Online Batch Selection for Faster Training of Neural Networks**
@@ -1109,6 +1113,10 @@ date: 2015-10-09
 
 - keywords: eATure TransfEr Network (FATTEN)
 - arxiv: [https://arxiv.org/abs/1801.04356](https://arxiv.org/abs/1801.04356)
+
+**Visual Data Augmentation through Learning**
+
+[https://arxiv.org/abs/1801.06665](https://arxiv.org/abs/1801.06665)
 
 ## Imbalanced Datasets
 

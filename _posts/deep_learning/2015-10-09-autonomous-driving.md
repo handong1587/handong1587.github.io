@@ -216,6 +216,10 @@ without running into obstacles using a type of reinforcement learning called Q-L
 - intro: Shanghai Jiao Tong University
 - arxiv: [https://arxiv.org/abs/1801.05299](https://arxiv.org/abs/1801.05299)
 
+**End-to-end Multi-Modal Multi-Task Vehicle Control for Self-Driving Cars with Visual Perception**
+
+[https://arxiv.org/abs/1801.06734](https://arxiv.org/abs/1801.06734)
+
 # Blogs
 
 **Self-driving cars: How far away are we REALLY from autonomous cars?(7 Aug 2015)**

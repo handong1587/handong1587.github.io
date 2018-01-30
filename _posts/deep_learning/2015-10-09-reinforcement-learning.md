@@ -190,6 +190,13 @@ date: 2015-10-09
 - intro: by Rich Sutton, Adam White
 - lecture video: [https://drive.google.com/drive/folders/0B3w765rOKuKAMG9lbmRacFdsLWM?direction=a](https://drive.google.com/drive/folders/0B3w765rOKuKAMG9lbmRacFdsLWM?direction=a)
 
+**Deep Reinforcement Learning and Control (Spring 2017, CMU 10703)**
+
+- instructors: Katerina Fragkiadaki, Ruslan Satakhutdinov
+- homepage: [https://katefvision.github.io/](https://katefvision.github.io/)
+- video: [https://www.youtube.com/playlist?list=PLpIxOj-HnDsNPFdu2UqCu2McJKHs-eWXv](https://www.youtube.com/playlist?list=PLpIxOj-HnDsNPFdu2UqCu2McJKHs-eWXv)
+- mirror: [https://www.bilibili.com/video/av18865689/](https://www.bilibili.com/video/av18865689/)
+
 # Papers
 
 **Playing Atari with Deep Reinforcement Learning**

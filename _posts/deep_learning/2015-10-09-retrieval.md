@@ -461,6 +461,10 @@ date: 2015-10-09
 
 [https://arxiv.org/abs/1712.08315](https://arxiv.org/abs/1712.08315)
 
+**Dual Asymmetric Deep Hashing Learning**
+
+[https://arxiv.org/abs/1801.08360](https://arxiv.org/abs/1801.08360)
+
 # Cross Modal Retrieval
 
 **Cross-domain Image Retrieval with a Dual Attribute-aware Ranking Network**
