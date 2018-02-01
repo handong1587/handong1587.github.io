@@ -9,7 +9,7 @@ date: 2017-12-18
 
 [https://www.youtube.com/channel/UC0n76gicaarsN_Y9YShWwhw/playlists](https://www.youtube.com/channel/UC0n76gicaarsN_Y9YShWwhw/playlists)
 
-# NISP 2017
+# NIPS 2017
 
 **NIPS 2017 Spotlights**
 
