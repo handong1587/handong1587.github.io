@@ -181,6 +181,10 @@ date: 2015-10-09
 - arxiv: [https://arxiv.org/abs/1710.05941](https://arxiv.org/abs/1710.05941)
 - reddit: [https://www.reddit.com/r/MachineLearning/comments/77gcrv/d_swish_is_not_performing_very_well/](https://www.reddit.com/r/MachineLearning/comments/77gcrv/d_swish_is_not_performing_very_well/)
 
+**Deep Learning with Data Dependent Implicit Activation Function**
+
+[https://arxiv.org/abs/1802.00168](https://arxiv.org/abs/1802.00168)
+
 ## Series on Initialization of Weights for DNN
 
 **Initialization Of Feedfoward Networks**

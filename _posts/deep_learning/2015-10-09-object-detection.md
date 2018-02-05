@@ -945,6 +945,10 @@ Continuation of [arXiv:1608.08021](https://arxiv.org/abs/1608.08021)
 
 [https://arxiv.org/abs/1801.01769](https://arxiv.org/abs/1801.01769)
 
+**Object Detection in Videos by Short and Long Range Object Linking**
+
+[https://arxiv.org/abs/1801.09823](https://arxiv.org/abs/1801.09823)
+
 # Object Detection in 3D
 
 **Vote3Deep: Fast Object Detection in 3D Point Clouds Using Efficient Convolutional Neural Networks**

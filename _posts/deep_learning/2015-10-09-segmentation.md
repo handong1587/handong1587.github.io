@@ -854,6 +854,10 @@ with built-in awareness of semantically meaningful boundaries. "
 - slides: [http://www.ics.uci.edu/~skong2/slides/pixel_embedding_for_grouping_public_version.pdf](http://www.ics.uci.edu/~skong2/slides/pixel_embedding_for_grouping_public_version.pdf)
 - poster: [http://www.ics.uci.edu/~skong2/slides/pixel_embedding_for_grouping_poster.pdf](http://www.ics.uci.edu/~skong2/slides/pixel_embedding_for_grouping_poster.pdf)
 
+**Annotation-Free and One-Shot Learning for Instance Segmentation of Homogeneous Object Clusters**
+
+[https://arxiv.org/abs/1802.00383](https://arxiv.org/abs/1802.00383)
+
 # Specific Segmentation
 
 **A CNN Cascade for Landmark Guided Semantic Part Segmentation**
@@ -1082,8 +1086,9 @@ ranked 1st place in ImageNet Scene Parsing Challenge 2016
 - intro: OSVOS
 - project: [http://www.vision.ee.ethz.ch/~cvlsegmentation/osvos/](http://www.vision.ee.ethz.ch/~cvlsegmentation/osvos/)
 - arxiv: [https://arxiv.org/abs/1611.05198](https://arxiv.org/abs/1611.05198)
-- github: [https://github.com/kmaninis/OSVOS-caffe](https://github.com/kmaninis/OSVOS-caffe)
-- github: [https://github.com/scaelles/OSVOS-TensorFlow](https://github.com/scaelles/OSVOS-TensorFlow)
+- github(official): [https://github.com/kmaninis/OSVOS-caffe](https://github.com/kmaninis/OSVOS-caffe)
+- github(official): [https://github.com/scaelles/OSVOS-TensorFlow](https://github.com/scaelles/OSVOS-TensorFlow)
+- github(official): [https://github.com/kmaninis/OSVOS-PyTorch](https://github.com/kmaninis/OSVOS-PyTorch)
 
 **Video Object Segmentation Without Temporal Information**
 

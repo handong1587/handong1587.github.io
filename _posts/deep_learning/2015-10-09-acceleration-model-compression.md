@@ -493,6 +493,11 @@ at INT8 deep learning operations than other FPGA DSP architectures"
 
 [https://arxiv.org/abs/1801.07365](https://arxiv.org/abs/1801.07365)
 
+**Recovering from Random Pruning: On the Plasticity of Deep Convolutional Neural Networks**
+
+- intro: WACV 2018
+- arxiv: [https://arxiv.org/abs/1801.10447](https://arxiv.org/abs/1801.10447)
+
 # Quantized Neural Networks
 
 **Quantized Convolutional Neural Networks for Mobile Devices**

@@ -489,6 +489,10 @@ extract saptio-temporal features to represent the video using the CNNs."
 
 [https://arxiv.org/abs/1801.07230](https://arxiv.org/abs/1801.07230)
 
+**A Fusion of Appearance based CNNs and Temporal evolution of Skeleton with LSTM for Daily Living Action Recognition**
+
+[https://arxiv.org/abs/1802.00421](https://arxiv.org/abs/1802.00421)
+
 ### Projects
 
 **A Torch Library for Action Recognition and Detection Using CNNs and LSTMs**
@@ -759,6 +763,11 @@ alleviates the problem of video browsing, editing and indexing.
 **Real-Time Video Highlights for Yahoo Esports**
 
 - arxiv: [https://arxiv.org/abs/1611.08780](https://arxiv.org/abs/1611.08780)
+
+**A Deep Ranking Model for Spatio-Temporal Highlight Detection from a 360 Video**
+
+- intro: AAAI 2018
+- arxiv: [https://arxiv.org/abs/1801.10312](https://arxiv.org/abs/1801.10312)
 
 # Video Understanding
 

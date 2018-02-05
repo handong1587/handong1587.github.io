@@ -182,6 +182,14 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 - project page: [http://bvision11.cs.unc.edu/bigpen/yipin/WACV2018/](http://bvision11.cs.unc.edu/bigpen/yipin/WACV2018/)
 - arxiv: [https://arxiv.org/abs/1801.09042](https://arxiv.org/abs/1801.09042)
 
+**Deep Neural Networks In Fully Connected CRF For Image Labeling With Social Network Metadata**
+
+[https://arxiv.org/abs/1801.09108](https://arxiv.org/abs/1801.09108)
+
+**Single Image Reflection Removal Using Deep Encoder-Decoder Network**
+
+[https://arxiv.org/abs/1802.00094](https://arxiv.org/abs/1802.00094)
+
 # Boundary / Edge / Contour Detection
 
 **Holistically-Nested Edge Detection**
@@ -325,6 +333,11 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 **Learning Face Age Progression: A Pyramid Architecture of GANs**
 
 [https://arxiv.org/abs/1711.10352](https://arxiv.org/abs/1711.10352)
+
+**Face Aging with Contextual Generative Adversarial Nets**
+
+- intro: ACM Multimedia 2017
+- arxiv: [https://arxiv.org/abs/1802.00237](https://arxiv.org/abs/1802.00237)
 
 # Emotion Recognition / Expression Recognition
 
@@ -567,6 +580,19 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 
 - intro: Ranked first in ICCV 2017 PoseTrack challenge (keypoint tracking in videos)
 - arxiv: [https://arxiv.org/abs/1712.09184](https://arxiv.org/abs/1712.09184)
+
+**DenseReg: Fully Convolutional Dense Shape Regression In-the-Wild**
+
+- intro: CVPR 2017
+- project page: [http://alpguler.com/DenseReg.html](http://alpguler.com/DenseReg.html)
+- arxiv: [https://arxiv.org/abs/1612.01202](https://arxiv.org/abs/1612.01202)
+- github: [https://github.com/ralpguler/DenseReg](https://github.com/ralpguler/DenseReg)
+
+**DensePose: Dense Human Pose Estimation In The Wild**
+
+- intro: INRIA & Facebook AI Research
+- project page: [http://densepose.org/](http://densepose.org/)
+- arxiv: [https://arxiv.org/abs/1802.00434](https://arxiv.org/abs/1802.00434)
 
 # Sentiment Analysis / Sentiment Prediction
 
@@ -1338,6 +1364,11 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 
 - intro: Peking Univeristy
 - arxiv: [https://arxiv.org/abs/1712.05927](https://arxiv.org/abs/1712.05927)
+
+**SESR: Single Image Super Resolution with Recursive Squeeze and Excitation Networks**
+
+- intro: ICPR 2018
+- arxiv: [https://arxiv.org/abs/1801.10319](https://arxiv.org/abs/1801.10319)
 
 ## Video Super-resolution
 

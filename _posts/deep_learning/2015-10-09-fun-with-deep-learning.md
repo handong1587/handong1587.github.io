@@ -667,6 +667,10 @@ Compressed model is less than 500KB
 - intro: University of Tokyo
 - arxiv: [https://arxiv.org/abs/1706.06918](https://arxiv.org/abs/1706.06918)
 
+**Interactive Deep Colorization With Simultaneous Global and Local Inputs**
+
+[https://arxiv.org/abs/1801.09083](https://arxiv.org/abs/1801.09083)
+
 # Sounds
 
 **Visually Indicated Sounds**

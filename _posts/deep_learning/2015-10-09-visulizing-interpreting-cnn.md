@@ -1,7 +1,7 @@
 ---
 layout: post
 category: deep_learning
-title: Visualize Convolutional Neural Network
+title: Visualizing and Interpreting Convolutional Neural Network
 date: 2015-10-09
 ---
 
@@ -157,19 +157,6 @@ date: 2015-10-09
 - intro: Georgia Tech & Facebook
 - arxiv: [https://arxiv.org/abs/1704.01942](https://arxiv.org/abs/1704.01942)
 
-**Network Dissection: Quantifying Interpretability of Deep Visual Representations**
-
-![](http://netdissect.csail.mit.edu/image/dissect-arch.png)
-
-- intro: CVPR 2017 oral. MIT
-- project page: [http://netdissect.csail.mit.edu/](http://netdissect.csail.mit.edu/)
-- arxiv: [https://arxiv.org/abs/1704.05796](https://arxiv.org/abs/1704.05796)
-- github: [https://github.com/CSAILVision/NetDissect](https://github.com/CSAILVision/NetDissect)
-
-**Interpreting Deep Visual Representations via Network Dissection**
-
-[https://arxiv.org/abs/1711.05611](https://arxiv.org/abs/1711.05611)
-
 **Picasso: A Neural Network Visualizer**
 
 - arxiv: [https://arxiv.org/abs/1705.05627](https://arxiv.org/abs/1705.05627)
@@ -203,6 +190,59 @@ date: 2015-10-09
 
 - intro: University of Maryland & United States Naval Academy
 - arxiv: [https://arxiv.org/abs/1712.09913](https://arxiv.org/abs/1712.09913)
+
+## Interpreting Convolutional Neural Networks
+
+**Network Dissection: Quantifying Interpretability of Deep Visual Representations**
+
+![](http://netdissect.csail.mit.edu/image/dissect-arch.png)
+
+- intro: CVPR 2017 oral. MIT
+- project page: [http://netdissect.csail.mit.edu/](http://netdissect.csail.mit.edu/)
+- arxiv: [https://arxiv.org/abs/1704.05796](https://arxiv.org/abs/1704.05796)
+- github: [https://github.com/CSAILVision/NetDissect](https://github.com/CSAILVision/NetDissect)
+
+**Interpreting Deep Visual Representations via Network Dissection**
+
+[https://arxiv.org/abs/1711.05611](https://arxiv.org/abs/1711.05611)
+
+**Methods for Interpreting and Understanding Deep Neural Networks**
+
+- intro: Technische Universit¨at Berlin & Fraunhofer Heinrich Hertz Institute
+- arxiv: [https://arxiv.org/abs/1706.07979](https://arxiv.org/abs/1706.07979)
+
+**SVCCA: Singular Vector Canonical Correlation Analysis for Deep Learning Dynamics and Interpretability**
+
+- intro: NIPS 2017. Google Brain & Uber AI Labs
+- arxiv: [https://arxiv.org/abs/1706.05806](https://arxiv.org/abs/1706.05806)
+- github: [https://github.com/google/svcca/](https://github.com/google/svcca/)
+- blog: [https://research.googleblog.com/2017/11/interpreting-deep-neural-networks-with.html](https://research.googleblog.com/2017/11/interpreting-deep-neural-networks-with.html)
+
+**Towards Interpretable Deep Neural Networks by Leveraging Adversarial Examples**
+
+- intro: Tsinghua University
+- arxiv: [https://arxiv.org/abs/1708.05493](https://arxiv.org/abs/1708.05493)
+
+**Interpretable Convolutional Neural Networks**
+
+[https://arxiv.org/abs/1710.00935](https://arxiv.org/abs/1710.00935)
+
+**Interpreting Convolutional Neural Networks Through Compression**
+
+- intro: NIPS 2017 Symposium on Interpretable Machine Learning
+- arxiv: [https://arxiv.org/abs/1711.02329](https://arxiv.org/abs/1711.02329)
+
+**Interpreting Deep Neural Networks**
+
+- blog: [http://www.shallowmind.co/jekyll/pixyll/2017/12/30/tree-regularization/](http://www.shallowmind.co/jekyll/pixyll/2017/12/30/tree-regularization/)
+
+**Interpreting CNNs via Decision Trees**
+
+[https://arxiv.org/abs/1802.00121](https://arxiv.org/abs/1802.00121)
+
+**Visual Interpretability for Deep Learning: a Survey**
+
+[https://arxiv.org/abs/1802.00614](https://arxiv.org/abs/1802.00614)
 
 # Projects
 

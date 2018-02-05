@@ -1411,33 +1411,6 @@ with fast exact probabilistic inference over many layers."
 - keywords: curricular learning, deep learning, deep q-learning
 - arxiv: [https://arxiv.org/abs/1801.00904](https://arxiv.org/abs/1801.00904)
 
-## Interpreting Convolutional Neural Networks
-
-**SVCCA: Singular Vector Canonical Correlation Analysis for Deep Learning Dynamics and Interpretability**
-
-- intro: NIPS 2017. Google Brain & Uber AI Labs
-- arxiv: [https://arxiv.org/abs/1706.05806](https://arxiv.org/abs/1706.05806)
-- github: [https://github.com/google/svcca/](https://github.com/google/svcca/)
-- blog: [https://research.googleblog.com/2017/11/interpreting-deep-neural-networks-with.html](https://research.googleblog.com/2017/11/interpreting-deep-neural-networks-with.html)
-
-**Towards Interpretable Deep Neural Networks by Leveraging Adversarial Examples**
-
-- intro: Tsinghua University
-- arxiv: [https://arxiv.org/abs/1708.05493](https://arxiv.org/abs/1708.05493)
-
-**Interpretable Convolutional Neural Networks**
-
-[https://arxiv.org/abs/1710.00935](https://arxiv.org/abs/1710.00935)
-
-**Interpreting Convolutional Neural Networks Through Compression**
-
-- intro: NIPS 2017 Symposium on Interpretable Machine Learning
-- arxiv: [https://arxiv.org/abs/1711.02329](https://arxiv.org/abs/1711.02329)
-
-**Interpreting Deep Neural Networks**
-
-- blog: [http://www.shallowmind.co/jekyll/pixyll/2017/12/30/tree-regularization/](http://www.shallowmind.co/jekyll/pixyll/2017/12/30/tree-regularization/)
-
 ## Convolutions / Filters
 
 **Warped Convolutions: Efficient Invariance to Spatial Transformations**
@@ -1466,6 +1439,12 @@ with fast exact probabilistic inference over many layers."
 **Sparsely Connected Convolutional Networks**
 
 [https://arxiv.org/abs/1801.05895](https://arxiv.org/abs/1801.05895)
+
+**Spherical CNNs**
+
+- intro: ICLR 2018
+- arxiv: [https://arxiv.org/abs/1801.10130](https://arxiv.org/abs/1801.10130)
+- github(official, PyTorch): [https://github.com/jonas-koehler/s2cnn](https://github.com/jonas-koehler/s2cnn)
 
 ## Highway Networks
 
@@ -2245,11 +2224,6 @@ with fast exact probabilistic inference over many layers."
 - keywords: deep mutual learning (DML)
 - arxiv: [https://arxiv.org/abs/1706.00384](https://arxiv.org/abs/1706.00384)
 
-**Methods for Interpreting and Understanding Deep Neural Networks**
-
-- intro: Technische Universit¨at Berlin & Fraunhofer Heinrich Hertz Institute
-- arxiv: [https://arxiv.org/abs/1706.07979](https://arxiv.org/abs/1706.07979)
-
 **Automated Problem Identification: Regression vs Classification via Evolutionary Deep Networks**
 
 - intro: University of Cape Town
@@ -2275,13 +2249,6 @@ with fast exact probabilistic inference over many layers."
 - intro: Free University of Berlin
 - arxiv: [https://arxiv.org/abs/1707.07287](https://arxiv.org/abs/1707.07287)
 
-**DenseReg: Fully Convolutional Dense Shape Regression In-the-Wild**
-
-- intro: CVPR 2017
-- project page: [http://alpguler.com/DenseReg.html](http://alpguler.com/DenseReg.html)
-- arxiv: [https://arxiv.org/abs/1612.01202](https://arxiv.org/abs/1612.01202)
-- github: [https://github.com/ralpguler/DenseReg](https://github.com/ralpguler/DenseReg)
-
 **Generalizing the Convolution Operator in Convolutional Neural Networks**
 
 [https://arxiv.org/abs/1707.09864](https://arxiv.org/abs/1707.09864)
@@ -2303,6 +2270,7 @@ with fast exact probabilistic inference over many layers."
 - intro: Sara Sabour, Nicholas Frosst, Geoffrey E Hinton
 - intro: Google Brain, Toronto
 - arxiv: [https://arxiv.org/abs/1710.09829](https://arxiv.org/abs/1710.09829)
+- github(official, Tensorflow): [https://github.com/Sarasra/models/tree/master/research/capsules](https://github.com/Sarasra/models/tree/master/research/capsules)
 
 **Capsule Networks (CapsNets) – Tutorial**
 
@@ -2342,6 +2310,10 @@ with fast exact probabilistic inference over many layers."
 
 - intro: University of California, Davis
 - arxiv: [https://arxiv.org/abs/1801.02850](https://arxiv.org/abs/1801.02850)
+
+**Towards an Understanding of Neural Networks in Natural-Image Spaces**
+
+[https://arxiv.org/abs/1801.09097](https://arxiv.org/abs/1801.09097)
 
 ## Tutorials and Surveys
 
