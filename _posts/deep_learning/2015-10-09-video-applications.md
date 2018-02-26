@@ -493,6 +493,10 @@ extract saptio-temporal features to represent the video using the CNNs."
 
 [https://arxiv.org/abs/1802.00421](https://arxiv.org/abs/1802.00421)
 
+**Real-Time End-to-End Action Detection with Two-Stream Networks**
+
+[https://arxiv.org/abs/1802.08362](https://arxiv.org/abs/1802.08362)
+
 ### Projects
 
 **A Torch Library for Action Recognition and Detection Using CNNs and LSTMs**

@@ -302,6 +302,10 @@ date: 2015-10-09
 - arxiv: [https://arxiv.org/abs/1712.02616](https://arxiv.org/abs/1712.02616)
 - github: [https://github.com/mapillary/inplace_abn](https://github.com/mapillary/inplace_abn)
 
+**Batch Kalman Normalization: Towards Training Deep Neural Networks with Micro-Batches**
+
+[https://arxiv.org/abs/1802.03133](https://arxiv.org/abs/1802.03133)
+
 ### Backward pass of BN
 
 **Understanding the backward pass through Batch Normalization Layer**
@@ -834,6 +838,10 @@ date: 2015-10-09
 
 - intro: University of Notre Dame & University of Science and Technology of China
 - arxiv: [https://arxiv.org/abs/1612.01490](https://arxiv.org/abs/1612.01490)
+
+**ShakeDrop regularization**
+
+[https://arxiv.org/abs/1802.02375](https://arxiv.org/abs/1802.02375)
 
 # Gradient Descent
 

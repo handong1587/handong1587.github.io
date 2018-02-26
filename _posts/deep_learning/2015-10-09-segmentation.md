@@ -134,6 +134,10 @@ date: 2015-10-09
 - arxiv: [https://arxiv.org/abs/1801.05746](https://arxiv.org/abs/1801.05746)
 - github: [https://github.com/ternaus/TernausNet](https://github.com/ternaus/TernausNet)
 
+**Piecewise Flat Embedding for Image Segmentation**
+
+[https://arxiv.org/abs/1802.03248](https://arxiv.org/abs/1802.03248)
+
 # Foreground Object Segmentation
 
 **Pixel Objectness**
@@ -1170,6 +1174,11 @@ ranked 1st place in ImageNet Scene Parsing Challenge 2016
 
 - intro: Facebook AI Research (FAIR) & Heidelberg University
 - arxiv: [https://arxiv.org/abs/1801.00868](https://arxiv.org/abs/1801.00868)
+
+**Efficient Video Object Segmentation via Network Modulation**
+
+- intro: Snap Inc. & Northwestern University & Google Inc.
+- arxiv: [https://arxiv.org/abs/1802.01218](https://arxiv.org/abs/1802.01218)
 
 ## Challenge
 

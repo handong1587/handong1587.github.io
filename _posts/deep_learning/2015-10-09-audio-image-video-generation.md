@@ -203,6 +203,11 @@ date: 2015-10-09
 
 [https://arxiv.org/abs/1801.05551](https://arxiv.org/abs/1801.05551)
 
+**Image Transformer**
+
+- intro: Google Brain & UC Berkeley
+- arxiv: [https://arxiv.org/abs/1802.05751](https://arxiv.org/abs/1802.05751)
+
 # Face Image Generation
 
 **Fader Networks: Manipulating Images by Sliding Attributes**

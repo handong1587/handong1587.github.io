@@ -294,6 +294,15 @@ date: 2015-10-09
 
 [https://arxiv.org/abs/1801.03493](https://arxiv.org/abs/1801.03493)
 
+**From Selective Deep Convolutional Features to Compact Binary Representations for Image Retrieval**
+
+[https://arxiv.org/abs/1802.02899](https://arxiv.org/abs/1802.02899)
+
+**Web-Scale Responsive Visual Search at Bing**
+
+- intro: Microsoft
+- arxiv: [https://arxiv.org/abs/1802.04914](https://arxiv.org/abs/1802.04914)
+
 # Hashing
 
 **Supervised Hashing for Image Retrieval via Image Representation Learning**
@@ -464,6 +473,14 @@ date: 2015-10-09
 **Dual Asymmetric Deep Hashing Learning**
 
 [https://arxiv.org/abs/1801.08360](https://arxiv.org/abs/1801.08360)
+
+**Attribute-Guided Network for Cross-Modal Zero-Shot Hashing**
+
+[https://arxiv.org/abs/1802.01943](https://arxiv.org/abs/1802.01943)
+
+**Deep Reinforcement Learning for Image Hashing**
+
+[https://arxiv.org/abs/1802.02904](https://arxiv.org/abs/1802.02904)
 
 # Cross Modal Retrieval
 

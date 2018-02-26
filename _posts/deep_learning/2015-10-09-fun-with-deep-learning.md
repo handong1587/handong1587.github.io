@@ -326,6 +326,14 @@ Compressed model is less than 500KB
 
 [https://arxiv.org/abs/1801.01933](https://arxiv.org/abs/1801.01933)
 
+**Face Destylization**
+
+[https://arxiv.org/abs/1802.01237](https://arxiv.org/abs/1802.01237)
+
+**Unsupervised Typography Transfer**
+
+[https://arxiv.org/abs/1802.02595](https://arxiv.org/abs/1802.02595)
+
 ## Neural Art On Audio
 
 **MSc AI Project on generative deep networks and neural style transfer for audio**

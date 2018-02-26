@@ -348,7 +348,74 @@ not just the convolutions)
 - arxiv: [https://arxiv.org/abs/1711.09224](https://arxiv.org/abs/1711.09224)
 - github: [https://github.com//ShichenLiu/CondenseNet](https://github.com//ShichenLiu/CondenseNet)
 
-# SENet
+## Xception
+
+**Deep Learning with Separable Convolutions**
+
+**Xception: Deep Learning with Depthwise Separable Convolutions**
+
+- intro: CVPR 2017. Extreme Inception
+- arxiv: [https://arxiv.org/abs/1610.02357](https://arxiv.org/abs/1610.02357)
+- code: [https://keras.io/applications/#xception](https://keras.io/applications/#xception)
+- github(Keras): [https://github.com/fchollet/deep-learning-models/blob/master/xception.py](https://github.com/fchollet/deep-learning-models/blob/master/xception.py)
+- github: [https://gist.github.com/culurciello/554c8e56d3bbaf7c66bf66c6089dc221](https://gist.github.com/culurciello/554c8e56d3bbaf7c66bf66c6089dc221)
+- github: [https://github.com/kwotsin/Tensorflow-Xception](https://github.com/kwotsin/Tensorflow-Xception)
+- github: [https://github.com//bruinxiong/xception.mxnet](https://github.com//bruinxiong/xception.mxnet)
+- notes: [http://www.shortscience.org/paper?bibtexKey=journals%2Fcorr%2F1610.02357](http://www.shortscience.org/paper?bibtexKey=journals%2Fcorr%2F1610.02357)
+
+**Towards a New Interpretation of Separable Convolutions**
+
+- arxiv: [https://arxiv.org/abs/1701.04489](https://arxiv.org/abs/1701.04489)
+
+## MobileNets
+
+**MobileNets: Efficient Convolutional Neural Networks for Mobile Vision Applications**
+
+- intro: Google
+- arxiv: [https://arxiv.org/abs/1704.04861](https://arxiv.org/abs/1704.04861)
+- github: [https://github.com/rcmalli/keras-mobilenet](https://github.com/rcmalli/keras-mobilenet)
+- github: [https://github.com/marvis/pytorch-mobilenet](https://github.com/marvis/pytorch-mobilenet)
+- github(Tensorflow): [https://github.com/Zehaos/MobileNet](https://github.com/Zehaos/MobileNet)
+- github: [https://github.com/shicai/MobileNet-Caffe](https://github.com/shicai/MobileNet-Caffe)
+- github: [https://github.com/hollance/MobileNet-CoreML](https://github.com/hollance/MobileNet-CoreML)
+- github: [https://github.com/KeyKy/mobilenet-mxnet](https://github.com/KeyKy/mobilenet-mxnet)
+
+**MobileNets: Open-Source Models for Efficient On-Device Vision**
+
+- blog: [https://research.googleblog.com/2017/06/mobilenets-open-source-models-for.html](https://research.googleblog.com/2017/06/mobilenets-open-source-models-for.html)
+- github: [https://github.com/tensorflow/models/blob/master/slim/nets/mobilenet_v1.md](https://github.com/tensorflow/models/blob/master/slim/nets/mobilenet_v1.md)
+
+**Google’s MobileNets on the iPhone**
+
+- blog: [http://machinethink.net/blog/googles-mobile-net-architecture-on-iphone/](http://machinethink.net/blog/googles-mobile-net-architecture-on-iphone/)
+- github: [https://github.com/hollance/MobileNet-CoreML](https://github.com/hollance/MobileNet-CoreML)
+
+**ShuffleNet: An Extremely Efficient Convolutional Neural Network for Mobile Devices**
+
+- intro: Megvii Inc (Face++)
+- arxiv: [https://arxiv.org/abs/1707.01083](https://arxiv.org/abs/1707.01083)
+
+**Depth_conv-for-mobileNet**
+
+[https://github.com//LamHoCN/Depth_conv-for-mobileNet](https://github.com//LamHoCN/Depth_conv-for-mobileNet)
+
+**The Enhanced Hybrid MobileNet**
+
+[https://arxiv.org/abs/1712.04698](https://arxiv.org/abs/1712.04698)
+
+**FD-MobileNet: Improved MobileNet with a Fast Downsampling Strategy**
+
+[https://arxiv.org/abs/1802.03750](https://arxiv.org/abs/1802.03750)
+
+## MobileNetV2
+
+**Inverted Residuals and Linear Bottlenecks: Mobile Networks forClassification, Detection and Segmentation**
+
+- intro: Google
+- keywords: MobileNetV2, SSDLite, DeepLabv3
+- arxiv: [https://arxiv.org/abs/1801.04381](https://arxiv.org/abs/1801.04381)
+
+## SENet
 
 **Squeeze-and-Excitation Networks**
 
@@ -861,7 +928,9 @@ not just the convolutions)
 
 **One pixel attack for fooling deep neural networks**
 
-[https://arxiv.org/abs/1710.08864](https://arxiv.org/abs/1710.08864)
+- intro: Kyushu University
+- arxiv: [https://arxiv.org/abs/1710.08864](https://arxiv.org/abs/1710.08864)
+- github: [https://github.com/Hyperparticle/one-pixel-attack-keras](https://github.com/Hyperparticle/one-pixel-attack-keras)
 
 **Enhanced Attacks on Defensively Distilled Deep Neural Networks**
 
@@ -963,6 +1032,11 @@ not just the convolutions)
 
 - intro: Bar-Ilan University & DeepMind
 - arxiv: [https://arxiv.org/abs/1801.02608](https://arxiv.org/abs/1801.02608)
+
+**Adversarial Examples that Fool both Human and Computer Vision**
+
+- intro: Google Brain & Stanford University
+- arxiv: [https://arxiv.org/abs/1802.08195](https://arxiv.org/abs/1802.08195)
 
 # Deep Learning Networks
 
@@ -1411,11 +1485,35 @@ with fast exact probabilistic inference over many layers."
 - keywords: curricular learning, deep learning, deep q-learning
 - arxiv: [https://arxiv.org/abs/1801.00904](https://arxiv.org/abs/1801.00904)
 
+**Sparsely Connected Convolutional Networks**
+
+[https://arxiv.org/abs/1801.05895](https://arxiv.org/abs/1801.05895)
+
+**Spherical CNNs**
+
+- intro: ICLR 2018
+- arxiv: [https://arxiv.org/abs/1801.10130](https://arxiv.org/abs/1801.10130)
+- github(official, PyTorch): [https://github.com/jonas-koehler/s2cnn](https://github.com/jonas-koehler/s2cnn)
+
+**Going Deeper in Spiking Neural Networks: VGG and Residual Architectures**
+
+- intro: Purdue University & Oculus Research & Facebook Research
+- arxiv: [https://arxiv.org/abs/1802.02627](https://arxiv.org/abs/1802.02627)
+
+**Rotate your Networks: Better Weight Consolidation and Less Catastrophic Forgetting**
+
+[https://arxiv.org/abs/1802.02950](https://arxiv.org/abs/1802.02950)
+
 ## Convolutions / Filters
 
 **Warped Convolutions: Efficient Invariance to Spatial Transformations**
 
 - arxiv: [http://arxiv.org/abs/1609.04382](http://arxiv.org/abs/1609.04382)
+
+**Coordinating Filters for Faster Deep Neural Networks**
+
+- arxiv: [https://arxiv.org/abs/1703.09746](https://arxiv.org/abs/1703.09746)
+- github: [https://github.com/wenwei202/caffe/tree/sfm](https://github.com/wenwei202/caffe/tree/sfm)
 
 **Shift: A Zero FLOP, Zero Parameter Alternative to Spatial Convolutions**
 
@@ -1431,20 +1529,9 @@ with fast exact probabilistic inference over many layers."
 
 [https://arxiv.org/abs/1712.06145](https://arxiv.org/abs/1712.06145)
 
-**Non-Parametric Transformation Networks**
+**DCFNet: Deep Neural Network with Decomposed Convolutional Filters**
 
-- intro: CMU
-- arxiv: [https://arxiv.org/abs/1801.04520](https://arxiv.org/abs/1801.04520)
-
-**Sparsely Connected Convolutional Networks**
-
-[https://arxiv.org/abs/1801.05895](https://arxiv.org/abs/1801.05895)
-
-**Spherical CNNs**
-
-- intro: ICLR 2018
-- arxiv: [https://arxiv.org/abs/1801.10130](https://arxiv.org/abs/1801.10130)
-- github(official, PyTorch): [https://github.com/jonas-koehler/s2cnn](https://github.com/jonas-koehler/s2cnn)
+[https://arxiv.org/abs/1802.04145](https://arxiv.org/abs/1802.04145)
 
 ## Highway Networks
 
@@ -1507,6 +1594,11 @@ with fast exact probabilistic inference over many layers."
 
 [https://arxiv.org/abs/1712.02400](https://arxiv.org/abs/1712.02400)
 
+**Non-Parametric Transformation Networks**
+
+- intro: CMU
+- arxiv: [https://arxiv.org/abs/1801.04520](https://arxiv.org/abs/1801.04520)
+
 **Hierarchical Spatial Transformer Network**
 
 [https://arxiv.org/abs/1801.09467](https://arxiv.org/abs/1801.09467)
@@ -1544,6 +1636,10 @@ with fast exact probabilistic inference over many layers."
 - blog: [https://lab.wallarm.com/the-first-step-by-step-guide-for-implementing-neural-architecture-search-with-reinforcement-99ade71b3d28](https://lab.wallarm.com/the-first-step-by-step-guide-for-implementing-neural-architecture-search-with-reinforcement-99ade71b3d28)
 - github: [https://github.com/wallarm/nascell-automl](https://github.com/wallarm/nascell-automl)
 
+**Practical Network Blocks Design with Q-Learning**
+
+[https://arxiv.org/abs/1708.05552](https://arxiv.org/abs/1708.05552)
+
 **Simple And Efficient Architecture Search for Convolutional Neural Networks**
 
 - intro: Bosch Center for Artificial Intelligence & University of Freiburg
@@ -1558,6 +1654,20 @@ with fast exact probabilistic inference over many layers."
 
 - intro: IBM Research AI – Ireland
 - arxiv: [https://arxiv.org/abs/1712.07420](https://arxiv.org/abs/1712.07420)
+
+**Regularized Evolution for Image Classifier Architecture Search**
+
+[https://arxiv.org/abs/1802.01548](https://arxiv.org/abs/1802.01548)
+
+**Efficient Neural Architecture Search via Parameters Sharing**
+
+- intro: Google Brain & CMU & Stanford University
+- arxiv: [https://arxiv.org/abs/1802.03268](https://arxiv.org/abs/1802.03268)
+
+**Neural Architecture Search with Bayesian Optimisation and Optimal Transport**
+
+- intro: CMU
+- arxiv: [https://arxiv.org/abs/1802.07191](https://arxiv.org/abs/1802.07191)
 
 ## Graph Convolutional Networks
 
@@ -2204,11 +2314,6 @@ with fast exact probabilistic inference over many layers."
 - github: [https://github.com/edouardoyallon/scalingscattering](https://github.com/edouardoyallon/scalingscattering)
 - github(CuPy/PyTorch): [https://github.com/edouardoyallon/pyscatwave](https://github.com/edouardoyallon/pyscatwave)
 
-**Coordinating Filters for Faster Deep Neural Networks**
-
-- arxiv: [https://arxiv.org/abs/1703.09746](https://arxiv.org/abs/1703.09746)
-- github: [https://github.com/wenwei202/caffe/tree/sfm](https://github.com/wenwei202/caffe/tree/sfm)
-
 **Deep Learning is Robust to Massive Label Noise**
 
 [https://arxiv.org/abs/1705.10694](https://arxiv.org/abs/1705.10694)
@@ -2261,27 +2366,6 @@ with fast exact probabilistic inference over many layers."
 
 [https://arxiv.org/abs/1707.09669](https://arxiv.org/abs/1707.09669)
 
-**Practical Network Blocks Design with Q-Learning**
-
-[https://arxiv.org/abs/1708.05552](https://arxiv.org/abs/1708.05552)
-
-**Dynamic Routing Between Capsules**
-
-- intro: Sara Sabour, Nicholas Frosst, Geoffrey E Hinton
-- intro: Google Brain, Toronto
-- arxiv: [https://arxiv.org/abs/1710.09829](https://arxiv.org/abs/1710.09829)
-- github(official, Tensorflow): [https://github.com/Sarasra/models/tree/master/research/capsules](https://github.com/Sarasra/models/tree/master/research/capsules)
-
-**Capsule Networks (CapsNets) – Tutorial**
-
-- youtube: [https://www.youtube.com/watch?v=pPN8d0E3900](https://www.youtube.com/watch?v=pPN8d0E3900)
-- mirror: [http://www.bilibili.com/video/av16594836/](http://www.bilibili.com/video/av16594836/)
-
-**CNNs are Globally Optimal Given Multi-Layer Support**
-
-- intro: CMU
-- arxiv: [https://arxiv.org/abs/1712.02501](https://arxiv.org/abs/1712.02501)
-
 **Take it in your stride: Do we need striding in CNNs?**
 
 [https://arxiv.org/abs/1712.02502](https://arxiv.org/abs/1712.02502)
@@ -2314,6 +2398,10 @@ with fast exact probabilistic inference over many layers."
 **Towards an Understanding of Neural Networks in Natural-Image Spaces**
 
 [https://arxiv.org/abs/1801.09097](https://arxiv.org/abs/1801.09097)
+
+**Deep Private-Feature Extraction**
+
+[https://arxiv.org/abs/1802.03151](https://arxiv.org/abs/1802.03151)
 
 ## Tutorials and Surveys
 
@@ -2355,6 +2443,11 @@ with fast exact probabilistic inference over many layers."
 - intro: Loyola Marymount University & California State University
 - arxiv: [https://arxiv.org/abs/1712.01473](https://arxiv.org/abs/1712.01473)
 
+**CNNs are Globally Optimal Given Multi-Layer Support**
+
+- intro: CMU
+- arxiv: [https://arxiv.org/abs/1712.02501](https://arxiv.org/abs/1712.02501)
+
 **Spurious Local Minima are Common in Two-Layer ReLU Neural Networks**
 
 [https://arxiv.org/abs/1712.08968](https://arxiv.org/abs/1712.08968)
@@ -2377,67 +2470,6 @@ with fast exact probabilistic inference over many layers."
 **Design of Efficient Convolutional Layers using Single Intra-channel Convolution, Topological Subdivisioning and Spatial "Bottleneck" Structure**
 
 - arxiv: [http://arxiv.org/abs/1608.04337](http://arxiv.org/abs/1608.04337)
-
-**Deep Learning with Separable Convolutions**
-
-**Xception: Deep Learning with Depthwise Separable Convolutions**
-
-- intro: CVPR 2017. Extreme Inception
-- arxiv: [https://arxiv.org/abs/1610.02357](https://arxiv.org/abs/1610.02357)
-- code: [https://keras.io/applications/#xception](https://keras.io/applications/#xception)
-- github(Keras): [https://github.com/fchollet/deep-learning-models/blob/master/xception.py](https://github.com/fchollet/deep-learning-models/blob/master/xception.py)
-- github: [https://gist.github.com/culurciello/554c8e56d3bbaf7c66bf66c6089dc221](https://gist.github.com/culurciello/554c8e56d3bbaf7c66bf66c6089dc221)
-- github: [https://github.com/kwotsin/Tensorflow-Xception](https://github.com/kwotsin/Tensorflow-Xception)
-- github: [https://github.com//bruinxiong/xception.mxnet](https://github.com//bruinxiong/xception.mxnet)
-- notes: [http://www.shortscience.org/paper?bibtexKey=journals%2Fcorr%2F1610.02357](http://www.shortscience.org/paper?bibtexKey=journals%2Fcorr%2F1610.02357)
-
-**Towards a New Interpretation of Separable Convolutions**
-
-- arxiv: [https://arxiv.org/abs/1701.04489](https://arxiv.org/abs/1701.04489)
-
-## MobileNets
-
-**MobileNets: Efficient Convolutional Neural Networks for Mobile Vision Applications**
-
-- intro: Google
-- arxiv: [https://arxiv.org/abs/1704.04861](https://arxiv.org/abs/1704.04861)
-- github: [https://github.com/rcmalli/keras-mobilenet](https://github.com/rcmalli/keras-mobilenet)
-- github: [https://github.com/marvis/pytorch-mobilenet](https://github.com/marvis/pytorch-mobilenet)
-- github(Tensorflow): [https://github.com/Zehaos/MobileNet](https://github.com/Zehaos/MobileNet)
-- github: [https://github.com/shicai/MobileNet-Caffe](https://github.com/shicai/MobileNet-Caffe)
-- github: [https://github.com/hollance/MobileNet-CoreML](https://github.com/hollance/MobileNet-CoreML)
-- github: [https://github.com/KeyKy/mobilenet-mxnet](https://github.com/KeyKy/mobilenet-mxnet)
-
-**MobileNets: Open-Source Models for Efficient On-Device Vision**
-
-- blog: [https://research.googleblog.com/2017/06/mobilenets-open-source-models-for.html](https://research.googleblog.com/2017/06/mobilenets-open-source-models-for.html)
-- github: [https://github.com/tensorflow/models/blob/master/slim/nets/mobilenet_v1.md](https://github.com/tensorflow/models/blob/master/slim/nets/mobilenet_v1.md)
-
-**Google’s MobileNets on the iPhone**
-
-- blog: [http://machinethink.net/blog/googles-mobile-net-architecture-on-iphone/](http://machinethink.net/blog/googles-mobile-net-architecture-on-iphone/)
-- github: [https://github.com/hollance/MobileNet-CoreML](https://github.com/hollance/MobileNet-CoreML)
-
-**ShuffleNet: An Extremely Efficient Convolutional Neural Network for Mobile Devices**
-
-- intro: Megvii Inc (Face++)
-- arxiv: [https://arxiv.org/abs/1707.01083](https://arxiv.org/abs/1707.01083)
-
-**Depth_conv-for-mobileNet**
-
-[https://github.com//LamHoCN/Depth_conv-for-mobileNet](https://github.com//LamHoCN/Depth_conv-for-mobileNet)
-
-**The Enhanced Hybrid MobileNet**
-
-[https://arxiv.org/abs/1712.04698](https://arxiv.org/abs/1712.04698)
-
-## MobileNetV2
-
-**Inverted Residuals and Linear Bottlenecks: Mobile Networks forClassification, Detection and Segmentation**
-
-- intro: Google
-- keywords: MobileNetV2, SSDLite, DeepLabv3
-- arxiv: [https://arxiv.org/abs/1801.04381](https://arxiv.org/abs/1801.04381)
 
 ## STDP
 
@@ -2522,6 +2554,10 @@ with fast exact probabilistic inference over many layers."
 - intro: Purdue University
 - arxiv: [https://arxiv.org/abs/1712.02719](https://arxiv.org/abs/1712.02719)
 
+**Incremental Classifier Learning with Generative Adversarial Networks**
+
+[https://arxiv.org/abs/1802.00853](https://arxiv.org/abs/1802.00853)
+
 ## Ensemble Deep Learning
 
 **Convolutional Neural Fabrics**
@@ -2573,6 +2609,10 @@ with fast exact probabilistic inference over many layers."
 
 [https://arxiv.org/abs/1712.07436](https://arxiv.org/abs/1712.07436)
 
+**Deep Visual Domain Adaptation: A Survey**
+
+[https://arxiv.org/abs/1802.03601](https://arxiv.org/abs/1802.03601)
+
 ## Embedding
 
 **Learning Deep Embeddings with Histogram Loss**
@@ -2583,6 +2623,20 @@ with fast exact probabilistic inference over many layers."
 **Full-Network Embedding in a Multimodal Embedding Pipeline**
 
 [https://arxiv.org/abs/1707.09872](https://arxiv.org/abs/1707.09872)
+
+## CapsNets
+
+**Dynamic Routing Between Capsules**
+
+- intro: Sara Sabour, Nicholas Frosst, Geoffrey E Hinton
+- intro: Google Brain, Toronto
+- arxiv: [https://arxiv.org/abs/1710.09829](https://arxiv.org/abs/1710.09829)
+- github(official, Tensorflow): [https://github.com/Sarasra/models/tree/master/research/capsules](https://github.com/Sarasra/models/tree/master/research/capsules)
+
+**Capsule Networks (CapsNets) – Tutorial**
+
+- youtube: [https://www.youtube.com/watch?v=pPN8d0E3900](https://www.youtube.com/watch?v=pPN8d0E3900)
+- mirror: [http://www.bilibili.com/video/av16594836/](http://www.bilibili.com/video/av16594836/)
 
 ## Computer Vision
 

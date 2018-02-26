@@ -300,6 +300,11 @@ date: 2015-10-09
 
 [https://github.com//explosion/lightnet](https://github.com//explosion/lightnet)
 
+**YOLO v2 Bounding Box Tool**
+
+- intro: Bounding box labeler tool to generate the training data in the format YOLO v2 requires.
+- github: [https://github.com/Cartucho/yolo-boundingbox-labeler-GUI](https://github.com/Cartucho/yolo-boundingbox-labeler-GUI)
+
 - - -
 
 **AttentionNet: Aggregating Weak Directions for Accurate Object Detection**
@@ -348,6 +353,7 @@ date: 2015-10-09
 - intro: UNC Chapel Hill & Amazon Inc
 - arxiv: [https://arxiv.org/abs/1701.06659](https://arxiv.org/abs/1701.06659)
 - github: [https://github.com/chengyangfu/caffe/tree/dssd](https://github.com/chengyangfu/caffe/tree/dssd)
+- github: [https://github.com/MTCloudVision/mxnet-dssd](https://github.com/MTCloudVision/mxnet-dssd)
 - demo: [http://120.52.72.53/www.cs.unc.edu/c3pr90ntc0td/~cyfu/dssd_lalaland.mp4](http://120.52.72.53/www.cs.unc.edu/c3pr90ntc0td/~cyfu/dssd_lalaland.mp4)
 
 **Enhancement of SSD by concatenating feature maps for object detection**
@@ -381,6 +387,10 @@ date: 2015-10-09
 **Extend the shallow part of Single Shot MultiBox Detector via Convolutional Neural Network**
 
 [https://arxiv.org/abs/1801.05918](https://arxiv.org/abs/1801.05918)
+
+**Tiny SSD: A Tiny Single-shot Detection Deep Convolutional Neural Network for Real-time Embedded Object Detection**
+
+[https://arxiv.org/abs/1802.06488](https://arxiv.org/abs/1802.06488)
 
 ## Inside-Outside Net (ION)
 
@@ -789,6 +799,10 @@ Continuation of [arXiv:1608.08021](https://arxiv.org/abs/1608.08021)
 **Localization-Aware Active Learning for Object Detection**
 
 - arxiv: [https://arxiv.org/abs/1801.05124](https://arxiv.org/abs/1801.05124)
+
+**Object Detection with Mask-based Feature Encoding**
+
+[https://arxiv.org/abs/1802.03934](https://arxiv.org/abs/1802.03934)
 
 # Non-Maximum Suppression (NMS)
 
@@ -1372,6 +1386,11 @@ This task involves predicting the salient regions of an image given by human eye
 
 [https://arxiv.org/abs/1712.00721](https://arxiv.org/abs/1712.00721)
 
+**Face Detection Using Improved Faster RCNN**
+
+- intro: Huawei Cloud BU
+- arxiv: [https://arxiv.org/abs/1802.02142](https://arxiv.org/abs/1802.02142)
+
 # Person Head Detection
 
 **Context-aware CNNs for person head detection**
@@ -1451,6 +1470,11 @@ This task involves predicting the salient regions of an image given by human eye
 - intro: ECCV 2016
 - arxiv: [http://arxiv.org/abs/1607.07032](http://arxiv.org/abs/1607.07032)
 - github: [https://github.com/zhangliliang/RPN_BF/tree/RPN-pedestrian](https://github.com/zhangliliang/RPN_BF/tree/RPN-pedestrian)
+
+**Unsupervised Deep Domain Adaptation for Pedestrian Detection**
+
+- intro: ECCV Workshop 2016
+- arxiv: [https://arxiv.org/abs/1802.03269](https://arxiv.org/abs/1802.03269)
 
 **Reduced Memory Region Based Deep Convolutional Neural Network Detection**
 

@@ -138,6 +138,10 @@ date: 2015-10-09
 - intro: The University of Tokyo & RIKEN
 - arxiv: [https://arxiv.org/abs/1711.10284](https://arxiv.org/abs/1711.10284)
 
+**Deep Predictive Coding Network for Object Recognition**
+
+[https://arxiv.org/abs/1802.04762](https://arxiv.org/abs/1802.04762)
+
 # Multi-object Recognition
 
 **Multiple Object Recognition with Visual Attention**

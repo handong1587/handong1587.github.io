@@ -190,6 +190,10 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 
 [https://arxiv.org/abs/1802.00094](https://arxiv.org/abs/1802.00094)
 
+**Learning Deep Convolutional Networks for Demosaicing**
+
+[https://arxiv.org/abs/1802.03769](https://arxiv.org/abs/1802.03769)
+
 # Boundary / Edge / Contour Detection
 
 **Holistically-Nested Edge Detection**
@@ -338,6 +342,10 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 
 - intro: ACM Multimedia 2017
 - arxiv: [https://arxiv.org/abs/1802.00237](https://arxiv.org/abs/1802.00237)
+
+**Recursive Chaining of Reversible Image-to-image Translators For Face Aging**
+
+[https://arxiv.org/abs/1802.05023](https://arxiv.org/abs/1802.05023)
 
 # Emotion Recognition / Expression Recognition
 
@@ -1018,10 +1026,6 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 
 [https://arxiv.org/abs/1709.00584](https://arxiv.org/abs/1709.00584)
 
-**Learning to Inpaint for Image Compression**
-
-[https://arxiv.org/abs/1709.08855](https://arxiv.org/abs/1709.08855)
-
 **Image Inpainting using Multi-Scale Feature Image Translation**
 
 [https://arxiv.org/abs/1711.08590](https://arxiv.org/abs/1711.08590)
@@ -1370,6 +1374,10 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 - intro: ICPR 2018
 - arxiv: [https://arxiv.org/abs/1801.10319](https://arxiv.org/abs/1801.10319)
 
+**Deep Image Super Resolution via Natural Image Priors**
+
+[https://arxiv.org/abs/1802.02721](https://arxiv.org/abs/1802.02721)
+
 ## Video Super-resolution
 
 **Detail-revealing Deep Video Super-resolution**
@@ -1476,6 +1484,11 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 **Deep Burst Denoising**
 
 [https://arxiv.org/abs/1712.05790](https://arxiv.org/abs/1712.05790)
+
+**Fast, Trainable, Multiscale Denoising**
+
+- intro: Google Research
+- arxiv: [https://arxiv.org/abs/1802.06130](https://arxiv.org/abs/1802.06130)
 
 # Image Haze Removal
 
@@ -1614,6 +1627,11 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 - arxiv: [https://arxiv.org/abs/1801.05117](https://arxiv.org/abs/1801.05117)
 - supplementary: [https://drive.google.com/file/d/17Itta-z89lpWUdvUjpafKzJRSLoxHF5c/view](https://drive.google.com/file/d/17Itta-z89lpWUdvUjpafKzJRSLoxHF5c/view)
 
+**Scale-recurrent Network for Deep Image Deblurring**
+
+- intro: CUHK & Tecent & Megvii Inc.
+- arxiv: [https://arxiv.org/abs/1802.01770](https://arxiv.org/abs/1802.01770)
+
 # Image Compression
 
 **An image compression and encryption scheme based on deep learning**
@@ -1670,6 +1688,10 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 - project page: [http://www.wave.one/icml2017](http://www.wave.one/icml2017)
 - arxiv: [https://arxiv.org/abs/1705.05823](https://arxiv.org/abs/1705.05823)
 
+**Learning to Inpaint for Image Compression**
+
+[https://arxiv.org/abs/1709.08855](https://arxiv.org/abs/1709.08855)
+
 **Efficient Trimmed Convolutional Arithmetic Encoding for Lossless Image Compression**
 
 [https://arxiv.org/abs/1801.04662](https://arxiv.org/abs/1801.04662)
@@ -1689,6 +1711,11 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 **DeepSIC: Deep Semantic Image Compression**
 
 [https://arxiv.org/abs/1801.09468](https://arxiv.org/abs/1801.09468)
+
+**Spatially adaptive image compression using a tiled deep network**
+
+- intro: ICIP 2017
+- arxiv: [https://arxiv.org/abs/1802.02629](https://arxiv.org/abs/1802.02629)
 
 # Image Quality Assessment
 
@@ -2226,6 +2253,11 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 
 - arxiv: [https://arxiv.org/abs/1701.04082](https://arxiv.org/abs/1701.04082)
 - github: [https://github.com/yu4u/dnn-watermark](https://github.com/yu4u/dnn-watermark)
+
+**Digital Watermarking for Deep Neural Networks**
+
+- intro: International Journal of Multimedia Information Retrieval
+- arxiv: [https://arxiv.org/abs/1802.02601](https://arxiv.org/abs/1802.02601)
 
 # Cyber Security
 

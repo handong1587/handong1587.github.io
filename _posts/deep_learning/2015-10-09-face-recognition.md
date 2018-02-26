@@ -286,6 +286,12 @@ date: 2015-10-09
 
 [https://arxiv.org/abs/1711.06753](https://arxiv.org/abs/1711.06753)
 
+**Brute-Force Facial Landmark Analysis With A 140,000-Way Classifier**
+
+- intro: AAAI 2018
+- arxiv: [https://arxiv.org/abs/1802.01777](https://arxiv.org/abs/1802.01777)
+- github: [https://github.com/mtli/BFFL](https://github.com/mtli/BFFL)
+
 # Projects
 
 **Using MXNet for Face-related Algorithm**

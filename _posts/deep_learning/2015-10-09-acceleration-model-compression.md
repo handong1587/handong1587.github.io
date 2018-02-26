@@ -458,6 +458,14 @@ at INT8 deep learning operations than other FPGA DSP architectures"
 - intro: Aptiv & University of Wupperta
 - arxiv: [https://arxiv.org/abs/1801.06434](https://arxiv.org/abs/1801.06434)
 
+**Universal Deep Neural Network Compression**
+
+[https://arxiv.org/abs/1802.02271](https://arxiv.org/abs/1802.02271)
+
+**Paraphrasing Complex Network: Network Compression via Factor Transfer**
+
+[https://arxiv.org/abs/1802.04977](https://arxiv.org/abs/1802.04977)
+
 # Pruning
 
 **ThiNet: A Filter Level Pruning Method for Deep Neural Network Compression**
@@ -573,6 +581,14 @@ at INT8 deep learning operations than other FPGA DSP architectures"
 - intro: Singapore University of Technology and Design
 - arxiv: [https://arxiv.org/abs/1712.02956](https://arxiv.org/abs/1712.02956)
 
+**Build a Compact Binary Neural Network through Bit-level Sensitivity and Data Pruning**
+
+[https://arxiv.org/abs/1802.00904](https://arxiv.org/abs/1802.00904)
+
+**From Hashing to CNNs: Training BinaryWeight Networks via Hashing**
+
+[https://arxiv.org/abs/1802.02733](https://arxiv.org/abs/1802.02733)
+
 # Accelerating / Fast Algorithms
 
 **Fast Algorithms for Convolutional Neural Networks**
@@ -633,6 +649,10 @@ at INT8 deep learning operations than other FPGA DSP architectures"
 
 - blog: [https://jacobgil.github.io/deeplearning/tensor-decompositions-deep-learning](https://jacobgil.github.io/deeplearning/tensor-decompositions-deep-learning)
 - github: [https://github.com/jacobgil/pytorch-tensor-decompositions](https://github.com/jacobgil/pytorch-tensor-decompositions)
+
+**A Survey on Acceleration of Deep Convolutional Neural Networks**
+
+[https://arxiv.org/abs/1802.00939](https://arxiv.org/abs/1802.00939)
 
 # Knowledge Distilling / Knowledge Transfer
 

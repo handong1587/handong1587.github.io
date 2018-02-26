@@ -141,6 +141,11 @@ date: 2015-10-09
 - intro: Michigan State University & Data Science Lab
 - arxiv: [https://arxiv.org/abs/1801.00209](https://arxiv.org/abs/1801.00209)
 
+**Recommendations with Negative Feedback via Pairwise Deep Reinforcement Learning**
+
+- intro: Michigan State University & JD.com
+- arxiv: [https://arxiv.org/abs/1802.06501](https://arxiv.org/abs/1802.06501)
+
 # Slides
 
 **Deep learning for music recommendation**
