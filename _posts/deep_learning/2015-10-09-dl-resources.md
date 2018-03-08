@@ -1038,6 +1038,19 @@ not just the convolutions)
 - intro: Google Brain & Stanford University
 - arxiv: [https://arxiv.org/abs/1802.08195](https://arxiv.org/abs/1802.08195)
 
+**On the Suitability of Lp-norms for Creating and Preventing Adversarial Examples**
+
+[https://arxiv.org/abs/1802.09653](https://arxiv.org/abs/1802.09653)
+
+**Protecting JPEG Images Against Adversarial Attacks**
+
+- intro: IEEE Data Compression Conference
+- arxiv: [https://arxiv.org/abs/1803.00940](https://arxiv.org/abs/1803.00940)
+
+**Sparse Adversarial Perturbations for Videos**
+
+[https://arxiv.org/abs/1803.02536](https://arxiv.org/abs/1803.02536)
+
 # Deep Learning Networks
 
 **PCANet: A Simple Deep Learning Baseline for Image Classification?**
@@ -1503,6 +1516,12 @@ with fast exact probabilistic inference over many layers."
 **Rotate your Networks: Better Weight Consolidation and Less Catastrophic Forgetting**
 
 [https://arxiv.org/abs/1802.02950](https://arxiv.org/abs/1802.02950)
+
+**Convolutional Neural Networks with Alternately Updated Clique**
+
+- intro: CVPR 2018
+- arxiv: [https://arxiv.org/abs/1802.10419](https://arxiv.org/abs/1802.10419)
+- github: [https://github.com/iboing/CliqueNet](https://github.com/iboing/CliqueNet)
 
 ## Convolutions / Filters
 
@@ -1988,10 +2007,6 @@ with fast exact probabilistic inference over many layers."
 - code: [http://memorability.csail.mit.edu/download.html](http://memorability.csail.mit.edu/download.html)
 - reviews: [http://petapixel.com/2015/12/18/how-memorable-are-times-top-10-photos-of-2015-to-a-computer/](http://petapixel.com/2015/12/18/how-memorable-are-times-top-10-photos-of-2015-to-a-computer/)
 
-**A Survey: Time Travel in Deep Learning Space: An Introduction to Deep Learning Models and How Deep Learning Models Evolved from the Initial Ideas**
-
-- arxiv: [http://arxiv.org/abs/1510.04781](http://arxiv.org/abs/1510.04781)
-
 **Towards Open Set Deep Networks**
 
 - arxiv: [http://arxiv.org/abs/1511.06233](http://arxiv.org/abs/1511.06233)
@@ -2405,6 +2420,10 @@ with fast exact probabilistic inference over many layers."
 
 ## Tutorials and Surveys
 
+**A Survey: Time Travel in Deep Learning Space: An Introduction to Deep Learning Models and How Deep Learning Models Evolved from the Initial Ideas**
+
+- arxiv: [http://arxiv.org/abs/1510.04781](http://arxiv.org/abs/1510.04781)
+
 **On the Origin of Deep Learning**
 
 - intro: CMU. 70 pages, 200 references
@@ -2414,6 +2433,10 @@ with fast exact probabilistic inference over many layers."
 
 - intro: MIT
 - arxiv: [https://arxiv.org/abs/1703.09039](https://arxiv.org/abs/1703.09039)
+
+**The History Began from AlexNet: A Comprehensive Survey on Deep Learning Approaches**
+
+{https://arxiv.org/abs/1803.01164}(https://arxiv.org/abs/1803.01164)
 
 ## Mathematics of Deep Learning
 
@@ -2637,6 +2660,11 @@ with fast exact probabilistic inference over many layers."
 
 - youtube: [https://www.youtube.com/watch?v=pPN8d0E3900](https://www.youtube.com/watch?v=pPN8d0E3900)
 - mirror: [http://www.bilibili.com/video/av16594836/](http://www.bilibili.com/video/av16594836/)
+
+**Improved Explainability of Capsule Networks: Relevance Path by Agreement**
+
+- intro: Concordia University & University of Toronto
+- arxiv: [https://arxiv.org/abs/1802.10204](https://arxiv.org/abs/1802.10204)
 
 ## Computer Vision
 

@@ -334,6 +334,11 @@ Compressed model is less than 500KB
 
 [https://arxiv.org/abs/1802.02595](https://arxiv.org/abs/1802.02595)
 
+**Stereoscopic Neural Style Transfer**
+
+- intro: CVPR 2018
+- arxiv: [https://arxiv.org/abs/1802.10591](https://arxiv.org/abs/1802.10591)
+
 ## Neural Art On Audio
 
 **MSc AI Project on generative deep networks and neural style transfer for audio**

@@ -767,10 +767,6 @@ Continuation of [arXiv:1608.08021](https://arxiv.org/abs/1608.08021)
 - intro: Microsoft AI & Research Munich
 - arxiv: [https://arxiv.org/abs/1711.09822](https://arxiv.org/abs/1711.09822)
 
-**Relation Networks for Object Detection**
-
-[https://arxiv.org/abs/1711.11575](https://arxiv.org/abs/1711.11575)
-
 **Learning Object Detectors from Scratch with Gated Recurrent Feature Pyramids**
 
 - arxiv: [https://arxiv.org/abs/1712.00886](https://arxiv.org/abs/1712.00886)
@@ -804,6 +800,11 @@ Continuation of [arXiv:1608.08021](https://arxiv.org/abs/1608.08021)
 
 [https://arxiv.org/abs/1802.03934](https://arxiv.org/abs/1802.03934)
 
+**LSTD: A Low-Shot Transfer Detector for Object Detection**
+
+- intro: AAAI 2018
+- arxiv: [https://arxiv.org/abs/1803.01529](https://arxiv.org/abs/1803.01529)
+
 # Non-Maximum Suppression (NMS)
 
 **End-to-End Integration of a Convolutional Network, Deformable Parts Model and Non-Maximum Suppression**
@@ -828,6 +829,10 @@ Continuation of [arXiv:1608.08021](https://arxiv.org/abs/1608.08021)
 **Learning non-maximum suppression**
 
 [https://arxiv.org/abs/1705.02950](https://arxiv.org/abs/1705.02950)
+
+**Relation Networks for Object Detection**
+
+[https://arxiv.org/abs/1711.11575](https://arxiv.org/abs/1711.11575)
 
 # Adversarial Examples
 
@@ -1390,6 +1395,11 @@ This task involves predicting the salient regions of an image given by human eye
 
 - intro: Huawei Cloud BU
 - arxiv: [https://arxiv.org/abs/1802.02142](https://arxiv.org/abs/1802.02142)
+
+**Seeing Small Faces from Robust Anchor's Perspective**
+
+- intro: CVPR 2018
+- arxiv: [https://arxiv.org/abs/1802.09058](https://arxiv.org/abs/1802.09058)
 
 # Person Head Detection
 

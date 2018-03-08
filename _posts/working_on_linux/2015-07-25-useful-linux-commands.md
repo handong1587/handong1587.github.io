@@ -67,6 +67,8 @@ tar xf file.tar.gz -C /root/Desktop/folder
 | task                                              | command                 |
 | :-----------------------------                    | :---------------------: |
 | Print system info                                 | cat /proc/version       |
+| Print kernel version                              | uname -a                |
+| Print distribution information                    | lsb_release -a          |
 | Print software info                               | whereis SOFEWARE        |
 |                                                   | which SOFEWARE          |
 |                                                   | locate SOFEWARE         |

@@ -596,11 +596,20 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 - arxiv: [https://arxiv.org/abs/1612.01202](https://arxiv.org/abs/1612.01202)
 - github: [https://github.com/ralpguler/DenseReg](https://github.com/ralpguler/DenseReg)
 
+**DenseReg: Fully Convolutional Dense Shape Regression In-the-Wild**
+
+[https://arxiv.org/abs/1803.02188](https://arxiv.org/abs/1803.02188)
+
 **DensePose: Dense Human Pose Estimation In The Wild**
 
 - intro: INRIA & Facebook AI Research
 - project page: [http://densepose.org/](http://densepose.org/)
 - arxiv: [https://arxiv.org/abs/1802.00434](https://arxiv.org/abs/1802.00434)
+
+**LCR-Net++: Multi-person 2D and 3D Pose Detection in Natural Images**
+
+- intro: journal version of the CVPR 2017 paper
+- arxiv: [https://arxiv.org/abs/1803.00455](https://arxiv.org/abs/1803.00455)
 
 # Sentiment Analysis / Sentiment Prediction
 
@@ -1378,6 +1387,16 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 
 [https://arxiv.org/abs/1802.02721](https://arxiv.org/abs/1802.02721)
 
+**Residual Dense Network for Image Super-Resolution**
+
+- intro: CVPR 2018
+- arxiv: [https://arxiv.org/abs/1802.08797](https://arxiv.org/abs/1802.08797)
+
+**Deep Back-Projection Networks For Super-Resolution**
+
+- intro: CVPR 2018
+- arxiv: [https://arxiv.org/abs/1803.02735](https://arxiv.org/abs/1803.02735)
+
 ## Video Super-resolution
 
 **Detail-revealing Deep Video Super-resolution**
@@ -1489,6 +1508,10 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 
 - intro: Google Research
 - arxiv: [https://arxiv.org/abs/1802.06130](https://arxiv.org/abs/1802.06130)
+
+**Training Deep Learning based Denoisers without Ground Truth Data**
+
+[https://arxiv.org/abs/1803.01314](https://arxiv.org/abs/1803.01314)
 
 # Image Haze Removal
 

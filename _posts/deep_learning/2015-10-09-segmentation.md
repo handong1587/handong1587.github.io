@@ -165,8 +165,8 @@ date: 2015-10-09
 - github: [https://github.com/BVLC/caffe/wiki/Model-Zoo#fcn](https://github.com/BVLC/caffe/wiki/Model-Zoo#fcn)
 - github: [https://github.com/MarvinTeichmann/tensorflow-fcn](https://github.com/MarvinTeichmann/tensorflow-fcn)
 - github(Chainer): [https://github.com/wkentaro/fcn](https://github.com/wkentaro/fcn)
-- github(PyTorch): [https://github.com/wkentaro/pytorch-fcn](https://github.com/wkentaro/pytorch-fcn)
-- github(Tensorflow): [https://github.com/shekkizh/FCN.tensorflow](https://github.com/shekkizh/FCN.tensorflow)
+- github: [https://github.com/wkentaro/pytorch-fcn](https://github.com/wkentaro/pytorch-fcn)
+- github: [https://github.com/shekkizh/FCN.tensorflow](https://github.com/shekkizh/FCN.tensorflow)
 - notes: [http://zhangliliang.com/2014/11/28/paper-note-fcn-segment/](http://zhangliliang.com/2014/11/28/paper-note-fcn-segment/)
 
 **From Image-level to Pixel-level Labeling with Convolutional Networks**
@@ -225,6 +225,13 @@ date: 2015-10-09
 
 - intro: Google. DeepLabv3
 - arxiv: [https://arxiv.org/abs/1706.05587](https://arxiv.org/abs/1706.05587)
+
+## DeepLabv3+
+
+**Encoder-Decoder with Atrous Separable Convolution for Semantic Image Segmentation**
+
+- intro: Google Inc.
+- arxiv: [https://arxiv.org/abs/1802.02611](https://arxiv.org/abs/1802.02611)
 
 ## CRF-RNN
 
@@ -862,6 +869,11 @@ with built-in awareness of semantically meaningful boundaries. "
 
 [https://arxiv.org/abs/1802.00383](https://arxiv.org/abs/1802.00383)
 
+**Path Aggregation Network for Instance Segmentation**
+
+- intro: CVPR 2018
+- arxiv: [https://arxiv.org/abs/1803.01534](https://arxiv.org/abs/1803.01534)
+
 # Specific Segmentation
 
 **A CNN Cascade for Landmark Guided Semantic Part Segmentation**
@@ -1246,6 +1258,10 @@ ranked 1st place in ImageNet Scene Parsing Challenge 2016
 [http://host.robots.ox.ac.uk:8080/leaderboard/displaylb.php?cls=mean&challengeid=11&compid=6](http://host.robots.ox.ac.uk:8080/leaderboard/displaylb.php?cls=mean&challengeid=11&compid=6)
 
 # Blogs
+
+**Mobile Real-time Video Segmentation**
+
+[https://research.googleblog.com/2018/03/mobile-real-time-video-segmentation.html](https://research.googleblog.com/2018/03/mobile-real-time-video-segmentation.html)
 
 **Deep Learning for Natural Image Segmentation Priors**
 

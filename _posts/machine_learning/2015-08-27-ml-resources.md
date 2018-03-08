@@ -273,6 +273,11 @@ based on decision tree algorithms, used for ranking, classification and many oth
 - intro: Heidelberg University
 - arxiv: [https://arxiv.org/abs/1712.02743](https://arxiv.org/abs/1712.02743)
 
+**Extremely Fast Decision Tree**
+
+- arxiv: [https://arxiv.org/abs/1802.08780](https://arxiv.org/abs/1802.08780)
+- github: [https://github.com/chaitanya-m/kdd2018](https://github.com/chaitanya-m/kdd2018)
+
 # Generative Models
 
 **A note on the evaluation of generative models**

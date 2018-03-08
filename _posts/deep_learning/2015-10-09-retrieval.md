@@ -482,6 +482,15 @@ date: 2015-10-09
 
 [https://arxiv.org/abs/1802.02904](https://arxiv.org/abs/1802.02904)
 
+**Hashing with Mutual Information**
+
+[https://arxiv.org/abs/1803.00974](https://arxiv.org/abs/1803.00974)
+
+**Zero-Shot Sketch-Image Hashing**
+
+- intro: CVPR 2018 spotlight
+- arxiv: [https://arxiv.org/abs/1803.02284](https://arxiv.org/abs/1803.02284)
+
 # Cross Modal Retrieval
 
 **Cross-domain Image Retrieval with a Dual Attribute-aware Ranking Network**
@@ -644,6 +653,10 @@ date: 2015-10-09
 **Deep Metric Learning with BIER: Boosting Independent Embeddings Robustly**
 
 [https://arxiv.org/abs/1801.04815](https://arxiv.org/abs/1801.04815)
+
+**Directional Statistics-based Deep Metric Learning for Image Classification and Retrieval**
+
+[https://arxiv.org/abs/1802.09662](https://arxiv.org/abs/1802.09662)
 
 # Talks / Slides
 

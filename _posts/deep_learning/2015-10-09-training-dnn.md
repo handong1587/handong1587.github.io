@@ -511,6 +511,11 @@ date: 2015-10-09
 - intro: UC Berkeley & NVIDIA
 - arxiv: [https://arxiv.org/abs/1712.02029](https://arxiv.org/abs/1712.02029)
 
+**Hessian-based Analysis of Large Batch Training and Robustness to Adversaries**
+
+- intro: UC Berkeley & University of Texas
+- arxiv: [https://arxiv.org/abs/1802.08241](https://arxiv.org/abs/1802.08241)
+
 # Optimization Methods
 
 **On Optimization Methods for Deep Learning**
@@ -1130,6 +1135,11 @@ date: 2015-10-09
 
 [https://arxiv.org/abs/1801.06665](https://arxiv.org/abs/1801.06665)
 
+**Data Augmentation Generative Adversarial Networks**
+
+- arxiv: [https://arxiv.org/abs/1711.04340](https://arxiv.org/abs/1711.04340)
+- github: [https://github.com/AntreasAntoniou/DAGAN](https://github.com/AntreasAntoniou/DAGAN)
+
 ## Imbalanced Datasets
 
 **Investigation on handling Structured & Imbalanced Datasets with Deep Learning**
@@ -1365,6 +1375,10 @@ date: 2015-10-09
 **The Robust Manifold Defense: Adversarial Training using Generative Models**
 
 [https://arxiv.org/abs/1712.09196](https://arxiv.org/abs/1712.09196)
+
+**DeepDefense: Training Deep Neural Networks with Improved Robustness**
+
+[https://arxiv.org/abs/1803.00404](https://arxiv.org/abs/1803.00404)
 
 # Incremental Training
 

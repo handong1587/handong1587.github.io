@@ -466,6 +466,11 @@ at INT8 deep learning operations than other FPGA DSP architectures"
 
 [https://arxiv.org/abs/1802.04977](https://arxiv.org/abs/1802.04977)
 
+**Compressing Neural Networks using the Variational Information Bottleneck**
+
+- intro: Tsinghua University & ShanghaiTech University & Microsoft Research
+- arxiv: [https://arxiv.org/abs/1802.10399](https://arxiv.org/abs/1802.10399)
+
 # Pruning
 
 **ThiNet: A Filter Level Pruning Method for Deep Neural Network Compression**
@@ -653,6 +658,11 @@ at INT8 deep learning operations than other FPGA DSP architectures"
 **A Survey on Acceleration of Deep Convolutional Neural Networks**
 
 [https://arxiv.org/abs/1802.00939](https://arxiv.org/abs/1802.00939)
+
+**Recurrent Residual Module for Fast Inference in Videos**
+
+- intro: CVPR 2018
+- arxiv: [https://arxiv.org/abs/1802.09723](https://arxiv.org/abs/1802.09723)
 
 # Knowledge Distilling / Knowledge Transfer
 

@@ -161,6 +161,11 @@ Auto-encoder
 - arxiv: [https://arxiv.org/abs/1801.07648](https://arxiv.org/abs/1801.07648)
 - github: [https://github.com/elieJalbout/Clustering-with-Deep-learning](https://github.com/elieJalbout/Clustering-with-Deep-learning)
 
+**Deep Continuous Clustering**
+
+- arxiv: [https://arxiv.org/abs/1803.01449](https://arxiv.org/abs/1803.01449)
+- github: [https://github.com/shahsohil/DCC](https://github.com/shahsohil/DCC)
+
 # Auto-encoder
 
 **Auto-Encoding Variational Bayes**

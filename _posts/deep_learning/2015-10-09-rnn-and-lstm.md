@@ -511,6 +511,7 @@ date: 2015-10-09
 - keywords: DilatedRNN
 - arxiv: [https://arxiv.org/abs/1710.02224](https://arxiv.org/abs/1710.02224)
 - github(Tensorflow): [https://github.com/code-terminator/DilatedRNN](https://github.com/code-terminator/DilatedRNN)
+[https://github.com/zalandoresearch/pt-dilate-rnn](https://github.com/zalandoresearch/pt-dilate-rnn)
 
 **Excitation Backprop for RNNs**
 

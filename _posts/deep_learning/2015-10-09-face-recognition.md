@@ -216,6 +216,16 @@ date: 2015-10-09
 
 [https://arxiv.org/abs/1801.09414](https://arxiv.org/abs/1801.09414)
 
+**Ring loss: Convex Feature Normalization for Face Recognition**
+
+- intro: CVPR 2018
+- arxiv: [https://arxiv.org/abs/1803.00130](https://arxiv.org/abs/1803.00130)
+
+**Pose-Robust Face Recognition via Deep Residual Equivariant Mapping**
+
+- intro: CVPR 2018. CUHK & SenseTime Research
+- arxiv: [https://arxiv.org/abs/1803.00839](https://arxiv.org/abs/1803.00839)
+
 # Video Face Recognition
 
 **Attention-Set based Metric Learning for Video Face Recognition**

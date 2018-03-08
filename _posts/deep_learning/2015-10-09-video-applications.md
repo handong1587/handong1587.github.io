@@ -561,6 +561,11 @@ extract saptio-temporal features to represent the video using the CNNs."
 
 - arxiv: [https://arxiv.org/abs/1612.07403](https://arxiv.org/abs/1612.07403)
 
+**Joint Event Detection and Description in Continuous Video Streams**
+
+- intro: Joint Event Detection and Description Network (JEDDi-Net)
+- arxiv: [https://arxiv.org/abs/1802.10250](https://arxiv.org/abs/1802.10250)
+
 # Abnormality / Anomaly Detection
 
 **Fully Convolutional Neural Network for Fast Anomaly Detection in Crowded Scenes**

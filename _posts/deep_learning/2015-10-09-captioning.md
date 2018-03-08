@@ -480,6 +480,10 @@ after the embedding and recurrent layers of the RNN."
 
 [https://arxiv.org/abs/1712.09532](https://arxiv.org/abs/1712.09532)
 
+**Less Is More: Picking Informative Frames for Video Captioning**
+
+[https://arxiv.org/abs/1803.01457](https://arxiv.org/abs/1803.01457)
+
 # Projects
 
 **Learning CNN-LSTM Architectures for Image Caption Generation: An implementation of CNN-LSTM image caption generator architecture that achieves close to state-of-the-art results on the MSCOCO dataset.**
