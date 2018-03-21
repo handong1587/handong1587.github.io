@@ -232,6 +232,8 @@ date: 2015-10-09
 
 - intro: Google Inc.
 - arxiv: [https://arxiv.org/abs/1802.02611](https://arxiv.org/abs/1802.02611)
+- github: [https://github.com/tensorflow/models/tree/master/research/deeplab](https://github.com/tensorflow/models/tree/master/research/deeplab)
+- blog: [https://research.googleblog.com/2018/03/semantic-image-segmentation-with.html](https://research.googleblog.com/2018/03/semantic-image-segmentation-with.html)
 
 ## CRF-RNN
 
@@ -685,6 +687,20 @@ with built-in awareness of semantically meaningful boundaries. "
 **Semantic Segmentation via Highly Fused Convolutional Network with Multiple Soft Cost Functions**
 
 [https://arxiv.org/abs/1801.01317](https://arxiv.org/abs/1801.01317)
+
+**RTSeg: Real-time Semantic Segmentation Comparative Study**
+
+- arxiv: [https://arxiv.org/abs/1803.02758](https://arxiv.org/abs/1803.02758)
+- github: [https://github.com/MSiam/TFSegmentation](https://github.com/MSiam/TFSegmentation)
+
+**ShuffleSeg: Real-time Semantic Segmentation Network**
+
+[https://arxiv.org/abs/1803.03816](https://arxiv.org/abs/1803.03816)
+
+**Dynamic-structured Semantic Propagation Network**
+
+- intro: CVPR 2018
+- arxiv: [https://arxiv.org/abs/1803.06067](https://arxiv.org/abs/1803.06067)
 
 # Instance Segmentation
 
@@ -1191,6 +1207,11 @@ ranked 1st place in ImageNet Scene Parsing Challenge 2016
 
 - intro: Snap Inc. & Northwestern University & Google Inc.
 - arxiv: [https://arxiv.org/abs/1802.01218](https://arxiv.org/abs/1802.01218)
+
+**Video Object Segmentation with Joint Re-identification and Attention-Aware Mask Propagation**
+
+- intro: CUHK
+- arxiv: [https://arxiv.org/abs/1803.04242](https://arxiv.org/abs/1803.04242)
 
 ## Challenge
 

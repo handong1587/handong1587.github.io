@@ -1051,6 +1051,11 @@ not just the convolutions)
 
 [https://arxiv.org/abs/1803.02536](https://arxiv.org/abs/1803.02536)
 
+**DeepDefense: Training Deep Neural Networks with Improved Robustness**
+
+- intro: Tsinghua National Laboratory for Information Science and Technology (TNList) & Intel Labs
+- arxiv: [https://arxiv.org/abs/1803.00404](https://arxiv.org/abs/1803.00404)
+
 # Deep Learning Networks
 
 **PCANet: A Simple Deep Learning Baseline for Image Classification?**
@@ -1551,6 +1556,12 @@ with fast exact probabilistic inference over many layers."
 **DCFNet: Deep Neural Network with Decomposed Convolutional Filters**
 
 [https://arxiv.org/abs/1802.04145](https://arxiv.org/abs/1802.04145)
+
+**Fast End-to-End Trainable Guided Filter**
+
+- intro: CVPR 2018
+- project page: [http://wuhuikai.me/DeepGuidedFilterProject/](http://wuhuikai.me/DeepGuidedFilterProject/)
+- gtihub(official, PyTorch): [https://github.com/wuhuikai/DeepGuidedFilter](https://github.com/wuhuikai/DeepGuidedFilter)
 
 ## Highway Networks
 
@@ -2417,6 +2428,11 @@ with fast exact probabilistic inference over many layers."
 **Deep Private-Feature Extraction**
 
 [https://arxiv.org/abs/1802.03151](https://arxiv.org/abs/1802.03151)
+
+**Not All Samples Are Created Equal: Deep Learning with Importance Sampling**
+
+- intro: Idiap Research Institute
+- arxiv: [https://arxiv.org/abs/1803.00942](https://arxiv.org/abs/1803.00942)
 
 ## Tutorials and Surveys
 

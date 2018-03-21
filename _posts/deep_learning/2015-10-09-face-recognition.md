@@ -302,6 +302,16 @@ date: 2015-10-09
 - arxiv: [https://arxiv.org/abs/1802.01777](https://arxiv.org/abs/1802.01777)
 - github: [https://github.com/mtli/BFFL](https://github.com/mtli/BFFL)
 
+**Style Aggregated Network for Facial Landmark Detection**
+
+- intro: CVPR 2018
+- arxiv: [https://arxiv.org/abs/1803.04108](https://arxiv.org/abs/1803.04108)
+- github: [https://github.com/D-X-Y/SAN](https://github.com/D-X-Y/SAN)
+
+**Deep Adaptive Attention for Joint Facial Action Unit Detection and Face Alignment**
+
+[https://arxiv.org/abs/1803.05588](https://arxiv.org/abs/1803.05588)
+
 # Projects
 
 **Using MXNet for Face-related Algorithm**

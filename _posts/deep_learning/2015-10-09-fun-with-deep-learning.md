@@ -579,6 +579,11 @@ Compressed model is less than 500KB
 
 - paper: [http://homes.cs.washington.edu/~kemelmi/Transfiguring_Portraits_Kemelmacher_SIGGRAPH2016.pdf](http://homes.cs.washington.edu/~kemelmi/Transfiguring_Portraits_Kemelmacher_SIGGRAPH2016.pdf)
 
+**Stylize Aesthetic QR Code**
+
+- intro: Zhengzhou University & Zhejiang University
+- arxiv: [https://arxiv.org/abs/1803.01146](https://arxiv.org/abs/1803.01146)
+
 ## Image Colorization
 
 **Deep Colorization**
@@ -683,6 +688,10 @@ Compressed model is less than 500KB
 **Interactive Deep Colorization With Simultaneous Global and Local Inputs**
 
 [https://arxiv.org/abs/1801.09083](https://arxiv.org/abs/1801.09083)
+
+**Image Colorization with Generative Adversarial Networks**
+
+[https://arxiv.org/abs/1803.05400](https://arxiv.org/abs/1803.05400)
 
 # Sounds
 

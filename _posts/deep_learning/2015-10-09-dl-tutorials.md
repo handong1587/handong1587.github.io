@@ -1070,3 +1070,12 @@ Implementations and ideas are largely based on papers from arxiv and implementat
 **Convolutional Neural Network for Traffic Sign Classification — CarND**
 
 - blog: [https://medium.com/@gruby/convolutional-neural-network-for-traffic-sign-classification-carnd-e46e95453899#.lfutfs21v](https://medium.com/@gruby/convolutional-neural-network-for-traffic-sign-classification-carnd-e46e95453899#.lfutfs21v)
+
+# Talks
+
+**A Tour of Deep Learning With C++**
+
+- intro: CppCon 2017, Peter Goldsborough
+- youtube: [https://www.youtube.com/watch?v=9-1lcss0NMg](https://www.youtube.com/watch?v=9-1lcss0NMg)
+- bilibili: [https://www.bilibili.com/video/av20675156/](https://www.bilibili.com/video/av20675156/)
+

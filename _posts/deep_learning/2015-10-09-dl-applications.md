@@ -194,6 +194,10 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 
 [https://arxiv.org/abs/1802.03769](https://arxiv.org/abs/1802.03769)
 
+**Fully convolutional watermark removal attack**
+
+- github: [https://github.com/marcbelmont/cnn-watermark-removal](https://github.com/marcbelmont/cnn-watermark-removal)
+
 # Boundary / Edge / Contour Detection
 
 **Holistically-Nested Edge Detection**
@@ -768,6 +772,10 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 - intro: ICCV 2017 Workshop on Computer Vision Problems in Plant Phenotyping
 - arxiv: [https://arxiv.org/abs/1708.07570](https://arxiv.org/abs/1708.07570)
 
+**Improving Object Counting with Heatmap Regulation**
+
+[https://arxiv.org/abs/1803.05494](https://arxiv.org/abs/1803.05494)
+
 ## Crowd Counting / Crowd Analysis
 
 **Large scale crowd analysis based on convolutional neural network**
@@ -890,6 +898,11 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 
 - intro: AAAI 2018
 - arxiv: [https://arxiv.org/abs/1801.08391](https://arxiv.org/abs/1801.08391)
+
+**Leveraging Unlabeled Data for Crowd Counting by Learning to Rank**
+
+- intro: CVPR 2018
+- arxiv: [https://arxiv.org/abs/1803.03095](https://arxiv.org/abs/1803.03095)
 
 # Activity Recognition
 
@@ -1066,6 +1079,10 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 **Shift-Net: Image Inpainting via Deep Feature Rearrangement**
 
 [https://arxiv.org/abs/1801.09392](https://arxiv.org/abs/1801.09392)
+
+**Cascade context encoder for improved inpainting**
+
+[https://arxiv.org/abs/1803.04033](https://arxiv.org/abs/1803.04033)
 
 # Image Restoration
 
@@ -1655,6 +1672,21 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 - intro: CUHK & Tecent & Megvii Inc.
 - arxiv: [https://arxiv.org/abs/1802.01770](https://arxiv.org/abs/1802.01770)
 
+**Deep Semantic Face Deblurring**
+
+- intro: CVPR 2018
+- project page: [https://sites.google.com/site/ziyishenmi/cvpr18_face_deblur](https://sites.google.com/site/ziyishenmi/cvpr18_face_deblur)
+- arxiv: [https://arxiv.org/abs/1803.03345](https://arxiv.org/abs/1803.03345)
+
+**Motion deblurring of faces**
+
+[https://arxiv.org/abs/1803.03330](https://arxiv.org/abs/1803.03330)
+
+**Learning a Discriminative Prior for Blind Image Deblurring**
+
+- intro: CVPR 2018
+- arxiv: [https://arxiv.org/abs/1803.03363](https://arxiv.org/abs/1803.03363)
+
 # Image Compression
 
 **An image compression and encryption scheme based on deep learning**
@@ -1740,6 +1772,16 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 - intro: ICIP 2017
 - arxiv: [https://arxiv.org/abs/1802.02629](https://arxiv.org/abs/1802.02629)
 
+**Feature Distillation: DNN-Oriented JPEG Compression Against Adversarial Examples**
+
+- intro: IJCAI 2018
+- arxiv: [https://arxiv.org/abs/1803.05787](https://arxiv.org/abs/1803.05787)
+
+**DeepN-JPEG: A Deep Neural Network Favorable JPEG-based Image Compression Framework**
+
+- intro: DAC 2018
+- arxiv: [https://arxiv.org/abs/1803.05788](https://arxiv.org/abs/1803.05788)
+
 # Image Quality Assessment
 
 **Deep Neural Networks for No-Reference and Full-Reference Image Quality Assessment**
@@ -1764,6 +1806,13 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 
 - intro: ModiFace Inc, University of Toronto
 - arxiv: [https://arxiv.org/abs/1712.07168](https://arxiv.org/abs/1712.07168)
+
+**TOM-Net: Learning Transparent Object Matting from a Single Image**
+
+- intro: CVPR 2018
+- project page: [http://gychen.org/TOM-Net/](http://gychen.org/TOM-Net/)
+- arxiv: [https://arxiv.org/abs/1803.04636](https://arxiv.org/abs/1803.04636)
+- github: [https://github.com/guanyingc/TOM-Net](https://github.com/guanyingc/TOM-Net)
 
 # Image Blending
 
@@ -1888,14 +1937,18 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 
 # Image Cropping
 
-**A2-RL: Aesthetics Aware Reinforcement Learning for Automatic Image Cropping**
-
-[https://arxiv.org/abs/1709.04595](https://arxiv.org/abs/1709.04595)
-
 **Deep Cropping via Attention Box Prediction and Aesthetics Assessment**
 
 - intro: ICCV 2017
 - arxiv: [https://arxiv.org/abs/1710.08014](https://arxiv.org/abs/1710.08014)
+
+**A2-RL: Aesthetics Aware Reinforcement Learning for Automatic Image Cropping**
+
+- intro: CVPR 2018
+- project page: [http://debangli.info/A2RL/](http://debangli.info/A2RL/)
+- arxiv: [https://arxiv.org/abs/1709.04595](https://arxiv.org/abs/1709.04595)
+- github(official): [https://github.com/wuhuikai/TF-A2RL](https://github.com/wuhuikai/TF-A2RL)
+- demo: [http://wuhuikai.me/TF-A2RL/](http://wuhuikai.me/TF-A2RL/)
 
 **Automatic Image Cropping for Visual Aesthetic Enhancement Using Deep Neural Networks and Cascaded Regression**
 
@@ -1929,6 +1982,11 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 - arxiv: [https://arxiv.org/abs/1707.06873](https://arxiv.org/abs/1707.06873)
 - github(PyTorch): [https://github.com//woozzu/dong_iccv_2017](https://github.com//woozzu/dong_iccv_2017)
 
+**An Introduction to Image Synthesis with Generative Adversarial Nets**
+
+- intro: University of Illinois at Chicago & Toutiao AI Lab
+- arxiv: [https://arxiv.org/abs/1803.04469](https://arxiv.org/abs/1803.04469)
+
 # Image Tagging
 
 **Fast Zero-Shot Image Tagging**
@@ -1952,6 +2010,10 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 
 - intro: AAAI 2018
 - arxiv: [https://arxiv.org/abs/1711.06998](https://arxiv.org/abs/1711.06998)
+
+**Deep Multiple Instance Learning for Zero-shot Image Tagging**
+
+[https://arxiv.org/abs/1803.06051](https://arxiv.org/abs/1803.06051)
 
 # Image Matching
 
@@ -2075,6 +2137,10 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 **StereoConvNet: Stereo convolutional neural network for depth map prediction from stereo images**
 
 - github: [https://github.com/LouisFoucard/StereoConvNet](https://github.com/LouisFoucard/StereoConvNet)
+
+**EdgeStereo: A Context Integrated Residual Pyramid Network for Stereo Matching**
+
+[https://arxiv.org/abs/1803.05196](https://arxiv.org/abs/1803.05196)
 
 # Optical Flow
 
@@ -2312,6 +2378,11 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 
 - intro: BMVC 2017
 - arxiv: [https://arxiv.org/abs/1709.00443](https://arxiv.org/abs/1709.00443)
+
+**LCANet: End-to-End Lipreading with Cascaded Attention-CTC**
+
+- intro: FG 2018
+- arxiv: [https://arxiv.org/abs/1803.04988](https://arxiv.org/abs/1803.04988)
 
 # Event Recognition
 

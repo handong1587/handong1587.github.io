@@ -186,6 +186,7 @@ date: 2015-10-09
 
 **Learning Deep Features via Congenerous Cosine Loss for Person Recognition**
 
+- keywords: COCO loss
 - arxiv: [https://arxiv.org/abs/1702.06890](https://arxiv.org/abs/1702.06890)
 - github: [https://github.com/sciencefans/coco_loss](https://github.com/sciencefans/coco_loss)
 

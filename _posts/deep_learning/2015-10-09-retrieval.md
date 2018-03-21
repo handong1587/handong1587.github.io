@@ -90,6 +90,12 @@ date: 2015-10-09
 - arxiv: [https://arxiv.org/abs/1604.01325](https://arxiv.org/abs/1604.01325)
 - slides: [http://www.slideshare.net/xavigiro/deep-image-retrieval-learning-global-representations-for-image-search](http://www.slideshare.net/xavigiro/deep-image-retrieval-learning-global-representations-for-image-search)
 
+**End-to-end Learning of Deep Visual Representations for Image Retrieval**
+
+- intro: IJCV 2017. Extended version of our ECCV2016 paper "Deep Image Retrieval: Learning global representations for image search"
+- project page: [http://www.xrce.xerox.com/Research-Development/Computer-Vision/Learning-Visual-Representations/Deep-Image-Retrieval](http://www.xrce.xerox.com/Research-Development/Computer-Vision/Learning-Visual-Representations/Deep-Image-Retrieval)
+- arxiv: [https://arxiv.org/abs/1610.07940](https://arxiv.org/abs/1610.07940)
+
 **Bags of Local Convolutional Features for Scalable Instance Search**
 
 - intro: ICMR 2016. Best Poster Award at ICMR 2016.
@@ -164,12 +170,6 @@ date: 2015-10-09
 - project page: [http://sketchy.eye.gatech.edu/](http://sketchy.eye.gatech.edu/)
 - paper: [http://www.cc.gatech.edu/~hays/tmp/sketchy-database.pdf](http://www.cc.gatech.edu/~hays/tmp/sketchy-database.pdf)
 - github: [https://github.com/janesjanes/sketchy](https://github.com/janesjanes/sketchy)
-
-**End-to-end Learning of Deep Visual Representations for Image Retrieval**
-
-- intro: ECCV 2016
-- project page: [http://www.xrce.xerox.com/Research-Development/Computer-Vision/Learning-Visual-Representations/Deep-Image-Retrieval](http://www.xrce.xerox.com/Research-Development/Computer-Vision/Learning-Visual-Representations/Deep-Image-Retrieval)
-- arxiv: [https://arxiv.org/abs/1610.07940](https://arxiv.org/abs/1610.07940)
 
 **What Is the Best Practice for CNNs Applied to Visual Instance Retrieval?**
 
@@ -302,6 +302,19 @@ date: 2015-10-09
 
 - intro: Microsoft
 - arxiv: [https://arxiv.org/abs/1802.04914](https://arxiv.org/abs/1802.04914)
+
+**Approximate Query Matching for Image Retrieval**
+
+[https://arxiv.org/abs/1803.05401](https://arxiv.org/abs/1803.05401)
+
+**Object Captioning and Retrieval with Natural Language**
+
+[https://arxiv.org/abs/1803.06152](https://arxiv.org/abs/1803.06152)
+
+**Triplet-Center Loss for Multi-View 3D Object Retrieval**
+
+- intro: CVPR 2018
+- arxiv: [https://arxiv.org/abs/1803.06189](https://arxiv.org/abs/1803.06189)
 
 # Hashing
 
@@ -491,6 +504,15 @@ date: 2015-10-09
 - intro: CVPR 2018 spotlight
 - arxiv: [https://arxiv.org/abs/1803.02284](https://arxiv.org/abs/1803.02284)
 
+**Instance Similarity Deep Hashing for Multi-Label Image Retrieval**
+
+[https://arxiv.org/abs/1803.02987](https://arxiv.org/abs/1803.02987)
+
+**Deep Class-Wise Hashing: Semantics-Preserving Hashing via Class-wise Loss**
+
+- intro: City University of Hong Kong
+- arxiv: [https://arxiv.org/abs/1803.04137](https://arxiv.org/abs/1803.04137)
+
 # Cross Modal Retrieval
 
 **Cross-domain Image Retrieval with a Dual Attribute-aware Ranking Network**
@@ -608,6 +630,13 @@ date: 2015-10-09
 - slides: [http://tce.technion.ac.il/wp-content/uploads/sites/8/2016/01/Elad-Hofer.pdf](http://tce.technion.ac.il/wp-content/uploads/sites/8/2016/01/Elad-Hofer.pdf)
 - github: [https://github.com/eladhoffer/TripletNet](https://github.com/eladhoffer/TripletNet)
 
+**Metric Learning with Adaptive Density Discrimination**
+
+- intro: ICLR 2016. Facebook AI Research & UC Berkeley
+- arxiv: [https://arxiv.org/abs/1511.05939](https://arxiv.org/abs/1511.05939)
+- github: [https://github.com/pumpikano/tf-magnet-loss](https://github.com/pumpikano/tf-magnet-loss)
+- github: [https://github.com/vithursant/MagnetLoss-PyTorch/](https://github.com/vithursant/MagnetLoss-PyTorch/)
+
 **Hard-Aware Deeply Cascaded Embedding**
 
 - intro: ICCV 2017
@@ -658,6 +687,12 @@ date: 2015-10-09
 
 [https://arxiv.org/abs/1802.09662](https://arxiv.org/abs/1802.09662)
 
+**Generalization in Metric Learning: Should the Embedding Layer be the Embedding Layer?**
+
+- intro: Georgia Tech
+- keywords: Cars-196, CUB-200-2011 and Stanford Online Product
+- arxiv: [https://arxiv.org/abs/1803.03310](https://arxiv.org/abs/1803.03310)
+
 # Talks / Slides
 
 **TiefVision: end-to-end image similarity search engine**
@@ -694,6 +729,10 @@ the 3rd National Gradute Contest on Smart-CIty Technology and Creative Design, C
 
 - keywords: faster r-cnn
 - github: [https://github.com/tuan3w/visual_search](https://github.com/tuan3w/visual_search)
+
+**Siamese and triplet networks with online pair/triplet mining in PyTorch**
+
+[https://github.com/adambielski/siamese-triplet](https://github.com/adambielski/siamese-triplet)
 
 # Blogs
 

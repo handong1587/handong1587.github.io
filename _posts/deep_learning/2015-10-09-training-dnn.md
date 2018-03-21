@@ -386,6 +386,11 @@ date: 2015-10-09
 - intro: UNIST & Postech & KAIST
 - arxiv: [https://arxiv.org/abs/1712.07834](https://arxiv.org/abs/1712.07834)
 
+**Rethinking Feature Distribution for Loss Functions in Image Classification**
+
+- intro: CVPR 2018 spotlight
+- arxiv: [https://arxiv.org/abs/1803.02988](https://arxiv.org/abs/1803.02988)
+
 # Learning Rate
 
 **No More Pesky Learning Rates**
@@ -1379,6 +1384,13 @@ date: 2015-10-09
 **DeepDefense: Training Deep Neural Networks with Improved Robustness**
 
 [https://arxiv.org/abs/1803.00404](https://arxiv.org/abs/1803.00404)
+
+# Low-Precision Training
+
+**High-Accuracy Low-Precision Training**
+
+- intro: Cornell University & Stanford University
+- arxiv: [https://arxiv.org/abs/1803.03383](https://arxiv.org/abs/1803.03383)
 
 # Incremental Training
 

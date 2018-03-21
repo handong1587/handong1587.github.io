@@ -536,6 +536,11 @@ at INT8 deep learning operations than other FPGA DSP architectures"
 - intro: Google
 - arxiv: [https://arxiv.org/abs/1712.05877](https://arxiv.org/abs/1712.05877)
 
+**Deep Neural Network Compression with Single and Multiple Level Quantization**
+
+- intro: AAAI 2018. Shanghai Jiao Tong University & University of Chinese Academy of Sciences
+- arxiv: [https://arxiv.org/abs/1803.03289](https://arxiv.org/abs/1803.03289)
+
 # Binary Convolutional Neural Networks / Binarized Neural Networks
 
 **BinaryNet: Training Deep Neural Networks with Weights and Activations Constrained to +1 or -1**

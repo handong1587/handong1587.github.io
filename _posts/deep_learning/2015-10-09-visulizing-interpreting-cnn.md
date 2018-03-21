@@ -244,6 +244,11 @@ date: 2015-10-09
 
 [https://arxiv.org/abs/1802.00614](https://arxiv.org/abs/1802.00614)
 
+**Interpreting Deep Classifier by Visual Distillation of Dark Knowledge**
+
+- intro: University of Edinburgh & Huawei Research America
+- arxiv: [https://arxiv.org/abs/1803.04042](https://arxiv.org/abs/1803.04042)
+
 # Projects
 
 **Interactive Deep Neural Net Hallucinations**
