@@ -618,6 +618,14 @@ nohup ./runGenerareSSProposals.sh > runGenerareSSProposals_${time}.log 2>&1 &
 echo $! > save_runGenerareSSProposals_val_pid.txt
 ```
 
+# Hadoop
+
+**Delete a directory from Hadoop cluster**
+
+```
+hadoop fs -rm -r -f /user/the/path/to/your/dir
+```
+
 # Others
 
 **Hotkeys to speed up Linux CLI navigation:**
