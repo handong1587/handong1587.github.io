@@ -290,6 +290,10 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 
 [https://arxiv.org/abs/1711.10485](https://arxiv.org/abs/1711.10485)
 
+**Stacked Cross Attention for Image-Text Matching**
+
+[https://arxiv.org/abs/1803.08024](https://arxiv.org/abs/1803.08024)
+
 # Age Estimation
 
 **Deeply-Learned Feature for Age Estimation**
@@ -614,6 +618,10 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 
 - intro: journal version of the CVPR 2017 paper
 - arxiv: [https://arxiv.org/abs/1803.00455](https://arxiv.org/abs/1803.00455)
+
+**Deep Pose Consensus Networks**
+
+[https://arxiv.org/abs/1803.08190](https://arxiv.org/abs/1803.08190)
 
 # Sentiment Analysis / Sentiment Prediction
 
@@ -1414,6 +1422,10 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 - intro: CVPR 2018
 - arxiv: [https://arxiv.org/abs/1803.02735](https://arxiv.org/abs/1803.02735)
 
+**Fast, Accurate, and, Lightweight Super-Resolution with Cascading Residual Network**
+
+[https://arxiv.org/abs/1803.08664](https://arxiv.org/abs/1803.08664)
+
 ## Video Super-resolution
 
 **Detail-revealing Deep Video Super-resolution**
@@ -1566,6 +1578,17 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 - intro: WACV 2018
 - arxiv: [https://arxiv.org/abs/1801.08406](https://arxiv.org/abs/1801.08406)
 
+**A Cascaded Convolutional Neural Network for Single Image Dehazing**
+
+- intro: IEEE ACCESS
+- arxiv: [https://arxiv.org/abs/1803.07955](https://arxiv.org/abs/1803.07955)
+
+**Densely Connected Pyramid Dehazing Network**
+
+- intro: CVPR 2018
+- arxiv: [https://arxiv.org/abs/1803.08396](https://arxiv.org/abs/1803.08396)
+- github: [https://github.com/hezhangsprinter/DCPDN](https://github.com/hezhangsprinter/DCPDN)
+
 # Image Rain Removal / De-raining
 
 **Clearing the Skies: A deep network architecture for single-image rain removal**
@@ -1591,6 +1614,12 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 **Deep joint rain and haze removal from single images**
 
 [https://arxiv.org/abs/1801.06769](https://arxiv.org/abs/1801.06769)
+
+**Density-aware Single Image De-raining using a Multi-stream Dense Network**
+
+- intro: CVPR 2018
+- arxiv: [https://arxiv.org/abs/1803.08396](https://arxiv.org/abs/1803.08396)
+- github: [https://github.com/hezhangsprinter/DID-MDN](https://github.com/hezhangsprinter/DID-MDN)
 
 # Fence Removal
 
@@ -1674,7 +1703,7 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 
 **Deep Semantic Face Deblurring**
 
-- intro: CVPR 2018
+- intro: CVPR 2018. Beijing Institute of Technology & University of California, Merced & Nvidia Research
 - project page: [https://sites.google.com/site/ziyishenmi/cvpr18_face_deblur](https://sites.google.com/site/ziyishenmi/cvpr18_face_deblur)
 - arxiv: [https://arxiv.org/abs/1803.03345](https://arxiv.org/abs/1803.03345)
 
@@ -2141,6 +2170,17 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 **EdgeStereo: A Context Integrated Residual Pyramid Network for Stereo Matching**
 
 [https://arxiv.org/abs/1803.05196](https://arxiv.org/abs/1803.05196)
+
+**Zoom and Learn: Generalizing Deep Stereo Matching to Novel Domains**
+
+- intro: CVPR 2018. SenseTime Research & Sun Yat-sen University
+- arxiv: [https://arxiv.org/abs/1803.06641](https://arxiv.org/abs/1803.06641)
+
+**Pyramid Stereo Matching Network**
+
+- intro: CVPR 2018
+- arxiv: [https://arxiv.org/abs/1803.08669](https://arxiv.org/abs/1803.08669)
+- github: [https://github.com/JiaRenChang/PSMNet](https://github.com/JiaRenChang/PSMNet)
 
 # Optical Flow
 

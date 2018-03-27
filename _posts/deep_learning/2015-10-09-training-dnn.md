@@ -337,6 +337,13 @@ date: 2015-10-09
 
 - arxiv: [https://arxiv.org/abs/1702.05870](https://arxiv.org/abs/1702.05870)
 
+## Group Normalization
+
+**Group Normalization**
+
+- intro: Facebook AI Research (FAIR)
+- arxiv: [https://arxiv.org/abs/1803.08494](https://arxiv.org/abs/1803.08494)
+
 # Loss Function
 
 **The Loss Surfaces of Multilayer Networks**
@@ -361,7 +368,9 @@ date: 2015-10-09
 - intro: Peking University & South China University of Technology & CMU & Shenzhen University
 - arxiv: [https://arxiv.org/abs/1612.02295](https://arxiv.org/abs/1612.02295)
 - github(Official. Caffe): [https://github.com/wy1iu/LargeMargin_Softmax_Loss](https://github.com/wy1iu/LargeMargin_Softmax_Loss)
-- github(MXNet): [https://github.com/luoyetx/mx-lsoftmax](https://github.com/luoyetx/mx-lsoftmax)
+- github: [https://github.com/luoyetx/mx-lsoftmax](https://github.com/luoyetx/mx-lsoftmax)
+- github: [https://github.com/tpys/face-recognition-caffe2](https://github.com/tpys/face-recognition-caffe2)
+- github: [https://github.com/jihunchoi/lsoftmax-pytorch](https://github.com/jihunchoi/lsoftmax-pytorch)
 
 **An empirical analysis of the optimization of deep network loss surfaces**
 
@@ -412,6 +421,11 @@ date: 2015-10-09
 **Improving the way we work with learning rate.**
 
 [https://medium.com/@bushaev/improving-the-way-we-work-with-learning-rate-5e99554f163b](https://medium.com/@bushaev/improving-the-way-we-work-with-learning-rate-5e99554f163b)
+
+**WNGrad: Learn the Learning Rate in Gradient Descent**
+
+- intro: University of Texas at Austin & Facebook AI Research
+- arxiv: [https://arxiv.org/abs/1803.02865](https://arxiv.org/abs/1803.02865)
 
 # Convolution Filters
 

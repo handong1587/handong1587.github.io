@@ -232,6 +232,11 @@ date: 2015-10-09
 
 [https://arxiv.org/abs/1704.03805](https://arxiv.org/abs/1704.03805)
 
+**SeqFace: Make full use of sequence information for face recognitio**
+
+- arxiv: [https://arxiv.org/abs/1803.06524](https://arxiv.org/abs/1803.06524)
+- github: [https://github.com/huangyangyu/SeqFace](https://github.com/huangyangyu/SeqFace)
+
 # Facial Point / Landmark Detection
 
 **Deep Convolutional Network Cascade for Facial Point Detection**

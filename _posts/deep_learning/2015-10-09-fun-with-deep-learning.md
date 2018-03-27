@@ -260,9 +260,10 @@ Compressed model is less than 500KB
 
 **Arbitrary Style Transfer In Real-Time With Adaptive Instance Normalization**
 
-- intro: Cornell University
+- intro: ICCV 2017. Cornell University
 - paper: [https://openreview.net/pdf?id=B1fUVMzKg](https://openreview.net/pdf?id=B1fUVMzKg)
 - github(Torch): [https://github.com/xunhuang1995/AdaIN-style](https://github.com/xunhuang1995/AdaIN-style)
+- github(TensorFlow): [https://github.com/elleryqueenhomels/arbitrary_style_transfer](https://github.com/elleryqueenhomels/arbitrary_style_transfer)
 
 **Picking an optimizer for Style Transfer**
 

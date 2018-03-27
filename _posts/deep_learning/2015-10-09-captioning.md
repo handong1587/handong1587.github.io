@@ -484,6 +484,10 @@ after the embedding and recurrent layers of the RNN."
 
 [https://arxiv.org/abs/1803.01457](https://arxiv.org/abs/1803.01457)
 
+**End-to-End Video Captioning with Multitask Reinforcement Learning**
+
+[https://arxiv.org/abs/1803.07950](https://arxiv.org/abs/1803.07950)
+
 # Projects
 
 **Learning CNN-LSTM Architectures for Image Caption Generation: An implementation of CNN-LSTM image caption generator architecture that achieves close to state-of-the-art results on the MSCOCO dataset.**

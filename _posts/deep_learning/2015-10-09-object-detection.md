@@ -305,6 +305,13 @@ date: 2015-10-09
 - intro: Bounding box labeler tool to generate the training data in the format YOLO v2 requires.
 - github: [https://github.com/Cartucho/yolo-boundingbox-labeler-GUI](https://github.com/Cartucho/yolo-boundingbox-labeler-GUI)
 
+# YOLOv3
+
+**YOLOv3: An Incremental Improvement**
+
+- project page: [https://pjreddie.com/darknet/yolo/](https://pjreddie.com/darknet/yolo/)
+- arxiv: []
+
 - - -
 
 **AttentionNet: Aggregating Weak Directions for Accurate Object Detection**
@@ -807,8 +814,12 @@ Continuation of [arXiv:1608.08021](https://arxiv.org/abs/1608.08021)
 
 **Domain Adaptive Faster R-CNN for Object Detection in the Wild**
 
-- intro: CVPR 2018
+- intro: CVPR 2018. ETH Zurich & ESAT/PSI
 - arxiv: [https://arxiv.org/abs/1803.03243](https://arxiv.org/abs/1803.03243)
+
+**Pseudo Mask Augmented Object Detection**
+
+[https://arxiv.org/abs/1803.05858](https://arxiv.org/abs/1803.05858)
 
 **Revisiting RCNN: On Awakening the Classification Power of Faster RCNN**
 
@@ -816,8 +827,23 @@ Continuation of [arXiv:1608.08021](https://arxiv.org/abs/1608.08021)
 
 **Zero-Shot Detection**
 
-- intro: YOLO
+- intro: Australian National University
+- keywords: YOLO
 - arxiv: [https://arxiv.org/abs/1803.07113](https://arxiv.org/abs/1803.07113)
+
+**Learning Region Features for Object Detection**
+
+- intro: Peking University & MSRA
+- arxiv: [https://arxiv.org/abs/1803.07066](https://arxiv.org/abs/1803.07066)
+
+**Single-Shot Bidirectional Pyramid Networks for High-Quality Object Detection**
+
+[https://arxiv.org/abs/1803.08208](https://arxiv.org/abs/1803.08208)
+
+**Object Detection for Comics using Manga109 Annotations**
+
+- intro: University of Tokyo & National Institute of Informatics, Japan
+- arxiv: [https://arxiv.org/abs/1803.08670](https://arxiv.org/abs/1803.08670)
 
 # Non-Maximum Suppression (NMS)
 
@@ -847,10 +873,6 @@ Continuation of [arXiv:1608.08021](https://arxiv.org/abs/1608.08021)
 **Relation Networks for Object Detection**
 
 [https://arxiv.org/abs/1711.11575](https://arxiv.org/abs/1711.11575)
-
-**Pseudo Mask Augmented Object Detection**
-
-[https://arxiv.org/abs/1803.05858](https://arxiv.org/abs/1803.05858)
 
 # Adversarial Examples
 
@@ -996,6 +1018,11 @@ Continuation of [arXiv:1608.08021](https://arxiv.org/abs/1608.08021)
 **Vote3Deep: Fast Object Detection in 3D Point Clouds Using Efficient Convolutional Neural Networks**
 
 - arxiv: [https://arxiv.org/abs/1609.06666](https://arxiv.org/abs/1609.06666)
+
+**Complex-YOLO: Real-time 3D Object Detection on Point Clouds**
+
+- intro: Valeo Schalter und Sensoren GmbH & Ilmenau University of Technology
+- arxiv: [https://arxiv.org/abs/1803.06199](https://arxiv.org/abs/1803.06199)
 
 # Object Detection on RGB-D
 
@@ -1402,6 +1429,11 @@ This task involves predicting the salient regions of an image given by human eye
 
 - intro: Huawei Cloud BU
 - arxiv: [https://arxiv.org/abs/1802.02142](https://arxiv.org/abs/1802.02142)
+
+**PyramidBox: A Context-assisted Single Shot Face Detector**
+
+- intro: Baidu, Inc
+- arxiv: [https://arxiv.org/abs/1803.07737](https://arxiv.org/abs/1803.07737)
 
 ## Detect Small Faces
 

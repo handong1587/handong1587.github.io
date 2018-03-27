@@ -407,6 +407,11 @@ not just the convolutions)
 
 [https://arxiv.org/abs/1802.03750](https://arxiv.org/abs/1802.03750)
 
+**A Quantization-Friendly Separable Convolution for MobileNets**
+
+- intro: THE 1ST WORKSHOP ON ENERGY EFFICIENT MACHINE LEARNING AND COGNITIVE COMPUTING FOR EMBEDDED APPLICATIONS (EMC2)
+- arxiv: [https://arxiv.org/abs/1803.08607](https://arxiv.org/abs/1803.08607)
+
 ## MobileNetV2
 
 **Inverted Residuals and Linear Bottlenecks: Mobile Networks forClassification, Detection and Segmentation**
@@ -738,7 +743,8 @@ not just the convolutions)
 
 **PackNet: Adding Multiple Tasks to a Single Network by Iterative Pruning**
 
-[https://arxiv.org/abs/1711.05769](https://arxiv.org/abs/1711.05769)
+- arxiv: [https://arxiv.org/abs/1711.05769](https://arxiv.org/abs/1711.05769)
+- github: [https://github.com/arunmallya/packnet](https://github.com/arunmallya/packnet)
 
 # Multi-modal Learning
 
@@ -1055,6 +1061,11 @@ not just the convolutions)
 
 - intro: Tsinghua National Laboratory for Information Science and Technology (TNList) & Intel Labs
 - arxiv: [https://arxiv.org/abs/1803.00404](https://arxiv.org/abs/1803.00404)
+
+**Improving Transferability of Adversarial Examples with Input Diversity**
+
+- arxiv: [https://arxiv.org/abs/1803.06978](https://arxiv.org/abs/1803.06978)
+- github: [https://github.com/cihangxie/DI-2-FGSM](https://github.com/cihangxie/DI-2-FGSM)
 
 # Deep Learning Networks
 
@@ -1775,6 +1786,11 @@ with fast exact probabilistic inference over many layers."
 **Residual Gated Graph ConvNets**
 
 [https://arxiv.org/abs/1711.07553](https://arxiv.org/abs/1711.07553)
+
+**Probabilistic and Regularized Graph Convolutional Networks**
+
+- intro: CMU
+- arxiv: [https://arxiv.org/abs/1803.04489](https://arxiv.org/abs/1803.04489)
 
 # Generative Models
 
@@ -2662,6 +2678,16 @@ with fast exact probabilistic inference over many layers."
 **Full-Network Embedding in a Multimodal Embedding Pipeline**
 
 [https://arxiv.org/abs/1707.09872](https://arxiv.org/abs/1707.09872)
+
+**Clustering-driven Deep Embedding with Pairwise Constraints**
+
+[https://arxiv.org/abs/1803.08457](https://arxiv.org/abs/1803.08457)
+
+## Regression
+
+**A Comprehensive Analysis of Deep Regression**
+
+[https://arxiv.org/abs/1803.08450](https://arxiv.org/abs/1803.08450)
 
 ## CapsNets
 

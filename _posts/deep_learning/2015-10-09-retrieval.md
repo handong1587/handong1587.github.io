@@ -513,6 +513,10 @@ date: 2015-10-09
 - intro: City University of Hong Kong
 - arxiv: [https://arxiv.org/abs/1803.04137](https://arxiv.org/abs/1803.04137)
 
+**Unsupervised Semantic Deep Hashing**
+
+[https://arxiv.org/abs/1803.06911](https://arxiv.org/abs/1803.06911)
+
 # Cross Modal Retrieval
 
 **Cross-domain Image Retrieval with a Dual Attribute-aware Ranking Network**
@@ -629,6 +633,11 @@ date: 2015-10-09
 - arxiv: [https://arxiv.org/abs/1412.6622](https://arxiv.org/abs/1412.6622)
 - slides: [http://tce.technion.ac.il/wp-content/uploads/sites/8/2016/01/Elad-Hofer.pdf](http://tce.technion.ac.il/wp-content/uploads/sites/8/2016/01/Elad-Hofer.pdf)
 - github: [https://github.com/eladhoffer/TripletNet](https://github.com/eladhoffer/TripletNet)
+
+**Improved Deep Metric Learning with Multi-class N-pair Loss Objective**
+
+- intro: NIPS 2016
+- arxiv: [http://www.nec-labs.com/uploads/images/Department-Images/MediaAnalytics/papers/nips16_npairmetriclearning.pdf](http://www.nec-labs.com/uploads/images/Department-Images/MediaAnalytics/papers/nips16_npairmetriclearning.pdf)
 
 **Metric Learning with Adaptive Density Discrimination**
 

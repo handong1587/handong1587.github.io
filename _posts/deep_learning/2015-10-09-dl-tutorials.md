@@ -556,6 +556,10 @@ Machine learning workflow, Extracting feaures from images (colours, edges, corne
 
 [https://machinelearningmastery.com/exploding-gradients-in-neural-networks/](https://machinelearningmastery.com/exploding-gradients-in-neural-networks/)
 
+**Only Numpy: (Why I do Manual Back Propagation) Implementing Multi Channel/Layer Convolution Neural Network on Numpy with Interactive Code**
+
+[https://medium.com/swlh/only-numpy-why-i-do-manual-back-propagation-implementing-multi-channel-layer-convolution-neural-7d83242fcc24](https://medium.com/swlh/only-numpy-why-i-do-manual-back-propagation-implementing-multi-channel-layer-convolution-neural-7d83242fcc24)
+
 # Convolution
 
 **Understanding Convolutions**

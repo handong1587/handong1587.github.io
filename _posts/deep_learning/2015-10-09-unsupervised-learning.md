@@ -111,6 +111,11 @@ Auto-encoder
 - arxiv: [https://arxiv.org/abs/1508.04306](https://arxiv.org/abs/1508.04306)
 - github(Keras): [https://github.com/jcsilva/deep-clustering](https://github.com/jcsilva/deep-clustering)
 
+**Neural network-based clustering using pairwise constraints**
+
+- intro: ICLR 2016
+- arxiv: [https://arxiv.org/abs/1511.06321](https://arxiv.org/abs/1511.06321)
+
 **Unsupervised Deep Embedding for Clustering Analysis**
 
 - intro: ICML 2016. Deep Embedded Clustering (DEC)

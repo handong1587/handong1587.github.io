@@ -695,12 +695,25 @@ with built-in awareness of semantically meaningful boundaries. "
 
 **ShuffleSeg: Real-time Semantic Segmentation Network**
 
-[https://arxiv.org/abs/1803.03816](https://arxiv.org/abs/1803.03816)
+- intro: Cairo University
+- arxiv: [https://arxiv.org/abs/1803.03816](https://arxiv.org/abs/1803.03816)
 
 **Dynamic-structured Semantic Propagation Network**
 
 - intro: CVPR 2018
 - arxiv: [https://arxiv.org/abs/1803.06067](https://arxiv.org/abs/1803.06067)
+
+**ESPNet: Efficient Spatial Pyramid of Dilated Convolutions for Semantic Segmentation**
+
+- project page: [https://sacmehta.github.io/ESPNet/](https://sacmehta.github.io/ESPNet/)
+- arxiv: [https://arxiv.org/abs/1803.06815](https://arxiv.org/abs/1803.06815)
+- github: [https://github.com/sacmehta/ESPNet](https://github.com/sacmehta/ESPNet)
+
+**Context Encoding for Semantic Segmentation**
+
+- intro: CVPR 2018
+- arxiv: [https://arxiv.org/abs/1803.08904](https://arxiv.org/abs/1803.08904)
+- github: [https://github.com/zhanghang1989/PyTorch-Encoding](https://github.com/zhanghang1989/PyTorch-Encoding)
 
 # Instance Segmentation
 
@@ -889,6 +902,16 @@ with built-in awareness of semantically meaningful boundaries. "
 
 - intro: CVPR 2018
 - arxiv: [https://arxiv.org/abs/1803.01534](https://arxiv.org/abs/1803.01534)
+
+**Learning to Cluster for Proposal-Free Instance Segmentation**
+
+[https://arxiv.org/abs/1803.06459](https://arxiv.org/abs/1803.06459)
+
+**PersonLab: Person Pose Estimation and Instance Segmentation with a Bottom-Up, Part-Based, Geometric Embedding Model**
+
+- intro: Google, Inc.
+- keywords: Person detection and pose estimation, segmentation and grouping
+- arxiv: [https://arxiv.org/abs/1803.08225](https://arxiv.org/abs/1803.08225)
 
 # Specific Segmentation
 
@@ -1087,6 +1110,11 @@ ranked 1st place in ImageNet Scene Parsing Challenge 2016
 - intro: AAAI 2018
 - arxiv: [https://arxiv.org/abs/1801.01260](https://arxiv.org/abs/1801.01260)
 
+**Fusing Hierarchical Convolutional Features for Human Body Segmentation and Clothing Fashion Classification**
+
+- intro: Wuhan University
+- arxiv: [https://arxiv.org/abs/1803.03415](https://arxiv.org/abs/1803.03415)
+
 # Video Object Segmentation
 
 **Fast object segmentation in unconstrained video**
@@ -1212,6 +1240,10 @@ ranked 1st place in ImageNet Scene Parsing Challenge 2016
 
 - intro: CUHK
 - arxiv: [https://arxiv.org/abs/1803.04242](https://arxiv.org/abs/1803.04242)
+
+**Video Object Segmentation with Language Referring Expressions**
+
+[https://arxiv.org/abs/1803.08006](https://arxiv.org/abs/1803.08006)
 
 ## Challenge
 
