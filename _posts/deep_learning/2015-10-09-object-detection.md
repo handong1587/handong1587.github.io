@@ -868,7 +868,10 @@ Continuation of [arXiv:1608.08021](https://arxiv.org/abs/1608.08021)
 
 **Learning non-maximum suppression**
 
-[https://arxiv.org/abs/1705.02950](https://arxiv.org/abs/1705.02950)
+- intro: CVPR 2017
+- project page: [https://www.mpi-inf.mpg.de/departments/computer-vision-and-multimodal-computing/research/object-recognition-and-scene-understanding/learning-nms/](https://www.mpi-inf.mpg.de/departments/computer-vision-and-multimodal-computing/research/object-recognition-and-scene-understanding/learning-nms/)
+- arxiv: [https://arxiv.org/abs/1705.02950](https://arxiv.org/abs/1705.02950)
+- github: [https://github.com/hosang/gossipnet](https://github.com/hosang/gossipnet)
 
 **Relation Networks for Object Detection**
 
