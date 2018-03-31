@@ -788,5 +788,5 @@ perl -lne '$seen{$_}++ and next or print;' data.txt > output.txt
 
 ```
 str="/aaaa/bbbbb/cccc"
-echo $str | tr "/" "\"
+echo $str | tr "/" "\n"
 ```
