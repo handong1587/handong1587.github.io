@@ -715,6 +715,11 @@ with built-in awareness of semantically meaningful boundaries. "
 - arxiv: [https://arxiv.org/abs/1803.08904](https://arxiv.org/abs/1803.08904)
 - github: [https://github.com/zhanghang1989/PyTorch-Encoding](https://github.com/zhanghang1989/PyTorch-Encoding)
 
+**Adaptive Affinity Field for Semantic Segmentation**
+
+- intro: UC Berkeley / ICSI
+- arxiv: [https://arxiv.org/abs/1803.10335](https://arxiv.org/abs/1803.10335)
+
 # Instance Segmentation
 
 **Simultaneous Detection and Segmentation**
@@ -791,13 +796,12 @@ with built-in awareness of semantically meaningful boundaries. "
 - intro: ReInspect
 - arxiv: [http://arxiv.org/abs/1605.09410](http://arxiv.org/abs/1605.09410)
 
-## TA-FCN / FCIS
-
 **Translation-aware Fully Convolutional Instance Segmentation**
 
 **Fully Convolutional Instance-aware Semantic Segmentation**
 
 - intro:  CVPR 2017 Spotlight paper. winning entry of COCO segmentation challenge 2016
+- keywords:  TA-FCN / FCIS
 - arxiv: [https://arxiv.org/abs/1611.07709](https://arxiv.org/abs/1611.07709)
 - github: [https://github.com/msracver/FCIS](https://github.com/msracver/FCIS)
 - slides: [https://onedrive.live.com/?cid=f371d9563727b96f&id=F371D9563727B96F%2197213&authkey=%21AEYOyOirjIutSVk](https://onedrive.live.com/?cid=f371d9563727b96f&id=F371D9563727B96F%2197213&authkey=%21AEYOyOirjIutSVk)
@@ -907,11 +911,18 @@ with built-in awareness of semantically meaningful boundaries. "
 
 [https://arxiv.org/abs/1803.06459](https://arxiv.org/abs/1803.06459)
 
+## Human Instance Segmentation
+
 **PersonLab: Person Pose Estimation and Instance Segmentation with a Bottom-Up, Part-Based, Geometric Embedding Model**
 
 - intro: Google, Inc.
 - keywords: Person detection and pose estimation, segmentation and grouping
 - arxiv: [https://arxiv.org/abs/1803.08225](https://arxiv.org/abs/1803.08225)
+
+**Pose2Seg: Human Instance Segmentation Without Detection**
+
+- intro: Tsinghua University & Tencent AI Lab & Cardiff University
+- arxiv: [https://arxiv.org/abs/1803.10683](https://arxiv.org/abs/1803.10683)
 
 # Specific Segmentation
 
@@ -1207,6 +1218,11 @@ ranked 1st place in ImageNet Scene Parsing Challenge 2016
 - intro: ICCV 2017
 - arxiv: [https://arxiv.org/abs/1708.05137](https://arxiv.org/abs/1708.05137)
 
+**MaskRNN: Instance Level Video Object Segmentation**
+
+- intro: NIPS 2017
+- arxiv: [https://arxiv.org/abs/1803.11187](https://arxiv.org/abs/1803.11187)
+
 **SegFlow: Joint Learning for Video Object Segmentation and Optical Flow**
 
 - project page: [https://sites.google.com/site/yihsuantsai/research/iccv17-segflow](https://sites.google.com/site/yihsuantsai/research/iccv17-segflow)
@@ -1225,6 +1241,7 @@ ranked 1st place in ImageNet Scene Parsing Challenge 2016
 
 - intro: University of Southern California & Google Inc
 - arxiv: [https://arxiv.org/abs/1801.00908](https://arxiv.org/abs/1801.00908)
+- blog: [https://medium.com/@barvinograd1/instance-embedding-instance-segmentation-without-proposals-31946a7c53e1](https://medium.com/@barvinograd1/instance-embedding-instance-segmentation-without-proposals-31946a7c53e1)
 
 **Panoptic Segmentation**
 
@@ -1244,6 +1261,16 @@ ranked 1st place in ImageNet Scene Parsing Challenge 2016
 **Video Object Segmentation with Language Referring Expressions**
 
 [https://arxiv.org/abs/1803.08006](https://arxiv.org/abs/1803.08006)
+
+**Dynamic Video Segmentation Network**
+
+- intro: CVPR 2018
+- arxiv: [https://arxiv.org/abs/1804.00931](https://arxiv.org/abs/1804.00931)
+
+**Low-Latency Video Semantic Segmentation**
+
+- intro: CVPR 2018 Spotlight
+- arxiv: [https://arxiv.org/abs/1804.00389](https://arxiv.org/abs/1804.00389)
 
 ## Challenge
 

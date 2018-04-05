@@ -113,6 +113,11 @@ date: 2015-10-09
 - github: [https://github.com/ydwen/caffe-face](https://github.com/ydwen/caffe-face)
 - github: [https://github.com/pangyupo/mxnet_center_loss](https://github.com/pangyupo/mxnet_center_loss)
 
+**Deep Face Recognition with Center Invariant Loss**
+
+- intro: ACM MM Workshop
+- paper: [http://www1.ece.neu.edu/~yuewu/files/2017/twu024.pdf](http://www1.ece.neu.edu/~yuewu/files/2017/twu024.pdf)
+
 **How Image Degradations Affect Deep CNN-based Face Recognition?**
 
 - arxiv: [http://arxiv.org/abs/1608.05246](http://arxiv.org/abs/1608.05246)
@@ -158,11 +163,6 @@ date: 2015-10-09
 
 - arxiv: [https://arxiv.org/abs/1704.06369](https://arxiv.org/abs/1704.06369)
 - github: [https://github.com/happynear/NormFace](https://github.com/happynear/NormFace)
-
-**Deep Face Recognition with Center Invariant Loss**
-
-- intro: ACM MM Workshop
-- paper: [http://www1.ece.neu.edu/~yuewu/files/2017/twu024.pdf](http://www1.ece.neu.edu/~yuewu/files/2017/twu024.pdf)
 
 **SphereFace: Deep Hypersphere Embedding for Face Recognition**
 

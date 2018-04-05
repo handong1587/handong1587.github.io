@@ -95,6 +95,11 @@ date: 2015-10-09
 - project page: [http://research.nvidia.com/publication/2018-02_Learning-Binary-Residual](http://research.nvidia.com/publication/2018-02_Learning-Binary-Residual)
 - arxiv: [https://arxiv.org/abs/1712.05087](https://arxiv.org/abs/1712.05087)
 
+**Video Representation Learning Using Discriminative Pooling**
+
+- intro: CVPR 2018
+- arxiv: [https://arxiv.org/abs/1803.10628](https://arxiv.org/abs/1803.10628)
+
 # Video Classification
 
 **Large-scale Video Classification with Convolutional Neural Networks**

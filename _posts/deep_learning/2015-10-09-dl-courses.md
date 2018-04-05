@@ -317,6 +317,11 @@ such as image classification, object detection or text captioning.
 
 [https://www.udacity.com/course/intro-to-parallel-programming--cs344](https://www.udacity.com/course/intro-to-parallel-programming--cs344)
 
+**Fundamentals of Accelerated Computing with CUDA C/C++**
+
+- intro: Learn to use CUDA C/C++ tools and techniques to accelerate CPU-only applications to run on massively parallel GPUs.
+- homepage: [https://courses.nvidia.com/courses/course-v1:DLI+C-AC-01+V1/about](https://courses.nvidia.com/courses/course-v1:DLI+C-AC-01+V1/about)
+
 # Workshops
 
 **Deep Learning: Theory, Algorithms, and Applications**

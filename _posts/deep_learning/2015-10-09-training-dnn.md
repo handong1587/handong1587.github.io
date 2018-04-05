@@ -47,6 +47,12 @@ date: 2015-10-09
 
 [https://arxiv.org/abs/1709.06247](https://arxiv.org/abs/1709.06247)
 
+**Deep Learning using Rectified Linear Units (ReLU)**
+
+- intro: Adamson University
+- arxiv: [https://arxiv.org/abs/1803.08375](https://arxiv.org/abs/1803.08375)
+- github: [https://github.com/AFAgarap/relu-classifier](https://github.com/AFAgarap/relu-classifier)
+
 ## LReLU
 
 **Rectifier Nonlinearities Improve Neural Network Acoustic Models**
@@ -643,6 +649,20 @@ date: 2015-10-09
 - intro: CMU & UC Berkeley
 - arxiv: [https://arxiv.org/abs/1712.05577](https://arxiv.org/abs/1712.05577)
 
+## Adam
+
+**Adam: A Method for Stochastic Optimization**
+
+- intro: ICLR 2015
+- arxiv: [http://arxiv.org/abs/1412.6980](http://arxiv.org/abs/1412.6980)
+
+**Fixing Weight Decay Regularization in Adam**
+
+- intro: University of Freiburg
+- arxiv: [https://arxiv.org/abs/1711.05101](https://arxiv.org/abs/1711.05101)
+- github: [https://github.com/loshchil/AdamW-and-SGDW](https://github.com/loshchil/AdamW-and-SGDW)
+- github: [https://github.com/fastai/fastai/pull/46/files](https://github.com/fastai/fastai/pull/46/files)
+
 # Tensor Methods
 
 **Tensorizing Neural Networks**
@@ -801,13 +821,6 @@ date: 2015-10-09
 
 [https://arxiv.org/abs/1711.03343](https://arxiv.org/abs/1711.03343)
 
-**Fixing Weight Decay Regularization in Adam**
-
-- intro: University of Freiburg
-- arxiv: [https://arxiv.org/abs/1711.05101](https://arxiv.org/abs/1711.05101)
-- github: [https://github.com/loshchil/AdamW-and-SGDW](https://github.com/loshchil/AdamW-and-SGDW)
-- github: [https://github.com/fastai/fastai/pull/46/files](https://github.com/fastai/fastai/pull/46/files)
-
 **Regularization of Deep Neural Networks with Spectral Dropout**
 
 [https://arxiv.org/abs/1711.08591](https://arxiv.org/abs/1711.08591)
@@ -875,11 +888,6 @@ date: 2015-10-09
 
 - intro: it was not proposed in a paper, in fact it was just introduced in a slide in Geoffrey Hinton's Coursera class 
 - slides: [http://www.cs.toronto.edu/~tijmen/csc321/slides/lecture_slides_lec6.pdf](http://www.cs.toronto.edu/~tijmen/csc321/slides/lecture_slides_lec6.pdf)
-
-**Adam: A Method for Stochastic Optimization**
-
-- intro: ICLR 2015
-- arxiv: [http://arxiv.org/abs/1412.6980](http://arxiv.org/abs/1412.6980)
 
 **Fitting a model via closed-form equations vs. Gradient Descent vs Stochastic Gradient Descent vs Mini-Batch Learning. What is the difference?(Normal Equations vs. GD vs. SGD vs. MB-GD)**
 
@@ -1159,6 +1167,16 @@ date: 2015-10-09
 - arxiv: [https://arxiv.org/abs/1711.04340](https://arxiv.org/abs/1711.04340)
 - github: [https://github.com/AntreasAntoniou/DAGAN](https://github.com/AntreasAntoniou/DAGAN)
 
+**BAGAN: Data Augmentation with Balancing GAN**
+
+[https://arxiv.org/abs/1803.09655](https://arxiv.org/abs/1803.09655)
+
+**Parallel Grid Pooling for Data Augmentation**
+
+- intro: The University of Tokyo & NTT Communications Science Laboratories
+- arxiv: [https://arxiv.org/abs/1803.11370](https://arxiv.org/abs/1803.11370)
+- github(Chainer): [https://github.com/akitotakeki/pgp-chainer](https://github.com/akitotakeki/pgp-chainer)
+
 ## Imbalanced Datasets
 
 **Investigation on handling Structured & Imbalanced Datasets with Deep Learning**
@@ -1412,6 +1430,10 @@ date: 2015-10-09
 
 - arxiv: [https://arxiv.org/abs/1709.05021](https://arxiv.org/abs/1709.05021)
 - dataset: [http://clickbait.crossmobile.info/](http://clickbait.crossmobile.info/)
+
+**ClickBAIT-v2: Training an Object Detector in Real-Time**
+
+[https://arxiv.org/abs/1803.10358](https://arxiv.org/abs/1803.10358)
 
 # Papers
 

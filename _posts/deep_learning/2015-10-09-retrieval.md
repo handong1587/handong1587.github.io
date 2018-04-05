@@ -702,6 +702,14 @@ date: 2015-10-09
 - keywords: Cars-196, CUB-200-2011 and Stanford Online Product
 - arxiv: [https://arxiv.org/abs/1803.03310](https://arxiv.org/abs/1803.03310)
 
+**Deep Metric Learning**
+
+- github(PyTorch): [https://github.com/bnulihaixia/Deep_metric](https://github.com/bnulihaixia/Deep_metric)
+
+**Attention-based Ensemble for Deep Metric Learning**
+
+[https://arxiv.org/abs/1804.00382](https://arxiv.org/abs/1804.00382)
+
 # Talks / Slides
 
 **TiefVision: end-to-end image similarity search engine**
@@ -742,6 +750,11 @@ the 3rd National Gradute Contest on Smart-CIty Technology and Creative Design, C
 **Siamese and triplet networks with online pair/triplet mining in PyTorch**
 
 [https://github.com/adambielski/siamese-triplet](https://github.com/adambielski/siamese-triplet)
+
+**Triplet Loss and Online Triplet Mining in TensorFlow**
+
+- blog: [https://omoindrot.github.io/triplet-loss](https://omoindrot.github.io/triplet-loss)
+- gtihub: [https://github.com/omoindrot/tensorflow-triplet-loss](https://github.com/omoindrot/tensorflow-triplet-loss)
 
 # Blogs
 

@@ -471,6 +471,15 @@ at INT8 deep learning operations than other FPGA DSP architectures"
 - intro: Tsinghua University & ShanghaiTech University & Microsoft Research
 - arxiv: [https://arxiv.org/abs/1802.10399](https://arxiv.org/abs/1802.10399)
 
+**Adversarial Network Compression**
+
+[https://arxiv.org/abs/1803.10750](https://arxiv.org/abs/1803.10750)
+
+**Expanding a robot's life: Low power object recognition via FPGA-based DCNN deployment**
+
+- intro: MOCAST 2018
+- arxiv: [https://arxiv.org/abs/1804.00512](https://arxiv.org/abs/1804.00512)
+
 # Pruning
 
 **ThiNet: A Filter Level Pruning Method for Deep Neural Network Compression**

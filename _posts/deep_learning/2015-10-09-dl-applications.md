@@ -198,6 +198,11 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 
 - github: [https://github.com/marcbelmont/cnn-watermark-removal](https://github.com/marcbelmont/cnn-watermark-removal)
 
+**ELEGANT: Exchanging Latent Encodings with GAN for Transferring Multiple Face Attributes**
+
+- arxiv: [https://arxiv.org/abs/1803.10562](https://arxiv.org/abs/1803.10562)
+- github: [https://github.com/Prinsphield/ELEGANT](https://github.com/Prinsphield/ELEGANT)
+
 # Boundary / Edge / Contour Detection
 
 **Holistically-Nested Edge Detection**
@@ -623,6 +628,15 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 
 [https://arxiv.org/abs/1803.08190](https://arxiv.org/abs/1803.08190)
 
+**3D Human Pose Estimation in the Wild by Adversarial Learning**
+
+- intro: CVPR 2018
+- arxiv: [https://arxiv.org/abs/1803.09722](https://arxiv.org/abs/1803.09722)
+
+**Multi-Scale Structure-Aware Network for Human Pose Estimation**
+
+[https://arxiv.org/abs/1803.09894](https://arxiv.org/abs/1803.09894)
+
 # Sentiment Analysis / Sentiment Prediction
 
 **From Pixels to Sentiment: Fine-tuning CNNs for Visual Sentiment Prediction**
@@ -891,8 +905,9 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 
 **Crowd counting via scale-adaptive convolutional neural network**
 
-- intro: Tencent Youtu Lab
+- intro: WACV 2-18. Tencent Youtu Lab
 - arxiv: [https://arxiv.org/abs/1711.04433](https://arxiv.org/abs/1711.04433)
+- github: [https://github.com/miao0913/SaCNN-CrowdCounting-Tencent_Youtu](https://github.com/miao0913/SaCNN-CrowdCounting-Tencent_Youtu)
 
 **DecideNet: Counting Varying Density Crowds Through Attention Guided Detection and Density Estimation**
 
@@ -911,6 +926,10 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 
 - intro: CVPR 2018
 - arxiv: [https://arxiv.org/abs/1803.03095](https://arxiv.org/abs/1803.03095)
+
+**Crowd Counting via Adversarial Cross-Scale Consistency Pursuit**
+
+- intro: CVPR 2018
 
 # Activity Recognition
 
@@ -1426,6 +1445,11 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 
 [https://arxiv.org/abs/1803.08664](https://arxiv.org/abs/1803.08664)
 
+**Fast and Accurate Single Image Super-Resolution via Information Distillation Network**
+
+- intro: CVPR 2018
+- arxiv: [https://arxiv.org/abs/1803.09454](https://arxiv.org/abs/1803.09454)
+
 ## Video Super-resolution
 
 **Detail-revealing Deep Video Super-resolution**
@@ -1589,6 +1613,11 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 - arxiv: [https://arxiv.org/abs/1803.08396](https://arxiv.org/abs/1803.08396)
 - github: [https://github.com/hezhangsprinter/DCPDN](https://github.com/hezhangsprinter/DCPDN)
 
+**Gated Fusion Network for Single Image Dehazing**
+
+- project page: [https://sites.google.com/site/renwenqi888/research/dehazing/gfn](https://sites.google.com/site/renwenqi888/research/dehazing/gfn)
+- arxiv: [https://arxiv.org/abs/1804.00213](https://arxiv.org/abs/1804.00213)
+
 # Image Rain Removal / De-raining
 
 **Clearing the Skies: A deep network architecture for single-image rain removal**
@@ -1620,6 +1649,10 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 - intro: CVPR 2018
 - arxiv: [https://arxiv.org/abs/1803.08396](https://arxiv.org/abs/1803.08396)
 - github: [https://github.com/hezhangsprinter/DID-MDN](https://github.com/hezhangsprinter/DID-MDN)
+
+**Robust Video Content Alignment and Compensation for Rain Removal in a CNN Framework**
+
+[https://arxiv.org/abs/1803.10433](https://arxiv.org/abs/1803.10433)
 
 # Fence Removal
 
@@ -1716,6 +1749,10 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 - intro: CVPR 2018
 - arxiv: [https://arxiv.org/abs/1803.03363](https://arxiv.org/abs/1803.03363)
 
+**Adversarial Spatio-Temporal Learning for Video Deblurring**
+
+[https://arxiv.org/abs/1804.00533](https://arxiv.org/abs/1804.00533)
+
 # Image Compression
 
 **An image compression and encryption scheme based on deep learning**
@@ -1810,6 +1847,10 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 
 - intro: DAC 2018
 - arxiv: [https://arxiv.org/abs/1803.05788](https://arxiv.org/abs/1803.05788)
+
+**The Effects of JPEG and JPEG2000 Compression on Attacks using Adversarial Examples**
+
+[https://arxiv.org/abs/1803.10418](https://arxiv.org/abs/1803.10418)
 
 # Image Quality Assessment
 
@@ -2181,6 +2222,15 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 - intro: CVPR 2018
 - arxiv: [https://arxiv.org/abs/1803.08669](https://arxiv.org/abs/1803.08669)
 - github: [https://github.com/JiaRenChang/PSMNet](https://github.com/JiaRenChang/PSMNet)
+
+**Cascaded multi-scale and multi-dimension convolutional neural network for stereo matching**
+
+[https://arxiv.org/abs/1803.09437](https://arxiv.org/abs/1803.09437)
+
+**Left-Right Comparative Recurrent Model for Stereo Matching**
+
+- intro: CVPR 2018
+- arxiv: [https://arxiv.org/abs/1804.00796](https://arxiv.org/abs/1804.00796)
 
 # Optical Flow
 

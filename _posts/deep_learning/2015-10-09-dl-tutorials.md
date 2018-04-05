@@ -560,6 +560,11 @@ Machine learning workflow, Extracting feaures from images (colours, edges, corne
 
 [https://medium.com/swlh/only-numpy-why-i-do-manual-back-propagation-implementing-multi-channel-layer-convolution-neural-7d83242fcc24](https://medium.com/swlh/only-numpy-why-i-do-manual-back-propagation-implementing-multi-channel-layer-convolution-neural-7d83242fcc24)
 
+**92.45% on CIFAR-10 in Torch**
+
+- intro: Dropout after Convolution
+- blog: [http://torch.ch/blog/2015/07/30/cifar.html](http://torch.ch/blog/2015/07/30/cifar.html)
+
 # Convolution
 
 **Understanding Convolutions**

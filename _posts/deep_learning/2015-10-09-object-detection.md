@@ -305,7 +305,7 @@ date: 2015-10-09
 - intro: Bounding box labeler tool to generate the training data in the format YOLO v2 requires.
 - github: [https://github.com/Cartucho/yolo-boundingbox-labeler-GUI](https://github.com/Cartucho/yolo-boundingbox-labeler-GUI)
 
-# YOLOv3
+## YOLOv3
 
 **YOLOv3: An Incremental Improvement**
 
@@ -838,12 +838,23 @@ Continuation of [arXiv:1608.08021](https://arxiv.org/abs/1608.08021)
 
 **Single-Shot Bidirectional Pyramid Networks for High-Quality Object Detection**
 
-[https://arxiv.org/abs/1803.08208](https://arxiv.org/abs/1803.08208)
+- intro: Singapore Management University & Zhejiang University
+- arxiv: [https://arxiv.org/abs/1803.08208](https://arxiv.org/abs/1803.08208)
 
 **Object Detection for Comics using Manga109 Annotations**
 
 - intro: University of Tokyo & National Institute of Informatics, Japan
 - arxiv: [https://arxiv.org/abs/1803.08670](https://arxiv.org/abs/1803.08670)
+
+**Transferring Common-Sense Knowledge for Object Detection**
+
+[https://arxiv.org/abs/1804.01077](https://arxiv.org/abs/1804.01077)
+
+**Multi-scale Location-aware Kernel Representation for Object Detection**
+
+- intro: CVPR 2018
+- arxiv: [https://arxiv.org/abs/1804.00428](https://arxiv.org/abs/1804.00428)
+- github: [https://github.com/Hwang64/MLKP](https://github.com/Hwang64/MLKP)
 
 # Non-Maximum Suppression (NMS)
 
@@ -1211,6 +1222,11 @@ This task involves predicting the salient regions of an image given by human eye
 - intro: 2nd Workshop on Visualisation for Deep Learning in the 34th International Conference On Machine Learning
 - arxiv: [https://arxiv.org/abs/1801.04261](https://arxiv.org/abs/1801.04261)
 
+**Contrast-Oriented Deep Neural Networks for Salient Object Detection**
+
+- intro: TNNLS
+- arxiv: [https://arxiv.org/abs/1803.11395](https://arxiv.org/abs/1803.11395)
+
 # Video Saliency Detection
 
 **Deep Learning For Video Saliency Detection**
@@ -1384,6 +1400,11 @@ This task involves predicting the salient regions of an image given by human eye
 - intro: CVPR 2017. SenseTime & Tsinghua University
 - arxiv: [https://arxiv.org/abs/1706.09876](https://arxiv.org/abs/1706.09876)
 
+**Detecting Faces Using Inside Cascaded Contextual CNN**
+
+- intro: CVPR 2017. Tencent AI Lab & SenseTime
+- paper: [http://ai.tencent.com/ailab/media/publications/Detecting_Faces_Using_Inside_Cascaded_Contextual_CNN.pdf](http://ai.tencent.com/ailab/media/publications/Detecting_Faces_Using_Inside_Cascaded_Contextual_CNN.pdf)
+
 **Multi-Branch Fully Convolutional Network for Face Detection**
 
 [https://arxiv.org/abs/1707.06330](https://arxiv.org/abs/1707.06330)
@@ -1438,6 +1459,11 @@ This task involves predicting the salient regions of an image given by human eye
 - intro: Baidu, Inc
 - arxiv: [https://arxiv.org/abs/1803.07737](https://arxiv.org/abs/1803.07737)
 
+**A Fast Face Detection Method via Convolutional Neural Network**
+
+- intro: Neurocomputing
+- arxiv: [https://arxiv.org/abs/1803.10103](https://arxiv.org/abs/1803.10103)
+
 ## Detect Small Faces
 
 **Finding Tiny Faces**
@@ -1476,6 +1502,10 @@ This task involves predicting the salient regions of an image given by human eye
 - project page: [http://www.di.ens.fr/willow/research/headdetection/](http://www.di.ens.fr/willow/research/headdetection/)
 - arxiv: [http://arxiv.org/abs/1511.07917](http://arxiv.org/abs/1511.07917)
 - github: [https://github.com/aosokin/cnn_head_detection](https://github.com/aosokin/cnn_head_detection)
+
+**Detecting Heads using Feature Refine Net and Cascaded Multi-scale Architecture**
+
+[https://arxiv.org/abs/1803.09256](https://arxiv.org/abs/1803.09256)
 
 # Pedestrian Detection / People Detection
 
@@ -1614,6 +1644,10 @@ This task involves predicting the salient regions of an image given by human eye
 - intro: State Key Lab of CAD&CG, Zhejiang University
 - arxiv: [https://arxiv.org/abs/1803.05347](https://arxiv.org/abs/1803.05347)
 
+**Exploring Multi-Branch and High-Level Semantic Networks for Improving Pedestrian Detection**
+
+[https://arxiv.org/abs/1804.00872](https://arxiv.org/abs/1804.00872)
+
 # Vehicle Detection
 
 **DAVE: A Unified Framework for Fast Vehicle Detection and Annotation**
@@ -1630,13 +1664,23 @@ This task involves predicting the salient regions of an image given by human eye
 - intro: AAAI 2016
 - arxiv: [https://arxiv.org/abs/1709.02480](https://arxiv.org/abs/1709.02480)
 
+**SINet: A Scale-insensitive Convolutional Neural Network for Fast Vehicle Detection**
+
+[https://arxiv.org/abs/1804.00433](https://arxiv.org/abs/1804.00433)
+
 # Traffic-Sign Detection
 
 **Traffic-Sign Detection and Classification in the Wild**
 
+- intro: CVPR 2016
 - project page(code+dataset): [http://cg.cs.tsinghua.edu.cn/traffic-sign/](http://cg.cs.tsinghua.edu.cn/traffic-sign/)
 - paper: [http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Zhu_Traffic-Sign_Detection_and_CVPR_2016_paper.pdf](http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Zhu_Traffic-Sign_Detection_and_CVPR_2016_paper.pdf)
 - code & model: [http://cg.cs.tsinghua.edu.cn/traffic-sign/data_model_code/newdata0411.zip](http://cg.cs.tsinghua.edu.cn/traffic-sign/data_model_code/newdata0411.zip)
+
+**Evaluating State-of-the-art Object Detector on Challenging Traffic Light Data**
+
+- intro: CVPR 2017 workshop
+- paper: [http://openaccess.thecvf.com/content_cvpr_2017_workshops/w9/papers/Jensen_Evaluating_State-Of-The-Art_Object_CVPR_2017_paper.pdf](http://openaccess.thecvf.com/content_cvpr_2017_workshops/w9/papers/Jensen_Evaluating_State-Of-The-Art_Object_CVPR_2017_paper.pdf)
 
 **Detecting Small Signs from Large Images**
 
@@ -1696,7 +1740,7 @@ This task involves predicting the salient regions of an image given by human eye
 
 [https://arxiv.org/abs/1712.04142](https://arxiv.org/abs/1712.04142)
 
-# Others Deteciton
+# Others Detection
 
 **Deep Deformation Network for Object Landmark Localization**
 
@@ -1743,6 +1787,10 @@ This task involves predicting the salient regions of an image given by human eye
 
 - arxiv: [https://arxiv.org/abs/1612.09322](https://arxiv.org/abs/1612.09322)
 
+**Scalable Deep Learning Logo Detection**
+
+[https://arxiv.org/abs/1803.11417](https://arxiv.org/abs/1803.11417)
+
 **Pixel-wise Ear Detection with Convolutional Encoder-Decoder Networks**
 
 - arxiv: [https://arxiv.org/abs/1702.00307](https://arxiv.org/abs/1702.00307)
@@ -1788,6 +1836,12 @@ This task involves predicting the salient regions of an image given by human eye
 
 - intro: WACV 2018
 - arxiv: [https://arxiv.org/abs/1801.02031](https://arxiv.org/abs/1801.02031)
+
+**Deep Learning Object Detection Methods for Ecological Camera Trap Data**
+
+- intro: Conference of Computer and Robot Vision. University of Guelph
+- arxiv: [https://arxiv.org/abs/1803.10842](https://arxiv.org/abs/1803.10842)
+
 
 # Object Proposal
 

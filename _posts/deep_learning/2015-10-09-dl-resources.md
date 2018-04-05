@@ -419,6 +419,8 @@ not just the convolutions)
 - intro: Google
 - keywords: MobileNetV2, SSDLite, DeepLabv3
 - arxiv: [https://arxiv.org/abs/1801.04381](https://arxiv.org/abs/1801.04381)
+- github: [https://github.com/tensorflow/models/tree/master/research/slim/nets/mobilenet](https://github.com/tensorflow/models/tree/master/research/slim/nets/mobilenet)
+- blog: [https://research.googleblog.com/2018/04/mobilenetv2-next-generation-of-on.html](https://research.googleblog.com/2018/04/mobilenetv2-next-generation-of-on.html)
 
 ## SENet
 
@@ -746,6 +748,11 @@ not just the convolutions)
 - arxiv: [https://arxiv.org/abs/1711.05769](https://arxiv.org/abs/1711.05769)
 - github: [https://github.com/arunmallya/packnet](https://github.com/arunmallya/packnet)
 
+**End-to-End Multi-Task Learning with Attention**
+
+- intro: Imperial College London
+- arxiv: [https://arxiv.org/abs/1803.10704](https://arxiv.org/abs/1803.10704)
+
 # Multi-modal Learning
 
 **Multimodal Deep Learning**
@@ -824,7 +831,7 @@ not just the convolutions)
 - intro: NIPS 2016
 - paper: [http://www.cs.toronto.edu/~wenjie/papers/nips16/top.pdf](http://www.cs.toronto.edu/~wenjie/papers/nips16/top.pdf)
 
-# Adversarial Examples of Deep Learning
+# Adversarial Attacks and Defences
 
 **Intriguing properties of neural networks**
 
@@ -1066,6 +1073,15 @@ not just the convolutions)
 
 - arxiv: [https://arxiv.org/abs/1803.06978](https://arxiv.org/abs/1803.06978)
 - github: [https://github.com/cihangxie/DI-2-FGSM](https://github.com/cihangxie/DI-2-FGSM)
+
+**Adversarial Attacks and Defences Competition**
+
+- intro: Google Brain & Tsinghua University & The Johns Hopkins University
+- arxiv: [https://arxiv.org/abs/1804.00097](https://arxiv.org/abs/1804.00097)
+
+**Semantic Adversarial Examples**
+
+[https://arxiv.org/abs/1804.00499](https://arxiv.org/abs/1804.00499)
 
 # Deep Learning Networks
 
@@ -1663,6 +1679,11 @@ with fast exact probabilistic inference over many layers."
 - intro: Google Brain
 - paper: [https://openreview.net/pdf?id=r1Ue8Hcxg](https://openreview.net/pdf?id=r1Ue8Hcxg)
 
+**Neural Optimizer Search with Reinforcement Learning**
+
+- intro: ICML 2017
+- arxiv: [https://arxiv.org/abs/1709.07417](https://arxiv.org/abs/1709.07417)
+
 **Learning Transferable Architectures for Scalable Image Recognition**
 
 - intro: Google Brain
@@ -1704,6 +1725,8 @@ with fast exact probabilistic inference over many layers."
 
 - intro: Google Brain & CMU & Stanford University
 - arxiv: [https://arxiv.org/abs/1802.03268](https://arxiv.org/abs/1802.03268)
+- github: [https://github.com/carpedm20/ENAS-pytorch](https://github.com/carpedm20/ENAS-pytorch)
+- github: [https://github.com/melodyguan/enas](https://github.com/melodyguan/enas)
 
 **Neural Architecture Search with Bayesian Optimisation and Optimal Transport**
 
@@ -1936,6 +1959,10 @@ with fast exact probabilistic inference over many layers."
 - project page: [http://rpg.ifi.uzh.ch/dronet.html](http://rpg.ifi.uzh.ch/dronet.html)
 - paper: [http://rpg.ifi.uzh.ch/docs/RAL18_Loquercio.pdf](http://rpg.ifi.uzh.ch/docs/RAL18_Loquercio.pdf)
 - github: [https://github.com/uzh-rpg/rpg_public_dronet](https://github.com/uzh-rpg/rpg_public_dronet)
+
+**A Survey on Deep Learning Methods for Robot Vision**
+
+[https://arxiv.org/abs/1803.10862](https://arxiv.org/abs/1803.10862)
 
 # Deep Learning on Mobile / Embedded Devices
 
@@ -2667,6 +2694,14 @@ with fast exact probabilistic inference over many layers."
 **Deep Visual Domain Adaptation: A Survey**
 
 [https://arxiv.org/abs/1802.03601](https://arxiv.org/abs/1802.03601)
+
+**Unsupervised Domain Adaptation: A Multi-task Learning-based Method**
+
+[https://arxiv.org/abs/1803.09208](https://arxiv.org/abs/1803.09208)
+
+**Importance Weighted Adversarial Nets for Partial Domain Adaptation**
+
+[https://arxiv.org/abs/1803.09210](https://arxiv.org/abs/1803.09210)
 
 ## Embedding
 

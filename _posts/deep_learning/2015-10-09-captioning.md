@@ -488,6 +488,21 @@ after the embedding and recurrent layers of the RNN."
 
 [https://arxiv.org/abs/1803.07950](https://arxiv.org/abs/1803.07950)
 
+**End-to-End Dense Video Captioning with Masked Transformer**
+
+- intro: CVPR 2018
+- arxiv: [https://arxiv.org/abs/1804.00819](https://arxiv.org/abs/1804.00819)
+
+**Reconstruction Network for Video Captioning**
+
+- intro: CVPR 2018
+- arxiv: [https://arxiv.org/abs/1803.11438](https://arxiv.org/abs/1803.11438)
+
+**Bidirectional Attentive Fusion with Context Gating for Dense Video Captioning**
+
+- intro: CVPR 2018 spotlight paper
+- arxiv: [https://arxiv.org/abs/1804.00100](https://arxiv.org/abs/1804.00100)
+
 # Projects
 
 **Learning CNN-LSTM Architectures for Image Caption Generation: An implementation of CNN-LSTM image caption generator architecture that achieves close to state-of-the-art results on the MSCOCO dataset.**

@@ -148,6 +148,13 @@ date: 2015-10-09
 - video: [http://pan.baidu.com/s/1bnWGuIz/](http://pan.baidu.com/s/1bnWGuIz/)
 - assignment: [http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching_files/Easy21-Johannes.pdf](http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching_files/Easy21-Johannes.pdf)
 
+**CS 294: Deep Reinforcement Learning, Fall 2017**
+
+- instructor: Sergey Levine
+- homepage: [http://rll.berkeley.edu/deeprlcourse/](http://rll.berkeley.edu/deeprlcourse/)
+- youtube: [https://www.youtube.com/playlist?list=PLkFD6_40KJIznC9CDbVTjAF2oyt8_VAe3](https://www.youtube.com/playlist?list=PLkFD6_40KJIznC9CDbVTjAF2oyt8_VAe3)
+- bilibili: [https://www.bilibili.com/video/av21501169/](https://www.bilibili.com/video/av21501169/)
+
 **CS 294: Deep Reinforcement Learning, Spring 2017**
 
 - course page: [http://rll.berkeley.edu/deeprlcoursesp17/](http://rll.berkeley.edu/deeprlcoursesp17/)

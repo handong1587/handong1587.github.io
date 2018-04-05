@@ -295,6 +295,11 @@ testing it on the MNIST handwritten digits data.
 - keywords: Deep Matching Autoencoders (DMAE)
 - arxiv: [https://arxiv.org/abs/1711.06047](https://arxiv.org/abs/1711.06047)
 
+**Understanding Autoencoders with Information Theoretic Concepts**
+
+- intro: University of Florida
+- arxiv: [https://arxiv.org/abs/1804.00057](https://arxiv.org/abs/1804.00057)
+
 # RBM (Restricted Boltzmann Machine)
 
 ## Papers

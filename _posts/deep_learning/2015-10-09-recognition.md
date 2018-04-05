@@ -138,6 +138,15 @@ date: 2015-10-09
 - intro: The University of Tokyo & RIKEN
 - arxiv: [https://arxiv.org/abs/1711.10284](https://arxiv.org/abs/1711.10284)
 
+**Co-domain Embedding using Deep Quadruplet Networks for Unseen Traffic Sign Recognition**
+
+- intro: AAAI 2018
+- arix:v[https://arxiv.org/abs/1712.01907](https://arxiv.org/abs/1712.01907)
+
+**µNet: A Highly Compact Deep Convolutional Neural Network Architecture for Real-time Embedded Traffic Sign Classification**
+
+[https://arxiv.org/abs/1804.00497](https://arxiv.org/abs/1804.00497)
+
 **Deep Predictive Coding Network for Object Recognition**
 
 [https://arxiv.org/abs/1802.04762](https://arxiv.org/abs/1802.04762)
@@ -383,11 +392,6 @@ date: 2015-10-09
 
 - intro: ICCV 2017
 - arxiv: [https://arxiv.org/abs/1709.08553](https://arxiv.org/abs/1709.08553)
-
-**Co-domain Embedding using Deep Quadruplet Networks for Unseen Traffic Sign Recognition**
-
-- intro: AAAI 2018
-- arix:v[https://arxiv.org/abs/1712.01907](https://arxiv.org/abs/1712.01907)
 
 # Pedestrian Attribute Recognition
 
