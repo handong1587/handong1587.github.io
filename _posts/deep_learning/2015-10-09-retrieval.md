@@ -517,6 +517,11 @@ date: 2015-10-09
 
 [https://arxiv.org/abs/1803.06911](https://arxiv.org/abs/1803.06911)
 
+**SketchMate: Deep Hashing for Million-Scale Human Sketch Retrieval**
+
+- intro: CVPR 2018
+- arxiv: [https://arxiv.org/abs/1804.01401](https://arxiv.org/abs/1804.01401)
+
 # Cross Modal Retrieval
 
 **Cross-domain Image Retrieval with a Dual Attribute-aware Ranking Network**

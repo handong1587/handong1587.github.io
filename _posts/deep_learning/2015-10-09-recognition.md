@@ -401,6 +401,11 @@ date: 2015-10-09
 - paper: [http://or.nsfc.gov.cn/bitstream/00001903-5/417802/1/1000014103914.pdf](http://or.nsfc.gov.cn/bitstream/00001903-5/417802/1/1000014103914.pdf)
 - github: [https://github.com/kyu-sz/DeepMAR_deploy](https://github.com/kyu-sz/DeepMAR_deploy)
 
+**Human Attribute Recognition by Deep Hierarchical Contexts**
+
+- intro: ECCV 2016
+- paper: [http://personal.ie.cuhk.edu.hk/~ccloy/files/eccv_2016_human.pdf](http://personal.ie.cuhk.edu.hk/~ccloy/files/eccv_2016_human.pdf)
+
 **Robust Pedestrian Attribute Recognition for an Unbalanced Dataset using Mini-batch Training with Rarity Rate**
 
 - intro: Intelligent Vehicles Symposium 2016. Chubu University & Nagoya University, Japan

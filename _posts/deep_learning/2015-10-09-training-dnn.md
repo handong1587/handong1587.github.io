@@ -927,6 +927,10 @@ date: 2015-10-09
 - intro: Universite de Montreal & University of Oxford
 - arxiv: [https://arxiv.org/abs/1703.00788](https://arxiv.org/abs/1703.00788)
 
+**Accelerating Stochastic Gradient Descent**
+
+[https://arxiv.org/abs/1704.08227](https://arxiv.org/abs/1704.08227)
+
 **Gentle Introduction to the Adam Optimization Algorithm for Deep Learning**
 
 - blog: [http://machinelearningmastery.com/adam-optimization-algorithm-for-deep-learning/](http://machinelearningmastery.com/adam-optimization-algorithm-for-deep-learning/)
