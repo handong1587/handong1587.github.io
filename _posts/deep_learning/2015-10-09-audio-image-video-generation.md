@@ -220,6 +220,7 @@ date: 2015-10-09
 
 **Disentangled Person Image Generation**
 
+- intro: CVPR 2018 spotlight
 - intro: KU-Leuven/PSI & Max Planck Institute for Informatics & ETH Zurich
 - arxiv: [https://arxiv.org/abs/1712.02621](https://arxiv.org/abs/1712.02621)
 
@@ -227,6 +228,7 @@ date: 2015-10-09
 
 - intro: NIPS 2017
 - arxiv: [https://arxiv.org/abs/1705.09368](https://arxiv.org/abs/1705.09368)
+- poster: [https://homes.esat.kuleuven.be/~liqianma/NIPS17_PG2/NIPS17_PG2_poster.pdf](https://homes.esat.kuleuven.be/~liqianma/NIPS17_PG2/NIPS17_PG2_poster.pdf)
 
 **Deformable GANs for Pose-based Human Image Generation**
 

@@ -490,7 +490,7 @@ after the embedding and recurrent layers of the RNN."
 
 **End-to-End Dense Video Captioning with Masked Transformer**
 
-- intro: CVPR 2018
+- intro: CVPR 2018. University of Michigan & Salesforce Research
 - arxiv: [https://arxiv.org/abs/1804.00819](https://arxiv.org/abs/1804.00819)
 
 **Reconstruction Network for Video Captioning**

@@ -1498,6 +1498,10 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 
 [https://arxiv.org/abs/1803.10433](https://arxiv.org/abs/1803.10433)
 
+**Fast Single Image Rain Removal via a Deep Decomposition-Composition Network**
+
+[https://arxiv.org/abs/1804.02688](https://arxiv.org/abs/1804.02688)
+
 # Fence Removal
 
 **Deep learning based fence segmentation and removal from an image using a video sequence**

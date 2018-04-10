@@ -734,6 +734,11 @@ date: 2015-10-09
 
 [https://arxiv.org/abs/1712.04711](https://arxiv.org/abs/1712.04711)
 
+**Regularizing Deep Networks by Modeling and Predicting Label Structure**
+
+- intro: CVPR 2018
+- arxiv: [https://arxiv.org/abs/1804.02009](https://arxiv.org/abs/1804.02009)
+
 ## Dropout
 
 **Improving neural networks by preventing co-adaptation of feature detectors**

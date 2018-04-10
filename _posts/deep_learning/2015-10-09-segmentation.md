@@ -138,6 +138,11 @@ date: 2015-10-09
 
 [https://arxiv.org/abs/1802.03248](https://arxiv.org/abs/1802.03248)
 
+**A Pyramid CNN for Dense-Leaves Segmentation**
+
+- intro: Computer and Robot Vision, Toronto, May 2018
+- arxiv: [https://arxiv.org/abs/1804.01646](https://arxiv.org/abs/1804.01646)
+
 # Foreground Object Segmentation
 
 **Pixel Objectness**
@@ -720,6 +725,11 @@ with built-in awareness of semantically meaningful boundaries. "
 - intro: UC Berkeley / ICSI
 - arxiv: [https://arxiv.org/abs/1803.10335](https://arxiv.org/abs/1803.10335)
 
+**Predicting Future Instance Segmentations by Forecasting Convolutional Features**
+
+- intro: Facebook AI Research & Univ. Grenoble Alpes
+- arxiv: [https://arxiv.org/abs/1803.11496](https://arxiv.org/abs/1803.11496)
+
 # Instance Segmentation
 
 **Simultaneous Detection and Segmentation**
@@ -1271,6 +1281,11 @@ ranked 1st place in ImageNet Scene Parsing Challenge 2016
 
 - intro: CVPR 2018 Spotlight
 - arxiv: [https://arxiv.org/abs/1804.00389](https://arxiv.org/abs/1804.00389)
+
+**Blazingly Fast Video Object Segmentation with Pixel-Wise Metric Learning**
+
+- intro: CVPR 2018
+- arxiv: [https://arxiv.org/abs/1804.03131](https://arxiv.org/abs/1804.03131)
 
 ## Challenge
 

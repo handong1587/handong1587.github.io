@@ -222,8 +222,9 @@ date: 2015-10-09
 
 **Non-local Neural Networks**
 
-- intro: CMU & Facebook AI Research
+- intro: CVPR 2018. CMU & Facebook AI Research
 - arxiv: [https://arxiv.org/abs/1711.07971](https://arxiv.org/abs/1711.07971)
+- github(Caffe2): [https://github.com/facebookresearch/video-nonlocal-net](https://github.com/facebookresearch/video-nonlocal-net)
 
 **Temporal 3D ConvNets: New Architecture and Transfer Learning for Video Classification**
 
@@ -753,6 +754,11 @@ alleviates the problem of video browsing, editing and indexing.
 - project page: [https://kaiyangzhou.github.io/project_vsumm_reinforce/index.html](https://kaiyangzhou.github.io/project_vsumm_reinforce/index.html)
 - arxiv: [https://arxiv.org/abs/1801.00054](https://arxiv.org/abs/1801.00054)
 - github: [https://github.com//KaiyangZhou/vsumm-reinforce](https://github.com//KaiyangZhou/vsumm-reinforce)
+
+**Viewpoint-aware Video Summarization**
+
+- intro: CVPR 2018
+- arxiv: [https://arxiv.org/abs/1804.02843](https://arxiv.org/abs/1804.02843)
 
 # Video Highlight Detection
 

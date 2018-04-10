@@ -146,8 +146,9 @@ date: 2015-10-09
 
 **Cascade R-CNN: Delving into High Quality Object Detection**
 
+- intro: CVPR 2018. UC San Diego
 - arxiv: [https://arxiv.org/abs/1712.00726](https://arxiv.org/abs/1712.00726)
-- github: [https://github.com/zhaoweicai/cascade-rcnn](https://github.com/zhaoweicai/cascade-rcnn)
+- github(Caffe, official): [https://github.com/zhaoweicai/cascade-rcnn](https://github.com/zhaoweicai/cascade-rcnn)
 
 ## MultiBox
 
@@ -310,7 +311,7 @@ date: 2015-10-09
 **YOLOv3: An Incremental Improvement**
 
 - project page: [https://pjreddie.com/darknet/yolo/](https://pjreddie.com/darknet/yolo/)
-- arxiv: []
+- arxiv: [https://arxiv.org/abs/1804.02767](https://arxiv.org/abs/1804.02767)
 
 - - -
 
@@ -709,6 +710,10 @@ Continuation of [arXiv:1608.08021](https://arxiv.org/abs/1608.08021)
 - keywords: RetinaNet
 - arxiv: [https://arxiv.org/abs/1708.02002](https://arxiv.org/abs/1708.02002)
 
+**Focal Loss Dense Detector for Vehicle Surveillance**
+
+[https://arxiv.org/abs/1803.01114](https://arxiv.org/abs/1803.01114)
+
 **CoupleNet: Coupling Global Structure with Local Parts for Object Detection**
 
 - intro: ICCV 2017
@@ -845,6 +850,10 @@ Continuation of [arXiv:1608.08021](https://arxiv.org/abs/1608.08021)
 
 - intro: University of Tokyo & National Institute of Informatics, Japan
 - arxiv: [https://arxiv.org/abs/1803.08670](https://arxiv.org/abs/1803.08670)
+
+**Task-Driven Super Resolution: Object Detection in Low-resolution Images**
+
+[https://arxiv.org/abs/1803.11316](https://arxiv.org/abs/1803.11316)
 
 **Transferring Common-Sense Knowledge for Object Detection**
 
@@ -1534,8 +1543,6 @@ This task involves predicting the salient regions of an image given by human eye
 
 **End-to-end people detection in crowded scenes**
 
-![](/assets/object-detection-materials/end_to_end_people_detection_in_crowded_scenes.jpg)
-
 - arxiv: [http://arxiv.org/abs/1506.04878](http://arxiv.org/abs/1506.04878)
 - github: [https://github.com/Russell91/reinspect](https://github.com/Russell91/reinspect)
 - ipn: [http://nbviewer.ipython.org/github/Russell91/ReInspect/blob/master/evaluation_reinspect.ipynb](http://nbviewer.ipython.org/github/Russell91/ReInspect/blob/master/evaluation_reinspect.ipynb)
@@ -1647,6 +1654,10 @@ This task involves predicting the salient regions of an image given by human eye
 **Exploring Multi-Branch and High-Level Semantic Networks for Improving Pedestrian Detection**
 
 [https://arxiv.org/abs/1804.00872](https://arxiv.org/abs/1804.00872)
+
+**Pedestrian-Synthesis-GAN: Generating Pedestrian Data in Real Scene and Beyond**
+
+[https://arxiv.org/abs/1804.02047](https://arxiv.org/abs/1804.02047)
 
 # Vehicle Detection
 

@@ -188,4 +188,11 @@ date: 2015-10-09
 
 - intro: an accurate multi-person pose estimation system
 - project page: [http://www.mvig.org/research/alphapose.html](http://www.mvig.org/research/alphapose.html)
-- github: [https://github.com/MVIG-SJTU/AlphaPose](https://github.com/MVIG-SJTU/AlphaPose)
+
+# Projects
+
+**MobilePose: Single Person Pose Estimation for Mobile Device**
+
+- intro: a Tiny PyTorch implementation of single person 2D pose estimation framework
+- github: [https://github.com/YuliangXiu/MobilePose-pytorch](https://github.com/YuliangXiu/MobilePose-pytorch)
+ github: [https://github.com/MVIG-SJTU/AlphaPose](https://github.com/MVIG-SJTU/AlphaPose)

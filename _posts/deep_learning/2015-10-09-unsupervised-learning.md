@@ -104,6 +104,10 @@ Auto-encoder
 - intro: Arts et Métiers ParisTech
 - arxiv: [https://arxiv.org/abs/1707.01700](https://arxiv.org/abs/1707.01700)
 
+**Supervised Convolutional Sparse Coding**
+
+[https://arxiv.org/abs/1804.02678](https://arxiv.org/abs/1804.02678)
+
 ## Clustering
 
 **Deep clustering: Discriminative embeddings for segmentation and separation**
