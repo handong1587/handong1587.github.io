@@ -140,6 +140,7 @@ date: 2015-10-09
 
 - intro: Tsinghua University & Megvii Inc
 - arxiv: [https://arxiv.org/abs/1711.07264](https://arxiv.org/abs/1711.07264)
+- github(official, Tensorflow): [https://github.com/zengarden/light_head_rcnn](https://github.com/zengarden/light_head_rcnn)
 - github: [https://github.com/terrychenism/Deformable-ConvNets/blob/master/rfcn/symbols/resnet_v1_101_rfcn_light.py#L784](https://github.com/terrychenism/Deformable-ConvNets/blob/master/rfcn/symbols/resnet_v1_101_rfcn_light.py#L784)
 
 ## Cascade R-CNN
@@ -836,6 +837,10 @@ Continuation of [arXiv:1608.08021](https://arxiv.org/abs/1608.08021)
 - keywords: YOLO
 - arxiv: [https://arxiv.org/abs/1803.07113](https://arxiv.org/abs/1803.07113)
 
+**Zero-Shot Object Detection**
+
+[https://arxiv.org/abs/1804.04340](https://arxiv.org/abs/1804.04340)
+
 **Learning Region Features for Object Detection**
 
 - intro: Peking University & MSRA
@@ -864,6 +869,11 @@ Continuation of [arXiv:1608.08021](https://arxiv.org/abs/1608.08021)
 - intro: CVPR 2018
 - arxiv: [https://arxiv.org/abs/1804.00428](https://arxiv.org/abs/1804.00428)
 - github: [https://github.com/Hwang64/MLKP](https://github.com/Hwang64/MLKP)
+
+**Loss Rank Mining: A General Hard Example Mining Method for Real-time Detectors**
+
+- intro: National University of Defense Technology
+- arxiv: [https://arxiv.org/abs/1804.04606](https://arxiv.org/abs/1804.04606)
 
 # Non-Maximum Suppression (NMS)
 
@@ -1659,6 +1669,11 @@ This task involves predicting the salient regions of an image given by human eye
 
 [https://arxiv.org/abs/1804.02047](https://arxiv.org/abs/1804.02047)
 
+**PCN: Part and Context Information for Pedestrian Detection with CNNs**
+
+- intro: British Machine Vision Conference(BMVC) 2017
+- arxiv: [https://arxiv.org/abs/1804.04483](https://arxiv.org/abs/1804.04483)
+
 # Vehicle Detection
 
 **DAVE: A Unified Framework for Fast Vehicle Detection and Annotation**
@@ -1975,6 +1990,10 @@ This task involves predicting the salient regions of an image given by human eye
 
 - intro: Hikvision Research Institute. Supervised Data Augmentation (SDA)
 - slides: [http://image-net.org/challenges/talks/2016/Hikvision_at_ImageNet_2016.pdf](http://image-net.org/challenges/talks/2016/Hikvision_at_ImageNet_2016.pdf)
+
+**Work  in progress: Improving object detection and instance segmentation for small objects**
+
+[https://docs.google.com/presentation/d/1OTfGn6mLe1VWE8D0q6Tu_WwFTSoLGd4OF8WCYnOWcVo/edit#slide=id.g37418adc7a_0_229](https://docs.google.com/presentation/d/1OTfGn6mLe1VWE8D0q6Tu_WwFTSoLGd4OF8WCYnOWcVo/edit#slide=id.g37418adc7a_0_229)
 
 # Projects
 

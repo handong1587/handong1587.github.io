@@ -117,8 +117,9 @@ date: 2015-10-09
 
 **Cascaded Pyramid Network for Multi-Person Pose Estimation**
 
-- intro: Tsinghua University & HuaZhong Univerisity of Science and Technology & Megvii Inc
-- github: [https://arxiv.org/abs/1711.07319](https://arxiv.org/abs/1711.07319)
+- intro: CVPR 2018. Tsinghua University & HuaZhong Univerisity of Science and Technology & Megvii Inc
+- arxiv: [https://arxiv.org/abs/1711.07319](https://arxiv.org/abs/1711.07319)
+- github(official): [https://github.com/chenyilun95/tf-cpn](https://github.com/chenyilun95/tf-cpn)
 
 **Integral Human Pose Regression**
 

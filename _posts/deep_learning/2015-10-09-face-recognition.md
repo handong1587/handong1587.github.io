@@ -225,6 +225,7 @@ date: 2015-10-09
 
 - intro: CVPR 2018. CUHK & SenseTime Research
 - arxiv: [https://arxiv.org/abs/1803.00839](https://arxiv.org/abs/1803.00839)
+- github: [https://github.com/penincillin/DREAM](https://github.com/penincillin/DREAM)
 
 # Video Face Recognition
 

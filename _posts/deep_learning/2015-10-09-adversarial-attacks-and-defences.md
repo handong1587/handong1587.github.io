@@ -262,3 +262,13 @@ date: 2015-10-09
 - intro: ICLR 2018
 - arxiv: [https://arxiv.org/abs/1710.11342](https://arxiv.org/abs/1710.11342)
 - github: [https://github.com/zhengliz/natural-adversary](https://github.com/zhengliz/natural-adversary)
+
+**An ADMM-Based Universal Framework for Adversarial Attacks on Deep Neural Networks**
+
+- intro: Northeastern University & MIT-IBM Watson AI Lab & IBM Research AI
+- keywords: Deep Neural Networks; Adversarial Attacks; ADMM (Alternating Direction Method of Multipliers)
+- arxiv: [https://arxiv.org/abs/1804.03193](https://arxiv.org/abs/1804.03193)
+
+**On the Robustness of the CVPR 2018 White-Box Adversarial Example Defenses**
+
+[https://arxiv.org/abs/1804.03286](https://arxiv.org/abs/1804.03286)

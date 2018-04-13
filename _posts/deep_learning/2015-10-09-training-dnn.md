@@ -495,6 +495,11 @@ date: 2015-10-09
 
 [https://arxiv.org/abs/1801.07492](https://arxiv.org/abs/1801.07492)
 
+**Detail-Preserving Pooling in Deep Networks**
+
+- intro: CVPR 2018
+- arxiv: [https://arxiv.org/abs/1804.04076](https://arxiv.org/abs/1804.04076)
+
 # Batch Size
 
 **Online Batch Selection for Faster Training of Neural Networks**

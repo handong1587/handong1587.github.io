@@ -2340,6 +2340,11 @@ with fast exact probabilistic inference over many layers."
 
 [https://github.com/Elyorcv/zsl-deep-learning](https://github.com/Elyorcv/zsl-deep-learning)
 
+**Zero-Shot Learning - The Good, the Bad and the Ugly**
+
+- intro: CVPR 2017
+- arxiv: [https://arxiv.org/abs/1703.04394](https://arxiv.org/abs/1703.04394)
+
 **Semantic Autoencoder for Zero-Shot Learning**
 
 - intro: CVPR 2017

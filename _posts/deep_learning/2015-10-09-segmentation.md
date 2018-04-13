@@ -111,6 +111,15 @@ date: 2015-10-09
 
 [https://arxiv.org/abs/1801.06593](https://arxiv.org/abs/1801.06593)
 
+**Piecewise Flat Embedding for Image Segmentation**
+
+[https://arxiv.org/abs/1802.03248](https://arxiv.org/abs/1802.03248)
+
+**A Pyramid CNN for Dense-Leaves Segmentation**
+
+- intro: Computer and Robot Vision, Toronto, May 2018
+- arxiv: [https://arxiv.org/abs/1804.01646](https://arxiv.org/abs/1804.01646)
+
 ## U-Net
 
 **U-Net: Convolutional Networks for Biomedical Image Segmentation**
@@ -134,14 +143,10 @@ date: 2015-10-09
 - arxiv: [https://arxiv.org/abs/1801.05746](https://arxiv.org/abs/1801.05746)
 - github: [https://github.com/ternaus/TernausNet](https://github.com/ternaus/TernausNet)
 
-**Piecewise Flat Embedding for Image Segmentation**
+**Capsules for Object Segmentation**
 
-[https://arxiv.org/abs/1802.03248](https://arxiv.org/abs/1802.03248)
-
-**A Pyramid CNN for Dense-Leaves Segmentation**
-
-- intro: Computer and Robot Vision, Toronto, May 2018
-- arxiv: [https://arxiv.org/abs/1804.01646](https://arxiv.org/abs/1804.01646)
+- keywords: convolutional-deconvolutional capsule network, SegCaps, U-Net
+- arxiv: [https://arxiv.org/abs/1804.04241](https://arxiv.org/abs/1804.04241)
 
 # Foreground Object Segmentation
 
