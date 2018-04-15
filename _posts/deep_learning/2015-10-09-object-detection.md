@@ -1630,6 +1630,13 @@ This task involves predicting the salient regions of an image given by human eye
 - arxiv: [https://arxiv.org/abs/1703.06283](https://arxiv.org/abs/1703.06283)
 - github(Tensorflow): [https://github.com/huangshiyu13/RPNplus](https://github.com/huangshiyu13/RPNplus)
 
+**What Can Help Pedestrian Detection?**
+
+- intro: CVPR 2017. Tsinghua University & Peking University & Megvii Inc.
+- keywords: Faster R-CNN, HyperLearner
+- arxiv: [https://arxiv.org/abs/1705.02757](https://arxiv.org/abs/1705.02757)
+- paper: [http://openaccess.thecvf.com/content_cvpr_2017/papers/Mao_What_Can_Help_CVPR_2017_paper.pdf](http://openaccess.thecvf.com/content_cvpr_2017/papers/Mao_What_Can_Help_CVPR_2017_paper.pdf)
+
 **Illuminating Pedestrians via Simultaneous Detection & Segmentation**
 
 [https://arxiv.org/abs/1706.08564](https://arxiv.org/abs/1706.08564
