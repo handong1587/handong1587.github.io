@@ -148,6 +148,10 @@ date: 2015-10-09
 - keywords: convolutional-deconvolutional capsule network, SegCaps, U-Net
 - arxiv: [https://arxiv.org/abs/1804.04241](https://arxiv.org/abs/1804.04241)
 
+**Deep Object Co-Segmentation**
+
+[https://arxiv.org/abs/1804.06423](https://arxiv.org/abs/1804.06423)
+
 # Foreground Object Segmentation
 
 **Pixel Objectness**
@@ -921,6 +925,12 @@ with built-in awareness of semantically meaningful boundaries. "
 
 - intro: CVPR 2018
 - arxiv: [https://arxiv.org/abs/1803.01534](https://arxiv.org/abs/1803.01534)
+
+**Learning to Segment via Cut-and-Paste**
+
+- intro: Google
+- keywords: weakly-supervised, adversarial learning setup
+- arxiv: [https://arxiv.org/abs/1803.06414](https://arxiv.org/abs/1803.06414)
 
 **Learning to Cluster for Proposal-Free Instance Segmentation**
 

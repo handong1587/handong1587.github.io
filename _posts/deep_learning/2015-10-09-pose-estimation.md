@@ -170,6 +170,11 @@ date: 2015-10-09
 
 [https://arxiv.org/abs/1803.09894](https://arxiv.org/abs/1803.09894)
 
+**Co-occurrence Feature Learning from Skeleton Data for Action Recognition and Detection with Hierarchical Aggregation**
+
+- intro: IJCAI 2018 oral. Hikvision Research Institute
+- arxiv: [https://arxiv.org/abs/1804.06055](https://arxiv.org/abs/1804.06055)
+
 ## AlphaPose
 
 **RMPE: Regional Multi-person Pose Estimation**

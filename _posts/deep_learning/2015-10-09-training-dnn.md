@@ -280,6 +280,12 @@ date: 2015-10-09
 
 - arxiv: [http://arxiv.org/abs/1603.01431](http://arxiv.org/abs/1603.01431)
 
+**Revisiting Batch Normalization For Practical Domain Adaptation**
+
+- intro: Pattern Recognition
+- keywords: Adaptive Batch Normalization (AdaBN)
+- arxiv: [https://arxiv.org/abs/1603.04779](https://arxiv.org/abs/1603.04779)
+
 **Implementing Batch Normalization in Tensorflow**
 
 - blog: [http://r2rt.com/implementing-batch-normalization-in-tensorflow.html](http://r2rt.com/implementing-batch-normalization-in-tensorflow.html)

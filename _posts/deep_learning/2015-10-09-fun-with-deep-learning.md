@@ -694,6 +694,11 @@ Compressed model is less than 500KB
 
 [https://arxiv.org/abs/1803.05400](https://arxiv.org/abs/1803.05400)
 
+**Learning to Color from Language**
+
+- intro: Allen Institute of Artificial Intelligence & University of Massachusetts
+- arxiv: [https://arxiv.org/abs/1804.06026](https://arxiv.org/abs/1804.06026)
+
 # Sounds
 
 **Visually Indicated Sounds**
@@ -955,6 +960,10 @@ further original research into a small, easy to use graphical interface.
 **The future is here – AlphaZero learns chess**
 
 [https://en.chessbase.com/post/the-future-is-here-alphazero-learns-chess](https://en.chessbase.com/post/the-future-is-here-alphazero-learns-chess)
+
+**AlphaGo Zero Cheat Sheet
+
+[https://applied-data.science/static/main/res/alpha_go_zero_cheat_sheet.png](https://applied-data.science/static/main/res/alpha_go_zero_cheat_sheet.png)
 
 # Chess
 

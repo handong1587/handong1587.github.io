@@ -1178,6 +1178,10 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 - project page: [https://sites.google.com/site/renwenqi888/research/dehazing/gfn](https://sites.google.com/site/renwenqi888/research/dehazing/gfn)
 - arxiv: [https://arxiv.org/abs/1804.00213](https://arxiv.org/abs/1804.00213)
 
+**Semantic Single-Image Dehazing**
+
+[https://arxiv.org/abs/1804.05624](https://arxiv.org/abs/1804.05624)
+
 # Image Rain Removal / De-raining
 
 **Clearing the Skies: A deep network architecture for single-image rain removal**

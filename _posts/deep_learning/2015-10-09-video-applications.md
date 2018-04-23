@@ -789,6 +789,12 @@ alleviates the problem of video browsing, editing and indexing.
 - intro: AAAI 2018
 - arxiv: [https://arxiv.org/abs/1801.10312](https://arxiv.org/abs/1801.10312)
 
+**PHD-GIFs: Personalized Highlight Detection for Automatic GIF Creation**
+
+- intro: Nanyang Technological University & Google Research, Zurich
+- keywords: personalized highlight detection (PHD)
+- arxiv: [https://arxiv.org/abs/1804.06604](https://arxiv.org/abs/1804.06604)
+
 # Video Understanding
 
 **Scale Up Video Understandingwith Deep Learning**

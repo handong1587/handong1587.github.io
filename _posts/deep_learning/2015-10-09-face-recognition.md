@@ -205,7 +205,8 @@ date: 2015-10-09
 
 **Face Recognition via Centralized Coordinate Learning**
 
-[https://arxiv.org/abs/1801.05678](https://arxiv.org/abs/1801.05678)
+- intro: centralized coordinate learning (CCL)
+- arxiv: [https://arxiv.org/abs/1801.05678](https://arxiv.org/abs/1801.05678)
 
 **ArcFace: Additive Angular Margin Loss for Deep Face Recognition**
 
@@ -226,6 +227,11 @@ date: 2015-10-09
 - intro: CVPR 2018. CUHK & SenseTime Research
 - arxiv: [https://arxiv.org/abs/1803.00839](https://arxiv.org/abs/1803.00839)
 - github: [https://github.com/penincillin/DREAM](https://github.com/penincillin/DREAM)
+
+**Deep Face Recognition: A Survey**
+
+- intro: BUPT
+- arxiv: [https://arxiv.org/abs/1804.06655](https://arxiv.org/abs/1804.06655)
 
 # Video Face Recognition
 

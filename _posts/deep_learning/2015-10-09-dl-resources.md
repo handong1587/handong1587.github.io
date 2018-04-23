@@ -616,6 +616,12 @@ not just the convolutions)
 - intro: Facebook AI Research (FAIR) & CMU & Cornell University
 - arxiv: [https://arxiv.org/abs/1801.05401](https://arxiv.org/abs/1801.05401)
 
+**Semantic Feature Augmentation in Few-shot Learning**
+
+- keywords: TriNet
+- arxiv: [https://arxiv.org/abs/1804.05298](https://arxiv.org/abs/1804.05298)
+- github: [https://github.com/tankche1/Semantic-Feature-Augmentation-in-Few-shot-Learning](https://github.com/tankche1/Semantic-Feature-Augmentation-in-Few-shot-Learning)
+
 # Multi-label Learning
 
 **CNN: Single-label to Multi-label**
@@ -1160,8 +1166,14 @@ with fast exact probabilistic inference over many layers."
 **Interleaved Group Convolutions for Deep Neural Networks**
 
 - intro: ICCV 2017
+- keywords: interleaved group convolutional neural networks (IGCNets), IGCV1
 - arxiv: [https://arxiv.org/abs/1707.02725](https://arxiv.org/abs/1707.02725)
 - gihtub: [https://github.com/hellozting/InterleavedGroupConvolutions](https://github.com/hellozting/InterleavedGroupConvolutions)
+
+**IGCV2: Interleaved Structured Sparse Convolutional Neural Networks**
+
+- intro: CVPR 2018
+- arxiv: [https://arxiv.org/abs/1804.06202](https://arxiv.org/abs/1804.06202)
 
 **Sensor Transformation Attention Networks**
 
@@ -1337,6 +1349,11 @@ with fast exact probabilistic inference over many layers."
 - intro: CVPR 2018
 - project page: [http://wuhuikai.me/DeepGuidedFilterProject/](http://wuhuikai.me/DeepGuidedFilterProject/)
 - gtihub(official, PyTorch): [https://github.com/wuhuikai/DeepGuidedFilter](https://github.com/wuhuikai/DeepGuidedFilter)
+
+**Diagonalwise Refactorization: An Efficient Training Method for Depthwise Convolutions**
+
+- arxiv: [https://arxiv.org/abs/1803.09926](https://arxiv.org/abs/1803.09926)
+- github: [https://github.com/clavichord93/diagonalwise-refactorization-tensorflow](https://github.com/clavichord93/diagonalwise-refactorization-tensorflow)
 
 ## Highway Networks
 
@@ -2932,6 +2949,10 @@ feed-forward neural nets and deep learning.
 **Today's Deep Learning**
 
 [http://todaysdeeplearning.com/](http://todaysdeeplearning.com/)
+
+**arXiv Analytics**
+
+[http://arxitics.com/](http://arxitics.com/)
 
 # Tools
 
