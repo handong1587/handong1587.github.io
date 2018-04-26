@@ -575,6 +575,12 @@ with built-in awareness of semantically meaningful boundaries. "
 - intro: Facebook AI Research
 - arxiv: [https://arxiv.org/abs/1703.07684](https://arxiv.org/abs/1703.07684)
 
+**Object Region Mining with Adversarial Erasing: A Simple Classification to Semantic Segmentation Approach**
+
+- intro: CVPR 2017 (oral)
+- keywords: Adversarial Erasing (AE)
+- arxiv: [https://arxiv.org/abs/1703.08448](https://arxiv.org/abs/1703.08448)
+
 **Guided Perturbations: Self Corrective Behavior in Convolutional Neural Networks**
 
 - intro: University of Maryland & GE Global Research Center
@@ -738,6 +744,12 @@ with built-in awareness of semantically meaningful boundaries. "
 
 - intro: Facebook AI Research & Univ. Grenoble Alpes
 - arxiv: [https://arxiv.org/abs/1803.11496](https://arxiv.org/abs/1803.11496)
+
+**Fully Convolutional Adaptation Networks for Semantic Segmentation**
+
+- intro: CVPR 2018, Rank 1 in Segmentation Track of Visual Domain Adaptation Challenge 2017
+- keywords: Fully Convolutional Adaptation Networks (FCAN), Appearance Adaptation Networks (AAN) and Representation Adaptation Networks (RAN)
+- arxiv: [https://arxiv.org/abs/1804.08286](https://arxiv.org/abs/1804.08286)
 
 # Instance Segmentation
 

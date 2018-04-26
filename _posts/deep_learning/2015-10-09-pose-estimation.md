@@ -175,6 +175,11 @@ date: 2015-10-09
 - intro: IJCAI 2018 oral. Hikvision Research Institute
 - arxiv: [https://arxiv.org/abs/1804.06055](https://arxiv.org/abs/1804.06055)
 
+**Learning to Refine Human Pose Estimation**
+
+- intro: CVPRW (2018). Workshop: Visual Understanding of Humans in Crowd Scene and the 2nd Look Into Person Challenge (VUHCS-LIP)
+- arxiv: [https://arxiv.org/abs/1804.07909](https://arxiv.org/abs/1804.07909)
+
 ## AlphaPose
 
 **RMPE: Regional Multi-person Pose Estimation**

@@ -318,6 +318,12 @@ date: 2015-10-09
 
 [https://arxiv.org/abs/1802.03133](https://arxiv.org/abs/1802.03133)
 
+**Decorrelated Batch Normalization**
+
+- intro: CVPR 2018
+- arxiv: [https://arxiv.org/abs/1804.08450](https://arxiv.org/abs/1804.08450)
+- github: [https://github.com/umich-vl/DecorrelatedBN](https://github.com/umich-vl/DecorrelatedBN)
+
 ### Backward pass of BN
 
 **Understanding the backward pass through Batch Normalization Layer**
@@ -506,7 +512,7 @@ date: 2015-10-09
 - intro: CVPR 2018
 - arxiv: [https://arxiv.org/abs/1804.04076](https://arxiv.org/abs/1804.04076)
 
-# Batch Size
+# Mini-Batch
 
 **Online Batch Selection for Faster Training of Neural Networks**
 
@@ -551,6 +557,10 @@ date: 2015-10-09
 
 - intro: UC Berkeley & University of Texas
 - arxiv: [https://arxiv.org/abs/1802.08241](https://arxiv.org/abs/1802.08241)
+
+**Revisiting Small Batch Training for Deep Neural Networks**
+
+[https://arxiv.org/abs/1804.07612](https://arxiv.org/abs/1804.07612)
 
 # Optimization Methods
 

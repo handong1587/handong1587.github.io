@@ -272,3 +272,8 @@ date: 2015-10-09
 **On the Robustness of the CVPR 2018 White-Box Adversarial Example Defenses**
 
 [https://arxiv.org/abs/1804.03286](https://arxiv.org/abs/1804.03286)
+
+**VectorDefense: Vectorization as a Defense to Adversarial Examples**
+
+- keywrods: MNIST
+- arxiv: [https://arxiv.org/abs/1804.08529](https://arxiv.org/abs/1804.08529)

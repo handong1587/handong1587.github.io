@@ -233,6 +233,10 @@ date: 2015-10-09
 - intro: BUPT
 - arxiv: [https://arxiv.org/abs/1804.06655](https://arxiv.org/abs/1804.06655)
 
+**MobileFaceNets: Efficient CNNs for Accurate Real-time Face Verification on Mobile Devices**
+
+[https://arxiv.org/abs/1804.07573](https://arxiv.org/abs/1804.07573)
+
 # Video Face Recognition
 
 **Attention-Set based Metric Learning for Video Face Recognition**
@@ -323,6 +327,16 @@ date: 2015-10-09
 **Deep Adaptive Attention for Joint Facial Action Unit Detection and Face Alignment**
 
 [https://arxiv.org/abs/1803.05588](https://arxiv.org/abs/1803.05588)
+
+# Face Synthesis
+
+**Beyond Face Rotation: Global and Local Perception GAN for Photorealistic and Identity Preserving Frontal View Synthesis**
+
+- intro: ICCV 2017
+- keywords: TP-GAN
+- arxiv: [https://arxiv.org/abs/1704.04086](https://arxiv.org/abs/1704.04086)
+- paper: [http://openaccess.thecvf.com/content_ICCV_2017/papers/Huang_Beyond_Face_Rotation_ICCV_2017_paper.pdf](http://openaccess.thecvf.com/content_ICCV_2017/papers/Huang_Beyond_Face_Rotation_ICCV_2017_paper.pdf)
+- github(official, Tensorflow): [https://github.com/HRLTY/TP-GAN](https://github.com/HRLTY/TP-GAN)
 
 # Projects
 

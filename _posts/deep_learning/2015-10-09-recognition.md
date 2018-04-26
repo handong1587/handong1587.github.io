@@ -156,6 +156,14 @@ date: 2015-10-09
 - intro: CVPR 2018. The Robotics Institute, Carnegie Mellon University
 - arxiv: [https://arxiv.org/abs/1803.08035](https://arxiv.org/abs/1803.08035)
 
+# Massive Classification
+
+**Accelerated Training for Massive Classification via Dynamic Class Selection**
+
+- intro: AAAI 2018. CUHK & SenseTime
+- keywords: HF-Softmax
+[https://github.com/yl-1993/hfsoftmax](https://github.com/yl-1993/hfsoftmax)
+
 # Multi-object Recognition
 
 **Multiple Object Recognition with Visual Attention**

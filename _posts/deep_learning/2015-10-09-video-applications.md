@@ -100,6 +100,11 @@ date: 2015-10-09
 - intro: CVPR 2018
 - arxiv: [https://arxiv.org/abs/1803.10628](https://arxiv.org/abs/1803.10628)
 
+**Rethinking the Faster R-CNN Architecture for Temporal Action Localization**
+
+- intro: CVPR 2018
+- arxiv: [https://arxiv.org/abs/1804.07667](https://arxiv.org/abs/1804.07667)
+
 # Video Classification
 
 **Large-scale Video Classification with Convolutional Neural Networks**
@@ -597,6 +602,11 @@ extract saptio-temporal features to represent the video using the CNNs."
 
 - intro: Uncanny Vision Solutions
 - arxiv: [https://arxiv.org/abs/1801.03149](https://arxiv.org/abs/1801.03149)
+
+**STAN: Spatio-Temporal Adversarial Networks for Abnormal Event Detection**
+
+- intro: ICASSP 2018
+- arxiv: [https://arxiv.org/abs/1804.08381](https://arxiv.org/abs/1804.08381)
 
 # Video Prediction
 

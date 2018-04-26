@@ -1483,6 +1483,7 @@ This task involves predicting the salient regions of an image given by human eye
 - keywords: Rapidly Digested Convolutional Layers (RDCL), Multiple Scale Convolutional Layers (MSCL)
 - intro: the proposed detector runs at 20 FPS on a single CPU core and 125 FPS using a GPU for VGA-resolution images
 - arxiv: [https://arxiv.org/abs/1708.05234](https://arxiv.org/abs/1708.05234)
+- github(Caffe): [https://github.com/zeusees/FaceBoxes](https://github.com/zeusees/FaceBoxes)
 
 **S3FD: Single Shot Scale-invariant Face Detector**
 
@@ -1531,6 +1532,10 @@ This task involves predicting the salient regions of an image given by human eye
 
 - intro: Beihang University & Megvii Inc. (Face++)
 - arxiv: [https://arxiv.org/abs/1804.06559](https://arxiv.org/abs/1804.06559)
+
+**Survey of Face Detection on Low-quality Images**
+
+[https://arxiv.org/abs/1804.07362](https://arxiv.org/abs/1804.07362)
 
 ## Detect Small Faces
 

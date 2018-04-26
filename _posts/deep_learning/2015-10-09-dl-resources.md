@@ -1315,6 +1315,11 @@ with fast exact probabilistic inference over many layers."
 - arxiv: [https://arxiv.org/abs/1802.10419](https://arxiv.org/abs/1802.10419)
 - github: [https://github.com/iboing/CliqueNet](https://github.com/iboing/CliqueNet)
 
+**Decoupled Networks**
+
+- intro: CVPR 2018 (Spotlight)
+- arxiv: [https://arxiv.org/abs/1804.08071](https://arxiv.org/abs/1804.08071)
+
 ## Convolutions / Filters
 
 **Warped Convolutions: Efficient Invariance to Spatial Transformations**
@@ -2075,6 +2080,7 @@ with fast exact probabilistic inference over many layers."
 **Outrageously Large Neural Networks: The Sparsely-Gated Mixture-of-Experts Layer**
 
 - intro: Google Brain & Jagiellonian University
+- keywords: Sparsely-Gated Mixture-of-Experts layer (MoE), language modeling and machine translation
 - arxiv: [https://arxiv.org/abs/1701.06538](https://arxiv.org/abs/1701.06538)
 - reddit: [https://www.reddit.com/r/MachineLearning/comments/5pud72/research_outrageously_large_neural_networks_the/](https://www.reddit.com/r/MachineLearning/comments/5pud72/research_outrageously_large_neural_networks_the/)
 

@@ -503,6 +503,11 @@ after the embedding and recurrent layers of the RNN."
 - intro: CVPR 2018 spotlight paper
 - arxiv: [https://arxiv.org/abs/1804.00100](https://arxiv.org/abs/1804.00100)
 
+**Jointly Localizing and Describing Events for Dense Video Captioning**
+
+- intro: CVPR 2018 Spotlight, Rank 1 in ActivityNet Captions Challenge 2017
+- arxiv: [https://arxiv.org/abs/1804.08274](https://arxiv.org/abs/1804.08274)
+
 # Projects
 
 **Learning CNN-LSTM Architectures for Image Caption Generation: An implementation of CNN-LSTM image caption generator architecture that achieves close to state-of-the-art results on the MSCOCO dataset.**

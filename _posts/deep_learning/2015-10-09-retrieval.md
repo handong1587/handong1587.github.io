@@ -525,6 +525,11 @@ date: 2015-10-09
 - intro: Sun Yat-sen University
 - arxiv: [https://arxiv.org/abs/1804.06061](https://arxiv.org/abs/1804.06061)
 
+**Deep Semantic Hashing with Generative Adversarial Networks**
+
+- intro: SIGIR 2017 Oral
+- arxiv: [https://arxiv.org/abs/1804.08275](https://arxiv.org/abs/1804.08275)
+
 # Cross Modal Retrieval
 
 **Cross-domain Image Retrieval with a Dual Attribute-aware Ranking Network**
