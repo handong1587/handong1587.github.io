@@ -314,6 +314,11 @@ not just the convolutions)
 - intro: Microsoft Research & Princeton University
 - arxiv: [https://arxiv.org/abs/1706.04964](https://arxiv.org/abs/1706.04964)
 
+**Learning Strict Identity Mappings in Deep Residual Networks**
+
+- keywords: epsilon-ResNet
+- arxiv: [https://arxiv.org/abs/1804.01661](https://arxiv.org/abs/1804.01661)
+
 ## DenseNet
 
 **Densely Connected Convolutional Networks**

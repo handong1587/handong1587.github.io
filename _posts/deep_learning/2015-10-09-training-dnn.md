@@ -1342,6 +1342,12 @@ date: 2015-10-09
 - intro: UC Berkeley & Lawrence Berkeley National Laboratory
 - arxiv: [https://arxiv.org/abs/1712.04432](https://arxiv.org/abs/1712.04432)
 
+**Deep Gradient Compression: Reducing the Communication Bandwidth for Distributed Training**
+
+- intro: ICLR 2018
+- intro: we find 99.9% of the gradient exchange in distributed SGD is redundant; we reduce the communication bandwidth by two orders of magnitude without losing accuracy
+- arxiv: [https://arxiv.org/abs/1712.01887](https://arxiv.org/abs/1712.01887)
+
 ## Projects
 
 **Theano-MPI: a Theano-based Distributed Training Framework**

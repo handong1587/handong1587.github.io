@@ -105,6 +105,11 @@ date: 2015-10-09
 - intro: CVPR 2018
 - arxiv: [https://arxiv.org/abs/1804.07667](https://arxiv.org/abs/1804.07667)
 
+**Deep Keyframe Detection in Human Action Videos**
+
+- intro: two-stream ConvNet
+- arxiv: [https://arxiv.org/abs/1804.10021](https://arxiv.org/abs/1804.10021)
+
 # Video Classification
 
 **Large-scale Video Classification with Convolutional Neural Networks**
@@ -587,6 +592,11 @@ extract saptio-temporal features to represent the video using the CNNs."
 
 - intro: Rochester Institute of Technology
 - arxiv: [https://arxiv.org/abs/1612.00390](https://arxiv.org/abs/1612.00390)
+
+**Abnormal Event Detection in Videos using Spatiotemporal Autoencoder**
+
+- arxiv: [https://arxiv.org/abs/1701.01546](https://arxiv.org/abs/1701.01546)
+- github: [https://github.com/yshean/abnormal-spatiotemporal-ae](https://github.com/yshean/abnormal-spatiotemporal-ae)
 
 **Abnormal Event Detection in Videos using Generative Adversarial Nets**
 

@@ -237,6 +237,14 @@ date: 2015-10-09
 
 [https://arxiv.org/abs/1804.07573](https://arxiv.org/abs/1804.07573)
 
+**DisguiseNet : A Contrastive Approach for Disguised Face Verification in the Wild**
+
+[https://arxiv.org/abs/1804.09669](https://arxiv.org/abs/1804.09669)
+
+**Surveillance Face Recognition Challenge**
+
+[https://arxiv.org/abs/1804.09691](https://arxiv.org/abs/1804.09691)
+
 # Video Face Recognition
 
 **Attention-Set based Metric Learning for Video Face Recognition**

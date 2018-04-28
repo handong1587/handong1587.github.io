@@ -9,6 +9,10 @@ date: 2017-12-18
 
 [https://www.youtube.com/channel/UC0n76gicaarsN_Y9YShWwhw/playlists](https://www.youtube.com/channel/UC0n76gicaarsN_Y9YShWwhw/playlists)
 
+# CVPR 2018
+
+[http://cvpr2018.thecvf.com/program/main_conference](http://cvpr2018.thecvf.com/program/main_conference)
+
 # NIPS 2017
 
 **NIPS 2017 Spotlights**

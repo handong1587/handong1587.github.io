@@ -88,6 +88,12 @@ date: 2015-10-09
 - intro: ICCV workshop CVRSUAD2017. Indiana University & Preferred Networks
 - arxiv: [https://arxiv.org/abs/1708.06118](https://arxiv.org/abs/1708.06118)
 
+**Ω-Net: Fully Automatic, Multi-View Cardiac MR Detection, Orientation, and Segmentation with Deep Neural Networks**
+
+**Ω-Net (Omega-Net): Fully Automatic, Multi-View Cardiac MR Detection, Orientation, and Segmentation with Deep Neural Networks**
+
+[https://arxiv.org/abs/1711.01094](https://arxiv.org/abs/1711.01094)
+
 **Superpixel clustering with deep features for unsupervised road segmentation**
 
 - intro: Preferred Networks, Inc & Indiana University
@@ -750,6 +756,11 @@ with built-in awareness of semantically meaningful boundaries. "
 - intro: CVPR 2018, Rank 1 in Segmentation Track of Visual Domain Adaptation Challenge 2017
 - keywords: Fully Convolutional Adaptation Networks (FCAN), Appearance Adaptation Networks (AAN) and Representation Adaptation Networks (RAN)
 - arxiv: [https://arxiv.org/abs/1804.08286](https://arxiv.org/abs/1804.08286)
+
+**Learning a Discriminative Feature Network for Semantic Segmentation**
+
+- intro: CVPR 2018
+- arxiv: [https://arxiv.org/abs/1804.09337](https://arxiv.org/abs/1804.09337)
 
 # Instance Segmentation
 
