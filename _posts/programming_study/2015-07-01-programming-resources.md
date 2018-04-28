@@ -1,7 +1,7 @@
 ---
 layout: post
 category: programming_study
-title: Resources
+title: Programming Resources
 date: 2015-07-01
 ---
 
