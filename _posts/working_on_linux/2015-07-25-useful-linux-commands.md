@@ -78,7 +78,8 @@ tar xf file.tar.gz -C /root/Desktop/folder
 |                                                   | free -m                 |
 | Print pid info                                    | ps aux \| grep 'target_pid' |
 | Print graphics card version                       | nvcc --version          |
-| Print graphics card GPU info                      | nvidia-smi              |
+| Print graphics card GPU info                      | lspci  | grep -i vga    |
+| Print graphics card GPU running info              | nvidia-smi              |
 | Print graphics card GPU info dynamically          | watch -n0.1 nvidia-smi  |
 | Print disk free space                             | df -h                   |
 |                                                   | df -hl                  |

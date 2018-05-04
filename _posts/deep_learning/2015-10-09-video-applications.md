@@ -100,6 +100,16 @@ date: 2015-10-09
 - intro: CVPR 2018
 - arxiv: [https://arxiv.org/abs/1803.10628](https://arxiv.org/abs/1803.10628)
 
+**Rethinking the Faster R-CNN Architecture for Temporal Action Localization**
+
+- intro: CVPR 2018
+- arxiv: [https://arxiv.org/abs/1804.07667](https://arxiv.org/abs/1804.07667)
+
+**Deep Keyframe Detection in Human Action Videos**
+
+- intro: two-stream ConvNet
+- arxiv: [https://arxiv.org/abs/1804.10021](https://arxiv.org/abs/1804.10021)
+
 # Video Classification
 
 **Large-scale Video Classification with Convolutional Neural Networks**
@@ -583,6 +593,11 @@ extract saptio-temporal features to represent the video using the CNNs."
 - intro: Rochester Institute of Technology
 - arxiv: [https://arxiv.org/abs/1612.00390](https://arxiv.org/abs/1612.00390)
 
+**Abnormal Event Detection in Videos using Spatiotemporal Autoencoder**
+
+- arxiv: [https://arxiv.org/abs/1701.01546](https://arxiv.org/abs/1701.01546)
+- github: [https://github.com/yshean/abnormal-spatiotemporal-ae](https://github.com/yshean/abnormal-spatiotemporal-ae)
+
 **Abnormal Event Detection in Videos using Generative Adversarial Nets**
 
 - intro: Best Paper / Student Paper Award Finalist, IEEE International Conference on Image Processing (ICIP), 2017
@@ -597,6 +612,11 @@ extract saptio-temporal features to represent the video using the CNNs."
 
 - intro: Uncanny Vision Solutions
 - arxiv: [https://arxiv.org/abs/1801.03149](https://arxiv.org/abs/1801.03149)
+
+**STAN: Spatio-Temporal Adversarial Networks for Abnormal Event Detection**
+
+- intro: ICASSP 2018
+- arxiv: [https://arxiv.org/abs/1804.08381](https://arxiv.org/abs/1804.08381)
 
 # Video Prediction
 
@@ -788,6 +808,12 @@ alleviates the problem of video browsing, editing and indexing.
 
 - intro: AAAI 2018
 - arxiv: [https://arxiv.org/abs/1801.10312](https://arxiv.org/abs/1801.10312)
+
+**PHD-GIFs: Personalized Highlight Detection for Automatic GIF Creation**
+
+- intro: Nanyang Technological University & Google Research, Zurich
+- keywords: personalized highlight detection (PHD)
+- arxiv: [https://arxiv.org/abs/1804.06604](https://arxiv.org/abs/1804.06604)
 
 # Video Understanding
 

@@ -280,6 +280,12 @@ date: 2015-10-09
 
 - arxiv: [http://arxiv.org/abs/1603.01431](http://arxiv.org/abs/1603.01431)
 
+**Revisiting Batch Normalization For Practical Domain Adaptation**
+
+- intro: Pattern Recognition
+- keywords: Adaptive Batch Normalization (AdaBN)
+- arxiv: [https://arxiv.org/abs/1603.04779](https://arxiv.org/abs/1603.04779)
+
 **Implementing Batch Normalization in Tensorflow**
 
 - blog: [http://r2rt.com/implementing-batch-normalization-in-tensorflow.html](http://r2rt.com/implementing-batch-normalization-in-tensorflow.html)
@@ -311,6 +317,12 @@ date: 2015-10-09
 **Batch Kalman Normalization: Towards Training Deep Neural Networks with Micro-Batches**
 
 [https://arxiv.org/abs/1802.03133](https://arxiv.org/abs/1802.03133)
+
+**Decorrelated Batch Normalization**
+
+- intro: CVPR 2018
+- arxiv: [https://arxiv.org/abs/1804.08450](https://arxiv.org/abs/1804.08450)
+- github: [https://github.com/umich-vl/DecorrelatedBN](https://github.com/umich-vl/DecorrelatedBN)
 
 ### Backward pass of BN
 
@@ -500,7 +512,7 @@ date: 2015-10-09
 - intro: CVPR 2018
 - arxiv: [https://arxiv.org/abs/1804.04076](https://arxiv.org/abs/1804.04076)
 
-# Batch Size
+# Mini-Batch
 
 **Online Batch Selection for Faster Training of Neural Networks**
 
@@ -545,6 +557,10 @@ date: 2015-10-09
 
 - intro: UC Berkeley & University of Texas
 - arxiv: [https://arxiv.org/abs/1802.08241](https://arxiv.org/abs/1802.08241)
+
+**Revisiting Small Batch Training for Deep Neural Networks**
+
+[https://arxiv.org/abs/1804.07612](https://arxiv.org/abs/1804.07612)
 
 # Optimization Methods
 
@@ -1325,6 +1341,12 @@ date: 2015-10-09
 
 - intro: UC Berkeley & Lawrence Berkeley National Laboratory
 - arxiv: [https://arxiv.org/abs/1712.04432](https://arxiv.org/abs/1712.04432)
+
+**Deep Gradient Compression: Reducing the Communication Bandwidth for Distributed Training**
+
+- intro: ICLR 2018
+- intro: we find 99.9% of the gradient exchange in distributed SGD is redundant; we reduce the communication bandwidth by two orders of magnitude without losing accuracy
+- arxiv: [https://arxiv.org/abs/1712.01887](https://arxiv.org/abs/1712.01887)
 
 ## Projects
 

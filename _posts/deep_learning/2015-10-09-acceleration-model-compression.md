@@ -663,6 +663,7 @@ at INT8 deep learning operations than other FPGA DSP architectures"
 - intro: Uber
 - project page: [https://eng.uber.com/sbnet/](https://eng.uber.com/sbnet/)
 - arxiv: [https://arxiv.org/abs/1801.02108](https://arxiv.org/abs/1801.02108)
+- github: [https://github.com/uber/sbnet](https://github.com/uber/sbnet)
 
 **Accelerating deep neural networks with tensor decompositions**
 

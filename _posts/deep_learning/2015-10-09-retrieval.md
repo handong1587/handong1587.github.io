@@ -214,6 +214,12 @@ date: 2015-10-09
 - arxiv: [https://arxiv.org/abs/1704.00763](https://arxiv.org/abs/1704.00763)
 - github: [https://github.com/kanchen-usc/amc_att](https://github.com/kanchen-usc/amc_att)
 
+**Video2Shop: Exactly Matching Clothes in Videos to Online Shopping Images**
+
+- intro: CVPR 2017
+- keywrods: AsymNet
+- arxiv: [https://arxiv.org/abs/1804.05287](https://arxiv.org/abs/1804.05287)
+
 **Deep image representations using caption generators**
 
 - intro: ICME 2017
@@ -289,10 +295,6 @@ date: 2015-10-09
 **DeepStyle: Multimodal Search Engine for Fashion and Interior Design**
 
 [https://arxiv.org/abs/1801.03002](https://arxiv.org/abs/1801.03002)
-
-**Focus: Querying Large Video Datasets with Low Latency and Low Cost**
-
-[https://arxiv.org/abs/1801.03493](https://arxiv.org/abs/1801.03493)
 
 **From Selective Deep Convolutional Features to Compact Binary Representations for Image Retrieval**
 
@@ -479,10 +481,6 @@ date: 2015-10-09
 
 [https://arxiv.org/abs/1712.04616](https://arxiv.org/abs/1712.04616)
 
-**Deep Hashing with Category Mask for Fast Video Retrieval**
-
-[https://arxiv.org/abs/1712.08315](https://arxiv.org/abs/1712.08315)
-
 **Dual Asymmetric Deep Hashing Learning**
 
 [https://arxiv.org/abs/1801.08360](https://arxiv.org/abs/1801.08360)
@@ -521,6 +519,16 @@ date: 2015-10-09
 
 - intro: CVPR 2018
 - arxiv: [https://arxiv.org/abs/1804.01401](https://arxiv.org/abs/1804.01401)
+
+**Improving Deep Binary Embedding Networks by Order-aware Reweighting of Triplets**
+
+- intro: Sun Yat-sen University
+- arxiv: [https://arxiv.org/abs/1804.06061](https://arxiv.org/abs/1804.06061)
+
+**Deep Semantic Hashing with Generative Adversarial Networks**
+
+- intro: SIGIR 2017 Oral
+- arxiv: [https://arxiv.org/abs/1804.08275](https://arxiv.org/abs/1804.08275)
 
 # Cross Modal Retrieval
 
@@ -623,6 +631,19 @@ date: 2015-10-09
 
 - intro: Aston University
 - arxiv: [https://arxiv.org/abs/1710.07198](https://arxiv.org/abs/1710.07198)
+
+**Deep Hashing with Category Mask for Fast Video Retrieval**
+
+[https://arxiv.org/abs/1712.08315](https://arxiv.org/abs/1712.08315)
+
+**Focus: Querying Large Video Datasets with Low Latency and Low Cost**
+
+[https://arxiv.org/abs/1801.03493](https://arxiv.org/abs/1801.03493)
+
+**Text-to-Clip Video Retrieval with Early Fusion and Re-Captioning**
+
+- intro: Boston University, University of British Columbia
+- arxiv: [https://arxiv.org/abs/1804.05113](https://arxiv.org/abs/1804.05113)
 
 # Learning to Rank
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-category: data_science 
+category: data_science
 title: Data Science Resources
 date: 2015-10-09
 ---

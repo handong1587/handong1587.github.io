@@ -88,6 +88,12 @@ date: 2015-10-09
 - intro: ICCV workshop CVRSUAD2017. Indiana University & Preferred Networks
 - arxiv: [https://arxiv.org/abs/1708.06118](https://arxiv.org/abs/1708.06118)
 
+**Ω-Net: Fully Automatic, Multi-View Cardiac MR Detection, Orientation, and Segmentation with Deep Neural Networks**
+
+**Ω-Net (Omega-Net): Fully Automatic, Multi-View Cardiac MR Detection, Orientation, and Segmentation with Deep Neural Networks**
+
+[https://arxiv.org/abs/1711.01094](https://arxiv.org/abs/1711.01094)
+
 **Superpixel clustering with deep features for unsupervised road segmentation**
 
 - intro: Preferred Networks, Inc & Indiana University
@@ -147,6 +153,10 @@ date: 2015-10-09
 
 - keywords: convolutional-deconvolutional capsule network, SegCaps, U-Net
 - arxiv: [https://arxiv.org/abs/1804.04241](https://arxiv.org/abs/1804.04241)
+
+**Deep Object Co-Segmentation**
+
+[https://arxiv.org/abs/1804.06423](https://arxiv.org/abs/1804.06423)
 
 # Foreground Object Segmentation
 
@@ -571,6 +581,12 @@ with built-in awareness of semantically meaningful boundaries. "
 - intro: Facebook AI Research
 - arxiv: [https://arxiv.org/abs/1703.07684](https://arxiv.org/abs/1703.07684)
 
+**Object Region Mining with Adversarial Erasing: A Simple Classification to Semantic Segmentation Approach**
+
+- intro: CVPR 2017 (oral)
+- keywords: Adversarial Erasing (AE)
+- arxiv: [https://arxiv.org/abs/1703.08448](https://arxiv.org/abs/1703.08448)
+
 **Guided Perturbations: Self Corrective Behavior in Convolutional Neural Networks**
 
 - intro: University of Maryland & GE Global Research Center
@@ -734,6 +750,17 @@ with built-in awareness of semantically meaningful boundaries. "
 
 - intro: Facebook AI Research & Univ. Grenoble Alpes
 - arxiv: [https://arxiv.org/abs/1803.11496](https://arxiv.org/abs/1803.11496)
+
+**Fully Convolutional Adaptation Networks for Semantic Segmentation**
+
+- intro: CVPR 2018, Rank 1 in Segmentation Track of Visual Domain Adaptation Challenge 2017
+- keywords: Fully Convolutional Adaptation Networks (FCAN), Appearance Adaptation Networks (AAN) and Representation Adaptation Networks (RAN)
+- arxiv: [https://arxiv.org/abs/1804.08286](https://arxiv.org/abs/1804.08286)
+
+**Learning a Discriminative Feature Network for Semantic Segmentation**
+
+- intro: CVPR 2018
+- arxiv: [https://arxiv.org/abs/1804.09337](https://arxiv.org/abs/1804.09337)
 
 # Instance Segmentation
 
@@ -921,6 +948,12 @@ with built-in awareness of semantically meaningful boundaries. "
 
 - intro: CVPR 2018
 - arxiv: [https://arxiv.org/abs/1803.01534](https://arxiv.org/abs/1803.01534)
+
+**Learning to Segment via Cut-and-Paste**
+
+- intro: Google
+- keywords: weakly-supervised, adversarial learning setup
+- arxiv: [https://arxiv.org/abs/1803.06414](https://arxiv.org/abs/1803.06414)
 
 **Learning to Cluster for Proposal-Free Instance Segmentation**
 

@@ -775,6 +775,11 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 
 - intro: CVPR 2018
 
+**An Aggregated Multicolumn Dilated Convolution Network for Perspective-Free Counting**
+
+- intro: CVPR 2018 Workshop On Visual Understanding of Humans in Crowd Scene
+- arxiv: [https://arxiv.org/abs/1804.07821](https://arxiv.org/abs/1804.07821)
+
 # Activity Recognition
 
 **Implementing a CNN for Human Activity Recognition in Tensorflow**
@@ -1178,6 +1183,10 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 - project page: [https://sites.google.com/site/renwenqi888/research/dehazing/gfn](https://sites.google.com/site/renwenqi888/research/dehazing/gfn)
 - arxiv: [https://arxiv.org/abs/1804.00213](https://arxiv.org/abs/1804.00213)
 
+**Semantic Single-Image Dehazing**
+
+[https://arxiv.org/abs/1804.05624](https://arxiv.org/abs/1804.05624)
+
 # Image Rain Removal / De-raining
 
 **Clearing the Skies: A deep network architecture for single-image rain removal**
@@ -1217,6 +1226,10 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 **Fast Single Image Rain Removal via a Deep Decomposition-Composition Network**
 
 [https://arxiv.org/abs/1804.02688](https://arxiv.org/abs/1804.02688)
+
+**Residual-Guide Feature Fusion Network for Single Image Deraining**
+
+[https://arxiv.org/abs/1804.07493](https://arxiv.org/abs/1804.07493)
 
 # Fence Removal
 
@@ -1764,6 +1777,10 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 
 [https://arxiv.org/abs/1804.03447](https://arxiv.org/abs/1804.03447)
 
+**FaceShop: Deep Sketch-based Face Image Editing**
+
+[https://arxiv.org/abs/1804.08972](https://arxiv.org/abs/1804.08972)
+
 # Stereo
 
 **End-to-End Learning of Geometry and Context for Deep Stereo Regression**
@@ -1961,6 +1978,13 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 - project page: [https://rohitgirdhar.github.io/AttentionalPoolingAction/](https://rohitgirdhar.github.io/AttentionalPoolingAction/)
 - arxiv: [https://arxiv.org/abs/1711.01467](https://arxiv.org/abs/1711.01467)
 - github: [https://github.com/rohitgirdhar/AttentionalPoolingAction/](https://github.com/rohitgirdhar/AttentionalPoolingAction/)
+
+**Memory Attention Networks for Skeleton-based Action Recognition**
+
+- intro: IJCAI 2018
+- keywords: Temporal Attention Recalibration Module (TARM) and a Spatio-Temporal Convolution Module (STCM)
+- arixv: [https://arxiv.org/abs/1804.08254](https://arxiv.org/abs/1804.08254)
+- github: [https://github.com/memory-attention-networks](https://github.com/memory-attention-networks)
 
 # CTR Prediction
 

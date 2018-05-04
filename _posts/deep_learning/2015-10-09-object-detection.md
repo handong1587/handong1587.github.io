@@ -831,16 +831,6 @@ Continuation of [arXiv:1608.08021](https://arxiv.org/abs/1608.08021)
 
 [https://arxiv.org/abs/1803.06799](https://arxiv.org/abs/1803.06799)
 
-**Zero-Shot Detection**
-
-- intro: Australian National University
-- keywords: YOLO
-- arxiv: [https://arxiv.org/abs/1803.07113](https://arxiv.org/abs/1803.07113)
-
-**Zero-Shot Object Detection**
-
-[https://arxiv.org/abs/1804.04340](https://arxiv.org/abs/1804.04340)
-
 **Learning Region Features for Object Detection**
 
 - intro: Peking University & MSRA
@@ -874,6 +864,15 @@ Continuation of [arXiv:1608.08021](https://arxiv.org/abs/1608.08021)
 
 - intro: National University of Defense Technology
 - arxiv: [https://arxiv.org/abs/1804.04606](https://arxiv.org/abs/1804.04606)
+
+**DetNet: A Backbone network for Object Detection**
+
+- intro: Tsinghua University & Megvii Inc
+- arxiv: [https://arxiv.org/abs/1804.06215](https://arxiv.org/abs/1804.06215)
+
+**Robust Physical Adversarial Attack on Faster R-CNN Object Detector**
+
+[https://arxiv.org/abs/1804.05810](https://arxiv.org/abs/1804.05810)
 
 # Non-Maximum Suppression (NMS)
 
@@ -1046,6 +1045,20 @@ Continuation of [arXiv:1608.08021](https://arxiv.org/abs/1608.08021)
 - intro: University of Pennsylvania, 2Dartmouth College
 - arxiv: [https://arxiv.org/abs/1803.05549](https://arxiv.org/abs/1803.05549)
 
+**Towards High Performance Video Object Detection for Mobiles**
+
+- intro: Microsoft Research Asia
+- arxiv: [https://arxiv.org/abs/1804.05830](https://arxiv.org/abs/1804.05830)
+
+# Object Detection on Mobile Devices
+
+**Pelee: A Real-Time Object Detection System on Mobile Devices**
+
+- intro: ICLR 2018 workshop track
+- intro: based on the SSD
+- arxiv: [https://arxiv.org/abs/1804.06882](https://arxiv.org/abs/1804.06882)
+- github: [https://github.com/Robert-JunWang/Pelee](https://github.com/Robert-JunWang/Pelee)
+
 # Object Detection in 3D
 
 **Vote3Deep: Fast Object Detection in 3D Point Clouds Using Efficient Convolutional Neural Networks**
@@ -1071,6 +1084,23 @@ Continuation of [arXiv:1608.08021](https://arxiv.org/abs/1608.08021)
 **A Self-supervised Learning System for Object Detection using Physics Simulation and Multi-view Pose Estimation**
 
 [https://arxiv.org/abs/1703.03347](https://arxiv.org/abs/1703.03347)
+
+# Zero-Shot Object Detection
+
+**Zero-Shot Detection**
+
+- intro: Australian National University
+- keywords: YOLO
+- arxiv: [https://arxiv.org/abs/1803.07113](https://arxiv.org/abs/1803.07113)
+
+**Zero-Shot Object Detection**
+
+[https://arxiv.org/abs/1804.04340](https://arxiv.org/abs/1804.04340)
+
+**Zero-Shot Object Detection: Learning to Simultaneously Recognize and Localize Novel Concepts**
+
+- intro: Australian National University
+- arxiv: [https://arxiv.org/abs/1803.06049](https://arxiv.org/abs/1803.06049)
 
 # Salient Object Detection
 
@@ -1245,6 +1275,15 @@ This task involves predicting the salient regions of an image given by human eye
 
 - intro: TNNLS
 - arxiv: [https://arxiv.org/abs/1803.11395](https://arxiv.org/abs/1803.11395)
+
+**Salient Object Detection by Lossless Feature Reflection**
+
+- intro: IJCAI 2018
+- arxiv: [https://arxiv.org/abs/1802.06527](https://arxiv.org/abs/1802.06527)
+
+**HyperFusion-Net: Densely Reflective Fusion for Salient Object Detection**
+
+[https://arxiv.org/abs/1804.05142](https://arxiv.org/abs/1804.05142)
 
 # Video Saliency Detection
 
@@ -1444,6 +1483,7 @@ This task involves predicting the salient regions of an image given by human eye
 - keywords: Rapidly Digested Convolutional Layers (RDCL), Multiple Scale Convolutional Layers (MSCL)
 - intro: the proposed detector runs at 20 FPS on a single CPU core and 125 FPS using a GPU for VGA-resolution images
 - arxiv: [https://arxiv.org/abs/1708.05234](https://arxiv.org/abs/1708.05234)
+- github(Caffe): [https://github.com/zeusees/FaceBoxes](https://github.com/zeusees/FaceBoxes)
 
 **S3FD: Single Shot Scale-invariant Face Detector**
 
@@ -1482,6 +1522,20 @@ This task involves predicting the salient regions of an image given by human eye
 
 - intro: Neurocomputing
 - arxiv: [https://arxiv.org/abs/1803.10103](https://arxiv.org/abs/1803.10103)
+
+**Beyond Trade-off: Accelerate FCN-based Face Detector with Higher Accuracy**
+
+- intro: CVPR 2018. Beihang University & CUHK & Sensetime
+- arxiv: [https://arxiv.org/abs/1804.05197](https://arxiv.org/abs/1804.05197)
+
+**SFace: An Efficient Network for Face Detection in Large Scale Variations**
+
+- intro: Beihang University & Megvii Inc. (Face++)
+- arxiv: [https://arxiv.org/abs/1804.06559](https://arxiv.org/abs/1804.06559)
+
+**Survey of Face Detection on Low-quality Images**
+
+[https://arxiv.org/abs/1804.07362](https://arxiv.org/abs/1804.07362)
 
 ## Detect Small Faces
 
