@@ -780,6 +780,10 @@ alleviates the problem of video browsing, editing and indexing.
 - intro: CVPR 2018
 - arxiv: [https://arxiv.org/abs/1804.02843](https://arxiv.org/abs/1804.02843)
 
+**DTR-GAN: Dilated Temporal Relational Adversarial Network for Video Summarization**
+
+[https://arxiv.org/abs/1804.11228](https://arxiv.org/abs/1804.11228)
+
 # Video Highlight Detection
 
 **Unsupervised Extraction of Video Highlights Via Robust Recurrent Auto-encoders**

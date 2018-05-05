@@ -388,14 +388,6 @@ date: 2015-10-09
 - intro: AVSS 2017 oral
 - arxiv: [https://arxiv.org/abs/1707.02240](https://arxiv.org/abs/1707.02240)
 
-**A Jointly Learned Deep Architecture for Facial Attribute Analysis and Face Detection in the Wild**
-
-[https://arxiv.org/abs/1707.08705](https://arxiv.org/abs/1707.08705)
-
-**A Deep Cascade Network for Unaligned Face Attribute Classification**
-
-[https://arxiv.org/abs/1709.03851](https://arxiv.org/abs/1709.03851)
-
 **Attribute Recognition by Joint Recurrent Learning of Context and Correlation**
 
 - intro: ICCV 2017

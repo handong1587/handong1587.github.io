@@ -200,6 +200,12 @@ date: 2015-10-09
 - intro: an accurate multi-person pose estimation system
 - project page: [http://www.mvig.org/research/alphapose.html](http://www.mvig.org/research/alphapose.html)
 
+- - -
+
+**Computing CNN Loss and Gradients for Pose Estimation with Riemannian Geometry**
+
+[https://arxiv.org/abs/1805.01026](https://arxiv.org/abs/1805.01026)
+
 # Projects
 
 **MobilePose: Single Person Pose Estimation for Mobile Device**

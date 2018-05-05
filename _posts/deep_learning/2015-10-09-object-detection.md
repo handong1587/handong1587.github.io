@@ -1490,6 +1490,7 @@ This task involves predicting the salient regions of an image given by human eye
 - intro: ICCV 2017. Chinese Academy of Sciences
 - intro: can run at 36 FPS on a Nvidia Titan X (Pascal) for VGA-resolution images
 - arxiv: [https://arxiv.org/abs/1708.05237](https://arxiv.org/abs/1708.05237)
+- github(Caffe, official): [https://github.com/sfzhang15/SFD](https://github.com/sfzhang15/SFD)
 - github: [https://github.com//clcarwin/SFD_pytorch](https://github.com//clcarwin/SFD_pytorch)
 
 **Detecting Faces Using Region-based Fully Convolutional Networks**

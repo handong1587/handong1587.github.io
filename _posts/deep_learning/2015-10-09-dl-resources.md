@@ -319,6 +319,10 @@ not just the convolutions)
 - keywords: epsilon-ResNet
 - arxiv: [https://arxiv.org/abs/1804.01661](https://arxiv.org/abs/1804.01661)
 
+**Spiking Deep Residual Network**
+
+[https://arxiv.org/abs/1805.01352](https://arxiv.org/abs/1805.01352)
+
 ## DenseNet
 
 **Densely Connected Convolutional Networks**
@@ -2401,6 +2405,11 @@ with fast exact probabilistic inference over many layers."
 
 - intro: extension to work published in conference proceedings of 2017 IAPR MVA Conference
 - arxiv: [https://arxiv.org/abs/1712.03151](https://arxiv.org/abs/1712.03151)
+
+**Multi-Context Label Embedding**
+
+- keywords: Multi-Context Label Embedding (MCLE) 
+- arxiv: [https://arxiv.org/abs/1805.01199](https://arxiv.org/abs/1805.01199)
 
 ## Incremental Learning
 

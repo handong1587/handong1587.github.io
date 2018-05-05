@@ -137,8 +137,6 @@ after the embedding and recurrent layers of the RNN."
 
 **Expressing an Image Stream with a Sequence of Natural Sentences**
 
-![](/assets/image_captioning/stream2text_nips.jpg)
-
 - intro: NIPS 2015. CRCN
 - nips-page: [http://papers.nips.cc/paper/5776-expressing-an-image-stream-with-a-sequence-of-natural-sentences](http://papers.nips.cc/paper/5776-expressing-an-image-stream-with-a-sequence-of-natural-sentences)
 - paper: [http://papers.nips.cc/paper/5776-expressing-an-image-stream-with-a-sequence-of-natural-sentences.pdf](http://papers.nips.cc/paper/5776-expressing-an-image-stream-with-a-sequence-of-natural-sentences.pdf)
@@ -312,6 +310,16 @@ after the embedding and recurrent layers of the RNN."
 **Show-and-Fool: Crafting Adversarial Examples for Neural Image Captioning**
 
 [https://arxiv.org/abs/1712.02051](https://arxiv.org/abs/1712.02051)
+
+**Improved Image Captioning with Adversarial Semantic Alignment**
+
+- intro: IBM Research
+- arxiv: [https://arxiv.org/abs/1805.00063](https://arxiv.org/abs/1805.00063)
+
+**Object Counts! Bringing Explicit Detections Back into Image Captioning**
+
+- intro: NAACL 2018
+- arxiv: [https://arxiv.org/abs/1805.00314](https://arxiv.org/abs/1805.00314)
 
 # Object Descriptions
 

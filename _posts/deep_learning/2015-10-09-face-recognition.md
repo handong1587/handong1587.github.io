@@ -7,18 +7,15 @@ date: 2015-10-09
 
 # Papers
 
-## DeepID
-
 **Deep Learning Face Representation from Predicting 10,000 Classes**
 
-- intro: CVPR 2014
+- intro: CVPR 2014. DeepID
 - paper: [http://mmlab.ie.cuhk.edu.hk/pdf/YiSun_CVPR14.pdf](http://mmlab.ie.cuhk.edu.hk/pdf/YiSun_CVPR14.pdf)
 - github: [https://github.com/stdcoutzyx/DeepID_FaceClassify](https://github.com/stdcoutzyx/DeepID_FaceClassify)
 
-## DeepID2
-
 **Deep Learning Face Representation by Joint Identification-Verification**
 
+- intro: DeepID2
 - paper: [http://papers.nips.cc/paper/5416-analog-memories-in-a-balanced-rate-based-network-of-e-i-neurons](http://papers.nips.cc/paper/5416-analog-memories-in-a-balanced-rate-based-network-of-e-i-neurons)
 
 **基于Caffe的DeepID2实现**
@@ -27,15 +24,12 @@ date: 2015-10-09
 - 2. [http://www.miaoerduo.com/deep-learning/%E5%9F%BA%E4%BA%8Ecaffe%E7%9A%84deepid2%E5%AE%9E%E7%8E%B0%EF%BC%88%E4%B8%AD%EF%BC%89.html](http://www.miaoerduo.com/deep-learning/%E5%9F%BA%E4%BA%8Ecaffe%E7%9A%84deepid2%E5%AE%9E%E7%8E%B0%EF%BC%88%E4%B8%AD%EF%BC%89.html)
 - 3. [http://www.miaoerduo.com/deep-learning/%E5%9F%BA%E4%BA%8Ecaffe%E7%9A%84deepid2%E5%AE%9E%E7%8E%B0%EF%BC%88%E4%B8%8B%EF%BC%89.html](http://www.miaoerduo.com/deep-learning/%E5%9F%BA%E4%BA%8Ecaffe%E7%9A%84deepid2%E5%AE%9E%E7%8E%B0%EF%BC%88%E4%B8%8B%EF%BC%89.html)
 
-## DeepID2+
-
 **Deeply learned face representations are sparse, selective, and robust**
 
+- intro: DeepID2+
 - arxiv: [http://arxiv.org/abs/1412.1265](http://arxiv.org/abs/1412.1265)
 - video: [http://research.microsoft.com/apps/video/?id=260023](http://research.microsoft.com/apps/video/?id=260023)
 - mirror: [http://pan.baidu.com/s/1boufl3x](http://pan.baidu.com/s/1boufl3x)
-
-## MobileID
 
 **MobileID: Face Model Compression by Distilling Knowledge from Neurons**
 
@@ -44,8 +38,6 @@ date: 2015-10-09
 - project page: [http://personal.ie.cuhk.edu.hk/~lz013/projects/MobileID.html](http://personal.ie.cuhk.edu.hk/~lz013/projects/MobileID.html)
 - paper: [http://personal.ie.cuhk.edu.hk/~pluo/pdf/aaai16-face-model-compression.pdf](http://personal.ie.cuhk.edu.hk/~pluo/pdf/aaai16-face-model-compression.pdf)
 - github: [https://github.com/liuziwei7/mobile-id](https://github.com/liuziwei7/mobile-id)
-
-## DeepFace
 
 **DeepFace: Closing the Gap to Human-Level Performance in Face Verification**
 
@@ -244,6 +236,30 @@ date: 2015-10-09
 **Surveillance Face Recognition Challenge**
 
 [https://arxiv.org/abs/1804.09691](https://arxiv.org/abs/1804.09691)
+
+# Facial Attributes Classification
+
+**A Jointly Learned Deep Architecture for Facial Attribute Analysis and Face Detection in the Wild**
+
+[https://arxiv.org/abs/1707.08705](https://arxiv.org/abs/1707.08705)
+
+**A Deep Cascade Network for Unaligned Face Attribute Classification**
+
+[https://arxiv.org/abs/1709.03851](https://arxiv.org/abs/1709.03851)
+
+**A Deep Face Identification Network Enhanced by Facial Attributes Prediction**
+
+[https://arxiv.org/abs/1805.00324](https://arxiv.org/abs/1805.00324)
+
+**Multi-task Learning of Cascaded CNN for Facial Attribute Classification**
+
+- intro: Xiamen University & Xiamen University of Technology
+- arxiv: [https://arxiv.org/abs/1805.01290](https://arxiv.org/abs/1805.01290)
+
+**Multi-label Learning Based Deep Transfer Neural Network for Facial Attribute Classification**
+
+- intro: Xiamen University & Xiamen University of Technology
+- arxiv: [https://arxiv.org/abs/1805.01282](https://arxiv.org/abs/1805.01282)
 
 # Video Face Recognition
 

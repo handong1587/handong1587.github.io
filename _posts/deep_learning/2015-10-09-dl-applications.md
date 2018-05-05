@@ -1187,6 +1187,10 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 
 [https://arxiv.org/abs/1804.05624](https://arxiv.org/abs/1804.05624)
 
+**Perceptually Optimized Generative Adversarial Network for Single Image Dehazing**
+
+[https://arxiv.org/abs/1805.01084](https://arxiv.org/abs/1805.01084)
+
 # Image Rain Removal / De-raining
 
 **Clearing the Skies: A deep network architecture for single-image rain removal**
