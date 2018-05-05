@@ -542,7 +542,7 @@ at INT8 deep learning operations than other FPGA DSP architectures"
 
 **Quantization and Training of Neural Networks for Efficient Integer-Arithmetic-Only Inference**
 
-- intro: Google
+- intro: CVPR 2018. Google
 - arxiv: [https://arxiv.org/abs/1712.05877](https://arxiv.org/abs/1712.05877)
 
 **Deep Neural Network Compression with Single and Multiple Level Quantization**
