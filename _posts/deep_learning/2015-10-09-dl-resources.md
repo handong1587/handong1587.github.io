@@ -2493,6 +2493,10 @@ with fast exact probabilistic inference over many layers."
 
 [https://arxiv.org/abs/1803.09210](https://arxiv.org/abs/1803.09210)
 
+**Open Set Domain Adaptation by Backpropagation**
+
+[https://arxiv.org/abs/1804.10427](https://arxiv.org/abs/1804.10427)
+
 ## Embedding
 
 **Learning Deep Embeddings with Histogram Loss**
@@ -2769,6 +2773,11 @@ Compatible with Theano and TensorFlow. Optimized for Twitter.
 - intro: A lightweight, easy to use and open source Java library for experimenting with
 feed-forward neural nets and deep learning.
 - gitlab: [https://gitlab.com/flimmerkiste/NewralNet](https://gitlab.com/flimmerkiste/NewralNet)
+
+**FeatherCNN**
+
+- intro: FeatherCNN is a high performance inference engine for convolutional neural networks
+- github: [https://github.com/Tencent/FeatherCNN](https://github.com/Tencent/FeatherCNN)
 
 # Readings and Questions
 

@@ -390,6 +390,10 @@ date: 2015-10-09
 
 [https://arxiv.org/abs/1602.02255](https://arxiv.org/abs/1602.02255)
 
+**Cycle-Consistent Deep Generative Hashing for Cross-Modal Retrieval**
+
+[https://arxiv.org/abs/1804.11013](https://arxiv.org/abs/1804.11013)
+
 **SSDH: Semi-supervised Deep Hashing for Large Scale Image Retrieval**
 
 - arxiv: [http://arxiv.org/abs/1607.08477](http://arxiv.org/abs/1607.08477)
@@ -530,6 +534,10 @@ date: 2015-10-09
 - intro: SIGIR 2017 Oral
 - arxiv: [https://arxiv.org/abs/1804.08275](https://arxiv.org/abs/1804.08275)
 
+**Deep Ordinal Hashing with Spatial Attention**
+
+[https://arxiv.org/abs/1805.02459](https://arxiv.org/abs/1805.02459)
+
 # Cross Modal Retrieval
 
 **Cross-domain Image Retrieval with a Dual Attribute-aware Ranking Network**
@@ -573,6 +581,11 @@ date: 2015-10-09
 
 - arxiv: [https://arxiv.org/abs/1801.02200](https://arxiv.org/abs/1801.02200)
 - github: [https://github.com/surisdi/youtube-8m](https://github.com/surisdi/youtube-8m)
+
+**Learnable PINs: Cross-Modal Embeddings for Person Identity**
+
+- intro: VGG
+- arxiv: [https://arxiv.org/abs/1805.00833](https://arxiv.org/abs/1805.00833)
 
 ## Projects
 

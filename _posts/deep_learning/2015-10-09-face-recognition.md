@@ -237,6 +237,14 @@ date: 2015-10-09
 
 [https://arxiv.org/abs/1804.09691](https://arxiv.org/abs/1804.09691)
 
+**Towards Interpretable Face Recognition**
+
+[https://arxiv.org/abs/1805.00611](https://arxiv.org/abs/1805.00611)
+
+**Scalable Angular Discriminative Deep Metric Learning for Face Recognition**
+
+[https://arxiv.org/abs/1804.10899](https://arxiv.org/abs/1804.10899)
+
 # Facial Attributes Classification
 
 **A Jointly Learned Deep Architecture for Facial Attribute Analysis and Face Detection in the Wild**

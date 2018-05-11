@@ -340,6 +340,10 @@ Compressed model is less than 500KB
 - intro: CVPR 2018
 - arxiv: [https://arxiv.org/abs/1802.10591](https://arxiv.org/abs/1802.10591)
 
+**Arbitrary Style Transfer with Deep Feature Reshuffle**
+
+[https://arxiv.org/abs/1805.04103](https://arxiv.org/abs/1805.04103)
+
 ## Neural Art On Audio
 
 **MSc AI Project on generative deep networks and neural style transfer for audio**

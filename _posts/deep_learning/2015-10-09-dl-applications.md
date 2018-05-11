@@ -203,6 +203,12 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 - arxiv: [https://arxiv.org/abs/1803.10562](https://arxiv.org/abs/1803.10562)
 - github: [https://github.com/Prinsphield/ELEGANT](https://github.com/Prinsphield/ELEGANT)
 
+**Learning to See in the Dark**
+
+- intro: CVPR 2018
+- arxiv: [https://arxiv.org/abs/1805.01934](https://arxiv.org/abs/1805.01934)
+- video: [https://www.youtube.com/watch?v=qWKUFK7MWvg&feature=youtu.be](https://www.youtube.com/watch?v=qWKUFK7MWvg&feature=youtu.be)
+
 # Boundary / Edge / Contour Detection
 
 **Holistically-Nested Edge Detection**
@@ -641,6 +647,11 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 **Improving Object Counting with Heatmap Regulation**
 
 [https://arxiv.org/abs/1803.05494](https://arxiv.org/abs/1803.05494)
+
+**Learning Short-Cut Connections for Object Counting**
+
+- keywords: Gated U-Net (GU-Net)
+- arxiv: [https://arxiv.org/abs/1805.02919](https://arxiv.org/abs/1805.02919)
 
 ## Crowd Counting / Crowd Analysis
 
@@ -1190,6 +1201,15 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 **Perceptually Optimized Generative Adversarial Network for Single Image Dehazing**
 
 [https://arxiv.org/abs/1805.01084](https://arxiv.org/abs/1805.01084)
+
+**PAD-Net: A Perception-Aided Single Image Dehazing Network**
+
+- arxiv: [https://arxiv.org/abs/1805.03146](https://arxiv.org/abs/1805.03146)
+- github: [https://github.com/guanlongzhao/single-image-dehazing](https://github.com/guanlongzhao/single-image-dehazing)
+
+**The Effectiveness of Instance Normalization: a Strong Baseline for Single Image Dehazing**
+
+[https://arxiv.org/abs/1805.03305](https://arxiv.org/abs/1805.03305)
 
 # Image Rain Removal / De-raining
 
@@ -1869,6 +1889,11 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 
 - intro: AAAI 2018
 - arxiv: [https://arxiv.org/abs/1711.07837](https://arxiv.org/abs/1711.07837)
+
+**Learning Optical Flow via Dilated Networks and Occlusion Reasoning**
+
+- intro: ICIP 2018
+- arxiv: [https://arxiv.org/abs/1805.02733](https://arxiv.org/abs/1805.02733)
 
 # 3D
 

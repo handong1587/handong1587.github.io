@@ -277,3 +277,7 @@ date: 2015-10-09
 
 - keywrods: MNIST
 - arxiv: [https://arxiv.org/abs/1804.08529](https://arxiv.org/abs/1804.08529)
+
+**On the Limitation of MagNet Defense against L1-based Adversarial Examples**
+
+[https://arxiv.org/abs/1805.00310](https://arxiv.org/abs/1805.00310)

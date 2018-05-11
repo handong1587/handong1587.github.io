@@ -418,6 +418,11 @@ date: 2015-10-09
 - intro: CVPR 2018 spotlight
 - arxiv: [https://arxiv.org/abs/1803.02988](https://arxiv.org/abs/1803.02988)
 
+**Ensemble Soft-Margin Softmax Loss for Image Classification**
+
+- intro: IJCAI 2018
+- arxiv: [https://arxiv.org/abs/1805.03922](https://arxiv.org/abs/1805.03922)
+
 # Learning Rate
 
 **No More Pesky Learning Rates**

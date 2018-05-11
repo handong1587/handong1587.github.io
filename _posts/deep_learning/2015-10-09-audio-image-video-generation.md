@@ -208,6 +208,10 @@ date: 2015-10-09
 - intro: Google Brain & UC Berkeley
 - arxiv: [https://arxiv.org/abs/1802.05751](https://arxiv.org/abs/1802.05751)
 
+**Unpaired Multi-Domain Image Generation via Regularized Conditional GANs**
+
+[https://arxiv.org/abs/1805.02456](https://arxiv.org/abs/1805.02456)
+
 # Face Image Generation
 
 **Fader Networks: Manipulating Images by Sliding Attributes**
@@ -339,8 +343,7 @@ date: 2015-10-09
 
 **Deconvolution and Checkerboard Artifacts**
 
-:star::star::star::star::star:
-
+- :star::star::star::star::star:
 - intro: Google Brain & Université de Montréal
 - blog: [http://distill.pub/2016/deconv-checkerboard/](http://distill.pub/2016/deconv-checkerboard/)
 

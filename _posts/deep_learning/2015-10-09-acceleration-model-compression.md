@@ -719,6 +719,12 @@ at INT8 deep learning operations than other FPGA DSP architectures"
 
 - github: [https://github.com/chengshengchan/model_compression](https://github.com/chengshengchan/model_compression)
 
+**Neural Network Distiller**
+
+- intro: Neural Network Distiller: a Python package for neural network compression research
+- project page: [https://nervanasystems.github.io/distiller/](https://nervanasystems.github.io/distiller/)
+- github: [https://github.com/NervanaSystems/distiller](https://github.com/NervanaSystems/distiller)
+
 # Code Optimization
 
 **Production Deep Learning with NVIDIA GPU Inference Engine**

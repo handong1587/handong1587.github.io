@@ -206,6 +206,10 @@ date: 2015-10-09
 
 [https://arxiv.org/abs/1805.01026](https://arxiv.org/abs/1805.01026)
 
+**Bi-directional Graph Structure Information Model for Multi-Person Pose Estimation**
+
+[https://arxiv.org/abs/1805.00603](https://arxiv.org/abs/1805.00603)
+
 # Projects
 
 **MobilePose: Single Person Pose Estimation for Mobile Device**

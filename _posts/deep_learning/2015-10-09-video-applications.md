@@ -110,6 +110,11 @@ date: 2015-10-09
 - intro: two-stream ConvNet
 - arxiv: [https://arxiv.org/abs/1804.10021](https://arxiv.org/abs/1804.10021)
 
+**FFNet: Video Fast-Forwarding via Reinforcement Learning**
+
+- intro: CVPR 2018
+- arxiv: [https://arxiv.org/abs/1805.02792](https://arxiv.org/abs/1805.02792)
+
 # Video Classification
 
 **Large-scale Video Classification with Convolutional Neural Networks**

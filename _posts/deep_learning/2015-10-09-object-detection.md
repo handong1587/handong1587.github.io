@@ -874,6 +874,10 @@ Continuation of [arXiv:1608.08021](https://arxiv.org/abs/1608.08021)
 
 [https://arxiv.org/abs/1804.05810](https://arxiv.org/abs/1804.05810)
 
+**Quantization Mimic: Towards Very Tiny CNN for Object Detection**
+
+[https://arxiv.org/abs/1805.02152](https://arxiv.org/abs/1805.02152)
+
 # Non-Maximum Suppression (NMS)
 
 **End-to-End Integration of a Convolutional Network, Deformable Parts Model and Non-Maximum Suppression**
@@ -1538,6 +1542,10 @@ This task involves predicting the salient regions of an image given by human eye
 
 [https://arxiv.org/abs/1804.07362](https://arxiv.org/abs/1804.07362)
 
+**Anchor Cascade for Efficient Face Detection**
+
+[https://arxiv.org/abs/1805.03363](https://arxiv.org/abs/1805.03363)
+
 ## Detect Small Faces
 
 **Finding Tiny Faces**
@@ -1774,6 +1782,15 @@ This task involves predicting the salient regions of an image given by human eye
 
 - intro: IEEE Conference on Information Reuse and Integration (IRI) 2017 oral
 - arxiv: [https://arxiv.org/abs/1706.08574](https://arxiv.org/abs/1706.08574)
+
+**Localized Traffic Sign Detection with Multi-scale Deconvolution Networks**
+
+[https://arxiv.org/abs/1804.10428](https://arxiv.org/abs/1804.10428)
+
+**Detecting Traffic Lights by Single Shot Detection**
+
+- intro: ITSC 2018
+- arxiv: [https://arxiv.org/abs/1805.02523](https://arxiv.org/abs/1805.02523)
 
 # Skeleton Detection
 

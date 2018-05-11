@@ -915,9 +915,11 @@ with built-in awareness of semantically meaningful boundaries. "
 
 **Learning to Segment Every Thing**
 
-- intro: UC Berkeley & Facebook AI Research
+- intro: CVPR 2018. UC Berkeley & Facebook AI Research
 - keywords: MaskX R-CNN
+- project page: [http://ronghanghu.com/seg_every_thing/](http://ronghanghu.com/seg_every_thing/)
 - arxiv: [https://arxiv.org/abs/1711.10370](https://arxiv.org/abs/1711.10370)
+- gihtub(official, Caffe2): [https://github.com/ronghanghu/seg_every_thing](https://github.com/ronghanghu/seg_every_thing)
 
 **Recurrent Neural Networks for Semantic Instance Segmentation**
 
