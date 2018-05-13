@@ -1270,6 +1270,10 @@ This task involves predicting the salient regions of an image given by human eye
 
 [https://arxiv.org/abs/1709.02495](https://arxiv.org/abs/1709.02495)
 
+**Recurrently Aggregating Deep Features for Salient Object Detection**
+- intro: AAAI 2018
+- paper: [https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16775/16281](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16775/16281)
+
 **Deep saliency: What is learnt by a deep network about saliency?**
 
 - intro: 2nd Workshop on Visualisation for Deep Learning in the 34th International Conference On Machine Learning
@@ -1762,7 +1766,8 @@ This task involves predicting the salient regions of an image given by human eye
 
 **SINet: A Scale-insensitive Convolutional Neural Network for Fast Vehicle Detection**
 
-[https://arxiv.org/abs/1804.00433](https://arxiv.org/abs/1804.00433)
+- intro: IEEE Transactions on Intelligent Transportation Systems (T-ITS)
+- arxiv: [https://arxiv.org/abs/1804.00433](https://arxiv.org/abs/1804.00433)
 
 # Traffic-Sign Detection
 
@@ -1843,7 +1848,8 @@ This task involves predicting the salient regions of an image given by human eye
 
 **Direction-aware Spatial Context Features for Shadow Detection**
 
-[https://arxiv.org/abs/1712.04142](https://arxiv.org/abs/1712.04142)
+- intro: CVPR 2018
+- arxiv: [https://arxiv.org/abs/1712.04142](https://arxiv.org/abs/1712.04142)
 
 # Others Detection
 
