@@ -52,6 +52,12 @@ date: 2015-10-09
 - slides: [http://rll.berkeley.edu/deeprlcourse/docs/nuts-and-bolts.pdf](http://rll.berkeley.edu/deeprlcourse/docs/nuts-and-bolts.pdf)
 - mirror: [https://pan.baidu.com/s/1kVkBLkF](https://pan.baidu.com/s/1kVkBLkF)
 
+**ML Tutorial: Modern Reinforcement Learning and Video Games**
+
+- intro: by Marc Bellemare [DeepMind]
+- youtube: [https://www.youtube.com/watch?v=WuFMrk3ZbkE](https://www.youtube.com/watch?v=WuFMrk3ZbkE)
+- mirror: [https://www.bilibili.com/video/av17360035/](https://www.bilibili.com/video/av17360035/)
+
 **Reinforcement learning explained**
 
 - blog: [https://www.oreilly.com/ideas/reinforcement-learning-explained](https://www.oreilly.com/ideas/reinforcement-learning-explained)
@@ -142,6 +148,18 @@ date: 2015-10-09
 - video: [http://pan.baidu.com/s/1bnWGuIz/](http://pan.baidu.com/s/1bnWGuIz/)
 - assignment: [http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching_files/Easy21-Johannes.pdf](http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching_files/Easy21-Johannes.pdf)
 
+**CS 294: Deep Reinforcement Learning, Fall 2017**
+
+- instructor: Sergey Levine
+- homepage: [http://rll.berkeley.edu/deeprlcourse/](http://rll.berkeley.edu/deeprlcourse/)
+- youtube: [https://www.youtube.com/playlist?list=PLkFD6_40KJIznC9CDbVTjAF2oyt8_VAe3](https://www.youtube.com/playlist?list=PLkFD6_40KJIznC9CDbVTjAF2oyt8_VAe3)
+- bilibili: [https://www.bilibili.com/video/av21501169/](https://www.bilibili.com/video/av21501169/)
+
+**CS 294: Deep Reinforcement Learning, Spring 2017**
+
+- course page: [http://rll.berkeley.edu/deeprlcoursesp17/](http://rll.berkeley.edu/deeprlcoursesp17/)
+- github: [https://github.com//txizzle/drl](https://github.com//txizzle/drl)
+
 **Berkeley CS 294: Deep Reinforcement Learning**
 
 - instructors: John Schulman, Pieter Abbeel
@@ -168,6 +186,23 @@ date: 2015-10-09
 
 - course page: [http://www.cs.mcgill.ca/~dprecup/courses/rl.html](http://www.cs.mcgill.ca/~dprecup/courses/rl.html)
 - lectures: [http://www.cs.mcgill.ca/~dprecup/courses/RL/lectures.html](http://www.cs.mcgill.ca/~dprecup/courses/RL/lectures.html)
+
+**Deep RL Bootcamp - 26-27 August 2017 | Berkeley CA**
+
+- lectures: [https://sites.google.com/view/deep-rl-bootcamp/lectures](https://sites.google.com/view/deep-rl-bootcamp/lectures)
+- video: [https://www.bilibili.com/video/av15568836/](https://www.bilibili.com/video/av15568836/)
+
+**CMPUT 366: Intelligent Systems and CMPUT 609: Reinforcement Learning & Artificial Intelligence**
+
+- intro: by Rich Sutton, Adam White
+- lecture video: [https://drive.google.com/drive/folders/0B3w765rOKuKAMG9lbmRacFdsLWM?direction=a](https://drive.google.com/drive/folders/0B3w765rOKuKAMG9lbmRacFdsLWM?direction=a)
+
+**Deep Reinforcement Learning and Control (Spring 2017, CMU 10703)**
+
+- instructors: Katerina Fragkiadaki, Ruslan Satakhutdinov
+- homepage: [https://katefvision.github.io/](https://katefvision.github.io/)
+- video: [https://www.youtube.com/playlist?list=PLpIxOj-HnDsNPFdu2UqCu2McJKHs-eWXv](https://www.youtube.com/playlist?list=PLpIxOj-HnDsNPFdu2UqCu2McJKHs-eWXv)
+- mirror: [https://www.bilibili.com/video/av18865689/](https://www.bilibili.com/video/av18865689/)
 
 # Papers
 
@@ -517,6 +552,34 @@ Incorporates dropout regularization and convolutional neural networks with a sep
 - keywords: Distill, transfer learning
 - arxiv: [https://arxiv.org/abs/1707.04175](https://arxiv.org/abs/1707.04175)
 
+**Deep Reinforcement Learning: Framework, Applications, and Embedded Implementations**
+
+- intro: Syracuse University & University of California, Riverside
+- arxiv: [https://arxiv.org/abs/1710.03792](https://arxiv.org/abs/1710.03792)
+
+**Robust Deep Reinforcement Learning with Adversarial Attacks**
+
+[https://arxiv.org/abs/1712.03632](https://arxiv.org/abs/1712.03632)
+
+**Variational Deep Q Network**
+
+- intro: Second workshop on Bayesian Deep Learning (NIPS 2017). Columbia University
+- arxiv: [https://arxiv.org/abs/1711.11225](https://arxiv.org/abs/1711.11225)
+
+**On Monte Carlo Tree Search and Reinforcement Learning**
+
+[https://www.jair.org/media/5507/live-5507-10333-jair.pdf](https://www.jair.org/media/5507/live-5507-10333-jair.pdf)
+
+**Distributed Deep Reinforcement Learning: Learn how to play Atari games in 21 minutes**
+
+- intro: deepsense.ai & Intel & Polish Academy of Sciences
+- arxiv: [https://arxiv.org/abs/1801.02852](https://arxiv.org/abs/1801.02852)
+- gihtub: [https://github.com//anonymous-author1/DDRL](https://github.com//anonymous-author1/DDRL)
+
+**GAN Q-learning**
+
+[https://arxiv.org/abs/1805.04874](https://arxiv.org/abs/1805.04874)
+
 ## Surveys
 
 **Reinforcement Learning: A Survey**
@@ -743,6 +806,22 @@ The project is dedicated to hero in life great Jesse Livermore.
 
 [https://github.com/ShangtongZhang/DeepRL](https://github.com/ShangtongZhang/DeepRL)
 
+## Autonomous vehicle navigation
+
+**Self-Driving-Car-AI**
+
+- intro: A simple self-driving car AI python script using the deep Q-learning algorithm
+- github: [https://github.com//JianyangZhang/Self-Driving-Car-AI](https://github.com//JianyangZhang/Self-Driving-Car-AI)
+
+**Autonomous vehicle navigation based on Deep Reinforcement Learning**
+
+[https://github.com//kaihuchen/DRL-AutonomousVehicles](https://github.com//kaihuchen/DRL-AutonomousVehicles)
+
+**Car Racing using Reinforcement Learning**
+
+- intro: Stanford University
+- paper: [https://web.stanford.edu/class/cs221/2017/restricted/p-final/elibol/final.pdf](https://web.stanford.edu/class/cs221/2017/restricted/p-final/elibol/final.pdf)
+
 ## Play Flappy Bird
 
 **Using Deep Q-Network to Learn How To Play Flappy Bird**
@@ -784,7 +863,7 @@ The project is dedicated to hero in life great Jesse Livermore.
 - youtube: [https://www.youtube.com/watch?v=Hqf__FlRlzg](https://www.youtube.com/watch?v=Hqf__FlRlzg)
 - github: [https://github.com/llSourcell/pong_neural_network_live](https://github.com/llSourcell/pong_neural_network_live)
 
-# Tips and Tricks
+## Tips and Tricks
 
 **DeepRLHacks**
 
@@ -810,6 +889,12 @@ The project is dedicated to hero in life great Jesse Livermore.
 - intro: Atari gauntlet for RL agents
 - project page: [http://ai-on.org/projects/multitask-and-transfer-learning.html](http://ai-on.org/projects/multitask-and-transfer-learning.html)
 - github: [https://github.com/deontologician/atari_multitask](https://github.com/deontologician/atari_multitask)
+
+**Coach: a python reinforcement learning research framework containing implementation of many state-of-the-art algorithms**
+
+- intro: Reinforcement Learning Coach by Intel® Nervana™ enables easy experimentation with state of the art Reinforcement Learning algorithms
+- homepage: [http://coach.nervanasys.com/](http://coach.nervanasys.com/)
+- github: [https://github.com/NervanaSystems/coach](https://github.com/NervanaSystems/coach)
 
 # Blogs
 

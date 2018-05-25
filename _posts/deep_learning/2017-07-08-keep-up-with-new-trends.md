@@ -2,8 +2,64 @@
 layout: post
 category: deep_learning
 title: Keep Up With New Trends
-date: 2017-07-08
+date: 2017-12-18
 ---
+
+**ComputerVisionFoundation Videos**
+
+[https://www.youtube.com/channel/UC0n76gicaarsN_Y9YShWwhw/playlists](https://www.youtube.com/channel/UC0n76gicaarsN_Y9YShWwhw/playlists)
+
+# CVPR 2018
+
+[http://cvpr2018.thecvf.com/program/main_conference](http://cvpr2018.thecvf.com/program/main_conference)
+
+# NIPS 2017
+
+**NIPS 2017 Spotlights**
+
+- youtube: [https://www.youtube.com/playlist?list=PLbVjlVq6hjK89WtlGHdC_PNwcawrzht5S](https://www.youtube.com/playlist?list=PLbVjlVq6hjK89WtlGHdC_PNwcawrzht5S)
+
+**NIPS 2017 — notes and thoughs**
+
+[https://olgalitech.wordpress.com/2017/12/12/nips-2017-notes-and-thoughs/](https://olgalitech.wordpress.com/2017/12/12/nips-2017-notes-and-thoughs/)
+
+**NIPS 2017 Notes**
+
+- notes: [https://cs.brown.edu/~dabel/blog/posts/misc/nips_2017.pdf](https://cs.brown.edu/~dabel/blog/posts/misc/nips_2017.pdf)
+- blog: [https://cs.brown.edu/~dabel/blog.html](https://cs.brown.edu/~dabel/blog.html)
+
+**NIPS 2017**
+
+- intro: A list of resources for all invited talks, tutorials, workshops and presentations at NIPS 2017
+- github: [https://github.com//hindupuravinash/nips2017](https://github.com//hindupuravinash/nips2017)
+
+**Global NIPS 2017 Paper Implementation Challenge**
+
+- intro: 8th December 2017 - 31st January 2018 (Application closed)
+- homepage: [https://nurture.ai/nips-challenge](https://nurture.ai/nips-challenge)
+
+# ICCV 2017
+
+**ICCV 2017 open access**
+
+[http://openaccess.thecvf.com/ICCV2017.py](http://openaccess.thecvf.com/ICCV2017.py)
+
+**ICCV 2017 Workshops, Venice Italy**
+
+[http://openaccess.thecvf.com/ICCV2017_workshops/menu.py](http://openaccess.thecvf.com/ICCV2017_workshops/menu.py)
+
+**ICCV17 Tutorials**
+
+[https://www.youtube.com/playlist?list=PL_bDvITUYucBGj2Hmv1e7CP9U82kHWVOT](https://www.youtube.com/playlist?list=PL_bDvITUYucBGj2Hmv1e7CP9U82kHWVOT)
+
+**Facebook at ICCV 2017**
+
+[https://research.fb.com/facebook-at-iccv-2017/](https://research.fb.com/facebook-at-iccv-2017/)
+
+**ICCV 2017 Tutorial on GANs**
+
+- homepage: [https://sites.google.com/view/iccv-2017-gans/schedule](https://sites.google.com/view/iccv-2017-gans/schedule)
+- youtube: {https://www.youtube.com/playlist?list=PL_bDvITUYucDEzjMTgh1cgtTIODZe3prZ}(https://www.youtube.com/playlist?list=PL_bDvITUYucDEzjMTgh1cgtTIODZe3prZ)
 
 # ILSVRC 2017
 

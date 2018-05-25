@@ -43,6 +43,19 @@ compress:   sEx a FileName.* FileName
 uncompress: sEx x FileName.*
 ```
 
+**unzip a tar gz archive to a specific destination**
+
+```
+cd /root/Desktop/folder
+tar xf /root/Documents/file.tar.gz
+```
+
+or:
+
+```
+tar xf file.tar.gz -C /root/Desktop/folder
+```
+
 ## Wiew a detailed table of contents for an archive
 
 |file type    |  view contents cmd                  |
@@ -54,6 +67,8 @@ uncompress: sEx x FileName.*
 | task                                              | command                 |
 | :-----------------------------                    | :---------------------: |
 | Print system info                                 | cat /proc/version       |
+| Print kernel version                              | uname -a                |
+| Print distribution information                    | lsb_release -a          |
 | Print software info                               | whereis SOFEWARE        |
 |                                                   | which SOFEWARE          |
 |                                                   | locate SOFEWARE         |
@@ -63,7 +78,9 @@ uncompress: sEx x FileName.*
 |                                                   | free -m                 |
 | Print pid info                                    | ps aux \| grep 'target_pid' |
 | Print graphics card version                       | nvcc --version          |
-| Print graphics card GPU info                      | nvidia-smi              |
+| Print graphics card GPU info                      | lspci  | grep -i vga    |
+| Print graphics card GPU running info              | nvidia-smi              |
+| Print graphics card GPU info dynamically          | watch -n0.1 nvidia-smi  |
 | Print disk free space                             | df -h                   |
 |                                                   | df -hl                  |
 | Print current folder size                         | du -sh DIRNAME          |
@@ -461,6 +478,12 @@ nohup xxx.sh 1 > log.txt 2>&1 &
 **nohup - get the process ID to kill a nohup process**
 
 ```
+ps -ef | grep "command name"
+```
+
+or:
+
+```
 nohup command-with-options & 
 echo $! > save_pid.txt
 kill -9 `cat save_pid.txt`
@@ -548,6 +571,16 @@ gT            go to previous tab
 za
 ```
 
+```
+vimdiff file1 file2
+```
+
+Or After vimed file1:
+
+```
+:vert diffsplit file2
+```
+
 # Matlab
 
 Comment multi-lines in Matlab: Ctrl+R, Ctrl+T
@@ -584,6 +617,14 @@ time=`date +%Y%m%d_%H%M%S`
 cd /path/to/detection-proposals
 nohup ./runGenerareSSProposals.sh > runGenerareSSProposals_${time}.log 2>&1 &
 echo $! > save_runGenerareSSProposals_val_pid.txt
+```
+
+# Hadoop
+
+**Delete a directory from Hadoop cluster**
+
+```
+hadoop fs -rm -r -f /user/the/path/to/your/dir
 ```
 
 # Others
@@ -742,4 +783,11 @@ perl -lne '$seen{$_}++ and next or print;' data.txt > output.txt
 
 ```
 ./do_something.sh || exit 1
+```
+
+**Split string on Shell**
+
+```
+str="/aaaa/bbbbb/cccc"
+echo $str | tr "/" "\n"
 ```

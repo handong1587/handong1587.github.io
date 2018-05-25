@@ -1,7 +1,7 @@
 ---
 layout: post
 category: programming_study
-title: Resources
+title: Programming Resources
 date: 2015-07-01
 ---
 
@@ -275,6 +275,10 @@ The user can run the packaged app without installing a Python interpreter or any
 - intro: PacVim is a game that teaches you vim commands. 
 You must move pacman (the green cursor) to highlight each word on the gameboard while avoiding the ghosts (in red).
 - github: [https://github.com/jmoon018/PacVim](https://github.com/jmoon018/PacVim)
+
+**Turning vim into an IDE through vim plugins**
+
+[https://www.safaribooksonline.com/blog/2014/11/23/way-vim-ide/](https://www.safaribooksonline.com/blog/2014/11/23/way-vim-ide/)
 
 ## Powerful VIM config on Github
 

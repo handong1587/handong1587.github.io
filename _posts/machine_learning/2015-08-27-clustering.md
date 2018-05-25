@@ -13,6 +13,19 @@ date: 2015-08-27
 - github: [https://github.com/src-d/kmcuda](https://github.com/src-d/kmcuda)
 - code: [http://research.csc.ncsu.edu/nc-caps/yykmeans.tar.bz2](http://research.csc.ncsu.edu/nc-caps/yykmeans.tar.bz2)
 
+**Semi-supervised K-means++**
+
+- arxiv: [http://arxiv.org/abs/1602.00360](http://arxiv.org/abs/1602.00360)
+
+**k-Means Clustering Is Matrix Factorization**
+
+- arxiv: [http://arxiv.org/abs/1512.07548](http://arxiv.org/abs/1512.07548)
+- note: [http://blog.csdn.net/cyh_24/article/details/50408884](http://blog.csdn.net/cyh_24/article/details/50408884)
+
+**An efficient K-means algorithm for Massive Data**
+
+- arxiv: [http://arxiv.org/abs/1605.02989](http://arxiv.org/abs/1605.02989)
+
 **Boost K-Means**
 
 - arxiv: [https://arxiv.org/abs/1610.02483](https://arxiv.org/abs/1610.02483)
@@ -30,6 +43,11 @@ date: 2015-08-27
 
 - github: [https://github.com/obachem/kmc2](https://github.com/obachem/kmc2)
 - blog: [https://www.infoq.com/news/2016/12/AFK-MC2-boosts-kMeans-seeding](https://www.infoq.com/news/2016/12/AFK-MC2-boosts-kMeans-seeding)
+
+**An efficient K -means clustering algorithm for massive data**
+
+- keywords: Clustering, massive data, parallelization, unsupervised learning, K-means, K-means++, Mini-batch
+- arxiv: [https://arxiv.org/abs/1801.02949](https://arxiv.org/abs/1801.02949)
 
 # Stream Clustering
 
@@ -71,10 +89,6 @@ it surveys the widely known clustering algorithms in a comparative way"
 
 - arxiv: [http://arxiv.org/abs/1602.00522](http://arxiv.org/abs/1602.00522)
 
-**Semi-supervised K-means++**
-
-- arxiv: [http://arxiv.org/abs/1602.00360](http://arxiv.org/abs/1602.00360)
-
 **Compressive Spectral Clustering**
 
 - arxiv: [http://arxiv.org/abs/1602.02018](http://arxiv.org/abs/1602.02018)
@@ -82,11 +96,6 @@ it surveys the widely known clustering algorithms in a comparative way"
 **Interactive Bayesian Hierarchical Clustering**
 
 - arxiv: [http://arxiv.org/abs/1602.03258](http://arxiv.org/abs/1602.03258)
-
-**k-Means Clustering Is Matrix Factorization**
-
-- arxiv: [http://arxiv.org/abs/1512.07548](http://arxiv.org/abs/1512.07548)
-- note: [http://blog.csdn.net/cyh_24/article/details/50408884](http://blog.csdn.net/cyh_24/article/details/50408884)
 
 **Practical Introduction to Clustering Data**
 
@@ -104,10 +113,6 @@ it surveys the widely known clustering algorithms in a comparative way"
 
 - arxiv: [http://arxiv.org/abs/1603.07879](http://arxiv.org/abs/1603.07879)
 
-**An efficient K-means algorithm for Massive Data**
-
-- arxiv: [http://arxiv.org/abs/1605.02989](http://arxiv.org/abs/1605.02989)
-
 **mst_clustering: Clustering via Euclidean Minimum Spanning Trees**
 
 - paper: [http://joss.theoj.org/papers/10.21105/joss.00012](http://joss.theoj.org/papers/10.21105/joss.00012)
@@ -121,6 +126,18 @@ it surveys the widely known clustering algorithms in a comparative way"
 **Context Aware Nonnegative Matrix Factorization Clustering**
 
 - arxiv: [http://arxiv.org/abs/1609.04628](http://arxiv.org/abs/1609.04628)
+
+**Clustering by fast search and find of density peaks**
+
+[http://science.sciencemag.org/content/344/6191/1492](http://science.sciencemag.org/content/344/6191/1492)
+- slides: [http://conference.mipt.ru/img/conference/material-design-2014/talks/Laio-talk.pdf](http://conference.mipt.ru/img/conference/material-design-2014/talks/Laio-talk.pdf)
+- github: [https://github.com/thomasp85/densityClust](https://github.com/thomasp85/densityClust)
+- github: [https://github.com/GuipengLi/Dcluster](https://github.com/GuipengLi/Dcluster)
+- blog: [http://eric-yuan.me/clustering-fast-search-find-density-peaks/](http://eric-yuan.me/clustering-fast-search-find-density-peaks/)
+
+**Comment on "Clustering by fast search and find of density peaks"**
+
+[https://arxiv.org/abs/1501.04267](https://arxiv.org/abs/1501.04267)
 
 # Datasets
 

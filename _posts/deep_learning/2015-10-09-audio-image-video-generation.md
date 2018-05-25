@@ -1,7 +1,7 @@
 ---
 layout: post
 category: deep_learning
-title: Image Generation
+title: Audio / Image / Video Generation
 date: 2015-10-09
 ---
 
@@ -181,11 +181,94 @@ date: 2015-10-09
 
 [https://arxiv.org/abs/1708.02688](https://arxiv.org/abs/1708.02688)
 
+**Sketch-to-Image Generation Using Deep Contextual Completion**
+
+[https://arxiv.org/abs/1711.08972](https://arxiv.org/abs/1711.08972)
+
+**Energy-relaxed Wassertein GANs(EnergyWGAN): Towards More Stable and High Resolution Image Generation**
+
+[https://arxiv.org/abs/1712.01026](https://arxiv.org/abs/1712.01026)
+
+**Spatial PixelCNN: Generating Images from Patches**
+
+[https://arxiv.org/abs/1712.00714](https://arxiv.org/abs/1712.00714)
+
+**Visual to Sound: Generating Natural Sound for Videos in the Wild**
+
+- intro: University of North Carolina at Chapel Hill & Adobe Research
+- project page: [http://bvision11.cs.unc.edu/bigpen/yipin/visual2sound_webpage/visual2sound.html](http://bvision11.cs.unc.edu/bigpen/yipin/visual2sound_webpage/visual2sound.html)
+- arxiv: [https://arxiv.org/abs/1712.01393](https://arxiv.org/abs/1712.01393)
+
+**Semi-supervised FusedGAN for Conditional Image Generation**
+
+[https://arxiv.org/abs/1801.05551](https://arxiv.org/abs/1801.05551)
+
+**Image Transformer**
+
+- intro: Google Brain & UC Berkeley
+- arxiv: [https://arxiv.org/abs/1802.05751](https://arxiv.org/abs/1802.05751)
+
+**Unpaired Multi-Domain Image Generation via Regularized Conditional GANs**
+
+[https://arxiv.org/abs/1805.02456](https://arxiv.org/abs/1805.02456)
+
+**Transferring GANs: generating images from limited data**
+
+- intro: Universitat Aut`onoma de Barcelona
+- arxiv: [https://arxiv.org/abs/1805.01677](https://arxiv.org/abs/1805.01677)
+- github: [https://github.com/yaxingwang/Transferring-GANs](https://github.com/yaxingwang/Transferring-GANs)
+
+# Face Image Generation
+
+**Fader Networks: Manipulating Images by Sliding Attributes**
+
+- intro: NIPS 2017. Facebook AI Research & Sorbonne Université
+- arxiv: [https://arxiv.org/abs/1706.00409](https://arxiv.org/abs/1706.00409)
+- github: [https://github.com//facebookresearch/FaderNetworks](https://github.com//facebookresearch/FaderNetworks)
+
+# Person Image Generation
+
+**Disentangled Person Image Generation**
+
+- intro: CVPR 2018 spotlight
+- intro: KU-Leuven/PSI & Max Planck Institute for Informatics & ETH Zurich
+- arxiv: [https://arxiv.org/abs/1712.02621](https://arxiv.org/abs/1712.02621)
+
+**Pose Guided Person Image Generation**
+
+- intro: NIPS 2017
+- arxiv: [https://arxiv.org/abs/1705.09368](https://arxiv.org/abs/1705.09368)
+- poster: [https://homes.esat.kuleuven.be/~liqianma/NIPS17_PG2/NIPS17_PG2_poster.pdf](https://homes.esat.kuleuven.be/~liqianma/NIPS17_PG2/NIPS17_PG2_poster.pdf)
+
+**Deformable GANs for Pose-based Human Image Generation**
+
+- intro: University of Trento & Inria Grenoble Rhone-Alpes
+- arxiv: [https://arxiv.org/abs/1801.00055](https://arxiv.org/abs/1801.00055)
+- github: [https://github.com/AliaksandrSiarohin/pose-gan](https://github.com/AliaksandrSiarohin/pose-gan)
+
 # Video Generation
+
+**MoCoGAN: Decomposing Motion and Content for Video Generation**
+
+- arxiv: [https://arxiv.org/abs/1707.04993](https://arxiv.org/abs/1707.04993)
+- github: [https://github.com/sergeytulyakov/mocogan](https://github.com/sergeytulyakov/mocogan)
+- github(PyTorch): [https://github.com/DLHacks/mocogan](https://github.com/DLHacks/mocogan)
 
 **Attentive Semantic Video Generation using Captions**
 
 [https://arxiv.org/abs/1708.05980](https://arxiv.org/abs/1708.05980)
+
+**Hierarchical Video Generation from Orthogonal Information: Optical Flow and Texture**
+
+- intro: AAAI2018. The University of Tokyo
+- project page: [http://www.mi.t.u-tokyo.ac.jp/assets/publication/hierarchical_video_generation_sup/](http://www.mi.t.u-tokyo.ac.jp/assets/publication/hierarchical_video_generation_sup/)
+- arxiv: [https://arxiv.org/abs/1711.09618](https://arxiv.org/abs/1711.09618)
+
+**Towards an Understanding of Our World by GANing Videos in the Wild**
+
+- intro: ETH Zurich
+- arxiv: [https://arxiv.org/abs/1711.11453](https://arxiv.org/abs/1711.11453)
+- github: [https://github.com//bernhard2202/improved-video-gan](https://github.com//bernhard2202/improved-video-gan)
 
 # Deep Generative Model
 
@@ -266,8 +349,7 @@ date: 2015-10-09
 
 **Deconvolution and Checkerboard Artifacts**
 
-:star::star::star::star::star:
-
+- :star::star::star::star::star:
 - intro: Google Brain & Université de Montréal
 - blog: [http://distill.pub/2016/deconv-checkerboard/](http://distill.pub/2016/deconv-checkerboard/)
 

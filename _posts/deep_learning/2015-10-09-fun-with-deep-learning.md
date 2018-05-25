@@ -260,9 +260,10 @@ Compressed model is less than 500KB
 
 **Arbitrary Style Transfer In Real-Time With Adaptive Instance Normalization**
 
-- intro: Cornell University
+- intro: ICCV 2017. Cornell University
 - paper: [https://openreview.net/pdf?id=B1fUVMzKg](https://openreview.net/pdf?id=B1fUVMzKg)
 - github(Torch): [https://github.com/xunhuang1995/AdaIN-style](https://github.com/xunhuang1995/AdaIN-style)
+- github(TensorFlow): [https://github.com/elleryqueenhomels/arbitrary_style_transfer](https://github.com/elleryqueenhomels/arbitrary_style_transfer)
 
 **Picking an optimizer for Style Transfer**
 
@@ -322,6 +323,32 @@ Compressed model is less than 500KB
 - intro: Hong Kong University of Science and Technology & Microsoft Research
 - arxiv: [https://arxiv.org/abs/1710.00756](https://arxiv.org/abs/1710.00756)
 
+**Improved Style Transfer by Respecting Inter-layer Correlations**
+
+[https://arxiv.org/abs/1801.01933](https://arxiv.org/abs/1801.01933)
+
+**Face Destylization**
+
+[https://arxiv.org/abs/1802.01237](https://arxiv.org/abs/1802.01237)
+
+**Unsupervised Typography Transfer**
+
+[https://arxiv.org/abs/1802.02595](https://arxiv.org/abs/1802.02595)
+
+**Stereoscopic Neural Style Transfer**
+
+- intro: CVPR 2018
+- arxiv: [https://arxiv.org/abs/1802.10591](https://arxiv.org/abs/1802.10591)
+
+**Arbitrary Style Transfer with Deep Feature Reshuffle**
+
+[https://arxiv.org/abs/1805.04103](https://arxiv.org/abs/1805.04103)
+
+**Avatar-Net: Multi-scale Zero-shot Style Transfer by Feature Decoration**
+
+- intro: CVPR 2018. CUHK & SenseTime
+- arxiv: [https://arxiv.org/abs/1805.03857](https://arxiv.org/abs/1805.03857)
+
 ## Neural Art On Audio
 
 **MSc AI Project on generative deep networks and neural style transfer for audio**
@@ -333,6 +360,12 @@ Compressed model is less than 500KB
 
 - intro: Audio style transfer AI
 - github: [https://github.com/rupeshs/neuralsongstyle](https://github.com/rupeshs/neuralsongstyle)
+
+**Time Domain Neural Audio Style Transfer**
+
+- intro: NIPS 2017
+- arxiv: [https://arxiv.org/abs/1711.11160](https://arxiv.org/abs/1711.11160)
+- github: [https://github.com//pkmital/time-domain-neural-audio-style-transfer](https://github.com//pkmital/time-domain-neural-audio-style-transfer)
 
 ## Neural Art On Video
 
@@ -380,6 +413,10 @@ Compressed model is less than 500KB
 
 - intro: Tsinghua University & Tencent AI Lab
 - paper: [http://openaccess.thecvf.com/content_cvpr_2017/papers/Huang_Real-Time_Neural_Style_CVPR_2017_paper.pdf](http://openaccess.thecvf.com/content_cvpr_2017/papers/Huang_Real-Time_Neural_Style_CVPR_2017_paper.pdf)
+
+**Multi-Content GAN for Few-Shot Font Style Transfer**
+
+[https://arxiv.org/abs/1712.00516](https://arxiv.org/abs/1712.00516)
 
 ## Neural Doodle
 
@@ -523,20 +560,39 @@ Compressed model is less than 500KB
 - paper: [http://www.eecs.qmul.ac.uk/~qian/SketchMeThatShoe.pdf](http://www.eecs.qmul.ac.uk/~qian/SketchMeThatShoe.pdf)
 - github: [https://github.com/seuliufeng/DeepSBIR](https://github.com/seuliufeng/DeepSBIR)
 
+**Mastering Sketching: Adversarial Augmentation for Structured Prediction**
+
+- keywords: Sketch Simplification
+- project page: [http://hi.cs.waseda.ac.jp/~esimo/en/research/sketch_master/](http://hi.cs.waseda.ac.jp/~esimo/en/research/sketch_master/)
+- arxiv: [https://arxiv.org/abs/1703.08966](https://arxiv.org/abs/1703.08966)
+- github: [https://github.com/bobbens/sketch_simplification](https://github.com/bobbens/sketch_simplification)
+
+**SketchyGAN: Towards Diverse and Realistic Sketch to Image Synthesis**
+
+- intro: Georgia Institute of Technology
+- arxiv: [https://arxiv.org/abs/1801.02753](https://arxiv.org/abs/1801.02753)
+
 ## Image Stylization
 
 **Automatic Portrait Segmentation for Image Stylization**
 
 ![](http://xiaoyongshen.me/webpage_portrait/figures/teaser.png)
 
+- intro: The Chinese University of Hong Kong & Adobe Research
 - project page(data+code): [http://xiaoyongshen.me/webpage_portrait/index.html](http://xiaoyongshen.me/webpage_portrait/index.html)
 - paper: [http://www.cse.cuhk.edu.hk/leojia/papers/portrait_eg16.pdf](http://www.cse.cuhk.edu.hk/leojia/papers/portrait_eg16.pdf)
+- github(Tensorflow): [https://github.com/PetroWu/AutoPortraitMatting](https://github.com/PetroWu/AutoPortraitMatting)
 
 **Transfiguring Portraits**
 
 ![](/assets/fun_with_dl/Transfiguring_Portraits.jpg)
 
 - paper: [http://homes.cs.washington.edu/~kemelmi/Transfiguring_Portraits_Kemelmacher_SIGGRAPH2016.pdf](http://homes.cs.washington.edu/~kemelmi/Transfiguring_Portraits_Kemelmacher_SIGGRAPH2016.pdf)
+
+**Stylize Aesthetic QR Code**
+
+- intro: Zhengzhou University & Zhejiang University
+- arxiv: [https://arxiv.org/abs/1803.01146](https://arxiv.org/abs/1803.01146)
 
 ## Image Colorization
 
@@ -638,6 +694,19 @@ Compressed model is less than 500KB
 
 - intro: University of Tokyo
 - arxiv: [https://arxiv.org/abs/1706.06918](https://arxiv.org/abs/1706.06918)
+
+**Interactive Deep Colorization With Simultaneous Global and Local Inputs**
+
+[https://arxiv.org/abs/1801.09083](https://arxiv.org/abs/1801.09083)
+
+**Image Colorization with Generative Adversarial Networks**
+
+[https://arxiv.org/abs/1803.05400](https://arxiv.org/abs/1803.05400)
+
+**Learning to Color from Language**
+
+- intro: Allen Institute of Artificial Intelligence & University of Massachusetts
+- arxiv: [https://arxiv.org/abs/1804.06026](https://arxiv.org/abs/1804.06026)
 
 # Sounds
 
@@ -821,6 +890,11 @@ Compressed model is less than 500KB
 - homepage: [http://maxpumperla.github.io/betago/](http://maxpumperla.github.io/betago/)
 - github: [https://github.com/maxpumperla/betago](https://github.com/maxpumperla/betago)
 
+**Deep Learning and the Game of Go**
+
+- book: [https://www.manning.com/books/deep-learning-and-the-game-of-go](https://www.manning.com/books/deep-learning-and-the-game-of-go)
+- github: [https://github.com//maxpumperla/deep_learning_and_the_game_of_go](https://github.com//maxpumperla/deep_learning_and_the_game_of_go)
+
 ## DarkForest
 
 **Better Computer Go Player with Neural Network and Long-term Prediction (Facebook AI Research)**
@@ -833,10 +907,11 @@ Compressed model is less than 500KB
 
 ## AlphaGo
 
-**Mastering the game of Go with deep neural networks and tree search (AlphaGo. Google DeepMind)**
+**Mastering the game of Go with deep neural networks and tree search**
 
 ![](http://k.sinaimg.cn/n/sports/transform/20160128/RGVK-fxnzanh0214327.jpg/w570778.jpg)
 
+- intro: AlphaGo. Google DeepMind
 - homepage: [http://www.deepmind.com/alpha-go.html](http://www.deepmind.com/alpha-go.html)
 - paper: [https://storage.googleapis.com/deepmind-data/assets/papers/deepmind-mastering-go.pdf](https://storage.googleapis.com/deepmind-data/assets/papers/deepmind-mastering-go.pdf)
 - naturep page: [http://www.nature.com/nature/journal/v529/n7587/full/nature16961.html](http://www.nature.com/nature/journal/v529/n7587/full/nature16961.html)
@@ -844,8 +919,17 @@ Compressed model is less than 500KB
 - slides: [http://www.bioinfo.org.cn/~casp/temp/alphago_slides.pdf](http://www.bioinfo.org.cn/~casp/temp/alphago_slides.pdf)
 - blog: [http://www.furidamu.org/blog/2016/01/26/mastering-the-game-of-go-with-deep-neural-networks-and-tree-search/](http://www.furidamu.org/blog/2016/01/26/mastering-the-game-of-go-with-deep-neural-networks-and-tree-search/)
 - blog("AlphaGo: From Intuitive Learning to Holistic Knowledge"): [https://caminao.wordpress.com/2016/02/01/alphago/](https://caminao.wordpress.com/2016/02/01/alphago/)
-- notes("AlphaGo的分析", by 田渊栋): [http://zhuanlan.zhihu.com/yuandong/20607684](http://zhuanlan.zhihu.com/yuandong/20607684)
 - github: [https://github.com/Rochester-NRT/AlphaGo](https://github.com/Rochester-NRT/AlphaGo)
+
+**AlphaGo Teach**
+
+- intro: Let the AlphaGo Teaching Tool help you find new and creative ways of playing Go
+- homepage: [https://alphagoteach.deepmind.com/](https://alphagoteach.deepmind.com/)
+
+**AlphaGo的分析**
+
+- intro: by 田渊栋
+- blog: [http://zhuanlan.zhihu.com/yuandong/20607684](http://zhuanlan.zhihu.com/yuandong/20607684)
 
 **How Alphago Works**
 
@@ -864,10 +948,42 @@ Compressed model is less than 500KB
 further original research into a small, easy to use graphical interface.
 - homepage: [https://sjeng.org/leela.html](https://sjeng.org/leela.html)
 
+**Mastering the game of Go without human knowledge**
+
+- nature page: [http://www.nature.com/nature/journal/v550/n7676/full/nature24270.html](http://www.nature.com/nature/journal/v550/n7676/full/nature24270.html)
+- paper: [https://deepmind.com/documents/119/agz_unformatted_nature.pdf](https://deepmind.com/documents/119/agz_unformatted_nature.pdf)
+- notes: [https://blog.acolyer.org/2017/11/17/mastering-the-game-of-go-without-human-knowledge/](https://blog.acolyer.org/2017/11/17/mastering-the-game-of-go-without-human-knowledge/)
+
+**Computer Go & AlphaGo Zero**
+
+- youtube: [https://www.youtube.com/watch?v=6fKG4wJ7uBk](https://www.youtube.com/watch?v=6fKG4wJ7uBk)
+- mirror: [https://www.bilibili.com/video/av16428694/](https://www.bilibili.com/video/av16428694/)
+- slides: [https://drive.google.com/file/d/1rmUyIitEmAtMUKdKEnlHRfmXtpyoxxey/view](https://drive.google.com/file/d/1rmUyIitEmAtMUKdKEnlHRfmXtpyoxxey/view)
+
+**AlphaZero: Mastering Games without Human Knowledge - NIPS 2017**
+
+- intro: Keynote by David Silver on AlphaGo, AlphaGo Zero and AlphaZero, at the 2017 NIPS Deep Reinforcement Learning Symposium, 6 Dec, Long Beach, CA
+- youtube: [https://www.youtube.com/watch?v=A3ekFcZ3KNw](https://www.youtube.com/watch?v=A3ekFcZ3KNw)
+- mirror: [https://www.bilibili.com/video/av17210816/](https://www.bilibili.com/video/av17210816/)
+
+**PhoenixGo**
+
+- intro: Go AI program which implement the AlphaGo Zero paper
+- github: [https://github.com/Tencent/PhoenixGo](https://github.com/Tencent/PhoenixGo)
+
+**The future is here – AlphaZero learns chess**
+
+[https://en.chessbase.com/post/the-future-is-here-alphazero-learns-chess](https://en.chessbase.com/post/the-future-is-here-alphazero-learns-chess)
+
+**AlphaGo Zero Cheat Sheet**
+
+[https://applied-data.science/static/main/res/alpha_go_zero_cheat_sheet.png](https://applied-data.science/static/main/res/alpha_go_zero_cheat_sheet.png)
+
 # Chess
 
-**Giraffe: Using Deep Reinforcement Learning to Play Chess (MSc thesis)**
+**Giraffe: Using Deep Reinforcement Learning to Play Chess**
 
+- intro: MSc thesis
 - arxiv: [http://arxiv.org/abs/1509.01549](http://arxiv.org/abs/1509.01549)
 
 **Spawkfish: neural network based chess engine**
@@ -885,8 +1001,15 @@ further original research into a small, easy to use graphical interface.
 
 **DeepChess: End-to-End Deep Neural Network for Automatic Learning in Chess**
 
+- intro: Winner of Best Paper Award in ICANN 2016
+- arxiv: [https://arxiv.org/abs/1711.09667](https://arxiv.org/abs/1711.09667)
 - paper: [http://www.cs.tau.ac.il/~wolf/papers/deepchess.pdf](http://www.cs.tau.ac.il/~wolf/papers/deepchess.pdf)
 - github: [https://github.com/mr-press/DeepChess](https://github.com/mr-press/DeepChess)
+
+**Mastering Chess and Shogi by Self-Play with a General Reinforcement Learning Algorithm**
+
+- intro: DeepMind
+- arxiv: [https://arxiv.org/abs/1712.01815](https://arxiv.org/abs/1712.01815)
 
 # Game
 
@@ -908,6 +1031,54 @@ further original research into a small, easy to use graphical interface.
 - github: [https://github.com/moscow25/deep_draw](https://github.com/moscow25/deep_draw)
 - slides: [https://drive.google.com/file/d/0B5eOIUHA0khiMjN1YnEtZHMwams/view](https://drive.google.com/file/d/0B5eOIUHA0khiMjN1YnEtZHMwams/view)
 - slides: [http://pan.baidu.com/s/1nu5zpZ7](http://pan.baidu.com/s/1nu5zpZ7)
+
+**TorchCraft: a Library for Machine Learning Research on Real-Time Strategy Games**
+
+- intro: Connecting Torch to StarCraft
+- arxiv: [https://arxiv.org/abs/1611.00625](https://arxiv.org/abs/1611.00625)
+- github: [https://github.com/TorchCraft/TorchCraft](https://github.com/TorchCraft/TorchCraft)
+
+**BlizzCon 2016 DeepMind and StarCraft II Deep Learning Panel Transcript**
+
+- part 1: [http://starcraft.blizzplanet.com/blog/comments/blizzcon-2016-deepmind-and-starcraft-ii-deep-learning-panel-transcript](http://starcraft.blizzplanet.com/blog/comments/blizzcon-2016-deepmind-and-starcraft-ii-deep-learning-panel-transcript)
+- part 2: [http://starcraft.blizzplanet.com/blog/comments/blizzcon-2016-deepmind-and-starcraft-ii-deep-learning-panel-transcript/2](http://starcraft.blizzplanet.com/blog/comments/blizzcon-2016-deepmind-and-starcraft-ii-deep-learning-panel-transcript/2)
+
+**DeepStack: Expert-Level Artificial Intelligence in No-Limit Poker**
+
+- arxiv: [https://arxiv.org/abs/1701.01724](https://arxiv.org/abs/1701.01724)
+- github: [https://github.com/lifrordi/DeepStack-Leduc](https://github.com/lifrordi/DeepStack-Leduc)
+
+**Gym StarCraft: StarCraft environment for OpenAI Gym, based on Facebook's TorchCraft**
+
+- intro: Gym StarCraft is an environment bundle for OpenAI Gym. 
+It is based on Facebook's TorchCraft, which is a bridge between Torch and StarCraft for AI research.
+- github: [https://github.com/deepcraft/gym-starcraft](https://github.com/deepcraft/gym-starcraft)
+
+**Multiagent Bidirectionally-Coordinated Nets for Learning to Play StarCraft Combat Games**
+
+[https://arxiv.org/abs/1703.10069](https://arxiv.org/abs/1703.10069)
+
+**Learning Macromanagement in StarCraft from Replays using Deep Learning**
+
+- intro: CIG 2017. IT University of Copenhagen
+- arxiv: [https://arxiv.org/abs/1707.03743](https://arxiv.org/abs/1707.03743)
+
+**Multi-platform Version of StarCraft: Brood War in a Docker Container: Technical Report**
+
+- intro: Czech Technical University in Prague
+- arxiv: [https://arxiv.org/abs/1801.02193](https://arxiv.org/abs/1801.02193)
+- gihtub: [https://github.com/Games-and-Simulations/sc-docker](https://github.com/Games-and-Simulations/sc-docker)
+
+## DeepLeague
+
+**DeepLeague: leveraging computer vision and deep learning on the League of Legends mini map + giving away a dataset of over 100,000 labeled images to further esports analytics research**
+
+- blog: [https://medium.com/@farzatv/deepleague-leveraging-computer-vision-and-deep-learning-on-the-league-of-legends-mini-map-giving-d275fd17c4e0](https://medium.com/@farzatv/deepleague-leveraging-computer-vision-and-deep-learning-on-the-league-of-legends-mini-map-giving-d275fd17c4e0)
+
+**DeepLeague (Part 2): The Technical Details**
+
+- blog: [https://medium.com/@farzatv/deepleague-part-2-the-technical-details-374439e7e09a](https://medium.com/@farzatv/deepleague-part-2-the-technical-details-374439e7e09a)
+- github: [https://github.com/farzaa/DeepLeague](https://github.com/farzaa/DeepLeague)
 
 # Courses
 

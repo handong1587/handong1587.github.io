@@ -53,11 +53,6 @@ Image Caption Generation, Automatic Game Playing
 Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 - blog: [http://blog.algorithmia.com/2016/07/open-source-deep-learning-algorithm-roundup/](http://blog.algorithmia.com/2016/07/open-source-deep-learning-algorithm-roundup/)
 
-**Makeup like a superstar: Deep Localized Makeup Transfer Network**
-
-- intro: IJCAI 2016
-- arxiv: [http://arxiv.org/abs/1604.07102](http://arxiv.org/abs/1604.07102)
-
 **Deep Cascaded Bi-Network for Face Hallucination**
 
 - project page: [http://mmlab.ie.cuhk.edu.hk/projects/CBN.html](http://mmlab.ie.cuhk.edu.hk/projects/CBN.html)
@@ -156,14 +151,6 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 
 - arxiv: [https://www.arxiv.org/abs/1703.00586](https://www.arxiv.org/abs/1703.00586)
 
-**Learning Two-Branch Neural Networks for Image-Text Matching Tasks**
-
-[https://arxiv.org/abs/1704.03470](https://arxiv.org/abs/1704.03470)
-
-**A2-RL: Aesthetics Aware Reinforcement Learning for Automatic Image Cropping**
-
-[https://arxiv.org/abs/1709.04595](https://arxiv.org/abs/1709.04595)
-
 **Image operator learning coupled with CNN classification and its application to staff line removal**
 
 - intro: ICDAR 2017
@@ -171,7 +158,152 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 
 **Joint Image Filtering with Deep Convolutional Networks**
 
-[https://arxiv.org/abs/1710.04200](https://arxiv.org/abs/1710.04200)
+- intro: University of California, Merced & Virginia Tech & University of Illinois
+- project page: [http://vllab1.ucmerced.edu/~yli62/DJF_residual/](http://vllab1.ucmerced.edu/~yli62/DJF_residual/)
+- arxiv: [https://arxiv.org/abs/1710.04200](https://arxiv.org/abs/1710.04200)
+- github: [https://github.com/Yijunmaverick/DeepJointFilter](https://github.com/Yijunmaverick/DeepJointFilter)
+
+**DSLR-Quality Photos on Mobile Devices with Deep Convolutional Networks**
+
+- intro: ICCV 2017
+- arxiv: [https://arxiv.org/abs/1704.02470](https://arxiv.org/abs/1704.02470)
+- github: [https://github.com/aiff22/DPED](https://github.com/aiff22/DPED)
+
+**Neural Scene De-rendering**
+
+- intro: CVPR 2017
+- project page: [http://nsd.csail.mit.edu/](http://nsd.csail.mit.edu/)
+- paper: [http://nsd.csail.mit.edu/papers/nsd_cvpr.pdf](http://nsd.csail.mit.edu/papers/nsd_cvpr.pdf)
+- gihtub: [https://github.com/jiajunwu/nsd](https://github.com/jiajunwu/nsd)
+
+**Image2GIF: Generating Cinemagraphs using Recurrent Deep Q-Networks**
+
+- intro: WACV 2018
+- project page: [http://bvision11.cs.unc.edu/bigpen/yipin/WACV2018/](http://bvision11.cs.unc.edu/bigpen/yipin/WACV2018/)
+- arxiv: [https://arxiv.org/abs/1801.09042](https://arxiv.org/abs/1801.09042)
+
+**Deep Neural Networks In Fully Connected CRF For Image Labeling With Social Network Metadata**
+
+[https://arxiv.org/abs/1801.09108](https://arxiv.org/abs/1801.09108)
+
+**Single Image Reflection Removal Using Deep Encoder-Decoder Network**
+
+[https://arxiv.org/abs/1802.00094](https://arxiv.org/abs/1802.00094)
+
+**Learning Deep Convolutional Networks for Demosaicing**
+
+[https://arxiv.org/abs/1802.03769](https://arxiv.org/abs/1802.03769)
+
+**Fully convolutional watermark removal attack**
+
+- github: [https://github.com/marcbelmont/cnn-watermark-removal](https://github.com/marcbelmont/cnn-watermark-removal)
+
+**ELEGANT: Exchanging Latent Encodings with GAN for Transferring Multiple Face Attributes**
+
+- arxiv: [https://arxiv.org/abs/1803.10562](https://arxiv.org/abs/1803.10562)
+- github: [https://github.com/Prinsphield/ELEGANT](https://github.com/Prinsphield/ELEGANT)
+
+**Learning to See in the Dark**
+
+- intro: CVPR 2018
+- arxiv: [https://arxiv.org/abs/1805.01934](https://arxiv.org/abs/1805.01934)
+- video: [https://www.youtube.com/watch?v=qWKUFK7MWvg&feature=youtu.be](https://www.youtube.com/watch?v=qWKUFK7MWvg&feature=youtu.be)
+
+# Boundary / Edge / Contour Detection
+
+**Holistically-Nested Edge Detection**
+
+![](https://camo.githubusercontent.com/da32e7e3275c2a9693dd2a6925b03a1151e2b098/687474703a2f2f70616765732e756373642e6564752f7e7a74752f6865642e6a7067)
+
+- intro: ICCV 2015, Marr Prize
+- paper: [http://www.cv-foundation.org/openaccess/content_iccv_2015/papers/Xie_Holistically-Nested_Edge_Detection_ICCV_2015_paper.pdf](http://www.cv-foundation.org/openaccess/content_iccv_2015/papers/Xie_Holistically-Nested_Edge_Detection_ICCV_2015_paper.pdf)
+- arxiv: [http://arxiv.org/abs/1504.06375](http://arxiv.org/abs/1504.06375)
+- github: [https://github.com/s9xie/hed](https://github.com/s9xie/hed)
+
+**Unsupervised Learning of Edges**
+
+- intro: CVPR 2016. Facebook AI Research
+- arxiv: [http://arxiv.org/abs/1511.04166](http://arxiv.org/abs/1511.04166)
+- zn-blog: [http://www.leiphone.com/news/201607/b1trsg9j6GSMnjOP.html](http://www.leiphone.com/news/201607/b1trsg9j6GSMnjOP.html)
+
+**Pushing the Boundaries of Boundary Detection using Deep Learning**
+
+- arxiv: [http://arxiv.org/abs/1511.07386](http://arxiv.org/abs/1511.07386)
+
+**Convolutional Oriented Boundaries**
+
+- intro: ECCV 2016
+- arxiv: [http://arxiv.org/abs/1608.02755](http://arxiv.org/abs/1608.02755)
+
+**Convolutional Oriented Boundaries: From Image Segmentation to High-Level Tasks**
+
+- project page: [http://www.vision.ee.ethz.ch/~cvlsegmentation/](http://www.vision.ee.ethz.ch/~cvlsegmentation/)
+- arxiv: [https://arxiv.org/abs/1701.04658](https://arxiv.org/abs/1701.04658)
+- github: [https://github.com/kmaninis/COB](https://github.com/kmaninis/COB)
+
+**Richer Convolutional Features for Edge Detection**
+
+- intro: CVPR 2017
+- keywords: richer convolutional features (RCF)
+- arxiv: [https://arxiv.org/abs/1612.02103](https://arxiv.org/abs/1612.02103)
+- github: [https://github.com/yun-liu/rcf](https://github.com/yun-liu/rcf)
+
+**Contour Detection from Deep Patch-level Boundary Prediction**
+
+[https://arxiv.org/abs/1705.03159](https://arxiv.org/abs/1705.03159)
+
+**CASENet: Deep Category-Aware Semantic Edge Detection**
+
+- intro: CVPR 2017. CMU & Mitsubishi Electric Research Laboratories (MERL)
+- arxiv: [https://arxiv.org/abs/1705.09759](https://arxiv.org/abs/1705.09759)
+- code: [http://www.merl.com/research/license#CASENet](http://www.merl.com/research/license#CASENet)
+- video: [https://www.youtube.com/watch?v=BNE1hAP6Qho](https://www.youtube.com/watch?v=BNE1hAP6Qho)
+
+**Learning Deep Structured Multi-Scale Features using Attention-Gated CRFs for Contour Prediction**
+
+- intro: NIPS 2017
+- arxiv: [https://arxiv.org/abs/1801.00524](https://arxiv.org/abs/1801.00524)
+
+**Deep Crisp Boundaries: From Boundaries to Higher-level Tasks**
+
+[https://arxiv.org/abs/1801.02439](https://arxiv.org/abs/1801.02439)
+
+# Image Processing
+
+**Fast Image Processing with Fully-Convolutional Networks**
+
+- intro: ICCV 2017. Qifeng Chen (陈启峰)
+- project page: [http://www.cqf.io/ImageProcessing/](http://www.cqf.io/ImageProcessing/)
+- arxiv: [https://arxiv.org/abs/1709.00643](https://arxiv.org/abs/1709.00643)
+- supp: [https://youtu.be/eQyfHgLx8Dc](https://youtu.be/eQyfHgLx8Dc)
+- github: [https://github.com/CQFIO/FastImageProcessing](https://github.com/CQFIO/FastImageProcessing)
+
+**DeepISP: Learning End-to-End Image Processing Pipeline**
+
+[https://arxiv.org/abs/1801.06724](https://arxiv.org/abs/1801.06724)
+
+# Image-Text
+
+**Learning Two-Branch Neural Networks for Image-Text Matching Tasks**
+
+[https://arxiv.org/abs/1704.03470](https://arxiv.org/abs/1704.03470)
+
+**Dual-Path Convolutional Image-Text Embedding**
+
+- arxiv: [https://arxiv.org/abs/1711.05535](https://arxiv.org/abs/1711.05535)
+- github: [https://github.com//layumi/Image-Text-Embedding](https://github.com//layumi/Image-Text-Embedding)
+
+**Conditional Image-Text Embedding Networks**
+
+[https://arxiv.org/abs/1711.08389](https://arxiv.org/abs/1711.08389)
+
+**AttnGAN: Fine-Grained Text to Image Generation with Attentional Generative Adversarial Networks**
+
+[https://arxiv.org/abs/1711.10485](https://arxiv.org/abs/1711.10485)
+
+**Stacked Cross Attention for Image-Text Matching**
+
+[https://arxiv.org/abs/1803.08024](https://arxiv.org/abs/1803.08024)
 
 # Age Estimation
 
@@ -202,6 +334,15 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 - intro: IEEE ACCESS
 - arxiv: [https://arxiv.org/abs/1710.02985](https://arxiv.org/abs/1710.02985)
 
+**Age and gender estimation based on Convolutional Neural Network and TensorFlow**
+
+[https://github.com/BoyuanJiang/Age-Gender-Estimate-TF](https://github.com/BoyuanJiang/Age-Gender-Estimate-TF)
+
+**Deep Regression Forests for Age Estimation**
+
+- intro: Shanghai University & Johns Hopkins University & Nankai University
+- arxiv: [https://arxiv.org/abs/1712.07195](https://arxiv.org/abs/1712.07195)
+
 # Face Aging
 
 **Recurrent Face Aging**
@@ -211,6 +352,19 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 **Face Aging With Conditional Generative Adversarial Networks**
 
 - arxiv: [https://arxiv.org/abs/1702.01983](https://arxiv.org/abs/1702.01983)
+
+**Learning Face Age Progression: A Pyramid Architecture of GANs**
+
+[https://arxiv.org/abs/1711.10352](https://arxiv.org/abs/1711.10352)
+
+**Face Aging with Contextual Generative Adversarial Nets**
+
+- intro: ACM Multimedia 2017
+- arxiv: [https://arxiv.org/abs/1802.00237](https://arxiv.org/abs/1802.00237)
+
+**Recursive Chaining of Reversible Image-to-image Translators For Face Aging**
+
+[https://arxiv.org/abs/1802.05023](https://arxiv.org/abs/1802.05023)
 
 # Emotion Recognition / Expression Recognition
 
@@ -313,6 +467,10 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 
 [https://arxiv.org/abs/1710.03144](https://arxiv.org/abs/1710.03144)
 
+**Real-time Convolutional Neural Networks for Emotion and Gender Classification**
+
+[https://arxiv.org/abs/1710.07557](https://arxiv.org/abs/1710.07557)
+
 # Attribution Prediction
 
 **PANDA: Pose Aligned Networks for Deep Attribute Modeling**
@@ -329,104 +487,7 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 
 - arxiv: [http://arxiv.org/abs/1511.03908](http://arxiv.org/abs/1511.03908)
 
-# Pose Estimation
-
-**DeepPose: Human Pose Estimation via Deep Neural Networks**
-
-- intro: CVPR 2014
-- arxiv: [http://arxiv.org/abs/1312.4659](http://arxiv.org/abs/1312.4659)
-- slides: [http://140.122.184.143/paperlinks/Slides/DeepPose_HumanPose_Estimation_via_Deep_Neural_Networks.pptx](http://140.122.184.143/paperlinks/Slides/DeepPose_HumanPose_Estimation_via_Deep_Neural_Networks.pptx)
-- github: [https://github.com/asanakoy/deeppose_tf](https://github.com/asanakoy/deeppose_tf)
-
-**Heterogeneous multi-task learning for human pose estimation with deep convolutional neural network**
-
-- paper: [www.cv-foundation.org/openaccess/content_cvpr_workshops_2014/W15/papers/LI_Heterogeneous_Multi-task_Learning_2014_CVPR_paper.pdf](www.cv-foundation.org/openaccess/content_cvpr_workshops_2014/W15/papers/LI_Heterogeneous_Multi-task_Learning_2014_CVPR_paper.pdf)
-
-**Flowing ConvNets for Human Pose Estimation in Videos**
-
-- arxiv: [http://arxiv.org/abs/1506.02897](http://arxiv.org/abs/1506.02897)
-- homepage: [http://www.robots.ox.ac.uk/~vgg/software/cnn_heatmap/](http://www.robots.ox.ac.uk/~vgg/software/cnn_heatmap/)
-- github: [https://github.com/tpfister/caffe-heatmap](https://github.com/tpfister/caffe-heatmap)
-
-**Structured Feature Learning for Pose Estimation**
-
-- arxiv: [http://arxiv.org/abs/1603.09065](http://arxiv.org/abs/1603.09065)
-- homepage: [http://www.ee.cuhk.edu.hk/~xgwang/projectpage_structured_feature_pose.html](http://www.ee.cuhk.edu.hk/~xgwang/projectpage_structured_feature_pose.html)
-
-**Convolutional Pose Machines**
-
-- arxiv: [http://arxiv.org/abs/1602.00134](http://arxiv.org/abs/1602.00134)
-- github: [https://github.com/shihenw/convolutional-pose-machines-release](https://github.com/shihenw/convolutional-pose-machines-release)
-- github(PyTorch): [https://github.com/tensorboy/pytorch_Realtime_Multi-Person_Pose_Estimation](https://github.com/tensorboy/pytorch_Realtime_Multi-Person_Pose_Estimation)
-
-**Model-based Deep Hand Pose Estimation**
-
-- paper: [http://xingyizhou.xyz/zhou2016model.pdf](http://xingyizhou.xyz/zhou2016model.pdf)
-- github: [https://github.com/tenstep/DeepModel](https://github.com/tenstep/DeepModel)
-
-**Stacked Hourglass Networks for Human Pose Estimation**
-
-- homepage: [http://www-personal.umich.edu/~alnewell/pose/](http://www-personal.umich.edu/~alnewell/pose/)
-- arxiv: [http://arxiv.org/abs/1603.06937](http://arxiv.org/abs/1603.06937)
-- github: [https://github.com/anewell/pose-hg-train](https://github.com/anewell/pose-hg-train)
-- demo: [https://github.com/anewell/pose-hg-demo](https://github.com/anewell/pose-hg-demo)
-
-**Chained Predictions Using Convolutional Neural Networks**
-
-- intro: EECV 2016
-- keywords: CNN, structured prediction, RNN, human pose estimation
-- arxiv: [http://arxiv.org/abs/1605.02346](http://arxiv.org/abs/1605.02346)
-
-**DeeperCut: A Deeper, Stronger, and Faster Multi-Person Pose Estimation Model**
-
-- arxiv: [http://arxiv.org/abs/1605.03170](http://arxiv.org/abs/1605.03170)
-- github: [https://github.com/eldar/deepcut-cnn](https://github.com/eldar/deepcut-cnn)
-
-**Real-time Human Pose Estimation from Video with Convolutional Neural Networks**
-
-- arxiv: [http://arxiv.org/abs/1609.07420](http://arxiv.org/abs/1609.07420)
-
-**Region Ensemble Network: Improving Convolutional Network for Hand Pose Estimation**
-
-- arxiv: [https://arxiv.org/abs/1702.02447](https://arxiv.org/abs/1702.02447)
-
-**Binarized Convolutional Landmark Localizers for Human Pose Estimation and Face Alignment with Limited Resources**
-
-- project page: [https://www.adrianbulat.com/binary-cnn-landmarks](https://www.adrianbulat.com/binary-cnn-landmarks)
-- arxiv: [https://www.arxiv.org/abs/1703.00862](https://www.arxiv.org/abs/1703.00862)
-
-**Adversarial PoseNet: A Structure-aware Convolutional Network for Human Pose Estimation**
-
-- arxiv: [https://arxiv.org/abs/1705.00389](https://arxiv.org/abs/1705.00389)
-- video: [http://v.qq.com/x/page/c039862eira.html](http://v.qq.com/x/page/c039862eira.html)
-- video: [http://v.qq.com/x/page/f0398zcvkl5.html](http://v.qq.com/x/page/f0398zcvkl5.html)
-- video: [http://v.qq.com/x/page/w0398ei9m1r.html](http://v.qq.com/x/page/w0398ei9m1r.html)
-
-**Human Pose Detection Mining Body Language from Videos**
-
-- blog: [https://medium.com/@samim/human-pose-detection-51268e95ddc2](https://medium.com/@samim/human-pose-detection-51268e95ddc2)
-
-**OpenPose: A Real-Time Multi-Person Keypoint Detection And Multi-Threading C++ Library**
-
-- intro: OpenPose is a library for real-time multi-person keypoint detection and multi-threading written in C++ using OpenCV and Caffe
-- github: [https://github.com/CMU-Perceptual-Computing-Lab/openpose](https://github.com/CMU-Perceptual-Computing-Lab/openpose)
-
-**Learning Feature Pyramids for Human Pose Estimation**
-
-- arxiv: [https://arxiv.org/abs/1708.01101](https://arxiv.org/abs/1708.01101)
-- github: [https://github.com/bearpaw/PyraNet](https://github.com/bearpaw/PyraNet)
-
-**Multi-Context Attention for Human Pose Estimation**
-
-- intro: CVPR 2017
-- arxiv: [https://arxiv.org/abs/1702.07432](https://arxiv.org/abs/1702.07432)
-- github(Torch): [https://github.com/bearpaw/pose-attention](https://github.com/bearpaw/pose-attention)
-
-**Human Pose Estimation with TensorFlow**
-
-[https://github.com/eldar/pose-tensorflow](https://github.com/eldar/pose-tensorflow)
-
-# Sentiment Prediction
+# Sentiment Analysis / Sentiment Prediction
 
 **From Pixels to Sentiment: Fine-tuning CNNs for Visual Sentiment Prediction**
 
@@ -449,6 +510,16 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 - intro: Accepted for publication in Image and Vision Computing
 - arxiv: [https://arxiv.org/abs/1604.03489](https://arxiv.org/abs/1604.03489)
 - github: [https://github.com/imatge-upc/sentiment-2016](https://github.com/imatge-upc/sentiment-2016)
+
+**Visual and Textual Sentiment Analysis Using Deep Fusion Convolutional Neural Networks**
+
+- intro: ICIP 2017
+- arxiv: [https://arxiv.org/abs/1711.07798](https://arxiv.org/abs/1711.07798)
+
+**Deep Learning for Sentiment Analysis : A Survey**
+
+- intro: LinkedIn & University of Illinois at Chicago
+- arxiv: [https://arxiv.org/abs/1801.07883](https://arxiv.org/abs/1801.07883)
 
 # Place Recognition
 
@@ -510,6 +581,10 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 
 - arxiv: [https://arxiv.org/abs/1611.02776](https://arxiv.org/abs/1611.02776)
 
+**DSAC - Differentiable RANSAC for Camera Localization**
+
+- arxiv: [https://arxiv.org/abs/1611.05705](https://arxiv.org/abs/1611.05705)
+
 **Image-based Localization with Spatial LSTMs**
 
 - arxiv: [https://arxiv.org/abs/1611.07890](https://arxiv.org/abs/1611.07890)
@@ -526,6 +601,11 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 
 - intro: Aalto University & Indian Institute of Technology
 - arxiv: [https://arxiv.org/abs/1707.09733](https://arxiv.org/abs/1707.09733)
+
+**MapNet: Geometry-Aware Learning of Maps for Camera Localization**
+
+- intro: Georgia Institute of Technology & NVIDIA
+- arxiv: [https://arxiv.org/abs/1712.03342](https://arxiv.org/abs/1712.03342)
 
 # Counting Objects
 
@@ -567,6 +647,15 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 
 - intro: ICCV 2017 Workshop on Computer Vision Problems in Plant Phenotyping
 - arxiv: [https://arxiv.org/abs/1708.07570](https://arxiv.org/abs/1708.07570)
+
+**Improving Object Counting with Heatmap Regulation**
+
+[https://arxiv.org/abs/1803.05494](https://arxiv.org/abs/1803.05494)
+
+**Learning Short-Cut Connections for Object Counting**
+
+- keywords: Gated U-Net (GU-Net)
+- arxiv: [https://arxiv.org/abs/1805.02919](https://arxiv.org/abs/1805.02919)
 
 ## Crowd Counting / Crowd Analysis
 
@@ -668,6 +757,52 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 
 - intro: ICCV 2017
 - arxiv: [https://arxiv.org/abs/1708.00953](https://arxiv.org/abs/1708.00953)
+
+**Deep Spatial Regression Model for Image Crowd Counting**
+
+[https://arxiv.org/abs/1710.09757](https://arxiv.org/abs/1710.09757)
+
+**Crowd counting via scale-adaptive convolutional neural network**
+
+- intro: WACV 2-18. Tencent Youtu Lab
+- arxiv: [https://arxiv.org/abs/1711.04433](https://arxiv.org/abs/1711.04433)
+- github: [https://github.com/miao0913/SaCNN-CrowdCounting-Tencent_Youtu](https://github.com/miao0913/SaCNN-CrowdCounting-Tencent_Youtu)
+
+**DecideNet: Counting Varying Density Crowds Through Attention Guided Detection and Density Estimation**
+
+[https://arxiv.org/abs/1712.06679](https://arxiv.org/abs/1712.06679)
+
+**Structured Inhomogeneous Density Map Learning for Crowd Counting**
+
+[https://arxiv.org/abs/1801.06642](https://arxiv.org/abs/1801.06642)
+
+**Understanding Human Behaviors in Crowds by Imitating the Decision-Making Process**
+
+- intro: AAAI 2018
+- arxiv: [https://arxiv.org/abs/1801.08391](https://arxiv.org/abs/1801.08391)
+
+**Leveraging Unlabeled Data for Crowd Counting by Learning to Rank**
+
+- intro: CVPR 2018
+- arxiv: [https://arxiv.org/abs/1803.03095](https://arxiv.org/abs/1803.03095)
+
+**Crowd Counting via Adversarial Cross-Scale Consistency Pursuit**
+
+- intro: CVPR 2018
+
+**An Aggregated Multicolumn Dilated Convolution Network for Perspective-Free Counting**
+
+- intro: CVPR 2018 Workshop On Visual Understanding of Humans in Crowd Scene
+- arxiv: [https://arxiv.org/abs/1804.07821](https://arxiv.org/abs/1804.07821)
+
+**A Deeply-Recursive Convolutional Network for Crowd Counting**
+
+- intro: Xiamen University
+- arxiv: [https://arxiv.org/abs/1805.05633](https://arxiv.org/abs/1805.05633)
+
+**Crowd Counting by Adaptively Fusing Predictions from an Image Pyramid**
+
+[https://arxiv.org/abs/1805.06115](https://arxiv.org/abs/1805.06115)
 
 # Activity Recognition
 
@@ -794,8 +929,11 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 
 **Semantic Image Inpainting with Perceptual and Contextual Losses**
 
+**Semantic Image Inpainting with Deep Generative Models**
+
 - keywords: Deep Convolutional Generative Adversarial Network (DCGAN)
 - arxiv: [http://arxiv.org/abs/1607.07539](http://arxiv.org/abs/1607.07539)
+- github: [https://github.com/bamos/dcgan-completion.tensorflow](https://github.com/bamos/dcgan-completion.tensorflow)
 
 **High-Resolution Image Inpainting using Multi-Scale Neural Patch Synthesis**
 
@@ -810,9 +948,46 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 
 [https://arxiv.org/abs/1709.00584](https://arxiv.org/abs/1709.00584)
 
-**Learning to Inpaint for Image Compression**
+**Image Inpainting using Multi-Scale Feature Image Translation**
 
-[https://arxiv.org/abs/1709.08855](https://arxiv.org/abs/1709.08855)
+[https://arxiv.org/abs/1711.08590](https://arxiv.org/abs/1711.08590)
+
+**Image Inpainting for High-Resolution Textures using CNN Texture Synthesis**
+
+[https://arxiv.org/abs/1712.03111](https://arxiv.org/abs/1712.03111)
+
+**Context-Aware Semantic Inpainting**
+
+[https://arxiv.org/abs/1712.07778](https://arxiv.org/abs/1712.07778)
+
+**Deep Blind Image Inpainting**
+
+[https://arxiv.org/abs/1712.09078](https://arxiv.org/abs/1712.09078)
+
+**Deep Stacked Networks with Residual Polishing for Image Inpainting**
+
+[https://arxiv.org/abs/1801.00289](https://arxiv.org/abs/1801.00289)
+
+**Light-weight pixel context encoders for image inpainting**
+
+[https://arxiv.org/abs/1801.05585](https://arxiv.org/abs/1801.05585)
+
+**Deep Structured Energy-Based Image Inpainting**
+
+[https://arxiv.org/abs/1801.07939](https://arxiv.org/abs/1801.07939)
+
+**Shift-Net: Image Inpainting via Deep Feature Rearrangement**
+
+[https://arxiv.org/abs/1801.09392](https://arxiv.org/abs/1801.09392)
+
+**Cascade context encoder for improved inpainting**
+
+[https://arxiv.org/abs/1803.04033](https://arxiv.org/abs/1803.04033)
+
+**SPG-Net: Segmentation Prediction and Guidance Network for Image Inpainting**
+
+- intro: University of Southern California & Baidu Research
+- arxiv: [https://arxiv.org/abs/1805.03356](https://arxiv.org/abs/1805.03356)
 
 # Image Restoration
 
@@ -838,11 +1013,6 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 - intro: Seoul National University
 - arxiv: [https://arxiv.org/abs/1701.06190](https://arxiv.org/abs/1701.06190)
 
-**Generative Face Completion**
-
-- intro: CVPR 2017
-- arxiv: [https://arxiv.org/abs/1704.05838](https://arxiv.org/abs/1704.05838)
-
 **MemNet: A Persistent Memory Network for Image Restoration**
 
 - intro: ICCV 2017 (Spotlight presentation)
@@ -854,214 +1024,54 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 - intro: NIPS 2017
 - arxiv: [https://arxiv.org/abs/1709.03749](https://arxiv.org/abs/1709.03749)
 
-# Image Super-Resolution
+**xUnit: Learning a Spatial Activation Function for Efficient Image Restoration**
 
-**Super-Resolution.Benckmark**
+- arxiv: [https://arxiv.org/abs/1711.06445](https://arxiv.org/abs/1711.06445)
+- github: [https://github.com/kligvasser/xUnit](https://github.com/kligvasser/xUnit)
 
-- intro: Benchmark and resources for single super-resolution algorithms
-- github: [https://github.com/huangzehao/Super-Resolution.Benckmark](https://github.com/huangzehao/Super-Resolution.Benckmark)
+**Deep Image Prior**
 
-**Image Super-Resolution Using Deep Convolutional Networks**
+- intro: Skolkovo Institute of Science and Technology & University of Oxford
+- project page: [https://dmitryulyanov.github.io/deep_image_prior](https://dmitryulyanov.github.io/deep_image_prior)
+- arxiv: [https://arxiv.org/abs/1711.10925](https://arxiv.org/abs/1711.10925)
+- paper: [https://sites.skoltech.ru/app/data/uploads/sites/25/2017/11/deep_image_prior.pdf](https://sites.skoltech.ru/app/data/uploads/sites/25/2017/11/deep_image_prior.pdf)
+- github: [https://github.com//DmitryUlyanov/deep-image-prior](https://github.com//DmitryUlyanov/deep-image-prior)
+- reddit: [https://www.reddit.com/r/MachineLearning/comments/7gls3j/r_deep_image_prior_deep_superresolution/](https://www.reddit.com/r/MachineLearning/comments/7gls3j/r_deep_image_prior_deep_superresolution/)
 
-- intro: Microsoft Research
-- project page: [http://mmlab.ie.cuhk.edu.hk/projects/SRCNN.html](http://mmlab.ie.cuhk.edu.hk/projects/SRCNN.html)
-- arxiv: [http://arxiv.org/abs/1501.00092](http://arxiv.org/abs/1501.00092)
-- training code: [http://mmlab.ie.cuhk.edu.hk/projects/SRCNN/SRCNN_train.zip](http://mmlab.ie.cuhk.edu.hk/projects/SRCNN/SRCNN_train.zip)
-- test code: [http://mmlab.ie.cuhk.edu.hk/projects/SRCNN/SRCNN_v1.zip](http://mmlab.ie.cuhk.edu.hk/projects/SRCNN/SRCNN_v1.zip)
-- github(Keras): [https://github.com/titu1994/Image-Super-Resolution](https://github.com/titu1994/Image-Super-Resolution)
+**MemNet: A Persistent Memory Network for Image Restoration**
 
-**Learning a Deep Convolutional Network for Image Super-Resolution**
+- intro: ICCV 2017 spotlight
+- paper: [http://cvlab.cse.msu.edu/pdfs/Image_Restoration%20using_Persistent_Memory_Network.pdf](http://cvlab.cse.msu.edu/pdfs/Image_Restoration%20using_Persistent_Memory_Network.pdf)
+- github: [https://github.com//tyshiwo/MemNet](https://github.com//tyshiwo/MemNet)
 
-- Baidu-pan: [http://pan.baidu.com/s/1c0k0wRu](http://pan.baidu.com/s/1c0k0wRu)
+**Denoising Prior Driven Deep Neural Network for Image Restoration**
 
-**Shepard Convolutional Neural Networks**
+[https://arxiv.org/abs/1801.06756](https://arxiv.org/abs/1801.06756)
 
-- paper: [https://papers.nips.cc/paper/5774-shepard-convolutional-neural-networks.pdf](https://papers.nips.cc/paper/5774-shepard-convolutional-neural-networks.pdf)
-- github: [https://github.com/jimmy-ren/vcnn_double-bladed/tree/master/applications/Shepard_CNN](https://github.com/jimmy-ren/vcnn_double-bladed/tree/master/applications/Shepard_CNN)
+**Globally and Locally Consistent Image Completion**
 
-**Bidirectional Recurrent Convolutional Networks for Multi-Frame Super-Resolution**
+- intro: SIGGRAPH 2017
+- project page: [http://hi.cs.waseda.ac.jp/~iizuka/projects/completion/en/](http://hi.cs.waseda.ac.jp/~iizuka/projects/completion/en/)
+- paper: [http://hi.cs.waseda.ac.jp/~iizuka/projects/completion/data/completion_sig2017.pdf](http://hi.cs.waseda.ac.jp/~iizuka/projects/completion/data/completion_sig2017.pdf)
+- github(official): [https://github.com/satoshiiizuka/siggraph2017_inpainting](https://github.com/satoshiiizuka/siggraph2017_inpainting)
+- github: [https://github.com/akmtn/pytorch-siggraph2017-inpainting](https://github.com/akmtn/pytorch-siggraph2017-inpainting)
 
-- intro: NIPS 2015
-- paper: [https://papers.nips.cc/paper/5778-bidirectional-recurrent-convolutional-networks-for-multi-frame-super-resolution](https://papers.nips.cc/paper/5778-bidirectional-recurrent-convolutional-networks-for-multi-frame-super-resolution)
+**Multi-level Wavelet-CNN for Image Restoration**
 
-**Deeply-Recursive Convolutional Network for Image Super-Resolution**
+- intro: CVPR 2018 NTIRE Workshop
+- arxiv: [https://arxiv.org/abs/1805.07071](https://arxiv.org/abs/1805.07071)
 
-- intro: CVPR 2016
-- arxiv: [http://arxiv.org/abs/1511.04491](http://arxiv.org/abs/1511.04491)
-- paper: [http://cv.snu.ac.kr/publication/conf/2016/DRCN_CVPR2016.pdf](http://cv.snu.ac.kr/publication/conf/2016/DRCN_CVPR2016.pdf)
+## Face Completion
 
-**Accurate Image Super-Resolution Using Very Deep Convolutional Networks**
-
-- intro: CVPR 2016 Oral
-- project page: [http://cv.snu.ac.kr/research/VDSR/](http://cv.snu.ac.kr/research/VDSR/)
-- arxiv: [http://arxiv.org/abs/1511.04587](http://arxiv.org/abs/1511.04587)
-- code: [http://cv.snu.ac.kr/research/VDSR/VDSR_code.zip](http://cv.snu.ac.kr/research/VDSR/VDSR_code.zip)
-- github: [https://github.com/huangzehao/caffe-vdsr](https://github.com/huangzehao/caffe-vdsr)
-- github(Torch): [https://github.com/pby5/vdsr_torch](https://github.com/pby5/vdsr_torch)
-
-**Super-Resolution with Deep Convolutional Sufficient Statistics**
-
-- arxiv: [http://arxiv.org/abs/1511.05666](http://arxiv.org/abs/1511.05666)
-
-**Deep Depth Super-Resolution : Learning Depth Super-Resolution using Deep Convolutional Neural Network**
-
-- arxiv: [http://arxiv.org/abs/1607.01977](http://arxiv.org/abs/1607.01977)
-
-**Local- and Holistic- Structure Preserving Image Super Resolution via Deep Joint Component Learning**
-
-- arxiv: [http://arxiv.org/abs/1607.07220](http://arxiv.org/abs/1607.07220)
-
-**End-to-End Image Super-Resolution via Deep and Shallow Convolutional Networks**
-
-- arxiv: [http://arxiv.org/abs/1607.07680](http://arxiv.org/abs/1607.07680)
-
-**Accelerating the Super-Resolution Convolutional Neural Network**
-
-- intro: speed up of more than 40 times with even superior restoration quality, real-time performance on a generic CPU
-- project page: [http://mmlab.ie.cuhk.edu.hk/projects/FSRCNN.html](http://mmlab.ie.cuhk.edu.hk/projects/FSRCNN.html)
-- arxiv: [http://arxiv.org/abs/1608.00367](http://arxiv.org/abs/1608.00367)
-
-**srez: Image super-resolution through deep learning**
-
-- github: [https://github.com/david-gpu/srez](https://github.com/david-gpu/srez)
-
-**Photo-Realistic Single Image Super-Resolution Using a Generative Adversarial Network**
-
-- arxiv: [https://arxiv.org/abs/1609.04802](https://arxiv.org/abs/1609.04802)
-- github(Torch): [https://github.com/leehomyc/Photo-Realistic-Super-Resoluton](https://github.com/leehomyc/Photo-Realistic-Super-Resoluton)
-- github: [https://github.com/junhocho/SRGAN](https://github.com/junhocho/SRGAN)
-- github(Keras): [https://github.com/titu1994/Super-Resolution-using-Generative-Adversarial-Networks](https://github.com/titu1994/Super-Resolution-using-Generative-Adversarial-Networks)
-- github: [https://github.com/buriburisuri/SRGAN](https://github.com/buriburisuri/SRGAN)
-
-**Real-Time Single Image and Video Super-Resolution Using an Efficient Sub-Pixel Convolutional Neural Network**
-
-- intro: CVPR 2016
-- arxiv: [http://arxiv.org/abs/1609.05158](http://arxiv.org/abs/1609.05158)
-- github: [https://github.com/Tetrachrome/subpixel](https://github.com/Tetrachrome/subpixel)
-
-**Is the deconvolution layer the same as a convolutional layer?**
-
-- intro: A note on Real­Time Single Image and Video Super­Resolution Using an Efficient Sub­Pixel Convolutional Neural Network.
-- arxiv: [http://arxiv.org/abs/1609.07009](http://arxiv.org/abs/1609.07009)
-
-**Amortised MAP Inference for Image Super-resolution**
-
-- arxiv: [https://arxiv.org/abs/1610.04490](https://arxiv.org/abs/1610.04490)
-
-**Real-Time Video Super-Resolution with Spatio-Temporal Networks and Motion Compensation**
-
-- arxiv: [https://arxiv.org/abs/1611.05250](https://arxiv.org/abs/1611.05250)
-
-**Super-Resolution on Satellite Imagery using Deep Learning**
-
-- part 1: [https://medium.com/the-downlinq/super-resolution-on-satellite-imagery-using-deep-learning-part-1-ec5c5cd3cd2#.4oxn9pafu](https://medium.com/the-downlinq/super-resolution-on-satellite-imagery-using-deep-learning-part-1-ec5c5cd3cd2#.4oxn9pafu)
-
-**Neural Enhance: Super Resolution for images using deep learning.**
-
-- github: [https://github.com/alexjc/neural-enhance](https://github.com/alexjc/neural-enhance)
-- docker: [https://github.com/alexjc/neural-enhance/blob/master/docker-cpu.df](https://github.com/alexjc/neural-enhance/blob/master/docker-cpu.df)
-
-**Texture Enhancement via High-Resolution Style Transfer for Single-Image Super-Resolution**
-
-- intro: Digital Media & Communications R&D Center, Samsung Electronics, Seoul, Korea
-- arxiv: [https://arxiv.org/abs/1612.00085](https://arxiv.org/abs/1612.00085)
-
-**EnhanceNet: Single Image Super-Resolution through Automated Texture Synthesis**
-
-- arxiv: [https://arxiv.org/abs/1612.07919](https://arxiv.org/abs/1612.07919)
-
-**Learning a Mixture of Deep Networks for Single Image Super-Resolution**
-
-- project page: [http://www.ifp.illinois.edu/~dingliu2/accv2016/](http://www.ifp.illinois.edu/~dingliu2/accv2016/)
-- arxiv: [https://arxiv.org/abs/1701.00823](https://arxiv.org/abs/1701.00823)
-- code: [http://www.ifp.illinois.edu/~dingliu2/accv2016/codes/python_accv2016.zip](http://www.ifp.illinois.edu/~dingliu2/accv2016/codes/python_accv2016.zip)
-
-**Dual Recovery Network with Online Compensation for Image Super-Resolution**
-
-- arxiv: [https://arxiv.org/abs/1701.05652](https://arxiv.org/abs/1701.05652)
-
-**Super-resolution Using Constrained Deep Texture Synthesis**
-
-- intro: Brown University & Georgia Institute of Technology
-- arxiv: [https://arxiv.org/abs/1701.07604](https://arxiv.org/abs/1701.07604)
-
-**Pixel Recursive Super Resolution**
-
-- arxiv: [https://arxiv.org/abs/1702.00783](https://arxiv.org/abs/1702.00783)
-- github(Tensorflow): [https://github.com/nilboy/pixel-recursive-super-resolution](https://github.com/nilboy/pixel-recursive-super-resolution)
-
-**GUN: Gradual Upsampling Network for single image super-resolution**
-
-- arxiv: [https://arxiv.org/abs/1703.04244](https://arxiv.org/abs/1703.04244)
-
-**Single Image Super-resolution with a Parameter Economic Residual-like Convolutional Neural Network**
-
-- intro: Extentions of mmm 2017 paper
-- arxiv: [https://arxiv.org/abs/1703.08173](https://arxiv.org/abs/1703.08173)
-
-**Deep Laplacian Pyramid Networks for Fast and Accurate Super-Resolution**
+**Generative Face Completion**
 
 - intro: CVPR 2017
-- project page(code+dataset): [http://vllab1.ucmerced.edu/~wlai24/LapSRN/](http://vllab1.ucmerced.edu/~wlai24/LapSRN/)
-- arxiv: [https://arxiv.org/abs/1704.03915](https://arxiv.org/abs/1704.03915)
-- github(Matlab+MatConvNet): [https://github.com/phoenix104104/LapSRN](https://github.com/phoenix104104/LapSRN)
+- arxiv: [https://arxiv.org/abs/1704.05838](https://arxiv.org/abs/1704.05838)
 
-**Fast and Accurate Image Super-Resolution with Deep Laplacian Pyramid Networks**
+**High Resolution Face Completion with Multiple Controllable Attributes via Fully End-to-End Progressive Generative Adversarial Networks**
 
-- project page: [http://vllab.ucmerced.edu/wlai24/LapSRN/](http://vllab.ucmerced.edu/wlai24/LapSRN/)
-- arxiv: [https://arxiv.org/abs/1710.01992](https://arxiv.org/abs/1710.01992)
-- github: [https://github.com/phoenix104104/LapSRN](https://github.com/phoenix104104/LapSRN)
-
-**Single Image Super-Resolution Using Multi-Scale Convolutional Neural Network**
-
-- intro: South China University of Technology
-- arxiv: [https://arxiv.org/abs/1705.05084](https://arxiv.org/abs/1705.05084)
-
-**Super-Resolution via Deep Learning**
-
-- intro: COMSATS Institute of IT (CIIT)
-- arxiv: [https://arxiv.org/abs/1706.09077](https://arxiv.org/abs/1706.09077)
-
-**High-Quality Face Image SR Using Conditional Generative Adversarial Networks**
-
-[https://arxiv.org/abs/1707.00737](https://arxiv.org/abs/1707.00737)
-
-**Enhanced Deep Residual Networks for Single Image Super-Resolution**
-
-- intro: CVPR 2017 workshop. Best paper award of the NTIRE2017 workshop, and the winners of the NTIRE2017 Challenge on Single Image Super-Resolution
-- arxiv: [https://arxiv.org/abs/1707.02921](https://arxiv.org/abs/1707.02921)
-- paper: [http://cv.snu.ac.kr/publication/conf/2017/EDSR_fixed.pdf](http://cv.snu.ac.kr/publication/conf/2017/EDSR_fixed.pdf)
-- github: [https://github.com/LimBee/NTIRE2017](https://github.com/LimBee/NTIRE2017)
-
-**Fast and Accurate Image Super Resolution by Deep CNN with Skip Connection and Network in Network**
-
-- arxiv: [https://arxiv.org/abs/1707.05425](https://arxiv.org/abs/1707.05425)
-- github(Tensorflow): [https://github.com/jiny2001/dcscn-super-resolution](https://github.com/jiny2001/dcscn-super-resolution)
-
-**Single Image Super-Resolution with Dilated Convolution based Multi-Scale Information Learning Inception Module**
-
-- intro: ICIP 2017
-- arxiv: [https://arxiv.org/abs/1707.07128](https://arxiv.org/abs/1707.07128)
-
-**Attention-Aware Face Hallucination via Deep Reinforcement Learning**
-
-[https://arxiv.org/abs/1708.03132](https://arxiv.org/abs/1708.03132)
-
-**CISRDCNN: Super-resolution of compressed images using deep convolutional neural networks**
-
-[https://arxiv.org/abs/1709.06229](https://arxiv.org/abs/1709.06229)
-
-## Video Super-resolution
-
-**Detail-revealing Deep Video Super-resolution**
-
-- arxiv: [https://arxiv.org/abs/1704.02738](https://arxiv.org/abs/1704.02738)
-- github: [https://github.com/jiangsutx/SPMC_VideoSR](https://github.com/jiangsutx/SPMC_VideoSR)
-
-**End-to-End Learning of Video Super-Resolution with Motion Compensation**
-
-- intro: GCPR 2017
-- arxiv: [https://arxiv.org/abs/1707.00471](https://arxiv.org/abs/1707.00471)
+- intro: North Carolina State University
+- arxiv: [https://arxiv.org/abs/1801.07632](https://arxiv.org/abs/1801.07632)
 
 # Image Denoising
 
@@ -1137,6 +1147,32 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 - arxiv: [https://arxiv.org/abs/1710.04026](https://arxiv.org/abs/1710.04026)
 - github(MatConvNet): [https://github.com/cszn/FFDNet](https://github.com/cszn/FFDNet)
 
+**Universal Denoising Networks : A Novel CNN-based Network Architecture for Image Denoising**
+
+[https://arxiv.org/abs/1711.07807](https://arxiv.org/abs/1711.07807)
+
+**Burst Denoising with Kernel Prediction Networks**
+
+- project page: [http://people.eecs.berkeley.edu/~bmild/kpn/](http://people.eecs.berkeley.edu/~bmild/kpn/)
+- arxiv: [https://arxiv.org/abs/1712.02327](https://arxiv.org/abs/1712.02327)
+
+**Chaining Identity Mapping Modules for Image Denoising**
+
+[https://arxiv.org/abs/1712.02933](https://arxiv.org/abs/1712.02933)
+
+**Deep Burst Denoising**
+
+[https://arxiv.org/abs/1712.05790](https://arxiv.org/abs/1712.05790)
+
+**Fast, Trainable, Multiscale Denoising**
+
+- intro: Google Research
+- arxiv: [https://arxiv.org/abs/1802.06130](https://arxiv.org/abs/1802.06130)
+
+**Training Deep Learning based Denoisers without Ground Truth Data**
+
+[https://arxiv.org/abs/1803.01314](https://arxiv.org/abs/1803.01314)
+
 # Image Haze Removal
 
 **DehazeNet: An End-to-End System for Single Image Haze Removal**
@@ -1160,6 +1196,57 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 
 [https://arxiv.org/abs/1710.00279](https://arxiv.org/abs/1710.00279)
 
+**Learning Aggregated Transmission Propagation Networks for Haze Removal and Beyond**
+
+[https://arxiv.org/abs/1711.06787](https://arxiv.org/abs/1711.06787)
+
+**CANDY: Conditional Adversarial Networks based Fully End-to-End System for Single Image Haze Removal**
+
+[https://arxiv.org/abs/1801.02892](https://arxiv.org/abs/1801.02892)
+
+**C2MSNet: A Novel approach for single image haze removal**
+
+- intro: WACV 2018
+- arxiv: [https://arxiv.org/abs/1801.08406](https://arxiv.org/abs/1801.08406)
+
+**A Cascaded Convolutional Neural Network for Single Image Dehazing**
+
+- intro: IEEE ACCESS
+- arxiv: [https://arxiv.org/abs/1803.07955](https://arxiv.org/abs/1803.07955)
+
+**Densely Connected Pyramid Dehazing Network**
+
+- intro: CVPR 2018
+- arxiv: [https://arxiv.org/abs/1803.08396](https://arxiv.org/abs/1803.08396)
+- github: [https://github.com/hezhangsprinter/DCPDN](https://github.com/hezhangsprinter/DCPDN)
+
+**Gated Fusion Network for Single Image Dehazing**
+
+- project page: [https://sites.google.com/site/renwenqi888/research/dehazing/gfn](https://sites.google.com/site/renwenqi888/research/dehazing/gfn)
+- arxiv: [https://arxiv.org/abs/1804.00213](https://arxiv.org/abs/1804.00213)
+
+**Semantic Single-Image Dehazing**
+
+[https://arxiv.org/abs/1804.05624](https://arxiv.org/abs/1804.05624)
+
+**Perceptually Optimized Generative Adversarial Network for Single Image Dehazing**
+
+[https://arxiv.org/abs/1805.01084](https://arxiv.org/abs/1805.01084)
+
+**PAD-Net: A Perception-Aided Single Image Dehazing Network**
+
+- arxiv: [https://arxiv.org/abs/1805.03146](https://arxiv.org/abs/1805.03146)
+- github: [https://github.com/guanlongzhao/single-image-dehazing](https://github.com/guanlongzhao/single-image-dehazing)
+
+**The Effectiveness of Instance Normalization: a Strong Baseline for Single Image Dehazing**
+
+[https://arxiv.org/abs/1805.03305](https://arxiv.org/abs/1805.03305)
+
+**Cycle-Dehaze: Enhanced CycleGAN for Single Image Dehazing**
+
+- intro: CVPRW: NTIRE 2018
+- arxiv: [https://arxiv.org/abs/1805.05308](https://arxiv.org/abs/1805.05308)
+
 # Image Rain Removal / De-raining
 
 **Clearing the Skies: A deep network architecture for single-image rain removal**
@@ -1177,7 +1264,43 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 
 - arxiv: [https://arxiv.org/abs/1701.05957](https://arxiv.org/abs/1701.05957)
 
+**Single Image Deraining using Scale-Aware Multi-Stage Recurrent Network**
+
+- intro: CVPR 2018
+- arxiv: [https://arxiv.org/abs/1712.06830](https://arxiv.org/abs/1712.06830)
+
+**Deep joint rain and haze removal from single images**
+
+[https://arxiv.org/abs/1801.06769](https://arxiv.org/abs/1801.06769)
+
+**Density-aware Single Image De-raining using a Multi-stream Dense Network**
+
+- intro: CVPR 2018
+- arxiv: [https://arxiv.org/abs/1803.08396](https://arxiv.org/abs/1803.08396)
+- github: [https://github.com/hezhangsprinter/DID-MDN](https://github.com/hezhangsprinter/DID-MDN)
+
+**Robust Video Content Alignment and Compensation for Rain Removal in a CNN Framework**
+
+[https://arxiv.org/abs/1803.10433](https://arxiv.org/abs/1803.10433)
+
+**Fast Single Image Rain Removal via a Deep Decomposition-Composition Network**
+
+[https://arxiv.org/abs/1804.02688](https://arxiv.org/abs/1804.02688)
+
+**Residual-Guide Feature Fusion Network for Single Image Deraining**
+
+[https://arxiv.org/abs/1804.07493](https://arxiv.org/abs/1804.07493)
+
+**Lightweight Pyramid Networks for Image Deraining**
+
+[https://arxiv.org/abs/1805.06173](https://arxiv.org/abs/1805.06173)
+
 # Fence Removal
+
+**My camera can see through fences: A deep learning approach for image de-fencing**
+
+- intro: ACPR 2015
+- arxiv: [https://arxiv.org/abs/1805.07442](https://arxiv.org/abs/1805.07442)
 
 **Deep learning based fence segmentation and removal from an image using a video sequence**
 
@@ -1237,6 +1360,50 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 
 [https://arxiv.org/abs/1709.03481](https://arxiv.org/abs/1709.03481)
 
+**DeblurGAN: Blind Motion Deblurring Using Conditional Adversarial Networks**
+
+- intro: Ukrainian Catholic University & CTU in Prague
+- arxiv: [https://arxiv.org/abs/1711.07064](https://arxiv.org/abs/1711.07064)
+- github: [https://github.com/KupynOrest/DeblurGAN](https://github.com/KupynOrest/DeblurGAN)
+
+**DeepDeblur: Fast one-step blurry face images restoration**
+
+[https://arxiv.org/abs/1711.09515](https://arxiv.org/abs/1711.09515)
+
+**Reblur2Deblur: Deblurring Videos via Self-Supervised Learning**
+
+- arxiv: [https://arxiv.org/abs/1801.05117](https://arxiv.org/abs/1801.05117)
+- supplementary: [https://drive.google.com/file/d/17Itta-z89lpWUdvUjpafKzJRSLoxHF5c/view](https://drive.google.com/file/d/17Itta-z89lpWUdvUjpafKzJRSLoxHF5c/view)
+
+**Scale-recurrent Network for Deep Image Deblurring**
+
+- intro: CUHK & Tecent & Megvii Inc.
+- arxiv: [https://arxiv.org/abs/1802.01770](https://arxiv.org/abs/1802.01770)
+
+**Deep Semantic Face Deblurring**
+
+- intro: CVPR 2018. Beijing Institute of Technology & University of California, Merced & Nvidia Research
+- project page: [https://sites.google.com/site/ziyishenmi/cvpr18_face_deblur](https://sites.google.com/site/ziyishenmi/cvpr18_face_deblur)
+- arxiv: [https://arxiv.org/abs/1803.03345](https://arxiv.org/abs/1803.03345)
+
+**Motion deblurring of faces**
+
+[https://arxiv.org/abs/1803.03330](https://arxiv.org/abs/1803.03330)
+
+**Learning a Discriminative Prior for Blind Image Deblurring**
+
+- intro: CVPR 2018
+- arxiv: [https://arxiv.org/abs/1803.03363](https://arxiv.org/abs/1803.03363)
+
+**Adversarial Spatio-Temporal Learning for Video Deblurring**
+
+[https://arxiv.org/abs/1804.00533](https://arxiv.org/abs/1804.00533)
+
+**Learning to Deblur Images with Exemplars**
+
+- intro: PAMI 2018
+- arxiv: [https://arxiv.org/abs/1805.05503](https://arxiv.org/abs/1805.05503)
+
 # Image Compression
 
 **An image compression and encryption scheme based on deep learning**
@@ -1293,6 +1460,64 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 - project page: [http://www.wave.one/icml2017](http://www.wave.one/icml2017)
 - arxiv: [https://arxiv.org/abs/1705.05823](https://arxiv.org/abs/1705.05823)
 
+**Learning to Inpaint for Image Compression**
+
+[https://arxiv.org/abs/1709.08855](https://arxiv.org/abs/1709.08855)
+
+**Efficient Trimmed Convolutional Arithmetic Encoding for Lossless Image Compression**
+
+[https://arxiv.org/abs/1801.04662](https://arxiv.org/abs/1801.04662)
+
+**Conditional Probability Models for Deep Image Compression**
+
+[https://arxiv.org/abs/1801.04260](https://arxiv.org/abs/1801.04260)
+
+**Multiple Description Convolutional Neural Networks for Image Compression**
+
+[https://arxiv.org/abs/1801.06611](https://arxiv.org/abs/1801.06611)
+
+**Near-lossless L-infinity constrained Multi-rate Image Decompression via Deep Neural Network**
+
+[https://arxiv.org/abs/1801.07987](https://arxiv.org/abs/1801.07987)
+
+**DeepSIC: Deep Semantic Image Compression**
+
+[https://arxiv.org/abs/1801.09468](https://arxiv.org/abs/1801.09468)
+
+**Spatially adaptive image compression using a tiled deep network**
+
+- intro: ICIP 2017
+- arxiv: [https://arxiv.org/abs/1802.02629](https://arxiv.org/abs/1802.02629)
+
+**Feature Distillation: DNN-Oriented JPEG Compression Against Adversarial Examples**
+
+- intro: IJCAI 2018
+- arxiv: [https://arxiv.org/abs/1803.05787](https://arxiv.org/abs/1803.05787)
+
+**DeepN-JPEG: A Deep Neural Network Favorable JPEG-based Image Compression Framework**
+
+- intro: DAC 2018
+- arxiv: [https://arxiv.org/abs/1803.05788](https://arxiv.org/abs/1803.05788)
+
+**The Effects of JPEG and JPEG2000 Compression on Attacks using Adversarial Examples**
+
+[https://arxiv.org/abs/1803.10418](https://arxiv.org/abs/1803.10418)
+
+**Generative Adversarial Networks for Extreme Learned Image Compression**
+
+- intro: ETH Zurich
+- homepage: [https://data.vision.ee.ethz.ch/aeirikur/extremecompression/](https://data.vision.ee.ethz.ch/aeirikur/extremecompression/)
+- arxiv: [https://arxiv.org/abs/1804.02958](https://arxiv.org/abs/1804.02958)
+
+**Deformation Aware Image Compression**
+
+- intro: CVPR 2018
+- arxiv: [https://arxiv.org/abs/1804.04593](https://arxiv.org/abs/1804.04593)
+
+**Neural Multi-scale Image Compression**
+
+[https://arxiv.org/abs/1805.06386](https://arxiv.org/abs/1805.06386)
+
 # Image Quality Assessment
 
 **Deep Neural Networks for No-Reference and Full-Reference Image Quality Assessment**
@@ -1312,6 +1537,18 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 - intro: ACM Multimedia Conference (MM) 2017
 - intro: does not need any interaction and can realize real-time matting with 15 fps
 - arxiv: [https://arxiv.org/abs/1707.08289](https://arxiv.org/abs/1707.08289)
+
+**Real-time deep hair matting on mobile devices**
+
+- intro: ModiFace Inc, University of Toronto
+- arxiv: [https://arxiv.org/abs/1712.07168](https://arxiv.org/abs/1712.07168)
+
+**TOM-Net: Learning Transparent Object Matting from a Single Image**
+
+- intro: CVPR 2018
+- project page: [http://gychen.org/TOM-Net/](http://gychen.org/TOM-Net/)
+- arxiv: [https://arxiv.org/abs/1803.04636](https://arxiv.org/abs/1803.04636)
+- github: [https://github.com/guanyingc/TOM-Net](https://github.com/guanyingc/TOM-Net)
 
 # Image Blending
 
@@ -1333,11 +1570,19 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 - intro: CUHK
 - arxiv: [https://arxiv.org/abs/1707.05251](https://arxiv.org/abs/1707.05251)
 
+**Learned Perceptual Image Enhancement**
+
+[https://arxiv.org/abs/1712.02864](https://arxiv.org/abs/1712.02864)
+
 # Abnormality Detection / Anomaly Detection
 
 **Toward a Taxonomy and Computational Models of Abnormalities in Images**
 
 - arxiv: [http://arxiv.org/abs/1512.01325](http://arxiv.org/abs/1512.01325)
+
+**GANomaly: Semi-Supervised Anomaly Detection via Adversarial Training**
+
+[https://arxiv.org/abs/1805.06725](https://arxiv.org/abs/1805.06725)
 
 # Depth Prediction / Depth Estimation
 
@@ -1385,6 +1630,10 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 - video: [https://www.youtube.com/watch?v=vNIIT_M7x7Y](https://www.youtube.com/watch?v=vNIIT_M7x7Y)
 - github: [https://github.com/fangchangma/sparse-to-dense](https://github.com/fangchangma/sparse-to-dense)
 
+**Size-to-depth: A New Perspective for Single Image Depth Estimation**
+
+[https://arxiv.org/abs/1801.04461](https://arxiv.org/abs/1801.04461)
+
 # Texture Synthesis
 
 **Texture Synthesis Using Convolutional Neural Networks**
@@ -1426,6 +1675,26 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 - arxiv: [https://arxiv.org/abs/1703.01664](https://arxiv.org/abs/1703.01664)
 - github: [https://github.com/Yijunmaverick/MultiTextureSynthesis](https://github.com/Yijunmaverick/MultiTextureSynthesis)
 
+# Image Cropping
+
+**Deep Cropping via Attention Box Prediction and Aesthetics Assessment**
+
+- intro: ICCV 2017
+- arxiv: [https://arxiv.org/abs/1710.08014](https://arxiv.org/abs/1710.08014)
+
+**A2-RL: Aesthetics Aware Reinforcement Learning for Automatic Image Cropping**
+
+- intro: CVPR 2018
+- project page: [http://debangli.info/A2RL/](http://debangli.info/A2RL/)
+- arxiv: [https://arxiv.org/abs/1709.04595](https://arxiv.org/abs/1709.04595)
+- github(official): [https://github.com/wuhuikai/TF-A2RL](https://github.com/wuhuikai/TF-A2RL)
+- demo: [http://wuhuikai.me/TF-A2RL/](http://wuhuikai.me/TF-A2RL/)
+
+**Automatic Image Cropping for Visual Aesthetic Enhancement Using Deep Neural Networks and Cascaded Regression**
+
+- intro: IEEE Transactions on Multimedia, 2017
+- arxiv: [https://arxiv.org/abs/1712.09048](https://arxiv.org/abs/1712.09048)
+
 # Image Synthesis
 
 **Combining Markov Random Fields and Convolutional Neural Networks for Image Synthesis**
@@ -1447,6 +1716,17 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 - github: [https://github.com/hanzhanggit/StackGAN](https://github.com/hanzhanggit/StackGAN)
 - github: [https://github.com/brangerbriz/docker-StackGAN](https://github.com/brangerbriz/docker-StackGAN)
 
+**Semantic Image Synthesis via Adversarial Learning**
+
+- intro: ICCV 2017
+- arxiv: [https://arxiv.org/abs/1707.06873](https://arxiv.org/abs/1707.06873)
+- github(PyTorch): [https://github.com//woozzu/dong_iccv_2017](https://github.com//woozzu/dong_iccv_2017)
+
+**An Introduction to Image Synthesis with Generative Adversarial Nets**
+
+- intro: University of Illinois at Chicago & Toutiao AI Lab
+- arxiv: [https://arxiv.org/abs/1803.04469](https://arxiv.org/abs/1803.04469)
+
 # Image Tagging
 
 **Fast Zero-Shot Image Tagging**
@@ -1465,6 +1745,15 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 
 - arxiv: [https://arxiv.org/abs/1611.06962](https://arxiv.org/abs/1611.06962)
 - github: [https://github.com/lab41/attalos](https://github.com/lab41/attalos)
+
+**Kill Two Birds with One Stone: Weakly-Supervised Neural Network for Image Annotation and Tag Refinement**
+
+- intro: AAAI 2018
+- arxiv: [https://arxiv.org/abs/1711.06998](https://arxiv.org/abs/1711.06998)
+
+**Deep Multiple Instance Learning for Zero-shot Image Tagging**
+
+[https://arxiv.org/abs/1803.06051](https://arxiv.org/abs/1803.06051)
 
 # Image Matching
 
@@ -1515,6 +1804,10 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 - arxiv: [https://arxiv.org/abs/1703.05593](https://arxiv.org/abs/1703.05593)
 - github: [https://github.com/ignacio-rocco/cnngeometric_matconvnet](https://github.com/ignacio-rocco/cnngeometric_matconvnet)
 
+**Multi-Image Semantic Matching by Mining Consistent Features**
+
+[https://arxiv.org/abs/1711.07641](https://arxiv.org/abs/1711.07641)
+
 # Image Editing
 
 **Neural Photo Editing with Introspective Adversarial Networks**
@@ -1545,20 +1838,221 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 - intro: University of Illinois at Urbana-Champaign & The Chinese University of Hong Kong & Google
 - arxiv: [https://arxiv.org/abs/1611.09961](https://arxiv.org/abs/1611.09961)
 
-## Face Swap
+**Language-Based Image Editing with Recurrent Attentive Models**
+
+[https://arxiv.org/abs/1711.06288](https://arxiv.org/abs/1711.06288)
+
+## Face Swap & Face Editing
 
 **Fast Face-swap Using Convolutional Neural Networks**
 
 - intro: Ghent University & Twitter
 - arxiv: [https://arxiv.org/abs/1611.09577](https://arxiv.org/abs/1611.09577)
 
-## Face Editing
-
 **Neural Face Editing with Intrinsic Image Disentangling**
 
 - intro: CVPR 2017 oral
 - project page: [http://www3.cs.stonybrook.edu/~cvl/content/neuralface/neuralface.html](http://www3.cs.stonybrook.edu/~cvl/content/neuralface/neuralface.html)
 - arxiv: [https://arxiv.org/abs/1704.04131](https://arxiv.org/abs/1704.04131)
+
+**Arbitrary Facial Attribute Editing: Only Change What You Want**
+
+- arxiv: [https://arxiv.org/abs/1711.10678](https://arxiv.org/abs/1711.10678)
+- github: [https://github.com/LynnHo/AttGAN-Tensorflow](https://github.com/LynnHo/AttGAN-Tensorflow)
+
+**RSGAN: Face Swapping and Editing using Face and Hair Representation in Latent Spaces**
+
+[https://arxiv.org/abs/1804.03447](https://arxiv.org/abs/1804.03447)
+
+**FaceShop: Deep Sketch-based Face Image Editing**
+
+[https://arxiv.org/abs/1804.08972](https://arxiv.org/abs/1804.08972)
+
+# Stereo
+
+**End-to-End Learning of Geometry and Context for Deep Stereo Regression**
+
+[https://arxiv.org/abs/1703.04309](https://arxiv.org/abs/1703.04309)
+
+**Unsupervised Adaptation for Deep Stereo**
+
+- intro: ICCV 2017
+- paper: [http://openaccess.thecvf.com/content_ICCV_2017/papers/Tonioni_Unsupervised_Adaptation_for_ICCV_2017_paper.pdf](http://openaccess.thecvf.com/content_ICCV_2017/papers/Tonioni_Unsupervised_Adaptation_for_ICCV_2017_paper.pdf)
+- paper: [http://vision.disi.unibo.it/~mpoggi/papers/iccv2017_adaptation.pdf](http://vision.disi.unibo.it/~mpoggi/papers/iccv2017_adaptation.pdf)
+- github: [https://github.com/CVLAB-Unibo/Unsupervised-Adaptation-for-Deep-Stereo](https://github.com/CVLAB-Unibo/Unsupervised-Adaptation-for-Deep-Stereo)
+
+**Cascade Residual Learning: A Two-stage Convolutional Neural Network for Stereo Matching**
+
+[https://arxiv.org/abs/1708.09204](https://arxiv.org/abs/1708.09204)
+
+**StereoConvNet: Stereo convolutional neural network for depth map prediction from stereo images**
+
+- github: [https://github.com/LouisFoucard/StereoConvNet](https://github.com/LouisFoucard/StereoConvNet)
+
+**EdgeStereo: A Context Integrated Residual Pyramid Network for Stereo Matching**
+
+[https://arxiv.org/abs/1803.05196](https://arxiv.org/abs/1803.05196)
+
+**Zoom and Learn: Generalizing Deep Stereo Matching to Novel Domains**
+
+- intro: CVPR 2018. SenseTime Research & Sun Yat-sen University
+- arxiv: [https://arxiv.org/abs/1803.06641](https://arxiv.org/abs/1803.06641)
+
+**Pyramid Stereo Matching Network**
+
+- intro: CVPR 2018
+- arxiv: [https://arxiv.org/abs/1803.08669](https://arxiv.org/abs/1803.08669)
+- github: [https://github.com/JiaRenChang/PSMNet](https://github.com/JiaRenChang/PSMNet)
+
+**Cascaded multi-scale and multi-dimension convolutional neural network for stereo matching**
+
+[https://arxiv.org/abs/1803.09437](https://arxiv.org/abs/1803.09437)
+
+**Left-Right Comparative Recurrent Model for Stereo Matching**
+
+- intro: CVPR 2018
+- arxiv: [https://arxiv.org/abs/1804.00796](https://arxiv.org/abs/1804.00796)
+
+# Optical Flow
+
+**FlowNet: Learning Optical Flow with Convolutional Networks**
+
+- intro: "competitive accuracy at frame rates of 5 to 10 fps"
+- project page: [http://lmb.informatik.uni-freiburg.de/Publications/2015/DFIB15/](http://lmb.informatik.uni-freiburg.de/Publications/2015/DFIB15/)
+- arxiv: [https://arxiv.org/abs/1504.06852](https://arxiv.org/abs/1504.06852)
+- github: [https://github.com/ClementPinard/FlowNetTorch](https://github.com/ClementPinard/FlowNetTorch)
+- github: [https://github.com/ClementPinard/FlowNetPytorch](https://github.com/ClementPinard/FlowNetPytorch)
+
+**FlowNet 2.0: Evolution of Optical Flow Estimation with Deep Networks**
+
+- intro: CVPR 2017
+- project page: [http://lmb.informatik.uni-freiburg.de/Publications/2016/IMKDB16/](http://lmb.informatik.uni-freiburg.de/Publications/2016/IMKDB16/)
+- arxiv: [https://arxiv.org/abs/1612.01925](https://arxiv.org/abs/1612.01925)
+- github(Caffe): [https://github.com/lmb-freiburg/flownet2](https://github.com/lmb-freiburg/flownet2)
+- github: [https://github.com//NVIDIA/flownet2-pytorch](https://github.com//NVIDIA/flownet2-pytorch)
+- video: [http://lmb.informatik.uni-freiburg.de/Publications/2016/IMKDB16/](http://lmb.informatik.uni-freiburg.de/Publications/2016/IMKDB16/)
+
+**Optical Flow Estimation using a Spatial Pyramid Network**
+
+- arxiv: [https://arxiv.org/abs/1611.00850](https://arxiv.org/abs/1611.00850)
+
+**Guided Optical Flow Learning**
+
+- arxiv: [https://arxiv.org/abs/1702.02295](https://arxiv.org/abs/1702.02295)
+
+**PWC-Net: CNNs for Optical Flow Using Pyramid, Warping, and Cost Volume**
+
+[https://arxiv.org/abs/1709.02371](https://arxiv.org/abs/1709.02371)
+
+**Occlusion Aware Unsupervised Learning of Optical Flow**
+
+[https://arxiv.org/abs/1711.05890](https://arxiv.org/abs/1711.05890)
+
+**UnFlow: Unsupervised Learning of Optical Flow with a Bidirectional Census Loss**
+
+- intro: AAAI 2018
+- arxiv: [https://arxiv.org/abs/1711.07837](https://arxiv.org/abs/1711.07837)
+
+**Learning Optical Flow via Dilated Networks and Occlusion Reasoning**
+
+- intro: ICIP 2018
+- arxiv: [https://arxiv.org/abs/1805.02733](https://arxiv.org/abs/1805.02733)
+
+**LiteFlowNet: A Lightweight Convolutional Neural Network for Optical Flow Estimation**
+
+- intro: CVPR 2018 (spotlight)
+- project page: [http://mmlab.ie.cuhk.edu.hk/projects/LiteFlowNet/](http://mmlab.ie.cuhk.edu.hk/projects/LiteFlowNet/)
+- arxiv: [https://arxiv.org/abs/1805.07036](https://arxiv.org/abs/1805.07036)
+- github: [https://github.com/twhui/LiteFlowNet](https://github.com/twhui/LiteFlowNet)
+
+# 3D
+
+**Learning Spatiotemporal Features with 3D Convolutional Networks**
+
+**C3D: Generic Features for Video Analysis**
+
+- project page: [http://vlg.cs.dartmouth.edu/c3d/](http://vlg.cs.dartmouth.edu/c3d/)
+- arxiv: [http://arxiv.org/abs/1412.0767](http://arxiv.org/abs/1412.0767)
+- slides: [http://web.cs.hacettepe.edu.tr/~aykut/classes/spring2016/bil722/slides/w07-conv3d.pdf](http://web.cs.hacettepe.edu.tr/~aykut/classes/spring2016/bil722/slides/w07-conv3d.pdf)
+- github: [https://github.com/facebook/C3D](https://github.com/facebook/C3D)
+
+**C3D Model for Keras trained over Sports 1M**
+
+- project page: [https://imatge.upc.edu/web/resources/c3d-model-keras-trained-over-sports-1m](https://imatge.upc.edu/web/resources/c3d-model-keras-trained-over-sports-1m)
+
+**Sports 1M C3D Network to Keras**
+
+- notebook: [http://nbviewer.jupyter.org/gist/albertomontesg/d8b21a179c1e6cca0480ebdf292c34d2/Sports1M%20C3D%20Network%20to%20Keras.ipynb](http://nbviewer.jupyter.org/gist/albertomontesg/d8b21a179c1e6cca0480ebdf292c34d2/Sports1M%20C3D%20Network%20to%20Keras.ipynb)
+
+**Deep End2End Voxel2Voxel Prediction**
+
+- arxiv: [http://arxiv.org/abs/1511.06681](http://arxiv.org/abs/1511.06681)
+
+**Aligning 3D Models to RGB-D Images of Cluttered Scenes**
+
+- paper: [http://www.cs.berkeley.edu/~rbg/papers/cvpr15/align2rgbd.pdf](http://www.cs.berkeley.edu/~rbg/papers/cvpr15/align2rgbd.pdf)
+
+**Deep Sliding Shapes for Amodal 3D Object Detection in RGB-D Images**
+
+![](http://dss.cs.princeton.edu/teaser.jpg)
+
+- homepage: [http://dss.cs.princeton.edu/](http://dss.cs.princeton.edu/)
+- arxiv: [http://arxiv.org/abs/1511.02300](http://arxiv.org/abs/1511.02300)
+
+**Multi-view 3D Models from Single Images with a Convolutional Network**
+
+- arxiv: [http://arxiv.org/abs/1511.06702](http://arxiv.org/abs/1511.06702)
+
+**RotationNet: Learning Object Classification Using Unsupervised Viewpoint Estimation**
+
+- arxiv: [http://arxiv.org/abs/1603.06208](http://arxiv.org/abs/1603.06208)
+
+**DeepContext: Context-Encoding Neural Pathways for 3D Holistic Scene Understanding**
+
+![](http://deepcontext.cs.princeton.edu/teaser.png)
+
+- paper: [http://deepcontext.cs.princeton.edu/paper.pdf](http://deepcontext.cs.princeton.edu/paper.pdf)
+- project page: [http://deepcontext.cs.princeton.edu/](http://deepcontext.cs.princeton.edu/)
+
+**Volumetric and Multi-View CNNs for Object Classification on 3D Data**
+
+![](http://graphics.stanford.edu/projects/3dcnn/teaser.jpg)
+
+- homepage: [http://graphics.stanford.edu/projects/3dcnn/](http://graphics.stanford.edu/projects/3dcnn/)
+- arxiv: [https://arxiv.org/abs/1604.03265](https://arxiv.org/abs/1604.03265)
+- github: [https://github.com/charlesq34/3dcnn.torch](https://github.com/charlesq34/3dcnn.torch)
+
+**Deep3D: Automatic 2D-to-3D Video Conversion with CNNs**
+
+![](https://raw.githubusercontent.com/piiswrong/deep3d/master/img/teaser.png)
+
+- project page: [http://dmlc.ml/mxnet/2016/04/04/deep3d-automatic-2d-to-3d-conversion-with-CNN.html](http://dmlc.ml/mxnet/2016/04/04/deep3d-automatic-2d-to-3d-conversion-with-CNN.html)
+- paper: [http://homes.cs.washington.edu/~jxie/pdf/deep3d.pdf](http://homes.cs.washington.edu/~jxie/pdf/deep3d.pdf)
+- github: [https://github.com/piiswrong/deep3d](https://github.com/piiswrong/deep3d)
+
+**Deep3D: Fully Automatic 2D-to-3D Video Conversion with Deep Convolutional Neural Networks**
+
+- arxiv: [http://arxiv.org/abs/1604.03650](http://arxiv.org/abs/1604.03650)
+
+**3D-R2N2: A Unified Approach for Single and Multi-view 3D Object Reconstruction**
+
+![](https://raw.githubusercontent.com/chrischoy/3D-R2N2/master/imgs/overview.png)
+
+- arxiv: [http://arxiv.org/abs/1604.00449](http://arxiv.org/abs/1604.00449)
+- github: [https://github.com/chrischoy/3D-R2N2](https://github.com/chrischoy/3D-R2N2)
+
+# Deep Learning for Makeup
+
+**Makeup like a superstar: Deep Localized Makeup Transfer Network**
+
+- intro: IJCAI 2016
+- arxiv: [http://arxiv.org/abs/1604.07102](http://arxiv.org/abs/1604.07102)
+
+**Makeup-Go: Blind Reversion of Portrait Edit**
+
+- intro: The Chinese University of Hong Kong & Tencent Youtu Lab
+- paper: [http://openaccess.thecvf.com/content_ICCV_2017/papers/Chen_Makeup-Go_Blind_Reversion_ICCV_2017_paper.pdf](http://openaccess.thecvf.com/content_ICCV_2017/papers/Chen_Makeup-Go_Blind_Reversion_ICCV_2017_paper.pdf)
+- paper: [http://open.youtu.qq.com/content/file/iccv17_makeupgo.pdf](http://open.youtu.qq.com/content/file/iccv17_makeupgo.pdf)
 
 # Music Tagging
 
@@ -1577,6 +2071,20 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 
 [https://arxiv.org/abs/1705.04641](https://arxiv.org/abs/1705.04641)
 
+**Attentional Pooling for Action Recognition**
+
+- intro: NIPS 2017
+- project page: [https://rohitgirdhar.github.io/AttentionalPoolingAction/](https://rohitgirdhar.github.io/AttentionalPoolingAction/)
+- arxiv: [https://arxiv.org/abs/1711.01467](https://arxiv.org/abs/1711.01467)
+- github: [https://github.com/rohitgirdhar/AttentionalPoolingAction/](https://github.com/rohitgirdhar/AttentionalPoolingAction/)
+
+**Memory Attention Networks for Skeleton-based Action Recognition**
+
+- intro: IJCAI 2018
+- keywords: Temporal Attention Recalibration Module (TARM) and a Spatio-Temporal Convolution Module (STCM)
+- arixv: [https://arxiv.org/abs/1804.08254](https://arxiv.org/abs/1804.08254)
+- github: [https://github.com/memory-attention-networks](https://github.com/memory-attention-networks)
+
 # CTR Prediction
 
 **Deep CTR Prediction in Display Advertising**
@@ -1591,8 +2099,13 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 
 **Deep Interest Network for Click-Through Rate Prediction**
 
-- intro: Alibaba
+- intro: Alibaba Inc.
 - arxiv: [https://arxiv.org/abs/1706.06978](https://arxiv.org/abs/1706.06978)
+
+**Image Matters: Jointly Train Advertising CTR Model with Image Representation of Ad and User Behavior**
+
+- intro: Alibaba Inc.
+- arxiv: [https://arxiv.org/abs/1711.06505](https://arxiv.org/abs/1711.06505)
 
 # Cryptography
 
@@ -1611,6 +2124,11 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 
 - arxiv: [https://arxiv.org/abs/1701.04082](https://arxiv.org/abs/1701.04082)
 - github: [https://github.com/yu4u/dnn-watermark](https://github.com/yu4u/dnn-watermark)
+
+**Digital Watermarking for Deep Neural Networks**
+
+- intro: International Journal of Multimedia Information Retrieval
+- arxiv: [https://arxiv.org/abs/1802.02601](https://arxiv.org/abs/1802.02601)
 
 # Cyber Security
 
@@ -1643,6 +2161,11 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 - intro: BMVC 2017
 - arxiv: [https://arxiv.org/abs/1709.00443](https://arxiv.org/abs/1709.00443)
 
+**LCANet: End-to-End Lipreading with Cascaded Attention-CTC**
+
+- intro: FG 2018
+- arxiv: [https://arxiv.org/abs/1803.04988](https://arxiv.org/abs/1803.04988)
+
 # Event Recognition
 
 **Better Exploiting OS-CNNs for Better Event Recognition in Images**
@@ -1656,6 +2179,328 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 **IOD-CNN: Integrating Object Detection Networks for Event Recognition**
 
 [https://arxiv.org/abs/1703.07431](https://arxiv.org/abs/1703.07431)
+
+# Deep Learning in Finance
+
+**Deep Learning in Finance**
+
+- arxiv: [http://arxiv.org/abs/1602.06561](http://arxiv.org/abs/1602.06561)
+
+**A Survey of Deep Learning Techniques Applied to Trading**
+
+- blog: [http://gregharris.info/a-survey-of-deep-learning-techniques-applied-to-trading/](http://gregharris.info/a-survey-of-deep-learning-techniques-applied-to-trading/)
+
+**Deep Learning and Long-Term Investing**
+
+- part 1: [http://www.euclidean.com/deep-learning-long-term-investing-1](http://www.euclidean.com/deep-learning-long-term-investing-1)
+- part 2: [http://www.euclidean.com/deep-learning-investing-part-2-preprocessing-data](http://www.euclidean.com/deep-learning-investing-part-2-preprocessing-data)
+
+**Deep Learning in Trading**
+
+- youtube: [https://www.youtube.com/watch?v=FoQKCeDuPiY](https://www.youtube.com/watch?v=FoQKCeDuPiY)
+- mirror: [https://pan.baidu.com/s/1sltRra9](https://pan.baidu.com/s/1sltRra9)
+
+**Research to Products: Machine & Human Intelligence in Finance**
+
+- intro: Peter Sarlin, Hanken School of Economics - Deep Learning in Finance Summit 2016 #reworkfin
+- youtube: [https://www.youtube.com/watch?v=Fd7Cc-KOVXg](https://www.youtube.com/watch?v=Fd7Cc-KOVXg)
+- mirror: [https://pan.baidu.com/s/1kVpZKur#list/path=%2F](https://pan.baidu.com/s/1kVpZKur#list/path=%2F)
+
+**eep Neural Networks for Real-time Market Predictions**
+
+- youtube: [https://www.youtube.com/watch?v=Kzz2-wAEK7A](https://www.youtube.com/watch?v=Kzz2-wAEK7A)
+
+**Deep Learning the Stock Market**
+
+- blog: [https://medium.com/@TalPerry/deep-learning-the-stock-market-df853d139e02#.z752rf43u](https://medium.com/@TalPerry/deep-learning-the-stock-market-df853d139e02#.z752rf43u)
+- github: [https://github.com/talolard/MarketVectors](https://github.com/talolard/MarketVectors)
+
+**rl_portfolio**
+
+- intro: This Repository uses Reinforcement Learning and Supervised learning to Optimize portfolio allocation.
+- github: [https://github.com/deependersingla/deep_portfolio](https://github.com/deependersingla/deep_portfolio)
+
+**Neural networks for algorithmic trading. Multivariate time series**
+
+- blog: [https://medium.com/@alexrachnog/neural-networks-for-algorithmic-trading-2-1-multivariate-time-series-ab016ce70f57](https://medium.com/@alexrachnog/neural-networks-for-algorithmic-trading-2-1-multivariate-time-series-ab016ce70f57)
+- github: [https://github.com/Rachnog/Deep-Trading/tree/master/multivariate](https://github.com/Rachnog/Deep-Trading/tree/master/multivariate)
+
+**Deep-Trading: Algorithmic trading with deep learning experiments**
+
+[https://github.com/Rachnog/Deep-Trading](https://github.com/Rachnog/Deep-Trading)
+
+**Neural networks for algorithmic trading. Multimodal and multitask deep learning**
+
+- blog: [https://becominghuman.ai/neural-networks-for-algorithmic-trading-multimodal-and-multitask-deep-learning-5498e0098caf](https://becominghuman.ai/neural-networks-for-algorithmic-trading-multimodal-and-multitask-deep-learning-5498e0098caf)
+- github: [https://github.com/Rachnog/Deep-Trading/tree/master/multimodal](https://github.com/Rachnog/Deep-Trading/tree/master/multimodal)
+
+**Deep Learning with Python in Finance - Singapore Python User Group**
+
+- youtube: [https://www.youtube.com/watch?v=xvm-M-R2fZY](https://www.youtube.com/watch?v=xvm-M-R2fZY)
+
+**A Deep Reinforcement Learning Framework for the Financial Portfolio Management Problem**
+
+- intro: Xi’an Jiaotong-Liverpool University
+- keywords: PGPortfolio: Policy Gradient Portfolio
+- arxiv: [https://arxiv.org/abs/1706.10059](https://arxiv.org/abs/1706.10059)
+- github: [https://github.com//ZhengyaoJiang/PGPortfolio](https://github.com//ZhengyaoJiang/PGPortfolio)
+
+**Stock Prediction: a method based on extraction of news features and recurrent neural networks**
+
+- intro: Peking University. The 22nd China Conference on Information Retrieval
+- arxiv: [https://arxiv.org/abs/1707.07585](https://arxiv.org/abs/1707.07585)
+
+**Multidimensional LSTM Networks to Predict Bitcoin Price**
+
+- blog: [http://www.jakob-aungiers.com/articles/a/Multidimensional-LSTM-Networks-to-Predict-Bitcoin-Price](http://www.jakob-aungiers.com/articles/a/Multidimensional-LSTM-Networks-to-Predict-Bitcoin-Price)
+- github: [https://github.com/jaungiers/Multidimensional-LSTM-BitCoin-Time-Series](https://github.com/jaungiers/Multidimensional-LSTM-BitCoin-Time-Series)
+
+**Improving Factor-Based Quantitative Investing by Forecasting Company Fundamentals**
+
+- intro: Euclidean Technologies & Amazon AI
+- arxiv: [https://arxiv.org/abs/1711.04837](https://arxiv.org/abs/1711.04837)
+
+**Findings from our Research on Applying Deep Learning to Long-Term Investing**
+
+[http://www.euclidean.com/paper-on-deep-learning-long-term-investing](http://www.euclidean.com/paper-on-deep-learning-long-term-investing)
+
+**Predicting Cryptocurrency Prices With Deep Learning**
+
+- intro: This post brings together cryptos and deep learning in a desperate attempt for Reddit popularity
+- blog: [https://dashee87.github.io/deep%20learning/python/predicting-cryptocurrency-prices-with-deep-learning/](https://dashee87.github.io/deep%20learning/python/predicting-cryptocurrency-prices-with-deep-learning/)
+
+**Deep Trading Agent**
+
+- intro: Deep Reinforcement Learning based Trading Agent for Bitcoin
+- arxiv: [https://github.com/samre12/deep-trading-agent](https://github.com/samre12/deep-trading-agent)
+
+# Deep Learning in Speech
+
+**Deep Speech 2: End-to-End Speech Recognition in English and Mandarin**
+
+- intro: Baidu Research, ICML 2016
+- arxiv: [https://arxiv.org/abs/1512.02595](https://arxiv.org/abs/1512.02595)
+- github(Neon): [https://github.com/NervanaSystems/deepspeech](https://github.com/NervanaSystems/deepspeech)
+
+**End-to-end speech recognition with neon**
+
+- blog: [https://www.nervanasys.com/end-end-speech-recognition-neon/](https://www.nervanasys.com/end-end-speech-recognition-neon/)
+
+## WaveNet
+
+**WaveNet: A Generative Model for Raw Audio**
+
+- homepage: [https://deepmind.com/blog/wavenet-generative-model-raw-audio/](https://deepmind.com/blog/wavenet-generative-model-raw-audio/)
+- paper: [https://drive.google.com/file/d/0B3cxcnOkPx9AeWpLVXhkTDJINDQ/view](https://drive.google.com/file/d/0B3cxcnOkPx9AeWpLVXhkTDJINDQ/view)
+- mirror: [https://pan.baidu.com/s/1gfmGWaJ](https://pan.baidu.com/s/1gfmGWaJ)
+- github: [https://github.com/usernaamee/keras-wavenet](https://github.com/usernaamee/keras-wavenet)
+- github: [https://github.com/ibab/tensorflow-wavenet](https://github.com/ibab/tensorflow-wavenet)
+- github: [https://github.com/monthly-hack/chainer-wavenet](https://github.com/monthly-hack/chainer-wavenet)
+- github: [https://github.com/huyouare/WaveNet-Theano](https://github.com/huyouare/WaveNet-Theano)
+- github(Keras): [https://github.com/basveeling/wavenet](https://github.com/basveeling/wavenet)
+- github: [https://github.com/ritheshkumar95/WaveNet](https://github.com/ritheshkumar95/WaveNet)
+
+**A TensorFlow implementation of DeepMind's WaveNet paper for text generation.**
+
+- github: [https://github.com/Zeta36/tensorflow-tex-wavenet](https://github.com/Zeta36/tensorflow-tex-wavenet)
+
+**Fast Wavenet Generation Algorithm**
+
+- intro: An efficient Wavenet generation implementation
+- arxiv: [https://arxiv.org/abs/1611.09482](https://arxiv.org/abs/1611.09482)
+- github [https://github.com/tomlepaine/fast-wavenet](https://github.com/tomlepaine/fast-wavenet)
+
+**Speech-to-Text-WaveNet : End-to-end sentence level English speech recognition based on DeepMind's WaveNet and tensorflow**
+
+- github: [https://github.com/buriburisuri/speech-to-text-wavenet](https://github.com/buriburisuri/speech-to-text-wavenet)
+
+**Wav2Letter: an End-to-End ConvNet-based Speech Recognition System**
+
+- arxiv: [http://arxiv.org/abs/1609.03193](http://arxiv.org/abs/1609.03193)
+
+**TristouNet: Triplet Loss for Speaker Turn Embedding**
+
+- arxiv: [https://arxiv.org/abs/1609.04301](https://arxiv.org/abs/1609.04301)
+- github: [https://github.com/hbredin/TristouNet](https://github.com/hbredin/TristouNet)
+
+**Speech Recognion and Deep Learning**
+
+- intro: Baidu Research Silicon Valley AI Lab
+- slides: [http://cs.stanford.edu/~acoates/ba_dls_speech2016.pdf](http://cs.stanford.edu/~acoates/ba_dls_speech2016.pdf)
+- mirror: [https://pan.baidu.com/s/1qYrPkPQ](https://pan.baidu.com/s/1qYrPkPQ)
+- github: [https://github.com/baidu-research/ba-dls-deepspeech](https://github.com/baidu-research/ba-dls-deepspeech)
+
+**Robust end-to-end deep audiovisual speech recognition**
+
+- intro: CMU
+- github: [https://arxiv.org/abs/1611.06986](https://arxiv.org/abs/1611.06986)
+
+**An Experimental Comparison of Deep Neural Networks for End-to-end Speech Recognition**
+
+- arxiv: [https://arxiv.org/abs/1611.07174](https://arxiv.org/abs/1611.07174)
+
+**Recurrent Deep Stacking Networks for Speech Recognition**
+
+- intro: The Ohio State University
+- arxiv: [https://arxiv.org/abs/1612.04675](https://arxiv.org/abs/1612.04675)
+
+**Towards End-to-End Speech Recognition with Deep Convolutional Neural Networks**
+
+- intro: Universite de Montreal & CIFAR
+- arxiv: [https://arxiv.org/abs/1701.02720](https://arxiv.org/abs/1701.02720)
+
+# Deep Learning for Sound / Music
+
+## Sound
+
+**Suggesting Sounds for Images from Video Collections**
+
+- intro: ETH Zurich & 2Disney Research
+- paper: [https://s3-us-west-1.amazonaws.com/disneyresearch/wp-content/uploads/20161014182443/Suggesting-Sounds-for-Images-from-Video-Collections-Paper.pdf](https://s3-us-west-1.amazonaws.com/disneyresearch/wp-content/uploads/20161014182443/Suggesting-Sounds-for-Images-from-Video-Collections-Paper.pdf)
+
+**Disney AI System Associates Images with Sounds**
+
+- blog: [https://news.developer.nvidia.com/disneys-ai-system-associates-images-with-sounds/](https://news.developer.nvidia.com/disneys-ai-system-associates-images-with-sounds/)
+
+**Convolutional Recurrent Neural Networks for Bird Audio Detection**
+
+[https://arxiv.org/abs/1703.02317](https://arxiv.org/abs/1703.02317)
+
+**Visual to Sound: Generating Natural Sound for Videos in the Wild**
+
+- project page: [http://bvision11.cs.unc.edu/bigpen/yipin/visual2sound_webpage/visual2sound.html](http://bvision11.cs.unc.edu/bigpen/yipin/visual2sound_webpage/visual2sound.html)
+- arxiv: [https://arxiv.org/abs/1712.01393](https://arxiv.org/abs/1712.01393)
+
+## Music
+
+**Learning Features of Music from Scratch**
+
+- intro: University of Washington. MusicNet
+- project page: [http://homes.cs.washington.edu/~thickstn/musicnet.html](http://homes.cs.washington.edu/~thickstn/musicnet.html)
+- arxiv: [https://arxiv.org/abs/1611.09827](https://arxiv.org/abs/1611.09827)
+- demo: [http://homes.cs.washington.edu/~thickstn/demos.html](http://homes.cs.washington.edu/~thickstn/demos.html)
+
+**DeepBach: a Steerable Model for Bach chorales generation**
+
+- project page: [http://www.flow-machines.com/deepbach-steerable-model-bach-chorales-generation/](http://www.flow-machines.com/deepbach-steerable-model-bach-chorales-generation/)
+- arxiv: [https://arxiv.org/abs/1612.01010](https://arxiv.org/abs/1612.01010)
+- github: [https://github.com/SonyCSL-Paris/DeepBach](https://github.com/SonyCSL-Paris/DeepBach)
+- youtube: [https://www.youtube.com/watch?v=QiBM7-5hA6o](https://www.youtube.com/watch?v=QiBM7-5hA6o)
+
+**Deep Learning for Music**
+
+- blog: [https://amundtveit.com/2016/11/22/deep-learning-for-music/](https://amundtveit.com/2016/11/22/deep-learning-for-music/)
+
+**First International Workshop on Deep Learning and Music**
+
+[https://arxiv.org/html/1706.08675](https://arxiv.org/html/1706.08675)
+
+# Deep Learning in Medicine and Biology
+
+**Low Data Drug Discovery with One-shot Learning**
+
+- intro: MIT & Stanford University
+- arxiv: [https://arxiv.org/abs/1611.03199](https://arxiv.org/abs/1611.03199)
+- homepage: [http://deepchem.io/](http://deepchem.io/)
+- github: [https://github.com/deepchem/deepchem](https://github.com/deepchem/deepchem)
+
+**Democratizing Drug Discovery with DeepChem**
+
+- youtube: [https://www.youtube.com/watch?v=sntikyFI8s8](https://www.youtube.com/watch?v=sntikyFI8s8)
+
+**Introduction to Deep Learning in Medicine and Biology**
+
+- blog: [http://a12d.com/deep-learning-biomedicine](http://a12d.com/deep-learning-biomedicine)
+
+**Deep Learning for Alzheimer Diagnostics and Decision Support**
+
+[https://amundtveit.com/2016/11/18/deep-learning-for-alzheimer-diagnostics-and-decision-support/](https://amundtveit.com/2016/11/18/deep-learning-for-alzheimer-diagnostics-and-decision-support/)
+
+**DeepCancer: Detecting Cancer through Gene Expressions via Deep Generative Learning**
+
+- intro: University of Florida
+- arxiv: [https://arxiv.org/abs/1612.03211](https://arxiv.org/abs/1612.03211)
+
+**Towards biologically plausible deep learning**
+
+- intro: Yoshua	Bengio, NIPS’2016 Workshops
+- slides: [http://www.iro.umontreal.ca/~bengioy/talks/Brains+Bits-NIPS2016Workshop.pptx.pdf](http://www.iro.umontreal.ca/~bengioy/talks/Brains+Bits-NIPS2016Workshop.pptx.pdf)
+
+**Deep Learning and Its Applications to Machine Health Monitoring: A Survey**
+
+- arxiv: [https://arxiv.org/abs/1612.07640](https://arxiv.org/abs/1612.07640)
+
+**Generating Focussed Molecule Libraries for Drug Discovery with Recurrent Neural Networks**
+
+- arxiv: [https://arxiv.org/abs/1701.01329](https://arxiv.org/abs/1701.01329)
+
+**Deep Learning Applications in Medical Imaging**
+
+- blog: [http://techemergence.com/deep-learning-medical-applications/](http://techemergence.com/deep-learning-medical-applications/)
+
+**Dermatologist-level classification of skin cancer with deep neural networks**
+
+- intro: Stanford University. Nature 2017
+- paper: [http://www.nature.com/nature/journal/vaop/ncurrent/pdf/nature21056.pdf](http://www.nature.com/nature/journal/vaop/ncurrent/pdf/nature21056.pdf)
+
+**Deep Learning for Health Informatics**
+
+- intro: Imperial College London
+- paper: [http://ieeexplore.ieee.org/abstract/document/7801947/](http://ieeexplore.ieee.org/abstract/document/7801947/)
+
+# Deep Learning for Fashion
+
+**Convolutional Neural Networks for Fashion Classification and Object Detection**
+
+- intro: CS231N project
+- paper: [http://cs231n.stanford.edu/reports/BLAO_KJAG_CS231N_FinalPaperFashionClassification.pdf](http://cs231n.stanford.edu/reports/BLAO_KJAG_CS231N_FinalPaperFashionClassification.pdf)
+
+**DeepFashion: Powering Robust Clothes Recognition and Retrieval with Rich Annotations**
+
+- intro: CVPR 2016
+- project page: [http://personal.ie.cuhk.edu.hk/~lz013/projects/DeepFashion.html](http://personal.ie.cuhk.edu.hk/~lz013/projects/DeepFashion.html)
+- paper: [http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Liu_DeepFashion_Powering_Robust_CVPR_2016_paper.pdf](http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Liu_DeepFashion_Powering_Robust_CVPR_2016_paper.pdf)
+
+**Deep Learning for Fast and Accurate Fashion Item Detection**
+
+- keywords:  MultiBox and Fast R-CNN, Kuznech-Fashion-156 and Kuznech-Fashion-205 fashion item detection datasets
+- paper: [https://kddfashion2016.mybluemix.net/kddfashion_finalSubmissions/Deep%20Learning%20for%20Fast%20and%20Accurate%20Fashion%20Item%20Detection.pdf](https://kddfashion2016.mybluemix.net/kddfashion_finalSubmissions/Deep%20Learning%20for%20Fast%20and%20Accurate%20Fashion%20Item%20Detection.pdf)
+
+**Deep Learning at GILT**
+
+- keywords: automated tagging, automatic dress faceting
+- blog: [http://tech.gilt.com/machine/learning,/deep/learning/2016/12/22/deep-learning-at-gilt](http://tech.gilt.com/machine/learning,/deep/learning/2016/12/22/deep-learning-at-gilt)
+
+**Working with Fashion Models**
+
+- blog: [https://making.lyst.com/2017/02/21/working-with-fashion-models/](https://making.lyst.com/2017/02/21/working-with-fashion-models/)
+- youtube: [https://www.youtube.com/watch?v=emr2qaCQOQs](https://www.youtube.com/watch?v=emr2qaCQOQs)
+
+**Fashion Forward: Forecasting Visual Style in Fashion**
+
+- intro: Karlsruhe Institute of Technology & The University of Texas at Austin
+- arxiv: [https://arxiv.org/abs/1705.06394](https://arxiv.org/abs/1705.06394)
+
+**StreetStyle: Exploring world-wide clothing styles from millions of photos**
+
+- homepage: [http://streetstyle.cs.cornell.edu/](http://streetstyle.cs.cornell.edu/)
+- arxiv: [https://arxiv.org/abs/1706.01869](https://arxiv.org/abs/1706.01869)
+- demo: [http://streetstyle.cs.cornell.edu/trends.html](http://streetstyle.cs.cornell.edu/trends.html)
+
+**Fashioning with Networks: Neural Style Transfer to Design Clothes**
+
+- intro: ML4Fashion 2017
+- arxiv: [https://arxiv.org/abs/1707.09899](https://arxiv.org/abs/1707.09899)
+
+**Deep Learning Our Way Through Fashion Week**
+
+[https://inside.edited.com/deep-learning-our-way-through-fashion-week-ea55bf50bab8](https://inside.edited.com/deep-learning-our-way-through-fashion-week-ea55bf50bab8)
+
+**Be Your Own Prada: Fashion Synthesis with Structural Coherence**
+
+- intro: ICCV 2017
+- paper: [http://openaccess.thecvf.com/content_ICCV_2017/papers/Zhu_Be_Your_Own_ICCV_2017_paper.pdf](http://openaccess.thecvf.com/content_ICCV_2017/papers/Zhu_Be_Your_Own_ICCV_2017_paper.pdf)
+- github: [https://github.com/zhusz/ICCV17-fashionGAN](https://github.com/zhusz/ICCV17-fashionGAN)
 
 # Others
 

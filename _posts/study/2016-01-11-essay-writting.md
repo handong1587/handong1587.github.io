@@ -15,7 +15,7 @@ date: 2016-01-11
 
 **Style Lessons in Clarity and Grace (11th Edition)**
 
-[vdisk.weibo.com/s/s-TpzthLh7lDO](vdisk.weibo.com/s/s-TpzthLh7lDO)
+[https://pan.baidu.com/s/1i5xlAfV](https://pan.baidu.com/s/1i5xlAfV)
 
 **Style: Toward Clarity and Grace**
 
@@ -31,3 +31,8 @@ date: 2016-01-11
 **The Most Common Habits from more than 200 English Papers written by Graduate Chinese Engineering Students**
 
 - paper: [https://pan.baidu.com/s/1hrIwQOW](https://pan.baidu.com/s/1hrIwQOW)
+
+**Essay Writting Resource Guide**
+
+- intro: A comprehensive guide for students, teachers and writers
+- blog: [http://www.supersummary.com/essay-writing-guide/](http://www.supersummary.com/essay-writing-guide/)

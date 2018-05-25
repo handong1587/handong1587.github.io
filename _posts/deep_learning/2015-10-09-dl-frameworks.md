@@ -466,6 +466,11 @@ It is an experimental refactoring of Caffe, and allows a more flexible way to or
 
 - github: [https://github.com/pppoe/WhatsThis-iOS](https://github.com/pppoe/WhatsThis-iOS)
 
+**MXNET-MPI: Embedding MPI parallelism in Parameter Server Task Model for scaling Deep Learning**
+
+- intro: IBM T J Watson Research Center
+- arxiv: [https://arxiv.org/abs/1801.03855](https://arxiv.org/abs/1801.03855)
+
 # ncnn
 
 - intro: ncnn is a high-performance neural network inference framework optimized for the mobile platform
@@ -539,6 +544,13 @@ It is an experimental refactoring of Caffe, and allows a more flexible way to or
 - website: [http://petuum.github.io/](http://petuum.github.io/)
 - github: [https://github.com/petuum/bosen](https://github.com/petuum/bosen)
 
+# PlaidML
+
+**PlaidML: A framework for making deep learning work everywhere**
+
+- homepage: [http://vertex.ai/](http://vertex.ai/)
+- github: [https://github.com/plaidml/plaidml](https://github.com/plaidml/plaidml)
+
 # Platoon
 
 **Platoon: Multi-GPU mini-framework for Theano**
@@ -565,7 +577,7 @@ It is an experimental refactoring of Caffe, and allows a more flexible way to or
 
 - github: [https://github.com/pytorch/pytorch](https://github.com/pytorch/pytorch)
 
-***Datasets, Transforms and Models specific to Computer Vision**
+**Datasets, Transforms and Models specific to Computer Vision**
 
 [https://github.com/pytorch/vision/](https://github.com/pytorch/vision/)
 
@@ -660,6 +672,10 @@ It is an experimental refactoring of Caffe, and allows a more flexible way to or
 **TensorFlow: A system for large-scale machine learning**
 
 - arxiv: [http://arxiv.org/abs/1605.08695](http://arxiv.org/abs/1605.08695)
+
+**TensorFlow Distributions**
+
+[https://arxiv.org/abs/1711.10604](https://arxiv.org/abs/1711.10604)
 
 ## Tutorials
 
@@ -805,7 +821,13 @@ It is suitable for deep learning on limited computational resource, embedded sys
 
 # Benchmarks
 
+**Easy benchmarking of all publicly accessible implementations of convnets**
+
 [https://github.com/soumith/convnet-benchmarks](https://github.com/soumith/convnet-benchmarks)
+
+**Stanford DAWN Deep Learning Benchmark (DAWNBench) - An End-to-End Deep Learning Benchmark and Competition**
+
+[http://dawn.cs.stanford.edu/benchmark/index.html](http://dawn.cs.stanford.edu/benchmark/index.html)
 
 # Tutorials
 
@@ -837,6 +859,10 @@ It is suitable for deep learning on limited computational resource, embedded sys
 **DeepRosetta: An universal deep learning models conversor**
 
 - github: [https://github.com/edgarriba/DeepRosetta](https://github.com/edgarriba/DeepRosetta)
+
+**Deep Learning Model Convertors**
+
+[https://github.com/ysh329/deep-learning-model-convertor](https://github.com/ysh329/deep-learning-model-convertor)
 
 # References
 

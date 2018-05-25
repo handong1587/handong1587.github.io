@@ -15,6 +15,11 @@ date: 2015-10-09
 
 # Papers
 
+**Collaborative Deep Learning for Recommender Systems**
+
+- arxiv: [https://arxiv.org/abs/1409.2944](https://arxiv.org/abs/1409.2944)
+- paper: [http://www.wanghao.in/paper/KDD15_CDL.pdf](http://www.wanghao.in/paper/KDD15_CDL.pdf)
+
 **Image-based recommendations on styles and substitutes**
 
 - paper: [http://cseweb.ucsd.edu/~jmcauley/pdfs/sigir15.pdf](http://cseweb.ucsd.edu/~jmcauley/pdfs/sigir15.pdf)
@@ -125,6 +130,21 @@ date: 2015-10-09
 
 - arxiv: [https://arxiv.org/abs/1708.01715](https://arxiv.org/abs/1708.01715)
 - github: [https://github.com/NVIDIA/DeepRecommender](https://github.com/NVIDIA/DeepRecommender)
+
+**Deep Collaborative Autoencoder for Recommender Systems: A Unified Framework for Explicit and Implicit Feedback**
+
+- intro: Zhejiang University
+- arxiv: [https://arxiv.org/abs/1712.09043](https://arxiv.org/abs/1712.09043)
+
+**Deep Reinforcement Learning for List-wise Recommendations**
+
+- intro: Michigan State University & Data Science Lab
+- arxiv: [https://arxiv.org/abs/1801.00209](https://arxiv.org/abs/1801.00209)
+
+**Recommendations with Negative Feedback via Pairwise Deep Reinforcement Learning**
+
+- intro: Michigan State University & JD.com
+- arxiv: [https://arxiv.org/abs/1802.06501](https://arxiv.org/abs/1802.06501)
 
 # Slides
 

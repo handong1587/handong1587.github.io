@@ -135,6 +135,11 @@ date: 2015-10-09
 - homepage: [http://cogprints.org/5869/](http://cogprints.org/5869/)
 - paper: [http://cogprints.org/5869/1/cnn_tutorial.pdf](http://cogprints.org/5869/1/cnn_tutorial.pdf)
 
+**Feed Forward and Backward Run in Deep Convolution Neural Network**
+
+- intro: 20th International Conference on Computer Vision and Image Processing
+- arxiv: [https://arxiv.org/abs/1711.03278](https://arxiv.org/abs/1711.03278)
+
 **Convolutional Networks**
 
 [http://deeplearning4j.org/convolutionalnets.html](http://deeplearning4j.org/convolutionalnets.html)
@@ -543,6 +548,23 @@ Machine learning workflow, Extracting feaures from images (colours, edges, corne
 
 [https://github.com/Alfredvc/cnn_workshop](https://github.com/Alfredvc/cnn_workshop)
 
+**Exploring Optimizers**
+
+[https://github.com//KeremTurgutlu/deeplearning/blob/master/Exploring%20Optimizers.ipynb](https://github.com//KeremTurgutlu/deeplearning/blob/master/Exploring%20Optimizers.ipynb)
+
+**A Gentle Introduction to Exploding Gradients in Neural Networks**
+
+[https://machinelearningmastery.com/exploding-gradients-in-neural-networks/](https://machinelearningmastery.com/exploding-gradients-in-neural-networks/)
+
+**Only Numpy: (Why I do Manual Back Propagation) Implementing Multi Channel/Layer Convolution Neural Network on Numpy with Interactive Code**
+
+[https://medium.com/swlh/only-numpy-why-i-do-manual-back-propagation-implementing-multi-channel-layer-convolution-neural-7d83242fcc24](https://medium.com/swlh/only-numpy-why-i-do-manual-back-propagation-implementing-multi-channel-layer-convolution-neural-7d83242fcc24)
+
+**92.45% on CIFAR-10 in Torch**
+
+- intro: Dropout after Convolution
+- blog: [http://torch.ch/blog/2015/07/30/cifar.html](http://torch.ch/blog/2015/07/30/cifar.html)
+
 # Convolution
 
 **Understanding Convolutions**
@@ -699,6 +721,16 @@ Machine learning workflow, Extracting feaures from images (colours, edges, corne
 - intro: M. Malinowski. Max Planck Institut Informatik
 - slides: [http://download.mpi-inf.mpg.de/d2/mmalinow-slides/attention_networks.pdf](http://download.mpi-inf.mpg.de/d2/mmalinow-slides/attention_networks.pdf)
 
+**Attention in Neural Networks and How to Use It**
+
+[http://akosiorek.github.io/ml/2017/10/14/visual-attention.html](http://akosiorek.github.io/ml/2017/10/14/visual-attention.html)
+
+# Softmax
+
+**Hierarchical softmax and negative sampling: short notes worth telling**
+
+[https://towardsdatascience.com/hierarchical-softmax-and-negative-sampling-short-notes-worth-telling-2672010dbe08](https://towardsdatascience.com/hierarchical-softmax-and-negative-sampling-short-notes-worth-telling-2672010dbe08)
+
 # Caffe
 
 **DIY Deep Learning for Vision:  a Hands-On Tutorial with Caffe**
@@ -750,6 +782,10 @@ Machine learning workflow, Extracting feaures from images (colours, edges, corne
 **10 Deep Learning projects based on Apache MXNet**
 
 [https://medium.com/@julsimon/10-deep-learning-projects-based-on-apache-mxnet-8231109f3f64](https://medium.com/@julsimon/10-deep-learning-projects-based-on-apache-mxnet-8231109f3f64)
+
+**Awesome MXNet(Beta)**
+
+[https://github.com/chinakook/Awesome-MXNet](https://github.com/chinakook/Awesome-MXNet)
 
 ## TVM
 
@@ -961,6 +997,10 @@ Implementations and ideas are largely based on papers from arxiv and implementat
 
 [https://github.com/aditya101993/Deep-Learning](https://github.com/aditya101993/Deep-Learning)
 
+**How To Write Your Own Tensorflow in C++**
+
+[https://oneraynyday.github.io/ml/2017/10/20/Tensorflow-C++/](https://oneraynyday.github.io/ml/2017/10/20/Tensorflow-C++/)
+
 ## Tensorflow on Android
 
 **A Guide to Running Tensorflow Models on Android**
@@ -1039,3 +1079,12 @@ Implementations and ideas are largely based on papers from arxiv and implementat
 **Convolutional Neural Network for Traffic Sign Classification — CarND**
 
 - blog: [https://medium.com/@gruby/convolutional-neural-network-for-traffic-sign-classification-carnd-e46e95453899#.lfutfs21v](https://medium.com/@gruby/convolutional-neural-network-for-traffic-sign-classification-carnd-e46e95453899#.lfutfs21v)
+
+# Talks
+
+**A Tour of Deep Learning With C++**
+
+- intro: CppCon 2017, Peter Goldsborough
+- youtube: [https://www.youtube.com/watch?v=9-1lcss0NMg](https://www.youtube.com/watch?v=9-1lcss0NMg)
+- bilibili: [https://www.bilibili.com/video/av20675156/](https://www.bilibili.com/video/av20675156/)
+

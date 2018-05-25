@@ -139,6 +139,10 @@ Other awesome lists can be found in this [list](https://github.com/sindresorhus/
 - intro: Gradient Boosting powered by GPU(NVIDIA CUDA)
 - github: [https://github.com/sh1ng/arboretum](https://github.com/sh1ng/arboretum)
 
+**Gradient Boosting from scratch**
+
+[https://medium.com/mlreview/gradient-boosting-from-scratch-1e317ae4587d](https://medium.com/mlreview/gradient-boosting-from-scratch-1e317ae4587d)
+
 ## XGBoost
 
 **XGBoost: A Scalable Tree Boosting System**
@@ -164,6 +168,16 @@ for Python, R, Java, Scala, C++ and more. Runs on single machine, Hadoop, Spark,
 
 - blog: [https://www.analyticsvidhya.com/blog/2016/03/complete-guide-parameter-tuning-xgboost-with-codes-python/](https://www.analyticsvidhya.com/blog/2016/03/complete-guide-parameter-tuning-xgboost-with-codes-python/)
 - zh-blog: [http://blog.csdn.net/u010657489/article/details/51952785](http://blog.csdn.net/u010657489/article/details/51952785)
+
+**LinXGBoost: Extension of XGBoost to Generalized Local Linear Models**
+
+- arxiv: [https://arxiv.org/abs/1710.03634](https://arxiv.org/abs/1710.03634)
+- github: [https://github.com/ldv1/LinXGBoost](https://github.com/ldv1/LinXGBoost)
+
+**Tree Boosting With XGBoost - Why Does XGBoost Win "Every" Machine Learning Competition?**
+
+- intro: Master thesis
+- thesis page: [https://brage.bibsys.no/xmlui/handle/11250/2433761](https://brage.bibsys.no/xmlui/handle/11250/2433761)
 
 ## LightGBM
 
@@ -192,6 +206,14 @@ based on decision tree algorithms, used for ranking, classification and many oth
 
 - intro: XGBoost and LightGBM
 - blog: [https://blogs.technet.microsoft.com/machinelearning/2017/07/25/lessons-learned-benchmarking-fast-machine-learning-algorithms/](https://blogs.technet.microsoft.com/machinelearning/2017/07/25/lessons-learned-benchmarking-fast-machine-learning-algorithms/)
+
+## CatBoost
+
+**CatBoost is an open-source gradient boosting library with categorical features support**
+
+- intro: CatBoost is a machine learning method based on gradient boosting over decision trees.
+- homepage: [https://catboost.yandex/](https://catboost.yandex/)
+- github: [https://github.com/catboost/catboost](https://github.com/catboost/catboost)
 
 # Bootstrap
 
@@ -245,6 +267,16 @@ based on decision tree algorithms, used for ranking, classification and many oth
 ![](https://annalyzin.files.wordpress.com/2016/07/decision-tree-tutorial-animated3.gif?w=636&h=312&crop=1)
 
 - blog: [https://algobeans.com/2016/07/27/decision-trees-tutorial/](https://algobeans.com/2016/07/27/decision-trees-tutorial/)
+
+**End-to-end Learning of Deterministic Decision Trees**
+
+- intro: Heidelberg University
+- arxiv: [https://arxiv.org/abs/1712.02743](https://arxiv.org/abs/1712.02743)
+
+**Extremely Fast Decision Tree**
+
+- arxiv: [https://arxiv.org/abs/1802.08780](https://arxiv.org/abs/1802.08780)
+- github: [https://github.com/chaitanya-m/kdd2018](https://github.com/chaitanya-m/kdd2018)
 
 # Generative Models
 
@@ -668,6 +700,12 @@ Classic strategies:
 - arxiv: [http://arxiv.org/abs/1606.04080](http://arxiv.org/abs/1606.04080)
 - github: [https://github.com/zergylord/oneshot](https://github.com/zergylord/oneshot)
 
+# Maximum Entropy
+
+**Maximum entropy probability distribution**
+
+[https://www.wikiwand.com/en/Maximum_entropy_probability_distribution](https://www.wikiwand.com/en/Maximum_entropy_probability_distribution)
+
 # Metric Learning
 
 **Distance Metric Learning: A Comprehensive Survey**
@@ -679,6 +717,11 @@ Classic strategies:
 
 - intro: CVPR 2012. KISSME
 - paper: [http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.384.2335&rep=rep1&type=pdf](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.384.2335&rep=rep1&type=pdf)
+
+**Large Scale Strongly Supervised Ensemble Metric Learning, with Applications to Face Verification and Retrieval**
+
+- intro: NEC Laboratories America
+- arxiv: [https://arxiv.org/abs/1212.6094](https://arxiv.org/abs/1212.6094)
 
 # Finance and Trading
 
@@ -721,6 +764,52 @@ Classic strategies:
 **Designing an Algorithmic Trading Strategy with Python**
 
 [https://www.youtube.com/watch?v=9XYjR6ge73M](https://www.youtube.com/watch?v=9XYjR6ge73M)
+
+# Different Interpretation about Same Model
+
+**Dropout as a Bayesian Approximation: Representing Model Uncertainty in Deep Learning**
+
+- intro: ICML 2016
+- arxiv: [https://arxiv.org/abs/1506.02142](https://arxiv.org/abs/1506.02142)
+
+**Dropout as a Bayesian Approximation: Insights and Applications**
+
+[http://mlg.eng.cam.ac.uk/yarin/PDFs/Dropout_as_a_Bayesian_approximation.pdf](http://mlg.eng.cam.ac.uk/yarin/PDFs/Dropout_as_a_Bayesian_approximation.pdf)
+
+**k-Means Clustering Is Matrix Factorization**
+
+[https://arxiv.org/abs/1512.07548](https://arxiv.org/abs/1512.07548)
+
+word embedding as matrix factorization
+
+**Neural Word Embedding as Implicit Matrix Factorization**
+
+[https://levyomer.files.wordpress.com/2014/09/neural-word-embeddings-as-implicit-matrix-factorization.pdf](https://levyomer.files.wordpress.com/2014/09/neural-word-embeddings-as-implicit-matrix-factorization.pdf)
+
+**Deformable Part Models are Convolutional Neural Networks**
+
+- intro: CVPR 2015
+- arxiv: [https://arxiv.org/abs/1409.5403](https://arxiv.org/abs/1409.5403)
+- paper: [http://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Girshick_Deformable_Part_Models_2015_CVPR_paper.pdf](http://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Girshick_Deformable_Part_Models_2015_CVPR_paper.pdf)
+
+**k-Means is a Variational EM Approximation of Gaussian Mixture Models**
+
+[https://arxiv.org/abs/1704.04812](https://arxiv.org/abs/1704.04812)
+
+**Steepest descent with momentum for quadratic functions is a version of the conjugate gradient method**
+
+[http://www.sciencedirect.com/science/article/pii/S0893608003001709](http://www.sciencedirect.com/science/article/pii/S0893608003001709)
+
+**On the momentum term in gradient descent learning algorithms**
+
+[http://www.sciencedirect.com/science/article/pii/S0893608098001166?np=y&npKey=142c3bf066ad1c36c5b4fd8713d0a8967413462675bae2f8d7b89933fa8cf228](http://www.sciencedirect.com/science/article/pii/S0893608098001166?np=y&npKey=142c3bf066ad1c36c5b4fd8713d0a8967413462675bae2f8d7b89933fa8cf228)
+
+EM as a coordinate descent
+
+**Backprop as Functor: A compositional perspective on supervised learning**
+
+- intro: MIT
+- arxiv: [https://arxiv.org/abs/1711.10455](https://arxiv.org/abs/1711.10455)
 
 # Papers
 
@@ -938,6 +1027,10 @@ AUC: Area Under the Curve
 
 - blog: [http://www.win-vector.com/blog/2016/10/on-calculating-auc/](http://www.win-vector.com/blog/2016/10/on-calculating-auc/)
 
+**ROC to precision-recall curve translator**
+
+[https://rafalab.shinyapps.io/roc-precision-recall/](https://rafalab.shinyapps.io/roc-precision-recall/)
+
 ## t-SNE
 
 **How to Use t-SNE Effectively**
@@ -945,7 +1038,7 @@ AUC: Area Under the Curve
 - blog: [http://distill.pub/2016/misread-tsne/](http://distill.pub/2016/misread-tsne/)
 - github: [https://github.com/distillpub/post--misread-tsne](https://github.com/distillpub/post--misread-tsne)
 
-# Machine Learning Library
+# Libraries
 
 **LambdaNet: Purely functional artificial neural network library implemented in Haskell**
 
@@ -1068,6 +1161,16 @@ for creating complex software in C++ to solve real world problems.
 - github: [https://github.com/php-ai/php-ml-examples](https://github.com/php-ai/php-ml-examples)
 - docs: [http://php-ml.readthedocs.io/en/latest/](http://php-ml.readthedocs.io/en/latest/)
 
+**ml.js - Machine learning tools in JavaScript**
+
+[https://github.com/mljs/ml](https://github.com/mljs/ml)
+
+**Propel**
+
+- intro: A Machine Learning Framework for JavaScript / Differential Programming in JavaScript
+- homepage: [http://propelml.org/](http://propelml.org/)
+- github: [https://github.com/propelml/propel](https://github.com/propelml/propel)
+
 # Resources
 
 **Machine Learning Surveys: A list of literature surveys, reviews, and tutorials on Machine Learning and related topics**
@@ -1085,6 +1188,10 @@ for creating complex software in C++ to solve real world problems.
 **A Huge List of Machine Learning And Statistics Repositories**
 
 [http://blog.josephmisiti.com/a-huge-list-of-machine-learning-repositories/](http://blog.josephmisiti.com/a-huge-list-of-machine-learning-repositories/)
+
+**Machine Learning in Python Course**
+
+[https://www.springboard.com/learning-paths/machine-learning-python/](https://www.springboard.com/learning-paths/machine-learning-python/)
 
 **机器学习(Machine Learning)&深度学习(Deep Learning)资料(Chapter 1)**
 
@@ -1149,8 +1256,6 @@ for creating complex software in C++ to solve real world problems.
 **The most shared Machine Learning conten on Twitter from the past 7 days**
 
 - Based on the millions of #machinelearning tweets already processed by [The Herd Locker](http://theherdlocker.com/tweet/popularity/machinelearning), noise is a little over 94% of the conversation. Tracking the 8,000 daily tweets that are tagged #machineLearning, the platform filters and ranks the most popular shared content in realtime. Machine learning’s zeitgeist, you might say. It's been running for over a year, monitoring half a billion tweets a day, and will always be free to use. No ads. No BS. [http://theherdlocker.com/tweet/popularity/machinelearning](http://theherdlocker.com/tweet/popularity/machinelearning)
-
-
 
 # Projects
 

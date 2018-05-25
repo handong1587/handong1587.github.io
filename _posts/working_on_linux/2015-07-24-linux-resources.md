@@ -14,6 +14,12 @@ date: 2015-07-24
 
 # Tools
 
+**Proxyee-down**
+
+- intro: 一款支持Win/Mac/Linux的百度云文件下载工具
+- github: [https://github.com/monkeyWie/proxyee-down](https://github.com/monkeyWie/proxyee-down)
+- download: [http://pan.lanzou.com/b203390/](http://pan.lanzou.com/b203390/)
+
 ## You-Get
 
 **You-Get: Dumb downloader that scrapes the web**

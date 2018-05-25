@@ -21,22 +21,6 @@ date: 2015-10-09
 - code(Caffe): [https://dl.dropboxusercontent.com/u/6448899/caffe.zip](https://dl.dropboxusercontent.com/u/6448899/caffe.zip)
 - author page: [http://www.ee.cuhk.edu.hk/~hsli/](http://www.ee.cuhk.edu.hk/~hsli/)
 
-## U-Net
-
-**U-Net: Convolutional Networks for Biomedical Image Segmentation**
-
-- intro: conditionally accepted at MICCAI 2015
-- project page: [http://lmb.informatik.uni-freiburg.de/people/ronneber/u-net/](http://lmb.informatik.uni-freiburg.de/people/ronneber/u-net/)
-- arxiv: [http://arxiv.org/abs/1505.04597](http://arxiv.org/abs/1505.04597)
-- code+data: [http://lmb.informatik.uni-freiburg.de/people/ronneber/u-net/u-net-release-2015-10-02.tar.gz](http://lmb.informatik.uni-freiburg.de/people/ronneber/u-net/u-net-release-2015-10-02.tar.gz)
-- github: [https://github.com/orobix/retina-unet](https://github.com/orobix/retina-unet)
-- github: [https://github.com/jakeret/tf_unet](https://github.com/jakeret/tf_unet)
-- notes: [http://zongwei.leanote.com/post/Pa](http://zongwei.leanote.com/post/Pa)
-
-**DeepUNet: A Deep Fully Convolutional Network for Pixel-level Sea-Land Segmentation**
-
-[https://arxiv.org/abs/1709.00201](https://arxiv.org/abs/1709.00201)
-
 **Segmentation from Natural Language Expressions**
 
 ![](http://ronghanghu.com/wp-content/uploads/text_objseg_method-768x331.jpg)
@@ -82,11 +66,28 @@ date: 2015-10-09
 - arxiv: [https://arxiv.org/abs/1703.04363](https://arxiv.org/abs/1703.04363)
 - demo: [https://gyglim.github.io/deep-value-net/](https://gyglim.github.io/deep-value-net/)
 
+## PolygonRNN
+
 **Annotating Object Instances with a Polygon-RNN**
 
 - intro: CVPR 2017. CVPR Best Paper Honorable Mention Award. University of Toronto
 - project page: [http://www.cs.toronto.edu/polyrnn/](http://www.cs.toronto.edu/polyrnn/)
 - arxiv: [https://arxiv.org/abs/1704.05548](https://arxiv.org/abs/1704.05548)
+
+## PolygonRNN++
+
+**Efficient Interactive Annotation of Segmentation Datasets with Polygon-RNN++**
+
+- intro: CVPR 2018
+- project page: [http://www.cs.toronto.edu/polyrnn/](http://www.cs.toronto.edu/polyrnn/)
+- arxiv: [https://arxiv.org/abs/1803.09693](https://arxiv.org/abs/1803.09693)
+- github: [https://github.com/davidjesusacu/polyrnn-pp](https://github.com/davidjesusacu/polyrnn-pp)
+
+**Semantic Segmentation via Structured Patch Prediction, Context CRF and Guidance CRF**
+
+- intro: CVPR 2017
+- paper: [http://openaccess.thecvf.com/content_cvpr_2017/papers/Shen_Semantic_Segmentation_via_CVPR_2017_paper.pdf](http://openaccess.thecvf.com/content_cvpr_2017/papers/Shen_Semantic_Segmentation_via_CVPR_2017_paper.pdf)
+- github(Caffe): [https://github.com//FalongShen/SegModel](https://github.com//FalongShen/SegModel)
 
 **Nighttime sky/cloud image segmentation**
 
@@ -98,10 +99,75 @@ date: 2015-10-09
 - intro: ICCV workshop CVRSUAD2017. Indiana University & Preferred Networks
 - arxiv: [https://arxiv.org/abs/1708.06118](https://arxiv.org/abs/1708.06118)
 
+**Ω-Net: Fully Automatic, Multi-View Cardiac MR Detection, Orientation, and Segmentation with Deep Neural Networks**
+
+**Ω-Net (Omega-Net): Fully Automatic, Multi-View Cardiac MR Detection, Orientation, and Segmentation with Deep Neural Networks**
+
+[https://arxiv.org/abs/1711.01094](https://arxiv.org/abs/1711.01094)
+
+**Superpixel clustering with deep features for unsupervised road segmentation**
+
+- intro: Preferred Networks, Inc & Indiana University
+- arxiv: [https://arxiv.org/abs/1711.05998](https://arxiv.org/abs/1711.05998)
+
 **Learning to Segment Human by Watching YouTube**
 
 - intro: TPAMI 2017
 - arxiv: [https://arxiv.org/abs/1710.01457](https://arxiv.org/abs/1710.01457)
+
+**W-Net: A Deep Model for Fully Unsupervised Image Segmentation**
+
+[https://arxiv.org/abs/1711.08506](https://arxiv.org/abs/1711.08506)
+
+**End-to-end detection-segmentation network with ROI convolution**
+
+- intro: ISBI 2018
+- arxiv: [https://arxiv.org/abs/1801.02722](https://arxiv.org/abs/1801.02722)
+
+**A Foreground Inference Network for Video Surveillance Using Multi-View Receptive Field**
+
+[https://arxiv.org/abs/1801.06593](https://arxiv.org/abs/1801.06593)
+
+**Piecewise Flat Embedding for Image Segmentation**
+
+[https://arxiv.org/abs/1802.03248](https://arxiv.org/abs/1802.03248)
+
+**A Pyramid CNN for Dense-Leaves Segmentation**
+
+- intro: Computer and Robot Vision, Toronto, May 2018
+- arxiv: [https://arxiv.org/abs/1804.01646](https://arxiv.org/abs/1804.01646)
+
+## U-Net
+
+**U-Net: Convolutional Networks for Biomedical Image Segmentation**
+
+- intro: conditionally accepted at MICCAI 2015
+- project page: [http://lmb.informatik.uni-freiburg.de/people/ronneber/u-net/](http://lmb.informatik.uni-freiburg.de/people/ronneber/u-net/)
+- arxiv: [http://arxiv.org/abs/1505.04597](http://arxiv.org/abs/1505.04597)
+- code+data: [http://lmb.informatik.uni-freiburg.de/people/ronneber/u-net/u-net-release-2015-10-02.tar.gz](http://lmb.informatik.uni-freiburg.de/people/ronneber/u-net/u-net-release-2015-10-02.tar.gz)
+- github: [https://github.com/orobix/retina-unet](https://github.com/orobix/retina-unet)
+- github: [https://github.com/jakeret/tf_unet](https://github.com/jakeret/tf_unet)
+- notes: [http://zongwei.leanote.com/post/Pa](http://zongwei.leanote.com/post/Pa)
+
+**DeepUNet: A Deep Fully Convolutional Network for Pixel-level Sea-Land Segmentation**
+
+[https://arxiv.org/abs/1709.00201](https://arxiv.org/abs/1709.00201)
+
+**TernausNet: U-Net with VGG11 Encoder Pre-Trained on ImageNet for Image Segmentation**
+
+- intro: Lyft Inc. & MIT
+- intro: part of the winning solution (1st out of 735) in the Kaggle: Carvana Image Masking Challenge
+- arxiv: [https://arxiv.org/abs/1801.05746](https://arxiv.org/abs/1801.05746)
+- github: [https://github.com/ternaus/TernausNet](https://github.com/ternaus/TernausNet)
+
+**Capsules for Object Segmentation**
+
+- keywords: convolutional-deconvolutional capsule network, SegCaps, U-Net
+- arxiv: [https://arxiv.org/abs/1804.04241](https://arxiv.org/abs/1804.04241)
+
+**Deep Object Co-Segmentation**
+
+[https://arxiv.org/abs/1804.06423](https://arxiv.org/abs/1804.06423)
 
 # Foreground Object Segmentation
 
@@ -130,8 +196,8 @@ date: 2015-10-09
 - github: [https://github.com/BVLC/caffe/wiki/Model-Zoo#fcn](https://github.com/BVLC/caffe/wiki/Model-Zoo#fcn)
 - github: [https://github.com/MarvinTeichmann/tensorflow-fcn](https://github.com/MarvinTeichmann/tensorflow-fcn)
 - github(Chainer): [https://github.com/wkentaro/fcn](https://github.com/wkentaro/fcn)
-- github(PyTorch): [https://github.com/wkentaro/pytorch-fcn](https://github.com/wkentaro/pytorch-fcn)
-- github(Tensorflow): [https://github.com/shekkizh/FCN.tensorflow](https://github.com/shekkizh/FCN.tensorflow)
+- github: [https://github.com/wkentaro/pytorch-fcn](https://github.com/wkentaro/pytorch-fcn)
+- github: [https://github.com/shekkizh/FCN.tensorflow](https://github.com/shekkizh/FCN.tensorflow)
 - notes: [http://zhangliliang.com/2014/11/28/paper-note-fcn-segment/](http://zhangliliang.com/2014/11/28/paper-note-fcn-segment/)
 
 **From Image-level to Pixel-level Labeling with Convolutional Networks**
@@ -190,6 +256,15 @@ date: 2015-10-09
 
 - intro: Google. DeepLabv3
 - arxiv: [https://arxiv.org/abs/1706.05587](https://arxiv.org/abs/1706.05587)
+
+## DeepLabv3+
+
+**Encoder-Decoder with Atrous Separable Convolution for Semantic Image Segmentation**
+
+- intro: Google Inc.
+- arxiv: [https://arxiv.org/abs/1802.02611](https://arxiv.org/abs/1802.02611)
+- github: [https://github.com/tensorflow/models/tree/master/research/deeplab](https://github.com/tensorflow/models/tree/master/research/deeplab)
+- blog: [https://research.googleblog.com/2018/03/semantic-image-segmentation-with.html](https://research.googleblog.com/2018/03/semantic-image-segmentation-with.html)
 
 ## CRF-RNN
 
@@ -383,6 +458,7 @@ fine-tune the trained network with more challenging examples later
 
 - intro: ECCV 2016
 - arxiv: [http://arxiv.org/abs/1607.07671](http://arxiv.org/abs/1607.07671)
+- githun: [https://github.com/nightrome/matconvnet-calvin](https://github.com/nightrome/matconvnet-calvin)
 
 **Built-in Foreground/Background Prior for Weakly-Supervised Semantic Segmentation**
 
@@ -504,6 +580,7 @@ with built-in awareness of semantically meaningful boundaries. "
 
 - intro: UCSD & CMU & UIUC & TuSimple
 - arxiv: [https://arxiv.org/abs/1702.08502](https://arxiv.org/abs/1702.08502)
+- github(MXNet): [https://github.com/TuSimple/TuSimple-DUC]https://github.com/TuSimple/TuSimple-DUC
 - pretrained-models: [https://drive.google.com/drive/folders/0B72xLTlRb0SoREhISlhibFZTRmM](https://drive.google.com/drive/folders/0B72xLTlRb0SoREhISlhibFZTRmM)
 
 **Label Refinement Network for Coarse-to-Fine Semantic Segmentation**
@@ -514,6 +591,12 @@ with built-in awareness of semantically meaningful boundaries. "
 
 - intro: Facebook AI Research
 - arxiv: [https://arxiv.org/abs/1703.07684](https://arxiv.org/abs/1703.07684)
+
+**Object Region Mining with Adversarial Erasing: A Simple Classification to Semantic Segmentation Approach**
+
+- intro: CVPR 2017 (oral)
+- keywords: Adversarial Erasing (AE)
+- arxiv: [https://arxiv.org/abs/1703.08448](https://arxiv.org/abs/1703.08448)
 
 **Guided Perturbations: Self Corrective Behavior in Convolutional Neural Networks**
 
@@ -614,6 +697,100 @@ with built-in awareness of semantically meaningful boundaries. "
 
 [https://arxiv.org/abs/1709.07665](https://arxiv.org/abs/1709.07665)
 
+**Unsupervised Domain Adaptation for Semantic Segmentation with GANs**
+
+[https://arxiv.org/abs/1711.06969](https://arxiv.org/abs/1711.06969)
+
+**Neuron-level Selective Context Aggregation for Scene Segmentation**
+
+[https://arxiv.org/abs/1711.08278](https://arxiv.org/abs/1711.08278)
+
+**Road Extraction by Deep Residual U-Net**
+
+[https://arxiv.org/abs/1711.10684](https://arxiv.org/abs/1711.10684)
+
+**Mix-and-Match Tuning for Self-Supervised Semantic Segmentation**
+
+- intro: AAAI 2018
+- project page: [http://mmlab.ie.cuhk.edu.hk/projects/M&M/](http://mmlab.ie.cuhk.edu.hk/projects/M&M/)
+- arxiv: [https://arxiv.org/abs/1712.00661](https://arxiv.org/abs/1712.00661)
+- github: [https://github.com/XiaohangZhan/mix-and-match/](https://github.com/XiaohangZhan/mix-and-match/)
+- github: [https://github.com//liuziwei7/mix-and-match](https://github.com//liuziwei7/mix-and-match)
+
+**Error Correction for Dense Semantic Image Labeling**
+
+[https://arxiv.org/abs/1712.03812](https://arxiv.org/abs/1712.03812)
+
+**Semantic Segmentation via Highly Fused Convolutional Network with Multiple Soft Cost Functions**
+
+[https://arxiv.org/abs/1801.01317](https://arxiv.org/abs/1801.01317)
+
+**RTSeg: Real-time Semantic Segmentation Comparative Study**
+
+- arxiv: [https://arxiv.org/abs/1803.02758](https://arxiv.org/abs/1803.02758)
+- github: [https://github.com/MSiam/TFSegmentation](https://github.com/MSiam/TFSegmentation)
+
+**ShuffleSeg: Real-time Semantic Segmentation Network**
+
+- intro: Cairo University
+- arxiv: [https://arxiv.org/abs/1803.03816](https://arxiv.org/abs/1803.03816)
+
+**Dynamic-structured Semantic Propagation Network**
+
+- intro: CVPR 2018
+- arxiv: [https://arxiv.org/abs/1803.06067](https://arxiv.org/abs/1803.06067)
+
+**ESPNet: Efficient Spatial Pyramid of Dilated Convolutions for Semantic Segmentation**
+
+- project page: [https://sacmehta.github.io/ESPNet/](https://sacmehta.github.io/ESPNet/)
+- arxiv: [https://arxiv.org/abs/1803.06815](https://arxiv.org/abs/1803.06815)
+- github: [https://github.com/sacmehta/ESPNet](https://github.com/sacmehta/ESPNet)
+
+**Context Encoding for Semantic Segmentation**
+
+- intro: CVPR 2018
+- arxiv: [https://arxiv.org/abs/1803.08904](https://arxiv.org/abs/1803.08904)
+- github: [https://github.com/zhanghang1989/PyTorch-Encoding](https://github.com/zhanghang1989/PyTorch-Encoding)
+
+**Adaptive Affinity Field for Semantic Segmentation**
+
+- intro: UC Berkeley / ICSI
+- arxiv: [https://arxiv.org/abs/1803.10335](https://arxiv.org/abs/1803.10335)
+
+**Predicting Future Instance Segmentations by Forecasting Convolutional Features**
+
+- intro: Facebook AI Research & Univ. Grenoble Alpes
+- arxiv: [https://arxiv.org/abs/1803.11496](https://arxiv.org/abs/1803.11496)
+
+**Fully Convolutional Adaptation Networks for Semantic Segmentation**
+
+- intro: CVPR 2018, Rank 1 in Segmentation Track of Visual Domain Adaptation Challenge 2017
+- keywords: Fully Convolutional Adaptation Networks (FCAN), Appearance Adaptation Networks (AAN) and Representation Adaptation Networks (RAN)
+- arxiv: [https://arxiv.org/abs/1804.08286](https://arxiv.org/abs/1804.08286)
+
+**Learning a Discriminative Feature Network for Semantic Segmentation**
+
+- intro: CVPR 2018
+- arxiv: [https://arxiv.org/abs/1804.09337](https://arxiv.org/abs/1804.09337)
+
+**Deep Representation Learning for Domain Adaptation of Semantic Image Segmentation**
+
+[https://arxiv.org/abs/1805.04141](https://arxiv.org/abs/1805.04141)
+
+**Convolutional CRFs for Semantic Segmentation**
+
+- arxiv: [https://arxiv.org/abs/1805.04777](https://arxiv.org/abs/1805.04777)
+- github: [https://github.com/MarvinTeichmann/ConvCRF](https://github.com/MarvinTeichmann/ConvCRF)
+
+**ContextNet: Exploring Context and Detail for Semantic Segmentation in Real-time**
+
+- intro: Toshiba Research
+- arxiv: [https://arxiv.org/abs/1805.04554](https://arxiv.org/abs/1805.04554)
+
+**DifNet: Semantic Segmentation by DiffusionNetworks**
+
+[https://arxiv.org/abs/1805.08015](https://arxiv.org/abs/1805.08015)
+
 # Instance Segmentation
 
 **Simultaneous Detection and Segmentation**
@@ -690,13 +867,12 @@ with built-in awareness of semantically meaningful boundaries. "
 - intro: ReInspect
 - arxiv: [http://arxiv.org/abs/1605.09410](http://arxiv.org/abs/1605.09410)
 
-## TA-FCN / FCIS
-
 **Translation-aware Fully Convolutional Instance Segmentation**
 
 **Fully Convolutional Instance-aware Semantic Segmentation**
 
 - intro:  CVPR 2017 Spotlight paper. winning entry of COCO segmentation challenge 2016
+- keywords:  TA-FCN / FCIS
 - arxiv: [https://arxiv.org/abs/1611.07709](https://arxiv.org/abs/1611.07709)
 - github: [https://github.com/msracver/FCIS](https://github.com/msracver/FCIS)
 - slides: [https://onedrive.live.com/?cid=f371d9563727b96f&id=F371D9563727B96F%2197213&authkey=%21AEYOyOirjIutSVk](https://onedrive.live.com/?cid=f371d9563727b96f&id=F371D9563727B96F%2197213&authkey=%21AEYOyOirjIutSVk)
@@ -725,9 +901,10 @@ with built-in awareness of semantically meaningful boundaries. "
 
 **Mask R-CNN**
 
-- intro: Facebook AI Research
+- intro: ICCV 2017 Best paper award. Facebook AI Research
 - arxiv: [https://arxiv.org/abs/1703.06870](https://arxiv.org/abs/1703.06870)
-- github(TensorFlow): [https://github.com/CharlesShang/FastMaskRCNN](https://github.com/CharlesShang/FastMaskRCNN)
+- github: [https://github.com/TuSimple/mx-maskrcnn](https://github.com/TuSimple/mx-maskrcnn)
+- github(Keras+TensorFlow): [https://github.com/matterport/Mask_RCNN](https://github.com/matterport/Mask_RCNN)
 
 **Semantic Instance Segmentation via Deep Metric Learning**
 
@@ -747,6 +924,11 @@ with built-in awareness of semantically meaningful boundaries. "
 - intro: CVPR 2017
 - arxiv: [https://arxiv.org/abs/1704.03604](https://arxiv.org/abs/1704.03604)
 
+**MEnet: A Metric Expression Network for Salient Object Segmentation**
+
+- intro: IJCAI
+- arxiv: [https://arxiv.org/abs/1805.05638](https://arxiv.org/abs/1805.05638)
+
 **Semantic Instance Segmentation with a Discriminative Loss Function**
 
 - intro: Published at "Deep Learning for Robotic Vision", workshop at CVPR 2017. KU Leuven
@@ -755,6 +937,76 @@ with built-in awareness of semantically meaningful boundaries. "
 **SceneCut: Joint Geometric and Object Segmentation for Indoor Scenes**
 
 [https://arxiv.org/abs/1709.07158](https://arxiv.org/abs/1709.07158)
+
+**S4 Net: Single Stage Salient-Instance Segmentation**
+
+- arxiv: [https://arxiv.org/abs/1711.07618](https://arxiv.org/abs/1711.07618)
+- github: [https://github.com/RuochenFan/S4Net](https://github.com/RuochenFan/S4Net)
+
+**Deep Extreme Cut: From Extreme Points to Object Segmentation**
+
+[https://arxiv.org/abs/1711.09081](https://arxiv.org/abs/1711.09081)
+
+**Learning to Segment Every Thing**
+
+- intro: CVPR 2018. UC Berkeley & Facebook AI Research
+- keywords: MaskX R-CNN
+- project page: [http://ronghanghu.com/seg_every_thing/](http://ronghanghu.com/seg_every_thing/)
+- arxiv: [https://arxiv.org/abs/1711.10370](https://arxiv.org/abs/1711.10370)
+- gihtub(official, Caffe2): [https://github.com/ronghanghu/seg_every_thing](https://github.com/ronghanghu/seg_every_thing)
+
+**Recurrent Neural Networks for Semantic Instance Segmentation**
+
+- project page: [https://imatge-upc.github.io/rsis/](https://imatge-upc.github.io/rsis/)
+- arxiv: [https://arxiv.org/abs/1712.00617](https://arxiv.org/abs/1712.00617)
+- github: [https://github.com/imatge-upc/rsis](https://github.com/imatge-upc/rsis)
+
+## MaskLab
+
+**MaskLab: Instance Segmentation by Refining Object Detection with Semantic and Direction Features**
+
+[https://arxiv.org/abs/1712.04837](https://arxiv.org/abs/1712.04837)
+
+**Recurrent Pixel Embedding for Instance Grouping**
+
+- intro: learning to embed pixels and group them into boundaries, object proposals, semantic segments and instances.
+- project page: [http://www.ics.uci.edu/~skong2/SMMMSG.html](http://www.ics.uci.edu/~skong2/SMMMSG.html)
+- arxiv: [https://arxiv.org/abs/1712.08273](https://arxiv.org/abs/1712.08273)
+- github: [https://github.com/aimerykong/Recurrent-Pixel-Embedding-for-Instance-Grouping](https://github.com/aimerykong/Recurrent-Pixel-Embedding-for-Instance-Grouping)
+- slides: [http://www.ics.uci.edu/~skong2/slides/pixel_embedding_for_grouping_public_version.pdf](http://www.ics.uci.edu/~skong2/slides/pixel_embedding_for_grouping_public_version.pdf)
+- poster: [http://www.ics.uci.edu/~skong2/slides/pixel_embedding_for_grouping_poster.pdf](http://www.ics.uci.edu/~skong2/slides/pixel_embedding_for_grouping_poster.pdf)
+
+**Annotation-Free and One-Shot Learning for Instance Segmentation of Homogeneous Object Clusters**
+
+[https://arxiv.org/abs/1802.00383](https://arxiv.org/abs/1802.00383)
+
+**Path Aggregation Network for Instance Segmentation**
+
+- intro: CVPR 2018
+- arxiv: [https://arxiv.org/abs/1803.01534](https://arxiv.org/abs/1803.01534)
+
+**Learning to Segment via Cut-and-Paste**
+
+- intro: Google
+- keywords: weakly-supervised, adversarial learning setup
+- arxiv: [https://arxiv.org/abs/1803.06414](https://arxiv.org/abs/1803.06414)
+
+**Learning to Cluster for Proposal-Free Instance Segmentation**
+
+[https://arxiv.org/abs/1803.06459](https://arxiv.org/abs/1803.06459)
+
+## Human Instance Segmentation
+
+**PersonLab: Person Pose Estimation and Instance Segmentation with a Bottom-Up, Part-Based, Geometric Embedding Model**
+
+- intro: Google, Inc.
+- keywords: Person detection and pose estimation, segmentation and grouping
+- arxiv: [https://arxiv.org/abs/1803.08225](https://arxiv.org/abs/1803.08225)
+
+**Pose2Seg: Human Instance Segmentation Without Detection**
+
+- intro: Tsinghua University & Tencent AI Lab & Cardiff University
+- arxiv: [https://arxiv.org/abs/1803.10683](https://arxiv.org/abs/1803.10683)
 
 # Specific Segmentation
 
@@ -775,6 +1027,10 @@ with built-in awareness of semantically meaningful boundaries. "
 **Face Parsing via a Fully-Convolutional Continuous CRF Neural Network**
 
 [https://arxiv.org/abs/1708.03736](https://arxiv.org/abs/1708.03736)
+
+**Boundary-sensitive Network for Portrait Segmentation**
+
+[https://arxiv.org/abs/1712.08675](https://arxiv.org/abs/1712.08675)
 
 # Segment Proposal
 
@@ -846,7 +1102,10 @@ with built-in awareness of semantically meaningful boundaries. "
 - intro: CUHK
 - arxiv: [https://arxiv.org/abs/1706.02493](https://arxiv.org/abs/1706.02493)
 
-## MPF-RNN
+**Spatial As Deep: Spatial CNN for Traffic Scene Understanding**
+
+- intro: AAAI 2018
+- arxiv: [https://arxiv.org/abs/1712.06080](https://arxiv.org/abs/1712.06080)
 
 **Multi-Path Feedback Recurrent Neural Network for Scene Parsing**
 
@@ -895,6 +1154,14 @@ ranked 1st place in ImageNet Scene Parsing Challenge 2016
 
 [https://arxiv.org/abs/1708.07819](https://arxiv.org/abs/1708.07819)
 
+**Restricted Deformable Convolution based Road Scene Semantic Segmentation Using Surround View Cameras**
+
+[https://arxiv.org/abs/1801.00708](https://arxiv.org/abs/1801.00708)
+
+**Dense Recurrent Neural Networks for Scene Labeling**
+
+[https://arxiv.org/abs/1801.06831](https://arxiv.org/abs/1801.06831)
+
 ## Benchmarks
 
 **MIT Scene Parsing Benchmark**
@@ -933,7 +1200,17 @@ ranked 1st place in ImageNet Scene Parsing Challenge 2016
 - arxiv: [https://arxiv.org/abs/1703.05446](https://arxiv.org/abs/1703.05446)
 - github: [https://github.com/Engineering-Course/LIP_SSL](https://github.com/Engineering-Course/LIP_SSL)
 
-# Segmentation From Video
+**Cross-domain Human Parsing via Adversarial Feature and Label Adaptation**
+
+- intro: AAAI 2018
+- arxiv: [https://arxiv.org/abs/1801.01260](https://arxiv.org/abs/1801.01260)
+
+**Fusing Hierarchical Convolutional Features for Human Body Segmentation and Clothing Fashion Classification**
+
+- intro: Wuhan University
+- arxiv: [https://arxiv.org/abs/1803.03415](https://arxiv.org/abs/1803.03415)
+
+# Video Object Segmentation
 
 **Fast object segmentation in unconstrained video**
 
@@ -964,8 +1241,9 @@ ranked 1st place in ImageNet Scene Parsing Challenge 2016
 - intro: OSVOS
 - project: [http://www.vision.ee.ethz.ch/~cvlsegmentation/osvos/](http://www.vision.ee.ethz.ch/~cvlsegmentation/osvos/)
 - arxiv: [https://arxiv.org/abs/1611.05198](https://arxiv.org/abs/1611.05198)
-- github: [https://github.com/kmaninis/OSVOS-caffe](https://github.com/kmaninis/OSVOS-caffe)
-- github: [https://github.com/scaelles/OSVOS-TensorFlow](https://github.com/scaelles/OSVOS-TensorFlow)
+- github(official): [https://github.com/kmaninis/OSVOS-caffe](https://github.com/kmaninis/OSVOS-caffe)
+- github(official): [https://github.com/scaelles/OSVOS-TensorFlow](https://github.com/scaelles/OSVOS-TensorFlow)
+- github(official): [https://github.com/kmaninis/OSVOS-PyTorch](https://github.com/kmaninis/OSVOS-PyTorch)
 
 **Video Object Segmentation Without Temporal Information**
 
@@ -1024,11 +1302,69 @@ ranked 1st place in ImageNet Scene Parsing Challenge 2016
 - intro: ICCV 2017
 - arxiv: [https://arxiv.org/abs/1708.05137](https://arxiv.org/abs/1708.05137)
 
+**MaskRNN: Instance Level Video Object Segmentation**
+
+- intro: NIPS 2017
+- arxiv: [https://arxiv.org/abs/1803.11187](https://arxiv.org/abs/1803.11187)
+
 **SegFlow: Joint Learning for Video Object Segmentation and Optical Flow**
 
 - project page: [https://sites.google.com/site/yihsuantsai/research/iccv17-segflow](https://sites.google.com/site/yihsuantsai/research/iccv17-segflow)
 - arxiv: [https://arxiv.org/abs/1709.06750](https://arxiv.org/abs/1709.06750)
 - github: [https://github.com/JingchunCheng/SegFlow](https://github.com/JingchunCheng/SegFlow)
+
+**Video Semantic Object Segmentation by Self-Adaptation of DCNN**
+
+[https://arxiv.org/abs/1711.08180](https://arxiv.org/abs/1711.08180)
+
+**Learning to Segment Moving Objects**
+
+[https://arxiv.org/abs/1712.01127](https://arxiv.org/abs/1712.01127)
+
+**Instance Embedding Transfer to Unsupervised Video Object Segmentation**
+
+- intro: University of Southern California & Google Inc
+- arxiv: [https://arxiv.org/abs/1801.00908](https://arxiv.org/abs/1801.00908)
+- blog: [https://medium.com/@barvinograd1/instance-embedding-instance-segmentation-without-proposals-31946a7c53e1](https://medium.com/@barvinograd1/instance-embedding-instance-segmentation-without-proposals-31946a7c53e1)
+
+**Panoptic Segmentation**
+
+- intro: Facebook AI Research (FAIR) & Heidelberg University
+- arxiv: [https://arxiv.org/abs/1801.00868](https://arxiv.org/abs/1801.00868)
+
+**Efficient Video Object Segmentation via Network Modulation**
+
+- intro: Snap Inc. & Northwestern University & Google Inc.
+- arxiv: [https://arxiv.org/abs/1802.01218](https://arxiv.org/abs/1802.01218)
+
+**Video Object Segmentation with Joint Re-identification and Attention-Aware Mask Propagation**
+
+- intro: CUHK
+- arxiv: [https://arxiv.org/abs/1803.04242](https://arxiv.org/abs/1803.04242)
+
+**Video Object Segmentation with Language Referring Expressions**
+
+[https://arxiv.org/abs/1803.08006](https://arxiv.org/abs/1803.08006)
+
+**Dynamic Video Segmentation Network**
+
+- intro: CVPR 2018
+- arxiv: [https://arxiv.org/abs/1804.00931](https://arxiv.org/abs/1804.00931)
+
+**Low-Latency Video Semantic Segmentation**
+
+- intro: CVPR 2018 Spotlight
+- arxiv: [https://arxiv.org/abs/1804.00389](https://arxiv.org/abs/1804.00389)
+
+**Blazingly Fast Video Object Segmentation with Pixel-Wise Metric Learning**
+
+- intro: CVPR 2018
+- arxiv: [https://arxiv.org/abs/1804.03131](https://arxiv.org/abs/1804.03131)
+
+**Unsupervised Video Object Segmentation for Deep Reinforcement Learning**
+
+- intro: University of Waterloo
+- arxiv: [https://arxiv.org/abs/1805.07780](https://arxiv.org/abs/1805.07780)
 
 ## Challenge
 
@@ -1078,6 +1414,17 @@ ranked 1st place in ImageNet Scene Parsing Challenge 2016
 
 [https://arxiv.org/abs/1703.03098](https://arxiv.org/abs/1703.03098)
 
+**SqueezeSeg: Convolutional Neural Nets with Recurrent CRF for Real-Time Road-Object Segmentation from 3D LiDAR Point Cloud**
+
+- intro: UC Berkeley
+- arxiv: [https://arxiv.org/abs/1710.07368](https://arxiv.org/abs/1710.07368)
+
+**SEGCloud: Semantic Segmentation of 3D Point Clouds**
+
+- intro: International Conference of 3D Vision (3DV) 2017 (Spotlight). Stanford University
+- homepage: [http://segcloud.stanford.edu/](http://segcloud.stanford.edu/)
+- arxiv: [https://arxiv.org/abs/1710.07563](https://arxiv.org/abs/1710.07563)
+
 # Leaderboard
 
 **Segmentation Results: VOC2012 BETA: Competition "comp6" (train on own data)**
@@ -1085,6 +1432,10 @@ ranked 1st place in ImageNet Scene Parsing Challenge 2016
 [http://host.robots.ox.ac.uk:8080/leaderboard/displaylb.php?cls=mean&challengeid=11&compid=6](http://host.robots.ox.ac.uk:8080/leaderboard/displaylb.php?cls=mean&challengeid=11&compid=6)
 
 # Blogs
+
+**Mobile Real-time Video Segmentation**
+
+[https://research.googleblog.com/2018/03/mobile-real-time-video-segmentation.html](https://research.googleblog.com/2018/03/mobile-real-time-video-segmentation.html)
 
 **Deep Learning for Natural Image Segmentation Priors**
 

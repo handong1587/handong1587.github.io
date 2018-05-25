@@ -110,7 +110,7 @@ date: 2015-10-09
 **CS 20SI: Tensorflow for Deep Learning Research**
 
 - homepage: [http://web.stanford.edu/class/cs20si/](http://web.stanford.edu/class/cs20si/)
-- github: [https://github.com/chiphuyen/tf-stanford-tutorials](https://github.com/chiphuyen/tf-stanford-tutorials)
+- github: [https://github.com/chiphuyen/stanford-tensorflow-tutorials](https://github.com/chiphuyen/stanford-tensorflow-tutorials)
 
 **Deep Learning with TensorFlow**
 
@@ -128,6 +128,12 @@ date: 2015-10-09
 **CSC 321 Winter 2017: Intro to Neural Networks and Machine Learning**
 
 [http://www.cs.toronto.edu/~rgrosse/courses/csc321_2017/](http://www.cs.toronto.edu/~rgrosse/courses/csc321_2017/)
+
+**Theories of Deep Learning (STATS 385)**
+
+- homepage: [https://stats385.github.io/](https://stats385.github.io/)
+- video: [https://www.researchgate.net/project/Theories-of-Deep-Learning](https://www.researchgate.net/project/Theories-of-Deep-Learning)
+- mirror: [https://www.bilibili.com/video/av16136625/](https://www.bilibili.com/video/av16136625/)
 
 ## With Video Lectures
 
@@ -266,6 +272,13 @@ such as image classification, object detection or text captioning.
 
 - github: [https://github.com/bogatyy/cs224d](https://github.com/bogatyy/cs224d)
 
+**CMU CS 11-747, Fall 2017: Neural Networks for NLP**
+
+- intro: by Graham Neubig
+- course page: [http://phontron.com/class/nn4nlp2017/](http://phontron.com/class/nn4nlp2017/)
+- github: [https://github.com/neubig/nn4nlp2017-code](https://github.com/neubig/nn4nlp2017-code)
+- video: [https://www.bilibili.com/video/av14153689/](https://www.bilibili.com/video/av14153689/)
+
 **Deep Learning for NLP - Lecture October 2015**
 
 - github: [https://github.com/UKPLab/deeplearning4nlp-tutorial/tree/master/2015-10_Lecture](https://github.com/UKPLab/deeplearning4nlp-tutorial/tree/master/2015-10_Lecture)
@@ -303,6 +316,19 @@ such as image classification, object detection or text captioning.
 **Intro to Parallel Programming Using CUDA to Harness the Power of GPUs (Udacity)**
 
 [https://www.udacity.com/course/intro-to-parallel-programming--cs344](https://www.udacity.com/course/intro-to-parallel-programming--cs344)
+
+**Fundamentals of Accelerated Computing with CUDA C/C++**
+
+- intro: Learn to use CUDA C/C++ tools and techniques to accelerate CPU-only applications to run on massively parallel GPUs.
+- homepage: [https://courses.nvidia.com/courses/course-v1:DLI+C-AC-01+V1/about](https://courses.nvidia.com/courses/course-v1:DLI+C-AC-01+V1/about)
+
+# Workshops
+
+**Deep Learning: Theory, Algorithms, and Applications**
+
+- homepage: [http://doc.ml.tu-berlin.de/dlworkshop2017/](http://doc.ml.tu-berlin.de/dlworkshop2017/)
+- video: [https://www.youtube.com/playlist?list=PLJOzdkh8T5kqCNV_v1w2tapvtJDZYiohW](https://www.youtube.com/playlist?list=PLJOzdkh8T5kqCNV_v1w2tapvtJDZYiohW)
+- mirror: [https://www.bilibili.com/video/av15565354/](https://www.bilibili.com/video/av15565354/)
 
 # Resources
 

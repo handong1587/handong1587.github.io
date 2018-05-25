@@ -18,3 +18,25 @@ conspiracy theories, the paranormal and alternative medicine."
 **Sex, drugs, and violence**
 
 - arxiv: [http://arxiv.org/abs/1608.03448](http://arxiv.org/abs/1608.03448)
+
+**The Shortest Papers Ever Published**
+
+[https://paperpile.com/blog/shortest-papers/](https://paperpile.com/blog/shortest-papers/)
+
+**The Kardashian Kernel**
+
+[http://oneweirdkerneltrick.com/sigbovik_2012.pdf](http://oneweirdkerneltrick.com/sigbovik_2012.pdf)
+
+**Visually Identifying Rank**
+
+[http://oneweirdkerneltrick.com/rank.pdf](http://oneweirdkerneltrick.com/rank.pdf)
+
+**Stopping GAN Violence: Generative Unadversarial Networks**
+
+- arxiv: [https://arxiv.org/abs/1703.02528](https://arxiv.org/abs/1703.02528)
+- github: [https://github.com/albanie/SIGBOVIK17-GUNs](https://github.com/albanie/SIGBOVIK17-GUNs)
+
+**Deep Spreadsheets with ExcelNet**
+
+- project page: [http://www.deepexcel.net/](http://www.deepexcel.net/)
+- paper: [http://www.deepexcel.net/paper.pdf](http://www.deepexcel.net/paper.pdf)

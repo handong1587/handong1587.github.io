@@ -1,7 +1,7 @@
 ---
 layout: post
 category: deep_learning
-title: Visualize Convolutional Neural Network
+title: Visualizing and Interpreting Convolutional Neural Network
 date: 2015-10-09
 ---
 
@@ -127,6 +127,8 @@ date: 2015-10-09
 
 **Grad-CAM: Why did you say that? Visual Explanations from Deep Networks via Gradient-based Localization**
 
+**Grad-CAM: Visual Explanations from Deep Networks via Gradient-based Localization**
+
 ![](https://camo.githubusercontent.com/450498bd998fd99d51b647d2b6c8631e94585522/687474703a2f2f692e696d6775722e636f6d2f4a614762645a352e706e67)
 
 - arxiv: [https://arxiv.org/abs/1610.02391](https://arxiv.org/abs/1610.02391)
@@ -157,15 +159,6 @@ date: 2015-10-09
 - intro: Georgia Tech & Facebook
 - arxiv: [https://arxiv.org/abs/1704.01942](https://arxiv.org/abs/1704.01942)
 
-**Network Dissection: Quantifying Interpretability of Deep Visual Representations**
-
-![](http://netdissect.csail.mit.edu/image/dissect-arch.png)
-
-- intro: CVPR 2017 oral. MIT
-- project page: [http://netdissect.csail.mit.edu/](http://netdissect.csail.mit.edu/)
-- arxiv: [https://arxiv.org/abs/1704.05796](https://arxiv.org/abs/1704.05796)
-- github: [https://github.com/CSAILVision/NetDissect](https://github.com/CSAILVision/NetDissect)
-
 **Picasso: A Neural Network Visualizer**
 
 - arxiv: [https://arxiv.org/abs/1705.05627](https://arxiv.org/abs/1705.05627)
@@ -176,6 +169,97 @@ date: 2015-10-09
 
 - arxiv: [https://arxiv.org/abs/1708.06670](https://arxiv.org/abs/1708.06670)
 - github: [https://github.com/utsavgarg/cnn-fixations](https://github.com/utsavgarg/cnn-fixations)
+
+**A Forward-Backward Approach for Visualizing Information Flow in Deep Networks**
+
+- intro: NIPS 2017 Symposium on Interpretable Machine Learning. Iowa State University
+- arxiv: [https://arxiv.org/abs/1711.06221](https://arxiv.org/abs/1711.06221)
+
+**Using KL-divergence to focus Deep Visual Explanation**
+
+[https://arxiv.org/abs/1711.06431](https://arxiv.org/abs/1711.06431)
+
+**An Introduction to Deep Visual Explanation**
+
+- intro: NIPS 2017 - Workshop Interpreting, Explaining and Visualizing Deep Learning
+- arxiv: [https://arxiv.org/abs/1711.09482](https://arxiv.org/abs/1711.09482)
+
+**Visual Explanation by Interpretation: Improving Visual Feedback Capabilities of Deep Neural Networks**
+
+[https://arxiv.org/abs/1712.06302](https://arxiv.org/abs/1712.06302)
+
+**Visualizing the Loss Landscape of Neural Nets**
+
+- intro: University of Maryland & United States Naval Academy
+- arxiv: [https://arxiv.org/abs/1712.09913](https://arxiv.org/abs/1712.09913)
+
+## Interpreting Convolutional Neural Networks
+
+**Network Dissection: Quantifying Interpretability of Deep Visual Representations**
+
+![](http://netdissect.csail.mit.edu/image/dissect-arch.png)
+
+- intro: CVPR 2017 oral. MIT
+- project page: [http://netdissect.csail.mit.edu/](http://netdissect.csail.mit.edu/)
+- arxiv: [https://arxiv.org/abs/1704.05796](https://arxiv.org/abs/1704.05796)
+- github: [https://github.com/CSAILVision/NetDissect](https://github.com/CSAILVision/NetDissect)
+
+**Interpreting Deep Visual Representations via Network Dissection**
+
+[https://arxiv.org/abs/1711.05611](https://arxiv.org/abs/1711.05611)
+
+**Methods for Interpreting and Understanding Deep Neural Networks**
+
+- intro: Technische Universit¨at Berlin & Fraunhofer Heinrich Hertz Institute
+- arxiv: [https://arxiv.org/abs/1706.07979](https://arxiv.org/abs/1706.07979)
+
+**SVCCA: Singular Vector Canonical Correlation Analysis for Deep Learning Dynamics and Interpretability**
+
+- intro: NIPS 2017. Google Brain & Uber AI Labs
+- arxiv: [https://arxiv.org/abs/1706.05806](https://arxiv.org/abs/1706.05806)
+- github: [https://github.com/google/svcca/](https://github.com/google/svcca/)
+- blog: [https://research.googleblog.com/2017/11/interpreting-deep-neural-networks-with.html](https://research.googleblog.com/2017/11/interpreting-deep-neural-networks-with.html)
+
+**Towards Interpretable Deep Neural Networks by Leveraging Adversarial Examples**
+
+- intro: Tsinghua University
+- arxiv: [https://arxiv.org/abs/1708.05493](https://arxiv.org/abs/1708.05493)
+
+**Interpretable Convolutional Neural Networks**
+
+[https://arxiv.org/abs/1710.00935](https://arxiv.org/abs/1710.00935)
+
+**Interpreting Convolutional Neural Networks Through Compression**
+
+- intro: NIPS 2017 Symposium on Interpretable Machine Learning
+- arxiv: [https://arxiv.org/abs/1711.02329](https://arxiv.org/abs/1711.02329)
+
+**Interpreting Deep Neural Networks**
+
+- blog: [http://www.shallowmind.co/jekyll/pixyll/2017/12/30/tree-regularization/](http://www.shallowmind.co/jekyll/pixyll/2017/12/30/tree-regularization/)
+
+**Interpreting CNNs via Decision Trees**
+
+[https://arxiv.org/abs/1802.00121](https://arxiv.org/abs/1802.00121)
+
+**Visual Interpretability for Deep Learning: a Survey**
+
+[https://arxiv.org/abs/1802.00614](https://arxiv.org/abs/1802.00614)
+
+**Interpreting Deep Classifier by Visual Distillation of Dark Knowledge**
+
+- intro: University of Edinburgh & Huawei Research America
+- arxiv: [https://arxiv.org/abs/1803.04042](https://arxiv.org/abs/1803.04042)
+
+**How convolutional neural network see the world - A survey of convolutional neural network visualization methods**
+
+- intro: Mathematical Foundations of Computing. George Mason University & Clarkson University
+- arxiv: [https://arxiv.org/abs/1804.11191](https://arxiv.org/abs/1804.11191)
+
+**Understanding Regularization to Visualize Convolutional Neural Networks**
+
+- intro: Konica Minolta Laboratory Europe & Technical University of Munich
+- arxiv: [https://arxiv.org/abs/1805.00071](https://arxiv.org/abs/1805.00071)
 
 # Projects
 
@@ -220,6 +304,12 @@ date: 2015-10-09
 - intro: visualization of CNN in PyTorch
 - github: [https://github.com/leelabcnbc/cnnvis-pytorch](https://github.com/leelabcnbc/cnnvis-pytorch)
 
+**VisualDL**
+
+- intro: A platform to visualize the deep learning process
+- homepage: [http://visualdl.paddlepaddle.org/](http://visualdl.paddlepaddle.org/)
+- github: [https://github.com/PaddlePaddle/VisualDL](https://github.com/PaddlePaddle/VisualDL)
+
 # Blogs
 
 "Visualizing GoogLeNet Classes"
@@ -261,6 +351,12 @@ date: 2015-10-09
 
 - blog: [https://hackernoon.com/visualizing-parts-of-convolutional-neural-networks-using-keras-and-cats-5cc01b214e59#.bt6bb13dk](https://hackernoon.com/visualizing-parts-of-convolutional-neural-networks-using-keras-and-cats-5cc01b214e59#.bt6bb13dk)
 - github: [https://github.com/erikreppel/visualizing_cnns](https://github.com/erikreppel/visualizing_cnns)
+
+**Visualizing convolutional neural networks**
+
+- intro: How to build convolutional neural networks from scratch w/ Tensorflow
+- blog: [https://www.oreilly.com/ideas/visualizing-convolutional-neural-networks](https://www.oreilly.com/ideas/visualizing-convolutional-neural-networks)
+- github: [https://github.com//wagonhelm/Visualizing-Convnets/](https://github.com//wagonhelm/Visualizing-Convnets/)
 
 # Tools
 

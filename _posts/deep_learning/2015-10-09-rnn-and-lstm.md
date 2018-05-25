@@ -106,6 +106,14 @@ date: 2015-10-09
 
 [http://machinelearningmastery.com/recurrent-neural-network-algorithms-for-deep-learning/](http://machinelearningmastery.com/recurrent-neural-network-algorithms-for-deep-learning/)
 
+**Fundamentals of Deep Learning – Introduction to Recurrent Neural Networks**
+
+[https://www.analyticsvidhya.com/blog/2017/12/introduction-to-recurrent-neural-networks/](https://www.analyticsvidhya.com/blog/2017/12/introduction-to-recurrent-neural-networks/)
+
+**Essentials of Deep Learning : Introduction to Long Short Term Memory**
+
+[https://www.analyticsvidhya.com/blog/2017/12/fundamentals-of-deep-learning-introduction-to-lstm/](https://www.analyticsvidhya.com/blog/2017/12/fundamentals-of-deep-learning-introduction-to-lstm/)
+
 ## How to build a Recurrent Neural Network in TensorFlow
 
 **How to build a Recurrent Neural Network in TensorFlow (1/7)**
@@ -497,6 +505,29 @@ date: 2015-10-09
 - project page: [https://imatge-upc.github.io/skiprnn-2017-telecombcn/](https://imatge-upc.github.io/skiprnn-2017-telecombcn/)
 - arxiv: [https://arxiv.org/abs/1708.06834](https://arxiv.org/abs/1708.06834)
 
+**Dilated Recurrent Neural Networks**
+
+- intro: NIPS 2017. IBM & University of Illinois at Urbana-Champaign
+- keywords: DilatedRNN
+- arxiv: [https://arxiv.org/abs/1710.02224](https://arxiv.org/abs/1710.02224)
+- github(Tensorflow): [https://github.com/code-terminator/DilatedRNN](https://github.com/code-terminator/DilatedRNN)
+[https://github.com/zalandoresearch/pt-dilate-rnn](https://github.com/zalandoresearch/pt-dilate-rnn)
+
+**Excitation Backprop for RNNs**
+
+[https://arxiv.org/abs/1711.06778](https://arxiv.org/abs/1711.06778)
+
+**Recurrent Relational Networks for Complex Relational Reasoning**
+
+- project page: [https://rasmusbergpalm.github.io/recurrent-relational-networks/](https://rasmusbergpalm.github.io/recurrent-relational-networks/)
+- arxiv: [https://arxiv.org/abs/1711.08028](https://arxiv.org/abs/1711.08028)
+- github: [https://github.com//rasmusbergpalm/recurrent-relational-networks](https://github.com//rasmusbergpalm/recurrent-relational-networks)
+
+**Learning Compact Recurrent Neural Networks with Block-Term Tensor Decomposition**
+
+- intro: University of Electronic Science and Technology of China & Brown University & University of Utah & XJERA LABS PTE.LTD
+- arxiv: [https://arxiv.org/abs/1712.05134](https://arxiv.org/abs/1712.05134)
+
 ## LSTMVis
 
 **Visual Analysis of Hidden State Dynamics in Recurrent Neural Networks**
@@ -583,7 +614,9 @@ date: 2015-10-09
 
 **Bayesian Recurrent Neural Networks**
 
-[https://arxiv.org/abs/1704.02798](https://arxiv.org/abs/1704.02798)
+- intro: UC Berkeley
+- arxiv: [https://arxiv.org/abs/1704.02798](https://arxiv.org/abs/1704.02798)
+- github: [https://github.com/mirceamironenco/BayesianRecurrentNN](https://github.com/mirceamironenco/BayesianRecurrentNN)
 
 **Fast-Slow Recurrent Neural Networks**
 
@@ -600,6 +633,11 @@ date: 2015-10-09
 - arxiv: [https://arxiv.org/abs/1705.07393](https://arxiv.org/abs/1705.07393)
 - paper: [http://www.kentonl.com/pub/llz.2017.pdf](http://www.kentonl.com/pub/llz.2017.pdf)
 - github(PyTorch): [https://github.com/bheinzerling/ran](https://github.com/bheinzerling/ran)
+
+**Recent Advances in Recurrent Neural Networks**
+
+- intro: University of Toronto & University of Waterloo
+- arxiv: [https://arxiv.org/abs/1801.01078](https://arxiv.org/abs/1801.01078)
 
 # Projects
 
