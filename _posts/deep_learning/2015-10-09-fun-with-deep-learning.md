@@ -966,11 +966,16 @@ further original research into a small, easy to use graphical interface.
 - youtube: [https://www.youtube.com/watch?v=A3ekFcZ3KNw](https://www.youtube.com/watch?v=A3ekFcZ3KNw)
 - mirror: [https://www.bilibili.com/video/av17210816/](https://www.bilibili.com/video/av17210816/)
 
+**PhoenixGo**
+
+- intro: Go AI program which implement the AlphaGo Zero paper
+- github: [https://github.com/Tencent/PhoenixGo](https://github.com/Tencent/PhoenixGo)
+
 **The future is here – AlphaZero learns chess**
 
 [https://en.chessbase.com/post/the-future-is-here-alphazero-learns-chess](https://en.chessbase.com/post/the-future-is-here-alphazero-learns-chess)
 
-**AlphaGo Zero Cheat Sheet
+**AlphaGo Zero Cheat Sheet**
 
 [https://applied-data.science/static/main/res/alpha_go_zero_cheat_sheet.png](https://applied-data.science/static/main/res/alpha_go_zero_cheat_sheet.png)
 
