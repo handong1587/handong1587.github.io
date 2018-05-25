@@ -251,6 +251,16 @@ date: 2015-10-09
 - intro: University of Edinburgh & Huawei Research America
 - arxiv: [https://arxiv.org/abs/1803.04042](https://arxiv.org/abs/1803.04042)
 
+**How convolutional neural network see the world - A survey of convolutional neural network visualization methods**
+
+- intro: Mathematical Foundations of Computing. George Mason University & Clarkson University
+- arxiv: [https://arxiv.org/abs/1804.11191](https://arxiv.org/abs/1804.11191)
+
+**Understanding Regularization to Visualize Convolutional Neural Networks**
+
+- intro: Konica Minolta Laboratory Europe & Technical University of Munich
+- arxiv: [https://arxiv.org/abs/1805.00071](https://arxiv.org/abs/1805.00071)
+
 # Projects
 
 **Interactive Deep Neural Net Hallucinations**

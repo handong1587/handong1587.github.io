@@ -212,6 +212,12 @@ date: 2015-10-09
 
 [https://arxiv.org/abs/1805.02456](https://arxiv.org/abs/1805.02456)
 
+**Transferring GANs: generating images from limited data**
+
+- intro: Universitat Aut`onoma de Barcelona
+- arxiv: [https://arxiv.org/abs/1805.01677](https://arxiv.org/abs/1805.01677)
+- github: [https://github.com/yaxingwang/Transferring-GANs](https://github.com/yaxingwang/Transferring-GANs)
+
 # Face Image Generation
 
 **Fader Networks: Manipulating Images by Sliding Attributes**

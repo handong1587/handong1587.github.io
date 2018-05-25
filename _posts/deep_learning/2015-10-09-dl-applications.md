@@ -581,6 +581,10 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 
 - arxiv: [https://arxiv.org/abs/1611.02776](https://arxiv.org/abs/1611.02776)
 
+**DSAC - Differentiable RANSAC for Camera Localization**
+
+- arxiv: [https://arxiv.org/abs/1611.05705](https://arxiv.org/abs/1611.05705)
+
 **Image-based Localization with Spatial LSTMs**
 
 - arxiv: [https://arxiv.org/abs/1611.07890](https://arxiv.org/abs/1611.07890)
@@ -791,6 +795,15 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 - intro: CVPR 2018 Workshop On Visual Understanding of Humans in Crowd Scene
 - arxiv: [https://arxiv.org/abs/1804.07821](https://arxiv.org/abs/1804.07821)
 
+**A Deeply-Recursive Convolutional Network for Crowd Counting**
+
+- intro: Xiamen University
+- arxiv: [https://arxiv.org/abs/1805.05633](https://arxiv.org/abs/1805.05633)
+
+**Crowd Counting by Adaptively Fusing Predictions from an Image Pyramid**
+
+[https://arxiv.org/abs/1805.06115](https://arxiv.org/abs/1805.06115)
+
 # Activity Recognition
 
 **Implementing a CNN for Human Activity Recognition in Tensorflow**
@@ -971,6 +984,11 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 
 [https://arxiv.org/abs/1803.04033](https://arxiv.org/abs/1803.04033)
 
+**SPG-Net: Segmentation Prediction and Guidance Network for Image Inpainting**
+
+- intro: University of Southern California & Baidu Research
+- arxiv: [https://arxiv.org/abs/1805.03356](https://arxiv.org/abs/1805.03356)
+
 # Image Restoration
 
 **Image Restoration Using Very Deep Convolutional Encoder-Decoder Networks with Symmetric Skip Connections**
@@ -1029,6 +1047,19 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 **Denoising Prior Driven Deep Neural Network for Image Restoration**
 
 [https://arxiv.org/abs/1801.06756](https://arxiv.org/abs/1801.06756)
+
+**Globally and Locally Consistent Image Completion**
+
+- intro: SIGGRAPH 2017
+- project page: [http://hi.cs.waseda.ac.jp/~iizuka/projects/completion/en/](http://hi.cs.waseda.ac.jp/~iizuka/projects/completion/en/)
+- paper: [http://hi.cs.waseda.ac.jp/~iizuka/projects/completion/data/completion_sig2017.pdf](http://hi.cs.waseda.ac.jp/~iizuka/projects/completion/data/completion_sig2017.pdf)
+- github(official): [https://github.com/satoshiiizuka/siggraph2017_inpainting](https://github.com/satoshiiizuka/siggraph2017_inpainting)
+- github: [https://github.com/akmtn/pytorch-siggraph2017-inpainting](https://github.com/akmtn/pytorch-siggraph2017-inpainting)
+
+**Multi-level Wavelet-CNN for Image Restoration**
+
+- intro: CVPR 2018 NTIRE Workshop
+- arxiv: [https://arxiv.org/abs/1805.07071](https://arxiv.org/abs/1805.07071)
 
 ## Face Completion
 
@@ -1211,6 +1242,11 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 
 [https://arxiv.org/abs/1805.03305](https://arxiv.org/abs/1805.03305)
 
+**Cycle-Dehaze: Enhanced CycleGAN for Single Image Dehazing**
+
+- intro: CVPRW: NTIRE 2018
+- arxiv: [https://arxiv.org/abs/1805.05308](https://arxiv.org/abs/1805.05308)
+
 # Image Rain Removal / De-raining
 
 **Clearing the Skies: A deep network architecture for single-image rain removal**
@@ -1255,7 +1291,16 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 
 [https://arxiv.org/abs/1804.07493](https://arxiv.org/abs/1804.07493)
 
+**Lightweight Pyramid Networks for Image Deraining**
+
+[https://arxiv.org/abs/1805.06173](https://arxiv.org/abs/1805.06173)
+
 # Fence Removal
+
+**My camera can see through fences: A deep learning approach for image de-fencing**
+
+- intro: ACPR 2015
+- arxiv: [https://arxiv.org/abs/1805.07442](https://arxiv.org/abs/1805.07442)
 
 **Deep learning based fence segmentation and removal from an image using a video sequence**
 
@@ -1353,6 +1398,11 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 **Adversarial Spatio-Temporal Learning for Video Deblurring**
 
 [https://arxiv.org/abs/1804.00533](https://arxiv.org/abs/1804.00533)
+
+**Learning to Deblur Images with Exemplars**
+
+- intro: PAMI 2018
+- arxiv: [https://arxiv.org/abs/1805.05503](https://arxiv.org/abs/1805.05503)
 
 # Image Compression
 
@@ -1464,6 +1514,10 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 - intro: CVPR 2018
 - arxiv: [https://arxiv.org/abs/1804.04593](https://arxiv.org/abs/1804.04593)
 
+**Neural Multi-scale Image Compression**
+
+[https://arxiv.org/abs/1805.06386](https://arxiv.org/abs/1805.06386)
+
 # Image Quality Assessment
 
 **Deep Neural Networks for No-Reference and Full-Reference Image Quality Assessment**
@@ -1525,6 +1579,10 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 **Toward a Taxonomy and Computational Models of Abnormalities in Images**
 
 - arxiv: [http://arxiv.org/abs/1512.01325](http://arxiv.org/abs/1512.01325)
+
+**GANomaly: Semi-Supervised Anomaly Detection via Adversarial Training**
+
+[https://arxiv.org/abs/1805.06725](https://arxiv.org/abs/1805.06725)
 
 # Depth Prediction / Depth Estimation
 
@@ -1797,6 +1855,11 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 - project page: [http://www3.cs.stonybrook.edu/~cvl/content/neuralface/neuralface.html](http://www3.cs.stonybrook.edu/~cvl/content/neuralface/neuralface.html)
 - arxiv: [https://arxiv.org/abs/1704.04131](https://arxiv.org/abs/1704.04131)
 
+**Arbitrary Facial Attribute Editing: Only Change What You Want**
+
+- arxiv: [https://arxiv.org/abs/1711.10678](https://arxiv.org/abs/1711.10678)
+- github: [https://github.com/LynnHo/AttGAN-Tensorflow](https://github.com/LynnHo/AttGAN-Tensorflow)
+
 **RSGAN: Face Swapping and Editing using Face and Hair Representation in Latent Spaces**
 
 [https://arxiv.org/abs/1804.03447](https://arxiv.org/abs/1804.03447)
@@ -1894,6 +1957,13 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 
 - intro: ICIP 2018
 - arxiv: [https://arxiv.org/abs/1805.02733](https://arxiv.org/abs/1805.02733)
+
+**LiteFlowNet: A Lightweight Convolutional Neural Network for Optical Flow Estimation**
+
+- intro: CVPR 2018 (spotlight)
+- project page: [http://mmlab.ie.cuhk.edu.hk/projects/LiteFlowNet/](http://mmlab.ie.cuhk.edu.hk/projects/LiteFlowNet/)
+- arxiv: [https://arxiv.org/abs/1805.07036](https://arxiv.org/abs/1805.07036)
+- github: [https://github.com/twhui/LiteFlowNet](https://github.com/twhui/LiteFlowNet)
 
 # 3D
 
@@ -2198,6 +2268,11 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 
 - intro: This post brings together cryptos and deep learning in a desperate attempt for Reddit popularity
 - blog: [https://dashee87.github.io/deep%20learning/python/predicting-cryptocurrency-prices-with-deep-learning/](https://dashee87.github.io/deep%20learning/python/predicting-cryptocurrency-prices-with-deep-learning/)
+
+**Deep Trading Agent**
+
+- intro: Deep Reinforcement Learning based Trading Agent for Bitcoin
+- arxiv: [https://github.com/samre12/deep-trading-agent](https://github.com/samre12/deep-trading-agent)
 
 # Deep Learning in Speech
 

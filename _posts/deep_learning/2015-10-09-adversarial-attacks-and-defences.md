@@ -281,3 +281,18 @@ date: 2015-10-09
 **On the Limitation of MagNet Defense against L1-based Adversarial Examples**
 
 [https://arxiv.org/abs/1805.00310](https://arxiv.org/abs/1805.00310)
+
+**Defense-GAN: Protecting Classifiers Against Adversarial Attacks Using Generative Models**
+
+- intro: ICLR 2018
+- arxiv: [https://arxiv.org/abs/1805.06605](https://arxiv.org/abs/1805.06605)
+- github: [https://github.com/kabkabm/defensegan](https://github.com/kabkabm/defensegan)
+
+**Siamese networks for generating adversarial examples**
+
+[https://arxiv.org/abs/1805.01431](https://arxiv.org/abs/1805.01431)
+
+**Generative Adversarial Examples**
+
+- intro: Stanford University & Microsoft Research
+- arxiv: [https://arxiv.org/abs/1805.07894](https://arxiv.org/abs/1805.07894)

@@ -538,6 +538,11 @@ date: 2015-10-09
 
 [https://arxiv.org/abs/1805.02459](https://arxiv.org/abs/1805.02459)
 
+**Efficient end-to-end learning for quantizable representations**
+
+- intro: ICML 2018. Seoul National University
+- arxiv: [https://arxiv.org/abs/1805.05809](https://arxiv.org/abs/1805.05809)
+
 # Cross Modal Retrieval
 
 **Cross-domain Image Retrieval with a Dual Attribute-aware Ranking Network**
@@ -748,6 +753,10 @@ date: 2015-10-09
 **Attention-based Ensemble for Deep Metric Learning**
 
 [https://arxiv.org/abs/1804.00382](https://arxiv.org/abs/1804.00382)
+
+**Online Deep Metric Learning**
+
+[https://arxiv.org/abs/1805.05510](https://arxiv.org/abs/1805.05510)
 
 # Talks / Slides
 

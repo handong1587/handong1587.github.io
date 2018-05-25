@@ -115,6 +115,11 @@ date: 2015-10-09
 - intro: CVPR 2018
 - arxiv: [https://arxiv.org/abs/1805.02792](https://arxiv.org/abs/1805.02792)
 
+**Scanner: Efficient Video Analysis at Scale**
+
+- intro: CMU
+- arxiv: [https://arxiv.org/abs/1805.07339](https://arxiv.org/abs/1805.07339)
+
 # Video Classification
 
 **Large-scale Video Classification with Convolutional Neural Networks**
@@ -517,6 +522,18 @@ extract saptio-temporal features to represent the video using the CNNs."
 **Real-Time End-to-End Action Detection with Two-Stream Networks**
 
 [https://arxiv.org/abs/1802.08362](https://arxiv.org/abs/1802.08362)
+
+**A Closer Look at Spatiotemporal Convolutions for Action Recognition**
+
+- intro: CVPR 2018. Facebook Research
+- intro: R(2+1)D and Mixed-Convolutions for Action Recognition.
+- project page: [https://dutran.github.io/R2Plus1D/](https://dutran.github.io/R2Plus1D/)
+- arxiv: [https://arxiv.org/abs/1711.11248](https://arxiv.org/abs/1711.11248)
+- github: [https://github.com/facebookresearch/R2Plus1D](https://github.com/facebookresearch/R2Plus1D)
+
+**VideoCapsuleNet: A Simplified Network for Action Detection**
+
+[https://arxiv.org/abs/1805.08162](https://arxiv.org/abs/1805.08162)
 
 ### Projects
 

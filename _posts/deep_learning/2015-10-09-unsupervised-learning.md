@@ -304,6 +304,13 @@ testing it on the MNIST handwritten digits data.
 - intro: University of Florida
 - arxiv: [https://arxiv.org/abs/1804.00057](https://arxiv.org/abs/1804.00057)
 
+**Hyperspherical Variational Auto-Encoders**
+
+- intro: University of Amsterdam
+- project page: [https://nicola-decao.github.io/s-vae/](https://nicola-decao.github.io/s-vae/)
+- arxiv: [https://arxiv.org/abs/1804.00891](https://arxiv.org/abs/1804.00891)
+- github: [https://github.com/nicola-decao/s-vae](https://github.com/nicola-decao/s-vae)
+
 # RBM (Restricted Boltzmann Machine)
 
 ## Papers

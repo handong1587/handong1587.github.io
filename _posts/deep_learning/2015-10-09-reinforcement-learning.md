@@ -576,6 +576,10 @@ Incorporates dropout regularization and convolutional neural networks with a sep
 - arxiv: [https://arxiv.org/abs/1801.02852](https://arxiv.org/abs/1801.02852)
 - gihtub: [https://github.com//anonymous-author1/DDRL](https://github.com//anonymous-author1/DDRL)
 
+**GAN Q-learning**
+
+[https://arxiv.org/abs/1805.04874](https://arxiv.org/abs/1805.04874)
+
 ## Surveys
 
 **Reinforcement Learning: A Survey**

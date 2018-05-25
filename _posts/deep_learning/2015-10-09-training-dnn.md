@@ -362,6 +362,12 @@ date: 2015-10-09
 - intro: Facebook AI Research (FAIR)
 - arxiv: [https://arxiv.org/abs/1803.08494](https://arxiv.org/abs/1803.08494)
 
+## Batch-Instance Normalization
+
+**Batch-Instance Normalization for Adaptively Style-Invariant Neural Networks**
+
+[https://arxiv.org/abs/1805.07925](https://arxiv.org/abs/1805.07925)
+
 # Loss Function
 
 **The Loss Surfaces of Multilayer Networks**
@@ -422,6 +428,11 @@ date: 2015-10-09
 
 - intro: IJCAI 2018
 - arxiv: [https://arxiv.org/abs/1805.03922](https://arxiv.org/abs/1805.03922)
+
+**Generalized Cross Entropy Loss for Training Deep Neural Networks with Noisy Labels**
+
+- intro: Cornell University
+- arxiv: [https://arxiv.org/abs/1805.07836](https://arxiv.org/abs/1805.07836)
 
 # Learning Rate
 
@@ -689,6 +700,12 @@ date: 2015-10-09
 - github: [https://github.com/loshchil/AdamW-and-SGDW](https://github.com/loshchil/AdamW-and-SGDW)
 - github: [https://github.com/fastai/fastai/pull/46/files](https://github.com/fastai/fastai/pull/46/files)
 
+**On the Convergence of Adam and Beyond**
+
+- intro: ICLR 2018 best paper award. CMU & IBM Research
+- paper: [https://openreview.net/pdf?id=ryQu7f-RZ](https://openreview.net/pdf?id=ryQu7f-RZ)
+- openreview: [https://openreview.net/forum?id=ryQu7f-RZ](https://openreview.net/forum?id=ryQu7f-RZ)
+
 # Tensor Methods
 
 **Tensorizing Neural Networks**
@@ -764,6 +781,12 @@ date: 2015-10-09
 
 - intro: CVPR 2018
 - arxiv: [https://arxiv.org/abs/1804.02009](https://arxiv.org/abs/1804.02009)
+
+**Adversarial Noise Layer: Regularize Neural Network By Adding Noise**
+
+- intro: Peking University & ‡University of Electronic Science and Technology of China & Australian National University
+- arxiv: [https://arxiv.org/abs/1805.08000](https://arxiv.org/abs/1805.08000)
+- github: [https://github.com/youzhonghui/ANL](https://github.com/youzhonghui/ANL)
 
 ## Dropout
 

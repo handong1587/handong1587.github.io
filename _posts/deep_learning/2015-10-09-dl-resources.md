@@ -323,6 +323,11 @@ not just the convolutions)
 
 [https://arxiv.org/abs/1805.01352](https://arxiv.org/abs/1805.01352)
 
+**Norm-Preservation: Why Residual Networks Can Become Extremely Deep?**
+
+- intro: University of Central Florida
+- arxiv: [https://arxiv.org/abs/1805.07477](https://arxiv.org/abs/1805.07477)
+
 ## DenseNet
 
 **Densely Connected Convolutional Networks**
@@ -768,6 +773,14 @@ not just the convolutions)
 - intro: Imperial College London
 - arxiv: [https://arxiv.org/abs/1803.10704](https://arxiv.org/abs/1803.10704)
 
+**Cross-connected Networks for Multi-task Learning of Detection and Segmentation**
+
+[https://arxiv.org/abs/1805.05569](https://arxiv.org/abs/1805.05569)
+
+**Auxiliary Tasks in Multi-task Learning**
+
+[https://arxiv.org/abs/1805.06334](https://arxiv.org/abs/1805.06334)
+
 # Multi-modal Learning
 
 **Multimodal Deep Learning**
@@ -1013,7 +1026,7 @@ with fast exact probabilistic inference over many layers."
 
 **Domain Separation Networks**
 
-- intro: NIPS 2016
+- intro: NIPS 2016. Google Brain & Imperial College London & Google Research
 - arxiv: [https://arxiv.org/abs/1608.06019](https://arxiv.org/abs/1608.06019)
 - github: [https://github.com/tensorflow/models/tree/master/domain_adaptation](https://github.com/tensorflow/models/tree/master/domain_adaptation)
 
@@ -1305,7 +1318,7 @@ with fast exact probabilistic inference over many layers."
 
 **Spherical CNNs**
 
-- intro: ICLR 2018
+- intro: ICLR 2018 best paper award. University of Amsterdam & EPFL
 - arxiv: [https://arxiv.org/abs/1801.10130](https://arxiv.org/abs/1801.10130)
 - github(official, PyTorch): [https://github.com/jonas-koehler/s2cnn](https://github.com/jonas-koehler/s2cnn)
 
@@ -1328,6 +1341,20 @@ with fast exact probabilistic inference over many layers."
 
 - intro: CVPR 2018 (Spotlight)
 - arxiv: [https://arxiv.org/abs/1804.08071](https://arxiv.org/abs/1804.08071)
+
+**Optical Neural Networks**
+
+[https://arxiv.org/abs/1805.06082](https://arxiv.org/abs/1805.06082)
+
+**Regularization Learning Networks**
+
+- intro: Weizmann Institute of Science
+- keywords: Regularization Learning Networks (RLNs), Counterfactual Loss, tabular datasets
+- arxiv: [https://arxiv.org/abs/1805.06440](https://arxiv.org/abs/1805.06440)
+
+**Bilinear Attention Networks**
+
+[https://arxiv.org/abs/1805.07932](https://arxiv.org/abs/1805.07932)
 
 ## Convolutions / Filters
 
@@ -1439,6 +1466,11 @@ with fast exact probabilistic inference over many layers."
 
 [https://arxiv.org/abs/1801.09467](https://arxiv.org/abs/1801.09467)
 
+**Spatial Transformer Introspective Neural Network**
+
+- intro: Johns Hopkins University & Shanghai University
+- arxiv: [https://arxiv.org/abs/1805.06447](https://arxiv.org/abs/1805.06447)
+
 ## FractalNet
 
 **FractalNet: Ultra-Deep Neural Networks without Residuals**
@@ -1511,6 +1543,11 @@ with fast exact probabilistic inference over many layers."
 
 - intro: CMU
 - arxiv: [https://arxiv.org/abs/1802.07191](https://arxiv.org/abs/1802.07191)
+
+**AlphaX: eXploring Neural Architectures with Deep Neural Networks and Monte Carlo Tree Search**
+
+- intro: Brown University & Northeastern University
+- arxiv: [https://arxiv.org/abs/1805.07440](https://arxiv.org/abs/1805.07440)
 
 ## Graph Convolutional Networks
 
@@ -1666,6 +1703,10 @@ with fast exact probabilistic inference over many layers."
 
 - intro: AISTATS 2018. The University of Tokyo
 - arxiv: [https://arxiv.org/abs/1801.02227](https://arxiv.org/abs/1801.02227)
+
+**Batch Normalization in the final layer of generative networks**
+
+[https://arxiv.org/abs/1805.07389](https://arxiv.org/abs/1805.07389)
 
 # Deep Learning and Robots
 
@@ -2139,8 +2180,8 @@ with fast exact probabilistic inference over many layers."
 
 **Multiscale Hierarchical Convolutional Networks**
 
-[https://arxiv.org/abs/1703.04140](https://arxiv.org/abs/1703.04140)
-[https://github.com/jhjacobsen/HierarchicalCNN](https://github.com/jhjacobsen/HierarchicalCNN)
+- arxiv: [https://arxiv.org/abs/1703.04140](https://arxiv.org/abs/1703.04140)
+- github: [https://github.com/jhjacobsen/HierarchicalCNN](https://github.com/jhjacobsen/HierarchicalCNN)
 
 **Deep Neural Networks Do Not Recognize Negative Images**
 
@@ -2256,6 +2297,24 @@ with fast exact probabilistic inference over many layers."
 
 - intro: Idiap Research Institute
 - arxiv: [https://arxiv.org/abs/1803.00942](https://arxiv.org/abs/1803.00942)
+
+**Label Refinery: Improving ImageNet Classification through Label Progression**
+
+- intro: Using a Label Refinery improves the state-of-the-art top-1 accuracy of (1) AlexNet from 59.3 to 67.2, 
+(2) MobileNet from 70.6 to 73.39, (3) MobileNet-0.25 from 50.6 to 55.59, 
+(4) VGG19 from 72.7 to 75.46, and (5) Darknet19 from 72.9 to 74.47.
+- intro: XNOR AI, University of Washington, Allen AI
+- arxiv: [https://arxiv.org/abs/1805.02641](https://arxiv.org/abs/1805.02641)
+- github: [https://github.com/hessamb/label-refinery](https://github.com/hessamb/label-refinery)
+
+**Exploring the Limits of Weakly Supervised Pretraining**
+
+- intro: report the highest ImageNet-1k single-crop, top-1 accuracy to date: 85.4% (97.6% top-5)
+- paper: [https://research.fb.com/publications/exploring-the-limits-of-weakly-supervised-pretraining/](https://research.fb.com/publications/exploring-the-limits-of-weakly-supervised-pretraining/)
+
+**How Many Samples are Needed to Learn a Convolutional Neural Network?**
+
+[https://arxiv.org/abs/1805.07883](https://arxiv.org/abs/1805.07883)
 
 ## Tutorials and Surveys
 
@@ -2497,6 +2556,11 @@ with fast exact probabilistic inference over many layers."
 
 [https://arxiv.org/abs/1804.10427](https://arxiv.org/abs/1804.10427)
 
+**Learning Sampling Policies for Domain Adaptation**
+
+- intro: CMU
+- arxiv: [https://arxiv.org/abs/1805.07641](https://arxiv.org/abs/1805.07641)
+
 ## Embedding
 
 **Learning Deep Embeddings with Histogram Loss**
@@ -2556,14 +2620,15 @@ with fast exact probabilistic inference over many layers."
 - poster: [http://www.eccv2016.org/files/posters/O-3A-03.pdf](http://www.eccv2016.org/files/posters/O-3A-03.pdf)
 - github: [https://github.com/Liusifei/caffe-lowlevel](https://github.com/Liusifei/caffe-lowlevel)
 
-**DSAC - Differentiable RANSAC for Camera Localization**
-
-- arxiv: [https://arxiv.org/abs/1611.05705](https://arxiv.org/abs/1611.05705)
-
 **Toward Geometric Deep SLAM**
 
 - intro: Magic Leap, Inc
 - arxiv: [https://arxiv.org/abs/1707.07410](https://arxiv.org/abs/1707.07410)
+
+**Learning Dual Convolutional Neural Networks for Low-Level Vision**
+
+- intro: CVPR 2018
+- arxiv: [https://arxiv.org/abs/1805.05020](https://arxiv.org/abs/1805.05020)
 
 ### All-In-One Network
 
@@ -3030,6 +3095,10 @@ feed-forward neural nets and deep learning.
 - github: [https://github.com//fornaxai/receptivefield](https://github.com//fornaxai/receptivefield)
 
 # Challenges / Hackathons
+
+**Open Images Challenge 2018**
+
+[https://storage.googleapis.com/openimages/web/challenge.html](https://storage.googleapis.com/openimages/web/challenge.html)
 
 **VisionHack 2017**
 

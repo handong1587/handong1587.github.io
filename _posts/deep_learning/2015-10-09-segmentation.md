@@ -66,11 +66,22 @@ date: 2015-10-09
 - arxiv: [https://arxiv.org/abs/1703.04363](https://arxiv.org/abs/1703.04363)
 - demo: [https://gyglim.github.io/deep-value-net/](https://gyglim.github.io/deep-value-net/)
 
+## PolygonRNN
+
 **Annotating Object Instances with a Polygon-RNN**
 
 - intro: CVPR 2017. CVPR Best Paper Honorable Mention Award. University of Toronto
 - project page: [http://www.cs.toronto.edu/polyrnn/](http://www.cs.toronto.edu/polyrnn/)
 - arxiv: [https://arxiv.org/abs/1704.05548](https://arxiv.org/abs/1704.05548)
+
+## PolygonRNN++
+
+**Efficient Interactive Annotation of Segmentation Datasets with Polygon-RNN++**
+
+- intro: CVPR 2018
+- project page: [http://www.cs.toronto.edu/polyrnn/](http://www.cs.toronto.edu/polyrnn/)
+- arxiv: [https://arxiv.org/abs/1803.09693](https://arxiv.org/abs/1803.09693)
+- github: [https://github.com/davidjesusacu/polyrnn-pp](https://github.com/davidjesusacu/polyrnn-pp)
 
 **Semantic Segmentation via Structured Patch Prediction, Context CRF and Guidance CRF**
 
@@ -762,6 +773,24 @@ with built-in awareness of semantically meaningful boundaries. "
 - intro: CVPR 2018
 - arxiv: [https://arxiv.org/abs/1804.09337](https://arxiv.org/abs/1804.09337)
 
+**Deep Representation Learning for Domain Adaptation of Semantic Image Segmentation**
+
+[https://arxiv.org/abs/1805.04141](https://arxiv.org/abs/1805.04141)
+
+**Convolutional CRFs for Semantic Segmentation**
+
+- arxiv: [https://arxiv.org/abs/1805.04777](https://arxiv.org/abs/1805.04777)
+- github: [https://github.com/MarvinTeichmann/ConvCRF](https://github.com/MarvinTeichmann/ConvCRF)
+
+**ContextNet: Exploring Context and Detail for Semantic Segmentation in Real-time**
+
+- intro: Toshiba Research
+- arxiv: [https://arxiv.org/abs/1805.04554](https://arxiv.org/abs/1805.04554)
+
+**DifNet: Semantic Segmentation by DiffusionNetworks**
+
+[https://arxiv.org/abs/1805.08015](https://arxiv.org/abs/1805.08015)
+
 # Instance Segmentation
 
 **Simultaneous Detection and Segmentation**
@@ -894,6 +923,11 @@ with built-in awareness of semantically meaningful boundaries. "
 
 - intro: CVPR 2017
 - arxiv: [https://arxiv.org/abs/1704.03604](https://arxiv.org/abs/1704.03604)
+
+**MEnet: A Metric Expression Network for Salient Object Segmentation**
+
+- intro: IJCAI
+- arxiv: [https://arxiv.org/abs/1805.05638](https://arxiv.org/abs/1805.05638)
 
 **Semantic Instance Segmentation with a Discriminative Loss Function**
 
@@ -1326,6 +1360,11 @@ ranked 1st place in ImageNet Scene Parsing Challenge 2016
 
 - intro: CVPR 2018
 - arxiv: [https://arxiv.org/abs/1804.03131](https://arxiv.org/abs/1804.03131)
+
+**Unsupervised Video Object Segmentation for Deep Reinforcement Learning**
+
+- intro: University of Waterloo
+- arxiv: [https://arxiv.org/abs/1805.07780](https://arxiv.org/abs/1805.07780)
 
 ## Challenge
 

@@ -401,6 +401,11 @@ date: 2015-10-09
 
 [https://arxiv.org/abs/1802.06488](https://arxiv.org/abs/1802.06488)
 
+**MDSSD: Multi-scale Deconvolutional Single Shot Detector for small objects**
+
+- intro: Zhengzhou University
+- arxiv: [https://arxiv.org/abs/1805.07009](https://arxiv.org/abs/1805.07009)
+
 ## Inside-Outside Net (ION)
 
 **Inside-Outside Net: Detecting Objects in Context with Skip Pooling and Recurrent Neural Networks**
@@ -878,6 +883,11 @@ Continuation of [arXiv:1608.08021](https://arxiv.org/abs/1608.08021)
 
 [https://arxiv.org/abs/1805.02152](https://arxiv.org/abs/1805.02152)
 
+**Object detection at 200 Frames Per Second**
+
+- intro: United Technologies Research Center-Ireland
+- arxiv: [https://arxiv.org/abs/1805.06361](https://arxiv.org/abs/1805.06361)
+
 # Non-Maximum Suppression (NMS)
 
 **End-to-End Integration of a Convolutional Network, Deformable Parts Model and Non-Maximum Suppression**
@@ -1105,6 +1115,11 @@ Continuation of [arXiv:1608.08021](https://arxiv.org/abs/1608.08021)
 
 - intro: Australian National University
 - arxiv: [https://arxiv.org/abs/1803.06049](https://arxiv.org/abs/1803.06049)
+
+**Zero-Shot Object Detection by Hybrid Region Embedding**
+
+- intro: Middle East Technical University & Hacettepe University
+- arxiv: [https://arxiv.org/abs/1805.06157](https://arxiv.org/abs/1805.06157)
 
 # Salient Object Detection
 
@@ -1548,7 +1563,8 @@ This task involves predicting the salient regions of an image given by human eye
 
 **Anchor Cascade for Efficient Face Detection**
 
-[https://arxiv.org/abs/1805.03363](https://arxiv.org/abs/1805.03363)
+- intro: The University of Sydney
+- arxiv: [https://arxiv.org/abs/1805.03363](https://arxiv.org/abs/1805.03363)
 
 ## Detect Small Faces
 
@@ -1850,6 +1866,11 @@ This task involves predicting the salient regions of an image given by human eye
 
 - intro: CVPR 2018
 - arxiv: [https://arxiv.org/abs/1712.04142](https://arxiv.org/abs/1712.04142)
+
+**Direction-aware Spatial Context Features for Shadow Detection and Removal**
+
+- intro: The Chinese University of Hong Kong & The Hong Kong Polytechnic University
+- arxiv:- arxiv:  [https://arxiv.org/abs/1805.04635](https://arxiv.org/abs/1805.04635)
 
 # Others Detection
 

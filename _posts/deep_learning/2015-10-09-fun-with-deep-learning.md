@@ -344,6 +344,11 @@ Compressed model is less than 500KB
 
 [https://arxiv.org/abs/1805.04103](https://arxiv.org/abs/1805.04103)
 
+**Avatar-Net: Multi-scale Zero-shot Style Transfer by Feature Decoration**
+
+- intro: CVPR 2018. CUHK & SenseTime
+- arxiv: [https://arxiv.org/abs/1805.03857](https://arxiv.org/abs/1805.03857)
+
 ## Neural Art On Audio
 
 **MSc AI Project on generative deep networks and neural style transfer for audio**

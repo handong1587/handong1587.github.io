@@ -321,6 +321,20 @@ after the embedding and recurrent layers of the RNN."
 - intro: NAACL 2018
 - arxiv: [https://arxiv.org/abs/1805.00314](https://arxiv.org/abs/1805.00314)
 
+**Defoiling Foiled Image Captions**
+
+- intro: NAACL 2018
+- arxiv: [https://arxiv.org/abs/1805.06549](https://arxiv.org/abs/1805.06549)
+
+**SemStyle: Learning to Generate Stylised Image Captions using Unaligned Text**
+
+- intro: CVPR 2018
+- arxiv: [https://arxiv.org/abs/1805.07030](https://arxiv.org/abs/1805.07030)
+
+**Improving Image Captioning with Conditional Generative Adversarial Nets**
+
+[https://arxiv.org/abs/1805.07112](https://arxiv.org/abs/1805.07112)
+
 # Object Descriptions
 
 **Generation and Comprehension of Unambiguous Object Descriptions**

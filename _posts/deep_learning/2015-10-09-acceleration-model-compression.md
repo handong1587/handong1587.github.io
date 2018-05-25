@@ -608,6 +608,11 @@ at INT8 deep learning operations than other FPGA DSP architectures"
 
 [https://arxiv.org/abs/1802.02733](https://arxiv.org/abs/1802.02733)
 
+**Energy Efficient Hadamard Neural Networks**
+
+- keywords: Binary Weight and Hadamard-transformed Image Network (BWHIN), Binary Weight Network (BWN), Hadamard-transformed Image Network (HIN)
+- arxiv: [https://arxiv.org/abs/1805.05421](https://arxiv.org/abs/1805.05421)
+
 # Accelerating / Fast Algorithms
 
 **Fast Algorithms for Convolutional Neural Networks**
@@ -679,6 +684,11 @@ at INT8 deep learning operations than other FPGA DSP architectures"
 - intro: CVPR 2018
 - arxiv: [https://arxiv.org/abs/1802.09723](https://arxiv.org/abs/1802.09723)
 
+**Co-Design of Deep Neural Nets and Neural Net Accelerators for Embedded Vision Applications**
+
+- intro: UC Berkeley & Samsung Research
+- arxiv: [https://arxiv.org/abs/1804.10642](https://arxiv.org/abs/1804.10642)
+
 # Knowledge Distilling / Knowledge Transfer
 
 **Distilling the Knowledge in a Neural Network**
@@ -698,6 +708,7 @@ at INT8 deep learning operations than other FPGA DSP architectures"
 
 - intro: TuSimple
 - arxiv: [https://arxiv.org/abs/1707.01219](https://arxiv.org/abs/1707.01219)
+- github: [https://github.com/TuSimple/neuron-selectivity-transfer](https://github.com/TuSimple/neuron-selectivity-transfer)
 
 **Learning Loss for Knowledge Distillation with Conditional Adversarial Networks**
 
@@ -724,6 +735,20 @@ at INT8 deep learning operations than other FPGA DSP architectures"
 - intro: Neural Network Distiller: a Python package for neural network compression research
 - project page: [https://nervanasystems.github.io/distiller/](https://nervanasystems.github.io/distiller/)
 - github: [https://github.com/NervanaSystems/distiller](https://github.com/NervanaSystems/distiller)
+
+**Knowledge Distillation in Generations: More Tolerant Teachers Educate Better Students**
+
+- intro: The Johns Hopkins University
+- arxiv: [https://arxiv.org/abs/1805.05551](https://arxiv.org/abs/1805.05551)
+
+**Improving Knowledge Distillation with Supporting Adversarial Samples**
+
+[https://arxiv.org/abs/1805.05532](https://arxiv.org/abs/1805.05532)
+
+**Recurrent knowledge distillation**
+
+- intro: ICIP 2018
+- arxiv: [https://arxiv.org/abs/1805.07170](https://arxiv.org/abs/1805.07170)
 
 # Code Optimization
 

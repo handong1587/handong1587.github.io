@@ -133,6 +133,10 @@ date: 2015-10-09
 
 - paper: [http://www.ee.cuhk.edu.hk/~xgwang/papers/sunWTcvpr16.pdf](http://www.ee.cuhk.edu.hk/~xgwang/papers/sunWTcvpr16.pdf)
 
+**DeMeshNet: Blind Face Inpainting for Deep MeshFace Verification**
+
+[https://arxiv.org/abs/1611.05271](https://arxiv.org/abs/1611.05271)
+
 **Range Loss for Deep Face Recognition with Long-tail**
 
 - arxiv: [https://arxiv.org/abs/1611.08976](https://arxiv.org/abs/1611.08976)
@@ -227,7 +231,8 @@ date: 2015-10-09
 
 **MobileFaceNets: Efficient CNNs for Accurate Real-time Face Verification on Mobile Devices**
 
-[https://arxiv.org/abs/1804.07573](https://arxiv.org/abs/1804.07573)
+- intro: Beijing Jiaotong University & Watchdata Inc
+- arxiv: [https://arxiv.org/abs/1804.07573](https://arxiv.org/abs/1804.07573)
 
 **DisguiseNet : A Contrastive Approach for Disguised Face Verification in the Wild**
 
@@ -244,6 +249,14 @@ date: 2015-10-09
 **Scalable Angular Discriminative Deep Metric Learning for Face Recognition**
 
 [https://arxiv.org/abs/1804.10899](https://arxiv.org/abs/1804.10899)
+
+**Minimum Margin Loss for Deep Face Recognition**
+
+[https://arxiv.org/abs/1805.06741](https://arxiv.org/abs/1805.06741)
+
+**Wildest Faces: Face Detection and Recognition in Violent Settings**
+
+[https://arxiv.org/abs/1805.07566](https://arxiv.org/abs/1805.07566)
 
 # Facial Attributes Classification
 
@@ -270,6 +283,12 @@ date: 2015-10-09
 - arxiv: [https://arxiv.org/abs/1805.01282](https://arxiv.org/abs/1805.01282)
 
 # Video Face Recognition
+
+**Neural Aggregation Network for Video Face Recognition**
+
+- intro: CVPR 2017
+- keywords: Neural Aggregation Network (NAN)
+- arxiv: [https://arxiv.org/abs/1603.05474](https://arxiv.org/abs/1603.05474)
 
 **Attention-Set based Metric Learning for Video Face Recognition**
 
