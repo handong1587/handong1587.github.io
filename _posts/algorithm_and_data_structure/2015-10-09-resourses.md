@@ -55,6 +55,12 @@ date: 2015-07-01
 
 [https://www.edx.org/course/algorithms-iitbombayx-cs213-3x](https://www.edx.org/course/algorithms-iitbombayx-cs213-3x)
 
+**(Coursera) Master Algorithmic Programming Techniques**
+
+- intro: Learn algorithms through programming and advance your software engineering or data science career
+- intro: Algorithmic Toolbox, Data Structures, Algorithms on Graphs, Algorithms on Strings, Advanced Algorithms and Complexity, Genome Assembly Programming Challenge
+- course-page: [https://www.coursera.org/specializations/data-structures-algorithms](https://www.coursera.org/specializations/data-structures-algorithms)
+
 # Papers
 
 **The JPS Pathfinding System**
