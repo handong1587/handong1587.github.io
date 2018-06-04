@@ -791,6 +791,10 @@ with built-in awareness of semantically meaningful boundaries. "
 
 [https://arxiv.org/abs/1805.08015](https://arxiv.org/abs/1805.08015)
 
+**Pyramid Attention Network for Semantic Segmentation**
+
+[https://arxiv.org/abs/1805.10180](https://arxiv.org/abs/1805.10180)
+
 # Instance Segmentation
 
 **Simultaneous Detection and Segmentation**

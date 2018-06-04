@@ -218,6 +218,10 @@ date: 2015-10-09
 - arxiv: [https://arxiv.org/abs/1805.01677](https://arxiv.org/abs/1805.01677)
 - github: [https://github.com/yaxingwang/Transferring-GANs](https://github.com/yaxingwang/Transferring-GANs)
 
+**Cross Domain Image Generation through Latent Space Exploration with Adversarial Loss**
+
+[https://arxiv.org/abs/1805.10130](https://arxiv.org/abs/1805.10130)
+
 # Face Image Generation
 
 **Fader Networks: Manipulating Images by Sliding Attributes**

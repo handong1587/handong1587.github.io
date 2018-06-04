@@ -349,6 +349,10 @@ Compressed model is less than 500KB
 - intro: CVPR 2018. CUHK & SenseTime
 - arxiv: [https://arxiv.org/abs/1805.03857](https://arxiv.org/abs/1805.03857)
 
+**Beyond Textures: Learning from Multi-domain Artistic Images for Arbitrary Style Transfer**
+
+[https://arxiv.org/abs/1805.09987](https://arxiv.org/abs/1805.09987)
+
 ## Neural Art On Audio
 
 **MSc AI Project on generative deep networks and neural style transfer for audio**

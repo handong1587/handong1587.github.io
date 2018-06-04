@@ -15,6 +15,12 @@ date: 2015-10-09
 
 [https://blog.acolyer.org/2017/03/01/optimisation-and-training-techniques-for-deep-learning/](https://blog.acolyer.org/2017/03/01/optimisation-and-training-techniques-for-deep-learning/)
 
+# Papers
+
+**SNIPER: Efficient Multi-Scale Training**
+
+[https://arxiv.org/abs/1805.09300](https://arxiv.org/abs/1805.09300)
+
 # Activation functions
 
 ## ReLU
@@ -1234,6 +1240,10 @@ date: 2015-10-09
 - intro: The University of Tokyo & NTT Communications Science Laboratories
 - arxiv: [https://arxiv.org/abs/1803.11370](https://arxiv.org/abs/1803.11370)
 - github(Chainer): [https://github.com/akitotakeki/pgp-chainer](https://github.com/akitotakeki/pgp-chainer)
+
+**AutoAugment: Learning Augmentation Policies from Data**
+
+[https://arxiv.org/abs/1805.09501](https://arxiv.org/abs/1805.09501)
 
 ## Imbalanced Datasets
 

@@ -180,6 +180,15 @@ date: 2015-10-09
 - intro: CVPRW (2018). Workshop: Visual Understanding of Humans in Crowd Scene and the 2nd Look Into Person Challenge (VUHCS-LIP)
 - arxiv: [https://arxiv.org/abs/1804.07909](https://arxiv.org/abs/1804.07909)
 
+**3D Human Pose Estimation with Relational Networks**
+
+[https://arxiv.org/abs/1805.08961](https://arxiv.org/abs/1805.08961)
+
+**Jointly Optimize Data Augmentation and Network Training: Adversarial Data Augmentation in Human Pose Estimation**
+
+- intro: CVPR 2018
+- arxiv: [https://arxiv.org/abs/1805.09707](https://arxiv.org/abs/1805.09707)
+
 ## AlphaPose
 
 **RMPE: Regional Multi-person Pose Estimation**

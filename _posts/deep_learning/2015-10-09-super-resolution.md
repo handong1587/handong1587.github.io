@@ -273,6 +273,10 @@ date: 2015-10-09
 - intro: CVPR 2018
 - arxiv: [https://arxiv.org/abs/1803.09454](https://arxiv.org/abs/1803.09454)
 
+**Deep Residual Networks with a Fully Connected Recon-struction Layer for Single Image Super-Resolution**
+
+[https://arxiv.org/abs/1805.10143](https://arxiv.org/abs/1805.10143)
+
 ## Video Super-resolution
 
 **Detail-revealing Deep Video Super-resolution**

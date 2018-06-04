@@ -582,6 +582,16 @@ not just the convolutions)
 - intro: University of Southern California & CMU & Amazon AI
 - paper: [http://metalearning.ml/papers/metalearn17_furlanello.pdf](http://metalearning.ml/papers/metalearn17_furlanello.pdf)
 
+**Do Better ImageNet Models Transfer Better?**
+
+- intro: Google Brain
+- arxiv: [https://arxiv.org/abs/1805.08974](https://arxiv.org/abs/1805.08974)
+
+**SOSELETO: A Unified Approach to Transfer Learning and Training with Noisy Labels**
+
+- keywords: SOSELETO (SOurce SELEction for Target Optimization)
+- arxiv: [https://arxiv.org/abs/1805.09622](https://arxiv.org/abs/1805.09622)
+
 ## One Shot Learning
 
 **One-shot Learning with Memory-Augmented Neural Networks**
@@ -635,6 +645,16 @@ not just the convolutions)
 - keywords: TriNet
 - arxiv: [https://arxiv.org/abs/1804.05298](https://arxiv.org/abs/1804.05298)
 - github: [https://github.com/tankche1/Semantic-Feature-Augmentation-in-Few-shot-Learning](https://github.com/tankche1/Semantic-Feature-Augmentation-in-Few-shot-Learning)
+
+**Transductive Propagation Network for Few-shot Learning**
+
+- intro: achieved the state-of-the-art results on miniImagenet
+- arxiv: [https://arxiv.org/abs/1805.10002](https://arxiv.org/abs/1805.10002)
+
+**TADAM: Task dependent adaptive metric for improved few-shot learning**
+
+- intro: Element AI
+- arxiv: [https://arxiv.org/abs/1805.10123](https://arxiv.org/abs/1805.10123)
 
 # Multi-label Learning
 
@@ -1356,6 +1376,10 @@ with fast exact probabilistic inference over many layers."
 
 [https://arxiv.org/abs/1805.07932](https://arxiv.org/abs/1805.07932)
 
+**Cautious Deep Learning**
+
+[https://arxiv.org/abs/1805.09460](https://arxiv.org/abs/1805.09460)
+
 ## Convolutions / Filters
 
 **Warped Convolutions: Efficient Invariance to Spatial Transformations**
@@ -1395,6 +1419,11 @@ with fast exact probabilistic inference over many layers."
 
 - arxiv: [https://arxiv.org/abs/1803.09926](https://arxiv.org/abs/1803.09926)
 - github: [https://github.com/clavichord93/diagonalwise-refactorization-tensorflow](https://github.com/clavichord93/diagonalwise-refactorization-tensorflow)
+
+**Use of symmetric kernels for convolutional neural networks**
+
+- intro: ICDSIAI 2018
+- arxiv: [https://arxiv.org/abs/1805.09421](https://arxiv.org/abs/1805.09421)
 
 ## Highway Networks
 
@@ -2316,6 +2345,10 @@ with fast exact probabilistic inference over many layers."
 
 [https://arxiv.org/abs/1805.07883](https://arxiv.org/abs/1805.07883)
 
+**VisualBackProp for learning using privileged information with CNNs**
+
+[https://arxiv.org/abs/1805.09474](https://arxiv.org/abs/1805.09474)
+
 ## Tutorials and Surveys
 
 **A Survey: Time Travel in Deep Learning Space: An Introduction to Deep Learning Models and How Deep Learning Models Evolved from the Initial Ideas**
@@ -2653,6 +2686,10 @@ with fast exact probabilistic inference over many layers."
 joint classification, detection and semantic segmentation via a unified architecture, less than 100 ms to perform all tasks
 - arxiv: [https://arxiv.org/abs/1612.07695](https://arxiv.org/abs/1612.07695)
 - github: [https://github.com/MarvinTeichmann/MultiNet](https://github.com/MarvinTeichmann/MultiNet)
+
+**Adversarial Collaboration: Joint Unsupervised Learning of Depth, Camera Motion, Optical Flow and Motion Segmentation**
+
+[https://arxiv.org/abs/1805.09806](https://arxiv.org/abs/1805.09806)
 
 ### Deep Learning for Data Structures
 

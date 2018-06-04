@@ -335,6 +335,10 @@ after the embedding and recurrent layers of the RNN."
 
 [https://arxiv.org/abs/1805.07112](https://arxiv.org/abs/1805.07112)
 
+**CNN+CNN: Convolutional Decoders for Image Captioning**
+
+[https://arxiv.org/abs/1805.09019](https://arxiv.org/abs/1805.09019)
+
 # Object Descriptions
 
 **Generation and Comprehension of Unambiguous Object Descriptions**
