@@ -999,6 +999,10 @@ with built-in awareness of semantically meaningful boundaries. "
 
 [https://arxiv.org/abs/1803.06459](https://arxiv.org/abs/1803.06459)
 
+**Bayesian Semantic Instance Segmentation in Open Set World**
+
+[https://arxiv.org/abs/1806.00911](https://arxiv.org/abs/1806.00911)
+
 ## Human Instance Segmentation
 
 **PersonLab: Person Pose Estimation and Instance Segmentation with a Bottom-Up, Part-Based, Geometric Embedding Model**
@@ -1369,6 +1373,12 @@ ranked 1st place in ImageNet Scene Parsing Challenge 2016
 
 - intro: University of Waterloo
 - arxiv: [https://arxiv.org/abs/1805.07780](https://arxiv.org/abs/1805.07780)
+
+**Fast and Accurate Online Video Object Segmentation via Tracking Parts**
+
+- intro: CVPR 2018
+- arxiv: [https://arxiv.org/abs/1806.02323](https://arxiv.org/abs/1806.02323)
+- github: [https://github.com/JingchunCheng/FAVOS](https://github.com/JingchunCheng/FAVOS)
 
 ## Challenge
 

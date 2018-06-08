@@ -311,6 +311,14 @@ testing it on the MNIST handwritten digits data.
 - arxiv: [https://arxiv.org/abs/1804.00891](https://arxiv.org/abs/1804.00891)
 - github: [https://github.com/nicola-decao/s-vae](https://github.com/nicola-decao/s-vae)
 
+**Spatial Frequency Loss for Learning Convolutional Autoencoders**
+
+[https://arxiv.org/abs/1806.02336](https://arxiv.org/abs/1806.02336)
+
+**DAQN: Deep Auto-encoder and Q-Network**
+
+[https://arxiv.org/abs/1806.00630](https://arxiv.org/abs/1806.00630)
+
 # RBM (Restricted Boltzmann Machine)
 
 ## Papers

@@ -138,6 +138,11 @@ date: 2015-10-09
 - intro: The University of Tokyo & RIKEN
 - arxiv: [https://arxiv.org/abs/1711.10284](https://arxiv.org/abs/1711.10284)
 
+**Efficient Traffic-Sign Recognition with Scale-aware CNN**
+
+- intro: BMVC 2017
+- arxiv: [https://arxiv.org/abs/1805.12289](https://arxiv.org/abs/1805.12289)
+
 **Co-domain Embedding using Deep Quadruplet Networks for Unseen Traffic Sign Recognition**
 
 - intro: AAAI 2018
@@ -221,6 +226,11 @@ date: 2015-10-09
 **Person Recognition in Social Media Photos**
 
 [https://arxiv.org/abs/1710.03224](https://arxiv.org/abs/1710.03224)
+
+**Unifying Identification and Context Learning for Person Recognition**
+
+- intro: CVPR 2018
+- paper: [http://openaccess.thecvf.com/content_cvpr_2018/papers/Huang_Unifying_Identification_and_CVPR_2018_paper.pdf](http://openaccess.thecvf.com/content_cvpr_2018/papers/Huang_Unifying_Identification_and_CVPR_2018_paper.pdf)
 
 # Fine-grained Recognition
 

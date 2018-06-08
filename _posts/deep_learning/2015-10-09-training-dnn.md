@@ -1245,6 +1245,10 @@ date: 2015-10-09
 
 [https://arxiv.org/abs/1805.09501](https://arxiv.org/abs/1805.09501)
 
+**Improved Mixed-Example Data Augmentation**
+
+[https://arxiv.org/abs/1805.11272](https://arxiv.org/abs/1805.11272)
+
 ## Imbalanced Datasets
 
 **Investigation on handling Structured & Imbalanced Datasets with Deep Learning**

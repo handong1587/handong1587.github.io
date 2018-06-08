@@ -277,6 +277,10 @@ date: 2015-10-09
 
 [https://arxiv.org/abs/1805.10143](https://arxiv.org/abs/1805.10143)
 
+**Adaptive Importance Learning for Improving Lightweight Image Super-resolution Network**
+
+[https://arxiv.org/abs/1806.01576](https://arxiv.org/abs/1806.01576)
+
 ## Video Super-resolution
 
 **Detail-revealing Deep Video Super-resolution**

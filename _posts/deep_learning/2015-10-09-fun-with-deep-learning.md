@@ -353,6 +353,15 @@ Compressed model is less than 500KB
 
 [https://arxiv.org/abs/1805.09987](https://arxiv.org/abs/1805.09987)
 
+**A Comprehensive Comparison between Neural Style Transfer and Universal Style Transfer**
+
+[https://arxiv.org/abs/1806.00868](https://arxiv.org/abs/1806.00868)
+
+**TernausNetV2: Fully Convolutional Network for Instance Segmentation**
+
+- arxiv: [https://arxiv.org/abs/1806.00844](https://arxiv.org/abs/1806.00844)
+- github: [https://github.com/ternaus/TernausNetV2](https://github.com/ternaus/TernausNetV2)
+
 ## Neural Art On Audio
 
 **MSc AI Project on generative deep networks and neural style transfer for audio**

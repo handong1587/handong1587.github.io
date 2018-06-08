@@ -434,6 +434,7 @@ not just the convolutions)
 - keywords: MobileNetV2, SSDLite, DeepLabv3
 - arxiv: [https://arxiv.org/abs/1801.04381](https://arxiv.org/abs/1801.04381)
 - github: [https://github.com/tensorflow/models/tree/master/research/slim/nets/mobilenet](https://github.com/tensorflow/models/tree/master/research/slim/nets/mobilenet)
+- github: [https://github.com/liangfu/mxnet-mobilenet-v2](https://github.com/liangfu/mxnet-mobilenet-v2)
 - blog: [https://research.googleblog.com/2018/04/mobilenetv2-next-generation-of-on.html](https://research.googleblog.com/2018/04/mobilenetv2-next-generation-of-on.html)
 
 ## SENet
@@ -1217,6 +1218,11 @@ with fast exact probabilistic inference over many layers."
 - intro: CVPR 2018
 - arxiv: [https://arxiv.org/abs/1804.06202](https://arxiv.org/abs/1804.06202)
 
+**IGCV3: Interleaved Low-Rank Group Convolutions for Efficient Deep Neural Networks**
+
+- arxiv: [https://arxiv.org/abs/1806.00178](https://arxiv.org/abs/1806.00178)
+- github(official): [https://github.com/homles11/IGCV3](https://github.com/homles11/IGCV3)
+
 **Sensor Transformation Attention Networks**
 
 [https://arxiv.org/abs/1708.01015](https://arxiv.org/abs/1708.01015)
@@ -1380,6 +1386,22 @@ with fast exact probabilistic inference over many layers."
 
 [https://arxiv.org/abs/1805.09460](https://arxiv.org/abs/1805.09460)
 
+**Perturbative Neural Networks**
+
+- intro: CVPR 2018
+- intro: We introduce a very simple, yet effective, module called a perturbation layer as an alternative to a convolutional layer
+- project page: [http://xujuefei.com/pnn.html](http://xujuefei.com/pnn.html)
+- arxiv: [https://arxiv.org/abs/1806.01817](https://arxiv.org/abs/1806.01817)
+
+**Lightweight Probabilistic Deep Networks**
+
+- intro: CVPR 2018
+- arxiv: [https://arxiv.org/abs/1805.11327](https://arxiv.org/abs/1805.11327)
+
+**Channel Gating Neural Networks**
+
+[https://arxiv.org/abs/1805.12549](https://arxiv.org/abs/1805.12549)
+
 ## Convolutions / Filters
 
 **Warped Convolutions: Efficient Invariance to Spatial Transformations**
@@ -1424,6 +1446,14 @@ with fast exact probabilistic inference over many layers."
 
 - intro: ICDSIAI 2018
 - arxiv: [https://arxiv.org/abs/1805.09421](https://arxiv.org/abs/1805.09421)
+
+**EasyConvPooling: Random Pooling with Easy Convolution for Accelerating Training and Testing**
+
+[https://arxiv.org/abs/1806.01729](https://arxiv.org/abs/1806.01729)
+
+**Targeted Kernel Networks: Faster Convolutions with Attentive Regularization**
+
+[https://arxiv.org/abs/1806.00523](https://arxiv.org/abs/1806.00523)
 
 ## Highway Networks
 
@@ -1659,6 +1689,10 @@ with fast exact probabilistic inference over many layers."
 
 - intro: CMU
 - arxiv: [https://arxiv.org/abs/1803.04489](https://arxiv.org/abs/1803.04489)
+
+**Videos as Space-Time Region Graphs**
+
+[https://arxiv.org/abs/1806.01810](https://arxiv.org/abs/1806.01810)
 
 # Generative Models
 
@@ -2522,6 +2556,11 @@ with fast exact probabilistic inference over many layers."
 
 [https://arxiv.org/abs/1802.00853](https://arxiv.org/abs/1802.00853)
 
+**Learn the new, keep the old: Extending pretrained models with new anatomy and images**
+
+- intro: MICCAI 2018
+- arxiv: [https://arxiv.org/abs/1806.00265](https://arxiv.org/abs/1806.00265)
+
 ## Ensemble Deep Learning
 
 **Convolutional Neural Fabrics**
@@ -2608,6 +2647,10 @@ with fast exact probabilistic inference over many layers."
 **Clustering-driven Deep Embedding with Pairwise Constraints**
 
 [https://arxiv.org/abs/1803.08457](https://arxiv.org/abs/1803.08457)
+
+**Deep Mixture of Experts via Shallow Embedding**
+
+[https://arxiv.org/abs/1806.01531](https://arxiv.org/abs/1806.01531)
 
 ## Regression
 

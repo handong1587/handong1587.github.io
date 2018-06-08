@@ -639,6 +639,10 @@ date: 2015-10-09
 - intro: University of Toronto & University of Waterloo
 - arxiv: [https://arxiv.org/abs/1801.01078](https://arxiv.org/abs/1801.01078)
 
+**Grow and Prune Compact, Fast, and Accurate LSTMs**
+
+[https://arxiv.org/abs/1805.11797](https://arxiv.org/abs/1805.11797)
+
 # Projects
 
 **NeuralTalk (Deprecated): a Python+numpy project for learning Multimodal Recurrent Neural Networks that describe images with sentences**

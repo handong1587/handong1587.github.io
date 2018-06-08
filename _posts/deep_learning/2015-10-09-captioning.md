@@ -339,6 +339,10 @@ after the embedding and recurrent layers of the RNN."
 
 [https://arxiv.org/abs/1805.09019](https://arxiv.org/abs/1805.09019)
 
+**Diverse and Controllable Image Captioning with Part-of-Speech Guidance**
+
+[https://arxiv.org/abs/1805.12589](https://arxiv.org/abs/1805.12589)
+
 # Object Descriptions
 
 **Generation and Comprehension of Unambiguous Object Descriptions**
@@ -533,6 +537,10 @@ after the embedding and recurrent layers of the RNN."
 
 - intro: CVPR 2018 Spotlight, Rank 1 in ActivityNet Captions Challenge 2017
 - arxiv: [https://arxiv.org/abs/1804.08274](https://arxiv.org/abs/1804.08274)
+
+**Contextualize, Show and Tell: A Neural Visual Storyteller**
+
+[https://arxiv.org/abs/1806.00738](https://arxiv.org/abs/1806.00738)
 
 # Projects
 
