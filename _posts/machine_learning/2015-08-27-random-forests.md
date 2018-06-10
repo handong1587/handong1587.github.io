@@ -43,6 +43,10 @@ date: 2015-08-27
 - blog: [http://jiwonkim.org/awesome-random-forest/](http://jiwonkim.org/awesome-random-forest/)
 - github: [https://github.com/kjw0612/awesome-random-forest](https://github.com/kjw0612/awesome-random-forest)
 
+**Random Forests - What, Why, And How**
+
+- slides: [https://nyhackr.blob.core.windows.net/presentations/Random-Forests-What-Why-and-How_Andy_Liaw.pdf](https://nyhackr.blob.core.windows.net/presentations/Random-Forests-What-Why-and-How_Andy_Liaw.pdf)
+
 # Blogs
 
 **The Unreasonable Effectiveness of Random Forests**

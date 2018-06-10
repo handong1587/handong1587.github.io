@@ -273,6 +273,14 @@ date: 2015-10-09
 - intro: CVPR 2018
 - arxiv: [https://arxiv.org/abs/1803.09454](https://arxiv.org/abs/1803.09454)
 
+**Deep Residual Networks with a Fully Connected Recon-struction Layer for Single Image Super-Resolution**
+
+[https://arxiv.org/abs/1805.10143](https://arxiv.org/abs/1805.10143)
+
+**Adaptive Importance Learning for Improving Lightweight Image Super-resolution Network**
+
+[https://arxiv.org/abs/1806.01576](https://arxiv.org/abs/1806.01576)
+
 ## Video Super-resolution
 
 **Detail-revealing Deep Video Super-resolution**

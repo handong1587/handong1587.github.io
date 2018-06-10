@@ -879,6 +879,10 @@ Continuation of [arXiv:1608.08021](https://arxiv.org/abs/1608.08021)
 
 [https://arxiv.org/abs/1804.05810](https://arxiv.org/abs/1804.05810)
 
+**AdvDetPatch: Attacking Object Detectors with Adversarial Patches**
+
+[https://arxiv.org/abs/1806.02299](https://arxiv.org/abs/1806.02299)
+
 **Quantization Mimic: Towards Very Tiny CNN for Object Detection**
 
 [https://arxiv.org/abs/1805.02152](https://arxiv.org/abs/1805.02152)
@@ -887,6 +891,11 @@ Continuation of [arXiv:1608.08021](https://arxiv.org/abs/1608.08021)
 
 - intro: United Technologies Research Center-Ireland
 - arxiv: [https://arxiv.org/abs/1805.06361](https://arxiv.org/abs/1805.06361)
+
+**Object Detection using Domain Randomization and Generative Adversarial Refinement of Synthetic Images**
+
+- intro: CVPR 2018 Deep Vision Workshop
+- arxiv: [https://arxiv.org/abs/1805.11778](https://arxiv.org/abs/1805.11778)
 
 # Non-Maximum Suppression (NMS)
 
@@ -1572,6 +1581,11 @@ This task involves predicting the salient regions of an image given by human eye
 
 - intro: The University of Sydney
 - arxiv: [https://arxiv.org/abs/1805.03363](https://arxiv.org/abs/1805.03363)
+
+**Adversarial Attacks on Face Detectors using Neural Net based Constrained Optimization**
+
+- intro: IEEE MMSP
+- arxiv: [https://arxiv.org/abs/1805.12302](https://arxiv.org/abs/1805.12302)
 
 ## Detect Small Faces
 

@@ -258,6 +258,23 @@ date: 2015-10-09
 
 [https://arxiv.org/abs/1805.07566](https://arxiv.org/abs/1805.07566)
 
+**Deep Imbalanced Learning for Face Recognition and Attribute Prediction**
+
+[https://arxiv.org/abs/1806.00194](https://arxiv.org/abs/1806.00194)
+
+**Accurate and Efficient Similarity Search for Large Scale Face Recognition**
+
+- intro: BUPT
+- arxiv: [https://arxiv.org/abs/1806.00365](https://arxiv.org/abs/1806.00365)
+
+**Face Recognition in Low Quality Images: A Survey**
+
+[https://arxiv.org/abs/1805.11519](https://arxiv.org/abs/1805.11519)
+
+**Low Resolution Face Recognition in the Wild**
+
+[https://arxiv.org/abs/1805.11529](https://arxiv.org/abs/1805.11529)
+
 # Facial Attributes Classification
 
 **A Jointly Learned Deep Architecture for Facial Attribute Analysis and Face Detection in the Wild**

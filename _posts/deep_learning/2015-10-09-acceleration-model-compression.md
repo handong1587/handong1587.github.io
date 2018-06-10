@@ -480,6 +480,10 @@ at INT8 deep learning operations than other FPGA DSP architectures"
 - intro: MOCAST 2018
 - arxiv: [https://arxiv.org/abs/1804.00512](https://arxiv.org/abs/1804.00512)
 
+**Accelerating CNN inference on FPGAs: A Survey**
+
+[https://arxiv.org/abs/1806.01683](https://arxiv.org/abs/1806.01683)
+
 # Pruning
 
 **ThiNet: A Filter Level Pruning Method for Deep Neural Network Compression**
@@ -519,6 +523,10 @@ at INT8 deep learning operations than other FPGA DSP architectures"
 
 - intro: WACV 2018
 - arxiv: [https://arxiv.org/abs/1801.10447](https://arxiv.org/abs/1801.10447)
+
+**A novel channel pruning method for deep neural network compression**
+
+[https://arxiv.org/abs/1805.11394](https://arxiv.org/abs/1805.11394)
 
 # Quantized Neural Networks
 

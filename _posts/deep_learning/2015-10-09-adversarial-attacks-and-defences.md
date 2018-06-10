@@ -296,3 +296,7 @@ date: 2015-10-09
 
 - intro: Stanford University & Microsoft Research
 - arxiv: [https://arxiv.org/abs/1805.07894](https://arxiv.org/abs/1805.07894)
+
+**Detecting Adversarial Examples via Key-based Network**
+
+[https://arxiv.org/abs/1806.00580](https://arxiv.org/abs/1806.00580)

@@ -12,7 +12,7 @@ date: 2015-07-25
 |.tar         |  tar cvf FileName.tar DirName       |  tar xvf FileName.tar       |
 |.gz          |  gzip FileName                      |  gunzip FileName.gz         |
 |.gz          |  gzip FileName                      |  gzip -d FileName.gz        |
-|.tar.gz, .tgz|  tar zcvf FileName.tar.gz DirName   |  tar zxvf FileName.tar.gz   |
+|.tar.gz, .tgz|  tar -zcvf FileName.tar.gz DirName  |  tar zxvf FileName.tar.gz   |
 |.bz2         |  bzip2 -z FileName                  |  bzip2 -d FileName.bz2      |
 |.bz2         |                                     |  bunzip2 FileName.bz2       |
 |.tar.bz2     |  tar jcvf FileName.tar.bz2 DirName  |  tar jxvf FileName.tar.bz2  |

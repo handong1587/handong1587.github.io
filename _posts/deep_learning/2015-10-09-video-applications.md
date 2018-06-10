@@ -640,6 +640,10 @@ extract saptio-temporal features to represent the video using the CNNs."
 - intro: ICASSP 2018
 - arxiv: [https://arxiv.org/abs/1804.08381](https://arxiv.org/abs/1804.08381)
 
+**Video Anomaly Detection and Localization via Gaussian Mixture Fully Convolutional Variational Autoencoder**
+
+[https://arxiv.org/abs/1805.11223](https://arxiv.org/abs/1805.11223)
+
 # Video Prediction
 
 **Deep multi-scale video prediction beyond mean square error**
@@ -805,6 +809,14 @@ alleviates the problem of video browsing, editing and indexing.
 **DTR-GAN: Dilated Temporal Relational Adversarial Network for Video Summarization**
 
 [https://arxiv.org/abs/1804.11228](https://arxiv.org/abs/1804.11228)
+
+**Learning Video Summarization Using Unpaired Data**
+
+[https://arxiv.org/abs/1805.12174](https://arxiv.org/abs/1805.12174)
+
+**Video Summarization Using Fully Convolutional Sequence Networks**
+
+[https://arxiv.org/abs/1805.10538](https://arxiv.org/abs/1805.10538)
 
 # Video Highlight Detection
 

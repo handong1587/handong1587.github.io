@@ -434,6 +434,7 @@ not just the convolutions)
 - keywords: MobileNetV2, SSDLite, DeepLabv3
 - arxiv: [https://arxiv.org/abs/1801.04381](https://arxiv.org/abs/1801.04381)
 - github: [https://github.com/tensorflow/models/tree/master/research/slim/nets/mobilenet](https://github.com/tensorflow/models/tree/master/research/slim/nets/mobilenet)
+- github: [https://github.com/liangfu/mxnet-mobilenet-v2](https://github.com/liangfu/mxnet-mobilenet-v2)
 - blog: [https://research.googleblog.com/2018/04/mobilenetv2-next-generation-of-on.html](https://research.googleblog.com/2018/04/mobilenetv2-next-generation-of-on.html)
 
 ## SENet
@@ -582,6 +583,16 @@ not just the convolutions)
 - intro: University of Southern California & CMU & Amazon AI
 - paper: [http://metalearning.ml/papers/metalearn17_furlanello.pdf](http://metalearning.ml/papers/metalearn17_furlanello.pdf)
 
+**Do Better ImageNet Models Transfer Better?**
+
+- intro: Google Brain
+- arxiv: [https://arxiv.org/abs/1805.08974](https://arxiv.org/abs/1805.08974)
+
+**SOSELETO: A Unified Approach to Transfer Learning and Training with Noisy Labels**
+
+- keywords: SOSELETO (SOurce SELEction for Target Optimization)
+- arxiv: [https://arxiv.org/abs/1805.09622](https://arxiv.org/abs/1805.09622)
+
 ## One Shot Learning
 
 **One-shot Learning with Memory-Augmented Neural Networks**
@@ -635,6 +646,16 @@ not just the convolutions)
 - keywords: TriNet
 - arxiv: [https://arxiv.org/abs/1804.05298](https://arxiv.org/abs/1804.05298)
 - github: [https://github.com/tankche1/Semantic-Feature-Augmentation-in-Few-shot-Learning](https://github.com/tankche1/Semantic-Feature-Augmentation-in-Few-shot-Learning)
+
+**Transductive Propagation Network for Few-shot Learning**
+
+- intro: achieved the state-of-the-art results on miniImagenet
+- arxiv: [https://arxiv.org/abs/1805.10002](https://arxiv.org/abs/1805.10002)
+
+**TADAM: Task dependent adaptive metric for improved few-shot learning**
+
+- intro: Element AI
+- arxiv: [https://arxiv.org/abs/1805.10123](https://arxiv.org/abs/1805.10123)
 
 # Multi-label Learning
 
@@ -1197,6 +1218,11 @@ with fast exact probabilistic inference over many layers."
 - intro: CVPR 2018
 - arxiv: [https://arxiv.org/abs/1804.06202](https://arxiv.org/abs/1804.06202)
 
+**IGCV3: Interleaved Low-Rank Group Convolutions for Efficient Deep Neural Networks**
+
+- arxiv: [https://arxiv.org/abs/1806.00178](https://arxiv.org/abs/1806.00178)
+- github(official): [https://github.com/homles11/IGCV3](https://github.com/homles11/IGCV3)
+
 **Sensor Transformation Attention Networks**
 
 [https://arxiv.org/abs/1708.01015](https://arxiv.org/abs/1708.01015)
@@ -1356,6 +1382,26 @@ with fast exact probabilistic inference over many layers."
 
 [https://arxiv.org/abs/1805.07932](https://arxiv.org/abs/1805.07932)
 
+**Cautious Deep Learning**
+
+[https://arxiv.org/abs/1805.09460](https://arxiv.org/abs/1805.09460)
+
+**Perturbative Neural Networks**
+
+- intro: CVPR 2018
+- intro: We introduce a very simple, yet effective, module called a perturbation layer as an alternative to a convolutional layer
+- project page: [http://xujuefei.com/pnn.html](http://xujuefei.com/pnn.html)
+- arxiv: [https://arxiv.org/abs/1806.01817](https://arxiv.org/abs/1806.01817)
+
+**Lightweight Probabilistic Deep Networks**
+
+- intro: CVPR 2018
+- arxiv: [https://arxiv.org/abs/1805.11327](https://arxiv.org/abs/1805.11327)
+
+**Channel Gating Neural Networks**
+
+[https://arxiv.org/abs/1805.12549](https://arxiv.org/abs/1805.12549)
+
 ## Convolutions / Filters
 
 **Warped Convolutions: Efficient Invariance to Spatial Transformations**
@@ -1395,6 +1441,19 @@ with fast exact probabilistic inference over many layers."
 
 - arxiv: [https://arxiv.org/abs/1803.09926](https://arxiv.org/abs/1803.09926)
 - github: [https://github.com/clavichord93/diagonalwise-refactorization-tensorflow](https://github.com/clavichord93/diagonalwise-refactorization-tensorflow)
+
+**Use of symmetric kernels for convolutional neural networks**
+
+- intro: ICDSIAI 2018
+- arxiv: [https://arxiv.org/abs/1805.09421](https://arxiv.org/abs/1805.09421)
+
+**EasyConvPooling: Random Pooling with Easy Convolution for Accelerating Training and Testing**
+
+[https://arxiv.org/abs/1806.01729](https://arxiv.org/abs/1806.01729)
+
+**Targeted Kernel Networks: Faster Convolutions with Attentive Regularization**
+
+[https://arxiv.org/abs/1806.00523](https://arxiv.org/abs/1806.00523)
 
 ## Highway Networks
 
@@ -1630,6 +1689,10 @@ with fast exact probabilistic inference over many layers."
 
 - intro: CMU
 - arxiv: [https://arxiv.org/abs/1803.04489](https://arxiv.org/abs/1803.04489)
+
+**Videos as Space-Time Region Graphs**
+
+[https://arxiv.org/abs/1806.01810](https://arxiv.org/abs/1806.01810)
 
 # Generative Models
 
@@ -2316,6 +2379,10 @@ with fast exact probabilistic inference over many layers."
 
 [https://arxiv.org/abs/1805.07883](https://arxiv.org/abs/1805.07883)
 
+**VisualBackProp for learning using privileged information with CNNs**
+
+[https://arxiv.org/abs/1805.09474](https://arxiv.org/abs/1805.09474)
+
 ## Tutorials and Surveys
 
 **A Survey: Time Travel in Deep Learning Space: An Introduction to Deep Learning Models and How Deep Learning Models Evolved from the Initial Ideas**
@@ -2489,6 +2556,11 @@ with fast exact probabilistic inference over many layers."
 
 [https://arxiv.org/abs/1802.00853](https://arxiv.org/abs/1802.00853)
 
+**Learn the new, keep the old: Extending pretrained models with new anatomy and images**
+
+- intro: MICCAI 2018
+- arxiv: [https://arxiv.org/abs/1806.00265](https://arxiv.org/abs/1806.00265)
+
 ## Ensemble Deep Learning
 
 **Convolutional Neural Fabrics**
@@ -2576,6 +2648,10 @@ with fast exact probabilistic inference over many layers."
 
 [https://arxiv.org/abs/1803.08457](https://arxiv.org/abs/1803.08457)
 
+**Deep Mixture of Experts via Shallow Embedding**
+
+[https://arxiv.org/abs/1806.01531](https://arxiv.org/abs/1806.01531)
+
 ## Regression
 
 **A Comprehensive Analysis of Deep Regression**
@@ -2653,6 +2729,10 @@ with fast exact probabilistic inference over many layers."
 joint classification, detection and semantic segmentation via a unified architecture, less than 100 ms to perform all tasks
 - arxiv: [https://arxiv.org/abs/1612.07695](https://arxiv.org/abs/1612.07695)
 - github: [https://github.com/MarvinTeichmann/MultiNet](https://github.com/MarvinTeichmann/MultiNet)
+
+**Adversarial Collaboration: Joint Unsupervised Learning of Depth, Camera Motion, Optical Flow and Motion Segmentation**
+
+[https://arxiv.org/abs/1805.09806](https://arxiv.org/abs/1805.09806)
 
 ### Deep Learning for Data Structures
 

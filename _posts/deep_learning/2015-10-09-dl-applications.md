@@ -190,6 +190,11 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 
 [https://arxiv.org/abs/1802.00094](https://arxiv.org/abs/1802.00094)
 
+**CRRN: Multi-Scale Guided Concurrent Reflection Removal Network**
+
+- intro: CVPR 2018
+- arxiv: [https://arxiv.org/abs/1805.11802](https://arxiv.org/abs/1805.11802)
+
 **Learning Deep Convolutional Networks for Demosaicing**
 
 [https://arxiv.org/abs/1802.03769](https://arxiv.org/abs/1802.03769)
@@ -206,8 +211,11 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 **Learning to See in the Dark**
 
 - intro: CVPR 2018
+- project page: [http://web.engr.illinois.edu/~cchen156/SID.html](http://web.engr.illinois.edu/~cchen156/SID.html)
 - arxiv: [https://arxiv.org/abs/1805.01934](https://arxiv.org/abs/1805.01934)
+- github: [https://github.com/cchen156/Learning-to-See-in-the-Dark](https://github.com/cchen156/Learning-to-See-in-the-Dark)
 - video: [https://www.youtube.com/watch?v=qWKUFK7MWvg&feature=youtu.be](https://www.youtube.com/watch?v=qWKUFK7MWvg&feature=youtu.be)
+- video: [https://www.bilibili.com/video/av23195280/](https://www.bilibili.com/video/av23195280/)
 
 # Boundary / Edge / Contour Detection
 
@@ -656,6 +664,10 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 
 - keywords: Gated U-Net (GU-Net)
 - arxiv: [https://arxiv.org/abs/1805.02919](https://arxiv.org/abs/1805.02919)
+
+**Object Counting with Small Datasets of Large Images**
+
+[https://arxiv.org/abs/1805.11123](https://arxiv.org/abs/1805.11123)
 
 ## Crowd Counting / Crowd Analysis
 
@@ -1518,6 +1530,10 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 
 [https://arxiv.org/abs/1805.06386](https://arxiv.org/abs/1805.06386)
 
+**Deep Image Compression via End-to-End Learning**
+
+[https://arxiv.org/abs/1806.01496](https://arxiv.org/abs/1806.01496)
+
 # Image Quality Assessment
 
 **Deep Neural Networks for No-Reference and Full-Reference Image Quality Assessment**
@@ -1549,6 +1565,12 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 - project page: [http://gychen.org/TOM-Net/](http://gychen.org/TOM-Net/)
 - arxiv: [https://arxiv.org/abs/1803.04636](https://arxiv.org/abs/1803.04636)
 - github: [https://github.com/guanyingc/TOM-Net](https://github.com/guanyingc/TOM-Net)
+
+**Deep Video Portraits**
+
+- intro: SIGGRAPH 2018
+- arxiv: [https://arxiv.org/abs/1805.11714](https://arxiv.org/abs/1805.11714)
+- youtube: [https://www.youtube.com/watch?v=qc5P2bvfl44](https://www.youtube.com/watch?v=qc5P2bvfl44)
 
 # Image Blending
 
@@ -1913,6 +1935,10 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 - intro: CVPR 2018
 - arxiv: [https://arxiv.org/abs/1804.00796](https://arxiv.org/abs/1804.00796)
 
+**Practical Deep Stereo (PDS): Toward applications-friendly deep stereo matching**
+
+[https://arxiv.org/abs/1806.01677](https://arxiv.org/abs/1806.01677)
+
 # Optical Flow
 
 **FlowNet: Learning Optical Flow with Convolutional Networks**
@@ -1964,6 +1990,10 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 - project page: [http://mmlab.ie.cuhk.edu.hk/projects/LiteFlowNet/](http://mmlab.ie.cuhk.edu.hk/projects/LiteFlowNet/)
 - arxiv: [https://arxiv.org/abs/1805.07036](https://arxiv.org/abs/1805.07036)
 - github: [https://github.com/twhui/LiteFlowNet](https://github.com/twhui/LiteFlowNet)
+
+**ProFlow: Learning to Predict Optical Flow**
+
+[https://arxiv.org/abs/1806.00800](https://arxiv.org/abs/1806.00800)
 
 # 3D
 
