@@ -778,7 +778,7 @@ Continuation of [arXiv:1608.08021](https://arxiv.org/abs/1608.08021)
 **Learning a Rotation Invariant Detector with Rotatable Bounding Box**
 
 - arxiv: [https://arxiv.org/abs/1711.09405](https://arxiv.org/abs/1711.09405)
-- github: [https://github.com/liulei01/DRBox](https://github.com/liulei01/DRBox)
+- github(official, Caffe): [https://github.com/liulei01/DRBox](https://github.com/liulei01/DRBox)
 
 **Scalable Object Detection for Stylized Objects**
 
@@ -918,7 +918,8 @@ Continuation of [arXiv:1608.08021](https://arxiv.org/abs/1608.08021)
 
 **Relation Networks for Object Detection**
 
-[https://arxiv.org/abs/1711.11575](https://arxiv.org/abs/1711.11575)
+- intro: CVPR 2018
+- arxiv: [https://arxiv.org/abs/1711.11575](https://arxiv.org/abs/1711.11575)
 
 # Adversarial Examples
 
@@ -1551,6 +1552,12 @@ This task involves predicting the salient regions of an image given by human eye
 
 - intro: CVPR 2018. Beihang University & CUHK & Sensetime
 - arxiv: [https://arxiv.org/abs/1804.05197](https://arxiv.org/abs/1804.05197)
+
+**Real-Time Rotation-Invariant Face Detection with Progressive Calibration Networks**
+
+- intro: CVPR 2018
+- arxiv: [https://arxiv.org/abs/1804.06039](https://arxiv.org/abs/1804.06039)
+- github: [https://github.com/Jack-CV/PCN](https://github.com/Jack-CV/PCN)
 
 **SFace: An Efficient Network for Face Detection in Large Scale Variations**
 
