@@ -703,6 +703,11 @@ extract saptio-temporal features to represent the video using the CNNs."
 - project page: [https://sites.google.com/view/contextvp](https://sites.google.com/view/contextvp)
 - arxiv: [https://arxiv.org/abs/1710.08518](https://arxiv.org/abs/1710.08518)
 
+**Novel Video Prediction for Large-scale Scene using Optical Flow**
+
+- intro: University of Victoria & Tongji University & Horizon Robotics
+- arxiv: [https://arxiv.org/abs/1805.12243](https://arxiv.org/abs/1805.12243)
+
 # Video Tagging
 
 **Automatic Image and Video Tagging**

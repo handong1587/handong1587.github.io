@@ -482,7 +482,8 @@ at INT8 deep learning operations than other FPGA DSP architectures"
 
 **Accelerating CNN inference on FPGAs: A Survey**
 
-[https://arxiv.org/abs/1806.01683](https://arxiv.org/abs/1806.01683)
+- intro: [Institut Pascal]
+- arxiv: [https://arxiv.org/abs/1806.01683](https://arxiv.org/abs/1806.01683)
 
 # Pruning
 

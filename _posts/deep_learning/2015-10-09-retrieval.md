@@ -318,6 +318,11 @@ date: 2015-10-09
 - intro: CVPR 2018
 - arxiv: [https://arxiv.org/abs/1803.06189](https://arxiv.org/abs/1803.06189)
 
+**Collaborative Multi-modal deep learning for the personalized product retrieval in Facebook Marketplace**
+
+- intro: Facebook
+= arxiv: [https://arxiv.org/abs/1805.12312](https://arxiv.org/abs/1805.12312)
+
 # Hashing
 
 **Supervised Hashing for Image Retrieval via Image Representation Learning**

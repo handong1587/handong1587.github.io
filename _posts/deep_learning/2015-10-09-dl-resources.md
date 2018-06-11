@@ -1220,6 +1220,7 @@ with fast exact probabilistic inference over many layers."
 
 **IGCV3: Interleaved Low-Rank Group Convolutions for Efficient Deep Neural Networks**
 
+- intro: University of Scinence and Technology of China & Microsoft Reserach Asia
 - arxiv: [https://arxiv.org/abs/1806.00178](https://arxiv.org/abs/1806.00178)
 - github(official): [https://github.com/homles11/IGCV3](https://github.com/homles11/IGCV3)
 
