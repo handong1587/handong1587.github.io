@@ -330,6 +330,10 @@ date: 2015-10-09
 - arxiv: [https://arxiv.org/abs/1804.08450](https://arxiv.org/abs/1804.08450)
 - github: [https://github.com/umich-vl/DecorrelatedBN](https://github.com/umich-vl/DecorrelatedBN)
 
+**Understanding Batch Normalization**
+
+[https://arxiv.org/abs/1806.02375](https://arxiv.org/abs/1806.02375)
+
 ### Backward pass of BN
 
 **Understanding the backward pass through Batch Normalization Layer**
@@ -1248,6 +1252,10 @@ date: 2015-10-09
 **Improved Mixed-Example Data Augmentation**
 
 [https://arxiv.org/abs/1805.11272](https://arxiv.org/abs/1805.11272)
+
+**Data augmentation instead of explicit regularization**
+
+[https://arxiv.org/abs/1806.03852](https://arxiv.org/abs/1806.03852)
 
 ## Imbalanced Datasets
 

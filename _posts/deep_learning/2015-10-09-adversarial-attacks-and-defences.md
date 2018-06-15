@@ -300,3 +300,7 @@ date: 2015-10-09
 **Detecting Adversarial Examples via Key-based Network**
 
 [https://arxiv.org/abs/1806.00580](https://arxiv.org/abs/1806.00580)
+
+**Adversarial Attacks on Variational Autoencoders**
+
+[https://arxiv.org/abs/1806.04646](https://arxiv.org/abs/1806.04646)

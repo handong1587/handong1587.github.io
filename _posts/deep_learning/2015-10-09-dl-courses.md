@@ -251,6 +251,11 @@ such as image classification, object detection or text captioning.
 
 - homepage: [https://imatge.upc.edu/web/teaching/deep-learning-computer-vision](https://imatge.upc.edu/web/teaching/deep-learning-computer-vision)
 
+**Advanced Computer Vision Cap6412**
+
+- homepage: [http://crcv.ucf.edu/courses/CAP6412/Spring2018/](http://crcv.ucf.edu/courses/CAP6412/Spring2018/)
+- video: [https://www.youtube.com/playlist?list=PLd3hlSJsX_ImoNaeX5vFrxogGXTSmS993](https://www.youtube.com/playlist?list=PLd3hlSJsX_ImoNaeX5vFrxogGXTSmS993)
+
 # Natural Language Processing
 
 **CS224n: Natural Language Processing with Deep Learning**

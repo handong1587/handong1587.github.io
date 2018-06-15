@@ -169,6 +169,10 @@ date: 2015-10-09
 
 [https://arxiv.org/abs/1804.06423](https://arxiv.org/abs/1804.06423)
 
+**Contextual Hourglass Networks for Segmentation and Density Estimation**
+
+[https://arxiv.org/abs/1806.04009](https://arxiv.org/abs/1806.04009)
+
 # Foreground Object Segmentation
 
 **Pixel Objectness**

@@ -132,8 +132,12 @@ date: 2015-10-09
 
 **Detect-and-Track: Efficient Pose Estimation in Videos**
 
+- intro: CVPR 2018. CMU & Facebook & Dartmouth
 - intro: Ranked first in ICCV 2017 PoseTrack challenge (keypoint tracking in videos)
+- project page: [https://rohitgirdhar.github.io/DetectAndTrack/](https://rohitgirdhar.github.io/DetectAndTrack/)
 - arxiv: [https://arxiv.org/abs/1712.09184](https://arxiv.org/abs/1712.09184)
+- paper: [http://openaccess.thecvf.com/content_cvpr_2018/papers/Girdhar_Detect-and-Track_Efficient_Pose_CVPR_2018_paper.pdf](http://openaccess.thecvf.com/content_cvpr_2018/papers/Girdhar_Detect-and-Track_Efficient_Pose_CVPR_2018_paper.pdf)
+- github: [https://github.com/facebookresearch/DetectAndTrack/](https://github.com/facebookresearch/DetectAndTrack/)
 
 **DenseReg: Fully Convolutional Dense Shape Regression In-the-Wild**
 

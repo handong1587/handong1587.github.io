@@ -276,6 +276,10 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 
 [https://arxiv.org/abs/1801.02439](https://arxiv.org/abs/1801.02439)
 
+**DOOBNet: Deep Object Occlusion Boundary Detection from an Image**
+
+[https://arxiv.org/abs/1806.03772](https://arxiv.org/abs/1806.03772)
+
 # Image Processing
 
 **Fast Image Processing with Fully-Convolutional Networks**
@@ -698,6 +702,7 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 - paper: [http://sist.shanghaitech.edu.cn/office/research/news/CVPR2016/paper/Single-Image%20Crowd%20Counting%20via%20Multi-Column%20Convolutional%20Neural%20Network.pdf](http://sist.shanghaitech.edu.cn/office/research/news/CVPR2016/paper/Single-Image%20Crowd%20Counting%20via%20Multi-Column%20Convolutional%20Neural%20Network.pdf)
 - dataset(pwd: p1rv): [http://pan.baidu.com/s/1gfyNBTh](http://pan.baidu.com/s/1gfyNBTh)
 - slides: [http://smartdsp.xmu.edu.cn/%E6%B1%87%E6%8A%A5pdf/crowd%20counting%E6%9E%97%E8%B4%A8%E9%94%90.pdf](http://smartdsp.xmu.edu.cn/%E6%B1%87%E6%8A%A5pdf/crowd%20counting%E6%9E%97%E8%B4%A8%E9%94%90.pdf)
+- github:[https://github.com/svishwa/crowdcount-mcnn](https://github.com/svishwa/crowdcount-mcnn)
 
 **CrowdNet: A Deep Convolutional Network for Dense Crowd Counting**
 
@@ -1001,6 +1006,10 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 - intro: University of Southern California & Baidu Research
 - arxiv: [https://arxiv.org/abs/1805.03356](https://arxiv.org/abs/1805.03356)
 
+**Free-Form Image Inpainting with Gated Convolution**
+
+[https://arxiv.org/abs/1806.03589](https://arxiv.org/abs/1806.03589)
+
 # Image Restoration
 
 **Image Restoration Using Very Deep Convolutional Encoder-Decoder Networks with Symmetric Skip Connections**
@@ -1072,6 +1081,10 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 
 - intro: CVPR 2018 NTIRE Workshop
 - arxiv: [https://arxiv.org/abs/1805.07071](https://arxiv.org/abs/1805.07071)
+
+**Non-Local Recurrent Network for Image Restoration**
+
+[https://arxiv.org/abs/1806.02919](https://arxiv.org/abs/1806.02919)
 
 ## Face Completion
 
@@ -1994,6 +2007,10 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 **ProFlow: Learning to Predict Optical Flow**
 
 [https://arxiv.org/abs/1806.00800](https://arxiv.org/abs/1806.00800)
+
+**Learning Human Optical Flow**
+
+[https://arxiv.org/abs/1806.05666](https://arxiv.org/abs/1806.05666)
 
 # 3D
 

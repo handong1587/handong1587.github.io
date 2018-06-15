@@ -759,6 +759,10 @@ at INT8 deep learning operations than other FPGA DSP architectures"
 - intro: ICIP 2018
 - arxiv: [https://arxiv.org/abs/1805.07170](https://arxiv.org/abs/1805.07170)
 
+**Knowledge Distillation by On-the-Fly Native Ensemble**
+
+[https://arxiv.org/abs/1806.04606](https://arxiv.org/abs/1806.04606)
+
 # Code Optimization
 
 **Production Deep Learning with NVIDIA GPU Inference Engine**

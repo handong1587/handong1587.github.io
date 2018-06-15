@@ -593,6 +593,11 @@ not just the convolutions)
 - keywords: SOSELETO (SOurce SELEction for Target Optimization)
 - arxiv: [https://arxiv.org/abs/1805.09622](https://arxiv.org/abs/1805.09622)
 
+**GLoMo: Unsupervisedly Learned Relational Graphs as Transferable Representations**
+
+- intro: Carnegie Mellon University & New York University & Facebook AI Research
+- arxiv: [https://arxiv.org/abs/1806.05662](https://arxiv.org/abs/1806.05662)
+
 ## One Shot Learning
 
 **One-shot Learning with Memory-Augmented Neural Networks**
@@ -1694,6 +1699,11 @@ with fast exact probabilistic inference over many layers."
 **Videos as Space-Time Region Graphs**
 
 [https://arxiv.org/abs/1806.01810](https://arxiv.org/abs/1806.01810)
+
+**Relational inductive biases, deep learning, and graph networks**
+
+- intro: DeepMind & Google Brain & MIT & University of Edinburgh
+- arxiv: [https://arxiv.org/abs/1806.01261](https://arxiv.org/abs/1806.01261)
 
 # Generative Models
 

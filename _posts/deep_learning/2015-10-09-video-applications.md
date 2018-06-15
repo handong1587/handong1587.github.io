@@ -115,10 +115,19 @@ date: 2015-10-09
 - intro: CVPR 2018
 - arxiv: [https://arxiv.org/abs/1805.02792](https://arxiv.org/abs/1805.02792)
 
+**Fast forwarding Egocentric Videos by Listening and Watching**
+
+[https://arxiv.org/abs/1806.04620](https://arxiv.org/abs/1806.04620)
+
 **Scanner: Efficient Video Analysis at Scale**
 
 - intro: CMU
 - arxiv: [https://arxiv.org/abs/1805.07339](https://arxiv.org/abs/1805.07339)
+
+**Massively Parallel Video Networks**
+
+- intro: DeepMind & University of Oxford
+- arxiv: [https://arxiv.org/abs/1806.03863](https://arxiv.org/abs/1806.03863)
 
 # Video Classification
 

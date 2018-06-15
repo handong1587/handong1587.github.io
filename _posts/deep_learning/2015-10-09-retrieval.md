@@ -323,6 +323,21 @@ date: 2015-10-09
 - intro: Facebook
 = arxiv: [https://arxiv.org/abs/1805.12312](https://arxiv.org/abs/1805.12312)
 
+**DeepFirearm: Learning Discriminative Feature Representation for Fine-grained Firearm Retrieval**
+
+- intro: ICPR 2018
+- arxiv: [https://arxiv.org/abs/1806.02984](https://arxiv.org/abs/1806.02984)
+- github: [https://github.com/jdhao/deep_firearm](https://github.com/jdhao/deep_firearm)
+
+**Instance Search via Instance Level Segmentation and Feature Representation**
+
+[https://arxiv.org/abs/1806.03576](https://arxiv.org/abs/1806.03576)
+
+**Deep Feature Aggregation with Heat Diffusion for Image Retrieval**
+
+- arxiv: [https://arxiv.org/abs/1805.08587](https://arxiv.org/abs/1805.08587)
+- github: [https://github.com/pangsm0415/HeW](https://github.com/pangsm0415/HeW)
+
 # Hashing
 
 **Supervised Hashing for Image Retrieval via Image Representation Learning**
