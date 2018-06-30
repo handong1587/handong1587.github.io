@@ -768,6 +768,7 @@ Continuation of [arXiv:1608.08021](https://arxiv.org/abs/1608.08021)
 
 **An Analysis of Scale Invariance in Object Detection - SNIP**
 
+- intro: CVPR 2018
 - arxiv: [https://arxiv.org/abs/1711.08189](https://arxiv.org/abs/1711.08189)
 - github: [https://github.com/bharatsingh430/snip](https://github.com/bharatsingh430/snip)
 
@@ -827,6 +828,7 @@ Continuation of [arXiv:1608.08021](https://arxiv.org/abs/1608.08021)
 
 - intro: CVPR 2018. ETH Zurich & ESAT/PSI
 - arxiv: [https://arxiv.org/abs/1803.03243](https://arxiv.org/abs/1803.03243)
+- github(official. Caffe): [https://github.com/yuhuayc/da-faster-rcnn](https://github.com/yuhuayc/da-faster-rcnn)
 
 **Pseudo Mask Augmented Object Detection**
 
@@ -896,6 +898,15 @@ Continuation of [arXiv:1608.08021](https://arxiv.org/abs/1608.08021)
 
 - intro: CVPR 2018 Deep Vision Workshop
 - arxiv: [https://arxiv.org/abs/1805.11778](https://arxiv.org/abs/1805.11778)
+
+**SNIPER: Efficient Multi-Scale Training**
+
+- arxiv: [https://arxiv.org/abs/1805.09300](https://arxiv.org/abs/1805.09300)
+- github: [https://github.com/mahyarnajibi/SNIPER](https://github.com/mahyarnajibi/SNIPER)
+
+**Soft Sampling for Robust Object Detection**
+
+[https://arxiv.org/abs/1806.06986](https://arxiv.org/abs/1806.06986)
 
 # Non-Maximum Suppression (NMS)
 
@@ -1073,6 +1084,13 @@ Continuation of [arXiv:1608.08021](https://arxiv.org/abs/1608.08021)
 
 - intro: Microsoft Research Asia
 - arxiv: [https://arxiv.org/abs/1804.05830](https://arxiv.org/abs/1804.05830)
+
+**Optimizing Video Object Detection via a Scale-Time Lattice**
+
+- intro: CVPR 2018
+- project page: [http://mmlab.ie.cuhk.edu.hk/projects/ST-Lattice/](http://mmlab.ie.cuhk.edu.hk/projects/ST-Lattice/)
+- arxiv: [https://arxiv.org/abs/1804.05472](https://arxiv.org/abs/1804.05472)
+- github: [https://github.com/hellock/scale-time-lattice](https://github.com/hellock/scale-time-lattice)
 
 # Object Detection on Mobile Devices
 
@@ -1834,6 +1852,12 @@ This task involves predicting the salient regions of an image given by human eye
 - intro: ITSC 2018
 - arxiv: [https://arxiv.org/abs/1805.02523](https://arxiv.org/abs/1805.02523)
 
+**A Hierarchical Deep Architecture and Mini-Batch Selection Method For Joint Traffic Sign and Light Detection**
+
+- intro: IEEE 15th Conference on Computer and Robot Vision
+- arxiv: [https://arxiv.org/abs/1806.07987](https://arxiv.org/abs/1806.07987)
+- demo: [https://www.youtube.com/watch?v=_YmogPzBXOw&feature=youtu.be](https://www.youtube.com/watch?v=_YmogPzBXOw&feature=youtu.be)
+
 # Skeleton Detection
 
 **Object Skeleton Extraction in Natural Images by Fusing Scale-associated Deep Side Outputs**
@@ -1995,6 +2019,9 @@ This task involves predicting the salient regions of an image given by human eye
 - intro: Conference of Computer and Robot Vision. University of Guelph
 - arxiv: [https://arxiv.org/abs/1803.10842](https://arxiv.org/abs/1803.10842)
 
+**EL-GAN: Embedding Loss Driven Generative Adversarial Networks for Lane Detection**
+
+[https://arxiv.org/abs/1806.05525](https://arxiv.org/abs/1806.05525)
 
 # Object Proposal
 
@@ -2241,3 +2268,7 @@ We additionally provide an implementation of the [ReInspect](https://github.com/
 **Understanding SSD MultiBox — Real-Time Object Detection In Deep Learning**
 
 [https://towardsdatascience.com/understanding-ssd-multibox-real-time-object-detection-in-deep-learning-495ef744fab](https://towardsdatascience.com/understanding-ssd-multibox-real-time-object-detection-in-deep-learning-495ef744fab)
+
+**One-shot object detection**
+
+[http://machinethink.net/blog/object-detection/](http://machinethink.net/blog/object-detection/)

@@ -564,6 +564,10 @@ date: 2015-10-09
 - arxiv: [https://arxiv.org/abs/1805.05809](https://arxiv.org/abs/1805.05809)
 - github: [https://github.com/maestrojeong/Deep-Hash-Table-ICML18](https://github.com/maestrojeong/Deep-Hash-Table-ICML18)
 
+**Unsupervised Deep Image Hashing through Tag Embeddings**
+
+[https://arxiv.org/abs/1806.05804](https://arxiv.org/abs/1806.05804)
+
 # Cross Modal Retrieval
 
 **Cross-domain Image Retrieval with a Dual Attribute-aware Ranking Network**

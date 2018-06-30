@@ -1084,7 +1084,8 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 
 **Non-Local Recurrent Network for Image Restoration**
 
-[https://arxiv.org/abs/1806.02919](https://arxiv.org/abs/1806.02919)
+- intro: University of Illinois at Urbana-Champaign & The Chinese University of Hong Kong
+- arxiv: [https://arxiv.org/abs/1806.02919](https://arxiv.org/abs/1806.02919)
 
 ## Face Completion
 
@@ -1197,6 +1198,10 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 **Training Deep Learning based Denoisers without Ground Truth Data**
 
 [https://arxiv.org/abs/1803.01314](https://arxiv.org/abs/1803.01314)
+
+**Identifying Recurring Patterns with Deep Neural Networks for Natural Image Denoising**
+
+[https://arxiv.org/abs/1806.05229](https://arxiv.org/abs/1806.05229)
 
 # Image Haze Removal
 

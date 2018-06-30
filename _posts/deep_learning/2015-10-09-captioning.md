@@ -343,6 +343,11 @@ after the embedding and recurrent layers of the RNN."
 
 [https://arxiv.org/abs/1805.12589](https://arxiv.org/abs/1805.12589)
 
+**Learning to Evaluate Image Captioning**
+
+- intro: CVPR 2018
+- arxiv: [https://arxiv.org/abs/1806.06422](https://arxiv.org/abs/1806.06422)
+
 # Object Descriptions
 
 **Generation and Comprehension of Unambiguous Object Descriptions**

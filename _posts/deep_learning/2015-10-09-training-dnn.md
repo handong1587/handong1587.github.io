@@ -265,11 +265,16 @@ date: 2015-10-09
 - arxiv: [https://arxiv.org/abs/1704.08863](https://arxiv.org/abs/1704.08863)
 - github: [https://github.com/sidkk86/weight_initialization](https://github.com/sidkk86/weight_initialization)
 
+**Dynamical Isometry and a Mean Field Theory of CNNs: How to Train 10,000-Layer Vanilla Convolutional Neural Networks**
+
+- intro: ICML 2018. Google Brain
+- arxiv: [https://arxiv.org/abs/1806.05393](https://arxiv.org/abs/1806.05393)
+
 ## Batch Normalization
 
 **Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift**
 
-- intro: ImageNet top-5 error: 4.82% 
+- intro: ImageNet top-5 error: 4.82%
 - keywords: internal covariate shift problem
 - arxiv: [http://arxiv.org/abs/1502.03167](http://arxiv.org/abs/1502.03167)
 - blog: [https://standardfrancis.wordpress.com/2015/04/16/batch-normalization/](https://standardfrancis.wordpress.com/2015/04/16/batch-normalization/)
@@ -333,6 +338,10 @@ date: 2015-10-09
 **Understanding Batch Normalization**
 
 [https://arxiv.org/abs/1806.02375](https://arxiv.org/abs/1806.02375)
+
+**Implementing Synchronized Multi-GPU Batch Normalization**
+
+[http://hangzh.com/PyTorch-Encoding/notes/syncbn.html](http://hangzh.com/PyTorch-Encoding/notes/syncbn.html)
 
 ### Backward pass of BN
 
@@ -1015,6 +1024,11 @@ date: 2015-10-09
 
 [https://arxiv.org/abs/1712.07628](https://arxiv.org/abs/1712.07628)
 
+**Laplacian Smoothing Gradient Descent**
+
+- intro: UCLA
+- arxiv: [https://arxiv.org/abs/1806.06317](https://arxiv.org/abs/1806.06317)
+
 ## AdaGrad
 
 **Adaptive Subgradient Methods for Online Learning and Stochastic Optimization**
@@ -1247,7 +1261,8 @@ date: 2015-10-09
 
 **AutoAugment: Learning Augmentation Policies from Data**
 
-[https://arxiv.org/abs/1805.09501](https://arxiv.org/abs/1805.09501)
+- arxiv: [https://arxiv.org/abs/1805.09501](https://arxiv.org/abs/1805.09501)
+- github: [https://github.com/DeepVoltaire/AutoAugment](https://github.com/DeepVoltaire/AutoAugment)
 
 **Improved Mixed-Example Data Augmentation**
 
@@ -1502,6 +1517,11 @@ date: 2015-10-09
 **DeepDefense: Training Deep Neural Networks with Improved Robustness**
 
 [https://arxiv.org/abs/1803.00404](https://arxiv.org/abs/1803.00404)
+
+**Gradient Adversarial Training of Neural Networks**
+
+- intro: Magic Leap
+- arxiv: [https://arxiv.org/abs/1806.08028](https://arxiv.org/abs/1806.08028)
 
 # Low-Precision Training
 

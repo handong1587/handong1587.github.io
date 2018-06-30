@@ -304,3 +304,8 @@ date: 2015-10-09
 **Adversarial Attacks on Variational Autoencoders**
 
 [https://arxiv.org/abs/1806.04646](https://arxiv.org/abs/1806.04646)
+
+**Non-Negative Networks Against Adversarial Attacks**
+
+- intro: Laboratory for Physical Sciences & Nvidia
+- arxiv: [https://arxiv.org/abs/1806.06108](https://arxiv.org/abs/1806.06108)

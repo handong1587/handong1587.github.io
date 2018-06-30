@@ -296,3 +296,10 @@ date: 2015-10-09
 **Frame-Recurrent Video Super-Resolution**
 
 [https://arxiv.org/abs/1801.04590](https://arxiv.org/abs/1801.04590)
+
+# Projects
+
+**waifu2x**
+
+- intro: Image Super-Resolution for Anime-Style Art
+- github: [https://github.com/nagadomi/waifu2x](https://github.com/nagadomi/waifu2x)

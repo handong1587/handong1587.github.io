@@ -485,6 +485,15 @@ at INT8 deep learning operations than other FPGA DSP architectures"
 - intro: [Institut Pascal]
 - arxiv: [https://arxiv.org/abs/1806.01683](https://arxiv.org/abs/1806.01683)
 
+**Doubly Nested Network for Resource-Efficient Inference**
+
+[https://arxiv.org/abs/1806.07568](https://arxiv.org/abs/1806.07568)
+
+**Smallify: Learning Network Size while Training**
+
+- intro: MIT
+- arxiv: [https://arxiv.org/abs/1806.03723](https://arxiv.org/abs/1806.03723)
+
 # Pruning
 
 **ThiNet: A Filter Level Pruning Method for Deep Neural Network Compression**
@@ -529,6 +538,11 @@ at INT8 deep learning operations than other FPGA DSP architectures"
 
 [https://arxiv.org/abs/1805.11394](https://arxiv.org/abs/1805.11394)
 
+**PCAS: Pruning Channels with Attention Statistics**
+
+- intro: Oki Electric Industry Co., Ltd
+- arxiv: [https://arxiv.org/abs/1806.05382](https://arxiv.org/abs/1806.05382)
+
 # Quantized Neural Networks
 
 **Quantized Convolutional Neural Networks for Mobile Devices**
@@ -558,6 +572,11 @@ at INT8 deep learning operations than other FPGA DSP architectures"
 
 - intro: AAAI 2018. Shanghai Jiao Tong University & University of Chinese Academy of Sciences
 - arxiv: [https://arxiv.org/abs/1803.03289](https://arxiv.org/abs/1803.03289)
+
+**Quantizing deep convolutional networks for efficient inference: A whitepaper**
+
+- intro: Google
+- arxiv: [https://arxiv.org/abs/1806.08342](https://arxiv.org/abs/1806.08342)
 
 # Binary Convolutional Neural Networks / Binarized Neural Networks
 

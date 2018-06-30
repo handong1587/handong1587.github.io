@@ -86,6 +86,12 @@ date: 2015-10-09
 - video: [http://v.qq.com/x/page/f0398zcvkl5.html](http://v.qq.com/x/page/f0398zcvkl5.html)
 - video: [http://v.qq.com/x/page/w0398ei9m1r.html](http://v.qq.com/x/page/w0398ei9m1r.html)
 
+**A simple yet effective baseline for 3d human pose estimation**
+
+- intro: ICCV 2017
+- arxiv: [https://arxiv.org/abs/1705.03098](https://arxiv.org/abs/1705.03098)
+- github: [https://github.com/una-dinosauria/3d-pose-baseline](https://github.com/una-dinosauria/3d-pose-baseline)
+
 **Human Pose Detection Mining Body Language from Videos**
 
 - blog: [https://medium.com/@samim/human-pose-detection-51268e95ddc2](https://medium.com/@samim/human-pose-detection-51268e95ddc2)
@@ -152,9 +158,10 @@ date: 2015-10-09
 
 **DensePose: Dense Human Pose Estimation In The Wild**
 
-- intro: INRIA & Facebook AI Research
+- intro: CVPR 2018. INRIA & Facebook AI Research
 - project page: [http://densepose.org/](http://densepose.org/)
 - arxiv: [https://arxiv.org/abs/1802.00434](https://arxiv.org/abs/1802.00434)
+- github(CaffeO2): [https://github.com/facebookresearch/DensePose](https://github.com/facebookresearch/DensePose)
 
 **LCR-Net++: Multi-person 2D and 3D Pose Detection in Natural Images**
 
@@ -183,6 +190,10 @@ date: 2015-10-09
 
 - intro: CVPRW (2018). Workshop: Visual Understanding of Humans in Crowd Scene and the 2nd Look Into Person Challenge (VUHCS-LIP)
 - arxiv: [https://arxiv.org/abs/1804.07909](https://arxiv.org/abs/1804.07909)
+
+**Simple Baselines for Human Pose Estimation and Tracking**
+
+[https://arxiv.org/abs/1804.06208](https://arxiv.org/abs/1804.06208)
 
 **3D Human Pose Estimation with Relational Networks**
 
@@ -230,3 +241,8 @@ date: 2015-10-09
 - intro: a Tiny PyTorch implementation of single person 2D pose estimation framework
 - github: [https://github.com/YuliangXiu/MobilePose-pytorch](https://github.com/YuliangXiu/MobilePose-pytorch)
  github: [https://github.com/MVIG-SJTU/AlphaPose](https://github.com/MVIG-SJTU/AlphaPose)
+
+ **PyTorch-Pose: A PyTorch toolkit for 2D Human Pose Estimation**
+
+- intro: a PyTorch implementation of the general pipeline for 2D single human pose estimation.
+- github: [https://github.com/bearpaw/pytorch-pose](https://github.com/bearpaw/pytorch-pose)

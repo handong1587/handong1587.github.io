@@ -129,6 +129,11 @@ date: 2015-10-09
 - intro: DeepMind & University of Oxford
 - arxiv: [https://arxiv.org/abs/1806.03863](https://arxiv.org/abs/1806.03863)
 
+**Object Level Visual Reasoning in Videos**
+
+- intro: LIRIS & Facebook AI Research
+- arxiv: [https://arxiv.org/abs/1806.06157](https://arxiv.org/abs/1806.06157)
+
 # Video Classification
 
 **Large-scale Video Classification with Convolutional Neural Networks**

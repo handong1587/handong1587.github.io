@@ -137,6 +137,19 @@ date: 2015-10-09
 - intro: Computer and Robot Vision, Toronto, May 2018
 - arxiv: [https://arxiv.org/abs/1804.01646](https://arxiv.org/abs/1804.01646)
 
+**Capsules for Object Segmentation**
+
+- keywords: convolutional-deconvolutional capsule network, SegCaps, U-Net
+- arxiv: [https://arxiv.org/abs/1804.04241](https://arxiv.org/abs/1804.04241)
+
+**Deep Object Co-Segmentation**
+
+[https://arxiv.org/abs/1804.06423](https://arxiv.org/abs/1804.06423)
+
+**Contextual Hourglass Networks for Segmentation and Density Estimation**
+
+[https://arxiv.org/abs/1806.04009](https://arxiv.org/abs/1806.04009)
+
 ## U-Net
 
 **U-Net: Convolutional Networks for Biomedical Image Segmentation**
@@ -160,18 +173,10 @@ date: 2015-10-09
 - arxiv: [https://arxiv.org/abs/1801.05746](https://arxiv.org/abs/1801.05746)
 - github: [https://github.com/ternaus/TernausNet](https://github.com/ternaus/TernausNet)
 
-**Capsules for Object Segmentation**
+**A Probabilistic U-Net for Segmentation of Ambiguous Images**
 
-- keywords: convolutional-deconvolutional capsule network, SegCaps, U-Net
-- arxiv: [https://arxiv.org/abs/1804.04241](https://arxiv.org/abs/1804.04241)
-
-**Deep Object Co-Segmentation**
-
-[https://arxiv.org/abs/1804.06423](https://arxiv.org/abs/1804.06423)
-
-**Contextual Hourglass Networks for Segmentation and Density Estimation**
-
-[https://arxiv.org/abs/1806.04009](https://arxiv.org/abs/1806.04009)
+- intro: DeepMind & German Cancer Research Center
+- arxiv: [https://arxiv.org/abs/1806.05034](https://arxiv.org/abs/1806.05034)
 
 # Foreground Object Segmentation
 
@@ -1383,6 +1388,11 @@ ranked 1st place in ImageNet Scene Parsing Challenge 2016
 - intro: CVPR 2018
 - arxiv: [https://arxiv.org/abs/1806.02323](https://arxiv.org/abs/1806.02323)
 - github: [https://github.com/JingchunCheng/FAVOS](https://github.com/JingchunCheng/FAVOS)
+
+**ReConvNet: Video Object Segmentation with Spatio-Temporal Features Modulation**
+
+- intro: CVPR Workshop - DAVIS Challenge 2018
+- arxiv: [https://arxiv.org/abs/1806.05510](https://arxiv.org/abs/1806.05510)
 
 ## Challenge
 
