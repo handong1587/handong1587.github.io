@@ -374,6 +374,11 @@ date: 2015-10-09
 
 - arxiv: [https://arxiv.org/abs/1702.05870](https://arxiv.org/abs/1702.05870)
 
+**Differentiable Learning-to-Normalize via Switchable Normalization**
+
+- arxiv: [https://arxiv.org/abs/1806.10779](https://arxiv.org/abs/1806.10779)
+- github: [https://github.com/switchablenorms/Switchable-Normalization](https://github.com/switchablenorms/Switchable-Normalization)
+
 ## Group Normalization
 
 **Group Normalization**
@@ -901,6 +906,12 @@ date: 2015-10-09
 **Data Dropout in Arbitrary Basis for Deep Network Regularization**
 
 [https://arxiv.org/abs/1712.00891](https://arxiv.org/abs/1712.00891)
+
+**A New Angle on L2 Regularization**
+
+- intro: An explorable explanation on the phenomenon of adversarial examples in linear classification and its relation to L2 regularization
+- blog: [https://thomas-tanay.github.io/post--L2-regularization/](https://thomas-tanay.github.io/post--L2-regularization/)
+- arxiv: [https://arxiv.org/abs/1806.11186](https://arxiv.org/abs/1806.11186)
 
 ## DropConnect
 

@@ -309,3 +309,12 @@ date: 2015-10-09
 
 - intro: Laboratory for Physical Sciences & Nvidia
 - arxiv: [https://arxiv.org/abs/1806.06108](https://arxiv.org/abs/1806.06108)
+
+**Gradient Similarity: An Explainable Approach to Detect Adversarial Attacks against Deep Learning**
+
+[https://arxiv.org/abs/1806.10707](https://arxiv.org/abs/1806.10707)
+
+**Adversarial Reprogramming of Neural Networks**
+
+- intro: Google Brain
+- arxiv: [https://arxiv.org/abs/1806.11146](https://arxiv.org/abs/1806.11146)

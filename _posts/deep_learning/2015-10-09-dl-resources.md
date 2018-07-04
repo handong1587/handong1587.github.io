@@ -1444,6 +1444,12 @@ with fast exact probabilistic inference over many layers."
 - intro: National Tsing-Hua University & Google
 [https://arxiv.org/abs/1806.08198](https://arxiv.org/abs/1806.08198)
 
+**DARTS: Differentiable Architecture Search**
+
+- intro: Google & CMU
+- arxiv: [https://arxiv.org/abs/1806.09055](https://arxiv.org/abs/1806.09055)
+- gtihub: [https://github.com/quark0/darts](https://github.com/quark0/darts)
+
 ## Graph Convolutional Networks
 
 **Learning Convolutional Neural Networks for Graphs**

@@ -821,6 +821,14 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 
 [https://arxiv.org/abs/1805.06115](https://arxiv.org/abs/1805.06115)
 
+**Attention to Head Locations for Crowd Counting**
+
+[https://arxiv.org/abs/1806.10287](https://arxiv.org/abs/1806.10287)
+
+**Crowd Counting with Density Adaption Networks**
+
+[https://arxiv.org/abs/1806.10040](https://arxiv.org/abs/1806.10040)
+
 # Activity Recognition
 
 **Implementing a CNN for Human Activity Recognition in Tensorflow**
@@ -1277,6 +1285,11 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 - intro: CVPRW: NTIRE 2018
 - arxiv: [https://arxiv.org/abs/1805.05308](https://arxiv.org/abs/1805.05308)
 
+**Deep learning for dehazing: Comparison and analysis**
+
+- intro: CVCS 2018
+- arxiv: [https://arxiv.org/abs/1806.10923](https://arxiv.org/abs/1806.10923)
+
 # Image Rain Removal / De-raining
 
 **Clearing the Skies: A deep network architecture for single-image rain removal**
@@ -1336,6 +1349,10 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 
 - intro: ECCV Workshop on Video Segmentation, 2016
 - arxiv: [http://arxiv.org/abs/1609.07727](http://arxiv.org/abs/1609.07727)
+
+**Accurate and efficient video de-fencing using convolutional neural networks and temporal information**
+
+[https://arxiv.org/abs/1806.10781](https://arxiv.org/abs/1806.10781)
 
 # Snow Removal
 

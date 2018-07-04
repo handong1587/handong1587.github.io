@@ -494,6 +494,14 @@ at INT8 deep learning operations than other FPGA DSP architectures"
 - intro: MIT
 - arxiv: [https://arxiv.org/abs/1806.03723](https://arxiv.org/abs/1806.03723)
 
+# Compressing Deep Neural Network
+
+**Deep k-Means: Re-Training and Parameter Sharing with Harder Cluster Assignments for Compressing Deep Convolutions**
+
+- intro: ICML 2018
+- arxiv: [https://arxiv.org/abs/1806.09228](https://arxiv.org/abs/1806.09228)
+- github: [https://github.com/Sandbox3aster/Deep-K-Means-pytorch](https://github.com/Sandbox3aster/Deep-K-Means-pytorch)
+
 # Pruning
 
 **ThiNet: A Filter Level Pruning Method for Deep Neural Network Compression**

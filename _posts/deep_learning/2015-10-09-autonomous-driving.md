@@ -153,6 +153,11 @@ joint classification, detection and semantic segmentation via a unified architec
 
 [https://arxiv.org/abs/1709.04821](https://arxiv.org/abs/1709.04821)
 
+**CFENet: An Accurate and Efficient Single-Shot Object Detector for Autonomous Driving**
+
+- intro: CVPR 2018 Workshop of Autonomous Driving (WAD)
+- arxiv: [https://arxiv.org/abs/1806.09790](https://arxiv.org/abs/1806.09790)
+
 # Projects
 
 **Caffe-Autopilot: Car autopilot software that uses C++, BVLC Caffe, OpenCV, and SFML**
@@ -264,7 +269,7 @@ without running into obstacles using a type of reinforcement learning called Q-L
 
 [https://www.technologyreview.com/s/602600/deep-driving/](https://www.technologyreview.com/s/602600/deep-driving/)
 
-**Visualizations for regressing wheel steering angles in self driving cars with Keras **
+**Visualizations for regressing wheel steering angles in self driving cars with Keras**
 
 - blog: [http://jacobcv.blogspot.jp/2016/10/visualizations-for-regressing-wheel.html](http://jacobcv.blogspot.jp/2016/10/visualizations-for-regressing-wheel.html)
 - github: [https://github.com/jacobgil/keras-steering-angle-visualizations](https://github.com/jacobgil/keras-steering-angle-visualizations)

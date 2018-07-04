@@ -246,3 +246,9 @@ date: 2015-10-09
 
 - intro: a PyTorch implementation of the general pipeline for 2D single human pose estimation.
 - github: [https://github.com/bearpaw/pytorch-pose](https://github.com/bearpaw/pytorch-pose)
+
+# Challenge
+
+**POSETRACK CHALLENGE: ARTICULATED PEOPLE TRACKING IN THE WILD**
+
+[https://posetrack.net/workshops/eccv2018/#challenges](https://posetrack.net/workshops/eccv2018/#challenges)

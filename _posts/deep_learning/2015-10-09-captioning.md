@@ -547,6 +547,11 @@ after the embedding and recurrent layers of the RNN."
 
 [https://arxiv.org/abs/1806.00738](https://arxiv.org/abs/1806.00738)
 
+**RUC+CMU: System Report for Dense Captioning Events in Videos**
+
+- intro: Winner in ActivityNet 2018 Dense Video Captioning challenge
+- arxiv: [https://arxiv.org/abs/1806.08854](https://arxiv.org/abs/1806.08854)
+
 # Projects
 
 **Learning CNN-LSTM Architectures for Image Caption Generation: An implementation of CNN-LSTM image caption generator architecture that achieves close to state-of-the-art results on the MSCOCO dataset.**
