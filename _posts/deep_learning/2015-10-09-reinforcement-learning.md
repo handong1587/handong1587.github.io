@@ -82,6 +82,11 @@ date: 2015-10-09
 - intro: ICML 2017 Tutorial
 - slides: [https://sites.google.com/view/icml17deeprl](https://sites.google.com/view/icml17deeprl)
 
+**A Tour of Reinforcement Learning: The View from Continuous Control**
+
+- intro: by Benjamin Recht, UC Berkeley
+- slides: [https://people.eecs.berkeley.edu/~brecht/l2c-icml2018/Recht_ICML_Control-RL_tutorial.pdf](https://people.eecs.berkeley.edu/~brecht/l2c-icml2018/Recht_ICML_Control-RL_tutorial.pdf)
+
 ## Simple Reinforcement Learning with Tensorflow
 
 **Part 0: Q-Learning with Tables and Neural Networks**
