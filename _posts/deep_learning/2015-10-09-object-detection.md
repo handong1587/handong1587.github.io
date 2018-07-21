@@ -927,8 +927,9 @@ Continuation of [arXiv:1608.08021](https://arxiv.org/abs/1608.08021)
 
 **Relation Networks for Object Detection**
 
-- intro: CVPR 2018
+- intro: CVPR 2018 oral
 - arxiv: [https://arxiv.org/abs/1711.11575](https://arxiv.org/abs/1711.11575)
+- github(official, MXNet): [https://github.com/msracver/Relation-Networks-for-Object-Detection](https://github.com/msracver/Relation-Networks-for-Object-Detection)
 
 # Adversarial Examples
 
