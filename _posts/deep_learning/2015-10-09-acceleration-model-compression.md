@@ -485,6 +485,23 @@ at INT8 deep learning operations than other FPGA DSP architectures"
 - intro: [Institut Pascal]
 - arxiv: [https://arxiv.org/abs/1806.01683](https://arxiv.org/abs/1806.01683)
 
+**Doubly Nested Network for Resource-Efficient Inference**
+
+[https://arxiv.org/abs/1806.07568](https://arxiv.org/abs/1806.07568)
+
+**Smallify: Learning Network Size while Training**
+
+- intro: MIT
+- arxiv: [https://arxiv.org/abs/1806.03723](https://arxiv.org/abs/1806.03723)
+
+# Compressing Deep Neural Network
+
+**Deep k-Means: Re-Training and Parameter Sharing with Harder Cluster Assignments for Compressing Deep Convolutions**
+
+- intro: ICML 2018
+- arxiv: [https://arxiv.org/abs/1806.09228](https://arxiv.org/abs/1806.09228)
+- github: [https://github.com/Sandbox3aster/Deep-K-Means-pytorch](https://github.com/Sandbox3aster/Deep-K-Means-pytorch)
+
 # Pruning
 
 **ThiNet: A Filter Level Pruning Method for Deep Neural Network Compression**
@@ -529,6 +546,11 @@ at INT8 deep learning operations than other FPGA DSP architectures"
 
 [https://arxiv.org/abs/1805.11394](https://arxiv.org/abs/1805.11394)
 
+**PCAS: Pruning Channels with Attention Statistics**
+
+- intro: Oki Electric Industry Co., Ltd
+- arxiv: [https://arxiv.org/abs/1806.05382](https://arxiv.org/abs/1806.05382)
+
 # Quantized Neural Networks
 
 **Quantized Convolutional Neural Networks for Mobile Devices**
@@ -558,6 +580,16 @@ at INT8 deep learning operations than other FPGA DSP architectures"
 
 - intro: AAAI 2018. Shanghai Jiao Tong University & University of Chinese Academy of Sciences
 - arxiv: [https://arxiv.org/abs/1803.03289](https://arxiv.org/abs/1803.03289)
+
+**Quantizing deep convolutional networks for efficient inference: A whitepaper**
+
+- intro: Google
+- arxiv: [https://arxiv.org/abs/1806.08342](https://arxiv.org/abs/1806.08342)
+
+**CascadeCNN: Pushing the Performance Limits of Quantisation in Convolutional Neural Networks**
+
+- intro: 28th International Conference on Field Programmable Logic & Applications (FPL), 2018
+- arxiv: [https://arxiv.org/abs/1807.05053](https://arxiv.org/abs/1807.05053)
 
 # Binary Convolutional Neural Networks / Binarized Neural Networks
 
@@ -845,6 +877,10 @@ at INT8 deep learning operations than other FPGA DSP architectures"
 **Compressing and regularizing deep neural networks**
 
 [https://www.oreilly.com/ideas/compressing-and-regularizing-deep-neural-networks](https://www.oreilly.com/ideas/compressing-and-regularizing-deep-neural-networks)
+
+**How fast is my model?**
+
+[http://machinethink.net/blog/how-fast-is-my-model/](http://machinethink.net/blog/how-fast-is-my-model/)
 
 # Talks / Videos
 

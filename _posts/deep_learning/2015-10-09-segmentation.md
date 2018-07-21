@@ -137,6 +137,19 @@ date: 2015-10-09
 - intro: Computer and Robot Vision, Toronto, May 2018
 - arxiv: [https://arxiv.org/abs/1804.01646](https://arxiv.org/abs/1804.01646)
 
+**Capsules for Object Segmentation**
+
+- keywords: convolutional-deconvolutional capsule network, SegCaps, U-Net
+- arxiv: [https://arxiv.org/abs/1804.04241](https://arxiv.org/abs/1804.04241)
+
+**Deep Object Co-Segmentation**
+
+[https://arxiv.org/abs/1804.06423](https://arxiv.org/abs/1804.06423)
+
+**Contextual Hourglass Networks for Segmentation and Density Estimation**
+
+[https://arxiv.org/abs/1806.04009](https://arxiv.org/abs/1806.04009)
+
 ## U-Net
 
 **U-Net: Convolutional Networks for Biomedical Image Segmentation**
@@ -160,18 +173,10 @@ date: 2015-10-09
 - arxiv: [https://arxiv.org/abs/1801.05746](https://arxiv.org/abs/1801.05746)
 - github: [https://github.com/ternaus/TernausNet](https://github.com/ternaus/TernausNet)
 
-**Capsules for Object Segmentation**
+**A Probabilistic U-Net for Segmentation of Ambiguous Images**
 
-- keywords: convolutional-deconvolutional capsule network, SegCaps, U-Net
-- arxiv: [https://arxiv.org/abs/1804.04241](https://arxiv.org/abs/1804.04241)
-
-**Deep Object Co-Segmentation**
-
-[https://arxiv.org/abs/1804.06423](https://arxiv.org/abs/1804.06423)
-
-**Contextual Hourglass Networks for Segmentation and Density Estimation**
-
-[https://arxiv.org/abs/1806.04009](https://arxiv.org/abs/1806.04009)
+- intro: DeepMind & German Cancer Research Center
+- arxiv: [https://arxiv.org/abs/1806.05034](https://arxiv.org/abs/1806.05034)
 
 # Foreground Object Segmentation
 
@@ -799,6 +804,25 @@ with built-in awareness of semantically meaningful boundaries. "
 
 [https://arxiv.org/abs/1805.10180](https://arxiv.org/abs/1805.10180)
 
+**Semantic Segmentation with Scarce Data**
+
+- intro: ICML 2018 Workshop
+- arxiv: [https://arxiv.org/abs/1807.00911](https://arxiv.org/abs/1807.00911)
+
+**Attention to Refine through Multi-Scales for Semantic Segmentation**
+
+[https://arxiv.org/abs/1807.02917](https://arxiv.org/abs/1807.02917)
+
+**Guided Upsampling Network for Real-Time Semantic Segmentation**
+
+- intro: BMVC 2018
+- arxiv: [https://arxiv.org/abs/1807.07466](https://arxiv.org/abs/1807.07466)
+
+**Deep Learning for Semantic Segmentation on Minimal Hardware**
+
+- intro: RoboCup International Symposium 2018
+- arxiv: [https://arxiv.org/abs/1807.05597](https://arxiv.org/abs/1807.05597)
+
 # Instance Segmentation
 
 **Simultaneous Detection and Segmentation**
@@ -1007,6 +1031,17 @@ with built-in awareness of semantically meaningful boundaries. "
 
 [https://arxiv.org/abs/1806.00911](https://arxiv.org/abs/1806.00911)
 
+**TernausNetV2: Fully Convolutional Network for Instance Segmentation**
+
+- arxiv: [https://arxiv.org/abs/1806.00844](https://arxiv.org/abs/1806.00844)
+- github: [https://github.com/ternaus/TernausNetV2](https://github.com/ternaus/TernausNetV2)
+
+**Dynamic Multimodal Instance Segmentation guided by natural language queries**
+
+- intro: ECCV 2018
+- arxiv: [https://arxiv.org/abs/1807.02257](https://arxiv.org/abs/1807.02257)
+- github: [https://github.com/andfoy/query-objseg](https://github.com/andfoy/query-objseg)
+
 ## Human Instance Segmentation
 
 **PersonLab: Person Pose Estimation and Instance Segmentation with a Bottom-Up, Part-Based, Geometric Embedding Model**
@@ -1043,6 +1078,11 @@ with built-in awareness of semantically meaningful boundaries. "
 **Boundary-sensitive Network for Portrait Segmentation**
 
 [https://arxiv.org/abs/1712.08675](https://arxiv.org/abs/1712.08675)
+
+**Beef Cattle Instance Segmentation Using Fully Convolutional Neural Network**
+
+- intro: BMVC 2018
+- arxiv: [https://arxiv.org/abs/1807.01972](https://arxiv.org/abs/1807.01972)
 
 # Segment Proposal
 
@@ -1308,6 +1348,7 @@ ranked 1st place in ImageNet Scene Parsing Challenge 2016
 
 - intro: CVPR 2017 Workshop, DAVIS Challenge on Video Object Segmentation 2017 (Winning Entry)
 - arxiv: [https://arxiv.org/abs/1708.00197](https://arxiv.org/abs/1708.00197)
+- github: [https://github.com/lxx1991/VS-ReID](https://github.com/lxx1991/VS-ReID)
 
 **Pixel-Level Matching for Video Object Segmentation using Convolutional Neural Networks**
 
@@ -1383,6 +1424,16 @@ ranked 1st place in ImageNet Scene Parsing Challenge 2016
 - intro: CVPR 2018
 - arxiv: [https://arxiv.org/abs/1806.02323](https://arxiv.org/abs/1806.02323)
 - github: [https://github.com/JingchunCheng/FAVOS](https://github.com/JingchunCheng/FAVOS)
+
+**ReConvNet: Video Object Segmentation with Spatio-Temporal Features Modulation**
+
+- intro: CVPR Workshop - DAVIS Challenge 2018
+- arxiv: [https://arxiv.org/abs/1806.05510](https://arxiv.org/abs/1806.05510)
+
+**Deep Spatio-Temporal Random Fields for Efficient Video Segmentation**
+
+- intro: CVPR 2018
+- arxiv: [https://arxiv.org/abs/1807.03148](https://arxiv.org/abs/1807.03148)
 
 ## Challenge
 

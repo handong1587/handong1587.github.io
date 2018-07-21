@@ -129,6 +129,11 @@ date: 2015-10-09
 - intro: DeepMind & University of Oxford
 - arxiv: [https://arxiv.org/abs/1806.03863](https://arxiv.org/abs/1806.03863)
 
+**Object Level Visual Reasoning in Videos**
+
+- intro: LIRIS & Facebook AI Research
+- arxiv: [https://arxiv.org/abs/1806.06157](https://arxiv.org/abs/1806.06157)
+
 # Video Classification
 
 **Large-scale Video Classification with Convolutional Neural Networks**
@@ -263,6 +268,14 @@ date: 2015-10-09
 
 - arxiv: [https://arxiv.org/abs/1711.09125](https://arxiv.org/abs/1711.09125)
 - github: [https://github.com/wanglimin/ARTNet](https://github.com/wanglimin/ARTNet)
+
+**Long Activity Video Understanding using Functional Object-Oriented Network**
+
+[https://arxiv.org/abs/1807.00983](https://arxiv.org/abs/1807.00983)
+
+**Deep Architectures and Ensembles for Semantic Video Classification**
+
+[https://arxiv.org/abs/1807.01026](https://arxiv.org/abs/1807.01026)
 
 ## Action Detection / Activity Recognition
 
@@ -831,6 +844,16 @@ alleviates the problem of video browsing, editing and indexing.
 **Video Summarization Using Fully Convolutional Sequence Networks**
 
 [https://arxiv.org/abs/1805.10538](https://arxiv.org/abs/1805.10538)
+
+**Video Summarisation by Classification with Deep Reinforcement Learning**
+
+- intro: BMVC 2018
+- arxiv: [https://arxiv.org/abs/1807.03089](https://arxiv.org/abs/1807.03089)
+
+**Query-Conditioned Three-Player Adversarial Network for Video Summarization**
+
+- intro: BMVC 2018
+- arxiv: [https://arxiv.org/abs/1807.06677](https://arxiv.org/abs/1807.06677)
 
 # Video Highlight Detection
 

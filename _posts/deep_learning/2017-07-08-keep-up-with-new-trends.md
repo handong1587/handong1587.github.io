@@ -9,11 +9,42 @@ date: 2017-12-18
 
 [https://www.youtube.com/channel/UC0n76gicaarsN_Y9YShWwhw/playlists](https://www.youtube.com/channel/UC0n76gicaarsN_Y9YShWwhw/playlists)
 
+# ICML 2018
+
+**DeepMind papers at ICML 2018**
+
+**Facebook Research at ICML 2018**
+
+[https://research.fb.com/facebook-research-at-icml-2018/](https://research.fb.com/facebook-research-at-icml-2018/)
+
+**ICML 2018 Notes**
+
+- day1: [https://gmarti.gitlab.io/ml/2018/07/10/icml18-tutorials.html](https://gmarti.gitlab.io/ml/2018/07/10/icml18-tutorials.html)
+- day2: [https://gmarti.gitlab.io/ml/2018/07/11/icml18-day-2.html](https://gmarti.gitlab.io/ml/2018/07/11/icml18-day-2.html)
+- day3: [https://gmarti.gitlab.io/ml/2018/07/12/icml18-day-3.html](https://gmarti.gitlab.io/ml/2018/07/12/icml18-day-3.html)
+- day4: [https://gmarti.gitlab.io/ml/2018/07/13/icml18-day-4.html](https://gmarti.gitlab.io/ml/2018/07/13/icml18-day-4.html)
+
+**ICML 2018 Notes**
+
+- notes: [https://david-abel.github.io/blog/posts/misc/icml_2018.pdf](https://david-abel.github.io/blog/posts/misc/icml_2018.pdf)
+- github: [https://david-abel.github.io/](https://david-abel.github.io/)
+
+# IJCAI 2018
+
+**Proceedings of IJCAI 2018**
+
+[https://www.ijcai.org/proceedings/2018/](https://www.ijcai.org/proceedings/2018/)
+
 # CVPR 2018
 
 **CVPR 2018 open access**
 
 [http://openaccess.thecvf.com/CVPR2018.py](http://openaccess.thecvf.com/CVPR2018.py)
+
+**CVPR18: Tutorials**
+
+- youtube: [https://www.youtube.com/playlist?list=PL_bDvITUYucD54Ym5XKGqTv9xNsrOX0aS](https://www.youtube.com/playlist?list=PL_bDvITUYucD54Ym5XKGqTv9xNsrOX0aS)
+- bilibili: [https://www.bilibili.com/video/av27038992/](https://www.bilibili.com/video/av27038992/)
 
 # NIPS 2017
 

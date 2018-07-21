@@ -265,11 +265,16 @@ date: 2015-10-09
 - arxiv: [https://arxiv.org/abs/1704.08863](https://arxiv.org/abs/1704.08863)
 - github: [https://github.com/sidkk86/weight_initialization](https://github.com/sidkk86/weight_initialization)
 
+**Dynamical Isometry and a Mean Field Theory of CNNs: How to Train 10,000-Layer Vanilla Convolutional Neural Networks**
+
+- intro: ICML 2018. Google Brain
+- arxiv: [https://arxiv.org/abs/1806.05393](https://arxiv.org/abs/1806.05393)
+
 ## Batch Normalization
 
 **Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift**
 
-- intro: ImageNet top-5 error: 4.82% 
+- intro: ImageNet top-5 error: 4.82%
 - keywords: internal covariate shift problem
 - arxiv: [http://arxiv.org/abs/1502.03167](http://arxiv.org/abs/1502.03167)
 - blog: [https://standardfrancis.wordpress.com/2015/04/16/batch-normalization/](https://standardfrancis.wordpress.com/2015/04/16/batch-normalization/)
@@ -334,6 +339,18 @@ date: 2015-10-09
 
 [https://arxiv.org/abs/1806.02375](https://arxiv.org/abs/1806.02375)
 
+**Implementing Synchronized Multi-GPU Batch Normalization**
+
+[http://hangzh.com/PyTorch-Encoding/notes/syncbn.html](http://hangzh.com/PyTorch-Encoding/notes/syncbn.html)
+
+**Restructuring Batch Normalization to Accelerate CNN Training**
+
+[https://arxiv.org/abs/1807.01702](https://arxiv.org/abs/1807.01702)
+
+**Intro to optimization in deep learning: Busting the myth about batch normalization**
+
+- blog: [https://blog.paperspace.com/busting-the-myths-about-batch-normalization/](https://blog.paperspace.com/busting-the-myths-about-batch-normalization/)
+
 ### Backward pass of BN
 
 **Understanding the backward pass through Batch Normalization Layer**
@@ -364,6 +381,11 @@ date: 2015-10-09
 **Cosine Normalization: Using Cosine Similarity Instead of Dot Product in Neural Networks**
 
 - arxiv: [https://arxiv.org/abs/1702.05870](https://arxiv.org/abs/1702.05870)
+
+**Differentiable Learning-to-Normalize via Switchable Normalization**
+
+- arxiv: [https://arxiv.org/abs/1806.10779](https://arxiv.org/abs/1806.10779)
+- github: [https://github.com/switchablenorms/Switchable-Normalization](https://github.com/switchablenorms/Switchable-Normalization)
 
 ## Group Normalization
 
@@ -893,6 +915,12 @@ date: 2015-10-09
 
 [https://arxiv.org/abs/1712.00891](https://arxiv.org/abs/1712.00891)
 
+**A New Angle on L2 Regularization**
+
+- intro: An explorable explanation on the phenomenon of adversarial examples in linear classification and its relation to L2 regularization
+- blog: [https://thomas-tanay.github.io/post--L2-regularization/](https://thomas-tanay.github.io/post--L2-regularization/)
+- arxiv: [https://arxiv.org/abs/1806.11186](https://arxiv.org/abs/1806.11186)
+
 ## DropConnect
 
 **Regularization of Neural Networks using DropConnect**
@@ -1014,6 +1042,11 @@ date: 2015-10-09
 **Improving Generalization Performance by Switching from Adam to SGD**
 
 [https://arxiv.org/abs/1712.07628](https://arxiv.org/abs/1712.07628)
+
+**Laplacian Smoothing Gradient Descent**
+
+- intro: UCLA
+- arxiv: [https://arxiv.org/abs/1806.06317](https://arxiv.org/abs/1806.06317)
 
 ## AdaGrad
 
@@ -1247,7 +1280,8 @@ date: 2015-10-09
 
 **AutoAugment: Learning Augmentation Policies from Data**
 
-[https://arxiv.org/abs/1805.09501](https://arxiv.org/abs/1805.09501)
+- arxiv: [https://arxiv.org/abs/1805.09501](https://arxiv.org/abs/1805.09501)
+- github: [https://github.com/DeepVoltaire/AutoAugment](https://github.com/DeepVoltaire/AutoAugment)
 
 **Improved Mixed-Example Data Augmentation**
 
@@ -1502,6 +1536,11 @@ date: 2015-10-09
 **DeepDefense: Training Deep Neural Networks with Improved Robustness**
 
 [https://arxiv.org/abs/1803.00404](https://arxiv.org/abs/1803.00404)
+
+**Gradient Adversarial Training of Neural Networks**
+
+- intro: Magic Leap
+- arxiv: [https://arxiv.org/abs/1806.08028](https://arxiv.org/abs/1806.08028)
 
 # Low-Precision Training
 

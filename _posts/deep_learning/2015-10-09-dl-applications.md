@@ -821,6 +821,23 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 
 [https://arxiv.org/abs/1805.06115](https://arxiv.org/abs/1805.06115)
 
+**Attention to Head Locations for Crowd Counting**
+
+[https://arxiv.org/abs/1806.10287](https://arxiv.org/abs/1806.10287)
+
+**Crowd Counting with Density Adaption Networks**
+
+[https://arxiv.org/abs/1806.10040](https://arxiv.org/abs/1806.10040)
+
+**Perspective-Aware CNN For Crowd Counting**
+
+[https://arxiv.org/abs/1807.01989](https://arxiv.org/abs/1807.01989)
+
+**Crowd Counting using Deep Recurrent Spatial-Aware Network**
+
+- intro: IJCAI 2018
+- arxiv: [https://arxiv.org/abs/1807.00601](https://arxiv.org/abs/1807.00601)
+
 # Activity Recognition
 
 **Implementing a CNN for Human Activity Recognition in Tensorflow**
@@ -1084,7 +1101,8 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 
 **Non-Local Recurrent Network for Image Restoration**
 
-[https://arxiv.org/abs/1806.02919](https://arxiv.org/abs/1806.02919)
+- intro: University of Illinois at Urbana-Champaign & The Chinese University of Hong Kong
+- arxiv: [https://arxiv.org/abs/1806.02919](https://arxiv.org/abs/1806.02919)
 
 ## Face Completion
 
@@ -1198,6 +1216,10 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 
 [https://arxiv.org/abs/1803.01314](https://arxiv.org/abs/1803.01314)
 
+**Identifying Recurring Patterns with Deep Neural Networks for Natural Image Denoising**
+
+[https://arxiv.org/abs/1806.05229](https://arxiv.org/abs/1806.05229)
+
 # Image Haze Removal
 
 **DehazeNet: An End-to-End System for Single Image Haze Removal**
@@ -1272,6 +1294,11 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 - intro: CVPRW: NTIRE 2018
 - arxiv: [https://arxiv.org/abs/1805.05308](https://arxiv.org/abs/1805.05308)
 
+**Deep learning for dehazing: Comparison and analysis**
+
+- intro: CVCS 2018
+- arxiv: [https://arxiv.org/abs/1806.10923](https://arxiv.org/abs/1806.10923)
+
 # Image Rain Removal / De-raining
 
 **Clearing the Skies: A deep network architecture for single-image rain removal**
@@ -1320,6 +1347,12 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 
 [https://arxiv.org/abs/1805.06173](https://arxiv.org/abs/1805.06173)
 
+**Recurrent Squeeze-and-Excitation Context Aggregation Net for Single Image Deraining**
+
+- intro: ECCV 2018
+- arxiv: [https://arxiv.org/abs/1807.05698](https://arxiv.org/abs/1807.05698)
+- code: [https://xialipku.github.io/RESCAN/](https://xialipku.github.io/RESCAN/)
+
 # Fence Removal
 
 **My camera can see through fences: A deep learning approach for image de-fencing**
@@ -1331,6 +1364,10 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 
 - intro: ECCV Workshop on Video Segmentation, 2016
 - arxiv: [http://arxiv.org/abs/1609.07727](http://arxiv.org/abs/1609.07727)
+
+**Accurate and efficient video de-fencing using convolutional neural networks and temporal information**
+
+[https://arxiv.org/abs/1806.10781](https://arxiv.org/abs/1806.10781)
 
 # Snow Removal
 
@@ -1608,6 +1645,10 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 **Learned Perceptual Image Enhancement**
 
 [https://arxiv.org/abs/1712.02864](https://arxiv.org/abs/1712.02864)
+
+**Deep Underwater Image Enhancement**
+
+[https://arxiv.org/abs/1807.03528](https://arxiv.org/abs/1807.03528)
 
 # Abnormality Detection / Anomaly Detection
 
@@ -2320,6 +2361,11 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 
 - intro: Deep Reinforcement Learning based Trading Agent for Bitcoin
 - arxiv: [https://github.com/samre12/deep-trading-agent](https://github.com/samre12/deep-trading-agent)
+
+**Financial Trading as a Game: A Deep Reinforcement Learning Approach**
+
+- intro: National Chiao Tung University
+- arxiv: [https://arxiv.org/abs/1807.02787](https://arxiv.org/abs/1807.02787)
 
 # Deep Learning in Speech
 

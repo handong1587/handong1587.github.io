@@ -135,6 +135,10 @@ date: 2015-10-09
 - video: [https://www.researchgate.net/project/Theories-of-Deep-Learning](https://www.researchgate.net/project/Theories-of-Deep-Learning)
 - mirror: [https://www.bilibili.com/video/av16136625/](https://www.bilibili.com/video/av16136625/)
 
+**CS230: Deep Learning Spring 2018**
+
+[https://web.stanford.edu/class/cs230/](https://web.stanford.edu/class/cs230/)
+
 ## With Video Lectures
 
 **Deep Learning: Taking machine learning to the next level (Udacity)**

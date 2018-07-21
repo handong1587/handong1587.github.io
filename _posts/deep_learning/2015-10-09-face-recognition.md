@@ -171,6 +171,10 @@ date: 2015-10-09
 
 [https://arxiv.org/abs/1703.09507](https://arxiv.org/abs/1703.09507)
 
+**von Mises-Fisher Mixture Model-based Deep learning: Application to Face Verification**
+
+[https://arxiv.org/abs/1706.04264](https://arxiv.org/abs/1706.04264)
+
 **Low Resolution Face Recognition Using a Two-Branch Deep Convolutional Neural Network Architecture**
 
 - intro: Amirkabir University of Technology & MIT
@@ -395,6 +399,11 @@ date: 2015-10-09
 **Deep Adaptive Attention for Joint Facial Action Unit Detection and Face Alignment**
 
 [https://arxiv.org/abs/1803.05588](https://arxiv.org/abs/1803.05588)
+
+**Supervision-by-Registration: An Unsupervised Approach to Improve the Precision of Facial Landmark Detectors**
+
+- intro: Minor modifications to the CVPR 2018 version (add missing references)
+- arxiv: [https://arxiv.org/abs/1807.00966](https://arxiv.org/abs/1807.00966)
 
 # Face Synthesis
 

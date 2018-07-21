@@ -167,7 +167,8 @@ date: 2015-10-09
 
 - intro: AAAI 2018. CUHK & SenseTime
 - keywords: HF-Softmax
-[https://github.com/yl-1993/hfsoftmax](https://github.com/yl-1993/hfsoftmax)
+- arxiv: [https://arxiv.org/abs/1801.01687](https://arxiv.org/abs/1801.01687)
+- github: [https://github.com/yl-1993/hfsoftmax](https://github.com/yl-1993/hfsoftmax)
 
 # Multi-object Recognition
 
@@ -211,17 +212,34 @@ date: 2015-10-09
 
 # Person Recognition
 
+**Beyond Frontal Faces: Improving Person Recognition Using Multiple Cues**
+
+- intro: UC Berkeley & Facebook AI Research
+- keywords: People In Photo Albums (PIPA) dataset, Pose Invariant PErson Recognition (PIPER)
+- project page: [https://people.eecs.berkeley.edu/~nzhang/piper.html](https://people.eecs.berkeley.edu/~nzhang/piper.html)
+- arxiv: [https://arxiv.org/abs/1501.05703](https://arxiv.org/abs/1501.05703)
+
+## COCO_v1
+
 **Learning Deep Features via Congenerous Cosine Loss for Person Recognition**
 
 - keywords: COCO loss
 - arxiv: [https://arxiv.org/abs/1702.06890](https://arxiv.org/abs/1702.06890)
 - github: [https://github.com/sciencefans/coco_loss](https://github.com/sciencefans/coco_loss)
 
+**Pose-Aware Person Recognition**
+
+- intro: CVIT & Facebook AI Research
+- arxiv: [https://arxiv.org/abs/1705.10120](https://arxiv.org/abs/1705.10120)
+
+## COCO_v2
+
 **Rethinking Feature Discrimination and Polymerization for Large-scale Recognition**
 
 - intro: NIPS 2017 Deep Learning Workshop
 - keywords: COCO loss
 - arxiv: [https://arxiv.org/abs/1710.00870](https://arxiv.org/abs/1710.00870)
+- github: [https://github.com/sciencefans/coco_loss](https://github.com/sciencefans/coco_loss)
 
 **Person Recognition in Social Media Photos**
 
@@ -411,6 +429,11 @@ date: 2015-10-09
 - paper: [http://or.nsfc.gov.cn/bitstream/00001903-5/417802/1/1000014103914.pdf](http://or.nsfc.gov.cn/bitstream/00001903-5/417802/1/1000014103914.pdf)
 - github: [https://github.com/kyu-sz/DeepMAR_deploy](https://github.com/kyu-sz/DeepMAR_deploy)
 
+**Pedestrian Attribute Recognition At Far Distance**
+
+- intro: ACM MM 2014
+- paper: [http://personal.ie.cuhk.edu.hk/~pluo/pdf/mm14.pdf](http://personal.ie.cuhk.edu.hk/~pluo/pdf/mm14.pdf)
+
 **Human Attribute Recognition by Deep Hierarchical Contexts**
 
 - intro: ECCV 2016
@@ -432,6 +455,11 @@ date: 2015-10-09
 - keywords: PETA, RAP and WIDER
 - arxiv: [https://arxiv.org/abs/1707.06089](https://arxiv.org/abs/1707.06089)
 - github: [https://github.com/asc-kit/vespa](https://github.com/asc-kit/vespa)
+
+**Deep Imbalanced Attribute Classification using Visual Attention Aggregation**
+
+- intro: ECCV 2018
+- arxiv: [https://arxiv.org/abs/1807.03903](https://arxiv.org/abs/1807.03903)
 
 # Clothes Recognition
 

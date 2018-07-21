@@ -220,6 +220,12 @@ date: 2015-10-09
 - intro: Bar-Ilan University & DeepMind
 - arxiv: [https://arxiv.org/abs/1801.02608](https://arxiv.org/abs/1801.02608)
 
+**Obfuscated Gradients Give a False Sense of Security: Circumventing Defenses to Adversarial Examples**
+
+- intro: ICML 2018 Best Paper Award. MIT & UC Berkeley
+- arxiv: [https://arxiv.org/abs/1802.00420](https://arxiv.org/abs/1802.00420)
+- github: [https://github.com/anishathalye/obfuscated-gradients](https://github.com/anishathalye/obfuscated-gradients)
+
 **Adversarial Examples that Fool both Human and Computer Vision**
 
 - intro: Google Brain & Stanford University
@@ -304,3 +310,27 @@ date: 2015-10-09
 **Adversarial Attacks on Variational Autoencoders**
 
 [https://arxiv.org/abs/1806.04646](https://arxiv.org/abs/1806.04646)
+
+**Non-Negative Networks Against Adversarial Attacks**
+
+- intro: Laboratory for Physical Sciences & Nvidia
+- arxiv: [https://arxiv.org/abs/1806.06108](https://arxiv.org/abs/1806.06108)
+
+**Gradient Similarity: An Explainable Approach to Detect Adversarial Attacks against Deep Learning**
+
+[https://arxiv.org/abs/1806.10707](https://arxiv.org/abs/1806.10707)
+
+**Adversarial Reprogramming of Neural Networks**
+
+- intro: Google Brain
+- arxiv: [https://arxiv.org/abs/1806.11146](https://arxiv.org/abs/1806.11146)
+
+**Defend Deep Neural Networks Against Adversarial Examples via Fixed andDynamic Quantized Activation Functions**
+
+- intro: University of Central Florida & JD AI Research & Tencent AI Lab
+- arxiv: [https://arxiv.org/abs/1807.06714](https://arxiv.org/abs/1807.06714)
+
+**Motivating the Rules of the Game for Adversarial Example Research**
+
+- intro: Google Brain & Princeton
+- arxiv: [https://arxiv.org/abs/1807.06732](https://arxiv.org/abs/1807.06732)

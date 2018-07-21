@@ -491,7 +491,8 @@ date: 2015-10-09
 
 **The Devil is in the Middle: Exploiting Mid-level Representations for Cross-Domain Instance Matching**
 
-[https://arxiv.org/abs/1711.08106](https://arxiv.org/abs/1711.08106)
+- keywords: finegrained sketch-based image retrieval (FG-SBIR) and Person Re-identification (person ReID)
+- arxiv: [https://arxiv.org/abs/1711.08106](https://arxiv.org/abs/1711.08106)
 
 **ForestHash: Semantic Hashing With Shallow Random Forests and Tiny Convolutional Networks**
 
@@ -563,6 +564,14 @@ date: 2015-10-09
 - intro: ICML 2018. Seoul National University
 - arxiv: [https://arxiv.org/abs/1805.05809](https://arxiv.org/abs/1805.05809)
 - github: [https://github.com/maestrojeong/Deep-Hash-Table-ICML18](https://github.com/maestrojeong/Deep-Hash-Table-ICML18)
+
+**Unsupervised Deep Image Hashing through Tag Embeddings**
+
+[https://arxiv.org/abs/1806.05804](https://arxiv.org/abs/1806.05804)
+
+**Adversarial Learning for Fine-grained Image Search**
+
+[https://arxiv.org/abs/1807.02247](https://arxiv.org/abs/1807.02247)
 
 # Cross Modal Retrieval
 

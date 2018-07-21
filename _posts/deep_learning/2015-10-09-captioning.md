@@ -343,6 +343,16 @@ after the embedding and recurrent layers of the RNN."
 
 [https://arxiv.org/abs/1805.12589](https://arxiv.org/abs/1805.12589)
 
+**Learning to Evaluate Image Captioning**
+
+- intro: CVPR 2018
+- arxiv: [https://arxiv.org/abs/1806.06422](https://arxiv.org/abs/1806.06422)
+
+**Topic-Guided Attention for Image Captioning**
+
+- intro: ICIP 2018
+- arxiv: [https://arxiv.org/abs/1807.03514](https://arxiv.org/abs/1807.03514)
+
 # Object Descriptions
 
 **Generation and Comprehension of Unambiguous Object Descriptions**
@@ -541,6 +551,11 @@ after the embedding and recurrent layers of the RNN."
 **Contextualize, Show and Tell: A Neural Visual Storyteller**
 
 [https://arxiv.org/abs/1806.00738](https://arxiv.org/abs/1806.00738)
+
+**RUC+CMU: System Report for Dense Captioning Events in Videos**
+
+- intro: Winner in ActivityNet 2018 Dense Video Captioning challenge
+- arxiv: [https://arxiv.org/abs/1806.08854](https://arxiv.org/abs/1806.08854)
 
 # Projects
 

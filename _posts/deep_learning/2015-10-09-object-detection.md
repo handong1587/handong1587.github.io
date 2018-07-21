@@ -768,6 +768,7 @@ Continuation of [arXiv:1608.08021](https://arxiv.org/abs/1608.08021)
 
 **An Analysis of Scale Invariance in Object Detection - SNIP**
 
+- intro: CVPR 2018
 - arxiv: [https://arxiv.org/abs/1711.08189](https://arxiv.org/abs/1711.08189)
 - github: [https://github.com/bharatsingh430/snip](https://github.com/bharatsingh430/snip)
 
@@ -827,6 +828,7 @@ Continuation of [arXiv:1608.08021](https://arxiv.org/abs/1608.08021)
 
 - intro: CVPR 2018. ETH Zurich & ESAT/PSI
 - arxiv: [https://arxiv.org/abs/1803.03243](https://arxiv.org/abs/1803.03243)
+- github(official. Caffe): [https://github.com/yuhuayc/da-faster-rcnn](https://github.com/yuhuayc/da-faster-rcnn)
 
 **Pseudo Mask Augmented Object Detection**
 
@@ -896,6 +898,36 @@ Continuation of [arXiv:1608.08021](https://arxiv.org/abs/1608.08021)
 
 - intro: CVPR 2018 Deep Vision Workshop
 - arxiv: [https://arxiv.org/abs/1805.11778](https://arxiv.org/abs/1805.11778)
+
+**SNIPER: Efficient Multi-Scale Training**
+
+- arxiv: [https://arxiv.org/abs/1805.09300](https://arxiv.org/abs/1805.09300)
+- github: [https://github.com/mahyarnajibi/SNIPER](https://github.com/mahyarnajibi/SNIPER)
+
+**Soft Sampling for Robust Object Detection**
+
+[https://arxiv.org/abs/1806.06986](https://arxiv.org/abs/1806.06986)
+
+**MetaAnchor: Learning to Detect Objects with Customized Anchors**
+
+- intro: Megvii Inc (Face++) & Fudan University
+- arxiv: [https://arxiv.org/abs/1807.00980](https://arxiv.org/abs/1807.00980)
+
+**Localization Recall Precision (LRP): A New Performance Metric for Object Detection**
+
+- intro: ECCV 2018. Middle East Technical University
+- arxiv: [https://arxiv.org/abs/1807.01696](https://arxiv.org/abs/1807.01696)
+- github: [https://github.com/cancam/LRP](https://github.com/cancam/LRP)
+
+**Auto-Context R-CNN**
+
+- intro: Rejected by ECCV18
+- arxiv: [https://arxiv.org/abs/1807.02842](https://arxiv.org/abs/1807.02842)
+
+**Pooling Pyramid Network for Object Detection**
+
+- intro: Google AI Perception
+- arxiv: [https://arxiv.org/abs/1807.03284](https://arxiv.org/abs/1807.03284)
 
 # Non-Maximum Suppression (NMS)
 
@@ -1074,6 +1106,13 @@ Continuation of [arXiv:1608.08021](https://arxiv.org/abs/1608.08021)
 
 - intro: Microsoft Research Asia
 - arxiv: [https://arxiv.org/abs/1804.05830](https://arxiv.org/abs/1804.05830)
+
+**Optimizing Video Object Detection via a Scale-Time Lattice**
+
+- intro: CVPR 2018
+- project page: [http://mmlab.ie.cuhk.edu.hk/projects/ST-Lattice/](http://mmlab.ie.cuhk.edu.hk/projects/ST-Lattice/)
+- arxiv: [https://arxiv.org/abs/1804.05472](https://arxiv.org/abs/1804.05472)
+- github: [https://github.com/hellock/scale-time-lattice](https://github.com/hellock/scale-time-lattice)
 
 # Object Detection on Mobile Devices
 
@@ -1372,6 +1411,16 @@ This task involves predicting the salient regions of an image given by human eye
 **Natural Language Guided Visual Relationship Detection**
 
 [https://arxiv.org/abs/1711.06032](https://arxiv.org/abs/1711.06032)
+
+**Detecting Visual Relationships Using Box Attention**
+
+- intro: Google AI & IST Austria
+- arxiv: [https://arxiv.org/abs/1807.02136](https://arxiv.org/abs/1807.02136)
+
+**Google AI Open Images - Visual Relationship Track**
+
+- intro: Detect pairs of objects in particular relationships
+- kaggle: [https://www.kaggle.com/c/google-ai-open-images-visual-relationship-track](https://www.kaggle.com/c/google-ai-open-images-visual-relationship-track)
 
 # Face Deteciton
 
@@ -1786,6 +1835,11 @@ This task involves predicting the salient regions of an image given by human eye
 - intro: British Machine Vision Conference(BMVC) 2017
 - arxiv: [https://arxiv.org/abs/1804.04483](https://arxiv.org/abs/1804.04483)
 
+**Small-scale Pedestrian Detection Based on Somatic Topology Localization and Temporal Feature Aggregation**
+
+- intro: ECCV 2018. Hikvision Research Institute
+- arxiv: [https://arxiv.org/abs/1807.01438](https://arxiv.org/abs/1807.01438)
+
 # Vehicle Detection
 
 **DAVE: A Unified Framework for Fast Vehicle Detection and Annotation**
@@ -1834,6 +1888,12 @@ This task involves predicting the salient regions of an image given by human eye
 
 - intro: ITSC 2018
 - arxiv: [https://arxiv.org/abs/1805.02523](https://arxiv.org/abs/1805.02523)
+
+**A Hierarchical Deep Architecture and Mini-Batch Selection Method For Joint Traffic Sign and Light Detection**
+
+- intro: IEEE 15th Conference on Computer and Robot Vision
+- arxiv: [https://arxiv.org/abs/1806.07987](https://arxiv.org/abs/1806.07987)
+- demo: [https://www.youtube.com/watch?v=_YmogPzBXOw&feature=youtu.be](https://www.youtube.com/watch?v=_YmogPzBXOw&feature=youtu.be)
 
 # Skeleton Detection
 
@@ -1996,6 +2056,9 @@ This task involves predicting the salient regions of an image given by human eye
 - intro: Conference of Computer and Robot Vision. University of Guelph
 - arxiv: [https://arxiv.org/abs/1803.10842](https://arxiv.org/abs/1803.10842)
 
+**EL-GAN: Embedding Loss Driven Generative Adversarial Networks for Lane Detection**
+
+[https://arxiv.org/abs/1806.05525](https://arxiv.org/abs/1806.05525)
 
 # Object Proposal
 
@@ -2034,6 +2097,13 @@ This task involves predicting the salient regions of an image given by human eye
 
 - intro: ICMR 2017
 - arxiv: [https://arxiv.org/abs/1704.08881](https://arxiv.org/abs/1704.08881)
+
+**Open Logo Detection Challenge**
+
+- intro: BMVC 2018
+- keywords: QMUL-OpenLogo
+- project page: [https://qmul-openlogo.github.io/](https://qmul-openlogo.github.io/)
+- arxiv: [https://arxiv.org/abs/1807.01964](https://arxiv.org/abs/1807.01964)
 
 # Localization
 
@@ -2119,9 +2189,13 @@ This task involves predicting the salient regions of an image given by human eye
 - intro: Hikvision Research Institute. Supervised Data Augmentation (SDA)
 - slides: [http://image-net.org/challenges/talks/2016/Hikvision_at_ImageNet_2016.pdf](http://image-net.org/challenges/talks/2016/Hikvision_at_ImageNet_2016.pdf)
 
-**Work  in progress: Improving object detection and instance segmentation for small objects**
+**Work in progress: Improving object detection and instance segmentation for small objects**
 
 [https://docs.google.com/presentation/d/1OTfGn6mLe1VWE8D0q6Tu_WwFTSoLGd4OF8WCYnOWcVo/edit#slide=id.g37418adc7a_0_229](https://docs.google.com/presentation/d/1OTfGn6mLe1VWE8D0q6Tu_WwFTSoLGd4OF8WCYnOWcVo/edit#slide=id.g37418adc7a_0_229)
+
+**Object Detection with Deep Learning: A Review**
+
+[https://arxiv.org/abs/1807.05511](https://arxiv.org/abs/1807.05511)
 
 # Projects
 
@@ -2163,6 +2237,11 @@ We additionally provide an implementation of the [ReInspect](https://github.com/
 
 - blog: [https://towardsdatascience.com/how-to-build-a-real-time-hand-detector-using-neural-networks-ssd-on-tensorflow-d6bac0e4b2ce](https://towardsdatascience.com/how-to-build-a-real-time-hand-detector-using-neural-networks-ssd-on-tensorflow-d6bac0e4b2ce)
 - github: [https://github.com//victordibia/handtracking](https://github.com//victordibia/handtracking)
+
+**Metrics for object detection**
+
+- intro: Most popular metrics used to evaluate object detection algorithms
+[https://github.com/rafaelpadilla/Object-Detection-Metrics](https://github.com/rafaelpadilla/Object-Detection-Metrics)
 
 # Leaderboard
 
@@ -2242,3 +2321,11 @@ We additionally provide an implementation of the [ReInspect](https://github.com/
 **Understanding SSD MultiBox — Real-Time Object Detection In Deep Learning**
 
 [https://towardsdatascience.com/understanding-ssd-multibox-real-time-object-detection-in-deep-learning-495ef744fab](https://towardsdatascience.com/understanding-ssd-multibox-real-time-object-detection-in-deep-learning-495ef744fab)
+
+**One-shot object detection**
+
+[http://machinethink.net/blog/object-detection/](http://machinethink.net/blog/object-detection/)
+
+**An overview of object detection: one-stage methods**
+
+[https://www.jeremyjordan.me/object-detection-one-stage/](https://www.jeremyjordan.me/object-detection-one-stage/)
