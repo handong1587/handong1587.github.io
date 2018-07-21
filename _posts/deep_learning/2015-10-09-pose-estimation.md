@@ -37,11 +37,15 @@ date: 2015-10-09
 - arxiv: [http://arxiv.org/abs/1603.09065](http://arxiv.org/abs/1603.09065)
 - homepage: [http://www.ee.cuhk.edu.hk/~xgwang/projectpage_structured_feature_pose.html](http://www.ee.cuhk.edu.hk/~xgwang/projectpage_structured_feature_pose.html)
 
+## CPM
+
 **Convolutional Pose Machines**
 
+- intro: Convolutional Pose Machines(CPMs)
 - arxiv: [http://arxiv.org/abs/1602.00134](http://arxiv.org/abs/1602.00134)
 - github: [https://github.com/shihenw/convolutional-pose-machines-release](https://github.com/shihenw/convolutional-pose-machines-release)
 - github(PyTorch): [https://github.com/tensorboy/pytorch_Realtime_Multi-Person_Pose_Estimation](https://github.com/tensorboy/pytorch_Realtime_Multi-Person_Pose_Estimation)
+- github: [https://github.com/timctho/convolutional-pose-machines-tensorflow](https://github.com/timctho/convolutional-pose-machines-tensorflow)
 
 **Model-based Deep Hand Pose Estimation**
 
@@ -133,8 +137,9 @@ date: 2015-10-09
 
 **LSTM Pose Machines**
 
-- intro: SenseTime
+- intro: CVPR 2018. 1SenseTime Research & Sun Yat-sen University
 - arxiv: [https://arxiv.org/abs/1712.06316](https://arxiv.org/abs/1712.06316)
+- github(Caffe, officical): [https://github.com/lawy623/LSTM_Pose_Machines](https://github.com/lawy623/LSTM_Pose_Machines)
 
 **Detect-and-Track: Efficient Pose Estimation in Videos**
 
@@ -233,6 +238,17 @@ date: 2015-10-09
 **Bi-directional Graph Structure Information Model for Multi-Person Pose Estimation**
 
 [https://arxiv.org/abs/1805.00603](https://arxiv.org/abs/1805.00603)
+
+**MultiPoseNet: Fast Multi-Person Pose Estimation using Pose Residual Network**
+
+- intro: ECCV 2018. Middle East Technical University
+- keywords: Pose Residual Network (PRN), person detection, keypoint detection, person segmentation and pose estimation
+- arxiv: [https://arxiv.org/abs/1807.04067](https://arxiv.org/abs/1807.04067)
+- github: [https://github.com/mkocabas/pose-residual-network](https://github.com/mkocabas/pose-residual-network)
+
+**Deep Autoencoder for Combined Human Pose Estimation and body Model Upscaling**
+
+[https://arxiv.org/abs/1807.01511](https://arxiv.org/abs/1807.01511)
 
 # Projects
 

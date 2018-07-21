@@ -1233,6 +1233,14 @@ with fast exact probabilistic inference over many layers."
 
 [https://arxiv.org/abs/1805.12549](https://arxiv.org/abs/1805.12549)
 
+**Evenly Cascaded Convolutional Networks**
+
+[https://arxiv.org/abs/1807.00456](https://arxiv.org/abs/1807.00456)
+
+**SGAD: Soft-Guided Adaptively-Dropped Neural Network**
+
+[https://arxiv.org/abs/1807.01430](https://arxiv.org/abs/1807.01430)
+
 ## Convolutions / Filters
 
 **Warped Convolutions: Efficient Invariance to Spatial Transformations**
@@ -1285,6 +1293,13 @@ with fast exact probabilistic inference over many layers."
 **Targeted Kernel Networks: Faster Convolutions with Attentive Regularization**
 
 [https://arxiv.org/abs/1806.00523](https://arxiv.org/abs/1806.00523)
+
+**An Intriguing Failing of Convolutional Neural Networks and the CoordConv Solution**
+
+- intro: 1Uber AI Labs & Uber Technologies
+- arxiv: [https://arxiv.org/abs/1807.03247](https://arxiv.org/abs/1807.03247)
+- github: [https://github.com/mkocabas/CoordConv-pytorch](https://github.com/mkocabas/CoordConv-pytorch)
+- youtube: [https://www.youtube.com/watch?v=8yFQc6elePA](https://www.youtube.com/watch?v=8yFQc6elePA)
 
 ## Highway Networks
 
@@ -1360,6 +1375,11 @@ with fast exact probabilistic inference over many layers."
 
 - intro: Johns Hopkins University & Shanghai University
 - arxiv: [https://arxiv.org/abs/1805.06447](https://arxiv.org/abs/1805.06447)
+
+**DeSTNet: Densely Fused Spatial Transformer Networks**
+
+- intro: BMVC 2018
+- arxiv: [https://arxiv.org/abs/1807.04050](https://arxiv.org/abs/1807.04050)
 
 ## FractalNet
 
@@ -1449,6 +1469,11 @@ with fast exact probabilistic inference over many layers."
 - intro: Google & CMU
 - arxiv: [https://arxiv.org/abs/1806.09055](https://arxiv.org/abs/1806.09055)
 - gtihub: [https://github.com/quark0/darts](https://github.com/quark0/darts)
+
+**Towards Automated Deep Learning: Efficient Joint Neural Architecture and Hyperparameter Search**
+
+- intro: ICML 2018 AutoML Workshop. University of Freiburg
+- arxiv: [https://arxiv.org/abs/1807.06906](https://arxiv.org/abs/1807.06906)
 
 ## Graph Convolutional Networks
 
@@ -1617,6 +1642,16 @@ with fast exact probabilistic inference over many layers."
 **Batch Normalization in the final layer of generative networks**
 
 [https://arxiv.org/abs/1805.07389](https://arxiv.org/abs/1805.07389)
+
+**Deep Structured Generative Models**
+
+- intro: Tsinghua University
+- arxiv: [https://arxiv.org/abs/1807.03877](https://arxiv.org/abs/1807.03877)
+
+**VFunc: a Deep Generative Model for Functions**
+
+- intro: ICML 2018 workshop on Prediction and Generative Modeling in Reinforcement Learning. Microsoft Research & McGill University
+- arxiv: [https://arxiv.org/abs/1807.04106](https://arxiv.org/abs/1807.04106)
 
 # Deep Learning and Robots
 
@@ -2229,6 +2264,16 @@ with fast exact probabilistic inference over many layers."
 **VisualBackProp for learning using privileged information with CNNs**
 
 [https://arxiv.org/abs/1805.09474](https://arxiv.org/abs/1805.09474)
+
+**BAM: Bottleneck Attention Module**
+
+- intro: BMVC 2018 (oral). Lunit Inc. & Adobe Research
+- arxiv: [https://arxiv.org/abs/1807.06514](https://arxiv.org/abs/1807.06514)
+
+**CBAM: Convolutional Block Attention Module**
+
+- intro: ECCV 2018. Lunit Inc. & Adobe Research
+- arxiv: [https://arxiv.org/abs/1807.06521](https://arxiv.org/abs/1807.06521)
 
 ## Tutorials and Surveys
 

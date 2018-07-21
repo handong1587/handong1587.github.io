@@ -227,6 +227,11 @@ date: 2015-10-09
 - arxiv: [https://arxiv.org/abs/1702.06890](https://arxiv.org/abs/1702.06890)
 - github: [https://github.com/sciencefans/coco_loss](https://github.com/sciencefans/coco_loss)
 
+**Pose-Aware Person Recognition**
+
+- intro: CVIT & Facebook AI Research
+- arxiv: [https://arxiv.org/abs/1705.10120](https://arxiv.org/abs/1705.10120)
+
 ## COCO_v2
 
 **Rethinking Feature Discrimination and Polymerization for Large-scale Recognition**
@@ -450,6 +455,11 @@ date: 2015-10-09
 - keywords: PETA, RAP and WIDER
 - arxiv: [https://arxiv.org/abs/1707.06089](https://arxiv.org/abs/1707.06089)
 - github: [https://github.com/asc-kit/vespa](https://github.com/asc-kit/vespa)
+
+**Deep Imbalanced Attribute Classification using Visual Attention Aggregation**
+
+- intro: ECCV 2018
+- arxiv: [https://arxiv.org/abs/1807.03903](https://arxiv.org/abs/1807.03903)
 
 # Clothes Recognition
 

@@ -179,6 +179,11 @@ for Python, R, Java, Scala, C++ and more. Runs on single machine, Hadoop, Spark,
 - intro: Master thesis
 - thesis page: [https://brage.bibsys.no/xmlui/handle/11250/2433761](https://brage.bibsys.no/xmlui/handle/11250/2433761)
 
+**XGBoost: Scalable GPU Accelerated Learning**
+
+- intro: describe the multi-GPU gradient boosting algorithm implemented in the XGBoost library
+- arxiv: [https://arxiv.org/abs/1806.11248](https://arxiv.org/abs/1806.11248)
+
 ## LightGBM
 
 **LightGBM, Light Gradient Boosting Machine**

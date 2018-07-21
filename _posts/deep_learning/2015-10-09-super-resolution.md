@@ -281,6 +281,15 @@ date: 2015-10-09
 
 [https://arxiv.org/abs/1806.01576](https://arxiv.org/abs/1806.01576)
 
+**Image Super-Resolution Using Very Deep Residual Channel Attention Networks**
+
+- intro: ECCV 2018
+- arxiv: [https://arxiv.org/abs/1807.02758](https://arxiv.org/abs/1807.02758)
+
+**An Attention-Based Approach for Single Image Super Resolution**
+
+[https://arxiv.org/abs/1807.06779](https://arxiv.org/abs/1807.06779)
+
 ## Video Super-resolution
 
 **Detail-revealing Deep Video Super-resolution**

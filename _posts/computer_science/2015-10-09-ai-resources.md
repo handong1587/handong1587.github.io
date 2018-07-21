@@ -139,3 +139,7 @@ We aim to inspire a new generation of research into challenging new problems pre
 
 - intro: Breakthrough AI Papers and CODE for Any Industry.
 - github: [https://github.com/ceobillionaire/WHAT-AI-CAN-DO-FOR-YOU](https://github.com/ceobillionaire/WHAT-AI-CAN-DO-FOR-YOU)
+
+**Model AI Assignments**
+
+[http://modelai.gettysburg.edu/](http://modelai.gettysburg.edu/)

@@ -357,10 +357,13 @@ Compressed model is less than 500KB
 
 [https://arxiv.org/abs/1806.00868](https://arxiv.org/abs/1806.00868)
 
-**TernausNetV2: Fully Convolutional Network for Instance Segmentation**
+**Unbiased Image Style Transfer**
 
-- arxiv: [https://arxiv.org/abs/1806.00844](https://arxiv.org/abs/1806.00844)
-- github: [https://github.com/ternaus/TernausNetV2](https://github.com/ternaus/TernausNetV2)
+[https://arxiv.org/abs/1807.01424](https://arxiv.org/abs/1807.01424)
+
+**Uncorrelated Feature Encoding for Faster Image Style Transfer**
+
+[https://arxiv.org/abs/1807.01493](https://arxiv.org/abs/1807.01493)
 
 ## Neural Art On Audio
 
@@ -388,8 +391,6 @@ Compressed model is less than 500KB
 - github: [https://github.com/larspars/neural-style-video](https://github.com/larspars/neural-style-video)
 
 **Instructions for making a Neural-Style movie**
-
-![](/assets/ocr-materials/Why_is_a_Raven_Like_a_Writing_Desk.jpg)
 
 - website: [https://gist.github.com/genekogan/d61c8010d470e1dbe15d](https://gist.github.com/genekogan/d61c8010d470e1dbe15d)
 - sample: [https://vimeo.com/139123754](https://vimeo.com/139123754)
@@ -430,6 +431,12 @@ Compressed model is less than 500KB
 **Multi-Content GAN for Few-Shot Font Style Transfer**
 
 [https://arxiv.org/abs/1712.00516](https://arxiv.org/abs/1712.00516)
+
+**ReCoNet: Real-time Coherent Video Style Transfer Network**
+
+- intro: The University of Hong Kong
+- arixv: [https://arxiv.org/abs/1807.01197](https://arxiv.org/abs/1807.01197)
+- supp: [https://www.dropbox.com/s/go6f7uopjjsala7/ReCoNet%20Supplementary%20Material.pdf?dl=0](https://www.dropbox.com/s/go6f7uopjjsala7/ReCoNet%20Supplementary%20Material.pdf?dl=0)
 
 ## Neural Doodle
 
@@ -720,6 +727,11 @@ Compressed model is less than 500KB
 
 - intro: Allen Institute of Artificial Intelligence & University of Massachusetts
 - arxiv: [https://arxiv.org/abs/1804.06026](https://arxiv.org/abs/1804.06026)
+
+**Deep Exemplar-based Colorization**
+
+- intro: Siggraph 2018
+- arxiv: [https://arxiv.org/abs/1807.06587](https://arxiv.org/abs/1807.06587)
 
 # Sounds
 

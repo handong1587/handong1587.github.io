@@ -14,6 +14,12 @@ date: 2015-10-09
 - intro: From Wikipedia, the free encyclopedia
 - blog: [https://www.wikiwand.com/en/Deep_learning](https://www.wikiwand.com/en/Deep_learning)
 
+**Toward Theoretical Understanding of Deep Learning**
+
+- intro: ICML 2018 Tutorial. by Sanjeev Arora, Princeton University
+- slides: [https://www.dropbox.com/s/qonozmne0x4x2r3/deepsurveyICML18final.pptx?dl=0](https://www.dropbox.com/s/qonozmne0x4x2r3/deepsurveyICML18final.pptx?dl=0)
+- mirror: [https://pan.baidu.com/s/1r_lz6rMoSIinvfovMFFbug](https://pan.baidu.com/s/1r_lz6rMoSIinvfovMFFbug)
+
 **VGG Convolutional Neural Networks Practical**
 
 ![](http://www.robots.ox.ac.uk/~vgg/practicals/cnn/images/cover.png)

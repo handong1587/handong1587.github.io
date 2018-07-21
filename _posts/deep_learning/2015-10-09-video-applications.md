@@ -269,6 +269,14 @@ date: 2015-10-09
 - arxiv: [https://arxiv.org/abs/1711.09125](https://arxiv.org/abs/1711.09125)
 - github: [https://github.com/wanglimin/ARTNet](https://github.com/wanglimin/ARTNet)
 
+**Long Activity Video Understanding using Functional Object-Oriented Network**
+
+[https://arxiv.org/abs/1807.00983](https://arxiv.org/abs/1807.00983)
+
+**Deep Architectures and Ensembles for Semantic Video Classification**
+
+[https://arxiv.org/abs/1807.01026](https://arxiv.org/abs/1807.01026)
+
 ## Action Detection / Activity Recognition
 
 **3d convolutional neural networks for human action recognition**
@@ -836,6 +844,16 @@ alleviates the problem of video browsing, editing and indexing.
 **Video Summarization Using Fully Convolutional Sequence Networks**
 
 [https://arxiv.org/abs/1805.10538](https://arxiv.org/abs/1805.10538)
+
+**Video Summarisation by Classification with Deep Reinforcement Learning**
+
+- intro: BMVC 2018
+- arxiv: [https://arxiv.org/abs/1807.03089](https://arxiv.org/abs/1807.03089)
+
+**Query-Conditioned Three-Player Adversarial Network for Video Summarization**
+
+- intro: BMVC 2018
+- arxiv: [https://arxiv.org/abs/1807.06677](https://arxiv.org/abs/1807.06677)
 
 # Video Highlight Detection
 

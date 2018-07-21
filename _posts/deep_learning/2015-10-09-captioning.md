@@ -348,6 +348,11 @@ after the embedding and recurrent layers of the RNN."
 - intro: CVPR 2018
 - arxiv: [https://arxiv.org/abs/1806.06422](https://arxiv.org/abs/1806.06422)
 
+**Topic-Guided Attention for Image Captioning**
+
+- intro: ICIP 2018
+- arxiv: [https://arxiv.org/abs/1807.03514](https://arxiv.org/abs/1807.03514)
+
 # Object Descriptions
 
 **Generation and Comprehension of Unambiguous Object Descriptions**

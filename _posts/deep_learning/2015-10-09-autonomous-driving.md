@@ -158,6 +158,11 @@ joint classification, detection and semantic segmentation via a unified architec
 - intro: CVPR 2018 Workshop of Autonomous Driving (WAD)
 - arxiv: [https://arxiv.org/abs/1806.09790](https://arxiv.org/abs/1806.09790)
 
+**LaneNet: Real-Time Lane Detection Networks for Autonomous Driving**
+
+- intro: Duke University & Horizon Robotics, Inc.
+- arxiv: [https://arxiv.org/abs/1807.01726](https://arxiv.org/abs/1807.01726)
+
 # Projects
 
 **Caffe-Autopilot: Car autopilot software that uses C++, BVLC Caffe, OpenCV, and SFML**

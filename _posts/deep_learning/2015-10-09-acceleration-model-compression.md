@@ -586,6 +586,11 @@ at INT8 deep learning operations than other FPGA DSP architectures"
 - intro: Google
 - arxiv: [https://arxiv.org/abs/1806.08342](https://arxiv.org/abs/1806.08342)
 
+**CascadeCNN: Pushing the Performance Limits of Quantisation in Convolutional Neural Networks**
+
+- intro: 28th International Conference on Field Programmable Logic & Applications (FPL), 2018
+- arxiv: [https://arxiv.org/abs/1807.05053](https://arxiv.org/abs/1807.05053)
+
 # Binary Convolutional Neural Networks / Binarized Neural Networks
 
 **BinaryNet: Training Deep Neural Networks with Weights and Activations Constrained to +1 or -1**
@@ -872,6 +877,10 @@ at INT8 deep learning operations than other FPGA DSP architectures"
 **Compressing and regularizing deep neural networks**
 
 [https://www.oreilly.com/ideas/compressing-and-regularizing-deep-neural-networks](https://www.oreilly.com/ideas/compressing-and-regularizing-deep-neural-networks)
+
+**How fast is my model?**
+
+[http://machinethink.net/blog/how-fast-is-my-model/](http://machinethink.net/blog/how-fast-is-my-model/)
 
 # Talks / Videos
 

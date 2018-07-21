@@ -343,6 +343,14 @@ date: 2015-10-09
 
 [http://hangzh.com/PyTorch-Encoding/notes/syncbn.html](http://hangzh.com/PyTorch-Encoding/notes/syncbn.html)
 
+**Restructuring Batch Normalization to Accelerate CNN Training**
+
+[https://arxiv.org/abs/1807.01702](https://arxiv.org/abs/1807.01702)
+
+**Intro to optimization in deep learning: Busting the myth about batch normalization**
+
+- blog: [https://blog.paperspace.com/busting-the-myths-about-batch-normalization/](https://blog.paperspace.com/busting-the-myths-about-batch-normalization/)
+
 ### Backward pass of BN
 
 **Understanding the backward pass through Batch Normalization Layer**
