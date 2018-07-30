@@ -2550,6 +2550,14 @@ with fast exact probabilistic inference over many layers."
 
 [https://arxiv.org/abs/1803.08450](https://arxiv.org/abs/1803.08450)
 
+**Neural Motifs: Scene Graph Parsing with Global Context**
+
+- intro: CVPR 2018. University of Washington
+- project page: [http://rowanzellers.com/neuralmotifs/](http://rowanzellers.com/neuralmotifs/)
+- arxiv: [https://arxiv.org/abs/1711.06640](https://arxiv.org/abs/1711.06640)
+- github: [https://github.com/rowanz/neural-motifs](https://github.com/rowanz/neural-motifs)
+- demo: [https://rowanzellers.com/scenegraph2/](https://rowanzellers.com/scenegraph2/)
+
 ## CapsNets
 
 **Dynamic Routing Between Capsules**

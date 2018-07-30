@@ -1271,7 +1271,10 @@ This task involves predicting the salient regions of an image given by human eye
 
 **Deeply supervised salient object detection with short connections**
 
+- intro: IEEE TPAMI 2018 (IEEE CVPR 2017)
 - arxiv: [https://arxiv.org/abs/1611.04849](https://arxiv.org/abs/1611.04849)
+- github(official, Caffe): [https://github.com/Andrew-Qibin/DSS](https://github.com/Andrew-Qibin/DSS)
+- github(Tensorflow): [https://github.com/Joker316701882/Salient-Object-Detection](https://github.com/Joker316701882/Salient-Object-Detection)
 
 **Weakly Supervised Top-down Salient Object Detection**
 

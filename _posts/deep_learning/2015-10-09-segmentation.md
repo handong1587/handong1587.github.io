@@ -820,7 +820,7 @@ with built-in awareness of semantically meaningful boundaries. "
 
 **Deep Learning for Semantic Segmentation on Minimal Hardware**
 
-- intro: RoboCup International Symposium 2018
+- intro: RoboCup International Symposium 2018. University of Hertfordshire
 - arxiv: [https://arxiv.org/abs/1807.05597](https://arxiv.org/abs/1807.05597)
 
 # Instance Segmentation
@@ -1348,7 +1348,7 @@ ranked 1st place in ImageNet Scene Parsing Challenge 2016
 
 - intro: CVPR 2017 Workshop, DAVIS Challenge on Video Object Segmentation 2017 (Winning Entry)
 - arxiv: [https://arxiv.org/abs/1708.00197](https://arxiv.org/abs/1708.00197)
-- github: [https://github.com/lxx1991/VS-ReID](https://github.com/lxx1991/VS-ReID)
+- github(official, PyTorch): [https://github.com/lxx1991/VS-ReID](https://github.com/lxx1991/VS-ReID)
 
 **Pixel-Level Matching for Video Object Segmentation using Convolutional Neural Networks**
 
@@ -1531,7 +1531,12 @@ ranked 1st place in ImageNet Scene Parsing Challenge 2016
 
 [http://blog.qure.ai/notes/semantic-segmentation-deep-learning-review](http://blog.qure.ai/notes/semantic-segmentation-deep-learning-review)
 
-# Talks
+# Tutorails / Talks
+
+**A Unified Architecture for Instance and Semantic Segmentation**
+
+- intro: FPN
+- slides: [http://presentations.cocodataset.org/COCO17-Stuff-FAIR.pdf](http://presentations.cocodataset.org/COCO17-Stuff-FAIR.pdf)
 
 **Deep learning for image segmentation**
 
