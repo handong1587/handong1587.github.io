@@ -74,6 +74,13 @@ date: 2015-10-09
 
 - arxiv: [http://arxiv.org/abs/1609.07420](http://arxiv.org/abs/1609.07420)
 
+**Realtime Multi-Person 2D Pose Estimation using Part Affinity Fields**
+
+- intro: CVPR 2017 Oral
+- arxiv: [https://arxiv.org/abs/1611.08050](https://arxiv.org/abs/1611.08050)
+- video: [https://www.youtube.com/watch?v=pW6nZXeWlGM&feature=youtu.be](https://www.youtube.com/watch?v=pW6nZXeWlGM&feature=youtu.be)
+- github: [https://github.com/ZheC/Realtime_Multi-Person_Pose_Estimation](https://github.com/ZheC/Realtime_Multi-Person_Pose_Estimation)
+
 **Region Ensemble Network: Improving Convolutional Network for Hand Pose Estimation**
 
 - arxiv: [https://arxiv.org/abs/1702.02447](https://arxiv.org/abs/1702.02447)

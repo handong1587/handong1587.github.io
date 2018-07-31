@@ -759,6 +759,7 @@ Continuation of [arXiv:1608.08021](https://arxiv.org/abs/1608.08021)
 
 - arxiv: [https://arxiv.org/abs/1711.06897](https://arxiv.org/abs/1711.06897)
 - github: [https://github.com/sfzhang15/RefineDet](https://github.com/sfzhang15/RefineDet)
+- github: [https://github.com/MTCloudVision/RefineDet-Mxnet](https://github.com/MTCloudVision/RefineDet-Mxnet)
 
 **Receptive Field Block Net for Accurate and Fast Object Detection**
 
