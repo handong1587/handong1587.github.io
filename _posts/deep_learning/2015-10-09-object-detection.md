@@ -886,6 +886,11 @@ Continuation of [arXiv:1608.08021](https://arxiv.org/abs/1608.08021)
 
 [https://arxiv.org/abs/1806.02299](https://arxiv.org/abs/1806.02299)
 
+**Physical Adversarial Examples for Object Detectors**
+
+- intro: WOOT 2018
+- arxiv: [https://arxiv.org/abs/1807.07769](https://arxiv.org/abs/1807.07769)
+
 **Quantization Mimic: Towards Very Tiny CNN for Object Detection**
 
 [https://arxiv.org/abs/1805.02152](https://arxiv.org/abs/1805.02152)
@@ -929,6 +934,15 @@ Continuation of [arXiv:1608.08021](https://arxiv.org/abs/1608.08021)
 
 - intro: Google AI Perception
 - arxiv: [https://arxiv.org/abs/1807.03284](https://arxiv.org/abs/1807.03284)
+
+**Modeling Visual Context is Key to Augmenting Object Detection Datasets**
+
+- intro: ECCV 2018
+- arxiv: [https://arxiv.org/abs/1807.07428](https://arxiv.org/abs/1807.07428)
+
+**Dual Refinement Network for Single-Shot Object Detection**
+
+[https://arxiv.org/abs/1807.08638](https://arxiv.org/abs/1807.08638)
 
 # Non-Maximum Suppression (NMS)
 
@@ -1843,6 +1857,11 @@ This task involves predicting the salient regions of an image given by human eye
 
 - intro: ECCV 2018. Hikvision Research Institute
 - arxiv: [https://arxiv.org/abs/1807.01438](https://arxiv.org/abs/1807.01438)
+
+**Occlusion-aware R-CNN: Detecting Pedestrians in a Crowd**
+
+- intro: ECCV 2018
+- arxiv: [https://arxiv.org/abs/1807.08407](https://arxiv.org/abs/1807.08407)
 
 # Vehicle Detection
 

@@ -708,6 +708,7 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 
 - intro: ACM Multimedia (MM) 2016
 - arxiv: [http://arxiv.org/abs/1608.06197](http://arxiv.org/abs/1608.06197)
+- github(Caffe): [https://github.com/davideverona/deep-crowd-counting_crowdnet](https://github.com/davideverona/deep-crowd-counting_crowdnet)
 
 **Crowd Counting by Adapting Convolutional Neural Networks with Side Information**
 
@@ -837,6 +838,10 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 
 - intro: IJCAI 2018
 - arxiv: [https://arxiv.org/abs/1807.00601](https://arxiv.org/abs/1807.00601)
+
+**Top-Down Feedback for Crowd Counting Convolutional Neural Network**
+
+[https://arxiv.org/abs/1807.08881](https://arxiv.org/abs/1807.08881)
 
 # Activity Recognition
 

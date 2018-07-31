@@ -257,6 +257,11 @@ date: 2015-10-09
 
 [https://arxiv.org/abs/1807.01511](https://arxiv.org/abs/1807.01511)
 
+**Learning Human Poses from Actions**
+
+- intro: BMVC 2018
+- arxiv: [https://arxiv.org/abs/1807.09075](https://arxiv.org/abs/1807.09075)
+
 # Projects
 
 **MobilePose: Single Person Pose Estimation for Mobile Device**

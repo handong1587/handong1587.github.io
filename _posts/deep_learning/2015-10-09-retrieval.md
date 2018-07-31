@@ -622,6 +622,11 @@ date: 2015-10-09
 - intro: VGG
 - arxiv: [https://arxiv.org/abs/1805.00833](https://arxiv.org/abs/1805.00833)
 
+**Revisiting Cross Modal Retrieval**
+
+- intro: ECCVW (MULA 2018)
+- arxiv: [https://arxiv.org/abs/1807.07364](https://arxiv.org/abs/1807.07364)
+
 ## Projects
 
 **HABIR哈希图像检索工具箱**

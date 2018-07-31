@@ -134,6 +134,11 @@ date: 2015-10-09
 - intro: LIRIS & Facebook AI Research
 - arxiv: [https://arxiv.org/abs/1806.06157](https://arxiv.org/abs/1806.06157)
 
+**Video Time: Properties, Encoders and Evaluation**
+
+- intro: BMVC 2018
+- arxiv: [https://arxiv.org/abs/1807.06980](https://arxiv.org/abs/1807.06980)
+
 # Video Classification
 
 **Large-scale Video Classification with Convolutional Neural Networks**
@@ -269,6 +274,11 @@ date: 2015-10-09
 - arxiv: [https://arxiv.org/abs/1711.09125](https://arxiv.org/abs/1711.09125)
 - github: [https://github.com/wanglimin/ARTNet](https://github.com/wanglimin/ARTNet)
 
+**Rethinking Spatiotemporal Feature Learning: Speed-Accuracy Trade-offs in Video Classification**
+
+- intro: ECCV 2018. Google Research & University of California San Diego
+- arxiv: [https://arxiv.org/abs/1712.04851](https://arxiv.org/abs/1712.04851)
+
 **Long Activity Video Understanding using Functional Object-Oriented Network**
 
 [https://arxiv.org/abs/1807.00983](https://arxiv.org/abs/1807.00983)
@@ -276,6 +286,11 @@ date: 2015-10-09
 **Deep Architectures and Ensembles for Semantic Video Classification**
 
 [https://arxiv.org/abs/1807.01026](https://arxiv.org/abs/1807.01026)
+
+**Deep Discriminative Model for Video Classification**
+
+- intro: ECCV 2018
+- arxiv: [https://arxiv.org/abs/1807.08259](https://arxiv.org/abs/1807.08259)
 
 ## Action Detection / Activity Recognition
 
@@ -583,6 +598,11 @@ extract saptio-temporal features to represent the video using the CNNs."
 
 - intro: Activity Recognition Algorithms for the Charades Dataset
 - github: [https://github.com/gsig/charades-algorithms](https://github.com/gsig/charades-algorithms)
+
+**NonLocalNetwork and Sequeeze-Excitation Network**
+
+- intro: MXNet implementation of Non-Local and Squeeze-Excitation network
+- github: [https://github.com/WillSuen/NonLocalandSEnet](https://github.com/WillSuen/NonLocalandSEnet)
 
 # Event Recognition
 

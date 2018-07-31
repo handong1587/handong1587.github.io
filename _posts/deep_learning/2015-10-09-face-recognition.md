@@ -279,6 +279,21 @@ date: 2015-10-09
 
 [https://arxiv.org/abs/1805.11529](https://arxiv.org/abs/1805.11529)
 
+**From Face Recognition to Models of Identity: A Bayesian Approach to Learning about Unknown Identities from Unsupervised Data**
+
+- intro: ECCV 2018
+- arxiv: [https://arxiv.org/abs/1807.07872](https://arxiv.org/abs/1807.07872)
+
+**Git Loss for Deep Face Recognition**
+
+- intro: BMVC 2018
+- arxiv: [https://arxiv.org/abs/1807.08512](https://arxiv.org/abs/1807.08512)
+
+**Multicolumn Networks for Face Recognition**
+
+- intro: BMVC 2018
+- arxiv: [https://arxiv.org/abs/1807.09192](https://arxiv.org/abs/1807.09192)
+
 # Facial Attributes Classification
 
 **A Jointly Learned Deep Architecture for Facial Attribute Analysis and Face Detection in the Wild**
