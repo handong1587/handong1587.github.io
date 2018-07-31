@@ -446,6 +446,11 @@ not just the convolutions)
 - github(official, Caffe): [https://github.com/hujie-frank/SENet](https://github.com/hujie-frank/SENet)
 - github: [https://github.com/bruinxiong/SENet.mxnet](https://github.com/bruinxiong/SENet.mxnet)
 
+**Competitive Inner-Imaging Squeeze and Excitation for Residual Network**
+
+- arxiv: [https://arxiv.org/abs/1807.08920](https://arxiv.org/abs/1807.08920)
+- github: [https://github.com/scut-aitcm/CompetitiveSENet](https://github.com/scut-aitcm/CompetitiveSENet)
+
 ## ImageNet Projects
 
 **Training an Object Classifier in Torch-7 on multiple GPUs over ImageNet**
@@ -1240,6 +1245,11 @@ with fast exact probabilistic inference over many layers."
 **SGAD: Soft-Guided Adaptively-Dropped Neural Network**
 
 [https://arxiv.org/abs/1807.01430](https://arxiv.org/abs/1807.01430)
+
+**Explainable Neural Computation via Stack Neural Module Networks**
+
+- intro: ECCV 2018
+- arxiv: [https://arxiv.org/abs/1807.08556](https://arxiv.org/abs/1807.08556)
 
 ## Convolutions / Filters
 

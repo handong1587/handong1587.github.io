@@ -823,6 +823,11 @@ with built-in awareness of semantically meaningful boundaries. "
 - intro: RoboCup International Symposium 2018. University of Hertfordshire
 - arxiv: [https://arxiv.org/abs/1807.05597](https://arxiv.org/abs/1807.05597)
 
+**Future Semantic Segmentation with Convolutional LSTM**
+
+- intro: BMVC 2018
+- arxiv: [https://arxiv.org/abs/1807.07946](https://arxiv.org/abs/1807.07946)
+
 # Instance Segmentation
 
 **Simultaneous Detection and Segmentation**
@@ -935,7 +940,10 @@ with built-in awareness of semantically meaningful boundaries. "
 
 - intro: ICCV 2017 Best paper award. Facebook AI Research
 - arxiv: [https://arxiv.org/abs/1703.06870](https://arxiv.org/abs/1703.06870)
+- slides: [http://kaiminghe.com/iccv17tutorial/maskrcnn_iccv2017_tutorial_kaiminghe.pdf](http://kaiminghe.com/iccv17tutorial/maskrcnn_iccv2017_tutorial_kaiminghe.pdf)
+- github(official, Caffe2): [https://github.com/facebookresearch/Detectron](https://github.com/facebookresearch/Detectron)
 - github: [https://github.com/TuSimple/mx-maskrcnn](https://github.com/TuSimple/mx-maskrcnn)
+- slides: [https://lmb.informatik.uni-freiburg.de/lectures/seminar_brox/seminar_ss17/maskrcnn_slides.pdf](https://lmb.informatik.uni-freiburg.de/lectures/seminar_brox/seminar_ss17/maskrcnn_slides.pdf)
 - github(Keras+TensorFlow): [https://github.com/matterport/Mask_RCNN](https://github.com/matterport/Mask_RCNN)
 
 **Semantic Instance Segmentation via Deep Metric Learning**
@@ -1055,6 +1063,10 @@ with built-in awareness of semantically meaningful boundaries. "
 - intro: Tsinghua University & Tencent AI Lab & Cardiff University
 - arxiv: [https://arxiv.org/abs/1803.10683](https://arxiv.org/abs/1803.10683)
 
+**Bounding Box Embedding for Single Shot Person Instance Segmentation**
+
+[https://arxiv.org/abs/1807.07674](https://arxiv.org/abs/1807.07674)
+
 # Specific Segmentation
 
 **A CNN Cascade for Landmark Guided Semantic Part Segmentation**
@@ -1083,6 +1095,11 @@ with built-in awareness of semantically meaningful boundaries. "
 
 - intro: BMVC 2018
 - arxiv: [https://arxiv.org/abs/1807.01972](https://arxiv.org/abs/1807.01972)
+
+**Face Mask Extraction in Video Sequence**
+
+- keywords: ConvLSTM & FCN
+- arxiv: [https://arxiv.org/abs/1807.09207](https://arxiv.org/abs/1807.09207)
 
 # Segment Proposal
 
@@ -1262,6 +1279,13 @@ ranked 1st place in ImageNet Scene Parsing Challenge 2016
 - intro: Wuhan University
 - arxiv: [https://arxiv.org/abs/1803.03415](https://arxiv.org/abs/1803.03415)
 
+**Macro-Micro Adversarial Network for Human Parsing**
+
+- intro: ECCV 2018
+- keywords: Macro-Micro Adversarial Net (MMAN)
+- arxiv: [https://arxiv.org/abs/1807.08260](https://arxiv.org/abs/1807.08260)
+- github: [https://github.com/RoyalVane/MMAN](https://github.com/RoyalVane/MMAN)
+
 # Video Object Segmentation
 
 **Fast object segmentation in unconstrained video**
@@ -1434,6 +1458,10 @@ ranked 1st place in ImageNet Scene Parsing Challenge 2016
 
 - intro: CVPR 2018
 - arxiv: [https://arxiv.org/abs/1807.03148](https://arxiv.org/abs/1807.03148)
+
+**PReMVOS: Proposal-generation, Refinement and Merging for Video Object Segmentation**
+
+[https://arxiv.org/abs/1807.09190](https://arxiv.org/abs/1807.09190)
 
 ## Challenge
 

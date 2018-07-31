@@ -502,6 +502,11 @@ at INT8 deep learning operations than other FPGA DSP architectures"
 - arxiv: [https://arxiv.org/abs/1806.09228](https://arxiv.org/abs/1806.09228)
 - github: [https://github.com/Sandbox3aster/Deep-K-Means-pytorch](https://github.com/Sandbox3aster/Deep-K-Means-pytorch)
 
+**Optimize Deep Convolutional Neural Network with Ternarized Weights and High Accuracy**
+
+- intro: University of Central Florida & Tencent AI lab, Seattle
+- arxiv: [https://arxiv.org/abs/1807.07948](https://arxiv.org/abs/1807.07948)
+
 # Pruning
 
 **ThiNet: A Filter Level Pruning Method for Deep Neural Network Compression**
@@ -590,6 +595,11 @@ at INT8 deep learning operations than other FPGA DSP architectures"
 
 - intro: 28th International Conference on Field Programmable Logic & Applications (FPL), 2018
 - arxiv: [https://arxiv.org/abs/1807.05053](https://arxiv.org/abs/1807.05053)
+
+**Bridging the Accuracy Gap for 2-bit Quantized Neural Networks (QNN)**
+
+- intro: IBM Research AI
+- arxiv: [https://arxiv.org/abs/1807.06964](https://arxiv.org/abs/1807.06964)
 
 # Binary Convolutional Neural Networks / Binarized Neural Networks
 

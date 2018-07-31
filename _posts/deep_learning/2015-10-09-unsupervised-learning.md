@@ -190,6 +190,11 @@ Auto-encoder
 - intro: ECCV 2018
 - arxiv: [https://arxiv.org/abs/1807.05520](https://arxiv.org/abs/1807.05520)
 
+**Improving Image Clustering With Multiple Pretrained CNN Feature Extractors**
+
+- intro: Poster presentation at BMVC 2018
+- arxiv: [https://arxiv.org/abs/1807.07760](https://arxiv.org/abs/1807.07760)
+
 # Auto-encoder
 
 **Auto-Encoding Variational Bayes**

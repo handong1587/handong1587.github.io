@@ -1312,6 +1312,13 @@ date: 2015-10-09
 - arxiv: [https://arxiv.org/abs/1801.02548](https://arxiv.org/abs/1801.02548)
 - github: [https://github.com/JohnMcKay/dataImbalance](https://github.com/JohnMcKay/dataImbalance)
 
+**Pseudo-Feature Generation for Imbalanced Data Analysis in Deep Learning**
+
+- intro: National Institute of Information and Communications Technology, Tokyo Japan
+- arxiv: [https://arxiv.org/abs/1807.06538](https://arxiv.org/abs/1807.06538)
+- slides: [https://www.slideshare.net/TomohikoKonno/pseudofeature-generation-for-imbalanced-data-analysis-in-deep-learning-tomohiko-105318569](https://www.slideshare.net/TomohikoKonno/pseudofeature-generation-for-imbalanced-data-analysis-in-deep-learning-tomohiko-105318569)
+
+
 ## Noisy / Unlabelled Data
 
 **Data Distillation: Towards Omni-Supervised Learning**

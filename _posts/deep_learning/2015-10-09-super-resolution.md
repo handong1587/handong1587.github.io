@@ -306,6 +306,10 @@ date: 2015-10-09
 
 [https://arxiv.org/abs/1801.04590](https://arxiv.org/abs/1801.04590)
 
+**Photorealistic Video Super Resolution**
+
+[https://arxiv.org/abs/1807.07930](https://arxiv.org/abs/1807.07930)
+
 # Projects
 
 **waifu2x**
