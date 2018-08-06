@@ -400,6 +400,12 @@ date: 2015-10-09
 
 [https://arxiv.org/abs/1805.07925](https://arxiv.org/abs/1805.07925)
 
+**Two at Once: Enhancing Learning and Generalization Capacities via IBN-Net**
+
+- intro: ECCV 2018
+- arxiv: [https://arxiv.org/abs/1807.09441](https://arxiv.org/abs/1807.09441)
+- github(official, Pytorch): [https://github.com/XingangPan/IBN-Net](https://github.com/XingangPan/IBN-Net)
+
 # Loss Function
 
 **The Loss Surfaces of Multilayer Networks**
