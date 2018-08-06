@@ -943,6 +943,12 @@ Continuation of [arXiv:1608.08021](https://arxiv.org/abs/1608.08021)
 
 [https://arxiv.org/abs/1807.08638](https://arxiv.org/abs/1807.08638)
 
+**CornerNet: Detecting Objects as Paired Keypoints**
+
+- intro: ECCV 2018
+- arxiv: [https://arxiv.org/abs/1808.01244](https://arxiv.org/abs/1808.01244)
+- github: [https://github.com/umich-vl/CornerNet](https://github.com/umich-vl/CornerNet)
+
 # Non-Maximum Suppression (NMS)
 
 **End-to-End Integration of a Convolutional Network, Deformable Parts Model and Non-Maximum Suppression**

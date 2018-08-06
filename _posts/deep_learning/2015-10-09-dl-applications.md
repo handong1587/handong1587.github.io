@@ -843,6 +843,11 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 
 [https://arxiv.org/abs/1807.08881](https://arxiv.org/abs/1807.08881)
 
+**Composition Loss for Counting, Density Map Estimation and Localization in Dense Crowds**
+
+- intro: ECCV 2018
+- arxiv: [https://arxiv.org/abs/1808.01050](https://arxiv.org/abs/1808.01050)
+
 # Activity Recognition
 
 **Implementing a CNN for Human Activity Recognition in Tensorflow**
@@ -1031,6 +1036,12 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 **Free-Form Image Inpainting with Gated Convolution**
 
 [https://arxiv.org/abs/1806.03589](https://arxiv.org/abs/1806.03589)
+
+**Keras implementation of Image OutPainting**
+
+- intro: Stanford CS230 project
+- paper: [https://cs230.stanford.edu/projects_spring_2018/posters/8265861.pdf](https://cs230.stanford.edu/projects_spring_2018/posters/8265861.pdf)
+- github: [https://github.com/bendangnuksung/Image-OutPainting](https://github.com/bendangnuksung/Image-OutPainting)
 
 # Image Restoration
 
@@ -1714,6 +1725,11 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 **Size-to-depth: A New Perspective for Single Image Depth Estimation**
 
 [https://arxiv.org/abs/1801.04461](https://arxiv.org/abs/1801.04461)
+
+**Depth Estimation via Affinity Learned with Convolutional Spatial Propagation Network**
+
+- intro: ECCV 2018
+- arxiv: [https://arxiv.org/abs/1808.00150](https://arxiv.org/abs/1808.00150)
 
 # Texture Synthesis
 

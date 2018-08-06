@@ -290,6 +290,10 @@ date: 2015-10-09
 
 [https://arxiv.org/abs/1807.06779](https://arxiv.org/abs/1807.06779)
 
+**The Unreasonable Effectiveness of Texture Transfer for Single Image Super-resolution**
+
+[https://arxiv.org/abs/1808.00043](https://arxiv.org/abs/1808.00043)
+
 ## Video Super-resolution
 
 **Detail-revealing Deep Video Super-resolution**

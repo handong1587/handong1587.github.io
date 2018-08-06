@@ -294,6 +294,14 @@ date: 2015-10-09
 - intro: BMVC 2018
 - arxiv: [https://arxiv.org/abs/1807.09192](https://arxiv.org/abs/1807.09192)
 
+**Deep Sketch-Photo Face Recognition Assisted by Facial Attributes**
+
+[https://arxiv.org/abs/1808.00059](https://arxiv.org/abs/1808.00059两)
+
+**Global Norm-Aware Pooling for Pose-Robust Face Recognition at Low False Positive Rate**
+
+[https://arxiv.org/abs/1808.00435](https://arxiv.org/abs/1808.00435)
+
 # Facial Attributes Classification
 
 **A Jointly Learned Deep Architecture for Facial Attribute Analysis and Face Detection in the Wild**
