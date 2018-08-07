@@ -2270,7 +2270,7 @@ We additionally provide an implementation of the [ReInspect](https://github.com/
 **Metrics for object detection**
 
 - intro: Most popular metrics used to evaluate object detection algorithms
-[https://github.com/rafaelpadilla/Object-Detection-Metrics](https://github.com/rafaelpadilla/Object-Detection-Metrics)
+- github: [https://github.com/rafaelpadilla/Object-Detection-Metrics](https://github.com/rafaelpadilla/Object-Detection-Metrics)
 
 # Leaderboard
 
