@@ -1555,6 +1555,11 @@ date: 2015-10-09
 - intro: Magic Leap
 - arxiv: [https://arxiv.org/abs/1806.08028](https://arxiv.org/abs/1806.08028)
 
+**Gray-box Adversarial Training**
+
+- intro: ECCV 2018
+- arxiv: [https://arxiv.org/abs/1808.01753](https://arxiv.org/abs/1808.01753)
+
 # Low-Precision Training
 
 **High-Accuracy Low-Precision Training**

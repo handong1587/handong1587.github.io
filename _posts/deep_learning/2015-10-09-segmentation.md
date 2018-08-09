@@ -194,6 +194,11 @@ date: 2015-10-09
 
 - arxiv: [https://arxiv.org/abs/1702.01731](https://arxiv.org/abs/1702.01731)
 
+**Learning Multi-scale Features for Foreground Segmentation**
+
+- arxiv: [https://arxiv.org/abs/1808.01477](https://arxiv.org/abs/1808.01477)
+- github: [https://github.com/lim-anggun/FgSegNet_v2](https://github.com/lim-anggun/FgSegNet_v2)
+
 # Semantic Segmentation
 
 **Fully Convolutional Networks for Semantic Segmentation**
@@ -291,8 +296,6 @@ date: 2015-10-09
 - github: [https://github.com/torrvision/crfasrnn](https://github.com/torrvision/crfasrnn)
 - demo: [http://www.robots.ox.ac.uk/~szheng/crfasrnndemo](http://www.robots.ox.ac.uk/~szheng/crfasrnndemo)
 - github: [https://github.com/martinkersner/train-CRF-RNN](https://github.com/martinkersner/train-CRF-RNN)
-
-## BoxSup
 
 **BoxSup: Exploiting Bounding Boxes to Supervise Convolutional Networks for Semantic Segmentation**
 
@@ -423,8 +426,6 @@ fine-tune the trained network with more challenging examples later
 - intro: ECCV 2016
 - arxiv: [https://arxiv.org/abs/1603.06098](https://arxiv.org/abs/1603.06098)
 - github: [https://github.com/kolesman/SEC](https://github.com/kolesman/SEC)
-
-## ScribbleSup
 
 **ScribbleSup: Scribble-Supervised Convolutional Networks for Semantic Segmentation**
 
@@ -1053,6 +1054,10 @@ with built-in awareness of semantically meaningful boundaries. "
 - intro: ECCV 2018
 - arxiv: [https://arxiv.org/abs/1807.02257](https://arxiv.org/abs/1807.02257)
 - github: [https://github.com/andfoy/query-objseg](https://github.com/andfoy/query-objseg)
+
+**Traits & Transferability of Adversarial Examples against Instance Segmentation & Object Detection**
+
+[https://arxiv.org/abs/1808.01452](https://arxiv.org/abs/1808.01452)
 
 ## Human Instance Segmentation
 

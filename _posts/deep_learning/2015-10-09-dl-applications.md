@@ -1369,6 +1369,11 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 - arxiv: [https://arxiv.org/abs/1807.05698](https://arxiv.org/abs/1807.05698)
 - code: [https://xialipku.github.io/RESCAN/](https://xialipku.github.io/RESCAN/)
 
+**Non-locally Enhanced Encoder-Decoder Network for Single Image De-raining**
+
+- intro: ACM Multimedia 2018
+- arxiv: [https://arxiv.org/abs/1808.01491](https://arxiv.org/abs/1808.01491)
+
 # Fence Removal
 
 **My camera can see through fences: A deep learning approach for image de-fencing**

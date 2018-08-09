@@ -573,6 +573,10 @@ date: 2015-10-09
 
 [https://arxiv.org/abs/1807.02247](https://arxiv.org/abs/1807.02247)
 
+**Error Correction Maximization for Deep Image Hashing**
+
+[https://arxiv.org/abs/1808.01942](https://arxiv.org/abs/1808.01942)
+
 # Cross Modal Retrieval
 
 **Cross-domain Image Retrieval with a Dual Attribute-aware Ranking Network**

@@ -733,6 +733,10 @@ Compressed model is less than 500KB
 - intro: Siggraph 2018
 - arxiv: [https://arxiv.org/abs/1807.06587](https://arxiv.org/abs/1807.06587)
 
+**Pixel-level Semantics Guided Image Colorization**
+
+[https://arxiv.org/abs/1808.01597](https://arxiv.org/abs/1808.01597)
+
 # Sounds
 
 **Visually Indicated Sounds**

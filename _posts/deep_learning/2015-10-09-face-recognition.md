@@ -428,6 +428,11 @@ date: 2015-10-09
 - intro: Minor modifications to the CVPR 2018 version (add missing references)
 - arxiv: [https://arxiv.org/abs/1807.00966](https://arxiv.org/abs/1807.00966)
 
+**Deep Multi-Center Learning for Face Alignment**
+
+- arxiv: [https://arxiv.org/abs/1808.01558](https://arxiv.org/abs/1808.01558)
+- github: [https://github.com/ZhiwenShao/MCNet-Extension](https://github.com/ZhiwenShao/MCNet-Extension)
+
 # Face Synthesis
 
 **Beyond Face Rotation: Global and Local Perception GAN for Photorealistic and Identity Preserving Frontal View Synthesis**

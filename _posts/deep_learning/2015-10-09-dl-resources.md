@@ -1494,6 +1494,10 @@ with fast exact probabilistic inference over many layers."
 
 [https://arxiv.org/abs/1808.00193](https://arxiv.org/abs/1808.00193)
 
+**Teacher Guided Architecture Search**
+
+[https://arxiv.org/abs/1808.01405](https://arxiv.org/abs/1808.01405)
+
 ## Graph Convolutional Networks
 
 **Learning Convolutional Neural Networks for Graphs**
