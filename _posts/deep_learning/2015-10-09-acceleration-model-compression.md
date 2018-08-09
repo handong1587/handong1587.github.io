@@ -669,6 +669,10 @@ at INT8 deep learning operations than other FPGA DSP architectures"
 - intro: ECCV 2018
 - arxiv: [https://arxiv.org/abs/1808.00278](https://arxiv.org/abs/1808.00278)
 
+**Training Compact Neural Networks with Binary Weights and Low Precision Activations**
+
+[https://arxiv.org/abs/1808.02631](https://arxiv.org/abs/1808.02631)
+
 # Accelerating / Fast Algorithms
 
 **Fast Algorithms for Convolutional Neural Networks**
