@@ -294,6 +294,10 @@ date: 2015-10-09
 
 [https://arxiv.org/abs/1808.00043](https://arxiv.org/abs/1808.00043)
 
+**Deep Learning for Single Image Super-Resolution: A Brief Review**
+
+[https://arxiv.org/abs/1808.03344](https://arxiv.org/abs/1808.03344)
+
 ## Video Super-resolution
 
 **Detail-revealing Deep Video Super-resolution**

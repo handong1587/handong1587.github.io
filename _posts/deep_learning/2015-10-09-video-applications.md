@@ -292,6 +292,11 @@ date: 2015-10-09
 - intro: ECCV 2018
 - arxiv: [https://arxiv.org/abs/1807.08259](https://arxiv.org/abs/1807.08259)
 
+**Deep Video Color Propagation**
+
+- intro: BMVC 2018
+- arxuv: [https://arxiv.org/abs/1808.03232](https://arxiv.org/abs/1808.03232)
+
 ## Action Detection / Activity Recognition
 
 **3d convolutional neural networks for human action recognition**

@@ -737,6 +737,11 @@ Compressed model is less than 500KB
 
 [https://arxiv.org/abs/1808.01597](https://arxiv.org/abs/1808.01597)
 
+**User-Guided Deep Anime Line Art Colorization with Conditional Adversarial Networks**
+
+- intro: 2018 ACM Multimedia Conference (MM '18)
+- arxiv: [https://arxiv.org/abs/1808.03240](https://arxiv.org/abs/1808.03240)
+
 # Sounds
 
 **Visually Indicated Sounds**
