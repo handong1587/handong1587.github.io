@@ -384,3 +384,8 @@ date: 2015-10-09
 
 - homepage: [https://jakebian.github.io/quiver/](https://jakebian.github.io/quiver/)
 - github: [https://github.com/jakebian/quiver](https://github.com/jakebian/quiver)
+
+**Netron**
+
+- intro: Visualizer for deep learning and machine learning models
+- github: [https://github.com/lutzroeder/Netron](https://github.com/lutzroeder/Netron)
