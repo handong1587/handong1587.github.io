@@ -178,6 +178,10 @@ date: 2015-10-09
 - intro: DeepMind & German Cancer Research Center
 - arxiv: [https://arxiv.org/abs/1806.05034](https://arxiv.org/abs/1806.05034)
 
+**Deep Dual Pyramid Network for Barcode Segmentation using Barcode-30k Database**
+
+[https://arxiv.org/abs/1807.11886](https://arxiv.org/abs/1807.11886)
+
 # Foreground Object Segmentation
 
 **Pixel Objectness**
@@ -189,6 +193,11 @@ date: 2015-10-09
 **A Deep Convolutional Neural Network for Background Subtraction**
 
 - arxiv: [https://arxiv.org/abs/1702.01731](https://arxiv.org/abs/1702.01731)
+
+**Learning Multi-scale Features for Foreground Segmentation**
+
+- arxiv: [https://arxiv.org/abs/1808.01477](https://arxiv.org/abs/1808.01477)
+- github: [https://github.com/lim-anggun/FgSegNet_v2](https://github.com/lim-anggun/FgSegNet_v2)
 
 # Semantic Segmentation
 
@@ -287,8 +296,6 @@ date: 2015-10-09
 - github: [https://github.com/torrvision/crfasrnn](https://github.com/torrvision/crfasrnn)
 - demo: [http://www.robots.ox.ac.uk/~szheng/crfasrnndemo](http://www.robots.ox.ac.uk/~szheng/crfasrnndemo)
 - github: [https://github.com/martinkersner/train-CRF-RNN](https://github.com/martinkersner/train-CRF-RNN)
-
-## BoxSup
 
 **BoxSup: Exploiting Bounding Boxes to Supervise Convolutional Networks for Semantic Segmentation**
 
@@ -419,8 +426,6 @@ fine-tune the trained network with more challenging examples later
 - intro: ECCV 2016
 - arxiv: [https://arxiv.org/abs/1603.06098](https://arxiv.org/abs/1603.06098)
 - github: [https://github.com/kolesman/SEC](https://github.com/kolesman/SEC)
-
-## ScribbleSup
 
 **ScribbleSup: Scribble-Supervised Convolutional Networks for Semantic Segmentation**
 
@@ -1050,6 +1055,10 @@ with built-in awareness of semantically meaningful boundaries. "
 - arxiv: [https://arxiv.org/abs/1807.02257](https://arxiv.org/abs/1807.02257)
 - github: [https://github.com/andfoy/query-objseg](https://github.com/andfoy/query-objseg)
 
+**Traits & Transferability of Adversarial Examples against Instance Segmentation & Object Detection**
+
+[https://arxiv.org/abs/1808.01452](https://arxiv.org/abs/1808.01452)
+
 ## Human Instance Segmentation
 
 **PersonLab: Person Pose Estimation and Instance Segmentation with a Bottom-Up, Part-Based, Geometric Embedding Model**
@@ -1285,6 +1294,17 @@ ranked 1st place in ImageNet Scene Parsing Challenge 2016
 - keywords: Macro-Micro Adversarial Net (MMAN)
 - arxiv: [https://arxiv.org/abs/1807.08260](https://arxiv.org/abs/1807.08260)
 - github: [https://github.com/RoyalVane/MMAN](https://github.com/RoyalVane/MMAN)
+
+**Instance-level Human Parsing via Part Grouping Network**
+
+- intro: ECCV 2018 Oral
+- arxiv: [https://arxiv.org/abs/1808.00157](https://arxiv.org/abs/1808.00157)
+
+**Adaptive Temporal Encoding Network for Video Instance-level Human Parsing**
+
+- intro: ACM MM 2018
+= arixv: [https://arxiv.org/abs/1808.00661](https://arxiv.org/abs/1808.00661)
+- github(official, TensorFlow): [https://github.com/HCPLab-SYSU/ATEN](https://github.com/HCPLab-SYSU/ATEN)
 
 # Video Object Segmentation
 

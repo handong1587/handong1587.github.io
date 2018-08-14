@@ -843,6 +843,11 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 
 [https://arxiv.org/abs/1807.08881](https://arxiv.org/abs/1807.08881)
 
+**Composition Loss for Counting, Density Map Estimation and Localization in Dense Crowds**
+
+- intro: ECCV 2018
+- arxiv: [https://arxiv.org/abs/1808.01050](https://arxiv.org/abs/1808.01050)
+
 # Activity Recognition
 
 **Implementing a CNN for Human Activity Recognition in Tensorflow**
@@ -1031,6 +1036,12 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 **Free-Form Image Inpainting with Gated Convolution**
 
 [https://arxiv.org/abs/1806.03589](https://arxiv.org/abs/1806.03589)
+
+**Keras implementation of Image OutPainting**
+
+- intro: Stanford CS230 project
+- paper: [https://cs230.stanford.edu/projects_spring_2018/posters/8265861.pdf](https://cs230.stanford.edu/projects_spring_2018/posters/8265861.pdf)
+- github: [https://github.com/bendangnuksung/Image-OutPainting](https://github.com/bendangnuksung/Image-OutPainting)
 
 # Image Restoration
 
@@ -1357,6 +1368,11 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 - intro: ECCV 2018
 - arxiv: [https://arxiv.org/abs/1807.05698](https://arxiv.org/abs/1807.05698)
 - code: [https://xialipku.github.io/RESCAN/](https://xialipku.github.io/RESCAN/)
+
+**Non-locally Enhanced Encoder-Decoder Network for Single Image De-raining**
+
+- intro: ACM Multimedia 2018
+- arxiv: [https://arxiv.org/abs/1808.01491](https://arxiv.org/abs/1808.01491)
 
 # Fence Removal
 
@@ -1715,6 +1731,11 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 
 [https://arxiv.org/abs/1801.04461](https://arxiv.org/abs/1801.04461)
 
+**Depth Estimation via Affinity Learned with Convolutional Spatial Propagation Network**
+
+- intro: ECCV 2018
+- arxiv: [https://arxiv.org/abs/1808.00150](https://arxiv.org/abs/1808.00150)
+
 # Texture Synthesis
 
 **Texture Synthesis Using Convolutional Neural Networks**
@@ -1997,6 +2018,11 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 **Practical Deep Stereo (PDS): Toward applications-friendly deep stereo matching**
 
 [https://arxiv.org/abs/1806.01677](https://arxiv.org/abs/1806.01677)
+
+**Open-World Stereo Video Matching with Deep RNN**
+
+- intro: ECCV 2018
+- arxiv: [https://arxiv.org/abs/1808.03959](https://arxiv.org/abs/1808.03959)
 
 # Optical Flow
 

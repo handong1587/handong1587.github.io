@@ -262,6 +262,19 @@ date: 2015-10-09
 - intro: BMVC 2018
 - arxiv: [https://arxiv.org/abs/1807.09075](https://arxiv.org/abs/1807.09075)
 
+**Multi-Scale Supervised Network for Human Pose Estimation**
+
+- intro: ICIP 2018
+- arxiv: [https://arxiv.org/abs/1808.01623](https://arxiv.org/abs/1808.01623)
+
+# Object Pose Estimation
+
+**Real-Time Object Pose Estimation with Pose Interpreter Networks**
+
+- intro: 2018 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2018)
+- arxiv: [https://arxiv.org/abs/1808.01099](https://arxiv.org/abs/1808.01099)
+- github: [https://github.com/jimmyyhwu/pose-interpreter-networks](https://github.com/jimmyyhwu/pose-interpreter-networks)
+
 # Projects
 
 **MobilePose: Single Person Pose Estimation for Mobile Device**

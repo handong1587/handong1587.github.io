@@ -334,3 +334,7 @@ date: 2015-10-09
 
 - intro: Google Brain & Princeton
 - arxiv: [https://arxiv.org/abs/1807.06732](https://arxiv.org/abs/1807.06732)
+
+**Defense Against Adversarial Attacks with Saak Transform**
+
+[https://arxiv.org/abs/1808.01785](https://arxiv.org/abs/1808.01785)

@@ -1251,6 +1251,10 @@ with fast exact probabilistic inference over many layers."
 - intro: ECCV 2018
 - arxiv: [https://arxiv.org/abs/1807.08556](https://arxiv.org/abs/1807.08556)
 
+**Rank-1 Convolutional Neural Network**
+
+[https://arxiv.org/abs/1808.04303](https://arxiv.org/abs/1808.04303)
+
 ## Convolutions / Filters
 
 **Warped Convolutions: Efficient Invariance to Spatial Transformations**
@@ -1484,6 +1488,19 @@ with fast exact probabilistic inference over many layers."
 
 - intro: ICML 2018 AutoML Workshop. University of Freiburg
 - arxiv: [https://arxiv.org/abs/1807.06906](https://arxiv.org/abs/1807.06906)
+
+**Efficient Progressive Neural Architecture Search**
+
+- intro: BMVC 2018
+- arxiv: [https://arxiv.org/abs/1808.00391](https://arxiv.org/abs/1808.00391)
+
+**Reinforced Evolutionary Neural Architecture Search**
+
+[https://arxiv.org/abs/1808.00193](https://arxiv.org/abs/1808.00193)
+
+**Teacher Guided Architecture Search**
+
+[https://arxiv.org/abs/1808.01405](https://arxiv.org/abs/1808.01405)
 
 ## Graph Convolutional Networks
 
@@ -2284,6 +2301,11 @@ with fast exact probabilistic inference over many layers."
 
 - intro: ECCV 2018. Lunit Inc. & Adobe Research
 - arxiv: [https://arxiv.org/abs/1807.06521](https://arxiv.org/abs/1807.06521)
+
+**Scale equivariance in CNNs with vector fields**
+
+- intro: ICML/FAIM 2018 workshop on Towards learning with limited labels: Equivariance, Invariance, and Beyond (oral presentation)
+- arxiv: [https://arxiv.org/abs/1807.11783](https://arxiv.org/abs/1807.11783)
 
 ## Tutorials and Surveys
 

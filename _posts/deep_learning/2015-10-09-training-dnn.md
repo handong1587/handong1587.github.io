@@ -927,6 +927,10 @@ date: 2015-10-09
 - blog: [https://thomas-tanay.github.io/post--L2-regularization/](https://thomas-tanay.github.io/post--L2-regularization/)
 - arxiv: [https://arxiv.org/abs/1806.11186](https://arxiv.org/abs/1806.11186)
 
+**Dropout is a special case of the stochastic delta rule: faster and more accurate deep learning**
+
+[https://arxiv.org/abs/1808.03578](https://arxiv.org/abs/1808.03578)
+
 ## DropConnect
 
 **Regularization of Neural Networks using DropConnect**
@@ -1554,6 +1558,11 @@ date: 2015-10-09
 
 - intro: Magic Leap
 - arxiv: [https://arxiv.org/abs/1806.08028](https://arxiv.org/abs/1806.08028)
+
+**Gray-box Adversarial Training**
+
+- intro: ECCV 2018
+- arxiv: [https://arxiv.org/abs/1808.01753](https://arxiv.org/abs/1808.01753)
 
 # Low-Precision Training
 

@@ -161,6 +161,11 @@ date: 2015-10-09
 - intro: CVPR 2018. The Robotics Institute, Carnegie Mellon University
 - arxiv: [https://arxiv.org/abs/1803.08035](https://arxiv.org/abs/1803.08035)
 
+**Attention-based Pyramid Aggregation Network for Visual Place Recognition**
+
+- intro: ACM MM 2018
+- arxiv: [https://arxiv.org/abs/1808.00288](https://arxiv.org/abs/1808.00288)
+
 # Massive Classification
 
 **Accelerated Training for Massive Classification via Dynamic Class Selection**
