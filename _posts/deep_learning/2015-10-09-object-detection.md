@@ -950,6 +950,11 @@ Continuation of [arXiv:1608.08021](https://arxiv.org/abs/1608.08021)
 - arxiv: [https://arxiv.org/abs/1808.01244](https://arxiv.org/abs/1808.01244)
 - github: [https://github.com/umich-vl/CornerNet](https://github.com/umich-vl/CornerNet)
 
+**Unsupervised Hard Example Mining from Videos for Improved Object Detection**
+
+- intro: ECCV 2018
+- arxiv: [https://arxiv.org/abs/1808.04285](https://arxiv.org/abs/1808.04285)
+
 # Non-Maximum Suppression (NMS)
 
 **End-to-End Integration of a Convolutional Network, Deformable Parts Model and Non-Maximum Suppression**

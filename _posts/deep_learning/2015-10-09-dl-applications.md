@@ -2019,6 +2019,11 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 
 [https://arxiv.org/abs/1806.01677](https://arxiv.org/abs/1806.01677)
 
+**Open-World Stereo Video Matching with Deep RNN**
+
+- intro: ECCV 2018
+- arxiv: [https://arxiv.org/abs/1808.03959](https://arxiv.org/abs/1808.03959)
+
 # Optical Flow
 
 **FlowNet: Learning Optical Flow with Convolutional Networks**

@@ -1251,6 +1251,10 @@ with fast exact probabilistic inference over many layers."
 - intro: ECCV 2018
 - arxiv: [https://arxiv.org/abs/1807.08556](https://arxiv.org/abs/1807.08556)
 
+**Rank-1 Convolutional Neural Network**
+
+[https://arxiv.org/abs/1808.04303](https://arxiv.org/abs/1808.04303)
+
 ## Convolutions / Filters
 
 **Warped Convolutions: Efficient Invariance to Spatial Transformations**
