@@ -1575,6 +1575,14 @@ with fast exact probabilistic inference over many layers."
 
 [https://arxiv.org/abs/1708.04675](https://arxiv.org/abs/1708.04675)
 
+**Graph Attention Networks**
+
+- intro: ICLR 2018
+- intro: University of Cambridge & Centre de Visio per Computador, UAB & Montreal Institute for Learning Algorithms
+- project page: [http://petar-v.com/GAT/](http://petar-v.com/GAT/)
+- arxiv: [https://arxiv.org/abs/1710.10903](https://arxiv.org/abs/1710.10903)
+- github: [https://github.com/PetarV-/GAT](https://github.com/PetarV-/GAT)
+
 **Residual Gated Graph ConvNets**
 
 [https://arxiv.org/abs/1711.07553](https://arxiv.org/abs/1711.07553)

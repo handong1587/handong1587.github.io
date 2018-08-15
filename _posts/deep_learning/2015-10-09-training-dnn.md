@@ -929,7 +929,9 @@ date: 2015-10-09
 
 **Dropout is a special case of the stochastic delta rule: faster and more accurate deep learning**
 
-[https://arxiv.org/abs/1808.03578](https://arxiv.org/abs/1808.03578)
+- intro: Rutgers University
+- arxiv: [https://arxiv.org/abs/1808.03578](https://arxiv.org/abs/1808.03578)
+- github: [https://github.com/noahfl/densenet-sdr/](https://github.com/noahfl/densenet-sdr/)
 
 ## DropConnect
 
