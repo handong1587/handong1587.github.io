@@ -1451,6 +1451,10 @@ date: 2015-10-09
 - intro: we find 99.9% of the gradient exchange in distributed SGD is redundant; we reduce the communication bandwidth by two orders of magnitude without losing accuracy
 - arxiv: [https://arxiv.org/abs/1712.01887](https://arxiv.org/abs/1712.01887)
 
+**RedSync : Reducing Synchronization Traffic for Distributed Deep Learning**
+
+[https://arxiv.org/abs/1808.04357](https://arxiv.org/abs/1808.04357)
+
 ## Projects
 
 **Theano-MPI: a Theano-based Distributed Training Framework**

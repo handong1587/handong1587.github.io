@@ -1255,6 +1255,11 @@ with fast exact probabilistic inference over many layers."
 
 [https://arxiv.org/abs/1808.04303](https://arxiv.org/abs/1808.04303)
 
+**Neural Network Encapsulation**
+
+- intro: ECCV 2018
+- arxiv: [https://arxiv.org/abs/1808.03749](https://arxiv.org/abs/1808.03749)
+
 ## Convolutions / Filters
 
 **Warped Convolutions: Efficient Invariance to Spatial Transformations**
@@ -1314,6 +1319,10 @@ with fast exact probabilistic inference over many layers."
 - arxiv: [https://arxiv.org/abs/1807.03247](https://arxiv.org/abs/1807.03247)
 - github: [https://github.com/mkocabas/CoordConv-pytorch](https://github.com/mkocabas/CoordConv-pytorch)
 - youtube: [https://www.youtube.com/watch?v=8yFQc6elePA](https://www.youtube.com/watch?v=8yFQc6elePA)
+
+**Network Decoupling: From Regular to Depthwise Separable Convolutions**
+
+[https://arxiv.org/abs/1808.05517](https://arxiv.org/abs/1808.05517)
 
 ## Highway Networks
 
@@ -1501,6 +1510,10 @@ with fast exact probabilistic inference over many layers."
 **Teacher Guided Architecture Search**
 
 [https://arxiv.org/abs/1808.01405](https://arxiv.org/abs/1808.01405)
+
+**BlockQNN: Efficient Block-wise Neural Network Architecture Generation**
+
+[https://arxiv.org/abs/1808.05584](https://arxiv.org/abs/1808.05584)
 
 ## Graph Convolutional Networks
 

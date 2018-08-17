@@ -302,6 +302,15 @@ date: 2015-10-09
 
 [https://arxiv.org/abs/1808.00435](https://arxiv.org/abs/1808.00435)
 
+**An Experimental Evaluation of Covariates Effects on Unconstrained Face Verification**
+
+[https://arxiv.org/abs/1808.05508](https://arxiv.org/abs/1808.05508)
+
+**Pairwise Relational Networks for Face Recognition**
+
+- intro: ECCV 2018
+- arxiv: [https://arxiv.org/abs/1808.04976](https://arxiv.org/abs/1808.04976)
+
 # Facial Attributes Classification
 
 **A Jointly Learned Deep Architecture for Facial Attribute Analysis and Face Detection in the Wild**
@@ -432,6 +441,11 @@ date: 2015-10-09
 
 - arxiv: [https://arxiv.org/abs/1808.01558](https://arxiv.org/abs/1808.01558)
 - github: [https://github.com/ZhiwenShao/MCNet-Extension](https://github.com/ZhiwenShao/MCNet-Extension)
+
+**Hierarchical binary CNNs for landmark localization with limited resources**
+
+- intro: TPAMI 2018
+- arxiv: [https://arxiv.org/abs/1808.04803](https://arxiv.org/abs/1808.04803)
 
 # Face Synthesis
 

@@ -507,6 +507,10 @@ at INT8 deep learning operations than other FPGA DSP architectures"
 - intro: University of Central Florida & Tencent AI lab, Seattle
 - arxiv: [https://arxiv.org/abs/1807.07948](https://arxiv.org/abs/1807.07948)
 
+**Blended Coarse Gradient Descent for Full Quantization of Deep Neural Networks**
+
+[https://arxiv.org/abs/1808.05240](https://arxiv.org/abs/1808.05240)
+
 # Pruning
 
 **ThiNet: A Filter Level Pruning Method for Deep Neural Network Compression**

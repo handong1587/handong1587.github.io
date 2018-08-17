@@ -955,6 +955,10 @@ Continuation of [arXiv:1608.08021](https://arxiv.org/abs/1608.08021)
 - intro: ECCV 2018
 - arxiv: [https://arxiv.org/abs/1808.04285](https://arxiv.org/abs/1808.04285)
 
+**SAN: Learning Relationship between Convolutional Features for Multi-Scale Object Detection**
+
+[https://arxiv.org/abs/1808.04974](https://arxiv.org/abs/1808.04974)
+
 # Non-Maximum Suppression (NMS)
 
 **End-to-End Integration of a Convolutional Network, Deformable Parts Model and Non-Maximum Suppression**
@@ -1873,6 +1877,11 @@ This task involves predicting the salient regions of an image given by human eye
 
 - intro: ECCV 2018
 - arxiv: [https://arxiv.org/abs/1807.08407](https://arxiv.org/abs/1807.08407)
+
+**Multispectral Pedestrian Detection via Simultaneous Detection and Segmentation**
+
+- intro: BMVC 2018
+- arxiv: [https://arxiv.org/abs/1808.04818](https://arxiv.org/abs/1808.04818)
 
 # Vehicle Detection
 

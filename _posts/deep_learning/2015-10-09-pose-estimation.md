@@ -87,6 +87,7 @@ date: 2015-10-09
 
 **Binarized Convolutional Landmark Localizers for Human Pose Estimation and Face Alignment with Limited Resources**
 
+- intro: ICCV 2017 Oral
 - project page: [https://www.adrianbulat.com/binary-cnn-landmarks](https://www.adrianbulat.com/binary-cnn-landmarks)
 - arxiv: [https://www.arxiv.org/abs/1703.00862](https://www.arxiv.org/abs/1703.00862)
 

@@ -383,6 +383,10 @@ Compressed model is less than 500KB
 - arxiv: [https://arxiv.org/abs/1711.11160](https://arxiv.org/abs/1711.11160)
 - github: [https://github.com//pkmital/time-domain-neural-audio-style-transfer](https://github.com//pkmital/time-domain-neural-audio-style-transfer)
 
+**Learning Linear Transformations for Fast Arbitrary Style Transfer**
+
+[https://arxiv.org/abs/1808.04537](https://arxiv.org/abs/1808.04537)
+
 ## Neural Art On Video
 
 **neural-style-video**

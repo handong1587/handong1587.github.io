@@ -797,6 +797,11 @@ date: 2015-10-09
 
 [https://arxiv.org/abs/1805.05510](https://arxiv.org/abs/1805.05510)
 
+**Deep Randomized Ensembles for Metric Learning**
+
+- arxiv: [https://arxiv.org/abs/1808.04469](https://arxiv.org/abs/1808.04469)
+- github: [https://github.com/littleredxh/DREML](https://github.com/littleredxh/DREML)
+
 # Talks / Slides
 
 **TiefVision: end-to-end image similarity search engine**
