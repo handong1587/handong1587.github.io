@@ -77,8 +77,10 @@ date: 2015-10-09
 **Realtime Multi-Person 2D Pose Estimation using Part Affinity Fields**
 
 - intro: CVPR 2017 Oral
+- keywords: Part Confidence Maps, Part Affinity Fields & Bipartite Matching & Part Association
 - arxiv: [https://arxiv.org/abs/1611.08050](https://arxiv.org/abs/1611.08050)
 - video: [https://www.youtube.com/watch?v=pW6nZXeWlGM&feature=youtu.be](https://www.youtube.com/watch?v=pW6nZXeWlGM&feature=youtu.be)
+- slides: [http://image-net.org/challenges/talks/2016/Multi-person%20pose%20estimation-CMU.pdf](http://image-net.org/challenges/talks/2016/Multi-person%20pose%20estimation-CMU.pdf)
 - github: [https://github.com/ZheC/Realtime_Multi-Person_Pose_Estimation](https://github.com/ZheC/Realtime_Multi-Person_Pose_Estimation)
 
 **Region Ensemble Network: Improving Convolutional Network for Hand Pose Estimation**

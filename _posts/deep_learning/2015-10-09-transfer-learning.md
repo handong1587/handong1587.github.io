@@ -131,6 +131,13 @@ date: 2015-10-09
 - intro: Carnegie Mellon University & New York University & Facebook AI Research
 - arxiv: [https://arxiv.org/abs/1806.05662](https://arxiv.org/abs/1806.05662)
 
+**Taskonomy: Disentangling Task Transfer Learning**
+
+- intro: CVPR 2018 oral
+- project page: [http://taskonomy.stanford.edu/](http://taskonomy.stanford.edu/)
+- arxiv: [https://arxiv.org/abs/1804.08328](https://arxiv.org/abs/1804.08328)
+- github: [https://github.com/StanfordVL/taskonomy/tree/master/taskbank](https://github.com/StanfordVL/taskonomy/tree/master/taskbank)
+
 # One Shot Learning
 
 **One-shot Learning with Memory-Augmented Neural Networks**

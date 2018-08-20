@@ -833,6 +833,11 @@ with built-in awareness of semantically meaningful boundaries. "
 - intro: BMVC 2018
 - arxiv: [https://arxiv.org/abs/1807.07946](https://arxiv.org/abs/1807.07946)
 
+**BiSeNet: Bilateral Segmentation Network for Real-time Semantic Segmentation**
+
+- intro: ECCV 2018
+- arxiv: [https://arxiv.org/abs/1808.00897](https://arxiv.org/abs/1808.00897)
+
 # Instance Segmentation
 
 **Simultaneous Detection and Segmentation**

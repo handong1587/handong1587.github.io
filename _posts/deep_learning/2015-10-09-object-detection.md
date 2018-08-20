@@ -944,9 +944,16 @@ Continuation of [arXiv:1608.08021](https://arxiv.org/abs/1608.08021)
 
 [https://arxiv.org/abs/1807.08638](https://arxiv.org/abs/1807.08638)
 
+**Acquisition of Localization Confidence for Accurate Object Detection**
+
+- intro: ECCV 2018
+- arxiv: [https://arxiv.org/abs/1807.11590](https://arxiv.org/abs/1807.11590)
+- gihtub: [https://github.com/vacancy/PreciseRoIPooling](https://github.com/vacancy/PreciseRoIPooling)
+
 **CornerNet: Detecting Objects as Paired Keypoints**
 
 - intro: ECCV 2018
+- keywords: IoU-Net, PreciseRoIPooling
 - arxiv: [https://arxiv.org/abs/1808.01244](https://arxiv.org/abs/1808.01244)
 - github: [https://github.com/umich-vl/CornerNet](https://github.com/umich-vl/CornerNet)
 
@@ -2093,6 +2100,10 @@ This task involves predicting the salient regions of an image given by human eye
 **EL-GAN: Embedding Loss Driven Generative Adversarial Networks for Lane Detection**
 
 [https://arxiv.org/abs/1806.05525](https://arxiv.org/abs/1806.05525)
+
+**Towards End-to-End Lane Detection: an Instance Segmentation Approach**
+
+[https://arxiv.org/abs/1802.05591](https://arxiv.org/abs/1802.05591)
 
 # Object Proposal
 
