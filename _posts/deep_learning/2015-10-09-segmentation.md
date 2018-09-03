@@ -1245,6 +1245,12 @@ ranked 1st place in ImageNet Scene Parsing Challenge 2016
 
 [https://arxiv.org/abs/1801.06831](https://arxiv.org/abs/1801.06831)
 
+**DenseASPP for Semantic Segmentation in Street Scenes**
+
+- intro: CVPR 2018
+- paper: [http://openaccess.thecvf.com/content_cvpr_2018/papers/Yang_DenseASPP_for_Semantic_CVPR_2018_paper.pdf](http://openaccess.thecvf.com/content_cvpr_2018/papers/Yang_DenseASPP_for_Semantic_CVPR_2018_paper.pdf)
+- github: [https://github.com/DeepMotionAIResearch/DenseASPP](https://github.com/DeepMotionAIResearch/DenseASPP)
+
 ## Benchmarks
 
 **MIT Scene Parsing Benchmark**

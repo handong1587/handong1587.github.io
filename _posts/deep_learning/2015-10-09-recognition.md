@@ -466,6 +466,11 @@ date: 2015-10-09
 - intro: ECCV 2018
 - arxiv: [https://arxiv.org/abs/1807.03903](https://arxiv.org/abs/1807.03903)
 
+**Localization Guided Learning for Pedestrian Attribute Recognition**
+
+- intro: BMVC 2018
+- arxiv: [https://arxiv.org/abs/1808.09102](https://arxiv.org/abs/1808.09102)
+
 # Clothes Recognition
 
 **DeepFashion: Powering Robust Clothes Recognition and Retrieval with Rich Annotations**

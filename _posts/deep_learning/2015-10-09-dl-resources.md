@@ -2598,6 +2598,11 @@ with fast exact probabilistic inference over many layers."
 
 [https://arxiv.org/abs/1806.01531](https://arxiv.org/abs/1806.01531)
 
+**Learning to Learn from Web Data through Deep Semantic Embeddings**
+
+- intro: ECCV MULA Workshop 2018
+- arxiv: [https://arxiv.org/abs/1808.06368](https://arxiv.org/abs/1808.06368)
+
 ## Regression
 
 **A Comprehensive Analysis of Deep Regression**

@@ -269,6 +269,18 @@ date: 2015-10-09
 - intro: ICIP 2018
 - arxiv: [https://arxiv.org/abs/1808.01623](https://arxiv.org/abs/1808.01623)
 
+**CU-Net: Coupled U-Nets**
+
+- intro: BMVC 2018 (Oral)
+- arxiv: [https://arxiv.org/abs/1808.06521](https://arxiv.org/abs/1808.06521)
+
+# 3D Pose
+
+**Can 3D Pose be Learned from 2D Projections Alone?**
+
+- intro: ECCV 2018 workshop
+- arxiv: [https://arxiv.org/abs/1808.07182](https://arxiv.org/abs/1808.07182)
+
 # Object Pose Estimation
 
 **Real-Time Object Pose Estimation with Pose Interpreter Networks**
@@ -285,10 +297,15 @@ date: 2015-10-09
 - github: [https://github.com/YuliangXiu/MobilePose-pytorch](https://github.com/YuliangXiu/MobilePose-pytorch)
  github: [https://github.com/MVIG-SJTU/AlphaPose](https://github.com/MVIG-SJTU/AlphaPose)
 
- **PyTorch-Pose: A PyTorch toolkit for 2D Human Pose Estimation**
+**PyTorch-Pose: A PyTorch toolkit for 2D Human Pose Estimation**
 
 - intro: a PyTorch implementation of the general pipeline for 2D single human pose estimation.
 - github: [https://github.com/bearpaw/pytorch-pose](https://github.com/bearpaw/pytorch-pose)
+
+**Hourglass, DHN and CPN model in TensorFlow for 2018-FashionAI Key Points Detection of Apparel at TianChi**
+
+- intro: Full pipeline for TianChi FashionAI clothes keypoints detection compitetion in TensorFlow
+- github: [https://github.com/HiKapok/tf.fashionAI](https://github.com/HiKapok/tf.fashionAI)
 
 # Challenge
 
