@@ -833,6 +833,11 @@ with built-in awareness of semantically meaningful boundaries. "
 - intro: BMVC 2018
 - arxiv: [https://arxiv.org/abs/1807.07946](https://arxiv.org/abs/1807.07946)
 
+**BiSeNet: Bilateral Segmentation Network for Real-time Semantic Segmentation**
+
+- intro: ECCV 2018
+- arxiv: [https://arxiv.org/abs/1808.00897](https://arxiv.org/abs/1808.00897)
+
 # Instance Segmentation
 
 **Simultaneous Detection and Segmentation**
@@ -1239,6 +1244,12 @@ ranked 1st place in ImageNet Scene Parsing Challenge 2016
 **Dense Recurrent Neural Networks for Scene Labeling**
 
 [https://arxiv.org/abs/1801.06831](https://arxiv.org/abs/1801.06831)
+
+**DenseASPP for Semantic Segmentation in Street Scenes**
+
+- intro: CVPR 2018
+- paper: [http://openaccess.thecvf.com/content_cvpr_2018/papers/Yang_DenseASPP_for_Semantic_CVPR_2018_paper.pdf](http://openaccess.thecvf.com/content_cvpr_2018/papers/Yang_DenseASPP_for_Semantic_CVPR_2018_paper.pdf)
+- github: [https://github.com/DeepMotionAIResearch/DenseASPP](https://github.com/DeepMotionAIResearch/DenseASPP)
 
 ## Benchmarks
 

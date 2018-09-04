@@ -353,6 +353,12 @@ after the embedding and recurrent layers of the RNN."
 - intro: ICIP 2018
 - arxiv: [https://arxiv.org/abs/1807.03514](https://arxiv.org/abs/1807.03514)
 
+**Context-Aware Visual Policy Network for Sequence-Level Image Captioning**
+
+- intro: ACM MM 2018 oral
+- arxiv: [https://arxiv.org/abs/1808.05864](https://arxiv.org/abs/1808.05864)
+- github: [https://github.com/daqingliu/CAVP](https://github.com/daqingliu/CAVP)
+
 # Object Descriptions
 
 **Generation and Comprehension of Unambiguous Object Descriptions**

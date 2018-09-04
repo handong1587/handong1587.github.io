@@ -404,11 +404,6 @@ not just the convolutions)
 - blog: [http://machinethink.net/blog/googles-mobile-net-architecture-on-iphone/](http://machinethink.net/blog/googles-mobile-net-architecture-on-iphone/)
 - github: [https://github.com/hollance/MobileNet-CoreML](https://github.com/hollance/MobileNet-CoreML)
 
-**ShuffleNet: An Extremely Efficient Convolutional Neural Network for Mobile Devices**
-
-- intro: Megvii Inc (Face++)
-- arxiv: [https://arxiv.org/abs/1707.01083](https://arxiv.org/abs/1707.01083)
-
 **Depth_conv-for-mobileNet**
 
 [https://github.com//LamHoCN/Depth_conv-for-mobileNet](https://github.com//LamHoCN/Depth_conv-for-mobileNet)
@@ -436,6 +431,20 @@ not just the convolutions)
 - github: [https://github.com/tensorflow/models/tree/master/research/slim/nets/mobilenet](https://github.com/tensorflow/models/tree/master/research/slim/nets/mobilenet)
 - github: [https://github.com/liangfu/mxnet-mobilenet-v2](https://github.com/liangfu/mxnet-mobilenet-v2)
 - blog: [https://research.googleblog.com/2018/04/mobilenetv2-next-generation-of-on.html](https://research.googleblog.com/2018/04/mobilenetv2-next-generation-of-on.html)
+
+## ShuffleNet
+
+**ShuffleNet: An Extremely Efficient Convolutional Neural Network for Mobile Devices**
+
+- intro: Megvii Inc (Face++)
+- arxiv: [https://arxiv.org/abs/1707.01083](https://arxiv.org/abs/1707.01083)
+
+## ShuffleNet V2
+
+**ShuffleNet V2: Practical Guidelines for Efficient CNN Architecture Design**
+
+- intro: ECCV 2018. Megvii Inc (Face++) & Tsinghua University
+- arxiv: [https://arxiv.org/abs/1807.11164]（https://arxiv.org/abs/1807.11164
 
 ## SENet
 
@@ -1514,6 +1523,11 @@ with fast exact probabilistic inference over many layers."
 **BlockQNN: Efficient Block-wise Neural Network Architecture Generation**
 
 [https://arxiv.org/abs/1808.05584](https://arxiv.org/abs/1808.05584)
+
+**Neural Architecture Search: A Survey**
+
+- intro: Bosch Center for Artificial Intelligence & University of Freiburg
+- arxiv: [https://arxiv.org/abs/1808.05377](https://arxiv.org/abs/1808.05377)
 
 ## Graph Convolutional Networks
 
@@ -2596,6 +2610,11 @@ with fast exact probabilistic inference over many layers."
 **Deep Mixture of Experts via Shallow Embedding**
 
 [https://arxiv.org/abs/1806.01531](https://arxiv.org/abs/1806.01531)
+
+**Learning to Learn from Web Data through Deep Semantic Embeddings**
+
+- intro: ECCV MULA Workshop 2018
+- arxiv: [https://arxiv.org/abs/1808.06368](https://arxiv.org/abs/1808.06368)
 
 ## Regression
 

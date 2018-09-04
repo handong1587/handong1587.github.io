@@ -560,6 +560,16 @@ at INT8 deep learning operations than other FPGA DSP architectures"
 - intro: Oki Electric Industry Co., Ltd
 - arxiv: [https://arxiv.org/abs/1806.05382](https://arxiv.org/abs/1806.05382)
 
+**Soft Filter Pruning for Accelerating Deep Convolutional Neural Networks**
+
+- intro: IJCAI 2018
+- arxiv: [https://arxiv.org/abs/1808.06866](https://arxiv.org/abs/1808.06866)
+- github: [https://github.com/he-y/soft-filter-pruning](https://github.com/he-y/soft-filter-pruning)
+
+**Progressive Deep Neural Networks Acceleration via Soft Filter Pruning**
+
+[https://arxiv.org/abs/1808.07471](https://arxiv.org/abs/1808.07471)
+
 # Quantized Neural Networks
 
 **Quantized Convolutional Neural Networks for Mobile Devices**
@@ -604,6 +614,10 @@ at INT8 deep learning operations than other FPGA DSP architectures"
 
 - intro: IBM Research AI
 - arxiv: [https://arxiv.org/abs/1807.06964](https://arxiv.org/abs/1807.06964)
+
+**Joint Training of Low-Precision Neural Network with Quantization Interval Parameters**
+
+[https://arxiv.org/abs/1808.05779](https://arxiv.org/abs/1808.05779)
 
 # Binary Convolutional Neural Networks / Binarized Neural Networks
 
@@ -676,6 +690,12 @@ at INT8 deep learning operations than other FPGA DSP architectures"
 **Training Compact Neural Networks with Binary Weights and Low Precision Activations**
 
 [https://arxiv.org/abs/1808.02631](https://arxiv.org/abs/1808.02631)
+
+**Training wide residual networks for deployment using a single bit for each weight**
+
+- intro: ICLR 2018
+- arxiv: [https://arxiv.org/abs/1802.08530](https://arxiv.org/abs/1802.08530)
+- github(official, PyTorch): [https://github.com/szagoruyko/binary-wide-resnet](https://github.com/szagoruyko/binary-wide-resnet)
 
 # Accelerating / Fast Algorithms
 

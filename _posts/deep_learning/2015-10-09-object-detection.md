@@ -944,9 +944,16 @@ Continuation of [arXiv:1608.08021](https://arxiv.org/abs/1608.08021)
 
 [https://arxiv.org/abs/1807.08638](https://arxiv.org/abs/1807.08638)
 
+**Acquisition of Localization Confidence for Accurate Object Detection**
+
+- intro: ECCV 2018
+- arxiv: [https://arxiv.org/abs/1807.11590](https://arxiv.org/abs/1807.11590)
+- gihtub: [https://github.com/vacancy/PreciseRoIPooling](https://github.com/vacancy/PreciseRoIPooling)
+
 **CornerNet: Detecting Objects as Paired Keypoints**
 
 - intro: ECCV 2018
+- keywords: IoU-Net, PreciseRoIPooling
 - arxiv: [https://arxiv.org/abs/1808.01244](https://arxiv.org/abs/1808.01244)
 - github: [https://github.com/umich-vl/CornerNet](https://github.com/umich-vl/CornerNet)
 
@@ -958,6 +965,21 @@ Continuation of [arXiv:1608.08021](https://arxiv.org/abs/1608.08021)
 **SAN: Learning Relationship between Convolutional Features for Multi-Scale Object Detection**
 
 [https://arxiv.org/abs/1808.04974](https://arxiv.org/abs/1808.04974)
+
+**A Survey of Modern Object Detection Literature using Deep Learning**
+
+[https://arxiv.org/abs/1808.07256](https://arxiv.org/abs/1808.07256)
+
+**Tiny-DSOD: Lightweight Object Detection for Resource-Restricted Usages**
+
+- intro: BMVC 2018
+- arxiv: [https://arxiv.org/abs/1807.11013](https://arxiv.org/abs/1807.11013)
+- github: [https://github.com/lyxok1/Tiny-DSOD](https://github.com/lyxok1/Tiny-DSOD)
+
+**Deep Feature Pyramid Reconfiguration for Object Detection**
+
+- intro: ECCV 2018
+- arxiv: [https://arxiv.org/abs/1808.07993](https://arxiv.org/abs/1808.07993)
 
 # Non-Maximum Suppression (NMS)
 
@@ -2102,6 +2124,17 @@ This task involves predicting the salient regions of an image given by human eye
 **EL-GAN: Embedding Loss Driven Generative Adversarial Networks for Lane Detection**
 
 [https://arxiv.org/abs/1806.05525](https://arxiv.org/abs/1806.05525)
+
+**Towards End-to-End Lane Detection: an Instance Segmentation Approach**
+
+[https://arxiv.org/abs/1802.05591](https://arxiv.org/abs/1802.05591)
+
+**iCAN: Instance-Centric Attention Network for Human-Object Interaction Detection**
+
+- intro: BMVC 2018
+- project page: [https://gaochen315.github.io/iCAN/](https://gaochen315.github.io/iCAN/)
+- arxiv: [https://arxiv.org/abs/1808.10437](https://arxiv.org/abs/1808.10437)
+- github: [https://github.com/vt-vl-lab/iCAN](https://github.com/vt-vl-lab/iCAN)
 
 # Object Proposal
 

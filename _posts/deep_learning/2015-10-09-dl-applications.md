@@ -848,6 +848,15 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 - intro: ECCV 2018
 - arxiv: [https://arxiv.org/abs/1808.01050](https://arxiv.org/abs/1808.01050)
 
+**Stacked Pooling: Improving Crowd Counting by Boosting Scale Invariance**
+
+- arxiv: [https://arxiv.org/abs/1808.07456](https://arxiv.org/abs/1808.07456)
+- github: [https://github.com/siyuhuang/crowdcount-stackpool](https://github.com/siyuhuang/crowdcount-stackpool)
+
+**In Defense of Single-column Networks for Crowd Counting**
+
+[https://arxiv.org/abs/1808.06133](https://arxiv.org/abs/1808.06133)
+
 # Activity Recognition
 
 **Implementing a CNN for Human Activity Recognition in Tensorflow**
@@ -1235,6 +1244,10 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 **Identifying Recurring Patterns with Deep Neural Networks for Natural Image Denoising**
 
 [https://arxiv.org/abs/1806.05229](https://arxiv.org/abs/1806.05229)
+
+**Class-Aware Fully-Convolutional Gaussian and Poisson Denoising**
+
+[https://arxiv.org/abs/1808.06562](https://arxiv.org/abs/1808.06562)
 
 # Image Haze Removal
 
@@ -1736,6 +1749,10 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 - intro: ECCV 2018
 - arxiv: [https://arxiv.org/abs/1808.00150](https://arxiv.org/abs/1808.00150)
 
+**Rethinking Monocular Depth Estimation with Adversarial Training**
+
+[https://arxiv.org/abs/1808.07528](https://arxiv.org/abs/1808.07528)
+
 # Texture Synthesis
 
 **Texture Synthesis Using Convolutional Neural Networks**
@@ -2058,6 +2075,11 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 **Occlusion Aware Unsupervised Learning of Optical Flow**
 
 [https://arxiv.org/abs/1711.05890](https://arxiv.org/abs/1711.05890)
+
+**Joint Coarse-And-Fine Reasoning for Deep Optical Flow**
+
+- intro: ICIP 2017
+- arxiv: [https://arxiv.org/abs/1808.07416](https://arxiv.org/abs/1808.07416)
 
 **UnFlow: Unsupervised Learning of Optical Flow with a Bidirectional Census Loss**
 

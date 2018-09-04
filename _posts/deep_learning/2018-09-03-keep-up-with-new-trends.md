@@ -9,6 +9,12 @@ date: 2017-12-18
 
 [https://www.youtube.com/channel/UC0n76gicaarsN_Y9YShWwhw/playlists](https://www.youtube.com/channel/UC0n76gicaarsN_Y9YShWwhw/playlists)
 
+# ECCV 2018
+
+**ECCV 2018 papers**
+
+[http://openaccess.thecvf.com/ECCV2018.py](http://openaccess.thecvf.com/ECCV2018.py)
+
 # ICML 2018
 
 **DeepMind papers at ICML 2018**

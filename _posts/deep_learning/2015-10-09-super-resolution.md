@@ -298,6 +298,10 @@ date: 2015-10-09
 
 [https://arxiv.org/abs/1808.03344](https://arxiv.org/abs/1808.03344)
 
+**Improving Super-Resolution Methods via Incremental Residual Learning**
+
+[https://arxiv.org/abs/1808.07110](https://arxiv.org/abs/1808.07110)
+
 ## Video Super-resolution
 
 **Detail-revealing Deep Video Super-resolution**
