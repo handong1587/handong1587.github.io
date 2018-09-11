@@ -166,6 +166,11 @@ date: 2015-10-09
 - intro: ACM MM 2018
 - arxiv: [https://arxiv.org/abs/1808.00288](https://arxiv.org/abs/1808.00288)
 
+**How do Convolutional Neural Networks Learn Design?**
+
+- intro: ICPR 2018
+- arxiv: [https://arxiv.org/abs/1808.08402](https://arxiv.org/abs/1808.08402)
+
 # Massive Classification
 
 **Accelerated Training for Massive Classification via Dynamic Class Selection**

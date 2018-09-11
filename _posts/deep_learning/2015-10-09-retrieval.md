@@ -338,6 +338,11 @@ date: 2015-10-09
 - arxiv: [https://arxiv.org/abs/1805.08587](https://arxiv.org/abs/1805.08587)
 - github: [https://github.com/pangsm0415/HeW](https://github.com/pangsm0415/HeW)
 
+**Single Shot Scene Text Retrieval**
+
+- intro: ECCV 2018
+- arxiv: [https://arxiv.org/abs/1808.09044](https://arxiv.org/abs/1808.09044)
+
 # Hashing
 
 **Supervised Hashing for Image Retrieval via Image Representation Learning**

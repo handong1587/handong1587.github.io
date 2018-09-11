@@ -1948,6 +1948,11 @@ This task involves predicting the salient regions of an image given by human eye
 - intro: IEEE Transactions on Intelligent Transportation Systems (T-ITS)
 - arxiv: [https://arxiv.org/abs/1804.00433](https://arxiv.org/abs/1804.00433)
 
+**Label and Sample: Efficient Training of Vehicle Object Detector from Sparsely Labeled Data**
+
+- intro: UC Berkeley
+- arxiv: [https://arxiv.org/abs/1808.08603](https://arxiv.org/abs/1808.08603)
+
 # Traffic-Sign Detection
 
 **Traffic-Sign Detection and Classification in the Wild**

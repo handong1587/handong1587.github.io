@@ -182,9 +182,17 @@ date: 2015-10-09
 
 [https://arxiv.org/abs/1807.11886](https://arxiv.org/abs/1807.11886)
 
+<<<<<<< HEAD
 **Deep Smoke Segmentation**
 
 [https://arxiv.org/abs/1809.00774](https://arxiv.org/abs/1809.00774)
+=======
+**Smoothed Dilated Convolutions for Improved Dense Prediction**
+
+- intro: KDD 2018
+- arxiv: [https://arxiv.org/abs/1808.08931](https://arxiv.org/abs/1808.08931)
+- github: [https://github.com/divelab/dilated](https://github.com/divelab/dilated)
+>>>>>>> 20aba78597a2a9be775ca826b2707308d05f1804
 
 # Foreground Object Segmentation
 
@@ -1040,8 +1048,9 @@ with built-in awareness of semantically meaningful boundaries. "
 
 **Path Aggregation Network for Instance Segmentation**
 
-- intro: CVPR 2018
+- intro: CVPR 2018 Spotlight
 - arxiv: [https://arxiv.org/abs/1803.01534](https://arxiv.org/abs/1803.01534)
+- github: [https://github.com/ShuLiu1993/PANet](https://github.com/ShuLiu1993/PANet)
 
 **Learning to Segment via Cut-and-Paste**
 
