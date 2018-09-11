@@ -773,6 +773,10 @@ at INT8 deep learning operations than other FPGA DSP architectures"
 - intro: UC Berkeley & Samsung Research
 - arxiv: [https://arxiv.org/abs/1804.10642](https://arxiv.org/abs/1804.10642)
 
+**FPGA Implementation of Convolutional Neural Networks with Fixed-Point Calculations**
+
+[https://arxiv.org/abs/1808.09945](https://arxiv.org/abs/1808.09945)
+
 # Knowledge Distilling / Knowledge Transfer
 
 **Distilling the Knowledge in a Neural Network**

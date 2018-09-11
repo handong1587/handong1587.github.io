@@ -2321,6 +2321,18 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 
 [https://arxiv.org/abs/1703.07431](https://arxiv.org/abs/1703.07431)
 
+# Human-Object Interaction
+
+**Learning Human-Object Interactions by Graph Parsing Neural Networks**
+
+- intro: ECCV 2018
+- arxiv: [https://arxiv.org/abs/1808.07962](https://arxiv.org/abs/1808.07962)
+- github: [https://github.com/SiyuanQi/gpnn](https://github.com/SiyuanQi/gpnn)
+
+**Interact as You Intend: Intention-Driven Human-Object Interaction Detection**
+
+[https://arxiv.org/abs/1808.09796](https://arxiv.org/abs/1808.09796)
+
 # Deep Learning in Finance
 
 **Deep Learning in Finance**

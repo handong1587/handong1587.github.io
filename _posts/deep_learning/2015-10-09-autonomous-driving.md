@@ -163,6 +163,10 @@ joint classification, detection and semantic segmentation via a unified architec
 - intro: Duke University & Horizon Robotics, Inc.
 - arxiv: [https://arxiv.org/abs/1807.01726](https://arxiv.org/abs/1807.01726)
 
+**Learning End-to-end Autonomous Driving using Guided Auxiliary Supervision**
+
+[https://arxiv.org/abs/1808.10393](https://arxiv.org/abs/1808.10393)
+
 # Projects
 
 **Caffe-Autopilot: Car autopilot software that uses C++, BVLC Caffe, OpenCV, and SFML**
