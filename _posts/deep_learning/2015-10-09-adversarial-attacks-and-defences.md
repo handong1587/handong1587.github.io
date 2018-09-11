@@ -338,3 +338,16 @@ date: 2015-10-09
 **Defense Against Adversarial Attacks with Saak Transform**
 
 [https://arxiv.org/abs/1808.01785](https://arxiv.org/abs/1808.01785)
+
+**Are adversarial examples inevitable?**
+
+[https://arxiv.org/abs/1809.02104](https://arxiv.org/abs/1809.02104)
+
+**Open Set Adversarial Examples**
+
+[https://arxiv.org/abs/1809.02681](https://arxiv.org/abs/1809.02681)
+
+**Towards Query Efficient Black-box Attacks: An Input-free Perspective**
+
+- intro: 11th ACM Workshop on Artificial Intelligence and Security (AISec) with the 25th ACM Conference on Computer and Communications Security (CCS)
+- arxiv: [https://arxiv.org/abs/1809.02918](https://arxiv.org/abs/1809.02918)

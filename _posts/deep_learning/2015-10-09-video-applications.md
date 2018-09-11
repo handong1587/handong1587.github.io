@@ -936,6 +936,10 @@ alleviates the problem of video browsing, editing and indexing.
 
 [https://arxiv.org/abs/1712.04851](https://arxiv.org/abs/1712.04851)
 
+**Hierarchical Video Understanding**
+
+[https://arxiv.org/abs/1809.03316](https://arxiv.org/abs/1809.03316)
+
 # Challenges
 
 **THUMOS Challenge 2014**

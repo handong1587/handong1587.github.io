@@ -182,6 +182,10 @@ date: 2015-10-09
 
 [https://arxiv.org/abs/1807.11886](https://arxiv.org/abs/1807.11886)
 
+**Deep Smoke Segmentation**
+
+[https://arxiv.org/abs/1809.00774](https://arxiv.org/abs/1809.00774)
+
 # Foreground Object Segmentation
 
 **Pixel Objectness**
@@ -838,6 +842,10 @@ with built-in awareness of semantically meaningful boundaries. "
 - intro: ECCV 2018
 - arxiv: [https://arxiv.org/abs/1808.00897](https://arxiv.org/abs/1808.00897)
 
+**Dual Attention Network for Scene Segmentation**
+
+[https://arxiv.org/abs/1809.02983](https://arxiv.org/abs/1809.02983)
+
 # Instance Segmentation
 
 **Simultaneous Detection and Segmentation**
@@ -1251,6 +1259,12 @@ ranked 1st place in ImageNet Scene Parsing Challenge 2016
 - paper: [http://openaccess.thecvf.com/content_cvpr_2018/papers/Yang_DenseASPP_for_Semantic_CVPR_2018_paper.pdf](http://openaccess.thecvf.com/content_cvpr_2018/papers/Yang_DenseASPP_for_Semantic_CVPR_2018_paper.pdf)
 - github: [https://github.com/DeepMotionAIResearch/DenseASPP](https://github.com/DeepMotionAIResearch/DenseASPP)
 
+**OCNet: Object Context Network for Scene Parsing**
+
+- intro: Microsoft Research
+- arxiv: [https://arxiv.org/abs/1809.00916](https://arxiv.org/abs/1809.00916)
+- github: [https://github.com/PkuRainBow/OCNet](https://github.com/PkuRainBow/OCNet)
+
 ## Benchmarks
 
 **MIT Scene Parsing Benchmark**
@@ -1447,7 +1461,7 @@ ranked 1st place in ImageNet Scene Parsing Challenge 2016
 
 **Video Object Segmentation with Joint Re-identification and Attention-Aware Mask Propagation**
 
-- intro: CUHK
+- intro: ECCV 2018. CUHK
 - arxiv: [https://arxiv.org/abs/1803.04242](https://arxiv.org/abs/1803.04242)
 
 **Video Object Segmentation with Language Referring Expressions**
@@ -1504,6 +1518,17 @@ ranked 1st place in ImageNet Scene Parsing Challenge 2016
 **DAVIS Challenge on Video Object Segmentation 2017**
 
 [http://davischallenge.org/challenge2017/publications.html](http://davischallenge.org/challenge2017/publications.html)
+
+**YouTube-VOS: Sequence-to-Sequence Video Object Segmentation**
+
+- intro: ECCV 2018. Adobe Research & Snapchat Research & UIUC
+- project page:[https://youtube-vos.org/](https://youtube-vos.org/)
+- arxiv: [https://arxiv.org/abs/1809.00461](https://arxiv.org/abs/1809.00461)
+
+**VideoMatch: Matching based Video Object Segmentation**
+
+- intro: ECCV 2018
+- arxiv: [https://arxiv.org/abs/1809.01123](https://arxiv.org/abs/1809.01123)
 
 # Projects
 

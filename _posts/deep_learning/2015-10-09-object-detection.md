@@ -312,6 +312,7 @@ date: 2015-10-09
 **YOLOv3: An Incremental Improvement**
 
 - project page: [https://pjreddie.com/darknet/yolo/](https://pjreddie.com/darknet/yolo/)
+- paper: [https://pjreddie.com/media/files/papers/YOLOv3.pdf](https://pjreddie.com/media/files/papers/YOLOv3.pdf)
 - arxiv: [https://arxiv.org/abs/1804.02767](https://arxiv.org/abs/1804.02767)
 
 - - -
@@ -981,6 +982,19 @@ Continuation of [arXiv:1608.08021](https://arxiv.org/abs/1608.08021)
 - intro: ECCV 2018
 - arxiv: [https://arxiv.org/abs/1808.07993](https://arxiv.org/abs/1808.07993)
 
+**MDCN: Multi-Scale, Deep Inception Convolutional Neural Networks for Efficient Object Detection**
+
+- intro: ICPR 2018
+- arxiv: [https://arxiv.org/abs/1809.01791](https://arxiv.org/abs/1809.01791)
+
+**Recent Advances in Object Detection in the Age of Deep Convolutional Neural Networks**
+
+[https://arxiv.org/abs/1809.03193](https://arxiv.org/abs/1809.03193)
+
+**Deep Learning for Generic Object Detection: A Survey**
+
+[https://arxiv.org/abs/1809.02165](https://arxiv.org/abs/1809.02165)
+
 # Non-Maximum Suppression (NMS)
 
 **End-to-End Integration of a Convolutional Network, Deformable Parts Model and Non-Maximum Suppression**
@@ -1165,6 +1179,10 @@ Continuation of [arXiv:1608.08021](https://arxiv.org/abs/1608.08021)
 - project page: [http://mmlab.ie.cuhk.edu.hk/projects/ST-Lattice/](http://mmlab.ie.cuhk.edu.hk/projects/ST-Lattice/)
 - arxiv: [https://arxiv.org/abs/1804.05472](https://arxiv.org/abs/1804.05472)
 - github: [https://github.com/hellock/scale-time-lattice](https://github.com/hellock/scale-time-lattice)
+
+**Pack and Detect: Fast Object Detection in Videos Using Region-of-Interest Packing**
+
+[https://arxiv.org/abs/1809.01701](https://arxiv.org/abs/1809.01701)
 
 # Object Detection on Mobile Devices
 
@@ -1734,6 +1752,10 @@ This task involves predicting the salient regions of an image given by human eye
 **Detecting Heads using Feature Refine Net and Cascaded Multi-scale Architecture**
 
 [https://arxiv.org/abs/1803.09256](https://arxiv.org/abs/1803.09256)
+
+**A Comparison of CNN-based Face and Head Detectors for Real-Time Video Surveillance Applications**
+
+[https://arxiv.org/abs/1809.03336](https://arxiv.org/abs/1809.03336)
 
 # Pedestrian Detection / People Detection
 

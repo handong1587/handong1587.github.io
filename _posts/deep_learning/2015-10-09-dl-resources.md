@@ -2592,6 +2592,11 @@ with fast exact probabilistic inference over many layers."
 - intro: CMU
 - arxiv: [https://arxiv.org/abs/1805.07641](https://arxiv.org/abs/1805.07641)
 
+**Multi-Adversarial Domain Adaptation**
+
+- intro: AAAI 2018 Oral.
+- arxiv: [https://arxiv.org/abs/1809.02176](https://arxiv.org/abs/1809.02176)
+
 ## Embedding
 
 **Learning Deep Embeddings with Histogram Loss**

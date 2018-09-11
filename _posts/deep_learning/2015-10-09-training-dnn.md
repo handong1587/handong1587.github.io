@@ -351,6 +351,10 @@ date: 2015-10-09
 
 - blog: [https://blog.paperspace.com/busting-the-myths-about-batch-normalization/](https://blog.paperspace.com/busting-the-myths-about-batch-normalization/)
 
+**Understanding Regularization in Batch Normalization**
+
+[https://arxiv.org/abs/1809.00846](https://arxiv.org/abs/1809.00846)
+
 ### Backward pass of BN
 
 **Understanding the backward pass through Batch Normalization Layer**
@@ -826,6 +830,11 @@ date: 2015-10-09
 - arxiv: [https://arxiv.org/abs/1805.08000](https://arxiv.org/abs/1805.08000)
 - github: [https://github.com/youzhonghui/ANL](https://github.com/youzhonghui/ANL)
 
+**Deep Bilevel Learning**
+
+- intro: ECCV 2018
+- arxiv: [https://arxiv.org/abs/1809.01465](https://arxiv.org/abs/1809.01465)
+
 ## Dropout
 
 **Improving neural networks by preventing co-adaptation of feature detectors**
@@ -932,6 +941,10 @@ date: 2015-10-09
 - intro: Rutgers University
 - arxiv: [https://arxiv.org/abs/1808.03578](https://arxiv.org/abs/1808.03578)
 - github: [https://github.com/noahfl/densenet-sdr/](https://github.com/noahfl/densenet-sdr/)
+
+**Data Dropout: Optimizing Training Data for Convolutional Neural Networks**
+
+[https://arxiv.org/abs/1809.00193](https://arxiv.org/abs/1809.00193)
 
 ## DropConnect
 

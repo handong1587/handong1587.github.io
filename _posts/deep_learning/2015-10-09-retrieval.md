@@ -577,6 +577,15 @@ date: 2015-10-09
 
 [https://arxiv.org/abs/1808.01942](https://arxiv.org/abs/1808.01942)
 
+**Deep Priority Hashing**
+
+- intro: ACM MM 2018 Poster
+- arxiv: [https://arxiv.org/abs/1809.01238](https://arxiv.org/abs/1809.01238)
+
+**Neurons Merging Layer: Towards Progressive Redundancy Reduction for Deep Supervised Hashing**
+
+[https://arxiv.org/abs/1809.02302](https://arxiv.org/abs/1809.02302)
+
 # Cross Modal Retrieval
 
 **Cross-domain Image Retrieval with a Dual Attribute-aware Ranking Network**

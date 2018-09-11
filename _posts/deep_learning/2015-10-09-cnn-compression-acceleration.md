@@ -511,6 +511,15 @@ at INT8 deep learning operations than other FPGA DSP architectures"
 
 [https://arxiv.org/abs/1808.05240](https://arxiv.org/abs/1808.05240)
 
+**Learning Low Precision Deep Neural Networks through Regularization**
+
+[https://arxiv.org/abs/1809.00095](https://arxiv.org/abs/1809.00095)
+
+**ChannelNets: Compact and Efficient Convolutional Neural Networks via Channel-Wise Convolutions**
+
+- intro: NIPS 2018
+- arxiv: [https://arxiv.org/abs/1809.01330](https://arxiv.org/abs/1809.01330)
+
 # Pruning
 
 **ThiNet: A Filter Level Pruning Method for Deep Neural Network Compression**
@@ -772,6 +781,14 @@ at INT8 deep learning operations than other FPGA DSP architectures"
 
 - intro: UC Berkeley & Samsung Research
 - arxiv: [https://arxiv.org/abs/1804.10642](https://arxiv.org/abs/1804.10642)
+
+**Towards Efficient Convolutional Neural Network for Domain-Specific Applications on FPGA**
+
+[https://arxiv.org/abs/1809.03318](https://arxiv.org/abs/1809.03318)
+
+**Accelerating Deep Neural Networks with Spatial Bottleneck Modules**
+
+[https://arxiv.org/abs/1809.02601](https://arxiv.org/abs/1809.02601)
 
 # Knowledge Distilling / Knowledge Transfer
 

@@ -857,6 +857,11 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 
 [https://arxiv.org/abs/1808.06133](https://arxiv.org/abs/1808.06133)
 
+**Attentive Crowd Flow Machines**
+
+- intro: ACM MM, full paper
+- arxiv: [https://arxiv.org/abs/1809.00101](https://arxiv.org/abs/1809.00101)
+
 # Activity Recognition
 
 **Implementing a CNN for Human Activity Recognition in Tensorflow**
@@ -1248,6 +1253,12 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 **Class-Aware Fully-Convolutional Gaussian and Poisson Denoising**
 
 [https://arxiv.org/abs/1808.06562](https://arxiv.org/abs/1808.06562)
+
+**Connecting Image Denoising and High-Level Vision Tasks via Deep Learning**
+
+- intro: IJCAI 2018
+- arxiv: [https://arxiv.org/abs/1809.01826](https://arxiv.org/abs/1809.01826)
+- github: [https://github.com/Ding-Liu/DeepDenoising](https://github.com/Ding-Liu/DeepDenoising)
 
 # Image Haze Removal
 
@@ -1655,6 +1666,11 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 - intro: SIGGRAPH 2018
 - arxiv: [https://arxiv.org/abs/1805.11714](https://arxiv.org/abs/1805.11714)
 - youtube: [https://www.youtube.com/watch?v=qc5P2bvfl44](https://www.youtube.com/watch?v=qc5P2bvfl44)
+
+**Semantic Human Matting**
+
+- intro: ACM Multimedia 2018
+- arxiv: [https://arxiv.org/abs/1809.01354](https://arxiv.org/abs/1809.01354)
 
 # Image Blending
 
