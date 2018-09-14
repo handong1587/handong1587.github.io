@@ -1710,6 +1710,10 @@ This task involves predicting the salient regions of an image given by human eye
 - intro: IEEE MMSP
 - arxiv: [https://arxiv.org/abs/1805.12302](https://arxiv.org/abs/1805.12302)
 
+**Selective Refinement Network for High Performance Face Detection**
+
+[https://arxiv.org/abs/1809.02693](https://arxiv.org/abs/1809.02693)
+
 ## Detect Small Faces
 
 **Finding Tiny Faces**

@@ -302,6 +302,17 @@ date: 2015-10-09
 
 [https://arxiv.org/abs/1808.07110](https://arxiv.org/abs/1808.07110)
 
+**Deep Learning-based Image Super-Resolution Considering Quantitative and Perceptual Quality**
+
+- intro: Won the 2nd place for Region 2 in the PIRM Challenge on Perceptual Super Resolution at ECCV 2018
+- arxiv: [https://arxiv.org/abs/1809.04789](https://arxiv.org/abs/1809.04789)
+- github: [https://github.com/idearibosome/tf-perceptual-eusr](https://github.com/idearibosome/tf-perceptual-eusr)
+
+**Generative adversarial network-based image super-resolution using perceptual content losses**
+
+- intro: Won the 2nd place for Region 1 in the PIRM Challenge on Perceptual Super Resolution at ECCV 2018
+- arxiv: [https://arxiv.org/abs/1809.04783](https://arxiv.org/abs/1809.04783)
+
 ## Video Super-resolution
 
 **Detail-revealing Deep Video Super-resolution**

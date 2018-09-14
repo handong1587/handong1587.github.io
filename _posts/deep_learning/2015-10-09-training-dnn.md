@@ -395,6 +395,7 @@ date: 2015-10-09
 
 **Group Normalization**
 
+- intro: ECCV 2018 Best Paper Award Honorable Mention
 - intro: Facebook AI Research (FAIR)
 - arxiv: [https://arxiv.org/abs/1803.08494](https://arxiv.org/abs/1803.08494)
 

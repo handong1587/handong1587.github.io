@@ -1529,6 +1529,11 @@ with fast exact probabilistic inference over many layers."
 - intro: Bosch Center for Artificial Intelligence & University of Freiburg
 - arxiv: [https://arxiv.org/abs/1808.05377](https://arxiv.org/abs/1808.05377)
 
+**Searching for Efficient Multi-Scale Architectures for Dense Image Prediction**
+
+- intro: NIPS 2018. Google Inc.
+- arxiv: [https://arxiv.org/abs/1809.04184](https://arxiv.org/abs/1809.04184)
+
 ## Graph Convolutional Networks
 
 **Learning Convolutional Neural Networks for Graphs**
@@ -2620,6 +2625,10 @@ with fast exact probabilistic inference over many layers."
 
 - intro: ECCV MULA Workshop 2018
 - arxiv: [https://arxiv.org/abs/1808.06368](https://arxiv.org/abs/1808.06368)
+
+**Heated-Up Softmax Embedding**
+
+[https://arxiv.org/abs/1809.04157](https://arxiv.org/abs/1809.04157)
 
 ## Regression
 

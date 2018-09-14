@@ -854,6 +854,10 @@ with built-in awareness of semantically meaningful boundaries. "
 
 [https://arxiv.org/abs/1809.02983](https://arxiv.org/abs/1809.02983)
 
+**Real-Time Joint Semantic Segmentation and Depth Estimation Using Asymmetric Annotations**
+
+[https://arxiv.org/abs/1809.04766](https://arxiv.org/abs/1809.04766)
+
 # Instance Segmentation
 
 **Simultaneous Detection and Segmentation**
@@ -1097,6 +1101,17 @@ with built-in awareness of semantically meaningful boundaries. "
 **Bounding Box Embedding for Single Shot Person Instance Segmentation**
 
 [https://arxiv.org/abs/1807.07674](https://arxiv.org/abs/1807.07674)
+
+# Panoptic Segmentation
+
+**Panoptic Segmentation**
+
+- intro: Facebook AI Research (FAIR) & Heidelberg University
+- arxiv: [https://arxiv.org/abs/1801.00868](https://arxiv.org/abs/1801.00868)
+
+**Panoptic Segmentation with a Joint Semantic and Instance Segmentation Network**
+
+[https://arxiv.org/abs/1809.02110](https://arxiv.org/abs/1809.02110)
 
 # Specific Segmentation
 
@@ -1457,11 +1472,6 @@ ranked 1st place in ImageNet Scene Parsing Challenge 2016
 - intro: University of Southern California & Google Inc
 - arxiv: [https://arxiv.org/abs/1801.00908](https://arxiv.org/abs/1801.00908)
 - blog: [https://medium.com/@barvinograd1/instance-embedding-instance-segmentation-without-proposals-31946a7c53e1](https://medium.com/@barvinograd1/instance-embedding-instance-segmentation-without-proposals-31946a7c53e1)
-
-**Panoptic Segmentation**
-
-- intro: Facebook AI Research (FAIR) & Heidelberg University
-- arxiv: [https://arxiv.org/abs/1801.00868](https://arxiv.org/abs/1801.00868)
 
 **Efficient Video Object Segmentation via Network Modulation**
 

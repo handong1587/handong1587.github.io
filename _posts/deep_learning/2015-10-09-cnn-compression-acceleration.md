@@ -256,11 +256,6 @@ while maintaining state-of-the-art accuracy. For GoogLeNet, our model has 7% few
 - intro: NIPS Workshop on Efficient Methods for Deep Neural Networks (EMDNN), 2016
 - arxiv: [http://arxiv.org/abs/1608.08710](http://arxiv.org/abs/1608.08710)
 
-**Accelerating Deep Convolutional Networks using low-precision and sparsity**
-
-- intro: Intel Labs
-- arxiv: [https://arxiv.org/abs/1610.00324](https://arxiv.org/abs/1610.00324)
-
 **Fixed-point Factorized Networks**
 
 - arxiv: [https://arxiv.org/abs/1611.01972](https://arxiv.org/abs/1611.01972)
@@ -323,11 +318,6 @@ at INT8 deep learning operations than other FPGA DSP architectures"
 - intro: CMU & Universitat Paderborn]
 - arxiv: [https://arxiv.org/abs/1701.04465](https://arxiv.org/abs/1701.04465)
 
-**Deep Learning with Low Precision by Half-wave Gaussian Quantization**
-
-- intro: HWGQ-Net
-- arxiv: [https://arxiv.org/abs/1702.00953](https://arxiv.org/abs/1702.00953)
-
 **DL-gleaning: An Approach For Improving Inference Speed And Accuracy**
 
 - intro: Electronics Telecommunications Research Institute (ETRI)
@@ -337,11 +327,6 @@ at INT8 deep learning operations than other FPGA DSP architectures"
 
 - intro: Middle East Technical University & Bilkent University
 - arxiv: [https://arxiv.org/abs/1702.02676](https://arxiv.org/abs/1702.02676)
-
-**Incremental Network Quantization: Towards Lossless CNNs with Low-Precision Weights**
-
-- intro: ICLR 2017
-- arxiv: [https://arxiv.org/abs/1702.03044](https://arxiv.org/abs/1702.03044)
 
 **Soft Weight-Sharing for Neural Network Compression**
 
@@ -363,10 +348,6 @@ at INT8 deep learning operations than other FPGA DSP architectures"
 
 [https://arxiv.org/abs/1704.01137](https://arxiv.org/abs/1704.01137)
 
-**Incremental Network Quantization: Towards Lossless CNNs with Low-precision Weights**
-
-[https://openreview.net/forum?id=HyQJ-mclg&noteId=HyQJ-mclg](https://openreview.net/forum?id=HyQJ-mclg&noteId=HyQJ-mclg)
-
 **Bayesian Compression for Deep Learning**
 
 [https://arxiv.org/abs/1705.08665](https://arxiv.org/abs/1705.08665)
@@ -385,11 +366,6 @@ at INT8 deep learning operations than other FPGA DSP architectures"
 - intro: The University of Iowa & Snap Research
 - arxiv: [https://arxiv.org/abs/1706.03912](https://arxiv.org/abs/1706.03912)
 
-**ShiftCNN: Generalized Low-Precision Architecture for Inference of Convolutional Neural Networks**
-
-- arxiv: [https://arxiv.org/abs/1706.02393](https://arxiv.org/abs/1706.02393)
-- github: [https://github.com/gudovskiy/ShiftCNN](https://github.com/gudovskiy/ShiftCNN)
-
 **MEC: Memory-efficient Convolution for Deep Neural Network**
 
 - intro: ICML 2017
@@ -399,20 +375,9 @@ at INT8 deep learning operations than other FPGA DSP architectures"
 
 [https://arxiv.org/abs/1707.01213](https://arxiv.org/abs/1707.01213)
 
-**Extremely Low Bit Neural Network: Squeeze the Last Bit Out with ADMM**
-
-- intro: Alibaba Group
-- keywords: alternating direction method of multipliers (ADMM)
-- arxiv: [https://arxiv.org/abs/1707.09870](https://arxiv.org/abs/1707.09870)
-
 **An End-to-End Compression Framework Based on Convolutional Neural Networks**
 
 [https://arxiv.org/abs/1708.00838](https://arxiv.org/abs/1708.00838)
-
-**Learning Accurate Low-Bit Deep Neural Networks with Stochastic Quantization**
-
-- intro: BMVC 2017 Oral
-- arxiv: [https://arxiv.org/abs/1708.01001](https://arxiv.org/abs/1708.01001)
 
 **Domain-adaptive deep network compression**
 
@@ -423,11 +388,6 @@ at INT8 deep learning operations than other FPGA DSP architectures"
 **Binary-decomposed DCNN for accelerating computation and compressing model without retraining**
 
 [https://arxiv.org/abs/1709.04731](https://arxiv.org/abs/1709.04731)
-
-**Compressing Low Precision Deep Neural Networks Using Sparsity-Induced Regularization in Ternary Networks**
-
-- intro: ICONIP 2017
-- arxiv: [https://arxiv.org/abs/1709.06262](https://arxiv.org/abs/1709.06262)
 
 **Improving Efficiency in Convolutional Neural Network with Multilinear Filters**
 
@@ -511,10 +471,6 @@ at INT8 deep learning operations than other FPGA DSP architectures"
 
 [https://arxiv.org/abs/1808.05240](https://arxiv.org/abs/1808.05240)
 
-**Learning Low Precision Deep Neural Networks through Regularization**
-
-[https://arxiv.org/abs/1809.00095](https://arxiv.org/abs/1809.00095)
-
 **ChannelNets: Compact and Efficient Convolutional Neural Networks via Channel-Wise Convolutions**
 
 - intro: NIPS 2018
@@ -578,6 +534,53 @@ at INT8 deep learning operations than other FPGA DSP architectures"
 **Progressive Deep Neural Networks Acceleration via Soft Filter Pruning**
 
 [https://arxiv.org/abs/1808.07471](https://arxiv.org/abs/1808.07471)
+
+# Low-Precision Networks
+
+**Accelerating Deep Convolutional Networks using low-precision and sparsity**
+
+- intro: Intel Labs
+- arxiv: [https://arxiv.org/abs/1610.00324](https://arxiv.org/abs/1610.00324)
+
+**Deep Learning with Low Precision by Half-wave Gaussian Quantization**
+
+- intro: HWGQ-Net
+- arxiv: [https://arxiv.org/abs/1702.00953](https://arxiv.org/abs/1702.00953)
+
+**Incremental Network Quantization: Towards Lossless CNNs with Low-Precision Weights**
+
+- intro: ICLR 2017
+- arxiv: [https://arxiv.org/abs/1702.03044](https://arxiv.org/abs/1702.03044)
+- openreview: [https://openreview.net/forum?id=HyQJ-mclg&noteId=HyQJ-mclg](https://openreview.net/forum?id=HyQJ-mclg&noteId=HyQJ-mclg)
+
+**ShiftCNN: Generalized Low-Precision Architecture for Inference of Convolutional Neural Networks**
+
+- arxiv: [https://arxiv.org/abs/1706.02393](https://arxiv.org/abs/1706.02393)
+- github: [https://github.com/gudovskiy/ShiftCNN](https://github.com/gudovskiy/ShiftCNN)
+
+**Extremely Low Bit Neural Network: Squeeze the Last Bit Out with ADMM**
+
+- intro: Alibaba Group
+- keywords: alternating direction method of multipliers (ADMM)
+- arxiv: [https://arxiv.org/abs/1707.09870](https://arxiv.org/abs/1707.09870)
+
+**Learning Accurate Low-Bit Deep Neural Networks with Stochastic Quantization**
+
+- intro: BMVC 2017 Oral
+- arxiv: [https://arxiv.org/abs/1708.01001](https://arxiv.org/abs/1708.01001)
+
+**Compressing Low Precision Deep Neural Networks Using Sparsity-Induced Regularization in Ternary Networks**
+
+- intro: ICONIP 2017
+- arxiv: [https://arxiv.org/abs/1709.06262](https://arxiv.org/abs/1709.06262)
+
+**Learning Low Precision Deep Neural Networks through Regularization**
+
+[https://arxiv.org/abs/1809.00095](https://arxiv.org/abs/1809.00095)
+
+**Discovering Low-Precision Networks Close to Full-Precision Networks for Efficient Embedded Inference**
+
+[https://arxiv.org/abs/1809.04191](https://arxiv.org/abs/1809.04191)
 
 # Quantized Neural Networks
 
