@@ -1260,7 +1260,7 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 - arxiv: [https://arxiv.org/abs/1809.01826](https://arxiv.org/abs/1809.01826)
 - github: [https://github.com/Ding-Liu/DeepDenoising](https://github.com/Ding-Liu/DeepDenoising)
 
-# Image Haze Removal
+# Image Dehazing / Image Haze Removal
 
 **DehazeNet: An End-to-End System for Single Image Haze Removal**
 
@@ -1338,6 +1338,10 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 
 - intro: CVCS 2018
 - arxiv: [https://arxiv.org/abs/1806.10923](https://arxiv.org/abs/1806.10923)
+
+**Generic Model-Agnostic Convolutional Neural Network for Single Image Dehazing**
+
+[https://arxiv.org/abs/1810.02862](https://arxiv.org/abs/1810.02862)
 
 # Image Rain Removal / De-raining
 
@@ -2086,7 +2090,10 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 
 **PWC-Net: CNNs for Optical Flow Using Pyramid, Warping, and Cost Volume**
 
-[https://arxiv.org/abs/1709.02371](https://arxiv.org/abs/1709.02371)
+- intro: CVPR 2018
+- project page: [https://research.nvidia.com/publication/2018-02_PWC-Net:-CNNs-for](https://research.nvidia.com/publication/2018-02_PWC-Net:-CNNs-for)
+- arxiv: [https://arxiv.org/abs/1709.02371](https://arxiv.org/abs/1709.02371)
+- github: [https://github.com/NVlabs/PWC-Net](https://github.com/NVlabs/PWC-Net)
 
 **Occlusion Aware Unsupervised Learning of Optical Flow**
 

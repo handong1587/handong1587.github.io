@@ -591,6 +591,10 @@ date: 2015-10-09
 
 [https://arxiv.org/abs/1809.02302](https://arxiv.org/abs/1809.02302)
 
+**Deep LDA Hashing**
+
+[https://arxiv.org/abs/1810.03402](https://arxiv.org/abs/1810.03402)
+
 # Cross Modal Retrieval
 
 **Cross-domain Image Retrieval with a Dual Attribute-aware Ranking Network**

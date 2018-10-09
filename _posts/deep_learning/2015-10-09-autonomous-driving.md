@@ -167,6 +167,16 @@ joint classification, detection and semantic segmentation via a unified architec
 
 [https://arxiv.org/abs/1808.10393](https://arxiv.org/abs/1808.10393)
 
+**Rethinking Self-driving: Multi-task Knowledge for Better Generalization and Accident Explanation Ability**
+
+- intro: Waseda University
+- arxiv: [https://arxiv.org/abs/1809.11100](https://arxiv.org/abs/1809.11100)
+- demo: [https://www.youtube.com/watch?v=N7ePnnZZwdE](https://www.youtube.com/watch?v=N7ePnnZZwdE)
+
+**Pixel and Feature Level Based Domain Adaption for Object Detection in Autonomous Driving**
+
+[https://arxiv.org/abs/1810.00345](https://arxiv.org/abs/1810.00345)
+
 # Projects
 
 **Caffe-Autopilot: Car autopilot software that uses C++, BVLC Caffe, OpenCV, and SFML**

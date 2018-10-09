@@ -52,6 +52,10 @@ date: 2017-12-18
 - youtube: [https://www.youtube.com/playlist?list=PL_bDvITUYucD54Ym5XKGqTv9xNsrOX0aS](https://www.youtube.com/playlist?list=PL_bDvITUYucD54Ym5XKGqTv9xNsrOX0aS)
 - bilibili: [https://www.bilibili.com/video/av27038992/](https://www.bilibili.com/video/av27038992/)
 
+# VALSE 2018
+
+[http://ice.dlut.edu.cn/valse2018/programs.html](http://ice.dlut.edu.cn/valse2018/programs.html)
+
 # NIPS 2017
 
 **NIPS 2017 Spotlights**

@@ -709,6 +709,10 @@ Continuation of [arXiv:1608.08021](https://arxiv.org/abs/1608.08021)
 - arxiv: [https://arxiv.org/abs/1708.01241](https://arxiv.org/abs/1708.01241)
 - github: [https://github.com/szq0214/DSOD](https://github.com/szq0214/DSOD)
 
+**Object Detection from Scratch with Deep Supervision**
+
+[https://arxiv.org/abs/1809.09294](https://arxiv.org/abs/1809.09294)
+
 ## RetinaNet
 
 **Focal Loss for Dense Object Detection**
@@ -887,6 +891,10 @@ Continuation of [arXiv:1608.08021](https://arxiv.org/abs/1608.08021)
 
 [https://arxiv.org/abs/1806.02299](https://arxiv.org/abs/1806.02299)
 
+**Attacking Object Detectors via Imperceptible Patches on Background**
+
+[https://arxiv.org/abs/1809.05966](https://arxiv.org/abs/1809.05966)
+
 **Physical Adversarial Examples for Object Detectors**
 
 - intro: WOOT 2018
@@ -1015,6 +1023,12 @@ Continuation of [arXiv:1608.08021](https://arxiv.org/abs/1608.08021)
 - keywords: Soft-NMS
 - arxiv: [https://arxiv.org/abs/1704.04503](https://arxiv.org/abs/1704.04503)
 - github: [https://github.com/bharatsingh430/soft-nms](https://github.com/bharatsingh430/soft-nms)
+
+**Softer-NMS: Rethinking Bounding Box Regression for Accurate Object Detection**
+
+- intro: CMU & Megvii Inc. (Face++)
+- arxiv: [https://arxiv.org/abs/1809.08545](https://arxiv.org/abs/1809.08545)
+- github: [https://github.com/yihui-he/softer-NMS](https://github.com/yihui-he/softer-NMS)
 
 **Learning non-maximum suppression**
 
@@ -1203,6 +1217,11 @@ Continuation of [arXiv:1608.08021](https://arxiv.org/abs/1608.08021)
 
 - intro: Valeo Schalter und Sensoren GmbH & Ilmenau University of Technology
 - arxiv: [https://arxiv.org/abs/1803.06199](https://arxiv.org/abs/1803.06199)
+
+**Focal Loss in 3D Object Detection**
+
+- arxiv: [https://arxiv.org/abs/1809.06065](https://arxiv.org/abs/1809.06065)
+- github: [https://github.com/pyun-ram/FL3D](https://github.com/pyun-ram/FL3D)
 
 # Object Detection on RGB-D
 
@@ -1495,6 +1514,16 @@ This task involves predicting the salient regions of an image given by human eye
 - intro: Detect pairs of objects in particular relationships
 - kaggle: [https://www.kaggle.com/c/google-ai-open-images-visual-relationship-track](https://www.kaggle.com/c/google-ai-open-images-visual-relationship-track)
 
+**Context-Dependent Diffusion Network for Visual Relationship Detection**
+
+- intro: 2018 ACM Multimedia Conference
+- arxiv: [https://arxiv.org/abs/1809.06213](https://arxiv.org/abs/1809.06213)
+
+**A Problem Reduction Approach for Visual Relationships Detection**
+
+- intro: ECCV 2018 Workshop
+- arxiv: [https://arxiv.org/abs/1809.09828](https://arxiv.org/abs/1809.09828)
+
 # Face Deteciton
 
 **Multi-view Face Detection Using Deep Convolutional Neural Networks**
@@ -1689,7 +1718,7 @@ This task involves predicting the salient regions of an image given by human eye
 
 - intro: CVPR 2018
 - arxiv: [https://arxiv.org/abs/1804.06039](https://arxiv.org/abs/1804.06039)
-- github: [https://github.com/Jack-CV/PCN](https://github.com/Jack-CV/PCN)
+- github(binary library): [https://github.com/Jack-CV/PCN](https://github.com/Jack-CV/PCN)
 
 **SFace: An Efficient Network for Face Detection in Large Scale Variations**
 
@@ -1760,6 +1789,11 @@ This task involves predicting the salient regions of an image given by human eye
 **A Comparison of CNN-based Face and Head Detectors for Real-Time Video Surveillance Applications**
 
 [https://arxiv.org/abs/1809.03336](https://arxiv.org/abs/1809.03336)
+
+**FCHD: A fast and accurate head detector**
+
+- arxiv: [https://arxiv.org/abs/1809.08766](https://arxiv.org/abs/1809.08766)
+- github(PyTorch, official): [https://github.com/aditya-vora/FCHD-Fully-Convolutional-Head-Detector](https://github.com/aditya-vora/FCHD-Fully-Convolutional-Head-Detector)
 
 # Pedestrian Detection / People Detection
 

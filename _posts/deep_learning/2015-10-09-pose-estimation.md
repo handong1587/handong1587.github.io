@@ -143,7 +143,10 @@ date: 2015-10-09
 
 **Integral Human Pose Regression**
 
-[https://arxiv.org/abs/1711.08229](https://arxiv.org/abs/1711.08229)
+- intro: ECCV 2018
+- arxiv: [https://arxiv.org/abs/1711.08229](https://arxiv.org/abs/1711.08229)
+- slides: [https://jimmysuen.github.io/slides/xiaosun_integral_human_pose_regression.pptx](https://jimmysuen.github.io/slides/xiaosun_integral_human_pose_regression.pptx)
+- github: [https://github.com/JimmySuen/integral-human-pose](https://github.com/JimmySuen/integral-human-pose)
 
 **LSTM Pose Machines**
 
