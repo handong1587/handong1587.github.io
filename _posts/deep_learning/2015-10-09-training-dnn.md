@@ -477,7 +477,7 @@ date: 2015-10-09
 - intro: Cornell University
 - arxiv: [https://arxiv.org/abs/1805.07836](https://arxiv.org/abs/1805.07836)
 
-# Learning Rate
+# Learning Rates
 
 **No More Pesky Learning Rates**
 
@@ -503,6 +503,14 @@ date: 2015-10-09
 
 - intro: University of Texas at Austin & Facebook AI Research
 - arxiv: [https://arxiv.org/abs/1803.02865](https://arxiv.org/abs/1803.02865)
+
+**Learning with Random Learning Rates**
+
+- intro: Facebook AI Research & Universite Paris Sud
+- keywords: All Learning Rates At Once (Alrao)
+- project page: [https://leonardblier.github.io/alrao/](https://leonardblier.github.io/alrao/)
+- arxiv: [https://arxiv.org/abs/1810.01322](https://arxiv.org/abs/1810.01322)
+- github(PyTorch, official): [https://github.com/leonardblier/alrao](https://github.com/leonardblier/alrao)
 
 # Convolution Filters
 

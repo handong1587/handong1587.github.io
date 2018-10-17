@@ -343,6 +343,11 @@ date: 2015-10-09
 - intro: ECCV 2018
 - arxiv: [https://arxiv.org/abs/1808.09044](https://arxiv.org/abs/1808.09044)
 
+**Learning Embeddings for Product Visual Search with Triplet Loss and Online Sampling**
+
+- intro: Yahoo Research
+- arxiv: [https://arxiv.org/abs/1810.04652](https://arxiv.org/abs/1810.04652)
+
 # Hashing
 
 **Supervised Hashing for Image Retrieval via Image Representation Learning**

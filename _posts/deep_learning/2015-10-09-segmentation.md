@@ -213,6 +213,10 @@ date: 2015-10-09
 - arxiv: [https://arxiv.org/abs/1808.01477](https://arxiv.org/abs/1808.01477)
 - github: [https://github.com/lim-anggun/FgSegNet_v2](https://github.com/lim-anggun/FgSegNet_v2)
 
+**Learning Deep Representations for Semantic Image Parsing: a Comprehensive Overview**
+
+[https://arxiv.org/abs/1810.04377](https://arxiv.org/abs/1810.04377)
+
 # Semantic Segmentation
 
 **Fully Convolutional Networks for Semantic Segmentation**
@@ -875,6 +879,10 @@ with built-in awareness of semantically meaningful boundaries. "
 - intro: International Conference on Intelligent Transportation Systems (ITSC 2018)
 - arxiv: [https://arxiv.org/abs/1810.02575](https://arxiv.org/abs/1810.02575)
 
+**Semantic Image Segmentation by Scale-Adaptive Networks**
+
+- github(Caffe): [https://github.com/speedinghzl/Scale-Adaptive-Network](https://github.com/speedinghzl/Scale-Adaptive-Network)
+
 # Instance Segmentation
 
 **Simultaneous Detection and Segmentation**
@@ -1291,6 +1299,11 @@ ranked 1st place in ImageNet Scene Parsing Challenge 2016
 **Semantic Foggy Scene Understanding with Synthetic Data**
 
 [https://arxiv.org/abs/1708.07819](https://arxiv.org/abs/1708.07819)
+
+**Scale-adaptive Convolutions for Scene Parsing**
+
+- intro: ICCV 2017
+- paper: [http://openaccess.thecvf.com/content_ICCV_2017/papers/Zhang_Scale-Adaptive_Convolutions_for_ICCV_2017_paper.pdf](http://openaccess.thecvf.com/content_ICCV_2017/papers/Zhang_Scale-Adaptive_Convolutions_for_ICCV_2017_paper.pdf)
 
 **Restricted Deformable Convolution based Road Scene Semantic Segmentation Using Surround View Cameras**
 

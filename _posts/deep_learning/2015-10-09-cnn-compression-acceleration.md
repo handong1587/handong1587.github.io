@@ -535,6 +535,18 @@ at INT8 deep learning operations than other FPGA DSP architectures"
 
 [https://arxiv.org/abs/1808.07471](https://arxiv.org/abs/1808.07471)
 
+**Pruning neural networks: is it time to nip it in the bud?**
+
+[https://arxiv.org/abs/1810.04622](https://arxiv.org/abs/1810.04622)
+
+**Rethinking the Value of Network Pruning**
+
+[https://arxiv.org/abs/1810.05270](https://arxiv.org/abs/1810.05270)
+
+**Dynamic Channel Pruning: Feature Boosting and Suppression**
+
+[https://arxiv.org/abs/1810.05331](https://arxiv.org/abs/1810.05331)
+
 # Low-Precision Networks
 
 **Accelerating Deep Convolutional Networks using low-precision and sparsity**
@@ -796,6 +808,10 @@ at INT8 deep learning operations than other FPGA DSP architectures"
 **FPGA Implementation of Convolutional Neural Networks with Fixed-Point Calculations**
 
 [https://arxiv.org/abs/1808.09945](https://arxiv.org/abs/1808.09945)
+
+**Extended Bit-Plane Compression for Convolutional Neural Network Accelerators**
+
+[https://arxiv.org/abs/1810.03979](https://arxiv.org/abs/1810.03979)
 
 # Knowledge Distilling / Knowledge Transfer
 

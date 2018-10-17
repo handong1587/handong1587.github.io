@@ -589,6 +589,10 @@ extract saptio-temporal features to represent the video using the CNNs."
 
 [https://arxiv.org/abs/1805.08162](https://arxiv.org/abs/1805.08162)
 
+**Where and When to Look? Spatio-temporal Attention for Action Recognition in Videos**
+
+[https://arxiv.org/abs/1810.04511](https://arxiv.org/abs/1810.04511)
+
 ### Projects
 
 **A Torch Library for Action Recognition and Detection Using CNNs and LSTMs**

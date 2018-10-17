@@ -1269,6 +1269,10 @@ with fast exact probabilistic inference over many layers."
 - intro: ECCV 2018
 - arxiv: [https://arxiv.org/abs/1808.03749](https://arxiv.org/abs/1808.03749)
 
+**Penetrating the Fog: the Path to Efficient CNN Models**
+
+[https://arxiv.org/abs/1810.04231](https://arxiv.org/abs/1810.04231)
+
 ## Convolutions / Filters
 
 **Warped Convolutions: Efficient Invariance to Spatial Transformations**
@@ -1425,7 +1429,7 @@ with fast exact probabilistic inference over many layers."
 - github: [https://github.com/edgelord/FractalNet](https://github.com/edgelord/FractalNet)
 - github(Keras): [https://github.com/snf/keras-fractalnet](https://github.com/snf/keras-fractalnet)
 
-## Architecture Search for Convolutional Neural Networks
+## Neural Architecture Search
 
 **Neural Architecture Search with Reinforcement Learning**
 
@@ -1533,6 +1537,11 @@ with fast exact probabilistic inference over many layers."
 
 - intro: NIPS 2018. Google Inc.
 - arxiv: [https://arxiv.org/abs/1809.04184](https://arxiv.org/abs/1809.04184)
+
+**NSGA-NET: A Multi-Objective Genetic Algorithm for Neural Architecture Search**
+
+- arxiv: [https://arxiv.org/abs/1810.03522](https://arxiv.org/abs/1810.03522)
+- gtihub: [https://github.com/ianwhale/nsga-net](https://github.com/ianwhale/nsga-net)
 
 ## Graph Convolutional Networks
 

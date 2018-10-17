@@ -2061,6 +2061,11 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 - intro: ECCV 2018
 - arxiv: [https://arxiv.org/abs/1808.03959](https://arxiv.org/abs/1808.03959)
 
+**Real-time self-adaptive deep stereo**
+
+[https://arxiv.org/abs/1810.05424](https://arxiv.org/abs/1810.05424)
+[https://github.com/CVLAB-Unibo/Real-time-self-adaptive-deep-stereo](https://github.com/CVLAB-Unibo/Real-time-self-adaptive-deep-stereo)
+
 # Optical Flow
 
 **FlowNet: Learning Optical Flow with Convolutional Networks**

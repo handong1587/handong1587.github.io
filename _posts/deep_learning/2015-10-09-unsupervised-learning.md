@@ -195,6 +195,10 @@ Auto-encoder
 - intro: Poster presentation at BMVC 2018
 - arxiv: [https://arxiv.org/abs/1807.07760](https://arxiv.org/abs/1807.07760)
 
+**Deep clustering: On the link between discriminative models and K-means**
+
+[https://arxiv.org/abs/1810.04246](https://arxiv.org/abs/1810.04246)
+
 # Auto-encoder
 
 **Auto-Encoding Variational Bayes**

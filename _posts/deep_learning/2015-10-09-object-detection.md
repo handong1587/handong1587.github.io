@@ -842,7 +842,16 @@ Continuation of [arXiv:1608.08021](https://arxiv.org/abs/1608.08021)
 
 **Revisiting RCNN: On Awakening the Classification Power of Faster RCNN**
 
-[https://arxiv.org/abs/1803.06799](https://arxiv.org/abs/1803.06799)
+- intro: ECCV 2018
+- keywords: DCR V1
+- arxiv: [https://arxiv.org/abs/1803.06799](https://arxiv.org/abs/1803.06799)
+- github(official, MXNet): [https://github.com/bowenc0221/Decoupled-Classification-Refinement](https://github.com/bowenc0221/Decoupled-Classification-Refinement)
+
+**Decoupled Classification Refinement: Hard False Positive Suppression for Object Detection**
+
+- keywords: DCR V2
+- arxiv: [https://arxiv.org/abs/1810.04002](https://arxiv.org/abs/1810.04002)
+- github(official, MXNet): [https://github.com/bowenc0221/Decoupled-Classification-Refinement](https://github.com/bowenc0221/Decoupled-Classification-Refinement)
 
 **Learning Region Features for Object Detection**
 
@@ -2200,6 +2209,10 @@ This task involves predicting the salient regions of an image given by human eye
 - project page: [https://gaochen315.github.io/iCAN/](https://gaochen315.github.io/iCAN/)
 - arxiv: [https://arxiv.org/abs/1808.10437](https://arxiv.org/abs/1808.10437)
 - github: [https://github.com/vt-vl-lab/iCAN](https://github.com/vt-vl-lab/iCAN)
+
+**Densely Supervised Grasp Detector (DSGD)**
+
+[https://arxiv.org/abs/1810.03962](https://arxiv.org/abs/1810.03962)
 
 # Object Proposal
 
