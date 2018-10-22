@@ -1543,6 +1543,10 @@ with fast exact probabilistic inference over many layers."
 - arxiv: [https://arxiv.org/abs/1810.03522](https://arxiv.org/abs/1810.03522)
 - gtihub: [https://github.com/ianwhale/nsga-net](https://github.com/ianwhale/nsga-net)
 
+**Graph HyperNetworks for Neural Architecture Search**
+
+[https://arxiv.org/abs/1810.05749](https://arxiv.org/abs/1810.05749)
+
 ## Graph Convolutional Networks
 
 **Learning Convolutional Neural Networks for Graphs**

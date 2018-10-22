@@ -1260,6 +1260,14 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 - arxiv: [https://arxiv.org/abs/1809.01826](https://arxiv.org/abs/1809.01826)
 - github: [https://github.com/Ding-Liu/DeepDenoising](https://github.com/Ding-Liu/DeepDenoising)
 
+**DN-ResNet: Efficient Deep Residual Network for Image Denoising**
+
+[https://arxiv.org/abs/1810.06766](https://arxiv.org/abs/1810.06766)
+
+**Deep Learning for Image Denoising: A Survey**
+
+[https://arxiv.org/abs/1810.05052](https://arxiv.org/abs/1810.05052)
+
 # Image Dehazing / Image Haze Removal
 
 **DehazeNet: An End-to-End System for Single Image Haze Removal**

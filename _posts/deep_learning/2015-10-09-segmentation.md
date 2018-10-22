@@ -146,6 +146,10 @@ date: 2015-10-09
 
 [https://arxiv.org/abs/1804.06423](https://arxiv.org/abs/1804.06423)
 
+**Semantic Aware Attention Based Deep Object Co-segmentation**
+
+[https://arxiv.org/abs/1810.06859](https://arxiv.org/abs/1810.06859)
+
 **Contextual Hourglass Networks for Segmentation and Density Estimation**
 
 [https://arxiv.org/abs/1806.04009](https://arxiv.org/abs/1806.04009)
@@ -195,6 +199,10 @@ date: 2015-10-09
 **DASNet: Reducing Pixel-level Annotations for Instance and Semantic Segmentation**
 
 [https://arxiv.org/abs/1809.06013](https://arxiv.org/abs/1809.06013)
+
+**Improving Fast Segmentation With Teacher-student Learning**
+
+[https://arxiv.org/abs/1810.08476](https://arxiv.org/abs/1810.08476)
 
 # Foreground Object Segmentation
 

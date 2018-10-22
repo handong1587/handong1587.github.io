@@ -318,6 +318,10 @@ date: 2015-10-09
 - intro: ECCV 2018
 - arxiv: [https://arxiv.org/abs/1808.04976](https://arxiv.org/abs/1808.04976)
 
+**Orthogonal Deep Features Decomposition for Age-Invariant Face Recognition**
+
+[https://arxiv.org/abs/1810.07599](https://arxiv.org/abs/1810.07599)
+
 # Facial Attributes Classification
 
 **A Jointly Learned Deep Architecture for Facial Attribute Analysis and Face Detection in the Wild**

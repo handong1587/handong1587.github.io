@@ -278,6 +278,10 @@ date: 2015-10-09
 - intro: BMVC 2018 (Oral)
 - arxiv: [https://arxiv.org/abs/1808.06521](https://arxiv.org/abs/1808.06521)
 
+**Multi-Domain Pose Network for Multi-Person Pose Estimation and Tracking**
+
+[https://arxiv.org/abs/1810.08338](https://arxiv.org/abs/1810.08338)
+
 # 3D Pose
 
 **Can 3D Pose be Learned from 2D Projections Alone?**

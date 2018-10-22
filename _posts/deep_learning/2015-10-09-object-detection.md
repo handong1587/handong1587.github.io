@@ -1012,6 +1012,11 @@ Continuation of [arXiv:1608.08021](https://arxiv.org/abs/1608.08021)
 
 [https://arxiv.org/abs/1809.02165](https://arxiv.org/abs/1809.02165)
 
+**ScratchDet:Exploring to Train Single-Shot Object Detectors from Scratch**
+
+- arxiv: [https://arxiv.org/abs/1810.08425](https://arxiv.org/abs/1810.08425)
+- github: [https://github.com/KimSoybean/ScratchDet](https://github.com/KimSoybean/ScratchDethttps://github.com/KimSoybean/ScratchDet)
+
 # Non-Maximum Suppression (NMS)
 
 **End-to-End Integration of a Convolutional Network, Deformable Parts Model and Non-Maximum Suppression**

@@ -825,6 +825,11 @@ date: 2015-10-09
 - arxiv: [https://arxiv.org/abs/1808.04469](https://arxiv.org/abs/1808.04469)
 - github: [https://github.com/littleredxh/DREML](https://github.com/littleredxh/DREML)
 
+**Deep Metric Learning with Hierarchical Triplet Loss**
+
+- intro: ECCV 2018
+- arxiv: [https://arxiv.org/abs/1810.06951](https://arxiv.org/abs/1810.06951)
+
 # Talks / Slides
 
 **TiefVision: end-to-end image similarity search engine**

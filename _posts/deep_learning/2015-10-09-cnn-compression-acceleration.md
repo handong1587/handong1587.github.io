@@ -547,6 +547,19 @@ at INT8 deep learning operations than other FPGA DSP architectures"
 
 [https://arxiv.org/abs/1810.05331](https://arxiv.org/abs/1810.05331)
 
+**Interpretable Convolutional Filter Pruning**
+
+[https://arxiv.org/abs/1810.07322](https://arxiv.org/abs/1810.07322)
+
+**Progressive Weight Pruning of Deep Neural Networks using ADMM**
+
+[https://arxiv.org/abs/1810.07378](https://arxiv.org/abs/1810.07378)
+
+**Pruning Deep Neural Networks using Partial Least Squares**
+
+- arxiv: [https://arxiv.org/abs/1810.07610](https://arxiv.org/abs/1810.07610)
+- github: [https://github.com/arturjordao/PruningNeuralNetworks](https://github.com/arturjordao/PruningNeuralNetworks)
+
 # Low-Precision Networks
 
 **Accelerating Deep Convolutional Networks using low-precision and sparsity**
