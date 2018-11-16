@@ -294,6 +294,11 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 
 [https://arxiv.org/abs/1801.06724](https://arxiv.org/abs/1801.06724)
 
+**Fully Convolutional Network with Multi-Step Reinforcement Learning for Image Processing**
+
+- intro: AAAI 2019
+- arxiv: [https://arxiv.org/abs/1811.04323](https://arxiv.org/abs/1811.04323)
+
 # Image-Text
 
 **Learning Two-Branch Neural Networks for Image-Text Matching Tasks**
@@ -1056,6 +1061,11 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 - intro: Stanford CS230 project
 - paper: [https://cs230.stanford.edu/projects_spring_2018/posters/8265861.pdf](https://cs230.stanford.edu/projects_spring_2018/posters/8265861.pdf)
 - github: [https://github.com/bendangnuksung/Image-OutPainting](https://github.com/bendangnuksung/Image-OutPainting)
+
+**Image Inpainting via Generative Multi-column Convolutional Neural Networks**
+
+- intro: NIPS 2018
+- arxiv: [https://arxiv.org/abs/1810.08771](https://arxiv.org/abs/1810.08771)
 
 # Image Restoration
 

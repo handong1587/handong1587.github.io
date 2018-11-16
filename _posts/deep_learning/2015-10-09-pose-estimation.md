@@ -282,6 +282,22 @@ date: 2015-10-09
 
 [https://arxiv.org/abs/1810.08338](https://arxiv.org/abs/1810.08338)
 
+**Benchmarking and Error Diagnosis in Multi-Instance Pose Estimation**
+
+- intro: ICCV 2017
+- project page: [http://www.vision.caltech.edu/~mronchi/projects/PoseErrorDiagnosis/](http://www.vision.caltech.edu/~mronchi/projects/PoseErrorDiagnosis/)
+- arxiv: [https://arxiv.org/abs/1707.05388](https://arxiv.org/abs/1707.05388)
+- github: [https://github.com/matteorr/coco-analyze](https://github.com/matteorr/coco-analyze)
+
+**Improving Multi-Person Pose Estimation using Label Correction**
+
+[https://arxiv.org/abs/1811.03331](https://arxiv.org/abs/1811.03331)
+
+**Fast Human Pose Estimation**
+
+- intro: Fast Pose Distillation (FPD)
+- arxiv: [https://arxiv.org/abs/1811.05419](https://arxiv.org/abs/1811.05419)
+
 # 3D Pose
 
 **Can 3D Pose be Learned from 2D Projections Alone?**

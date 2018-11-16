@@ -458,6 +458,12 @@ date: 2015-10-09
 - intro: TPAMI 2018
 - arxiv: [https://arxiv.org/abs/1808.04803](https://arxiv.org/abs/1808.04803)
 
+**Towards Highly Accurate and Stable Face Alignment for High-Resolution Videos**
+
+- intro: AAAI 2019
+- arxiv: [https://arxiv.org/abs/1811.00342](https://arxiv.org/abs/1811.00342)
+- github: [https://github.com/tyshiwo/FHR_alignment](https://github.com/tyshiwo/FHR_alignment)
+
 # Face Synthesis
 
 **Beyond Face Rotation: Global and Local Perception GAN for Photorealistic and Identity Preserving Frontal View Synthesis**

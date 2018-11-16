@@ -560,6 +560,15 @@ at INT8 deep learning operations than other FPGA DSP architectures"
 - arxiv: [https://arxiv.org/abs/1810.07610](https://arxiv.org/abs/1810.07610)
 - github: [https://github.com/arturjordao/PruningNeuralNetworks](https://github.com/arturjordao/PruningNeuralNetworks)
 
+**Hybrid Pruning: Thinner Sparse Networks for Fast Inference on Edge Devices**
+
+[https://arxiv.org/abs/1811.00482](https://arxiv.org/abs/1811.00482)
+
+**Discrimination-aware Channel Pruning for Deep Neural Networks**
+
+- intro: NIPS 2018
+- arxiv: [https://arxiv.org/abs/1810.11809](https://arxiv.org/abs/1810.11809)
+
 # Low-Precision Networks
 
 **Accelerating Deep Convolutional Networks using low-precision and sparsity**
@@ -655,6 +664,10 @@ at INT8 deep learning operations than other FPGA DSP architectures"
 **Joint Training of Low-Precision Neural Network with Quantization Interval Parameters**
 
 [https://arxiv.org/abs/1808.05779](https://arxiv.org/abs/1808.05779)
+
+**Differentiable Fine-grained Quantization for Deep Neural Network Compression**
+
+[https://arxiv.org/abs/1810.10351](https://arxiv.org/abs/1810.10351)
 
 # Binary Convolutional Neural Networks / Binarized Neural Networks
 

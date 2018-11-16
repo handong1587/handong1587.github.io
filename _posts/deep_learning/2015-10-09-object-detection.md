@@ -1017,6 +1017,33 @@ Continuation of [arXiv:1608.08021](https://arxiv.org/abs/1608.08021)
 - arxiv: [https://arxiv.org/abs/1810.08425](https://arxiv.org/abs/1810.08425)
 - github: [https://github.com/KimSoybean/ScratchDet](https://github.com/KimSoybean/ScratchDethttps://github.com/KimSoybean/ScratchDet)
 
+**Fast and accurate object detection in high resolution 4K and 8K video using GPUs**
+
+- intro: Best Paper Finalist at IEEE High Performance Extreme Computing Conference (HPEC) 2018
+- intro: Carnegie Mellon University
+- arxiv: [https://arxiv.org/abs/1810.10551](https://arxiv.org/abs/1810.10551)
+
+**Hybrid Knowledge Routed Modules for Large-scale Object Detection**
+
+- intro: NIPS 2018
+- arxiv: [https://arxiv.org/abs/1810.12681](https://arxiv.org/abs/1810.12681)
+- github(official, PyTorch): [https://github.com/chanyn/HKRM](https://github.com/chanyn/HKRM)
+
+**Gradient Harmonized Single-stage Detector**
+
+- intro: AAAI 2019
+- arxiv: [https://arxiv.org/abs/1811.05181](https://arxiv.org/abs/1811.05181)
+
+**M2Det: A Single-Shot Object Detector based on Multi-Level Feature Pyramid Network**
+
+- intro: AAAI 2019
+- arxiv: [https://arxiv.org/abs/1811.04533](https://arxiv.org/abs/1811.04533)
+- github: [https://github.com/qijiezhao/M2Det](https://github.com/qijiezhao/M2Det)
+
+**BAN: Focusing on Boundary Context for Object Detection**
+
+[https://arxiv.org/abs/1811.05243](https://arxiv.org/abs/1811.05243)
+
 # Non-Maximum Suppression (NMS)
 
 **End-to-End Integration of a Convolutional Network, Deformable Parts Model and Non-Maximum Suppression**
@@ -1251,6 +1278,11 @@ Continuation of [arXiv:1608.08021](https://arxiv.org/abs/1608.08021)
 **A Self-supervised Learning System for Object Detection using Physics Simulation and Multi-view Pose Estimation**
 
 [https://arxiv.org/abs/1703.03347](https://arxiv.org/abs/1703.03347)
+
+**Cross-Modal Attentional Context Learning for RGB-D Object Detection**
+
+- intro: IEEE Transactions on Image Processing
+- arxiv: [https://arxiv.org/abs/1810.12829](https://arxiv.org/abs/1810.12829)
 
 # Zero-Shot Object Detection
 
@@ -1756,6 +1788,10 @@ This task involves predicting the salient regions of an image given by human eye
 **Selective Refinement Network for High Performance Face Detection**
 
 [https://arxiv.org/abs/1809.02693](https://arxiv.org/abs/1809.02693)
+
+**DSFD: Dual Shot Face Detector**
+
+[https://arxiv.org/abs/1810.10220](https://arxiv.org/abs/1810.10220)
 
 ## Detect Small Faces
 

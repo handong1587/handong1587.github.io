@@ -348,6 +348,10 @@ date: 2015-10-09
 - intro: Yahoo Research
 - arxiv: [https://arxiv.org/abs/1810.04652](https://arxiv.org/abs/1810.04652)
 
+**Attention-aware Generalized Mean Pooling for Image Retrieval**
+
+[https://arxiv.org/abs/1811.00202](https://arxiv.org/abs/1811.00202)
+
 # Hashing
 
 **Supervised Hashing for Image Retrieval via Image Representation Learning**

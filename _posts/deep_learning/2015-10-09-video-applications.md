@@ -309,6 +309,12 @@ date: 2015-10-09
 - arxiv: [https://arxiv.org/abs/1810.00530](https://arxiv.org/abs/1810.00530)
 - github: [https://github.com/pomonam/LearnablePoolingMethods](https://github.com/pomonam/LearnablePoolingMethods)
 
+**NeXtVLAD: An Efficient Neural Network to Aggregate Frame-level Features for Large-scale Video Classification**
+
+- intro: ECCV 2018 workshop
+- arxiv: [https://arxiv.org/abs/1811.05014](https://arxiv.org/abs/1811.05014)
+- github: [https://github.com/linrongc/youtube-8m](https://github.com/linrongc/youtube-8m)
+
 ## Action Detection / Activity Recognition
 
 **3d convolutional neural networks for human action recognition**

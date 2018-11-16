@@ -363,6 +363,10 @@ testing it on the MNIST handwritten digits data.
 - arxiv: [https://arxiv.org/abs/1701.04831](https://arxiv.org/abs/1701.04831)
 - github: [https://github.com/yzcj105/rbm2mps](https://github.com/yzcj105/rbm2mps)
 
+**Matrix Product Operator Restricted Boltzmann Machines**
+
+[https://arxiv.org/abs/1811.04608](https://arxiv.org/abs/1811.04608)
+
 ## Blogs
 
 **A Tutorial on Restricted Boltzmann Machines**

@@ -351,3 +351,8 @@ date: 2015-10-09
 
 - intro: 11th ACM Workshop on Artificial Intelligence and Security (AISec) with the 25th ACM Conference on Computer and Communications Security (CCS)
 - arxiv: [https://arxiv.org/abs/1809.02918](https://arxiv.org/abs/1809.02918)
+
+**SparseFool: a few pixels make a big difference**
+
+[https://arxiv.org/abs/1811.02248](https://arxiv.org/abs/1811.02248)
+[https://github.com/LTS4/SparseFool](https://github.com/LTS4/SparseFool)

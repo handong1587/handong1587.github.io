@@ -1604,6 +1604,11 @@ ranked 1st place in ImageNet Scene Parsing Challenge 2016
 - intro: ECCV 2018
 - arxiv: [https://arxiv.org/abs/1809.01123](https://arxiv.org/abs/1809.01123)
 
+**Mask Propagation Network for Video Object Segmentation**
+
+- intro: ByteDance AI Lab
+- arxiv: [https://arxiv.org/abs/1810.10289(https://arxiv.org/abs/1810.10289)]
+
 # Projects
 
 **TF Image Segmentation: Image Segmentation framework**
