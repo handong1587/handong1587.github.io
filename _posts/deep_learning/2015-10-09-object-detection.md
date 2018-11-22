@@ -995,6 +995,11 @@ Continuation of [arXiv:1608.08021](https://arxiv.org/abs/1608.08021)
 
 [https://arxiv.org/abs/1809.02165](https://arxiv.org/abs/1809.02165)
 
+**Training Confidence-Calibrated Classifier for Detecting Out-of-Distribution Samples**
+
+- intro: ICLR 2018
+- arxiv: [https://github.com/alinlab/Confident_classifier](https://github.com/alinlab/Confident_classifier)
+
 # Non-Maximum Suppression (NMS)
 
 **End-to-End Integration of a Convolutional Network, Deformable Parts Model and Non-Maximum Suppression**
@@ -2349,6 +2354,11 @@ We additionally provide an implementation of the [ReInspect](https://github.com/
 
 - intro: Most popular metrics used to evaluate object detection algorithms
 - github: [https://github.com/rafaelpadilla/Object-Detection-Metrics](https://github.com/rafaelpadilla/Object-Detection-Metrics)
+
+**MobileNetv2-SSDLite**
+
+- intro: Caffe implementation of SSD and SSDLite detection on MobileNetv2, converted from tensorflow.
+- github: [https://github.com/chuanqi305/MobileNetv2-SSDLite](https://github.com/chuanqi305/MobileNetv2-SSDLite)
 
 # Leaderboard
 

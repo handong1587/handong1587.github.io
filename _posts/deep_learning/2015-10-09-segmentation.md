@@ -1003,6 +1003,7 @@ with built-in awareness of semantically meaningful boundaries. "
 
 - intro: Published at "Deep Learning for Robotic Vision", workshop at CVPR 2017. KU Leuven
 - arxiv: [https://arxiv.org/abs/1708.02551](https://arxiv.org/abs/1708.02551)
+- github: [https://github.com/Wizaron/instance-segmentation-pytorch](https://github.com/Wizaron/instance-segmentation-pytorch)
 
 **SceneCut: Joint Geometric and Object Segmentation for Indoor Scenes**
 
@@ -1288,6 +1289,14 @@ ranked 1st place in ImageNet Scene Parsing Challenge 2016
 - intro: Microsoft Research
 - arxiv: [https://arxiv.org/abs/1809.00916](https://arxiv.org/abs/1809.00916)
 - github: [https://github.com/PkuRainBow/OCNet](https://github.com/PkuRainBow/OCNet)
+
+**PSANet: Point-wise Spatial Attention Network for Scene Parsing**
+
+- intro: ECCV 2018
+- project page: [https://hszhao.github.io/projects/psanet/](https://hszhao.github.io/projects/psanet/)
+- paper: [https://hszhao.github.io/papers/eccv18_psanet.pdf](https://hszhao.github.io/papers/eccv18_psanet.pdf)
+- slides: [https://docs.google.com/presentation/d/1_brKNBtv8nVu_jOwFRGwVkEPAq8B8hEngBSQuZCWaZA/edit#slide=id.p](https://docs.google.com/presentation/d/1_brKNBtv8nVu_jOwFRGwVkEPAq8B8hEngBSQuZCWaZA/edit#slide=id.p)
+- github: [https://github.com/hszhao/PSANet](https://github.com/hszhao/PSANet)
 
 ## Benchmarks
 

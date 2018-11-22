@@ -147,7 +147,7 @@ date: 2015-10-09
 
 **LSTM Pose Machines**
 
-- intro: CVPR 2018. 1SenseTime Research & Sun Yat-sen University
+- intro: CVPR 2018. SenseTime Research & Sun Yat-sen University
 - arxiv: [https://arxiv.org/abs/1712.06316](https://arxiv.org/abs/1712.06316)
 - github(Caffe, officical): [https://github.com/lawy623/LSTM_Pose_Machines](https://github.com/lawy623/LSTM_Pose_Machines)
 
