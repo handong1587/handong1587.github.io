@@ -343,6 +343,15 @@ date: 2015-10-09
 - intro: ECCV 2018
 - arxiv: [https://arxiv.org/abs/1808.09044](https://arxiv.org/abs/1808.09044)
 
+**Learning Embeddings for Product Visual Search with Triplet Loss and Online Sampling**
+
+- intro: Yahoo Research
+- arxiv: [https://arxiv.org/abs/1810.04652](https://arxiv.org/abs/1810.04652)
+
+**Attention-aware Generalized Mean Pooling for Image Retrieval**
+
+[https://arxiv.org/abs/1811.00202](https://arxiv.org/abs/1811.00202)
+
 # Hashing
 
 **Supervised Hashing for Image Retrieval via Image Representation Learning**
@@ -591,6 +600,10 @@ date: 2015-10-09
 
 [https://arxiv.org/abs/1809.02302](https://arxiv.org/abs/1809.02302)
 
+**Deep LDA Hashing**
+
+[https://arxiv.org/abs/1810.03402](https://arxiv.org/abs/1810.03402)
+
 # Cross Modal Retrieval
 
 **Cross-domain Image Retrieval with a Dual Attribute-aware Ranking Network**
@@ -815,6 +828,11 @@ date: 2015-10-09
 
 - arxiv: [https://arxiv.org/abs/1808.04469](https://arxiv.org/abs/1808.04469)
 - github: [https://github.com/littleredxh/DREML](https://github.com/littleredxh/DREML)
+
+**Deep Metric Learning with Hierarchical Triplet Loss**
+
+- intro: ECCV 2018
+- arxiv: [https://arxiv.org/abs/1810.06951](https://arxiv.org/abs/1810.06951)
 
 # Talks / Slides
 

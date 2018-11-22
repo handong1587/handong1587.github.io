@@ -143,7 +143,10 @@ date: 2015-10-09
 
 **Integral Human Pose Regression**
 
-[https://arxiv.org/abs/1711.08229](https://arxiv.org/abs/1711.08229)
+- intro: ECCV 2018
+- arxiv: [https://arxiv.org/abs/1711.08229](https://arxiv.org/abs/1711.08229)
+- slides: [https://jimmysuen.github.io/slides/xiaosun_integral_human_pose_regression.pptx](https://jimmysuen.github.io/slides/xiaosun_integral_human_pose_regression.pptx)
+- github: [https://github.com/JimmySuen/integral-human-pose](https://github.com/JimmySuen/integral-human-pose)
 
 **LSTM Pose Machines**
 
@@ -274,6 +277,26 @@ date: 2015-10-09
 
 - intro: BMVC 2018 (Oral)
 - arxiv: [https://arxiv.org/abs/1808.06521](https://arxiv.org/abs/1808.06521)
+
+**Multi-Domain Pose Network for Multi-Person Pose Estimation and Tracking**
+
+[https://arxiv.org/abs/1810.08338](https://arxiv.org/abs/1810.08338)
+
+**Benchmarking and Error Diagnosis in Multi-Instance Pose Estimation**
+
+- intro: ICCV 2017
+- project page: [http://www.vision.caltech.edu/~mronchi/projects/PoseErrorDiagnosis/](http://www.vision.caltech.edu/~mronchi/projects/PoseErrorDiagnosis/)
+- arxiv: [https://arxiv.org/abs/1707.05388](https://arxiv.org/abs/1707.05388)
+- github: [https://github.com/matteorr/coco-analyze](https://github.com/matteorr/coco-analyze)
+
+**Improving Multi-Person Pose Estimation using Label Correction**
+
+[https://arxiv.org/abs/1811.03331](https://arxiv.org/abs/1811.03331)
+
+**Fast Human Pose Estimation**
+
+- intro: Fast Pose Distillation (FPD)
+- arxiv: [https://arxiv.org/abs/1811.05419](https://arxiv.org/abs/1811.05419)
 
 # 3D Pose
 

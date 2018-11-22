@@ -146,6 +146,12 @@ date: 2015-10-09
 - intro: Michigan State University & JD.com
 - arxiv: [https://arxiv.org/abs/1802.06501](https://arxiv.org/abs/1802.06501)
 
+**Personalized Top-N Sequential Recommendation via Convolutional Sequence Embedding**
+
+- intro: WSDM 2018. Simon Fraser University
+- arxiv: [https://arxiv.org/abs/1809.07426](https://arxiv.org/abs/1809.07426)
+- github(Matlab+MatcConvNet): [https://github.com/graytowne/caser](https://github.com/graytowne/caser)
+
 # Slides
 
 **Deep learning for music recommendation**

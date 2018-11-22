@@ -477,7 +477,7 @@ date: 2015-10-09
 - intro: Cornell University
 - arxiv: [https://arxiv.org/abs/1805.07836](https://arxiv.org/abs/1805.07836)
 
-# Learning Rate
+# Learning Rates
 
 **No More Pesky Learning Rates**
 
@@ -503,6 +503,14 @@ date: 2015-10-09
 
 - intro: University of Texas at Austin & Facebook AI Research
 - arxiv: [https://arxiv.org/abs/1803.02865](https://arxiv.org/abs/1803.02865)
+
+**Learning with Random Learning Rates**
+
+- intro: Facebook AI Research & Universite Paris Sud
+- keywords: All Learning Rates At Once (Alrao)
+- project page: [https://leonardblier.github.io/alrao/](https://leonardblier.github.io/alrao/)
+- arxiv: [https://arxiv.org/abs/1810.01322](https://arxiv.org/abs/1810.01322)
+- github(PyTorch, official): [https://github.com/leonardblier/alrao](https://github.com/leonardblier/alrao)
 
 # Convolution Filters
 
@@ -836,6 +844,11 @@ date: 2015-10-09
 - intro: ECCV 2018
 - arxiv: [https://arxiv.org/abs/1809.01465](https://arxiv.org/abs/1809.01465)
 
+**Can We Gain More from Orthogonality Regularizations in Training Deep CNNs?**
+
+- intro: NIPS 2018
+- arxiv: [https://arxiv.org/abs/1810.09102](https://arxiv.org/abs/1810.09102)
+
 ## Dropout
 
 **Improving neural networks by preventing co-adaptation of feature detectors**
@@ -947,6 +960,16 @@ date: 2015-10-09
 
 [https://arxiv.org/abs/1809.00193](https://arxiv.org/abs/1809.00193)
 
+**DropFilter: Dropout for Convolutions**
+
+[https://arxiv.org/abs/1810.09849](https://arxiv.org/abs/1810.09849)
+
+**Targeted Dropout**
+
+- intro: Google Brain & FOR.ai & University of Oxford
+- paper: [https://openreview.net/pdf?id=HkghWScuoQ](https://openreview.net/pdf?id=HkghWScuoQ)
+- github: [https://github.com/for-ai/TD](https://github.com/for-ai/TD)
+
 ## DropConnect
 
 **Regularization of Neural Networks using DropConnect**
@@ -965,6 +988,13 @@ date: 2015-10-09
 
 - arxiv: [http://arxiv.org/abs/1606.07326](http://arxiv.org/abs/1606.07326)
 - github: [https://github.com/panweihit/DropNeuron](https://github.com/panweihit/DropNeuron)
+
+## DropBlock
+
+**DropBlock: A regularization method for convolutional networks**
+
+- intro: NIPS 2018
+- arxiv: [https://arxiv.org/abs/1810.12890](https://arxiv.org/abs/1810.12890)
 
 ## Maxout
 

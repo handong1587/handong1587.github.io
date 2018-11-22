@@ -297,6 +297,24 @@ date: 2015-10-09
 - intro: BMVC 2018
 - arxuv: [https://arxiv.org/abs/1808.03232](https://arxiv.org/abs/1808.03232)
 
+**Non-local NetVLAD Encoding for Video Classification**
+
+- intro: ECCV 2018 workshop on YouTube-8M Large-Scale Video Understanding
+- intro: Tencent AI Lab & Fudan University
+- arxiv: [https://arxiv.org/abs/1810.00207](https://arxiv.org/abs/1810.00207)
+
+**Learnable Pooling Methods for Video Classification**
+
+- intro: Youtube 8M ECCV18 Workshop
+- arxiv: [https://arxiv.org/abs/1810.00530](https://arxiv.org/abs/1810.00530)
+- github: [https://github.com/pomonam/LearnablePoolingMethods](https://github.com/pomonam/LearnablePoolingMethods)
+
+**NeXtVLAD: An Efficient Neural Network to Aggregate Frame-level Features for Large-scale Video Classification**
+
+- intro: ECCV 2018 workshop
+- arxiv: [https://arxiv.org/abs/1811.05014](https://arxiv.org/abs/1811.05014)
+- github: [https://github.com/linrongc/youtube-8m](https://github.com/linrongc/youtube-8m)
+
 ## Action Detection / Activity Recognition
 
 **3d convolutional neural networks for human action recognition**
@@ -576,6 +594,10 @@ extract saptio-temporal features to represent the video using the CNNs."
 **VideoCapsuleNet: A Simplified Network for Action Detection**
 
 [https://arxiv.org/abs/1805.08162](https://arxiv.org/abs/1805.08162)
+
+**Where and When to Look? Spatio-temporal Attention for Action Recognition in Videos**
+
+[https://arxiv.org/abs/1810.04511](https://arxiv.org/abs/1810.04511)
 
 ### Projects
 

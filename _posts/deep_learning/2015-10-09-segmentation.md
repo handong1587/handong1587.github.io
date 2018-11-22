@@ -146,6 +146,10 @@ date: 2015-10-09
 
 [https://arxiv.org/abs/1804.06423](https://arxiv.org/abs/1804.06423)
 
+**Semantic Aware Attention Based Deep Object Co-segmentation**
+
+[https://arxiv.org/abs/1810.06859](https://arxiv.org/abs/1810.06859)
+
 **Contextual Hourglass Networks for Segmentation and Density Estimation**
 
 [https://arxiv.org/abs/1806.04009](https://arxiv.org/abs/1806.04009)
@@ -182,17 +186,23 @@ date: 2015-10-09
 
 [https://arxiv.org/abs/1807.11886](https://arxiv.org/abs/1807.11886)
 
-<<<<<<< HEAD
 **Deep Smoke Segmentation**
 
 [https://arxiv.org/abs/1809.00774](https://arxiv.org/abs/1809.00774)
-=======
+
 **Smoothed Dilated Convolutions for Improved Dense Prediction**
 
 - intro: KDD 2018
 - arxiv: [https://arxiv.org/abs/1808.08931](https://arxiv.org/abs/1808.08931)
 - github: [https://github.com/divelab/dilated](https://github.com/divelab/dilated)
->>>>>>> 20aba78597a2a9be775ca826b2707308d05f1804
+
+**DASNet: Reducing Pixel-level Annotations for Instance and Semantic Segmentation**
+
+[https://arxiv.org/abs/1809.06013](https://arxiv.org/abs/1809.06013)
+
+**Improving Fast Segmentation With Teacher-student Learning**
+
+[https://arxiv.org/abs/1810.08476](https://arxiv.org/abs/1810.08476)
 
 # Foreground Object Segmentation
 
@@ -210,6 +220,10 @@ date: 2015-10-09
 
 - arxiv: [https://arxiv.org/abs/1808.01477](https://arxiv.org/abs/1808.01477)
 - github: [https://github.com/lim-anggun/FgSegNet_v2](https://github.com/lim-anggun/FgSegNet_v2)
+
+**Learning Deep Representations for Semantic Image Parsing: a Comprehensive Overview**
+
+[https://arxiv.org/abs/1810.04377](https://arxiv.org/abs/1810.04377)
 
 # Semantic Segmentation
 
@@ -553,6 +567,12 @@ fine-tune the trained network with more challenging examples later
 - github: [https://github.com/guosheng/refinenet](https://github.com/guosheng/refinenet)
 - leaderboard: [http://host.robots.ox.ac.uk:8080/leaderboard/displaylb.php?challengeid=11&compid=6#KEY_Multipath-RefineNet-Res152](http://host.robots.ox.ac.uk:8080/leaderboard/displaylb.php?challengeid=11&compid=6#KEY_Multipath-RefineNet-Res152)
 
+**Light-Weight RefineNet for Real-Time Semantic Segmentation**
+
+- intro: BMVC 2018
+- arxiv: [https://arxiv.org/abs/1810.03272](https://arxiv.org/abs/1810.03272)
+- github: [https://github.com/drsleep/light-weight-refinenet](https://github.com/drsleep/light-weight-refinenet)
+
 **Full-Resolution Residual Networks for Semantic Segmentation in Street Scenes**
 
 - keywords: Full-Resolution Residual Units (FRRU), Full-Resolution Residual Networks (FRRNs)
@@ -858,6 +878,19 @@ with built-in awareness of semantically meaningful boundaries. "
 
 [https://arxiv.org/abs/1809.04766](https://arxiv.org/abs/1809.04766)
 
+**Efficient Dense Modules of Asymmetric Convolution for Real-Time Semantic Segmentation**
+
+[https://arxiv.org/abs/1809.06323](https://arxiv.org/abs/1809.06323)
+
+**Dark Model Adaptation: Semantic Image Segmentation from Daytime to Nighttime**
+
+- intro: International Conference on Intelligent Transportation Systems (ITSC 2018)
+- arxiv: [https://arxiv.org/abs/1810.02575](https://arxiv.org/abs/1810.02575)
+
+**Semantic Image Segmentation by Scale-Adaptive Networks**
+
+- github(Caffe): [https://github.com/speedinghzl/Scale-Adaptive-Network](https://github.com/speedinghzl/Scale-Adaptive-Network)
+
 # Instance Segmentation
 
 **Simultaneous Detection and Segmentation**
@@ -975,6 +1008,11 @@ with built-in awareness of semantically meaningful boundaries. "
 - github: [https://github.com/TuSimple/mx-maskrcnn](https://github.com/TuSimple/mx-maskrcnn)
 - slides: [https://lmb.informatik.uni-freiburg.de/lectures/seminar_brox/seminar_ss17/maskrcnn_slides.pdf](https://lmb.informatik.uni-freiburg.de/lectures/seminar_brox/seminar_ss17/maskrcnn_slides.pdf)
 - github(Keras+TensorFlow): [https://github.com/matterport/Mask_RCNN](https://github.com/matterport/Mask_RCNN)
+
+**Faster Training of Mask R-CNN by Focusing on Instance Boundaries**
+
+- intro: BMW Car IT GmbH
+- arxiv: [https://arxiv.org/abs/1809.07069](https://arxiv.org/abs/1809.07069)
 
 **Semantic Instance Segmentation via Deep Metric Learning**
 
@@ -1109,6 +1147,7 @@ with built-in awareness of semantically meaningful boundaries. "
 
 - intro: Facebook AI Research (FAIR) & Heidelberg University
 - arxiv: [https://arxiv.org/abs/1801.00868](https://arxiv.org/abs/1801.00868)
+- slides: [http://presentations.cocodataset.org/COCO17-Invited-PanopticAlexKirillov.pdf](http://presentations.cocodataset.org/COCO17-Invited-PanopticAlexKirillov.pdf)
 
 **Panoptic Segmentation with a Joint Semantic and Instance Segmentation Network**
 
@@ -1270,6 +1309,11 @@ ranked 1st place in ImageNet Scene Parsing Challenge 2016
 
 [https://arxiv.org/abs/1708.07819](https://arxiv.org/abs/1708.07819)
 
+**Scale-adaptive Convolutions for Scene Parsing**
+
+- intro: ICCV 2017
+- paper: [http://openaccess.thecvf.com/content_ICCV_2017/papers/Zhang_Scale-Adaptive_Convolutions_for_ICCV_2017_paper.pdf](http://openaccess.thecvf.com/content_ICCV_2017/papers/Zhang_Scale-Adaptive_Convolutions_for_ICCV_2017_paper.pdf)
+
 **Restricted Deformable Convolution based Road Scene Semantic Segmentation Using Surround View Cameras**
 
 [https://arxiv.org/abs/1801.00708](https://arxiv.org/abs/1801.00708)
@@ -1363,6 +1407,17 @@ ranked 1st place in ImageNet Scene Parsing Challenge 2016
 - intro: ACM MM 2018
 = arixv: [https://arxiv.org/abs/1808.00661](https://arxiv.org/abs/1808.00661)
 - github(official, TensorFlow): [https://github.com/HCPLab-SYSU/ATEN](https://github.com/HCPLab-SYSU/ATEN)
+
+**Devil in the Details: Towards Accurate Single and Multiple Human Parsing**
+
+- arxiv: [https://arxiv.org/abs/1809.05996](https://arxiv.org/abs/1809.05996)
+- github: [https://github.com/liutinglt/CE2P](https://github.com/liutinglt/CE2P)
+
+# Joint Detection and Segmentation
+
+**Triply Supervised Decoder Networks for Joint Detection and Segmentation**
+
+[https://arxiv.org/abs/1809.09299](https://arxiv.org/abs/1809.09299)
 
 # Video Object Segmentation
 
@@ -1557,6 +1612,11 @@ ranked 1st place in ImageNet Scene Parsing Challenge 2016
 
 - intro: ECCV 2018
 - arxiv: [https://arxiv.org/abs/1809.01123](https://arxiv.org/abs/1809.01123)
+
+**Mask Propagation Network for Video Object Segmentation**
+
+- intro: ByteDance AI Lab
+- arxiv: [https://arxiv.org/abs/1810.10289(https://arxiv.org/abs/1810.10289)]
 
 # Projects
 

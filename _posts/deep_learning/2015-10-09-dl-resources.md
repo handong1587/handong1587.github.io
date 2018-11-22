@@ -460,6 +460,13 @@ not just the convolutions)
 - arxiv: [https://arxiv.org/abs/1807.08920](https://arxiv.org/abs/1807.08920)
 - github: [https://github.com/scut-aitcm/CompetitiveSENet](https://github.com/scut-aitcm/CompetitiveSENet)
 
+## GENet
+
+**Gather-Excite: Exploiting Feature Context in Convolutional Neural Networks**
+
+- intro: NIPS 2018
+- github: [https://github.com/hujie-frank/GENet](https://github.com/hujie-frank/GENet)
+
 ## ImageNet Projects
 
 **Training an Object Classifier in Torch-7 on multiple GPUs over ImageNet**
@@ -645,6 +652,11 @@ not just the convolutions)
 **Auxiliary Tasks in Multi-task Learning**
 
 [https://arxiv.org/abs/1805.06334](https://arxiv.org/abs/1805.06334)
+
+**K For The Price Of 1: Parameter Efficient Multi-task And Transfer Learning**
+
+- intro: The University of Chicago & Google
+- arxiv: [https://arxiv.org/abs/1810.10703](https://arxiv.org/abs/1810.10703)
 
 # Multi-modal Learning
 
@@ -1269,6 +1281,15 @@ with fast exact probabilistic inference over many layers."
 - intro: ECCV 2018
 - arxiv: [https://arxiv.org/abs/1808.03749](https://arxiv.org/abs/1808.03749)
 
+**Penetrating the Fog: the Path to Efficient CNN Models**
+
+[https://arxiv.org/abs/1810.04231](https://arxiv.org/abs/1810.04231)
+
+**A2-Nets: Double Attention Networks**
+
+- intro: NIPS 2018
+- arxiv: [https://arxiv.org/abs/1810.11579](https://arxiv.org/abs/1810.11579)
+
 ## Convolutions / Filters
 
 **Warped Convolutions: Efficient Invariance to Spatial Transformations**
@@ -1425,7 +1446,7 @@ with fast exact probabilistic inference over many layers."
 - github: [https://github.com/edgelord/FractalNet](https://github.com/edgelord/FractalNet)
 - github(Keras): [https://github.com/snf/keras-fractalnet](https://github.com/snf/keras-fractalnet)
 
-## Architecture Search for Convolutional Neural Networks
+## Neural Architecture Search
 
 **Neural Architecture Search with Reinforcement Learning**
 
@@ -1533,6 +1554,19 @@ with fast exact probabilistic inference over many layers."
 
 - intro: NIPS 2018. Google Inc.
 - arxiv: [https://arxiv.org/abs/1809.04184](https://arxiv.org/abs/1809.04184)
+
+**NSGA-NET: A Multi-Objective Genetic Algorithm for Neural Architecture Search**
+
+- arxiv: [https://arxiv.org/abs/1810.03522](https://arxiv.org/abs/1810.03522)
+- gtihub: [https://github.com/ianwhale/nsga-net](https://github.com/ianwhale/nsga-net)
+
+**Graph HyperNetworks for Neural Architecture Search**
+
+[https://arxiv.org/abs/1810.05749](https://arxiv.org/abs/1810.05749)
+
+**Fast Neural Architecture Search of Compact Semantic Segmentation Models via Auxiliary Cells**
+
+[https://arxiv.org/abs/1810.10804](https://arxiv.org/abs/1810.10804)
 
 ## Graph Convolutional Networks
 
@@ -2346,6 +2380,10 @@ with fast exact probabilistic inference over many layers."
 
 - intro: ICML/FAIM 2018 workshop on Towards learning with limited labels: Equivariance, Invariance, and Beyond (oral presentation)
 - arxiv: [https://arxiv.org/abs/1807.11783](https://arxiv.org/abs/1807.11783)
+
+**Downsampling leads to Image Memorization in Convolutional Autoencoders**
+
+[https://arxiv.org/abs/1810.10333](https://arxiv.org/abs/1810.10333)
 
 ## Tutorials and Surveys
 

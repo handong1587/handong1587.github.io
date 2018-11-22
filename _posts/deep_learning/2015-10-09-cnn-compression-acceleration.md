@@ -535,6 +535,40 @@ at INT8 deep learning operations than other FPGA DSP architectures"
 
 [https://arxiv.org/abs/1808.07471](https://arxiv.org/abs/1808.07471)
 
+**Pruning neural networks: is it time to nip it in the bud?**
+
+[https://arxiv.org/abs/1810.04622](https://arxiv.org/abs/1810.04622)
+
+**Rethinking the Value of Network Pruning**
+
+[https://arxiv.org/abs/1810.05270](https://arxiv.org/abs/1810.05270)
+
+**Dynamic Channel Pruning: Feature Boosting and Suppression**
+
+[https://arxiv.org/abs/1810.05331](https://arxiv.org/abs/1810.05331)
+
+**Interpretable Convolutional Filter Pruning**
+
+[https://arxiv.org/abs/1810.07322](https://arxiv.org/abs/1810.07322)
+
+**Progressive Weight Pruning of Deep Neural Networks using ADMM**
+
+[https://arxiv.org/abs/1810.07378](https://arxiv.org/abs/1810.07378)
+
+**Pruning Deep Neural Networks using Partial Least Squares**
+
+- arxiv: [https://arxiv.org/abs/1810.07610](https://arxiv.org/abs/1810.07610)
+- github: [https://github.com/arturjordao/PruningNeuralNetworks](https://github.com/arturjordao/PruningNeuralNetworks)
+
+**Hybrid Pruning: Thinner Sparse Networks for Fast Inference on Edge Devices**
+
+[https://arxiv.org/abs/1811.00482](https://arxiv.org/abs/1811.00482)
+
+**Discrimination-aware Channel Pruning for Deep Neural Networks**
+
+- intro: NIPS 2018
+- arxiv: [https://arxiv.org/abs/1810.11809](https://arxiv.org/abs/1810.11809)
+
 # Low-Precision Networks
 
 **Accelerating Deep Convolutional Networks using low-precision and sparsity**
@@ -630,6 +664,10 @@ at INT8 deep learning operations than other FPGA DSP architectures"
 **Joint Training of Low-Precision Neural Network with Quantization Interval Parameters**
 
 [https://arxiv.org/abs/1808.05779](https://arxiv.org/abs/1808.05779)
+
+**Differentiable Fine-grained Quantization for Deep Neural Network Compression**
+
+[https://arxiv.org/abs/1810.10351](https://arxiv.org/abs/1810.10351)
 
 # Binary Convolutional Neural Networks / Binarized Neural Networks
 
@@ -796,6 +834,10 @@ at INT8 deep learning operations than other FPGA DSP architectures"
 **FPGA Implementation of Convolutional Neural Networks with Fixed-Point Calculations**
 
 [https://arxiv.org/abs/1808.09945](https://arxiv.org/abs/1808.09945)
+
+**Extended Bit-Plane Compression for Convolutional Neural Network Accelerators**
+
+[https://arxiv.org/abs/1810.03979](https://arxiv.org/abs/1810.03979)
 
 # Knowledge Distilling / Knowledge Transfer
 

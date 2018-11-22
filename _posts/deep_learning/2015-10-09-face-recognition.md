@@ -294,6 +294,13 @@ date: 2015-10-09
 - intro: BMVC 2018
 - arxiv: [https://arxiv.org/abs/1807.09192](https://arxiv.org/abs/1807.09192)
 
+**The Devil of Face Recognition is in the Noise**
+
+- intro: ECCV 2018
+- arxiv: [https://arxiv.org/abs/1807.11649](https://arxiv.org/abs/1807.11649)
+- paper: [http://openaccess.thecvf.com/content_ECCV_2018/papers/Liren_Chen_The_Devil_of_ECCV_2018_paper.pdf](http://openaccess.thecvf.com/content_ECCV_2018/papers/Liren_Chen_The_Devil_of_ECCV_2018_paper.pdf)
+- dataset: [https://github.com/fwang91/IMDb-Face](https://github.com/fwang91/IMDb-Face)
+
 **Deep Sketch-Photo Face Recognition Assisted by Facial Attributes**
 
 [https://arxiv.org/abs/1808.00059](https://arxiv.org/abs/1808.00059两)
@@ -310,6 +317,10 @@ date: 2015-10-09
 
 - intro: ECCV 2018
 - arxiv: [https://arxiv.org/abs/1808.04976](https://arxiv.org/abs/1808.04976)
+
+**Orthogonal Deep Features Decomposition for Age-Invariant Face Recognition**
+
+[https://arxiv.org/abs/1810.07599](https://arxiv.org/abs/1810.07599)
 
 # Facial Attributes Classification
 
@@ -446,6 +457,12 @@ date: 2015-10-09
 
 - intro: TPAMI 2018
 - arxiv: [https://arxiv.org/abs/1808.04803](https://arxiv.org/abs/1808.04803)
+
+**Towards Highly Accurate and Stable Face Alignment for High-Resolution Videos**
+
+- intro: AAAI 2019
+- arxiv: [https://arxiv.org/abs/1811.00342](https://arxiv.org/abs/1811.00342)
+- github: [https://github.com/tyshiwo/FHR_alignment](https://github.com/tyshiwo/FHR_alignment)
 
 # Face Synthesis
 

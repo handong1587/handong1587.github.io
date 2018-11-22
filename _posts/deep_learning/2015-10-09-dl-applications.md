@@ -294,6 +294,11 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 
 [https://arxiv.org/abs/1801.06724](https://arxiv.org/abs/1801.06724)
 
+**Fully Convolutional Network with Multi-Step Reinforcement Learning for Image Processing**
+
+- intro: AAAI 2019
+- arxiv: [https://arxiv.org/abs/1811.04323](https://arxiv.org/abs/1811.04323)
+
 # Image-Text
 
 **Learning Two-Branch Neural Networks for Image-Text Matching Tasks**
@@ -1057,6 +1062,11 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 - paper: [https://cs230.stanford.edu/projects_spring_2018/posters/8265861.pdf](https://cs230.stanford.edu/projects_spring_2018/posters/8265861.pdf)
 - github: [https://github.com/bendangnuksung/Image-OutPainting](https://github.com/bendangnuksung/Image-OutPainting)
 
+**Image Inpainting via Generative Multi-column Convolutional Neural Networks**
+
+- intro: NIPS 2018
+- arxiv: [https://arxiv.org/abs/1810.08771](https://arxiv.org/abs/1810.08771)
+
 # Image Restoration
 
 **Image Restoration Using Very Deep Convolutional Encoder-Decoder Networks with Symmetric Skip Connections**
@@ -1260,7 +1270,15 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 - arxiv: [https://arxiv.org/abs/1809.01826](https://arxiv.org/abs/1809.01826)
 - github: [https://github.com/Ding-Liu/DeepDenoising](https://github.com/Ding-Liu/DeepDenoising)
 
-# Image Haze Removal
+**DN-ResNet: Efficient Deep Residual Network for Image Denoising**
+
+[https://arxiv.org/abs/1810.06766](https://arxiv.org/abs/1810.06766)
+
+**Deep Learning for Image Denoising: A Survey**
+
+[https://arxiv.org/abs/1810.05052](https://arxiv.org/abs/1810.05052)
+
+# Image Dehazing / Image Haze Removal
 
 **DehazeNet: An End-to-End System for Single Image Haze Removal**
 
@@ -1338,6 +1356,10 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 
 - intro: CVCS 2018
 - arxiv: [https://arxiv.org/abs/1806.10923](https://arxiv.org/abs/1806.10923)
+
+**Generic Model-Agnostic Convolutional Neural Network for Single Image Dehazing**
+
+[https://arxiv.org/abs/1810.02862](https://arxiv.org/abs/1810.02862)
 
 # Image Rain Removal / De-raining
 
@@ -2057,6 +2079,11 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 - intro: ECCV 2018
 - arxiv: [https://arxiv.org/abs/1808.03959](https://arxiv.org/abs/1808.03959)
 
+**Real-time self-adaptive deep stereo**
+
+[https://arxiv.org/abs/1810.05424](https://arxiv.org/abs/1810.05424)
+[https://github.com/CVLAB-Unibo/Real-time-self-adaptive-deep-stereo](https://github.com/CVLAB-Unibo/Real-time-self-adaptive-deep-stereo)
+
 # Optical Flow
 
 **FlowNet: Learning Optical Flow with Convolutional Networks**
@@ -2086,7 +2113,10 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 
 **PWC-Net: CNNs for Optical Flow Using Pyramid, Warping, and Cost Volume**
 
-[https://arxiv.org/abs/1709.02371](https://arxiv.org/abs/1709.02371)
+- intro: CVPR 2018
+- project page: [https://research.nvidia.com/publication/2018-02_PWC-Net:-CNNs-for](https://research.nvidia.com/publication/2018-02_PWC-Net:-CNNs-for)
+- arxiv: [https://arxiv.org/abs/1709.02371](https://arxiv.org/abs/1709.02371)
+- github: [https://github.com/NVlabs/PWC-Net](https://github.com/NVlabs/PWC-Net)
 
 **Occlusion Aware Unsupervised Learning of Optical Flow**
 

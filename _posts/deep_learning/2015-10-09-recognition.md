@@ -431,6 +431,10 @@ date: 2015-10-09
 - intro: ICCV 2017
 - arxiv: [https://arxiv.org/abs/1709.08553](https://arxiv.org/abs/1709.08553)
 
+**Multi-label Object Attribute Classification using a Convolutional Neural Network**
+
+[https://arxiv.org/abs/1811.04309](https://arxiv.org/abs/1811.04309)
+
 # Pedestrian Attribute Recognition
 
 **Multi-attribute Learning for Pedestrian Attribute Recognition in Surveillance Scenarios**

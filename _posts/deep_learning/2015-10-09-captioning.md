@@ -359,6 +359,15 @@ after the embedding and recurrent layers of the RNN."
 - arxiv: [https://arxiv.org/abs/1808.05864](https://arxiv.org/abs/1808.05864)
 - github: [https://github.com/daqingliu/CAVP](https://github.com/daqingliu/CAVP)
 
+**Exploring Visual Relationship for Image Captioning**
+
+- intro: ECCV 2018
+- arxiv: [https://arxiv.org/abs/1809.07041](https://arxiv.org/abs/1809.07041)
+
+**Image Captioning as Neural Machine Translation Task in SOCKEYE**
+
+[https://arxiv.org/abs/1810.04101](https://arxiv.org/abs/1810.04101)
+
 # Object Descriptions
 
 **Generation and Comprehension of Unambiguous Object Descriptions**

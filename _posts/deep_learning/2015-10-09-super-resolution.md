@@ -313,6 +313,14 @@ date: 2015-10-09
 - intro: Won the 2nd place for Region 1 in the PIRM Challenge on Perceptual Super Resolution at ECCV 2018
 - arxiv: [https://arxiv.org/abs/1809.04783](https://arxiv.org/abs/1809.04783)
 
+**Channel-wise and Spatial Feature Modulation Network for Single Image Super-Resolution**
+
+[https://arxiv.org/abs/1809.11130](https://arxiv.org/abs/1809.11130)
+
+**Triple Attention Mixed Link Network for Single Image Super Resolution**
+
+[https://arxiv.org/abs/1810.03254](https://arxiv.org/abs/1810.03254)
+
 ## Video Super-resolution
 
 **Detail-revealing Deep Video Super-resolution**
