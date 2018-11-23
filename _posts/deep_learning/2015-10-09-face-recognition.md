@@ -322,6 +322,11 @@ date: 2015-10-09
 
 [https://arxiv.org/abs/1810.07599](https://arxiv.org/abs/1810.07599)
 
+**Pairwise Relational Networks using Local Appearance Features for Face Recognition**
+
+- intro: NIPS 2018 R2L workshop
+- arxiv: [https://arxiv.org/abs/1811.06405](https://arxiv.org/abs/1811.06405)
+
 # Facial Attributes Classification
 
 **A Jointly Learned Deep Architecture for Facial Attribute Analysis and Face Detection in the Wild**

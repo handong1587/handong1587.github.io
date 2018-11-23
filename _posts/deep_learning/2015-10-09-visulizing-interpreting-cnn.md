@@ -261,6 +261,11 @@ date: 2015-10-09
 - intro: Konica Minolta Laboratory Europe & Technical University of Munich
 - arxiv: [https://arxiv.org/abs/1805.00071](https://arxiv.org/abs/1805.00071)
 
+**Deeper Interpretability of Deep Networks**
+
+- intro: University of Glasgow & University of Oxford & University of California
+- arxiv: [https://arxiv.org/abs/1811.07807](https://arxiv.org/abs/1811.07807)
+
 # Projects
 
 **Interactive Deep Neural Net Hallucinations**

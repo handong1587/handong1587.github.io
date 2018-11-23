@@ -315,6 +315,10 @@ date: 2015-10-09
 - paper: [https://pjreddie.com/media/files/papers/YOLOv3.pdf](https://pjreddie.com/media/files/papers/YOLOv3.pdf)
 - arxiv: [https://arxiv.org/abs/1804.02767](https://arxiv.org/abs/1804.02767)
 
+**YOLO-LITE: A Real-Time Object Detection Algorithm Optimized for Non-GPU Computers**
+
+[https://arxiv.org/abs/1811.05588](https://arxiv.org/abs/1811.05588)
+
 - - -
 
 **AttentionNet: Aggregating Weak Directions for Accurate Object Detection**
@@ -1048,6 +1052,27 @@ Continuation of [arXiv:1608.08021](https://arxiv.org/abs/1608.08021)
 **BAN: Focusing on Boundary Context for Object Detection**
 
 [https://arxiv.org/abs/1811.05243](https://arxiv.org/abs/1811.05243)
+
+**Multi-layer Pruning Framework for Compressing Single Shot MultiBox Detector**
+
+- intro: WACV 2019
+- arxiv: [https://arxiv.org/abs/1811.08342](https://arxiv.org/abs/1811.08342)
+
+**R2CNN++: Multi-Dimensional Attention Based Rotation Invariant Detector with Robust Anchor Strategy**
+
+- arxiv: [https://arxiv.org/abs/1811.07126](https://arxiv.org/abs/1811.07126)
+- github: [https://github.com/DetectionTeamUCAS/R2CNN-Plus-Plus_Tensorflow](https://github.com/DetectionTeamUCAS/R2CNN-Plus-Plus_Tensorflow)
+
+**DeRPN: Taking a further step toward more general object detection**
+
+- intro: AAAI 2019
+- intro: South China University of Technology
+- ariv: [https://arxiv.org/abs/1811.06700](https://arxiv.org/abs/1811.06700)
+- github: [https://github.com/HCIILAB/DeRPN](https://github.com/HCIILAB/DeRPN)
+
+**Fast Efficient Object Detection Using Selective Attention**
+
+[https://arxiv.org/abs/1811.07502](https://arxiv.org/abs/1811.07502)
 
 # Non-Maximum Suppression (NMS)
 
@@ -1798,6 +1823,10 @@ This task involves predicting the salient regions of an image given by human eye
 
 [https://arxiv.org/abs/1810.10220](https://arxiv.org/abs/1810.10220)
 
+**Learning Better Features for Face Detection with Feature Fusion and Segmentation Supervision**
+
+[https://arxiv.org/abs/1811.08557](https://arxiv.org/abs/1811.08557)
+
 ## Detect Small Faces
 
 **Finding Tiny Faces**
@@ -2045,6 +2074,15 @@ This task involves predicting the salient regions of an image given by human eye
 
 - intro: UC Berkeley
 - arxiv: [https://arxiv.org/abs/1808.08603](https://arxiv.org/abs/1808.08603)
+
+**Domain Randomization for Scene-Specific Car Detection and Pose Estimation**
+
+[https://arxiv.org/abs/1811.05939](https://arxiv.org/abs/1811.05939)
+
+**ShuffleDet: Real-Time Vehicle Detection Network in On-board Embedded UAV Imagery**
+
+- intro: ECCV 2018, UAVision 2018
+- arxiv: [https://arxiv.org/abs/1811.06318](https://arxiv.org/abs/1811.06318)
 
 # Traffic-Sign Detection
 
@@ -2304,6 +2342,12 @@ This task involves predicting the salient regions of an image given by human eye
 - keywords: QMUL-OpenLogo
 - project page: [https://qmul-openlogo.github.io/](https://qmul-openlogo.github.io/)
 - arxiv: [https://arxiv.org/abs/1807.01964](https://arxiv.org/abs/1807.01964)
+
+**AttentionMask: Attentive, Efficient Object Proposal Generation Focusing on Small Objects**
+
+- intro: ACCV 2018 oral
+- arxiv: [https://arxiv.org/abs/1811.08728](https://arxiv.org/abs/1811.08728)
+- github: [https://github.com/chwilms/AttentionMask](https://github.com/chwilms/AttentionMask)
 
 # Localization
 

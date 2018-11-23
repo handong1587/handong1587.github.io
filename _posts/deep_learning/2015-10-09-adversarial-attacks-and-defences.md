@@ -356,3 +356,7 @@ date: 2015-10-09
 
 [https://arxiv.org/abs/1811.02248](https://arxiv.org/abs/1811.02248)
 [https://github.com/LTS4/SparseFool](https://github.com/LTS4/SparseFool)
+
+**Lightweight Lipschitz Margin Training for Certified Defense against Adversarial Examples**
+
+[https://arxiv.org/abs/1811.08080](https://arxiv.org/abs/1811.08080)

@@ -362,6 +362,10 @@ not just the convolutions)
 - arxiv: [https://arxiv.org/abs/1711.09224](https://arxiv.org/abs/1711.09224)
 - github: [https://github.com//ShichenLiu/CondenseNet](https://github.com//ShichenLiu/CondenseNet)
 
+**Multimodal Densenet**
+
+[https://arxiv.org/abs/1811.07407](https://arxiv.org/abs/1811.07407)
+
 ## Xception
 
 **Deep Learning with Separable Convolutions**
@@ -432,6 +436,10 @@ not just the convolutions)
 - github: [https://github.com/liangfu/mxnet-mobilenet-v2](https://github.com/liangfu/mxnet-mobilenet-v2)
 - blog: [https://research.googleblog.com/2018/04/mobilenetv2-next-generation-of-on.html](https://research.googleblog.com/2018/04/mobilenetv2-next-generation-of-on.html)
 
+**PydMobileNet: Improved Version of MobileNets with Pyramid Depthwise Separable Convolution**
+
+[https://arxiv.org/abs/1811.07083](https://arxiv.org/abs/1811.07083)
+
 ## ShuffleNet
 
 **ShuffleNet: An Extremely Efficient Convolutional Neural Network for Mobile Devices**
@@ -473,6 +481,17 @@ not just the convolutions)
 
 - intro: an imagenet example in torch
 - github: [https://github.com/soumith/imagenet-multiGPU.torch](https://github.com/soumith/imagenet-multiGPU.torch)
+
+# Pre-training
+
+**Exploring the Limits of Weakly Supervised Pretraining**
+
+- intro: report the highest ImageNet-1k single-crop, top-1 accuracy to date: 85.4% (97.6% top-5)
+- paper: [https://research.fb.com/publications/exploring-the-limits-of-weakly-supervised-pretraining/](https://research.fb.com/publications/exploring-the-limits-of-weakly-supervised-pretraining/)
+
+**Rethinking ImageNet Pre-training**
+
+[https://arxiv.org/abs/1811.08883](https://arxiv.org/abs/1811.08883)
 
 # Semi-Supervised Learning
 
@@ -2353,11 +2372,6 @@ with fast exact probabilistic inference over many layers."
 - arxiv: [https://arxiv.org/abs/1805.02641](https://arxiv.org/abs/1805.02641)
 - github: [https://github.com/hessamb/label-refinery](https://github.com/hessamb/label-refinery)
 
-**Exploring the Limits of Weakly Supervised Pretraining**
-
-- intro: report the highest ImageNet-1k single-crop, top-1 accuracy to date: 85.4% (97.6% top-5)
-- paper: [https://research.fb.com/publications/exploring-the-limits-of-weakly-supervised-pretraining/](https://research.fb.com/publications/exploring-the-limits-of-weakly-supervised-pretraining/)
-
 **How Many Samples are Needed to Learn a Convolutional Neural Network?**
 
 [https://arxiv.org/abs/1805.07883](https://arxiv.org/abs/1805.07883)
@@ -2384,6 +2398,10 @@ with fast exact probabilistic inference over many layers."
 **Downsampling leads to Image Memorization in Convolutional Autoencoders**
 
 [https://arxiv.org/abs/1810.10333](https://arxiv.org/abs/1810.10333)
+
+**Do Normalization Layers in a Deep ConvNet Really Need to Be Distinct?**
+
+[https://arxiv.org/abs/1811.07727](https://arxiv.org/abs/1811.07727)
 
 ## Tutorials and Surveys
 
@@ -2640,6 +2658,12 @@ with fast exact probabilistic inference over many layers."
 - intro: AAAI 2018 Oral.
 - arxiv: [https://arxiv.org/abs/1809.02176](https://arxiv.org/abs/1809.02176)
 
+**Unsupervised Domain Adaptation: An Adaptive Feature Norm Approach**
+
+- intro: Sun Yat-sen University
+- arxiv: [https://arxiv.org/abs/1811.07456](https://arxiv.org/abs/1811.07456)
+- github: [https://github.com/jihanyang/AFN/](https://github.com/jihanyang/AFN/)
+
 ## Embedding
 
 **Learning Deep Embeddings with Histogram Loss**
@@ -2729,6 +2753,10 @@ with fast exact probabilistic inference over many layers."
 
 - intro: CVPR 2018
 - arxiv: [https://arxiv.org/abs/1805.05020](https://arxiv.org/abs/1805.05020)
+
+**Not just a matter of semantics: the relationship between visual similarity and semantic similarity**
+
+[https://arxiv.org/abs/1811.07120](https://arxiv.org/abs/1811.07120)
 
 ### All-In-One Network
 

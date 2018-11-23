@@ -891,6 +891,16 @@ with built-in awareness of semantically meaningful boundaries. "
 
 - github(Caffe): [https://github.com/speedinghzl/Scale-Adaptive-Network](https://github.com/speedinghzl/Scale-Adaptive-Network)
 
+**Recurrent Iterative Gating Networks for Semantic Segmentation**
+
+- intro: WACV 2019
+- arxiv: [https://arxiv.org/abs/1811.08043](https://arxiv.org/abs/1811.08043)
+
+**CGNet: A Light-weight Context Guided Network for Semantic Segmentation**
+
+- arxiv: [https://arxiv.org/abs/1811.08201](https://arxiv.org/abs/1811.08201)
+- github: [https://github.com/wutianyiRosun/CGNet](https://github.com/wutianyiRosun/CGNet)
+
 # Instance Segmentation
 
 **Simultaneous Detection and Segmentation**
@@ -1590,6 +1600,10 @@ ranked 1st place in ImageNet Scene Parsing Challenge 2016
 **PReMVOS: Proposal-generation, Refinement and Merging for Video Object Segmentation**
 
 [https://arxiv.org/abs/1807.09190](https://arxiv.org/abs/1807.09190)
+
+**Tukey-Inspired Video Object Segmentation**
+
+[https://arxiv.org/abs/1811.07958](https://arxiv.org/abs/1811.07958)
 
 ## Challenge
 

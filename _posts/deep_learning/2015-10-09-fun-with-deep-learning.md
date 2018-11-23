@@ -365,6 +365,11 @@ Compressed model is less than 500KB
 
 [https://arxiv.org/abs/1807.01493](https://arxiv.org/abs/1807.01493)
 
+**Adjustable Real-time Style Transfer**
+
+- intro: University of Illinois at Urbana-Champaign && Google Brain
+- arxiv: [https://arxiv.org/abs/1811.08560](https://arxiv.org/abs/1811.08560)
+
 ## Neural Art On Audio
 
 **MSc AI Project on generative deep networks and neural style transfer for audio**

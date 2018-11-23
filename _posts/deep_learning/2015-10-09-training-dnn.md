@@ -21,6 +21,10 @@ date: 2015-10-09
 
 [https://arxiv.org/abs/1805.09300](https://arxiv.org/abs/1805.09300)
 
+**RePr: Improved Training of Convolutional Filters**
+
+[https://arxiv.org/abs/1811.07275](https://arxiv.org/abs/1811.07275)
+
 # Activation functions
 
 ## ReLU
@@ -849,6 +853,10 @@ date: 2015-10-09
 - intro: NIPS 2018
 - arxiv: [https://arxiv.org/abs/1810.09102](https://arxiv.org/abs/1810.09102)
 
+**Gradient-Coherent Strong Regularization for Deep Neural Networks**
+
+[https://arxiv.org/abs/1811.08056](https://arxiv.org/abs/1811.08056)
+
 ## Dropout
 
 **Improving neural networks by preventing co-adaptation of feature detectors**
@@ -963,6 +971,10 @@ date: 2015-10-09
 **DropFilter: Dropout for Convolutions**
 
 [https://arxiv.org/abs/1810.09849](https://arxiv.org/abs/1810.09849)
+
+**DropFilter: A Novel Regularization Method for Learning Convolutional Neural Networks**
+
+[https://arxiv.org/abs/1811.06783](https://arxiv.org/abs/1811.06783)
 
 **Targeted Dropout**
 

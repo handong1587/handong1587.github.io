@@ -220,6 +220,10 @@ date: 2015-10-09
 - intro: AAAI 2018
 - arxiv: [https://arxiv.org/abs/1712.07465](https://arxiv.org/abs/1712.07465)
 
+**A Baseline for Multi-Label Image Classification Using Ensemble Deep CNN**
+
+[https://arxiv.org/abs/1811.08412](https://arxiv.org/abs/1811.08412)
+
 # Person Recognition
 
 **Beyond Frontal Faces: Improving Person Recognition Using Multiple Cues**

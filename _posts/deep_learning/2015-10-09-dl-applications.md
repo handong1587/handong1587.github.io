@@ -624,6 +624,10 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 - intro: Georgia Institute of Technology & NVIDIA
 - arxiv: [https://arxiv.org/abs/1712.03342](https://arxiv.org/abs/1712.03342)
 
+**Image-to-GPS Verification Through A Bottom-Up Pattern Matching Network**
+
+[https://arxiv.org/abs/1811.07288](https://arxiv.org/abs/1811.07288)
+
 # Counting Objects
 
 **Towards perspective-free object counting with deep learning**
@@ -1419,6 +1423,15 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 
 - intro: ACM Multimedia 2018
 - arxiv: [https://arxiv.org/abs/1808.01491](https://arxiv.org/abs/1808.01491)
+
+**Gated Context Aggregation Network for Image Dehazing and Deraining**
+
+- intro: WACV 2019
+- arxiv: [https://arxiv.org/abs/1811.08747](https://arxiv.org/abs/1811.08747)
+
+**A Deep Tree-Structured Fusion Model for Single Image Deraining**
+
+[https://arxiv.org/abs/1811.08632](https://arxiv.org/abs/1811.08632)
 
 # Fence Removal
 

@@ -454,6 +454,11 @@ at INT8 deep learning operations than other FPGA DSP architectures"
 - intro: MIT
 - arxiv: [https://arxiv.org/abs/1806.03723](https://arxiv.org/abs/1806.03723)
 
+**Synetgy: Algorithm-hardware Co-design for ConvNet Accelerators on Embedded FPGAs**
+
+- intro: 27th International Symposium on Field-Programmable Gate Arrays, February 2019
+- arxiv: [https://arxiv.org/abs/1811.08634](https://arxiv.org/abs/1811.08634)
+
 # Compressing Deep Neural Network
 
 **Deep k-Means: Re-Training and Parameter Sharing with Harder Cluster Assignments for Compressing Deep Convolutions**
@@ -569,6 +574,20 @@ at INT8 deep learning operations than other FPGA DSP architectures"
 - intro: NIPS 2018
 - arxiv: [https://arxiv.org/abs/1810.11809](https://arxiv.org/abs/1810.11809)
 
+**Stability Based Filter Pruning for Accelerating Deep CNNs**
+
+- intro: WACV 2019
+- arxiv: [https://arxiv.org/abs/1811.08321](https://arxiv.org/abs/1811.08321)
+
+**Structured Pruning for Efficient ConvNets via Incremental Regularization**
+
+- intro: NIPS 2018 workshop on "Compact Deep Neural Network Representation with Industrial Applications"
+- arxiv: [https://arxiv.org/abs/1811.08390](https://arxiv.org/abs/1811.08390)
+
+**Graph-Adaptive Pruning for Efficient Inference of Convolutional Neural Networks**
+
+[https://arxiv.org/abs/1811.08589](https://arxiv.org/abs/1811.08589)
+
 # Low-Precision Networks
 
 **Accelerating Deep Convolutional Networks using low-precision and sparsity**
@@ -669,6 +688,10 @@ at INT8 deep learning operations than other FPGA DSP architectures"
 
 [https://arxiv.org/abs/1810.10351](https://arxiv.org/abs/1810.10351)
 
+**HAQ: Hardware-Aware Automated Quantization**
+
+[https://arxiv.org/abs/1811.08886](https://arxiv.org/abs/1811.08886)
+
 # Binary Convolutional Neural Networks / Binarized Neural Networks
 
 **BinaryNet: Training Deep Neural Networks with Weights and Activations Constrained to +1 or -1**
@@ -746,6 +769,10 @@ at INT8 deep learning operations than other FPGA DSP architectures"
 - intro: ICLR 2018
 - arxiv: [https://arxiv.org/abs/1802.08530](https://arxiv.org/abs/1802.08530)
 - github(official, PyTorch): [https://github.com/szagoruyko/binary-wide-resnet](https://github.com/szagoruyko/binary-wide-resnet)
+
+**Composite Binary Decomposition Networks**
+
+[https://arxiv.org/abs/1811.06668](https://arxiv.org/abs/1811.06668)
 
 # Accelerating / Fast Algorithms
 

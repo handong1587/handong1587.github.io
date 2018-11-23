@@ -315,6 +315,11 @@ date: 2015-10-09
 - arxiv: [https://arxiv.org/abs/1811.05014](https://arxiv.org/abs/1811.05014)
 - github: [https://github.com/linrongc/youtube-8m](https://github.com/linrongc/youtube-8m)
 
+**High Order Neural Networks for Video Classification**
+
+- intro: Fudan University, Carnegie Mellon University, Qiniu Inc., ByteDance AI Lab
+- arxiv: [https://arxiv.org/abs/1811.07519](https://arxiv.org/abs/1811.07519)
+
 ## Action Detection / Activity Recognition
 
 **3d convolutional neural networks for human action recognition**
@@ -598,6 +603,14 @@ extract saptio-temporal features to represent the video using the CNNs."
 **Where and When to Look? Spatio-temporal Attention for Action Recognition in Videos**
 
 [https://arxiv.org/abs/1810.04511](https://arxiv.org/abs/1810.04511)
+
+**Relational Long Short-Term Memory for Video Action Recognition**
+
+[https://arxiv.org/abs/1811.07059](https://arxiv.org/abs/1811.07059)
+
+**Temporal Recurrent Networks for Online Action Detection**
+
+[https://arxiv.org/abs/1811.073910](https://arxiv.org/abs/1811.07391)
 
 ### Projects
 
