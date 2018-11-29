@@ -352,6 +352,16 @@ date: 2015-10-09
 
 [https://arxiv.org/abs/1811.00202](https://arxiv.org/abs/1811.00202)
 
+**Hierarchy-based Image Embeddings for Semantic Image Retrieval**
+
+- intro: WACV 2019
+- arxiv: [https://arxiv.org/abs/1809.09924](https://arxiv.org/abs/1809.09924)
+- github: [https://github.com/cvjena/semantic-embeddings](https://github.com/cvjena/semantic-embeddings)
+**
+**Mean Local Group Average Precision (mLGAP): A New Performance Metric for Hashing-based Retrieval**
+
+[https://arxiv.org/abs/1811.09763](https://arxiv.org/abs/1811.09763)
+
 # Hashing
 
 **Supervised Hashing for Image Retrieval via Image Representation Learning**

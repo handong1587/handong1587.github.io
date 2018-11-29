@@ -1074,6 +1074,10 @@ Continuation of [arXiv:1608.08021](https://arxiv.org/abs/1608.08021)
 
 [https://arxiv.org/abs/1811.07502](https://arxiv.org/abs/1811.07502)
 
+**Sampling Techniques for Large-Scale Object Detection from Sparsely Annotated Objects**
+
+[https://arxiv.org/abs/1811.10862](https://arxiv.org/abs/1811.10862)
+
 # Non-Maximum Suppression (NMS)
 
 **End-to-End Integration of a Convolutional Network, Deformable Parts Model and Non-Maximum Suppression**
@@ -1268,6 +1272,10 @@ Continuation of [arXiv:1608.08021](https://arxiv.org/abs/1608.08021)
 **Pack and Detect: Fast Object Detection in Videos Using Region-of-Interest Packing**
 
 [https://arxiv.org/abs/1809.01701](https://arxiv.org/abs/1809.01701)
+
+**Fast Object Detection in Compressed Video**
+
+[https://arxiv.org/abs/1811.11057](https://arxiv.org/abs/1811.11057)
 
 # Object Detection on Mobile Devices
 

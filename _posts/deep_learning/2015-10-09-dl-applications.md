@@ -871,6 +871,10 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 - intro: ACM MM, full paper
 - arxiv: [https://arxiv.org/abs/1809.00101](https://arxiv.org/abs/1809.00101)
 
+**Context-Aware Crowd Counting**
+
+[https://arxiv.org/abs/1811.10452](https://arxiv.org/abs/1811.10452)
+
 # Activity Recognition
 
 **Implementing a CNN for Human Activity Recognition in Tensorflow**
@@ -1432,6 +1436,10 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 **A Deep Tree-Structured Fusion Model for Single Image Deraining**
 
 [https://arxiv.org/abs/1811.08632](https://arxiv.org/abs/1811.08632)
+
+**A^2Net: Adjacent Aggregation Networks for Image Raindrop Removal**
+
+[https://arxiv.org/abs/1811.09780](https://arxiv.org/abs/1811.09780)
 
 # Fence Removal
 

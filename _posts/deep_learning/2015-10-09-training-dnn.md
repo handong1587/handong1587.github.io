@@ -63,6 +63,11 @@ date: 2015-10-09
 - arxiv: [https://arxiv.org/abs/1803.08375](https://arxiv.org/abs/1803.08375)
 - github: [https://github.com/AFAgarap/relu-classifier](https://github.com/AFAgarap/relu-classifier)
 
+**Stochastic Gradient Descent Optimizes Over-parameterized Deep ReLU Networks**
+
+- intro: University of California, Los Angeles
+- arxiv: [https://arxiv.org/abs/1811.08888](https://arxiv.org/abs/1811.08888)
+
 ## LReLU
 
 **Rectifier Nonlinearities Improve Neural Network Acoustic Models**
@@ -741,6 +746,10 @@ date: 2015-10-09
 - intro: CMU & UC Berkeley
 - arxiv: [https://arxiv.org/abs/1712.05577](https://arxiv.org/abs/1712.05577)
 
+**A Sufficient Condition for Convergences of Adam and RMSProp**
+
+[https://arxiv.org/abs/1811.09358](https://arxiv.org/abs/1811.09358)
+
 ## Adam
 
 **Adam: A Method for Stochastic Optimization**
@@ -1358,6 +1367,16 @@ date: 2015-10-09
 **Data augmentation instead of explicit regularization**
 
 [https://arxiv.org/abs/1806.03852](https://arxiv.org/abs/1806.03852)
+
+**Data Augmentation using Random Image Cropping and Patching for Deep CNNs**
+
+- intro: An extended version of a proceeding of ACML2018
+- keywords: random image cropping and patching (RICAP)
+- arxiv: [https://arxiv.org/abs/1811.09030](https://arxiv.org/abs/1811.09030)
+
+**GANsfer Learning: Combining labelled and unlabelled data for GAN based data augmentat**
+
+[https://arxiv.org/abs/1811.10669](https://arxiv.org/abs/1811.10669)
 
 ## Imbalanced Datasets
 

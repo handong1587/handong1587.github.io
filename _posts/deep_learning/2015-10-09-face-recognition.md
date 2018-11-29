@@ -327,6 +327,19 @@ date: 2015-10-09
 - intro: NIPS 2018 R2L workshop
 - arxiv: [https://arxiv.org/abs/1811.06405](https://arxiv.org/abs/1811.06405)
 
+**Low-resolution Face Recognition in the Wild via Selective Knowledge Distillation**
+
+[https://arxiv.org/abs/1811.09998](https://arxiv.org/abs/1811.09998)
+
+L**ow-Resolution Face Recognition**
+
+- arxiv: [https://arxiv.org/abs/1811.08965](https://arxiv.org/abs/1811.08965)
+- dataset: [https://qmul-tinyface.github.io/](https://qmul-tinyface.github.io/)
+
+**MobiFace: A Lightweight Deep Learning Face Recognition on Mobile Devices**
+
+[https://arxiv.org/abs/1811.11080](https://arxiv.org/abs/1811.11080)
+
 # Facial Attributes Classification
 
 **A Jointly Learned Deep Architecture for Facial Attribute Analysis and Face Detection in the Wild**

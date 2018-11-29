@@ -491,7 +491,12 @@ not just the convolutions)
 
 **Rethinking ImageNet Pre-training**
 
-[https://arxiv.org/abs/1811.08883](https://arxiv.org/abs/1811.08883)
+- intro: Facebook AI Research
+- arxiv: [https://arxiv.org/abs/1811.08883](https://arxiv.org/abs/1811.08883)
+
+**Revisiting Pre-training: An Efficient Training Method for Image Classification**
+
+[https://arxiv.org/abs/1811.09347](https://arxiv.org/abs/1811.09347)
 
 # Semi-Supervised Learning
 
@@ -1038,6 +1043,12 @@ with fast exact probabilistic inference over many layers."
 - github: [https://github.com/felixlaumon/deform-conv](https://github.com/felixlaumon/deform-conv)
 - github: [https://github.com/oeway/pytorch-deform-conv](https://github.com/oeway/pytorch-deform-conv)
 
+Deformable ConvNets v2: More Deformable, Better Results**
+
+- intro: University of Science and Technology of China & Microsoft Research Asia
+- keywords: DCNv2
+- arxiv: [https://arxiv.org/abs/1811.11168](https://arxiv.org/abs/1811.11168)
+
 **Second-order Convolutional Neural Networks**
 
 [https://arxiv.org/abs/1703.06817](https://arxiv.org/abs/1703.06817)
@@ -1452,6 +1463,10 @@ with fast exact probabilistic inference over many layers."
 
 - intro: BMVC 2018
 - arxiv: [https://arxiv.org/abs/1807.04050](https://arxiv.org/abs/1807.04050)
+
+**MIST: Multiple Instance Spatial Transformer Network**
+
+[https://arxiv.org/abs/1811.10725](https://arxiv.org/abs/1811.10725)
 
 ## FractalNet
 

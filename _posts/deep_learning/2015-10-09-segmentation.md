@@ -1134,6 +1134,11 @@ with built-in awareness of semantically meaningful boundaries. "
 
 [https://arxiv.org/abs/1808.01452](https://arxiv.org/abs/1808.01452)
 
+**Affinity Derivation and Graph Merge for Instance Segmentation**
+
+- intro: ECCV 2018
+- arxiv: [https://arxiv.org/abs/1811.10870](https://arxiv.org/abs/1811.10870)
+
 ## Human Instance Segmentation
 
 **PersonLab: Person Pose Estimation and Instance Segmentation with a Bottom-Up, Part-Based, Geometric Embedding Model**

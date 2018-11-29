@@ -726,6 +726,10 @@ extract saptio-temporal features to represent the video using the CNNs."
 
 [https://arxiv.org/abs/1805.11223](https://arxiv.org/abs/1805.11223)
 
+**Attentioned Convolutional LSTM InpaintingNetwork for Anomaly Detection in Videos**
+
+[https://arxiv.org/abs/1811.10228](https://arxiv.org/abs/1811.10228)
+
 # Video Prediction
 
 **Deep multi-scale video prediction beyond mean square error**
@@ -914,6 +918,11 @@ alleviates the problem of video browsing, editing and indexing.
 
 - intro: BMVC 2018
 - arxiv: [https://arxiv.org/abs/1807.06677](https://arxiv.org/abs/1807.06677)
+
+**Discriminative Feature Learning for Unsupervised Video Summarization**
+
+- intro: AAAI 2019
+- arxiv: [https://arxiv.org/abs/1811.09791](https://arxiv.org/abs/1811.09791)
 
 # Video Highlight Detection
 
