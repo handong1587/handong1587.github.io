@@ -504,40 +504,6 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 
 - arxiv: [http://arxiv.org/abs/1511.03908](http://arxiv.org/abs/1511.03908)
 
-# Sentiment Analysis / Sentiment Prediction
-
-**From Pixels to Sentiment: Fine-tuning CNNs for Visual Sentiment Prediction**
-
-- arxiv: [http://arxiv.org/abs/1604.03489](http://arxiv.org/abs/1604.03489)
-- github: [https://github.com/imatge-upc/sentiment-2016](https://github.com/imatge-upc/sentiment-2016)
-- gitxiv: [http://gitxiv.com/posts/ruqRgXdPTHJ77LDEb/from-pixels-to-sentiment-fine-tuning-cnns-for-visual](http://gitxiv.com/posts/ruqRgXdPTHJ77LDEb/from-pixels-to-sentiment-fine-tuning-cnns-for-visual)
-
-**Predict Sentiment From Movie Reviews Using Deep Learning**
-
-- blog: [http://machinelearningmastery.com/predict-sentiment-movie-reviews-using-deep-learning/](http://machinelearningmastery.com/predict-sentiment-movie-reviews-using-deep-learning/)
-
-**Neural Sentiment Classification with User and Product Attention**
-
-- intro: EMNLP 2016
-- paper: [http://www.thunlp.org/~chm/publications/emnlp2016_NSCUPA.pdf](http://www.thunlp.org/~chm/publications/emnlp2016_NSCUPA.pdf)
-- github: [https://github.com/thunlp/NSC](https://github.com/thunlp/NSC)
-
-**From Pixels to Sentiment: Fine-tuning CNNs for Visual Sentiment Prediction**
-
-- intro: Accepted for publication in Image and Vision Computing
-- arxiv: [https://arxiv.org/abs/1604.03489](https://arxiv.org/abs/1604.03489)
-- github: [https://github.com/imatge-upc/sentiment-2016](https://github.com/imatge-upc/sentiment-2016)
-
-**Visual and Textual Sentiment Analysis Using Deep Fusion Convolutional Neural Networks**
-
-- intro: ICIP 2017
-- arxiv: [https://arxiv.org/abs/1711.07798](https://arxiv.org/abs/1711.07798)
-
-**Deep Learning for Sentiment Analysis : A Survey**
-
-- intro: LinkedIn & University of Illinois at Chicago
-- arxiv: [https://arxiv.org/abs/1801.07883](https://arxiv.org/abs/1801.07883)
-
 # Place Recognition
 
 **NetVLAD: CNN architecture for weakly supervised place recognition**
@@ -874,6 +840,10 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 **Context-Aware Crowd Counting**
 
 [https://arxiv.org/abs/1811.10452](https://arxiv.org/abs/1811.10452)
+
+**ADCrowdNet: An Attention-injective Deformable Convolutional Network for Crowd Understanding**
+
+[https://arxiv.org/abs/1811.11968](https://arxiv.org/abs/1811.11968)
 
 # Activity Recognition
 
