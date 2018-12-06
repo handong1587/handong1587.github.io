@@ -1045,6 +1045,10 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 - intro: NIPS 2018
 - arxiv: [https://arxiv.org/abs/1810.08771](https://arxiv.org/abs/1810.08771)
 
+**Deep Inception Generative Network for Cognitive Image Inpainting**
+
+[https://arxiv.org/abs/1812.01458](https://arxiv.org/abs/1812.01458)
+
 # Image Restoration
 
 **Image Restoration Using Very Deep Convolutional Encoder-Decoder Networks with Symmetric Skip Connections**

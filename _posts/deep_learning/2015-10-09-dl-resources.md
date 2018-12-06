@@ -1048,6 +1048,7 @@ Deformable ConvNets v2: More Deformable, Better Results**
 - intro: University of Science and Technology of China & Microsoft Research Asia
 - keywords: DCNv2
 - arxiv: [https://arxiv.org/abs/1811.11168](https://arxiv.org/abs/1811.11168)
+- github: [https://github.com/msracver/Deformable-ConvNets/tree/master/DCNv2_op](https://github.com/msracver/Deformable-ConvNets/tree/master/DCNv2_op)
 
 **Second-order Convolutional Neural Networks**
 
@@ -1319,6 +1320,16 @@ Deformable ConvNets v2: More Deformable, Better Results**
 
 - intro: NIPS 2018
 - arxiv: [https://arxiv.org/abs/1810.11579](https://arxiv.org/abs/1810.11579)
+**
+Global Second-order Pooling Neural Networks**
+
+[https://arxiv.org/abs/1811.12006](https://arxiv.org/abs/1811.12006)
+
+**ESPNetv2: A Light-weight, Power Efficient, and General Purpose Convolutional Neural Network**
+
+- intro: University of Washington & Allen Institute for AI (AI2) & XNOR.AI
+- arxiv: [https://arxiv.org/abs/1811.11431](https://arxiv.org/abs/1811.11431)
+- github: [https://github.com/sacmehta/ESPNetv2](https://github.com/sacmehta/ESPNetv2)
 
 ## Convolutions / Filters
 
@@ -1383,6 +1394,12 @@ Deformable ConvNets v2: More Deformable, Better Results**
 **Network Decoupling: From Regular to Depthwise Separable Convolutions**
 
 [https://arxiv.org/abs/1808.05517](https://arxiv.org/abs/1808.05517)
+
+**Partial Convolution based Padding**
+
+- intro: NVIDIA Corporation
+- arxiv; [https://arxiv.org/abs/1811.11718](https://arxiv.org/abs/1811.11718)
+- github: [https://github.com/NVIDIA/partialconv](https://github.com/NVIDIA/partialconv)
 
 ## Highway Networks
 
@@ -1601,6 +1618,11 @@ Deformable ConvNets v2: More Deformable, Better Results**
 **Fast Neural Architecture Search of Compact Semantic Segmentation Models via Auxiliary Cells**
 
 [https://arxiv.org/abs/1810.10804](https://arxiv.org/abs/1810.10804)
+
+**ProxylessNAS: Direct Neural Architecture Search on Target Task and Hardware**
+
+- intro: MIT
+- arxiv: [https://arxiv.org/abs/1812.00332](https://arxiv.org/abs/1812.00332)
 
 ## Graph Convolutional Networks
 
@@ -2418,6 +2440,14 @@ Deformable ConvNets v2: More Deformable, Better Results**
 
 [https://arxiv.org/abs/1811.07727](https://arxiv.org/abs/1811.07727)
 
+**Are All Training Examples Created Equal? An Empirical Study**
+
+[https://arxiv.org/abs/1811.12569](https://arxiv.org/abs/1811.12569)
+
+**ImageNet-trained CNNs are biased towards texture; increasing shape bias improves accuracy and robustness**
+
+[https://arxiv.org/abs/1811.12231](https://arxiv.org/abs/1811.12231)
+
 ## Tutorials and Surveys
 
 **A Survey: Time Travel in Deep Learning Space: An Introduction to Deep Learning Models and How Deep Learning Models Evolved from the Initial Ideas**
@@ -2706,6 +2736,11 @@ Deformable ConvNets v2: More Deformable, Better Results**
 **Heated-Up Softmax Embedding**
 
 [https://arxiv.org/abs/1809.04157](https://arxiv.org/abs/1809.04157)
+
+**Virtual Class Enhanced Discriminative Embedding Learning**
+
+- intro: NeurIPS 2018
+- arxiv: [https://arxiv.org/abs/1811.12611](https://arxiv.org/abs/1811.12611)
 
 ## Regression
 

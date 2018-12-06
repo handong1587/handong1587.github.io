@@ -360,3 +360,7 @@ date: 2015-10-09
 **Lightweight Lipschitz Margin Training for Certified Defense against Adversarial Examples**
 
 [https://arxiv.org/abs/1811.08080](https://arxiv.org/abs/1811.08080)
+
+**Adversarial Defense by Stratified Convolutional Sparse Coding**
+
+[https://arxiv.org/abs/1812.00037](https://arxiv.org/abs/1812.00037)

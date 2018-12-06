@@ -362,6 +362,15 @@ date: 2015-10-09
 
 [https://arxiv.org/abs/1811.09763](https://arxiv.org/abs/1811.09763)
 
+**Instance-level Sketch-based Retrieval by Deep Triplet Classification Siamese Network**
+
+[https://arxiv.org/abs/1811.11375](https://arxiv.org/abs/1811.11375)
+
+**Detect-to-Retrieve: Efficient Regional Aggregation for Image Search**
+
+- intro: University of Cambridge & Google AI
+- arxiv: [https://arxiv.org/abs/1812.01584](https://arxiv.org/abs/1812.01584)
+
 # Hashing
 
 **Supervised Hashing for Image Retrieval via Image Representation Learning**

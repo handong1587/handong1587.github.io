@@ -1078,6 +1078,33 @@ Continuation of [arXiv:1608.08021](https://arxiv.org/abs/1608.08021)
 
 [https://arxiv.org/abs/1811.10862](https://arxiv.org/abs/1811.10862)
 
+**Efficient Coarse-to-Fine Non-Local Module for the Detection of Small Objects**
+
+[https://arxiv.org/abs/1811.12152](https://arxiv.org/abs/1811.12152)
+
+**Deep Regionlets: Blended Representation and Deep Learning for Generic Object Detection**
+
+[https://arxiv.org/abs/1811.11318](https://arxiv.org/abs/1811.11318)
+
+**Grid R-CNN**
+
+- intro: SenseTime
+- arxiv: [https://arxiv.org/abs/1811.12030](https://arxiv.org/abs/1811.12030)
+
+**Transferable Adversarial Attacks for Image and Video Object Detection**
+
+[https://arxiv.org/abs/1811.12641](https://arxiv.org/abs/1811.12641)
+
+**Anchor Box Optimization for Object Detection**
+
+- intro: University of Illinois at Urbana-Champaign & Microsoft Research
+- arxiv: [https://arxiv.org/abs/1812.00469](https://arxiv.org/abs/1812.00469)
+
+**AutoFocus: Efficient Multi-Scale Inference**
+
+- intro: University of Maryland
+- arxiv: [https://arxiv.org/abs/1812.01600](https://arxiv.org/abs/1812.01600)
+
 # Non-Maximum Suppression (NMS)
 
 **End-to-End Integration of a Convolutional Network, Deformable Parts Model and Non-Maximum Suppression**
@@ -1865,6 +1892,12 @@ This task involves predicting the salient regions of an image given by human eye
 - arxiv: [https://arxiv.org/abs/1803.05258](https://arxiv.org/abs/1803.05258)
 - github: [https://github.com/po0ya/face-magnet](https://github.com/po0ya/face-magnet)
 
+**Robust Face Detection via Learning Small Faces on Hard Images**
+
+- intro: Johns Hopkins University & Stanford University
+- arxiv: [https://arxiv.org/abs/1811.11662](https://arxiv.org/abs/1811.11662)
+- github: [https://github.com/bairdzhang/smallhardface](https://github.com/bairdzhang/smallhardface)
+
 # Person Head Detection
 
 **Context-aware CNNs for person head detection**
@@ -2056,6 +2089,11 @@ This task involves predicting the salient regions of an image given by human eye
 
 - intro: BMVC 2018
 - arxiv: [https://arxiv.org/abs/1808.04818](https://arxiv.org/abs/1808.04818)
+
+**Pedestrian Detection with Autoregressive Network Phases**
+
+- intro: Michigan State University
+- arxiv: [https://arxiv.org/abs/1812.00440](https://arxiv.org/abs/1812.00440)
 
 # Vehicle Detection
 

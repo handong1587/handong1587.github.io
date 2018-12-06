@@ -901,6 +901,18 @@ with built-in awareness of semantically meaningful boundaries. "
 - arxiv: [https://arxiv.org/abs/1811.08201](https://arxiv.org/abs/1811.08201)
 - github: [https://github.com/wutianyiRosun/CGNet](https://github.com/wutianyiRosun/CGNet)
 
+**CCNet: Criss-Cross Attention for Semantic Segmentation**
+
+- intro: Huazhong University of Science and Technology & Horizon Robotics & University of Illinois at Urbana-Champaign
+- arxiv: [https://arxiv.org/abs/1811.11721](https://arxiv.org/abs/1811.11721)
+- github: [https://github.com/speedinghzl/CCNet](https://github.com/speedinghzl/CCNet)
+
+**ShelfNet for Real-time Semantic Segmentation**
+
+- intro: Yale University
+- arxiv: [https://arxiv.org/abs/1811.11254](https://arxiv.org/abs/1811.11254)
+- github: [https://github.com/juntang-zhuang/ShelfNet](https://github.com/juntang-zhuang/ShelfNet)
+
 # Instance Segmentation
 
 **Simultaneous Detection and Segmentation**
@@ -1139,6 +1151,11 @@ with built-in awareness of semantically meaningful boundaries. "
 - intro: ECCV 2018
 - arxiv: [https://arxiv.org/abs/1811.10870](https://arxiv.org/abs/1811.10870)
 
+**One-Shot Instance Segmentation**
+
+- intro: University of Tubingen
+- arxiv: [https://arxiv.org/abs/1811.11507](https://arxiv.org/abs/1811.11507)
+
 ## Human Instance Segmentation
 
 **PersonLab: Person Pose Estimation and Instance Segmentation with a Bottom-Up, Part-Based, Geometric Embedding Model**
@@ -1156,6 +1173,12 @@ with built-in awareness of semantically meaningful boundaries. "
 
 [https://arxiv.org/abs/1807.07674](https://arxiv.org/abs/1807.07674)
 
+**Parsing R-CNN for Instance-Level Human Analysis**
+
+- intro: COCO 2018 DensePose Challenge Winner
+- arxiv: [https://arxiv.org/abs/1811.12596](https://arxiv.org/abs/1811.12596)
+- github: [https://github.com/soeaver/Parsing-R-CNN](https://github.com/soeaver/Parsing-R-CNN)
+
 # Panoptic Segmentation
 
 **Panoptic Segmentation**
@@ -1167,6 +1190,12 @@ with built-in awareness of semantically meaningful boundaries. "
 **Panoptic Segmentation with a Joint Semantic and Instance Segmentation Network**
 
 [https://arxiv.org/abs/1809.02110](https://arxiv.org/abs/1809.02110)
+
+**Learning to Fuse Things and Stuff**
+
+- intro: Toyota Research Institute (TRI)
+- keywords: TASCNet
+- arxiv: [https://arxiv.org/abs/1812.01192](https://arxiv.org/abs/1812.01192)
 
 # Specific Segmentation
 
@@ -1609,6 +1638,10 @@ ranked 1st place in ImageNet Scene Parsing Challenge 2016
 **Tukey-Inspired Video Object Segmentation**
 
 [https://arxiv.org/abs/1811.07958](https://arxiv.org/abs/1811.07958)
+
+**A Generative Appearance Model for End-to-end Video Object Segmentation**
+
+[https://arxiv.org/abs/1811.11611](https://arxiv.org/abs/1811.11611)
 
 ## Challenge
 

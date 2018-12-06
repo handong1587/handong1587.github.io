@@ -340,6 +340,10 @@ L**ow-Resolution Face Recognition**
 
 [https://arxiv.org/abs/1811.11080](https://arxiv.org/abs/1811.11080)
 
+**Attacks on State-of-the-Art Face Recognition using Attentional Adversarial Attack Generative Network**
+
+[https://arxiv.org/abs/1811.12026](https://arxiv.org/abs/1811.12026)
+
 # Facial Attributes Classification
 
 **A Jointly Learned Deep Architecture for Facial Attribute Analysis and Face Detection in the Wild**

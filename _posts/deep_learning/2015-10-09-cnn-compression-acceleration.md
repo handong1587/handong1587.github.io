@@ -481,6 +481,14 @@ at INT8 deep learning operations than other FPGA DSP architectures"
 - intro: NIPS 2018
 - arxiv: [https://arxiv.org/abs/1809.01330](https://arxiv.org/abs/1809.01330)
 
+**A Framework for Fast and Efficient Neural Network Compression**
+
+[https://arxiv.org/abs/1811.12781](https://arxiv.org/abs/1811.12781)
+
+**ComDefend: An Efficient Image Compression Model to Defend Adversarial Examples**
+
+[https://arxiv.org/abs/1811.12673](https://arxiv.org/abs/1811.12673)
+
 # Pruning
 
 **ThiNet: A Filter Level Pruning Method for Deep Neural Network Compression**

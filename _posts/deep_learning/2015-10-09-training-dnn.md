@@ -638,6 +638,10 @@ date: 2015-10-09
 
 [https://arxiv.org/abs/1804.07612](https://arxiv.org/abs/1804.07612)
 
+**Second-order Optimization Method for Large Mini-batch: Training ResNet-50 on ImageNet in 35 Epochs**
+
+[https://arxiv.org/abs/1811.12019](https://arxiv.org/abs/1811.12019)
+
 # Optimization Methods
 
 **On Optimization Methods for Deep Learning**
@@ -1644,6 +1648,10 @@ date: 2015-10-09
 
 - intro: ECCV 2018
 - arxiv: [https://arxiv.org/abs/1808.01753](https://arxiv.org/abs/1808.01753)
+
+**Universal Adversarial Training**
+
+[https://arxiv.org/abs/1811.11304](https://arxiv.org/abs/1811.11304)
 
 # Low-Precision Training
 
