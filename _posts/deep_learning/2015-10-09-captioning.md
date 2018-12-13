@@ -372,6 +372,10 @@ after the embedding and recurrent layers of the RNN."
 
 [https://arxiv.org/abs/1811.10787](https://arxiv.org/abs/1811.10787)
 
+**Attend More Times for Image Captioning**
+
+[https://arxiv.org/abs/1812.03283](https://arxiv.org/abs/1812.03283)
+
 # Object Descriptions
 
 **Generation and Comprehension of Unambiguous Object Descriptions**

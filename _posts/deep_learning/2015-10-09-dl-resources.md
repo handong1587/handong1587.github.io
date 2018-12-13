@@ -458,6 +458,7 @@ not just the convolutions)
 
 **Squeeze-and-Excitation Networks**
 
+- intro: CVPR 2018
 - intro: ILSVRC 2017 image classification winner. Momenta & University of Oxford
 - arxiv: [https://arxiv.org/abs/1709.01507](https://arxiv.org/abs/1709.01507)
 - github(official, Caffe): [https://github.com/hujie-frank/SENet](https://github.com/hujie-frank/SENet)
@@ -1331,6 +1332,10 @@ Global Second-order Pooling Neural Networks**
 - arxiv: [https://arxiv.org/abs/1811.11431](https://arxiv.org/abs/1811.11431)
 - github: [https://github.com/sacmehta/ESPNetv2](https://github.com/sacmehta/ESPNetv2)
 
+**Kernel Transformer Networks for Compact Spherical Convolution**
+
+[https://arxiv.org/abs/1812.03115](https://arxiv.org/abs/1812.03115)
+
 ## Convolutions / Filters
 
 **Warped Convolutions: Efficient Invariance to Spatial Transformations**
@@ -1496,133 +1501,6 @@ Global Second-order Pooling Neural Networks**
 - github: [https://github.com/gustavla/fractalnet](https://github.com/gustavla/fractalnet)
 - github: [https://github.com/edgelord/FractalNet](https://github.com/edgelord/FractalNet)
 - github(Keras): [https://github.com/snf/keras-fractalnet](https://github.com/snf/keras-fractalnet)
-
-## Neural Architecture Search
-
-**Neural Architecture Search with Reinforcement Learning**
-
-- intro: Google Brain
-- paper: [https://openreview.net/pdf?id=r1Ue8Hcxg](https://openreview.net/pdf?id=r1Ue8Hcxg)
-
-**Neural Optimizer Search with Reinforcement Learning**
-
-- intro: ICML 2017
-- arxiv: [https://arxiv.org/abs/1709.07417](https://arxiv.org/abs/1709.07417)
-
-**Learning Transferable Architectures for Scalable Image Recognition**
-
-- intro: Google Brain
-- keywordss: Neural Architecture Search Network (NASNet), AutoML
-- arxiv: [https://arxiv.org/abs/1707.07012](https://arxiv.org/abs/1707.07012)
-- gtihub: [https://github.com//titu1994/Keras-NASNet](https://github.com//titu1994/Keras-NASNet)
-- blog: [https://research.googleblog.com/2017/11/automl-for-large-scale-image.html](https://research.googleblog.com/2017/11/automl-for-large-scale-image.html)
-- github: [https://github.com/titu1994/neural-architecture-search](https://github.com/titu1994/neural-architecture-search)
-
-**The First Step-by-Step Guide for Implementing Neural Architecture Search with Reinforcement Learning Using TensorFlow**
-
-- blog: [https://lab.wallarm.com/the-first-step-by-step-guide-for-implementing-neural-architecture-search-with-reinforcement-99ade71b3d28](https://lab.wallarm.com/the-first-step-by-step-guide-for-implementing-neural-architecture-search-with-reinforcement-99ade71b3d28)
-- github: [https://github.com/wallarm/nascell-automl](https://github.com/wallarm/nascell-automl)
-
-**Practical Network Blocks Design with Q-Learning**
-
-[https://arxiv.org/abs/1708.05552](https://arxiv.org/abs/1708.05552)
-
-**Simple And Efficient Architecture Search for Convolutional Neural Networks**
-
-- intro: Bosch Center for Artificial Intelligence & University of Freiburg
-- arxiv: [https://arxiv.org/abs/1711.04528](https://arxiv.org/abs/1711.04528)
-
-**Progressive Neural Architecture Search**
-
-- intri: Johns Hopkins University & Google Brain & Google Cloud & Stanford University & Google AI
-- arxiv: [https://arxiv.org/abs/1712.00559](https://arxiv.org/abs/1712.00559)
-
-**Finding Competitive Network Architectures Within a Day Using UCT**
-
-- intro: IBM Research AI – Ireland
-- arxiv: [https://arxiv.org/abs/1712.07420](https://arxiv.org/abs/1712.07420)
-
-**Regularized Evolution for Image Classifier Architecture Search**
-
-[https://arxiv.org/abs/1802.01548](https://arxiv.org/abs/1802.01548)
-
-**Efficient Neural Architecture Search via Parameters Sharing**
-
-- intro: Google Brain & CMU & Stanford University
-- arxiv: [https://arxiv.org/abs/1802.03268](https://arxiv.org/abs/1802.03268)
-- github: [https://github.com/carpedm20/ENAS-pytorch](https://github.com/carpedm20/ENAS-pytorch)
-- github: [https://github.com/melodyguan/enas](https://github.com/melodyguan/enas)
-
-**Neural Architecture Search with Bayesian Optimisation and Optimal Transport**
-
-- intro: CMU
-- arxiv: [https://arxiv.org/abs/1802.07191](https://arxiv.org/abs/1802.07191)
-
-**AlphaX: eXploring Neural Architectures with Deep Neural Networks and Monte Carlo Tree Search**
-
-- intro: Brown University & Northeastern University
-- arxiv: [https://arxiv.org/abs/1805.07440](https://arxiv.org/abs/1805.07440)
-
-**DPP-Net: Device-aware Progressive Search for Pareto-optimal Neural Architectures**
-
-- intro: National Tsing-Hua University & Google
-[https://arxiv.org/abs/1806.08198](https://arxiv.org/abs/1806.08198)
-
-**DARTS: Differentiable Architecture Search**
-
-- intro: Google & CMU
-- arxiv: [https://arxiv.org/abs/1806.09055](https://arxiv.org/abs/1806.09055)
-- gtihub: [https://github.com/quark0/darts](https://github.com/quark0/darts)
-
-**Towards Automated Deep Learning: Efficient Joint Neural Architecture and Hyperparameter Search**
-
-- intro: ICML 2018 AutoML Workshop. University of Freiburg
-- arxiv: [https://arxiv.org/abs/1807.06906](https://arxiv.org/abs/1807.06906)
-
-**Efficient Progressive Neural Architecture Search**
-
-- intro: BMVC 2018
-- arxiv: [https://arxiv.org/abs/1808.00391](https://arxiv.org/abs/1808.00391)
-
-**Reinforced Evolutionary Neural Architecture Search**
-
-[https://arxiv.org/abs/1808.00193](https://arxiv.org/abs/1808.00193)
-
-**Teacher Guided Architecture Search**
-
-[https://arxiv.org/abs/1808.01405](https://arxiv.org/abs/1808.01405)
-
-**BlockQNN: Efficient Block-wise Neural Network Architecture Generation**
-
-[https://arxiv.org/abs/1808.05584](https://arxiv.org/abs/1808.05584)
-
-**Neural Architecture Search: A Survey**
-
-- intro: Bosch Center for Artificial Intelligence & University of Freiburg
-- arxiv: [https://arxiv.org/abs/1808.05377](https://arxiv.org/abs/1808.05377)
-
-**Searching for Efficient Multi-Scale Architectures for Dense Image Prediction**
-
-- intro: NIPS 2018. Google Inc.
-- arxiv: [https://arxiv.org/abs/1809.04184](https://arxiv.org/abs/1809.04184)
-
-**NSGA-NET: A Multi-Objective Genetic Algorithm for Neural Architecture Search**
-
-- arxiv: [https://arxiv.org/abs/1810.03522](https://arxiv.org/abs/1810.03522)
-- gtihub: [https://github.com/ianwhale/nsga-net](https://github.com/ianwhale/nsga-net)
-
-**Graph HyperNetworks for Neural Architecture Search**
-
-[https://arxiv.org/abs/1810.05749](https://arxiv.org/abs/1810.05749)
-
-**Fast Neural Architecture Search of Compact Semantic Segmentation Models via Auxiliary Cells**
-
-[https://arxiv.org/abs/1810.10804](https://arxiv.org/abs/1810.10804)
-
-**ProxylessNAS: Direct Neural Architecture Search on Target Task and Hardware**
-
-- intro: MIT
-- arxiv: [https://arxiv.org/abs/1812.00332](https://arxiv.org/abs/1812.00332)
 
 ## Graph Convolutional Networks
 

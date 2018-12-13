@@ -199,6 +199,10 @@ Auto-encoder
 
 [https://arxiv.org/abs/1810.04246](https://arxiv.org/abs/1810.04246)
 
+**Deep Density-based Image Clustering**
+
+[https://arxiv.org/abs/1812.04287](https://arxiv.org/abs/1812.04287)
+
 # Auto-encoder
 
 **Auto-Encoding Variational Bayes**

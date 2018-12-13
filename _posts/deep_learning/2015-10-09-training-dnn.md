@@ -364,6 +364,12 @@ date: 2015-10-09
 
 [https://arxiv.org/abs/1809.00846](https://arxiv.org/abs/1809.00846)
 
+**How Does Batch Normalization Help Optimization?**
+
+- intro: NeurIPS 2018. MIT
+- arxiv: [https://arxiv.org/abs/1805.11604](https://arxiv.org/abs/1805.11604)
+- video: [https://www.youtube.com/watch?v=ZOabsYbmBRM](https://www.youtube.com/watch?v=ZOabsYbmBRM)
+
 ### Backward pass of BN
 
 **Understanding the backward pass through Batch Normalization Layer**
@@ -608,6 +614,8 @@ date: 2015-10-09
 
 **Scaling SGD Batch Size to 32K for ImageNet Training**
 
+**Large Batch Training of Convolutional Networks**
+
 [https://arxiv.org/abs/1708.03888](https://arxiv.org/abs/1708.03888)
 
 **ImageNet Training in 24 Minutes**
@@ -633,6 +641,11 @@ date: 2015-10-09
 
 - intro: UC Berkeley & University of Texas
 - arxiv: [https://arxiv.org/abs/1802.08241](https://arxiv.org/abs/1802.08241)
+
+**Large Batch Training of Convolutional Networks with Layer-wise Adaptive Rate Scaling**
+
+- keywords: large batch, LARS, adaptive rate scaling
+- openreview: [https://openreview.net/forum?id=rJ4uaX2aW](https://openreview.net/forum?id=rJ4uaX2aW)
 
 **Revisiting Small Batch Training for Deep Neural Networks**
 
@@ -702,6 +715,8 @@ date: 2015-10-09
 
 **SGDR: Stochastic Gradient Descent with Restarts**
 
+- intro: ICLR 2017
+- keywords: cosine annealing strategy
 - arxiv: [http://arxiv.org/abs/1608.03983](http://arxiv.org/abs/1608.03983)
 - github: [https://github.com/loshchil/SGDR](https://github.com/loshchil/SGDR)
 
@@ -1409,7 +1424,6 @@ date: 2015-10-09
 - arxiv: [https://arxiv.org/abs/1807.06538](https://arxiv.org/abs/1807.06538)
 - slides: [https://www.slideshare.net/TomohikoKonno/pseudofeature-generation-for-imbalanced-data-analysis-in-deep-learning-tomohiko-105318569](https://www.slideshare.net/TomohikoKonno/pseudofeature-generation-for-imbalanced-data-analysis-in-deep-learning-tomohiko-105318569)
 
-
 ## Noisy / Unlabelled Data
 
 **Data Distillation: Towards Omni-Supervised Learning**
@@ -1653,7 +1667,23 @@ date: 2015-10-09
 
 [https://arxiv.org/abs/1811.11304](https://arxiv.org/abs/1811.11304)
 
+**MEAL: Multi-Model Ensemble via Adversarial Learning**
+
+- intro: AAAI 2019
+- intro: Fudan University & University of Illinois at Urbana-Champaign
+- arxiv: [https://arxiv.org/abs/1812.02425](https://arxiv.org/abs/1812.02425)
+- github(official): [https://github.com/AaronHeee/MEAL](https://github.com/AaronHeee/MEAL)
+
+**Regularized Ensembles and Transferability in Adversarial Learning**
+
+[https://arxiv.org/abs/1812.01821](https://arxiv.org/abs/1812.01821)
+
 # Low-Precision Training
+
+**Mixed Precision Training**
+
+- intro: ICLR 2018
+- arxiv: [https://arxiv.org/abs/1710.03740](https://arxiv.org/abs/1710.03740)
 
 **High-Accuracy Low-Precision Training**
 

@@ -1112,6 +1112,12 @@ It is based on Facebook's TorchCraft, which is a bridge between Torch and StarCr
 - arxiv: [https://arxiv.org/abs/1801.02193](https://arxiv.org/abs/1801.02193)
 - gihtub: [https://github.com/Games-and-Simulations/sc-docker](https://github.com/Games-and-Simulations/sc-docker)
 
+**Macro action selection with deep reinforcement learning in StarCraft**
+
+- intro: Bilibili & Nanjing University
+- arxiv: [https://arxiv.org/abs/1812.00336](https://arxiv.org/abs/1812.00336)
+- github: [https://github.com/Bilibili/LastOrder](https://github.com/Bilibili/LastOrder)
+
 ## DeepLeague
 
 **DeepLeague: leveraging computer vision and deep learning on the League of Legends mini map + giving away a dataset of over 100,000 labeled images to further esports analytics research**

@@ -167,6 +167,13 @@ date: 2015-10-09
 - github: [https://github.com/wy1iu/sphereface](https://github.com/wy1iu/sphereface)
 - demo: [http://v-wb.youku.com/v_show/id_XMjk3NTc1NjMxMg==.html](http://v-wb.youku.com/v_show/id_XMjk3NTc1NjMxMg==.html)
 
+**Learning towards Minimum Hyperspherical Energy**
+
+- intro: NeurIPS 2018
+- keywords: SphereFace+
+- arxiv: [https://arxiv.org/abs/1805.09298](https://arxiv.org/abs/1805.09298)
+- github: [https://github.com/wy1iu/sphereface-plus](https://github.com/wy1iu/sphereface-plus)
+
 **L2-constrained Softmax Loss for Discriminative Face Verification**
 
 [https://arxiv.org/abs/1703.09507](https://arxiv.org/abs/1703.09507)
@@ -485,6 +492,10 @@ L**ow-Resolution Face Recognition**
 - intro: AAAI 2019
 - arxiv: [https://arxiv.org/abs/1811.00342](https://arxiv.org/abs/1811.00342)
 - github: [https://github.com/tyshiwo/FHR_alignment](https://github.com/tyshiwo/FHR_alignment)
+
+**Stacked Dense U-Nets with Dual Transformers for Robust Face Alignment**
+
+[https://arxiv.org/abs/1812.01936](https://arxiv.org/abs/1812.01936)
 
 # Face Synthesis
 

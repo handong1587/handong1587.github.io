@@ -309,6 +309,7 @@ date: 2015-10-09
 - arxiv: [https://arxiv.org/abs/1802.02611](https://arxiv.org/abs/1802.02611)
 - github: [https://github.com/tensorflow/models/tree/master/research/deeplab](https://github.com/tensorflow/models/tree/master/research/deeplab)
 - blog: [https://research.googleblog.com/2018/03/semantic-image-segmentation-with.html](https://research.googleblog.com/2018/03/semantic-image-segmentation-with.html)
+- github: [https://github.com/hualin95/Deeplab-v3plus](https://github.com/hualin95/Deeplab-v3plus)
 
 ## CRF-RNN
 
@@ -1196,6 +1197,11 @@ with built-in awareness of semantically meaningful boundaries. "
 - intro: Toyota Research Institute (TRI)
 - keywords: TASCNet
 - arxiv: [https://arxiv.org/abs/1812.01192](https://arxiv.org/abs/1812.01192)
+
+**Attention-guided Unified Network for Panoptic Segmentation**
+
+- intro: University of Chinese Academy of Sciences & Horizon Robotics, Inc. & The Johns Hopkins University
+- arxiv: [https://arxiv.org/abs/1812.03904](https://arxiv.org/abs/1812.03904)
 
 # Specific Segmentation
 

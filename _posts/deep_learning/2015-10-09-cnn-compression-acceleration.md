@@ -700,6 +700,16 @@ at INT8 deep learning operations than other FPGA DSP architectures"
 
 [https://arxiv.org/abs/1811.08886](https://arxiv.org/abs/1811.08886)
 
+**DNQ: Dynamic Network Quantization**
+
+- intro: Shanghai Jiao Tong University & Qualcomm AI Research
+- arxiv: [https://arxiv.org/abs/1812.02375](https://arxiv.org/abs/1812.02375)
+
+**Trained Rank Pruning for Efficient Deep Neural Networks**
+
+- intro: Shanghai Jiao Tong University & Qualcomm AI Research & Duke University
+- arxiv: [https://arxiv.org/abs/1812.02402](https://arxiv.org/abs/1812.02402)
+
 # Binary Convolutional Neural Networks / Binarized Neural Networks
 
 **BinaryNet: Training Deep Neural Networks with Weights and Activations Constrained to +1 or -1**
@@ -716,6 +726,10 @@ at INT8 deep learning operations than other FPGA DSP architectures"
 
 - arxiv: [http://arxiv.org/abs/1603.05279](http://arxiv.org/abs/1603.05279)
 - github(Torch): [https://github.com/mrastegari/XNOR-Net](https://github.com/mrastegari/XNOR-Net)
+
+**DoReFa-Net: Training Low Bitwidth Convolutional Neural Networks with Low Bitwidth Gradients**
+
+[https://arxiv.org/abs/1606.06160](https://arxiv.org/abs/1606.06160)
 
 **A 7.663-TOPS 8.2-W Energy-efficient FPGA Accelerator for Binary Convolutional Neural Networks**
 
@@ -781,6 +795,13 @@ at INT8 deep learning operations than other FPGA DSP architectures"
 **Composite Binary Decomposition Networks**
 
 [https://arxiv.org/abs/1811.06668](https://arxiv.org/abs/1811.06668)
+
+**Training Competitive Binary Neural Networks from Scratch**
+
+- intro: University of Potsdam
+- intro: BMXNet v2: An Open-Source Binary Neural Network Implementation Based on MXNet
+- arxiv: [https://arxiv.org/abs/1812.01965](https://arxiv.org/abs/1812.01965)
+- github: [https://github.com/hpi-xnor/BMXNet-v2](https://github.com/hpi-xnor/BMXNet-v2)
 
 # Accelerating / Fast Algorithms
 
@@ -1042,6 +1063,10 @@ at INT8 deep learning operations than other FPGA DSP architectures"
 - youtube: [https://www.youtube.com/watch?v=xACJBACStaU](https://www.youtube.com/watch?v=xACJBACStaU)
 
 # Resources
+
+**awesome-model-compression-and-acceleration**
+
+[https://github.com/sun254/awesome-model-compression-and-acceleration](https://github.com/sun254/awesome-model-compression-and-acceleration)
 
 **Embedded-Neural-Network**
 

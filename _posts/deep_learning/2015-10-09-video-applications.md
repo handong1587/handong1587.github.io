@@ -320,6 +320,11 @@ date: 2015-10-09
 - intro: Fudan University, Carnegie Mellon University, Qiniu Inc., ByteDance AI Lab
 - arxiv: [https://arxiv.org/abs/1811.07519](https://arxiv.org/abs/1811.07519)
 
+**SlowFast Networks for Video Recognition**
+
+- intro: Facebook AI Research (FAIR)
+- arxiv: [https://arxiv.org/abs/1812.03982](https://arxiv.org/abs/1812.03982)
+
 ## Action Detection / Activity Recognition
 
 **3d convolutional neural networks for human action recognition**
@@ -611,6 +616,13 @@ extract saptio-temporal features to represent the video using the CNNs."
 **Temporal Recurrent Networks for Online Action Detection**
 
 [https://arxiv.org/abs/1811.073910](https://arxiv.org/abs/1811.07391)
+
+**Video Action Transformer Network**
+
+- intro: Carnegie Mellon University & DeepMind & University of Oxford
+- intro: Ranked first on the AVA (computer vision only) leaderboard of the ActivityNet Challenge 2018
+- project page: [https://rohitgirdhar.github.io/ActionTransformer/](https://rohitgirdhar.github.io/ActionTransformer/)
+- arxiv: [https://arxiv.org/abs/1812.02707](https://arxiv.org/abs/1812.02707)
 
 ### Projects
 

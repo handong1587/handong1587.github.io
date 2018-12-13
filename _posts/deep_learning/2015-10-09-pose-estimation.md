@@ -140,6 +140,7 @@ date: 2015-10-09
 - intro: CVPR 2018. Tsinghua University & HuaZhong Univerisity of Science and Technology & Megvii Inc
 - arxiv: [https://arxiv.org/abs/1711.07319](https://arxiv.org/abs/1711.07319)
 - github(official): [https://github.com/chenyilun95/tf-cpn](https://github.com/chenyilun95/tf-cpn)
+- github: [https://github.com/GengDavid/pytorch-cpn](https://github.com/GengDavid/pytorch-cpn)
 
 **Integral Human Pose Regression**
 

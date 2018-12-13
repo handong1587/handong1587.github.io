@@ -314,6 +314,7 @@ date: 2015-10-09
 - project page: [https://pjreddie.com/darknet/yolo/](https://pjreddie.com/darknet/yolo/)
 - paper: [https://pjreddie.com/media/files/papers/YOLOv3.pdf](https://pjreddie.com/media/files/papers/YOLOv3.pdf)
 - arxiv: [https://arxiv.org/abs/1804.02767](https://arxiv.org/abs/1804.02767)
+- githb: [https://github.com/DeNA/PyTorch_YOLOv3](https://github.com/DeNA/PyTorch_YOLOv3)
 
 **YOLO-LITE: A Real-Time Object Detection Algorithm Optimized for Non-GPU Computers**
 
@@ -929,6 +930,8 @@ Continuation of [arXiv:1608.08021](https://arxiv.org/abs/1608.08021)
 
 **SNIPER: Efficient Multi-Scale Training**
 
+- intro: University of Maryland
+- keywords: SNIPER (Scale Normalization for Image Pyramid with Efficient Resampling)
 - arxiv: [https://arxiv.org/abs/1805.09300](https://arxiv.org/abs/1805.09300)
 - github: [https://github.com/mahyarnajibi/SNIPER](https://github.com/mahyarnajibi/SNIPER)
 
@@ -1104,6 +1107,10 @@ Continuation of [arXiv:1608.08021](https://arxiv.org/abs/1608.08021)
 
 - intro: University of Maryland
 - arxiv: [https://arxiv.org/abs/1812.01600](https://arxiv.org/abs/1812.01600)
+
+**Few-shot Object Detection via Feature Reweighting**
+
+[https://arxiv.org/abs/1812.01866](https://arxiv.org/abs/1812.01866)
 
 # Non-Maximum Suppression (NMS)
 
@@ -1303,6 +1310,11 @@ Continuation of [arXiv:1608.08021](https://arxiv.org/abs/1608.08021)
 **Fast Object Detection in Compressed Video**
 
 [https://arxiv.org/abs/1811.11057](https://arxiv.org/abs/1811.11057)
+
+**Tube-CNN: Modeling temporal evolution of appearance for object detection in video**
+
+- intro: INRIA/ENS
+- arxiv: [https://arxiv.org/abs/1812.02619](https://arxiv.org/abs/1812.02619)
 
 # Object Detection on Mobile Devices
 
