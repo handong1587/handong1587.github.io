@@ -374,3 +374,8 @@ date: 2015-10-09
 
 - intro: Johns Hopkins University & Facebook AI Research
 - arxiv: [https://arxiv.org/abs/1812.03411](https://arxiv.org/abs/1812.03411)
+
+**Defense-VAE: A Fast and Accurate Defense against Adversarial Attacks**
+
+- intro: Georgia State University
+- arxiv: [https://arxiv.org/abs/1812.06570](https://arxiv.org/abs/1812.06570)

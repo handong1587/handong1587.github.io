@@ -596,6 +596,12 @@ at INT8 deep learning operations than other FPGA DSP architectures"
 
 [https://arxiv.org/abs/1811.08589](https://arxiv.org/abs/1811.08589)
 
+**A Layer Decomposition-Recomposition Framework for Neuron Pruning towards Accurate Lightweight Networks**
+
+- intro: AAAI 2019 as oral
+- intro: Hikvision Research Institute
+- arxiv: [https://arxiv.org/abs/1812.06611](https://arxiv.org/abs/1812.06611)
+
 # Low-Precision Networks
 
 **Accelerating Deep Convolutional Networks using low-precision and sparsity**
@@ -642,6 +648,11 @@ at INT8 deep learning operations than other FPGA DSP architectures"
 **Discovering Low-Precision Networks Close to Full-Precision Networks for Efficient Embedded Inference**
 
 [https://arxiv.org/abs/1809.04191](https://arxiv.org/abs/1809.04191)
+
+**SQuantizer: Simultaneous Learning for Both Sparse and Low-precision Neural Networks**
+
+- intro: Movidius, AIPG, Intel
+- arxiv: [https://arxiv.org/abs/1812.08301](https://arxiv.org/abs/1812.08301)
 
 # Quantized Neural Networks
 
@@ -894,6 +905,12 @@ at INT8 deep learning operations than other FPGA DSP architectures"
 **Extended Bit-Plane Compression for Convolutional Neural Network Accelerators**
 
 [https://arxiv.org/abs/1810.03979](https://arxiv.org/abs/1810.03979)
+
+**DAC: Data-free Automatic Acceleration of Convolutional Networks**
+
+- intro: WACV 2019
+- intro: Qualcomm AI Research & Lehigh University
+- arxiv: [https://arxiv.org/abs/1812.08374](https://arxiv.org/abs/1812.08374)
 
 # Knowledge Distilling / Knowledge Transfer
 

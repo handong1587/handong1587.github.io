@@ -1874,6 +1874,10 @@ This task involves predicting the salient regions of an image given by human eye
 
 [https://arxiv.org/abs/1811.08557](https://arxiv.org/abs/1811.08557)
 
+**FA-RPN: Floating Region Proposals for Face Detection**
+
+[https://arxiv.org/abs/1812.05586](https://arxiv.org/abs/1812.05586)
+
 ## Detect Small Faces
 
 **Finding Tiny Faces**
@@ -1909,6 +1913,11 @@ This task involves predicting the salient regions of an image given by human eye
 - intro: Johns Hopkins University & Stanford University
 - arxiv: [https://arxiv.org/abs/1811.11662](https://arxiv.org/abs/1811.11662)
 - github: [https://github.com/bairdzhang/smallhardface](https://github.com/bairdzhang/smallhardface)
+
+**SFA: Small Faces Attention Face Detector**
+
+- intro: Jilin University
+- arxiv: [https://arxiv.org/abs/1812.08402](https://arxiv.org/abs/1812.08402)
 
 # Person Head Detection
 

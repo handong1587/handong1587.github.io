@@ -83,6 +83,11 @@ date: 2015-10-09
 - slides: [http://image-net.org/challenges/talks/2016/Multi-person%20pose%20estimation-CMU.pdf](http://image-net.org/challenges/talks/2016/Multi-person%20pose%20estimation-CMU.pdf)
 - github: [https://github.com/ZheC/Realtime_Multi-Person_Pose_Estimation](https://github.com/ZheC/Realtime_Multi-Person_Pose_Estimation)
 
+**OpenPose: Realtime Multi-Person 2D Pose Estimation using Part Affinity Fields**
+
+- intro: Journal version
+- arxiv: [https://arxiv.org/abs/1812.08008](https://arxiv.org/abs/1812.08008)
+
 **Region Ensemble Network: Improving Convolutional Network for Hand Pose Estimation**
 
 - arxiv: [https://arxiv.org/abs/1702.02447](https://arxiv.org/abs/1702.02447)

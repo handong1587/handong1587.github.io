@@ -624,6 +624,11 @@ extract saptio-temporal features to represent the video using the CNNs."
 - project page: [https://rohitgirdhar.github.io/ActionTransformer/](https://rohitgirdhar.github.io/ActionTransformer/)
 - arxiv: [https://arxiv.org/abs/1812.02707](https://arxiv.org/abs/1812.02707)
 
+**D3D: Distilled 3D Networks for Video Action Recognition**
+
+- intro: Google & University of Michigan & Princeton University
+- arxiv: [https://arxiv.org/abs/1812.08249](https://arxiv.org/abs/1812.08249)
+
 ### Projects
 
 **A Torch Library for Action Recognition and Detection Using CNNs and LSTMs**
