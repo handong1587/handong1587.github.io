@@ -1112,6 +1112,10 @@ Continuation of [arXiv:1608.08021](https://arxiv.org/abs/1608.08021)
 
 [https://arxiv.org/abs/1812.01866](https://arxiv.org/abs/1812.01866)
 
+**Practical Adversarial Attack Against Object Detector**
+
+[https://arxiv.org/abs/1812.10217](https://arxiv.org/abs/1812.10217)
+
 # Non-Maximum Suppression (NMS)
 
 **End-to-End Integration of a Convolutional Network, Deformable Parts Model and Non-Maximum Suppression**

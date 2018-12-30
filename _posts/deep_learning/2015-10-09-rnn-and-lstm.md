@@ -250,6 +250,11 @@ date: 2015-10-09
 - intro: Google Brain
 - arxiv: [https://arxiv.org/abs/1611.09913](https://arxiv.org/abs/1611.09913)
 
+**Large-Batch Training for LSTM and Beyond**
+
+- intro: UC Berkeley & UCLA & Google
+- paper: [https://www2.eecs.berkeley.edu/Pubs/TechRpts/2018/EECS-2018-138.pdf](https://www2.eecs.berkeley.edu/Pubs/TechRpts/2018/EECS-2018-138.pdf)
+
 # Learn To Execute Programs
 
 **Learning to Execute**
