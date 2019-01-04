@@ -1424,11 +1424,18 @@ ranked 1st place in ImageNet Scene Parsing Challenge 2016
 
 **Look into Person: Self-supervised Structure-sensitive Learning and A New Benchmark for Human Parsing**
 
-- intro: CVPr 2017. SYSU & CMU
+- intro: CVPR 2017. SYSU & CMU
 - keywords: Look Into Person (LIP)
 - project page: [http://hcp.sysu.edu.cn/lip/](http://hcp.sysu.edu.cn/lip/)
 - arxiv: [https://arxiv.org/abs/1703.05446](https://arxiv.org/abs/1703.05446)
 - github: [https://github.com/Engineering-Course/LIP_SSL](https://github.com/Engineering-Course/LIP_SSL)
+
+**Look into Person: Joint Body Parsing & Pose Estimation Network and A New Benchmark**
+
+- intro: T-PAMI 2018
+- keywords: Joint Body Parsing & Pose Estimation Network (JPPNet)
+- arxiv: [https://arxiv.org/abs/1804.01984](https://arxiv.org/abs/1804.01984)
+- github: [https://github.com/Engineering-Course/LIP_JPPNet](https://github.com/Engineering-Course/LIP_JPPNet)
 
 **Cross-domain Human Parsing via Adversarial Feature and Label Adaptation**
 
@@ -1604,7 +1611,9 @@ ranked 1st place in ImageNet Scene Parsing Challenge 2016
 **Dynamic Video Segmentation Network**
 
 - intro: CVPR 2018
+- keywords: DVSNet
 - arxiv: [https://arxiv.org/abs/1804.00931](https://arxiv.org/abs/1804.00931)
+- github: [https://github.com/XUSean0118/DVSNet](https://github.com/XUSean0118/DVSNet)
 
 **Low-Latency Video Semantic Segmentation**
 

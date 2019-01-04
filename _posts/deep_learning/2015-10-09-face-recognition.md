@@ -351,6 +351,11 @@ L**ow-Resolution Face Recognition**
 
 [https://arxiv.org/abs/1811.12026](https://arxiv.org/abs/1811.12026)
 
+**Support Vector Guided Softmax Loss for Face Recognition**
+
+- intro: JD AI research & Chinese Academy of Science
+- arxiv: [https://arxiv.org/abs/1812.11317](https://arxiv.org/abs/1812.11317)
+
 # Facial Attributes Classification
 
 **A Jointly Learned Deep Architecture for Facial Attribute Analysis and Face Detection in the Wild**
@@ -374,6 +379,10 @@ L**ow-Resolution Face Recognition**
 
 - intro: Xiamen University & Xiamen University of Technology
 - arxiv: [https://arxiv.org/abs/1805.01282](https://arxiv.org/abs/1805.01282)
+
+**A Survey to Deep Facial Attribute Analysis**
+
+[https://arxiv.org/abs/1812.10265](https://arxiv.org/abs/1812.10265)
 
 # Video Face Recognition
 

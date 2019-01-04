@@ -304,6 +304,11 @@ date: 2015-10-09
 - intro: Fast Pose Distillation (FPD)
 - arxiv: [https://arxiv.org/abs/1811.05419](https://arxiv.org/abs/1811.05419)
 
+**Rethinking on Multi-Stage Networks for Human Pose Estimation**
+
+- intro: Megvii Inc. (Face++) & Shanghai Jiao Tong University & Beihang University & Beijing University of Posts and Telecommunications
+- arxiv: [https://arxiv.org/abs/1901.00148](https://arxiv.org/abs/1901.00148)
+
 # 3D Pose
 
 **Can 3D Pose be Learned from 2D Projections Alone?**
@@ -336,6 +341,11 @@ date: 2015-10-09
 
 - intro: Full pipeline for TianChi FashionAI clothes keypoints detection compitetion in TensorFlow
 - github: [https://github.com/HiKapok/tf.fashionAI](https://github.com/HiKapok/tf.fashionAI)
+
+**FashionAI: KeyPoint Detection Challenge in Keras**
+
+- intro: Code for TianChi 2018 FashionAI Cloth KeyPoint Detection Challenge
+- github: [https://github.com/yuanyuanli85/FashionAI_KeyPoint_Detection_Challenge_Keras](https://github.com/yuanyuanli85/FashionAI_KeyPoint_Detection_Challenge_Keras)
 
 # Challenge
 

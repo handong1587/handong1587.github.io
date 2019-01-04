@@ -1116,6 +1116,12 @@ Continuation of [arXiv:1608.08021](https://arxiv.org/abs/1608.08021)
 
 [https://arxiv.org/abs/1812.10217](https://arxiv.org/abs/1812.10217)
 
+**Learning Efficient Detector with Semi-supervised Adaptive Distillation**
+
+- intro: SenseTime Research
+- arxiv: [https://arxiv.org/abs/1901.00366](https://arxiv.org/abs/1901.00366)
+- github: [https://github.com/Tangshitao/Semi-supervised-Adaptive-Distillation](https://github.com/Tangshitao/Semi-supervised-Adaptive-Distillation)
+
 # Non-Maximum Suppression (NMS)
 
 **End-to-End Integration of a Convolutional Network, Deformable Parts Model and Non-Maximum Suppression**

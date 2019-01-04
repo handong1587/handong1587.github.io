@@ -227,6 +227,7 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 - paper: [http://www.cv-foundation.org/openaccess/content_iccv_2015/papers/Xie_Holistically-Nested_Edge_Detection_ICCV_2015_paper.pdf](http://www.cv-foundation.org/openaccess/content_iccv_2015/papers/Xie_Holistically-Nested_Edge_Detection_ICCV_2015_paper.pdf)
 - arxiv: [http://arxiv.org/abs/1504.06375](http://arxiv.org/abs/1504.06375)
 - github: [https://github.com/s9xie/hed](https://github.com/s9xie/hed)
+- github: [https://github.com/moabitcoin/holy-edge](https://github.com/moabitcoin/holy-edge)
 
 **Unsupervised Learning of Edges**
 

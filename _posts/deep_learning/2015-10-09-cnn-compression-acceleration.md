@@ -602,6 +602,10 @@ at INT8 deep learning operations than other FPGA DSP architectures"
 - intro: Hikvision Research Institute
 - arxiv: [https://arxiv.org/abs/1812.06611](https://arxiv.org/abs/1812.06611)
 
+**Quantized Guided Pruning for Efficient Hardware Implementations of Convolutional Neural Networks**
+
+[https://arxiv.org/abs/1812.11337](https://arxiv.org/abs/1812.11337)
+
 # Low-Precision Networks
 
 **Accelerating Deep Convolutional Networks using low-precision and sparsity**

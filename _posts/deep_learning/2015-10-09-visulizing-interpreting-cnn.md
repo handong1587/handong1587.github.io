@@ -193,6 +193,10 @@ date: 2015-10-09
 - intro: University of Maryland & United States Naval Academy
 - arxiv: [https://arxiv.org/abs/1712.09913](https://arxiv.org/abs/1712.09913)
 
+**Visualizing Deep Similarity Networks**
+
+[https://arxiv.org/abs/1901.00536](https://arxiv.org/abs/1901.00536)
+
 ## Interpreting Convolutional Neural Networks
 
 **Network Dissection: Quantifying Interpretability of Deep Visual Representations**

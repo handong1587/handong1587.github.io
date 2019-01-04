@@ -228,6 +228,11 @@ date: 2015-10-09
 
 [https://arxiv.org/abs/1811.08412](https://arxiv.org/abs/1811.08412)
 
+**Multi-class Classification without Multi-class Labels**
+
+- intro: ICLR 2019
+- arxiv: [https://arxiv.org/abs/1901.00544](https://arxiv.org/abs/1901.00544)
+
 # Person Recognition
 
 **Beyond Frontal Faces: Improving Person Recognition Using Multiple Cues**
