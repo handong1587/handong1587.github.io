@@ -1406,6 +1406,10 @@ Global Second-order Pooling Neural Networks**
 - arxiv; [https://arxiv.org/abs/1811.11718](https://arxiv.org/abs/1811.11718)
 - github: [https://github.com/NVIDIA/partialconv](https://github.com/NVIDIA/partialconv)
 
+**DSConv: Efficient Convolution Operator**
+
+[https://arxiv.org/abs/1901.01928](https://arxiv.org/abs/1901.01928)
+
 ## Highway Networks
 
 **Highway Networks**

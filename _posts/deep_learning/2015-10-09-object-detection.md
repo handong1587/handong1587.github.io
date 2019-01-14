@@ -315,6 +315,7 @@ date: 2015-10-09
 - paper: [https://pjreddie.com/media/files/papers/YOLOv3.pdf](https://pjreddie.com/media/files/papers/YOLOv3.pdf)
 - arxiv: [https://arxiv.org/abs/1804.02767](https://arxiv.org/abs/1804.02767)
 - githb: [https://github.com/DeNA/PyTorch_YOLOv3](https://github.com/DeNA/PyTorch_YOLOv3)
+- github: [https://github.com/eriklindernoren/PyTorch-YOLOv3](https://github.com/eriklindernoren/PyTorch-YOLOv3)
 
 **YOLO-LITE: A Real-Time Object Detection Algorithm Optimized for Non-GPU Computers**
 
@@ -1122,6 +1123,16 @@ Continuation of [arXiv:1608.08021](https://arxiv.org/abs/1608.08021)
 - arxiv: [https://arxiv.org/abs/1901.00366](https://arxiv.org/abs/1901.00366)
 - github: [https://github.com/Tangshitao/Semi-supervised-Adaptive-Distillation](https://github.com/Tangshitao/Semi-supervised-Adaptive-Distillation)
 
+**Scale-Aware Trident Networks for Object Detection**
+
+- intro: University of Chinese Academy of Sciences & TuSimple
+- arxiv: [https://arxiv.org/abs/1901.01892](https://arxiv.org/abs/1901.01892)
+
+**Region Proposal by Guided Anchoring**
+
+- intro: CUHK - SenseTime Joint Lab & Amazon Rekognition & Nanyang Technological University
+- arxiv: [https://arxiv.org/abs/1901.03278](https://arxiv.org/abs/1901.03278)
+
 # Non-Maximum Suppression (NMS)
 
 **End-to-End Integration of a Convolutional Network, Deformable Parts Model and Non-Maximum Suppression**
@@ -1350,6 +1361,11 @@ Continuation of [arXiv:1608.08021](https://arxiv.org/abs/1608.08021)
 
 - arxiv: [https://arxiv.org/abs/1809.06065](https://arxiv.org/abs/1809.06065)
 - github: [https://github.com/pyun-ram/FL3D](https://github.com/pyun-ram/FL3D)
+
+**3D Object Detection Using Scale Invariant and Feature Reweighting Networks**
+
+- intro: AAAI 2019
+- arxiv: [https://arxiv.org/abs/1901.02237](https://arxiv.org/abs/1901.02237)
 
 # Object Detection on RGB-D
 
@@ -1888,6 +1904,10 @@ This task involves predicting the salient regions of an image given by human eye
 
 [https://arxiv.org/abs/1812.05586](https://arxiv.org/abs/1812.05586)
 
+**Robust and High Performance Face Detector**
+
+[https://arxiv.org/abs/1901.02350](https://arxiv.org/abs/1901.02350)
+
 ## Detect Small Faces
 
 **Finding Tiny Faces**
@@ -2125,6 +2145,10 @@ This task involves predicting the salient regions of an image given by human eye
 
 - intro: Michigan State University
 - arxiv: [https://arxiv.org/abs/1812.00440](https://arxiv.org/abs/1812.00440)
+
+**The Cross-Modality Disparity Problem in Multispectral Pedestrian Detection**
+
+[https://arxiv.org/abs/1901.02645](https://arxiv.org/abs/1901.02645)
 
 # Vehicle Detection
 

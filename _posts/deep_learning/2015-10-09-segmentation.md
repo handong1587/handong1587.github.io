@@ -914,6 +914,11 @@ with built-in awareness of semantically meaningful boundaries. "
 - arxiv: [https://arxiv.org/abs/1811.11254](https://arxiv.org/abs/1811.11254)
 - github: [https://github.com/juntang-zhuang/ShelfNet](https://github.com/juntang-zhuang/ShelfNet)
 
+**Auto-DeepLab: Hierarchical Neural Architecture Search for Semantic Image Segmentation**
+
+- intro: Johns Hopkins University & Google & Stanford University
+- arxiv: [https://arxiv.org/abs/1901.02985](https://arxiv.org/abs/1901.02985)
+
 # Instance Segmentation
 
 **Simultaneous Detection and Segmentation**
@@ -1202,6 +1207,11 @@ with built-in awareness of semantically meaningful boundaries. "
 
 - intro: University of Chinese Academy of Sciences & Horizon Robotics, Inc. & The Johns Hopkins University
 - arxiv: [https://arxiv.org/abs/1812.03904](https://arxiv.org/abs/1812.03904)
+
+**Panoptic Feature Pyramid Networks**
+
+- intro: FAIR
+- arxiv: [https://arxiv.org/abs/1901.02446](https://arxiv.org/abs/1901.02446)
 
 # Specific Segmentation
 
@@ -1657,6 +1667,12 @@ ranked 1st place in ImageNet Scene Parsing Challenge 2016
 **A Generative Appearance Model for End-to-end Video Object Segmentation**
 
 [https://arxiv.org/abs/1811.11611](https://arxiv.org/abs/1811.11611)
+
+**Unseen Object Segmentation in Videos via Transferable Representations**
+
+- intro: ACCV 2018 oral
+- arxiv: [https://arxiv.org/abs/1901.02444](https://arxiv.org/abs/1901.02444)
+- github: [https://github.com/wenz116/TransferSeg](https://github.com/wenz116/TransferSeg)
 
 ## Challenge
 

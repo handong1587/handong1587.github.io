@@ -857,6 +857,11 @@ extract saptio-temporal features to represent the video using the CNNs."
 
 [https://yahooresearch.tumblr.com/post/148009705216/creating-animated-gifs-automatically-from-video](https://yahooresearch.tumblr.com/post/148009705216/creating-animated-gifs-automatically-from-video)
 
+**GIF2Video: Color Dequantization and Temporal Interpolation of GIF images**
+
+- intro: Stony Brook University & Megvii Research USA & UCLA
+- arxiv: [https://arxiv.org/abs/1901.02840](https://arxiv.org/abs/1901.02840)
+
 # Video2Speech
 
 **Vid2speech: Speech Reconstruction from Silent Video**

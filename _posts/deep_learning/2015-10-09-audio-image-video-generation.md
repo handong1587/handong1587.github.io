@@ -250,6 +250,10 @@ date: 2015-10-09
 - arxiv: [https://arxiv.org/abs/1801.00055](https://arxiv.org/abs/1801.00055)
 - github: [https://github.com/AliaksandrSiarohin/pose-gan](https://github.com/AliaksandrSiarohin/pose-gan)
 
+**Unpaired Pose Guided Human Image Generation**
+
+[https://arxiv.org/abs/1901.02284](https://arxiv.org/abs/1901.02284)
+
 # Video Generation
 
 **MoCoGAN: Decomposing Motion and Content for Video Generation**
