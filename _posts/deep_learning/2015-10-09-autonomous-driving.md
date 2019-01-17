@@ -31,6 +31,11 @@ date: 2015-10-09
 - arxiv: [http://arxiv.org/abs/1504.01716](http://arxiv.org/abs/1504.01716)
 - github: [https://github.com/brodyh/caffe](https://github.com/brodyh/caffe)
 
+**Real-time Joint Object Detection and Semantic Segmentation Network for Automated Driving**
+
+- intro: NeurIPS 2018 Workshop on Machine Learning on the Phone and other Consumer Devices (MLPCD 2)
+- arxiv: [https://arxiv.org/abs/1901.03912](https://arxiv.org/abs/1901.03912)
+
 ## DeepDriving
 
 **DeepDriving: Learning Affordance for Direct Perception in Autonomous Driving**

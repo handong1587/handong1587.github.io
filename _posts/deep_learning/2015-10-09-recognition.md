@@ -498,6 +498,10 @@ date: 2015-10-09
 - keywords: joint CTC-Attention model (JCM), s connectionist temporal classification (CTC)
 - arxiv: [https://arxiv.org/abs/1811.08115](https://arxiv.org/abs/1811.08115)
 
+**The Deeper, the Better: Analysis of Person Attributes Recognition**
+
+[https://arxiv.org/abs/1901.03756](https://arxiv.org/abs/1901.03756)
+
 # Clothes Recognition
 
 **DeepFashion: Powering Robust Clothes Recognition and Retrieval with Rich Annotations**

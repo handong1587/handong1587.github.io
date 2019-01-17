@@ -316,6 +316,24 @@ date: 2015-10-09
 - intro: ECCV 2018 workshop
 - arxiv: [https://arxiv.org/abs/1808.07182](https://arxiv.org/abs/1808.07182)
 
+**Fast and Robust Multi-Person 3D Pose Estimation from Multiple Views**
+
+- project page: [https://zju-3dv.github.io/mvpose/](https://zju-3dv.github.io/mvpose/)
+- arxiv: [https://arxiv.org/abs/1901.04111](https://arxiv.org/abs/1901.04111)
+- github: [https://github.com/zju-3dv/mvpose](https://github.com/zju-3dv/mvpose)
+
+**3D Human Pose Machines with Self-supervised Learning**
+
+- intro: T-PAMI 2019
+- project page: [http://www.sysu-hcp.net/3d_pose_ssl/](http://www.sysu-hcp.net/3d_pose_ssl/)
+- arxiv: [https://arxiv.org/abs/1901.03798](https://arxiv.org/abs/1901.03798)
+- github: [https://github.com/chanyn/3Dpose_ssl](https://github.com/chanyn/3Dpose_ssl)
+
+**Feature Boosting Network For 3D Pose Estimation**
+
+- intro: Nanyang Technological University & Chalmers University of Technology & Peking University & Alibaba Group
+- arxiv: [https://arxiv.org/abs/1901.04877](https://arxiv.org/abs/1901.04877)
+
 # Object Pose Estimation
 
 **Real-Time Object Pose Estimation with Pose Interpreter Networks**

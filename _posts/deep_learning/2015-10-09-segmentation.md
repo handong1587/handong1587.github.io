@@ -1213,6 +1213,11 @@ with built-in awareness of semantically meaningful boundaries. "
 - intro: FAIR
 - arxiv: [https://arxiv.org/abs/1901.02446](https://arxiv.org/abs/1901.02446)
 
+**UPSNet: A Unified Panoptic Segmentation Network**
+
+- intro: Uber ATG & University of Toronto & The Chinese University of Hong Kong
+- arxiv: [https://arxiv.org/abs/1901.03784](https://arxiv.org/abs/1901.03784)
+
 # Specific Segmentation
 
 **A CNN Cascade for Landmark Guided Semantic Part Segmentation**
@@ -1236,6 +1241,11 @@ with built-in awareness of semantically meaningful boundaries. "
 **Boundary-sensitive Network for Portrait Segmentation**
 
 [https://arxiv.org/abs/1712.08675](https://arxiv.org/abs/1712.08675)
+
+**Boundary-Aware Network for Fast and High-Accuracy Portrait Segmentation**
+
+- intro: Zhejiang University
+- arxiv: [https://arxiv.org/abs/1901.03814](https://arxiv.org/abs/1901.03814)
 
 **Beef Cattle Instance Segmentation Using Fully Convolutional Neural Network**
 

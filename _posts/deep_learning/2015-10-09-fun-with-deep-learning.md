@@ -370,6 +370,11 @@ Compressed model is less than 500KB
 - intro: University of Illinois at Urbana-Champaign && Google Brain
 - arxiv: [https://arxiv.org/abs/1811.08560](https://arxiv.org/abs/1811.08560)
 
+**Automated Deep Photo Style Transfer**
+
+- intro: University of Tubingen
+- arxiv: [https://arxiv.org/abs/1901.03915](https://arxiv.org/abs/1901.03915)
+
 ## Neural Art On Audio
 
 **MSc AI Project on generative deep networks and neural style transfer for audio**
