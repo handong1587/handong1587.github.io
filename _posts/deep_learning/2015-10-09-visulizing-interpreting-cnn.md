@@ -193,6 +193,10 @@ date: 2015-10-09
 - intro: University of Maryland & United States Naval Academy
 - arxiv: [https://arxiv.org/abs/1712.09913](https://arxiv.org/abs/1712.09913)
 
+**Visualizing Deep Similarity Networks**
+
+[https://arxiv.org/abs/1901.00536](https://arxiv.org/abs/1901.00536)
+
 ## Interpreting Convolutional Neural Networks
 
 **Network Dissection: Quantifying Interpretability of Deep Visual Representations**
@@ -260,6 +264,23 @@ date: 2015-10-09
 
 - intro: Konica Minolta Laboratory Europe & Technical University of Munich
 - arxiv: [https://arxiv.org/abs/1805.00071](https://arxiv.org/abs/1805.00071)
+
+**Deeper Interpretability of Deep Networks**
+
+- intro: University of Glasgow & University of Oxford & University of California
+- arxiv: [https://arxiv.org/abs/1811.07807](https://arxiv.org/abs/1811.07807)
+
+**Interpretable CNNs**
+
+[https://arxiv.org/abs/1901.02413](https://arxiv.org/abs/1901.02413)
+
+**Explaining AlphaGo: Interpreting Contextual Effects in Neural Networks**
+
+[https://arxiv.org/abs/1901.02184](https://arxiv.org/abs/1901.02184)
+
+**Interpretable BoW Networks for Adversarial Example Detection**
+
+[https://arxiv.org/abs/1901.02229](https://arxiv.org/abs/1901.02229)
 
 # Projects
 

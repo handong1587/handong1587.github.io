@@ -343,6 +343,34 @@ date: 2015-10-09
 - intro: ECCV 2018
 - arxiv: [https://arxiv.org/abs/1808.09044](https://arxiv.org/abs/1808.09044)
 
+**Learning Embeddings for Product Visual Search with Triplet Loss and Online Sampling**
+
+- intro: Yahoo Research
+- arxiv: [https://arxiv.org/abs/1810.04652](https://arxiv.org/abs/1810.04652)
+
+**Attention-aware Generalized Mean Pooling for Image Retrieval**
+
+[https://arxiv.org/abs/1811.00202](https://arxiv.org/abs/1811.00202)
+
+**Hierarchy-based Image Embeddings for Semantic Image Retrieval**
+
+- intro: WACV 2019
+- arxiv: [https://arxiv.org/abs/1809.09924](https://arxiv.org/abs/1809.09924)
+- github: [https://github.com/cvjena/semantic-embeddings](https://github.com/cvjena/semantic-embeddings)
+**
+**Mean Local Group Average Precision (mLGAP): A New Performance Metric for Hashing-based Retrieval**
+
+[https://arxiv.org/abs/1811.09763](https://arxiv.org/abs/1811.09763)
+
+**Instance-level Sketch-based Retrieval by Deep Triplet Classification Siamese Network**
+
+[https://arxiv.org/abs/1811.11375](https://arxiv.org/abs/1811.11375)
+
+**Detect-to-Retrieve: Efficient Regional Aggregation for Image Search**
+
+- intro: University of Cambridge & Google AI
+- arxiv: [https://arxiv.org/abs/1812.01584](https://arxiv.org/abs/1812.01584)
+
 # Hashing
 
 **Supervised Hashing for Image Retrieval via Image Representation Learning**
@@ -819,6 +847,11 @@ date: 2015-10-09
 
 - arxiv: [https://arxiv.org/abs/1808.04469](https://arxiv.org/abs/1808.04469)
 - github: [https://github.com/littleredxh/DREML](https://github.com/littleredxh/DREML)
+
+**Deep Metric Learning with Hierarchical Triplet Loss**
+
+- intro: ECCV 2018
+- arxiv: [https://arxiv.org/abs/1810.06951](https://arxiv.org/abs/1810.06951)
 
 # Talks / Slides
 

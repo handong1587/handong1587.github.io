@@ -351,3 +351,31 @@ date: 2015-10-09
 
 - intro: 11th ACM Workshop on Artificial Intelligence and Security (AISec) with the 25th ACM Conference on Computer and Communications Security (CCS)
 - arxiv: [https://arxiv.org/abs/1809.02918](https://arxiv.org/abs/1809.02918)
+
+**SparseFool: a few pixels make a big difference**
+
+[https://arxiv.org/abs/1811.02248](https://arxiv.org/abs/1811.02248)
+[https://github.com/LTS4/SparseFool](https://github.com/LTS4/SparseFool)
+
+**Lightweight Lipschitz Margin Training for Certified Defense against Adversarial Examples**
+
+[https://arxiv.org/abs/1811.08080](https://arxiv.org/abs/1811.08080)
+
+**Adversarial Defense by Stratified Convolutional Sparse Coding**
+
+[https://arxiv.org/abs/1812.00037](https://arxiv.org/abs/1812.00037)
+
+**Learning Transferable Adversarial Examples via Ghost Networks**
+
+- intro: Johns Hopkins University & University of Oxford
+- arxiv: [https://arxiv.org/abs/1812.03413](https://arxiv.org/abs/1812.03413)
+
+**Feature Denoising for Improving Adversarial Robustness**
+
+- intro: Johns Hopkins University & Facebook AI Research
+- arxiv: [https://arxiv.org/abs/1812.03411](https://arxiv.org/abs/1812.03411)
+
+**Defense-VAE: A Fast and Accurate Defense against Adversarial Attacks**
+
+- intro: Georgia State University
+- arxiv: [https://arxiv.org/abs/1812.06570](https://arxiv.org/abs/1812.06570)

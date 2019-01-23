@@ -454,6 +454,11 @@ at INT8 deep learning operations than other FPGA DSP architectures"
 - intro: MIT
 - arxiv: [https://arxiv.org/abs/1806.03723](https://arxiv.org/abs/1806.03723)
 
+**Synetgy: Algorithm-hardware Co-design for ConvNet Accelerators on Embedded FPGAs**
+
+- intro: 27th International Symposium on Field-Programmable Gate Arrays, February 2019
+- arxiv: [https://arxiv.org/abs/1811.08634](https://arxiv.org/abs/1811.08634)
+
 # Compressing Deep Neural Network
 
 **Deep k-Means: Re-Training and Parameter Sharing with Harder Cluster Assignments for Compressing Deep Convolutions**
@@ -475,6 +480,14 @@ at INT8 deep learning operations than other FPGA DSP architectures"
 
 - intro: NIPS 2018
 - arxiv: [https://arxiv.org/abs/1809.01330](https://arxiv.org/abs/1809.01330)
+
+**A Framework for Fast and Efficient Neural Network Compression**
+
+[https://arxiv.org/abs/1811.12781](https://arxiv.org/abs/1811.12781)
+
+**ComDefend: An Efficient Image Compression Model to Defend Adversarial Examples**
+
+[https://arxiv.org/abs/1811.12673](https://arxiv.org/abs/1811.12673)
 
 # Pruning
 
@@ -535,6 +548,64 @@ at INT8 deep learning operations than other FPGA DSP architectures"
 
 [https://arxiv.org/abs/1808.07471](https://arxiv.org/abs/1808.07471)
 
+**Pruning neural networks: is it time to nip it in the bud?**
+
+[https://arxiv.org/abs/1810.04622](https://arxiv.org/abs/1810.04622)
+
+**Rethinking the Value of Network Pruning**
+
+[https://arxiv.org/abs/1810.05270](https://arxiv.org/abs/1810.05270)
+
+**Dynamic Channel Pruning: Feature Boosting and Suppression**
+
+[https://arxiv.org/abs/1810.05331](https://arxiv.org/abs/1810.05331)
+
+**Interpretable Convolutional Filter Pruning**
+
+[https://arxiv.org/abs/1810.07322](https://arxiv.org/abs/1810.07322)
+
+**Progressive Weight Pruning of Deep Neural Networks using ADMM**
+
+[https://arxiv.org/abs/1810.07378](https://arxiv.org/abs/1810.07378)
+
+**Pruning Deep Neural Networks using Partial Least Squares**
+
+- arxiv: [https://arxiv.org/abs/1810.07610](https://arxiv.org/abs/1810.07610)
+- github: [https://github.com/arturjordao/PruningNeuralNetworks](https://github.com/arturjordao/PruningNeuralNetworks)
+
+**Hybrid Pruning: Thinner Sparse Networks for Fast Inference on Edge Devices**
+
+[https://arxiv.org/abs/1811.00482](https://arxiv.org/abs/1811.00482)
+
+**Discrimination-aware Channel Pruning for Deep Neural Networks**
+
+- intro: NIPS 2018
+- arxiv: [https://arxiv.org/abs/1810.11809](https://arxiv.org/abs/1810.11809)
+
+**Stability Based Filter Pruning for Accelerating Deep CNNs**
+
+- intro: WACV 2019
+- arxiv: [https://arxiv.org/abs/1811.08321](https://arxiv.org/abs/1811.08321)
+
+**Structured Pruning for Efficient ConvNets via Incremental Regularization**
+
+- intro: NIPS 2018 workshop on "Compact Deep Neural Network Representation with Industrial Applications"
+- arxiv: [https://arxiv.org/abs/1811.08390](https://arxiv.org/abs/1811.08390)
+
+**Graph-Adaptive Pruning for Efficient Inference of Convolutional Neural Networks**
+
+[https://arxiv.org/abs/1811.08589](https://arxiv.org/abs/1811.08589)
+
+**A Layer Decomposition-Recomposition Framework for Neuron Pruning towards Accurate Lightweight Networks**
+
+- intro: AAAI 2019 as oral
+- intro: Hikvision Research Institute
+- arxiv: [https://arxiv.org/abs/1812.06611](https://arxiv.org/abs/1812.06611)
+
+**Quantized Guided Pruning for Efficient Hardware Implementations of Convolutional Neural Networks**
+
+[https://arxiv.org/abs/1812.11337](https://arxiv.org/abs/1812.11337)
+
 # Low-Precision Networks
 
 **Accelerating Deep Convolutional Networks using low-precision and sparsity**
@@ -581,6 +652,11 @@ at INT8 deep learning operations than other FPGA DSP architectures"
 **Discovering Low-Precision Networks Close to Full-Precision Networks for Efficient Embedded Inference**
 
 [https://arxiv.org/abs/1809.04191](https://arxiv.org/abs/1809.04191)
+
+**SQuantizer: Simultaneous Learning for Both Sparse and Low-precision Neural Networks**
+
+- intro: Movidius, AIPG, Intel
+- arxiv: [https://arxiv.org/abs/1812.08301](https://arxiv.org/abs/1812.08301)
 
 # Quantized Neural Networks
 
@@ -631,6 +707,24 @@ at INT8 deep learning operations than other FPGA DSP architectures"
 
 [https://arxiv.org/abs/1808.05779](https://arxiv.org/abs/1808.05779)
 
+**Differentiable Fine-grained Quantization for Deep Neural Network Compression**
+
+[https://arxiv.org/abs/1810.10351](https://arxiv.org/abs/1810.10351)
+
+**HAQ: Hardware-Aware Automated Quantization**
+
+[https://arxiv.org/abs/1811.08886](https://arxiv.org/abs/1811.08886)
+
+**DNQ: Dynamic Network Quantization**
+
+- intro: Shanghai Jiao Tong University & Qualcomm AI Research
+- arxiv: [https://arxiv.org/abs/1812.02375](https://arxiv.org/abs/1812.02375)
+
+**Trained Rank Pruning for Efficient Deep Neural Networks**
+
+- intro: Shanghai Jiao Tong University & Qualcomm AI Research & Duke University
+- arxiv: [https://arxiv.org/abs/1812.02402](https://arxiv.org/abs/1812.02402)
+
 # Binary Convolutional Neural Networks / Binarized Neural Networks
 
 **BinaryNet: Training Deep Neural Networks with Weights and Activations Constrained to +1 or -1**
@@ -647,6 +741,10 @@ at INT8 deep learning operations than other FPGA DSP architectures"
 
 - arxiv: [http://arxiv.org/abs/1603.05279](http://arxiv.org/abs/1603.05279)
 - github(Torch): [https://github.com/mrastegari/XNOR-Net](https://github.com/mrastegari/XNOR-Net)
+
+**DoReFa-Net: Training Low Bitwidth Convolutional Neural Networks with Low Bitwidth Gradients**
+
+[https://arxiv.org/abs/1606.06160](https://arxiv.org/abs/1606.06160)
 
 **A 7.663-TOPS 8.2-W Energy-efficient FPGA Accelerator for Binary Convolutional Neural Networks**
 
@@ -708,6 +806,17 @@ at INT8 deep learning operations than other FPGA DSP architectures"
 - intro: ICLR 2018
 - arxiv: [https://arxiv.org/abs/1802.08530](https://arxiv.org/abs/1802.08530)
 - github(official, PyTorch): [https://github.com/szagoruyko/binary-wide-resnet](https://github.com/szagoruyko/binary-wide-resnet)
+
+**Composite Binary Decomposition Networks**
+
+[https://arxiv.org/abs/1811.06668](https://arxiv.org/abs/1811.06668)
+
+**Training Competitive Binary Neural Networks from Scratch**
+
+- intro: University of Potsdam
+- intro: BMXNet v2: An Open-Source Binary Neural Network Implementation Based on MXNet
+- arxiv: [https://arxiv.org/abs/1812.01965](https://arxiv.org/abs/1812.01965)
+- github: [https://github.com/hpi-xnor/BMXNet-v2](https://github.com/hpi-xnor/BMXNet-v2)
 
 # Accelerating / Fast Algorithms
 
@@ -796,6 +905,16 @@ at INT8 deep learning operations than other FPGA DSP architectures"
 **FPGA Implementation of Convolutional Neural Networks with Fixed-Point Calculations**
 
 [https://arxiv.org/abs/1808.09945](https://arxiv.org/abs/1808.09945)
+
+**Extended Bit-Plane Compression for Convolutional Neural Network Accelerators**
+
+[https://arxiv.org/abs/1810.03979](https://arxiv.org/abs/1810.03979)
+
+**DAC: Data-free Automatic Acceleration of Convolutional Networks**
+
+- intro: WACV 2019
+- intro: Qualcomm AI Research & Lehigh University
+- arxiv: [https://arxiv.org/abs/1812.08374](https://arxiv.org/abs/1812.08374)
 
 # Knowledge Distilling / Knowledge Transfer
 
@@ -965,6 +1084,10 @@ at INT8 deep learning operations than other FPGA DSP architectures"
 - youtube: [https://www.youtube.com/watch?v=xACJBACStaU](https://www.youtube.com/watch?v=xACJBACStaU)
 
 # Resources
+
+**awesome-model-compression-and-acceleration**
+
+[https://github.com/sun254/awesome-model-compression-and-acceleration](https://github.com/sun254/awesome-model-compression-and-acceleration)
 
 **Embedded-Neural-Network**
 

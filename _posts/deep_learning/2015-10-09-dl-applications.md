@@ -227,6 +227,7 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 - paper: [http://www.cv-foundation.org/openaccess/content_iccv_2015/papers/Xie_Holistically-Nested_Edge_Detection_ICCV_2015_paper.pdf](http://www.cv-foundation.org/openaccess/content_iccv_2015/papers/Xie_Holistically-Nested_Edge_Detection_ICCV_2015_paper.pdf)
 - arxiv: [http://arxiv.org/abs/1504.06375](http://arxiv.org/abs/1504.06375)
 - github: [https://github.com/s9xie/hed](https://github.com/s9xie/hed)
+- github: [https://github.com/moabitcoin/holy-edge](https://github.com/moabitcoin/holy-edge)
 
 **Unsupervised Learning of Edges**
 
@@ -293,6 +294,11 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 **DeepISP: Learning End-to-End Image Processing Pipeline**
 
 [https://arxiv.org/abs/1801.06724](https://arxiv.org/abs/1801.06724)
+
+**Fully Convolutional Network with Multi-Step Reinforcement Learning for Image Processing**
+
+- intro: AAAI 2019
+- arxiv: [https://arxiv.org/abs/1811.04323](https://arxiv.org/abs/1811.04323)
 
 # Image-Text
 
@@ -499,40 +505,6 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 
 - arxiv: [http://arxiv.org/abs/1511.03908](http://arxiv.org/abs/1511.03908)
 
-# Sentiment Analysis / Sentiment Prediction
-
-**From Pixels to Sentiment: Fine-tuning CNNs for Visual Sentiment Prediction**
-
-- arxiv: [http://arxiv.org/abs/1604.03489](http://arxiv.org/abs/1604.03489)
-- github: [https://github.com/imatge-upc/sentiment-2016](https://github.com/imatge-upc/sentiment-2016)
-- gitxiv: [http://gitxiv.com/posts/ruqRgXdPTHJ77LDEb/from-pixels-to-sentiment-fine-tuning-cnns-for-visual](http://gitxiv.com/posts/ruqRgXdPTHJ77LDEb/from-pixels-to-sentiment-fine-tuning-cnns-for-visual)
-
-**Predict Sentiment From Movie Reviews Using Deep Learning**
-
-- blog: [http://machinelearningmastery.com/predict-sentiment-movie-reviews-using-deep-learning/](http://machinelearningmastery.com/predict-sentiment-movie-reviews-using-deep-learning/)
-
-**Neural Sentiment Classification with User and Product Attention**
-
-- intro: EMNLP 2016
-- paper: [http://www.thunlp.org/~chm/publications/emnlp2016_NSCUPA.pdf](http://www.thunlp.org/~chm/publications/emnlp2016_NSCUPA.pdf)
-- github: [https://github.com/thunlp/NSC](https://github.com/thunlp/NSC)
-
-**From Pixels to Sentiment: Fine-tuning CNNs for Visual Sentiment Prediction**
-
-- intro: Accepted for publication in Image and Vision Computing
-- arxiv: [https://arxiv.org/abs/1604.03489](https://arxiv.org/abs/1604.03489)
-- github: [https://github.com/imatge-upc/sentiment-2016](https://github.com/imatge-upc/sentiment-2016)
-
-**Visual and Textual Sentiment Analysis Using Deep Fusion Convolutional Neural Networks**
-
-- intro: ICIP 2017
-- arxiv: [https://arxiv.org/abs/1711.07798](https://arxiv.org/abs/1711.07798)
-
-**Deep Learning for Sentiment Analysis : A Survey**
-
-- intro: LinkedIn & University of Illinois at Chicago
-- arxiv: [https://arxiv.org/abs/1801.07883](https://arxiv.org/abs/1801.07883)
-
 # Place Recognition
 
 **NetVLAD: CNN architecture for weakly supervised place recognition**
@@ -618,6 +590,10 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 
 - intro: Georgia Institute of Technology & NVIDIA
 - arxiv: [https://arxiv.org/abs/1712.03342](https://arxiv.org/abs/1712.03342)
+
+**Image-to-GPS Verification Through A Bottom-Up Pattern Matching Network**
+
+[https://arxiv.org/abs/1811.07288](https://arxiv.org/abs/1811.07288)
 
 # Counting Objects
 
@@ -862,6 +838,14 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 - intro: ACM MM, full paper
 - arxiv: [https://arxiv.org/abs/1809.00101](https://arxiv.org/abs/1809.00101)
 
+**Context-Aware Crowd Counting**
+
+[https://arxiv.org/abs/1811.10452](https://arxiv.org/abs/1811.10452)
+
+**ADCrowdNet: An Attention-injective Deformable Convolutional Network for Crowd Understanding**
+
+[https://arxiv.org/abs/1811.11968](https://arxiv.org/abs/1811.11968)
+
 # Activity Recognition
 
 **Implementing a CNN for Human Activity Recognition in Tensorflow**
@@ -1056,6 +1040,15 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 - intro: Stanford CS230 project
 - paper: [https://cs230.stanford.edu/projects_spring_2018/posters/8265861.pdf](https://cs230.stanford.edu/projects_spring_2018/posters/8265861.pdf)
 - github: [https://github.com/bendangnuksung/Image-OutPainting](https://github.com/bendangnuksung/Image-OutPainting)
+
+**Image Inpainting via Generative Multi-column Convolutional Neural Networks**
+
+- intro: NIPS 2018
+- arxiv: [https://arxiv.org/abs/1810.08771](https://arxiv.org/abs/1810.08771)
+
+**Deep Inception Generative Network for Cognitive Image Inpainting**
+
+[https://arxiv.org/abs/1812.01458](https://arxiv.org/abs/1812.01458)
 
 # Image Restoration
 
@@ -1260,6 +1253,14 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 - arxiv: [https://arxiv.org/abs/1809.01826](https://arxiv.org/abs/1809.01826)
 - github: [https://github.com/Ding-Liu/DeepDenoising](https://github.com/Ding-Liu/DeepDenoising)
 
+**DN-ResNet: Efficient Deep Residual Network for Image Denoising**
+
+[https://arxiv.org/abs/1810.06766](https://arxiv.org/abs/1810.06766)
+
+**Deep Learning for Image Denoising: A Survey**
+
+[https://arxiv.org/abs/1810.05052](https://arxiv.org/abs/1810.05052)
+
 # Image Dehazing / Image Haze Removal
 
 **DehazeNet: An End-to-End System for Single Image Haze Removal**
@@ -1401,6 +1402,19 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 
 - intro: ACM Multimedia 2018
 - arxiv: [https://arxiv.org/abs/1808.01491](https://arxiv.org/abs/1808.01491)
+
+**Gated Context Aggregation Network for Image Dehazing and Deraining**
+
+- intro: WACV 2019
+- arxiv: [https://arxiv.org/abs/1811.08747](https://arxiv.org/abs/1811.08747)
+
+**A Deep Tree-Structured Fusion Model for Single Image Deraining**
+
+[https://arxiv.org/abs/1811.08632](https://arxiv.org/abs/1811.08632)
+
+**A^2Net: Adjacent Aggregation Networks for Image Raindrop Removal**
+
+[https://arxiv.org/abs/1811.09780](https://arxiv.org/abs/1811.09780)
 
 # Fence Removal
 
@@ -2060,6 +2074,11 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 
 - intro: ECCV 2018
 - arxiv: [https://arxiv.org/abs/1808.03959](https://arxiv.org/abs/1808.03959)
+
+**Real-time self-adaptive deep stereo**
+
+[https://arxiv.org/abs/1810.05424](https://arxiv.org/abs/1810.05424)
+[https://github.com/CVLAB-Unibo/Real-time-self-adaptive-deep-stereo](https://github.com/CVLAB-Unibo/Real-time-self-adaptive-deep-stereo)
 
 # Optical Flow
 

@@ -195,6 +195,14 @@ Auto-encoder
 - intro: Poster presentation at BMVC 2018
 - arxiv: [https://arxiv.org/abs/1807.07760](https://arxiv.org/abs/1807.07760)
 
+**Deep clustering: On the link between discriminative models and K-means**
+
+[https://arxiv.org/abs/1810.04246](https://arxiv.org/abs/1810.04246)
+
+**Deep Density-based Image Clustering**
+
+[https://arxiv.org/abs/1812.04287](https://arxiv.org/abs/1812.04287)
+
 # Auto-encoder
 
 **Auto-Encoding Variational Bayes**
@@ -358,6 +366,10 @@ testing it on the MNIST handwritten digits data.
 
 - arxiv: [https://arxiv.org/abs/1701.04831](https://arxiv.org/abs/1701.04831)
 - github: [https://github.com/yzcj105/rbm2mps](https://github.com/yzcj105/rbm2mps)
+
+**Matrix Product Operator Restricted Boltzmann Machines**
+
+[https://arxiv.org/abs/1811.04608](https://arxiv.org/abs/1811.04608)
 
 ## Blogs
 

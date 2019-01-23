@@ -365,6 +365,11 @@ Compressed model is less than 500KB
 
 [https://arxiv.org/abs/1807.01493](https://arxiv.org/abs/1807.01493)
 
+**Adjustable Real-time Style Transfer**
+
+- intro: University of Illinois at Urbana-Champaign && Google Brain
+- arxiv: [https://arxiv.org/abs/1811.08560](https://arxiv.org/abs/1811.08560)
+
 ## Neural Art On Audio
 
 **MSc AI Project on generative deep networks and neural style transfer for audio**
@@ -1106,6 +1111,12 @@ It is based on Facebook's TorchCraft, which is a bridge between Torch and StarCr
 - intro: Czech Technical University in Prague
 - arxiv: [https://arxiv.org/abs/1801.02193](https://arxiv.org/abs/1801.02193)
 - gihtub: [https://github.com/Games-and-Simulations/sc-docker](https://github.com/Games-and-Simulations/sc-docker)
+
+**Macro action selection with deep reinforcement learning in StarCraft**
+
+- intro: Bilibili & Nanjing University
+- arxiv: [https://arxiv.org/abs/1812.00336](https://arxiv.org/abs/1812.00336)
+- github: [https://github.com/Bilibili/LastOrder](https://github.com/Bilibili/LastOrder)
 
 ## DeepLeague
 

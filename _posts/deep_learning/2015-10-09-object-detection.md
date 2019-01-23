@@ -314,6 +314,12 @@ date: 2015-10-09
 - project page: [https://pjreddie.com/darknet/yolo/](https://pjreddie.com/darknet/yolo/)
 - paper: [https://pjreddie.com/media/files/papers/YOLOv3.pdf](https://pjreddie.com/media/files/papers/YOLOv3.pdf)
 - arxiv: [https://arxiv.org/abs/1804.02767](https://arxiv.org/abs/1804.02767)
+- githb: [https://github.com/DeNA/PyTorch_YOLOv3](https://github.com/DeNA/PyTorch_YOLOv3)
+- github: [https://github.com/eriklindernoren/PyTorch-YOLOv3](https://github.com/eriklindernoren/PyTorch-YOLOv3)
+
+**YOLO-LITE: A Real-Time Object Detection Algorithm Optimized for Non-GPU Computers**
+
+[https://arxiv.org/abs/1811.05588](https://arxiv.org/abs/1811.05588)
 
 - - -
 
@@ -842,7 +848,16 @@ Continuation of [arXiv:1608.08021](https://arxiv.org/abs/1608.08021)
 
 **Revisiting RCNN: On Awakening the Classification Power of Faster RCNN**
 
-[https://arxiv.org/abs/1803.06799](https://arxiv.org/abs/1803.06799)
+- intro: ECCV 2018
+- keywords: DCR V1
+- arxiv: [https://arxiv.org/abs/1803.06799](https://arxiv.org/abs/1803.06799)
+- github(official, MXNet): [https://github.com/bowenc0221/Decoupled-Classification-Refinement](https://github.com/bowenc0221/Decoupled-Classification-Refinement)
+
+**Decoupled Classification Refinement: Hard False Positive Suppression for Object Detection**
+
+- keywords: DCR V2
+- arxiv: [https://arxiv.org/abs/1810.04002](https://arxiv.org/abs/1810.04002)
+- github(official, MXNet): [https://github.com/bowenc0221/Decoupled-Classification-Refinement](https://github.com/bowenc0221/Decoupled-Classification-Refinement)
 
 **Learning Region Features for Object Detection**
 
@@ -916,6 +931,8 @@ Continuation of [arXiv:1608.08021](https://arxiv.org/abs/1608.08021)
 
 **SNIPER: Efficient Multi-Scale Training**
 
+- intro: University of Maryland
+- keywords: SNIPER (Scale Normalization for Image Pyramid with Efficient Resampling)
 - arxiv: [https://arxiv.org/abs/1805.09300](https://arxiv.org/abs/1805.09300)
 - github: [https://github.com/mahyarnajibi/SNIPER](https://github.com/mahyarnajibi/SNIPER)
 
@@ -1002,6 +1019,119 @@ Continuation of [arXiv:1608.08021](https://arxiv.org/abs/1608.08021)
 **Deep Learning for Generic Object Detection: A Survey**
 
 [https://arxiv.org/abs/1809.02165](https://arxiv.org/abs/1809.02165)
+
+**Training Confidence-Calibrated Classifier for Detecting Out-of-Distribution Samples**
+
+- intro: ICLR 2018
+- arxiv: [https://github.com/alinlab/Confident_classifier](https://github.com/alinlab/Confident_classifier)
+
+**ScratchDet:Exploring to Train Single-Shot Object Detectors from Scratch**
+
+- arxiv: [https://arxiv.org/abs/1810.08425](https://arxiv.org/abs/1810.08425)
+- github: [https://github.com/KimSoybean/ScratchDet](https://github.com/KimSoybean/ScratchDethttps://github.com/KimSoybean/ScratchDet)
+
+**Fast and accurate object detection in high resolution 4K and 8K video using GPUs**
+
+- intro: Best Paper Finalist at IEEE High Performance Extreme Computing Conference (HPEC) 2018
+- intro: Carnegie Mellon University
+- arxiv: [https://arxiv.org/abs/1810.10551](https://arxiv.org/abs/1810.10551)
+
+**Hybrid Knowledge Routed Modules for Large-scale Object Detection**
+
+- intro: NIPS 2018
+- arxiv: [https://arxiv.org/abs/1810.12681](https://arxiv.org/abs/1810.12681)
+- github(official, PyTorch): [https://github.com/chanyn/HKRM](https://github.com/chanyn/HKRM)
+
+**Gradient Harmonized Single-stage Detector**
+
+- intro: AAAI 2019
+- arxiv: [https://arxiv.org/abs/1811.05181](https://arxiv.org/abs/1811.05181)
+
+**M2Det: A Single-Shot Object Detector based on Multi-Level Feature Pyramid Network**
+
+- intro: AAAI 2019
+- arxiv: [https://arxiv.org/abs/1811.04533](https://arxiv.org/abs/1811.04533)
+- github: [https://github.com/qijiezhao/M2Det](https://github.com/qijiezhao/M2Det)
+
+**BAN: Focusing on Boundary Context for Object Detection**
+
+[https://arxiv.org/abs/1811.05243](https://arxiv.org/abs/1811.05243)
+
+**Multi-layer Pruning Framework for Compressing Single Shot MultiBox Detector**
+
+- intro: WACV 2019
+- arxiv: [https://arxiv.org/abs/1811.08342](https://arxiv.org/abs/1811.08342)
+
+**R2CNN++: Multi-Dimensional Attention Based Rotation Invariant Detector with Robust Anchor Strategy**
+
+- arxiv: [https://arxiv.org/abs/1811.07126](https://arxiv.org/abs/1811.07126)
+- github: [https://github.com/DetectionTeamUCAS/R2CNN-Plus-Plus_Tensorflow](https://github.com/DetectionTeamUCAS/R2CNN-Plus-Plus_Tensorflow)
+
+**DeRPN: Taking a further step toward more general object detection**
+
+- intro: AAAI 2019
+- intro: South China University of Technology
+- ariv: [https://arxiv.org/abs/1811.06700](https://arxiv.org/abs/1811.06700)
+- github: [https://github.com/HCIILAB/DeRPN](https://github.com/HCIILAB/DeRPN)
+
+**Fast Efficient Object Detection Using Selective Attention**
+
+[https://arxiv.org/abs/1811.07502](https://arxiv.org/abs/1811.07502)
+
+**Sampling Techniques for Large-Scale Object Detection from Sparsely Annotated Objects**
+
+[https://arxiv.org/abs/1811.10862](https://arxiv.org/abs/1811.10862)
+
+**Efficient Coarse-to-Fine Non-Local Module for the Detection of Small Objects**
+
+[https://arxiv.org/abs/1811.12152](https://arxiv.org/abs/1811.12152)
+
+**Deep Regionlets: Blended Representation and Deep Learning for Generic Object Detection**
+
+[https://arxiv.org/abs/1811.11318](https://arxiv.org/abs/1811.11318)
+
+**Grid R-CNN**
+
+- intro: SenseTime
+- arxiv: [https://arxiv.org/abs/1811.12030](https://arxiv.org/abs/1811.12030)
+
+**Transferable Adversarial Attacks for Image and Video Object Detection**
+
+[https://arxiv.org/abs/1811.12641](https://arxiv.org/abs/1811.12641)
+
+**Anchor Box Optimization for Object Detection**
+
+- intro: University of Illinois at Urbana-Champaign & Microsoft Research
+- arxiv: [https://arxiv.org/abs/1812.00469](https://arxiv.org/abs/1812.00469)
+
+**AutoFocus: Efficient Multi-Scale Inference**
+
+- intro: University of Maryland
+- arxiv: [https://arxiv.org/abs/1812.01600](https://arxiv.org/abs/1812.01600)
+
+**Few-shot Object Detection via Feature Reweighting**
+
+[https://arxiv.org/abs/1812.01866](https://arxiv.org/abs/1812.01866)
+
+**Practical Adversarial Attack Against Object Detector**
+
+[https://arxiv.org/abs/1812.10217](https://arxiv.org/abs/1812.10217)
+
+**Learning Efficient Detector with Semi-supervised Adaptive Distillation**
+
+- intro: SenseTime Research
+- arxiv: [https://arxiv.org/abs/1901.00366](https://arxiv.org/abs/1901.00366)
+- github: [https://github.com/Tangshitao/Semi-supervised-Adaptive-Distillation](https://github.com/Tangshitao/Semi-supervised-Adaptive-Distillation)
+
+**Scale-Aware Trident Networks for Object Detection**
+
+- intro: University of Chinese Academy of Sciences & TuSimple
+- arxiv: [https://arxiv.org/abs/1901.01892](https://arxiv.org/abs/1901.01892)
+
+**Region Proposal by Guided Anchoring**
+
+- intro: CUHK - SenseTime Joint Lab & Amazon Rekognition & Nanyang Technological University
+- arxiv: [https://arxiv.org/abs/1901.03278](https://arxiv.org/abs/1901.03278)
 
 # Non-Maximum Suppression (NMS)
 
@@ -1198,6 +1328,15 @@ Continuation of [arXiv:1608.08021](https://arxiv.org/abs/1608.08021)
 
 [https://arxiv.org/abs/1809.01701](https://arxiv.org/abs/1809.01701)
 
+**Fast Object Detection in Compressed Video**
+
+[https://arxiv.org/abs/1811.11057](https://arxiv.org/abs/1811.11057)
+
+**Tube-CNN: Modeling temporal evolution of appearance for object detection in video**
+
+- intro: INRIA/ENS
+- arxiv: [https://arxiv.org/abs/1812.02619](https://arxiv.org/abs/1812.02619)
+
 # Object Detection on Mobile Devices
 
 **Pelee: A Real-Time Object Detection System on Mobile Devices**
@@ -1223,6 +1362,11 @@ Continuation of [arXiv:1608.08021](https://arxiv.org/abs/1608.08021)
 - arxiv: [https://arxiv.org/abs/1809.06065](https://arxiv.org/abs/1809.06065)
 - github: [https://github.com/pyun-ram/FL3D](https://github.com/pyun-ram/FL3D)
 
+**3D Object Detection Using Scale Invariant and Feature Reweighting Networks**
+
+- intro: AAAI 2019
+- arxiv: [https://arxiv.org/abs/1901.02237](https://arxiv.org/abs/1901.02237)
+
 # Object Detection on RGB-D
 
 **Learning Rich Features from RGB-D Images for Object Detection and Segmentation**
@@ -1237,6 +1381,11 @@ Continuation of [arXiv:1608.08021](https://arxiv.org/abs/1608.08021)
 **A Self-supervised Learning System for Object Detection using Physics Simulation and Multi-view Pose Estimation**
 
 [https://arxiv.org/abs/1703.03347](https://arxiv.org/abs/1703.03347)
+
+**Cross-Modal Attentional Context Learning for RGB-D Object Detection**
+
+- intro: IEEE Transactions on Image Processing
+- arxiv: [https://arxiv.org/abs/1810.12829](https://arxiv.org/abs/1810.12829)
 
 # Zero-Shot Object Detection
 
@@ -1743,6 +1892,22 @@ This task involves predicting the salient regions of an image given by human eye
 
 [https://arxiv.org/abs/1809.02693](https://arxiv.org/abs/1809.02693)
 
+**DSFD: Dual Shot Face Detector**
+
+[https://arxiv.org/abs/1810.10220](https://arxiv.org/abs/1810.10220)
+
+**Learning Better Features for Face Detection with Feature Fusion and Segmentation Supervision**
+
+[https://arxiv.org/abs/1811.08557](https://arxiv.org/abs/1811.08557)
+
+**FA-RPN: Floating Region Proposals for Face Detection**
+
+[https://arxiv.org/abs/1812.05586](https://arxiv.org/abs/1812.05586)
+
+**Robust and High Performance Face Detector**
+
+[https://arxiv.org/abs/1901.02350](https://arxiv.org/abs/1901.02350)
+
 ## Detect Small Faces
 
 **Finding Tiny Faces**
@@ -1772,6 +1937,17 @@ This task involves predicting the salient regions of an image given by human eye
 - keywords: Face Magnifier Network (Face-MageNet)
 - arxiv: [https://arxiv.org/abs/1803.05258](https://arxiv.org/abs/1803.05258)
 - github: [https://github.com/po0ya/face-magnet](https://github.com/po0ya/face-magnet)
+
+**Robust Face Detection via Learning Small Faces on Hard Images**
+
+- intro: Johns Hopkins University & Stanford University
+- arxiv: [https://arxiv.org/abs/1811.11662](https://arxiv.org/abs/1811.11662)
+- github: [https://github.com/bairdzhang/smallhardface](https://github.com/bairdzhang/smallhardface)
+
+**SFA: Small Faces Attention Face Detector**
+
+- intro: Jilin University
+- arxiv: [https://arxiv.org/abs/1812.08402](https://arxiv.org/abs/1812.08402)
 
 # Person Head Detection
 
@@ -1965,6 +2141,15 @@ This task involves predicting the salient regions of an image given by human eye
 - intro: BMVC 2018
 - arxiv: [https://arxiv.org/abs/1808.04818](https://arxiv.org/abs/1808.04818)
 
+**Pedestrian Detection with Autoregressive Network Phases**
+
+- intro: Michigan State University
+- arxiv: [https://arxiv.org/abs/1812.00440](https://arxiv.org/abs/1812.00440)
+
+**The Cross-Modality Disparity Problem in Multispectral Pedestrian Detection**
+
+[https://arxiv.org/abs/1901.02645](https://arxiv.org/abs/1901.02645)
+
 # Vehicle Detection
 
 **DAVE: A Unified Framework for Fast Vehicle Detection and Annotation**
@@ -1990,6 +2175,15 @@ This task involves predicting the salient regions of an image given by human eye
 
 - intro: UC Berkeley
 - arxiv: [https://arxiv.org/abs/1808.08603](https://arxiv.org/abs/1808.08603)
+
+**Domain Randomization for Scene-Specific Car Detection and Pose Estimation**
+
+[https://arxiv.org/abs/1811.05939](https://arxiv.org/abs/1811.05939)
+
+**ShuffleDet: Real-Time Vehicle Detection Network in On-board Embedded UAV Imagery**
+
+- intro: ECCV 2018, UAVision 2018
+- arxiv: [https://arxiv.org/abs/1811.06318](https://arxiv.org/abs/1811.06318)
 
 # Traffic-Sign Detection
 
@@ -2201,6 +2395,10 @@ This task involves predicting the salient regions of an image given by human eye
 - arxiv: [https://arxiv.org/abs/1808.10437](https://arxiv.org/abs/1808.10437)
 - github: [https://github.com/vt-vl-lab/iCAN](https://github.com/vt-vl-lab/iCAN)
 
+**Densely Supervised Grasp Detector (DSGD)**
+
+[https://arxiv.org/abs/1810.03962](https://arxiv.org/abs/1810.03962)
+
 # Object Proposal
 
 **DeepProposal: Hunting Objects by Cascading Deep Convolutional Layers**
@@ -2245,6 +2443,12 @@ This task involves predicting the salient regions of an image given by human eye
 - keywords: QMUL-OpenLogo
 - project page: [https://qmul-openlogo.github.io/](https://qmul-openlogo.github.io/)
 - arxiv: [https://arxiv.org/abs/1807.01964](https://arxiv.org/abs/1807.01964)
+
+**AttentionMask: Attentive, Efficient Object Proposal Generation Focusing on Small Objects**
+
+- intro: ACCV 2018 oral
+- arxiv: [https://arxiv.org/abs/1811.08728](https://arxiv.org/abs/1811.08728)
+- github: [https://github.com/chwilms/AttentionMask](https://github.com/chwilms/AttentionMask)
 
 # Localization
 
@@ -2383,6 +2587,11 @@ We additionally provide an implementation of the [ReInspect](https://github.com/
 
 - intro: Most popular metrics used to evaluate object detection algorithms
 - github: [https://github.com/rafaelpadilla/Object-Detection-Metrics](https://github.com/rafaelpadilla/Object-Detection-Metrics)
+
+**MobileNetv2-SSDLite**
+
+- intro: Caffe implementation of SSD and SSDLite detection on MobileNetv2, converted from tensorflow.
+- github: [https://github.com/chuanqi305/MobileNetv2-SSDLite](https://github.com/chuanqi305/MobileNetv2-SSDLite)
 
 # Leaderboard
 

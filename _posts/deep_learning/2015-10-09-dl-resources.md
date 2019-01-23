@@ -362,6 +362,10 @@ not just the convolutions)
 - arxiv: [https://arxiv.org/abs/1711.09224](https://arxiv.org/abs/1711.09224)
 - github: [https://github.com//ShichenLiu/CondenseNet](https://github.com//ShichenLiu/CondenseNet)
 
+**Multimodal Densenet**
+
+[https://arxiv.org/abs/1811.07407](https://arxiv.org/abs/1811.07407)
+
 ## Xception
 
 **Deep Learning with Separable Convolutions**
@@ -432,6 +436,10 @@ not just the convolutions)
 - github: [https://github.com/liangfu/mxnet-mobilenet-v2](https://github.com/liangfu/mxnet-mobilenet-v2)
 - blog: [https://research.googleblog.com/2018/04/mobilenetv2-next-generation-of-on.html](https://research.googleblog.com/2018/04/mobilenetv2-next-generation-of-on.html)
 
+**PydMobileNet: Improved Version of MobileNets with Pyramid Depthwise Separable Convolution**
+
+[https://arxiv.org/abs/1811.07083](https://arxiv.org/abs/1811.07083)
+
 ## ShuffleNet
 
 **ShuffleNet: An Extremely Efficient Convolutional Neural Network for Mobile Devices**
@@ -450,6 +458,7 @@ not just the convolutions)
 
 **Squeeze-and-Excitation Networks**
 
+- intro: CVPR 2018
 - intro: ILSVRC 2017 image classification winner. Momenta & University of Oxford
 - arxiv: [https://arxiv.org/abs/1709.01507](https://arxiv.org/abs/1709.01507)
 - github(official, Caffe): [https://github.com/hujie-frank/SENet](https://github.com/hujie-frank/SENet)
@@ -460,12 +469,35 @@ not just the convolutions)
 - arxiv: [https://arxiv.org/abs/1807.08920](https://arxiv.org/abs/1807.08920)
 - github: [https://github.com/scut-aitcm/CompetitiveSENet](https://github.com/scut-aitcm/CompetitiveSENet)
 
+## GENet
+
+**Gather-Excite: Exploiting Feature Context in Convolutional Neural Networks**
+
+- intro: NIPS 2018
+- github: [https://github.com/hujie-frank/GENet](https://github.com/hujie-frank/GENet)
+
 ## ImageNet Projects
 
 **Training an Object Classifier in Torch-7 on multiple GPUs over ImageNet**
 
 - intro: an imagenet example in torch
 - github: [https://github.com/soumith/imagenet-multiGPU.torch](https://github.com/soumith/imagenet-multiGPU.torch)
+
+# Pre-training
+
+**Exploring the Limits of Weakly Supervised Pretraining**
+
+- intro: report the highest ImageNet-1k single-crop, top-1 accuracy to date: 85.4% (97.6% top-5)
+- paper: [https://research.fb.com/publications/exploring-the-limits-of-weakly-supervised-pretraining/](https://research.fb.com/publications/exploring-the-limits-of-weakly-supervised-pretraining/)
+
+**Rethinking ImageNet Pre-training**
+
+- intro: Facebook AI Research
+- arxiv: [https://arxiv.org/abs/1811.08883](https://arxiv.org/abs/1811.08883)
+
+**Revisiting Pre-training: An Efficient Training Method for Image Classification**
+
+[https://arxiv.org/abs/1811.09347](https://arxiv.org/abs/1811.09347)
 
 # Semi-Supervised Learning
 
@@ -645,6 +677,11 @@ not just the convolutions)
 **Auxiliary Tasks in Multi-task Learning**
 
 [https://arxiv.org/abs/1805.06334](https://arxiv.org/abs/1805.06334)
+
+**K For The Price Of 1: Parameter Efficient Multi-task And Transfer Learning**
+
+- intro: The University of Chicago & Google
+- arxiv: [https://arxiv.org/abs/1810.10703](https://arxiv.org/abs/1810.10703)
 
 # Multi-modal Learning
 
@@ -1007,6 +1044,13 @@ with fast exact probabilistic inference over many layers."
 - github: [https://github.com/felixlaumon/deform-conv](https://github.com/felixlaumon/deform-conv)
 - github: [https://github.com/oeway/pytorch-deform-conv](https://github.com/oeway/pytorch-deform-conv)
 
+Deformable ConvNets v2: More Deformable, Better Results**
+
+- intro: University of Science and Technology of China & Microsoft Research Asia
+- keywords: DCNv2
+- arxiv: [https://arxiv.org/abs/1811.11168](https://arxiv.org/abs/1811.11168)
+- github: [https://github.com/msracver/Deformable-ConvNets/tree/master/DCNv2_op](https://github.com/msracver/Deformable-ConvNets/tree/master/DCNv2_op)
+
 **Second-order Convolutional Neural Networks**
 
 [https://arxiv.org/abs/1703.06817](https://arxiv.org/abs/1703.06817)
@@ -1269,6 +1313,29 @@ with fast exact probabilistic inference over many layers."
 - intro: ECCV 2018
 - arxiv: [https://arxiv.org/abs/1808.03749](https://arxiv.org/abs/1808.03749)
 
+**Penetrating the Fog: the Path to Efficient CNN Models**
+
+[https://arxiv.org/abs/1810.04231](https://arxiv.org/abs/1810.04231)
+
+**A2-Nets: Double Attention Networks**
+
+- intro: NIPS 2018
+- arxiv: [https://arxiv.org/abs/1810.11579](https://arxiv.org/abs/1810.11579)
+**
+Global Second-order Pooling Neural Networks**
+
+[https://arxiv.org/abs/1811.12006](https://arxiv.org/abs/1811.12006)
+
+**ESPNetv2: A Light-weight, Power Efficient, and General Purpose Convolutional Neural Network**
+
+- intro: University of Washington & Allen Institute for AI (AI2) & XNOR.AI
+- arxiv: [https://arxiv.org/abs/1811.11431](https://arxiv.org/abs/1811.11431)
+- github: [https://github.com/sacmehta/ESPNetv2](https://github.com/sacmehta/ESPNetv2)
+
+**Kernel Transformer Networks for Compact Spherical Convolution**
+
+[https://arxiv.org/abs/1812.03115](https://arxiv.org/abs/1812.03115)
+
 ## Convolutions / Filters
 
 **Warped Convolutions: Efficient Invariance to Spatial Transformations**
@@ -1332,6 +1399,16 @@ with fast exact probabilistic inference over many layers."
 **Network Decoupling: From Regular to Depthwise Separable Convolutions**
 
 [https://arxiv.org/abs/1808.05517](https://arxiv.org/abs/1808.05517)
+
+**Partial Convolution based Padding**
+
+- intro: NVIDIA Corporation
+- arxiv; [https://arxiv.org/abs/1811.11718](https://arxiv.org/abs/1811.11718)
+- github: [https://github.com/NVIDIA/partialconv](https://github.com/NVIDIA/partialconv)
+
+**DSConv: Efficient Convolution Operator**
+
+[https://arxiv.org/abs/1901.01928](https://arxiv.org/abs/1901.01928)
 
 ## Highway Networks
 
@@ -1413,6 +1490,10 @@ with fast exact probabilistic inference over many layers."
 - intro: BMVC 2018
 - arxiv: [https://arxiv.org/abs/1807.04050](https://arxiv.org/abs/1807.04050)
 
+**MIST: Multiple Instance Spatial Transformer Network**
+
+[https://arxiv.org/abs/1811.10725](https://arxiv.org/abs/1811.10725)
+
 ## FractalNet
 
 **FractalNet: Ultra-Deep Neural Networks without Residuals**
@@ -1424,115 +1505,6 @@ with fast exact probabilistic inference over many layers."
 - github: [https://github.com/gustavla/fractalnet](https://github.com/gustavla/fractalnet)
 - github: [https://github.com/edgelord/FractalNet](https://github.com/edgelord/FractalNet)
 - github(Keras): [https://github.com/snf/keras-fractalnet](https://github.com/snf/keras-fractalnet)
-
-## Architecture Search for Convolutional Neural Networks
-
-**Neural Architecture Search with Reinforcement Learning**
-
-- intro: Google Brain
-- paper: [https://openreview.net/pdf?id=r1Ue8Hcxg](https://openreview.net/pdf?id=r1Ue8Hcxg)
-
-**Neural Optimizer Search with Reinforcement Learning**
-
-- intro: ICML 2017
-- arxiv: [https://arxiv.org/abs/1709.07417](https://arxiv.org/abs/1709.07417)
-
-**Learning Transferable Architectures for Scalable Image Recognition**
-
-- intro: Google Brain
-- keywordss: Neural Architecture Search Network (NASNet), AutoML
-- arxiv: [https://arxiv.org/abs/1707.07012](https://arxiv.org/abs/1707.07012)
-- gtihub: [https://github.com//titu1994/Keras-NASNet](https://github.com//titu1994/Keras-NASNet)
-- blog: [https://research.googleblog.com/2017/11/automl-for-large-scale-image.html](https://research.googleblog.com/2017/11/automl-for-large-scale-image.html)
-- github: [https://github.com/titu1994/neural-architecture-search](https://github.com/titu1994/neural-architecture-search)
-
-**The First Step-by-Step Guide for Implementing Neural Architecture Search with Reinforcement Learning Using TensorFlow**
-
-- blog: [https://lab.wallarm.com/the-first-step-by-step-guide-for-implementing-neural-architecture-search-with-reinforcement-99ade71b3d28](https://lab.wallarm.com/the-first-step-by-step-guide-for-implementing-neural-architecture-search-with-reinforcement-99ade71b3d28)
-- github: [https://github.com/wallarm/nascell-automl](https://github.com/wallarm/nascell-automl)
-
-**Practical Network Blocks Design with Q-Learning**
-
-[https://arxiv.org/abs/1708.05552](https://arxiv.org/abs/1708.05552)
-
-**Simple And Efficient Architecture Search for Convolutional Neural Networks**
-
-- intro: Bosch Center for Artificial Intelligence & University of Freiburg
-- arxiv: [https://arxiv.org/abs/1711.04528](https://arxiv.org/abs/1711.04528)
-
-**Progressive Neural Architecture Search**
-
-- intri: Johns Hopkins University & Google Brain & Google Cloud & Stanford University & Google AI
-- arxiv: [https://arxiv.org/abs/1712.00559](https://arxiv.org/abs/1712.00559)
-
-**Finding Competitive Network Architectures Within a Day Using UCT**
-
-- intro: IBM Research AI – Ireland
-- arxiv: [https://arxiv.org/abs/1712.07420](https://arxiv.org/abs/1712.07420)
-
-**Regularized Evolution for Image Classifier Architecture Search**
-
-[https://arxiv.org/abs/1802.01548](https://arxiv.org/abs/1802.01548)
-
-**Efficient Neural Architecture Search via Parameters Sharing**
-
-- intro: Google Brain & CMU & Stanford University
-- arxiv: [https://arxiv.org/abs/1802.03268](https://arxiv.org/abs/1802.03268)
-- github: [https://github.com/carpedm20/ENAS-pytorch](https://github.com/carpedm20/ENAS-pytorch)
-- github: [https://github.com/melodyguan/enas](https://github.com/melodyguan/enas)
-
-**Neural Architecture Search with Bayesian Optimisation and Optimal Transport**
-
-- intro: CMU
-- arxiv: [https://arxiv.org/abs/1802.07191](https://arxiv.org/abs/1802.07191)
-
-**AlphaX: eXploring Neural Architectures with Deep Neural Networks and Monte Carlo Tree Search**
-
-- intro: Brown University & Northeastern University
-- arxiv: [https://arxiv.org/abs/1805.07440](https://arxiv.org/abs/1805.07440)
-
-**DPP-Net: Device-aware Progressive Search for Pareto-optimal Neural Architectures**
-
-- intro: National Tsing-Hua University & Google
-[https://arxiv.org/abs/1806.08198](https://arxiv.org/abs/1806.08198)
-
-**DARTS: Differentiable Architecture Search**
-
-- intro: Google & CMU
-- arxiv: [https://arxiv.org/abs/1806.09055](https://arxiv.org/abs/1806.09055)
-- gtihub: [https://github.com/quark0/darts](https://github.com/quark0/darts)
-
-**Towards Automated Deep Learning: Efficient Joint Neural Architecture and Hyperparameter Search**
-
-- intro: ICML 2018 AutoML Workshop. University of Freiburg
-- arxiv: [https://arxiv.org/abs/1807.06906](https://arxiv.org/abs/1807.06906)
-
-**Efficient Progressive Neural Architecture Search**
-
-- intro: BMVC 2018
-- arxiv: [https://arxiv.org/abs/1808.00391](https://arxiv.org/abs/1808.00391)
-
-**Reinforced Evolutionary Neural Architecture Search**
-
-[https://arxiv.org/abs/1808.00193](https://arxiv.org/abs/1808.00193)
-
-**Teacher Guided Architecture Search**
-
-[https://arxiv.org/abs/1808.01405](https://arxiv.org/abs/1808.01405)
-
-**BlockQNN: Efficient Block-wise Neural Network Architecture Generation**
-
-[https://arxiv.org/abs/1808.05584](https://arxiv.org/abs/1808.05584)
-
-**Neural Architecture Search: A Survey**
-
-- intro: Bosch Center for Artificial Intelligence & University of Freiburg
-- arxiv: [https://arxiv.org/abs/1808.05377](https://arxiv.org/abs/1808.05377)
-
-**Searching for Efficient Multi-Scale Architectures for Dense Image Prediction**
-
-- intro: NIPS 2018. Google Inc.
-- arxiv: [https://arxiv.org/abs/1809.04184](https://arxiv.org/abs/1809.04184)
 
 ## Graph Convolutional Networks
 
@@ -2319,11 +2291,6 @@ with fast exact probabilistic inference over many layers."
 - arxiv: [https://arxiv.org/abs/1805.02641](https://arxiv.org/abs/1805.02641)
 - github: [https://github.com/hessamb/label-refinery](https://github.com/hessamb/label-refinery)
 
-**Exploring the Limits of Weakly Supervised Pretraining**
-
-- intro: report the highest ImageNet-1k single-crop, top-1 accuracy to date: 85.4% (97.6% top-5)
-- paper: [https://research.fb.com/publications/exploring-the-limits-of-weakly-supervised-pretraining/](https://research.fb.com/publications/exploring-the-limits-of-weakly-supervised-pretraining/)
-
 **How Many Samples are Needed to Learn a Convolutional Neural Network?**
 
 [https://arxiv.org/abs/1805.07883](https://arxiv.org/abs/1805.07883)
@@ -2346,6 +2313,22 @@ with fast exact probabilistic inference over many layers."
 
 - intro: ICML/FAIM 2018 workshop on Towards learning with limited labels: Equivariance, Invariance, and Beyond (oral presentation)
 - arxiv: [https://arxiv.org/abs/1807.11783](https://arxiv.org/abs/1807.11783)
+
+**Downsampling leads to Image Memorization in Convolutional Autoencoders**
+
+[https://arxiv.org/abs/1810.10333](https://arxiv.org/abs/1810.10333)
+
+**Do Normalization Layers in a Deep ConvNet Really Need to Be Distinct?**
+
+[https://arxiv.org/abs/1811.07727](https://arxiv.org/abs/1811.07727)
+
+**Are All Training Examples Created Equal? An Empirical Study**
+
+[https://arxiv.org/abs/1811.12569](https://arxiv.org/abs/1811.12569)
+
+**ImageNet-trained CNNs are biased towards texture; increasing shape bias improves accuracy and robustness**
+
+[https://arxiv.org/abs/1811.12231](https://arxiv.org/abs/1811.12231)
 
 ## Tutorials and Surveys
 
@@ -2602,6 +2585,12 @@ with fast exact probabilistic inference over many layers."
 - intro: AAAI 2018 Oral.
 - arxiv: [https://arxiv.org/abs/1809.02176](https://arxiv.org/abs/1809.02176)
 
+**Unsupervised Domain Adaptation: An Adaptive Feature Norm Approach**
+
+- intro: Sun Yat-sen University
+- arxiv: [https://arxiv.org/abs/1811.07456](https://arxiv.org/abs/1811.07456)
+- github: [https://github.com/jihanyang/AFN/](https://github.com/jihanyang/AFN/)
+
 ## Embedding
 
 **Learning Deep Embeddings with Histogram Loss**
@@ -2629,6 +2618,11 @@ with fast exact probabilistic inference over many layers."
 **Heated-Up Softmax Embedding**
 
 [https://arxiv.org/abs/1809.04157](https://arxiv.org/abs/1809.04157)
+
+**Virtual Class Enhanced Discriminative Embedding Learning**
+
+- intro: NeurIPS 2018
+- arxiv: [https://arxiv.org/abs/1811.12611](https://arxiv.org/abs/1811.12611)
 
 ## Regression
 
@@ -2691,6 +2685,10 @@ with fast exact probabilistic inference over many layers."
 
 - intro: CVPR 2018
 - arxiv: [https://arxiv.org/abs/1805.05020](https://arxiv.org/abs/1805.05020)
+
+**Not just a matter of semantics: the relationship between visual similarity and semantic similarity**
+
+[https://arxiv.org/abs/1811.07120](https://arxiv.org/abs/1811.07120)
 
 ### All-In-One Network
 

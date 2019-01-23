@@ -21,6 +21,10 @@ date: 2015-10-09
 
 [https://arxiv.org/abs/1805.09300](https://arxiv.org/abs/1805.09300)
 
+**RePr: Improved Training of Convolutional Filters**
+
+[https://arxiv.org/abs/1811.07275](https://arxiv.org/abs/1811.07275)
+
 # Activation functions
 
 ## ReLU
@@ -58,6 +62,11 @@ date: 2015-10-09
 - intro: Adamson University
 - arxiv: [https://arxiv.org/abs/1803.08375](https://arxiv.org/abs/1803.08375)
 - github: [https://github.com/AFAgarap/relu-classifier](https://github.com/AFAgarap/relu-classifier)
+
+**Stochastic Gradient Descent Optimizes Over-parameterized Deep ReLU Networks**
+
+- intro: University of California, Los Angeles
+- arxiv: [https://arxiv.org/abs/1811.08888](https://arxiv.org/abs/1811.08888)
 
 ## LReLU
 
@@ -355,6 +364,12 @@ date: 2015-10-09
 
 [https://arxiv.org/abs/1809.00846](https://arxiv.org/abs/1809.00846)
 
+**How Does Batch Normalization Help Optimization?**
+
+- intro: NeurIPS 2018. MIT
+- arxiv: [https://arxiv.org/abs/1805.11604](https://arxiv.org/abs/1805.11604)
+- video: [https://www.youtube.com/watch?v=ZOabsYbmBRM](https://www.youtube.com/watch?v=ZOabsYbmBRM)
+
 ### Backward pass of BN
 
 **Understanding the backward pass through Batch Normalization Layer**
@@ -477,7 +492,7 @@ date: 2015-10-09
 - intro: Cornell University
 - arxiv: [https://arxiv.org/abs/1805.07836](https://arxiv.org/abs/1805.07836)
 
-# Learning Rate
+# Learning Rates
 
 **No More Pesky Learning Rates**
 
@@ -503,6 +518,14 @@ date: 2015-10-09
 
 - intro: University of Texas at Austin & Facebook AI Research
 - arxiv: [https://arxiv.org/abs/1803.02865](https://arxiv.org/abs/1803.02865)
+
+**Learning with Random Learning Rates**
+
+- intro: Facebook AI Research & Universite Paris Sud
+- keywords: All Learning Rates At Once (Alrao)
+- project page: [https://leonardblier.github.io/alrao/](https://leonardblier.github.io/alrao/)
+- arxiv: [https://arxiv.org/abs/1810.01322](https://arxiv.org/abs/1810.01322)
+- github(PyTorch, official): [https://github.com/leonardblier/alrao](https://github.com/leonardblier/alrao)
 
 # Convolution Filters
 
@@ -591,6 +614,8 @@ date: 2015-10-09
 
 **Scaling SGD Batch Size to 32K for ImageNet Training**
 
+**Large Batch Training of Convolutional Networks**
+
 [https://arxiv.org/abs/1708.03888](https://arxiv.org/abs/1708.03888)
 
 **ImageNet Training in 24 Minutes**
@@ -617,9 +642,18 @@ date: 2015-10-09
 - intro: UC Berkeley & University of Texas
 - arxiv: [https://arxiv.org/abs/1802.08241](https://arxiv.org/abs/1802.08241)
 
+**Large Batch Training of Convolutional Networks with Layer-wise Adaptive Rate Scaling**
+
+- keywords: large batch, LARS, adaptive rate scaling
+- openreview: [https://openreview.net/forum?id=rJ4uaX2aW](https://openreview.net/forum?id=rJ4uaX2aW)
+
 **Revisiting Small Batch Training for Deep Neural Networks**
 
 [https://arxiv.org/abs/1804.07612](https://arxiv.org/abs/1804.07612)
+
+**Second-order Optimization Method for Large Mini-batch: Training ResNet-50 on ImageNet in 35 Epochs**
+
+[https://arxiv.org/abs/1811.12019](https://arxiv.org/abs/1811.12019)
 
 # Optimization Methods
 
@@ -681,6 +715,8 @@ date: 2015-10-09
 
 **SGDR: Stochastic Gradient Descent with Restarts**
 
+- intro: ICLR 2017
+- keywords: cosine annealing strategy
 - arxiv: [http://arxiv.org/abs/1608.03983](http://arxiv.org/abs/1608.03983)
 - github: [https://github.com/loshchil/SGDR](https://github.com/loshchil/SGDR)
 
@@ -728,6 +764,10 @@ date: 2015-10-09
 
 - intro: CMU & UC Berkeley
 - arxiv: [https://arxiv.org/abs/1712.05577](https://arxiv.org/abs/1712.05577)
+
+**A Sufficient Condition for Convergences of Adam and RMSProp**
+
+[https://arxiv.org/abs/1811.09358](https://arxiv.org/abs/1811.09358)
 
 ## Adam
 
@@ -835,6 +875,15 @@ date: 2015-10-09
 
 - intro: ECCV 2018
 - arxiv: [https://arxiv.org/abs/1809.01465](https://arxiv.org/abs/1809.01465)
+
+**Can We Gain More from Orthogonality Regularizations in Training Deep CNNs?**
+
+- intro: NIPS 2018
+- arxiv: [https://arxiv.org/abs/1810.09102](https://arxiv.org/abs/1810.09102)
+
+**Gradient-Coherent Strong Regularization for Deep Neural Networks**
+
+[https://arxiv.org/abs/1811.08056](https://arxiv.org/abs/1811.08056)
 
 ## Dropout
 
@@ -947,6 +996,20 @@ date: 2015-10-09
 
 [https://arxiv.org/abs/1809.00193](https://arxiv.org/abs/1809.00193)
 
+**DropFilter: Dropout for Convolutions**
+
+[https://arxiv.org/abs/1810.09849](https://arxiv.org/abs/1810.09849)
+
+**DropFilter: A Novel Regularization Method for Learning Convolutional Neural Networks**
+
+[https://arxiv.org/abs/1811.06783](https://arxiv.org/abs/1811.06783)
+
+**Targeted Dropout**
+
+- intro: Google Brain & FOR.ai & University of Oxford
+- paper: [https://openreview.net/pdf?id=HkghWScuoQ](https://openreview.net/pdf?id=HkghWScuoQ)
+- github: [https://github.com/for-ai/TD](https://github.com/for-ai/TD)
+
 ## DropConnect
 
 **Regularization of Neural Networks using DropConnect**
@@ -965,6 +1028,13 @@ date: 2015-10-09
 
 - arxiv: [http://arxiv.org/abs/1606.07326](http://arxiv.org/abs/1606.07326)
 - github: [https://github.com/panweihit/DropNeuron](https://github.com/panweihit/DropNeuron)
+
+## DropBlock
+
+**DropBlock: A regularization method for convolutional networks**
+
+- intro: NIPS 2018
+- arxiv: [https://arxiv.org/abs/1810.12890](https://arxiv.org/abs/1810.12890)
 
 ## Maxout
 
@@ -1317,6 +1387,16 @@ date: 2015-10-09
 
 [https://arxiv.org/abs/1806.03852](https://arxiv.org/abs/1806.03852)
 
+**Data Augmentation using Random Image Cropping and Patching for Deep CNNs**
+
+- intro: An extended version of a proceeding of ACML2018
+- keywords: random image cropping and patching (RICAP)
+- arxiv: [https://arxiv.org/abs/1811.09030](https://arxiv.org/abs/1811.09030)
+
+**GANsfer Learning: Combining labelled and unlabelled data for GAN based data augmentat**
+
+[https://arxiv.org/abs/1811.10669](https://arxiv.org/abs/1811.10669)
+
 ## Imbalanced Datasets
 
 **Investigation on handling Structured & Imbalanced Datasets with Deep Learning**
@@ -1343,7 +1423,6 @@ date: 2015-10-09
 - intro: National Institute of Information and Communications Technology, Tokyo Japan
 - arxiv: [https://arxiv.org/abs/1807.06538](https://arxiv.org/abs/1807.06538)
 - slides: [https://www.slideshare.net/TomohikoKonno/pseudofeature-generation-for-imbalanced-data-analysis-in-deep-learning-tomohiko-105318569](https://www.slideshare.net/TomohikoKonno/pseudofeature-generation-for-imbalanced-data-analysis-in-deep-learning-tomohiko-105318569)
-
 
 ## Noisy / Unlabelled Data
 
@@ -1584,7 +1663,27 @@ date: 2015-10-09
 - intro: ECCV 2018
 - arxiv: [https://arxiv.org/abs/1808.01753](https://arxiv.org/abs/1808.01753)
 
+**Universal Adversarial Training**
+
+[https://arxiv.org/abs/1811.11304](https://arxiv.org/abs/1811.11304)
+
+**MEAL: Multi-Model Ensemble via Adversarial Learning**
+
+- intro: AAAI 2019
+- intro: Fudan University & University of Illinois at Urbana-Champaign
+- arxiv: [https://arxiv.org/abs/1812.02425](https://arxiv.org/abs/1812.02425)
+- github(official): [https://github.com/AaronHeee/MEAL](https://github.com/AaronHeee/MEAL)
+
+**Regularized Ensembles and Transferability in Adversarial Learning**
+
+[https://arxiv.org/abs/1812.01821](https://arxiv.org/abs/1812.01821)
+
 # Low-Precision Training
+
+**Mixed Precision Training**
+
+- intro: ICLR 2018
+- arxiv: [https://arxiv.org/abs/1710.03740](https://arxiv.org/abs/1710.03740)
 
 **High-Accuracy Low-Precision Training**
 

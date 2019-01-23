@@ -364,6 +364,18 @@ after the embedding and recurrent layers of the RNN."
 - intro: ECCV 2018
 - arxiv: [https://arxiv.org/abs/1809.07041](https://arxiv.org/abs/1809.07041)
 
+**Image Captioning as Neural Machine Translation Task in SOCKEYE**
+
+[https://arxiv.org/abs/1810.04101](https://arxiv.org/abs/1810.04101)
+
+**Unsupervised Image Captioning**
+
+[https://arxiv.org/abs/1811.10787](https://arxiv.org/abs/1811.10787)
+
+**Attend More Times for Image Captioning**
+
+[https://arxiv.org/abs/1812.03283](https://arxiv.org/abs/1812.03283)
+
 # Object Descriptions
 
 **Generation and Comprehension of Unambiguous Object Descriptions**

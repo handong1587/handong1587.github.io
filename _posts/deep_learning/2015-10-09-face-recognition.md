@@ -167,6 +167,13 @@ date: 2015-10-09
 - github: [https://github.com/wy1iu/sphereface](https://github.com/wy1iu/sphereface)
 - demo: [http://v-wb.youku.com/v_show/id_XMjk3NTc1NjMxMg==.html](http://v-wb.youku.com/v_show/id_XMjk3NTc1NjMxMg==.html)
 
+**Learning towards Minimum Hyperspherical Energy**
+
+- intro: NeurIPS 2018
+- keywords: SphereFace+
+- arxiv: [https://arxiv.org/abs/1805.09298](https://arxiv.org/abs/1805.09298)
+- github: [https://github.com/wy1iu/sphereface-plus](https://github.com/wy1iu/sphereface-plus)
+
 **L2-constrained Softmax Loss for Discriminative Face Verification**
 
 [https://arxiv.org/abs/1703.09507](https://arxiv.org/abs/1703.09507)
@@ -294,6 +301,13 @@ date: 2015-10-09
 - intro: BMVC 2018
 - arxiv: [https://arxiv.org/abs/1807.09192](https://arxiv.org/abs/1807.09192)
 
+**The Devil of Face Recognition is in the Noise**
+
+- intro: ECCV 2018
+- arxiv: [https://arxiv.org/abs/1807.11649](https://arxiv.org/abs/1807.11649)
+- paper: [http://openaccess.thecvf.com/content_ECCV_2018/papers/Liren_Chen_The_Devil_of_ECCV_2018_paper.pdf](http://openaccess.thecvf.com/content_ECCV_2018/papers/Liren_Chen_The_Devil_of_ECCV_2018_paper.pdf)
+- dataset: [https://github.com/fwang91/IMDb-Face](https://github.com/fwang91/IMDb-Face)
+
 **Deep Sketch-Photo Face Recognition Assisted by Facial Attributes**
 
 [https://arxiv.org/abs/1808.00059](https://arxiv.org/abs/1808.00059两)
@@ -310,6 +324,37 @@ date: 2015-10-09
 
 - intro: ECCV 2018
 - arxiv: [https://arxiv.org/abs/1808.04976](https://arxiv.org/abs/1808.04976)
+
+**Orthogonal Deep Features Decomposition for Age-Invariant Face Recognition**
+
+[https://arxiv.org/abs/1810.07599](https://arxiv.org/abs/1810.07599)
+
+**Pairwise Relational Networks using Local Appearance Features for Face Recognition**
+
+- intro: NIPS 2018 R2L workshop
+- arxiv: [https://arxiv.org/abs/1811.06405](https://arxiv.org/abs/1811.06405)
+
+**Low-resolution Face Recognition in the Wild via Selective Knowledge Distillation**
+
+[https://arxiv.org/abs/1811.09998](https://arxiv.org/abs/1811.09998)
+
+L**ow-Resolution Face Recognition**
+
+- arxiv: [https://arxiv.org/abs/1811.08965](https://arxiv.org/abs/1811.08965)
+- dataset: [https://qmul-tinyface.github.io/](https://qmul-tinyface.github.io/)
+
+**MobiFace: A Lightweight Deep Learning Face Recognition on Mobile Devices**
+
+[https://arxiv.org/abs/1811.11080](https://arxiv.org/abs/1811.11080)
+
+**Attacks on State-of-the-Art Face Recognition using Attentional Adversarial Attack Generative Network**
+
+[https://arxiv.org/abs/1811.12026](https://arxiv.org/abs/1811.12026)
+
+**Support Vector Guided Softmax Loss for Face Recognition**
+
+- intro: JD AI research & Chinese Academy of Science
+- arxiv: [https://arxiv.org/abs/1812.11317](https://arxiv.org/abs/1812.11317)
 
 # Facial Attributes Classification
 
@@ -334,6 +379,10 @@ date: 2015-10-09
 
 - intro: Xiamen University & Xiamen University of Technology
 - arxiv: [https://arxiv.org/abs/1805.01282](https://arxiv.org/abs/1805.01282)
+
+**A Survey to Deep Facial Attribute Analysis**
+
+[https://arxiv.org/abs/1812.10265](https://arxiv.org/abs/1812.10265)
 
 # Video Face Recognition
 
@@ -446,6 +495,16 @@ date: 2015-10-09
 
 - intro: TPAMI 2018
 - arxiv: [https://arxiv.org/abs/1808.04803](https://arxiv.org/abs/1808.04803)
+
+**Towards Highly Accurate and Stable Face Alignment for High-Resolution Videos**
+
+- intro: AAAI 2019
+- arxiv: [https://arxiv.org/abs/1811.00342](https://arxiv.org/abs/1811.00342)
+- github: [https://github.com/tyshiwo/FHR_alignment](https://github.com/tyshiwo/FHR_alignment)
+
+**Stacked Dense U-Nets with Dual Transformers for Robust Face Alignment**
+
+[https://arxiv.org/abs/1812.01936](https://arxiv.org/abs/1812.01936)
 
 # Face Synthesis
 

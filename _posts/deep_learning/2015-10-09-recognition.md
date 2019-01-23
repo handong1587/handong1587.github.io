@@ -171,6 +171,10 @@ date: 2015-10-09
 - intro: ICPR 2018
 - arxiv: [https://arxiv.org/abs/1808.08402](https://arxiv.org/abs/1808.08402)
 
+**Making Classification Competitive for Deep Metric Learning**
+
+[https://arxiv.org/abs/1811.12649](https://arxiv.org/abs/1811.12649)
+
 # Massive Classification
 
 **Accelerated Training for Massive Classification via Dynamic Class Selection**
@@ -207,7 +211,7 @@ date: 2015-10-09
 
 **Learning Social Image Embedding with Deep Multimodal Attention Networks**
 
-- intro: Beihang University & Microsoft Research
+- intro: Beihang University & Microsoft Research
 - arxiv: [https://arxiv.org/abs/1710.06582](https://arxiv.org/abs/1710.06582)
 
 **Multi-label Image Recognition by Recurrently Discovering Attentional Regions**
@@ -219,6 +223,15 @@ date: 2015-10-09
 
 - intro: AAAI 2018
 - arxiv: [https://arxiv.org/abs/1712.07465](https://arxiv.org/abs/1712.07465)
+
+**A Baseline for Multi-Label Image Classification Using Ensemble Deep CNN**
+
+[https://arxiv.org/abs/1811.08412](https://arxiv.org/abs/1811.08412)
+
+**Multi-class Classification without Multi-class Labels**
+
+- intro: ICLR 2019
+- arxiv: [https://arxiv.org/abs/1901.00544](https://arxiv.org/abs/1901.00544)
 
 # Person Recognition
 
@@ -431,7 +444,11 @@ date: 2015-10-09
 - intro: ICCV 2017
 - arxiv: [https://arxiv.org/abs/1709.08553](https://arxiv.org/abs/1709.08553)
 
-# Pedestrian Attribute Recognition
+**Multi-label Object Attribute Classification using a Convolutional Neural Network**
+
+[https://arxiv.org/abs/1811.04309](https://arxiv.org/abs/1811.04309)
+
+# Pedestrian Attribute Recognition / Person Attribute Recognition
 
 **Multi-attribute Learning for Pedestrian Attribute Recognition in Surveillance Scenarios**
 
@@ -475,6 +492,11 @@ date: 2015-10-09
 
 - intro: BMVC 2018
 - arxiv: [https://arxiv.org/abs/1808.09102](https://arxiv.org/abs/1808.09102)
+
+**Sequence-based Person Attribute Recognition with Joint CTC-Attention Model**
+
+- keywords: joint CTC-Attention model (JCM), s connectionist temporal classification (CTC)
+- arxiv: [https://arxiv.org/abs/1811.08115](https://arxiv.org/abs/1811.08115)
 
 # Clothes Recognition
 

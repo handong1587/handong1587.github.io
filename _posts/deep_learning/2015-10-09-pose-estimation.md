@@ -83,6 +83,11 @@ date: 2015-10-09
 - slides: [http://image-net.org/challenges/talks/2016/Multi-person%20pose%20estimation-CMU.pdf](http://image-net.org/challenges/talks/2016/Multi-person%20pose%20estimation-CMU.pdf)
 - github: [https://github.com/ZheC/Realtime_Multi-Person_Pose_Estimation](https://github.com/ZheC/Realtime_Multi-Person_Pose_Estimation)
 
+**OpenPose: Realtime Multi-Person 2D Pose Estimation using Part Affinity Fields**
+
+- intro: Journal version
+- arxiv: [https://arxiv.org/abs/1812.08008](https://arxiv.org/abs/1812.08008)
+
 **Region Ensemble Network: Improving Convolutional Network for Hand Pose Estimation**
 
 - arxiv: [https://arxiv.org/abs/1702.02447](https://arxiv.org/abs/1702.02447)
@@ -140,6 +145,7 @@ date: 2015-10-09
 - intro: CVPR 2018. Tsinghua University & HuaZhong Univerisity of Science and Technology & Megvii Inc
 - arxiv: [https://arxiv.org/abs/1711.07319](https://arxiv.org/abs/1711.07319)
 - github(official): [https://github.com/chenyilun95/tf-cpn](https://github.com/chenyilun95/tf-cpn)
+- github: [https://github.com/GengDavid/pytorch-cpn](https://github.com/GengDavid/pytorch-cpn)
 
 **Integral Human Pose Regression**
 
@@ -150,7 +156,7 @@ date: 2015-10-09
 
 **LSTM Pose Machines**
 
-- intro: CVPR 2018. 1SenseTime Research & Sun Yat-sen University
+- intro: CVPR 2018. SenseTime Research & Sun Yat-sen University
 - arxiv: [https://arxiv.org/abs/1712.06316](https://arxiv.org/abs/1712.06316)
 - github(Caffe, officical): [https://github.com/lawy623/LSTM_Pose_Machines](https://github.com/lawy623/LSTM_Pose_Machines)
 
@@ -278,6 +284,31 @@ date: 2015-10-09
 - intro: BMVC 2018 (Oral)
 - arxiv: [https://arxiv.org/abs/1808.06521](https://arxiv.org/abs/1808.06521)
 
+**Multi-Domain Pose Network for Multi-Person Pose Estimation and Tracking**
+
+[https://arxiv.org/abs/1810.08338](https://arxiv.org/abs/1810.08338)
+
+**Benchmarking and Error Diagnosis in Multi-Instance Pose Estimation**
+
+- intro: ICCV 2017
+- project page: [http://www.vision.caltech.edu/~mronchi/projects/PoseErrorDiagnosis/](http://www.vision.caltech.edu/~mronchi/projects/PoseErrorDiagnosis/)
+- arxiv: [https://arxiv.org/abs/1707.05388](https://arxiv.org/abs/1707.05388)
+- github: [https://github.com/matteorr/coco-analyze](https://github.com/matteorr/coco-analyze)
+
+**Improving Multi-Person Pose Estimation using Label Correction**
+
+[https://arxiv.org/abs/1811.03331](https://arxiv.org/abs/1811.03331)
+
+**Fast Human Pose Estimation**
+
+- intro: Fast Pose Distillation (FPD)
+- arxiv: [https://arxiv.org/abs/1811.05419](https://arxiv.org/abs/1811.05419)
+
+**Rethinking on Multi-Stage Networks for Human Pose Estimation**
+
+- intro: Megvii Inc. (Face++) & Shanghai Jiao Tong University & Beihang University & Beijing University of Posts and Telecommunications
+- arxiv: [https://arxiv.org/abs/1901.00148](https://arxiv.org/abs/1901.00148)
+
 # 3D Pose
 
 **Can 3D Pose be Learned from 2D Projections Alone?**
@@ -310,6 +341,11 @@ date: 2015-10-09
 
 - intro: Full pipeline for TianChi FashionAI clothes keypoints detection compitetion in TensorFlow
 - github: [https://github.com/HiKapok/tf.fashionAI](https://github.com/HiKapok/tf.fashionAI)
+
+**FashionAI: KeyPoint Detection Challenge in Keras**
+
+- intro: Code for TianChi 2018 FashionAI Cloth KeyPoint Detection Challenge
+- github: [https://github.com/yuanyuanli85/FashionAI_KeyPoint_Detection_Challenge_Keras](https://github.com/yuanyuanli85/FashionAI_KeyPoint_Detection_Challenge_Keras)
 
 # Challenge
 

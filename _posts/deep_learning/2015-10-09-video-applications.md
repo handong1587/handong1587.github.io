@@ -309,6 +309,22 @@ date: 2015-10-09
 - arxiv: [https://arxiv.org/abs/1810.00530](https://arxiv.org/abs/1810.00530)
 - github: [https://github.com/pomonam/LearnablePoolingMethods](https://github.com/pomonam/LearnablePoolingMethods)
 
+**NeXtVLAD: An Efficient Neural Network to Aggregate Frame-level Features for Large-scale Video Classification**
+
+- intro: ECCV 2018 workshop
+- arxiv: [https://arxiv.org/abs/1811.05014](https://arxiv.org/abs/1811.05014)
+- github: [https://github.com/linrongc/youtube-8m](https://github.com/linrongc/youtube-8m)
+
+**High Order Neural Networks for Video Classification**
+
+- intro: Fudan University, Carnegie Mellon University, Qiniu Inc., ByteDance AI Lab
+- arxiv: [https://arxiv.org/abs/1811.07519](https://arxiv.org/abs/1811.07519)
+
+**SlowFast Networks for Video Recognition**
+
+- intro: Facebook AI Research (FAIR)
+- arxiv: [https://arxiv.org/abs/1812.03982](https://arxiv.org/abs/1812.03982)
+
 ## Action Detection / Activity Recognition
 
 **3d convolutional neural networks for human action recognition**
@@ -589,6 +605,30 @@ extract saptio-temporal features to represent the video using the CNNs."
 
 [https://arxiv.org/abs/1805.08162](https://arxiv.org/abs/1805.08162)
 
+**Where and When to Look? Spatio-temporal Attention for Action Recognition in Videos**
+
+[https://arxiv.org/abs/1810.04511](https://arxiv.org/abs/1810.04511)
+
+**Relational Long Short-Term Memory for Video Action Recognition**
+
+[https://arxiv.org/abs/1811.07059](https://arxiv.org/abs/1811.07059)
+
+**Temporal Recurrent Networks for Online Action Detection**
+
+[https://arxiv.org/abs/1811.073910](https://arxiv.org/abs/1811.07391)
+
+**Video Action Transformer Network**
+
+- intro: Carnegie Mellon University & DeepMind & University of Oxford
+- intro: Ranked first on the AVA (computer vision only) leaderboard of the ActivityNet Challenge 2018
+- project page: [https://rohitgirdhar.github.io/ActionTransformer/](https://rohitgirdhar.github.io/ActionTransformer/)
+- arxiv: [https://arxiv.org/abs/1812.02707](https://arxiv.org/abs/1812.02707)
+
+**D3D: Distilled 3D Networks for Video Action Recognition**
+
+- intro: Google & University of Michigan & Princeton University
+- arxiv: [https://arxiv.org/abs/1812.08249](https://arxiv.org/abs/1812.08249)
+
 ### Projects
 
 **A Torch Library for Action Recognition and Detection Using CNNs and LSTMs**
@@ -703,6 +743,10 @@ extract saptio-temporal features to represent the video using the CNNs."
 
 [https://arxiv.org/abs/1805.11223](https://arxiv.org/abs/1805.11223)
 
+**Attentioned Convolutional LSTM InpaintingNetwork for Anomaly Detection in Videos**
+
+[https://arxiv.org/abs/1811.10228](https://arxiv.org/abs/1811.10228)
+
 # Video Prediction
 
 **Deep multi-scale video prediction beyond mean square error**
@@ -813,6 +857,11 @@ extract saptio-temporal features to represent the video using the CNNs."
 
 [https://yahooresearch.tumblr.com/post/148009705216/creating-animated-gifs-automatically-from-video](https://yahooresearch.tumblr.com/post/148009705216/creating-animated-gifs-automatically-from-video)
 
+**GIF2Video: Color Dequantization and Temporal Interpolation of GIF images**
+
+- intro: Stony Brook University & Megvii Research USA & UCLA
+- arxiv: [https://arxiv.org/abs/1901.02840](https://arxiv.org/abs/1901.02840)
+
 # Video2Speech
 
 **Vid2speech: Speech Reconstruction from Silent Video**
@@ -891,6 +940,11 @@ alleviates the problem of video browsing, editing and indexing.
 
 - intro: BMVC 2018
 - arxiv: [https://arxiv.org/abs/1807.06677](https://arxiv.org/abs/1807.06677)
+
+**Discriminative Feature Learning for Unsupervised Video Summarization**
+
+- intro: AAAI 2019
+- arxiv: [https://arxiv.org/abs/1811.09791](https://arxiv.org/abs/1811.09791)
 
 # Video Highlight Detection
 
