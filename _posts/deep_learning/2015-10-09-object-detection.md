@@ -1133,6 +1133,17 @@ Continuation of [arXiv:1608.08021](https://arxiv.org/abs/1608.08021)
 - intro: CUHK - SenseTime Joint Lab & Amazon Rekognition & Nanyang Technological University
 - arxiv: [https://arxiv.org/abs/1901.03278](https://arxiv.org/abs/1901.03278)
 
+**Consistent Optimization for Single-Shot Object Detection**
+
+- arxiv: [https://arxiv.org/abs/1901.06563](https://arxiv.org/abs/1901.06563)
+- blog: [https://zhuanlan.zhihu.com/p/55416312](https://zhuanlan.zhihu.com/p/55416312)
+
+**Bottom-up Object Detection by Grouping Extreme and Center Points**
+
+- keywords: ExtremeNet
+- arxiv: [https://arxiv.org/abs/1901.08043](https://arxiv.org/abs/1901.08043)
+- github: [https://github.com/xingyizhou/ExtremeNet](https://github.com/xingyizhou/ExtremeNet)
+
 # Non-Maximum Suppression (NMS)
 
 **End-to-End Integration of a Convolutional Network, Deformable Parts Model and Non-Maximum Suppression**
@@ -1172,6 +1183,11 @@ Continuation of [arXiv:1608.08021](https://arxiv.org/abs/1608.08021)
 - intro: CVPR 2018 oral
 - arxiv: [https://arxiv.org/abs/1711.11575](https://arxiv.org/abs/1711.11575)
 - github(official, MXNet): [https://github.com/msracver/Relation-Networks-for-Object-Detection](https://github.com/msracver/Relation-Networks-for-Object-Detection)
+
+**Learning Pairwise Relationship for Multi-object Detection in Crowded Scenes**
+
+- keywords: Pairwise-NMS
+- arxiv: [https://arxiv.org/abs/1901.03796](https://arxiv.org/abs/1901.03796)
 
 # Adversarial Examples
 
@@ -1907,6 +1923,15 @@ This task involves predicting the salient regions of an image given by human eye
 **Robust and High Performance Face Detector**
 
 [https://arxiv.org/abs/1901.02350](https://arxiv.org/abs/1901.02350)
+
+**DAFE-FD: Density Aware Feature Enrichment for Face Detection**
+
+[https://arxiv.org/abs/1901.05375](https://arxiv.org/abs/1901.05375)
+
+**Improved Selective Refinement Network for Face Detection**
+
+- intro: Chinese Academy of Sciences & JD AI Research
+- arxiv: [https://arxiv.org/abs/1901.06651](https://arxiv.org/abs/1901.06651)
 
 ## Detect Small Faces
 

@@ -1336,6 +1336,10 @@ Global Second-order Pooling Neural Networks**
 
 [https://arxiv.org/abs/1812.03115](https://arxiv.org/abs/1812.03115)
 
+**UAN: Unified Attention Network for Convolutional Neural Networks**
+
+[https://arxiv.org/abs/1901.05376](https://arxiv.org/abs/1901.05376)
+
 ## Convolutions / Filters
 
 **Warped Convolutions: Efficient Invariance to Spatial Transformations**
@@ -2689,6 +2693,11 @@ Global Second-order Pooling Neural Networks**
 **Not just a matter of semantics: the relationship between visual similarity and semantic similarity**
 
 [https://arxiv.org/abs/1811.07120](https://arxiv.org/abs/1811.07120)
+
+**DF-SLAM: A Deep-Learning Enhanced Visual SLAM System based on Deep Local Features**
+
+- intro: BUPT & Megvii
+- arxiv: [https://arxiv.org/abs/1901.07223](https://arxiv.org/abs/1901.07223)
 
 ### All-In-One Network
 

@@ -375,6 +375,10 @@ Compressed model is less than 500KB
 - intro: University of Tubingen
 - arxiv: [https://arxiv.org/abs/1901.03915](https://arxiv.org/abs/1901.03915)
 
+**Attention-aware Multi-stroke Style Transfer**
+
+[https://arxiv.org/abs/1901.05127](https://arxiv.org/abs/1901.05127)
+
 ## Neural Art On Audio
 
 **MSc AI Project on generative deep networks and neural style transfer for audio**

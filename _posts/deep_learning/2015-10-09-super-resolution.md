@@ -321,6 +321,10 @@ date: 2015-10-09
 
 [https://arxiv.org/abs/1810.03254](https://arxiv.org/abs/1810.03254)
 
+**Fast, Accurate and Lightweight Super-Resolution with Neural Architecture Search**
+
+[https://arxiv.org/abs/1901.07261](https://arxiv.org/abs/1901.07261)
+
 ## Video Super-resolution
 
 **Detail-revealing Deep Video Super-resolution**

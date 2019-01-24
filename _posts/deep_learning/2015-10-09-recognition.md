@@ -502,6 +502,16 @@ date: 2015-10-09
 
 [https://arxiv.org/abs/1901.03756](https://arxiv.org/abs/1901.03756)
 
+**Video-Based Pedestrian Attribute Recognition**
+
+[https://arxiv.org/abs/1901.05742](https://arxiv.org/abs/1901.05742)
+
+**Pedestrian Attribute Recognition: A Survey**
+
+- intro: Anhui University
+- project page: [https://sites.google.com/view/ahu-pedestrianattributes/](https://sites.google.com/view/ahu-pedestrianattributes/)
+- arxiv: [https://arxiv.org/abs/1901.07474](https://arxiv.org/abs/1901.07474)
+
 # Clothes Recognition
 
 **DeepFashion: Powering Robust Clothes Recognition and Retrieval with Rich Annotations**

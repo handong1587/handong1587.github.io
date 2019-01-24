@@ -203,6 +203,11 @@ Auto-encoder
 
 [https://arxiv.org/abs/1812.04287](https://arxiv.org/abs/1812.04287)
 
+**Deep Representation Learning Characterized by Inter-class Separation for Image Clustering**
+
+- intro: WACV 2019
+- arxiv: [https://arxiv.org/abs/1901.06474](https://arxiv.org/abs/1901.06474)
+
 # Auto-encoder
 
 **Auto-Encoding Variational Bayes**

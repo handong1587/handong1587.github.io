@@ -1424,6 +1424,14 @@ date: 2015-10-09
 - arxiv: [https://arxiv.org/abs/1807.06538](https://arxiv.org/abs/1807.06538)
 - slides: [https://www.slideshare.net/TomohikoKonno/pseudofeature-generation-for-imbalanced-data-analysis-in-deep-learning-tomohiko-105318569](https://www.slideshare.net/TomohikoKonno/pseudofeature-generation-for-imbalanced-data-analysis-in-deep-learning-tomohiko-105318569)
 
+**Max-margin Class Imbalanced Learning with Gaussian Affinity**
+
+[https://arxiv.org/abs/1901.07711](https://arxiv.org/abs/1901.07711)
+
+**Dynamic Curriculum Learning for Imbalanced Data Classification**
+
+[https://arxiv.org/abs/1901.06783](https://arxiv.org/abs/1901.06783)
+
 ## Noisy / Unlabelled Data
 
 **Data Distillation: Towards Omni-Supervised Learning**

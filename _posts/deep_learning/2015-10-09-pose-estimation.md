@@ -334,6 +334,14 @@ date: 2015-10-09
 - intro: Nanyang Technological University & Chalmers University of Technology & Peking University & Alibaba Group
 - arxiv: [https://arxiv.org/abs/1901.04877](https://arxiv.org/abs/1901.04877)
 
+# Pose Tracking
+
+**A Top-down Approach to Articulated Human Pose Estimation and Tracking**
+
+- intro: JD.com Silicon Valley Research Center
+- intro: ECCVW 2018. Workshop: 2nd PoseTrack Challenge
+- arxiv: [https://arxiv.org/abs/1901.07680](https://arxiv.org/abs/1901.07680)
+
 # Object Pose Estimation
 
 **Real-Time Object Pose Estimation with Pose Interpreter Networks**

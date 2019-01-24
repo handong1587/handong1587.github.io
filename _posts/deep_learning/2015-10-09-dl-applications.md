@@ -1050,6 +1050,11 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 
 [https://arxiv.org/abs/1812.01458](https://arxiv.org/abs/1812.01458)
 
+**Foreground-aware Image Inpainting**
+
+- intro: University of Rochester & University of Illinois at Urbana-Champaign & Adobe Research
+- arxiv: [https://arxiv.org/abs/1901.05945](https://arxiv.org/abs/1901.05945)
+
 # Image Restoration
 
 **Image Restoration Using Very Deep Convolutional Encoder-Decoder Networks with Symmetric Skip Connections**

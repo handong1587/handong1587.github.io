@@ -919,6 +919,11 @@ with built-in awareness of semantically meaningful boundaries. "
 - intro: Johns Hopkins University & Google & Stanford University
 - arxiv: [https://arxiv.org/abs/1901.02985](https://arxiv.org/abs/1901.02985)
 
+**Semantic Nighttime Image Segmentation with Synthetic Stylized Data, Gradual Adaptation and Uncertainty-Aware Evaluation**
+
+- intro: ETH Zurich & KU Leuven
+- arxiv: [https://arxiv.org/abs/1901.05946](https://arxiv.org/abs/1901.05946)
+
 # Instance Segmentation
 
 **Simultaneous Detection and Segmentation**
@@ -1161,6 +1166,12 @@ with built-in awareness of semantically meaningful boundaries. "
 
 - intro: University of Tubingen
 - arxiv: [https://arxiv.org/abs/1811.11507](https://arxiv.org/abs/1811.11507)
+
+**Hybrid Task Cascade for Instance Segmentation**
+
+- intro: The Chinese University of Hong Kong & SenseTime Research & Zhejiang University & The University of Sydney & Nanyang Technological University
+- intro: Winning entry of COCO 2018 Challenge (object detection task)
+- arxiv: [https://arxiv.org/abs/1901.07518](https://arxiv.org/abs/1901.07518)
 
 ## Human Instance Segmentation
 

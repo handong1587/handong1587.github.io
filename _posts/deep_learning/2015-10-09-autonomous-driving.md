@@ -36,6 +36,21 @@ date: 2015-10-09
 - intro: NeurIPS 2018 Workshop on Machine Learning on the Phone and other Consumer Devices (MLPCD 2)
 - arxiv: [https://arxiv.org/abs/1901.03912](https://arxiv.org/abs/1901.03912)
 
+**Optical Flow augmented Semantic Segmentation networks for Automated Driving**
+
+- intro: VISAPP 2019 Oral
+- arxiv: [https://arxiv.org/abs/1901.07355](https://arxiv.org/abs/1901.07355)
+
+**AuxNet: Auxiliary tasks enhanced Semantic Segmentation for Automated Driving**
+
+- intro: Short Paper for a poster presentation at VISAPP 2019
+- arxiv: [https://arxiv.org/abs/1901.05808](https://arxiv.org/abs/1901.05808)
+
+**Design of Real-time Semantic Segmentation Decoder for Automated Driving**
+
+- intro: VISAPP 2019
+- arxiv: [https://arxiv.org/abs/1901.06580](https://arxiv.org/abs/1901.06580)
+
 ## DeepDriving
 
 **DeepDriving: Learning Affordance for Direct Perception in Autonomous Driving**

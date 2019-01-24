@@ -606,6 +606,10 @@ at INT8 deep learning operations than other FPGA DSP architectures"
 
 [https://arxiv.org/abs/1812.11337](https://arxiv.org/abs/1812.11337)
 
+**Towards Compact ConvNets via Structure-Sparsity Regularized Filter Pruning**
+
+[https://arxiv.org/abs/1901.07827](https://arxiv.org/abs/1901.07827)
+
 # Low-Precision Networks
 
 **Accelerating Deep Convolutional Networks using low-precision and sparsity**
