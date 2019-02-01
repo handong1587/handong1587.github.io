@@ -610,6 +610,10 @@ at INT8 deep learning operations than other FPGA DSP architectures"
 
 [https://arxiv.org/abs/1901.07827](https://arxiv.org/abs/1901.07827)
 
+**Partition Pruning: Parallelization-Aware Pruning for Deep Neural Networks**
+
+[https://arxiv.org/abs/1901.11391](https://arxiv.org/abs/1901.11391)
+
 # Low-Precision Networks
 
 **Accelerating Deep Convolutional Networks using low-precision and sparsity**

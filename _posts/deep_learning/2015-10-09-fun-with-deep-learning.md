@@ -760,6 +760,10 @@ Compressed model is less than 500KB
 - intro: 2018 ACM Multimedia Conference (MM '18)
 - arxiv: [https://arxiv.org/abs/1808.03240](https://arxiv.org/abs/1808.03240)
 
+**Pixelated Semantic Colorization**
+
+[https://arxiv.org/abs/1901.10889](https://arxiv.org/abs/1901.10889)
+
 # Sounds
 
 **Visually Indicated Sounds**

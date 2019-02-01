@@ -311,13 +311,12 @@ date: 2015-10-09
 - blog: [https://research.googleblog.com/2018/03/semantic-image-segmentation-with.html](https://research.googleblog.com/2018/03/semantic-image-segmentation-with.html)
 - github: [https://github.com/hualin95/Deeplab-v3plus](https://github.com/hualin95/Deeplab-v3plus)
 
-## CRF-RNN
-
 **Conditional Random Fields as Recurrent Neural Networks**
 
 ![](http://www.robots.ox.ac.uk/~szheng/Res_CRFRNN/CRFasRNN.jpg)
 
 - intro: ICCV 2015. Oxford / Stanford / Baidu
+- keywords: CRF-RNN
 - project page: [http://www.robots.ox.ac.uk/~szheng/CRFasRNN.html](http://www.robots.ox.ac.uk/~szheng/CRFasRNN.html)
 - arxiv: [http://arxiv.org/abs/1502.03240](http://arxiv.org/abs/1502.03240)
 - github: [https://github.com/torrvision/crfasrnn](https://github.com/torrvision/crfasrnn)
@@ -333,8 +332,6 @@ date: 2015-10-09
 - intro: CVPR 2016
 - arxiv: [http://arxiv.org/abs/1504.01013](http://arxiv.org/abs/1504.01013)
 
-## DeconvNet
-
 **Learning Deconvolution Network for Semantic Segmentation**
 
 ![](http://cvlab.postech.ac.kr/research/deconvnet/images/overall.png)
@@ -342,6 +339,7 @@ date: 2015-10-09
 - intro: ICCV 2015. DeconvNet
 - intro: two-stage training: train the network with easy examples first and 
 fine-tune the trained network with more challenging examples later
+- keywords: DeconvNet
 - project page: [http://cvlab.postech.ac.kr/research/deconvnet/](http://cvlab.postech.ac.kr/research/deconvnet/)
 - arxiv: [http://arxiv.org/abs/1505.04366](http://arxiv.org/abs/1505.04366)
 - slides: [http://web.cs.hacettepe.edu.tr/~aykut/classes/spring2016/bil722/slides/w06-deconvnet.pdf](http://web.cs.hacettepe.edu.tr/~aykut/classes/spring2016/bil722/slides/w06-deconvnet.pdf)
@@ -376,8 +374,6 @@ fine-tune the trained network with more challenging examples later
 - blog: [http://mi.eng.cam.ac.uk/projects/segnet/tutorial.html](http://mi.eng.cam.ac.uk/projects/segnet/tutorial.html)
 - github: [https://github.com/alexgkendall/SegNet-Tutorial](https://github.com/alexgkendall/SegNet-Tutorial)
 
-## ParseNet
-
 **ParseNet: Looking Wider to See Better**
 
 - intro:ICLR 2016
@@ -385,13 +381,12 @@ fine-tune the trained network with more challenging examples later
 - github: [https://github.com/weiliu89/caffe/tree/fcn](https://github.com/weiliu89/caffe/tree/fcn)
 - caffe model zoo: [https://github.com/BVLC/caffe/wiki/Model-Zoo#parsenet-looking-wider-to-see-better](https://github.com/BVLC/caffe/wiki/Model-Zoo#parsenet-looking-wider-to-see-better)
 
-## DecoupledNet
-
 **Decoupled Deep Neural Network for Semi-supervised Semantic Segmentation**
 
 ![](http://cvlab.postech.ac.kr/research/decouplednet/images/overall.png)
 
 - intro: ICLR 2016
+- keywords: DecoupledNet
 - project(paper+code): [http://cvlab.postech.ac.kr/research/decouplednet/](http://cvlab.postech.ac.kr/research/decouplednet/)
 - arxiv: [http://arxiv.org/abs/1506.04924](http://arxiv.org/abs/1506.04924)
 - github: [https://github.com/HyeonwooNoh/DecoupledNet](https://github.com/HyeonwooNoh/DecoupledNet)
@@ -476,8 +471,6 @@ fine-tune the trained network with more challenging examples later
 
 - arxiv: [http://arxiv.org/abs/1605.07681](http://arxiv.org/abs/1605.07681)
 
-## ENet
-
 **ENet: A Deep Neural Network Architecture for Real-Time Semantic Segmentation**
 
 - arxiv: [http://arxiv.org/abs/1606.02147](http://arxiv.org/abs/1606.02147)
@@ -505,8 +498,6 @@ fine-tune the trained network with more challenging examples later
 
 - intro: ECCV 2016
 - arxiv: [http://arxiv.org/abs/1609.00446](http://arxiv.org/abs/1609.00446)
-
-## PixelNet
 
 **PixelNet: Towards a General Pixel-level Architecture**
 
@@ -677,8 +668,6 @@ with built-in awareness of semantically meaningful boundaries. "
 - intro: [International Institute of Information Technology & Max Planck Institute For Intelligent Systems
 - arxiv: [https://arxiv.org/abs/1704.08331](https://arxiv.org/abs/1704.08331)
 
-## ICNet
-
 **ICNet for Real-Time Semantic Segmentation on High-Resolution Images**
 
 - intro: CUHK & Sensetime
@@ -686,8 +675,6 @@ with built-in awareness of semantically meaningful boundaries. "
 - arxiv: [https://arxiv.org/abs/1704.08545](https://arxiv.org/abs/1704.08545)
 - github: [https://github.com/hszhao/ICNet](https://github.com/hszhao/ICNet)
 - video: [https://www.youtube.com/watch?v=qWl9idsCuLQ](https://www.youtube.com/watch?v=qWl9idsCuLQ)
-
-## LinkNet
 
 **Feature Forwarding: Exploiting Encoder Representations for Efficient Semantic Segmentation**
 
@@ -1103,11 +1090,10 @@ with built-in awareness of semantically meaningful boundaries. "
 - arxiv: [https://arxiv.org/abs/1712.00617](https://arxiv.org/abs/1712.00617)
 - github: [https://github.com/imatge-upc/rsis](https://github.com/imatge-upc/rsis)
 
-## MaskLab
-
 **MaskLab: Instance Segmentation by Refining Object Detection with Semantic and Direction Features**
 
-[https://arxiv.org/abs/1712.04837](https://arxiv.org/abs/1712.04837)
+- intro: Google Inc. & RWTH Aachen University & UCLA
+- arxiv: [https://arxiv.org/abs/1712.04837](https://arxiv.org/abs/1712.04837)
 
 **Recurrent Pixel Embedding for Instance Grouping**
 
@@ -1676,6 +1662,12 @@ ranked 1st place in ImageNet Scene Parsing Challenge 2016
 
 - intro: CVPR 2018
 - arxiv: [https://arxiv.org/abs/1807.03148](https://arxiv.org/abs/1807.03148)
+
+**Fast Video Object Segmentation by Reference-Guided Mask Propagation**
+
+- intro: CVPR 2018
+- paper: [http://openaccess.thecvf.com/content_cvpr_2018/CameraReady/1029.pdf](http://openaccess.thecvf.com/content_cvpr_2018/CameraReady/1029.pdf)
+- github: [https://github.com/seoungwugoh/RGMP](https://github.com/seoungwugoh/RGMP)
 
 **PReMVOS: Proposal-generation, Refinement and Merging for Video Object Segmentation**
 

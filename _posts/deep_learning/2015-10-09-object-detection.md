@@ -1127,6 +1127,7 @@ Continuation of [arXiv:1608.08021](https://arxiv.org/abs/1608.08021)
 
 - intro: University of Chinese Academy of Sciences & TuSimple
 - arxiv: [https://arxiv.org/abs/1901.01892](https://arxiv.org/abs/1901.01892)
+- github: [https://github.com/TuSimple/simpledet](https://github.com/TuSimple/simpledet)
 
 **Region Proposal by Guided Anchoring**
 
@@ -1382,6 +1383,11 @@ Continuation of [arXiv:1608.08021](https://arxiv.org/abs/1608.08021)
 
 - intro: AAAI 2019
 - arxiv: [https://arxiv.org/abs/1901.02237](https://arxiv.org/abs/1901.02237)
+
+**
+3D Backbone Network for 3D Object Detection**
+
+[https://arxiv.org/abs/1901.08373](https://arxiv.org/abs/1901.08373)
 
 # Object Detection on RGB-D
 
@@ -1833,6 +1839,7 @@ This task involves predicting the salient regions of an image given by human eye
 - keywords: Rapidly Digested Convolutional Layers (RDCL), Multiple Scale Convolutional Layers (MSCL)
 - intro: the proposed detector runs at 20 FPS on a single CPU core and 125 FPS using a GPU for VGA-resolution images
 - arxiv: [https://arxiv.org/abs/1708.05234](https://arxiv.org/abs/1708.05234)
+- github(official): [https://github.com/sfzhang15/FaceBoxes](https://github.com/sfzhang15/FaceBoxes)
 - github(Caffe): [https://github.com/zeusees/FaceBoxes](https://github.com/zeusees/FaceBoxes)
 
 **S3FD: Single Shot Scale-invariant Face Detector**
@@ -2411,7 +2418,8 @@ This task involves predicting the salient regions of an image given by human eye
 
 **Towards End-to-End Lane Detection: an Instance Segmentation Approach**
 
-[https://arxiv.org/abs/1802.05591](https://arxiv.org/abs/1802.05591)
+- arxiv: [https://arxiv.org/abs/1802.05591](https://arxiv.org/abs/1802.05591)
+- github: [https://github.com/MaybeShewill-CV/lanenet-lane-detection](https://github.com/MaybeShewill-CV/lanenet-lane-detection)
 
 **iCAN: Instance-Centric Attention Network for Human-Object Interaction Detection**
 

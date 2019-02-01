@@ -175,6 +175,11 @@ date: 2015-10-09
 
 [https://arxiv.org/abs/1811.12649](https://arxiv.org/abs/1811.12649)
 
+**In Defense of the Triplet Loss for Visual Recognition**
+
+- intro: University of Maryland & Honda Research Institute
+- arxiv: [https://arxiv.org/abs/1901.08616](https://arxiv.org/abs/1901.08616)
+
 # Massive Classification
 
 **Accelerated Training for Massive Classification via Dynamic Class Selection**

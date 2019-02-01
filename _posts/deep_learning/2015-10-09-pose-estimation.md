@@ -334,6 +334,11 @@ date: 2015-10-09
 - intro: Nanyang Technological University & Chalmers University of Technology & Peking University & Alibaba Group
 - arxiv: [https://arxiv.org/abs/1901.04877](https://arxiv.org/abs/1901.04877)
 
+**View Invariant 3D Human Pose Estimation**
+
+- intro: MSRA & USTC
+- arxiv: [https://arxiv.org/abs/1901.10841](https://arxiv.org/abs/1901.10841)
+
 # Pose Tracking
 
 **A Top-down Approach to Articulated Human Pose Estimation and Tracking**

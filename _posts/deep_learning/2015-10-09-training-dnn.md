@@ -302,6 +302,7 @@ date: 2015-10-09
 
 **Revisiting Batch Normalization For Practical Domain Adaptation**
 
+- intro: Peking University & TuSimple & SenseTime
 - intro: Pattern Recognition
 - keywords: Adaptive Batch Normalization (AdaBN)
 - arxiv: [https://arxiv.org/abs/1603.04779](https://arxiv.org/abs/1603.04779)

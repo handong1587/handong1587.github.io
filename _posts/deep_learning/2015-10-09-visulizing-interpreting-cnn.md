@@ -282,6 +282,11 @@ date: 2015-10-09
 
 [https://arxiv.org/abs/1901.02229](https://arxiv.org/abs/1901.02229)
 
+**Deep Features Analysis with Attention Networks**
+
+- intro: In AAAI-19 Workshop on Network Interpretability for Deep Learning
+- arxiv: [https://arxiv.org/abs/1901.10042](https://arxiv.org/abs/1901.10042)
+
 # Projects
 
 **Interactive Deep Neural Net Hallucinations**

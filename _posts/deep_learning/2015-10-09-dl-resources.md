@@ -928,7 +928,8 @@ with fast exact probabilistic inference over many layers."
 
 **Domain Separation Networks**
 
-- intro: NIPS 2016. Google Brain & Imperial College London & Google Research
+- intro: NIPS 2016
+- intro: Google Brain & Imperial College London & Google Research
 - arxiv: [https://arxiv.org/abs/1608.06019](https://arxiv.org/abs/1608.06019)
 - github: [https://github.com/tensorflow/models/tree/master/domain_adaptation](https://github.com/tensorflow/models/tree/master/domain_adaptation)
 
@@ -1339,6 +1340,12 @@ Global Second-order Pooling Neural Networks**
 **UAN: Unified Attention Network for Convolutional Neural Networks**
 
 [https://arxiv.org/abs/1901.05376](https://arxiv.org/abs/1901.05376)
+
+**One-Class Convolutional Neural Network**
+
+- intro: Johns Hopkins University
+- arxiv: [https://arxiv.org/abs/1901.08688](https://arxiv.org/abs/1901.08688)
+- github: [https://github.com/otkupjnoz/oc-cnn](https://github.com/otkupjnoz/oc-cnn)
 
 ## Convolutions / Filters
 
@@ -2333,6 +2340,11 @@ Global Second-order Pooling Neural Networks**
 **ImageNet-trained CNNs are biased towards texture; increasing shape bias improves accuracy and robustness**
 
 [https://arxiv.org/abs/1811.12231](https://arxiv.org/abs/1811.12231)
+
+**DeepFashion2: A Versatile Benchmark for Detection, Pose Estimation, Segmentation and Re-Identification of Clothing Images**
+
+- intro: The Chinese University of Hong Kong & SenseTime Research
+- arxiv: [https://arxiv.org/abs/1901.07973](https://arxiv.org/abs/1901.07973)
 
 ## Tutorials and Surveys
 
