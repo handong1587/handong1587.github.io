@@ -1145,6 +1145,10 @@ Continuation of [arXiv:1608.08021](https://arxiv.org/abs/1608.08021)
 - arxiv: [https://arxiv.org/abs/1901.08043](https://arxiv.org/abs/1901.08043)
 - github: [https://github.com/xingyizhou/ExtremeNet](https://github.com/xingyizhou/ExtremeNet)
 
+**A Single-shot Object Detector with Feature Aggragation and Enhancement**
+
+[https://arxiv.org/abs/1902.02923](https://arxiv.org/abs/1902.02923)
+
 # Non-Maximum Suppression (NMS)
 
 **End-to-End Integration of a Convolutional Network, Deformable Parts Model and Non-Maximum Suppression**
@@ -1189,6 +1193,10 @@ Continuation of [arXiv:1608.08021](https://arxiv.org/abs/1608.08021)
 
 - keywords: Pairwise-NMS
 - arxiv: [https://arxiv.org/abs/1901.03796](https://arxiv.org/abs/1901.03796)
+
+**Daedalus: Breaking Non-Maximum Suppression in Object Detection via Adversarial Examples**
+
+[https://arxiv.org/abs/1902.02067](https://arxiv.org/abs/1902.02067)
 
 # Adversarial Examples
 
@@ -1353,6 +1361,11 @@ Continuation of [arXiv:1608.08021](https://arxiv.org/abs/1608.08021)
 
 - intro: INRIA/ENS
 - arxiv: [https://arxiv.org/abs/1812.02619](https://arxiv.org/abs/1812.02619)
+
+**AdaScale: Towards Real-time Video Object Detection Using Adaptive Scaling**
+
+- intro: SysML 2019 oral
+- arxiv: [https://arxiv.org/abs/1902.02910](https://arxiv.org/abs/1902.02910)
 
 # Object Detection on Mobile Devices
 
@@ -1939,6 +1952,10 @@ This task involves predicting the salient regions of an image given by human eye
 
 - intro: Chinese Academy of Sciences & JD AI Research
 - arxiv: [https://arxiv.org/abs/1901.06651](https://arxiv.org/abs/1901.06651)
+
+**Revisiting a single-stage method for face detection**
+
+[https://arxiv.org/abs/1902.01559](https://arxiv.org/abs/1902.01559)
 
 ## Detect Small Faces
 
@@ -2712,3 +2729,8 @@ We additionally provide an implementation of the [ReInspect](https://github.com/
 **An overview of object detection: one-stage methods**
 
 [https://www.jeremyjordan.me/object-detection-one-stage/](https://www.jeremyjordan.me/object-detection-one-stage/)
+
+**deep learning object detection**
+
+- intro: A paper list of object detection using deep learning.
+- arxiv: [https://github.com/hoya012/deep_learning_object_detection](https://github.com/hoya012/deep_learning_object_detection)

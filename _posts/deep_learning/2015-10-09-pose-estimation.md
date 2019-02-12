@@ -339,6 +339,10 @@ date: 2015-10-09
 - intro: MSRA & USTC
 - arxiv: [https://arxiv.org/abs/1901.10841](https://arxiv.org/abs/1901.10841)
 
+**3D Human Pose Estimation from Deep Multi-View 2D Pose**
+
+[https://arxiv.org/abs/1902.02841](https://arxiv.org/abs/1902.02841)
+
 # Pose Tracking
 
 **A Top-down Approach to Articulated Human Pose Estimation and Tracking**

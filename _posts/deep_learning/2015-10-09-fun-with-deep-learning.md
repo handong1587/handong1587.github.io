@@ -450,6 +450,11 @@ Compressed model is less than 500KB
 
 [https://arxiv.org/abs/1712.00516](https://arxiv.org/abs/1712.00516)
 
+**Deep Painterly Harmonization**
+
+- arxiv: [https://arxiv.org/abs/1804.03189](https://arxiv.org/abs/1804.03189)
+- github: [https://github.com/luanfujun/deep-painterly-harmonization](https://github.com/luanfujun/deep-painterly-harmonization)
+
 **ReCoNet: Real-time Coherent Video Style Transfer Network**
 
 - intro: The University of Hong Kong

@@ -217,6 +217,10 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 - video: [https://www.youtube.com/watch?v=qWKUFK7MWvg&feature=youtu.be](https://www.youtube.com/watch?v=qWKUFK7MWvg&feature=youtu.be)
 - video: [https://www.bilibili.com/video/av23195280/](https://www.bilibili.com/video/av23195280/)
 
+**Generative Smoke Removal**
+
+[https://arxiv.org/abs/1902.00311](https://arxiv.org/abs/1902.00311)
+
 # Boundary / Edge / Contour Detection
 
 **Holistically-Nested Edge Detection**

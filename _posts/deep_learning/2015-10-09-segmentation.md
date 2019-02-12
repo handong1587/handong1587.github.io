@@ -1215,6 +1215,10 @@ with built-in awareness of semantically meaningful boundaries. "
 - intro: Uber ATG & University of Toronto & The Chinese University of Hong Kong
 - arxiv: [https://arxiv.org/abs/1901.03784](https://arxiv.org/abs/1901.03784)
 
+**Single Network Panoptic Segmentation for Street Scene Understanding**
+
+[https://arxiv.org/abs/1902.02678](https://arxiv.org/abs/1902.02678)
+
 # Specific Segmentation
 
 **A CNN Cascade for Landmark Guided Semantic Part Segmentation**

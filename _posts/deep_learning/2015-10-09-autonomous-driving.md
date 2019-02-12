@@ -51,6 +51,10 @@ date: 2015-10-09
 - intro: VISAPP 2019
 - arxiv: [https://arxiv.org/abs/1901.06580](https://arxiv.org/abs/1901.06580)
 
+**Hierarchical Multi-task Deep Neural Network Architecture for End-to-End Driving**
+
+[https://arxiv.org/abs/1902.03466](https://arxiv.org/abs/1902.03466)
+
 ## DeepDriving
 
 **DeepDriving: Learning Affordance for Direct Perception in Autonomous Driving**

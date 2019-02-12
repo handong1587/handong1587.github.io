@@ -384,6 +384,11 @@ L**ow-Resolution Face Recognition**
 
 [https://arxiv.org/abs/1812.10265](https://arxiv.org/abs/1812.10265)
 
+**Registration-free Face-SSD: Single shot analysis of smiles, facial attributes, and affect in the wild**
+
+- intro: Elsevier CVIU 2019
+- arxiv: [https://arxiv.org/abs/1902.04042](https://arxiv.org/abs/1902.04042)
+
 # Video Face Recognition
 
 **Neural Aggregation Network for Video Face Recognition**
