@@ -1687,6 +1687,13 @@ date: 2015-10-09
 
 [https://arxiv.org/abs/1812.01821](https://arxiv.org/abs/1812.01821)
 
+**Feature denoising for improving adversarial robustness**
+
+- intro: Johns Hopkins University & Facebook AI Research
+- intro: ranked first in Competition on Adversarial Attacks and Defenses (CAAD) 2018
+- arxiv: [https://arxiv.org/abs/1812.03411](https://arxiv.org/abs/1812.03411)
+- github: [https://github.com/facebookresearch/ImageNet-Adversarial-Training](https://github.com/facebookresearch/ImageNet-Adversarial-Training)
+
 # Low-Precision Training
 
 **Mixed Precision Training**

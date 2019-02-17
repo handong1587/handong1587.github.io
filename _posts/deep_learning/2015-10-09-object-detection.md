@@ -1149,6 +1149,11 @@ Continuation of [arXiv:1608.08021](https://arxiv.org/abs/1608.08021)
 
 [https://arxiv.org/abs/1902.02923](https://arxiv.org/abs/1902.02923)
 
+**Bag of Freebies for Training Object Detection Neural Networks**
+
+- intro: Amazon Web Services
+- arxiv: [https://arxiv.org/abs/1902.04103](https://arxiv.org/abs/1902.04103)
+
 # Non-Maximum Suppression (NMS)
 
 **End-to-End Integration of a Convolutional Network, Deformable Parts Model and Non-Maximum Suppression**
@@ -2112,6 +2117,10 @@ This task involves predicting the salient regions of an image given by human eye
 
 - intro: BMVC 2016 oral
 - arxiv: [https://arxiv.org/abs/1611.02644](https://arxiv.org/abs/1611.02644)
+
+**Box-level Segmentation Supervised Deep Neural Networks for Accurate and Real-time Multispectral Pedestrian Detection**
+
+[https://arxiv.org/abs/1902.05291](https://arxiv.org/abs/1902.05291)
 
 **Deep Multi-camera People Detection**
 

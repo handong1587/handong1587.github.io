@@ -311,6 +311,13 @@ date: 2015-10-09
 - blog: [https://research.googleblog.com/2018/03/semantic-image-segmentation-with.html](https://research.googleblog.com/2018/03/semantic-image-segmentation-with.html)
 - github: [https://github.com/hualin95/Deeplab-v3plus](https://github.com/hualin95/Deeplab-v3plus)
 
+## DeeperLab
+
+**DeeperLab: Single-Shot Image Parser**
+
+- intro: MIT & Google Inc. & UC Berkeley
+- arxiv: [https://arxiv.org/abs/1902.05093](https://arxiv.org/abs/1902.05093)
+
 **Conditional Random Fields as Recurrent Neural Networks**
 
 ![](http://www.robots.ox.ac.uk/~szheng/Res_CRFRNN/CRFasRNN.jpg)
@@ -910,6 +917,10 @@ with built-in awareness of semantically meaningful boundaries. "
 
 - intro: ETH Zurich & KU Leuven
 - arxiv: [https://arxiv.org/abs/1901.05946](https://arxiv.org/abs/1901.05946)
+
+**Fast-SCNN: Fast Semantic Segmentation Network**
+
+[https://arxiv.org/abs/1902.04502](https://arxiv.org/abs/1902.04502)
 
 # Instance Segmentation
 
