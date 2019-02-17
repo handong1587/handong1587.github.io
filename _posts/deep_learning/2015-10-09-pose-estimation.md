@@ -160,15 +160,6 @@ date: 2015-10-09
 - arxiv: [https://arxiv.org/abs/1712.06316](https://arxiv.org/abs/1712.06316)
 - github(Caffe, officical): [https://github.com/lawy623/LSTM_Pose_Machines](https://github.com/lawy623/LSTM_Pose_Machines)
 
-**Detect-and-Track: Efficient Pose Estimation in Videos**
-
-- intro: CVPR 2018. CMU & Facebook & Dartmouth
-- intro: Ranked first in ICCV 2017 PoseTrack challenge (keypoint tracking in videos)
-- project page: [https://rohitgirdhar.github.io/DetectAndTrack/](https://rohitgirdhar.github.io/DetectAndTrack/)
-- arxiv: [https://arxiv.org/abs/1712.09184](https://arxiv.org/abs/1712.09184)
-- paper: [http://openaccess.thecvf.com/content_cvpr_2018/papers/Girdhar_Detect-and-Track_Efficient_Pose_CVPR_2018_paper.pdf](http://openaccess.thecvf.com/content_cvpr_2018/papers/Girdhar_Detect-and-Track_Efficient_Pose_CVPR_2018_paper.pdf)
-- github: [https://github.com/facebookresearch/DetectAndTrack/](https://github.com/facebookresearch/DetectAndTrack/)
-
 **DenseReg: Fully Convolutional Dense Shape Regression In-the-Wild**
 
 - intro: CVPR 2017
@@ -214,10 +205,6 @@ date: 2015-10-09
 
 - intro: CVPRW (2018). Workshop: Visual Understanding of Humans in Crowd Scene and the 2nd Look Into Person Challenge (VUHCS-LIP)
 - arxiv: [https://arxiv.org/abs/1804.07909](https://arxiv.org/abs/1804.07909)
-
-**Simple Baselines for Human Pose Estimation and Tracking**
-
-[https://arxiv.org/abs/1804.06208](https://arxiv.org/abs/1804.06208)
 
 **3D Human Pose Estimation with Relational Networks**
 
@@ -344,6 +331,23 @@ date: 2015-10-09
 [https://arxiv.org/abs/1902.02841](https://arxiv.org/abs/1902.02841)
 
 # Pose Tracking
+
+**Detect-and-Track: Efficient Pose Estimation in Videos**
+
+- intro: CVPR 2018. CMU & Facebook & Dartmouth
+- intro: Ranked first in ICCV 2017 PoseTrack challenge (keypoint tracking in videos)
+- project page: [https://rohitgirdhar.github.io/DetectAndTrack/](https://rohitgirdhar.github.io/DetectAndTrack/)
+- arxiv: [https://arxiv.org/abs/1712.09184](https://arxiv.org/abs/1712.09184)
+- paper: [http://openaccess.thecvf.com/content_cvpr_2018/papers/Girdhar_Detect-and-Track_Efficient_Pose_CVPR_2018_paper.pdf](http://openaccess.thecvf.com/content_cvpr_2018/papers/Girdhar_Detect-and-Track_Efficient_Pose_CVPR_2018_paper.pdf)
+- github: [https://github.com/facebookresearch/DetectAndTrack/](https://github.com/facebookresearch/DetectAndTrack/)
+
+**Simple Baselines for Human Pose Estimation and Tracking**
+
+- intro: ECCV 2018
+- intro: MSRA
+- keywords: optical flow based pose propagation and similarity measurement
+- arxiv: [https://arxiv.org/abs/1804.06208](https://arxiv.org/abs/1804.06208)
+- github(official): [https://github.com/Microsoft/human-pose-estimation.pytorch](https://github.com/Microsoft/human-pose-estimation.pytorch)
 
 **A Top-down Approach to Articulated Human Pose Estimation and Tracking**
 
