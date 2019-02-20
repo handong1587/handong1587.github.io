@@ -220,7 +220,9 @@ date: 2015-10-09
 
 **FSRNet: End-to-End Learning Face Super-Resolution with Facial Priors**
 
-[https://arxiv.org/abs/1711.10703](https://arxiv.org/abs/1711.10703)
+- intro: CVPR 2018 spotlight
+- arxiv: [https://arxiv.org/abs/1711.10703](https://arxiv.org/abs/1711.10703)
+- github: [https://github.com/tyshiwo/FSRNet](https://github.com/tyshiwo/FSRNet)
 
 **A Frequency Domain Neural Network for Fast Image Super-resolution**
 
