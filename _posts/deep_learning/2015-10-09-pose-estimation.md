@@ -88,6 +88,12 @@ date: 2015-10-09
 - intro: Journal version
 - arxiv: [https://arxiv.org/abs/1812.08008](https://arxiv.org/abs/1812.08008)
 
+**Towards Accurate Multi-person Pose Estimation in the Wild**
+
+- intro: Google
+- intro: CVPR 2017
+- arxiv: [https://arxiv.org/abs/1701.01779](https://arxiv.org/abs/1701.01779)
+
 **Region Ensemble Network: Improving Convolutional Network for Hand Pose Estimation**
 
 - arxiv: [https://arxiv.org/abs/1702.02447](https://arxiv.org/abs/1702.02447)
@@ -296,6 +302,13 @@ date: 2015-10-09
 - intro: Megvii Inc. (Face++) & Shanghai Jiao Tong University & Beihang University & Beijing University of Posts and Telecommunications
 - arxiv: [https://arxiv.org/abs/1901.00148](https://arxiv.org/abs/1901.00148)
 
+**Deep High-Resolution Representation Learning for Human Pose Estimation**
+
+- intro: CVPR 2019
+- arxiv: [https://arxiv.org/abs/1902.09212](https://arxiv.org/abs/1902.09212)
+- project page: [https://jingdongwang2017.github.io/Projects/HRNet/PoseEstimation.html](https://jingdongwang2017.github.io/Projects/HRNet/PoseEstimation.html)
+- github(official): [https://github.com/leoxiaobin/deep-high-resolution-net.pytorch](https://github.com/leoxiaobin/deep-high-resolution-net.pytorch)
+
 # 3D Pose
 
 **Can 3D Pose be Learned from 2D Projections Alone?**
@@ -329,6 +342,11 @@ date: 2015-10-09
 **3D Human Pose Estimation from Deep Multi-View 2D Pose**
 
 [https://arxiv.org/abs/1902.02841](https://arxiv.org/abs/1902.02841)
+
+**RepNet: Weakly Supervised Training of an Adversarial Reprojection Network for 3D Human Pose Estimation**
+
+- intro: CVPR 2019
+- arxiv: [https://arxiv.org/abs/1902.09868](https://arxiv.org/abs/1902.09868)
 
 # Pose Tracking
 

@@ -461,6 +461,10 @@ Compressed model is less than 500KB
 - arixv: [https://arxiv.org/abs/1807.01197](https://arxiv.org/abs/1807.01197)
 - supp: [https://www.dropbox.com/s/go6f7uopjjsala7/ReCoNet%20Supplementary%20Material.pdf?dl=0](https://www.dropbox.com/s/go6f7uopjjsala7/ReCoNet%20Supplementary%20Material.pdf?dl=0)
 
+**Fully-Featured Attribute Transfer**
+
+[https://arxiv.org/abs/1902.06258](https://arxiv.org/abs/1902.06258)
+
 ## Neural Doodle
 
 **Semantic Style Transfer and Turning Two-Bit Doodles into Fine Artworks**

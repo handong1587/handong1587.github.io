@@ -321,6 +321,10 @@ date: 2015-10-09
 
 [https://arxiv.org/abs/1811.05588](https://arxiv.org/abs/1811.05588)
 
+**Spiking-YOLO: Spiking Neural Network for Real-time Object Detection**
+
+[https://arxiv.org/abs/1903.06530](https://arxiv.org/abs/1903.06530)
+
 - - -
 
 **AttentionNet: Aggregating Weak Directions for Accurate Object Detection**
@@ -1044,8 +1048,9 @@ Continuation of [arXiv:1608.08021](https://arxiv.org/abs/1608.08021)
 
 **Gradient Harmonized Single-stage Detector**
 
-- intro: AAAI 2019
+- intro: AAAI 2019 Oral
 - arxiv: [https://arxiv.org/abs/1811.05181](https://arxiv.org/abs/1811.05181)
+- gihtub(official): [https://github.com/libuyu/GHM_Detection](https://github.com/libuyu/GHM_Detection)
 
 **M2Det: A Single-Shot Object Detector based on Multi-Level Feature Pyramid Network**
 
@@ -1153,6 +1158,26 @@ Continuation of [arXiv:1608.08021](https://arxiv.org/abs/1608.08021)
 
 - intro: Amazon Web Services
 - arxiv: [https://arxiv.org/abs/1902.04103](https://arxiv.org/abs/1902.04103)
+
+**Augmentation for small object detection**
+
+[https://arxiv.org/abs/1902.07296](https://arxiv.org/abs/1902.07296)
+
+**Generalized Intersection over Union: A Metric and A Loss for Bounding Box Regression**
+
+- intro: CVPR 2019
+- arxiv: [https://arxiv.org/abs/1902.09630](https://arxiv.org/abs/1902.09630)
+
+**SimpleDet: A Simple and Versatile Distributed Framework for Object Detection and Instance Recognition**
+
+- intro: TuSimple
+- arxiv: [https://arxiv.org/abs/1903.05831](https://arxiv.org/abs/1903.05831)
+- github: [https://github.com/tusimple/simpledet](https://github.com/tusimple/simpledet)
+
+**BayesOD: A Bayesian Approach for Uncertainty Estimation in Deep Object Detectors**
+
+- intro: University of Toronto
+- arxiv: [https://arxiv.org/abs/1903.03838](https://arxiv.org/abs/1903.03838)
 
 # Non-Maximum Suppression (NMS)
 
@@ -1371,6 +1396,11 @@ Continuation of [arXiv:1608.08021](https://arxiv.org/abs/1608.08021)
 
 - intro: SysML 2019 oral
 - arxiv: [https://arxiv.org/abs/1902.02910](https://arxiv.org/abs/1902.02910)
+
+**SCNN: A General Distribution based Statistical Convolutional Neural Network with Application to Video Object Detection**
+
+- intro: AAAI 2019
+- arxiv: [https://arxiv.org/abs/1903.07663](https://arxiv.org/abs/1903.07663)
 
 # Object Detection on Mobile Devices
 
@@ -1962,6 +1992,11 @@ This task involves predicting the salient regions of an image given by human eye
 
 [https://arxiv.org/abs/1902.01559](https://arxiv.org/abs/1902.01559)
 
+**MSFD:Multi-Scale Receptive Field Face Detector**
+
+- intro: ICPR 2018
+- arxiv: [https://arxiv.org/abs/1903.04147](https://arxiv.org/abs/1903.04147)
+
 ## Detect Small Faces
 
 **Finding Tiny Faces**
@@ -2113,15 +2148,6 @@ This task involves predicting the salient regions of an image given by human eye
 - intro: ECCV 2016 Workshops
 - arxiv: [https://arxiv.org/abs/1610.08871](https://arxiv.org/abs/1610.08871)
 
-**Multispectral Deep Neural Networks for Pedestrian Detection**
-
-- intro: BMVC 2016 oral
-- arxiv: [https://arxiv.org/abs/1611.02644](https://arxiv.org/abs/1611.02644)
-
-**Box-level Segmentation Supervised Deep Neural Networks for Accurate and Real-time Multispectral Pedestrian Detection**
-
-[https://arxiv.org/abs/1902.05291](https://arxiv.org/abs/1902.05291)
-
 **Deep Multi-camera People Detection**
 
 - arxiv: [https://arxiv.org/abs/1702.04593](https://arxiv.org/abs/1702.04593)
@@ -2166,11 +2192,6 @@ This task involves predicting the salient regions of an image given by human eye
 
 [https://arxiv.org/abs/1801.00476](https://arxiv.org/abs/1801.00476)
 
-**Illumination-aware Faster R-CNN for Robust Multispectral Pedestrian Detection**
-
-- intro: State Key Lab of CAD&CG, Zhejiang University
-- arxiv: [https://arxiv.org/abs/1803.05347](https://arxiv.org/abs/1803.05347)
-
 **Exploring Multi-Branch and High-Level Semantic Networks for Improving Pedestrian Detection**
 
 [https://arxiv.org/abs/1804.00872](https://arxiv.org/abs/1804.00872)
@@ -2194,19 +2215,43 @@ This task involves predicting the salient regions of an image given by human eye
 - intro: ECCV 2018
 - arxiv: [https://arxiv.org/abs/1807.08407](https://arxiv.org/abs/1807.08407)
 
-**Multispectral Pedestrian Detection via Simultaneous Detection and Segmentation**
-
-- intro: BMVC 2018
-- arxiv: [https://arxiv.org/abs/1808.04818](https://arxiv.org/abs/1808.04818)
-
 **Pedestrian Detection with Autoregressive Network Phases**
 
 - intro: Michigan State University
 - arxiv: [https://arxiv.org/abs/1812.00440](https://arxiv.org/abs/1812.00440)
 
+**SSA-CNN: Semantic Self-Attention CNN for Pedestrian Detection**
+
+[https://arxiv.org/abs/1902.09080](https://arxiv.org/abs/1902.09080)
+
+## Multispectral Pedestrian Detection
+
+**Multispectral Deep Neural Networks for Pedestrian Detection**
+
+- intro: BMVC 2016 oral
+- arxiv: [https://arxiv.org/abs/1611.02644](https://arxiv.org/abs/1611.02644)
+
+**Illumination-aware Faster R-CNN for Robust Multispectral Pedestrian Detection**
+
+- intro: State Key Lab of CAD&CG, Zhejiang University
+- arxiv: [https://arxiv.org/abs/1803.05347](https://arxiv.org/abs/1803.05347)
+
+**Multispectral Pedestrian Detection via Simultaneous Detection and Segmentation**
+
+- intro: BMVC 2018
+- arxiv: [https://arxiv.org/abs/1808.04818](https://arxiv.org/abs/1808.04818)
+
 **The Cross-Modality Disparity Problem in Multispectral Pedestrian Detection**
 
 [https://arxiv.org/abs/1901.02645](https://arxiv.org/abs/1901.02645)
+
+**Box-level Segmentation Supervised Deep Neural Networks for Accurate and Real-time Multispectral Pedestrian Detection**
+
+[https://arxiv.org/abs/1902.05291](https://arxiv.org/abs/1902.05291)
+
+**GFD-SSD: Gated Fusion Double SSD for Multispectral Pedestrian Detection**
+
+[https://arxiv.org/abs/1903.06999](https://arxiv.org/abs/1903.06999)
 
 # Vehicle Detection
 

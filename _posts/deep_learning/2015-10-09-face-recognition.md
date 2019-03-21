@@ -406,6 +406,11 @@ L**ow-Resolution Face Recognition**
 - arxiv: [https://arxiv.org/abs/1803.06524](https://arxiv.org/abs/1803.06524)
 - github: [https://github.com/huangyangyu/SeqFace](https://github.com/huangyangyu/SeqFace)
 
+**Video Face Recognition: Component-wise Feature Aggregation Network (C-FAN)**
+
+- intro: Michigan State University
+- arxiv: [https://arxiv.org/abs/1902.07327](https://arxiv.org/abs/1902.07327)
+
 # Facial Point / Landmark Detection
 
 **Deep Convolutional Network Cascade for Facial Point Detection**

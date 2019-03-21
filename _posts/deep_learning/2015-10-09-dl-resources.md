@@ -1347,6 +1347,18 @@ Global Second-order Pooling Neural Networks**
 - arxiv: [https://arxiv.org/abs/1901.08688](https://arxiv.org/abs/1901.08688)
 - github: [https://github.com/otkupjnoz/oc-cnn](https://github.com/otkupjnoz/oc-cnn)
 
+**Selective Kernel Networks**
+
+- intro: CVPR 2019
+- inrtro: Nanjing University of Science and Technology & Momenta & Nanjing University & Tsinghua University]
+- arxiv: [https://arxiv.org/abs/1903.06586](https://arxiv.org/abs/1903.06586)
+- github: [https://github.com/implus/SKNet](https://github.com/implus/SKNet)
+
+**Universally Slimmable Networks and Improved Training Techniques**
+
+- intro: ICLR 2019
+- arxiv: [https://arxiv.org/abs/1903.05134](https://arxiv.org/abs/1903.05134)
+
 ## Convolutions / Filters
 
 **Warped Convolutions: Efficient Invariance to Spatial Transformations**
@@ -1420,6 +1432,11 @@ Global Second-order Pooling Neural Networks**
 **DSConv: Efficient Convolution Operator**
 
 [https://arxiv.org/abs/1901.01928](https://arxiv.org/abs/1901.01928)
+
+**CircConv: A Structured Convolution with Low Complexity**
+
+- intro: AAAI 2019
+- arxiv: [https://arxiv.org/abs/1902.11268](https://arxiv.org/abs/1902.11268)
 
 ## Highway Networks
 

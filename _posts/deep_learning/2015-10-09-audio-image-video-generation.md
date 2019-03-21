@@ -278,6 +278,12 @@ date: 2015-10-09
 - arxiv: [https://arxiv.org/abs/1711.11453](https://arxiv.org/abs/1711.11453)
 - github: [https://github.com//bernhard2202/improved-video-gan](https://github.com//bernhard2202/improved-video-gan)
 
+**Video Generation from Single Semantic Label Map**
+
+- intro: CVPR 2019
+- arxiv: [https://arxiv.org/abs/1903.04480](https://arxiv.org/abs/1903.04480)
+- github: [https://github.com/junting/seg2vid](https://github.com/junting/seg2vid)
+
 # Deep Generative Model
 
 **Digit Fantasies by a Deep Generative Model**

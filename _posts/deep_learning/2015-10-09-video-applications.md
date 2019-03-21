@@ -139,6 +139,11 @@ date: 2015-10-09
 - intro: BMVC 2018
 - arxiv: [https://arxiv.org/abs/1807.06980](https://arxiv.org/abs/1807.06980)
 
+**Inserting Videos into Videos**
+
+- intro: CVPR 2019
+- arxiv: [https://arxiv.org/abs/1903.06571](https://arxiv.org/abs/1903.06571)
+
 # Video Classification
 
 **Large-scale Video Classification with Convolutional Neural Networks**
@@ -324,6 +329,11 @@ date: 2015-10-09
 
 - intro: Facebook AI Research (FAIR)
 - arxiv: [https://arxiv.org/abs/1812.03982](https://arxiv.org/abs/1812.03982)
+
+**Efficient Video Classification Using Fewer Frames**
+
+- intro: CVPR 2019
+- arxiv: [https://arxiv.org/abs/1902.10640](https://arxiv.org/abs/1902.10640)
 
 ## Action Detection / Activity Recognition
 

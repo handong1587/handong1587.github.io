@@ -285,6 +285,10 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 
 [https://arxiv.org/abs/1806.03772](https://arxiv.org/abs/1806.03772)
 
+**Dynamic Feature Fusion for Semantic Edge Detection**
+
+[https://arxiv.org/abs/1902.09104](https://arxiv.org/abs/1902.09104)
+
 # Image Processing
 
 **Fast Image Processing with Fully-Convolutional Networks**
@@ -849,6 +853,12 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 **ADCrowdNet: An Attention-injective Deformable Convolutional Network for Crowd Understanding**
 
 [https://arxiv.org/abs/1811.11968](https://arxiv.org/abs/1811.11968)
+
+**Learning from Synthetic Data for Crowd Counting in the Wild**
+
+- intro: CVPR 2019
+- project page: [https://gjy3035.github.io/GCC-CL/](https://gjy3035.github.io/GCC-CL/)
+- arxiv: [https://arxiv.org/abs/1903.03303](https://arxiv.org/abs/1903.03303)
 
 # Activity Recognition
 
@@ -2089,6 +2099,21 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 [https://arxiv.org/abs/1810.05424](https://arxiv.org/abs/1810.05424)
 [https://github.com/CVLAB-Unibo/Real-time-self-adaptive-deep-stereo](https://github.com/CVLAB-Unibo/Real-time-self-adaptive-deep-stereo)
 
+**Group-wise Correlation Stereo Network**
+
+- intro: CVPR 2019
+- arxiv: [https://arxiv.org/abs/1903.04025](https://arxiv.org/abs/1903.04025)
+- github(official): [https://github.com/xy-guo/GwcNet](https://github.com/xy-guo/GwcNet)
+
+**Self-calibrating Deep Photometric Stereo Networks**
+
+- intro: CVPR 2019 oral
+- intro: The University of Hong Kong & University of Oxford & Peking University & Peng Cheng Laboratory & Osaka University
+- keywords: Learning Based Uncalibrated Photometric Stereo for Non-Lambertian Surface
+- project page: [http://gychen.org/SDPS-Net/](http://gychen.org/SDPS-Net/)
+- arxiv: [https://arxiv.org/abs/1903.07366](https://arxiv.org/abs/1903.07366)
+- github(official, PyTorch): [https://github.com/guanyingc/SDPS-Net](https://github.com/guanyingc/SDPS-Net)
+
 # Optical Flow
 
 **FlowNet: Learning Optical Flow with Convolutional Networks**
@@ -2156,6 +2181,11 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 **Learning Human Optical Flow**
 
 [https://arxiv.org/abs/1806.05666](https://arxiv.org/abs/1806.05666)
+
+**DDFlow: Learning Optical Flow with Unlabeled Data Distillation**
+
+- intro: AAAI 2019
+- arxiv: [https://arxiv.org/abs/1902.09145](https://arxiv.org/abs/1902.09145)
 
 # 3D
 

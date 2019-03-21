@@ -922,6 +922,11 @@ with built-in awareness of semantically meaningful boundaries. "
 
 [https://arxiv.org/abs/1902.04502](https://arxiv.org/abs/1902.04502)
 
+**Structured Knowledge Distillation for Semantic Segmentation**
+
+- intro: CVPR 2019
+- arxiv: [https://arxiv.org/abs/1903.04197](https://arxiv.org/abs/1903.04197)
+
 # Instance Segmentation
 
 **Simultaneous Detection and Segmentation**
@@ -1036,6 +1041,7 @@ with built-in awareness of semantically meaningful boundaries. "
 - arxiv: [https://arxiv.org/abs/1703.06870](https://arxiv.org/abs/1703.06870)
 - slides: [http://kaiminghe.com/iccv17tutorial/maskrcnn_iccv2017_tutorial_kaiminghe.pdf](http://kaiminghe.com/iccv17tutorial/maskrcnn_iccv2017_tutorial_kaiminghe.pdf)
 - github(official, Caffe2): [https://github.com/facebookresearch/Detectron](https://github.com/facebookresearch/Detectron)
+- github: [https://github.com/facebookresearch/maskrcnn-benchmark](https://github.com/facebookresearch/maskrcnn-benchmark)
 - github: [https://github.com/TuSimple/mx-maskrcnn](https://github.com/TuSimple/mx-maskrcnn)
 - slides: [https://lmb.informatik.uni-freiburg.de/lectures/seminar_brox/seminar_ss17/maskrcnn_slides.pdf](https://lmb.informatik.uni-freiburg.de/lectures/seminar_brox/seminar_ss17/maskrcnn_slides.pdf)
 - github(Keras+TensorFlow): [https://github.com/matterport/Mask_RCNN](https://github.com/matterport/Mask_RCNN)
@@ -1170,6 +1176,13 @@ with built-in awareness of semantically meaningful boundaries. "
 - intro: Winning entry of COCO 2018 Challenge (object detection task)
 - arxiv: [https://arxiv.org/abs/1901.07518](https://arxiv.org/abs/1901.07518)
 
+**Mask Scoring R-CNN**
+
+- intro: CVPR 2019
+- intro: Huazhong University of Science and Technology & Horizon Robotics Inc.
+- arxiv: [https://arxiv.org/abs/1903.00241](https://arxiv.org/abs/1903.00241)
+- github: [https://github.com/zjhuang22/maskscoring_rcnn](https://github.com/zjhuang22/maskscoring_rcnn)
+
 ## Human Instance Segmentation
 
 **PersonLab: Person Pose Estimation and Instance Segmentation with a Bottom-Up, Part-Based, Geometric Embedding Model**
@@ -1229,6 +1242,10 @@ with built-in awareness of semantically meaningful boundaries. "
 **Single Network Panoptic Segmentation for Street Scene Understanding**
 
 [https://arxiv.org/abs/1902.02678](https://arxiv.org/abs/1902.02678)
+
+**An End-to-End Network for Panoptic Segmentation**
+
+[https://arxiv.org/abs/1903.05027](https://arxiv.org/abs/1903.05027)
 
 # Specific Segmentation
 
@@ -1633,7 +1650,9 @@ ranked 1st place in ImageNet Scene Parsing Challenge 2016
 
 **Video Object Segmentation with Joint Re-identification and Attention-Aware Mask Propagation**
 
-- intro: ECCV 2018. CUHK
+- intro: ECCV 2018
+- intro: CUHK
+- keywords: DyeNet
 - arxiv: [https://arxiv.org/abs/1803.04242](https://arxiv.org/abs/1803.04242)
 
 **Video Object Segmentation with Language Referring Expressions**
@@ -1701,6 +1720,18 @@ ranked 1st place in ImageNet Scene Parsing Challenge 2016
 - intro: ACCV 2018 oral
 - arxiv: [https://arxiv.org/abs/1901.02444](https://arxiv.org/abs/1901.02444)
 - github: [https://github.com/wenz116/TransferSeg](https://github.com/wenz116/TransferSeg)
+
+**FEELVOS: Fast End-to-End Embedding Learning for Video Object Segmentation**
+
+- intro: CVPR 2019
+- intro: RWTH Aachen University & Google Inc.
+- arxiv: [https://arxiv.org/abs/1902.09513](https://arxiv.org/abs/1902.09513)
+
+**RVOS: End-to-End Recurrent Network for Video Object Segmentation**
+
+- intro: CVPR 2019
+- project page: [https://imatge-upc.github.io/rvos/](https://imatge-upc.github.io/rvos/)
+- arxiv: [https://arxiv.org/abs/1903.05612](https://arxiv.org/abs/1903.05612)
 
 ## Challenge
 

@@ -858,6 +858,17 @@ date: 2015-10-09
 - intro: ECCV 2018
 - arxiv: [https://arxiv.org/abs/1810.06951](https://arxiv.org/abs/1810.06951)
 
+**Ranked List Loss for Deep Metric Learning**
+
+- intro: CVPR 2019
+- arxiv: [https://arxiv.org/abs/1903.03238](https://arxiv.org/abs/1903.03238)
+
+**Hardness-Aware Deep Metric Learning**
+
+- intro: CVPR 2019 Oral
+- arxiv: [https://arxiv.org/abs/1903.05503](https://arxiv.org/abs/1903.05503)
+- github(official, Tensorflow): [https://github.com/wzzheng/HDML](https://github.com/wzzheng/HDML)
+
 # Talks / Slides
 
 **TiefVision: end-to-end image similarity search engine**

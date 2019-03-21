@@ -180,6 +180,19 @@ date: 2015-10-09
 - intro: University of Maryland & Honda Research Institute
 - arxiv: [https://arxiv.org/abs/1901.08616](https://arxiv.org/abs/1901.08616)
 
+**All You Need is a Few Shifts: Designing Efficient Convolutional Neural Networks for Image Classification**
+
+- intro: CVPR 2019
+- arxiv: [https://arxiv.org/abs/1903.05285](https://arxiv.org/abs/1903.05285)
+
+**Deep CNN-based Multi-task Learning for Open-Set Recognition**
+
+[https://arxiv.org/abs/1903.03161](https://arxiv.org/abs/1903.03161)
+
+**Squared Earth Mover's Distance-based Loss for Training Deep Neural Networks**
+
+[https://arxiv.org/abs/1611.05916](https://arxiv.org/abs/1611.05916)
+
 # Massive Classification
 
 **Accelerated Training for Massive Classification via Dynamic Class Selection**
@@ -237,6 +250,11 @@ date: 2015-10-09
 
 - intro: ICLR 2019
 - arxiv: [https://arxiv.org/abs/1901.00544](https://arxiv.org/abs/1901.00544)
+
+L**earning a Deep ConvNet for Multi-label Classification with Partial Labels**
+
+- intro: CVPR 2019
+- arxiv: [https://arxiv.org/abs/1902.09720](https://arxiv.org/abs/1902.09720)
 
 # Person Recognition
 
@@ -516,6 +534,10 @@ date: 2015-10-09
 - intro: Anhui University
 - project page: [https://sites.google.com/view/ahu-pedestrianattributes/](https://sites.google.com/view/ahu-pedestrianattributes/)
 - arxiv: [https://arxiv.org/abs/1901.07474](https://arxiv.org/abs/1901.07474)
+
+**Papers with code: Pedestrian Attribute Recognition**
+
+[https://paperswithcode.com/task/pedestrian-attribute-recognition/codeless](https://paperswithcode.com/task/pedestrian-attribute-recognition/codeless)
 
 # Clothes Recognition
 
