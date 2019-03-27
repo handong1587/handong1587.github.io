@@ -221,6 +221,10 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 
 [https://arxiv.org/abs/1902.00311](https://arxiv.org/abs/1902.00311)
 
+**Mask-ShadowGAN: Learning to Remove Shadows from Unpaired Data**
+
+[https://arxiv.org/abs/1903.10683](https://arxiv.org/abs/1903.10683)
+
 # Boundary / Edge / Contour Detection
 
 **Holistically-Nested Edge Detection**
@@ -1146,6 +1150,11 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 - intro: University of Illinois at Urbana-Champaign & The Chinese University of Hong Kong
 - arxiv: [https://arxiv.org/abs/1806.02919](https://arxiv.org/abs/1806.02919)
 
+**Residual Non-local Attention Networks for Image Restoration**
+
+- intro: ICLR 2019
+- arxiv: [https://arxiv.org/abs/1903.10082](https://arxiv.org/abs/1903.10082)
+
 ## Face Completion
 
 **Generative Face Completion**
@@ -1435,6 +1444,11 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 
 [https://arxiv.org/abs/1811.09780](https://arxiv.org/abs/1811.09780)
 
+**Single Image Deraining: A Comprehensive Benchmark Analysis**
+
+- arxiv: [https://arxiv.org/abs/1903.08558](https://arxiv.org/abs/1903.08558)
+- github: [https://github.com/lsy17096535/Single-Image-Deraining](https://github.com/lsy17096535/Single-Image-Deraining)
+
 # Fence Removal
 
 **My camera can see through fences: A deep learning approach for image de-fencing**
@@ -1547,6 +1561,10 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 
 - intro: PAMI 2018
 - arxiv: [https://arxiv.org/abs/1805.05503](https://arxiv.org/abs/1805.05503)
+
+**Down-Scaling with Learned Kernels in Multi-Scale Deep Neural Networks for Non-Uniform Single Image Deblurring**
+
+[https://arxiv.org/abs/1903.10157](https://arxiv.org/abs/1903.10157)
 
 # Image Compression
 

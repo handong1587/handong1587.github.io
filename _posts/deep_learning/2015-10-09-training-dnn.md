@@ -1305,6 +1305,11 @@ date: 2015-10-09
 - arxiv: [https://arxiv.org/abs/1708.04680](https://arxiv.org/abs/1708.04680)
 - github: [https://github.com/mdbloice/Augmentor](https://github.com/mdbloice/Augmentor)
 
+**Automatic Dataset Augmentation**
+
+- project page: [https://auto-da.github.io/](https://auto-da.github.io/)
+- arxiv: [https://arxiv.org/abs/1708.08201](https://arxiv.org/abs/1708.08201)
+
 **Learning to Compose Domain-Specific Transformations for Data Augmentation**
 
 [https://arxiv.org/abs/1709.01643](https://arxiv.org/abs/1709.01643)
@@ -1432,6 +1437,11 @@ date: 2015-10-09
 **Dynamic Curriculum Learning for Imbalanced Data Classification**
 
 [https://arxiv.org/abs/1901.06783](https://arxiv.org/abs/1901.06783)
+
+**Class Rectification Hard Mining for Imbalanced Deep Learning**
+
+- intro: ICCV 2017
+- paper: [https://www.eecs.qmul.ac.uk/~sgg/papers/DongEtAl_ICCV2017.pdf](https://www.eecs.qmul.ac.uk/~sgg/papers/DongEtAl_ICCV2017.pdf)
 
 ## Noisy / Unlabelled Data
 
@@ -1716,6 +1726,11 @@ date: 2015-10-09
 **ClickBAIT-v2: Training an Object Detector in Real-Time**
 
 [https://arxiv.org/abs/1803.10358](https://arxiv.org/abs/1803.10358)
+
+**Class-incremental Learning via Deep Model Consolidation**
+
+- intro: University of Southern California & Arizona State University & Samsung Research America
+- arxiv: [https://arxiv.org/abs/1903.07864](https://arxiv.org/abs/1903.07864)
 
 # Papers
 

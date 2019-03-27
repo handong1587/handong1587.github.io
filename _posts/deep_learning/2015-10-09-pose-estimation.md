@@ -348,6 +348,11 @@ date: 2015-10-09
 - intro: CVPR 2019
 - arxiv: [https://arxiv.org/abs/1902.09868](https://arxiv.org/abs/1902.09868)
 
+**DenseBody: Directly Regressing Dense 3D Human Pose and Shape From a Single Color Image**
+
+- intro: Cloudwalk & Shanghai Jiao Tong University
+- arxiv: [https://arxiv.org/abs/1903.10153](https://arxiv.org/abs/1903.10153)
+
 # Pose Tracking
 
 **Detect-and-Track: Efficient Pose Estimation in Videos**

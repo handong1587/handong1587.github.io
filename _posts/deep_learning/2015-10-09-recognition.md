@@ -475,14 +475,22 @@ L**earning a Deep ConvNet for Multi-label Classification with Partial Labels**
 
 **Multi-attribute Learning for Pedestrian Attribute Recognition in Surveillance Scenarios**
 
+- intro: ACPR 2015
 - keywords: DeepSAR / DeepMAR
 - paper: [http://or.nsfc.gov.cn/bitstream/00001903-5/417802/1/1000014103914.pdf](http://or.nsfc.gov.cn/bitstream/00001903-5/417802/1/1000014103914.pdf)
 - github: [https://github.com/kyu-sz/DeepMAR_deploy](https://github.com/kyu-sz/DeepMAR_deploy)
+- github: [https://github.com/dangweili/pedestrian-attribute-recognition-pytorch](https://github.com/dangweili/pedestrian-attribute-recognition-pytorch)
 
 **Pedestrian Attribute Recognition At Far Distance**
 
 - intro: ACM MM 2014
 - paper: [http://personal.ie.cuhk.edu.hk/~pluo/pdf/mm14.pdf](http://personal.ie.cuhk.edu.hk/~pluo/pdf/mm14.pdf)
+
+**Person Attribute Recognition with a Jointly-trained Holistic CNN Model**
+
+- intro: ICCV 2015
+- keywords: Parse27k
+- arxiv: [https://www.vision.rwth-aachen.de/media/papers/sudowe_spitzer_leibe_ICCV_LaP_2015.pdf](https://www.vision.rwth-aachen.de/media/papers/sudowe_spitzer_leibe_ICCV_LaP_2015.pdf)
 
 **Human Attribute Recognition by Deep Hierarchical Contexts**
 
@@ -515,6 +523,11 @@ L**earning a Deep ConvNet for Multi-label Classification with Partial Labels**
 
 - intro: BMVC 2018
 - arxiv: [https://arxiv.org/abs/1808.09102](https://arxiv.org/abs/1808.09102)
+
+**Grouping Attribute Recognition for Pedestrian with Joint Recurrent Learning**
+
+- intro: IJCAI 2018
+- paper: [https://www.ijcai.org/proceedings/2018/0441.pdf](https://www.ijcai.org/proceedings/2018/0441.pdf)
 
 **Sequence-based Person Attribute Recognition with Joint CTC-Attention Model**
 

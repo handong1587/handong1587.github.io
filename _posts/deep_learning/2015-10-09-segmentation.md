@@ -927,6 +927,14 @@ with built-in awareness of semantically meaningful boundaries. "
 - intro: CVPR 2019
 - arxiv: [https://arxiv.org/abs/1903.04197](https://arxiv.org/abs/1903.04197)
 
+**In Defense of Pre-trained ImageNet Architectures for Real-time Semantic Segmentation of Road-driving Images**
+
+- intro: CVPR 2019
+- intro: University of Zagreb
+- keywords: SwiftNet
+- arxiv: [https://arxiv.org/abs/1903.08469](https://arxiv.org/abs/1903.08469)
+- github: [https://github.com/orsic/swiftnet](https://github.com/orsic/swiftnet)
+
 # Instance Segmentation
 
 **Simultaneous Detection and Segmentation**

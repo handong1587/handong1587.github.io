@@ -13,11 +13,6 @@ date: 2015-10-09
 - paper: [http://mmlab.ie.cuhk.edu.hk/pdf/YiSun_CVPR14.pdf](http://mmlab.ie.cuhk.edu.hk/pdf/YiSun_CVPR14.pdf)
 - github: [https://github.com/stdcoutzyx/DeepID_FaceClassify](https://github.com/stdcoutzyx/DeepID_FaceClassify)
 
-**Deep Learning Face Representation by Joint Identification-Verification**
-
-- intro: DeepID2
-- paper: [http://papers.nips.cc/paper/5416-analog-memories-in-a-balanced-rate-based-network-of-e-i-neurons](http://papers.nips.cc/paper/5416-analog-memories-in-a-balanced-rate-based-network-of-e-i-neurons)
-
 **基于Caffe的DeepID2实现**
 
 - 1. [http://www.miaoerduo.com/deep-learning/%E5%9F%BA%E4%BA%8Ecaffe%E7%9A%84deepid2%E5%AE%9E%E7%8E%B0%EF%BC%88%E4%B8%8A%EF%BC%89.html](http://www.miaoerduo.com/deep-learning/%E5%9F%BA%E4%BA%8Ecaffe%E7%9A%84deepid2%E5%AE%9E%E7%8E%B0%EF%BC%88%E4%B8%8A%EF%BC%89.html)
@@ -38,13 +33,6 @@ date: 2015-10-09
 - project page: [http://personal.ie.cuhk.edu.hk/~lz013/projects/MobileID.html](http://personal.ie.cuhk.edu.hk/~lz013/projects/MobileID.html)
 - paper: [http://personal.ie.cuhk.edu.hk/~pluo/pdf/aaai16-face-model-compression.pdf](http://personal.ie.cuhk.edu.hk/~pluo/pdf/aaai16-face-model-compression.pdf)
 - github: [https://github.com/liuziwei7/mobile-id](https://github.com/liuziwei7/mobile-id)
-
-**DeepFace: Closing the Gap to Human-Level Performance in Face Verification**
-
-- intro: CVPR 2014. Facebook AI Research
-- paper: [https://www.cs.toronto.edu/~ranzato/publications/taigman_cvpr14.pdf](https://www.cs.toronto.edu/~ranzato/publications/taigman_cvpr14.pdf)
-- slides: [http://valse.mmcheng.net/ftp/20141126/MingYang.pdf](http://valse.mmcheng.net/ftp/20141126/MingYang.pdf)
-- github: [https://github.com/RiweiChen/DeepFace](https://github.com/RiweiChen/DeepFace)
 
 **Deep Face Recognition**
 
@@ -87,12 +75,6 @@ date: 2015-10-09
 
 - paper: [www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Masi_Pose-Aware_Face_Recognition_CVPR_2016_paper.pdf](www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Masi_Pose-Aware_Face_Recognition_CVPR_2016_paper.pdf)
 
-**Triplet Probabilistic Embedding for Face Verification and Clustering**
-
-- intro: Oral Paper in BTAS 2016; NVIDIA Best paper Award
-- arxiv: [https://arxiv.org/abs/1604.05417](https://arxiv.org/abs/1604.05417)
-- github(Keras): [https://github.com/meownoid/face-identification-tpe](https://github.com/meownoid/face-identification-tpe)
-
 **Recurrent Regression for Face Recognition**
 
 - arxiv: [http://arxiv.org/abs/1607.06999](http://arxiv.org/abs/1607.06999)
@@ -133,18 +115,11 @@ date: 2015-10-09
 
 - paper: [http://www.ee.cuhk.edu.hk/~xgwang/papers/sunWTcvpr16.pdf](http://www.ee.cuhk.edu.hk/~xgwang/papers/sunWTcvpr16.pdf)
 
-**DeMeshNet: Blind Face Inpainting for Deep MeshFace Verification**
-
 [https://arxiv.org/abs/1611.05271](https://arxiv.org/abs/1611.05271)
 
 **Range Loss for Deep Face Recognition with Long-tail**
 
 - arxiv: [https://arxiv.org/abs/1611.08976](https://arxiv.org/abs/1611.08976)
-
-**Hybrid Deep Learning for Face Verification**
-
-- intro: TPAMI 2016. CNN+RBM
-- paper: [http://www.ee.cuhk.edu.hk/~xgwang/papers/sunWTpami16.pdf](http://www.ee.cuhk.edu.hk/~xgwang/papers/sunWTpami16.pdf)
 
 **Towards End-to-End Face Recognition through Alignment Learning**
 
@@ -154,11 +129,6 @@ date: 2015-10-09
 **Multi-Task Convolutional Neural Network for Face Recognition**
 
 - arxiv: [https://arxiv.org/abs/1702.04710](https://arxiv.org/abs/1702.04710)
-
-**NormFace: L2 Hypersphere Embedding for Face Verification**
-
-- arxiv: [https://arxiv.org/abs/1704.06369](https://arxiv.org/abs/1704.06369)
-- github: [https://github.com/happynear/NormFace](https://github.com/happynear/NormFace)
 
 **SphereFace: Deep Hypersphere Embedding for Face Recognition**
 
@@ -174,14 +144,6 @@ date: 2015-10-09
 - arxiv: [https://arxiv.org/abs/1805.09298](https://arxiv.org/abs/1805.09298)
 - github: [https://github.com/wy1iu/sphereface-plus](https://github.com/wy1iu/sphereface-plus)
 
-**L2-constrained Softmax Loss for Discriminative Face Verification**
-
-[https://arxiv.org/abs/1703.09507](https://arxiv.org/abs/1703.09507)
-
-**von Mises-Fisher Mixture Model-based Deep learning: Application to Face Verification**
-
-[https://arxiv.org/abs/1706.04264](https://arxiv.org/abs/1706.04264)
-
 **Low Resolution Face Recognition Using a Two-Branch Deep Convolutional Neural Network Architecture**
 
 - intro: Amirkabir University of Technology & MIT
@@ -191,10 +153,6 @@ date: 2015-10-09
 
 [https://arxiv.org/abs/1707.07923](https://arxiv.org/abs/1707.07923)
 
-**Model Distillation with Knowledge Transfer in Face Classification, Alignment and Verification**
-
-[https://arxiv.org/abs/1709.02929](https://arxiv.org/abs/1709.02929)
-
 **Improving Heterogeneous Face Recognition with Conditional Adversarial Networks**
 
 [https://arxiv.org/abs/1709.02848](https://arxiv.org/abs/1709.02848)
@@ -203,12 +161,6 @@ date: 2015-10-09
 
 - intro: ICCV 2017
 - arxiv: [https://arxiv.org/abs/1710.02914](https://arxiv.org/abs/1710.02914)
-
-**Additive Margin Softmax for Face Verification**
-
-- keywords: additive margin Softmax (AM-Softmax),
-- arxiv: [https://arxiv.org/abs/1801.05599](https://arxiv.org/abs/1801.05599)
-- github: [https://github.com/happynear/AMSoftmax](https://github.com/happynear/AMSoftmax)
 
 **Face Recognition via Centralized Coordinate Learning**
 
@@ -239,15 +191,6 @@ date: 2015-10-09
 
 - intro: BUPT
 - arxiv: [https://arxiv.org/abs/1804.06655](https://arxiv.org/abs/1804.06655)
-
-**MobileFaceNets: Efficient CNNs for Accurate Real-time Face Verification on Mobile Devices**
-
-- intro: Beijing Jiaotong University & Watchdata Inc
-- arxiv: [https://arxiv.org/abs/1804.07573](https://arxiv.org/abs/1804.07573)
-
-**DisguiseNet : A Contrastive Approach for Disguised Face Verification in the Wild**
-
-[https://arxiv.org/abs/1804.09669](https://arxiv.org/abs/1804.09669)
 
 **Surveillance Face Recognition Challenge**
 
@@ -316,10 +259,6 @@ date: 2015-10-09
 
 [https://arxiv.org/abs/1808.00435](https://arxiv.org/abs/1808.00435)
 
-**An Experimental Evaluation of Covariates Effects on Unconstrained Face Verification**
-
-[https://arxiv.org/abs/1808.05508](https://arxiv.org/abs/1808.05508)
-
 **Pairwise Relational Networks for Face Recognition**
 
 - intro: ECCV 2018
@@ -355,6 +294,73 @@ L**ow-Resolution Face Recognition**
 
 - intro: JD AI research & Chinese Academy of Science
 - arxiv: [https://arxiv.org/abs/1812.11317](https://arxiv.org/abs/1812.11317)
+
+# Face Verification
+
+**Deep Learning Face Representation by Joint Identification-Verification**
+
+- intro: DeepID2
+- paper: [http://papers.nips.cc/paper/5416-analog-memories-in-a-balanced-rate-based-network-of-e-i-neurons](http://papers.nips.cc/paper/5416-analog-memories-in-a-balanced-rate-based-network-of-e-i-neurons)
+
+**DeepFace: Closing the Gap to Human-Level Performance in Face Verification**
+
+- intro: CVPR 2014. Facebook AI Research
+- paper: [https://www.cs.toronto.edu/~ranzato/publications/taigman_cvpr14.pdf](https://www.cs.toronto.edu/~ranzato/publications/taigman_cvpr14.pdf)
+- slides: [http://valse.mmcheng.net/ftp/20141126/MingYang.pdf](http://valse.mmcheng.net/ftp/20141126/MingYang.pdf)
+- github: [https://github.com/RiweiChen/DeepFace](https://github.com/RiweiChen/DeepFace)
+
+**Triplet Probabilistic Embedding for Face Verification and Clustering**
+
+- intro: Oral Paper in BTAS 2016; NVIDIA Best paper Award
+- arxiv: [https://arxiv.org/abs/1604.05417](https://arxiv.org/abs/1604.05417)
+- github(Keras): [https://github.com/meownoid/face-identification-tpe](https://github.com/meownoid/face-identification-tpe)
+
+**DeMeshNet: Blind Face Inpainting for Deep MeshFace Verification**
+
+**Hybrid Deep Learning for Face Verification**
+
+- intro: TPAMI 2016. CNN+RBM
+- paper: [http://www.ee.cuhk.edu.hk/~xgwang/papers/sunWTpami16.pdf](http://www.ee.cuhk.edu.hk/~xgwang/papers/sunWTpami16.pdf)
+
+**NormFace: L2 Hypersphere Embedding for Face Verification**
+
+- arxiv: [https://arxiv.org/abs/1704.06369](https://arxiv.org/abs/1704.06369)
+- github: [https://github.com/happynear/NormFace](https://github.com/happynear/NormFace)
+
+**L2-constrained Softmax Loss for Discriminative Face Verification**
+
+[https://arxiv.org/abs/1703.09507](https://arxiv.org/abs/1703.09507)
+
+**von Mises-Fisher Mixture Model-based Deep learning: Application to Face Verification**
+
+[https://arxiv.org/abs/1706.04264](https://arxiv.org/abs/1706.04264)
+
+**Model Distillation with Knowledge Transfer in Face Classification, Alignment and Verification**
+
+[https://arxiv.org/abs/1709.02929](https://arxiv.org/abs/1709.02929)
+
+**Additive Margin Softmax for Face Verification**
+
+- keywords: additive margin Softmax (AM-Softmax),
+- arxiv: [https://arxiv.org/abs/1801.05599](https://arxiv.org/abs/1801.05599)
+- github: [https://github.com/happynear/AMSoftmax](https://github.com/happynear/AMSoftmax)
+
+**MobileFaceNets: Efficient CNNs for Accurate Real-time Face Verification on Mobile Devices**
+
+- intro: Beijing Jiaotong University & Watchdata Inc
+- arxiv: [https://arxiv.org/abs/1804.07573](https://arxiv.org/abs/1804.07573)
+
+**DisguiseNet : A Contrastive Approach for Disguised Face Verification in the Wild**
+
+[https://arxiv.org/abs/1804.09669](https://arxiv.org/abs/1804.09669)
+
+**An Experimental Evaluation of Covariates Effects on Unconstrained Face Verification**
+
+[https://arxiv.org/abs/1808.05508](https://arxiv.org/abs/1808.05508)
+
+**Verification of Very Low-Resolution Faces Using An Identity-Preserving Deep Face Super-Resolution Network**
+
+[https://arxiv.org/abs/1903.10974](https://arxiv.org/abs/1903.10974)
 
 # Facial Attributes Classification
 
@@ -515,6 +521,11 @@ L**ow-Resolution Face Recognition**
 **Stacked Dense U-Nets with Dual Transformers for Robust Face Alignment**
 
 [https://arxiv.org/abs/1812.01936](https://arxiv.org/abs/1812.01936)
+
+**Semantic Alignment: Finding Semantically Consistent Ground-truth for Facial Landmark Detection**
+
+- intro: CVPR 2019
+- arxiv: [https://arxiv.org/abs/1903.10661](https://arxiv.org/abs/1903.10661)
 
 # Face Synthesis
 

@@ -327,6 +327,12 @@ date: 2015-10-09
 
 [https://arxiv.org/abs/1901.07261](https://arxiv.org/abs/1901.07261)
 
+**Feedback Network for Image Super-Resolution**
+
+- intro: CVPR 2019
+- arxiv: [https://arxiv.org/abs/1903.09814](https://arxiv.org/abs/1903.09814)
+- github(official, Pytorch): [https://github.com/Paper99/SRFBN_CVPR19](https://github.com/Paper99/SRFBN_CVPR19)
+
 ## Video Super-resolution
 
 **Detail-revealing Deep Video Super-resolution**
@@ -346,6 +352,11 @@ date: 2015-10-09
 **Photorealistic Video Super Resolution**
 
 [https://arxiv.org/abs/1807.07930](https://arxiv.org/abs/1807.07930)
+
+**Recurrent Back-Projection Network for Video Super-Resolution**
+
+- intro: CVPR 2019
+- arxiv: [https://arxiv.org/abs/1903.10128](https://arxiv.org/abs/1903.10128)
 
 # Projects
 

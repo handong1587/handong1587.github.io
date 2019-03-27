@@ -1179,6 +1179,11 @@ Continuation of [arXiv:1608.08021](https://arxiv.org/abs/1608.08021)
 - intro: University of Toronto
 - arxiv: [https://arxiv.org/abs/1903.03838](https://arxiv.org/abs/1903.03838)
 
+**DetNAS: Neural Architecture Search on Object Detection**
+
+- intro: Chinese Academy of Sciences & Megvii Inc
+- arxiv: [https://arxiv.org/abs/1903.10979](https://arxiv.org/abs/1903.10979)
+
 # Non-Maximum Suppression (NMS)
 
 **End-to-End Integration of a Convolutional Network, Deformable Parts Model and Non-Maximum Suppression**
@@ -1401,6 +1406,11 @@ Continuation of [arXiv:1608.08021](https://arxiv.org/abs/1608.08021)
 
 - intro: AAAI 2019
 - arxiv: [https://arxiv.org/abs/1903.07663](https://arxiv.org/abs/1903.07663)
+
+**Looking Fast and Slow: Memory-Guided Mobile Video Object Detection**
+
+- intro: Cornell University & Google AI
+- arxiv: [https://arxiv.org/abs/1903.10172](https://arxiv.org/abs/1903.10172)
 
 # Object Detection on Mobile Devices
 
