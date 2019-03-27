@@ -115,8 +115,6 @@ date: 2015-10-09
 
 - paper: [http://www.ee.cuhk.edu.hk/~xgwang/papers/sunWTcvpr16.pdf](http://www.ee.cuhk.edu.hk/~xgwang/papers/sunWTcvpr16.pdf)
 
-[https://arxiv.org/abs/1611.05271](https://arxiv.org/abs/1611.05271)
-
 **Range Loss for Deep Face Recognition with Long-tail**
 
 - arxiv: [https://arxiv.org/abs/1611.08976](https://arxiv.org/abs/1611.08976)
@@ -316,6 +314,8 @@ L**ow-Resolution Face Recognition**
 - github(Keras): [https://github.com/meownoid/face-identification-tpe](https://github.com/meownoid/face-identification-tpe)
 
 **DeMeshNet: Blind Face Inpainting for Deep MeshFace Verification**
+
+[https://arxiv.org/abs/1611.05271](https://arxiv.org/abs/1611.05271)
 
 **Hybrid Deep Learning for Face Verification**
 
