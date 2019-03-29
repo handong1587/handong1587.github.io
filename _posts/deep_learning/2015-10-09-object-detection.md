@@ -134,8 +134,6 @@ date: 2015-10-09
 - keywords: AND-OR Graph (AOG)
 - arxiv: [https://arxiv.org/abs/1711.05226](https://arxiv.org/abs/1711.05226)
 
-## Light-Head R-CNN
-
 **Light-Head R-CNN: In Defense of Two-Stage Object Detector**
 
 - intro: Tsinghua University & Megvii Inc
@@ -143,15 +141,11 @@ date: 2015-10-09
 - github(official, Tensorflow): [https://github.com/zengarden/light_head_rcnn](https://github.com/zengarden/light_head_rcnn)
 - github: [https://github.com/terrychenism/Deformable-ConvNets/blob/master/rfcn/symbols/resnet_v1_101_rfcn_light.py#L784](https://github.com/terrychenism/Deformable-ConvNets/blob/master/rfcn/symbols/resnet_v1_101_rfcn_light.py#L784)
 
-## Cascade R-CNN
-
 **Cascade R-CNN: Delving into High Quality Object Detection**
 
 - intro: CVPR 2018. UC San Diego
 - arxiv: [https://arxiv.org/abs/1712.00726](https://arxiv.org/abs/1712.00726)
 - github(Caffe, official): [https://github.com/zhaoweicai/cascade-rcnn](https://github.com/zhaoweicai/cascade-rcnn)
-
-## MultiBox
 
 **Scalable Object Detection using Deep Neural Networks**
 
@@ -166,11 +160,10 @@ date: 2015-10-09
 - arxiv: [http://arxiv.org/abs/1412.1441](http://arxiv.org/abs/1412.1441)
 - github: [https://github.com/google/multibox](https://github.com/google/multibox)
 
-## SPP-Net
-
 **Spatial Pyramid Pooling in Deep Convolutional Networks for Visual Recognition**
 
 - intro: ECCV 2014 / TPAMI 2015
+- keywords: SPP-Net
 - arxiv: [http://arxiv.org/abs/1406.4729](http://arxiv.org/abs/1406.4729)
 - github: [https://github.com/ShaoqingRen/SPP_net](https://github.com/ShaoqingRen/SPP_net)
 - notes: [http://zhangliliang.com/2014/09/13/paper-note-sppnet/](http://zhangliliang.com/2014/09/13/paper-note-sppnet/)
@@ -215,11 +208,10 @@ date: 2015-10-09
 - arxiv: [http://arxiv.org/abs/1505.02146](http://arxiv.org/abs/1505.02146)
 - github: [https://github.com/weichengkuo/DeepBox](https://github.com/weichengkuo/DeepBox)
 
-## MR-CNN
-
 **Object detection via a multi-region & semantic segmentation-aware CNN model**
 
-- intro: ICCV 2015. MR-CNN
+- intro: ICCV 2015
+- keywords: MR-CNN
 - arxiv: [http://arxiv.org/abs/1505.01749](http://arxiv.org/abs/1505.01749)
 - github: [https://github.com/gidariss/mrcnn-object-detection](https://github.com/gidariss/mrcnn-object-detection)
 - notes: [http://zhangliliang.com/2015/05/17/paper-note-ms-cnn/](http://zhangliliang.com/2015/05/17/paper-note-ms-cnn/)
@@ -366,8 +358,6 @@ date: 2015-10-09
 
 [https://github.com/weiliu89/caffe/issues/327](https://github.com/weiliu89/caffe/issues/327)
 
-## DSSD
-
 **DSSD : Deconvolutional Single Shot Detector**
 
 - intro: UNC Chapel Hill & Amazon Inc
@@ -390,8 +380,6 @@ date: 2015-10-09
 
 [https://arxiv.org/abs/1709.05054](https://arxiv.org/abs/1709.05054)
 
-## FSSD
-
 **FSSD: Feature Fusion Single Shot Multibox Detector**
 
 [https://arxiv.org/abs/1712.00960](https://arxiv.org/abs/1712.00960)
@@ -402,11 +390,10 @@ date: 2015-10-09
 - keywords: fuse multi-scale information
 - arxiv: [https://arxiv.org/abs/1712.03149](https://arxiv.org/abs/1712.03149)
 
-## ESSD
-
 **Extend the shallow part of Single Shot MultiBox Detector via Convolutional Neural Network**
 
-[https://arxiv.org/abs/1801.05918](https://arxiv.org/abs/1801.05918)
+- keywords: ESSD
+- arxiv: [https://arxiv.org/abs/1801.05918](https://arxiv.org/abs/1801.05918)
 
 **Tiny SSD: A Tiny Single-shot Detection Deep Convolutional Neural Network for Real-time Embedded Object Detection**
 
@@ -417,12 +404,11 @@ date: 2015-10-09
 - intro: Zhengzhou University
 - arxiv: [https://arxiv.org/abs/1805.07009](https://arxiv.org/abs/1805.07009)
 
-## Inside-Outside Net (ION)
-
 **Inside-Outside Net: Detecting Objects in Context with Skip Pooling and Recurrent Neural Networks**
 
 - intro: "0.8s per image on a Titan X GPU (excluding proposal generation) without two-stage bounding-box regression
 and 1.15s per image with it".
+- keywords: Inside-Outside Net (ION)
 - arxiv: [http://arxiv.org/abs/1512.04143](http://arxiv.org/abs/1512.04143)
 - slides: [http://www.seanbell.ca/tmp/ion-coco-talk-bell2015.pdf](http://www.seanbell.ca/tmp/ion-coco-talk-bell2015.pdf)
 - coco-leaderboard: [http://mscoco.org/dataset/#detections-leaderboard](http://mscoco.org/dataset/#detections-leaderboard)
@@ -459,8 +445,6 @@ and 1.15s per image with it".
 - intro: BMVC 2016. Facebook AI Research (FAIR)
 - arxiv: [http://arxiv.org/abs/1604.02135](http://arxiv.org/abs/1604.02135)
 - github: [https://github.com/facebookresearch/multipathnet](https://github.com/facebookresearch/multipathnet)
-
-## CRAFT
 
 **CRAFT Objects from Images**
 
@@ -512,12 +496,12 @@ and 1.15s per image with it".
 
 - arxiv: [http://arxiv.org/abs/1607.05066](http://arxiv.org/abs/1607.05066)
 
-## MS-CNN
 
 **A Unified Multi-scale Deep Convolutional Neural Network for Fast Object Detection**
 
 - intro: ECCV 2016
 - intro: 640×480: 15 fps, 960×720: 8 fps
+- keywords: MS-CNN
 - arxiv: [http://arxiv.org/abs/1607.07155](http://arxiv.org/abs/1607.07155)
 - github: [https://github.com/zhaoweicai/mscnn](https://github.com/zhaoweicai/mscnn)
 - poster: [http://www.eccv2016.org/files/posters/P-2B-38.pdf](http://www.eccv2016.org/files/posters/P-2B-38.pdf)
@@ -533,8 +517,6 @@ and 1.15s per image with it".
 - arxiv: [http://arxiv.org/abs/1604.04693](http://arxiv.org/abs/1604.04693)
 - github: [https://github.com/tanshen/SubCNN](https://github.com/tanshen/SubCNN)
 
-## PVANET
-
 **PVANet: Lightweight Deep Neural Networks for Real-time Object Detection**
 
 - intro: Presented at NIPS 2016 Workshop on Efficient Methods for Deep Neural Networks (EMDNN). 
@@ -543,11 +525,10 @@ Continuation of [arXiv:1608.08021](https://arxiv.org/abs/1608.08021)
 - github: [https://github.com/sanghoon/pva-faster-rcnn](https://github.com/sanghoon/pva-faster-rcnn)
 - leaderboard(PVANet 9.0): [http://host.robots.ox.ac.uk:8080/leaderboard/displaylb.php?challengeid=11&compid=4](http://host.robots.ox.ac.uk:8080/leaderboard/displaylb.php?challengeid=11&compid=4)
 
-## GBD-Net
-
 **Gated Bi-directional CNN for Object Detection**
 
 - intro: The Chinese University of Hong Kong & Sensetime Group Limited
+- keywords: GBD-Net
 - paper: [http://link.springer.com/chapter/10.1007/978-3-319-46478-7_22](http://link.springer.com/chapter/10.1007/978-3-319-46478-7_22)
 - mirror: [https://pan.baidu.com/s/1dFohO7v](https://pan.baidu.com/s/1dFohO7v)
 
@@ -709,8 +690,6 @@ Continuation of [arXiv:1608.08021](https://arxiv.org/abs/1608.08021)
 - arxiv: [https://arxiv.org/abs/1707.09531](https://arxiv.org/abs/1707.09531)
 - github: [https://github.com/sciencefans/RSA-for-object-detection](https://github.com/sciencefans/RSA-for-object-detection)
 
-## DSOD
-
 **DSOD: Learning Deeply Supervised Object Detectors from Scratch**
 
 ![](https://user-images.githubusercontent.com/3794909/28934967-718c9302-78b5-11e7-89ee-8b514e53e23c.png)
@@ -762,8 +741,6 @@ Continuation of [arXiv:1608.08021](https://arxiv.org/abs/1608.08021)
 - intro: NTU, Singapore & Amazon
 - keywords: multi-instance multi-label domain adaption learning framework
 - arxiv: [https://arxiv.org/abs/1711.05954](https://arxiv.org/abs/1711.05954)
-
-## MegDet
 
 **MegDet: A Large Mini-Batch Object Detector**
 
@@ -1183,6 +1160,16 @@ Continuation of [arXiv:1608.08021](https://arxiv.org/abs/1608.08021)
 
 - intro: Chinese Academy of Sciences & Megvii Inc
 - arxiv: [https://arxiv.org/abs/1903.10979](https://arxiv.org/abs/1903.10979)
+
+**ThunderNet: Towards Real-time Generic Object Detection**
+
+[https://arxiv.org/abs/1903.11752](https://arxiv.org/abs/1903.11752)
+
+**Feature Intertwiner for Object Detection**
+
+- intro: ICLR 2019
+- intro: CUHK & SenseTime & The University of Sydney
+- arxiv: [https://arxiv.org/abs/1903.11851](https://arxiv.org/abs/1903.11851)
 
 # Non-Maximum Suppression (NMS)
 
@@ -2224,6 +2211,12 @@ This task involves predicting the salient regions of an image given by human eye
 
 - intro: ECCV 2018
 - arxiv: [https://arxiv.org/abs/1807.08407](https://arxiv.org/abs/1807.08407)
+
+**Bi-box Regression for Pedestrian Detection and Occlusion Estimation**
+
+- intro: ECCV 2018
+- paper: [http://openaccess.thecvf.com/content_ECCV_2018/papers/CHUNLUAN_ZHOU_Bi-box_Regression_for_ECCV_2018_paper.pdf](http://openaccess.thecvf.com/content_ECCV_2018/papers/CHUNLUAN_ZHOU_Bi-box_Regression_for_ECCV_2018_paper.pdf)
+- github(Pytorch): [https://github.com/rainofmine/Bi-box_Regression](https://github.com/rainofmine/Bi-box_Regression)
 
 **Pedestrian Detection with Autoregressive Network Phases**
 

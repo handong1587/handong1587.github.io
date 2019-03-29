@@ -66,19 +66,20 @@ date: 2015-10-09
 - arxiv: [https://arxiv.org/abs/1703.04363](https://arxiv.org/abs/1703.04363)
 - demo: [https://gyglim.github.io/deep-value-net/](https://gyglim.github.io/deep-value-net/)
 
-## PolygonRNN
 
 **Annotating Object Instances with a Polygon-RNN**
 
-- intro: CVPR 2017. CVPR Best Paper Honorable Mention Award. University of Toronto
+- intro: CVPR 2017. CVPR Best Paper Honorable Mention Award
+- intro: University of Toronto
+- keywords: PolygonRNN
 - project page: [http://www.cs.toronto.edu/polyrnn/](http://www.cs.toronto.edu/polyrnn/)
 - arxiv: [https://arxiv.org/abs/1704.05548](https://arxiv.org/abs/1704.05548)
 
-## PolygonRNN++
 
 **Efficient Interactive Annotation of Segmentation Datasets with Polygon-RNN++**
 
 - intro: CVPR 2018
+- keywords: PolygonRNN++
 - project page: [http://www.cs.toronto.edu/polyrnn/](http://www.cs.toronto.edu/polyrnn/)
 - arxiv: [https://arxiv.org/abs/1803.09693](https://arxiv.org/abs/1803.09693)
 - github: [https://github.com/davidjesusacu/polyrnn-pp](https://github.com/davidjesusacu/polyrnn-pp)
@@ -555,8 +556,6 @@ fine-tune the trained network with more challenging examples later
 - intro: CVPR 2017
 - paper: [http://www.cs.umanitoba.ca/~ywang/papers/cvpr17.pdf](http://www.cs.umanitoba.ca/~ywang/papers/cvpr17.pdf)
 
-## RefineNet
-
 **RefineNet: Multi-Path Refinement Networks with Identity Mappings for High-Resolution Semantic Segmentation**
 
 **RefineNet: Multi-Path Refinement Networks for High-Resolution Semantic Segmentation**
@@ -935,6 +934,14 @@ with built-in awareness of semantically meaningful boundaries. "
 - arxiv: [https://arxiv.org/abs/1903.08469](https://arxiv.org/abs/1903.08469)
 - github: [https://github.com/orsic/swiftnet](https://github.com/orsic/swiftnet)
 
+**FastFCN: Rethinking Dilated Convolution in the Backbone for Semantic Segmentation**
+
+- intro: Chinese Academy of Sciences & Deepwise AI Lab
+- keywords: Joint Pyramid Upsampling (JPU)
+- project page: [http://wuhuikai.me/FastFCNProject/](http://wuhuikai.me/FastFCNProject/)
+- arxiv: [https://arxiv.org/abs/1903.11816](https://arxiv.org/abs/1903.11816)
+- github: [https://github.com/wuhuikai/FastFCN](https://github.com/wuhuikai/FastFCN)
+
 # Instance Segmentation
 
 **Simultaneous Detection and Segmentation**
@@ -1190,6 +1197,11 @@ with built-in awareness of semantically meaningful boundaries. "
 - intro: Huazhong University of Science and Technology & Horizon Robotics Inc.
 - arxiv: [https://arxiv.org/abs/1903.00241](https://arxiv.org/abs/1903.00241)
 - github: [https://github.com/zjhuang22/maskscoring_rcnn](https://github.com/zjhuang22/maskscoring_rcnn)
+
+**TensorMask: A Foundation for Dense Object Segmentation**
+
+- intro: Facebook AI Research (FAIR)
+- arxiv: [https://arxiv.org/abs/1903.12174](https://arxiv.org/abs/1903.12174)
 
 ## Human Instance Segmentation
 
@@ -1740,6 +1752,18 @@ ranked 1st place in ImageNet Scene Parsing Challenge 2016
 - intro: CVPR 2019
 - project page: [https://imatge-upc.github.io/rvos/](https://imatge-upc.github.io/rvos/)
 - arxiv: [https://arxiv.org/abs/1903.05612](https://arxiv.org/abs/1903.05612)
+
+**BubbleNets: Learning to Select the Guidance Frame in Video Object Segmentation by Deep Sorting Frames**
+
+- intro: CVPR 2019
+- intro: University of Michigan
+- arxiv: [https://arxiv.org/abs/1903.11779](https://arxiv.org/abs/1903.11779)
+- github: [https://github.com/griffbr/BubbleNets](https://github.com/griffbr/BubbleNets)
+- video: [https://www.youtube.com/watch?v=0kNmm8SBnnU&feature=youtu.be](https://www.youtube.com/watch?v=0kNmm8SBnnU&feature=youtu.be)
+
+**Fast video object segmentation with Spatio-Temporal GANs**
+
+[https://arxiv.org/abs/1903.12161](https://arxiv.org/abs/1903.12161)
 
 ## Challenge
 
