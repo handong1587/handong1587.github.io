@@ -956,6 +956,11 @@ alleviates the problem of video browsing, editing and indexing.
 - intro: AAAI 2019
 - arxiv: [https://arxiv.org/abs/1811.09791](https://arxiv.org/abs/1811.09791)
 
+**Rethinking the Evaluation of Video Summaries**
+
+- intro: CVPR 2019 poster
+- arxiv: [https://arxiv.org/abs/1903.11328](https://arxiv.org/abs/1903.11328)
+
 # Video Highlight Detection
 
 **Unsupervised Extraction of Video Highlights Via Robust Recurrent Auto-encoders**

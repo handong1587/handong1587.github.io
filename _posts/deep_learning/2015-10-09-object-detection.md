@@ -1171,6 +1171,11 @@ Continuation of [arXiv:1608.08021](https://arxiv.org/abs/1608.08021)
 - intro: CUHK & SenseTime & The University of Sydney
 - arxiv: [https://arxiv.org/abs/1903.11851](https://arxiv.org/abs/1903.11851)
 
+**Few-shot Adaptive Faster R-CNN**
+
+- intro: CVPR 2019
+- arxiv: [https://arxiv.org/abs/1903.09372](https://arxiv.org/abs/1903.09372)
+
 # Non-Maximum Suppression (NMS)
 
 **End-to-End Integration of a Convolutional Network, Deformable Parts Model and Non-Maximum Suppression**
@@ -1398,6 +1403,11 @@ Continuation of [arXiv:1608.08021](https://arxiv.org/abs/1608.08021)
 
 - intro: Cornell University & Google AI
 - arxiv: [https://arxiv.org/abs/1903.10172](https://arxiv.org/abs/1903.10172)
+
+**Progressive Sparse Local Attention for Video object detection**
+
+- intro: NLPR,CASIA & Horizon Robotics
+- arxiv: [https://arxiv.org/abs/1903.09126](https://arxiv.org/abs/1903.09126)
 
 # Object Detection on Mobile Devices
 
@@ -2202,9 +2212,15 @@ This task involves predicting the salient regions of an image given by human eye
 - intro: British Machine Vision Conference(BMVC) 2017
 - arxiv: [https://arxiv.org/abs/1804.04483](https://arxiv.org/abs/1804.04483)
 
+**Improving Occlusion and Hard Negative Handling for Single-Stage Pedestrian Detectors**
+
+- intro: CVPR 2018
+- paper: [http://openaccess.thecvf.com/content_cvpr_2018/papers/Noh_Improving_Occlusion_and_CVPR_2018_paper.pdf](http://openaccess.thecvf.com/content_cvpr_2018/papers/Noh_Improving_Occlusion_and_CVPR_2018_paper.pdf)
+
 **Small-scale Pedestrian Detection Based on Somatic Topology Localization and Temporal Feature Aggregation**
 
-- intro: ECCV 2018. Hikvision Research Institute
+- intro: ECCV 2018
+- intro: Hikvision Research Institute
 - arxiv: [https://arxiv.org/abs/1807.01438](https://arxiv.org/abs/1807.01438)
 
 **Occlusion-aware R-CNN: Detecting Pedestrians in a Crowd**
@@ -2382,7 +2398,7 @@ This task involves predicting the salient regions of an image given by human eye
 **Direction-aware Spatial Context Features for Shadow Detection and Removal**
 
 - intro: The Chinese University of Hong Kong & The Hong Kong Polytechnic University
-- arxiv:- arxiv:  [https://arxiv.org/abs/1805.04635](https://arxiv.org/abs/1805.04635)
+- arxiv:  [https://arxiv.org/abs/1805.04635](https://arxiv.org/abs/1805.04635)
 
 # Others Detection
 

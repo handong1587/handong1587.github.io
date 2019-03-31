@@ -293,6 +293,11 @@ L**ow-Resolution Face Recognition**
 - intro: JD AI research & Chinese Academy of Science
 - arxiv: [https://arxiv.org/abs/1812.11317](https://arxiv.org/abs/1812.11317)
 
+**Linkage Based Face Clustering via Graph Convolution Network**
+
+- intro: CVPR 2019
+- arxiv: [https://arxiv.org/abs/1903.11306](https://arxiv.org/abs/1903.11306)
+
 # Face Verification
 
 **Deep Learning Face Representation by Joint Identification-Verification**

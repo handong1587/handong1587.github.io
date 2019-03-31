@@ -23,8 +23,9 @@ date: 2015-10-09
 - chs: [http://blog.csdn.net/kklots/article/details/17136059](http://blog.csdn.net/kklots/article/details/17136059)
 - github: [https://github.com/piergiaj/caffe-deconvnet](https://github.com/piergiaj/caffe-deconvnet)
 
-**Deep Inside Convolutional Networks: Visualising Image Classification Models and Saliency Maps (ICLR 2014 workshop)**
+**Deep Inside Convolutional Networks: Visualising Image Classification Models and Saliency Maps**
 
+- intro: ICLR 2014 workshop
 - arxiv: [http://arxiv.org/abs/1312.6034](http://arxiv.org/abs/1312.6034)
 - github: [https://github.com/yasunorikudo/vis-cnn](https://github.com/yasunorikudo/vis-cnn)
 
@@ -68,8 +69,9 @@ date: 2015-10-09
 - arxiv: [http://arxiv.org/abs/1509.08379](http://arxiv.org/abs/1509.08379)
 - code: [http://www.stat.ucla.edu/~yang.lu/project/deepFrame/doc/code.zip](http://www.stat.ucla.edu/~yang.lu/project/deepFrame/doc/code.zip)
 
-**Convergent Learning: Do different neural networks learn the same representations? (ICLR 2016)**
+**Convergent Learning: Do different neural networks learn the same representations?**
 
+- intro: ICLR 2016
 - arxiv: [http://arxiv.org/abs/1511.07543](http://arxiv.org/abs/1511.07543)
 - github: [https://github.com/yixuanli/convergent_learning](https://github.com/yixuanli/convergent_learning)
 - video: [http://videolectures.net/iclr2016_yosinski_convergent_learning/](http://videolectures.net/iclr2016_yosinski_convergent_learning/)

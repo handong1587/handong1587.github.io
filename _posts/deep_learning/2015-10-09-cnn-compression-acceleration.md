@@ -737,6 +737,11 @@ at INT8 deep learning operations than other FPGA DSP architectures"
 - intro: Shanghai Jiao Tong University & Qualcomm AI Research & Duke University
 - arxiv: [https://arxiv.org/abs/1812.02402](https://arxiv.org/abs/1812.02402)
 
+**Training Quantized Network with Auxiliary Gradient Module**
+
+- intro: The University of Adelaide & Australian Centre for Robotic Vision & South China University of Technology
+- arxiv: [https://arxiv.org/abs/1903.11236](https://arxiv.org/abs/1903.11236)
+
 # Binary Convolutional Neural Networks / Binarized Neural Networks
 
 **BinaryNet: Training Deep Neural Networks with Weights and Activations Constrained to +1 or -1**

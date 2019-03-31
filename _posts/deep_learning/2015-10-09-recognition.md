@@ -83,7 +83,8 @@ date: 2015-10-09
 
 **Cost-Effective Active Learning for Deep Image Classification**
 
-- intro: TCSVT 2016. Sun Yat-sen University & Guangzhou University
+- intro: TCSVT 2016
+- intro: Sun Yat-sen University & Guangzhou University
 - arxiv: [https://arxiv.org/abs/1701.03551](https://arxiv.org/abs/1701.03551)
 
 **Deep Collaborative Learning for Visual Recognition**
@@ -219,7 +220,8 @@ date: 2015-10-09
 
 **Learning Spatial Regularization with Image-level Supervisions for Multi-label Image Classification**
 
-- intro: CVPR 2017. University of Science and Technology of China & CUHK
+- intro: CVPR 2017
+- intro: University of Science and Technology of China & CUHK
 - arxiv: [https://arxiv.org/abs/1702.05891](https://arxiv.org/abs/1702.05891)
 - github(official. Caffe): [https://github.com/zhufengx/SRN_multilabel/](https://github.com/zhufengx/SRN_multilabel/)
 
@@ -392,7 +394,8 @@ L**earning a Deep ConvNet for Multi-label Classification with Partial Labels**
 
 **Learning Multi-Attention Convolutional Neural Network for Fine-Grained Image Recognition**
 
-- introL ICCV 2017. MA-CNN
+- introL ICCV 2017
+- keywords: MA-CNN
 - intro: University of Science and Technology of China & Microsoft Research & University of Rochester
 - paper: [http://openaccess.thecvf.com/content_ICCV_2017/papers/Zheng_Learning_Multi-Attention_Convolutional_ICCV_2017_paper.pdf](http://openaccess.thecvf.com/content_ICCV_2017/papers/Zheng_Learning_Multi-Attention_Convolutional_ICCV_2017_paper.pdf)
 
@@ -499,7 +502,8 @@ L**earning a Deep ConvNet for Multi-label Classification with Partial Labels**
 
 **Robust Pedestrian Attribute Recognition for an Unbalanced Dataset using Mini-batch Training with Rarity Rate**
 
-- intro: Intelligent Vehicles Symposium 2016. Chubu University & Nagoya University, Japan
+- intro: Intelligent Vehicles Symposium 2016
+- intro: Chubu University & Nagoya University, Japan
 - paper: [http://www.vision.cs.chubu.ac.jp/MPRG/C_group/C081_fukui2016.pdf](http://www.vision.cs.chubu.ac.jp/MPRG/C_group/C081_fukui2016.pdf)
 
 **Weakly-supervised Learning of Mid-level Features for Pedestrian Attribute Recognition and Localization**
@@ -514,9 +518,19 @@ L**earning a Deep ConvNet for Multi-label Classification with Partial Labels**
 - arxiv: [https://arxiv.org/abs/1707.06089](https://arxiv.org/abs/1707.06089)
 - github: [https://github.com/asc-kit/vespa](https://github.com/asc-kit/vespa)
 
+**HydraPlus-Net: Attentive Deep Features for Pedestrian Analysis**
+
+- intro: ICCV 2017
+- intro: CUHK & SenseTime
+- keywords: multi-directional attention (MDA)
+- arxiv: [https://arxiv.org/abs/1709.09930](https://arxiv.org/abs/1709.09930)
+- paper: [http://openaccess.thecvf.com/content_ICCV_2017/papers/Liu_HydraPlus-Net_Attentive_Deep_ICCV_2017_paper.pdf](http://openaccess.thecvf.com/content_ICCV_2017/papers/Liu_HydraPlus-Net_Attentive_Deep_ICCV_2017_paper.pdf)
+- github: [https://github.com/xh-liu/HydraPlus-Net](https://github.com/xh-liu/HydraPlus-Net)
+
 **Deep Imbalanced Attribute Classification using Visual Attention Aggregation**
 
 - intro: ECCV 2018
+- intro: University of Houston
 - arxiv: [https://arxiv.org/abs/1807.03903](https://arxiv.org/abs/1807.03903)
 
 **Localization Guided Learning for Pedestrian Attribute Recognition**
@@ -558,7 +572,8 @@ L**earning a Deep ConvNet for Multi-label Classification with Partial Labels**
 
 ![](http://personal.ie.cuhk.edu.hk/~lz013/projects/deepfashion/intro.png)
 
-- intro: CVPR 2016. FashionNet
+- intro: CVPR 2016
+- keywords: FashionNet
 - project page: [http://personal.ie.cuhk.edu.hk/~lz013/projects/DeepFashion.html](http://personal.ie.cuhk.edu.hk/~lz013/projects/DeepFashion.html)
 - paper: [http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Liu_DeepFashion_Powering_Robust_CVPR_2016_paper.pdf](http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Liu_DeepFashion_Powering_Robust_CVPR_2016_paper.pdf)
 
