@@ -416,4 +416,4 @@ date: 2015-10-09
 **Netron**
 
 - intro: Visualizer for deep learning and machine learning models
-- github: [https://github.com/lutzroeder/Netron](https://github.com/lutzroeder/Netron)
+- github: [https://github.com/lutzroeder/netron](https://github.com/lutzroeder/netron)
