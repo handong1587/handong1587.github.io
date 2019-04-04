@@ -379,3 +379,12 @@ date: 2015-10-09
 
 - intro: Georgia State University
 - arxiv: [https://arxiv.org/abs/1812.06570](https://arxiv.org/abs/1812.06570)
+
+**Curls & Whey: Boosting Black-Box Adversarial Attacks**
+
+- intro: CVPR 2019 Oral
+- arxiv: [https://arxiv.org/abs/1904.01160](https://arxiv.org/abs/1904.01160)
+
+**Adversarial Defense by Restricting the Hidden Space of Deep Neural Networks**
+
+[https://arxiv.org/abs/1904.00887](https://arxiv.org/abs/1904.00887)

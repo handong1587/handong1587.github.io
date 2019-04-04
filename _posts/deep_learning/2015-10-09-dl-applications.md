@@ -864,6 +864,11 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 - project page: [https://gjy3035.github.io/GCC-CL/](https://gjy3035.github.io/GCC-CL/)
 - arxiv: [https://arxiv.org/abs/1903.03303](https://arxiv.org/abs/1903.03303)
 
+**Point in, Box out: Beyond Counting Persons in Crowds**
+
+- intro: CVPR 2019
+- arxiv: [https://arxiv.org/abs/1904.01333](https://arxiv.org/abs/1904.01333)
+
 # Activity Recognition
 
 **Implementing a CNN for Human Activity Recognition in Tensorflow**
@@ -1449,6 +1454,12 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 - arxiv: [https://arxiv.org/abs/1903.08558](https://arxiv.org/abs/1903.08558)
 - github: [https://github.com/lsy17096535/Single-Image-Deraining](https://github.com/lsy17096535/Single-Image-Deraining)
 
+**Spatial Attentive Single-Image Deraining with a High Quality Real Rain Dataset**
+
+- intro: CVPR 2019
+- project pge: [https://stevewongv.github.io/derain-project.html](https://stevewongv.github.io/derain-project.html)
+- arxiv: [https://arxiv.org/abs/1904.01538](https://arxiv.org/abs/1904.01538)
+
 # Fence Removal
 
 **My camera can see through fences: A deep learning approach for image de-fencing**
@@ -1823,6 +1834,12 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 **Rethinking Monocular Depth Estimation with Adversarial Training**
 
 [https://arxiv.org/abs/1808.07528](https://arxiv.org/abs/1808.07528)
+
+**CAM-Convs: Camera-Aware Multi-Scale Convolutions for Single-View Depth**
+
+- intro: CVPR 2019
+- project page: [http://webdiis.unizar.es/~jmfacil/camconvs/](http://webdiis.unizar.es/~jmfacil/camconvs/)
+- arxiv: [https://arxiv.org/abs/1904.02028](https://arxiv.org/abs/1904.02028)
 
 # Texture Synthesis
 

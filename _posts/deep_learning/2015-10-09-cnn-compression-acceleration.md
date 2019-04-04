@@ -809,6 +809,10 @@ at INT8 deep learning operations than other FPGA DSP architectures"
 - keywords: Binary Weight and Hadamard-transformed Image Network (BWHIN), Binary Weight Network (BWN), Hadamard-transformed Image Network (HIN)
 - arxiv: [https://arxiv.org/abs/1805.05421](https://arxiv.org/abs/1805.05421)
 
+**Binary Ensemble Neural Network: More Bits per Network or More Networks per Bit?**
+
+[https://arxiv.org/abs/1806.07550](https://arxiv.org/abs/1806.07550)
+
 **Bi-Real Net: Enhancing the Performance of 1-bit CNNs With Improved Representational Capability and Advanced Training Algorithm**
 
 - intro: ECCV 2018

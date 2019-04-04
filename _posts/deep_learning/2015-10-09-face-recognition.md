@@ -298,6 +298,10 @@ L**ow-Resolution Face Recognition**
 - intro: CVPR 2019
 - arxiv: [https://arxiv.org/abs/1903.11306](https://arxiv.org/abs/1903.11306)
 
+**Deep Learning for Face Recognition: Pride or Prejudiced?**
+
+[https://arxiv.org/abs/1904.01219](https://arxiv.org/abs/1904.01219)
+
 # Face Verification
 
 **Deep Learning Face Representation by Joint Identification-Verification**

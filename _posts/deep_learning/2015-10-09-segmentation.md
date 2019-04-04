@@ -942,6 +942,19 @@ with built-in awareness of semantically meaningful boundaries. "
 - arxiv: [https://arxiv.org/abs/1903.11816](https://arxiv.org/abs/1903.11816)
 - github: [https://github.com/wuhuikai/FastFCN](https://github.com/wuhuikai/FastFCN)
 
+**Significance-aware Information Bottleneck for Domain Adaptive Semantic Segmentation**
+
+- intro: HUST & UTS
+- arxiv: [https://arxiv.org/abs/1904.00876](https://arxiv.org/abs/1904.00876)
+
+**GFF: Gated Fully Fusion for Semantic Segmentation**
+
+[https://arxiv.org/abs/1904.01803](https://arxiv.org/abs/1904.01803)
+
+**DADA: Depth-aware Domain Adaptation in Semantic Segmentation**
+
+[https://arxiv.org/abs/1904.01886](https://arxiv.org/abs/1904.01886)
+
 # Instance Segmentation
 
 **Simultaneous Detection and Segmentation**
@@ -1091,7 +1104,7 @@ with built-in awareness of semantically meaningful boundaries. "
 
 **Semantic Instance Segmentation with a Discriminative Loss Function**
 
-- intro: Published at "Deep Learning for Robotic Vision", workshop at CVPR 2017. KU Leuven
+- intro: Published at "Deep Learning for Robotic Vision", workshop at CVPR 2017
 - arxiv: [https://arxiv.org/abs/1708.02551](https://arxiv.org/abs/1708.02551)
 - github: [https://github.com/Wizaron/instance-segmentation-pytorch](https://github.com/Wizaron/instance-segmentation-pytorch)
 
@@ -1764,6 +1777,11 @@ ranked 1st place in ImageNet Scene Parsing Challenge 2016
 **Fast video object segmentation with Spatio-Temporal GANs**
 
 [https://arxiv.org/abs/1903.12161](https://arxiv.org/abs/1903.12161)
+
+**Video Object Segmentation using Space-Time Memory Networks**
+
+- intro: Yonsei University & Adobe Research
+- arxiv: [https://arxiv.org/abs/1904.00607](https://arxiv.org/abs/1904.00607)
 
 ## Challenge
 

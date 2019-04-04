@@ -1704,6 +1704,10 @@ date: 2015-10-09
 - arxiv: [https://arxiv.org/abs/1812.03411](https://arxiv.org/abs/1812.03411)
 - github: [https://github.com/facebookresearch/ImageNet-Adversarial-Training](https://github.com/facebookresearch/ImageNet-Adversarial-Training)
 
+**Second Rethinking of Network Pruning in the Adversarial Setting**
+
+[https://arxiv.org/abs/1903.12561](https://arxiv.org/abs/1903.12561)
+
 # Low-Precision Training
 
 **Mixed Precision Training**

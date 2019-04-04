@@ -1176,6 +1176,14 @@ Continuation of [arXiv:1608.08021](https://arxiv.org/abs/1608.08021)
 - intro: CVPR 2019
 - arxiv: [https://arxiv.org/abs/1903.09372](https://arxiv.org/abs/1903.09372)
 
+**Improving Object Detection with Inverted Attention**
+
+[https://arxiv.org/abs/1903.12255](https://arxiv.org/abs/1903.12255)
+
+**FCOS: Fully Convolutional One-Stage Object Detection**
+
+[https://arxiv.org/abs/1904.01355](https://arxiv.org/abs/1904.01355)
+
 # Non-Maximum Suppression (NMS)
 
 **End-to-End Integration of a Convolutional Network, Deformable Parts Model and Non-Maximum Suppression**
@@ -1750,6 +1758,10 @@ This task involves predicting the salient regions of an image given by human eye
 - intro: ECCV 2018 Workshop
 - arxiv: [https://arxiv.org/abs/1809.09828](https://arxiv.org/abs/1809.09828)
 
+**Exploring the Semantics for Visual Relationship Detection**
+
+[https://arxiv.org/abs/1904.02104](https://arxiv.org/abs/1904.02104)
+
 # Face Deteciton
 
 **Multi-view Face Detection Using Deep Convolutional Neural Networks**
@@ -1930,6 +1942,11 @@ This task involves predicting the salient regions of an image given by human eye
 
 - intro: Baidu, Inc
 - arxiv: [https://arxiv.org/abs/1803.07737](https://arxiv.org/abs/1803.07737)
+
+**PyramidBox++: High Performance Detector for Finding Tiny Face**
+
+- intro: Chinese Academy of Sciences & Baidu, Inc.
+- arxiv: [https://arxiv.org/abs/1904.00386](https://arxiv.org/abs/1904.00386)
 
 **A Fast Face Detection Method via Convolutional Neural Network**
 

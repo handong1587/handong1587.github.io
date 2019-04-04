@@ -2363,6 +2363,10 @@ Global Second-order Pooling Neural Networks**
 - intro: The Chinese University of Hong Kong & SenseTime Research
 - arxiv: [https://arxiv.org/abs/1901.07973](https://arxiv.org/abs/1901.07973)
 
+**A Comprehensive Overhaul of Feature Distillation**
+
+[https://arxiv.org/abs/1904.01866](https://arxiv.org/abs/1904.01866)
+
 ## Tutorials and Surveys
 
 **A Survey: Time Travel in Deep Learning Space: An Introduction to Deep Learning Models and How Deep Learning Models Evolved from the Initial Ideas**

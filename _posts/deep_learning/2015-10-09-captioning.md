@@ -364,6 +364,11 @@ after the embedding and recurrent layers of the RNN."
 - intro: ECCV 2018
 - arxiv: [https://arxiv.org/abs/1809.07041](https://arxiv.org/abs/1809.07041)
 
+**Boosted Attention: Leveraging Human Attention for Image Captioning**
+
+- intro: ECCV 2018
+- arxiv: [https://arxiv.org/abs/1904.00767](https://arxiv.org/abs/1904.00767)
+
 **Image Captioning as Neural Machine Translation Task in SOCKEYE**
 
 [https://arxiv.org/abs/1810.04101](https://arxiv.org/abs/1810.04101)
