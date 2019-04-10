@@ -742,6 +742,11 @@ at INT8 deep learning operations than other FPGA DSP architectures"
 - intro: The University of Adelaide & Australian Centre for Robotic Vision & South China University of Technology
 - arxiv: [https://arxiv.org/abs/1903.11236](https://arxiv.org/abs/1903.11236)
 
+**FLightNNs: Lightweight Quantized Deep Neural Networks for Fast and Accurate Inference**
+
+- intro: Carnegie Mellon University
+- intro: [https://arxiv.org/abs/1904.02835](https://arxiv.org/abs/1904.02835)
+
 # Binary Convolutional Neural Networks / Binarized Neural Networks
 
 **BinaryNet: Training Deep Neural Networks with Weights and Activations Constrained to +1 or -1**
@@ -838,6 +843,11 @@ at INT8 deep learning operations than other FPGA DSP architectures"
 - intro: BMXNet v2: An Open-Source Binary Neural Network Implementation Based on MXNet
 - arxiv: [https://arxiv.org/abs/1812.01965](https://arxiv.org/abs/1812.01965)
 - github: [https://github.com/hpi-xnor/BMXNet-v2](https://github.com/hpi-xnor/BMXNet-v2)
+
+**Regularizing Activation Distribution for Training Binarized Deep Networks**
+
+- intro: Carnegie Mellon University
+- arxiv: [https://arxiv.org/abs/1904.02823](https://arxiv.org/abs/1904.02823)
 
 # Accelerating / Fast Algorithms
 

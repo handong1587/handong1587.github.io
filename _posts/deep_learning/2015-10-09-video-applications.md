@@ -335,6 +335,11 @@ date: 2015-10-09
 - intro: CVPR 2019
 - arxiv: [https://arxiv.org/abs/1902.10640](https://arxiv.org/abs/1902.10640)
 
+**Video Classification with Channel-Separated Convolutional Networks**
+
+- intro: Facebook AI
+- arxiv: [https://arxiv.org/abs/1904.02811](https://arxiv.org/abs/1904.02811)
+
 ## Action Detection / Activity Recognition
 
 **3d convolutional neural networks for human action recognition**

@@ -225,6 +225,11 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 
 [https://arxiv.org/abs/1903.10683](https://arxiv.org/abs/1903.10683)
 
+**Blind Visual Motif Removal from a Single Image**
+
+- intro: CVPR 2019
+- arxiv: [https://arxiv.org/abs/1904.02756](https://arxiv.org/abs/1904.02756)
+
 # Boundary / Edge / Contour Detection
 
 **Holistically-Nested Edge Detection**
@@ -868,6 +873,10 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 
 - intro: CVPR 2019
 - arxiv: [https://arxiv.org/abs/1904.01333](https://arxiv.org/abs/1904.01333)
+
+**Crowd Transformer Network**
+
+[https://arxiv.org/abs/1904.02774](https://arxiv.org/abs/1904.02774)
 
 # Activity Recognition
 
@@ -2148,6 +2157,19 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 - project page: [http://gychen.org/SDPS-Net/](http://gychen.org/SDPS-Net/)
 - arxiv: [https://arxiv.org/abs/1903.07366](https://arxiv.org/abs/1903.07366)
 - github(official, PyTorch): [https://github.com/guanyingc/SDPS-Net](https://github.com/guanyingc/SDPS-Net)
+
+**Learning to Adapt for Stereo**
+
+- intro: CVPR 2019
+- intro: University of Bologna & University of Oxford & Australian National University & FiveAI
+- arxiv: [https://arxiv.org/abs/1904.02957](https://arxiv.org/abs/1904.02957)
+- github: [https://github.com/CVLAB-Unibo/Learning2AdaptForStereo](https://github.com/CVLAB-Unibo/Learning2AdaptForStereo)
+
+**StereoDRNet: Dilated Residual Stereo Net**
+
+- intro: CVPR 2019
+- intro: University of North Carolina at Chapel Hill & Facebook Reality Labs
+- arxiv: [https://arxiv.org/abs/1904.02251](https://arxiv.org/abs/1904.02251)
 
 # Optical Flow
 

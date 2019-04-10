@@ -1184,6 +1184,21 @@ Continuation of [arXiv:1608.08021](https://arxiv.org/abs/1608.08021)
 
 [https://arxiv.org/abs/1904.01355](https://arxiv.org/abs/1904.01355)
 
+**Libra R-CNN: Towards Balanced Learning for Object Detection**
+
+- intro: CVPR 2019
+- arxiv: [https://arxiv.org/abs/1904.02701](https://arxiv.org/abs/1904.02701)
+
+**What Object Should I Use? - Task Driven Object Detection**
+
+- intro: CVPR 2019
+- arxiv: [https://arxiv.org/abs/1904.03000](https://arxiv.org/abs/1904.03000)
+
+**FoveaBox: Beyond Anchor-based Object Detector**
+
+- intro: Tsinghua University & BNRist & ByteDance AI Lab & University of Pennsylvania
+- arxiv: [https://arxiv.org/abs/1904.03797](https://arxiv.org/abs/1904.03797)
+
 # Non-Maximum Suppression (NMS)
 
 **End-to-End Integration of a Convolutional Network, Deformable Parts Model and Non-Maximum Suppression**
@@ -2208,10 +2223,6 @@ This task involves predicting the salient regions of an image given by human eye
 
 [https://arxiv.org/abs/1709.00235](https://arxiv.org/abs/1709.00235)
 
-**Repulsion Loss: Detecting Pedestrians in a Crowd**
-
-[https://arxiv.org/abs/1711.07752](https://arxiv.org/abs/1711.07752)
-
 **Aggregated Channels Network for Real-Time Pedestrian Detection**
 
 [https://arxiv.org/abs/1801.00476](https://arxiv.org/abs/1801.00476)
@@ -2240,11 +2251,6 @@ This task involves predicting the salient regions of an image given by human eye
 - intro: Hikvision Research Institute
 - arxiv: [https://arxiv.org/abs/1807.01438](https://arxiv.org/abs/1807.01438)
 
-**Occlusion-aware R-CNN: Detecting Pedestrians in a Crowd**
-
-- intro: ECCV 2018
-- arxiv: [https://arxiv.org/abs/1807.08407](https://arxiv.org/abs/1807.08407)
-
 **Bi-box Regression for Pedestrian Detection and Occlusion Estimation**
 
 - intro: ECCV 2018
@@ -2259,6 +2265,30 @@ This task involves predicting the salient regions of an image given by human eye
 **SSA-CNN: Semantic Self-Attention CNN for Pedestrian Detection**
 
 [https://arxiv.org/abs/1902.09080](https://arxiv.org/abs/1902.09080)
+
+**High-level Semantic Feature Detection:A New Perspective for Pedestrian Detection**
+
+- intro: CVPR 2019
+- intro: National University of Defense Technology & Chinese Academy of Sciences & Inception Institute of Artificial Intelligence (IIAI) & Horizon Robotics Inc.
+- arxiv: [https://arxiv.org/abs/1904.02948](https://arxiv.org/abs/1904.02948)
+- github(official, Keras): [https://github.com/liuwei16/CSP](https://github.com/liuwei16/CSP)
+
+## Pedestrian Detection in a Crowd
+
+**Repulsion Loss: Detecting Pedestrians in a Crowd**
+
+- intro: CVPR 2018
+- arxiv: [https://arxiv.org/abs/1711.07752](https://arxiv.org/abs/1711.07752)
+
+**Occlusion-aware R-CNN: Detecting Pedestrians in a Crowd**
+
+- intro: ECCV 2018
+- arxiv: [https://arxiv.org/abs/1807.08407](https://arxiv.org/abs/1807.08407)
+
+**Adaptive NMS: Refining Pedestrian Detection in a Crowd**
+
+- intro: CVPR 2019 oral
+- arxiv: [https://arxiv.org/abs/1904.03629](https://arxiv.org/abs/1904.03629)
 
 ## Multispectral Pedestrian Detection
 
@@ -2288,6 +2318,10 @@ This task involves predicting the salient regions of an image given by human eye
 **GFD-SSD: Gated Fusion Double SSD for Multispectral Pedestrian Detection**
 
 [https://arxiv.org/abs/1903.06999](https://arxiv.org/abs/1903.06999)
+
+**Unsupervised Domain Adaptation for Multispectral Pedestrian Detection**
+
+[https://arxiv.org/abs/1904.03692](https://arxiv.org/abs/1904.03692)
 
 # Vehicle Detection
 

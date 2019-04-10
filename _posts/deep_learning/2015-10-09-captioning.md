@@ -585,6 +585,11 @@ after the embedding and recurrent layers of the RNN."
 - intro: Winner in ActivityNet 2018 Dense Video Captioning challenge
 - arxiv: [https://arxiv.org/abs/1806.08854](https://arxiv.org/abs/1806.08854)
 
+**Streamlined Dense Video Captioning**
+
+- intro: CVPR 2019
+- arxiv: [https://arxiv.org/abs/1904.03870](https://arxiv.org/abs/1904.03870)
+
 # Projects
 
 **Learning CNN-LSTM Architectures for Image Caption Generation: An implementation of CNN-LSTM image caption generator architecture that achieves close to state-of-the-art results on the MSCOCO dataset.**

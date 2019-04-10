@@ -358,6 +358,11 @@ date: 2015-10-09
 - intro: CVPR 2019
 - arxiv: [https://arxiv.org/abs/1903.10128](https://arxiv.org/abs/1903.10128)
 
+**Fast Spatio-Temporal Residual Network for Video Super-Resolution**
+
+- intro: CVPR 2019
+- arxiv: [https://arxiv.org/abs/1904.02870](https://arxiv.org/abs/1904.02870)
+
 # Projects
 
 **waifu2x**

@@ -258,6 +258,12 @@ L**earning a Deep ConvNet for Multi-label Classification with Partial Labels**
 - intro: CVPR 2019
 - arxiv: [https://arxiv.org/abs/1902.09720](https://arxiv.org/abs/1902.09720)
 
+**Multi-Label Image Recognition with Graph Convolutional Networks**
+
+- intro: CVPR 2019
+- arxiv: [https://arxiv.org/abs/1904.03582](https://arxiv.org/abs/1904.03582)
+- github: [https://github.com/chenzhaomin123/ML_GCN](https://github.com/chenzhaomin123/ML_GCN)
+
 # Person Recognition
 
 **Beyond Frontal Faces: Improving Person Recognition Using Multiple Cues**

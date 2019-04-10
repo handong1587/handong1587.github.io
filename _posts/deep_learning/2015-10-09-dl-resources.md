@@ -1359,6 +1359,12 @@ Global Second-order Pooling Neural Networks**
 - intro: ICLR 2019
 - arxiv: [https://arxiv.org/abs/1903.05134](https://arxiv.org/abs/1903.05134)
 
+**Adaptively Connected Neural Networks**
+
+- intro: CVPR 2019
+- arxiv: [https://arxiv.org/abs/1904.03579](https://arxiv.org/abs/1904.03579)
+- github: [https://github.com/wanggrun/Adaptively-Connected-Neural-Networks](https://github.com/wanggrun/Adaptively-Connected-Neural-Networks)
+
 ## Convolutions / Filters
 
 **Warped Convolutions: Efficient Invariance to Spatial Transformations**

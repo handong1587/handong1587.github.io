@@ -633,6 +633,10 @@ date: 2015-10-09
 - intro: AAAI 2019
 - arxiv: [https://arxiv.org/abs/1904.01739](https://arxiv.org/abs/1904.01739)
 
+**Feature Pyramid Hashing**
+
+[https://arxiv.org/abs/1904.02325](https://arxiv.org/abs/1904.02325)
+
 # Cross Modal Retrieval
 
 **Cross-domain Image Retrieval with a Dual Attribute-aware Ranking Network**
@@ -873,6 +877,11 @@ date: 2015-10-09
 - intro: CVPR 2019 Oral
 - arxiv: [https://arxiv.org/abs/1903.05503](https://arxiv.org/abs/1903.05503)
 - github(official, Tensorflow): [https://github.com/wzzheng/HDML](https://github.com/wzzheng/HDML)
+
+**Signal-to-Noise Ratio: A Robust Distance Metric for Deep Metric Learning**
+
+- intro: CVPR 2019
+- arxiv: [https://arxiv.org/abs/1904.02616](https://arxiv.org/abs/1904.02616)
 
 # Talks / Slides
 

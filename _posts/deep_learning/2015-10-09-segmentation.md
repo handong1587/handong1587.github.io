@@ -955,6 +955,15 @@ with built-in awareness of semantically meaningful boundaries. "
 
 [https://arxiv.org/abs/1904.01886](https://arxiv.org/abs/1904.01886)
 
+**YOLACT: Real-time Instance Segmentation**
+
+[https://arxiv.org/abs/1904.02689](https://arxiv.org/abs/1904.02689)
+
+**DFANet: Deep Feature Aggregation for Real-Time Semantic Segmentation**
+
+- intro: Megvii Technology
+- arxiv: [https://arxiv.org/abs/1904.02216](https://arxiv.org/abs/1904.02216)
+
 # Instance Segmentation
 
 **Simultaneous Detection and Segmentation**
@@ -1782,6 +1791,14 @@ ranked 1st place in ImageNet Scene Parsing Challenge 2016
 
 - intro: Yonsei University & Adobe Research
 - arxiv: [https://arxiv.org/abs/1904.00607](https://arxiv.org/abs/1904.00607)
+
+**Spatiotemporal CNN for Video Object Segmentation**
+
+[https://arxiv.org/abs/1904.02363]
+
+**Architecture Search of Dynamic Cells for Semantic Video Segmentation**
+
+[https://arxiv.org/abs/1904.02371](https://arxiv.org/abs/1904.02371)
 
 ## Challenge
 
