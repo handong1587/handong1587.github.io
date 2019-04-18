@@ -883,6 +883,11 @@ date: 2015-10-09
 - intro: CVPR 2019
 - arxiv: [https://arxiv.org/abs/1904.02616](https://arxiv.org/abs/1904.02616)
 
+**Multi-Similarity Loss with General Pair Weighting for Deep Metric Learning**
+
+- arxiv: [https://arxiv.org/abs/1904.06627](https://arxiv.org/abs/1904.06627)
+- github: [https://github.com/MalongTech/research-ms-loss](https://github.com/MalongTech/research-ms-loss)
+
 # Talks / Slides
 
 **TiefVision: end-to-end image similarity search engine**

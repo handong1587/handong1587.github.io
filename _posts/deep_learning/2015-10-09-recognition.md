@@ -194,6 +194,13 @@ date: 2015-10-09
 
 [https://arxiv.org/abs/1611.05916](https://arxiv.org/abs/1611.05916)
 
+**Large-Scale Long-Tailed Recognition in an Open World**
+
+- intro: CVPR 2019 oral
+- intro: CUHK & UC Berkeley / ICSI
+- project page: [https://liuziwei7.github.io/projects/LongTail.html](https://liuziwei7.github.io/projects/LongTail.html)
+- arxiv: [https://arxiv.org/abs/1904.05160](https://arxiv.org/abs/1904.05160)
+
 # Massive Classification
 
 **Accelerated Training for Massive Classification via Dynamic Class Selection**

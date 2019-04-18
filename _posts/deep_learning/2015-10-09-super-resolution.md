@@ -356,7 +356,10 @@ date: 2015-10-09
 **Recurrent Back-Projection Network for Video Super-Resolution**
 
 - intro: CVPR 2019
+- keywords: Vimeo90k
+- project page: [https://alterzero.github.io/projects/RBPN.html](https://alterzero.github.io/projects/RBPN.html)
 - arxiv: [https://arxiv.org/abs/1903.10128](https://arxiv.org/abs/1903.10128)
+- github: [https://github.com/alterzero/RBPN-PyTorch](https://github.com/alterzero/RBPN-PyTorch)
 
 **Fast Spatio-Temporal Residual Network for Video Super-Resolution**
 

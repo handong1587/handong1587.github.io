@@ -388,3 +388,7 @@ date: 2015-10-09
 **Adversarial Defense by Restricting the Hidden Space of Deep Neural Networks**
 
 [https://arxiv.org/abs/1904.00887](https://arxiv.org/abs/1904.00887)
+
+**Black-box Adversarial Attacks on Video Recognition Models**
+
+[https://arxiv.org/abs/1904.05181](https://arxiv.org/abs/1904.05181)

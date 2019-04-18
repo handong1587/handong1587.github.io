@@ -309,6 +309,10 @@ date: 2015-10-09
 - githb: [https://github.com/DeNA/PyTorch_YOLOv3](https://github.com/DeNA/PyTorch_YOLOv3)
 - github: [https://github.com/eriklindernoren/PyTorch-YOLOv3](https://github.com/eriklindernoren/PyTorch-YOLOv3)
 
+**Gaussian YOLOv3: An Accurate and Fast Object Detector Using Localization Uncertainty for Autonomous Driving**
+
+[https://arxiv.org/abs/1904.04620](https://arxiv.org/abs/1904.04620)
+
 **YOLO-LITE: A Real-Time Object Detection Algorithm Optimized for Non-GPU Computers**
 
 [https://arxiv.org/abs/1811.05588](https://arxiv.org/abs/1811.05588)
@@ -1199,6 +1203,52 @@ Continuation of [arXiv:1608.08021](https://arxiv.org/abs/1608.08021)
 - intro: Tsinghua University & BNRist & ByteDance AI Lab & University of Pennsylvania
 - arxiv: [https://arxiv.org/abs/1904.03797](https://arxiv.org/abs/1904.03797)
 
+**Towards Universal Object Detection by Domain Attention**
+
+- intro: CVPR 2019
+- arxiv: [https://arxiv.org/abs/1904.04402](https://arxiv.org/abs/1904.04402)
+
+**Prime Sample Attention in Object Detection**
+
+[https://arxiv.org/abs/1904.04821](https://arxiv.org/abs/1904.04821)
+
+**BAOD: Budget-Aware Object Detection**
+
+[https://arxiv.org/abs/1904.05443](https://arxiv.org/abs/1904.05443)
+
+**An Analysis of Pre-Training on Object Detection**
+
+- intro: University of Maryland
+- arxiv: [https://arxiv.org/abs/1904.05871](https://arxiv.org/abs/1904.05871)
+
+**Rethinking Classification and Localization in R-CNN**
+
+- intro: Northeastern University & Microsoft
+- arxiv: [https://arxiv.org/abs/1904.06493](https://arxiv.org/abs/1904.06493)
+
+**DuBox: No-Prior Box Objection Detection via Residual Dual Scale Detectors**
+
+- intro: Baidu Inc.
+- arxiv: [https://arxiv.org/abs/1904.06883](https://arxiv.org/abs/1904.06883)
+
+**NAS-FPN: Learning Scalable Feature Pyramid Architecture for Object Detection**
+
+- intro: CVPR 2019
+- arxiv: [https://arxiv.org/abs/1904.07392](https://arxiv.org/abs/1904.07392)
+
+**Objects as Points**
+
+- intro: Object detection, 3D detection, and pose estimation using center point detection
+- arxiv: [https://arxiv.org/abs/1904.07850](https://arxiv.org/abs/1904.07850)
+- github: [https://github.com/xingyizhou/CenterNet](https://github.com/xingyizhou/CenterNet)
+
+**CenterNet: Object Detection with Keypoint Triplets**
+
+**CenterNet: Keypoint Triplets for Object Detection**
+
+- arxiv: [https://arxiv.org/abs/1904.08189](https://arxiv.org/abs/1904.08189)
+- github: [https://github.com/Duankaiwen/CenterNet](https://github.com/Duankaiwen/CenterNet)
+
 # Non-Maximum Suppression (NMS)
 
 **End-to-End Integration of a Convolutional Network, Deformable Parts Model and Non-Maximum Suppression**
@@ -1466,6 +1516,10 @@ Continuation of [arXiv:1608.08021](https://arxiv.org/abs/1608.08021)
 3D Backbone Network for 3D Object Detection**
 
 [https://arxiv.org/abs/1901.08373](https://arxiv.org/abs/1901.08373)
+
+**Complexer-YOLO: Real-Time 3D Object Detection and Tracking on Semantic Point Clouds**
+
+[https://arxiv.org/abs/1904.07537](https://arxiv.org/abs/1904.07537)
 
 # Object Detection on RGB-D
 

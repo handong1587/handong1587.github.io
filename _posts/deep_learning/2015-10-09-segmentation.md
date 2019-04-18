@@ -205,6 +205,10 @@ date: 2015-10-09
 
 [https://arxiv.org/abs/1810.08476](https://arxiv.org/abs/1810.08476)
 
+**DSNet: An Efficient CNN for Road Scene Segmentation**
+
+[https://arxiv.org/abs/1904.05022](https://arxiv.org/abs/1904.05022)
+
 # Foreground Object Segmentation
 
 **Pixel Objectness**
@@ -1225,6 +1229,12 @@ with built-in awareness of semantically meaningful boundaries. "
 - intro: Facebook AI Research (FAIR)
 - arxiv: [https://arxiv.org/abs/1903.12174](https://arxiv.org/abs/1903.12174)
 
+**Actor-Critic Instance Segmentation**
+
+- intro: CVPR 2019
+- keywords: reinforcement learning
+- arxiv: [https://arxiv.org/abs/1904.05126](https://arxiv.org/abs/1904.05126)
+
 ## Human Instance Segmentation
 
 **PersonLab: Person Pose Estimation and Instance Segmentation with a Bottom-Up, Part-Based, Geometric Embedding Model**
@@ -1247,6 +1257,22 @@ with built-in awareness of semantically meaningful boundaries. "
 - intro: COCO 2018 DensePose Challenge Winner
 - arxiv: [https://arxiv.org/abs/1811.12596](https://arxiv.org/abs/1811.12596)
 - github: [https://github.com/soeaver/Parsing-R-CNN](https://github.com/soeaver/Parsing-R-CNN)
+
+**Graphonomy: Universal Human Parsing via Graph Transfer Learning**
+
+- intro: CVPR 2019
+- arxiv: [https://arxiv.org/abs/1904.04536](https://arxiv.org/abs/1904.04536)
+- github: [https://github.com/Gaoyiminggithub/Graphonomy](https://github.com/Gaoyiminggithub/Graphonomy)
+
+**Pose2Seg: Detection Free Human Instance Segmentation**
+
+- intro: CVPR 2019
+- intro: Tsinghua Unviersity & BNRist & Tencent AI Lab & Cardiff University
+- keywords: Occluded Human (OCHuman)
+- project page: [http://www.liruilong.cn/Pose2Seg/index.html](http://www.liruilong.cn/Pose2Seg/index.html)
+- arxiv: [https://arxiv.org/abs/1803.10683](https://arxiv.org/abs/1803.10683)
+- github: [https://github.com/liruilong940607/Pose2Seg](https://github.com/liruilong940607/Pose2Seg)
+- dataset: [https://cg.cs.tsinghua.edu.cn/dataset/form.html?dataset=ochuman](https://cg.cs.tsinghua.edu.cn/dataset/form.html?dataset=ochuman)
 
 # Panoptic Segmentation
 
@@ -1799,6 +1825,19 @@ ranked 1st place in ImageNet Scene Parsing Challenge 2016
 **Architecture Search of Dynamic Cells for Semantic Video Segmentation**
 
 [https://arxiv.org/abs/1904.02371](https://arxiv.org/abs/1904.02371)
+
+**BoLTVOS: Box-Level Tracking for Video Object Segmentation**
+
+[https://arxiv.org/abs/1904.04552](https://arxiv.org/abs/1904.04552)
+
+**MAIN: Multi-Attention Instance Network for Video Segmentation**
+
+[https://arxiv.org/abs/1904.05847](https://arxiv.org/abs/1904.05847)
+
+**MHP-VOS: Multiple Hypotheses Propagation for Video Object Segmentation**
+
+- intro: CVPR 2019 oral
+- arxiv: [https://arxiv.org/abs/1904.08141](https://arxiv.org/abs/1904.08141)
 
 ## Challenge
 

@@ -1069,6 +1069,11 @@ date: 2015-10-09
 
 [https://arxiv.org/abs/1802.02375](https://arxiv.org/abs/1802.02375)
 
+**Shakeout: A New Approach to Regularized Deep Neural Network Training**
+
+- intro: T-PAMI 2018
+- arxiv: [https://arxiv.org/abs/1904.06593](https://arxiv.org/abs/1904.06593)
+
 # Gradient Descent
 
 **RMSProp: Divide the gradient by a running average of its recent magnitude**

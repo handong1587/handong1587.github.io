@@ -1365,6 +1365,15 @@ Global Second-order Pooling Neural Networks**
 - arxiv: [https://arxiv.org/abs/1904.03579](https://arxiv.org/abs/1904.03579)
 - github: [https://github.com/wanggrun/Adaptively-Connected-Neural-Networks](https://github.com/wanggrun/Adaptively-Connected-Neural-Networks)
 
+**Transformable Bottleneck Networks**
+
+[https://arxiv.org/abs/1904.06458](https://arxiv.org/abs/1904.06458)
+
+**Pixel-Adaptive Convolutional Neural Networks**
+
+- intro: CVPR 2019
+- arxiv: [https://arxiv.org/abs/1904.05373](https://arxiv.org/abs/1904.05373)
+
 ## Convolutions / Filters
 
 **Warped Convolutions: Efficient Invariance to Spatial Transformations**

@@ -302,6 +302,16 @@ L**ow-Resolution Face Recognition**
 
 [https://arxiv.org/abs/1904.01219](https://arxiv.org/abs/1904.01219)
 
+**Efficient Decision-based Black-box Adversarial Attacks on Face Recognition**
+
+- intro: CVPR 2019
+- arxiv: [https://arxiv.org/abs/1904.04433](https://arxiv.org/abs/1904.04433)
+
+**Decorrelated Adversarial Learning for Age-Invariant Face Recognition**
+
+- intro: Tencent AI Lab
+- arxiv: [https://arxiv.org/abs/1904.04972](https://arxiv.org/abs/1904.04972)
+
 # Face Verification
 
 **Deep Learning Face Representation by Joint Identification-Verification**

@@ -800,6 +800,14 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 **Crowd Counting via Adversarial Cross-Scale Consistency Pursuit**
 
 - intro: CVPR 2018
+- paper: [http://openaccess.thecvf.com/content_cvpr_2018/papers/Shen_Crowd_Counting_via_CVPR_2018_paper.pdf](http://openaccess.thecvf.com/content_cvpr_2018/papers/Shen_Crowd_Counting_via_CVPR_2018_paper.pdf)
+- github: [https://github.com/Ling-Bao/ACSCP_cGAN](https://github.com/Ling-Bao/ACSCP_cGAN)
+
+**Crowd Counting with Deep Negative Correlation Learning**
+
+- intro: CVPR 2018
+- paper: [http://openaccess.thecvf.com/content_cvpr_2018/papers/Shi_Crowd_Counting_With_CVPR_2018_paper.pdf](http://openaccess.thecvf.com/content_cvpr_2018/papers/Shi_Crowd_Counting_With_CVPR_2018_paper.pdfhttp://openaccess.thecvf.com/content_cvpr_2018/papers/Shi_Crowd_Counting_With_CVPR_2018_paper.pdf)
+- github: [https://github.com/shizenglin/Deep-NCL](https://github.com/shizenglin/Deep-NCL)
 
 **An Aggregated Multicolumn Dilated Convolution Network for Perspective-Free Counting**
 
@@ -1943,6 +1951,12 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 - intro: University of Illinois at Chicago & Toutiao AI Lab
 - arxiv: [https://arxiv.org/abs/1803.04469](https://arxiv.org/abs/1803.04469)
 
+**Text Guided Person Image Synthesis**
+
+- intr: CVPR 2019
+- intro: Zhejiang University & Nanjing University
+- arxiv: [https://arxiv.org/abs/1904.05118](https://arxiv.org/abs/1904.05118)
+
 # Image Tagging
 
 **Fast Zero-Shot Image Tagging**
@@ -2171,6 +2185,17 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 - intro: University of North Carolina at Chapel Hill & Facebook Reality Labs
 - arxiv: [https://arxiv.org/abs/1904.02251](https://arxiv.org/abs/1904.02251)
 
+**GA-Net: Guided Aggregation Net for End-to-end Stereo Matching**
+
+- intro: CVPR 2019 oral
+- intro: University of Oxford & Baidu Research
+- arxiv: [https://arxiv.org/abs/1904.06587](https://arxiv.org/abs/1904.06587)
+
+**Multi-Scale Geometric Consistency Guided Multi-View Stereo**
+
+- intro: CVPR 2019
+- arxiv: [https://arxiv.org/abs/1904.08103](https://arxiv.org/abs/1904.08103)
+
 # Optical Flow
 
 **FlowNet: Learning Optical Flow with Convolutional Networks**
@@ -2243,6 +2268,11 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 
 - intro: AAAI 2019
 - arxiv: [https://arxiv.org/abs/1902.09145](https://arxiv.org/abs/1902.09145)
+
+**Iterative Residual Refinement for Joint Optical Flow and Occlusion Estimation**
+
+- intro: CVPR 2019
+- arxiv: [https://arxiv.org/abs/1904.05290](https://arxiv.org/abs/1904.05290)
 
 # 3D
 
