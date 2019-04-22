@@ -289,6 +289,11 @@ date: 2015-10-09
 - intro: In AAAI-19 Workshop on Network Interpretability for Deep Learning
 - arxiv: [https://arxiv.org/abs/1901.10042](https://arxiv.org/abs/1901.10042)
 
+**Understanding Neural Networks via Feature Visualization: A survey**
+
+- intro: A book chapter in an Interpretable ML book ([http://www.interpretable-ml.org/book/](http://www.interpretable-ml.org/book/))
+- arxiv: [https://arxiv.org/abs/1904.08939](https://arxiv.org/abs/1904.08939)
+
 # Projects
 
 **Interactive Deep Neural Net Hallucinations**

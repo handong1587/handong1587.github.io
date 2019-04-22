@@ -637,6 +637,10 @@ date: 2015-10-09
 
 [https://arxiv.org/abs/1904.02325](https://arxiv.org/abs/1904.02325)
 
+**Global Hashing System for Fast Image Search**
+
+[https://arxiv.org/abs/1904.08685](https://arxiv.org/abs/1904.08685)
+
 # Cross Modal Retrieval
 
 **Cross-domain Image Retrieval with a Dual Attribute-aware Ranking Network**

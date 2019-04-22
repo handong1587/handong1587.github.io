@@ -1234,6 +1234,7 @@ Continuation of [arXiv:1608.08021](https://arxiv.org/abs/1608.08021)
 **NAS-FPN: Learning Scalable Feature Pyramid Architecture for Object Detection**
 
 - intro: CVPR 2019
+- intro: Google Brain
 - arxiv: [https://arxiv.org/abs/1904.07392](https://arxiv.org/abs/1904.07392)
 
 **Objects as Points**
@@ -1248,6 +1249,16 @@ Continuation of [arXiv:1608.08021](https://arxiv.org/abs/1608.08021)
 
 - arxiv: [https://arxiv.org/abs/1904.08189](https://arxiv.org/abs/1904.08189)
 - github: [https://github.com/Duankaiwen/CenterNet](https://github.com/Duankaiwen/CenterNet)
+
+**CornerNet-Lite: Efficient Keypoint Based Object Detection**
+
+- intro: Princeton University
+- arxiv: [https://arxiv.org/abs/1904.08900](https://arxiv.org/abs/1904.08900)
+- github: [https://github.com/princeton-vl/CornerNet-Lite](https://github.com/princeton-vl/CornerNet-Lite)
+
+**Automated Focal Loss for Image based Object Detection**
+
+[https://arxiv.org/abs/1904.09048](https://arxiv.org/abs/1904.09048)
 
 # Non-Maximum Suppression (NMS)
 

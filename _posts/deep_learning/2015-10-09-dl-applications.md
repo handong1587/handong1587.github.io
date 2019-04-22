@@ -886,6 +886,10 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 
 [https://arxiv.org/abs/1904.02774](https://arxiv.org/abs/1904.02774)
 
+**DENet: A Universal Network for Counting Crowd with Varying Densities and Scales**
+
+[https://arxiv.org/abs/1904.08056](https://arxiv.org/abs/1904.08056)
+
 # Activity Recognition
 
 **Implementing a CNN for Human Activity Recognition in Tensorflow**
