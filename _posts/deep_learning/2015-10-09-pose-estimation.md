@@ -309,6 +309,10 @@ date: 2015-10-09
 - project page: [https://jingdongwang2017.github.io/Projects/HRNet/PoseEstimation.html](https://jingdongwang2017.github.io/Projects/HRNet/PoseEstimation.html)
 - github(official): [https://github.com/leoxiaobin/deep-high-resolution-net.pytorch](https://github.com/leoxiaobin/deep-high-resolution-net.pytorch)
 
+**A Context-and-Spatial Aware Network for Multi-Person Pose Estimation**
+
+[https://arxiv.org/abs/1905.05355](https://arxiv.org/abs/1905.05355)
+
 # 3D Pose
 
 **Can 3D Pose be Learned from 2D Projections Alone?**

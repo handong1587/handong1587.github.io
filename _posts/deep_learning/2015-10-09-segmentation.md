@@ -1839,6 +1839,11 @@ ranked 1st place in ImageNet Scene Parsing Challenge 2016
 - intro: CVPR 2019 oral
 - arxiv: [https://arxiv.org/abs/1904.08141](https://arxiv.org/abs/1904.08141)
 
+**Video Instance Segmentation**
+
+- intro: ByteDance AI Lab & UIUC & Adobe Research
+- arxiv: [https://arxiv.org/abs/1905.04804](https://arxiv.org/abs/1905.04804)
+
 ## Challenge
 
 **DAVIS: Densely Annotated VIdeo Segmentation**

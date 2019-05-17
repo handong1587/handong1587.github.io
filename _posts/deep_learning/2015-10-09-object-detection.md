@@ -1260,6 +1260,10 @@ Continuation of [arXiv:1608.08021](https://arxiv.org/abs/1608.08021)
 
 [https://arxiv.org/abs/1904.09048](https://arxiv.org/abs/1904.09048)
 
+**Object Detection in 20 Years: A Survey**
+
+[https://arxiv.org/abs/1905.05055](https://arxiv.org/abs/1905.05055)
+
 # Non-Maximum Suppression (NMS)
 
 **End-to-End Integration of a Convolutional Network, Deformable Parts Model and Non-Maximum Suppression**
@@ -2100,6 +2104,29 @@ This task involves predicting the salient regions of an image given by human eye
 
 - intro: ICPR 2018
 - arxiv: [https://arxiv.org/abs/1903.04147](https://arxiv.org/abs/1903.04147)
+
+**LFFD: A Light and Fast Face Detector for Edge Devices**
+
+[https://arxiv.org/abs/1904.10633](https://arxiv.org/abs/1904.10633)
+
+**Exploring Object Relation in Mean Teacher for Cross-Domain Detection**
+
+- intro: CVPR 2019
+- arxiv: [https://arxiv.org/abs/1904.11245](https://arxiv.org/abs/1904.11245)
+
+**HAR-Net: Joint Learning of Hybrid Attention for Single-stage Object Detection**
+
+[https://arxiv.org/abs/1904.11141](https://arxiv.org/abs/1904.11141)
+
+**An Energy and GPU-Computation Efficient Backbone Network for Real-Time Object Detection**
+
+- intro: CVPR 2019 CEFRL Workshop
+- arxiv: [https://arxiv.org/abs/1904.09730](https://arxiv.org/abs/1904.09730)
+
+**RepPoints: Point Set Representation for Object Detection**
+
+- intro: Peking University & Tsinghua University & Microsoft Research Asia
+- arxiv: [https://arxiv.org/abs/1904.11490](https://arxiv.org/abs/1904.11490)
 
 ## Detect Small Faces
 

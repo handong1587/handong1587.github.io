@@ -1374,6 +1374,11 @@ Global Second-order Pooling Neural Networks**
 - intro: CVPR 2019
 - arxiv: [https://arxiv.org/abs/1904.05373](https://arxiv.org/abs/1904.05373)
 
+**Attention Augmented Convolutional Networks**
+
+- intro: Google Brain
+- arxiv: [https://arxiv.org/abs/1904.09925](https://arxiv.org/abs/1904.09925)
+
 ## Convolutions / Filters
 
 **Warped Convolutions: Efficient Invariance to Spatial Transformations**
@@ -2746,6 +2751,11 @@ Global Second-order Pooling Neural Networks**
 
 - intro: BUPT & Megvii
 - arxiv: [https://arxiv.org/abs/1901.07223](https://arxiv.org/abs/1901.07223)
+
+**GN-Net: The Gauss-Newton Loss for Deep Direct SLAM**
+
+- intro: Technical University of Munich & Artisense
+- arxiv: [https://arxiv.org/abs/1904.11932](https://arxiv.org/abs/1904.11932)
 
 ### All-In-One Network
 

@@ -892,6 +892,11 @@ date: 2015-10-09
 - arxiv: [https://arxiv.org/abs/1904.06627](https://arxiv.org/abs/1904.06627)
 - github: [https://github.com/MalongTech/research-ms-loss](https://github.com/MalongTech/research-ms-loss)
 
+**Deep Metric Learning Beyond Binary Supervision**
+
+- intro: CVPR 2019 oral
+- arxiv: [https://arxiv.org/abs/1904.09626](https://arxiv.org/abs/1904.09626)
+
 # Talks / Slides
 
 **TiefVision: end-to-end image similarity search engine**
