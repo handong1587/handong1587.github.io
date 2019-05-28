@@ -1713,6 +1713,11 @@ date: 2015-10-09
 
 [https://arxiv.org/abs/1903.12561](https://arxiv.org/abs/1903.12561)
 
+**Interpreting Adversarially Trained Convolutional Neural Networks**
+
+- intro: ICML 2019
+- arxiv: [https://arxiv.org/abs/1905.09797](https://arxiv.org/abs/1905.09797)
+
 # Low-Precision Training
 
 **Mixed Precision Training**

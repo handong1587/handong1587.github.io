@@ -961,7 +961,11 @@ with built-in awareness of semantically meaningful boundaries. "
 
 **YOLACT: Real-time Instance Segmentation**
 
-[https://arxiv.org/abs/1904.02689](https://arxiv.org/abs/1904.02689)
+- intro: You Only Look At CoefficienTs
+- intro: University of California, Davis
+- keywords: one-stage, Fast NMS
+- arxiv: [https://arxiv.org/abs/1904.02689](https://arxiv.org/abs/1904.02689)
+- github(official, Pytorch): [https://github.com/dbolya/yolact](https://github.com/dbolya/yolact)
 
 **DFANet: Deep Feature Aggregation for Real-Time Semantic Segmentation**
 
@@ -1843,6 +1847,11 @@ ranked 1st place in ImageNet Scene Parsing Challenge 2016
 
 - intro: ByteDance AI Lab & UIUC & Adobe Research
 - arxiv: [https://arxiv.org/abs/1905.04804](https://arxiv.org/abs/1905.04804)
+
+**OVSNet : Towards One-Pass Real-Time Video Object Segmentation**
+
+- intro: Zhejiang University & SenseTime Research & Tianjin University]
+- arxiv: [https://arxiv.org/abs/1905.10064](https://arxiv.org/abs/1905.10064)
 
 ## Challenge
 

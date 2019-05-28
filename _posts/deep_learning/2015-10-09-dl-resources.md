@@ -1379,6 +1379,16 @@ Global Second-order Pooling Neural Networks**
 - intro: Google Brain
 - arxiv: [https://arxiv.org/abs/1904.09925](https://arxiv.org/abs/1904.09925)
 
+**Spatial Group-wise Enhance: Improving Semantic Feature Learning in Convolutional Networks**
+
+- arxiv: [https://arxiv.org/abs/1905.09646](https://arxiv.org/abs/1905.09646)
+- github: [https://github.com/implus/PytorchInsight](https://github.com/implus/PytorchInsight)
+
+**EnsembleNet: End-to-End Optimization of Multi-headed Models**
+
+- intro: Google AI
+- arxiv: [https://arxiv.org/abs/1905.09979](https://arxiv.org/abs/1905.09979)
+
 ## Convolutions / Filters
 
 **Warped Convolutions: Efficient Invariance to Spatial Transformations**

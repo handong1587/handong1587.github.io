@@ -1264,6 +1264,10 @@ Continuation of [arXiv:1608.08021](https://arxiv.org/abs/1608.08021)
 
 [https://arxiv.org/abs/1905.05055](https://arxiv.org/abs/1905.05055)
 
+**Light-Weight RetinaNet for Object Detection**
+
+[https://arxiv.org/abs/1905.10011](https://arxiv.org/abs/1905.10011)
+
 # Non-Maximum Suppression (NMS)
 
 **End-to-End Integration of a Convolutional Network, Deformable Parts Model and Non-Maximum Suppression**

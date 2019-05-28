@@ -890,6 +890,12 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 
 [https://arxiv.org/abs/1904.08056](https://arxiv.org/abs/1904.08056)
 
+**PCC Net: Perspective Crowd Counting via Spatial Convolutional Network**
+
+- intro: IEEE T-CSVT
+- arxiv: [https://arxiv.org/abs/1905.10085](https://arxiv.org/abs/1905.10085)
+- github: [https://github.com/gjy3035/PCC-Net](https://github.com/gjy3035/PCC-Net)
+
 # Activity Recognition
 
 **Implementing a CNN for Human Activity Recognition in Tensorflow**
@@ -2199,6 +2205,11 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 
 - intro: CVPR 2019
 - arxiv: [https://arxiv.org/abs/1904.08103](https://arxiv.org/abs/1904.08103)
+
+**Guided Stereo Matching**
+
+- intro: CVPR 2019
+- arxiv: [https://arxiv.org/abs/1905.10107](https://arxiv.org/abs/1905.10107)
 
 # Optical Flow
 
