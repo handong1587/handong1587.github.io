@@ -1902,6 +1902,16 @@ ranked 1st place in ImageNet Scene Parsing Challenge 2016
 
 [https://github.com/ZijunDeng/pytorch-semantic-segmentation](https://github.com/ZijunDeng/pytorch-semantic-segmentation)
 
+**LightNet: Light-weight Networks for Semantic Image Segmentation**
+
+- project page: [https://ansleliu.github.io/LightNet.html](https://ansleliu.github.io/LightNet.html)
+- github: [https://github.com/ansleliu/LightNet](https://github.com/ansleliu/LightNet)
+
+**LightNet++: Boosted Light-weighted Networks for Real-time Semantic Segmentation**
+
+- project page: [https://ansleliu.github.io/LightNet.html](https://ansleliu.github.io/LightNet.html)
+- github: [https://github.com/ansleliu/LightNetPlusPlus](https://github.com/ansleliu/LightNetPlusPlus)
+
 # 3D Segmentation
 
 **PointNet: Deep Learning on Point Sets for 3D Classification and Segmentation**

@@ -312,6 +312,10 @@ L**ow-Resolution Face Recognition**
 - intro: Tencent AI Lab
 - arxiv: [https://arxiv.org/abs/1904.04972](https://arxiv.org/abs/1904.04972)
 
+**ShrinkTeaNet: Million-scale Lightweight Face Recognition via Shrinking Teacher-Student Networks**
+
+[https://arxiv.org/abs/1905.10620](https://arxiv.org/abs/1905.10620)
+
 # Face Verification
 
 **Deep Learning Face Representation by Joint Identification-Verification**

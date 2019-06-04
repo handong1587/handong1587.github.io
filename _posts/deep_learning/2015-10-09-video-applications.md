@@ -644,6 +644,11 @@ extract saptio-temporal features to represent the video using the CNNs."
 - intro: Google & University of Michigan & Princeton University
 - arxiv: [https://arxiv.org/abs/1812.08249](https://arxiv.org/abs/1812.08249)
 
+**TACNet: Transition-Aware Context Network for Spatio-Temporal Action Detection**
+
+- intro: CVPR 2019
+- arxiv: [https://arxiv.org/abs/1905.13417](https://arxiv.org/abs/1905.13417)
+
 ### Projects
 
 **A Torch Library for Action Recognition and Detection Using CNNs and LSTMs**
