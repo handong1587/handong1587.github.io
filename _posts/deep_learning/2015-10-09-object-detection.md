@@ -1239,6 +1239,8 @@ Continuation of [arXiv:1608.08021](https://arxiv.org/abs/1608.08021)
 
 **Objects as Points**
 
+![](https://raw.githubusercontent.com/xingyizhou/CenterNet/master/readme/fig2.png)
+
 - intro: Object detection, 3D detection, and pose estimation using center point detection
 - arxiv: [https://arxiv.org/abs/1904.07850](https://arxiv.org/abs/1904.07850)
 - github: [https://github.com/xingyizhou/CenterNet](https://github.com/xingyizhou/CenterNet)
