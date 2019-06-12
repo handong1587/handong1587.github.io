@@ -1718,6 +1718,11 @@ date: 2015-10-09
 - intro: ICML 2019
 - arxiv: [https://arxiv.org/abs/1905.09797](https://arxiv.org/abs/1905.09797)
 
+**On Stabilizing Generative Adversarial Training with Noise**
+
+- intro: CVPR 2019
+- arxiv: [https://arxiv.org/abs/1906.04612](https://arxiv.org/abs/1906.04612)
+
 # Low-Precision Training
 
 **Mixed Precision Training**

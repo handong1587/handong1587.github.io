@@ -2298,6 +2298,11 @@ Global Second-order Pooling Neural Networks**
 
 [https://arxiv.org/abs/1904.01866](https://arxiv.org/abs/1904.01866)
 
+**Mesh R-CNN**
+
+- intro: Facebook AI Research (FAIR)
+- arxiv: [https://arxiv.org/abs/1906.02739](https://arxiv.org/abs/1906.02739)
+
 ## Tutorials and Surveys
 
 **A Survey: Time Travel in Deep Learning Space: An Introduction to Deep Learning Models and How Deep Learning Models Evolved from the Initial Ideas**
@@ -2695,6 +2700,11 @@ joint classification, detection and semantic segmentation via a unified architec
 **Adversarial Collaboration: Joint Unsupervised Learning of Depth, Camera Motion, Optical Flow and Motion Segmentation**
 
 [https://arxiv.org/abs/1805.09806](https://arxiv.org/abs/1805.09806)
+
+**Visual Person Understanding through Multi-Task and Multi-Dataset Learning**
+
+- intro: RWTH Aachen University
+- arxiv: [https://arxiv.org/abs/1906.03019](https://arxiv.org/abs/1906.03019)
 
 ### Deep Learning for Data Structures
 

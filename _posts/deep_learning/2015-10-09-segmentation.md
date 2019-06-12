@@ -1319,6 +1319,22 @@ with built-in awareness of semantically meaningful boundaries. "
 
 [https://arxiv.org/abs/1903.05027](https://arxiv.org/abs/1903.05027)
 
+# Face Parsing
+
+**Face Parsing via Recurrent Propagation**
+
+- intro: BMVC 2017
+- arxiv: [https://arxiv.org/abs/1708.01936](https://arxiv.org/abs/1708.01936)
+
+**Face Parsing via a Fully-Convolutional Continuous CRF Neural Network**
+
+[https://arxiv.org/abs/1708.03736](https://arxiv.org/abs/1708.03736)
+
+**Face Parsing with RoI Tanh-Warping**
+
+- intro: Software School of Xiamen University & Microsoft Research
+- arxiv: [https://arxiv.org/abs/1906.01342](https://arxiv.org/abs/1906.01342)
+
 # Specific Segmentation
 
 **A CNN Cascade for Landmark Guided Semantic Part Segmentation**
@@ -1329,15 +1345,6 @@ with built-in awareness of semantically meaningful boundaries. "
 **End-to-end semantic face segmentation with conditional random fields as convolutional, recurrent and adversarial networks**
 
 - arxiv: [https://arxiv.org/abs/1703.03305](https://arxiv.org/abs/1703.03305)
-
-**Face Parsing via Recurrent Propagation**
-
-- intro: BMVC 2017
-- arxiv: [https://arxiv.org/abs/1708.01936](https://arxiv.org/abs/1708.01936)
-
-**Face Parsing via a Fully-Convolutional Continuous CRF Neural Network**
-
-[https://arxiv.org/abs/1708.03736](https://arxiv.org/abs/1708.03736)
 
 **Boundary-sensitive Network for Portrait Segmentation**
 

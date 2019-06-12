@@ -1270,6 +1270,13 @@ Continuation of [arXiv:1608.08021](https://arxiv.org/abs/1608.08021)
 
 [https://arxiv.org/abs/1905.10011](https://arxiv.org/abs/1905.10011)
 
+**Distilling Object Detectors with Fine-grained Feature Imitation**
+
+- intro: CVPR 2019
+- intro: National University of Singapore & Huawei Noah’s Ark Lab
+- arxiv: [https://arxiv.org/abs/1906.03609](https://arxiv.org/abs/1906.03609)
+- github: [https://github.com/twangnh/Distilling-Object-Detectors](https://github.com/twangnh/Distilling-Object-Detectors)
+
 # Non-Maximum Suppression (NMS)
 
 **End-to-End Integration of a Convolutional Network, Deformable Parts Model and Non-Maximum Suppression**

@@ -376,6 +376,10 @@ Compressed model is less than 500KB
 
 [https://arxiv.org/abs/1906.02470](https://arxiv.org/abs/1906.02470)
 
+**StyleNAS: An Empirical Study of Neural Architecture Search to Uncover Surprisingly Fast End-to-End Universal Style Transfer Networks**
+
+[https://arxiv.org/abs/1906.02470](https://arxiv.org/abs/1906.02470)
+
 # Neural Art On Audio
 
 **MSc AI Project on generative deep networks and neural style transfer for audio**
