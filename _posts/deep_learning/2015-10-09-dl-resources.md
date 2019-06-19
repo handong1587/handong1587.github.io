@@ -2159,8 +2159,10 @@ Global Second-order Pooling Neural Networks**
 
 **Deep Mutual Learning**
 
+- intro: CVPR 2018
 - keywords: deep mutual learning (DML)
 - arxiv: [https://arxiv.org/abs/1706.00384](https://arxiv.org/abs/1706.00384)
+- github(official, TensorFlow): [https://github.com/YingZhangDUT/Deep-Mutual-Learning](https://github.com/YingZhangDUT/Deep-Mutual-Learning)
 
 **Automated Problem Identification: Regression vs Classification via Evolutionary Deep Networks**
 
