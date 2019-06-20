@@ -1081,6 +1081,12 @@ Continuation of [arXiv:1608.08021](https://arxiv.org/abs/1608.08021)
 - intro: SenseTime
 - arxiv: [https://arxiv.org/abs/1811.12030](https://arxiv.org/abs/1811.12030)
 
+**Grid R-CNN Plus: Faster and Better**
+
+- intro: SenseTime Research & CUHK & Beihang University
+- arxiv: [https://arxiv.org/abs/1906.05688](https://arxiv.org/abs/1906.05688)
+- github: [https://github.com/STVIR/Grid-R-CNN](https://github.com/STVIR/Grid-R-CNN)
+
 **Transferable Adversarial Attacks for Image and Video Object Detection**
 
 [https://arxiv.org/abs/1811.12641](https://arxiv.org/abs/1811.12641)

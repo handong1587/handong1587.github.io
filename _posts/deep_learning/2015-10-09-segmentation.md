@@ -1173,6 +1173,7 @@ with built-in awareness of semantically meaningful boundaries. "
 **Path Aggregation Network for Instance Segmentation**
 
 - intro: CVPR 2018 Spotlight
+- intro: CUHK & Peking University & SenseTime Research & YouTu Lab
 - arxiv: [https://arxiv.org/abs/1803.01534](https://arxiv.org/abs/1803.01534)
 - github: [https://github.com/ShuLiu1993/PANet](https://github.com/ShuLiu1993/PANet)
 
@@ -1318,6 +1319,10 @@ with built-in awareness of semantically meaningful boundaries. "
 **An End-to-End Network for Panoptic Segmentation**
 
 [https://arxiv.org/abs/1903.05027](https://arxiv.org/abs/1903.05027)
+
+**Learning Instance Occlusion for Panoptic Segmentation**
+
+[https://arxiv.org/abs/1906.05896](https://arxiv.org/abs/1906.05896)
 
 # Face Parsing
 
