@@ -674,11 +674,6 @@ Continuation of [arXiv:1608.08021](https://arxiv.org/abs/1608.08021)
 - arxiv: [https://arxiv.org/abs/1707.01691](https://arxiv.org/abs/1707.01691)
 - github: [https://github.com/taokong/RON](https://github.com/taokong/RON)
 
-**Mimicking Very Efficient Network for Object Detection**
-
-- intro: CVPR 2017. SenseTime & Beihang University
-- paper: [http://openaccess.thecvf.com/content_cvpr_2017/papers/Li_Mimicking_Very_Efficient_CVPR_2017_paper.pdf](http://openaccess.thecvf.com/content_cvpr_2017/papers/Li_Mimicking_Very_Efficient_CVPR_2017_paper.pdf)
-
 **Residual Features and Unified Prediction Network for Single Stage Detection**
 
 [https://arxiv.org/abs/1707.05031](https://arxiv.org/abs/1707.05031)
@@ -905,10 +900,6 @@ Continuation of [arXiv:1608.08021](https://arxiv.org/abs/1608.08021)
 
 - intro: WOOT 2018
 - arxiv: [https://arxiv.org/abs/1807.07769](https://arxiv.org/abs/1807.07769)
-
-**Quantization Mimic: Towards Very Tiny CNN for Object Detection**
-
-[https://arxiv.org/abs/1805.02152](https://arxiv.org/abs/1805.02152)
 
 **Object detection at 200 Frames Per Second**
 
@@ -1282,14 +1273,6 @@ Continuation of [arXiv:1608.08021](https://arxiv.org/abs/1608.08021)
 
 [https://arxiv.org/abs/1905.10011](https://arxiv.org/abs/1905.10011)
 
-**Distilling Object Detectors with Fine-grained Feature Imitation**
-
-- intro: CVPR 2019
-- intro: National University of Singapore & Huawei Noah’s Ark Lab
-- keywords: mimic
-- arxiv: [https://arxiv.org/abs/1906.03609](https://arxiv.org/abs/1906.03609)
-- github: [https://github.com/twangnh/Distilling-Object-Detectors](https://github.com/twangnh/Distilling-Object-Detectors)
-
 **Learning Data Augmentation Strategies for Object Detection**
 
 - intro: Google Research, Brain Team
@@ -1357,6 +1340,26 @@ Continuation of [arXiv:1608.08021](https://arxiv.org/abs/1608.08021)
 - project page: [http://nicholas.carlini.com/code/nn_breaking_detection/](http://nicholas.carlini.com/code/nn_breaking_detection/)
 - arxiv: [https://arxiv.org/abs/1705.07263](https://arxiv.org/abs/1705.07263)
 - github: [https://github.com/carlini/nn_breaking_detection](https://github.com/carlini/nn_breaking_detection)
+
+# Mimic / Knowledge Distillation
+
+**Mimicking Very Efficient Network for Object Detection**
+
+- intro: CVPR 2017. SenseTime & Beihang University
+- paper: [http://openaccess.thecvf.com/content_cvpr_2017/papers/Li_Mimicking_Very_Efficient_CVPR_2017_paper.pdf](http://openaccess.thecvf.com/content_cvpr_2017/papers/Li_Mimicking_Very_Efficient_CVPR_2017_paper.pdf)
+
+**Quantization Mimic: Towards Very Tiny CNN for Object Detection**
+
+- intro: ECCV 2018
+- arxiv: [https://arxiv.org/abs/1805.02152](https://arxiv.org/abs/1805.02152)
+
+**Distilling Object Detectors with Fine-grained Feature Imitation**
+
+- intro: CVPR 2019
+- intro: National University of Singapore & Huawei Noah’s Ark Lab
+- keywords: mimic
+- arxiv: [https://arxiv.org/abs/1906.03609](https://arxiv.org/abs/1906.03609)
+- github: [https://github.com/twangnh/Distilling-Object-Detectors](https://github.com/twangnh/Distilling-Object-Detectors)
 
 # Weakly Supervised Object Detection
 
