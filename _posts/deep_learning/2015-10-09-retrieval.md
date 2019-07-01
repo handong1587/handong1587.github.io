@@ -371,6 +371,11 @@ date: 2015-10-09
 - intro: University of Cambridge & Google AI
 - arxiv: [https://arxiv.org/abs/1812.01584](https://arxiv.org/abs/1812.01584)
 
+**Learning with Average Precision: Training Image Retrieval with a Listwise Loss**
+
+- intro: NAVER LABS Europe
+- arxiv: [https://arxiv.org/abs/1906.07589](https://arxiv.org/abs/1906.07589)
+
 # Hashing
 
 **Supervised Hashing for Image Retrieval via Image Representation Learning**

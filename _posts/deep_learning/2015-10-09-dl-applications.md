@@ -896,6 +896,10 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 - arxiv: [https://arxiv.org/abs/1905.10085](https://arxiv.org/abs/1905.10085)
 - github: [https://github.com/gjy3035/PCC-Net](https://github.com/gjy3035/PCC-Net)
 
+**Dense Scale Network for Crowd Counting**
+
+[https://arxiv.org/abs/1906.09707](https://arxiv.org/abs/1906.09707)
+
 # Activity Recognition
 
 **Implementing a CNN for Human Activity Recognition in Tensorflow**

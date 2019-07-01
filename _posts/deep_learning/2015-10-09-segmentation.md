@@ -972,6 +972,11 @@ with built-in awareness of semantically meaningful boundaries. "
 - intro: Megvii Technology
 - arxiv: [https://arxiv.org/abs/1904.02216](https://arxiv.org/abs/1904.02216)
 
+**ESNet: An Efficient Symmetric Network for Real-time Semantic Segmentation**
+
+- arxiv: [https://arxiv.org/abs/1906.09826](https://arxiv.org/abs/1906.09826)
+- github(official): [https://github.com/xiaoyufenfei/ESNet](https://github.com/xiaoyufenfei/ESNet)
+
 # Instance Segmentation
 
 **Simultaneous Detection and Segmentation**
@@ -1949,6 +1954,11 @@ ranked 1st place in ImageNet Scene Parsing Challenge 2016
 - intro: International Conference of 3D Vision (3DV) 2017 (Spotlight). Stanford University
 - homepage: [http://segcloud.stanford.edu/](http://segcloud.stanford.edu/)
 - arxiv: [https://arxiv.org/abs/1710.07563](https://arxiv.org/abs/1710.07563)
+
+**3D Instance Segmentation via Multi-task Metric Learning**
+
+- intro: KAUST & ETH Zurich
+- arxiv: [https://arxiv.org/abs/1906.08650](https://arxiv.org/abs/1906.08650)
 
 # Leaderboard
 

@@ -2294,6 +2294,7 @@ Global Second-order Pooling Neural Networks**
 **DeepFashion2: A Versatile Benchmark for Detection, Pose Estimation, Segmentation and Re-Identification of Clothing Images**
 
 - intro: The Chinese University of Hong Kong & SenseTime Research
+- keywords: Match R-CNN
 - arxiv: [https://arxiv.org/abs/1901.07973](https://arxiv.org/abs/1901.07973)
 
 **A Comprehensive Overhaul of Feature Distillation**
@@ -2304,6 +2305,10 @@ Global Second-order Pooling Neural Networks**
 
 - intro: Facebook AI Research (FAIR)
 - arxiv: [https://arxiv.org/abs/1906.02739](https://arxiv.org/abs/1906.02739)
+
+**ViP: Virtual Pooling for Accelerating CNN-based Image Classification and Object Detection**
+
+[https://arxiv.org/abs/1906.07912](https://arxiv.org/abs/1906.07912)
 
 ## Tutorials and Surveys
 

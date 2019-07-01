@@ -147,6 +147,12 @@ date: 2015-10-09
 - arxiv: [https://arxiv.org/abs/1712.00726](https://arxiv.org/abs/1712.00726)
 - github(Caffe, official): [https://github.com/zhaoweicai/cascade-rcnn](https://github.com/zhaoweicai/cascade-rcnn)
 
+**Cascade R-CNN: High Quality Object Detection and Instance Segmentation**
+
+[https://arxiv.org/abs/1906.09756](https://arxiv.org/abs/1906.09756)
+- github(Caffe, official): [https://github.com/zhaoweicai/cascade-rcnn](https://github.com/zhaoweicai/cascade-rcnn)
+- github(official): [https://github.com/zhaoweicai/Detectron-Cascade-RCNN](https://github.com/zhaoweicai/Detectron-Cascade-RCNN)
+
 **Scalable Object Detection using Deep Neural Networks**
 
 - intro: first MultiBox. Train a CNN to predict Region of Interest.
@@ -1280,8 +1286,15 @@ Continuation of [arXiv:1608.08021](https://arxiv.org/abs/1608.08021)
 
 - intro: CVPR 2019
 - intro: National University of Singapore & Huawei Noah’s Ark Lab
+- keywords: mimic
 - arxiv: [https://arxiv.org/abs/1906.03609](https://arxiv.org/abs/1906.03609)
 - github: [https://github.com/twangnh/Distilling-Object-Detectors](https://github.com/twangnh/Distilling-Object-Detectors)
+
+**Learning Data Augmentation Strategies for Object Detection**
+
+- intro: Google Research, Brain Team
+- arxiv: [https://arxiv.org/abs/1906.11172](https://arxiv.org/abs/1906.11172)
+- github: [https://github.com/tensorflow/tpu/tree/master/models/official/detection](https://github.com/tensorflow/tpu/tree/master/models/official/detection)
 
 # Non-Maximum Suppression (NMS)
 
