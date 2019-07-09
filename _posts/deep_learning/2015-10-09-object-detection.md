@@ -1106,12 +1106,6 @@ Continuation of [arXiv:1608.08021](https://arxiv.org/abs/1608.08021)
 
 [https://arxiv.org/abs/1812.10217](https://arxiv.org/abs/1812.10217)
 
-**Learning Efficient Detector with Semi-supervised Adaptive Distillation**
-
-- intro: SenseTime Research
-- arxiv: [https://arxiv.org/abs/1901.00366](https://arxiv.org/abs/1901.00366)
-- github: [https://github.com/Tangshitao/Semi-supervised-Adaptive-Distillation](https://github.com/Tangshitao/Semi-supervised-Adaptive-Distillation)
-
 **Scale-Aware Trident Networks for Object Detection**
 
 - intro: University of Chinese Academy of Sciences & TuSimple
@@ -1353,6 +1347,12 @@ Continuation of [arXiv:1608.08021](https://arxiv.org/abs/1608.08021)
 - intro: ECCV 2018
 - arxiv: [https://arxiv.org/abs/1805.02152](https://arxiv.org/abs/1805.02152)
 
+**Learning Efficient Detector with Semi-supervised Adaptive Distillation**
+
+- intro: SenseTime Research
+- arxiv: [https://arxiv.org/abs/1901.00366](https://arxiv.org/abs/1901.00366)
+- github: [https://github.com/Tangshitao/Semi-supervised-Adaptive-Distillation](https://github.com/Tangshitao/Semi-supervised-Adaptive-Distillation)
+
 **Distilling Object Detectors with Fine-grained Feature Imitation**
 
 - intro: CVPR 2019
@@ -1360,6 +1360,10 @@ Continuation of [arXiv:1608.08021](https://arxiv.org/abs/1608.08021)
 - keywords: mimic
 - arxiv: [https://arxiv.org/abs/1906.03609](https://arxiv.org/abs/1906.03609)
 - github: [https://github.com/twangnh/Distilling-Object-Detectors](https://github.com/twangnh/Distilling-Object-Detectors)
+
+**GAN-Knowledge Distillation for one-stage Object Detection**
+
+[https://arxiv.org/abs/1906.08467](https://arxiv.org/abs/1906.08467)
 
 # Weakly Supervised Object Detection
 
@@ -1570,6 +1574,10 @@ Continuation of [arXiv:1608.08021](https://arxiv.org/abs/1608.08021)
 **Complexer-YOLO: Real-Time 3D Object Detection and Tracking on Semantic Point Clouds**
 
 [https://arxiv.org/abs/1904.07537](https://arxiv.org/abs/1904.07537)
+
+**Monocular 3D Object Detection and Box Fitting Trained End-to-End Using Intersection-over-Union Loss**
+
+[https://arxiv.org/abs/1906.08070](https://arxiv.org/abs/1906.08070)
 
 # Object Detection on RGB-D
 

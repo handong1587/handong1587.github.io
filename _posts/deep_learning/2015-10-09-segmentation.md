@@ -1245,6 +1245,11 @@ with built-in awareness of semantically meaningful boundaries. "
 - keywords: reinforcement learning
 - arxiv: [https://arxiv.org/abs/1904.05126](https://arxiv.org/abs/1904.05126)
 
+**Instance Segmentation by Jointly Optimizing Spatial Embeddings and Clustering Bandwidth**
+
+- arxiv: [https://arxiv.org/abs/1906.11109](https://arxiv.org/abs/1906.11109)
+- github: [https://github.com/davyneven/SpatialEmbeddings](https://github.com/davyneven/SpatialEmbeddings)
+
 ## Human Instance Segmentation
 
 **PersonLab: Person Pose Estimation and Instance Segmentation with a Bottom-Up, Part-Based, Geometric Embedding Model**

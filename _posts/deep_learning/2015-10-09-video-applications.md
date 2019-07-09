@@ -649,6 +649,10 @@ extract saptio-temporal features to represent the video using the CNNs."
 - intro: CVPR 2019
 - arxiv: [https://arxiv.org/abs/1905.13417](https://arxiv.org/abs/1905.13417)
 
+**Deformable Tube Network for Action Detection in Videos**
+
+[https://arxiv.org/abs/1907.01847](https://arxiv.org/abs/1907.01847)
+
 ### Projects
 
 **A Torch Library for Action Recognition and Detection Using CNNs and LSTMs**

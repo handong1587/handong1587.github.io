@@ -900,6 +900,11 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 
 [https://arxiv.org/abs/1906.09707](https://arxiv.org/abs/1906.09707)
 
+**Inverse Attention Guided Deep Crowd Counting Network**
+
+- intro: AVSS 2019
+- arxiv: [https://arxiv.org/abs/1907.01193](https://arxiv.org/abs/1907.01193)
+
 # Activity Recognition
 
 **Implementing a CNN for Human Activity Recognition in Tensorflow**

@@ -1468,6 +1468,16 @@ Global Second-order Pooling Neural Networks**
 - intro: AAAI 2019
 - arxiv: [https://arxiv.org/abs/1902.11268](https://arxiv.org/abs/1902.11268)
 
+**Accelerating Large-Kernel Convolution Using Summed-Area Tables**
+
+- intro: Princeton University
+- arxiv: [https://arxiv.org/abs/1906.11367](https://arxiv.org/abs/1906.11367)
+
+**Mapped Convolutions**
+
+- intro: University of North Carolina at Chapel Hill
+- arxiv: [https://arxiv.org/abs/1906.11096](https://arxiv.org/abs/1906.11096)
+
 ## Highway Networks
 
 **Highway Networks**
