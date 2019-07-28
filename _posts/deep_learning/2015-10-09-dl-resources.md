@@ -683,6 +683,11 @@ not just the convolutions)
 - intro: The University of Chicago & Google
 - arxiv: [https://arxiv.org/abs/1810.10703](https://arxiv.org/abs/1810.10703)
 
+**OmniNet: A unified architecture for multi-modal multi-task learning**
+
+- arxiv: [https://arxiv.org/abs/1907.07804](https://arxiv.org/abs/1907.07804)
+- github: [https://github.com/subho406/OmniNet](https://github.com/subho406/OmniNet)
+
 # Multi-modal Learning
 
 **Multimodal Deep Learning**
@@ -1388,6 +1393,12 @@ Global Second-order Pooling Neural Networks**
 
 - intro: Google AI
 - arxiv: [https://arxiv.org/abs/1905.09979](https://arxiv.org/abs/1905.09979)
+
+**MixNet: Mixed Depthwise Convolutional Kernels**
+
+- intro: BMVC 2019
+- arxiv: [https://arxiv.org/abs/1907.09595](https://arxiv.org/abs/1907.09595)
+- github: [https://github.com/tensorflow/tpu/tree/master/models/official/mnasnet/mixnet](https://github.com/tensorflow/tpu/tree/master/models/official/mnasnet/mixnet)
 
 ## Convolutions / Filters
 
@@ -2319,6 +2330,11 @@ Global Second-order Pooling Neural Networks**
 **ViP: Virtual Pooling for Accelerating CNN-based Image Classification and Object Detection**
 
 [https://arxiv.org/abs/1906.07912](https://arxiv.org/abs/1906.07912)
+
+**VarGNet: Variable Group Convolutional Neural Network for Efficient Embedded Computing**
+
+- intro: Horizon Robotics
+- arxiv: [https://arxiv.org/abs/1907.05653](https://arxiv.org/abs/1907.05653)
 
 ## Tutorials and Surveys
 

@@ -977,6 +977,12 @@ with built-in awareness of semantically meaningful boundaries. "
 - arxiv: [https://arxiv.org/abs/1906.09826](https://arxiv.org/abs/1906.09826)
 - github(official): [https://github.com/xiaoyufenfei/ESNet](https://github.com/xiaoyufenfei/ESNet)
 
+**Gated-SCNN: Gated Shape CNNs for Semantic Segmentation**
+
+- intro: NVIDIA & University of Waterloo & University of Toronto & Vector Institute
+- project page: [https://nv-tlabs.github.io/GSCNN/](https://nv-tlabs.github.io/GSCNN/)
+- arxiv: [https://arxiv.org/abs/1907.05740](https://arxiv.org/abs/1907.05740)
+
 # Instance Segmentation
 
 **Simultaneous Detection and Segmentation**
@@ -1613,6 +1619,11 @@ ranked 1st place in ImageNet Scene Parsing Challenge 2016
 - arxiv: [https://arxiv.org/abs/1809.05996](https://arxiv.org/abs/1809.05996)
 - github: [https://github.com/liutinglt/CE2P](https://github.com/liutinglt/CE2P)
 
+**Cross-Domain Complementary Learning with Synthetic Data for Multi-Person Part Segmentation**
+
+- intro: University of Washington & Microsof
+- arxiv: [https://arxiv.org/abs/1907.05193](https://arxiv.org/abs/1907.05193)
+
 # Joint Detection and Segmentation
 
 **Triply Supervised Decoder Networks for Joint Detection and Segmentation**
@@ -1874,6 +1885,12 @@ ranked 1st place in ImageNet Scene Parsing Challenge 2016
 
 - intro: Zhejiang University & SenseTime Research & Tianjin University]
 - arxiv: [https://arxiv.org/abs/1905.10064](https://arxiv.org/abs/1905.10064)
+
+**Proposal, Tracking and Segmentation (PTS): A Cascaded Network for Video Object Segmentation**
+
+- intro: Huazhong University of Science and Technology & Horizon Robotics
+- arxiv: [https://arxiv.org/abs/1907.01203](https://arxiv.org/abs/1907.01203)
+- github: [https://github.com/sydney0zq/PTSNet](https://github.com/sydney0zq/PTSNet)
 
 ## Challenge
 

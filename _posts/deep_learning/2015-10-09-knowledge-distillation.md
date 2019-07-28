@@ -80,3 +80,6 @@ date: 2015-10-09
 - intro: ICCV 2019
 - arxiv: [https://arxiv.org/abs/1907.09682](https://arxiv.org/abs/1907.09682)
 
+**Highlight Every Step: Knowledge Distillation via Collaborative Teaching**
+
+[https://arxiv.org/pdf/1907.09643.pdf](https://arxiv.org/pdf/1907.09643.pdf)

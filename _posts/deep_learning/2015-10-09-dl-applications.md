@@ -905,6 +905,16 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 - intro: AVSS 2019
 - arxiv: [https://arxiv.org/abs/1907.01193](https://arxiv.org/abs/1907.01193)
 
+**Locality-constrained Spatial Transformer Network for Video Crowd Counting**
+
+- intro: ICME 2019 Oral
+- arxiv: [https://arxiv.org/abs/1907.07911](https://arxiv.org/abs/1907.07911)
+
+**HA-CCN: Hierarchical Attention-based Crowd Counting Network**
+
+- intro: TIP 2019
+- arxiv: [https://arxiv.org/abs/1907.10255](https://arxiv.org/abs/1907.10255)
+
 # Activity Recognition
 
 **Implementing a CNN for Human Activity Recognition in Tensorflow**

@@ -715,6 +715,11 @@ Continuation of [arXiv:1608.08021](https://arxiv.org/abs/1608.08021)
 - keywords: RetinaNet
 - arxiv: [https://arxiv.org/abs/1708.02002](https://arxiv.org/abs/1708.02002)
 
+**Cascade RetinaNet: Maintaining Consistency for Single-Stage Object Detection**
+
+- intro: BMVC 2019
+- arxiv: [https://arxiv.org/abs/1907.06881](https://arxiv.org/abs/1907.06881)
+
 **Focal Loss Dense Detector for Vehicle Surveillance**
 
 [https://arxiv.org/abs/1803.01114](https://arxiv.org/abs/1803.01114)
@@ -1183,7 +1188,10 @@ Continuation of [arXiv:1608.08021](https://arxiv.org/abs/1608.08021)
 
 **FCOS: Fully Convolutional One-Stage Object Detection**
 
-[https://arxiv.org/abs/1904.01355](https://arxiv.org/abs/1904.01355)
+- intro: The University of Adelaide
+- keywords: anchor-free
+- arxiv: [https://arxiv.org/abs/1904.01355](https://arxiv.org/abs/1904.01355)
+- github: [https://github.com/tianzhi0549/FCOS/](https://github.com/tianzhi0549/FCOS/)
 
 **Libra R-CNN: Towards Balanced Learning for Object Detection**
 
@@ -1259,6 +1267,25 @@ Continuation of [arXiv:1608.08021](https://arxiv.org/abs/1608.08021)
 
 [https://arxiv.org/abs/1904.09048](https://arxiv.org/abs/1904.09048)
 
+**Exploring Object Relation in Mean Teacher for Cross-Domain Detection**
+
+- intro: CVPR 2019
+- arxiv: [https://arxiv.org/abs/1904.11245](https://arxiv.org/abs/1904.11245)
+
+**HAR-Net: Joint Learning of Hybrid Attention for Single-stage Object Detection**
+
+[https://arxiv.org/abs/1904.11141](https://arxiv.org/abs/1904.11141)
+
+**An Energy and GPU-Computation Efficient Backbone Network for Real-Time Object Detection**
+
+- intro: CVPR 2019 CEFRL Workshop
+- arxiv: [https://arxiv.org/abs/1904.09730](https://arxiv.org/abs/1904.09730)
+
+**RepPoints: Point Set Representation for Object Detection**
+
+- intro: Peking University & Tsinghua University & Microsoft Research Asia
+- arxiv: [https://arxiv.org/abs/1904.11490](https://arxiv.org/abs/1904.11490)
+
 **Object Detection in 20 Years: A Survey**
 
 [https://arxiv.org/abs/1905.05055](https://arxiv.org/abs/1905.05055)
@@ -1272,6 +1299,12 @@ Continuation of [arXiv:1608.08021](https://arxiv.org/abs/1608.08021)
 - intro: Google Research, Brain Team
 - arxiv: [https://arxiv.org/abs/1906.11172](https://arxiv.org/abs/1906.11172)
 - github: [https://github.com/tensorflow/tpu/tree/master/models/official/detection](https://github.com/tensorflow/tpu/tree/master/models/official/detection)
+
+**Towards Adversarially Robust Object Detection**
+
+- intro: ICCV 2019
+- intro: Baidu Research, Sunnyvale USA
+- arxiv: [https://arxiv.org/abs/1907.10310](https://arxiv.org/abs/1907.10310)
 
 # Non-Maximum Suppression (NMS)
 
@@ -1535,6 +1568,15 @@ Continuation of [arXiv:1608.08021](https://arxiv.org/abs/1608.08021)
 
 - intro: NLPR,CASIA & Horizon Robotics
 - arxiv: [https://arxiv.org/abs/1903.09126](https://arxiv.org/abs/1903.09126)
+
+**Sequence Level Semantics Aggregation for Video Object Detection**
+
+[https://arxiv.org/abs/1907.06390](https://arxiv.org/abs/1907.06390)
+
+**Object Detection in Video with Spatial-temporal Context Aggregation**
+
+- intro: Huazhong University of Science and Technology & Horizon Robotics Inc.
+- arxiv: [https://arxiv.org/abs/1907.04988](https://arxiv.org/abs/1907.04988)
 
 # Object Detection on Mobile Devices
 
@@ -1948,24 +1990,10 @@ Continuation of [arXiv:1608.08021](https://arxiv.org/abs/1608.08021)
 
 [https://arxiv.org/abs/1904.10633](https://arxiv.org/abs/1904.10633)
 
-**Exploring Object Relation in Mean Teacher for Cross-Domain Detection**
+**BlazeFace: Sub-millisecond Neural Face Detection on Mobile GPUs**
 
-- intro: CVPR 2019
-- arxiv: [https://arxiv.org/abs/1904.11245](https://arxiv.org/abs/1904.11245)
-
-**HAR-Net: Joint Learning of Hybrid Attention for Single-stage Object Detection**
-
-[https://arxiv.org/abs/1904.11141](https://arxiv.org/abs/1904.11141)
-
-**An Energy and GPU-Computation Efficient Backbone Network for Real-Time Object Detection**
-
-- intro: CVPR 2019 CEFRL Workshop
-- arxiv: [https://arxiv.org/abs/1904.09730](https://arxiv.org/abs/1904.09730)
-
-**RepPoints: Point Set Representation for Object Detection**
-
-- intro: Peking University & Tsinghua University & Microsoft Research Asia
-- arxiv: [https://arxiv.org/abs/1904.11490](https://arxiv.org/abs/1904.11490)
+- intro: CVPR Workshop on Computer Vision for Augmented and Virtual Reality, 2019
+- arxiv: [https://arxiv.org/abs/1907.05047](https://arxiv.org/abs/1907.05047)
 
 ## Detect Small Faces
 
