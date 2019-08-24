@@ -752,6 +752,11 @@ at INT8 deep learning operations than other FPGA DSP architectures"
 - intro: Facebook AI Research & Univ Rennes
 - arxiv: [https://arxiv.org/abs/1907.05686](https://arxiv.org/abs/1907.05686)
 
+**Differentiable Soft Quantization: Bridging Full-Precision and Low-Bit Neural Networks**
+
+- intro: ICCV 2019
+- arxiv: [https://arxiv.org/abs/1908.05033](https://arxiv.org/abs/1908.05033)
+
 # Binary Convolutional Neural Networks / Binarized Neural Networks
 
 **BinaryNet: Training Deep Neural Networks with Weights and Activations Constrained to +1 or -1**
@@ -951,6 +956,11 @@ at INT8 deep learning operations than other FPGA DSP architectures"
 - intro: WACV 2019
 - intro: Qualcomm AI Research & Lehigh University
 - arxiv: [https://arxiv.org/abs/1812.08374](https://arxiv.org/abs/1812.08374)
+
+**Learning Instance-wise Sparsity for Accelerating Deep Models**
+
+- intro: IJCAI 2019
+- arxiv: [https://arxiv.org/abs/1907.11840](https://arxiv.org/abs/1907.11840)
 
 # Code Optimization
 

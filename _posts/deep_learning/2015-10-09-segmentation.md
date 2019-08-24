@@ -983,6 +983,11 @@ with built-in awareness of semantically meaningful boundaries. "
 - project page: [https://nv-tlabs.github.io/GSCNN/](https://nv-tlabs.github.io/GSCNN/)
 - arxiv: [https://arxiv.org/abs/1907.05740](https://arxiv.org/abs/1907.05740)
 
+**DABNet: Depth-wise Asymmetric Bottleneck for Real-time Semantic Segmentation**
+
+- intro: BMVC 2019
+- arxiv: [https://arxiv.org/abs/1907.11830](https://arxiv.org/abs/1907.11830)
+
 # Instance Segmentation
 
 **Simultaneous Detection and Segmentation**
@@ -1891,6 +1896,12 @@ ranked 1st place in ImageNet Scene Parsing Challenge 2016
 - intro: Huazhong University of Science and Technology & Horizon Robotics
 - arxiv: [https://arxiv.org/abs/1907.01203](https://arxiv.org/abs/1907.01203)
 - github: [https://github.com/sydney0zq/PTSNet](https://github.com/sydney0zq/PTSNet)
+
+**RANet: Ranking Attention Network for Fast Video Object Segmentation**
+
+- intro: ICCV 2019
+- arxiv: [https://arxiv.org/abs/1908.06647](https://arxiv.org/abs/1908.06647)
+- github: [https://github.com/Storife/RANet](https://github.com/Storife/RANet)
 
 ## Challenge
 

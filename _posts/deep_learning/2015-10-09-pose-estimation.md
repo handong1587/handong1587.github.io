@@ -313,6 +313,11 @@ date: 2015-10-09
 
 [https://arxiv.org/abs/1905.05355](https://arxiv.org/abs/1905.05355)
 
+**FastPose: Towards Real-time Pose Estimation and Tracking via Scale-normalized Multi-task Networks**
+
+- intro: Chinese Academy of Sciences & BUPT & Horizon Robotics
+- arxiv: [https://arxiv.org/abs/1908.06290](https://arxiv.org/abs/1908.06290)
+
 # 3D Pose
 
 **Can 3D Pose be Learned from 2D Projections Alone?**
@@ -356,6 +361,13 @@ date: 2015-10-09
 
 - intro: Cloudwalk & Shanghai Jiao Tong University
 - arxiv: [https://arxiv.org/abs/1903.10153](https://arxiv.org/abs/1903.10153)
+
+**Camera Distance-aware Top-down Approach for 3D Multi-person Pose Estimation from a Single RGB Image**
+
+- intro: ICCV 2019
+- arxiv: [https://arxiv.org/abs/1907.11346](https://arxiv.org/abs/1907.11346)
+- github: [https://github.com/mks0601/3DMPPE_ROOTNET_RELEASE](https://github.com/mks0601/3DMPPE_ROOTNET_RELEASE)
+- github: [https://github.com/mks0601/3DMPPE_POSENET_RELEASE](https://github.com/mks0601/3DMPPE_POSENET_RELEASE)
 
 # Pose Tracking
 

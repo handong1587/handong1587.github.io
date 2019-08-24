@@ -915,6 +915,15 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 - intro: TIP 2019
 - arxiv: [https://arxiv.org/abs/1907.10255](https://arxiv.org/abs/1907.10255)
 
+Learn to Scale: Generating Multipolar Normalized Density Map for Crowd Counting**
+
+- intro: ICCV 2019
+- arxiv: [https://arxiv.org/abs/1907.12428](https://arxiv.org/abs/1907.12428)**
+
+**Deep Density-aware Count Regressor**
+
+[https://arxiv.org/abs/1908.03314](https://arxiv.org/abs/1908.03314)
+
 # Activity Recognition
 
 **Implementing a CNN for Human Activity Recognition in Tensorflow**
@@ -2229,6 +2238,11 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 
 - intro: CVPR 2019
 - arxiv: [https://arxiv.org/abs/1905.10107](https://arxiv.org/abs/1905.10107)
+
+**OmniMVS: End-to-End Learning for Omnidirectional Stereo Matching**
+
+- intro: ICCV 2019
+- arxiv: [https://arxiv.org/abs/1908.06257](https://arxiv.org/abs/1908.06257)
 
 # Optical Flow
 

@@ -579,6 +579,12 @@ L**earning a Deep ConvNet for Multi-label Classification with Partial Labels**
 
 [https://paperswithcode.com/task/pedestrian-attribute-recognition/codeless](https://paperswithcode.com/task/pedestrian-attribute-recognition/codeless)
 
+**Attribute Aware Pooling for Pedestrian Attribute Recognition**
+
+- intro: IJCAI 2019
+- intro: Huawei Noah’s Ark Lab & University of Sydney
+- arxiv: [https://arxiv.org/abs/1907.11837](https://arxiv.org/abs/1907.11837)
+
 # Clothes Recognition
 
 **DeepFashion: Powering Robust Clothes Recognition and Retrieval with Rich Annotations**

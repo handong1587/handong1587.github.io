@@ -1489,6 +1489,24 @@ Global Second-order Pooling Neural Networks**
 - intro: University of North Carolina at Chapel Hill
 - arxiv: [https://arxiv.org/abs/1906.11096](https://arxiv.org/abs/1906.11096)
 
+**Universal Pooling -- A New Pooling Method for Convolutional Neural Networks**
+
+[https://arxiv.org/abs/1907.11440](https://arxiv.org/abs/1907.11440)
+
+**Dilated Point Convolutions: On the Receptive Field of Point Convolutions**
+
+[https://arxiv.org/abs/1907.12046](https://arxiv.org/abs/1907.12046)
+
+**LIP: Local Importance-based Pooling**
+
+- intro: ICCV 2019
+- arxiv: [https://arxiv.org/abs/1908.04156](https://arxiv.org/abs/1908.04156)
+
+**Deep Generalized Max Pooling**
+
+- intro: ICDAR
+- arxiv: [https://arxiv.org/abs/1908.05040](https://arxiv.org/abs/1908.05040)
+
 ## Highway Networks
 
 **Highway Networks**

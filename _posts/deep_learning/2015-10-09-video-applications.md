@@ -340,6 +340,10 @@ date: 2015-10-09
 - intro: Facebook AI
 - arxiv: [https://arxiv.org/abs/1904.02811](https://arxiv.org/abs/1904.02811)
 
+**Two-Stream Video Classification with Cross-Modality Attention**
+
+[https://arxiv.org/abs/1908.00497](https://arxiv.org/abs/1908.00497)
+
 ## Action Detection / Activity Recognition
 
 **3d convolutional neural networks for human action recognition**

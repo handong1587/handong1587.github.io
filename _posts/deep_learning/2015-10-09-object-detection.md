@@ -1306,6 +1306,44 @@ Continuation of [arXiv:1608.08021](https://arxiv.org/abs/1608.08021)
 - intro: Baidu Research, Sunnyvale USA
 - arxiv: [https://arxiv.org/abs/1907.10310](https://arxiv.org/abs/1907.10310)
 
+**Rethinking Classification and Localization for Cascade R-CNN**
+
+- intro: BMVC 2019
+- arxiv: [https://arxiv.org/abs/1907.11914](https://arxiv.org/abs/1907.11914)
+
+**Reprojection R-CNN: A Fast and Accurate Object Detector for 360° Images**
+
+- intro: Peking University
+- arxiv: [https://arxiv.org/abs/1907.11830](https://arxiv.org/abs/1907.11830)
+
+**Object as Distribution**
+
+- intro: NeurIPS 2019
+- intro: MIT
+- arxiv: [https://arxiv.org/abs/1907.12929](https://arxiv.org/abs/1907.12929)
+
+**Propose-and-Attend Single Shot Detector**
+
+[https://arxiv.org/abs/1907.12736](https://arxiv.org/abs/1907.12736)
+
+**IoU-balanced Loss Functions for Single-stage Object Detection**
+
+- intro: HUST
+- arxiv: [https://arxiv.org/abs/1908.05641](https://arxiv.org/abs/1908.05641)
+
+**PosNeg-Balanced Anchors with Aligned Features for Single-Shot Object Detection**
+
+[https://arxiv.org/abs/1908.03295](https://arxiv.org/abs/1908.03295)
+
+**Detecting 11K Classes: Large Scale Object Detection without Fine-Grained Bounding Boxes**
+
+- intro: ICCV 2019
+- arxiv: [https://arxiv.org/abs/1908.05217](https://arxiv.org/abs/1908.05217)
+
+**R3Det: Refined Single-Stage Detector with Feature Refinement for Rotating Object**
+
+[https://arxiv.org/abs/1908.05612](https://arxiv.org/abs/1908.05612)
+
 # Non-Maximum Suppression (NMS)
 
 **End-to-End Integration of a Convolutional Network, Deformable Parts Model and Non-Maximum Suppression**
@@ -1578,6 +1616,11 @@ Continuation of [arXiv:1608.08021](https://arxiv.org/abs/1608.08021)
 - intro: Huazhong University of Science and Technology & Horizon Robotics Inc.
 - arxiv: [https://arxiv.org/abs/1907.04988](https://arxiv.org/abs/1907.04988)
 
+**A Delay Metric for Video Object Detection: What Average Precision Fails to Tell**
+
+- intro: ICCV 2019
+- arxiv: [https://arxiv.org/abs/1908.06368](https://arxiv.org/abs/1908.06368)
+
 # Object Detection on Mobile Devices
 
 **Pelee: A Real-Time Object Detection System on Mobile Devices**
@@ -1592,6 +1635,11 @@ Continuation of [arXiv:1608.08021](https://arxiv.org/abs/1608.08021)
 **Vote3Deep: Fast Object Detection in 3D Point Clouds Using Efficient Convolutional Neural Networks**
 
 - arxiv: [https://arxiv.org/abs/1609.06666](https://arxiv.org/abs/1609.06666)
+
+**VoxelNet: End-to-End Learning for Point Cloud Based 3D Object Detection**
+
+- intro: Apple Inc
+- arxiv: [https://arxiv.org/abs/1711.06396](https://arxiv.org/abs/1711.06396)
 
 **Complex-YOLO: Real-time 3D Object Detection on Point Clouds**
 
@@ -1620,6 +1668,16 @@ Continuation of [arXiv:1608.08021](https://arxiv.org/abs/1608.08021)
 **Monocular 3D Object Detection and Box Fitting Trained End-to-End Using Intersection-over-Union Loss**
 
 [https://arxiv.org/abs/1906.08070](https://arxiv.org/abs/1906.08070)
+
+**IoU Loss for 2D/3D Object Detection**
+
+- intro: 3d vision 2019
+- arxiv: [https://arxiv.org/abs/1908.03851](https://arxiv.org/abs/1908.03851)
+
+**Fast Point R-CNN**
+
+- intro: CUHK & Tencent YouTu Lab
+- arxiv: [https://arxiv.org/abs/1908.02990](https://arxiv.org/abs/1908.02990)
 
 # Object Detection on RGB-D
 

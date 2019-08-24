@@ -316,6 +316,14 @@ L**ow-Resolution Face Recognition**
 
 [https://arxiv.org/abs/1905.10620](https://arxiv.org/abs/1905.10620)
 
+**Attentional Feature-Pair Relation Networks for Accurate Face Recognition**
+
+[https://arxiv.org/abs/1908.06255](https://arxiv.org/abs/1908.06255)
+
+**Occlusion Robust Face Recognition Based on Mask Learning with PairwiseDifferential Siamese Network**
+
+[https://arxiv.org/abs/1908.06290](https://arxiv.org/abs/1908.06290)
+
 # Face Verification
 
 **Deep Learning Face Representation by Joint Identification-Verification**

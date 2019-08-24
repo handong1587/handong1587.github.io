@@ -376,6 +376,10 @@ date: 2015-10-09
 - intro: NAVER LABS Europe
 - arxiv: [https://arxiv.org/abs/1906.07589](https://arxiv.org/abs/1906.07589)
 
+**A Benchmark on Tricks for Large-scale Image Retrieval**
+
+- arxiv: [https://arxiv.org/abs/1907.11854](https://arxiv.org/abs/1907.11854)
+
 # Hashing
 
 **Supervised Hashing for Image Retrieval via Image Representation Learning**
