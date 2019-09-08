@@ -324,6 +324,11 @@ L**ow-Resolution Face Recognition**
 
 [https://arxiv.org/abs/1908.06290](https://arxiv.org/abs/1908.06290)
 
+**Towards Flops-constrained Face Recognition**
+
+- intro: ICCV 2019 LFR workshop
+- arxiv: [https://arxiv.org/abs/1909.00632](https://arxiv.org/abs/1909.00632)
+
 # Face Verification
 
 **Deep Learning Face Representation by Joint Identification-Verification**

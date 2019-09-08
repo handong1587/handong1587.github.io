@@ -1400,6 +1400,12 @@ Global Second-order Pooling Neural Networks**
 - arxiv: [https://arxiv.org/abs/1907.09595](https://arxiv.org/abs/1907.09595)
 - github: [https://github.com/tensorflow/tpu/tree/master/models/official/mnasnet/mixnet](https://github.com/tensorflow/tpu/tree/master/models/official/mnasnet/mixnet)
 
+**HarDNet: A Low Memory Traffic Network**
+
+- intro: ICCV 2019
+- intro: National Tsing Hua University & University of Michigan
+- arxiv: [https://arxiv.org/abs/1909.00948](https://arxiv.org/abs/1909.00948)
+
 ## Convolutions / Filters
 
 **Warped Convolutions: Efficient Invariance to Spatial Transformations**

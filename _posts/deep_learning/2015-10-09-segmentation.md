@@ -167,6 +167,11 @@ date: 2015-10-09
 - github: [https://github.com/jakeret/tf_unet](https://github.com/jakeret/tf_unet)
 - notes: [http://zongwei.leanote.com/post/Pa](http://zongwei.leanote.com/post/Pa)
 
+**UNet++: A Nested U-Net Architecture for Medical Image Segmentation**
+
+- intro: 4th Deep Learning in Medical Image Analysis (DLMIA) Workshop
+- arxiv: [https://arxiv.org/abs/1807.10165](https://arxiv.org/abs/1807.10165)
+
 **DeepUNet: A Deep Fully Convolutional Network for Pixel-level Sea-Land Segmentation**
 
 [https://arxiv.org/abs/1709.00201](https://arxiv.org/abs/1709.00201)
@@ -1260,6 +1265,12 @@ with built-in awareness of semantically meaningful boundaries. "
 
 - arxiv: [https://arxiv.org/abs/1906.11109](https://arxiv.org/abs/1906.11109)
 - github: [https://github.com/davyneven/SpatialEmbeddings](https://github.com/davyneven/SpatialEmbeddings)
+
+**SSAP: Single-Shot Instance Segmentation With Affinity Pyramid**
+
+- intro: ICCV 2019
+- intro: Chinese Academy of Sciences & Horizon Robotics, Inc
+- arxiv: [https://arxiv.org/abs/1909.01616](https://arxiv.org/abs/1909.01616)
 
 ## Human Instance Segmentation
 

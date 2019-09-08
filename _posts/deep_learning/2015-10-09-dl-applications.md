@@ -865,7 +865,9 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 
 **Context-Aware Crowd Counting**
 
-[https://arxiv.org/abs/1811.10452](https://arxiv.org/abs/1811.10452)
+- intro: CVPR 2019
+- arxiv: [https://arxiv.org/abs/1811.10452](https://arxiv.org/abs/1811.10452)
+- github: [https://github.com/weizheliu/Context-Aware-Crowd-Counting](https://github.com/weizheliu/Context-Aware-Crowd-Counting)
 
 **ADCrowdNet: An Attention-injective Deformable Convolutional Network for Crowd Understanding**
 
@@ -923,6 +925,16 @@ Learn to Scale: Generating Multipolar Normalized Density Map for Crowd Counting*
 **Deep Density-aware Count Regressor**
 
 [https://arxiv.org/abs/1908.03314](https://arxiv.org/abs/1908.03314)
+
+**Crowd Counting with Deep Structured Scale Integration Network**
+
+- intro: ICCV 2019
+- arxiv: [https://arxiv.org/abs/1908.08692](https://arxiv.org/abs/1908.08692)
+
+**Multi-Level Bottom-Top and Top-Bottom Feature Fusion for Crowd Counting**
+
+- intro: ICCV 2019
+- arxiv: [https://arxiv.org/abs/1908.10937](https://arxiv.org/abs/1908.10937)
 
 # Activity Recognition
 
