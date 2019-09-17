@@ -311,7 +311,7 @@ date: 2015-10-09
 - intro: TIP 2019
 - arxiv: [https://arxiv.org/abs/1907.10255](https://arxiv.org/abs/1907.10255)
 
-Learn to Scale: Generating Multipolar Normalized Density Map for Crowd Counting**
+**Learn to Scale: Generating Multipolar Normalized Density Map for Crowd Counting**
 
 - intro: ICCV 2019
 - arxiv: [https://arxiv.org/abs/1907.12428](https://arxiv.org/abs/1907.12428)**
