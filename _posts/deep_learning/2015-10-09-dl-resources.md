@@ -688,6 +688,11 @@ not just the convolutions)
 - arxiv: [https://arxiv.org/abs/1907.07804](https://arxiv.org/abs/1907.07804)
 - github: [https://github.com/subho406/OmniNet](https://github.com/subho406/OmniNet)
 
+**Deep Elastic Networks with Model Selection for Multi-Task Learning**
+
+- intro: ICCV 2019
+- arxiv: [https://arxiv.org/abs/1909.04860](https://arxiv.org/abs/1909.04860)
+
 # Multi-modal Learning
 
 **Multimodal Deep Learning**

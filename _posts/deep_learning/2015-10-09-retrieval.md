@@ -906,6 +906,11 @@ date: 2015-10-09
 - intro: CVPR 2019 oral
 - arxiv: [https://arxiv.org/abs/1904.09626](https://arxiv.org/abs/1904.09626)
 
+**SoftTriple Loss: Deep Metric Learning Without Triplet Sampling**
+
+- intro: ICCV 2019
+- arxiv: [https://arxiv.org/abs/1909.05235](https://arxiv.org/abs/1909.05235)
+
 # Talks / Slides
 
 **TiefVision: end-to-end image similarity search engine**

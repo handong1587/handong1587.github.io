@@ -744,6 +744,7 @@ Continuation of [arXiv:1608.08021](https://arxiv.org/abs/1608.08021)
 
 **Region Proposal by Guided Anchoring**
 
+- intro: CVPR 2019
 - intro: CUHK - SenseTime Joint Lab & Amazon Rekognition & Nanyang Technological University
 - arxiv: [https://arxiv.org/abs/1901.03278](https://arxiv.org/abs/1901.03278)
 
@@ -909,6 +910,11 @@ Continuation of [arXiv:1608.08021](https://arxiv.org/abs/1608.08021)
 - intro: ICCV 2019
 - arxiv: [https://arxiv.org/abs/1908.09511](https://arxiv.org/abs/1908.09511)
 
+**Imbalance Problems in Object Detection: A Review**
+
+- arxiv: [https://arxiv.org/abs/1909.00169](https://arxiv.org/abs/1909.00169)
+- github: [https://github.com/kemaloksuz/ObjectDetectionImbalance](https://github.com/kemaloksuz/ObjectDetectionImbalance)
+
 **FreeAnchor: Learning to Match Anchors for Visual Object Detection**
 
 - intro: NeurIPS 2019
@@ -922,6 +928,11 @@ Continuation of [arXiv:1608.08021](https://arxiv.org/abs/1608.08021)
 
 - intro: ICCV 2019 oral
 - arxiv: [https://arxiv.org/abs/1909.00597](https://arxiv.org/abs/1909.00597)
+
+**CBNet: A Novel Composite Backbone Network Architecture for Object Detection**
+
+- arxiv: [https://arxiv.org/abs/1909.03625](https://arxiv.org/abs/1909.03625)
+- github: [https://github.com/PKUbahuangliuhe/CBNet](https://github.com/PKUbahuangliuhe/CBNet)
 
 # Two-Stage Object Detection
 
@@ -1028,6 +1039,12 @@ Continuation of [arXiv:1608.08021](https://arxiv.org/abs/1608.08021)
 [https://arxiv.org/abs/1906.09756](https://arxiv.org/abs/1906.09756)
 - github(Caffe, official): [https://github.com/zhaoweicai/cascade-rcnn](https://github.com/zhaoweicai/cascade-rcnn)
 - github(official): [https://github.com/zhaoweicai/Detectron-Cascade-RCNN](https://github.com/zhaoweicai/Detectron-Cascade-RCNN)
+
+**Cascade RPN: Delving into High-Quality Region Proposal Network with Adaptive Convolution**
+
+- intro: NeurIPS 2019 spotlight
+- arxiv: [https://arxiv.org/abs/1909.06720](https://arxiv.org/abs/1909.06720)
+- github: [https://github.com/thangvubk/Cascade-RPN](https://github.com/thangvubk/Cascade-RPN)
 
 **SMC Faster R-CNN: Toward a scene-specialized multi-object detector**
 
@@ -1281,6 +1298,7 @@ Continuation of [arXiv:1608.08021](https://arxiv.org/abs/1608.08021)
 **Cascade RetinaNet: Maintaining Consistency for Single-Stage Object Detection**
 
 - intro: BMVC 2019
+- keywords: Cas-RetinaNet, Feature Consistency Module
 - arxiv: [https://arxiv.org/abs/1907.06881](https://arxiv.org/abs/1907.06881)
 
 **Focal Loss Dense Detector for Vehicle Surveillance**
@@ -1333,6 +1351,11 @@ Continuation of [arXiv:1608.08021](https://arxiv.org/abs/1608.08021)
 **A Single-shot Object Detector with Feature Aggragation and Enhancement**
 
 [https://arxiv.org/abs/1902.02923](https://arxiv.org/abs/1902.02923)
+
+**Towards Accurate One-Stage Object Detection with AP-Loss**
+
+- intro: CVPR 2019
+- arxiv: {https://arxiv.org/abs/1904.06373}(https://arxiv.org/abs/1904.06373)
 
 **HAR-Net: Joint Learning of Hybrid Attention for Single-stage Object Detection**
 
@@ -2346,6 +2369,11 @@ Continuation of [arXiv:1608.08021](https://arxiv.org/abs/1608.08021)
 - intro: CVPR 2019 oral
 - arxiv: [https://arxiv.org/abs/1904.03629](https://arxiv.org/abs/1904.03629)
 
+**PedHunter: Occlusion Robust Pedestrian Detector in Crowded Scenes**
+
+- keywords: SUR-PED
+- arxiv: [https://arxiv.org/abs/1909.06826](https://arxiv.org/abs/1909.06826)
+
 ## Multispectral Pedestrian Detection
 
 **Multispectral Deep Neural Networks for Pedestrian Detection**
@@ -2778,6 +2806,11 @@ Continuation of [arXiv:1608.08021](https://arxiv.org/abs/1608.08021)
 
 - intro: FAIR's research platform for object detection research, implementing popular algorithms like Mask R-CNN and RetinaNet.
 - github: [https://github.com/facebookresearch/Detectron](https://github.com/facebookresearch/Detectron)
+
+**MMDetection: Open MMLab Detection Toolbox and Benchmark**
+
+- arxiv: [https://arxiv.org/abs/1906.07155](https://arxiv.org/abs/1906.07155)
+- github: [https://github.com/open-mmlab/mmdetection](https://github.com/open-mmlab/mmdetection)
 
 **TensorBox: a simple framework for training neural networks to detect objects in images**
 

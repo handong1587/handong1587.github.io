@@ -993,6 +993,15 @@ with built-in awareness of semantically meaningful boundaries. "
 - intro: BMVC 2019
 - arxiv: [https://arxiv.org/abs/1907.11830](https://arxiv.org/abs/1907.11830)
 
+**Squeeze-and-Attention Networks for Semantic Segmentation**
+
+[https://arxiv.org/abs/1909.03402](https://arxiv.org/abs/1909.03402)
+
+**Global Aggregation then Local Distribution in Fully Convolutional Networks**
+
+- intro: BMVC 2019
+- arxiv: [https://arxiv.org/abs/1909.07229](https://arxiv.org/abs/1909.07229)
+
 # Instance Segmentation
 
 **Simultaneous Detection and Segmentation**
