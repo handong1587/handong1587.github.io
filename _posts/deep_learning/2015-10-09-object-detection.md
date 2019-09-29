@@ -934,6 +934,11 @@ Continuation of [arXiv:1608.08021](https://arxiv.org/abs/1608.08021)
 - arxiv: [https://arxiv.org/abs/1909.03625](https://arxiv.org/abs/1909.03625)
 - github: [https://github.com/PKUbahuangliuhe/CBNet](https://github.com/PKUbahuangliuhe/CBNet)
 
+**A System-Level Solution for Low-Power Object Detection**
+
+- intro: ICCV 2019 Low-Power Computer Vision Workshop
+- arxiv: [https://arxiv.org/abs/1909.10964](https://arxiv.org/abs/1909.10964)
+
 # Two-Stage Object Detection
 
 ## R-CNN
@@ -1490,6 +1495,11 @@ Continuation of [arXiv:1608.08021](https://arxiv.org/abs/1608.08021)
 **GAN-Knowledge Distillation for one-stage Object Detection**
 
 [https://arxiv.org/abs/1906.08467](https://arxiv.org/abs/1906.08467)
+
+**Learning Lightweight Pedestrian Detector with Hierarchical Knowledge Distillation**
+
+- intro: ICIP 2019 oral
+- arxiv: [https://arxiv.org/abs/1909.09325](https://arxiv.org/abs/1909.09325)
 
 # Weakly Supervised Object Detection
 
@@ -2176,6 +2186,11 @@ Continuation of [arXiv:1608.08021](https://arxiv.org/abs/1608.08021)
 - arxiv: [https://arxiv.org/abs/1809.08766](https://arxiv.org/abs/1809.08766)
 - github(PyTorch, official): [https://github.com/aditya-vora/FCHD-Fully-Convolutional-Head-Detector](https://github.com/aditya-vora/FCHD-Fully-Convolutional-Head-Detector)
 
+**Relational Learning for Joint Head and Human Detection**
+
+- keywords: JointDet, head-body Relationship Discriminating Module (RDM)
+- arxiv: [https://arxiv.org/abs/1909.10674](https://arxiv.org/abs/1909.10674)
+
 # Pedestrian Detection / People Detection
 
 **Pedestrian Detection aided by Deep Learning Semantic Tasks**
@@ -2373,6 +2388,11 @@ Continuation of [arXiv:1608.08021](https://arxiv.org/abs/1608.08021)
 
 - keywords: SUR-PED
 - arxiv: [https://arxiv.org/abs/1909.06826](https://arxiv.org/abs/1909.06826)
+
+**Double Anchor R-CNN for Human Detection in a Crowd**
+
+- intro: Megvii Inc. (Face++) & Tsinghua University & Xi’an Jiaotong University & Zhejiang University
+- arxiv: [https://arxiv.org/abs/1909.09998](https://arxiv.org/abs/1909.09998https://arxiv.org/abs/1909.09998)
 
 ## Multispectral Pedestrian Detection
 
@@ -2652,6 +2672,11 @@ Continuation of [arXiv:1608.08021](https://arxiv.org/abs/1608.08021)
 - project page: [https://gaochen315.github.io/iCAN/](https://gaochen315.github.io/iCAN/)
 - arxiv: [https://arxiv.org/abs/1808.10437](https://arxiv.org/abs/1808.10437)
 - github: [https://github.com/vt-vl-lab/iCAN](https://github.com/vt-vl-lab/iCAN)
+
+**Pose-aware Multi-level Feature Network for Human Object Interaction Detection**
+
+- intro: ICCV 2019
+- arxiv: [https://arxiv.org/abs/1909.08453](https://arxiv.org/abs/1909.08453)
 
 **Densely Supervised Grasp Detector (DSGD)**
 

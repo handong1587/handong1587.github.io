@@ -1645,6 +1645,12 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 - intro: IEEE Transactions on Multimedia, 2017
 - arxiv: [https://arxiv.org/abs/1712.09048](https://arxiv.org/abs/1712.09048)
 
+**Grid Anchor based Image Cropping: A New Benchmark and An Efficient Model**
+
+- intro: CVPR 2019
+- arxiv: [https://arxiv.org/abs/1909.08989](https://arxiv.org/abs/1909.08989)
+- github: [https://github.com/HuiZeng/Grid-Anchor-based-Image-Cropping-Pytorch](https://github.com/HuiZeng/Grid-Anchor-based-Image-Cropping-Pytorch)
+
 # Image Synthesis
 
 **Combining Markov Random Fields and Convolutional Neural Networks for Image Synthesis**
@@ -1931,6 +1937,11 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 
 - intro: ICCV 2019
 - arxiv: [https://arxiv.org/abs/1908.06257](https://arxiv.org/abs/1908.06257)
+
+**DeepPruner: Learning Efficient Stereo Matching via Differentiable PatchMatch**
+
+- intro: ICCV 2019
+- arxiv: [https://arxiv.org/abs/1909.05845](https://arxiv.org/abs/1909.05845)
 
 # Optical Flow
 

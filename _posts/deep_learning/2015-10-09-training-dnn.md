@@ -1408,6 +1408,17 @@ date: 2015-10-09
 
 [https://arxiv.org/abs/1811.10669](https://arxiv.org/abs/1811.10669)
 
+**Adversarial Learning of General Transformations for Data Augmentation**
+
+- intro: Ecole de Technologie Sup ´ erieure & Element AI
+- arxiv: [https://arxiv.org/abs/1909.09801](https://arxiv.org/abs/1909.09801)
+
+**Implicit Semantic Data Augmentation for Deep Networks**
+
+- intro: NeurIPS 2019
+- arxiv: [https://arxiv.org/abs/1909.12220](https://arxiv.org/abs/1909.12220)
+- github(official): [https://github.com/blackfeather-wang/ISDA-for-Deep-Networks](https://github.com/blackfeather-wang/ISDA-for-Deep-Networks)
+
 ## Imbalanced Datasets
 
 **Investigation on handling Structured & Imbalanced Datasets with Deep Learning**
@@ -1722,6 +1733,13 @@ date: 2015-10-09
 
 - intro: CVPR 2019
 - arxiv: [https://arxiv.org/abs/1906.04612](https://arxiv.org/abs/1906.04612)
+
+**Adversarial Learning with Margin-based Triplet Embedding Regularization**
+
+- intro: ICCV 2019
+- intro: BUPT
+- arxiv: [https://arxiv.org/abs/1909.09481](https://arxiv.org/abs/1909.09481)
+- github: [https://github.com/zhongyy/Adversarial_MTER](https://github.com/zhongyy/Adversarial_MTER)
 
 # Low-Precision Training
 

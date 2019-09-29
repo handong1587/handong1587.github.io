@@ -305,6 +305,8 @@ date: 2015-10-09
 **Deep High-Resolution Representation Learning for Human Pose Estimation**
 
 - intro: CVPR 2019
+- intro: University of Science and Technology of China & Microsoft Research Asia
+- keywords: HRNet
 - arxiv: [https://arxiv.org/abs/1902.09212](https://arxiv.org/abs/1902.09212)
 - project page: [https://jingdongwang2017.github.io/Projects/HRNet/PoseEstimation.html](https://jingdongwang2017.github.io/Projects/HRNet/PoseEstimation.html)
 - github(official): [https://github.com/leoxiaobin/deep-high-resolution-net.pytorch](https://github.com/leoxiaobin/deep-high-resolution-net.pytorch)

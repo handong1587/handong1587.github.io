@@ -1001,6 +1001,22 @@ with built-in awareness of semantically meaningful boundaries. "
 
 - intro: BMVC 2019
 - arxiv: [https://arxiv.org/abs/1909.07229](https://arxiv.org/abs/1909.07229)
+- github: [https://github.com/lxtGH/GALD-Net](https://github.com/lxtGH/GALD-Net)
+
+**Graph-guided Architecture Search for Real-time Semantic Segmentation**
+
+[https://arxiv.org/abs/1909.06793](https://arxiv.org/abs/1909.06793)
+
+**Feature Pyramid Encoding Network for Real-time Semantic Segmentation**
+
+- intro: BMVC 2019
+- arxiv: [https://arxiv.org/abs/1909.08599](https://arxiv.org/abs/1909.08599)
+
+**ACFNet: Attentional Class Feature Network for Semantic Segmentation**
+
+- intro: ICCV 2019
+- arxiv: [https://arxiv.org/abs/1909.09408](https://arxiv.org/abs/1909.09408)
+
 
 # Instance Segmentation
 

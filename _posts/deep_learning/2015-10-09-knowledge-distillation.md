@@ -83,3 +83,12 @@ date: 2015-10-09
 **Highlight Every Step: Knowledge Distillation via Collaborative Teaching**
 
 [https://arxiv.org/pdf/1907.09643.pdf](https://arxiv.org/pdf/1907.09643.pdf)
+
+**Ensemble Knowledge Distillation for Learning Improved and Efficient Networks**
+
+[https://arxiv.org/abs/1909.08097](https://arxiv.org/abs/1909.08097)
+
+**Revisit Knowledge Distillation: a Teacher-free Framework**
+
+- arxiv: [https://arxiv.org/abs/1909.11723](https://arxiv.org/abs/1909.11723)
+- github: [https://github.com/yuanli2333/Teacher-free-Knowledge-Distillation](https://github.com/yuanli2333/Teacher-free-Knowledge-Distillation)

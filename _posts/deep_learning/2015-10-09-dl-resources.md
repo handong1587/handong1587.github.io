@@ -1518,6 +1518,11 @@ Global Second-order Pooling Neural Networks**
 - intro: ICDAR
 - arxiv: [https://arxiv.org/abs/1908.05040](https://arxiv.org/abs/1908.05040)
 
+**MixConv: Mixed Depthwise Convolutional Kernels**
+
+- intro:BMVC 2019
+- arxiv: [https://arxiv.org/abs/1907.09595](https://arxiv.org/abs/1907.09595)
+
 ## Highway Networks
 
 **Highway Networks**
@@ -2364,6 +2369,11 @@ Global Second-order Pooling Neural Networks**
 
 - intro: Horizon Robotics
 - arxiv: [https://arxiv.org/abs/1907.05653](https://arxiv.org/abs/1907.05653)
+
+**Anchor Loss: Modulating Loss Scale based on Prediction Difficulty**
+
+- intro: ICCV 2019 oral
+- arxiv: [https://arxiv.org/abs/1909.11155](https://arxiv.org/abs/1909.11155)
 
 ## Tutorials and Surveys
 

@@ -463,6 +463,10 @@ at INT8 deep learning operations than other FPGA DSP architectures"
 
 [https://arxiv.org/abs/1903.04988](https://arxiv.org/abs/1903.04988)
 
+**FALCON: Fast and Lightweight Convolution for Compressing and Accelerating CNN**
+
+[https://arxiv.org/abs/1909.11321](https://arxiv.org/abs/1909.11321)
+
 # Compressing Deep Neural Network
 
 **Deep k-Means: Re-Training and Parameter Sharing with Harder Cluster Assignments for Compressing Deep Convolutions**
