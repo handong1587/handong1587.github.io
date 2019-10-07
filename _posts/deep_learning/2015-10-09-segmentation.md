@@ -328,6 +328,17 @@ date: 2015-10-09
 - intro: MIT & Google Inc. & UC Berkeley
 - arxiv: [https://arxiv.org/abs/1902.05093](https://arxiv.org/abs/1902.05093)
 
+## Auto-DeepLab
+
+**Auto-DeepLab: Hierarchical Neural Architecture Search for Semantic Image Segmentation**
+
+- intro: CVPR 2019 oral
+- intro: Johns Hopkins University & Google & Stanford University
+- arxiv: [https://arxiv.org/abs/1901.02985](https://arxiv.org/abs/1901.02985)
+- github: [https://github.com/tensorflow/models/tree/master/research/deeplab](https://github.com/tensorflow/models/tree/master/research/deeplab)
+
+- - -
+
 **Conditional Random Fields as Recurrent Neural Networks**
 
 ![](http://www.robots.ox.ac.uk/~szheng/Res_CRFRNN/CRFasRNN.jpg)
@@ -915,11 +926,6 @@ with built-in awareness of semantically meaningful boundaries. "
 - intro: Yale University
 - arxiv: [https://arxiv.org/abs/1811.11254](https://arxiv.org/abs/1811.11254)
 - github: [https://github.com/juntang-zhuang/ShelfNet](https://github.com/juntang-zhuang/ShelfNet)
-
-**Auto-DeepLab: Hierarchical Neural Architecture Search for Semantic Image Segmentation**
-
-- intro: Johns Hopkins University & Google & Stanford University
-- arxiv: [https://arxiv.org/abs/1901.02985](https://arxiv.org/abs/1901.02985)
 
 **Semantic Nighttime Image Segmentation with Synthetic Stylized Data, Gradual Adaptation and Uncertainty-Aware Evaluation**
 
@@ -1938,6 +1944,11 @@ ranked 1st place in ImageNet Scene Parsing Challenge 2016
 - intro: ICCV 2019
 - arxiv: [https://arxiv.org/abs/1908.06647](https://arxiv.org/abs/1908.06647)
 - github: [https://github.com/Storife/RANet](https://github.com/Storife/RANet)
+
+**DMM-Net: Differentiable Mask-Matching Network for Video Object Segmentation**
+
+- intro: ICCV 2019
+- arxiv: [https://arxiv.org/abs/1909.12471](https://arxiv.org/abs/1909.12471)
 
 ## Challenge
 

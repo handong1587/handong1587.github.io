@@ -622,6 +622,16 @@ at INT8 deep learning operations than other FPGA DSP architectures"
 
 [https://arxiv.org/abs/1901.11391](https://arxiv.org/abs/1901.11391)
 
+**Pruning from Scratch**
+
+- intro: Tsinghua University & Ant Financial & Huawei Noah’s Ark Lab
+- arxiv: [https://arxiv.org/abs/1909.12579](https://arxiv.org/abs/1909.12579)
+
+**Global Sparse Momentum SGD for Pruning Very Deep Neural Networks**
+
+- intro: NeurIPS 2019
+- arxiv: [https://arxiv.org/abs/1909.12778](https://arxiv.org/abs/1909.12778)
+
 # Low-Precision Networks
 
 **Accelerating Deep Convolutional Networks using low-precision and sparsity**

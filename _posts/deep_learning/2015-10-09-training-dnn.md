@@ -1387,6 +1387,7 @@ date: 2015-10-09
 
 **AutoAugment: Learning Augmentation Policies from Data**
 
+- intro: CVPR 2019
 - arxiv: [https://arxiv.org/abs/1805.09501](https://arxiv.org/abs/1805.09501)
 - github: [https://github.com/DeepVoltaire/AutoAugment](https://github.com/DeepVoltaire/AutoAugment)
 

@@ -1072,6 +1072,7 @@ Continuation of [arXiv:1608.08021](https://arxiv.org/abs/1608.08021)
 
 **Grid R-CNN**
 
+- intro: CVPR 2019
 - intro: SenseTime
 - arxiv: [https://arxiv.org/abs/1811.12030](https://arxiv.org/abs/1811.12030)
 
@@ -1360,7 +1361,14 @@ Continuation of [arXiv:1608.08021](https://arxiv.org/abs/1608.08021)
 **Towards Accurate One-Stage Object Detection with AP-Loss**
 
 - intro: CVPR 2019
+- intro: Shanghai Jiao Tong University & Intel Labs & Malaysia Multimedia University & Tencent YouTu Lab & Peking University
+- keywords: Average-Precision loss (AP-loss)
 - arxiv: {https://arxiv.org/abs/1904.06373}(https://arxiv.org/abs/1904.06373)
+
+**DR Loss: Improving Object Detection by Distributional Ranking**
+
+- intro: Alibaba Group
+- arxiv: [https://arxiv.org/abs/1907.10156](https://arxiv.org/abs/1907.10156)
 
 **HAR-Net: Joint Learning of Hybrid Attention for Single-stage Object Detection**
 
