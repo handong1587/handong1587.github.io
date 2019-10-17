@@ -401,3 +401,11 @@ date: 2015-10-09
 
 - intro: ICCV 2019
 - arxiv: [https://arxiv.org/abs/1907.11684](https://arxiv.org/abs/1907.11684)
+
+**Deep Neural Rejection against Adversarial Examples**
+
+[https://arxiv.org/abs/1910.00470](https://arxiv.org/abs/1910.00470)
+
+**Unrestricted Adversarial Attacks for Semantic Segmentation**
+
+[https://arxiv.org/abs/1910.02354](https://arxiv.org/abs/1910.02354)

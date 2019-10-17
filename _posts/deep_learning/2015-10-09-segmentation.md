@@ -1950,6 +1950,16 @@ ranked 1st place in ImageNet Scene Parsing Challenge 2016
 - intro: ICCV 2019
 - arxiv: [https://arxiv.org/abs/1909.12471](https://arxiv.org/abs/1909.12471)
 
+**CapsuleVOS: Semi-Supervised Video Object Segmentation Using Capsule Routing**
+
+- intro: ICCV 2019
+- arxiv: [https://arxiv.org/abs/1910.00132](https://arxiv.org/abs/1910.00132)
+
+**Towards Good Practices for Video Object Segmentation**
+
+- intro: ByteDance AI Lab
+- arxiv: [https://arxiv.org/abs/1909.13583](https://arxiv.org/abs/1909.13583)
+
 ## Challenge
 
 **DAVIS: Densely Annotated VIdeo Segmentation**

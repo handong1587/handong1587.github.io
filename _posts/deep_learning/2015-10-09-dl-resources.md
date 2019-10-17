@@ -1523,6 +1523,11 @@ Global Second-order Pooling Neural Networks**
 - intro:BMVC 2019
 - arxiv: [https://arxiv.org/abs/1907.09595](https://arxiv.org/abs/1907.09595)
 
+**Deformable Kernels: Adapting Effective Receptive Fields for Object Deformation**
+
+- intro: UC Berkeley & USTC & MSRA
+- arxiv: [https://arxiv.org/abs/1910.02940](https://arxiv.org/abs/1910.02940)
+
 ## Highway Networks
 
 **Highway Networks**
@@ -2370,10 +2375,23 @@ Global Second-order Pooling Neural Networks**
 - intro: Horizon Robotics
 - arxiv: [https://arxiv.org/abs/1907.05653](https://arxiv.org/abs/1907.05653)
 
+**VarGFaceNet: An Efficient Variable Group Convolutional Neural Network for Lightweight Face Recognition**
+
+- intro: ICCV workshop 2019, champion of deepglintlight track of LFR (2019) challenge
+- intro: Horizon Robotics
+- arxiv: [https://arxiv.org/abs/1910.04985](https://arxiv.org/abs/1910.04985)
+- github: [https://github.com/zma-c-137/VarGFaceNet](https://github.com/zma-c-137/VarGFaceNet)
+
 **Anchor Loss: Modulating Loss Scale based on Prediction Difficulty**
 
 - intro: ICCV 2019 oral
 - arxiv: [https://arxiv.org/abs/1909.11155](https://arxiv.org/abs/1909.11155)
+
+**Why ReLU networks yield high-confidence predictions far away from the training data and how to mitigate the problem**
+
+- intro: CVPR 2019 oral
+- arxiv: [https://arxiv.org/abs/1812.05720](https://arxiv.org/abs/1812.05720)
+- github: [https://github.com/max-andr/relu_networks_overconfident](https://github.com/max-andr/relu_networks_overconfident)
 
 ## Tutorials and Surveys
 

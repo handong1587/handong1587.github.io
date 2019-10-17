@@ -320,6 +320,22 @@ date: 2015-10-09
 - intro: Chinese Academy of Sciences & BUPT & Horizon Robotics
 - arxiv: [https://arxiv.org/abs/1908.06290](https://arxiv.org/abs/1908.06290)
 
+**Single-Network Whole-Body Pose Estimation**
+
+- intro: ICCV 2019
+- project page: [https://github.com/CMU-Perceptual-Computing-Lab/openpose_train](https://github.com/CMU-Perceptual-Computing-Lab/openpose_train)
+- arxiv: [https://arxiv.org/abs/1909.13423](https://arxiv.org/abs/1909.13423)
+
+**NADS-Net: A Nimble Architecture for Driver and Seat Belt Detection via Convolutional Neural Networks**
+
+[https://arxiv.org/abs/1910.03695](https://arxiv.org/abs/1910.03695)
+
+**Distribution-Aware Coordinate Representation for Human Pose Estimation**
+
+- intro: Results on the COCO keypoint detection challenge: 78.9% AP on the test-dev set (Top-1 in the leaderbord by 12 Oct 2019) and 76.4% AP on the test-challenge set.
+- project page: [https://ilovepose.github.io/coco/](https://ilovepose.github.io/coco/)
+- arxiv: [https://arxiv.org/abs/1910.06278](https://arxiv.org/abs/1910.06278)
+
 # 3D Pose
 
 **Can 3D Pose be Learned from 2D Projections Alone?**

@@ -92,3 +92,13 @@ date: 2015-10-09
 
 - arxiv: [https://arxiv.org/abs/1909.11723](https://arxiv.org/abs/1909.11723)
 - github: [https://github.com/yuanli2333/Teacher-free-Knowledge-Distillation](https://github.com/yuanli2333/Teacher-free-Knowledge-Distillation)
+
+**On the Efficacy of Knowledge Distillation**
+
+- intro: Cornell University
+- arxiv: [https://arxiv.org/abs/1910.01348](https://arxiv.org/abs/1910.01348)
+
+**Training convolutional neural networks with cheap convolutions and online distillation**
+
+- arxiv: [https://arxiv.org/abs/1909.13063](https://arxiv.org/abs/1909.13063)
+- github: [https://github.com/EthanZhangYC/OD-cheap-convolution](https://github.com/EthanZhangYC/OD-cheap-convolution)

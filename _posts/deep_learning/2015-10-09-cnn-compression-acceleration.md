@@ -771,6 +771,11 @@ at INT8 deep learning operations than other FPGA DSP architectures"
 - intro: ICCV 2019
 - arxiv: [https://arxiv.org/abs/1908.05033](https://arxiv.org/abs/1908.05033)
 
+**Bit Efficient Quantization for Deep Neural Networks**
+
+- intro: NeurIPS workshop 2019
+- arxiv: [https://arxiv.org/abs/1910.04877](https://arxiv.org/abs/1910.04877)
+
 # Binary Convolutional Neural Networks / Binarized Neural Networks
 
 **BinaryNet: Training Deep Neural Networks with Weights and Activations Constrained to +1 or -1**
@@ -787,6 +792,11 @@ at INT8 deep learning operations than other FPGA DSP architectures"
 
 - arxiv: [http://arxiv.org/abs/1603.05279](http://arxiv.org/abs/1603.05279)
 - github(Torch): [https://github.com/mrastegari/XNOR-Net](https://github.com/mrastegari/XNOR-Net)
+
+**XNOR-Net++: Improved Binary Neural Networks**
+
+- intro: BMVC 2019
+- arxiv: [https://arxiv.org/abs/1909.13863](https://arxiv.org/abs/1909.13863)
 
 **DoReFa-Net: Training Low Bitwidth Convolutional Neural Networks with Low Bitwidth Gradients**
 

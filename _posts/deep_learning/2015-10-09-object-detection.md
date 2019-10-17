@@ -1213,6 +1213,14 @@ Continuation of [arXiv:1608.08021](https://arxiv.org/abs/1608.08021)
 
 [https://arxiv.org/abs/1903.06530](https://arxiv.org/abs/1903.06530)
 
+**YOLO Nano: a Highly Compact You Only Look Once Convolutional Neural Network for Object Detection**
+
+[https://arxiv.org/abs/1910.01271](https://arxiv.org/abs/1910.01271)
+
+**REQ-YOLO: A Resource-Aware, Efficient Quantization Framework for Object Detection on FPGAs**
+
+[https://arxiv.org/abs/1909.13396](https://arxiv.org/abs/1909.13396)
+
 ## SSD
 
 **SSD: Single Shot MultiBox Detector**
@@ -1411,6 +1419,10 @@ Continuation of [arXiv:1608.08021](https://arxiv.org/abs/1608.08021)
 
 - intro: Tsinghua University & BNRist & ByteDance AI Lab & University of Pennsylvania
 - arxiv: [https://arxiv.org/abs/1904.03797](https://arxiv.org/abs/1904.03797)
+
+**IMMVP: An Efficient Daytime and Nighttime On-Road Object Detector**
+
+[https://arxiv.org/abs/1910.06573](https://arxiv.org/abs/1910.06573)
 
 # Non-Maximum Suppression (NMS)
 
@@ -2400,7 +2412,15 @@ Continuation of [arXiv:1608.08021](https://arxiv.org/abs/1608.08021)
 **Double Anchor R-CNN for Human Detection in a Crowd**
 
 - intro: Megvii Inc. (Face++) & Tsinghua University & Xi’an Jiaotong University & Zhejiang University
-- arxiv: [https://arxiv.org/abs/1909.09998](https://arxiv.org/abs/1909.09998https://arxiv.org/abs/1909.09998)
+- arxiv: [https://arxiv.org/abs/1909.09998](https://arxiv.org/abs/1909.09998)
+
+# Occluded Pedestrian Detection
+
+**Mask-Guided Attention Network for Occluded Pedestrian Detection**
+
+- intro: ICCV 2019
+- arxiv: [https://arxiv.org/abs/1910.06160](https://arxiv.org/abs/1910.06160)
+- github: [https://github.com/Leotju/MGAN](https://github.com/Leotju/MGAN)
 
 ## Multispectral Pedestrian Detection
 
