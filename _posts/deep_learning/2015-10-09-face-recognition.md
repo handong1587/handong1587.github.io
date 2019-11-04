@@ -329,6 +329,11 @@ L**ow-Resolution Face Recognition**
 - intro: ICCV 2019 LFR workshop
 - arxiv: [https://arxiv.org/abs/1909.00632](https://arxiv.org/abs/1909.00632)
 
+**Unknown Identity Rejection Loss: Utilizing Unlabeled Data for Face Recognition**
+
+- intro: ICCV 2019 Lightweight Face Recognition Challenge & Workshop
+- arxiv: [https://arxiv.org/abs/1910.10896](https://arxiv.org/abs/1910.10896)
+
 # Face Verification
 
 **Deep Learning Face Representation by Joint Identification-Verification**

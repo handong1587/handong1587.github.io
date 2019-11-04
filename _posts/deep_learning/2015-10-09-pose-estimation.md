@@ -336,6 +336,16 @@ date: 2015-10-09
 - project page: [https://ilovepose.github.io/coco/](https://ilovepose.github.io/coco/)
 - arxiv: [https://arxiv.org/abs/1910.06278](https://arxiv.org/abs/1910.06278)
 
+**TRB: A Novel Triplet Representation for Understanding 2D Human Body**
+
+- intro: ICCV 2019
+- arxiv: [https://arxiv.org/abs/1910.11535](https://arxiv.org/abs/1910.11535)
+
+**Chirality Nets for Human Pose Regression**
+
+- intro: NeurIPS 2019
+- arxiv: [https://arxiv.org/abs/1911.00029](https://arxiv.org/abs/1911.00029)
+
 # 3D Pose
 
 **Can 3D Pose be Learned from 2D Projections Alone?**

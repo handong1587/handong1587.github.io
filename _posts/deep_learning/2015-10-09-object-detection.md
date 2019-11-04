@@ -2387,6 +2387,10 @@ Continuation of [arXiv:1608.08021](https://arxiv.org/abs/1608.08021)
 - arxiv: [https://arxiv.org/abs/1904.02948](https://arxiv.org/abs/1904.02948)
 - github(official, Keras): [https://github.com/liuwei16/CSP](https://github.com/liuwei16/CSP)
 
+**Evading Real-Time Person Detectors by Adversarial T-shirt**
+
+[https://arxiv.org/abs/1910.11099](https://arxiv.org/abs/1910.11099)
+
 ## Pedestrian Detection in a Crowd
 
 **Repulsion Loss: Detecting Pedestrians in a Crowd**
@@ -2413,6 +2417,10 @@ Continuation of [arXiv:1608.08021](https://arxiv.org/abs/1608.08021)
 
 - intro: Megvii Inc. (Face++) & Tsinghua University & Xi’an Jiaotong University & Zhejiang University
 - arxiv: [https://arxiv.org/abs/1909.09998](https://arxiv.org/abs/1909.09998)
+
+**CSID: Center, Scale, Identity and Density-aware Pedestrian Detection in a Crowd**
+
+[https://arxiv.org/abs/1910.09188](https://arxiv.org/abs/1910.09188)
 
 # Occluded Pedestrian Detection
 

@@ -1023,6 +1023,11 @@ with built-in awareness of semantically meaningful boundaries. "
 - intro: ICCV 2019
 - arxiv: [https://arxiv.org/abs/1909.09408](https://arxiv.org/abs/1909.09408)
 
+**Category Anchor-Guided Unsupervised Domain Adaptation for Semantic Segmentation**
+
+- intro: NeurIPS 2019
+- arxiv: [https://arxiv.org/abs/1910.13049](https://arxiv.org/abs/1910.13049)
+- github: [https://github.com/RogerZhangzz/CAG_UDA](https://github.com/RogerZhangzz/CAG_UDA)
 
 # Instance Segmentation
 
@@ -1387,6 +1392,10 @@ with built-in awareness of semantically meaningful boundaries. "
 
 [https://arxiv.org/abs/1906.05896](https://arxiv.org/abs/1906.05896)
 
+**SpatialFlow: Bridging All Tasks for Panoptic Segmentation**
+
+[https://arxiv.org/abs/1910.08787](https://arxiv.org/abs/1910.08787)
+
 # Face Parsing
 
 **Face Parsing via Recurrent Propagation**
@@ -1670,6 +1679,11 @@ ranked 1st place in ImageNet Scene Parsing Challenge 2016
 
 - intro: University of Washington & Microsof
 - arxiv: [https://arxiv.org/abs/1907.05193](https://arxiv.org/abs/1907.05193)
+
+**Self-Correction for Human Parsing**
+
+- arxiv: [https://arxiv.org/abs/1910.09777](https://arxiv.org/abs/1910.09777)
+- github: [https://github.com/PeikeLi/Self-Correction-Human-Parsing](https://github.com/PeikeLi/Self-Correction-Human-Parsing)
 
 # Joint Detection and Segmentation
 
@@ -1959,6 +1973,11 @@ ranked 1st place in ImageNet Scene Parsing Challenge 2016
 
 - intro: ByteDance AI Lab
 - arxiv: [https://arxiv.org/abs/1909.13583](https://arxiv.org/abs/1909.13583)
+
+**Anchor Diffusion for Unsupervised Video Object Segmentation**
+
+- intro: ICCV 2019
+- arxiv: [https://arxiv.org/abs/1910.10895](https://arxiv.org/abs/1910.10895)
 
 ## Challenge
 

@@ -320,6 +320,12 @@ date: 2015-10-09
 
 [https://arxiv.org/abs/1908.03314](https://arxiv.org/abs/1908.03314)
 
+**Bayesian Loss for Crowd Count Estimation with Point Supervision**
+
+- intro: ICCV 2019 oral
+- arxiv: [https://arxiv.org/abs/1908.03684](https://arxiv.org/abs/1908.03684)
+- github: [https://github.com/ZhihengCV/Bayesian-Crowd-Counting](https://github.com/ZhihengCV/Bayesian-Crowd-Counting)
+
 **Crowd Counting with Deep Structured Scale Integration Network**
 
 - intro: ICCV 2019
@@ -345,3 +351,8 @@ date: 2015-10-09
 
 - intro: ICCV 2019
 - arxiv: [https://arxiv.org/abs/1909.06966](https://arxiv.org/abs/1909.06966)
+
+**Pushing the Frontiers of Unconstrained Crowd Counting: New Dataset and Benchmark Method**
+
+- intro: ICCV 2019
+- arxiv: [https://arxiv.org/abs/1910.12384](https://arxiv.org/abs/1910.12384)
