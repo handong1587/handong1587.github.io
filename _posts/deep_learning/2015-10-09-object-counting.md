@@ -59,6 +59,12 @@ date: 2015-10-09
 
 [https://arxiv.org/abs/1805.11123](https://arxiv.org/abs/1805.11123)
 
+**Counting with Focus for Free**
+
+- intro: ICCV 2019
+- arxiv: [https://arxiv.org/abs/1903.12206](https://arxiv.org/abs/1903.12206)
+- github: [https://github.com/shizenglin/Counting-with-Focus-for-Free](https://github.com/shizenglin/Counting-with-Focus-for-Free)
+
 ## Crowd Counting / Crowd Analysis
 
 **Large scale crowd analysis based on convolutional neural network**
@@ -351,6 +357,7 @@ date: 2015-10-09
 
 - intro: ICCV 2019
 - arxiv: [https://arxiv.org/abs/1909.06966](https://arxiv.org/abs/1909.06966)
+- github: [https://github.com/Zhaoyi-Yan/PGCNet](https://github.com/Zhaoyi-Yan/PGCNet)
 
 **Pushing the Frontiers of Unconstrained Crowd Counting: New Dataset and Benchmark Method**
 

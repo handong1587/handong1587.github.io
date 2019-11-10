@@ -329,6 +329,22 @@ L**ow-Resolution Face Recognition**
 - intro: ICCV 2019 LFR workshop
 - arxiv: [https://arxiv.org/abs/1909.00632](https://arxiv.org/abs/1909.00632)
 
+**VarGFaceNet: An Efficient Variable Group Convolutional Neural Network for Lightweight Face Recognition**
+
+- intro: ICCV workshop 2019, champion of deepglintlight track of LFR (2019) challenge
+- intro: Horizon Robotics
+- arxiv: [https://arxiv.org/abs/1910.04985](https://arxiv.org/abs/1910.04985)
+- paper: [http://openaccess.thecvf.com/content_ICCVW_2019/papers/LSR/Yan_VarGFaceNet_An_Efficient_Variable_Group_Convolutional_Neural_Network_for_Lightweight_ICCVW_2019_paper.pdf](http://openaccess.thecvf.com/content_ICCVW_2019/papers/LSR/Yan_VarGFaceNet_An_Efficient_Variable_Group_Convolutional_Neural_Network_for_Lightweight_ICCVW_2019_paper.pdf)
+- github: [https://github.com/zma-c-137/VarGFaceNet](https://github.com/zma-c-137/VarGFaceNet)
+
+**Towards Flops-constrained Face Recognition**
+
+- intro: ICCV 2019 LFR workshop
+- intro: 1st place in the ICCV19 Lightweight Face Recognition Challenge, large video track
+- keywords: Trojans
+- arxiv: [https://arxiv.org/abs/1909.00632](https://arxiv.org/abs/1909.00632)
+- paper: [https://github.com/sciencefans/trojans-face-recognizer](https://github.com/sciencefans/trojans-face-recognizer)
+
 **Unknown Identity Rejection Loss: Utilizing Unlabeled Data for Face Recognition**
 
 - intro: ICCV 2019 Lightweight Face Recognition Challenge & Workshop
@@ -562,6 +578,11 @@ L**ow-Resolution Face Recognition**
 **Stacked Dense U-Nets with Dual Transformers for Robust Face Alignment**
 
 [https://arxiv.org/abs/1812.01936](https://arxiv.org/abs/1812.01936)
+
+**PFLD: A Practical Facial Landmark Detector**
+
+- arxiv: [https://arxiv.org/abs/1902.10859](https://arxiv.org/abs/1902.10859)
+- github: [https://github.com/guoqiangqi/PFLD](https://github.com/guoqiangqi/PFLD)
 
 **Semantic Alignment: Finding Semantically Consistent Ground-truth for Facial Landmark Detection**
 

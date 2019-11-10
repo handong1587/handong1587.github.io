@@ -939,6 +939,12 @@ Continuation of [arXiv:1608.08021](https://arxiv.org/abs/1608.08021)
 - intro: ICCV 2019 Low-Power Computer Vision Workshop
 - arxiv: [https://arxiv.org/abs/1909.10964](https://arxiv.org/abs/1909.10964)
 
+**Hierarchical Shot Detector**
+
+- intro: ICCV 2019
+- paper: [http://openaccess.thecvf.com/content_ICCV_2019/papers/Cao_Hierarchical_Shot_Detector_ICCV_2019_paper.pdf](http://openaccess.thecvf.com/content_ICCV_2019/papers/Cao_Hierarchical_Shot_Detector_ICCV_2019_paper.pdf)
+- github(official, Pytorch): [https://github.com/JialeCao001/HSD](https://github.com/JialeCao001/HSD)
+
 # Two-Stage Object Detection
 
 ## R-CNN
@@ -1419,6 +1425,7 @@ Continuation of [arXiv:1608.08021](https://arxiv.org/abs/1608.08021)
 
 - intro: Tsinghua University & BNRist & ByteDance AI Lab & University of Pennsylvania
 - arxiv: [https://arxiv.org/abs/1904.03797](https://arxiv.org/abs/1904.03797)
+- github(official, mmdetection): [https://github.com/taokong/FoveaBox](https://github.com/taokong/FoveaBox)
 
 **IMMVP: An Efficient Daytime and Nighttime On-Road Object Detector**
 
@@ -1875,7 +1882,7 @@ Continuation of [arXiv:1608.08021](https://arxiv.org/abs/1608.08021)
 
 [https://arxiv.org/abs/1904.02104](https://arxiv.org/abs/1904.02104)
 
-# Face Deteciton
+# Face Detection
 
 **Multi-view Face Detection Using Deep Convolutional Neural Networks**
 
@@ -2136,7 +2143,13 @@ Continuation of [arXiv:1608.08021](https://arxiv.org/abs/1608.08021)
 
 **LFFD: A Light and Fast Face Detector for Edge Devices**
 
-[https://arxiv.org/abs/1904.10633](https://arxiv.org/abs/1904.10633)
+- arxiv: [https://arxiv.org/abs/1904.10633](https://arxiv.org/abs/1904.10633)
+- github: [https://github.com/YonghaoHe/A-Light-and-Fast-Face-Detector-for-Edge-Devices](https://github.com/YonghaoHe/A-Light-and-Fast-Face-Detector-for-Edge-Devices)
+
+**RetinaFace: Single-stage Dense Face Localisation in the Wild**
+
+- arxiv: [https://arxiv.org/abs/1905.00641](https://arxiv.org/abs/1905.00641)
+- gihtub: [https://github.com/deepinsight/insightface/tree/master/RetinaFace](https://github.com/deepinsight/insightface/tree/master/RetinaFace)
 
 **BlazeFace: Sub-millisecond Neural Face Detection on Mobile GPUs**
 

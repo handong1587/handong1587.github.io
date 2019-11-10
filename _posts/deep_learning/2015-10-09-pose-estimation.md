@@ -301,6 +301,7 @@ date: 2015-10-09
 
 - intro: Megvii Inc. (Face++) & Shanghai Jiao Tong University & Beihang University & Beijing University of Posts and Telecommunications
 - arxiv: [https://arxiv.org/abs/1901.00148](https://arxiv.org/abs/1901.00148)
+- github: [https://github.com/fenglinglwb/MSPN](https://github.com/fenglinglwb/MSPN)
 
 **Deep High-Resolution Representation Learning for Human Pose Estimation**
 
@@ -345,6 +346,11 @@ date: 2015-10-09
 
 - intro: NeurIPS 2019
 - arxiv: [https://arxiv.org/abs/1911.00029](https://arxiv.org/abs/1911.00029)
+
+**Conservative Wasserstein Training for Pose Estimation**
+
+- intro: ICCV 2019
+- arxiv: [https://arxiv.org/abs/1911.00962](https://arxiv.org/abs/1911.00962)
 
 # 3D Pose
 

@@ -1522,6 +1522,7 @@ Global Second-order Pooling Neural Networks**
 
 - intro:BMVC 2019
 - arxiv: [https://arxiv.org/abs/1907.09595](https://arxiv.org/abs/1907.09595)
+- github: [https://github.com/tensorflow/tpu/tree/master/models/official/mnasnet/mixnet](https://github.com/tensorflow/tpu/tree/master/models/official/mnasnet/mixnet)
 
 **Deformable Kernels: Adapting Effective Receptive Fields for Object Deformation**
 
@@ -2374,13 +2375,6 @@ Global Second-order Pooling Neural Networks**
 
 - intro: Horizon Robotics
 - arxiv: [https://arxiv.org/abs/1907.05653](https://arxiv.org/abs/1907.05653)
-
-**VarGFaceNet: An Efficient Variable Group Convolutional Neural Network for Lightweight Face Recognition**
-
-- intro: ICCV workshop 2019, champion of deepglintlight track of LFR (2019) challenge
-- intro: Horizon Robotics
-- arxiv: [https://arxiv.org/abs/1910.04985](https://arxiv.org/abs/1910.04985)
-- github: [https://github.com/zma-c-137/VarGFaceNet](https://github.com/zma-c-137/VarGFaceNet)
 
 **Anchor Loss: Modulating Loss Scale based on Prediction Difficulty**
 

@@ -1023,6 +1023,12 @@ with built-in awareness of semantically meaningful boundaries. "
 - intro: ICCV 2019
 - arxiv: [https://arxiv.org/abs/1909.09408](https://arxiv.org/abs/1909.09408)
 
+**Region Mutual Information Loss for Semantic Segmentation**
+
+- intro: NeurIPS 2019
+- arxiv: [https://arxiv.org/abs/1910.12037](https://arxiv.org/abs/1910.12037)
+- github: [https://github.com/ZJULearning/RMI](https://github.com/ZJULearning/RMI)
+
 **Category Anchor-Guided Unsupervised Domain Adaptation for Semantic Segmentation**
 
 - intro: NeurIPS 2019
@@ -1396,6 +1402,10 @@ with built-in awareness of semantically meaningful boundaries. "
 
 [https://arxiv.org/abs/1910.08787](https://arxiv.org/abs/1910.08787)
 
+**Single-Shot Panoptic Segmentation**
+
+[https://arxiv.org/abs/1911.00764](https://arxiv.org/abs/1911.00764)
+
 # Face Parsing
 
 **Face Parsing via Recurrent Propagation**
@@ -1597,6 +1607,11 @@ ranked 1st place in ImageNet Scene Parsing Challenge 2016
 - slides: [https://docs.google.com/presentation/d/1_brKNBtv8nVu_jOwFRGwVkEPAq8B8hEngBSQuZCWaZA/edit#slide=id.p](https://docs.google.com/presentation/d/1_brKNBtv8nVu_jOwFRGwVkEPAq8B8hEngBSQuZCWaZA/edit#slide=id.p)
 - github: [https://github.com/hszhao/PSANet](https://github.com/hszhao/PSANet)
 
+**Adaptive Context Network for Scene Parsing**
+
+- intro: ICCV 2019
+- arxiv: [https://arxiv.org/abs/1911.01664](https://arxiv.org/abs/1911.01664)
+
 ## Benchmarks
 
 **MIT Scene Parsing Benchmark**
@@ -1635,6 +1650,10 @@ ranked 1st place in ImageNet Scene Parsing Challenge 2016
 - arxiv: [https://arxiv.org/abs/1703.05446](https://arxiv.org/abs/1703.05446)
 - github: [https://github.com/Engineering-Course/LIP_SSL](https://github.com/Engineering-Course/LIP_SSL)
 
+**Multiple-Human Parsing in the Wild**
+
+[https://arxiv.org/abs/1705.07206](https://arxiv.org/abs/1705.07206)
+
 **Look into Person: Joint Body Parsing & Pose Estimation Network and A New Benchmark**
 
 - intro: T-PAMI 2018
@@ -1651,6 +1670,11 @@ ranked 1st place in ImageNet Scene Parsing Challenge 2016
 
 - intro: Wuhan University
 - arxiv: [https://arxiv.org/abs/1803.03415](https://arxiv.org/abs/1803.03415)
+
+**Understanding Humans in Crowded Scenes: Deep Nested Adversarial Learning and A New Benchmark for Multi-Human Parsing**
+
+- arxiv: [https://arxiv.org/abs/1804.03287](https://arxiv.org/abs/1804.03287)
+- github: [https://github.com/ZhaoJ9014/Multi-Human-Parsing](https://github.com/ZhaoJ9014/Multi-Human-Parsing)
 
 **Macro-Micro Adversarial Network for Human Parsing**
 

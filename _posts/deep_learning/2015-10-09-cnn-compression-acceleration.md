@@ -632,6 +632,12 @@ at INT8 deep learning operations than other FPGA DSP architectures"
 - intro: NeurIPS 2019
 - arxiv: [https://arxiv.org/abs/1909.12778](https://arxiv.org/abs/1909.12778)
 
+**FNNP: Fast Neural Network Pruning Using Adaptive Batch Normalization**
+
+- openreview: [https://openreview.et/forum?id=rJeUPlrYvr](https://openreview.net/forum?id=rJeUPlrYvr)
+- paper: [https://openreview.net/pdf?id=rJeUPlrYvr](https://openreview.net/pdf?id=rJeUPlrYvr)
+- github: [https://github.com/anonymous47823493/FNNP](https://github.com/anonymous47823493/FNNP)
+
 # Low-Precision Networks
 
 **Accelerating Deep Convolutional Networks using low-precision and sparsity**
