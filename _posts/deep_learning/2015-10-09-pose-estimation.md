@@ -358,6 +358,10 @@ date: 2015-10-09
 - keywords: Keypoint Alignment (KPAlign)
 - arxiv: [https://arxiv.org/abs/1911.07451](https://arxiv.org/abs/1911.07451)
 
+**The Devil is in the Details: Delving into Unbiased Data Processing for Human Pose Estimation**
+
+[https://arxiv.org/abs/1911.07524](https://arxiv.org/abs/1911.07524)
+
 # 3D Pose
 
 **Can 3D Pose be Learned from 2D Projections Alone?**
