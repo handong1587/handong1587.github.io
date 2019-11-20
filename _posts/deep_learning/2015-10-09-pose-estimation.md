@@ -352,6 +352,12 @@ date: 2015-10-09
 - intro: ICCV 2019
 - arxiv: [https://arxiv.org/abs/1911.00962](https://arxiv.org/abs/1911.00962)
 
+**DirectPose: Direct End-to-End Multi-Person Pose Estimation**
+
+- intro: The University of Adelaide
+- keywords: Keypoint Alignment (KPAlign)
+- arxiv: [https://arxiv.org/abs/1911.07451](https://arxiv.org/abs/1911.07451)
+
 # 3D Pose
 
 **Can 3D Pose be Learned from 2D Projections Alone?**

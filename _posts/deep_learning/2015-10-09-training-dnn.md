@@ -1441,6 +1441,11 @@ date: 2015-10-09
 - arxiv: [https://arxiv.org/abs/1801.02548](https://arxiv.org/abs/1801.02548)
 - github: [https://github.com/JohnMcKay/dataImbalance](https://github.com/JohnMcKay/dataImbalance)
 
+**Imbalanced Deep Learning by Minority Class Incremental Rectification**
+
+- intro: TPAMI
+- arxiv: [https://arxiv.org/abs/1804.10851](https://arxiv.org/abs/1804.10851)
+
 **Pseudo-Feature Generation for Imbalanced Data Analysis in Deep Learning**
 
 - intro: National Institute of Information and Communications Technology, Tokyo Japan
@@ -1453,7 +1458,9 @@ date: 2015-10-09
 
 **Dynamic Curriculum Learning for Imbalanced Data Classification**
 
-[https://arxiv.org/abs/1901.06783](https://arxiv.org/abs/1901.06783)
+- intro: ICCV 2019
+- intro: SenseTime
+- arxiv: [https://arxiv.org/abs/1901.06783](https://arxiv.org/abs/1901.06783)
 
 **Class Rectification Hard Mining for Imbalanced Deep Learning**
 

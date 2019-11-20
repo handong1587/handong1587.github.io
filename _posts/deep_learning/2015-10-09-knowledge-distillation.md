@@ -102,3 +102,13 @@ date: 2015-10-09
 
 - arxiv: [https://arxiv.org/abs/1909.13063](https://arxiv.org/abs/1909.13063)
 - github: [https://github.com/EthanZhangYC/OD-cheap-convolution](https://github.com/EthanZhangYC/OD-cheap-convolution)
+
+**Knowledge Representing: Efficient, Sparse Representation of Prior Knowledge for Knowledge Distillation**
+
+[https://arxiv.org/abs/1911.05329](https://arxiv.org/abs/1911.05329)
+
+**Preparing Lessons: Improve Knowledge Distillation with Better Supervision**
+
+- intro: Xi’an Jiaotong University & Meituan
+- keywords: Knowledge Adjustment (KA), Dynamic Temperature Distillation (DTD)
+- arxiv: [https://arxiv.org/abs/1911.07471](https://arxiv.org/abs/1911.07471)

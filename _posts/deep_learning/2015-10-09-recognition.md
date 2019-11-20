@@ -579,6 +579,10 @@ L**earning a Deep ConvNet for Multi-label Classification with Partial Labels**
 
 [https://paperswithcode.com/task/pedestrian-attribute-recognition/codeless](https://paperswithcode.com/task/pedestrian-attribute-recognition/codeless)
 
+**Pedestrian-Attribute-Recognition-Paper-List**
+
+[https://github.com/wangxiao5791509/Pedestrian-Attribute-Recognition-Paper-List](https://github.com/wangxiao5791509/Pedestrian-Attribute-Recognition-Paper-List)
+
 **Attribute Aware Pooling for Pedestrian Attribute Recognition**
 
 - intro: IJCAI 2019

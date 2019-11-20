@@ -2648,6 +2648,10 @@ Global Second-order Pooling Neural Networks**
 - arxiv: [https://arxiv.org/abs/1811.07456](https://arxiv.org/abs/1811.07456)
 - github: [https://github.com/jihanyang/AFN/](https://github.com/jihanyang/AFN/)
 
+**awsome-domain-adaptation**
+
+[https://github.com/zhaoxin94/awsome-domain-adaptation](https://github.com/zhaoxin94/awsome-domain-adaptation)
+
 ## Embedding
 
 **Learning Deep Embeddings with Histogram Loss**

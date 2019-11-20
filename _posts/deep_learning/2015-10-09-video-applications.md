@@ -657,6 +657,10 @@ extract saptio-temporal features to represent the video using the CNNs."
 
 [https://arxiv.org/abs/1907.01847](https://arxiv.org/abs/1907.01847)
 
+**You Only Watch Once: A Unified CNN Architecture for Real-Time Spatiotemporal Action Localization**
+
+[https://arxiv.org/abs/1911.06644](https://arxiv.org/abs/1911.06644)
+
 ### Projects
 
 **A Torch Library for Action Recognition and Detection Using CNNs and LSTMs**

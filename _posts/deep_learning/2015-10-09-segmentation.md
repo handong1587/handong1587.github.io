@@ -1035,6 +1035,16 @@ with built-in awareness of semantically meaningful boundaries. "
 - arxiv: [https://arxiv.org/abs/1910.13049](https://arxiv.org/abs/1910.13049)
 - github: [https://github.com/RogerZhangzz/CAG_UDA](https://github.com/RogerZhangzz/CAG_UDA)
 
+**Efficacy of Pixel-Level OOD Detection for Semantic Segmentation**
+
+[https://arxiv.org/abs/1911.02897](https://arxiv.org/abs/1911.02897)
+
+**Location-aware Upsampling for Semantic Segmentation**
+
+- keywords: LaU
+- arxiv: [https://arxiv.org/abs/1911.05250](https://arxiv.org/abs/1911.05250)
+- github: [https://github.com/HolmesShuan/Location-aware-Upsampling-for-Semantic-Segmentation](https://github.com/HolmesShuan/Location-aware-Upsampling-for-Semantic-Segmentation)
+
 # Instance Segmentation
 
 **Simultaneous Detection and Segmentation**
@@ -1314,6 +1324,10 @@ with built-in awareness of semantically meaningful boundaries. "
 - intro: Chinese Academy of Sciences & Horizon Robotics, Inc
 - arxiv: [https://arxiv.org/abs/1909.01616](https://arxiv.org/abs/1909.01616)
 
+**CenterMask : Real-Time Anchor-Free Instance Segmentation**
+
+[https://arxiv.org/abs/1911.06667](https://arxiv.org/abs/1911.06667)
+
 ## Human Instance Segmentation
 
 **PersonLab: Person Pose Estimation and Instance Segmentation with a Bottom-Up, Part-Based, Geometric Embedding Model**
@@ -1405,6 +1419,11 @@ with built-in awareness of semantically meaningful boundaries. "
 **Single-Shot Panoptic Segmentation**
 
 [https://arxiv.org/abs/1911.00764](https://arxiv.org/abs/1911.00764)
+
+**SOGNet: Scene Overlap Graph Network for Panoptic Segmentation**
+
+- intro: AAAI 2020. Innovation Award in COCO 2019 challenge
+- arxiv: [https://arxiv.org/abs/1911.07527](https://arxiv.org/abs/1911.07527)
 
 # Face Parsing
 
@@ -1696,6 +1715,7 @@ ranked 1st place in ImageNet Scene Parsing Challenge 2016
 
 **Devil in the Details: Towards Accurate Single and Multiple Human Parsing**
 
+- keywords: Context Embedding with Edge Perceiving (CE2P)
 - arxiv: [https://arxiv.org/abs/1809.05996](https://arxiv.org/abs/1809.05996)
 - github: [https://github.com/liutinglt/CE2P](https://github.com/liutinglt/CE2P)
 

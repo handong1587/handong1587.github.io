@@ -894,6 +894,11 @@ Continuation of [arXiv:1608.08021](https://arxiv.org/abs/1608.08021)
 - intro: Baidu Research, Sunnyvale USA
 - arxiv: [https://arxiv.org/abs/1907.10310](https://arxiv.org/abs/1907.10310)
 
+**Multi-adversarial Faster-RCNN for Unrestricted Object Detection**
+
+- intro: ICCV 2019
+- arxiv: [https://arxiv.org/abs/1907.10343](https://arxiv.org/abs/1907.10343)
+
 **Object as Distribution**
 
 - intro: NeurIPS 2019
@@ -939,11 +944,15 @@ Continuation of [arXiv:1608.08021](https://arxiv.org/abs/1608.08021)
 - intro: ICCV 2019 Low-Power Computer Vision Workshop
 - arxiv: [https://arxiv.org/abs/1909.10964](https://arxiv.org/abs/1909.10964)
 
-**Hierarchical Shot Detector**
+**Distance-IoU Loss: Faster and Better Learning for Bounding Box Regression**
 
-- intro: ICCV 2019
-- paper: [http://openaccess.thecvf.com/content_ICCV_2019/papers/Cao_Hierarchical_Shot_Detector_ICCV_2019_paper.pdf](http://openaccess.thecvf.com/content_ICCV_2019/papers/Cao_Hierarchical_Shot_Detector_ICCV_2019_paper.pdf)
-- github(official, Pytorch): [https://github.com/JialeCao001/HSD](https://github.com/JialeCao001/HSD)
+- intro: AAAI 2020
+- arxiv: [https://arxiv.org/abs/1911.08287](https://arxiv.org/abs/1911.08287)
+- github: [https://github.com/Zzh-tju/DIoU](https://github.com/Zzh-tju/DIoU)
+
+**Curriculum Self-Paced Learning for Cross-Domain Object Detection**
+
+[https://arxiv.org/abs/1911.06849](https://arxiv.org/abs/1911.06849)
 
 # Two-Stage Object Detection
 
@@ -1407,6 +1416,13 @@ Continuation of [arXiv:1608.08021](https://arxiv.org/abs/1608.08021)
 
 [https://arxiv.org/abs/1908.05612](https://arxiv.org/abs/1908.05612)
 
+**Hierarchical Shot Detector**
+
+- intro: ICCV 2019
+- keywords: reg-offset-cls (ROC) module
+- paper: [http://openaccess.thecvf.com/content_ICCV_2019/papers/Cao_Hierarchical_Shot_Detector_ICCV_2019_paper.pdf](http://openaccess.thecvf.com/content_ICCV_2019/papers/Cao_Hierarchical_Shot_Detector_ICCV_2019_paper.pdf)
+- github(official, Pytorch): [https://github.com/JialeCao001/HSD](https://github.com/JialeCao001/HSD)
+
 # Anchor-free
 
 **Feature Selective Anchor-Free Module for Single-Shot Object Detection**
@@ -1717,6 +1733,10 @@ Continuation of [arXiv:1608.08021](https://arxiv.org/abs/1608.08021)
 
 - intro: ICCV 2019
 - arxiv: [https://arxiv.org/abs/1908.11092](https://arxiv.org/abs/1908.11092)
+
+**Learning Motion Priors for Efficient Video Object Detection**
+
+[https://arxiv.org/abs/1911.05253](https://arxiv.org/abs/1911.05253)
 
 # Object Detection on Mobile Devices
 
