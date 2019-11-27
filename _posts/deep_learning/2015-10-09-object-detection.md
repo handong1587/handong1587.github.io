@@ -1447,6 +1447,15 @@ Continuation of [arXiv:1608.08021](https://arxiv.org/abs/1608.08021)
 
 [https://arxiv.org/abs/1910.06573](https://arxiv.org/abs/1910.06573)
 
+**EfficientDet: Scalable and Efficient Object Detection**
+
+[https://arxiv.org/abs/1911.09070](https://arxiv.org/abs/1911.09070)
+
+**Domain Adaptation for Object Detection via Style Consistency**
+
+- intro: BMVC 2019
+- arxiv: [https://arxiv.org/abs/1911.10033](https://arxiv.org/abs/1911.10033)
+
 # Non-Maximum Suppression (NMS)
 
 **End-to-End Integration of a Convolutional Network, Deformable Parts Model and Non-Maximum Suppression**

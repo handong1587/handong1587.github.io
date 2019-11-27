@@ -1328,6 +1328,11 @@ with built-in awareness of semantically meaningful boundaries. "
 
 [https://arxiv.org/abs/1911.06667](https://arxiv.org/abs/1911.06667)
 
+**Shape-aware Feature Extraction for Instance Segmentation**
+
+- intro: CVPR 2020
+- arxiv: [https://arxiv.org/abs/1911.11263](https://arxiv.org/abs/1911.11263)
+
 ## Human Instance Segmentation
 
 **PersonLab: Person Pose Estimation and Instance Segmentation with a Bottom-Up, Part-Based, Geometric Embedding Model**
@@ -1424,6 +1429,11 @@ with built-in awareness of semantically meaningful boundaries. "
 
 - intro: AAAI 2020. Innovation Award in COCO 2019 challenge
 - arxiv: [https://arxiv.org/abs/1911.07527](https://arxiv.org/abs/1911.07527)
+
+**Panoptic-DeepLab: A Simple, Strong, and Fast Baseline for Bottom-Up Panoptic Segmentation**
+
+- intro: UIUC & Google Research
+- arxiv: [https://arxiv.org/abs/1911.10194](https://arxiv.org/abs/1911.10194)
 
 # Face Parsing
 

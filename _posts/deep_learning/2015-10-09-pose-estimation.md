@@ -362,6 +362,11 @@ date: 2015-10-09
 
 [https://arxiv.org/abs/1911.07524](https://arxiv.org/abs/1911.07524)
 
+**Simple Pose: Rethinking and Improving a Bottom-up Approach for Multi-Person Pose Estimation**
+
+- intro: AAAI 2020
+- arxiv: [https://arxiv.org/abs/1911.10529](https://arxiv.org/abs/1911.10529)
+
 # 3D Pose
 
 **Can 3D Pose be Learned from 2D Projections Alone?**

@@ -782,6 +782,11 @@ at INT8 deep learning operations than other FPGA DSP architectures"
 - intro: NeurIPS workshop 2019
 - arxiv: [https://arxiv.org/abs/1910.04877](https://arxiv.org/abs/1910.04877)
 
+**Quantization Networks**
+
+- intro: CVPR 2019
+- arxiv: [https://arxiv.org/abs/1911.09464](https://arxiv.org/abs/1911.09464)
+
 # Binary Convolutional Neural Networks / Binarized Neural Networks
 
 **BinaryNet: Training Deep Neural Networks with Weights and Activations Constrained to +1 or -1**
@@ -888,6 +893,11 @@ at INT8 deep learning operations than other FPGA DSP architectures"
 
 - intro: Carnegie Mellon University
 - arxiv: [https://arxiv.org/abs/1904.02823](https://arxiv.org/abs/1904.02823)
+
+**GBCNs: Genetic Binary Convolutional Networks for Enhancing the Performance of 1-bit DCNNs**
+
+- intro: AAAI 2020
+- arxiv: [https://arxiv.org/abs/1911.11634](https://arxiv.org/abs/1911.11634)
 
 # Accelerating / Fast Algorithms
 

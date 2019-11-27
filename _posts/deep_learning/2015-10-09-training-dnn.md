@@ -1420,6 +1420,10 @@ date: 2015-10-09
 - arxiv: [https://arxiv.org/abs/1909.12220](https://arxiv.org/abs/1909.12220)
 - github(official): [https://github.com/blackfeather-wang/ISDA-for-Deep-Networks](https://github.com/blackfeather-wang/ISDA-for-Deep-Networks)
 
+**Data Augmentation Revisited: Rethinking the Distribution Gap between Clean and Augmented Data**
+
+[https://arxiv.org/abs/1909.09148](https://arxiv.org/abs/1909.09148)
+
 ## Imbalanced Datasets
 
 **Investigation on handling Structured & Imbalanced Datasets with Deep Learning**

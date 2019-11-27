@@ -294,6 +294,10 @@ date: 2015-10-09
 - intro: A book chapter in an Interpretable ML book ([http://www.interpretable-ml.org/book/](http://www.interpretable-ml.org/book/))
 - arxiv: [https://arxiv.org/abs/1904.08939](https://arxiv.org/abs/1904.08939)
 
+**Explaining Neural Networks via Perturbing Important Learned Features**
+
+[https://arxiv.org/abs/1911.11081](https://arxiv.org/abs/1911.11081)
+
 # Projects
 
 **Interactive Deep Neural Net Hallucinations**

@@ -2648,6 +2648,12 @@ Global Second-order Pooling Neural Networks**
 - arxiv: [https://arxiv.org/abs/1811.07456](https://arxiv.org/abs/1811.07456)
 - github: [https://github.com/jihanyang/AFN/](https://github.com/jihanyang/AFN/)
 
+**Multi-source Distilling Domain Adaptation**
+
+- intro: AAAI 2020
+- arxiv: [https://arxiv.org/abs/1911.11554](https://arxiv.org/abs/1911.11554)
+- github: [https://github.com/daoyuan98/MDDA](https://github.com/daoyuan98/MDDA)
+
 **awsome-domain-adaptation**
 
 [https://github.com/zhaoxin94/awsome-domain-adaptation](https://github.com/zhaoxin94/awsome-domain-adaptation)

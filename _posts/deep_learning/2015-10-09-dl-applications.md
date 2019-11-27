@@ -1651,6 +1651,11 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 - arxiv: [https://arxiv.org/abs/1909.08989](https://arxiv.org/abs/1909.08989)
 - github: [https://github.com/HuiZeng/Grid-Anchor-based-Image-Cropping-Pytorch](https://github.com/HuiZeng/Grid-Anchor-based-Image-Cropping-Pytorch)
 
+**Image Cropping with Composition and Saliency Aware Aesthetic Score Map**
+
+- intro: AAAI 2020
+- arxiv: [https://arxiv.org/abs/1911.10492](https://arxiv.org/abs/1911.10492)
+
 # Image Synthesis
 
 **Combining Markov Random Fields and Convolutional Neural Networks for Image Synthesis**
