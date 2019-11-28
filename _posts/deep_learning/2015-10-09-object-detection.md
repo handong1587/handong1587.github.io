@@ -2464,6 +2464,10 @@ Continuation of [arXiv:1608.08021](https://arxiv.org/abs/1608.08021)
 
 [https://arxiv.org/abs/1910.09188](https://arxiv.org/abs/1910.09188)
 
+**Semantic Head Enhanced Pedestrian Detection in a Crowd**
+
+[https://arxiv.org/abs/1911.11985](https://arxiv.org/abs/1911.11985)
+
 # Occluded Pedestrian Detection
 
 **Mask-Guided Attention Network for Occluded Pedestrian Detection**

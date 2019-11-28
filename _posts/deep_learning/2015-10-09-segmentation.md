@@ -1435,6 +1435,10 @@ with built-in awareness of semantically meaningful boundaries. "
 - intro: UIUC & Google Research
 - arxiv: [https://arxiv.org/abs/1911.10194](https://arxiv.org/abs/1911.10194)
 
+**PanDA: Panoptic Data Augmentation**
+
+[https://arxiv.org/abs/1911.12317](https://arxiv.org/abs/1911.12317)
+
 # Face Parsing
 
 **Face Parsing via Recurrent Propagation**
@@ -1738,6 +1742,12 @@ ranked 1st place in ImageNet Scene Parsing Challenge 2016
 
 - arxiv: [https://arxiv.org/abs/1910.09777](https://arxiv.org/abs/1910.09777)
 - github: [https://github.com/PeikeLi/Self-Correction-Human-Parsing](https://github.com/PeikeLi/Self-Correction-Human-Parsing)
+
+**Grapy-ML: Graph Pyramid Mutual Learning for Cross-dataset Human Parsing**
+
+- intro: AAAI 2020
+- arxiv: [https://arxiv.org/abs/1911.12053](https://arxiv.org/abs/1911.12053)
+- github: [https://github.com/Charleshhy/Grapy-ML](https://github.com/Charleshhy/Grapy-ML)
 
 # Joint Detection and Segmentation
 
