@@ -693,6 +693,11 @@ not just the convolutions)
 - intro: ICCV 2019
 - arxiv: [https://arxiv.org/abs/1909.04860](https://arxiv.org/abs/1909.04860)
 
+**AdaShare: Learning What To Share For Efficient Deep Multi-Task Learning**
+
+- intro: Boston University & IBM Research & MIT-IBM Watson AI Lab
+- arxiv: [https://arxiv.org/abs/1911.12423](https://arxiv.org/abs/1911.12423)
+
 # Multi-modal Learning
 
 **Multimodal Deep Learning**

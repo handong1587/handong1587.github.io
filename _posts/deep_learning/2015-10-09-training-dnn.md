@@ -528,6 +528,11 @@ date: 2015-10-09
 - arxiv: [https://arxiv.org/abs/1810.01322](https://arxiv.org/abs/1810.01322)
 - github(PyTorch, official): [https://github.com/leonardblier/alrao](https://github.com/leonardblier/alrao)
 
+**Learning Rate Dropout**
+
+- intro: 1Xiamen University & Columbia University
+- arxiv: [https://arxiv.org/abs/1912.00144](https://arxiv.org/abs/1912.00144)
+
 # Convolution Filters
 
 **Non-linear Convolution Filters for CNN-based Learning**

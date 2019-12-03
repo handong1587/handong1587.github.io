@@ -1392,6 +1392,7 @@ with built-in awareness of semantically meaningful boundaries. "
 
 **Attention-guided Unified Network for Panoptic Segmentation**
 
+- intro: CVPR 2019
 - intro: University of Chinese Academy of Sciences & Horizon Robotics, Inc. & The Johns Hopkins University
 - arxiv: [https://arxiv.org/abs/1812.03904](https://arxiv.org/abs/1812.03904)
 

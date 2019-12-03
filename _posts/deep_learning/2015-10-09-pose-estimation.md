@@ -360,7 +360,8 @@ date: 2015-10-09
 
 **The Devil is in the Details: Delving into Unbiased Data Processing for Human Pose Estimation**
 
-[https://arxiv.org/abs/1911.07524](https://arxiv.org/abs/1911.07524)
+- arxiv: [https://arxiv.org/abs/1911.07524](https://arxiv.org/abs/1911.07524)
+- github: [https://github.com/HuangJunJie2017/UDP-Pose](https://github.com/HuangJunJie2017/UDP-Pose)
 
 **Simple Pose: Rethinking and Improving a Bottom-up Approach for Multi-Person Pose Estimation**
 

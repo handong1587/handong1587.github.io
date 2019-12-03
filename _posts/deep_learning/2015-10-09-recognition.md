@@ -589,6 +589,11 @@ L**earning a Deep ConvNet for Multi-label Classification with Partial Labels**
 - intro: Huawei Noah’s Ark Lab & University of Sydney
 - arxiv: [https://arxiv.org/abs/1907.11837](https://arxiv.org/abs/1907.11837)
 
+**Distraction-Aware Feature Learning for Human Attribute Recognition via Coarse-to-Fine Attention Mechanism**
+
+- intro: AAAI 2020 oral
+- arxiv: [https://arxiv.org/abs/1911.11351](https://arxiv.org/abs/1911.11351)
+
 # Clothes Recognition
 
 **DeepFashion: Powering Robust Clothes Recognition and Retrieval with Rich Annotations**

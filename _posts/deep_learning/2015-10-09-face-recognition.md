@@ -355,6 +355,11 @@ L**ow-Resolution Face Recognition**
 - intro: Michigan State University & Youtu Lab, Tencent & Microsoft Cloud and AI & Zhejiang University
 - arxiv: [https://arxiv.org/abs/1911.11680](https://arxiv.org/abs/1911.11680)
 
+**Mis-classified Vector Guided Softmax Loss for Face Recognition**
+
+- intro: AAAI 2019 oral
+- arxiv: [https://arxiv.org/abs/1912.00833](https://arxiv.org/abs/1912.00833)
+
 # Face Verification
 
 **Deep Learning Face Representation by Joint Identification-Verification**

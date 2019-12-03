@@ -1388,6 +1388,12 @@ Continuation of [arXiv:1608.08021](https://arxiv.org/abs/1608.08021)
 - keywords: Average-Precision loss (AP-loss)
 - arxiv: {https://arxiv.org/abs/1904.06373}(https://arxiv.org/abs/1904.06373)
 
+**Efficient Featurized Image Pyramid Network for Single Shot Detector**
+
+- intro: CVPR 2019
+- paper: [http://openaccess.thecvf.com/content_CVPR_2019/papers/Pang_Efficient_Featurized_Image_Pyramid_Network_for_Single_Shot_Detector_CVPR_2019_paper.pdf](http://openaccess.thecvf.com/content_CVPR_2019/papers/Pang_Efficient_Featurized_Image_Pyramid_Network_for_Single_Shot_Detector_CVPR_2019_paper.pdf)
+- github: [https://github.com/vaesl/LFIP](https://github.com/vaesl/LFIP)
+
 **DR Loss: Improving Object Detection by Distributional Ranking**
 
 - intro: Alibaba Group
@@ -1455,6 +1461,15 @@ Continuation of [arXiv:1608.08021](https://arxiv.org/abs/1608.08021)
 
 - intro: BMVC 2019
 - arxiv: [https://arxiv.org/abs/1911.10033](https://arxiv.org/abs/1911.10033)
+
+**Soft Anchor-Point Object Detection**
+
+- intro: Carnegie Mellon University
+- arxiv: [https://arxiv.org/abs/1911.12448](https://arxiv.org/abs/1911.12448)
+
+**IPG-Net: Image Pyramid Guidance Network for Object Detection**
+
+[https://arxiv.org/abs/1912.00632](https://arxiv.org/abs/1912.00632)
 
 # Non-Maximum Suppression (NMS)
 

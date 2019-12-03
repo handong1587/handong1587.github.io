@@ -911,6 +911,10 @@ date: 2015-10-09
 - intro: ICCV 2019
 - arxiv: [https://arxiv.org/abs/1909.05235](https://arxiv.org/abs/1909.05235)
 
+**The Group Loss for Deep Metric Learning**
+
+[https://arxiv.org/abs/1912.00385](https://arxiv.org/abs/1912.00385)
+
 # Talks / Slides
 
 **TiefVision: end-to-end image similarity search engine**

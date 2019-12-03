@@ -112,3 +112,13 @@ date: 2015-10-09
 - intro: Xi’an Jiaotong University & Meituan
 - keywords: Knowledge Adjustment (KA), Dynamic Temperature Distillation (DTD)
 - arxiv: [https://arxiv.org/abs/1911.07471](https://arxiv.org/abs/1911.07471)
+
+**QKD: Quantization-aware Knowledge Distillation**
+
+[https://arxiv.org/abs/1911.12491](https://arxiv.org/abs/1911.12491)
+
+# resources
+
+**Awesome Knowledge-Distillation**
+
+[https://github.com/FLHonker/Awesome-Knowledge-Distillation](https://github.com/FLHonker/Awesome-Knowledge-Distillation)
