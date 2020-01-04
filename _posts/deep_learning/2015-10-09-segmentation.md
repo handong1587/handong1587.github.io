@@ -809,6 +809,7 @@ with built-in awareness of semantically meaningful boundaries. "
 **Context Encoding for Semantic Segmentation**
 
 - intro: CVPR 2018
+- keywords: Synchronized Cross-GPU Batch Normalization
 - arxiv: [https://arxiv.org/abs/1803.08904](https://arxiv.org/abs/1803.08904)
 - github: [https://github.com/zhanghang1989/PyTorch-Encoding](https://github.com/zhanghang1989/PyTorch-Encoding)
 
@@ -978,6 +979,10 @@ with built-in awareness of semantically meaningful boundaries. "
 - arxiv: [https://arxiv.org/abs/1904.02689](https://arxiv.org/abs/1904.02689)
 - github(official, Pytorch): [https://github.com/dbolya/yolact](https://github.com/dbolya/yolact)
 
+**YOLACT++: Better Real-time Instance Segmentation**
+
+[https://arxiv.org/abs/1912.06218](https://arxiv.org/abs/1912.06218)
+
 **DFANet: Deep Feature Aggregation for Real-Time Semantic Segmentation**
 
 - intro: Megvii Technology
@@ -1044,6 +1049,12 @@ with built-in awareness of semantically meaningful boundaries. "
 - keywords: LaU
 - arxiv: [https://arxiv.org/abs/1911.05250](https://arxiv.org/abs/1911.05250)
 - github: [https://github.com/HolmesShuan/Location-aware-Upsampling-for-Semantic-Segmentation](https://github.com/HolmesShuan/Location-aware-Upsampling-for-Semantic-Segmentation)
+
+**FasterSeg: Searching for Faster Real-time Semantic Segmentation**
+
+- intro: ICLR 2020
+- intro: Texas A&M University & Horizon Robotics Inc.
+- arxiv: [https://arxiv.org/abs/1912.10917](https://arxiv.org/abs/1912.10917)
 
 # Instance Segmentation
 
@@ -1333,6 +1344,25 @@ with built-in awareness of semantically meaningful boundaries. "
 - intro: CVPR 2020
 - arxiv: [https://arxiv.org/abs/1911.11263](https://arxiv.org/abs/1911.11263)
 
+**PolyTransform: Deep Polygon Transformer for Instance Segmentation**
+
+[https://arxiv.org/abs/1912.02801](https://arxiv.org/abs/1912.02801)
+
+**EmbedMask: Embedding Coupling for One-stage Instance Segmentation**
+
+[https://arxiv.org/abs/1912.01954](https://arxiv.org/abs/1912.01954)
+
+**SAIS: Single-stage Anchor-free Instance Segmentation**
+
+[https://arxiv.org/abs/1912.01176](https://arxiv.org/abs/1912.01176)
+
+**RDSNet: A New Deep Architecture for Reciprocal Object Detection and Instance Segmentation**
+
+- intro: AAAI 2020
+- intro: Chinese Academy of Sciences & 2Horizon Robotics Inc.
+- arxiv: [https://arxiv.org/abs/1912.05070](https://arxiv.org/abs/1912.05070)
+- github: [https://github.com/wangsr126/RDSNet](https://github.com/wangsr126/RDSNet)
+
 ## Human Instance Segmentation
 
 **PersonLab: Person Pose Estimation and Instance Segmentation with a Bottom-Up, Part-Based, Geometric Embedding Model**
@@ -1439,6 +1469,14 @@ with built-in awareness of semantically meaningful boundaries. "
 **PanDA: Panoptic Data Augmentation**
 
 [https://arxiv.org/abs/1911.12317](https://arxiv.org/abs/1911.12317)
+
+**Real-Time Panoptic Segmentation from Dense Detections**
+
+[https://arxiv.org/abs/1912.01202](https://arxiv.org/abs/1912.01202)
+
+**Bipartite Conditional Random Fields for Panoptic Segmentation**
+
+[https://arxiv.org/abs/1912.05307](https://arxiv.org/abs/1912.05307)
 
 # Face Parsing
 
@@ -1750,6 +1788,12 @@ ranked 1st place in ImageNet Scene Parsing Challenge 2016
 - arxiv: [https://arxiv.org/abs/1911.12053](https://arxiv.org/abs/1911.12053)
 - github: [https://github.com/Charleshhy/Grapy-ML](https://github.com/Charleshhy/Grapy-ML)
 
+**Learning Semantic Neural Tree for Human Parsing**
+
+- intro: Institute of Software Chinese Academy of Sciences & State University of New York & JD Finance America Corporation & Tencent Youtu Lab
+- arxiv: [https://arxiv.org/abs/1912.09622](https://arxiv.org/abs/1912.09622)
+- code: [https://isrc.iscas.ac.cn/gitlab/research/sematree](https://isrc.iscas.ac.cn/gitlab/research/sematree)
+
 # Joint Detection and Segmentation
 
 **Triply Supervised Decoder Networks for Joint Detection and Segmentation**
@@ -2043,6 +2087,11 @@ ranked 1st place in ImageNet Scene Parsing Challenge 2016
 
 - intro: ICCV 2019
 - arxiv: [https://arxiv.org/abs/1910.10895](https://arxiv.org/abs/1910.10895)
+
+**Learning a Spatio-Temporal Embedding for Video Instance Segmentation**
+
+- intro: University of Cambridge
+- arxiv: [https://arxiv.org/abs/1912.08969](https://arxiv.org/abs/1912.08969)
 
 ## Challenge
 

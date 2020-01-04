@@ -363,3 +363,11 @@ date: 2015-10-09
 
 - intro: ICCV 2019
 - arxiv: [https://arxiv.org/abs/1910.12384](https://arxiv.org/abs/1910.12384)
+
+**Feature-aware Adaptation and Structured Density Alignment for Crowd Counting in Video Surveillance**
+
+[https://arxiv.org/abs/1912.03672](https://arxiv.org/abs/1912.03672)
+
+**AutoScale: Learning to Scale for Crowd Counting**
+
+[https://arxiv.org/abs/1912.09632](https://arxiv.org/abs/1912.09632)

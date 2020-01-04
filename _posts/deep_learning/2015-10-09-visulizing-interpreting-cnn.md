@@ -298,6 +298,12 @@ date: 2015-10-09
 
 [https://arxiv.org/abs/1911.11081](https://arxiv.org/abs/1911.11081)
 
+**Interpreting Adversarially Trained Convolutional Neural Networks**
+
+- intro: ICML 2019
+- arxiv: [https://arxiv.org/abs/1905.09797](https://arxiv.org/abs/1905.09797)
+- github: [https://github.com/PKUAI26/AT-CNN](https://github.com/PKUAI26/AT-CNN)
+
 # Projects
 
 **Interactive Deep Neural Net Hallucinations**

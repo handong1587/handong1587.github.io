@@ -787,6 +787,10 @@ at INT8 deep learning operations than other FPGA DSP architectures"
 - intro: CVPR 2019
 - arxiv: [https://arxiv.org/abs/1911.09464](https://arxiv.org/abs/1911.09464)
 
+**Adaptive Loss-aware Quantization for Multi-bit Networks**
+
+[https://arxiv.org/abs/1912.08883](https://arxiv.org/abs/1912.08883)
+
 # Binary Convolutional Neural Networks / Binarized Neural Networks
 
 **BinaryNet: Training Deep Neural Networks with Weights and Activations Constrained to +1 or -1**

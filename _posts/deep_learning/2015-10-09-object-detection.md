@@ -944,6 +944,12 @@ Continuation of [arXiv:1608.08021](https://arxiv.org/abs/1608.08021)
 - intro: ICCV 2019 Low-Power Computer Vision Workshop
 - arxiv: [https://arxiv.org/abs/1909.10964](https://arxiv.org/abs/1909.10964)
 
+**Anchor Loss: Modulating Loss Scale based on Prediction Difficulty**
+
+- intro: ICCV 2019 oral
+- arxiv: [https://arxiv.org/abs/1909.11155](https://arxiv.org/abs/1909.11155)
+- github(Pytorch): [https://github.com/slryou41/AnchorLoss](https://github.com/slryou41/AnchorLoss)
+
 **Distance-IoU Loss: Faster and Better Learning for Bounding Box Regression**
 
 - intro: AAAI 2020
@@ -953,6 +959,20 @@ Continuation of [arXiv:1608.08021](https://arxiv.org/abs/1608.08021)
 **Curriculum Self-Paced Learning for Cross-Domain Object Detection**
 
 [https://arxiv.org/abs/1911.06849](https://arxiv.org/abs/1911.06849)
+
+**Multiple Anchor Learning for Visual Object Detection**
+
+[https://arxiv.org/abs/1912.02252](https://arxiv.org/abs/1912.02252)
+
+**MnasFPN: Learning Latency-aware Pyramid Architecture for Object Detection on Mobile Devices**
+
+- intro: Google AI & Google Brain
+- arxiv: [https://arxiv.org/abs/1912.01106](https://arxiv.org/abs/1912.01106)
+
+**AugFPN: Improving Multi-scale Feature Learning for Object Detection**
+
+- intro: CASIA & Horizon Robotics
+- arxiv: [https://arxiv.org/abs/1912.05384](https://arxiv.org/abs/1912.05384)
 
 # Two-Stage Object Detection
 
@@ -1121,6 +1141,11 @@ Continuation of [arXiv:1608.08021](https://arxiv.org/abs/1608.08021)
 
 - intro: BMVC 2019
 - arxiv: [https://arxiv.org/abs/1907.11914](https://arxiv.org/abs/1907.11914)
+
+**IoU-uniform R-CNN: Breaking Through the Limitations of RPN**
+
+- arxiv: [https://arxiv.org/abs/1912.05190](https://arxiv.org/abs/1912.05190)
+- github(mmdetection): [https://github.com/zl1994/IoU-Uniform-R-CNN](https://github.com/zl1994/IoU-Uniform-R-CNN)
 
 # Single-Shot Object Detection
 
@@ -1429,6 +1454,10 @@ Continuation of [arXiv:1608.08021](https://arxiv.org/abs/1608.08021)
 - paper: [http://openaccess.thecvf.com/content_ICCV_2019/papers/Cao_Hierarchical_Shot_Detector_ICCV_2019_paper.pdf](http://openaccess.thecvf.com/content_ICCV_2019/papers/Cao_Hierarchical_Shot_Detector_ICCV_2019_paper.pdf)
 - github(official, Pytorch): [https://github.com/JialeCao001/HSD](https://github.com/JialeCao001/HSD)
 
+**Learning from Noisy Anchors for One-stage Object Detection**
+
+[https://arxiv.org/abs/1912.05086](https://arxiv.org/abs/1912.05086)
+
 # Anchor-free
 
 **Feature Selective Anchor-Free Module for Single-Shot Object Detection**
@@ -1470,6 +1499,11 @@ Continuation of [arXiv:1608.08021](https://arxiv.org/abs/1608.08021)
 **IPG-Net: Image Pyramid Guidance Network for Object Detection**
 
 [https://arxiv.org/abs/1912.00632](https://arxiv.org/abs/1912.00632)
+
+**Bridging the Gap Between Anchor-based and Anchor-free Detection via Adaptive Training Sample Selection**
+
+- arxiv: [https://arxiv.org/abs/1912.02424](https://arxiv.org/abs/1912.02424)
+- github: [https://github.com/sfzhang15/ATSS](https://github.com/sfzhang15/ATSS)
 
 # Non-Maximum Suppression (NMS)
 
@@ -2200,6 +2234,11 @@ Continuation of [arXiv:1608.08021](https://arxiv.org/abs/1608.08021)
 - intro: CVPR Workshop on Computer Vision for Augmented and Virtual Reality, 2019
 - arxiv: [https://arxiv.org/abs/1907.05047](https://arxiv.org/abs/1907.05047)
 
+**HAMBox: Delving into Online High-quality Anchors Mining for Detecting Outer Faces**
+
+- intro: Baidu Inc. &  Chinese Academy of Sciences
+- arxiv: [https://arxiv.org/abs/1912.09231](https://arxiv.org/abs/1912.09231)
+
 ## Detect Small Faces
 
 **Finding Tiny Faces**
@@ -2447,6 +2486,16 @@ Continuation of [arXiv:1608.08021](https://arxiv.org/abs/1608.08021)
 **Evading Real-Time Person Detectors by Adversarial T-shirt**
 
 [https://arxiv.org/abs/1910.11099](https://arxiv.org/abs/1910.11099)
+
+**Coupled Network for Robust Pedestrian Detection with Gated Multi-Layer Feature Extraction and Deformable Occlusion Handling**
+
+[https://arxiv.org/abs/1912.08661](https://arxiv.org/abs/1912.08661)
+
+**Scale Match for Tiny Person Detection**
+
+- intro: WACV 2020
+- arxiv: [https://arxiv.org/abs/1912.10664](https://arxiv.org/abs/1912.10664)
+- github: [https://github.com/ucas-vg/TinyBenchmark](https://github.com/ucas-vg/TinyBenchmark)
 
 ## Pedestrian Detection in a Crowd
 

@@ -417,7 +417,18 @@ date: 2015-10-09
 - intro: ICCV 2019
 - arxiv: [https://arxiv.org/abs/1907.11346](https://arxiv.org/abs/1907.11346)
 - github: [https://github.com/mks0601/3DMPPE_ROOTNET_RELEASE](https://github.com/mks0601/3DMPPE_ROOTNET_RELEASE)
-- github: [https://github.com/mks0601/3DMPPE_POSENET_RELEASE](https://github.com/mks0601/3DMPPE_POSENET_RELEASE)
+
+# Pose Estimation and Action Recognition
+**
+2D/3D Pose Estimation and Action Recognition using Multitask Deep Learning**
+
+- intro: CVPR 2018
+- arxiv: [https://arxiv.org/abs/1802.09232](https://arxiv.org/abs/1802.09232)
+
+**Multi-task Deep Learning for Real-Time 3D Human Pose Estimation and Action Recognition**
+
+- arxiv: [https://arxiv.org/abs/1912.08077](https://arxiv.org/abs/1912.08077)
+- github: [https://github.com/dluvizon/deephar](https://github.com/dluvizon/deephar)
 
 # Pose Tracking
 
@@ -443,6 +454,11 @@ date: 2015-10-09
 - intro: JD.com Silicon Valley Research Center
 - intro: ECCVW 2018. Workshop: 2nd PoseTrack Challenge
 - arxiv: [https://arxiv.org/abs/1901.07680](https://arxiv.org/abs/1901.07680)
+
+**15 Keypoints Is All You Need**
+
+- intro: Brown University & NEC Labs America
+- arxiv: [https://arxiv.org/abs/1912.02323](https://arxiv.org/abs/1912.02323)
 
 # Object Pose Estimation
 
