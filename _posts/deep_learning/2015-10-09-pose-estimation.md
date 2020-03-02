@@ -321,6 +321,12 @@ date: 2015-10-09
 - intro: Chinese Academy of Sciences & BUPT & Horizon Robotics
 - arxiv: [https://arxiv.org/abs/1908.06290](https://arxiv.org/abs/1908.06290)
 
+**Single-Stage Multi-Person Pose Machines**
+
+- intro: ICCV 2019
+- intro: Yitu Technology
+- arxiv: [https://arxiv.org/abs/1908.09220](https://arxiv.org/abs/1908.09220)
+
 **Single-Network Whole-Body Pose Estimation**
 
 - intro: ICCV 2019
@@ -418,9 +424,13 @@ date: 2015-10-09
 - arxiv: [https://arxiv.org/abs/1907.11346](https://arxiv.org/abs/1907.11346)
 - github: [https://github.com/mks0601/3DMPPE_ROOTNET_RELEASE](https://github.com/mks0601/3DMPPE_ROOTNET_RELEASE)
 
+**Lightweight 3D Human Pose Estimation Network Training Using Teacher-Student Learning**
+
+[https://arxiv.org/abs/2001.05097](https://arxiv.org/abs/2001.05097)
+
 # Pose Estimation and Action Recognition
-**
-2D/3D Pose Estimation and Action Recognition using Multitask Deep Learning**
+
+**2D/3D Pose Estimation and Action Recognition using Multitask Deep Learning**
 
 - intro: CVPR 2018
 - arxiv: [https://arxiv.org/abs/1802.09232](https://arxiv.org/abs/1802.09232)

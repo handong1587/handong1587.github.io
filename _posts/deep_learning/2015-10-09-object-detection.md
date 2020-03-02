@@ -974,6 +974,16 @@ Continuation of [arXiv:1608.08021](https://arxiv.org/abs/1608.08021)
 - intro: CASIA & Horizon Robotics
 - arxiv: [https://arxiv.org/abs/1912.05384](https://arxiv.org/abs/1912.05384)
 
+**Object Detection as a Positive-Unlabeled Problem**
+
+[https://arxiv.org/abs/2002.04672](https://arxiv.org/abs/2002.04672)
+
+**Universal-RCNN: Universal Object Detector via Transferable Graph R-CNN**
+
+- intro: AAAI 2020
+- intro: Huawei Noah’s Ark Lab & South China University of Technology & Sun Yat-Sen University
+- arxiv: [https://arxiv.org/abs/2002.07417](https://arxiv.org/abs/2002.07417)
+
 # Two-Stage Object Detection
 
 ## R-CNN
@@ -1831,8 +1841,7 @@ Continuation of [arXiv:1608.08021](https://arxiv.org/abs/1608.08021)
 - intro: AAAI 2019
 - arxiv: [https://arxiv.org/abs/1901.02237](https://arxiv.org/abs/1901.02237)
 
-**
-3D Backbone Network for 3D Object Detection**
+**3D Backbone Network for 3D Object Detection**
 
 [https://arxiv.org/abs/1901.08373](https://arxiv.org/abs/1901.08373)
 

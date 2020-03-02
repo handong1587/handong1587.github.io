@@ -371,6 +371,10 @@ date: 2015-10-09
 - arxiv: [https://arxiv.org/abs/1805.11604](https://arxiv.org/abs/1805.11604)
 - video: [https://www.youtube.com/watch?v=ZOabsYbmBRM](https://www.youtube.com/watch?v=ZOabsYbmBRM)
 
+**Cross-Iteration Batch Normalization**
+
+[https://arxiv.org/abs/2002.05712](https://arxiv.org/abs/2002.05712)
+
 ### Backward pass of BN
 
 **Understanding the backward pass through Batch Normalization Layer**
@@ -1428,6 +1432,15 @@ date: 2015-10-09
 **Data Augmentation Revisited: Rethinking the Distribution Gap between Clean and Augmented Data**
 
 [https://arxiv.org/abs/1909.09148](https://arxiv.org/abs/1909.09148)
+
+**GridMask Data Augmentation**
+
+[https://arxiv.org/abs/2001.04086](https://arxiv.org/abs/2001.04086)
+
+**On Feature Normalization and Data Augmentation**
+
+- intro: Cornell University & Cornell Tech & ASAPP Inc. & Facebook AI
+- arxiv: [https://arxiv.org/abs/2002.11102](https://arxiv.org/abs/2002.11102)
 
 ## Imbalanced Datasets
 

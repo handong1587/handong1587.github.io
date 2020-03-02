@@ -2468,6 +2468,11 @@ Global Second-order Pooling Neural Networks**
 
 - arxiv: [http://arxiv.org/abs/1608.04337](http://arxiv.org/abs/1608.04337)
 
+**XSepConv: Extremely Separated Convolution**
+
+- intro: Tsinghua University & University College London
+- arxiv: [https://arxiv.org/abs/2002.12046](https://arxiv.org/abs/2002.12046)
+
 ## STDP
 
 **A biological gradient descent for prediction through a combination of STDP and homeostatic plasticity**

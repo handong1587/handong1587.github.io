@@ -230,6 +230,7 @@ Compressed model is less than 500KB
 **Demystifying Neural Style Transfer**
 
 - intro: IJCAI 2017
+- intro: Peking University & TuSimple
 - arxiv: [https://arxiv.org/abs/1701.01036](https://arxiv.org/abs/1701.01036)
 - github: [https://github.com/lyttonhao/Neural-Style-MMD](https://github.com/lyttonhao/Neural-Style-MMD)
 

@@ -928,6 +928,11 @@ with built-in awareness of semantically meaningful boundaries. "
 - arxiv: [https://arxiv.org/abs/1811.11254](https://arxiv.org/abs/1811.11254)
 - github: [https://github.com/juntang-zhuang/ShelfNet](https://github.com/juntang-zhuang/ShelfNet)
 
+**RetinaMask: Learning to predict masks improves state-of-the-art single-shot detection for free**
+
+- arxiv: [https://arxiv.org/abs/1901.03353](https://arxiv.org/abs/1901.03353)
+- github: [https://github.com/chengyangfu/retinamask](https://github.com/chengyangfu/retinamask)
+
 **Semantic Nighttime Image Segmentation with Synthetic Stylized Data, Gradual Adaptation and Uncertainty-Aware Evaluation**
 
 - intro: ETH Zurich & KU Leuven
@@ -1028,6 +1033,12 @@ with built-in awareness of semantically meaningful boundaries. "
 - intro: ICCV 2019
 - arxiv: [https://arxiv.org/abs/1909.09408](https://arxiv.org/abs/1909.09408)
 
+**PolarMask: Single Shot Instance Segmentation with Polar Representation**
+
+- intro: CVPR 2020
+- arxiv: [https://arxiv.org/abs/1909.13226](https://arxiv.org/abs/1909.13226)
+- github: [https://github.com/xieenze/PolarMask](https://github.com/xieenze/PolarMask)
+
 **Region Mutual Information Loss for Semantic Segmentation**
 
 - intro: NeurIPS 2019
@@ -1055,6 +1066,10 @@ with built-in awareness of semantically meaningful boundaries. "
 - intro: ICLR 2020
 - intro: Texas A&M University & Horizon Robotics Inc.
 - arxiv: [https://arxiv.org/abs/1912.10917](https://arxiv.org/abs/1912.10917)
+
+**BlendMask: Top-Down Meets Bottom-Up for Instance Segmentation**
+
+[https://arxiv.org/abs/2001.00309](https://arxiv.org/abs/2001.00309)
 
 # Instance Segmentation
 
@@ -1337,7 +1352,10 @@ with built-in awareness of semantically meaningful boundaries. "
 
 **CenterMask : Real-Time Anchor-Free Instance Segmentation**
 
-[https://arxiv.org/abs/1911.06667](https://arxiv.org/abs/1911.06667)
+- intro: CVPR 2020
+- arxiv: [https://arxiv.org/abs/1911.06667](https://arxiv.org/abs/1911.06667)
+- github: [https://github.com/youngwanLEE/CenterMask](https://github.com/youngwanLEE/CenterMask)
+- github: [https://github.com/youngwanLEE/centermask2](https://github.com/youngwanLEE/centermask2)
 
 **Shape-aware Feature Extraction for Instance Segmentation**
 
@@ -1350,7 +1368,8 @@ with built-in awareness of semantically meaningful boundaries. "
 
 **EmbedMask: Embedding Coupling for One-stage Instance Segmentation**
 
-[https://arxiv.org/abs/1912.01954](https://arxiv.org/abs/1912.01954)
+- arxiv: [https://arxiv.org/abs/1912.01954](https://arxiv.org/abs/1912.01954)
+- gitub: [https://github.com/yinghdb/EmbedMask](https://github.com/yinghdb/EmbedMask)
 
 **SAIS: Single-stage Anchor-free Instance Segmentation**
 
@@ -1478,6 +1497,15 @@ with built-in awareness of semantically meaningful boundaries. "
 
 [https://arxiv.org/abs/1912.05307](https://arxiv.org/abs/1912.05307)
 
+**Unifying Training and Inference for Panoptic Segmentation**
+
+[https://arxiv.org/abs/2001.04982](https://arxiv.org/abs/2001.04982)
+
+**Towards Bounding-Box Free Panoptic Segmentation**
+
+- intro: SLAMcore Ltd. & Imperial College London
+- arxiv: [https://arxiv.org/abs/2002.07705](https://arxiv.org/abs/2002.07705)
+
 # Face Parsing
 
 **Face Parsing via Recurrent Propagation**
@@ -1493,6 +1521,10 @@ with built-in awareness of semantically meaningful boundaries. "
 
 - intro: Software School of Xiamen University & Microsoft Research
 - arxiv: [https://arxiv.org/abs/1906.01342](https://arxiv.org/abs/1906.01342)
+
+**End-to-End Face Parsing via Interlinked Convolutional Neural Networks**
+
+[https://arxiv.org/abs/2002.04831](https://arxiv.org/abs/2002.04831)
 
 # Specific Segmentation
 

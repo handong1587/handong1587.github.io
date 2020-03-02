@@ -20,6 +20,11 @@ date: 2015-10-09
 - arxiv: [https://arxiv.org/abs/1610.09650](https://arxiv.org/abs/1610.09650)
 - github: [https://github.com/chengshengchan/model_compression](https://github.com/chengshengchan/model_compression)]
 
+**A Gift from Knowledge Distillation: Fast Optimization, Network Minimization and Transfer Learning**
+
+- intro: CVPR 2017
+- paper: [http://openaccess.thecvf.com/content_cvpr_2017/papers/Yim_A_Gift_From_CVPR_2017_paper.pdf](http://openaccess.thecvf.com/content_cvpr_2017/papers/Yim_A_Gift_From_CVPR_2017_paper.pdf)
+
 **Like What You Like: Knowledge Distill via Neuron Selectivity Transfer**
 
 - intro: TuSimple
@@ -75,6 +80,12 @@ date: 2015-10-09
 - intro: Washington State University & DeepMind
 - arxiv: [https://arxiv.org/abs/1902.03393](https://arxiv.org/abs/1902.03393)
 
+**Correlation Congruence for Knowledge Distillation**
+
+- intro: NUDT & SenseTime & BUAA & CUHK
+- keywords: Correlation Congruence Knowledge Distillation (CCKD)
+- arxiv: [https://arxiv.org/abs/1904.01802](https://arxiv.org/abs/1904.01802)
+
 **Similarity-Preserving Knowledge Distillation**
 
 - intro: ICCV 2019
@@ -116,6 +127,10 @@ date: 2015-10-09
 **QKD: Quantization-aware Knowledge Distillation**
 
 [https://arxiv.org/abs/1911.12491](https://arxiv.org/abs/1911.12491)
+
+**Residual Knowledge Distillation**
+
+[https://arxiv.org/abs/2002.09168](https://arxiv.org/abs/2002.09168)
 
 # resources
 

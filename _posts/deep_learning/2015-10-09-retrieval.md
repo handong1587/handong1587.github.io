@@ -782,6 +782,12 @@ date: 2015-10-09
 - intro: Xi’an Jiaotong University & University of Technology Sydney & National University of Singapore & CMU
 - arxiv: [https://arxiv.org/abs/1702.01229](https://arxiv.org/abs/1702.01229)
 
+**SoDeep: a Sorting Deep net to learn ranking loss surrogates**
+
+- intro: CVPR 2019
+- arxiv: [https://arxiv.org/abs/1904.04272](https://arxiv.org/abs/1904.04272)
+- github: [https://github.com/technicolor-research/sodeep](https://github.com/technicolor-research/sodeep)
+
 # Deep Metric Learning
 
 **Deep metric learning using Triplet network**
