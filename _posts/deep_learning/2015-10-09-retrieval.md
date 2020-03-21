@@ -921,6 +921,12 @@ date: 2015-10-09
 
 [https://arxiv.org/abs/1912.00385](https://arxiv.org/abs/1912.00385)
 
+**Embedding Expansion: Augmentation in Embedding Space for Deep Metric Learning**
+
+- intro: CVPR 2020
+- intro: NAVER Corp.
+- arxiv: [https://arxiv.org/abs/2003.02546](https://arxiv.org/abs/2003.02546)
+
 # Talks / Slides
 
 **TiefVision: end-to-end image similarity search engine**

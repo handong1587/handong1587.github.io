@@ -374,6 +374,11 @@ date: 2015-10-09
 - intro: AAAI 2020
 - arxiv: [https://arxiv.org/abs/1911.10529](https://arxiv.org/abs/1911.10529)
 
+**HintPose**
+
+- intro: Joint COCO and Mapillary Workshop at ICCV 2019: Keypoint Detection Challenge Track
+- arxiv: [https://arxiv.org/abs/2003.02170](https://arxiv.org/abs/2003.02170)
+
 # 3D Pose
 
 **Can 3D Pose be Learned from 2D Projections Alone?**
@@ -427,6 +432,31 @@ date: 2015-10-09
 **Lightweight 3D Human Pose Estimation Network Training Using Teacher-Student Learning**
 
 [https://arxiv.org/abs/2001.05097](https://arxiv.org/abs/2001.05097)
+
+**Cross-View Tracking for Multi-Human 3D Pose Estimation at over 100 FPS**
+
+- intro: CVPR 2020
+- intro: Tsinghua University & AiFi Inc.
+- arxiv: [https://arxiv.org/abs/2003.03972](https://arxiv.org/abs/2003.03972)
+
+# 3D Car keypoints Detection
+
+**Occlusion-Net: 2D/3D Occluded Keypoint Localization Using Graph Networks**
+
+- intro: CVPR 2019
+- paper: [http://openaccess.thecvf.com/content_CVPR_2019/papers/Reddy_Occlusion-Net_2D3D_Occluded_Keypoint_Localization_Using_Graph_Networks_CVPR_2019_paper.pdf](http://openaccess.thecvf.com/content_CVPR_2019/papers/Reddy_Occlusion-Net_2D3D_Occluded_Keypoint_Localization_Using_Graph_Networks_CVPR_2019_paper.pdf)
+- github: [https://github.com/dineshreddy91/Occlusion_Net](https://github.com/dineshreddy91/Occlusion_Net)
+
+**RTM3D: Real-time Monocular 3D Detection from Object Keypoints for Autonomous Driving**
+
+- intro: Chinese Academy of Sciences & University of Chinese Academy of Sciences
+- arxiv: [https://arxiv.org/abs/2001.03343](https://arxiv.org/abs/2001.03343)
+- github: [https://github.com/Banconxuan/RTM3D](https://github.com/Banconxuan/RTM3D)
+
+**SMOKE: Single-Stage Monocular 3D Object Detection via Keypoint Estimation**
+
+- intro: 1ZongMu Tech & TU/e
+- arxiv: [https://arxiv.org/abs/2002.10111](https://arxiv.org/abs/2002.10111)
 
 # Pose Estimation and Action Recognition
 

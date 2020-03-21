@@ -375,6 +375,11 @@ date: 2015-10-09
 
 [https://arxiv.org/abs/2002.05712](https://arxiv.org/abs/2002.05712)
 
+**Extended Batch Normalization**
+
+- intro: Chinese Academy of Sciences
+- arxiv: [https://arxiv.org/abs/2003.05569](https://arxiv.org/abs/2003.05569)
+
 ### Backward pass of BN
 
 **Understanding the backward pass through Batch Normalization Layer**
@@ -1440,7 +1445,13 @@ date: 2015-10-09
 **On Feature Normalization and Data Augmentation**
 
 - intro: Cornell University & Cornell Tech & ASAPP Inc. & Facebook AI
+- keywords: MoEx (Moment Exchange)
 - arxiv: [https://arxiv.org/abs/2002.11102](https://arxiv.org/abs/2002.11102)
+- github: [https://github.com/Boyiliee/MoEx](https://github.com/Boyiliee/MoEx)
+
+**DADA: Differentiable Automatic Data Augmentation**
+
+[https://arxiv.org/abs/2003.03780](https://arxiv.org/abs/2003.03780)
 
 ## Imbalanced Datasets
 

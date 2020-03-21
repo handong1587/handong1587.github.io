@@ -128,9 +128,13 @@ date: 2015-10-09
 
 [https://arxiv.org/abs/1911.12491](https://arxiv.org/abs/1911.12491)
 
-**Residual Knowledge Distillation**
+**Explaining Knowledge Distillation by Quantifying the Knowledge**
 
-[https://arxiv.org/abs/2002.09168](https://arxiv.org/abs/2002.09168)
+[https://arxiv.org/abs/2003.03622](https://arxiv.org/abs/2003.03622)
+
+**Knowledge distillation via adaptive instance normalization**
+
+[https://arxiv.org/abs/2003.04289](https://arxiv.org/abs/2003.04289)
 
 # resources
 

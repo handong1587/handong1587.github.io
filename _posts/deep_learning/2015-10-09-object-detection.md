@@ -984,6 +984,22 @@ Continuation of [arXiv:1608.08021](https://arxiv.org/abs/1608.08021)
 - intro: Huawei Noah’s Ark Lab & South China University of Technology & Sun Yat-Sen University
 - arxiv: [https://arxiv.org/abs/2002.07417](https://arxiv.org/abs/2002.07417)
 
+**iDet: An Efficient Binarized Object Detector**
+
+- intro: CVPR 2020
+- arxiv: [https://arxiv.org/abs/2003.03961](https://arxiv.org/abs/2003.03961)
+- github: [https://github.com/ZiweiWangTHU/BiDet](https://github.com/ZiweiWangTHU/BiDet)
+
+**Revisiting the Sibling Head in Object Detector**
+
+- intro: CVPR 2020 & Method of Champion of OpenImage Challenge 2019, detection track
+- intro: 1SenseTime X-Lab & CUHK
+- arxiv: [https://arxiv.org/abs/2003.07540](https://arxiv.org/abs/2003.07540)
+
+**Extended Feature Pyramid Network for Small Object Detection**
+
+[https://arxiv.org/abs/2003.07021](https://arxiv.org/abs/2003.07021)
+
 # Two-Stage Object Detection
 
 ## R-CNN
@@ -1504,6 +1520,7 @@ Continuation of [arXiv:1608.08021](https://arxiv.org/abs/1608.08021)
 **Soft Anchor-Point Object Detection**
 
 - intro: Carnegie Mellon University
+- keywords: Soft Anchor-Point Detector (SAPD)
 - arxiv: [https://arxiv.org/abs/1911.12448](https://arxiv.org/abs/1911.12448)
 
 **IPG-Net: Image Pyramid Guidance Network for Object Detection**
@@ -2247,6 +2264,11 @@ Continuation of [arXiv:1608.08021](https://arxiv.org/abs/1608.08021)
 
 - intro: Baidu Inc. &  Chinese Academy of Sciences
 - arxiv: [https://arxiv.org/abs/1912.09231](https://arxiv.org/abs/1912.09231)
+
+**KPNet: Towards Minimal Face Detector**
+
+- intro: AAAI 2020
+- arxiv: [https://arxiv.org/abs/2003.07543](https://arxiv.org/abs/2003.07543)
 
 ## Detect Small Faces
 

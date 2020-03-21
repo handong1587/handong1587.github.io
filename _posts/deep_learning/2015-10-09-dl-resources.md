@@ -1416,6 +1416,11 @@ Global Second-order Pooling Neural Networks**
 - intro: National Tsing Hua University & University of Michigan
 - arxiv: [https://arxiv.org/abs/1909.00948](https://arxiv.org/abs/1909.00948)
 
+**Π− nets: Deep Polynomial Neural Networks**
+
+- intro: CVPR 2020
+- arxiv: [https://arxiv.org/abs/2003.03828](https://arxiv.org/abs/2003.03828)
+
 ## Convolutions / Filters
 
 **Warped Convolutions: Efficient Invariance to Spatial Transformations**

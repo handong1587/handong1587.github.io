@@ -1067,9 +1067,9 @@ with built-in awareness of semantically meaningful boundaries. "
 - intro: Texas A&M University & Horizon Robotics Inc.
 - arxiv: [https://arxiv.org/abs/1912.10917](https://arxiv.org/abs/1912.10917)
 
-**BlendMask: Top-Down Meets Bottom-Up for Instance Segmentation**
+**AlignSeg: Feature-Aligned Segmentation Networks**
 
-[https://arxiv.org/abs/2001.00309](https://arxiv.org/abs/2001.00309)
+[https://arxiv.org/abs/2003.00872](https://arxiv.org/abs/2003.00872)
 
 # Instance Segmentation
 
@@ -1382,6 +1382,25 @@ with built-in awareness of semantically meaningful boundaries. "
 - arxiv: [https://arxiv.org/abs/1912.05070](https://arxiv.org/abs/1912.05070)
 - github: [https://github.com/wangsr126/RDSNet](https://github.com/wangsr126/RDSNet)
 
+**BlendMask: Top-Down Meets Bottom-Up for Instance Segmentation**
+
+[https://arxiv.org/abs/2001.00309](https://arxiv.org/abs/2001.00309)
+
+**Conditional Convolutions for Instance Segmentation**
+
+- intro: The University of Adelaide
+- arxiv: [https://arxiv.org/abs/2003.05664](https://arxiv.org/abs/2003.05664)
+- github: [https://github.com/aim-uofa/adet](https://github.com/aim-uofa/adet)
+
+**PointINS: Point-based Instance Segmentation**
+
+- intro: CUHK & MEGVII & Chinese Academy of Sciences & SmartMore
+- arxiv: [https://arxiv.org/abs/2003.06148](https://arxiv.org/abs/2003.06148)
+
+**1st Place Solutions for OpenImage2019 -- Object Detection and Instance Segmentation**
+
+[https://arxiv.org/abs/2003.07557](https://arxiv.org/abs/2003.07557)
+
 ## Human Instance Segmentation
 
 **PersonLab: Person Pose Estimation and Instance Segmentation with a Bottom-Up, Part-Based, Geometric Embedding Model**
@@ -1505,6 +1524,16 @@ with built-in awareness of semantically meaningful boundaries. "
 
 - intro: SLAMcore Ltd. & Imperial College London
 - arxiv: [https://arxiv.org/abs/2002.07705](https://arxiv.org/abs/2002.07705)
+
+**A Benchmark for LiDAR-based Panoptic Segmentation based on KITTI**
+
+- project page: [http://semantic-kitti.org/](http://semantic-kitti.org/)
+- arxiv: [https://arxiv.org/abs/2003.02371](https://arxiv.org/abs/2003.02371)
+
+**Axial-DeepLab: Stand-Alone Axial-Attention for Panoptic Segmentation**
+
+- intro: Johns Hopkins University & Google Research
+- arxiv: [https://arxiv.org/abs/2003.07853](https://arxiv.org/abs/2003.07853)
 
 # Face Parsing
 

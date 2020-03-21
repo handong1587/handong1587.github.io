@@ -429,6 +429,10 @@ L**ow-Resolution Face Recognition**
 
 [https://arxiv.org/abs/1903.10974](https://arxiv.org/abs/1903.10974)
 
+**xCos: An Explainable Cosine Metric for Face Verification Task**
+
+[https://arxiv.org/abs/2003.05383](https://arxiv.org/abs/2003.05383)
+
 # Facial Attributes Classification
 
 **A Jointly Learned Deep Architecture for Facial Attribute Analysis and Face Detection in the Wild**
