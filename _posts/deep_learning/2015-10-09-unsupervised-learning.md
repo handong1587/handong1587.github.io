@@ -108,6 +108,13 @@ Auto-encoder
 
 [https://arxiv.org/abs/1804.02678](https://arxiv.org/abs/1804.02678)
 
+**Momentum Contrast for Unsupervised Visual Representation Learning**
+
+- intro: CVPR 2020
+- intro: Facebook AI Research (FAIR)
+- arxiv: [https://arxiv.org/abs/1911.05722](https://arxiv.org/abs/1911.05722)
+- github(official, Pytorch): [https://github.com/facebookresearch/moco](https://github.com/facebookresearch/moco)
+
 ## Clustering
 
 **Deep clustering: Discriminative embeddings for segmentation and separation**

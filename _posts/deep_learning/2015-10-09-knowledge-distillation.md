@@ -136,6 +136,16 @@ date: 2015-10-09
 
 [https://arxiv.org/abs/2003.04289](https://arxiv.org/abs/2003.04289)
 
+**Distillating Knowledge from Graph Convolutional Networks**
+
+- intro: CVPR 2020
+- arxiv: [https://arxiv.org/abs/2003.10477](https://arxiv.org/abs/2003.10477)
+
+**Regularizing Class-wise Predictions via Self-knowledge Distillation**
+
+- intro: CVPR 2020
+- arxiv: [https://arxiv.org/abs/2003.13964](https://arxiv.org/abs/2003.13964)
+
 # resources
 
 **Awesome Knowledge-Distillation**

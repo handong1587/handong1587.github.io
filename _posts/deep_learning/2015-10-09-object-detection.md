@@ -1000,6 +1000,11 @@ Continuation of [arXiv:1608.08021](https://arxiv.org/abs/1608.08021)
 
 [https://arxiv.org/abs/2003.07021](https://arxiv.org/abs/2003.07021)
 
+**SaccadeNet: A Fast and Accurate Object Detector**
+
+- intro: University of Maryland & Wormpex AI Research
+- arxiv: [https://arxiv.org/abs/2003.12125](https://arxiv.org/abs/2003.12125)
+
 # Two-Stage Object Detection
 
 ## R-CNN
@@ -1580,6 +1585,12 @@ Continuation of [arXiv:1608.08021](https://arxiv.org/abs/1608.08021)
 **Daedalus: Breaking Non-Maximum Suppression in Object Detection via Adversarial Examples**
 
 [https://arxiv.org/abs/1902.02067](https://arxiv.org/abs/1902.02067)
+
+**NMS by Representative Region: Towards Crowded Pedestrian Detection by Proposal Pairing**
+
+- intro: CVPR 2020
+- intro: Waseda University & Tencent AI Lab
+- arxiv: [https://arxiv.org/abs/2003.12729](https://arxiv.org/abs/2003.12729)
 
 # Adversarial Examples
 
@@ -2269,6 +2280,11 @@ Continuation of [arXiv:1608.08021](https://arxiv.org/abs/1608.08021)
 
 - intro: AAAI 2020
 - arxiv: [https://arxiv.org/abs/2003.07543](https://arxiv.org/abs/2003.07543)
+
+**ASFD: Automatic and Scalable Face Detector**
+
+- intro: Youtu Lab, Tencent & Southeast University & Xiamen University
+- arxiv: [https://arxiv.org/abs/2003.11228](https://arxiv.org/abs/2003.11228)
 
 ## Detect Small Faces
 

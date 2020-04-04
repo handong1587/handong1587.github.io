@@ -903,6 +903,13 @@ at INT8 deep learning operations than other FPGA DSP architectures"
 - intro: AAAI 2020
 - arxiv: [https://arxiv.org/abs/1911.11634](https://arxiv.org/abs/1911.11634)
 
+**Training Binary Neural Networks with Real-to-Binary Convolutions**
+
+- intro: ICLR 2020
+- intro: Samsung AI Research Center, Cambridge, UK & The University of Nottingham
+- arxiv: [https://arxiv.org/abs/2003.11535](https://arxiv.org/abs/2003.11535)
+- github: [https://github.com/brais-martinez/real2binary](https://github.com/brais-martinez/real2binary)
+
 # Accelerating / Fast Algorithms
 
 **Fast Algorithms for Convolutional Neural Networks**

@@ -927,6 +927,11 @@ date: 2015-10-09
 - intro: NAVER Corp.
 - arxiv: [https://arxiv.org/abs/2003.02546](https://arxiv.org/abs/2003.02546)
 
+**Proxy Anchor Loss for Deep Metric Learning**
+
+- intro: CVPR 2020
+- arxiv: [https://arxiv.org/abs/2003.13911](https://arxiv.org/abs/2003.13911)
+
 # Talks / Slides
 
 **TiefVision: end-to-end image similarity search engine**

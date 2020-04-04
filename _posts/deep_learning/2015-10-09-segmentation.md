@@ -1071,6 +1071,22 @@ with built-in awareness of semantically meaningful boundaries. "
 
 [https://arxiv.org/abs/2003.00872](https://arxiv.org/abs/2003.00872)
 
+**Deep Grouping Model for Unified Perceptual Parsing**
+
+- intro: CVPR 2020
+- arxiv: [https://arxiv.org/abs/2003.11647](https://arxiv.org/abs/2003.11647)
+
+**Spatial Pyramid Based Graph Reasoning for Semantic Segmentation**
+
+- intro: CVPR 2020
+- arxiv: [https://arxiv.org/abs/2003.10211](https://arxiv.org/abs/2003.10211)
+
+**Learning Dynamic Routing for Semantic Segmentation**
+
+- intro: CVPR 2020 oral
+- arxiv: [https://arxiv.org/abs/2003.10401](https://arxiv.org/abs/2003.10401)
+- giihub(official): [https://github.com/yanwei-li/DynamicRouting](https://github.com/yanwei-li/DynamicRouting)
+
 # Instance Segmentation
 
 **Simultaneous Detection and Segmentation**
@@ -1375,6 +1391,16 @@ with built-in awareness of semantically meaningful boundaries. "
 
 [https://arxiv.org/abs/1912.01176](https://arxiv.org/abs/1912.01176)
 
+**SOLO: Segmenting Objects by Locations**
+
+- arxiv: [https://arxiv.org/abs/1912.04488](https://arxiv.org/abs/1912.04488)
+ -github: [https://github.com/WXinlong/SOLO](https://github.com/WXinlong/SOLO)
+
+**SOLOv2: Dynamic, Faster and Stronger**
+
+- arxiv: [https://arxiv.org/abs/2003.10152](https://arxiv.org/abs/2003.10152)
+- github: [https://github.com/aim-uofa/AdelaiDet/](https://github.com/aim-uofa/AdelaiDet/)
+
 **RDSNet: A New Deep Architecture for Reciprocal Object Detection and Instance Segmentation**
 
 - intro: AAAI 2020
@@ -1400,6 +1426,12 @@ with built-in awareness of semantically meaningful boundaries. "
 **1st Place Solutions for OpenImage2019 -- Object Detection and Instance Segmentation**
 
 [https://arxiv.org/abs/2003.07557](https://arxiv.org/abs/2003.07557)
+
+**Mask Encoding for Single Shot Instance Segmentation**
+
+- intro: CVPR 2020
+- intro:  Tongji University & University of Adelaide & Huawei Noah’s Ark Lab
+- arxiv: [https://arxiv.org/abs/2003.11712](https://arxiv.org/abs/2003.11712)
 
 ## Human Instance Segmentation
 
@@ -1534,6 +1566,10 @@ with built-in awareness of semantically meaningful boundaries. "
 
 - intro: Johns Hopkins University & Google Research
 - arxiv: [https://arxiv.org/abs/2003.07853](https://arxiv.org/abs/2003.07853)
+
+**EPSNet: Efficient Panoptic Segmentation Network with Cross-layer Attention Fusion**
+
+[https://arxiv.org/abs/2003.10142](https://arxiv.org/abs/2003.10142)
 
 # Face Parsing
 
@@ -1744,6 +1780,12 @@ ranked 1st place in ImageNet Scene Parsing Challenge 2016
 
 - intro: ICCV 2019
 - arxiv: [https://arxiv.org/abs/1911.01664](https://arxiv.org/abs/1911.01664)
+
+**Strip Pooling: Rethinking Spatial Pooling for Scene Parsing**
+
+- intro: CVPR 2020
+- arxiv: [https://arxiv.org/abs/2003.13328](https://arxiv.org/abs/2003.13328)
+- github: [https://github.com/Andrew-Qibin/SPNet](https://github.com/Andrew-Qibin/SPNet)
 
 ## Benchmarks
 
@@ -2243,6 +2285,12 @@ ranked 1st place in ImageNet Scene Parsing Challenge 2016
 
 - intro: KAUST & ETH Zurich
 - arxiv: [https://arxiv.org/abs/1906.08650](https://arxiv.org/abs/1906.08650)
+
+**3D-MPA: Multi Proposal Aggregation for 3D Semantic Instance Segmentation**
+
+- intro: RWTH Aachen University & Google & Technical University Munich
+- project page: [https://www.vision.rwth-aachen.de/publication/00199/](https://www.vision.rwth-aachen.de/publication/00199/)
+- arxiv: [https://arxiv.org/abs/2003.13867](https://arxiv.org/abs/2003.13867)
 
 # Leaderboard
 

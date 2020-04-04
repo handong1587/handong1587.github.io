@@ -360,6 +360,19 @@ L**ow-Resolution Face Recognition**
 - intro: AAAI 2019 oral
 - arxiv: [https://arxiv.org/abs/1912.00833](https://arxiv.org/abs/1912.00833)
 
+**Domain Balancing: Face Recognition on Long-Tailed Domains**
+
+- intro: CVPR 2020
+- intro: Chinese Academy of Sciences & Tianjin University
+- arxiv: [https://arxiv.org/abs/2003.13791](https://arxiv.org/abs/2003.13791)
+
+**CurricularFace: Adaptive Curriculum Learning Loss for Deep Face Recognition**
+
+- intro: CVPR 2020
+- intro: Youtu Lab, Tencent & Zhejiang University & Michigan State University
+- arixv: [https://arxiv.org/abs/2004.00288](https://arxiv.org/abs/2004.00288)
+- github: [https://github.com/HuangYG123/CurricularFace](https://github.com/HuangYG123/CurricularFace)
+
 # Face Verification
 
 **Deep Learning Face Representation by Joint Identification-Verification**

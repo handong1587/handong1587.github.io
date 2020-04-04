@@ -440,6 +440,11 @@ not just the convolutions)
 
 [https://arxiv.org/abs/1811.07083](https://arxiv.org/abs/1811.07083)
 
+**Rethinking Depthwise Separable Convolutions: How Intra-Kernel Correlations Lead to Improved MobileNets**
+
+- intro: CVPR 2020
+- arxiv: [https://arxiv.org/abs/2003.13549](https://arxiv.org/abs/2003.13549)
+
 ## ShuffleNet
 
 **ShuffleNet: An Extremely Efficient Convolutional Neural Network for Mobile Devices**
