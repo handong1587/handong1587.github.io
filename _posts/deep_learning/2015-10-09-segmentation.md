@@ -172,6 +172,12 @@ date: 2015-10-09
 - intro: 4th Deep Learning in Medical Image Analysis (DLMIA) Workshop
 - arxiv: [https://arxiv.org/abs/1807.10165](https://arxiv.org/abs/1807.10165)
 
+**UNet 3+: A Full-Scale Connected UNet for Medical Image Segmentation**
+
+- intro: ICASSP 2020
+- arxiv: [https://arxiv.org/abs/2004.08790](https://arxiv.org/abs/2004.08790)
+- github: [https://github.com/ZJUGiveLab/UNet-Version](https://github.com/ZJUGiveLab/UNet-Version)
+
 **DeepUNet: A Deep Fully Convolutional Network for Pixel-level Sea-Land Segmentation**
 
 [https://arxiv.org/abs/1709.00201](https://arxiv.org/abs/1709.00201)
@@ -1087,6 +1093,10 @@ with built-in awareness of semantically meaningful boundaries. "
 - arxiv: [https://arxiv.org/abs/2003.10401](https://arxiv.org/abs/2003.10401)
 - giihub(official): [https://github.com/yanwei-li/DynamicRouting](https://github.com/yanwei-li/DynamicRouting)
 
+**Learning to Predict Context-adaptive Convolution for Semantic Segmentation**
+
+[https://arxiv.org/abs/2004.08222](https://arxiv.org/abs/2004.08222)
+
 # Instance Segmentation
 
 **Simultaneous Detection and Segmentation**
@@ -1373,6 +1383,12 @@ with built-in awareness of semantically meaningful boundaries. "
 - github: [https://github.com/youngwanLEE/CenterMask](https://github.com/youngwanLEE/CenterMask)
 - github: [https://github.com/youngwanLEE/centermask2](https://github.com/youngwanLEE/centermask2)
 
+**CenterMask: single shot instance segmentation with point representation**
+
+- intro: CVPR 2020
+- intro: Meituan Dianping Group
+- arxiv: [https://arxiv.org/abs/2004.04446](https://arxiv.org/abs/2004.04446)
+
 **Shape-aware Feature Extraction for Instance Segmentation**
 
 - intro: CVPR 2020
@@ -1570,6 +1586,16 @@ with built-in awareness of semantically meaningful boundaries. "
 **EPSNet: Efficient Panoptic Segmentation Network with Cross-layer Attention Fusion**
 
 [https://arxiv.org/abs/2003.10142](https://arxiv.org/abs/2003.10142)
+
+**Pixel Consensus Voting for Panoptic Segmentation**
+
+- intro: CVPR 2020
+- arxiv: [https://arxiv.org/abs/2004.01849](https://arxiv.org/abs/2004.01849)
+
+**EfficientPS: Efficient Panoptic Segmentation**
+
+- arxiv: [https://arxiv.org/abs/2004.02307](https://arxiv.org/abs/2004.02307)
+- github: [https://github.com/DeepSceneSeg/EfficientPS](https://github.com/DeepSceneSeg/EfficientPS)
 
 # Face Parsing
 
@@ -1896,6 +1922,11 @@ ranked 1st place in ImageNet Scene Parsing Challenge 2016
 - intro: Institute of Software Chinese Academy of Sciences & State University of New York & JD Finance America Corporation & Tencent Youtu Lab
 - arxiv: [https://arxiv.org/abs/1912.09622](https://arxiv.org/abs/1912.09622)
 - code: [https://isrc.iscas.ac.cn/gitlab/research/sematree](https://isrc.iscas.ac.cn/gitlab/research/sematree)
+
+**Self-Learning with Rectification Strategy for Human Parsing**
+
+- intro: CVPR 2020
+- arxiv: [https://arxiv.org/abs/2004.08055](https://arxiv.org/abs/2004.08055)
 
 # Joint Detection and Segmentation
 
@@ -2291,6 +2322,11 @@ ranked 1st place in ImageNet Scene Parsing Challenge 2016
 - intro: RWTH Aachen University & Google & Technical University Munich
 - project page: [https://www.vision.rwth-aachen.de/publication/00199/](https://www.vision.rwth-aachen.de/publication/00199/)
 - arxiv: [https://arxiv.org/abs/2003.13867](https://arxiv.org/abs/2003.13867)
+
+**PointGroup: Dual-Set Point Grouping for 3D Instance Segmentation**
+
+- intro: CVPR 2020
+- arxiv: [https://arxiv.org/abs/2004.01658](https://arxiv.org/abs/2004.01658)
 
 # Leaderboard
 

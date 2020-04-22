@@ -1426,6 +1426,11 @@ Global Second-order Pooling Neural Networks**
 - intro: CVPR 2020
 - arxiv: [https://arxiv.org/abs/2003.03828](https://arxiv.org/abs/2003.03828)
 
+**Circle Loss: A Unified Perspective of Pair Similarity Optimization**
+
+- intro: 1Megvii Inc. & Beihang University & Australian National University & Tsinghua University
+- arxiv: [https://arxiv.org/abs/2002.10857](https://arxiv.org/abs/2002.10857)
+
 ## Convolutions / Filters
 
 **Warped Convolutions: Efficient Invariance to Spatial Transformations**

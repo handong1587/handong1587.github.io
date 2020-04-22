@@ -1178,6 +1178,11 @@ Continuation of [arXiv:1608.08021](https://arxiv.org/abs/1608.08021)
 - arxiv: [https://arxiv.org/abs/1912.05190](https://arxiv.org/abs/1912.05190)
 - github(mmdetection): [https://github.com/zl1994/IoU-Uniform-R-CNN](https://github.com/zl1994/IoU-Uniform-R-CNN)
 
+**Dynamic R-CNN: Towards High Quality Object Detection via Dynamic Training**
+
+- arxiv: [https://arxiv.org/abs/2004.06002](https://arxiv.org/abs/2004.06002)
+- github: [https://github.com/hkzhang95/DynamicRCNN](https://github.com/hkzhang95/DynamicRCNN)
+
 # Single-Shot Object Detection
 
 ## YOLO
@@ -1890,6 +1895,13 @@ Continuation of [arXiv:1608.08021](https://arxiv.org/abs/1608.08021)
 
 - intro: CUHK & Tencent YouTu Lab
 - arxiv: [https://arxiv.org/abs/1908.02990](https://arxiv.org/abs/1908.02990)
+
+**PointPillars: Fast Encoders for Object Detection from Point Clouds**
+
+- intro: nuTonomy: an APTIV company
+- keywords: a single stage
+- arxiv: [http://http://arxiv.org/abs/1812.05784](http://http://arxiv.org/abs/1812.05784)
+- github(official): [https://github.com/nutonomy/second.pytorch](https://github.com/nutonomy/second.pytorch)
 
 # Object Detection on RGB-D
 
@@ -3025,10 +3037,25 @@ Continuation of [arXiv:1608.08021](https://arxiv.org/abs/1608.08021)
 - intro: FAIR's research platform for object detection research, implementing popular algorithms like Mask R-CNN and RetinaNet.
 - github: [https://github.com/facebookresearch/Detectron](https://github.com/facebookresearch/Detectron)
 
+**Detectron2**
+
+- intro: Detectron2 is FAIR's next-generation platform for object detection and segmentation.
+- github: [https://github.com/facebookresearch/detectron2](https://github.com/facebookresearch/detectron2)
+
 **MMDetection: Open MMLab Detection Toolbox and Benchmark**
 
 - arxiv: [https://arxiv.org/abs/1906.07155](https://arxiv.org/abs/1906.07155)
 - github: [https://github.com/open-mmlab/mmdetection](https://github.com/open-mmlab/mmdetection)
+
+**SimpleDet - A Simple and Versatile Framework for Object Detection and Instance Recognition**
+
+- intro: A Simple and Versatile Framework for Object Detection and Instance Recognition
+- github: [https://github.com/TuSimple/simpledet](https://github.com/TuSimple/simpledet)
+
+**AdelaiDet**
+
+- intro: AdelaiDet is an open source toolbox for multiple instance-level detection and recognition tasks.
+- github: [https://github.com/aim-uofa/AdelaiDet/](https://github.com/aim-uofa/AdelaiDet/)
 
 **TensorBox: a simple framework for training neural networks to detect objects in images**
 
