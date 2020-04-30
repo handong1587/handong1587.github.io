@@ -1297,6 +1297,14 @@ Continuation of [arXiv:1608.08021](https://arxiv.org/abs/1608.08021)
 
 [https://arxiv.org/abs/1909.13396](https://arxiv.org/abs/1909.13396)
 
+## YOLOv4
+
+**YOLOv4: Optimal Speed and Accuracy of Object Detection**
+
+- keywords: Weighted-Residual-Connections (WRC), Cross-Stage-Partial-connections (CSP), Cross mini-Batch Normalization (CmBN), Self-adversarial-training (SAT), Mish-activation
+- arxiv: [https://arxiv.org/abs/2004.10934](https://arxiv.org/abs/2004.10934)
+- github: [https://github.com/AlexeyAB/darknet](https://github.com/AlexeyAB/darknet)
+
 ## SSD
 
 **SSD: Single Shot MultiBox Detector**
@@ -1520,7 +1528,10 @@ Continuation of [arXiv:1608.08021](https://arxiv.org/abs/1608.08021)
 
 **EfficientDet: Scalable and Efficient Object Detection**
 
-[https://arxiv.org/abs/1911.09070](https://arxiv.org/abs/1911.09070)
+- intro: CVPR 2020
+- arxiv: [https://arxiv.org/abs/1911.09070](https://arxiv.org/abs/1911.09070)
+- github: [https://github.com/google/automl/tree/master/efficientdet](https://github.com/google/automl/tree/master/efficientdet)
+- github: [https://github.com/zylo117/Yet-Another-EfficientDet-Pytorch](https://github.com/zylo117/Yet-Another-EfficientDet-Pytorch)
 
 **Domain Adaptation for Object Detection via Style Consistency**
 
@@ -1847,61 +1858,6 @@ Continuation of [arXiv:1608.08021](https://arxiv.org/abs/1608.08021)
 - intro: based on the SSD
 - arxiv: [https://arxiv.org/abs/1804.06882](https://arxiv.org/abs/1804.06882)
 - github: [https://github.com/Robert-JunWang/Pelee](https://github.com/Robert-JunWang/Pelee)
-
-# Object Detection in 3D
-
-**Vote3Deep: Fast Object Detection in 3D Point Clouds Using Efficient Convolutional Neural Networks**
-
-- arxiv: [https://arxiv.org/abs/1609.06666](https://arxiv.org/abs/1609.06666)
-
-**VoxelNet: End-to-End Learning for Point Cloud Based 3D Object Detection**
-
-- intro: Apple Inc
-- arxiv: [https://arxiv.org/abs/1711.06396](https://arxiv.org/abs/1711.06396)
-
-**Complex-YOLO: Real-time 3D Object Detection on Point Clouds**
-
-- intro: Valeo Schalter und Sensoren GmbH & Ilmenau University of Technology
-- arxiv: [https://arxiv.org/abs/1803.06199](https://arxiv.org/abs/1803.06199)
-
-**Focal Loss in 3D Object Detection**
-
-- arxiv: [https://arxiv.org/abs/1809.06065](https://arxiv.org/abs/1809.06065)
-- github: [https://github.com/pyun-ram/FL3D](https://github.com/pyun-ram/FL3D)
-
-**3D Object Detection Using Scale Invariant and Feature Reweighting Networks**
-
-- intro: AAAI 2019
-- arxiv: [https://arxiv.org/abs/1901.02237](https://arxiv.org/abs/1901.02237)
-
-**3D Backbone Network for 3D Object Detection**
-
-[https://arxiv.org/abs/1901.08373](https://arxiv.org/abs/1901.08373)
-
-**Complexer-YOLO: Real-Time 3D Object Detection and Tracking on Semantic Point Clouds**
-
-[https://arxiv.org/abs/1904.07537](https://arxiv.org/abs/1904.07537)
-
-**Monocular 3D Object Detection and Box Fitting Trained End-to-End Using Intersection-over-Union Loss**
-
-[https://arxiv.org/abs/1906.08070](https://arxiv.org/abs/1906.08070)
-
-**IoU Loss for 2D/3D Object Detection**
-
-- intro: 3d vision 2019
-- arxiv: [https://arxiv.org/abs/1908.03851](https://arxiv.org/abs/1908.03851)
-
-**Fast Point R-CNN**
-
-- intro: CUHK & Tencent YouTu Lab
-- arxiv: [https://arxiv.org/abs/1908.02990](https://arxiv.org/abs/1908.02990)
-
-**PointPillars: Fast Encoders for Object Detection from Point Clouds**
-
-- intro: nuTonomy: an APTIV company
-- keywords: a single stage
-- arxiv: [http://http://arxiv.org/abs/1812.05784](http://http://arxiv.org/abs/1812.05784)
-- github(official): [https://github.com/nutonomy/second.pytorch](https://github.com/nutonomy/second.pytorch)
 
 # Object Detection on RGB-D
 
