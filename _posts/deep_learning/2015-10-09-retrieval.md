@@ -942,6 +942,12 @@ date: 2015-10-09
 
 # Projects
 
+**PyRetri: A PyTorch-based Library for Unsupervised Image Retrieval by Deep Convolutional Neural Networks**
+
+- intro: Open source deep learning based image retrieval toolbox based on PyTorch
+- arxiv: [https://arxiv.org/abs/2005.02154](https://arxiv.org/abs/2005.02154)
+- github: [https://github.com/PyRetri/PyRetri](https://github.com/PyRetri/PyRetri)
+
 **图像检索：CNN卷积神经网络与实战**
 
 **CNN for Image Retrieval**

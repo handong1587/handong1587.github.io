@@ -1928,6 +1928,12 @@ ranked 1st place in ImageNet Scene Parsing Challenge 2016
 - intro: CVPR 2020
 - arxiv: [https://arxiv.org/abs/2004.08055](https://arxiv.org/abs/2004.08055)
 
+**Correlating Edge, Pose with Parsing**
+
+- intro: CVPR 2020
+- arxiv: [https://arxiv.org/abs/2005.01431](https://arxiv.org/abs/2005.01431)
+- github: [https://github.com/ziwei-zh/CorrPM](https://github.com/ziwei-zh/CorrPM)
+
 # Joint Detection and Segmentation
 
 **Triply Supervised Decoder Networks for Joint Detection and Segmentation**
