@@ -380,6 +380,13 @@ date: 2015-10-09
 - intro: Chinese Academy of Sciences
 - arxiv: [https://arxiv.org/abs/2003.05569](https://arxiv.org/abs/2003.05569)
 
+**Towards Stabilizing Batch Statistics in Backward Propagation of Batch Normalization**
+
+- intro: ICLR 2020 Poster
+- keywords: Moving Average Batch Normalization
+- openreview: [https://openreview.net/forum?id=SkgGjRVKDS](https://openreview.net/forum?id=SkgGjRVKDS)
+- github(official, Pytorch): [https://github.com/megvii-model/MABN](https://github.com/megvii-model/MABN)
+
 ### Backward pass of BN
 
 **Understanding the backward pass through Batch Normalization Layer**
@@ -1437,6 +1444,13 @@ date: 2015-10-09
 **Data Augmentation Revisited: Rethinking the Distribution Gap between Clean and Augmented Data**
 
 [https://arxiv.org/abs/1909.09148](https://arxiv.org/abs/1909.09148)
+
+**AugMix: A Simple Data Processing Method to Improve Robustness and Uncertainty**
+
+- intro: ICLR 2020
+- intro: Google & Deepmind
+- arxiv: [https://arxiv.org/abs/1912.02781](https://arxiv.org/abs/1912.02781)
+- github: [https://github.com/google-research/augmix](https://github.com/google-research/augmix)
 
 **GridMask Data Augmentation**
 

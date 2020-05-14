@@ -76,3 +76,25 @@ date: 2015-10-09
 - intro: Waymo LLC & Google Brain
 - keywords: dynamic voxelization
 - arxiv: [https://arxiv.org/abs/1910.06528](https://arxiv.org/abs/1910.06528)
+
+# pseudo-LiDAR
+
+**Pseudo-LiDAR from Visual Depth Estimation: Bridging the Gap in 3D Object Detection for Autonomous Driving**
+
+- intro: CVPR 2019
+- project page: [https://mileyan.github.io/pseudo_lidar/](https://mileyan.github.io/pseudo_lidar/)
+- arxiv: [https://arxiv.org/abs/1812.07179](https://arxiv.org/abs/1812.07179)
+- gtihub(official): [https://github.com/mileyan/pseudo_lidar](https://github.com/mileyan/pseudo_lidar)
+
+**Pseudo-LiDAR++: Accurate Depth for 3D Object Detection in Autonomous Driving**
+
+- intro: ICLR 2020 Poster
+- openreview: [https://openreview.net/forum?id=BJedHRVtPB](https://openreview.net/forum?id=BJedHRVtPB)
+- github(official): [https://github.com/mileyan/Pseudo_Lidar_V2](https://github.com/mileyan/Pseudo_Lidar_V2)
+
+# Projects
+
+**PCDet: 3D Point Cloud Detection**
+
+- intro: PCDet Toolbox in PyTorch for 3D Object Detection from Point Cloud
+- github: [https://github.com/sshaoshuai/PCDet](https://github.com/sshaoshuai/PCDet)

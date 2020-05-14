@@ -1005,6 +1005,13 @@ Continuation of [arXiv:1608.08021](https://arxiv.org/abs/1608.08021)
 - intro: University of Maryland & Wormpex AI Research
 - arxiv: [https://arxiv.org/abs/2003.12125](https://arxiv.org/abs/2003.12125)
 
+**Scale-Equalizing Pyramid Convolution for Object Detection**
+
+- intro: CVPR 2020
+- intro: SenseTime Research
+- arxiv: [https://arxiv.org/abs/2005.03101](https://arxiv.org/abs/2005.03101)
+- github: [https://github.com/jshilong/SEPC](https://github.com/jshilong/SEPC)
+
 # Two-Stage Object Detection
 
 ## R-CNN
@@ -2998,10 +3005,12 @@ Continuation of [arXiv:1608.08021](https://arxiv.org/abs/1608.08021)
 - intro: Detectron2 is FAIR's next-generation platform for object detection and segmentation.
 - github: [https://github.com/facebookresearch/detectron2](https://github.com/facebookresearch/detectron2)
 
-**MMDetection: Open MMLab Detection Toolbox and Benchmark**
+**MMDetection**
 
+- intro: MMDetection: Open MMLab Detection Toolbox and Benchmark
 - arxiv: [https://arxiv.org/abs/1906.07155](https://arxiv.org/abs/1906.07155)
 - github: [https://github.com/open-mmlab/mmdetection](https://github.com/open-mmlab/mmdetection)
+- docs: [https://mmdetection.readthedocs.io/en/latest/](https://mmdetection.readthedocs.io/en/latest/)
 
 **SimpleDet - A Simple and Versatile Framework for Object Detection and Instance Recognition**
 
