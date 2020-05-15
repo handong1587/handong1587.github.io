@@ -931,6 +931,7 @@ date: 2015-10-09
 
 - intro: CVPR 2020
 - arxiv: [https://arxiv.org/abs/2003.13911](https://arxiv.org/abs/2003.13911)
+- github(official, Pytorch): [https://github.com/tjddus9597/Proxy-Anchor-CVPR2020](https://github.com/tjddus9597/Proxy-Anchor-CVPR2020)
 
 # Talks / Slides
 

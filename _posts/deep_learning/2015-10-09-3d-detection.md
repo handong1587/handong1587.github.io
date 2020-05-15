@@ -77,6 +77,12 @@ date: 2015-10-09
 - keywords: dynamic voxelization
 - arxiv: [https://arxiv.org/abs/1910.06528](https://arxiv.org/abs/1910.06528)
 
+**Object as Hotspots: An Anchor-Free 3D Object Detection Approach via Firing of Hotspots**
+
+- intro: Samsung Inc & Johns Hopkins University & South China University of Technology
+- keywords: Object as Hotspots (OHS)
+- arxiv: [https://arxiv.org/abs/1912.12791](https://arxiv.org/abs/1912.12791)
+
 # pseudo-LiDAR
 
 **Pseudo-LiDAR from Visual Depth Estimation: Bridging the Gap in 3D Object Detection for Autonomous Driving**
