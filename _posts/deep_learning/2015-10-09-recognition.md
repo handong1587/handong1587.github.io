@@ -594,6 +594,17 @@ L**earning a Deep ConvNet for Multi-label Classification with Partial Labels**
 - intro: AAAI 2020 oral
 - arxiv: [https://arxiv.org/abs/1911.11351](https://arxiv.org/abs/1911.11351)
 
+**Rethinking of Pedestrian Attribute Recognition: Realistic Datasets with Efficient Method**
+
+- intro: University of Chinese Academy of Sciences & Chinese Academy of Sciences
+- arxiv: [https://arxiv.org/abs/2005.11909](https://arxiv.org/abs/2005.11909)
+- github(official, Pytorch): [https://github.com/valencebond/Strong_Baseline_of_Pedestrian_Attribute_Recognition](https://github.com/valencebond/Strong_Baseline_of_Pedestrian_Attribute_Recognition)
+
+**Hierarchical Feature Embedding for Attribute Recognition**
+
+- intro: SenseTime Group Limited & Tsinghua University
+- arxiv: [https://arxiv.org/abs/2005.11576](https://arxiv.org/abs/2005.11576)
+
 # Clothes Recognition
 
 **DeepFashion: Powering Robust Clothes Recognition and Retrieval with Rich Annotations**

@@ -1012,6 +1012,26 @@ Continuation of [arXiv:1608.08021](https://arxiv.org/abs/1608.08021)
 - arxiv: [https://arxiv.org/abs/2005.03101](https://arxiv.org/abs/2005.03101)
 - github: [https://github.com/jshilong/SEPC](https://github.com/jshilong/SEPC)
 
+**Dynamic Refinement Network for Oriented and Densely Packed Object Detection**
+
+- intro: CVPR 2020 oral
+- keywords: SKU110K-R
+- arxiv: [https://arxiv.org/abs/2005.09973](https://arxiv.org/abs/2005.09973)
+- github: [https://github.com/Anymake/DRN_CVPR2020](https://github.com/Anymake/DRN_CVPR2020)
+
+**Robust Object Detection under Occlusion with Context-Aware CompositionalNets**
+
+- intro: CVPR 2020
+- intro: Johns Hopkins University
+- arxiv: [https://arxiv.org/abs/2005.11643](https://arxiv.org/abs/2005.11643)
+
+**End-to-End Object Detection with Transformers**
+
+- intro: Facebook AI
+- keywords: DEtection TRansformer (DETR)
+- arxiv: [https://arxiv.org/abs/2005.12872](https://arxiv.org/abs/2005.12872)
+- github: [https://github.com/facebookresearch/detr](https://github.com/facebookresearch/detr)
+
 # Two-Stage Object Detection
 
 ## R-CNN
@@ -1114,7 +1134,7 @@ Continuation of [arXiv:1608.08021](https://arxiv.org/abs/1608.08021)
 
 **Cascade R-CNN: High Quality Object Detection and Instance Segmentation**
 
-[https://arxiv.org/abs/1906.09756](https://arxiv.org/abs/1906.09756)
+ -arxiv: [https://arxiv.org/abs/1906.09756](https://arxiv.org/abs/1906.09756)
 - github(Caffe, official): [https://github.com/zhaoweicai/cascade-rcnn](https://github.com/zhaoweicai/cascade-rcnn)
 - github(official): [https://github.com/zhaoweicai/Detectron-Cascade-RCNN](https://github.com/zhaoweicai/Detectron-Cascade-RCNN)
 
@@ -1189,6 +1209,11 @@ Continuation of [arXiv:1608.08021](https://arxiv.org/abs/1608.08021)
 
 - arxiv: [https://arxiv.org/abs/2004.06002](https://arxiv.org/abs/2004.06002)
 - github: [https://github.com/hkzhang95/DynamicRCNN](https://github.com/hkzhang95/DynamicRCNN)
+
+**Delving into the Imbalance of Positive Proposals in Two-stage Object Detection**
+
+- intro: Waseda University & Tencent AI Lab & Nanjing University of Science and Technology
+- arxiv: [https://arxiv.org/abs/2005.11472](https://arxiv.org/abs/2005.11472)
 
 # Single-Shot Object Detection
 
@@ -1303,6 +1328,12 @@ Continuation of [arXiv:1608.08021](https://arxiv.org/abs/1608.08021)
 **REQ-YOLO: A Resource-Aware, Efficient Quantization Framework for Object Detection on FPGAs**
 
 [https://arxiv.org/abs/1909.13396](https://arxiv.org/abs/1909.13396)
+
+**Poly-YOLO: higher speed, more precise detection and instance segmentation for YOLOv3**
+
+- intro: TPAMI
+- arxiv: [https://arxiv.org/abs/2005.13243](https://arxiv.org/abs/2005.13243)
+- gitlab: [https://gitlab.com/irafm-ai/poly-yolo](https://gitlab.com/irafm-ai/poly-yolo)
 
 ## YOLOv4
 
@@ -1614,6 +1645,12 @@ Continuation of [arXiv:1608.08021](https://arxiv.org/abs/1608.08021)
 - intro: CVPR 2020
 - intro: Waseda University & Tencent AI Lab
 - arxiv: [https://arxiv.org/abs/2003.12729](https://arxiv.org/abs/2003.12729)
+
+**Hashing-based Non-Maximum Suppression for Crowded Object Detection**
+
+- intro: Microsoft
+- arxiv: [https://arxiv.org/abs/2005.11426](https://arxiv.org/abs/2005.11426)
+- github: [https://github.com/microsoft/hnms](https://github.com/microsoft/hnms)
 
 # Adversarial Examples
 
@@ -2518,6 +2555,11 @@ Continuation of [arXiv:1608.08021](https://arxiv.org/abs/1608.08021)
 - intro: WACV 2020
 - arxiv: [https://arxiv.org/abs/1912.10664](https://arxiv.org/abs/1912.10664)
 - github: [https://github.com/ucas-vg/TinyBenchmark](https://github.com/ucas-vg/TinyBenchmark)
+
+**Resisting the Distracting-factors in Pedestrian Detection**
+
+- intro: Beihang University & Arizona State University
+- arxiv: [https://arxiv.org/abs/2005.07344](https://arxiv.org/abs/2005.07344)
 
 ## Pedestrian Detection in a Crowd
 

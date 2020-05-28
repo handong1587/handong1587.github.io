@@ -146,6 +146,12 @@ date: 2015-10-09
 - intro: CVPR 2020
 - arxiv: [https://arxiv.org/abs/2003.13964](https://arxiv.org/abs/2003.13964)
 
+**Online Knowledge Distillation with Diverse Peers**
+
+- intro: AAAI 2020
+- arxiv: [https://arxiv.org/abs/1912.00350](https://arxiv.org/abs/1912.00350)
+- github: [https://github.com/DefangChen/OKDDip](https://github.com/DefangChen/OKDDip)
+
 # resources
 
 **Awesome Knowledge-Distillation**

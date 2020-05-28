@@ -1370,6 +1370,12 @@ with built-in awareness of semantically meaningful boundaries. "
 - arxiv: [https://arxiv.org/abs/1906.11109](https://arxiv.org/abs/1906.11109)
 - github: [https://github.com/davyneven/SpatialEmbeddings](https://github.com/davyneven/SpatialEmbeddings)
 
+**InstaBoost: Boosting Instance Segmentation via Probability Map Guided Copy-Pasting**
+
+- intro: ICCV 2019
+- arxiv: [https://arxiv.org/abs/1908.07801](https://arxiv.org/abs/1908.07801)
+- github: [https://github.com/GothicAi/Instaboost](https://github.com/GothicAi/Instaboost)
+
 **SSAP: Single-Shot Instance Segmentation With Affinity Pyramid**
 
 - intro: ICCV 2019

@@ -28,6 +28,12 @@ date: 2015-10-09
 - arxiv: [https://arxiv.org/abs/1809.06065](https://arxiv.org/abs/1809.06065)
 - github: [https://github.com/pyun-ram/FL3D](https://github.com/pyun-ram/FL3D)
 
+**PointRCNN: 3D Object Proposal Generation and Detection from Point Cloud**
+
+- intro: CVPR 2019
+- arxiv: [https://arxiv.org/abs/1812.04244](https://arxiv.org/abs/1812.04244)
+- github(official): [https://github.com/sshaoshuai/PointRCNN](https://github.com/sshaoshuai/PointRCNN)
+
 **3D Object Detection Using Scale Invariant and Feature Reweighting Networks**
 
 - intro: AAAI 2019
@@ -54,6 +60,7 @@ date: 2015-10-09
 
 **Fast Point R-CNN**
 
+- intro: ICCV 2019
 - intro: CUHK & Tencent YouTu Lab
 - arxiv: [https://arxiv.org/abs/1908.02990](https://arxiv.org/abs/1908.02990)
 
@@ -70,6 +77,10 @@ date: 2015-10-09
 - intro: Uber Advanced Technologies Group
 - arxiv: [https://arxiv.org/abs/1903.08701](https://arxiv.org/abs/1903.08701)
 
+**From Points to Parts: 3D Object Detection from Point Cloud with Part-aware and Part-aggregation Network**
+
+[https://arxiv.org/abs/1907.03670](https://arxiv.org/abs/1907.03670)
+
 **End-to-End Multi-View Fusion for 3D Object Detection in LiDAR Point Clouds**
 
 - intro: CoRL 2019
@@ -82,6 +93,45 @@ date: 2015-10-09
 - intro: Samsung Inc & Johns Hopkins University & South China University of Technology
 - keywords: Object as Hotspots (OHS)
 - arxiv: [https://arxiv.org/abs/1912.12791](https://arxiv.org/abs/1912.12791)
+
+**PV-RCNN: Point-Voxel Feature Set Abstraction for 3D Object Detection**
+
+[https://arxiv.org/abs/1912.13192](https://arxiv.org/abs/1912.13192)
+
+**SMOKE: Single-Stage Monocular 3D Object Detection via Keypoint Estimation**
+
+- intro: ZongMu Tech & TU/e
+- arxiv: [https://arxiv.org/abs/2002.10111](https://arxiv.org/abs/2002.10111)
+- github(official): [https://github.com/lzccccc/SMOKE](https://github.com/lzccccc/SMOKE)
+
+**3DSSD: Point-based 3D Single Stage Object Detector**
+
+- intro: CVPR 2020 Oral
+- arxiv: [https://arxiv.org/abs/2002.10187](https://arxiv.org/abs/2002.10187)
+- github: [https://github.com/Jia-Research-Lab/3DSSD](https://github.com/Jia-Research-Lab/3DSSD)
+
+**Range Conditioned Dilated Convolutions for Scale Invariant 3D Object Detection**
+
+- intro: Google Research & Waymo LLC
+- keywords: Range Conditioned Dilation (RCD)
+- arxiv: [https://arxiv.org/abs/2005.09927](https://arxiv.org/abs/2005.09927)
+
+**Deep Learning for LiDAR Point Clouds in Autonomous Driving: A Review**
+
+- intro: University of Waterloo & Sun Yat-Sen University & Xilinx Technology & Ryerson University
+- arxiv: [https://arxiv.org/abs/2005.09830](https://arxiv.org/abs/2005.09830)
+
+**Structure Aware Single-stage 3D Object Detection from Point Cloud**
+
+- intro: CVPR 2020
+- intro: SA-SSD
+- paper: [https://www4.comp.polyu.edu.hk/~cslzhang/paper/SA-SSD.pdf](https://www4.comp.polyu.edu.hk/~cslzhang/paper/SA-SSD.pdf)
+- github: [https://github.com/skyhehe123/SA-SSD](https://github.com/skyhehe123/SA-SSD)
+
+**Center3D: Center-based Monocular 3D Object Detection with Joint Depth Understanding**
+
+- keywords: one-stage anchor-free
+- arxiv: [https://arxiv.org/abs/2005.13423](https://arxiv.org/abs/2005.13423)
 
 # pseudo-LiDAR
 
