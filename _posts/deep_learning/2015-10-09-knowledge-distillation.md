@@ -152,6 +152,11 @@ date: 2015-10-09
 - arxiv: [https://arxiv.org/abs/1912.00350](https://arxiv.org/abs/1912.00350)
 - github: [https://github.com/DefangChen/OKDDip](https://github.com/DefangChen/OKDDip)
 
+**Channel Distillation: Channel-Wise Attention for Knowledge Distillation**
+
+- arxiv: [https://arxiv.org/abs/2006.01683](https://arxiv.org/abs/2006.01683)
+- github: [https://github.com/zhouzaida/channel-distillation](https://github.com/zhouzaida/channel-distillation)
+
 # resources
 
 **Awesome Knowledge-Distillation**

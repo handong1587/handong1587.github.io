@@ -941,6 +941,9 @@ with built-in awareness of semantically meaningful boundaries. "
 
 **Semantic Nighttime Image Segmentation with Synthetic Stylized Data, Gradual Adaptation and Uncertainty-Aware Evaluation**
 
+**Guided Curriculum Model Adaptation and Uncertainty-Aware Evaluation for Semantic Nighttime Image Segmentation**
+
+- intro: ICCV 2019
 - intro: ETH Zurich & KU Leuven
 - arxiv: [https://arxiv.org/abs/1901.05946](https://arxiv.org/abs/1901.05946)
 

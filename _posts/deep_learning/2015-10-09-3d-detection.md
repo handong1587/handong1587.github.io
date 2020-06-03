@@ -53,6 +53,13 @@ date: 2015-10-09
 - arxiv: [https://arxiv.org/abs/1906.08070](https://arxiv.org/abs/1906.08070)
 - video: [https://www.youtube.com/playlist?list=PL4jJwJr7UjMb4bzLwUGHdVmhfNS2Ads_x](https://www.youtube.com/playlist?list=PL4jJwJr7UjMb4bzLwUGHdVmhfNS2Ads_x)
 
+**Point-Voxel CNN for Efficient 3D Deep Learning**
+
+- intro: NeurIPS 2019 Spotlight
+- project page: [https://hanlab.mit.edu/projects/pvcnn/](https://hanlab.mit.edu/projects/pvcnn/)
+- arxiv: [https://arxiv.org/abs/1907.03739](https://arxiv.org/abs/1907.03739)
+- github: [https://github.com/mit-han-lab/pvcnn](https://github.com/mit-han-lab/pvcnn)
+
 **IoU Loss for 2D/3D Object Detection**
 
 - intro: 3d vision 2019
