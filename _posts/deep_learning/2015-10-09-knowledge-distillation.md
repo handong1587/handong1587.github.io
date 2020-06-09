@@ -157,6 +157,11 @@ date: 2015-10-09
 - arxiv: [https://arxiv.org/abs/2006.01683](https://arxiv.org/abs/2006.01683)
 - github: [https://github.com/zhouzaida/channel-distillation](https://github.com/zhouzaida/channel-distillation)
 
+**Peer Collaborative Learning for Online Knowledge Distillation**
+
+- intro: Queen Mary University of London
+- arxiv: [https://arxiv.org/abs/2006.04147](https://arxiv.org/abs/2006.04147)
+
 # resources
 
 **Awesome Knowledge-Distillation**

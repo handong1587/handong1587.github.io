@@ -1032,6 +1032,12 @@ Continuation of [arXiv:1608.08021](https://arxiv.org/abs/1608.08021)
 - arxiv: [https://arxiv.org/abs/2005.12872](https://arxiv.org/abs/2005.12872)
 - github: [https://github.com/facebookresearch/detr](https://github.com/facebookresearch/detr)
 
+**DetectoRS: Detecting Objects with Recursive Feature Pyramid and Switchable Atrous Convolution**
+
+- intro: Johns Hopkins University & Google Research
+- intro: COCO test-dev 54.7% box AP
+- arxiv: [https://arxiv.org/abs/2006.02334](https://arxiv.org/abs/2006.02334)
+
 # Two-Stage Object Detection
 
 ## R-CNN

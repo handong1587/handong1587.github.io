@@ -140,6 +140,16 @@ date: 2015-10-09
 - keywords: one-stage anchor-free
 - arxiv: [https://arxiv.org/abs/2005.13423](https://arxiv.org/abs/2005.13423)
 
+**Associate-3Ddet: Perceptual-to-Conceptual Association for 3D Point Cloud Object Detection**
+
+- intro: CVPR 2020
+- intro: Fudan University & Baidu Inc. & University of Science and Technology of China
+- arxiv: [https://arxiv.org/abs/2006.04356](https://arxiv.org/abs/2006.04356)
+
+**SVGA-Net: Sparse Voxel-Graph Attention Network for 3D Object Detection from Point Clouds**
+
+[https://arxiv.org/abs/2006.04043](https://arxiv.org/abs/2006.04043)
+
 # pseudo-LiDAR
 
 **Pseudo-LiDAR from Visual Depth Estimation: Bridging the Gap in 3D Object Detection for Autonomous Driving**
