@@ -1100,6 +1100,11 @@ with built-in awareness of semantically meaningful boundaries. "
 
 [https://arxiv.org/abs/2004.08222](https://arxiv.org/abs/2004.08222)
 
+**Transferring and Regularizing Prediction for Semantic Segmentation**
+
+- intro: CVPR 2020
+- arxiv: [https://arxiv.org/abs/2006.06570](https://arxiv.org/abs/2006.06570)
+
 # Instance Segmentation
 
 **Simultaneous Detection and Segmentation**

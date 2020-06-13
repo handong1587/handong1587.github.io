@@ -444,6 +444,7 @@ not just the convolutions)
 
 - intro: CVPR 2020
 - arxiv: [https://arxiv.org/abs/2003.13549](https://arxiv.org/abs/2003.13549)
+- github: [https://github.com/zeiss-microscopy/BSConv](https://github.com/zeiss-microscopy/BSConv)
 
 ## ShuffleNet
 

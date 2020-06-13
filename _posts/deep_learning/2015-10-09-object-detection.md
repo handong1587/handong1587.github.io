@@ -1038,6 +1038,12 @@ Continuation of [arXiv:1608.08021](https://arxiv.org/abs/1608.08021)
 - intro: COCO test-dev 54.7% box AP
 - arxiv: [https://arxiv.org/abs/2006.02334](https://arxiv.org/abs/2006.02334)
 
+**Learning a Unified Sample Weighting Network for Object Detection**
+
+- intro: CVPR 2020
+- arxiv: [https://arxiv.org/abs/2006.06568](https://arxiv.org/abs/2006.06568)
+- github: [https://github.com/caiqi/sample-weighting-network](https://github.com/caiqi/sample-weighting-network)
+
 # Two-Stage Object Detection
 
 ## R-CNN

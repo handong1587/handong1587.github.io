@@ -95,6 +95,12 @@ date: 2015-10-09
 - keywords: dynamic voxelization
 - arxiv: [https://arxiv.org/abs/1910.06528](https://arxiv.org/abs/1910.06528)
 
+**Learning Depth-Guided Convolutions for Monocular 3D Object Detection**
+
+- intro: CVPR 2020
+- arxiv: [https://arxiv.org/abs/1912.04799](https://arxiv.org/abs/1912.04799)
+- github: [https://github.com/dingmyu/D4LCN](https://github.com/dingmyu/D4LCN)
+
 **Object as Hotspots: An Anchor-Free 3D Object Detection Approach via Firing of Hotspots**
 
 - intro: Samsung Inc & Johns Hopkins University & South China University of Technology
@@ -107,6 +113,7 @@ date: 2015-10-09
 
 **SMOKE: Single-Stage Monocular 3D Object Detection via Keypoint Estimation**
 
+- intro: CVPR 2020
 - intro: ZongMu Tech & TU/e
 - arxiv: [https://arxiv.org/abs/2002.10111](https://arxiv.org/abs/2002.10111)
 - github(official): [https://github.com/lzccccc/SMOKE](https://github.com/lzccccc/SMOKE)
@@ -116,6 +123,12 @@ date: 2015-10-09
 - intro: CVPR 2020 Oral
 - arxiv: [https://arxiv.org/abs/2002.10187](https://arxiv.org/abs/2002.10187)
 - github: [https://github.com/Jia-Research-Lab/3DSSD](https://github.com/Jia-Research-Lab/3DSSD)
+
+**HVNet: Hybrid Voxel Network for LiDAR Based 3D Object Detection**
+
+- intro: CVPR 2020
+- intro: DEEPROUTE.AI
+- paper: [http://openaccess.thecvf.com/content_CVPR_2020/papers/Ye_HVNet_Hybrid_Voxel_Network_for_LiDAR_Based_3D_Object_Detection_CVPR_2020_paper.pdf](http://openaccess.thecvf.com/content_CVPR_2020/papers/Ye_HVNet_Hybrid_Voxel_Network_for_LiDAR_Based_3D_Object_Detection_CVPR_2020_paper.pdf)
 
 **Range Conditioned Dilated Convolutions for Scale Invariant 3D Object Detection**
 
@@ -131,7 +144,9 @@ date: 2015-10-09
 **Structure Aware Single-stage 3D Object Detection from Point Cloud**
 
 - intro: CVPR 2020
+- intro: The Hong Kong Polytechnic University & DAMO Academy, Alibaba Group
 - intro: SA-SSD
+- paper: [http://openaccess.thecvf.com/content_CVPR_2020/papers/He_Structure_Aware_Single-Stage_3D_Object_Detection_From_Point_Cloud_CVPR_2020_paper.pdf](http://openaccess.thecvf.com/content_CVPR_2020/papers/He_Structure_Aware_Single-Stage_3D_Object_Detection_From_Point_Cloud_CVPR_2020_paper.pdf)
 - paper: [https://www4.comp.polyu.edu.hk/~cslzhang/paper/SA-SSD.pdf](https://www4.comp.polyu.edu.hk/~cslzhang/paper/SA-SSD.pdf)
 - github: [https://github.com/skyhehe123/SA-SSD](https://github.com/skyhehe123/SA-SSD)
 
@@ -149,6 +164,10 @@ date: 2015-10-09
 **SVGA-Net: Sparse Voxel-Graph Attention Network for 3D Object Detection from Point Clouds**
 
 [https://arxiv.org/abs/2006.04043](https://arxiv.org/abs/2006.04043)
+
+**Stereo RGB and Deeper LIDAR Based Network for 3D Object Detection**
+
+[https://arxiv.org/abs/2006.05187](https://arxiv.org/abs/2006.05187)
 
 # pseudo-LiDAR
 
