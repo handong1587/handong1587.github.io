@@ -936,8 +936,12 @@ Continuation of [arXiv:1608.08021](https://arxiv.org/abs/1608.08021)
 
 **CBNet: A Novel Composite Backbone Network Architecture for Object Detection**
 
+- intro: AAAI 2020
+- keywords: Composite Backbone Network (CBNet)
 - arxiv: [https://arxiv.org/abs/1909.03625](https://arxiv.org/abs/1909.03625)
-- github: [https://github.com/PKUbahuangliuhe/CBNet](https://github.com/PKUbahuangliuhe/CBNet)
+- paper: [https://aaai.org/Papers/AAAI/2020GB/AAAI-LiuY.1833.pdf](https://aaai.org/Papers/AAAI/2020GB/AAAI-LiuY.1833.pdf)
+- github(Caffe2): [https://github.com/PKUbahuangliuhe/CBNet](https://github.com/PKUbahuangliuhe/CBNet)
+- github(mmdetection): [https://github.com/VDIGPKU/CBNet](https://github.com/VDIGPKU/CBNet)
 
 **A System-Level Solution for Low-Power Object Detection**
 
@@ -1043,6 +1047,22 @@ Continuation of [arXiv:1608.08021](https://arxiv.org/abs/1608.08021)
 - intro: CVPR 2020
 - arxiv: [https://arxiv.org/abs/2006.06568](https://arxiv.org/abs/2006.06568)
 - github: [https://github.com/caiqi/sample-weighting-network](https://github.com/caiqi/sample-weighting-network)
+
+**Overcoming Classifier Imbalance for Long-tail Object Detection with Balanced Group Softmax**
+
+- intro: CVPR 2020 oral
+- arxiv: [https://arxiv.org/abs/2006.10408](https://arxiv.org/abs/2006.10408)
+- github: [https://github.com/FishYuLi/BalancedGroupSoftmax](https://github.com/FishYuLi/BalancedGroupSoftmax)
+
+**2nd Place Solution for Waymo Open Dataset Challenge -- 2D Object Detection**
+
+- intro: Horizon Robotics Inc.
+- arxiv: [https://arxiv.org/abs/2006.15507](https://arxiv.org/abs/2006.15507)
+
+**Domain Adaptive Object Detection via Asymmetric Tri-way Faster-RCNN**
+
+- intro: ECCV 2020
+- arxiv: [https://arxiv.org/abs/2007.01571](https://arxiv.org/abs/2007.01571)
 
 # Two-Stage Object Detection
 
@@ -1603,6 +1623,11 @@ Continuation of [arXiv:1608.08021](https://arxiv.org/abs/1608.08021)
 - arxiv: [https://arxiv.org/abs/1912.02424](https://arxiv.org/abs/1912.02424)
 - github: [https://github.com/sfzhang15/ATSS](https://github.com/sfzhang15/ATSS)
 
+**Localization Uncertainty Estimation for Anchor-Free Object Detection**
+
+- keywords: Gaussian-FCOS
+- arxiv: [https://arxiv.org/abs/2006.15607](https://arxiv.org/abs/2006.15607)
+
 # Non-Maximum Suppression (NMS)
 
 **End-to-End Integration of a Convolutional Network, Deformable Parts Model and Non-Maximum Suppression**
@@ -1663,6 +1688,13 @@ Continuation of [arXiv:1608.08021](https://arxiv.org/abs/1608.08021)
 - intro: Microsoft
 - arxiv: [https://arxiv.org/abs/2005.11426](https://arxiv.org/abs/2005.11426)
 - github: [https://github.com/microsoft/hnms](https://github.com/microsoft/hnms)
+
+**Visibility Guided NMS: Efficient Boosting of Amodal Object Detection in Crowded Traffic Scenes**
+
+- intro: NeurIPS 2019, Machine Learning for Autonomous Driving Workshop
+- intro: Mercedes-Benz AG, R&D & University of Jena
+- keywords: Visibility Guided NMS (vg-NMS)
+- arxiv: [https://arxiv.org/abs/2006.08547](https://arxiv.org/abs/2006.08547)
 
 # Adversarial Examples
 

@@ -169,6 +169,27 @@ date: 2015-10-09
 
 [https://arxiv.org/abs/2006.05187](https://arxiv.org/abs/2006.05187)
 
+**Generative Sparse Detection Networks for 3D Single-shot Object Detection**
+
+- intro: Stanford University & NVIDIA
+- arxiv: [https://arxiv.org/abs/2006.12356](https://arxiv.org/abs/2006.12356)
+
+**AFDet: Anchor Free One Stage 3D Object Detection**
+
+- intro: Horizon Robotics
+- intro: CVPR Workshop 2020
+- intro: Baseline detector for the 1st place solutions of Waymo Open Dataset Challenges 2020
+- arxiv: [https://arxiv.org/abs/2006.12671](https://arxiv.org/abs/2006.12671)
+
+**1st Place Solution for Waymo Open Dataset Challenge -- 3D Detection and Domain Adaptation**
+
+- intro: Horizon Robotics
+- arxiv: [https://arxiv.org/abs/2006.15505](https://arxiv.org/abs/2006.15505)
+
+**Local Grid Rendering Networks for 3D Object Detection in Point Clouds**
+
+[https://arxiv.org/abs/2007.02099](https://arxiv.org/abs/2007.02099)
+
 # pseudo-LiDAR
 
 **Pseudo-LiDAR from Visual Depth Estimation: Bridging the Gap in 3D Object Detection for Autonomous Driving**
@@ -186,7 +207,7 @@ date: 2015-10-09
 
 # Projects
 
-**PCDet: 3D Point Cloud Detection**
+**OpenLidarPerceptron**
 
-- intro: PCDet Toolbox in PyTorch for 3D Object Detection from Point Cloud
-- github: [https://github.com/sshaoshuai/PCDet](https://github.com/sshaoshuai/PCDet)
+- intro: OpenLidarPerceptron is an open source project for LiDAR-based 3D scene perception.
+- github: [https://github.com/open-mmlab/OpenLidarPerceptron](https://github.com/open-mmlab/OpenLidarPerceptron)

@@ -223,6 +223,14 @@ not just the convolutions)
 - dataset: [http://data.dmlc.ml/models/imagenet/resnext/](http://data.dmlc.ml/models/imagenet/resnext/)
 - reddit: [https://www.reddit.com/r/MachineLearning/comments/5haml9/p_implementation_of_aggregated_residual/](https://www.reddit.com/r/MachineLearning/comments/5haml9/p_implementation_of_aggregated_residual/)
 
+## ResNeSt
+
+**ResNeSt: Split-Attention Networks**
+
+- intro: Amazon & University of California
+- arxiv: [https://arxiv.org/abs/2004.08955](https://arxiv.org/abs/2004.08955)
+- github: [https://github.com/zhanghang1989/ResNeSt](https://github.com/zhanghang1989/ResNeSt)
+
 ## Residual Networks Variants
 
 **Resnet in Resnet: Generalizing Residual Architectures**

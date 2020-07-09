@@ -1611,6 +1611,13 @@ with built-in awareness of semantically meaningful boundaries. "
 - arxiv: [https://arxiv.org/abs/2004.02307](https://arxiv.org/abs/2004.02307)
 - github: [https://github.com/DeepSceneSeg/EfficientPS](https://github.com/DeepSceneSeg/EfficientPS)
 
+**Video Panoptic Segmentation**
+
+- intro: CVPR 2020 Oral
+- intro: KAIST & Adobe Research
+- arxiv: [https://arxiv.org/abs/2006.11339](https://arxiv.org/abs/2006.11339)
+- github: [https://github.com/mcahny/vps](https://github.com/mcahny/vps)
+
 # Face Parsing
 
 **Face Parsing via Recurrent Propagation**
