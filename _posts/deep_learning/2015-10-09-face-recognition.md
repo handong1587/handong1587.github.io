@@ -373,6 +373,11 @@ L**ow-Resolution Face Recognition**
 - arixv: [https://arxiv.org/abs/2004.00288](https://arxiv.org/abs/2004.00288)
 - github: [https://github.com/HuangYG123/CurricularFace](https://github.com/HuangYG123/CurricularFace)
 
+**Loss Function Search for Face Recognition**
+
+- intro: ICML 2020
+- arxiv: [https://arxiv.org/abs/2007.06542](https://arxiv.org/abs/2007.06542)
+
 # Face Verification
 
 **Deep Learning Face Representation by Joint Identification-Verification**

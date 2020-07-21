@@ -107,6 +107,11 @@ date: 2015-10-09
 - keywords: Object as Hotspots (OHS)
 - arxiv: [https://arxiv.org/abs/1912.12791](https://arxiv.org/abs/1912.12791)
 
+**CenterNet3D: An Anchor free Object Detector for Autonomous Driving**
+
+- keywords: Non-Maximum Suppression free
+- arxiv: [https://arxiv.org/abs/2007.07214](https://arxiv.org/abs/2007.07214)
+
 **PV-RCNN: Point-Voxel Feature Set Abstraction for 3D Object Detection**
 
 [https://arxiv.org/abs/1912.13192](https://arxiv.org/abs/1912.13192)
@@ -189,6 +194,17 @@ date: 2015-10-09
 **Local Grid Rendering Networks for 3D Object Detection in Point Clouds**
 
 [https://arxiv.org/abs/2007.02099](https://arxiv.org/abs/2007.02099)
+
+**InfoFocus: 3D Object Detection for Autonomous Driving with Dynamic Information Modeling**
+
+- intro: University of Maryland & Salesforce Research
+- arxiv: [https://arxiv.org/abs/2007.08556](https://arxiv.org/abs/2007.08556)
+
+**EPNet: Enhancing Point Features with Image Semantics for 3D Object Detection**
+
+- intro: ECCV 2020
+- arxiv: [https://arxiv.org/abs/2007.08856](https://arxiv.org/abs/2007.08856)
+- github: [https://github.com/happinesslz/EPNet](https://github.com/happinesslz/EPNet)
 
 # pseudo-LiDAR
 

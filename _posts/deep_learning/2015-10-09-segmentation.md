@@ -1229,6 +1229,13 @@ with built-in awareness of semantically meaningful boundaries. "
 - intro: BMW Car IT GmbH
 - arxiv: [https://arxiv.org/abs/1809.07069](https://arxiv.org/abs/1809.07069)
 
+**Boundary-preserving Mask R-CNN**
+
+- intro: ECCV 2020
+- intro: Huazhong University of Science and Technology & Horizon Robotics Inc.
+- arxiv: [https://arxiv.org/abs/2007.08921](https://arxiv.org/abs/2007.08921)
+- github: [https://github.com/hustvl/BMaskR-CNN](https://github.com/hustvl/BMaskR-CNN)
+
 **Semantic Instance Segmentation via Deep Metric Learning**
 
 [https://arxiv.org/abs/1703.10277](https://arxiv.org/abs/1703.10277)
@@ -1351,9 +1358,11 @@ with built-in awareness of semantically meaningful boundaries. "
 
 **Hybrid Task Cascade for Instance Segmentation**
 
+- intro: CVPR 2019
 - intro: The Chinese University of Hong Kong & SenseTime Research & Zhejiang University & The University of Sydney & Nanyang Technological University
 - intro: Winning entry of COCO 2018 Challenge (object detection task)
 - arxiv: [https://arxiv.org/abs/1901.07518](https://arxiv.org/abs/1901.07518)
+- github(mmdetection): [https://github.com/open-mmlab/mmdetection/tree/master/configs/htc](https://github.com/open-mmlab/mmdetection/tree/master/configs/htc)
 
 **Mask Scoring R-CNN**
 

@@ -162,6 +162,11 @@ date: 2015-10-09
 - intro: Queen Mary University of London
 - arxiv: [https://arxiv.org/abs/2006.04147](https://arxiv.org/abs/2006.04147)
 
+**Knowledge Distillation for Multi-task Learning**
+
+- intro: University of Edinburgh
+- arxiv: [https://arxiv.org/abs/2007.06889](https://arxiv.org/abs/2007.06889)
+
 # resources
 
 **Awesome Knowledge-Distillation**

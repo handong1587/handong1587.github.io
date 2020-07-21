@@ -874,6 +874,18 @@ Continuation of [arXiv:1608.08021](https://arxiv.org/abs/1608.08021)
 - arxiv: [https://arxiv.org/abs/1904.11490](https://arxiv.org/abs/1904.11490)
 - github: [https://github.com/microsoft/RepPoints](https://github.com/microsoft/RepPoints)
 
+**Dense RepPoints: Representing Visual Objects with Dense Point Sets**
+
+- intro: Peking University & CUHK & Zhejiang University & Shanghai Jiao Tong University & University of Toronto & MSRA
+- arxiv: [https://arxiv.org/abs/1912.11473](https://arxiv.org/abs/1912.11473)
+- github(official, mmdetection): [https://github.com/justimyhxu/Dense-RepPoints](https://github.com/justimyhxu/Dense-RepPoints)
+
+**RepPoints V2: Verification Meets Regression for Object Detection**
+
+- intro: Microsoft Research Asia & Peking University
+- arxiv: [https://arxiv.org/abs/2007.08508](https://arxiv.org/abs/2007.08508)
+- github(official, mmdetection): [https://github.com/Scalsol/RepPointsV2](https://github.com/Scalsol/RepPointsV2)
+
 **Object Detection in 20 Years: A Survey**
 
 [https://arxiv.org/abs/1905.05055](https://arxiv.org/abs/1905.05055)
@@ -1041,6 +1053,7 @@ Continuation of [arXiv:1608.08021](https://arxiv.org/abs/1608.08021)
 - intro: Johns Hopkins University & Google Research
 - intro: COCO test-dev 54.7% box AP
 - arxiv: [https://arxiv.org/abs/2006.02334](https://arxiv.org/abs/2006.02334)
+- github(official, mmdetection): [https://github.com/joe-siyuan-qiao/DetectoRS](https://github.com/joe-siyuan-qiao/DetectoRS)
 
 **Learning a Unified Sample Weighting Network for Object Detection**
 
@@ -1063,6 +1076,18 @@ Continuation of [arXiv:1608.08021](https://arxiv.org/abs/1608.08021)
 
 - intro: ECCV 2020
 - arxiv: [https://arxiv.org/abs/2007.01571](https://arxiv.org/abs/2007.01571)
+
+**AQD: Towards Accurate Quantized Object Detection**
+
+- intro: South China University of Technology & University of Adelaide & Monash University
+- arxiv: [https://arxiv.org/abs/2007.06919](https://arxiv.org/abs/2007.06919)
+- github: [https://github.com/blueardour/model-quantization](https://github.com/blueardour/model-quantization)
+
+**Probabilistic Anchor Assignment with IoU Prediction for Object Detection**
+
+- intro: ECCV 2020
+- arxiv: [https://arxiv.org/abs/2007.08103](https://arxiv.org/abs/2007.08103)
+- github: [https://github.com/kkhoot/PAA](https://github.com/kkhoot/PAA)
 
 # Two-Stage Object Detection
 
