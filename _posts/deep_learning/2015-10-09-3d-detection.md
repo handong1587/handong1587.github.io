@@ -206,6 +206,35 @@ date: 2015-10-09
 - arxiv: [https://arxiv.org/abs/2007.08856](https://arxiv.org/abs/2007.08856)
 - github: [https://github.com/happinesslz/EPNet](https://github.com/happinesslz/EPNet)
 
+**Cloud Transformers**
+
+- intro: Samsung AI Center Moscow & Skolkovo Institute of Science and Technology
+- arxiv: [https://arxiv.org/abs/2007.11679](https://arxiv.org/abs/2007.11679)
+
+**Weakly Supervised 3D Object Detection from Lidar Point Cloud**
+
+- intro: ECCV 2020
+- intro: Beijing Institute of Technology & ETH Zurich & Inception Institute of Artificial Intelligence
+- arxiv: [https://arxiv.org/abs/2007.11901](https://arxiv.org/abs/2007.11901)
+- github: [https://github.com/hlesmqh/WS3D](https://github.com/hlesmqh/WS3D)
+
+**An LSTM Approach to Temporal 3D Object Detection in LiDAR Point Clouds**
+
+- intro: ECCV 2020
+- intro: Google Research
+- arxiv: [https://arxiv.org/abs/2007.12392](https://arxiv.org/abs/2007.12392)
+
+**Part-Aware Data Augmentation for 3D Object Detection in Point Cloud**
+
+[https://arxiv.org/abs/2007.13373](https://arxiv.org/abs/2007.13373)
+
+**Weakly Supervised 3D Object Detection from Point Clouds**
+
+- intro: ACM MM 2020
+- intro: MIT & Microsoft Research
+- arxiv: [https://arxiv.org/abs/2007.13970](https://arxiv.org/abs/2007.13970)
+- github: [https://github.com/Zengyi-Qin/Weakly-Supervised-3D-Object-Detection](https://github.com/Zengyi-Qin/Weakly-Supervised-3D-Object-Detection)
+
 # pseudo-LiDAR
 
 **Pseudo-LiDAR from Visual Depth Estimation: Bridging the Gap in 3D Object Detection for Autonomous Driving**

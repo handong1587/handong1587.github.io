@@ -380,6 +380,11 @@ date: 2015-10-09
 
 - arxiv: [https://arxiv.org/abs/1907.11854](https://arxiv.org/abs/1907.11854)
 
+**Smooth-AP: Smoothing the Path Towards Large-Scale Image Retrieval**
+
+- intro: ECCV 2020
+- arxiv: [https://arxiv.org/abs/2007.12163](https://arxiv.org/abs/2007.12163)
+
 # Hashing
 
 **Supervised Hashing for Image Retrieval via Image Representation Learning**

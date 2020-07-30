@@ -1089,6 +1089,17 @@ Continuation of [arXiv:1608.08021](https://arxiv.org/abs/1608.08021)
 - arxiv: [https://arxiv.org/abs/2007.08103](https://arxiv.org/abs/2007.08103)
 - github: [https://github.com/kkhoot/PAA](https://github.com/kkhoot/PAA)
 
+**BorderDet: Border Feature for Dense Object Detection**
+
+- intro: ECCV 2020 oral
+- arxiv: [https://arxiv.org/abs/2007.11056](https://arxiv.org/abs/2007.11056)
+- github: [https://github.com/Megvii-BaseDetection/BorderDet](https://github.com/Megvii-BaseDetection/BorderDet)
+
+**Quantum-soft QUBO Suppression for Accurate Object Detection**
+
+- intro: ECCV 2020
+- arxiv: [https://arxiv.org/abs/2007.13992](https://arxiv.org/abs/2007.13992)
+
 # Two-Stage Object Detection
 
 ## R-CNN
@@ -1652,6 +1663,18 @@ Continuation of [arXiv:1608.08021](https://arxiv.org/abs/1608.08021)
 
 - keywords: Gaussian-FCOS
 - arxiv: [https://arxiv.org/abs/2006.15607](https://arxiv.org/abs/2006.15607)
+
+**Dive Deeper Into Box for Object Detection**
+
+- intro: ECCV 2020
+- keywords: DDBNet, anchor free
+- arxiv: [https://arxiv.org/abs/2007.14350](https://arxiv.org/abs/2007.14350)
+
+**Corner Proposal Network for Anchor-free, Two-stage Object Detection**
+
+- intro: ECCV 2020
+- arxiv: [https://arxiv.org/abs/2007.13816](https://arxiv.org/abs/2007.13816)
+- github: [https://github.com/Duankaiwen/CPNDet](https://github.com/Duankaiwen/CPNDet)
 
 # Non-Maximum Suppression (NMS)
 
@@ -2629,6 +2652,16 @@ Continuation of [arXiv:1608.08021](https://arxiv.org/abs/1608.08021)
 
 - intro: Beihang University & Arizona State University
 - arxiv: [https://arxiv.org/abs/2005.07344](https://arxiv.org/abs/2005.07344)
+
+**SADet: Learning An Efficient and Accurate Pedestrian Detector**
+
+[https://arxiv.org/abs/2007.13119](https://arxiv.org/abs/2007.13119)
+
+**NOH-NMS: Improving Pedestrian Detection by Nearby Objects Hallucination**
+
+- intro: ACM MM 2020
+- intro: Tencent Youtu Lab
+- arxiv: [https://arxiv.org/abs/2007.13376](https://arxiv.org/abs/2007.13376)
 
 ## Pedestrian Detection in a Crowd
 

@@ -1351,8 +1351,8 @@ Deformable ConvNets v2: More Deformable, Better Results**
 
 - intro: NIPS 2018
 - arxiv: [https://arxiv.org/abs/1810.11579](https://arxiv.org/abs/1810.11579)
-**
-Global Second-order Pooling Neural Networks**
+
+**Global Second-order Pooling Neural Networks**
 
 [https://arxiv.org/abs/1811.12006](https://arxiv.org/abs/1811.12006)
 
@@ -1439,6 +1439,12 @@ Global Second-order Pooling Neural Networks**
 
 - intro: 1Megvii Inc. & Beihang University & Australian National University & Tsinghua University
 - arxiv: [https://arxiv.org/abs/2002.10857](https://arxiv.org/abs/2002.10857)
+
+**WeightNet: Revisiting the Design Space of Weight Networks**
+
+- intro: ECCV 2020
+- arxiv: [https://arxiv.org/abs/2007.11823](https://arxiv.org/abs/2007.11823)
+- github: [https://github.com/megvii-model/WeightNet](https://github.com/megvii-model/WeightNet)
 
 ## Convolutions / Filters
 

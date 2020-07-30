@@ -1472,6 +1472,15 @@ with built-in awareness of semantically meaningful boundaries. "
 - intro:  Tongji University & University of Adelaide & Huawei Noah’s Ark Lab
 - arxiv: [https://arxiv.org/abs/2003.11712](https://arxiv.org/abs/2003.11712)
 
+**The Devil is in Classification: A Simple Framework for Long-tail Instance Segmentation**
+
+- arxiv: [https://arxiv.org/abs/2007.11978](https://arxiv.org/abs/2007.11978)
+- github: [https://github.com/twangnh/SimCal](https://github.com/twangnh/SimCal)
+
+**Deep Variational Instance Segmentation**
+
+[https://arxiv.org/abs/2007.11576](https://arxiv.org/abs/2007.11576)
+
 ## Human Instance Segmentation
 
 **PersonLab: Person Pose Estimation and Instance Segmentation with a Bottom-Up, Part-Based, Geometric Embedding Model**
@@ -1510,6 +1519,14 @@ with built-in awareness of semantically meaningful boundaries. "
 - arxiv: [https://arxiv.org/abs/1803.10683](https://arxiv.org/abs/1803.10683)
 - github: [https://github.com/liruilong940607/Pose2Seg](https://github.com/liruilong940607/Pose2Seg)
 - dataset: [https://cg.cs.tsinghua.edu.cn/dataset/form.html?dataset=ochuman](https://cg.cs.tsinghua.edu.cn/dataset/form.html?dataset=ochuman)
+
+## Video Instance Segmentation
+
+**SipMask: Spatial Information Preservation for Fast Image and Video Instance Segmentation**
+
+- intro: ECCV 2020
+- arxiv: [https://arxiv.org/abs/2007.14772](https://arxiv.org/abs/2007.14772)
+- github: [https://github.com/JialeCao001/SipMask](https://github.com/JialeCao001/SipMask)
 
 # Panoptic Segmentation
 
