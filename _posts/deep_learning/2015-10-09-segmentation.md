@@ -1105,6 +1105,13 @@ with built-in awareness of semantically meaningful boundaries. "
 - intro: CVPR 2020
 - arxiv: [https://arxiv.org/abs/2006.06570](https://arxiv.org/abs/2006.06570)
 
+**Tensor Low-Rank Reconstruction for Semantic Segmentation**
+
+- intro: ECCV 2020
+- intro: Top-1 performance on PASCAL-VOC12
+- arxiv: [https://arxiv.org/abs/2008.00490](https://arxiv.org/abs/2008.00490)
+- github: [https://github.com/CWanli/RecoNet](https://github.com/CWanli/RecoNet)
+
 # Instance Segmentation
 
 **Simultaneous Detection and Segmentation**
@@ -1481,6 +1488,10 @@ with built-in awareness of semantically meaningful boundaries. "
 
 [https://arxiv.org/abs/2007.11576](https://arxiv.org/abs/2007.11576)
 
+**Mask Point R-CNN**
+
+[https://arxiv.org/abs/2008.00460](https://arxiv.org/abs/2008.00460)
+
 ## Human Instance Segmentation
 
 **PersonLab: Person Pose Estimation and Instance Segmentation with a Bottom-Up, Part-Based, Geometric Embedding Model**
@@ -1643,6 +1654,10 @@ with built-in awareness of semantically meaningful boundaries. "
 - intro: KAIST & Adobe Research
 - arxiv: [https://arxiv.org/abs/2006.11339](https://arxiv.org/abs/2006.11339)
 - github: [https://github.com/mcahny/vps](https://github.com/mcahny/vps)
+
+**PanoNet: Real-time Panoptic Segmentation through Position-Sensitive Feature Embedding**
+
+[https://arxiv.org/abs/2008.00192](https://arxiv.org/abs/2008.00192)
 
 # Face Parsing
 
@@ -2209,8 +2224,10 @@ ranked 1st place in ImageNet Scene Parsing Challenge 2016
 
 **Video Object Segmentation using Space-Time Memory Networks**
 
+- intro: ICCV 2019
 - intro: Yonsei University & Adobe Research
 - arxiv: [https://arxiv.org/abs/1904.00607](https://arxiv.org/abs/1904.00607)
+- github: [https://github.com/seoungwugoh/STM](https://github.com/seoungwugoh/STM)
 
 **Spatiotemporal CNN for Video Object Segmentation**
 

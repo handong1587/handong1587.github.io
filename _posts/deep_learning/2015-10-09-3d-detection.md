@@ -84,6 +84,12 @@ date: 2015-10-09
 - intro: Uber Advanced Technologies Group
 - arxiv: [https://arxiv.org/abs/1903.08701](https://arxiv.org/abs/1903.08701)
 
+**Sensor Fusion for Joint 3D Object Detection and Semantic Segmentation**
+
+- intro: CVPR Workshop on Autonomous Driving 2019
+- keywords: LaserNet++
+- arxiv: [https://arxiv.org/abs/1904.11466](https://arxiv.org/abs/1904.11466)
+
 **From Points to Parts: 3D Object Detection from Point Cloud with Part-aware and Part-aggregation Network**
 
 [https://arxiv.org/abs/1907.03670](https://arxiv.org/abs/1907.03670)
@@ -234,6 +240,27 @@ date: 2015-10-09
 - intro: MIT & Microsoft Research
 - arxiv: [https://arxiv.org/abs/2007.13970](https://arxiv.org/abs/2007.13970)
 - github: [https://github.com/Zengyi-Qin/Weakly-Supervised-3D-Object-Detection](https://github.com/Zengyi-Qin/Weakly-Supervised-3D-Object-Detection)
+
+**Searching Efficient 3D Architectures with Sparse Point-Voxel Convolution**
+
+- intro: ECCV 2020
+- arxiv: [https://arxiv.org/abs/2007.16100](https://arxiv.org/abs/2007.16100)
+
+**Global Context Aware Convolutions for 3D Point Cloud Understanding**
+
+[https://arxiv.org/abs/2008.02986](https://arxiv.org/abs/2008.02986)
+
+# 3D Semantic Segmentation
+
+**Cylinder3D: An Effective 3D Framework for Driving-scene LiDAR Semantic Segmentation**
+
+- intro: CUHK & ShanghaiTech University & SenseTime Research
+- arxiv: [https://arxiv.org/abs/2008.01550](https://arxiv.org/abs/2008.01550)
+- github: [https://github.com/xinge008/Cylinder3D](https://github.com/xinge008/Cylinder3D)
+
+**Projected-point-based Segmentation: A New Paradigm for LiDAR Point Cloud Segmentation**
+
+[https://arxiv.org/abs/2008.03928](https://arxiv.org/abs/2008.03928)
 
 # pseudo-LiDAR
 

@@ -2422,6 +2422,11 @@ Deformable ConvNets v2: More Deformable, Better Results**
 - arxiv: [https://arxiv.org/abs/1812.05720](https://arxiv.org/abs/1812.05720)
 - github: [https://github.com/max-andr/relu_networks_overconfident](https://github.com/max-andr/relu_networks_overconfident)
 
+**Feature Space Augmentation for Long-Tailed Data**
+
+- intro: ECCV 2020
+- arxiv: [https://arxiv.org/abs/2008.03673](https://arxiv.org/abs/2008.03673)
+
 ## Tutorials and Surveys
 
 **A Survey: Time Travel in Deep Learning Space: An Introduction to Deep Learning Models and How Deep Learning Models Evolved from the Initial Ideas**
@@ -2763,6 +2768,13 @@ Deformable ConvNets v2: More Deformable, Better Results**
 
 - intro: Concordia University & University of Toronto
 - arxiv: [https://arxiv.org/abs/1802.10204](https://arxiv.org/abs/1802.10204)
+
+## Low Light
+
+**Exploring Image Enhancement for Salient Object Detection in Low Light Images**
+
+- intro: ACM Transactions on Multimedia Computing, Communications, and Applications
+- arxiv: [https://arxiv.org/abs/2007.16124](https://arxiv.org/abs/2007.16124)
 
 ## Computer Vision
 

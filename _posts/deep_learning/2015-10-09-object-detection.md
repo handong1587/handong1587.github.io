@@ -922,6 +922,16 @@ Continuation of [arXiv:1608.08021](https://arxiv.org/abs/1608.08021)
 - intro: ICCV 2019
 - arxiv: [https://arxiv.org/abs/1908.05217](https://arxiv.org/abs/1908.05217)
 
+**R3Det: Refined Single-Stage Detector with Feature Refinement for Rotating Object**
+
+- arxiv: [https://arxiv.org/abs/1908.05612](https://arxiv.org/abs/1908.05612)
+- github: [https://github.com/Thinklab-SJTU/R3Det_Tensorflow](https://github.com/Thinklab-SJTU/R3Det_Tensorflow)
+
+**SCRDet++: Detecting Small, Cluttered and Rotated Objects via Instance-Level Feature Denoising and Rotation Loss Smoothing**
+
+- project page: [https://yangxue0827.github.io/SCRDet++.html](https://yangxue0827.github.io/SCRDet++.html)
+- arxiv: [https://arxiv.org/abs/2004.13316](https://arxiv.org/abs/2004.13316)
+
 **Relation Distillation Networks for Video Object Detection**
 
 - intro: ICCV 2019
@@ -1283,6 +1293,12 @@ Continuation of [arXiv:1608.08021](https://arxiv.org/abs/1608.08021)
 - intro: Waseda University & Tencent AI Lab & Nanjing University of Science and Technology
 - arxiv: [https://arxiv.org/abs/2005.11472](https://arxiv.org/abs/2005.11472)
 
+**Hierarchical Context Embedding for Region-based Object Detection**
+
+- intro: ECCV 2020
+- intro: Nanjing University & Megvii Technology
+- arxiv: [https://arxiv.org/abs/2008.01338](https://arxiv.org/abs/2008.01338)
+
 # Single-Shot Object Detection
 
 ## YOLO
@@ -1608,6 +1624,11 @@ Continuation of [arXiv:1608.08021](https://arxiv.org/abs/1608.08021)
 
 [https://arxiv.org/abs/1912.05086](https://arxiv.org/abs/1912.05086)
 
+**Single-Shot Two-Pronged Detector with Rectified IoU Loss**
+
+- intro: ACM MM 2020
+- arxiv: [https://arxiv.org/abs/2008.03511](https://arxiv.org/abs/2008.03511)
+
 # Anchor-free
 
 **Feature Selective Anchor-Free Module for Single-Shot Object Detection**
@@ -1675,6 +1696,12 @@ Continuation of [arXiv:1608.08021](https://arxiv.org/abs/1608.08021)
 - intro: ECCV 2020
 - arxiv: [https://arxiv.org/abs/2007.13816](https://arxiv.org/abs/2007.13816)
 - github: [https://github.com/Duankaiwen/CPNDet](https://github.com/Duankaiwen/CPNDet)
+
+**Reducing Label Noise in Anchor-Free Object Detection**
+
+- intro: BMVC 2020
+- arxiv: [https://arxiv.org/abs/2008.01167](https://arxiv.org/abs/2008.01167)
+- github: [https://github.com/nerminsamet/ppdet](https://github.com/nerminsamet/ppdet)
 
 # Non-Maximum Suppression (NMS)
 

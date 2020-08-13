@@ -167,6 +167,15 @@ date: 2015-10-09
 - intro: University of Edinburgh
 - arxiv: [https://arxiv.org/abs/2007.06889](https://arxiv.org/abs/2007.06889)
 
+**Differentiable Feature Aggregation Search for Knowledge Distillation**
+
+[https://arxiv.org/abs/2008.00506](https://arxiv.org/abs/2008.00506)
+
+**Prime-Aware Adaptive Distillation**
+
+- intro: ECCV 2020
+- arxiv: [https://arxiv.org/abs/2008.01458](https://arxiv.org/abs/2008.01458)
+
 # resources
 
 **Awesome Knowledge-Distillation**

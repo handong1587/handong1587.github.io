@@ -378,6 +378,13 @@ L**ow-Resolution Face Recognition**
 - intro: ICML 2020
 - arxiv: [https://arxiv.org/abs/2007.06542](https://arxiv.org/abs/2007.06542)
 
+**Explainable Face Recognition**
+
+- intro: ECCV 2020
+- project page: [https://stresearch.github.io/xfr/](https://stresearch.github.io/xfr/)
+- arxiv: [https://arxiv.org/abs/2008.00916](https://arxiv.org/abs/2008.00916)
+- github: [https://github.com/stresearch/xfr](https://github.com/stresearch/xfr)
+
 # Face Verification
 
 **Deep Learning Face Representation by Joint Identification-Verification**

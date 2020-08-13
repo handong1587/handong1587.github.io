@@ -938,6 +938,11 @@ date: 2015-10-09
 - arxiv: [https://arxiv.org/abs/2003.13911](https://arxiv.org/abs/2003.13911)
 - github(official, Pytorch): [https://github.com/tjddus9597/Proxy-Anchor-CVPR2020](https://github.com/tjddus9597/Proxy-Anchor-CVPR2020)
 
+**Spherical Feature Transform for Deep Metric Learning**
+
+- intro: ECCV 2020
+- arxiv: [https://arxiv.org/abs/2008.01469](https://arxiv.org/abs/2008.01469)
+
 # Talks / Slides
 
 **TiefVision: end-to-end image similarity search engine**
