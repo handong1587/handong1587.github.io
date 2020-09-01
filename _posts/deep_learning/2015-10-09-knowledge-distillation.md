@@ -176,6 +176,25 @@ date: 2015-10-09
 - intro: ECCV 2020
 - arxiv: [https://arxiv.org/abs/2008.01458](https://arxiv.org/abs/2008.01458)
 
+**Knowledge Transfer via Dense Cross-Layer Mutual-Distillation**
+
+- intro: ECCV 2020
+- arxiv: [https://arxiv.org/abs/2008.07816](https://arxiv.org/abs/2008.07816)
+- github: [https://github.com/sundw2014/DCM](https://github.com/sundw2014/DCM)
+
+**Matching Guided Distillation**
+
+- intro: ECCV 2020
+- intro: Aibee Inc.
+- project page: [http://kaiyuyue.com/mgd/](http://kaiyuyue.com/mgd/)
+- arxiv: [https://arxiv.org/abs/2008.09958](https://arxiv.org/abs/2008.09958)
+
+**Domain Adaptation Through Task Distillation**
+
+- intro: ECCV 2020
+- arxiv: [https://arxiv.org/abs/2008.11911](https://arxiv.org/abs/2008.11911)
+- github: [https://github.com/bradyz/task-distillation](https://github.com/bradyz/task-distillation)
+
 # resources
 
 **Awesome Knowledge-Distillation**

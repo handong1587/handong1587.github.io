@@ -997,8 +997,10 @@ Continuation of [arXiv:1608.08021](https://arxiv.org/abs/1608.08021)
 
 **AugFPN: Improving Multi-scale Feature Learning for Object Detection**
 
+- intro: CVPR 2020
 - intro: CASIA & Horizon Robotics
 - arxiv: [https://arxiv.org/abs/1912.05384](https://arxiv.org/abs/1912.05384)
+- github(official, mmdetection): [https://github.com/Gus-Guo/AugFPN](https://github.com/Gus-Guo/AugFPN)
 
 **Object Detection as a Positive-Unlabeled Problem**
 
@@ -1109,6 +1111,12 @@ Continuation of [arXiv:1608.08021](https://arxiv.org/abs/1608.08021)
 
 - intro: ECCV 2020
 - arxiv: [https://arxiv.org/abs/2007.13992](https://arxiv.org/abs/2007.13992)
+
+**VarifocalNet: An IoU-aware Dense Object Detector**
+
+- intro: Queensland University of Technology & University of Queensland
+- arxiv: [https://arxiv.org/abs/2008.13367](https://arxiv.org/abs/2008.13367)
+- github: [https://github.com/hyz-xmaster/VarifocalNet](https://github.com/hyz-xmaster/VarifocalNet)
 
 # Two-Stage Object Detection
 
@@ -1598,6 +1606,12 @@ Continuation of [arXiv:1608.08021](https://arxiv.org/abs/1608.08021)
 
 [https://arxiv.org/abs/1907.12736](https://arxiv.org/abs/1907.12736)
 
+**Revisiting Feature Alignment for One-stage Object Detection**
+
+- intro: University of Chinese Academy of Sciences & TuSimple
+- keywords: AlignDet, RoIConv
+- arxiv: [https://arxiv.org/abs/1908.01570](https://arxiv.org/abs/1908.01570)
+
 **IoU-balanced Loss Functions for Single-stage Object Detection**
 
 - intro: HUST
@@ -1629,11 +1643,18 @@ Continuation of [arXiv:1608.08021](https://arxiv.org/abs/1608.08021)
 - intro: ACM MM 2020
 - arxiv: [https://arxiv.org/abs/2008.03511](https://arxiv.org/abs/2008.03511)
 
+**AP-Loss for Accurate One-Stage Object Detection**
+
+- intro: IEEE TPAMI
+- arxiv: [https://arxiv.org/abs/2008.07294](https://arxiv.org/abs/2008.07294)
+- github: [https://github.com/cccorn/AP-loss](https://github.com/cccorn/AP-loss)
+
 # Anchor-free
 
 **Feature Selective Anchor-Free Module for Single-Shot Object Detection**
 
 - intro: CVPR 2019
+- keywords: feature selective anchor-free (FSAF) module
 - arxiv: [https://arxiv.org/abs/1903.00621](https://arxiv.org/abs/1903.00621)
 
 **FCOS: Fully Convolutional One-Stage Object Detection**
@@ -1667,6 +1688,7 @@ Continuation of [arXiv:1608.08021](https://arxiv.org/abs/1608.08021)
 
 **Soft Anchor-Point Object Detection**
 
+- intro: ECCV 2020
 - intro: Carnegie Mellon University
 - keywords: Soft Anchor-Point Detector (SAPD)
 - arxiv: [https://arxiv.org/abs/1911.12448](https://arxiv.org/abs/1911.12448)
@@ -1770,6 +1792,10 @@ Continuation of [arXiv:1608.08021](https://arxiv.org/abs/1608.08021)
 - intro: Mercedes-Benz AG, R&D & University of Jena
 - keywords: Visibility Guided NMS (vg-NMS)
 - arxiv: [https://arxiv.org/abs/2006.08547](https://arxiv.org/abs/2006.08547)
+
+**Determinantal Point Process as an alternative to NMS**
+
+[https://arxiv.org/abs/2008.11451](https://arxiv.org/abs/2008.11451)
 
 # Adversarial Examples
 
@@ -2690,6 +2716,12 @@ Continuation of [arXiv:1608.08021](https://arxiv.org/abs/1608.08021)
 - intro: Tencent Youtu Lab
 - arxiv: [https://arxiv.org/abs/2007.13376](https://arxiv.org/abs/2007.13376)
 
+**Anchor-free Small-scale Multispectral Pedestrian Detection**
+
+- intro: BMVC 2020
+- arxiv: [https://arxiv.org/abs/2008.08418](https://arxiv.org/abs/2008.08418)
+- github: [https://github.com/HensoldtOptronicsCV/MultispectralPedestrianDetection](https://github.com/HensoldtOptronicsCV/MultispectralPedestrianDetection)
+
 ## Pedestrian Detection in a Crowd
 
 **Repulsion Loss: Detecting Pedestrians in a Crowd**
@@ -2724,6 +2756,11 @@ Continuation of [arXiv:1608.08021](https://arxiv.org/abs/1608.08021)
 **Semantic Head Enhanced Pedestrian Detection in a Crowd**
 
 [https://arxiv.org/abs/1911.11985](https://arxiv.org/abs/1911.11985)
+
+**Visible Feature Guidance for Crowd Pedestrian Detection**
+
+- intro: ECCV 2020 RLQ Workshop
+- arxiv: [https://arxiv.org/abs/2008.09993](https://arxiv.org/abs/2008.09993)
 
 # Occluded Pedestrian Detection
 

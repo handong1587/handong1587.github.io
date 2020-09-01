@@ -366,6 +366,8 @@ date: 2015-10-09
 
 **The Devil is in the Details: Delving into Unbiased Data Processing for Human Pose Estimation**
 
+- intro: CVPR 2020
+- intro: XForwardAI Technology Co.,Ltd & Tsinghua University
 - arxiv: [https://arxiv.org/abs/1911.07524](https://arxiv.org/abs/1911.07524)
 - github: [https://github.com/HuangJunJie2017/UDP-Pose](https://github.com/HuangJunJie2017/UDP-Pose)
 
@@ -378,6 +380,11 @@ date: 2015-10-09
 
 - intro: Joint COCO and Mapillary Workshop at ICCV 2019: Keypoint Detection Challenge Track
 - arxiv: [https://arxiv.org/abs/2003.02170](https://arxiv.org/abs/2003.02170)
+
+**How to Train Your Robust Human Pose Estimator: Pay Attention to the Constraint Cue**
+
+- intro: XForwardAI Technology Co.,Ltd & Tsinghua University
+- arxiv: [https://arxiv.org/abs/2008.07139](https://arxiv.org/abs/2008.07139)
 
 # 3D Pose
 

@@ -385,6 +385,11 @@ date: 2015-10-09
 - intro: ECCV 2020
 - arxiv: [https://arxiv.org/abs/2007.12163](https://arxiv.org/abs/2007.12163)
 
+**Keypoint-Aligned Embeddings for Image Retrieval and Re-identification**
+
+- intro: WACV 2021
+- arxiv: [https://arxiv.org/abs/2008.11368](https://arxiv.org/abs/2008.11368)
+
 # Hashing
 
 **Supervised Hashing for Image Retrieval via Image Representation Learning**

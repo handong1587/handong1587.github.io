@@ -1564,6 +1564,12 @@ Deformable ConvNets v2: More Deformable, Better Results**
 - intro: UC Berkeley & USTC & MSRA
 - arxiv: [https://arxiv.org/abs/1910.02940](https://arxiv.org/abs/1910.02940)
 
+**Dynamic Convolution: Attention over Convolution Kernels**
+
+- intro: CVPR 2020 oral
+- intro: Microsoft
+- arxiv: [https://arxiv.org/abs/1912.03458](https://arxiv.org/abs/1912.03458)
+
 ## Highway Networks
 
 **Highway Networks**

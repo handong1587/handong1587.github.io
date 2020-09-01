@@ -71,6 +71,11 @@ date: 2015-10-09
 - intro: CUHK & Tencent YouTu Lab
 - arxiv: [https://arxiv.org/abs/1908.02990](https://arxiv.org/abs/1908.02990)
 
+**Interpolated Convolutional Networks for 3D Point Cloud Understanding**
+
+- intro: ICCV 2019
+- arxiv: [https://arxiv.org/abs/1908.04512](https://arxiv.org/abs/1908.04512)
+
 **PointPillars: Fast Encoders for Object Detection from Point Clouds**
 
 - intro: nuTonomy: an APTIV company
@@ -121,6 +126,12 @@ date: 2015-10-09
 **PV-RCNN: Point-Voxel Feature Set Abstraction for 3D Object Detection**
 
 [https://arxiv.org/abs/1912.13192](https://arxiv.org/abs/1912.13192)
+
+**Deformable PV-RCNN: Improving 3D Object Detection with Learned Deformations**
+
+- intro: ECCV 2020 Workshop on Perception for Autonomous Driving
+- intro: University of Waterloo
+- arxiv: [https://arxiv.org/abs/2008.08766](https://arxiv.org/abs/2008.08766)
 
 **SMOKE: Single-Stage Monocular 3D Object Detection via Keypoint Estimation**
 
@@ -212,11 +223,6 @@ date: 2015-10-09
 - arxiv: [https://arxiv.org/abs/2007.08856](https://arxiv.org/abs/2007.08856)
 - github: [https://github.com/happinesslz/EPNet](https://github.com/happinesslz/EPNet)
 
-**Cloud Transformers**
-
-- intro: Samsung AI Center Moscow & Skolkovo Institute of Science and Technology
-- arxiv: [https://arxiv.org/abs/2007.11679](https://arxiv.org/abs/2007.11679)
-
 **Weakly Supervised 3D Object Detection from Lidar Point Cloud**
 
 - intro: ECCV 2020
@@ -250,7 +256,37 @@ date: 2015-10-09
 
 [https://arxiv.org/abs/2008.02986](https://arxiv.org/abs/2008.02986)
 
+**DeepLiDARFlow: A Deep Learning Architecture For Scene Flow Estimation Using Monocular Camera and Sparse LiDAR**
+
+- intro: IROS 2020
+- arxiv: [https://arxiv.org/abs/2008.08136](https://arxiv.org/abs/2008.08136)
+- github: [https://github.com/dfki-av/DeepLiDARFlow](https://github.com/dfki-av/DeepLiDARFlow)
+
+**PointMixup: Augmentation for Point Clouds**
+
+- intro: ECCV 2020 spotlight
+- arxiv: [https://arxiv.org/abs/2008.06374](https://arxiv.org/abs/2008.06374)
+
+**Cross-Modality 3D Object Detection**
+
+- intro: WACV 2021
+- arxiv: [https://arxiv.org/abs/2008.10436](https://arxiv.org/abs/2008.10436)
+
+**LC-NAS: Latency Constrained Neural Architecture Search for Point Cloud Networks**
+
+[https://arxiv.org/abs/2008.10309](https://arxiv.org/abs/2008.10309)
+
+**Multi-View Fusion of Sensor Data for Improved Perception and Prediction in Autonomous Driving**
+
+- intro: Uber Advanced Technologies Group
+- arxiv: [https://arxiv.org/abs/2008.11901](https://arxiv.org/abs/2008.11901)
+
 # 3D Semantic Segmentation
+
+**Cloud Transformers**
+
+- intro: Samsung AI Center Moscow & Skolkovo Institute of Science and Technology
+- arxiv: [https://arxiv.org/abs/2007.11679](https://arxiv.org/abs/2007.11679)
 
 **Cylinder3D: An Effective 3D Framework for Driving-scene LiDAR Semantic Segmentation**
 
@@ -261,6 +297,11 @@ date: 2015-10-09
 **Projected-point-based Segmentation: A New Paradigm for LiDAR Point Cloud Segmentation**
 
 [https://arxiv.org/abs/2008.03928](https://arxiv.org/abs/2008.03928)
+
+**PV-RCNN: The Top-Performing LiDAR-only Solutions for 3D Detection / 3D Tracking / Domain Adaptation of Waymo Open Dataset Challenges**
+
+- arxiv: [https://arxiv.org/abs/2008.12599](https://arxiv.org/abs/2008.12599)
+- github: [https://github.com/open-mmlab/OpenPCDet](https://github.com/open-mmlab/OpenPCDet)
 
 # pseudo-LiDAR
 
@@ -276,6 +317,18 @@ date: 2015-10-09
 - intro: ICLR 2020 Poster
 - openreview: [https://openreview.net/forum?id=BJedHRVtPB](https://openreview.net/forum?id=BJedHRVtPB)
 - github(official): [https://github.com/mileyan/Pseudo_Lidar_V2](https://github.com/mileyan/Pseudo_Lidar_V2)
+
+**End-to-End Pseudo-LiDAR for Image-Based 3D Object Detection**
+
+- intro: CVPR 2020
+- arxiv: [https://arxiv.org/abs/2004.03080](https://arxiv.org/abs/2004.03080)
+- github: [https://github.com/mileyan/pseudo-LiDAR_e2e](https://github.com/mileyan/pseudo-LiDAR_e2e)
+
+**Rethinking Pseudo-LiDAR Representation**
+
+- intro: ECCV 2020
+- arxiv: [https://arxiv.org/abs/2008.04582](https://arxiv.org/abs/2008.04582)
+- github: [https://github.com/xinzhuma/patchnet](https://github.com/xinzhuma/patchnet)
 
 # Projects
 

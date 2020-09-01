@@ -385,6 +385,11 @@ L**ow-Resolution Face Recognition**
 - arxiv: [https://arxiv.org/abs/2008.00916](https://arxiv.org/abs/2008.00916)
 - github: [https://github.com/stresearch/xfr](https://github.com/stresearch/xfr)
 
+**BroadFace: Looking at Tens of Thousands of People at Once for Face Recognition**
+
+- intro: ECCV 2020
+- arxiv: [https://arxiv.org/abs/2008.06674](https://arxiv.org/abs/2008.06674)
+
 # Face Verification
 
 **Deep Learning Face Representation by Joint Identification-Verification**

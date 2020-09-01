@@ -934,6 +934,12 @@ with built-in awareness of semantically meaningful boundaries. "
 - arxiv: [https://arxiv.org/abs/1811.11254](https://arxiv.org/abs/1811.11254)
 - github: [https://github.com/juntang-zhuang/ShelfNet](https://github.com/juntang-zhuang/ShelfNet)
 
+**Improving Semantic Segmentation via Video Propagation and Label Relaxation**
+
+- intro: CVPR 2019 oral
+- arxiv: [https://arxiv.org/abs/1812.01593](https://arxiv.org/abs/1812.01593)
+- github: [https://github.com/NVIDIA/semantic-segmentation](https://github.com/NVIDIA/semantic-segmentation)
+
 **RetinaMask: Learning to predict masks improves state-of-the-art single-shot detection for free**
 
 - arxiv: [https://arxiv.org/abs/1901.03353](https://arxiv.org/abs/1901.03353)
@@ -1111,6 +1117,16 @@ with built-in awareness of semantically meaningful boundaries. "
 - intro: Top-1 performance on PASCAL-VOC12
 - arxiv: [https://arxiv.org/abs/2008.00490](https://arxiv.org/abs/2008.00490)
 - github: [https://github.com/CWanli/RecoNet](https://github.com/CWanli/RecoNet)
+
+**EfficientFCN: Holistically-guided Decoding for Semantic Segmentation**
+
+[https://arxiv.org/abs/2008.10487](https://arxiv.org/abs/2008.10487)
+
+**Improving Semantic Segmentation via Decoupled Body and Edge Supervision**
+
+- intro: ECCV 2020
+- arxiv: [https://arxiv.org/abs/2007.10035](https://arxiv.org/abs/2007.10035)
+- github: [https://github.com/lxtGH/DecoupleSegNets](https://github.com/lxtGH/DecoupleSegNets)
 
 # Instance Segmentation
 
@@ -1492,6 +1508,12 @@ with built-in awareness of semantically meaningful boundaries. "
 
 [https://arxiv.org/abs/2008.00460](https://arxiv.org/abs/2008.00460)
 
+**Forest R-CNN: Large-Vocabulary Long-Tailed Object Detection and Instance Segmentation**
+
+- intro: ACM MM 2020
+- arxiv: [https://arxiv.org/abs/2008.05676](https://arxiv.org/abs/2008.05676)
+- github: [https://github.com/JialianW/Forest_RCNN](https://github.com/JialianW/Forest_RCNN)
+
 ## Human Instance Segmentation
 
 **PersonLab: Person Pose Estimation and Instance Segmentation with a Bottom-Up, Part-Based, Geometric Embedding Model**
@@ -1500,10 +1522,15 @@ with built-in awareness of semantically meaningful boundaries. "
 - keywords: Person detection and pose estimation, segmentation and grouping
 - arxiv: [https://arxiv.org/abs/1803.08225](https://arxiv.org/abs/1803.08225)
 
-**Pose2Seg: Human Instance Segmentation Without Detection**
+**Pose2Seg: Detection Free Human Instance Segmentation**
 
-- intro: Tsinghua University & Tencent AI Lab & Cardiff University
+- intro: CVPR 2019
+- intro: Tsinghua Unviersity & BNRist & Tencent AI Lab & Cardiff University
+- keywords: Occluded Human (OCHuman)
+- project page: [http://www.liruilong.cn/Pose2Seg/index.html](http://www.liruilong.cn/Pose2Seg/index.html)
 - arxiv: [https://arxiv.org/abs/1803.10683](https://arxiv.org/abs/1803.10683)
+- github: [https://github.com/liruilong940607/Pose2Seg](https://github.com/liruilong940607/Pose2Seg)
+- dataset: [https://cg.cs.tsinghua.edu.cn/dataset/form.html?dataset=ochuman](https://cg.cs.tsinghua.edu.cn/dataset/form.html?dataset=ochuman)
 
 **Bounding Box Embedding for Single Shot Person Instance Segmentation**
 
@@ -1520,16 +1547,6 @@ with built-in awareness of semantically meaningful boundaries. "
 - intro: CVPR 2019
 - arxiv: [https://arxiv.org/abs/1904.04536](https://arxiv.org/abs/1904.04536)
 - github: [https://github.com/Gaoyiminggithub/Graphonomy](https://github.com/Gaoyiminggithub/Graphonomy)
-
-**Pose2Seg: Detection Free Human Instance Segmentation**
-
-- intro: CVPR 2019
-- intro: Tsinghua Unviersity & BNRist & Tencent AI Lab & Cardiff University
-- keywords: Occluded Human (OCHuman)
-- project page: [http://www.liruilong.cn/Pose2Seg/index.html](http://www.liruilong.cn/Pose2Seg/index.html)
-- arxiv: [https://arxiv.org/abs/1803.10683](https://arxiv.org/abs/1803.10683)
-- github: [https://github.com/liruilong940607/Pose2Seg](https://github.com/liruilong940607/Pose2Seg)
-- dataset: [https://cg.cs.tsinghua.edu.cn/dataset/form.html?dataset=ochuman](https://cg.cs.tsinghua.edu.cn/dataset/form.html?dataset=ochuman)
 
 ## Video Instance Segmentation
 
@@ -1658,6 +1675,10 @@ with built-in awareness of semantically meaningful boundaries. "
 **PanoNet: Real-time Panoptic Segmentation through Position-Sensitive Feature Embedding**
 
 [https://arxiv.org/abs/2008.00192](https://arxiv.org/abs/2008.00192)
+
+**Robust Vision Challenge 2020 -- 1st Place Report for Panoptic Segmentation**
+
+[https://arxiv.org/abs/2008.10112](https://arxiv.org/abs/2008.10112)
 
 # Face Parsing
 
@@ -1996,11 +2017,21 @@ ranked 1st place in ImageNet Scene Parsing Challenge 2016
 - arxiv: [https://arxiv.org/abs/2005.01431](https://arxiv.org/abs/2005.01431)
 - github: [https://github.com/ziwei-zh/CorrPM](https://github.com/ziwei-zh/CorrPM)
 
+**Affinity-aware Compression and Expansion Network for Human Parsing**
+
+[https://arxiv.org/abs/2008.10191](https://arxiv.org/abs/2008.10191)
+
 # Joint Detection and Segmentation
 
 **Triply Supervised Decoder Networks for Joint Detection and Segmentation**
 
 [https://arxiv.org/abs/1809.09299](https://arxiv.org/abs/1809.09299)
+
+**D2Det: Towards High Quality Object Detection and Instance Segmentation**
+
+- intro: CVPR 2020
+- paper: [https://openaccess.thecvf.com/content_CVPR_2020/papers/Cao_D2Det_Towards_High_Quality_Object_Detection_and_Instance_Segmentation_CVPR_2020_paper.pdf](https://openaccess.thecvf.com/content_CVPR_2020/papers/Cao_D2Det_Towards_High_Quality_Object_Detection_and_Instance_Segmentation_CVPR_2020_paper.pdf)
+- github: [https://github.com/JialeCao001/D2Det](https://github.com/JialeCao001/D2Det)
 
 # Video Object Segmentation
 
@@ -2296,6 +2327,12 @@ ranked 1st place in ImageNet Scene Parsing Challenge 2016
 
 - intro: University of Cambridge
 - arxiv: [https://arxiv.org/abs/1912.08969](https://arxiv.org/abs/1912.08969)
+
+**State-Aware Tracker for Real-Time Video Object Segmentation**
+
+- intro: CVPR 2020
+- arxiv: [https://arxiv.org/abs/2003.00482](https://arxiv.org/abs/2003.00482)
+- github: [https://github.com/MegviiDetection/video_analyst](https://github.com/MegviiDetection/video_analyst)
 
 ## Challenge
 
