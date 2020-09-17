@@ -1444,43 +1444,6 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 
 - arxiv: [https://arxiv.org/abs/1612.01697](https://arxiv.org/abs/1612.01697)
 
-# Image Matting
-
-**Deep Image Matting**
-
-- intro: CVPR 2017
-- intro: Beckman Institute for Advanced Science and Technology & Adobe Research
-- arxiv: [https://arxiv.org/abs/1703.03872](https://arxiv.org/abs/1703.03872)
-
-**Fast Deep Matting for Portrait Animation on Mobile Phone**
-
-- intro: ACM Multimedia Conference (MM) 2017
-- intro: does not need any interaction and can realize real-time matting with 15 fps
-- arxiv: [https://arxiv.org/abs/1707.08289](https://arxiv.org/abs/1707.08289)
-
-**Real-time deep hair matting on mobile devices**
-
-- intro: ModiFace Inc, University of Toronto
-- arxiv: [https://arxiv.org/abs/1712.07168](https://arxiv.org/abs/1712.07168)
-
-**TOM-Net: Learning Transparent Object Matting from a Single Image**
-
-- intro: CVPR 2018
-- project page: [http://gychen.org/TOM-Net/](http://gychen.org/TOM-Net/)
-- arxiv: [https://arxiv.org/abs/1803.04636](https://arxiv.org/abs/1803.04636)
-- github: [https://github.com/guanyingc/TOM-Net](https://github.com/guanyingc/TOM-Net)
-
-**Deep Video Portraits**
-
-- intro: SIGGRAPH 2018
-- arxiv: [https://arxiv.org/abs/1805.11714](https://arxiv.org/abs/1805.11714)
-- youtube: [https://www.youtube.com/watch?v=qc5P2bvfl44](https://www.youtube.com/watch?v=qc5P2bvfl44)
-
-**Semantic Human Matting**
-
-- intro: ACM Multimedia 2018
-- arxiv: [https://arxiv.org/abs/1809.01354](https://arxiv.org/abs/1809.01354)
-
 # Image Blending
 
 **GP-GAN: Towards Realistic High-Resolution Image Blending**

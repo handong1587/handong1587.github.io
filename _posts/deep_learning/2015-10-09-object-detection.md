@@ -981,6 +981,7 @@ Continuation of [arXiv:1608.08021](https://arxiv.org/abs/1608.08021)
 - intro: AAAI 2020
 - arxiv: [https://arxiv.org/abs/1911.08287](https://arxiv.org/abs/1911.08287)
 - github: [https://github.com/Zzh-tju/DIoU](https://github.com/Zzh-tju/DIoU)
+- github: [https://github.com/Zzh-tju/CIoU](https://github.com/Zzh-tju/CIoU)
 
 **Curriculum Self-Paced Learning for Cross-Domain Object Detection**
 
@@ -1797,6 +1798,11 @@ Continuation of [arXiv:1608.08021](https://arxiv.org/abs/1608.08021)
 
 [https://arxiv.org/abs/2008.11451](https://arxiv.org/abs/2008.11451)
 
+**Ref-NMS: Breaking Proposal Bottlenecks in Two-Stage Referring Expression Grounding**
+
+- intro: Zhejiang University & Nanyang Technological University & Tencent AI Lab & Columbia University
+- arxiv: [https://arxiv.org/abs/2009.01449](https://arxiv.org/abs/2009.01449)
+
 # Adversarial Examples
 
 **Adversarial Examples that Fool Detectors**
@@ -2200,6 +2206,7 @@ Continuation of [arXiv:1608.08021](https://arxiv.org/abs/1608.08021)
 **UnitBox: An Advanced Object Detection Network**
 
 - intro: ACM MM 2016
+- intro: University of Illinois at Urbana−Champaign & Megvii Inc
 - keywords: IOULoss
 - arxiv: [http://arxiv.org/abs/1608.01471](http://arxiv.org/abs/1608.01471)
 
@@ -2420,6 +2427,7 @@ Continuation of [arXiv:1608.08021](https://arxiv.org/abs/1608.08021)
 
 **RetinaFace: Single-stage Dense Face Localisation in the Wild**
 
+- intro: CVPR 2020
 - arxiv: [https://arxiv.org/abs/1905.00641](https://arxiv.org/abs/1905.00641)
 - gihtub: [https://github.com/deepinsight/insightface/tree/master/RetinaFace](https://github.com/deepinsight/insightface/tree/master/RetinaFace)
 

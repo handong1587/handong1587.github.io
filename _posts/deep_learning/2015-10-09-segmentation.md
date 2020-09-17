@@ -1337,6 +1337,7 @@ with built-in awareness of semantically meaningful boundaries. "
 
 - intro: CVPR 2018 Spotlight
 - intro: CUHK & Peking University & SenseTime Research & YouTu Lab
+- keywords: PANet
 - arxiv: [https://arxiv.org/abs/1803.01534](https://arxiv.org/abs/1803.01534)
 - github: [https://github.com/ShuLiu1993/PANet](https://github.com/ShuLiu1993/PANet)
 
@@ -1476,6 +1477,7 @@ with built-in awareness of semantically meaningful boundaries. "
 
 **Conditional Convolutions for Instance Segmentation**
 
+- intro: ECCV 2020 oral
 - intro: The University of Adelaide
 - arxiv: [https://arxiv.org/abs/2003.05664](https://arxiv.org/abs/2003.05664)
 - github: [https://github.com/aim-uofa/adet](https://github.com/aim-uofa/adet)
@@ -2334,6 +2336,98 @@ ranked 1st place in ImageNet Scene Parsing Challenge 2016
 - arxiv: [https://arxiv.org/abs/2003.00482](https://arxiv.org/abs/2003.00482)
 - github: [https://github.com/MegviiDetection/video_analyst](https://github.com/MegviiDetection/video_analyst)
 
+# Image Matting
+
+**Deep Image Matting**
+
+- intro: CVPR 2017
+- intro: Beckman Institute for Advanced Science and Technology & Adobe Research
+- project page: [https://sites.google.com/view/deepimagematting](https://sites.google.com/view/deepimagematting)
+- arxiv: [https://arxiv.org/abs/1703.03872](https://arxiv.org/abs/1703.03872)
+- github: [https://github.com/foamliu/Deep-Image-Matting](https://github.com/foamliu/Deep-Image-Matting)
+- github: [https://github.com/foamliu/Deep-Image-Matting-PyTorch](https://github.com/foamliu/Deep-Image-Matting-PyTorch)
+
+**Fast Deep Matting for Portrait Animation on Mobile Phone**
+
+- intro: ACM Multimedia Conference (MM) 2017
+- intro: does not need any interaction and can realize real-time matting with 15 fps
+- arxiv: [https://arxiv.org/abs/1707.08289](https://arxiv.org/abs/1707.08289)
+
+**Real-time deep hair matting on mobile devices**
+
+- intro: ModiFace Inc, University of Toronto
+- arxiv: [https://arxiv.org/abs/1712.07168](https://arxiv.org/abs/1712.07168)
+
+**TOM-Net: Learning Transparent Object Matting from a Single Image**
+
+- intro: CVPR 2018
+- project page: [http://gychen.org/TOM-Net/](http://gychen.org/TOM-Net/)
+- arxiv: [https://arxiv.org/abs/1803.04636](https://arxiv.org/abs/1803.04636)
+- github: [https://github.com/guanyingc/TOM-Net](https://github.com/guanyingc/TOM-Net)
+
+**Deep Video Portraits**
+
+- intro: SIGGRAPH 2018
+- arxiv: [https://arxiv.org/abs/1805.11714](https://arxiv.org/abs/1805.11714)
+- youtube: [https://www.youtube.com/watch?v=qc5P2bvfl44](https://www.youtube.com/watch?v=qc5P2bvfl44)
+
+**Semantic Human Matting**
+
+- intro: ACM Multimedia 2018
+- arxiv: [https://arxiv.org/abs/1809.01354](https://arxiv.org/abs/1809.01354)
+
+**Instance Segmentation based Semantic Matting for Compositing Applications**
+
+- intro: CRV 2019
+- arxiv: [https://arxiv.org/abs/1904.05457](https://arxiv.org/abs/1904.05457)
+
+**Boosting Semantic Human Matting with Coarse Annotations**
+
+- intro: Alibaba Group & Tsinghua University
+- arxiv: [https://arxiv.org/abs/2004.04955](https://arxiv.org/abs/2004.04955)
+
+# 3D Segmentation
+
+**PointNet: Deep Learning on Point Sets for 3D Classification and Segmentation**
+
+![](http://stanford.edu/~rqi/pointnet/images/teaser.jpg)
+
+- intro: Stanford University
+- project page: [http://stanford.edu/~rqi/pointnet/](http://stanford.edu/~rqi/pointnet/)
+- arxiv: [https://arxiv.org/abs/1612.00593](https://arxiv.org/abs/1612.00593)
+- github: [https://github.com/charlesq34/pointnet](https://github.com/charlesq34/pointnet)
+
+**DA-RNN: Semantic Mapping with Data Associated Recurrent Neural Networks**
+
+[https://arxiv.org/abs/1703.03098](https://arxiv.org/abs/1703.03098)
+
+**SqueezeSeg: Convolutional Neural Nets with Recurrent CRF for Real-Time Road-Object Segmentation from 3D LiDAR Point Cloud**
+
+- intro: UC Berkeley
+- arxiv: [https://arxiv.org/abs/1710.07368](https://arxiv.org/abs/1710.07368)
+
+**SEGCloud: Semantic Segmentation of 3D Point Clouds**
+
+- intro: International Conference of 3D Vision (3DV) 2017 (Spotlight). Stanford University
+- homepage: [http://segcloud.stanford.edu/](http://segcloud.stanford.edu/)
+- arxiv: [https://arxiv.org/abs/1710.07563](https://arxiv.org/abs/1710.07563)
+
+**3D Instance Segmentation via Multi-task Metric Learning**
+
+- intro: KAUST & ETH Zurich
+- arxiv: [https://arxiv.org/abs/1906.08650](https://arxiv.org/abs/1906.08650)
+
+**3D-MPA: Multi Proposal Aggregation for 3D Semantic Instance Segmentation**
+
+- intro: RWTH Aachen University & Google & Technical University Munich
+- project page: [https://www.vision.rwth-aachen.de/publication/00199/](https://www.vision.rwth-aachen.de/publication/00199/)
+- arxiv: [https://arxiv.org/abs/2003.13867](https://arxiv.org/abs/2003.13867)
+
+**PointGroup: Dual-Set Point Grouping for 3D Instance Segmentation**
+
+- intro: CVPR 2020
+- arxiv: [https://arxiv.org/abs/2004.01658](https://arxiv.org/abs/2004.01658)
+
 ## Challenge
 
 **DAVIS: Densely Annotated VIdeo Segmentation**
@@ -2392,48 +2486,6 @@ ranked 1st place in ImageNet Scene Parsing Challenge 2016
 
 - project page: [https://ansleliu.github.io/LightNet.html](https://ansleliu.github.io/LightNet.html)
 - github: [https://github.com/ansleliu/LightNetPlusPlus](https://github.com/ansleliu/LightNetPlusPlus)
-
-# 3D Segmentation
-
-**PointNet: Deep Learning on Point Sets for 3D Classification and Segmentation**
-
-![](http://stanford.edu/~rqi/pointnet/images/teaser.jpg)
-
-- intro: Stanford University
-- project page: [http://stanford.edu/~rqi/pointnet/](http://stanford.edu/~rqi/pointnet/)
-- arxiv: [https://arxiv.org/abs/1612.00593](https://arxiv.org/abs/1612.00593)
-- github: [https://github.com/charlesq34/pointnet](https://github.com/charlesq34/pointnet)
-
-**DA-RNN: Semantic Mapping with Data Associated Recurrent Neural Networks**
-
-[https://arxiv.org/abs/1703.03098](https://arxiv.org/abs/1703.03098)
-
-**SqueezeSeg: Convolutional Neural Nets with Recurrent CRF for Real-Time Road-Object Segmentation from 3D LiDAR Point Cloud**
-
-- intro: UC Berkeley
-- arxiv: [https://arxiv.org/abs/1710.07368](https://arxiv.org/abs/1710.07368)
-
-**SEGCloud: Semantic Segmentation of 3D Point Clouds**
-
-- intro: International Conference of 3D Vision (3DV) 2017 (Spotlight). Stanford University
-- homepage: [http://segcloud.stanford.edu/](http://segcloud.stanford.edu/)
-- arxiv: [https://arxiv.org/abs/1710.07563](https://arxiv.org/abs/1710.07563)
-
-**3D Instance Segmentation via Multi-task Metric Learning**
-
-- intro: KAUST & ETH Zurich
-- arxiv: [https://arxiv.org/abs/1906.08650](https://arxiv.org/abs/1906.08650)
-
-**3D-MPA: Multi Proposal Aggregation for 3D Semantic Instance Segmentation**
-
-- intro: RWTH Aachen University & Google & Technical University Munich
-- project page: [https://www.vision.rwth-aachen.de/publication/00199/](https://www.vision.rwth-aachen.de/publication/00199/)
-- arxiv: [https://arxiv.org/abs/2003.13867](https://arxiv.org/abs/2003.13867)
-
-**PointGroup: Dual-Set Point Grouping for 3D Instance Segmentation**
-
-- intro: CVPR 2020
-- arxiv: [https://arxiv.org/abs/2004.01658](https://arxiv.org/abs/2004.01658)
 
 # Leaderboard
 

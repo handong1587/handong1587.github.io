@@ -215,6 +215,11 @@ Auto-encoder
 - intro: WACV 2019
 - arxiv: [https://arxiv.org/abs/1901.06474](https://arxiv.org/abs/1901.06474)
 
+**eep Metric Learning Meets Deep Clustering: An Novel Unsupervised Approach for Feature Embedding**
+
+- intro: BMVC 2020
+- arxiv: [https://arxiv.org/abs/2009.04091](https://arxiv.org/abs/2009.04091)
+
 # Auto-encoder
 
 **Auto-Encoding Variational Bayes**

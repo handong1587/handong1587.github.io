@@ -65,6 +65,21 @@ date: 2015-10-09
 - intro: 3d vision 2019
 - arxiv: [https://arxiv.org/abs/1908.03851](https://arxiv.org/abs/1908.03851)
 
+**Deep Hough Voting for 3D Object Detection in Point Clouds**
+
+- intro: ICCV 2019
+- intro: Facebook AI Research & Stanford University
+- keywords: VoteNet
+- arxiv: [https://arxiv.org/abs/1904.09664](https://arxiv.org/abs/1904.09664)
+- github: [https://github.com/facebookresearch/votenet](https://github.com/facebookresearch/votenet)
+
+**M3D-RPN: Monocular 3D Region Proposal Network for Object Detection**
+
+- intro: ICCV 2019 oral
+- project page: [http://cvlab.cse.msu.edu/project-m3d-rpn.html](http://cvlab.cse.msu.edu/project-m3d-rpn.html)
+- arxiv: [https://arxiv.org/abs/1907.06038](https://arxiv.org/abs/1907.06038)
+- github: [https://github.com/garrickbrazil/M3D-RPN](https://github.com/garrickbrazil/M3D-RPN)
+
 **Fast Point R-CNN**
 
 - intro: ICCV 2019
@@ -122,6 +137,7 @@ date: 2015-10-09
 
 - keywords: Non-Maximum Suppression free
 - arxiv: [https://arxiv.org/abs/2007.07214](https://arxiv.org/abs/2007.07214)
+- github: [https://github.com/wangguojun2018/CenterNet3d](https://github.com/wangguojun2018/CenterNet3d)
 
 **PV-RCNN: Point-Voxel Feature Set Abstraction for 3D Object Detection**
 
@@ -132,6 +148,7 @@ date: 2015-10-09
 - intro: ECCV 2020 Workshop on Perception for Autonomous Driving
 - intro: University of Waterloo
 - arxiv: [https://arxiv.org/abs/2008.08766](https://arxiv.org/abs/2008.08766)
+- github: [https://github.com/AutoVision-cloud/Deformable-PV-RCNN](https://github.com/AutoVision-cloud/Deformable-PV-RCNN)
 
 **SMOKE: Single-Stage Monocular 3D Object Detection via Keypoint Estimation**
 
@@ -281,7 +298,23 @@ date: 2015-10-09
 - intro: Uber Advanced Technologies Group
 - arxiv: [https://arxiv.org/abs/2008.11901](https://arxiv.org/abs/2008.11901)
 
+**DV-ConvNet: Fully Convolutional Deep Learning on Point Clouds with Dynamic Voxelization and 3D Group Convolution**
+
+- intro: DESR Lab, Hong Kong University of Science and Technology
+- arxiv: [https://arxiv.org/abs/2009.02918](https://arxiv.org/abs/2009.02918)
+
+**Joint Pose and Shape Estimation of Vehicles from LiDAR Data**
+
+- intro: Argo AI & Microsoft & Carnegie Mellon University
+- arxiv: [https://arxiv.org/abs/2009.03964](https://arxiv.org/abs/2009.03964)
+
 # 3D Semantic Segmentation
+
+**PolarNet: An Improved Grid Representation for Online LiDAR Point Clouds Semantic Segmentation**
+
+- intro: CVPR 2020
+- arxiv: [https://arxiv.org/abs/2003.14032](https://arxiv.org/abs/2003.14032)
+- github: [https://github.com/edwardzhou130/PolarSeg](https://github.com/edwardzhou130/PolarSeg)
 
 **Cloud Transformers**
 
@@ -329,6 +362,13 @@ date: 2015-10-09
 - intro: ECCV 2020
 - arxiv: [https://arxiv.org/abs/2008.04582](https://arxiv.org/abs/2008.04582)
 - github: [https://github.com/xinzhuma/patchnet](https://github.com/xinzhuma/patchnet)
+
+# 3D Tracking
+
+**3D Object Detection and Tracking Based on Streaming Data**
+
+- intro: ICRA 2020
+- arxiv: [https://arxiv.org/abs/2009.06169](https://arxiv.org/abs/2009.06169)
 
 # Projects
 

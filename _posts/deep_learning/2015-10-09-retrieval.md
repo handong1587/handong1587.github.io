@@ -357,7 +357,7 @@ date: 2015-10-09
 - intro: WACV 2019
 - arxiv: [https://arxiv.org/abs/1809.09924](https://arxiv.org/abs/1809.09924)
 - github: [https://github.com/cvjena/semantic-embeddings](https://github.com/cvjena/semantic-embeddings)
-**
+
 **Mean Local Group Average Precision (mLGAP): A New Performance Metric for Hashing-based Retrieval**
 
 [https://arxiv.org/abs/1811.09763](https://arxiv.org/abs/1811.09763)
@@ -389,6 +389,10 @@ date: 2015-10-09
 
 - intro: WACV 2021
 - arxiv: [https://arxiv.org/abs/2008.11368](https://arxiv.org/abs/2008.11368)
+
+**Tasks Integrated Networks: Joint Detection and Retrieval for Image Search**
+
+[https://arxiv.org/abs/2009.01438](https://arxiv.org/abs/2009.01438)
 
 # Hashing
 
@@ -947,6 +951,11 @@ date: 2015-10-09
 
 - intro: ECCV 2020
 - arxiv: [https://arxiv.org/abs/2008.01469](https://arxiv.org/abs/2008.01469)
+
+**Diversified Mutual Learning for Deep Metric Learning**
+
+- intro: ECCV Workshop 2020
+- arxiv: [https://arxiv.org/abs/2009.04170](https://arxiv.org/abs/2009.04170)
 
 # Talks / Slides
 

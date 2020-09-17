@@ -339,9 +339,12 @@ date: 2015-10-09
 
 **Distribution-Aware Coordinate Representation for Human Pose Estimation**
 
+- intro: CVPR 2020
+- keywords: Distribution-Aware coordinate Representation of Keypoint (DARK)
 - intro: Results on the COCO keypoint detection challenge: 78.9% AP on the test-dev set (Top-1 in the leaderbord by 12 Oct 2019) and 76.4% AP on the test-challenge set.
 - project page: [https://ilovepose.github.io/coco/](https://ilovepose.github.io/coco/)
 - arxiv: [https://arxiv.org/abs/1910.06278](https://arxiv.org/abs/1910.06278)
+- github: [https://github.com/ilovepose/DarkPose](https://github.com/ilovepose/DarkPose)
 
 **TRB: A Novel Triplet Representation for Understanding 2D Human Body**
 
