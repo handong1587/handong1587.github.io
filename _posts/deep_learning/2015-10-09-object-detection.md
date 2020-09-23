@@ -1119,6 +1119,11 @@ Continuation of [arXiv:1608.08021](https://arxiv.org/abs/1608.08021)
 - arxiv: [https://arxiv.org/abs/2008.13367](https://arxiv.org/abs/2008.13367)
 - github: [https://github.com/hyz-xmaster/VarifocalNet](https://github.com/hyz-xmaster/VarifocalNet)
 
+**The 1st Tiny Object Detection Challenge:Methods and Results**
+
+- intro: ECCV2020 Workshop on Real-world Computer Vision from Inputs with Limited Quality (RLQ) and Tiny Object Detection Challenge
+- arxiv: [https://arxiv.org/abs/2009.07506](https://arxiv.org/abs/2009.07506)
+
 # Two-Stage Object Detection
 
 ## R-CNN

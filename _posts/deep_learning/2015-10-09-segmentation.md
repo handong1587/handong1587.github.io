@@ -1892,6 +1892,12 @@ ranked 1st place in ImageNet Scene Parsing Challenge 2016
 - intro: ICCV 2019
 - arxiv: [https://arxiv.org/abs/1911.01664](https://arxiv.org/abs/1911.01664)
 
+**Semantic Flow for Fast and Accurate Scene Parsing**
+
+- intro: ECCV 2020 oral
+- arxiv: [https://arxiv.org/abs/2002.10120](https://arxiv.org/abs/2002.10120)
+- github: [https://github.com/donnyyou/torchcv](https://github.com/donnyyou/torchcv)
+
 **Strip Pooling: Rethinking Spatial Pooling for Scene Parsing**
 
 - intro: CVPR 2020
@@ -2022,6 +2028,12 @@ ranked 1st place in ImageNet Scene Parsing Challenge 2016
 **Affinity-aware Compression and Expansion Network for Human Parsing**
 
 [https://arxiv.org/abs/2008.10191](https://arxiv.org/abs/2008.10191)
+
+**Renovating Parsing R-CNN for Accurate Multiple Human Parsing**
+
+- intro: ECCV 2020
+- arxiv: [https://arxiv.org/abs/2009.09447](https://arxiv.org/abs/2009.09447)
+- github: [https://github.com/soeaver/RP-R-CNN](https://github.com/soeaver/RP-R-CNN)
 
 # Joint Detection and Segmentation
 
@@ -2381,10 +2393,21 @@ ranked 1st place in ImageNet Scene Parsing Challenge 2016
 - intro: CRV 2019
 - arxiv: [https://arxiv.org/abs/1904.05457](https://arxiv.org/abs/1904.05457)
 
+**Disentangled Image Matting**
+
+[https://arxiv.org/abs/1909.04686](https://arxiv.org/abs/1909.04686)
+
 **Boosting Semantic Human Matting with Coarse Annotations**
 
 - intro: Alibaba Group & Tsinghua University
 - arxiv: [https://arxiv.org/abs/2004.04955](https://arxiv.org/abs/2004.04955)
+
+**Attention-Guided Hierarchical Structure Aggregation for Image Matting**
+
+- intro: CVPR 2020
+- project page: [https://wukaoliu.github.io/HAttMatting/](https://wukaoliu.github.io/HAttMatting/)
+- paper: [https://openaccess.thecvf.com/content_CVPR_2020/papers/Qiao_Attention-Guided_Hierarchical_Structure_Aggregation_for_Image_Matting_CVPR_2020_paper.pdf](https://openaccess.thecvf.com/content_CVPR_2020/papers/Qiao_Attention-Guided_Hierarchical_Structure_Aggregation_for_Image_Matting_CVPR_2020_paper.pdf)
+- github: [https://github.com/wukaoliu/CVPR2020-HAttMatting](https://github.com/wukaoliu/CVPR2020-HAttMatting)
 
 # 3D Segmentation
 

@@ -114,6 +114,14 @@ date: 2015-10-09
 
 [https://arxiv.org/abs/1907.03670](https://arxiv.org/abs/1907.03670)
 
+**Class-balanced Grouping and Sampling for Point Cloud 3D Object Detection**
+
+- intro: CVPR 2019
+- intro: winner of nuScenes 3D Object Detection challenge in WAD
+- arxiv: [https://arxiv.org/abs/1908.09492](https://arxiv.org/abs/1908.09492)
+- github: https://github.com/ZhengWG/Class-balanced-Grouping-and-Sampling-for-Point-Cloud-3D-Object-Detection
+
+
 **End-to-End Multi-View Fusion for 3D Object Detection in LiDAR Point Clouds**
 
 - intro: CoRL 2019
@@ -126,18 +134,6 @@ date: 2015-10-09
 - intro: CVPR 2020
 - arxiv: [https://arxiv.org/abs/1912.04799](https://arxiv.org/abs/1912.04799)
 - github: [https://github.com/dingmyu/D4LCN](https://github.com/dingmyu/D4LCN)
-
-**Object as Hotspots: An Anchor-Free 3D Object Detection Approach via Firing of Hotspots**
-
-- intro: Samsung Inc & Johns Hopkins University & South China University of Technology
-- keywords: Object as Hotspots (OHS)
-- arxiv: [https://arxiv.org/abs/1912.12791](https://arxiv.org/abs/1912.12791)
-
-**CenterNet3D: An Anchor free Object Detector for Autonomous Driving**
-
-- keywords: Non-Maximum Suppression free
-- arxiv: [https://arxiv.org/abs/2007.07214](https://arxiv.org/abs/2007.07214)
-- github: [https://github.com/wangguojun2018/CenterNet3d](https://github.com/wangguojun2018/CenterNet3d)
 
 **PV-RCNN: Point-Voxel Feature Set Abstraction for 3D Object Detection**
 
@@ -212,18 +208,6 @@ date: 2015-10-09
 
 - intro: Stanford University & NVIDIA
 - arxiv: [https://arxiv.org/abs/2006.12356](https://arxiv.org/abs/2006.12356)
-
-**AFDet: Anchor Free One Stage 3D Object Detection**
-
-- intro: Horizon Robotics
-- intro: CVPR Workshop 2020
-- intro: Baseline detector for the 1st place solutions of Waymo Open Dataset Challenges 2020
-- arxiv: [https://arxiv.org/abs/2006.12671](https://arxiv.org/abs/2006.12671)
-
-**1st Place Solution for Waymo Open Dataset Challenge -- 3D Detection and Domain Adaptation**
-
-- intro: Horizon Robotics
-- arxiv: [https://arxiv.org/abs/2006.15505](https://arxiv.org/abs/2006.15505)
 
 **Local Grid Rendering Networks for 3D Object Detection in Point Clouds**
 
@@ -308,6 +292,37 @@ date: 2015-10-09
 - intro: Argo AI & Microsoft & Carnegie Mellon University
 - arxiv: [https://arxiv.org/abs/2009.03964](https://arxiv.org/abs/2009.03964)
 
+**Deep Learning for 3D Point Cloud Understanding: A Survey**
+
+- arxiv: [https://arxiv.org/abs/2009.08920](https://arxiv.org/abs/2009.08920)
+- github: [https://github.com/SHI-Labs/3D-Point-Cloud-Learning](https://github.com/SHI-Labs/3D-Point-Cloud-Learning)
+
+# Anchor-free 3D Detection
+
+**Object as Hotspots: An Anchor-Free 3D Object Detection Approach via Firing of Hotspots**
+
+- intro: Samsung Inc & Johns Hopkins University & South China University of Technology
+- keywords: Object as Hotspots (OHS)
+- arxiv: [https://arxiv.org/abs/1912.12791](https://arxiv.org/abs/1912.12791)
+
+**CenterNet3D: An Anchor free Object Detector for Autonomous Driving**
+
+- keywords: Non-Maximum Suppression free
+- arxiv: [https://arxiv.org/abs/2007.07214](https://arxiv.org/abs/2007.07214)
+- github: [https://github.com/wangguojun2018/CenterNet3d](https://github.com/wangguojun2018/CenterNet3d)
+
+**AFDet: Anchor Free One Stage 3D Object Detection**
+
+- intro: Horizon Robotics
+- intro: CVPR Workshop 2020
+- intro: Baseline detector for the 1st place solutions of Waymo Open Dataset Challenges 2020
+- arxiv: [https://arxiv.org/abs/2006.12671](https://arxiv.org/abs/2006.12671)
+
+**1st Place Solution for Waymo Open Dataset Challenge -- 3D Detection and Domain Adaptation**
+
+- intro: Horizon Robotics
+- arxiv: [https://arxiv.org/abs/2006.15505](https://arxiv.org/abs/2006.15505)
+
 # 3D Semantic Segmentation
 
 **PolarNet: An Improved Grid Representation for Online LiDAR Point Clouds Semantic Segmentation**
@@ -363,7 +378,21 @@ date: 2015-10-09
 - arxiv: [https://arxiv.org/abs/2008.04582](https://arxiv.org/abs/2008.04582)
 - github: [https://github.com/xinzhuma/patchnet](https://github.com/xinzhuma/patchnet)
 
-# 3D Tracking
+# 3D Detection and Tracking
+
+**Joint Monocular 3D Vehicle Detection and Tracking**
+
+- intro: ICCV 2019
+- project page: [https://eborboihuc.github.io/Mono-3DT/](https://eborboihuc.github.io/Mono-3DT/)
+- arxiv: [https://arxiv.org/abs/1811.10742](https://arxiv.org/abs/1811.10742)
+- github(official): [https://github.com/ucbdrive/3d-vehicle-tracking](https://github.com/ucbdrive/3d-vehicle-tracking)
+
+**Center-based 3D Object Detection and Tracking**
+
+- intro: UT Austin
+- intro: 3D Object Detection and Tracking using center points in the bird-eye view.
+- arxiv: [https://arxiv.org/abs/2006.11275](https://arxiv.org/abs/2006.11275)
+- github: [https://github.com/tianweiy/CenterPoint](https://github.com/tianweiy/CenterPoint)
 
 **3D Object Detection and Tracking Based on Streaming Data**
 
@@ -376,3 +405,9 @@ date: 2015-10-09
 
 - intro: OpenLidarPerceptron is an open source project for LiDAR-based 3D scene perception.
 - github: [https://github.com/open-mmlab/OpenLidarPerceptron](https://github.com/open-mmlab/OpenLidarPerceptron)
+
+# Resources
+
+**Awesome-Automanous-3D-Detection-Methods**
+
+[https://github.com/tyjiang1997/awesome-Automanous-3D-detection-methods](https://github.com/tyjiang1997/awesome-Automanous-3D-detection-methods)

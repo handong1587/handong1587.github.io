@@ -336,6 +336,12 @@ not just the convolutions)
 - intro: University of Central Florida
 - arxiv: [https://arxiv.org/abs/1805.07477](https://arxiv.org/abs/1805.07477)
 
+**MEAL V2: Boosting Vanilla ResNet-50 to 80%+ Top-1 Accuracy on ImageNet without Tricks**
+
+- intro: Carnegie Mellon University
+- arxiv: [https://arxiv.org/abs/2009.08453](https://arxiv.org/abs/2009.08453)
+- github: [https://github.com/szq0214/MEAL-V2](https://github.com/szq0214/MEAL-V2)
+
 ## DenseNet
 
 **Densely Connected Convolutional Networks**
@@ -1445,6 +1451,10 @@ Deformable ConvNets v2: More Deformable, Better Results**
 - intro: ECCV 2020
 - arxiv: [https://arxiv.org/abs/2007.11823](https://arxiv.org/abs/2007.11823)
 - github: [https://github.com/megvii-model/WeightNet](https://github.com/megvii-model/WeightNet)
+
+**Disentangled Non-Local Neural Networks**
+
+[https://arxiv.org/abs/2006.06668](https://arxiv.org/abs/2006.06668)
 
 ## Convolutions / Filters
 
