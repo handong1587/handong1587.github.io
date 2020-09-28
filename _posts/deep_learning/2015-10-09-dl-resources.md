@@ -1580,6 +1580,12 @@ Deformable ConvNets v2: More Deformable, Better Results**
 - intro: Microsoft
 - arxiv: [https://arxiv.org/abs/1912.03458](https://arxiv.org/abs/1912.03458)
 
+**Pyramidal Convolution: Rethinking Convolutional Neural Networks for Visual Recognition**
+
+- arxiv: [https://arxiv.org/abs/2006.11538](https://arxiv.org/abs/2006.11538)
+- github: [https://github.com/iduta/pyconv](https://github.com/iduta/pyconv)
+- gihtub: [https://github.com/iduta/pyconvsegnet](https://github.com/iduta/pyconvsegnet)
+
 ## Highway Networks
 
 **Highway Networks**

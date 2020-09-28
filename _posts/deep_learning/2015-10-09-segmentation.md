@@ -2032,6 +2032,7 @@ ranked 1st place in ImageNet Scene Parsing Challenge 2016
 **Renovating Parsing R-CNN for Accurate Multiple Human Parsing**
 
 - intro: ECCV 2020
+- intro: BUPT & Noah’s Ark Lab, Huawei Technologies
 - arxiv: [https://arxiv.org/abs/2009.09447](https://arxiv.org/abs/2009.09447)
 - github: [https://github.com/soeaver/RP-R-CNN](https://github.com/soeaver/RP-R-CNN)
 
@@ -2356,6 +2357,7 @@ ranked 1st place in ImageNet Scene Parsing Challenge 2016
 - intro: Beckman Institute for Advanced Science and Technology & Adobe Research
 - project page: [https://sites.google.com/view/deepimagematting](https://sites.google.com/view/deepimagematting)
 - arxiv: [https://arxiv.org/abs/1703.03872](https://arxiv.org/abs/1703.03872)
+- github: [https://github.com/open-mmlab/mmediting/tree/master/configs/mattors/dim](https://github.com/open-mmlab/mmediting/tree/master/configs/mattors/dim)
 - github: [https://github.com/foamliu/Deep-Image-Matting](https://github.com/foamliu/Deep-Image-Matting)
 - github: [https://github.com/foamliu/Deep-Image-Matting-PyTorch](https://github.com/foamliu/Deep-Image-Matting-PyTorch)
 
@@ -2393,9 +2395,21 @@ ranked 1st place in ImageNet Scene Parsing Challenge 2016
 - intro: CRV 2019
 - arxiv: [https://arxiv.org/abs/1904.05457](https://arxiv.org/abs/1904.05457)
 
+**Indices Matter: Learning to Index for Deep Image Matting**
+
+- intro: ICCV 2019
+- arxiv: [https://arxiv.org/abs/1908.00672](https://arxiv.org/abs/1908.00672)
+- github: [https://github.com/poppinace/indexnet_matting](https://github.com/poppinace/indexnet_matting)
+
 **Disentangled Image Matting**
 
 [https://arxiv.org/abs/1909.04686](https://arxiv.org/abs/1909.04686)
+
+**Natural Image Matting via Guided Contextual Attention**
+
+- intro: AAAI 2020
+- arxiv: [https://arxiv.org/abs/2001.04069](https://arxiv.org/abs/2001.04069)
+- github: [https://github.com/Yaoyi-Li/GCA-Matting](https://github.com/Yaoyi-Li/GCA-Matting)
 
 **Boosting Semantic Human Matting with Coarse Annotations**
 
@@ -2408,6 +2422,11 @@ ranked 1st place in ImageNet Scene Parsing Challenge 2016
 - project page: [https://wukaoliu.github.io/HAttMatting/](https://wukaoliu.github.io/HAttMatting/)
 - paper: [https://openaccess.thecvf.com/content_CVPR_2020/papers/Qiao_Attention-Guided_Hierarchical_Structure_Aggregation_for_Image_Matting_CVPR_2020_paper.pdf](https://openaccess.thecvf.com/content_CVPR_2020/papers/Qiao_Attention-Guided_Hierarchical_Structure_Aggregation_for_Image_Matting_CVPR_2020_paper.pdf)
 - github: [https://github.com/wukaoliu/CVPR2020-HAttMatting](https://github.com/wukaoliu/CVPR2020-HAttMatting)
+
+**High-Resolution Deep Image Matting**
+
+- intro: UIUC & Adobe Research & University of Oregon
+- arxiv: [https://arxiv.org/abs/2009.06613](https://arxiv.org/abs/2009.06613)
 
 # 3D Segmentation
 

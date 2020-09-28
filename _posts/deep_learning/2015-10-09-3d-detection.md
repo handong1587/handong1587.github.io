@@ -221,6 +221,7 @@ date: 2015-10-09
 **EPNet: Enhancing Point Features with Image Semantics for 3D Object Detection**
 
 - intro: ECCV 2020
+- intro: Huazhong University of Science and Technology
 - arxiv: [https://arxiv.org/abs/2007.08856](https://arxiv.org/abs/2007.08856)
 - github: [https://github.com/happinesslz/EPNet](https://github.com/happinesslz/EPNet)
 
@@ -296,6 +297,12 @@ date: 2015-10-09
 
 - arxiv: [https://arxiv.org/abs/2009.08920](https://arxiv.org/abs/2009.08920)
 - github: [https://github.com/SHI-Labs/3D-Point-Cloud-Learning](https://github.com/SHI-Labs/3D-Point-Cloud-Learning)
+
+**Multi-Frame to Single-Frame: Knowledge Distillation for 3D Object Detection**
+
+- intro: ECCV 2020 Workshop on Perception for Autonomous Driving
+- intro: MIT & Google & Stanford
+- arxiv: [https://arxiv.org/abs/2009.11859](https://arxiv.org/abs/2009.11859)
 
 # Anchor-free 3D Detection
 

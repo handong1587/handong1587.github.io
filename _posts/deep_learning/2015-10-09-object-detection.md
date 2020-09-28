@@ -1124,6 +1124,12 @@ Continuation of [arXiv:1608.08021](https://arxiv.org/abs/1608.08021)
 - intro: ECCV2020 Workshop on Real-world Computer Vision from Inputs with Limited Quality (RLQ) and Tiny Object Detection Challenge
 - arxiv: [https://arxiv.org/abs/2009.07506](https://arxiv.org/abs/2009.07506)
 
+**MimicDet: Bridging the Gap Between One-Stage and Two-Stage Object Detection**
+
+- intro: ECCV 2020
+- intro: SenseTime & CUHK
+- arxiv: [https://arxiv.org/abs/2009.11528](https://arxiv.org/abs/2009.11528)
+
 # Two-Stage Object Detection
 
 ## R-CNN
