@@ -304,6 +304,12 @@ date: 2015-10-09
 - intro: MIT & Google & Stanford
 - arxiv: [https://arxiv.org/abs/2009.11859](https://arxiv.org/abs/2009.11859)
 
+**Monocular Differentiable Rendering for Self-Supervised 3D Object Detection**
+
+- intro: ECCV 2020
+- intro: Preferred Networks, Inc & Toyota Research Institute
+- arxiv: [https://arxiv.org/abs/2009.14524](https://arxiv.org/abs/2009.14524)
+
 # Anchor-free 3D Detection
 
 **Object as Hotspots: An Anchor-Free 3D Object Detection Approach via Firing of Hotspots**

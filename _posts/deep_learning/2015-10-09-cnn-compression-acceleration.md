@@ -638,6 +638,12 @@ at INT8 deep learning operations than other FPGA DSP architectures"
 - paper: [https://openreview.net/pdf?id=rJeUPlrYvr](https://openreview.net/pdf?id=rJeUPlrYvr)
 - github: [https://github.com/anonymous47823493/FNNP](https://github.com/anonymous47823493/FNNP)
 
+**Pruning Filter in Filter**
+
+- intro: NeurIPS 2020
+- intro: Harbin Institute of Technology & Tencent Youtu Lab
+- arxiv: [https://arxiv.org/abs/2009.14410](https://arxiv.org/abs/2009.14410)
+
 # Low-Precision Networks
 
 **Accelerating Deep Convolutional Networks using low-precision and sparsity**

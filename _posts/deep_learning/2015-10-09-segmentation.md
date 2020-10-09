@@ -1516,6 +1516,11 @@ with built-in awareness of semantically meaningful boundaries. "
 - arxiv: [https://arxiv.org/abs/2008.05676](https://arxiv.org/abs/2008.05676)
 - github: [https://github.com/JialianW/Forest_RCNN](https://github.com/JialianW/Forest_RCNN)
 
+**Joint COCO and Mapillary Workshop at ICCV 2019: COCO Instance Segmentation Challenge Track**
+
+- intro: 1st Place Technical Report in ICCV2019/ ECCV2020: MegDetV2
+- arxiv: [https://arxiv.org/abs/2010.02475](https://arxiv.org/abs/2010.02475)
+
 ## Human Instance Segmentation
 
 **PersonLab: Person Pose Estimation and Instance Segmentation with a Bottom-Up, Part-Based, Geometric Embedding Model**
@@ -1681,6 +1686,11 @@ with built-in awareness of semantically meaningful boundaries. "
 **Robust Vision Challenge 2020 -- 1st Place Report for Panoptic Segmentation**
 
 [https://arxiv.org/abs/2008.10112](https://arxiv.org/abs/2008.10112)
+
+**Learning Category- and Instance-Aware Pixel Embedding for Fast Panoptic Segmentation**
+
+- intro: Chinese Academy of Sciences & Horizon Robotics
+- arxiv: [https://arxiv.org/abs/2009.13342](https://arxiv.org/abs/2009.13342)
 
 # Face Parsing
 

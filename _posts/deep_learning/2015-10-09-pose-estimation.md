@@ -389,6 +389,11 @@ date: 2015-10-09
 - intro: XForwardAI Technology Co.,Ltd & Tsinghua University
 - arxiv: [https://arxiv.org/abs/2008.07139](https://arxiv.org/abs/2008.07139)
 
+**CoKe: Localized Contrastive Learning for Robust Keypoint Detection**
+
+- intro: Johns Hopkins University
+- arxiv: [https://arxiv.org/abs/2009.14115](https://arxiv.org/abs/2009.14115)
+
 # 3D Pose
 
 **Can 3D Pose be Learned from 2D Projections Alone?**

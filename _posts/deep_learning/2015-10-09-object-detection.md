@@ -1061,6 +1061,11 @@ Continuation of [arXiv:1608.08021](https://arxiv.org/abs/1608.08021)
 - arxiv: [https://arxiv.org/abs/2005.12872](https://arxiv.org/abs/2005.12872)
 - github: [https://github.com/facebookresearch/detr](https://github.com/facebookresearch/detr)
 
+**Deformable DETR: Deformable Transformers for End-to-End Object Detection**
+
+- intro: SenseTime Research & USTC & CUHK
+- arxiv: [https://arxiv.org/abs/2010.04159](https://arxiv.org/abs/2010.04159)
+
 **DetectoRS: Detecting Objects with Recursive Feature Pyramid and Switchable Atrous Convolution**
 
 - intro: Johns Hopkins University & Google Research
@@ -1129,6 +1134,14 @@ Continuation of [arXiv:1608.08021](https://arxiv.org/abs/1608.08021)
 - intro: ECCV 2020
 - intro: SenseTime & CUHK
 - arxiv: [https://arxiv.org/abs/2009.11528](https://arxiv.org/abs/2009.11528)
+
+**A Ranking-based, Balanced Loss Function Unifying Classification and Localisation in Object Detection**
+
+- intro: NeurIPS 2020 spotlight
+- intro: Middle East Technical University
+- keywords: average Localization-Recall-Precision (aLRP)
+- arxiv: [https://arxiv.org/abs/2009.13592](https://arxiv.org/abs/2009.13592)
+- github(official, Pytorch): [https://github.com/kemaloksuz/aLRPLoss](https://github.com/kemaloksuz/aLRPLoss)
 
 # Two-Stage Object Detection
 

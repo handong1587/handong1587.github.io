@@ -1796,6 +1796,11 @@ date: 2015-10-09
 - arxiv: [https://arxiv.org/abs/1909.09481](https://arxiv.org/abs/1909.09481)
 - github: [https://github.com/zhongyy/Adversarial_MTER](https://github.com/zhongyy/Adversarial_MTER)
 
+**Bag of Tricks for Adversarial Training**
+
+- intro: Tsinghua University
+- arxiv: [https://arxiv.org/abs/2010.00467](https://arxiv.org/abs/2010.00467)
+
 # Low-Precision Training
 
 **Mixed Precision Training**
