@@ -2426,6 +2426,7 @@ ranked 1st place in ImageNet Scene Parsing Challenge 2016
 
 - intro: ACM Multimedia 2018
 - arxiv: [https://arxiv.org/abs/1809.01354](https://arxiv.org/abs/1809.01354)
+- github(unofficial): [https://github.com/lizhengwei1992/Semantic_Human_Matting](https://github.com/lizhengwei1992/Semantic_Human_Matting)
 
 **Instance Segmentation based Semantic Matting for Compositing Applications**
 
