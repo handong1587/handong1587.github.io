@@ -2391,11 +2391,6 @@ ranked 1st place in ImageNet Scene Parsing Challenge 2016
 - arxiv: [https://arxiv.org/abs/1805.11714](https://arxiv.org/abs/1805.11714)
 - youtube: [https://www.youtube.com/watch?v=qc5P2bvfl44](https://www.youtube.com/watch?v=qc5P2bvfl44)
 
-**Instance Segmentation based Semantic Matting for Compositing Applications**
-
-- intro: CRV 2019
-- arxiv: [https://arxiv.org/abs/1904.05457](https://arxiv.org/abs/1904.05457)
-
 **Indices Matter: Learning to Index for Deep Image Matting**
 
 - intro: ICCV 2019
@@ -2431,6 +2426,11 @@ ranked 1st place in ImageNet Scene Parsing Challenge 2016
 
 - intro: ACM Multimedia 2018
 - arxiv: [https://arxiv.org/abs/1809.01354](https://arxiv.org/abs/1809.01354)
+
+**Instance Segmentation based Semantic Matting for Compositing Applications**
+
+- intro: CRV 2019
+- arxiv: [https://arxiv.org/abs/1904.05457](https://arxiv.org/abs/1904.05457)
 
 **A Late Fusion CNN for Digital Matting**
 
