@@ -2391,11 +2391,6 @@ ranked 1st place in ImageNet Scene Parsing Challenge 2016
 - arxiv: [https://arxiv.org/abs/1805.11714](https://arxiv.org/abs/1805.11714)
 - youtube: [https://www.youtube.com/watch?v=qc5P2bvfl44](https://www.youtube.com/watch?v=qc5P2bvfl44)
 
-**Semantic Human Matting**
-
-- intro: ACM Multimedia 2018
-- arxiv: [https://arxiv.org/abs/1809.01354](https://arxiv.org/abs/1809.01354)
-
 **Instance Segmentation based Semantic Matting for Compositing Applications**
 
 - intro: CRV 2019
@@ -2418,11 +2413,6 @@ ranked 1st place in ImageNet Scene Parsing Challenge 2016
 - arxiv: [https://arxiv.org/abs/2001.04069](https://arxiv.org/abs/2001.04069)
 - github: [https://github.com/Yaoyi-Li/GCA-Matting](https://github.com/Yaoyi-Li/GCA-Matting)
 
-**Boosting Semantic Human Matting with Coarse Annotations**
-
-- intro: Alibaba Group & Tsinghua University
-- arxiv: [https://arxiv.org/abs/2004.04955](https://arxiv.org/abs/2004.04955)
-
 **Attention-Guided Hierarchical Structure Aggregation for Image Matting**
 
 - intro: CVPR 2020
@@ -2434,6 +2424,24 @@ ranked 1st place in ImageNet Scene Parsing Challenge 2016
 
 - intro: UIUC & Adobe Research & University of Oregon
 - arxiv: [https://arxiv.org/abs/2009.06613](https://arxiv.org/abs/2009.06613)
+
+## trimap-free matting
+
+**Semantic Human Matting**
+
+- intro: ACM Multimedia 2018
+- arxiv: [https://arxiv.org/abs/1809.01354](https://arxiv.org/abs/1809.01354)
+
+**A Late Fusion CNN for Digital Matting**
+
+- intro: Zhejiang University & Alibaba Group & University of Texas at Austin
+- paper: [https://openaccess.thecvf.com/content_CVPR_2019/papers/Zhang_A_Late_Fusion_CNN_for_Digital_Matting_CVPR_2019_paper.pdf](https://openaccess.thecvf.com/content_CVPR_2019/papers/Zhang_A_Late_Fusion_CNN_for_Digital_Matting_CVPR_2019_paper.pdf)
+- github(official, Keras): [https://github.com/yunkezhang/FusionMatting](https://github.com/yunkezhang/FusionMatting)
+
+**Boosting Semantic Human Matting with Coarse Annotations**
+
+- intro: Alibaba Group & Tsinghua University
+- arxiv: [https://arxiv.org/abs/2004.04955](https://arxiv.org/abs/2004.04955)
 
 # 3D Segmentation
 
