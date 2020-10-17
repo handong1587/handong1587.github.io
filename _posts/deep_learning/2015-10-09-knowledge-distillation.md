@@ -195,6 +195,10 @@ date: 2015-10-09
 - arxiv: [https://arxiv.org/abs/2008.11911](https://arxiv.org/abs/2008.11911)
 - github: [https://github.com/bradyz/task-distillation](https://github.com/bradyz/task-distillation)
 
+**Spherical Knowledge Distillation**
+
+[https://arxiv.org/abs/2010.07485](https://arxiv.org/abs/2010.07485)
+
 # resources
 
 **Awesome Knowledge-Distillation**

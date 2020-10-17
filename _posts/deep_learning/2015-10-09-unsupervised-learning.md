@@ -112,8 +112,16 @@ Auto-encoder
 
 - intro: CVPR 2020
 - intro: Facebook AI Research (FAIR)
+- intro: MoCo
 - arxiv: [https://arxiv.org/abs/1911.05722](https://arxiv.org/abs/1911.05722)
 - github(official, Pytorch): [https://github.com/facebookresearch/moco](https://github.com/facebookresearch/moco)
+
+**Improved Baselines with Momentum Contrastive Learning**
+
+- intro: Facebook AI Research (FAIR)
+- intro: MoCo v2
+- arxiv: [https://arxiv.org/abs/2003.04297](https://arxiv.org/abs/2003.04297)
+- github: [https://github.com/facebookresearch/moco](https://github.com/facebookresearch/moco)
 
 ## Clustering
 

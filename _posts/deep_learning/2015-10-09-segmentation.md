@@ -66,7 +66,6 @@ date: 2015-10-09
 - arxiv: [https://arxiv.org/abs/1703.04363](https://arxiv.org/abs/1703.04363)
 - demo: [https://gyglim.github.io/deep-value-net/](https://gyglim.github.io/deep-value-net/)
 
-
 **Annotating Object Instances with a Polygon-RNN**
 
 - intro: CVPR 2017. CVPR Best Paper Honorable Mention Award
@@ -74,7 +73,6 @@ date: 2015-10-09
 - keywords: PolygonRNN
 - project page: [http://www.cs.toronto.edu/polyrnn/](http://www.cs.toronto.edu/polyrnn/)
 - arxiv: [https://arxiv.org/abs/1704.05548](https://arxiv.org/abs/1704.05548)
-
 
 **Efficient Interactive Annotation of Segmentation Datasets with Polygon-RNN++**
 
@@ -427,8 +425,6 @@ fine-tune the trained network with more challenging examples later
 
 **Semantic Image Segmentation via Deep Parsing Network**
 
-![](http://personal.ie.cuhk.edu.hk/~lz013/projects/dpn/intro.png)
-
 - intro: ICCV 2015. CUHK
 - keywords: Deep Parsing Network (DPN), Markov Random Field (MRF)
 - homepage: [http://personal.ie.cuhk.edu.hk/~lz013/projects/DPN.html](http://personal.ie.cuhk.edu.hk/~lz013/projects/DPN.html)
@@ -437,8 +433,6 @@ fine-tune the trained network with more challenging examples later
 - slides: [http://personal.ie.cuhk.edu.hk/~pluo/pdf/presentation_dpn.pdf](http://personal.ie.cuhk.edu.hk/~pluo/pdf/presentation_dpn.pdf)
 
 **Multi-Scale Context Aggregation by Dilated Convolutions**
-
-![](http://vladlen.info/wp-content/uploads/2016/02/dilated-convolutions1-894x263.png)
 
 - intro: ICLR 2016.
 - intro: Dilated Convolution for Semantic Image Segmentation
@@ -449,8 +443,6 @@ fine-tune the trained network with more challenging examples later
 - notes: [http://www.inference.vc/dilated-convolutions-and-kronecker-factorisation/](http://www.inference.vc/dilated-convolutions-and-kronecker-factorisation/)
 
 **Instance-aware Semantic Segmentation via Multi-task Network Cascades**
-
-![](https://raw.githubusercontent.com/daijifeng001/MNC/master/data/readme_img/example.png)
 
 - intro: CVPR 2016 oral. 1st-place winner of MS COCO 2015 segmentation competition
 - keywords: RoI warping layer, Multi-task Network Cascades (MNC)
@@ -991,18 +983,6 @@ with built-in awareness of semantically meaningful boundaries. "
 
 [https://arxiv.org/abs/1904.01886](https://arxiv.org/abs/1904.01886)
 
-**YOLACT: Real-time Instance Segmentation**
-
-- intro: You Only Look At CoefficienTs
-- intro: University of California, Davis
-- keywords: one-stage, Fast NMS
-- arxiv: [https://arxiv.org/abs/1904.02689](https://arxiv.org/abs/1904.02689)
-- github(official, Pytorch): [https://github.com/dbolya/yolact](https://github.com/dbolya/yolact)
-
-**YOLACT++: Better Real-time Instance Segmentation**
-
-[https://arxiv.org/abs/1912.06218](https://arxiv.org/abs/1912.06218)
-
 **DFANet: Deep Feature Aggregation for Real-Time Semantic Segmentation**
 
 - intro: Megvii Technology
@@ -1047,12 +1027,6 @@ with built-in awareness of semantically meaningful boundaries. "
 
 - intro: ICCV 2019
 - arxiv: [https://arxiv.org/abs/1909.09408](https://arxiv.org/abs/1909.09408)
-
-**PolarMask: Single Shot Instance Segmentation with Polar Representation**
-
-- intro: CVPR 2020
-- arxiv: [https://arxiv.org/abs/1909.13226](https://arxiv.org/abs/1909.13226)
-- github: [https://github.com/xieenze/PolarMask](https://github.com/xieenze/PolarMask)
 
 **Region Mutual Information Loss for Semantic Segmentation**
 
@@ -1127,6 +1101,10 @@ with built-in awareness of semantically meaningful boundaries. "
 - intro: ECCV 2020
 - arxiv: [https://arxiv.org/abs/2007.10035](https://arxiv.org/abs/2007.10035)
 - github: [https://github.com/lxtGH/DecoupleSegNets](https://github.com/lxtGH/DecoupleSegNets)
+
+**Auto Seg-Loss: Searching Metric Surrogates for Semantic Segmentation**
+
+[https://arxiv.org/abs/2010.07930](https://arxiv.org/abs/2010.07930)
 
 # Instance Segmentation
 
@@ -1422,6 +1400,24 @@ with built-in awareness of semantically meaningful boundaries. "
 - intro: ICCV 2019
 - intro: Chinese Academy of Sciences & Horizon Robotics, Inc
 - arxiv: [https://arxiv.org/abs/1909.01616](https://arxiv.org/abs/1909.01616)
+
+**YOLACT: Real-time Instance Segmentation**
+
+- intro: You Only Look At CoefficienTs
+- intro: University of California, Davis
+- keywords: one-stage, Fast NMS
+- arxiv: [https://arxiv.org/abs/1904.02689](https://arxiv.org/abs/1904.02689)
+- github(official, Pytorch): [https://github.com/dbolya/yolact](https://github.com/dbolya/yolact)
+
+**YOLACT++: Better Real-time Instance Segmentation**
+
+[https://arxiv.org/abs/1912.06218](https://arxiv.org/abs/1912.06218)
+
+**PolarMask: Single Shot Instance Segmentation with Polar Representation**
+
+- intro: CVPR 2020
+- arxiv: [https://arxiv.org/abs/1909.13226](https://arxiv.org/abs/1909.13226)
+- github: [https://github.com/xieenze/PolarMask](https://github.com/xieenze/PolarMask)
 
 **CenterMask : Real-Time Anchor-Free Instance Segmentation**
 
@@ -2409,7 +2405,8 @@ ranked 1st place in ImageNet Scene Parsing Challenge 2016
 
 - intro: ICCV 2019
 - arxiv: [https://arxiv.org/abs/1908.00672](https://arxiv.org/abs/1908.00672)
-- github: [https://github.com/poppinace/indexnet_matting](https://github.com/poppinace/indexnet_matting)
+- github(official): [https://github.com/poppinace/indexnet_matting](https://github.com/poppinace/indexnet_matting)
+- github: [https://github.com/open-mmlab/mmediting/tree/master/configs/mattors/indexnet](https://github.com/open-mmlab/mmediting/tree/master/configs/mattors/indexnet)
 
 **Disentangled Image Matting**
 

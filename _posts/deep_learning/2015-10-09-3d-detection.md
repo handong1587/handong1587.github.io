@@ -32,6 +32,7 @@ date: 2015-10-09
 
 - intro: CVPR 2019
 - arxiv: [https://arxiv.org/abs/1812.04244](https://arxiv.org/abs/1812.04244)
+- github(official): [https://github.com/sshaoshuai/PV-RCNN](https://github.com/sshaoshuai/PV-RCNN)
 - github(official): [https://github.com/sshaoshuai/PointRCNN](https://github.com/sshaoshuai/PointRCNN)
 
 **3D Object Detection Using Scale Invariant and Feature Reweighting Networks**
@@ -110,9 +111,14 @@ date: 2015-10-09
 - keywords: LaserNet++
 - arxiv: [https://arxiv.org/abs/1904.11466](https://arxiv.org/abs/1904.11466)
 
+**Part-A^2 Net: 3D Part-Aware and Aggregation Neural Network for Object Detection from Point Cloud**
+
 **From Points to Parts: 3D Object Detection from Point Cloud with Part-aware and Part-aggregation Network**
 
-[https://arxiv.org/abs/1907.03670](https://arxiv.org/abs/1907.03670)
+- intro: TPAMI 2020
+- arxiv: [https://arxiv.org/abs/1907.03670](https://arxiv.org/abs/1907.03670)
+- github(official): [https://github.com/sshaoshuai/PartA2-Net](https://github.com/sshaoshuai/PartA2-Net)
+- github(official): [https://github.com/open-mmlab/OpenPCDet](https://github.com/open-mmlab/OpenPCDet)
 
 **Class-balanced Grouping and Sampling for Point Cloud 3D Object Detection**
 
@@ -120,7 +126,6 @@ date: 2015-10-09
 - intro: winner of nuScenes 3D Object Detection challenge in WAD
 - arxiv: [https://arxiv.org/abs/1908.09492](https://arxiv.org/abs/1908.09492)
 - github: https://github.com/ZhengWG/Class-balanced-Grouping-and-Sampling-for-Point-Cloud-3D-Object-Detection
-
 
 **End-to-End Multi-View Fusion for 3D Object Detection in LiDAR Point Clouds**
 
@@ -137,7 +142,14 @@ date: 2015-10-09
 
 **PV-RCNN: Point-Voxel Feature Set Abstraction for 3D Object Detection**
 
-[https://arxiv.org/abs/1912.13192](https://arxiv.org/abs/1912.13192)
+- intro: CVPR 2020
+- arxiv: [https://arxiv.org/abs/1912.13192](https://arxiv.org/abs/1912.13192)
+- github(official): [https://github.com/open-mmlab/OpenPCDet](https://github.com/open-mmlab/OpenPCDet)
+
+**PV-RCNN: The Top-Performing LiDAR-only Solutions for 3D Detection / 3D Tracking / Domain Adaptation of Waymo Open Dataset Challenges**
+
+- arxiv: [https://arxiv.org/abs/2008.12599](https://arxiv.org/abs/2008.12599)
+- github: [https://github.com/open-mmlab/OpenPCDet](https://github.com/open-mmlab/OpenPCDet)
 
 **Deformable PV-RCNN: Improving 3D Object Detection with Learned Deformations**
 
@@ -310,6 +322,11 @@ date: 2015-10-09
 - intro: Preferred Networks, Inc & Toyota Research Institute
 - arxiv: [https://arxiv.org/abs/2009.14524](https://arxiv.org/abs/2009.14524)
 
+**Torch-Points3D: A Modular Multi-Task Frameworkfor Reproducible Deep Learning on 3D Point Clouds**
+
+- arxiv: [https://arxiv.org/abs/2010.04642](https://arxiv.org/abs/2010.04642)
+- github: [https://github.com/nicolas-chaulet/torch-points3d](https://github.com/nicolas-chaulet/torch-points3d)
+
 # Anchor-free 3D Detection
 
 **Object as Hotspots: An Anchor-Free 3D Object Detection Approach via Firing of Hotspots**
@@ -358,11 +375,6 @@ date: 2015-10-09
 **Projected-point-based Segmentation: A New Paradigm for LiDAR Point Cloud Segmentation**
 
 [https://arxiv.org/abs/2008.03928](https://arxiv.org/abs/2008.03928)
-
-**PV-RCNN: The Top-Performing LiDAR-only Solutions for 3D Detection / 3D Tracking / Domain Adaptation of Waymo Open Dataset Challenges**
-
-- arxiv: [https://arxiv.org/abs/2008.12599](https://arxiv.org/abs/2008.12599)
-- github: [https://github.com/open-mmlab/OpenPCDet](https://github.com/open-mmlab/OpenPCDet)
 
 # pseudo-LiDAR
 
