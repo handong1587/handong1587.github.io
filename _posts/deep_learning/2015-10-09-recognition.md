@@ -201,6 +201,12 @@ date: 2015-10-09
 - project page: [https://liuziwei7.github.io/projects/LongTail.html](https://liuziwei7.github.io/projects/LongTail.html)
 - arxiv: [https://arxiv.org/abs/1904.05160](https://arxiv.org/abs/1904.05160)
 
+**An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale**
+
+- intro: Google Research, Brain Team
+- arxiv: [https://arxiv.org/abs/2010.11929](https://arxiv.org/abs/2010.11929)
+- github: [https://github.com/google-research/vision_transformer](https://github.com/google-research/vision_transformer)
+
 # Massive Classification
 
 **Accelerated Training for Massive Classification via Dynamic Class Selection**

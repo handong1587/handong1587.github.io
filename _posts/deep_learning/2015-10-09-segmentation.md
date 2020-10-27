@@ -1106,6 +1106,16 @@ with built-in awareness of semantically meaningful boundaries. "
 
 [https://arxiv.org/abs/2010.07930](https://arxiv.org/abs/2010.07930)
 
+**PseudoSeg: Designing Pseudo Labels for Semantic Segmentation**
+
+- arxiv: [https://arxiv.org/abs/2010.09713](https://arxiv.org/abs/2010.09713)
+- github: [https://github.com/googleinterns/wss](https://github.com/googleinterns/wss)
+
+**Importance-Aware Semantic Segmentation in Self-Driving with Discrete Wasserstein Training**
+
+- intro: AAAI 2020
+- arxiv: [https://arxiv.org/abs/2010.12440](https://arxiv.org/abs/2010.12440)
+
 # Instance Segmentation
 
 **Simultaneous Detection and Segmentation**
@@ -2355,6 +2365,11 @@ ranked 1st place in ImageNet Scene Parsing Challenge 2016
 - arxiv: [https://arxiv.org/abs/2003.00482](https://arxiv.org/abs/2003.00482)
 - github: [https://github.com/MegviiDetection/video_analyst](https://github.com/MegviiDetection/video_analyst)
 
+**Video Object Segmentation with Adaptive Feature Bank and Uncertain-Region Refinement**
+
+- intro: NeurIPS 2020
+- arxiv: [https://arxiv.org/abs/2010.07958](https://arxiv.org/abs/2010.07958)
+
 # Image Matting
 
 **Deep Image Matting**
@@ -2414,6 +2429,11 @@ ranked 1st place in ImageNet Scene Parsing Challenge 2016
 - project page: [https://wukaoliu.github.io/HAttMatting/](https://wukaoliu.github.io/HAttMatting/)
 - paper: [https://openaccess.thecvf.com/content_CVPR_2020/papers/Qiao_Attention-Guided_Hierarchical_Structure_Aggregation_for_Image_Matting_CVPR_2020_paper.pdf](https://openaccess.thecvf.com/content_CVPR_2020/papers/Qiao_Attention-Guided_Hierarchical_Structure_Aggregation_for_Image_Matting_CVPR_2020_paper.pdf)
 - github: [https://github.com/wukaoliu/CVPR2020-HAttMatting](https://github.com/wukaoliu/CVPR2020-HAttMatting)
+
+**F, B, Alpha Matting**
+
+- intro: ECCV 2020
+- arxiv: [https://arxiv.org/abs/2003.07711](https://arxiv.org/abs/2003.07711)
 
 **High-Resolution Deep Image Matting**
 

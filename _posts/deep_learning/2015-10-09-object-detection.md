@@ -2069,6 +2069,11 @@ Continuation of [arXiv:1608.08021](https://arxiv.org/abs/1608.08021)
 
 [https://arxiv.org/abs/1911.05253](https://arxiv.org/abs/1911.05253)
 
+**Object-aware Feature Aggregation for Video Object Detection**
+
+- intro: Beihang University & Capital Normal University & The University of Hong Kong & Baidu, Inc.
+- arxiv: [https://arxiv.org/abs/2010.12573](https://arxiv.org/abs/2010.12573)
+
 # Object Detection on Mobile Devices
 
 **Pelee: A Real-Time Object Detection System on Mobile Devices**

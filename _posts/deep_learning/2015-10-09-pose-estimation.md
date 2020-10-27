@@ -394,6 +394,12 @@ date: 2015-10-09
 - intro: Johns Hopkins University
 - arxiv: [https://arxiv.org/abs/2009.14115](https://arxiv.org/abs/2009.14115)
 
+**View-Invariant, Occlusion-Robust Probabilistic Embedding for Human Pose**
+
+- intro: Google Research & California Institute of Technology & Rutgers University
+- arxiv: [https://arxiv.org/abs/2010.13321](https://arxiv.org/abs/2010.13321)
+- gtihub: [https://github.com/google-research/google-research/tree/master/poem](https://github.com/google-research/google-research/tree/master/poem)
+
 # 3D Pose
 
 **Can 3D Pose be Learned from 2D Projections Alone?**

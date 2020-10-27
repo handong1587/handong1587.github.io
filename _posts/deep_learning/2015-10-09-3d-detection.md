@@ -146,6 +146,18 @@ date: 2015-10-09
 - arxiv: [https://arxiv.org/abs/1912.13192](https://arxiv.org/abs/1912.13192)
 - github(official): [https://github.com/open-mmlab/OpenPCDet](https://github.com/open-mmlab/OpenPCDet)
 
+**RTM3D: Real-time Monocular 3D Detection from Object Keypoints for Autonomous Driving**
+
+- intro: ECCV 2020
+- arxiv: [https://arxiv.org/abs/2001.03343](https://arxiv.org/abs/2001.03343)
+
+**Point-GNN: Graph Neural Network for 3D Object Detection in a Point Cloud**
+
+- intro: CVPR 2020
+- intro: Carnegie Mellon University
+- arxiv: [https://arxiv.org/abs/2003.01251](https://arxiv.org/abs/2003.01251)
+- github: [https://github.com/WeijingShi/Point-GNN](https://github.com/WeijingShi/Point-GNN)
+
 **PV-RCNN: The Top-Performing LiDAR-only Solutions for 3D Detection / 3D Tracking / Domain Adaptation of Waymo Open Dataset Challenges**
 
 - arxiv: [https://arxiv.org/abs/2008.12599](https://arxiv.org/abs/2008.12599)
@@ -326,6 +338,12 @@ date: 2015-10-09
 
 - arxiv: [https://arxiv.org/abs/2010.04642](https://arxiv.org/abs/2010.04642)
 - github: [https://github.com/nicolas-chaulet/torch-points3d](https://github.com/nicolas-chaulet/torch-points3d)
+
+**MLOD: Awareness of Extrinsic Perturbation in Multi-LiDAR 3D Object Detection for Autonomous Driving**
+
+- intro: The Hong Kong University of Science and Technology
+- project page: [https://ram-lab.com/file/site/mlod/](https://ram-lab.com/file/site/mlod/)
+- arxiv: [https://arxiv.org/abs/2010.11702](https://arxiv.org/abs/2010.11702)
 
 # Anchor-free 3D Detection
 

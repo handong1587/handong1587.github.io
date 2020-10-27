@@ -2114,6 +2114,12 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 - arixv: [https://arxiv.org/abs/1804.08254](https://arxiv.org/abs/1804.08254)
 - github: [https://github.com/memory-attention-networks](https://github.com/memory-attention-networks)
 
+**Deep Analysis of CNN-based Spatio-temporal Representations for Action Recognition**
+
+- intro: MIT-IBM Watson AI Lab & MIT
+- arxiv: [https://arxiv.org/abs/2010.11757](https://arxiv.org/abs/2010.11757)
+- github: [https://github.com/IBM/action-recognition-pytorch](https://github.com/IBM/action-recognition-pytorch)
+
 # CTR Prediction
 
 **Deep CTR Prediction in Display Advertising**
