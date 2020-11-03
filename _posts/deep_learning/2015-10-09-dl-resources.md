@@ -460,6 +460,12 @@ not just the convolutions)
 - arxiv: [https://arxiv.org/abs/2003.13549](https://arxiv.org/abs/2003.13549)
 - github: [https://github.com/zeiss-microscopy/BSConv](https://github.com/zeiss-microscopy/BSConv)
 
+**Rethinking Bottleneck Structure for Efficient Mobile Network Design**
+
+- intro: ECCV 2020
+- arxiv: [https://arxiv.org/abs/2007.02269](https://arxiv.org/abs/2007.02269)
+- github: [https://github.com/zhoudaquan/rethinking_bottleneck_design](https://github.com/zhoudaquan/rethinking_bottleneck_design)
+
 ## ShuffleNet
 
 **ShuffleNet: An Extremely Efficient Convolutional Neural Network for Mobile Devices**

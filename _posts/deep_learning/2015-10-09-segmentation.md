@@ -1004,6 +1004,11 @@ with built-in awareness of semantically meaningful boundaries. "
 - intro: BMVC 2019
 - arxiv: [https://arxiv.org/abs/1907.11830](https://arxiv.org/abs/1907.11830)
 
+**Dynamic Graph Message Passing Networks**
+
+- intro: CVPR 2020 oral
+- arxiv: [https://arxiv.org/abs/1908.06955](https://arxiv.org/abs/1908.06955)
+
 **Squeeze-and-Attention Networks for Semantic Segmentation**
 
 [https://arxiv.org/abs/1909.03402](https://arxiv.org/abs/1909.03402)
@@ -1092,6 +1097,11 @@ with built-in awareness of semantically meaningful boundaries. "
 - arxiv: [https://arxiv.org/abs/2008.00490](https://arxiv.org/abs/2008.00490)
 - github: [https://github.com/CWanli/RecoNet](https://github.com/CWanli/RecoNet)
 
+**Representative Graph Neural Network**
+
+- intro: ECCV 2020
+- arxiv: [https://arxiv.org/abs/2008.05202](https://arxiv.org/abs/2008.05202)
+
 **EfficientFCN: Holistically-guided Decoding for Semantic Segmentation**
 
 [https://arxiv.org/abs/2008.10487](https://arxiv.org/abs/2008.10487)
@@ -1115,6 +1125,17 @@ with built-in awareness of semantically meaningful boundaries. "
 
 - intro: AAAI 2020
 - arxiv: [https://arxiv.org/abs/2010.12440](https://arxiv.org/abs/2010.12440)
+
+**Pixel-Level Cycle Association: A New Perspective for Domain Adaptive Semantic Segmentation**
+
+- intro: NeurIPS 2020 oral
+- arxiv: [https://arxiv.org/abs/2011.00147](https://arxiv.org/abs/2011.00147)
+- github: [https://github.com/kgl-prml/Pixel-Level-Cycle-Association](https://github.com/kgl-prml/Pixel-Level-Cycle-Association)
+
+**CABiNet: Efficient Context Aggregation Network for Low-Latency Semantic Segmentation**
+
+- intro: University of Twente
+- arxiv: [https://arxiv.org/abs/2011.00993](https://arxiv.org/abs/2011.00993)
 
 # Instance Segmentation
 
@@ -1697,6 +1718,13 @@ with built-in awareness of semantically meaningful boundaries. "
 
 - intro: Chinese Academy of Sciences & Horizon Robotics
 - arxiv: [https://arxiv.org/abs/2009.13342](https://arxiv.org/abs/2009.13342)
+
+**Auto-Panoptic: Cooperative Multi-Component Architecture Search for Panoptic Segmentation**
+
+- intro: NeurIPS 2020
+- intro: Sun Yat-sen University & Huawei Noah’s Ark Lab & DarkMatter AI Research
+- arxiv: [https://arxiv.org/abs/2010.16119](https://arxiv.org/abs/2010.16119)
+- github: [https://github.com/Jacobew/AutoPanoptic](https://github.com/Jacobew/AutoPanoptic)
 
 # Face Parsing
 
@@ -2406,6 +2434,11 @@ ranked 1st place in ImageNet Scene Parsing Challenge 2016
 - arxiv: [https://arxiv.org/abs/1805.11714](https://arxiv.org/abs/1805.11714)
 - youtube: [https://www.youtube.com/watch?v=qc5P2bvfl44](https://www.youtube.com/watch?v=qc5P2bvfl44)
 
+**Inductive Guided Filter: Real-time Deep Image Matting with Weakly Annotated Masks on Mobile Devices**
+
+- intro: Shanghai Jiao Tong University & Versa
+- arxiv: [https://arxiv.org/abs/1905.06747](https://arxiv.org/abs/1905.06747)
+
 **Indices Matter: Learning to Index for Deep Image Matting**
 
 - intro: ICCV 2019
@@ -2422,13 +2455,6 @@ ranked 1st place in ImageNet Scene Parsing Challenge 2016
 - intro: AAAI 2020
 - arxiv: [https://arxiv.org/abs/2001.04069](https://arxiv.org/abs/2001.04069)
 - github: [https://github.com/Yaoyi-Li/GCA-Matting](https://github.com/Yaoyi-Li/GCA-Matting)
-
-**Attention-Guided Hierarchical Structure Aggregation for Image Matting**
-
-- intro: CVPR 2020
-- project page: [https://wukaoliu.github.io/HAttMatting/](https://wukaoliu.github.io/HAttMatting/)
-- paper: [https://openaccess.thecvf.com/content_CVPR_2020/papers/Qiao_Attention-Guided_Hierarchical_Structure_Aggregation_for_Image_Matting_CVPR_2020_paper.pdf](https://openaccess.thecvf.com/content_CVPR_2020/papers/Qiao_Attention-Guided_Hierarchical_Structure_Aggregation_for_Image_Matting_CVPR_2020_paper.pdf)
-- github: [https://github.com/wukaoliu/CVPR2020-HAttMatting](https://github.com/wukaoliu/CVPR2020-HAttMatting)
 
 **F, B, Alpha Matting**
 
@@ -2455,14 +2481,28 @@ ranked 1st place in ImageNet Scene Parsing Challenge 2016
 
 **A Late Fusion CNN for Digital Matting**
 
+- intro: CVPR 2019
 - intro: Zhejiang University & Alibaba Group & University of Texas at Austin
 - paper: [https://openaccess.thecvf.com/content_CVPR_2019/papers/Zhang_A_Late_Fusion_CNN_for_Digital_Matting_CVPR_2019_paper.pdf](https://openaccess.thecvf.com/content_CVPR_2019/papers/Zhang_A_Late_Fusion_CNN_for_Digital_Matting_CVPR_2019_paper.pdf)
 - github(official, Keras): [https://github.com/yunkezhang/FusionMatting](https://github.com/yunkezhang/FusionMatting)
+
+**Attention-Guided Hierarchical Structure Aggregation for Image Matting**
+
+- intro: CVPR 2020
+- project page: [https://wukaoliu.github.io/HAttMatting/](https://wukaoliu.github.io/HAttMatting/)
+- paper: [https://openaccess.thecvf.com/content_CVPR_2020/papers/Qiao_Attention-Guided_Hierarchical_Structure_Aggregation_for_Image_Matting_CVPR_2020_paper.pdf](https://openaccess.thecvf.com/content_CVPR_2020/papers/Qiao_Attention-Guided_Hierarchical_Structure_Aggregation_for_Image_Matting_CVPR_2020_paper.pdf)
+- github: [https://github.com/wukaoliu/CVPR2020-HAttMatting](https://github.com/wukaoliu/CVPR2020-HAttMatting)
 
 **Boosting Semantic Human Matting with Coarse Annotations**
 
 - intro: Alibaba Group & Tsinghua University
 - arxiv: [https://arxiv.org/abs/2004.04955](https://arxiv.org/abs/2004.04955)
+
+**End-to-end Animal Image Matting**
+
+- keywords: Glance and Focus Matting network (GFM), AM-2k dataset, BG-20k dataset
+- arxiv: [https://arxiv.org/abs/2010.16188](https://arxiv.org/abs/2010.16188)
+- github: [https://github.com/JizhiziLi/animal-matting/](https://github.com/JizhiziLi/animal-matting/)
 
 # 3D Segmentation
 

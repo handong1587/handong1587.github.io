@@ -134,6 +134,13 @@ date: 2015-10-09
 - keywords: dynamic voxelization
 - arxiv: [https://arxiv.org/abs/1910.06528](https://arxiv.org/abs/1910.06528)
 
+**SampleNet: Differentiable Point Cloud Sampling**
+
+- intro: CVPR 2020 oral
+- intro: Tel Aviv University
+- arxiv: [https://arxiv.org/abs/1912.03663](https://arxiv.org/abs/1912.03663)
+- github: [https://github.com/itailang/SampleNet](https://github.com/itailang/SampleNet)
+
 **Learning Depth-Guided Convolutions for Monocular 3D Object Detection**
 
 - intro: CVPR 2020

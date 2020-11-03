@@ -1143,6 +1143,12 @@ Continuation of [arXiv:1608.08021](https://arxiv.org/abs/1608.08021)
 - arxiv: [https://arxiv.org/abs/2009.13592](https://arxiv.org/abs/2009.13592)
 - github(official, Pytorch): [https://github.com/kemaloksuz/aLRPLoss](https://github.com/kemaloksuz/aLRPLoss)
 
+**RelationNet++: Bridging Visual Representations for Object Detection via Transformer Decoder**
+
+- intro: NeurIPS2020 Spotlight
+- arxiv: [https://arxiv.org/abs/2010.15831](https://arxiv.org/abs/2010.15831)
+- github:[https://github.com/microsoft/RelationNet2](https://github.com/microsoft/RelationNet2)
+
 # Two-Stage Object Detection
 
 ## R-CNN
