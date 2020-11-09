@@ -1911,6 +1911,13 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 - intro: ICCV 2019
 - arxiv: [https://arxiv.org/abs/1909.05845](https://arxiv.org/abs/1909.05845)
 
+**Revisiting Stereo Depth Estimation From a Sequence-to-Sequence Perspective with Transformers**
+
+- intro: Johns Hopkins University
+- keywords: STereo TRansformer (STTR)
+- arxiv: [https://arxiv.org/abs/2011.02910](https://arxiv.org/abs/2011.02910)
+- github: [https://github.com/mli0603/stereo-transformer](https://github.com/mli0603/stereo-transformer)
+
 # Optical Flow
 
 **FlowNet: Learning Optical Flow with Convolutional Networks**
@@ -2119,6 +2126,12 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 - intro: MIT-IBM Watson AI Lab & MIT
 - arxiv: [https://arxiv.org/abs/2010.11757](https://arxiv.org/abs/2010.11757)
 - github: [https://github.com/IBM/action-recognition-pytorch](https://github.com/IBM/action-recognition-pytorch)
+
+**Decoupling GCN with DropGraph Module for Skeleton-Based Action Recognition**
+
+- intro: ECCV 2020
+- paper: [https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123690528.pdf](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123690528.pdf)
+- github: [https://github.com/kchengiva/DecoupleGCN-DropGraph](https://github.com/kchengiva/DecoupleGCN-DropGraph)
 
 # CTR Prediction
 

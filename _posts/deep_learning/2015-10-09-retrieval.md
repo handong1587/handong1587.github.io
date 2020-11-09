@@ -957,6 +957,12 @@ date: 2015-10-09
 - intro: ECCV Workshop 2020
 - arxiv: [https://arxiv.org/abs/2009.04170](https://arxiv.org/abs/2009.04170)
 
+**Deep Metric Learning with Spherical Embedding**
+
+- intro: NeurIPS 2020
+- arxiv: [https://arxiv.org/abs/2011.02785](https://arxiv.org/abs/2011.02785)
+- github(Pytorch):[https://github.com/Dyfine/SphericalEmbedding](https://github.com/Dyfine/SphericalEmbedding)
+
 # Talks / Slides
 
 **TiefVision: end-to-end image similarity search engine**

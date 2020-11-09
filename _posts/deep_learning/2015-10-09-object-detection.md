@@ -1149,6 +1149,11 @@ Continuation of [arXiv:1608.08021](https://arxiv.org/abs/1608.08021)
 - arxiv: [https://arxiv.org/abs/2010.15831](https://arxiv.org/abs/2010.15831)
 - github:[https://github.com/microsoft/RelationNet2](https://github.com/microsoft/RelationNet2)
 
+**Effective Fusion Factor in FPN for Tiny Object Detection**
+
+- intro: WACV 2021
+- arxiv: [https://arxiv.org/abs/2011.02298](https://arxiv.org/abs/2011.02298)
+
 # Two-Stage Object Detection
 
 ## R-CNN

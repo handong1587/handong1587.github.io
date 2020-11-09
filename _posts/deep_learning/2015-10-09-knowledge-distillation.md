@@ -199,6 +199,11 @@ date: 2015-10-09
 
 [https://arxiv.org/abs/2010.07485](https://arxiv.org/abs/2010.07485)
 
+**In Defense of Feature Mimicking for Knowledge Distillation**
+
+- intro: Nanjing University
+- arxiv: [https://arxiv.org/abs/2011.01424](https://arxiv.org/abs/2011.01424)
+
 # resources
 
 **Awesome Knowledge-Distillation**

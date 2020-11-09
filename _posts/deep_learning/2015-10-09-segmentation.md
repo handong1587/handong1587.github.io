@@ -23,8 +23,6 @@ date: 2015-10-09
 
 **Segmentation from Natural Language Expressions**
 
-![](http://ronghanghu.com/wp-content/uploads/text_objseg_method-768x331.jpg)
-
 - intro: ECCV 2016
 - project page: [http://ronghanghu.com/text_objseg/](http://ronghanghu.com/text_objseg/)
 - arxiv: [http://arxiv.org/abs/1603.06180](http://arxiv.org/abs/1603.06180)
@@ -293,8 +291,6 @@ date: 2015-10-09
 
 **DeepLab: Semantic Image Segmentation with Deep Convolutional Nets, Atrous Convolution, and Fully Connected CRFs**
 
-![](http://liangchiehchen.com/fig/deeplab_intro.jpg)
-
 - intro: TPAMI
 - intro: 79.7% mIOU in the test set, PASCAL VOC-2012 semantic image segmentation task
 - intro: Updated version of our previous ICLR 2015 paper
@@ -345,9 +341,8 @@ date: 2015-10-09
 
 **Conditional Random Fields as Recurrent Neural Networks**
 
-![](http://www.robots.ox.ac.uk/~szheng/Res_CRFRNN/CRFasRNN.jpg)
-
-- intro: ICCV 2015. Oxford / Stanford / Baidu
+- intro: ICCV 2015
+- intro: Oxford / Stanford / Baidu
 - keywords: CRF-RNN
 - project page: [http://www.robots.ox.ac.uk/~szheng/CRFasRNN.html](http://www.robots.ox.ac.uk/~szheng/CRFasRNN.html)
 - arxiv: [http://arxiv.org/abs/1502.03240](http://arxiv.org/abs/1502.03240)
@@ -368,7 +363,7 @@ date: 2015-10-09
 
 ![](http://cvlab.postech.ac.kr/research/deconvnet/images/overall.png)
 
-- intro: ICCV 2015. DeconvNet
+- intro: ICCV 2015
 - intro: two-stage training: train the network with easy examples first and 
 fine-tune the trained network with more challenging examples later
 - keywords: DeconvNet
@@ -414,8 +409,6 @@ fine-tune the trained network with more challenging examples later
 - caffe model zoo: [https://github.com/BVLC/caffe/wiki/Model-Zoo#parsenet-looking-wider-to-see-better](https://github.com/BVLC/caffe/wiki/Model-Zoo#parsenet-looking-wider-to-see-better)
 
 **Decoupled Deep Neural Network for Semi-supervised Semantic Segmentation**
-
-![](http://cvlab.postech.ac.kr/research/decouplednet/images/overall.png)
 
 - intro: ICLR 2016
 - keywords: DecoupledNet
@@ -468,8 +461,6 @@ fine-tune the trained network with more challenging examples later
 - arxiv: [http://arxiv.org/abs/1603.04871](http://arxiv.org/abs/1603.04871)
 
 **Seed, Expand and Constrain: Three Principles for Weakly-Supervised Image Segmentation**
-
-![](https://cloud.githubusercontent.com/assets/460828/19045346/9b3bd058-8998-11e6-93f2-4c667fb7a1e8.png)
 
 - intro: ECCV 2016
 - arxiv: [https://arxiv.org/abs/1603.06098](https://arxiv.org/abs/1603.06098)
@@ -1174,8 +1165,6 @@ with built-in awareness of semantically meaningful boundaries. "
 - arxiv: [http://arxiv.org/abs/1511.06449](http://arxiv.org/abs/1511.06449)
 
 **Recurrent Instance Segmentation**
-
-![](http://romera-paredes.com/wp-content/uploads/2015/12/RIS.png)
 
 - intro: ECCV 2016
 - porject page: [http://romera-paredes.com/ris](http://romera-paredes.com/ris)
@@ -1948,6 +1937,11 @@ ranked 1st place in ImageNet Scene Parsing Challenge 2016
 - arxiv: [https://arxiv.org/abs/2003.13328](https://arxiv.org/abs/2003.13328)
 - github: [https://github.com/Andrew-Qibin/SPNet](https://github.com/Andrew-Qibin/SPNet)
 
+**S3-Net: A Fast and Lightweight Video Scene Understanding Network by Single-shot Segmentation**
+
+- intro: WACV 2021
+- arxiv: [https://arxiv.org/abs/2011.02265](https://arxiv.org/abs/2011.02265)
+
 ## Benchmarks
 
 **MIT Scene Parsing Benchmark**
@@ -2507,8 +2501,6 @@ ranked 1st place in ImageNet Scene Parsing Challenge 2016
 # 3D Segmentation
 
 **PointNet: Deep Learning on Point Sets for 3D Classification and Segmentation**
-
-![](http://stanford.edu/~rqi/pointnet/images/teaser.jpg)
 
 - intro: Stanford University
 - project page: [http://stanford.edu/~rqi/pointnet/](http://stanford.edu/~rqi/pointnet/)

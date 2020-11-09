@@ -352,6 +352,12 @@ date: 2015-10-09
 - project page: [https://ram-lab.com/file/site/mlod/](https://ram-lab.com/file/site/mlod/)
 - arxiv: [https://arxiv.org/abs/2010.11702](https://arxiv.org/abs/2010.11702)
 
+**Point Transformer**
+
+- intro: Ulm University
+- keywords: SortNet
+- arxiv: [https://arxiv.org/abs/2011.00931](https://arxiv.org/abs/2011.00931)
+
 # Anchor-free 3D Detection
 
 **Object as Hotspots: An Anchor-Free 3D Object Detection Approach via Firing of Hotspots**
@@ -448,6 +454,11 @@ date: 2015-10-09
 
 - intro: ICRA 2020
 - arxiv: [https://arxiv.org/abs/2009.06169](https://arxiv.org/abs/2009.06169)
+
+**Uncertainty-Aware Voxel based 3D Object Detection and Tracking with von-Mises Loss**
+
+- intro: University of Michigan
+- arxiv: [https://arxiv.org/abs/2011.02553](https://arxiv.org/abs/2011.02553)
 
 # Projects
 
