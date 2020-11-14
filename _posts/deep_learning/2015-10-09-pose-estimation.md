@@ -400,6 +400,13 @@ date: 2015-10-09
 - arxiv: [https://arxiv.org/abs/2010.13321](https://arxiv.org/abs/2010.13321)
 - gtihub: [https://github.com/google-research/google-research/tree/master/poem](https://github.com/google-research/google-research/tree/master/poem)
 
+**Point-Set Anchors for Object Detection, Instance Segmentation and Pose Estimation**
+
+- intro: ECCV 2020
+- intro: MSRA & Peking University
+- arxiv: [https://arxiv.org/abs/2007.02846](https://arxiv.org/abs/2007.02846)
+- github: [https://github.com/FangyunWei/PointSetAnchor](https://github.com/FangyunWei/PointSetAnchor)
+
 # 3D Pose
 
 **Can 3D Pose be Learned from 2D Projections Alone?**

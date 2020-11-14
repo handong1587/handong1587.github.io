@@ -1743,6 +1743,12 @@ Continuation of [arXiv:1608.08021](https://arxiv.org/abs/1608.08021)
 - keywords: Gaussian-FCOS
 - arxiv: [https://arxiv.org/abs/2006.15607](https://arxiv.org/abs/2006.15607)
 
+**Corner Proposal Network for Anchor-free, Two-stage Object Detection**
+
+- intro: ECCV 2020
+- arxiv: [https://arxiv.org/abs/2007.13816](https://arxiv.org/abs/2007.13816)
+- github: [https://github.com/Duankaiwen/CPNDet](https://github.com/Duankaiwen/CPNDet)
+
 **Dive Deeper Into Box for Object Detection**
 
 - intro: ECCV 2020

@@ -2455,6 +2455,12 @@ ranked 1st place in ImageNet Scene Parsing Challenge 2016
 - intro: ECCV 2020
 - arxiv: [https://arxiv.org/abs/2003.07711](https://arxiv.org/abs/2003.07711)
 
+**Hierarchical Opacity Propagation for Image Matting**
+
+- intro: Shanghai Jiao Tong University
+- arxiv: [https://arxiv.org/abs/2004.03249](https://arxiv.org/abs/2004.03249)
+- github: [https://github.com/Yaoyi-Li/HOP-Matting](https://github.com/Yaoyi-Li/HOP-Matting)
+
 **High-Resolution Deep Image Matting**
 
 - intro: UIUC & Adobe Research & University of Oregon
