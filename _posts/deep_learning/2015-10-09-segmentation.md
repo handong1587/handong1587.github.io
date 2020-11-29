@@ -1128,6 +1128,10 @@ with built-in awareness of semantically meaningful boundaries. "
 - intro: University of Twente
 - arxiv: [https://arxiv.org/abs/2011.00993](https://arxiv.org/abs/2011.00993)
 
+**SegBlocks: Block-Based Dynamic Resolution Networks for Real-Time Segmentation**
+
+[https://arxiv.org/abs/2011.12025](https://arxiv.org/abs/2011.12025)
+
 # Instance Segmentation
 
 **Simultaneous Detection and Segmentation**
@@ -1537,6 +1541,11 @@ with built-in awareness of semantically meaningful boundaries. "
 - intro: 1st Place Technical Report in ICCV2019/ ECCV2020: MegDetV2
 - arxiv: [https://arxiv.org/abs/2010.02475](https://arxiv.org/abs/2010.02475)
 
+**DCT-Mask: Discrete Cosine Transform Mask Representation for Instance Segmentation**
+
+- intro: Zhejiang University & Alibaba Group
+- arxiv: [https://arxiv.org/abs/2011.09876](https://arxiv.org/abs/2011.09876)
+
 ## Human Instance Segmentation
 
 **PersonLab: Person Pose Estimation and Instance Segmentation with a Bottom-Up, Part-Based, Geometric Embedding Model**
@@ -1714,6 +1723,11 @@ with built-in awareness of semantically meaningful boundaries. "
 - intro: Sun Yat-sen University & Huawei Noah’s Ark Lab & DarkMatter AI Research
 - arxiv: [https://arxiv.org/abs/2010.16119](https://arxiv.org/abs/2010.16119)
 - github: [https://github.com/Jacobew/AutoPanoptic](https://github.com/Jacobew/AutoPanoptic)
+
+**Scaling Wide Residual Networks for Panoptic Segmentation**
+
+- intro: Google Research & Johns Hopkins University
+- arxiv: [https://arxiv.org/abs/2011.11675](https://arxiv.org/abs/2011.11675)
 
 # Face Parsing
 
@@ -2400,9 +2414,10 @@ ranked 1st place in ImageNet Scene Parsing Challenge 2016
 - intro: Beckman Institute for Advanced Science and Technology & Adobe Research
 - project page: [https://sites.google.com/view/deepimagematting](https://sites.google.com/view/deepimagematting)
 - arxiv: [https://arxiv.org/abs/1703.03872](https://arxiv.org/abs/1703.03872)
-- github: [https://github.com/open-mmlab/mmediting/tree/master/configs/mattors/dim](https://github.com/open-mmlab/mmediting/tree/master/configs/mattors/dim)
-- github: [https://github.com/foamliu/Deep-Image-Matting](https://github.com/foamliu/Deep-Image-Matting)
-- github: [https://github.com/foamliu/Deep-Image-Matting-PyTorch](https://github.com/foamliu/Deep-Image-Matting-PyTorch)
+- github(unofficial): [https://github.com/open-mmlab/mmediting/tree/master/configs/mattors/dim](https://github.com/open-mmlab/mmediting/tree/master/configs/mattors/dim)
+- github(unofficial): [https://github.com/foamliu/Deep-Image-Matting](https://github.com/foamliu/Deep-Image-Matting)
+- github(unofficial): [https://github.com/foamliu/Deep-Image-Matting-PyTorch](https://github.com/foamliu/Deep-Image-Matting-PyTorch)
+- github(unofficial): [https://github.com/huochaitiantang/pytorch-deep-image-matting](https://github.com/huochaitiantang/pytorch-deep-image-matting)
 
 **Fast Deep Matting for Portrait Animation on Mobile Phone**
 
@@ -2503,6 +2518,11 @@ ranked 1st place in ImageNet Scene Parsing Challenge 2016
 - keywords: Glance and Focus Matting network (GFM), AM-2k dataset, BG-20k dataset
 - arxiv: [https://arxiv.org/abs/2010.16188](https://arxiv.org/abs/2010.16188)
 - github: [https://github.com/JizhiziLi/animal-matting/](https://github.com/JizhiziLi/animal-matting/)
+
+**Is a Green Screen Really Necessary for Real-Time Human Matting?**
+
+- intro: City University of Hong Kong & SenseTime Research
+- arxiv: [https://arxiv.org/abs/2011.11961](https://arxiv.org/abs/2011.11961)
 
 # 3D Segmentation
 

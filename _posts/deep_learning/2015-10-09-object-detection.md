@@ -982,6 +982,7 @@ Continuation of [arXiv:1608.08021](https://arxiv.org/abs/1608.08021)
 - arxiv: [https://arxiv.org/abs/1911.08287](https://arxiv.org/abs/1911.08287)
 - github: [https://github.com/Zzh-tju/DIoU](https://github.com/Zzh-tju/DIoU)
 - github: [https://github.com/Zzh-tju/CIoU](https://github.com/Zzh-tju/CIoU)
+- github: [https://github.com/Zzh-tju/DIoU-darknet](https://github.com/Zzh-tju/DIoU-darknet)
 
 **Curriculum Self-Paced Learning for Cross-Domain Object Detection**
 
@@ -1153,6 +1154,26 @@ Continuation of [arXiv:1608.08021](https://arxiv.org/abs/1608.08021)
 
 - intro: WACV 2021
 - arxiv: [https://arxiv.org/abs/2011.02298](https://arxiv.org/abs/2011.02298)
+
+**Bi-Dimensional Feature Alignment for Cross-Domain Object Detection**
+
+- intro: ECCV 2020 TASK-CV Workshop
+- arxiv: [https://arxiv.org/abs/2011.07205](https://arxiv.org/abs/2011.07205)
+
+**UP-DETR: Unsupervised Pre-training for Object Detection with Transformers**
+
+- intro: South China University of Technology & Tencent Wechat AI
+- arxiv: [https://arxiv.org/abs/2011.09094](https://arxiv.org/abs/2011.09094)
+
+**Rethinking Transformer-based Set Prediction for Object Detection**
+
+- intro: Carnegie Mellon University
+- arxiv: [https://arxiv.org/abs/2011.10881](https://arxiv.org/abs/2011.10881)
+
+**Unsupervised Object Detection with LiDAR Clues**
+
+- intro: SenseTime & USTC & CASIA & CAS
+- arxiv: [https://arxiv.org/abs/2011.12953](https://arxiv.org/abs/2011.12953)
 
 # Two-Stage Object Detection
 
@@ -1342,6 +1363,12 @@ Continuation of [arXiv:1608.08021](https://arxiv.org/abs/1608.08021)
 - intro: ECCV 2020
 - intro: Nanjing University & Megvii Technology
 - arxiv: [https://arxiv.org/abs/2008.01338](https://arxiv.org/abs/2008.01338)
+
+**Sparse R-CNN: End-to-End Object Detection with Learnable Proposals**
+
+- intro: The University of Hong Kong & Tongji University & ByteDance AI Lab 4University of California
+- arxiv: [https://arxiv.org/abs/2011.12450](https://arxiv.org/abs/2011.12450)
+- github: [https://github.com/PeizeSun/SparseR-CNN](https://github.com/PeizeSun/SparseR-CNN)
 
 # Single-Shot Object Detection
 
@@ -1673,6 +1700,18 @@ Continuation of [arXiv:1608.08021](https://arxiv.org/abs/1608.08021)
 **Learning from Noisy Anchors for One-stage Object Detection**
 
 [https://arxiv.org/abs/1912.05086](https://arxiv.org/abs/1912.05086)
+
+**Generalized Focal Loss: Learning Qualified and Distributed Bounding Boxes for Dense Object Detection**
+
+- intro: Nanjing University of Science and Technology & Momenta & Nanjing University & Microsoft Research & Tsinghua University
+- arxiv: [https://arxiv.org/abs/2006.04388](https://arxiv.org/abs/2006.04388)
+- github: [https://github.com/implus/GFocal](https://github.com/implus/GFocal)
+
+**Generalized Focal Loss V2: Learning Reliable Localization Quality Estimation for Dense Object Detection**
+
+- intro: Nanjing University of Science and Technology & Momenta & Nanjing University & Tsinghua University
+- arxiv: [https://arxiv.org/abs/2011.12885](https://arxiv.org/abs/2011.12885)
+- github: [https://github.com/implus/GFocalV2](https://github.com/implus/GFocalV2)
 
 **Single-Shot Two-Pronged Detector with Rectified IoU Loss**
 

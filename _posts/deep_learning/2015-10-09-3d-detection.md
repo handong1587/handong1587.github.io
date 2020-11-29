@@ -147,6 +147,13 @@ date: 2015-10-09
 - arxiv: [https://arxiv.org/abs/1912.04799](https://arxiv.org/abs/1912.04799)
 - github: [https://github.com/dingmyu/D4LCN](https://github.com/dingmyu/D4LCN)
 
+**TANet: Robust 3D Object Detection from Point Clouds with Triple Attention**
+
+- intro: AAAI 2020 oral
+- intro: Huazhong University of Science and Technology & Chinese Academy of Sciences
+- arxiv: [https://arxiv.org/abs/1912.05163](https://arxiv.org/abs/1912.05163)
+- github: [https://github.com/happinesslz/TANet](https://github.com/happinesslz/TANet)
+
 **PV-RCNN: Point-Voxel Feature Set Abstraction for 3D Object Detection**
 
 - intro: CVPR 2020
@@ -195,6 +202,13 @@ date: 2015-10-09
 - intro: CVPR 2020
 - intro: DEEPROUTE.AI
 - paper: [http://openaccess.thecvf.com/content_CVPR_2020/papers/Ye_HVNet_Hybrid_Voxel_Network_for_LiDAR_Based_3D_Object_Detection_CVPR_2020_paper.pdf](http://openaccess.thecvf.com/content_CVPR_2020/papers/Ye_HVNet_Hybrid_Voxel_Network_for_LiDAR_Based_3D_Object_Detection_CVPR_2020_paper.pdf)
+
+**SSN: Shape Signature Networks for Multi-class Object Detection from Point Clouds**
+
+- intro: ECCV 2020
+- intro: CUHK & SenseTime Research & Hong Kong Baptist University
+- arxiv: [https://arxiv.org/abs/2004.02774](https://arxiv.org/abs/2004.02774)
+- github(mmdetection3d): [https://github.com/xinge008/SSN](https://github.com/xinge008/SSN)
 
 **Range Conditioned Dilated Convolutions for Scale Invariant 3D Object Detection**
 
@@ -255,6 +269,13 @@ date: 2015-10-09
 - intro: Huazhong University of Science and Technology
 - arxiv: [https://arxiv.org/abs/2007.08856](https://arxiv.org/abs/2007.08856)
 - github: [https://github.com/happinesslz/EPNet](https://github.com/happinesslz/EPNet)
+
+**Pillar-based Object Detection for Autonomous Driving**
+
+- intro: ECCV 2020
+- intro: MIT & Google
+- arxiv: [https://arxiv.org/abs/2007.10323](https://arxiv.org/abs/2007.10323)
+- github(TensorFlow): [https://github.com/WangYueFt/pillar-od](https://github.com/WangYueFt/pillar-od)
 
 **Weakly Supervised 3D Object Detection from Lidar Point Cloud**
 
@@ -357,6 +378,25 @@ date: 2015-10-09
 - intro: Ulm University
 - keywords: SortNet
 - arxiv: [https://arxiv.org/abs/2011.00931](https://arxiv.org/abs/2011.00931)
+
+**StrObe: Streaming Object Detection from LiDAR Packets**
+
+- intro: CoRL 2020
+- intro: Uber Advanced Technologies Group & University of Toronto
+- arxiv: [https://arxiv.org/abs/2011.06425](https://arxiv.org/abs/2011.06425)
+
+**MuSCLE: Multi Sweep Compression of LiDAR using Deep Entropy Models**
+
+- intro: NeurIPS 2020
+- intro: Uber Advanced Technologies Group & University of Waterloo & University of Toronto
+- arxiv: [https://arxiv.org/abs/2011.07590](https://arxiv.org/abs/2011.07590)
+
+**LiDAR-based Panoptic Segmentation via Dynamic Shifting Network**
+
+- intro: Nanyang Technological University & Chinese University of Hong Kong
+- intro: Rank 1st place in the leaderboard of SemanticKITTI Panoptic Segmentation (accessed at 2020-11-16)
+- arxiv: [https://arxiv.org/abs/2011.11964](https://arxiv.org/abs/2011.11964)
+- github: [https://github.com/hongfz16/DS-Net](https://github.com/hongfz16/DS-Net)
 
 # Anchor-free 3D Detection
 

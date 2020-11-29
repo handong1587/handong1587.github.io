@@ -204,6 +204,11 @@ date: 2015-10-09
 - intro: Nanjing University
 - arxiv: [https://arxiv.org/abs/2011.01424](https://arxiv.org/abs/2011.01424)
 
+**Online Ensemble Model Compression using Knowledge Distillation**
+
+- intro: CMU
+- arxiv: [https://arxiv.org/abs/2011.07449](https://arxiv.org/abs/2011.07449)
+
 # resources
 
 **Awesome Knowledge-Distillation**
