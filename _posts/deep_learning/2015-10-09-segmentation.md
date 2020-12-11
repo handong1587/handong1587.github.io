@@ -1132,6 +1132,11 @@ with built-in awareness of semantically meaningful boundaries. "
 
 [https://arxiv.org/abs/2011.12025](https://arxiv.org/abs/2011.12025)
 
+**Channel-wise Distillation for Semantic Segmentation**
+
+- arxiv: [https://arxiv.org/abs/2011.13256](https://arxiv.org/abs/2011.13256)
+- github: [https://github.com/drilistbox](https://github.com/drilistbox)
+
 # Instance Segmentation
 
 **Simultaneous Detection and Segmentation**
@@ -1546,6 +1551,14 @@ with built-in awareness of semantically meaningful boundaries. "
 - intro: Zhejiang University & Alibaba Group
 - arxiv: [https://arxiv.org/abs/2011.09876](https://arxiv.org/abs/2011.09876)
 
+**The Devil is in the Boundary: Exploiting Boundary Representation for Basis-based Instance Segmentation**
+
+[https://arxiv.org/abs/2011.13241](https://arxiv.org/abs/2011.13241)
+
+**Robust Instance Segmentation through Reasoning about Multi-Object Occlusion**
+
+[https://arxiv.org/abs/2012.02107](https://arxiv.org/abs/2012.02107)
+
 ## Human Instance Segmentation
 
 **PersonLab: Person Pose Estimation and Instance Segmentation with a Bottom-Up, Part-Based, Geometric Embedding Model**
@@ -1587,6 +1600,11 @@ with built-in awareness of semantically meaningful boundaries. "
 - intro: ECCV 2020
 - arxiv: [https://arxiv.org/abs/2007.14772](https://arxiv.org/abs/2007.14772)
 - github: [https://github.com/JialeCao001/SipMask](https://github.com/JialeCao001/SipMask)
+
+**End-to-End Video Instance Segmentation with Transformers**
+
+- intro: Meituan & The University of Adelaide
+- arxiv: [https://arxiv.org/abs/2011.14503](https://arxiv.org/abs/2011.14503)
 
 # Panoptic Segmentation
 
@@ -1728,6 +1746,29 @@ with built-in awareness of semantically meaningful boundaries. "
 
 - intro: Google Research & Johns Hopkins University
 - arxiv: [https://arxiv.org/abs/2011.11675](https://arxiv.org/abs/2011.11675)
+
+**Fully Convolutional Networks for Panoptic Segmentation**
+
+- intro: Chinese University of Hong Kong & University of Oxford & University of Hong Kong & MEGVII Technology4
+- arxiv: [https://arxiv.org/abs/2012.00720](https://arxiv.org/abs/2012.00720)
+- github: [https://github.com/yanwei-li/PanopticFCN](https://github.com/yanwei-li/PanopticFCN)
+
+**MaX-DeepLab: End-to-End Panoptic Segmentation with Mask Transformers**
+
+- intro: Johns Hopkins University & Google Research
+- arxiv: [https://arxiv.org/abs/2012.00759](https://arxiv.org/abs/2012.00759)
+
+**Ada-Segment: Automated Multi-loss Adaptation for Panoptic Segmentation**
+
+- intro: AAAI 2021
+- intro: Sun Yat-Sen University & Huawei Noah’s Ark Lab & Shanghai Jiao Tong University
+- arxiv: [https://arxiv.org/abs/2012.03603](https://arxiv.org/abs/2012.03603)
+
+**ViP-DeepLab: Learning Visual Perception with Depth-aware Video Panoptic Segmentation**
+
+- intro: Johns Hopkins University & Google Research
+- arxiv: [https://arxiv.org/abs/2012.05258](https://arxiv.org/abs/2012.05258)
+- github: [https://github.com/joe-siyuan-qiao/ViP-DeepLab](https://github.com/joe-siyuan-qiao/ViP-DeepLab)
 
 # Face Parsing
 
@@ -2481,6 +2522,11 @@ ranked 1st place in ImageNet Scene Parsing Challenge 2016
 - intro: UIUC & Adobe Research & University of Oregon
 - arxiv: [https://arxiv.org/abs/2009.06613](https://arxiv.org/abs/2009.06613)
 
+**Learning Affinity-Aware Upsampling for Deep Image Matting**
+
+- intro: The University of Adelaide & Huazhong University of Science and Technology
+- arxiv: [https://arxiv.org/abs/2011.14288](https://arxiv.org/abs/2011.14288)
+
 ## trimap-free matting
 
 **Semantic Human Matting**
@@ -2523,6 +2569,7 @@ ranked 1st place in ImageNet Scene Parsing Challenge 2016
 
 - intro: City University of Hong Kong & SenseTime Research
 - arxiv: [https://arxiv.org/abs/2011.11961](https://arxiv.org/abs/2011.11961)
+- github: [https://github.com/ZHKKKe/MODNet](https://github.com/ZHKKKe/MODNet)
 
 # 3D Segmentation
 

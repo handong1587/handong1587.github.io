@@ -2228,6 +2228,14 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 
 [https://arxiv.org/abs/1703.07431](https://arxiv.org/abs/1703.07431)
 
+# Trajectory Prediction
+
+**Trajformer: Trajectory Prediction with Local Self-Attentive Contexts for Autonomous Driving**
+
+- intro: Machine Learning for Autonomous Driving @ NeurIPS 2020
+- intro: Carnegie Mellon University & Bosch Research Pittsburgh
+- arxiv: [https://arxiv.org/abs/2011.14910](https://arxiv.org/abs/2011.14910)
+
 # Human-Object Interaction
 
 **Learning Human-Object Interactions by Graph Parsing Neural Networks**

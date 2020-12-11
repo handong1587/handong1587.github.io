@@ -398,6 +398,17 @@ date: 2015-10-09
 - arxiv: [https://arxiv.org/abs/2011.11964](https://arxiv.org/abs/2011.11964)
 - github: [https://github.com/hongfz16/DS-Net](https://github.com/hongfz16/DS-Net)
 
+**Temporal-Channel Transformer for 3D Lidar-Based Video Object Detection in Autonomous Driving**
+
+[https://arxiv.org/abs/2011.13628](https://arxiv.org/abs/2011.13628)
+
+**CIA-SSD: Confident IoU-Aware Single-Stage Object Detector From Point Cloud**
+
+- intro: AAAI 2021
+- intro: The Chinese University of Hong Kong
+- arxiv: [https://arxiv.org/abs/2012.03015](https://arxiv.org/abs/2012.03015)
+- github: [https://github.com/Vegeta2020/CIA-SSD](https://github.com/Vegeta2020/CIA-SSD)
+
 # Anchor-free 3D Detection
 
 **Object as Hotspots: An Anchor-Free 3D Object Detection Approach via Firing of Hotspots**
@@ -474,6 +485,11 @@ date: 2015-10-09
 - arxiv: [https://arxiv.org/abs/2008.04582](https://arxiv.org/abs/2008.04582)
 - github: [https://github.com/xinzhuma/patchnet](https://github.com/xinzhuma/patchnet)
 
+**Demystifying Pseudo-LiDAR for Monocular 3D Object Detection**
+
+- intro: University of Trento & Fondazione Bruno Kessler & Facebook
+- arxiv: [https://arxiv.org/abs/2012.05796](https://arxiv.org/abs/2012.05796)
+
 # 3D Detection and Tracking
 
 **Joint Monocular 3D Vehicle Detection and Tracking**
@@ -499,6 +515,13 @@ date: 2015-10-09
 
 - intro: University of Michigan
 - arxiv: [https://arxiv.org/abs/2011.02553](https://arxiv.org/abs/2011.02553)
+
+# 3D MOT
+
+**AutoSelect: Automatic and Dynamic Detection Selection for 3D Multi-Object Tracking**
+
+- intro: Carnegie Mellon University
+- arxiv: [https://arxiv.org/abs/2012.05894](https://arxiv.org/abs/2012.05894)
 
 # Projects
 

@@ -277,6 +277,11 @@ L**earning a Deep ConvNet for Multi-label Classification with Partial Labels**
 - arxiv: [https://arxiv.org/abs/1904.03582](https://arxiv.org/abs/1904.03582)
 - github: [https://github.com/chenzhaomin123/ML_GCN](https://github.com/chenzhaomin123/ML_GCN)
 
+**General Multi-label Image Classification with Transformers**
+
+- intro: University of Virginia
+- arxiv: [https://arxiv.org/abs/2011.14027](https://arxiv.org/abs/2011.14027)
+
 # Person Recognition
 
 **Beyond Frontal Faces: Improving Person Recognition Using Multiple Cues**

@@ -308,6 +308,11 @@ Continuation of [arXiv:1608.08021](https://arxiv.org/abs/1608.08021)
 - intro: Facebook AI Research
 - arxiv: [https://arxiv.org/abs/1612.03144](https://arxiv.org/abs/1612.03144)
 
+**Dynamic Feature Pyramid Networks for Object Detection**
+
+- intro: Zhejiang University & Noah’s Ark Lab & Westlake University
+- arxiv: [https://arxiv.org/abs/2012.00779](https://arxiv.org/abs/2012.00779)
+
 **Action-Driven Object Detection with Top-Down Visual Attentions**
 
 - arxiv: [https://arxiv.org/abs/1612.06704](https://arxiv.org/abs/1612.06704)
@@ -1175,6 +1180,23 @@ Continuation of [arXiv:1608.08021](https://arxiv.org/abs/1608.08021)
 - intro: SenseTime & USTC & CASIA & CAS
 - arxiv: [https://arxiv.org/abs/2011.12953](https://arxiv.org/abs/2011.12953)
 
+**Self-EMD: Self-Supervised Object Detection without ImageNet**
+
+- intro: MEGVII Technology
+- arxiv: [https://arxiv.org/abs/2011.13677](https://arxiv.org/abs/2011.13677)
+
+**End-to-End Object Detection with Fully Convolutional Network**
+
+- intro: Megvii Technology & Xi’an Jiaotong University
+- arxiv: [https://arxiv.org/abs/2012.03544](https://arxiv.org/abs/2012.03544)
+- github: [https://github.com/Megvii-BaseDetection/DeFCN](https://github.com/Megvii-BaseDetection/DeFCN)
+
+**Fine-Grained Dynamic Head for Object Detection**
+
+- intro: NeurIPS 2020
+- arxiv: [https://arxiv.org/abs/2012.03519](https://arxiv.org/abs/2012.03519)
+- github: [https://github.com/StevenGrove/DynamicHead](https://github.com/StevenGrove/DynamicHead)
+
 # Two-Stage Object Detection
 
 ## R-CNN
@@ -1723,6 +1745,12 @@ Continuation of [arXiv:1608.08021](https://arxiv.org/abs/1608.08021)
 - intro: IEEE TPAMI
 - arxiv: [https://arxiv.org/abs/2008.07294](https://arxiv.org/abs/2008.07294)
 - github: [https://github.com/cccorn/AP-loss](https://github.com/cccorn/AP-loss)
+
+**OneNet: Towards End-to-End One-Stage Object Detection**
+
+- intro: The University of Hong Kong & ByteDance AI Lab
+- arxiv: [https://arxiv.org/abs/2012.05780](https://arxiv.org/abs/2012.05780)
+- github: [https://github.com/PeizeSun/OneNet](https://github.com/PeizeSun/OneNet)
 
 # Anchor-free
 
@@ -2535,6 +2563,12 @@ Continuation of [arXiv:1608.08021](https://arxiv.org/abs/1608.08021)
 
 - intro: Youtu Lab, Tencent & Southeast University & Xiamen University
 - arxiv: [https://arxiv.org/abs/2003.11228](https://arxiv.org/abs/2003.11228)
+
+**TinaFace: Strong but Simple Baseline for Face Detection**
+
+- intro: Media Intelligence Technology Co.,Ltd
+- arxiv: [https://arxiv.org/abs/2011.13183](https://arxiv.org/abs/2011.13183)
+- github(PyTorch): [https://github.com/Media-Smart/vedadet](https://github.com/Media-Smart/vedadet)
 
 ## Detect Small Faces
 
