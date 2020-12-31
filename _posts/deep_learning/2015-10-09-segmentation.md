@@ -1137,6 +1137,27 @@ with built-in awareness of semantically meaningful boundaries. "
 - arxiv: [https://arxiv.org/abs/2011.13256](https://arxiv.org/abs/2011.13256)
 - github: [https://github.com/drilistbox](https://github.com/drilistbox)
 
+**BoxInst: High-Performance Instance Segmentation with Box Annotations**
+
+- intro: University of Adelaide
+- arxiv: [https://arxiv.org/abs/2012.02310](https://arxiv.org/abs/2012.02310)
+- github: [https://github.com/aim-uofa/AdelaiDet/](https://github.com/aim-uofa/AdelaiDet/)
+
+**Scaling Semantic Segmentation Beyond 1K Classes on a Single GPU**
+
+- arxiv: [https://arxiv.org/abs/2012.07489](https://arxiv.org/abs/2012.07489)
+- github: [https://github.com/shipra25jain/ESSNet](https://github.com/shipra25jain/ESSNet)
+
+**Cross-Domain Grouping and Alignment for Domain Adaptive Semantic Segmentation**
+
+- intro: AAAI 2021
+- arxiv: [https://arxiv.org/abs/2012.08226](https://arxiv.org/abs/2012.08226)
+
+**HyperSeg: Patch-wise Hypernetwork for Real-time Semantic Segmentation**
+
+- intro: Facebook AI & Tel Aviv University
+- arxiv: [https://arxiv.org/abs/2012.11582](https://arxiv.org/abs/2012.11582)
+
 # Instance Segmentation
 
 **Simultaneous Detection and Segmentation**
@@ -1541,6 +1562,10 @@ with built-in awareness of semantically meaningful boundaries. "
 - arxiv: [https://arxiv.org/abs/2008.05676](https://arxiv.org/abs/2008.05676)
 - github: [https://github.com/JialianW/Forest_RCNN](https://github.com/JialianW/Forest_RCNN)
 
+**Seesaw Loss for Long-Tailed Instance Segmentation**
+
+[https://arxiv.org/abs/2008.10032](https://arxiv.org/abs/2008.10032)
+
 **Joint COCO and Mapillary Workshop at ICCV 2019: COCO Instance Segmentation Challenge Track**
 
 - intro: 1st Place Technical Report in ICCV2019/ ECCV2020: MegDetV2
@@ -1558,6 +1583,11 @@ with built-in awareness of semantically meaningful boundaries. "
 **Robust Instance Segmentation through Reasoning about Multi-Object Occlusion**
 
 [https://arxiv.org/abs/2012.02107](https://arxiv.org/abs/2012.02107)
+
+**Simple Copy-Paste is a Strong Data Augmentation Method for Instance Segmentation**
+
+- intro: Google Research & UC Berkeley & Cornell University
+- arxiv: [https://arxiv.org/abs/2012.07177](https://arxiv.org/abs/2012.07177)
 
 ## Human Instance Segmentation
 
@@ -2129,6 +2159,12 @@ ranked 1st place in ImageNet Scene Parsing Challenge 2016
 - arxiv: [https://arxiv.org/abs/2009.09447](https://arxiv.org/abs/2009.09447)
 - github: [https://github.com/soeaver/RP-R-CNN](https://github.com/soeaver/RP-R-CNN)
 
+**Progressive One-shot Human Parsing**
+
+- intro: AAAI 2021
+- arxiv: [https://arxiv.org/abs/2012.11810](https://arxiv.org/abs/2012.11810)
+- github: [https://github.com/Charleshhy/One-shot-Human-Parsing](https://github.com/Charleshhy/One-shot-Human-Parsing)
+
 # Joint Detection and Segmentation
 
 **Triply Supervised Decoder Networks for Joint Detection and Segmentation**
@@ -2511,6 +2547,15 @@ ranked 1st place in ImageNet Scene Parsing Challenge 2016
 - intro: ECCV 2020
 - arxiv: [https://arxiv.org/abs/2003.07711](https://arxiv.org/abs/2003.07711)
 
+**Background Matting: The World is Your Green Screen**
+
+- intro: CVPR 2020
+- intro: University of Washington
+- project page: [https://grail.cs.washington.edu/projects/background-matting/](https://grail.cs.washington.edu/projects/background-matting/)
+- arxiv: [https://arxiv.org/abs/2004.00626](https://arxiv.org/abs/2004.00626)
+- github: [https://github.com/senguptaumd/Background-Matting](https://github.com/senguptaumd/Background-Matting)
+- blog: [https://towardsdatascience.com/background-matting-the-world-is-your-green-screen-83a3c4f0f635](https://towardsdatascience.com/background-matting-the-world-is-your-green-screen-83a3c4f0f635)
+
 **Hierarchical Opacity Propagation for Image Matting**
 
 - intro: Shanghai Jiao Tong University
@@ -2526,6 +2571,12 @@ ranked 1st place in ImageNet Scene Parsing Challenge 2016
 
 - intro: The University of Adelaide & Huazhong University of Science and Technology
 - arxiv: [https://arxiv.org/abs/2011.14288](https://arxiv.org/abs/2011.14288)
+
+**Real-Time High-Resolution Background Matting**
+
+- project page: [https://grail.cs.washington.edu/projects/background-matting-v2/](https://grail.cs.washington.edu/projects/background-matting-v2/)
+- arxiv: [https://arxiv.org/abs/2012.07810](https://arxiv.org/abs/2012.07810)
+- github: [https://github.com/PeterL1n/BackgroundMattingV2](https://github.com/PeterL1n/BackgroundMattingV2)
 
 ## trimap-free matting
 

@@ -65,6 +65,10 @@ date: 2015-10-09
 - arxiv: [https://arxiv.org/abs/1903.12206](https://arxiv.org/abs/1903.12206)
 - github: [https://github.com/shizenglin/Counting-with-Focus-for-Free](https://github.com/shizenglin/Counting-with-Focus-for-Free)
 
+**Dilated-Scale-Aware Attention ConvNet For Multi-Class Object Counting**
+
+[https://arxiv.org/abs/2012.08149](https://arxiv.org/abs/2012.08149)
+
 ## Crowd Counting / Crowd Analysis
 
 **Large scale crowd analysis based on convolutional neural network**

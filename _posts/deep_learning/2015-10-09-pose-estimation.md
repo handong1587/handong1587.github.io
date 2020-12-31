@@ -407,6 +407,15 @@ date: 2015-10-09
 - arxiv: [https://arxiv.org/abs/2007.02846](https://arxiv.org/abs/2007.02846)
 - github: [https://github.com/FangyunWei/PointSetAnchor](https://github.com/FangyunWei/PointSetAnchor)
 
+**EfficientPose: Efficient Human Pose Estimation with Neural Architecture Search**
+
+[https://arxiv.org/abs/2012.07086](https://arxiv.org/abs/2012.07086)
+
+**TransPose: Towards Explainable Human Pose Estimation by Transformer**
+
+- intro: Southeast University
+- arxiv: [https://arxiv.org/abs/2012.14214](https://arxiv.org/abs/2012.14214)
+
 # 3D Pose
 
 **Can 3D Pose be Learned from 2D Projections Alone?**

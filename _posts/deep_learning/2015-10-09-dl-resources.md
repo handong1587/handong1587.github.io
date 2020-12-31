@@ -463,6 +463,7 @@ not just the convolutions)
 **Rethinking Bottleneck Structure for Efficient Mobile Network Design**
 
 - intro: ECCV 2020
+- intro: National University of Singapore & Yitu Technology
 - arxiv: [https://arxiv.org/abs/2007.02269](https://arxiv.org/abs/2007.02269)
 - github: [https://github.com/zhoudaquan/rethinking_bottleneck_design](https://github.com/zhoudaquan/rethinking_bottleneck_design)
 

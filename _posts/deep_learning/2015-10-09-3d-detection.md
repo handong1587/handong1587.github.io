@@ -373,12 +373,6 @@ date: 2015-10-09
 - project page: [https://ram-lab.com/file/site/mlod/](https://ram-lab.com/file/site/mlod/)
 - arxiv: [https://arxiv.org/abs/2010.11702](https://arxiv.org/abs/2010.11702)
 
-**Point Transformer**
-
-- intro: Ulm University
-- keywords: SortNet
-- arxiv: [https://arxiv.org/abs/2011.00931](https://arxiv.org/abs/2011.00931)
-
 **StrObe: Streaming Object Detection from LiDAR Packets**
 
 - intro: CoRL 2020
@@ -398,16 +392,21 @@ date: 2015-10-09
 - arxiv: [https://arxiv.org/abs/2011.11964](https://arxiv.org/abs/2011.11964)
 - github: [https://github.com/hongfz16/DS-Net](https://github.com/hongfz16/DS-Net)
 
-**Temporal-Channel Transformer for 3D Lidar-Based Video Object Detection in Autonomous Driving**
-
-[https://arxiv.org/abs/2011.13628](https://arxiv.org/abs/2011.13628)
-
 **CIA-SSD: Confident IoU-Aware Single-Stage Object Detector From Point Cloud**
 
 - intro: AAAI 2021
 - intro: The Chinese University of Hong Kong
 - arxiv: [https://arxiv.org/abs/2012.03015](https://arxiv.org/abs/2012.03015)
 - github: [https://github.com/Vegeta2020/CIA-SSD](https://github.com/Vegeta2020/CIA-SSD)
+
+**PC-RGNN: Point Cloud Completion and Graph Neural Network for 3D Object Detection**
+
+- intro: Beihang University
+- arxiv: [https://arxiv.org/abs/2012.10412](https://arxiv.org/abs/2012.10412)
+
+**Achieving Real-Time LiDAR 3D Object Detection on a Mobile Device**
+
+[https://arxiv.org/abs/2012.13801](https://arxiv.org/abs/2012.13801)
 
 # Anchor-free 3D Detection
 
@@ -522,6 +521,33 @@ date: 2015-10-09
 
 - intro: Carnegie Mellon University
 - arxiv: [https://arxiv.org/abs/2012.05894](https://arxiv.org/abs/2012.05894)
+
+**obabilistic 3D Multi-Modal, Multi-Object Tracking for Autonomous Driving**
+
+- intro: Stanford University & Toyota Research Institute
+- arxiv: [https://arxiv.org/abs/2012.13755](https://arxiv.org/abs/2012.13755)
+
+# Transformer
+
+**Point Transformer**
+
+- intro: Ulm University
+- keywords: SortNet
+- arxiv: [https://arxiv.org/abs/2011.00931](https://arxiv.org/abs/2011.00931)
+
+**Temporal-Channel Transformer for 3D Lidar-Based Video Object Detection in Autonomous Driving**
+
+[https://arxiv.org/abs/2011.13628](https://arxiv.org/abs/2011.13628)
+
+**Point Transformer**
+
+- intro: University of Oxford & The Chinese University of Hong Kong & Intel Labs
+- arxiv: [https://arxiv.org/abs/2012.09164](https://arxiv.org/abs/2012.09164)
+
+**3D Object Detection with Pointformer**
+
+- intro: Tsinghua University & BNRist & Alexa AI, Amazon / Columbia University
+- arxiv: [https://arxiv.org/abs/2012.11409](https://arxiv.org/abs/2012.11409)
 
 # Projects
 

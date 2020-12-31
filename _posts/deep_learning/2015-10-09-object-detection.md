@@ -313,6 +313,11 @@ Continuation of [arXiv:1608.08021](https://arxiv.org/abs/1608.08021)
 - intro: Zhejiang University & Noah’s Ark Lab & Westlake University
 - arxiv: [https://arxiv.org/abs/2012.00779](https://arxiv.org/abs/2012.00779)
 
+**Implicit Feature Pyramid Network for Object Detection**
+
+- intro: MEGVII Technology
+- arxiv: [https://arxiv.org/abs/2012.13563](https://arxiv.org/abs/2012.13563)
+
 **Action-Driven Object Detection with Top-Down Visual Attentions**
 
 - arxiv: [https://arxiv.org/abs/1612.06704](https://arxiv.org/abs/1612.06704)
@@ -1060,18 +1065,6 @@ Continuation of [arXiv:1608.08021](https://arxiv.org/abs/1608.08021)
 - intro: Johns Hopkins University
 - arxiv: [https://arxiv.org/abs/2005.11643](https://arxiv.org/abs/2005.11643)
 
-**End-to-End Object Detection with Transformers**
-
-- intro: Facebook AI
-- keywords: DEtection TRansformer (DETR)
-- arxiv: [https://arxiv.org/abs/2005.12872](https://arxiv.org/abs/2005.12872)
-- github: [https://github.com/facebookresearch/detr](https://github.com/facebookresearch/detr)
-
-**Deformable DETR: Deformable Transformers for End-to-End Object Detection**
-
-- intro: SenseTime Research & USTC & CUHK
-- arxiv: [https://arxiv.org/abs/2010.04159](https://arxiv.org/abs/2010.04159)
-
 **DetectoRS: Detecting Objects with Recursive Feature Pyramid and Switchable Atrous Convolution**
 
 - intro: Johns Hopkins University & Google Research
@@ -1149,12 +1142,6 @@ Continuation of [arXiv:1608.08021](https://arxiv.org/abs/1608.08021)
 - arxiv: [https://arxiv.org/abs/2009.13592](https://arxiv.org/abs/2009.13592)
 - github(official, Pytorch): [https://github.com/kemaloksuz/aLRPLoss](https://github.com/kemaloksuz/aLRPLoss)
 
-**RelationNet++: Bridging Visual Representations for Object Detection via Transformer Decoder**
-
-- intro: NeurIPS2020 Spotlight
-- arxiv: [https://arxiv.org/abs/2010.15831](https://arxiv.org/abs/2010.15831)
-- github:[https://github.com/microsoft/RelationNet2](https://github.com/microsoft/RelationNet2)
-
 **Effective Fusion Factor in FPN for Tiny Object Detection**
 
 - intro: WACV 2021
@@ -1164,11 +1151,6 @@ Continuation of [arXiv:1608.08021](https://arxiv.org/abs/1608.08021)
 
 - intro: ECCV 2020 TASK-CV Workshop
 - arxiv: [https://arxiv.org/abs/2011.07205](https://arxiv.org/abs/2011.07205)
-
-**UP-DETR: Unsupervised Pre-training for Object Detection with Transformers**
-
-- intro: South China University of Technology & Tencent Wechat AI
-- arxiv: [https://arxiv.org/abs/2011.09094](https://arxiv.org/abs/2011.09094)
 
 **Rethinking Transformer-based Set Prediction for Object Detection**
 
@@ -1188,6 +1170,7 @@ Continuation of [arXiv:1608.08021](https://arxiv.org/abs/1608.08021)
 **End-to-End Object Detection with Fully Convolutional Network**
 
 - intro: Megvii Technology & Xi’an Jiaotong University
+- keywords: Prediction-aware One- To-One (POTO) label assignment, 3D Max Filtering (3DMF)
 - arxiv: [https://arxiv.org/abs/2012.03544](https://arxiv.org/abs/2012.03544)
 - github: [https://github.com/Megvii-BaseDetection/DeFCN](https://github.com/Megvii-BaseDetection/DeFCN)
 
@@ -1196,6 +1179,11 @@ Continuation of [arXiv:1608.08021](https://arxiv.org/abs/1608.08021)
 - intro: NeurIPS 2020
 - arxiv: [https://arxiv.org/abs/2012.03519](https://arxiv.org/abs/2012.03519)
 - github: [https://github.com/StevenGrove/DynamicHead](https://github.com/StevenGrove/DynamicHead)
+
+**Equalization Loss v2: A New Gradient Balance Approach for Long-tailed Object Detection**
+
+- intro: Tongji University & SenseTime Research & Tsinghua University
+- arxiv: [https://arxiv.org/abs/2012.08548](https://arxiv.org/abs/2012.08548)
 
 # Two-Stage Object Detection
 
@@ -1833,6 +1821,48 @@ Continuation of [arXiv:1608.08021](https://arxiv.org/abs/1608.08021)
 - intro: BMVC 2020
 - arxiv: [https://arxiv.org/abs/2008.01167](https://arxiv.org/abs/2008.01167)
 - github: [https://github.com/nerminsamet/ppdet](https://github.com/nerminsamet/ppdet)
+
+**Balance-Oriented Focal Loss with Linear Scheduling for Anchor Free Object Detection**
+
+[https://arxiv.org/abs/2012.13763](https://arxiv.org/abs/2012.13763)
+
+# Transformers
+
+**End-to-End Object Detection with Transformers**
+
+- intro: Facebook AI
+- keywords: DEtection TRansformer (DETR)
+- arxiv: [https://arxiv.org/abs/2005.12872](https://arxiv.org/abs/2005.12872)
+- github: [https://github.com/facebookresearch/detr](https://github.com/facebookresearch/detr)
+
+**Deformable DETR: Deformable Transformers for End-to-End Object Detection**
+
+- intro: SenseTime Research & USTC & CUHK
+- arxiv: [https://arxiv.org/abs/2010.04159](https://arxiv.org/abs/2010.04159)
+- github: [https://github.com/fundamentalvision/Deformable-DETR](https://github.com/fundamentalvision/Deformable-DETR)
+
+**RelationNet++: Bridging Visual Representations for Object Detection via Transformer Decoder**
+
+- intro: NeurIPS2020 Spotlight
+- intro: CAS & MSRA
+- arxiv: [https://arxiv.org/abs/2010.15831](https://arxiv.org/abs/2010.15831)
+- github:[https://github.com/microsoft/RelationNet2](https://github.com/microsoft/RelationNet2)
+
+**UP-DETR: Unsupervised Pre-training for Object Detection with Transformers**
+
+- intro: South China University of Technology & Tencent Wechat AI
+- arxiv: [https://arxiv.org/abs/2011.09094](https://arxiv.org/abs/2011.09094)
+
+**End-to-End Object Detection with Adaptive Clustering Transformer**
+
+- intro: Peking University & The Chinese University of Hong Kong
+- arxiv: [https://arxiv.org/abs/2011.09315](https://arxiv.org/abs/2011.09315)
+
+**Toward Transformer-Based Object Detection**
+
+- intro: Pinterest
+- keywords: ViT-FRCNN
+- arxiv: [https://arxiv.org/abs/2012.09958](https://arxiv.org/abs/2012.09958)
 
 # Non-Maximum Suppression (NMS)
 
@@ -2848,6 +2878,10 @@ Continuation of [arXiv:1608.08021](https://arxiv.org/abs/1608.08021)
 - intro: BMVC 2020
 - arxiv: [https://arxiv.org/abs/2008.08418](https://arxiv.org/abs/2008.08418)
 - github: [https://github.com/HensoldtOptronicsCV/MultispectralPedestrianDetection](https://github.com/HensoldtOptronicsCV/MultispectralPedestrianDetection)
+
+**DETR for Pedestrian Detection**
+
+[https://arxiv.org/abs/2012.06785](https://arxiv.org/abs/2012.06785)
 
 ## Pedestrian Detection in a Crowd
 
