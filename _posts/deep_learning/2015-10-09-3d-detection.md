@@ -408,6 +408,22 @@ date: 2015-10-09
 
 [https://arxiv.org/abs/2012.13801](https://arxiv.org/abs/2012.13801)
 
+**Voxel R-CNN: Towards High Performance Voxel-based 3D Object Detection**
+
+- intro: AAAI 2021
+- arxiv: [https://arxiv.org/abs/2012.15712](https://arxiv.org/abs/2012.15712)
+
+**RTS3D: Real-time Stereo 3D Detection from 4D Feature-Consistency Embedding Space for Autonomous Driving**
+
+- arxiv: [https://arxiv.org/abs/2012.15072](https://arxiv.org/abs/2012.15072)
+- github: [https://github.com/Banconxuan/RTS3D](https://github.com/Banconxuan/RTS3D)
+
+**Self-Attention Based Context-Aware 3D Object Detection**
+
+- intro: University of Waterloo
+- arxiv: [https://arxiv.org/abs/2101.02672](https://arxiv.org/abs/2101.02672)
+- github: [https://github.com/AutoVision-cloud/SA-Det3D](https://github.com/AutoVision-cloud/SA-Det3D)
+
 # Anchor-free 3D Detection
 
 **Object as Hotspots: An Anchor-Free 3D Object Detection Approach via Firing of Hotspots**

@@ -216,6 +216,10 @@ date: 2015-10-09
 
 [https://arxiv.org/abs/1904.05022](https://arxiv.org/abs/1904.05022)
 
+**Line Segment Detection Using Transformers without Edges**
+
+[https://arxiv.org/abs/2101.01909](https://arxiv.org/abs/2101.01909)
+
 # Foreground Object Segmentation
 
 **Pixel Objectness**
@@ -1157,6 +1161,13 @@ with built-in awareness of semantically meaningful boundaries. "
 
 - intro: Facebook AI & Tel Aviv University
 - arxiv: [https://arxiv.org/abs/2012.11582](https://arxiv.org/abs/2012.11582)
+
+**Rethinking Semantic Segmentation from a Sequence-to-Sequence Perspective with Transformers**
+
+- intro: Fudan University & University of Oxford & University of Surrey & Tencent Youtu Lab & Facebook AI
+- project page: [https://fudan-zvg.github.io/SETR/](https://fudan-zvg.github.io/SETR/)
+- arxiv: [https://arxiv.org/abs/2012.15840](https://arxiv.org/abs/2012.15840)
+- github: [https://github.com/fudan-zvg/SETR](https://github.com/fudan-zvg/SETR)
 
 # Instance Segmentation
 
@@ -2621,6 +2632,10 @@ ranked 1st place in ImageNet Scene Parsing Challenge 2016
 - intro: City University of Hong Kong & SenseTime Research
 - arxiv: [https://arxiv.org/abs/2011.11961](https://arxiv.org/abs/2011.11961)
 - github: [https://github.com/ZHKKKe/MODNet](https://github.com/ZHKKKe/MODNet)
+
+**Multi-scale Information Assembly for Image Matting**
+
+[https://arxiv.org/abs/2101.02391](https://arxiv.org/abs/2101.02391)
 
 # 3D Segmentation
 

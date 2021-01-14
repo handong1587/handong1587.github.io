@@ -83,6 +83,13 @@ Single-model on 320×320 / 299×299
 
 - github: [https://github.com/machrisaa/tensorflow-vgg](https://github.com/machrisaa/tensorflow-vgg)
 
+**RepVGG: Making VGG-style ConvNets Great Again**
+
+- intro: BNRist & Tsinghua University & MEGVII Technology & Hong Kong University of Science and Technology & Aberystwyth University
+- arxiv: [https://arxiv.org/abs/2101.03697](https://arxiv.org/abs/2101.03697)
+- github: [https://github.com/DingXiaoH/RepVGG](https://github.com/DingXiaoH/RepVGG)
+- github: [https://github.com/megvii-model/RepVGG](https://github.com/megvii-model/RepVGG)
+
 ## Inception-V2
 
 **Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift**

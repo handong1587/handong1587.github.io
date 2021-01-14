@@ -416,6 +416,10 @@ date: 2015-10-09
 - intro: Southeast University
 - arxiv: [https://arxiv.org/abs/2012.14214](https://arxiv.org/abs/2012.14214)
 
+**Rethinking the Heatmap Regression for Bottom-up Human Pose Estimation**
+
+[https://arxiv.org/abs/2012.15175](https://arxiv.org/abs/2012.15175)
+
 # 3D Pose
 
 **Can 3D Pose be Learned from 2D Projections Alone?**
