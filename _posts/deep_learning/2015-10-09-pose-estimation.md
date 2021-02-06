@@ -420,6 +420,10 @@ date: 2015-10-09
 
 [https://arxiv.org/abs/2012.15175](https://arxiv.org/abs/2012.15175)
 
+**Multi-Hypothesis Pose Networks: Rethinking Top-Down Pose Estimation**
+
+[https://arxiv.org/abs/2101.11223](https://arxiv.org/abs/2101.11223)
+
 # 3D Pose
 
 **Can 3D Pose be Learned from 2D Projections Alone?**

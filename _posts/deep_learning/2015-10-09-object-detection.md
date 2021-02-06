@@ -1185,6 +1185,11 @@ Continuation of [arXiv:1608.08021](https://arxiv.org/abs/1608.08021)
 - intro: Tongji University & SenseTime Research & Tsinghua University
 - arxiv: [https://arxiv.org/abs/2012.08548](https://arxiv.org/abs/2012.08548)
 
+**Focal and Efficient IOU Loss for Accurate Bounding Box Regression**
+
+- intro: South China University of Technology & 2Horizon Robotics & Chinese Academy of Sciences
+- arxiv: [https://arxiv.org/abs/2101.08158](https://arxiv.org/abs/2101.08158)
+
 # Two-Stage Object Detection
 
 ## R-CNN
@@ -1379,6 +1384,11 @@ Continuation of [arXiv:1608.08021](https://arxiv.org/abs/1608.08021)
 - intro: The University of Hong Kong & Tongji University & ByteDance AI Lab 4University of California
 - arxiv: [https://arxiv.org/abs/2011.12450](https://arxiv.org/abs/2011.12450)
 - github: [https://github.com/PeizeSun/SparseR-CNN](https://github.com/PeizeSun/SparseR-CNN)
+
+**Augmenting Proposals by the Detector Itself**
+
+- intro: Tsinghua University & Alibaba Group
+- arxiv: [https://arxiv.org/abs/2101.11789](https://arxiv.org/abs/2101.11789)
 
 # Single-Shot Object Detection
 
@@ -1941,6 +1951,14 @@ Continuation of [arXiv:1608.08021](https://arxiv.org/abs/1608.08021)
 - intro: Zhejiang University & Nanyang Technological University & Tencent AI Lab & Columbia University
 - arxiv: [https://arxiv.org/abs/2009.01449](https://arxiv.org/abs/2009.01449)
 
+# NMS-free
+
+**Object Detection Made Simpler by Eliminating Heuristic NMS**
+
+- intro: Alibaba Group & Monash University & The University of Adelaide
+- arxiv: [https://arxiv.org/abs/2101.11782](https://arxiv.org/abs/2101.11782)
+- github: [https://github.com/txdet/FCOSPss](https://github.com/txdet/FCOSPss)
+
 # Adversarial Examples
 
 **Adversarial Examples that Fool Detectors**
@@ -1988,6 +2006,19 @@ Continuation of [arXiv:1608.08021](https://arxiv.org/abs/1608.08021)
 
 - intro: ICIP 2019 oral
 - arxiv: [https://arxiv.org/abs/1909.09325](https://arxiv.org/abs/1909.09325)
+
+**Improve Object Detection with Feature-based Knowledge Distillation: Towards Accurate and Efficient Detectors**
+
+- intro: ICLR 2021 poster
+- openreview: [https://openreview.net/forum?id=uKhGRvM8QNH](https://openreview.net/forum?id=uKhGRvM8QNH)
+
+# Rotated Object Detection
+
+**Rethinking Rotated Object Detection with Gaussian Wasserstein Distance Loss**
+
+- intro: Shanghai Jiao Tong University & Huawei Inc. & Beijing Institute of Technology
+- arxiv: [https://arxiv.org/abs/2101.11952](https://arxiv.org/abs/2101.11952)
+- github: [https://github.com/yangxue0827/RotationDetection](https://github.com/yangxue0827/RotationDetection)
 
 # Weakly Supervised Object Detection
 
@@ -2776,7 +2807,7 @@ Continuation of [arXiv:1608.08021](https://arxiv.org/abs/1608.08021)
 
 **Illuminating Pedestrians via Simultaneous Detection & Segmentation**
 
-[https://arxiv.org/abs/1706.08564](https://arxiv.org/abs/1706.08564
+[https://arxiv.org/abs/1706.08564](https://arxiv.org/abs/1706.08564)
 
 **Rotational Rectification Network for Robust Pedestrian Detection**
 

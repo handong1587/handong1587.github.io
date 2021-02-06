@@ -1169,6 +1169,16 @@ with built-in awareness of semantically meaningful boundaries. "
 - arxiv: [https://arxiv.org/abs/2012.15840](https://arxiv.org/abs/2012.15840)
 - github: [https://github.com/fudan-zvg/SETR](https://github.com/fudan-zvg/SETR)
 
+**Exploring Cross-Image Pixel Contrast for Semantic Segmentation**
+
+- intro: Computer Vision Lab, ETH Zurich & SenseTime Research
+- arxiv: [https://arxiv.org/abs/2101.11939](https://arxiv.org/abs/2101.11939)
+- github: [https://github.com/tfzhou/ContrastiveSeg](https://github.com/tfzhou/ContrastiveSeg)
+
+**Active Boundary Loss for Semantic Segmentation**
+
+[https://arxiv.org/abs/2102.02696](https://arxiv.org/abs/2102.02696)
+
 # Instance Segmentation
 
 **Simultaneous Detection and Segmentation**
@@ -1600,6 +1610,10 @@ with built-in awareness of semantically meaningful boundaries. "
 - intro: Google Research & UC Berkeley & Cornell University
 - arxiv: [https://arxiv.org/abs/2012.07177](https://arxiv.org/abs/2012.07177)
 
+**How Shift Equivariance Impacts Metric Learning for Instance Segmentation**
+
+[https://arxiv.org/abs/2101.05846](https://arxiv.org/abs/2101.05846)
+
 ## Human Instance Segmentation
 
 **PersonLab: Person Pose Estimation and Instance Segmentation with a Bottom-Up, Part-Based, Geometric Embedding Model**
@@ -1830,6 +1844,11 @@ with built-in awareness of semantically meaningful boundaries. "
 **End-to-End Face Parsing via Interlinked Convolutional Neural Networks**
 
 [https://arxiv.org/abs/2002.04831](https://arxiv.org/abs/2002.04831)
+
+**RoI Tanh-polar Transformer Network for Face Parsing in the Wild**
+
+- arxiv: [https://arxiv.org/abs/2102.02717](https://arxiv.org/abs/2102.02717)
+- code: [https://ibug.doc.ic.ac.uk/resources/ibugmask/](https://ibug.doc.ic.ac.uk/resources/ibugmask/)
 
 # Specific Segmentation
 
@@ -2557,6 +2576,7 @@ ranked 1st place in ImageNet Scene Parsing Challenge 2016
 
 - intro: ECCV 2020
 - arxiv: [https://arxiv.org/abs/2003.07711](https://arxiv.org/abs/2003.07711)
+- github: [https://github.com/MarcoForte/FBA_Matting](https://github.com/MarcoForte/FBA_Matting)
 
 **Background Matting: The World is Your Green Screen**
 

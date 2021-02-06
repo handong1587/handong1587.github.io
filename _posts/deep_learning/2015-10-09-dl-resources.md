@@ -533,6 +533,14 @@ not just the convolutions)
 
 [https://arxiv.org/abs/1811.09347](https://arxiv.org/abs/1811.09347)
 
+# Transformers
+
+**Tokens-to-Token ViT: Training Vision Transformers from Scratch on ImageNet**
+
+- intro: National University of Singapore & YITU Technology
+- arxiv: [https://arxiv.org/abs/2101.11986](https://arxiv.org/abs/2101.11986)
+- github: [https://github.com/yitu-opensource/T2T-ViT](https://github.com/yitu-opensource/T2T-ViT)
+
 # Semi-Supervised Learning
 
 **Semi-Supervised Learning with Graphs**

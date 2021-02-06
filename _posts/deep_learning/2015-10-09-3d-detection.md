@@ -201,6 +201,7 @@ date: 2015-10-09
 
 - intro: CVPR 2020
 - intro: DEEPROUTE.AI
+- arxiv: [https://arxiv.org/abs/2003.00186](https://arxiv.org/abs/2003.00186)
 - paper: [http://openaccess.thecvf.com/content_CVPR_2020/papers/Ye_HVNet_Hybrid_Voxel_Network_for_LiDAR_Based_3D_Object_Detection_CVPR_2020_paper.pdf](http://openaccess.thecvf.com/content_CVPR_2020/papers/Ye_HVNet_Hybrid_Voxel_Network_for_LiDAR_Based_3D_Object_Detection_CVPR_2020_paper.pdf)
 
 **SSN: Shape Signature Networks for Multi-class Object Detection from Point Clouds**

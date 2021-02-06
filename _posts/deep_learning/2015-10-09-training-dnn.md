@@ -443,6 +443,12 @@ date: 2015-10-09
 - arxiv: [https://arxiv.org/abs/1807.09441](https://arxiv.org/abs/1807.09441)
 - github(official, Pytorch): [https://github.com/XingangPan/IBN-Net](https://github.com/XingangPan/IBN-Net)
 
+## Dynamic Normalization
+
+**Dynamic Normalization**
+
+[https://arxiv.org/abs/2101.06073](https://arxiv.org/abs/2101.06073)
+
 # Loss Function
 
 **The Loss Surfaces of Multilayer Networks**

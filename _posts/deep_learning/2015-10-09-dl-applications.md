@@ -2133,6 +2133,12 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 - paper: [https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123690528.pdf](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123690528.pdf)
 - github: [https://github.com/kchengiva/DecoupleGCN-DropGraph](https://github.com/kchengiva/DecoupleGCN-DropGraph)
 
+**Temporal-Relational CrossTransformers for Few-Shot Action Recognition**
+
+- intro: University of Bristol
+- arxiv: [https://arxiv.org/abs/2101.06184](https://arxiv.org/abs/2101.06184)
+- github: [https://github.com/tobyperrett/trx](https://github.com/tobyperrett/trx)
+
 # CTR Prediction
 
 **Deep CTR Prediction in Display Advertising**
