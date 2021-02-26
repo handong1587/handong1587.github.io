@@ -963,6 +963,10 @@ date: 2015-10-09
 - arxiv: [https://arxiv.org/abs/2011.02785](https://arxiv.org/abs/2011.02785)
 - github(Pytorch):[https://github.com/Dyfine/SphericalEmbedding](https://github.com/Dyfine/SphericalEmbedding)
 
+**Learning Intra-Batch Connections for Deep Metric Learning**
+
+[https://arxiv.org/abs/2102.07753](https://arxiv.org/abs/2102.07753)
+
 # Talks / Slides
 
 **TiefVision: end-to-end image similarity search engine**

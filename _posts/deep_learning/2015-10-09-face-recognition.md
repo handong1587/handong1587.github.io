@@ -390,6 +390,11 @@ L**ow-Resolution Face Recognition**
 - intro: ECCV 2020
 - arxiv: [https://arxiv.org/abs/2008.06674](https://arxiv.org/abs/2008.06674)
 
+**Searching for Alignment in Face Recognition**
+
+- intro: AAAI 2021
+- arxiv: [https://arxiv.org/abs/2102.05447](https://arxiv.org/abs/2102.05447)
+
 # Face Verification
 
 **Deep Learning Face Representation by Joint Identification-Verification**

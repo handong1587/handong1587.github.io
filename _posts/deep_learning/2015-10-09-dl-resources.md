@@ -1478,6 +1478,11 @@ Deformable ConvNets v2: More Deformable, Better Results**
 
 [https://arxiv.org/abs/2006.06668](https://arxiv.org/abs/2006.06668)
 
+**Dynamic Neural Networks: A Survey**
+
+- intro: Tsinghua University
+- arxiv: [https://arxiv.org/abs/2102.04906](https://arxiv.org/abs/2102.04906)
+
 ## Convolutions / Filters
 
 **Warped Convolutions: Efficient Invariance to Spatial Transformations**

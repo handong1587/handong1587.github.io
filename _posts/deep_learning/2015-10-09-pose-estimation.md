@@ -297,6 +297,12 @@ date: 2015-10-09
 - intro: Fast Pose Distillation (FPD)
 - arxiv: [https://arxiv.org/abs/1811.05419](https://arxiv.org/abs/1811.05419)
 
+**PoseFix: Model-agnostic General Human Pose Refinement Network**
+
+- intro: CVPR 2019
+- arxiv: [https://arxiv.org/abs/1812.03595](https://arxiv.org/abs/1812.03595)
+- github(TensorFlow): [https://github.com/mks0601/PoseFix_RELEASE](https://github.com/mks0601/PoseFix_RELEASE)
+
 **Rethinking on Multi-Stage Networks for Human Pose Estimation**
 
 - intro: Megvii Inc. (Face++) & Shanghai Jiao Tong University & Beihang University & Beijing University of Posts and Telecommunications
@@ -378,6 +384,7 @@ date: 2015-10-09
 
 - intro: AAAI 2020
 - arxiv: [https://arxiv.org/abs/1911.10529](https://arxiv.org/abs/1911.10529)
+- github: [https://github.com/hellojialee/Improved-Body-Parts](https://github.com/hellojialee/Improved-Body-Parts)
 
 **HintPose**
 

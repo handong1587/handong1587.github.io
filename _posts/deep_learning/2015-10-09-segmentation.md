@@ -1614,6 +1614,11 @@ with built-in awareness of semantically meaningful boundaries. "
 
 [https://arxiv.org/abs/2101.05846](https://arxiv.org/abs/2101.05846)
 
+**FASA: Feature Augmentation and Sampling Adaptation for Long-Tailed Instance Segmentation**
+
+- intro: Nanyang Technological University & Carnegie Mellon Universit
+- arxiv: [https://arxiv.org/abs/2102.12867](https://arxiv.org/abs/2102.12867)
+
 ## Human Instance Segmentation
 
 **PersonLab: Person Pose Estimation and Instance Segmentation with a Bottom-Up, Part-Based, Geometric Embedding Model**
@@ -1824,6 +1829,11 @@ with built-in awareness of semantically meaningful boundaries. "
 - intro: Johns Hopkins University & Google Research
 - arxiv: [https://arxiv.org/abs/2012.05258](https://arxiv.org/abs/2012.05258)
 - github: [https://github.com/joe-siyuan-qiao/ViP-DeepLab](https://github.com/joe-siyuan-qiao/ViP-DeepLab)
+
+**STEP: Segmenting and Tracking Every Pixel**
+
+- intro: Technical University Munich & Google Research & RWTH Aachen University & MPI-IS and University of Tubingen
+- arxiv: [https://arxiv.org/abs/2102.11859](https://arxiv.org/abs/2102.11859)
 
 # Face Parsing
 
@@ -2512,6 +2522,10 @@ ranked 1st place in ImageNet Scene Parsing Challenge 2016
 
 - intro: NeurIPS 2020
 - arxiv: [https://arxiv.org/abs/2010.07958](https://arxiv.org/abs/2010.07958)
+
+**SwiftNet: Real-time Video Object Segmentation**
+
+[https://arxiv.org/abs/2102.04604](https://arxiv.org/abs/2102.04604)
 
 # Image Matting
 

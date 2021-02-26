@@ -223,6 +223,14 @@ date: 2015-10-09
 
 [https://arxiv.org/abs/1901.10889](https://arxiv.org/abs/1901.10889)
 
+**Colorization Transformer**
+
+- intro: ICLR 2021
+- intro: Google Research, Brain Team
+- arxiv: [https://arxiv.org/abs/2102.04432](https://arxiv.org/abs/2102.04432)
+- openreview: [https://openreview.net/forum?id=5NA1PinlGFu](https://openreview.net/forum?id=5NA1PinlGFu)
+- github: [https://github.com/google-research/google-research/tree/master/coltran](https://github.com/google-research/google-research/tree/master/coltran)
+
 # Sounds
 
 **Visually Indicated Sounds**

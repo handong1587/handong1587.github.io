@@ -1190,6 +1190,38 @@ Continuation of [arXiv:1608.08021](https://arxiv.org/abs/1608.08021)
 - intro: South China University of Technology & 2Horizon Robotics & Chinese Academy of Sciences
 - arxiv: [https://arxiv.org/abs/2101.08158](https://arxiv.org/abs/2101.08158)
 
+**Scale Normalized Image Pyramids with AutoFocus for Object Detection**
+
+- intro: T-PAMI 2021
+- arxiv: [https://arxiv.org/abs/2102.05646](https://arxiv.org/abs/2102.05646)
+- github: [https://github.com/mahyarnajibi/SNIPER](https://github.com/mahyarnajibi/SNIPER)
+
+**DetCo: Unsupervised Contrastive Learning for Object Detection**
+
+- intro: The University of Hong Kong & Huawei Noah’s Ark Lab & Wuhan University & Nanjing University & Chinese University of Hong Kong
+- arxiv: [https://arxiv.org/abs/2102.04803](https://arxiv.org/abs/2102.04803)
+- github: [https://github.com/xieenze/DetCo](https://github.com/xieenze/DetCo)
+- github: [https://github.com/open-mmlab/OpenSelfSup](https://github.com/open-mmlab/OpenSelfSup)
+
+**RMOPP: Robust Multi-Objective Post-Processing for Effective Object Detection**
+
+[https://arxiv.org/abs/2102.04582](https://arxiv.org/abs/2102.04582)
+
+**Instance Localization for Self-supervised Detection Pretraining**
+
+- intro: Chinese University of Hong Kong & Microsoft Research Asia
+- arxiv: [https://arxiv.org/abs/2102.08318](https://arxiv.org/abs/2102.08318)
+
+**A Simple and Effective Use of Object-Centric Images for Long-Tailed Object Detection**
+
+- intro: The Ohio State University & University of Central Florida & University of Southern California & Google Research
+- arxiv: [https://arxiv.org/abs/2102.08884](https://arxiv.org/abs/2102.08884)
+
+**Localization Distillation for Object Detection**
+
+- arxiv: [https://arxiv.org/abs/2102.12252](https://arxiv.org/abs/2102.12252)
+- github: [https://github.com/HikariTJU/LD](https://github.com/HikariTJU/LD)
+
 # Two-Stage Object Detection
 
 ## R-CNN
@@ -2888,6 +2920,10 @@ Continuation of [arXiv:1608.08021](https://arxiv.org/abs/1608.08021)
 - intro: WACV 2020
 - arxiv: [https://arxiv.org/abs/1912.10664](https://arxiv.org/abs/1912.10664)
 - github: [https://github.com/ucas-vg/TinyBenchmark](https://github.com/ucas-vg/TinyBenchmark)
+
+**SM+: Refined Scale Match for Tiny Person Detection**
+
+[https://arxiv.org/abs/2102.03558](https://arxiv.org/abs/2102.03558)
 
 **Resisting the Distracting-factors in Pedestrian Detection**
 

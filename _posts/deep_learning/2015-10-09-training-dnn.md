@@ -1473,6 +1473,12 @@ date: 2015-10-09
 
 [https://arxiv.org/abs/2003.03780](https://arxiv.org/abs/2003.03780)
 
+**Negative Data Augmentation**
+
+- intro: ICLR 2021
+- intro: Stanford University & Samsung Research America
+- arxiv: [https://arxiv.org/abs/2102.05113](https://arxiv.org/abs/2102.05113)
+
 ## Imbalanced Datasets
 
 **Investigation on handling Structured & Imbalanced Datasets with Deep Learning**

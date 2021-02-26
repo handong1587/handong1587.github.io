@@ -797,6 +797,12 @@ at INT8 deep learning operations than other FPGA DSP architectures"
 
 [https://arxiv.org/abs/1912.08883](https://arxiv.org/abs/1912.08883)
 
+**Distribution Adaptive INT8 Quantization for Training CNNs**
+
+- intro: AAAI 2021
+- intro: Machine Intelligence Technology Lab, Alibaba Group
+- arxiv: [https://arxiv.org/abs/2102.04782](https://arxiv.org/abs/2102.04782)
+
 # Binary Convolutional Neural Networks / Binarized Neural Networks
 
 **BinaryNet: Training Deep Neural Networks with Weights and Activations Constrained to +1 or -1**
