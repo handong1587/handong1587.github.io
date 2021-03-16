@@ -1736,7 +1736,9 @@ with built-in awareness of semantically meaningful boundaries. "
 
 **Real-Time Panoptic Segmentation from Dense Detections**
 
-[https://arxiv.org/abs/1912.01202](https://arxiv.org/abs/1912.01202)
+- intro: CVPR 2020 oral
+- arxiv: [https://arxiv.org/abs/1912.01202](https://arxiv.org/abs/1912.01202)
+- github: [https://github.com/TRI-ML/realtime_panoptic](https://github.com/TRI-ML/realtime_panoptic)
 
 **Bipartite Conditional Random Fields for Panoptic Segmentation**
 
@@ -1834,6 +1836,16 @@ with built-in awareness of semantically meaningful boundaries. "
 
 - intro: Technical University Munich & Google Research & RWTH Aachen University & MPI-IS and University of Tubingen
 - arxiv: [https://arxiv.org/abs/2102.11859](https://arxiv.org/abs/2102.11859)
+
+**Cross-View Regularization for Domain Adaptive Panoptic Segmentation**
+
+- intro: CVPR 2021 oral
+- arxiv: [https://arxiv.org/abs/2103.02584](https://arxiv.org/abs/2103.02584)
+
+**MaX-DeepLab: End-to-End Panoptic Segmentation with Mask Transformers**
+
+- intro: Johns Hopkins University & Google Research
+- arixv: [https://arxiv.org/abs/2012.00759](https://arxiv.org/abs/2012.00759)
 
 # Face Parsing
 
@@ -2204,6 +2216,18 @@ ranked 1st place in ImageNet Scene Parsing Challenge 2016
 - intro: AAAI 2021
 - arxiv: [https://arxiv.org/abs/2012.11810](https://arxiv.org/abs/2012.11810)
 - github: [https://github.com/Charleshhy/One-shot-Human-Parsing](https://github.com/Charleshhy/One-shot-Human-Parsing)
+
+**Differentiable Multi-Granularity Human Representation Learning for Instance-Aware Human Semantic Parsing**
+
+- intro: CVPR 2021 oral
+- arxiv: [https://arxiv.org/abs/2103.04570](https://arxiv.org/abs/2103.04570)
+- github: [https://github.com/tfzhou/MG-HumanParsing](https://github.com/tfzhou/MG-HumanParsing)
+
+**Quality-Aware Network for Human Parsing**
+
+- intro: BUPT & Institute of Automation Chinese Academy of Sciences & 3Noah’s Ark Lab
+- arxiv: [https://arxiv.org/abs/2103.05997](https://arxiv.org/abs/2103.05997)
+- github(Pytorch): [https://github.com/soeaver/QANet](https://github.com/soeaver/QANet)
 
 # Joint Detection and Segmentation
 

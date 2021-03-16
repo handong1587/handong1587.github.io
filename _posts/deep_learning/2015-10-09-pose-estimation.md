@@ -422,6 +422,7 @@ date: 2015-10-09
 
 - intro: Southeast University
 - arxiv: [https://arxiv.org/abs/2012.14214](https://arxiv.org/abs/2012.14214)
+- github: [https://github.com/yangsenius/TransPose](https://github.com/yangsenius/TransPose)
 
 **Rethinking the Heatmap Regression for Bottom-up Human Pose Estimation**
 

@@ -232,6 +232,11 @@ Auto-encoder
 
 [https://arxiv.org/abs/2009.09687](https://arxiv.org/abs/2009.09687)
 
+**Deep Clustering by Semantic Contrastive Learning**
+
+- intro: Queen Mary University of London
+- arxiv: [https://arxiv.org/abs/2103.02662](https://arxiv.org/abs/2103.02662)
+
 # Auto-encoder
 
 **Auto-Encoding Variational Bayes**

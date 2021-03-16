@@ -209,7 +209,13 @@ date: 2015-10-09
 - intro: CMU
 - arxiv: [https://arxiv.org/abs/2011.07449](https://arxiv.org/abs/2011.07449)
 
-# resources
+**Refine Myself by Teaching Myself: Feature Refinement via Self-Knowledge Distillation**
+
+- intro: CVPR 2021
+- arxiv: [https://arxiv.org/abs/2103.08273](https://arxiv.org/abs/2103.08273)
+- github(Pytorch): [https://github.com/MingiJi/FRSKD](https://github.com/MingiJi/FRSKD)
+
+# Resources
 
 **Awesome Knowledge-Distillation**
 

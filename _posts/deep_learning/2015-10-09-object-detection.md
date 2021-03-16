@@ -1222,6 +1222,22 @@ Continuation of [arXiv:1608.08021](https://arxiv.org/abs/1608.08021)
 - arxiv: [https://arxiv.org/abs/2102.12252](https://arxiv.org/abs/2102.12252)
 - github: [https://github.com/HikariTJU/LD](https://github.com/HikariTJU/LD)
 
+**General Instance Distillation for Object Detection**
+
+- intro: CVPR 2021
+- arxiv: [https://arxiv.org/abs/2103.02340](https://arxiv.org/abs/2103.02340)
+
+**Towards Open World Object Detection**
+
+- intro: CVPR 2021 oral
+- arxiv: [https://arxiv.org/abs/2103.02603](https://arxiv.org/abs/2103.02603)
+- github: [https://github.com/JosephKJ/OWOD](https://github.com/JosephKJ/OWOD)
+
+**Data Augmentation for Object Detection via Differentiable Neural Rendering**
+
+- arxiv: [https://arxiv.org/abs/2103.02852](https://arxiv.org/abs/2103.02852)
+- github: [https://github.com/Guanghan/DANR](https://github.com/Guanghan/DANR)
+
 # Two-Stage Object Detection
 
 ## R-CNN
@@ -1421,6 +1437,12 @@ Continuation of [arXiv:1608.08021](https://arxiv.org/abs/1608.08021)
 
 - intro: Tsinghua University & Alibaba Group
 - arxiv: [https://arxiv.org/abs/2101.11789](https://arxiv.org/abs/2101.11789)
+
+**Probabilistic two-stage detection**
+
+- intro: UT Austin & Intel Labs
+- arxiv: [https://arxiv.org/abs/2103.07461](https://arxiv.org/abs/2103.07461)
+- github: [https://github.com/xingyizhou/CenterNet2](https://github.com/xingyizhou/CenterNet2)
 
 # Single-Shot Object Detection
 
@@ -2043,6 +2065,8 @@ Continuation of [arXiv:1608.08021](https://arxiv.org/abs/1608.08021)
 
 - intro: ICLR 2021 poster
 - openreview: [https://openreview.net/forum?id=uKhGRvM8QNH](https://openreview.net/forum?id=uKhGRvM8QNH)
+- paper: [https://openreview.net/pdf?id=uKhGRvM8QNH](https://openreview.net/pdf?id=uKhGRvM8QNH)
+- github: [https://github.com/ArchipLab-LinfengZhang/Object-Detection-Knowledge-Distillation-ICLR2021](https://github.com/ArchipLab-LinfengZhang/Object-Detection-Knowledge-Distillation-ICLR2021)
 
 # Rotated Object Detection
 
@@ -3281,6 +3305,13 @@ Continuation of [arXiv:1608.08021](https://arxiv.org/abs/1608.08021)
 
 - intro: ICCV 2019
 - arxiv: [https://arxiv.org/abs/1909.08453](https://arxiv.org/abs/1909.08453)
+
+**End-to-End Human Object Interaction Detection with HOI Transformer**
+
+- intro: CVPR 2021
+- intro: MEGVII Technology
+- arxiv: [https://arxiv.org/abs/2103.04503](https://arxiv.org/abs/2103.04503)
+- github: [https://github.com/bbepoch/HoiTransformer](https://github.com/bbepoch/HoiTransformer)
 
 **Densely Supervised Grasp Detector (DSGD)**
 

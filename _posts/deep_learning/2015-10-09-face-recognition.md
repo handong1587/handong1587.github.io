@@ -395,6 +395,24 @@ L**ow-Resolution Face Recognition**
 - intro: AAAI 2021
 - arxiv: [https://arxiv.org/abs/2102.05447](https://arxiv.org/abs/2102.05447)
 
+**When Age-Invariant Face Recognition Meets Face Age Synthesis: A Multi-Task Learning Framework**
+
+- intro: CVPR 2021
+- intro: Fudan University
+- arxiv: [https://arxiv.org/abs/2103.01520](https://arxiv.org/abs/2103.01520)
+- github: [https://github.com/Hzzone/MTLFace](https://github.com/Hzzone/MTLFace)
+
+**Unmasking Face Embeddings by Self-restrained Triplet Loss for Accurate Masked Face Recognition**
+
+[https://arxiv.org/abs/2103.01716](https://arxiv.org/abs/2103.01716)
+
+**WebFace260M: A Benchmark Unveiling the Power of Million-Scale Deep Face Recognition**
+
+- intro: CVPR 2021
+- intro: Tsinghua University & XForwardAI & Imperial College London
+- project page: [https://www.face-benchmark.org/](https://www.face-benchmark.org/)
+- arxiv: [https://arxiv.org/abs/2103.04098](https://arxiv.org/abs/2103.04098)
+
 # Face Verification
 
 **Deep Learning Face Representation by Joint Identification-Verification**
@@ -637,6 +655,11 @@ L**ow-Resolution Face Recognition**
 
 - intro: CVPR 2019
 - arxiv: [https://arxiv.org/abs/1903.10661](https://arxiv.org/abs/1903.10661)
+
+**An Efficient Multitask Neural Network for Face Alignment, Head Pose Estimation and Face Tracking**
+
+- intro: University of Technology Sydney
+- arxiv: [https://arxiv.org/abs/2103.07615](https://arxiv.org/abs/2103.07615)
 
 # Face Synthesis
 

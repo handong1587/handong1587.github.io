@@ -423,6 +423,11 @@ L**earning a Deep ConvNet for Multi-label Classification with Partial Labels**
 - intro: University of Science and Technology of China & Microsoft Research & University of Rochester
 - paper: [http://openaccess.thecvf.com/content_ICCV_2017/papers/Zheng_Learning_Multi-Attention_Convolutional_ICCV_2017_paper.pdf](http://openaccess.thecvf.com/content_ICCV_2017/papers/Zheng_Learning_Multi-Attention_Convolutional_ICCV_2017_paper.pdf)
 
+**TransFG: A Transformer Architecture for Fine-grained Recognition**
+
+- intro: Johns Hopkins University & ByteDance Inc.
+- arxiv: [https://arxiv.org/abs/2103.07976](https://arxiv.org/abs/2103.07976)
+
 # Food Recognition
 
 **DeepFood: Deep Learning-Based Food Image Recognition for Computer-Aided Dietary Assessment**

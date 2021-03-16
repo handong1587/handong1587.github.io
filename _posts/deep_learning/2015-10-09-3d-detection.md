@@ -413,6 +413,7 @@ date: 2015-10-09
 
 - intro: AAAI 2021
 - arxiv: [https://arxiv.org/abs/2012.15712](https://arxiv.org/abs/2012.15712)
+- github: [https://github.com/djiajunustc/Voxel-R-CNN](https://github.com/djiajunustc/Voxel-R-CNN)
 
 **RTS3D: Real-time Stereo 3D Detection from 4D Feature-Consistency Embedding Space for Autonomous Driving**
 
@@ -424,6 +425,17 @@ date: 2015-10-09
 - intro: University of Waterloo
 - arxiv: [https://arxiv.org/abs/2101.02672](https://arxiv.org/abs/2101.02672)
 - github: [https://github.com/AutoVision-cloud/SA-Det3D](https://github.com/AutoVision-cloud/SA-Det3D)
+
+**A Simple and Efficient Multi-task Network for 3D Object Detection and Road Understanding**
+
+- arxiv: [https://arxiv.org/abs/2103.04056](https://arxiv.org/abs/2103.04056)
+- github: [https://github.com/frankfengdi/LidarMTL](https://github.com/frankfengdi/LidarMTL)
+
+**ST3D: Self-training for Unsupervised Domain Adaptation on 3D Object Detection**
+
+- intro: CVPR 2021
+- arxiv: [https://arxiv.org/abs/2103.05346](https://arxiv.org/abs/2103.05346)
+- github: [https://github.com/CVMI-Lab/ST3D](https://github.com/CVMI-Lab/ST3D)
 
 # Anchor-free 3D Detection
 
@@ -539,10 +551,14 @@ date: 2015-10-09
 - intro: Carnegie Mellon University
 - arxiv: [https://arxiv.org/abs/2012.05894](https://arxiv.org/abs/2012.05894)
 
-**obabilistic 3D Multi-Modal, Multi-Object Tracking for Autonomous Driving**
+**Probabilistic 3D Multi-Modal, Multi-Object Tracking for Autonomous Driving**
 
 - intro: Stanford University & Toyota Research Institute
 - arxiv: [https://arxiv.org/abs/2012.13755](https://arxiv.org/abs/2012.13755)
+
+**Monocular Quasi-Dense 3D Object Tracking**
+
+[https://arxiv.org/abs/2103.07351](https://arxiv.org/abs/2103.07351)
 
 # Transformer
 
