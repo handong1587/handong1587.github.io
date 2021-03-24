@@ -437,6 +437,14 @@ date: 2015-10-09
 - arxiv: [https://arxiv.org/abs/2103.05346](https://arxiv.org/abs/2103.05346)
 - github: [https://github.com/CVMI-Lab/ST3D](https://github.com/CVMI-Lab/ST3D)
 
+**RangeDet:In Defense of Range View for LiDAR-based 3D Object Detection**
+
+[https://arxiv.org/abs/2103.10039](https://arxiv.org/abs/2103.10039)
+
+**Stereo CenterNet based 3D Object Detection for Autonomous Driving**
+
+[https://arxiv.org/abs/2103.11071](https://arxiv.org/abs/2103.11071)
+
 # Anchor-free 3D Detection
 
 **Object as Hotspots: An Anchor-Free 3D Object Detection Approach via Firing of Hotspots**
@@ -588,6 +596,10 @@ date: 2015-10-09
 
 - intro: OpenLidarPerceptron is an open source project for LiDAR-based 3D scene perception.
 - github: [https://github.com/open-mmlab/OpenLidarPerceptron](https://github.com/open-mmlab/OpenLidarPerceptron)
+
+**Super Fast and Accurate 3D Object Detection based on 3D LiDAR Point Clouds**
+
+- github(PyTorch): [https://github.com/maudzung/SFA3D](https://github.com/maudzung/SFA3D)
 
 # Resources
 

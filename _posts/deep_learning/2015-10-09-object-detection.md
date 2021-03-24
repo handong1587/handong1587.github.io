@@ -1238,6 +1238,26 @@ Continuation of [arXiv:1608.08021](https://arxiv.org/abs/1608.08021)
 - arxiv: [https://arxiv.org/abs/2103.02852](https://arxiv.org/abs/2103.02852)
 - github: [https://github.com/Guanghan/DANR](https://github.com/Guanghan/DANR)
 
+**Revisiting the Loss Weight Adjustment in Object Detection**
+
+- intro: University of Science and Technology of China & University of Michigan
+- arxiv: [https://arxiv.org/abs/2103.09488](https://arxiv.org/abs/2103.09488)
+- github: [https://github.com/ywx-hub/ALWA](https://github.com/ywx-hub/ALWA)
+
+**You Only Look One-level Feature**
+
+- arxiv: [https://arxiv.org/abs/2103.09460](https://arxiv.org/abs/2103.09460)
+- github: [https://github.com/megvii-model/YOLOF](https://github.com/megvii-model/YOLOF)
+
+**Optimization for Oriented Object Detection via Representation Invariance Loss**
+
+- arxiv: [https://arxiv.org/abs/2103.11636](https://arxiv.org/abs/2103.11636)
+- github: [https://github.com/ming71/RIDet](https://github.com/ming71/RIDet)
+
+**Control Distance IoU and Control Distance IoU Loss Function for Better Bounding Box Regression**
+
+[https://arxiv.org/abs/2103.11696](https://arxiv.org/abs/2103.11696)
+
 # Two-Stage Object Detection
 
 ## R-CNN
@@ -2686,6 +2706,11 @@ Continuation of [arXiv:1608.08021](https://arxiv.org/abs/1608.08021)
 - intro: Media Intelligence Technology Co.,Ltd
 - arxiv: [https://arxiv.org/abs/2011.13183](https://arxiv.org/abs/2011.13183)
 - github(PyTorch): [https://github.com/Media-Smart/vedadet](https://github.com/Media-Smart/vedadet)
+
+**MogFace: Rethinking Scale Augmentation on the Face Detector**
+
+- intro: Alibaba Group & Imperial College
+- arxiv: [https://arxiv.org/abs/2103.11139](https://arxiv.org/abs/2103.11139)
 
 ## Detect Small Faces
 

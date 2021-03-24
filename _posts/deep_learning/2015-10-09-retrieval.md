@@ -394,6 +394,11 @@ date: 2015-10-09
 
 [https://arxiv.org/abs/2009.01438](https://arxiv.org/abs/2009.01438)
 
+**Instance-level Image Retrieval using Reranking Transformers**
+
+- intro: University of Virginia & eBay Computer Vision
+- arxiv: [https://arxiv.org/abs/2103.12236](https://arxiv.org/abs/2103.12236)
+
 # Hashing
 
 **Supervised Hashing for Image Retrieval via Image Representation Learning**

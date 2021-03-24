@@ -541,6 +541,16 @@ not just the convolutions)
 - arxiv: [https://arxiv.org/abs/2101.11986](https://arxiv.org/abs/2101.11986)
 - github: [https://github.com/yitu-opensource/T2T-ViT](https://github.com/yitu-opensource/T2T-ViT)
 
+**Incorporating Convolution Designs into Visual Transformers**
+
+- intro: SenseTime Research & Nanyang Technological University
+- arxiv: [https://arxiv.org/abs/2103.11816](https://arxiv.org/abs/2103.11816)
+
+**DeepViT: Towards Deeper Vision Transformer**
+
+- intro: National University of Singapore & ByteDance US AI Lab
+- arxiv: [https://arxiv.org/abs/2103.11886](https://arxiv.org/abs/2103.11886)
+
 # Semi-Supervised Learning
 
 **Semi-Supervised Learning with Graphs**

@@ -432,6 +432,15 @@ date: 2015-10-09
 
 [https://arxiv.org/abs/2101.11223](https://arxiv.org/abs/2101.11223)
 
+**OmniPose: A Multi-Scale Framework for Multi-Person Pose Estimation**
+
+[https://arxiv.org/abs/2103.10180](https://arxiv.org/abs/2103.10180)
+
+**End-to-End Trainable Multi-Instance Pose Estimation with Transformers**
+
+- intro: Swiss Federal Institute of Technology (EPFL)
+- arxiv: [https://arxiv.org/abs/2103.12115](https://arxiv.org/abs/2103.12115)
+
 # 3D Pose
 
 **Can 3D Pose be Learned from 2D Projections Alone?**

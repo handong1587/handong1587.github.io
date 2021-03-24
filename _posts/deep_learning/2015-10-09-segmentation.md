@@ -1179,6 +1179,12 @@ with built-in awareness of semantically meaningful boundaries. "
 
 [https://arxiv.org/abs/2102.02696](https://arxiv.org/abs/2102.02696)
 
+**Cross-Dataset Collaborative Learning for Semantic Segmentation**
+
+- intro: CVPR 2021
+- intro: Xilinx Inc. & Chinese Academy of Sciences
+- arxiv: [https://arxiv.org/abs/2103.11351](https://arxiv.org/abs/2103.11351)
+
 # Instance Segmentation
 
 **Simultaneous Detection and Segmentation**
@@ -2551,6 +2557,10 @@ ranked 1st place in ImageNet Scene Parsing Challenge 2016
 
 [https://arxiv.org/abs/2102.04604](https://arxiv.org/abs/2102.04604)
 
+**SG-Net: Spatial Granularity Network for One-Stage Video Instance Segmentation**
+
+[https://arxiv.org/abs/2103.10284](https://arxiv.org/abs/2103.10284)
+
 # Image Matting
 
 **Deep Image Matting**
@@ -2694,6 +2704,11 @@ ranked 1st place in ImageNet Scene Parsing Challenge 2016
 **Multi-scale Information Assembly for Image Matting**
 
 [https://arxiv.org/abs/2101.02391](https://arxiv.org/abs/2101.02391)
+
+**Salient Image Matting**
+
+- intro: Fynd & University of Michigan
+- arxiv: [https://arxiv.org/abs/2103.12337](https://arxiv.org/abs/2103.12337)
 
 # 3D Segmentation
 
