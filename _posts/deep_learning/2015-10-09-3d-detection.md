@@ -445,6 +445,47 @@ date: 2015-10-09
 
 [https://arxiv.org/abs/2103.11071](https://arxiv.org/abs/2103.11071)
 
+**M3DSSD: Monocular 3D Single Stage Object Detector**
+
+- intro: CVPR 2021
+- intro: Zhejiang University & Mohamed bin Zayed University of Artificial Intelligence & Inception Institute of Artificial Intelligence
+- arxiv: [https://arxiv.org/abs/2103.13164](https://arxiv.org/abs/2103.13164)
+
+**Delving into Localization Errors for Monocular 3D Object Detection**
+
+- intro: CVPR 2021
+- arxiv: [https://arxiv.org/abs/2103.16237](https://arxiv.org/abs/2103.16237)
+- github: [https://github.com/xinzhuma/monodle](https://github.com/xinzhuma/monodle)
+
+**Depth-conditioned Dynamic Message Propagation for Monocular 3D Object Detection**
+
+- github: CVPR 2021
+- arxiv: [https://arxiv.org/abs/2103.16470](https://arxiv.org/abs/2103.16470)
+- github: [https://github.com/fudan-zvg/DDMP](https://github.com/fudan-zvg/DDMP)
+
+**GrooMeD-NMS: Grouped Mathematically Differentiable NMS for Monocular 3D Object Detection**
+
+- intro: CVPR 2021
+- arxiv: [https://arxiv.org/abs/2103.17202](https://arxiv.org/abs/2103.17202)
+
+**LiDAR R-CNN: An Efficient and Universal 3D Object Detector**
+
+- intro: CVPR 2021
+- intro: TuSimple
+- arxiv: [https://arxiv.org/abs/2103.15297](https://arxiv.org/abs/2103.15297)
+- github: [https://github.com/tusimple/LiDAR_RCNN](https://github.com/tusimple/LiDAR_RCNN)
+
+**HVPR: Hybrid Voxel-Point Representation for Single-stage 3D Object Detection**
+
+- intro: CVPR 2021
+[https://arxiv.org/abs/2104.00902](https://arxiv.org/abs/2104.00902)
+
+**Group-Free 3D Object Detection via Transformers**
+
+- intro: University of Science and Technology of China & Microsoft Research Asia
+- arxiv: [https://arxiv.org/abs/2104.00678](https://arxiv.org/abs/2104.00678)
+- github: [https://github.com/zeliu98/Group-Free-3D](https://github.com/zeliu98/Group-Free-3D)
+
 # Anchor-free 3D Detection
 
 **Object as Hotspots: An Anchor-Free 3D Object Detection Approach via Firing of Hotspots**

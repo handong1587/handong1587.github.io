@@ -155,14 +155,6 @@ and 1.15s per image with it".
 
 - arxiv: [http://arxiv.org/abs/1512.07729](http://arxiv.org/abs/1512.07729)
 
-**Factors in Finetuning Deep Model for object detection**
-
-**Factors in Finetuning Deep Model for Object Detection with Long-tail Distribution**
-
-- intro: CVPR 2016.rank 3rd for provided data and 2nd for external data on ILSVRC 2015 object detection
-- project page: [http://www.ee.cuhk.edu.hk/~wlouyang/projects/ImageNetFactors/CVPR16.html](http://www.ee.cuhk.edu.hk/~wlouyang/projects/ImageNetFactors/CVPR16.html)
-- arxiv: [http://arxiv.org/abs/1601.05150](http://arxiv.org/abs/1601.05150)
-
 **We don't need no bounding-boxes: Training object class detectors using only human verification**
 
 - arxiv: [http://arxiv.org/abs/1602.08405](http://arxiv.org/abs/1602.08405)
@@ -1024,7 +1016,7 @@ Continuation of [arXiv:1608.08021](https://arxiv.org/abs/1608.08021)
 - intro: Huawei Noah’s Ark Lab & South China University of Technology & Sun Yat-Sen University
 - arxiv: [https://arxiv.org/abs/2002.07417](https://arxiv.org/abs/2002.07417)
 
-**iDet: An Efficient Binarized Object Detector**
+**BiDet: An Efficient Binarized Object Detector**
 
 - intro: CVPR 2020
 - arxiv: [https://arxiv.org/abs/2003.03961](https://arxiv.org/abs/2003.03961)
@@ -1033,8 +1025,10 @@ Continuation of [arXiv:1608.08021](https://arxiv.org/abs/1608.08021)
 **Revisiting the Sibling Head in Object Detector**
 
 - intro: CVPR 2020 & Method of Champion of OpenImage Challenge 2019, detection track
-- intro: 1SenseTime X-Lab & CUHK
+- intro: SenseTime X-Lab & CUHK
+- keywords: task-aware spatial disentanglement (TSD)
 - arxiv: [https://arxiv.org/abs/2003.07540](https://arxiv.org/abs/2003.07540)
+- github: [https://github.com/Sense-X/TSD](https://github.com/Sense-X/TSD)
 
 **Extended Feature Pyramid Network for Small Object Detection**
 
@@ -1077,12 +1071,6 @@ Continuation of [arXiv:1608.08021](https://arxiv.org/abs/1608.08021)
 - intro: CVPR 2020
 - arxiv: [https://arxiv.org/abs/2006.06568](https://arxiv.org/abs/2006.06568)
 - github: [https://github.com/caiqi/sample-weighting-network](https://github.com/caiqi/sample-weighting-network)
-
-**Overcoming Classifier Imbalance for Long-tail Object Detection with Balanced Group Softmax**
-
-- intro: CVPR 2020 oral
-- arxiv: [https://arxiv.org/abs/2006.10408](https://arxiv.org/abs/2006.10408)
-- github: [https://github.com/FishYuLi/BalancedGroupSoftmax](https://github.com/FishYuLi/BalancedGroupSoftmax)
 
 **2nd Place Solution for Waymo Open Dataset Challenge -- 2D Object Detection**
 
@@ -1180,11 +1168,6 @@ Continuation of [arXiv:1608.08021](https://arxiv.org/abs/1608.08021)
 - arxiv: [https://arxiv.org/abs/2012.03519](https://arxiv.org/abs/2012.03519)
 - github: [https://github.com/StevenGrove/DynamicHead](https://github.com/StevenGrove/DynamicHead)
 
-**Equalization Loss v2: A New Gradient Balance Approach for Long-tailed Object Detection**
-
-- intro: Tongji University & SenseTime Research & Tsinghua University
-- arxiv: [https://arxiv.org/abs/2012.08548](https://arxiv.org/abs/2012.08548)
-
 **Focal and Efficient IOU Loss for Accurate Bounding Box Regression**
 
 - intro: South China University of Technology & 2Horizon Robotics & Chinese Academy of Sciences
@@ -1211,11 +1194,6 @@ Continuation of [arXiv:1608.08021](https://arxiv.org/abs/1608.08021)
 
 - intro: Chinese University of Hong Kong & Microsoft Research Asia
 - arxiv: [https://arxiv.org/abs/2102.08318](https://arxiv.org/abs/2102.08318)
-
-**A Simple and Effective Use of Object-Centric Images for Long-Tailed Object Detection**
-
-- intro: The Ohio State University & University of Central Florida & University of Southern California & Google Research
-- arxiv: [https://arxiv.org/abs/2102.08884](https://arxiv.org/abs/2102.08884)
 
 **Localization Distillation for Object Detection**
 
@@ -1257,6 +1235,23 @@ Continuation of [arXiv:1608.08021](https://arxiv.org/abs/1608.08021)
 **Control Distance IoU and Control Distance IoU Loss Function for Better Bounding Box Regression**
 
 [https://arxiv.org/abs/2103.11696](https://arxiv.org/abs/2103.11696)
+
+**OTA: Optimal Transport Assignment for Object Detection**
+
+- intro: CVPR 2021
+- arxiv: [https://arxiv.org/abs/2103.14259](https://arxiv.org/abs/2103.14259)
+- github: [https://github.com/Megvii-BaseDetection/OTA](https://github.com/Megvii-BaseDetection/OTA)
+
+**Distilling Object Detectors via Decoupled Features**
+
+- intro: CVPR 2021
+- arxiv: [https://arxiv.org/abs/2103.14475](https://arxiv.org/abs/2103.14475)
+- github: [https://github.com/ggjy/DeFeat.pytorch](https://github.com/ggjy/DeFeat.pytorch)
+
+**Distilling a Powerful Student Model via Online Knowledge Distillation**
+
+- arxiv: [https://arxiv.org/abs/2103.14473](https://arxiv.org/abs/2103.14473)
+- github: [https://github.com/SJLeo/FFSD](https://github.com/SJLeo/FFSD)
 
 # Two-Stage Object Detection
 
@@ -1948,6 +1943,11 @@ Continuation of [arXiv:1608.08021](https://arxiv.org/abs/1608.08021)
 - keywords: ViT-FRCNN
 - arxiv: [https://arxiv.org/abs/2012.09958](https://arxiv.org/abs/2012.09958)
 
+**Efficient DETR: Improving End-to-End Object Detector with Dense Prior**
+
+- intro: Megvii Technology
+- arxiv: [https://arxiv.org/abs/2104.01318](https://arxiv.org/abs/2104.01318)
+
 # Non-Maximum Suppression (NMS)
 
 **End-to-End Integration of a Convolutional Network, Deformable Parts Model and Non-Maximum Suppression**
@@ -2095,6 +2095,38 @@ Continuation of [arXiv:1608.08021](https://arxiv.org/abs/1608.08021)
 - intro: Shanghai Jiao Tong University & Huawei Inc. & Beijing Institute of Technology
 - arxiv: [https://arxiv.org/abs/2101.11952](https://arxiv.org/abs/2101.11952)
 - github: [https://github.com/yangxue0827/RotationDetection](https://github.com/yangxue0827/RotationDetection)
+
+# Long-Tailed Object Detection
+
+**Factors in Finetuning Deep Model for object detection**
+
+**Factors in Finetuning Deep Model for Object Detection with Long-tail Distribution**
+
+- intro: CVPR 2016.rank 3rd for provided data and 2nd for external data on ILSVRC 2015 object detection
+- project page: [http://www.ee.cuhk.edu.hk/~wlouyang/projects/ImageNetFactors/CVPR16.html](http://www.ee.cuhk.edu.hk/~wlouyang/projects/ImageNetFactors/CVPR16.html)
+- arxiv: [http://arxiv.org/abs/1601.05150](http://arxiv.org/abs/1601.05150)
+
+**Overcoming Classifier Imbalance for Long-tail Object Detection with Balanced Group Softmax**
+
+- intro: CVPR 2020 oral
+- arxiv: [https://arxiv.org/abs/2006.10408](https://arxiv.org/abs/2006.10408)
+- github: [https://github.com/FishYuLi/BalancedGroupSoftmax](https://github.com/FishYuLi/BalancedGroupSoftmax)
+
+**Equalization Loss v2: A New Gradient Balance Approach for Long-tailed Object Detection**
+
+- intro: Tongji University & SenseTime Research & Tsinghua University
+- arxiv: [https://arxiv.org/abs/2012.08548](https://arxiv.org/abs/2012.08548)
+
+**A Simple and Effective Use of Object-Centric Images for Long-Tailed Object Detection**
+
+- intro: The Ohio State University & University of Central Florida & University of Southern California & Google Research
+- arxiv: [https://arxiv.org/abs/2102.08884](https://arxiv.org/abs/2102.08884)
+
+**Adaptive Class Suppression Loss for Long-Tail Object Detection**
+
+- intro: CVPR 2021
+- arxiv: [https://arxiv.org/abs/2104.00885](https://arxiv.org/abs/2104.00885)
+- github: [https://github.com/CASIA-IVA-Lab/ACSL](https://github.com/CASIA-IVA-Lab/ACSL)
 
 # Weakly Supervised Object Detection
 
@@ -2711,6 +2743,14 @@ Continuation of [arXiv:1608.08021](https://arxiv.org/abs/1608.08021)
 
 - intro: Alibaba Group & Imperial College
 - arxiv: [https://arxiv.org/abs/2103.11139](https://arxiv.org/abs/2103.11139)
+
+**HLA-Face: Joint High-Low Adaptation for Low Light Face Detection**
+
+- intro: CVPR 2021
+- intro: Peking University
+- project page: [https://daooshee.github.io/HLA-Face-Website/](https://daooshee.github.io/HLA-Face-Website/)
+- arxiv: [https://arxiv.org/abs/2104.01984](https://arxiv.org/abs/2104.01984)
+- github: [https://github.com/daooshee/HLA-Face-Code](https://github.com/daooshee/HLA-Face-Code)
 
 ## Detect Small Faces
 

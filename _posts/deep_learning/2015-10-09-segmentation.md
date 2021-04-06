@@ -1185,6 +1185,12 @@ with built-in awareness of semantically meaningful boundaries. "
 - intro: Xilinx Inc. & Chinese Academy of Sciences
 - arxiv: [https://arxiv.org/abs/2103.11351](https://arxiv.org/abs/2103.11351)
 
+**Vision Transformers for Dense Prediction**
+
+- intro: Intel Labs
+- arxiv: [https://arxiv.org/abs/2103.13413](https://arxiv.org/abs/2103.13413)
+- github: [https://github.com/intel-isl/DPT](https://github.com/intel-isl/DPT)
+
 # Instance Segmentation
 
 **Simultaneous Detection and Segmentation**
@@ -1624,6 +1630,22 @@ with built-in awareness of semantically meaningful boundaries. "
 
 - intro: Nanyang Technological University & Carnegie Mellon Universit
 - arxiv: [https://arxiv.org/abs/2102.12867](https://arxiv.org/abs/2102.12867)
+
+**Deep Occlusion-Aware Instance Segmentation with Overlapping BiLayers**
+
+- intro: https://github.com/lkeab/BCNet
+- arxiv: [https://arxiv.org/abs/2103.12340](https://arxiv.org/abs/2103.12340)
+- github: [https://github.com/lkeab/BCNet](https://github.com/lkeab/BCNet)
+
+**Sparse Object-level Supervision for Instance Segmentation with Pixel Embeddings**
+
+- arxiv: [https://arxiv.org/abs/2103.14572](https://arxiv.org/abs/2103.14572)
+- github: [https://github.com/kreshuklab/spoco](https://github.com/kreshuklab/spoco)
+
+**FAPIS: A Few-shot Anchor-free Part-based Instance Segmenter**
+
+- intro: CVPR 2021
+- arxiv: [https://arxiv.org/abs/2104.00073](https://arxiv.org/abs/2104.00073)
 
 ## Human Instance Segmentation
 

@@ -441,6 +441,11 @@ date: 2015-10-09
 - intro: Swiss Federal Institute of Technology (EPFL)
 - arxiv: [https://arxiv.org/abs/2103.12115](https://arxiv.org/abs/2103.12115)
 
+**TFPose: Direct Human Pose Estimation with Transformers**
+
+- intro: The University of Adelaide & Alibaba Group
+- arxiv: [https://arxiv.org/abs/2103.15320](https://arxiv.org/abs/2103.15320)
+
 # 3D Pose
 
 **Can 3D Pose be Learned from 2D Projections Alone?**

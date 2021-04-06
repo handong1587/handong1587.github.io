@@ -381,7 +381,7 @@ extract saptio-temporal features to represent the video using the CNNs."
 
 - paper: [http://cvgl.stanford.edu/papers/tian2015.pdf](http://cvgl.stanford.edu/papers/tian2015.pdf)
 
-**Contextual Action Recognition with R*CNN**
+**Contextual Action Recognition with R CNN**
 
 - arxiv: [http://arxiv.org/abs/1505.01197](http://arxiv.org/abs/1505.01197)
 - github: [https://github.com/gkioxari/RstarCNN](https://github.com/gkioxari/RstarCNN)
@@ -660,6 +660,11 @@ extract saptio-temporal features to represent the video using the CNNs."
 **You Only Watch Once: A Unified CNN Architecture for Real-Time Spatiotemporal Action Localization**
 
 [https://arxiv.org/abs/1911.06644](https://arxiv.org/abs/1911.06644)
+
+**TubeR: Tube-Transformer for Action Detection**
+
+- intro: University of Amsterdam & Amazon Web Service
+- arxiv: [https://arxiv.org/abs/2104.00969](https://arxiv.org/abs/2104.00969)
 
 ### Projects
 

@@ -1426,6 +1426,12 @@ Deformable ConvNets v2: More Deformable, Better Results**
 - intro: ICLR 2019
 - arxiv: [https://arxiv.org/abs/1903.05134](https://arxiv.org/abs/1903.05134)
 
+**Dynamic Slimmable Network**
+
+- intro: CVPR 2021 oral
+- arxiv: [https://arxiv.org/abs/2103.13258](https://arxiv.org/abs/2103.13258)
+- github: [https://github.com/changlin31/DS-Net](https://github.com/changlin31/DS-Net)
+
 **Adaptively Connected Neural Networks**
 
 - intro: CVPR 2019

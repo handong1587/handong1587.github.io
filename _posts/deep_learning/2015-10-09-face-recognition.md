@@ -413,6 +413,11 @@ L**ow-Resolution Face Recognition**
 - project page: [https://www.face-benchmark.org/](https://www.face-benchmark.org/)
 - arxiv: [https://arxiv.org/abs/2103.04098](https://arxiv.org/abs/2103.04098)
 
+**Face Transformer for Recognition**
+
+- intro: Beijing University of Posts and Telecommunications
+- arxiv: [https://arxiv.org/abs/2103.14803](https://arxiv.org/abs/2103.14803)
+
 # Face Verification
 
 **Deep Learning Face Representation by Joint Identification-Verification**
