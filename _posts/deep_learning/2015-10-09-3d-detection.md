@@ -486,6 +486,16 @@ date: 2015-10-09
 - arxiv: [https://arxiv.org/abs/2104.00678](https://arxiv.org/abs/2104.00678)
 - github: [https://github.com/zeliu98/Group-Free-3D](https://github.com/zeliu98/Group-Free-3D)
 
+**Objects are Different: Flexible Monocular 3D Object Detection**
+
+- intro: CVPR 2021
+- arxiv: [https://arxiv.org/abs/2104.02323](https://arxiv.org/abs/2104.02323)
+- github: [https://github.com/zhangyp15/MonoFlex](https://github.com/zhangyp15/MonoFlex)
+
+**Geometry-based Distance Decomposition for Monocular 3D Object Detection**
+
+[https://arxiv.org/abs/2104.03775](https://arxiv.org/abs/2104.03775)
+
 # Anchor-free 3D Detection
 
 **Object as Hotspots: An Anchor-Free 3D Object Detection Approach via Firing of Hotspots**

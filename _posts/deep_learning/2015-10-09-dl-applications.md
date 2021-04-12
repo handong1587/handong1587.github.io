@@ -2001,6 +2001,14 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 - intro: ICCV 2019
 - arxiv: [https://arxiv.org/abs/1910.10053](https://arxiv.org/abs/1910.10053)
 
+**Learning optical flow from still images**
+
+- intro: CVPR 2021
+- intro: University of Bologna
+- project page: [https://mattpoggi.github.io/projects/cvpr2021aleotti/](https://mattpoggi.github.io/projects/cvpr2021aleotti/)
+- arxiv: [https://arxiv.org/abs/2104.03965](https://arxiv.org/abs/2104.03965)
+- github: [https://github.com/mattpoggi/depthstillation](https://github.com/mattpoggi/depthstillation)
+
 # 3D
 
 **Learning Spatiotemporal Features with 3D Convolutional Networks**

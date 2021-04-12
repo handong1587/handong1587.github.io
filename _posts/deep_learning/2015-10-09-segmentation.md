@@ -1191,6 +1191,12 @@ with built-in awareness of semantically meaningful boundaries. "
 - arxiv: [https://arxiv.org/abs/2103.13413](https://arxiv.org/abs/2103.13413)
 - github: [https://github.com/intel-isl/DPT](https://github.com/intel-isl/DPT)
 
+**InverseForm: A Loss Function for Structured Boundary-Aware Segmentation**
+
+- intro: CVPR 2021 oral
+- intro: Qualcomm AI Research
+- arxiv: [https://arxiv.org/abs/2104.02745](https://arxiv.org/abs/2104.02745)
+
 # Instance Segmentation
 
 **Simultaneous Detection and Segmentation**
@@ -1874,6 +1880,11 @@ with built-in awareness of semantically meaningful boundaries. "
 
 - intro: Johns Hopkins University & Google Research
 - arixv: [https://arxiv.org/abs/2012.00759](https://arxiv.org/abs/2012.00759)
+
+**Panoptic Segmentation Forecasting**
+
+- intro: CVPR 2021
+- arxiv: [https://arxiv.org/abs/2104.03962](https://arxiv.org/abs/2104.03962)
 
 # Face Parsing
 

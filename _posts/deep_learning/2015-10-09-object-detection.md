@@ -3039,6 +3039,11 @@ Continuation of [arXiv:1608.08021](https://arxiv.org/abs/1608.08021)
 
 [https://arxiv.org/abs/2012.06785](https://arxiv.org/abs/2012.06785)
 
+**V2F-Net: Explicit Decomposition of Occluded Pedestrian Detection**
+
+- intro: MEGVII Technology & Texas A&M University
+- arxiv: [https://arxiv.org/abs/2104.03106](https://arxiv.org/abs/2104.03106)
+
 ## Pedestrian Detection in a Crowd
 
 **Repulsion Loss: Detecting Pedestrians in a Crowd**

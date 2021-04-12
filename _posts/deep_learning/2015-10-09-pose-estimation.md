@@ -446,6 +446,11 @@ date: 2015-10-09
 - intro: The University of Adelaide & Alibaba Group
 - arxiv: [https://arxiv.org/abs/2103.15320](https://arxiv.org/abs/2103.15320)
 
+**TokenPose: Learning Keypoint Tokens for Human Pose Estimation**
+
+- intro: MEGVII Technology & Tsinghua University & Southeast University & Peng Cheng Laboratory
+- arxiv: [https://arxiv.org/abs/2104.03516](https://arxiv.org/abs/2104.03516)
+
 # 3D Pose
 
 **Can 3D Pose be Learned from 2D Projections Alone?**

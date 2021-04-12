@@ -666,6 +666,10 @@ L**ow-Resolution Face Recognition**
 - intro: University of Technology Sydney
 - arxiv: [https://arxiv.org/abs/2103.07615](https://arxiv.org/abs/2103.07615)
 
+**HIH: Towards More Accurate Face Alignment via Heatmap in Heatmap**
+
+[https://arxiv.org/abs/2104.03100](https://arxiv.org/abs/2104.03100)
+
 # Face Synthesis
 
 **Beyond Face Rotation: Global and Local Perception GAN for Photorealistic and Identity Preserving Frontal View Synthesis**
