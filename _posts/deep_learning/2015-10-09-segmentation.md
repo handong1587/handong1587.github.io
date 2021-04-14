@@ -1700,6 +1700,13 @@ with built-in awareness of semantically meaningful boundaries. "
 - intro: Meituan & The University of Adelaide
 - arxiv: [https://arxiv.org/abs/2011.14503](https://arxiv.org/abs/2011.14503)
 
+**Spatial Feature Calibration and Temporal Fusion for Effective One-stage Video Instance Segmentation**
+
+- intro: CVPR 2021
+- intro: The HongKong Polytechnic University & DAMO Academy, Alibaba Group
+- arxiv: [https://arxiv.org/abs/2104.05606](https://arxiv.org/abs/2104.05606)
+- github: [https://github.com/MinghanLi/STMask](https://github.com/MinghanLi/STMask)
+
 # Panoptic Segmentation
 
 **Panoptic Segmentation**

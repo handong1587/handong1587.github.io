@@ -230,6 +230,11 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 - intro: CVPR 2019
 - arxiv: [https://arxiv.org/abs/1904.02756](https://arxiv.org/abs/1904.02756)
 
+**Neural Camera Simulators**
+
+- intro: CVPR 2021
+- arxiv: [https://arxiv.org/abs/2104.05237](https://arxiv.org/abs/2104.05237)
+
 # Boundary / Edge / Contour Detection
 
 **Holistically-Nested Edge Detection**

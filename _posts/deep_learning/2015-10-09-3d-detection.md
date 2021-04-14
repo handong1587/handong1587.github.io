@@ -496,6 +496,14 @@ date: 2015-10-09
 
 [https://arxiv.org/abs/2104.03775](https://arxiv.org/abs/2104.03775)
 
+**Geometry-aware data augmentation for monocular 3D object detection**
+
+[https://arxiv.org/abs/2104.05858](https://arxiv.org/abs/2104.05858)
+
+**OCM3D: Object-Centric Monocular 3D Object Detection**
+
+[https://arxiv.org/abs/2104.06041](https://arxiv.org/abs/2104.06041)
+
 # Anchor-free 3D Detection
 
 **Object as Hotspots: An Anchor-Free 3D Object Detection Approach via Firing of Hotspots**
