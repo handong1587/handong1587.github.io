@@ -1,7 +1,7 @@
 ---
 layout: post
 category: deep_learning
-title: 3D Object Detection
+title: LiDAR 3D Object Detection
 date: 2015-10-09
 ---
 
@@ -503,6 +503,12 @@ date: 2015-10-09
 **OCM3D: Object-Centric Monocular 3D Object Detection**
 
 [https://arxiv.org/abs/2104.06041](https://arxiv.org/abs/2104.06041)
+
+**SE-SSD: Self-Ensembling Single-Stage Object Detector From Point Cloud**
+
+- intro: CVPR 2021
+- arxiv: [https://arxiv.org/abs/2104.09804](https://arxiv.org/abs/2104.09804)
+- github: [https://github.com/Vegeta2020/SE-SSD](https://github.com/Vegeta2020/SE-SSD)
 
 # Anchor-free 3D Detection
 

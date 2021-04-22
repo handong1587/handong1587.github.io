@@ -451,6 +451,12 @@ date: 2015-10-09
 - intro: MEGVII Technology & Tsinghua University & Southeast University & Peng Cheng Laboratory
 - arxiv: [https://arxiv.org/abs/2104.03516](https://arxiv.org/abs/2104.03516)
 
+**Pose Recognition with Cascade Transformers**
+
+- intro: CVPR 2021
+- arxiv: [https://arxiv.org/abs/2104.06976](https://arxiv.org/abs/2104.06976)
+- github: [https://github.com/mlpc-ucsd/PRTR](https://github.com/mlpc-ucsd/PRTR)
+
 # 3D Pose
 
 **Can 3D Pose be Learned from 2D Projections Alone?**

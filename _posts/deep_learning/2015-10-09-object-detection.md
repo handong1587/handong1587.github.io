@@ -1224,6 +1224,7 @@ Continuation of [arXiv:1608.08021](https://arxiv.org/abs/1608.08021)
 
 **You Only Look One-level Feature**
 
+- intro: CVPR 2021
 - arxiv: [https://arxiv.org/abs/2103.09460](https://arxiv.org/abs/2103.09460)
 - github: [https://github.com/megvii-model/YOLOF](https://github.com/megvii-model/YOLOF)
 
@@ -1252,6 +1253,12 @@ Continuation of [arXiv:1608.08021](https://arxiv.org/abs/1608.08021)
 
 - arxiv: [https://arxiv.org/abs/2103.14473](https://arxiv.org/abs/2103.14473)
 - github: [https://github.com/SJLeo/FFSD](https://github.com/SJLeo/FFSD)
+
+**IQDet: Instance-wise Quality Distribution Sampling for Object Detection**
+
+- intro: CVPR 2021
+- intro: Megvii Technology
+- arxiv: [https://arxiv.org/abs/2104.06936](https://arxiv.org/abs/2104.06936)
 
 # Two-Stage Object Detection
 
