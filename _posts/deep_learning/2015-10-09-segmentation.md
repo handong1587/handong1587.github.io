@@ -1162,8 +1162,11 @@ with built-in awareness of semantically meaningful boundaries. "
 - intro: Facebook AI & Tel Aviv University
 - arxiv: [https://arxiv.org/abs/2012.11582](https://arxiv.org/abs/2012.11582)
 
+## SETR
+
 **Rethinking Semantic Segmentation from a Sequence-to-Sequence Perspective with Transformers**
 
+- intro: CVPR 2021
 - intro: Fudan University & University of Oxford & University of Surrey & Tencent Youtu Lab & Facebook AI
 - project page: [https://fudan-zvg.github.io/SETR/](https://fudan-zvg.github.io/SETR/)
 - arxiv: [https://arxiv.org/abs/2012.15840](https://arxiv.org/abs/2012.15840)
@@ -1196,6 +1199,20 @@ with built-in awareness of semantically meaningful boundaries. "
 - intro: CVPR 2021 oral
 - intro: Qualcomm AI Research
 - arxiv: [https://arxiv.org/abs/2104.02745](https://arxiv.org/abs/2104.02745)
+
+**DANNet: A One-Stage Domain Adaptation Network for Unsupervised Nighttime Semantic Segmentation**
+
+- intro: CVPR 2021 oral
+- intro: University of South Carolina & Farsee2 Technology Ltd
+- arxiv: [https://arxiv.org/abs/2104.10834](https://arxiv.org/abs/2104.10834)
+- github: [https://github.com/W-zx-Y/DANNet](https://github.com/W-zx-Y/DANNet)
+
+**Rethinking BiSeNet For Real-time Semantic Segmentation**
+
+- intro: Meituan
+- intro: CVPR 2021
+- arxiv: [https://arxiv.org/abs/2104.13188](https://arxiv.org/abs/2104.13188)
+- github: [https://github.com/MichaelFan01/STDC-Seg](https://github.com/MichaelFan01/STDC-Seg)
 
 # Instance Segmentation
 
@@ -2322,6 +2339,11 @@ ranked 1st place in ImageNet Scene Parsing Challenge 2016
 - github(official): [https://github.com/scaelles/OSVOS-TensorFlow](https://github.com/scaelles/OSVOS-TensorFlow)
 - github(official): [https://github.com/kmaninis/OSVOS-PyTorch](https://github.com/kmaninis/OSVOS-PyTorch)
 
+**DAVIS: Densely Annotated VIdeo Segmentation**
+
+- homepage: [http://davischallenge.org/](http://davischallenge.org/)
+- arxiv: [https://arxiv.org/abs/1704.00675](https://arxiv.org/abs/1704.00675)
+
 **Video Object Segmentation Without Temporal Information**
 
 [https://arxiv.org/abs/1709.06031](https://arxiv.org/abs/1709.06031)
@@ -2469,6 +2491,22 @@ ranked 1st place in ImageNet Scene Parsing Challenge 2016
 
 [https://arxiv.org/abs/1807.09190](https://arxiv.org/abs/1807.09190)
 
+**YouTube-VOS: Sequence-to-Sequence Video Object Segmentation**
+
+- intro: ECCV 2018. Adobe Research & Snapchat Research & UIUC
+- project page:[https://youtube-vos.org/](https://youtube-vos.org/)
+- arxiv: [https://arxiv.org/abs/1809.00461](https://arxiv.org/abs/1809.00461)
+
+**VideoMatch: Matching based Video Object Segmentation**
+
+- intro: ECCV 2018
+- arxiv: [https://arxiv.org/abs/1809.01123](https://arxiv.org/abs/1809.01123)
+
+**Mask Propagation Network for Video Object Segmentation**
+
+- intro: ByteDance AI Lab
+- arxiv: [https://arxiv.org/abs/1810.10289](https://arxiv.org/abs/1810.10289)
+
 **Tukey-Inspired Video Object Segmentation**
 
 [https://arxiv.org/abs/1811.07958](https://arxiv.org/abs/1811.07958)
@@ -2600,6 +2638,12 @@ ranked 1st place in ImageNet Scene Parsing Challenge 2016
 **SG-Net: Spatial Granularity Network for One-Stage Video Instance Segmentation**
 
 [https://arxiv.org/abs/2103.10284](https://arxiv.org/abs/2103.10284)
+
+## Challenge
+
+**DAVIS Challenge on Video Object Segmentation 2017**
+
+[http://davischallenge.org/challenge2017/publications.html](http://davischallenge.org/challenge2017/publications.html)
 
 # Image Matting
 
@@ -2750,6 +2794,19 @@ ranked 1st place in ImageNet Scene Parsing Challenge 2016
 - intro: Fynd & University of Michigan
 - arxiv: [https://arxiv.org/abs/2103.12337](https://arxiv.org/abs/2103.12337)
 
+**Mask Guided Matting via Progressive Refinement Network**
+
+- intro: CVPR 2021
+- intro: The Johns Hopkins University & Adobe
+- arxiv: [https://arxiv.org/abs/2012.06722](https://arxiv.org/abs/2012.06722)
+- github: [https://github.com/yucornetto/MGMatting](https://github.com/yucornetto/MGMatting)
+
+**Privacy-Preserving Portrait Matting**
+
+- intro: The University of Sydney & JD Explore Academy
+- arxiv: [https://arxiv.org/abs/2104.14222](https://arxiv.org/abs/2104.14222)
+- github: [https://github.com/SHI-Labs/Pseudo-IoU-for-Anchor-Free-Object-Detection](https://github.com/SHI-Labs/Pseudo-IoU-for-Anchor-Free-Object-Detection)
+
 # 3D Segmentation
 
 **PointNet: Deep Learning on Point Sets for 3D Classification and Segmentation**
@@ -2790,32 +2847,14 @@ ranked 1st place in ImageNet Scene Parsing Challenge 2016
 - intro: CVPR 2020
 - arxiv: [https://arxiv.org/abs/2004.01658](https://arxiv.org/abs/2004.01658)
 
-## Challenge
+# Line Parsing
 
-**DAVIS: Densely Annotated VIdeo Segmentation**
+**Fully Convolutional Line Parsing**
 
-- homepage: [http://davischallenge.org/](http://davischallenge.org/)
-- arxiv: [https://arxiv.org/abs/1704.00675](https://arxiv.org/abs/1704.00675)
-
-**DAVIS Challenge on Video Object Segmentation 2017**
-
-[http://davischallenge.org/challenge2017/publications.html](http://davischallenge.org/challenge2017/publications.html)
-
-**YouTube-VOS: Sequence-to-Sequence Video Object Segmentation**
-
-- intro: ECCV 2018. Adobe Research & Snapchat Research & UIUC
-- project page:[https://youtube-vos.org/](https://youtube-vos.org/)
-- arxiv: [https://arxiv.org/abs/1809.00461](https://arxiv.org/abs/1809.00461)
-
-**VideoMatch: Matching based Video Object Segmentation**
-
-- intro: ECCV 2018
-- arxiv: [https://arxiv.org/abs/1809.01123](https://arxiv.org/abs/1809.01123)
-
-**Mask Propagation Network for Video Object Segmentation**
-
-- intro: ByteDance AI Lab
-- arxiv: [https://arxiv.org/abs/1810.10289(https://arxiv.org/abs/1810.10289)]
+- intro: ICCV 2021
+- intro: UESTC & UC Berkeley
+- arxiv: [https://arxiv.org/abs/2104.11207](https://arxiv.org/abs/2104.11207)
+- github(PyTorch): [https://github.com/Delay-Xili/F-Clip](https://github.com/Delay-Xili/F-Clip)
 
 # Projects
 

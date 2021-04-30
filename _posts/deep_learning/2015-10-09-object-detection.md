@@ -1912,6 +1912,18 @@ Continuation of [arXiv:1608.08021](https://arxiv.org/abs/1608.08021)
 
 [https://arxiv.org/abs/2012.13763](https://arxiv.org/abs/2012.13763)
 
+**PAFNet: An Efficient Anchor-Free Object Detector Guidance**
+
+- intro: Baidu Inc.
+- github: [https://arxiv.org/abs/2104.13534](https://arxiv.org/abs/2104.13534)
+- arxiv: [https://github.com/PaddlePaddle/PaddleDetection](https://github.com/PaddlePaddle/PaddleDetection)
+
+**Pseudo-IoU: Improving Label Assignment in Anchor-Free Object Detection**
+
+- intro: CVPR 2021 Workshop
+- intro: UIUC & MIT-IBM Watson AI Lab & IBM T.J. Watson Research Center & NVIDIA & University of Oregon & Picsart AI Research (PAIR)
+- arxiv: [https://arxiv.org/abs/2104.14082](https://arxiv.org/abs/2104.14082)
+
 # Transformers
 
 **End-to-End Object Detection with Transformers**

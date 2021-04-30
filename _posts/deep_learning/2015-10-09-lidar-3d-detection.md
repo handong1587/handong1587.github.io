@@ -510,6 +510,14 @@ date: 2015-10-09
 - arxiv: [https://arxiv.org/abs/2104.09804](https://arxiv.org/abs/2104.09804)
 - github: [https://github.com/Vegeta2020/SE-SSD](https://github.com/Vegeta2020/SE-SSD)
 
+**BEVDetNet: Bird's Eye View LiDAR Point Cloud based Real-time 3D Object Detection for Autonomous Driving**
+
+[https://arxiv.org/abs/2104.10780](https://arxiv.org/abs/2104.10780)
+
+**Exploring 2D Data Augmentation for 3D Monocular Object Detection**
+
+[https://arxiv.org/abs/2104.10786](https://arxiv.org/abs/2104.10786)
+
 # Anchor-free 3D Detection
 
 **Object as Hotspots: An Anchor-Free 3D Object Detection Approach via Firing of Hotspots**
@@ -654,6 +662,11 @@ date: 2015-10-09
 
 - intro: Tsinghua University & BNRist & Alexa AI, Amazon / Columbia University
 - arxiv: [https://arxiv.org/abs/2012.11409](https://arxiv.org/abs/2012.11409)
+
+**M3DeTR: Multi-representation, Multi-scale, Mutual-relation 3D Object Detection with Transformers**
+
+- intro: University of Maryland & Fudan University
+- arxiv: [https://arxiv.org/abs/2104.11896](https://arxiv.org/abs/2104.11896)
 
 # Projects
 

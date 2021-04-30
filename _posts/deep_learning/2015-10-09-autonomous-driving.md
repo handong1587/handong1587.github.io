@@ -201,6 +201,11 @@ joint classification, detection and semantic segmentation via a unified architec
 
 [https://arxiv.org/abs/1810.00345](https://arxiv.org/abs/1810.00345)
 
+**Multi-task Learning with Attention for End-to-end Autonomous Driving**
+
+- intro: CVPR 2021 Workshop on Autonomous Driving
+- arxiv: [https://arxiv.org/abs/2104.10753](https://arxiv.org/abs/2104.10753)
+
 # Projects
 
 **Caffe-Autopilot: Car autopilot software that uses C++, BVLC Caffe, OpenCV, and SFML**

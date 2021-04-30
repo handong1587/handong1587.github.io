@@ -235,6 +235,11 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 - intro: CVPR 2021
 - arxiv: [https://arxiv.org/abs/2104.05237](https://arxiv.org/abs/2104.05237)
 
+**Lighting the Darkness in the Deep Learning Era**
+
+- arxiv: [https://arxiv.org/abs/2104.10729](https://arxiv.org/abs/2104.10729)
+- github: [https://github.com/Li-Chongyi/Lighting-the-Darkness-in-the-Deep-Learning-Era-Open](https://github.com/Li-Chongyi/Lighting-the-Darkness-in-the-Deep-Learning-Era-Open)
+
 # Boundary / Edge / Contour Detection
 
 **Holistically-Nested Edge Detection**

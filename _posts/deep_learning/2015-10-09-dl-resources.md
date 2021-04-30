@@ -750,6 +750,11 @@ not just the convolutions)
 - intro: Boston University & IBM Research & MIT-IBM Watson AI Lab
 - arxiv: [https://arxiv.org/abs/1911.12423](https://arxiv.org/abs/1911.12423)
 
+**Exploring Relational Context for Multi-Task Dense Prediction**
+
+- intro: ETH Zurich
+- arxiv: [https://arxiv.org/abs/2104.13874](https://arxiv.org/abs/2104.13874)
+
 # Multi-modal Learning
 
 **Multimodal Deep Learning**
@@ -1554,9 +1559,10 @@ Deformable ConvNets v2: More Deformable, Better Results**
 
 **An Intriguing Failing of Convolutional Neural Networks and the CoordConv Solution**
 
-- intro: 1Uber AI Labs & Uber Technologies
+- intro: NeurIPS 2018
+- intro: Uber AI Labs & Uber Technologies
 - arxiv: [https://arxiv.org/abs/1807.03247](https://arxiv.org/abs/1807.03247)
-- github: [https://github.com/mkocabas/CoordConv-pytorch](https://github.com/mkocabas/CoordConv-pytorch)
+- github: [https://github.com/uber-research/CoordConv](https://github.com/uber-research/CoordConv)
 - youtube: [https://www.youtube.com/watch?v=8yFQc6elePA](https://www.youtube.com/watch?v=8yFQc6elePA)
 
 **Network Decoupling: From Regular to Depthwise Separable Convolutions**

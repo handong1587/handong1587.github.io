@@ -666,6 +666,10 @@ extract saptio-temporal features to represent the video using the CNNs."
 - intro: University of Amsterdam & Amazon Web Service
 - arxiv: [https://arxiv.org/abs/2104.00969](https://arxiv.org/abs/2104.00969)
 
+**Revisiting Skeleton-based Action Recognition**
+
+[https://arxiv.org/abs/2104.13586](https://arxiv.org/abs/2104.13586)
+
 ### Projects
 
 **A Torch Library for Action Recognition and Detection Using CNNs and LSTMs**

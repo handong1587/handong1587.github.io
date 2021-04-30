@@ -517,6 +517,11 @@ date: 2015-10-09
 - intro: Tsinghua University & AiFi Inc.
 - arxiv: [https://arxiv.org/abs/2003.03972](https://arxiv.org/abs/2003.03972)
 
+**Skeletor: Skeletal Transformers for Robust Body-Pose Estimation**
+
+- intro: University of Surrey
+- arxiv: [https://arxiv.org/abs/2104.11712](https://arxiv.org/abs/2104.11712)
+
 # 3D Car keypoints Detection
 
 **Occlusion-Net: 2D/3D Occluded Keypoint Localization Using Graph Networks**
