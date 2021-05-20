@@ -551,6 +551,11 @@ not just the convolutions)
 - intro: National University of Singapore & ByteDance US AI Lab
 - arxiv: [https://arxiv.org/abs/2103.11886](https://arxiv.org/abs/2103.11886)
 
+**Rethinking the Design Principles of Robust Vision Transformer**
+
+- arxiv: [https://arxiv.org/abs/2105.07926](https://arxiv.org/abs/2105.07926)
+- github: [https://github.com/vtddggg/Robust-Vision-Transformer](https://github.com/vtddggg/Robust-Vision-Transformer)
+
 # Semi-Supervised Learning
 
 **Semi-Supervised Learning with Graphs**
@@ -1923,11 +1928,6 @@ Deformable ConvNets v2: More Deformable, Better Results**
 **XNOR.ai frees AI from the prison of the supercomputer**
 
 - blog: [https://techcrunch.com/2017/01/19/xnor-ai-frees-ai-from-the-prison-of-the-supercomputer/](https://techcrunch.com/2017/01/19/xnor-ai-frees-ai-from-the-prison-of-the-supercomputer/)
-
-**Embedded Deep Learning with NVIDIA Jetson**
-
-- youtube: [https://www.youtube.com/watch?v=_4tzlXPQWb8](https://www.youtube.com/watch?v=_4tzlXPQWb8)
-- mirror: [https://pan.baidu.com/s/1pKCDXkZ](https://pan.baidu.com/s/1pKCDXkZ)
 
 **Embedded and mobile deep learning research resources**
 

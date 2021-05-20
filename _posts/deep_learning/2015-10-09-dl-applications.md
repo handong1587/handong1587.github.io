@@ -2095,6 +2095,13 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 - arxiv: [http://arxiv.org/abs/1604.00449](http://arxiv.org/abs/1604.00449)
 - github: [https://github.com/chrischoy/3D-R2N2](https://github.com/chrischoy/3D-R2N2)
 
+**Body Meshes as Points**
+
+- intro: CVPR 2021
+- intro: National University of Singapore & ByteDance AI Lab & Yitu Technology
+- arxiv: [https://arxiv.org/abs/2105.02467](https://arxiv.org/abs/2105.02467)
+- github: [https://github.com/jfzhang95/BMP](https://github.com/jfzhang95/BMP)
+
 # Deep Learning for Makeup
 
 **Makeup like a superstar: Deep Localized Makeup Transfer Network**

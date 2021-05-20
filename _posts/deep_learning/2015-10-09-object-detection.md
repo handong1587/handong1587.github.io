@@ -3054,6 +3054,11 @@ Continuation of [arXiv:1608.08021](https://arxiv.org/abs/1608.08021)
 - arxiv: [https://arxiv.org/abs/2008.08418](https://arxiv.org/abs/2008.08418)
 - github: [https://github.com/HensoldtOptronicsCV/MultispectralPedestrianDetection](https://github.com/HensoldtOptronicsCV/MultispectralPedestrianDetection)
 
+**LLA: Loss-aware Label Assignment for Dense Pedestrian Detection**
+
+- arxiv: [https://arxiv.org/abs/2101.04307](https://arxiv.org/abs/2101.04307)
+- github: [https://github.com/Megvii-BaseDetection/LLA](https://github.com/Megvii-BaseDetection/LLA)
+
 **DETR for Pedestrian Detection**
 
 [https://arxiv.org/abs/2012.06785](https://arxiv.org/abs/2012.06785)
@@ -3097,6 +3102,12 @@ Continuation of [arXiv:1608.08021](https://arxiv.org/abs/1608.08021)
 **Semantic Head Enhanced Pedestrian Detection in a Crowd**
 
 [https://arxiv.org/abs/1911.11985](https://arxiv.org/abs/1911.11985)
+
+**Detection in Crowded Scenes: One Proposal, Multiple Predictions**
+
+- intro: CVPR 2020 Oral
+- arxiv: [https://arxiv.org/abs/2003.09163](https://arxiv.org/abs/2003.09163)
+- github: [https://github.com/Purkialo/CrowdDet](https://github.com/Purkialo/CrowdDet)
 
 **Visible Feature Guidance for Crowd Pedestrian Detection**
 

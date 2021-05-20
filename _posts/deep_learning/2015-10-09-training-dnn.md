@@ -387,6 +387,11 @@ date: 2015-10-09
 - openreview: [https://openreview.net/forum?id=SkgGjRVKDS](https://openreview.net/forum?id=SkgGjRVKDS)
 - github(official, Pytorch): [https://github.com/megvii-model/MABN](https://github.com/megvii-model/MABN)
 
+**Rethinking “Batch” in BatchNorm**
+
+- intro: Facebook AI Research
+- arxiv: [https://arxiv.org/abs/2105.07576](https://arxiv.org/abs/2105.07576)
+
 ### Backward pass of BN
 
 **Understanding the backward pass through Batch Normalization Layer**

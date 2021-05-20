@@ -641,6 +641,11 @@ date: 2015-10-09
 
 [https://arxiv.org/abs/2103.07351](https://arxiv.org/abs/2103.07351)
 
+**Lite-FPN for Keypoint-based Monocular 3D Object Detection**
+
+- arxiv: [https://arxiv.org/abs/2105.00268](https://arxiv.org/abs/2105.00268)
+- github: [https://github.com/yanglei18/Lite-FPN](https://github.com/yanglei18/Lite-FPN)
+
 # Transformer
 
 **Point Transformer**

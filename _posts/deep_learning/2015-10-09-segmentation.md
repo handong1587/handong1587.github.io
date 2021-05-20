@@ -1214,6 +1214,12 @@ with built-in awareness of semantically meaningful boundaries. "
 - arxiv: [https://arxiv.org/abs/2104.13188](https://arxiv.org/abs/2104.13188)
 - github: [https://github.com/MichaelFan01/STDC-Seg](https://github.com/MichaelFan01/STDC-Seg)
 
+**Segmenter: Transformer for Semantic Segmentation**
+
+- intro: Inria
+- arxiv: [https://arxiv.org/abs/2105.05633](https://arxiv.org/abs/2105.05633)
+- github: [https://github.com/rstrudel/segmenter](https://github.com/rstrudel/segmenter)
+
 # Instance Segmentation
 
 **Simultaneous Detection and Segmentation**
@@ -1519,10 +1525,21 @@ with built-in awareness of semantically meaningful boundaries. "
 
 [https://arxiv.org/abs/1912.06218](https://arxiv.org/abs/1912.06218)
 
+**YolactEdge: Real-time Instance Segmentation on the Edge**
+
+- arxiv: [https://arxiv.org/abs/2012.12259](https://arxiv.org/abs/2012.12259)
+- github: [https://github.com/haotian-liu/yolact_edge](https://github.com/haotian-liu/yolact_edge)
+
 **PolarMask: Single Shot Instance Segmentation with Polar Representation**
 
 - intro: CVPR 2020
 - arxiv: [https://arxiv.org/abs/1909.13226](https://arxiv.org/abs/1909.13226)
+- github: [https://github.com/xieenze/PolarMask](https://github.com/xieenze/PolarMask)
+
+**PolarMask++: Enhanced Polar Representation for Single-Shot Instance Segmentation and Beyond**
+
+- intro: TPAMI 2021
+- arxiv: [https://arxiv.org/abs/2105.02184](https://arxiv.org/abs/2105.02184)
 - github: [https://github.com/xieenze/PolarMask](https://github.com/xieenze/PolarMask)
 
 **CenterMask : Real-Time Anchor-Free Instance Segmentation**
@@ -1669,6 +1686,11 @@ with built-in awareness of semantically meaningful boundaries. "
 
 - intro: CVPR 2021
 - arxiv: [https://arxiv.org/abs/2104.00073](https://arxiv.org/abs/2104.00073)
+
+**ISTR: End-to-End Instance Segmentation with Transformers**
+
+- arxiv: [https://arxiv.org/abs/2105.00637](https://arxiv.org/abs/2105.00637)
+- github: [https://github.com/hujiecpp/ISTR](https://github.com/hujiecpp/ISTR)
 
 ## Human Instance Segmentation
 
@@ -1909,6 +1931,14 @@ with built-in awareness of semantically meaningful boundaries. "
 
 - intro: CVPR 2021
 - arxiv: [https://arxiv.org/abs/2104.03962](https://arxiv.org/abs/2104.03962)
+
+**Exemplar-Based Open-Set Panoptic Segmentation Network**
+
+- intro: CVPR 2021
+- intro: Seoul National University & Adobe Research
+- project page: [https://cv.snu.ac.kr/research/EOPSN/](https://cv.snu.ac.kr/research/EOPSN/)
+- arxiv: [https://arxiv.org/abs/2105.08336](https://arxiv.org/abs/2105.08336)
+- github: [https://github.com/jd730/EOPSN](https://github.com/jd730/EOPSN)
 
 # Face Parsing
 
@@ -2291,6 +2321,10 @@ ranked 1st place in ImageNet Scene Parsing Challenge 2016
 - intro: BUPT & Institute of Automation Chinese Academy of Sciences & 3Noah’s Ark Lab
 - arxiv: [https://arxiv.org/abs/2103.05997](https://arxiv.org/abs/2103.05997)
 - github(Pytorch): [https://github.com/soeaver/QANet](https://github.com/soeaver/QANet)
+
+**End-to-end One-shot Human Parsing**
+
+[https://arxiv.org/abs/2105.01241](https://arxiv.org/abs/2105.01241)
 
 # Joint Detection and Segmentation
 
@@ -2740,6 +2774,12 @@ ranked 1st place in ImageNet Scene Parsing Challenge 2016
 - project page: [https://grail.cs.washington.edu/projects/background-matting-v2/](https://grail.cs.washington.edu/projects/background-matting-v2/)
 - arxiv: [https://arxiv.org/abs/2012.07810](https://arxiv.org/abs/2012.07810)
 - github: [https://github.com/PeterL1n/BackgroundMattingV2](https://github.com/PeterL1n/BackgroundMattingV2)
+
+**Deep Video Matting via Spatio-Temporal Alignment and Aggregation**
+
+- intro: CVPR 2021
+- arxiv: [https://arxiv.org/abs/2104.11208](https://arxiv.org/abs/2104.11208)
+- github: [https://github.com/nowsyn/DVM](https://github.com/nowsyn/DVM)
 
 ## trimap-free matting
 
