@@ -583,6 +583,12 @@ date: 2015-10-09
 - intro: Brown University & NEC Labs America
 - arxiv: [https://arxiv.org/abs/1912.02323](https://arxiv.org/abs/1912.02323)
 
+**Learning Dynamics via Graph Neural Networks for Human Pose Estimation and Tracking**
+
+- intro: CVPR 2021
+- intro: Stevens Institute of Technology & Wormpex AI Research & National University of Singapore
+- arxiv: [https://arxiv.org/abs/2106.03772](https://arxiv.org/abs/2106.03772)
+
 # Object Pose Estimation
 
 **Real-Time Object Pose Estimation with Pose Interpreter Networks**

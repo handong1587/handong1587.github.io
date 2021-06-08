@@ -325,6 +325,13 @@ date: 2015-10-09
 - intro: Fudan University, Carnegie Mellon University, Qiniu Inc., ByteDance AI Lab
 - arxiv: [https://arxiv.org/abs/1811.07519](https://arxiv.org/abs/1811.07519)
 
+**TSM: Temporal Shift Module for Efficient Video Understanding**
+
+- intro: ICCV 2019
+- intro: MIT & MIT-IBM Watson AI Lab
+- arxiv: [https://arxiv.org/abs/1811.08383](https://arxiv.org/abs/1811.08383)
+- github: [https://github.com/mit-han-lab/temporal-shift-module](https://github.com/mit-han-lab/temporal-shift-module)
+
 **SlowFast Networks for Video Recognition**
 
 - intro: Facebook AI Research (FAIR)

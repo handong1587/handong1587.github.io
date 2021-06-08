@@ -1260,6 +1260,21 @@ Continuation of [arXiv:1608.08021](https://arxiv.org/abs/1608.08021)
 - intro: Megvii Technology
 - arxiv: [https://arxiv.org/abs/2104.06936](https://arxiv.org/abs/2104.06936)
 
+**You Only Look at One Sequence: Rethinking Transformer in Vision through Object Detection**
+
+- intro: Huazhong University of Science & Technology, Horizon Robotics
+- arxiv: [https://arxiv.org/abs/2106.00666](https://arxiv.org/abs/2106.00666)
+- github: [https://github.com/hustvl/YOLOS](https://github.com/hustvl/YOLOS)
+
+**Augmenting Anchors by the Detector Itself**
+
+[https://arxiv.org/abs/2105.14086](https://arxiv.org/abs/2105.14086)
+
+**Rethinking Training from Scratch for Object Detection**
+
+- intro: Zhejiang University
+- arxiv: [https://arxiv.org/abs/2106.03112](https://arxiv.org/abs/2106.03112)
+
 # Two-Stage Object Detection
 
 ## R-CNN
@@ -1967,6 +1982,11 @@ Continuation of [arXiv:1608.08021](https://arxiv.org/abs/1608.08021)
 - intro: Megvii Technology
 - arxiv: [https://arxiv.org/abs/2104.01318](https://arxiv.org/abs/2104.01318)
 
+**Oriented Object Detection with Transformer**
+
+- intro: University at Buffalo & Beihang University & Baidu Inc
+- arxiv: [https://arxiv.org/abs/2106.03146](https://arxiv.org/abs/2106.03146)
+
 # Non-Maximum Suppression (NMS)
 
 **End-to-End Integration of a Convolutional Network, Deformable Parts Model and Non-Maximum Suppression**
@@ -2345,6 +2365,11 @@ Continuation of [arXiv:1608.08021](https://arxiv.org/abs/1608.08021)
 
 - intro: Beihang University & Capital Normal University & The University of Hong Kong & Baidu, Inc.
 - arxiv: [https://arxiv.org/abs/2010.12573](https://arxiv.org/abs/2010.12573)
+
+**End-to-End Video Object Detection with Spatial-Temporal Transformers**
+
+- arxiv: [https://arxiv.org/abs/2105.10920](https://arxiv.org/abs/2105.10920)
+- github: [https://github.com/SJTU-LuHe/TransVOD](https://github.com/SJTU-LuHe/TransVOD)
 
 # Object Detection on Mobile Devices
 

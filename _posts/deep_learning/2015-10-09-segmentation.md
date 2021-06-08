@@ -1182,6 +1182,12 @@ with built-in awareness of semantically meaningful boundaries. "
 
 [https://arxiv.org/abs/2102.02696](https://arxiv.org/abs/2102.02696)
 
+**Learning Statistical Texture for Semantic Segmentation**
+
+- intro: CVPR 2021
+- intro: Beihang University & SenseTime Research
+- arxiv: [https://arxiv.org/abs/2103.04133](https://arxiv.org/abs/2103.04133)
+
 **Cross-Dataset Collaborative Learning for Semantic Segmentation**
 
 - intro: CVPR 2021
@@ -1219,6 +1225,10 @@ with built-in awareness of semantically meaningful boundaries. "
 - intro: Inria
 - arxiv: [https://arxiv.org/abs/2105.05633](https://arxiv.org/abs/2105.05633)
 - github: [https://github.com/rstrudel/segmenter](https://github.com/rstrudel/segmenter)
+
+**SegFormer: Simple and Efficient Design for Semantic Segmentation with Transformers**
+
+[https://arxiv.org/abs/2105.15203](https://arxiv.org/abs/2105.15203)
 
 # Instance Segmentation
 
@@ -1691,6 +1701,20 @@ with built-in awareness of semantically meaningful boundaries. "
 
 - arxiv: [https://arxiv.org/abs/2105.00637](https://arxiv.org/abs/2105.00637)
 - github: [https://github.com/hujiecpp/ISTR](https://github.com/hujiecpp/ISTR)
+
+**Deep Occlusion-Aware Instance Segmentation with Overlapping BiLayers**
+
+- intro: CVPR 2021
+- intro: The Hong Kong University of Science and Technology & Kuaishou Technology
+- keywords: BCNet
+- arxiv: [https://arxiv.org/abs/2103.12340](https://arxiv.org/abs/2103.12340)
+- github: [https://github.com/lkeab/BCNet](https://github.com/lkeab/BCNet)
+
+**SOLQ: Segmenting Objects by Learning Queries**
+
+- intro: MEGVII Technology
+- arxiv: [https://arxiv.org/abs/2106.02351](https://arxiv.org/abs/2106.02351)
+- github: [https://github.com/megvii-research/SOLQ](https://github.com/megvii-research/SOLQ)
 
 ## Human Instance Segmentation
 

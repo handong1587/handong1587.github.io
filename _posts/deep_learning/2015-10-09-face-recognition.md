@@ -418,6 +418,19 @@ L**ow-Resolution Face Recognition**
 - intro: Beijing University of Posts and Telecommunications
 - arxiv: [https://arxiv.org/abs/2103.14803](https://arxiv.org/abs/2103.14803)
 
+**MagFace: A Universal Representation for Face Recognition and Quality Assessment**
+
+- intro: CVPR 2021 oral
+- intro: Algorithm Research, Aibee Inc.
+- arxiv: [https://arxiv.org/abs/2103.06627](https://arxiv.org/abs/2103.06627)
+- github: [https://github.com/IrvingMeng/MagFace](https://github.com/IrvingMeng/MagFace)
+
+**Dynamic Class Queue for Large Scale Face Recognition In the Wild**
+
+- intro: CVPR 2021
+- arxiv: [https://arxiv.org/abs/2105.11113](https://arxiv.org/abs/2105.11113)
+- github: [https://github.com/bilylee/DCQ](https://github.com/bilylee/DCQ)
+
 # Face Verification
 
 **Deep Learning Face Representation by Joint Identification-Verification**
