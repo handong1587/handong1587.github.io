@@ -803,6 +803,11 @@ at INT8 deep learning operations than other FPGA DSP architectures"
 - intro: Machine Intelligence Technology Lab, Alibaba Group
 - arxiv: [https://arxiv.org/abs/2102.04782](https://arxiv.org/abs/2102.04782)
 
+**Distance-aware Quantization**
+
+- intro: ICCV 2021
+- arxiv: [https://arxiv.org/abs/2108.06983](https://arxiv.org/abs/2108.06983)
+
 # Binary Convolutional Neural Networks / Binarized Neural Networks
 
 **BinaryNet: Training Deep Neural Networks with Weights and Activations Constrained to +1 or -1**

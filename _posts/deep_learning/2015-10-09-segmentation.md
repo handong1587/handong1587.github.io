@@ -1230,6 +1230,22 @@ with built-in awareness of semantically meaningful boundaries. "
 
 [https://arxiv.org/abs/2105.15203](https://arxiv.org/abs/2105.15203)
 
+**Per-Pixel Classification is Not All You Need for Semantic Segmentation**
+
+- keywords: UIUC & FAIR
+- project page: [https://bowenc0221.github.io/maskformer/](https://bowenc0221.github.io/maskformer/)
+- arxiv: [https://arxiv.org/abs/2107.06278](https://arxiv.org/abs/2107.06278)
+
+**A Unified Efficient Pyramid Transformer for Semantic Segmentation**
+
+- intro: School of Data Science, Fudan University & Amazon Web Services & University of California, Davis
+- arxiv: [https://arxiv.org/abs/2107.14209](https://arxiv.org/abs/2107.14209)
+
+**Deep Metric Learning for Open World Semantic Segmentation**
+
+- intro: ICCV 2021
+- arxiv: [https://arxiv.org/abs/2108.04562](https://arxiv.org/abs/2108.04562)
+
 # Instance Segmentation
 
 **Simultaneous Detection and Segmentation**
@@ -1593,6 +1609,11 @@ with built-in awareness of semantically meaningful boundaries. "
 - arxiv: [https://arxiv.org/abs/2003.10152](https://arxiv.org/abs/2003.10152)
 - github: [https://github.com/aim-uofa/AdelaiDet/](https://github.com/aim-uofa/AdelaiDet/)
 
+**SOLO: A Simple Framework for Instance Segmentation**
+
+- arxiv: [https://arxiv.org/abs/2106.15947](https://arxiv.org/abs/2106.15947)
+- github: [https://github.com/aim-uofa/AdelaiDet/](https://github.com/aim-uofa/AdelaiDet/)
+
 **RDSNet: A New Deep Architecture for Reciprocal Object Detection and Instance Segmentation**
 
 - intro: AAAI 2020
@@ -1716,6 +1737,29 @@ with built-in awareness of semantically meaningful boundaries. "
 - arxiv: [https://arxiv.org/abs/2106.02351](https://arxiv.org/abs/2106.02351)
 - github: [https://github.com/megvii-research/SOLQ](https://github.com/megvii-research/SOLQ)
 
+**1st Place Solution for YouTubeVOS Challenge 2021:Video Instance Segmentation**
+
+- intro: CPVR 2021 Workshop
+- arxiv: [https://arxiv.org/abs/2106.06649](https://arxiv.org/abs/2106.06649)
+
+**Rank & Sort Loss for Object Detection and Instance Segmentation**
+
+- intro: ICCV 2021 Oral
+- arxiv: [https://arxiv.org/abs/2107.11669](https://arxiv.org/abs/2107.11669)
+- github: [https://github.com/kemaloksuz/RankSortLoss](https://github.com/kemaloksuz/RankSortLoss)
+
+**SOTR: Segmenting Objects with Transformers**
+
+- intro: ICCV 2021
+- arxiv: [https://arxiv.org/abs/2108.06747](https://arxiv.org/abs/2108.06747)
+- github: [https://github.com/easton-cau/SOTR](https://github.com/easton-cau/SOTR)
+
+**FaPN: Feature-aligned Pyramid Network for Dense Image Prediction**
+
+- intro: ICCV 2021
+- arxiv: [https://arxiv.org/abs/2108.07058](https://arxiv.org/abs/2108.07058)
+- github: [https://github.com/EMI-Group/FaPN](https://github.com/EMI-Group/FaPN)
+
 ## Human Instance Segmentation
 
 **PersonLab: Person Pose Estimation and Instance Segmentation with a Bottom-Up, Part-Based, Geometric Embedding Model**
@@ -1769,6 +1813,11 @@ with built-in awareness of semantically meaningful boundaries. "
 - intro: The HongKong Polytechnic University & DAMO Academy, Alibaba Group
 - arxiv: [https://arxiv.org/abs/2104.05606](https://arxiv.org/abs/2104.05606)
 - github: [https://github.com/MinghanLi/STMask](https://github.com/MinghanLi/STMask)
+
+**Tracking Instances as Queries**
+
+- intro: HUST & Tencent PCG
+- arxiv: [https://arxiv.org/abs/2106.11963](https://arxiv.org/abs/2106.11963)
 
 # Panoptic Segmentation
 
@@ -1963,6 +2012,17 @@ with built-in awareness of semantically meaningful boundaries. "
 - project page: [https://cv.snu.ac.kr/research/EOPSN/](https://cv.snu.ac.kr/research/EOPSN/)
 - arxiv: [https://arxiv.org/abs/2105.08336](https://arxiv.org/abs/2105.08336)
 - github: [https://github.com/jd730/EOPSN](https://github.com/jd730/EOPSN)
+
+**Hierarchical Lovász Embeddings for Proposal-free Panoptic Segmentation**
+
+- intro: CVPR 2021
+- arxiv: [https://arxiv.org/abs/2106.04555](https://arxiv.org/abs/2106.04555)
+
+P**art-aware Panoptic Segmentation**
+
+- intro: CVPR 2021
+- arxiv: [https://arxiv.org/abs/2106.06351](https://arxiv.org/abs/2106.06351)
+- github: [https://github.com/tue-mps/panoptic_parts](https://github.com/tue-mps/panoptic_parts)
 
 # Face Parsing
 
@@ -2677,6 +2737,13 @@ ranked 1st place in ImageNet Scene Parsing Challenge 2016
 
 - intro: University of Cambridge
 - arxiv: [https://arxiv.org/abs/1912.08969](https://arxiv.org/abs/1912.08969)
+
+**Efficient Semantic Video Segmentation with Per-frame Inference**
+
+- intro: ECCV 2020
+- intro: The University of Adelaide & Huazhong University of Science and Technology & Microsoft Research
+- arxiv: [https://arxiv.org/abs/2002.11433](https://arxiv.org/abs/2002.11433)
+- github: [https://github.com/irfanICMLL/ETC-Real-time-Per-frame-Semantic-video-segmentation](https://github.com/irfanICMLL/ETC-Real-time-Per-frame-Semantic-video-segmentation)
 
 **State-Aware Tracker for Real-Time Video Object Segmentation**
 

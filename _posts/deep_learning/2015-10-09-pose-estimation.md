@@ -457,6 +457,40 @@ date: 2015-10-09
 - arxiv: [https://arxiv.org/abs/2104.06976](https://arxiv.org/abs/2104.06976)
 - github: [https://github.com/mlpc-ucsd/PRTR](https://github.com/mlpc-ucsd/PRTR)
 
+**Bottom-Up Human Pose Estimation Via Disentangled Keypoint Regression**
+
+- intro: CVPR 2021
+- keywords: DEKR
+- intro: University of Science and Technology of China & University of Chinese Academy of Sciences & Microsof
+- arxiv: [https://arxiv.org/abs/2104.02300](https://arxiv.org/abs/2104.02300)
+- github: [https://github.com/HRNet/DEKR](https://github.com/HRNet/DEKR)
+
+**Is 2D Heatmap Representation Even Necessary for Human Pose Estimation?**
+
+- intro: Tsinghua University & MEGVII Technology & Southeast University & Peng Cheng Laboratory
+- arxiv: [https://arxiv.org/abs/2107.03332](https://arxiv.org/abs/2107.03332)
+- github: [https://github.com/leeyegy/SimDR](https://github.com/leeyegy/SimDR)
+
+**InsPose: Instance-Aware Networks for Single-Stage Multi-Person Pose Estimation**
+
+- intro: ACM MM 2021
+- arxiv: [https://arxiv.org/abs/2107.08982](https://arxiv.org/abs/2107.08982)
+
+**Adaptive Dilated Convolution For Human Pose Estimation**
+
+- intro: Megvii & UCAS & CRIPAC & NLPR & CASIA
+- arxiv: [https://arxiv.org/abs/2107.10477](https://arxiv.org/abs/2107.10477)
+
+**PoseDet: Fast Multi-Person Pose Estimation Using Pose Embedding**
+
+- intro: Tsinghua University & Northwestern University
+- arxiv: [https://arxiv.org/abs/2107.10466](https://arxiv.org/abs/2107.10466)
+
+**Online Knowledge Distillation for Efficient Pose Estimation**
+
+- intro: ICCV 2021
+- arxiv: [https://arxiv.org/abs/2108.02092](https://arxiv.org/abs/2108.02092)
+
 # 3D Pose
 
 **Can 3D Pose be Learned from 2D Projections Alone?**

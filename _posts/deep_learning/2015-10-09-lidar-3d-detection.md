@@ -518,6 +518,18 @@ date: 2015-10-09
 
 [https://arxiv.org/abs/2104.10786](https://arxiv.org/abs/2104.10786)
 
+**Investigating Attention Mechanism in 3D Point Cloud Object Detection**
+
+- intro: Australian National University & Data61-CSIRO, Australia & University of Technology Sydney & Nanyang Technological University
+- arxiv: [https://arxiv.org/abs/2108.00620](https://arxiv.org/abs/2108.00620)
+- github: [https://github.com/ShiQiu0419/attentions_in_3D_detection](https://github.com/ShiQiu0419/attentions_in_3D_detection)
+
+**Progressive Coordinate Transforms for Monocular 3D Object Detection**
+
+- intro: Fudan University & Amazon Inc.
+- arxiv: [https://arxiv.org/abs/2108.05793](https://arxiv.org/abs/2108.05793)
+- github: [https://github.com/amazon-research/progressive-coordinate-transforms](https://github.com/amazon-research/progressive-coordinate-transforms)
+
 # Anchor-free 3D Detection
 
 **Object as Hotspots: An Anchor-Free 3D Object Detection Approach via Firing of Hotspots**
@@ -538,6 +550,12 @@ date: 2015-10-09
 - intro: CVPR Workshop 2020
 - intro: Baseline detector for the 1st place solutions of Waymo Open Dataset Challenges 2020
 - arxiv: [https://arxiv.org/abs/2006.12671](https://arxiv.org/abs/2006.12671)
+
+**Real-Time Anchor-Free Single-Stage 3D Detection with IoU-Awareness**
+
+- intro: Horizon Robotics
+- keywords: AFDetV2
+- arxiv: [https://arxiv.org/abs/2107.14342](https://arxiv.org/abs/2107.14342)
 
 **1st Place Solution for Waymo Open Dataset Challenge -- 3D Detection and Domain Adaptation**
 
@@ -599,6 +617,12 @@ date: 2015-10-09
 - intro: University of Trento & Fondazione Bruno Kessler & Facebook
 - arxiv: [https://arxiv.org/abs/2012.05796](https://arxiv.org/abs/2012.05796)
 
+**Is Pseudo-Lidar needed for Monocular 3D Object detection?**
+
+- intro: ICCV 2021
+- intro: Toyota Research Institute
+- arxiv: [https://arxiv.org/abs/2108.06417](https://arxiv.org/abs/2108.06417)
+
 # 3D Detection and Tracking
 
 **Joint Monocular 3D Vehicle Detection and Tracking**
@@ -625,6 +649,11 @@ date: 2015-10-09
 - intro: University of Michigan
 - arxiv: [https://arxiv.org/abs/2011.02553](https://arxiv.org/abs/2011.02553)
 
+**Joint Multi-Object Detection and Tracking with Camera-LiDAR Fusion for Autonomous Driving**
+
+- intro: IROS 2021
+- arxiv: [https://arxiv.org/abs/2108.04602](https://arxiv.org/abs/2108.04602)
+
 # 3D MOT
 
 **AutoSelect: Automatic and Dynamic Detection Selection for 3D Multi-Object Tracking**
@@ -645,6 +674,21 @@ date: 2015-10-09
 
 - arxiv: [https://arxiv.org/abs/2105.00268](https://arxiv.org/abs/2105.00268)
 - github: [https://github.com/yanglei18/Lite-FPN](https://github.com/yanglei18/Lite-FPN)
+
+**RSN: Range Sparse Net for Efficient, Accurate LiDAR 3D Object Detection**
+
+- intro: CVPR 2021
+- intro: Waymo LLC & Google
+- arxiv: [https://arxiv.org/abs/2106.13365](https://arxiv.org/abs/2106.13365)
+
+**VIN: Voxel-based Implicit Network for Joint 3D Object Detection and Segmentation for Lidars**
+
+[https://arxiv.org/abs/2107.02980](https://arxiv.org/abs/2107.02980)
+
+**Geometry Uncertainty Projection Network for Monocular 3D Object Detection**
+
+- intro: ICCV 2021
+- arxiv: [https://arxiv.org/abs/2107.13774](https://arxiv.org/abs/2107.13774)
 
 # Transformer
 

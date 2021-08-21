@@ -842,6 +842,12 @@ Continuation of [arXiv:1608.08021](https://arxiv.org/abs/1608.08021)
 - arxiv: [https://arxiv.org/abs/1904.07850](https://arxiv.org/abs/1904.07850)
 - github: [https://github.com/xingyizhou/CenterNet](https://github.com/xingyizhou/CenterNet)
 
+**MultiTask-CenterNet (MCN): Efficient and Diverse Multitask Learning using an Anchor Free Approach**
+
+- intro: ICCV 2021
+- intro: ZF Friedrichshafen AG, Artificial Intelligence Lab
+- arxiv: [https://arxiv.org/abs/2108.05060](https://arxiv.org/abs/2108.05060)
+
 **CenterNet: Object Detection with Keypoint Triplets**
 
 **CenterNet: Keypoint Triplets for Object Detection**
@@ -966,6 +972,11 @@ Continuation of [arXiv:1608.08021](https://arxiv.org/abs/1608.08021)
 - paper: [https://aaai.org/Papers/AAAI/2020GB/AAAI-LiuY.1833.pdf](https://aaai.org/Papers/AAAI/2020GB/AAAI-LiuY.1833.pdf)
 - github(Caffe2): [https://github.com/PKUbahuangliuhe/CBNet](https://github.com/PKUbahuangliuhe/CBNet)
 - github(mmdetection): [https://github.com/VDIGPKU/CBNet](https://github.com/VDIGPKU/CBNet)
+
+**CBNetV2: A Composite Backbone Network Architecture for Object Detection**
+
+- arxiv: [https://arxiv.org/abs/2107.00420](https://arxiv.org/abs/2107.00420)
+- github: [https://github.com/VDIGPKU/CBNetV2](https://github.com/VDIGPKU/CBNetV2)
 
 **A System-Level Solution for Low-Power Object Detection**
 
@@ -1233,6 +1244,12 @@ Continuation of [arXiv:1608.08021](https://arxiv.org/abs/1608.08021)
 - arxiv: [https://arxiv.org/abs/2103.11636](https://arxiv.org/abs/2103.11636)
 - github: [https://github.com/ming71/RIDet](https://github.com/ming71/RIDet)
 
+**Dynamic Anchor Learning for Arbitrary-Oriented Object Detection**
+
+- intro: AAAI 2021
+- arxiv: [https://arxiv.org/abs/2012.04150](https://arxiv.org/abs/2012.04150)
+- github: [https://github.com/ming71/DAL](https://github.com/ming71/DAL)
+
 **Control Distance IoU and Control Distance IoU Loss Function for Better Bounding Box Regression**
 
 [https://arxiv.org/abs/2103.11696](https://arxiv.org/abs/2103.11696)
@@ -1274,6 +1291,19 @@ Continuation of [arXiv:1608.08021](https://arxiv.org/abs/1608.08021)
 
 - intro: Zhejiang University
 - arxiv: [https://arxiv.org/abs/2106.03112](https://arxiv.org/abs/2106.03112)
+
+**Dynamic Head: Unifying Object Detection Heads with Attentions**
+
+- intro: CVPR 2021
+- intro: Microsoft
+- arxiv: [https://arxiv.org/abs/2106.08322](https://arxiv.org/abs/2106.08322)
+- github: [https://github.com/microsoft/DynamicHead](https://github.com/microsoft/DynamicHead)
+
+**Disentangle Your Dense Object Detector**
+
+- intro: ACM MM 2021
+- arxiv: [https://arxiv.org/abs/2107.02963](https://arxiv.org/abs/2107.02963)
+- github: [https://github.com/zehuichen123/DDOD](https://github.com/zehuichen123/DDOD)
 
 # Two-Stage Object Detection
 
@@ -1609,6 +1639,12 @@ Continuation of [arXiv:1608.08021](https://arxiv.org/abs/1608.08021)
 - arxiv: [https://arxiv.org/abs/2004.10934](https://arxiv.org/abs/2004.10934)
 - github: [https://github.com/AlexeyAB/darknet](https://github.com/AlexeyAB/darknet)
 
+**YOLOX: Exceeding YOLO Series in 2021**
+
+- intro: Megvii Technology
+- arxiv: [https://arxiv.org/abs/2107.08430](https://arxiv.org/abs/2107.08430)
+- github: [https://github.com/Megvii-BaseDetection/YOLOX](https://github.com/Megvii-BaseDetection/YOLOX)
+
 ## SSD
 
 **SSD: Single Shot MultiBox Detector**
@@ -1841,6 +1877,13 @@ Continuation of [arXiv:1608.08021](https://arxiv.org/abs/1608.08021)
 - arxiv: [https://arxiv.org/abs/2012.05780](https://arxiv.org/abs/2012.05780)
 - github: [https://github.com/PeizeSun/OneNet](https://github.com/PeizeSun/OneNet)
 
+**TOOD: Task-aligned One-stage Object Detection**
+
+- intro: ICCV 2021 Oral
+- intro: Intellifusion Inc. & Meituan Inc. & ByteDance Inc. & Malong LLC & Alibaba Group
+- arxiv: [https://arxiv.org/abs/2108.07755](https://arxiv.org/abs/2108.07755)
+- github: [https://github.com/fcjian/TOOD](https://github.com/fcjian/TOOD)
+
 # Anchor-free
 
 **Feature Selective Anchor-Free Module for Single-Shot Object Detection**
@@ -1966,6 +2009,13 @@ Continuation of [arXiv:1608.08021](https://arxiv.org/abs/1608.08021)
 - intro: South China University of Technology & Tencent Wechat AI
 - arxiv: [https://arxiv.org/abs/2011.09094](https://arxiv.org/abs/2011.09094)
 
+**Conditional DETR for Fast Training Convergence
+
+- intro: ICCV 2021
+- intro: University of Science and Technology of China & Peking University & Microsoft Research Asia
+- arxiv: [https://arxiv.org/abs/2108.06152](https://arxiv.org/abs/2108.06152)
+- github: [https://github.com/Atten4Vis/ConditionalDETR](https://github.com/Atten4Vis/ConditionalDETR)
+
 **End-to-End Object Detection with Adaptive Clustering Transformer**
 
 - intro: Peking University & The Chinese University of Hong Kong
@@ -2085,7 +2135,7 @@ Continuation of [arXiv:1608.08021](https://arxiv.org/abs/1608.08021)
 - arxiv: [https://arxiv.org/abs/1705.07263](https://arxiv.org/abs/1705.07263)
 - github: [https://github.com/carlini/nn_breaking_detection](https://github.com/carlini/nn_breaking_detection)
 
-# Mimic / Knowledge Distillation
+# Knowledge Distillation
 
 **Mimicking Very Efficient Network for Object Detection**
 
@@ -2126,6 +2176,12 @@ Continuation of [arXiv:1608.08021](https://arxiv.org/abs/1608.08021)
 - openreview: [https://openreview.net/forum?id=uKhGRvM8QNH](https://openreview.net/forum?id=uKhGRvM8QNH)
 - paper: [https://openreview.net/pdf?id=uKhGRvM8QNH](https://openreview.net/pdf?id=uKhGRvM8QNH)
 - github: [https://github.com/ArchipLab-LinfengZhang/Object-Detection-Knowledge-Distillation-ICLR2021](https://github.com/ArchipLab-LinfengZhang/Object-Detection-Knowledge-Distillation-ICLR2021)
+
+**G-DetKD: Towards General Distillation Framework for Object Detectors via Contrastive and Semantic-guided Feature Imitation**
+
+- intro: Hong Kong University of Science and Technology & Huawei Noah’s Ark Lab
+- intro: ICCV 2021
+- arxiv: [https://arxiv.org/abs/2108.07482](https://arxiv.org/abs/2108.07482)
 
 # Rotated Object Detection
 
@@ -2795,6 +2851,11 @@ Continuation of [arXiv:1608.08021](https://arxiv.org/abs/1608.08021)
 - project page: [https://daooshee.github.io/HLA-Face-Website/](https://daooshee.github.io/HLA-Face-Website/)
 - arxiv: [https://arxiv.org/abs/2104.01984](https://arxiv.org/abs/2104.01984)
 - github: [https://github.com/daooshee/HLA-Face-Code](https://github.com/daooshee/HLA-Face-Code)
+
+**1st Place Solutions for UG2+ Challenge 2021 -- (Semi-)supervised Face detection in the low light condition**
+
+- intro: Tomorrow Advancing Life (TAL) Education Group
+- arxiv: [https://arxiv.org/abs/2107.00818](https://arxiv.org/abs/2107.00818)
 
 ## Detect Small Faces
 

@@ -474,6 +474,11 @@ not just the convolutions)
 - arxiv: [https://arxiv.org/abs/2007.02269](https://arxiv.org/abs/2007.02269)
 - github: [https://github.com/zhoudaquan/rethinking_bottleneck_design](https://github.com/zhoudaquan/rethinking_bottleneck_design)
 
+**Mobile-Former: Bridging MobileNet and Transformer**
+
+- intro: Microsoft & University of Science and Technology of China
+- arxiv: [https://arxiv.org/abs/2108.05895](https://arxiv.org/abs/2108.05895)
+
 ## ShuffleNet
 
 **ShuffleNet: An Extremely Efficient Convolutional Neural Network for Mobile Devices**

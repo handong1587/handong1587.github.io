@@ -677,6 +677,20 @@ extract saptio-temporal features to represent the video using the CNNs."
 
 [https://arxiv.org/abs/2104.13586](https://arxiv.org/abs/2104.13586)
 
+**End-to-end Temporal Action Detection with Transformer**
+
+- arxiv: [https://arxiv.org/abs/2106.10271](https://arxiv.org/abs/2106.10271)
+- github: [https://github.com/xlliu7/TadTR](https://github.com/xlliu7/TadTR)
+
+**OadTR: Online Action Detection with Transformers**
+
+- arxiv: [https://arxiv.org/abs/2106.11149](https://arxiv.org/abs/2106.11149)
+- github: [https://github.com/wangxiang1230/OadTR](https://github.com/wangxiang1230/OadTR)
+
+**VideoLightFormer: Lightweight Action Recognition using Transformers**
+
+[https://arxiv.org/abs/2107.00451](https://arxiv.org/abs/2107.00451)
+
 ### Projects
 
 **A Torch Library for Action Recognition and Detection Using CNNs and LSTMs**
