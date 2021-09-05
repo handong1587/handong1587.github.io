@@ -972,6 +972,11 @@ date: 2015-10-09
 
 [https://arxiv.org/abs/2102.07753](https://arxiv.org/abs/2102.07753)
 
+**LoOp: Looking for Optimal Hard Negative Embeddings for Deep Metric Learning**
+
+- intro: ICCV 2021
+- arxiv: [https://arxiv.org/abs/2108.09335](https://arxiv.org/abs/2108.09335)
+
 # Talks / Slides
 
 **TiefVision: end-to-end image similarity search engine**

@@ -431,6 +431,11 @@ L**ow-Resolution Face Recognition**
 - arxiv: [https://arxiv.org/abs/2105.11113](https://arxiv.org/abs/2105.11113)
 - github: [https://github.com/bilylee/DCQ](https://github.com/bilylee/DCQ)
 
+**End2End Occluded Face Recognition by Masking Corrupted Features**
+
+- intro: TPAMI 2021
+- arxiv: [https://arxiv.org/abs/2108.09468](https://arxiv.org/abs/2108.09468)
+
 # Face Verification
 
 **Deep Learning Face Representation by Joint Identification-Verification**

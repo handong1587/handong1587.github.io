@@ -745,6 +745,13 @@ not just the convolutions)
 - intro: The University of Chicago & Google
 - arxiv: [https://arxiv.org/abs/1810.10703](https://arxiv.org/abs/1810.10703)
 
+**Which Tasks Should Be Learned Together in Multi-task Learning?**
+
+- intro: ICML 2020
+- intro: Stanford
+- project page: [http://taskgrouping.stanford.edu/](http://taskgrouping.stanford.edu/)
+- arxiv: [https://arxiv.org/abs/1905.07553](https://arxiv.org/abs/1905.07553)
+
 **OmniNet: A unified architecture for multi-modal multi-task learning**
 
 - arxiv: [https://arxiv.org/abs/1907.07804](https://arxiv.org/abs/1907.07804)
@@ -1498,6 +1505,12 @@ Deformable ConvNets v2: More Deformable, Better Results**
 
 - intro: 1Megvii Inc. & Beihang University & Australian National University & Tsinghua University
 - arxiv: [https://arxiv.org/abs/2002.10857](https://arxiv.org/abs/2002.10857)
+
+**Designing Network Design Spaces**
+
+- intro: CVPR 2020
+- intro: Facebook AI Research (FAIR)
+- arxiv: [https://arxiv.org/abs/2003.13678](https://arxiv.org/abs/2003.13678)
 
 **WeightNet: Revisiting the Design Space of Weight Networks**
 

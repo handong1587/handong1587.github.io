@@ -1305,6 +1305,11 @@ Continuation of [arXiv:1608.08021](https://arxiv.org/abs/1608.08021)
 - arxiv: [https://arxiv.org/abs/2107.02963](https://arxiv.org/abs/2107.02963)
 - github: [https://github.com/zehuichen123/DDOD](https://github.com/zehuichen123/DDOD)
 
+**Improving Object Detection by Label Assignment Distillation**
+
+- arxiv: [https://arxiv.org/abs/2108.10520](https://arxiv.org/abs/2108.10520)
+- github: [https://github.com/cybercore-co-ltd/CoLAD_paper](https://github.com/cybercore-co-ltd/CoLAD_paper)
+
 # Two-Stage Object Detection
 
 ## R-CNN
@@ -1883,6 +1888,10 @@ Continuation of [arXiv:1608.08021](https://arxiv.org/abs/1608.08021)
 - intro: Intellifusion Inc. & Meituan Inc. & ByteDance Inc. & Malong LLC & Alibaba Group
 - arxiv: [https://arxiv.org/abs/2108.07755](https://arxiv.org/abs/2108.07755)
 - github: [https://github.com/fcjian/TOOD](https://github.com/fcjian/TOOD)
+
+**Rethinking the Aligned and Misaligned Features in One-stage Object Detection**
+
+[https://arxiv.org/abs/2108.12176](https://arxiv.org/abs/2108.12176)
 
 # Anchor-free
 

@@ -530,6 +530,13 @@ date: 2015-10-09
 - arxiv: [https://arxiv.org/abs/2108.05793](https://arxiv.org/abs/2108.05793)
 - github: [https://github.com/amazon-research/progressive-coordinate-transforms](https://github.com/amazon-research/progressive-coordinate-transforms)
 
+**AutoShape: Real-Time Shape-Aware Monocular 3D Object Detection**
+
+- intro: ICCV 2021
+- intro: Baidu Research
+- arxiv: [https://arxiv.org/abs/2108.11127](https://arxiv.org/abs/2108.11127)
+- github: [https://github.com/zongdai/AutoShape](https://github.com/zongdai/AutoShape)
+
 # Anchor-free 3D Detection
 
 **Object as Hotspots: An Anchor-Free 3D Object Detection Approach via Firing of Hotspots**
@@ -689,6 +696,12 @@ date: 2015-10-09
 
 - intro: ICCV 2021
 - arxiv: [https://arxiv.org/abs/2107.13774](https://arxiv.org/abs/2107.13774)
+
+**Exploring Simple 3D Multi-Object Tracking for Autonomous Driving**
+
+- intro: ICCV 2021
+- intro: QCraft & Johns Hopkins University
+- arxiv: [https://arxiv.org/abs/2108.10312](https://arxiv.org/abs/2108.10312)
 
 # Transformer
 

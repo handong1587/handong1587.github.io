@@ -1174,6 +1174,7 @@ with built-in awareness of semantically meaningful boundaries. "
 
 **Exploring Cross-Image Pixel Contrast for Semantic Segmentation**
 
+- intro: ICCV 2021 oral
 - intro: Computer Vision Lab, ETH Zurich & SenseTime Research
 - arxiv: [https://arxiv.org/abs/2101.11939](https://arxiv.org/abs/2101.11939)
 - github: [https://github.com/tfzhou/ContrastiveSeg](https://github.com/tfzhou/ContrastiveSeg)
@@ -1245,6 +1246,18 @@ with built-in awareness of semantically meaningful boundaries. "
 
 - intro: ICCV 2021
 - arxiv: [https://arxiv.org/abs/2108.04562](https://arxiv.org/abs/2108.04562)
+
+**Multi-Anchor Active Domain Adaptation for Semantic Segmentation**
+
+- intro: ICCV 2021 Oral
+- arxiv: [https://arxiv.org/abs/2108.08012](https://arxiv.org/abs/2108.08012)
+
+**Generalize then Adapt: Source-Free Domain Adaptive Semantic Segmentation**
+
+- intro: ICCV 2021
+- intro: Indian Institute of Science & Google Research
+- project page: [https://sites.google.com/view/sfdaseg](https://sites.google.com/view/sfdaseg)
+- arxiv: [https://arxiv.org/abs/2108.11249](https://arxiv.org/abs/2108.11249)
 
 # Instance Segmentation
 
