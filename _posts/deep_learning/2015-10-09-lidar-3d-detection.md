@@ -439,7 +439,9 @@ date: 2015-10-09
 
 **RangeDet:In Defense of Range View for LiDAR-based 3D Object Detection**
 
-[https://arxiv.org/abs/2103.10039](https://arxiv.org/abs/2103.10039)
+- intro: ICCV 2021
+- arxiv: [https://arxiv.org/abs/2103.10039](https://arxiv.org/abs/2103.10039)
+- github: [https://github.com/TuSimple/RangeDet](https://github.com/TuSimple/RangeDet)
 
 **Stereo CenterNet based 3D Object Detection for Autonomous Driving**
 
