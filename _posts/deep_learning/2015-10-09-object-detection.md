@@ -1310,6 +1310,19 @@ Continuation of [arXiv:1608.08021](https://arxiv.org/abs/1608.08021)
 - arxiv: [https://arxiv.org/abs/2108.10520](https://arxiv.org/abs/2108.10520)
 - github: [https://github.com/cybercore-co-ltd/CoLAD_paper](https://github.com/cybercore-co-ltd/CoLAD_paper)
 
+**Progressive Hard-case Mining across Pyramid Levels in Object Detection**
+
+- intro:  Baidu Inc.
+- arxiv: [https://arxiv.org/abs/2109.07217](https://arxiv.org/abs/2109.07217)
+- github: [https://github.com/zimoqingfeng/UMOP](https://github.com/zimoqingfeng/UMOP)
+
+**Multi-Scale Aligned Distillation for Low-Resolution Detection**
+
+- intro: CVPR 2021
+- intro: The Chinese University of Hong Kong & Adobe Research & SmartMore
+- arxiv: [https://arxiv.org/abs/2109.06875](https://arxiv.org/abs/2109.06875)
+- github: [https://github.com/dvlab-research/MSAD](https://github.com/dvlab-research/MSAD)
+
 # Two-Stage Object Detection
 
 ## R-CNN
@@ -2018,7 +2031,7 @@ Continuation of [arXiv:1608.08021](https://arxiv.org/abs/1608.08021)
 - intro: South China University of Technology & Tencent Wechat AI
 - arxiv: [https://arxiv.org/abs/2011.09094](https://arxiv.org/abs/2011.09094)
 
-**Conditional DETR for Fast Training Convergence
+**Conditional DETR for Fast Training Convergence**
 
 - intro: ICCV 2021
 - intro: University of Science and Technology of China & Peking University & Microsoft Research Asia
@@ -2040,6 +2053,12 @@ Continuation of [arXiv:1608.08021](https://arxiv.org/abs/1608.08021)
 
 - intro: Megvii Technology
 - arxiv: [https://arxiv.org/abs/2104.01318](https://arxiv.org/abs/2104.01318)
+
+**Anchor DETR: Query Design for Transformer-Based Detector**
+
+- intro: MEGVII Technology
+- arxiv: [https://arxiv.org/abs/2109.07107](https://arxiv.org/abs/2109.07107)
+- gihtub: [https://github.com/megvii-model/AnchorDETR](https://github.com/megvii-model/AnchorDETR)
 
 **Oriented Object Detection with Transformer**
 
@@ -3689,6 +3708,11 @@ Continuation of [arXiv:1608.08021](https://arxiv.org/abs/1608.08021)
 - intro: "The basic model implements the simple and robust GoogLeNet-OverFeat algorithm. 
 We additionally provide an implementation of the [ReInspect](https://github.com/Russell91/ReInspect/) algorithm"
 - github: [https://github.com/Russell91/TensorBox](https://github.com/Russell91/TensorBox)
+
+**NanoDet**
+
+- intro: Super fast and lightweight anchor-free object detection model. Real-time on mobile devices.
+- arxiv: [https://github.com/RangiLyu/nanodet](https://github.com/RangiLyu/nanodet)
 
 **Object detection in torch: Implementation of some object detection frameworks in torch**
 

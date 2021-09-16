@@ -1773,6 +1773,13 @@ with built-in awareness of semantically meaningful boundaries. "
 - arxiv: [https://arxiv.org/abs/2108.07058](https://arxiv.org/abs/2108.07058)
 - github: [https://github.com/EMI-Group/FaPN](https://github.com/EMI-Group/FaPN)
 
+**Instances as Queries**
+
+- intro: ICCV 2021
+- intro: HUST & Tencent
+- arxiv: [https://arxiv.org/abs/2105.01928](https://arxiv.org/abs/2105.01928)
+- github: [https://github.com/hustvl/QueryInst](https://github.com/hustvl/QueryInst)
+
 ## Human Instance Segmentation
 
 **PersonLab: Person Pose Estimation and Instance Segmentation with a Bottom-Up, Part-Based, Geometric Embedding Model**
@@ -2036,6 +2043,11 @@ P**art-aware Panoptic Segmentation**
 - intro: CVPR 2021
 - arxiv: [https://arxiv.org/abs/2106.06351](https://arxiv.org/abs/2106.06351)
 - github: [https://github.com/tue-mps/panoptic_parts](https://github.com/tue-mps/panoptic_parts)
+
+**Panoptic SegFormer**
+
+- intro: Nanjing University & The University of Hong Kong & NVIDIA & Caltech
+- arxiv: [https://arxiv.org/abs/2109.03814](https://arxiv.org/abs/2109.03814)
 
 # Face Parsing
 
@@ -2706,8 +2718,10 @@ ranked 1st place in ImageNet Scene Parsing Challenge 2016
 
 **Video Instance Segmentation**
 
+- intro: ICCV 2019
 - intro: ByteDance AI Lab & UIUC & Adobe Research
 - arxiv: [https://arxiv.org/abs/1905.04804](https://arxiv.org/abs/1905.04804)
+- github: [https://github.com/youtubevos/MaskTrackRCNN](https://github.com/youtubevos/MaskTrackRCNN)
 
 **OVSNet : Towards One-Pass Real-Time Video Object Segmentation**
 

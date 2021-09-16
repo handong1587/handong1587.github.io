@@ -491,6 +491,15 @@ date: 2015-10-09
 - intro: ICCV 2021
 - arxiv: [https://arxiv.org/abs/2108.02092](https://arxiv.org/abs/2108.02092)
 
+# Top-Down
+
+# Bottom-Up
+
+**Learning Local-Global Contextual Adaptation for Fully End-to-End Bottom-Up Human Pose Estimation**
+
+- intro: Wuhan University & North Carolina State University
+- arxiv: [https://arxiv.org/abs/2109.03622](https://arxiv.org/abs/2109.03622)
+
 # 3D Pose
 
 **Can 3D Pose be Learned from 2D Projections Alone?**

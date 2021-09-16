@@ -539,6 +539,18 @@ date: 2015-10-09
 - arxiv: [https://arxiv.org/abs/2108.11127](https://arxiv.org/abs/2108.11127)
 - github: [https://github.com/zongdai/AutoShape](https://github.com/zongdai/AutoShape)
 
+**Pyramid R-CNN: Towards Better Performance and Adaptability for 3D Object Detection**
+
+- intro: ICCV 2021
+- intro: The Chinese University of Hong Kong & Huawei Noah’s Ark Lab & HKUST & Sun Yat-Sen University
+- arxiv: [https://arxiv.org/abs/2109.02499](https://arxiv.org/abs/2109.02499)
+
+**Voxel Transformer for 3D Object Detection**
+
+- intro: ICCV 2021
+- intro: The Chinese University of Hong Kong & National University of Singapore & Huawei Noah’s Ark Lab & HKUST & Sun Yat-Sen University
+- arxiv: [https://arxiv.org/abs/2109.02497](https://arxiv.org/abs/2109.02497)
+
 # Anchor-free 3D Detection
 
 **Object as Hotspots: An Anchor-Free 3D Object Detection Approach via Firing of Hotspots**
