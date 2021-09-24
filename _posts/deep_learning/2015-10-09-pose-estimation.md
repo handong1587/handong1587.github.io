@@ -414,6 +414,11 @@ date: 2015-10-09
 - arxiv: [https://arxiv.org/abs/2007.02846](https://arxiv.org/abs/2007.02846)
 - github: [https://github.com/FangyunWei/PointSetAnchor](https://github.com/FangyunWei/PointSetAnchor)
 
+**An Empirical Study of the Collapsing Problem in Semi-Supervised 2D Human Pose Estimation**
+
+- intro: Peking University & Microsoft Research Asia
+- arxiv: [https://arxiv.org/abs/2011.12498](https://arxiv.org/abs/2011.12498)
+
 **EfficientPose: Efficient Human Pose Estimation with Neural Architecture Search**
 
 [https://arxiv.org/abs/2012.07086](https://arxiv.org/abs/2012.07086)

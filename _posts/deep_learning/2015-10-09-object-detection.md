@@ -1323,6 +1323,11 @@ Continuation of [arXiv:1608.08021](https://arxiv.org/abs/1608.08021)
 - arxiv: [https://arxiv.org/abs/2109.06875](https://arxiv.org/abs/2109.06875)
 - github: [https://github.com/dvlab-research/MSAD](https://github.com/dvlab-research/MSAD)
 
+**Pix2seq: A Language Modeling Framework for Object Detection**
+
+- intro: Google Research, Brain Team
+- arxiv: [https://arxiv.org/abs/2109.10852](https://arxiv.org/abs/2109.10852)
+
 # Two-Stage Object Detection
 
 ## R-CNN
@@ -2210,6 +2215,11 @@ Continuation of [arXiv:1608.08021](https://arxiv.org/abs/1608.08021)
 - intro: Hong Kong University of Science and Technology & Huawei Noah’s Ark Lab
 - intro: ICCV 2021
 - arxiv: [https://arxiv.org/abs/2108.07482](https://arxiv.org/abs/2108.07482)
+
+**LGD: Label-guided Self-distillation for Object Detection**
+
+- intro: MEGVII Technology & Xi’an Jiaotong University
+- arxiv: [https://arxiv.org/abs/2109.11496](https://arxiv.org/abs/2109.11496)
 
 # Rotated Object Detection
 

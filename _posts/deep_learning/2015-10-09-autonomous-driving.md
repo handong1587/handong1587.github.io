@@ -206,6 +206,11 @@ joint classification, detection and semantic segmentation via a unified architec
 - intro: CVPR 2021 Workshop on Autonomous Driving
 - arxiv: [https://arxiv.org/abs/2104.10753](https://arxiv.org/abs/2104.10753)
 
+**MP3: A Unified Model to Map, Perceive, Predict and Plan**
+
+- intro: Uber ATG & University of Toronto
+- arxiv: [https://arxiv.org/abs/2101.06806](https://arxiv.org/abs/2101.06806)
+
 # Projects
 
 **Caffe-Autopilot: Car autopilot software that uses C++, BVLC Caffe, OpenCV, and SFML**

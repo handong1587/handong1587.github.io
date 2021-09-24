@@ -561,6 +561,11 @@ not just the convolutions)
 - arxiv: [https://arxiv.org/abs/2105.07926](https://arxiv.org/abs/2105.07926)
 - github: [https://github.com/vtddggg/Robust-Vision-Transformer](https://github.com/vtddggg/Robust-Vision-Transformer)
 
+**Scale Efficiently: Insights from Pre-training and Fine-tuning Transformers**
+
+- intro: Google Research & DeepMind
+- arxiv: [https://arxiv.org/abs/2109.10686](https://arxiv.org/abs/2109.10686)
+
 # Semi-Supervised Learning
 
 **Semi-Supervised Learning with Graphs**
