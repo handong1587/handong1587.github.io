@@ -744,6 +744,13 @@ date: 2015-10-09
 - intro: University of Maryland & Fudan University
 - arxiv: [https://arxiv.org/abs/2104.11896](https://arxiv.org/abs/2104.11896)
 
+**Improving 3D Object Detection with Channel-wise Transformer**
+
+- intro: ICCV 2021
+- intro: Zhejiang University & DAMO Academy, Alibaba Group
+- arxiv: [https://arxiv.org/abs/2108.10723](https://arxiv.org/abs/2108.10723)
+- github: [https://github.com/hlsheng1/CT3D](https://github.com/hlsheng1/CT3D)
+
 # Projects
 
 **OpenLidarPerceptron**

@@ -2965,6 +2965,12 @@ ranked 1st place in ImageNet Scene Parsing Challenge 2016
 - arxiv: [https://arxiv.org/abs/2104.14222](https://arxiv.org/abs/2104.14222)
 - github: [https://github.com/SHI-Labs/Pseudo-IoU-for-Anchor-Free-Object-Detection](https://github.com/SHI-Labs/Pseudo-IoU-for-Anchor-Free-Object-Detection)
 
+**Virtual Multi-Modality Self-Supervised Foreground Matting for Human-Object Interaction**
+
+- intro: ICCV 2021
+- intro: OPPO Research Institute & Xmotors & University of California
+- arxiv: [https://arxiv.org/abs/2110.03278](https://arxiv.org/abs/2110.03278)
+
 # 3D Segmentation
 
 **PointNet: Deep Learning on Point Sets for 3D Classification and Segmentation**

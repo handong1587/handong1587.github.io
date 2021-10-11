@@ -538,6 +538,18 @@ not just the convolutions)
 
 [https://arxiv.org/abs/1811.09347](https://arxiv.org/abs/1811.09347)
 
+**Rethinking Pre-training and Self-training**
+
+- intro: NeurIPS 2020
+- intro: Google Research, Brain Team
+- arxiv: [https://arxiv.org/abs/2006.06882](https://arxiv.org/abs/2006.06882)
+- github: [https://github.com/tensorflow/tpu/tree/master/models/official/detection/projects/self_training](https://github.com/tensorflow/tpu/tree/master/models/official/detection/projects/self_training)
+
+**Exploring the Limits of Large Scale Pre-training**
+
+- intro: Google Research
+- arxiv: [https://arxiv.org/abs/2110.02095](https://arxiv.org/abs/2110.02095)
+
 # Transformers
 
 **Tokens-to-Token ViT: Training Vision Transformers from Scratch on ImageNet**
@@ -771,6 +783,19 @@ not just the convolutions)
 
 - intro: Boston University & IBM Research & MIT-IBM Watson AI Lab
 - arxiv: [https://arxiv.org/abs/1911.12423](https://arxiv.org/abs/1911.12423)
+
+**Multi-Task Learning for Dense Prediction Tasks: A Survey**
+
+- intro: T-PAMI
+- arxiv: [https://arxiv.org/abs/2004.13379](https://arxiv.org/abs/2004.13379)
+- github: [https://github.com/SimonVandenhende/Multi-Task-Learning-PyTorch](https://github.com/SimonVandenhende/Multi-Task-Learning-PyTorch)
+
+**MTI-Net: Multi-Scale Task Interaction Networks for Multi-Task Learning**
+
+- intro: ECCV 2020 spotlight
+- keywords: MTI-Net
+- arxiv: [https://arxiv.org/abs/2001.06902](https://arxiv.org/abs/2001.06902)
+- github: [https://github.com/SimonVandenhende/Multi-Task-Learning-PyTorch](https://github.com/SimonVandenhende/Multi-Task-Learning-PyTorch)
 
 **Exploring Relational Context for Multi-Task Dense Prediction**
 

@@ -505,6 +505,11 @@ date: 2015-10-09
 - intro: Wuhan University & North Carolina State University
 - arxiv: [https://arxiv.org/abs/2109.03622](https://arxiv.org/abs/2109.03622)
 
+**Keypoint Communities**
+
+- intro: ICCV 2021
+- arxiv: [https://arxiv.org/abs/2110.00988](https://arxiv.org/abs/2110.00988)
+
 # 3D Pose
 
 **Can 3D Pose be Learned from 2D Projections Alone?**

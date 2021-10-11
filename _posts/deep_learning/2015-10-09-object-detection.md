@@ -2070,6 +2070,12 @@ Continuation of [arXiv:1608.08021](https://arxiv.org/abs/1608.08021)
 - intro: University at Buffalo & Beihang University & Baidu Inc
 - arxiv: [https://arxiv.org/abs/2106.03146](https://arxiv.org/abs/2106.03146)
 
+**ViDT: An Efficient and Effective Fully Transformer-based Object Detector**
+
+- intro: NAVER AI Lab & Google Research & University of California at Merced
+- arxiv: [https://arxiv.org/abs/2110.03921](https://arxiv.org/abs/2110.03921)
+- github: [https://github.com/naver-ai/vidt](https://github.com/naver-ai/vidt)
+
 # Non-Maximum Suppression (NMS)
 
 **End-to-End Integration of a Convolutional Network, Deformable Parts Model and Non-Maximum Suppression**
@@ -2220,6 +2226,13 @@ Continuation of [arXiv:1608.08021](https://arxiv.org/abs/1608.08021)
 
 - intro: MEGVII Technology & Xi’an Jiaotong University
 - arxiv: [https://arxiv.org/abs/2109.11496](https://arxiv.org/abs/2109.11496)
+
+**Deep Structured Instance Graph for Distilling Object Detectors**
+
+- intro: ICCV 2021
+- intro: The Chinese University of Hong Kong & SmartMore
+- arxiv: [https://arxiv.org/abs/2109.12862](https://arxiv.org/abs/2109.12862)
+- github: [https://github.com/dvlab-research/Dsig](https://github.com/dvlab-research/Dsig)
 
 # Rotated Object Detection
 
