@@ -1259,6 +1259,13 @@ with built-in awareness of semantically meaningful boundaries. "
 - project page: [https://sites.google.com/view/sfdaseg](https://sites.google.com/view/sfdaseg)
 - arxiv: [https://arxiv.org/abs/2108.11249](https://arxiv.org/abs/2108.11249)
 
+**HRFormer: High-Resolution Transformer for Dense Prediction**
+
+- intro: NeurIPS 2021
+- intro: University of Chinese Academy of Sciences & Institute of Computing Technology, CAS & Peking University & Microsoft Research Asia & Baidu
+- arxiv: [https://arxiv.org/abs/2110.09408](https://arxiv.org/abs/2110.09408)
+- github: [https://github.com/HRNet/HRFormer](https://github.com/HRNet/HRFormer)
+
 # Instance Segmentation
 
 **Simultaneous Detection and Segmentation**
@@ -2965,11 +2972,10 @@ ranked 1st place in ImageNet Scene Parsing Challenge 2016
 - arxiv: [https://arxiv.org/abs/2104.14222](https://arxiv.org/abs/2104.14222)
 - github: [https://github.com/SHI-Labs/Pseudo-IoU-for-Anchor-Free-Object-Detection](https://github.com/SHI-Labs/Pseudo-IoU-for-Anchor-Free-Object-Detection)
 
-**Virtual Multi-Modality Self-Supervised Foreground Matting for Human-Object Interaction**
+**Highly Efficient Natural Image Matting**
 
-- intro: ICCV 2021
-- intro: OPPO Research Institute & Xmotors & University of California
-- arxiv: [https://arxiv.org/abs/2110.03278](https://arxiv.org/abs/2110.03278)
+- intro: BMVC 2021
+- arxiv: [https://arxiv.org/abs/2110.12748](https://arxiv.org/abs/2110.12748)
 
 # 3D Segmentation
 

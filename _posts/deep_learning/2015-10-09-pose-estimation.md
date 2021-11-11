@@ -510,6 +510,16 @@ date: 2015-10-09
 - intro: ICCV 2021
 - arxiv: [https://arxiv.org/abs/2110.00988](https://arxiv.org/abs/2110.00988)
 
+**The Center of Attention: Center-Keypoint Grouping via Attention for Multi-Person Pose Estimation**
+
+- intro: ICCV 2021
+- intro: Technical University of Munich
+- arxiv: [https://arxiv.org/abs/2110.05132](https://arxiv.org/abs/2110.05132)
+
+**Self-Supervision and Spatial-Sequential Attention Based Loss for Multi-Person Pose Estimation**
+
+[https://arxiv.org/abs/2110.10734](https://arxiv.org/abs/2110.10734)
+
 # 3D Pose
 
 **Can 3D Pose be Learned from 2D Projections Alone?**
@@ -574,6 +584,13 @@ date: 2015-10-09
 
 - intro: University of Surrey
 - arxiv: [https://arxiv.org/abs/2104.11712](https://arxiv.org/abs/2104.11712)
+
+**UltraPose: Synthesizing Dense Pose with 1 Billion Points by Human-body Decoupling 3D Model**
+
+- intro: ICCV 2021
+- intro: Beijing Momo Technology Co., Ltd. & Sun Yat-sen University
+- arxiv: [https://arxiv.org/abs/2110.15267](https://arxiv.org/abs/2110.15267)
+- github: [https://github.com/MomoAILab/ultrapose](https://github.com/MomoAILab/ultrapose)
 
 # 3D Car keypoints Detection
 

@@ -1328,6 +1328,21 @@ Continuation of [arXiv:1608.08021](https://arxiv.org/abs/1608.08021)
 - intro: Google Research, Brain Team
 - arxiv: [https://arxiv.org/abs/2109.10852](https://arxiv.org/abs/2109.10852)
 
+**Mixed Supervised Object Detection by Transferring Mask Prior and Semantic Similarity**
+
+- intro: NeurIPS 2021
+- intro: Shanghai Jiao Tong University
+- arxiv: [https://arxiv.org/abs/2110.14191](https://arxiv.org/abs/2110.14191)
+- github: [https://github.com/bcmi/TraMaS-Weak-Shot-Object-Detection](https://github.com/bcmi/TraMaS-Weak-Shot-Object-Detection)
+
+**Bootstrap Your Object Detector via Mixed Training**
+
+- intro: NeurIPS 2021 Spotlight
+- intro: Huazhong University of Science and Technology & Xi’an Jiaotong University & Microsoft Research Asia
+- keywords: MixTraining
+- arxiv: [https://arxiv.org/abs/2111.03056](https://arxiv.org/abs/2111.03056)
+- github: [https://github.com/MendelXu/MixTraining](https://github.com/MendelXu/MixTraining)
+
 # Two-Stage Object Detection
 
 ## R-CNN
@@ -2234,6 +2249,17 @@ Continuation of [arXiv:1608.08021](https://arxiv.org/abs/1608.08021)
 - arxiv: [https://arxiv.org/abs/2109.12862](https://arxiv.org/abs/2109.12862)
 - github: [https://github.com/dvlab-research/Dsig](https://github.com/dvlab-research/Dsig)
 
+**Instance-Conditional Knowledge Distillation for Object Detection**
+
+- intro: NeurIPS 2021 poster
+- intro: Xi’an Jiaotong University & MEGVII Technology
+- arxiv: [https://arxiv.org/abs/2110.12724](https://arxiv.org/abs/2110.12724)
+
+**Distilling Object Detectors with Feature Richness**
+
+- intro: University of Science and Technology of China & CAS & Cambricon Technologies & University of Chinese Academy of Sciences
+- arxiv: [https://arxiv.org/abs/2111.00674](https://arxiv.org/abs/2111.00674)
+
 # Rotated Object Detection
 
 **Rethinking Rotated Object Detection with Gaussian Wasserstein Distance Loss**
@@ -2908,6 +2934,12 @@ Continuation of [arXiv:1608.08021](https://arxiv.org/abs/1608.08021)
 - intro: Tomorrow Advancing Life (TAL) Education Group
 - arxiv: [https://arxiv.org/abs/2107.00818](https://arxiv.org/abs/2107.00818)
 
+**MOS: A Low Latency and Lightweight Framework for Face Detection, Landmark Localization, and Head Pose Estimation**
+
+- intro: BMVC 2021
+- arxiv: [https://arxiv.org/abs/2110.10953](https://arxiv.org/abs/2110.10953)
+- github: [https://github.com/lyp-deeplearning/MOS-Multi-Task-Face-Detect](https://github.com/lyp-deeplearning/MOS-Multi-Task-Face-Detect)
+
 ## Detect Small Faces
 
 **Finding Tiny Faces**
@@ -3530,25 +3562,6 @@ Continuation of [arXiv:1608.08021](https://arxiv.org/abs/1608.08021)
 
 - arxiv: [https://arxiv.org/abs/1802.05591](https://arxiv.org/abs/1802.05591)
 - github: [https://github.com/MaybeShewill-CV/lanenet-lane-detection](https://github.com/MaybeShewill-CV/lanenet-lane-detection)
-
-**iCAN: Instance-Centric Attention Network for Human-Object Interaction Detection**
-
-- intro: BMVC 2018
-- project page: [https://gaochen315.github.io/iCAN/](https://gaochen315.github.io/iCAN/)
-- arxiv: [https://arxiv.org/abs/1808.10437](https://arxiv.org/abs/1808.10437)
-- github: [https://github.com/vt-vl-lab/iCAN](https://github.com/vt-vl-lab/iCAN)
-
-**Pose-aware Multi-level Feature Network for Human Object Interaction Detection**
-
-- intro: ICCV 2019
-- arxiv: [https://arxiv.org/abs/1909.08453](https://arxiv.org/abs/1909.08453)
-
-**End-to-End Human Object Interaction Detection with HOI Transformer**
-
-- intro: CVPR 2021
-- intro: MEGVII Technology
-- arxiv: [https://arxiv.org/abs/2103.04503](https://arxiv.org/abs/2103.04503)
-- github: [https://github.com/bbepoch/HoiTransformer](https://github.com/bbepoch/HoiTransformer)
 
 **Densely Supervised Grasp Detector (DSGD)**
 

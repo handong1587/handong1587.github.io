@@ -568,6 +568,13 @@ not just the convolutions)
 - intro: National University of Singapore & ByteDance US AI Lab
 - arxiv: [https://arxiv.org/abs/2103.11886](https://arxiv.org/abs/2103.11886)
 
+**Swin Transformer: Hierarchical Vision Transformer using Shifted Windows**
+
+- intro: ICCV 2021 best paper
+- intro: Microsoft Research Asia
+- arxiv: [https://arxiv.org/abs/2103.14030](https://arxiv.org/abs/2103.14030)
+- github: [https://github.com/microsoft/Swin-Transformer](https://github.com/microsoft/Swin-Transformer)
+
 **Rethinking the Design Principles of Robust Vision Transformer**
 
 - arxiv: [https://arxiv.org/abs/2105.07926](https://arxiv.org/abs/2105.07926)
@@ -2894,6 +2901,11 @@ Deformable ConvNets v2: More Deformable, Better Results**
 
 - intro: ACM Transactions on Multimedia Computing, Communications, and Applications
 - arxiv: [https://arxiv.org/abs/2007.16124](https://arxiv.org/abs/2007.16124)
+
+**NOD: Taking a Closer Look at Detection under Extreme Low-Light Conditions with Night Object Detection Dataset**
+
+- intro: BMVC 2021
+- arxiv: [https://arxiv.org/abs/2110.10364](https://arxiv.org/abs/2110.10364)
 
 ## Computer Vision
 

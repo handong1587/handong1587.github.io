@@ -2188,6 +2188,37 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 
 [https://arxiv.org/abs/1808.09796](https://arxiv.org/abs/1808.09796)
 
+**iCAN: Instance-Centric Attention Network for Human-Object Interaction Detection**
+
+- intro: BMVC 2018
+- project page: [https://gaochen315.github.io/iCAN/](https://gaochen315.github.io/iCAN/)
+- arxiv: [https://arxiv.org/abs/1808.10437](https://arxiv.org/abs/1808.10437)
+- github: [https://github.com/vt-vl-lab/iCAN](https://github.com/vt-vl-lab/iCAN)
+
+**Pose-aware Multi-level Feature Network for Human Object Interaction Detection**
+
+- intro: ICCV 2019
+- arxiv: [https://arxiv.org/abs/1909.08453](https://arxiv.org/abs/1909.08453)
+
+**End-to-End Human Object Interaction Detection with HOI Transformer**
+
+- intro: CVPR 2021
+- intro: MEGVII Technology
+- arxiv: [https://arxiv.org/abs/2103.04503](https://arxiv.org/abs/2103.04503)
+- github: [https://github.com/bbepoch/HoiTransformer](https://github.com/bbepoch/HoiTransformer)
+
+**Virtual Multi-Modality Self-Supervised Foreground Matting for Human-Object Interaction**
+
+- intro: ICCV 2021
+- intro: OPPO Research Institute & Xmotors & University of California
+- arxiv: [https://arxiv.org/abs/2110.03278](https://arxiv.org/abs/2110.03278)
+
+**Hand-Object Contact Prediction via Motion-Based Pseudo-Labeling and Guided Progressive Label Correction**
+
+- intro: BMVC 2021
+- arxiv: [https://arxiv.org/abs/2110.10174](https://arxiv.org/abs/2110.10174)
+- github: [https://github.com/takumayagi/hand_object_contact_prediction](https://github.com/takumayagi/hand_object_contact_prediction)
+
 # Deep Learning in Finance
 
 **Deep Learning in Finance**

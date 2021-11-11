@@ -688,6 +688,14 @@ L**ow-Resolution Face Recognition**
 
 [https://arxiv.org/abs/2104.03100](https://arxiv.org/abs/2104.03100)
 
+**Subpixel Heatmap Regression for Facial Landmark Localization**
+
+- intro: BMVC 2021
+- intro: Samsung AI Center, Cambridge, UK & Queen Mary University London
+- project page: [https://www.adrianbulat.com/face-alignment](https://www.adrianbulat.com/face-alignment)
+- arxiv: [https://arxiv.org/abs/2111.02360](https://arxiv.org/abs/2111.02360)
+- github: [https://github.com/1adrianb/face-alignment](https://github.com/1adrianb/face-alignment)
+
 # Face Synthesis
 
 **Beyond Face Rotation: Global and Local Perception GAN for Photorealistic and Identity Preserving Frontal View Synthesis**
