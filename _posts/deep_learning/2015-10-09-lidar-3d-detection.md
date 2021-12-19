@@ -551,6 +551,12 @@ date: 2015-10-09
 - intro: The Chinese University of Hong Kong & National University of Singapore & Huawei Noah’s Ark Lab & HKUST & Sun Yat-Sen University
 - arxiv: [https://arxiv.org/abs/2109.02497](https://arxiv.org/abs/2109.02497)
 
+**SGM3D: Stereo Guided Monocular 3D Object Detection**
+
+- intro: Fudan University & Baidu Inc.
+- arxiv: [https://arxiv.org/abs/2112.01914](https://arxiv.org/abs/2112.01914)
+- github: [https://github.com/zhouzheyuan/sgm3d](https://github.com/zhouzheyuan/sgm3d)
+
 # Anchor-free 3D Detection
 
 **Object as Hotspots: An Anchor-Free 3D Object Detection Approach via Firing of Hotspots**
@@ -582,6 +588,12 @@ date: 2015-10-09
 
 - intro: Horizon Robotics
 - arxiv: [https://arxiv.org/abs/2006.15505](https://arxiv.org/abs/2006.15505)
+
+**FCAF3D: Fully Convolutional Anchor-Free 3D Object Detection**
+
+- intro: Samsung AI Center Moscow
+- arxiv: [https://arxiv.org/abs/2112.00322](https://arxiv.org/abs/2112.00322)
+- github: [https://github.com/samsunglabs/fcaf3d](https://github.com/samsunglabs/fcaf3d)
 
 # 3D Semantic Segmentation
 

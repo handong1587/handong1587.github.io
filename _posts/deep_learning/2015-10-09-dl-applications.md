@@ -1928,6 +1928,11 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 - arxiv: [https://arxiv.org/abs/2011.02910](https://arxiv.org/abs/2011.02910)
 - github: [https://github.com/mli0603/stereo-transformer](https://github.com/mli0603/stereo-transformer)
 
+**EGFN: Efficient Geometry Feature Network for Fast Stereo 3D Object Detection**
+
+- intro: Tianjin University
+- arxiv: [https://arxiv.org/abs/2111.14055](https://arxiv.org/abs/2111.14055)
+
 # 3D
 
 **Learning Spatiotemporal Features with 3D Convolutional Networks**

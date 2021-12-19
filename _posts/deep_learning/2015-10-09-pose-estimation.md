@@ -47,11 +47,6 @@ date: 2015-10-09
 - github(PyTorch): [https://github.com/tensorboy/pytorch_Realtime_Multi-Person_Pose_Estimation](https://github.com/tensorboy/pytorch_Realtime_Multi-Person_Pose_Estimation)
 - github: [https://github.com/timctho/convolutional-pose-machines-tensorflow](https://github.com/timctho/convolutional-pose-machines-tensorflow)
 
-**Model-based Deep Hand Pose Estimation**
-
-- paper: [http://xingyizhou.xyz/zhou2016model.pdf](http://xingyizhou.xyz/zhou2016model.pdf)
-- github: [https://github.com/tenstep/DeepModel](https://github.com/tenstep/DeepModel)
-
 **Stacked Hourglass Networks for Human Pose Estimation**
 
 - homepage: [http://www-personal.umich.edu/~alnewell/pose/](http://www-personal.umich.edu/~alnewell/pose/)
@@ -94,10 +89,6 @@ date: 2015-10-09
 - intro: CVPR 2017
 - arxiv: [https://arxiv.org/abs/1701.01779](https://arxiv.org/abs/1701.01779)
 
-**Region Ensemble Network: Improving Convolutional Network for Hand Pose Estimation**
-
-- arxiv: [https://arxiv.org/abs/1702.02447](https://arxiv.org/abs/1702.02447)
-
 **Binarized Convolutional Landmark Localizers for Human Pose Estimation and Face Alignment with Limited Resources**
 
 - intro: ICCV 2017 Oral
@@ -130,11 +121,6 @@ date: 2015-10-09
 
 - arxiv: [https://arxiv.org/abs/1708.01101](https://arxiv.org/abs/1708.01101)
 - github: [https://github.com/bearpaw/PyraNet](https://github.com/bearpaw/PyraNet)
-
-**Crossing Nets: Combining GANs and VAEs with a Shared Latent Space for Hand Pose Estimation**
-
-- intro: CVPR 2017
-- arxiv: [https://arxiv.org/abs/1702.03431](https://arxiv.org/abs/1702.03431)
 
 **Multi-Context Attention for Human Pose Estimation**
 
@@ -500,6 +486,25 @@ date: 2015-10-09
 
 # Bottom-Up
 
+**PifPaf: Composite Fields for Human Pose Estimation**
+
+- intro: CVPR 2019
+- intro: EPFL VITA lab
+- keywords: Part Intensity Field (PIF), Part Association Field (PAF)
+- arxiv: [https://arxiv.org/abs/1903.06593](https://arxiv.org/abs/1903.06593)
+
+**OpenPifPaf: Composite Fields for Semantic Keypoint Detection and Spatio-Temporal Association**
+
+- project: [https://openpifpaf.github.io/intro.html](https://openpifpaf.github.io/intro.html)
+- intro: [https://arxiv.org/abs/2103.02440](https://arxiv.org/abs/2103.02440)
+- github: [https://github.com/openpifpaf/openpifpaf](https://github.com/openpifpaf/openpifpaf)
+
+**DeepSportLab: a Unified Framework for Ball Detection, Player Instance Segmentation and Pose Estimation in Team Sports Scenes**
+
+- intro: BMVC 2021
+- arxiv: [https://arxiv.org/abs/2112.00627](https://arxiv.org/abs/2112.00627)
+- github: [https://github.com/ispgroupucl/DeepSportLab](https://github.com/ispgroupucl/DeepSportLab)
+
 **Learning Local-Global Contextual Adaptation for Fully End-to-End Bottom-Up Human Pose Estimation**
 
 - intro: Wuhan University & North Carolina State University
@@ -519,6 +524,28 @@ date: 2015-10-09
 **Self-Supervision and Spatial-Sequential Attention Based Loss for Multi-Person Pose Estimation**
 
 [https://arxiv.org/abs/2110.10734](https://arxiv.org/abs/2110.10734)
+
+# Hnad Pose
+
+**Model-based Deep Hand Pose Estimation**
+
+- paper: [http://xingyizhou.xyz/zhou2016model.pdf](http://xingyizhou.xyz/zhou2016model.pdf)
+- github: [https://github.com/tenstep/DeepModel](https://github.com/tenstep/DeepModel)
+
+**Region Ensemble Network: Improving Convolutional Network for Hand Pose Estimation**
+
+- arxiv: [https://arxiv.org/abs/1702.02447](https://arxiv.org/abs/1702.02447)
+
+**Crossing Nets: Combining GANs and VAEs with a Shared Latent Space for Hand Pose Estimation**
+
+- intro: CVPR 2017
+- arxiv: [https://arxiv.org/abs/1702.03431](https://arxiv.org/abs/1702.03431)
+
+**Learning to Disambiguate Strongly Interacting Hands via Probabilistic Per-pixel Part Segmentation**
+
+- intro: 3DV 2021 Oral
+- arxiv: [https://arxiv.org/abs/2107.00434](https://arxiv.org/abs/2107.00434)
+- github: [https://github.com/zc-alexfan/digit-interacting](https://github.com/zc-alexfan/digit-interacting)
 
 # 3D Pose
 

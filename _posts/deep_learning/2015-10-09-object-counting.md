@@ -69,6 +69,11 @@ date: 2015-10-09
 
 [https://arxiv.org/abs/2012.08149](https://arxiv.org/abs/2012.08149)
 
+**Object Counting: You Only Need to Look at One**
+
+- intro: Xi’an Jiaotong University
+- arxiv: [https://arxiv.org/abs/2112.05993](https://arxiv.org/abs/2112.05993)
+
 ## Crowd Counting / Crowd Analysis
 
 **Large scale crowd analysis based on convolutional neural network**

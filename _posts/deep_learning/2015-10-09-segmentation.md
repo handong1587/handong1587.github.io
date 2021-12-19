@@ -220,6 +220,22 @@ date: 2015-10-09
 
 [https://arxiv.org/abs/2101.01909](https://arxiv.org/abs/2101.01909)
 
+# Unified Image Segmentation
+
+**K-Net: Towards Unified Image Segmentation**
+
+- intro: NeurIPS 2021
+- intro:  Nanyang Technological University &  Chinese University of Hong Kon & SenseTime Research & Shanghai AI Laborator
+- project page: [https://www.mmlab-ntu.com/project/knet/index.html](https://www.mmlab-ntu.com/project/knet/index.html)
+- arxiv: [https://arxiv.org/abs/2106.14855](https://arxiv.org/abs/2106.14855)
+- github: [https://github.com/ZwwWayne/K-Net/](https://github.com/ZwwWayne/K-Net/)
+
+**Masked-attention Mask Transformer for Universal Image Segmentation**
+
+- project page: [https://bowenc0221.github.io/mask2former/](https://bowenc0221.github.io/mask2former/)
+- arxiv: [https://arxiv.org/abs/2112.01527](https://arxiv.org/abs/2112.01527)
+- github: [https://github.com/facebookresearch/Mask2Former](https://github.com/facebookresearch/Mask2Former)
+
 # Foreground Object Segmentation
 
 **Pixel Objectness**
@@ -939,6 +955,11 @@ with built-in awareness of semantically meaningful boundaries. "
 - intro: ICCV 2019
 - intro: ETH Zurich & KU Leuven
 - arxiv: [https://arxiv.org/abs/1901.05946](https://arxiv.org/abs/1901.05946)
+
+**Bi-Mix: Bidirectional Mixing for Domain Adaptive Nighttime Semantic Segmentation**
+
+- arxiv: [https://arxiv.org/abs/2111.10339](https://arxiv.org/abs/2111.10339)
+- github: [https://github.com/ygjwd12345/BiMix](https://github.com/ygjwd12345/BiMix)
 
 **Fast-SCNN: Fast Semantic Segmentation Network**
 
@@ -1787,6 +1808,11 @@ with built-in awareness of semantically meaningful boundaries. "
 - arxiv: [https://arxiv.org/abs/2105.01928](https://arxiv.org/abs/2105.01928)
 - github: [https://github.com/hustvl/QueryInst](https://github.com/hustvl/QueryInst)
 
+**Mask Transfiner for High-Quality Instance Segmentation**
+
+- intro: ETH Zurich & HKUST & Kuaishou Technology
+- arixv: [https://arxiv.org/abs/2111.13673](https://arxiv.org/abs/2111.13673)
+
 ## Human Instance Segmentation
 
 **PersonLab: Person Pose Estimation and Instance Segmentation with a Bottom-Up, Part-Based, Geometric Embedding Model**
@@ -2055,6 +2081,11 @@ P**art-aware Panoptic Segmentation**
 
 - intro: Nanjing University & The University of Hong Kong & NVIDIA & Caltech
 - arxiv: [https://arxiv.org/abs/2109.03814](https://arxiv.org/abs/2109.03814)
+
+**Slot-VPS: Object-centric Representation Learning for Video Panoptic Segmentation**
+
+- intro: Samsung Research China - Beijing (SRC-B) & 2Samsung Advanced Institute of Technology (SAIT) & University of Oxford & The University of Hong Kong
+- arxiv: [https://arxiv.org/abs/2112.08949](https://arxiv.org/abs/2112.08949)
 
 # Face Parsing
 
@@ -2441,6 +2472,11 @@ ranked 1st place in ImageNet Scene Parsing Challenge 2016
 **End-to-end One-shot Human Parsing**
 
 [https://arxiv.org/abs/2105.01241](https://arxiv.org/abs/2105.01241)
+
+**CDGNet: Class Distribution Guided Network for Human Parsing**
+
+- intro: Ajou University & Tiangong University & Incheon National University
+- arxiv: [https://arxiv.org/abs/2111.14173](https://arxiv.org/abs/2111.14173)
 
 # Joint Detection and Segmentation
 
@@ -2906,6 +2942,11 @@ ranked 1st place in ImageNet Scene Parsing Challenge 2016
 - arxiv: [https://arxiv.org/abs/2104.11208](https://arxiv.org/abs/2104.11208)
 - github: [https://github.com/nowsyn/DVM](https://github.com/nowsyn/DVM)
 
+**Trimap-guided Feature Mining and Fusion Network for Natural Image Matting**
+
+- intro: Shanghai Jiao Tong University & ByteDance Inc.
+- arxiv: [https://arxiv.org/abs/2112.00510](https://arxiv.org/abs/2112.00510)
+
 ## trimap-free matting
 
 **Semantic Human Matting**
@@ -2976,6 +3017,13 @@ ranked 1st place in ImageNet Scene Parsing Challenge 2016
 
 - intro: BMVC 2021
 - arxiv: [https://arxiv.org/abs/2110.12748](https://arxiv.org/abs/2110.12748)
+
+**PP-HumanSeg: Connectivity-Aware Portrait Segmentation with a Large-Scale Teleconferencing Video Dataset**
+
+- intro: WACV 2021 workshop
+- intro: Baidu, Inc.
+- arxiv: [https://arxiv.org/abs/2112.07146](https://arxiv.org/abs/2112.07146)
+- github: [https://github.com/PaddlePaddle/PaddleSeg](https://github.com/PaddlePaddle/PaddleSeg)
 
 # 3D Segmentation
 

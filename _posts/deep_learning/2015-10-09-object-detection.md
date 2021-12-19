@@ -1343,6 +1343,16 @@ Continuation of [arXiv:1608.08021](https://arxiv.org/abs/1608.08021)
 - arxiv: [https://arxiv.org/abs/2111.03056](https://arxiv.org/abs/2111.03056)
 - github: [https://github.com/MendelXu/MixTraining](https://github.com/MendelXu/MixTraining)
 
+**PP-PicoDet: A Better Real-Time Object Detector on Mobile Devices**
+
+- intro: Baidu Inc.
+- arxiv: [https://arxiv.org/abs/2111.00902](https://arxiv.org/abs/2111.00902)
+- github: [https://github.com/PaddlePaddle/PaddleDetection](https://github.com/PaddlePaddle/PaddleDetection)
+
+**Toward Minimal Misalignment at Minimal Cost in One-Stage and Anchor-Free Object Detection**
+
+[https://arxiv.org/abs/2112.08902](https://arxiv.org/abs/2112.08902)
+
 # Two-Stage Object Detection
 
 ## R-CNN
@@ -1835,6 +1845,19 @@ Continuation of [arXiv:1608.08021](https://arxiv.org/abs/1608.08021)
 - keywords: Average-Precision loss (AP-loss)
 - arxiv: {https://arxiv.org/abs/1904.06373}(https://arxiv.org/abs/1904.06373)
 
+**AP-Loss for Accurate One-Stage Object Detection**
+
+- intro: IEEE TPAMI
+- arxiv: [https://arxiv.org/abs/2008.07294](https://arxiv.org/abs/2008.07294)
+- github: [https://github.com/cccorn/AP-loss](https://github.com/cccorn/AP-loss)
+
+**Searching Parameterized AP Loss for Object Detection**
+
+- intro: NeurIPS 2021
+- intro: 1Tsinghua University & Zhejiang University & SenseTime Research & Shanghai Jiao Tong University & Beijing Academy of Artificial Intelligence
+- arxiv: [https://arxiv.org/abs/2112.05138](https://arxiv.org/abs/2112.05138)
+- github: [https://github.com/fundamentalvision/Parameterized-AP-Loss](https://github.com/fundamentalvision/Parameterized-AP-Loss)
+
 **Efficient Featurized Image Pyramid Network for Single Shot Detector**
 
 - intro: CVPR 2019
@@ -1902,12 +1925,6 @@ Continuation of [arXiv:1608.08021](https://arxiv.org/abs/1608.08021)
 
 - intro: ACM MM 2020
 - arxiv: [https://arxiv.org/abs/2008.03511](https://arxiv.org/abs/2008.03511)
-
-**AP-Loss for Accurate One-Stage Object Detection**
-
-- intro: IEEE TPAMI
-- arxiv: [https://arxiv.org/abs/2008.07294](https://arxiv.org/abs/2008.07294)
-- github: [https://github.com/cccorn/AP-loss](https://github.com/cccorn/AP-loss)
 
 **OneNet: Towards End-to-End One-Stage Object Detection**
 
@@ -2259,6 +2276,12 @@ Continuation of [arXiv:1608.08021](https://arxiv.org/abs/1608.08021)
 
 - intro: University of Science and Technology of China & CAS & Cambricon Technologies & University of Chinese Academy of Sciences
 - arxiv: [https://arxiv.org/abs/2111.00674](https://arxiv.org/abs/2111.00674)
+
+**Focal and Global Knowledge Distillation for Detectors**
+
+- intro: Tsinghua Shenzhen International Graduate School & ByteDance Inc & BeiHang University
+- arxiv: [https://arxiv.org/abs/2111.11837](https://arxiv.org/abs/2111.11837)
+- github: [https://github.com/yzd-v/FGD](https://github.com/yzd-v/FGD)
 
 # Rotated Object Detection
 
