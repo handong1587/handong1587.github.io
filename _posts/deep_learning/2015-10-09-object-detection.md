@@ -1353,6 +1353,10 @@ Continuation of [arXiv:1608.08021](https://arxiv.org/abs/1608.08021)
 
 [https://arxiv.org/abs/2112.08902](https://arxiv.org/abs/2112.08902)
 
+**GiraffeDet: A Heavy-Neck Paradigm for Object Detection**
+
+[https://arxiv.org/abs/2202.04256](https://arxiv.org/abs/2202.04256)
+
 # Two-Stage Object Detection
 
 ## R-CNN
@@ -1686,12 +1690,19 @@ Continuation of [arXiv:1608.08021](https://arxiv.org/abs/1608.08021)
 - keywords: Weighted-Residual-Connections (WRC), Cross-Stage-Partial-connections (CSP), Cross mini-Batch Normalization (CmBN), Self-adversarial-training (SAT), Mish-activation
 - arxiv: [https://arxiv.org/abs/2004.10934](https://arxiv.org/abs/2004.10934)
 - github: [https://github.com/AlexeyAB/darknet](https://github.com/AlexeyAB/darknet)
+- github: [https://github.com/WongKinYiu/PyTorch_YOLOv4](https://github.com/WongKinYiu/PyTorch_YOLOv4)
 
 **YOLOX: Exceeding YOLO Series in 2021**
 
 - intro: Megvii Technology
 - arxiv: [https://arxiv.org/abs/2107.08430](https://arxiv.org/abs/2107.08430)
 - github: [https://github.com/Megvii-BaseDetection/YOLOX](https://github.com/Megvii-BaseDetection/YOLOX)
+
+**PP-YOLO: An Effective and Efficient Implementation of Object Detector**
+
+- intro: Baidu Inc.
+- arxiv: [https://arxiv.org/abs/2007.12099](https://arxiv.org/abs/2007.12099)
+- github: [https://github.com/PaddlePaddle/PaddleDetection](https://github.com/PaddlePaddle/PaddleDetection)
 
 ## SSD
 
@@ -2096,6 +2107,11 @@ Continuation of [arXiv:1608.08021](https://arxiv.org/abs/1608.08021)
 - intro: MEGVII Technology
 - arxiv: [https://arxiv.org/abs/2109.07107](https://arxiv.org/abs/2109.07107)
 - gihtub: [https://github.com/megvii-model/AnchorDETR](https://github.com/megvii-model/AnchorDETR)
+
+**DAB-DETR: Dynamic Anchor Boxes are Better Queries for DETR**
+
+- arxiv: [https://arxiv.org/abs/2201.12329](https://arxiv.org/abs/2201.12329)
+- github: [https://github.com/SlongLiu/DAB-DETR](https://github.com/SlongLiu/DAB-DETR)
 
 **Oriented Object Detection with Transformer**
 

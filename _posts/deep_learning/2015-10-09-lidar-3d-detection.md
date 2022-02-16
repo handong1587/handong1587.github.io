@@ -557,6 +557,13 @@ date: 2015-10-09
 - arxiv: [https://arxiv.org/abs/2112.01914](https://arxiv.org/abs/2112.01914)
 - github: [https://github.com/zhouzheyuan/sgm3d](https://github.com/zhouzheyuan/sgm3d)
 
+**MonoDistill: Learning Spatial Features for Monocular 3D Object Detection**
+
+- intro: ICLR 2022
+- intro: Dalian University of Technology & The University of Sydney
+- arxiv: [https://arxiv.org/abs/2201.10830](https://arxiv.org/abs/2201.10830)
+- github: [https://github.com/monster-ghost/MonoDistill](https://github.com/monster-ghost/MonoDistill)
+
 # Anchor-free 3D Detection
 
 **Object as Hotspots: An Anchor-Free 3D Object Detection Approach via Firing of Hotspots**
@@ -655,6 +662,12 @@ date: 2015-10-09
 - intro: ICCV 2021
 - intro: Toyota Research Institute
 - arxiv: [https://arxiv.org/abs/2108.06417](https://arxiv.org/abs/2108.06417)
+
+# Multi-Modal 3D Object Detection
+
+- intro:  University of Science and Technology & Harbin Institute of Technology & SenseTime Research & The Chinese University of Hong Kong & IIIS, Tsinghua University
+**AutoAlign: Pixel-Instance Feature Aggregation for Multi-Modal 3D Object Detection**
+- arxiv: [https://arxiv.org/abs/2201.06493](https://arxiv.org/abs/2201.06493)
 
 # 3D Detection and Tracking
 

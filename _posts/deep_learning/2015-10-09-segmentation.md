@@ -236,6 +236,12 @@ date: 2015-10-09
 - arxiv: [https://arxiv.org/abs/2112.01527](https://arxiv.org/abs/2112.01527)
 - github: [https://github.com/facebookresearch/Mask2Former](https://github.com/facebookresearch/Mask2Former)
 
+**Mask2Former for Video Instance Segmentation**
+
+- intro: University of Illinois at Urbana-Champaign (UIUC) & Facebook AI Research (FAIR
+- arxiv: [https://arxiv.org/abs/2112.10764](https://arxiv.org/abs/2112.10764)
+- github: [https://github.com/facebookresearch/Mask2Former](https://github.com/facebookresearch/Mask2Former)
+
 # Foreground Object Segmentation
 
 **Pixel Objectness**
@@ -1813,6 +1819,12 @@ with built-in awareness of semantically meaningful boundaries. "
 - intro: ETH Zurich & HKUST & Kuaishou Technology
 - arixv: [https://arxiv.org/abs/2111.13673](https://arxiv.org/abs/2111.13673)
 
+**SOIT: Segmenting Objects with Instance-Aware Transformers**
+
+- intro: AAAI 2022
+- arxiv: [https://arxiv.org/abs/2112.11037](https://arxiv.org/abs/2112.11037)
+- github: [https://github.com/yuxiaodongHRI/SOIT](https://github.com/yuxiaodongHRI/SOIT)
+
 ## Human Instance Segmentation
 
 **PersonLab: Person Pose Estimation and Instance Segmentation with a Bottom-Up, Part-Based, Geometric Embedding Model**
@@ -2086,6 +2098,11 @@ P**art-aware Panoptic Segmentation**
 
 - intro: Samsung Research China - Beijing (SRC-B) & 2Samsung Advanced Institute of Technology (SAIT) & University of Oxford & The University of Hong Kong
 - arxiv: [https://arxiv.org/abs/2112.08949](https://arxiv.org/abs/2112.08949)
+
+**CFNet: Learning Correlation Functions for One-Stage Panoptic Segmentation**
+
+- intro: Zhejiang University & Tencent Youtu Lab & Shanghai Jiao Tong University
+- arxiv: [https://arxiv.org/abs/2201.04796](https://arxiv.org/abs/2201.04796)
 
 # Face Parsing
 
@@ -2946,6 +2963,11 @@ ranked 1st place in ImageNet Scene Parsing Challenge 2016
 
 - intro: Shanghai Jiao Tong University & ByteDance Inc.
 - arxiv: [https://arxiv.org/abs/2112.00510](https://arxiv.org/abs/2112.00510)
+
+**Boosting Robustness of Image Matting with Context Assembling and Strong Data Augmentation**
+
+- intro: The University of Adelaide & Adobe Inc. & Zhejiang University
+- arxiv: [https://arxiv.org/abs/2201.06889](https://arxiv.org/abs/2201.06889)
 
 ## trimap-free matting
 

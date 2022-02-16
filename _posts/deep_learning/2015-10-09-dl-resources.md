@@ -515,6 +515,12 @@ not just the convolutions)
 - intro: NIPS 2018
 - github: [https://github.com/hujie-frank/GENet](https://github.com/hujie-frank/GENet)
 
+**A ConvNet for the 2020s**
+
+- intro: Facebook AI Research (FAIR) & UC Berkeley
+- arxiv: [https://arxiv.org/abs/2201.03545](https://arxiv.org/abs/2201.03545)
+- github: [https://github.com/facebookresearch/ConvNeXt](https://github.com/facebookresearch/ConvNeXt)
+
 ## ImageNet Projects
 
 **Training an Object Classifier in Torch-7 on multiple GPUs over ImageNet**
@@ -584,6 +590,13 @@ not just the convolutions)
 
 - intro: Google Research & DeepMind
 - arxiv: [https://arxiv.org/abs/2109.10686](https://arxiv.org/abs/2109.10686)
+
+**How Do Vision Transformers Work?**
+
+- intro: ICLR 2022 Spotlight
+- intro: Yonsei University & NAVER AI Lab
+- arxiv: [https://arxiv.org/abs/2202.06709](https://arxiv.org/abs/2202.06709)
+- github: [https://github.com/xxxnell/how-do-vits-work](https://github.com/xxxnell/how-do-vits-work)
 
 # Semi-Supervised Learning
 

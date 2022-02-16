@@ -139,13 +139,6 @@ date: 2015-10-09
 - github(official): [https://github.com/chenyilun95/tf-cpn](https://github.com/chenyilun95/tf-cpn)
 - github: [https://github.com/GengDavid/pytorch-cpn](https://github.com/GengDavid/pytorch-cpn)
 
-**Integral Human Pose Regression**
-
-- intro: ECCV 2018
-- arxiv: [https://arxiv.org/abs/1711.08229](https://arxiv.org/abs/1711.08229)
-- slides: [https://jimmysuen.github.io/slides/xiaosun_integral_human_pose_regression.pptx](https://jimmysuen.github.io/slides/xiaosun_integral_human_pose_regression.pptx)
-- github: [https://github.com/JimmySuen/integral-human-pose](https://github.com/JimmySuen/integral-human-pose)
-
 **LSTM Pose Machines**
 
 - intro: CVPR 2018. SenseTime Research & Sun Yat-sen University
@@ -393,13 +386,6 @@ date: 2015-10-09
 - arxiv: [https://arxiv.org/abs/2010.13321](https://arxiv.org/abs/2010.13321)
 - gtihub: [https://github.com/google-research/google-research/tree/master/poem](https://github.com/google-research/google-research/tree/master/poem)
 
-**Point-Set Anchors for Object Detection, Instance Segmentation and Pose Estimation**
-
-- intro: ECCV 2020
-- intro: MSRA & Peking University
-- arxiv: [https://arxiv.org/abs/2007.02846](https://arxiv.org/abs/2007.02846)
-- github: [https://github.com/FangyunWei/PointSetAnchor](https://github.com/FangyunWei/PointSetAnchor)
-
 **An Empirical Study of the Collapsing Problem in Semi-Supervised 2D Human Pose Estimation**
 
 - intro: Peking University & Microsoft Research Asia
@@ -448,14 +434,6 @@ date: 2015-10-09
 - arxiv: [https://arxiv.org/abs/2104.06976](https://arxiv.org/abs/2104.06976)
 - github: [https://github.com/mlpc-ucsd/PRTR](https://github.com/mlpc-ucsd/PRTR)
 
-**Bottom-Up Human Pose Estimation Via Disentangled Keypoint Regression**
-
-- intro: CVPR 2021
-- keywords: DEKR
-- intro: University of Science and Technology of China & University of Chinese Academy of Sciences & Microsof
-- arxiv: [https://arxiv.org/abs/2104.02300](https://arxiv.org/abs/2104.02300)
-- github: [https://github.com/HRNet/DEKR](https://github.com/HRNet/DEKR)
-
 **Is 2D Heatmap Representation Even Necessary for Human Pose Estimation?**
 
 - intro: Tsinghua University & MEGVII Technology & Southeast University & Peng Cheng Laboratory
@@ -482,7 +460,53 @@ date: 2015-10-09
 - intro: ICCV 2021
 - arxiv: [https://arxiv.org/abs/2108.02092](https://arxiv.org/abs/2108.02092)
 
+**SmoothNet: A Plug-and-Play Network for Refining Human Poses in Videos**
+
+- intro: The Chinese University of Hong Kong & Sensetime Group Ltd. &Shanghai Jiao Tong University & Nanyang Technological University
+- project page: [https://ailingzeng.site/smoothnet](https://ailingzeng.site/smoothnet)
+- arxiv: [https://arxiv.org/abs/2112.13715](https://arxiv.org/abs/2112.13715)
+
+**AdaptivePose: Human Parts as Adaptive Points**
+
+- intro: AAAI 2022
+- intro: Beijing University of Posts and Telecommunications & ByteDance Inc. & Tsinghua University &  Horizon Robotics
+- arxiv: [https://arxiv.org/abs/2112.13635](https://arxiv.org/abs/2112.13635)
+
+**Learning Quality-aware Representation for Multi-person Pose Regression**
+
+- intro: AAAI 2022
+- intro: Beijing University of Posts and Telecommunications & ByteDance Inc. & Tsinghua University &  Horizon Robotics
+- arxiv: [https://arxiv.org/abs/2201.01087](https://arxiv.org/abs/2201.01087)
+
+# Regression-based Method
+
+**Integral Human Pose Regression**
+
+- intro: ECCV 2018
+- arxiv: [https://arxiv.org/abs/1711.08229](https://arxiv.org/abs/1711.08229)
+- slides: [https://jimmysuen.github.io/slides/xiaosun_integral_human_pose_regression.pptx](https://jimmysuen.github.io/slides/xiaosun_integral_human_pose_regression.pptx)
+- github: [https://github.com/JimmySuen/integral-human-pose](https://github.com/JimmySuen/integral-human-pose)
+
+**Human Pose Regression with Residual Log-likelihood Estimation**
+
+- intro: ICCV 2021 Oral
+- intro: Shanghai Jiao Tong University & The Chinese University of Hong Kong & SenseTime Research
+- arxiv: [https://arxiv.org/abs/2107.11291](https://arxiv.org/abs/2107.11291)
+- github: [https://github.com/Jeff-sjtu/res-loglikelihood-regression](https://github.com/Jeff-sjtu/res-loglikelihood-regression)
+
+**Poseur: Direct Human Pose Regression with Transformers**
+
+- intro: The University of Adelaide & Alibaba Damo Academy & Zhejiang University
+- arxiv: [https://arxiv.org/abs/2201.07412](https://arxiv.org/abs/2201.07412)
+
 # Top-Down
+
+**Point-Set Anchors for Object Detection, Instance Segmentation and Pose Estimation**
+
+- intro: ECCV 2020
+- intro: MSRA & Peking University
+- arxiv: [https://arxiv.org/abs/2007.02846](https://arxiv.org/abs/2007.02846)
+- github: [https://github.com/FangyunWei/PointSetAnchor](https://github.com/FangyunWei/PointSetAnchor)
 
 # Bottom-Up
 
@@ -498,6 +522,14 @@ date: 2015-10-09
 - project: [https://openpifpaf.github.io/intro.html](https://openpifpaf.github.io/intro.html)
 - intro: [https://arxiv.org/abs/2103.02440](https://arxiv.org/abs/2103.02440)
 - github: [https://github.com/openpifpaf/openpifpaf](https://github.com/openpifpaf/openpifpaf)
+
+**Bottom-Up Human Pose Estimation Via Disentangled Keypoint Regression**
+
+- intro: CVPR 2021
+- keywords: DEKR
+- intro: University of Science and Technology of China & University of Chinese Academy of Sciences & Microsof
+- arxiv: [https://arxiv.org/abs/2104.02300](https://arxiv.org/abs/2104.02300)
+- github: [https://github.com/HRNet/DEKR](https://github.com/HRNet/DEKR)
 
 **DeepSportLab: a Unified Framework for Ball Detection, Player Instance Segmentation and Pose Estimation in Team Sports Scenes**
 
@@ -525,7 +557,7 @@ date: 2015-10-09
 
 [https://arxiv.org/abs/2110.10734](https://arxiv.org/abs/2110.10734)
 
-# Hnad Pose
+# Hand Pose
 
 **Model-based Deep Hand Pose Estimation**
 
@@ -649,6 +681,12 @@ date: 2015-10-09
 
 - arxiv: [https://arxiv.org/abs/1912.08077](https://arxiv.org/abs/1912.08077)
 - github: [https://github.com/dluvizon/deephar](https://github.com/dluvizon/deephar)
+
+**Video Pose Distillation for Few-Shot, Fine-Grained Sports Action Recognition**
+
+- intro: ICCV 2021 poster
+- intro: Stanford University & Adobe Research
+- arxiv: [https://arxiv.org/abs/2109.01305](https://arxiv.org/abs/2109.01305)
 
 # Pose Tracking
 
