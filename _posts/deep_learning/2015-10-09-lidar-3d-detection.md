@@ -48,12 +48,6 @@ date: 2015-10-09
 
 [https://arxiv.org/abs/1904.07537](https://arxiv.org/abs/1904.07537)
 
-**Monocular 3D Object Detection and Box Fitting Trained End-to-End Using Intersection-over-Union Loss**
-
-- keywords: SS3D
-- arxiv: [https://arxiv.org/abs/1906.08070](https://arxiv.org/abs/1906.08070)
-- video: [https://www.youtube.com/playlist?list=PL4jJwJr7UjMb4bzLwUGHdVmhfNS2Ads_x](https://www.youtube.com/playlist?list=PL4jJwJr7UjMb4bzLwUGHdVmhfNS2Ads_x)
-
 **Point-Voxel CNN for Efficient 3D Deep Learning**
 
 - intro: NeurIPS 2019 Spotlight
@@ -73,13 +67,6 @@ date: 2015-10-09
 - keywords: VoteNet
 - arxiv: [https://arxiv.org/abs/1904.09664](https://arxiv.org/abs/1904.09664)
 - github: [https://github.com/facebookresearch/votenet](https://github.com/facebookresearch/votenet)
-
-**M3D-RPN: Monocular 3D Region Proposal Network for Object Detection**
-
-- intro: ICCV 2019 oral
-- project page: [http://cvlab.cse.msu.edu/project-m3d-rpn.html](http://cvlab.cse.msu.edu/project-m3d-rpn.html)
-- arxiv: [https://arxiv.org/abs/1907.06038](https://arxiv.org/abs/1907.06038)
-- github: [https://github.com/garrickbrazil/M3D-RPN](https://github.com/garrickbrazil/M3D-RPN)
 
 **Fast Point R-CNN**
 
@@ -141,12 +128,6 @@ date: 2015-10-09
 - arxiv: [https://arxiv.org/abs/1912.03663](https://arxiv.org/abs/1912.03663)
 - github: [https://github.com/itailang/SampleNet](https://github.com/itailang/SampleNet)
 
-**Learning Depth-Guided Convolutions for Monocular 3D Object Detection**
-
-- intro: CVPR 2020
-- arxiv: [https://arxiv.org/abs/1912.04799](https://arxiv.org/abs/1912.04799)
-- github: [https://github.com/dingmyu/D4LCN](https://github.com/dingmyu/D4LCN)
-
 **TANet: Robust 3D Object Detection from Point Clouds with Triple Attention**
 
 - intro: AAAI 2020 oral
@@ -159,11 +140,6 @@ date: 2015-10-09
 - intro: CVPR 2020
 - arxiv: [https://arxiv.org/abs/1912.13192](https://arxiv.org/abs/1912.13192)
 - github(official): [https://github.com/open-mmlab/OpenPCDet](https://github.com/open-mmlab/OpenPCDet)
-
-**RTM3D: Real-time Monocular 3D Detection from Object Keypoints for Autonomous Driving**
-
-- intro: ECCV 2020
-- arxiv: [https://arxiv.org/abs/2001.03343](https://arxiv.org/abs/2001.03343)
 
 **Point-GNN: Graph Neural Network for 3D Object Detection in a Point Cloud**
 
@@ -183,13 +159,6 @@ date: 2015-10-09
 - intro: University of Waterloo
 - arxiv: [https://arxiv.org/abs/2008.08766](https://arxiv.org/abs/2008.08766)
 - github: [https://github.com/AutoVision-cloud/Deformable-PV-RCNN](https://github.com/AutoVision-cloud/Deformable-PV-RCNN)
-
-**SMOKE: Single-Stage Monocular 3D Object Detection via Keypoint Estimation**
-
-- intro: CVPR 2020
-- intro: ZongMu Tech & TU/e
-- arxiv: [https://arxiv.org/abs/2002.10111](https://arxiv.org/abs/2002.10111)
-- github(official): [https://github.com/lzccccc/SMOKE](https://github.com/lzccccc/SMOKE)
 
 **3DSSD: Point-based 3D Single Stage Object Detector**
 
@@ -230,11 +199,6 @@ date: 2015-10-09
 - paper: [http://openaccess.thecvf.com/content_CVPR_2020/papers/He_Structure_Aware_Single-Stage_3D_Object_Detection_From_Point_Cloud_CVPR_2020_paper.pdf](http://openaccess.thecvf.com/content_CVPR_2020/papers/He_Structure_Aware_Single-Stage_3D_Object_Detection_From_Point_Cloud_CVPR_2020_paper.pdf)
 - paper: [https://www4.comp.polyu.edu.hk/~cslzhang/paper/SA-SSD.pdf](https://www4.comp.polyu.edu.hk/~cslzhang/paper/SA-SSD.pdf)
 - github: [https://github.com/skyhehe123/SA-SSD](https://github.com/skyhehe123/SA-SSD)
-
-**Center3D: Center-based Monocular 3D Object Detection with Joint Depth Understanding**
-
-- keywords: one-stage anchor-free
-- arxiv: [https://arxiv.org/abs/2005.13423](https://arxiv.org/abs/2005.13423)
 
 **Associate-3Ddet: Perceptual-to-Conceptual Association for 3D Point Cloud Object Detection**
 
@@ -357,12 +321,6 @@ date: 2015-10-09
 - intro: MIT & Google & Stanford
 - arxiv: [https://arxiv.org/abs/2009.11859](https://arxiv.org/abs/2009.11859)
 
-**Monocular Differentiable Rendering for Self-Supervised 3D Object Detection**
-
-- intro: ECCV 2020
-- intro: Preferred Networks, Inc & Toyota Research Institute
-- arxiv: [https://arxiv.org/abs/2009.14524](https://arxiv.org/abs/2009.14524)
-
 **Torch-Points3D: A Modular Multi-Task Frameworkfor Reproducible Deep Learning on 3D Point Clouds**
 
 - arxiv: [https://arxiv.org/abs/2010.04642](https://arxiv.org/abs/2010.04642)
@@ -447,29 +405,6 @@ date: 2015-10-09
 
 [https://arxiv.org/abs/2103.11071](https://arxiv.org/abs/2103.11071)
 
-**M3DSSD: Monocular 3D Single Stage Object Detector**
-
-- intro: CVPR 2021
-- intro: Zhejiang University & Mohamed bin Zayed University of Artificial Intelligence & Inception Institute of Artificial Intelligence
-- arxiv: [https://arxiv.org/abs/2103.13164](https://arxiv.org/abs/2103.13164)
-
-**Delving into Localization Errors for Monocular 3D Object Detection**
-
-- intro: CVPR 2021
-- arxiv: [https://arxiv.org/abs/2103.16237](https://arxiv.org/abs/2103.16237)
-- github: [https://github.com/xinzhuma/monodle](https://github.com/xinzhuma/monodle)
-
-**Depth-conditioned Dynamic Message Propagation for Monocular 3D Object Detection**
-
-- github: CVPR 2021
-- arxiv: [https://arxiv.org/abs/2103.16470](https://arxiv.org/abs/2103.16470)
-- github: [https://github.com/fudan-zvg/DDMP](https://github.com/fudan-zvg/DDMP)
-
-**GrooMeD-NMS: Grouped Mathematically Differentiable NMS for Monocular 3D Object Detection**
-
-- intro: CVPR 2021
-- arxiv: [https://arxiv.org/abs/2103.17202](https://arxiv.org/abs/2103.17202)
-
 **LiDAR R-CNN: An Efficient and Universal 3D Object Detector**
 
 - intro: CVPR 2021
@@ -488,24 +423,6 @@ date: 2015-10-09
 - arxiv: [https://arxiv.org/abs/2104.00678](https://arxiv.org/abs/2104.00678)
 - github: [https://github.com/zeliu98/Group-Free-3D](https://github.com/zeliu98/Group-Free-3D)
 
-**Objects are Different: Flexible Monocular 3D Object Detection**
-
-- intro: CVPR 2021
-- arxiv: [https://arxiv.org/abs/2104.02323](https://arxiv.org/abs/2104.02323)
-- github: [https://github.com/zhangyp15/MonoFlex](https://github.com/zhangyp15/MonoFlex)
-
-**Geometry-based Distance Decomposition for Monocular 3D Object Detection**
-
-[https://arxiv.org/abs/2104.03775](https://arxiv.org/abs/2104.03775)
-
-**Geometry-aware data augmentation for monocular 3D object detection**
-
-[https://arxiv.org/abs/2104.05858](https://arxiv.org/abs/2104.05858)
-
-**OCM3D: Object-Centric Monocular 3D Object Detection**
-
-[https://arxiv.org/abs/2104.06041](https://arxiv.org/abs/2104.06041)
-
 **SE-SSD: Self-Ensembling Single-Stage Object Detector From Point Cloud**
 
 - intro: CVPR 2021
@@ -516,28 +433,11 @@ date: 2015-10-09
 
 [https://arxiv.org/abs/2104.10780](https://arxiv.org/abs/2104.10780)
 
-**Exploring 2D Data Augmentation for 3D Monocular Object Detection**
-
-[https://arxiv.org/abs/2104.10786](https://arxiv.org/abs/2104.10786)
-
 **Investigating Attention Mechanism in 3D Point Cloud Object Detection**
 
 - intro: Australian National University & Data61-CSIRO, Australia & University of Technology Sydney & Nanyang Technological University
 - arxiv: [https://arxiv.org/abs/2108.00620](https://arxiv.org/abs/2108.00620)
 - github: [https://github.com/ShiQiu0419/attentions_in_3D_detection](https://github.com/ShiQiu0419/attentions_in_3D_detection)
-
-**Progressive Coordinate Transforms for Monocular 3D Object Detection**
-
-- intro: Fudan University & Amazon Inc.
-- arxiv: [https://arxiv.org/abs/2108.05793](https://arxiv.org/abs/2108.05793)
-- github: [https://github.com/amazon-research/progressive-coordinate-transforms](https://github.com/amazon-research/progressive-coordinate-transforms)
-
-**AutoShape: Real-Time Shape-Aware Monocular 3D Object Detection**
-
-- intro: ICCV 2021
-- intro: Baidu Research
-- arxiv: [https://arxiv.org/abs/2108.11127](https://arxiv.org/abs/2108.11127)
-- github: [https://github.com/zongdai/AutoShape](https://github.com/zongdai/AutoShape)
 
 **Pyramid R-CNN: Towards Better Performance and Adaptability for 3D Object Detection**
 
@@ -551,18 +451,47 @@ date: 2015-10-09
 - intro: The Chinese University of Hong Kong & National University of Singapore & Huawei Noah’s Ark Lab & HKUST & Sun Yat-Sen University
 - arxiv: [https://arxiv.org/abs/2109.02497](https://arxiv.org/abs/2109.02497)
 
-**SGM3D: Stereo Guided Monocular 3D Object Detection**
+**A Versatile Multi-View Framework for LiDAR-based 3D Object Detection with Guidance from Panoptic Segmentation**
 
-- intro: Fudan University & Baidu Inc.
-- arxiv: [https://arxiv.org/abs/2112.01914](https://arxiv.org/abs/2112.01914)
-- github: [https://github.com/zhouzheyuan/sgm3d](https://github.com/zhouzheyuan/sgm3d)
+- intro: CVPR 2022
+- arxiv: [https://arxiv.org/abs/2203.02133](https://arxiv.org/abs/2203.02133)
 
-**MonoDistill: Learning Spatial Features for Monocular 3D Object Detection**
+**Point Density-Aware Voxels for LiDAR 3D Object Detection**
 
-- intro: ICLR 2022
-- intro: Dalian University of Technology & The University of Sydney
-- arxiv: [https://arxiv.org/abs/2201.10830](https://arxiv.org/abs/2201.10830)
-- github: [https://github.com/monster-ghost/MonoDistill](https://github.com/monster-ghost/MonoDistill)
+- intro: CVPR 2022
+- arxiv: [https://arxiv.org/abs/2203.05662](https://arxiv.org/abs/2203.05662)
+- github: [https://github.com/TRAILab/PDV](https://github.com/TRAILab/PDV)
+
+**VISTA: Boosting 3D Object Detection via Dual Cross-VIew SpaTial Attention**
+
+- intro: CVPR 2022
+- arxiv: [https://arxiv.org/abs/2203.09704](https://arxiv.org/abs/2203.09704)
+- github: [https://github.com/Gorilla-Lab-SCUT/VISTA](https://github.com/Gorilla-Lab-SCUT/VISTA)
+
+**Not All Points Are Equal: Learning Highly Efficient Point-based Detectors for 3D LiDAR Point Clouds**
+
+- intro: CVPR 2022
+- intro: National University of Defense Technology & University of Oxford
+- arxiv: [https://arxiv.org/abs/2203.11139](https://arxiv.org/abs/2203.11139)
+- github: [https://github.com/yifanzhang713/IA-SSD](https://github.com/yifanzhang713/IA-SSD)
+
+L**iDAR Distillation: Bridging the Beam-Induced Domain Gap for 3D Object Detection**
+
+- intro: Tsinghua University & State Key Lab of Intelligent Technologies and Systems & Gaussian Robotics
+- arxiv: [https://arxiv.org/abs/2203.14956](https://arxiv.org/abs/2203.14956)
+- github: [https://github.com/weiyithu/LiDAR-Distillation](https://github.com/weiyithu/LiDAR-Distillation)
+
+**Point2Seq: Detecting 3D Objects as Sequences**
+
+- intro: CVPR 2022
+- arxiv: [https://arxiv.org/abs/2203.13394](https://arxiv.org/abs/2203.13394)
+- github: [https://github.com/ocNflag/point2seq](https://github.com/ocNflag/point2seq)
+
+**OccAM's Laser: Occlusion-based Attribution Maps for 3D Object Detectors on LiDAR Data**
+
+- intro: CVPR 2022
+- arxiv: [https://arxiv.org/abs/2204.06577](https://arxiv.org/abs/2204.06577)
+- github: [https://github.com/dschinagl/occam](https://github.com/dschinagl/occam)
 
 # Anchor-free 3D Detection
 
@@ -775,6 +704,13 @@ date: 2015-10-09
 - intro: Zhejiang University & DAMO Academy, Alibaba Group
 - arxiv: [https://arxiv.org/abs/2108.10723](https://arxiv.org/abs/2108.10723)
 - github: [https://github.com/hlsheng1/CT3D](https://github.com/hlsheng1/CT3D)
+
+**TransFusion: Robust LiDAR-Camera Fusion for 3D Object Detection with Transformers**
+
+- intro CVPR 2022
+- intro: Hong Kong University of Science and Technology & Huawei & City University of Hong Kong
+- arxiv: [https://arxiv.org/abs/2203.11496](https://arxiv.org/abs/2203.11496)
+- github: [https://github.com/XuyangBai/TransFusion/](https://github.com/XuyangBai/TransFusion/)
 
 # Projects
 

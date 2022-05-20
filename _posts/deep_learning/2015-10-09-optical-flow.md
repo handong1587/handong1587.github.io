@@ -101,3 +101,14 @@ date: 2015-10-09
 - intro: ICCV 2021
 - intro: University of Bologna, Italy
 - arxiv: [https://arxiv.org/abs/2109.15321](https://arxiv.org/abs/2109.15321)
+
+**FlowFormer: A Transformer Architecture for Optical Flow**
+
+- project page: [https://drinkingcoder.github.io/publication/flowformer/](https://drinkingcoder.github.io/publication/flowformer/)
+- arxiv: [https://arxiv.org/abs/2203.16194](https://arxiv.org/abs/2203.16194)
+
+**CRAFT: Cross-Attentional Flow Transformer for Robust Optical Flow**
+
+- intro: CVPR 2022
+- arxiv: [https://arxiv.org/abs/2203.16896](https://arxiv.org/abs/2203.16896)
+- github: [https://github.com/askerlee/craft](https://github.com/askerlee/craft)

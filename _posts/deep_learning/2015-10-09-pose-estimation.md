@@ -478,6 +478,18 @@ date: 2015-10-09
 - intro: Beijing University of Posts and Telecommunications & ByteDance Inc. & Tsinghua University &  Horizon Robotics
 - arxiv: [https://arxiv.org/abs/2201.01087](https://arxiv.org/abs/2201.01087)
 
+**Recognition of Freely Selected Keypoints on Human Limbs**
+
+- intro: CVPR 2022 Workshops
+- arxiv: [https://arxiv.org/abs/2204.06326](https://arxiv.org/abs/2204.06326)
+
+**YOLO-Pose: Enhancing YOLO for Multi Person Pose Estimation Using Object Keypoint Similarity Loss**
+
+- intro: Texas Instruments Inc
+- arxiv: [https://arxiv.org/abs/2204.06806](https://arxiv.org/abs/2204.06806)
+- github: [https://github.com/TexasInstruments/edgeai-yolov5](https://github.com/TexasInstruments/edgeai-yolov5)
+- github: [https://github.com/TexasInstruments/edgeai-yolox](https://github.com/TexasInstruments/edgeai-yolox)
+
 # Regression-based Method
 
 **Integral Human Pose Regression**
@@ -556,6 +568,12 @@ date: 2015-10-09
 **Self-Supervision and Spatial-Sequential Attention Based Loss for Multi-Person Pose Estimation**
 
 [https://arxiv.org/abs/2110.10734](https://arxiv.org/abs/2110.10734)
+
+**Learning Local-Global Contextual Adaptation for Multi-Person Pose Estimation**
+
+- intro: CVPR 2022
+- intro: Wuhan University, NC State University
+- arxiv: [https://arxiv.org/abs/2109.03622](https://arxiv.org/abs/2109.03622)
 
 # Hand Pose
 
@@ -651,6 +669,18 @@ date: 2015-10-09
 - arxiv: [https://arxiv.org/abs/2110.15267](https://arxiv.org/abs/2110.15267)
 - github: [https://github.com/MomoAILab/ultrapose](https://github.com/MomoAILab/ultrapose)
 
+**Distribution-Aware Single-Stage Models for Multi-Person 3D Pose Estimation**
+
+- intro: CVPR 2022
+- intro: Beihang University & Meitu Inc.
+- arxiv: [https://arxiv.org/abs/2203.07697](https://arxiv.org/abs/2203.07697)
+
+**DeciWatch: A Simple Baseline for 10x Efficient 2D and 3D Pose Estimation**
+
+- intro: The Chinese University of Hong Kong & Sensetime Group Ltd. &  Shanghai Artificial Intelligence Laboratory
+- project page: [https://ailingzeng.site/deciwatch](https://ailingzeng.site/deciwatch)
+- arxiv: [https://arxiv.org/abs/2203.08713](https://arxiv.org/abs/2203.08713)
+
 # 3D Car keypoints Detection
 
 **Occlusion-Net: 2D/3D Occluded Keypoint Localization Using Graph Networks**
@@ -687,6 +717,19 @@ date: 2015-10-09
 - intro: ICCV 2021 poster
 - intro: Stanford University & Adobe Research
 - arxiv: [https://arxiv.org/abs/2109.01305](https://arxiv.org/abs/2109.01305)
+
+**Skeleton Sequence and RGB Frame Based Multi-Modality Feature Fusion Network for Action Recognition**
+
+- intro: ACM Transactions on Multimedia Computing, Communications, and Applications (TOMM)
+- arxiv: [https://arxiv.org/abs/2202.11374](https://arxiv.org/abs/2202.11374)
+
+**Revisiting Skeleton-based Action Recognition**
+
+- intro: CVPR 2022 Oral
+- keywords: PoseConv3D
+- arxiv: [https://arxiv.org/abs/2104.13586](https://arxiv.org/abs/2104.13586)
+- github: [https://github.com/kennymckormick/pyskl](https://github.com/kennymckormick/pyskl)
+- github: [https://github.com/open-mmlab/mmaction2/blob/master/configs/skeleton/posec3d/README.md](https://github.com/open-mmlab/mmaction2/blob/master/configs/skeleton/posec3d/README.md)
 
 # Pose Tracking
 

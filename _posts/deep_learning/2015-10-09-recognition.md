@@ -207,6 +207,12 @@ date: 2015-10-09
 - arxiv: [https://arxiv.org/abs/2010.11929](https://arxiv.org/abs/2010.11929)
 - github: [https://github.com/google-research/vision_transformer](https://github.com/google-research/vision_transformer)
 
+**High-Performance Large-Scale Image Recognition Without Normalization**
+
+- intro: NFNet
+- arxiv: [https://arxiv.org/abs/2102.06171](https://arxiv.org/abs/2102.06171)
+- github: [https://github.com/deepmind/deepmind-research/tree/master/nfnets](https://github.com/deepmind/deepmind-research/tree/master/nfnets)
+
 # Massive Classification
 
 **Accelerated Training for Massive Classification via Dynamic Class Selection**

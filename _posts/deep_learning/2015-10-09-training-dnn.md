@@ -392,6 +392,12 @@ date: 2015-10-09
 - intro: Facebook AI Research
 - arxiv: [https://arxiv.org/abs/2105.07576](https://arxiv.org/abs/2105.07576)
 
+**Delving into the Estimation Shift of Batch Normalization in a Network**
+
+- intro: CVPR 2022
+- arxiv: [https://arxiv.org/abs/2203.10778](https://arxiv.org/abs/2203.10778)
+- gtihub: [https://github.com/huangleiBuaa/XBNBlock](https://github.com/huangleiBuaa/XBNBlock)
+
 ### Backward pass of BN
 
 **Understanding the backward pass through Batch Normalization Layer**

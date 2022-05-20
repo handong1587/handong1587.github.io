@@ -86,11 +86,6 @@ date: 2015-10-09
 - paper: [http://openaccess.thecvf.com/content_cvpr_2017/papers/Shen_Semantic_Segmentation_via_CVPR_2017_paper.pdf](http://openaccess.thecvf.com/content_cvpr_2017/papers/Shen_Semantic_Segmentation_via_CVPR_2017_paper.pdf)
 - github(Caffe): [https://github.com//FalongShen/SegModel](https://github.com//FalongShen/SegModel)
 
-**Nighttime sky/cloud image segmentation**
-
-- intro: ICIP 2017
-- arxiv: [https://arxiv.org/abs/1705.10583](https://arxiv.org/abs/1705.10583)
-
 **Distantly Supervised Road Segmentation**
 
 - intro: ICCV workshop CVRSUAD2017. Indiana University & Preferred Networks
@@ -912,11 +907,6 @@ with built-in awareness of semantically meaningful boundaries. "
 
 [https://arxiv.org/abs/1809.06323](https://arxiv.org/abs/1809.06323)
 
-**Dark Model Adaptation: Semantic Image Segmentation from Daytime to Nighttime**
-
-- intro: International Conference on Intelligent Transportation Systems (ITSC 2018)
-- arxiv: [https://arxiv.org/abs/1810.02575](https://arxiv.org/abs/1810.02575)
-
 **Semantic Image Segmentation by Scale-Adaptive Networks**
 
 - github(Caffe): [https://github.com/speedinghzl/Scale-Adaptive-Network](https://github.com/speedinghzl/Scale-Adaptive-Network)
@@ -953,19 +943,6 @@ with built-in awareness of semantically meaningful boundaries. "
 
 - arxiv: [https://arxiv.org/abs/1901.03353](https://arxiv.org/abs/1901.03353)
 - github: [https://github.com/chengyangfu/retinamask](https://github.com/chengyangfu/retinamask)
-
-**Semantic Nighttime Image Segmentation with Synthetic Stylized Data, Gradual Adaptation and Uncertainty-Aware Evaluation**
-
-**Guided Curriculum Model Adaptation and Uncertainty-Aware Evaluation for Semantic Nighttime Image Segmentation**
-
-- intro: ICCV 2019
-- intro: ETH Zurich & KU Leuven
-- arxiv: [https://arxiv.org/abs/1901.05946](https://arxiv.org/abs/1901.05946)
-
-**Bi-Mix: Bidirectional Mixing for Domain Adaptive Nighttime Semantic Segmentation**
-
-- arxiv: [https://arxiv.org/abs/2111.10339](https://arxiv.org/abs/2111.10339)
-- github: [https://github.com/ygjwd12345/BiMix](https://github.com/ygjwd12345/BiMix)
 
 **Fast-SCNN: Fast Semantic Segmentation Network**
 
@@ -1234,13 +1211,6 @@ with built-in awareness of semantically meaningful boundaries. "
 - intro: Qualcomm AI Research
 - arxiv: [https://arxiv.org/abs/2104.02745](https://arxiv.org/abs/2104.02745)
 
-**DANNet: A One-Stage Domain Adaptation Network for Unsupervised Nighttime Semantic Segmentation**
-
-- intro: CVPR 2021 oral
-- intro: University of South Carolina & Farsee2 Technology Ltd
-- arxiv: [https://arxiv.org/abs/2104.10834](https://arxiv.org/abs/2104.10834)
-- github: [https://github.com/W-zx-Y/DANNet](https://github.com/W-zx-Y/DANNet)
-
 **Rethinking BiSeNet For Real-time Semantic Segmentation**
 
 - intro: Meituan
@@ -1292,6 +1262,18 @@ with built-in awareness of semantically meaningful boundaries. "
 - intro: University of Chinese Academy of Sciences & Institute of Computing Technology, CAS & Peking University & Microsoft Research Asia & Baidu
 - arxiv: [https://arxiv.org/abs/2110.09408](https://arxiv.org/abs/2110.09408)
 - github: [https://github.com/HRNet/HRFormer](https://github.com/HRNet/HRFormer)
+
+**Deep Hierarchical Semantic Segmentation**
+
+- intro: CVPR 2022
+- arxiv: [https://arxiv.org/abs/2203.14335](https://arxiv.org/abs/2203.14335)
+- github: [https://github.com/0liliulei/HieraSeg](https://github.com/0liliulei/HieraSeg)
+
+**TopFormer: Token Pyramid Transformer for Mobile Semantic Segmentation**
+
+- intro: CVPR 2022
+- arxiv: [https://arxiv.org/abs/2204.05525](https://arxiv.org/abs/2204.05525)
+- github: [https://github.com/hustvl/TopFormer](https://github.com/hustvl/TopFormer)
 
 # Instance Segmentation
 
@@ -1751,9 +1733,11 @@ with built-in awareness of semantically meaningful boundaries. "
 
 **Deep Occlusion-Aware Instance Segmentation with Overlapping BiLayers**
 
-- intro: https://github.com/lkeab/BCNet
+- intro: CVPR 2021
 - arxiv: [https://arxiv.org/abs/2103.12340](https://arxiv.org/abs/2103.12340)
 - github: [https://github.com/lkeab/BCNet](https://github.com/lkeab/BCNet)
+- youtube: [https://www.youtube.com/watch?v=iHlGJppJGiQ](https://www.youtube.com/watch?v=iHlGJppJGiQ)
+- zhihu: [https://zhuanlan.zhihu.com/p/378269087](https://zhuanlan.zhihu.com/p/378269087)
 
 **Sparse Object-level Supervision for Instance Segmentation with Pixel Embeddings**
 
@@ -1824,6 +1808,18 @@ with built-in awareness of semantically meaningful boundaries. "
 - intro: AAAI 2022
 - arxiv: [https://arxiv.org/abs/2112.11037](https://arxiv.org/abs/2112.11037)
 - github: [https://github.com/yuxiaodongHRI/SOIT](https://github.com/yuxiaodongHRI/SOIT)
+
+**ContrastMask: Contrastive Learning to Segment Every Thing**
+
+- intro: CVPR 2022
+- arxiv: [https://arxiv.org/abs/2203.09775](https://arxiv.org/abs/2203.09775)
+
+**Sparse Instance Activation for Real-Time Instance Segmentation**
+
+- intro CVPR 2022
+- intro: Huazhong University of Science & Technology & Horizon Robotics & CASIA
+- arxiv: [https://arxiv.org/abs/2203.12827](https://arxiv.org/abs/2203.12827)
+- github: [https://github.com/hustvl/SparseInst](https://github.com/hustvl/SparseInst)
 
 ## Human Instance Segmentation
 
@@ -2104,6 +2100,50 @@ P**art-aware Panoptic Segmentation**
 - intro: Zhejiang University & Tencent Youtu Lab & Shanghai Jiao Tong University
 - arxiv: [https://arxiv.org/abs/2201.04796](https://arxiv.org/abs/2201.04796)
 
+**Panoptic, Instance and Semantic Relations: A Relational Context Encoder to Enhance Panoptic Segmentation**
+
+- intro: CVPR 2022
+- intro: Qualcomm AI Research
+- arxiv: [https://arxiv.org/abs/2204.05370](https://arxiv.org/abs/2204.05370)
+
+# Nightime Segmentation
+
+**Nighttime sky/cloud image segmentation**
+
+- intro: ICIP 2017
+- arxiv: [https://arxiv.org/abs/1705.10583](https://arxiv.org/abs/1705.10583)
+
+**Dark Model Adaptation: Semantic Image Segmentation from Daytime to Nighttime**
+
+- intro: International Conference on Intelligent Transportation Systems (ITSC 2018)
+- arxiv: [https://arxiv.org/abs/1810.02575](https://arxiv.org/abs/1810.02575)
+
+**Semantic Nighttime Image Segmentation with Synthetic Stylized Data, Gradual Adaptation and Uncertainty-Aware Evaluation**
+
+**Guided Curriculum Model Adaptation and Uncertainty-Aware Evaluation for Semantic Nighttime Image Segmentation**
+
+- intro: ICCV 2019
+- intro: ETH Zurich & KU Leuven
+- arxiv: [https://arxiv.org/abs/1901.05946](https://arxiv.org/abs/1901.05946)
+
+**Bi-Mix: Bidirectional Mixing for Domain Adaptive Nighttime Semantic Segmentation**
+
+- arxiv: [https://arxiv.org/abs/2111.10339](https://arxiv.org/abs/2111.10339)
+- github: [https://github.com/ygjwd12345/BiMix](https://github.com/ygjwd12345/BiMix)
+
+**DANNet: A One-Stage Domain Adaptation Network for Unsupervised Nighttime Semantic Segmentation**
+
+- intro: CVPR 2021 oral
+- intro: University of South Carolina & Farsee2 Technology Ltd
+- arxiv: [https://arxiv.org/abs/2104.10834](https://arxiv.org/abs/2104.10834)
+- github: [https://github.com/W-zx-Y/DANNet](https://github.com/W-zx-Y/DANNet)
+
+**NightLab: A Dual-level Architecture with Hardness Detection for Segmentation at Night**
+
+- intro: CVPR 2022
+- arxiv: [https://arxiv.org/abs/2204.05538](https://arxiv.org/abs/2204.05538)
+- github: [https://github.com/xdeng7/NightLab](https://github.com/xdeng7/NightLab)
+
 # Face Parsing
 
 **Face Parsing via Recurrent Propagation**
@@ -2128,6 +2168,12 @@ P**art-aware Panoptic Segmentation**
 
 - arxiv: [https://arxiv.org/abs/2102.02717](https://arxiv.org/abs/2102.02717)
 - code: [https://ibug.doc.ic.ac.uk/resources/ibugmask/](https://ibug.doc.ic.ac.uk/resources/ibugmask/)
+
+**Decoupled Multi-task Learning with Cyclical Self-Regulation for Face Parsing**
+
+- intro: CVPR 2022
+- arxiv: [https://arxiv.org/abs/2203.14448](https://arxiv.org/abs/2203.14448)
+- github: [https://github.com/deepinsight/insightface/tree/master/parsing/dml_csr](https://github.com/deepinsight/insightface/tree/master/parsing/dml_csr)
 
 # Specific Segmentation
 
@@ -2241,6 +2287,11 @@ P**art-aware Panoptic Segmentation**
 **Scene Labeling using Recurrent Neural Networks with Explicit Long Range Contextual Dependency**
 
 - arxiv: [https://arxiv.org/abs/1611.07485](https://arxiv.org/abs/1611.07485)
+
+**FIFO: Learning Fog-invariant Features for Foggy Scene Segmentation**
+
+- intro: CVPR 2022
+- arxiv: [https://arxiv.org/abs/2204.01587](https://arxiv.org/abs/2204.01587)
 
 ## PSPNet
 
@@ -2780,6 +2831,7 @@ ranked 1st place in ImageNet Scene Parsing Challenge 2016
 
 - intro: ICCV 2019
 - intro: ByteDance AI Lab & UIUC & Adobe Research
+- keywords: MaskTrack R-CNN
 - arxiv: [https://arxiv.org/abs/1905.04804](https://arxiv.org/abs/1905.04804)
 - github: [https://github.com/youtubevos/MaskTrackRCNN](https://github.com/youtubevos/MaskTrackRCNN)
 
@@ -2969,6 +3021,11 @@ ranked 1st place in ImageNet Scene Parsing Challenge 2016
 - intro: The University of Adelaide & Adobe Inc. & Zhejiang University
 - arxiv: [https://arxiv.org/abs/2201.06889](https://arxiv.org/abs/2201.06889)
 
+**MatteFormer: Transformer-Based Image Matting via Prior-Tokens**
+
+- intro: Seoul National University & NAVER WEBTOON AI
+- arxiv: [https://arxiv.org/abs/2203.15662](https://arxiv.org/abs/2203.15662)
+
 ## trimap-free matting
 
 **Semantic Human Matting**
@@ -3045,6 +3102,17 @@ ranked 1st place in ImageNet Scene Parsing Challenge 2016
 - intro: WACV 2021 workshop
 - intro: Baidu, Inc.
 - arxiv: [https://arxiv.org/abs/2112.07146](https://arxiv.org/abs/2112.07146)
+- github: [https://github.com/PaddlePaddle/PaddleSeg](https://github.com/PaddlePaddle/PaddleSeg)
+
+**Situational Perception Guided Image Matting**
+
+- intro: OPPO Research Institute & PicUp.AI & Xmotors
+- arxiv: [https://arxiv.org/abs/2204.09276](https://arxiv.org/abs/2204.09276)
+
+**PP-Matting: High-Accuracy Natural Image Matting**
+
+- intro: Baidu Inc.
+- arixv: [https://arxiv.org/abs/2204.09433](https://arxiv.org/abs/2204.09433)
 - github: [https://github.com/PaddlePaddle/PaddleSeg](https://github.com/PaddlePaddle/PaddleSeg)
 
 # 3D Segmentation

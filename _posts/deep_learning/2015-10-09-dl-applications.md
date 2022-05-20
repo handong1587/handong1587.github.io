@@ -308,6 +308,12 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 
 [https://arxiv.org/abs/1902.09104](https://arxiv.org/abs/1902.09104)
 
+**EDTER: Edge Detection with Transformer**
+
+- intro: CVPR 2022
+- arxiv: [https://arxiv.org/abs/2203.08566](https://arxiv.org/abs/2203.08566)
+- github: [https://github.com/MengyangPu/EDTER](https://github.com/MengyangPu/EDTER)
+
 # Image Processing
 
 **Fast Image Processing with Fully-Convolutional Networks**

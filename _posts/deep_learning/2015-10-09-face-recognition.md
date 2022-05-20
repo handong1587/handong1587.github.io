@@ -436,6 +436,17 @@ L**ow-Resolution Face Recognition**
 - intro: TPAMI 2021
 - arxiv: [https://arxiv.org/abs/2108.09468](https://arxiv.org/abs/2108.09468)
 
+**AdaFace: Quality Adaptive Margin for Face Recognition**
+
+- intro: CVPR 2022 oral
+- arxiv: [https://arxiv.org/abs/2204.00964](https://arxiv.org/abs/2204.00964)
+- github: [https://github.com/mk-minchul/AdaFace](https://github.com/mk-minchul/AdaFace)
+
+**CoupleFace: Relation Matters for Face Recognition Distillation**
+
+- intro: Beihang University & SenseTime Group Limited & The University of Sydney
+- arxiv: [https://arxiv.org/abs/2204.05502](https://arxiv.org/abs/2204.05502)
+
 # Face Verification
 
 **Deep Learning Face Representation by Joint Identification-Verification**

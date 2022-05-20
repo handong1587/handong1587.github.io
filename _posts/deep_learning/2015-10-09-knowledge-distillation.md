@@ -215,6 +215,12 @@ date: 2015-10-09
 - arxiv: [https://arxiv.org/abs/2103.08273](https://arxiv.org/abs/2103.08273)
 - github(Pytorch): [https://github.com/MingiJi/FRSKD](https://github.com/MingiJi/FRSKD)
 
+**Decoupled Knowledge Distillation**
+
+- intro: CVPR 2022
+- intro: MEGVII Technology & Waseda University & Tsinghua University
+- arxiv: [https://arxiv.org/abs/2203.08679](https://arxiv.org/abs/2203.08679)
+
 # Resources
 
 **Awesome Knowledge-Distillation**

@@ -861,6 +861,11 @@ Continuation of [arXiv:1608.08021](https://arxiv.org/abs/1608.08021)
 - arxiv: [https://arxiv.org/abs/1904.08900](https://arxiv.org/abs/1904.08900)
 - github: [https://github.com/princeton-vl/CornerNet-Lite](https://github.com/princeton-vl/CornerNet-Lite)
 
+**CenterNet++ for Object Detection**
+
+- arxiv: [https://arxiv.org/abs/2204.08394](https://arxiv.org/abs/2204.08394)
+- github; [https://github.com/Duankaiwen/PyCenterNet](https://github.com/Duankaiwen/PyCenterNet)
+
 **Automated Focal Loss for Image based Object Detection**
 
 [https://arxiv.org/abs/1904.09048](https://arxiv.org/abs/1904.09048)
@@ -1133,6 +1138,11 @@ Continuation of [arXiv:1608.08021](https://arxiv.org/abs/1608.08021)
 - intro: SenseTime & CUHK
 - arxiv: [https://arxiv.org/abs/2009.11528](https://arxiv.org/abs/2009.11528)
 
+**SEA: Bridging the Gap Between One- and Two-stage Detector Distillation via SEmantic-aware Alignment**
+
+- intro: The Chinese University of Hong Kong & SmartMore
+- arxiv: [https://arxiv.org/abs/2203.00862](https://arxiv.org/abs/2203.00862)
+
 **A Ranking-based, Balanced Loss Function Unifying Classification and Localisation in Object Detection**
 
 - intro: NeurIPS 2020 spotlight
@@ -1356,6 +1366,18 @@ Continuation of [arXiv:1608.08021](https://arxiv.org/abs/1608.08021)
 **GiraffeDet: A Heavy-Neck Paradigm for Object Detection**
 
 [https://arxiv.org/abs/2202.04256](https://arxiv.org/abs/2202.04256)
+
+**A Dual Weighting Label Assignment Scheme for Object Detection**
+
+- intro: CVPR 2022
+- arxiv: [https://arxiv.org/abs/2203.09730](https://arxiv.org/abs/2203.09730)
+- github: [https://github.com/strongwolf/DW](https://github.com/strongwolf/DW)
+
+**QueryDet: Cascaded Sparse Query for Accelerating High-Resolution Small Object Detection**
+
+- intro: CVPR 2022
+- arxiv: [https://arxiv.org/abs/2103.09136](https://arxiv.org/abs/2103.09136)
+- github: [https://github.com/ChenhongyiYang/QueryDet-PyTorch](https://github.com/ChenhongyiYang/QueryDet-PyTorch)
 
 # Two-Stage Object Detection
 
@@ -1703,6 +1725,12 @@ Continuation of [arXiv:1608.08021](https://arxiv.org/abs/1608.08021)
 - intro: Baidu Inc.
 - arxiv: [https://arxiv.org/abs/2007.12099](https://arxiv.org/abs/2007.12099)
 - github: [https://github.com/PaddlePaddle/PaddleDetection](https://github.com/PaddlePaddle/PaddleDetection)
+
+**Real-time Object Detection for Streaming Perception**
+
+- intro: CVPR 2022 oral
+- arxiv: [https://arxiv.org/abs/2203.12338](https://arxiv.org/abs/2203.12338)
+- github: [https://github.com/yancie-yjr/StreamYOLO](https://github.com/yancie-yjr/StreamYOLO)
 
 ## SSD
 
@@ -2113,6 +2141,11 @@ Continuation of [arXiv:1608.08021](https://arxiv.org/abs/1608.08021)
 - arxiv: [https://arxiv.org/abs/2201.12329](https://arxiv.org/abs/2201.12329)
 - github: [https://github.com/SlongLiu/DAB-DETR](https://github.com/SlongLiu/DAB-DETR)
 
+**DINO: DETR with Improved DeNoising Anchor Boxes for End-to-End Object Detection**
+
+- arxiv: [https://arxiv.org/abs/2203.03605](https://arxiv.org/abs/2203.03605)
+- github: [https://github.com/IDEACVR/DINO](https://github.com/IDEACVR/DINO)
+
 **Oriented Object Detection with Transformer**
 
 - intro: University at Buffalo & Beihang University & Baidu Inc
@@ -2123,6 +2156,34 @@ Continuation of [arXiv:1608.08021](https://arxiv.org/abs/1608.08021)
 - intro: NAVER AI Lab & Google Research & University of California at Merced
 - arxiv: [https://arxiv.org/abs/2110.03921](https://arxiv.org/abs/2110.03921)
 - github: [https://github.com/naver-ai/vidt](https://github.com/naver-ai/vidt)
+
+**An Extendable, Efficient and Effective Transformer-based Object Detector**
+
+- arxiv: [https://arxiv.org/abs/2204.07962](https://arxiv.org/abs/2204.07962)
+- github: [https://github.com/naver-ai/vidt](https://github.com/naver-ai/vidt)
+
+**Omni-DETR: Omni-Supervised Object Detection with Transformers**
+
+- intro: CVPR 2022
+- arxiv: [https://arxiv.org/abs/2203.16089](https://arxiv.org/abs/2203.16089)
+
+**Accelerating DETR Convergence via Semantic-Aligned Matching**
+
+- intro: CVPR 2022
+- arxiv: [https://arxiv.org/abs/2203.06883](https://arxiv.org/abs/2203.06883)
+- github: [https://github.com/ZhangGongjie/SAM-DETR](https://github.com/ZhangGongjie/SAM-DETR)
+
+**AdaMixer: A Fast-Converging Query-Based Object Detector**
+
+- intro: CVPR 2022 oral
+- intro: Nanjing University, MYbank Ant Group
+- arxiv: [https://arxiv.org/abs/2203.16507](https://arxiv.org/abs/2203.16507)
+- github: [https://github.com/MCG-NJU/AdaMixer](https://github.com/MCG-NJU/AdaMixer)
+
+**Exploring Plain Vision Transformer Backbones for Object Detection**
+
+- intro: Facebook AI Research
+- arxiv: [https://arxiv.org/abs/2203.16527](https://arxiv.org/abs/2203.16527)
 
 # Non-Maximum Suppression (NMS)
 
@@ -2298,6 +2359,12 @@ Continuation of [arXiv:1608.08021](https://arxiv.org/abs/1608.08021)
 - intro: Tsinghua Shenzhen International Graduate School & ByteDance Inc & BeiHang University
 - arxiv: [https://arxiv.org/abs/2111.11837](https://arxiv.org/abs/2111.11837)
 - github: [https://github.com/yzd-v/FGD](https://github.com/yzd-v/FGD)
+
+**Prediction-Guided Distillation for Dense Object Detection**
+
+- intro: University of Edinburgh & Heriot-Watt University
+- arxiv: [https://arxiv.org/abs/2203.05469](https://arxiv.org/abs/2203.05469)
+- github: [https://github.com/ChenhongyiYang/PGD](https://github.com/ChenhongyiYang/PGD)
 
 # Rotated Object Detection
 
@@ -2512,7 +2579,9 @@ Continuation of [arXiv:1608.08021](https://arxiv.org/abs/1608.08021)
 
 **Sequence Level Semantics Aggregation for Video Object Detection**
 
-[https://arxiv.org/abs/1907.06390](https://arxiv.org/abs/1907.06390)
+- intro: ICCV 2019 oral
+- arxiv: [https://arxiv.org/abs/1907.06390](https://arxiv.org/abs/1907.06390)
+- github(MXNet): [https://github.com/happywu/Sequence-Level-Semantics-Aggregation](https://github.com/happywu/Sequence-Level-Semantics-Aggregation)
 
 **Object Detection in Video with Spatial-temporal Context Aggregation**
 
@@ -3046,6 +3115,12 @@ Continuation of [arXiv:1608.08021](https://arxiv.org/abs/1608.08021)
 
 - keywords: JointDet, head-body Relationship Discriminating Module (RDM)
 - arxiv: [https://arxiv.org/abs/1909.10674](https://arxiv.org/abs/1909.10674)
+
+**Body-Face Joint Detection via Embedding and Head Hook**
+
+- intro: ICCV 2021
+- paper: [https://openaccess.thecvf.com/content/ICCV2021/papers/Wan_Body-Face_Joint_Detection_via_Embedding_and_Head_Hook_ICCV_2021_paper.pdf](https://openaccess.thecvf.com/content/ICCV2021/papers/Wan_Body-Face_Joint_Detection_via_Embedding_and_Head_Hook_ICCV_2021_paper.pdf)
+- gihtub: [https://github.com/AibeeDetect/BFJDet](https://github.com/AibeeDetect/BFJDet)
 
 # Pedestrian Detection / People Detection
 
