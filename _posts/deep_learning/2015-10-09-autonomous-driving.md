@@ -211,6 +211,18 @@ joint classification, detection and semantic segmentation via a unified architec
 - intro: Uber ATG & University of Toronto
 - arxiv: [https://arxiv.org/abs/2101.06806](https://arxiv.org/abs/2101.06806)
 
+**Level 2 Autonomous Driving on a Single Device: Diving into the Devils of Openpilot**
+
+- intro: Shanghai AI Laboratory & Shanghai Jiao Tong University & UCSD & SenseTime
+- arxiv: [https://arxiv.org/abs/2206.08176](https://arxiv.org/abs/2206.08176)
+- github: [https://github.com/OpenPerceptionX/Openpilot-Deepdive](https://github.com/OpenPerceptionX/Openpilot-Deepdive)
+
+**Real-time Full-stack Traffic Scene Perception for Autonomous Driving with Roadside Cameras**
+
+- intro: ICRA 2022
+- intro: University of Michigan & Ford Motor Company
+- arxiv: [https://arxiv.org/abs/2206.09770](https://arxiv.org/abs/2206.09770)
+
 # Projects
 
 **Caffe-Autopilot: Car autopilot software that uses C++, BVLC Caffe, OpenCV, and SFML**

@@ -490,6 +490,12 @@ date: 2015-10-09
 - github: [https://github.com/TexasInstruments/edgeai-yolov5](https://github.com/TexasInstruments/edgeai-yolov5)
 - github: [https://github.com/TexasInstruments/edgeai-yolox](https://github.com/TexasInstruments/edgeai-yolox)
 
+**Lite Pose: Efficient Architecture Design for 2D Human Pose Estimation**
+
+- intro: Tsinghua University & CMU & MIT
+- arxiv: [https://arxiv.org/abs/2205.01271](https://arxiv.org/abs/2205.01271)
+- github: [https://github.com/mit-han-lab/litepose](https://github.com/mit-han-lab/litepose)
+
 # Regression-based Method
 
 **Integral Human Pose Regression**
@@ -510,6 +516,11 @@ date: 2015-10-09
 
 - intro: The University of Adelaide & Alibaba Damo Academy & Zhejiang University
 - arxiv: [https://arxiv.org/abs/2201.07412](https://arxiv.org/abs/2201.07412)
+
+**Location-free Human Pose Estimation**
+
+- intro: Beijing Jiaotong University & Tencent Youtu Lab
+- arxiv: [https://arxiv.org/abs/2205.12619](https://arxiv.org/abs/2205.12619)
 
 # Top-Down
 
@@ -574,6 +585,17 @@ date: 2015-10-09
 - intro: CVPR 2022
 - intro: Wuhan University, NC State University
 - arxiv: [https://arxiv.org/abs/2109.03622](https://arxiv.org/abs/2109.03622)
+
+**I^2R-Net: Intra- and Inter-Human Relation Network for Multi-Person Pose Estimation**
+
+- intro: Xiamen University & Microsoft Research Asia
+- arxiv: [https://arxiv.org/abs/2206.10892](https://arxiv.org/abs/2206.10892)
+
+**End-to-End Multi-Person Pose Estimation with Transformers**
+
+- intro: CVPR 2022 Oral
+- paper: [https://openaccess.thecvf.com/content/CVPR2022/papers/Shi_End-to-End_Multi-Person_Pose_Estimation_With_Transformers_CVPR_2022_paper.pdf](https://openaccess.thecvf.com/content/CVPR2022/papers/Shi_End-to-End_Multi-Person_Pose_Estimation_With_Transformers_CVPR_2022_paper.pdf)
+- github: [https://github.com/hikvision-research/opera/tree/main/configs/petr](https://github.com/hikvision-research/opera/tree/main/configs/petr)
 
 # Hand Pose
 

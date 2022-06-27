@@ -598,6 +598,24 @@ not just the convolutions)
 - arxiv: [https://arxiv.org/abs/2202.06709](https://arxiv.org/abs/2202.06709)
 - github: [https://github.com/xxxnell/how-do-vits-work](https://github.com/xxxnell/how-do-vits-work)
 
+**MulT: An End-to-End Multitask Learning Transformer**
+
+- intro: CVPR 2022
+- project page: [https://ivrl.github.io/MulT/](https://ivrl.github.io/MulT/)
+- arxiv: [https://arxiv.org/abs/2205.08303](https://arxiv.org/abs/2205.08303)
+
+**EfficientFormer: Vision Transformers at MobileNet Speed**
+
+- intro: Snap Inc. & Northeastern University
+- arxiv: [https://arxiv.org/abs/2206.01191](https://arxiv.org/abs/2206.01191)
+- github: [https://github.com/snap-research/EfficientFormer](https://github.com/snap-research/EfficientFormer)
+
+**SimA: Simple Softmax-free Attention for Vision Transformers**
+
+- intro: University of Maryland & University of California
+- arxiv: [https://arxiv.org/abs/2206.08898](https://arxiv.org/abs/2206.08898)
+- gihtub: [https://github.com/UCDvision/sima](https://github.com/UCDvision/sima)
+
 # Semi-Supervised Learning
 
 **Semi-Supervised Learning with Graphs**
@@ -822,6 +840,12 @@ not just the convolutions)
 - intro: ETH Zurich
 - arxiv: [https://arxiv.org/abs/2104.13874](https://arxiv.org/abs/2104.13874)
 
+**Cross-task Attention Mechanism for Dense Multi-task Learning**
+
+- intro: Inria, France & Valeo.ai, France
+- arxiv: [https://arxiv.org/abs/2206.08927](https://arxiv.org/abs/2206.08927)
+- github: [https://github.com/cv-rits/DenseMTL](https://github.com/cv-rits/DenseMTL)
+
 # Multi-modal Learning
 
 **Multimodal Deep Learning**
@@ -872,6 +896,11 @@ not just the convolutions)
 **Multimodal Deep Learning (D4L4 Deep Learning for Speech and Language UPC 2017)**
 
 - slides: [http://www.slideshare.net/xavigiro/multimodal-deep-learning-d4l4-deep-learning-for-speech-and-language-upc-2017](http://www.slideshare.net/xavigiro/multimodal-deep-learning-d4l4-deep-learning-for-speech-and-language-upc-2017)
+
+**Multimodal Learning with Transformers: A Survey**
+
+- intro: University of Oxford & University of Surrey
+- arxiv: [https://arxiv.org/abs/2206.06488](https://arxiv.org/abs/2206.06488)
 
 # Debugging Deep Learning
 

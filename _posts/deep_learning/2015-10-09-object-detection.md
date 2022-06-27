@@ -1570,9 +1570,21 @@ Continuation of [arXiv:1608.08021](https://arxiv.org/abs/1608.08021)
 
 **Sparse R-CNN: End-to-End Object Detection with Learnable Proposals**
 
+- intro: CVPR 2021
 - intro: The University of Hong Kong & Tongji University & ByteDance AI Lab 4University of California
 - arxiv: [https://arxiv.org/abs/2011.12450](https://arxiv.org/abs/2011.12450)
 - github: [https://github.com/PeizeSun/SparseR-CNN](https://github.com/PeizeSun/SparseR-CNN)
+
+**Dynamic Sparse R-CNN**
+
+- intro: CVPR 2022
+- arxiv: [https://arxiv.org/abs/2205.02101](https://arxiv.org/abs/2205.02101)
+
+**Featurized Query R-CNN**
+
+- intro: Huazhong University of Science & Technology & Horizon Robotics
+- arxiv: [https://arxiv.org/abs/2206.06258](https://arxiv.org/abs/2206.06258)
+- github: [https://github.com/hustvl/Featurized-QueryRCNN](https://github.com/hustvl/Featurized-QueryRCNN)
 
 **Augmenting Proposals by the Detector Itself**
 
@@ -2184,6 +2196,12 @@ Continuation of [arXiv:1608.08021](https://arxiv.org/abs/1608.08021)
 
 - intro: Facebook AI Research
 - arxiv: [https://arxiv.org/abs/2203.16527](https://arxiv.org/abs/2203.16527)
+
+**Efficient Decoder-free Object Detection with Transformers**
+
+- intro:  Tencent Youtu Lab & Zhejiang University
+- arxiv: [https://arxiv.org/abs/2206.06829](https://arxiv.org/abs/2206.06829)
+- github: [https://github.com/Pealing/DFFT](https://github.com/Pealing/DFFT)
 
 # Non-Maximum Suppression (NMS)
 

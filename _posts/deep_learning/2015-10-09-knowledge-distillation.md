@@ -221,6 +221,18 @@ date: 2015-10-09
 - intro: MEGVII Technology & Waseda University & Tsinghua University
 - arxiv: [https://arxiv.org/abs/2203.08679](https://arxiv.org/abs/2203.08679)
 
+**Knowledge Distillation via the Target-aware Transformer**
+
+- intro: CVPR 2022 Oral
+- intro: RMIT University & Alibaba Group & ReLER & Sun Yat-sen University
+- arxiv: [https://arxiv.org/abs/2205.10793](https://arxiv.org/abs/2205.10793)
+
+**Knowledge Distillation from A Stronger Teacher**
+
+- intro: SenseTime Research & The University of Sydney & University of Science and Technology of China
+- arxiv: [https://arxiv.org/abs/2205.10536](https://arxiv.org/abs/2205.10536)
+- github: [https://github.com/hunto/DIST_KD](https://github.com/hunto/DIST_KD)
+
 # Resources
 
 **Awesome Knowledge-Distillation**

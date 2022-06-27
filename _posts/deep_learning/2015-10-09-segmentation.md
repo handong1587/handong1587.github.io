@@ -1275,6 +1275,12 @@ with built-in awareness of semantically meaningful boundaries. "
 - arxiv: [https://arxiv.org/abs/2204.05525](https://arxiv.org/abs/2204.05525)
 - github: [https://github.com/hustvl/TopFormer](https://github.com/hustvl/TopFormer)
 
+**Mask DINO: Towards A Unified Transformer-based Framework for Object Detection and Segmentation**
+
+- intro: The Hong Kong University of Science and Technology & Tsinghua University & International Digital Economy Academy (IDEA) & The Hong Kong University of Science and Technology (Guangzhou)
+- arxiv: [https://arxiv.org/abs/2206.02777](https://arxiv.org/abs/2206.02777)
+- github: [https://github.com/IDEACVR/MaskDINO](https://github.com/IDEACVR/MaskDINO)
+
 # Instance Segmentation
 
 **Simultaneous Detection and Segmentation**
@@ -2105,6 +2111,18 @@ P**art-aware Panoptic Segmentation**
 - intro: CVPR 2022
 - intro: Qualcomm AI Research
 - arxiv: [https://arxiv.org/abs/2204.05370](https://arxiv.org/abs/2204.05370)
+
+**PanopticDepth: A Unified Framework for Depth-aware Panoptic Segmentation**
+
+- intro: CVPR 2022
+- intro: Chinese Academy of Sciences & University of Chinese Academy of Sciences & Horizon Robotics, Inc.
+- arxiv: [https://arxiv.org/abs/2206.00468](https://arxiv.org/abs/2206.00468)
+
+**CMT-DeepLab: Clustering Mask Transformers for Panoptic Segmentation**
+
+- intro: CVPR 2022 Oral
+- intro: Johns Hopkins University & KAIST & Google Research
+- arxiv: [https://arxiv.org/abs/2206.08948](https://arxiv.org/abs/2206.08948)
 
 # Nightime Segmentation
 
@@ -3025,6 +3043,12 @@ ranked 1st place in ImageNet Scene Parsing Challenge 2016
 
 - intro: Seoul National University & NAVER WEBTOON AI
 - arxiv: [https://arxiv.org/abs/2203.15662](https://arxiv.org/abs/2203.15662)
+
+**Referring Image Matting**
+
+- intro: The University of Sydney & JD Explore Academy
+- arxiv: [https://arxiv.org/abs/2206.05149](https://arxiv.org/abs/2206.05149)
+- github: [https://github.com/JizhiziLi/RIM](https://github.com/JizhiziLi/RIM)
 
 ## trimap-free matting
 

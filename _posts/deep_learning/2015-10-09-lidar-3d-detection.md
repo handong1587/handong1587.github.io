@@ -493,6 +493,41 @@ L**iDAR Distillation: Bridging the Beam-Induced Domain Gap for 3D Object Detecti
 - arxiv: [https://arxiv.org/abs/2204.06577](https://arxiv.org/abs/2204.06577)
 - github: [https://github.com/dschinagl/occam](https://github.com/dschinagl/occam)
 
+**PointDistiller: Structured Knowledge Distillation Towards Efficient and Compact 3D Detection**
+
+- intro: Tsinghua University & Xi’an Jiaotong University & DIDI
+- arxiv: [https://arxiv.org/abs/2205.11098](https://arxiv.org/abs/2205.11098)
+- github: [https://github.com/RunpeiDong/PointDistiller](https://github.com/RunpeiDong/PointDistiller)
+
+**PillarNet: Real-Time and High-Performance Pillar-based 3D Object Detection**
+
+- intro: Harbin Institute of Technology & Shanghai Jiao Tong University
+- arxiv: [https://arxiv.org/abs/2205.07403](https://arxiv.org/abs/2205.07403)
+
+**Fully Convolutional One-Stage 3D Object Detection on LiDAR Range Images**
+
+- intro: Meituan Inc. & Zhejiang University & Northwestern Polytechnical University
+- arxiv: [https://arxiv.org/abs/2205.13764](https://arxiv.org/abs/2205.13764)
+
+**Voxel Field Fusion for 3D Object Detection**
+
+- intro: CVPR 2022
+- intro: The Chinese University of Hong Kong & The University of Hong Kong & MEGVII Technology & SmartMore
+- arxiv: [https://arxiv.org/abs/2205.15938](https://arxiv.org/abs/2205.15938)
+- github: [https://github.com/dvlab-research/VFF](https://github.com/dvlab-research/VFF)
+
+**Unifying Voxel-based Representation with Transformer for 3D Object Detection**
+
+- intro: The Chinese University of Hong Kong & The University of Hong Kong & MEGVII Technology & SmartMore4
+- arxiv: [https://arxiv.org/abs/2206.00630](https://arxiv.org/abs/2206.00630)
+- github: [https://github.com/dvlab-research/UVTR](https://github.com/dvlab-research/UVTR)
+
+**LidarMultiNet: Unifying LiDAR Semantic Segmentation, 3D Object Detection, and Panoptic Segmentation in a Single Multi-task Network**
+
+- intro: TuSimple & University of Central Florida
+- intro: Official 1st Place Solution for the Waymo Open Dataset Challenges 2022 - 3D Semantic Segmentation
+- arxiv: [https://arxiv.org/abs/2206.11428](https://arxiv.org/abs/2206.11428)
+
 # Anchor-free 3D Detection
 
 **Object as Hotspots: An Anchor-Free 3D Object Detection Approach via Firing of Hotspots**
