@@ -528,6 +528,28 @@ L**iDAR Distillation: Bridging the Beam-Induced Domain Gap for 3D Object Detecti
 - intro: Official 1st Place Solution for the Waymo Open Dataset Challenges 2022 - 3D Semantic Segmentation
 - arxiv: [https://arxiv.org/abs/2206.11428](https://arxiv.org/abs/2206.11428)
 
+**Rethinking IoU-based Optimization for Single-stage 3D Object Detection**
+
+- intro: ECCV 2022
+- intro: Zhejiang University & Alibaba Cloud Computing Ltd. & National University of Singapore
+- arxiv: [https://arxiv.org/abs/2207.09332](https://arxiv.org/abs/2207.09332)
+- github: [https://github.com/hlsheng1/RDIoU](https://github.com/hlsheng1/RDIoU)
+
+**Embracing Single Stride 3D Object Detector with Sparse Transformer**
+
+- intro: CVPR 2022
+- intro: CASIA & UIUC & CMU & THU & TuSimple
+- arxiv: [https://arxiv.org/abs/2112.06375](https://arxiv.org/abs/2112.06375)
+- github: [https://github.com/TuSimple/SST](https://github.com/TuSimple/SST)
+- zhihu: [https://zhuanlan.zhihu.com/p/476056546](https://zhuanlan.zhihu.com/p/476056546)
+
+**Fully Sparse 3D Object Detection**
+
+- intro: ECCV 2022
+- intro: CASIA & TuSimple
+- arxiv: [https://arxiv.org/abs/2207.10035](https://arxiv.org/abs/2207.10035)
+- github: [https://github.com/TuSimple/SST](https://github.com/TuSimple/SST)
+
 # Anchor-free 3D Detection
 
 **Object as Hotspots: An Anchor-Free 3D Object Detection Approach via Firing of Hotspots**

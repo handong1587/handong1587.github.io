@@ -707,6 +707,11 @@ L**ow-Resolution Face Recognition**
 - arxiv: [https://arxiv.org/abs/2111.02360](https://arxiv.org/abs/2111.02360)
 - github: [https://github.com/1adrianb/face-alignment](https://github.com/1adrianb/face-alignment)
 
+**RePFormer: Refinement Pyramid Transformer for Robust Facial Landmark Detection**
+
+- intro: The Chinese University of Hong Kong & The Hong Kong University of Science and Technology & IIAI & Terminus Group & Chinese Academy of Sciences
+- arxiv: [https://arxiv.org/abs/2207.03917](https://arxiv.org/abs/2207.03917)
+
 # Face Synthesis
 
 **Beyond Face Rotation: Global and Local Perception GAN for Photorealistic and Identity Preserving Frontal View Synthesis**

@@ -2124,6 +2124,18 @@ P**art-aware Panoptic Segmentation**
 - intro: Johns Hopkins University & KAIST & Google Research
 - arxiv: [https://arxiv.org/abs/2206.08948](https://arxiv.org/abs/2206.08948)
 
+**Uncertainty-aware Panoptic Segmentation**
+
+- intro: Technical University Nurnberg
+- arxiv: [https://arxiv.org/abs/2206.14554](https://arxiv.org/abs/2206.14554)
+
+**k-means Mask Transformer**
+
+- intro: ECCV 2022
+- intro: Johns Hopkins University & Google Research
+- arxiv: [https://arxiv.org/abs/2207.04044](https://arxiv.org/abs/2207.04044)
+- github: [https://github.com/google-research/deeplab2](https://github.com/google-research/deeplab2)
+
 # Nightime Segmentation
 
 **Nighttime sky/cloud image segmentation**
@@ -2563,6 +2575,11 @@ ranked 1st place in ImageNet Scene Parsing Challenge 2016
 
 - intro: Ajou University & Tiangong University & Incheon National University
 - arxiv: [https://arxiv.org/abs/2111.14173](https://arxiv.org/abs/2111.14173)
+
+**AIParsing: Anchor-free Instance-level Human Parsing**
+
+- intro: IEEE Transactions on Image Processing (TIP)
+- arxiv: [https://arxiv.org/abs/2207.06854](https://arxiv.org/abs/2207.06854)
 
 # Joint Detection and Segmentation
 

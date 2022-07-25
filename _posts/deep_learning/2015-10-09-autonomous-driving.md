@@ -223,6 +223,13 @@ joint classification, detection and semantic segmentation via a unified architec
 - intro: University of Michigan & Ford Motor Company
 - arxiv: [https://arxiv.org/abs/2206.09770](https://arxiv.org/abs/2206.09770)
 
+**ST-P3: End-to-end Vision-based Autonomous Driving via Spatial-Temporal Feature Learning**
+
+- intro: ECCV 2022
+- intro: Shanghai Jiao Tong University & Shanghai AI Laboratory & The University of California & JD Explore Academy
+- arxiv: [https://arxiv.org/abs/2207.07601](https://arxiv.org/abs/2207.07601)
+- github: [https://github.com/OpenPerceptionX/ST-P3](https://github.com/OpenPerceptionX/ST-P3)
+
 # Projects
 
 **Caffe-Autopilot: Car autopilot software that uses C++, BVLC Caffe, OpenCV, and SFML**

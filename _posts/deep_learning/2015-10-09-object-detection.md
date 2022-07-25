@@ -310,6 +310,13 @@ Continuation of [arXiv:1608.08021](https://arxiv.org/abs/1608.08021)
 - intro: MEGVII Technology
 - arxiv: [https://arxiv.org/abs/2012.13563](https://arxiv.org/abs/2012.13563)
 
+**You Should Look at All Objects**
+
+- intro: ECCV 2022
+- intro: The University of Hong Kong & Bytedance & University of Rochester
+- arxiv: [https://arxiv.org/abs/2207.07889](https://arxiv.org/abs/2207.07889)
+- github: [https://github.com/CharlesPikachu/YSLAO](https://github.com/CharlesPikachu/YSLAO)
+
 **Action-Driven Object Detection with Top-Down Visual Attentions**
 
 - arxiv: [https://arxiv.org/abs/1612.06704](https://arxiv.org/abs/1612.06704)
@@ -1738,6 +1745,13 @@ Continuation of [arXiv:1608.08021](https://arxiv.org/abs/1608.08021)
 - arxiv: [https://arxiv.org/abs/2007.12099](https://arxiv.org/abs/2007.12099)
 - github: [https://github.com/PaddlePaddle/PaddleDetection](https://github.com/PaddlePaddle/PaddleDetection)
 
+## YOLOv7
+
+**YOLOv7: Trainable bag-of-freebies sets new state-of-the-art for real-time object detectors**
+
+- arxiv: [https://arxiv.org/abs/2207.02696](https://arxiv.org/abs/2207.02696)
+- github: [https://github.com/WongKinYiu/yolov7](https://github.com/WongKinYiu/yolov7)
+
 **Real-time Object Detection for Streaming Perception**
 
 - intro: CVPR 2022 oral
@@ -2091,6 +2105,13 @@ Continuation of [arXiv:1608.08021](https://arxiv.org/abs/1608.08021)
 - intro: CVPR 2021 Workshop
 - intro: UIUC & MIT-IBM Watson AI Lab & IBM T.J. Watson Research Center & NVIDIA & University of Oregon & Picsart AI Research (PAIR)
 - arxiv: [https://arxiv.org/abs/2104.14082](https://arxiv.org/abs/2104.14082)
+
+**ObjectBox: From Centers to Boxes for Anchor-Free Object Detection**
+
+- intro: ECCV 2022 Oral
+- intro: Ingenuity Labs Research Institute & Queen’s University
+- arxiv: [https://arxiv.org/abs/2207.06985](https://arxiv.org/abs/2207.06985)
+- github: [https://github.com/MohsenZand/ObjectBox](https://github.com/MohsenZand/ObjectBox)
 
 # Transformers
 
