@@ -1886,6 +1886,12 @@ with built-in awareness of semantically meaningful boundaries. "
 - intro: HUST & Tencent PCG
 - arxiv: [https://arxiv.org/abs/2106.11963](https://arxiv.org/abs/2106.11963)
 
+**Video Mask Transfiner for High-Quality Video Instance Segmentation**
+
+- intro: ECCV 2022
+- intro: ETH Z¨urich & The Hong Kong University of Science and Technology & Kuaishou Technology
+- arxiv: [https://arxiv.org/abs/2207.14012](https://arxiv.org/abs/2207.14012)
+
 # Panoptic Segmentation
 
 **Panoptic Segmentation**
@@ -2944,7 +2950,7 @@ ranked 1st place in ImageNet Scene Parsing Challenge 2016
 
 [http://davischallenge.org/challenge2017/publications.html](http://davischallenge.org/challenge2017/publications.html)
 
-# Image Matting
+# Matting
 
 **Deep Image Matting**
 
@@ -3066,6 +3072,12 @@ ranked 1st place in ImageNet Scene Parsing Challenge 2016
 - intro: The University of Sydney & JD Explore Academy
 - arxiv: [https://arxiv.org/abs/2206.05149](https://arxiv.org/abs/2206.05149)
 - github: [https://github.com/JizhiziLi/RIM](https://github.com/JizhiziLi/RIM)
+
+**One-Trimap Video Matting**
+
+- intro: ECCV 2022
+- arxiv: [https://arxiv.org/abs/2207.13353](https://arxiv.org/abs/2207.13353)
+- github: [https://github.com/Hongje/OTVM](https://github.com/Hongje/OTVM)
 
 ## trimap-free matting
 

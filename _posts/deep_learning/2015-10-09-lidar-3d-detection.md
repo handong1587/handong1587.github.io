@@ -649,6 +649,12 @@ L**iDAR Distillation: Bridging the Beam-Induced Domain Gap for 3D Object Detecti
 - intro: Toyota Research Institute
 - arxiv: [https://arxiv.org/abs/2108.06417](https://arxiv.org/abs/2108.06417)
 
+**ProposalContrast: Unsupervised Pre-training for LiDAR-based 3D Object Detection**
+
+- intro: Beijing Institute of Technology & Baidu Research & National Engineering Laboratory of Deep Learning Technology and Application & University of Macau & University of Technology Sydney
+- arxiv: [https://arxiv.org/abs/2207.12654](https://arxiv.org/abs/2207.12654)
+- github: [https://github.com/yinjunbo/ProposalContrast](https://github.com/yinjunbo/ProposalContrast)
+
 # Multi-Modal 3D Object Detection
 
 - intro:  University of Science and Technology & Harbin Institute of Technology & SenseTime Research & The Chinese University of Hong Kong & IIIS, Tsinghua University
