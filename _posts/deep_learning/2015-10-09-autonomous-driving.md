@@ -230,6 +230,20 @@ joint classification, detection and semantic segmentation via a unified architec
 - arxiv: [https://arxiv.org/abs/2207.07601](https://arxiv.org/abs/2207.07601)
 - github: [https://github.com/OpenPerceptionX/ST-P3](https://github.com/OpenPerceptionX/ST-P3)
 
+**Effective Adaptation in Multi-Task Co-Training for Unified Autonomous Driving**
+
+- intro: NeurIPS 2022
+- intro: Shenzhen Campus of Sun Yat-Sen University & Huawei Noah’s Ark Lab
+- arxiv: [https://arxiv.org/abs/2209.08953](https://arxiv.org/abs/2209.08953)
+
+**Planning-oriented Autonomous Driving**
+
+- intro: CVPR 2023 best paper
+- intro: Shanghai AI Laboratory, Wuhan University, SenseTime Research
+- project page: [https://opendrivelab.github.io/UniAD/](https://opendrivelab.github.io/UniAD/)
+- arxiv: [https://arxiv.org/abs/2212.10156](https://arxiv.org/abs/2212.10156)
+- github: [https://github.com/OpenDriveLab/UniAD](https://github.com/OpenDriveLab/UniAD)
+
 # Projects
 
 **Caffe-Autopilot: Car autopilot software that uses C++, BVLC Caffe, OpenCV, and SFML**

@@ -318,6 +318,11 @@ date: 2015-10-09
 - project page: [https://github.com/CMU-Perceptual-Computing-Lab/openpose_train](https://github.com/CMU-Perceptual-Computing-Lab/openpose_train)
 - arxiv: [https://arxiv.org/abs/1909.13423](https://arxiv.org/abs/1909.13423)
 
+**ZoomNAS: Searching for Whole-body Human Pose Estimation in the Wild**
+
+- intro: TPAMI
+- arxiv: [https://arxiv.org/abs/2208.11547](https://arxiv.org/abs/2208.11547)
+
 **NADS-Net: A Nimble Architecture for Driver and Seat Belt Detection via Convolutional Neural Networks**
 
 [https://arxiv.org/abs/1910.03695](https://arxiv.org/abs/1910.03695)
@@ -495,6 +500,12 @@ date: 2015-10-09
 - intro: Tsinghua University & CMU & MIT
 - arxiv: [https://arxiv.org/abs/2205.01271](https://arxiv.org/abs/2205.01271)
 - github: [https://github.com/mit-han-lab/litepose](https://github.com/mit-han-lab/litepose)
+
+**PPT: token-Pruned Pose Transformer for monocular and multi-view human pose estimation**
+
+- intro: University of California & Tencent Inc & Meta AI
+- arxiv: [https://arxiv.org/abs/2209.08194](https://arxiv.org/abs/2209.08194)
+- github: [https://github.com/HowieMa/PPT](https://github.com/HowieMa/PPT)
 
 # Regression-based Method
 

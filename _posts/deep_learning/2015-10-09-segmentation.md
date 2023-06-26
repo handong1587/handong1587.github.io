@@ -215,6 +215,11 @@ date: 2015-10-09
 
 [https://arxiv.org/abs/2101.01909](https://arxiv.org/abs/2101.01909)
 
+**Holistic Segmentation**
+
+- intro: Technical University of Munich & BMW Group & Johns Hopkins University & Google
+- arxiv: [https://arxiv.org/abs/2209.05407](https://arxiv.org/abs/2209.05407)
+
 # Unified Image Segmentation
 
 **K-Net: Towards Unified Image Segmentation**
@@ -2180,6 +2185,11 @@ P**art-aware Panoptic Segmentation**
 - arxiv: [https://arxiv.org/abs/2204.05538](https://arxiv.org/abs/2204.05538)
 - github: [https://github.com/xdeng7/NightLab](https://github.com/xdeng7/NightLab)
 
+**Boosting Night-time Scene Parsing with Learnable Frequency**
+
+- intro: Shanghai University & City University of Hong Kong & East China Normal University & Shanghai Jiao Tong University
+- arxiv: [https://arxiv.org/abs/2208.14241](https://arxiv.org/abs/2208.14241)
+
 # Face Parsing
 
 **Face Parsing via Recurrent Propagation**
@@ -2586,6 +2596,11 @@ ranked 1st place in ImageNet Scene Parsing Challenge 2016
 
 - intro: IEEE Transactions on Image Processing (TIP)
 - arxiv: [https://arxiv.org/abs/2207.06854](https://arxiv.org/abs/2207.06854)
+
+**RepParser: End-to-End Multiple Human Parsing with Representative Parts**
+
+- intro: Center for Future Media & University of Electronic Science and Technology of China
+- arxiv: [https://arxiv.org/abs/2208.12908](https://arxiv.org/abs/2208.12908)
 
 # Joint Detection and Segmentation
 
@@ -3079,6 +3094,12 @@ ranked 1st place in ImageNet Scene Parsing Challenge 2016
 - arxiv: [https://arxiv.org/abs/2207.13353](https://arxiv.org/abs/2207.13353)
 - github: [https://github.com/Hongje/OTVM](https://github.com/Hongje/OTVM)
 
+**TransMatting: Enhancing Transparent Objects Matting with Transformers**
+
+- intro: ECCV 2022
+- arxiv: [https://arxiv.org/abs/2208.03007](https://arxiv.org/abs/2208.03007)
+- github: [https://github.com/AceCHQ/TransMatting](https://github.com/AceCHQ/TransMatting)
+
 ## trimap-free matting
 
 **Semantic Human Matting**
@@ -3167,6 +3188,13 @@ ranked 1st place in ImageNet Scene Parsing Challenge 2016
 - intro: Baidu Inc.
 - arixv: [https://arxiv.org/abs/2204.09433](https://arxiv.org/abs/2204.09433)
 - github: [https://github.com/PaddlePaddle/PaddleSeg](https://github.com/PaddlePaddle/PaddleSeg)
+
+**VMFormer: End-to-End Video Matting with Transformer**
+
+- project page: [https://chrisjuniorli.github.io/project/VMFormer/](https://chrisjuniorli.github.io/project/VMFormer/)
+- intro: University of Oregon & UIUC & BJTU & Picsart AI Research (PAIR)
+- arxiv: [https://arxiv.org/abs/2208.12801](https://arxiv.org/abs/2208.12801)
+- gihtub: [https://github.com/SHI-Labs/VMFormer](https://github.com/SHI-Labs/VMFormer)
 
 # 3D Segmentation
 

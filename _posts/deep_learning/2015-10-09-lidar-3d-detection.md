@@ -160,6 +160,10 @@ date: 2015-10-09
 - arxiv: [https://arxiv.org/abs/2008.08766](https://arxiv.org/abs/2008.08766)
 - github: [https://github.com/AutoVision-cloud/Deformable-PV-RCNN](https://github.com/AutoVision-cloud/Deformable-PV-RCNN)
 
+**PV-RCNN++: Semantical Point-Voxel Feature Interaction for 3D Object Detection**
+
+[https://arxiv.org/abs/2208.13414](https://arxiv.org/abs/2208.13414)
+
 **3DSSD: Point-based 3D Single Stage Object Detector**
 
 - intro: CVPR 2020 Oral
@@ -655,6 +659,11 @@ L**iDAR Distillation: Bridging the Beam-Induced Domain Gap for 3D Object Detecti
 - arxiv: [https://arxiv.org/abs/2207.12654](https://arxiv.org/abs/2207.12654)
 - github: [https://github.com/yinjunbo/ProposalContrast](https://github.com/yinjunbo/ProposalContrast)
 
+**TransPillars: Coarse-to-Fine Aggregation for Multi-Frame 3D Object Detection**
+
+- intro: Nanyang Technological University & Sensetime Research
+- arxiv: [https://arxiv.org/abs/2208.03141](https://arxiv.org/abs/2208.03141)
+
 # Multi-Modal 3D Object Detection
 
 - intro:  University of Science and Technology & Harbin Institute of Technology & SenseTime Research & The Chinese University of Hong Kong & IIIS, Tsinghua University
@@ -691,6 +700,18 @@ L**iDAR Distillation: Bridging the Beam-Induced Domain Gap for 3D Object Detecti
 
 - intro: IROS 2021
 - arxiv: [https://arxiv.org/abs/2108.04602](https://arxiv.org/abs/2108.04602)
+
+**PTT: Point-Track-Transformer Module for 3D Single Object Tracking in Point Clouds**
+
+- intro: IROS 2021
+- arxiv: [https://arxiv.org/abs/2108.06455](https://arxiv.org/abs/2108.06455)
+- github: [https://github.com/shanjiayao/PTT](https://github.com/shanjiayao/PTT)
+
+**Real-time 3D Single Object Tracking with Transformer**
+
+- intro: IEEE Transactions on Multimedia
+- arxiv: [https://arxiv.org/abs/2209.00860](https://arxiv.org/abs/2209.00860)
+- github: [https://github.com/shanjiayao/PTT](https://github.com/shanjiayao/PTT)
 
 # 3D MOT
 
@@ -733,6 +754,12 @@ L**iDAR Distillation: Bridging the Beam-Induced Domain Gap for 3D Object Detecti
 - intro: ICCV 2021
 - intro: QCraft & Johns Hopkins University
 - arxiv: [https://arxiv.org/abs/2108.10312](https://arxiv.org/abs/2108.10312)
+
+**CAMO-MOT: Combined Appearance-Motion Optimization for 3D Multi-Object Tracking with Camera-LiDAR Fusion**
+
+- intro: Based on this work, we achieved 1st place on the nuScenes tracking leaderboard
+- intro: Tsinghua University & Mogo Auto
+- arxiv: [https://arxiv.org/abs/2209.02540](https://arxiv.org/abs/2209.02540)
 
 # Transformer
 

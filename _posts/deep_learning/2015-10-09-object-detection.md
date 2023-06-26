@@ -2405,6 +2405,11 @@ Continuation of [arXiv:1608.08021](https://arxiv.org/abs/1608.08021)
 - arxiv: [https://arxiv.org/abs/2203.05469](https://arxiv.org/abs/2203.05469)
 - github: [https://github.com/ChenhongyiYang/PGD](https://github.com/ChenhongyiYang/PGD)
 
+**Task-Balanced Distillation for Object Detection**
+
+- intro: Zhejiang University & SenseTime Research
+- arxiv: [https://arxiv.org/abs/2208.03006](https://arxiv.org/abs/2208.03006)
+
 # Rotated Object Detection
 
 **Rethinking Rotated Object Detection with Gaussian Wasserstein Distance Loss**
